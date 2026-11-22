@@ -1,0 +1,1094 @@
+{
+	"api": "https://web-news.gryphline.com/api/bulletin?lang=en-us&code=arknights_endfield_official",
+	"read": "2026-11-22",
+	"notices": [
+		{
+			"cid": "7011",
+			"title": "Arknights: Endfield [Meeting You in the World o'Shrooms] Version DEV Comm",
+			"date": "2026-11-22",
+			"tab": "news"
+		},
+		{
+			"cid": "3836",
+			"title": "New smart features in Team Picks and Build Guide",
+			"date": "2026-11-22",
+			"tab": "news"
+		},
+		{
+			"cid": "9569",
+			"title": "[Meeting You in the World o'Shrooms] New Version Guide Page Release Details",
+			"date": "2026-11-21",
+			"tab": "notices"
+		},
+		{
+			"cid": "9568",
+			"title": "[11/19/2026] Account Suspension Notice",
+			"date": "2026-11-19",
+			"tab": "notices"
+		},
+		{
+			"cid": "5205",
+			"title": "Special Thanks | A Gift of Gratitude for Endministrator",
+			"date": "2026-11-19",
+			"tab": "notices"
+		},
+		{
+			"cid": "7012",
+			"title": "[The Hearth Fire Beckons the Starry Flow] Chartered Headhunting",
+			"date": "2026-11-04",
+			"tab": "notices"
+		},
+		{
+			"cid": "6178",
+			"title": "[Moongleam Issue] LTO Details",
+			"date": "2026-11-04",
+			"tab": "notices"
+		},
+		{
+			"cid": "6179",
+			"title": "[Ancestral Spring Flows Anew] RE-Factor Headhunting #1 and [Tender Sprig Issue] RE-Factor Issue #1 Available",
+			"date": "2026-10-28",
+			"tab": "notices"
+		},
+		{
+			"cid": "5206",
+			"title": "Arknights: Endfield Steam Client Account Linking Guide",
+			"date": "2026-10-17",
+			"tab": "notices"
+		},
+		{
+			"cid": "0743",
+			"title": "Arknights: Endfield WhatsApp Account Linking Reward Feature Now Available!",
+			"date": "2026-10-16",
+			"tab": "events"
+		},
+		{
+			"cid": "9560",
+			"title": "[Sanctuary of Ink] Version Update Notes",
+			"date": "2026-10-15",
+			"tab": "notices"
+		},
+		{
+			"cid": "4489",
+			"title": "[Rejuvenation] Chartered Headhunting",
+			"date": "2026-10-14",
+			"tab": "notices"
+		},
+		{
+			"cid": "4488",
+			"title": "Official Comic [Echoes of the Beginning: Manor's Origin] Is Live",
+			"date": "2026-10-14",
+			"tab": "news"
+		},
+		{
+			"cid": "3837",
+			"title": "Arknights: Endfield Is Now Officially Available on Steam!",
+			"date": "2026-10-14",
+			"tab": "events"
+		},
+		{
+			"cid": "2652",
+			"title": "[Seal of Jade Issue] LTO Details",
+			"date": "2026-10-14",
+			"tab": "notices"
+		},
+		{
+			"cid": "0744",
+			"title": "[Sanctuary of Ink] Version Pre-Download & Update Notice",
+			"date": "2026-10-13",
+			"tab": "notices"
+		},
+		{
+			"cid": "8995",
+			"title": "Discord Game Stats Widget Updates",
+			"date": "2026-10-08",
+			"tab": "news"
+		},
+		{
+			"cid": "7014",
+			"title": "Arknights: Endfield [Sanctuary of Ink] Version DEV Comm",
+			"date": "2026-10-07",
+			"tab": "news"
+		},
+		{
+			"cid": "3838",
+			"title": "Steam Wishlist Milestone Reached: 300,000 and Counting!",
+			"date": "2026-10-07",
+			"tab": "notices"
+		},
+		{
+			"cid": "5207",
+			"title": "[Sanctuary of Ink] New Version Guide Page Release Details",
+			"date": "2026-10-06",
+			"tab": "notices"
+		},
+		{
+			"cid": "7013",
+			"title": "[OrbiPom! MERGE!] Fun & Games Event Details",
+			"date": "2026-09-30",
+			"tab": "notices"
+		},
+		{
+			"cid": "1326",
+			"title": "Dense Forest Slumbers Beneath the Snow, Echoing Bells Awaken an Old City — [Dreamscape of Wind and Snow] Development Insights",
+			"date": "2026-09-29",
+			"tab": "notices"
+		},
+		{
+			"cid": "3839",
+			"title": "[Resplendent Spectrum] RE-Factor Headhunting #1 and [Tag Artist Issue] RE-Factor Issue #1 Open",
+			"date": "2026-09-23",
+			"tab": "notices"
+		},
+		{
+			"cid": "9562",
+			"title": "Arknights: Endfield Game Tools Updated",
+			"date": "2026-09-22",
+			"tab": "news"
+		},
+		{
+			"cid": "5208",
+			"title": "[Dreamscape of Wind and Snow] Version Update Notes",
+			"date": "2026-09-02",
+			"tab": "notices"
+		},
+		{
+			"cid": "6172",
+			"title": "[Winter Hunt] Chartered Headhunting",
+			"date": "2026-09-01",
+			"tab": "notices"
+		},
+		{
+			"cid": "4480",
+			"title": "[Deep Cold Issue] LTO Details",
+			"date": "2026-09-01",
+			"tab": "notices"
+		},
+		{
+			"cid": "2653",
+			"title": "Discord Game Stats Widget Updates",
+			"date": "2026-09-01",
+			"tab": "news"
+		},
+		{
+			"cid": "5209",
+			"title": "[Dreamscape of Wind and Snow] Version Pre-Download & Update Notice",
+			"date": "2026-08-31",
+			"tab": "notices"
+		},
+		{
+			"cid": "2654",
+			"title": "Steam [Pioneer Test] Recruitment Open!",
+			"date": "2026-08-26",
+			"tab": "notices"
+		},
+		{
+			"cid": "4481",
+			"title": "Arknights: Endfield [Dreamscape of Wind and Snow] Version DEV Comm",
+			"date": "2026-08-22",
+			"tab": "news"
+		},
+		{
+			"cid": "4482",
+			"title": "Wishlist Milestone Event",
+			"date": "2026-08-13",
+			"tab": "events"
+		},
+		{
+			"cid": "1329",
+			"title": "WhatsApp & Messenger Subscription Event Now Live!",
+			"date": "2026-08-10",
+			"tab": "events"
+		},
+		{
+			"cid": "9564",
+			"title": "[Bedazzled Issue] LTO Details",
+			"date": "2026-08-08",
+			"tab": "notices"
+		},
+		{
+			"cid": "3831",
+			"title": "[Good Morning from Your Dawnstar] Chartered Headhunting",
+			"date": "2026-08-08",
+			"tab": "notices"
+		},
+		{
+			"cid": "2655",
+			"title": "Arknights: Endfield Game Tools Updated for the New Version!",
+			"date": "2026-07-23",
+			"tab": "news"
+		},
+		{
+			"cid": "5200",
+			"title": "[Homecoming] Version Update Notes",
+			"date": "2026-07-16",
+			"tab": "notices"
+		},
+		{
+			"cid": "3832",
+			"title": "[Protocol Invitation: The Return] Web Event Details",
+			"date": "2026-07-16",
+			"tab": "events"
+		},
+		{
+			"cid": "8999",
+			"title": "Official Comic [Echoes of the Beginning: Bloom Amid Ruin] Is Live",
+			"date": "2026-07-15",
+			"tab": "news"
+		},
+		{
+			"cid": "6174",
+			"title": "[Military Grade Issue] LTO Details",
+			"date": "2026-07-15",
+			"tab": "notices"
+		},
+		{
+			"cid": "2656",
+			"title": "[North Yearns the Rift Vigile] Chartered Headhunting",
+			"date": "2026-07-15",
+			"tab": "notices"
+		},
+		{
+			"cid": "5201",
+			"title": "[Homecoming] Version Pre-Download & Update Notice",
+			"date": "2026-07-14",
+			"tab": "notices"
+		},
+		{
+			"cid": "7017",
+			"title": "Arknights: Endfield [Homecoming] Core Chapter Version DEV Comm",
+			"date": "2026-07-11",
+			"tab": "news"
+		},
+		{
+			"cid": "0748",
+			"title": "GRYPHLINK Real-Time Game Data Panel Now Live!",
+			"date": "2026-07-10",
+			"tab": "notices"
+		},
+		{
+			"cid": "5202",
+			"title": "🎁 Discord Camille First Impressions Sharing Event Opens",
+			"date": "2026-06-27",
+			"tab": "notices"
+		},
+		{
+			"cid": "1320",
+			"title": "Discord Game Stats Widget Is Now Live!",
+			"date": "2026-06-26",
+			"tab": "news"
+		},
+		{
+			"cid": "6175",
+			"title": "[Expunger of Sin] Chartered Headhunting",
+			"date": "2026-06-25",
+			"tab": "notices"
+		},
+		{
+			"cid": "4484",
+			"title": "[Contingency Contract: Re-Ignition Experimental Operation] Content Update Notes",
+			"date": "2026-06-25",
+			"tab": "notices"
+		},
+		{
+			"cid": "1321",
+			"title": "[Crimson Hued Issue] LTO Details",
+			"date": "2026-06-25",
+			"tab": "notices"
+		},
+		{
+			"cid": "9566",
+			"title": "🎁 [Contract Re-Ignition: Shared Insights] Discord Share & Win Event Now Open!",
+			"date": "2026-06-20",
+			"tab": "notices"
+		},
+		{
+			"cid": "2657",
+			"title": "[Contingency Contract: Re-Ignition Experimental Operation] Release Details",
+			"date": "2026-06-18",
+			"tab": "notices"
+		},
+		{
+			"cid": "8903",
+			"title": "🎁 Discord Mi Fu First Impressions Sharing Event Opens",
+			"date": "2026-06-06",
+			"tab": "notices"
+		},
+		{
+			"cid": "0758",
+			"title": "[Sketches of Lost Heirlooms] Version Update Notes",
+			"date": "2026-06-05",
+			"tab": "notices"
+		},
+		{
+			"cid": "8904",
+			"title": "[Sketches of Lost Heirlooms] Version Pre-Download & Update Notice",
+			"date": "2026-06-03",
+			"tab": "notices"
+		},
+		{
+			"cid": "4492",
+			"title": "[Scarlet Knot Issue] LTO Details",
+			"date": "2026-06-03",
+			"tab": "notices"
+		},
+		{
+			"cid": "0759",
+			"title": "[Fists of No Regrets] Chartered Headhunting",
+			"date": "2026-06-03",
+			"tab": "notices"
+		},
+		{
+			"cid": "3840",
+			"title": "Talos-II Photographer Special Prize Winners Announced!",
+			"date": "2026-06-02",
+			"tab": "events"
+		},
+		{
+			"cid": "1335",
+			"title": "Talos-II Photographer",
+			"date": "2026-05-26",
+			"tab": "events"
+		},
+		{
+			"cid": "9577",
+			"title": "Arknights: Endfield [Sketches of Lost Heirlooms] Version DEV Comm",
+			"date": "2026-05-23",
+			"tab": "news"
+		},
+		{
+			"cid": "6186",
+			"title": "Update on PayPal Service Restoration in Certain Regions",
+			"date": "2026-05-23",
+			"tab": "notices"
+		},
+		{
+			"cid": "2668",
+			"title": "[Party Together] - [Gift Box Castell] Fest Event Details",
+			"date": "2026-05-14",
+			"tab": "events"
+		},
+		{
+			"cid": "7024",
+			"title": "[Fest of Brilliance] Special Headhunting Details",
+			"date": "2026-05-13",
+			"tab": "notices"
+		},
+		{
+			"cid": "5210",
+			"title": "[Swift Walker Issue] LTO Details",
+			"date": "2026-05-13",
+			"tab": "notices"
+		},
+		{
+			"cid": "2669",
+			"title": "[Smelting Fire Issue] LTO Details",
+			"date": "2026-05-13",
+			"tab": "notices"
+		},
+		{
+			"cid": "7023",
+			"title": "Arknights: Endfield x Happy Lemon collaboration coming soon",
+			"date": "2026-05-11",
+			"tab": "news"
+		},
+		{
+			"cid": "8905",
+			"title": "[Party Together] - [Pastry Tower] Fest Event Details",
+			"date": "2026-04-30",
+			"tab": "events"
+		},
+		{
+			"cid": "5211",
+			"title": "🎁 Prize Event | AIC Factory Blueprint Showcase",
+			"date": "2026-04-29",
+			"tab": "notices"
+		},
+		{
+			"cid": "1336",
+			"title": "Arknights: Endfield × M.RAGE Apparel Collaboration Debuts at LVL UP EXPO 2026",
+			"date": "2026-04-25",
+			"tab": "news"
+		},
+		{
+			"cid": "6187",
+			"title": "Arknights: Endfield Game Tools Updated for the New Version!",
+			"date": "2026-04-24",
+			"tab": "notices"
+		},
+		{
+			"cid": "9578",
+			"title": "Arknights: Endfield Discord Account Link Page Now Live!",
+			"date": "2026-04-22",
+			"tab": "news"
+		},
+		{
+			"cid": "0751",
+			"title": "[At the Wake of Spring] Version Update Notes",
+			"date": "2026-04-17",
+			"tab": "notices"
+		},
+		{
+			"cid": "9579",
+			"title": "[Thunder of Renewal] Chartered Headhunting",
+			"date": "2026-04-16",
+			"tab": "notices"
+		},
+		{
+			"cid": "5212",
+			"title": "[Drifting Raft Issue] LTO Details",
+			"date": "2026-04-16",
+			"tab": "notices"
+		},
+		{
+			"cid": "4493",
+			"title": "[Pristine Monthly Pass Tribute] Tribute Event",
+			"date": "2026-04-16",
+			"tab": "events"
+		},
+		{
+			"cid": "0750",
+			"title": "Official Comic [To Bloom] Now Released",
+			"date": "2026-04-15",
+			"tab": "news"
+		},
+		{
+			"cid": "7025",
+			"title": "[At the Wake of Spring] Version Update & Maintenance Preview",
+			"date": "2026-04-13",
+			"tab": "notices"
+		},
+		{
+			"cid": "4494",
+			"title": "Arknights: Endfield [At the Wake of Spring] Core Chapter Version DEV Comm",
+			"date": "2026-04-13",
+			"tab": "news"
+		},
+		{
+			"cid": "8906",
+			"title": "Arknights: Endfield Now on GeForce NOW – FAQ",
+			"date": "2026-04-03",
+			"tab": "notices"
+		},
+		{
+			"cid": "1337",
+			"title": "[Journey of the Long-Ear] Celebration Event Details",
+			"date": "2026-04-01",
+			"tab": "events"
+		},
+		{
+			"cid": "3843",
+			"title": "[Wolf Pearl] Chartered Headhunting Details",
+			"date": "2026-03-28",
+			"tab": "notices"
+		},
+		{
+			"cid": "2660",
+			"title": "[Scarlet Pearl Issue] LTO Details",
+			"date": "2026-03-28",
+			"tab": "notices"
+		},
+		{
+			"cid": "0752",
+			"title": "Arknights: Endfield x Beard Papa's collaboration coming soon",
+			"date": "2026-03-25",
+			"tab": "news"
+		},
+		{
+			"cid": "3844",
+			"title": "Notice Regarding Game Issues Caused by NVIDIA Driver Updates",
+			"date": "2026-03-17",
+			"tab": "notices"
+		},
+		{
+			"cid": "8907",
+			"title": "[Old Deep Water Dies, by Rising Tide It is Denied] Version Update Notes",
+			"date": "2026-03-12",
+			"tab": "notices"
+		},
+		{
+			"cid": "7026",
+			"title": "Security Risk Warning for Using Unofficial Tools",
+			"date": "2026-03-12",
+			"tab": "notices"
+		},
+		{
+			"cid": "5213",
+			"title": "[Budding Anew Issue] LTO Details",
+			"date": "2026-03-11",
+			"tab": "notices"
+		},
+		{
+			"cid": "1338",
+			"title": "[River's Daughter] Chartered Headhunting Details",
+			"date": "2026-03-11",
+			"tab": "notices"
+		},
+		{
+			"cid": "9570",
+			"title": "[Old Deep Water Dies, by Rising Tide It is Denied] Version Update & Maintenance Preview",
+			"date": "2026-03-07",
+			"tab": "notices"
+		},
+		{
+			"cid": "1339",
+			"title": "[Qingbo Rising] Limited-Time Sign-In Event Details",
+			"date": "2026-03-04",
+			"tab": "notices"
+		},
+		{
+			"cid": "2662",
+			"title": "Arknights: Endfield [Old Deep Water Dies, by Rising Tide It is Denied] DEV Comm",
+			"date": "2026-03-02",
+			"tab": "news"
+		},
+		{
+			"cid": "9572",
+			"title": "Release Celebration [Hues of Passion] Details",
+			"date": "2026-02-23",
+			"tab": "notices"
+		},
+		{
+			"cid": "8909",
+			"title": "[Graffiti Issue] LTO Details",
+			"date": "2026-02-23",
+			"tab": "notices"
+		},
+		{
+			"cid": "0753",
+			"title": "Official Comic [The Promise] Now Released",
+			"date": "2026-02-21",
+			"tab": "news"
+		},
+		{
+			"cid": "6180",
+			"title": "[Grand Blessings for the Spring] Event Series Details",
+			"date": "2026-02-15",
+			"tab": "events"
+		},
+		{
+			"cid": "0754",
+			"title": "[Express Delivery Issue] LTO Details",
+			"date": "2026-02-10",
+			"tab": "notices"
+		},
+		{
+			"cid": "6181",
+			"title": "Notice Regarding Abnormal Game Performance Caused by NVIDIA App Optimization",
+			"date": "2026-02-07",
+			"tab": "notices"
+		},
+		{
+			"cid": "7028",
+			"title": "Release Celebration [The Floaty Messenger] Chartered Headhunting Details",
+			"date": "2026-02-06",
+			"tab": "notices"
+		},
+		{
+			"cid": "5215",
+			"title": "The [Over the Frontier] themed gallery is now live",
+			"date": "2026-02-05",
+			"tab": "notices"
+		},
+		{
+			"cid": "3846",
+			"title": "Arknights: Endfield Zeroth Directive: DEV Comm",
+			"date": "2026-02-04",
+			"tab": "news"
+		},
+		{
+			"cid": "4497",
+			"title": "Arknights: Endfield Fan Content and Streaming Guidelines",
+			"date": "2026-02-03",
+			"tab": "notices"
+		},
+		{
+			"cid": "7029",
+			"title": "Follow the Arknights: Endfield official social media accounts to earn up to 180 Oroberyls",
+			"date": "2026-01-22",
+			"tab": "news"
+		},
+		{
+			"cid": "0755",
+			"title": "Arknights: Endfield Game Tools Guide",
+			"date": "2026-01-22",
+			"tab": "notices"
+		},
+		{
+			"cid": "5216",
+			"title": "[Smelting Forge Issue] Limited-Time Offer Details",
+			"date": "2026-01-21",
+			"tab": "notices"
+		},
+		{
+			"cid": "3847",
+			"title": "[Scars of the Forge] Chartered Headhunting",
+			"date": "2026-01-21",
+			"tab": "notices"
+		},
+		{
+			"cid": "9574",
+			"title": "Arknights: Endfield Pre-Download Now Available",
+			"date": "2026-01-20",
+			"tab": "notices"
+		},
+		{
+			"cid": "9573",
+			"title": "Automated Industry Complex & Blueprint Usage Policy",
+			"date": "2026-01-20",
+			"tab": "notices"
+		},
+		{
+			"cid": "8900",
+			"title": "Arknights: Endfield Fair Play Statement",
+			"date": "2026-01-20",
+			"tab": "notices"
+		},
+		{
+			"cid": "1331",
+			"title": "Arknights: Endfield Controller Support & FAQ",
+			"date": "2026-01-20",
+			"tab": "notices"
+		},
+		{
+			"cid": "1332",
+			"title": "PSN Account Registration, Login & Usage FAQs",
+			"date": "2026-01-19",
+			"tab": "notices"
+		},
+		{
+			"cid": "4499",
+			"title": "Arknights: Endfield [Official Release Preview] DEV Comm",
+			"date": "2026-01-17",
+			"tab": "news"
+		},
+		{
+			"cid": "3848",
+			"title": "Beta Test II Has Officially Ended",
+			"date": "2025-12-29",
+			"tab": "notices"
+		},
+		{
+			"cid": "7020",
+			"title": "PlayStation®5 Technical Test Has Officially Ended",
+			"date": "2025-12-26",
+			"tab": "notices"
+		},
+		{
+			"cid": "6184",
+			"title": "Arknights: Endfield PlayStation®5 Technical Test Now Live!",
+			"date": "2025-12-12",
+			"tab": "notices"
+		},
+		{
+			"cid": "9575",
+			"title": "Beta Test II Ending Notice",
+			"date": "2025-12-08",
+			"tab": "notices"
+		},
+		{
+			"cid": "7021",
+			"title": "Arknights: Endfield Beta Test II: DEV Comm//03",
+			"date": "2025-12-08",
+			"tab": "news"
+		},
+		{
+			"cid": "5218",
+			"title": "Beta Test II Test Instructions",
+			"date": "2025-11-28",
+			"tab": "notices"
+		},
+		{
+			"cid": "5222",
+			"title": "Arknights: Endfield Beta Test II Pre-Download Now Available",
+			"date": "2025-11-26",
+			"tab": "notices"
+		},
+		{
+			"cid": "8919",
+			"title": "Arknights: Endfield PlayStation®5 Technical Test Access Distribution Now Underway",
+			"date": "2025-11-24",
+			"tab": "notices"
+		},
+		{
+			"cid": "7034",
+			"title": "Arknights: Endfield Beta Test II Access Distribution Now Underway",
+			"date": "2025-11-24",
+			"tab": "notices"
+		},
+		{
+			"cid": "0767",
+			"title": "Recruitment Closing Soon for Arknights: Endfield Beta Test II",
+			"date": "2025-11-12",
+			"tab": "notices"
+		},
+		{
+			"cid": "1340",
+			"title": "Arknights: Endfield Beta Test II: DEV Comm//02",
+			"date": "2025-11-01",
+			"tab": "news"
+		},
+		{
+			"cid": "4404",
+			"title": "Recruitment Now Open for Arknights: Endfield PlayStation®5 Technical Test",
+			"date": "2025-10-31",
+			"tab": "notices"
+		},
+		{
+			"cid": "3859",
+			"title": "Recruitment Now Open for Arknights: Endfield Beta Test II",
+			"date": "2025-10-31",
+			"tab": "notices"
+		},
+		{
+			"cid": "2677",
+			"title": "Arknights: Endfield Online Event Rules",
+			"date": "2025-10-27",
+			"tab": "notices"
+		},
+		{
+			"cid": "9582",
+			"title": "Beta Test: DEV Comm//01",
+			"date": "2025-02-25",
+			"tab": "notices"
+		},
+		{
+			"cid": "5229",
+			"title": "Beta Test Officially Ended",
+			"date": "2025-02-17",
+			"tab": "notices"
+		},
+		{
+			"cid": "7031",
+			"title": "Beta Test Notice",
+			"date": "2025-01-17",
+			"tab": "notices"
+		},
+		{
+			"cid": "6198",
+			"title": "Beta Test Access Distribution Starts",
+			"date": "2025-01-09",
+			"tab": "notices"
+		},
+		{
+			"cid": "1347",
+			"title": "Beta Test Fair Play Statement",
+			"date": "2025-01-09",
+			"tab": "notices"
+		},
+		{
+			"cid": "7032",
+			"title": "Arknights: Endfield Beta Test Sign-up Now Open",
+			"date": "2024-12-14",
+			"tab": "notices"
+		},
+		{
+			"cid": "4400",
+			"title": "Beta Test FAQ",
+			"date": "2024-12-14",
+			"tab": "notices"
+		},
+		{
+			"cid": "1348",
+			"title": "Arknights: Endfield Technical Test Server Closure Notice",
+			"date": "2024-01-19",
+			"tab": "notices"
+		},
+		{
+			"cid": "9583",
+			"title": "Arknights: Endfield Technical Test Launch Announcement",
+			"date": "2024-01-11",
+			"tab": "notices"
+		},
+		{
+			"cid": "5220",
+			"title": "Technical Test Access Distribution Completed",
+			"date": "2024-01-05",
+			"tab": "notices"
+		},
+		{
+			"cid": "2675",
+			"title": "Arknights: Endfield Technical Test Video and Live-stream Content Creator Program: Prelude",
+			"date": "2023-12-11",
+			"tab": "news"
+		},
+		{
+			"cid": "3857",
+			"title": "Arknights: Endfield Technical Test Sign-up Now Open",
+			"date": "2023-12-08",
+			"tab": "notices"
+		},
+		{
+			"cid": "0766",
+			"title": "Arknights: Endfield Technical Test Trailer",
+			"date": "2023-12-08",
+			"tab": "news"
+		}
+	],
+	"cited": {
+		"2652": {
+			"title": "[Seal of Jade Issue] LTO Details",
+			"sha256": "c6c01cda270f6baa927b1e25862d34e848a22960cbbebaae481b154e164dea01",
+			"characters": 1714
+		},
+		"3837": {
+			"title": "Arknights: Endfield Is Now Officially Available on Steam!",
+			"sha256": "d6a6ee43e5db70c20b66ee9a2809c2254bcfc90dbbfa8a3fbf03b4c4462b313c",
+			"characters": 7179
+		},
+		"4489": {
+			"title": "[Rejuvenation] Chartered Headhunting",
+			"sha256": "cfaa6054297c94e717f145ac0ebcfe2f225b7adc72579a9d4ace70f516cca050",
+			"characters": 4402
+		},
+		"5206": {
+			"title": "Arknights: Endfield Steam Client Account Linking Guide",
+			"sha256": "9b80067a992a1f0ee933d36c466cb2f025de94b5335a015e92e377b42e4b2ee5",
+			"characters": 2851
+		},
+		"6178": {
+			"title": "[Moongleam Issue] LTO Details",
+			"sha256": "8dc078511757dfbf552d1fc464d20afc7118fa40f29cf9eabbdeed689422ceca",
+			"characters": 1779
+		},
+		"6179": {
+			"title": "[Ancestral Spring Flows Anew] RE-Factor Headhunting #1 and [Tender Sprig Issue] RE-Factor Issue #1 Available",
+			"sha256": "113469ddc30bdef1c00290d786800c37c5d75b74fce5d00a70886e9b357fea69",
+			"characters": 3252
+		},
+		"7012": {
+			"title": "[The Hearth Fire Beckons the Starry Flow] Chartered Headhunting",
+			"sha256": "0bbfce326d53bbae95681277873ee5db04a3bcc49e22da5afb41412aef57d0d3",
+			"characters": 4659
+		},
+		"9560": {
+			"title": "[Sanctuary of Ink] Version Update Notes",
+			"sha256": "19e814b21ea5441146b1ed62765dac9e5b459bbc18543bcbd609a80d79b5fb80",
+			"characters": 23450
+		}
+	},
+	"operators": [
+		{
+			"key": "sweetpie",
+			"name": "Kay",
+			"rarity": "6",
+			"icons": "vanguard nature"
+		},
+		{
+			"key": "mimino",
+			"name": "Mimino",
+			"rarity": "5",
+			"icons": "support physic"
+		},
+		{
+			"key": "endministrator2",
+			"name": "Endministrator",
+			"rarity": "6",
+			"icons": "guard physic"
+		},
+		{
+			"key": "endministrator1",
+			"name": "Endministrator",
+			"rarity": "6",
+			"icons": "guard physic"
+		},
+		{
+			"key": "perlica",
+			"name": "Perlica",
+			"rarity": "5",
+			"icons": "caster electric"
+		},
+		{
+			"key": "chen",
+			"name": "Chen Qianyu",
+			"rarity": "5",
+			"icons": "guard physic"
+		},
+		{
+			"key": "jsspsi",
+			"name": "Si",
+			"rarity": "6",
+			"icons": "support ice"
+		},
+		{
+			"key": "minghe",
+			"name": "Argent Flow",
+			"rarity": "6",
+			"icons": "guard electric"
+		},
+		{
+			"key": "typhoea",
+			"name": "Typhoeus",
+			"rarity": "6",
+			"icons": "assault nature"
+		},
+		{
+			"key": "purrche",
+			"name": "Purrchena",
+			"rarity": "5",
+			"icons": "shielder physic"
+		},
+		{
+			"key": "lizhiyan",
+			"name": "Arcane",
+			"rarity": "6",
+			"icons": "caster nature"
+		},
+		{
+			"key": "liino",
+			"name": "Liino",
+			"rarity": "6",
+			"icons": "support electric"
+		},
+		{
+			"key": "mifu",
+			"name": "Mi Fu",
+			"rarity": "6",
+			"icons": "guard physic"
+		},
+		{
+			"key": "camille",
+			"name": "Camille",
+			"rarity": "6",
+			"icons": "vanguard fire"
+		},
+		{
+			"key": "zhuangfy",
+			"name": "Zhuang Fangyi",
+			"rarity": "6",
+			"icons": "assault electric"
+		},
+		{
+			"key": "tangtang",
+			"name": "Tangtang",
+			"rarity": "6",
+			"icons": "caster ice"
+		},
+		{
+			"key": "rossi",
+			"name": "Rossi",
+			"rarity": "6",
+			"icons": "guard physic"
+		},
+		{
+			"key": "laevatain",
+			"name": "Laevatain",
+			"rarity": "6",
+			"icons": "assault fire"
+		},
+		{
+			"key": "yvonne",
+			"name": "Yvonne",
+			"rarity": "6",
+			"icons": "assault ice"
+		},
+		{
+			"key": "gilberta",
+			"name": "Gilberta",
+			"rarity": "6",
+			"icons": "support nature"
+		},
+		{
+			"key": "ardelia",
+			"name": "Ardelia",
+			"rarity": "6",
+			"icons": "support nature"
+		},
+		{
+			"key": "ember",
+			"name": "Ember",
+			"rarity": "6",
+			"icons": "shielder fire"
+		},
+		{
+			"key": "lastrite",
+			"name": "Last Rite",
+			"rarity": "6",
+			"icons": "assault ice"
+		},
+		{
+			"key": "lifeng",
+			"name": "Lifeng",
+			"rarity": "6",
+			"icons": "guard physic"
+		},
+		{
+			"key": "pogranichnik",
+			"name": "Pogranichnik",
+			"rarity": "6",
+			"icons": "vanguard physic"
+		},
+		{
+			"key": "alesh",
+			"name": "Alesh",
+			"rarity": "5",
+			"icons": "vanguard ice"
+		},
+		{
+			"key": "arclight",
+			"name": "Arclight",
+			"rarity": "5",
+			"icons": "vanguard electric"
+		},
+		{
+			"key": "avywenna",
+			"name": "Avywenna",
+			"rarity": "5",
+			"icons": "assault electric"
+		},
+		{
+			"key": "dapan",
+			"name": "Da Pan",
+			"rarity": "5",
+			"icons": "assault physic"
+		},
+		{
+			"key": "snowshine",
+			"name": "Snowshine",
+			"rarity": "5",
+			"icons": "shielder ice"
+		},
+		{
+			"key": "wulfgard",
+			"name": "Wulfgard",
+			"rarity": "5",
+			"icons": "caster fire"
+		},
+		{
+			"key": "xaihi",
+			"name": "Xaihi",
+			"rarity": "5",
+			"icons": "support ice"
+		},
+		{
+			"key": "akekuri",
+			"name": "Akekuri",
+			"rarity": "4",
+			"icons": "vanguard fire"
+		},
+		{
+			"key": "antal",
+			"name": "Antal",
+			"rarity": "4",
+			"icons": "support electric"
+		},
+		{
+			"key": "catcher",
+			"name": "Catcher",
+			"rarity": "4",
+			"icons": "shielder physic"
+		},
+		{
+			"key": "estella",
+			"name": "Estella",
+			"rarity": "4",
+			"icons": "guard ice"
+		},
+		{
+			"key": "fluorite",
+			"name": "Fluorite",
+			"rarity": "4",
+			"icons": "caster nature"
+		}
+	]
+}

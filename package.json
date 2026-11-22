@@ -9,7 +9,8 @@
     "preview": "node scripts/preview.mjs",
     "astro": "astro",
     "check": "node scripts/check-dist.mjs",
-    "verify": "python3 -I pipeline/check_prose.py && astro build && node scripts/check-dist.mjs"
+    "verify": "python3 -I pipeline/check_prose.py && astro build && node scripts/check-dist.mjs",
+    "upstream": "node scripts/upstream.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-satteri": "0.4.10",

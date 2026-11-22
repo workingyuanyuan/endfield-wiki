@@ -15,6 +15,7 @@ State on 2026-11-22: the owner approved the look on the sample pages; all pages 
 - Look: taken from the official site (white ground, grey panels, near-black ink, signal yellow `#fffa00`, square corners, small spaced labels, a double slash before section names). No wordmark, image or font of the publisher. Motion (owner's request, 2026-11-22, in place of the earlier "no motion"; the owner approved the motion and the favicon from demo videos the same day): modelled on the official site and the login screen, measured that day: 0.2–0.3 s responses to the pointer, a flicker-in for the title and section headings, a yellow line that draws once under the header and along each section rule, a wipe for the answer and for tables, and a cross-document view transition that keeps the header and sidebar still. Each plays once; nothing loops; images do not move; all of it sits inside `prefers-reduced-motion: no-preference`, and a block waits unseen for its entrance only while the script runs (on screen, not in print). The code is the motion section at the end of `src/styles/endfield.css` and the script in `src/components/SiteTitle.astro`. Favicon (`public/favicon.svg`, 2026-11-22): a yellow inverted triangle with a cut on near-black, drawn for this site; the earlier one was copied from the NTE wiki by mistake.
 - Official art is used, by the owner's decision, as on `nte-wiki`. The publisher's Fan Content and Streaming Guidelines (notice 4497, 2026-02-03) prohibit "content that directly copies or uses excerpts of the Company's official materials and lacks clear originality"; the owner chose before that text was read and has been told. Credits go in the `art` frontmatter field. Remove an image when the publisher asks.
 - Who lets a change go live: the owner confirms every time.
+- How the site follows its sources (owner, 2026-11-22, as for `nte-wiki`): a weekly scheduled check that keeps one issue. Fable, Astra and Neon were asked (`~/.local/state/delegation-log/docs-sites/20261122-154634-*`); the owner chose where they differed, and `upstream/README.md` gives the reasons. See "When the sources change".
 - Address: `https://yuanaruru.com/endfield-wiki/`.
 
 ## Decisions by the owner after reading the preview (2026-11-21)
@@ -92,6 +93,7 @@ Agent test in Japanese and Korean, phase 2 (2026-11-22; ten questions per langua
 
 ```
 pnpm verify      # prose check, build, then the acceptance checks. Run this before you call a change done.
+pnpm upstream    # compare the sources with what the pages were written from (upstream/README.md)
 pnpm build       # build
 pnpm check       # acceptance checks on an existing dist/
 python3 -I pipeline/build_pages.py     # operator pages (en, zh-tw, ja, ko) from records/; ja/ko need the ja/ko fields of records/text/
@@ -116,6 +118,10 @@ uv run --with opencc-python-reimplemented pipeline/names_voc.py   # names whose 
 ```
 
 After a change to a record: `names_jako.py` (when names changed), `build_pages.py`, `build_lists.py`, `to-zh-cn.py`, `check_jako_names.py`, then `pnpm verify`. After new game data: fetch the pages again into `cache/third/wf/` (the fetch scripts are kept there), then `wf_extract.py`, `build_records.py`, `names_voc.py`, and restate what changed in `records/text/`.
+
+## When the sources change
+
+Run `pnpm upstream`. What it watches, what each line of its report means and how to update the pages (a new version, a new banner) are in `upstream/README.md`; read it when an update is due.
 
 ## Content rules
 
@@ -152,6 +158,7 @@ After a change to a record: `names_jako.py` (when names changed), `build_pages.p
 | `src/lib/`, `src/pages/` | Markdown twins, `llms.txt`, bundles, `index.json`, `robots.txt`, sitemap options |
 | `src/components/`, `src/styles/endfield.css` | The three overrides and the skin |
 | `scripts/check-dist.mjs`, `scripts/check-found.mjs` | Acceptance checks |
+| `scripts/upstream.mjs`, `upstream/`, `.github/workflows/upstream.yml` | Check against the sources and its weekly run (`upstream/README.md`) |
 | `scripts/to-zh-cn.py` | Writes the Simplified Chinese pages from the Traditional Chinese ones |
 | `pipeline/` | Scripts that read the cached sources, build the records and write the generated pages |
 | `records/` | The site's own data, committed: operators (facts and restated text), banners, versions, how operators are obtained, changes per operator, weapons, name pairs for the Simplified pages, `names-jako.json` (Japanese and Korean names and game terms), `pending.json` (pages Japanese and Korean lack), `pages.txt` (every page of the site, used by the link check of `lint_page.py`) |
