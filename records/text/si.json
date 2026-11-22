@@ -2,56 +2,80 @@
  "slug": "si",
  "intro": {
   "en": "Si is what people on Talos-II call a Feranmut Proxy, though she is no one's proxy; she supports HAS and Endfield with her abilities and explores cities for new technology and fashion.",
-  "zh-TW": "祀是塔衛二上人們習慣稱為巨獸代理人的存在，但她並不是誰的代理；平時以能力支援宏科院與終末地，閒暇時在城市中追尋前沿科技與時尚。"
+  "zh-TW": "祀是塔衛二上人們習慣稱為巨獸代理人的存在，但她並不是誰的代理；平時以能力支援宏科院與終末地，閒暇時在城市中追尋前沿科技與時尚。",
+  "ja": "スーはタロⅡで巨獣の代理人と呼ばれているが、誰の代理でもない。自身の力で宏山科学院とエンドフィールドを支援しながら、街を巡って新しい技術やファッションを探している。",
+  "ko": "사는 탈로스 II에서 베헤모스 대리인이라 불리는 존재이나 누구의 대리인도 아니다. 자신의 능력으로 홍산 과학원과 엔드필드를 지원하며, 도시를 돌아다니며 새로운 기술과 패션을 탐구한다."
  },
  "skills": {
   "basic": {
    "en": "Cryo combo of up to 5 hits. The final strike deals 18 Stagger while Si is the controlled operator.",
-   "zh-TW": "最多 5 段的寒冷傷害連擊。作為主控幹員時，重擊造成 18 點失衡。"
+   "zh-TW": "最多 5 段的寒冷傷害連擊。作為主控幹員時，重擊造成 18 點失衡。",
+   "ja": "最大5段の寒冷コンボを行う。スーが操作中のオペレーターの場合、重攻撃はブレイク値を18与える。",
+   "ko": "최대 5단의 냉기 콤보 공격을 한다. 사가 메인 컨트롤 오퍼레이터일 때 강력한 일격은 불균형치를 18 준다."
   },
   "battle": {
    "en": "Deals Cryo damage, Immobilization, Artful Intent (records damage, bursts as Fixed DMG), and Cryo Infliction (Heat Infliction if Team Position 01 is Heat). Becomes Initial Stroke (15 SP) to pull an Inksoul relaying damage and effects (hits on both count once), then Final Stroke (no SP) to burst early; a defeated host relinks or drops it.",
-   "zh-TW": "造成寒冷傷害並施加定身、筆意與寒冷附著（01 號位為灼熱幹員時改為灼熱附著）；筆意記錄所受部分傷害，結束時爆發造成固定傷害。施放後依序變為起墨（消耗 15 技力）拉出墨魂將傷害與效果傳給本體（同時命中只算一次），以及收筆（不消耗技力）提前引爆；目標被擊敗時墨魂會轉連或生成。"
+   "zh-TW": "造成寒冷傷害並施加定身、筆意與寒冷附著（01 號位為灼熱幹員時改為灼熱附著）；筆意記錄所受部分傷害，結束時爆發造成固定傷害。施放後依序變為起墨（消耗 15 技力）拉出墨魂將傷害與效果傳給本體（同時命中只算一次），以及收筆（不消耗技力）提前引爆；目標被擊敗時墨魂會轉連或生成。",
+   "ja": "寒冷ダメージと行動停止、筆意、寒冷付着（01位置が灼熱なら灼熱付着）を付与する。筆意は被ダメージを記録し爆発時に固定ダメージを与える。使用後、戦技はまず「起墨」（SP15）に変化して本体へダメージと効果を伝える墨魂を引き出し（本体と墨魂への同時命中は一回分扱い）、次に「収筆」（SP不要）に変化して筆意を早期起爆できる。本体が倒されると墨魂は別の対象につながるか、その場に現れる。",
+   "ko": "냉기 피해와 속박, 필의, 냉기 부착(01번 슬롯이 열기면 열기 부착)을 준다. 필의는 받은 피해를 기록해 폭발 시 고정 피해를 준다. 사용 후 배틀 스킬은 먼저 기묵(스킬 게이지 15)으로 바뀌어 피해와 효과를 본체에 전달하는 묵혼을 끌어낸다. 본체와 묵혼에 동시 명중한 공격은 한 번만 적용된다. 다음으로 수필(스킬 게이지 미소모)로 바뀌어 필의를 조기 폭발시킨다. 본체가 처치되면 묵혼은 다른 대상에 연결되거나 그 자리에 나타난다."
   },
   "combo": {
    "en": "Trigger: Cryo Infliction or Heat Infliction on an enemy is consumed or absorbed. Calls forth an Ink Lung for Cryo damage scaling with the highest Arts Infliction stacks removed or absorbed from one target.",
-   "zh-TW": "觸發條件：敵人的寒冷附著或灼熱附著被消耗或吸收。召喚墨龍造成寒冷傷害，傷害依從單一目標消耗或吸收的最高附著層數提升。"
+   "zh-TW": "觸發條件：敵人的寒冷附著或灼熱附著被消耗或吸收。召喚墨龍造成寒冷傷害，傷害依從單一目標消耗或吸收的最高附著層數提升。",
+   "ja": "発動条件：敵の寒冷付着または灼熱付着が消費・吸収される。墨龍を召喚して寒冷ダメージを与え、単体目標から消費・吸収された最大アーツ付着段階数に応じて威力が上がる。",
+   "ko": "발동 조건: 적의 냉기 부착 또는 열기 부착이 소모되거나 흡수된다. 묵룡을 소환해 냉기 피해를 주며, 단일 대상에서 소모·흡수된 아츠 부착 최대 스택에 비례해 피해가 증가한다."
   },
   "ultimate": {
    "en": "Si calls forth a Giant Ink Lung from her painting to deal Cryo damage and grant the whole team temporary Cryo Amp and Heat Amp.",
-   "zh-TW": "從畫卷召喚巨型墨龍造成寒冷傷害，並為全隊施加一段時間的寒冷增幅與灼熱增幅。"
+   "zh-TW": "從畫卷召喚巨型墨龍造成寒冷傷害，並為全隊施加一段時間的寒冷增幅與灼熱增幅。",
+   "ja": "スーは絵巻から巨大な墨龍を召喚して寒冷ダメージを与え、チーム全体に一定時間、寒冷増幅と灼熱増幅を付与する。",
+   "ko": "사는 그림에서 거대 묵룡을 소환해 냉기 피해를 주고, 팀 전체에 일정 시간 동안 냉기 증폭과 열기 증폭을 부여한다."
   }
  },
  "talents": [
   {
    "en": "Casting No One Spoils the Fun takes 10 s off the remaining combo skill cooldown of the Team Position 01 operator (20 s at Promotion II).",
-   "zh-TW": "施放誰都不許掃興後，小隊 01 號位幹員的連攜技剩餘冷卻時間減少 10 秒（精英化II 為 20 秒）。"
+   "zh-TW": "施放誰都不許掃興後，小隊 01 號位幹員的連攜技剩餘冷卻時間減少 10 秒（精英化II 為 20 秒）。",
+   "ja": "「白けさせるでない！」を発動すると、チーム内の01位置オペレーターの連携技の残りクールタイムを10秒短縮する（昇進・Ⅱでは20秒）。",
+   "ko": "누가 감히 흥을 깨랴를 사용하면 팀 내 01번 슬롯 오퍼레이터의 연계 스킬 남은 쿨타임이 10초 감소한다(정예화 II에서는 20초)."
   },
   {
    "en": "When the Inksoul disappears, allied operators gain 15% Haste (30% at Promotion III) for 5 s.",
-   "zh-TW": "墨魂消失時，友方幹員獲得 15% 加速（精英化III 為 30%），持續 5 秒。"
+   "zh-TW": "墨魂消失時，友方幹員獲得 15% 加速（精英化III 為 30%），持續 5 秒。",
+   "ja": "墨魂が消失すると、味方オペレーターは5秒間、15%の加速を得る（昇進・Ⅲでは30%）。",
+   "ko": "묵혼이 사라지면 아군 오퍼레이터가 5초 동안 15%의 가속을 얻는다(정예화 III에서는 30%)."
   }
  ],
  "potentials": [
   {
    "en": "Brushwork Realm's Immobilization lasts 50% longer, and Artful Intent gains +7% DMG Record Ratio and +40% burst radius.",
-   "zh-TW": "河山共影造成的定身時間延長 50%，筆意記錄傷害的比例提高 7%，爆發半徑擴大 40%。"
+   "zh-TW": "河山共影造成的定身時間延長 50%，筆意記錄傷害的比例提高 7%，爆發半徑擴大 40%。",
+   "ja": "「山河を映して」の行動停止の持続時間が50%延長され、筆意のダメージ記録率+7%、爆発半径+40%。",
+   "ko": "강산을 한 폭에의 속박 지속 시간이 50% 연장되고, 필의의 피해 기록 비율 +7%, 폭발 반경이 +40% 증가한다."
   },
   {
    "en": "Casting Fully Envisioned gives Si +8% ATK plus 3% per highest Arts Infliction stack consumed or absorbed from one target for 10 s, non-stacking.",
-   "zh-TW": "施放成竹在胸時，自身攻擊力提高 8%，並依從單一目標消耗或吸收的最高附著層數每層額外提高 3%，持續 10 秒，無法疊加。"
+   "zh-TW": "施放成竹在胸時，自身攻擊力提高 8%，並依從單一目標消耗或吸收的最高附著層數每層額外提高 3%，持續 10 秒，無法疊加。",
+   "ja": "「胸中に成竹在り」発動時、スーの攻撃力が10秒間上昇する。上昇量は8%に、単体の目標から消費または吸収したアーツ付着の段階数のうち、最も多いもの一段階につき3%を加えた値となる。この効果は重ね掛けできない。",
+   "ko": "먹빛은 이미 정해졌으니를 사용하면 사의 공격력이 10초 동안 증가한다. 증가량은 기본 8%에, 한 대상에게서 소모하거나 흡수한 아츠 부착 스택 수 중 가장 높은 수치에 3%를 곱한 값을 더한 만큼이다. 이 효과는 중첩되지 않는다."
   },
   {
    "en": "No One Spoils the Fun deals 1.2 times its damage and grants 1.2 times its Amp effect.",
-   "zh-TW": "誰都不許掃興的傷害與增幅效果皆提升為 1.2 倍。"
+   "zh-TW": "誰都不許掃興的傷害與增幅效果皆提升為 1.2 倍。",
+   "ja": "「白けさせるでない！」のダメージが1.2倍になり、増幅効果も1.2倍になる。",
+   "ko": "누가 감히 흥을 깨랴의 피해가 1.2배, 증폭 효과가 1.2배로 증가한다."
   },
   {
    "en": "No One Spoils the Fun costs 15% less Ultimate Energy.",
-   "zh-TW": "誰都不許掃興所需的終結技能量 -15%。"
+   "zh-TW": "誰都不許掃興所需的終結技能量 -15%。",
+   "ja": "「白けさせるでない！」の必殺チャージ消費量が15%減少する。",
+   "ko": "누가 감히 흥을 깨랴의 궁극기 에너지 소모량이 15% 감소한다."
   },
   {
    "en": "Fully Envisioned's cooldown is reduced by 2 s, its damage becomes 1.15 times as high, and it counts 1 extra stack of infliction as consumed or absorbed.",
-   "zh-TW": "成竹在胸的冷卻時間 -2 秒，傷害提升為 1.15 倍，且觸發時視為額外消耗或吸收 1 層附著。"
+   "zh-TW": "成竹在胸的冷卻時間 -2 秒，傷害提升為 1.15 倍，且觸發時視為額外消耗或吸收 1 層附著。",
+   "ja": "「胸中に成竹在り」のクールタイムが2秒短縮され、ダメージが1.15倍になり、付着を1段階多く消費または吸収したものと見なす。",
+   "ko": "먹빛은 이미 정해졌으니의 쿨타임이 2초 단축되고 피해가 1.15배로 증가하며, 부착 1스택을 추가로 소모하거나 흡수한 것으로 간주한다."
   }
  ]
 }

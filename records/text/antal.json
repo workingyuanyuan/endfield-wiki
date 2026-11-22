@@ -2,56 +2,80 @@
  "slug": "antal",
  "intro": {
   "en": "Antal is a young Savra in Endfield's Operations Team Z7 who works as a supporter and Originium technology consultant, gifted in Originium Arts though he often misreads social cues.",
-  "zh-TW": "安塔爾是終末地 Z7 行動組的年輕薩弗拉成員，擔任輔助與源石技術顧問，源石技藝天賦出眾卻不擅察言觀色。"
+  "zh-TW": "安塔爾是終末地 Z7 行動組的年輕薩弗拉成員，擔任輔助與源石技術顧問，源石技藝天賦出眾卻不擅察言觀色。",
+  "ja": "アンタルはエンドフィールドのZ7行動隊に所属する若いサヴラの補助および源石技術コンサルタントである。アーツの才能に優れるが、空気を読むのは苦手。",
+  "ko": "안탈은 엔드필드 Z7 작전팀 소속의 젊은 사브라 서포터이자 오리지늄 기술 고문이다. 오리지늄 아츠에 뛰어난 재능을 지녔으나 눈치가 부족한 편이다."
  },
  "skills": {
   "basic": {
    "en": "Electric combo of up to 4 hits. His Final Strike deals 15 Stagger while he is the controlled operator.",
-   "zh-TW": "最多 4 段的電磁傷害連擊。作為主控幹員時，重擊造成 15 點失衡。"
+   "zh-TW": "最多 4 段的電磁傷害連擊。作為主控幹員時，重擊造成 15 點失衡。",
+   "ja": "最大4段の電磁コンボを行う。アンタルが操作中のオペレーターの場合、重攻撃はブレイク値を15与える。",
+   "ko": "최대 4단의 전기 콤보 공격을 한다. 안탈이 메인 컨트롤 오퍼레이터일 때 강력한 일격은 불균형치를 15 준다."
   },
   "battle": {
    "en": "He deals Electric damage and applies a long-lasting Focus to at most 1 enemy at a time, inflicting Electric Susceptibility and Heat Susceptibility while Focus lasts.",
-   "zh-TW": "對敵人造成電磁傷害並施加長時間聚焦，使目標同時承受電磁脆弱與灼熱脆弱；同一時間最多聚焦 1 個敵人。"
+   "zh-TW": "對敵人造成電磁傷害並施加長時間聚焦，使目標同時承受電磁脆弱與灼熱脆弱；同一時間最多聚焦 1 個敵人。",
+   "ja": "敵に電磁ダメージを与え、同時に最大1体まで長時間持続するフォーカスを付与する。フォーカス持続中、対象に電磁脆弱効果と灼熱脆弱効果を与える。",
+   "ko": "적에게 전기 피해를 주고, 동시에 최대 1명에게 장시간 지속되는 초점을 부여한다. 초점이 지속되는 동안 대상에게 전기 취약 효과와 열기 취약 효과를 부여한다."
   },
   "combo": {
    "en": "Trigger: an enemy with Focus suffers a Physical Status or Arts Infliction. He sets off 1 energy blast on that enemy for Electric damage and applies another stack of the same Physical Status or Arts Infliction.",
-   "zh-TW": "觸發條件：被聚焦的敵人進入物理異常或法術附著狀態。在該敵人身上引發 1 次能量爆炸，造成電磁傷害並再次施加相同的物理異常或法術附著。"
+   "zh-TW": "觸發條件：被聚焦的敵人進入物理異常或法術附著狀態。在該敵人身上引發 1 次能量爆炸，造成電磁傷害並再次施加相同的物理異常或法術附著。",
+   "ja": "発動条件：フォーカス状態の敵が物理異常またはアーツ付着を受ける。その敵にエネルギー爆発を1回起こして電磁ダメージを与え、同じ物理異常またはアーツ付着をさらに一段階付与する。",
+   "ko": "발동 조건: 초점 상태의 적이 물리 이상 또는 아츠 부착을 받을 때. 해당 적에게 에너지 폭발을 1회 일으켜 전기 피해를 주고, 같은 물리 이상 또는 아츠 부착을 한 스택 더 부여한다."
   },
   "ultimate": {
    "en": "He grants temporary Electric Amp and Heat Amp to the whole team.",
-   "zh-TW": "為全隊施加一段時間的電磁增幅與灼熱增幅。"
+   "zh-TW": "為全隊施加一段時間的電磁增幅與灼熱增幅。",
+   "ja": "チーム全体に一定時間、電磁増幅効果と灼熱増幅効果を付与する。",
+   "ko": "팀 전체에 일정 시간 동안 전기 증폭 효과와 열기 증폭 효과를 부여한다."
   }
  },
  "talents": [
   {
    "en": "When an Amped teammate deals skill damage, Antal heals that teammate for 72 + Strength × 0.6 HP (108 + Strength × 0.9 at Promotion II), at most 1 time every 30 s per operator.",
-   "zh-TW": "處於增幅狀態的隊友造成技能傷害後，安塔爾為其回復 72 + 力量 × 0.6 點生命值（精英化II 為 108 + 力量 × 0.9），每名幹員每 30 秒最多觸發 1 次。"
+   "zh-TW": "處於增幅狀態的隊友造成技能傷害後，安塔爾為其回復 72 + 力量 × 0.6 點生命值（精英化II 為 108 + 力量 × 0.9），每名幹員每 30 秒最多觸發 1 次。",
+   "ja": "増幅状態の味方がスキルダメージを与えると、アンタルはその味方のHPを72 + 筋力 × 0.6回復する（昇進・Ⅱでは108 + 筋力 × 0.9）。オペレーターごとに30秒あたり最大1回まで。",
+   "ko": "증폭 상태의 아군이 스킬 피해를 주면 안탈이 해당 아군의 생명력을 72 + 힘 × 0.6만큼 회복한다(정예화 II에서는 108 + 힘 × 0.9). 오퍼레이터당 30초마다 최대 1회 발동한다."
   },
   {
    "en": "He has a 30% chance to negate Physical damage and restore 27 + Strength × 0.23 HP to himself (45 + Strength × 0.38 at Promotion III).",
-   "zh-TW": "有 30% 機率免疫物理傷害，並回復自身 27 + 力量 × 0.23 點生命值（精英化III 為 45 + 力量 × 0.38）。"
+   "zh-TW": "有 30% 機率免疫物理傷害，並回復自身 27 + 力量 × 0.23 點生命值（精英化III 為 45 + 力量 × 0.38）。",
+   "ja": "30%の確率で物理ダメージを無効化し、自身のHPを27 + 筋力 × 0.23回復する（昇進・Ⅲでは45 + 筋力 × 0.38）。",
+   "ko": "30% 확률로 물리 피해를 무효화하고 자신의 생명력을 27 + 힘 × 0.23만큼 회복한다(정예화 III에서는 45 + 힘 × 0.38)."
   }
  ],
  "potentials": [
   {
    "en": "Overclocked Moment's Electric Amp and Heat Amp effects increase to 1.1 times their original values.",
-   "zh-TW": "超頻時刻提供的電磁增幅與灼熱增幅效果提升為原本的 1.1 倍。"
+   "zh-TW": "超頻時刻提供的電磁增幅與灼熱增幅效果提升為原本的 1.1 倍。",
+   "ja": "「リミッター、解除」による電磁増幅効果と灼熱増幅効果が元の1.1倍になる。",
+   "ko": "오버클록 타임의 전기 증폭 효과와 열기 증폭 효과가 기존의 1.1배로 증가한다."
   },
   {
    "en": "Overclocked Moment costs 10% less Ultimate Energy.",
-   "zh-TW": "超頻時刻所需的終結技能量 -10%。"
+   "zh-TW": "超頻時刻所需的終結技能量 -10%。",
+   "ja": "「リミッター、解除」の必殺チャージ消費量が10%減少する。",
+   "ko": "오버클록 타임의 궁극기 에너지 소모량이 10% 감소한다."
   },
   {
    "en": "Returns 15 SP when an enemy with Focus is defeated while Focus lasts.",
-   "zh-TW": "被聚焦的敵人於聚焦期間遭到擊敗時，返還 15 點技力。"
+   "zh-TW": "被聚焦的敵人於聚焦期間遭到擊敗時，返還 15 點技力。",
+   "ja": "フォーカス状態の敵が効果持続中に倒されると、SPを15返還する。",
+   "ko": "초점 상태의 적이 초점 지속 시간 중 처치되면 스킬 게이지를 15 반환한다."
   },
   {
    "en": "Intellect +10 and Max HP +10%.",
-   "zh-TW": "智識 +10，最大生命值 +10%。"
+   "zh-TW": "智識 +10，最大生命值 +10%。",
+   "ja": "知性+10、最大HP+10%。",
+   "ko": "지능 +10, 최대 생명력 +10%."
   },
   {
    "en": "Keeping Focus on the same enemy for 20 s increases its Electric Susceptibility and Heat Susceptibility by 4%.",
-   "zh-TW": "對同一目標維持聚焦達 20 秒後，電磁脆弱與灼熱脆弱效果再提高 4%。"
+   "zh-TW": "對同一目標維持聚焦達 20 秒後，電磁脆弱與灼熱脆弱效果再提高 4%。",
+   "ja": "同じ敵にフォーカスを20秒維持すると、対象の電磁脆弱効果と灼熱脆弱効果が4%増加する。",
+   "ko": "같은 적에게 초점을 20초 동안 유지하면 대상의 전기 취약 효과와 열기 취약 효과가 4% 증가한다."
   }
  ]
 }

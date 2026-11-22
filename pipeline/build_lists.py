@@ -445,20 +445,40 @@ def enemies(lang):
               f"耐性1ポイントごとに、その属性のダメージが1%減る（{combat}を参照）。ゲーム内では耐性を等級で表示する。敵の耐性では{'、'.join(f'{g}が{span(g)}' for g in used)}で、{'と'.join(unused)}の敵はいない。ゲーム内図鑑の敵{n}種のうち{len(none)}種は耐性を持たず、残りの多くは2〜5属性に20ずつ持つ。最も高いのは{top[2]['name'][JA]}の{terms[top[1]][JA]}{top[0]}である。{J('Æther Resistance')}を持つ敵はいない。",
               f"저항 1포인트마다 해당 속성 피해가 1% 줄어든다({combat} 참조). 게임에서는 저항을 등급으로 표시한다. 적의 저항 중 {', '.join(f'{josa(g, TOPIC)} {span(g)}' for g in used)}이며, {' 또는 '.join(unused)} 등급인 적은 없다. 게임 내 도감의 적 {n}종 중 {len(none)}종은 저항이 없고, 나머지는 대부분 2~5개 속성에 20씩 있다. 가장 높은 것은 {top[2]['name'][KO]}의 {terms[top[1]][KO]} {josa(str(top[0]), COP)}. {josa(K('Æther Resistance'), SUBJ)} 있는 적은 없다."), '',
             L('## Highest resistances', '## 抗性最高的敵人', '## 耐性が最も高い敵', '## 저항이 가장 높은 적'), '',
-            L('Every resistance of 30 or more:', '抗性 30 以上的全部列出：', '耐性30以上のものをすべて挙げる：', '저항 30 이상을 모두 실었다:'), '',
-            L('| Enemy | Resistance | Grade | Value |', '| 敵人 | 抗性 | 等級 | 數值 |', f"| {J('Enemies')} | 耐性 | 等級 | 数値 |", f"| {K('Enemies')} | 저항 | 등급 | 수치 |"), '| --- | --- | --- | --- |']
-    out += [f"| {e['name'][lang]} | {terms[k][lang]} | {grade(v)} | {v} |" for v, k, e in high]
+            L('Every enemy with a resistance of 30 or more, with all five of its resistances (grade and value):', '有任一抗性達 30 以上的敵人，列出其全部五種抗性（等級與數值）：',
+              '耐性が30以上の敵を、5つの耐性すべて（等級と数値）とともに挙げる：', '저항이 30 이상인 적을 다섯 가지 저항 모두(등급과 수치)와 함께 실었다:'), '',
+            '| ' + ' | '.join([L('Enemy', '敵人', J('Enemies'), K('Enemies'))] + [elem[k] for k in ELEMENTS]) + ' |', '| ' + ' | '.join(['---'] * 6) + ' |']
+    seen_hi = []
+    for v, k, e in high:
+        if e['name'][EN] not in seen_hi:
+            seen_hi.append(e['name'][EN])
+            out.append('| ' + ' | '.join([e['name'][lang]] + [f"{grade(e['resist'][x])} ({e['resist'][x]})" for x in ELEMENTS]) + ' |')
     order = [classes[c][lang] for c in ('0', '3', '1', '4', '2')]
     out += ['', L('## All enemies', '## 所有敵人', f"## すべての{J('Enemies')}", f"## 모든 {K('Enemies')}"), '',
             L("Sorted by English name. Each resistance is given as grade and value. Class is the game's own: Common, Advanced, Elite, Alpha, Boss.",
               f"依英文名稱排序。抗性寫成等級與數值。類型為遊戲內的分類：{'、'.join(order)}。",
               f"英語名順に並べた。耐性は等級と数値で示す。クラスはゲーム内の分類で、{'、'.join(order)}がある。",
               f"영어 이름순으로 정리했다. 저항은 등급과 수치로 표시한다. 분류는 게임 내 분류로, {', '.join(order[:-1] + [josa(order[-1], SUBJ)])} 있다."), '',
-            '| ' + ' | '.join([L('Enemy', '敵人', J('Enemies'), K('Enemies')), L('Class', '類型', 'クラス', '분류')] + [elem[k] for k in ELEMENTS] + [L('Region', '地區', '地域', '지역'), L('Where found', '分布', '分布', '분포')]) + ' |',
-            '| ' + ' | '.join(['---'] * 9) + ' |']
+            ]
+    # One table per region (Valley IV, Wuling, both, neither), so that no single block outweighs
+    # the answer for a readability-style extractor, and a reader finds a region at once.
+    def rkey(e):
+        rs = sorted({r for r in map(region, e['areas']) if r})
+        return (len(rs) == 0, len(rs), rs)
+    groups = {}
     for e in ens:
-        nm = L(e['name'][EN], f"{e['name'][ZH]}（{e['name'][EN]}）", f"{e['name'][JA]}（{e['name'][EN]}）", f"{e['name'][KO]}({e['name'][EN]})")
-        out.append('| ' + ' | '.join([nm, classes[e['class']][lang]] + [f"{grade(e['resist'][k])} ({e['resist'][k]})" for k in ELEMENTS] + [regions(e), where(e)]) + ' |')
+        groups.setdefault(tuple(map(str, rkey(e))), []).append(e)
+    for key in sorted(groups, key=lambda k: (k[0] == 'True', int(k[1]), k[2])):
+        rows = groups[key]
+        label = regions(rows[0]) if key[0] == 'False' else L('Other areas', '其他地點', 'その他の場所', '기타 장소')
+        out += [f"### {label}", '',
+                '| ' + ' | '.join([L('Enemy', '敵人', J('Enemies'), K('Enemies')), L('Class', '類型', 'クラス', '분류')] + [elem[k] for k in ELEMENTS] + [L('Where found', '分布', '分布', '분포')]) + ' |',
+                '| ' + ' | '.join(['---'] * 8) + ' |']
+        for e in rows:
+            nm = L(e['name'][EN], f"{e['name'][ZH]}（{e['name'][EN]}）", f"{e['name'][JA]}（{e['name'][EN]}）", f"{e['name'][KO]}({e['name'][EN]})")
+            out.append('| ' + ' | '.join([nm, classes[e['class']][lang]] + [f"{grade(e['resist'][k])} ({e['resist'][k]})" for k in ELEMENTS] + [where(e)]) + ' |')
+        out.append('')
+    out.pop()
     write('systems', 'enemies', lang, out)
 
 

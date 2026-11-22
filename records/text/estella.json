@@ -2,56 +2,80 @@
  "slug": "estella",
  "intro": {
   "en": "Estella handles intel gathering and communications for Endfield's Operations Team Z7, hoping her work makes life easier despite her weak stamina and constant misfortune.",
-  "zh-TW": "埃特拉是終末地 Z7 行動組成員，負責情報收集與通訊；儘管體力不佳且常伴不幸，仍希望透過工作讓身邊的人過得更輕鬆。"
+  "zh-TW": "埃特拉是終末地 Z7 行動組成員，負責情報收集與通訊；儘管體力不佳且常伴不幸，仍希望透過工作讓身邊的人過得更輕鬆。",
+  "ja": "エステーラはエンドフィールドのZ7行動隊で情報収集と通信を担当している。体力が弱く不運続きだが、自分の仕事が周囲の暮らしを楽にすることを願っている。",
+  "ko": "에스텔라는 엔드필드 Z7 작전팀에서 정보 수집과 통신을 담당한다. 체력이 약하고 늘 불운이 따르지만 자신의 일이 주변의 삶을 편하게 해 주기를 바란다."
  },
  "skills": {
   "basic": {
    "en": "Physical combo of up to 4 hits. While she is the controlled operator, her Final Strike also deals 17 Stagger.",
-   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊會額外造成 17 點失衡。"
+   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊會額外造成 17 點失衡。",
+   "ja": "最大4段の物理コンボを行う。エステーラが操作中のオペレーターの場合、重攻撃はさらにブレイク値を17与える。",
+   "ko": "최대 4단의 물리 콤보 공격을 한다. 에스텔라가 메인 컨트롤 오퍼레이터일 때 강력한 일격은 추가로 불균형치를 17 준다."
   },
   "battle": {
    "en": "Thrusts her lance to send a freezing sound wave in a straight line, dealing Cryo damage and applying Cryo Infliction to enemies hit.",
-   "zh-TW": "向前刺出長槍激發製冷聲波，對直線上的敵人造成寒冷傷害並施加寒冷附著。"
+   "zh-TW": "向前刺出長槍激發製冷聲波，對直線上的敵人造成寒冷傷害並施加寒冷附著。",
+   "ja": "槍を突き出して直線上に氷の音波を放ち、命中した敵に寒冷ダメージと寒冷付着を与える。",
+   "ko": "창을 찔러 직선으로 냉기 음파를 방출하고, 명중한 적에게 냉기 피해와 냉기 부착을 부여한다."
   },
   "combo": {
    "en": "Trigger: an enemy suffers Solidification. She dashes beside the target to deal Physical damage and forcibly Lift enemies in a small area; hitting a target with Solidification deals extra damage and applies Physical Susceptibility.",
-   "zh-TW": "觸發條件：有敵人進入凍結狀態。迅速移至敵人身邊，對小範圍內敵人造成物理傷害並強制擊飛；命中凍結目標時追加傷害並施加物理脆弱。"
+   "zh-TW": "觸發條件：有敵人進入凍結狀態。迅速移至敵人身邊，對小範圍內敵人造成物理傷害並強制擊飛；命中凍結目標時追加傷害並施加物理脆弱。",
+   "ja": "発動条件：敵が凍結状態になる。対象のそばへ突進して小範囲の敵に物理ダメージと強制浮遊を与え、凍結状態の対象に命中すると追加ダメージと物理脆弱を付与する。",
+   "ko": "발동 조건: 적이 동결 상태가 된다. 대상 옆으로 돌진해 좁은 범위의 적에게 물리 피해와 강제 띄우기를 가하며, 동결 상태의 대상에게 명중하면 추가 피해를 주고 물리 취약을 부여한다."
   },
   "ultimate": {
    "en": "Slams her spear shaft down to deal Physical damage to enemies in a circle around her, forcibly applying Lift to any with Physical Susceptibility.",
-   "zh-TW": "全力下砸槍柄對自身周圍圓形範圍內的敵人造成物理傷害，並強制擊飛處於物理脆弱狀態的敵人。"
+   "zh-TW": "全力下砸槍柄對自身周圍圓形範圍內的敵人造成物理傷害，並強制擊飛處於物理脆弱狀態的敵人。",
+   "ja": "槍の柄を叩きつけて周囲円形範囲の敵に物理ダメージを与え、物理脆弱状態の敵には強制的に浮遊を付与する。",
+   "ko": "창자루를 내리쳐 주위 원형 범위의 적에게 물리 피해를 주고, 물리 취약 상태인 적에게는 강제로 띄우기를 부여한다."
   }
  },
  "talents": [
   {
    "en": "Triggering Shatter makes the next cast of Onomatopoeia return 7.5 SP (15 SP at Promotion II); this effect does not stack.",
-   "zh-TW": "觸發碎冰效果後，下一次施放凝聲會返還 7.5 點技力（精英化II 為 15 點），無法疊加。"
+   "zh-TW": "觸發碎冰效果後，下一次施放凝聲會返還 7.5 點技力（精英化II 為 15 點），無法疊加。",
+   "ja": "粉砕を発動すると、次に発動する「オノマトペ」でSPが7.5返還される（昇進・Ⅱでは15）。この効果は重複しない。",
+   "ko": "쇄빙을 발동하면 다음에 사용하는 서스테인이 스킬 게이지를 7.5 반환한다(정예화 II에서는 15). 이 효과는 중첩되지 않는다."
   },
   {
    "en": "Estella is immune to Cryo Infliction and takes 10% less Cryo damage (20% less at Promotion III).",
-   "zh-TW": "自身不會受到寒冷附著，且承受的寒冷傷害 -10%（精英化III 為 -20%）。"
+   "zh-TW": "自身不會受到寒冷附著，且承受的寒冷傷害 -10%（精英化III 為 -20%）。",
+   "ja": "エステーラは寒冷付着を受けず、受ける寒冷ダメージが10%減少する（昇進・Ⅲでは20%減少）。",
+   "ko": "에스텔라는 냉기 부착에 면역이며, 받는 냉기 피해가 10% 감소한다(정예화 III에서는 20% 감소)."
   }
  ],
  "potentials": [
   {
    "en": "Physical Susceptibility applied by Distortion lasts 3 s longer.",
-   "zh-TW": "失真施加的物理脆弱持續時間延長 3 秒。"
+   "zh-TW": "失真施加的物理脆弱持續時間延長 3 秒。",
+   "ja": "「ディストーション」で付与する物理脆弱の持続時間が3秒延長される。",
+   "ko": "디스토션이 부여하는 물리 취약의 지속 시간이 3초 연장된다."
   },
   {
    "en": "Tremolo costs 10% less Ultimate Energy.",
-   "zh-TW": "震音所需的終結技能量 -10%。"
+   "zh-TW": "震音所需的終結技能量 -10%。",
+   "ja": "「トレモロ」の必殺チャージ消費量が10%減少する。",
+   "ko": "트레몰로의 궁극기 에너지 소모량이 10% 감소한다."
   },
   {
    "en": "Onomatopoeia's freezing sound wave travels 50% farther and deals +40% damage to the first enemy hit.",
-   "zh-TW": "凝聲激發的製冷聲波飛行距離 +50%，對首個命中的敵人傷害 +40%。"
+   "zh-TW": "凝聲激發的製冷聲波飛行距離 +50%，對首個命中的敵人傷害 +40%。",
+   "ja": "「オノマトペ」の氷の音波の射程が50%伸び、最初に命中した敵へのダメージが+40%される。",
+   "ko": "서스테인의 냉기 음파 비행 거리가 50% 증가하고, 첫 번째로 명중한 적에게 주는 피해가 +40% 증가한다."
   },
   {
    "en": "Will +10, Strength +10.",
-   "zh-TW": "意志 +10，力量 +10。"
+   "zh-TW": "意志 +10，力量 +10。",
+   "ja": "意志+10、筋力+10。",
+   "ko": "의지 +10, 힘 +10."
   },
   {
    "en": "Applying Solidification to an enemy grants Estella 5 Ultimate Energy, at most once every 1 s.",
-   "zh-TW": "有敵人被施加凍結時，自身獲得 5 點終結技能量，每 1 秒最多觸發一次。"
+   "zh-TW": "有敵人被施加凍結時，自身獲得 5 點終結技能量，每 1 秒最多觸發一次。",
+   "ja": "敵に凍結を付与するとエステーラの必殺チャージが5回復する。1秒につき最大一度まで。",
+   "ko": "적에게 동결을 부여하면 에스텔라가 궁극기 에너지를 5 획득한다. 1초마다 최대 한 번 발동한다."
   }
  ]
 }

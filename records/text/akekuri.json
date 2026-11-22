@@ -2,56 +2,80 @@
  "slug": "akekuri",
  "intro": {
   "en": "Akekuri is a former Business School honors student who volunteered for Endfield Industries, built Operations Team Z7 of the Specialist Tech Division almost single-handedly, and captains it.",
-  "zh-TW": "秋栗原為自薦加入終末地工業的商學院資優生，幾乎憑一己之力建立特種技術部門 Z7 行動組，並擔任組長。"
+  "zh-TW": "秋栗原為自薦加入終末地工業的商學院資優生，幾乎憑一己之力建立特種技術部門 Z7 行動組，並擔任組長。",
+  "ja": "アケクリはエンドフィールド工業に志願した元商学部の優等生で、特殊技術部のZ7行動隊をほぼ独力で立ち上げ、隊長を務めている。",
+  "ko": "아케쿠리는 엔드필드 공업에 자원입사한 경영대학 우등생 출신으로, 특수 기술부 Z7 작전팀을 거의 홀로 구축하고 팀장을 맡고 있다."
  },
  "skills": {
   "basic": {
    "en": "Physical combo of up to 4 hits. Her Final Strike deals 17 Stagger while she is the controlled operator.",
-   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊造成 17 點失衡。"
+   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊造成 17 點失衡。",
+   "ja": "最大4段の物理連撃。アケクリが操作中のオペレーターのとき、重攻撃でブレイク値を17与える。",
+   "ko": "최대 4단계의 물리 연계 공격. 아케쿠리가 메인 컨트롤 오퍼레이터일 때 강력한 일격이 불균형치 17을 준다."
   },
   "battle": {
    "en": "She slashes forward to deal Heat damage and apply Heat Infliction.",
-   "zh-TW": "朝前方揮劍斬擊，造成灼熱傷害並施加灼熱附著。"
+   "zh-TW": "朝前方揮劍斬擊，造成灼熱傷害並施加灼熱附著。",
+   "ja": "前方へ斬りつけ、灼熱ダメージと灼熱付着を与える。",
+   "ko": "전방을 베어 열기 피해를 주고 열기 부착을 부여한다."
   },
   "combo": {
    "en": "Trigger: an enemy becomes Staggered or reaches a Stagger Node. She dashes out and back for 2 thrust hits, each dealing Physical damage and recovering SP.",
-   "zh-TW": "觸發條件：敵人進入失衡或觸發失衡節點。往返突刺 2 段，每段皆造成物理傷害並回復一定技力。"
+   "zh-TW": "觸發條件：敵人進入失衡或觸發失衡節點。往返突刺 2 段，每段皆造成物理傷害並回復一定技力。",
+   "ja": "発動条件：敵がブレイク状態になる、またはブレイク点に達する。往復突進で2段の突きを繰り出し、各段で物理ダメージを与えてSPを回復する。",
+   "ko": "발동 조건: 적이 불균형 상태가 되거나 불균형 지점에 도달할 때. 왕복 돌진으로 2회 찌르며 각 타격마다 물리 피해를 주고 스킬 게이지를 회복한다."
   },
   "ultimate": {
    "en": "She channels to launch 3 Rallying Flares, recovering SP with each shot.",
-   "zh-TW": "進入持續施法狀態並發射 3 枚集結信號彈，每次發射皆會回復技力。"
+   "zh-TW": "進入持續施法狀態並發射 3 枚集結信號彈，每次發射皆會回復技力。",
+   "ja": "詠唱を維持して集結信号弾を3発撃ち上げ、発射ごとにSPを回復する。",
+   "ko": "정신 집중 상태로 집결 신호탄을 3발 발사하며, 발사할 때마다 스킬 게이지를 회복한다."
   }
  },
  "talents": [
   {
    "en": "Flash and Dash gains +1.0% SP Recovery per 10 Intellect, up to 50% (+1.5% and up to 75% at Promotion II).",
-   "zh-TW": "每 10 點智識使快閃衝擊的技力回復量 +1.0%，上限 50%（精英化II 為 +1.5%，上限 75%）。"
+   "zh-TW": "每 10 點智識使快閃衝擊的技力回復量 +1.0%，上限 50%（精英化II 為 +1.5%，上限 75%）。",
+   "ja": "知性10ごとに「突撃一閃」のSP回復量が+1.0%、最大50%（昇進・Ⅱで+1.5%、最大75%）。",
+   "ko": "지능 10마다 '섬광 돌진'의 스킬 게이지 회복량이 +1.0% 증가하며 최대 50%까지 적용된다(정예화 II에서는 +1.5%, 최대 75%)."
   },
   {
    "en": "While SQUAD! ON ME! is active, she gains a Link buff.",
-   "zh-TW": "施放小隊，集結！期間，自身獲得連擊。"
+   "zh-TW": "施放小隊，集結！期間，自身獲得連擊。",
+   "ja": "「全員、集合！」の発動中、アケクリはリンク状態を獲得する。",
+   "ko": "'소대, 집합!'이 지속되는 동안 아케쿠리는 연타 상태를 획득한다."
   }
  ],
  "potentials": [
   {
    "en": "Recovering SP with skills grants Akekuri +10% ATK for 10 s, stacking up to 5 times.",
-   "zh-TW": "透過技能回復技力後，秋栗獲得攻擊力 +10%，持續 10 秒，最多疊加 5 層。"
+   "zh-TW": "透過技能回復技力後，秋栗獲得攻擊力 +10%，持續 10 秒，最多疊加 5 層。",
+   "ja": "スキルでSPを回復すると、アケクリの攻撃力が10秒間+10%される。最大5重まで重複可能。",
+   "ko": "스킬로 스킬 게이지를 회복하면 아케쿠리의 공격력이 10초 동안 +10% 증가하며, 최대 5회 중첩된다."
   },
   {
    "en": "Agility +10 and Intellect +10.",
-   "zh-TW": "敏捷 +10，智識 +10。"
+   "zh-TW": "敏捷 +10，智識 +10。",
+   "ja": "俊敏+10、知性+10。",
+   "ko": "민첩 +10, 지능 +10."
   },
   {
    "en": "While SQUAD! ON ME! is active, the whole team gains +10% ATK.",
-   "zh-TW": "小隊，集結！施放期間，全隊攻擊力 +10%。"
+   "zh-TW": "小隊，集結！施放期間，全隊攻擊力 +10%。",
+   "ja": "「全員、集合！」の発動中、チーム全員の攻撃力が+10%される。",
+   "ko": "'소대, 집합!'이 지속되는 동안 팀 전체의 공격력이 +10% 증가한다."
   },
   {
    "en": "SQUAD! ON ME! costs 10% less Ultimate Energy.",
-   "zh-TW": "小隊，集結！所需的終結技能量 -10%。"
+   "zh-TW": "小隊，集結！所需的終結技能量 -10%。",
+   "ja": "「全員、集合！」に必要な必殺チャージが10%減少する。",
+   "ko": "'소대, 집합!'의 궁극기 에너지 소모량이 10% 감소한다."
   },
   {
    "en": "The Link buff from Staying in the Zone lasts for 5 s after SQUAD! ON ME! ends.",
-   "zh-TW": "心流時間提供的連擊會在小隊，集結！結束後再持續 5 秒。"
+   "zh-TW": "心流時間提供的連擊會在小隊，集結！結束後再持續 5 秒。",
+   "ja": "「集中タイム」によるリンク状態が「全員、集合！」の終了後も5秒間持続する。",
+   "ko": "'몰입의 시간'으로 얻은 연타 상태가 '소대, 집합!' 종료 후에도 5초 동안 지속된다."
   }
  ]
 }

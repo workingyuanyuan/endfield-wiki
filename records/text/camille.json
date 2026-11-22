@@ -2,56 +2,80 @@
  "slug": "camille",
  "intro": {
   "en": "Camille Arno is an elite Keeper from Seš'qa, skilled in blood-related Originium Arts and anti-witchcraft, who is seeking to work with Endfield Industries in a personal capacity.",
-  "zh-TW": "卡繆·亞爾諾是來自塞什卡的頂尖看護人，精於血液源石技藝與反制巫術，正以個人身分尋求與終末地工業合作。"
+  "zh-TW": "卡繆·亞爾諾是來自塞什卡的頂尖看護人，精於血液源石技藝與反制巫術，正以個人身分尋求與終末地工業合作。",
+  "ja": "カミーユ・アルノはセシュカ出身の精鋭の番人であり、血液系のアーツと対巫術に長け、個人としてエンドフィールド工業との協力を求めている。",
+  "ko": "카뮤 아르노는 세쉬카 출신의 정예 수호자로, 혈액 관련 오리지늄 아츠와 대주술에 능하며 개인 자격으로 엔드필드 공업과의 협력을 모색하고 있다."
  },
  "skills": {
   "basic": {
    "en": "Heat combo of up to 5 hits. As the controlled operator, his final strike also deals 18 Stagger.",
-   "zh-TW": "最多 5 段的灼熱傷害連擊。作為主控幹員時，重擊會額外造成 18 點失衡。"
+   "zh-TW": "最多 5 段的灼熱傷害連擊。作為主控幹員時，重擊會額外造成 18 點失衡。",
+   "ja": "最大5段の灼熱コンボを行う。カミーユが操作中のオペレーターのとき、重攻撃はさらにブレイク値を18与える。",
+   "ko": "최대 5단의 열기 콤보 공격을 한다. 카뮤가 메인 컨트롤 오퍼레이터일 때 강력한 일격은 추가로 불균형치를 18 준다."
   },
   "battle": {
    "en": "Firefang Vesperwings deal small-area Heat damage and Heat Infliction, then hover on the target to inflict Weakness and Heat Susceptibility, jumping to another nearby enemy on defeat with the same effects. Hitting a hovered enemy with Camille's combo skill triggers a delayed Heat explosion.",
-   "zh-TW": "召喚銜火血翼對小範圍造成灼熱傷害與灼熱附著，隨後盤桓於目標身旁施加虛弱與灼熱脆弱；目標被擊敗時會轉移至附近另一敵人並再次造成上述效果。以卡繆的連攜技命中被盤桓目標時，短暫延遲後會觸發爆裂造成額外灼熱傷害。"
+   "zh-TW": "召喚銜火血翼對小範圍造成灼熱傷害與灼熱附著，隨後盤桓於目標身旁施加虛弱與灼熱脆弱；目標被擊敗時會轉移至附近另一敵人並再次造成上述效果。以卡繆的連攜技命中被盤桓目標時，短暫延遲後會觸發爆裂造成額外灼熱傷害。",
+   "ja": "燃える血の翼が小範囲に灼熱ダメージと灼熱付着を与え、対象を包囲して弱体化効果と灼熱脆弱効果を与える。対象が倒れると近くの別の敵へ移り同じ効果を与える。包囲中の敵にカミーユの連携技が命中すると、遅延後に灼熱爆発を起こす。",
+   "ko": "타오르는 핏빛 날개가 좁은 범위에 열기 피해와 열기 부착을 주고, 대상 주위를 배회하며 허약 효과와 열기 취약 효과를 부여한다. 대상이 처치되면 주변의 다른 적에게 옮겨가 같은 효과를 부여한다. 날개가 주위를 배회하는 적에게 카뮤의 연계 스킬이 명중하면 잠시 후 열기 폭발이 일어난다."
   },
   "combo": {
    "en": "Trigger: an enemy's Heat Infliction is consumed or absorbed. He dashes out and back, dealing Heat damage and recovering SP.",
-   "zh-TW": "觸發條件：有敵人的灼熱附著被消耗或吸收。來回穿梭攻擊，造成灼熱傷害並回復一定技力。"
+   "zh-TW": "觸發條件：有敵人的灼熱附著被消耗或吸收。來回穿梭攻擊，造成灼熱傷害並回復一定技力。",
+   "ja": "発動条件：敵の灼熱付着が消費または吸収される。カミーユが往復突進し、灼熱ダメージを与えてSPを回復する。",
+   "ko": "발동 조건: 적의 열기 부착이 소모되거나 흡수된다. 카뮤가 왕복 돌진하여 열기 피해를 주고 스킬 게이지를 회복한다."
   },
   "ultimate": {
    "en": "He leaps to rain down spears and sweep through enemies for Heat damage, Heat Infliction, and SP recovery. For a time afterward, his next battle skill becomes Hunter Pursuit, a free dash counted as a combo skill that deals Heat damage and recovers SP.",
-   "zh-TW": "升空降下槍雨並銜接橫掃，造成灼熱傷害、施加灼熱附著並回復一定技力。施放後一段時間內，下一次戰技會替換為視為連攜技且不消耗技力的追獵，來回穿梭造成灼熱傷害並回復技力。"
+   "zh-TW": "升空降下槍雨並銜接橫掃，造成灼熱傷害、施加灼熱附著並回復一定技力。施放後一段時間內，下一次戰技會替換為視為連攜技且不消耗技力的追獵，來回穿梭造成灼熱傷害並回復技力。",
+   "ja": "跳躍して槍を降らせ敵を薙ぎ払い、灼熱ダメージと灼熱付着を与えてSPを回復する。その後一定時間、次の戦技が連携技扱いでSP消費なしの突進「追及」に変化し、灼熱ダメージを与えてSPを回復する。",
+   "ko": "도약해 창을 비처럼 쏟아붓고 적을 휩쓸어 열기 피해와 열기 부착을 주며 스킬 게이지를 회복한다. 이후 일정 시간 안에 다음으로 사용하는 배틀 스킬은 추적으로 바뀐다. 추적은 스킬 게이지를 소모하지 않는 돌진으로, 연계 스킬로 취급되며 열기 피해를 주고 스킬 게이지를 회복한다."
   }
  },
  "talents": [
   {
    "en": "When Heartstake Thorn hits an enemy hovered by Firefang Vesperwings, Camille heals himself for 30 + Intellect × 0.15 HP (60 + Intellect × 0.3 at Promotion II) and gains Link for 15 s. Hunter Pursuit triggers this even without hovering Vesperwings.",
-   "zh-TW": "錐心之棘命中受銜火血翼盤桓的敵人時，回復自身 30 + 智識 × 0.15 生命值（精英化II 為 60 + 智識 × 0.3）並獲得連擊，持續 15 秒；施放追獵時無需盤桓即可觸發。"
+   "zh-TW": "錐心之棘命中受銜火血翼盤桓的敵人時，回復自身 30 + 智識 × 0.15 生命值（精英化II 為 60 + 智識 × 0.3）並獲得連擊，持續 15 秒；施放追獵時無需盤桓即可觸發。",
+   "ja": "「心抉る棘」が燃える血の翼に包囲された敵に命中すると、カミーユは自身のHPを30 + 知性 × 0.15回復し（昇進・Ⅱでは60 + 知性 × 0.3）、15秒間リンクを獲得する。追及発動時は包囲がなくても発動する。",
+   "ko": "영혼의 가시가 타오르는 핏빛 날개가 배회하는 적에게 명중하면 카뮤는 자신의 생명력을 30 + 지능 × 0.15만큼 회복하고(정예화 II에서는 60 + 지능 × 0.3) 15초 동안 연타를 획득한다. 추적 사용 시에는 배회 상태가 아니어도 발동한다."
   },
   {
    "en": "Whenever Camille heals himself with a skill, he gains +2% Heat damage (+4% at Promotion III) for 40 s, up to 5 stacks, while other teammates gain 25% of this bonus. If he is already at full HP, each trigger grants 2 stacks.",
-   "zh-TW": "透過技能回復自身生命值時，自身獲得 2% 灼熱傷害加成（精英化III 為 4%），持續 40 秒，最多 5 層，其餘隊友獲得此效果的 25%。生命值已滿時，每次觸發直接獲得 2 層。"
+   "zh-TW": "透過技能回復自身生命值時，自身獲得 2% 灼熱傷害加成（精英化III 為 4%），持續 40 秒，最多 5 層，其餘隊友獲得此效果的 25%。生命值已滿時，每次觸發直接獲得 2 層。",
+   "ja": "カミーユがスキルで自身のHPを回復するたび、40秒間灼熱ダメージ+2%（昇進・Ⅲでは+4%）を獲得し、最大5段階まで累積する。他の味方はこの効果の25%を得る。HP満タン時は発動ごとに2段階獲得する。",
+   "ko": "카뮤가 스킬로 자신의 생명력을 회복할 때마다 40초 동안 열기 피해 +2%(정예화 III에서는 +4%)를 획득하며 최대 5스택까지 중첩된다. 다른 아군은 이 보너스의 25%를 얻는다. 생명력이 가득 찬 상태라면 발동마다 2스택을 얻는다."
   }
  ],
  "potentials": [
   {
    "en": "Blazing Exorcism adds +5% Weakness and +5% Heat Susceptibility, and Firefang Vesperwings hover 15 s longer.",
-   "zh-TW": "驅火焚影施加的虛弱與灼熱脆弱效果各 +5%，銜火血翼的盤桓時間 +15 秒。"
+   "zh-TW": "驅火焚影施加的虛弱與灼熱脆弱效果各 +5%，銜火血翼的盤桓時間 +15 秒。",
+   "ja": "「影祓う」の弱体化効果が+5%、灼熱脆弱効果が+5%され、燃える血の翼の包囲持続時間が15秒延長される。",
+   "ko": "사르는 불꽃의 허약 효과가 +5%, 열기 취약 효과가 +5% 증가하고, 타오르는 핏빛 날개의 배회 지속 시간이 15초 연장된다."
   },
   {
    "en": "Agility +20, Intellect +20.",
-   "zh-TW": "敏捷 +20，智識 +20。"
+   "zh-TW": "敏捷 +20，智識 +20。",
+   "ja": "俊敏+20、知性+20。",
+   "ko": "민첩 +20, 지능 +20."
   },
   {
    "en": "Heartstake Thorn has 2 s shorter cooldown, while both Heartstake Thorn and Hunter Pursuit deal 1.3 times damage and recover 1.15 times SP.",
-   "zh-TW": "錐心之棘冷卻時間 -2 秒，且錐心之棘與追獵的傷害倍率提升為 1.3 倍、技力回復量提升為 1.15 倍。"
+   "zh-TW": "錐心之棘冷卻時間 -2 秒，且錐心之棘與追獵的傷害倍率提升為 1.3 倍、技力回復量提升為 1.15 倍。",
+   "ja": "「心抉る棘」のクールタイムが2秒短縮され、「心抉る棘」と追及のダメージが1.3倍、SP回復量が1.15倍になる。",
+   "ko": "영혼의 가시의 쿨타임이 2초 단축되며, 영혼의 가시와 추적의 피해가 1.3배, 스킬 게이지 회복량이 1.15배로 증가한다."
   },
   {
    "en": "Sanguine Downpour costs 15% less Ultimate Energy.",
-   "zh-TW": "猩紅墜雨所需的終結技能量 -15%。"
+   "zh-TW": "猩紅墜雨所需的終結技能量 -15%。",
+   "ja": "「降り注ぐ深紅」の必殺チャージ消費量が15%減少する。",
+   "ko": "선혈의 비의 궁극기 에너지 소모량이 15% 감소한다."
   },
   {
    "en": "Bloodfount Revival increases its Heat damage bonus per stack by +6%.",
-   "zh-TW": "血湧甦生每層提供的灼熱傷害加成額外 +6%。"
+   "zh-TW": "血湧甦生每層提供的灼熱傷害加成額外 +6%。",
+   "ja": "「血の蘇生」の段階ごとの灼熱ダメージボーナスが+6%増加する。",
+   "ko": "혈류 소생의 스택당 열기 피해 보너스가 +6% 증가한다."
   }
  ]
 }

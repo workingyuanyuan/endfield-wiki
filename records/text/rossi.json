@@ -2,56 +2,80 @@
  "slug": "rossi",
  "intro": {
   "en": "Rossi (Rossina Wulfperl Luppino) is Wulfgard's younger sister and the Pearl of the Pack who took on leading the clan while her brother works alone.",
-  "zh-TW": "洛西（洛西娜·狼珀·盧皮諾）是狼衛的妹妹與狼群的掌上明珠，在哥哥獨自行動期間肩負起領導狼群氏族的責任。"
+  "zh-TW": "洛西（洛西娜·狼珀·盧皮諾）是狼衛的妹妹與狼群的掌上明珠，在哥哥獨自行動期間肩負起領導狼群氏族的責任。",
+  "ja": "ロッシ（ロッシーナ・ウルフパール・ルッピーノ）はウルフガードの妹であり、狼群の至宝と呼ばれる存在。兄が単独行動する間、一族を率いる役目を担っている。",
+  "ko": "로시(로시나 울프펄 루피노)는 울프가드의 여동생이자 늑대 무리의 보배로, 오빠가 단독으로 행동하는 동안 부족을 이끄는 역할을 맡았다."
  },
  "skills": {
   "basic": {
    "en": "Physical combo of up to 5 hits. As the controlled operator, her final strike also deals 18 Stagger.",
-   "zh-TW": "最多 5 段的物理傷害連擊。作為主控幹員時，重擊額外造成 18 點失衡。"
+   "zh-TW": "最多 5 段的物理傷害連擊。作為主控幹員時，重擊額外造成 18 點失衡。",
+   "ja": "最大5段の物理ダメージ連撃。操作中のオペレーターであるとき、ロッシの重攻撃はさらにブレイク値18を与える。",
+   "ko": "최대 5단계의 물리 피해 연격. 로시가 메인 컨트롤 오퍼레이터일 때 강력한 일격이 추가로 불균형치 18을 준다."
   },
   "battle": {
    "en": "Charges at the target for Physical damage and applies Lift; if the target already has Vulnerability, also sends a Wolven Ambrage charging in for Heat damage.",
-   "zh-TW": "衝向目標造成物理傷害並施加擊飛；若目標已帶有破防，則額外釋放狼之珀衝向目標造成灼熱傷害。"
+   "zh-TW": "衝向目標造成物理傷害並施加擊飛；若目標已帶有破防，則額外釋放狼之珀衝向目標造成灼熱傷害。",
+   "ja": "目標へ突進して物理ダメージと浮遊を与える。目標がすでにクラッシュ状態の場合、さらに狼の至宝を突進させて灼熱ダメージを与える。",
+   "ko": "목표에게 돌진해 물리 피해와 띄우기를 준다. 목표가 이미 방어 불능 상태라면 추가로 울프팀의 진주를 돌진시켜 열기 피해를 준다."
   },
   "combo": {
    "en": "Trigger: an enemy has both Vulnerability and Arts Infliction. Runs in 2 sequences: sequence 1 deals Physical damage, and sequence 2 consumes all Arts Infliction for Physical damage scaling with stacks consumed, applies 1 Lift, and boosts Rossi's Critical Rate and Critical DMG; perfect timing adds 1 Vulnerability stack.",
-   "zh-TW": "觸發條件：敵人同時處於破防與法術附著狀態。可連續發動 2 次：第 1 次造成物理傷害；第 2 次消耗目標全部法術附著，依消耗層數造成物理傷害並施加 1 次擊飛，同時暫時提升自身暴擊率與暴擊傷害，精準銜接時額外施加 1 層破防。"
+   "zh-TW": "觸發條件：敵人同時處於破防與法術附著狀態。可連續發動 2 次：第 1 次造成物理傷害；第 2 次消耗目標全部法術附著，依消耗層數造成物理傷害並施加 1 次擊飛，同時暫時提升自身暴擊率與暴擊傷害，精準銜接時額外施加 1 層破防。",
+   "ja": "発動条件：敵がクラッシュとアーツ付着を同時に受けているとき。2段構成で、1段目は物理ダメージを与え、2段目は対象のアーツ付着を全消費して消費段階数に応じた物理ダメージと浮遊1回を与え、ロッシ自身に会心率UPと会心ダメージ上昇を付与する。完璧なタイミングで繋ぐとクラッシュを1段階追加する。",
+   "ko": "발동 조건: 적에게 방어 불능과 아츠 부착이 동시에 적용되어 있을 때. 2단계로 발동하며 1단계는 물리 피해를 준다. 2단계는 대상의 아츠 부착을 모두 소모해 소모한 스택 수에 따른 물리 피해를 주고 띄우기를 1회 부여하며, 로시 자신이 치명타 확률 증가와 치명타 피해 상승 효과를 얻는다. 정확한 타이밍에 맞추면 방어 불능을 1스택 더 부여한다."
   },
   "ultimate": {
    "en": "With a flutter of her cape she unleashes a rapid flurry of stabs for multi-hit Heat damage, followed by a 2-hit dagger slash dealing massive Heat damage and applying Heat Infliction; critical hits with this skill deal bonus Critical DMG.",
-   "zh-TW": "揮動披風快速戳擊造成多段灼熱傷害，再以匕首進行 2 段斬擊造成大量灼熱傷害並施加灼熱附著；此技能暴擊時會造成更高的暴擊傷害。"
+   "zh-TW": "揮動披風快速戳擊造成多段灼熱傷害，再以匕首進行 2 段斬擊造成大量灼熱傷害並施加灼熱附著；此技能暴擊時會造成更高的暴擊傷害。",
+   "ja": "マントを翻して素早い連続突きで灼熱ダメージを複数回与えた後、短剣で2回斬りつけ、非常に大きな灼熱ダメージと灼熱付着を与える。このスキルで会心が発生すると、追加の会心ダメージを与える。",
+   "ko": "망토를 휘날리며 빠른 연속 찌르기로 다단 열기 피해를 준 뒤, 단검 2연속 베기로 큰 열기 피해와 열기 부착을 준다. 이 스킬이 치명타로 적중하면 추가 치명타 피해를 준다."
   }
  },
  "talents": [
   {
    "en": "When Wolven Ambrage deals damage, it applies non-stacking Razor Clawmark for 15 s (25 s at Promotion II), dealing 25% of Rossi's ATK as Physical damage per second (30% at Promotion II) and increasing Physical and Heat damage taken by 6% (12% at Promotion II).",
-   "zh-TW": "狼之珀造成傷害後對目標施加無法疊加的爪印斫痕 15 秒（精英化II 為 25 秒），期間目標每秒受到洛西攻擊力 25% 的物理傷害（精英化II 為 30%），且受到的物理與灼熱傷害 +6%（精英化II 為 +12%）。"
+   "zh-TW": "狼之珀造成傷害後對目標施加無法疊加的爪印斫痕 15 秒（精英化II 為 25 秒），期間目標每秒受到洛西攻擊力 25% 的物理傷害（精英化II 為 30%），且受到的物理與灼熱傷害 +6%（精英化II 為 +12%）。",
+   "ja": "狼の至宝がダメージを与えると、15秒間（昇進・Ⅱで25秒）重ね掛け不可の染まる爪痕を付与し、毎秒ロッシの攻撃力の25%の物理ダメージ（昇進・Ⅱで30%）を与え、対象の受ける物理・灼熱ダメージを6%増加させる（昇進・Ⅱで12%）。",
+   "ko": "울프팀의 진주가 피해를 주면 15초 동안(정예화 II에서는 25초) 중첩 불가한 늑대의 발톱을 부여해 매초 로시 공격력의 25%만큼 물리 피해를 주고(정예화 II에서는 30%), 대상이 받는 물리 및 열기 피해를 6% 증가시킨다(정예화 II에서는 12%)."
   },
   {
    "en": "When Rossi's skill crits a Razor Clawmarked enemy, it triggers an extra hit for 12% of her ATK as Heat damage (24% at Promotion III) and restores Intellect × 0.04 HP (Intellect × 0.08 at Promotion III); both effects are 1.5 times stronger if the target is also Combusted.",
-   "zh-TW": "洛西的技能對爪印斫痕狀態的敵人造成暴擊傷害時，額外觸發一次攻擊力 12% 的灼熱傷害（精英化III 為 24%）並回復自身智識 × 0.04 生命值（精英化III 為 0.08）；若目標同時處於燃燒狀態，上述傷害與治療提升為 1.5 倍。"
+   "zh-TW": "洛西的技能對爪印斫痕狀態的敵人造成暴擊傷害時，額外觸發一次攻擊力 12% 的灼熱傷害（精英化III 為 24%）並回復自身智識 × 0.04 生命值（精英化III 為 0.08）；若目標同時處於燃燒狀態，上述傷害與治療提升為 1.5 倍。",
+   "ja": "ロッシのスキルが染まる爪痕状態の敵に会心すると、攻撃力の12%の追加灼熱ダメージ（昇進・Ⅲで24%）を与え、HPを知性×0.04回復する（昇進・Ⅲで知性×0.08）。目標が燃焼状態でもある場合、両方の効果が1.5倍になる。",
+   "ko": "로시의 스킬이 늑대의 발톱 상태의 적에게 치명타로 적중하면 공격력의 12%만큼 추가 열기 피해를 주고(정예화 III에서는 24%) 생명력을 지능×0.04 회복한다(정예화 III에서는 지능×0.08). 목표가 연소 상태이기도 하면 두 효과 모두 1.5배가 된다."
   }
  ],
  "potentials": [
   {
    "en": "Crimson Shadow and Moment of Blazing Shadow deal 1.15 times damage, and Wolven Ambrage returns 10 SP on hit.",
-   "zh-TW": "血紅之影與燎影時刻的傷害倍率提升為 1.15 倍，且狼之珀命中敵人後返還 10 點技力。"
+   "zh-TW": "血紅之影與燎影時刻的傷害倍率提升為 1.15 倍，且狼之珀命中敵人後返還 10 點技力。",
+   "ja": "真紅の影と刹那の影のダメージが1.15倍になり、狼の至宝が敵に命中するとSPが10返還される。",
+   "ko": "붉은색의 그림자와 그림자가 타오르는 순간의 피해가 1.15배가 되며, 울프팀의 진주가 명중하면 스킬 게이지를 10 반환한다."
   },
   {
    "en": "Agility +20, Critical Rate +7%.",
-   "zh-TW": "敏捷 +20，暴擊率 +7%。"
+   "zh-TW": "敏捷 +20，暴擊率 +7%。",
+   "ja": "俊敏+20、会心率UP（+7%）。",
+   "ko": "민첩 +20, 치명타 확률 증가 +7%."
   },
   {
    "en": "Seething Blood gains +8% base damage multiplier and restores an extra Intellect × 0.04 HP when triggered.",
-   "zh-TW": "沸血觸發時的基礎傷害倍率 +8%，回復的基礎生命值額外增加智識 × 0.04。"
+   "zh-TW": "沸血觸發時的基礎傷害倍率 +8%，回復的基礎生命值額外增加智識 × 0.04。",
+   "ja": "ざわめく血の発動時、基礎ダメージ倍率+8%、さらにHPを知性×0.04追加で回復する。",
+   "ko": "끓어오르는 피 발동 시 기초 피해 배율이 +8% 증가하고, 추가로 생명력을 지능×0.04 회복한다."
   },
   {
    "en": "\"Razorclaw\" Ambuscade costs 15% less Ultimate Energy.",
-   "zh-TW": "「利爪」奇襲所需的終結技能量 -15%。"
+   "zh-TW": "「利爪」奇襲所需的終結技能量 -15%。",
+   "ja": "“鋭爪”奇襲に必要な必殺チャージ-15%。",
+   "ko": "기습 '날카로운 발톱'의 궁극기 에너지 소모량이 15% 감소한다."
   },
   {
    "en": "\"Razorclaw\" Ambuscade deals 1.1 times damage and gains +30% Critical DMG.",
-   "zh-TW": "「利爪」奇襲的傷害倍率提升為 1.1 倍，暴擊傷害額外 +30%。"
+   "zh-TW": "「利爪」奇襲的傷害倍率提升為 1.1 倍，暴擊傷害額外 +30%。",
+   "ja": "“鋭爪”奇襲のダメージが1.1倍になり、会心ダメージがさらに+30%。",
+   "ko": "기습 '날카로운 발톱'의 피해가 1.1배가 되며 치명타 피해가 +30% 증가한다."
   }
  ]
 }

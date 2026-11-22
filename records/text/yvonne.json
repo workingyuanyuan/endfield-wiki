@@ -2,56 +2,80 @@
  "slug": "yvonne",
  "intro": {
   "en": "Yvonne is a fashion-loving researcher in Endfield Industries' Specialist Tech Division who studies Æther, Blight, and related devices.",
-  "zh-TW": "伊馮是終末地工業特種技術部門的幹員，熱衷新潮打扮，現負責研究超域、侵蝕及相關裝置。"
+  "zh-TW": "伊馮是終末地工業特種技術部門的幹員，熱衷新潮打扮，現負責研究超域、侵蝕及相關裝置。",
+  "ja": "イヴォンヌはエンドフィールド工業の特殊技術部に所属するファッション好きの研究員であり、超域や侵蝕および関連装置を研究している。",
+  "ko": "이본은 엔드필드 공업 특수 기술부 소속의 패션을 좋아하는 연구원으로, 초자연과 침식 및 관련 장치를 연구한다."
  },
  "skills": {
   "basic": {
    "en": "Cryo combo of up to 5 hits. While she is the controlled operator, her Final Strike deals 17 Stagger.",
-   "zh-TW": "最多 5 段的寒冷傷害連擊。作為主控幹員時，重擊造成 17 點失衡。"
+   "zh-TW": "最多 5 段的寒冷傷害連擊。作為主控幹員時，重擊造成 17 點失衡。",
+   "ja": "最大5段の寒冷コンボを行う。イヴォンヌが操作中のオペレーターのとき、重攻撃はブレイク値を17与える。",
+   "ko": "최대 5단의 냉기 콤보 공격을 한다. 이본이 메인 컨트롤 오퍼레이터일 때 강력한 일격은 불균형치를 17 준다."
   },
   "battle": {
    "en": "Throws a freezing bomb that explodes on hit for Cryo damage. Against enemies with Cryo Infliction or Nature Infliction, it consumes all Arts Infliction stacks to force Solidification and deal extra Cryo damage by stacks spent. Applying Solidification also grants bonus Ultimate Energy by stacks spent, only 1 time per cast.",
-   "zh-TW": "發射製冷彈，命中爆炸造成寒冷傷害。若目標有寒冷附著或自然附著，則消耗其所有法術附著、強制施加凍結，並依消耗層數造成寒冷傷害。成功施加凍結時依消耗層數額外獲得終結技能量，命中多名敵人也僅觸發 1 次。"
+   "zh-TW": "發射製冷彈，命中爆炸造成寒冷傷害。若目標有寒冷附著或自然附著，則消耗其所有法術附著、強制施加凍結，並依消耗層數造成寒冷傷害。成功施加凍結時依消耗層數額外獲得終結技能量，命中多名敵人也僅觸發 1 次。",
+   "ja": "冷却爆弾を投げて命中時に爆発させ寒冷ダメージを与える。寒冷付着または自然付着状態の敵には全アーツ付着を消費して強制凍結し、消費段階数に応じた追加寒冷ダメージを与える。凍結付与時は消費段階数に応じた追加必殺チャージも獲得する（発動ごとに1回のみ）。",
+   "ko": "냉동 폭탄을 던져 명중 시 폭발시켜 냉기 피해를 준다. 냉기 부착 또는 자연 부착 상태의 적에게는 모든 아츠 부착 스택을 소모해 강제 동결시키고, 소모 스택에 비례한 추가 냉기 피해를 준다. 동결 부여 시 소모 스택에 비례한 추가 궁극기 에너지도 획득한다(사용당 1회 한정)."
   },
   "combo": {
    "en": "Trigger: the controlled operator lands a Final Strike on an enemy with Solidification. Deploys Frost-e-Bytee beside the enemy to repeatedly deal Cryo damage and pull nearby enemies in, then explode on expiry to deal Cryo damage and force Solidification. Hitting enemies grants bonus Ultimate Energy only 1 time per cast.",
-   "zh-TW": "觸發條件：主控幹員對凍結狀態的敵人造成重擊。在敵人旁部署速凍仔，持續釋放能量對周圍敵人造成寒冷傷害並向中心牽引，結束時自爆造成寒冷傷害並強制施加凍結。命中敵人會額外獲得終結技能量，命中多名目標僅觸發 1 次。"
+   "zh-TW": "觸發條件：主控幹員對凍結狀態的敵人造成重擊。在敵人旁部署速凍仔，持續釋放能量對周圍敵人造成寒冷傷害並向中心牽引，結束時自爆造成寒冷傷害並強制施加凍結。命中敵人會額外獲得終結技能量，命中多名目標僅觸發 1 次。",
+   "ja": "発動条件：操作中のオペレーターが凍結状態の敵に重攻撃を命中させる。敵のそばにアイスちゃんを設置し、周囲の敵を引き寄せつつ繰り返し寒冷ダメージを与え、終了時に爆発して寒冷ダメージと強制凍結を与える。敵への命中で追加の必殺チャージを獲得する（発動ごとに1回のみ）。",
+   "ko": "발동 조건: 메인 컨트롤 오퍼레이터가 동결 상태의 적에게 강력한 일격을 명중시킨다. 적 옆에 꽁꽁이를 배치해 주변 적을 끌어당기며 반복해서 냉기 피해를 주고, 종료 시 폭발해 냉기 피해와 강제 동결을 가한다. 적 명중 시 추가 궁극기 에너지를 획득한다(사용당 1회 한정)."
   },
   "ultimate": {
    "en": "Deploys Tink-a-Bella, switches control to Yvonne, and temporarily enhances her basic attacks: each enhanced sequence adds a Critical Rate stack, and max stacks add Critical DMG. The final hit becomes an enhanced Final Strike for heavy Cryo damage; if the enemy is Solidified, she deals an extra Cryo hit and consumes Solidification.",
-   "zh-TW": "部署小滴答輔助並切換為主控幹員，一段時間內強化伊馮的普通攻擊，每次普攻疊加暴擊率，滿層後提升自身暴擊傷害。結束前的最後一次強力攻擊轉為重擊，造成大量寒冷傷害；若敵人處於凍結狀態，則額外造成寒冷傷害並消耗凍結。"
+   "zh-TW": "部署小滴答輔助並切換為主控幹員，一段時間內強化伊馮的普通攻擊，每次普攻疊加暴擊率，滿層後提升自身暴擊傷害。結束前的最後一次強力攻擊轉為重擊，造成大量寒冷傷害；若敵人處於凍結狀態，則額外造成寒冷傷害並消耗凍結。",
+   "ja": "ピタちゃんを設置して操作をイヴォンヌに切り替え、一定時間、通常攻撃を強化する。強化された通常攻撃を一連の動作の最後まで行うごとに会心率が一段階上昇し、最大段階に達すると会心ダメージも上昇する。最後の一撃は強攻撃に変化して大きな寒冷ダメージを与える。敵が凍結状態なら、さらに寒冷ダメージを追加で与え、その敵の凍結を消費する。",
+   "ko": "삐삐를 배치하고 조작을 이본으로 전환해 일정 시간 일반 공격을 강화한다. 강화된 일반 공격 한 세트를 마칠 때마다 치명타 확률이 한 스택씩 증가하고, 최대 중첩에 도달하면 치명타 피해도 증가한다. 마지막 일격은 강화된 강력한 일격으로 바뀌어 큰 냉기 피해를 준다. 적이 동결 상태면 냉기 피해를 한 번 더 주고 해당 적의 동결을 소모한다."
   }
  },
  "talents": [
   {
    "en": "After Brr-Brr-Bomb β applies Solidification, Yvonne's next basic attack immediately becomes a Final Strike (with +50% damage at Promotion II).",
-   "zh-TW": "冰冰彈·β型施加凍結後，伊馮的下一次普通攻擊將改為直接重擊（精英化II 此重擊傷害 +50%）。"
+   "zh-TW": "冰冰彈·β型施加凍結後，伊馮的下一次普通攻擊將改為直接重擊（精英化II 此重擊傷害 +50%）。",
+   "ja": "「ひえひえビーム・β型」で凍結を付与した後、イヴォンヌの次の通常攻撃が即座に重攻撃になる（昇進・Ⅱではこのダメージ+50%）。",
+   "ko": "얼음 폭탄 · β형으로 동결을 부여한 후, 이본의 다음 일반 공격이 즉시 강력한 일격으로 변경된다(정예화 II에서는 피해 +50%)."
   },
   {
    "en": "Gains +10% Critical DMG (+20% at Promotion III) against enemies with Cryo Infliction, doubled against enemies with Solidification.",
-   "zh-TW": "對處於寒冷附著狀態的敵人造成暴擊傷害 +10%（精英化III 為 +20%），對處於凍結狀態的敵人效果加倍。"
+   "zh-TW": "對處於寒冷附著狀態的敵人造成暴擊傷害 +10%（精英化III 為 +20%），對處於凍結狀態的敵人效果加倍。",
+   "ja": "寒冷付着状態の敵に対する会心ダメージが+10%（昇進・Ⅲでは+20%）され、凍結状態の敵には効果が倍になる。",
+   "ko": "냉기 부착 상태의 적에게 주는 치명타 피해가 +10%(정예화 III에서는 +20%) 증가하며, 동결 상태의 적에게는 효과가 두 배가 된다."
   }
  ],
  "potentials": [
   {
    "en": "Flashfreezer υ37 has +20% effect radius, releases energy 2 more times, and grants an extra 15 Ultimate Energy after dealing damage.",
-   "zh-TW": "速凍仔·υ37 的範圍擴大 20%，多釋放 2 次能量，造成傷害時再得 15 點終結技能量。"
+   "zh-TW": "速凍仔·υ37 的範圍擴大 20%，多釋放 2 次能量，造成傷害時再得 15 點終結技能量。",
+   "ja": "「アイスちゃん・υ37」の効果範囲の半径が20%拡大し、エネルギー放出回数が2回増加する。ダメージを与えた後、追加で必殺チャージを15獲得する。",
+   "ko": "꽁꽁이 · υ37의 효과 반경이 20% 증가하고 에너지를 2회 더 방출하며, 피해를 준 후 궁극기 에너지를 추가로 15 획득한다."
   },
   {
    "en": "Intellect +20, Critical Rate +7%.",
-   "zh-TW": "智識 +20，暴擊率 +7%。"
+   "zh-TW": "智識 +20，暴擊率 +7%。",
+   "ja": "知性+20、会心率+7%。",
+   "ko": "지능 +20, 치명타 확률 +7%."
   },
   {
    "en": "Freezing Point grants an extra +10% Critical DMG against enemies with Cryo Infliction, also doubled against enemies with Solidification.",
-   "zh-TW": "冰點對寒冷附著敵人的暴擊傷害額外 +10%，對凍結敵人的效果同樣加倍。"
+   "zh-TW": "冰點對寒冷附著敵人的暴擊傷害額外 +10%，對凍結敵人的效果同樣加倍。",
+   "ja": "「氷点」による寒冷付着状態の敵への会心ダメージがさらに+10%され、凍結状態の敵には同様に効果が倍になる。",
+   "ko": "빙점의 냉기 부착 상태 적 대상 치명타 피해가 추가로 +10% 증가하며, 동결 상태의 적에게도 마찬가지로 효과가 두 배가 된다."
   },
   {
    "en": "If Brr-Brr-Bomb β's explosion hits only a single enemy, it returns 10 SP.",
-   "zh-TW": "冰冰彈·β型的爆炸僅命中單一敵人時，返還 10 點技力。"
+   "zh-TW": "冰冰彈·β型的爆炸僅命中單一敵人時，返還 10 點技力。",
+   "ja": "「ひえひえビーム・β型」の爆発が敵単体のみに命中した場合、SPを10返還する。",
+   "ko": "얼음 폭탄 · β형의 폭발이 단일 적에게만 명중하면 스킬 게이지를 10 반환한다."
   },
   {
    "en": "During Cryoblasting Pistolier, Yvonne gains +10% ATK and +30% Critical DMG.",
-   "zh-TW": "冷凍射手持續期間，自身攻擊力 +10%、暴擊傷害 +30%。"
+   "zh-TW": "冷凍射手持續期間，自身攻擊力 +10%、暴擊傷害 +30%。",
+   "ja": "「アイスシューター」持続中、イヴォンヌの攻撃力+10%、会心ダメージ+30%。",
+   "ko": "아이스 슈터 지속 중 이본의 공격력 +10%, 치명타 피해 +30%."
   }
  ]
 }

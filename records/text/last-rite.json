@@ -2,56 +2,80 @@
  "slug": "last-rite",
  "intro": {
   "en": "Last Rite is a young Nachzehrer raised by Caprinae gravekeepers; after Seš'qa discovered her potential, merchants came to call her the Princess of the War Court, and she now fights for Endfield under contract.",
-  "zh-TW": "別禮是由卡普里尼守墓人夫婦收養的年輕食腐者，後因塞什卡而被人稱為戰爭王庭公主，如今依合約為終末地作戰。"
+  "zh-TW": "別禮是由卡普里尼守墓人夫婦收養的年輕食腐者，後因塞什卡而被人稱為戰爭王庭公主，如今依合約為終末地作戰。",
+  "ja": "ラストライトはキャプリニーの墓守に育てられた若きナハツェーラーで、セシュカに素質を見出された後に商人たちから「戦争王庭の姫」と呼ばれるようになり、現在は契約に基づきエンドフィールドのために戦っている。",
+  "ko": "라스트 라이트는 카프리니 묘지기에게 길러진 젊은 나흐체러로, 세쉬카가 잠재력을 발견한 뒤 상인들에게 '전쟁 왕정의 공주'라 불리게 되었으며 현재는 계약에 따라 엔드필드를 위해 싸우고 있다."
  },
  "skills": {
   "basic": {
    "en": "Cryo combo of up to 4 hits. The final strike deals 25 Stagger while she is the controlled operator.",
-   "zh-TW": "最多 4 段的寒冷傷害連擊。作為主控幹員時，重擊造成 25 點失衡。"
+   "zh-TW": "最多 4 段的寒冷傷害連擊。作為主控幹員時，重擊造成 25 點失衡。",
+   "ja": "最大4段の寒冷連撃。ラストライトが操作中のオペレーターのとき、重攻撃でブレイク値を25与える。",
+   "ko": "최대 4단계의 냉기 연계 공격. 라스트 라이트가 메인 컨트롤 오퍼레이터일 때 강력한 일격이 불균형치를 25 준다."
   },
   "battle": {
    "en": "Applies Hypothermic Perfusion to the controlled operator's weapon and returns some SP. For a time, their next final strike summons Last Rite's Mirages for an extra Cryo hit that applies Cryo Infliction; casting it while controlling her does not interrupt her basic attack combo.",
-   "zh-TW": "對主控幹員的武器進行低溫灌注並返還一定技力。一段時間內，其下一次重擊會生成別禮的幻影追擊目標，造成寒冷傷害並施加寒冷附著；若主控幹員為別禮，施放不會中斷普通攻擊。"
+   "zh-TW": "對主控幹員的武器進行低溫灌注並返還一定技力。一段時間內，其下一次重擊會生成別禮的幻影追擊目標，造成寒冷傷害並施加寒冷附著；若主控幹員為別禮，施放不會中斷普通攻擊。",
+   "ja": "操作中のオペレーターの武器に低温注入を付与してSPを一部返還する。一定時間内、そのオペレーターの次の重攻撃でラストライトの幻影を召喚し、寒冷ダメージと寒冷付着を与える追撃を行う。ラストライト操作中の発動では通常攻撃連撃が中断されない。",
+   "ko": "메인 컨트롤 오퍼레이터의 무기에 저온 주입을 부여하고 스킬 게이지를 일부 반환한다. 일정 시간 안에 해당 오퍼레이터가 다음 강력한 일격을 가하면 라스트 라이트의 환영이 나타나 추가로 냉기 피해를 주고 냉기 부착을 부여한다. 라스트 라이트를 직접 조종하는 동안 이 스킬을 사용해도 일반 공격 연계가 끊기지 않는다."
   },
   "combo": {
    "en": "Trigger: an enemy has 3 or more stacks of Cryo Infliction. Last Rite encases the target in icicles and shatters them, consuming all Cryo Infliction stacks to deal Cryo damage and gain Ultimate Energy scaling with the stacks consumed.",
-   "zh-TW": "觸發條件：有敵人處於 3 層及以上寒冷附著狀態。在目標身上凝結並斬碎冰錐，消耗其所有寒冷附著，依消耗層數造成寒冷傷害並獲得終結技能量。"
+   "zh-TW": "觸發條件：有敵人處於 3 層及以上寒冷附著狀態。在目標身上凝結並斬碎冰錐，消耗其所有寒冷附著，依消耗層數造成寒冷傷害並獲得終結技能量。",
+   "ja": "発動条件：敵に寒冷付着が3段階以上付与されている。ラストライトが目標を氷柱で包み、その氷柱を砕いて寒冷付着をすべて消費する。消費した段階数に応じて目標に寒冷ダメージを与え、自身は必殺チャージを獲得する。",
+   "ko": "발동 조건: 적에게 냉기 부착이 3스택 이상 쌓였을 때. 라스트 라이트가 대상을 고드름으로 감싼 뒤 고드름을 깨뜨려 대상의 냉기 부착을 모두 소모한다. 소모한 스택 수에 따라 대상에게 주는 냉기 피해와 자신이 획득하는 궁극기 에너지가 증가한다."
   },
   "ultimate": {
    "en": "She dons frost armor and swings an ice scythe 3 times for heavy Cryo damage while immune to all damage. Last Rite can only gain Ultimate Energy from her own battle and combo skills.",
-   "zh-TW": "身披霜鎧並以冰鐮向前斬擊 3 次，造成大量寒冷傷害，期間免疫所有傷害。別禮只能透過自身的戰技與連攜技獲得終結技能量。"
+   "zh-TW": "身披霜鎧並以冰鐮向前斬擊 3 次，造成大量寒冷傷害，期間免疫所有傷害。別禮只能透過自身的戰技與連攜技獲得終結技能量。",
+   "ja": "霜の鎧をまとい、全ダメージ無効状態で氷の鎌を3回振るい大ダメージの寒冷攻撃を行う。ラストライトは自身の戦技と連携技からのみ必殺チャージを獲得できる。",
+   "ko": "서리 갑옷을 두르고 모든 피해에 면역인 상태로 얼음 낫을 3회 휘둘러 막대한 냉기 피해를 준다. 라스트 라이트는 자신의 배틀 스킬과 연계 스킬로만 궁극기 에너지를 획득할 수 있다."
   }
  },
  "talents": [
   {
    "en": "After consuming any Arts Infliction, Last Rite applies Cryo Susceptibility equal to 2% per stack consumed (4% at Promotion II) to that target for 15 s; this effect cannot stack.",
-   "zh-TW": "別禮消耗任何法術附著後，對該目標施加每層消耗量 2% 的寒冷脆弱（精英化II 為 4%），持續 15 秒，無法疊加。"
+   "zh-TW": "別禮消耗任何法術附著後，對該目標施加每層消耗量 2% 的寒冷脆弱（精英化II 為 4%），持續 15 秒，無法疊加。",
+   "ja": "任意のアーツ付着を消費した後、ラストライトはその目標へ消費した段階ごとに2%（昇進・Ⅱで4%）の寒冷脆弱を15秒間付与する。この効果は重複しない。",
+   "ko": "임의의 아츠 부착을 소모한 후, 라스트 라이트는 해당 대상에게 소모 스택당 2%(정예화 II에서는 4%)의 냉기 취약을 15초 동안 부여한다. 이 효과는 중첩되지 않는다."
   },
   {
    "en": "When Vigil Services damages an enemy with Cryo Susceptibility, that Cryo Susceptibility is treated as 1.2 times as strong (1.5 times at Promotion III).",
-   "zh-TW": "臨終別禮對處於寒冷脆弱狀態的敵人造成傷害時，將該寒冷脆弱效果視為 1.2 倍（精英化III 為 1.5 倍）。"
+   "zh-TW": "臨終別禮對處於寒冷脆弱狀態的敵人造成傷害時，將該寒冷脆弱效果視為 1.2 倍（精英化III 為 1.5 倍）。",
+   "ja": "「終の別れ」で寒冷脆弱状態の敵にダメージを与えるとき、その寒冷脆弱の効果は1.2倍（昇進・Ⅲで1.5倍）として扱われる。",
+   "ko": "'마지막 인사'로 냉기 취약 상태의 적에게 피해를 줄 때 해당 냉기 취약 효과가 1.2배(정예화 III에서는 1.5배)로 적용된다."
   }
  ],
  "potentials": [
   {
    "en": "A final strike from the controlled operator with Hypothermic Perfusion deals an extra 20% damage and 5 Stagger on hit.",
-   "zh-TW": "帶有低溫灌注的主控幹員以重擊命中敵人時，額外造成 20% 傷害與 5 點失衡。"
+   "zh-TW": "帶有低溫灌注的主控幹員以重擊命中敵人時，額外造成 20% 傷害與 5 點失衡。",
+   "ja": "低温注入が付与された操作中のオペレーターの重攻撃が命中すると、追加で20%のダメージとブレイク値5を与える。",
+   "ko": "저온 주입이 적용된 메인 컨트롤 오퍼레이터의 강력한 일격이 명중하면 추가로 20%의 피해와 불균형치 5를 준다."
   },
   {
    "en": "Strength +20, Cryo damage +10%.",
-   "zh-TW": "力量 +20，寒冷傷害 +10%。"
+   "zh-TW": "力量 +20，寒冷傷害 +10%。",
+   "ja": "筋力+20、寒冷ダメージ+10%。",
+   "ko": "힘 +20, 냉기 피해 +10%."
   },
   {
    "en": "Winter's Devourer and Vigil Services deal 1.15 times their damage.",
-   "zh-TW": "噬冬與臨終別禮的傷害倍率提升為 1.15 倍。"
+   "zh-TW": "噬冬與臨終別禮的傷害倍率提升為 1.15 倍。",
+   "ja": "「冬喰」と「終の別れ」のダメージが1.15倍になる。",
+   "ko": "'겨울 포식자'와 '마지막 인사'의 피해가 1.15배가 된다."
   },
   {
    "en": "Vigil Services costs 15% less Ultimate Energy.",
-   "zh-TW": "臨終別禮所需的終結技能量 -15%。"
+   "zh-TW": "臨終別禮所需的終結技能量 -15%。",
+   "ja": "「終の別れ」に必要な必殺チャージが15%減少する。",
+   "ko": "'마지막 인사'의 궁극기 에너지 소모량이 15% 감소한다."
   },
   {
    "en": "Esoteric Legacy of Seš'qa returns 5 more SP, and its Mirage extra attack deals 1.2 times its damage.",
-   "zh-TW": "塞什卡的秘傳額外返還 5 點技力，且幻影追擊的傷害倍率提升為 1.2 倍。"
+   "zh-TW": "塞什卡的秘傳額外返還 5 點技力，且幻影追擊的傷害倍率提升為 1.2 倍。",
+   "ja": "「セシュカの秘伝」のSP返還量が5増加し、幻影の追撃ダメージが1.2倍になる。",
+   "ko": "'세쉬카의 비전'의 스킬 게이지 반환량이 5 증가하고, 환영 추가 공격의 피해가 1.2배가 된다."
   }
  ]
 }

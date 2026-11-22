@@ -2,56 +2,80 @@
  "slug": "pogranichnik",
  "intro": {
   "en": "Pogranichnik is a Rhodes Island operator and former Shieldguard Banner commander in the Order of Steel Oath who serves Endfield Industries as a military consultant under an agreement between the two companies.",
-  "zh-TW": "駿衛來自羅德島，曾任鐵誓軍盾衛旗隊指揮官，現依兩間公司的協議架構擔任終末地工業的軍事顧問。"
+  "zh-TW": "駿衛來自羅德島，曾任鐵誓軍盾衛旗隊指揮官，現依兩間公司的協議架構擔任終末地工業的軍事顧問。",
+  "ja": "ポグラニチニクはロドス・アイランドのオペレーターで、元鉄誓軍の盾兵旗隊指揮官であり、両社間の協定に基づきエンドフィールド工業の軍事顧問を務めている。",
+  "ko": "포그라니치니크는 로도스 아일랜드의 오퍼레이터이자 전 철의 서약군 방패병 부대 지휘관으로, 양사 간 협정에 따라 엔드필드 공업의 군사 고문으로 복무한다."
  },
  "skills": {
   "basic": {
    "en": "Physical combo of up to 5 hits. As the controlled operator, his final strike also deals 18 Stagger.",
-   "zh-TW": "最多 5 段的物理傷害連擊。作為主控幹員時，重擊額外造成 18 點失衡。"
+   "zh-TW": "最多 5 段的物理傷害連擊。作為主控幹員時，重擊額外造成 18 點失衡。",
+   "ja": "最大5段の物理連撃を行う。操作中のオペレーターであるとき、重攻撃でさらにブレイク値18を与える。",
+   "ko": "최대 5단계의 물리 연속 공격을 가한다. 메인 컨트롤 오퍼레이터일 때 강력한 일격으로 불균형치 18을 추가로 준다."
   },
   "battle": {
    "en": "Slashes enemies ahead in 2 hits for Physical damage, applies Breach, and recovers SP based on the Vulnerability stacks consumed, triggering at most 1 time even if hitting multiple enemies.",
-   "zh-TW": "對前方敵人進行 2 段斬擊，造成物理傷害並施加碎甲，依消耗的破防層數回復技力，命中多名敵人時最多僅回復 1 次。"
+   "zh-TW": "對前方敵人進行 2 段斬擊，造成物理傷害並施加碎甲，依消耗的破防層數回復技力，命中多名敵人時最多僅回復 1 次。",
+   "ja": "前方の敵を2段斬撃して物理ダメージと破砕を与え、消費したクラッシュ段階に応じてSPを回復する。複数の敵に命中しても回復は最大1回まで発動する。",
+   "ko": "전방의 적을 2회 베어 물리 피해와 갑옷 파괴를 주고, 소모한 방어 불능 스택에 따라 스킬 게이지를 회복한다. 여러 적에게 명중해도 최대 1회만 발동한다."
   },
   "combo": {
    "en": "Trigger: Crush or Breach consumes an enemy's Vulnerability stacks. Slashes up to 3 times matching the highest stacks consumed from one enemy for Physical damage and SP recovery, growing stronger each hit; consuming 4 stacks enhances slash 3.",
-   "zh-TW": "觸發條件：敵人因猛擊或碎甲消耗破防層數。依單一敵人被消耗的最高破防層數斬擊相同段數（最多 3 段），造成物理傷害並回復技力，每段效果遞增；消耗 4 層破防時強化第 3 段斬擊。"
+   "zh-TW": "觸發條件：敵人因猛擊或碎甲消耗破防層數。依單一敵人被消耗的最高破防層數斬擊相同段數（最多 3 段），造成物理傷害並回復技力，每段效果遞增；消耗 4 層破防時強化第 3 段斬擊。",
+   "ja": "発動条件：猛撃または破砕により敵のクラッシュ段階が消費される。単体の敵から消費された最大段階数と同じ回数（最大3回）斬撃し、物理ダメージとSP回復を与え、段ごとに威力が上がる。4段階消費すると3段目の斬撃が強化される。",
+   "ko": "발동 조건: 강타 또는 갑옷 파괴로 적의 방어 불능 스택이 소모된다. 한 적에게서 소모된 최대 스택 수만큼(최대 3회) 베어 물리 피해를 주고 스킬 게이지를 회복하며 타격마다 강해진다. 4스택 소모 시 3번째 참격이 강화된다."
   },
   "ultimate": {
    "en": "Summons 4 Shieldguards to push enemies to the target for Physical damage and gain 5 Steel Oath. When an enemy suffers a Physical Status or his combo damage, 1 Steel Oath sends 1 Shieldguard to harass for Physical damage and SP; the last point sends all 4 into Decisive Assault for massive Physical damage and large SP recovery.",
-   "zh-TW": "召喚 4 名盾衛朝目標推進，將沿途敵人一併推向目標，造成物理傷害並產生 5 點鐵誓。每當敵人承受物理異常效果或駿衛連攜技的傷害，便消耗 1 點鐵誓喚出 1 名盾衛進行襲擾，造成物理傷害與技力回復；用盡最後一點鐵誓時，全體 4 名盾衛發動決勝，造成高額物理傷害並大幅回復技力。"
+   "zh-TW": "召喚 4 名盾衛朝目標推進，將沿途敵人一併推向目標，造成物理傷害並產生 5 點鐵誓。每當敵人承受物理異常效果或駿衛連攜技的傷害，便消耗 1 點鐵誓喚出 1 名盾衛進行襲擾，造成物理傷害與技力回復；用盡最後一點鐵誓時，全體 4 名盾衛發動決勝，造成高額物理傷害並大幅回復技力。",
+   "ja": "盾兵を4体召喚し、敵を目標地点へ押し出して物理ダメージを与え鉄誓を5獲得する。敵が物理異常またはポグラニチニクの連携技ダメージを受けると鉄誓を1消費して盾兵1体が撹乱を行い物理ダメージとSP回復を与える。最後の鉄誓で4体全員が勝決を発動し、絶大な物理ダメージと大量のSP回復を与える。",
+   "ko": "방패병 4명을 소환해 적을 목표 지점으로 밀어내며 물리 피해를 주고 철의 서약 5를 얻는다. 적이 물리 이상이나 포그라니치니크의 연계 스킬 피해를 받으면 철의 서약 1을 소모해 방패병 1명이 교란하여 물리 피해를 주고 스킬 게이지를 회복하며, 마지막 철의 서약으로는 4명 모두가 최후의 승부를 펼쳐 막대한 물리 피해를 주고 대량의 스킬 게이지를 회복한다."
   }
  },
  "talents": [
   {
    "en": "In battle, every 80 SP recovered by his own skills grants Fervent Morale for 20 s, giving ATK +4% and Arts Intensity +4 (+8% and +8 at Promotion II), up to 3 independently timed stacks.",
-   "zh-TW": "戰鬥中以自身技能每回復 80 點技力，獲得持續 20 秒的士氣激昂，使攻擊力 +4%、源石技藝強度 +4（精英化II 為 +8%、+8），最多 3 層且各層獨立計時。"
+   "zh-TW": "戰鬥中以自身技能每回復 80 點技力，獲得持續 20 秒的士氣激昂，使攻擊力 +4%、源石技藝強度 +4（精英化II 為 +8%、+8），最多 3 層且各層獨立計時。",
+   "ja": "戦闘中、自身のスキルでSPを80回復するごとに20秒間持続する士気高揚を獲得し、攻撃力+4%、アーツ強度+4（昇進・Ⅱで+8%、+8）となる。最大3段階まで重複し、各段階は独立して計時される。",
+   "ko": "전투 중 자신의 스킬로 스킬 게이지를 80 회복할 때마다 20초 동안 사기 격양을 얻어 공격력 +4%, 오리지늄 아츠 강도 +4(정예화 II에서 +8%, +8)를 받는다. 최대 3스택까지 중첩되며 각 스택의 지속 시간은 독립적이다."
   },
   {
    "en": "Any operator who triggers the follow-up effects of Shieldguard Banner, Forward also gains Fervent Morale for 5 s (10 s at Promotion III); requires The Living Banner to be active.",
-   "zh-TW": "任意幹員觸發盾衛旗隊，上前的後續效果時，也會獲得士氣激昂 5 秒（精英化III 為 10 秒）；需啟動天賦活著的旗幟。"
+   "zh-TW": "任意幹員觸發盾衛旗隊，上前的後續效果時，也會獲得士氣激昂 5 秒（精英化III 為 10 秒）；需啟動天賦活著的旗幟。",
+   "ja": "任意のオペレーターが盾兵旗隊、進めの後続効果を発動させると、5秒間（昇進・Ⅲで10秒間）持続する士気高揚を獲得する。発動には生ける旗印が有効である必要がある。",
+   "ko": "임의의 오퍼레이터가 방패병 부대, 전진의 후속 효과를 발동하면 5초 동안(정예화 III에서 10초) 사기 격양을 얻는다. 생존의 깃발이 활성화되어 있어야 한다."
   }
  ],
  "potentials": [
   {
    "en": "The Pulverizing Front returns 15 SP when hitting at least 2 enemies.",
-   "zh-TW": "粉碎陣線命中至少 2 名敵人時，返還 15 點技力。"
+   "zh-TW": "粉碎陣線命中至少 2 名敵人時，返還 15 點技力。",
+   "ja": "戦線粉砕が2体以上の敵に命中したとき、SPを15返還する。",
+   "ko": "전선 분쇄가 2명 이상의 적에게 명중하면 스킬 게이지를 15 반환한다."
   },
   {
    "en": "Will +20, Physical damage +10%.",
-   "zh-TW": "意志 +20，造成的物理傷害 +10%。"
+   "zh-TW": "意志 +20，造成的物理傷害 +10%。",
+   "ja": "意志+20、物理ダメージ+10%。",
+   "ko": "의지 +20, 물리 피해 +10%."
   },
   {
    "en": "The Living Banner requires only 60 SP recovered per stack and increases Pogranichnik's max Fervent Morale stacks by +2.",
-   "zh-TW": "活著的旗幟獲得士氣激昂所需的技力回復量降至 60 點，自身士氣激昂上限 +2 層。"
+   "zh-TW": "活著的旗幟獲得士氣激昂所需的技力回復量降至 60 點，自身士氣激昂上限 +2 層。",
+   "ja": "生ける旗印で士気高揚の獲得に必要なSP回復量が60に減少し、ポグラニチニク自身の士気高揚の最大段階数が+2される。",
+   "ko": "생존의 깃발의 스택당 필요한 스킬 게이지 회복량이 60으로 줄고, 포그라니치니크의 사기 격양 최대 스택이 +2 증가한다."
   },
   {
    "en": "Shieldguard Banner, Forward costs 15% less Ultimate Energy.",
-   "zh-TW": "盾衛旗隊，上前所需的終結技能量 -15%。"
+   "zh-TW": "盾衛旗隊，上前所需的終結技能量 -15%。",
+   "ja": "盾兵旗隊、進めに必要な必殺チャージが15%減少する。",
+   "ko": "방패병 부대, 전진에 필요한 궁극기 에너지가 15% 감소한다."
   },
   {
    "en": "Full Moon Slash has 2 s shorter cooldown and recovers 1.2 times as much SP.",
-   "zh-TW": "盈月邀擊冷卻時間 -2 秒，技力回復量提升為 1.2 倍。"
+   "zh-TW": "盈月邀擊冷卻時間 -2 秒，技力回復量提升為 1.2 倍。",
+   "ja": "満月迎撃のクールタイムが2秒短縮され、SP回復量が1.2倍になる。",
+   "ko": "보름달 참격의 쿨타임이 2초 줄고, 스킬 게이지 회복량이 1.2배가 된다."
   }
  ]
 }

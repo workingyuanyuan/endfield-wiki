@@ -2,56 +2,80 @@
  "slug": "snowshine",
  "intro": {
   "en": "Snowshine is a Rhodes Island search and rescue specialist assigned to Endfield Industries who focuses on polar and high-altitude operations and wrote the Polar Survival Guide.",
-  "zh-TW": "晝雪來自羅德島，依雙方協議以救援專家身分派駐終末地工業，專精極地與高海拔地理環境，並著有《極地生存指南》。"
+  "zh-TW": "晝雪來自羅德島，依雙方協議以救援專家身分派駐終末地工業，專精極地與高海拔地理環境，並著有《極地生存指南》。",
+  "ja": "スノーシャインはロドス・アイランドからエンドフィールド工業へ派遣された捜索救助の専門家で、極地・高地任務を得意とし『極地サバイバルガイド』の著者でもある。",
+  "ko": "스노우샤인은 로도스 아일랜드에서 엔드필드 공업으로 파견된 수색 구조 전문가로, 극지 및 고지대 작전에 특화되어 있으며 《극지 생존 가이드》를 집필했다."
  },
  "skills": {
   "basic": {
    "en": "Physical combo of up to 3 hits. The final strike deals 23 Stagger while Snowshine is the controlled operator.",
-   "zh-TW": "最多 3 段的物理傷害連擊。作為主控幹員時，重擊造成 23 點失衡。"
+   "zh-TW": "最多 3 段的物理傷害連擊。作為主控幹員時，重擊造成 23 點失衡。",
+   "ja": "最大3段の物理ダメージ連撃。スノーシャインが操作中のオペレーターのとき、重攻撃はブレイク値23を与える。",
+   "ko": "최대 3단계의 물리 피해 연계 공격. 스노우샤인이 메인 컨트롤 오퍼레이터일 때 강력한 일격이 불균형치 23을 준다."
   },
   "battle": {
    "en": "Snowshine raises her shield to block attacks, granting Protection to herself and nearby operators while returning some SP. If hit while blocking, she retaliates, trying to hit the attacker for Cryo damage and Cryo Infliction.",
-   "zh-TW": "架起盾牌格擋攻擊，為自身與周圍幹員施加庇護並立即返還一定技力。立盾期間受到攻擊便會反擊，嘗試對攻擊者造成寒冷傷害並施加寒冷附著。"
+   "zh-TW": "架起盾牌格擋攻擊，為自身與周圍幹員施加庇護並立即返還一定技力。立盾期間受到攻擊便會反擊，嘗試對攻擊者造成寒冷傷害並施加寒冷附著。",
+   "ja": "スノーシャインが盾を構えて攻撃をブロックし、自身と周囲のオペレーターに加護効果を付与しつつSPを一定量返還する。ブロック中に攻撃を受けると反撃し、攻撃者に寒冷ダメージと寒冷付着の付与を試みる。",
+   "ko": "스노우샤인이 방패를 들어 공격을 막으며 자신과 주변 오퍼레이터에게 비호 효과를 부여하고 일정량의 스킬 게이지를 반환한다. 막는 동안 공격받으면 반격하여 공격자에게 냉기 피해와 냉기 부착 부여를 시도한다."
   },
   "combo": {
    "en": "Trigger: the controlled operator takes a hit and drops below 60% HP. Snowshine tosses a Snowfield SAR Assistant at them, giving nearby operators instant HP Treatment on contact followed by continuous HP Treatment in the area; Will increases the healing.",
-   "zh-TW": "觸發條件：主控幹員受擊後生命值低於 60%。晝雪向其丟出雪地救援助理，接觸目標時立即大量治療附近幹員，隨後一段時間內持續治療範圍內幹員，意志可提高治療量。"
+   "zh-TW": "觸發條件：主控幹員受擊後生命值低於 60%。晝雪向其丟出雪地救援助理，接觸目標時立即大量治療附近幹員，隨後一段時間內持續治療範圍內幹員，意志可提高治療量。",
+   "ja": "発動条件：操作中のオペレーターが被弾してHPが60%未満になった時。スノーシャインがそのオペレーターへ雪地救援アシスタントを投げ、接触時に周囲のオペレーターのHPを即時回復した後、範囲内を継続回復する。意志で回復量が上がる。",
+   "ko": "발동 조건: 메인 컨트롤 오퍼레이터가 피격되어 생명력이 60% 미만이 될 때. 스노우샤인이 해당 오퍼레이터에게 설지 구조 어시스턴트를 던져 접촉 시 주변 오퍼레이터의 생명력을 즉시 치유하고, 이어서 범위 내를 지속 치유한다. 의지로 치유량이 증가한다."
   },
   "ultimate": {
    "en": "Snowshine leaps with a jetpack and slams her shield down for heavy Cryo damage in an area, leaving a Snow Zone for several seconds that deals Cryo damage over time. Enemies staying in the Snow Zone for a set time are forcibly afflicted with Solidification.",
-   "zh-TW": "藉噴氣裝置躍起並砸下盾牌，對範圍內敵人造成大量寒冷傷害，生成持續數秒的冰雪地帶持續造成寒冷傷害。敵人停留在冰雪地帶內一段時間後會被強制凍結。"
+   "zh-TW": "藉噴氣裝置躍起並砸下盾牌，對範圍內敵人造成大量寒冷傷害，生成持續數秒的冰雪地帶持續造成寒冷傷害。敵人停留在冰雪地帶內一段時間後會被強制凍結。",
+   "ja": "スノーシャインがジェットパックで跳躍して盾を叩きつけ、範囲内に大きな寒冷ダメージを与え、数秒間継続して寒冷ダメージを与える氷雪地帯を残す。氷雪地帯に一定時間留まった敵は強制的に凍結状態になる。",
+   "ko": "스노우샤인이 제트팩으로 도약해 방패를 내려찍어 범위 내에 큰 냉기 피해를 주고, 수 초간 지속 냉기 피해를 주는 빙설 지대를 남긴다. 빙설 지대에 일정 시간 머문 적은 강제로 동결 상태가 된다."
   }
  },
  "talents": [
   {
    "en": "Snowshine's Treatment Effect increases by 15% on targets at or below 45% HP (25% at or below 55% HP at Promotion II).",
-   "zh-TW": "對生命值不高於 45% 的目標，治療效果 +15%（精英化II 為生命值不高於 55% 時 +25%）。"
+   "zh-TW": "對生命值不高於 45% 的目標，治療效果 +15%（精英化II 為生命值不高於 55% 時 +25%）。",
+   "ja": "スノーシャインの回復効果はHP45%以下の目標に対して15%上昇する（昇進・ⅡではHP55%以下に対して25%）。",
+   "ko": "스노우샤인의 치유 효과는 생명력이 45% 이하인 목표에게 15% 증가한다(정예화 II에서는 생명력 55% 이하에게 25%)."
   },
   {
    "en": "When Saturated Defense successfully retaliates against an attack, Snowshine gains 6 extra Ultimate Energy (10 at Promotion III).",
-   "zh-TW": "飽和性防禦成功格擋攻擊後，自身額外獲得 6 點終結技能量（精英化III 為 10 點）。"
+   "zh-TW": "飽和性防禦成功格擋攻擊後，自身額外獲得 6 點終結技能量（精英化III 為 10 點）。",
+   "ja": "限界防御で攻撃への反撃に成功すると、スノーシャインは追加で必殺チャージを6獲得する（昇進・Ⅲでは10）。",
+   "ko": "포화성 방어로 공격 반격에 성공하면 스노우샤인이 추가로 궁극기 에너지를 6 획득한다(정예화 III에서는 10)."
   }
  ],
  "potentials": [
   {
    "en": "While Saturated Defense is blocking, allied operators with Protection cannot receive Arts Inflictions.",
-   "zh-TW": "飽和性防禦的格擋期間，處於庇護狀態的友方幹員無法被施加法術附著。"
+   "zh-TW": "飽和性防禦的格擋期間，處於庇護狀態的友方幹員無法被施加法術附著。",
+   "ja": "限界防御のブロック中、加護効果を持つ味方オペレーターはアーツ付着を受けない。",
+   "ko": "포화성 방어의 막기 효과가 지속되는 동안 비호 효과를 가진 아군 오퍼레이터는 아츠 부착을 받지 않는다."
   },
   {
    "en": "Frigid Snowfield's area radius increases by 20%.",
-   "zh-TW": "凜冽寒霜的影響範圍 +20%。"
+   "zh-TW": "凜冽寒霜的影響範圍 +20%。",
+   "ja": "凍てつく寒霜の効果範囲の半径が20%拡大する。",
+   "ko": "살얼음 추위의 효과 반경이 20% 증가한다."
   },
   {
    "en": "Solidification applied by Frigid Snowfield lasts 2 s longer.",
-   "zh-TW": "凜冽寒霜施加的凍結持續時間 +2 秒。"
+   "zh-TW": "凜冽寒霜施加的凍結持續時間 +2 秒。",
+   "ja": "凍てつく寒霜が付与する凍結の持続時間が2秒延長される。",
+   "ko": "살얼음 추위가 부여하는 동결의 지속 시간이 2초 연장된다."
   },
   {
    "en": "DEF +20, Will +20.",
-   "zh-TW": "防禦力 +20，意志 +20。"
+   "zh-TW": "防禦力 +20，意志 +20。",
+   "ja": "防御力+20、意志+20。",
+   "ko": "방어력 +20, 의지 +20."
   },
   {
    "en": "Successfully retaliating with Saturated Defense returns 10 SP.",
-   "zh-TW": "飽和性防禦成功反擊敵人時返還 10 點技力。"
+   "zh-TW": "飽和性防禦成功反擊敵人時返還 10 點技力。",
+   "ja": "限界防御での反撃に成功するとSPを10返還する。",
+   "ko": "포화성 방어로 반격에 성공하면 스킬 게이지를 10 반환한다."
   }
  ]
 }

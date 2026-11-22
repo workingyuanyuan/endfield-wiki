@@ -2,41 +2,80 @@
  "slug": "laevatain",
  "intro": {
   "en": "Laevatain joined Endfield Industries from Rhodes Island on the Endministrator's own recommendation and reports directly to the Endministrator.",
-  "zh-TW": "萊萬汀出身羅德島，由管理員直接引薦加入終末地工業，是管理員的直屬幹員。"
+  "zh-TW": "萊萬汀出身羅德島，由管理員直接引薦加入終末地工業，是管理員的直屬幹員。",
+  "ja": "レーヴァテインは管理人自身の推薦でロドス・アイランドからエンドフィールド工業に加わり、管理人の直属として活動している。",
+  "ko": "레바테인은 관리자의 직접 추천으로 로도스 아일랜드에서 엔드필드 공업에 합류했으며, 관리자에게 직접 보고한다."
  },
  "skills": {
   "basic": {
    "en": "Heat combo of up to 5 hits. The final strike deals 18 Stagger while she is the controlled operator.",
-   "zh-TW": "最多 5 段的灼熱傷害連擊。作為主控幹員時，重擊造成 18 點失衡。"
+   "zh-TW": "最多 5 段的灼熱傷害連擊。作為主控幹員時，重擊造成 18 點失衡。",
+   "ja": "最大5段の灼熱連撃を行う。レーヴァテインが操作中のオペレーターであるとき、重攻撃でブレイク値18を与える。",
+   "ko": "최대 5단계의 열기 연속 공격을 가한다. 레바테인이 메인 컨트롤 오퍼레이터일 때 강력한 일격이 불균형치 18을 준다."
   },
   "battle": {
    "en": "A Magma Fragment hits repeatedly for Heat damage; a hit gives 1 stack of Melting Flame. Cast at 4 stacks, it spends them on 1 extra hit over a large area that forces a short Combustion and returns Ultimate Energy.",
-   "zh-TW": "熔核碎片持續攻擊，造成灼熱傷害；命中獲得 1 層熔火。在已有 4 層熔火時施放，會消耗全部層數追加 1 次大範圍攻擊，強制施加短暫的燃燒，並回復終結技能量。"
+   "zh-TW": "熔核碎片持續攻擊，造成灼熱傷害；命中獲得 1 層熔火。在已有 4 層熔火時施放，會消耗全部層數追加 1 次大範圍攻擊，強制施加短暫的燃燒，並回復終結技能量。",
+   "ja": "溶岩の破片が連続で灼熱ダメージを与え、命中すると劫火を1段階獲得する。4段階の状態で発動するとすべて消費して広範囲に1回の追加攻撃を行い、短時間の燃焼を強制付与して必殺チャージを回復する。",
+   "ko": "마그마 파편이 연속으로 열기 피해를 주며, 명중 시 녹아내린 불꽃 1스택을 얻는다. 4스택 상태에서 시전하면 이를 소모해 넓은 범위에 1회 추가 공격을 가하고 짧은 연소를 강제로 부여하며 궁극기 에너지를 회복한다."
   },
   "combo": {
    "en": "Trigger: an enemy gains Combustion or Corrosion. Fire erupts under every such enemy for Heat damage, giving 1 stack of Melting Flame and Ultimate Energy per enemy hit.",
-   "zh-TW": "觸發條件：有敵人進入燃燒或腐蝕狀態。所有處於這兩種狀態的敵人腳下噴出火焰，造成灼熱傷害；命中獲得 1 層熔火，每命中一個敵人另得終結技能量。"
+   "zh-TW": "觸發條件：有敵人進入燃燒或腐蝕狀態。所有處於這兩種狀態的敵人腳下噴出火焰，造成灼熱傷害；命中獲得 1 層熔火，每命中一個敵人另得終結技能量。",
+   "ja": "発動条件：敵が燃焼または腐食状態になる。該当するすべての敵の足元から炎が噴き出して灼熱ダメージを与え、命中した敵ごとに劫火を1段階と必殺チャージを獲得する。",
+   "ko": "발동 조건: 적이 연소 또는 부식 상태가 된다. 해당하는 모든 적의 발밑에서 화염이 분출해 열기 피해를 주며, 명중한 적마다 녹아내린 불꽃 1스택과 궁극기 에너지를 획득한다."
   },
   "ultimate": {
    "en": "She becomes the controlled operator and her basic attacks are enhanced for a time; hit 3 of the combo applies Heat Infliction. Casting Smouldering Fire or Seethe does not shorten the duration.",
-   "zh-TW": "切換為主控幹員，一段時間內普通攻擊得到強化；第 3 段施加灼熱附著。施放焚滅或沸騰不會縮短持續時間。"
+   "zh-TW": "切換為主控幹員，一段時間內普通攻擊得到強化；第 3 段施加灼熱附著。施放焚滅或沸騰不會縮短持續時間。",
+   "ja": "レーヴァテインが操作中のオペレーターに切り替わり、一定時間通常攻撃が強化され、連撃の3段目で灼熱付着を付与する。焼滅や烈火を発動しても持続時間は短縮されない。",
+   "ko": "레바테인이 메인 컨트롤 오퍼레이터가 되어 일정 시간 일반 공격이 강화되며, 연속 공격 3단계에서 열기 부착을 부여한다. 불타오르는 화염이나 열화를 시전해도 지속 시간이 줄어들지 않는다."
   }
  },
  "talents": [
   {
    "en": "After the controlled operator's final strike or finisher hits, she absorbs Heat Infliction from nearby enemies, 1 stack of Melting Flame each, up to 4. At 4 stacks her damage ignores 10 Heat Resistance for 20 s (15 at Promotion I, 20 at Promotion III).",
-   "zh-TW": "主控幹員的重擊或處決命中後，吸收周圍敵人的灼熱附著，每層換 1 層熔火，最多 4 層。達到 4 層後，她的傷害無視敵人 10 點灼熱抗性，持續 20 秒（精英化I 為 15 點，精英化III 為 20 點）。"
+   "zh-TW": "主控幹員的重擊或處決命中後，吸收周圍敵人的灼熱附著，每層換 1 層熔火，最多 4 層。達到 4 層後，她的傷害無視敵人 10 點灼熱抗性，持續 20 秒（精英化I 為 15 點，精英化III 為 20 點）。",
+   "ja": "操作中のオペレーターの重攻撃または終撃が命中した後、レーヴァテインは周囲の敵から灼熱付着を吸収し、それぞれ劫火を1段階獲得する（最大4段階）。4段階に達すると20秒間、ダメージが敵の灼熱耐性を10（昇進・Ⅰで15、昇進・Ⅲで20）無視する。",
+   "ko": "메인 컨트롤 오퍼레이터의 강력한 일격이나 처형이 명중한 뒤 레바테인이 주변 적의 열기 부착을 흡수해 각각 녹아내린 불꽃 1스택을 얻는다(최대 4스택). 4스택이 되면 20초 동안 레바테인의 피해가 열기 저항을 10(정예화 I은 15, 정예화 III은 20) 무시한다."
   },
   {
    "en": "Below 40% HP she gains 90% Protection and restores 5% of max HP per second for 4 s (8 s at Promotion III), at most once every 120 s.",
-   "zh-TW": "生命值低於 40% 時獲得 90% 庇護，並每秒回復 5% 最大生命值，持續 4 秒（精英化III 為 8 秒），每 120 秒最多一次。"
+   "zh-TW": "生命值低於 40% 時獲得 90% 庇護，並每秒回復 5% 最大生命值，持續 4 秒（精英化III 為 8 秒），每 120 秒最多一次。",
+   "ja": "HPが40%未満になるとレーヴァテインは90%の加護効果を得て、4秒間（昇進・Ⅲで8秒間）毎秒最大HPの5%を回復する。120秒ごとに最大一度まで発動可能。",
+   "ko": "생명력이 40% 미만일 때 레바테인은 90% 비호 효과를 얻고 4초 동안(정예화 III에서 8초) 매초 최대 생명력의 5%를 회복한다. 120초마다 최대 한 번 발동한다."
   }
  ],
  "potentials": [
-  {"en": "Smouldering Fire's extra hit deals 1.2 times its damage and returns 20 SP on hit.", "zh-TW": "焚滅的追加攻擊傷害提升為 1.2 倍，命中後返還 20 點技力。"},
-  {"en": "Intellect +20, basic attack damage +15%.", "zh-TW": "智識 +20，普通攻擊傷害 +15%。"},
-  {"en": "Combustion from Smouldering Fire lasts 50% longer and deals 1.5 times its damage.", "zh-TW": "焚滅造成的燃燒持續時間 +50%，傷害提升為 1.5 倍。"},
-  {"en": "Twilight costs 15% less Ultimate Energy.", "zh-TW": "黃昏所需的終結技能量 -15%。"},
-  {"en": "Enhanced basic attacks of Twilight deal 1.2 times their damage; each enemy she defeats during it adds 1 s, up to 7 s.", "zh-TW": "黃昏的強化普通攻擊傷害提升為 1.2 倍；期間每擊敗一個敵人延長 1 秒，最多 7 秒。"}
+  {
+   "en": "Smouldering Fire's extra hit deals 1.2 times its damage and returns 20 SP on hit.",
+   "zh-TW": "焚滅的追加攻擊傷害提升為 1.2 倍，命中後返還 20 點技力。",
+   "ja": "焼滅の追加攻撃ダメージが1.2倍になり、命中時にSPを20返還する。",
+   "ko": "불타오르는 화염의 추가 공격 피해가 1.2배가 되며, 명중 시 스킬 게이지를 20 반환한다."
+  },
+  {
+   "en": "Intellect +20, basic attack damage +15%.",
+   "zh-TW": "智識 +20，普通攻擊傷害 +15%。",
+   "ja": "知性+20、通常攻撃ダメージ+15%。",
+   "ko": "지능 +20, 일반 공격 피해 +15%."
+  },
+  {
+   "en": "Combustion from Smouldering Fire lasts 50% longer and deals 1.5 times its damage.",
+   "zh-TW": "焚滅造成的燃燒持續時間 +50%，傷害提升為 1.5 倍。",
+   "ja": "焼滅による燃焼の持続時間が50%延長され、ダメージが1.5倍になる。",
+   "ko": "불타오르는 화염으로 부여한 연소의 지속 시간이 50% 늘어나고 피해가 1.5배가 된다."
+  },
+  {
+   "en": "Twilight costs 15% less Ultimate Energy.",
+   "zh-TW": "黃昏所需的終結技能量 -15%。",
+   "ja": "ラグナロクに必要な必殺チャージが15%減少する。",
+   "ko": "황혼에 필요한 궁극기 에너지가 15% 감소한다."
+  },
+  {
+   "en": "Enhanced basic attacks of Twilight deal 1.2 times their damage; each enemy she defeats during it adds 1 s, up to 7 s.",
+   "zh-TW": "黃昏的強化普通攻擊傷害提升為 1.2 倍；期間每擊敗一個敵人延長 1 秒，最多 7 秒。",
+   "ja": "ラグナロクによる強化通常攻撃のダメージが1.2倍になり、持続中にレーヴァテインが敵を倒すたび持続時間が1秒延長される（最大7秒）。",
+   "ko": "황혼의 강화 일반 공격 피해가 1.2배가 되며, 지속 중 레바테인이 적을 처치할 때마다 지속 시간이 1초 늘어난다(최대 7초)."
+  }
  ]
 }

@@ -2,41 +2,80 @@
  "slug": "lifeng",
  "intro": {
   "en": "Lifeng is a Wuling City native and spear fighter trained by Da Pan who currently interns in Endfield's Specialist Tech Division to grow strong enough to protect his home.",
-  "zh-TW": "黎風出生於武陵城，在大潘教導下練就槍法，目前在終末地工業特種技術部門實習，期盼早日獨當一面守護家鄉。"
+  "zh-TW": "黎風出生於武陵城，在大潘教導下練就槍法，目前在終末地工業特種技術部門實習，期盼早日獨當一面守護家鄉。",
+  "ja": "リーフォンは武陵城出身の槍の使い手で、ダパンから槍術を学んだ。故郷を守れる強さを身につけるため、現在はエンドフィールドの特殊技術部で実習生として働いている。",
+  "ko": "여풍은 무릉성 출신으로 판에게 창술을 배운 창술사다. 고향을 지킬 힘을 기르기 위해 현재 엔드필드의 특수 기술부에서 인턴으로 활동하고 있다."
  },
  "skills": {
   "basic": {
    "en": "Physical combo of up to 4 hits. The final strike deals 19 Stagger while he is the controlled operator.",
-   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊造成 19 點失衡。"
+   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊造成 19 點失衡。",
+   "ja": "最大4段の物理ダメージ連撃。リーフォンが操作中のオペレーターである間、重攻撃でブレイク値19を与える。",
+   "ko": "최대 4단계의 물리 피해 연격. 여풍이 메인 컨트롤 오퍼레이터일 때 강력한 일격으로 불균형치 19를 준다."
   },
   "battle": {
    "en": "Swings his polearm for 2 Physical hits, then slams the ground to deal area Physical damage and Knock Down. Enemies hit by the final slam who have no Vulnerability stacks also receive Physical Susceptibility.",
-   "zh-TW": "連續揮槍造成 2 次物理傷害，再重砸地面對前方敵人造成物理傷害並施加倒地。若最後一擊命中的敵人不處於破防狀態，會額外施加物理脆弱。"
+   "zh-TW": "連續揮槍造成 2 次物理傷害，再重砸地面對前方敵人造成物理傷害並施加倒地。若最後一擊命中的敵人不處於破防狀態，會額外施加物理脆弱。",
+   "ja": "長柄武器を振るって物理ダメージを2回与えた後、地面を叩きつけて範囲物理ダメージと転倒を与える。最後の一撃がクラッシュ段階を持たない敵に命中すると、物理脆弱効果も付与する。",
+   "ko": "장병기를 휘둘러 물리 피해를 2회 준 뒤 지면을 내리쳐 범위 물리 피해와 넘어뜨리기를 준다. 마지막 일격이 방어 불능 스택이 없는 적에게 명중하면 물리 취약 효과도 부여한다."
   },
   "combo": {
    "en": "Trigger: the controlled operator lands a final strike on an enemy with Physical Susceptibility or Breach. Lifeng unleashes an aspect to thrust with a spear for Physical damage and gain Link.",
-   "zh-TW": "觸發條件：主控幹員對處於物理脆弱或碎甲狀態的敵人施放重擊。施放身外身以長槍突刺，造成物理傷害並獲得連擊。"
+   "zh-TW": "觸發條件：主控幹員對處於物理脆弱或碎甲狀態的敵人施放重擊。施放身外身以長槍突刺，造成物理傷害並獲得連擊。",
+   "ja": "発動条件：操作中のオペレーターが物理脆弱効果または破砕状態の敵に重攻撃を命中させたとき。リーフォンは身外身を放って槍で突き、物理ダメージを与えてリンクを獲得する。",
+   "ko": "발동 조건: 메인 컨트롤 오퍼레이터가 물리 취약 효과 또는 갑옷 파괴 상태의 적에게 강력한 일격을 명중시킬 때. 여풍이 분신을 내보내 창으로 찔러 물리 피해를 주고 연타를 획득한다."
   },
   "ultimate": {
    "en": "Unleashes an aspect for an Immovable Vajra Slam that deals wide-area Physical damage, applies Knock Down, and pulls enemies to the center. After a delay, enemies still inside take another heavy Physical hit and Knock Down; consuming Link adds one more heavy Physical hit.",
-   "zh-TW": "施放身外身以不動杵重砸地面，對大範圍敵人造成物理傷害與倒地並聚攏至中心。片刻後，對仍在範圍內的敵人再次造成大量物理傷害與倒地；若消耗連擊，會再追加大量物理傷害。"
+   "zh-TW": "施放身外身以不動杵重砸地面，對大範圍敵人造成物理傷害與倒地並聚攏至中心。片刻後，對仍在範圍內的敵人再次造成大量物理傷害與倒地；若消耗連擊，會再追加大量物理傷害。",
+   "ja": "身外身による不動杵の叩きつけで広範囲に物理ダメージと転倒を与え、敵を中心へ引き寄せる。少し経つと、範囲内に残っている敵に再び大きな物理ダメージと転倒を与える。リンクを消費すると、さらにもう一度大きな物理ダメージを与える。",
+   "ko": "분신을 방출해 부동저로 지면을 내리쳐 넓은 범위에 물리 피해와 넘어뜨리기를 주고 적을 중심으로 끌어당긴다. 잠시 후 범위 안에 남은 적에게 다시 큰 물리 피해와 넘어뜨리기를 주며, 연타를 소모하면 큰 물리 피해를 한 번 더 추가한다."
   }
  },
  "talents": [
   {
    "en": "Each point of Intellect and Will grants Lifeng an extra 0.10% ATK (0.15% at Promotion II).",
-   "zh-TW": "每點智識與意志使自身攻擊力額外 +0.10%（精英化II 為 +0.15%）。"
+   "zh-TW": "每點智識與意志使自身攻擊力額外 +0.10%（精英化II 為 +0.15%）。",
+   "ja": "知性と意志のポイントごとに、リーフォンの攻撃力が追加で0.10%上昇する（昇進・Ⅱで0.15%）。",
+   "ko": "지능과 의지 포인트마다 여풍의 공격력이 추가로 0.10% 증가한다(정예화 II에서는 0.15%)."
   },
   {
    "en": "Whenever he applies Knock Down, he also deals Physical damage equal to 50% of his ATK (100% at Promotion III).",
-   "zh-TW": "自身造成倒地時，額外造成攻擊力 50% 的物理傷害（精英化III 為 100%）。"
+   "zh-TW": "自身造成倒地時，額外造成攻擊力 50% 的物理傷害（精英化III 為 100%）。",
+   "ja": "リーフォンが転倒を付与するたび、自身の攻撃力の50%に相当する物理ダメージを追加で与える（昇進・Ⅲで100%）。",
+   "ko": "여풍이 넘어뜨리기를 부여할 때마다 자신 공격력의 50%에 해당하는 물리 피해를 추가로 준다(정예화 III에서는 100%)."
   }
  ],
  "potentials": [
-  {"en": "Turbid Avatar's Physical Susceptibility increases by 5%, and it now also triggers on enemies with up to 2 stacks of Vulnerability.", "zh-TW": "蕩濁身施加的物理脆弱效果 +5%，且對破防不超過 2 層的敵人也能觸發此效果。"},
-  {"en": "All attributes +15.", "zh-TW": "自身全能力 +15。"},
-  {"en": "Illumination grants an additional 0.05% ATK per point of Intellect and Will.", "zh-TW": "頓悟使每點智識與意志提供的攻擊力額外 +0.05%。"},
-  {"en": "Heart of the Unmoving costs 15% less Ultimate Energy.", "zh-TW": "不動心所需的終結技能量 -15%。"},
-  {"en": "Every 15 s, the next trigger of Subduer of Evil deals an extra 250% ATK as Physical damage and 5 Stagger.", "zh-TW": "每隔 15 秒，伏魔的下一次觸發額外造成攻擊力 250% 的物理傷害與 5 點失衡。"}
+  {
+   "en": "Turbid Avatar's Physical Susceptibility increases by 5%, and it now also triggers on enemies with up to 2 stacks of Vulnerability.",
+   "zh-TW": "蕩濁身施加的物理脆弱效果 +5%，且對破防不超過 2 層的敵人也能觸發此效果。",
+   "ja": "浄化身による物理脆弱効果が5%増加し、クラッシュ2段階以下の敵にも発動するようになる。",
+   "ko": "신체 정화의 물리 취약 효과가 5% 증가하며, 방어 불능 2스택 이하의 적에게도 발동하게 된다."
+  },
+  {
+   "en": "All attributes +15.",
+   "zh-TW": "自身全能力 +15。",
+   "ja": "全能力+15。",
+   "ko": "모든 능력치 +15."
+  },
+  {
+   "en": "Illumination grants an additional 0.05% ATK per point of Intellect and Will.",
+   "zh-TW": "頓悟使每點智識與意志提供的攻擊力額外 +0.05%。",
+   "ja": "円頓により、知性と意志のポイントごとに攻撃力がさらに+0.05%される。",
+   "ko": "돈오로 인해 지능과 의지 포인트마다 공격력이 추가로 0.05% 증가한다."
+  },
+  {
+   "en": "Heart of the Unmoving costs 15% less Ultimate Energy.",
+   "zh-TW": "不動心所需的終結技能量 -15%。",
+   "ja": "不動心に必要な必殺チャージ-15%。",
+   "ko": "움직이지 않는 마음의 궁극기 에너지 소모량이 15% 감소한다."
+  },
+  {
+   "en": "Every 15 s, the next trigger of Subduer of Evil deals an extra 250% ATK as Physical damage and 5 Stagger.",
+   "zh-TW": "每隔 15 秒，伏魔的下一次觸發額外造成攻擊力 250% 的物理傷害與 5 點失衡。",
+   "ja": "15秒ごとに、次の伏魔発動時に攻撃力250%分の追加物理ダメージとブレイク値5を与える。",
+   "ko": "15초마다 다음 복마 발동 시 공격력의 250%만큼 추가 물리 피해와 불균형치 5를 준다."
+  }
  ]
 }

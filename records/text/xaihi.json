@@ -2,56 +2,80 @@
  "slug": "xaihi",
  "intro": {
   "en": "Xaihi is a Sessionite from Laterano's Cabal of Tranquility who joined Endfield Industries on the Abbess's recommendation and now handles information engineering aboard Dijiang.",
-  "zh-TW": "賽希是來自拉特蘭寂語修會會話派的成員，經院長引薦加入終末地工業，現於帝江號負責資訊工程事務。"
+  "zh-TW": "賽希是來自拉特蘭寂語修會會話派的成員，經院長引薦加入終末地工業，現於帝江號負責資訊工程事務。",
+  "ja": "ザイヒはラテラーノの静語伝道会・会話派に所属するメンバー。院長の推薦でエンドフィールド工業に加わり、現在は帝江号で情報工学の業務を担当している。",
+  "ko": "자이히는 라테라노의 고요한 수도회 회화파 소속으로, 원장의 추천을 받아 엔드필드 공업에 합류했으며 현재 제강호에서 정보공학 업무를 담당하고 있다."
  },
  "skills": {
   "basic": {
    "en": "Cryo combo of up to 5 hits. While she is the controlled operator, her Final Strike deals 15 Stagger.",
-   "zh-TW": "最多 5 段的寒冷傷害連擊。作為主控幹員時，重擊造成 15 點失衡。"
+   "zh-TW": "最多 5 段的寒冷傷害連擊。作為主控幹員時，重擊造成 15 點失衡。",
+   "ja": "最大5段の寒冷ダメージ連撃。ザイヒが操作中のオペレーターである間、重攻撃でブレイク値15を与える。",
+   "ko": "최대 5단계의 냉기 피해 연격. 자이히가 메인 컨트롤 오퍼레이터일 때 강력한 일격으로 불균형치 15를 준다."
   },
   "battle": {
    "en": "Summons an Auxiliary Crystal around the controlled operator that heals them after they land a Final Strike, up to 2 times, scaling with Will. If the operator is already at Max HP when healed, it also grants a non-stacking Arts Amp for a time.",
-   "zh-TW": "召喚支援晶體環繞主控幹員一段時間，主控幹員重擊命中後為其回復生命值，最多觸發 2 次，治療量受意志加成。觸發時若生命值已滿，還會施加一段時間無法疊加的法術增幅。"
+   "zh-TW": "召喚支援晶體環繞主控幹員一段時間，主控幹員重擊命中後為其回復生命值，最多觸發 2 次，治療量受意志加成。觸發時若生命值已滿，還會施加一段時間無法疊加的法術增幅。",
+   "ja": "操作中のオペレーターの周囲にサポートクリスタルを召喚する。そのオペレーターの重攻撃が命中すると、クリスタルがそのオペレーターのHPを回復する。回復は最大2回で、回復量は意志に応じて増加する。回復時にそのオペレーターのHPがすでに最大なら、一定時間、重ね掛けできないアーツ増幅効果も付与する。",
+   "ko": "메인 컨트롤 오퍼레이터 주위에 지원 결정체를 소환한다. 해당 오퍼레이터가 강력한 일격을 명중시키면 결정체가 그 오퍼레이터의 생명력을 회복시킨다. 최대 2회 치유할 수 있으며 치유량은 의지에 따라 증가한다. 치유 시 해당 오퍼레이터의 생명력이 이미 최대라면 일정 시간 중첩되지 않는 아츠 증폭 효과도 부여한다."
   },
   "combo": {
    "en": "Trigger: the Auxiliary Crystal uses up its HP treatments. She briefly charges the Auxiliary Crystal and launches it at the enemy, dealing Cryo damage and applying Cryo Infliction.",
-   "zh-TW": "觸發條件：支援晶體的生命回復次數耗盡。短暫蓄力後將支援晶體擲向敵人，造成寒冷傷害並施加寒冷附著。"
+   "zh-TW": "觸發條件：支援晶體的生命回復次數耗盡。短暫蓄力後將支援晶體擲向敵人，造成寒冷傷害並施加寒冷附著。",
+   "ja": "発動条件：サポートクリスタルのHP回復回数を使い切ったとき。サポートクリスタルを短時間チャージして敵へ放ち、寒冷ダメージと寒冷付着を与える。",
+   "ko": "발동 조건: 지원 결정체의 생명력 치유 횟수를 모두 소모할 때. 지원 결정체를 잠시 충전해 적에게 발사하여 냉기 피해와 냉기 부착을 준다."
   },
   "ultimate": {
    "en": "Grants temporary Cryo Amp and Nature Amp to the whole team, with the Amp values boosted by Intellect.",
-   "zh-TW": "對全隊施加一段時間的寒冷增幅與自然增幅，增幅效果隨智識提高。"
+   "zh-TW": "對全隊施加一段時間的寒冷增幅與自然增幅，增幅效果隨智識提高。",
+   "ja": "チーム全員に一定時間の寒冷増幅と自然増幅を付与する。増幅の数値は知性によって上昇する。",
+   "ko": "팀 전체에 일정 시간 냉기 증폭과 자연 증폭을 부여하며, 증폭 수치는 지능에 따라 증가한다."
   }
  },
  "talents": [
   {
    "en": "When Stress Testing hits an enemy that already has Cryo Infliction or Solidification, that enemy takes 7% more Cryo damage (10% at Promotion II) for 5 s; this does not stack.",
-   "zh-TW": "壓力測試命中已處於寒冷附著或凍結狀態的敵人時，使其受到的寒冷傷害 +7%（精英化II 為 +10%），持續 5 秒，無法疊加。"
+   "zh-TW": "壓力測試命中已處於寒冷附著或凍結狀態的敵人時，使其受到的寒冷傷害 +7%（精英化II 為 +10%），持續 5 秒，無法疊加。",
+   "ja": "ストレステストがすでに寒冷付着または凍結状態の敵に命中すると、5秒間その敵の受ける寒冷ダメージが7%増加する（昇進・Ⅱで10%）。重ね掛け不可。",
+   "ko": "스트레스 테스트가 이미 냉기 부착 또는 동결 상태인 적에게 명중하면 5초 동안 해당 적이 받는 냉기 피해가 7% 증가한다(정예화 II에서는 10%). 중첩 불가."
   },
   {
    "en": "Stack Overflow also dispels Cryo Infliction and Solidification from the whole team.",
-   "zh-TW": "堆疊溢位同時會淨化全隊的寒冷附著與凍結狀態。"
+   "zh-TW": "堆疊溢位同時會淨化全隊的寒冷附著與凍結狀態。",
+   "ja": "スタックオーバーフローはさらにチーム全員の寒冷付着と凍結状態を浄化する。",
+   "ko": "스택 오버플로는 팀 전체의 냉기 부착과 동결 상태도 정화한다."
   }
  ],
  "potentials": [
   {
    "en": "The Auxiliary Crystal's Arts Amp is increased by an extra 5%.",
-   "zh-TW": "支援晶體提供的法術增幅額外提升 5%。"
+   "zh-TW": "支援晶體提供的法術增幅額外提升 5%。",
+   "ja": "サポートクリスタルによるアーツ増幅効果がさらに5%増加する。",
+   "ko": "지원 결정체의 아츠 증폭 효과가 추가로 5% 증가한다."
   },
   {
    "en": "Stack Overflow costs 10% less Ultimate Energy.",
-   "zh-TW": "堆疊溢位所需的終結技能量 -10%。"
+   "zh-TW": "堆疊溢位所需的終結技能量 -10%。",
+   "ja": "スタックオーバーフローに必要な必殺チャージ-10%。",
+   "ko": "스택 오버플로의 궁극기 에너지 소모량이 10% 감소한다."
   },
   {
    "en": "On hit, Stress Testing chains 1 time to 1 other nearby target.",
-   "zh-TW": "壓力測試命中目標時，會對周圍 1 個其他目標彈射 1 次。"
+   "zh-TW": "壓力測試命中目標時，會對周圍 1 個其他目標彈射 1 次。",
+   "ja": "ストレステストが命中すると、周囲の他の目標1体に1回連鎖する。",
+   "ko": "스트레스 테스트가 명중 시 주변의 다른 목표 1개에 1회 연쇄된다."
   },
   {
    "en": "Intellect +15, Treatment Efficiency +10%.",
-   "zh-TW": "智識 +15，治療效率 +10%。"
+   "zh-TW": "智識 +15，治療效率 +10%。",
+   "ja": "知性+15、回復効率UP（+10%）。",
+   "ko": "지능 +15, 치유 효율 증가 +10%."
   },
   {
    "en": "Stack Overflow's Amp effect is increased to 1.1 times its original value.",
-   "zh-TW": "堆疊溢位的增幅效果提升為 1.1 倍。"
+   "zh-TW": "堆疊溢位的增幅效果提升為 1.1 倍。",
+   "ja": "スタックオーバーフローの増幅効果が元の1.1倍になる。",
+   "ko": "스택 오버플로의 증폭 효과가 기존의 1.1배로 증가한다."
   }
  ]
 }

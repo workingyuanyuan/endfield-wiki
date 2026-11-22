@@ -2,41 +2,80 @@
  "slug": "ardelia",
  "intro": {
   "en": "Ardelia is a Rhodes Island geologist assigned to Endfield Industries, where her field research into Ætherside and geological disasters informs the company's Blight countermeasures.",
-  "zh-TW": "艾爾黛拉來自羅德島，以地質研究專家的身分派駐終末地工業，長期在災害現場研究超域與地質災害，為終末地制定侵蝕應對措施提供依據。"
+  "zh-TW": "艾爾黛拉來自羅德島，以地質研究專家的身分派駐終末地工業，長期在災害現場研究超域與地質災害，為終末地制定侵蝕應對措施提供依據。",
+  "ja": "アルデリアはロドス・アイランドからエンドフィールド工業へ派遣された地質学者であり、超域や地質災害の現地研究を通じて同社の侵蝕対策に貢献している。",
+  "ko": "아델리아는 로도스 아일랜드에서 엔드필드 공업으로 파견된 지질학자로, 초자연과 지질 재해에 대한 현장 연구를 통해 회사의 침식 대응책 마련에 기여한다."
  },
  "skills": {
   "basic": {
    "en": "Nature combo of up to 4 hits. As the controlled operator, her final strike also deals 18 Stagger.",
-   "zh-TW": "最多 4 段的自然傷害連擊。作為主控幹員時，重擊會額外造成 18 點失衡。"
+   "zh-TW": "最多 4 段的自然傷害連擊。作為主控幹員時，重擊會額外造成 18 點失衡。",
+   "ja": "最大4段の自然属性連撃を行う。操作中のオペレーターであるとき、重攻撃でさらにブレイク値18を与える。",
+   "ko": "최대 4단계의 자연 속성 연속 공격을 가한다. 메인 컨트롤 오퍼레이터일 때 강력한 일격으로 불균형치 18을 추가로 준다."
   },
   "battle": {
    "en": "Ardelia rides Mr. Dolly into the target for Nature damage. If the target has Corrosion, she consumes it to inflict Physical Susceptibility and Arts Susceptibility.",
-   "zh-TW": "艾爾黛拉騎乘多利先生撞擊目標，造成自然傷害。若目標處於腐蝕狀態，會將其消耗，並改為施加物理脆弱與法術脆弱。"
+   "zh-TW": "艾爾黛拉騎乘多利先生撞擊目標，造成自然傷害。若目標處於腐蝕狀態，會將其消耗，並改為施加物理脆弱與法術脆弱。",
+   "ja": "アルデリアがドリーさんに乗って目標に突進し、自然ダメージを与える。目標が腐食状態の場合、それを消費して物理脆弱とアーツ脆弱を付与する。",
+   "ko": "아델리아가 돌리 씨를 타고 목표에게 돌진해 자연 피해를 준다. 목표가 부식 상태라면 이를 소모해 물리 취약과 아츠 취약을 부여한다."
   },
   "combo": {
    "en": "Trigger: the controlled operator lands a Final Strike on an enemy with no Vulnerability or Arts Infliction. She sends a homing Volcanic Cloud that deals Nature damage on approach, then soon explodes to deal half that Nature damage and force brief Corrosion on nearby enemies.",
-   "zh-TW": "觸發條件：主控幹員對沒有破防或法術附著的敵人打出重擊。朝目標發射追蹤的火山雲，接近時造成自然傷害，短暫延遲後爆炸，對周圍其他敵人造成一半的自然傷害並強制施加短暫的腐蝕。"
+   "zh-TW": "觸發條件：主控幹員對沒有破防或法術附著的敵人打出重擊。朝目標發射追蹤的火山雲，接近時造成自然傷害，短暫延遲後爆炸，對周圍其他敵人造成一半的自然傷害並強制施加短暫的腐蝕。",
+   "ja": "発動条件：操作中のオペレーターがクラッシュもアーツ付着もない敵に重攻撃を命中させる。アルデリアが追尾する火山雲を放ち、接近時に自然ダメージを与え、直後に爆発して周囲の敵にその半分の自然ダメージと短時間の強制的な腐食を与える。",
+   "ko": "발동 조건: 메인 컨트롤 오퍼레이터가 방어 불능이나 아츠 부착이 없는 적에게 강력한 일격을 명중시킨다. 아델리아가 추적하는 화산 구름을 날려 접근 시 자연 피해를 주고, 곧 폭발해 주변 적에게 그 절반의 자연 피해를 주며 짧은 부식을 강제로 부여한다."
   },
   "ultimate": {
    "en": "Ardelia channels while moving and scatters copies of Mr. Dolly in random directions for Nature damage on impact. Each enemy can take at most 1 hit every 0.3 s.",
-   "zh-TW": "艾爾黛拉進入可移動的持續施法狀態，向四周隨機散射多利先生的分身，命中時造成自然傷害。每個敵人每 0.3 秒最多承受 1 次傷害。"
+   "zh-TW": "艾爾黛拉進入可移動的持續施法狀態，向四周隨機散射多利先生的分身，命中時造成自然傷害。每個敵人每 0.3 秒最多承受 1 次傷害。",
+   "ja": "アルデリアが移動しながら詠唱し、ドリーさんの分身をランダムな方向へ散布して命中時に自然ダメージを与える。同じ敵には0.3秒ごとに最大1回までしか命中しない。",
+   "ko": "아델리아가 이동하며 채널링해 돌리 씨의 분신을 무작위 방향으로 흩뿌려 명중 시 자연 피해를 준다. 각 적은 0.3초마다 최대 1회만 피해를 받는다."
   }
  },
  "talents": [
   {
    "en": "Dolly Rush creates 3 Shadows of Mr. Dolly on hit, and landing Wooly Party copies have a 10% chance to create one; Shadows last 10 s, up to 10 at once. Touching one as the controlled operator heals 45 + Will × 0.38 HP (63 + Will × 0.53 at Promotion I, 90 + Will × 0.75 at Promotion II), or the lowest-HP% ally if full.",
-   "zh-TW": "奔騰的多利命中後生成 3 個多利先生的影子，毛茸茸派對的分身落地時有 10% 機率生成；影子持續 10 秒，場上最多 10 個。主控幹員觸碰後，回復 45 + 意志 × 0.38 生命值（精英化I 為 63 + 意志 × 0.53，精英化II 為 90 + 意志 × 0.75），滿血時改治療血量比例最低的隊友。"
+   "zh-TW": "奔騰的多利命中後生成 3 個多利先生的影子，毛茸茸派對的分身落地時有 10% 機率生成；影子持續 10 秒，場上最多 10 個。主控幹員觸碰後，回復 45 + 意志 × 0.38 生命值（精英化I 為 63 + 意志 × 0.53，精英化II 為 90 + 意志 × 0.75），滿血時改治療血量比例最低的隊友。",
+   "ja": "ドリーラッシュ命中時にドリーさんの影を3個生成し、もふもふパーティーの分身着地時にも10%の確率で生成する。影は10秒間持続し最大10個まで存在できる。操作中のオペレーターが触れるとHPを45+意志×0.38（昇進・Ⅰで63+意志×0.53、昇進・Ⅱで90+意志×0.75）回復し、満タンならHP割合が最も低い味方を回復する。",
+   "ko": "질주하는 돌리 명중 시 돌리 씨의 그림자 3개를 생성하며, 복슬복슬 파티 분신 착지 시에도 10% 확률로 생성한다. 그림자는 10초 동안 지속되며 최대 10개까지 존재한다. 메인 컨트롤 오퍼레이터가 닿으면 생명력을 45 + 의지 × 0.38(정예화 I은 63 + 의지 × 0.53, 정예화 II는 90 + 의지 × 0.75) 회복하고, 최대치면 생명력 비율이 가장 낮은 아군을 회복한다."
   },
   {
    "en": "When Dolly Rush triggers its extra effect and another enemy with Corrosion is nearby, Ardelia immediately casts Dolly Rush again, at most once per active cast.",
-   "zh-TW": "奔騰的多利觸發額外效果時，若附近還有其他處於腐蝕狀態的敵人，便立即對其再施放一次戰技，每次主動施放最多觸發一次。"
+   "zh-TW": "奔騰的多利觸發額外效果時，若附近還有其他處於腐蝕狀態的敵人，便立即對其再施放一次戰技，每次主動施放最多觸發一次。",
+   "ja": "ドリーラッシュの追加効果が発動した際、近くに別の腐食状態の敵がいると、アルデリアは即座にドリーラッシュをもう一度発動する。能動的な発動ごとに最大一度まで。",
+   "ko": "질주하는 돌리의 추가 효과가 발동할 때 근처에 부식 상태인 다른 적이 있으면, 아델리아가 즉시 질주하는 돌리를 한 번 더 시전한다. 능동적인 시전마다 최대 한 번만 발동한다."
   }
  ],
  "potentials": [
-  {"en": "Consuming Corrosion with Dolly Rush adds +8% to the Physical Susceptibility and Arts Susceptibility applied.", "zh-TW": "奔騰的多利消耗腐蝕時，施加的物理脆弱與法術脆弱效果額外 +8%。"},
-  {"en": "Friendly Presence also heals another allied operator with the lowest HP percentage for half the amount when the controlled operator touches a Shadow of Mr. Dolly.", "zh-TW": "主控幹員觸碰多利先生的影子後，朋友的身影還會額外為另一名血量比例最低的隊友提供一半的治療量。"},
-  {"en": "Wooly Party lasts 1 s longer, and its chance to create a Shadow of Mr. Dolly becomes 1.2 times the base rate.", "zh-TW": "毛茸茸派對的持續時間 +1 秒，生成多利先生的影子的機率提升為 1.2 倍。"},
-  {"en": "Wooly Party costs 15% less Ultimate Energy.", "zh-TW": "毛茸茸派對所需的終結技能量 -15%。"},
-  {"en": "Eruption Column has 2 s shorter cooldown, deals 1.2 times its damage, and applies Corrosion for 4 s longer.", "zh-TW": "火山蘑菇雲的冷卻時間 -2 秒，傷害倍率提升為 1.2 倍，施加的腐蝕持續時間 +4 秒。"}
+  {
+   "en": "Consuming Corrosion with Dolly Rush adds +8% to the Physical Susceptibility and Arts Susceptibility applied.",
+   "zh-TW": "奔騰的多利消耗腐蝕時，施加的物理脆弱與法術脆弱效果額外 +8%。",
+   "ja": "ドリーラッシュで腐食を消費した際、付与する物理脆弱とアーツ脆弱の効果が+8%される。",
+   "ko": "질주하는 돌리로 부식을 소모할 때 부여하는 물리 취약과 아츠 취약 효과가 +8% 증가한다."
+  },
+  {
+   "en": "Friendly Presence also heals another allied operator with the lowest HP percentage for half the amount when the controlled operator touches a Shadow of Mr. Dolly.",
+   "zh-TW": "主控幹員觸碰多利先生的影子後，朋友的身影還會額外為另一名血量比例最低的隊友提供一半的治療量。",
+   "ja": "操作中のオペレーターがドリーさんの影に触れた際、友の面影によってHP割合が最も低い別の味方オペレーターも半分の回復量で治療する。",
+   "ko": "메인 컨트롤 오퍼레이터가 돌리 씨의 그림자에 닿을 때, 친구의 그림자가 생명력 비율이 가장 낮은 다른 아군 오퍼레이터도 절반의 회복량으로 치유한다."
+  },
+  {
+   "en": "Wooly Party lasts 1 s longer, and its chance to create a Shadow of Mr. Dolly becomes 1.2 times the base rate.",
+   "zh-TW": "毛茸茸派對的持續時間 +1 秒，生成多利先生的影子的機率提升為 1.2 倍。",
+   "ja": "もふもふパーティーの持続時間が1秒延長され、ドリーさんの影を生成する確率が元の1.2倍になる。",
+   "ko": "복슬복슬 파티의 지속 시간이 1초 늘어나고, 돌리 씨의 그림자를 생성할 확률이 기본 확률의 1.2배가 된다."
+  },
+  {
+   "en": "Wooly Party costs 15% less Ultimate Energy.",
+   "zh-TW": "毛茸茸派對所需的終結技能量 -15%。",
+   "ja": "もふもふパーティーに必要な必殺チャージが15%減少する。",
+   "ko": "복슬복슬 파티에 필요한 궁극기 에너지가 15% 감소한다."
+  },
+  {
+   "en": "Eruption Column has 2 s shorter cooldown, deals 1.2 times its damage, and applies Corrosion for 4 s longer.",
+   "zh-TW": "火山蘑菇雲的冷卻時間 -2 秒，傷害倍率提升為 1.2 倍，施加的腐蝕持續時間 +4 秒。",
+   "ja": "イラプション・コラムのクールタイムが2秒短縮され、ダメージが1.2倍になり、付与する腐食の持続時間が4秒延長される。",
+   "ko": "화산 분화의 쿨타임이 2초 줄고, 피해가 1.2배가 되며, 부여하는 부식의 지속 시간이 4초 늘어난다."
+  }
  ]
 }

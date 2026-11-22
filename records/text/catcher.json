@@ -2,56 +2,80 @@
  "slug": "catcher",
  "intro": {
   "en": "Catcher is the youngest yet remarkably mature member of Endfield's Operations Team Z7, drawing on his military training to provide defensive cover and logistical support.",
-  "zh-TW": "卡契爾是終末地 Z7 行動組中最年輕卻沉穩成熟的成員，憑藉完整的軍事訓練負責隊伍的掩護與後勤。"
+  "zh-TW": "卡契爾是終末地 Z7 行動組中最年輕卻沉穩成熟的成員，憑藉完整的軍事訓練負責隊伍的掩護與後勤。",
+  "ja": "キャッチャーはエンドフィールドの行動隊Z7で最年少ながら驚くほど落ち着いたメンバーで、軍事訓練の経験を活かして防御掩護と後方支援を担う。",
+  "ko": "카치르는 엔드필드 Z7 행동팀의 최연소이지만 놀라울 만큼 성숙한 대원으로, 군사 훈련 경험을 바탕으로 방어 엄호와 후방 지원을 맡는다."
  },
  "skills": {
   "basic": {
    "en": "Physical combo of up to 4 hits. As the controlled operator, his final strike also deals 22 Stagger.",
-   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊會額外造成 22 點失衡。"
+   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊會額外造成 22 點失衡。",
+   "ja": "最大4段の物理ダメージ連撃。キャッチャーが操作中のオペレーターのとき、重攻撃はさらにブレイク値22を与える。",
+   "ko": "최대 4단계의 물리 피해 연계 공격. 카치르가 메인 컨트롤 오퍼레이터일 때 강력한 일격이 추가로 불균형치 22를 준다."
   },
   "battle": {
    "en": "He raises a shield to block attacks, granting Protection to himself and nearby operators while returning some SP right away. Taking a hit while blocking triggers a retaliation bash that tries to hit the attacker for Physical damage and 1 stack of Vulnerability.",
-   "zh-TW": "架盾格擋攻擊，為自身與周圍幹員提供庇護並立即返還一定技力。立盾期間受擊便會反擊，嘗試對攻擊者造成物理傷害並施加 1 層破防。"
+   "zh-TW": "架盾格擋攻擊，為自身與周圍幹員提供庇護並立即返還一定技力。立盾期間受擊便會反擊，嘗試對攻擊者造成物理傷害並施加 1 層破防。",
+   "ja": "盾を構えて攻撃をブロックし、自身と周囲のオペレーターに加護効果を付与しつつ即座にSPを一定量返還する。ブロック中に攻撃を受けると反撃し、攻撃者に物理ダメージとクラッシュ1段階の付与を試みる。",
+   "ko": "방패를 들어 공격을 막으며 자신과 주변 오퍼레이터에게 비호 효과를 부여하고 즉시 일정량의 스킬 게이지를 반환한다. 막는 동안 공격받으면 반격하여 공격자에게 물리 피해와 방어 불능 1스택 부여를 시도한다."
   },
   "combo": {
    "en": "Trigger: an enemy begins charging a skill, or the controlled operator is hit and drops below 40% HP. He strikes downward for Physical damage and grants shields scaling with DEF to himself and one teammate, prioritizing the controlled operator.",
-   "zh-TW": "觸發條件：敵人開始蓄力，或主控幹員受擊後生命值低於 40%。向下猛擊造成物理傷害，並為自身與另一名隊友（優先主控幹員）施加隨防禦力提高的護盾。"
+   "zh-TW": "觸發條件：敵人開始蓄力，或主控幹員受擊後生命值低於 40%。向下猛擊造成物理傷害，並為自身與另一名隊友（優先主控幹員）施加隨防禦力提高的護盾。",
+   "ja": "発動条件：敵がスキルのチャージを開始するか、操作中のオペレーターが被弾してHPが40%未満になった時。キャッチャーが振り下ろしで物理ダメージを与え、自身と操作中のオペレーター優先の味方一名に防御力に応じたシールドを付与する。",
+   "ko": "발동 조건: 적이 스킬 충전을 시작하거나 메인 컨트롤 오퍼레이터가 피격되어 생명력이 40% 미만이 될 때. 카치르가 내려찍어 물리 피해를 주고, 자신과 메인 컨트롤 오퍼레이터를 우선한 아군 한 명에게 방어력에 비례하는 보호를 부여한다."
   },
   "ultimate": {
    "en": "He delivers 2 rapid greatsword slashes for Physical damage and Weakness, then finishes with a heavy downward slam that deals massive Physical damage and Knock Down in an area.",
-   "zh-TW": "揮舞大劍連續斬擊 2 次造成物理傷害並施加虛弱，最後向下猛砸，對範圍內所有敵人造成大量物理傷害並施加倒地。"
+   "zh-TW": "揮舞大劍連續斬擊 2 次造成物理傷害並施加虛弱，最後向下猛砸，對範圍內所有敵人造成大量物理傷害並施加倒地。",
+   "ja": "大剣で2回素早く斬りつけて物理ダメージと弱体化を与え、最後に強烈な振り下ろしで範囲内に大量の物理ダメージと転倒を与える。",
+   "ko": "양손검으로 2회 빠르게 베어 물리 피해와 허약을 부여한 뒤, 강력한 내려찍기로 마무리해 범위 내에 막대한 물리 피해와 넘어뜨리기를 가한다."
   }
  },
  "talents": [
   {
    "en": "Catcher gains +1.0 DEF for every 10 Will (+1.2 at Promotion II).",
-   "zh-TW": "每擁有 10 點意志，卡契爾的防禦力 +1.0（精英化II 為 +1.2）。"
+   "zh-TW": "每擁有 10 點意志，卡契爾的防禦力 +1.0（精英化II 為 +1.2）。",
+   "ja": "意志10ごとにキャッチャーの防御力+1.0（昇進・Ⅱでは+1.2）。",
+   "ko": "의지 10마다 카치르의 방어력 +1.0(정예화 II에서는 +1.2)."
   },
   {
    "en": "The final hit of Textbook Assault releases 2 shockwaves that each deal 30% ATK as Physical damage (3 shockwaves at 45% ATK at Promotion III).",
-   "zh-TW": "教科書式猛攻的最後一擊額外產生 2 次衝擊波，每次造成 30% 攻擊力的物理傷害（精英化III 為 3 次、每次 45%）。"
+   "zh-TW": "教科書式猛攻的最後一擊額外產生 2 次衝擊波，每次造成 30% 攻擊力的物理傷害（精英化III 為 3 次、每次 45%）。",
+   "ja": "教科書通りの最後の一撃が衝撃波を2回発生させ、それぞれ攻撃力の30%の物理ダメージを与える（昇進・Ⅲでは3回、各45%）。",
+   "ko": "교과서적인 맹공의 마지막 공격이 충격파를 2회 발생시켜 각각 공격력 30%의 물리 피해를 준다(정예화 III에서는 3회, 각 45%)."
   }
  ],
  "potentials": [
   {
    "en": "Hitting an enemy with Rigid Interdiction or Textbook Assault triggers an extra strike for 300 + DEF × 5.0 Physical damage.",
-   "zh-TW": "剛性阻擊與教科書式猛攻命中敵人後，額外追加一次 300 + 防禦力 × 5.0 的物理傷害。"
+   "zh-TW": "剛性阻擊與教科書式猛攻命中敵人後，額外追加一次 300 + 防禦力 × 5.0 的物理傷害。",
+   "ja": "強制ブロックまたは教科書通りが敵に命中すると、300+防御力×5.0の物理ダメージを追加で与える。",
+   "ko": "강력한 저지 또는 교과서적인 맹공이 적에게 명중하면 300+방어력×5.0의 물리 피해를 추가로 준다."
   },
   {
    "en": "DEF +20, Will +10.",
-   "zh-TW": "防禦力 +20，意志 +10。"
+   "zh-TW": "防禦力 +20，意志 +10。",
+   "ja": "防御力+20、意志+10。",
+   "ko": "방어력 +20, 의지 +10."
   },
   {
    "en": "Shields from Timely Suppression last 5 s longer.",
-   "zh-TW": "即時壓制提供的護盾持續時間 +5 秒。"
+   "zh-TW": "即時壓制提供的護盾持續時間 +5 秒。",
+   "ja": "即時制圧のシールド持続時間が5秒延長される。",
+   "ko": "실시간 억제의 보호 지속 시간이 5초 연장된다."
   },
   {
    "en": "Textbook Assault costs 10% less Ultimate Energy.",
-   "zh-TW": "教科書式猛攻所需的終結技能量 -10%。"
+   "zh-TW": "教科書式猛攻所需的終結技能量 -10%。",
+   "ja": "教科書通りの必要必殺チャージが10%減少する。",
+   "ko": "교과서적인 맹공의 궁극기 에너지 소모가 10% 감소한다."
   },
   {
    "en": "Rigid Interdiction returns 10 SP on hit while Catcher has a shield active.",
-   "zh-TW": "卡契爾身上存在護盾時，剛性阻擊命中敵人後返還 10 點技力。"
+   "zh-TW": "卡契爾身上存在護盾時，剛性阻擊命中敵人後返還 10 點技力。",
+   "ja": "キャッチャーがシールドを所持している間、強制ブロックが命中するとSPを10返還する。",
+   "ko": "카치르가 보호를 보유 중일 때 강력한 저지가 명중하면 스킬 게이지를 10 반환한다."
   }
  ]
 }

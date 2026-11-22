@@ -2,56 +2,80 @@
  "slug": "arcane",
  "intro": {
   "en": "Arcane is the stern captain of the Yinglung Special Task Force stationed at Yinglung Pass; since the disaster in the northern exclusion zone, containing the Wuling Very Large Rift has been her only aim.",
-  "zh-TW": "訣是駐守應龍關的應龍特勤隊行動隊長，性格嚴肅冷峻，因北部禁區災難而以遏制武陵甚大裂隙為唯一目標。"
+  "zh-TW": "訣是駐守應龍關的應龍特勤隊行動隊長，性格嚴肅冷峻，因北部禁區災難而以遏制武陵甚大裂隙為唯一目標。",
+  "ja": "オクギは応龍関に駐屯する応龍特勤隊の厳格な隊長であり、北部禁区の災厄以来、武陵甚大裂隙の封じ込めを唯一の目的としている。",
+  "ko": "결은 응룡관에 주둔한 응룡 특근대의 엄격한 대장으로, 북부 금지 구역의 재난 이후 무릉 초대형 열극을 저지하는 것을 유일한 목표로 삼고 있다."
  },
  "skills": {
   "basic": {
    "en": "Nature combo of up to 5 hits. Her Final Strike deals 17 Stagger while she is the controlled operator.",
-   "zh-TW": "最多 5 段的自然傷害連擊。作為主控幹員時，重擊造成 17 點失衡。"
+   "zh-TW": "最多 5 段的自然傷害連擊。作為主控幹員時，重擊造成 17 點失衡。",
+   "ja": "最大5段の自然ダメージ連撃。オクギが操作中のオペレーターのとき、重攻撃はブレイク値17を与える。",
+   "ko": "최대 5단계의 자연 피해 연계 공격. 결이 메인 컨트롤 오퍼레이터일 때 강력한 일격이 불균형치 17을 준다."
   },
   "battle": {
    "en": "She sets up a Jadecrushing Grid under the target that deals Nature damage and applies Nature Infliction to enemies inside. In Array Arcana: INT (Intellect not below Will) it deals more damage; in Array Arcana: WILL (Will above Intellect) it pulls enemies toward its centre when it deals damage.",
-   "zh-TW": "於目標腳下展開摧玉網格，對範圍內敵人造成自然傷害並施加自然附著。陣訣·智（智識不低於意志）時傷害更高；陣訣·意（意志高於智識）時，造成傷害會把範圍內敵人牽引向中心。"
+   "zh-TW": "於目標腳下展開摧玉網格，對範圍內敵人造成自然傷害並施加自然附著。陣訣·智（智識不低於意志）時傷害更高；陣訣·意（意志高於智識）時，造成傷害會把範圍內敵人牽引向中心。",
+   "ja": "目標の足元に砕玉領域を展開し、範囲内の敵に自然ダメージと自然付着を与える。陣訣・知（知性が意志以上）ではダメージが上昇し、陣訣・意（意志が知性より高い）ではダメージを与えた際に範囲内の敵を中心へ引き寄せる。",
+   "ko": "목표의 발밑에 결정 파쇄 그리드를 전개해 범위 내 적에게 자연 피해와 자연 부착을 부여한다. 진결 · 지혜(지능이 의지 이상)에서는 피해가 증가하고, 진결 · 의지(의지가 지능보다 높음)에서는 피해를 줄 때 범위 내 적을 중심으로 끌어당긴다."
   },
   "combo": {
    "en": "Trigger: in Array Arcana: INT, an enemy gains Nature Infliction or 2 or more stacks of another Arts Infliction; in Array Arcana: WILL, any Arts Infliction. She sets up 4 Tactical Doubles that deal Nature damage, apply Nature Susceptibility and Cryo Susceptibility, and put the target under Imprisonment, which slows all actions; when it ends they deal Explosion damage. INT: her battle skill on an imprisoned enemy returns SP and ends Imprisonment early, and the cooldown is shorter. WILL: nearby enemies are pulled in a little, and Will raises the Susceptibility.",
-   "zh-TW": "觸發條件：陣訣·智時，有敵人被施加自然附著或進入 2 層以上其他法術附著；陣訣·意時，有敵人被施加任何法術附著。設置 4 個戰術分身，造成自然傷害，施加自然脆弱與寒冷脆弱，並使目標進入所有行動減緩的囹圄狀態；囹圄結束時分身造成爆炸傷害。陣訣·智：戰技命中囹圄中的敵人會返還技力並提前結束囹圄，連攜技冷卻較短。陣訣·意：小幅牽引周圍敵人，意志可提高脆弱效果。"
+   "zh-TW": "觸發條件：陣訣·智時，有敵人被施加自然附著或進入 2 層以上其他法術附著；陣訣·意時，有敵人被施加任何法術附著。設置 4 個戰術分身，造成自然傷害，施加自然脆弱與寒冷脆弱，並使目標進入所有行動減緩的囹圄狀態；囹圄結束時分身造成爆炸傷害。陣訣·智：戰技命中囹圄中的敵人會返還技力並提前結束囹圄，連攜技冷卻較短。陣訣·意：小幅牽引周圍敵人，意志可提高脆弱效果。",
+   "ja": "発動条件：陣訣・知では敵が自然付着または他のアーツ付着2段階以上を受けた時、陣訣・意では任意のアーツ付着を受けた時。戦術分身を4体配置して自然ダメージ、自然脆弱と寒冷脆弱、全行動を減速させる牢獄を付与し、終了時に爆発ダメージを与える。陣訣・知では牢獄中の敵への戦技命中でSP返還と牢獄の早期終了が起きCDも短い。陣訣・意では周囲の敵をわずかに引き寄せ、意志で脆弱効果が上がる。",
+   "ko": "발동: 진결 · 지혜는 적이 자연 부착 또는 다른 아츠 부착 2스택 이상 획득 시, 진결 · 의지는 임의의 아츠 부착 획득 시. 전술 분신 4개를 배치해 자연 피해를 주고 자연 취약, 냉기 취약과 모든 행동이 느려지는 구속을 부여하며, 구속이 끝나면 폭발 피해를 준다. 진결 · 지혜에서는 구속 상태의 적에게 배틀 스킬이 명중하면 스킬 게이지를 반환하고 구속을 조기 종료시키며, 연계 스킬 쿨타임도 더 짧다. 진결 · 의지에서는 주변 적을 소폭 끌어당기며 의지로 취약 효과가 높아진다."
   },
   "ultimate": {
    "en": "She creates a Gloompurger Array for immediate Nature damage in an area. A finisher or the controlled operator's final strike on an enemy inside triggers a Cluster Strike for area damage, up to 2 times; after 2, the ultimate becomes Gloompurge Arcana, Nature damage over a large area in front of her. On creation the array forces Corrosion in Array Arcana: INT; in Array Arcana: WILL it adds a stack of the Arts Infliction that enemies inside already have.",
-   "zh-TW": "生成破晦陣並立即對範圍內敵人造成自然傷害。陣內敵人被處決或受到主控幹員重擊時觸發集束打擊，造成範圍傷害，最多 2 次；滿 2 次後終結技切換為破晦訣明，對前方大範圍敵人造成自然傷害。破晦陣生成時，陣訣·智會強制施加腐蝕，陣訣·意會對已有法術附著的敵人再施加同種附著。"
+   "zh-TW": "生成破晦陣並立即對範圍內敵人造成自然傷害。陣內敵人被處決或受到主控幹員重擊時觸發集束打擊，造成範圍傷害，最多 2 次；滿 2 次後終結技切換為破晦訣明，對前方大範圍敵人造成自然傷害。破晦陣生成時，陣訣·智會強制施加腐蝕，陣訣·意會對已有法術附著的敵人再施加同種附著。",
+   "ja": "破晦陣を生成し範囲内に即座に自然ダメージを与える。陣内の敵への終撃または操作中のオペレーターの重攻撃で集中攻撃が発動して範囲ダメージを与え（最大2回）、2回発動後に必殺技は前方広範囲へ自然ダメージを与える破晦訣明に切り替わる。生成時、陣訣・知では強制的に腐食を付与し、陣訣・意では範囲内の敵が既に持つアーツ付着をさらに付与する。",
+   "ko": "어스름 파훼의 진을 생성해 범위 내에 즉시 자연 피해를 준다. 진 내 적에게 처형 또는 메인 컨트롤 오퍼레이터의 강력한 일격이 명중하면 집중 공격이 발동해 범위 피해를 주며(최대 2회), 2회 발동 후 궁극기가 전방 넓은 범위에 자연 피해를 주는 어스름 파훼의 깨달음으로 전환된다. 생성 시 진결 · 지혜는 강제로 부식을 부여하고, 진결 · 의지는 범위 내 적이 이미 가진 아츠 부착을 추가로 부여한다."
   }
  },
  "talents": [
   {
    "en": "Switches to Array Arcana: INT when Intellect ≥ Will, else Array Arcana: WILL, based on stats from levels, talents, potentials, gear, and weapons. At Promotion II: in INT Arcane has 24% Arts Amp while the ultimate lasts; in WILL, damage from the Gloompurger Array and Gloompurge Arcana applies non-stacking Nature Susceptibility and Cryo Susceptibility of Will × 0.02% (max 12.8%) for 10 s.",
-   "zh-TW": "依等級、天賦、潛能、裝備與武器面板，智識 ≥ 意志時切換為陣訣·智，否則為陣訣·意。精英化II 時強化破晦：陣訣·智於終結技期間獲得 24% 法術增幅；陣訣·意在破晦陣與破晦訣明造成傷害時施加意志 × 0.02% 自然脆弱與寒冷脆弱（上限 12.8%），持續 10 秒，不可疊加。"
+   "zh-TW": "依等級、天賦、潛能、裝備與武器面板，智識 ≥ 意志時切換為陣訣·智，否則為陣訣·意。精英化II 時強化破晦：陣訣·智於終結技期間獲得 24% 法術增幅；陣訣·意在破晦陣與破晦訣明造成傷害時施加意志 × 0.02% 自然脆弱與寒冷脆弱（上限 12.8%），持續 10 秒，不可疊加。",
+   "ja": "レベル・素質・潜在・装備・武器の能力値に基づき、知性≧意志で陣訣・知、それ以外で陣訣・意に切り替わる。昇進・Ⅱでは陣訣・知の必殺技中にオクギが24%のアーツ増幅を獲得し、陣訣・意では破晦陣と破晦訣明のダメージ時に意志×0.02%（最大12.8%）の自然脆弱と寒冷脆弱を10秒間付与する（重複不可）。",
+   "ko": "레벨·재능·잠재 능력·장비·무기 능력치를 기준으로 지능 ≥ 의지면 진결 · 지혜, 아니면 진결 · 의지로 전환된다. 정예화 II에서는 진결 · 지혜의 궁극기 지속 중 결이 24%의 아츠 증폭을 얻고, 진결 · 의지에서는 어스름 파훼의 진과 어스름 파훼의 깨달음의 피해 시 의지×0.02%(최대 12.8%)의 자연 취약과 냉기 취약을 10초 동안 부여한다(중첩 불가)."
   },
   {
    "en": "Corrosion applied by Arcane lasts 5 s longer and its Max Resistance Reduction increases to 1.05 times normal (10 s and 1.1 times at Promotion III).",
-   "zh-TW": "自身施加的腐蝕持續時間 +5 秒，降低的最大抗性提升為 1.05 倍（精英化III 為 +10 秒與 1.1 倍）。"
+   "zh-TW": "自身施加的腐蝕持續時間 +5 秒，降低的最大抗性提升為 1.05 倍（精英化III 為 +10 秒與 1.1 倍）。",
+   "ja": "オクギが付与する腐食の持続時間が5秒延長され、最大耐性低下量が通常の1.05倍になる（昇進・Ⅲでは10秒延長、1.1倍）。",
+   "ko": "결이 부여하는 부식의 지속 시간이 5초 연장되고 최대 저항 감소량이 기존의 1.05배가 된다(정예화 III에서는 10초, 1.1배)."
   }
  ],
  "potentials": [
   {
    "en": "Yinglung Stance IV deals 1.3 times its damage; under Array Arcana: INT her battle skill returns 10 extra SP on enemies with Imprisonment, and under Array Arcana: WILL its Nature Susceptibility and Cryo Susceptibility gain +6%.",
-   "zh-TW": "應龍四式傷害提升為 1.3 倍；陣訣·智下自身戰技命中囹圄敵人額外返還 10 點技力，陣訣·意下施加的自然脆弱與寒冷脆弱再 +6%。"
+   "zh-TW": "應龍四式傷害提升為 1.3 倍；陣訣·智下自身戰技命中囹圄敵人額外返還 10 點技力，陣訣·意下施加的自然脆弱與寒冷脆弱再 +6%。",
+   "ja": "応龍四式のダメージが1.3倍になる。陣訣・知では牢獄状態の敵への戦技命中でSPをさらに10返還し、陣訣・意では自然脆弱と寒冷脆弱が+6%される。",
+   "ko": "응룡 4식의 피해가 1.3배가 된다. 진결 · 지혜에서는 구속 상태 적에게 배틀 스킬 명중 시 스킬 게이지를 추가로 10 반환하고, 진결 · 의지에서는 자연 취약과 냉기 취약이 +6% 증가한다."
   },
   {
    "en": "Intellect +15, Will +15, and Arts Intensity +16.",
-   "zh-TW": "智識與意志 +15，源石技藝強度 +16。"
+   "zh-TW": "智識與意志 +15，源石技藝強度 +16。",
+   "ja": "知性+15、意志+15、アーツ強度+16。",
+   "ko": "지능 +15, 의지 +15, 오리지늄 아츠 강도 +16."
   },
   {
    "en": "Weapon Honing extends Arcane's Corrosion by another 5 s and increases its Max Resistance Reduction by an extra 20% of the base value.",
-   "zh-TW": "厲兵使自身施加的腐蝕再延長 5 秒，降低的最大抗性額外提升原本的 20%。"
+   "zh-TW": "厲兵使自身施加的腐蝕再延長 5 秒，降低的最大抗性額外提升原本的 20%。",
+   "ja": "研ぎ澄ますによるオクギの腐食持続時間がさらに5秒延長され、最大耐性低下量が基礎値の20%分追加上昇する。",
+   "ko": "무장 강화로 결의 부식 지속 시간이 추가로 5초 연장되고, 최대 저항 감소량이 기본값의 20%만큼 추가로 증가한다."
   },
   {
    "en": "Gloompurge costs 15% less Ultimate Energy.",
-   "zh-TW": "破晦所需的終結技能量 -15%。"
+   "zh-TW": "破晦所需的終結技能量 -15%。",
+   "ja": "破晦の必要必殺チャージが15%減少する。",
+   "ko": "어스름 파훼의 궁극기 에너지 소모가 15% 감소한다."
   },
   {
    "en": "Under Array Arcana: INT, Gloompurge adds 16% Arts Amp and raises Gloompurge Arcana's damage to 1.3 times; under Array Arcana: WILL, Gloompurger Array and Gloompurge Arcana add +7% Nature Susceptibility and Cryo Susceptibility, and casting Gloompurge Arcana cuts Yinglung Stance IV's cooldown by 30%.",
-   "zh-TW": "陣訣·智下破晦額外提供 16% 法術增幅並使破晦訣明傷害提升為 1.3 倍；陣訣·意下破晦陣與破晦訣明的自然脆弱與寒冷脆弱再 +7%，且施放破晦訣明後立即縮短應龍四式 30% 冷卻時間。"
+   "zh-TW": "陣訣·智下破晦額外提供 16% 法術增幅並使破晦訣明傷害提升為 1.3 倍；陣訣·意下破晦陣與破晦訣明的自然脆弱與寒冷脆弱再 +7%，且施放破晦訣明後立即縮短應龍四式 30% 冷卻時間。",
+   "ja": "陣訣・知では破晦にアーツ増幅16%を追加し破晦訣明のダメージが1.3倍になる。陣訣・意では破晦陣と破晦訣明の自然脆弱と寒冷脆弱がさらに+7%され、破晦訣明発動時に応龍四式のクールタイムを30%短縮する。",
+   "ko": "진결 · 지혜에서는 어스름 파훼에 아츠 증폭 16%를 추가하고 어스름 파훼의 깨달음의 피해가 1.3배가 된다. 진결 · 의지에서는 어스름 파훼의 진과 어스름 파훼의 깨달음의 자연 취약과 냉기 취약이 +7% 추가되며, 어스름 파훼의 깨달음 사용 시 응룡 4식의 쿨타임을 30% 단축한다."
   }
  ]
 }
