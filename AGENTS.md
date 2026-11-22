@@ -2,7 +2,7 @@
 
 This site is an unofficial wiki for the game Arknights: Endfield (明日方舟：終末地; Hypergryph, published outside mainland China by Gryphline). Its first readers are AI agents; humans come second. The rules in `../AGENTS.md` apply; this file holds what is specific to this site.
 
-State on 2026-11-22: the owner approved the look on the sample pages; all pages were written, rewritten after the owner's feedback below, then extended with the game's recommended weapons, base skills, Dijiang and recipes by product (60 pages per language). The owner confirmed the content and asked to publish on 2026-11-22.
+State on 2026-11-22: the owner approved the look on the sample pages; all pages were written, rewritten after the owner's feedback below, then extended with the game's recommended weapons, base skills, Dijiang and recipes by product (60 pages per language). Published on 2026-11-22 at `https://yuanaruru.com/endfield-wiki/` from `github.com/workingyuanyuan/endfield-wiki` (public; deploy by the workflow, which runs `pnpm verify`). The user site's `SITES` entry and home page rows were requested from the session working on that repository, which had uncommitted changes.
 
 ## Decisions by the owner (2026-11-21)
 

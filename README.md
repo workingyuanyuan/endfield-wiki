@@ -1,5 +1,7 @@
 # Endfield Wiki
 
+Live site: https://yuanaruru.com/endfield-wiki/ (繁體中文 https://yuanaruru.com/endfield-wiki/zh-tw/, 简体中文 https://yuanaruru.com/endfield-wiki/zh-cn/)
+
 An unofficial reference for the game Arknights: Endfield (明日方舟：終末地), global service. It is written first for AI agents that read with a fetch tool, and for people second: every page has a Markdown twin, the answer and its qualifier come first, and each fact is tied to a dated source.
 
 This site is not run by Hypergryph or Gryphline.
