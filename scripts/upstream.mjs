@@ -303,7 +303,10 @@ async function main() {
 	});
 
 	// 4a. The game data version that warfarin.wiki shows, against "game data X.Y" in the pages.
-	await attempt(async () => {
+	// warfarin.wiki answers 403 to GitHub's hosted runners: the workflow sets UPSTREAM_SKIP_WARFARIN,
+	// and this part runs only where the command is run by hand. EndfieldData is the same data mine.
+	if (process.env.UPSTREAM_SKIP_WARFARIN) notes.push('note: not read: warfarin.wiki: it refuses hosted runners; run pnpm upstream on a computer to compare its version');
+	else await attempt(async () => {
 		const html = await request(WARFARIN);
 		const shown = html?.replace(/<!-- -->/g, '').match(/Current Version:\s*<\/span>\s*<span>v([\d.]+)</)?.[1];
 		if (!shown) throw new Error(`${WARFARIN}: no "Current Version" found`);

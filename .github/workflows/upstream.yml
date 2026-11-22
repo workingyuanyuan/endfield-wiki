@@ -39,6 +39,8 @@ jobs:
         env:
           # Sent to the GitHub API only (EndfieldData trees), for its higher rate limit.
           GITHUB_TOKEN: ${{ github.token }}
+          # warfarin.wiki answers 403 to hosted runners (upstream/README.md).
+          UPSTREAM_SKIP_WARFARIN: '1'
         run: |
           set +e
           node scripts/upstream.mjs > report.txt 2>&1
