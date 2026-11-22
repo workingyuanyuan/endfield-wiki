@@ -1,42 +1,33 @@
 ---
 // Override of Starlight's SiteTitle: the site name, a mark that the site is not the
-// publisher's, and links to the machine-readable outputs of the current page. Each link
-// has a single-key shortcut (M, L, J), shown as a bracketed hint drawn by CSS.
-import { LABELS, pageId, localeOf, mdPath, llmsPath, withBase } from '../lib/site.mjs';
+// publisher's, and a link to the first page of each top-level sidebar group (versions,
+// operators, systems, AIC), in the sidebar's order and labels. The Markdown twin,
+// llms.txt and index.json are linked from the page notes (MarkdownContent.astro).
+import { LABELS, pageId, localeOf } from '../lib/site.mjs';
 
-const { siteTitle, siteTitleHref, entry, id: routeId } = Astro.locals.starlightRoute;
+const { siteTitle, siteTitleHref, id: routeId, sidebar } = Astro.locals.starlightRoute;
 // The header follows the address: on Starlight's English fallback at a Japanese or Korean
-// address it stays Japanese or Korean, while the Markdown link names the English twin shown.
-const locale = localeOf(pageId(routeId));
-const t = LABELS[locale.lang];
-const links = [
-	...(entry.data.lastVerified ? [{ key: 'M', label: 'Markdown', href: withBase(mdPath(pageId(entry.id))) }] : []),
-	{ key: 'L', label: 'llms.txt', href: withBase(llmsPath(locale)) },
-	{ key: 'J', label: 'index.json', href: withBase('/index.json') },
-];
+// address it stays Japanese or Korean.
+const t = LABELS[localeOf(pageId(routeId)).lang];
+const links = (entries) => entries.flatMap((e) => (e.type === 'link' ? [e] : links(e.entries)));
+const sections = sidebar
+	.filter((entry) => entry.type === 'group')
+	.map((group) => {
+		const inner = links(group.entries);
+		return { label: group.label, href: inner[0]?.href, current: inner.some((e) => e.isCurrent) };
+	})
+	.filter((s) => s.href);
 ---
 
 <a href={siteTitleHref} class="site-title" translate="no">
 	<span class="name">{siteTitle}</span>
 	<span class="unofficial">{t.unofficial}</span>
 </a>
-<nav class="outputs" aria-label={t.formats}>
-	{links.map((link) => <a href={link.href} data-key={link.key} aria-keyshortcuts={link.key.toLowerCase()}>{link.label}</a>)}
+<nav class="sections" aria-label={t.sections}>
+	{sections.map((s) => <a href={s.href} aria-current={s.current ? 'true' : undefined}>{s.label}</a>)}
 </nav>
 
 <script is:inline>
-	// Single-key shortcuts for the links above. Ignored while typing or with modifier keys.
-	document.addEventListener('keydown', (event) => {
-		if (event.defaultPrevented || event.ctrlKey || event.metaKey || event.altKey) return;
-		const target = event.target;
-		if (target instanceof HTMLElement) {
-			if (target.isContentEditable || /^(INPUT|TEXTAREA|SELECT)$/.test(target.tagName)) return;
-		}
-		if (document.querySelector('dialog[open]')) return;
-		const link = document.querySelector(`nav.outputs a[data-key="${event.key.toUpperCase()}"]`);
-		if (link instanceof HTMLAnchorElement) link.click();
-	});
-
 	// Entrance of section headings, tables and the page notes: each plays once, when it
 	// first comes into view (see the motion section of endfield.css). The class on <html>
 	// is set here, in the header, before the body is parsed; without this script or
@@ -99,36 +90,34 @@ const links = [
 		font-weight: 500;
 		letter-spacing: 0.08em;
 	}
-	.outputs {
+	.sections {
 		display: none;
-		gap: 1.1rem;
-		margin-inline-start: 1.5rem;
+		gap: 1.4rem;
+		margin-inline-start: 1.75rem;
 		font-family: var(--ef-display);
-		font-size: 0.72rem;
+		font-size: 0.78rem;
+		font-weight: 600;
 		letter-spacing: 0.06em;
 		white-space: nowrap;
 	}
 	@media (min-width: 72rem) {
-		.outputs {
+		.sections {
 			display: flex;
 		}
 	}
-	.outputs a {
-		padding: 0.1em 0.3em;
+	.sections a {
+		padding: 0.15em 0.35em;
 		color: var(--sl-color-gray-3);
 		text-decoration: none;
 		text-transform: uppercase;
 	}
-	/* The key hint before each link ([M], [L], [J]) is drawn here, never typed: check 5 of
-	   scripts/check-dist.mjs fails when it leaks into page text. */
-	.outputs a::before {
-		content: '[' attr(data-key) '] ';
+	/* The section of the current page, marked as the sidebar marks the current page. */
+	.sections a[aria-current] {
 		color: var(--sl-color-white);
+		box-shadow: inset 0 -2px 0 var(--ef-yellow);
 	}
-	.outputs a:hover,
-	.outputs a:focus-visible,
-	.outputs a:hover::before,
-	.outputs a:focus-visible::before {
+	.sections a:hover,
+	.sections a:focus-visible {
 		background: var(--ef-yellow);
 		color: var(--ef-ink);
 	}

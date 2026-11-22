@@ -141,7 +141,7 @@ After a change to a record: `names_jako.py` (when names changed), `build_pages.p
 - In the light theme yellow is a ground colour only (highlight under links, selected row, marks); text accents are ink. In the dark theme yellow carries links.
 - Text drawn with CSS `content`: the double slash before `h2`. A pattern for it is in check 5 of `scripts/check-dist.mjs`.
 - Three Starlight components are overridden: `SiteTitle`, `MarkdownContent`, `ThemeSelect`.
-- The header links to the Markdown twin, `llms.txt` and `index.json` carry the key hints `[M]`, `[L]`, `[J]`, drawn by CSS (`SiteTitle.astro`); the keys work as shortcuts. Check 11 of `check-dist.mjs` fails without them (added 2026-11-22: the first skin had dropped them, although the owner had asked for them on `nte-wiki`).
+- The header links the four sections, in the sidebar's order: versions, operators, systems, AIC (`SiteTitle.astro`, from the sidebar groups). The sidebar puts operators second and keeps the group collapsed. The Markdown twin, `llms.txt` and `index.json` are linked from the page notes, not the header. Check 11 of `check-dist.mjs` fails otherwise. Decided by the owner on 2026-11-22: the header is for players; the format links and their key hints `[M]` `[L]` `[J]` moved out of it.
 - Screenshots: `preview/endfield-wiki/` one level up. Headless Chromium needs `FONTCONFIG_FILE` pointing at a config that adds `/mnt/c/Windows/Fonts`.
 
 ## Where things are

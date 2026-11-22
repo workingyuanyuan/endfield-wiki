@@ -202,7 +202,7 @@ export const LABELS = {
 		home: 'Home',
 		pageList: 'list of all pages',
 		unofficial: 'unofficial',
-		formats: 'Other formats of this page',
+		sections: 'Sections',
 	},
 	'zh-TW': {
 		appliesTo: '適用範圍',
@@ -220,7 +220,7 @@ export const LABELS = {
 		home: '首頁',
 		pageList: '所有頁面清單',
 		unofficial: '非官方',
-		formats: '本頁的其他格式',
+		sections: '分類',
 	},
 	'zh-CN': {
 		appliesTo: '适用范围',
@@ -238,7 +238,7 @@ export const LABELS = {
 		home: '首页',
 		pageList: '所有页面清单',
 		unofficial: '非官方',
-		formats: '本页的其他格式',
+		sections: '分类',
 	},
 	ja: {
 		appliesTo: '対象',
@@ -256,7 +256,7 @@ export const LABELS = {
 		home: 'ホーム',
 		pageList: 'ページ一覧',
 		unofficial: '非公式',
-		formats: 'このページの他の形式',
+		sections: 'セクション',
 	},
 	ko: {
 		appliesTo: '적용 범위',
@@ -274,7 +274,7 @@ export const LABELS = {
 		home: '홈',
 		pageList: '페이지 목록',
 		unofficial: '비공식',
-		formats: '이 페이지의 다른 형식',
+		sections: '섹션',
 	},
 };
 

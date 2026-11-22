@@ -38,6 +38,12 @@ export default defineConfig({
 					items: [{ autogenerate: { directory: 'versions' } }],
 				},
 				{
+					label: 'Operators',
+					translations: { 'zh-TW': '幹員', 'zh-CN': '干员', ja: 'オペレーター', ko: '오퍼레이터' },
+					collapsed: true,
+					items: [{ autogenerate: { directory: 'operators' } }],
+				},
+				{
 					label: 'Systems',
 					translations: { 'zh-TW': '系統', 'zh-CN': '系统', ja: 'システム', ko: '시스템' },
 					items: [{ slug: 'systems' }, { slug: 'systems/headhunting' }, { slug: 'systems/arsenal' }, { slug: 'systems/combat' }, { slug: 'systems/operator-progression' }, { slug: 'systems/weapons' }, { slug: 'systems/gear' }, { slug: 'systems/enemies' }, { slug: 'systems/dijiang' }, { slug: 'systems/servers-and-time' }, { slug: 'systems/platforms' }, { slug: 'systems/names' }],
@@ -46,12 +52,6 @@ export default defineConfig({
 					label: 'AIC',
 					translations: { 'zh-TW': '集成工業', 'zh-CN': '集成工业', ja: '集成工業', ko: '통합 공업' },
 					items: [{ slug: 'aic' }, { slug: 'aic/power' }, { slug: 'aic/production' }, { slug: 'aic/recipes' }, { slug: 'aic/regional-development' }],
-				},
-				{
-					label: 'Operators',
-					translations: { 'zh-TW': '幹員', 'zh-CN': '干员', ja: 'オペレーター', ko: '오퍼레이터' },
-					collapsed: true,
-					items: [{ autogenerate: { directory: 'operators' } }],
 				},
 			],
 			customCss: ['@fontsource-variable/lexend', './src/styles/endfield.css'],

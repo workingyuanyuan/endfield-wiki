@@ -20,9 +20,9 @@
 //  8. llms.txt: notes, bundles and other languages within the first 5,000 characters.
 //  9. The 404 page links each language's home page and page list.
 // 10. robots.txt names the sitemap and carries a Content-Signal line.
-// 11. The header links the page's Markdown twin, llms.txt and index.json, with the key hints
-//     [M], [L], [J] drawn by the built CSS; no text in <main> is about the site or the page
-//     (scripts/check-page-text.mjs).
+// 11. The header links the first page of each sidebar section (versions, operators, systems,
+//     AIC); the page notes link the Markdown twin, llms.txt and index.json; no text in <main>
+//     is about the site or the page (scripts/check-page-text.mjs).
 // Being found: title, description, canonical, hreflang and sitemap (scripts/check-found.mjs).
 
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
@@ -35,10 +35,12 @@ import { SITE, LOCALES, LLMS_NOTES, localeOf, bareId, idInLocale, htmlPath, mdPa
 import { bundlePath } from '../src/lib/llms.mjs';
 import { readPages, readPending } from '../src/lib/content-index.mjs';
 import { checkFound } from './check-found.mjs';
-import { checkHeaderLinks, checkKeyHintCss, checkSelfReference } from './check-page-text.mjs';
+import { checkHeaderAndOutputs, checkSelfReference } from './check-page-text.mjs';
 
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
 const LIMIT = 5000;
+// The top-level sidebar groups, in order, by the id of their first page (astro.config.mjs).
+const SECTIONS = ['versions', 'operators', 'systems', 'aic'];
 const failures = [];
 const fail = (page, message) => failures.push(`${page}: ${message}`);
 
@@ -274,9 +276,13 @@ for (const { id, data } of pages) {
 		}
 	}
 
-	// Header links and page text (scripts/check-page-text.mjs): the header links the twin,
-	// llms.txt and index.json, and no text in <main> is about the site or the page.
-	checkHeaderLinks(doc, id, fail, { markdown: withBase(mdPath(id)), llms: withBase(llmsPath(localeOf(id))), json: withBase('/index.json') });
+	// Header, page notes and page text (scripts/check-page-text.mjs): the header links the
+	// sections in the sidebar's order, the page notes link the twin, llms.txt and index.json,
+	// and no text in <main> is about the site or the page.
+	checkHeaderAndOutputs(doc, id, fail, {
+		sections: SECTIONS.map((s) => withBase(htmlPath(idInLocale(s, localeOf(id))))),
+		outputs: [withBase(mdPath(id)), withBase(llmsPath(localeOf(id))), withBase('/index.json')],
+	});
 	checkSelfReference(doc, id, fail);
 
 	// 5. No decoration leak into extracted text.
@@ -284,14 +290,9 @@ for (const { id, data } of pages) {
 	for (const [name, pattern] of [
 		// Add a pattern here for every piece of text the skin draws with CSS `content`.
 		['double slash before a section name', /(^|\s)\/\/\s?\S/],
-		['bracketed key hint', /\[[MLJ]\]\s?[A-Za-z]/],
 	]) {
 		if (pattern.test(visible)) fail(id, `decoration leaked into page text: ${name}`);
 	}
-	// The header links to this page's other formats, each with its key: an owner decision for
-	// every site (root AGENTS.md, Visible page), not part of the look.
-	const keys = [...doc.querySelectorAll('nav.outputs a[data-key]')].map((a) => a.dataset.key).join('');
-	if (keys !== 'MLJ') fail(id, `header format links are ${keys || 'missing'}, expected M, L, J`);
 	// The skin draws a double slash before each section heading. It may not be typed into one.
 	for (const h of doc.querySelectorAll('main h1, main h2, main h3')) {
 		if (/^\/\//.test(h.textContent.trim())) fail(id, `decoration typed into a heading: ${h.textContent.trim().slice(0, 40)}`);
@@ -369,8 +370,6 @@ const robots = existsSync(join(DIST, 'robots.txt')) ? read('robots.txt') : '';
 if (!robots.includes(`Sitemap: ${SITE}/sitemap-index.xml`)) fail('robots.txt', 'missing or without the sitemap');
 if (!/^Content-Signal: /m.test(robots)) fail('robots.txt', 'no Content-Signal line');
 
-// The key hints of the header links ([M], [L], [J]) are drawn by the built CSS.
-checkKeyHintCss(DIST, fail);
 
 checkFound(DIST, pages, fail);
 

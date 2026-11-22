@@ -43,7 +43,7 @@ const agentNote = hasFacts
 </ul>
 </div>}
 <slot />
-{/* Page notes: scope, dates, sources and image credits, after the body. */}
+{/* Page notes: scope, dates, sources, image credits and the other formats, after the body. */}
 {hasFacts && <dl class="not-content facts">
 	{
 		data.aliases?.length && (
@@ -87,6 +87,8 @@ const agentNote = hasFacts
 	}
 	<dt>{t.markdown}</dt>
 	<dd><a href={withBase(mdPath(id))}>{mdPath(id)}</a></dd>
+	<dt>{t.allPages}</dt>
+	<dd class="outputs"><a href={withBase(llmsPath(localeOf(id)))}>{llmsPath(localeOf(id))}</a>{p.list}<a href={withBase('/index.json')}>/index.json</a></dd>
 </dl>}
 </div>
 
