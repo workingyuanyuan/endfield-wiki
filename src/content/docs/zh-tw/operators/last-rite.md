@@ -8,6 +8,8 @@ effectiveDate: 2026-10-28
 aliases:
   - "Last Rite"
   - "别礼"
+  - "ラストライト"
+  - "라스트 라이트"
 art:
   - title: 幹員列表
     url: https://endfield.gryphline.com/en-us/operator

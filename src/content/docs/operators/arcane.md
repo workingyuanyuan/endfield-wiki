@@ -8,6 +8,8 @@ effectiveDate: 2026-09-02
 aliases:
   - "訣"
   - "诀"
+  - "オクギ"
+  - "결"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

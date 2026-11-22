@@ -8,6 +8,7 @@ effectiveDate: 2026-11-22
 aliases:
   - "Dijiang"
   - "帝江号"
+  - "제강호"
 sources:
   - title: "遊戲內教學「帝江號」，WikiTutorialPageTable（遊戲資料 1.6）"
     url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/WikiTutorialPageTable.json

@@ -8,6 +8,8 @@ effectiveDate: 2026-11-22
 aliases:
   - "Names in three scripts"
   - "名稱對照"
+  - "名称対照"
+  - "명칭 대조"
 sources:
   - title: "官方干员列表 (Gryphline)"
     url: https://endfield.gryphline.com/en-us/operator

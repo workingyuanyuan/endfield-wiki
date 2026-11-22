@@ -8,6 +8,8 @@ effectiveDate: 2026-01-22
 aliases:
   - "管理員"
   - "管理员"
+  - "管理人"
+  - "관리자"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

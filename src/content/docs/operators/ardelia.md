@@ -8,6 +8,8 @@ effectiveDate: 2026-10-28
 aliases:
   - "艾爾黛拉"
   - "艾尔黛拉"
+  - "アルデリア"
+  - "아델리아"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

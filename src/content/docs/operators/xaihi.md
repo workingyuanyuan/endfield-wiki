@@ -8,6 +8,8 @@ effectiveDate: 2026-01-22
 aliases:
   - "賽希"
   - "赛希"
+  - "ザイヒ"
+  - "자이히"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

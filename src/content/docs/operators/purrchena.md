@@ -7,6 +7,8 @@ lastVerified: 2026-11-22
 effectiveDate: 2026-09-02
 aliases:
   - "噗切娜"
+  - "プチエナ"
+  - "푸치나"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

@@ -8,6 +8,8 @@ effectiveDate: 2026-01-22
 aliases:
   - "卡契爾"
   - "卡契尔"
+  - "キャッチャー"
+  - "카치르"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

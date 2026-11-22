@@ -8,6 +8,8 @@ effectiveDate: 2026-01-22
 aliases:
   - "佩麗卡"
   - "佩丽卡"
+  - "ペリカ"
+  - "펠리카"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

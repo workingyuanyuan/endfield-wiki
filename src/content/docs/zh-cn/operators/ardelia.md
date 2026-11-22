@@ -8,6 +8,8 @@ effectiveDate: 2026-10-28
 aliases:
   - "Ardelia"
   - "艾爾黛拉"
+  - "アルデリア"
+  - "아델리아"
 art:
   - title: 干员列表
     url: https://endfield.gryphline.com/en-us/operator

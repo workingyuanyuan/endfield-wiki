@@ -88,11 +88,14 @@ Agent test after the expansion (2026-11-22; the five partial questions again and
 pnpm verify      # build, then run the acceptance checks. Run this before you call a change done.
 pnpm build       # build
 pnpm check       # acceptance checks on an existing dist/
-python3 -I pipeline/build_pages.py     # operator pages (en, zh-tw) from records/
-python3 -I pipeline/build_lists.py     # names, weapons, dijiang, recipes, enemies (en, zh-tw) from records/
+python3 -I pipeline/build_pages.py     # operator pages (en, zh-tw, ja, ko) from records/; ja/ko need the ja/ko fields of records/text/
+python3 -I pipeline/build_pages.py --test-fill-english   # fills missing ja/ko text from English: test only, never commit those pages
+python3 -I pipeline/build_lists.py     # names, weapons, dijiang, recipes, enemies (en, zh-tw, ja, ko) from records/
+python3 -I pipeline/names_jako.py      # records/names-jako.json: ja/ko names and game terms from the text tables and ja-jp/ko-kr notices
+python3 -I pipeline/check_jako_names.py [page.md ...]           # ja/ko pages: every game name in its ja/ko form, no Chinese-only names
 uv run --with opencc-python-reimplemented scripts/to-zh-cn.py   # write the zh-cn pages from the zh-tw pages
 python3 -I pipeline/lint_page.py <page.md> [...]                # check one page without a build
-python3 -I pipeline/check_prose.py <page.md> [...]              # citation phrases, disclaimers, time-limited content, a second server's dates
+python3 -I pipeline/check_prose.py <page.md> [...]              # citation phrases, disclaimers, time-limited content, a second server's dates (en, zh, ja, ko)
 python3 -I pipeline/check_text.py <sheet.json> records/text/<slug>.json   # check one operator's restated text
 pnpm preview     # serve dist/ at http://127.0.0.1:4398/endfield-wiki/ with GitHub Pages style headers
 python3 -I pipeline/notice_text.py cache/official/art/en-us-<cid>.json   # an official notice from the cache as text
@@ -105,13 +108,14 @@ python3 -I pipeline/ed_extract.py      # recommended weapons, base skills, Essen
 uv run --with opencc-python-reimplemented pipeline/names_voc.py   # names whose Simplified form is not a plain conversion
 ```
 
-After a change to a record: `build_pages.py`, `build_lists.py`, `to-zh-cn.py`, then `pnpm verify`. After new game data: fetch the pages again into `cache/third/wf/` (the fetch scripts are kept there), then `wf_extract.py`, `build_records.py`, `names_voc.py`, and restate what changed in `records/text/`.
+After a change to a record: `names_jako.py` (when names changed), `build_pages.py`, `build_lists.py`, `to-zh-cn.py`, `check_jako_names.py`, then `pnpm verify`. After new game data: fetch the pages again into `cache/third/wf/` (the fetch scripts are kept there), then `wf_extract.py`, `build_records.py`, `names_voc.py`, and restate what changed in `records/text/`.
 
 ## Content rules
 
 - Pages live in `src/content/docs/` (English), `src/content/docs/zh-tw/`, `src/content/docs/zh-cn/`, `src/content/docs/ja/` and `src/content/docs/ko/`. Addresses use the official English name in lower case with hyphens: `operators/laevatain`, `operators/last-rite`, `versions/1-6`. A section's index page is `<section>/index.md`.
 - Do not edit `zh-cn` pages by hand. Run `scripts/to-zh-cn.py` after every change to a `zh-tw` page. When a `zh-tw` page brings in a new name, compare it with the mainland site and add a pair to `VOC` when the two differ beyond the script (one did: 洛西 / 洛茜, Rossi). A table whose header names both 繁體中文 and 簡體中文 keeps its rows as written. A sentence that quotes a Traditional name needs an entry in `FIXES`.
-- Every page has `aliases`: the title and aliases together are the same set of strings in every language, and the Simplified title must be among the aliases of the `zh-tw` page.
+- Every page has `aliases`: the title and aliases together are the same set of strings in every language in which the page exists (Japanese and Korean titles included), and the Simplified title must be among the aliases of the `zh-tw` page.
+- Japanese (`ja/`) and Korean (`ko/`) pages: links start with `/ja/` or `/ko/`; a page listed for that language in `records/pending.json` is named as plain text, never linked. Japanese is written in だ・である, Korean in -다; numbers, dates, times and links are those of the English page. Game names and terms come from the game's own text (`records/names-jako.json`, written by `pipeline/names_jako.py`; the records of `ed_extract.py` carry ja and ko); a term the tables have is never translated by hand. Template sentences are whole sentences per language in `build_pages.py` and `build_lists.py`; Korean particles after a variable go through `josa()`. `records/changes.json` and `obtain.json` carry ja and ko prose. Hand-written ja/ko pages (home and index pages) are translated from English and list only pages that exist in that language.
 - Write links and images root-relative and without the site's sub-path: `/operators/laevatain/`, `/art/operators/laevatain.webp`. In `zh-tw` pages, links start with `/zh-tw/` (in `ja` and `ko` pages with `/ja/` and `/ko/`); image paths do not.
 - Quote a frontmatter value that contains a colon followed by a space (`"Arknights: Endfield ..."`).
 - Times: Asia server time (UTC+8), written without a label. "Server time" in a notice is UTC+8 on the Asia server and UTC-5 on the Americas / Europe server; a maintenance window is the same six hours on both (06:00 to 12:00 UTC+8 is 17:00 to 23:00 UTC-5 the day before). A banner that closes "before version update and maintenance" ends at "End of Version x"; do not infer a date.
@@ -142,7 +146,7 @@ After a change to a record: `build_pages.py`, `build_lists.py`, `to-zh-cn.py`, t
 | `scripts/check-dist.mjs`, `scripts/check-found.mjs` | Acceptance checks |
 | `scripts/to-zh-cn.py` | Writes the Simplified Chinese pages from the Traditional Chinese ones |
 | `pipeline/` | Scripts that read the cached sources, build the records and write the generated pages |
-| `records/` | The site's own data, committed: operators (facts and restated text), banners, versions, how operators are obtained, changes per operator, weapons, name pairs for the Simplified pages, `pages.txt` (every page of the site, used by the link check of `lint_page.py`) |
+| `records/` | The site's own data, committed: operators (facts and restated text), banners, versions, how operators are obtained, changes per operator, weapons, name pairs for the Simplified pages, `names-jako.json` (Japanese and Korean names and game terms), `pending.json` (pages Japanese and Korean lack), `pages.txt` (every page of the site, used by the link check of `lint_page.py`) |
 | `cache/` | Copies of sources, not committed: `official/list-all.json` (all 135 notices, en-us and zh-tw), `official/art/<lang>-<cid>.json` (full text of the 2026 notices), `official/operators.json`, `third/wf/` (warfarin.wiki pages and what was cut from them: operators, terms, tutorials, facilities, weapons, gear sets), `third/wg/` (Endfield Talos Wiki wikitext), `sheets/` (source sheets for restating) |
 | `tests/agent-eval/questions.json` | The site's question list, with the expected answer, the qualifier and the page for each |
 

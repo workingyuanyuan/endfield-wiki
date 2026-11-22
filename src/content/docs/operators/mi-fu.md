@@ -7,6 +7,8 @@ lastVerified: 2026-11-22
 effectiveDate: 2026-07-15
 aliases:
   - "弭弗"
+  - "ミ・フ"
+  - "미브"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

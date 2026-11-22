@@ -8,6 +8,8 @@ effectiveDate: 2026-09-02
 aliases:
   - "Rossi"
   - "洛西"
+  - "ロッシ"
+  - "로시"
 art:
   - title: 干员列表
     url: https://endfield.gryphline.com/en-us/operator

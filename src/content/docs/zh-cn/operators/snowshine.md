@@ -8,6 +8,8 @@ effectiveDate: 2026-01-22
 aliases:
   - "Snowshine"
   - "晝雪"
+  - "スノーシャイン"
+  - "스노우샤인"
 art:
   - title: 干员列表
     url: https://endfield.gryphline.com/en-us/operator

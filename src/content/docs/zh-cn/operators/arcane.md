@@ -8,6 +8,8 @@ effectiveDate: 2026-09-02
 aliases:
   - "Arcane"
   - "訣"
+  - "オクギ"
+  - "결"
 art:
   - title: 干员列表
     url: https://endfield.gryphline.com/en-us/operator

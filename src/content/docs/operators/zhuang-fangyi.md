@@ -8,6 +8,8 @@ effectiveDate: 2026-10-15
 aliases:
   - "莊方宜"
   - "庄方宜"
+  - "ゾアン・ファンイ"
+  - "장방이"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

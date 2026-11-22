@@ -8,6 +8,8 @@ effectiveDate: 2026-10-28
 aliases:
   - "湯湯"
   - "汤汤"
+  - "タンタン"
+  - "탕탕"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

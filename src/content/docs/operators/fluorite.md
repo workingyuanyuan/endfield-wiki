@@ -8,6 +8,8 @@ effectiveDate: 2026-09-02
 aliases:
   - "螢石"
   - "萤石"
+  - "フローライト"
+  - "플루라이트"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

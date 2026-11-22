@@ -8,6 +8,8 @@ effectiveDate: 2026-01-22
 aliases:
   - "Chen Qianyu"
   - "陳千語"
+  - "チェン・センユー"
+  - "진천우"
 art:
   - title: 干员列表
     url: https://endfield.gryphline.com/en-us/operator

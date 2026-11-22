@@ -8,6 +8,8 @@ effectiveDate: 2026-11-22
 aliases:
   - "名稱對照"
   - "名称对照"
+  - "名称対照"
+  - "명칭 대조"
 sources:
   - title: "Official operator list (Gryphline)"
     url: https://endfield.gryphline.com/en-us/operator

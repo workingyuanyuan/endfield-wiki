@@ -8,6 +8,8 @@ effectiveDate: 2026-05-13
 aliases:
   - "Gilberta"
   - "潔爾佩塔"
+  - "ギルベルタ"
+  - "질베르타"
 art:
   - title: 干员列表
     url: https://endfield.gryphline.com/en-us/operator

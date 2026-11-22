@@ -8,6 +8,8 @@ effectiveDate: 2026-09-23
 aliases:
   - "Yvonne"
   - "伊馮"
+  - "イヴォンヌ"
+  - "이본"
 art:
   - title: 干员列表
     url: https://endfield.gryphline.com/en-us/operator

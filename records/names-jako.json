@@ -1,0 +1,8093 @@
+{
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg (I18nTextTable_EN, _TC, _JP, _KR); version titles from the ja-jp and ko-kr update notes (web-news.gryphline.com, read 2026-11-22)",
+ "names": [
+  {
+   "en": "\"Advance\"",
+   "zh-TW": "「行軍」",
+   "ja": "「進軍」",
+   "ko": "'행군'",
+   "source": "tables"
+  },
+  {
+   "en": "\"Hanna\"",
+   "zh-TW": "「歌謠」",
+   "ja": "「歌」",
+   "ko": "'노래'",
+   "source": "tables"
+  },
+  {
+   "en": "\"Huntress's Gaze\" Hit DMG",
+   "zh-TW": "「獵手的注視」命中傷害",
+   "ja": "「狩人の眼差し」命中ダメージ",
+   "ko": "'사냥꾼의 시선' 명중 피해",
+   "source": "tables"
+  },
+  {
+   "en": "\"Razorclaw\" Ambuscade",
+   "zh-TW": "「利爪」奇襲",
+   "ja": "“鋭爪”奇襲",
+   "ko": "기습 '날카로운 발톱'",
+   "source": "tables"
+  },
+  {
+   "en": "\"Shadowless\"",
+   "zh-TW": "「絕影」",
+   "ja": "「絶影」",
+   "ko": "'절영'",
+   "source": "tables"
+  },
+  {
+   "en": "\"Super Energetic\"",
+   "zh-TW": "「精力十足」",
+   "ja": "「エネルギッシュ」",
+   "ko": "'넘치는 기운'",
+   "source": "tables"
+  },
+  {
+   "en": "???",
+   "zh-TW": "？？？",
+   "ja": "？？？",
+   "ko": "???",
+   "source": "tables"
+  },
+  {
+   "en": "ABATK DMG",
+   "zh-TW": "空中普通攻擊傷害",
+   "ja": "空中通常攻撃ダメージ",
+   "ko": "공중 일반 공격 피해",
+   "source": "tables"
+  },
+  {
+   "en": "Above the Clouds",
+   "zh-TW": "雲層之上",
+   "ja": "雲の上で",
+   "ko": "구름을 넘어",
+   "source": "tables"
+  },
+  {
+   "en": "Absolute Composure",
+   "zh-TW": "千定萬定",
+   "ja": "千定万定",
+   "ko": "결심",
+   "source": "tables"
+  },
+  {
+   "en": "Absolute Zero Armament",
+   "zh-TW": "零度武裝",
+   "ja": "零度武装",
+   "ko": "영점 무장",
+   "source": "tables"
+  },
+  {
+   "en": "Aburrey's Legacy",
+   "zh-TW": "阿伯莉遺聲",
+   "ja": "アブリー遺声",
+   "ko": "아부레이의 메아리",
+   "source": "tables"
+  },
+  {
+   "en": "Acid Resistant Pump Mk II",
+   "zh-TW": "耐酸水泵II",
+   "ja": "耐酸性液体ポンプⅡ",
+   "ko": "내산성 양수기 II",
+   "source": "tables"
+  },
+  {
+   "en": "Acuity of Fine Details",
+   "zh-TW": "通元識微",
+   "ja": "通元識微",
+   "ko": "통찰",
+   "source": "tables"
+  },
+  {
+   "en": "Additional ATK DMG Multiplier",
+   "zh-TW": "追加傷害倍率",
+   "ja": "追加ダメージ倍率",
+   "ko": "추가 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Additional ATK DMG Multiplier",
+   "zh-TW": "追加攻擊傷害倍率",
+   "ja": "追加攻撃ダメージ倍率",
+   "ko": "추가 공격 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Additional ATK DMG Multiplier",
+   "zh-TW": "額外攻擊傷害倍率",
+   "ja": "追加攻撃ダメージ倍率",
+   "ko": "추가 공격 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Additional ATK Interval (s)",
+   "zh-TW": "追加攻擊間隔時間（秒）",
+   "ja": "追加攻撃間隔（秒）",
+   "ko": "추가 공격 간격(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Additional ATK Stagger",
+   "zh-TW": "追加失衡值",
+   "ja": "追加ブレイク値",
+   "ko": "추가 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Additional ATK Ultimate Energy Gain",
+   "zh-TW": "追加攻擊獲得終結技能量",
+   "ja": "追加攻撃の必殺チャージ回復量",
+   "ko": "추가 공격으로 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Additional SP Recovery",
+   "zh-TW": "額外技力回復",
+   "ja": "SP追加回復量",
+   "ko": "추가로 회복하는 스킬 게이지",
+   "source": "tables"
+  },
+  {
+   "en": "Additional SP Recovery per Target Defeated",
+   "zh-TW": "擊敗目標時額外回復技力",
+   "ja": "敵撃破時のSP追加回復量",
+   "ko": "목표 처치 시 추가로 회복하는 스킬 게이지",
+   "source": "tables"
+  },
+  {
+   "en": "Additional SP Return",
+   "zh-TW": "額外技力返還",
+   "ja": "追加SP返還量",
+   "ko": "추가 스킬 게이지 반환",
+   "source": "tables"
+  },
+  {
+   "en": "Additional Stagger Dealt When Hit",
+   "zh-TW": "受擊後額外造成失衡值",
+   "ja": "被攻撃による追加ブレイク値",
+   "ko": "공격받은 후 추가로 주는 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Additional Ultimate Energy",
+   "zh-TW": "額外終結技能量",
+   "ja": "必殺チャージ追加回復量",
+   "ko": "추가 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Additional Ultimate Energy Gain",
+   "zh-TW": "額外獲得終結技能量",
+   "ja": "必殺チャージ追加回復量",
+   "ko": "추가로 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Additional Ultimate Energy Gain per Infliction Stack",
+   "zh-TW": "消耗每層附著額外獲得終結技能量",
+   "ja": "付着消費1段階ごとの必殺チャージ追加回復量",
+   "ko": "중첩된 부착 스택을 소모할 때마다 추가로 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Additional Ultimate Energy per Infliction Stack",
+   "zh-TW": "消耗每層附著額外終結技能量",
+   "ja": "付着消費1段階ごとの必殺チャージ追加回復量",
+   "ko": "중첩된 부착 스택을 소모할 때마다 추가로 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Advance DMG Multiplier",
+   "zh-TW": "進軍傷害倍率",
+   "ja": "進軍ダメージ倍率",
+   "ko": "진군 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Advance Stagger",
+   "zh-TW": "進軍失衡值",
+   "ja": "進軍ブレイク値",
+   "ko": "진군 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Aerial Final Strike DMG",
+   "zh-TW": "空中重擊傷害",
+   "ja": "空中重攻撃ダメージ",
+   "ko": "공중 강력한 일격 피해",
+   "source": "tables"
+  },
+  {
+   "en": "Aerial Final Strike Stagger",
+   "zh-TW": "空中重擊失衡值",
+   "ja": "空中重攻撃ブレイク値",
+   "ko": "공중 강력한 일격 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Aerial Flurry DMG Multiplier",
+   "zh-TW": "空中連斬傷害倍率",
+   "ja": "空中斬撃ダメージ倍率",
+   "ko": "공중 연속 베기 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "After the Feast",
+   "zh-TW": "美餐之後",
+   "ja": "ごちそうのあと",
+   "ko": "아, 배부르다!",
+   "source": "tables"
+  },
+  {
+   "en": "Agašlehem's Sigil",
+   "zh-TW": "看護之證",
+   "ja": "番人の証",
+   "ko": "수호자의 증명",
+   "source": "tables"
+  },
+  {
+   "en": "Aggeloslayer",
+   "zh-TW": "天使殺手",
+   "ja": "アンゲロス・スレイヤー",
+   "ko": "아겔로스 사냥꾼",
+   "source": "tables"
+  },
+  {
+   "en": "Agile Execution",
+   "zh-TW": "敏捷實踐",
+   "ja": "クイックアクション",
+   "ko": "애자일 엑스큐션",
+   "source": "tables"
+  },
+  {
+   "en": "Agility",
+   "zh-TW": "敏捷",
+   "ja": "敏捷",
+   "source": "tables, several ({'敏捷': 2, '俊敏': 1}); attribute of an operator: two of the three ids give 敏捷, and the Essence stat Agility is 敏捷UP",
+   "ko": "민첩"
+  },
+  {
+   "en": "AIC Fieldwork",
+   "zh-TW": "集成實訓",
+   "ja": "集成訓練",
+   "ko": "통합 실전 훈련",
+   "source": "tables"
+  },
+  {
+   "en": "AIC Heavy",
+   "zh-TW": "整合重型",
+   "ja": "集成重装",
+   "ko": "통합 중량형 모델",
+   "source": "tables"
+  },
+  {
+   "en": "AIC Light",
+   "zh-TW": "整合輕型",
+   "ja": "集成軽量",
+   "ko": "통합 경량형 모델",
+   "source": "tables"
+  },
+  {
+   "en": "Akekuri",
+   "zh-TW": "秋栗",
+   "ja": "アケクリ",
+   "ko": "아케쿠리",
+   "source": "tables"
+  },
+  {
+   "en": "Akesaka Satomi",
+   "zh-TW": "明坂聰美",
+   "ja": "明坂聡美",
+   "ko": "아케사카 사토미",
+   "source": "tables"
+  },
+  {
+   "en": "Aldertone's Teachings",
+   "zh-TW": "師者教誨",
+   "ja": "詩教者の教訓",
+   "ko": "사자의 가르침",
+   "source": "tables"
+  },
+  {
+   "en": "Aleks Le",
+   "zh-TW": "Aleks Le",
+   "ja": "Aleks Le",
+   "ko": "Aleks Le",
+   "source": "tables"
+  },
+  {
+   "en": "Alesh",
+   "zh-TW": "阿列什",
+   "ja": "アレッシュ",
+   "ko": "알레쉬",
+   "source": "tables"
+  },
+  {
+   "en": "All-Out Offensive",
+   "zh-TW": "全面攻勢",
+   "ja": "全面攻勢",
+   "ko": "전면 공세",
+   "source": "tables"
+  },
+  {
+   "en": "Amamiya Sora",
+   "zh-TW": "雨宮天",
+   "ja": "雨宮天",
+   "ko": "아마미야 소라",
+   "source": "tables"
+  },
+  {
+   "en": "Amaranthine Tassel",
+   "zh-TW": "赤纓",
+   "ja": "赤纓",
+   "ko": "적영",
+   "source": "tables"
+  },
+  {
+   "en": "Ambassador's Duty",
+   "zh-TW": "代言人的職責",
+   "ja": "アンバサダーの務め",
+   "ko": "홍보대사의 책임",
+   "source": "tables"
+  },
+  {
+   "en": "Ambassador's Special: Base Chance",
+   "zh-TW": "代言人的特殊贈禮：基礎機率",
+   "ja": "アンバサダーのスペシャルギフト：基礎出現確率",
+   "ko": "홍보대사의 특수 선물: 기본 확률",
+   "source": "tables"
+  },
+  {
+   "en": "Ambassador's Special: DMG Multiplier",
+   "zh-TW": "代言人的特殊贈禮：傷害倍率",
+   "ja": "アンバサダーのスペシャルギフト：ダメージ倍率",
+   "ko": "홍보대사의 특수 선물: 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Ambassador's Special: Stagger",
+   "zh-TW": "代言人的特殊贈禮：失衡值",
+   "ja": "アンバサダーのスペシャルギフト：ブレイク値",
+   "ko": "홍보대사의 특수 선물: 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Amber Hood",
+   "zh-TW": "Amber Hood",
+   "ja": "Amber Hood",
+   "ko": "Amber Hood",
+   "source": "tables"
+  },
+  {
+   "en": "Amp",
+   "zh-TW": "增幅效果",
+   "ja": "増幅効果",
+   "ko": "증폭 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Amp Duration (s)",
+   "zh-TW": "增幅時長（秒）",
+   "ja": "増幅時間（秒）",
+   "ko": "증폭 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Amp Increase per Intellect",
+   "zh-TW": "每點智識提升的增幅效果",
+   "ja": "知性1ごとの増幅UP効果",
+   "ko": "지능 1포인트마다 증가하는 증폭 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Amp Increase per Will",
+   "zh-TW": "每點意志提升的增幅效果",
+   "ja": "意志1ごとの増幅UP効果",
+   "ko": "의지 1포인트마다 증가하는 증폭 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Anasa",
+   "zh-TW": "阿納薩",
+   "ja": "アナサ",
+   "ko": "아나사",
+   "source": "tables"
+  },
+  {
+   "en": "Anaty",
+   "zh-TW": "阿納緹",
+   "ja": "アナティ",
+   "ko": "아나티",
+   "source": "tables"
+  },
+  {
+   "en": "Ancestral Spring Flows Anew",
+   "zh-TW": "祖泉的新流",
+   "ja": "祖泉の新流",
+   "ko": "선조의 샘의 새로운 물결",
+   "source": "tables"
+  },
+  {
+   "en": "Ancient Canal",
+   "zh-TW": "古渠",
+   "ja": "千古恒常",
+   "ko": "고대의 강줄기",
+   "source": "tables"
+  },
+  {
+   "en": "Andrea Gatchalian",
+   "zh-TW": "Andrea Gatchalian",
+   "ja": "Andrea Gatchalian",
+   "ko": "Andrea Gatchalian",
+   "source": "tables"
+  },
+  {
+   "en": "Anna Devlin",
+   "zh-TW": "Anna Devlin",
+   "ja": "Anna Devlin",
+   "ko": "Anna Devlin",
+   "source": "tables"
+  },
+  {
+   "en": "Antal",
+   "zh-TW": "安塔爾",
+   "ja": "アンタル",
+   "ko": "안탈",
+   "source": "tables"
+  },
+  {
+   "en": "Apex Prankster",
+   "zh-TW": "巔峰鬧劇",
+   "ja": "つまんない茶番",
+   "ko": "난장판으로 만들어주지",
+   "source": "tables"
+  },
+  {
+   "en": "Applied Originium Theory",
+   "zh-TW": "源石理論應用",
+   "ja": "源石理論応用",
+   "ko": "오리지늄 이론 응용",
+   "source": "tables"
+  },
+  {
+   "en": "Arcane",
+   "zh-TW": "訣",
+   "ja": "オクギ",
+   "ko": "결",
+   "source": "tables"
+  },
+  {
+   "en": "Arcane Staff: Beam Cohesion Arts",
+   "zh-TW": "秘杖·束能技藝",
+   "ja": "秘杖・エネルギー束縛",
+   "ko": "아케인 스태프 · 에너지 제어 기술",
+   "source": "tables"
+  },
+  {
+   "en": "Arcane Staff: Gravity Field",
+   "zh-TW": "秘杖·重力場",
+   "ja": "秘杖・重力場",
+   "ko": "아케인 스태프 · 중력장",
+   "source": "tables"
+  },
+  {
+   "en": "Arcane Staff: Gravity Mode",
+   "zh-TW": "秘杖·引力模式",
+   "ja": "秘杖・引力モード",
+   "ko": "아케인 스태프 · 중력 모드",
+   "source": "tables"
+  },
+  {
+   "en": "Arcane Staff: Matrix Displacement",
+   "zh-TW": "秘杖·矩陣位移",
+   "ja": "秘杖・マトリックス転移",
+   "ko": "아케인 스태프 · 매트릭스 이동",
+   "source": "tables"
+  },
+  {
+   "en": "Arclight",
+   "zh-TW": "弧光",
+   "ja": "アークライト",
+   "ko": "아크라이트",
+   "source": "tables"
+  },
+  {
+   "en": "Ardelia",
+   "zh-TW": "艾爾黛拉",
+   "ja": "アルデリア",
+   "ko": "아델리아",
+   "source": "tables"
+  },
+  {
+   "en": "Area DMG Over Time",
+   "zh-TW": "區域持續傷害",
+   "ja": "エリア持続ダメージ",
+   "ko": "구역 지속 피해",
+   "source": "tables"
+  },
+  {
+   "en": "Argent Flow",
+   "zh-TW": "明河",
+   "ja": "ミンホ",
+   "ko": "명하",
+   "source": "tables"
+  },
+  {
+   "en": "Armored MSGR",
+   "zh-TW": "重裝信使",
+   "ja": "重装トランスポーター",
+   "ko": "중장갑 전달자",
+   "source": "tables"
+  },
+  {
+   "en": "Artful Intent Burst Stagger",
+   "zh-TW": "筆意爆發失衡值",
+   "ja": "筆意爆発ブレイク値",
+   "ko": "필의 폭발 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Artful Intent Duration (s)",
+   "zh-TW": "筆意時長（秒）",
+   "ja": "筆意時間（秒）",
+   "ko": "필의 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Artillery Interdiction",
+   "zh-TW": "重火力截擊",
+   "ja": "重火力迎撃",
+   "ko": "중화력 요격",
+   "source": "tables"
+  },
+  {
+   "en": "Artistic Urge",
+   "zh-TW": "乘興起筆",
+   "ja": "卒意",
+   "ko": "흥에 겨운 붓놀림",
+   "source": "tables"
+  },
+  {
+   "en": "Arts Amp",
+   "zh-TW": "法術增幅效果",
+   "ja": "アーツ増幅効果",
+   "ko": "아츠 증폭 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Arts Amp Duration (s)",
+   "zh-TW": "法術增幅持續時間（秒）",
+   "ja": "アーツ増幅持続時間（秒）",
+   "ko": "아츠 증폭 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Arts Susceptibility (2 Waterspouts)",
+   "zh-TW": "兩個水龍捲法術脆弱",
+   "ja": "2つの水竜巻によるアーツ脆弱",
+   "ko": "용오름 2개일 시 부여하는 아츠 취약",
+   "source": "tables"
+  },
+  {
+   "en": "Arts Susceptibility (3 Waterspouts)",
+   "zh-TW": "三個水龍捲法術脆弱",
+   "ja": "3つの水竜巻によるアーツ脆弱",
+   "ko": "용오름 3개일 시 부여하는 아츠 취약",
+   "source": "tables"
+  },
+  {
+   "en": "Arts Susceptibility Boost per Vulnerability",
+   "zh-TW": "每層破防提升法術脆弱",
+   "ja": "クラッシュ1段階ごとのアーツ脆弱効果UP",
+   "ko": "방어 불능이 중첩될 때마다 증가하는 아츠 취약 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Arts Susceptibility Duration (s)",
+   "zh-TW": "法術脆弱持續時間（秒）",
+   "ja": "アーツ脆弱持続時間（秒）",
+   "ko": "아츠 취약 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Arts Talent",
+   "zh-TW": "術法天分",
+   "ja": "与えられしアーツの才覚",
+   "ko": "아츠 적성",
+   "source": "tables"
+  },
+  {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "ja": "アーツユニット",
+   "ko": "아츠 유닛",
+   "source": "tables"
+  },
+  {
+   "en": "Artzy Tyrannical",
+   "zh-TW": "藝術暴君",
+   "ja": "芸術の独裁者",
+   "ko": "예술의 폭군",
+   "source": "tables"
+  },
+  {
+   "en": "Ascending Strike",
+   "zh-TW": "歸穹宇",
+   "ja": "蒼穹返し",
+   "ko": "귀궁우",
+   "source": "tables"
+  },
+  {
+   "en": "Aspect of Wrath",
+   "zh-TW": "忿怒相",
+   "ja": "忿怒形",
+   "ko": "분노의 형상",
+   "source": "tables"
+  },
+  {
+   "en": "Aspirant",
+   "zh-TW": "仰止",
+   "ja": "仰止",
+   "ko": "숭배의 시선",
+   "source": "tables"
+  },
+  {
+   "en": "At the Wake of Spring",
+   "zh-TW": "春曉時",
+   "ja": "春の暁、訪れし時",
+   "ko": "봄날의 새벽",
+   "source": "notice 0751"
+  },
+  {
+   "en": "ATK Boost",
+   "zh-TW": "攻擊力提升",
+   "ja": "攻撃力UP",
+   "ko": "공격력 증가",
+   "source": "tables"
+  },
+  {
+   "en": "Audio Noise",
+   "zh-TW": "噪點",
+   "ja": "ノイズ",
+   "ko": "노이즈",
+   "source": "tables"
+  },
+  {
+   "en": "Auger Angling",
+   "zh-TW": "鑿孔底釣術",
+   "ja": "穴釣り術",
+   "ko": "얼음낚시 기술",
+   "source": "tables"
+  },
+  {
+   "en": "Auxiliary Crystal Duration (s)",
+   "zh-TW": "支援晶體持續時間（秒）",
+   "ja": "サポートクリスタル持続時間（秒）",
+   "ko": "지원 결정체 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Avywenna",
+   "zh-TW": "艾維文娜",
+   "ja": "アイビーエナ",
+   "ko": "아비웨나",
+   "source": "tables"
+  },
+  {
+   "en": "Bang Si-u",
+   "zh-TW": "房翅于",
+   "ja": "방시우",
+   "ko": "방시우",
+   "source": "tables"
+  },
+  {
+   "en": "Barrage of Technology",
+   "zh-TW": "科技連擊",
+   "ja": "ハイテクバースト",
+   "ko": "하이테크 버스트",
+   "source": "tables"
+  },
+  {
+   "en": "Base Arts Susceptibility",
+   "zh-TW": "基礎法術脆弱效果",
+   "ja": "基礎アーツ脆弱効果",
+   "ko": "기초 아츠 취약 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Base Cryo Amp",
+   "zh-TW": "基礎寒冷增幅效果",
+   "ja": "基礎寒冷増幅効果",
+   "ko": "기초 냉기 증폭 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Base DMG Multiplier",
+   "zh-TW": "基礎傷害倍率",
+   "ja": "基礎ダメージ倍率",
+   "ko": "기초 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Base Explosion DMG Multiplier",
+   "zh-TW": "初始爆炸傷害倍率",
+   "ja": "爆発ダメージ倍率（初回）",
+   "ko": "초기 폭발 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Base Explosion Stagger",
+   "zh-TW": "初始爆炸失衡值",
+   "ja": "爆発ブレイク値（初回）",
+   "ko": "초기 폭발 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Base Nature Amp",
+   "zh-TW": "基礎自然增幅效果",
+   "ja": "基礎自然増幅効果",
+   "ko": "기초 자연 증폭 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Base Shield",
+   "zh-TW": "基礎值護盾",
+   "ja": "シールド基礎値",
+   "ko": "기초 보호 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Base SP Recovery",
+   "zh-TW": "基礎回復技力",
+   "ja": "基礎SP回復量",
+   "ko": "기초 상태에서 회복하는 스킬 게이지",
+   "source": "tables"
+  },
+  {
+   "en": "Base Stagger",
+   "zh-TW": "基礎失衡值",
+   "ja": "基礎ブレイク値",
+   "ko": "기초 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Base Susceptibility",
+   "zh-TW": "基礎脆弱效果",
+   "ja": "基礎脆弱効果",
+   "ko": "기초 취약 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Base Treatment",
+   "zh-TW": "基礎治療值",
+   "ja": "基礎回復値",
+   "ko": "기초 치유 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Base Treatment",
+   "zh-TW": "治療基礎值",
+   "ja": "基礎回復値",
+   "ko": "치유 기초 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Base Treatment for 1st Treatment",
+   "zh-TW": "初次治療基礎治療值",
+   "ja": "初回回復の基礎回復値",
+   "ko": "초회 기초 치유 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Base Treatment Over Time",
+   "zh-TW": "持續治療基礎值",
+   "ja": "基礎回復値（持続）",
+   "ko": "지속 치유 기초 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Base Treatment per Beat",
+   "zh-TW": "單次基礎治療值",
+   "ja": "1回あたりの基礎回復値",
+   "ko": "1회 기초 치유 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Base Ultimate Energy Gain",
+   "zh-TW": "基礎獲得終結技能量",
+   "ja": "必殺チャージ基礎回復量",
+   "ko": "기초로 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Basic Rod Casting",
+   "zh-TW": "基本揮竿法",
+   "ja": "キャストの基本",
+   "ko": "캐스팅의 기본",
+   "source": "tables"
+  },
+  {
+   "en": "Basic Tactics",
+   "zh-TW": "基礎戰術",
+   "ja": "基礎戦術",
+   "ko": "기초 전술",
+   "source": "tables"
+  },
+  {
+   "en": "BATK DMG Multiplier",
+   "zh-TW": "普通攻擊傷害倍率",
+   "ja": "通常攻撃ダメージ倍率",
+   "ko": "일반 공격 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "BATK SEQ 1 Multiplier",
+   "zh-TW": "普攻第一段倍率",
+   "ja": "通常攻撃1段目ダメージ倍率",
+   "ko": "일반 공격 제1단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "BATK SEQ 2 Multiplier",
+   "zh-TW": "普攻第二段倍率",
+   "ja": "通常攻撃2段目ダメージ倍率",
+   "ko": "일반 공격 제2단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "BATK SEQ 3 Multiplier",
+   "zh-TW": "普攻第三段倍率",
+   "ja": "通常攻撃3段目ダメージ倍率",
+   "ko": "일반 공격 제3단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "BATK SEQ 4 Multiplier",
+   "zh-TW": "普攻第四段倍率",
+   "ja": "通常攻撃4段目ダメージ倍率",
+   "ko": "일반 공격 제4단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "BATK SEQ 5 Multiplier",
+   "zh-TW": "普攻第五段倍率",
+   "ja": "通常攻撃5段目ダメージ倍率",
+   "ko": "일반 공격 제5단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Battle Skill AOE Boost",
+   "zh-TW": "戰技範圍提升",
+   "ja": "戦技範囲UP",
+   "ko": "배틀 스킬 범위 증가",
+   "source": "tables"
+  },
+  {
+   "en": "Battle Skill Change Duration (s)",
+   "zh-TW": "替換戰技持續時間（秒）",
+   "ja": "戦技変化持続時間（秒）",
+   "ko": "배틀 스킬 교체 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Battle Skill DMG Boost",
+   "zh-TW": "戰技傷害提升",
+   "ja": "戦技ダメージUP",
+   "ko": "배틀 스킬 피해 증가",
+   "source": "tables"
+  },
+  {
+   "en": "Beacon of Duty",
+   "zh-TW": "燈火使命",
+   "ja": "灯火の使命",
+   "ko": "등불의 사명",
+   "source": "tables"
+  },
+  {
+   "en": "Beat Interval (s)",
+   "zh-TW": "歌聲間隔時間（秒）",
+   "ja": "歌唱間隔（秒）",
+   "ko": "노랫소리 간격(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Bedazzling Night Debut",
+   "zh-TW": "曜夜的首演",
+   "ja": "プリズムナイトデビュー",
+   "ko": "찬란한 밤의 데뷔",
+   "source": "tables"
+  },
+  {
+   "en": "Blade Gale",
+   "zh-TW": "冽風霜",
+   "ja": "凍風斬り",
+   "ko": "예풍상",
+   "source": "tables"
+  },
+  {
+   "en": "Blazing Exorcism",
+   "zh-TW": "驅火焚影",
+   "ja": "影祓う",
+   "ko": "사르는 불꽃",
+   "source": "tables"
+  },
+  {
+   "en": "Blessing of Lustrous Carmine",
+   "zh-TW": "鍍紅祝福",
+   "ja": "カーマインヴェール",
+   "ko": "붉게 물든 가호",
+   "source": "tables"
+  },
+  {
+   "en": "Bloodcap",
+   "zh-TW": "血菌",
+   "ja": "血潮茸",
+   "ko": "피버섯",
+   "source": "tables"
+  },
+  {
+   "en": "Bloodfount Revival",
+   "zh-TW": "血湧甦生",
+   "ja": "血の蘇生",
+   "ko": "혈류 소생",
+   "source": "tables"
+  },
+  {
+   "en": "Bolt Rush DMG Multiplier",
+   "zh-TW": "奔霆傷害倍率",
+   "ja": "奔雷ダメージ倍率",
+   "ko": "질주하는 천둥 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Bolt Rush Stagger",
+   "zh-TW": "奔霆失衡值",
+   "ja": "奔雷ブレイク値",
+   "ko": "질주하는 천둥 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Bomb: DMG Multiplier",
+   "zh-TW": "炸彈：傷害倍率",
+   "ja": "爆弾：ダメージ倍率",
+   "ko": "폭탄: 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Bomb: Stagger",
+   "zh-TW": "炸彈：失衡值",
+   "ja": "爆弾：ブレイク値",
+   "ko": "폭탄: 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Bombardment Sequence",
+   "zh-TW": "轟擊序列",
+   "ja": "攻撃配列",
+   "ko": "폭격 시퀀스",
+   "source": "tables"
+  },
+  {
+   "en": "Bonded with the World",
+   "zh-TW": "心兼人間",
+   "ja": "心で背負う",
+   "ko": "세상을 짊어진 마음",
+   "source": "tables"
+  },
+  {
+   "en": "Bonekrusha",
+   "zh-TW": "碾骨",
+   "ja": "骨砕",
+   "ko": "본 크러셔",
+   "source": "tables"
+  },
+  {
+   "en": "Bonus DMG Multiplier",
+   "zh-TW": "額外傷害倍率",
+   "ja": "追加ダメージ倍率",
+   "ko": "추가 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Bonus DMG Multiplier per Infliction Stack",
+   "zh-TW": "消耗每層附著額外傷害倍率",
+   "ja": "付着消費1段階ごとの追加ダメージ倍率",
+   "ko": "중첩된 부착 스택을 소모할 때마다 추가되는 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Bonus DMG Multiplier per Status Level of Electrification Consumed",
+   "zh-TW": "消耗每級導電額外傷害倍率",
+   "ja": "感電消費1段階ごとの追加ダメージ倍率",
+   "ko": "감전 상태를 소모할 때마다 추가되는 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Bonus Spec Training",
+   "zh-TW": "額外特訓",
+   "ja": "追加訓練",
+   "ko": "추가 특훈",
+   "source": "tables"
+  },
+  {
+   "en": "Bonus Susceptibility Duration (s)",
+   "zh-TW": "額外脆弱持續時間（秒）",
+   "ja": "追加脆弱持続時間（秒）",
+   "ko": "추가 취약 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Bonus Ultimate Energy per Thunder Strike",
+   "zh-TW": "每次雷擊額外終結技能量",
+   "ja": "雷撃1回ごとの必殺チャージ追加回復量",
+   "ko": "뇌격을 사용할 때마다 추가로 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Breaking the Obsession",
+   "zh-TW": "破執",
+   "ja": "破執",
+   "ko": "파집",
+   "source": "tables"
+  },
+  {
+   "en": "Breath of Transformation",
+   "zh-TW": "一息萬變",
+   "ja": "一息万変",
+   "ko": "변화의 숨결",
+   "source": "tables"
+  },
+  {
+   "en": "Brief Instant",
+   "zh-TW": "剎那",
+   "ja": "刹那",
+   "ko": "찰나",
+   "source": "tables"
+  },
+  {
+   "en": "Brigand's Calling",
+   "zh-TW": "落草",
+   "ja": "落草",
+   "ko": "반항",
+   "source": "tables"
+  },
+  {
+   "en": "Brr-Brr-Bomb β",
+   "zh-TW": "冰冰彈·β型",
+   "ja": "ひえひえビーム・β型",
+   "ko": "얼음 폭탄 · β형",
+   "source": "tables"
+  },
+  {
+   "en": "Brush Dab in Eye's White",
+   "zh-TW": "點睛之筆",
+   "ja": "点睛の一筆",
+   "ko": "마침내 눈동자를 찍으리라",
+   "source": "tables"
+  },
+  {
+   "en": "Brushwork Realm",
+   "zh-TW": "河山共影",
+   "ja": "山河を映して",
+   "ko": "강산을 한 폭에",
+   "source": "tables"
+  },
+  {
+   "en": "Buff Duration (s)",
+   "zh-TW": "增益效果的持續時間（秒）",
+   "ja": "ボーナス効果持続時間（秒）",
+   "ko": "버프 효과의 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Burst of Passion",
+   "zh-TW": "熱情迸發",
+   "ja": "ほとばしる情熱",
+   "ko": "열정 분출",
+   "source": "tables"
+  },
+  {
+   "en": "Cabal of Tranquility",
+   "zh-TW": "寂語修會",
+   "ja": "静語伝道会",
+   "ko": "고요한 수도회",
+   "source": "tables"
+  },
+  {
+   "en": "Cai Na",
+   "zh-TW": "蔡娜",
+   "ja": "蔡娜",
+   "ko": "Cai Na",
+   "source": "tables"
+  },
+  {
+   "en": "CAKE OR \"PREZZIE\"",
+   "zh-TW": "點心還是「禮物」",
+   "ja": "お菓子or“プレゼント”",
+   "ko": "디저트인가, 아니면 '선물'인가",
+   "source": "tables"
+  },
+  {
+   "en": "Call of Ice Mountain",
+   "zh-TW": "冰山呼告",
+   "ja": "氷山の呼び声",
+   "ko": "설산의 포효",
+   "source": "tables"
+  },
+  {
+   "en": "Calm and Tranquil",
+   "zh-TW": "沉心靜氣",
+   "ja": "無心",
+   "ko": "마음의 평온",
+   "source": "tables"
+  },
+  {
+   "en": "Camille",
+   "zh-TW": "卡繆",
+   "ja": "カミーユ",
+   "ko": "카뮤",
+   "source": "tables"
+  },
+  {
+   "en": "Cao Yawen",
+   "zh-TW": "曹雅雯",
+   "ja": "曹雅雯",
+   "ko": "Cao Yawen",
+   "source": "tables"
+  },
+  {
+   "en": "Cao Zhen",
+   "zh-TW": "曹真",
+   "ja": "曹真",
+   "ko": "Cao Zhen",
+   "source": "tables"
+  },
+  {
+   "en": "Caprinae",
+   "zh-TW": "卡普里尼",
+   "ja": "キャプリニー",
+   "ko": "카프리니",
+   "source": "tables"
+  },
+  {
+   "en": "Carrot and Sharp Stick",
+   "zh-TW": "恩威並施",
+   "ja": "人参とムチ",
+   "ko": "회유와 위압",
+   "source": "tables"
+  },
+  {
+   "en": "Caster",
+   "zh-TW": "術師",
+   "ja": "術師",
+   "ko": "캐스터",
+   "source": "tables"
+  },
+  {
+   "en": "Catastrophe",
+   "zh-TW": "天災防護",
+   "ja": "天災防護",
+   "ko": "재앙 방호",
+   "source": "tables"
+  },
+  {
+   "en": "Catcher",
+   "zh-TW": "卡契爾",
+   "ja": "キャッチャー",
+   "ko": "카치르",
+   "source": "tables"
+  },
+  {
+   "en": "Cautus",
+   "zh-TW": "卡特斯",
+   "ja": "コータス",
+   "ko": "카우투스",
+   "source": "tables"
+  },
+  {
+   "en": "Chae Rim",
+   "zh-TW": "彩琳",
+   "ja": "채림",
+   "ko": "채림",
+   "source": "tables"
+  },
+  {
+   "en": "Charge DMG Multiplier",
+   "zh-TW": "衝刺傷害倍率",
+   "ja": "突進ダメージ倍率",
+   "ko": "돌진 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Cheer of Victory",
+   "zh-TW": "勝利喝采",
+   "ja": "勝利の喝采",
+   "ko": "승리의 함성",
+   "source": "tables"
+  },
+  {
+   "en": "Chen Qianyu",
+   "zh-TW": "陳千語",
+   "ja": "チェン・センユー",
+   "ko": "진천우",
+   "source": "tables"
+  },
+  {
+   "en": "Chen Tingting",
+   "zh-TW": "陳婷婷",
+   "ja": "陈婷婷",
+   "ko": "Chen Tingting",
+   "source": "tables"
+  },
+  {
+   "en": "Chief's All-Eldritch Gaze",
+   "zh-TW": "魔眼效能",
+   "ja": "魔眼パワー",
+   "ko": "마안의 권능",
+   "source": "tables"
+  },
+  {
+   "en": "Chiefly Vibe",
+   "zh-TW": "當家氣魄",
+   "ja": "大親分の貫禄",
+   "ko": "대당가의 기백",
+   "source": "tables"
+  },
+  {
+   "en": "Child of the Storm",
+   "zh-TW": "風暴中的孩子",
+   "ja": "嵐の子",
+   "ko": "폭풍의 아이",
+   "source": "tables"
+  },
+  {
+   "en": "Chimeric Justice",
+   "zh-TW": "嵌合正義",
+   "ja": "正義嵌合",
+   "ko": "키메라의 정의",
+   "source": "tables"
+  },
+  {
+   "en": "Chivalric Virtues",
+   "zh-TW": "騎士精神",
+   "ja": "騎士精神",
+   "ko": "기사도 정신",
+   "source": "tables"
+  },
+  {
+   "en": "Chloe Eves",
+   "zh-TW": "Chloe Eves",
+   "ja": "Chloe Eves",
+   "ko": "Chloe Eves",
+   "source": "tables"
+  },
+  {
+   "en": "Choice Without Regrets",
+   "zh-TW": "無悔抉擇",
+   "ja": "悔いなき選択",
+   "ko": "후회 없는 선택",
+   "source": "tables"
+  },
+  {
+   "en": "CHOP 'N DUNK!",
+   "zh-TW": "切絲入鍋！",
+   "ja": "具材投入！",
+   "ko": "채 썰어 웍에 넣기!",
+   "source": "tables"
+  },
+  {
+   "en": "Christine Marie Cabanos",
+   "zh-TW": "Christine Marie Cabanos",
+   "ja": "Christine Marie Cabanos",
+   "ko": "Christine Marie Cabanos",
+   "source": "tables"
+  },
+  {
+   "en": "Clannibal",
+   "zh-TW": "同類相食",
+   "ja": "同類共食",
+   "ko": "클래니벌",
+   "source": "tables"
+  },
+  {
+   "en": "Clare Louise Connolly",
+   "zh-TW": "Clare Louise Connolly",
+   "ja": "Clare Louise Connolly",
+   "ko": "Clare Louise Connolly",
+   "source": "tables"
+  },
+  {
+   "en": "Cleansing Cleave DMG Multiplier",
+   "zh-TW": "澄鋒傷害倍率",
+   "ja": "鋭光ダメージ倍率",
+   "ko": "청명한 칼날 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Cloudtrapper DMG Multiplier",
+   "zh-TW": "斷雲傷害倍率",
+   "ja": "断雲ダメージ倍率",
+   "ko": "단운 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Cluster Strike Total DMG Multiplier",
+   "zh-TW": "集束打擊總傷害倍率",
+   "ja": "集中攻撃総ダメージ倍率",
+   "ko": "집중 공격 총피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Code of Restraint",
+   "zh-TW": "節制準則",
+   "ja": "節制規則",
+   "ko": "절제의 원칙",
+   "source": "tables"
+  },
+  {
+   "en": "Cohesive Traction",
+   "zh-TW": "向心之引",
+   "ja": "求心の槍",
+   "ko": "중심력",
+   "source": "tables"
+  },
+  {
+   "en": "Cold Disaster Specialist",
+   "zh-TW": "冰災應對專家",
+   "ja": "氷原災害専門家",
+   "ko": "한파 대응 전문가",
+   "source": "tables"
+  },
+  {
+   "en": "Cold Shelter",
+   "zh-TW": "失溫庇護所",
+   "ja": "低体温避難所",
+   "ko": "저체온 대피소",
+   "source": "tables"
+  },
+  {
+   "en": "Combo Duration (s)",
+   "zh-TW": "連擊持續時間（秒）",
+   "ja": "リンク持続時間（秒）",
+   "ko": "연타 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Combustion Duration (s)",
+   "zh-TW": "燃燒時長（秒）",
+   "ja": "燃焼時間（秒）",
+   "ko": "연소 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Commander of Originium",
+   "zh-TW": "源石統御",
+   "ja": "源石を統べる者",
+   "ko": "오리지늄의 지배자",
+   "source": "tables"
+  },
+  {
+   "en": "Commiseration",
+   "zh-TW": "同病相憐",
+   "ja": "類は友を呼ぶ",
+   "ko": "공감",
+   "source": "tables"
+  },
+  {
+   "en": "Committed Rehearsals",
+   "zh-TW": "幕後的決意",
+   "ja": "舞台裏の決意",
+   "ko": "무대 뒤의 결의",
+   "source": "tables"
+  },
+  {
+   "en": "Committed Team Player",
+   "zh-TW": "全力協作",
+   "ja": "全力サポート",
+   "ko": "혼신의 협력",
+   "source": "tables"
+  },
+  {
+   "en": "Compensated Suffering",
+   "zh-TW": "苦難代償",
+   "ja": "苦難の代償",
+   "ko": "고난의 대가",
+   "source": "tables"
+  },
+  {
+   "en": "Complete Warmup",
+   "zh-TW": "熱身完畢",
+   "ja": "肩慣らし",
+   "ko": "전투 태세",
+   "source": "tables"
+  },
+  {
+   "en": "Complexed Industry",
+   "zh-TW": "聚合工業",
+   "ja": "複合工業",
+   "ko": "응집 공업",
+   "source": "tables"
+  },
+  {
+   "en": "Comprehensive Mindset",
+   "zh-TW": "全局思維",
+   "ja": "俯瞰思考",
+   "ko": "전장을 꿰뚫는 통찰",
+   "source": "tables"
+  },
+  {
+   "en": "Conduit Inlet",
+   "zh-TW": "暗管入口",
+   "ja": "地下配管（入）",
+   "ko": "매립형 파이프 입구",
+   "source": "tables"
+  },
+  {
+   "en": "Conduit Outlet",
+   "zh-TW": "暗管出口",
+   "ja": "地下配管（出）",
+   "ko": "매립형 파이프 출구",
+   "source": "tables"
+  },
+  {
+   "en": "Constant Guidance",
+   "zh-TW": "長效導流",
+   "ja": "長期導流",
+   "ko": "계속되는 가르침",
+   "source": "tables"
+  },
+  {
+   "en": "Constructive Sequence",
+   "zh-TW": "構成序列",
+   "ja": "構成配列",
+   "ko": "구성 시퀀스",
+   "source": "tables"
+  },
+  {
+   "en": "Controlled Recursion",
+   "zh-TW": "可控遞歸",
+   "ja": "コントロール再帰",
+   "ko": "리커전 컨트롤",
+   "source": "tables"
+  },
+  {
+   "en": "Cool",
+   "zh-TW": "降溫",
+   "ja": "降温",
+   "ko": "Cool",
+   "source": "tables"
+  },
+  {
+   "en": "Cooldown",
+   "zh-TW": "冷卻",
+   "ja": "クールダウン",
+   "source": "tables, several ({'クールダウン': 1, 'クールタイム': 1}); Xaihi's basic attack is named Cooldown: one id gives クールダウン, one クールタイム; クールタイム is also the UI label for a cooldown time (冷卻時間), so the skill name takes the other form",
+   "ko": "쿨타임"
+  },
+  {
+   "en": "Corrode Duration (s)",
+   "zh-TW": "腐蝕持續時間（秒）",
+   "ja": "腐食持続時間（秒）",
+   "ko": "부식 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Cosmagaric",
+   "zh-TW": "星門菌",
+   "ja": "星門茸",
+   "ko": "스타게이트 버섯",
+   "source": "tables"
+  },
+  {
+   "en": "Cosmovoice Stance Duration (s)",
+   "zh-TW": "高歌姿態持續時間（秒）",
+   "ja": "パフォーマンスモード持続時間（秒）",
+   "ko": "보컬 모드 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Craver of Chaos",
+   "zh-TW": "享受混亂",
+   "ja": "楽しいよね？",
+   "ko": "혼돈의 쾌락",
+   "source": "tables"
+  },
+  {
+   "en": "Crimson Shadow",
+   "zh-TW": "血紅之影",
+   "ja": "真紅の影",
+   "ko": "붉은색의 그림자",
+   "source": "tables"
+  },
+  {
+   "en": "Crisis Handling",
+   "zh-TW": "危機處理",
+   "ja": "危機対策",
+   "ko": "위기 대책",
+   "source": "tables"
+  },
+  {
+   "en": "Critical DMG Boost",
+   "zh-TW": "暴擊傷害提升",
+   "ja": "会心ダメージUP",
+   "ko": "치명타 피해 증가",
+   "source": "tables"
+  },
+  {
+   "en": "Critical DMG Boost at Max Stacks",
+   "zh-TW": "滿層暴擊傷害增加",
+   "ja": "段階MAXの会心ダメージUP",
+   "ko": "최대 중첩 시 증가하는 치명타 피해",
+   "source": "tables"
+  },
+  {
+   "en": "Critical Rate",
+   "zh-TW": "暴擊率提升",
+   "ja": "会心率UP",
+   "ko": "치명타 확률 증가",
+   "source": "tables"
+  },
+  {
+   "en": "Critical Rate Boost per Stack",
+   "zh-TW": "每層暴擊率增加",
+   "ja": "1段階ごとの会心率UP",
+   "ko": "1스택마다 증가하는 치명타 확률",
+   "source": "tables"
+  },
+  {
+   "en": "Crush DMG Bonus",
+   "zh-TW": "猛擊傷害額外提升",
+   "ja": "猛撃ダメージ追加UP",
+   "ko": "추가로 증가하는 강타 피해",
+   "source": "tables"
+  },
+  {
+   "en": "Cryo",
+   "zh-TW": "寒冷",
+   "ja": "寒冷",
+   "ko": "냉기",
+   "source": "tables"
+  },
+  {
+   "en": "Cryoblasting Pistolier",
+   "zh-TW": "冷凍射手",
+   "ja": "アイスシューター",
+   "ko": "아이스 슈터",
+   "source": "tables"
+  },
+  {
+   "en": "Cryogenic Embrittlement",
+   "zh-TW": "失溫脆性",
+   "ja": "低温脆性",
+   "ko": "저온 취성",
+   "source": "tables"
+  },
+  {
+   "en": "Crystal Shattering DMG Multiplier",
+   "zh-TW": "擊碎結晶傷害倍率",
+   "ja": "結晶粉砕ダメージ倍率",
+   "ko": "결정 파괴 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Cycle Protocol",
+   "zh-TW": "循環協議",
+   "ja": "循環協約",
+   "ko": "순환 프로토콜",
+   "source": "tables"
+  },
+  {
+   "en": "D96 Steel Sample 4",
+   "zh-TW": "D96鋼樣品四",
+   "ja": "D96鋼試料Ⅳ",
+   "ko": "D96강 시제품 4번",
+   "source": "tables"
+  },
+  {
+   "en": "DA CHIEF SEES YOU!",
+   "zh-TW": "大當家盯著呢！",
+   "ja": "大親分が見てっぞ！",
+   "ko": "대당가께서 지켜보고 계신다!",
+   "source": "tables"
+  },
+  {
+   "en": "Da Pan",
+   "zh-TW": "大潘",
+   "ja": "ダパン",
+   "ko": "판",
+   "source": "tables"
+  },
+  {
+   "en": "Dance of Rime",
+   "zh-TW": "嚴霜之舞",
+   "ja": "氷霜の舞",
+   "ko": "혹한의 춤",
+   "source": "tables"
+  },
+  {
+   "en": "Dances with Clouds",
+   "zh-TW": "雲間舞踏",
+   "ja": "ふわふわダンス",
+   "ko": "구름 속 춤사위",
+   "source": "tables"
+  },
+  {
+   "en": "Darhoff 7",
+   "zh-TW": "達爾霍夫7",
+   "ja": "ダルホフ7",
+   "ko": "다호프 7",
+   "source": "tables"
+  },
+  {
+   "en": "Darkness Cowed",
+   "zh-TW": "鎮影",
+   "ja": "鎮影",
+   "ko": "그림자 제압",
+   "source": "tables"
+  },
+  {
+   "en": "Dawnstar Concerto",
+   "zh-TW": "晨星的協奏曲",
+   "ja": "綺羅星コンチェルト",
+   "ko": "샛별의 협주곡",
+   "source": "tables"
+  },
+  {
+   "en": "Dazzling Focus",
+   "zh-TW": "閃耀焦點",
+   "ja": "キラキラフォーカス",
+   "ko": "스포트라이트",
+   "source": "tables"
+  },
+  {
+   "en": "Decisive Assault DMG Multiplier",
+   "zh-TW": "決勝傷害倍率",
+   "ja": "勝決ダメージ倍率",
+   "ko": "최후의 승부 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Decisive Assault SP Recovery",
+   "zh-TW": "決勝回復技力",
+   "ja": "勝決のSP回復量",
+   "ko": "최후의 승부 스킬 게이지 회복",
+   "source": "tables"
+  },
+  {
+   "en": "Decisive Assault Stagger",
+   "zh-TW": "決勝失衡值",
+   "ja": "勝決ブレイク値",
+   "ko": "최후의 승부 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Deep Rampart",
+   "zh-TW": "險關",
+   "ja": "天険",
+   "ko": "관문",
+   "source": "tables"
+  },
+  {
+   "en": "Defender",
+   "zh-TW": "重裝",
+   "ja": "重装",
+   "ko": "디펜더",
+   "source": "tables"
+  },
+  {
+   "en": "Delayed Work",
+   "zh-TW": "延後工作",
+   "ja": "先送り主義",
+   "ko": "작업 연기",
+   "source": "tables"
+  },
+  {
+   "en": "Delightful Harmonics",
+   "zh-TW": "悅心音調",
+   "ja": "ときめきメロディー",
+   "ko": "기쁨의 멜로디",
+   "source": "tables"
+  },
+  {
+   "en": "Delivery Guaranteed",
+   "zh-TW": "使命必達",
+   "ja": "使命必達",
+   "ko": "사명의 길",
+   "source": "tables"
+  },
+  {
+   "en": "Depot Bus Port",
+   "zh-TW": "倉庫存取線源樁",
+   "ja": "倉庫連結ハブ基礎",
+   "ko": "창고 입출력 라인 핵심 장치",
+   "source": "tables"
+  },
+  {
+   "en": "Depot Bus Section",
+   "zh-TW": "倉庫存取線基段",
+   "ja": "倉庫連結ハブ部品",
+   "ko": "창고 입출력 라인 기초 장치",
+   "source": "tables"
+  },
+  {
+   "en": "Depot Loader",
+   "zh-TW": "倉庫存貨口",
+   "ja": "倉庫搬入口",
+   "ko": "창고 입력 포트",
+   "source": "tables"
+  },
+  {
+   "en": "Depot Unloader",
+   "zh-TW": "倉庫取貨口",
+   "ja": "倉庫搬出口",
+   "ko": "창고 출력 포트",
+   "source": "tables"
+  },
+  {
+   "en": "Dessert Moment",
+   "zh-TW": "點心時刻",
+   "ja": "スイーツタイム",
+   "ko": "간식 시간",
+   "source": "tables"
+  },
+  {
+   "en": "DESSERT! HAVE SOME!",
+   "zh-TW": "點心，嚐嚐！",
+   "ja": "お菓子、どうぞ～！",
+   "ko": "디저트, 먹어 봐!",
+   "source": "tables"
+  },
+  {
+   "en": "Destructive Sequence",
+   "zh-TW": "毀傷序列",
+   "ja": "破壊配列",
+   "ko": "훼손 시퀀스",
+   "source": "tables"
+  },
+  {
+   "en": "Detonation Unit",
+   "zh-TW": "爆破單元",
+   "ja": "破壊ユニット",
+   "ko": "폭발 유닛",
+   "source": "tables"
+  },
+  {
+   "en": "Distortion",
+   "zh-TW": "失真",
+   "ja": "ディストーション",
+   "ko": "디스토션",
+   "source": "tables"
+  },
+  {
+   "en": "Distributed DoS",
+   "zh-TW": "分散式阻斷服務",
+   "ja": "DDoS",
+   "ko": "디도스",
+   "source": "tables"
+  },
+  {
+   "en": "Dive ATK Multiplier",
+   "zh-TW": "下墜攻擊倍率",
+   "ja": "落下攻撃ダメージ倍率",
+   "ko": "낙하 공격 배율",
+   "source": "tables"
+  },
+  {
+   "en": "DMG Multiplier",
+   "zh-TW": "傷害倍率",
+   "ja": "ダメージ倍率",
+   "ko": "피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "DMG Multiplier (1 Waterspout)",
+   "zh-TW": "單個水龍捲傷害倍率",
+   "ja": "1つの水竜巻によるダメージ倍率",
+   "ko": "단일 용오름 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "DMG Multiplier Against Non-Solidified Enemies",
+   "zh-TW": "對非凍結敵人的傷害倍率",
+   "ja": "非凍結状態の敵へのダメージ倍率",
+   "ko": "동결 상태가 아닌 적에 대한 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "DMG Multiplier Against Solidified Enemies",
+   "zh-TW": "對凍結敵人的傷害倍率",
+   "ja": "凍結状態の敵へのダメージ倍率",
+   "ko": "동결 상태의 적에 대한 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "DMG Multiplier of Solidification Applied",
+   "zh-TW": "施加凍結傷害倍率",
+   "ja": "凍結発動のダメージ倍率",
+   "ko": "동결을 부여할 때 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "DMG Multiplier per Beat",
+   "zh-TW": "單次歌聲傷害倍率",
+   "ja": "歌唱1回あたりのダメージ倍率",
+   "ko": "노랫소리 1회 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "DMG Multiplier per SEQ",
+   "zh-TW": "每段傷害倍率",
+   "ja": "1段ごとのダメージ倍率",
+   "ko": "단계별 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "DMG Over Time Interval (s)",
+   "zh-TW": "持續傷害間隔（秒）",
+   "ja": "持続ダメージ間隔（秒）",
+   "ko": "지속 피해 간격(초)",
+   "source": "tables"
+  },
+  {
+   "en": "DMG Over Time Multiplier",
+   "zh-TW": "持續傷害倍率",
+   "ja": "持続ダメージ倍率",
+   "ko": "지속 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "DMG Over Time Multiplier per SEQ",
+   "zh-TW": "持續傷害每段倍率",
+   "ja": "持続ダメージ1段ごとの倍率",
+   "ko": "단계별 지속 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "DMG Over Time Total Multiplier",
+   "zh-TW": "持續傷害總倍率",
+   "ja": "持続ダメージ総倍率",
+   "ko": "지속 피해 총 배율",
+   "source": "tables"
+  },
+  {
+   "en": "DMG Record Ratio",
+   "zh-TW": "傷害記錄比例",
+   "ja": "ダメージ記録率",
+   "ko": "피해 기록 비율",
+   "source": "tables"
+  },
+  {
+   "en": "Dolly Paradise",
+   "zh-TW": "羊的樂園",
+   "ja": "羊の楽園",
+   "ko": "양들의 천국",
+   "source": "tables"
+  },
+  {
+   "en": "Dolly Rush",
+   "zh-TW": "奔騰的多利",
+   "ja": "ドリーラッシュ",
+   "ko": "질주하는 돌리",
+   "source": "tables"
+  },
+  {
+   "en": "Doubling Down",
+   "zh-TW": "籌碼加倍",
+   "ja": "ダブル・ダウン",
+   "ko": "더블 베팅",
+   "source": "tables"
+  },
+  {
+   "en": "Dreams of the Starry Beach",
+   "zh-TW": "滄溟星夢",
+   "ja": "蒼星の囁き",
+   "ko": "바다와 별의 꿈",
+   "source": "tables"
+  },
+  {
+   "en": "Dreamscape of Wind and Snow",
+   "zh-TW": "雪淞幽夢",
+   "ja": "雪氷の幽夢",
+   "ko": "눈꽃 속에 피어난 고요한 꿈",
+   "source": "notice 5208"
+  },
+  {
+   "en": "Dual-Wielding Swordmancer",
+   "zh-TW": "雙劍奇俠",
+   "ja": "双剣侠客",
+   "ko": "쌍검의 협객",
+   "source": "tables"
+  },
+  {
+   "en": "DuoDuopoi",
+   "zh-TW": "多多poi",
+   "ja": "多多poi",
+   "ko": "DuoDuopoi",
+   "source": "tables"
+  },
+  {
+   "en": "Duration (s)",
+   "zh-TW": "持續時間（秒）",
+   "ja": "持続時間（秒）",
+   "ko": "지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: Additional ATK Multiplier",
+   "zh-TW": "終結技期間追加攻擊倍率",
+   "ja": "必殺技期間中追加攻撃倍率",
+   "ko": "궁극기 사용 중 추가 공격 배율",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: Additional ATK Stagger",
+   "zh-TW": "終結技期間追加攻擊失衡值",
+   "ja": "必殺技期間中追加攻撃ブレイク値",
+   "ko": "궁극기 사용 중 추가 공격 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: BATK SEQ 1 Multiplier",
+   "zh-TW": "終結技期間普攻第一段倍率",
+   "ja": "必殺技期間中通常攻撃1段目倍率",
+   "ko": "궁극기 사용 중 일반 공격 제1단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: BATK SEQ 1 Multiplier",
+   "zh-TW": "終結技期間第一段倍率",
+   "ja": "必殺技期間中1段目倍率",
+   "ko": "궁극기 사용 중 제1단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: BATK SEQ 1 Stagger",
+   "zh-TW": "終結技期間第一段失衡值",
+   "ja": "必殺技期間中1段目ブレイク値",
+   "ko": "궁극기 사용 중 제1단계 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: BATK SEQ 2 Multiplier",
+   "zh-TW": "終結技期間普攻第二段倍率",
+   "ja": "必殺技期間中通常攻撃2段目倍率",
+   "ko": "궁극기 사용 중 일반 공격 제2단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: BATK SEQ 2 Multiplier",
+   "zh-TW": "終結技期間第二段倍率",
+   "ja": "必殺技期間中2段目倍率",
+   "ko": "궁극기 사용 중 제2단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: BATK SEQ 2 Stagger",
+   "zh-TW": "終結技期間第二段失衡值",
+   "ja": "必殺技期間中2段目ブレイク値",
+   "ko": "궁극기 사용 중 제2단계 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: BATK SEQ 3 Multiplier",
+   "zh-TW": "終結技期間普攻第三段倍率",
+   "ja": "必殺技期間中通常攻撃3段目倍率",
+   "ko": "궁극기 사용 중 일반 공격 제3단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: Bonus DMG Multiplier per Status Level of Electrification Consumed",
+   "zh-TW": "終結技期間消耗每級導電額外傷害倍率",
+   "ja": "必殺技期間中感電消費1段階ごとの追加ダメージ倍率",
+   "ko": "궁극기 사용 중 감전 상태를 소모할 때마다 추가되는 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: Combustion Duration (s)",
+   "zh-TW": "終結技期間燃燒時長（秒）",
+   "ja": "必殺技期間中の燃焼時間（秒）",
+   "ko": "궁극기 사용 중 연소 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: DMG Multiplier",
+   "zh-TW": "終結技期間傷害倍率",
+   "ja": "必殺技期間中のダメージ倍率",
+   "ko": "궁극기 사용 중 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "During Ultimate: Thunder Strike DMG Multiplier",
+   "zh-TW": "終結技期間雷擊傷害倍率",
+   "ja": "必殺技期間中の雷撃ダメージ倍率",
+   "ko": "궁극기 사용 중 뇌격 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Dust Resplendent",
+   "zh-TW": "曜塵",
+   "ja": "輝塵",
+   "ko": "광휘의 잔재",
+   "source": "tables"
+  },
+  {
+   "en": "Early Rogue Wave DMG Multiplier",
+   "zh-TW": "提前降下巨浪傷害倍率",
+   "ja": "大波早期発生のダメージ倍率",
+   "ko": "일찍 일으킨 거대한 파도의 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Early Rogue Wave Stagger",
+   "zh-TW": "提前降下巨浪失衡值",
+   "ja": "大波早期発生のブレイク値",
+   "ko": "일찍 일으킨 거대한 파도의 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Electric",
+   "zh-TW": "電磁",
+   "ja": "電磁",
+   "ko": "전기",
+   "source": "tables"
+  },
+  {
+   "en": "Electric Amp",
+   "zh-TW": "電磁增幅效果",
+   "ja": "電磁増幅効果",
+   "ko": "전기 증폭 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Electric Mining Rig",
+   "zh-TW": "電驅礦機",
+   "ja": "電動採鉱機",
+   "ko": "전동 채굴기",
+   "source": "tables"
+  },
+  {
+   "en": "Electric Mining Rig Mk II",
+   "zh-TW": "電驅礦機II",
+   "ja": "電動採鉱機Ⅱ",
+   "ko": "전동 채굴기 II",
+   "source": "tables"
+  },
+  {
+   "en": "Electric Pylon",
+   "zh-TW": "供電樁",
+   "ja": "送電スタンド",
+   "ko": "전력 공급기",
+   "source": "tables"
+  },
+  {
+   "en": "Electric Susceptibility",
+   "zh-TW": "電磁脆弱效果",
+   "ja": "電磁脆弱効果",
+   "ko": "전기 취약 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Electrified Spring",
+   "zh-TW": "浮光啟蟄",
+   "ja": "万物醒ます光",
+   "ko": "만물을 깨우는 빛",
+   "source": "tables"
+  },
+  {
+   "en": "Electrify Duration (s)",
+   "zh-TW": "導電時長（秒）",
+   "ja": "感電時間（秒）",
+   "ko": "감전 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Electrifying Extravaganza DMG Multiplier",
+   "zh-TW": "華彩爆點傷害倍率",
+   "ja": "クライマックス最高潮ダメージ倍率",
+   "ko": "클라이맥스 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Electrifying Extravaganza Stagger",
+   "zh-TW": "華彩爆點失衡值",
+   "ja": "クライマックス最高潮ブレイク値",
+   "ko": "클라이맥스 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Elsie Lovelock",
+   "zh-TW": "Elsie Lovelock",
+   "ja": "Elsie Lovelock",
+   "ko": "Elsie Lovelock",
+   "source": "tables"
+  },
+  {
+   "en": "Ember",
+   "zh-TW": "餘燼",
+   "ja": "エンバー",
+   "ko": "엠버",
+   "source": "tables"
+  },
+  {
+   "en": "Eminent Repute",
+   "zh-TW": "顯赫聲名",
+   "ja": "輝かしき名声",
+   "ko": "위대한 이름",
+   "source": "tables"
+  },
+  {
+   "en": "EMP Test Site",
+   "zh-TW": "磁暴實驗場",
+   "ja": "磁気嵐実験場",
+   "ko": "자기 폭풍 실험장",
+   "source": "tables"
+  },
+  {
+   "en": "Empowered Hail of Arrows DMG",
+   "zh-TW": "強化箭雨傷害",
+   "ja": "強化矢の雨ダメージ",
+   "ko": "강화된 화살비 피해",
+   "source": "tables"
+  },
+  {
+   "en": "Endfield Industries",
+   "zh-TW": "終末地工業",
+   "ja": "エンドフィールド工業",
+   "ko": "엔드필드 공업",
+   "source": "tables"
+  },
+  {
+   "en": "Endministrator",
+   "zh-TW": "管理員",
+   "ja": "管理人",
+   "ko": "관리자",
+   "source": "tables"
+  },
+  {
+   "en": "Energy DMG Multiplier",
+   "zh-TW": "能量傷害倍率",
+   "ja": "エネルギー放出ダメージ倍率",
+   "ko": "에너지 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Enhanced BATK SEQ 1 Multiplier",
+   "zh-TW": "強化普攻第一段倍率",
+   "ja": "強化通常攻撃1段目ダメージ倍率",
+   "ko": "강화 일반 공격 제1단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Enhanced BATK SEQ 2 Multiplier",
+   "zh-TW": "強化普攻第二段倍率",
+   "ja": "強化通常攻撃2段目ダメージ倍率",
+   "ko": "강화 일반 공격 제2단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Enhanced BATK SEQ 3 Multiplier",
+   "zh-TW": "強化普攻第三段倍率",
+   "ja": "強化通常攻撃3段目ダメージ倍率",
+   "ko": "강화 일반 공격 제3단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Enhanced BATK SEQ 4 Multiplier",
+   "zh-TW": "強化普攻第四段倍率",
+   "ja": "強化通常攻撃4段目ダメージ倍率",
+   "ko": "강화 일반 공격 제4단계 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Enhanced DMG Multiplier",
+   "zh-TW": "強化傷害倍率",
+   "ja": "強化ダメージ倍率",
+   "ko": "강화 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Enhanced Final Strike DMG Multiplier",
+   "zh-TW": "強力攻擊傷害倍率",
+   "ja": "強攻撃ダメージ倍率",
+   "ko": "강력 공격 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Enhanced Final Strike Stagger",
+   "zh-TW": "強力攻擊失衡值",
+   "ja": "強攻撃ブレイク値",
+   "ko": "강력한 공격 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Enhanced SEQ 3 DMG Multiplier",
+   "zh-TW": "強化第三段傷害倍率",
+   "ja": "強化3段目ダメージ倍率",
+   "ko": "제3단계 피해 배율 강화",
+   "source": "tables"
+  },
+  {
+   "en": "Enhanced SEQ 3 SP Recovery",
+   "zh-TW": "強化第三段技力回復",
+   "ja": "強化3段目のSP回復量",
+   "ko": "제3단계 스킬 게이지 회복 강화",
+   "source": "tables"
+  },
+  {
+   "en": "Enhanced SEQ 3 Stagger",
+   "zh-TW": "強化第三段失衡值",
+   "ja": "強化3段目ブレイク値",
+   "ko": "제3단계 불균형치 강화",
+   "source": "tables"
+  },
+  {
+   "en": "Eruption Column",
+   "zh-TW": "火山蘑菇雲",
+   "ja": "イラプション・コラム",
+   "ko": "화산 분화",
+   "source": "tables"
+  },
+  {
+   "en": "Esoteric Legacy of Seš'qa",
+   "zh-TW": "塞什卡的秘傳",
+   "ja": "セシュカの秘伝",
+   "ko": "세쉬카의 비전",
+   "source": "tables"
+  },
+  {
+   "en": "Essence Disintegration",
+   "zh-TW": "本質瓦解",
+   "ja": "根源瓦解",
+   "ko": "본질 붕괴",
+   "source": "tables"
+  },
+  {
+   "en": "Estella",
+   "zh-TW": "埃特拉",
+   "ja": "エステーラ",
+   "ko": "에스텔라",
+   "source": "tables"
+  },
+  {
+   "en": "Eternal Xiranite",
+   "zh-TW": "長息",
+   "ja": "流転",
+   "ko": "식양의 숨결",
+   "source": "tables"
+  },
+  {
+   "en": "Eunseo Yoon",
+   "zh-TW": "尹垠舒",
+   "ja": "윤은서",
+   "ko": "윤은서",
+   "source": "tables"
+  },
+  {
+   "en": "Exchange Current",
+   "zh-TW": "交換電流",
+   "ja": "交換電流",
+   "ko": "교환 전류",
+   "source": "tables"
+  },
+  {
+   "en": "Execute Process",
+   "zh-TW": "執行程序",
+   "ja": "エグゼキュートプロセス",
+   "ko": "가동 프로세스",
+   "source": "tables"
+  },
+  {
+   "en": "Exemplar",
+   "zh-TW": "典範",
+   "ja": "鑑",
+   "ko": "모범",
+   "source": "tables"
+  },
+  {
+   "en": "Expanded Crucible",
+   "zh-TW": "擴容反應池",
+   "ja": "大型化学反応炉",
+   "ko": "확장 반응기",
+   "source": "tables"
+  },
+  {
+   "en": "Expedited Delivery",
+   "zh-TW": "高效運送",
+   "ja": "配達の効率化",
+   "ko": "고효율 배송",
+   "source": "tables"
+  },
+  {
+   "en": "Expert Mechcrafter",
+   "zh-TW": "機巧專家",
+   "ja": "メカエキスパート",
+   "ko": "기교 전문가",
+   "source": "tables"
+  },
+  {
+   "en": "Exploding Blitz",
+   "zh-TW": "轟雷掣電",
+   "ja": "轟雷裂電",
+   "ko": "천둥번개",
+   "source": "tables"
+  },
+  {
+   "en": "Explosion DMG Multiplier",
+   "zh-TW": "爆炸傷害倍率",
+   "ja": "爆発ダメージ倍率",
+   "ko": "폭발 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Explosion DMG Multiplier",
+   "zh-TW": "爆裂傷害倍率",
+   "ja": "爆発ダメージ倍率",
+   "ko": "폭발 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Explosion Stagger",
+   "zh-TW": "爆炸失衡值",
+   "ja": "爆発ブレイク値",
+   "ko": "폭발 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Explosive Eruption",
+   "zh-TW": "爆炸式噴發",
+   "ja": "もこもこ噴火",
+   "ko": "격렬한 분출",
+   "source": "tables"
+  },
+  {
+   "en": "Expunger of Sin",
+   "zh-TW": "逐罪者",
+   "ja": "咎の番人",
+   "ko": "죄를 쫓는 자",
+   "source": "tables"
+  },
+  {
+   "en": "Exuberant Trigger",
+   "zh-TW": "雀躍扳機",
+   "ja": "超絶トリガー",
+   "ko": "점프 트리거",
+   "source": "tables"
+  },
+  {
+   "en": "Fairouz Ai",
+   "zh-TW": "菲魯茲·藍",
+   "ja": "ファイルーズあい",
+   "ko": "파이루즈 아이",
+   "source": "tables"
+  },
+  {
+   "en": "Fam of Honor",
+   "zh-TW": "肝膽相照",
+   "ja": "肝胆相照らす",
+   "ko": "의기투합",
+   "source": "tables"
+  },
+  {
+   "en": "Farsight",
+   "zh-TW": "遙望",
+   "ja": "ファーサイト",
+   "ko": "조망",
+   "source": "tables"
+  },
+  {
+   "en": "Fatal Shot",
+   "zh-TW": "應弦而倒",
+   "ja": "弦音ひとつ",
+   "ko": "일사필살",
+   "source": "tables"
+  },
+  {
+   "en": "Feline",
+   "zh-TW": "菲林",
+   "ja": "フェリーン",
+   "ko": "필라인",
+   "source": "tables"
+  },
+  {
+   "en": "Fest of Brilliance",
+   "zh-TW": "輝光慶典",
+   "ja": "輝きの祝典",
+   "ko": "찬란한 빛의 축제",
+   "source": "tables"
+  },
+  {
+   "en": "Field Duration (s)",
+   "zh-TW": "力場持續時間（秒）",
+   "ja": "力場持続時間（秒）",
+   "ko": "중력장 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Filling Unit",
+   "zh-TW": "灌裝機",
+   "ja": "充填機",
+   "ko": "충진기",
+   "source": "tables"
+  },
+  {
+   "en": "Final Awakening",
+   "zh-TW": "最後的甦醒",
+   "ja": "最後の目覚め",
+   "ko": "마지막 각성",
+   "source": "tables"
+  },
+  {
+   "en": "Final Strike DMG Multiplier",
+   "zh-TW": "終結一擊傷害倍率",
+   "ja": "必殺一撃ダメージ倍率",
+   "ko": "마지막 공격 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Final Strike Stagger",
+   "zh-TW": "終結一擊失衡值",
+   "ja": "必殺一撃ブレイク値",
+   "ko": "마지막 공격 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Finchaser 3.0",
+   "zh-TW": "逐鱗3.0",
+   "ja": "フィンチェイサー3.0",
+   "ko": "린수를 찾아서 3.0",
+   "source": "tables"
+  },
+  {
+   "en": "Fine Cooking",
+   "zh-TW": "精烹細作",
+   "ja": "繊細調理",
+   "ko": "정교한 요리",
+   "source": "tables"
+  },
+  {
+   "en": "Finisher ATK Multiplier",
+   "zh-TW": "處決攻擊倍率",
+   "ja": "終撃ダメージ倍率",
+   "ko": "처형 공격 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Finishing Call",
+   "zh-TW": "終點之聲",
+   "ja": "最期の声",
+   "ko": "최후의 메아리",
+   "source": "tables"
+  },
+  {
+   "en": "Fire it Up",
+   "zh-TW": "猛火收汁",
+   "ja": "最大火力",
+   "ko": "센불로 소스 졸이기",
+   "source": "tables"
+  },
+  {
+   "en": "Firearm Mods",
+   "zh-TW": "銃械改造",
+   "ja": "銃器改造",
+   "ko": "총기 개조",
+   "source": "tables"
+  },
+  {
+   "en": "Firefang Vesperwings Duration (s)",
+   "zh-TW": "銜火血翼持續時間（秒）",
+   "ja": "燃える血の翼持続時間（秒）",
+   "ko": "타오르는 핏빛 날개 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "First ATK Multiplier",
+   "zh-TW": "初次傷害倍率",
+   "ja": "初回ダメージ倍率",
+   "ko": "초회 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "First Strike Stagger",
+   "zh-TW": "第一擊失衡值",
+   "ja": "1撃目ブレイク値",
+   "ko": "첫 번째 공격 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Fistmancer of Blades",
+   "zh-TW": "劍行拳意",
+   "ja": "剣に拳の意あり",
+   "ko": "검권 합일",
+   "source": "tables"
+  },
+  {
+   "en": "Fists of No Regrets",
+   "zh-TW": "拳出無悔",
+   "ja": "拳に悔い無し",
+   "ko": "후회 없는 주먹",
+   "source": "tables"
+  },
+  {
+   "en": "Fitting Unit",
+   "zh-TW": "配件機",
+   "ja": "組立機",
+   "ko": "부품 가공기",
+   "source": "tables"
+  },
+  {
+   "en": "Flame-Anointed Lance",
+   "zh-TW": "烈火洗槍",
+   "ja": "烈火炎槍",
+   "ko": "겁화의 세례",
+   "source": "tables"
+  },
+  {
+   "en": "Flaming Cinders",
+   "zh-TW": "燃燼",
+   "ja": "残り火",
+   "ko": "재",
+   "source": "tables"
+  },
+  {
+   "en": "Flash and Dash",
+   "zh-TW": "快閃衝擊",
+   "ja": "突撃一閃",
+   "ko": "섬광 돌진",
+   "source": "tables"
+  },
+  {
+   "en": "Flash Freezer",
+   "zh-TW": "速凍幫手",
+   "ja": "速凍の助手",
+   "ko": "급속 냉동 도우미",
+   "source": "tables"
+  },
+  {
+   "en": "Flash-frozen for Freshness",
+   "zh-TW": "閃凍鎖鮮",
+   "ja": "急速冷凍",
+   "ko": "급속 냉동 보존 기술",
+   "source": "tables"
+  },
+  {
+   "en": "Flashfreezer υ37",
+   "zh-TW": "速凍仔·υ37",
+   "ja": "アイスちゃん・υ37",
+   "ko": "꽁꽁이 · υ37",
+   "source": "tables"
+  },
+  {
+   "en": "Flawless Creation",
+   "zh-TW": "完美造物",
+   "ja": "完璧な作品",
+   "ko": "완벽한 창조물",
+   "source": "tables"
+  },
+  {
+   "en": "Flawless Stage Work",
+   "zh-TW": "台前的無瑕",
+   "ja": "100点のステージ",
+   "ko": "완벽한 무대",
+   "source": "tables"
+  },
+  {
+   "en": "Flickers in the Mist",
+   "zh-TW": "霧中微光",
+   "ja": "朧光",
+   "ko": "안개 속 불빛",
+   "source": "tables"
+  },
+  {
+   "en": "FLIP DA WOK!",
+   "zh-TW": "翻鍋！",
+   "ja": "鍋振り！",
+   "ko": "뒤집어 주지!",
+   "source": "tables"
+  },
+  {
+   "en": "Fluid Pump",
+   "zh-TW": "水泵",
+   "ja": "液体ポンプ",
+   "ko": "양수기",
+   "source": "tables"
+  },
+  {
+   "en": "Fluid Supply Unit",
+   "zh-TW": "液體供給器",
+   "ja": "排水機",
+   "ko": "액체 배출 장치",
+   "source": "tables"
+  },
+  {
+   "en": "Fluid Tank",
+   "zh-TW": "儲液罐",
+   "ja": "液体貯蔵タンク",
+   "ko": "액체 저장 탱크",
+   "source": "tables"
+  },
+  {
+   "en": "Fluid-Gas Transmuting Unit",
+   "zh-TW": "液氣轉化機",
+   "ja": "ガス液体転換機",
+   "ko": "액체 · 기체 전환기",
+   "source": "tables"
+  },
+  {
+   "en": "Fluorescent Roc",
+   "zh-TW": "螢光雷羽",
+   "ja": "蛍光雷羽",
+   "ko": "섬광 번개",
+   "source": "tables"
+  },
+  {
+   "en": "Fluorite",
+   "zh-TW": "螢石",
+   "ja": "フローライト",
+   "ko": "플루라이트",
+   "source": "tables"
+  },
+  {
+   "en": "Force of Nature",
+   "zh-TW": "天地造化",
+   "ja": "天地造化",
+   "ko": "천지의 조화",
+   "source": "tables"
+  },
+  {
+   "en": "Forced Corrosion Duration (s)",
+   "zh-TW": "強制腐蝕持續時間（秒）",
+   "ja": "強制腐食持続時間（秒）",
+   "ko": "강제 부식 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Forge of the Sky",
+   "zh-TW": "天有洪爐",
+   "ja": "天有洪炉",
+   "ko": "천화로",
+   "source": "tables"
+  },
+  {
+   "en": "Forgeborn Scathe",
+   "zh-TW": "熔鑄火焰",
+   "ja": "フレイムフォージ",
+   "ko": "용조의 불꽃",
+   "source": "tables"
+  },
+  {
+   "en": "Former Finery",
+   "zh-TW": "昔日精品",
+   "ja": "昔日の逸品",
+   "ko": "과거의 일품",
+   "source": "tables"
+  },
+  {
+   "en": "Fortmaker",
+   "zh-TW": "堅城鑄造者",
+   "ja": "堅城鋳造者",
+   "ko": "불사의 성주",
+   "source": "tables"
+  },
+  {
+   "en": "Forward March",
+   "zh-TW": "進軍",
+   "ja": "出征",
+   "ko": "진군",
+   "source": "tables"
+  },
+  {
+   "en": "Four Symbols of Harmony",
+   "zh-TW": "和合四象",
+   "ja": "四象和合",
+   "ko": "화합",
+   "source": "tables"
+  },
+  {
+   "en": "Frag Grenade·β",
+   "zh-TW": "爆裂手榴彈·β型",
+   "ja": "フラググレネード・β",
+   "ko": "폭렬 수류탄 · β형",
+   "source": "tables"
+  },
+  {
+   "en": "Fragments from the Past",
+   "zh-TW": "往事碎片",
+   "ja": "在りし日の欠片",
+   "ko": "추억의 조각",
+   "source": "tables"
+  },
+  {
+   "en": "Free Giveaway",
+   "zh-TW": "免費贈禮",
+   "ja": "特別サービス",
+   "ko": "특별 보너스",
+   "source": "tables"
+  },
+  {
+   "en": "Freedom to Proselytize",
+   "zh-TW": "佈道自由",
+   "ja": "布教の自由",
+   "ko": "선교의 자유",
+   "source": "tables"
+  },
+  {
+   "en": "Freeze Protocol",
+   "zh-TW": "協議凍結",
+   "ja": "フリーズプロトコル",
+   "ko": "프리징 프로토콜",
+   "source": "tables"
+  },
+  {
+   "en": "Freezing Point",
+   "zh-TW": "冰點",
+   "ja": "氷点",
+   "ko": "빙점",
+   "source": "tables"
+  },
+  {
+   "en": "Friendly Presence",
+   "zh-TW": "朋友的身影",
+   "ja": "友の面影",
+   "ko": "친구의 그림자",
+   "source": "tables"
+  },
+  {
+   "en": "Frigid Snowfield",
+   "zh-TW": "凜冽寒霜",
+   "ja": "凍てつく寒霜",
+   "ko": "살얼음 추위",
+   "source": "tables"
+  },
+  {
+   "en": "Frontiers",
+   "zh-TW": "拓荒",
+   "ja": "パイオニア",
+   "ko": "개척",
+   "source": "tables"
+  },
+  {
+   "en": "Frontline Support",
+   "zh-TW": "前線援護",
+   "ja": "前線支援",
+   "ko": "전선에서의 지원",
+   "source": "tables"
+  },
+  {
+   "en": "Frontline Sweep",
+   "zh-TW": "陣線掃蕩",
+   "ja": "前線制圧",
+   "ko": "전선 소탕",
+   "source": "tables"
+  },
+  {
+   "en": "Fujiwara Natsumi",
+   "zh-TW": "藤原夏海",
+   "ja": "藤原夏海",
+   "ko": "후지와라 나츠미",
+   "source": "tables"
+  },
+  {
+   "en": "Full Moon Slash",
+   "zh-TW": "盈月邀擊",
+   "ja": "満月迎撃",
+   "ko": "보름달 참격",
+   "source": "tables"
+  },
+  {
+   "en": "Fully Envisioned",
+   "zh-TW": "成竹在胸",
+   "ja": "胸中に成竹在り",
+   "ko": "먹빛은 이미 정해졌으니",
+   "source": "tables"
+  },
+  {
+   "en": "Game Rewards",
+   "zh-TW": "遊戲獎勵",
+   "ja": "ゲームのご褒美",
+   "ko": "게임 보상",
+   "source": "tables"
+  },
+  {
+   "en": "Gap to Perfection",
+   "zh-TW": "理想的距離",
+   "ja": "理想との距離",
+   "ko": "완벽한 간격",
+   "source": "tables"
+  },
+  {
+   "en": "Gas Dispersing Unit",
+   "zh-TW": "氣體散布機",
+   "ja": "ガス散布機",
+   "ko": "기체 분산기",
+   "source": "tables"
+  },
+  {
+   "en": "Gas Extractor",
+   "zh-TW": "氣體收集泵",
+   "ja": "ガス収集ポンプ",
+   "ko": "기체 수집기",
+   "source": "tables"
+  },
+  {
+   "en": "Gas Reactor Globe",
+   "zh-TW": "氣體反應爐",
+   "ja": "ガス反応装置",
+   "ko": "기체 반응로",
+   "source": "tables"
+  },
+  {
+   "en": "Gas Tank",
+   "zh-TW": "儲氣罐",
+   "ja": "ガス貯蔵タンク",
+   "ko": "저장용 가스통",
+   "source": "tables"
+  },
+  {
+   "en": "Gearing Unit",
+   "zh-TW": "裝備原件機",
+   "ja": "装備部品加工機",
+   "ko": "장비 부품 합성기",
+   "source": "tables"
+  },
+  {
+   "en": "Giada Sabellico",
+   "zh-TW": "Giada Sabellico",
+   "ja": "Giada Sabellico",
+   "ko": "Giada Sabellico",
+   "source": "tables"
+  },
+  {
+   "en": "Gilberta",
+   "zh-TW": "潔爾佩塔",
+   "ja": "ギルベルタ",
+   "ko": "질베르타",
+   "source": "tables"
+  },
+  {
+   "en": "Gloompurge",
+   "zh-TW": "破晦",
+   "ja": "破晦",
+   "ko": "어스름 파훼",
+   "source": "tables"
+  },
+  {
+   "en": "Gloompurge Arcana DMG Multiplier",
+   "zh-TW": "破晦訣明傷害倍率",
+   "ja": "破晦訣明ダメージ倍率",
+   "ko": "어스름 파훼의 깨달음 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Gloompurge Arcana Stagger",
+   "zh-TW": "破晦訣明失衡值",
+   "ja": "破晦訣明ブレイク値",
+   "ko": "어스름 파훼의 깨달음 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Gloompurger Array Creation DMG Multiplier",
+   "zh-TW": "生成破晦陣傷害倍率",
+   "ja": "破晦陣生成ダメージ倍率",
+   "ko": "생성한 어스름 파훼의 진 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Gloompurger Array Creation Stagger",
+   "zh-TW": "生成破晦陣失衡值",
+   "ja": "破晦陣生成ブレイク値",
+   "ko": "생성한 어스름 파훼의 진 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Gloompurger Array Duration (s)",
+   "zh-TW": "破晦陣持續時間（秒）",
+   "ja": "破晦陣持続時間（秒）",
+   "ko": "어스름 파훼의 진 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Glorious Memory",
+   "zh-TW": "光榮記憶",
+   "ja": "栄光の記憶",
+   "ko": "찬란했던 기억",
+   "source": "tables"
+  },
+  {
+   "en": "Golden Age",
+   "zh-TW": "黃金時代",
+   "ja": "黄金時代",
+   "ko": "전성기",
+   "source": "tables"
+  },
+  {
+   "en": "Good Morning from Your Dawnstar",
+   "zh-TW": "晨星於此閃耀",
+   "ja": "キラキラ綺羅星",
+   "ko": "빛나는 새벽의 별",
+   "source": "tables"
+  },
+  {
+   "en": "Grand Vision",
+   "zh-TW": "宏願",
+   "ja": "大願",
+   "ko": "장대한 염원",
+   "source": "tables"
+  },
+  {
+   "en": "Granny's Reminder",
+   "zh-TW": "奶奶的叮囑",
+   "ja": "祖母の教え",
+   "ko": "할머니의 말씀",
+   "source": "tables"
+  },
+  {
+   "en": "Gravity Pull DMG Multiplier",
+   "zh-TW": "牽引傷害倍率",
+   "ja": "引力ダメージ倍率",
+   "ko": "끌어당기기 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Grayscale Release",
+   "zh-TW": "灰度發布",
+   "ja": "グレーリリース",
+   "ko": "그레이스케일 릴리스",
+   "source": "tables"
+  },
+  {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "ja": "大剣",
+   "ko": "양손검",
+   "source": "tables"
+  },
+  {
+   "en": "Grinding Unit",
+   "zh-TW": "研磨機",
+   "ja": "研磨機",
+   "ko": "연마기",
+   "source": "tables"
+  },
+  {
+   "en": "Grizzled Edge",
+   "zh-TW": "舊鋒",
+   "ja": "旧鋒",
+   "ko": "고검의 잔향",
+   "source": "tables"
+  },
+  {
+   "en": "Ground Pierce DMG Multiplier",
+   "zh-TW": "墜地傷害倍率",
+   "ja": "突き刺しダメージ倍率",
+   "ko": "착지 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Guard",
+   "zh-TW": "近衛",
+   "ja": "前衛",
+   "ko": "가드",
+   "source": "tables"
+  },
+  {
+   "en": "Guo Hongbo",
+   "zh-TW": "郭鴻博",
+   "ja": "郭鸿博",
+   "ko": "Guo Hongbo",
+   "source": "tables"
+  },
+  {
+   "en": "Habitual Delay",
+   "zh-TW": "習慣性延誤",
+   "ja": "先延ばし常習犯",
+   "ko": "습관성 지각",
+   "source": "tables"
+  },
+  {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "ja": "拳銃",
+   "ko": "권총",
+   "source": "tables"
+  },
+  {
+   "en": "Handicraft: DMG Multiplier",
+   "zh-TW": "手工作業：傷害倍率",
+   "ja": "手作りアイテム：ダメージ倍率",
+   "ko": "제작 과제: 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Hanna Johansson",
+   "zh-TW": "Hanna Johansson",
+   "ja": "Hanna Johansson",
+   "ko": "Hanna Johansson",
+   "source": "tables"
+  },
+  {
+   "en": "Hannabit Circuit",
+   "zh-TW": "眾生長地",
+   "ja": "衆生長地",
+   "ko": "만물의 대지",
+   "source": "tables"
+  },
+  {
+   "en": "Hannabit Wisdom",
+   "zh-TW": "眾生智慧",
+   "ja": "衆生智慧",
+   "ko": "만물의 지혜",
+   "source": "tables"
+  },
+  {
+   "en": "Harass DMG Multiplier",
+   "zh-TW": "襲擾傷害倍率",
+   "ja": "撹乱ダメージ倍率",
+   "ko": "교란 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Harass SP Recovery",
+   "zh-TW": "襲擾回復技力",
+   "ja": "撹乱のSP回復量",
+   "ko": "교란 스킬 게이지 회복",
+   "source": "tables"
+  },
+  {
+   "en": "Hard Negotiator",
+   "zh-TW": "絕不讓步",
+   "ja": "一歩も譲らない",
+   "ko": "끝없는 저항",
+   "source": "tables"
+  },
+  {
+   "en": "Harmonized Flavors",
+   "zh-TW": "五味調和",
+   "ja": "五味調和",
+   "ko": "맛의 조화",
+   "source": "tables"
+  },
+  {
+   "en": "HAS",
+   "zh-TW": "宏山科學院",
+   "ja": "宏山科学院",
+   "ko": "홍산 과학원",
+   "source": "tables, by the Traditional Chinese text (English abbreviation)"
+  },
+  {
+   "en": "Hayami Show",
+   "zh-TW": "速水獎",
+   "ja": "速水奨",
+   "ko": "하야미 쇼",
+   "source": "tables"
+  },
+  {
+   "en": "Headbutt DMG Multiplier",
+   "zh-TW": "頭槌撞擊傷害倍率",
+   "ja": "頭突きダメージ倍率",
+   "ko": "머리 박치기 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Headbutt Stagger",
+   "zh-TW": "頭槌撞擊失衡值",
+   "ja": "頭突きブレイク値",
+   "ko": "머리 박치기 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Heart of Ice Cold Ferrium",
+   "zh-TW": "心如寒鐵",
+   "ja": "鉄の心",
+   "ko": "한결 같은 마음",
+   "source": "tables"
+  },
+  {
+   "en": "Heart of Melting Flame",
+   "zh-TW": "熔火之心",
+   "ja": "劫火の心",
+   "ko": "녹아내린 마음",
+   "source": "tables"
+  },
+  {
+   "en": "Heart of the Unmoving",
+   "zh-TW": "不動心",
+   "ja": "不動心",
+   "ko": "움직이지 않는 마음",
+   "source": "tables"
+  },
+  {
+   "en": "Heart-Whipping Q&A",
+   "zh-TW": "笞心的問答",
+   "ja": "ジャールの問いかけ",
+   "ko": "마음을 채찍질하는 질문",
+   "source": "tables"
+  },
+  {
+   "en": "Heartstake Thorn",
+   "zh-TW": "錐心之棘",
+   "ja": "心抉る棘",
+   "ko": "영혼의 가시",
+   "source": "tables"
+  },
+  {
+   "en": "Heat",
+   "zh-TW": "灼熱",
+   "ja": "灼熱",
+   "ko": "열기",
+   "source": "tables"
+  },
+  {
+   "en": "Heat Amp",
+   "zh-TW": "灼熱增幅效果",
+   "ja": "灼熱増幅効果",
+   "ko": "열기 증폭 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Heat Susceptibility",
+   "zh-TW": "灼熱脆弱效果",
+   "ja": "灼熱脆弱効果",
+   "ko": "열기 취약 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Heavens Sundered",
+   "zh-TW": "裂天",
+   "ja": "破天",
+   "ko": "천공 가르기",
+   "source": "tables"
+  },
+  {
+   "en": "Heirloom Martial Arts",
+   "zh-TW": "家傳武學",
+   "ja": "伝家の武術",
+   "ko": "가문의 무술",
+   "source": "tables"
+  },
+  {
+   "en": "Heitor Assali",
+   "zh-TW": "Heitor Assali",
+   "ja": "Heitor Assali",
+   "ko": "Heitor Assali",
+   "source": "tables"
+  },
+  {
+   "en": "Hidaka Rina",
+   "zh-TW": "日高里菜",
+   "ja": "日高里菜",
+   "ko": "히다카 리나",
+   "source": "tables"
+  },
+  {
+   "en": "High Specs Tech Tester",
+   "zh-TW": "高規格技術測試",
+   "ja": "高規格技術テスト",
+   "ko": "고사양 기술 테스트",
+   "source": "tables"
+  },
+  {
+   "en": "Home Longing",
+   "zh-TW": "望鄉",
+   "ja": "望郷",
+   "ko": "향수",
+   "source": "tables"
+  },
+  {
+   "en": "Homecoming",
+   "zh-TW": "向淵行",
+   "ja": "向淵行",
+   "ko": "심연으로",
+   "source": "notice 5200"
+  },
+  {
+   "en": "Homeward Glance",
+   "zh-TW": "回眸",
+   "ja": "回顧",
+   "ko": "회상",
+   "source": "tables"
+  },
+  {
+   "en": "Hongshan Academy of Sciences (HAS)",
+   "zh-TW": "宏山科學院",
+   "ja": "宏山科学院",
+   "ko": "홍산 과학원",
+   "source": "tables"
+  },
+  {
+   "en": "Horie Yui",
+   "zh-TW": "堀江由衣",
+   "ja": "堀江由衣",
+   "ko": "호리에 유이",
+   "source": "tables"
+  },
+  {
+   "en": "Hot Like a BBQ Fire",
+   "zh-TW": "薪火般熾熱",
+   "ja": "焚き火よりアチチッ",
+   "ko": "불꽃처럼 뜨겁게",
+   "source": "tables"
+  },
+  {
+   "en": "Hot Work",
+   "zh-TW": "動火用",
+   "ja": "火山用",
+   "ko": "열 작업용",
+   "source": "tables"
+  },
+  {
+   "en": "Hou Xiaofei",
+   "zh-TW": "侯小菲",
+   "ja": "侯小菲",
+   "ko": "Hou Xiaofei",
+   "source": "tables"
+  },
+  {
+   "en": "Howard Wang",
+   "zh-TW": "Howard Wang",
+   "ja": "Howard Wang",
+   "ko": "Howard Wang",
+   "source": "tables"
+  },
+  {
+   "en": "Howling Guard",
+   "zh-TW": "呼嘯守衛",
+   "ja": "ロアーガード",
+   "ko": "하울링 가드",
+   "source": "tables"
+  },
+  {
+   "en": "Hues of Passion",
+   "zh-TW": "熱烈色彩",
+   "ja": "超イケイケカラフル",
+   "ko": "격정의 색채",
+   "source": "tables"
+  },
+  {
+   "en": "Hunter of Transgression",
+   "zh-TW": "追罪之人",
+   "ja": "罪追人",
+   "ko": "죄를 쫓는 자",
+   "source": "tables"
+  },
+  {
+   "en": "Hunter Pursuit DMG Multiplier",
+   "zh-TW": "追獵傷害倍率",
+   "ja": "追及ダメージ倍率",
+   "ko": "추적 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Hunter Pursuit SP Recovery",
+   "zh-TW": "追獵技力回復",
+   "ja": "追及SP回復量",
+   "ko": "추적 스킬 게이지 회복",
+   "source": "tables"
+  },
+  {
+   "en": "Hunter Pursuit Stagger",
+   "zh-TW": "追獵失衡值",
+   "ja": "追及ブレイク値",
+   "ko": "추적 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Hunter Pursuit State Duration (s)",
+   "zh-TW": "追獵狀態持續時間（秒）",
+   "ja": "追及状態持続時間（秒）",
+   "ko": "추적 상태 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Hunting Hour",
+   "zh-TW": "狩獵時刻",
+   "ja": "狩猟開始",
+   "ko": "사냥 시간",
+   "source": "tables"
+  },
+  {
+   "en": "Huntress's Focus",
+   "zh-TW": "獵手的專注",
+   "ja": "狩人の集中力",
+   "ko": "사냥꾼의 집중",
+   "source": "tables"
+  },
+  {
+   "en": "Huntress's Stride",
+   "zh-TW": "獵人步伐",
+   "ja": "狩人のペース",
+   "ko": "사냥꾼의 발걸음",
+   "source": "tables"
+  },
+  {
+   "en": "Hwang Chang-yung",
+   "zh-TW": "黃椙暎",
+   "ja": "황창영",
+   "ko": "황창영",
+   "source": "tables"
+  },
+  {
+   "en": "Hydro Mining Rig",
+   "zh-TW": "水驅礦機",
+   "ja": "水力採鉱機",
+   "ko": "수력 채굴기",
+   "source": "tables"
+  },
+  {
+   "en": "Hypernova Auto",
+   "zh-TW": "全自動駭新星",
+   "ja": "オート・ハイパーノヴァ",
+   "ko": "오토 하이퍼노바",
+   "source": "tables"
+  },
+  {
+   "en": "Hypothermia",
+   "zh-TW": "失溫症",
+   "ja": "低体温症",
+   "ko": "저체온증",
+   "source": "tables"
+  },
+  {
+   "en": "Hypothermic Assault",
+   "zh-TW": "失溫猛擊",
+   "ja": "極低温猛撃",
+   "ko": "저체온 강타",
+   "source": "tables"
+  },
+  {
+   "en": "I'LL BLOW YOUR MIND!",
+   "zh-TW": "崩你腦袋！",
+   "ja": "脳天ぶち抜く！",
+   "ko": "정신 똑바로 차려!",
+   "source": "tables"
+  },
+  {
+   "en": "I'M NOT SLEEPING!",
+   "zh-TW": "我沒有睡著！",
+   "ja": "寝てませんよ！",
+   "ko": "나 안 잤어!",
+   "source": "tables"
+  },
+  {
+   "en": "Ice Cream Furnace",
+   "zh-TW": "冰淇淋熔爐",
+   "ja": "アイスクリーム炉",
+   "ko": "아이스크림 용광로",
+   "source": "tables"
+  },
+  {
+   "en": "Ice Shard DMG Multiplier",
+   "zh-TW": "冰刺傷害倍率",
+   "ja": "氷柱ダメージ倍率",
+   "ko": "얼음 가시 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Idol Zone",
+   "zh-TW": "偶像領域",
+   "ja": "アイドルゾーン",
+   "ko": "아이돌 영역",
+   "source": "tables"
+  },
+  {
+   "en": "Illumination",
+   "zh-TW": "頓悟",
+   "ja": "円頓",
+   "ko": "돈오",
+   "source": "tables"
+  },
+  {
+   "en": "Im Chae-bin",
+   "zh-TW": "林彩彬",
+   "ja": "임채빈",
+   "ko": "임채빈",
+   "source": "tables"
+  },
+  {
+   "en": "Im Hyeok",
+   "zh-TW": "任赫",
+   "ja": "임혁",
+   "ko": "임혁",
+   "source": "tables"
+  },
+  {
+   "en": "IMA WAVERIDAAH!",
+   "zh-TW": "踏潮捲浪！",
+   "ja": "波が来るぜ！",
+   "ko": "우당탕탕 파도!",
+   "source": "tables"
+  },
+  {
+   "en": "Imbued Arrow Explosion DMG",
+   "zh-TW": "強力箭爆炸傷害",
+   "ja": "強力な矢による爆発ダメージ",
+   "ko": "강력한 화살 폭발 피해",
+   "source": "tables"
+  },
+  {
+   "en": "Imbued Arrow Stagger",
+   "zh-TW": "強力箭失衡值",
+   "ja": "強力な矢によるブレイク値",
+   "ko": "강력한 화살 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Immobilization Duration (s)",
+   "zh-TW": "定身時長（秒）",
+   "ja": "行動停止時間（秒）",
+   "ko": "속박 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Imprisonment and Susceptibility Duration (s)",
+   "zh-TW": "囹圄及脆弱持續時間（秒）",
+   "ja": "牢獄と脆弱持続時間（秒）",
+   "ko": "구속 및 취약 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Improved Automation",
+   "zh-TW": "自動化改良",
+   "ja": "自動化研究",
+   "ko": "자동화 개량",
+   "source": "tables"
+  },
+  {
+   "en": "Improvised Chi Xiao",
+   "zh-TW": "自研赤霄劍",
+   "ja": "自製赤霄剣",
+   "ko": "자체 개발한 적소검",
+   "source": "tables"
+  },
+  {
+   "en": "Improviser",
+   "zh-TW": "即興發揮",
+   "ja": "アドリブ",
+   "ko": "즉흥적인 천재성",
+   "source": "tables"
+  },
+  {
+   "en": "Indomitable Front",
+   "zh-TW": "不屈陣線",
+   "ja": "不屈の戦線",
+   "ko": "불굴의 전선",
+   "source": "tables"
+  },
+  {
+   "en": "Industry 0.1",
+   "zh-TW": "工業零點一",
+   "ja": "工業零点一",
+   "ko": "공업 0.1",
+   "source": "tables"
+  },
+  {
+   "en": "Inflamed for the Assault",
+   "zh-TW": "陷陣之志",
+   "ja": "突陣の意志",
+   "ko": "전진의 결의",
+   "source": "tables"
+  },
+  {
+   "en": "Initial Aerial Shot DMG Multiplier",
+   "zh-TW": "起跳射擊傷害倍率",
+   "ja": "ジャンプ射撃ダメージ倍率",
+   "ko": "점프 사격 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Initial Base Treatment",
+   "zh-TW": "初始治療基礎值",
+   "ja": "基礎回復値（初回）",
+   "ko": "초기 치유 기초 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Initial Treatment Increase per Will",
+   "zh-TW": "每點意志增加的初始治療值",
+   "ja": "意志1ごとの初回回復値UP",
+   "ko": "의지 1포인트마다 증가하는 초기 치유 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Innocent Wish",
+   "zh-TW": "純真的心願",
+   "ja": "無垢な願い",
+   "ko": "순수한 소망",
+   "source": "tables"
+  },
+  {
+   "en": "Insane Angling Set",
+   "zh-TW": "瘋狂釣組",
+   "ja": "狂気のスイベル",
+   "ko": "광란의 낚시팀",
+   "source": "tables"
+  },
+  {
+   "en": "Instant Protocol: Chain",
+   "zh-TW": "即時協議·閃鏈",
+   "ja": "即時協約：閃光鎖",
+   "ko": "실시간 프로토콜 · 연쇄 섬광",
+   "source": "tables"
+  },
+  {
+   "en": "Intellect",
+   "zh-TW": "智識",
+   "ja": "知性",
+   "ko": "지능",
+   "source": "tables"
+  },
+  {
+   "en": "Invitation to Celestial Lights",
+   "zh-TW": "我邀日月",
+   "ja": "日月を随える",
+   "ko": "해와 달을 부르리라",
+   "source": "tables"
+  },
+  {
+   "en": "Ishibashi Hiiro",
+   "zh-TW": "石橋陽彩",
+   "ja": "石橋陽彩",
+   "ko": "이시바시 히이로",
+   "source": "tables"
+  },
+  {
+   "en": "Izawa Shiori",
+   "zh-TW": "井澤詩織",
+   "ja": "井澤詩織",
+   "ko": "이자와 시오리",
+   "source": "tables"
+  },
+  {
+   "en": "Jacob Craner",
+   "zh-TW": "Jacob Craner",
+   "ja": "Jacob Craner",
+   "ko": "Jacob Craner",
+   "source": "tables"
+  },
+  {
+   "en": "Jacopo Calatroni",
+   "zh-TW": "Jacopo Calatroni",
+   "ja": "Jacopo Calatroni",
+   "ko": "Jacopo Calatroni",
+   "source": "tables"
+  },
+  {
+   "en": "Jade Vessel",
+   "zh-TW": "玉中身",
+   "ja": "玉中身",
+   "ko": "옥에 깃든 형체",
+   "source": "tables"
+  },
+  {
+   "en": "Jadecrushing Grid",
+   "zh-TW": "摧玉網格",
+   "ja": "砕玉領域",
+   "ko": "결정 파쇄 그리드",
+   "source": "tables"
+  },
+  {
+   "en": "Jane Jackson",
+   "zh-TW": "Jane Jackson",
+   "ja": "Jane Jackson",
+   "ko": "Jane Jackson",
+   "source": "tables"
+  },
+  {
+   "en": "Jang Mi",
+   "zh-TW": "張美",
+   "ja": "장미",
+   "ko": "장미",
+   "source": "tables"
+  },
+  {
+   "en": "Jang Ye-na",
+   "zh-TW": "張睿娜",
+   "ja": "장예나",
+   "ko": "장예나",
+   "source": "tables"
+  },
+  {
+   "en": "Jeong Hae-eun",
+   "zh-TW": "丁海恩",
+   "ja": "정해은",
+   "ko": "정해은",
+   "source": "tables"
+  },
+  {
+   "en": "JET",
+   "zh-TW": "J.E.T.",
+   "ja": "J.E.T.",
+   "ko": "J.E.T.",
+   "source": "tables"
+  },
+  {
+   "en": "Jiminy 12",
+   "zh-TW": "吉米尼12",
+   "ja": "ジミニ12",
+   "ko": "지미니 12",
+   "source": "tables"
+  },
+  {
+   "en": "Jing Chen",
+   "zh-TW": "靜宸",
+   "ja": "静宸",
+   "ko": "Jing Chen",
+   "source": "tables"
+  },
+  {
+   "en": "jojohan",
+   "zh-TW": "韓嬌嬌",
+   "ja": "韩娇娇",
+   "ko": "jojohan",
+   "source": "tables"
+  },
+  {
+   "en": "Jolting Arts",
+   "zh-TW": "疾電法",
+   "ja": "迅雷法",
+   "ko": "전격술",
+   "source": "tables"
+  },
+  {
+   "en": "Jon Xu",
+   "zh-TW": "許棕哲",
+   "ja": "许棕哲",
+   "ko": "Jon Xu",
+   "source": "tables"
+  },
+  {
+   "en": "Julia Gu",
+   "zh-TW": "Julia Gu",
+   "ja": "Julia Gu",
+   "ko": "Julia Gu",
+   "source": "tables"
+  },
+  {
+   "en": "Junction Point",
+   "zh-TW": "聯結點",
+   "ja": "連結点",
+   "ko": "공명점",
+   "source": "tables"
+  },
+  {
+   "en": "Kanemoto Hisako",
+   "zh-TW": "金元壽子",
+   "ja": "金元寿子",
+   "ko": "카네모토 히사코",
+   "source": "tables"
+  },
+  {
+   "en": "Kang Eun-ae",
+   "zh-TW": "姜恩愛",
+   "ja": "강은애",
+   "ko": "강은애",
+   "source": "tables"
+  },
+  {
+   "en": "Kang Sae-bom",
+   "zh-TW": "姜新春",
+   "ja": "강새봄",
+   "ko": "강새봄",
+   "source": "tables"
+  },
+  {
+   "en": "Katiana Sarkissian",
+   "zh-TW": "Katiana Sarkissian",
+   "ja": "Katiana Sarkissian",
+   "ko": "Katiana Sarkissian",
+   "source": "tables"
+  },
+  {
+   "en": "Kevin Andrew Rivera",
+   "zh-TW": "Kevin Andrew Rivera",
+   "ja": "Kevin Andrew Rivera",
+   "ko": "Kevin Andrew Rivera",
+   "source": "tables"
+  },
+  {
+   "en": "Khravengger",
+   "zh-TW": "赫拉芬格",
+   "ja": "クラヴェンガー",
+   "ko": "헤라펜거",
+   "source": "tables"
+  },
+  {
+   "en": "Kijima Ryuichi",
+   "zh-TW": "木島隆一",
+   "ja": "木島隆一",
+   "ko": "키지마 류이치",
+   "source": "tables"
+  },
+  {
+   "en": "Kim A-rong",
+   "zh-TW": "金芽瓏",
+   "ja": "김아롱",
+   "ko": "김아롱",
+   "source": "tables"
+  },
+  {
+   "en": "Kim Chae-rin",
+   "zh-TW": "金彩璘",
+   "ja": "김채린",
+   "ko": "김채린",
+   "source": "tables"
+  },
+  {
+   "en": "Kim Ha-ru",
+   "zh-TW": "金賀婁",
+   "ja": "김하루",
+   "ko": "김하루",
+   "source": "tables"
+  },
+  {
+   "en": "Kim Hye-sung",
+   "zh-TW": "金慧星",
+   "ja": "김혜성",
+   "ko": "김혜성",
+   "source": "tables"
+  },
+  {
+   "en": "Kim I-an",
+   "zh-TW": "金怡侒",
+   "ja": "김이안",
+   "ko": "김이안",
+   "source": "tables"
+  },
+  {
+   "en": "Kim Jin ah",
+   "zh-TW": "金真娥",
+   "ja": "김진아",
+   "ko": "김진아",
+   "source": "tables"
+  },
+  {
+   "en": "KIM SOONMI",
+   "zh-TW": "金順美",
+   "ja": "김순미",
+   "ko": "김순미",
+   "source": "tables"
+  },
+  {
+   "en": "Kim Yoon-gi",
+   "zh-TW": "金潤氣",
+   "ja": "김윤기",
+   "ko": "김윤기",
+   "source": "tables"
+  },
+  {
+   "en": "Kinesthesia of Harmony",
+   "zh-TW": "心手合一",
+   "ja": "心手合一",
+   "ko": "심신일체",
+   "source": "tables"
+  },
+  {
+   "en": "Kira Buckland",
+   "zh-TW": "Kira Buckland",
+   "ja": "Kira Buckland",
+   "ko": "Kira Buckland",
+   "source": "tables"
+  },
+  {
+   "en": "Kitamura Eri",
+   "zh-TW": "喜多村英梨",
+   "ja": "喜多村英梨",
+   "ko": "키타무라 에리",
+   "source": "tables"
+  },
+  {
+   "en": "Kiyo",
+   "zh-TW": "蕭清源",
+   "ja": "萧清源",
+   "ko": "Kiyo",
+   "source": "tables"
+  },
+  {
+   "en": "Komatsu Mikako",
+   "zh-TW": "小松未可子",
+   "ja": "小松未可子",
+   "ko": "코마츠 미카코",
+   "source": "tables"
+  },
+  {
+   "en": "Koyama Rikiya",
+   "zh-TW": "小山力也",
+   "ja": "小山力也",
+   "ko": "코야마 리키야",
+   "source": "tables"
+  },
+  {
+   "en": "Kum You-rim",
+   "zh-TW": "金愈琳",
+   "ja": "김유림",
+   "ko": "김유림",
+   "source": "tables"
+  },
+  {
+   "en": "Kuranta",
+   "zh-TW": "庫蘭塔",
+   "ja": "クランタ",
+   "ko": "쿠란타",
+   "source": "tables"
+  },
+  {
+   "en": "Kuwashima Houko",
+   "zh-TW": "桑島法子",
+   "ja": "桑島法子",
+   "ko": "쿠와시마 호우코",
+   "source": "tables"
+  },
+  {
+   "en": "Kwon Sung-hyuck",
+   "zh-TW": "權星赫",
+   "ja": "권성혁",
+   "ko": "권성혁",
+   "source": "tables"
+  },
+  {
+   "en": "Kylin",
+   "zh-TW": "麒麟",
+   "ja": "麒麟",
+   "ko": "키린",
+   "source": "tables"
+  },
+  {
+   "en": "Laevatain",
+   "zh-TW": "萊萬汀",
+   "ja": "レーヴァテイン",
+   "ko": "레바테인",
+   "source": "tables"
+  },
+  {
+   "en": "Last Rite",
+   "zh-TW": "別禮",
+   "ja": "ラストライト",
+   "ko": "라스트 라이트",
+   "source": "tables"
+  },
+  {
+   "en": "Late Reply",
+   "zh-TW": "遲來的回信",
+   "ja": "遅れてきた返信",
+   "ko": "뒤늦은 편지",
+   "source": "tables"
+  },
+  {
+   "en": "Laziness Pays Off Now",
+   "zh-TW": "惰性使然",
+   "ja": "惰性",
+   "ko": "이유 있는 게으름",
+   "source": "tables"
+  },
+  {
+   "en": "Lee Eun-jo",
+   "zh-TW": "李恩造",
+   "ja": "이은조",
+   "ko": "이은조",
+   "source": "tables"
+  },
+  {
+   "en": "Lee Gyu-chang",
+   "zh-TW": "李奎昌",
+   "ja": "이규창",
+   "ko": "이규창",
+   "source": "tables"
+  },
+  {
+   "en": "Lee I-ro",
+   "zh-TW": "李耳擄",
+   "ja": "이이로",
+   "ko": "이이로",
+   "source": "tables"
+  },
+  {
+   "en": "Lee Joo-eun",
+   "zh-TW": "李主恩",
+   "ja": "이주은",
+   "ko": "이주은",
+   "source": "tables"
+  },
+  {
+   "en": "Lee Ju Seung",
+   "zh-TW": "李周承",
+   "ja": "이주승",
+   "ko": "이주승",
+   "source": "tables"
+  },
+  {
+   "en": "Legendary Destination",
+   "zh-TW": "傳說的終點",
+   "ja": "伝説の終着点",
+   "ko": "전설의 종착지",
+   "source": "tables"
+  },
+  {
+   "en": "Liang Dawei",
+   "zh-TW": "梁達偉",
+   "ja": "梁达伟",
+   "ko": "Liang Dawei",
+   "source": "tables"
+  },
+  {
+   "en": "Liberi",
+   "zh-TW": "黎博利",
+   "ja": "リーベリ",
+   "ko": "리베리",
+   "source": "tables"
+  },
+  {
+   "en": "Life Over Mission",
+   "zh-TW": "生命大於任務",
+   "ja": "任務より命大事に",
+   "ko": "임무보다는 목숨을",
+   "source": "tables"
+  },
+  {
+   "en": "Lifeng",
+   "zh-TW": "黎風",
+   "ja": "リーフォン",
+   "ko": "여풍",
+   "source": "tables"
+  },
+  {
+   "en": "Lift Duration (s)",
+   "zh-TW": "浮空時間（秒）",
+   "ja": "浮遊時間（秒）",
+   "ko": "공중에 뜸 상태 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Liino",
+   "zh-TW": "梨諾",
+   "ja": "リーノ",
+   "ko": "리노",
+   "source": "tables"
+  },
+  {
+   "en": "Lindsay Sheppard",
+   "zh-TW": "Lindsay Sheppard",
+   "ja": "Lindsay Sheppard",
+   "ko": "Lindsay Sheppard",
+   "source": "tables"
+  },
+  {
+   "en": "Link Aggregation",
+   "zh-TW": "鏈路聚合",
+   "ja": "リンクフュージョン",
+   "ko": "링크 어그리게이션",
+   "source": "tables"
+  },
+  {
+   "en": "Liu Ruoban",
+   "zh-TW": "劉若班",
+   "ja": "刘若班",
+   "ko": "Liu Ruoban",
+   "source": "tables"
+  },
+  {
+   "en": "Liu Yuxuan",
+   "zh-TW": "劉雨軒",
+   "ja": "刘雨轩",
+   "ko": "Liu Yuxuan",
+   "source": "tables"
+  },
+  {
+   "en": "Lone Barge",
+   "zh-TW": "孤舟",
+   "ja": "孤舟",
+   "ko": "고독한 나룻배",
+   "source": "tables"
+  },
+  {
+   "en": "Lone Wolf",
+   "zh-TW": "獨狼",
+   "ja": "独狼",
+   "ko": "떠돌이 늑대",
+   "source": "tables"
+  },
+  {
+   "en": "Long Heritage",
+   "zh-TW": "悠久傳承",
+   "ja": "悠久の継承",
+   "ko": "유구한 전승",
+   "source": "tables"
+  },
+  {
+   "en": "Long Road",
+   "zh-TW": "長路",
+   "ja": "長路",
+   "ko": "끝없는 여정",
+   "source": "tables"
+  },
+  {
+   "en": "Longing for the Horizon",
+   "zh-TW": "天際的憧憬",
+   "ja": "大空に憧れて",
+   "ko": "하늘을 향한 동경",
+   "source": "tables"
+  },
+  {
+   "en": "Love the Stab and Twist",
+   "zh-TW": "落井下石愛好者",
+   "ja": "泣きっ面に石",
+   "ko": "몰락의 조력자",
+   "source": "tables"
+  },
+  {
+   "en": "Lowered Expectations",
+   "zh-TW": "降低預期",
+   "ja": "期待厳禁",
+   "ko": "낮은 기대치",
+   "source": "tables"
+  },
+  {
+   "en": "LSS",
+   "zh-TW": "劉十四",
+   "ja": "刘十四",
+   "ko": "LSS",
+   "source": "tables"
+  },
+  {
+   "en": "Lunar Calling",
+   "zh-TW": "喚月",
+   "ja": "問月",
+   "ko": "환월",
+   "source": "tables"
+  },
+  {
+   "en": "Lung",
+   "zh-TW": "龍",
+   "ja": "龍",
+   "ko": "용",
+   "source": "tables"
+  },
+  {
+   "en": "Lupine Scarlet",
+   "zh-TW": "狼之緋",
+   "ja": "狼緋",
+   "ko": "늑대의 혈흔",
+   "source": "tables"
+  },
+  {
+   "en": "Lupo",
+   "zh-TW": "魯珀",
+   "ja": "ループス",
+   "ko": "루포",
+   "source": "tables"
+  },
+  {
+   "en": "Lynn",
+   "zh-TW": "Lynn",
+   "ja": "Lynn",
+   "ko": "린",
+   "source": "tables"
+  },
+  {
+   "en": "LYNX",
+   "zh-TW": "生物輔助",
+   "ja": "生物補助",
+   "ko": "생체 보조",
+   "source": "tables"
+  },
+  {
+   "en": "Ma Yang",
+   "zh-TW": "馬洋",
+   "ja": "马洋",
+   "ko": "Ma Yang",
+   "source": "tables"
+  },
+  {
+   "en": "Maddie Matsumoto",
+   "zh-TW": "Maddie Matsumoto",
+   "ja": "Maddie Matsumoto",
+   "ko": "Maddie Matsumoto",
+   "source": "tables"
+  },
+  {
+   "en": "Maeno Tomoaki",
+   "zh-TW": "前野智昭",
+   "ja": "前野智昭",
+   "ko": "마에노 토모아키",
+   "source": "tables"
+  },
+  {
+   "en": "Mantra of Sundering",
+   "zh-TW": "驚霆訣",
+   "ja": "驚雷訣",
+   "ko": "뇌정의 부름",
+   "source": "tables"
+  },
+  {
+   "en": "MAO",
+   "zh-TW": "吱毛",
+   "ja": "吱毛",
+   "ko": "MAO",
+   "source": "tables"
+  },
+  {
+   "en": "Mapping Node",
+   "zh-TW": "映射節點",
+   "ja": "マッピングノード",
+   "ko": "노드 매핑",
+   "source": "tables"
+  },
+  {
+   "en": "Marsia Zhang",
+   "zh-TW": "幽舞越山",
+   "ja": "幽舞越山",
+   "ko": "Marsia Zhang",
+   "source": "tables"
+  },
+  {
+   "en": "Matsukaze Masaya",
+   "zh-TW": "松風雅也",
+   "ja": "松風雅也",
+   "ko": "마츠카제 마사야",
+   "source": "tables"
+  },
+  {
+   "en": "Matsuoka Yoshitsugu",
+   "zh-TW": "松岡禎丞",
+   "ja": "松岡禎丞",
+   "ko": "마츠오카 요시츠구",
+   "source": "tables"
+  },
+  {
+   "en": "MAX Amp from INT",
+   "zh-TW": "智識提升增幅上限",
+   "ja": "知性による増幅UP上限",
+   "ko": "지능 증가 증폭 최대치",
+   "source": "tables"
+  },
+  {
+   "en": "MAX Amp from Will",
+   "zh-TW": "意志提升的增幅上限",
+   "ja": "意志による増幅UP上限",
+   "ko": "의지 증가 증폭 최대치",
+   "source": "tables"
+  },
+  {
+   "en": "Max Bonus Susceptibility from Will",
+   "zh-TW": "意志提供最大額外脆弱效果",
+   "ja": "意志による最大追加脆弱効果",
+   "ko": "의지가 제공하는 최대 추가 취약 효과",
+   "source": "tables"
+  },
+  {
+   "en": "MAX SP Recovery",
+   "zh-TW": "技力回復上限",
+   "ja": "SP回復上限",
+   "ko": "스킬 게이지 회복 최대치",
+   "source": "tables"
+  },
+  {
+   "en": "Max Stacks",
+   "zh-TW": "最大疊加層數",
+   "ja": "最大段階数",
+   "ko": "최대 중첩 스택 수치",
+   "source": "tables"
+  },
+  {
+   "en": "May the Willing Bite",
+   "zh-TW": "願者上鉤",
+   "ja": "針は願う者の前に",
+   "ko": "미끼 없는 낚시",
+   "source": "tables"
+  },
+  {
+   "en": "Mega Lunker Rumors",
+   "zh-TW": "特大鱗訊",
+   "ja": "特大鱗獣ニュース",
+   "ko": "초특급 입질",
+   "source": "tables"
+  },
+  {
+   "en": "Messenger's Song",
+   "zh-TW": "信使的歌聲",
+   "ja": "トランスポーターの歌声",
+   "ko": "전달자의 노래",
+   "source": "tables"
+  },
+  {
+   "en": "Metadiastima Photoemission Tube",
+   "zh-TW": "超距輝映管",
+   "ja": "超距離分光管",
+   "ko": "초거리 빛 반사 파이프",
+   "source": "tables"
+  },
+  {
+   "en": "Meteoric Rhythm",
+   "zh-TW": "流星的躍動",
+   "ja": "流星のリズム",
+   "ko": "유성의 리듬",
+   "source": "tables"
+  },
+  {
+   "en": "Mi Fu",
+   "zh-TW": "弭弗",
+   "ja": "ミ・フ",
+   "ko": "미브",
+   "source": "tables"
+  },
+  {
+   "en": "MI Security",
+   "zh-TW": "M. I.警用",
+   "ja": "M.I.警備",
+   "ko": "M. I. 경찰용",
+   "source": "tables"
+  },
+  {
+   "en": "Min Ah",
+   "zh-TW": "玟我",
+   "ja": "민아",
+   "ko": "민아",
+   "source": "tables"
+  },
+  {
+   "en": "Min Seungwoo",
+   "zh-TW": "閔丞釪",
+   "ja": "민승우",
+   "ko": "민승우",
+   "source": "tables"
+  },
+  {
+   "en": "Mind of Refined Steel",
+   "zh-TW": "念如精鋼",
+   "ja": "鋼の精神",
+   "ko": "흔들림 없는 정신",
+   "source": "tables"
+  },
+  {
+   "en": "Mind Reading Technique",
+   "zh-TW": "讀心技巧",
+   "ja": "読心術",
+   "ko": "독심술",
+   "source": "tables"
+  },
+  {
+   "en": "Mirage Additional ATK DMG Multiplier",
+   "zh-TW": "幻影追擊傷害倍率",
+   "ja": "幻影追撃ダメージ倍率",
+   "ko": "환영 추격 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Misty",
+   "zh-TW": "吳哲茹",
+   "ja": "吴哲茹",
+   "ko": "Misty",
+   "source": "tables"
+  },
+  {
+   "en": "Miyamoto Yume",
+   "zh-TW": "宮本侑芽",
+   "ja": "宮本侑芽",
+   "ko": "미야모토 유메",
+   "source": "tables"
+  },
+  {
+   "en": "Model Employee",
+   "zh-TW": "先進工作者",
+   "ja": "先進仕事マン",
+   "ko": "모범 직원",
+   "source": "tables"
+  },
+  {
+   "en": "Molly Zhang",
+   "zh-TW": "Molly Zhang",
+   "ja": "Molly Zhang",
+   "ko": "Molly Zhang",
+   "source": "tables"
+  },
+  {
+   "en": "Moment of Blazing Shadow",
+   "zh-TW": "燎影時刻",
+   "ja": "刹那の影",
+   "ko": "그림자가 타오르는 순간",
+   "source": "tables"
+  },
+  {
+   "en": "Momentum Breaker",
+   "zh-TW": "破勢",
+   "ja": "破勢",
+   "ko": "흐름 끊기",
+   "source": "tables"
+  },
+  {
+   "en": "Monaihe",
+   "zh-TW": "莫奈何",
+   "ja": "術無",
+   "ko": "무가내하",
+   "source": "tables"
+  },
+  {
+   "en": "Mordvolt Insulation",
+   "zh-TW": "蝕電絕緣",
+   "ja": "蝕電遮断",
+   "ko": "침식 차단",
+   "source": "tables"
+  },
+  {
+   "en": "Mordvolt Resistant",
+   "zh-TW": "蝕電防護",
+   "ja": "蝕電防護",
+   "ko": "침식 방호",
+   "source": "tables"
+  },
+  {
+   "en": "MORE SPICE!",
+   "zh-TW": "加料！",
+   "ja": "調味料！",
+   "ko": "조미료 뿌리기!",
+   "source": "tables"
+  },
+  {
+   "en": "Moulding Unit",
+   "zh-TW": "塑形機",
+   "ja": "成形機",
+   "ko": "성형기",
+   "source": "tables"
+  },
+  {
+   "en": "Mountain Bearer",
+   "zh-TW": "負山",
+   "ja": "負山",
+   "ko": "산의 지배자",
+   "source": "tables"
+  },
+  {
+   "en": "Mountainpeak Surfer",
+   "zh-TW": "山頂衝浪",
+   "ja": "山頂サーフィン",
+   "ko": "마운틴 서퍼",
+   "source": "tables"
+  },
+  {
+   "en": "Multi-layered Readiness",
+   "zh-TW": "多重戰備",
+   "ja": "念のために準備",
+   "ko": "다중 전투준비",
+   "source": "tables"
+  },
+  {
+   "en": "Multiplier Increase per Stack Consumed or Absorbed",
+   "zh-TW": "每消耗或吸收1層提高倍率",
+   "ja": "1段階消費または吸収するごとにアップする倍率",
+   "ko": "1스택 소모 혹은 흡수할 때마다 증가하는 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Muyaruilin",
+   "zh-TW": "木雅瑞林",
+   "ja": "木雅瑞林",
+   "ko": "Muyaruilin",
+   "source": "tables"
+  },
+  {
+   "en": "Nagatsuki Aoi",
+   "zh-TW": "長月葵",
+   "ja": "長月あおい",
+   "ko": "나가츠키 아오이",
+   "source": "tables"
+  },
+  {
+   "en": "Nakamura Yuichi",
+   "zh-TW": "中村悠一",
+   "ja": "中村悠一",
+   "ko": "나카무라 유이치",
+   "source": "tables"
+  },
+  {
+   "en": "Natural Predator",
+   "zh-TW": "天生掠食者",
+   "ja": "天性のハンター",
+   "ko": "타고난 포식자",
+   "source": "tables"
+  },
+  {
+   "en": "Nature",
+   "zh-TW": "自然",
+   "ja": "自然",
+   "ko": "자연",
+   "source": "tables"
+  },
+  {
+   "en": "Nature Burst DMG Boost",
+   "zh-TW": "自然爆發傷害提高",
+   "ja": "自然爆発ダメージUP",
+   "ko": "자연 폭발 피해 증가",
+   "source": "tables"
+  },
+  {
+   "en": "NAUGHTY IS BANNED!",
+   "zh-TW": "不許幹壞事！",
+   "ja": "悪いことは許しませ～ん！",
+   "ko": "말썽 피우면 안 돼!",
+   "source": "tables"
+  },
+  {
+   "en": "Navigator",
+   "zh-TW": "領航者",
+   "ja": "ナビゲーター",
+   "ko": "항로의 개척자",
+   "source": "tables"
+  },
+  {
+   "en": "Negotiation Tactics",
+   "zh-TW": "談判策略",
+   "ja": "交渉戦略",
+   "ko": "협상의 기술",
+   "source": "tables"
+  },
+  {
+   "en": "Never Rest",
+   "zh-TW": "不知歸",
+   "ja": "不知帰",
+   "ko": "끝없는 방랑",
+   "source": "tables"
+  },
+  {
+   "en": "Newly Forged Blade",
+   "zh-TW": "新鑄劍鋒",
+   "ja": "新生の刃",
+   "ko": "새로 단조한 검날",
+   "source": "tables"
+  },
+  {
+   "en": "Nicks and Scratches",
+   "zh-TW": "斫痕",
+   "ja": "爪痕",
+   "ko": "절흔",
+   "source": "tables"
+  },
+  {
+   "en": "No Escape",
+   "zh-TW": "無處可逃",
+   "ja": "逃げ場はもうない",
+   "ko": "도망칠 곳은 없다",
+   "source": "tables"
+  },
+  {
+   "en": "No One Spoils the Fun",
+   "zh-TW": "誰都不許掃興",
+   "ja": "白けさせるでない！",
+   "ko": "누가 감히 흥을 깨랴",
+   "source": "tables"
+  },
+  {
+   "en": "Nomadic Fort",
+   "zh-TW": "移動要塞",
+   "ja": "移動要塞",
+   "ko": "이동 요새",
+   "source": "tables"
+  },
+  {
+   "en": "Normal Hail of Arrows DMG",
+   "zh-TW": "基礎箭雨傷害",
+   "ja": "通常矢の雨ダメージ",
+   "ko": "일반 화살비 피해",
+   "source": "tables"
+  },
+  {
+   "en": "North Yearns the Rift Vigile",
+   "zh-TW": "臨淵望北",
+   "ja": "臨淵望北",
+   "ko": "벼랑 끝, 북쪽을 향한 시선",
+   "source": "tables"
+  },
+  {
+   "en": "Number of Energy Releases",
+   "zh-TW": "施放能量次數",
+   "ja": "エネルギー放出回数",
+   "ko": "에너지 사용 횟수",
+   "source": "tables"
+  },
+  {
+   "en": "OBJ Arts Identifier",
+   "zh-TW": "O.B.J.術識",
+   "ja": "O.B.J.術識",
+   "ko": "O.B.J. 아츠 아이덴티티",
+   "source": "tables"
+  },
+  {
+   "en": "OBJ Edge of Lightness",
+   "zh-TW": "O.B.J.輕芒",
+   "ja": "O.B.J.軽刃",
+   "ko": "O.B.J. 엣지 오브 라이트",
+   "source": "tables"
+  },
+  {
+   "en": "OBJ Heavy Burden",
+   "zh-TW": "O.B.J.重荷",
+   "ja": "O.B.J.重責",
+   "ko": "O.B.J. 헤비 버든",
+   "source": "tables"
+  },
+  {
+   "en": "OBJ Razorhorn",
+   "zh-TW": "O.B.J.尖峰",
+   "ja": "O.B.J.鋭矛",
+   "ko": "O.B.J. 스파이크",
+   "source": "tables"
+  },
+  {
+   "en": "OBJ Velocitous",
+   "zh-TW": "O.B.J.迅極",
+   "ja": "O.B.J.迅速",
+   "ko": "O.B.J. 벨로시투스",
+   "source": "tables"
+  },
+  {
+   "en": "Obliteration Protocol",
+   "zh-TW": "殲滅協議",
+   "ja": "殲滅協約",
+   "ko": "오블리터레이션 프로토콜",
+   "source": "tables"
+  },
+  {
+   "en": "Oblivion",
+   "zh-TW": "遺忘",
+   "ja": "遺忘",
+   "ko": "망각",
+   "source": "tables"
+  },
+  {
+   "en": "Ohashi Ayaka",
+   "zh-TW": "大橋彩香",
+   "ja": "大橋彩香",
+   "ko": "오오하시 아야카",
+   "source": "tables"
+  },
+  {
+   "en": "Ohzora Naomi",
+   "zh-TW": "大空直美",
+   "ja": "大空直美",
+   "ko": "오오조라 나오미",
+   "source": "tables"
+  },
+  {
+   "en": "Old Deep Water Dies, by Rising Tide It is Denied",
+   "zh-TW": "新潮起，故淵離",
+   "ja": "潮起ち、故淵離る",
+   "ko": "몰아치는 새로운 물결, 과거와의 작별",
+   "source": "notice 8907"
+  },
+  {
+   "en": "OLDEN STARE Duration (s)",
+   "zh-TW": "古老圖形持續時間（秒）",
+   "ja": "古の紋様持続時間（秒）",
+   "ko": "고대의 진 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "One Monster Catch!",
+   "zh-TW": "大鱗，上鉤！",
+   "ja": "大物、ヒット！",
+   "ko": "월척이다!",
+   "source": "tables"
+  },
+  {
+   "en": "Onomatopoeia",
+   "zh-TW": "凝聲",
+   "ja": "オノマトペ",
+   "ko": "서스테인",
+   "source": "tables"
+  },
+  {
+   "en": "Opero 77",
+   "zh-TW": "奧佩羅77",
+   "ja": "オッペロ77",
+   "ko": "오페로 77",
+   "source": "tables"
+  },
+  {
+   "en": "Opus: Etch Figure",
+   "zh-TW": "作品：蝕跡",
+   "ja": "作品：蝕跡",
+   "ko": "작품: 침식 흔적",
+   "source": "tables"
+  },
+  {
+   "en": "Opus: The Living",
+   "zh-TW": "作品：眾生",
+   "ja": "作品：衆生",
+   "ko": "작품: 중생",
+   "source": "tables"
+  },
+  {
+   "en": "Ordained by Heaven",
+   "zh-TW": "承天之佑",
+   "ja": "承天之佑",
+   "ko": "하늘의 가호",
+   "source": "tables"
+  },
+  {
+   "en": "Order of Steel Oath",
+   "zh-TW": "鐵誓軍",
+   "ja": "鉄誓軍",
+   "ko": "철의 서약군",
+   "source": "tables"
+  },
+  {
+   "en": "Origin of Admiration",
+   "zh-TW": "憧憬的起點",
+   "ja": "憧れの出発点",
+   "ko": "동경의 서막",
+   "source": "tables"
+  },
+  {
+   "en": "Overclocked Moment",
+   "zh-TW": "超頻時刻",
+   "ja": "リミッター、解除",
+   "ko": "오버클록 타임",
+   "source": "tables"
+  },
+  {
+   "en": "Overlord of Winter",
+   "zh-TW": "統御嚴冬",
+   "ja": "厳冬を統べる",
+   "ko": "혹한의 지배자",
+   "source": "tables"
+  },
+  {
+   "en": "Packaging Unit",
+   "zh-TW": "封裝機",
+   "ja": "包装機",
+   "ko": "포장기",
+   "source": "tables"
+  },
+  {
+   "en": "Pan Danni",
+   "zh-TW": "潘丹妮",
+   "ja": "潘丹妮",
+   "ko": "Pan Danni",
+   "source": "tables"
+  },
+  {
+   "en": "Park i-seo",
+   "zh-TW": "朴怡偦",
+   "ja": "박이서",
+   "ko": "박이서",
+   "source": "tables"
+  },
+  {
+   "en": "Passionate Idealist",
+   "zh-TW": "理想熱忱",
+   "ja": "熱い理想",
+   "ko": "이념의 불씨",
+   "source": "tables"
+  },
+  {
+   "en": "Pathfinder's Beacon",
+   "zh-TW": "尋路者道標",
+   "ja": "開拓者の道標",
+   "ko": "개척자의 이정표",
+   "source": "tables"
+  },
+  {
+   "en": "Pay the Ferric Price",
+   "zh-TW": "以鐵還鐵",
+   "ja": "鉄で鉄を貫く",
+   "ko": "강철에는 강철로",
+   "source": "tables"
+  },
+  {
+   "en": "Peal of Thunder",
+   "zh-TW": "鳴雷",
+   "ja": "雷鳴",
+   "ko": "천둥의 울림",
+   "source": "tables"
+  },
+  {
+   "en": "Peco 5",
+   "zh-TW": "佩科5",
+   "ja": "ペッコ5",
+   "ko": "페코 5",
+   "source": "tables"
+  },
+  {
+   "en": "Perfectly Composed in Spirit",
+   "zh-TW": "完善精神",
+   "ja": "精神を全きものとす",
+   "ko": "정신을 가다듬으며",
+   "source": "tables"
+  },
+  {
+   "en": "Perlica",
+   "zh-TW": "佩麗卡",
+   "ja": "ペリカ",
+   "ko": "펠리카",
+   "source": "tables"
+  },
+  {
+   "en": "Perro",
+   "zh-TW": "佩洛",
+   "ja": "ペッロー",
+   "ko": "페로",
+   "source": "tables"
+  },
+  {
+   "en": "Phantom Pain",
+   "zh-TW": "幻想苦痛",
+   "ja": "ファントムペイン",
+   "ko": "환상통",
+   "source": "tables"
+  },
+  {
+   "en": "Phidia",
+   "zh-TW": "斐迪亞",
+   "ja": "フィディア",
+   "ko": "피디아",
+   "source": "tables"
+  },
+  {
+   "en": "Physical",
+   "zh-TW": "物理",
+   "ja": "物理",
+   "ko": "물리",
+   "source": "tables"
+  },
+  {
+   "en": "Physical Susceptibility",
+   "zh-TW": "物理脆弱效果",
+   "ja": "物理脆弱効果",
+   "ko": "물리 취약 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Physical Susceptibility Duration",
+   "zh-TW": "物理脆弱持續時間",
+   "ja": "物理脆弱持続時間",
+   "ko": "물리 취약 지속 시간",
+   "source": "tables"
+  },
+  {
+   "en": "Physical Susceptibility Duration (s)",
+   "zh-TW": "物理脆弱持續時間（秒）",
+   "ja": "物理脆弱持続時間（秒）",
+   "ko": "물리 취약 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Physical Susceptibility Multiplier",
+   "zh-TW": "物理脆弱倍率",
+   "ja": "物理脆弱倍率",
+   "ko": "물리 취약 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Piercing Arrows of the Woods",
+   "zh-TW": "風矢穿林",
+   "ja": "風裂く一矢",
+   "ko": "바람을 가르는 화살",
+   "source": "tables"
+  },
+  {
+   "en": "Pile of No Mercy",
+   "zh-TW": "絕心",
+   "ja": "心絶やす",
+   "ko": "절심",
+   "source": "tables"
+  },
+  {
+   "en": "Pink Bolete",
+   "zh-TW": "輕紅柱狀菌",
+   "ja": "薄紅茸",
+   "ko": "연한 붉은 기둥 버섯",
+   "source": "tables"
+  },
+  {
+   "en": "Planting Unit",
+   "zh-TW": "種植機",
+   "ja": "栽培機",
+   "ko": "재배기",
+   "source": "tables"
+  },
+  {
+   "en": "Pogranichnik",
+   "zh-TW": "駿衛",
+   "ja": "ポグラニチニク",
+   "ko": "포그라니치니크",
+   "source": "tables"
+  },
+  {
+   "en": "Polar Rescue",
+   "zh-TW": "極地救援",
+   "ja": "極地救援",
+   "ko": "극지 구조",
+   "source": "tables"
+  },
+  {
+   "en": "Polar Survival",
+   "zh-TW": "極地生存",
+   "ja": "極地生存",
+   "ko": "극지 생존",
+   "source": "tables"
+  },
+  {
+   "en": "Polar Survival Guide",
+   "zh-TW": "極地生存指南",
+   "ja": "極地サバイバルガイド",
+   "ko": "극지 생존 가이드",
+   "source": "tables"
+  },
+  {
+   "en": "Pole of Menace",
+   "zh-TW": "大棒懸頭",
+   "ja": "圧強め",
+   "ko": "눈앞에 닥친 위험",
+   "source": "tables"
+  },
+  {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "ja": "長柄武器",
+   "ko": "장병기",
+   "source": "tables"
+  },
+  {
+   "en": "Portable Originium Rig",
+   "zh-TW": "便攜式源石礦機",
+   "ja": "携帯式採鉱機",
+   "ko": "휴대용 오리지늄 채굴기",
+   "source": "tables"
+  },
+  {
+   "en": "Positive Feedback",
+   "zh-TW": "正向回饋",
+   "ja": "ポジティブなFB",
+   "ko": "긍정적 피드백",
+   "source": "tables"
+  },
+  {
+   "en": "Power Shot Nature Burst DMG Multiplier",
+   "zh-TW": "強化射擊自然爆發傷害倍率",
+   "ja": "強化射撃自然爆発ダメージ倍率",
+   "ko": "강력한 사격 자연 폭발 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Prank Master",
+   "zh-TW": "鬧劇專家",
+   "ja": "トラブルメーカー",
+   "ko": "혼란 유발자",
+   "source": "tables"
+  },
+  {
+   "en": "Prey Checklist",
+   "zh-TW": "獵物清點",
+   "ja": "獲物のチェック",
+   "ko": "사냥감 청소",
+   "source": "tables"
+  },
+  {
+   "en": "Prominent Edge",
+   "zh-TW": "顯鋒",
+   "ja": "顕鋒",
+   "ko": "드러난 칼날",
+   "source": "tables"
+  },
+  {
+   "en": "Promotion I",
+   "zh-TW": "精英化I",
+   "ja": "昇進・Ⅰ",
+   "ko": "정예화 I",
+   "source": "tables"
+  },
+  {
+   "en": "Promotion II",
+   "zh-TW": "精英化II",
+   "ja": "昇進・Ⅱ",
+   "ko": "정예화 II",
+   "source": "tables"
+  },
+  {
+   "en": "Promotion III",
+   "zh-TW": "精英化III",
+   "ja": "昇進・Ⅲ",
+   "ko": "정예화 III",
+   "source": "tables"
+  },
+  {
+   "en": "Promotion IV",
+   "zh-TW": "精英化IV",
+   "ja": "昇進・Ⅳ",
+   "ko": "정예화 IV",
+   "source": "tables"
+  },
+  {
+   "en": "Proof of Existence",
+   "zh-TW": "存在的證明",
+   "ja": "存在の証明",
+   "ko": "존재의 증명",
+   "source": "tables"
+  },
+  {
+   "en": "Protection",
+   "zh-TW": "庇護效果",
+   "ja": "加護効果",
+   "ko": "비호 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Protocol Stash",
+   "zh-TW": "協議儲存箱",
+   "ja": "協約貯蔵箱",
+   "ko": "프로토콜 저장함",
+   "source": "tables"
+  },
+  {
+   "en": "Protocol α: Breach",
+   "zh-TW": "協議α·突破",
+   "ja": "協約α：突破",
+   "ko": "프로토콜α · 돌파",
+   "source": "tables"
+  },
+  {
+   "en": "Protocol ε: 70.41K",
+   "zh-TW": "協議ε·70.41κ",
+   "ja": "協約ε：70.41κ",
+   "ko": "프로토콜ε · 70.41κ",
+   "source": "tables"
+  },
+  {
+   "en": "Protocol ω: Strike",
+   "zh-TW": "協議ω·雷擊",
+   "ja": "協約ω：雷撃",
+   "ko": "프로토콜ω · 뇌격",
+   "source": "tables"
+  },
+  {
+   "en": "Protodisk",
+   "zh-TW": "協議圓盤",
+   "ja": "協約ディスク",
+   "ko": "프로토콜 디스크",
+   "source": "tables"
+  },
+  {
+   "en": "Protoset",
+   "zh-TW": "協議圓盤組",
+   "ja": "協約ディスクセット",
+   "ko": "프로토콜 디스크 세트",
+   "source": "tables"
+  },
+  {
+   "en": "Proxy's Patronage",
+   "zh-TW": "代理人的眷顧",
+   "ja": "代理人の気遣い",
+   "ko": "대리인의 가호",
+   "source": "tables"
+  },
+  {
+   "en": "Pugilist of the Stockade",
+   "zh-TW": "拳出山林",
+   "ja": "山林より拳出ずる",
+   "ko": "숲을 가르는 주먹",
+   "source": "tables"
+  },
+  {
+   "en": "Pulser Labs",
+   "zh-TW": "脈衝式",
+   "ja": "パルス式",
+   "ko": "펄스식",
+   "source": "tables"
+  },
+  {
+   "en": "Purification Unit",
+   "zh-TW": "提純機",
+   "ja": "精製機",
+   "ko": "정제기",
+   "source": "tables"
+  },
+  {
+   "en": "Purrchena",
+   "zh-TW": "噗切娜",
+   "ja": "プチエナ",
+   "ko": "푸치나",
+   "source": "tables"
+  },
+  {
+   "en": "Purry Big Feline! RAWR!",
+   "zh-TW": "我們的大菲林！來襲！",
+   "ja": "でっかいフェリーン！襲来！",
+   "ko": "우리의 거대한 필라인이 왔다!",
+   "source": "tables"
+  },
+  {
+   "en": "Pursuit of Memories",
+   "zh-TW": "追憶之旅",
+   "ja": "追憶の旅",
+   "ko": "기억을 찾는 여정",
+   "source": "tables"
+  },
+  {
+   "en": "Qi Thrice-Refined",
+   "zh-TW": "氣煉三絕",
+   "ja": "気功三絶",
+   "ko": "삼절의 극의",
+   "source": "tables"
+  },
+  {
+   "en": "Qingbo",
+   "zh-TW": "清波",
+   "ja": "清波",
+   "ko": "청파",
+   "source": "tables"
+  },
+  {
+   "en": "Qingbo Meditation",
+   "zh-TW": "清波修煉法",
+   "ja": "清波流の修行",
+   "ko": "청파 수련법",
+   "source": "tables"
+  },
+  {
+   "en": "Qingbo Triplex",
+   "zh-TW": "清波三藝",
+   "ja": "清波三芸",
+   "ko": "청파 삼형",
+   "source": "tables"
+  },
+  {
+   "en": "Quadrant Fitting Fluid",
+   "zh-TW": "象限擬合液",
+   "ja": "象限適合液",
+   "ko": "정합용 유체",
+   "source": "tables"
+  },
+  {
+   "en": "Quencher",
+   "zh-TW": "淬火者",
+   "ja": "鍛冶師",
+   "ko": "불꽃의 시험",
+   "source": "tables"
+  },
+  {
+   "en": "Quick, Gentle Steps",
+   "zh-TW": "輕盈腳步",
+   "ja": "軽やかステップ",
+   "ko": "가벼운 발걸음",
+   "source": "tables"
+  },
+  {
+   "en": "Rampant Thorns",
+   "zh-TW": "野棘叢生",
+   "ja": "荒れ狂うトゲ",
+   "ko": "가시덤불 쇄도",
+   "source": "tables"
+  },
+  {
+   "en": "Rao Zijun",
+   "zh-TW": "饒梓君",
+   "ja": "饶梓君",
+   "ko": "Rao Zijun",
+   "source": "tables"
+  },
+  {
+   "en": "Rapid Ascent",
+   "zh-TW": "扶搖",
+   "ja": "フーヤオ",
+   "ko": "부요",
+   "source": "tables"
+  },
+  {
+   "en": "Rapid Fire Akimbo",
+   "zh-TW": "多重連射",
+   "ja": "多重連射",
+   "ko": "다중 연사",
+   "source": "tables"
+  },
+  {
+   "en": "Rare Fin Chance",
+   "zh-TW": "釣起珍鱗機率",
+   "ja": "珍鱗釣上確率",
+   "ko": "진귀한 린수를 낚을 확률",
+   "source": "tables"
+  },
+  {
+   "en": "Rational Farewell",
+   "zh-TW": "理性告別",
+   "ja": "合理的決別",
+   "ko": "이성적인 작별",
+   "source": "tables"
+  },
+  {
+   "en": "Re-Ignited Oath",
+   "zh-TW": "重燃誓約",
+   "ja": "誓約の炎",
+   "ko": "다시 불타오르는 맹세",
+   "source": "tables"
+  },
+  {
+   "en": "Re-Ignition",
+   "zh-TW": "復燃",
+   "ja": "再燃",
+   "ko": "부활의 불씨",
+   "source": "tables"
+  },
+  {
+   "en": "Reactor Crucible",
+   "zh-TW": "反應池",
+   "ja": "化学反応炉",
+   "ko": "반응기",
+   "source": "tables"
+  },
+  {
+   "en": "Realspace Stasis",
+   "zh-TW": "現實靜滯",
+   "ja": "空間静止",
+   "ko": "현실 정지",
+   "source": "tables"
+  },
+  {
+   "en": "Rebecca Hanssen",
+   "zh-TW": "Rebecca Hanssen",
+   "ja": "Rebecca Hanssen",
+   "ko": "Rebecca Hanssen",
+   "source": "tables"
+  },
+  {
+   "en": "Rebellious Mood",
+   "zh-TW": "叛逆心情",
+   "ja": "反逆テンション",
+   "ko": "거스르는 마음",
+   "source": "tables"
+  },
+  {
+   "en": "Red Bolete",
+   "zh-TW": "中紅柱狀菌",
+   "ja": "紅色茸",
+   "ko": "보통 붉은 기둥 버섯",
+   "source": "tables"
+  },
+  {
+   "en": "Reduce and Thicken",
+   "zh-TW": "勾芡",
+   "ja": "とろみづけ",
+   "ko": "전분 풀기",
+   "source": "tables"
+  },
+  {
+   "en": "Reentry Control",
+   "zh-TW": "再入控制",
+   "ja": "バック・イン・コントロール",
+   "ko": "재진입 통제 시스템",
+   "source": "tables"
+  },
+  {
+   "en": "Refining Unit",
+   "zh-TW": "精煉爐",
+   "ja": "精錬炉",
+   "ko": "정련로",
+   "source": "tables"
+  },
+  {
+   "en": "Reflection of Authority",
+   "zh-TW": "權能映射",
+   "ja": "権能映写",
+   "ko": "권능 반영",
+   "source": "tables"
+  },
+  {
+   "en": "Rejuvenation",
+   "zh-TW": "萬物更新",
+   "ja": "万象一新",
+   "ko": "만물의 재구성",
+   "source": "tables"
+  },
+  {
+   "en": "Relay Tower",
+   "zh-TW": "中繼器",
+   "ja": "中継タワー",
+   "ko": "중계기",
+   "source": "tables"
+  },
+  {
+   "en": "Reserve Hoard",
+   "zh-TW": "財寶儲備",
+   "ja": "お宝たんまり",
+   "ko": "무한한 재보",
+   "source": "tables"
+  },
+  {
+   "en": "Resilient Defense",
+   "zh-TW": "堅韌防線",
+   "ja": "不屈の防壁",
+   "ko": "강인한 방어선",
+   "source": "tables"
+  },
+  {
+   "en": "Resplendent Spectrum",
+   "zh-TW": "絢麗異彩",
+   "ja": "超爆盛れカラフル",
+   "ko": "찬란한 색채",
+   "source": "tables"
+  },
+  {
+   "en": "Restless Watch",
+   "zh-TW": "不息巡行",
+   "ja": "気巡らす",
+   "ko": "영원한 순례",
+   "source": "tables"
+  },
+  {
+   "en": "Rhiannon Moushall",
+   "zh-TW": "Rhiannon Moushall",
+   "ja": "Rhiannon Moushall",
+   "ko": "Rhiannon Moushall",
+   "source": "tables"
+  },
+  {
+   "en": "Rhodes Island",
+   "zh-TW": "羅德島",
+   "ja": "ロドス・アイランド",
+   "ko": "로도스 아일랜드",
+   "source": "tables"
+  },
+  {
+   "en": "Rigid Interdiction",
+   "zh-TW": "剛性阻擊",
+   "ja": "強制ブロック",
+   "ko": "강력한 저지",
+   "source": "tables"
+  },
+  {
+   "en": "Riot Bringer",
+   "zh-TW": "呼風喚浪",
+   "ja": "嵐を呼ぶ娘",
+   "ko": "풍랑의 주재자",
+   "source": "tables"
+  },
+  {
+   "en": "Risa Mei",
+   "zh-TW": "Risa Mei",
+   "ja": "Risa Mei",
+   "ko": "Risa Mei",
+   "source": "tables"
+  },
+  {
+   "en": "River's Daughter",
+   "zh-TW": "河流的女兒",
+   "ja": "水の申し子",
+   "ko": "강에서 태어난 소녀",
+   "source": "tables"
+  },
+  {
+   "en": "RIVER, TO ME!",
+   "zh-TW": "河水，助我！",
+   "ja": "川よ、俺様に従え！",
+   "ko": "야, 강물! 도와줘!",
+   "source": "tables"
+  },
+  {
+   "en": "Rock Blossom",
+   "zh-TW": "岩中花朵",
+   "ja": "岩の中のお花",
+   "ko": "바위틈의 꽃",
+   "source": "tables"
+  },
+  {
+   "en": "Rocky Whispers",
+   "zh-TW": "岩石的輕語",
+   "ja": "岩の囁き",
+   "ko": "바위의 속삭임",
+   "source": "tables"
+  },
+  {
+   "en": "Rogue Wave DMG Multiplier",
+   "zh-TW": "巨浪傷害倍率",
+   "ja": "大波ダメージ倍率",
+   "ko": "거대한 파도 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Rogue Wave Stagger",
+   "zh-TW": "巨浪失衡值",
+   "ja": "大波ブレイク値",
+   "ko": "거대한 파도의 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "ROLLING CUT!",
+   "zh-TW": "滾刀切！",
+   "ja": "乱切り！",
+   "ko": "돌려가며 썰기!",
+   "source": "tables"
+  },
+  {
+   "en": "Rossi",
+   "zh-TW": "洛西",
+   "ja": "ロッシ",
+   "ko": "로시",
+   "source": "tables"
+  },
+  {
+   "en": "Roving MSGR",
+   "zh-TW": "巡行信使",
+   "ja": "遍歴トランスポーター",
+   "ko": "순행 전달자",
+   "source": "tables"
+  },
+  {
+   "en": "Ruby Bolete",
+   "zh-TW": "重紅柱狀菌",
+   "ja": "深紅茸",
+   "ko": "진한 붉은 기둥 버섯",
+   "source": "tables"
+  },
+  {
+   "en": "Ruination",
+   "zh-TW": "摧破",
+   "ja": "摧破",
+   "ko": "업보 파괴",
+   "source": "tables"
+  },
+  {
+   "en": "Salty or Mild",
+   "zh-TW": "嚐嚐鹹淡",
+   "ja": "味見",
+   "ko": "간 맞추기",
+   "source": "tables"
+  },
+  {
+   "en": "Samifjod Fletching",
+   "zh-TW": "薩米製箭工藝",
+   "ja": "サーミの矢作り",
+   "ko": "사미의 화살 제작 기술",
+   "source": "tables"
+  },
+  {
+   "en": "Sanctuary of Ink",
+   "zh-TW": "丹青渡",
+   "ja": "丹青渡",
+   "ko": "단청도",
+   "source": "notice 9560"
+  },
+  {
+   "en": "Sanguine Absolution",
+   "zh-TW": "歃血滌罪",
+   "ja": "血の償い",
+   "ko": "피의 속죄",
+   "source": "tables"
+  },
+  {
+   "en": "Sanguine Convention",
+   "zh-TW": "予血同在",
+   "ja": "分け与えし血",
+   "ko": "피로 맺은 결속",
+   "source": "tables"
+  },
+  {
+   "en": "Sanguine Downpour",
+   "zh-TW": "猩紅墜雨",
+   "ja": "降り注ぐ深紅",
+   "ko": "선혈의 비",
+   "source": "tables"
+  },
+  {
+   "en": "Sankta",
+   "zh-TW": "薩科塔",
+   "ja": "サンクタ",
+   "ko": "산크타",
+   "source": "tables"
+  },
+  {
+   "en": "Sanshi",
+   "zh-TW": "三石",
+   "ja": "三石",
+   "ko": "Sanshi",
+   "source": "tables"
+  },
+  {
+   "en": "SAR Professional",
+   "zh-TW": "救援專家",
+   "ja": "救援専門家",
+   "ko": "구조 전문가",
+   "source": "tables"
+  },
+  {
+   "en": "Sarkaz",
+   "zh-TW": "薩卡茲",
+   "ja": "サルカズ",
+   "ko": "살카즈",
+   "source": "tables"
+  },
+  {
+   "en": "Sasaki Rico",
+   "zh-TW": "佐佐木李子",
+   "ja": "佐々木李子",
+   "ko": "사사키 리코",
+   "source": "tables"
+  },
+  {
+   "en": "Saturated Defense",
+   "zh-TW": "飽和性防禦",
+   "ja": "限界防御",
+   "ko": "포화성 방어",
+   "source": "tables"
+  },
+  {
+   "en": "Savra",
+   "zh-TW": "薩弗拉",
+   "ja": "サヴラ",
+   "ko": "사브라",
+   "source": "tables"
+  },
+  {
+   "en": "Scars of the Forge",
+   "zh-TW": "熔火灼痕",
+   "ja": "灼熱焔痕",
+   "ko": "불꽃에 그을린 상흔",
+   "source": "tables"
+  },
+  {
+   "en": "Scorching Fangs",
+   "zh-TW": "灼熱獠牙",
+   "ja": "灼熱の牙",
+   "ko": "불타는 송곳니",
+   "source": "tables"
+  },
+  {
+   "en": "Scorching Heart",
+   "zh-TW": "灼心",
+   "ja": "灼熱の心",
+   "ko": "불꽃의 심장",
+   "source": "tables"
+  },
+  {
+   "en": "Seal Duration (s)",
+   "zh-TW": "封印時間（秒）",
+   "ja": "封印時間（秒）",
+   "ko": "봉인 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Sealing Sequence",
+   "zh-TW": "鎖閉序列",
+   "ja": "封印配列",
+   "ko": "봉인 시퀀스",
+   "source": "tables"
+  },
+  {
+   "en": "Seed-Picking Unit",
+   "zh-TW": "採種機",
+   "ja": "採種機",
+   "ko": "씨앗 추출기",
+   "source": "tables"
+  },
+  {
+   "en": "Seek and Hunt",
+   "zh-TW": "循跡逐獵",
+   "ja": "追跡捕獲",
+   "ko": "추적 사냥",
+   "source": "tables"
+  },
+  {
+   "en": "Seeker of Dark Lung",
+   "zh-TW": "探驪",
+   "ja": "探龍",
+   "ko": "검은 추적자",
+   "source": "tables"
+  },
+  {
+   "en": "Seethe",
+   "zh-TW": "沸騰",
+   "ja": "烈火",
+   "ko": "열화",
+   "source": "tables"
+  },
+  {
+   "en": "Seething Blood",
+   "zh-TW": "沸血",
+   "ja": "ざわめく血",
+   "ko": "끓어오르는 피",
+   "source": "tables"
+  },
+  {
+   "en": "Seething Wolfblood",
+   "zh-TW": "沸騰狼血",
+   "ja": "滾る狼血",
+   "ko": "끓어오르는 늑대의 피",
+   "source": "tables"
+  },
+  {
+   "en": "Self Refinement",
+   "zh-TW": "修身",
+   "ja": "修行",
+   "ko": "수신",
+   "source": "tables"
+  },
+  {
+   "en": "Sense and Response",
+   "zh-TW": "一感一應",
+   "ja": "一感一応",
+   "ko": "감응",
+   "source": "tables"
+  },
+  {
+   "en": "Separating Unit",
+   "zh-TW": "拆解機",
+   "ja": "解体機",
+   "ko": "분해기",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 1 DMG Multiplier",
+   "zh-TW": "第一段傷害倍率",
+   "ja": "1段目ダメージ倍率",
+   "ko": "제1단계 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 1 Slash DMG Multiplier",
+   "zh-TW": "第一段斬擊傷害倍率",
+   "ja": "斬撃1段目のダメージ倍率",
+   "ko": "제1단계 베기 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 1 SP Recovery",
+   "zh-TW": "第一段技力回復",
+   "ja": "1段目のSP回復量",
+   "ko": "제1단계 스킬 게이지 회복",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 1 Stagger",
+   "zh-TW": "第一段失衡值",
+   "ja": "1段目ブレイク値",
+   "ko": "제1단계 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 1 Ultimate Energy Gain",
+   "zh-TW": "第一段獲得終結技能量",
+   "ja": "1段目の必殺チャージ回復量",
+   "ko": "제1단계 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 2 DMG Multiplier",
+   "zh-TW": "第二段傷害倍率",
+   "ja": "2段目ダメージ倍率",
+   "ko": "제2단계 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 2 Slash DMG Multiplier",
+   "zh-TW": "第二段斬擊傷害倍率",
+   "ja": "斬撃2段目のダメージ倍率",
+   "ko": "제2단계 베기 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 2 SP Recovery",
+   "zh-TW": "第二段技力回復",
+   "ja": "2段目のSP回復量",
+   "ko": "제2단계 스킬 게이지 회복",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 2 Stagger",
+   "zh-TW": "第二段失衡值",
+   "ja": "2段目ブレイク値",
+   "ko": "제2단계 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 2 Ultimate Energy Gain",
+   "zh-TW": "第二段獲得終結技能量",
+   "ja": "2段目の必殺チャージ回復量",
+   "ko": "제2단계 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 3 DMG Multiplier",
+   "zh-TW": "第三段傷害倍率",
+   "ja": "3段目ダメージ倍率",
+   "ko": "제3단계 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 3 SP Recovery",
+   "zh-TW": "第三段技力回復",
+   "ja": "3段目のSP回復量",
+   "ko": "제3단계 스킬 게이지 회복",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 3 Stagger",
+   "zh-TW": "第三段失衡值",
+   "ja": "3段目ブレイク値",
+   "ko": "제3단계 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "SEQ 4 DMG Multiplier",
+   "zh-TW": "第四段傷害倍率",
+   "ja": "4段目ダメージ倍率",
+   "ko": "제4단계 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Sergey Ponomaryov",
+   "zh-TW": "Sergey Ponomaryov",
+   "ja": "Sergey Ponomaryov",
+   "ko": "Sergey Ponomaryov",
+   "source": "tables"
+  },
+  {
+   "en": "Servant of the Wildlands",
+   "zh-TW": "荒野的徒從",
+   "ja": "荒野の修響者",
+   "ko": "황무지의 수행자",
+   "source": "tables"
+  },
+  {
+   "en": "Seš'qa",
+   "zh-TW": "塞什卡",
+   "ja": "セシュカ",
+   "ko": "세쉬카",
+   "source": "tables"
+  },
+  {
+   "en": "Sheena May",
+   "zh-TW": "Sheena May",
+   "ja": "Sheena May",
+   "ko": "Sheena May",
+   "source": "tables"
+  },
+  {
+   "en": "Shield Conversion Ratio (HP)",
+   "zh-TW": "護盾轉化比例（生命值）",
+   "ja": "シールド変換割合（HP）",
+   "ko": "보호 전환 비율(생명력)",
+   "source": "tables"
+  },
+  {
+   "en": "Shield Duration (s)",
+   "zh-TW": "護盾持續時間（秒）",
+   "ja": "シールド持続時間（秒）",
+   "ko": "보호 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Shield Increase per Defense",
+   "zh-TW": "每點防禦力提升的護盾值",
+   "ja": "防御力1ごとのシールド値UP",
+   "ko": "방어력 1포인트마다 증가하는 보호 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Shield of Talos-II",
+   "zh-TW": "塔衛二之盾",
+   "ja": "タロⅡの盾",
+   "ko": "탈로스 II의 방패",
+   "source": "tables"
+  },
+  {
+   "en": "Shield Up Duration (s)",
+   "zh-TW": "立盾狀態持續時間（秒）",
+   "ja": "盾状態持続時間（秒）",
+   "ko": "방패를 든 상태 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Shield Up Duration After Successful Block (s)",
+   "zh-TW": "格擋成功後立盾狀態持續時間（秒）",
+   "ja": "ブロック成功後の盾状態持続時間（秒）",
+   "ko": "공격을 막은 후의 방패를 든 상태 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Shieldguard Banner, Forward",
+   "zh-TW": "盾衛旗隊，上前",
+   "ja": "盾兵旗隊、進め",
+   "ko": "방패병 부대, 전진",
+   "source": "tables"
+  },
+  {
+   "en": "ShiHaku",
+   "zh-TW": "皛四白",
+   "ja": "皛四白",
+   "ko": "ShiHaku",
+   "source": "tables"
+  },
+  {
+   "en": "Shiraishi Haruka",
+   "zh-TW": "白石晴香",
+   "ja": "白石晴香",
+   "ko": "시라이시 하루카",
+   "source": "tables"
+  },
+  {
+   "en": "Shooting DMG Multiplier",
+   "zh-TW": "射擊傷害倍率",
+   "ja": "射撃ダメージ倍率",
+   "ko": "사격 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Shot Stagger",
+   "zh-TW": "射擊失衡值",
+   "ja": "射撃ブレイク値",
+   "ko": "사격 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "shoushouwong",
+   "zh-TW": "獸獸王",
+   "ja": "兽兽王",
+   "ko": "shoushouwong",
+   "source": "tables"
+  },
+  {
+   "en": "Shredding Unit",
+   "zh-TW": "粉碎機",
+   "ja": "粉砕機",
+   "ko": "분쇄기",
+   "source": "tables"
+  },
+  {
+   "en": "Shu Uchida",
+   "zh-TW": "Shu Uchida",
+   "ja": "Shu Uchida",
+   "ko": "Shu Uchida",
+   "source": "tables"
+  },
+  {
+   "en": "Si",
+   "zh-TW": "祀",
+   "ja": "スー",
+   "ko": "사",
+   "source": "tables"
+  },
+  {
+   "en": "Signature Gun Kata",
+   "zh-TW": "獨門射擊法",
+   "ja": "自己流射撃法",
+   "ko": "독자적인 사격술",
+   "source": "tables"
+  },
+  {
+   "en": "Sincere Wake",
+   "zh-TW": "誠摯告別",
+   "ja": "心を込めたお別れ",
+   "ko": "진심 어린 작별",
+   "source": "tables"
+  },
+  {
+   "en": "Sketches of Lost Heirlooms",
+   "zh-TW": "尋遺散記",
+   "ja": "拾遺散記",
+   "ko": "과거를 찾아서",
+   "source": "notice 0758"
+  },
+  {
+   "en": "Slash Base DMG Multiplier",
+   "zh-TW": "斬擊基礎傷害倍率",
+   "ja": "斬撃基礎ダメージ倍率",
+   "ko": "베기 기초 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Slash Multiplier",
+   "zh-TW": "斬擊傷害倍率",
+   "ja": "斬撃ダメージ倍率",
+   "ko": "베기 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Slash Stagger",
+   "zh-TW": "斬擊失衡值",
+   "ja": "斬撃ブレイク値",
+   "ko": "베기 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Slashing Edge",
+   "zh-TW": "斬鋒",
+   "ja": "斬鋒",
+   "ko": "칼날 베기",
+   "source": "tables"
+  },
+  {
+   "en": "Slow",
+   "zh-TW": "緩速效果",
+   "ja": "スロー効果",
+   "ko": "감속 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Smiting Tempest",
+   "zh-TW": "萬鈞風雷",
+   "ja": "風雷轟轟",
+   "ko": "심판의 폭풍",
+   "source": "tables"
+  },
+  {
+   "en": "Smouldering Fire",
+   "zh-TW": "焚滅",
+   "ja": "焼滅",
+   "ko": "불타오르는 화염",
+   "source": "tables"
+  },
+  {
+   "en": "Snowshine",
+   "zh-TW": "晝雪",
+   "ja": "スノーシャイン",
+   "ko": "스노우샤인",
+   "source": "tables"
+  },
+  {
+   "en": "Soar to the Stars",
+   "zh-TW": "見天河",
+   "ja": "天河昇",
+   "ko": "견천하",
+   "source": "tables"
+  },
+  {
+   "en": "Soaring Break",
+   "zh-TW": "破飛霞",
+   "ja": "飛霞破り",
+   "ko": "파비하",
+   "source": "tables"
+  },
+  {
+   "en": "Solid-Gas Transmuting Unit",
+   "zh-TW": "固氣轉化機",
+   "ja": "ガス固体転換機",
+   "ko": "고체 · 기체 전환기",
+   "source": "tables"
+  },
+  {
+   "en": "Song Ha-rim",
+   "zh-TW": "宋河琳",
+   "ja": "송하림",
+   "ko": "송하림",
+   "source": "tables"
+  },
+  {
+   "en": "SP Recovery",
+   "zh-TW": "回復技力",
+   "ja": "SP回復量",
+   "ko": "스킬 게이지 회복",
+   "source": "tables"
+  },
+  {
+   "en": "SP Recovery",
+   "zh-TW": "技力回復",
+   "ja": "SP回復量",
+   "source": "tables, several ({'SP回復量': 36, 'SP回復': 1}); skill value name: 36 of the 37 ids, all skill value rows, give SP回復量; the other is SP回復",
+   "ko": "스킬 게이지 회복"
+  },
+  {
+   "en": "SP Recovery by Consuming 1 Infliction Stack",
+   "zh-TW": "消耗一層附著時回復技力",
+   "ja": "付着1段階消費時のSP回復量",
+   "ko": "부착 1스택 소모 시 회복하는 스킬 게이지",
+   "source": "tables"
+  },
+  {
+   "en": "SP Recovery by Consuming 1 Vulnerability Stack",
+   "zh-TW": "消耗一層破防時技力回復",
+   "ja": "クラッシュ1段階消費時のSP回復量",
+   "ko": "방어 불능 1스택 소모 시 회복하는 스킬 게이지",
+   "source": "tables"
+  },
+  {
+   "en": "SP Recovery by Consuming 2 Infliction Stacks",
+   "zh-TW": "消耗二層附著時回復技力",
+   "ja": "付着2段階消費時のSP回復量",
+   "ko": "부착 2스택 소모 시 회복하는 스킬 게이지",
+   "source": "tables"
+  },
+  {
+   "en": "SP Recovery by Consuming 2 Vulnerability Stacks",
+   "zh-TW": "消耗二層破防時技力回復",
+   "ja": "クラッシュ2段階消費時のSP回復量",
+   "ko": "방어 불능 2스택 소모 시 회복하는 스킬 게이지",
+   "source": "tables"
+  },
+  {
+   "en": "SP Recovery by Consuming 3 Infliction Stacks",
+   "zh-TW": "消耗三層附著時回復技力",
+   "ja": "付着3段階消費時のSP回復量",
+   "ko": "부착 3스택 소모 시 회복하는 스킬 게이지",
+   "source": "tables"
+  },
+  {
+   "en": "SP Recovery by Consuming 3 Vulnerability Stacks",
+   "zh-TW": "消耗三層破防時技力回復",
+   "ja": "クラッシュ3段階消費時のSP回復量",
+   "ko": "방어 불능 3스택 소모 시 회복하는 스킬 게이지",
+   "source": "tables"
+  },
+  {
+   "en": "SP Recovery by Consuming 4 Infliction Stacks",
+   "zh-TW": "消耗四層附著時回復技力",
+   "ja": "付着4段階消費時のSP回復量",
+   "ko": "부착 4스택 소모 시 회복하는 스킬 게이지",
+   "source": "tables"
+  },
+  {
+   "en": "SP Recovery by Consuming 4 Vulnerability Stacks",
+   "zh-TW": "消耗四層破防時技力回復",
+   "ja": "クラッシュ4段階消費時のSP回復量",
+   "ko": "방어 불능 4스택 소모 시 회복하는 스킬 게이지",
+   "source": "tables"
+  },
+  {
+   "en": "SP Recovery per SEQ",
+   "zh-TW": "每段回復技力",
+   "ja": "1段ごとのSP回復量",
+   "ko": "단계별 스킬 게이지 회복",
+   "source": "tables"
+  },
+  {
+   "en": "SP Return",
+   "zh-TW": "技力返還",
+   "ja": "SP返還量",
+   "ko": "스킬 게이지 반환",
+   "source": "tables"
+  },
+  {
+   "en": "SP Return",
+   "zh-TW": "返還技力",
+   "ja": "SP返還量",
+   "source": "tables, several ({'SP返還量': 60, '戦技ポイント（SP）の返還': 3}); skill value name: 60 of the 63 ids give SP返還量; three give 戦技ポイント（SP）の返還",
+   "ko": "스킬 게이지 반환"
+  },
+  {
+   "en": "SP Return per Whirlpool",
+   "zh-TW": "每處渦流技力返還",
+   "ja": "湍水1つごとのSP返還量",
+   "ko": "와류마다 스킬 게이지 반환",
+   "source": "tables"
+  },
+  {
+   "en": "Special Blend",
+   "zh-TW": "自製醬料",
+   "ja": "自家製ソース",
+   "ko": "자체 제작 소스",
+   "source": "tables"
+  },
+  {
+   "en": "Special Mail",
+   "zh-TW": "特別信件",
+   "ja": "特別な手紙",
+   "ko": "특별한 편지",
+   "source": "tables"
+  },
+  {
+   "en": "Specified Research Subject",
+   "zh-TW": "指定研究對象",
+   "ja": "指定研究対象",
+   "ko": "지정 연구 대상",
+   "source": "tables"
+  },
+  {
+   "en": "Speed Battler",
+   "zh-TW": "速戰速決",
+   "ja": "短期決戦",
+   "ko": "속전속결",
+   "source": "tables"
+  },
+  {
+   "en": "Spiritual Cultivation",
+   "zh-TW": "養性",
+   "ja": "養心",
+   "ko": "양성",
+   "source": "tables"
+  },
+  {
+   "en": "Spring and Autumn as Ink",
+   "zh-TW": "春秋作墨",
+   "ja": "春秋、墨と為す",
+   "ko": "세월을 먹 삼아",
+   "source": "tables"
+  },
+  {
+   "en": "Springvolt Galore",
+   "zh-TW": "霆曦宴夜",
+   "ja": "春雷に捧ぐ宴",
+   "ko": "번개의 향연",
+   "source": "tables"
+  },
+  {
+   "en": "Sprinkler",
+   "zh-TW": "灑水機",
+   "ja": "スプリンクラー",
+   "ko": "스프링클러",
+   "source": "tables"
+  },
+  {
+   "en": "SQUAD! ON ME!",
+   "zh-TW": "小隊，集結！",
+   "ja": "全員、集合！",
+   "ko": "소대, 집합!",
+   "source": "tables"
+  },
+  {
+   "en": "Stab Attack Total DMG Multiplier",
+   "zh-TW": "戳擊總傷害倍率",
+   "ja": "突き刺し総ダメージ倍率",
+   "ko": "찌르기 총 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Stack Overflow",
+   "zh-TW": "堆疊溢位",
+   "ja": "スタックオーバーフロー",
+   "ko": "스택 오버플로",
+   "source": "tables"
+  },
+  {
+   "en": "Stage Pyrotechnics DMG Multiplier",
+   "zh-TW": "舞台焰火傷害倍率",
+   "ja": "ステージ花火ダメージ倍率",
+   "ko": "무대 위 특수 효과 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Stagger",
+   "zh-TW": "失衡值",
+   "ja": "ブレイク値",
+   "ko": "불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Stagger per SEQ",
+   "zh-TW": "每段失衡值",
+   "ja": "1段ごとのブレイク値",
+   "ko": "단계별 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Stanza of Memorials",
+   "zh-TW": "悼亡詩",
+   "ja": "弔いの詩",
+   "ko": "망자의 노래",
+   "source": "tables"
+  },
+  {
+   "en": "Starflow Illuminated",
+   "zh-TW": "星河徹明",
+   "ja": "星河澄明",
+   "ko": "맑게 빛나는 은하수",
+   "source": "tables"
+  },
+  {
+   "en": "Starry Boost of 1st Magnitude",
+   "zh-TW": "一等星的鼓舞",
+   "ja": "一等星の応援",
+   "ko": "일등성의 격려",
+   "source": "tables"
+  },
+  {
+   "en": "Starry Heart Throb",
+   "zh-TW": "怦然星動",
+   "ja": "キラめきハート",
+   "ko": "반짝이는 하트",
+   "source": "tables"
+  },
+  {
+   "en": "Stars Shifted",
+   "zh-TW": "星移",
+   "ja": "星霜",
+   "ko": "별의 궤적",
+   "source": "tables"
+  },
+  {
+   "en": "Staying in the Zone",
+   "zh-TW": "心流時間",
+   "ja": "集中タイム",
+   "ko": "몰입의 시간",
+   "source": "tables"
+  },
+  {
+   "en": "Steel Oath Duration",
+   "zh-TW": "鐵誓持續時間",
+   "ja": "鉄誓持続時間",
+   "ko": "철의 서약 지속 시간",
+   "source": "tables"
+  },
+  {
+   "en": "Steel-Hardened Veteran",
+   "zh-TW": "百戰成鋼",
+   "ja": "百戦錬磨",
+   "ko": "무쇠의 전사",
+   "source": "tables"
+  },
+  {
+   "en": "Stephanie Southerland",
+   "zh-TW": "Stephanie Southerland",
+   "ja": "Stephanie Southerland",
+   "ko": "Stephanie Southerland",
+   "source": "tables"
+  },
+  {
+   "en": "Stern Crackdown",
+   "zh-TW": "冷面無情",
+   "ja": "冷酷無比",
+   "ko": "냉정",
+   "source": "tables"
+  },
+  {
+   "en": "Storm Blitz",
+   "zh-TW": "流霆逐風",
+   "ja": "風を追う流電",
+   "ko": "바람을 쫓는 우레",
+   "source": "tables"
+  },
+  {
+   "en": "Storm of Transformation",
+   "zh-TW": "風雲之變",
+   "ja": "風雲一変",
+   "ko": "격변",
+   "source": "tables"
+  },
+  {
+   "en": "Storm Region",
+   "zh-TW": "暴風雪地帶",
+   "ja": "吹雪地帯",
+   "ko": "눈보라 지대",
+   "source": "tables"
+  },
+  {
+   "en": "Strength",
+   "zh-TW": "力量",
+   "ja": "筋力",
+   "ko": "힘",
+   "source": "tables"
+  },
+  {
+   "en": "Stress Testing",
+   "zh-TW": "壓力測試",
+   "ja": "ストレステスト",
+   "ko": "스트레스 테스트",
+   "source": "tables"
+  },
+  {
+   "en": "Striker",
+   "zh-TW": "突擊",
+   "ja": "突撃",
+   "ko": "스트라이커",
+   "source": "tables"
+  },
+  {
+   "en": "Study of Muscles and Bones",
+   "zh-TW": "工於筋骨",
+   "ja": "骨力を宿す",
+   "ko": "근골을 벼려내어",
+   "source": "tables"
+  },
+  {
+   "en": "Subconscious Act",
+   "zh-TW": "下意識",
+   "ja": "無意識",
+   "ko": "무의식",
+   "source": "tables"
+  },
+  {
+   "en": "Subduer of Evil",
+   "zh-TW": "伏魔",
+   "ja": "伏魔",
+   "ko": "복마",
+   "source": "tables"
+  },
+  {
+   "en": "Suffering's End",
+   "zh-TW": "苦難的盡頭",
+   "ja": "苦難の果",
+   "ko": "고난의 끝",
+   "source": "tables"
+  },
+  {
+   "en": "Sunderblade Duration (s)",
+   "zh-TW": "青霆劍存在時間（秒）",
+   "ja": "蒼雷剣の存在する時間（秒）",
+   "ko": "청뢰검이 존재하는 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Sunderblade Limit",
+   "zh-TW": "青霆劍數量限制",
+   "ja": "蒼雷剣数量上限",
+   "ko": "청뢰검 수량 제한",
+   "source": "tables"
+  },
+  {
+   "en": "Sundered Prince",
+   "zh-TW": "破碎君王",
+   "ja": "破砕君主",
+   "ko": "분쇄의 군주",
+   "source": "tables"
+  },
+  {
+   "en": "Sundering Steel",
+   "zh-TW": "鋼鐵餘音",
+   "ja": "鋼鉄余音",
+   "ko": "강철의 여운",
+   "source": "tables"
+  },
+  {
+   "en": "Super Perfect Status",
+   "zh-TW": "滿分狀態",
+   "ja": "花丸満点",
+   "ko": "완벽한 컨디션",
+   "source": "tables"
+  },
+  {
+   "en": "Super Salty Comeback",
+   "zh-TW": "鹹鱗翻身",
+   "ja": "人生大逆転！",
+   "ko": "린수의 반격",
+   "source": "tables"
+  },
+  {
+   "en": "Supervisory Duties",
+   "zh-TW": "監督重任",
+   "ja": "監察官の責任",
+   "ko": "감독관의 책임",
+   "source": "tables"
+  },
+  {
+   "en": "Supporter",
+   "zh-TW": "輔助",
+   "ja": "補助",
+   "ko": "서포터",
+   "source": "tables"
+  },
+  {
+   "en": "Survival is a Win",
+   "zh-TW": "活著就是勝利",
+   "ja": "生きてるだけで大勝利",
+   "ko": "생존이 승리다",
+   "source": "tables"
+  },
+  {
+   "en": "Susceptibility",
+   "zh-TW": "脆弱效果",
+   "ja": "脆弱効果",
+   "ko": "취약 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Susceptibility Duration (s)",
+   "zh-TW": "脆弱持續時間（秒）",
+   "ja": "脆弱持続時間（秒）",
+   "ko": "취약 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "SuYi",
+   "zh-TW": "蘇翼",
+   "ja": "苏翼",
+   "ko": "SuYi",
+   "source": "tables"
+  },
+  {
+   "en": "Suzushiro Sayumi",
+   "zh-TW": "鈴代紗弓",
+   "ja": "鈴代紗弓",
+   "ko": "스즈시로 사유미",
+   "source": "tables"
+  },
+  {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "ja": "片手剣",
+   "ko": "한손검",
+   "source": "tables"
+  },
+  {
+   "en": "Sword Art of Assault",
+   "zh-TW": "陷陣劍術",
+   "ja": "突陣の剣技",
+   "ko": "돌진 검술",
+   "source": "tables"
+  },
+  {
+   "en": "Sword of Aspiration",
+   "zh-TW": "進取劍鋒",
+   "ja": "切磋琢磨",
+   "ko": "진취의 검날",
+   "source": "tables"
+  },
+  {
+   "en": "Swordmancer",
+   "zh-TW": "點劍",
+   "ja": "宏山点剣",
+   "ko": "검술사",
+   "source": "tables"
+  },
+  {
+   "en": "T-Creds",
+   "zh-TW": "折金票",
+   "ja": "折金券",
+   "ko": "탈로시안 화폐",
+   "source": "tables"
+  },
+  {
+   "en": "Tachibana Azusa",
+   "zh-TW": "橘杏咲",
+   "ja": "橘杏咲",
+   "ko": "타치바나 아즈사",
+   "source": "tables"
+  },
+  {
+   "en": "Tachyon Screening Lattice",
+   "zh-TW": "迅子遴撿晶格",
+   "ja": "タキオン精選格子",
+   "ko": "타키온 차폐 구조체",
+   "source": "tables"
+  },
+  {
+   "en": "Tactful Approach",
+   "zh-TW": "委婉手段",
+   "ja": "婉曲手段",
+   "ko": "완곡한 수단",
+   "source": "tables"
+  },
+  {
+   "en": "Tactical Instruction",
+   "zh-TW": "戰術教導",
+   "ja": "戦術指導",
+   "ko": "전술 지도",
+   "source": "tables"
+  },
+  {
+   "en": "Tactical Planning",
+   "zh-TW": "籌謀",
+   "ja": "画策",
+   "ko": "전략 수립",
+   "source": "tables"
+  },
+  {
+   "en": "Taichi You",
+   "zh-TW": "大地葉",
+   "ja": "大地葉",
+   "ko": "타이치 요우",
+   "source": "tables"
+  },
+  {
+   "en": "Takahashi Karin",
+   "zh-TW": "高橋花林",
+   "ja": "高橋花林",
+   "ko": "타카하시 카린",
+   "source": "tables"
+  },
+  {
+   "en": "Takeuchi Shunsuke",
+   "zh-TW": "武內駿輔",
+   "ja": "武内駿輔",
+   "ko": "타케우치 슌스케",
+   "source": "tables"
+  },
+  {
+   "en": "Talos Cap",
+   "zh-TW": "塔羅斯菌",
+   "ja": "タロス茸",
+   "ko": "탈로스 버섯",
+   "source": "tables"
+  },
+  {
+   "en": "Talos-II General Chamber of Commerce (TGCC)",
+   "zh-TW": "環塔商會",
+   "ja": "環タロ商会",
+   "ko": "탈로스 II 상업연합회",
+   "source": "tables"
+  },
+  {
+   "en": "Tanezaki Atsumi",
+   "zh-TW": "種崎敦美",
+   "ja": "種﨑敦美",
+   "ko": "타네자키 아츠미",
+   "source": "tables"
+  },
+  {
+   "en": "Tang Yajing",
+   "zh-TW": "唐雅菁",
+   "ja": "唐雅菁",
+   "ko": "Tang Yajing",
+   "source": "tables"
+  },
+  {
+   "en": "Tangible Duties",
+   "zh-TW": "有形的責任",
+   "ja": "責任の重み",
+   "ko": "가시화된 책임",
+   "source": "tables"
+  },
+  {
+   "en": "Tangtang",
+   "zh-TW": "湯湯",
+   "ja": "タンタン",
+   "ko": "탕탕",
+   "source": "tables"
+  },
+  {
+   "en": "Tarr 11",
+   "zh-TW": "塔爾11",
+   "ja": "タール11",
+   "ko": "타르 11",
+   "source": "tables"
+  },
+  {
+   "en": "Tempestuous Arc",
+   "zh-TW": "疾風迅雷",
+   "ja": "疾風迅雷",
+   "ko": "질풍 섬광",
+   "source": "tables"
+  },
+  {
+   "en": "Tempo of Awareness",
+   "zh-TW": "殘心節奏",
+   "ja": "残心のリズム",
+   "ko": "검의 리듬",
+   "source": "tables"
+  },
+  {
+   "en": "Ten-Finger Smith",
+   "zh-TW": "利手成雙",
+   "ja": "どっちも利き手",
+   "ko": "양손의 달인",
+   "source": "tables"
+  },
+  {
+   "en": "Textbook Assault",
+   "zh-TW": "教科書式猛攻",
+   "ja": "教科書通り",
+   "ko": "교과서적인 맹공",
+   "source": "tables"
+  },
+  {
+   "en": "TGCC",
+   "zh-TW": "環塔商會",
+   "ja": "環タロ商会",
+   "ko": "탈로스 II 상업연합회",
+   "source": "tables, by the Traditional Chinese text (English abbreviation)"
+  },
+  {
+   "en": "The Floaty Messenger",
+   "zh-TW": "輕飄飄的信使",
+   "ja": "ふわふわトランスポーター",
+   "ko": "전달자의 바람",
+   "source": "tables"
+  },
+  {
+   "en": "The Guide",
+   "zh-TW": "指引者",
+   "ja": "誘導者",
+   "ko": "길잡이",
+   "source": "tables"
+  },
+  {
+   "en": "The Hearth Fire Beckons the Starry Flow",
+   "zh-TW": "煙火邀星河",
+   "ja": "人煙の牽く天河",
+   "ko": "은하수를 부르는 불꽃",
+   "source": "tables"
+  },
+  {
+   "en": "The Living Banner",
+   "zh-TW": "活著的旗幟",
+   "ja": "生ける旗印",
+   "ko": "생존의 깃발",
+   "source": "tables"
+  },
+  {
+   "en": "The Pulverizing Front",
+   "zh-TW": "粉碎陣線",
+   "ja": "戦線粉砕",
+   "ko": "전선 분쇄",
+   "source": "tables"
+  },
+  {
+   "en": "The Steel Oath",
+   "zh-TW": "鐵誓",
+   "ja": "鉄の誓い",
+   "ko": "철의 서약",
+   "source": "tables"
+  },
+  {
+   "en": "Thermal Bank",
+   "zh-TW": "熱能池",
+   "ja": "発電機",
+   "ko": "열에너지 뱅크",
+   "source": "tables"
+  },
+  {
+   "en": "Thermite Cutter",
+   "zh-TW": "熱熔切割器",
+   "ja": "テルミット・カッター",
+   "ko": "테르밋 커터",
+   "source": "tables"
+  },
+  {
+   "en": "Thermite Tracers",
+   "zh-TW": "灼熱彈痕",
+   "ja": "灼熱の弾痕",
+   "ko": "탄흔의 열기",
+   "source": "tables"
+  },
+  {
+   "en": "Thorned Incapacitor",
+   "zh-TW": "荊棘破韌",
+   "ja": "茨の棘",
+   "ko": "파쇄하는 가시",
+   "source": "tables"
+  },
+  {
+   "en": "Thorny Trap",
+   "zh-TW": "荊棘獵籠",
+   "ja": "トゲの罠",
+   "ko": "가시 사냥덫",
+   "source": "tables"
+  },
+  {
+   "en": "Three Marks Deep in Wood",
+   "zh-TW": "入木三分",
+   "ja": "一筆入魂",
+   "ko": "나무에 석 자를 새기고",
+   "source": "tables"
+  },
+  {
+   "en": "Thunder of Renewal",
+   "zh-TW": "春雷動，萬物生",
+   "ja": "春雷響き、万物芽吹く",
+   "ko": "봄의 천둥, 만물의 소생",
+   "source": "tables"
+  },
+  {
+   "en": "Thunder Strike DMG Multiplier",
+   "zh-TW": "雷擊傷害倍率",
+   "ja": "雷撃ダメージ倍率",
+   "ko": "뇌격 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Thunderberge",
+   "zh-TW": "大雷斑",
+   "ja": "大雷斑",
+   "ko": "천둥의 흔적",
+   "source": "tables"
+  },
+  {
+   "en": "Thunderlance DMG Multiplier",
+   "zh-TW": "雷槍傷害倍率",
+   "ja": "雷槍ダメージ倍率",
+   "ko": "썬더랜스 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Thunderlance Duration (s)",
+   "zh-TW": "雷槍存在時間（秒）",
+   "ja": "雷槍の存在する時間（秒）",
+   "ko": "썬더랜스가 존재하는 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Thunderlance EX DMG Multiplier",
+   "zh-TW": "強雷槍傷害倍率",
+   "ja": "強雷槍ダメージ倍率",
+   "ko": "강력한 썬더랜스 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Thunderlance EX Duration (s)",
+   "zh-TW": "強雷槍存在時間（秒）",
+   "ja": "強雷槍の存在する時間（秒）",
+   "ko": "강력한 썬더랜스가 존재하는 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Thunderlance EX Stagger",
+   "zh-TW": "強雷槍失衡值",
+   "ja": "強雷槍ブレイク値",
+   "ko": "강력한 썬더랜스 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Thunderlance Stagger",
+   "zh-TW": "雷槍失衡值",
+   "ja": "雷槍ブレイク値",
+   "ko": "썬더랜스 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Thunderlance: Blitz",
+   "zh-TW": "雷槍·疾襲",
+   "ja": "雷槍・迅撃",
+   "ko": "썬더랜스 · 신속 공격",
+   "source": "tables"
+  },
+  {
+   "en": "Thunderlance: Final Shock",
+   "zh-TW": "雷槍·決顫",
+   "ja": "雷槍・決震",
+   "ko": "썬더랜스 · 결전의 떨림",
+   "source": "tables"
+  },
+  {
+   "en": "Thunderlance: Interdiction",
+   "zh-TW": "雷槍·截回",
+   "ja": "雷槍・逆襲",
+   "ko": "썬더랜스 · 가로채기",
+   "source": "tables"
+  },
+  {
+   "en": "Thunderlance: Strike",
+   "zh-TW": "雷槍·掣擊",
+   "ja": "雷槍・閃撃",
+   "ko": "썬더랜스 · 번개 타격",
+   "source": "tables"
+  },
+  {
+   "en": "Tide Surge",
+   "zh-TW": "潮湧",
+   "ja": "満潮",
+   "ko": "조류의 물결",
+   "source": "tables"
+  },
+  {
+   "en": "Timely Suppression",
+   "zh-TW": "即時壓制",
+   "ja": "即時制圧",
+   "ko": "실시간 억제",
+   "source": "tables"
+  },
+  {
+   "en": "Tink-a-Power",
+   "zh-TW": "滴答蓄能",
+   "ja": "ピタチャージ",
+   "ko": "똑딱 충전",
+   "source": "tables"
+  },
+  {
+   "en": "Tiny Surprise",
+   "zh-TW": "小驚喜",
+   "ja": "ちょっとイタズラ",
+   "ko": "서프라이즈?",
+   "source": "tables"
+  },
+  {
+   "en": "Total Stagger",
+   "zh-TW": "總失衡值",
+   "ja": "総ブレイク値",
+   "ko": "총 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Tracker of Witch Scent",
+   "zh-TW": "巫術嗅覺",
+   "ja": "巫術追跡",
+   "ko": "주술 탐지",
+   "source": "tables"
+  },
+  {
+   "en": "Trail and Mangle DMG Multiplier",
+   "zh-TW": "追形傷害倍率",
+   "ja": "追形ダメージ倍率",
+   "ko": "추형 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Trail and Mangle Stagger",
+   "zh-TW": "追形失衡值",
+   "ja": "追形ブレイク値",
+   "ko": "추형 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Treatment Increase per Agility",
+   "zh-TW": "每點敏捷增加的治療值",
+   "ja": "敏捷1ごとの回復値UP",
+   "ko": "민첩 1포인트마다 증가하는 치유 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Treatment Increase per Will",
+   "zh-TW": "每點意志增加的治療值",
+   "ja": "意志1ごとの回復値UP",
+   "ko": "의지 1포인트마다 증가하는 치유 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Treatment Over Time Increase per Will",
+   "zh-TW": "每點意志增加的持續治療值",
+   "ja": "意志1ごとの持続回復値UP",
+   "ko": "의지 1포인트마다 증가하는 지속 치유 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Treatment Over Time Interval (s)",
+   "zh-TW": "持續治療間隔（秒）",
+   "ja": "持続回復間隔（秒）",
+   "ko": "지속 치유 간격(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Tremolo",
+   "zh-TW": "震音",
+   "ja": "トレモロ",
+   "ko": "트레몰로",
+   "source": "tables"
+  },
+  {
+   "en": "Triphasic Nanoflake",
+   "zh-TW": "三相奈米片",
+   "ja": "三相ナノフレーク",
+   "ko": "3상 나노 플레이크 칩",
+   "source": "tables"
+  },
+  {
+   "en": "Triple Surprise",
+   "zh-TW": "三倍驚喜",
+   "ja": "サプライズ×3",
+   "ko": "트리플 서프라이즈",
+   "source": "tables"
+  },
+  {
+   "en": "Tundra Aegis",
+   "zh-TW": "凍土堅盾",
+   "ja": "凍土の盾",
+   "ko": "얼어붙은 대지의 방패",
+   "source": "tables"
+  },
+  {
+   "en": "Turbid Avatar",
+   "zh-TW": "蕩濁身",
+   "ja": "浄化身",
+   "ko": "신체 정화",
+   "source": "tables"
+  },
+  {
+   "en": "Twelve Questions",
+   "zh-TW": "十二問",
+   "ja": "十二問",
+   "ko": "십이문",
+   "source": "tables"
+  },
+  {
+   "en": "Twilight",
+   "zh-TW": "黃昏",
+   "ja": "ラグナロク",
+   "ko": "황혼",
+   "source": "tables"
+  },
+  {
+   "en": "Type 42: Solemn Phalanx",
+   "zh-TW": "四二式·肅陣",
+   "ja": "四二式・粛陣",
+   "ko": "42식 · 척결",
+   "source": "tables"
+  },
+  {
+   "en": "Type 50 Yinglung",
+   "zh-TW": "50式應龍",
+   "ja": "50式応龍",
+   "ko": "응룡 50식",
+   "source": "tables"
+  },
+  {
+   "en": "Typhoeus",
+   "zh-TW": "提弗洛斯",
+   "ja": "ティフォロス",
+   "ko": "티프로스",
+   "source": "tables"
+  },
+  {
+   "en": "Ultimate DMG Multiplier",
+   "zh-TW": "終結傷害倍率",
+   "ja": "必殺技ダメージ倍率",
+   "ko": "궁극기 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Ultimate Energy from Solidification Applied",
+   "zh-TW": "施加凍結獲得終結技能量",
+   "ja": "凍結発動の必殺チャージ回復量",
+   "ko": "동결을 부여할 때 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Ultimate Energy Gain",
+   "zh-TW": "獲得終結技能量",
+   "ja": "必殺チャージ回復量",
+   "ko": "획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Ultimate Energy Gain when Hitting 1 Enemy",
+   "zh-TW": "命中1個敵人獲得終結技能量",
+   "ja": "敵1体命中時の必殺チャージ回復量",
+   "ko": "1명의 적에게 명중할 때 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Ultimate Energy Gain when Hitting 2 Enemies",
+   "zh-TW": "命中2個敵人獲得終結技能量",
+   "ja": "敵2体命中時の必殺チャージ回復量",
+   "ko": "2명의 적에게 명중할 때 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Ultimate Energy Gain when Hitting 3 Enemies",
+   "zh-TW": "命中3個或以上敵人獲得終結技能量",
+   "ja": "敵3体以上命中時の必殺チャージ回復量",
+   "ko": "3명 이상의 적에게 명중할 때 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Umbra of Frigid Eventide",
+   "zh-TW": "寒夜幽影",
+   "ja": "寒夜の影",
+   "ko": "추운 밤의 그림자",
+   "source": "tables"
+  },
+  {
+   "en": "Umbral Torch",
+   "zh-TW": "黯色火炬",
+   "ja": "ダークトーチ",
+   "ko": "암흑의 횃불",
+   "source": "tables"
+  },
+  {
+   "en": "Unconventional Lure",
+   "zh-TW": "非普通路亞",
+   "ja": "型破りのルアー",
+   "ko": "비정규 루어",
+   "source": "tables"
+  },
+  {
+   "en": "Undertaker's Gift",
+   "zh-TW": "守墓人之贈",
+   "ja": "墓守の贈り物",
+   "ko": "묘지기의 선물",
+   "source": "tables"
+  },
+  {
+   "en": "Undisclosed",
+   "zh-TW": "未公開",
+   "ja": "未公開",
+   "ko": "미공개",
+   "source": "tables"
+  },
+  {
+   "en": "Undying Embers",
+   "zh-TW": "薪火不息",
+   "ja": "炎は絶えず",
+   "ko": "불멸의 불꽃",
+   "source": "tables"
+  },
+  {
+   "en": "United Workers' Syndicates of Talos II",
+   "zh-TW": "聯盟工團",
+   "ja": "工業団連盟",
+   "ko": "연맹 공단",
+   "source": "tables"
+  },
+  {
+   "en": "Unpredictable",
+   "zh-TW": "捉摸不定",
+   "ja": "予測不可能",
+   "ko": "종잡을 수 없는 자",
+   "source": "tables"
+  },
+  {
+   "en": "Unremitting",
+   "zh-TW": "不懈",
+   "ja": "精進",
+   "ko": "불해",
+   "source": "tables"
+  },
+  {
+   "en": "Unsoiled Brush",
+   "zh-TW": "丹青不渝",
+   "ja": "丹青褪せず",
+   "ko": "바래지 않는 단청",
+   "source": "tables"
+  },
+  {
+   "en": "Unwavering Post",
+   "zh-TW": "不屈心錨",
+   "ja": "不屈の心",
+   "ko": "불굴의 심장",
+   "source": "tables"
+  },
+  {
+   "en": "Ursus",
+   "zh-TW": "烏薩斯",
+   "ja": "ウルサス",
+   "ko": "우르수스",
+   "source": "tables"
+  },
+  {
+   "en": "Useful \"Prezzies\"",
+   "zh-TW": "「禮」盡其用",
+   "ja": "「礼」はムダなく",
+   "ko": "'선물' 활용의 달인",
+   "source": "tables"
+  },
+  {
+   "en": "UWST",
+   "zh-TW": "聯盟工團",
+   "ja": "工業団連盟",
+   "ko": "연맹 공단",
+   "source": "tables, by the Traditional Chinese text (English abbreviation)"
+  },
+  {
+   "en": "Valiant",
+   "zh-TW": "驍勇",
+   "ja": "勇猛",
+   "ko": "용사",
+   "source": "tables"
+  },
+  {
+   "en": "Vanguard",
+   "zh-TW": "先鋒",
+   "ja": "先鋒",
+   "ko": "뱅가드",
+   "source": "tables"
+  },
+  {
+   "en": "Very Experienced",
+   "zh-TW": "經驗老到",
+   "ja": "経験豊富",
+   "ko": "숙련자의 여유",
+   "source": "tables"
+  },
+  {
+   "en": "Veteran Angler",
+   "zh-TW": "釣鱗老手",
+   "ja": "釣りの達人",
+   "ko": "낚시의 달인",
+   "source": "tables"
+  },
+  {
+   "en": "Vigil Services",
+   "zh-TW": "臨終別禮",
+   "ja": "終の別れ",
+   "ko": "마지막 인사",
+   "source": "tables"
+  },
+  {
+   "en": "Vigilant Fury",
+   "zh-TW": "怒意留心",
+   "ja": "怒りを封ず",
+   "ko": "분노",
+   "source": "tables"
+  },
+  {
+   "en": "Vila",
+   "zh-TW": "張煒萱",
+   "ja": "张炜萱",
+   "ko": "Vila",
+   "source": "tables"
+  },
+  {
+   "en": "Vocalist Stance Duration (s)",
+   "zh-TW": "演唱姿態持續時間（秒）",
+   "ja": "ライブモード持続時間（秒）",
+   "ko": "라이브 모드 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Volcanic Steam",
+   "zh-TW": "火山蒸汽",
+   "ja": "火山の蒸気",
+   "ko": "화산 증기",
+   "source": "tables"
+  },
+  {
+   "en": "Vouivre",
+   "zh-TW": "瓦伊凡",
+   "ja": "ヴイーヴル",
+   "ko": "와이번",
+   "source": "tables"
+  },
+  {
+   "en": "Vulpo",
+   "zh-TW": "沃爾珀",
+   "ja": "ヴァルポ",
+   "ko": "불포",
+   "source": "tables"
+  },
+  {
+   "en": "Wakayama Shion",
+   "zh-TW": "若山詩音",
+   "ja": "若山詩音",
+   "ko": "와카야마 시온",
+   "source": "tables"
+  },
+  {
+   "en": "Wang Xiaotong",
+   "zh-TW": "王曉彤",
+   "ja": "王晓彤",
+   "ko": "Wang Xiaotong",
+   "source": "tables"
+  },
+  {
+   "en": "Warm Like the Sun",
+   "zh-TW": "太陽般溫暖",
+   "ja": "太陽みたいにあったかい",
+   "ko": "태양처럼 따뜻하게",
+   "source": "tables"
+  },
+  {
+   "en": "Warp Plasma-Coated Slide",
+   "zh-TW": "躍遷漿體塗片",
+   "ja": "遷移スラリー塗抹標本",
+   "ko": "도약 교질 도말 표본",
+   "source": "tables"
+  },
+  {
+   "en": "Watanabe Akeno",
+   "zh-TW": "渡邊明乃",
+   "ja": "渡辺明乃",
+   "ko": "와타나베 아케노",
+   "source": "tables"
+  },
+  {
+   "en": "Watcher of the Sea",
+   "zh-TW": "觀海",
+   "ja": "観海",
+   "ko": "조류를 향한 시선",
+   "source": "tables"
+  },
+  {
+   "en": "Water Treatment Unit",
+   "zh-TW": "廢水處理機",
+   "ja": "廃水処理機",
+   "ko": "오염수 처리기",
+   "source": "tables"
+  },
+  {
+   "en": "Waterspout Duration (s)",
+   "zh-TW": "水龍捲持續時間（秒）",
+   "ja": "水竜巻持続時間（秒）",
+   "ko": "용오름 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Wave Tide",
+   "zh-TW": "浪潮",
+   "ja": "潮流",
+   "ko": "거대한 격랑",
+   "source": "tables"
+  },
+  {
+   "en": "Weakness",
+   "zh-TW": "虛弱效果",
+   "ja": "弱体化効果",
+   "ko": "허약 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Weakness Duration (s)",
+   "zh-TW": "虛弱持續時間（秒）",
+   "ja": "弱体化持続時間（秒）",
+   "ko": "허약 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Weakness Effect",
+   "zh-TW": "虛弱效果",
+   "ja": "弱体化効果",
+   "ko": "허약 효과",
+   "source": "tables"
+  },
+  {
+   "en": "Weapon Honing",
+   "zh-TW": "厲兵",
+   "ja": "研ぎ澄ます",
+   "ko": "무장 강화",
+   "source": "tables"
+  },
+  {
+   "en": "Wedge",
+   "zh-TW": "楔子",
+   "ja": "楔",
+   "ko": "쐐기",
+   "source": "tables"
+  },
+  {
+   "en": "When the Banner Flutters",
+   "zh-TW": "戰旗飄揚時",
+   "ja": "翻る戦旗",
+   "ko": "휘날리는 전장의 깃발",
+   "source": "tables"
+  },
+  {
+   "en": "Whirlpool Duration (s)",
+   "zh-TW": "渦流持續時間（秒）",
+   "ja": "湍水持続時間（秒）",
+   "ko": "와류 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "White Night Nova",
+   "zh-TW": "白夜新星",
+   "ja": "白夜新星",
+   "ko": "백야의 별",
+   "source": "tables"
+  },
+  {
+   "en": "Wielder of Stone",
+   "zh-TW": "銜石",
+   "ja": "銜石",
+   "ko": "끈기",
+   "source": "tables"
+  },
+  {
+   "en": "Wild Wanderer",
+   "zh-TW": "迷失荒野",
+   "ja": "荒野迷走",
+   "ko": "황무지의 방랑자",
+   "source": "tables"
+  },
+  {
+   "en": "Wildland Trekker",
+   "zh-TW": "荒野遊人",
+   "ja": "荒野の吟遊者",
+   "ko": "황무지의 여행자",
+   "source": "tables"
+  },
+  {
+   "en": "Wildlands Huntress",
+   "zh-TW": "追獵荒原",
+   "ja": "荒原の狩猟",
+   "ko": "황무지의 사냥꾼",
+   "source": "tables"
+  },
+  {
+   "en": "Wildswept Storm",
+   "zh-TW": "輕雷掠野",
+   "ja": "野を掠る軽雷",
+   "ko": "들판을 스치는 천둥",
+   "source": "tables"
+  },
+  {
+   "en": "Will",
+   "zh-TW": "意志",
+   "ja": "意志",
+   "ko": "의지",
+   "source": "tables"
+  },
+  {
+   "en": "Will for MAX Bonus Susceptibility",
+   "zh-TW": "最大額外脆弱效果對應意志值",
+   "ja": "脆弱効果の最大追加に対応する意志",
+   "ko": "최대 추가 취약 효과에 해당하는 의지 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Will of the Pack",
+   "zh-TW": "狼群意志",
+   "ja": "狼群の意志",
+   "ko": "울프팀의 의지",
+   "source": "tables"
+  },
+  {
+   "en": "Wind Walker",
+   "zh-TW": "乘風而行",
+   "ja": "風に乗って",
+   "ko": "바람을 타고",
+   "source": "tables"
+  },
+  {
+   "en": "Winter Hunt",
+   "zh-TW": "冬獵",
+   "ja": "冬狩",
+   "ko": "겨울 사냥",
+   "source": "tables"
+  },
+  {
+   "en": "Winter is Returning",
+   "zh-TW": "寒風再起",
+   "ja": "寒風、再び",
+   "ko": "다시 밀려오는 한기",
+   "source": "tables"
+  },
+  {
+   "en": "Winter's Devourer",
+   "zh-TW": "噬冬",
+   "ja": "冬喰",
+   "ko": "겨울 포식자",
+   "source": "tables"
+  },
+  {
+   "en": "Wolf Pearl",
+   "zh-TW": "狼珀",
+   "ja": "ウルフパール",
+   "ko": "울프펄",
+   "source": "tables"
+  },
+  {
+   "en": "Wolven Fury",
+   "zh-TW": "狼之怒",
+   "ja": "狼の怒り",
+   "ko": "늑대의 분노",
+   "source": "tables"
+  },
+  {
+   "en": "Wooly Party",
+   "zh-TW": "毛茸茸派對",
+   "ja": "もふもふパーティー",
+   "ko": "복슬복슬 파티",
+   "source": "tables"
+  },
+  {
+   "en": "World Splitter DMG Multiplier",
+   "zh-TW": "開天傷害倍率",
+   "ja": "開天ダメージ倍率",
+   "ko": "개천 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "World Splitter Stagger",
+   "zh-TW": "開天失衡值",
+   "ja": "開天ブレイク値",
+   "ko": "개천 불균형치",
+   "source": "tables"
+  },
+  {
+   "en": "Wu Tong",
+   "zh-TW": "閒踏梧桐",
+   "ja": "闲踏梧桐",
+   "ko": "Wu Tong",
+   "source": "tables"
+  },
+  {
+   "en": "Wulfgard",
+   "zh-TW": "狼衛",
+   "ja": "ウルフガード",
+   "ko": "울프가드",
+   "source": "tables"
+  },
+  {
+   "en": "Xaihi",
+   "zh-TW": "賽希",
+   "ja": "ザイヒ",
+   "ko": "자이히",
+   "source": "tables"
+  },
+  {
+   "en": "Xiranflow",
+   "zh-TW": "壤流",
+   "ja": "壌流",
+   "ko": "식양의 흐름",
+   "source": "tables"
+  },
+  {
+   "en": "Xiranite Pylon",
+   "zh-TW": "息壤供電樁",
+   "ja": "息壌送電スタンド",
+   "ko": "식양 전력 공급기",
+   "source": "tables"
+  },
+  {
+   "en": "Xiranite Relay",
+   "zh-TW": "息壤中繼器",
+   "ja": "息壌中継タワー",
+   "ko": "식양 중계기",
+   "source": "tables"
+  },
+  {
+   "en": "Xu Hui",
+   "zh-TW": "徐慧",
+   "ja": "徐慧",
+   "ko": "Xu Hui",
+   "source": "tables"
+  },
+  {
+   "en": "Yan Meme",
+   "zh-TW": "閻麼麼",
+   "ja": "阎么么",
+   "ko": "Yan Meme",
+   "source": "tables"
+  },
+  {
+   "en": "Yeo Yun-mi",
+   "zh-TW": "呂允美",
+   "ja": "여윤미",
+   "ko": "여윤미",
+   "source": "tables"
+  },
+  {
+   "en": "Yi Sae-ah",
+   "zh-TW": "李詩雅",
+   "ja": "이새아",
+   "ko": "이새아",
+   "source": "tables"
+  },
+  {
+   "en": "Yinglung Stance IV",
+   "zh-TW": "應龍四式",
+   "ja": "応龍四式",
+   "ko": "응룡 4식",
+   "source": "tables"
+  },
+  {
+   "en": "Your sorry came LATE!",
+   "zh-TW": "道歉也來不及了！",
+   "ja": "謝っても遅いのですっ！",
+   "ko": "사과해도 안 봐줄 거다?",
+   "source": "tables"
+  },
+  {
+   "en": "Yu Hye-ji",
+   "zh-TW": "柳惠知",
+   "ja": "유혜지",
+   "ko": "유혜지",
+   "source": "tables"
+  },
+  {
+   "en": "Yu Kailong",
+   "zh-TW": "于凱隆",
+   "ja": "于凯隆",
+   "ko": "Yu Kailong",
+   "source": "tables"
+  },
+  {
+   "en": "Yu Yeong",
+   "zh-TW": "劉榮",
+   "ja": "유영",
+   "ko": "유영",
+   "source": "tables"
+  },
+  {
+   "en": "Yummy Dessert: Base Treatment",
+   "zh-TW": "好吃的點心：治療基礎值",
+   "ja": "おいし～お菓子：基礎回復値",
+   "ko": "맛있는 디저트: 치유 기초 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Yummy Dessert: Treatment Increase per Will",
+   "zh-TW": "好吃的點心：每點意志增加的治療值",
+   "ja": "おいし～お菓子：意志1ごとの回復値UP",
+   "ko": "맛있는 디저트: 의지 1포인트마다 증가하는 치유 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Yung-I Chang",
+   "zh-TW": "Yung-I Chang",
+   "ja": "Yung-I Chang",
+   "ko": "Yung-I Chang",
+   "source": "tables"
+  },
+  {
+   "en": "Yvonne",
+   "zh-TW": "伊馮",
+   "ja": "イヴォンヌ",
+   "ko": "이본",
+   "source": "tables"
+  },
+  {
+   "en": "Zenith of Voltmancy",
+   "zh-TW": "掣電橫天",
+   "ja": "天奔る稲妻",
+   "ko": "하늘을 가르는 번개",
+   "source": "tables"
+  },
+  {
+   "en": "Zhang RuoYu",
+   "zh-TW": "張若瑜",
+   "ja": "张若瑜",
+   "ko": "Zhang RuoYu",
+   "source": "tables"
+  },
+  {
+   "en": "ZhongKe",
+   "zh-TW": "鍾可",
+   "ja": "钟可",
+   "ko": "ZhongKe",
+   "source": "tables"
+  },
+  {
+   "en": "Zhuang Fangyi",
+   "zh-TW": "莊方宜",
+   "ja": "ゾアン・ファンイ",
+   "ko": "장방이",
+   "source": "tables"
+  },
+  {
+   "en": "Zipline Pylon",
+   "zh-TW": "滑索架",
+   "ja": "ジップライン",
+   "ko": "집라인 후크",
+   "source": "tables"
+  },
+  {
+   "en": "Zipline Tower",
+   "zh-TW": "長距滑索架",
+   "ja": "長距離ジップライン",
+   "ko": "장거리 집라인 후크",
+   "source": "tables"
+  },
+  {
+   "en": "Ziyi Qin",
+   "zh-TW": "秦紫翼",
+   "ja": "秦紫翼",
+   "ko": "Ziyi Qin",
+   "source": "tables"
+  },
+  {
+   "en": "Æthertech",
+   "zh-TW": "輕超域",
+   "ja": "軽量超域",
+   "ko": "경량 초자연",
+   "source": "tables"
+  }
+ ],
+ "terms": {
+  "Basic Attack": {
+   "zh-TW": "普攻",
+   "ja": "通常攻撃",
+   "ko": "일반 공격"
+  },
+  "Battle Skill": {
+   "zh-TW": "戰技",
+   "ja": "戦技",
+   "ko": "배틀 스킬"
+  },
+  "Combo Skill": {
+   "zh-TW": "連攜技",
+   "ja": "連携技",
+   "ko": "연계 스킬"
+  },
+  "Ultimate": {
+   "zh-TW": "終結技",
+   "ja": "必殺技",
+   "ko": "궁극기"
+  },
+  "SP Cost": {
+   "zh-TW": "技力消耗",
+   "ja": "SP消費",
+   "ko": "스킬 게이지 소모"
+  },
+  "Ultimate Energy Cost": {
+   "zh-TW": "所需終結技能量",
+   "ja": "必殺チャージ消費",
+   "ko": "필요한 궁극기 에너지"
+  },
+  "Cooldown": {
+   "zh-TW": "冷卻時間",
+   "ja": "クールタイム",
+   "ko": "쿨타임"
+  },
+  "Promotion I": {
+   "zh-TW": "精英化I",
+   "ja": "昇進・Ⅰ",
+   "ko": "정예화 I"
+  },
+  "Promotion II": {
+   "zh-TW": "精英化II",
+   "ja": "昇進・Ⅱ",
+   "ko": "정예화 II"
+  },
+  "Promotion III": {
+   "zh-TW": "精英化III",
+   "ja": "昇進・Ⅲ",
+   "ko": "정예화 III"
+  },
+  "Promotion IV": {
+   "zh-TW": "精英化IV",
+   "ja": "昇進・Ⅳ",
+   "ko": "정예화 IV"
+  },
+  "Strength": {
+   "zh-TW": "力量",
+   "ja": "筋力",
+   "ko": "힘"
+  },
+  "Agility": {
+   "zh-TW": "敏捷",
+   "ja": "敏捷",
+   "ko": "민첩"
+  },
+  "Intellect": {
+   "zh-TW": "智識",
+   "ja": "知性",
+   "ko": "지능"
+  },
+  "Will": {
+   "zh-TW": "意志",
+   "ja": "意志",
+   "ko": "의지"
+  },
+  "ATK": {
+   "zh-TW": "攻擊力",
+   "ja": "攻撃力",
+   "ko": "공격력"
+  },
+  "HP": {
+   "zh-TW": "生命值",
+   "ja": "HP",
+   "ko": "생명력"
+  },
+  "Main Attribute": {
+   "zh-TW": "主能力",
+   "ja": "メイン能力",
+   "ko": "주요 능력치"
+  },
+  "Secondary Attribute": {
+   "zh-TW": "副能力",
+   "ja": "サブ能力",
+   "ko": "보조 능력치"
+  },
+  "Rarity": {
+   "zh-TW": "稀有度",
+   "ja": "レア度",
+   "ko": "희귀도"
+  },
+  "Class": {
+   "zh-TW": "職業",
+   "ja": "職業",
+   "ko": "직업"
+  },
+  "Element": {
+   "zh-TW": "屬性",
+   "ja": "属性",
+   "ko": "속성"
+  },
+  "Weapon": {
+   "zh-TW": "武器",
+   "ja": "武器",
+   "ko": "무기"
+  },
+  "Faction": {
+   "zh-TW": "陣營",
+   "ja": "陣営",
+   "ko": "진영"
+  },
+  "Race": {
+   "zh-TW": "種族",
+   "ja": "種族",
+   "ko": "종족"
+  },
+  "Skills": {
+   "zh-TW": "技能",
+   "ja": "スキル",
+   "ko": "스킬"
+  },
+  "Talent": {
+   "zh-TW": "天賦",
+   "ja": "素質",
+   "ko": "재능"
+  },
+  "Potential": {
+   "zh-TW": "潛能",
+   "ja": "潜在",
+   "ko": "잠재 능력"
+  },
+  "Base Skill": {
+   "zh-TW": "後勤技能",
+   "ja": "配属スキル",
+   "ko": "인프라 스킬"
+  },
+  "Operators": {
+   "zh-TW": "幹員",
+   "ja": "オペレーター",
+   "ko": "오퍼레이터"
+  },
+  "Chartered Headhunting": {
+   "zh-TW": "特許尋訪",
+   "ja": "特別スカウト",
+   "ko": "특별 허가 헤드헌팅"
+  },
+  "Special Headhunting": {
+   "zh-TW": "特殊尋訪",
+   "ja": "特殊スカウト",
+   "ko": "특수 헤드헌팅"
+  },
+  "RE-Factor Headhunting": {
+   "zh-TW": "重構尋訪",
+   "ja": "再現スカウト",
+   "ko": "재구축 헤드헌팅"
+  },
+  "Basic Headhunting": {
+   "zh-TW": "基礎尋訪",
+   "ja": "通常スカウト",
+   "ko": "기초 헤드헌팅"
+  },
+  "Headhunting": {
+   "zh-TW": "尋訪",
+   "ja": "スカウト",
+   "ko": "헤드헌팅"
+  },
+  "Essence": {
+   "zh-TW": "基質",
+   "ja": "基質",
+   "ko": "기질"
+  },
+  "Weapon Skill": {
+   "zh-TW": "武器技能",
+   "ja": "武器スキル",
+   "ko": "무기 스킬"
+  },
+  "Arsenal Ticket": {
+   "zh-TW": "武庫配額",
+   "ja": "武庫配給",
+   "ko": "무기고 징표"
+  },
+  "Arsenal Issue": {
+   "zh-TW": "武庫申領",
+   "ja": "武庫申請",
+   "ko": "무기고 신청"
+  },
+  "Arsenal Exchange": {
+   "zh-TW": "武庫交易所",
+   "ja": "武庫交換所",
+   "ko": "무기고 거래소"
+  },
+  "Dijiang": {
+   "zh-TW": "帝江號",
+   "ja": "帝江号",
+   "ko": "제강호"
+  },
+  "Central Ring": {
+   "zh-TW": "中央環廳",
+   "ja": "中央ホール",
+   "ko": "중앙 홀"
+  },
+  "MFG Plan": {
+   "zh-TW": "製造方案",
+   "ja": "製造計画",
+   "ko": "제작 계획"
+  },
+  "MFG Load": {
+   "zh-TW": "生產載荷",
+   "ja": "製造容量",
+   "ko": "생산 용량"
+  },
+  "Clue Exchange": {
+   "zh-TW": "情報交流",
+   "ja": "情報共有",
+   "ko": "정보 교류"
+  },
+  "Recycling Station": {
+   "zh-TW": "資源回收站",
+   "ja": "資源回収所",
+   "ko": "재활용센터"
+  },
+  "Mood": {
+   "zh-TW": "心情",
+   "ja": "体力",
+   "ko": "컨디션"
+  },
+  "Trust": {
+   "zh-TW": "信賴值",
+   "ja": "信頼度",
+   "ko": "신뢰도"
+  },
+  "Credits": {
+   "zh-TW": "信用",
+   "ja": "FP",
+   "ko": "크레딧"
+  },
+  "Production Assist": {
+   "zh-TW": "生產助力",
+   "ja": "生産サポート",
+   "ko": "생산 지원"
+  },
+  "Control Nexus": {
+   "zh-TW": "總控中樞",
+   "ja": "指揮中枢",
+   "ko": "핵심 제어 중추"
+  },
+  "Reception Room": {
+   "zh-TW": "會客室",
+   "ja": "応接室",
+   "ko": "응접실"
+  },
+  "Shift A": {
+   "zh-TW": "小組A",
+   "ja": "シフトA",
+   "ko": "근무조 A"
+  },
+  "Shift B": {
+   "zh-TW": "小組B",
+   "ja": "シフトB",
+   "ko": "근무조 B"
+  },
+  "Endministrator": {
+   "zh-TW": "管理員",
+   "ja": "管理人",
+   "ko": "관리자"
+  },
+  "Endfield Industries": {
+   "zh-TW": "終末地工業",
+   "ja": "エンドフィールド工業",
+   "ko": "엔드필드 공업"
+  },
+  "Talos-II": {
+   "zh-TW": "塔衛二",
+   "ja": "タロⅡ",
+   "ko": "탈로스 II"
+  },
+  "Rhodes Island": {
+   "zh-TW": "羅德島",
+   "ja": "ロドス・アイランド",
+   "ko": "로도스 아일랜드"
+  },
+  "Weapon Tuning": {
+   "zh-TW": "武器突破",
+   "ja": "武器突破",
+   "ko": "무기 돌파"
+  },
+  "Rare Mineral": {
+   "zh-TW": "稀有礦物",
+   "ja": "希少鉱物",
+   "ko": "희귀 광물"
+  },
+  "EXP": {
+   "zh-TW": "EXP",
+   "ja": "EXP",
+   "ko": "EXP"
+  },
+  "Drinks": {
+   "zh-TW": "飲品",
+   "ja": "飲み物",
+   "ko": "음료"
+  },
+  "Physical": {
+   "zh-TW": "物理",
+   "ja": "物理",
+   "ko": "물리"
+  },
+  "Heat": {
+   "zh-TW": "灼熱",
+   "ja": "灼熱",
+   "ko": "열기"
+  },
+  "Electric": {
+   "zh-TW": "電磁",
+   "ja": "電磁",
+   "ko": "전기"
+  },
+  "Cryo": {
+   "zh-TW": "寒冷",
+   "ja": "寒冷",
+   "ko": "냉기"
+  },
+  "Nature": {
+   "zh-TW": "自然",
+   "ja": "自然",
+   "ko": "자연"
+  },
+  "Energy Alluvium": {
+   "zh-TW": "能量淤積點",
+   "ja": "超域活性点",
+   "ko": "에너지 응집점"
+  },
+  "Valley IV": {
+   "zh-TW": "四號谷地",
+   "ja": "四号谷地",
+   "ko": "4번 협곡"
+  },
+  "Wuling": {
+   "zh-TW": "武陵",
+   "ja": "武陵",
+   "ko": "무릉"
+  },
+  "Filling Unit": {
+   "zh-TW": "灌裝機",
+   "ja": "充填機",
+   "ko": "충진기"
+  },
+  "Separating Unit": {
+   "zh-TW": "拆解機",
+   "ja": "解体機",
+   "ko": "분해기"
+  },
+  "Stagger": {
+   "zh-TW": "失衡值",
+   "ja": "ブレイク値",
+   "ko": "불균형치"
+  },
+  "Finisher": {
+   "zh-TW": "處決",
+   "ja": "終撃",
+   "ko": "처형"
+  },
+  "Gear": {
+   "zh-TW": "裝備",
+   "ja": "装備",
+   "ko": "장비"
+  },
+  "Blueprint": {
+   "zh-TW": "藍圖",
+   "ja": "図面",
+   "ko": "청사진"
+  },
+  "Combat": {
+   "zh-TW": "戰鬥",
+   "ja": "戦闘",
+   "ko": "전투"
+  },
+  "Protocol Automation-Core": {
+   "zh-TW": "協議核心",
+   "ja": "協約核心",
+   "ko": "프로토콜 코어"
+  },
+  "Core AIC Area": {
+   "zh-TW": "集成核心區域",
+   "ja": "集成工業エリア",
+   "ko": "통합 핵심 구역"
+  },
+  "Sub-PAC": {
+   "zh-TW": "次級核心",
+   "ja": "サブ協約核心",
+   "ko": "서브 코어"
+  },
+  "AIC Steward": {
+   "zh-TW": "集成管家",
+   "ja": "集成アシスタント",
+   "ko": "통합 관리 도우미"
+  },
+  "AIC Factory Plan": {
+   "zh-TW": "工業發展規劃",
+   "ja": "工業発展計画",
+   "ko": "공업 발전 계획"
+  },
+  "Electric Pylon": {
+   "zh-TW": "供電樁",
+   "ja": "送電スタンド",
+   "ko": "전력 공급기"
+  },
+  "Regional Development": {
+   "zh-TW": "地區建設",
+   "ja": "地域建設",
+   "ko": "지역 건설"
+  },
+  "Regional Transfer": {
+   "zh-TW": "跨地區傳輸",
+   "ja": "地域間転送",
+   "ko": "지역 간 전송"
+  },
+  "Outpost": {
+   "zh-TW": "據點",
+   "ja": "拠点",
+   "ko": "거점"
+  },
+  "Stock Bill": {
+   "zh-TW": "調度券",
+   "ja": "取引券",
+   "ko": "관리권"
+  },
+  "Depot Node": {
+   "zh-TW": "倉儲節點",
+   "ja": "保管ボックス",
+   "ko": "저장고 노드"
+  },
+  "Regional Development Level": {
+   "zh-TW": "地區建設等級",
+   "ja": "地域建設レベル",
+   "ko": "지역 건설 레벨"
+  },
+  "Depot": {
+   "zh-TW": "倉庫",
+   "ja": "倉庫",
+   "ko": "창고"
+  },
+  "Backpack": {
+   "zh-TW": "背包",
+   "ja": "道具箱",
+   "ko": "가방"
+  },
+  "TP Point": {
+   "zh-TW": "協議傳送點",
+   "ja": "協約転送ポイント",
+   "ko": "프로토콜 전송 지점"
+  },
+  "Protocol Management": {
+   "zh-TW": "協議管理",
+   "ja": "協約管理",
+   "ko": "프로토콜 관리"
+  },
+  "Thermal Bank": {
+   "zh-TW": "熱能池",
+   "ja": "発電機",
+   "ko": "열에너지 뱅크"
+  },
+  "Depot Bus": {
+   "zh-TW": "倉庫存取線",
+   "ja": "倉庫連結ハブ",
+   "ko": "창고 입출력 라인"
+  },
+  "Protocol Capacity": {
+   "zh-TW": "協議容量",
+   "ja": "協約容量",
+   "ko": "프로토콜 용량"
+  },
+  "Arts Infliction": {
+   "zh-TW": "法術附著",
+   "ja": "アーツ付着",
+   "ko": "아츠 부착"
+  },
+  "Arts Burst": {
+   "zh-TW": "法術爆發",
+   "ja": "アーツ爆発",
+   "ko": "아츠 폭발"
+  },
+  "Physical Status": {
+   "zh-TW": "物理異常",
+   "ja": "物理異常",
+   "ko": "물리 이상"
+  },
+  "Coolant Gel": {
+   "zh-TW": "冷卻脂",
+   "ja": "冷却グリース",
+   "ko": "냉각제"
+  },
+  "Logistics Units": {
+   "zh-TW": "物流設備",
+   "ja": "物流装置",
+   "ko": "물류 설비"
+  },
+  "Combat & Support": {
+   "zh-TW": "戰鬥輔助",
+   "ja": "戦闘サポート",
+   "ko": "전투 보조"
+  },
+  "Ornamental": {
+   "zh-TW": "裝飾物品",
+   "ja": "装飾品",
+   "ko": "장식 아이템"
+  },
+  "Planting": {
+   "zh-TW": "種植調配",
+   "ja": "栽培用",
+   "ko": "논배미 제작"
+  },
+  "Resourcing": {
+   "zh-TW": "資源開採",
+   "ja": "資源採集",
+   "ko": "자원 채집"
+  },
+  "Depot Access": {
+   "zh-TW": "倉儲存取",
+   "ja": "倉庫搬入出",
+   "ko": "저장고 입출력"
+  },
+  "Production I": {
+   "zh-TW": "基礎生產",
+   "ja": "基礎生産",
+   "ko": "기초 생산"
+  },
+  "Production II": {
+   "zh-TW": "合成製造",
+   "ja": "合成生産",
+   "ko": "합성과 제작"
+  },
+  "Power": {
+   "zh-TW": "電力",
+   "ja": "電力",
+   "ko": "전력"
+  },
+  "Miscellaneous": {
+   "zh-TW": "功能設備",
+   "ja": "サポート設備",
+   "ko": "기능성 설비"
+  },
+  "Auto-Farmer": {
+   "zh-TW": "自動農植機",
+   "ja": "自動農業マシン",
+   "ko": "농업 자동화 설비"
+  },
+  "Backup Power": {
+   "zh-TW": "備用電源",
+   "ja": "予備電源",
+   "ko": "예비 전원"
+  },
+  "Regional Overview": {
+   "zh-TW": "事務總覽",
+   "ja": "業務一覧",
+   "ko": "전체 업무"
+  },
+  "Continue Placing": {
+   "zh-TW": "連續擺放",
+   "ja": "連続設置",
+   "ko": "연속 배치"
+  },
+  "Si's Painting": {
+   "zh-TW": "祀的畫",
+   "ja": "スーの絵",
+   "ko": "사의 그림"
+  },
+  "Wuling City": {
+   "zh-TW": "武陵城",
+   "ja": "武陵城",
+   "ko": "무릉성"
+  },
+  "UP": {
+   "zh-TW": "機率提升",
+   "ja": "出現率アップ",
+   "ko": "확률 증가"
+  },
+  "Cabin": {
+   "zh-TW": "艙室",
+   "ja": "船室",
+   "ko": "선실"
+  },
+  "Clues": {
+   "zh-TW": "線索",
+   "ja": "手がかり",
+   "ko": "단서"
+  },
+  "Assign": {
+   "zh-TW": "進駐",
+   "ja": "配属",
+   "ko": "배치"
+  },
+  "Unlock": {
+   "zh-TW": "解鎖",
+   "ja": "解放",
+   "ko": "잠금 해제"
+  },
+  "Recommended": {
+   "zh-TW": "推薦",
+   "ja": "オススメ",
+   "ko": "추천"
+  },
+  "Essence Stats": {
+   "zh-TW": "附加技能",
+   "ja": "付加スキル",
+   "ko": "추가 스킬"
+  },
+  "Æther Resistance": {
+   "zh-TW": "超域抗性",
+   "ja": "超域耐性",
+   "ko": "초자연 저항"
+  },
+  "AIC": {
+   "zh-TW": "集成工業",
+   "ja": "集成工業",
+   "ko": "통합 공업"
+  },
+  "Aerospace Material": {
+   "zh-TW": "航太建材",
+   "ja": "宇宙建材",
+   "ko": "우주 건축 재료"
+  },
+  "Enemies": {
+   "zh-TW": "敵人",
+   "ja": "敵",
+   "ko": "적"
+  },
+  "Facility": {
+   "zh-TW": "設備",
+   "ja": "設備",
+   "ko": "설비"
+  },
+  "Weapon Type": {
+   "zh-TW": "武器類型",
+   "ja": "武器の種類",
+   "ko": "무기 유형"
+  }
+ }
+}

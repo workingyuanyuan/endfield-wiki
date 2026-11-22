@@ -7,6 +7,8 @@ lastVerified: 2026-11-22
 effectiveDate: 2026-07-16
 aliases:
   - "Alesh"
+  - "アレッシュ"
+  - "알레쉬"
 art:
   - title: 干员列表
     url: https://endfield.gryphline.com/en-us/operator

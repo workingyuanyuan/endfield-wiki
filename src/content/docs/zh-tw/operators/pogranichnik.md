@@ -8,6 +8,8 @@ effectiveDate: 2026-10-28
 aliases:
   - "Pogranichnik"
   - "骏卫"
+  - "ポグラニチニク"
+  - "포그라니치니크"
 art:
   - title: 幹員列表
     url: https://endfield.gryphline.com/en-us/operator

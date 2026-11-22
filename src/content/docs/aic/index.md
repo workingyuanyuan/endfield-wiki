@@ -8,6 +8,8 @@ effectiveDate: 2026-10-15
 aliases:
   - 集成工業總覽
   - 集成工业总览
+  - "集成工業の概要"
+  - "통합 공업 개요"
 sources:
   - title: warfarin.wiki, in-game tutorials Automated Industry Complex, Protocol Automation-Core, Sub-PAC, Regional Depot and AIC Factory Plan (game data 1.6)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_aic

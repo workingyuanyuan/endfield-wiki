@@ -8,6 +8,8 @@ effectiveDate: 2026-03-12
 aliases:
   - "安塔爾"
   - "安塔尔"
+  - "アンタル"
+  - "안탈"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

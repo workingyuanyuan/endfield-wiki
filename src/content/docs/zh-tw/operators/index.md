@@ -8,6 +8,8 @@ effectiveDate: 2026-11-21
 aliases:
   - "Arknights: Endfield operators list"
   - 明日方舟：终末地 干员列表
+  - "アークナイツ：エンドフィールド オペレーター一覧"
+  - "명일방주: 엔드필드 오퍼레이터 목록"
 sources:
   - title: 官方幹員列表 (Gryphline)
     url: https://endfield.gryphline.com/en-us/operator

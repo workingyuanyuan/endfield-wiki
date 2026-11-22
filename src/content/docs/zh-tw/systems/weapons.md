@@ -7,6 +7,8 @@ lastVerified: 2026-11-22
 effectiveDate: 2026-11-04
 aliases:
   - "Weapons list"
+  - "武器一覧"
+  - "무기 목록"
 sources:
   - title: "warfarin.wiki 武器列表（遊戲資料 1.6）"
     url: https://warfarin.wiki/en/weapons

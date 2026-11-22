@@ -8,6 +8,8 @@ effectiveDate: 2026-01-22
 aliases:
   - "Xaihi"
   - "賽希"
+  - "ザイヒ"
+  - "자이히"
 art:
   - title: 干员列表
     url: https://endfield.gryphline.com/en-us/operator

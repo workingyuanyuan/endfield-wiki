@@ -8,6 +8,8 @@ effectiveDate: 2026-11-22
 aliases:
   - "Enemy resistances"
   - "敌人抗性"
+  - "敵の耐性"
+  - "적 저항"
 sources:
   - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg

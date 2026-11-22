@@ -7,6 +7,8 @@ lastVerified: 2026-11-22
 effectiveDate: 2026-11-04
 aliases:
   - "提弗洛斯"
+  - "ティフォロス"
+  - "티프로스"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

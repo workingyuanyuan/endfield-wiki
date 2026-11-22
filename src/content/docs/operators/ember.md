@@ -8,6 +8,8 @@ effectiveDate: 2026-10-28
 aliases:
   - "餘燼"
   - "余烬"
+  - "エンバー"
+  - "엠버"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

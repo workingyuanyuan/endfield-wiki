@@ -7,6 +7,8 @@ lastVerified: 2026-11-22
 effectiveDate: 2026-01-22
 aliases:
   - "埃特拉"
+  - "エステーラ"
+  - "에스텔라"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

@@ -7,6 +7,8 @@ lastVerified: 2026-11-22
 effectiveDate: 2026-03-12
 aliases:
   - "大潘"
+  - "ダパン"
+  - "판"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

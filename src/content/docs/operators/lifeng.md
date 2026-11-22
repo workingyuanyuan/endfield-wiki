@@ -8,6 +8,8 @@ effectiveDate: 2026-10-28
 aliases:
   - "黎風"
   - "黎风"
+  - "リーフォン"
+  - "여풍"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

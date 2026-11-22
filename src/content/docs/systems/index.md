@@ -8,6 +8,8 @@ effectiveDate: 2026-11-21
 aliases:
   - 系統總覽
   - 系统总览
+  - "システム概要"
+  - "시스템 개요"
 sources:
   - title: Official news list (Gryphline)
     url: https://endfield.gryphline.com/en-us/news

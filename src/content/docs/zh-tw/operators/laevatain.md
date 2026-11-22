@@ -8,6 +8,8 @@ effectiveDate: 2026-05-13
 aliases:
   - "Laevatain"
   - "莱万汀"
+  - "レーヴァテイン"
+  - "레바테인"
 art:
   - title: 幹員列表
     url: https://endfield.gryphline.com/en-us/operator

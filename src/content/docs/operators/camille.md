@@ -8,6 +8,8 @@ effectiveDate: 2026-08-08
 aliases:
   - "卡繆"
   - "卡缪"
+  - "カミーユ"
+  - "카뮤"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

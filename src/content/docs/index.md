@@ -8,6 +8,8 @@ effectiveDate: 2026-10-15
 aliases:
   - 明日方舟：終末地 Wiki
   - 明日方舟：终末地 Wiki
+  - "アークナイツ：エンドフィールド Wiki"
+  - "명일방주: 엔드필드 위키"
 sources:
   - title: Official news list (Gryphline)
     url: https://endfield.gryphline.com/en-us/news

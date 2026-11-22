@@ -8,6 +8,8 @@ effectiveDate: 2026-10-28
 aliases:
   - "Lifeng"
   - "黎風"
+  - "リーフォン"
+  - "여풍"
 art:
   - title: 干员列表
     url: https://endfield.gryphline.com/en-us/operator

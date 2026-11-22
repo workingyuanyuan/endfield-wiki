@@ -8,6 +8,8 @@ effectiveDate: 2026-10-15
 aliases:
   - "Zhuang Fangyi"
   - "莊方宜"
+  - "ゾアン・ファンイ"
+  - "장방이"
 art:
   - title: 干员列表
     url: https://endfield.gryphline.com/en-us/operator

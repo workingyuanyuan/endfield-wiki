@@ -8,6 +8,8 @@ effectiveDate: 2026-10-14
 aliases:
   - "梨諾"
   - "梨诺"
+  - "リーノ"
+  - "리노"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

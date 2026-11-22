@@ -8,6 +8,8 @@ effectiveDate: 2026-10-15
 aliases:
   - AIC overview
   - 集成工业总览
+  - "集成工業の概要"
+  - "통합 공업 개요"
 sources:
   - title: warfarin.wiki 遊戲內教學「集成工業系統」「協議核心」「次級核心」「地區倉庫」「工業發展規劃」（遊戲資料 1.6）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_aic

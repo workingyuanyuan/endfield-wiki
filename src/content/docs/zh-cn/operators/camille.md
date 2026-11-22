@@ -8,6 +8,8 @@ effectiveDate: 2026-08-08
 aliases:
   - "Camille"
   - "卡繆"
+  - "カミーユ"
+  - "카뮤"
 art:
   - title: 干员列表
     url: https://endfield.gryphline.com/en-us/operator

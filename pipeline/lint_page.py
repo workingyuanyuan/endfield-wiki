@@ -1,7 +1,9 @@
 """Check one page without a build.
 
 Usage: python3 -I pipeline/lint_page.py <page.md> [...]
-A page under a zh-tw/ folder is checked as Traditional Chinese, any other as English.
+A page under a zh-tw/, ja/ or ko/ folder is checked as Traditional Chinese, Japanese or Korean,
+any other as English. A Japanese or Korean page may not link a page that records/pending.json
+lists for its language (name it as plain text instead).
 Exit code 1 when a page has an error. Lines marked CHECK are facts the script could not
 find in the cited notices: resolve each one (fix it, or cite the notice that has it).
 """
@@ -19,6 +21,32 @@ from notice_text import text_of  # noqa: E402
 
 REQUIRED = ['title', 'description', 'appliesTo', 'caveat', 'lastVerified', 'sources', 'aliases']
 PAGES = set(open(os.path.join(ROOT, 'records', 'pages.txt'), encoding='utf8').read().split())
+PENDING = {k: set(v) for k, v in json.load(open(os.path.join(ROOT, 'records', 'pending.json'), encoding='utf8')).items()}
+MAX_DESC = {'en': 110, 'zh-tw': 70, 'ja': 70, 'ko': 90}
+
+
+def jako_names():
+    """Japanese and Korean names and game terms the page scripts know (records/names-jako.json and
+    the records written by ed_extract.py)."""
+    out = {'ja': set(), 'ko': set()}
+    jako = json.load(open(os.path.join(ROOT, 'records', 'names-jako.json'), encoding='utf8'))
+    for e in jako['names'] + list(jako['terms'].values()):
+        for lang in out:
+            out[lang].add(e[lang])
+
+    def walk(o):
+        if isinstance(o, dict):
+            for lang in out:
+                if isinstance(o.get(lang), str) and isinstance(o.get('en'), str) and len(o[lang]) <= 40:
+                    out[lang].add(re.sub(r'<p="[^"]*" padding=0>(.*?)</p>', r'\1', o[lang]))
+            for v in o.values():
+                walk(v)
+        elif isinstance(o, list):
+            for v in o:
+                walk(v)
+    for name in ('recommend', 'base-skills', 'weapon-essence', 'recipes', 'enemies'):
+        walk(json.load(open(os.path.join(ROOT, 'records', name + '.json'), encoding='utf8')))
+    return out
 
 
 def frontmatter(text):
@@ -70,7 +98,10 @@ def known_dates(cids):
 def lint(path):
     errors, checks = [], []
     text = open(path, encoding='utf8').read()
-    zh = '/zh-tw/' in path.replace(os.sep, '/')
+    norm = path.replace(os.sep, '/')
+    m = re.search(r'src/content/docs/(zh-tw|ja|ko)/', norm) or re.search(r'(?:^|/)(zh-tw|ja|ko)/', norm)
+    lang = m.group(1) if m else 'en'
+    zh = lang == 'zh-tw'
     fm, body = frontmatter(text)
     if fm is None:
         return ['no frontmatter'], []
@@ -88,7 +119,7 @@ def lint(path):
             if re.search(r'[*`\[\]]|\]\(', bare):
                 errors.append(f'frontmatter: {key} contains Markdown')
     desc = (fm.get('description') or '').strip('"') if isinstance(fm.get('description'), str) else ''
-    limit = 70 if zh else 110
+    limit = MAX_DESC[lang]
     if len(desc) > limit:
         errors.append(f'description is {len(desc)} characters, limit {limit}')
     if fm.get('lastVerified') not in VERIFIED:
@@ -128,13 +159,15 @@ def lint(path):
         t = target.split('#')[0]
         if not t.endswith('/'):
             errors.append(f'link must end with a slash: {target}')
-        if zh and not t.startswith('/zh-tw/'):
-            errors.append(f'link in a zh-tw page must start with /zh-tw/: {target}')
-        if not zh and re.match(r'/zh-(tw|cn)/', t):
+        if lang != 'en' and not t.startswith(f'/{lang}/'):
+            errors.append(f'link in a {lang} page must start with /{lang}/: {target}')
+        if lang == 'en' and re.match(r'/(zh-tw|zh-cn|ja|ko)/', t):
             errors.append(f'link in an English page must not carry a language prefix: {target}')
-        page = re.sub(r'^/zh-tw/', '/', t).strip('/')
+        page = re.sub(r'^/(zh-tw|ja|ko)/', '/', t).strip('/')
         if (page or 'index') not in PAGES and (page + '/index') not in PAGES:
             errors.append(f'link to a page that is not planned: {target}')
+        elif (page or 'index') in PENDING.get(lang, ()) or (page + '/index') in PENDING.get(lang, ()):
+            errors.append(f'link to a page that does not exist in {lang} yet (records/pending.json); name it as plain text: {target}')
     if re.search(r'\]\((?!/|https?://)', body):
         errors.append('a link is neither root-relative nor absolute')
 
@@ -147,6 +180,16 @@ def lint(path):
         for name in sorted(set(re.findall(r'「([^」]{2,30})」', body))):
             if name not in notices and name not in titles:
                 checks.append(f'name 「{name}」 is not in the cited zh-tw notices')
+    if lang in ('ja', 'ko'):
+        # Names in 「」 are banner, version, event and skill names: each must be a game name or term,
+        # or start with a game term (「オススメオペレーター」 is a column named after one).
+        known = jako_names()[lang]
+        rest = body
+        for k in sorted((k for k in known if '「' in k), key=len, reverse=True):
+            rest = rest.replace(k, '')  # names that carry 「」 in their own text
+        for name in sorted(set(re.findall(r'「([^」]{1,40})」', rest))):
+            if name not in known and not any(name.startswith(k) for k in known if len(k) >= 2):
+                checks.append(f'name 「{name}」 is not a {lang} name of the records or a term of records/names-jako.json')
     return errors, checks
 
 

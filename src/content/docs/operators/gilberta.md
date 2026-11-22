@@ -8,6 +8,8 @@ effectiveDate: 2026-05-13
 aliases:
   - "潔爾佩塔"
   - "洁尔佩塔"
+  - "ギルベルタ"
+  - "질베르타"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

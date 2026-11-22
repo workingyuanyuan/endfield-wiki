@@ -8,6 +8,8 @@ effectiveDate: 2026-01-22
 aliases:
   - "狼衛"
   - "狼卫"
+  - "ウルフガード"
+  - "울프가드"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

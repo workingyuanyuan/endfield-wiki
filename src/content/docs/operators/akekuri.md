@@ -7,6 +7,8 @@ lastVerified: 2026-11-22
 effectiveDate: 2026-01-22
 aliases:
   - "秋栗"
+  - "アケクリ"
+  - "아케쿠리"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

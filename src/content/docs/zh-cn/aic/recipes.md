@@ -8,6 +8,8 @@ effectiveDate: 2026-11-22
 aliases:
   - "Recipes by product"
   - "依產品查配方"
+  - "製品別レシピ"
+  - "제품별 제작법"
 sources:
   - title: "配方表 FactoryMachineCraftTable（游戏数据 1.6）"
     url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/FactoryMachineCraftTable.json

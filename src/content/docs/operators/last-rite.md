@@ -8,6 +8,8 @@ effectiveDate: 2026-10-28
 aliases:
   - "別禮"
   - "别礼"
+  - "ラストライト"
+  - "라스트 라이트"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

@@ -8,6 +8,8 @@ effectiveDate: 2026-03-12
 aliases:
   - "艾維文娜"
   - "艾维文娜"
+  - "アイビーエナ"
+  - "아비웨나"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator

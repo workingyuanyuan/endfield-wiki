@@ -1,52 +1,52 @@
 {
  "yvonne": [
-  {"version": "1.1", "en": "The description of the ultimate was reworded; the effect did not change. A bug that could stop Yvonne from performing a finisher was fixed.", "zh-TW": "終結技的描述文字經過調整，實際效果不變。修復特定情況下無法處決敵人的問題。"}
+  {"version": "1.1", "en": "The description of the ultimate was reworded; the effect did not change. A bug that could stop Yvonne from performing a finisher was fixed.", "zh-TW": "終結技的描述文字經過調整，實際效果不變。修復特定情況下無法處決敵人的問題。", "ja": "必殺技の説明文が修正された。効果は変わっていない。イヴォンヌが終撃を行えないことがある不具合が修正された。", "ko": "궁극기의 설명 문구가 수정되었다. 효과는 바뀌지 않았다. 이본이 처형을 하지 못하는 경우가 있던 버그가 수정되었다."}
  ],
  "laevatain": [
-  {"version": "1.1", "en": "Three bugs fixed: two that miscounted Melting Flame stacks on the enhanced battle skill's extra hit, and one that ended Twilight early when a battle skill was cast just before it ran out.", "zh-TW": "修復三個問題：兩個是強化戰技追加攻擊的熔火層數計算異常，一個是終結技結束前施放戰技會使終結技提前結束。"},
-  {"version": "1.2", "en": "The description of Twilight was reworded to say that Smouldering Fire and Seethe do not shorten it; the effect did not change.", "zh-TW": "黃昏的描述補上「施放焚滅或沸騰不會縮短持續時間」，實際效果不變。"}
+  {"version": "1.1", "en": "Three bugs fixed: two that miscounted Melting Flame stacks on the enhanced battle skill's extra hit, and one that ended Twilight early when a battle skill was cast just before it ran out.", "zh-TW": "修復三個問題：兩個是強化戰技追加攻擊的熔火層數計算異常，一個是終結技結束前施放戰技會使終結技提前結束。", "ja": "不具合3件が修正された。強化戦技の追加攻撃で劫火のスタック数が正しく数えられない不具合2件と、ラグナロクの終了直前に戦技を使うとラグナロクが早く終わる不具合1件である。", "ko": "버그 3건이 수정되었다. 강화 배틀 스킬의 추가 공격에서 녹아내린 불꽃 중첩 수가 잘못 계산되던 버그 2건과, 황혼이 끝나기 직전에 배틀 스킬을 사용하면 황혼이 일찍 끝나던 버그 1건이다."},
+  {"version": "1.2", "en": "The description of Twilight was reworded to say that Smouldering Fire and Seethe do not shorten it; the effect did not change.", "zh-TW": "黃昏的描述補上「施放焚滅或沸騰不會縮短持續時間」，實際效果不變。", "ja": "ラグナロクの説明文に、焼滅と烈火では持続時間が短くならないことが書き加えられた。効果は変わっていない。", "ko": "황혼의 설명 문구에 불타오르는 화염과 열화로는 지속 시간이 줄어들지 않는다는 내용이 추가되었다. 효과는 바뀌지 않았다."}
  ],
  "last-rite": [
-  {"version": "1.1", "en": "A bug that could keep the combo skill from applying Solidification was fixed.", "zh-TW": "修復特定情況下連攜技無法凝結敵人的問題。"},
-  {"version": "1.2", "en": "A bug where the combo skill could cut Tangtang's ultimate short was fixed.", "zh-TW": "修復特定情況下施放連攜技會提前打斷湯湯終結技的問題。"}
+  {"version": "1.1", "en": "A bug that could keep the combo skill from applying Solidification was fixed.", "zh-TW": "修復特定情況下連攜技無法凝結敵人的問題。", "ja": "連携技で凍結を付与できないことがある不具合が修正された。", "ko": "연계 스킬로 동결을 부여하지 못하는 경우가 있던 버그가 수정되었다."},
+  {"version": "1.2", "en": "A bug where the combo skill could cut Tangtang's ultimate short was fixed.", "zh-TW": "修復特定情況下施放連攜技會提前打斷湯湯終結技的問題。", "ja": "連携技がタンタンの必殺技を途中で打ち切ることがある不具合が修正された。", "ko": "연계 스킬이 탕탕의 궁극기를 도중에 끊는 경우가 있던 버그가 수정되었다."}
  ],
  "ember": [
-  {"version": "1.1", "en": "Two bugs fixed: abnormal behaviour when hit by a multi-hit attack while casting the battle skill, and the third basic attack losing its target.", "zh-TW": "修復兩個問題：施放戰技期間受到多段攻擊時表現異常，以及第三段普通攻擊失去目標。"}
+  {"version": "1.1", "en": "Two bugs fixed: abnormal behaviour when hit by a multi-hit attack while casting the battle skill, and the third basic attack losing its target.", "zh-TW": "修復兩個問題：施放戰技期間受到多段攻擊時表現異常，以及第三段普通攻擊失去目標。", "ja": "不具合2件が修正された。戦技の発動中に多段攻撃を受けると挙動がおかしくなる不具合と、3段目の通常攻撃が目標を見失う不具合である。", "ko": "버그 2건이 수정되었다. 배틀 스킬 사용 중 다단 공격을 받으면 동작이 이상해지던 버그와, 3단계 일반 공격이 대상을 놓치던 버그이다."}
  ],
  "da-pan": [
-  {"version": "1.1", "en": "A bug where the ultimate and the combo skill could lose their target was fixed.", "zh-TW": "修復特定情況下終結技、連攜技失去目標的問題。"}
+  {"version": "1.1", "en": "A bug where the ultimate and the combo skill could lose their target was fixed.", "zh-TW": "修復特定情況下終結技、連攜技失去目標的問題。", "ja": "必殺技と連携技が目標を見失うことがある不具合が修正された。", "ko": "궁극기와 연계 스킬이 대상을 놓치는 경우가 있던 버그가 수정되었다."}
  ],
  "avywenna": [
-  {"version": "1.1", "en": "Two potentials were fixed to match their descriptions: Carrot and Sharp Stick had the wrong effect, and Doubling Down could activate when it should not.", "zh-TW": "兩項潛能修正為與描述一致：恩威並施的實際效果與描述不符，籌碼加倍會在不該生效時生效。"}
+  {"version": "1.1", "en": "Two potentials were fixed to match their descriptions: Carrot and Sharp Stick had the wrong effect, and Doubling Down could activate when it should not.", "zh-TW": "兩項潛能修正為與描述一致：恩威並施的實際效果與描述不符，籌碼加倍會在不該生效時生效。", "ja": "潜在2つが説明どおりの効果に修正された。人参とムチは効果が誤っており、ダブル・ダウンは発動すべきでないときに発動することがあった。", "ko": "잠재 능력 2개가 설명대로의 효과로 수정되었다. 회유와 위압은 효과가 잘못되어 있었고, 더블 베팅은 발동하지 않아야 할 때 발동하는 경우가 있었다."}
  ],
  "antal": [
-  {"version": "1.1", "en": "The name of the Chinese voice actor was updated.", "zh-TW": "更新了中文語音配音演員的姓名。"}
+  {"version": "1.1", "en": "The name of the Chinese voice actor was updated.", "zh-TW": "更新了中文語音配音演員的姓名。", "ja": "中国語ボイスの声優名が更新された。", "ko": "중국어 음성 성우의 이름이 갱신되었다."}
  ],
  "gilberta": [
-  {"version": "1.2", "en": "A bug that kept finisher damage from receiving certain bonuses was fixed.", "zh-TW": "修復特定情況下處決傷害無法獲得特定加成效果的問題。"}
+  {"version": "1.2", "en": "A bug that kept finisher damage from receiving certain bonuses was fixed.", "zh-TW": "修復特定情況下處決傷害無法獲得特定加成效果的問題。", "ja": "終撃のダメージに一部の強化効果が乗らない不具合が修正された。", "ko": "처형 피해에 일부 강화 효과가 적용되지 않던 버그가 수정되었다."}
  ],
  "alesh": [
-  {"version": "1.2", "en": "A bug that kept finisher damage from receiving certain bonuses was fixed.", "zh-TW": "修復特定情況下處決傷害無法獲得特定加成效果的問題。"},
-  {"version": "1.4", "en": "A bug where the battle skill could not trigger certain weapon skill effects once the potential Super Salty Comeback was unlocked was fixed.", "zh-TW": "修復解鎖潛能鹹鱗翻身後，施放戰技無法觸發部分武器技能效果的問題。"}
+  {"version": "1.2", "en": "A bug that kept finisher damage from receiving certain bonuses was fixed.", "zh-TW": "修復特定情況下處決傷害無法獲得特定加成效果的問題。", "ja": "終撃のダメージに一部の強化効果が乗らない不具合が修正された。", "ko": "처형 피해에 일부 강화 효과가 적용되지 않던 버그가 수정되었다."},
+  {"version": "1.4", "en": "A bug where the battle skill could not trigger certain weapon skill effects once the potential Super Salty Comeback was unlocked was fixed.", "zh-TW": "修復解鎖潛能鹹鱗翻身後，施放戰技無法觸發部分武器技能效果的問題。", "ja": "潜在「人生大逆転！」の解放後、戦技で一部の武器スキルの効果が発動しない不具合が修正された。", "ko": "잠재 능력 「린수의 반격」을 해제한 뒤 배틀 스킬로 일부 무기 스킬 효과가 발동하지 않던 버그가 수정되었다."}
  ],
  "fluorite": [
-  {"version": "1.2", "en": "A bug that kept finisher damage from receiving certain bonuses was fixed.", "zh-TW": "修復特定情況下處決傷害無法獲得特定加成效果的問題。"},
-  {"version": "1.5", "en": "The wording of the Slow effect in the battle skill description was reworded; the effect did not change.", "zh-TW": "戰技描述中關於減速效果的文字經過調整，實際效果不變。"}
+  {"version": "1.2", "en": "A bug that kept finisher damage from receiving certain bonuses was fixed.", "zh-TW": "修復特定情況下處決傷害無法獲得特定加成效果的問題。", "ja": "終撃のダメージに一部の強化効果が乗らない不具合が修正された。", "ko": "처형 피해에 일부 강화 효과가 적용되지 않던 버그가 수정되었다."},
+  {"version": "1.5", "en": "The wording of the Slow effect in the battle skill description was reworded; the effect did not change.", "zh-TW": "戰技描述中關於減速效果的文字經過調整，實際效果不變。", "ja": "戦技の説明文のうち、スロー効果に関する文言が修正された。効果は変わっていない。", "ko": "배틀 스킬 설명 중 감속 효과에 관한 문구가 수정되었다. 효과는 바뀌지 않았다."}
  ],
  "tangtang": [
-  {"version": "1.2", "en": "Two bugs fixed: the status icon of the ultimate did not last as long as the effect, and Last Rite's combo skill could cut the ultimate short.", "zh-TW": "修復兩個問題：終結技的狀態圖示顯示時間與實際效果不同步，以及別禮的連攜技會提前打斷終結技。"},
-  {"version": "1.6", "en": "The description of the ultimate was reworded to say that it applies Immobilization; the effect did not change.", "zh-TW": "終結技的描述改為「對範圍內的敵人施加一段時間的定身」，實際效果不變。"}
+  {"version": "1.2", "en": "Two bugs fixed: the status icon of the ultimate did not last as long as the effect, and Last Rite's combo skill could cut the ultimate short.", "zh-TW": "修復兩個問題：終結技的狀態圖示顯示時間與實際效果不同步，以及別禮的連攜技會提前打斷終結技。", "ja": "不具合2件が修正された。必殺技の状態アイコンの表示時間が効果と合っていなかった不具合と、ラストライトの連携技が必殺技を途中で打ち切ることがある不具合である。", "ko": "버그 2건이 수정되었다. 궁극기의 상태 아이콘 표시 시간이 효과와 맞지 않던 버그와, 라스트 라이트의 연계 스킬이 궁극기를 도중에 끊는 경우가 있던 버그이다."},
+  {"version": "1.6", "en": "The description of the ultimate was reworded to say that it applies Immobilization; the effect did not change.", "zh-TW": "終結技的描述改為「對範圍內的敵人施加一段時間的定身」，實際效果不變。", "ja": "必殺技の説明文に、行動停止を付与することが書き加えられた。効果は変わっていない。", "ko": "궁극기의 설명 문구에 속박을 부여한다는 내용이 추가되었다. 효과는 바뀌지 않았다."}
  ],
  "rossi": [
-  {"version": "1.5", "en": "The wording of the Critical Rate boost in the battle skill description was reworded; the effect did not change.", "zh-TW": "戰技描述中關於暴擊率提升的文字經過調整，實際效果不變。"}
+  {"version": "1.5", "en": "The wording of the Critical Rate boost in the battle skill description was reworded; the effect did not change.", "zh-TW": "戰技描述中關於暴擊率提升的文字經過調整，實際效果不變。", "ja": "戦技の説明文のうち、会心率の上昇に関する文言が修正された。効果は変わっていない。", "ko": "배틀 스킬 설명 중 치명타 확률 증가에 관한 문구가 수정되었다. 효과는 바뀌지 않았다."}
  ],
  "arcane": [
-  {"version": "1.5", "en": "A bug that could cause abnormal SP return and damage after casting the battle skill in the Array Arcana: INT form was fixed.", "zh-TW": "修復處於「陣訣·智」形態時，特定操作可能導致施放戰技後技力返還及傷害異常的問題。"}
+  {"version": "1.5", "en": "A bug that could cause abnormal SP return and damage after casting the battle skill in the Array Arcana: INT form was fixed.", "zh-TW": "修復處於「陣訣·智」形態時，特定操作可能導致施放戰技後技力返還及傷害異常的問題。", "ja": "陣訣・知の形態で戦技を使ったあと、SPの返還とダメージがおかしくなることがある不具合が修正された。", "ko": "진결 · 지혜 형태에서 배틀 스킬을 사용한 뒤 스킬 게이지 반환과 피해가 비정상적으로 되는 경우가 있던 버그가 수정되었다."}
  ],
  "liino": [
-  {"version": "1.5", "en": "A bug where the first hit of the battle skill interrupted an enemy's charging state an abnormal number of times was fixed.", "zh-TW": "修復戰技初次命中敵人時，打斷敵人蓄力狀態次數異常的問題。"}
+  {"version": "1.5", "en": "A bug where the first hit of the battle skill interrupted an enemy's charging state an abnormal number of times was fixed.", "zh-TW": "修復戰技初次命中敵人時，打斷敵人蓄力狀態次數異常的問題。", "ja": "戦技の初撃が敵のチャージ状態を中断する回数がおかしかった不具合が修正された。", "ko": "배틀 스킬의 첫 타격이 적의 차지 상태를 끊는 횟수가 비정상적이던 버그가 수정되었다."}
  ],
  "zhuang-fangyi": [
-  {"version": "1.6", "en": "A bug where Ultimate Energy did not return to its earlier state when leaving a dungeon after casting the ultimate was fixed.", "zh-TW": "修復開啟終結技後退出副本時，終結技能量未正確回到進入副本時狀態的問題。"}
+  {"version": "1.6", "en": "A bug where Ultimate Energy did not return to its earlier state when leaving a dungeon after casting the ultimate was fixed.", "zh-TW": "修復開啟終結技後退出副本時，終結技能量未正確回到進入副本時狀態的問題。", "ja": "必殺技を発動したあとにダンジョンを出ると、必殺チャージが元の状態に戻らない不具合が修正された。", "ko": "궁극기를 발동한 뒤 던전에서 나가면 궁극기 에너지가 원래 상태로 돌아오지 않던 버그가 수정되었다."}
  ]
 }

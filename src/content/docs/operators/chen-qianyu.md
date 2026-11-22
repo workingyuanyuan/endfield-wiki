@@ -8,6 +8,8 @@ effectiveDate: 2026-01-22
 aliases:
   - "陳千語"
   - "陈千语"
+  - "チェン・センユー"
+  - "진천우"
 art:
   - title: Operator list
     url: https://endfield.gryphline.com/en-us/operator
