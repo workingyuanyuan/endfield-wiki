@@ -21,7 +21,8 @@
 //  9. The 404 page links each language's home page and page list.
 // 10. robots.txt names the sitemap and carries a Content-Signal line.
 // 11. The header links the page's Markdown twin, llms.txt and index.json, with the key hints
-//     [M], [L], [J] drawn by the built CSS.
+//     [M], [L], [J] drawn by the built CSS; no text in <main> is about the site or the page
+//     (scripts/check-page-text.mjs).
 // Being found: title, description, canonical, hreflang and sitemap (scripts/check-found.mjs).
 
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
@@ -34,6 +35,7 @@ import { SITE, LOCALES, LLMS_NOTES, localeOf, bareId, idInLocale, htmlPath, mdPa
 import { bundlePath } from '../src/lib/llms.mjs';
 import { readPages, readPending } from '../src/lib/content-index.mjs';
 import { checkFound } from './check-found.mjs';
+import { checkHeaderLinks, checkKeyHintCss, checkSelfReference } from './check-page-text.mjs';
 
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
 const LIMIT = 5000;
@@ -272,6 +274,11 @@ for (const { id, data } of pages) {
 		}
 	}
 
+	// Header links and page text (scripts/check-page-text.mjs): the header links the twin,
+	// llms.txt and index.json, and no text in <main> is about the site or the page.
+	checkHeaderLinks(doc, id, fail, { markdown: withBase(mdPath(id)), llms: withBase(llmsPath(localeOf(id))), json: withBase('/index.json') });
+	checkSelfReference(doc, id, fail);
+
 	// 5. No decoration leak into extracted text.
 	const visible = normalize(doc.body.textContent);
 	for (const [name, pattern] of [
@@ -363,10 +370,7 @@ if (!robots.includes(`Sitemap: ${SITE}/sitemap-index.xml`)) fail('robots.txt', '
 if (!/^Content-Signal: /m.test(robots)) fail('robots.txt', 'no Content-Signal line');
 
 // The key hints of the header links ([M], [L], [J]) are drawn by the built CSS.
-const cssFiles = readdirSync(join(DIST, '_astro')).filter((f) => f.endsWith('.css'));
-if (!cssFiles.some((f) => /\.outputs[^{]*\ba[^{]*::?before\s*\{[^}]*content:\s*['"]\[['"]\s*attr\(data-key\)/.test(read(`_astro/${f}`)))) {
-	fail('_astro/*.css', 'no key hint drawn before the header format links');
-}
+checkKeyHintCss(DIST, fail);
 
 checkFound(DIST, pages, fail);
 
