@@ -48,6 +48,13 @@ The owner asked for Japanese (`/ja/`) and Korean (`/ko/`). Fable, Astra and Neon
 - No human review of the Japanese and Korean text. The checks are scripts and a reader of another model family than the writer.
 - Order: the pages the scripts write (operators, names, weapons, Dijiang, recipes, enemies) with the home and index pages first; the hand-written pages after.
 
+Site code for the two languages (2026-11-22):
+
+- Partial locale. `records/pending.json` (committed) lists, per language folder, the English pages that language does not have yet; every other English page exists in `ja` and `ko`. `pnpm verify` fails for a missing page that the file does not list, for a listed page that exists, and for a link to a listed page. Japanese and Korean index and home pages list only pages that exist in that language. Remove an id from the file in the commit that adds the page.
+- Starlight 0.43 builds an English fallback at the Japanese or Korean address of every page that language lacks, and has no option to turn that off. The fallbacks are kept, so the language picker on an English page never leads to a 404, and `src/routeData.ts` marks each `noindex`, gives it no hreflang links and no JSON-LD and leaves it out of the site search; it also drops such pages from the sidebars and drops hreflang links to languages a page lacks. The sitemap (`src/lib/sitemap.mjs`) lists only pages of the content collection, so fallbacks and their alternates stay out; `llms.txt`, bundles, `index.json` and Markdown twins are built from the collection and never had them. `scripts/check-dist.mjs` checks all of this.
+- Description limits: English 110, Chinese 70, Japanese 70, Korean 90 characters (`maxDescription` in `LOCALES`).
+- Names in the site layer: titles エンドフィールド Wiki and 엔드필드 Wiki; 非公式 / 비공식; sidebar groups from the game's text tables where the game has the word (オペレーター / 오퍼레이터, 集成工業 / 통합 공업, システム / 시스템), バージョン / 버전 otherwise; version 1.6 is 「丹青渡」 / 「단청도」 (ja-jp and ko-kr text of notice 9560).
+
 ## Advisors (2026-11-21)
 
 Astra and Neon were asked before building (briefs and answers in `~/.local/state/delegation-log/docs-sites/20261121-205412-*`). Adopted from both: no page per item, authority by kind of fact, two sites that share one data mine count as one source, resolve the 37 against 34 operator count before writing, every page names its version. They disagreed on scope (about 16 pages on AIC problems against about 55 to 60), on production (all records against a mix) and on the home page (direct links against index pages); the owner chose the second in each case.
@@ -102,10 +109,10 @@ After a change to a record: `build_pages.py`, `build_lists.py`, `to-zh-cn.py`, t
 
 ## Content rules
 
-- Pages live in `src/content/docs/` (English), `src/content/docs/zh-tw/` and `src/content/docs/zh-cn/`. Addresses use the official English name in lower case with hyphens: `operators/laevatain`, `operators/last-rite`, `versions/1-6`. A section's index page is `<section>/index.md`.
+- Pages live in `src/content/docs/` (English), `src/content/docs/zh-tw/`, `src/content/docs/zh-cn/`, `src/content/docs/ja/` and `src/content/docs/ko/`. Addresses use the official English name in lower case with hyphens: `operators/laevatain`, `operators/last-rite`, `versions/1-6`. A section's index page is `<section>/index.md`.
 - Do not edit `zh-cn` pages by hand. Run `scripts/to-zh-cn.py` after every change to a `zh-tw` page. When a `zh-tw` page brings in a new name, compare it with the mainland site and add a pair to `VOC` when the two differ beyond the script (one did: 洛西 / 洛茜, Rossi). A table whose header names both 繁體中文 and 簡體中文 keeps its rows as written. A sentence that quotes a Traditional name needs an entry in `FIXES`.
 - Every page has `aliases`: the title and aliases together are the same set of strings in every language, and the Simplified title must be among the aliases of the `zh-tw` page.
-- Write links and images root-relative and without the site's sub-path: `/operators/laevatain/`, `/art/operators/laevatain.webp`. In `zh-tw` pages, links start with `/zh-tw/`; image paths do not.
+- Write links and images root-relative and without the site's sub-path: `/operators/laevatain/`, `/art/operators/laevatain.webp`. In `zh-tw` pages, links start with `/zh-tw/` (in `ja` and `ko` pages with `/ja/` and `/ko/`); image paths do not.
 - Quote a frontmatter value that contains a colon followed by a space (`"Arknights: Endfield ..."`).
 - Times: Asia server time (UTC+8), written without a label. "Server time" in a notice is UTC+8 on the Asia server and UTC-5 on the Americas / Europe server; a maintenance window is the same six hours on both (06:00 to 12:00 UTC+8 is 17:00 to 23:00 UTC-5 the day before). A banner that closes "before version update and maintenance" ends at "End of Version x"; do not infer a date.
 - Version numbers are not in official notices; they come from Endfield Talos Wiki (source in the page notes of `versions/`). Pages give the number with the title.
@@ -119,7 +126,7 @@ After a change to a record: `build_pages.py`, `build_lists.py`, `to-zh-cn.py`, t
 
 ## Skin rules
 
-- The skin is `src/styles/endfield.css`. Heading font: Lexend (SIL OFL 1.1, from `@fontsource-variable/lexend`); Chinese uses system fonts, with Simplified ones on `zh-CN` pages.
+- The skin is `src/styles/endfield.css`. Heading font: Lexend (SIL OFL 1.1, from `@fontsource-variable/lexend`); Chinese uses system fonts, with Simplified ones on `zh-CN` pages. Japanese and Korean pages take their own system fonts (`--ef-ja`, `--ef-ko`), so kanji never take Chinese glyph forms; Japanese breaks lines with `line-break: strict`, Korean by word (`word-break: keep-all`); small spaced labels are spaced 0.02em instead of 0.06 to 0.08em on those pages.
 - In the light theme yellow is a ground colour only (highlight under links, selected row, marks); text accents are ink. In the dark theme yellow carries links.
 - Text drawn with CSS `content`: the double slash before `h2`. A pattern for it is in check 5 of `scripts/check-dist.mjs`.
 - Three Starlight components are overridden: `SiteTitle`, `MarkdownContent`, `ThemeSelect`.

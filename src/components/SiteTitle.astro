@@ -4,8 +4,10 @@
 // has a single-key shortcut (M, L, J).
 import { LABELS, pageId, localeOf, mdPath, llmsPath, withBase } from '../lib/site.mjs';
 
-const { siteTitle, siteTitleHref, entry } = Astro.locals.starlightRoute;
-const locale = localeOf(entry.id);
+const { siteTitle, siteTitleHref, entry, id: routeId } = Astro.locals.starlightRoute;
+// The header follows the address: on Starlight's English fallback at a Japanese or Korean
+// address it stays Japanese or Korean, while the Markdown link names the English twin shown.
+const locale = localeOf(pageId(routeId));
 const t = LABELS[locale.lang];
 const links = [
 	...(entry.data.lastVerified ? [{ key: 'M', label: 'Markdown', href: withBase(mdPath(pageId(entry.id))) }] : []),

@@ -8,7 +8,7 @@ export const SITE = (process.env.SITE_URL ?? 'https://yuanaruru.com/endfield-wik
 export const ORIGIN = new URL(SITE).origin;
 /** Sub-path the site is served under: `/endfield-wiki`, or the empty string at a domain root. */
 export const BASE = new URL(SITE).pathname.replace(/\/+$/, '');
-export const TITLE = { en: 'Endfield Wiki', 'zh-TW': '終末地 Wiki', 'zh-CN': '终末地 Wiki' };
+export const TITLE = { en: 'Endfield Wiki', 'zh-TW': '終末地 Wiki', 'zh-CN': '终末地 Wiki', ja: 'エンドフィールド Wiki', ko: '엔드필드 Wiki' };
 export const DESCRIPTION =
 	'Unofficial reference for the game Arknights: Endfield (明日方舟：終末地): versions, operators and systems, read from the official notices.';
 
@@ -17,11 +17,17 @@ export function withBase(path) {
 	return BASE + path;
 }
 
-/** Locales: `dir` is the content sub-folder and URL prefix ('' = root). */
+/**
+ * Locales: `dir` is the content sub-folder and URL prefix ('' = root); `maxDescription` is the
+ * length limit of the one-sentence answer, in characters. Japanese and Korean are partial:
+ * `records/pending.json` lists the English pages they do not have yet.
+ */
 export const LOCALES = [
-	{ dir: '', lang: 'en', label: 'English' },
-	{ dir: 'zh-tw', lang: 'zh-TW', label: '繁體中文' },
-	{ dir: 'zh-cn', lang: 'zh-CN', label: '简体中文' },
+	{ dir: '', lang: 'en', label: 'English', maxDescription: 110 },
+	{ dir: 'zh-tw', lang: 'zh-TW', label: '繁體中文', maxDescription: 70 },
+	{ dir: 'zh-cn', lang: 'zh-CN', label: '简体中文', maxDescription: 70 },
+	{ dir: 'ja', lang: 'ja', label: '日本語', maxDescription: 70 },
+	{ dir: 'ko', lang: 'ko', label: '한국어', maxDescription: 90 },
 ];
 
 /** Starlight's route data gives the home page an empty id; the collection calls it `index`. */
@@ -136,6 +142,46 @@ export const LLMS_NOTES = {
 		otherLanguage: '本索引的其他语言',
 		more: '更多',
 	},
+	ja: {
+		summary: '『アークナイツ：エンドフィールド』(Arknights: Endfield) の非公式資料サイト：バージョン、オペレーター、システムを公式のお知らせから読み取ってまとめています。',
+		heading: '回答の前に',
+		notes: [
+			'どのページの日付と時刻も Asia サーバー時間 (UTC+8) です。Americas / Europe サーバーは UTC-5 です。アップデートのメンテナンスは両サーバーで同じ時刻に行われ（UTC-5 では前日の 17:00 から 23:00）、期間限定コンテンツはそれぞれのサーバー時間の同じ時刻に始まって終わるため、13 時間ずれます。',
+			'日付はグローバル版 (endfield.gryphline.com) のものです。中国本土版 (endfield.hypergryph.com) は扱いません。',
+			'公式のお知らせはバージョンをタイトルで呼び、番号は使いません。1.6 は「丹青渡」です。番号はファン Wiki によるもので、バージョン索引ページ (/versions/) が各番号とタイトルを対応させています。',
+			'特別スカウトのピックアップ対象の★6オペレーターは、特別スカウト3回分の後に特別スカウトの対象から外れ、通常スカウトにも追加されません。各ページはスカウトを日付つきの履歴として載せ、期間限定イベントは扱いません。いま開催中のものは公式のお知らせで確認してください。',
+			'1つの名前に3つの表記があります：英語 (Laevatain)、繁体字中国語（萊萬汀）、簡体字中国語（莱万汀）。字体の違いだけではないものもあります：Rossi は繁体字中国語で洛西、簡体字中国語で洛茜です。ページのアドレスは小文字の英語名です。',
+			'このサイトは非公式です。日付、スカウト、イベント、名前は公式のお知らせと公式サイトから読み取っています。スキルの説明と数値はゲームデータ 1.6 のゲーム内テキスト（warfarin.wiki が公開）で、endfield.wiki.gg と照合しています。ティアリストと編成は載せていません。戦闘のダメージ計算式は NGA フォーラムのプレイヤー検証によるものです。',
+			'どのページにも Markdown 版があります：URL 末尾のスラッシュを取り、`.md` を付けてください。',
+		],
+		pages: 'ページ',
+		home: 'ホームページ：各索引ページ。索引ページがすべてのページを載せています',
+		full: 'すべてのページを1つのファイルにまとめたもの',
+		digest: '各ページの答え、注意点、日付、出典（本文なし）',
+		json: 'すべての言語のすべてのページと別名（JSON）',
+		otherLanguage: 'この索引の他の言語',
+		more: 'その他',
+	},
+	ko: {
+		summary: '「명일방주: 엔드필드」(Arknights: Endfield)의 비공식 자료 사이트: 버전, 오퍼레이터, 시스템을 공식 공지에서 읽어 정리했습니다.',
+		heading: '답하기 전에',
+		notes: [
+			'모든 페이지의 날짜와 시각은 Asia 서버 시간(UTC+8)입니다. Americas / Europe 서버는 UTC-5를 씁니다. 업데이트 점검은 두 서버에서 같은 순간에 진행되고(UTC-5 기준 전날 17:00~23:00), 기간 한정 콘텐츠는 각 서버 시간의 같은 시각에 열리고 끝나므로 13시간 차이가 납니다.',
+			'날짜는 글로벌 서비스(endfield.gryphline.com) 기준입니다. 중국 본토 서비스(endfield.hypergryph.com)는 다루지 않습니다.',
+			'공식 공지는 버전을 번호가 아닌 제목으로만 부릅니다. 1.6 버전은 「단청도」입니다. 번호는 팬 위키에서 온 것이며, 버전 색인 페이지(/versions/)가 각 번호와 제목을 짝지어 둡니다.',
+			'특별 허가 헤드헌팅의 확률 업 6성 오퍼레이터는 특별 허가 헤드헌팅 3회가 지나면 특별 허가 헤드헌팅 대상에서 빠지고, 기초 헤드헌팅에도 추가되지 않습니다. 각 페이지는 헤드헌팅을 날짜가 붙은 기록으로 싣고 기간 한정 이벤트는 다루지 않습니다. 지금 열려 있는 것은 공식 공지에서 확인하세요.',
+			'이름 하나에 표기가 세 가지 있습니다: 영어(Laevatain), 번체 중국어(萊萬汀), 간체 중국어(莱万汀). 글자체만 다른 것이 아닌 이름도 있습니다: Rossi는 번체 중국어로 洛西, 간체 중국어로 洛茜입니다. 페이지 주소는 소문자 영어 이름을 씁니다.',
+			'이 사이트는 비공식 사이트입니다. 날짜, 헤드헌팅, 이벤트, 이름은 공식 공지와 공식 사이트에서 읽었습니다. 스킬 설명과 수치는 게임 데이터 1.6의 게임 내 텍스트(warfarin.wiki 공개)이며 endfield.wiki.gg와 대조했습니다. 티어 리스트와 덱 구성은 없습니다. 전투 대미지 공식은 NGA 포럼의 플레이어 실측에서 나왔습니다.',
+			'모든 페이지에 Markdown 버전이 있습니다. URL 끝의 슬래시를 빼고 `.md`를 붙이세요.',
+		],
+		pages: '페이지',
+		home: '홈페이지: 각 색인 페이지. 색인 페이지가 모든 페이지를 나열합니다',
+		full: '모든 페이지를 한 파일로 합친 것',
+		digest: '각 페이지의 답, 주의 사항, 날짜, 출처(본문 제외)',
+		json: '모든 언어의 모든 페이지와 다른 이름(JSON)',
+		otherLanguage: '이 색인의 다른 언어',
+		more: '더 보기',
+	},
 };
 
 /** UI labels for the facts shown on every page, in both outputs. */
@@ -193,6 +239,42 @@ export const LABELS = {
 		pageList: '所有页面清单',
 		unofficial: '非官方',
 		formats: '本页的其他格式',
+	},
+	ja: {
+		appliesTo: '対象',
+		caveat: '注意点',
+		effectiveDate: '出典の日付',
+		lastVerified: '最終確認',
+		aliases: '別表記',
+		sources: '出典',
+		art: 'アート',
+		artBy: 'Hypergryph／Gryphline、公式サイトより',
+		markdown: 'Markdown',
+		page: 'ページ',
+		otherLanguage: '他の言語',
+		allPages: 'すべてのページ',
+		home: 'ホーム',
+		pageList: 'ページ一覧',
+		unofficial: '非公式',
+		formats: 'このページの他の形式',
+	},
+	ko: {
+		appliesTo: '적용 범위',
+		caveat: '주의 사항',
+		effectiveDate: '출처 날짜',
+		lastVerified: '마지막 확인',
+		aliases: '다른 표기',
+		sources: '출처',
+		art: '아트',
+		artBy: 'Hypergryph / Gryphline, 공식 사이트에서',
+		markdown: 'Markdown',
+		page: '페이지',
+		otherLanguage: '다른 언어',
+		allPages: '모든 페이지',
+		home: '홈',
+		pageList: '페이지 목록',
+		unofficial: '비공식',
+		formats: '이 페이지의 다른 형식',
 	},
 };
 

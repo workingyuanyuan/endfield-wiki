@@ -10,7 +10,11 @@
 //  5. No decoration leak: marks the skin draws with CSS must not appear in the
 //     text extracted from the HTML.
 //     Home page: it links every page, or an index page that links it.
-//  6. Language parity: every language has the same pages, dates, sources and code.
+//  6. Language parity: every language has the same pages, dates, sources, names, code
+//     blocks and link targets. Japanese and Korean are partial: a page they lack must be
+//     listed in records/pending.json, a listed page must not exist, links to listed pages
+//     are absent from that language, and Starlight's English fallback at such an address
+//     is noindex and listed nowhere.
 //  7. Bundles: each language's llms-full.txt and llms-small.txt carry every page's
 //     answer and caveat; a hidden pointer to the Markdown twin survives extraction.
 //  8. llms.txt: notes, bundles and other languages within the first 5,000 characters.
@@ -24,9 +28,9 @@ import { fileURLToPath } from 'node:url';
 import { JSDOM } from 'jsdom';
 import { Readability } from '@mozilla/readability';
 import TurndownService from 'turndown';
-import { SITE, LOCALES, LLMS_NOTES, localeOf, idInLocale, htmlPath, mdPath, llmsPath, withBase } from '../src/lib/site.mjs';
+import { SITE, LOCALES, LLMS_NOTES, localeOf, bareId, idInLocale, htmlPath, mdPath, llmsPath, withBase } from '../src/lib/site.mjs';
 import { bundlePath } from '../src/lib/llms.mjs';
-import { readPages } from '../src/lib/content-index.mjs';
+import { readPages, readPending } from '../src/lib/content-index.mjs';
 import { checkFound } from './check-found.mjs';
 
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
@@ -54,6 +58,50 @@ if (!existsSync(DIST)) {
 
 const pages = readPages();
 const ids = new Set(pages.map((p) => p.id));
+const english = pages.filter((p) => localeOf(p.id) === LOCALES[0]);
+
+// Partial languages. records/pending.json lists, per content folder, the English pages that
+// language does not have yet. Every other English page must exist in every language.
+const pendingRaw = readPending();
+/** Locale -> set of bare page ids that language lacks. */
+const pending = new Map(LOCALES.map((l) => [l, new Set()]));
+for (const [dir, list] of Object.entries(pendingRaw)) {
+	const locale = LOCALES.find((l) => l.dir && l.dir === dir);
+	if (!locale) {
+		fail('records/pending.json', `"${dir}" is not a language folder of the site`);
+		continue;
+	}
+	for (const bare of list) {
+		if (!ids.has(bare)) fail('records/pending.json', `${dir}: ${bare} is not an English page`);
+		if (ids.has(idInLocale(bare, locale))) fail('records/pending.json', `${dir}: ${bare} is listed as pending, but ${idInLocale(bare, locale)} exists`);
+		pending.get(locale).add(bare);
+	}
+}
+const isPending = (bare, locale) => pending.get(locale).has(bare);
+for (const { id } of english) {
+	for (const locale of LOCALES.slice(1)) {
+		const otherId = idInLocale(id, locale);
+		if (!ids.has(otherId) && !isPending(id, locale)) fail(otherId, `missing: no ${locale.label} version of ${id}, and records/pending.json does not list it`);
+	}
+}
+for (const { id } of pages) {
+	if (!ids.has(bareId(id))) fail(id, `no English page ${bareId(id)}`);
+}
+
+/** Prose of a Markdown body: code blocks removed. */
+const prose = (body) => body.replace(/^```[^\n]*\n[\s\S]*?^```/gm, '');
+/** Whether an internal link names a file (an image) rather than a page. */
+const isFile = (path) => /\.[a-z0-9]+$/i.test(path);
+/** Page id named by an internal link path: `/ja/operators/` -> `ja/operators`, `/` -> `index`. */
+function idFromLink(path) {
+	const trimmed = path.replace(/^\/+|\/+$/g, '');
+	return trimmed === '' ? 'index' : trimmed;
+}
+/** Internal link paths of a body outside code, in order. */
+const internalLinks = (body) => [...prose(body).matchAll(/\]\((\/[^)\s#]*)/g)].map((m) => m[1]);
+/** Link targets of a body: pages without their language prefix, files as written. */
+const linkTargets = (body) => new Set(internalLinks(body).map((path) => (isFile(path) ? path : bareId(idFromLink(path)))));
+
 /** Each language's llms.txt, by locale. */
 const llmsTxt = new Map(LOCALES.map((l) => [l, read(llmsPath(l).slice(1))]));
 const indexJson = JSON.parse(read('index.json'));
@@ -72,8 +120,34 @@ function htmlFiles(dir) {
 	);
 }
 const expectedHtml = new Set(pages.map((p) => (htmlPath(p.id) + 'index.html').slice(1)));
+/** Starlight's English fallbacks at the addresses of pending pages: file -> locale page id. */
+const fallbackHtml = new Map(
+	[...pending].flatMap(([locale, set]) => [...set].map((bare) => [(htmlPath(idInLocale(bare, locale)) + 'index.html').slice(1), idInLocale(bare, locale)]))
+);
 for (const file of htmlFiles(DIST)) {
-	if (file !== '404.html' && !expectedHtml.has(file)) fail(file, 'HTML page without a content entry');
+	if (file === '404.html' || expectedHtml.has(file)) continue;
+	if (!fallbackHtml.has(file)) {
+		fail(file, 'HTML page without a content entry');
+		continue;
+	}
+	// A fallback is not a page of its language: noindex, no hreflang, no JSON-LD, not searched.
+	const head = new JSDOM(read(file)).window.document;
+	if (head.querySelector('meta[name="robots"]')?.getAttribute('content') !== 'noindex') fail(file, 'fallback page without <meta name="robots" content="noindex">');
+	if (head.querySelector('link[hreflang]')) fail(file, 'fallback page with hreflang links');
+	if (head.querySelector('script[type="application/ld+json"]')) fail(file, 'fallback page with JSON-LD');
+	if (head.querySelector('[data-pagefind-body]')) fail(file, 'fallback page in the site search');
+}
+// No output for agents names a fallback address or a twin of one.
+const fallbackUrls = [...fallbackHtml.values()].flatMap((id) => [SITE + htmlPath(id), SITE + mdPath(id)]);
+const outputs = [
+	['index.json', read('index.json')],
+	...LOCALES.flatMap((l) => [llmsPath(l), bundlePath(l, 'full'), bundlePath(l, 'small')].map((path) => [path, read(path.slice(1))])),
+];
+for (const [name, text] of outputs) {
+	for (const url of fallbackUrls) if (text.includes(url + ')') || text.includes(url + '>') || text.includes(url + '"') || text.includes(url + '\n')) fail(name, `names ${url}, a page its language does not have`);
+}
+for (const id of fallbackHtml.values()) {
+	if (existsSync(join(DIST, mdPath(id).slice(1)))) fail(mdPath(id), 'Markdown twin of a page its language does not have');
 }
 
 for (const { id, data } of pages) {
@@ -119,8 +193,9 @@ for (const { id, data } of pages) {
 	if (/^import\s.+from\s/m.test(mdProse)) fail(id, 'MDX import in Markdown twin');
 	if (/^:::/m.test(mdProse)) fail(id, '`:::` directive in Markdown twin');
 
-	// The answer under the title is one short sentence.
-	const maxAnswer = localeOf(id).lang === 'en' ? 110 : 70;
+	// The answer under the title is one short sentence: LOCALES gives each language's limit
+	// (English 110, Chinese 70, Japanese 70, Korean 90 characters).
+	const maxAnswer = localeOf(id).maxDescription;
 	if (String(data.description).length > maxAnswer) fail(id, `description is ${String(data.description).length} characters; the limit is ${maxAnswer}`);
 
 	// 3. First 5,000 characters
@@ -209,11 +284,18 @@ for (const { id, data } of pages) {
 	}
 
 	// 6. Language parity
+	const mine = localeOf(id);
+	// Links stay inside the page's language and never lead to a page that language lacks.
+	for (const path of internalLinks(pages.find((p) => p.id === id).body).filter((path) => !isFile(path))) {
+		if (localeOf(idFromLink(path)) !== mine) fail(id, `link ${path} leaves the page's language`);
+		else if (isPending(bareId(idFromLink(path)), mine)) fail(id, `link ${path} leads to a page ${mine.label} does not have yet (records/pending.json)`);
+		else if (!ids.has(idFromLink(path))) fail(id, `link ${path} leads to no page`);
+	}
 	for (const other of LOCALES) {
-		if (other === localeOf(id)) continue;
+		if (other === mine) continue;
 		const otherId = idInLocale(id, other);
 		if (!ids.has(otherId)) {
-			fail(id, `no ${other.label} version (${otherId})`);
+			// Reported once, above, for each English page a language lacks.
 			continue;
 		}
 		const twin = pages.find((p) => p.id === otherId).data;
@@ -228,6 +310,14 @@ for (const { id, data } of pages) {
 		const otherMd = read(mdPath(otherId).slice(1));
 		if (!same(codeBlocks(md), codeBlocks(otherMd))) fail(id, `code blocks differ from ${otherId}`);
 		if (headings(md).length !== headings(otherMd).length) fail(id, `number of headings differs from ${otherId}`);
+		// The same link targets, except links to pages that either language lacks.
+		const lacking = (bare) => isPending(bare, mine) || isPending(bare, other);
+		const targets = (pageId) => [...linkTargets(pages.find((p) => p.id === pageId).body)].filter((t) => !lacking(t)).sort();
+		const a = targets(id);
+		const b = targets(otherId);
+		if (!same(a, b)) {
+			fail(id, `link targets differ from ${otherId}: only here ${a.filter((t) => !b.includes(t)).join(' ') || '-'}; only there ${b.filter((t) => !a.includes(t)).join(' ') || '-'}`);
+		}
 	}
 }
 

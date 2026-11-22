@@ -25,26 +25,31 @@ export default defineConfig({
 				root: { label: 'English', lang: 'en' },
 				'zh-tw': { label: '繁體中文', lang: 'zh-TW' },
 				'zh-cn': { label: '简体中文', lang: 'zh-CN' },
+				// Partial for now: records/pending.json lists the pages they lack. Starlight builds an
+				// English fallback at those addresses; src/routeData.ts marks it noindex and keeps it
+				// out of the sidebar and the hreflang links.
+				ja: { label: '日本語', lang: 'ja' },
+				ko: { label: '한국어', lang: 'ko' },
 			},
 			sidebar: [
 				{
 					label: 'Versions',
-					translations: { 'zh-TW': '版本', 'zh-CN': '版本' },
+					translations: { 'zh-TW': '版本', 'zh-CN': '版本', ja: 'バージョン', ko: '버전' },
 					items: [{ autogenerate: { directory: 'versions' } }],
 				},
 				{
 					label: 'Systems',
-					translations: { 'zh-TW': '系統', 'zh-CN': '系统' },
+					translations: { 'zh-TW': '系統', 'zh-CN': '系统', ja: 'システム', ko: '시스템' },
 					items: [{ slug: 'systems' }, { slug: 'systems/headhunting' }, { slug: 'systems/arsenal' }, { slug: 'systems/combat' }, { slug: 'systems/operator-progression' }, { slug: 'systems/weapons' }, { slug: 'systems/gear' }, { slug: 'systems/enemies' }, { slug: 'systems/dijiang' }, { slug: 'systems/servers-and-time' }, { slug: 'systems/platforms' }, { slug: 'systems/names' }],
 				},
 				{
 					label: 'AIC',
-					translations: { 'zh-TW': '集成工業', 'zh-CN': '集成工业' },
+					translations: { 'zh-TW': '集成工業', 'zh-CN': '集成工业', ja: '集成工業', ko: '통합 공업' },
 					items: [{ slug: 'aic' }, { slug: 'aic/power' }, { slug: 'aic/production' }, { slug: 'aic/recipes' }, { slug: 'aic/regional-development' }],
 				},
 				{
 					label: 'Operators',
-					translations: { 'zh-TW': '幹員', 'zh-CN': '干员' },
+					translations: { 'zh-TW': '幹員', 'zh-CN': '干员', ja: 'オペレーター', ko: '오퍼레이터' },
 					collapsed: true,
 					items: [{ autogenerate: { directory: 'operators' } }],
 				},

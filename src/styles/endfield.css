@@ -18,6 +18,9 @@
 	--ef-head-text: var(--ef-yellow);
 	/* Lexend (SIL OFL 1.1) for Latin headings and labels; system fonts for Chinese. */
 	--ef-display: 'Lexend Variable', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', system-ui, sans-serif;
+	/* System fonts for Japanese and Korean; used below on pages and lines in those languages. */
+	--ef-ja: 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic UI', 'Meiryo', 'Noto Sans JP', sans-serif;
+	--ef-ko: 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif;
 
 	--sl-color-accent-low: #3d3c00;
 	--sl-color-accent: #b8b400;
@@ -45,6 +48,49 @@
 :root[lang='zh-CN'] {
 	--sl-font: 'Inter', 'Segoe UI', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
 	--ef-display: 'Lexend Variable', 'Noto Sans SC', 'PingFang SC', 'Microsoft YaHei', system-ui, sans-serif;
+}
+
+/* Japanese and Korean pages take their own system fonts, so kanji never take Chinese glyph
+   forms and hangul never falls back to a Chinese font. No web fonts are loaded for them. */
+:root[lang='ja'] {
+	--sl-font: 'Inter', 'Segoe UI', var(--ef-ja);
+	--ef-display: 'Lexend Variable', var(--ef-ja);
+	/* No line starts with small kana or a prolonged sound mark. */
+	line-break: strict;
+}
+:root[lang='ko'] {
+	--sl-font: 'Inter', 'Segoe UI', var(--ef-ko);
+	--ef-display: 'Lexend Variable', var(--ef-ko);
+	/* Korean wraps between words, as it is written with spaces; a long word still breaks
+	   rather than push the page sideways. */
+	word-break: keep-all;
+	overflow-wrap: break-word;
+}
+/* Small labels are spaced for Latin capitals; kana and hangul read as separate letters at
+   that spacing, so Japanese and Korean pages space them only slightly. The uppercase
+   transforms (site name, output links) leave kana and hangul as they are. */
+:root:is([lang='ja'], [lang='ko'])
+	:is(
+		.unofficial,
+		.sidebar-content .large,
+		starlight-toc h2,
+		mobile-starlight-toc .toggle,
+		theme-buttons button,
+		site-search button[data-open-modal],
+		starlight-lang-select select,
+		.sl-markdown-content th,
+		.sl-markdown-content .facts dt
+	) {
+	letter-spacing: 0.02em;
+}
+/* A Japanese or Korean line on a page of another language (the 404 page). */
+body :not(:root)[lang='ja'] {
+	font-family: 'Inter', 'Segoe UI', var(--ef-ja);
+	line-break: strict;
+}
+body :not(:root)[lang='ko'] {
+	font-family: 'Inter', 'Segoe UI', var(--ef-ko);
+	word-break: keep-all;
 }
 
 :root[data-theme='light'],
