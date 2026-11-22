@@ -8,6 +8,8 @@ effectiveDate: 2026-10-15
 aliases:
   - Production and logistics
   - 生产与物流
+  - 生産と物流
+  - 생산과 물류
 sources:
   - title: "配方表 FactoryMachineCraftTable（遊戲資料 1.6）：配方數"
     url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/FactoryMachineCraftTable.json

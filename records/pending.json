@@ -1,42 +1,4 @@
 {
- "ja": [
-  "versions",
-  "versions/1-0",
-  "versions/1-1",
-  "versions/1-2",
-  "versions/1-3",
-  "versions/1-4",
-  "versions/1-5",
-  "versions/1-6",
-  "systems/headhunting",
-  "systems/arsenal",
-  "systems/servers-and-time",
-  "systems/platforms",
-  "systems/combat",
-  "systems/operator-progression",
-  "systems/gear",
-  "aic/power",
-  "aic/production",
-  "aic/regional-development"
- ],
- "ko": [
-  "versions",
-  "versions/1-0",
-  "versions/1-1",
-  "versions/1-2",
-  "versions/1-3",
-  "versions/1-4",
-  "versions/1-5",
-  "versions/1-6",
-  "systems/headhunting",
-  "systems/arsenal",
-  "systems/servers-and-time",
-  "systems/platforms",
-  "systems/combat",
-  "systems/operator-progression",
-  "systems/gear",
-  "aic/power",
-  "aic/production",
-  "aic/regional-development"
- ]
+ "ja": [],
+ "ko": []
 }

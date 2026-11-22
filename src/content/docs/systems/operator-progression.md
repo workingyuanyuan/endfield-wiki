@@ -8,6 +8,8 @@ effectiveDate: 2026-11-05
 aliases:
   - 幹員養成
   - 干员养成
+  - オペレーター育成
+  - 오퍼레이터 육성
 sources:
   - title: "warfarin.wiki, operator pages (promotions, talents, skills, potentials in game data 1.6)"
     url: https://warfarin.wiki/en/operators

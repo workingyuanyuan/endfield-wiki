@@ -8,6 +8,8 @@ effectiveDate: 2026-11-04
 aliases:
   - Headhunting rates and pity
   - 尋訪機率與保底
+  - スカウトの確率と天井
+  - 헤드헌팅 확률과 천장
 sources:
   - title: 「熔火灼痕」特许寻访说明
     url: https://endfield.gryphline.com/en-us/news/3847

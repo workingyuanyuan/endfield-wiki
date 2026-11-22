@@ -8,6 +8,8 @@ effectiveDate: 2026-10-15
 aliases:
   - AIC power
   - 集成工业电力
+  - 集成工業の電力
+  - 통합 공업 전력
 sources:
   - title: warfarin.wiki 遊戲內教學「熱能池」（遊戲資料 1.6）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_power_sta

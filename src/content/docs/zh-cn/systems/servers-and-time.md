@@ -8,6 +8,8 @@ effectiveDate: 2026-11-04
 aliases:
   - Servers and time
   - 伺服器與時間
+  - サーバーと時間
+  - 서버와 시간
 sources:
   - title: PSN账号注册登录&使用常见问题说明
     url: https://endfield.gryphline.com/en-us/news/1332

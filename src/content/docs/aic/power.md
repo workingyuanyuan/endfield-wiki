@@ -8,6 +8,8 @@ effectiveDate: 2026-10-15
 aliases:
   - 集成工業電力
   - 集成工业电力
+  - 集成工業の電力
+  - 통합 공업 전력
 sources:
   - title: warfarin.wiki, in-game tutorial Thermal Bank (game data 1.6)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_power_sta

@@ -8,6 +8,8 @@ effectiveDate: 2026-10-17
 aliases:
   - Platforms and requirements
   - 平台与配备需求
+  - 対応プラットフォームと動作環境
+  - 지원 플랫폼과 권장 사양
 sources:
   - title: 預先下載開啟公告
     url: https://endfield.gryphline.com/en-us/news/9574

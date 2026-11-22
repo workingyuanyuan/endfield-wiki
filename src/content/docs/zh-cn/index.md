@@ -46,4 +46,4 @@ sources:
 
 ## 平台
 
-PC（官方启动器与 Epic Games Store）、PlayStation 5、iOS 与 Android 自 2026-01-22 11:00 公测起开放；Steam 自 2026-10-15 的 1.6 版更新起开放。同一账号的存档在各平台之间共用。
+PC（官方启动器与 Epic Games Store）、PlayStation 5、iOS 与 Android 自 2026-01-22 11:00 公测起开放；Steam 自 2026-10-15 的 1.6 版更新起开放。同一账号的存档在同一服务器的各平台之间共用；Asia 与 Americas / Europe 两个服务器之间不共用。

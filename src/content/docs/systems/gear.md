@@ -8,6 +8,8 @@ effectiveDate: 2026-11-05
 aliases:
   - 裝備套裝
   - 装备套装
+  - 装備セット
+  - 장비 세트
 sources:
   - title: "warfarin.wiki, gear and gear sets (game data 1.6)"
     url: https://warfarin.wiki/en/gear

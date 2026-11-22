@@ -141,7 +141,7 @@ def weapons(lang):
     rar = sorted({w['rarity'] for w in WEAPONS}, reverse=True)
     ops_link = L(link(EN, 'operator pages', 'operators'), link(ZH, '各幹員頁', 'operators'), link(JA, '各オペレーターのページ', 'operators'), link(KO, '각 오퍼레이터 페이지', 'operators'))
     arsenal = L(link(EN, 'Arsenal and Essences', 'systems/arsenal'), link(ZH, '武庫申領與基質', 'systems/arsenal'),
-                link(JA, f"武庫と{J('Essence')}", 'systems/arsenal'), link(KO, f"무기고와 {K('Essence')}", 'systems/arsenal'))
+                link(JA, f"{J('Arsenal Issue')}と{J('Essence')}", 'systems/arsenal'), link(KO, f"{K('Arsenal Issue')}과 {K('Essence')}", 'systems/arsenal'))
     es_j, es_k = J('Essence Stats'), K('Essence Stats')
     out += [L(f'Version 1.6 has {total} weapons. An operator uses one weapon type, shown on the {ops_link}. How weapons are obtained, and how Essences raise weapon skills, is on {arsenal}. Each 4- to 6-star weapon has three Essence stats, an attribute, a secondary stat and a skill stat, and an Essence raises the weapon skill of each stat it carries; 3-star weapons have none. Recommended for lists the operators whose in-game recommendations include the weapon.',
               f'1.6 版共有 {total} 把武器。每名幹員只使用一種武器類型，見{ops_link}。武器的取得方式與用基質提升武器技能，見{arsenal}。4 到 6 星武器各有三個基質詞條：能力值、副屬性與技能詞條，基質帶有哪個詞條，就提升對應的武器技能；3 星武器沒有基質詞條。「推薦幹員」列出遊戲推薦中包含這把武器的幹員。',

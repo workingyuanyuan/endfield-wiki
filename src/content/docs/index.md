@@ -46,4 +46,4 @@ This site is not run by Hypergryph or Gryphline. It covers the global service.
 
 ## Platforms
 
-PC (official launcher and Epic Games Store), PlayStation 5, iOS and Android since the release on 2026-01-22 at 11:00; Steam since the Version 1.6 update on 2026-10-15. Save data under one account is shared across platforms.
+PC (official launcher and Epic Games Store), PlayStation 5, iOS and Android since the release on 2026-01-22 at 11:00; Steam since the Version 1.6 update on 2026-10-15. Save data under one account is shared across platforms on the same server; the Asia and Americas / Europe servers share none.

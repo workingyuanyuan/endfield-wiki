@@ -19,7 +19,7 @@ sources:
     url: https://warfarin.wiki/en/operators
 ---
 
-무기 이름은 [무기 목록](/ko/systems/weapons/)에, 헤드헌팅 이름과 버전 제목은 각 버전 페이지에 있다.
+무기 이름은 [무기 목록](/ko/systems/weapons/)에, 헤드헌팅 이름과 버전 제목은 각 [버전 페이지](/ko/versions/)에 있다.
 
 ## 오퍼레이터
 

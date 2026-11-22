@@ -8,6 +8,8 @@ effectiveDate: 2026-11-04
 aliases:
   - 武庫申領與基質
   - 武库申领与基质
+  - 武庫申請と基質
+  - 무기고 신청과 기질
 sources:
   - title: Smelting Forge Issue Limited-Time Offer Details
     url: https://endfield.gryphline.com/en-us/news/5216

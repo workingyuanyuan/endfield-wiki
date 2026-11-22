@@ -19,7 +19,7 @@ sources:
     url: https://warfarin.wiki/en/operators
 ---
 
-武器の名称は[武器一覧](/ja/systems/weapons/)に、スカウトの名称とバージョン名は各バージョンページにある。
+武器の名称は[武器一覧](/ja/systems/weapons/)に、スカウトの名称とバージョン名は各[バージョンページ](/ja/versions/)にある。
 
 ## オペレーター
 

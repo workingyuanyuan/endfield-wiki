@@ -106,6 +106,8 @@ def check(path, names, by_en):
         en_body = body_of(open(en_path, encoding='utf8').read())
         for token in sorted(cell_tokens(en_body)):
             forms = {e[lang] for e in by_en.get(token, [])}
+            # An Essence stat (アーツ強度UP, 오리지늄 아츠 강도 증가) names the stat it raises; the stat alone counts.
+            forms |= {re.sub(r'(UP| 증가)$', '', f) for f in forms}
             if forms and not any(f in body for f in forms):
                 hits.append(f'MISSING {path}: "{token}" has no {" / ".join(sorted(forms))} on the page')
     own = {e[lang] for e in names}

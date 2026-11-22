@@ -7,6 +7,8 @@ lastVerified: 2026-11-22
 aliases:
   - 戰鬥機制
   - 战斗机制
+  - 戦闘システム
+  - 전투 메커니즘
 sources:
   - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg

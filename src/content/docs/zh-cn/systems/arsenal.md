@@ -8,6 +8,8 @@ effectiveDate: 2026-11-04
 aliases:
   - Arsenal and Essences
   - 武庫申領與基質
+  - 武庫申請と基質
+  - 무기고 신청과 기질
 sources:
   - title: 「熔铸申领」限时特卖说明
     url: https://endfield.gryphline.com/en-us/news/5216

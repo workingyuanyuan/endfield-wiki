@@ -8,6 +8,8 @@ effectiveDate: 2026-10-15
 aliases:
   - Regional Development
   - 地区建设
+  - 地域建設
+  - 지역 건설
 sources:
   - title: warfarin.wiki 遊戲內教學「跨地區傳輸」（遊戲資料 1.6）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_domain_transport

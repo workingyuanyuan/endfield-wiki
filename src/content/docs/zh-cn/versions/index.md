@@ -7,6 +7,8 @@ lastVerified: 2026-11-21
 effectiveDate: 2026-10-15
 aliases:
   - Versions
+  - バージョン一覧
+  - 버전 목록
 sources:
   - title: Gryphline 公告列表
     url: https://endfield.gryphline.com/en-us/news
