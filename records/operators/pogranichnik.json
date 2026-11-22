@@ -1,0 +1,656 @@
+{
+ "slug": "pogranichnik",
+ "gameId": "chr_0029_pograni",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/pogranichnik",
+ "officialKey": "pogranichnik",
+ "name": {
+  "en": "Pogranichnik",
+  "zh-TW": "駿衛",
+  "zh-CN": "骏卫"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Vanguard",
+  "zh-TW": "先鋒",
+  "zh-CN": "先锋"
+ },
+ "element": {
+  "en": "Physical",
+  "zh-TW": "物理",
+  "zh-CN": "物理"
+ },
+ "weapon": {
+  "en": "Sword",
+  "zh-TW": "單手劍",
+  "zh-CN": "单手剑"
+ },
+ "mainAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "subAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "faction": {
+  "en": "Rhodes Island",
+  "zh-TW": "羅德島",
+  "zh-CN": "罗德岛"
+ },
+ "race": {
+  "en": "Liberi",
+  "zh-TW": "黎博利",
+  "zh-CN": "黎博利"
+ },
+ "voice": {
+  "en": {
+   "chi": "Liu Ruoban",
+   "eng": "Sergey Ponomaryov",
+   "jap": "Hayami Show",
+   "kor": "Kwon Sung-hyuck"
+  },
+  "zh-TW": {
+   "chi": "劉若班",
+   "eng": "Sergey Ponomaryov",
+   "jap": "速水獎",
+   "kor": "權星赫"
+  },
+  "zh-CN": {
+   "chi": "刘若班",
+   "eng": "Sergey Ponomaryov",
+   "jap": "速水奖",
+   "kor": "权星赫"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "All-Out Offensive",
+    "zh-TW": "全面攻勢",
+    "zh-CN": "全面攻势"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "23%",
+     "last": "52%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "28%",
+     "last": "63%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "33%",
+     "last": "74%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "38%",
+     "last": "86%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "43%",
+     "last": "97%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "The Pulverizing Front",
+    "zh-TW": "粉碎陣線",
+    "zh-CN": "粉碎阵线"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "86%",
+     "last": "192%"
+    },
+    {
+     "name": {
+      "en": "SEQ 1 Stagger",
+      "zh-TW": "第一段失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "106%",
+     "last": "238%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 Stagger",
+      "zh-TW": "第二段失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SP Recovery by Consuming 1 Vulnerability Stack",
+      "zh-TW": "消耗一層破防時技力回復"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SP Recovery by Consuming 2 Vulnerability Stacks",
+      "zh-TW": "消耗二層破防時技力回復"
+     },
+     "first": "10",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "SP Recovery by Consuming 3 Vulnerability Stacks",
+      "zh-TW": "消耗三層破防時技力回復"
+     },
+     "first": "20",
+     "last": "25"
+    },
+    {
+     "name": {
+      "en": "SP Recovery by Consuming 4 Vulnerability Stacks",
+      "zh-TW": "消耗四層破防時技力回復"
+     },
+     "first": "30",
+     "last": "35"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Full Moon Slash",
+    "zh-TW": "盈月邀擊",
+    "zh-CN": "盈月邀击"
+   },
+   "cost": 0,
+   "cooldown": [
+    18,
+    17
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "42%",
+     "last": "95%"
+    },
+    {
+     "name": {
+      "en": "SEQ 1 Stagger",
+      "zh-TW": "第一段失衡值"
+     },
+     "first": "3",
+     "last": "3"
+    },
+    {
+     "name": {
+      "en": "SEQ 1 SP Recovery",
+      "zh-TW": "第一段技力回復"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "54%",
+     "last": "122%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 Stagger",
+      "zh-TW": "第二段失衡值"
+     },
+     "first": "3",
+     "last": "3"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 SP Recovery",
+      "zh-TW": "第二段技力回復"
+     },
+     "first": "7",
+     "last": "7"
+    },
+    {
+     "name": {
+      "en": "SEQ 3 DMG Multiplier",
+      "zh-TW": "第三段傷害倍率"
+     },
+     "first": "66%",
+     "last": "149%"
+    },
+    {
+     "name": {
+      "en": "SEQ 3 Stagger",
+      "zh-TW": "第三段失衡值"
+     },
+     "first": "4",
+     "last": "4"
+    },
+    {
+     "name": {
+      "en": "SEQ 3 SP Recovery",
+      "zh-TW": "第三段技力回復"
+     },
+     "first": "13",
+     "last": "13"
+    },
+    {
+     "name": {
+      "en": "Enhanced SEQ 3 DMG Multiplier",
+      "zh-TW": "強化第三段傷害倍率"
+     },
+     "first": "132%",
+     "last": "297%"
+    },
+    {
+     "name": {
+      "en": "Enhanced SEQ 3 Stagger",
+      "zh-TW": "強化第三段失衡值"
+     },
+     "first": "9",
+     "last": "9"
+    },
+    {
+     "name": {
+      "en": "Enhanced SEQ 3 SP Recovery",
+      "zh-TW": "強化第三段技力回復"
+     },
+     "first": "23",
+     "last": "23"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Shieldguard Banner, Forward",
+    "zh-TW": "盾衛旗隊，上前",
+    "zh-CN": "盾卫旗队，上前"
+   },
+   "cost": 90,
+   "cooldown": [
+    10,
+    10
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Steel Oath Duration",
+      "zh-TW": "鐵誓持續時間"
+     },
+     "first": "30",
+     "last": "30"
+    },
+    {
+     "name": {
+      "en": "Advance DMG Multiplier",
+      "zh-TW": "進軍傷害倍率"
+     },
+     "first": "133%",
+     "last": "300%"
+    },
+    {
+     "name": {
+      "en": "Advance Stagger",
+      "zh-TW": "進軍失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Harass DMG Multiplier",
+      "zh-TW": "襲擾傷害倍率"
+     },
+     "first": "45%",
+     "last": "100%"
+    },
+    {
+     "name": {
+      "en": "Harass SP Recovery",
+      "zh-TW": "襲擾回復技力"
+     },
+     "first": "7.5",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Decisive Assault DMG Multiplier",
+      "zh-TW": "決勝傷害倍率"
+     },
+     "first": "200%",
+     "last": "450%"
+    },
+    {
+     "name": {
+      "en": "Decisive Assault Stagger",
+      "zh-TW": "決勝失衡值"
+     },
+     "first": "15",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "Decisive Assault SP Recovery",
+      "zh-TW": "決勝回復技力"
+     },
+     "first": "30",
+     "last": "40"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "The Living Banner",
+    "zh-TW": "活著的旗幟",
+    "zh-CN": "活着的旗帜"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Tactical Instruction",
+    "zh-TW": "戰術教導",
+    "zh-CN": "战术教导"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Frontline Sweep",
+    "zh-TW": "陣線掃蕩",
+    "zh-CN": "阵线扫荡"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "\"Advance\"",
+    "zh-TW": "「行軍」",
+    "zh-CN": "“行军”"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "When the Banner Flutters",
+    "zh-TW": "戰旗飄揚時",
+    "zh-CN": "战旗飘扬时"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Shield of Talos-II",
+    "zh-TW": "塔衛二之盾",
+    "zh-CN": "塔卫二之盾"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Newly Forged Blade",
+    "zh-TW": "新鑄劍鋒",
+    "zh-CN": "新铸剑锋"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 12,
+   "agi": 13,
+   "int": 10,
+   "will": 20,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 101,
+   "agi": 110,
+   "int": 97,
+   "will": 173,
+   "atk": 321,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Metadiastima Photoemission Tube",
+      "zh-TW": "超距輝映管",
+      "zh-CN": "超距辉映管"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

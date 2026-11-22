@@ -1,0 +1,592 @@
+{
+ "slug": "yvonne",
+ "gameId": "chr_0017_yvonne",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/yvonne",
+ "officialKey": "yvonne",
+ "name": {
+  "en": "Yvonne",
+  "zh-TW": "伊馮",
+  "zh-CN": "伊冯"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Striker",
+  "zh-TW": "突擊",
+  "zh-CN": "突击"
+ },
+ "element": {
+  "en": "Cryo",
+  "zh-TW": "寒冷",
+  "zh-CN": "寒冷"
+ },
+ "weapon": {
+  "en": "Handcannon",
+  "zh-TW": "手銃",
+  "zh-CN": "手铳"
+ },
+ "mainAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "subAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "faction": {
+  "en": "Endfield Industries",
+  "zh-TW": "終末地工業",
+  "zh-CN": "终末地工业"
+ },
+ "race": {
+  "en": "Vouivre",
+  "zh-TW": "瓦伊凡",
+  "zh-CN": "瓦伊凡"
+ },
+ "voice": {
+  "en": {
+   "chi": "Hou Xiaofei",
+   "eng": "Clare Louise Connolly",
+   "jap": "Amamiya Sora",
+   "kor": "Yeo Yun-mi"
+  },
+  "zh-TW": {
+   "chi": "侯小菲",
+   "eng": "Clare Louise Connolly",
+   "jap": "雨宮天",
+   "kor": "呂允美"
+  },
+  "zh-CN": {
+   "chi": "侯小菲",
+   "eng": "Clare Louise Connolly",
+   "jap": "雨宫天",
+   "kor": "吕允美"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Exuberant Trigger",
+    "zh-TW": "雀躍扳機",
+    "zh-CN": "雀跃扳机"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "24%",
+     "last": "53%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "25%",
+     "last": "56%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "32%",
+     "last": "71%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "41%",
+     "last": "92%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "56%",
+     "last": "126%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Brr-Brr-Bomb β",
+    "zh-TW": "冰冰彈·β型",
+    "zh-CN": "冰冰弹·β型"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Base DMG Multiplier",
+      "zh-TW": "基礎傷害倍率"
+     },
+     "first": "111%",
+     "last": "250%"
+    },
+    {
+     "name": {
+      "en": "DMG Multiplier of Solidification Applied",
+      "zh-TW": "施加凍結傷害倍率"
+     },
+     "first": "67%",
+     "last": "150%"
+    },
+    {
+     "name": {
+      "en": "Bonus DMG Multiplier per Infliction Stack",
+      "zh-TW": "消耗每層附著額外傷害倍率"
+     },
+     "first": "89%",
+     "last": "200%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy from Solidification Applied",
+      "zh-TW": "施加凍結獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Additional Ultimate Energy Gain per Infliction Stack",
+      "zh-TW": "消耗每層附著額外獲得終結技能量"
+     },
+     "first": "30",
+     "last": "30"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Flashfreezer υ37",
+    "zh-TW": "速凍仔·υ37",
+    "zh-CN": "速冻仔·υ37"
+   },
+   "cost": 0,
+   "cooldown": [
+    20,
+    18
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Duration (s)",
+      "zh-TW": "持續時間（秒）"
+     },
+     "first": "3",
+     "last": "3"
+    },
+    {
+     "name": {
+      "en": "Number of Energy Releases",
+      "zh-TW": "施放能量次數"
+     },
+     "first": "4",
+     "last": "4"
+    },
+    {
+     "name": {
+      "en": "Energy DMG Multiplier",
+      "zh-TW": "能量傷害倍率"
+     },
+     "first": "45%",
+     "last": "100%"
+    },
+    {
+     "name": {
+      "en": "Explosion DMG Multiplier",
+      "zh-TW": "爆炸傷害倍率"
+     },
+     "first": "89%",
+     "last": "200%"
+    },
+    {
+     "name": {
+      "en": "Explosion Stagger",
+      "zh-TW": "爆炸失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Additional Ultimate Energy Gain",
+      "zh-TW": "額外獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Cryoblasting Pistolier",
+    "zh-TW": "冷凍射手",
+    "zh-CN": "冷冻射手"
+   },
+   "cost": 220,
+   "cooldown": [
+    10,
+    10
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Duration (s)",
+      "zh-TW": "持續時間（秒）"
+     },
+     "first": "7",
+     "last": "7"
+    },
+    {
+     "name": {
+      "en": "BATK DMG Multiplier",
+      "zh-TW": "普通攻擊傷害倍率"
+     },
+     "first": "8.9%",
+     "last": "20%"
+    },
+    {
+     "name": {
+      "en": "Enhanced Final Strike DMG Multiplier",
+      "zh-TW": "強力攻擊傷害倍率"
+     },
+     "first": "133%",
+     "last": "300%"
+    },
+    {
+     "name": {
+      "en": "Additional ATK DMG Multiplier",
+      "zh-TW": "額外攻擊傷害倍率"
+     },
+     "first": "267%",
+     "last": "600%"
+    },
+    {
+     "name": {
+      "en": "Enhanced Final Strike Stagger",
+      "zh-TW": "強力攻擊失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Max Stacks",
+      "zh-TW": "最大疊加層數"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Critical Rate Boost per Stack",
+      "zh-TW": "每層暴擊率增加"
+     },
+     "first": "3%",
+     "last": "3%"
+    },
+    {
+     "name": {
+      "en": "Critical DMG Boost at Max Stacks",
+      "zh-TW": "滿層暴擊傷害增加"
+     },
+     "first": "60%",
+     "last": "60%"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Barrage of Technology",
+    "zh-TW": "科技連擊",
+    "zh-CN": "科技连击"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Freezing Point",
+    "zh-TW": "冰點",
+    "zh-CN": "冰点"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Flash Freezer",
+    "zh-TW": "速凍幫手",
+    "zh-CN": "速冻帮手"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Flawless Creation",
+    "zh-TW": "完美造物",
+    "zh-CN": "完美造物"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Tink-a-Power",
+    "zh-TW": "滴答蓄能",
+    "zh-CN": "嘀嗒充能"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Rebellious Mood",
+    "zh-TW": "叛逆心情",
+    "zh-CN": "叛逆心情"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Expert Mechcrafter",
+    "zh-TW": "機巧專家",
+    "zh-CN": "机巧专家"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 8,
+   "agi": 14,
+   "int": 24,
+   "will": 10,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 82,
+   "agi": 128,
+   "int": 176,
+   "will": 105,
+   "atk": 321,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Tachyon Screening Lattice",
+      "zh-TW": "迅子遴撿晶格",
+      "zh-CN": "快子遴捡晶格"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

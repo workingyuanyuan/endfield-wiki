@@ -1,0 +1,536 @@
+{
+ "slug": "si",
+ "gameId": "chr_0036_jsspsi",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/si",
+ "officialKey": "jsspsi",
+ "name": {
+  "en": "Si",
+  "zh-TW": "祀",
+  "zh-CN": "祀"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Supporter",
+  "zh-TW": "輔助",
+  "zh-CN": "辅助"
+ },
+ "element": {
+  "en": "Cryo",
+  "zh-TW": "寒冷",
+  "zh-CN": "寒冷"
+ },
+ "weapon": {
+  "en": "Greatsword",
+  "zh-TW": "雙手劍",
+  "zh-CN": "双手剑"
+ },
+ "mainAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "subAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "faction": {
+  "en": "Hongshan Academy of Sciences (HAS)",
+  "zh-TW": "宏山科學院",
+  "zh-CN": "宏山科学院"
+ },
+ "race": {
+  "en": "Undisclosed",
+  "zh-TW": "未公開",
+  "zh-CN": "未公开"
+ },
+ "voice": {
+  "en": {
+   "chi": "Marsia Zhang",
+   "eng": "shoushouwong",
+   "jap": "Tanezaki Atsumi",
+   "kor": "Eunseo Yoon"
+  },
+  "zh-TW": {
+   "chi": "幽舞越山",
+   "eng": "獸獸王",
+   "jap": "種崎敦美",
+   "kor": "尹垠舒"
+  },
+  "zh-CN": {
+   "chi": "幽舞越山",
+   "eng": "兽兽王",
+   "jap": "种崎敦美",
+   "kor": "尹垠舒"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Artistic Urge",
+    "zh-TW": "乘興起筆",
+    "zh-CN": "乘兴起笔"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "20%",
+     "last": "45%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "32%",
+     "last": "72%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "29%",
+     "last": "66%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "24%",
+     "last": "54%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "64%",
+     "last": "144%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Brushwork Realm",
+    "zh-TW": "河山共影",
+    "zh-CN": "河山共影"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "44%",
+     "last": "100%"
+    },
+    {
+     "name": {
+      "en": "Immobilization Duration (s)",
+      "zh-TW": "定身時長（秒）"
+     },
+     "first": "1",
+     "last": "1"
+    },
+    {
+     "name": {
+      "en": "Artful Intent Duration (s)",
+      "zh-TW": "筆意時長（秒）"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "DMG Record Ratio",
+      "zh-TW": "傷害記錄比例"
+     },
+     "first": "8%",
+     "last": "13%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Artful Intent Burst Stagger",
+      "zh-TW": "筆意爆發失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Fully Envisioned",
+    "zh-TW": "成竹在胸",
+    "zh-CN": "成竹在胸"
+   },
+   "cost": 0,
+   "cooldown": [
+    16,
+    15
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "333%",
+     "last": "750%"
+    },
+    {
+     "name": {
+      "en": "Multiplier Increase per Stack Consumed or Absorbed",
+      "zh-TW": "每消耗或吸收1層提高倍率"
+     },
+     "first": "44%",
+     "last": "100%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "No One Spoils the Fun",
+    "zh-TW": "誰都不許掃興",
+    "zh-CN": "谁都不许扫兴"
+   },
+   "cost": 80,
+   "cooldown": [
+    30,
+    30
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "222%",
+     "last": "500%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Amp",
+      "zh-TW": "增幅效果"
+     },
+     "first": "20%",
+     "last": "36%"
+    },
+    {
+     "name": {
+      "en": "Amp Duration (s)",
+      "zh-TW": "增幅時長（秒）"
+     },
+     "first": "12",
+     "last": "12"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Proxy's Patronage",
+    "zh-TW": "代理人的眷顧",
+    "zh-CN": "代理人的眷顾"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Unsoiled Brush",
+    "zh-TW": "丹青不渝",
+    "zh-CN": "丹青不渝"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Spring and Autumn as Ink",
+    "zh-TW": "春秋作墨",
+    "zh-CN": "春秋作墨"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Three Marks Deep in Wood",
+    "zh-TW": "入木三分",
+    "zh-CN": "入木三分"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Study of Muscles and Bones",
+    "zh-TW": "工於筋骨",
+    "zh-CN": "工于筋骨"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Perfectly Composed in Spirit",
+    "zh-TW": "完善精神",
+    "zh-CN": "完善精神"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Brush Dab in Eye's White",
+    "zh-TW": "點睛之筆",
+    "zh-CN": "点睛之笔"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 17,
+   "agi": 10,
+   "int": 24,
+   "will": 10,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 117,
+   "agi": 100,
+   "int": 179,
+   "will": 100,
+   "atk": 309,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Warp Plasma-Coated Slide",
+      "zh-TW": "躍遷漿體塗片",
+      "zh-CN": "跃迁浆体涂片"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

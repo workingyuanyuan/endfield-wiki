@@ -1,0 +1,57 @@
+{
+ "slug": "yvonne",
+ "intro": {
+  "en": "Yvonne is a fashion-loving researcher in Endfield Industries' Specialist Tech Division who studies Æther, Blight, and related devices.",
+  "zh-TW": "伊馮是終末地工業特種技術部門的幹員，熱衷新潮打扮，現負責研究超域、侵蝕及相關裝置。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Cryo combo of up to 5 hits. While she is the controlled operator, her Final Strike deals 17 Stagger.",
+   "zh-TW": "最多 5 段的寒冷傷害連擊。作為主控幹員時，重擊造成 17 點失衡。"
+  },
+  "battle": {
+   "en": "Throws a freezing bomb that explodes on hit for Cryo damage. Against enemies with Cryo Infliction or Nature Infliction, it consumes all Arts Infliction stacks to force Solidification and deal extra Cryo damage by stacks spent. Applying Solidification also grants bonus Ultimate Energy by stacks spent, only 1 time per cast.",
+   "zh-TW": "發射製冷彈，命中爆炸造成寒冷傷害。若目標有寒冷附著或自然附著，則消耗其所有法術附著、強制施加凍結，並依消耗層數造成寒冷傷害。成功施加凍結時依消耗層數額外獲得終結技能量，命中多名敵人也僅觸發 1 次。"
+  },
+  "combo": {
+   "en": "Trigger: the controlled operator lands a Final Strike on an enemy with Solidification. Deploys Frost-e-Bytee beside the enemy to repeatedly deal Cryo damage and pull nearby enemies in, then explode on expiry to deal Cryo damage and force Solidification. Hitting enemies grants bonus Ultimate Energy only 1 time per cast.",
+   "zh-TW": "觸發條件：主控幹員對凍結狀態的敵人造成重擊。在敵人旁部署速凍仔，持續釋放能量對周圍敵人造成寒冷傷害並向中心牽引，結束時自爆造成寒冷傷害並強制施加凍結。命中敵人會額外獲得終結技能量，命中多名目標僅觸發 1 次。"
+  },
+  "ultimate": {
+   "en": "Deploys Tink-a-Bella, switches control to Yvonne, and temporarily enhances her basic attacks: each enhanced sequence adds a Critical Rate stack, and max stacks add Critical DMG. The final hit becomes an enhanced Final Strike for heavy Cryo damage; if the enemy is Solidified, she deals an extra Cryo hit and consumes Solidification.",
+   "zh-TW": "部署小滴答輔助並切換為主控幹員，一段時間內強化伊馮的普通攻擊，每次普攻疊加暴擊率，滿層後提升自身暴擊傷害。結束前的最後一次強力攻擊轉為重擊，造成大量寒冷傷害；若敵人處於凍結狀態，則額外造成寒冷傷害並消耗凍結。"
+  }
+ },
+ "talents": [
+  {
+   "en": "After Brr-Brr-Bomb β applies Solidification, Yvonne's next basic attack immediately becomes a Final Strike (with +50% damage at Promotion II).",
+   "zh-TW": "冰冰彈·β型施加凍結後，伊馮的下一次普通攻擊將改為直接重擊（精英化II 此重擊傷害 +50%）。"
+  },
+  {
+   "en": "Gains +10% Critical DMG (+20% at Promotion III) against enemies with Cryo Infliction, doubled against enemies with Solidification.",
+   "zh-TW": "對處於寒冷附著狀態的敵人造成暴擊傷害 +10%（精英化III 為 +20%），對處於凍結狀態的敵人效果加倍。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Flashfreezer υ37 has +20% effect radius, releases energy 2 more times, and grants an extra 15 Ultimate Energy after dealing damage.",
+   "zh-TW": "速凍仔·υ37 的範圍擴大 20%，多釋放 2 次能量，造成傷害時再得 15 點終結技能量。"
+  },
+  {
+   "en": "Intellect +20, Critical Rate +7%.",
+   "zh-TW": "智識 +20，暴擊率 +7%。"
+  },
+  {
+   "en": "Freezing Point grants an extra +10% Critical DMG against enemies with Cryo Infliction, also doubled against enemies with Solidification.",
+   "zh-TW": "冰點對寒冷附著敵人的暴擊傷害額外 +10%，對凍結敵人的效果同樣加倍。"
+  },
+  {
+   "en": "If Brr-Brr-Bomb β's explosion hits only a single enemy, it returns 10 SP.",
+   "zh-TW": "冰冰彈·β型的爆炸僅命中單一敵人時，返還 10 點技力。"
+  },
+  {
+   "en": "During Cryoblasting Pistolier, Yvonne gains +10% ATK and +30% Critical DMG.",
+   "zh-TW": "冷凍射手持續期間，自身攻擊力 +10%、暴擊傷害 +30%。"
+  }
+ ]
+}

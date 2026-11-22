@@ -1,0 +1,677 @@
+[
+ {
+  "id": "component_mc_1",
+  "name": {
+   "en": "Fitting Unit",
+   "zh-TW": "配件機",
+   "zh-CN": "配件机"
+  },
+  "group": "Production I",
+  "power": 20,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/component_mc_1"
+ },
+ {
+  "id": "dismantler_1",
+  "name": {
+   "en": "Separating Unit",
+   "zh-TW": "拆解機",
+   "zh-CN": "拆解机"
+  },
+  "group": "Production II",
+  "power": 20,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 6,
+  "depth": 4,
+  "page": "https://warfarin.wiki/en/facilities/dismantler_1"
+ },
+ {
+  "id": "dumper_1",
+  "name": {
+   "en": "Fluid Supply Unit",
+   "zh-TW": "液體供給器",
+   "zh-CN": "给水器"
+  },
+  "group": "Miscellaneous",
+  "power": 10,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/dumper_1"
+ },
+ {
+  "id": "filling_powder_mc_1",
+  "name": {
+   "en": "Filling Unit",
+   "zh-TW": "灌裝機",
+   "zh-CN": "灌装机"
+  },
+  "group": "Production II",
+  "power": 20,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 6,
+  "depth": 4,
+  "page": "https://warfarin.wiki/en/facilities/filling_powder_mc_1"
+ },
+ {
+  "id": "furnance_1",
+  "name": {
+   "en": "Refining Unit",
+   "zh-TW": "精煉爐",
+   "zh-CN": "精炼炉"
+  },
+  "group": "Production I",
+  "power": 5,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/furnance_1"
+ },
+ {
+  "id": "gas_pump_1",
+  "name": {
+   "en": "Gas Extractor",
+   "zh-TW": "氣體收集泵",
+   "zh-CN": "气体收集泵"
+  },
+  "group": "Resourcing",
+  "power": 0,
+  "needsPower": false,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/gas_pump_1"
+ },
+ {
+  "id": "gas_reactor_1",
+  "name": {
+   "en": "Gas Reactor Globe",
+   "zh-TW": "氣體反應爐",
+   "zh-CN": "气体反应炉"
+  },
+  "group": "Production II",
+  "power": 50,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 5,
+  "depth": 5,
+  "page": "https://warfarin.wiki/en/facilities/gas_reactor_1"
+ },
+ {
+  "id": "gas_storager_1",
+  "name": {
+   "en": "Gas Tank",
+   "zh-TW": "儲氣罐",
+   "zh-CN": "储气罐"
+  },
+  "group": "Depot Access",
+  "power": 0,
+  "needsPower": false,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/gas_storager_1"
+ },
+ {
+  "id": "grinder_1",
+  "name": {
+   "en": "Shredding Unit",
+   "zh-TW": "粉碎機",
+   "zh-CN": "粉碎机"
+  },
+  "group": "Production I",
+  "power": 5,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/grinder_1"
+ },
+ {
+  "id": "liquid_cleaner_1",
+  "name": {
+   "en": "Water Treatment Unit",
+   "zh-TW": "廢水處理機",
+   "zh-CN": "废水处理机"
+  },
+  "group": "Production I",
+  "power": 50,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/liquid_cleaner_1"
+ },
+ {
+  "id": "liquid_purifier_1",
+  "name": {
+   "en": "Purification Unit",
+   "zh-TW": "提純機",
+   "zh-CN": "提纯机"
+  },
+  "group": "Production II",
+  "power": 50,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 5,
+  "depth": 5,
+  "page": "https://warfarin.wiki/en/facilities/liquid_purifier_1"
+ },
+ {
+  "id": "liquid_storager_1",
+  "name": {
+   "en": "Fluid Tank",
+   "zh-TW": "儲液罐",
+   "zh-CN": "储液罐"
+  },
+  "group": "Depot Access",
+  "power": 0,
+  "needsPower": false,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/liquid_storager_1"
+ },
+ {
+  "id": "loader_1",
+  "name": {
+   "en": "Depot Loader",
+   "zh-TW": "倉庫存貨口",
+   "zh-CN": "仓库存货口"
+  },
+  "group": "Depot Access",
+  "power": 0,
+  "needsPower": false,
+  "bandwidth": 1,
+  "width": 3,
+  "depth": 1,
+  "page": "https://warfarin.wiki/en/facilities/loader_1"
+ },
+ {
+  "id": "log_hongs_bus",
+  "name": {
+   "en": "Depot Bus Section",
+   "zh-TW": "倉庫存取線基段",
+   "zh-CN": "仓库存取线基段"
+  },
+  "group": "Depot Access",
+  "power": 0,
+  "needsPower": false,
+  "bandwidth": 0,
+  "width": 4,
+  "depth": 8,
+  "page": "https://warfarin.wiki/en/facilities/log_hongs_bus"
+ },
+ {
+  "id": "log_hongs_bus_source",
+  "name": {
+   "en": "Depot Bus Port",
+   "zh-TW": "倉庫存取線源樁",
+   "zh-CN": "仓库存取线源桩"
+  },
+  "group": "Depot Access",
+  "power": 0,
+  "needsPower": false,
+  "bandwidth": 0,
+  "width": 4,
+  "depth": 4,
+  "page": "https://warfarin.wiki/en/facilities/log_hongs_bus_source"
+ },
+ {
+  "id": "miner_1",
+  "name": {
+   "en": "Portable Originium Rig",
+   "zh-TW": "便攜式源石礦機",
+   "zh-CN": "便携源石矿机"
+  },
+  "group": "Resourcing",
+  "power": 0,
+  "needsPower": false,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/miner_1"
+ },
+ {
+  "id": "miner_2",
+  "name": {
+   "en": "Electric Mining Rig",
+   "zh-TW": "電驅礦機",
+   "zh-CN": "电驱矿机"
+  },
+  "group": "Resourcing",
+  "power": 5,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/miner_2"
+ },
+ {
+  "id": "miner_3",
+  "name": {
+   "en": "Electric Mining Rig Mk II",
+   "zh-TW": "電驅礦機II",
+   "zh-CN": "二型电驱矿机"
+  },
+  "group": "Resourcing",
+  "power": 10,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/miner_3"
+ },
+ {
+  "id": "miner_4",
+  "name": {
+   "en": "Hydro Mining Rig",
+   "zh-TW": "水驅礦機",
+   "zh-CN": "水驱矿机"
+  },
+  "group": "Resourcing",
+  "power": 0,
+  "needsPower": false,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/miner_4"
+ },
+ {
+  "id": "mix_pool_1",
+  "name": {
+   "en": "Reactor Crucible",
+   "zh-TW": "反應池",
+   "zh-CN": "反应池"
+  },
+  "group": "Production II",
+  "power": 50,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 5,
+  "depth": 5,
+  "page": "https://warfarin.wiki/en/facilities/mix_pool_1"
+ },
+ {
+  "id": "mix_pool_2",
+  "name": {
+   "en": "Expanded Crucible",
+   "zh-TW": "擴容反應池",
+   "zh-CN": "扩容反应池"
+  },
+  "group": "Production II",
+  "power": 100,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 6,
+  "depth": 5,
+  "page": "https://warfarin.wiki/en/facilities/mix_pool_2"
+ },
+ {
+  "id": "planter_1",
+  "name": {
+   "en": "Planting Unit",
+   "zh-TW": "種植機",
+   "zh-CN": "种植机"
+  },
+  "group": "Production I",
+  "power": 20,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 5,
+  "depth": 5,
+  "page": "https://warfarin.wiki/en/facilities/planter_1"
+ },
+ {
+  "id": "power_diffuser_1",
+  "name": {
+   "en": "Electric Pylon",
+   "zh-TW": "供電樁",
+   "zh-CN": "供电桩"
+  },
+  "group": "Power",
+  "power": 0,
+  "needsPower": true,
+  "bandwidth": 1,
+  "width": 2,
+  "depth": 2,
+  "page": "https://warfarin.wiki/en/facilities/power_diffuser_1"
+ },
+ {
+  "id": "power_diffuser_2",
+  "name": {
+   "en": "Xiranite Pylon",
+   "zh-TW": "息壤供電樁",
+   "zh-CN": "息壤供电桩"
+  },
+  "group": "Power",
+  "power": 0,
+  "needsPower": true,
+  "bandwidth": 1,
+  "width": 2,
+  "depth": 2,
+  "page": "https://warfarin.wiki/en/facilities/power_diffuser_2"
+ },
+ {
+  "id": "power_pole_2",
+  "name": {
+   "en": "Relay Tower",
+   "zh-TW": "中繼器",
+   "zh-CN": "中继器"
+  },
+  "group": "Power",
+  "power": 0,
+  "needsPower": true,
+  "bandwidth": 1,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/power_pole_2"
+ },
+ {
+  "id": "power_pole_3",
+  "name": {
+   "en": "Xiranite Relay",
+   "zh-TW": "息壤中繼器",
+   "zh-CN": "息壤中继器"
+  },
+  "group": "Power",
+  "power": 0,
+  "needsPower": true,
+  "bandwidth": 1,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/power_pole_3"
+ },
+ {
+  "id": "power_station_1",
+  "name": {
+   "en": "Thermal Bank",
+   "zh-TW": "熱能池",
+   "zh-CN": "热能池"
+  },
+  "group": "Power",
+  "power": 0,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 2,
+  "depth": 2,
+  "page": "https://warfarin.wiki/en/facilities/power_station_1"
+ },
+ {
+  "id": "pump_1",
+  "name": {
+   "en": "Fluid Pump",
+   "zh-TW": "水泵",
+   "zh-CN": "水泵"
+  },
+  "group": "Resourcing",
+  "power": 10,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/pump_1"
+ },
+ {
+  "id": "pump_2",
+  "name": {
+   "en": "Acid Resistant Pump Mk II",
+   "zh-TW": "耐酸水泵II",
+   "zh-CN": "二型耐酸水泵"
+  },
+  "group": "Resourcing",
+  "power": 20,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/pump_2"
+ },
+ {
+  "id": "seedcollector_1",
+  "name": {
+   "en": "Seed-Picking Unit",
+   "zh-TW": "採種機",
+   "zh-CN": "采种机"
+  },
+  "group": "Production I",
+  "power": 10,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 5,
+  "depth": 5,
+  "page": "https://warfarin.wiki/en/facilities/seedcollector_1"
+ },
+ {
+  "id": "shaper_1",
+  "name": {
+   "en": "Moulding Unit",
+   "zh-TW": "塑形機",
+   "zh-CN": "塑形机"
+  },
+  "group": "Production I",
+  "power": 10,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/shaper_1"
+ },
+ {
+  "id": "squirter_1",
+  "name": {
+   "en": "Sprinkler",
+   "zh-TW": "灑水機",
+   "zh-CN": "洒水机"
+  },
+  "group": "Miscellaneous",
+  "power": 10,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/squirter_1"
+ },
+ {
+  "id": "storager_1",
+  "name": {
+   "en": "Protocol Stash",
+   "zh-TW": "協議儲存箱",
+   "zh-CN": "协议储存箱"
+  },
+  "group": "Depot Access",
+  "power": 5,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/storager_1"
+ },
+ {
+  "id": "thickener_1",
+  "name": {
+   "en": "Grinding Unit",
+   "zh-TW": "研磨機",
+   "zh-CN": "研磨机"
+  },
+  "group": "Production II",
+  "power": 50,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 6,
+  "depth": 4,
+  "page": "https://warfarin.wiki/en/facilities/thickener_1"
+ },
+ {
+  "id": "tools_assebling_mc_1",
+  "name": {
+   "en": "Packaging Unit",
+   "zh-TW": "封裝機",
+   "zh-CN": "封装机"
+  },
+  "group": "Production II",
+  "power": 20,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 6,
+  "depth": 4,
+  "page": "https://warfarin.wiki/en/facilities/tools_assebling_mc_1"
+ },
+ {
+  "id": "transmuter_1",
+  "name": {
+   "en": "Fluid-Gas Transmuting Unit",
+   "zh-TW": "液氣轉化機",
+   "zh-CN": "液气转化机"
+  },
+  "group": "Production II",
+  "power": 50,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 5,
+  "depth": 5,
+  "page": "https://warfarin.wiki/en/facilities/transmuter_1"
+ },
+ {
+  "id": "transmuter_2",
+  "name": {
+   "en": "Solid-Gas Transmuting Unit",
+   "zh-TW": "固氣轉化機",
+   "zh-CN": "固气转化机"
+  },
+  "group": "Production II",
+  "power": 50,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 5,
+  "depth": 5,
+  "page": "https://warfarin.wiki/en/facilities/transmuter_2"
+ },
+ {
+  "id": "travel_pole_1",
+  "name": {
+   "en": "Zipline Pylon",
+   "zh-TW": "滑索架",
+   "zh-CN": "滑索架"
+  },
+  "group": "Miscellaneous",
+  "power": 5,
+  "needsPower": true,
+  "bandwidth": 3,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/travel_pole_1"
+ },
+ {
+  "id": "travel_pole_2",
+  "name": {
+   "en": "Zipline Tower",
+   "zh-TW": "長距滑索架",
+   "zh-CN": "长距滑索架"
+  },
+  "group": "Miscellaneous",
+  "power": 5,
+  "needsPower": true,
+  "bandwidth": 3,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/travel_pole_2"
+ },
+ {
+  "id": "udpipe_loader_1",
+  "name": {
+   "en": "Conduit Inlet",
+   "zh-TW": "暗管入口",
+   "zh-CN": "暗管入口"
+  },
+  "group": "Depot Access",
+  "power": 0,
+  "needsPower": false,
+  "bandwidth": 1,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/udpipe_loader_1"
+ },
+ {
+  "id": "udpipe_unloader_1",
+  "name": {
+   "en": "Conduit Outlet",
+   "zh-TW": "暗管出口",
+   "zh-CN": "暗管出口"
+  },
+  "group": "Depot Access",
+  "power": 0,
+  "needsPower": false,
+  "bandwidth": 1,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/udpipe_unloader_1"
+ },
+ {
+  "id": "unloader_1",
+  "name": {
+   "en": "Depot Unloader",
+   "zh-TW": "倉庫取貨口",
+   "zh-CN": "仓库取货口"
+  },
+  "group": "Depot Access",
+  "power": 0,
+  "needsPower": false,
+  "bandwidth": 1,
+  "width": 3,
+  "depth": 1,
+  "page": "https://warfarin.wiki/en/facilities/unloader_1"
+ },
+ {
+  "id": "vaporizer_1",
+  "name": {
+   "en": "Gas Dispersing Unit",
+   "zh-TW": "氣體散布機",
+   "zh-CN": "气体散布机"
+  },
+  "group": "Production II",
+  "power": 0,
+  "needsPower": false,
+  "bandwidth": 2,
+  "width": 3,
+  "depth": 3,
+  "page": "https://warfarin.wiki/en/facilities/vaporizer_1"
+ },
+ {
+  "id": "winder_1",
+  "name": {
+   "en": "Gearing Unit",
+   "zh-TW": "裝備原件機",
+   "zh-CN": "装备原件机"
+  },
+  "group": "Production II",
+  "power": 10,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 6,
+  "depth": 4,
+  "page": "https://warfarin.wiki/en/facilities/winder_1"
+ },
+ {
+  "id": "xiranite_oven_1",
+  "name": {
+   "en": "Forge of the Sky",
+   "zh-TW": "天有洪爐",
+   "zh-CN": "天有洪炉"
+  },
+  "group": "Production II",
+  "power": 50,
+  "needsPower": true,
+  "bandwidth": 2,
+  "width": 5,
+  "depth": 5,
+  "page": "https://warfarin.wiki/en/facilities/xiranite_oven_1"
+ }
+]

@@ -1,0 +1,520 @@
+{
+ "slug": "argent-flow",
+ "gameId": "chr_0037_minghe",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/argent-flow",
+ "officialKey": "minghe",
+ "name": {
+  "en": "Argent Flow",
+  "zh-TW": "明河",
+  "zh-CN": "明河"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Guard",
+  "zh-TW": "近衛",
+  "zh-CN": "近卫"
+ },
+ "element": {
+  "en": "Electric",
+  "zh-TW": "電磁",
+  "zh-CN": "电磁"
+ },
+ "weapon": {
+  "en": "Sword",
+  "zh-TW": "單手劍",
+  "zh-CN": "单手剑"
+ },
+ "mainAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "subAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "faction": {
+  "en": "Hongshan Academy of Sciences (HAS)",
+  "zh-TW": "宏山科學院",
+  "zh-CN": "宏山科学院"
+ },
+ "race": {
+  "en": "Lung",
+  "zh-TW": "龍",
+  "zh-CN": "龙"
+ },
+ "voice": {
+  "en": {
+   "chi": "Sanshi",
+   "eng": "Howard Wang",
+   "jap": "Nakamura Yuichi",
+   "kor": "Min Seungwoo"
+  },
+  "zh-TW": {
+   "chi": "三石",
+   "eng": "Howard Wang",
+   "jap": "中村悠一",
+   "kor": "閔丞釪"
+  },
+  "zh-CN": {
+   "chi": "三石",
+   "eng": "Howard Wang",
+   "jap": "中村悠一",
+   "kor": "闵丞釪"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Dust Resplendent",
+    "zh-TW": "曜塵",
+    "zh-CN": "曜尘"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "22%",
+     "last": "50%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "24%",
+     "last": "55%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "45%",
+     "last": "100%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "62%",
+     "last": "140%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "60%",
+     "last": "135%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Darkness Cowed",
+    "zh-TW": "鎮影",
+    "zh-CN": "镇影"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Base DMG Multiplier",
+      "zh-TW": "基礎傷害倍率"
+     },
+     "first": "156%",
+     "last": "350%"
+    },
+    {
+     "name": {
+      "en": "Base Stagger",
+      "zh-TW": "基礎失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Bolt Rush DMG Multiplier",
+      "zh-TW": "奔霆傷害倍率"
+     },
+     "first": "311%",
+     "last": "700%"
+    },
+    {
+     "name": {
+      "en": "Bolt Rush Stagger",
+      "zh-TW": "奔霆失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Stars Shifted",
+    "zh-TW": "星移",
+    "zh-CN": "星移"
+   },
+   "cost": 0,
+   "cooldown": [
+    19,
+    18
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "160%",
+     "last": "360%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Battle Skill Change Duration (s)",
+      "zh-TW": "替換戰技持續時間（秒）"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Heavens Sundered",
+    "zh-TW": "裂天",
+    "zh-CN": "裂天"
+   },
+   "cost": 80,
+   "cooldown": [
+    15,
+    15
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Charge DMG Multiplier",
+      "zh-TW": "衝刺傷害倍率"
+     },
+     "first": "78%",
+     "last": "175%"
+    },
+    {
+     "name": {
+      "en": "Cleansing Cleave DMG Multiplier",
+      "zh-TW": "澄鋒傷害倍率"
+     },
+     "first": "222%",
+     "last": "500%"
+    },
+    {
+     "name": {
+      "en": "Ground Pierce DMG Multiplier",
+      "zh-TW": "墜地傷害倍率"
+     },
+     "first": "333%",
+     "last": "750%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Zenith of Voltmancy",
+    "zh-TW": "掣電橫天",
+    "zh-CN": "掣电横天"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Springvolt Galore",
+    "zh-TW": "霆曦宴夜",
+    "zh-CN": "霆曦宴夜"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Wildswept Storm",
+    "zh-TW": "輕雷掠野",
+    "zh-CN": "轻雷掠野"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Electrified Spring",
+    "zh-TW": "浮光啟蟄",
+    "zh-CN": "浮光启蛰"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Storm Blitz",
+    "zh-TW": "流霆逐風",
+    "zh-CN": "流霆逐风"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Starflow Illuminated",
+    "zh-TW": "星河徹明",
+    "zh-CN": "星河彻明"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Invitation to Celestial Lights",
+    "zh-TW": "我邀日月",
+    "zh-CN": "我邀日月"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 15,
+   "agi": 9,
+   "int": 9,
+   "will": 22,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 121,
+   "agi": 93,
+   "int": 93,
+   "will": 178,
+   "atk": 318,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Triphasic Nanoflake",
+      "zh-TW": "三相奈米片",
+      "zh-CN": "三相纳米片"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Talos Cap",
+      "zh-TW": "塔羅斯菌",
+      "zh-CN": "塔罗斯菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

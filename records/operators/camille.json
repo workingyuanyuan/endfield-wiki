@@ -1,0 +1,560 @@
+{
+ "slug": "camille",
+ "gameId": "chr_0033_camille",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/camille",
+ "officialKey": "camille",
+ "name": {
+  "en": "Camille",
+  "zh-TW": "卡繆",
+  "zh-CN": "卡缪"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Vanguard",
+  "zh-TW": "先鋒",
+  "zh-CN": "先锋"
+ },
+ "element": {
+  "en": "Heat",
+  "zh-TW": "灼熱",
+  "zh-CN": "灼热"
+ },
+ "weapon": {
+  "en": "Polearm",
+  "zh-TW": "長柄武器",
+  "zh-CN": "长柄武器"
+ },
+ "mainAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "subAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "faction": {
+  "en": "Seš'qa",
+  "zh-TW": "塞什卡",
+  "zh-CN": "塞什卡"
+ },
+ "race": {
+  "en": "Sarkaz",
+  "zh-TW": "薩卡茲",
+  "zh-CN": "萨卡兹"
+ },
+ "voice": {
+  "en": {
+   "chi": "Ma Yang",
+   "eng": "Aleks Le",
+   "jap": "Matsuoka Yoshitsugu",
+   "kor": "Lee Ju Seung"
+  },
+  "zh-TW": {
+   "chi": "馬洋",
+   "eng": "Aleks Le",
+   "jap": "松岡禎丞",
+   "kor": "李周承"
+  },
+  "zh-CN": {
+   "chi": "马洋",
+   "eng": "Aleks Le",
+   "jap": "松冈祯丞",
+   "kor": "李周承"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Sanguine Absolution",
+    "zh-TW": "歃血滌罪",
+    "zh-CN": "歃血涤罪"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "25%",
+     "last": "56%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "20%",
+     "last": "45%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "30%",
+     "last": "68%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "34%",
+     "last": "77%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "50%",
+     "last": "113%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Blazing Exorcism",
+    "zh-TW": "驅火焚影",
+    "zh-CN": "驱火焚影"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "89%",
+     "last": "200%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Firefang Vesperwings Duration (s)",
+      "zh-TW": "銜火血翼持續時間（秒）"
+     },
+     "first": "45",
+     "last": "45"
+    },
+    {
+     "name": {
+      "en": "Weakness",
+      "zh-TW": "虛弱效果"
+     },
+     "first": "5%",
+     "last": "7%"
+    },
+    {
+     "name": {
+      "en": "Heat Susceptibility",
+      "zh-TW": "灼熱脆弱效果"
+     },
+     "first": "5%",
+     "last": "7%"
+    },
+    {
+     "name": {
+      "en": "Explosion DMG Multiplier",
+      "zh-TW": "爆裂傷害倍率"
+     },
+     "first": "45%",
+     "last": "100%"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Heartstake Thorn",
+    "zh-TW": "錐心之棘",
+    "zh-CN": "锥心之棘"
+   },
+   "cost": 0,
+   "cooldown": [
+    20,
+    18
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "133%",
+     "last": "300%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "SP Recovery",
+      "zh-TW": "技力回復"
+     },
+     "first": "16",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Hunter Pursuit DMG Multiplier",
+      "zh-TW": "追獵傷害倍率"
+     },
+     "first": "222%",
+     "last": "500%"
+    },
+    {
+     "name": {
+      "en": "Hunter Pursuit Stagger",
+      "zh-TW": "追獵失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Hunter Pursuit SP Recovery",
+      "zh-TW": "追獵技力回復"
+     },
+     "first": "32",
+     "last": "40"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Sanguine Downpour",
+    "zh-TW": "猩紅墜雨",
+    "zh-CN": "猩红坠雨"
+   },
+   "cost": 130,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "267%",
+     "last": "600%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "15",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "SP Recovery",
+      "zh-TW": "技力回復"
+     },
+     "first": "32",
+     "last": "40"
+    },
+    {
+     "name": {
+      "en": "Hunter Pursuit State Duration (s)",
+      "zh-TW": "追獵狀態持續時間（秒）"
+     },
+     "first": "15",
+     "last": "15"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Hunter of Transgression",
+    "zh-TW": "追罪之人",
+    "zh-CN": "追罪之人"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Bloodfount Revival",
+    "zh-TW": "血湧甦生",
+    "zh-CN": "血涌苏生"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Flame-Anointed Lance",
+    "zh-TW": "烈火洗槍",
+    "zh-CN": "烈火洗枪"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Tracker of Witch Scent",
+    "zh-TW": "巫術嗅覺",
+    "zh-CN": "巫术嗅觉"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Thorned Incapacitor",
+    "zh-TW": "荊棘破韌",
+    "zh-CN": "荆棘破韧"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Agašlehem's Sigil",
+    "zh-TW": "看護之證",
+    "zh-CN": "看护之证"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Sanguine Convention",
+    "zh-TW": "予血同在",
+    "zh-CN": "予血同在"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 13,
+   "agi": 17,
+   "int": 14,
+   "will": 11,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 102,
+   "agi": 160,
+   "int": 129,
+   "will": 92,
+   "atk": 315,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Metadiastima Photoemission Tube",
+      "zh-TW": "超距輝映管",
+      "zh-CN": "超距辉映管"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

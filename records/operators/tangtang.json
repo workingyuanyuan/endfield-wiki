@@ -1,0 +1,568 @@
+{
+ "slug": "tangtang",
+ "gameId": "chr_0027_tangtang",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/tangtang",
+ "officialKey": "tangtang",
+ "name": {
+  "en": "Tangtang",
+  "zh-TW": "湯湯",
+  "zh-CN": "汤汤"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Caster",
+  "zh-TW": "術師",
+  "zh-CN": "术师"
+ },
+ "element": {
+  "en": "Cryo",
+  "zh-TW": "寒冷",
+  "zh-CN": "寒冷"
+ },
+ "weapon": {
+  "en": "Handcannon",
+  "zh-TW": "手銃",
+  "zh-CN": "手铳"
+ },
+ "mainAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "subAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "faction": {
+  "en": "Endfield Industries",
+  "zh-TW": "終末地工業",
+  "zh-CN": "终末地工业"
+ },
+ "race": {
+  "en": "Feline",
+  "zh-TW": "菲林",
+  "zh-CN": "菲林"
+ },
+ "voice": {
+  "en": {
+   "chi": "Jing Chen",
+   "eng": "Jing Chen",
+   "jap": "Fairouz Ai",
+   "kor": "Kim Chae-rin"
+  },
+  "zh-TW": {
+   "chi": "靜宸",
+   "eng": "靜宸",
+   "jap": "菲魯茲·藍",
+   "kor": "金彩璘"
+  },
+  "zh-CN": {
+   "chi": "静宸",
+   "eng": "静宸",
+   "jap": "菲鲁兹·蓝",
+   "kor": "金彩璘"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "I'LL BLOW YOUR MIND!",
+    "zh-TW": "崩你腦袋！",
+    "zh-CN": "崩你脑壳！"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "23%",
+     "last": "51%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "25%",
+     "last": "56%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "35%",
+     "last": "79%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "37%",
+     "last": "82%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "50%",
+     "last": "113%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "IMA WAVERIDAAH!",
+    "zh-TW": "踏潮捲浪！",
+    "zh-CN": "踏潮卷浪！"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Shooting DMG Multiplier",
+      "zh-TW": "射擊傷害倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    },
+    {
+     "name": {
+      "en": "Shot Stagger",
+      "zh-TW": "射擊失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "DMG Multiplier (1 Waterspout)",
+      "zh-TW": "單個水龍捲傷害倍率"
+     },
+     "first": "133%",
+     "last": "300%"
+    },
+    {
+     "name": {
+      "en": "Waterspout Duration (s)",
+      "zh-TW": "水龍捲持續時間（秒）"
+     },
+     "first": "3",
+     "last": "3"
+    },
+    {
+     "name": {
+      "en": "SP Return per Whirlpool",
+      "zh-TW": "每處渦流技力返還"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Arts Susceptibility (2 Waterspouts)",
+      "zh-TW": "兩個水龍捲法術脆弱"
+     },
+     "first": "3%",
+     "last": "5%"
+    },
+    {
+     "name": {
+      "en": "Arts Susceptibility (3 Waterspouts)",
+      "zh-TW": "三個水龍捲法術脆弱"
+     },
+     "first": "6%",
+     "last": "10%"
+    },
+    {
+     "name": {
+      "en": "Arts Susceptibility Duration (s)",
+      "zh-TW": "法術脆弱持續時間（秒）"
+     },
+     "first": "15",
+     "last": "15"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "RIVER, TO ME!",
+    "zh-TW": "河水，助我！",
+    "zh-CN": "河水，助我！"
+   },
+   "cost": 0,
+   "cooldown": [
+    14,
+    12
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "107%",
+     "last": "240%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Whirlpool Duration (s)",
+      "zh-TW": "渦流持續時間（秒）"
+     },
+     "first": "30",
+     "last": "30"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "DA CHIEF SEES YOU!",
+    "zh-TW": "大當家盯著呢！",
+    "zh-CN": "大当家盯着呢！"
+   },
+   "cost": 90,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Over Time Total Multiplier",
+      "zh-TW": "持續傷害總倍率"
+     },
+     "first": "142%",
+     "last": "320%"
+    },
+    {
+     "name": {
+      "en": "OLDEN STARE Duration (s)",
+      "zh-TW": "古老圖形持續時間（秒）"
+     },
+     "first": "4",
+     "last": "4"
+    },
+    {
+     "name": {
+      "en": "Rogue Wave DMG Multiplier",
+      "zh-TW": "巨浪傷害倍率"
+     },
+     "first": "178%",
+     "last": "400%"
+    },
+    {
+     "name": {
+      "en": "Early Rogue Wave DMG Multiplier",
+      "zh-TW": "提前降下巨浪傷害倍率"
+     },
+     "first": "311%",
+     "last": "700%"
+    },
+    {
+     "name": {
+      "en": "Rogue Wave Stagger",
+      "zh-TW": "巨浪失衡值"
+     },
+     "first": "15",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "Early Rogue Wave Stagger",
+      "zh-TW": "提前降下巨浪失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Fam of Honor",
+    "zh-TW": "肝膽相照",
+    "zh-CN": "肝胆相照"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Riot Bringer",
+    "zh-TW": "呼風喚浪",
+    "zh-CN": "呼风唤浪"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Reserve Hoard",
+    "zh-TW": "財寶儲備",
+    "zh-CN": "财宝储备"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "River's Daughter",
+    "zh-TW": "河流的女兒",
+    "zh-CN": "河流的女儿"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Chiefly Vibe",
+    "zh-TW": "當家氣魄",
+    "zh-CN": "当家气魄"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Qingbo Meditation",
+    "zh-TW": "清波修煉法",
+    "zh-CN": "清波修炼法"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Chief's All-Eldritch Gaze",
+    "zh-TW": "魔眼效能",
+    "zh-CN": "魔眼效能"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 13,
+   "agi": 23,
+   "int": 8,
+   "will": 10,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 123,
+   "agi": 179,
+   "int": 85,
+   "will": 102,
+   "atk": 321,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Metadiastima Photoemission Tube",
+      "zh-TW": "超距輝映管",
+      "zh-CN": "超距辉映管"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

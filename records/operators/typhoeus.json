@@ -1,0 +1,553 @@
+{
+ "slug": "typhoeus",
+ "gameId": "chr_0034_typhoea",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/typhoeus",
+ "officialKey": "typhoea",
+ "name": {
+  "en": "Typhoeus",
+  "zh-TW": "提弗洛斯",
+  "zh-CN": "提弗洛斯"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Striker",
+  "zh-TW": "突擊",
+  "zh-CN": "突击"
+ },
+ "element": {
+  "en": "Nature",
+  "zh-TW": "自然",
+  "zh-CN": "自然"
+ },
+ "weapon": {
+  "en": "Arts Unit",
+  "zh-TW": "施術單元",
+  "zh-CN": "施术单元"
+ },
+ "mainAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "subAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "faction": {
+  "en": "Rhodes Island",
+  "zh-TW": "羅德島",
+  "zh-CN": "罗德岛"
+ },
+ "race": {
+  "en": "Sarkaz",
+  "zh-TW": "薩卡茲",
+  "zh-CN": "萨卡兹"
+ },
+ "voice": {
+  "en": {
+   "chi": "ShiHaku",
+   "eng": "Hanna Johansson",
+   "jap": "Ohzora Naomi",
+   "kor": "Chae Rim"
+  },
+  "zh-TW": {
+   "chi": "皛四白",
+   "eng": "Hanna Johansson",
+   "jap": "大空直美",
+   "kor": "彩琳"
+  },
+  "zh-CN": {
+   "chi": "皛四白",
+   "eng": "Hanna Johansson",
+   "jap": "大空直美",
+   "kor": "彩琳"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Wildlands Huntress",
+    "zh-TW": "追獵荒原",
+    "zh-CN": "追猎荒原"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "21%",
+     "last": "46%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "25%",
+     "last": "56%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "38%",
+     "last": "86%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "42%",
+     "last": "95%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "56%",
+     "last": "125%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Piercing Arrows of the Woods",
+    "zh-TW": "風矢穿林",
+    "zh-CN": "风矢穿林"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Initial Aerial Shot DMG Multiplier",
+      "zh-TW": "起跳射擊傷害倍率"
+     },
+     "first": "22%",
+     "last": "50%"
+    },
+    {
+     "name": {
+      "en": "ABATK DMG",
+      "zh-TW": "空中普通攻擊傷害"
+     },
+     "first": "29%",
+     "last": "65%"
+    },
+    {
+     "name": {
+      "en": "Aerial Final Strike DMG",
+      "zh-TW": "空中重擊傷害"
+     },
+     "first": "44%",
+     "last": "100%"
+    },
+    {
+     "name": {
+      "en": "Aerial Final Strike Stagger",
+      "zh-TW": "空中重擊失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Power Shot Nature Burst DMG Multiplier",
+      "zh-TW": "強化射擊自然爆發傷害倍率"
+     },
+     "first": "1.1",
+     "last": "1.3"
+    },
+    {
+     "name": {
+      "en": "Additional Ultimate Energy",
+      "zh-TW": "額外終結技能量"
+     },
+     "first": "12",
+     "last": "12"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Rampant Thorns",
+    "zh-TW": "野棘叢生",
+    "zh-CN": "野棘丛生"
+   },
+   "cost": 0,
+   "cooldown": [
+    21,
+    19
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "\"Huntress's Gaze\" Hit DMG",
+      "zh-TW": "「獵手的注視」命中傷害"
+     },
+     "first": "89%",
+     "last": "200%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Area DMG Over Time",
+      "zh-TW": "區域持續傷害"
+     },
+     "first": "45%",
+     "last": "100%"
+    },
+    {
+     "name": {
+      "en": "Slow",
+      "zh-TW": "緩速效果"
+     },
+     "first": "60%",
+     "last": "60%"
+    },
+    {
+     "name": {
+      "en": "Nature Burst DMG Boost",
+      "zh-TW": "自然爆發傷害提高"
+     },
+     "first": "6%",
+     "last": "10%"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Call of Ice Mountain",
+    "zh-TW": "冰山呼告",
+    "zh-CN": "冰山呼告"
+   },
+   "cost": 200,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Imbued Arrow Explosion DMG",
+      "zh-TW": "強力箭爆炸傷害"
+     },
+     "first": "133%",
+     "last": "300%"
+    },
+    {
+     "name": {
+      "en": "Imbued Arrow Stagger",
+      "zh-TW": "強力箭失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Normal Hail of Arrows DMG",
+      "zh-TW": "基礎箭雨傷害"
+     },
+     "first": "33%",
+     "last": "75%"
+    },
+    {
+     "name": {
+      "en": "Empowered Hail of Arrows DMG",
+      "zh-TW": "強化箭雨傷害"
+     },
+     "first": "89%",
+     "last": "200%"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Prey Checklist",
+    "zh-TW": "獵物清點",
+    "zh-CN": "猎物清点"
+   },
+   "promotions": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "name": {
+    "en": "Huntress's Focus",
+    "zh-TW": "獵手的專注",
+    "zh-CN": "猎手的专注"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Samifjod Fletching",
+    "zh-TW": "薩米製箭工藝",
+    "zh-CN": "萨米制箭工艺"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Huntress's Stride",
+    "zh-TW": "獵人步伐",
+    "zh-CN": "猎人步伐"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Thorny Trap",
+    "zh-TW": "荊棘獵籠",
+    "zh-CN": "荆棘猎笼"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "No Escape",
+    "zh-TW": "無處可逃",
+    "zh-CN": "无处可逃"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Fatal Shot",
+    "zh-TW": "應弦而倒",
+    "zh-CN": "应弦而倒"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 9,
+   "agi": 21,
+   "int": 10,
+   "will": 14,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 97,
+   "agi": 174,
+   "int": 99,
+   "will": 119,
+   "atk": 312,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Tachyon Screening Lattice",
+      "zh-TW": "迅子遴撿晶格",
+      "zh-CN": "快子遴捡晶格"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Talos Cap",
+      "zh-TW": "塔羅斯菌",
+      "zh-CN": "塔罗斯菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

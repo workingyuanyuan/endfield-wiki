@@ -1,0 +1,617 @@
+{
+ "slug": "laevatain",
+ "gameId": "chr_0016_laevat",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/laevatain",
+ "officialKey": "laevatain",
+ "name": {
+  "en": "Laevatain",
+  "zh-TW": "萊萬汀",
+  "zh-CN": "莱万汀"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Striker",
+  "zh-TW": "突擊",
+  "zh-CN": "突击"
+ },
+ "element": {
+  "en": "Heat",
+  "zh-TW": "灼熱",
+  "zh-CN": "灼热"
+ },
+ "weapon": {
+  "en": "Sword",
+  "zh-TW": "單手劍",
+  "zh-CN": "单手剑"
+ },
+ "mainAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "subAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "faction": {
+  "en": "Rhodes Island",
+  "zh-TW": "羅德島",
+  "zh-CN": "罗德岛"
+ },
+ "race": {
+  "en": "Sarkaz",
+  "zh-TW": "薩卡茲",
+  "zh-CN": "萨卡兹"
+ },
+ "voice": {
+  "en": {
+   "chi": "Yan Meme",
+   "eng": "Kira Buckland",
+   "jap": "Horie Yui",
+   "kor": "Kum You-rim"
+  },
+  "zh-TW": {
+   "chi": "閻麼麼",
+   "eng": "Kira Buckland",
+   "jap": "堀江由衣",
+   "kor": "金愈琳"
+  },
+  "zh-CN": {
+   "chi": "阎么么",
+   "eng": "Kira Buckland",
+   "jap": "堀江由衣",
+   "kor": "金愈琳"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Flaming Cinders",
+    "zh-TW": "燃燼",
+    "zh-CN": "燃烬"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "16%",
+     "last": "36%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "24%",
+     "last": "54%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "25%",
+     "last": "56%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "39%",
+     "last": "88%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "53%",
+     "last": "119%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Smouldering Fire",
+    "zh-TW": "焚滅",
+    "zh-CN": "焚灭"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Base Explosion DMG Multiplier",
+      "zh-TW": "初始爆炸傷害倍率"
+     },
+     "first": "62%",
+     "last": "140%"
+    },
+    {
+     "name": {
+      "en": "Base Explosion Stagger",
+      "zh-TW": "初始爆炸失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "DMG Over Time Multiplier per SEQ",
+      "zh-TW": "持續傷害每段倍率"
+     },
+     "first": "6%",
+     "last": "14%"
+    },
+    {
+     "name": {
+      "en": "Additional ATK DMG Multiplier",
+      "zh-TW": "追加傷害倍率"
+     },
+     "first": "342%",
+     "last": "770%"
+    },
+    {
+     "name": {
+      "en": "Additional ATK Stagger",
+      "zh-TW": "追加失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Combustion Duration (s)",
+      "zh-TW": "燃燒時長（秒）"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Additional ATK Ultimate Energy Gain",
+      "zh-TW": "追加攻擊獲得終結技能量"
+     },
+     "first": "100",
+     "last": "100"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: BATK SEQ 1 Multiplier",
+      "zh-TW": "終結技期間第一段倍率"
+     },
+     "first": "147%",
+     "last": "330%"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: BATK SEQ 1 Stagger",
+      "zh-TW": "終結技期間第一段失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: BATK SEQ 2 Multiplier",
+      "zh-TW": "終結技期間第二段倍率"
+     },
+     "first": "164%",
+     "last": "370%"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: BATK SEQ 2 Stagger",
+      "zh-TW": "終結技期間第二段失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: Additional ATK Multiplier",
+      "zh-TW": "終結技期間追加攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: Additional ATK Stagger",
+      "zh-TW": "終結技期間追加攻擊失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: Combustion Duration (s)",
+      "zh-TW": "終結技期間燃燒時長（秒）"
+     },
+     "first": "5",
+     "last": "5"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Seethe",
+    "zh-TW": "沸騰",
+    "zh-CN": "沸腾"
+   },
+   "cost": 0,
+   "cooldown": [
+    10,
+    9
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "240%",
+     "last": "540%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain when Hitting 1 Enemy",
+      "zh-TW": "命中1個敵人獲得終結技能量"
+     },
+     "first": "25",
+     "last": "25"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain when Hitting 2 Enemies",
+      "zh-TW": "命中2個敵人獲得終結技能量"
+     },
+     "first": "30",
+     "last": "30"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain when Hitting 3 Enemies",
+      "zh-TW": "命中3個或以上敵人獲得終結技能量"
+     },
+     "first": "35",
+     "last": "35"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Twilight",
+    "zh-TW": "黃昏",
+    "zh-CN": "黄昏"
+   },
+   "cost": 300,
+   "cooldown": [
+    10,
+    10
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Duration (s)",
+      "zh-TW": "持續時間（秒）"
+     },
+     "first": "15",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "Enhanced BATK SEQ 1 Multiplier",
+      "zh-TW": "強化普攻第一段倍率"
+     },
+     "first": "65%",
+     "last": "146%"
+    },
+    {
+     "name": {
+      "en": "Enhanced BATK SEQ 2 Multiplier",
+      "zh-TW": "強化普攻第二段倍率"
+     },
+     "first": "81%",
+     "last": "182%"
+    },
+    {
+     "name": {
+      "en": "Enhanced BATK SEQ 3 Multiplier",
+      "zh-TW": "強化普攻第三段倍率"
+     },
+     "first": "115%",
+     "last": "260%"
+    },
+    {
+     "name": {
+      "en": "Enhanced BATK SEQ 4 Multiplier",
+      "zh-TW": "強化普攻第四段倍率"
+     },
+     "first": "203%",
+     "last": "456%"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Scorching Heart",
+    "zh-TW": "灼心",
+    "zh-CN": "灼心"
+   },
+   "promotions": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "name": {
+    "en": "Re-Ignition",
+    "zh-TW": "復燃",
+    "zh-CN": "复燃"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Heart of Melting Flame",
+    "zh-TW": "熔火之心",
+    "zh-CN": "熔火之心"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Pursuit of Memories",
+    "zh-TW": "追憶之旅",
+    "zh-CN": "追忆之旅"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Fragments from the Past",
+    "zh-TW": "往事碎片",
+    "zh-CN": "往事碎片"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Ice Cream Furnace",
+    "zh-TW": "冰淇淋熔爐",
+    "zh-CN": "冰淇淋熔炉"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Proof of Existence",
+    "zh-TW": "存在的證明",
+    "zh-CN": "存在的证明"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 13,
+   "agi": 9,
+   "int": 22,
+   "will": 9,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 121,
+   "agi": 99,
+   "int": 177,
+   "will": 89,
+   "atk": 318,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "D96 Steel Sample 4",
+      "zh-TW": "D96鋼樣品四",
+      "zh-CN": "D96钢样品四"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

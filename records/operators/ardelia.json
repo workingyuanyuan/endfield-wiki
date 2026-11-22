@@ -1,0 +1,512 @@
+{
+ "slug": "ardelia",
+ "gameId": "chr_0025_ardelia",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/ardelia",
+ "officialKey": "ardelia",
+ "name": {
+  "en": "Ardelia",
+  "zh-TW": "艾爾黛拉",
+  "zh-CN": "艾尔黛拉"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Supporter",
+  "zh-TW": "輔助",
+  "zh-CN": "辅助"
+ },
+ "element": {
+  "en": "Nature",
+  "zh-TW": "自然",
+  "zh-CN": "自然"
+ },
+ "weapon": {
+  "en": "Arts Unit",
+  "zh-TW": "施術單元",
+  "zh-CN": "施术单元"
+ },
+ "mainAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "subAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "faction": {
+  "en": "Rhodes Island",
+  "zh-TW": "羅德島",
+  "zh-CN": "罗德岛"
+ },
+ "race": {
+  "en": "Caprinae",
+  "zh-TW": "卡普里尼",
+  "zh-CN": "卡普里尼"
+ },
+ "voice": {
+  "en": {
+   "chi": "Cool",
+   "eng": "Lindsay Sheppard",
+   "jap": "Kanemoto Hisako",
+   "kor": "Kim Ha-ru"
+  },
+  "zh-TW": {
+   "chi": "降溫",
+   "eng": "Lindsay Sheppard",
+   "jap": "金元壽子",
+   "kor": "金賀婁"
+  },
+  "zh-CN": {
+   "chi": "降温",
+   "eng": "Lindsay Sheppard",
+   "jap": "金元寿子",
+   "kor": "金贺娄"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Rocky Whispers",
+    "zh-TW": "岩石的輕語",
+    "zh-CN": "岩石的轻语"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "30%",
+     "last": "68%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "40%",
+     "last": "90%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "53%",
+     "last": "118%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "55%",
+     "last": "124%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Dolly Rush",
+    "zh-TW": "奔騰的多利",
+    "zh-CN": "奔腾的多利"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "142%",
+     "last": "320%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Susceptibility",
+      "zh-TW": "脆弱效果"
+     },
+     "first": "12%",
+     "last": "20%"
+    },
+    {
+     "name": {
+      "en": "Susceptibility Duration (s)",
+      "zh-TW": "脆弱持續時間（秒）"
+     },
+     "first": "30",
+     "last": "30"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Eruption Column",
+    "zh-TW": "火山蘑菇雲",
+    "zh-CN": "火山蘑菇云"
+   },
+   "cost": 0,
+   "cooldown": [
+    18,
+    17
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "45%",
+     "last": "100%"
+    },
+    {
+     "name": {
+      "en": "Explosion DMG Multiplier",
+      "zh-TW": "爆炸傷害倍率"
+     },
+     "first": "111%",
+     "last": "250%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Corrode Duration (s)",
+      "zh-TW": "腐蝕持續時間（秒）"
+     },
+     "first": "7",
+     "last": "7"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Wooly Party",
+    "zh-TW": "毛茸茸派對",
+    "zh-CN": "毛茸茸派对"
+   },
+   "cost": 90,
+   "cooldown": [
+    15,
+    15
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "73%",
+     "last": "165%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "2",
+     "last": "3"
+    },
+    {
+     "name": {
+      "en": "Duration (s)",
+      "zh-TW": "持續時間（秒）"
+     },
+     "first": "3",
+     "last": "3"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Friendly Presence",
+    "zh-TW": "朋友的身影",
+    "zh-CN": "朋友的身影"
+   },
+   "promotions": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Mountainpeak Surfer",
+    "zh-TW": "山頂衝浪",
+    "zh-CN": "山顶冲浪"
+   },
+   "promotions": [
+    2
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Dolly Paradise",
+    "zh-TW": "羊的樂園",
+    "zh-CN": "羊的乐园"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Game Rewards",
+    "zh-TW": "遊戲獎勵",
+    "zh-CN": "游戏奖励"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Explosive Eruption",
+    "zh-TW": "爆炸式噴發",
+    "zh-CN": "爆炸式喷发"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Rock Blossom",
+    "zh-TW": "岩中花朵",
+    "zh-CN": "岩中花朵"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Volcanic Steam",
+    "zh-TW": "火山蒸汽",
+    "zh-CN": "火山蒸汽"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 9,
+   "agi": 9,
+   "int": 20,
+   "will": 15,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 112,
+   "agi": 93,
+   "int": 145,
+   "will": 118,
+   "atk": 323,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Quadrant Fitting Fluid",
+      "zh-TW": "象限擬合液",
+      "zh-CN": "象限拟合液"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

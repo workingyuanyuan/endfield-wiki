@@ -1,0 +1,57 @@
+{
+ "slug": "ember",
+ "intro": {
+  "en": "Ember is an elite of the Assault Banner of the northern Order of Steel Oath who returned to the Civilization Band to recruit successors and accepted an invitation to work with Endfield Industries.",
+  "zh-TW": "餘燼是駐守北方的鐵誓軍陷陣旗隊精銳，為徵募陣亡戰友的繼任者返回文明環帶，並受邀與終末地工業合作。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 4 hits. While she is the controlled operator, her Final Strike also deals 25 Stagger.",
+   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊會額外造成 25 點失衡。"
+  },
+  "battle": {
+   "en": "Leaps forward and slams down, dealing Heat damage, Knock Down, and Stagger to enemies in a fan-shaped area. Taking enemy damage while casting makes the slam deal extra Stagger on hit.",
+   "zh-TW": "向前躍起並重砸，對扇形範圍內的敵人造成灼熱傷害、倒地與失衡。施放期間若受到敵人傷害，命中時會額外造成失衡。"
+  },
+  "combo": {
+   "en": "Trigger: the controlled operator is attacked. She leaps to the target and slams down for Physical damage and Knock Down while healing the controlled operator, with Will increasing the healing.",
+   "zh-TW": "觸發條件：主控幹員受到攻擊。向目標跳起並重砸，造成物理傷害與倒地，同時治療主控幹員，意志可額外提升治療量。"
+  },
+  "ultimate": {
+   "en": "Slams the ground to deal Heat damage to nearby enemies and grants every teammate a Shield scaling with Ember's Max HP.",
+   "zh-TW": "猛擊地面對附近敵人造成灼熱傷害，並為全隊賦予基於餘燼最大生命值的護盾。"
+  }
+ },
+ "talents": [
+  {
+   "en": "While casting Forward March or Frontline Support, Ember gains 30% Protection (50% at Promotion II) and becomes harder to interrupt.",
+   "zh-TW": "施放進軍與前線援護期間，自身獲得 30% 庇護（精英化II 為 50%），且更不容易被打斷。"
+  },
+  {
+   "en": "Taking damage from an enemy grants Ember +6% ATK (+9% at Promotion III) for 7 s, stacking up to 3 times.",
+   "zh-TW": "受到敵人傷害後，自身攻擊力 +6%（精英化III 為 +9%），持續 7 秒，最多疊加 3 層。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Inflamed for the Assault grants +20% more Protection, and hitting an enemy extends it by 1.5 s.",
+   "zh-TW": "陷陣之志的庇護效果額外 +20%，命中敵人後持續時間延長 1.5 秒。"
+  },
+  {
+   "en": "Strength +20, Will +20.",
+   "zh-TW": "力量 +20，意志 +20。"
+  },
+  {
+   "en": "Frontline Support also heals another teammate with the lowest HP percentage for 50% of the base healing.",
+   "zh-TW": "前線援護會額外治療另一名生命值百分比最低的隊友，治療量為基礎值的 50%。"
+  },
+  {
+   "en": "Re-Ignited Oath costs 15% less Ultimate Energy.",
+   "zh-TW": "重燃誓約所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Re-Ignited Oath's Shield is 1.2 times stronger, and its holder gains +10% ATK while it lasts.",
+   "zh-TW": "重燃誓約的護盾效果提升為 1.2 倍，護盾存在期間持有者攻擊力 +10%。"
+  }
+ ]
+}

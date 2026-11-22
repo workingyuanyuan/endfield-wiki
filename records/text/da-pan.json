@@ -1,0 +1,57 @@
+{
+ "slug": "da-pan",
+ "intro": {
+  "en": "Da Pan is a former Hongshan Academy of Sciences member and proud traveling chef who joined Endfield Industries' Specialist Tech Division as an independent.",
+  "zh-TW": "大潘出身宏山科學院，離開後以遊歷四方的廚師身分自豪，現以個人身分加入終末地工業特種技術部門。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 4 hits. While he is the controlled operator, his Final Strike also deals 20 Stagger.",
+   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊會額外造成 20 點失衡。"
+  },
+  "battle": {
+   "en": "Briefly charges a wok and flips it upward, dealing Physical damage and Lift to the enemy.",
+   "zh-TW": "取出鐵鍋短暫蓄力後向上猛翻，對敵人造成物理傷害與擊飛。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy reaches 4 stacks of Vulnerability. He swings his wok to deal heavy Physical damage and Crush, with bonus damage on this Crush.",
+   "zh-TW": "觸發條件：有敵人達到 4 層破防。揮動鐵鍋對敵人造成大量物理傷害與猛擊，且本次猛擊的傷害額外提高。"
+  },
+  "ultimate": {
+   "en": "Slams his chopping board to forcibly Lift all enemies ahead, follows with a 6-hit Physical slash flurry, then slams them down for heavy Physical damage and forced Knock Down.",
+   "zh-TW": "猛拍砧板強制擊飛前方範圍內的敵人，接著發動 6 段物理斬擊，最後將所有敵人擊墜，造成大量物理傷害並強制倒地。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Consuming 1 stack of Vulnerability grants Da Pan +4% Physical damage dealt (+6% at Promotion II) for 10 s, stacking up to 4 times.",
+   "zh-TW": "每消耗 1 層破防後，自身造成的物理傷害 +4%（精英化II 為 +6%），持續 10 秒，最多疊加 4 層。"
+  },
+  {
+   "en": "Each enemy hit by the final sequence of CHOP 'N DUNK! grants 1 stack of Prep Ingredients for 20 s, max 1 stack (2 at Promotion III). While active, hitting with a combo skill spends 1 stack to cut cooldown by 40%.",
+   "zh-TW": "切絲入鍋！最後一擊每命中一名敵人，獲得 1 層備料狀態，持續 20 秒，最多 1 層（精英化III 為 2 層）。持有期間連攜技命中會消耗 1 層並立即恢復 40% 冷卻時間。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "If CHOP 'N DUNK! defeats at least one enemy, Da Pan gains +30% Physical damage for 15 s (does not stack).",
+   "zh-TW": "若切絲入鍋！至少擊敗一名敵人，大潘造成的物理傷害 +30%，持續 15 秒，無法疊加。"
+  },
+  {
+   "en": "Salty or Mild's Prep Ingredients lasts 10 s longer and holds 1 more max stack.",
+   "zh-TW": "嚐嚐鹹淡的備料狀態持續時間 +10 秒，最大疊加層數 +1。"
+  },
+  {
+   "en": "Strength +15, Physical damage dealt +8%.",
+   "zh-TW": "力量 +15，物理傷害 +8%。"
+  },
+  {
+   "en": "CHOP 'N DUNK! costs 15% less Ultimate Energy.",
+   "zh-TW": "切絲入鍋！所需的終結技能量 -15%。"
+  },
+  {
+   "en": "When FLIP DA WOK! hits only a single enemy, it applies 1 extra stack of Vulnerability, at most once every 45 s.",
+   "zh-TW": "翻鍋！僅命中單個敵人時額外施加 1 層破防，每 45 秒最多觸發一次。"
+  }
+ ]
+}

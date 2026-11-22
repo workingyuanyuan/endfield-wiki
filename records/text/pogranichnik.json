@@ -1,0 +1,57 @@
+{
+ "slug": "pogranichnik",
+ "intro": {
+  "en": "Pogranichnik is a Rhodes Island operator and former Shieldguard Banner commander in the Order of Steel Oath who serves Endfield Industries as a military consultant under an agreement between the two companies.",
+  "zh-TW": "駿衛來自羅德島，曾任鐵誓軍盾衛旗隊指揮官，現依兩間公司的協議架構擔任終末地工業的軍事顧問。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 5 hits. As the controlled operator, his final strike also deals 18 Stagger.",
+   "zh-TW": "最多 5 段的物理傷害連擊。作為主控幹員時，重擊額外造成 18 點失衡。"
+  },
+  "battle": {
+   "en": "Slashes enemies ahead in 2 hits for Physical damage, applies Breach, and recovers SP based on the Vulnerability stacks consumed, triggering at most 1 time even if hitting multiple enemies.",
+   "zh-TW": "對前方敵人進行 2 段斬擊，造成物理傷害並施加碎甲，依消耗的破防層數回復技力，命中多名敵人時最多僅回復 1 次。"
+  },
+  "combo": {
+   "en": "Trigger: Crush or Breach consumes an enemy's Vulnerability stacks. Slashes up to 3 times matching the highest stacks consumed from one enemy for Physical damage and SP recovery, growing stronger each hit; consuming 4 stacks enhances slash 3.",
+   "zh-TW": "觸發條件：敵人因猛擊或碎甲消耗破防層數。依單一敵人被消耗的最高破防層數斬擊相同段數（最多 3 段），造成物理傷害並回復技力，每段效果遞增；消耗 4 層破防時強化第 3 段斬擊。"
+  },
+  "ultimate": {
+   "en": "Summons 4 Shieldguards to push enemies to the target for Physical damage and gain 5 Steel Oath. When an enemy suffers a Physical Status or his combo damage, 1 Steel Oath sends 1 Shieldguard to harass for Physical damage and SP; the last point sends all 4 into Decisive Assault for massive Physical damage and large SP recovery.",
+   "zh-TW": "召喚 4 名盾衛朝目標推進，將沿途敵人一併推向目標，造成物理傷害並產生 5 點鐵誓。每當敵人承受物理異常效果或駿衛連攜技的傷害，便消耗 1 點鐵誓喚出 1 名盾衛進行襲擾，造成物理傷害與技力回復；用盡最後一點鐵誓時，全體 4 名盾衛發動決勝，造成高額物理傷害並大幅回復技力。"
+  }
+ },
+ "talents": [
+  {
+   "en": "In battle, every 80 SP recovered by his own skills grants Fervent Morale for 20 s, giving ATK +4% and Arts Intensity +4 (+8% and +8 at Promotion II), up to 3 independently timed stacks.",
+   "zh-TW": "戰鬥中以自身技能每回復 80 點技力，獲得持續 20 秒的士氣激昂，使攻擊力 +4%、源石技藝強度 +4（精英化II 為 +8%、+8），最多 3 層且各層獨立計時。"
+  },
+  {
+   "en": "Any operator who triggers the follow-up effects of Shieldguard Banner, Forward also gains Fervent Morale for 5 s (10 s at Promotion III); requires The Living Banner to be active.",
+   "zh-TW": "任意幹員觸發盾衛旗隊，上前的後續效果時，也會獲得士氣激昂 5 秒（精英化III 為 10 秒）；需啟動天賦活著的旗幟。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "The Pulverizing Front returns 15 SP when hitting at least 2 enemies.",
+   "zh-TW": "粉碎陣線命中至少 2 名敵人時，返還 15 點技力。"
+  },
+  {
+   "en": "Will +20, Physical damage +10%.",
+   "zh-TW": "意志 +20，造成的物理傷害 +10%。"
+  },
+  {
+   "en": "The Living Banner requires only 60 SP recovered per stack and increases Pogranichnik's max Fervent Morale stacks by +2.",
+   "zh-TW": "活著的旗幟獲得士氣激昂所需的技力回復量降至 60 點，自身士氣激昂上限 +2 層。"
+  },
+  {
+   "en": "Shieldguard Banner, Forward costs 15% less Ultimate Energy.",
+   "zh-TW": "盾衛旗隊，上前所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Full Moon Slash has 2 s shorter cooldown and recovers 1.2 times as much SP.",
+   "zh-TW": "盈月邀擊冷卻時間 -2 秒，技力回復量提升為 1.2 倍。"
+  }
+ ]
+}

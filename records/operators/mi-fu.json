@@ -1,0 +1,512 @@
+{
+ "slug": "mi-fu",
+ "gameId": "chr_0031_mifu",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/mifu",
+ "officialKey": "mifu",
+ "name": {
+  "en": "Mi Fu",
+  "zh-TW": "弭弗",
+  "zh-CN": "弭弗"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Guard",
+  "zh-TW": "近衛",
+  "zh-CN": "近卫"
+ },
+ "element": {
+  "en": "Physical",
+  "zh-TW": "物理",
+  "zh-CN": "物理"
+ },
+ "weapon": {
+  "en": "Greatsword",
+  "zh-TW": "雙手劍",
+  "zh-CN": "双手剑"
+ },
+ "mainAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "subAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "faction": {
+  "en": "Hongshan Academy of Sciences (HAS)",
+  "zh-TW": "宏山科學院",
+  "zh-CN": "宏山科学院"
+ },
+ "race": {
+  "en": "Sarkaz",
+  "zh-TW": "薩卡茲",
+  "zh-CN": "萨卡兹"
+ },
+ "voice": {
+  "en": {
+   "chi": "Zhang RuoYu",
+   "eng": "Rao Zijun",
+   "jap": "Watanabe Akeno",
+   "kor": "Min Ah"
+  },
+  "zh-TW": {
+   "chi": "張若瑜",
+   "eng": "饒梓君",
+   "jap": "渡邊明乃",
+   "kor": "玟我"
+  },
+  "zh-CN": {
+   "chi": "张若瑜",
+   "eng": "饶梓君",
+   "jap": "渡边明乃",
+   "kor": "玟我"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Fistmancer of Blades",
+    "zh-TW": "劍行拳意",
+    "zh-CN": "剑行拳意"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "34%",
+     "last": "76%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "38%",
+     "last": "86%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "61%",
+     "last": "136%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "77%",
+     "last": "172%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Qingbo Triplex",
+    "zh-TW": "清波三藝",
+    "zh-CN": "清波三艺"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Cloudtrapper DMG Multiplier",
+      "zh-TW": "斷雲傷害倍率"
+     },
+     "first": "67%",
+     "last": "150%"
+    },
+    {
+     "name": {
+      "en": "Trail and Mangle DMG Multiplier",
+      "zh-TW": "追形傷害倍率"
+     },
+     "first": "89%",
+     "last": "200%"
+    },
+    {
+     "name": {
+      "en": "Trail and Mangle Stagger",
+      "zh-TW": "追形失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "World Splitter DMG Multiplier",
+      "zh-TW": "開天傷害倍率"
+     },
+     "first": "400%",
+     "last": "600%"
+    },
+    {
+     "name": {
+      "en": "World Splitter Stagger",
+      "zh-TW": "開天失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Fists of No Regrets",
+    "zh-TW": "拳出無悔",
+    "zh-CN": "拳出无悔"
+   },
+   "cost": 0,
+   "cooldown": [
+    20,
+    19
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "111%",
+     "last": "250%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Physical Susceptibility",
+      "zh-TW": "物理脆弱效果"
+     },
+     "first": "5%",
+     "last": "5%"
+    },
+    {
+     "name": {
+      "en": "Physical Susceptibility Duration (s)",
+      "zh-TW": "物理脆弱持續時間（秒）"
+     },
+     "first": "16",
+     "last": "16"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Pile of No Mercy",
+    "zh-TW": "絕心",
+    "zh-CN": "绝心"
+   },
+   "cost": 80,
+   "cooldown": [
+    15,
+    15
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "311%",
+     "last": "700%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Stern Crackdown",
+    "zh-TW": "冷面無情",
+    "zh-CN": "冷面无情"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Vigilant Fury",
+    "zh-TW": "怒意留心",
+    "zh-CN": "怒意留心"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Restless Watch",
+    "zh-TW": "不息巡行",
+    "zh-CN": "不息巡行"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Kinesthesia of Harmony",
+    "zh-TW": "心手合一",
+    "zh-CN": "心手合一"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Complete Warmup",
+    "zh-TW": "熱身完畢",
+    "zh-CN": "热身完毕"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Qi Thrice-Refined",
+    "zh-TW": "氣煉三絕",
+    "zh-CN": "气炼三绝"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Pugilist of the Stockade",
+    "zh-TW": "拳出山林",
+    "zh-CN": "拳出山林"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 22,
+   "agi": 10,
+   "int": 9,
+   "will": 14,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 173,
+   "agi": 92,
+   "int": 90,
+   "will": 119,
+   "atk": 315,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "D96 Steel Sample 4",
+      "zh-TW": "D96鋼樣品四",
+      "zh-CN": "D96钢样品四"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

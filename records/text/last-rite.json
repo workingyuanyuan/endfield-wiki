@@ -1,0 +1,57 @@
+{
+ "slug": "last-rite",
+ "intro": {
+  "en": "Last Rite is a young Nachzehrer raised by Caprinae gravekeepers; after Seš'qa discovered her potential, merchants came to call her the Princess of the War Court, and she now fights for Endfield under contract.",
+  "zh-TW": "別禮是由卡普里尼守墓人夫婦收養的年輕食腐者，後因塞什卡而被人稱為戰爭王庭公主，如今依合約為終末地作戰。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Cryo combo of up to 4 hits. The final strike deals 25 Stagger while she is the controlled operator.",
+   "zh-TW": "最多 4 段的寒冷傷害連擊。作為主控幹員時，重擊造成 25 點失衡。"
+  },
+  "battle": {
+   "en": "Applies Hypothermic Perfusion to the controlled operator's weapon and returns some SP. For a time, their next final strike summons Last Rite's Mirages for an extra Cryo hit that applies Cryo Infliction; casting it while controlling her does not interrupt her basic attack combo.",
+   "zh-TW": "對主控幹員的武器進行低溫灌注並返還一定技力。一段時間內，其下一次重擊會生成別禮的幻影追擊目標，造成寒冷傷害並施加寒冷附著；若主控幹員為別禮，施放不會中斷普通攻擊。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy has 3 or more stacks of Cryo Infliction. Last Rite encases the target in icicles and shatters them, consuming all Cryo Infliction stacks to deal Cryo damage and gain Ultimate Energy scaling with the stacks consumed.",
+   "zh-TW": "觸發條件：有敵人處於 3 層及以上寒冷附著狀態。在目標身上凝結並斬碎冰錐，消耗其所有寒冷附著，依消耗層數造成寒冷傷害並獲得終結技能量。"
+  },
+  "ultimate": {
+   "en": "She dons frost armor and swings an ice scythe 3 times for heavy Cryo damage while immune to all damage. Last Rite can only gain Ultimate Energy from her own battle and combo skills.",
+   "zh-TW": "身披霜鎧並以冰鐮向前斬擊 3 次，造成大量寒冷傷害，期間免疫所有傷害。別禮只能透過自身的戰技與連攜技獲得終結技能量。"
+  }
+ },
+ "talents": [
+  {
+   "en": "After consuming any Arts Infliction, Last Rite applies Cryo Susceptibility equal to 2% per stack consumed (4% at Promotion II) to that target for 15 s; this effect cannot stack.",
+   "zh-TW": "別禮消耗任何法術附著後，對該目標施加每層消耗量 2% 的寒冷脆弱（精英化II 為 4%），持續 15 秒，無法疊加。"
+  },
+  {
+   "en": "When Vigil Services damages an enemy with Cryo Susceptibility, that Cryo Susceptibility is treated as 1.2 times as strong (1.5 times at Promotion III).",
+   "zh-TW": "臨終別禮對處於寒冷脆弱狀態的敵人造成傷害時，將該寒冷脆弱效果視為 1.2 倍（精英化III 為 1.5 倍）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "A final strike from the controlled operator with Hypothermic Perfusion deals an extra 20% damage and 5 Stagger on hit.",
+   "zh-TW": "帶有低溫灌注的主控幹員以重擊命中敵人時，額外造成 20% 傷害與 5 點失衡。"
+  },
+  {
+   "en": "Strength +20, Cryo damage +10%.",
+   "zh-TW": "力量 +20，寒冷傷害 +10%。"
+  },
+  {
+   "en": "Winter's Devourer and Vigil Services deal 1.15 times their damage.",
+   "zh-TW": "噬冬與臨終別禮的傷害倍率提升為 1.15 倍。"
+  },
+  {
+   "en": "Vigil Services costs 15% less Ultimate Energy.",
+   "zh-TW": "臨終別禮所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Esoteric Legacy of Seš'qa returns 5 more SP, and its Mirage extra attack deals 1.2 times its damage.",
+   "zh-TW": "塞什卡的秘傳額外返還 5 點技力，且幻影追擊的傷害倍率提升為 1.2 倍。"
+  }
+ ]
+}

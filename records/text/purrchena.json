@@ -1,0 +1,57 @@
+{
+ "slug": "purrchena",
+ "intro": {
+  "en": "Purrchena is a dessert-loving spokesperson for the Ætherside Environmental Impact Syndrome Relief Foundation; recommended by the TGCC, she joined Endfield's Business Office as the liaison between the two on Ætherside Syndrome.",
+  "zh-TW": "噗切娜喜愛點心，是超域環境影響症候群救助基金會的代言人，由環塔商會推薦進入終末地工業商務辦公室，負責雙方在超域症候群事務上的聯絡。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 3 hits. As the controlled operator, her final strike also deals 21 Stagger.",
+   "zh-TW": "最多 3 段的物理傷害連擊。作為主控幹員時，重擊額外造成 21 點失衡。"
+  },
+  "battle": {
+   "en": "Raises her shield to block, returning SP and granting Protection to herself and nearby allies that drops with each block; the first block extends duration and returns extra SP. After casting, her battle skill temporarily becomes LEAVE MY FRIENDS ALONE!, headbutting a target for Nature damage and Nature Infliction.",
+   "zh-TW": "架盾格擋並立即返還技力，立盾期間賦予自身與周圍幹員會隨格擋次數降低的庇護；首次成功格擋會延長立盾時間並額外返還技力。施放後戰技暫時替換為離我的朋友遠點！，以頭槌對前方目標造成自然傷害並施加自然附著。"
+  },
+  "combo": {
+   "en": "Trigger: the controlled operator is attacked. Throws a delayed Giftbox to the controlled operator that heals nearby allies (scaling with Will) and randomly triggers one item: Bomb for area Physical damage and Stagger, Handicraft to keep pulling nearby enemies in for Physical damage, or Yummy Dessert to heal the controlled operator.",
+   "zh-TW": "觸發條件：主控幹員受到攻擊。向主控幹員扔出延遲開啟的禮物匣子，治療附近幹員（受意志加成）並隨機開出其一：炸彈造成範圍物理傷害與額外失衡；手工作業持續吸引附近敵人並造成物理傷害；好吃的點心治療主控幹員。"
+  },
+  "ultimate": {
+   "en": "Opens 3 Big Feline's Prezzies, each randomly revealing a Bomb or Handicraft, with a chance for Ambassador's Special to deal Physical damage, extra Stagger, and Arts Susceptibility.",
+   "zh-TW": "打開 3 個大菲林禮盒，每個隨機開出炸彈或手工作業，並有機率開出代言人的特殊贈禮，造成物理傷害、額外失衡並施加法術脆弱。"
+  }
+ },
+ "talents": [
+  {
+   "en": "The first successful block during I'M NOT SLEEPING! grants 6 extra Ultimate Energy (10 at Promotion II) and raises the Ambassador's Special chance of the next NAUGHTY IS BANNED! by 10%, stacking up to 3 times.",
+   "zh-TW": "我沒有睡著！首次成功格擋後，額外獲得 6 點終結技能量（精英化II 為 10 點），並使下一次不許幹壞事！開出代言人的特殊贈禮的機率提高 10%，最多疊加 3 層。"
+  },
+  {
+   "en": "While Purrchena is deployed, team operators at Max HP take 50% less damage from the next hit, at most once every 180 s per operator (90 s at Promotion III).",
+   "zh-TW": "噗切娜在場時，小隊內所有滿生命值幹員下次受到的傷害降低 50%，每名幹員每 180 秒最多觸發一次（精英化III 為 90 秒）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "NAUGHTY IS BANNED! has 1.5 times the base chance to reveal Ambassador's Special.",
+   "zh-TW": "不許幹壞事！開出代言人的特殊贈禮的基礎機率提升為 1.5 倍。"
+  },
+  {
+   "en": "DEF +20, Will +20.",
+   "zh-TW": "防禦力 +20，意志 +20。"
+  },
+  {
+   "en": "In CAKE OR \"PREZZIE\", Bomb deals 1.2 times damage, Handicraft has +20% effect radius, and Yummy Dessert grants 1.2 times HP Treatment.",
+   "zh-TW": "點心還是「禮物」中，炸彈傷害倍率提升為 1.2 倍，手工作業作用範圍 +20%，好吃的點心治療效果提升為 1.2 倍。"
+  },
+  {
+   "en": "NAUGHTY IS BANNED! costs 15% less Ultimate Energy.",
+   "zh-TW": "不許幹壞事！所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Ambassador's Special in NAUGHTY IS BANNED! deals 1.2 times damage and applies 1.2 times Arts Susceptibility.",
+   "zh-TW": "不許幹壞事！的代言人的特殊贈禮傷害倍率與法術脆弱效果皆提升為 1.2 倍。"
+  }
+ ]
+}

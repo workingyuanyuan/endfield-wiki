@@ -1,0 +1,496 @@
+{
+ "slug": "estella",
+ "gameId": "chr_0021_whiten",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/estella",
+ "officialKey": "estella",
+ "name": {
+  "en": "Estella",
+  "zh-TW": "埃特拉",
+  "zh-CN": "埃特拉"
+ },
+ "rarity": 4,
+ "class": {
+  "en": "Guard",
+  "zh-TW": "近衛",
+  "zh-CN": "近卫"
+ },
+ "element": {
+  "en": "Cryo",
+  "zh-TW": "寒冷",
+  "zh-CN": "寒冷"
+ },
+ "weapon": {
+  "en": "Polearm",
+  "zh-TW": "長柄武器",
+  "zh-CN": "长柄武器"
+ },
+ "mainAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "subAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "faction": {
+  "en": "Endfield Industries",
+  "zh-TW": "終末地工業",
+  "zh-CN": "终末地工业"
+ },
+ "race": {
+  "en": "Feline",
+  "zh-TW": "菲林",
+  "zh-CN": "菲林"
+ },
+ "voice": {
+  "en": {
+   "chi": "Vila",
+   "eng": "Risa Mei",
+   "jap": "Takahashi Karin",
+   "kor": "Lee Eun-jo"
+  },
+  "zh-TW": {
+   "chi": "張煒萱",
+   "eng": "Risa Mei",
+   "jap": "高橋花林",
+   "kor": "李恩造"
+  },
+  "zh-CN": {
+   "chi": "张炜萱",
+   "eng": "Risa Mei",
+   "jap": "高桥花林",
+   "kor": "李恩造"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Audio Noise",
+    "zh-TW": "噪點",
+    "zh-CN": "噪点"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "25%",
+     "last": "56%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "30%",
+     "last": "68%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "35%",
+     "last": "79%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "40%",
+     "last": "90%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Onomatopoeia",
+    "zh-TW": "凝聲",
+    "zh-CN": "凝声"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "156%",
+     "last": "350%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Distortion",
+    "zh-TW": "失真",
+    "zh-CN": "失真"
+   },
+   "cost": 0,
+   "cooldown": [
+    18,
+    17
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier Against Non-Solidified Enemies",
+      "zh-TW": "對非凍結敵人的傷害倍率"
+     },
+     "first": "160%",
+     "last": "360%"
+    },
+    {
+     "name": {
+      "en": "DMG Multiplier Against Solidified Enemies",
+      "zh-TW": "對凍結敵人的傷害倍率"
+     },
+     "first": "280%",
+     "last": "630%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Physical Susceptibility Multiplier",
+      "zh-TW": "物理脆弱倍率"
+     },
+     "first": "10%",
+     "last": "15%"
+    },
+    {
+     "name": {
+      "en": "Physical Susceptibility Duration",
+      "zh-TW": "物理脆弱持續時間"
+     },
+     "first": "6",
+     "last": "6"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Tremolo",
+    "zh-TW": "震音",
+    "zh-CN": "震音"
+   },
+   "cost": 70,
+   "cooldown": [
+    10,
+    10
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "489%",
+     "last": "1100%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "15",
+     "last": "20"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Commiseration",
+    "zh-TW": "同病相憐",
+    "zh-CN": "同病相怜"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Laziness Pays Off Now",
+    "zh-TW": "惰性使然",
+    "zh-CN": "惰性使然"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Habitual Delay",
+    "zh-TW": "習慣性延誤",
+    "zh-CN": "习惯性延误"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Lowered Expectations",
+    "zh-TW": "降低預期",
+    "zh-CN": "放低预期"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Delayed Work",
+    "zh-TW": "延後工作",
+    "zh-CN": "延后工作"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Life Over Mission",
+    "zh-TW": "生命大於任務",
+    "zh-CN": "生命大于任务"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Survival is a Win",
+    "zh-TW": "活著就是勝利",
+    "zh-CN": "活着就是胜利"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 13,
+   "agi": 8,
+   "int": 14,
+   "will": 15,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 104,
+   "agi": 97,
+   "int": 110,
+   "will": 151,
+   "atk": 312,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Quadrant Fitting Fluid",
+      "zh-TW": "象限擬合液",
+      "zh-CN": "象限拟合液"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

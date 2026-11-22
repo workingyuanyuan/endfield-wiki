@@ -1,0 +1,42 @@
+{
+ "slug": "lifeng",
+ "intro": {
+  "en": "Lifeng is a Wuling City native and spear fighter trained by Da Pan who currently interns in Endfield's Specialist Tech Division to grow strong enough to protect his home.",
+  "zh-TW": "黎風出生於武陵城，在大潘教導下練就槍法，目前在終末地工業特種技術部門實習，期盼早日獨當一面守護家鄉。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 4 hits. The final strike deals 19 Stagger while he is the controlled operator.",
+   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊造成 19 點失衡。"
+  },
+  "battle": {
+   "en": "Swings his polearm for 2 Physical hits, then slams the ground to deal area Physical damage and Knock Down. Enemies hit by the final slam who have no Vulnerability stacks also receive Physical Susceptibility.",
+   "zh-TW": "連續揮槍造成 2 次物理傷害，再重砸地面對前方敵人造成物理傷害並施加倒地。若最後一擊命中的敵人不處於破防狀態，會額外施加物理脆弱。"
+  },
+  "combo": {
+   "en": "Trigger: the controlled operator lands a final strike on an enemy with Physical Susceptibility or Breach. Lifeng unleashes an aspect to thrust with a spear for Physical damage and gain Link.",
+   "zh-TW": "觸發條件：主控幹員對處於物理脆弱或碎甲狀態的敵人施放重擊。施放身外身以長槍突刺，造成物理傷害並獲得連擊。"
+  },
+  "ultimate": {
+   "en": "Unleashes an aspect for an Immovable Vajra Slam that deals wide-area Physical damage, applies Knock Down, and pulls enemies to the center. After a delay, enemies still inside take another heavy Physical hit and Knock Down; consuming Link adds one more heavy Physical hit.",
+   "zh-TW": "施放身外身以不動杵重砸地面，對大範圍敵人造成物理傷害與倒地並聚攏至中心。片刻後，對仍在範圍內的敵人再次造成大量物理傷害與倒地；若消耗連擊，會再追加大量物理傷害。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Each point of Intellect and Will grants Lifeng an extra 0.10% ATK (0.15% at Promotion II).",
+   "zh-TW": "每點智識與意志使自身攻擊力額外 +0.10%（精英化II 為 +0.15%）。"
+  },
+  {
+   "en": "Whenever he applies Knock Down, he also deals Physical damage equal to 50% of his ATK (100% at Promotion III).",
+   "zh-TW": "自身造成倒地時，額外造成攻擊力 50% 的物理傷害（精英化III 為 100%）。"
+  }
+ ],
+ "potentials": [
+  {"en": "Turbid Avatar's Physical Susceptibility increases by 5%, and it now also triggers on enemies with up to 2 stacks of Vulnerability.", "zh-TW": "蕩濁身施加的物理脆弱效果 +5%，且對破防不超過 2 層的敵人也能觸發此效果。"},
+  {"en": "All attributes +15.", "zh-TW": "自身全能力 +15。"},
+  {"en": "Illumination grants an additional 0.05% ATK per point of Intellect and Will.", "zh-TW": "頓悟使每點智識與意志提供的攻擊力額外 +0.05%。"},
+  {"en": "Heart of the Unmoving costs 15% less Ultimate Energy.", "zh-TW": "不動心所需的終結技能量 -15%。"},
+  {"en": "Every 15 s, the next trigger of Subduer of Evil deals an extra 250% ATK as Physical damage and 5 Stagger.", "zh-TW": "每隔 15 秒，伏魔的下一次觸發額外造成攻擊力 250% 的物理傷害與 5 點失衡。"}
+ ]
+}

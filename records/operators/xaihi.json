@@ -1,0 +1,527 @@
+{
+ "slug": "xaihi",
+ "gameId": "chr_0011_seraph",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/xaihi",
+ "officialKey": "xaihi",
+ "name": {
+  "en": "Xaihi",
+  "zh-TW": "賽希",
+  "zh-CN": "赛希"
+ },
+ "rarity": 5,
+ "class": {
+  "en": "Supporter",
+  "zh-TW": "輔助",
+  "zh-CN": "辅助"
+ },
+ "element": {
+  "en": "Cryo",
+  "zh-TW": "寒冷",
+  "zh-CN": "寒冷"
+ },
+ "weapon": {
+  "en": "Arts Unit",
+  "zh-TW": "施術單元",
+  "zh-CN": "施术单元"
+ },
+ "mainAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "subAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "faction": {
+  "en": "Cabal of Tranquility",
+  "zh-TW": "寂語修會",
+  "zh-CN": "寂语修会"
+ },
+ "race": {
+  "en": "Sarkaz",
+  "zh-TW": "薩卡茲",
+  "zh-CN": "萨卡兹"
+ },
+ "voice": {
+  "en": {
+   "chi": "Pan Danni",
+   "eng": "Elsie Lovelock",
+   "jap": "Miyamoto Yume",
+   "kor": "Jang Ye-na"
+  },
+  "zh-TW": {
+   "chi": "潘丹妮",
+   "eng": "Elsie Lovelock",
+   "jap": "宮本侑芽",
+   "kor": "張睿娜"
+  },
+  "zh-CN": {
+   "chi": "潘丹妮",
+   "eng": "Elsie Lovelock",
+   "jap": "宫本侑芽",
+   "kor": "张睿娜"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Cooldown",
+    "zh-TW": "冷卻",
+    "zh-CN": "冷却"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "15%",
+     "last": "34%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "16%",
+     "last": "36%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "21%",
+     "last": "47%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "33%",
+     "last": "74%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "55%",
+     "last": "124%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Distributed DoS",
+    "zh-TW": "分散式阻斷服務",
+    "zh-CN": "分布式拒绝服务"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Base Treatment",
+      "zh-TW": "基礎治療值"
+     },
+     "first": "144",
+     "last": "324"
+    },
+    {
+     "name": {
+      "en": "Treatment Increase per Will",
+      "zh-TW": "每點意志增加的治療值"
+     },
+     "first": "0.34",
+     "last": "0.76"
+    },
+    {
+     "name": {
+      "en": "Auxiliary Crystal Duration (s)",
+      "zh-TW": "支援晶體持續時間（秒）"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Arts Amp",
+      "zh-TW": "法術增幅效果"
+     },
+     "first": "9%",
+     "last": "15%"
+    },
+    {
+     "name": {
+      "en": "Arts Amp Duration (s)",
+      "zh-TW": "法術增幅持續時間（秒）"
+     },
+     "first": "25",
+     "last": "25"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Stress Testing",
+    "zh-TW": "壓力測試",
+    "zh-CN": "压力测试"
+   },
+   "cost": 0,
+   "cooldown": [
+    8,
+    7
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "200%",
+     "last": "450%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Stack Overflow",
+    "zh-TW": "堆疊溢位",
+    "zh-CN": "栈溢出"
+   },
+   "cost": 80,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Base Cryo Amp",
+      "zh-TW": "基礎寒冷增幅效果"
+     },
+     "first": "11%",
+     "last": "24%"
+    },
+    {
+     "name": {
+      "en": "Base Nature Amp",
+      "zh-TW": "基礎自然增幅效果"
+     },
+     "first": "11%",
+     "last": "24%"
+    },
+    {
+     "name": {
+      "en": "Amp Increase per Intellect",
+      "zh-TW": "每點智識提升的增幅效果"
+     },
+     "first": "0.014%",
+     "last": "0.03%"
+    },
+    {
+     "name": {
+      "en": "MAX Amp from INT",
+      "zh-TW": "智識提升增幅上限"
+     },
+     "first": "30%",
+     "last": "36%"
+    },
+    {
+     "name": {
+      "en": "Duration (s)",
+      "zh-TW": "持續時間（秒）"
+     },
+     "first": "12",
+     "last": "12"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Execute Process",
+    "zh-TW": "執行程序",
+    "zh-CN": "启动进程"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Freeze Protocol",
+    "zh-TW": "協議凍結",
+    "zh-CN": "协议冻结"
+   },
+   "promotions": [
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Agile Execution",
+    "zh-TW": "敏捷實踐",
+    "zh-CN": "敏捷实践"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Link Aggregation",
+    "zh-TW": "鏈路聚合",
+    "zh-CN": "链路聚合"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Mapping Node",
+    "zh-TW": "映射節點",
+    "zh-CN": "映射节点"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Grayscale Release",
+    "zh-TW": "灰度發布",
+    "zh-CN": "灰度发布"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Controlled Recursion",
+    "zh-TW": "可控遞歸",
+    "zh-CN": "可控递归"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 9,
+   "agi": 9,
+   "int": 15,
+   "will": 15,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 89,
+   "agi": 91,
+   "int": 127,
+   "will": 150,
+   "atk": 291,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "D96 Steel Sample 4",
+      "zh-TW": "D96鋼樣品四",
+      "zh-CN": "D96钢样品四"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

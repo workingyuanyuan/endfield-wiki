@@ -1,0 +1,57 @@
+{
+ "slug": "snowshine",
+ "intro": {
+  "en": "Snowshine is a Rhodes Island search and rescue specialist assigned to Endfield Industries who focuses on polar and high-altitude operations and wrote the Polar Survival Guide.",
+  "zh-TW": "晝雪來自羅德島，依雙方協議以救援專家身分派駐終末地工業，專精極地與高海拔地理環境，並著有《極地生存指南》。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 3 hits. The final strike deals 23 Stagger while Snowshine is the controlled operator.",
+   "zh-TW": "最多 3 段的物理傷害連擊。作為主控幹員時，重擊造成 23 點失衡。"
+  },
+  "battle": {
+   "en": "Snowshine raises her shield to block attacks, granting Protection to herself and nearby operators while returning some SP. If hit while blocking, she retaliates, trying to hit the attacker for Cryo damage and Cryo Infliction.",
+   "zh-TW": "架起盾牌格擋攻擊，為自身與周圍幹員施加庇護並立即返還一定技力。立盾期間受到攻擊便會反擊，嘗試對攻擊者造成寒冷傷害並施加寒冷附著。"
+  },
+  "combo": {
+   "en": "Trigger: the controlled operator takes a hit and drops below 60% HP. Snowshine tosses a Snowfield SAR Assistant at them, giving nearby operators instant HP Treatment on contact followed by continuous HP Treatment in the area; Will increases the healing.",
+   "zh-TW": "觸發條件：主控幹員受擊後生命值低於 60%。晝雪向其丟出雪地救援助理，接觸目標時立即大量治療附近幹員，隨後一段時間內持續治療範圍內幹員，意志可提高治療量。"
+  },
+  "ultimate": {
+   "en": "Snowshine leaps with a jetpack and slams her shield down for heavy Cryo damage in an area, leaving a Snow Zone for several seconds that deals Cryo damage over time. Enemies staying in the Snow Zone for a set time are forcibly afflicted with Solidification.",
+   "zh-TW": "藉噴氣裝置躍起並砸下盾牌，對範圍內敵人造成大量寒冷傷害，生成持續數秒的冰雪地帶持續造成寒冷傷害。敵人停留在冰雪地帶內一段時間後會被強制凍結。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Snowshine's Treatment Effect increases by 15% on targets at or below 45% HP (25% at or below 55% HP at Promotion II).",
+   "zh-TW": "對生命值不高於 45% 的目標，治療效果 +15%（精英化II 為生命值不高於 55% 時 +25%）。"
+  },
+  {
+   "en": "When Saturated Defense successfully retaliates against an attack, Snowshine gains 6 extra Ultimate Energy (10 at Promotion III).",
+   "zh-TW": "飽和性防禦成功格擋攻擊後，自身額外獲得 6 點終結技能量（精英化III 為 10 點）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "While Saturated Defense is blocking, allied operators with Protection cannot receive Arts Inflictions.",
+   "zh-TW": "飽和性防禦的格擋期間，處於庇護狀態的友方幹員無法被施加法術附著。"
+  },
+  {
+   "en": "Frigid Snowfield's area radius increases by 20%.",
+   "zh-TW": "凜冽寒霜的影響範圍 +20%。"
+  },
+  {
+   "en": "Solidification applied by Frigid Snowfield lasts 2 s longer.",
+   "zh-TW": "凜冽寒霜施加的凍結持續時間 +2 秒。"
+  },
+  {
+   "en": "DEF +20, Will +20.",
+   "zh-TW": "防禦力 +20，意志 +20。"
+  },
+  {
+   "en": "Successfully retaliating with Saturated Defense returns 10 SP.",
+   "zh-TW": "飽和性防禦成功反擊敵人時返還 10 點技力。"
+  }
+ ]
+}

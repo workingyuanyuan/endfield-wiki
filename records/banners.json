@@ -1,0 +1,483 @@
+{
+ "standardSixStars": [
+  "ember",
+  "lifeng",
+  "ardelia",
+  "last-rite",
+  "pogranichnik"
+ ],
+ "banners": [
+  {
+   "id": "scars-of-the-forge",
+   "notice": "3847",
+   "type": "chartered",
+   "version": "1.0",
+   "name": {
+    "en": "Scars of the Forge",
+    "zh-TW": "熔火灼痕"
+   },
+   "rateUp": "laevatain",
+   "sixStars": [
+    "laevatain",
+    "gilberta",
+    "yvonne",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "release",
+    "version": "1.0"
+   },
+   "closes": {
+    "kind": "time",
+    "at": "2026-02-07 11:59"
+   },
+   "noticeDate": "2026-01-21"
+  },
+  {
+   "id": "the-floaty-messenger",
+   "notice": "7028",
+   "type": "chartered",
+   "version": "1.0",
+   "name": {
+    "en": "The Floaty Messenger",
+    "zh-TW": "輕飄飄的信使"
+   },
+   "rateUp": "gilberta",
+   "sixStars": [
+    "gilberta",
+    "yvonne",
+    "laevatain",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "time",
+    "at": "2026-02-07 12:00"
+   },
+   "closes": {
+    "kind": "time",
+    "at": "2026-02-24 11:59"
+   },
+   "noticeDate": "2026-02-06"
+  },
+  {
+   "id": "hues-of-passion",
+   "notice": "9572",
+   "type": "chartered",
+   "version": "1.0",
+   "name": {
+    "en": "Hues of Passion",
+    "zh-TW": "熱烈色彩"
+   },
+   "rateUp": "yvonne",
+   "sixStars": [
+    "yvonne",
+    "gilberta",
+    "laevatain",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "time",
+    "at": "2026-02-24 12:00"
+   },
+   "closes": {
+    "kind": "maintenance",
+    "version": "1.1"
+   },
+   "noticeDate": "2026-02-23"
+  },
+  {
+   "id": "rivers-daughter",
+   "notice": "1338",
+   "type": "chartered",
+   "version": "1.1",
+   "name": {
+    "en": "River's Daughter",
+    "zh-TW": "河流的女兒"
+   },
+   "rateUp": "tangtang",
+   "sixStars": [
+    "tangtang",
+    "yvonne",
+    "gilberta",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "release",
+    "version": "1.1"
+   },
+   "closes": {
+    "kind": "time",
+    "at": "2026-03-29 11:59"
+   },
+   "noticeDate": "2026-03-11"
+  },
+  {
+   "id": "wolf-pearl",
+   "notice": "3843",
+   "type": "chartered",
+   "version": "1.1",
+   "name": {
+    "en": "Wolf Pearl",
+    "zh-TW": "狼珀"
+   },
+   "rateUp": "rossi",
+   "sixStars": [
+    "rossi",
+    "tangtang",
+    "yvonne",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "time",
+    "at": "2026-03-29 12:00"
+   },
+   "closes": {
+    "kind": "maintenance",
+    "version": "1.2"
+   },
+   "noticeDate": "2026-03-28"
+  },
+  {
+   "id": "thunder-of-renewal",
+   "notice": "9579",
+   "type": "chartered",
+   "version": "1.2",
+   "name": {
+    "en": "Thunder of Renewal",
+    "zh-TW": "春雷動，萬物生"
+   },
+   "rateUp": "zhuang-fangyi",
+   "sixStars": [
+    "zhuang-fangyi",
+    "rossi",
+    "tangtang",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "release",
+    "version": "1.2"
+   },
+   "closes": {
+    "kind": "time",
+    "at": "2026-05-22 11:59"
+   },
+   "noticeDate": "2026-04-16"
+  },
+  {
+   "id": "fest-of-brilliance",
+   "notice": "7024",
+   "type": "special",
+   "version": "1.2",
+   "name": {
+    "en": "Fest of Brilliance",
+    "zh-TW": "輝光慶典"
+   },
+   "rateUp": null,
+   "sixStars": [
+    "laevatain",
+    "gilberta",
+    "ardelia",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "time",
+    "at": "2026-05-14 12:00"
+   },
+   "closes": {
+    "kind": "maintenance",
+    "version": "1.3"
+   },
+   "noticeDate": "2026-05-13"
+  },
+  {
+   "id": "fists-of-no-regrets",
+   "notice": "0759",
+   "type": "chartered",
+   "version": "1.3",
+   "name": {
+    "en": "Fists of No Regrets",
+    "zh-TW": "拳出無悔"
+   },
+   "rateUp": "mi-fu",
+   "sixStars": [
+    "mi-fu",
+    "zhuang-fangyi",
+    "rossi",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "release",
+    "version": "1.3"
+   },
+   "closes": {
+    "kind": "time",
+    "at": "2026-06-26 11:59"
+   },
+   "noticeDate": "2026-06-03"
+  },
+  {
+   "id": "expunger-of-sin",
+   "notice": "6175",
+   "type": "chartered",
+   "version": "1.3",
+   "name": {
+    "en": "Expunger of Sin",
+    "zh-TW": "逐罪者"
+   },
+   "rateUp": "camille",
+   "sixStars": [
+    "camille",
+    "mi-fu",
+    "zhuang-fangyi",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "time",
+    "at": "2026-06-26 12:00"
+   },
+   "closes": {
+    "kind": "maintenance",
+    "version": "1.4"
+   },
+   "noticeDate": "2026-06-25"
+  },
+  {
+   "id": "north-yearns-the-rift-vigile",
+   "notice": "2656",
+   "type": "chartered",
+   "version": "1.4",
+   "name": {
+    "en": "North Yearns the Rift Vigile",
+    "zh-TW": "臨淵望北"
+   },
+   "rateUp": "arcane",
+   "sixStars": [
+    "arcane",
+    "camille",
+    "mi-fu",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "release",
+    "version": "1.4"
+   },
+   "closes": {
+    "kind": "time",
+    "at": "2026-08-09 11:59"
+   },
+   "noticeDate": "2026-07-15"
+  },
+  {
+   "id": "good-morning-from-your-dawnstar",
+   "notice": "3831",
+   "type": "chartered",
+   "version": "1.4",
+   "name": {
+    "en": "Good Morning from Your Dawnstar",
+    "zh-TW": "晨星於此閃耀"
+   },
+   "rateUp": "liino",
+   "sixStars": [
+    "liino",
+    "arcane",
+    "camille",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "time",
+    "at": "2026-08-09 12:00"
+   },
+   "closes": {
+    "kind": "maintenance",
+    "version": "1.5"
+   },
+   "noticeDate": "2026-08-08"
+  },
+  {
+   "id": "winter-hunt",
+   "notice": "6172",
+   "type": "chartered",
+   "version": "1.5",
+   "name": {
+    "en": "Winter Hunt",
+    "zh-TW": "冬獵"
+   },
+   "rateUp": "typhoeus",
+   "sixStars": [
+    "typhoeus",
+    "liino",
+    "arcane",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "release",
+    "version": "1.5"
+   },
+   "closes": {
+    "kind": "time",
+    "at": "2026-09-30 11:59"
+   },
+   "noticeDate": "2026-09-01"
+  },
+  {
+   "id": "resplendent-spectrum",
+   "notice": "3839",
+   "type": "refactor",
+   "version": "1.5",
+   "name": {
+    "en": "Resplendent Spectrum",
+    "zh-TW": "絢麗異彩"
+   },
+   "rateUp": "yvonne",
+   "sixStars": [
+    "yvonne",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "time",
+    "at": "2026-09-24 12:00"
+   },
+   "closes": {
+    "kind": "maintenance",
+    "version": "1.6"
+   },
+   "noticeDate": "2026-09-23"
+  },
+  {
+   "id": "rejuvenation",
+   "notice": "4489",
+   "type": "chartered",
+   "version": "1.6",
+   "name": {
+    "en": "Rejuvenation",
+    "zh-TW": "萬物更新"
+   },
+   "rateUp": "si",
+   "sixStars": [
+    "si",
+    "typhoeus",
+    "liino",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "release",
+    "version": "1.6"
+   },
+   "closes": {
+    "kind": "time",
+    "at": "2026-11-05 11:59"
+   },
+   "noticeDate": "2026-10-14"
+  },
+  {
+   "id": "ancestral-spring-flows-anew",
+   "notice": "6179",
+   "type": "refactor",
+   "version": "1.6",
+   "name": {
+    "en": "Ancestral Spring Flows Anew",
+    "zh-TW": "祖泉的新流"
+   },
+   "rateUp": "tangtang",
+   "sixStars": [
+    "tangtang",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "time",
+    "at": "2026-10-29 12:00"
+   },
+   "closes": {
+    "kind": "time",
+    "at": "2026-11-19 11:59"
+   },
+   "noticeDate": "2026-10-28"
+  },
+  {
+   "id": "the-hearth-fire-beckons-the-starry-flow",
+   "notice": "7012",
+   "type": "chartered",
+   "version": "1.6",
+   "name": {
+    "en": "The Hearth Fire Beckons the Starry Flow",
+    "zh-TW": "煙火邀星河"
+   },
+   "rateUp": "argent-flow",
+   "sixStars": [
+    "argent-flow",
+    "si",
+    "typhoeus",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "time",
+    "at": "2026-11-05 12:00"
+   },
+   "closes": {
+    "kind": "maintenance",
+    "version": "next"
+   },
+   "noticeDate": "2026-11-04"
+  }
+ ]
+}

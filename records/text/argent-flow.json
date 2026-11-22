@@ -1,0 +1,57 @@
+{
+ "slug": "argent-flow",
+ "intro": {
+  "en": "Argent Flow is an Imperial Guard of Yan and Captain of Pacified Skies at Hongshan Academy of Sciences who serves under Tianshi Tan and fights alongside Endfield across Talos-II; despite an aloof reputation he readily helps people he meets.",
+  "zh-TW": "明河是炎國禁軍、宏山科學院靖天都尉，在談天師麾下為塔衛二奔走並與終末地同行，看似不近人情卻樂於助人。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 5 hits. As the controlled operator, his final strike also deals 23 Stagger.",
+   "zh-TW": "最多 5 段的物理傷害連擊。作為主控幹員時，重擊會額外造成 23 點失衡。"
+  },
+  "battle": {
+   "en": "He sweeps his lance for Physical damage around him and applies Lift ahead. After his combo skill, this temporarily becomes Bolt Rush, a mounted charge that deals Electric damage over a large area in front and forces Electrification; it consumes all Electric Infliction on a target, adding 1 Electrification Status Level per stack, and applies 1 stack of Vulnerability.",
+   "zh-TW": "橫掃長槍對周圍造成物理傷害並對身前施加擊飛。施放連攜技後暫時替換為奔霆，騎乘怒驪蓄力衝刺，對前方大範圍造成電磁傷害並強制施加導電；若目標有電磁附著則全數消耗，每消耗 1 層使本次導電異常等級 +1，並額外施加 1 層破防。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy becomes Vulnerable. He strikes at lightning speed with a multi-hit Electric slash that hits enemies along its path, its final hit applying Electric Infliction, then temporarily replaces his battle skill with Bolt Rush.",
+   "zh-TW": "觸發條件：有敵人進入破防狀態。高速出劍對路徑上的敵人造成多段電磁傷害，最後一段命中時施加電磁附著，並使戰技在一段時間內替換為奔霆。"
+  },
+  "ultimate": {
+   "en": "He charges on Nuli for continuous Electric damage while carrying weak enemies, stopping early against enemies that cannot be pushed. He then leaps to unleash Cleansing Cleave for Electric damage and 1 stack of Electric Infliction, before piercing the ground for large-area Electric damage and Crush.",
+   "zh-TW": "騎乘怒驪挺槍衝刺，對前方持續造成電磁傷害並攜帶弱小敵人，遇無法攜帶的敵人則提前結束。接著躍起釋放澄鋒，造成電磁傷害並施加 1 層電磁附著，最後刺向地面對大範圍造成電磁傷害與猛擊。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Electrification he applies also raises all DMG Taken while it lasts, and adds Sunderization stacks equal to its Status Level (max 12, lasting 60 s). Crush on a Sunderization target deals 1.2 times damage and detonates all stacks for 220% ATK Electric damage per stack (330% at Promotion II), with 40% splash that chains to other marked enemies.",
+   "zh-TW": "明河施加的導電在持續期間也會提升目標受到的所有類型傷害，並依異常等級施加同層數的殷雷（最多 12 層，持續 60 秒）。目標受猛擊時該次傷害變為 1.2 倍並引爆所有殷雷，每層造成 220% 攻擊力的電磁傷害（精英化II 為 330%），波及周圍敵人造成 40% 傷害並連鎖引爆其殷雷。"
+  },
+  {
+   "en": "Casting Bolt Rush grants the whole team +30 Arts Intensity for 20 s (+45 at Promotion III). Each point of Argent Flow's Arts Intensity also increases Sunderization explosion damage by 0.4% (0.6% at Promotion III).",
+   "zh-TW": "施放奔霆時，全隊獲得 30 點源石技藝強度，持續 20 秒（精英化III 為 45 點）。明河每點源石技藝強度額外提升 0.4% 殷雷引爆傷害（精英化III 為 0.6%）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Zenith of Voltmancy increases Crush damage against Sunderization targets to 1.4 times and raises Sunderization explosion damage to nearby enemies to 50%.",
+   "zh-TW": "掣電橫天對殷雷目標的猛擊傷害進一步提升為 1.4 倍，殷雷引爆對周圍其他敵人的傷害比例提高至 50%。"
+  },
+  {
+   "en": "Will +20, Arts Intensity +16.",
+   "zh-TW": "意志 +20，源石技藝強度 +16。"
+  },
+  {
+   "en": "Every 1 stack of Electric Infliction consumed during Bolt Rush grants Argent Flow +6% Electric damage for 25 s, stacking up to 6 times with independent durations.",
+   "zh-TW": "施放奔霆期間每消耗 1 層電磁附著，自身電磁傷害 +6%，持續 25 秒，最多 6 層且每層獨立計時。"
+  },
+  {
+   "en": "Heavens Sundered costs 15% less Ultimate Energy.",
+   "zh-TW": "裂天所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Springvolt Galore grants the team an extra +15 Arts Intensity on Bolt Rush and boosts its Sunderization explosion damage bonus per Arts Intensity to 1.2 times.",
+   "zh-TW": "霆曦宴夜於施放奔霆時額外為全隊提供 +15 源石技藝強度，且每點源石技藝強度對殷雷引爆傷害的加成提升為 1.2 倍。"
+  }
+ ]
+}

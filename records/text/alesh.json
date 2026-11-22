@@ -1,0 +1,57 @@
+{
+ "slug": "alesh",
+ "intro": {
+  "en": "Alesh is a fin seller and former frontier street survivor recommended by a UWST Security Bureau liaison; he handles frontier communications and cover for Endfield and teaches its angling class.",
+  "zh-TW": "阿列什是曾混跡開拓區底層的販鱗人，經前聯盟工團安全局聯絡人推薦加入終末地工業，負責開拓區聯絡與掩護並兼任釣鱗興趣課教師。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 5 hits. His Final Strike deals 17 Stagger while he is the controlled operator.",
+   "zh-TW": "最多 5 段的物理傷害連擊。作為主控幹員時，重擊造成 17 點失衡。"
+  },
+  "battle": {
+   "en": "He hooks and slams a block of ice for Physical damage. Hitting an enemy with Cryo Infliction consumes all its stacks to force Solidification and recover SP based on stacks spent, triggering at most 1 time per cast.",
+   "zh-TW": "勾起冰塊砸擊面前的敵人造成物理傷害；若目標帶有寒冷附著，會消耗全部層數並強制施加凍結，依消耗層數回復技力，命中多名敵人時最多僅觸發 1 次。"
+  },
+  "combo": {
+   "en": "Trigger: a nearby target's Arts Reaction or Originium Crystals are consumed. He opens an angling hole under the enemy for Physical damage and SP recovery, with a chance to hook a Rare Fin for much higher damage and extra SP.",
+   "zh-TW": "觸發條件：附近目標的法術異常或源石結晶被消耗。在敵人腳下開洞垂釣，造成物理傷害並回復技力，有機率釣出珍鱗以大幅提高傷害並額外回復技力。"
+  },
+  "ultimate": {
+   "en": "He hooks and slams an enormous fin over a wide frontal area, dealing Cryo damage and applying Cryo Infliction. Hits recover SP, with extra SP gained for each enemy defeated.",
+   "zh-TW": "釣起巨型大鱗砸擊前方大範圍敵人，造成寒冷傷害並施加寒冷附著；命中可回復技力，每擊敗一名目標再額外回復技力。"
+  }
+ },
+ "talents": [
+  {
+   "en": "When a nearby enemy gains Solidification or Originium Crystals, he gains 3 Ultimate Energy, plus 6 more if he applied the Solidification (4 and 8 at Promotion II), at most once every 3 s.",
+   "zh-TW": "附近敵人被施加凍結或源石結晶後，自身獲得 3 點終結技能量，若凍結由自身造成則額外獲得 6 點（精英化II 為 4 點與 8 點），每 3 秒最多觸發一次。"
+  },
+  {
+   "en": "Auger Angling's chance to catch a Rare Fin rises by +0.2% per 10 Intellect (+0.5% at Promotion III), up to +30%.",
+   "zh-TW": "每 10 點智識使鑿孔底釣術釣起珍鱗的機率 +0.2%（精英化III 為 +0.5%），上限 +30%。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Unconventional Lure recovers an extra 10 SP when its SP recovery triggers.",
+   "zh-TW": "非普通路亞觸發技力回復效果時，額外回復 10 點技力。"
+  },
+  {
+   "en": "Strength +15 and Intellect +15.",
+   "zh-TW": "力量 +15，智識 +15。"
+  },
+  {
+   "en": "Catching a Rare Fin with Auger Angling grants the whole team +15% ATK for 10 s; this does not stack.",
+   "zh-TW": "鑿孔底釣術釣起珍鱗後，全隊獲得攻擊力 +15%，持續 10 秒，無法疊加。"
+  },
+  {
+   "en": "One Monster Catch! costs 15% less Ultimate Energy.",
+   "zh-TW": "大鱗，上鉤！所需的終結技能量 -15%。"
+  },
+  {
+   "en": "One Monster Catch! deals 1.5 times its damage against targets below 50% HP.",
+   "zh-TW": "大鱗，上鉤！命中生命值低於 50% 的目標時，傷害提升為 1.5 倍。"
+  }
+ ]
+}

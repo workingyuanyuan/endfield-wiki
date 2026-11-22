@@ -1,0 +1,57 @@
+{
+ "slug": "chen-qianyu",
+ "intro": {
+  "en": "Chen Qianyu is a core member of Endfield Industries' Crisis Team who trained in martial arts from childhood, travelled Talos-II alone for several years, and joined at Perlica's invitation.",
+  "zh-TW": "陳千語是終末地工業危機處理小組的核心成員，自幼習武並獨自遊歷塔衛二數年，後受佩麗卡邀請加入終末地。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 5 hits. While she is the controlled operator, her Final Strike also deals 16 Stagger.",
+   "zh-TW": "最多 5 段的物理傷害連擊。作為主控幹員時，重擊會額外造成 16 點失衡。"
+  },
+  "battle": {
+   "en": "Performs an uppercut slash at the target, dealing Physical damage and applying Lift.",
+   "zh-TW": "對目標發動上挑斬擊，造成物理傷害並附加擊飛。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy becomes Vulnerable. She dashes through the target with a slash, dealing Physical damage and Lift to every enemy in her path.",
+   "zh-TW": "觸發條件：有敵人進入破防狀態。穿梭斬擊目標，對路徑上的所有敵人造成物理傷害並附加擊飛。"
+  },
+  "ultimate": {
+   "en": "Unleashes a 7-hit slash combo on the target for Physical damage, with the final slash dealing heavier damage.",
+   "zh-TW": "對目標發動 7 段斬擊造成物理傷害，最後一段的傷害更高。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Hitting an enemy with a skill grants Chen Qianyu +4% ATK (+8% at Promotion II) for 10 s, stacking up to 5 times.",
+   "zh-TW": "技能每次命中敵人後，自身攻擊力 +4%（精英化II 為 +8%），持續 10 秒，最多疊加 5 層。"
+  },
+  {
+   "en": "Interrupting an enemy's charge-up deals an extra 5 Stagger (10 at Promotion III).",
+   "zh-TW": "技能打斷敵人蓄力時，額外造成 5 點失衡（精英化III 為 10 點）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Deals +20% damage to enemies below 50% HP.",
+   "zh-TW": "對生命值低於 50% 的敵人造成的傷害 +20%。"
+  },
+  {
+   "en": "Agility +15, Physical damage dealt +8%.",
+   "zh-TW": "敏捷 +15，物理傷害 +8%。"
+  },
+  {
+   "en": "Ascending Strike, Soar to the Stars, and Blade Gale deal 1.1 times their damage.",
+   "zh-TW": "歸穹宇、見天河與冽風霜的傷害倍率提升為 1.1 倍。"
+  },
+  {
+   "en": "Blade Gale costs 15% less Ultimate Energy.",
+   "zh-TW": "冽風霜所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Soar to the Stars has its cooldown reduced by 3 s.",
+   "zh-TW": "見天河的冷卻時間減少 3 秒。"
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "arclight",
+ "intro": {
+  "en": "Arclight is a Hannabit Circuit Songseeker recommended by Aldertone Orisha who serves Endfield Industries as a field operator and machinery and vehicle technical consultant.",
+  "zh-TW": "弧光是出身眾生長地的遊人，經奧里莎師者引薦加入終末地工業，擔任外勤幹員與器械車輛技術顧問。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 5 hits. Her Final Strike deals 16 Stagger while she is the controlled operator.",
+   "zh-TW": "最多 5 段的物理傷害連擊。作為主控幹員時，重擊造成 16 點失衡。"
+  },
+  "battle": {
+   "en": "She blinks beside the enemy for 2 light Physical slashes; if the target has Electrification, she consumes it for 1 extra Electric attack and recovers SP.",
+   "zh-TW": "瞬閃至敵人身邊斬擊 2 次造成少量物理傷害；若目標處於導電狀態，則消耗導電追加 1 次電磁傷害攻擊並回復技力。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy suffers Electrification or has its Electrification consumed. She blinks beside the enemy for a flurry of Physical slashes and recovers SP.",
+   "zh-TW": "觸發條件：敵人進入導電狀態或導電狀態遭到消耗。瞬閃至敵人身邊發動多次斬擊，造成物理傷害並回復技力。"
+  },
+  "ultimate": {
+   "en": "She dashes forward wreathed in electric arcs to deal Electric damage and apply Electric Infliction to enemies in her path. Shortly after, the lingering arcs detonate for another Electric hit, consuming Electric Infliction on enemies to force Electrification.",
+   "zh-TW": "以電弧纏身向前短距衝刺，對路徑上的敵人造成電磁傷害並施加電磁附著；片刻後殘留電弧引爆再次造成電磁傷害，並消耗目標的電磁附著以強制施加導電。"
+  }
+ },
+ "talents": [
+  {
+   "en": "After triggering Tempestuous Arc's extra effect 3 times, the team gains +0.05% Electric damage per point of Arclight's Intellect (+0.08% at Promotion II) for 15 s; this does not stack.",
+   "zh-TW": "疾風迅雷觸發額外效果 3 次後，依自身智識每點使全隊電磁傷害 +0.05%（精英化II 為 +0.08%），持續 15 秒，無法疊加。"
+  },
+  {
+   "en": "She has a 30% chance to ignore an Arts Infliction applied to her (50% at Promotion III).",
+   "zh-TW": "被施加法術附著時，有 30% 機率忽略該效果（精英化III 為 50%）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Tempestuous Arc recovers an extra 10 SP after triggering its additional effect.",
+   "zh-TW": "疾風迅雷觸發額外效果後，額外回復 10 點技力。"
+  },
+  {
+   "en": "Agility +15 and Intellect +15.",
+   "zh-TW": "敏捷 +15，智識 +15。"
+  },
+  {
+   "en": "Wildland Trekker's damage boost increases to 1.3 times its original value.",
+   "zh-TW": "荒野遊人的傷害提升效果提高為原本的 1.3 倍。"
+  },
+  {
+   "en": "Exploding Blitz costs 15% less Ultimate Energy.",
+   "zh-TW": "轟雷掣電所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Wildland Trekker's trigger requirement drops to 2 times.",
+   "zh-TW": "荒野遊人的觸發所需次數降至 2 次。"
+  }
+ ]
+}

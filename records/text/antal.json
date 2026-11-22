@@ -1,0 +1,57 @@
+{
+ "slug": "antal",
+ "intro": {
+  "en": "Antal is a young Savra in Endfield's Operations Team Z7 who works as a supporter and Originium technology consultant, gifted in Originium Arts though he often misreads social cues.",
+  "zh-TW": "安塔爾是終末地 Z7 行動組的年輕薩弗拉成員，擔任輔助與源石技術顧問，源石技藝天賦出眾卻不擅察言觀色。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Electric combo of up to 4 hits. His Final Strike deals 15 Stagger while he is the controlled operator.",
+   "zh-TW": "最多 4 段的電磁傷害連擊。作為主控幹員時，重擊造成 15 點失衡。"
+  },
+  "battle": {
+   "en": "He deals Electric damage and applies a long-lasting Focus to at most 1 enemy at a time, inflicting Electric Susceptibility and Heat Susceptibility while Focus lasts.",
+   "zh-TW": "對敵人造成電磁傷害並施加長時間聚焦，使目標同時承受電磁脆弱與灼熱脆弱；同一時間最多聚焦 1 個敵人。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy with Focus suffers a Physical Status or Arts Infliction. He sets off 1 energy blast on that enemy for Electric damage and applies another stack of the same Physical Status or Arts Infliction.",
+   "zh-TW": "觸發條件：被聚焦的敵人進入物理異常或法術附著狀態。在該敵人身上引發 1 次能量爆炸，造成電磁傷害並再次施加相同的物理異常或法術附著。"
+  },
+  "ultimate": {
+   "en": "He grants temporary Electric Amp and Heat Amp to the whole team.",
+   "zh-TW": "為全隊施加一段時間的電磁增幅與灼熱增幅。"
+  }
+ },
+ "talents": [
+  {
+   "en": "When an Amped teammate deals skill damage, Antal heals that teammate for 72 + Strength × 0.6 HP (108 + Strength × 0.9 at Promotion II), at most 1 time every 30 s per operator.",
+   "zh-TW": "處於增幅狀態的隊友造成技能傷害後，安塔爾為其回復 72 + 力量 × 0.6 點生命值（精英化II 為 108 + 力量 × 0.9），每名幹員每 30 秒最多觸發 1 次。"
+  },
+  {
+   "en": "He has a 30% chance to negate Physical damage and restore 27 + Strength × 0.23 HP to himself (45 + Strength × 0.38 at Promotion III).",
+   "zh-TW": "有 30% 機率免疫物理傷害，並回復自身 27 + 力量 × 0.23 點生命值（精英化III 為 45 + 力量 × 0.38）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Overclocked Moment's Electric Amp and Heat Amp effects increase to 1.1 times their original values.",
+   "zh-TW": "超頻時刻提供的電磁增幅與灼熱增幅效果提升為原本的 1.1 倍。"
+  },
+  {
+   "en": "Overclocked Moment costs 10% less Ultimate Energy.",
+   "zh-TW": "超頻時刻所需的終結技能量 -10%。"
+  },
+  {
+   "en": "Returns 15 SP when an enemy with Focus is defeated while Focus lasts.",
+   "zh-TW": "被聚焦的敵人於聚焦期間遭到擊敗時，返還 15 點技力。"
+  },
+  {
+   "en": "Intellect +10 and Max HP +10%.",
+   "zh-TW": "智識 +10，最大生命值 +10%。"
+  },
+  {
+   "en": "Keeping Focus on the same enemy for 20 s increases its Electric Susceptibility and Heat Susceptibility by 4%.",
+   "zh-TW": "對同一目標維持聚焦達 20 秒後，電磁脆弱與灼熱脆弱效果再提高 4%。"
+  }
+ ]
+}

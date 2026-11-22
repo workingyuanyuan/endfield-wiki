@@ -1,0 +1,1587 @@
+{
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "rooms": {
+  "control": {
+   "en": "Control Nexus",
+   "zh-TW": "總控中樞",
+   "zh-CN": "总控中枢"
+  },
+  "reception": {
+   "en": "Reception Room",
+   "zh-TW": "會客室",
+   "zh-CN": "会客室"
+  },
+  "manufacturing": {
+   "en": "MFG Cabin",
+   "zh-TW": "製造艙",
+   "zh-CN": "制造舱"
+  },
+  "growth": {
+   "en": "Growth Chamber",
+   "zh-TW": "培養艙",
+   "zh-CN": "培养舱"
+  }
+ },
+ "operators": {
+  "akekuri": [
+   {
+    "name": {
+     "en": "Coffee or Tea",
+     "zh-TW": "咖啡或茶",
+     "zh-CN": "咖啡或茶"
+    },
+    "room": "manufacturing",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.1
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.14
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Icebreaker",
+     "zh-TW": "破冰遊戲",
+     "zh-CN": "破冰游戏"
+    },
+    "room": "reception",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.18
+     }
+    ]
+   }
+  ],
+  "alesh": [
+   {
+    "name": {
+     "en": "Casual Angling",
+     "zh-TW": "悠閒垂釣",
+     "zh-CN": "悠闲垂钓"
+    },
+    "room": "control",
+    "kind": "mood-regen-all",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.08
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.12
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Anglers' Intel Network",
+     "zh-TW": "釣友情報網",
+     "zh-CN": "钓友情报网"
+    },
+    "room": "reception",
+    "kind": "clue-chance",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 2,
+      "clue": {
+       "number": 1,
+       "en": "UWST",
+       "zh-TW": "聯盟工團",
+       "zh-CN": "联盟工团"
+      },
+      "small": true
+     },
+     {
+      "mark": "β",
+      "promotion": 4,
+      "clue": {
+       "number": 1,
+       "en": "UWST",
+       "zh-TW": "聯盟工團",
+       "zh-CN": "联盟工团"
+      },
+      "small": false
+     }
+    ]
+   }
+  ],
+  "antal": [
+   {
+    "name": {
+     "en": "Experimental Arts Unit",
+     "zh-TW": "實驗性施術單元",
+     "zh-CN": "实验性施术单元"
+    },
+    "room": "manufacturing",
+    "kind": "make-weapon-exp",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.1
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.2
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Pun-isher Studies",
+     "zh-TW": "冷笑話學習",
+     "zh-CN": "冷笑话学习"
+    },
+    "room": "growth",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.18
+     }
+    ]
+   }
+  ],
+  "arcane": [
+   {
+    "name": {
+     "en": "Pluck the Mountain, Boil the Sea",
+     "zh-TW": "摘山煮海",
+     "zh-CN": "摘山煮海"
+    },
+    "room": "growth",
+    "kind": "grow-mineral",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.3
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Botanophile",
+     "zh-TW": "多識草木",
+     "zh-CN": "多识草木"
+    },
+    "room": "growth",
+    "kind": "grow-plant",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ],
+  "arclight": [
+   {
+    "name": {
+     "en": "Blade of the Wildlands",
+     "zh-TW": "荒野鋒刃",
+     "zh-CN": "荒野锋刃"
+    },
+    "room": "manufacturing",
+    "kind": "make-weapon-exp",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.1
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.2
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Hanna Traditions",
+     "zh-TW": "歌謠傳唱",
+     "zh-CN": "歌谣传唱"
+    },
+    "room": "reception",
+    "kind": "clue-chance",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 2,
+      "clue": {
+       "number": 6,
+       "en": "Hannabit Circuit",
+       "zh-TW": "眾生長地",
+       "zh-CN": "众生长地"
+      },
+      "small": true
+     },
+     {
+      "mark": "β",
+      "promotion": 4,
+      "clue": {
+       "number": 6,
+       "en": "Hannabit Circuit",
+       "zh-TW": "眾生長地",
+       "zh-CN": "众生长地"
+      },
+      "small": false
+     }
+    ]
+   }
+  ],
+  "ardelia": [
+   {
+    "name": {
+     "en": "Tales of the Land",
+     "zh-TW": "大地的故事",
+     "zh-CN": "大地的故事"
+    },
+    "room": "reception",
+    "kind": "clue-speed",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.3
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Mr. Dolly's Game",
+     "zh-TW": "多利先生的遊戲",
+     "zh-CN": "多利先生的游戏"
+    },
+    "room": "reception",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.18
+     }
+    ]
+   }
+  ],
+  "argent-flow": [
+   {
+    "name": {
+     "en": "Axiom of Combat",
+     "zh-TW": "百兵一理",
+     "zh-CN": "百兵一理"
+    },
+    "room": "manufacturing",
+    "kind": "make-operator-exp",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.3
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Tools of Momentum",
+     "zh-TW": "因勢應物",
+     "zh-CN": "因势应物"
+    },
+    "room": "manufacturing",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.18
+     }
+    ]
+   }
+  ],
+  "avywenna": [
+   {
+    "name": {
+     "en": "Residence Advisor",
+     "zh-TW": "居家顧問",
+     "zh-CN": "居家顾问"
+    },
+    "room": "control",
+    "kind": "mood-regen-all",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.08
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.12
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Messenger's Secret",
+     "zh-TW": "信使的秘密",
+     "zh-CN": "信使的秘密"
+    },
+    "room": "reception",
+    "kind": "clue-chance",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 2,
+      "clue": {
+       "number": 2,
+       "en": "TGCC",
+       "zh-TW": "環塔商會",
+       "zh-CN": "环塔商会"
+      },
+      "small": true
+     },
+     {
+      "mark": "β",
+      "promotion": 4,
+      "clue": {
+       "number": 2,
+       "en": "TGCC",
+       "zh-TW": "環塔商會",
+       "zh-CN": "环塔商会"
+      },
+      "small": false
+     }
+    ]
+   }
+  ],
+  "camille": [
+   {
+    "name": {
+     "en": "Hemo-Vitreography",
+     "zh-TW": "血晶層析",
+     "zh-CN": "血晶层析"
+    },
+    "room": "growth",
+    "kind": "grow-plant",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.3
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Agaš'mekanaz's Manual",
+     "zh-TW": "看護人手冊",
+     "zh-CN": "看护人手册"
+    },
+    "room": "manufacturing",
+    "kind": "make-operator-exp",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ],
+  "catcher": [
+   {
+    "name": {
+     "en": "Silent Caretaker",
+     "zh-TW": "緘默關懷",
+     "zh-CN": "缄默关怀"
+    },
+    "room": "control",
+    "kind": "mood-regen-all",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.08
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.12
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Grounded Approach",
+     "zh-TW": "務實心態",
+     "zh-CN": "务实心态"
+    },
+    "room": "growth",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.18
+     }
+    ]
+   }
+  ],
+  "chen-qianyu": [
+   {
+    "name": {
+     "en": "Blade Critique",
+     "zh-TW": "名劍選評",
+     "zh-CN": "名剑选评"
+    },
+    "room": "manufacturing",
+    "kind": "make-weapon-exp",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.1
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.2
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Jadeworking",
+     "zh-TW": "琢玉",
+     "zh-CN": "琢玉"
+    },
+    "room": "growth",
+    "kind": "grow-mineral",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ],
+  "da-pan": [
+   {
+    "name": {
+     "en": "Chef of Forage and Game",
+     "zh-TW": "擅烹山珍",
+     "zh-CN": "擅烹山珍"
+    },
+    "room": "growth",
+    "kind": "grow-fungus",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.1
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.2
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Worldly Wisdom",
+     "zh-TW": "人情練達",
+     "zh-CN": "人情练达"
+    },
+    "room": "control",
+    "kind": "mood-regen-all",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.12
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.16
+     }
+    ]
+   }
+  ],
+  "ember": [
+   {
+    "name": {
+     "en": "Special Northern Training",
+     "zh-TW": "北地特訓",
+     "zh-CN": "北地特训"
+    },
+    "room": "manufacturing",
+    "kind": "make-operator-exp",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.3
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Keepers of the Banner",
+     "zh-TW": "同袍相繫",
+     "zh-CN": "同袍相系"
+    },
+    "room": "reception",
+    "kind": "clue-chance",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 2,
+      "clue": {
+       "number": 4,
+       "en": "Order of Steel Oath",
+       "zh-TW": "鐵誓軍",
+       "zh-CN": "铁誓军"
+      },
+      "small": true
+     },
+     {
+      "mark": "β",
+      "promotion": 4,
+      "clue": {
+       "number": 4,
+       "en": "Order of Steel Oath",
+       "zh-TW": "鐵誓軍",
+       "zh-CN": "铁誓军"
+      },
+      "small": false
+     }
+    ]
+   }
+  ],
+  "estella": [
+   {
+    "name": {
+     "en": "Fragmented Rest",
+     "zh-TW": "碎片化休息",
+     "zh-CN": "碎片化休息"
+    },
+    "room": "control",
+    "kind": "mood-regen-all",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.08
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.12
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Frequency Monitoring",
+     "zh-TW": "監聽頻段",
+     "zh-CN": "监听频段"
+    },
+    "room": "reception",
+    "kind": "clue-speed",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ],
+  "fluorite": [
+   {
+    "name": {
+     "en": "Wildlands Trekker",
+     "zh-TW": "荒蕪行者",
+     "zh-CN": "荒芜行者"
+    },
+    "room": "growth",
+    "kind": "grow-mineral",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.1
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.2
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Reader of Emotions",
+     "zh-TW": "知人所想",
+     "zh-CN": "知人所想"
+    },
+    "room": "control",
+    "kind": "mood-regen-all",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.12
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.16
+     }
+    ]
+   }
+  ],
+  "gilberta": [
+   {
+    "name": {
+     "en": "Messengerial Processing",
+     "zh-TW": "信使的加工藝術",
+     "zh-CN": "信使的加工艺术"
+    },
+    "room": "manufacturing",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.18
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Messengerial Arms Mastery",
+     "zh-TW": "信使的武器知識",
+     "zh-CN": "信使的武器知识"
+    },
+    "room": "manufacturing",
+    "kind": "make-weapon-exp",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ],
+  "laevatain": [
+   {
+    "name": {
+     "en": "Memory Crucible",
+     "zh-TW": "記憶熔爐",
+     "zh-CN": "记忆熔炉"
+    },
+    "room": "manufacturing",
+    "kind": "make-operator-exp",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.3
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Undying Flames",
+     "zh-TW": "不熄炎火",
+     "zh-CN": "不熄炎火"
+    },
+    "room": "manufacturing",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.18
+     }
+    ]
+   }
+  ],
+  "last-rite": [
+   {
+    "name": {
+     "en": "Cemetery Gardening",
+     "zh-TW": "墓地園藝",
+     "zh-CN": "墓地园艺"
+    },
+    "room": "growth",
+    "kind": "grow-plant",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.3
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Fame of the Royal Courts",
+     "zh-TW": "王庭盛名",
+     "zh-CN": "王庭盛名"
+    },
+    "room": "reception",
+    "kind": "clue-chance",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 2,
+      "clue": {
+       "number": 7,
+       "en": "Seš'qa",
+       "zh-TW": "塞什卡",
+       "zh-CN": "塞什卡"
+      },
+      "small": true
+     },
+     {
+      "mark": "β",
+      "promotion": 4,
+      "clue": {
+       "number": 7,
+       "en": "Seš'qa",
+       "zh-TW": "塞什卡",
+       "zh-CN": "塞什卡"
+      },
+      "small": false
+     }
+    ]
+   }
+  ],
+  "lifeng": [
+   {
+    "name": {
+     "en": "Youthful Ambition",
+     "zh-TW": "少年意氣",
+     "zh-CN": "少年意气"
+    },
+    "room": "control",
+    "kind": "mood-regen-all",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.12
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.16
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Laddie Reliable",
+     "zh-TW": "小大人",
+     "zh-CN": "小大人"
+    },
+    "room": "reception",
+    "kind": "clue-chance",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 2,
+      "clue": {
+       "number": 3,
+       "en": "HAS",
+       "zh-TW": "宏山科學院",
+       "zh-CN": "宏山科学院"
+      },
+      "small": true
+     },
+     {
+      "mark": "β",
+      "promotion": 4,
+      "clue": {
+       "number": 3,
+       "en": "HAS",
+       "zh-TW": "宏山科學院",
+       "zh-CN": "宏山科学院"
+      },
+      "small": false
+     }
+    ]
+   }
+  ],
+  "liino": [
+   {
+    "name": {
+     "en": "Idol Passion",
+     "zh-TW": "偶像的熱忱",
+     "zh-CN": "偶像的热忱"
+    },
+    "room": "reception",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.18
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Stage Vibe That Lingers",
+     "zh-TW": "演出餘韻",
+     "zh-CN": "演出余韵"
+    },
+    "room": "control",
+    "kind": "mood-regen-all",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.12
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.16
+     }
+    ]
+   }
+  ],
+  "mi-fu": [
+   {
+    "name": {
+     "en": "Secret Informants",
+     "zh-TW": "暗樁眼線",
+     "zh-CN": "暗桩眼线"
+    },
+    "room": "reception",
+    "kind": "clue-chance",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "clue": {
+       "number": 3,
+       "en": "HAS",
+       "zh-TW": "宏山科學院",
+       "zh-CN": "宏山科学院"
+      },
+      "small": true
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "clue": {
+       "number": 3,
+       "en": "HAS",
+       "zh-TW": "宏山科學院",
+       "zh-CN": "宏山科学院"
+      },
+      "small": false
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Esoteric Tisane",
+     "zh-TW": "草藥偏方",
+     "zh-CN": "草药偏方"
+    },
+    "room": "growth",
+    "kind": "grow-fungus",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ],
+  "perlica": [
+   {
+    "name": {
+     "en": "Supervisor",
+     "zh-TW": "監督",
+     "zh-CN": "监督"
+    },
+    "room": "control",
+    "kind": "mood-regen-all",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.08
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.12
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Protocol Redistribution",
+     "zh-TW": "協議調度",
+     "zh-CN": "协议调度"
+    },
+    "room": "manufacturing",
+    "kind": "make-weapon-exp",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ],
+  "pogranichnik": [
+   {
+    "name": {
+     "en": "Hone the Weapons",
+     "zh-TW": "先利其器",
+     "zh-CN": "先利其器"
+    },
+    "room": "manufacturing",
+    "kind": "make-weapon-exp",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.3
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Morale Boost",
+     "zh-TW": "鼓舞士氣",
+     "zh-CN": "鼓舞士气"
+    },
+    "room": "manufacturing",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.18
+     }
+    ]
+   }
+  ],
+  "purrchena": [
+   {
+    "name": {
+     "en": "Brand Ambassador",
+     "zh-TW": "形象代言人",
+     "zh-CN": "形象代言人"
+    },
+    "room": "reception",
+    "kind": "clue-chance",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "clue": {
+       "number": 2,
+       "en": "TGCC",
+       "zh-TW": "環塔商會",
+       "zh-CN": "环塔商会"
+      },
+      "small": true
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "clue": {
+       "number": 2,
+       "en": "TGCC",
+       "zh-TW": "環塔商會",
+       "zh-CN": "环塔商会"
+      },
+      "small": false
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Desserts for the Debrief",
+     "zh-TW": "任務後的點心",
+     "zh-CN": "任务后的点心"
+    },
+    "room": "manufacturing",
+    "kind": "make-operator-exp",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ],
+  "rossi": [
+   {
+    "name": {
+     "en": "Clan Etiquette",
+     "zh-TW": "氏族的禮儀",
+     "zh-CN": "氏族的礼仪"
+    },
+    "room": "reception",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.18
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Scent of the Hunt",
+     "zh-TW": "狩獵嗅覺",
+     "zh-CN": "狩猎嗅觉"
+    },
+    "room": "reception",
+    "kind": "clue-speed",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ],
+  "si": [
+   {
+    "name": {
+     "en": "Ware is the Geist",
+     "zh-TW": "點器為倀",
+     "zh-CN": "点器为伥"
+    },
+    "room": "reception",
+    "kind": "clue-speed",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.3
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Ink Spirit Aide",
+     "zh-TW": "墨魎代勞",
+     "zh-CN": "墨魉代劳"
+    },
+    "room": "reception",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.18
+     }
+    ]
+   }
+  ],
+  "snowshine": [
+   {
+    "name": {
+     "en": "Rescuer's Perseverance",
+     "zh-TW": "救援者的恆心",
+     "zh-CN": "救援者的恒心"
+    },
+    "room": "manufacturing",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.1
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.14
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Happy-Go-Lucky",
+     "zh-TW": "樂天派",
+     "zh-CN": "乐天派"
+    },
+    "room": "control",
+    "kind": "mood-regen-all",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.12
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.16
+     }
+    ]
+   }
+  ],
+  "tangtang": [
+   {
+    "name": {
+     "en": "Supreme Chief",
+     "zh-TW": "大當家",
+     "zh-CN": "大当家"
+    },
+    "room": "growth",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.18
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "River's Daughter",
+     "zh-TW": "河流的女兒",
+     "zh-CN": "河流的女儿"
+    },
+    "room": "growth",
+    "kind": "grow-plant",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ],
+  "typhoeus": [
+   {
+    "name": {
+     "en": "Lithic Murmurs",
+     "zh-TW": "晶石低語",
+     "zh-CN": "晶石低语"
+    },
+    "room": "growth",
+    "kind": "grow-mineral",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.3
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Life in the Spores",
+     "zh-TW": "孢子生靈",
+     "zh-CN": "孢子生灵"
+    },
+    "room": "growth",
+    "kind": "grow-fungus",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ],
+  "wulfgard": [
+   {
+    "name": {
+     "en": "Pack Techniques",
+     "zh-TW": "狼群的技巧",
+     "zh-CN": "狼群的技巧"
+    },
+    "room": "manufacturing",
+    "kind": "make-operator-exp",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.1
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.2
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Knack for the Wildlands",
+     "zh-TW": "荒野卓識",
+     "zh-CN": "荒野卓识"
+    },
+    "room": "growth",
+    "kind": "grow-mineral",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ],
+  "xaihi": [
+   {
+    "name": {
+     "en": "Standardized Scripting",
+     "zh-TW": "標準化編譯",
+     "zh-CN": "标准化编译"
+    },
+    "room": "manufacturing",
+    "kind": "make-operator-exp",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 1,
+      "value": 0.1
+     },
+     {
+      "mark": "β",
+      "promotion": 3,
+      "value": 0.2
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Murmuring Session",
+     "zh-TW": "會話與細語",
+     "zh-CN": "会话与细语"
+    },
+    "room": "reception",
+    "kind": "clue-chance",
+    "levels": [
+     {
+      "mark": "α",
+      "promotion": 2,
+      "clue": {
+       "number": 5,
+       "en": "Cabal of Tranquility",
+       "zh-TW": "寂語修會",
+       "zh-CN": "寂语修会"
+      },
+      "small": true
+     },
+     {
+      "mark": "β",
+      "promotion": 4,
+      "clue": {
+       "number": 5,
+       "en": "Cabal of Tranquility",
+       "zh-TW": "寂語修會",
+       "zh-CN": "寂语修会"
+      },
+      "small": false
+     }
+    ]
+   }
+  ],
+  "yvonne": [
+   {
+    "name": {
+     "en": "Fungal Pigment Extraction",
+     "zh-TW": "菌類顏料提取",
+     "zh-CN": "菌类颜料提取"
+    },
+    "room": "growth",
+    "kind": "grow-fungus",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.3
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Fashionista",
+     "zh-TW": "時尚達人",
+     "zh-CN": "时尚达人"
+    },
+    "room": "growth",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.18
+     }
+    ]
+   }
+  ],
+  "zhuang-fangyi": [
+   {
+    "name": {
+     "en": "Viceroy Experience",
+     "zh-TW": "管代經驗",
+     "zh-CN": "管代经验"
+    },
+    "room": "manufacturing",
+    "kind": "mood-drop-room",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 1,
+      "value": 0.14
+     },
+     {
+      "mark": "γ",
+      "promotion": 3,
+      "value": 0.18
+     }
+    ]
+   },
+   {
+    "name": {
+     "en": "Tianshi Chi Meditation",
+     "zh-TW": "天師養氣法",
+     "zh-CN": "天师养气法"
+    },
+    "room": "manufacturing",
+    "kind": "make-operator-exp",
+    "levels": [
+     {
+      "mark": "β",
+      "promotion": 2,
+      "value": 0.2
+     },
+     {
+      "mark": "γ",
+      "promotion": 4,
+      "value": 0.3
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "gilberta",
+ "intro": {
+  "en": "Gilberta is a Rhodes Island operator serving as a Messenger in Endfield's Specialist Tech Division, using rare gravity-controlling Originium Arts while delivering mail and intel.",
+  "zh-TW": "潔爾佩塔來自羅德島，任職於終末地工業特種技術部門，以信使身分負責各據點間的書信與情報傳遞，並擅長操控重力的罕見源石技藝。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Nature combo of up to 4 hits. The final strike deals 16 Stagger while she is the controlled operator.",
+   "zh-TW": "最多 4 段的自然傷害連擊。作為主控幹員時，重擊造成 16 點失衡。"
+  },
+  "battle": {
+   "en": "Channels to form a gravity well that pulls in nearby enemies while dealing Nature damage. When channeling ends, it implodes for area Nature damage and applies Nature Infliction.",
+   "zh-TW": "持續施法在前方生成重力奇異點，不斷吸引附近敵人並造成自然傷害。施法結束時重力奇異點爆炸，對範圍內敵人造成自然傷害並施加自然附著。"
+  },
+  "combo": {
+   "en": "Trigger: an Arts Reaction is applied to an enemy. After a brief cast, a gravity pull draws in the target and nearby enemies, dealing Nature damage and forcibly Lifting them.",
+   "zh-TW": "觸發條件：有敵人被施加法術異常。短暫施法後以重力牽引目標與附近敵人，造成自然傷害並強制造成擊飛。"
+  },
+  "ultimate": {
+   "en": "Creates an Anomalous Gravity Field that immediately deals 1 Nature hit and applies Nature Infliction to enemies inside. Targets within also suffer Slow and Arts Susceptibility that scales with their Vulnerability stacks, and any Lifted target remains Lifted until the field ends.",
+   "zh-TW": "創造重力紊亂區域，對範圍內敵人立即造成 1 次自然傷害並施加自然附著。區域內的目標會受到緩速與法術脆弱，破防層數越高法術脆弱越強，且處於擊飛狀態的目標會維持擊飛直到區域結束。"
+  }
+ },
+ "talents": [
+  {
+   "en": "While Gilberta is on the battlefield, all allied guards, casters, and supporters gain 4% Ultimate Gain Efficiency (7% at Promotion II).",
+   "zh-TW": "潔爾佩塔在場時，小隊內所有友方近衛、術師與輔助幹員的終結技蓄能效率 +4%（精英化II 為 +7%）。"
+  },
+  {
+   "en": "When Arcane Staff: Matrix Displacement or the final hit of Arcane Staff: Gravity Mode hits at least 2 enemies, it heals the controlled operator for 72 + Intellect × 0.60 HP (108 + Intellect × 0.90 at Promotion III), or the ally with the lowest HP percentage if they are at full HP.",
+   "zh-TW": "秘杖·引力模式的最後一擊或秘杖·矩陣位移命中至少 2 名敵人時，回復主控幹員 72 + 智識 × 0.60 生命值（精英化III 為 108 + 智識 × 0.90）；若其生命值已滿，改為治療生命值百分比最低的隊友。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Arcane Staff: Gravity Mode gains 20% increased effect radius.",
+   "zh-TW": "秘杖·引力模式的作用範圍 +20%。"
+  },
+  {
+   "en": "Inside Arcane Staff: Gravity Field's Anomalous Gravity Field, the Arts Susceptibility bonus per Vulnerability stack doubles, and that bonus is worked out as if the target had 1 extra Vulnerability stack, up to 4.",
+   "zh-TW": "敵人處於秘杖·重力場的重力紊亂區域時，每層破防提升的法術脆弱效果加倍，且結算時視為額外擁有 1 層破防，上限 4 層。"
+  },
+  {
+   "en": "Messenger's Song grants an extra 5% Ultimate Gain Efficiency.",
+   "zh-TW": "信使的歌聲提供的終結技蓄能效率額外 +5%。"
+  },
+  {
+   "en": "Arcane Staff: Gravity Field costs 15% less Ultimate Energy.",
+   "zh-TW": "秘杖·重力場所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Arcane Staff: Matrix Displacement has its cooldown reduced by 2 s and deals 1.3 times its damage.",
+   "zh-TW": "秘杖·矩陣位移的冷卻時間 -2 秒，傷害倍率提升為 1.3 倍。"
+  }
+ ]
+}

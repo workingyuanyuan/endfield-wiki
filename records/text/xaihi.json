@@ -1,0 +1,57 @@
+{
+ "slug": "xaihi",
+ "intro": {
+  "en": "Xaihi is a Sessionite from Laterano's Cabal of Tranquility who joined Endfield Industries on the Abbess's recommendation and now handles information engineering aboard Dijiang.",
+  "zh-TW": "賽希是來自拉特蘭寂語修會會話派的成員，經院長引薦加入終末地工業，現於帝江號負責資訊工程事務。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Cryo combo of up to 5 hits. While she is the controlled operator, her Final Strike deals 15 Stagger.",
+   "zh-TW": "最多 5 段的寒冷傷害連擊。作為主控幹員時，重擊造成 15 點失衡。"
+  },
+  "battle": {
+   "en": "Summons an Auxiliary Crystal around the controlled operator that heals them after they land a Final Strike, up to 2 times, scaling with Will. If the operator is already at Max HP when healed, it also grants a non-stacking Arts Amp for a time.",
+   "zh-TW": "召喚支援晶體環繞主控幹員一段時間，主控幹員重擊命中後為其回復生命值，最多觸發 2 次，治療量受意志加成。觸發時若生命值已滿，還會施加一段時間無法疊加的法術增幅。"
+  },
+  "combo": {
+   "en": "Trigger: the Auxiliary Crystal uses up its HP treatments. She briefly charges the Auxiliary Crystal and launches it at the enemy, dealing Cryo damage and applying Cryo Infliction.",
+   "zh-TW": "觸發條件：支援晶體的生命回復次數耗盡。短暫蓄力後將支援晶體擲向敵人，造成寒冷傷害並施加寒冷附著。"
+  },
+  "ultimate": {
+   "en": "Grants temporary Cryo Amp and Nature Amp to the whole team, with the Amp values boosted by Intellect.",
+   "zh-TW": "對全隊施加一段時間的寒冷增幅與自然增幅，增幅效果隨智識提高。"
+  }
+ },
+ "talents": [
+  {
+   "en": "When Stress Testing hits an enemy that already has Cryo Infliction or Solidification, that enemy takes 7% more Cryo damage (10% at Promotion II) for 5 s; this does not stack.",
+   "zh-TW": "壓力測試命中已處於寒冷附著或凍結狀態的敵人時，使其受到的寒冷傷害 +7%（精英化II 為 +10%），持續 5 秒，無法疊加。"
+  },
+  {
+   "en": "Stack Overflow also dispels Cryo Infliction and Solidification from the whole team.",
+   "zh-TW": "堆疊溢位同時會淨化全隊的寒冷附著與凍結狀態。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "The Auxiliary Crystal's Arts Amp is increased by an extra 5%.",
+   "zh-TW": "支援晶體提供的法術增幅額外提升 5%。"
+  },
+  {
+   "en": "Stack Overflow costs 10% less Ultimate Energy.",
+   "zh-TW": "堆疊溢位所需的終結技能量 -10%。"
+  },
+  {
+   "en": "On hit, Stress Testing chains 1 time to 1 other nearby target.",
+   "zh-TW": "壓力測試命中目標時，會對周圍 1 個其他目標彈射 1 次。"
+  },
+  {
+   "en": "Intellect +15, Treatment Efficiency +10%.",
+   "zh-TW": "智識 +15，治療效率 +10%。"
+  },
+  {
+   "en": "Stack Overflow's Amp effect is increased to 1.1 times its original value.",
+   "zh-TW": "堆疊溢位的增幅效果提升為 1.1 倍。"
+  }
+ ]
+}

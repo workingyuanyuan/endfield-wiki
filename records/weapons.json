@@ -1,0 +1,1277 @@
+[
+ {
+  "id": "wpn_funnel_0010",
+  "slug": "chivalric-virtues",
+  "rarity": 6,
+  "name": {
+   "en": "Chivalric Virtues",
+   "zh-TW": "騎士精神",
+   "zh-CN": "骑士精神"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0011",
+  "slug": "delivery-guaranteed",
+  "rarity": 6,
+  "name": {
+   "en": "Delivery Guaranteed",
+   "zh-TW": "使命必達",
+   "zh-CN": "使命必达"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0008",
+  "slug": "detonation-unit",
+  "rarity": 6,
+  "name": {
+   "en": "Detonation Unit",
+   "zh-TW": "爆破單元",
+   "zh-CN": "爆破单元"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0013",
+  "slug": "dreams-of-the-starry-beach",
+  "rarity": 6,
+  "name": {
+   "en": "Dreams of the Starry Beach",
+   "zh-TW": "滄溟星夢",
+   "zh-CN": "沧溟星梦"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0017",
+  "slug": "flickers-in-the-mist",
+  "rarity": 6,
+  "name": {
+   "en": "Flickers in the Mist",
+   "zh-TW": "霧中微光",
+   "zh-CN": "雾中微光"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0018",
+  "slug": "junction-point",
+  "rarity": 6,
+  "name": {
+   "en": "Junction Point",
+   "zh-TW": "聯結點",
+   "zh-CN": "联结点"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0015",
+  "slug": "lone-barge",
+  "rarity": 6,
+  "name": {
+   "en": "Lone Barge",
+   "zh-TW": "孤舟",
+   "zh-CN": "孤舟"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0009",
+  "slug": "oblivion",
+  "rarity": 6,
+  "name": {
+   "en": "Oblivion",
+   "zh-TW": "遺忘",
+   "zh-CN": "遗忘"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0006",
+  "slug": "opus-etch-figure",
+  "rarity": 6,
+  "name": {
+   "en": "Opus: Etch Figure",
+   "zh-TW": "作品：蝕跡",
+   "zh-CN": "作品：蚀迹"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0020",
+  "slug": "sufferings-end",
+  "rarity": 6,
+  "name": {
+   "en": "Suffering's End",
+   "zh-TW": "苦難的盡頭",
+   "zh-CN": "苦难的尽头"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0016",
+  "slug": "type-42-solemn-phalanx",
+  "rarity": 6,
+  "name": {
+   "en": "Type 42: Solemn Phalanx",
+   "zh-TW": "四二式·肅陣",
+   "zh-CN": "四二式·肃阵"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0019",
+  "slug": "umbra-of-frigid-eventide",
+  "rarity": 6,
+  "name": {
+   "en": "Umbra of Frigid Eventide",
+   "zh-TW": "寒夜幽影",
+   "zh-CN": "寒夜幽影"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_claym_0017",
+  "slug": "amaranthine-tassel",
+  "rarity": 6,
+  "name": {
+   "en": "Amaranthine Tassel",
+   "zh-TW": "赤纓",
+   "zh-CN": "赤缨"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_claym_0004",
+  "slug": "exemplar",
+  "rarity": 6,
+  "name": {
+   "en": "Exemplar",
+   "zh-TW": "典範",
+   "zh-CN": "典范"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_claym_0006",
+  "slug": "former-finery",
+  "rarity": 6,
+  "name": {
+   "en": "Former Finery",
+   "zh-TW": "昔日精品",
+   "zh-CN": "昔日精品"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_claym_0018",
+  "slug": "jade-vessel",
+  "rarity": 6,
+  "name": {
+   "en": "Jade Vessel",
+   "zh-TW": "玉中身",
+   "zh-CN": "玉中身"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_claym_0013",
+  "slug": "khravengger",
+  "rarity": 6,
+  "name": {
+   "en": "Khravengger",
+   "zh-TW": "赫拉芬格",
+   "zh-CN": "赫拉芬格"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_claym_0019",
+  "slug": "long-heritage",
+  "rarity": 6,
+  "name": {
+   "en": "Long Heritage",
+   "zh-TW": "悠久傳承",
+   "zh-CN": "悠久传承"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_claym_0016",
+  "slug": "phantom-pain",
+  "rarity": 6,
+  "name": {
+   "en": "Phantom Pain",
+   "zh-TW": "幻想苦痛",
+   "zh-CN": "幻想苦痛"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_claym_0008",
+  "slug": "sundered-prince",
+  "rarity": 6,
+  "name": {
+   "en": "Sundered Prince",
+   "zh-TW": "破碎君王",
+   "zh-CN": "破碎君王"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_claym_0007",
+  "slug": "thunderberge",
+  "rarity": 6,
+  "name": {
+   "en": "Thunderberge",
+   "zh-TW": "大雷斑",
+   "zh-CN": "大雷斑"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_pistol_0010",
+  "slug": "artzy-tyrannical",
+  "rarity": 6,
+  "name": {
+   "en": "Artzy Tyrannical",
+   "zh-TW": "藝術暴君",
+   "zh-CN": "艺术暴君"
+  },
+  "type": {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "zh-CN": "手铳"
+  }
+ },
+ {
+  "id": "wpn_pistol_0011",
+  "slug": "brigands-calling",
+  "rarity": 6,
+  "name": {
+   "en": "Brigand's Calling",
+   "zh-TW": "落草",
+   "zh-CN": "落草"
+  },
+  "type": {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "zh-CN": "手铳"
+  }
+ },
+ {
+  "id": "wpn_pistol_0009",
+  "slug": "clannibal",
+  "rarity": 6,
+  "name": {
+   "en": "Clannibal",
+   "zh-TW": "同類相食",
+   "zh-CN": "同类相食"
+  },
+  "type": {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "zh-CN": "手铳"
+  }
+ },
+ {
+  "id": "wpn_pistol_0007",
+  "slug": "home-longing",
+  "rarity": 6,
+  "name": {
+   "en": "Home Longing",
+   "zh-TW": "望鄉",
+   "zh-CN": "望乡"
+  },
+  "type": {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "zh-CN": "手铳"
+  }
+ },
+ {
+  "id": "wpn_pistol_0005",
+  "slug": "navigator",
+  "rarity": 6,
+  "name": {
+   "en": "Navigator",
+   "zh-TW": "領航者",
+   "zh-CN": "领航者"
+  },
+  "type": {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "zh-CN": "手铳"
+  }
+ },
+ {
+  "id": "wpn_pistol_0008",
+  "slug": "wedge",
+  "rarity": 6,
+  "name": {
+   "en": "Wedge",
+   "zh-TW": "楔子",
+   "zh-CN": "楔子"
+  },
+  "type": {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "zh-CN": "手铳"
+  }
+ },
+ {
+  "id": "wpn_lance_0007",
+  "slug": "beacon-of-duty",
+  "rarity": 6,
+  "name": {
+   "en": "Beacon of Duty",
+   "zh-TW": "燈火使命",
+   "zh-CN": "灯火使命"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_lance_0014",
+  "slug": "bedazzling-night-debut",
+  "rarity": 6,
+  "name": {
+   "en": "Bedazzling Night Debut",
+   "zh-TW": "曜夜的首演",
+   "zh-CN": "曜夜的首演"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_lance_0015",
+  "slug": "blessing-of-lustrous-carmine",
+  "rarity": 6,
+  "name": {
+   "en": "Blessing of Lustrous Carmine",
+   "zh-TW": "鍍紅祝福",
+   "zh-CN": "镀红祝福"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_lance_0016",
+  "slug": "golden-age",
+  "rarity": 6,
+  "name": {
+   "en": "Golden Age",
+   "zh-TW": "黃金時代",
+   "zh-CN": "黄金时代"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_lance_0011",
+  "slug": "jet",
+  "rarity": 6,
+  "name": {
+   "en": "JET",
+   "zh-TW": "J.E.T.",
+   "zh-CN": "J.E.T."
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_lance_0012",
+  "slug": "mountain-bearer",
+  "rarity": 6,
+  "name": {
+   "en": "Mountain Bearer",
+   "zh-TW": "負山",
+   "zh-CN": "负山"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_lance_0010",
+  "slug": "valiant",
+  "rarity": 6,
+  "name": {
+   "en": "Valiant",
+   "zh-TW": "驍勇",
+   "zh-CN": "骁勇"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_sword_0024",
+  "slug": "complexed-industry",
+  "rarity": 6,
+  "name": {
+   "en": "Complexed Industry",
+   "zh-TW": "聚合工業",
+   "zh-CN": "聚合工业"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0013",
+  "slug": "eminent-repute",
+  "rarity": 6,
+  "name": {
+   "en": "Eminent Repute",
+   "zh-TW": "顯赫聲名",
+   "zh-CN": "显赫声名"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0026",
+  "slug": "farsight",
+  "rarity": 6,
+  "name": {
+   "en": "Farsight",
+   "zh-TW": "遙望",
+   "zh-CN": "遥望"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0006",
+  "slug": "forgeborn-scathe",
+  "rarity": 6,
+  "name": {
+   "en": "Forgeborn Scathe",
+   "zh-TW": "熔鑄火焰",
+   "zh-CN": "熔铸火焰"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0017",
+  "slug": "glorious-memory",
+  "rarity": 6,
+  "name": {
+   "en": "Glorious Memory",
+   "zh-TW": "光榮記憶",
+   "zh-CN": "光荣记忆"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0021_ink",
+  "slug": "grand-vision",
+  "rarity": 6,
+  "name": {
+   "en": "Grand Vision",
+   "zh-TW": "宏願",
+   "zh-CN": "宏愿"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0021",
+  "slug": "grand-vision",
+  "rarity": 6,
+  "name": {
+   "en": "Grand Vision",
+   "zh-TW": "宏願",
+   "zh-CN": "宏愿"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0025",
+  "slug": "lunar-calling",
+  "rarity": 6,
+  "name": {
+   "en": "Lunar Calling",
+   "zh-TW": "喚月",
+   "zh-CN": "唤月"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0022",
+  "slug": "lupine-scarlet",
+  "rarity": 6,
+  "name": {
+   "en": "Lupine Scarlet",
+   "zh-TW": "狼之緋",
+   "zh-CN": "狼之绯"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0016",
+  "slug": "never-rest",
+  "rarity": 6,
+  "name": {
+   "en": "Never Rest",
+   "zh-TW": "不知歸",
+   "zh-CN": "不知归"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0011",
+  "slug": "rapid-ascent",
+  "rarity": 6,
+  "name": {
+   "en": "Rapid Ascent",
+   "zh-TW": "扶搖",
+   "zh-CN": "扶摇"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0012",
+  "slug": "thermite-cutter",
+  "rarity": 6,
+  "name": {
+   "en": "Thermite Cutter",
+   "zh-TW": "熱熔切割器",
+   "zh-CN": "热熔切割器"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0010",
+  "slug": "umbral-torch",
+  "rarity": 6,
+  "name": {
+   "en": "Umbral Torch",
+   "zh-TW": "黯色火炬",
+   "zh-CN": "黯色火炬"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0014",
+  "slug": "white-night-nova",
+  "rarity": 6,
+  "name": {
+   "en": "White Night Nova",
+   "zh-TW": "白夜新星",
+   "zh-CN": "白夜新星"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_funnel_0012",
+  "slug": "freedom-to-proselytize",
+  "rarity": 5,
+  "name": {
+   "en": "Freedom to Proselytize",
+   "zh-TW": "佈道自由",
+   "zh-CN": "布道自由"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0007",
+  "slug": "monaihe",
+  "rarity": 5,
+  "name": {
+   "en": "Monaihe",
+   "zh-TW": "莫奈何",
+   "zh-CN": "莫奈何"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0014",
+  "slug": "obj-arts-identifier",
+  "rarity": 5,
+  "name": {
+   "en": "OBJ Arts Identifier",
+   "zh-TW": "O.B.J.術識",
+   "zh-CN": "O.B.J.术识"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0005",
+  "slug": "stanza-of-memorials",
+  "rarity": 5,
+  "name": {
+   "en": "Stanza of Memorials",
+   "zh-TW": "悼亡詩",
+   "zh-CN": "悼亡诗"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0004",
+  "slug": "wild-wanderer",
+  "rarity": 5,
+  "name": {
+   "en": "Wild Wanderer",
+   "zh-TW": "迷失荒野",
+   "zh-CN": "迷失荒野"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_claym_0014",
+  "slug": "ancient-canal",
+  "rarity": 5,
+  "name": {
+   "en": "Ancient Canal",
+   "zh-TW": "古渠",
+   "zh-CN": "古渠"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_claym_0012",
+  "slug": "finishing-call",
+  "rarity": 5,
+  "name": {
+   "en": "Finishing Call",
+   "zh-TW": "終點之聲",
+   "zh-CN": "终点之声"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_claym_0015",
+  "slug": "obj-heavy-burden",
+  "rarity": 5,
+  "name": {
+   "en": "OBJ Heavy Burden",
+   "zh-TW": "O.B.J.重荷",
+   "zh-CN": "O.B.J.重荷"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_claym_0011",
+  "slug": "seeker-of-dark-lung",
+  "rarity": 5,
+  "name": {
+   "en": "Seeker of Dark Lung",
+   "zh-TW": "探驪",
+   "zh-CN": "探骊"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_pistol_0012",
+  "slug": "obj-velocitous",
+  "rarity": 5,
+  "name": {
+   "en": "OBJ Velocitous",
+   "zh-TW": "O.B.J.迅極",
+   "zh-CN": "O.B.J.迅极"
+  },
+  "type": {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "zh-CN": "手铳"
+  }
+ },
+ {
+  "id": "wpn_pistol_0006",
+  "slug": "opus-the-living",
+  "rarity": 5,
+  "name": {
+   "en": "Opus: The Living",
+   "zh-TW": "作品：眾生",
+   "zh-CN": "作品：众生"
+  },
+  "type": {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "zh-CN": "手铳"
+  }
+ },
+ {
+  "id": "wpn_pistol_0004",
+  "slug": "rational-farewell",
+  "rarity": 5,
+  "name": {
+   "en": "Rational Farewell",
+   "zh-TW": "理性告別",
+   "zh-CN": "理性告别"
+  },
+  "type": {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "zh-CN": "手铳"
+  }
+ },
+ {
+  "id": "wpn_lance_0004",
+  "slug": "chimeric-justice",
+  "rarity": 5,
+  "name": {
+   "en": "Chimeric Justice",
+   "zh-TW": "嵌合正義",
+   "zh-CN": "嵌合正义"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_lance_0006",
+  "slug": "cohesive-traction",
+  "rarity": 5,
+  "name": {
+   "en": "Cohesive Traction",
+   "zh-TW": "向心之引",
+   "zh-CN": "向心之引"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_lance_0013",
+  "slug": "obj-razorhorn",
+  "rarity": 5,
+  "name": {
+   "en": "OBJ Razorhorn",
+   "zh-TW": "O.B.J.尖峰",
+   "zh-CN": "O.B.J.尖峰"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_sword_0015",
+  "slug": "aspirant",
+  "rarity": 5,
+  "name": {
+   "en": "Aspirant",
+   "zh-TW": "仰止",
+   "zh-CN": "仰止"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0023",
+  "slug": "dessert-moment",
+  "rarity": 5,
+  "name": {
+   "en": "Dessert Moment",
+   "zh-TW": "點心時刻",
+   "zh-CN": "点心时刻"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0020",
+  "slug": "finchaser-30",
+  "rarity": 5,
+  "name": {
+   "en": "Finchaser 3.0",
+   "zh-TW": "逐鱗3.0",
+   "zh-CN": "逐鳞3.0"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0007",
+  "slug": "fortmaker",
+  "rarity": 5,
+  "name": {
+   "en": "Fortmaker",
+   "zh-TW": "堅城鑄造者",
+   "zh-CN": "坚城铸造者"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0019",
+  "slug": "obj-edge-of-lightness",
+  "rarity": 5,
+  "name": {
+   "en": "OBJ Edge of Lightness",
+   "zh-TW": "O.B.J.輕芒",
+   "zh-CN": "O.B.J.轻芒"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0005",
+  "slug": "sundering-steel",
+  "rarity": 5,
+  "name": {
+   "en": "Sundering Steel",
+   "zh-TW": "鋼鐵餘音",
+   "zh-CN": "钢铁余音"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0018",
+  "slug": "twelve-questions",
+  "rarity": 5,
+  "name": {
+   "en": "Twelve Questions",
+   "zh-TW": "十二問",
+   "zh-CN": "十二问"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_funnel_0003",
+  "slug": "fluorescent-roc",
+  "rarity": 4,
+  "name": {
+   "en": "Fluorescent Roc",
+   "zh-TW": "螢光雷羽",
+   "zh-CN": "荧光雷羽"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_funnel_0001",
+  "slug": "hypernova-auto",
+  "rarity": 4,
+  "name": {
+   "en": "Hypernova Auto",
+   "zh-TW": "全自動駭新星",
+   "zh-CN": "全自动骇新星"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_claym_0003",
+  "slug": "industry-01",
+  "rarity": 4,
+  "name": {
+   "en": "Industry 0.1",
+   "zh-TW": "工業零點一",
+   "zh-CN": "工业零点一"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_claym_0009",
+  "slug": "quencher",
+  "rarity": 4,
+  "name": {
+   "en": "Quencher",
+   "zh-TW": "淬火者",
+   "zh-CN": "淬火者"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_pistol_0002",
+  "slug": "howling-guard",
+  "rarity": 4,
+  "name": {
+   "en": "Howling Guard",
+   "zh-TW": "呼嘯守衛",
+   "zh-CN": "呼啸守卫"
+  },
+  "type": {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "zh-CN": "手铳"
+  }
+ },
+ {
+  "id": "wpn_pistol_0003",
+  "slug": "long-road",
+  "rarity": 4,
+  "name": {
+   "en": "Long Road",
+   "zh-TW": "長路",
+   "zh-CN": "长路"
+  },
+  "type": {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "zh-CN": "手铳"
+  }
+ },
+ {
+  "id": "wpn_lance_0008",
+  "slug": "aggeloslayer",
+  "rarity": 4,
+  "name": {
+   "en": "Aggeloslayer",
+   "zh-TW": "天使殺手",
+   "zh-CN": "天使杀手"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_lance_0003",
+  "slug": "pathfinders-beacon",
+  "rarity": 4,
+  "name": {
+   "en": "Pathfinder's Beacon",
+   "zh-TW": "尋路者道標",
+   "zh-CN": "寻路者道标"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_sword_0008",
+  "slug": "prominent-edge",
+  "rarity": 4,
+  "name": {
+   "en": "Prominent Edge",
+   "zh-TW": "顯鋒",
+   "zh-CN": "显锋"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_sword_0009",
+  "slug": "wave-tide",
+  "rarity": 4,
+  "name": {
+   "en": "Wave Tide",
+   "zh-TW": "浪潮",
+   "zh-CN": "浪潮"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ },
+ {
+  "id": "wpn_funnel_0002",
+  "slug": "jiminy-12",
+  "rarity": 3,
+  "name": {
+   "en": "Jiminy 12",
+   "zh-TW": "吉米尼12",
+   "zh-CN": "吉米尼12"
+  },
+  "type": {
+   "en": "Arts Unit",
+   "zh-TW": "施術單元",
+   "zh-CN": "施术单元"
+  }
+ },
+ {
+  "id": "wpn_claym_0010",
+  "slug": "darhoff-7",
+  "rarity": 3,
+  "name": {
+   "en": "Darhoff 7",
+   "zh-TW": "達爾霍夫7",
+   "zh-CN": "达尔霍夫7"
+  },
+  "type": {
+   "en": "Greatsword",
+   "zh-TW": "雙手劍",
+   "zh-CN": "双手剑"
+  }
+ },
+ {
+  "id": "wpn_pistol_0001",
+  "slug": "peco-5",
+  "rarity": 3,
+  "name": {
+   "en": "Peco 5",
+   "zh-TW": "佩科5",
+   "zh-CN": "佩科5"
+  },
+  "type": {
+   "en": "Handcannon",
+   "zh-TW": "手銃",
+   "zh-CN": "手铳"
+  }
+ },
+ {
+  "id": "wpn_lance_0009",
+  "slug": "opero-77",
+  "rarity": 3,
+  "name": {
+   "en": "Opero 77",
+   "zh-TW": "奧佩羅77",
+   "zh-CN": "奥佩罗77"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_sword_0003",
+  "slug": "tarr-11",
+  "rarity": 3,
+  "name": {
+   "en": "Tarr 11",
+   "zh-TW": "塔爾11",
+   "zh-CN": "塔尔11"
+  },
+  "type": {
+   "en": "Sword",
+   "zh-TW": "單手劍",
+   "zh-CN": "单手剑"
+  }
+ }
+]

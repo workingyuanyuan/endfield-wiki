@@ -1,0 +1,536 @@
+{
+ "slug": "arclight",
+ "gameId": "chr_0007_ikut",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/arclight",
+ "officialKey": "arclight",
+ "name": {
+  "en": "Arclight",
+  "zh-TW": "弧光",
+  "zh-CN": "弧光"
+ },
+ "rarity": 5,
+ "class": {
+  "en": "Vanguard",
+  "zh-TW": "先鋒",
+  "zh-CN": "先锋"
+ },
+ "element": {
+  "en": "Electric",
+  "zh-TW": "電磁",
+  "zh-CN": "电磁"
+ },
+ "weapon": {
+  "en": "Sword",
+  "zh-TW": "單手劍",
+  "zh-CN": "单手剑"
+ },
+ "mainAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "subAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "faction": {
+  "en": "Hannabit Circuit",
+  "zh-TW": "眾生長地",
+  "zh-CN": "众生长地"
+ },
+ "race": {
+  "en": "Kuranta",
+  "zh-TW": "庫蘭塔",
+  "zh-CN": "库兰塔"
+ },
+ "voice": {
+  "en": {
+   "chi": "ZhongKe",
+   "eng": "Andrea Gatchalian",
+   "jap": "Fujiwara Natsumi",
+   "kor": "Kim A-rong"
+  },
+  "zh-TW": {
+   "chi": "鍾可",
+   "eng": "Andrea Gatchalian",
+   "jap": "藤原夏海",
+   "kor": "金芽瓏"
+  },
+  "zh-CN": {
+   "chi": "钟可",
+   "eng": "Andrea Gatchalian",
+   "jap": "藤原夏海",
+   "kor": "金芽珑"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Seek and Hunt",
+    "zh-TW": "循跡逐獵",
+    "zh-CN": "循迹逐猎"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "10%",
+     "last": "23%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "13%",
+     "last": "28%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "26%",
+     "last": "59%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "36%",
+     "last": "81%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "48%",
+     "last": "107%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Tempestuous Arc",
+    "zh-TW": "疾風迅雷",
+    "zh-CN": "疾风迅雷"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "45%",
+     "last": "101%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "45%",
+     "last": "101%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 Stagger",
+      "zh-TW": "第二段失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Additional ATK DMG Multiplier",
+      "zh-TW": "追加傷害倍率"
+     },
+     "first": "180%",
+     "last": "405%"
+    },
+    {
+     "name": {
+      "en": "Additional ATK Stagger",
+      "zh-TW": "追加失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SP Recovery",
+      "zh-TW": "回復技力"
+     },
+     "first": "30",
+     "last": "40"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Peal of Thunder",
+    "zh-TW": "鳴雷",
+    "zh-CN": "鸣雷"
+   },
+   "cost": 0,
+   "cooldown": [
+    3,
+    3
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "155%",
+     "last": "350%"
+    },
+    {
+     "name": {
+      "en": "SP Recovery",
+      "zh-TW": "回復技力"
+     },
+     "first": "8",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "5",
+     "last": "5"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Exploding Blitz",
+    "zh-TW": "轟雷掣電",
+    "zh-CN": "轰雷掣电"
+   },
+   "cost": 90,
+   "cooldown": [
+    15,
+    15
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "156%",
+     "last": "350%"
+    },
+    {
+     "name": {
+      "en": "SEQ 1 Stagger",
+      "zh-TW": "第一段失衡值"
+     },
+     "first": "7",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "244%",
+     "last": "550%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 Stagger",
+      "zh-TW": "第二段失衡值"
+     },
+     "first": "7",
+     "last": "10"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Wildland Trekker",
+    "zh-TW": "荒野遊人",
+    "zh-CN": "荒野游人"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Hannabit Wisdom",
+    "zh-TW": "眾生智慧",
+    "zh-CN": "众生智慧"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Child of the Storm",
+    "zh-TW": "風暴中的孩子",
+    "zh-CN": "风暴中的孩子"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Speed Battler",
+    "zh-TW": "速戰速決",
+    "zh-CN": "速战速决"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "\"Hanna\"",
+    "zh-TW": "「歌謠」",
+    "zh-CN": "“歌谣”"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Aldertone's Teachings",
+    "zh-TW": "師者教誨",
+    "zh-CN": "师者教诲"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Servant of the Wildlands",
+    "zh-TW": "荒野的徒從",
+    "zh-CN": "荒野的徒从"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 14,
+   "agi": 14,
+   "int": 12,
+   "will": 10,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 107,
+   "agi": 145,
+   "int": 123,
+   "will": 100,
+   "atk": 306,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Metadiastima Photoemission Tube",
+      "zh-TW": "超距輝映管",
+      "zh-CN": "超距辉映管"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

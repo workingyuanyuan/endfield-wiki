@@ -1,0 +1,471 @@
+{
+ "slug": "akekuri",
+ "gameId": "chr_0019_karin",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/akekuri",
+ "officialKey": "akekuri",
+ "name": {
+  "en": "Akekuri",
+  "zh-TW": "秋栗",
+  "zh-CN": "秋栗"
+ },
+ "rarity": 4,
+ "class": {
+  "en": "Vanguard",
+  "zh-TW": "先鋒",
+  "zh-CN": "先锋"
+ },
+ "element": {
+  "en": "Heat",
+  "zh-TW": "灼熱",
+  "zh-CN": "灼热"
+ },
+ "weapon": {
+  "en": "Sword",
+  "zh-TW": "單手劍",
+  "zh-CN": "单手剑"
+ },
+ "mainAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "subAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "faction": {
+  "en": "Endfield Industries",
+  "zh-TW": "終末地工業",
+  "zh-CN": "终末地工业"
+ },
+ "race": {
+  "en": "Perro",
+  "zh-TW": "佩洛",
+  "zh-CN": "佩洛"
+ },
+ "voice": {
+  "en": {
+   "chi": "Kiyo",
+   "eng": "Shu Uchida",
+   "jap": "Nagatsuki Aoi",
+   "kor": "Kim I-an"
+  },
+  "zh-TW": {
+   "chi": "蕭清源",
+   "eng": "Shu Uchida",
+   "jap": "長月葵",
+   "kor": "金怡侒"
+  },
+  "zh-CN": {
+   "chi": "萧清源",
+   "eng": "Shu Uchida",
+   "jap": "长月葵",
+   "kor": "金怡侒"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Sword of Aspiration",
+    "zh-TW": "進取劍鋒",
+    "zh-CN": "进取剑锋"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "20%",
+     "last": "45%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "28%",
+     "last": "62%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "33%",
+     "last": "73%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "50%",
+     "last": "111%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Burst of Passion",
+    "zh-TW": "熱情迸發",
+    "zh-CN": "热情迸发"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "142%",
+     "last": "320%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Flash and Dash",
+    "zh-TW": "快閃衝擊",
+    "zh-CN": "快闪冲击"
+   },
+   "cost": 0,
+   "cooldown": [
+    10,
+    9
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier per SEQ",
+      "zh-TW": "每段傷害倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    },
+    {
+     "name": {
+      "en": "Stagger per SEQ",
+      "zh-TW": "每段失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SP Recovery per SEQ",
+      "zh-TW": "每段回復技力"
+     },
+     "first": "7.5",
+     "last": "7.5"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "SQUAD! ON ME!",
+    "zh-TW": "小隊，集結！",
+    "zh-CN": "小队，集结！"
+   },
+   "cost": 120,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SP Recovery",
+      "zh-TW": "回復技力"
+     },
+     "first": "58",
+     "last": "80"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Cheer of Victory",
+    "zh-TW": "勝利喝采",
+    "zh-CN": "胜利喝彩"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Staying in the Zone",
+    "zh-TW": "心流時間",
+    "zh-CN": "心流时间"
+   },
+   "promotions": [
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Positive Feedback",
+    "zh-TW": "正向回饋",
+    "zh-CN": "正向反馈"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Passionate Idealist",
+    "zh-TW": "理想熱忱",
+    "zh-CN": "理想热忱"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Committed Team Player",
+    "zh-TW": "全力協作",
+    "zh-CN": "全力协作"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Super Perfect Status",
+    "zh-TW": "滿分狀態",
+    "zh-CN": "满分状态"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Tempo of Awareness",
+    "zh-TW": "殘心節奏",
+    "zh-CN": "残心节奏"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 13,
+   "agi": 15,
+   "int": 12,
+   "will": 9,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 110,
+   "agi": 140,
+   "int": 106,
+   "will": 108,
+   "atk": 319,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "D96 Steel Sample 4",
+      "zh-TW": "D96鋼樣品四",
+      "zh-CN": "D96钢样品四"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

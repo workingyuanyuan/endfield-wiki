@@ -1,0 +1,536 @@
+{
+ "slug": "snowshine",
+ "gameId": "chr_0014_aurora",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/snowshine",
+ "officialKey": "snowshine",
+ "name": {
+  "en": "Snowshine",
+  "zh-TW": "晝雪",
+  "zh-CN": "昼雪"
+ },
+ "rarity": 5,
+ "class": {
+  "en": "Defender",
+  "zh-TW": "重裝",
+  "zh-CN": "重装"
+ },
+ "element": {
+  "en": "Cryo",
+  "zh-TW": "寒冷",
+  "zh-CN": "寒冷"
+ },
+ "weapon": {
+  "en": "Greatsword",
+  "zh-TW": "雙手劍",
+  "zh-CN": "双手剑"
+ },
+ "mainAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "subAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "faction": {
+  "en": "Rhodes Island",
+  "zh-TW": "羅德島",
+  "zh-CN": "罗德岛"
+ },
+ "race": {
+  "en": "Ursus",
+  "zh-TW": "烏薩斯",
+  "zh-CN": "乌萨斯"
+ },
+ "voice": {
+  "en": {
+   "chi": "LSS",
+   "eng": "Stephanie Southerland",
+   "jap": "Akesaka Satomi",
+   "kor": "Yu Yeong"
+  },
+  "zh-TW": {
+   "chi": "劉十四",
+   "eng": "Stephanie Southerland",
+   "jap": "明坂聰美",
+   "kor": "劉榮"
+  },
+  "zh-CN": {
+   "chi": "刘十四",
+   "eng": "Stephanie Southerland",
+   "jap": "明坂聪美",
+   "kor": "刘荣"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Hypothermic Assault",
+    "zh-TW": "失溫猛擊",
+    "zh-CN": "失温猛击"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "55%",
+     "last": "124%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "59%",
+     "last": "132%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "100%",
+     "last": "225%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Saturated Defense",
+    "zh-TW": "飽和性防禦",
+    "zh-CN": "饱和性防御"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "200%",
+     "last": "450%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Protection",
+      "zh-TW": "庇護效果"
+     },
+     "first": "90%",
+     "last": "90%"
+    },
+    {
+     "name": {
+      "en": "SP Return",
+      "zh-TW": "返還技力"
+     },
+     "first": "30",
+     "last": "30"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Polar Rescue",
+    "zh-TW": "極地救援",
+    "zh-CN": "极地救援"
+   },
+   "cost": 0,
+   "cooldown": [
+    25,
+    23
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Initial Base Treatment",
+      "zh-TW": "初始治療基礎值"
+     },
+     "first": "96",
+     "last": "216"
+    },
+    {
+     "name": {
+      "en": "Initial Treatment Increase per Will",
+      "zh-TW": "每點意志增加的初始治療值"
+     },
+     "first": "0.22",
+     "last": "0.5"
+    },
+    {
+     "name": {
+      "en": "Base Treatment Over Time",
+      "zh-TW": "持續治療基礎值"
+     },
+     "first": "24",
+     "last": "54"
+    },
+    {
+     "name": {
+      "en": "Treatment Over Time Increase per Will",
+      "zh-TW": "每點意志增加的持續治療值"
+     },
+     "first": "0.06",
+     "last": "0.13"
+    },
+    {
+     "name": {
+      "en": "Treatment Over Time Interval (s)",
+      "zh-TW": "持續治療間隔（秒）"
+     },
+     "first": "0.5",
+     "last": "0.5"
+    },
+    {
+     "name": {
+      "en": "Duration (s)",
+      "zh-TW": "持續時間（秒）"
+     },
+     "first": "3",
+     "last": "3"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Frigid Snowfield",
+    "zh-TW": "凜冽寒霜",
+    "zh-CN": "凛冽寒霜"
+   },
+   "cost": 80,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Explosion DMG Multiplier",
+      "zh-TW": "爆炸傷害倍率"
+     },
+     "first": "200%",
+     "last": "450%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "15",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "DMG Over Time Multiplier",
+      "zh-TW": "持續傷害倍率"
+     },
+     "first": "29%",
+     "last": "65%"
+    },
+    {
+     "name": {
+      "en": "DMG Over Time Interval (s)",
+      "zh-TW": "持續傷害間隔（秒）"
+     },
+     "first": "0.5",
+     "last": "0.5"
+    },
+    {
+     "name": {
+      "en": "Duration (s)",
+      "zh-TW": "持續時間（秒）"
+     },
+     "first": "5",
+     "last": "5"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Polar Survival",
+    "zh-TW": "極地生存",
+    "zh-CN": "极地生存"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "SAR Professional",
+    "zh-TW": "救援專家",
+    "zh-CN": "救援专家"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Cold Shelter",
+    "zh-TW": "失溫庇護所",
+    "zh-CN": "失温庇护所"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Storm Region",
+    "zh-TW": "暴風雪地帶",
+    "zh-CN": "暴风雪地带"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Polar Survival Guide",
+    "zh-TW": "極地生存指南",
+    "zh-CN": "极地生存指南"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Tundra Aegis",
+    "zh-TW": "凍土堅盾",
+    "zh-CN": "冻土坚盾"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Cold Disaster Specialist",
+    "zh-TW": "冰災應對專家",
+    "zh-CN": "冰灾应对专家"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 18,
+   "agi": 12,
+   "int": 9,
+   "will": 11,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 154,
+   "agi": 104,
+   "int": 93,
+   "will": 108,
+   "atk": 297,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Quadrant Fitting Fluid",
+      "zh-TW": "象限擬合液",
+      "zh-CN": "象限拟合液"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

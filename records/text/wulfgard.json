@@ -1,0 +1,57 @@
+{
+ "slug": "wulfgard",
+ "intro": {
+  "en": "Catello Wulfgard Luppino is a Landbreaker mercenary of the Pack, living on the fringes of the Civilization Band, who serves on Endfield Industries' Crisis Team and excels at stealth and recon.",
+  "zh-TW": "卡特洛·狼衛·盧皮諾是生活在文明環帶邊緣的裂地者狼群氏族傭兵，擅長隱匿與偵察作戰，現隸屬終末地工業危機處理小組。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Heat combo of up to 4 hits. The final strike deals 18 Stagger while Wulfgard is the controlled operator.",
+   "zh-TW": "最多 4 段的灼熱傷害連擊。作為主控幹員時，重擊造成 18 點失衡。"
+  },
+  "battle": {
+   "en": "Fires a burst of Heat shots whose final shot applies Heat Infliction. Against a target with Combustion or Electrification, Wulfgard skips Heat Infliction and consumes the Arts Reaction for 1 extra heavy Heat shot.",
+   "zh-TW": "對目標連射造成少量灼熱傷害，最後一擊施加灼熱附著。若目標處於燃燒或導電狀態，則改為消耗該狀態並追加 1 次大量灼熱傷害射擊。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy receives an Arts Infliction. Wulfgard throws a frag grenade at the target's position that explodes on impact, dealing Heat damage and applying Heat Infliction to nearby enemies.",
+   "zh-TW": "觸發條件：敵人被施加法術附著。向目標位置丟出爆裂手榴彈，落地爆炸對周圍敵人造成灼熱傷害並施加灼熱附著。"
+  },
+  "ultimate": {
+   "en": "Unleashes a rapid barrage and Wolven Fury on nearby enemies for 5 hits of Heat damage, forcibly applying Combustion.",
+   "zh-TW": "高速射擊並動用狼之怒打擊周圍敵人，共造成 5 次灼熱傷害，同時強制施加燃燒。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Applying Combustion grants Wulfgard non-stacking Scorching Fangs for 10 s, boosting his Heat damage by 20% (30% at Promotion II).",
+   "zh-TW": "施加燃燒後自身獲得無法疊加的灼熱獠牙，持續 10 秒，期間自身灼熱傷害 +20%（精英化II 為 +30%）。"
+  },
+  {
+   "en": "When Thermite Tracers consumes an Arts Reaction, Wulfgard recovers 5 SP (10 at Promotion III).",
+   "zh-TW": "灼熱彈痕成功消耗法術異常時，返還 5 點技力（精英化III 為 10 點）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Strength +15, Agility +15.",
+   "zh-TW": "力量 +15，敏捷 +15。"
+  },
+  {
+   "en": "Code of Restraint returns 10 additional SP.",
+   "zh-TW": "節制準則額外返還 10 點技力。"
+  },
+  {
+   "en": "Triggering Thermite Tracers's extra effect while Scorching Fangs is active resets its duration and grants teammates Scorching Fangs at 50% strength.",
+   "zh-TW": "灼熱獠牙期間觸發戰技額外效果時，立即重置自身灼熱獠牙持續時間，並使其他隊友獲得 50% 基礎效果的灼熱獠牙。"
+  },
+  {
+   "en": "Wolven Fury costs 15% less Ultimate Energy.",
+   "zh-TW": "狼之怒所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Casting Wolven Fury immediately resets Frag Grenade·β's cooldown.",
+   "zh-TW": "施放狼之怒後立即重置爆裂手榴彈·β型的冷卻時間。"
+  }
+ ]
+}

@@ -1,0 +1,560 @@
+{
+ "slug": "zhuang-fangyi",
+ "gameId": "chr_0030_zhuangfy",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/zhuang-fangyi",
+ "officialKey": "zhuangfy",
+ "name": {
+  "en": "Zhuang Fangyi",
+  "zh-TW": "莊方宜",
+  "zh-CN": "庄方宜"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Striker",
+  "zh-TW": "突擊",
+  "zh-CN": "突击"
+ },
+ "element": {
+  "en": "Electric",
+  "zh-TW": "電磁",
+  "zh-CN": "电磁"
+ },
+ "weapon": {
+  "en": "Arts Unit",
+  "zh-TW": "施術單元",
+  "zh-CN": "施术单元"
+ },
+ "mainAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "subAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "faction": {
+  "en": "Hongshan Academy of Sciences (HAS)",
+  "zh-TW": "宏山科學院",
+  "zh-CN": "宏山科学院"
+ },
+ "race": {
+  "en": "Kylin",
+  "zh-TW": "麒麟",
+  "zh-CN": "麒麟"
+ },
+ "voice": {
+  "en": {
+   "chi": "Ziyi Qin",
+   "eng": "Molly Zhang",
+   "jap": "Kuwashima Houko",
+   "kor": "Song Ha-rim"
+  },
+  "zh-TW": {
+   "chi": "秦紫翼",
+   "eng": "Molly Zhang",
+   "jap": "桑島法子",
+   "kor": "宋河琳"
+  },
+  "zh-CN": {
+   "chi": "秦紫翼",
+   "eng": "Molly Zhang",
+   "jap": "桑岛法子",
+   "kor": "宋河琳"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Jolting Arts",
+    "zh-TW": "疾電法",
+    "zh-CN": "疾电法"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "16%",
+     "last": "36%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "24%",
+     "last": "54%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "32%",
+     "last": "72%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "45%",
+     "last": "101%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "48%",
+     "last": "108%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Mantra of Sundering",
+    "zh-TW": "驚霆訣",
+    "zh-CN": "惊霆诀"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Thunder Strike DMG Multiplier",
+      "zh-TW": "雷擊傷害倍率"
+     },
+     "first": "20%",
+     "last": "45%"
+    },
+    {
+     "name": {
+      "en": "Total Stagger",
+      "zh-TW": "總失衡值"
+     },
+     "first": "15",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "Bonus DMG Multiplier per Status Level of Electrification Consumed",
+      "zh-TW": "消耗每級導電額外傷害倍率"
+     },
+     "first": "3%",
+     "last": "9%"
+    },
+    {
+     "name": {
+      "en": "Bonus Ultimate Energy per Thunder Strike",
+      "zh-TW": "每次雷擊額外終結技能量"
+     },
+     "first": "6",
+     "last": "6"
+    },
+    {
+     "name": {
+      "en": "Sunderblade Limit",
+      "zh-TW": "青霆劍數量限制"
+     },
+     "first": "9",
+     "last": "9"
+    },
+    {
+     "name": {
+      "en": "Sunderblade Duration (s)",
+      "zh-TW": "青霆劍存在時間（秒）"
+     },
+     "first": "36",
+     "last": "36"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: Thunder Strike DMG Multiplier",
+      "zh-TW": "終結技期間雷擊傷害倍率"
+     },
+     "first": "36%",
+     "last": "81%"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: Bonus DMG Multiplier per Status Level of Electrification Consumed",
+      "zh-TW": "終結技期間消耗每級導電額外傷害倍率"
+     },
+     "first": "8%",
+     "last": "18%"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Breath of Transformation",
+    "zh-TW": "一息萬變",
+    "zh-CN": "一息万变"
+   },
+   "cost": 0,
+   "cooldown": [
+    18,
+    17
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "160%",
+     "last": "360%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Additional Ultimate Energy per Infliction Stack",
+      "zh-TW": "消耗每層附著額外終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: DMG Multiplier",
+      "zh-TW": "終結技期間傷害倍率"
+     },
+     "first": "240%",
+     "last": "540%"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Smiting Tempest",
+    "zh-TW": "萬鈞風雷",
+    "zh-CN": "万钧风雷"
+   },
+   "cost": 240,
+   "cooldown": [
+    15,
+    15
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Duration (s)",
+      "zh-TW": "持續時間（秒）"
+     },
+     "first": "25",
+     "last": "25"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: BATK SEQ 1 Multiplier",
+      "zh-TW": "終結技期間普攻第一段倍率"
+     },
+     "first": "67%",
+     "last": "150%"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: BATK SEQ 2 Multiplier",
+      "zh-TW": "終結技期間普攻第二段倍率"
+     },
+     "first": "94%",
+     "last": "210%"
+    },
+    {
+     "name": {
+      "en": "During Ultimate: BATK SEQ 3 Multiplier",
+      "zh-TW": "終結技期間普攻第三段倍率"
+     },
+     "first": "134%",
+     "last": "300%"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Force of Nature",
+    "zh-TW": "天地造化",
+    "zh-CN": "天地造化"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Ordained by Heaven",
+    "zh-TW": "承天之佑",
+    "zh-CN": "承天之佑"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Four Symbols of Harmony",
+    "zh-TW": "和合四象",
+    "zh-CN": "和合四象"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Acuity of Fine Details",
+    "zh-TW": "通元識微",
+    "zh-CN": "通元识微"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Sense and Response",
+    "zh-TW": "一感一應",
+    "zh-CN": "一感一应"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Absolute Composure",
+    "zh-TW": "千定萬定",
+    "zh-CN": "千定万定"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Storm of Transformation",
+    "zh-TW": "風雲之變",
+    "zh-CN": "风云之变"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 10,
+   "agi": 10,
+   "int": 17,
+   "will": 24,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 99,
+   "agi": 99,
+   "int": 123,
+   "will": 184,
+   "atk": 326,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Triphasic Nanoflake",
+      "zh-TW": "三相奈米片",
+      "zh-CN": "三相纳米片"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

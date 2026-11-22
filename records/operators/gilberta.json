@@ -1,0 +1,512 @@
+{
+ "slug": "gilberta",
+ "gameId": "chr_0013_aglina",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/gilberta",
+ "officialKey": "gilberta",
+ "name": {
+  "en": "Gilberta",
+  "zh-TW": "潔爾佩塔",
+  "zh-CN": "洁尔佩塔"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Supporter",
+  "zh-TW": "輔助",
+  "zh-CN": "辅助"
+ },
+ "element": {
+  "en": "Nature",
+  "zh-TW": "自然",
+  "zh-CN": "自然"
+ },
+ "weapon": {
+  "en": "Arts Unit",
+  "zh-TW": "施術單元",
+  "zh-CN": "施术单元"
+ },
+ "mainAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "subAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "faction": {
+  "en": "Rhodes Island",
+  "zh-TW": "羅德島",
+  "zh-CN": "罗德岛"
+ },
+ "race": {
+  "en": "Vulpo",
+  "zh-TW": "沃爾珀",
+  "zh-CN": "沃尔珀"
+ },
+ "voice": {
+  "en": {
+   "chi": "Wang Xiaotong",
+   "eng": "Anna Devlin",
+   "jap": "Ohashi Ayaka",
+   "kor": "Bang Si-u"
+  },
+  "zh-TW": {
+   "chi": "王曉彤",
+   "eng": "Anna Devlin",
+   "jap": "大橋彩香",
+   "kor": "房翅于"
+  },
+  "zh-CN": {
+   "chi": "王晓彤",
+   "eng": "Anna Devlin",
+   "jap": "大桥彩香",
+   "kor": "房翅于"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Arcane Staff: Beam Cohesion Arts",
+    "zh-TW": "秘杖·束能技藝",
+    "zh-CN": "秘杖·束能技艺"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "30%",
+     "last": "68%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "36%",
+     "last": "81%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "41%",
+     "last": "91%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "50%",
+     "last": "112%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Arcane Staff: Gravity Mode",
+    "zh-TW": "秘杖·引力模式",
+    "zh-CN": "秘杖·引力模式"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Gravity Pull DMG Multiplier",
+      "zh-TW": "牽引傷害倍率"
+     },
+     "first": "97%",
+     "last": "219%"
+    },
+    {
+     "name": {
+      "en": "Explosion DMG Multiplier",
+      "zh-TW": "爆炸傷害倍率"
+     },
+     "first": "58%",
+     "last": "130%"
+    },
+    {
+     "name": {
+      "en": "Explosion Stagger",
+      "zh-TW": "爆炸失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Arcane Staff: Matrix Displacement",
+    "zh-TW": "秘杖·矩陣位移",
+    "zh-CN": "秘杖·矩阵位移"
+   },
+   "cost": 0,
+   "cooldown": [
+    20,
+    19
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "140%",
+     "last": "315%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Arcane Staff: Gravity Field",
+    "zh-TW": "秘杖·重力場",
+    "zh-CN": "秘杖·重力场"
+   },
+   "cost": 90,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "333%",
+     "last": "750%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Field Duration (s)",
+      "zh-TW": "力場持續時間（秒）"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Slow",
+      "zh-TW": "緩速效果"
+     },
+     "first": "80%",
+     "last": "80%"
+    },
+    {
+     "name": {
+      "en": "Base Arts Susceptibility",
+      "zh-TW": "基礎法術脆弱效果"
+     },
+     "first": "18%",
+     "last": "30%"
+    },
+    {
+     "name": {
+      "en": "Arts Susceptibility Boost per Vulnerability",
+      "zh-TW": "每層破防提升法術脆弱"
+     },
+     "first": "1.8%",
+     "last": "3%"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Messenger's Song",
+    "zh-TW": "信使的歌聲",
+    "zh-CN": "信使的歌声"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Late Reply",
+    "zh-TW": "遲來的回信",
+    "zh-CN": "迟来的回信"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Above the Clouds",
+    "zh-TW": "雲層之上",
+    "zh-CN": "云层之上"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Wind Walker",
+    "zh-TW": "乘風而行",
+    "zh-CN": "乘风而行"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Quick, Gentle Steps",
+    "zh-TW": "輕盈腳步",
+    "zh-CN": "轻盈脚步"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Dances with Clouds",
+    "zh-TW": "雲間舞踏",
+    "zh-CN": "云间舞踏"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Special Mail",
+    "zh-TW": "特別信件",
+    "zh-CN": "特别信件"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 9,
+   "agi": 9,
+   "int": 16,
+   "will": 20,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 89,
+   "agi": 92,
+   "int": 127,
+   "will": 171,
+   "atk": 329,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Tachyon Screening Lattice",
+      "zh-TW": "迅子遴撿晶格",
+      "zh-CN": "快子遴捡晶格"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

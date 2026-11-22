@@ -1,0 +1,496 @@
+{
+ "slug": "antal",
+ "gameId": "chr_0023_antal",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/antal",
+ "officialKey": "antal",
+ "name": {
+  "en": "Antal",
+  "zh-TW": "安塔爾",
+  "zh-CN": "安塔尔"
+ },
+ "rarity": 4,
+ "class": {
+  "en": "Supporter",
+  "zh-TW": "輔助",
+  "zh-CN": "辅助"
+ },
+ "element": {
+  "en": "Electric",
+  "zh-TW": "電磁",
+  "zh-CN": "电磁"
+ },
+ "weapon": {
+  "en": "Arts Unit",
+  "zh-TW": "施術單元",
+  "zh-CN": "施术单元"
+ },
+ "mainAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "subAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "faction": {
+  "en": "Endfield Industries",
+  "zh-TW": "終末地工業",
+  "zh-CN": "终末地工业"
+ },
+ "race": {
+  "en": "Savra",
+  "zh-TW": "薩弗拉",
+  "zh-CN": "萨弗拉"
+ },
+ "voice": {
+  "en": {
+   "chi": "Liu Yuxuan",
+   "eng": "Jacob Craner",
+   "jap": "Takeuchi Shunsuke",
+   "kor": "Lee Gyu-chang"
+  },
+  "zh-TW": {
+   "chi": "劉雨軒",
+   "eng": "Jacob Craner",
+   "jap": "武內駿輔",
+   "kor": "李奎昌"
+  },
+  "zh-CN": {
+   "chi": "刘雨轩",
+   "eng": "Jacob Craner",
+   "jap": "武内骏辅",
+   "kor": "李奎昌"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Exchange Current",
+    "zh-TW": "交換電流",
+    "zh-CN": "交换电流"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "23%",
+     "last": "52%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "28%",
+     "last": "63%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "34%",
+     "last": "77%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "51%",
+     "last": "115%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Specified Research Subject",
+    "zh-TW": "指定研究對象",
+    "zh-CN": "指定研究对象"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "89%",
+     "last": "200%"
+    },
+    {
+     "name": {
+      "en": "Duration (s)",
+      "zh-TW": "持續時間（秒）"
+     },
+     "first": "60",
+     "last": "60"
+    },
+    {
+     "name": {
+      "en": "Electric Susceptibility",
+      "zh-TW": "電磁脆弱效果"
+     },
+     "first": "5%",
+     "last": "10%"
+    },
+    {
+     "name": {
+      "en": "Heat Susceptibility",
+      "zh-TW": "灼熱脆弱效果"
+     },
+     "first": "5%",
+     "last": "10%"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "EMP Test Site",
+    "zh-TW": "磁暴實驗場",
+    "zh-CN": "磁暴试验场"
+   },
+   "cost": 0,
+   "cooldown": [
+    25,
+    24
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "151%",
+     "last": "340%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Overclocked Moment",
+    "zh-TW": "超頻時刻",
+    "zh-CN": "超频时刻"
+   },
+   "cost": 100,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Electric Amp",
+      "zh-TW": "電磁增幅效果"
+     },
+     "first": "8%",
+     "last": "20%"
+    },
+    {
+     "name": {
+      "en": "Heat Amp",
+      "zh-TW": "灼熱增幅效果"
+     },
+     "first": "8%",
+     "last": "20%"
+    },
+    {
+     "name": {
+      "en": "Duration (s)",
+      "zh-TW": "持續時間（秒）"
+     },
+     "first": "12",
+     "last": "12"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Improviser",
+    "zh-TW": "即興發揮",
+    "zh-CN": "即兴发挥"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Subconscious Act",
+    "zh-TW": "下意識",
+    "zh-CN": "下意识"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Arts Talent",
+    "zh-TW": "術法天分",
+    "zh-CN": "术法天分"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Improved Automation",
+    "zh-TW": "自動化改良",
+    "zh-CN": "自动化改良"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Applied Originium Theory",
+    "zh-TW": "源石理論應用",
+    "zh-CN": "源石理论应用"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Granny's Reminder",
+    "zh-TW": "奶奶的叮囑",
+    "zh-CN": "奶奶的叮嘱"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "High Specs Tech Tester",
+    "zh-TW": "高規格技術測試",
+    "zh-CN": "高规格技术测试"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 15,
+   "agi": 9,
+   "int": 15,
+   "will": 9,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 129,
+   "agi": 86,
+   "int": 165,
+   "will": 82,
+   "atk": 297,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Metadiastima Photoemission Tube",
+      "zh-TW": "超距輝映管",
+      "zh-CN": "超距辉映管"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

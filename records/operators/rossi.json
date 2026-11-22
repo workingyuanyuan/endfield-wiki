@@ -1,0 +1,568 @@
+{
+ "slug": "rossi",
+ "gameId": "chr_0028_wulfa",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/rossi",
+ "officialKey": "rossi",
+ "name": {
+  "en": "Rossi",
+  "zh-TW": "洛西",
+  "zh-CN": "洛茜"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Guard",
+  "zh-TW": "近衛",
+  "zh-CN": "近卫"
+ },
+ "element": {
+  "en": "Physical",
+  "zh-TW": "物理",
+  "zh-CN": "物理"
+ },
+ "weapon": {
+  "en": "Sword",
+  "zh-TW": "單手劍",
+  "zh-CN": "单手剑"
+ },
+ "mainAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "subAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "faction": {
+  "en": "Endfield Industries",
+  "zh-TW": "終末地工業",
+  "zh-CN": "终末地工业"
+ },
+ "race": {
+  "en": "Lupo",
+  "zh-TW": "魯珀",
+  "zh-CN": "鲁珀"
+ },
+ "voice": {
+  "en": {
+   "chi": "Misty",
+   "eng": "Giada Sabellico",
+   "jap": "Hidaka Rina",
+   "kor": "Lee Joo-eun"
+  },
+  "zh-TW": {
+   "chi": "吳哲茹",
+   "eng": "Giada Sabellico",
+   "jap": "日高里菜",
+   "kor": "李主恩"
+  },
+  "zh-CN": {
+   "chi": "吴哲茹",
+   "eng": "Giada Sabellico",
+   "jap": "日高里菜",
+   "kor": "李主恩"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Seething Wolfblood",
+    "zh-TW": "沸騰狼血",
+    "zh-CN": "沸腾狼血"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "27%",
+     "last": "61%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "32%",
+     "last": "71%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "34%",
+     "last": "77%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "41%",
+     "last": "91%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "50%",
+     "last": "113%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Crimson Shadow",
+    "zh-TW": "血紅之影",
+    "zh-CN": "血红之影"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "85%",
+     "last": "192%"
+    },
+    {
+     "name": {
+      "en": "SEQ 1 Stagger",
+      "zh-TW": "第一段失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "128%",
+     "last": "288%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 Stagger",
+      "zh-TW": "第二段失衡值"
+     },
+     "first": "10",
+     "last": "15"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Moment of Blazing Shadow",
+    "zh-TW": "燎影時刻",
+    "zh-CN": "燎影时刻"
+   },
+   "cost": 0,
+   "cooldown": [
+    15,
+    14
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "67%",
+     "last": "150%"
+    },
+    {
+     "name": {
+      "en": "SEQ 1 Ultimate Energy Gain",
+      "zh-TW": "第一段獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "133%",
+     "last": "300%"
+    },
+    {
+     "name": {
+      "en": "Bonus DMG Multiplier per Infliction Stack",
+      "zh-TW": "消耗每層附著額外傷害倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 Stagger",
+      "zh-TW": "第二段失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Critical Rate",
+      "zh-TW": "暴擊率提升"
+     },
+     "first": "15%",
+     "last": "25%"
+    },
+    {
+     "name": {
+      "en": "Critical DMG Boost",
+      "zh-TW": "暴擊傷害提升"
+     },
+     "first": "30%",
+     "last": "50%"
+    },
+    {
+     "name": {
+      "en": "Buff Duration (s)",
+      "zh-TW": "增益效果的持續時間（秒）"
+     },
+     "first": "15",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 Ultimate Energy Gain",
+      "zh-TW": "第二段獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "\"Razorclaw\" Ambuscade",
+    "zh-TW": "「利爪」奇襲",
+    "zh-CN": "“利爪”奇袭"
+   },
+   "cost": 110,
+   "cooldown": [
+    10,
+    10
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Stab Attack Total DMG Multiplier",
+      "zh-TW": "戳擊總傷害倍率"
+     },
+     "first": "275%",
+     "last": "600%"
+    },
+    {
+     "name": {
+      "en": "SEQ 1 Slash DMG Multiplier",
+      "zh-TW": "第一段斬擊傷害倍率"
+     },
+     "first": "111%",
+     "last": "250%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 Slash DMG Multiplier",
+      "zh-TW": "第二段斬擊傷害倍率"
+     },
+     "first": "333%",
+     "last": "750%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "25",
+     "last": "25"
+    },
+    {
+     "name": {
+      "en": "Critical DMG Boost",
+      "zh-TW": "暴擊傷害提升"
+     },
+     "first": "60%",
+     "last": "60%"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Nicks and Scratches",
+    "zh-TW": "斫痕",
+    "zh-CN": "斫痕"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Seething Blood",
+    "zh-TW": "沸血",
+    "zh-CN": "沸血"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Origin of Admiration",
+    "zh-TW": "憧憬的起點",
+    "zh-CN": "憧憬的起点"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Gap to Perfection",
+    "zh-TW": "理想的距離",
+    "zh-CN": "理想的距离"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Tangible Duties",
+    "zh-TW": "有形的責任",
+    "zh-CN": "有形的责任"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Innocent Wish",
+    "zh-TW": "純真的心願",
+    "zh-CN": "纯真的心愿"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Legendary Destination",
+    "zh-TW": "傳說的終點",
+    "zh-CN": "传说的终点"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 9,
+   "agi": 23,
+   "int": 14,
+   "will": 9,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 97,
+   "agi": 176,
+   "int": 118,
+   "will": 89,
+   "atk": 323,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Quadrant Fitting Fluid",
+      "zh-TW": "象限擬合液",
+      "zh-CN": "象限拟合液"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

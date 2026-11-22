@@ -1,0 +1,479 @@
+{
+ "slug": "perlica",
+ "gameId": "chr_0004_pelica",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/perlica",
+ "officialKey": "perlica",
+ "name": {
+  "en": "Perlica",
+  "zh-TW": "佩麗卡",
+  "zh-CN": "佩丽卡"
+ },
+ "rarity": 5,
+ "class": {
+  "en": "Caster",
+  "zh-TW": "術師",
+  "zh-CN": "术师"
+ },
+ "element": {
+  "en": "Electric",
+  "zh-TW": "電磁",
+  "zh-CN": "电磁"
+ },
+ "weapon": {
+  "en": "Arts Unit",
+  "zh-TW": "施術單元",
+  "zh-CN": "施术单元"
+ },
+ "mainAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "subAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "faction": {
+  "en": "Endfield Industries",
+  "zh-TW": "終末地工業",
+  "zh-CN": "终末地工业"
+ },
+ "race": {
+  "en": "Liberi",
+  "zh-TW": "黎博利",
+  "zh-CN": "黎博利"
+ },
+ "voice": {
+  "en": {
+   "chi": "Chen Tingting",
+   "eng": "Jane Jackson",
+   "jap": "Wakayama Shion",
+   "kor": "Yu Hye-ji"
+  },
+  "zh-TW": {
+   "chi": "陳婷婷",
+   "eng": "Jane Jackson",
+   "jap": "若山詩音",
+   "kor": "柳惠知"
+  },
+  "zh-CN": {
+   "chi": "陈婷婷",
+   "eng": "Jane Jackson",
+   "jap": "若山诗音",
+   "kor": "柳惠知"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Protocol α: Breach",
+    "zh-TW": "協議α·突破",
+    "zh-CN": "协议α·突破"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "25%",
+     "last": "57%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "30%",
+     "last": "68%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "37%",
+     "last": "84%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "57%",
+     "last": "127%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Protocol ω: Strike",
+    "zh-TW": "協議ω·雷擊",
+    "zh-CN": "协议ω·雷击"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "178%",
+     "last": "400%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Instant Protocol: Chain",
+    "zh-TW": "即時協議·閃鏈",
+    "zh-CN": "即时协议·闪链"
+   },
+   "cost": 0,
+   "cooldown": [
+    20,
+    19
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Electrify Duration (s)",
+      "zh-TW": "導電時長（秒）"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Protocol ε: 70.41K",
+    "zh-TW": "協議ε·70.41κ",
+    "zh-CN": "协议ε·70.41κ"
+   },
+   "cost": 80,
+   "cooldown": [
+    10,
+    10
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "445%",
+     "last": "1000%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Obliteration Protocol",
+    "zh-TW": "殲滅協議",
+    "zh-CN": "歼灭协议"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Cycle Protocol",
+    "zh-TW": "循環協議",
+    "zh-CN": "循环协议"
+   },
+   "promotions": [
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Crisis Handling",
+    "zh-TW": "危機處理",
+    "zh-CN": "危机处理"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Negotiation Tactics",
+    "zh-TW": "談判策略",
+    "zh-CN": "谈判策略"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Supervisory Duties",
+    "zh-TW": "監督重任",
+    "zh-CN": "监督重任"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Constant Guidance",
+    "zh-TW": "長效導流",
+    "zh-CN": "长效导流"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Reentry Control",
+    "zh-TW": "再入控制",
+    "zh-CN": "再入控制"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 9,
+   "agi": 9,
+   "int": 21,
+   "will": 13,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 91,
+   "agi": 93,
+   "int": 161,
+   "will": 113,
+   "atk": 303,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Tachyon Screening Lattice",
+      "zh-TW": "迅子遴撿晶格",
+      "zh-CN": "快子遴捡晶格"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

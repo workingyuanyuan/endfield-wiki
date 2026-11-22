@@ -1,0 +1,512 @@
+{
+ "slug": "ember",
+ "gameId": "chr_0009_azrila",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/ember",
+ "officialKey": "ember",
+ "name": {
+  "en": "Ember",
+  "zh-TW": "餘燼",
+  "zh-CN": "余烬"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Defender",
+  "zh-TW": "重裝",
+  "zh-CN": "重装"
+ },
+ "element": {
+  "en": "Heat",
+  "zh-TW": "灼熱",
+  "zh-CN": "灼热"
+ },
+ "weapon": {
+  "en": "Greatsword",
+  "zh-TW": "雙手劍",
+  "zh-CN": "双手剑"
+ },
+ "mainAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "subAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "faction": {
+  "en": "Order of Steel Oath",
+  "zh-TW": "鐵誓軍",
+  "zh-CN": "铁誓军"
+ },
+ "race": {
+  "en": "Sankta",
+  "zh-TW": "薩科塔",
+  "zh-CN": "萨科塔"
+ },
+ "voice": {
+  "en": {
+   "chi": "Xu Hui",
+   "eng": "Rhiannon Moushall",
+   "jap": "Komatsu Mikako",
+   "kor": "Yi Sae-ah"
+  },
+  "zh-TW": {
+   "chi": "徐慧",
+   "eng": "Rhiannon Moushall",
+   "jap": "小松未可子",
+   "kor": "李詩雅"
+  },
+  "zh-CN": {
+   "chi": "徐慧",
+   "eng": "Rhiannon Moushall",
+   "jap": "小松未可子",
+   "kor": "李诗雅"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Sword Art of Assault",
+    "zh-TW": "陷陣劍術",
+    "zh-CN": "陷阵剑术"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "38%",
+     "last": "86%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "54%",
+     "last": "120%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "66%",
+     "last": "149%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "82%",
+     "last": "184%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Forward March",
+    "zh-TW": "進軍",
+    "zh-CN": "进军"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "173%",
+     "last": "390%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Additional Stagger Dealt When Hit",
+      "zh-TW": "受擊後額外造成失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Frontline Support",
+    "zh-TW": "前線援護",
+    "zh-CN": "前线援护"
+   },
+   "cost": 0,
+   "cooldown": [
+    19,
+    18
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "102%",
+     "last": "230%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Base Treatment",
+      "zh-TW": "基礎治療值"
+     },
+     "first": "300",
+     "last": "675"
+    },
+    {
+     "name": {
+      "en": "Treatment Increase per Will",
+      "zh-TW": "每點意志增加的治療值"
+     },
+     "first": "0.7",
+     "last": "1.58"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Re-Ignited Oath",
+    "zh-TW": "重燃誓約",
+    "zh-CN": "重燃誓约"
+   },
+   "cost": 100,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "289%",
+     "last": "650%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "25",
+     "last": "25"
+    },
+    {
+     "name": {
+      "en": "Shield Conversion Ratio (HP)",
+      "zh-TW": "護盾轉化比例（生命值）"
+     },
+     "first": "18%",
+     "last": "25%"
+    },
+    {
+     "name": {
+      "en": "Shield Duration (s)",
+      "zh-TW": "護盾持續時間（秒）"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Inflamed for the Assault",
+    "zh-TW": "陷陣之志",
+    "zh-CN": "陷阵之志"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Pay the Ferric Price",
+    "zh-TW": "以鐵還鐵",
+    "zh-CN": "以铁还铁"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Nomadic Fort",
+    "zh-TW": "移動要塞",
+    "zh-CN": "移动要塞"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Steel-Hardened Veteran",
+    "zh-TW": "百戰成鋼",
+    "zh-CN": "百战成钢"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Indomitable Front",
+    "zh-TW": "不屈陣線",
+    "zh-CN": "不屈阵线"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Undying Embers",
+    "zh-TW": "薪火不息",
+    "zh-CN": "薪火不息"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "The Steel Oath",
+    "zh-TW": "鐵誓",
+    "zh-CN": "铁誓"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 21,
+   "agi": 9,
+   "int": 8,
+   "will": 13,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 176,
+   "agi": 96,
+   "int": 86,
+   "will": 120,
+   "atk": 323,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "D96 Steel Sample 4",
+      "zh-TW": "D96鋼樣品四",
+      "zh-CN": "D96钢样品四"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "estella",
+ "intro": {
+  "en": "Estella handles intel gathering and communications for Endfield's Operations Team Z7, hoping her work makes life easier despite her weak stamina and constant misfortune.",
+  "zh-TW": "埃特拉是終末地 Z7 行動組成員，負責情報收集與通訊；儘管體力不佳且常伴不幸，仍希望透過工作讓身邊的人過得更輕鬆。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 4 hits. While she is the controlled operator, her Final Strike also deals 17 Stagger.",
+   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊會額外造成 17 點失衡。"
+  },
+  "battle": {
+   "en": "Thrusts her lance to send a freezing sound wave in a straight line, dealing Cryo damage and applying Cryo Infliction to enemies hit.",
+   "zh-TW": "向前刺出長槍激發製冷聲波，對直線上的敵人造成寒冷傷害並施加寒冷附著。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy suffers Solidification. She dashes beside the target to deal Physical damage and forcibly Lift enemies in a small area; hitting a target with Solidification deals extra damage and applies Physical Susceptibility.",
+   "zh-TW": "觸發條件：有敵人進入凍結狀態。迅速移至敵人身邊，對小範圍內敵人造成物理傷害並強制擊飛；命中凍結目標時追加傷害並施加物理脆弱。"
+  },
+  "ultimate": {
+   "en": "Slams her spear shaft down to deal Physical damage to enemies in a circle around her, forcibly applying Lift to any with Physical Susceptibility.",
+   "zh-TW": "全力下砸槍柄對自身周圍圓形範圍內的敵人造成物理傷害，並強制擊飛處於物理脆弱狀態的敵人。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Triggering Shatter makes the next cast of Onomatopoeia return 7.5 SP (15 SP at Promotion II); this effect does not stack.",
+   "zh-TW": "觸發碎冰效果後，下一次施放凝聲會返還 7.5 點技力（精英化II 為 15 點），無法疊加。"
+  },
+  {
+   "en": "Estella is immune to Cryo Infliction and takes 10% less Cryo damage (20% less at Promotion III).",
+   "zh-TW": "自身不會受到寒冷附著，且承受的寒冷傷害 -10%（精英化III 為 -20%）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Physical Susceptibility applied by Distortion lasts 3 s longer.",
+   "zh-TW": "失真施加的物理脆弱持續時間延長 3 秒。"
+  },
+  {
+   "en": "Tremolo costs 10% less Ultimate Energy.",
+   "zh-TW": "震音所需的終結技能量 -10%。"
+  },
+  {
+   "en": "Onomatopoeia's freezing sound wave travels 50% farther and deals +40% damage to the first enemy hit.",
+   "zh-TW": "凝聲激發的製冷聲波飛行距離 +50%，對首個命中的敵人傷害 +40%。"
+  },
+  {
+   "en": "Will +10, Strength +10.",
+   "zh-TW": "意志 +10，力量 +10。"
+  },
+  {
+   "en": "Applying Solidification to an enemy grants Estella 5 Ultimate Energy, at most once every 1 s.",
+   "zh-TW": "有敵人被施加凍結時，自身獲得 5 點終結技能量，每 1 秒最多觸發一次。"
+  }
+ ]
+}

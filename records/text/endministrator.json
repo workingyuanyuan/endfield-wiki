@@ -1,0 +1,57 @@
+{
+ "slug": "endministrator",
+ "intro": {
+  "en": "The Endministrator is Endfield Industries' trump card and a legendary guardian of Talos-II; the mastery of Originium and the Protocol Network, and the need for periodic hibernation, are among Endfield's closest secrets.",
+  "zh-TW": "管理員是終末地工業極為神秘的底牌，也是塔衛二歷史上多次守護文明的傳奇人物，能掌控源石與協議網路並需定期沉睡。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 5 hits. As the controlled operator, the Endministrator's Final Strike also deals 18 Stagger.",
+   "zh-TW": "最多 5 段的物理傷害連擊。作為主控幹員時，重擊會額外造成 18 點失衡。"
+  },
+  "battle": {
+   "en": "Releases a burst of Originium Arts over an area in front, dealing Physical damage and applying Crush.",
+   "zh-TW": "以源石技藝衝擊前方一定範圍內的敵人，造成物理傷害並施加猛擊。"
+  },
+  "combo": {
+   "en": "Trigger: another teammate deals damage with a combo skill. Rushes to the enemy for Physical damage and attaches Originium Crystals that briefly seal the target; applying Physical Status or Vulnerability consumes the crystals for extra Physical damage.",
+   "zh-TW": "觸發條件：其他隊友的連攜技造成傷害。衝至敵人身邊造成物理傷害並附著源石結晶使其短暫封印；施加物理異常或破防會消耗結晶並追加物理傷害。"
+  },
+  "ultimate": {
+   "en": "Bombards a fan-shaped area with Originium Arts for heavy Physical damage. If an enemy has Originium Crystals attached, the skill consumes them to deal an extra hit of Physical damage.",
+   "zh-TW": "以源石技藝轟擊前方扇形範圍，造成大量物理傷害。若敵人附著源石結晶，會消耗結晶並額外造成一次物理傷害。"
+  }
+ },
+ "talents": [
+  {
+   "en": "When Originium Crystals attached to an enemy are consumed, the Endministrator gains +15% ATK (+30% at Promotion II) for 15 s (does not stack).",
+   "zh-TW": "敵人身上的源石結晶被消耗後，自身攻擊力 +15%（精英化II 為 +30%），持續 15 秒，無法疊加。"
+  },
+  {
+   "en": "Enemies with attached Originium Crystals take +10% Physical damage (+20% at Promotion III).",
+   "zh-TW": "附著源石結晶的敵人受到的物理傷害 +10%（精英化III 為 +20%）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "When Constructive Sequence consumes Originium Crystals, it returns 50 SP.",
+   "zh-TW": "構成序列消耗源石結晶時，返還 50 點技力。"
+  },
+  {
+   "en": "When Essence Disintegration grants the Endministrator its ATK buff, other allied operators receive half of that buff.",
+   "zh-TW": "本質瓦解使自身獲得攻擊力提升時，其他友方幹員會獲得一半的提升效果。"
+  },
+  {
+   "en": "When Bombardment Sequence consumes Originium Crystals, the Endministrator gains 15 Ultimate Energy, unaffected by other bonuses.",
+   "zh-TW": "轟擊序列消耗源石結晶後，自身獲得 15 點終結技能量，且不受其他加成影響。"
+  },
+  {
+   "en": "Arts Intensity +16, and Bombardment Sequence deals 1.2 times its damage.",
+   "zh-TW": "源石技藝強度 +16，轟擊序列的傷害提升為 1.2 倍。"
+  },
+  {
+   "en": "Shown as ??? in the game; no effect is given.",
+   "zh-TW": "遊戲內顯示為「？？？」，沒有效果說明。"
+  }
+ ]
+}

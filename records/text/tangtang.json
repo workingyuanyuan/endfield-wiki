@@ -1,0 +1,57 @@
+{
+ "slug": "tangtang",
+ "intro": {
+  "en": "Tangtang is the straightforward, freedom-loving and fiercely loyal Supreme Chief of Qingbo Stockade who joined Endfield Industries to find answers and build a better future for her home.",
+  "zh-TW": "湯湯是清波寨的直爽大當家，重義氣且熱愛自由，為了尋找答案並發展清波寨而加入終末地工業。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Cryo combo of up to 5 hits. The final strike deals 18 Stagger while Tangtang is the controlled operator.",
+   "zh-TW": "最多 5 段的寒冷傷害連擊。作為主控幹員時，重擊造成 18 點失衡。"
+  },
+  "battle": {
+   "en": "Tangtang leaps from the water for a close Cryo shot and spawns a Waterspout; all nearby Whirlpools are consumed into extra Waterspouts, and the number formed sets the SP returned. Each Waterspout applies 1 stack of Cryo Infliction and deals Cryo Battle Skill damage over time; multiple Waterspouts also apply Arts Susceptibility without stacking Cryo Infliction.",
+   "zh-TW": "從水中躍出近距射擊造成寒冷傷害並掀起水龍捲，同時消耗附近所有渦流形成額外水龍捲並依數量返還技力。水龍捲對範圍內敵人施加 1 層寒冷附著並持續造成視為戰技傷害的寒冷傷害；形成多個時額外施加法術脆弱，但不重複施加寒冷附著。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy receives Cryo Infliction or takes Arts Burst damage. Tangtang fires a piercing jet stream for Cryo damage and spawns a Whirlpool, with at most 2 Whirlpools active on the battlefield.",
+   "zh-TW": "觸發條件：敵人被施加寒冷附著或受到法術爆發傷害。釋放強力水流貫穿前方敵人造成寒冷傷害並生成一處渦流，場上最多同時存在 2 處渦流。"
+  },
+  "ultimate": {
+   "en": "Tangtang unleashes an OLDEN STARE that briefly applies Immobilization and deals Cryo damage over time in an area, finishing with a rogue wave for heavy Cryo damage. A dive attack by the controlled operator inside OLDEN STARE ends it early and triggers a stronger rogue wave.",
+   "zh-TW": "揭開眼罩釋放古老圖形，對範圍內敵人施加一段時間的定身並持續造成寒冷傷害，演化結束時降下巨浪造成大量寒冷傷害。若主控幹員在古老圖形內使用下墜攻擊，會提前結束演化並降下傷害更高的巨浪。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Within 5 m of a Whirlpool, allied operators gain 10% Haste (20% at Promotion II) and enemies take 20% Slow (40% at Promotion II), lingering for 3 s after leaving.",
+   "zh-TW": "在渦流周圍 5 公尺內，友方幹員獲得 10% 加速（精英化II 為 20%），敵人受到 20% 緩速（精英化II 為 40%），離開後仍持續 3 秒。"
+  },
+  {
+   "en": "Ending OLDEN STARE early with the controlled operator's dive attack spawns a Waterspout and converts all nearby Whirlpools into extra Waterspouts with IMA WAVERIDAAH!'s effects and +40% damage (+60% at Promotion III).",
+   "zh-TW": "主控幹員在古老圖形中以下墜攻擊提前結束演化時，會生成水龍捲並將附近所有渦流轉為額外水龍捲，效果同踏潮捲浪！且傷害 +40%（精英化III 為 +60%）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "RIVER, TO ME! deals 1.2 times its damage with a 2 s shorter cooldown, and IMA WAVERIDAAH! returns 5 extra SP per Whirlpool converted into a Waterspout.",
+   "zh-TW": "河水，助我！的傷害倍率提升為 1.2 倍且冷卻時間 -2 秒，踏潮捲浪！每消耗一處渦流形成水龍捲額外返還 5 點技力。"
+  },
+  {
+   "en": "Agility +20, Cryo damage +10%.",
+   "zh-TW": "敏捷 +20，寒冷傷害 +10%。"
+  },
+  {
+   "en": "IMA WAVERIDAAH! deals 1.1 times its damage, and creating multiple Waterspouts increases its Arts Susceptibility by +5%.",
+   "zh-TW": "踏潮捲浪！的傷害倍率提升為 1.1 倍，同時形成多個水龍捲時的法術脆弱效果額外 +5%。"
+  },
+  {
+   "en": "DA CHIEF SEES YOU! costs 15% less Ultimate Energy.",
+   "zh-TW": "大當家盯著呢！所需的終結技能量 -15%。"
+  },
+  {
+   "en": "DA CHIEF SEES YOU! deals 1.15 times its damage, and Riot Bringer's damage bonus for Waterspouts created by the ultimate increases by +80%.",
+   "zh-TW": "大當家盯著呢！的傷害倍率提升為 1.15 倍，且呼風喚浪對終結技生成的水龍捲傷害加成額外 +80%。"
+  }
+ ]
+}

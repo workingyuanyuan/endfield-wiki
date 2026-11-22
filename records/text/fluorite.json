@@ -1,0 +1,42 @@
+{
+ "slug": "fluorite",
+ "intro": {
+  "en": "Fluorite is a frontier-born sharpshooter on Endfield's Operations Team Z7 who scouts and disrupts enemy lines, relying on street smarts and sharp observation.",
+  "zh-TW": "螢石出身文明環帶邊緣的開拓區，是終末地 Z7 行動組的成員，憑藉精湛銃法、街頭經驗與敏銳觀察力負責偵察與擾亂戰線。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Nature combo of up to 4 hits. The final strike deals 15 Stagger while she is the controlled operator.",
+   "zh-TW": "最多 4 段的自然傷害連擊。作為主控幹員時，重擊造成 15 點失衡。"
+  },
+  "battle": {
+   "en": "Kicks an Improvised Explosive onto a target, applying Slow before it detonates after a short delay for area Nature damage and Nature Infliction. It detonates early if the target is defeated, and at most 1 Improvised Explosive can exist on the field.",
+   "zh-TW": "踢出自製炸彈黏附目標並施加緩速，短暫延遲後爆炸，對範圍內敵人造成自然傷害並施加自然附著。若目標被擊敗會提前引爆，場上同時最多存在 1 個自製炸彈。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy carries at least 2 stacks of Cryo Infliction or Nature Infliction. She shoots that target to cause a special explosion for Nature damage and applies another Arts Infliction of the same element.",
+   "zh-TW": "觸發條件：敵人擁有 2 層及以上寒冷附著或自然附著。射擊目標引發特殊爆炸，造成自然傷害並再次施加該法術附著。"
+  },
+  "ultimate": {
+   "en": "She dashes in an arc while firing 4 rapid Nature hits at the target inside it. If an Improvised Explosive is stuck to the target, it detonates immediately with increased damage and area; if the final hit strikes a foe carrying 2 or more stacks of Cryo Infliction or Nature Infliction, it applies that Arts Infliction again.",
+   "zh-TW": "高速沿弧線移動並向弧內目標連射，造成 4 段自然傷害。若目標黏有自製炸彈，會立刻引爆並提升其爆炸傷害與範圍；若最後一段命中帶有 2 層及以上寒冷附著或自然附著的目標，會再次施加該法術附著。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Fluorite deals 10% more damage to Slowed targets (20% at Promotion II).",
+   "zh-TW": "螢石對處於緩速狀態的目標造成的傷害 +10%（精英化II 為 +20%）。"
+  },
+  {
+   "en": "She has a 20% chance to be immune to Arts damage, then gains 10% ATK (20% at Promotion III) for 10 s; this effect cannot stack.",
+   "zh-TW": "有 20% 機率免疫法術傷害，觸發後自身攻擊力 +10%（精英化III 為 +20%），持續 10 秒，無法疊加。"
+  }
+ ],
+ "potentials": [
+  {"en": "Agility +10, Intellect +10.", "zh-TW": "敏捷 +10，智識 +10。"},
+  {"en": "Unpredictable's chance to ignore Arts damage increases by 10%.", "zh-TW": "捉摸不定的法術傷害免疫機率 +10%。"},
+  {"en": "When Tiny Surprise's Improvised Explosive detonates, it spreads Slow to all enemies hit for 6 s.", "zh-TW": "小驚喜的自製炸彈爆炸後，會將緩速擴散給所有命中的敵人，持續 6 秒。"},
+  {"en": "Apex Prankster costs 10% less Ultimate Energy.", "zh-TW": "巔峰鬧劇所需的終結技能量 -10%。"},
+  {"en": "Whenever Cryo Infliction or Nature Infliction is applied to an enemy, Free Giveaway's cooldown decreases by 1 s, at most once every 1 s.", "zh-TW": "每當敵人被施加寒冷附著或自然附著時，免費贈禮的冷卻時間 -1 秒，每 1 秒最多觸發一次。"}
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "perlica",
+ "intro": {
+  "en": "Perlica is Endfield Industries' Supervisor and official spokesperson, overseeing Protocol-Originium technology and Dijiang while leading the Crisis Team during the Endministrator's hibernation.",
+  "zh-TW": "佩麗卡是終末地工業的監督與官方發言人，負責協議源石技術開發及帝江號管理，並在管理員休眠期間指揮危機處理小組。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Electric combo of up to 4 hits. As the controlled operator, her final strike also deals 15 Stagger.",
+   "zh-TW": "最多 4 段的電磁傷害連擊。作為主控幹員時，重擊額外造成 15 點失衡。"
+  },
+  "battle": {
+   "en": "Calls down a bolt of electro-magnetic energy that deals Electric damage and applies Electric Infliction to enemies in a small area.",
+   "zh-TW": "自空中降下一道電磁能量，對小範圍內敵人造成電磁傷害並施加電磁附著。"
+  },
+  "combo": {
+   "en": "Trigger: the controlled operator lands a Final Strike on an enemy. Bombards the target with electro-magnetic energy for Electric damage and forcibly inflicts temporary Electrification.",
+   "zh-TW": "觸發條件：主控幹員對敵人造成重擊。以積蓄的電磁能量轟擊該目標，造成電磁傷害並強制附加短暫導電。"
+  },
+  "ultimate": {
+   "en": "Teleports a huge piece of orbital debris onto the target area, dealing massive Electric damage to all enemies inside.",
+   "zh-TW": "傳送一塊巨大的軌道漂浮物砸向目標區域，對範圍內所有敵人造成大量電磁傷害。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Deals +20% damage to Staggered enemies (+30% at Promotion II).",
+   "zh-TW": "對處於失衡狀態的敵人造成的傷害 +20%（精英化II 為 +30%）。"
+  },
+  {
+   "en": "When Instant Protocol: Chain hits a Vulnerable enemy, the hit chains 1 more time.",
+   "zh-TW": "即時協議·閃鏈命中處於破防狀態的敵人時，會額外彈射 1 次。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Electrification applied by Instant Protocol: Chain lasts 75% longer.",
+   "zh-TW": "即時協議·閃鏈施加的導電持續時間 +75%。"
+  },
+  {
+   "en": "Protocol ε: 70.41K costs 15% less Ultimate Energy.",
+   "zh-TW": "協議ε·70.41κ所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Applying Electrification gives Perlica ATK +20% for 5 s, stacking up to 2 times.",
+   "zh-TW": "佩麗卡對敵人施加導電後，攻擊力 +20%，持續 5 秒，最多疊加 2 層。"
+  },
+  {
+   "en": "The Arts DMG Taken debuff from Instant Protocol: Chain's Electrification is increased to 1.33 times its original value.",
+   "zh-TW": "即時協議·閃鏈的導電使敵人受到法術傷害提高的效果提升為 1.33 倍。"
+  },
+  {
+   "en": "Protocol ε: 70.41K gains +30% Critical Rate.",
+   "zh-TW": "協議ε·70.41κ的暴擊率 +30%。"
+  }
+ ]
+}

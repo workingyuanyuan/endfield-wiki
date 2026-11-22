@@ -1,0 +1,57 @@
+{
+ "slug": "catcher",
+ "intro": {
+  "en": "Catcher is the youngest yet remarkably mature member of Endfield's Operations Team Z7, drawing on his military training to provide defensive cover and logistical support.",
+  "zh-TW": "卡契爾是終末地 Z7 行動組中最年輕卻沉穩成熟的成員，憑藉完整的軍事訓練負責隊伍的掩護與後勤。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 4 hits. As the controlled operator, his final strike also deals 22 Stagger.",
+   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊會額外造成 22 點失衡。"
+  },
+  "battle": {
+   "en": "He raises a shield to block attacks, granting Protection to himself and nearby operators while returning some SP right away. Taking a hit while blocking triggers a retaliation bash that tries to hit the attacker for Physical damage and 1 stack of Vulnerability.",
+   "zh-TW": "架盾格擋攻擊，為自身與周圍幹員提供庇護並立即返還一定技力。立盾期間受擊便會反擊，嘗試對攻擊者造成物理傷害並施加 1 層破防。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy begins charging a skill, or the controlled operator is hit and drops below 40% HP. He strikes downward for Physical damage and grants shields scaling with DEF to himself and one teammate, prioritizing the controlled operator.",
+   "zh-TW": "觸發條件：敵人開始蓄力，或主控幹員受擊後生命值低於 40%。向下猛擊造成物理傷害，並為自身與另一名隊友（優先主控幹員）施加隨防禦力提高的護盾。"
+  },
+  "ultimate": {
+   "en": "He delivers 2 rapid greatsword slashes for Physical damage and Weakness, then finishes with a heavy downward slam that deals massive Physical damage and Knock Down in an area.",
+   "zh-TW": "揮舞大劍連續斬擊 2 次造成物理傷害並施加虛弱，最後向下猛砸，對範圍內所有敵人造成大量物理傷害並施加倒地。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Catcher gains +1.0 DEF for every 10 Will (+1.2 at Promotion II).",
+   "zh-TW": "每擁有 10 點意志，卡契爾的防禦力 +1.0（精英化II 為 +1.2）。"
+  },
+  {
+   "en": "The final hit of Textbook Assault releases 2 shockwaves that each deal 30% ATK as Physical damage (3 shockwaves at 45% ATK at Promotion III).",
+   "zh-TW": "教科書式猛攻的最後一擊額外產生 2 次衝擊波，每次造成 30% 攻擊力的物理傷害（精英化III 為 3 次、每次 45%）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Hitting an enemy with Rigid Interdiction or Textbook Assault triggers an extra strike for 300 + DEF × 5.0 Physical damage.",
+   "zh-TW": "剛性阻擊與教科書式猛攻命中敵人後，額外追加一次 300 + 防禦力 × 5.0 的物理傷害。"
+  },
+  {
+   "en": "DEF +20, Will +10.",
+   "zh-TW": "防禦力 +20，意志 +10。"
+  },
+  {
+   "en": "Shields from Timely Suppression last 5 s longer.",
+   "zh-TW": "即時壓制提供的護盾持續時間 +5 秒。"
+  },
+  {
+   "en": "Textbook Assault costs 10% less Ultimate Energy.",
+   "zh-TW": "教科書式猛攻所需的終結技能量 -10%。"
+  },
+  {
+   "en": "Rigid Interdiction returns 10 SP on hit while Catcher has a shield active.",
+   "zh-TW": "卡契爾身上存在護盾時，剛性阻擊命中敵人後返還 10 點技力。"
+  }
+ ]
+}

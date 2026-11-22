@@ -1,0 +1,544 @@
+{
+ "slug": "last-rite",
+ "gameId": "chr_0026_lastrite",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/last-rite",
+ "officialKey": "lastrite",
+ "name": {
+  "en": "Last Rite",
+  "zh-TW": "別禮",
+  "zh-CN": "别礼"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Striker",
+  "zh-TW": "突擊",
+  "zh-CN": "突击"
+ },
+ "element": {
+  "en": "Cryo",
+  "zh-TW": "寒冷",
+  "zh-CN": "寒冷"
+ },
+ "weapon": {
+  "en": "Greatsword",
+  "zh-TW": "雙手劍",
+  "zh-CN": "双手剑"
+ },
+ "mainAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "subAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "faction": {
+  "en": "Seš'qa",
+  "zh-TW": "塞什卡",
+  "zh-CN": "塞什卡"
+ },
+ "race": {
+  "en": "Sarkaz",
+  "zh-TW": "薩卡茲",
+  "zh-CN": "萨卡兹"
+ },
+ "voice": {
+  "en": {
+   "chi": "Wu Tong",
+   "eng": "Amber Hood",
+   "jap": "Shiraishi Haruka",
+   "kor": "Lee I-ro"
+  },
+  "zh-TW": {
+   "chi": "閒踏梧桐",
+   "eng": "Amber Hood",
+   "jap": "白石晴香",
+   "kor": "李耳擄"
+  },
+  "zh-CN": {
+   "chi": "闲踏梧桐",
+   "eng": "Amber Hood",
+   "jap": "白石晴香",
+   "kor": "李耳掳"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Dance of Rime",
+    "zh-TW": "嚴霜之舞",
+    "zh-CN": "严霜之舞"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "30%",
+     "last": "68%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "55%",
+     "last": "124%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "68%",
+     "last": "153%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "90%",
+     "last": "203%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Esoteric Legacy of Seš'qa",
+    "zh-TW": "塞什卡的秘傳",
+    "zh-CN": "塞什卡的秘传"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Mirage Additional ATK DMG Multiplier",
+      "zh-TW": "幻影追擊傷害倍率"
+     },
+     "first": "142%",
+     "last": "320%"
+    },
+    {
+     "name": {
+      "en": "SP Return",
+      "zh-TW": "返還技力"
+     },
+     "first": "30",
+     "last": "30"
+    },
+    {
+     "name": {
+      "en": "Duration (s)",
+      "zh-TW": "持續時間（秒）"
+     },
+     "first": "15",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "16",
+     "last": "16"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Winter's Devourer",
+    "zh-TW": "噬冬",
+    "zh-CN": "噬冬"
+   },
+   "cost": 0,
+   "cooldown": [
+    9,
+    8
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Ice Shard DMG Multiplier",
+      "zh-TW": "冰刺傷害倍率"
+     },
+     "first": "71%",
+     "last": "160%"
+    },
+    {
+     "name": {
+      "en": "Slash Base DMG Multiplier",
+      "zh-TW": "斬擊基礎傷害倍率"
+     },
+     "first": "71%",
+     "last": "160%"
+    },
+    {
+     "name": {
+      "en": "Slash Stagger",
+      "zh-TW": "斬擊失衡值"
+     },
+     "first": "15",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "Bonus DMG Multiplier per Infliction Stack",
+      "zh-TW": "消耗每層附著額外傷害倍率"
+     },
+     "first": "107%",
+     "last": "240%"
+    },
+    {
+     "name": {
+      "en": "Base Ultimate Energy Gain",
+      "zh-TW": "基礎獲得終結技能量"
+     },
+     "first": "40",
+     "last": "40"
+    },
+    {
+     "name": {
+      "en": "Additional Ultimate Energy Gain per Infliction Stack",
+      "zh-TW": "消耗每層附著額外獲得終結技能量"
+     },
+     "first": "15",
+     "last": "15"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Vigil Services",
+    "zh-TW": "臨終別禮",
+    "zh-CN": "临终别礼"
+   },
+   "cost": 240,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "178%",
+     "last": "400%"
+    },
+    {
+     "name": {
+      "en": "SEQ 1 Stagger",
+      "zh-TW": "第一段失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "178%",
+     "last": "400%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 Stagger",
+      "zh-TW": "第二段失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SEQ 3 DMG Multiplier",
+      "zh-TW": "第三段傷害倍率"
+     },
+     "first": "356%",
+     "last": "800%"
+    },
+    {
+     "name": {
+      "en": "SEQ 3 Stagger",
+      "zh-TW": "第三段失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Hypothermia",
+    "zh-TW": "失溫症",
+    "zh-CN": "低温症"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Cryogenic Embrittlement",
+    "zh-TW": "失溫脆性",
+    "zh-CN": "低温脆性"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Undertaker's Gift",
+    "zh-TW": "守墓人之贈",
+    "zh-CN": "守墓人之赠"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Absolute Zero Armament",
+    "zh-TW": "零度武裝",
+    "zh-CN": "零度武装"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Overlord of Winter",
+    "zh-TW": "統御嚴冬",
+    "zh-CN": "统御严冬"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Sincere Wake",
+    "zh-TW": "誠摯告別",
+    "zh-CN": "诚挚告别"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Winter is Returning",
+    "zh-TW": "寒風再起",
+    "zh-CN": "寒风再起"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 21,
+   "agi": 8,
+   "int": 9,
+   "will": 15,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 155,
+   "agi": 104,
+   "int": 93,
+   "will": 109,
+   "atk": 332,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Triphasic Nanoflake",
+      "zh-TW": "三相奈米片",
+      "zh-CN": "三相纳米片"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,488 @@
+{
+ "slug": "wulfgard",
+ "gameId": "chr_0006_wolfgd",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/wulfgard",
+ "officialKey": "wulfgard",
+ "name": {
+  "en": "Wulfgard",
+  "zh-TW": "狼衛",
+  "zh-CN": "狼卫"
+ },
+ "rarity": 5,
+ "class": {
+  "en": "Caster",
+  "zh-TW": "術師",
+  "zh-CN": "术师"
+ },
+ "element": {
+  "en": "Heat",
+  "zh-TW": "灼熱",
+  "zh-CN": "灼热"
+ },
+ "weapon": {
+  "en": "Handcannon",
+  "zh-TW": "手銃",
+  "zh-CN": "手铳"
+ },
+ "mainAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "subAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "faction": {
+  "en": "Endfield Industries",
+  "zh-TW": "終末地工業",
+  "zh-CN": "终末地工业"
+ },
+ "race": {
+  "en": "Lupo",
+  "zh-TW": "魯珀",
+  "zh-CN": "鲁珀"
+ },
+ "voice": {
+  "en": {
+   "chi": "Liang Dawei",
+   "eng": "Jacopo Calatroni",
+   "jap": "Maeno Tomoaki",
+   "kor": "Im Hyeok"
+  },
+  "zh-TW": {
+   "chi": "梁達偉",
+   "eng": "Jacopo Calatroni",
+   "jap": "前野智昭",
+   "kor": "任赫"
+  },
+  "zh-CN": {
+   "chi": "梁达伟",
+   "eng": "Jacopo Calatroni",
+   "jap": "前野智昭",
+   "kor": "任赫"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Rapid Fire Akimbo",
+    "zh-TW": "多重連射",
+    "zh-CN": "多重连射"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "30%",
+     "last": "68%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "35%",
+     "last": "79%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "56%",
+     "last": "125%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "68%",
+     "last": "152%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Thermite Tracers",
+    "zh-TW": "灼熱彈痕",
+    "zh-CN": "灼热弹痕"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "102%",
+     "last": "230%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Additional ATK DMG Multiplier",
+      "zh-TW": "追加傷害倍率"
+     },
+     "first": "378%",
+     "last": "850%"
+    },
+    {
+     "name": {
+      "en": "Additional ATK Stagger",
+      "zh-TW": "追加失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Frag Grenade·β",
+    "zh-TW": "爆裂手榴彈·β型",
+    "zh-CN": "爆裂手雷·β型"
+   },
+   "cost": 0,
+   "cooldown": [
+    20,
+    19
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "60%",
+     "last": "135%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Wolven Fury",
+    "zh-TW": "狼之怒",
+    "zh-CN": "狼之怒"
+   },
+   "cost": 90,
+   "cooldown": [
+    10,
+    10
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier per SEQ",
+      "zh-TW": "每段傷害倍率"
+     },
+     "first": "32%",
+     "last": "72%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "15",
+     "last": "15"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Scorching Fangs",
+    "zh-TW": "灼熱獠牙",
+    "zh-CN": "灼热獠牙"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Code of Restraint",
+    "zh-TW": "節制準則",
+    "zh-CN": "节制准则"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Lone Wolf",
+    "zh-TW": "獨狼",
+    "zh-CN": "独狼"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Firearm Mods",
+    "zh-TW": "銃械改造",
+    "zh-CN": "铳械改造"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Hunting Hour",
+    "zh-TW": "狩獵時刻",
+    "zh-CN": "狩猎时刻"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Will of the Pack",
+    "zh-TW": "狼群意志",
+    "zh-CN": "狼群意志"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Natural Predator",
+    "zh-TW": "天生掠食者",
+    "zh-CN": "天生掠食者"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 18,
+   "agi": 9,
+   "int": 9,
+   "will": 13,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 161,
+   "agi": 95,
+   "int": 92,
+   "will": 111,
+   "atk": 294,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Triphasic Nanoflake",
+      "zh-TW": "三相奈米片",
+      "zh-CN": "三相纳米片"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Cosmagaric",
+      "zh-TW": "星門菌",
+      "zh-CN": "星门菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "slug": "typhoeus",
+ "intro": {
+  "en": "Typhoeus is a wildlands huntress from Rhodes Island who loves to explore uncharted places, visits the Samifjod to record the Sami legends they still remember, and now gathers new stories among her friends at Endfield.",
+  "zh-TW": "提弗洛斯是來自羅德島的荒野獵手，熱衷探索無人之境，並走訪仍記得薩米傳說的人以留下紀錄，來到終末地後也持續收集身邊的新故事。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Nature combo of up to 5 hits. The final strike deals 17 Stagger while Typhoeus is the controlled operator.",
+   "zh-TW": "最多 5 段的自然傷害連擊。作為主控幹員時，重擊造成 17 點失衡。"
+  },
+  "battle": {
+   "en": "Hovers briefly for 5 Aerial Basic Attacks hitting up to 2 targets for Nature damage, consuming 1 Nature Infliction for 1 Sign and extra Ultimate Energy. Spending 1 Hunting Arrow makes a Power Shot forcing 1 Nature Burst (stronger if Nature Infliction was consumed); when controlled, her 5th Aerial Basic Attack is a free Power Shot and Final Strike.",
+   "zh-TW": "躍起短暫浮空並可施放 5 次空中普通攻擊，每次最多打擊 2 名目標造成自然傷害；命中自然附著時消耗 1 層以獲得 1 點啟示與額外終結技能量。持有獵矢時消耗 1 枚轉為強化射擊，強制造成 1 次自然爆發（消耗附著時傷害提升）；為主控幹員時第 5 次同時視為重擊與強化射擊且不耗獵矢。"
+  },
+  "combo": {
+   "en": "Trigger: Typhoeus reaches max Signs. She converts all Signs into Hunting Arrows (2 Signs per 1 Hunting Arrow), resets her Aerial Basic Attack attempts, and fires Huntress's Gaze to create a Barrage Array that deals Nature damage over time, slows enemies, and raises Nature Burst damage taken.",
+   "zh-TW": "觸發條件：自身啟示已滿。將所有啟示轉為獵矢（每 2 點轉為 1 枚）並重置空中普通攻擊次數，再凝聚「獵手的注視」齊射形成箭陣，使範圍內敵人持續受到自然傷害、緩速且承受的自然爆發傷害提高。"
+  },
+  "ultimate": {
+   "en": "Fires an Imbued Arrow that explodes for heavy area Nature damage, grants 2 Hunting Arrows, enters Hovering, and resets Aerial Basic Attack attempts. Her next 5 Aerial Basic Attacks trigger a Nature Hail of Arrows on hit, with the 5th empowered for higher damage.",
+   "zh-TW": "射出強力箭矢，命中後引爆，對範圍內敵人造成高額自然傷害，立即獲得 2 枚獵矢並進入浮空、重置空中普通攻擊次數。接下來 5 次空中普通攻擊命中時都會在目標處降下自然傷害箭雨，第 5 輪為傷害更高的強化箭雨。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Each Nature Burst grants Typhoeus 1 Sign (simultaneous bursts count once), and she starts battle with 1 Sign (2 at Promotion I, 4 at Promotion III), holding up to 8 Signs and 4 Hunting Arrows. Attacks empowered by Hunting Arrows deal 1.2 times their damage (1.4 at Promotion I, 1.6 at Promotion III).",
+   "zh-TW": "敵人觸發自然爆發時獲得 1 點啟示（同時多人觸發僅計一次），進戰立即獲得 1 點啟示（精英化I 為 2 點，精英化III 為 4 點），上限為 8 點啟示與 4 枚獵矢。消耗獵矢強化的攻擊傷害提升為 1.2 倍（精英化I 為 1.4 倍，精英化III 為 1.6 倍）。"
+  },
+  {
+   "en": "While Hovering, Typhoeus activates a Protective Barrier that cuts damage taken by 15% (30% at Promotion III) and increases interruption resistance; taking damage shatters it for 30 s (18 s at Promotion III).",
+   "zh-TW": "進入浮空狀態期間啟用防禦護罩，使自身受到的傷害減少 15%（精英化III 為 30%）且更難被打斷；受到傷害時護罩破碎，30 秒內無法再啟用（精英化III 為 18 秒）。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "While Hovering, Typhoeus gains +18% ATK and 1.2 times Aerial Basic Attack damage, and Huntress's Focus's Protective Barrier reactivation time drops by 3 s.",
+   "zh-TW": "浮空時攻擊力 +18% 且空中普通攻擊傷害提升為 1.2 倍，獵手的專注防禦護罩再次觸發時間 -3 秒。"
+  },
+  {
+   "en": "Agility +20, Arts Intensity +16.",
+   "zh-TW": "敏捷 +20，源石技藝強度 +16。"
+  },
+  {
+   "en": "Rampant Thorns's cooldown drops by 2 s, and enemies in the Barrage Array take +6% more Nature Burst damage.",
+   "zh-TW": "野棘叢生的冷卻時間 -2 秒，箭陣內敵人承受的自然爆發傷害提高效果額外 +6%。"
+  },
+  {
+   "en": "Call of Ice Mountain costs 15% less Ultimate Energy.",
+   "zh-TW": "冰山呼告所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Call of Ice Mountain grants +1 Hunting Arrow and deals 1.2 times its damage, while Power Shot's Nature Burst damage multiplier becomes 1.1 times as high.",
+   "zh-TW": "冰山呼告獲得的獵矢 +1 且傷害提升為 1.2 倍，強化射擊的自然爆發傷害倍率提升為 1.1 倍。"
+  }
+ ]
+}

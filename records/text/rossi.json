@@ -1,0 +1,57 @@
+{
+ "slug": "rossi",
+ "intro": {
+  "en": "Rossi (Rossina Wulfperl Luppino) is Wulfgard's younger sister and the Pearl of the Pack who took on leading the clan while her brother works alone.",
+  "zh-TW": "洛西（洛西娜·狼珀·盧皮諾）是狼衛的妹妹與狼群的掌上明珠，在哥哥獨自行動期間肩負起領導狼群氏族的責任。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 5 hits. As the controlled operator, her final strike also deals 18 Stagger.",
+   "zh-TW": "最多 5 段的物理傷害連擊。作為主控幹員時，重擊額外造成 18 點失衡。"
+  },
+  "battle": {
+   "en": "Charges at the target for Physical damage and applies Lift; if the target already has Vulnerability, also sends a Wolven Ambrage charging in for Heat damage.",
+   "zh-TW": "衝向目標造成物理傷害並施加擊飛；若目標已帶有破防，則額外釋放狼之珀衝向目標造成灼熱傷害。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy has both Vulnerability and Arts Infliction. Runs in 2 sequences: sequence 1 deals Physical damage, and sequence 2 consumes all Arts Infliction for Physical damage scaling with stacks consumed, applies 1 Lift, and boosts Rossi's Critical Rate and Critical DMG; perfect timing adds 1 Vulnerability stack.",
+   "zh-TW": "觸發條件：敵人同時處於破防與法術附著狀態。可連續發動 2 次：第 1 次造成物理傷害；第 2 次消耗目標全部法術附著，依消耗層數造成物理傷害並施加 1 次擊飛，同時暫時提升自身暴擊率與暴擊傷害，精準銜接時額外施加 1 層破防。"
+  },
+  "ultimate": {
+   "en": "With a flutter of her cape she unleashes a rapid flurry of stabs for multi-hit Heat damage, followed by a 2-hit dagger slash dealing massive Heat damage and applying Heat Infliction; critical hits with this skill deal bonus Critical DMG.",
+   "zh-TW": "揮動披風快速戳擊造成多段灼熱傷害，再以匕首進行 2 段斬擊造成大量灼熱傷害並施加灼熱附著；此技能暴擊時會造成更高的暴擊傷害。"
+  }
+ },
+ "talents": [
+  {
+   "en": "When Wolven Ambrage deals damage, it applies non-stacking Razor Clawmark for 15 s (25 s at Promotion II), dealing 25% of Rossi's ATK as Physical damage per second (30% at Promotion II) and increasing Physical and Heat damage taken by 6% (12% at Promotion II).",
+   "zh-TW": "狼之珀造成傷害後對目標施加無法疊加的爪印斫痕 15 秒（精英化II 為 25 秒），期間目標每秒受到洛西攻擊力 25% 的物理傷害（精英化II 為 30%），且受到的物理與灼熱傷害 +6%（精英化II 為 +12%）。"
+  },
+  {
+   "en": "When Rossi's skill crits a Razor Clawmarked enemy, it triggers an extra hit for 12% of her ATK as Heat damage (24% at Promotion III) and restores Intellect × 0.04 HP (Intellect × 0.08 at Promotion III); both effects are 1.5 times stronger if the target is also Combusted.",
+   "zh-TW": "洛西的技能對爪印斫痕狀態的敵人造成暴擊傷害時，額外觸發一次攻擊力 12% 的灼熱傷害（精英化III 為 24%）並回復自身智識 × 0.04 生命值（精英化III 為 0.08）；若目標同時處於燃燒狀態，上述傷害與治療提升為 1.5 倍。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Crimson Shadow and Moment of Blazing Shadow deal 1.15 times damage, and Wolven Ambrage returns 10 SP on hit.",
+   "zh-TW": "血紅之影與燎影時刻的傷害倍率提升為 1.15 倍，且狼之珀命中敵人後返還 10 點技力。"
+  },
+  {
+   "en": "Agility +20, Critical Rate +7%.",
+   "zh-TW": "敏捷 +20，暴擊率 +7%。"
+  },
+  {
+   "en": "Seething Blood gains +8% base damage multiplier and restores an extra Intellect × 0.04 HP when triggered.",
+   "zh-TW": "沸血觸發時的基礎傷害倍率 +8%，回復的基礎生命值額外增加智識 × 0.04。"
+  },
+  {
+   "en": "\"Razorclaw\" Ambuscade costs 15% less Ultimate Energy.",
+   "zh-TW": "「利爪」奇襲所需的終結技能量 -15%。"
+  },
+  {
+   "en": "\"Razorclaw\" Ambuscade deals 1.1 times damage and gains +30% Critical DMG.",
+   "zh-TW": "「利爪」奇襲的傷害倍率提升為 1.1 倍，暴擊傷害額外 +30%。"
+  }
+ ]
+}

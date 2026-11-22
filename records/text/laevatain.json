@@ -1,0 +1,42 @@
+{
+ "slug": "laevatain",
+ "intro": {
+  "en": "Laevatain joined Endfield Industries from Rhodes Island on the Endministrator's own recommendation and reports directly to the Endministrator.",
+  "zh-TW": "萊萬汀出身羅德島，由管理員直接引薦加入終末地工業，是管理員的直屬幹員。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Heat combo of up to 5 hits. The final strike deals 18 Stagger while she is the controlled operator.",
+   "zh-TW": "最多 5 段的灼熱傷害連擊。作為主控幹員時，重擊造成 18 點失衡。"
+  },
+  "battle": {
+   "en": "A Magma Fragment hits repeatedly for Heat damage; a hit gives 1 stack of Melting Flame. Cast at 4 stacks, it spends them on 1 extra hit over a large area that forces a short Combustion and returns Ultimate Energy.",
+   "zh-TW": "熔核碎片持續攻擊，造成灼熱傷害；命中獲得 1 層熔火。在已有 4 層熔火時施放，會消耗全部層數追加 1 次大範圍攻擊，強制施加短暫的燃燒，並回復終結技能量。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy gains Combustion or Corrosion. Fire erupts under every such enemy for Heat damage, giving 1 stack of Melting Flame and Ultimate Energy per enemy hit.",
+   "zh-TW": "觸發條件：有敵人進入燃燒或腐蝕狀態。所有處於這兩種狀態的敵人腳下噴出火焰，造成灼熱傷害；命中獲得 1 層熔火，每命中一個敵人另得終結技能量。"
+  },
+  "ultimate": {
+   "en": "She becomes the controlled operator and her basic attacks are enhanced for a time; hit 3 of the combo applies Heat Infliction. Casting Smouldering Fire or Seethe does not shorten the duration.",
+   "zh-TW": "切換為主控幹員，一段時間內普通攻擊得到強化；第 3 段施加灼熱附著。施放焚滅或沸騰不會縮短持續時間。"
+  }
+ },
+ "talents": [
+  {
+   "en": "After the controlled operator's final strike or finisher hits, she absorbs Heat Infliction from nearby enemies, 1 stack of Melting Flame each, up to 4. At 4 stacks her damage ignores 10 Heat Resistance for 20 s (15 at Promotion I, 20 at Promotion III).",
+   "zh-TW": "主控幹員的重擊或處決命中後，吸收周圍敵人的灼熱附著，每層換 1 層熔火，最多 4 層。達到 4 層後，她的傷害無視敵人 10 點灼熱抗性，持續 20 秒（精英化I 為 15 點，精英化III 為 20 點）。"
+  },
+  {
+   "en": "Below 40% HP she gains 90% Protection and restores 5% of max HP per second for 4 s (8 s at Promotion III), at most once every 120 s.",
+   "zh-TW": "生命值低於 40% 時獲得 90% 庇護，並每秒回復 5% 最大生命值，持續 4 秒（精英化III 為 8 秒），每 120 秒最多一次。"
+  }
+ ],
+ "potentials": [
+  {"en": "Smouldering Fire's extra hit deals 1.2 times its damage and returns 20 SP on hit.", "zh-TW": "焚滅的追加攻擊傷害提升為 1.2 倍，命中後返還 20 點技力。"},
+  {"en": "Intellect +20, basic attack damage +15%.", "zh-TW": "智識 +20，普通攻擊傷害 +15%。"},
+  {"en": "Combustion from Smouldering Fire lasts 50% longer and deals 1.5 times its damage.", "zh-TW": "焚滅造成的燃燒持續時間 +50%，傷害提升為 1.5 倍。"},
+  {"en": "Twilight costs 15% less Ultimate Energy.", "zh-TW": "黃昏所需的終結技能量 -15%。"},
+  {"en": "Enhanced basic attacks of Twilight deal 1.2 times their damage; each enemy she defeats during it adds 1 s, up to 7 s.", "zh-TW": "黃昏的強化普通攻擊傷害提升為 1.2 倍；期間每擊敗一個敵人延長 1 秒，最多 7 秒。"}
+ ]
+}

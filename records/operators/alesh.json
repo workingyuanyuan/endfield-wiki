@@ -1,0 +1,568 @@
+{
+ "slug": "alesh",
+ "gameId": "chr_0024_deepfin",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/alesh",
+ "officialKey": "alesh",
+ "name": {
+  "en": "Alesh",
+  "zh-TW": "阿列什",
+  "zh-CN": "阿列什"
+ },
+ "rarity": 5,
+ "class": {
+  "en": "Vanguard",
+  "zh-TW": "先鋒",
+  "zh-CN": "先锋"
+ },
+ "element": {
+  "en": "Cryo",
+  "zh-TW": "寒冷",
+  "zh-CN": "寒冷"
+ },
+ "weapon": {
+  "en": "Sword",
+  "zh-TW": "單手劍",
+  "zh-CN": "单手剑"
+ },
+ "mainAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "subAttr": {
+  "en": "Intellect",
+  "zh-TW": "智識",
+  "zh-CN": "智识"
+ },
+ "faction": {
+  "en": "United Workers' Syndicates of Talos II",
+  "zh-TW": "聯盟工團",
+  "zh-CN": "联盟工团"
+ },
+ "race": {
+  "en": "Anaty",
+  "zh-TW": "阿納緹",
+  "zh-CN": "阿纳缇"
+ },
+ "voice": {
+  "en": {
+   "chi": "Cao Zhen",
+   "eng": "Heitor Assali",
+   "jap": "Matsukaze Masaya",
+   "kor": "Im Chae-bin"
+  },
+  "zh-TW": {
+   "chi": "曹真",
+   "eng": "Heitor Assali",
+   "jap": "松風雅也",
+   "kor": "林彩彬"
+  },
+  "zh-CN": {
+   "chi": "曹真",
+   "eng": "Heitor Assali",
+   "jap": "松风雅也",
+   "kor": "林彩彬"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Basic Rod Casting",
+    "zh-TW": "基本揮竿法",
+    "zh-CN": "基本挥竿法"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "18%",
+     "last": "39%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "10%",
+     "last": "23%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "28%",
+     "last": "62%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "28%",
+     "last": "62%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "55%",
+     "last": "124%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Unconventional Lure",
+    "zh-TW": "非普通路亞",
+    "zh-CN": "非常规路亚"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "200%",
+     "last": "450%"
+    },
+    {
+     "name": {
+      "en": "SP Recovery by Consuming 1 Infliction Stack",
+      "zh-TW": "消耗一層附著時回復技力"
+     },
+     "first": "10",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "SP Recovery by Consuming 2 Infliction Stacks",
+      "zh-TW": "消耗二層附著時回復技力"
+     },
+     "first": "20",
+     "last": "25"
+    },
+    {
+     "name": {
+      "en": "SP Recovery by Consuming 3 Infliction Stacks",
+      "zh-TW": "消耗三層附著時回復技力"
+     },
+     "first": "30",
+     "last": "35"
+    },
+    {
+     "name": {
+      "en": "SP Recovery by Consuming 4 Infliction Stacks",
+      "zh-TW": "消耗四層附著時回復技力"
+     },
+     "first": "40",
+     "last": "45"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Auger Angling",
+    "zh-TW": "鑿孔底釣術",
+    "zh-CN": "凿孔底钓术"
+   },
+   "cost": 0,
+   "cooldown": [
+    9,
+    8
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "133%",
+     "last": "300%"
+    },
+    {
+     "name": {
+      "en": "Rare Fin Chance",
+      "zh-TW": "釣起珍鱗機率"
+     },
+     "first": "10%",
+     "last": "10%"
+    },
+    {
+     "name": {
+      "en": "Enhanced DMG Multiplier",
+      "zh-TW": "強化傷害倍率"
+     },
+     "first": "213%",
+     "last": "480%"
+    },
+    {
+     "name": {
+      "en": "SP Recovery",
+      "zh-TW": "技力回復"
+     },
+     "first": "10",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "Additional SP Recovery",
+      "zh-TW": "額外技力回復"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "One Monster Catch!",
+    "zh-TW": "大鱗，上鉤！",
+    "zh-CN": "大鳞，上钩！"
+   },
+   "cost": 100,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Ultimate DMG Multiplier",
+      "zh-TW": "終結傷害倍率"
+     },
+     "first": "436%",
+     "last": "980%"
+    },
+    {
+     "name": {
+      "en": "Base SP Recovery",
+      "zh-TW": "基礎回復技力"
+     },
+     "first": "20",
+     "last": "25"
+    },
+    {
+     "name": {
+      "en": "Additional SP Recovery per Target Defeated",
+      "zh-TW": "擊敗目標時額外回復技力"
+     },
+     "first": "12",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "MAX SP Recovery",
+      "zh-TW": "技力回復上限"
+     },
+     "first": "100",
+     "last": "100"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Flash-frozen for Freshness",
+    "zh-TW": "閃凍鎖鮮",
+    "zh-CN": "闪冻锁鲜"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Veteran Angler",
+    "zh-TW": "釣鱗老手",
+    "zh-CN": "钓鳞老手"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Super Salty Comeback",
+    "zh-TW": "鹹鱗翻身",
+    "zh-CN": "咸鳞翻身"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Calm and Tranquil",
+    "zh-TW": "沉心靜氣",
+    "zh-CN": "沉心静气"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "May the Willing Bite",
+    "zh-TW": "願者上鉤",
+    "zh-CN": "愿者上钩"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Insane Angling Set",
+    "zh-TW": "瘋狂釣組",
+    "zh-CN": "疯狂钓组"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Mega Lunker Rumors",
+    "zh-TW": "特大鱗訊",
+    "zh-CN": "特大鳞讯"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 20,
+   "agi": 9,
+   "int": 13,
+   "will": 10,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 158,
+   "agi": 95,
+   "int": 125,
+   "will": 89,
+   "atk": 309,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Metadiastima Photoemission Tube",
+      "zh-TW": "超距輝映管",
+      "zh-CN": "超距辉映管"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

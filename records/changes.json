@@ -1,0 +1,52 @@
+{
+ "yvonne": [
+  {"version": "1.1", "en": "The description of the ultimate was reworded; the effect did not change. A bug that could stop Yvonne from performing a finisher was fixed.", "zh-TW": "終結技的描述文字經過調整，實際效果不變。修復特定情況下無法處決敵人的問題。"}
+ ],
+ "laevatain": [
+  {"version": "1.1", "en": "Three bugs fixed: two that miscounted Melting Flame stacks on the enhanced battle skill's extra hit, and one that ended Twilight early when a battle skill was cast just before it ran out.", "zh-TW": "修復三個問題：兩個是強化戰技追加攻擊的熔火層數計算異常，一個是終結技結束前施放戰技會使終結技提前結束。"},
+  {"version": "1.2", "en": "The description of Twilight was reworded to say that Smouldering Fire and Seethe do not shorten it; the effect did not change.", "zh-TW": "黃昏的描述補上「施放焚滅或沸騰不會縮短持續時間」，實際效果不變。"}
+ ],
+ "last-rite": [
+  {"version": "1.1", "en": "A bug that could keep the combo skill from applying Solidification was fixed.", "zh-TW": "修復特定情況下連攜技無法凝結敵人的問題。"},
+  {"version": "1.2", "en": "A bug where the combo skill could cut Tangtang's ultimate short was fixed.", "zh-TW": "修復特定情況下施放連攜技會提前打斷湯湯終結技的問題。"}
+ ],
+ "ember": [
+  {"version": "1.1", "en": "Two bugs fixed: abnormal behaviour when hit by a multi-hit attack while casting the battle skill, and the third basic attack losing its target.", "zh-TW": "修復兩個問題：施放戰技期間受到多段攻擊時表現異常，以及第三段普通攻擊失去目標。"}
+ ],
+ "da-pan": [
+  {"version": "1.1", "en": "A bug where the ultimate and the combo skill could lose their target was fixed.", "zh-TW": "修復特定情況下終結技、連攜技失去目標的問題。"}
+ ],
+ "avywenna": [
+  {"version": "1.1", "en": "Two potentials were fixed to match their descriptions: Carrot and Sharp Stick had the wrong effect, and Doubling Down could activate when it should not.", "zh-TW": "兩項潛能修正為與描述一致：恩威並施的實際效果與描述不符，籌碼加倍會在不該生效時生效。"}
+ ],
+ "antal": [
+  {"version": "1.1", "en": "The name of the Chinese voice actor was updated.", "zh-TW": "更新了中文語音配音演員的姓名。"}
+ ],
+ "gilberta": [
+  {"version": "1.2", "en": "A bug that kept finisher damage from receiving certain bonuses was fixed.", "zh-TW": "修復特定情況下處決傷害無法獲得特定加成效果的問題。"}
+ ],
+ "alesh": [
+  {"version": "1.2", "en": "A bug that kept finisher damage from receiving certain bonuses was fixed.", "zh-TW": "修復特定情況下處決傷害無法獲得特定加成效果的問題。"},
+  {"version": "1.4", "en": "A bug where the battle skill could not trigger certain weapon skill effects once the potential Super Salty Comeback was unlocked was fixed.", "zh-TW": "修復解鎖潛能鹹鱗翻身後，施放戰技無法觸發部分武器技能效果的問題。"}
+ ],
+ "fluorite": [
+  {"version": "1.2", "en": "A bug that kept finisher damage from receiving certain bonuses was fixed.", "zh-TW": "修復特定情況下處決傷害無法獲得特定加成效果的問題。"},
+  {"version": "1.5", "en": "The wording of the Slow effect in the battle skill description was reworded; the effect did not change.", "zh-TW": "戰技描述中關於減速效果的文字經過調整，實際效果不變。"}
+ ],
+ "tangtang": [
+  {"version": "1.2", "en": "Two bugs fixed: the status icon of the ultimate did not last as long as the effect, and Last Rite's combo skill could cut the ultimate short.", "zh-TW": "修復兩個問題：終結技的狀態圖示顯示時間與實際效果不同步，以及別禮的連攜技會提前打斷終結技。"},
+  {"version": "1.6", "en": "The description of the ultimate was reworded to say that it applies Immobilization; the effect did not change.", "zh-TW": "終結技的描述改為「對範圍內的敵人施加一段時間的定身」，實際效果不變。"}
+ ],
+ "rossi": [
+  {"version": "1.5", "en": "The wording of the Critical Rate boost in the battle skill description was reworded; the effect did not change.", "zh-TW": "戰技描述中關於暴擊率提升的文字經過調整，實際效果不變。"}
+ ],
+ "arcane": [
+  {"version": "1.5", "en": "A bug that could cause abnormal SP return and damage after casting the battle skill in the Array Arcana: INT form was fixed.", "zh-TW": "修復處於「陣訣·智」形態時，特定操作可能導致施放戰技後技力返還及傷害異常的問題。"}
+ ],
+ "liino": [
+  {"version": "1.5", "en": "A bug where the first hit of the battle skill interrupted an enemy's charging state an abnormal number of times was fixed.", "zh-TW": "修復戰技初次命中敵人時，打斷敵人蓄力狀態次數異常的問題。"}
+ ],
+ "zhuang-fangyi": [
+  {"version": "1.6", "en": "A bug where Ultimate Energy did not return to its earlier state when leaving a dungeon after casting the ultimate was fixed.", "zh-TW": "修復開啟終結技後退出副本時，終結技能量未正確回到進入副本時狀態的問題。"}
+ ]
+}

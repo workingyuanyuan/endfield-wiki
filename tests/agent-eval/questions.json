@@ -1,0 +1,361 @@
+{
+ "about": "The site's question list: what readers ask about Arknights: Endfield, in their own words, with the expected answer, the qualifier that is easy to miss, and the page that holds them. Answers were written by the author of the site from the official notices, from game data 1.6, from Endfield Talos Wiki and from the NGA forum, and checked against those sources, not against the site. An answer passes only if it gives the expected answer AND the qualifier. At most 3 fetches per question, starting from the start URL. The entries under \"toWrite\" are questions collected for pages that do not answer them yet.",
+ "budget": "At most 3 fetches per question, starting from the start URL.",
+ "questions": [
+  {
+   "id": "q01",
+   "question": "Is Laevatain a limited operator, and can she be pulled after her banner?",
+   "variants": [
+    "萊萬汀是限定嗎？卡池結束後還抽得到嗎？",
+    "莱万汀是限定吗？过了卡池还能抽吗？"
+   ],
+   "answer": "Yes, she is limited: the rate-up of Scars of the Forge (Version 1.0). She stayed in the next two Chartered Headhunting pools without rate-up, then left.",
+   "qualifier": "Limited operators are never added to Basic Headhunting; Laevatain came back only as one of four 6-star operators of the Special Headhunting banner Fest of Brilliance (Version 1.2).",
+   "page": "operators/laevatain"
+  },
+  {
+   "id": "q02",
+   "question": "What is Endfield version 1.6 called and when did it come out?",
+   "variants": [
+    "終末地 1.6 版叫什麼？什麼時候更新的？",
+    "终末地 1.6 版本是哪个版本？"
+   ],
+   "answer": "Sanctuary of Ink (丹青渡). Maintenance was 2026-10-15 06:00 to 12:00 (UTC+8) on the Asia server.",
+   "qualifier": "On the Americas / Europe server the same maintenance was 2026-10-14 17:00 to 23:00 (UTC-5), one calendar day earlier. Official notices never use the number 1.6.",
+   "page": "versions/1-6"
+  },
+  {
+   "id": "q03",
+   "question": "Which headhunting banners ran in Endfield Version 1.6?",
+   "variants": [
+    "1.6 版有哪些卡池？",
+    "1.6 版本有哪些卡池？"
+   ],
+   "answer": "Three: Rejuvenation (Chartered, Si), Ancestral Spring Flows Anew (RE-Factor Headhunting #1, Tangtang) and The Hearth Fire Beckons the Starry Flow (Chartered, Argent Flow).",
+   "qualifier": "The Hearth Fire Beckons the Starry Flow opened on 2026-11-05 at 12:00 and runs to the end of Version 1.6; no fixed end time.",
+   "page": "versions/1-6"
+  },
+  {
+   "id": "q04",
+   "question": "How many playable operators does Arknights: Endfield have?",
+   "variants": [
+    "終末地現在有幾個幹員？",
+    "终末地一共有多少干员？"
+   ],
+   "answer": "34 in Version 1.6.",
+   "qualifier": "The official site lists 37 entries: Endministrator twice, plus Kay and Mimino, who are in no update notes up to 1.6.",
+   "page": "operators"
+  },
+  {
+   "id": "q05",
+   "question": "Which Endfield version added Zhuang Fangyi, and what is that version's number?",
+   "variants": [
+    "莊方宜是哪個版本出的？",
+    "庄方宜是哪个版本上线的？"
+   ],
+   "answer": "At the Wake of Spring, Version 1.2, updated on 2026-04-17.",
+   "qualifier": "Official notices use only the title; the number 1.2 comes from the fan wiki.",
+   "page": "versions"
+  },
+  {
+   "id": "q06",
+   "question": "What do Laevatain's talents do and when do they unlock?",
+   "variants": [
+    "萊萬汀的天賦是什麼？",
+    "莱万汀天赋效果"
+   ],
+   "answer": "Scorching Heart (default): absorbs Heat Infliction into up to 4 stacks of Melting Flame; at 4 stacks her damage ignores 10 Heat Resistance for 20 s. Re-Ignition (Promotion II): below 40% HP, 90% Protection and 5% max HP per second for 4 s.",
+   "qualifier": "Scorching Heart ignores 15 Heat Resistance at Promotion I and 20 at Promotion III; Re-Ignition lasts 8 s at Promotion III and triggers at most once every 120 s.",
+   "page": "operators/laevatain"
+  },
+  {
+   "id": "q07",
+   "question": "In an Endfield Chartered banner, how likely is a 6-star to not be the rate-up operator, and can I get an older limited operator that way?",
+   "variants": [
+    "終末地特許尋訪歪的機率高嗎？能歪到上期的幹員嗎？",
+    "卡池歪率高吗？能歪出上期的限定吗？"
+   ],
+   "answer": "Half of 6-stars from a Chartered banner are not the rate-up; they are one of the seven other 6-stars in the pool: the two earlier rate-up operators still in it and the five standard ones.",
+   "qualifier": "An earlier limited operator can come only while still in the pool (two banners after its own); the 120-pull guarantee caps the losses on one banner and does not carry over.",
+   "page": "systems/headhunting"
+  },
+  {
+   "id": "q08",
+   "question": "Is Rossi's Chinese name the same in Traditional and Simplified Chinese?",
+   "variants": [
+    "洛西和洛茜是同一個幹員嗎？",
+    "洛茜繁体叫什么？"
+   ],
+   "answer": "No: 洛西 in Traditional Chinese and 洛茜 in Simplified Chinese.",
+   "qualifier": "It is a different character, not only a different script; every other operator's Simplified name is the Traditional name in Simplified characters.",
+   "page": "operators"
+  },
+  {
+   "id": "q09",
+   "question": "Is Ember a limited operator in Arknights: Endfield? How do I get her?",
+   "variants": [
+    "餘燼是限定嗎？怎麼取得？",
+    "余烬是限定干员吗？"
+   ],
+   "answer": "No. Ember has no rate-up banner; she is one of five standard 6-star operators in the pool of Basic Headhunting and of every Chartered Headhunting banner.",
+   "qualifier": "She has never been the rate-up operator of a banner.",
+   "page": "operators/ember"
+  },
+  {
+   "id": "q10",
+   "question": "How do I get Purrchena in Arknights: Endfield?",
+   "variants": [
+    "噗切娜怎麼拿？",
+    "噗切娜怎么获得？"
+   ],
+   "answer": "Purrchena, a 5-star operator, was given by the Version 1.5 giveaway event Purry Big Feline! RAWR!, which ran from 2026-09-24 12:00 to the Version 1.6 update.",
+   "qualifier": "She is in no headhunting pool.",
+   "page": "operators/purrchena"
+  },
+  {
+   "id": "q11",
+   "question": "Which Endfield operators have had a rerun banner?",
+   "variants": [
+    "終末地哪些幹員復刻過？",
+    "终末地谁复刻过？"
+   ],
+   "answer": "Two, both in RE-Factor Headhunting #1: Yvonne (Resplendent Spectrum, Version 1.5) and Tangtang (Ancestral Spring Flows Anew, Version 1.6).",
+   "qualifier": "A RE-Factor banner guarantees its operator within the first 120 pulls, once across banners of that name, and the count carries over to the next banner of the same name. Laevatain and Gilberta came back only in the Special Headhunting banner Fest of Brilliance.",
+   "page": "systems/headhunting"
+  },
+  {
+   "id": "q12",
+   "question": "How long does Typhoeus stay in the Endfield banner pool after her own banner?",
+   "variants": [
+    "提弗洛斯的卡池結束後還在名單裡多久？",
+    "提弗洛斯过了卡池还能抽到多久？"
+   ],
+   "answer": "Two more Chartered Headhunting banners without rate-up: Rejuvenation and The Hearth Fire Beckons the Starry Flow, both in Version 1.6.",
+   "qualifier": "After that Typhoeus leaves the Chartered pool and is never added to Basic Headhunting.",
+   "page": "operators/typhoeus"
+  },
+  {
+   "id": "q13",
+   "question": "When did Camille's banner run in Arknights: Endfield?",
+   "variants": [
+    "卡繆的卡池是什麼時候？",
+    "卡缪的池子是哪天？"
+   ],
+   "answer": "Expunger of Sin, a Chartered Headhunting banner of Version 1.3: from 2026-06-26 12:00 until the Version 1.4 update on 2026-07-16.",
+   "qualifier": "Camille stayed in the Chartered pool for the two banners after it, without rate-up.",
+   "page": "versions/1-3"
+  },
+  {
+   "id": "q14",
+   "question": "What is Rossi called in Chinese in Arknights: Endfield?",
+   "variants": [
+    "Rossi 的中文名是什麼？",
+    "洛茜繁体怎么写？"
+   ],
+   "answer": "洛西 in Traditional Chinese and 洛茜 in Simplified Chinese.",
+   "qualifier": "The two names use a different second character; it is not a conversion between scripts.",
+   "page": "systems/names"
+  },
+  {
+   "id": "q15",
+   "question": "How does pity work in Chartered Headhunting, and what carries over to the next banner?",
+   "variants": [
+    "特許尋訪的保底怎麼算？會繼承到下一期嗎？",
+    "特许寻访保底继承吗？"
+   ],
+   "answer": "The rate-up 6-star operator is guaranteed within the first 120 pulls of a banner, once; a 6-star of any kind is guaranteed within 80 pulls. Only the 80-pull count carries over to the next Chartered banner.",
+   "qualifier": "The 80-pull count and its carry-over for Chartered Headhunting, and the base rate of 0.8%, are given only by Endfield Talos Wiki, not by an official notice. The 120-pull count, Urgent Recruitment and the 240-pull token count do not carry over.",
+   "page": "systems/headhunting"
+  },
+  {
+   "id": "q16",
+   "question": "Do Asia and Americas / Europe accounts share progress in Arknights: Endfield?",
+   "variants": [
+    "亞服和美歐服資料互通嗎？",
+    "亚服和美欧服数据互通吗？"
+   ],
+   "answer": "No. The Asia server (UTC+8) and the Americas / Europe server (UTC-5) share no progress.",
+   "qualifier": "Within one server, progress is shared across every platform. On PlayStation 5 the server follows the region of the PSN account.",
+   "page": "systems/servers-and-time"
+  },
+  {
+   "id": "q17",
+   "question": "Is Arknights: Endfield on Steam? Since when?",
+   "variants": [
+    "終末地有上 Steam 嗎？什麼時候上的？",
+    "终末地上 Steam 了吗？"
+   ],
+   "answer": "Yes, since the Version 1.6 update on 2026-10-15.",
+   "qualifier": "Progress is shared with the other platforms only on the same server. At release on 2026-01-22 the PC version came through the official launcher and the Epic Games Store.",
+   "page": "systems/platforms"
+  },
+  {
+   "id": "q18",
+   "question": "How do I get a 6-star weapon in Arknights: Endfield, and how long does an Arsenal Issue stay?",
+   "variants": [
+    "武庫申領怎麼抽？一期申領開多久？",
+    "武库申领开多久？"
+   ],
+   "answer": "6-star weapons come from Arsenal Issues and the Arsenal Exchange, paid with Arsenal Tickets that every operator headhunting pull gives. An Arsenal Issue has no end date of its own: it closes with the third Chartered Headhunting banner counted from the one it opened with.",
+   "qualifier": "Several Issues are therefore open at once. RE-Factor Issues, and the two Issues opened with Fest of Brilliance, had an end of their own instead.",
+   "page": "systems/arsenal"
+  },
+  {
+   "id": "q19",
+   "question": "When exactly did Arknights: Endfield release?",
+   "variants": [
+    "終末地是哪一天幾點公測的？",
+    "终末地公测时间？"
+   ],
+   "answer": "2026-01-22 at 11:00 (UTC+8), one moment worldwide.",
+   "qualifier": "On the Americas / Europe server that moment was 2026-01-21 at 22:00 (UTC-5), the day before.",
+   "page": "versions/1-0"
+  },
+  {
+   "id": "q20",
+   "question": "How do I make batteries in Wuling in Arknights: Endfield?",
+   "variants": [
+    "武陵的電池怎麼做？",
+    "武陵电池怎么做？"
+   ],
+   "answer": "In the Packaging Unit: LC Wuling Battery from Xiranite ×5 and Dense Originium Powder ×15, SC Wuling Battery from Xircon ×5 and Dense Originium Powder ×20; each recipe gives 1 battery in 10 seconds.",
+   "qualifier": "Game data 1.6 has no HC Wuling Battery: Wuling has two batteries, Valley IV has three.",
+   "page": "aic/power"
+  },
+  {
+   "id": "q21",
+   "question": "Why is my AIC factory out of power after I placed a blueprint?",
+   "variants": [
+    "藍圖放下去為什麼沒電？",
+    "蓝图放下去为什么没电？"
+   ],
+   "answer": "A blueprint places facilities, and every facility it adds draws power, but it adds no generation. Power comes from the region's Protocol Automation-Core, and its output rises only while Thermal Banks burn Originium Ore or batteries.",
+   "qualifier": "When the power reserve reaches zero, Backup Power can keep the region running for 30 minutes; after that the region has a power outage. Each region has its own grid.",
+   "page": "aic/power"
+  },
+  {
+   "id": "q22",
+   "question": "What does Promotion I cost in Arknights: Endfield, and is it more for a 6-star operator?",
+   "variants": [
+    "幹員精英化I 要什麼材料？6 星比較貴嗎？",
+    "精英化一需要什么材料？"
+   ],
+   "answer": "Protodisk ×8, Pink Bolete ×3 and T-Creds ×1,600, raising the level cap to 40. It is the same for all 34 operators, whatever the rarity.",
+   "qualifier": "Promotions I to III cost the same for every operator. Only Promotion IV differs, in one rare material and one fungus, and that follows the operator, not the rarity.",
+   "page": "systems/operator-progression"
+  },
+  {
+   "id": "q23",
+   "question": "What does the Type 50 Yinglung gear set do, and what is it called in Chinese?",
+   "variants": [
+    "50式應龍套裝效果是什麼？",
+    "50式应龙套装效果？"
+   ],
+   "answer": "50式應龍. With 3 pieces: ATK +15%; whenever any operator in the team casts a battle skill, the wearer gains 1 stack of Yinglung's Edge (up to 3), each giving +20% damage to the wearer's next combo skill.",
+   "qualifier": "Every set has only a 3-piece effect and an operator wears four pieces of gear, so at most one set effect is active on an operator.",
+   "page": "systems/gear"
+  },
+  {
+   "id": "q24",
+   "question": "What is the difference between Vulnerable and Susceptible in Arknights: Endfield combat?",
+   "variants": [
+    "破防和脆弱有什麼不同？",
+    "破防和脆弱的区别？"
+   ],
+   "answer": "Vulnerable (Vulnerability, 破防) is the stack that Physical Status hits build on an enemy, up to 4. Susceptible (Susceptibility, 脆弱) is a debuff that makes the target take more damage of one element.",
+   "qualifier": "Lift and Knock Down add Vulnerability stacks; Crush and Breach spend them.",
+   "page": "systems/combat"
+  },
+  {
+   "id": "q25",
+   "question": "Does the 120-pull guarantee in Endfield carry over to the next banner? Do rerun banners affect it?",
+   "variants": [
+    "大保底會繼承到下一期嗎？抽復刻池會影響特許尋訪嗎？",
+    "大保底继承吗？抽复刻池会影响后续UP池吗？"
+   ],
+   "answer": "No: the 120-pull rate-up guarantee of a Chartered banner resets when the banner ends; only the 80-pull count carries over, until a 6-star appears.",
+   "qualifier": "Pulls on RE-Factor banners do not move the Chartered counts; on RE-Factor banners the 120 guarantee counts once across banners of one name and carries over to them.",
+   "page": "systems/headhunting"
+  },
+  {
+   "id": "q26",
+   "question": "My Essence storage in Endfield is full. Can I disassemble Flawless Essences?",
+   "variants": [
+    "基質爆倉了怎麼辦？金基質能分解嗎？",
+    "基质爆仓了怎么办？金基质为什么不能分解？"
+   ],
+   "answer": "No. Flawless Essences cannot be disassembled; they are used in Essence Etching. Stable, Clean and Pure Essences disassemble for 20, 50 and 100 Stock Bills of their region.",
+   "qualifier": "The limit is 2,000 Essences; at the limit Essences on the ground cannot be picked up and those claimed from a Severe Energy Alluvium go to the lost-and-found cache.",
+   "page": "systems/arsenal"
+  },
+  {
+   "id": "q27",
+   "question": "How is damage calculated in Arknights: Endfield, and how much does enemy defence reduce it?",
+   "variants": [
+    "終末地傷害怎麼算？敵人防禦減傷多少？",
+    "终末地伤害公式是什么？防御区是多少？"
+   ],
+   "answer": "Damage is a product of multipliers (base damage, crit, damage bonus, reductions, amplify, vulnerability, defence, Stagger, resistance and others). The defence multiplier is 100 / (DEF + 100); enemies have base DEF 100, so it is 0.5 without DEF changes.",
+   "qualifier": "These formulas come from player tests on the NGA forum in Version 1.0, not from the game; Staggered enemies take ×1.3.",
+   "page": "systems/combat"
+  },
+  {
+   "id": "q28",
+   "question": "Which weapons does the game recommend for Laevatain, and which Essence stats does each need?",
+   "variants": [
+    "萊萬汀推薦用什麼武器？要什麼基質？",
+    "莱万汀推荐什么武器？"
+   ],
+   "answer": "Forgeborn Scathe, Umbral Torch and White Night Nova (6-star) and Fortmaker (5-star), in the game's order. Forgeborn Scathe: Intellect, ATK, Twilight; Umbral Torch: Intellect, Heat DMG, Infliction; White Night Nova: Main Attribute, Arts Intensity, Infliction; Fortmaker: Intellect, ULT Efficiency, Inspiring.",
+   "qualifier": "It is the game's recommendation, not a ranking; an Essence raises each weapon skill whose stat it carries.",
+   "page": "operators/laevatain"
+  },
+  {
+   "id": "q29",
+   "question": "Which operators is the Grand Vision sword recommended for?",
+   "variants": [
+    "宏願適合誰用？",
+    "宏愿推荐给谁？"
+   ],
+   "answer": "Akekuri, Chen Qianyu and the Endministrator.",
+   "qualifier": "Its Essence stats are Agility, ATK and Infliction; the list is the game's own recommendation.",
+   "page": "systems/weapons"
+  },
+  {
+   "id": "q30",
+   "question": "Who should I assign to the Growth Chamber on Dijiang to grow fungal matter faster?",
+   "variants": [
+    "帝江號培養艙放誰可以加快菌類？",
+    "培养舱菌类加速放谁？"
+   ],
+   "answer": "Mi Fu, Typhoeus and Yvonne (+20%, then +30%) and Da Pan (+10%, then +20%).",
+   "qualifier": "Base skills unlock at promotions (Yvonne and Da Pan from Promotion I, Mi Fu and Typhoeus from Promotion II) and the second level replaces the first; an operator at zero mood gives no effect.",
+   "page": "systems/dijiang"
+  },
+  {
+   "id": "q31",
+   "question": "Which AIC facility makes Xircon and what does it take?",
+   "variants": [
+    "壤晶用什麼設備做？要什麼原料？",
+    "壤晶怎么做？"
+   ],
+   "answer": "The Reactor Crucible or the Expanded Crucible: Xircon Effluent ×2 and Ferrium Powder ×1 give Xircon ×1 in 2 s.",
+   "qualifier": "Each run also gives Sewage ×1.",
+   "page": "aic/recipes"
+  },
+  {
+   "id": "q32",
+   "question": "What happens when an operator assigned on Dijiang runs out of mood?",
+   "variants": [
+    "帝江號幹員心情耗盡會怎樣？",
+    "干员心情没了会怎样？"
+   ],
+   "answer": "The operator goes to rest in the Central Ring and gives no assignment effect, then returns to the room by themselves at full mood.",
+   "qualifier": "Some base skills slow mood drop in a room or speed mood recovery of all operators (Control Nexus).",
+   "page": "systems/dijiang"
+  }
+ ],
+ "toWrite": [
+  "Can regional transfer from Wuling keep Valley IV Thermal Banks running? / 武陵跨區調度能撐四號谷地的熱能池嗎？ (the sources do not settle it; aic/regional-development states what they say)"
+ ]
+}

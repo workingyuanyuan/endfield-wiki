@@ -1,0 +1,552 @@
+{
+ "slug": "lifeng",
+ "gameId": "chr_0015_lifeng",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/lifeng",
+ "officialKey": "lifeng",
+ "name": {
+  "en": "Lifeng",
+  "zh-TW": "黎風",
+  "zh-CN": "黎风"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Guard",
+  "zh-TW": "近衛",
+  "zh-CN": "近卫"
+ },
+ "element": {
+  "en": "Physical",
+  "zh-TW": "物理",
+  "zh-CN": "物理"
+ },
+ "weapon": {
+  "en": "Polearm",
+  "zh-TW": "長柄武器",
+  "zh-CN": "长柄武器"
+ },
+ "mainAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "subAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "faction": {
+  "en": "Hongshan Academy of Sciences (HAS)",
+  "zh-TW": "宏山科學院",
+  "zh-CN": "宏山科学院"
+ },
+ "race": {
+  "en": "Anasa",
+  "zh-TW": "阿納薩",
+  "zh-CN": "阿纳萨"
+ },
+ "voice": {
+  "en": {
+   "chi": "Guo Hongbo",
+   "eng": "Yung-I Chang",
+   "jap": "Ishibashi Hiiro",
+   "kor": "Kim Yoon-gi"
+  },
+  "zh-TW": {
+   "chi": "郭鴻博",
+   "eng": "Yung-I Chang",
+   "jap": "石橋陽彩",
+   "kor": "金潤氣"
+  },
+  "zh-CN": {
+   "chi": "郭鸿博",
+   "eng": "Yung-I Chang",
+   "jap": "石桥阳彩",
+   "kor": "金润气"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Ruination",
+    "zh-TW": "摧破",
+    "zh-CN": "摧破"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "24%",
+     "last": "55%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "29%",
+     "last": "65%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "35%",
+     "last": "79%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "68%",
+     "last": "152%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Turbid Avatar",
+    "zh-TW": "蕩濁身",
+    "zh-CN": "荡浊身"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "38%",
+     "last": "86%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "38%",
+     "last": "86%"
+    },
+    {
+     "name": {
+      "en": "SEQ 3 DMG Multiplier",
+      "zh-TW": "第三段傷害倍率"
+     },
+     "first": "119%",
+     "last": "268%"
+    },
+    {
+     "name": {
+      "en": "SEQ 3 Stagger",
+      "zh-TW": "第三段失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Physical Susceptibility",
+      "zh-TW": "物理脆弱效果"
+     },
+     "first": "5%",
+     "last": "12%"
+    },
+    {
+     "name": {
+      "en": "Physical Susceptibility Duration (s)",
+      "zh-TW": "物理脆弱持續時間（秒）"
+     },
+     "first": "12",
+     "last": "12"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Aspect of Wrath",
+    "zh-TW": "忿怒相",
+    "zh-CN": "忿怒相"
+   },
+   "cost": 0,
+   "cooldown": [
+    16,
+    15
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "47%",
+     "last": "105%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "167%",
+     "last": "375%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 Stagger",
+      "zh-TW": "第二段失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Combo Duration (s)",
+      "zh-TW": "連擊持續時間（秒）"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Heart of the Unmoving",
+    "zh-TW": "不動心",
+    "zh-CN": "不动心"
+   },
+   "cost": 90,
+   "cooldown": [
+    15,
+    15
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "178%",
+     "last": "400%"
+    },
+    {
+     "name": {
+      "en": "SEQ 1 Stagger",
+      "zh-TW": "第一段失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "178%",
+     "last": "400%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 Stagger",
+      "zh-TW": "第二段失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Additional ATK DMG Multiplier",
+      "zh-TW": "追加傷害倍率"
+     },
+     "first": "267%",
+     "last": "600%"
+    },
+    {
+     "name": {
+      "en": "Additional ATK Stagger",
+      "zh-TW": "追加失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Illumination",
+    "zh-TW": "頓悟",
+    "zh-CN": "顿悟"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Subduer of Evil",
+    "zh-TW": "伏魔",
+    "zh-CN": "伏魔"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Breaking the Obsession",
+    "zh-TW": "破執",
+    "zh-CN": "破执"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Self Refinement",
+    "zh-TW": "修身",
+    "zh-CN": "修身"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Spiritual Cultivation",
+    "zh-TW": "養性",
+    "zh-CN": "养性"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Brief Instant",
+    "zh-TW": "剎那",
+    "zh-CN": "刹那"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Unremitting",
+    "zh-TW": "不懈",
+    "zh-CN": "不懈"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 14,
+   "agi": 20,
+   "int": 13,
+   "will": 12,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 123,
+   "agi": 132,
+   "int": 115,
+   "will": 117,
+   "atk": 312,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Metadiastima Photoemission Tube",
+      "zh-TW": "超距輝映管",
+      "zh-CN": "超距辉映管"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

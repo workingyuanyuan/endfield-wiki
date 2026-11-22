@@ -1,0 +1,394 @@
+[
+ {
+  "id": "suit_agi01",
+  "name": {
+   "en": "Roving MSGR",
+   "zh-TW": "巡行信使",
+   "zh-CN": "巡行信使"
+  },
+  "pieces": 9,
+  "need": 3,
+  "wearLevels": [
+   36,
+   50
+  ],
+  "rarities": [
+   3,
+   4
+  ]
+ },
+ {
+  "id": "suit_atb01",
+  "name": {
+   "en": "Frontiers",
+   "zh-TW": "拓荒",
+   "zh-CN": "拓荒"
+  },
+  "pieces": 14,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_atk01",
+  "name": {
+   "en": "Aburrey's Legacy",
+   "zh-TW": "阿伯莉遺聲",
+   "zh-CN": "阿伯莉遗声"
+  },
+  "pieces": 11,
+  "need": 3,
+  "wearLevels": [
+   50
+  ],
+  "rarities": [
+   4
+  ]
+ },
+ {
+  "id": "suit_atk02",
+  "name": {
+   "en": "Type 50 Yinglung",
+   "zh-TW": "50式應龍",
+   "zh-CN": "50式应龙"
+  },
+  "pieces": 14,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_str01",
+  "name": {
+   "en": "Armored MSGR",
+   "zh-TW": "重裝信使",
+   "zh-CN": "重装信使"
+  },
+  "pieces": 9,
+  "need": 3,
+  "wearLevels": [
+   36,
+   50
+  ],
+  "rarities": [
+   3,
+   4
+  ]
+ },
+ {
+  "id": "suit_wisdwill01",
+  "name": {
+   "en": "AIC Light",
+   "zh-TW": "整合輕型",
+   "zh-CN": "集成轻型"
+  },
+  "pieces": 4,
+  "need": 3,
+  "wearLevels": [
+   28
+  ],
+  "rarities": [
+   2
+  ]
+ },
+ {
+  "id": "suit_attri01",
+  "name": {
+   "en": "Bonekrusha",
+   "zh-TW": "碾骨",
+   "zh-CN": "碾骨"
+  },
+  "pieces": 14,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_burst01",
+  "name": {
+   "en": "Tide Surge",
+   "zh-TW": "潮湧",
+   "zh-CN": "潮涌"
+  },
+  "pieces": 8,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_combo_cd01",
+  "name": {
+   "en": "Qingbo",
+   "zh-TW": "清波",
+   "zh-CN": "清波"
+  },
+  "pieces": 8,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_usp01",
+  "name": {
+   "en": "Catastrophe",
+   "zh-TW": "天災防護",
+   "zh-CN": "天灾防护"
+  },
+  "pieces": 6,
+  "need": 3,
+  "wearLevels": [
+   50
+  ],
+  "rarities": [
+   4
+  ]
+ },
+ {
+  "id": "suit_criti01",
+  "name": {
+   "en": "MI Security",
+   "zh-TW": "M. I.警用",
+   "zh-CN": "M.I.警用"
+  },
+  "pieces": 15,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_phy01",
+  "name": {
+   "en": "Swordmancer",
+   "zh-TW": "點劍",
+   "zh-CN": "点剑"
+  },
+  "pieces": 11,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_crush_fracture",
+  "name": {
+   "en": "Grizzled Edge",
+   "zh-TW": "舊鋒",
+   "zh-CN": "旧锋"
+  },
+  "pieces": 6,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_expend_spell01",
+  "name": {
+   "en": "Xiranflow",
+   "zh-TW": "壤流",
+   "zh-CN": "壤流"
+  },
+  "pieces": 3,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_fire_natr01",
+  "name": {
+   "en": "Hot Work",
+   "zh-TW": "動火用",
+   "zh-CN": "动火用"
+  },
+  "pieces": 10,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_generaltype",
+  "name": {
+   "en": "AIC Fieldwork",
+   "zh-TW": "集成實訓",
+   "zh-CN": "集成实训"
+  },
+  "pieces": 18,
+  "need": 3,
+  "wearLevels": [
+   60
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_spellburst",
+  "name": {
+   "en": "Deep Rampart",
+   "zh-TW": "險關",
+   "zh-CN": "险关"
+  },
+  "pieces": 3,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_heal01",
+  "name": {
+   "en": "LYNX",
+   "zh-TW": "生物輔助",
+   "zh-CN": "生物辅助"
+  },
+  "pieces": 11,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_poise01",
+  "name": {
+   "en": "Æthertech",
+   "zh-TW": "輕超域",
+   "zh-CN": "轻超域"
+  },
+  "pieces": 7,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_pulse_cryst01",
+  "name": {
+   "en": "Pulser Labs",
+   "zh-TW": "脈衝式",
+   "zh-CN": "脉冲式"
+  },
+  "pieces": 8,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_stragi01",
+  "name": {
+   "en": "AIC Heavy",
+   "zh-TW": "整合重型",
+   "zh-CN": "集成重型"
+  },
+  "pieces": 4,
+  "need": 3,
+  "wearLevels": [
+   28
+  ],
+  "rarities": [
+   2
+  ]
+ },
+ {
+  "id": "suit_usp02",
+  "name": {
+   "en": "Eternal Xiranite",
+   "zh-TW": "長息",
+   "zh-CN": "长息"
+  },
+  "pieces": 17,
+  "need": 3,
+  "wearLevels": [
+   70
+  ],
+  "rarities": [
+   5
+  ]
+ },
+ {
+  "id": "suit_will01",
+  "name": {
+   "en": "Mordvolt Resistant",
+   "zh-TW": "蝕電防護",
+   "zh-CN": "蚀电防护"
+  },
+  "pieces": 8,
+  "need": 3,
+  "wearLevels": [
+   36,
+   50
+  ],
+  "rarities": [
+   3,
+   4
+  ]
+ },
+ {
+  "id": "suit_wisd01",
+  "name": {
+   "en": "Mordvolt Insulation",
+   "zh-TW": "蝕電絕緣",
+   "zh-CN": "蚀电屏蔽"
+  },
+  "pieces": 10,
+  "need": 3,
+  "wearLevels": [
+   36,
+   50
+  ],
+  "rarities": [
+   3,
+   4
+  ]
+ }
+]

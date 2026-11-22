@@ -1,0 +1,488 @@
+{
+ "slug": "da-pan",
+ "gameId": "chr_0018_dapan",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/da-pan",
+ "officialKey": "dapan",
+ "name": {
+  "en": "Da Pan",
+  "zh-TW": "大潘",
+  "zh-CN": "大潘"
+ },
+ "rarity": 5,
+ "class": {
+  "en": "Striker",
+  "zh-TW": "突擊",
+  "zh-CN": "突击"
+ },
+ "element": {
+  "en": "Physical",
+  "zh-TW": "物理",
+  "zh-CN": "物理"
+ },
+ "weapon": {
+  "en": "Greatsword",
+  "zh-TW": "雙手劍",
+  "zh-CN": "双手剑"
+ },
+ "mainAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "subAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "faction": {
+  "en": "Hongshan Academy of Sciences (HAS)",
+  "zh-TW": "宏山科學院",
+  "zh-CN": "宏山科学院"
+ },
+ "race": {
+  "en": "Ursus",
+  "zh-TW": "烏薩斯",
+  "zh-CN": "乌萨斯"
+ },
+ "voice": {
+  "en": {
+   "chi": "SuYi",
+   "eng": "Jon Xu",
+   "jap": "Koyama Rikiya",
+   "kor": "Hwang Chang-yung"
+  },
+  "zh-TW": {
+   "chi": "蘇翼",
+   "eng": "許棕哲",
+   "jap": "小山力也",
+   "kor": "黃椙暎"
+  },
+  "zh-CN": {
+   "chi": "苏翼",
+   "eng": "许棕哲",
+   "jap": "小山力也",
+   "kor": "黄椙暎"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "ROLLING CUT!",
+    "zh-TW": "滾刀切！",
+    "zh-CN": "滚刀切！"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "28%",
+     "last": "63%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "34%",
+     "last": "75%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "50%",
+     "last": "113%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "60%",
+     "last": "136%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "FLIP DA WOK!",
+    "zh-TW": "翻鍋！",
+    "zh-CN": "颠勺！"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "133%",
+     "last": "300%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Lift Duration (s)",
+      "zh-TW": "浮空時間（秒）"
+     },
+     "first": "1.8",
+     "last": "1.8"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "MORE SPICE!",
+    "zh-TW": "加料！",
+    "zh-CN": "加料！"
+   },
+   "cost": 0,
+   "cooldown": [
+    20,
+    19
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "289%",
+     "last": "650%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "15",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "Crush DMG Bonus",
+      "zh-TW": "猛擊傷害額外提升"
+     },
+     "first": "10%",
+     "last": "20%"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "CHOP 'N DUNK!",
+    "zh-TW": "切絲入鍋！",
+    "zh-CN": "切丝入锅！"
+   },
+   "cost": 90,
+   "cooldown": [
+    15,
+    15
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Aerial Flurry DMG Multiplier",
+      "zh-TW": "空中連斬傷害倍率"
+     },
+     "first": "22%",
+     "last": "50%"
+    },
+    {
+     "name": {
+      "en": "Ultimate DMG Multiplier",
+      "zh-TW": "終結傷害倍率"
+     },
+     "first": "178%",
+     "last": "400%"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Reduce and Thicken",
+    "zh-TW": "勾芡",
+    "zh-CN": "勾芡"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Salty or Mild",
+    "zh-TW": "嚐嚐鹹淡",
+    "zh-CN": "尝尝咸淡"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Fine Cooking",
+    "zh-TW": "精烹細作",
+    "zh-CN": "精烹细作"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Harmonized Flavors",
+    "zh-TW": "五味調和",
+    "zh-CN": "五味调和"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Model Employee",
+    "zh-TW": "先進工作者",
+    "zh-CN": "先进工作者"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Special Blend",
+    "zh-TW": "自製醬料",
+    "zh-CN": "自制酱料"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Fire it Up",
+    "zh-TW": "猛火收汁",
+    "zh-CN": "猛火收汁"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 24,
+   "agi": 9,
+   "int": 10,
+   "will": 10,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 175,
+   "agi": 96,
+   "int": 94,
+   "will": 102,
+   "atk": 303,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Triphasic Nanoflake",
+      "zh-TW": "三相奈米片",
+      "zh-CN": "三相纳米片"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

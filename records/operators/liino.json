@@ -1,0 +1,640 @@
+{
+ "slug": "liino",
+ "gameId": "chr_0035_liino",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/liino",
+ "officialKey": "liino",
+ "name": {
+  "en": "Liino",
+  "zh-TW": "梨諾",
+  "zh-CN": "梨诺"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Supporter",
+  "zh-TW": "輔助",
+  "zh-CN": "辅助"
+ },
+ "element": {
+  "en": "Electric",
+  "zh-TW": "電磁",
+  "zh-CN": "电磁"
+ },
+ "weapon": {
+  "en": "Polearm",
+  "zh-TW": "長柄武器",
+  "zh-CN": "长柄武器"
+ },
+ "mainAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "subAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "faction": {
+  "en": "Talos-II General Chamber of Commerce (TGCC)",
+  "zh-TW": "環塔商會",
+  "zh-CN": "环塔商会"
+ },
+ "race": {
+  "en": "Sarkaz",
+  "zh-TW": "薩卡茲",
+  "zh-CN": "萨卡兹"
+ },
+ "voice": {
+  "en": {
+   "chi": "DuoDuopoi",
+   "eng": "Maddie Matsumoto",
+   "jap": "Sasaki Rico",
+   "kor": "Kim Jin ah"
+  },
+  "zh-TW": {
+   "chi": "多多poi",
+   "eng": "Maddie Matsumoto",
+   "jap": "佐佐木李子",
+   "kor": "金真娥"
+  },
+  "zh-CN": {
+   "chi": "多多poi",
+   "eng": "Maddie Matsumoto",
+   "jap": "佐佐木李子",
+   "kor": "金真娥"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Starry Heart Throb",
+    "zh-TW": "怦然星動",
+    "zh-CN": "怦然星动"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "19%",
+     "last": "42%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "27%",
+     "last": "60%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "27%",
+     "last": "60%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "36%",
+     "last": "81%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "45%",
+     "last": "100%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Dazzling Focus",
+    "zh-TW": "閃耀焦點",
+    "zh-CN": "闪耀焦点"
+   },
+   "cost": 25,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "First ATK Multiplier",
+      "zh-TW": "初次傷害倍率"
+     },
+     "first": "107%",
+     "last": "240%"
+    },
+    {
+     "name": {
+      "en": "Additional ATK DMG Multiplier",
+      "zh-TW": "追加攻擊傷害倍率"
+     },
+     "first": "53%",
+     "last": "120%"
+    },
+    {
+     "name": {
+      "en": "Additional ATK Interval (s)",
+      "zh-TW": "追加攻擊間隔時間（秒）"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Beat Interval (s)",
+      "zh-TW": "歌聲間隔時間（秒）"
+     },
+     "first": "3",
+     "last": "3"
+    },
+    {
+     "name": {
+      "en": "Vocalist Stance Duration (s)",
+      "zh-TW": "演唱姿態持續時間（秒）"
+     },
+     "first": "60",
+     "last": "60"
+    },
+    {
+     "name": {
+      "en": "ATK Boost",
+      "zh-TW": "攻擊力提升"
+     },
+     "first": "6%",
+     "last": "10%"
+    },
+    {
+     "name": {
+      "en": "Base Treatment",
+      "zh-TW": "基礎治療值"
+     },
+     "first": "18",
+     "last": "41"
+    },
+    {
+     "name": {
+      "en": "Treatment Increase per Agility",
+      "zh-TW": "每點敏捷增加的治療值"
+     },
+     "first": "0.04",
+     "last": "0.09"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "3",
+     "last": "3"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Delightful Harmonics",
+    "zh-TW": "悅心音調",
+    "zh-CN": "悦心音调"
+   },
+   "cost": 0,
+   "cooldown": [
+    10,
+    8
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "160%",
+     "last": "360%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Base Treatment",
+      "zh-TW": "基礎治療值"
+     },
+     "first": "72",
+     "last": "162"
+    },
+    {
+     "name": {
+      "en": "Treatment Increase per Agility",
+      "zh-TW": "每點敏捷增加的治療值"
+     },
+     "first": "0.17",
+     "last": "0.38"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Dawnstar Concerto",
+    "zh-TW": "晨星的協奏曲",
+    "zh-CN": "晨星的协奏曲"
+   },
+   "cost": 160,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Stage Pyrotechnics DMG Multiplier",
+      "zh-TW": "舞台焰火傷害倍率"
+     },
+     "first": "142%",
+     "last": "320%"
+    },
+    {
+     "name": {
+      "en": "Electrifying Extravaganza DMG Multiplier",
+      "zh-TW": "華彩爆點傷害倍率"
+     },
+     "first": "284%",
+     "last": "640%"
+    },
+    {
+     "name": {
+      "en": "ATK Boost",
+      "zh-TW": "攻擊力提升"
+     },
+     "first": "10%",
+     "last": "10%"
+    },
+    {
+     "name": {
+      "en": "Amp Increase per Will",
+      "zh-TW": "每點意志提升的增幅效果"
+     },
+     "first": "0.018%",
+     "last": "0.04%"
+    },
+    {
+     "name": {
+      "en": "MAX Amp from Will",
+      "zh-TW": "意志提升的增幅上限"
+     },
+     "first": "40%",
+     "last": "60%"
+    },
+    {
+     "name": {
+      "en": "Base Treatment for 1st Treatment",
+      "zh-TW": "初次治療基礎治療值"
+     },
+     "first": "324",
+     "last": "729"
+    },
+    {
+     "name": {
+      "en": "Treatment Increase per Agility",
+      "zh-TW": "每點敏捷增加的治療值"
+     },
+     "first": "0.76",
+     "last": "1.7"
+    },
+    {
+     "name": {
+      "en": "DMG Multiplier per Beat",
+      "zh-TW": "單次歌聲傷害倍率"
+     },
+     "first": "27%",
+     "last": "60%"
+    },
+    {
+     "name": {
+      "en": "Base Treatment per Beat",
+      "zh-TW": "單次基礎治療值"
+     },
+     "first": "36",
+     "last": "81"
+    },
+    {
+     "name": {
+      "en": "Treatment Increase per Agility",
+      "zh-TW": "每點敏捷增加的治療值"
+     },
+     "first": "0.08",
+     "last": "0.19"
+    },
+    {
+     "name": {
+      "en": "Beat Interval (s)",
+      "zh-TW": "歌聲間隔時間（秒）"
+     },
+     "first": "1.5",
+     "last": "1.5"
+    },
+    {
+     "name": {
+      "en": "Cosmovoice Stance Duration (s)",
+      "zh-TW": "高歌姿態持續時間（秒）"
+     },
+     "first": "15",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "Electrifying Extravaganza Stagger",
+      "zh-TW": "華彩爆點失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Idol Zone",
+    "zh-TW": "偶像領域",
+    "zh-CN": "偶像领域"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Starry Boost of 1st Magnitude",
+    "zh-TW": "一等星的鼓舞",
+    "zh-CN": "一等星的鼓舞"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Flawless Stage Work",
+    "zh-TW": "台前的無瑕",
+    "zh-CN": "台前的无瑕"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Committed Rehearsals",
+    "zh-TW": "幕後的決意",
+    "zh-CN": "幕后的决意"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Longing for the Horizon",
+    "zh-TW": "天際的憧憬",
+    "zh-CN": "天际的憧憬"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Meteoric Rhythm",
+    "zh-TW": "流星的躍動",
+    "zh-CN": "流星的跃动"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Heart-Whipping Q&A",
+    "zh-TW": "笞心的問答",
+    "zh-CN": "笞心的问答"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 9,
+   "agi": 14,
+   "int": 9,
+   "will": 21,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 89,
+   "agi": 121,
+   "int": 91,
+   "will": 177,
+   "atk": 309,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Quadrant Fitting Fluid",
+      "zh-TW": "象限擬合液",
+      "zh-CN": "象限拟合液"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Talos Cap",
+      "zh-TW": "塔羅斯菌",
+      "zh-CN": "塔罗斯菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

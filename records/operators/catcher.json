@@ -1,0 +1,568 @@
+{
+ "slug": "catcher",
+ "gameId": "chr_0020_meurs",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/catcher",
+ "officialKey": "catcher",
+ "name": {
+  "en": "Catcher",
+  "zh-TW": "卡契爾",
+  "zh-CN": "卡契尔"
+ },
+ "rarity": 4,
+ "class": {
+  "en": "Defender",
+  "zh-TW": "重裝",
+  "zh-CN": "重装"
+ },
+ "element": {
+  "en": "Physical",
+  "zh-TW": "物理",
+  "zh-CN": "物理"
+ },
+ "weapon": {
+  "en": "Greatsword",
+  "zh-TW": "雙手劍",
+  "zh-CN": "双手剑"
+ },
+ "mainAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "subAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "faction": {
+  "en": "Endfield Industries",
+  "zh-TW": "終末地工業",
+  "zh-CN": "终末地工业"
+ },
+ "race": {
+  "en": "Perro",
+  "zh-TW": "佩洛",
+  "zh-CN": "佩洛"
+ },
+ "voice": {
+  "en": {
+   "chi": "Yu Kailong",
+   "eng": "Kevin Andrew Rivera",
+   "jap": "Kijima Ryuichi",
+   "kor": "Kim Hye-sung"
+  },
+  "zh-TW": {
+   "chi": "于凱隆",
+   "eng": "Kevin Andrew Rivera",
+   "jap": "木島隆一",
+   "kor": "金慧星"
+  },
+  "zh-CN": {
+   "chi": "于凯隆",
+   "eng": "Kevin Andrew Rivera",
+   "jap": "木岛隆一",
+   "kor": "金慧星"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Basic Tactics",
+    "zh-TW": "基礎戰術",
+    "zh-CN": "基础战术"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "35%",
+     "last": "79%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "39%",
+     "last": "87%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "54%",
+     "last": "122%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "71%",
+     "last": "160%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Rigid Interdiction",
+    "zh-TW": "剛性阻擊",
+    "zh-CN": "刚性阻击"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "178%",
+     "last": "400%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Protection",
+      "zh-TW": "庇護效果"
+     },
+     "first": "90%",
+     "last": "90%"
+    },
+    {
+     "name": {
+      "en": "SP Return",
+      "zh-TW": "返還技力"
+     },
+     "first": "30",
+     "last": "30"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Timely Suppression",
+    "zh-TW": "即時壓制",
+    "zh-CN": "即时压制"
+   },
+   "cost": 0,
+   "cooldown": [
+    35,
+    33
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "25%",
+     "last": "55%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "100%",
+     "last": "225%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Base Shield",
+      "zh-TW": "基礎值護盾"
+     },
+     "first": "360",
+     "last": "810"
+    },
+    {
+     "name": {
+      "en": "Shield Increase per Defense",
+      "zh-TW": "每點防禦力提升的護盾值"
+     },
+     "first": "2.25",
+     "last": "5.06"
+    },
+    {
+     "name": {
+      "en": "Shield Duration (s)",
+      "zh-TW": "護盾持續時間（秒）"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Textbook Assault",
+    "zh-TW": "教科書式猛攻",
+    "zh-CN": "教科书式猛攻"
+   },
+   "cost": 80,
+   "cooldown": [
+    15,
+    15
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "89%",
+     "last": "200%"
+    },
+    {
+     "name": {
+      "en": "SEQ 1 Stagger",
+      "zh-TW": "第一段失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "120%",
+     "last": "270%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 Stagger",
+      "zh-TW": "第二段失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SEQ 3 DMG Multiplier",
+      "zh-TW": "第三段傷害倍率"
+     },
+     "first": "178%",
+     "last": "400%"
+    },
+    {
+     "name": {
+      "en": "SEQ 3 Stagger",
+      "zh-TW": "第三段失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Weakness Effect",
+      "zh-TW": "虛弱效果"
+     },
+     "first": "20%",
+     "last": "30%"
+    },
+    {
+     "name": {
+      "en": "Weakness Duration (s)",
+      "zh-TW": "虛弱持續時間（秒）"
+     },
+     "first": "8",
+     "last": "8"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Resilient Defense",
+    "zh-TW": "堅韌防線",
+    "zh-CN": "坚韧防线"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Comprehensive Mindset",
+    "zh-TW": "全局思維",
+    "zh-CN": "全局思维"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Multi-layered Readiness",
+    "zh-TW": "多重戰備",
+    "zh-CN": "多重战备"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Bonus Spec Training",
+    "zh-TW": "額外特訓",
+    "zh-CN": "额外特训"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Unwavering Post",
+    "zh-TW": "不屈心錨",
+    "zh-CN": "不屈心锚"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Compensated Suffering",
+    "zh-TW": "苦難代償",
+    "zh-CN": "苦难代偿"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Choice Without Regrets",
+    "zh-TW": "無悔抉擇",
+    "zh-CN": "无悔抉择"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 21,
+   "agi": 9,
+   "int": 8,
+   "will": 11,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 176,
+   "agi": 96,
+   "int": 86,
+   "will": 106,
+   "atk": 300,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Tachyon Screening Lattice",
+      "zh-TW": "迅子遴撿晶格",
+      "zh-CN": "快子遴捡晶格"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

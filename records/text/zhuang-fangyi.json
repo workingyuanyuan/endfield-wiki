@@ -1,0 +1,57 @@
+{
+ "slug": "zhuang-fangyi",
+ "intro": {
+  "en": "Zhuang Fangyi is the Viceroy of the Wuling Scientific Developmental District and Tianshi of the Novel Xiranite-based Materials Project, recommended by the HAS to research rifts at Endfield.",
+  "zh-TW": "莊方宜是武陵科學發展區管代暨息壤新材計劃負責天師，經宏科院推薦加入終末地進行裂隙相關研究。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Electric combo of up to 5 hits. While she is the controlled operator, her Final Strike deals 18 Stagger.",
+   "zh-TW": "最多 5 段的電磁傷害連擊。作為主控幹員時，重擊造成 18 點失衡。"
+  },
+  "battle": {
+   "en": "Consumes the target's Electrification to boost damage and create Sunderblades equal to its Status Level +1 (max 3 per cast), or 1 without consuming Electrification if fewer than 3 exist. Nearby Sunderblades then unleash Thunder Strikes for Electric damage and bonus Ultimate Energy, with the final strike dealing 6 times damage.",
+   "zh-TW": "消耗目標的導電以提升傷害，並生成所消耗異常等級 +1 柄青霆劍（單次最多 3 柄）；場上青霆劍不足 3 柄時，未消耗導電仍生成 1 柄。接著引導附近青霆劍輪流以雷擊造成電磁傷害並回復終結技能量，末次雷擊傷害為 6 倍。"
+  },
+  "combo": {
+   "en": "Trigger: a Final Strike or Finisher from the controlled operator hits an enemy with Electric Infliction. Deploys a Xiranblitz Array for Electric damage; against enemies with Electric Infliction, it consumes stacks to force Electrification and gain Ultimate Energy per stack. If Electrification is already active, its Status Level gains +1.",
+   "zh-TW": "觸發條件：主控幹員的重擊或處決命中處於電磁附著狀態的敵人。構建息雷陣法造成電磁傷害；命中帶有電磁附著的敵人時，消耗其層數以強制施加導電，並依消耗層數額外獲得終結技能量。若敵人已有導電，所施加導電的異常等級 +1。"
+  },
+  "ultimate": {
+   "en": "Enters Empyrean of Truth: basic attacks are enhanced and her actions are harder to interrupt. Mantra of Sundering gains damage and range, applies Electric Infliction on its last hit, and its first cast costs no SP or Electrification while creating 3 Sunderblades on a target. Breath of Transformation gains area effect, damage, and 4 times faster cooldown.",
+   "zh-TW": "進入天理合真狀態，普通攻擊得到強化，自身行動不易被打斷。驚霆訣提升傷害與範圍，最後一次雷擊施加電磁附著，首次施放不消耗技力與導電，有目標時必生成 3 柄青霆劍。一息萬變改為範圍生效，提升傷害且冷卻回復速度增為 4 倍。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Casting Mantra of Sundering grants her 9% Electric Amp (18% at Promotion II) for 5 s, and each Thunder Strike hit adds +1% (+2% at Promotion II). Recasting Mantra of Sundering resets this Electric Amp.",
+   "zh-TW": "施放驚霆訣時對自身施加 9% 電磁增幅（精英化II 為 18%），持續 5 秒，每次雷擊命中再 +1%（精英化II 為 +2%）；再次施放驚霆訣時重置。"
+  },
+  {
+   "en": "Has a 9% chance to be immune to incoming damage, plus 1% per nearby Sunderblade. Triggering this immunity also restores 9% Max HP (18% at Promotion III), at most once every 99 s.",
+   "zh-TW": "有 9% 機率免疫所受傷害，附近每有一柄青霆劍再 +1%。觸發免疫後回復自身 9% 最大生命值（精英化III 為 18%），每 99 秒最多觸發一次。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Mantra of Sundering deals 1.15 times its damage, and the first cast after entering battle creates 1 extra Sunderblade that can exceed the single-cast creation limit.",
+   "zh-TW": "驚霆訣傷害提升為 1.15 倍，且進入戰鬥後首次施放額外生成 1 柄無視單次生成上限的青霆劍。"
+  },
+  {
+   "en": "Will +20, Battle Skill damage +15%.",
+   "zh-TW": "意志 +20，戰技傷害 +15%。"
+  },
+  {
+   "en": "Mantra of Sundering returns 10 SP after consuming Electrification, and Sunderblade duration increases by 10 s.",
+   "zh-TW": "驚霆訣消耗導電後返還 10 點技力，且青霆劍存在時間 +10 秒。"
+  },
+  {
+   "en": "Smiting Tempest costs 15% less Ultimate Energy.",
+   "zh-TW": "萬鈞風雷所需的終結技能量 -15%。"
+  },
+  {
+   "en": "While in Empyrean of Truth, her damage ignores 15 Electric Resistance.",
+   "zh-TW": "處於天理合真狀態時，莊方宜造成的傷害可無視目標 15 點電磁抗性。"
+  }
+ ]
+}

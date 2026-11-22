@@ -1,0 +1,592 @@
+{
+ "slug": "purrchena",
+ "gameId": "chr_0038_purrche",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/purrchena",
+ "officialKey": "purrche",
+ "name": {
+  "en": "Purrchena",
+  "zh-TW": "噗切娜",
+  "zh-CN": "噗切娜"
+ },
+ "rarity": 5,
+ "class": {
+  "en": "Defender",
+  "zh-TW": "重裝",
+  "zh-CN": "重装"
+ },
+ "element": {
+  "en": "Physical",
+  "zh-TW": "物理",
+  "zh-CN": "物理"
+ },
+ "weapon": {
+  "en": "Sword",
+  "zh-TW": "單手劍",
+  "zh-CN": "单手剑"
+ },
+ "mainAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "subAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "faction": {
+  "en": "Talos-II General Chamber of Commerce (TGCC)",
+  "zh-TW": "環塔商會",
+  "zh-CN": "环塔商会"
+ },
+ "race": {
+  "en": "Feline",
+  "zh-TW": "菲林",
+  "zh-CN": "菲林"
+ },
+ "voice": {
+  "en": {
+   "chi": "jojohan",
+   "eng": "Christine Marie Cabanos",
+   "jap": "Izawa Shiori",
+   "kor": "Park i-seo"
+  },
+  "zh-TW": {
+   "chi": "韓嬌嬌",
+   "eng": "Christine Marie Cabanos",
+   "jap": "井澤詩織",
+   "kor": "朴怡偦"
+  },
+  "zh-CN": {
+   "chi": "韩娇娇",
+   "eng": "Christine Marie Cabanos",
+   "jap": "井泽诗织",
+   "kor": "朴怡偦"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "DESSERT! HAVE SOME!",
+    "zh-TW": "點心，嚐嚐！",
+    "zh-CN": "点心，尝尝！"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "48%",
+     "last": "108%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "52%",
+     "last": "116%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "102%",
+     "last": "230%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "I'M NOT SLEEPING!",
+    "zh-TW": "我沒有睡著！",
+    "zh-CN": "我没有睡着！"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Protection",
+      "zh-TW": "庇護效果"
+     },
+     "first": "90%",
+     "last": "90%"
+    },
+    {
+     "name": {
+      "en": "Shield Up Duration (s)",
+      "zh-TW": "立盾狀態持續時間（秒）"
+     },
+     "first": "3",
+     "last": "3"
+    },
+    {
+     "name": {
+      "en": "Shield Up Duration After Successful Block (s)",
+      "zh-TW": "格擋成功後立盾狀態持續時間（秒）"
+     },
+     "first": "3",
+     "last": "3"
+    },
+    {
+     "name": {
+      "en": "Headbutt DMG Multiplier",
+      "zh-TW": "頭槌撞擊傷害倍率"
+     },
+     "first": "178%",
+     "last": "400%"
+    },
+    {
+     "name": {
+      "en": "Headbutt Stagger",
+      "zh-TW": "頭槌撞擊失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "SP Return",
+      "zh-TW": "技力返還"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Additional SP Return",
+      "zh-TW": "額外技力返還"
+     },
+     "first": "20",
+     "last": "20"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "CAKE OR \"PREZZIE\"",
+    "zh-TW": "點心還是「禮物」",
+    "zh-CN": "点心还是“礼物”"
+   },
+   "cost": 0,
+   "cooldown": [
+    24,
+    22
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Base Treatment",
+      "zh-TW": "治療基礎值"
+     },
+     "first": "216",
+     "last": "486"
+    },
+    {
+     "name": {
+      "en": "Treatment Increase per Will",
+      "zh-TW": "每點意志增加的治療值"
+     },
+     "first": "0.5",
+     "last": "1.13"
+    },
+    {
+     "name": {
+      "en": "Bomb: DMG Multiplier",
+      "zh-TW": "炸彈：傷害倍率"
+     },
+     "first": "133%",
+     "last": "300%"
+    },
+    {
+     "name": {
+      "en": "Bomb: Stagger",
+      "zh-TW": "炸彈：失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Handicraft: DMG Multiplier",
+      "zh-TW": "手工作業：傷害倍率"
+     },
+     "first": "66%",
+     "last": "150%"
+    },
+    {
+     "name": {
+      "en": "Yummy Dessert: Base Treatment",
+      "zh-TW": "好吃的點心：治療基礎值"
+     },
+     "first": "144",
+     "last": "324"
+    },
+    {
+     "name": {
+      "en": "Yummy Dessert: Treatment Increase per Will",
+      "zh-TW": "好吃的點心：每點意志增加的治療值"
+     },
+     "first": "0.34",
+     "last": "0.76"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "NAUGHTY IS BANNED!",
+    "zh-TW": "不許幹壞事！",
+    "zh-CN": "不许干坏事！"
+   },
+   "cost": 100,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "Bomb: DMG Multiplier",
+      "zh-TW": "炸彈：傷害倍率"
+     },
+     "first": "133%",
+     "last": "300%"
+    },
+    {
+     "name": {
+      "en": "Bomb: Stagger",
+      "zh-TW": "炸彈：失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Handicraft: DMG Multiplier",
+      "zh-TW": "手工作業：傷害倍率"
+     },
+     "first": "66%",
+     "last": "150%"
+    },
+    {
+     "name": {
+      "en": "Ambassador's Special: Base Chance",
+      "zh-TW": "代言人的特殊贈禮：基礎機率"
+     },
+     "first": "15%",
+     "last": "20%"
+    },
+    {
+     "name": {
+      "en": "Ambassador's Special: DMG Multiplier",
+      "zh-TW": "代言人的特殊贈禮：傷害倍率"
+     },
+     "first": "267%",
+     "last": "600%"
+    },
+    {
+     "name": {
+      "en": "Ambassador's Special: Stagger",
+      "zh-TW": "代言人的特殊贈禮：失衡值"
+     },
+     "first": "15",
+     "last": "15"
+    },
+    {
+     "name": {
+      "en": "Susceptibility Duration (s)",
+      "zh-TW": "脆弱持續時間（秒）"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Susceptibility",
+      "zh-TW": "脆弱效果"
+     },
+     "first": "1.5%",
+     "last": "2.5%"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Your sorry came LATE!",
+    "zh-TW": "道歉也來不及了！",
+    "zh-CN": "道歉也来不及了！"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Ambassador's Duty",
+    "zh-TW": "代言人的職責",
+    "zh-CN": "代言人的职责"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Warm Like the Sun",
+    "zh-TW": "太陽般溫暖",
+    "zh-CN": "太阳般温暖"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "\"Super Energetic\"",
+    "zh-TW": "「精力十足」",
+    "zh-CN": "“精力十足”"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Useful \"Prezzies\"",
+    "zh-TW": "「禮」盡其用",
+    "zh-CN": "“礼”尽其用"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "After the Feast",
+    "zh-TW": "美餐之後",
+    "zh-CN": "美餐之后"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Hot Like a BBQ Fire",
+    "zh-TW": "薪火般熾熱",
+    "zh-CN": "薪火般炽热"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 20,
+   "agi": 8,
+   "int": 9,
+   "will": 12,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 168,
+   "agi": 93,
+   "int": 89,
+   "will": 113,
+   "atk": 309,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "D96 Steel Sample 4",
+      "zh-TW": "D96鋼樣品四",
+      "zh-CN": "D96钢样品四"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Talos Cap",
+      "zh-TW": "塔羅斯菌",
+      "zh-CN": "塔罗斯菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

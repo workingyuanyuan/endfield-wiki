@@ -1,0 +1,42 @@
+{
+ "slug": "ardelia",
+ "intro": {
+  "en": "Ardelia is a Rhodes Island geologist assigned to Endfield Industries, where her field research into Ætherside and geological disasters informs the company's Blight countermeasures.",
+  "zh-TW": "艾爾黛拉來自羅德島，以地質研究專家的身分派駐終末地工業，長期在災害現場研究超域與地質災害，為終末地制定侵蝕應對措施提供依據。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Nature combo of up to 4 hits. As the controlled operator, her final strike also deals 18 Stagger.",
+   "zh-TW": "最多 4 段的自然傷害連擊。作為主控幹員時，重擊會額外造成 18 點失衡。"
+  },
+  "battle": {
+   "en": "Ardelia rides Mr. Dolly into the target for Nature damage. If the target has Corrosion, she consumes it to inflict Physical Susceptibility and Arts Susceptibility.",
+   "zh-TW": "艾爾黛拉騎乘多利先生撞擊目標，造成自然傷害。若目標處於腐蝕狀態，會將其消耗，並改為施加物理脆弱與法術脆弱。"
+  },
+  "combo": {
+   "en": "Trigger: the controlled operator lands a Final Strike on an enemy with no Vulnerability or Arts Infliction. She sends a homing Volcanic Cloud that deals Nature damage on approach, then soon explodes to deal half that Nature damage and force brief Corrosion on nearby enemies.",
+   "zh-TW": "觸發條件：主控幹員對沒有破防或法術附著的敵人打出重擊。朝目標發射追蹤的火山雲，接近時造成自然傷害，短暫延遲後爆炸，對周圍其他敵人造成一半的自然傷害並強制施加短暫的腐蝕。"
+  },
+  "ultimate": {
+   "en": "Ardelia channels while moving and scatters copies of Mr. Dolly in random directions for Nature damage on impact. Each enemy can take at most 1 hit every 0.3 s.",
+   "zh-TW": "艾爾黛拉進入可移動的持續施法狀態，向四周隨機散射多利先生的分身，命中時造成自然傷害。每個敵人每 0.3 秒最多承受 1 次傷害。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Dolly Rush creates 3 Shadows of Mr. Dolly on hit, and landing Wooly Party copies have a 10% chance to create one; Shadows last 10 s, up to 10 at once. Touching one as the controlled operator heals 45 + Will × 0.38 HP (63 + Will × 0.53 at Promotion I, 90 + Will × 0.75 at Promotion II), or the lowest-HP% ally if full.",
+   "zh-TW": "奔騰的多利命中後生成 3 個多利先生的影子，毛茸茸派對的分身落地時有 10% 機率生成；影子持續 10 秒，場上最多 10 個。主控幹員觸碰後，回復 45 + 意志 × 0.38 生命值（精英化I 為 63 + 意志 × 0.53，精英化II 為 90 + 意志 × 0.75），滿血時改治療血量比例最低的隊友。"
+  },
+  {
+   "en": "When Dolly Rush triggers its extra effect and another enemy with Corrosion is nearby, Ardelia immediately casts Dolly Rush again, at most once per active cast.",
+   "zh-TW": "奔騰的多利觸發額外效果時，若附近還有其他處於腐蝕狀態的敵人，便立即對其再施放一次戰技，每次主動施放最多觸發一次。"
+  }
+ ],
+ "potentials": [
+  {"en": "Consuming Corrosion with Dolly Rush adds +8% to the Physical Susceptibility and Arts Susceptibility applied.", "zh-TW": "奔騰的多利消耗腐蝕時，施加的物理脆弱與法術脆弱效果額外 +8%。"},
+  {"en": "Friendly Presence also heals another allied operator with the lowest HP percentage for half the amount when the controlled operator touches a Shadow of Mr. Dolly.", "zh-TW": "主控幹員觸碰多利先生的影子後，朋友的身影還會額外為另一名血量比例最低的隊友提供一半的治療量。"},
+  {"en": "Wooly Party lasts 1 s longer, and its chance to create a Shadow of Mr. Dolly becomes 1.2 times the base rate.", "zh-TW": "毛茸茸派對的持續時間 +1 秒，生成多利先生的影子的機率提升為 1.2 倍。"},
+  {"en": "Wooly Party costs 15% less Ultimate Energy.", "zh-TW": "毛茸茸派對所需的終結技能量 -15%。"},
+  {"en": "Eruption Column has 2 s shorter cooldown, deals 1.2 times its damage, and applies Corrosion for 4 s longer.", "zh-TW": "火山蘑菇雲的冷卻時間 -2 秒，傷害倍率提升為 1.2 倍，施加的腐蝕持續時間 +4 秒。"}
+ ]
+}

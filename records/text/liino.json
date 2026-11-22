@@ -1,0 +1,57 @@
+{
+ "slug": "liino",
+ "intro": {
+  "en": "Liino is a breakout Sarkaz Djall idol from the Talos-II General Chamber of Commerce, called the Morning Star of La Fantoma and noted for concerts that break with convention.",
+  "zh-TW": "梨諾是來自環塔商會的薩卡茲笞心魔新銳偶像，以突破傳統的演出風格著稱，人稱菈梵朵瑪的晨星。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Electric combo of up to 5 hits. The final strike deals 19 Stagger while she is the controlled operator.",
+   "zh-TW": "最多 5 段的電磁傷害連擊。作為主控幹員時，重擊造成 19 點失衡。"
+  },
+  "battle": {
+   "en": "Deals Electric damage and enters Vocalist Stance, boosting team ATK, periodically dealing extra Electric damage to nearby enemies, and continuously healing operators in range once in battle. During the stance, her battle skill becomes End Stance, which ends it early at no SP cost and starts a short cooldown.",
+   "zh-TW": "造成電磁傷害後進入演唱姿態，期間提升全隊攻擊力、定時對附近敵人追加電磁傷害，並在進入戰鬥後持續治療範圍內幹員。姿態期間戰技替換為姿態中止，可無消耗提前結束並使戰技進入短暫冷卻。"
+  },
+  "combo": {
+   "en": "Trigger: during Vocalist Stance, an Arts Reaction is applied to or consumed from an enemy. Liino deals Electric damage, heals the controlled operator, and gains extra Ultimate Energy without interrupting Vocalist Stance.",
+   "zh-TW": "觸發條件：演唱姿態期間，有敵人被施加法術異常或法術異常被消耗。對敵人造成電磁傷害、治療主控幹員並額外獲得終結技能量，且不會打斷演唱姿態。"
+  },
+  "ultimate": {
+   "en": "Heals the team, enters Cosmovoice Stance, and deals Electric damage with forced area Electrification. Replacing Vocalist Stance, it boosts team ATK, grants Will-scaled Electric Amp and Nature Amp, and pulses area damage and healing; unless cancelled free with End Stance, it finishes with 3 times a beat's damage and team heal.",
+   "zh-TW": "治療全隊並進入高歌姿態（取代演唱姿態），持續造成電磁傷害後大範圍強制施加導電。期間提升全隊攻擊力並施加受意志強化的電磁增幅與自然增幅，歌聲持續傷害範圍內敵人並治療友軍；若未以無消耗的姿態中止提前結束，結束時造成 3 倍單次傷害並回復全隊 3 倍單次治療量。"
+  }
+ },
+ "talents": [
+  {
+   "en": "During Vocalist Stance or Cosmovoice Stance, operators in range gain 10% Treatment Received Bonus and take 10% less damage (20% each at Promotion II), lasting 3 s after leaving.",
+   "zh-TW": "演唱姿態與高歌姿態期間，範圍內幹員受治療加成 +10%、受到的傷害 -10%（精英化II 皆為 20%），離開範圍後持續 3 秒。"
+  },
+  {
+   "en": "For 30 s after Liino casts Delightful Harmonics, the next battle skill cast by an Electric or Nature operator returns 5 SP (10 SP at Promotion III); this cannot stack and ends on trigger.",
+   "zh-TW": "施放悅心音調後 30 秒內，隊伍中電磁或自然屬性幹員下次施放戰技會返還 5 點技力（精英化III 為 10 點），無法疊加且觸發後結束。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Entering battle outside Vocalist Stance makes the first cast of Dazzling Focus return 25 extra SP, and both Vocalist Stance and Cosmovoice Stance grant an extra 6% ATK Boost.",
+   "zh-TW": "未處於演唱姿態進入戰鬥時，首次施放閃耀焦點額外返還 25 點技力，且演唱姿態與高歌姿態的攻擊力提升效果額外 +6%。"
+  },
+  {
+   "en": "Will +20, Treatment Efficiency +10%.",
+   "zh-TW": "意志 +20，治療效率 +10%。"
+  },
+  {
+   "en": "Delightful Harmonics has its cooldown reduced by 1 s, and its damage and HP Treatment increase to 1.4 times their original values.",
+   "zh-TW": "悅心音調的冷卻時間 -1 秒，傷害倍率與治療效果提升為 1.4 倍。"
+  },
+  {
+   "en": "Dawnstar Concerto costs 15% less Ultimate Energy.",
+   "zh-TW": "晨星的協奏曲所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Dawnstar Concerto's Amp effect increases to 1.2 times its original value, and both Dazzling Focus and Dawnstar Concerto deal 1.2 times their damage.",
+   "zh-TW": "晨星的協奏曲的增幅效果提升為 1.2 倍，且閃耀焦點與晨星的協奏曲的傷害倍率皆提升為 1.2 倍。"
+  }
+ ]
+}

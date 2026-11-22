@@ -1,0 +1,57 @@
+{
+ "slug": "si",
+ "intro": {
+  "en": "Si is what people on Talos-II call a Feranmut Proxy, though she is no one's proxy; she supports HAS and Endfield with her abilities and explores cities for new technology and fashion.",
+  "zh-TW": "祀是塔衛二上人們習慣稱為巨獸代理人的存在，但她並不是誰的代理；平時以能力支援宏科院與終末地，閒暇時在城市中追尋前沿科技與時尚。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Cryo combo of up to 5 hits. The final strike deals 18 Stagger while Si is the controlled operator.",
+   "zh-TW": "最多 5 段的寒冷傷害連擊。作為主控幹員時，重擊造成 18 點失衡。"
+  },
+  "battle": {
+   "en": "Deals Cryo damage, Immobilization, Artful Intent (records damage, bursts as Fixed DMG), and Cryo Infliction (Heat Infliction if Team Position 01 is Heat). Becomes Initial Stroke (15 SP) to pull an Inksoul relaying damage and effects (hits on both count once), then Final Stroke (no SP) to burst early; a defeated host relinks or drops it.",
+   "zh-TW": "造成寒冷傷害並施加定身、筆意與寒冷附著（01 號位為灼熱幹員時改為灼熱附著）；筆意記錄所受部分傷害，結束時爆發造成固定傷害。施放後依序變為起墨（消耗 15 技力）拉出墨魂將傷害與效果傳給本體（同時命中只算一次），以及收筆（不消耗技力）提前引爆；目標被擊敗時墨魂會轉連或生成。"
+  },
+  "combo": {
+   "en": "Trigger: Cryo Infliction or Heat Infliction on an enemy is consumed or absorbed. Calls forth an Ink Lung for Cryo damage scaling with the highest Arts Infliction stacks removed or absorbed from one target.",
+   "zh-TW": "觸發條件：敵人的寒冷附著或灼熱附著被消耗或吸收。召喚墨龍造成寒冷傷害，傷害依從單一目標消耗或吸收的最高附著層數提升。"
+  },
+  "ultimate": {
+   "en": "Si calls forth a Giant Ink Lung from her painting to deal Cryo damage and grant the whole team temporary Cryo Amp and Heat Amp.",
+   "zh-TW": "從畫卷召喚巨型墨龍造成寒冷傷害，並為全隊施加一段時間的寒冷增幅與灼熱增幅。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Casting No One Spoils the Fun takes 10 s off the remaining combo skill cooldown of the Team Position 01 operator (20 s at Promotion II).",
+   "zh-TW": "施放誰都不許掃興後，小隊 01 號位幹員的連攜技剩餘冷卻時間減少 10 秒（精英化II 為 20 秒）。"
+  },
+  {
+   "en": "When the Inksoul disappears, allied operators gain 15% Haste (30% at Promotion III) for 5 s.",
+   "zh-TW": "墨魂消失時，友方幹員獲得 15% 加速（精英化III 為 30%），持續 5 秒。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Brushwork Realm's Immobilization lasts 50% longer, and Artful Intent gains +7% DMG Record Ratio and +40% burst radius.",
+   "zh-TW": "河山共影造成的定身時間延長 50%，筆意記錄傷害的比例提高 7%，爆發半徑擴大 40%。"
+  },
+  {
+   "en": "Casting Fully Envisioned gives Si +8% ATK plus 3% per highest Arts Infliction stack consumed or absorbed from one target for 10 s, non-stacking.",
+   "zh-TW": "施放成竹在胸時，自身攻擊力提高 8%，並依從單一目標消耗或吸收的最高附著層數每層額外提高 3%，持續 10 秒，無法疊加。"
+  },
+  {
+   "en": "No One Spoils the Fun deals 1.2 times its damage and grants 1.2 times its Amp effect.",
+   "zh-TW": "誰都不許掃興的傷害與增幅效果皆提升為 1.2 倍。"
+  },
+  {
+   "en": "No One Spoils the Fun costs 15% less Ultimate Energy.",
+   "zh-TW": "誰都不許掃興所需的終結技能量 -15%。"
+  },
+  {
+   "en": "Fully Envisioned's cooldown is reduced by 2 s, its damage becomes 1.15 times as high, and it counts 1 extra stack of infliction as consumed or absorbed.",
+   "zh-TW": "成竹在胸的冷卻時間 -2 秒，傷害提升為 1.15 倍，且觸發時視為額外消耗或吸收 1 層附著。"
+  }
+ ]
+}

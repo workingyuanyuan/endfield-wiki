@@ -1,0 +1,528 @@
+{
+ "slug": "avywenna",
+ "gameId": "chr_0012_avywen",
+ "gameDataVersion": "1.6",
+ "gameDataPage": "https://warfarin.wiki/en/operators/avywenna",
+ "officialKey": "avywenna",
+ "name": {
+  "en": "Avywenna",
+  "zh-TW": "艾維文娜",
+  "zh-CN": "艾维文娜"
+ },
+ "rarity": 5,
+ "class": {
+  "en": "Striker",
+  "zh-TW": "突擊",
+  "zh-CN": "突击"
+ },
+ "element": {
+  "en": "Electric",
+  "zh-TW": "電磁",
+  "zh-CN": "电磁"
+ },
+ "weapon": {
+  "en": "Polearm",
+  "zh-TW": "長柄武器",
+  "zh-CN": "长柄武器"
+ },
+ "mainAttr": {
+  "en": "Will",
+  "zh-TW": "意志",
+  "zh-CN": "意志"
+ },
+ "subAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "faction": {
+  "en": "Talos-II General Chamber of Commerce (TGCC)",
+  "zh-TW": "環塔商會",
+  "zh-CN": "环塔商会"
+ },
+ "race": {
+  "en": "Cautus",
+  "zh-TW": "卡特斯",
+  "zh-CN": "卡特斯"
+ },
+ "voice": {
+  "en": {
+   "chi": "Cai Na",
+   "eng": "Sheena May",
+   "jap": "Kitamura Eri",
+   "kor": "Kang Eun-ae"
+  },
+  "zh-TW": {
+   "chi": "蔡娜",
+   "eng": "Sheena May",
+   "jap": "喜多村英梨",
+   "kor": "姜恩愛"
+  },
+  "zh-CN": {
+   "chi": "蔡娜",
+   "eng": "Sheena May",
+   "jap": "喜多村英梨",
+   "kor": "姜恩爱"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Thunderlance: Blitz",
+    "zh-TW": "雷槍·疾襲",
+    "zh-CN": "雷枪·疾袭"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "17%",
+     "last": "37%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "22%",
+     "last": "48%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "21%",
+     "last": "46%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "30%",
+     "last": "68%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "50%",
+     "last": "113%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Thunderlance: Interdiction",
+    "zh-TW": "雷槍·截回",
+    "zh-CN": "雷枪·截回"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "67%",
+     "last": "150%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Thunderlance DMG Multiplier",
+      "zh-TW": "雷槍傷害倍率"
+     },
+     "first": "75%",
+     "last": "168%"
+    },
+    {
+     "name": {
+      "en": "Thunderlance Stagger",
+      "zh-TW": "雷槍失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Thunderlance EX DMG Multiplier",
+      "zh-TW": "強雷槍傷害倍率"
+     },
+     "first": "192%",
+     "last": "432%"
+    },
+    {
+     "name": {
+      "en": "Thunderlance EX Stagger",
+      "zh-TW": "強雷槍失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Thunderlance: Strike",
+    "zh-TW": "雷槍·掣擊",
+    "zh-CN": "雷枪·掣击"
+   },
+   "cost": 0,
+   "cooldown": [
+    13,
+    12
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "169%",
+     "last": "380%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Thunderlance Duration (s)",
+      "zh-TW": "雷槍存在時間（秒）"
+     },
+     "first": "30",
+     "last": "30"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "0",
+     "last": "0"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Thunderlance: Final Shock",
+    "zh-TW": "雷槍·決顫",
+    "zh-CN": "雷枪·决颤"
+   },
+   "cost": 100,
+   "cooldown": [
+    10,
+    10
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "422%",
+     "last": "950%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "15",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "Thunderlance EX Duration (s)",
+      "zh-TW": "強雷槍存在時間（秒）"
+     },
+     "first": "30",
+     "last": "30"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Expedited Delivery",
+    "zh-TW": "高效運送",
+    "zh-CN": "高效派送"
+   },
+   "promotions": [
+    1,
+    2
+   ]
+  },
+  {
+   "name": {
+    "en": "Tactful Approach",
+    "zh-TW": "委婉手段",
+    "zh-CN": "委婉手段"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Doubling Down",
+    "zh-TW": "籌碼加倍",
+    "zh-CN": "筹码加倍"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Pole of Menace",
+    "zh-TW": "大棒懸頭",
+    "zh-CN": "大棒悬头"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Hard Negotiator",
+    "zh-TW": "絕不讓步",
+    "zh-CN": "绝不让步"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Very Experienced",
+    "zh-TW": "經驗老到",
+    "zh-CN": "经验老到"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Carrot and Sharp Stick",
+    "zh-TW": "恩威並施",
+    "zh-CN": "恩威并施"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 12,
+   "agi": 10,
+   "int": 14,
+   "will": 15,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 107,
+   "agi": 106,
+   "int": 110,
+   "will": 148,
+   "atk": 312,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Tachyon Screening Lattice",
+      "zh-TW": "迅子遴撿晶格",
+      "zh-CN": "快子遴捡晶格"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,655 @@
+{
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "stats": {
+  "attr_agi": {
+   "kind": "attribute",
+   "name": {
+    "en": "Agility",
+    "zh-TW": "敏捷提升",
+    "zh-CN": "敏捷提升"
+   }
+  },
+  "attr_str": {
+   "kind": "attribute",
+   "name": {
+    "en": "Strength",
+    "zh-TW": "力量提升",
+    "zh-CN": "力量提升"
+   }
+  },
+  "attr_will": {
+   "kind": "attribute",
+   "name": {
+    "en": "Will",
+    "zh-TW": "意志提升",
+    "zh-CN": "意志提升"
+   }
+  },
+  "attr_wisd": {
+   "kind": "attribute",
+   "name": {
+    "en": "Intellect",
+    "zh-TW": "智識提升",
+    "zh-CN": "智识提升"
+   }
+  },
+  "attr_main": {
+   "kind": "attribute",
+   "name": {
+    "en": "Main Attribute",
+    "zh-TW": "主能力提升",
+    "zh-CN": "主能力提升"
+   }
+  },
+  "attr_atk": {
+   "kind": "secondary",
+   "name": {
+    "en": "ATK",
+    "zh-TW": "攻擊提升",
+    "zh-CN": "攻击提升"
+   }
+  },
+  "attr_hp": {
+   "kind": "secondary",
+   "name": {
+    "en": "HP",
+    "zh-TW": "生命提升",
+    "zh-CN": "生命提升"
+   }
+  },
+  "attr_phydam": {
+   "kind": "secondary",
+   "name": {
+    "en": "Physical DMG",
+    "zh-TW": "物理傷害提升",
+    "zh-CN": "物理伤害提升"
+   }
+  },
+  "attr_firedam": {
+   "kind": "secondary",
+   "name": {
+    "en": "Heat DMG",
+    "zh-TW": "灼熱傷害提升",
+    "zh-CN": "灼热伤害提升"
+   }
+  },
+  "attr_pulsedam": {
+   "kind": "secondary",
+   "name": {
+    "en": "Electric DMG",
+    "zh-TW": "電磁傷害提升",
+    "zh-CN": "电磁伤害提升"
+   }
+  },
+  "attr_icedam": {
+   "kind": "secondary",
+   "name": {
+    "en": "Cryo DMG",
+    "zh-TW": "寒冷傷害提升",
+    "zh-CN": "寒冷伤害提升"
+   }
+  },
+  "attr_naturaldam": {
+   "kind": "secondary",
+   "name": {
+    "en": "Nature DMG",
+    "zh-TW": "自然傷害提升",
+    "zh-CN": "自然伤害提升"
+   }
+  },
+  "attr_crirate": {
+   "kind": "secondary",
+   "name": {
+    "en": "Critical Rate",
+    "zh-TW": "暴擊率提升",
+    "zh-CN": "暴击率提升"
+   }
+  },
+  "attr_physpell": {
+   "kind": "secondary",
+   "name": {
+    "en": "Arts Intensity",
+    "zh-TW": "源石技藝提升",
+    "zh-CN": "源石技艺提升"
+   }
+  },
+  "attr_usp": {
+   "kind": "secondary",
+   "name": {
+    "en": "ULT Efficiency",
+    "zh-TW": "終結技蓄能效率提升",
+    "zh-CN": "终结技充能效率提升"
+   }
+  },
+  "attr_magicdam": {
+   "kind": "secondary",
+   "name": {
+    "en": "Arts DMG",
+    "zh-TW": "法術傷害提升",
+    "zh-CN": "法术伤害提升"
+   }
+  },
+  "attr_heal": {
+   "kind": "secondary",
+   "name": {
+    "en": "Treatment Efficiency",
+    "zh-TW": "治療效率提升",
+    "zh-CN": "治疗效率提升"
+   }
+  },
+  "force": {
+   "kind": "skill",
+   "name": {
+    "en": "Assault",
+    "zh-TW": "強攻",
+    "zh-CN": "强攻"
+   }
+  },
+  "tactic": {
+   "kind": "skill",
+   "name": {
+    "en": "Suppression",
+    "zh-TW": "壓制",
+    "zh-CN": "压制"
+   }
+  },
+  "combo": {
+   "kind": "skill",
+   "name": {
+    "en": "Pursuit",
+    "zh-TW": "追襲",
+    "zh-CN": "追袭"
+   }
+  },
+  "smash": {
+   "kind": "skill",
+   "name": {
+    "en": "Crusher",
+    "zh-TW": "粉碎",
+    "zh-CN": "粉碎"
+   }
+  },
+  "spirit": {
+   "kind": "skill",
+   "name": {
+    "en": "Inspiring",
+    "zh-TW": "昂揚",
+    "zh-CN": "昂扬"
+   }
+  },
+  "phyabn": {
+   "kind": "skill",
+   "name": {
+    "en": "Combative",
+    "zh-TW": "巧技",
+    "zh-CN": "巧技"
+   }
+  },
+  "break": {
+   "kind": "skill",
+   "name": {
+    "en": "Brutality",
+    "zh-TW": "殘暴",
+    "zh-CN": "残暴"
+   }
+  },
+  "magabn": {
+   "kind": "skill",
+   "name": {
+    "en": "Infliction",
+    "zh-TW": "附術",
+    "zh-CN": "附术"
+   }
+  },
+  "heal": {
+   "kind": "skill",
+   "name": {
+    "en": "Medicant",
+    "zh-TW": "醫療",
+    "zh-CN": "医疗"
+   }
+  },
+  "crit": {
+   "kind": "skill",
+   "name": {
+    "en": "Fracture",
+    "zh-TW": "切骨",
+    "zh-CN": "切骨"
+   }
+  },
+  "burst": {
+   "kind": "skill",
+   "name": {
+    "en": "Detonate",
+    "zh-TW": "迸發",
+    "zh-CN": "迸发"
+   }
+  },
+  "ult": {
+   "kind": "skill",
+   "name": {
+    "en": "Twilight",
+    "zh-TW": "夜幕",
+    "zh-CN": "夜幕"
+   }
+  },
+  "tacafter": {
+   "kind": "skill",
+   "name": {
+    "en": "Flow",
+    "zh-TW": "流轉",
+    "zh-CN": "流转"
+   }
+  },
+  "keyword": {
+   "kind": "skill",
+   "name": {
+    "en": "Efficacy",
+    "zh-TW": "效益",
+    "zh-CN": "效益"
+   }
+  }
+ },
+ "weapons": {
+  "wpn_pistol_0011": [
+   "attr_agi",
+   "attr_atk",
+   "burst"
+  ],
+  "wpn_funnel_0019": [
+   "attr_agi",
+   "attr_atk",
+   "burst"
+  ],
+  "wpn_pistol_0006": [
+   "attr_agi",
+   "attr_magicdam",
+   "magabn"
+  ],
+  "wpn_sword_0018": [
+   "attr_agi",
+   "attr_atk",
+   "magabn"
+  ],
+  "wpn_sword_0021": [
+   "attr_agi",
+   "attr_atk",
+   "magabn"
+  ],
+  "wpn_sword_0021_ink": [
+   "attr_agi",
+   "attr_atk",
+   "magabn"
+  ],
+  "wpn_funnel_0012": [
+   "attr_will",
+   "attr_heal",
+   "heal"
+  ],
+  "wpn_lance_0014": [
+   "attr_will",
+   "attr_heal",
+   "heal"
+  ],
+  "wpn_funnel_0004": [
+   "attr_wisd",
+   "attr_pulsedam",
+   "magabn"
+  ],
+  "wpn_lance_0003": [
+   "attr_agi",
+   "attr_atk",
+   "spirit"
+  ],
+  "wpn_lance_0012": [
+   "attr_agi",
+   "attr_phydam",
+   "keyword"
+  ],
+  "wpn_sword_0019": [
+   "attr_agi",
+   "attr_atk",
+   "tacafter"
+  ],
+  "wpn_claym_0003": [
+   "attr_str",
+   "attr_atk",
+   "tactic"
+  ],
+  "wpn_sword_0022": [
+   "attr_agi",
+   "attr_crirate",
+   "crit"
+  ],
+  "wpn_funnel_0020": [
+   "attr_agi",
+   "attr_naturaldam",
+   "burst"
+  ],
+  "wpn_pistol_0010": [
+   "attr_wisd",
+   "attr_crirate",
+   "crit"
+  ],
+  "wpn_sword_0017": [
+   "attr_agi",
+   "attr_crirate",
+   "ult"
+  ],
+  "wpn_lance_0015": [
+   "attr_agi",
+   "attr_firedam",
+   "tacafter"
+  ],
+  "wpn_sword_0010": [
+   "attr_wisd",
+   "attr_firedam",
+   "magabn"
+  ],
+  "wpn_pistol_0007": [
+   "attr_agi",
+   "attr_icedam",
+   "tactic"
+  ],
+  "wpn_funnel_0017": [
+   "attr_will",
+   "attr_pulsedam",
+   "keyword"
+  ],
+  "wpn_sword_0005": [
+   "attr_agi",
+   "attr_phydam",
+   "phyabn"
+  ],
+  "wpn_lance_0010": [
+   "attr_agi",
+   "attr_phydam",
+   "phyabn"
+  ],
+  "wpn_funnel_0007": [
+   "attr_will",
+   "attr_usp",
+   "spirit"
+  ],
+  "wpn_sword_0008": [
+   "attr_agi",
+   "attr_phydam",
+   "tactic"
+  ],
+  "wpn_sword_0015": [
+   "attr_agi",
+   "attr_phydam",
+   "ult"
+  ],
+  "wpn_pistol_0012": [
+   "attr_agi",
+   "attr_usp",
+   "burst"
+  ],
+  "wpn_pistol_0004": [
+   "attr_str",
+   "attr_firedam",
+   "combo"
+  ],
+  "wpn_lance_0007": [
+   "attr_agi",
+   "attr_usp",
+   "keyword"
+  ],
+  "wpn_lance_0011": [
+   "attr_main",
+   "attr_atk",
+   "tactic"
+  ],
+  "wpn_claym_0004": [
+   "attr_main",
+   "attr_atk",
+   "tactic"
+  ],
+  "wpn_claym_0016": [
+   "attr_str",
+   "attr_physpell",
+   "tactic"
+  ],
+  "wpn_pistol_0008": [
+   "attr_main",
+   "attr_crirate",
+   "magabn"
+  ],
+  "wpn_sword_0011": [
+   "attr_main",
+   "attr_crirate",
+   "ult"
+  ],
+  "wpn_claym_0015": [
+   "attr_str",
+   "attr_hp",
+   "keyword"
+  ],
+  "wpn_pistol_0009": [
+   "attr_main",
+   "attr_magicdam",
+   "magabn"
+  ],
+  "wpn_sword_0013": [
+   "attr_main",
+   "attr_phydam",
+   "break"
+  ],
+  "wpn_lance_0006": [
+   "attr_will",
+   "attr_pulsedam",
+   "tactic"
+  ],
+  "wpn_funnel_0008": [
+   "attr_main",
+   "attr_physpell",
+   "burst"
+  ],
+  "wpn_sword_0026": [
+   "attr_main",
+   "attr_physpell",
+   "force"
+  ],
+  "wpn_sword_0014": [
+   "attr_main",
+   "attr_physpell",
+   "magabn"
+  ],
+  "wpn_lance_0013": [
+   "attr_will",
+   "attr_phydam",
+   "magabn"
+  ],
+  "wpn_claym_0013": [
+   "attr_str",
+   "attr_atk",
+   "burst"
+  ],
+  "wpn_sword_0023": [
+   "attr_str",
+   "attr_heal",
+   "heal"
+  ],
+  "wpn_funnel_0006": [
+   "attr_will",
+   "attr_naturaldam",
+   "tactic"
+  ],
+  "wpn_claym_0017": [
+   "attr_str",
+   "attr_atk",
+   "phyabn"
+  ],
+  "wpn_claym_0008": [
+   "attr_str",
+   "attr_crirate",
+   "smash"
+  ],
+  "wpn_claym_0012": [
+   "attr_str",
+   "attr_hp",
+   "heal"
+  ],
+  "wpn_claym_0007": [
+   "attr_str",
+   "attr_hp",
+   "heal"
+  ],
+  "wpn_sword_0020": [
+   "attr_str",
+   "attr_icedam",
+   "tactic"
+  ],
+  "wpn_pistol_0003": [
+   "attr_str",
+   "attr_magicdam",
+   "combo"
+  ],
+  "wpn_claym_0014": [
+   "attr_str",
+   "attr_physpell",
+   "break"
+  ],
+  "wpn_lance_0004": [
+   "attr_str",
+   "attr_usp",
+   "break"
+  ],
+  "wpn_claym_0011": [
+   "attr_str",
+   "attr_usp",
+   "burst"
+  ],
+  "wpn_sword_0025": [
+   "attr_will",
+   "attr_atk",
+   "magabn"
+  ],
+  "wpn_sword_0016": [
+   "attr_will",
+   "attr_atk",
+   "tacafter"
+  ],
+  "wpn_sword_0012": [
+   "attr_will",
+   "attr_atk",
+   "tacafter"
+  ],
+  "wpn_sword_0024": [
+   "attr_will",
+   "attr_pulsedam",
+   "burst"
+  ],
+  "wpn_funnel_0003": [
+   "attr_will",
+   "attr_atk",
+   "tactic"
+  ],
+  "wpn_funnel_0015": [
+   "attr_will",
+   "attr_atk",
+   "tactic"
+  ],
+  "wpn_lance_0016": [
+   "attr_will",
+   "attr_heal",
+   "combo"
+  ],
+  "wpn_funnel_0010": [
+   "attr_will",
+   "attr_hp",
+   "heal"
+  ],
+  "wpn_claym_0006": [
+   "attr_will",
+   "attr_hp",
+   "keyword"
+  ],
+  "wpn_claym_0009": [
+   "attr_will",
+   "attr_hp",
+   "smash"
+  ],
+  "wpn_lance_0008": [
+   "attr_will",
+   "attr_magicdam",
+   "tactic"
+  ],
+  "wpn_funnel_0011": [
+   "attr_will",
+   "attr_usp",
+   "combo"
+  ],
+  "wpn_sword_0009": [
+   "attr_wisd",
+   "attr_atk",
+   "combo"
+  ],
+  "wpn_pistol_0005": [
+   "attr_wisd",
+   "attr_icedam",
+   "magabn"
+  ],
+  "wpn_funnel_0001": [
+   "attr_wisd",
+   "attr_magicdam",
+   "spirit"
+  ],
+  "wpn_pistol_0002": [
+   "attr_wisd",
+   "attr_atk",
+   "tactic"
+  ],
+  "wpn_funnel_0005": [
+   "attr_wisd",
+   "attr_atk",
+   "ult"
+  ],
+  "wpn_sword_0006": [
+   "attr_wisd",
+   "attr_atk",
+   "ult"
+  ],
+  "wpn_funnel_0013": [
+   "attr_wisd",
+   "attr_heal",
+   "magabn"
+  ],
+  "wpn_claym_0018": [
+   "attr_wisd",
+   "attr_icedam",
+   "keyword"
+  ],
+  "wpn_claym_0019": [
+   "attr_wisd",
+   "attr_icedam",
+   "keyword"
+  ],
+  "wpn_funnel_0009": [
+   "attr_wisd",
+   "attr_magicdam",
+   "ult"
+  ],
+  "wpn_funnel_0014": [
+   "attr_wisd",
+   "attr_physpell",
+   "combo"
+  ],
+  "wpn_funnel_0016": [
+   "attr_wisd",
+   "attr_usp",
+   "burst"
+  ],
+  "wpn_funnel_0018": [
+   "attr_wisd",
+   "attr_usp",
+   "keyword"
+  ],
+  "wpn_sword_0007": [
+   "attr_wisd",
+   "attr_usp",
+   "spirit"
+  ]
+ }
+}

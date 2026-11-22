@@ -1,0 +1,57 @@
+{
+ "slug": "akekuri",
+ "intro": {
+  "en": "Akekuri is a former Business School honors student who volunteered for Endfield Industries, built Operations Team Z7 of the Specialist Tech Division almost single-handedly, and captains it.",
+  "zh-TW": "秋栗原為自薦加入終末地工業的商學院資優生，幾乎憑一己之力建立特種技術部門 Z7 行動組，並擔任組長。"
+ },
+ "skills": {
+  "basic": {
+   "en": "Physical combo of up to 4 hits. Her Final Strike deals 17 Stagger while she is the controlled operator.",
+   "zh-TW": "最多 4 段的物理傷害連擊。作為主控幹員時，重擊造成 17 點失衡。"
+  },
+  "battle": {
+   "en": "She slashes forward to deal Heat damage and apply Heat Infliction.",
+   "zh-TW": "朝前方揮劍斬擊，造成灼熱傷害並施加灼熱附著。"
+  },
+  "combo": {
+   "en": "Trigger: an enemy becomes Staggered or reaches a Stagger Node. She dashes out and back for 2 thrust hits, each dealing Physical damage and recovering SP.",
+   "zh-TW": "觸發條件：敵人進入失衡或觸發失衡節點。往返突刺 2 段，每段皆造成物理傷害並回復一定技力。"
+  },
+  "ultimate": {
+   "en": "She channels to launch 3 Rallying Flares, recovering SP with each shot.",
+   "zh-TW": "進入持續施法狀態並發射 3 枚集結信號彈，每次發射皆會回復技力。"
+  }
+ },
+ "talents": [
+  {
+   "en": "Flash and Dash gains +1.0% SP Recovery per 10 Intellect, up to 50% (+1.5% and up to 75% at Promotion II).",
+   "zh-TW": "每 10 點智識使快閃衝擊的技力回復量 +1.0%，上限 50%（精英化II 為 +1.5%，上限 75%）。"
+  },
+  {
+   "en": "While SQUAD! ON ME! is active, she gains a Link buff.",
+   "zh-TW": "施放小隊，集結！期間，自身獲得連擊。"
+  }
+ ],
+ "potentials": [
+  {
+   "en": "Recovering SP with skills grants Akekuri +10% ATK for 10 s, stacking up to 5 times.",
+   "zh-TW": "透過技能回復技力後，秋栗獲得攻擊力 +10%，持續 10 秒，最多疊加 5 層。"
+  },
+  {
+   "en": "Agility +10 and Intellect +10.",
+   "zh-TW": "敏捷 +10，智識 +10。"
+  },
+  {
+   "en": "While SQUAD! ON ME! is active, the whole team gains +10% ATK.",
+   "zh-TW": "小隊，集結！施放期間，全隊攻擊力 +10%。"
+  },
+  {
+   "en": "SQUAD! ON ME! costs 10% less Ultimate Energy.",
+   "zh-TW": "小隊，集結！所需的終結技能量 -10%。"
+  },
+  {
+   "en": "The Link buff from Staying in the Zone lasts for 5 s after SQUAD! ON ME! ends.",
+   "zh-TW": "心流時間提供的連擊會在小隊，集結！結束後再持續 5 秒。"
+  }
+ ]
+}
