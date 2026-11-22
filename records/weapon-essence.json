@@ -6,7 +6,9 @@
    "name": {
     "en": "Agility",
     "zh-TW": "敏捷提升",
-    "zh-CN": "敏捷提升"
+    "zh-CN": "敏捷提升",
+    "ja": "敏捷UP",
+    "ko": "민첩 증가"
    }
   },
   "attr_str": {
@@ -14,7 +16,9 @@
    "name": {
     "en": "Strength",
     "zh-TW": "力量提升",
-    "zh-CN": "力量提升"
+    "zh-CN": "力量提升",
+    "ja": "筋力UP",
+    "ko": "힘 증가"
    }
   },
   "attr_will": {
@@ -22,7 +26,9 @@
    "name": {
     "en": "Will",
     "zh-TW": "意志提升",
-    "zh-CN": "意志提升"
+    "zh-CN": "意志提升",
+    "ja": "意志UP",
+    "ko": "의지 증가"
    }
   },
   "attr_wisd": {
@@ -30,7 +36,9 @@
    "name": {
     "en": "Intellect",
     "zh-TW": "智識提升",
-    "zh-CN": "智识提升"
+    "zh-CN": "智识提升",
+    "ja": "知性UP",
+    "ko": "지능 증가"
    }
   },
   "attr_main": {
@@ -38,7 +46,9 @@
    "name": {
     "en": "Main Attribute",
     "zh-TW": "主能力提升",
-    "zh-CN": "主能力提升"
+    "zh-CN": "主能力提升",
+    "ja": "メイン能力UP",
+    "ko": "주요 능력치 증가"
    }
   },
   "attr_atk": {
@@ -46,7 +56,9 @@
    "name": {
     "en": "ATK",
     "zh-TW": "攻擊提升",
-    "zh-CN": "攻击提升"
+    "zh-CN": "攻击提升",
+    "ja": "攻撃力UP",
+    "ko": "공격력 증가"
    }
   },
   "attr_hp": {
@@ -54,7 +66,9 @@
    "name": {
     "en": "HP",
     "zh-TW": "生命提升",
-    "zh-CN": "生命提升"
+    "zh-CN": "生命提升",
+    "ja": "HPアップ",
+    "ko": "생명력 증가"
    }
   },
   "attr_phydam": {
@@ -62,7 +76,9 @@
    "name": {
     "en": "Physical DMG",
     "zh-TW": "物理傷害提升",
-    "zh-CN": "物理伤害提升"
+    "zh-CN": "物理伤害提升",
+    "ja": "物理ダメージUP",
+    "ko": "물리 피해 증가"
    }
   },
   "attr_firedam": {
@@ -70,7 +86,9 @@
    "name": {
     "en": "Heat DMG",
     "zh-TW": "灼熱傷害提升",
-    "zh-CN": "灼热伤害提升"
+    "zh-CN": "灼热伤害提升",
+    "ja": "灼熱ダメージUP",
+    "ko": "열기 피해 증가"
    }
   },
   "attr_pulsedam": {
@@ -78,7 +96,9 @@
    "name": {
     "en": "Electric DMG",
     "zh-TW": "電磁傷害提升",
-    "zh-CN": "电磁伤害提升"
+    "zh-CN": "电磁伤害提升",
+    "ja": "電磁ダメージUP",
+    "ko": "전기 피해 증가"
    }
   },
   "attr_icedam": {
@@ -86,7 +106,9 @@
    "name": {
     "en": "Cryo DMG",
     "zh-TW": "寒冷傷害提升",
-    "zh-CN": "寒冷伤害提升"
+    "zh-CN": "寒冷伤害提升",
+    "ja": "寒冷ダメージUP",
+    "ko": "냉기 피해 증가"
    }
   },
   "attr_naturaldam": {
@@ -94,7 +116,9 @@
    "name": {
     "en": "Nature DMG",
     "zh-TW": "自然傷害提升",
-    "zh-CN": "自然伤害提升"
+    "zh-CN": "自然伤害提升",
+    "ja": "自然ダメージUP",
+    "ko": "자연 피해 증가"
    }
   },
   "attr_crirate": {
@@ -102,7 +126,9 @@
    "name": {
     "en": "Critical Rate",
     "zh-TW": "暴擊率提升",
-    "zh-CN": "暴击率提升"
+    "zh-CN": "暴击率提升",
+    "ja": "会心率UP",
+    "ko": "치명타 확률 증가"
    }
   },
   "attr_physpell": {
@@ -110,7 +136,9 @@
    "name": {
     "en": "Arts Intensity",
     "zh-TW": "源石技藝提升",
-    "zh-CN": "源石技艺提升"
+    "zh-CN": "源石技艺提升",
+    "ja": "アーツ強度UP",
+    "ko": "오리지늄 아츠 강도 증가"
    }
   },
   "attr_usp": {
@@ -118,7 +146,9 @@
    "name": {
     "en": "ULT Efficiency",
     "zh-TW": "終結技蓄能效率提升",
-    "zh-CN": "终结技充能效率提升"
+    "zh-CN": "终结技充能效率提升",
+    "ja": "必殺技効率UP",
+    "ko": "궁극기 충전 효율 증가"
    }
   },
   "attr_magicdam": {
@@ -126,7 +156,9 @@
    "name": {
     "en": "Arts DMG",
     "zh-TW": "法術傷害提升",
-    "zh-CN": "法术伤害提升"
+    "zh-CN": "法术伤害提升",
+    "ja": "アーツダメージUP",
+    "ko": "아츠 피해 증가"
    }
   },
   "attr_heal": {
@@ -134,7 +166,9 @@
    "name": {
     "en": "Treatment Efficiency",
     "zh-TW": "治療效率提升",
-    "zh-CN": "治疗效率提升"
+    "zh-CN": "治疗效率提升",
+    "ja": "回復効率UP",
+    "ko": "치유 효율 증가"
    }
   },
   "force": {
@@ -142,7 +176,9 @@
    "name": {
     "en": "Assault",
     "zh-TW": "強攻",
-    "zh-CN": "强攻"
+    "zh-CN": "强攻",
+    "ja": "強攻",
+    "ko": "강공"
    }
   },
   "tactic": {
@@ -150,7 +186,9 @@
    "name": {
     "en": "Suppression",
     "zh-TW": "壓制",
-    "zh-CN": "压制"
+    "zh-CN": "压制",
+    "ja": "圧制",
+    "ko": "억제"
    }
   },
   "combo": {
@@ -158,7 +196,9 @@
    "name": {
     "en": "Pursuit",
     "zh-TW": "追襲",
-    "zh-CN": "追袭"
+    "zh-CN": "追袭",
+    "ja": "追襲",
+    "ko": "추격"
    }
   },
   "smash": {
@@ -166,7 +206,9 @@
    "name": {
     "en": "Crusher",
     "zh-TW": "粉碎",
-    "zh-CN": "粉碎"
+    "zh-CN": "粉碎",
+    "ja": "破砕",
+    "ko": "분쇄"
    }
   },
   "spirit": {
@@ -174,7 +216,9 @@
    "name": {
     "en": "Inspiring",
     "zh-TW": "昂揚",
-    "zh-CN": "昂扬"
+    "zh-CN": "昂扬",
+    "ja": "昂揚",
+    "ko": "사기"
    }
   },
   "phyabn": {
@@ -182,7 +226,9 @@
    "name": {
     "en": "Combative",
     "zh-TW": "巧技",
-    "zh-CN": "巧技"
+    "zh-CN": "巧技",
+    "ja": "巧技",
+    "ko": "기예"
    }
   },
   "break": {
@@ -190,7 +236,9 @@
    "name": {
     "en": "Brutality",
     "zh-TW": "殘暴",
-    "zh-CN": "残暴"
+    "zh-CN": "残暴",
+    "ja": "残虐",
+    "ko": "잔혹"
    }
   },
   "magabn": {
@@ -198,7 +246,9 @@
    "name": {
     "en": "Infliction",
     "zh-TW": "附術",
-    "zh-CN": "附术"
+    "zh-CN": "附术",
+    "ja": "付術",
+    "ko": "고통"
    }
   },
   "heal": {
@@ -206,7 +256,9 @@
    "name": {
     "en": "Medicant",
     "zh-TW": "醫療",
-    "zh-CN": "医疗"
+    "zh-CN": "医疗",
+    "ja": "治癒",
+    "ko": "의료"
    }
   },
   "crit": {
@@ -214,7 +266,9 @@
    "name": {
     "en": "Fracture",
     "zh-TW": "切骨",
-    "zh-CN": "切骨"
+    "zh-CN": "切骨",
+    "ja": "切骨",
+    "ko": "골절"
    }
   },
   "burst": {
@@ -222,7 +276,9 @@
    "name": {
     "en": "Detonate",
     "zh-TW": "迸發",
-    "zh-CN": "迸发"
+    "zh-CN": "迸发",
+    "ja": "噴発",
+    "ko": "방출"
    }
   },
   "ult": {
@@ -230,7 +286,9 @@
    "name": {
     "en": "Twilight",
     "zh-TW": "夜幕",
-    "zh-CN": "夜幕"
+    "zh-CN": "夜幕",
+    "ja": "夜幕",
+    "ko": "어둠"
    }
   },
   "tacafter": {
@@ -238,7 +296,9 @@
    "name": {
     "en": "Flow",
     "zh-TW": "流轉",
-    "zh-CN": "流转"
+    "zh-CN": "流转",
+    "ja": "流回",
+    "ko": "흐름"
    }
   },
   "keyword": {
@@ -246,7 +306,9 @@
    "name": {
     "en": "Efficacy",
     "zh-TW": "效益",
-    "zh-CN": "效益"
+    "zh-CN": "效益",
+    "ja": "効率",
+    "ko": "효율"
    }
   }
  },

@@ -26,7 +26,7 @@ This site is not run by Hypergryph or Gryphline. It covers the global service.
 | Section | What it lists |
 | --- | --- |
 | [Operators](/operators/) | One page per operator: profile, how to obtain, skills, skill values, talents, potentials, stats and promotion materials |
-| [Systems](/systems/) | Headhunting rates and pity, Arsenal and Essences, servers and time, platforms, combat mechanics and the damage formula, operator progression, weapons and their recommended operators, gear sets, the Dijiang base, names in three scripts |
+| [Systems](/systems/) | Headhunting rates and pity, Arsenal and Essences, servers and time, platforms, combat mechanics and the damage formula, operator progression, weapons and their recommended operators, gear sets, enemy resistances, the Dijiang base, names in three scripts |
 | [AIC](/aic/) | The Automated Industry Complex: power, production and logistics, recipes by product, Regional Development |
 | [Versions](/versions/) | Every version: number, title, update date, new operators and content, banners |
 

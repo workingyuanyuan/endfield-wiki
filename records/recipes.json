@@ -4,1132 +4,1584 @@
   "item_iron_nugget": {
    "en": "Ferrium",
    "zh-TW": "藍鐵塊",
-   "zh-CN": "蓝铁块"
+   "zh-CN": "蓝铁块",
+   "ja": "青鉄塊",
+   "ko": "페리움 조각"
   },
   "item_iron_cmpt": {
    "en": "Ferrium Part",
    "zh-TW": "鐵製零件",
-   "zh-CN": "铁制零件"
+   "zh-CN": "铁制零件",
+   "ja": "鉄製部品",
+   "ko": "페리움 부품"
   },
   "item_quartz_glass": {
    "en": "Amethyst Fiber",
    "zh-TW": "紫晶纖維",
-   "zh-CN": "紫晶纤维"
+   "zh-CN": "紫晶纤维",
+   "ja": "紫晶繊維",
+   "ko": "자수정 섬유"
   },
   "item_glass_cmpt": {
    "en": "Amethyst Part",
    "zh-TW": "紫晶零件",
-   "zh-CN": "紫晶零件"
+   "zh-CN": "紫晶零件",
+   "ja": "紫晶部品",
+   "ko": "자수정 부품"
   },
   "item_iron_enr": {
    "en": "Steel",
    "zh-TW": "鋼塊",
-   "zh-CN": "钢块"
+   "zh-CN": "钢块",
+   "ja": "鋼",
+   "ko": "강철 조각"
   },
   "item_iron_enr_cmpt": {
    "en": "Steel Part",
    "zh-TW": "鋼製零件",
-   "zh-CN": "钢制零件"
+   "zh-CN": "钢制零件",
+   "ja": "鋼製部品",
+   "ko": "강철 부품"
   },
   "item_quartz_enr": {
    "en": "Cryston Fiber",
    "zh-TW": "高晶纖維",
-   "zh-CN": "高晶纤维"
+   "zh-CN": "高晶纤维",
+   "ja": "高晶繊維",
+   "ko": "크리스톤 섬유"
   },
   "item_glass_enr_cmpt": {
    "en": "Cryston Part",
    "zh-TW": "高晶零件",
-   "zh-CN": "高晶零件"
+   "zh-CN": "高晶零件",
+   "ja": "高晶部品",
+   "ko": "크리스톤 부품"
   },
   "item_copper_nugget": {
    "en": "Cuprium",
    "zh-TW": "赤銅塊",
-   "zh-CN": "赤铜块"
+   "zh-CN": "赤铜块",
+   "ja": "赤銅塊",
+   "ko": "적동 조각"
   },
   "item_copper_cmpt": {
    "en": "Cuprium Part",
    "zh-TW": "赤銅零件",
-   "zh-CN": "赤铜零件"
+   "zh-CN": "赤铜零件",
+   "ja": "赤銅部品",
+   "ko": "적동 부품"
   },
   "item_copper_enr": {
    "en": "Hetonite",
    "zh-TW": "赫銅塊",
-   "zh-CN": "赫铜块"
+   "zh-CN": "赫铜块",
+   "ja": "緋銅塊",
+   "ko": "혁동 조각"
   },
   "item_copper_enr_cmpt": {
    "en": "Hetonite Part",
    "zh-TW": "赫銅零件",
-   "zh-CN": "赫铜零件"
+   "zh-CN": "赫铜零件",
+   "ja": "緋銅部品",
+   "ko": "혁동 부품"
   },
   "item_copper_enr2": {
    "en": "Pyrrolite",
    "zh-TW": "灼銅塊",
-   "zh-CN": "灼铜块"
+   "zh-CN": "灼铜块",
+   "ja": "焔銅塊",
+   "ko": "작동 조각"
   },
   "item_copper_enr2_cmpt": {
    "en": "Pyrrolite Part",
    "zh-TW": "灼銅零件",
-   "zh-CN": "灼铜零件"
+   "zh-CN": "灼铜零件",
+   "ja": "焔銅部品",
+   "ko": "작동 부품"
   },
   "item_fbottle_glass_water": {
    "en": "Amethyst Bottle",
    "zh-TW": "紫晶質瓶",
-   "zh-CN": "紫晶质瓶"
+   "zh-CN": "紫晶质瓶",
+   "ja": "紫晶製ボトル",
+   "ko": "자수정 병"
   },
   "item_glass_bottle": {
    "en": "Amethyst Bottle",
    "zh-TW": "紫晶質瓶",
-   "zh-CN": "紫晶质瓶"
+   "zh-CN": "紫晶质瓶",
+   "ja": "紫晶製ボトル",
+   "ko": "자수정 병"
   },
   "item_liquid_water": {
    "en": "Clean Water",
    "zh-TW": "清水",
-   "zh-CN": "清水"
+   "zh-CN": "清水",
+   "ja": "水",
+   "ko": "청정수"
   },
   "item_fbottle_glass_acid": {
    "en": "Amethyst Bottle",
    "zh-TW": "紫晶質瓶",
-   "zh-CN": "紫晶质瓶"
+   "zh-CN": "紫晶质瓶",
+   "ja": "紫晶製ボトル",
+   "ko": "자수정 병"
   },
   "item_liquid_acid": {
    "en": "Precipitation Acid",
    "zh-TW": "沉積酸",
-   "zh-CN": "沉积酸"
+   "zh-CN": "沉积酸",
+   "ja": "沈殿酸",
+   "ko": "산성 침적물"
   },
   "item_fbottle_glass_sewage": {
    "en": "Amethyst Bottle",
    "zh-TW": "紫晶質瓶",
-   "zh-CN": "紫晶质瓶"
+   "zh-CN": "紫晶质瓶",
+   "ja": "紫晶製ボトル",
+   "ko": "자수정 병"
   },
   "item_liquid_sewage": {
    "en": "Sewage",
    "zh-TW": "汙水",
-   "zh-CN": "污水"
+   "zh-CN": "污水",
+   "ja": "汚水",
+   "ko": "오염수"
   },
   "item_fbottle_glass_grass_1": {
    "en": "Amethyst Bottle",
    "zh-TW": "紫晶質瓶",
-   "zh-CN": "紫晶质瓶"
+   "zh-CN": "紫晶质瓶",
+   "ja": "紫晶製ボトル",
+   "ko": "자수정 병"
   },
   "item_liquid_plant_grass_1": {
    "en": "Jincao Solution",
    "zh-TW": "錦草溶液",
-   "zh-CN": "锦草溶液"
+   "zh-CN": "锦草溶液",
+   "ja": "錦草エキス",
+   "ko": "금초 용액"
   },
   "item_fbottle_glass_grass_2": {
    "en": "Amethyst Bottle",
    "zh-TW": "紫晶質瓶",
-   "zh-CN": "紫晶质瓶"
+   "zh-CN": "紫晶质瓶",
+   "ja": "紫晶製ボトル",
+   "ko": "자수정 병"
   },
   "item_liquid_plant_grass_2": {
    "en": "Yazhen Solution",
    "zh-TW": "芽針溶液",
-   "zh-CN": "芽针溶液"
+   "zh-CN": "芽针溶液",
+   "ja": "芽針エキス",
+   "ko": "야침 용액"
   },
   "item_fbottle_glass_xiranite": {
    "en": "Amethyst Bottle",
    "zh-TW": "紫晶質瓶",
-   "zh-CN": "紫晶质瓶"
+   "zh-CN": "紫晶质瓶",
+   "ja": "紫晶製ボトル",
+   "ko": "자수정 병"
   },
   "item_liquid_xiranite": {
    "en": "Liquid Xiranite",
    "zh-TW": "液化息壤",
-   "zh-CN": "液化息壤"
+   "zh-CN": "液化息壤",
+   "ja": "液化息壌",
+   "ko": "액체 식양"
   },
   "item_fbottle_glass_xiranite_enr": {
    "en": "Amethyst Bottle",
    "zh-TW": "紫晶質瓶",
-   "zh-CN": "紫晶质瓶"
+   "zh-CN": "紫晶质瓶",
+   "ja": "紫晶製ボトル",
+   "ko": "자수정 병"
   },
   "item_liquid_xiranite_enr": {
    "en": "Liquid Heavy Xiranite",
    "zh-TW": "液化重息壤",
-   "zh-CN": "液化重息壤"
+   "zh-CN": "液化重息壤",
+   "ja": "液化重息壌",
+   "ko": "액체 중식양"
   },
   "item_fbottle_glass_xiranite_poly": {
    "en": "Amethyst Bottle",
    "zh-TW": "紫晶質瓶",
-   "zh-CN": "紫晶质瓶"
+   "zh-CN": "紫晶质瓶",
+   "ja": "紫晶製ボトル",
+   "ko": "자수정 병"
   },
   "item_liquid_xiranite_poly": {
    "en": "Xircon Effluent",
    "zh-TW": "壤晶廢液",
-   "zh-CN": "壤晶废液"
+   "zh-CN": "壤晶废液",
+   "ja": "壌晶廃液",
+   "ko": "양정 폐액"
   },
   "item_fbottle_glass_xiranite_lowpoly": {
    "en": "Amethyst Bottle",
    "zh-TW": "紫晶質瓶",
-   "zh-CN": "紫晶质瓶"
+   "zh-CN": "紫晶质瓶",
+   "ja": "紫晶製ボトル",
+   "ko": "자수정 병"
   },
   "item_liquid_xiranite_lowpoly": {
    "en": "Inert Xircon Effluent",
    "zh-TW": "惰性壤晶廢液",
-   "zh-CN": "惰性壤晶废液"
+   "zh-CN": "惰性壤晶废液",
+   "ja": "不活性壌晶廃液",
+   "ko": "불활성 양정 폐액"
   },
   "item_fbottle_glass_copper": {
    "en": "Amethyst Bottle",
    "zh-TW": "紫晶質瓶",
-   "zh-CN": "紫晶质瓶"
+   "zh-CN": "紫晶质瓶",
+   "ja": "紫晶製ボトル",
+   "ko": "자수정 병"
   },
   "item_liquid_copper": {
    "en": "Cuprium Solution",
    "zh-TW": "赤銅溶液",
-   "zh-CN": "赤铜溶液"
+   "zh-CN": "赤铜溶液",
+   "ja": "赤銅溶液",
+   "ko": "적동 용액"
   },
   "item_gasjar_copper_gas_water": {
    "en": "Cuprium Canister",
    "zh-TW": "赤銅耐壓罐",
-   "zh-CN": "赤铜耐压罐"
+   "zh-CN": "赤铜耐压罐",
+   "ja": "赤銅圧力タンク",
+   "ko": "적동 내압 캔"
   },
   "item_copper_jar": {
    "en": "Cuprium Canister",
    "zh-TW": "赤銅耐壓罐",
-   "zh-CN": "赤铜耐压罐"
+   "zh-CN": "赤铜耐压罐",
+   "ja": "赤銅圧力タンク",
+   "ko": "적동 내압 캔"
   },
   "item_gas_water": {
    "en": "Aquagen",
    "zh-TW": "水蒸氣",
-   "zh-CN": "水蒸气"
+   "zh-CN": "水蒸气",
+   "ja": "水蒸気",
+   "ko": "수증기"
   },
   "item_fbottle_glass_copper_enr": {
    "en": "Amethyst Bottle",
    "zh-TW": "紫晶質瓶",
-   "zh-CN": "紫晶质瓶"
+   "zh-CN": "紫晶质瓶",
+   "ja": "紫晶製ボトル",
+   "ko": "자수정 병"
   },
   "item_liquid_copper_enr": {
    "en": "Hetonite Solution",
    "zh-TW": "赫銅溶液",
-   "zh-CN": "赫铜溶液"
+   "zh-CN": "赫铜溶液",
+   "ja": "緋銅溶液",
+   "ko": "혁동 용액"
   },
   "item_gasjar_copper_gas_acid": {
    "en": "Cuprium Canister",
    "zh-TW": "赤銅耐壓罐",
-   "zh-CN": "赤铜耐压罐"
+   "zh-CN": "赤铜耐压罐",
+   "ja": "赤銅圧力タンク",
+   "ko": "적동 내압 캔"
   },
   "item_gas_acid": {
    "en": "Acridgen",
    "zh-TW": "酸氣",
-   "zh-CN": "酸气"
+   "zh-CN": "酸气",
+   "ja": "酸性ガス",
+   "ko": "기체 산성"
   },
   "item_fbottle_glassenr_water": {
    "en": "Cryston Bottle",
    "zh-TW": "高晶質瓶",
-   "zh-CN": "高晶质瓶"
+   "zh-CN": "高晶质瓶",
+   "ja": "高晶製ボトル",
+   "ko": "크리스톤 병"
   },
   "item_glass_enr_bottle": {
    "en": "Cryston Bottle",
    "zh-TW": "高晶質瓶",
-   "zh-CN": "高晶质瓶"
+   "zh-CN": "高晶质瓶",
+   "ja": "高晶製ボトル",
+   "ko": "크리스톤 병"
   },
   "item_gasjar_copper_gas_xiranite": {
    "en": "Cuprium Canister",
    "zh-TW": "赤銅耐壓罐",
-   "zh-CN": "赤铜耐压罐"
+   "zh-CN": "赤铜耐压罐",
+   "ja": "赤銅圧力タンク",
+   "ko": "적동 내압 캔"
   },
   "item_gas_xiranite": {
    "en": "Xiragen",
    "zh-TW": "息壤氣",
-   "zh-CN": "息壤气"
+   "zh-CN": "息壤气",
+   "ja": "息壌ガス",
+   "ko": "기체 식양"
   },
   "item_fbottle_glassenr_acid": {
    "en": "Cryston Bottle",
    "zh-TW": "高晶質瓶",
-   "zh-CN": "高晶质瓶"
+   "zh-CN": "高晶质瓶",
+   "ja": "高晶製ボトル",
+   "ko": "크리스톤 병"
   },
   "item_gasjar_copper_gas_xiranite_enr": {
    "en": "Cuprium Canister",
    "zh-TW": "赤銅耐壓罐",
-   "zh-CN": "赤铜耐压罐"
+   "zh-CN": "赤铜耐压罐",
+   "ja": "赤銅圧力タンク",
+   "ko": "적동 내압 캔"
   },
   "item_gas_xiranite_enr": {
    "en": "Heavy Xiragen",
    "zh-TW": "重息壤氣",
-   "zh-CN": "重息壤气"
+   "zh-CN": "重息壤气",
+   "ja": "重息壌ガス",
+   "ko": "기체 중식양"
   },
   "item_fbottle_glassenr_sewage": {
    "en": "Cryston Bottle",
    "zh-TW": "高晶質瓶",
-   "zh-CN": "高晶质瓶"
+   "zh-CN": "高晶质瓶",
+   "ja": "高晶製ボトル",
+   "ko": "크리스톤 병"
   },
   "item_gasjar_copper_gas_inert": {
    "en": "Cuprium Canister",
    "zh-TW": "赤銅耐壓罐",
-   "zh-CN": "赤铜耐压罐"
+   "zh-CN": "赤铜耐压罐",
+   "ja": "赤銅圧力タンク",
+   "ko": "적동 내압 캔"
   },
   "item_gas_inert": {
    "en": "Inergen",
    "zh-TW": "惰氣",
-   "zh-CN": "惰气"
+   "zh-CN": "惰气",
+   "ja": "不活性ガス",
+   "ko": "비활성 기체"
   },
   "item_fbottle_glassenr_grass_1": {
    "en": "Cryston Bottle",
    "zh-TW": "高晶質瓶",
-   "zh-CN": "高晶质瓶"
+   "zh-CN": "高晶质瓶",
+   "ja": "高晶製ボトル",
+   "ko": "크리스톤 병"
   },
   "item_gasjar_copper_gas_copper": {
    "en": "Cuprium Canister",
    "zh-TW": "赤銅耐壓罐",
-   "zh-CN": "赤铜耐压罐"
+   "zh-CN": "赤铜耐压罐",
+   "ja": "赤銅圧力タンク",
+   "ko": "적동 내압 캔"
   },
   "item_gas_copper": {
    "en": "Cuprium Gas",
    "zh-TW": "氣態赤銅",
-   "zh-CN": "气态赤铜"
+   "zh-CN": "气态赤铜",
+   "ja": "赤銅ガス",
+   "ko": "기체 적동"
   },
   "item_fbottle_glassenr_grass_2": {
    "en": "Cryston Bottle",
    "zh-TW": "高晶質瓶",
-   "zh-CN": "高晶质瓶"
+   "zh-CN": "高晶质瓶",
+   "ja": "高晶製ボトル",
+   "ko": "크리스톤 병"
   },
   "item_fbottle_glassenr_xiranite": {
    "en": "Cryston Bottle",
    "zh-TW": "高晶質瓶",
-   "zh-CN": "高晶质瓶"
+   "zh-CN": "高晶质瓶",
+   "ja": "高晶製ボトル",
+   "ko": "크리스톤 병"
   },
   "item_gasjar_copper_gas_copper_enr": {
    "en": "Cuprium Canister",
    "zh-TW": "赤銅耐壓罐",
-   "zh-CN": "赤铜耐压罐"
+   "zh-CN": "赤铜耐压罐",
+   "ja": "赤銅圧力タンク",
+   "ko": "적동 내압 캔"
   },
   "item_gas_copper_enr": {
    "en": "Hetonite Gas",
    "zh-TW": "氣態赫銅",
-   "zh-CN": "气态赫铜"
+   "zh-CN": "气态赫铜",
+   "ja": "緋銅ガス",
+   "ko": "기체 혁동"
   },
   "item_fbottle_glassenr_xiranite_enr": {
    "en": "Cryston Bottle",
    "zh-TW": "高晶質瓶",
-   "zh-CN": "高晶质瓶"
+   "zh-CN": "高晶质瓶",
+   "ja": "高晶製ボトル",
+   "ko": "크리스톤 병"
   },
   "item_fbottle_glassenr_xiranite_poly": {
    "en": "Cryston Bottle",
    "zh-TW": "高晶質瓶",
-   "zh-CN": "高晶质瓶"
+   "zh-CN": "高晶质瓶",
+   "ja": "高晶製ボトル",
+   "ko": "크리스톤 병"
   },
   "item_gasjar_copper_gas_copper_enr2": {
    "en": "Cuprium Canister",
    "zh-TW": "赤銅耐壓罐",
-   "zh-CN": "赤铜耐压罐"
+   "zh-CN": "赤铜耐压罐",
+   "ja": "赤銅圧力タンク",
+   "ko": "적동 내압 캔"
   },
   "item_gas_copper_enr2": {
    "en": "Pyrrolite Gas",
    "zh-TW": "氣態灼銅",
-   "zh-CN": "气态灼铜"
+   "zh-CN": "气态灼铜",
+   "ja": "焔銅ガス",
+   "ko": "기체 작동"
   },
   "item_fbottle_glassenr_xiranite_lowpoly": {
    "en": "Cryston Bottle",
    "zh-TW": "高晶質瓶",
-   "zh-CN": "高晶质瓶"
+   "zh-CN": "高晶质瓶",
+   "ja": "高晶製ボトル",
+   "ko": "크리스톤 병"
   },
   "item_fbottle_glassenr_copper": {
    "en": "Cryston Bottle",
    "zh-TW": "高晶質瓶",
-   "zh-CN": "高晶质瓶"
+   "zh-CN": "高晶质瓶",
+   "ja": "高晶製ボトル",
+   "ko": "크리스톤 병"
   },
   "item_fbottle_glassenr_copper_enr": {
    "en": "Cryston Bottle",
    "zh-TW": "高晶質瓶",
-   "zh-CN": "高晶质瓶"
+   "zh-CN": "高晶质瓶",
+   "ja": "高晶製ボトル",
+   "ko": "크리스톤 병"
   },
   "item_fbottle_iron_water": {
    "en": "Ferrium Bottle",
    "zh-TW": "藍鐵瓶",
-   "zh-CN": "蓝铁瓶"
+   "zh-CN": "蓝铁瓶",
+   "ja": "青鉄製ボトル",
+   "ko": "페리움 병"
   },
   "item_iron_bottle": {
    "en": "Ferrium Bottle",
    "zh-TW": "藍鐵瓶",
-   "zh-CN": "蓝铁瓶"
+   "zh-CN": "蓝铁瓶",
+   "ja": "青鉄製ボトル",
+   "ko": "페리움 병"
   },
   "item_fbottle_iron_acid": {
    "en": "Ferrium Bottle",
    "zh-TW": "藍鐵瓶",
-   "zh-CN": "蓝铁瓶"
+   "zh-CN": "蓝铁瓶",
+   "ja": "青鉄製ボトル",
+   "ko": "페리움 병"
   },
   "item_fbottle_iron_sewage": {
    "en": "Ferrium Bottle",
    "zh-TW": "藍鐵瓶",
-   "zh-CN": "蓝铁瓶"
+   "zh-CN": "蓝铁瓶",
+   "ja": "青鉄製ボトル",
+   "ko": "페리움 병"
   },
   "item_fbottle_iron_grass_1": {
    "en": "Ferrium Bottle",
    "zh-TW": "藍鐵瓶",
-   "zh-CN": "蓝铁瓶"
+   "zh-CN": "蓝铁瓶",
+   "ja": "青鉄製ボトル",
+   "ko": "페리움 병"
   },
   "item_fbottle_iron_grass_2": {
    "en": "Ferrium Bottle",
    "zh-TW": "藍鐵瓶",
-   "zh-CN": "蓝铁瓶"
+   "zh-CN": "蓝铁瓶",
+   "ja": "青鉄製ボトル",
+   "ko": "페리움 병"
   },
   "item_fbottle_iron_xiranite": {
    "en": "Ferrium Bottle",
    "zh-TW": "藍鐵瓶",
-   "zh-CN": "蓝铁瓶"
+   "zh-CN": "蓝铁瓶",
+   "ja": "青鉄製ボトル",
+   "ko": "페리움 병"
   },
   "item_fbottle_iron_xiranite_enr": {
    "en": "Ferrium Bottle",
    "zh-TW": "藍鐵瓶",
-   "zh-CN": "蓝铁瓶"
+   "zh-CN": "蓝铁瓶",
+   "ja": "青鉄製ボトル",
+   "ko": "페리움 병"
   },
   "item_fbottle_iron_xiranite_poly": {
    "en": "Ferrium Bottle",
    "zh-TW": "藍鐵瓶",
-   "zh-CN": "蓝铁瓶"
+   "zh-CN": "蓝铁瓶",
+   "ja": "青鉄製ボトル",
+   "ko": "페리움 병"
   },
   "item_fbottle_iron_xiranite_lowpoly": {
    "en": "Ferrium Bottle",
    "zh-TW": "藍鐵瓶",
-   "zh-CN": "蓝铁瓶"
+   "zh-CN": "蓝铁瓶",
+   "ja": "青鉄製ボトル",
+   "ko": "페리움 병"
   },
   "item_fbottle_iron_copper": {
    "en": "Ferrium Bottle",
    "zh-TW": "藍鐵瓶",
-   "zh-CN": "蓝铁瓶"
+   "zh-CN": "蓝铁瓶",
+   "ja": "青鉄製ボトル",
+   "ko": "페리움 병"
   },
   "item_fbottle_iron_copper_enr": {
    "en": "Ferrium Bottle",
    "zh-TW": "藍鐵瓶",
-   "zh-CN": "蓝铁瓶"
+   "zh-CN": "蓝铁瓶",
+   "ja": "青鉄製ボトル",
+   "ko": "페리움 병"
   },
   "item_fbottle_ironenr_water": {
    "en": "Steel Bottle",
    "zh-TW": "鋼質瓶",
-   "zh-CN": "钢质瓶"
+   "zh-CN": "钢质瓶",
+   "ja": "鋼製ボトル",
+   "ko": "강철 병"
   },
   "item_iron_enr_bottle": {
    "en": "Steel Bottle",
    "zh-TW": "鋼質瓶",
-   "zh-CN": "钢质瓶"
+   "zh-CN": "钢质瓶",
+   "ja": "鋼製ボトル",
+   "ko": "강철 병"
   },
   "item_fbottle_ironenr_acid": {
    "en": "Steel Bottle",
    "zh-TW": "鋼質瓶",
-   "zh-CN": "钢质瓶"
+   "zh-CN": "钢质瓶",
+   "ja": "鋼製ボトル",
+   "ko": "강철 병"
   },
   "item_fbottle_ironenr_sewage": {
    "en": "Steel Bottle",
    "zh-TW": "鋼質瓶",
-   "zh-CN": "钢质瓶"
+   "zh-CN": "钢质瓶",
+   "ja": "鋼製ボトル",
+   "ko": "강철 병"
   },
   "item_fbottle_ironenr_grass_1": {
    "en": "Steel Bottle",
    "zh-TW": "鋼質瓶",
-   "zh-CN": "钢质瓶"
+   "zh-CN": "钢质瓶",
+   "ja": "鋼製ボトル",
+   "ko": "강철 병"
   },
   "item_fbottle_ironenr_grass_2": {
    "en": "Steel Bottle",
    "zh-TW": "鋼質瓶",
-   "zh-CN": "钢质瓶"
+   "zh-CN": "钢质瓶",
+   "ja": "鋼製ボトル",
+   "ko": "강철 병"
   },
   "item_fbottle_ironenr_xiranite": {
    "en": "Steel Bottle",
    "zh-TW": "鋼質瓶",
-   "zh-CN": "钢质瓶"
+   "zh-CN": "钢质瓶",
+   "ja": "鋼製ボトル",
+   "ko": "강철 병"
   },
   "item_fbottle_ironenr_xiranite_enr": {
    "en": "Steel Bottle",
    "zh-TW": "鋼質瓶",
-   "zh-CN": "钢质瓶"
+   "zh-CN": "钢质瓶",
+   "ja": "鋼製ボトル",
+   "ko": "강철 병"
   },
   "item_fbottle_ironenr_xiranite_poly": {
    "en": "Steel Bottle",
    "zh-TW": "鋼質瓶",
-   "zh-CN": "钢质瓶"
+   "zh-CN": "钢质瓶",
+   "ja": "鋼製ボトル",
+   "ko": "강철 병"
   },
   "item_fbottle_ironenr_xiranite_lowpoly": {
    "en": "Steel Bottle",
    "zh-TW": "鋼質瓶",
-   "zh-CN": "钢质瓶"
+   "zh-CN": "钢质瓶",
+   "ja": "鋼製ボトル",
+   "ko": "강철 병"
   },
   "item_fbottle_ironenr_copper": {
    "en": "Steel Bottle",
    "zh-TW": "鋼質瓶",
-   "zh-CN": "钢质瓶"
+   "zh-CN": "钢质瓶",
+   "ja": "鋼製ボトル",
+   "ko": "강철 병"
   },
   "item_fbottle_ironenr_copper_enr": {
    "en": "Steel Bottle",
    "zh-TW": "鋼質瓶",
-   "zh-CN": "钢质瓶"
+   "zh-CN": "钢质瓶",
+   "ja": "鋼製ボトル",
+   "ko": "강철 병"
   },
   "item_fbottle_copper_water": {
    "en": "Cuprium Bottle",
    "zh-TW": "赤銅瓶",
-   "zh-CN": "赤铜瓶"
+   "zh-CN": "赤铜瓶",
+   "ja": "赤銅ボトル",
+   "ko": "적동 병"
   },
   "item_copper_bottle": {
    "en": "Cuprium Bottle",
    "zh-TW": "赤銅瓶",
-   "zh-CN": "赤铜瓶"
+   "zh-CN": "赤铜瓶",
+   "ja": "赤銅ボトル",
+   "ko": "적동 병"
   },
   "item_fbottle_copper_acid": {
    "en": "Cuprium Bottle",
    "zh-TW": "赤銅瓶",
-   "zh-CN": "赤铜瓶"
+   "zh-CN": "赤铜瓶",
+   "ja": "赤銅ボトル",
+   "ko": "적동 병"
   },
   "item_fbottle_copper_sewage": {
    "en": "Cuprium Bottle",
    "zh-TW": "赤銅瓶",
-   "zh-CN": "赤铜瓶"
+   "zh-CN": "赤铜瓶",
+   "ja": "赤銅ボトル",
+   "ko": "적동 병"
   },
   "item_fbottle_copper_grass_1": {
    "en": "Cuprium Bottle",
    "zh-TW": "赤銅瓶",
-   "zh-CN": "赤铜瓶"
+   "zh-CN": "赤铜瓶",
+   "ja": "赤銅ボトル",
+   "ko": "적동 병"
   },
   "item_fbottle_copper_grass_2": {
    "en": "Cuprium Bottle",
    "zh-TW": "赤銅瓶",
-   "zh-CN": "赤铜瓶"
+   "zh-CN": "赤铜瓶",
+   "ja": "赤銅ボトル",
+   "ko": "적동 병"
   },
   "item_fbottle_copper_xiranite": {
    "en": "Cuprium Bottle",
    "zh-TW": "赤銅瓶",
-   "zh-CN": "赤铜瓶"
+   "zh-CN": "赤铜瓶",
+   "ja": "赤銅ボトル",
+   "ko": "적동 병"
   },
   "item_fbottle_copper_xiranite_enr": {
    "en": "Cuprium Bottle",
    "zh-TW": "赤銅瓶",
-   "zh-CN": "赤铜瓶"
+   "zh-CN": "赤铜瓶",
+   "ja": "赤銅ボトル",
+   "ko": "적동 병"
   },
   "item_fbottle_copper_xiranite_poly": {
    "en": "Cuprium Bottle",
    "zh-TW": "赤銅瓶",
-   "zh-CN": "赤铜瓶"
+   "zh-CN": "赤铜瓶",
+   "ja": "赤銅ボトル",
+   "ko": "적동 병"
   },
   "item_fbottle_copper_xiranite_lowpoly": {
    "en": "Cuprium Bottle",
    "zh-TW": "赤銅瓶",
-   "zh-CN": "赤铜瓶"
+   "zh-CN": "赤铜瓶",
+   "ja": "赤銅ボトル",
+   "ko": "적동 병"
   },
   "item_fbottle_copper_copper": {
    "en": "Cuprium Bottle",
    "zh-TW": "赤銅瓶",
-   "zh-CN": "赤铜瓶"
+   "zh-CN": "赤铜瓶",
+   "ja": "赤銅ボトル",
+   "ko": "적동 병"
   },
   "item_fbottle_copper_copper_enr": {
    "en": "Cuprium Bottle",
    "zh-TW": "赤銅瓶",
-   "zh-CN": "赤铜瓶"
+   "zh-CN": "赤铜瓶",
+   "ja": "赤銅ボトル",
+   "ko": "적동 병"
   },
   "item_fbottle_copperenr_water": {
    "en": "Hetonite Bottle",
    "zh-TW": "赫銅瓶",
-   "zh-CN": "赫铜瓶"
+   "zh-CN": "赫铜瓶",
+   "ja": "緋銅ボトル",
+   "ko": "혁동 병"
   },
   "item_copper_enr_bottle": {
    "en": "Hetonite Bottle",
    "zh-TW": "赫銅瓶",
-   "zh-CN": "赫铜瓶"
+   "zh-CN": "赫铜瓶",
+   "ja": "緋銅ボトル",
+   "ko": "혁동 병"
   },
   "item_fbottle_copperenr_acid": {
    "en": "Hetonite Bottle",
    "zh-TW": "赫銅瓶",
-   "zh-CN": "赫铜瓶"
+   "zh-CN": "赫铜瓶",
+   "ja": "緋銅ボトル",
+   "ko": "혁동 병"
   },
   "item_fbottle_copperenr_sewage": {
    "en": "Hetonite Bottle",
    "zh-TW": "赫銅瓶",
-   "zh-CN": "赫铜瓶"
+   "zh-CN": "赫铜瓶",
+   "ja": "緋銅ボトル",
+   "ko": "혁동 병"
   },
   "item_fbottle_copperenr_grass_1": {
    "en": "Hetonite Bottle",
    "zh-TW": "赫銅瓶",
-   "zh-CN": "赫铜瓶"
+   "zh-CN": "赫铜瓶",
+   "ja": "緋銅ボトル",
+   "ko": "혁동 병"
   },
   "item_fbottle_copperenr_grass_2": {
    "en": "Hetonite Bottle",
    "zh-TW": "赫銅瓶",
-   "zh-CN": "赫铜瓶"
+   "zh-CN": "赫铜瓶",
+   "ja": "緋銅ボトル",
+   "ko": "혁동 병"
   },
   "item_fbottle_copperenr_xiranite": {
    "en": "Hetonite Bottle",
    "zh-TW": "赫銅瓶",
-   "zh-CN": "赫铜瓶"
+   "zh-CN": "赫铜瓶",
+   "ja": "緋銅ボトル",
+   "ko": "혁동 병"
   },
   "item_fbottle_copperenr_xiranite_enr": {
    "en": "Hetonite Bottle",
    "zh-TW": "赫銅瓶",
-   "zh-CN": "赫铜瓶"
+   "zh-CN": "赫铜瓶",
+   "ja": "緋銅ボトル",
+   "ko": "혁동 병"
   },
   "item_fbottle_copperenr_xiranite_poly": {
    "en": "Hetonite Bottle",
    "zh-TW": "赫銅瓶",
-   "zh-CN": "赫铜瓶"
+   "zh-CN": "赫铜瓶",
+   "ja": "緋銅ボトル",
+   "ko": "혁동 병"
   },
   "item_fbottle_copperenr_xiranite_lowpoly": {
    "en": "Hetonite Bottle",
    "zh-TW": "赫銅瓶",
-   "zh-CN": "赫铜瓶"
+   "zh-CN": "赫铜瓶",
+   "ja": "緋銅ボトル",
+   "ko": "혁동 병"
   },
   "item_fbottle_copperenr_copper": {
    "en": "Hetonite Bottle",
    "zh-TW": "赫銅瓶",
-   "zh-CN": "赫铜瓶"
+   "zh-CN": "赫铜瓶",
+   "ja": "緋銅ボトル",
+   "ko": "혁동 병"
   },
   "item_fbottle_copperenr_copper_enr": {
    "en": "Hetonite Bottle",
    "zh-TW": "赫銅瓶",
-   "zh-CN": "赫铜瓶"
+   "zh-CN": "赫铜瓶",
+   "ja": "緋銅ボトル",
+   "ko": "혁동 병"
   },
   "item_corp_strawberry_1": {
    "en": "Sourberry",
    "zh-TW": "青葉莓",
-   "zh-CN": "青叶莓"
+   "zh-CN": "青叶莓",
+   "ja": "サワーベリー",
+   "ko": "푸른잎베리"
   },
   "item_inn_drink_10": {
    "en": "Bottled Duskberry Juice",
    "zh-TW": "瓶裝霞莓飲",
-   "zh-CN": "瓶装霞莓饮"
+   "zh-CN": "瓶装霞莓饮",
+   "ja": "瓶入りダスクベリーネクター",
+   "ko": "병에 담긴 노을베리"
   },
   "item_corp_sugarcane_1": {
    "en": "Crunchcane",
    "zh-TW": "脆蔗",
-   "zh-CN": "脆蔗"
+   "zh-CN": "脆蔗",
+   "ja": "シャキキビ",
+   "ko": "사탕수수"
   },
   "item_inn_drink_4": {
    "en": "Bottled Canejuice",
    "zh-TW": "瓶裝脆蔗汁",
-   "zh-CN": "瓶装脆蔗汁"
+   "zh-CN": "瓶装脆蔗汁",
+   "ja": "瓶入りシャキキビジュース",
+   "ko": "병에 담긴 사탕수수즙"
   },
   "item_ranch_milk_1": {
    "en": "Milk",
    "zh-TW": "獸奶",
-   "zh-CN": "兽奶"
+   "zh-CN": "兽奶",
+   "ja": "獣乳",
+   "ko": "우유"
   },
   "item_inn_drink_2": {
    "en": "Bottled Milk",
    "zh-TW": "瓶裝獸奶",
-   "zh-CN": "瓶装兽奶"
+   "zh-CN": "瓶装兽奶",
+   "ja": "瓶入り獣乳",
+   "ko": "병에 담긴 우유"
   },
   "item_ranch_milk_2": {
    "en": "Milk [A]",
    "zh-TW": "優質獸奶",
-   "zh-CN": "优质兽奶"
+   "zh-CN": "优质兽奶",
+   "ja": "高品質獣乳",
+   "ko": "고급 우유"
   },
   "item_inn_drink_7": {
    "en": "Bottled Milk [A]",
    "zh-TW": "瓶裝優質獸奶",
-   "zh-CN": "瓶装优质兽奶"
+   "zh-CN": "瓶装优质兽奶",
+   "ja": "瓶入り高品質獣乳",
+   "ko": "병에 담긴 고급 우유"
   },
   "item_plant_moss_powder_2": {
    "en": "Citrome Powder",
    "zh-TW": "柑實粉末",
-   "zh-CN": "柑实粉末"
+   "zh-CN": "柑实粉末",
+   "ja": "シトローム粉末",
+   "ko": "시트론 가루"
   },
   "item_bottled_food_1": {
    "en": "Canned Citrome [C]",
    "zh-TW": "柑實罐頭",
-   "zh-CN": "柑实罐头"
+   "zh-CN": "柑实罐头",
+   "ja": "シトロームの缶詰Ⅰ",
+   "ko": "시트론 통조림"
   },
   "item_bottled_food_2": {
    "en": "Canned Citrome [B]",
    "zh-TW": "優質柑實罐頭",
-   "zh-CN": "优质柑实罐头"
+   "zh-CN": "优质柑实罐头",
+   "ja": "シトロームの缶詰Ⅱ",
+   "ko": "시트론 통조림(중)"
   },
   "item_plant_moss_enr_powder_2": {
    "en": "Ground Citrome Powder",
    "zh-TW": "細磨柑實粉末",
-   "zh-CN": "细磨柑实粉末"
+   "zh-CN": "细磨柑实粉末",
+   "ja": "シトローム細粉",
+   "ko": "고운 시트론 가루"
   },
   "item_bottled_food_3": {
    "en": "Canned Citrome [A]",
    "zh-TW": "精選柑實罐頭",
-   "zh-CN": "精选柑实罐头"
+   "zh-CN": "精选柑实罐头",
+   "ja": "シトロームの缶詰Ⅲ",
+   "ko": "시트론 통조림(대)"
   },
   "item_plant_moss_powder_1": {
    "en": "Buckflower Powder",
    "zh-TW": "蕎花粉末",
-   "zh-CN": "荞花粉末"
+   "zh-CN": "荞花粉末",
+   "ja": "蕎花粉末",
+   "ko": "메밀꽃 가루"
   },
   "item_bottled_rec_hp_1": {
    "en": "Buck Capsule [C]",
    "zh-TW": "蕎癒膠囊",
-   "zh-CN": "荞愈胶囊"
+   "zh-CN": "荞愈胶囊",
+   "ja": "蕎花カプセルⅠ",
+   "ko": "메밀꽃 치유 캡슐"
   },
   "item_bottled_rec_hp_2": {
    "en": "Buck Capsule [B]",
    "zh-TW": "優質蕎癒膠囊",
-   "zh-CN": "优质荞愈胶囊"
+   "zh-CN": "优质荞愈胶囊",
+   "ja": "蕎花カプセルⅡ",
+   "ko": "메밀꽃 치유 캡슐(중)"
   },
   "item_plant_moss_enr_powder_1": {
    "en": "Ground Buckflower Powder",
    "zh-TW": "細磨蕎花粉末",
-   "zh-CN": "细磨荞花粉末"
+   "zh-CN": "细磨荞花粉末",
+   "ja": "蕎花細粉",
+   "ko": "고운 메밀꽃 가루"
   },
   "item_bottled_rec_hp_3": {
    "en": "Buck Capsule [A]",
    "zh-TW": "精選蕎癒膠囊",
-   "zh-CN": "精选荞愈胶囊"
+   "zh-CN": "精选荞愈胶囊",
+   "ja": "蕎花カプセルⅢ",
+   "ko": "메밀꽃 치유 캡슐(대)"
   },
   "item_copper_ore": {
    "en": "Cuprium Ore",
    "zh-TW": "赤銅礦",
-   "zh-CN": "赤铜矿"
+   "zh-CN": "赤铜矿",
+   "ja": "赤銅鉱物",
+   "ko": "적동 광석"
   },
   "item_iron_ore": {
    "en": "Ferrium Ore",
    "zh-TW": "藍鐵礦",
-   "zh-CN": "蓝铁矿"
+   "zh-CN": "蓝铁矿",
+   "ja": "青鉄鉱物",
+   "ko": "페리움 광석"
   },
   "item_iron_powder": {
    "en": "Ferrium Powder",
    "zh-TW": "藍鐵粉末",
-   "zh-CN": "蓝铁粉末"
+   "zh-CN": "蓝铁粉末",
+   "ja": "青鉄粉末",
+   "ko": "페리움 가루"
   },
   "item_quartz_sand": {
    "en": "Amethyst Ore",
    "zh-TW": "紫晶礦",
-   "zh-CN": "紫晶矿"
+   "zh-CN": "紫晶矿",
+   "ja": "紫晶鉱物",
+   "ko": "자수정 광석"
   },
   "item_quartz_powder": {
    "en": "Amethyst Powder",
    "zh-TW": "紫晶粉末",
-   "zh-CN": "紫晶粉末"
+   "zh-CN": "紫晶粉末",
+   "ja": "紫晶粉末",
+   "ko": "자수정 가루"
   },
   "item_originium_ore": {
    "en": "Originium Ore",
    "zh-TW": "源礦",
-   "zh-CN": "源矿"
+   "zh-CN": "源矿",
+   "ja": "源石鉱物",
+   "ko": "오리지늄 광물"
   },
   "item_crystal_shell": {
    "en": "Origocrust",
    "zh-TW": "晶體外殼",
-   "zh-CN": "晶体外壳"
+   "zh-CN": "晶体外壳",
+   "ja": "結晶外殻",
+   "ko": "오리고 크러스트"
   },
   "item_crystal_powder": {
    "en": "Origocrust Powder",
    "zh-TW": "晶體外殼粉末",
-   "zh-CN": "晶体外壳粉末"
+   "zh-CN": "晶体外壳粉末",
+   "ja": "結晶外殻粉末",
+   "ko": "오리고 크러스트 가루"
   },
   "item_crystal_enr_powder": {
    "en": "Dense Origocrust Powder",
    "zh-TW": "緻密晶體粉末",
-   "zh-CN": "致密晶体粉末"
+   "zh-CN": "致密晶体粉末",
+   "ja": "高密度結晶粉末",
+   "ko": "고밀도 오리고 크러스트 가루"
   },
   "item_crystal_enr": {
    "en": "Packed Origocrust",
    "zh-TW": "密製晶體",
-   "zh-CN": "密制晶体"
+   "zh-CN": "密制晶体",
+   "ja": "特製結晶",
+   "ko": "정련된 오리고 크러스트"
   },
   "item_iron_enr_powder": {
    "en": "Dense Ferrium Powder",
    "zh-TW": "緻密藍鐵粉末",
-   "zh-CN": "致密蓝铁粉末"
+   "zh-CN": "致密蓝铁粉末",
+   "ja": "高密度青鉄粉末",
+   "ko": "고밀도 페리움 가루"
   },
   "item_quartz_enr_powder": {
    "en": "Cryston Powder",
    "zh-TW": "高晶粉末",
-   "zh-CN": "高晶粉末"
+   "zh-CN": "高晶粉末",
+   "ja": "高晶粉末",
+   "ko": "크리스톤 가루"
   },
   "item_carbon_enr_powder": {
    "en": "Dense Carbon Powder",
    "zh-TW": "緻密碳粉末",
-   "zh-CN": "致密碳粉末"
+   "zh-CN": "致密碳粉末",
+   "ja": "高密度炭塊粉末",
+   "ko": "고밀도 카본 가루"
   },
   "item_carbon_enr": {
    "en": "Stabilized Carbon",
    "zh-TW": "穩定碳塊",
-   "zh-CN": "稳定碳块"
+   "zh-CN": "稳定碳块",
+   "ja": "安定炭塊",
+   "ko": "안정된 카본 조각"
   },
   "item_originium_enr_powder": {
    "en": "Dense Originium Powder",
    "zh-TW": "緻密源石粉末",
-   "zh-CN": "致密源石粉末"
+   "zh-CN": "致密源石粉末",
+   "ja": "高密度源石粉末",
+   "ko": "고밀도 오리지늄 가루"
   },
   "item_originium_powder": {
    "en": "Originium Powder",
    "zh-TW": "源石粉末",
-   "zh-CN": "源石粉末"
+   "zh-CN": "源石粉末",
+   "ja": "源石粉末",
+   "ko": "오리지늄 가루"
   },
   "item_plant_grass_2": {
    "en": "Yazhen",
    "zh-TW": "芽針",
-   "zh-CN": "芽针"
+   "zh-CN": "芽针",
+   "ja": "芽針",
+   "ko": "야침"
   },
   "item_carbon_mtl": {
    "en": "Carbon",
    "zh-TW": "碳塊",
-   "zh-CN": "碳块"
+   "zh-CN": "碳块",
+   "ja": "炭塊",
+   "ko": "카본 조각"
   },
   "item_plant_grass_1": {
    "en": "Jincao",
    "zh-TW": "錦草",
-   "zh-CN": "锦草"
+   "zh-CN": "锦草",
+   "ja": "錦草",
+   "ko": "금초"
   },
   "item_plant_moss_3": {
    "en": "Sandleaf",
    "zh-TW": "砂葉",
-   "zh-CN": "砂叶"
+   "zh-CN": "砂叶",
+   "ja": "サンドリーフ",
+   "ko": "샌드리프"
   },
   "item_plant_moss_1": {
    "en": "Buckflower",
    "zh-TW": "蕎花",
-   "zh-CN": "荞花"
+   "zh-CN": "荞花",
+   "ja": "蕎花",
+   "ko": "메밀꽃"
   },
   "item_plant_moss_2": {
    "en": "Citrome",
    "zh-TW": "柑實",
-   "zh-CN": "柑实"
+   "zh-CN": "柑实",
+   "ja": "シトローム",
+   "ko": "시트론"
   },
   "item_plant_tundra_wood": {
    "en": "Wood",
    "zh-TW": "原木",
-   "zh-CN": "原木"
+   "zh-CN": "原木",
+   "ja": "木材",
+   "ko": "원목"
   },
   "item_plant_grass_powder_2": {
    "en": "Yazhen Powder",
    "zh-TW": "芽針粉末",
-   "zh-CN": "芽针粉末"
+   "zh-CN": "芽针粉末",
+   "ja": "芽針粉末",
+   "ko": "야침 가루"
   },
   "item_carbon_powder": {
    "en": "Carbon Powder",
    "zh-TW": "碳粉末",
-   "zh-CN": "碳粉末"
+   "zh-CN": "碳粉末",
+   "ja": "炭塊粉末",
+   "ko": "카본 가루"
   },
   "item_plant_grass_powder_1": {
    "en": "Jincao Powder",
    "zh-TW": "錦草粉末",
-   "zh-CN": "锦草粉末"
+   "zh-CN": "锦草粉末",
+   "ja": "錦草粉末",
+   "ko": "금초 가루"
   },
   "item_plant_moss_powder_3": {
    "en": "Sandleaf Powder",
    "zh-TW": "砂葉粉末",
-   "zh-CN": "砂叶粉末"
+   "zh-CN": "砂叶粉末",
+   "ja": "サンドリーフ粉末",
+   "ko": "샌드리프 가루"
   },
   "item_byproduct_potato_1": {
    "en": "Pingtuber Leaf",
    "zh-TW": "平薯葉",
-   "zh-CN": "平薯叶"
+   "zh-CN": "平薯叶",
+   "ja": "ひらいもの葉",
+   "ko": "납작 감자 잎"
   },
   "item_byproduct_potato_moss_1": {
    "en": "Pingtuber Leaf Powder",
    "zh-TW": "平薯葉粉末",
-   "zh-CN": "平薯叶粉末"
+   "zh-CN": "平薯叶粉末",
+   "ja": "ひらいもの葉粉末",
+   "ko": "납작 감자 잎 가루"
   },
   "item_corp_potato_1": {
    "en": "Pingtuber",
    "zh-TW": "平薯",
-   "zh-CN": "平薯"
+   "zh-CN": "平薯",
+   "ja": "ひらいも",
+   "ko": "납작 감자"
   },
   "item_Ingredient_starch_1": {
    "en": "Starch",
    "zh-TW": "澱粉",
-   "zh-CN": "淀粉"
+   "zh-CN": "淀粉",
+   "ja": "デンプン",
+   "ko": "전분"
   },
   "item_plant_sp_1": {
    "en": "Reed Rye",
    "zh-TW": "灰蘆麥",
-   "zh-CN": "灰芦麦"
+   "zh-CN": "灰芦麦",
+   "ja": "灰麦",
+   "ko": "회보리"
   },
   "item_Ingredient_flour_1": {
    "en": "Flour",
    "zh-TW": "麵粉",
-   "zh-CN": "面粉"
+   "zh-CN": "面粉",
+   "ja": "灰麦粉",
+   "ko": "밀가루"
   },
   "item_plant_sp_2": {
    "en": "Tartpepper",
    "zh-TW": "苦葉椒",
-   "zh-CN": "苦叶椒"
+   "zh-CN": "苦叶椒",
+   "ja": "苦葉椒",
+   "ko": "쓴맛 나는 고추"
   },
   "item_Ingredient_paprika_1": {
    "en": "Ground Pepper",
    "zh-TW": "辣椒粉",
-   "zh-CN": "辣椒粉"
+   "zh-CN": "辣椒粉",
+   "ja": "チリパウダー",
+   "ko": "고춧가루"
   },
   "item_Ingredient_sugar_1": {
    "en": "Sugar",
    "zh-TW": "砂糖",
-   "zh-CN": "砂糖"
+   "zh-CN": "砂糖",
+   "ja": "砂糖",
+   "ko": "설탕"
   },
   "item_byproduct_bean_1": {
    "en": "Ballpea Pod",
    "zh-TW": "球豆殼",
-   "zh-CN": "球豆壳"
+   "zh-CN": "球豆壳",
+   "ja": "丸豆の殻",
+   "ko": "둥근 콩 껍질"
   },
   "item_byproduct_bean_moss_1": {
    "en": "Ballpea Pod Powder",
    "zh-TW": "球豆殼粉末",
-   "zh-CN": "球豆壳粉末"
+   "zh-CN": "球豆壳粉末",
+   "ja": "丸豆の殻粉末",
+   "ko": "둥근 콩 껍질 가루"
   },
   "item_copper_powder": {
    "en": "Cuprium Powder",
    "zh-TW": "赤銅粉末",
-   "zh-CN": "赤铜粉末"
+   "zh-CN": "赤铜粉末",
+   "ja": "赤銅粉末",
+   "ko": "적동 가루"
   },
   "item_plant_bbflower_1": {
    "en": "Aketine",
    "zh-TW": "酮化灌木",
-   "zh-CN": "酮化灌木"
+   "zh-CN": "酮化灌木",
+   "ja": "アケトン樹木",
+   "ko": "아케톤"
   },
   "item_plant_bbflower_powder_1": {
    "en": "Aketine Powder",
    "zh-TW": "酮化灌木粉末",
-   "zh-CN": "酮化灌木粉末"
+   "zh-CN": "酮化灌木粉末",
+   "ja": "アケトン粉末",
+   "ko": "아케톤 가루"
   },
   "item_filter_core": {
    "en": "Separator Core",
    "zh-TW": "分離芯",
-   "zh-CN": "分离芯"
+   "zh-CN": "分离芯",
+   "ja": "分離コア",
+   "ko": "분리 필터"
   },
   "item_ranch_fodder_1": {
    "en": "Yummy Feed",
    "zh-TW": "飽食飼料",
-   "zh-CN": "饱食饲料"
+   "zh-CN": "饱食饲料",
+   "ja": "満腹飼料",
+   "ko": "포만 사료"
   },
   "item_corp_canolaflower_1": {
    "en": "Oilseed Bloom",
    "zh-TW": "籽油花",
-   "zh-CN": "籽油花"
+   "zh-CN": "籽油花",
+   "ja": "アブラ花",
+   "ko": "유채꽃"
   },
   "item_Ingredient_oil_1": {
    "en": "Seed Oil",
    "zh-TW": "菜籽油",
-   "zh-CN": "菜籽油"
+   "zh-CN": "菜籽油",
+   "ja": "アブラ花オイル",
+   "ko": "유채기름"
   },
   "item_ranch_fodder_2": {
    "en": "Double-Yummy Feed",
    "zh-TW": "雙效飽食飼料",
-   "zh-CN": "双效饱食饲料"
+   "zh-CN": "双效饱食饲料",
+   "ja": "複合満腹飼料",
+   "ko": "복합 포만 사료"
   },
   "item_xiranite_powder": {
    "en": "Xiranite",
    "zh-TW": "息壤",
-   "zh-CN": "息壤"
+   "zh-CN": "息壤",
+   "ja": "息壌",
+   "ko": "식양"
   },
   "item_xiranite_enr_powder": {
    "en": "Heavy Xiranite",
    "zh-TW": "重息壤",
-   "zh-CN": "重息壤"
+   "zh-CN": "重息壤",
+   "ja": "重息壌",
+   "ko": "중식양"
   },
   "item_xiranite_poly": {
    "en": "Xircon",
    "zh-TW": "壤晶",
-   "zh-CN": "壤晶"
+   "zh-CN": "壤晶",
+   "ja": "壌晶",
+   "ko": "양정"
   },
   "item_plant_moss_seed_1": {
    "en": "Buckflower Seed",
    "zh-TW": "蕎花種子",
-   "zh-CN": "荞花种子"
+   "zh-CN": "荞花种子",
+   "ja": "蕎花の種",
+   "ko": "메밀꽃 씨앗"
   },
   "item_plant_grass_seed_1": {
    "en": "Jincao Seed",
    "zh-TW": "錦草種子",
-   "zh-CN": "锦草种子"
+   "zh-CN": "锦草种子",
+   "ja": "錦草の種",
+   "ko": "금초 씨앗"
   },
   "item_plant_grass_seed_2": {
    "en": "Yazhen Seeds",
    "zh-TW": "芽針種子",
-   "zh-CN": "芽针种子"
+   "zh-CN": "芽针种子",
+   "ja": "芽針の種",
+   "ko": "야침 씨앗"
   },
   "item_plant_moss_seed_2": {
    "en": "Citrome Seed",
    "zh-TW": "柑實種子",
-   "zh-CN": "柑实种子"
+   "zh-CN": "柑实种子",
+   "ja": "シトロームの種",
+   "ko": "시트론 씨앗"
   },
   "item_plant_moss_seed_3": {
    "en": "Sandleaf Seed",
    "zh-TW": "砂葉種子",
-   "zh-CN": "砂叶种子"
+   "zh-CN": "砂叶种子",
+   "ja": "サンドリーフの種",
+   "ko": "샌드리프 씨앗"
   },
   "item_plant_bbflower_seed_1": {
    "en": "Aketine Seed",
    "zh-TW": "酮化樹種",
-   "zh-CN": "酮化树种"
+   "zh-CN": "酮化树种",
+   "ja": "アケトンの種",
+   "ko": "아케톤 씨앗"
   },
   "item_plant_sp_seed_1": {
    "en": "Reed Rye Seeds",
    "zh-TW": "灰蘆麥種子",
-   "zh-CN": "灰芦麦种子"
+   "zh-CN": "灰芦麦种子",
+   "ja": "灰麦の種",
+   "ko": "회보리 씨앗"
   },
   "item_plant_sp_seed_2": {
    "en": "Tartpepper Seeds",
    "zh-TW": "苦葉椒種子",
-   "zh-CN": "苦叶椒种子"
+   "zh-CN": "苦叶椒种子",
+   "ja": "苦葉椒の種",
+   "ko": "쓴맛 나는 고추 씨앗"
   },
   "item_plant_sp_3": {
    "en": "Redjade Ginseng",
    "zh-TW": "瓊葉蔘",
-   "zh-CN": "琼叶参"
+   "zh-CN": "琼叶参",
+   "ja": "玉葉人参",
+   "ko": "홍옥 인삼"
   },
   "item_plant_sp_seed_3": {
    "en": "Redjade Ginseng Seeds",
    "zh-TW": "瓊葉蔘種子",
-   "zh-CN": "琼叶参种子"
+   "zh-CN": "琼叶参种子",
+   "ja": "玉葉人参の種",
+   "ko": "홍옥 인삼 씨앗"
   },
   "item_plant_sp_4": {
    "en": "Amber Rice",
    "zh-TW": "金石稻",
-   "zh-CN": "金石稻"
+   "zh-CN": "金石稻",
+   "ja": "金石稲",
+   "ko": "금석벼"
   },
   "item_plant_sp_seed_4": {
    "en": "Amber Rice Seeds",
    "zh-TW": "金石稻種子",
-   "zh-CN": "金石稻种子"
+   "zh-CN": "金石稻种子",
+   "ja": "金石稲の種",
+   "ko": "금석벼 씨앗"
   },
   "item_corp_potato_seed_1": {
    "en": "Pingtuber Cutting",
    "zh-TW": "平薯塊莖",
-   "zh-CN": "平薯块茎"
+   "zh-CN": "平薯块茎",
+   "ja": "ひらいもの塊茎",
+   "ko": "납작 감자 덩이줄기"
   },
   "item_corp_tomato_1": {
    "en": "Matoberry",
    "zh-TW": "茄果",
-   "zh-CN": "茄果"
+   "zh-CN": "茄果",
+   "ja": "トマベリー",
+   "ko": "토마토"
   },
   "item_corp_tomato_seed_1": {
    "en": "Matoberry Seeds",
    "zh-TW": "茄果種子",
-   "zh-CN": "茄果种子"
+   "zh-CN": "茄果种子",
+   "ja": "トマベリーの種",
+   "ko": "토마토 씨앗"
   },
   "item_corp_cabbage_1": {
    "en": "Cabbage",
    "zh-TW": "青菜",
-   "zh-CN": "青菜"
+   "zh-CN": "青菜",
+   "ja": "青野菜",
+   "ko": "청경채"
   },
   "item_corp_cabbage_seed_1": {
    "en": "Cabbage Seeds",
    "zh-TW": "青菜種子",
-   "zh-CN": "青菜种子"
+   "zh-CN": "青菜种子",
+   "ja": "青野菜の種",
+   "ko": "청경채 씨앗"
   },
   "item_corp_sugarcane_seed_1": {
    "en": "Crunchcane Cutting",
    "zh-TW": "脆蔗種子",
-   "zh-CN": "脆蔗种子"
+   "zh-CN": "脆蔗种子",
+   "ja": "シャキキビの苗",
+   "ko": "사탕수수 씨앗"
   },
   "item_corp_bean_1": {
    "en": "Ballpea",
    "zh-TW": "球豆",
-   "zh-CN": "球豆"
+   "zh-CN": "球豆",
+   "ja": "丸豆",
+   "ko": "둥근 콩"
   },
   "item_corp_bean_seed_1": {
    "en": "Ballpea Seeds",
    "zh-TW": "球豆種子",
-   "zh-CN": "球豆种子"
+   "zh-CN": "球豆种子",
+   "ja": "丸豆の種",
+   "ko": "둥근 콩 씨앗"
   },
   "item_corp_mushroom_1": {
    "en": "Relishroom",
    "zh-TW": "多味菇",
-   "zh-CN": "多味菇"
+   "zh-CN": "多味菇",
+   "ja": "百味キノコ",
+   "ko": "다미버섯"
   },
   "item_corp_mushroom_seed_1": {
    "en": "Relishroom Spores",
    "zh-TW": "多味菇孢子",
-   "zh-CN": "多味菇孢子"
+   "zh-CN": "多味菇孢子",
+   "ja": "百味キノコの胞子",
+   "ko": "다미버섯 포자"
   },
   "item_corp_strawberry_seed_1": {
    "en": "Sourberry Seeds",
    "zh-TW": "青葉莓種子",
-   "zh-CN": "青叶莓种子"
+   "zh-CN": "青叶莓种子",
+   "ja": "サワーベリーの種",
+   "ko": "푸른잎베리 씨앗"
   },
   "item_corp_whitegourd_1": {
    "en": "Whitemelon",
    "zh-TW": "白瓜",
-   "zh-CN": "白瓜"
+   "zh-CN": "白瓜",
+   "ja": "白瓜",
+   "ko": "월과"
   },
   "item_corp_whitegourd_seed_1": {
    "en": "Whitemelon Seeds",
    "zh-TW": "白瓜種子",
-   "zh-CN": "白瓜种子"
+   "zh-CN": "白瓜种子",
+   "ja": "白瓜の種",
+   "ko": "월과 씨앗"
   },
   "item_corp_canolaflower_seed_1": {
    "en": "Oilseeds",
    "zh-TW": "籽油花種子",
-   "zh-CN": "籽油花种子"
+   "zh-CN": "籽油花种子",
+   "ja": "アブラ花の種",
+   "ko": "유채꽃 씨앗"
   },
   "item_proc_bomb_1": {
    "en": "Industrial Explosive",
    "zh-TW": "工業爆炸物",
-   "zh-CN": "工业爆炸物"
+   "zh-CN": "工业爆炸物",
+   "ja": "工業爆弾",
+   "ko": "공업 폭발물"
   },
   "item_proc_battery_1": {
    "en": "LC Valley Battery",
    "zh-TW": "低容量谷地電池",
-   "zh-CN": "低容谷地电池"
+   "zh-CN": "低容谷地电池",
+   "ja": "小容量谷地バッテリー",
+   "ko": "저용량 협곡 배터리"
   },
   "item_proc_battery_2": {
    "en": "SC Valley Battery",
    "zh-TW": "中容量谷地電池",
-   "zh-CN": "中容谷地电池"
+   "zh-CN": "中容谷地电池",
+   "ja": "中容量谷地バッテリー",
+   "ko": "중용량 협곡 배터리"
   },
   "item_proc_battery_3": {
    "en": "HC Valley Battery",
    "zh-TW": "高容量谷地電池",
-   "zh-CN": "高容谷地电池"
+   "zh-CN": "高容谷地电池",
+   "ja": "大容量谷地バッテリー",
+   "ko": "대용량 협곡 배터리"
   },
   "item_bottled_rec_hp_4": {
    "en": "Yazhen Syringe [C]",
    "zh-TW": "芽針針劑",
-   "zh-CN": "芽针针剂"
+   "zh-CN": "芽针针剂",
+   "ja": "芽針注射剤Ⅰ",
+   "ko": "야침 주사약"
   },
   "item_bottled_rec_hp_5": {
    "en": "Yazhen Syringe [A]",
    "zh-TW": "優質芽針針劑",
-   "zh-CN": "优质芽针针剂"
+   "zh-CN": "优质芽针针剂",
+   "ja": "芽針注射剤Ⅱ",
+   "ko": "고급 야침 주사약"
   },
   "item_bottled_food_4": {
    "en": "Jincao Drink",
    "zh-TW": "錦草飲料",
-   "zh-CN": "锦草软饮"
+   "zh-CN": "锦草软饮",
+   "ja": "錦草ソーダⅠ",
+   "ko": "금초 청량음료"
   },
   "item_bottled_food_5": {
    "en": "Jincao Tea",
    "zh-TW": "優質錦草飲料",
-   "zh-CN": "优质锦草软饮"
+   "zh-CN": "优质锦草软饮",
+   "ja": "錦草ソーダⅡ",
+   "ko": "고급 금초 청량음료"
   },
   "item_proc_battery_4": {
    "en": "LC Wuling Battery",
    "zh-TW": "低容量武陵電池",
-   "zh-CN": "低容武陵电池"
+   "zh-CN": "低容武陵电池",
+   "ja": "小容量武陵バッテリー",
+   "ko": "저용량 무릉 배터리"
   },
   "item_proc_battery_5": {
    "en": "SC Wuling Battery",
    "zh-TW": "中容量武陵電池",
-   "zh-CN": "中容武陵电池"
+   "zh-CN": "中容武陵电池",
+   "ja": "中容量武陵バッテリー",
+   "ko": "중용량 무릉 배터리"
   },
   "item_equip_script_1": {
    "en": "Amethyst Component",
    "zh-TW": "紫晶裝備原件",
-   "zh-CN": "紫晶装备原件"
+   "zh-CN": "紫晶装备原件",
+   "ja": "紫晶装備部品",
+   "ko": "자수정 장비 부품"
   },
   "item_equip_script_2": {
    "en": "Ferrium Component",
    "zh-TW": "藍鐵裝備原件",
-   "zh-CN": "蓝铁装备原件"
+   "zh-CN": "蓝铁装备原件",
+   "ja": "青鉄装備部品",
+   "ko": "페리움 장비 부품"
   },
   "item_equip_script_3": {
    "en": "Cryston Component",
    "zh-TW": "高晶裝備原件",
-   "zh-CN": "高晶装备原件"
+   "zh-CN": "高晶装备原件",
+   "ja": "高晶装備部品",
+   "ko": "크리스톤 장비 부품"
   },
   "item_equip_script_4": {
    "en": "Xiranite Component",
    "zh-TW": "息壤裝備原件",
-   "zh-CN": "息壤装备原件"
+   "zh-CN": "息壤装备原件",
+   "ja": "息壌装備部品",
+   "ko": "식양 장비 부품"
   },
   "item_equip_script_4_3": {
    "en": "Pyrrolite Component",
    "zh-TW": "灼銅裝備原件",
-   "zh-CN": "灼铜装备原件"
+   "zh-CN": "灼铜装备原件",
+   "ja": "焔銅装備部品",
+   "ko": "작동 장비 부품"
   },
   "item_equip_script_4_2": {
    "en": "Hetonite Component",
    "zh-TW": "赫銅裝備原件",
-   "zh-CN": "赫铜装备原件"
+   "zh-CN": "赫铜装备原件",
+   "ja": "緋銅装備部品",
+   "ko": "혁동 장비 부품"
   },
   "item_equip_script_4_1": {
    "en": "Cuprium Component",
    "zh-TW": "赤銅裝備原件",
-   "zh-CN": "赤铜装备原件"
+   "zh-CN": "赤铜装备原件",
+   "ja": "赤銅装備部品",
+   "ko": "적동 장비 부품"
   },
   "item_muck_feces_1": {
    "en": "Burdo-Muck",
    "zh-TW": "馱獸糞便",
-   "zh-CN": "驮兽粪便"
+   "zh-CN": "驮兽粪便",
+   "ja": "駄獣のフン",
+   "ko": "버든비스트의 배설물"
   },
   "item_muck_xiranite_1": {
    "en": "Bumper-Rich",
    "zh-TW": "膨地啪",
-   "zh-CN": "膨地啪"
+   "zh-CN": "膨地啪",
+   "ja": "ポンポン肥料",
+   "ko": "팽지박"
   }
  },
  "recipes": [

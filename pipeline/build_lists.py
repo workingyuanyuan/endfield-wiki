@@ -343,10 +343,86 @@ def dijiang(lang):
     write('systems', 'dijiang', lang, out)
 
 
+ELEMENTS = ('physical', 'heat', 'electric', 'cryo', 'nature')
+
+
+def enemies(lang):
+    L = lambda en, zh: en if lang == EN else zh  # noqa: E731
+    pre = '' if lang == EN else '/zh-tw'
+    rec = load('enemies.json')
+    terms, areas, classes = rec['terms'], rec['areas'], rec['classes']
+    # One row per name: the two forms of Marble Aggelomoirai share name and values.
+    rows = {}
+    for e in rec['enemies']:
+        key = e['name'][EN]
+        if key in rows:
+            assert (rows[key]['resist'], rows[key]['class']) == (e['resist'], e['class']), key
+            rows[key]['areas'] += [a for a in e['areas'] if a not in rows[key]['areas']]
+        else:
+            rows[key] = dict(e, areas=list(e['areas']))
+    ens = sorted(rows.values(), key=lambda e: e['name'][EN].lower())
+    n = len(ens)
+    none = [e for e in ens if not any(e['resist'].values())]
+    high = sorted([(v, k, e) for e in ens for k, v in e['resist'].items() if v >= 30], key=lambda x: (-x[0], ELEMENTS.index(x[1]), x[2]['name'][EN]))
+    grades = rec['grades']
+    def grade(v):
+        return min((g for g in grades if g['taken'] >= 1 - v / 100 - 1e-9), key=lambda g: g['taken'])['grade']
+    seen = {}
+    for e in ens:
+        for v in e['resist'].values():
+            seen.setdefault(grade(v), set()).add(v)
+    span = lambda g: L(' to ', ' 至 ').join(map(str, (min(seen[g]), max(seen[g])))) if len(seen[g]) > 1 else str(min(seen[g]))  # noqa: E731
+    used = [g['grade'] for g in reversed(grades) if g['grade'] in seen]
+    unused = [g['grade'] for g in grades if g['grade'] not in seen]
+    elem = {k: terms[k][lang].replace(' Resistance', '').replace('抗性', '') for k in ELEMENTS}
+    # The region of an area: Valley IV (map01) or Wuling (map02); an Energy Alluvium point by the
+    # area it is named after; the Special Protocol Spaces are neither.
+    by_name = {v[EN]: k for k, v in areas.items() if 'energy_point' not in k}
+    def region(aid):
+        if 'energy_point' in aid:
+            aid = by_name[areas[aid][EN].split(': ', 1)[1].replace(' EZ', ' Exclusion Zone')]
+        return next((m for m in ('map01', 'map02') if m in aid), None)
+    def where(e):
+        plain = [areas[a][lang] for a in e['areas'] if 'energy_point' not in a]
+        alluvium = [areas[a][lang].split(': ', 1)[-1].split('·', 1)[-1] for a in e['areas'] if 'energy_point' in a]
+        parts = [L(', ', '、').join(plain)] if plain else []
+        if alluvium:
+            parts.append(L('Energy Alluvium: ', '能量淤積點：') + L(', ', '、').join(alluvium))
+        return L('; ', '；').join(parts) or '—'
+    def regions(e):
+        rs = sorted({r for r in map(region, e['areas']) if r})
+        return L(' and ', '、').join(terms[r][lang] for r in rs) or '—'
+    title = L('Enemy resistances', '敵人抗性')
+    desc = L(f'Physical, Heat, Electric, Cryo and Nature resistances of all {n} enemies in Arknights: Endfield, by region.',
+             f'《明日方舟：終末地》{n} 種敵人的物理、灼熱、電磁、寒冷、自然抗性與分布地區。')
+    caveat = L("The values are those of each enemy's base form, met in the open world. Some stage versions of an enemy have other resistances, for example 15 in every element.",
+               '表中數值是各敵人基本型態的抗性，即在野外遇到的型態。部分關卡中的同名敵人抗性不同，例如五種屬性皆為 15。')
+    sources = [(bp.GAME_TABLES[1][lang], bp.GAME_TABLES[0])]
+    out = front(lang, title, desc, L('Arknights: Endfield, global service, game data 1.6', '《明日方舟：終末地》國際版，遊戲資料 1.6'),
+                caveat, TODAY, [L('敵人抗性', 'Enemy resistances'), '敌人抗性'], sources)
+    top = high[0]
+    out += [L(f"Each point of resistance cuts damage of that element by 1% (see [Combat](/systems/combat/)). The game shows each resistance as a grade; among enemies {', '.join(f'{g} is {span(g)}' for g in used)}, and no enemy has {' or '.join(unused)}. Of the {n} enemies in the in-game encyclopedia, {len(none)} have no resistance; most of the others have 20 in two to five elements. The highest is {top[2]['name'][EN]}'s Physical Resistance of {top[0]}. No enemy resists Æther damage.",
+              f"每 1 點抗性使該屬性的傷害降低 1%（見[戰鬥](/zh-tw/systems/combat/)）。遊戲內以等級顯示抗性；敵人的抗性中，{'，'.join(f'{g} 為 {span(g)}' for g in used)}，沒有敵人達到 {' 或 '.join(unused)}。遊戲內圖鑑的 {n} 種敵人中，{len(none)} 種沒有任何抗性；其餘大多在二到五種屬性上各有 20 點。最高的是{top[2]['name'][ZH]}的物理抗性 {top[0]}。沒有敵人具有超域抗性。"), '',
+            L('## Highest resistances', '## 抗性最高的敵人'), '',
+            L('Every resistance of 30 or more:', '抗性 30 以上的全部列出：'), '',
+            L('| Enemy | Resistance | Grade | Value |', '| 敵人 | 抗性 | 等級 | 數值 |'), '| --- | --- | --- | --- |']
+    out += [f"| {e['name'][lang]} | {terms[k][lang]} | {grade(v)} | {v} |" for v, k, e in high]
+    out += ['', L('## All enemies', '## 所有敵人'), '',
+            L(f"Sorted by English name. Each resistance is given as grade and value. Class is the game's own: Common, Advanced, Elite, Alpha, Boss.",
+              f"依英文名稱排序。抗性寫成等級與數值。類型為遊戲內的分類：{'、'.join(classes[c][ZH] for c in ('0', '3', '1', '4', '2'))}。"), '',
+            '| ' + ' | '.join([L('Enemy', '敵人'), L('Class', '類型')] + [elem[k] for k in ELEMENTS] + [L('Region', '地區'), L('Where found', '分布')]) + ' |',
+            '| ' + ' | '.join(['---'] * 9) + ' |']
+    for e in ens:
+        name = e['name'][lang] if lang == EN else f"{e['name'][ZH]}（{e['name'][EN]}）"
+        out.append('| ' + ' | '.join([name, classes[e['class']][lang]] + [f"{grade(e['resist'][k])} ({e['resist'][k]})" for k in ELEMENTS] + [regions(e), where(e)]) + ' |')
+    write('systems', 'enemies', lang, out)
+
+
 if __name__ == '__main__':
     for lang in (EN, ZH):
         names(lang)
         weapons(lang)
         dijiang(lang)
         recipes(lang)
-    print('names, weapons, dijiang, recipes written')
+        enemies(lang)
+    print('names, weapons, dijiang, recipes, enemies written')

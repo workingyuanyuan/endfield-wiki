@@ -8,6 +8,8 @@ aliases:
   - 戰鬥機制
   - 战斗机制
 sources:
+  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
   - title: "NGA forum guide 终末地数据机制导论 (player tests, Version 1.0)"
     url: https://bbs.nga.cn/read.php?tid=46094556
   - title: "warfarin.wiki, combat terms in game data 1.6"
@@ -66,7 +68,7 @@ NGA forum player 666bj measured these formulas in Version 1.0. Ordinary damage, 
 - Operators start with 5% Critical Rate and 50% Critical DMG. Enemies have 0% Critical Rate and 50% Critical DMG.
 - All Skill DMG covers battle skills, combo skills and ultimates, not basic attacks. Finishers gain from Basic Attack DMG Bonus.
 - Enemies have 100 base DEF at every level, so the DEF multiplier of a hit that uses DEF is 0.5 unless an effect changes their DEF. Operators have 0 base DEF; their DEF normally comes from the main stat of gear.
-- One point of resistance cuts damage of that type by 1%. Enemy resistances come in tiers: D is 0, C is usually 20 (30 for one enemy's Nature Resistance), B is 50. Enemies have a base Æther Resistance of 0.
+- One point of resistance cuts damage of that type by 1%. The game shows an enemy's resistance as a grade: D for 0, C for 20 to 40, B for 50 and 60. Most enemy resistances are 0 or 20; a few enemies have 30, 35, 40, 50 or 60 in one element, and no enemy resists Æther. Every enemy's values are in [Enemy resistances](/systems/enemies/).
 - An operator's Physical Resistance is 100 − 100 / (0.001 × Agility + 1), and Arts Resistance the same with Intellect, using the whole-number part of Agility and Intellect. An operator's resistance multiplier never falls below 0.1.
 - Many values in the game are shown rounded down, so a calculation from the shown numbers can be off by a few points.
 

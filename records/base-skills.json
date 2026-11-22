@@ -4,22 +4,30 @@
   "control": {
    "en": "Control Nexus",
    "zh-TW": "總控中樞",
-   "zh-CN": "总控中枢"
+   "zh-CN": "总控中枢",
+   "ja": "指揮中枢",
+   "ko": "핵심 제어 중추"
   },
   "reception": {
    "en": "Reception Room",
    "zh-TW": "會客室",
-   "zh-CN": "会客室"
+   "zh-CN": "会客室",
+   "ja": "応接室",
+   "ko": "응접실"
   },
   "manufacturing": {
    "en": "MFG Cabin",
    "zh-TW": "製造艙",
-   "zh-CN": "制造舱"
+   "zh-CN": "制造舱",
+   "ja": "製造室",
+   "ko": "제조실"
   },
   "growth": {
    "en": "Growth Chamber",
    "zh-TW": "培養艙",
-   "zh-CN": "培养舱"
+   "zh-CN": "培养舱",
+   "ja": "培養室",
+   "ko": "재배실"
   }
  },
  "operators": {
@@ -28,7 +36,9 @@
     "name": {
      "en": "Coffee or Tea",
      "zh-TW": "咖啡或茶",
-     "zh-CN": "咖啡或茶"
+     "zh-CN": "咖啡或茶",
+     "ja": "コーヒー？お茶？",
+     "ko": "커피 또는 차"
     },
     "room": "manufacturing",
     "kind": "mood-drop-room",
@@ -49,7 +59,9 @@
     "name": {
      "en": "Icebreaker",
      "zh-TW": "破冰遊戲",
-     "zh-CN": "破冰游戏"
+     "zh-CN": "破冰游戏",
+     "ja": "アイスブレイク",
+     "ko": "아이스브레이킹"
     },
     "room": "reception",
     "kind": "mood-drop-room",
@@ -72,7 +84,9 @@
     "name": {
      "en": "Casual Angling",
      "zh-TW": "悠閒垂釣",
-     "zh-CN": "悠闲垂钓"
+     "zh-CN": "悠闲垂钓",
+     "ja": "のんびり釣り日和",
+     "ko": "여유로운 낚시"
     },
     "room": "control",
     "kind": "mood-regen-all",
@@ -93,7 +107,9 @@
     "name": {
      "en": "Anglers' Intel Network",
      "zh-TW": "釣友情報網",
-     "zh-CN": "钓友情报网"
+     "zh-CN": "钓友情报网",
+     "ja": "釣り友ネットワーク",
+     "ko": "낚시꾼 네트워크"
     },
     "room": "reception",
     "kind": "clue-chance",
@@ -128,7 +144,9 @@
     "name": {
      "en": "Experimental Arts Unit",
      "zh-TW": "實驗性施術單元",
-     "zh-CN": "实验性施术单元"
+     "zh-CN": "实验性施术单元",
+     "ja": "実験用アーツユニット",
+     "ko": "실험적 아츠 유닛"
     },
     "room": "manufacturing",
     "kind": "make-weapon-exp",
@@ -149,7 +167,9 @@
     "name": {
      "en": "Pun-isher Studies",
      "zh-TW": "冷笑話學習",
-     "zh-CN": "冷笑话学习"
+     "zh-CN": "冷笑话学习",
+     "ja": "「寒いギャグ」勉強中",
+     "ko": "썰렁한 농담 배우기"
     },
     "room": "growth",
     "kind": "mood-drop-room",
@@ -172,7 +192,9 @@
     "name": {
      "en": "Pluck the Mountain, Boil the Sea",
      "zh-TW": "摘山煮海",
-     "zh-CN": "摘山煮海"
+     "zh-CN": "摘山煮海",
+     "ja": "鋳山煮海",
+     "ko": "산을 따고, 바다를 끓여라!"
     },
     "room": "growth",
     "kind": "grow-mineral",
@@ -193,7 +215,9 @@
     "name": {
      "en": "Botanophile",
      "zh-TW": "多識草木",
-     "zh-CN": "多识草木"
+     "zh-CN": "多识草木",
+     "ja": "草木熟知",
+     "ko": "식물 박사"
     },
     "room": "growth",
     "kind": "grow-plant",
@@ -216,7 +240,9 @@
     "name": {
      "en": "Blade of the Wildlands",
      "zh-TW": "荒野鋒刃",
-     "zh-CN": "荒野锋刃"
+     "zh-CN": "荒野锋刃",
+     "ja": "荒野の刃",
+     "ko": "황무지의 칼날"
     },
     "room": "manufacturing",
     "kind": "make-weapon-exp",
@@ -237,7 +263,9 @@
     "name": {
      "en": "Hanna Traditions",
      "zh-TW": "歌謠傳唱",
-     "zh-CN": "歌谣传唱"
+     "zh-CN": "歌谣传唱",
+     "ja": "「歌」い継ぐ",
+     "ko": "노래의 전승"
     },
     "room": "reception",
     "kind": "clue-chance",
@@ -272,7 +300,9 @@
     "name": {
      "en": "Tales of the Land",
      "zh-TW": "大地的故事",
-     "zh-CN": "大地的故事"
+     "zh-CN": "大地的故事",
+     "ja": "大地の物語",
+     "ko": "대지의 이야기"
     },
     "room": "reception",
     "kind": "clue-speed",
@@ -293,7 +323,9 @@
     "name": {
      "en": "Mr. Dolly's Game",
      "zh-TW": "多利先生的遊戲",
-     "zh-CN": "多利先生的游戏"
+     "zh-CN": "多利先生的游戏",
+     "ja": "ドリーさんのゲーム",
+     "ko": "돌리 씨의 게임"
     },
     "room": "reception",
     "kind": "mood-drop-room",
@@ -316,7 +348,9 @@
     "name": {
      "en": "Axiom of Combat",
      "zh-TW": "百兵一理",
-     "zh-CN": "百兵一理"
+     "zh-CN": "百兵一理",
+     "ja": "百兵一理",
+     "ko": "백병의 이치"
     },
     "room": "manufacturing",
     "kind": "make-operator-exp",
@@ -337,7 +371,9 @@
     "name": {
      "en": "Tools of Momentum",
      "zh-TW": "因勢應物",
-     "zh-CN": "因势应物"
+     "zh-CN": "因势应物",
+     "ja": "機宜",
+     "ko": "만물의 응용"
     },
     "room": "manufacturing",
     "kind": "mood-drop-room",
@@ -360,7 +396,9 @@
     "name": {
      "en": "Residence Advisor",
      "zh-TW": "居家顧問",
-     "zh-CN": "居家顾问"
+     "zh-CN": "居家顾问",
+     "ja": "暮らしのアドバイザー",
+     "ko": "가정 상담사"
     },
     "room": "control",
     "kind": "mood-regen-all",
@@ -381,7 +419,9 @@
     "name": {
      "en": "Messenger's Secret",
      "zh-TW": "信使的秘密",
-     "zh-CN": "信使的秘密"
+     "zh-CN": "信使的秘密",
+     "ja": "トランスポーターの秘密",
+     "ko": "전달자의 비밀"
     },
     "room": "reception",
     "kind": "clue-chance",
@@ -416,7 +456,9 @@
     "name": {
      "en": "Hemo-Vitreography",
      "zh-TW": "血晶層析",
-     "zh-CN": "血晶层析"
+     "zh-CN": "血晶层析",
+     "ja": "血晶クロマトグラフィー",
+     "ko": "혈정 층 분석"
     },
     "room": "growth",
     "kind": "grow-plant",
@@ -437,7 +479,9 @@
     "name": {
      "en": "Agaš'mekanaz's Manual",
      "zh-TW": "看護人手冊",
-     "zh-CN": "看护人手册"
+     "zh-CN": "看护人手册",
+     "ja": "番人手帳",
+     "ko": "수호자 매뉴얼"
     },
     "room": "manufacturing",
     "kind": "make-operator-exp",
@@ -460,7 +504,9 @@
     "name": {
      "en": "Silent Caretaker",
      "zh-TW": "緘默關懷",
-     "zh-CN": "缄默关怀"
+     "zh-CN": "缄默关怀",
+     "ja": "無言の気遣い",
+     "ko": "조용한 배려"
     },
     "room": "control",
     "kind": "mood-regen-all",
@@ -481,7 +527,9 @@
     "name": {
      "en": "Grounded Approach",
      "zh-TW": "務實心態",
-     "zh-CN": "务实心态"
+     "zh-CN": "务实心态",
+     "ja": "実用的",
+     "ko": "실용적 사고"
     },
     "room": "growth",
     "kind": "mood-drop-room",
@@ -504,7 +552,9 @@
     "name": {
      "en": "Blade Critique",
      "zh-TW": "名劍選評",
-     "zh-CN": "名剑选评"
+     "zh-CN": "名剑选评",
+     "ja": "名剣鑑定",
+     "ko": "명검 평가"
     },
     "room": "manufacturing",
     "kind": "make-weapon-exp",
@@ -525,7 +575,9 @@
     "name": {
      "en": "Jadeworking",
      "zh-TW": "琢玉",
-     "zh-CN": "琢玉"
+     "zh-CN": "琢玉",
+     "ja": "琢玉",
+     "ko": "탁옥"
     },
     "room": "growth",
     "kind": "grow-mineral",
@@ -548,7 +600,9 @@
     "name": {
      "en": "Chef of Forage and Game",
      "zh-TW": "擅烹山珍",
-     "zh-CN": "擅烹山珍"
+     "zh-CN": "擅烹山珍",
+     "ja": "山の幸を召し上がれ",
+     "ko": "산해진미 전문가"
     },
     "room": "growth",
     "kind": "grow-fungus",
@@ -569,7 +623,9 @@
     "name": {
      "en": "Worldly Wisdom",
      "zh-TW": "人情練達",
-     "zh-CN": "人情练达"
+     "zh-CN": "人情练达",
+     "ja": "世渡り上手",
+     "ko": "능숙한 대인관계"
     },
     "room": "control",
     "kind": "mood-regen-all",
@@ -592,7 +648,9 @@
     "name": {
      "en": "Special Northern Training",
      "zh-TW": "北地特訓",
-     "zh-CN": "北地特训"
+     "zh-CN": "北地特训",
+     "ja": "北地特訓",
+     "ko": "북쪽 지역에서의 특훈"
     },
     "room": "manufacturing",
     "kind": "make-operator-exp",
@@ -613,7 +671,9 @@
     "name": {
      "en": "Keepers of the Banner",
      "zh-TW": "同袍相繫",
-     "zh-CN": "同袍相系"
+     "zh-CN": "同袍相系",
+     "ja": "結束の契り",
+     "ko": "전우애"
     },
     "room": "reception",
     "kind": "clue-chance",
@@ -648,7 +708,9 @@
     "name": {
      "en": "Fragmented Rest",
      "zh-TW": "碎片化休息",
-     "zh-CN": "碎片化休息"
+     "zh-CN": "碎片化休息",
+     "ja": "こまめに休憩",
+     "ko": "조각화 휴식"
     },
     "room": "control",
     "kind": "mood-regen-all",
@@ -669,7 +731,9 @@
     "name": {
      "en": "Frequency Monitoring",
      "zh-TW": "監聽頻段",
-     "zh-CN": "监听频段"
+     "zh-CN": "监听频段",
+     "ja": "チャンネル傍受",
+     "ko": "감청 주파수"
     },
     "room": "reception",
     "kind": "clue-speed",
@@ -692,7 +756,9 @@
     "name": {
      "en": "Wildlands Trekker",
      "zh-TW": "荒蕪行者",
-     "zh-CN": "荒芜行者"
+     "zh-CN": "荒芜行者",
+     "ja": "荒野放浪",
+     "ko": "황무지의 방랑자"
     },
     "room": "growth",
     "kind": "grow-mineral",
@@ -713,7 +779,9 @@
     "name": {
      "en": "Reader of Emotions",
      "zh-TW": "知人所想",
-     "zh-CN": "知人所想"
+     "zh-CN": "知人所想",
+     "ja": "心の透視",
+     "ko": "통찰의 기술"
     },
     "room": "control",
     "kind": "mood-regen-all",
@@ -736,7 +804,9 @@
     "name": {
      "en": "Messengerial Processing",
      "zh-TW": "信使的加工藝術",
-     "zh-CN": "信使的加工艺术"
+     "zh-CN": "信使的加工艺术",
+     "ja": "トランスポーターの芸術",
+     "ko": "전달자의 가공 예술"
     },
     "room": "manufacturing",
     "kind": "mood-drop-room",
@@ -757,7 +827,9 @@
     "name": {
      "en": "Messengerial Arms Mastery",
      "zh-TW": "信使的武器知識",
-     "zh-CN": "信使的武器知识"
+     "zh-CN": "信使的武器知识",
+     "ja": "トランスポーターの武器知識",
+     "ko": "전달자의 무기 지식"
     },
     "room": "manufacturing",
     "kind": "make-weapon-exp",
@@ -780,7 +852,9 @@
     "name": {
      "en": "Memory Crucible",
      "zh-TW": "記憶熔爐",
-     "zh-CN": "记忆熔炉"
+     "zh-CN": "记忆熔炉",
+     "ja": "記憶の溶炉",
+     "ko": "기억의 용광로"
     },
     "room": "manufacturing",
     "kind": "make-operator-exp",
@@ -801,7 +875,9 @@
     "name": {
      "en": "Undying Flames",
      "zh-TW": "不熄炎火",
-     "zh-CN": "不熄炎火"
+     "zh-CN": "不熄炎火",
+     "ja": "消えぬ炎",
+     "ko": "꺼지지 않는 불꽃"
     },
     "room": "manufacturing",
     "kind": "mood-drop-room",
@@ -824,7 +900,9 @@
     "name": {
      "en": "Cemetery Gardening",
      "zh-TW": "墓地園藝",
-     "zh-CN": "墓地园艺"
+     "zh-CN": "墓地园艺",
+     "ja": "墓地の造園",
+     "ko": "묘지 원예"
     },
     "room": "growth",
     "kind": "grow-plant",
@@ -845,7 +923,9 @@
     "name": {
      "en": "Fame of the Royal Courts",
      "zh-TW": "王庭盛名",
-     "zh-CN": "王庭盛名"
+     "zh-CN": "王庭盛名",
+     "ja": "王庭の名声",
+     "ko": "왕실의 명성"
     },
     "room": "reception",
     "kind": "clue-chance",
@@ -880,7 +960,9 @@
     "name": {
      "en": "Youthful Ambition",
      "zh-TW": "少年意氣",
-     "zh-CN": "少年意气"
+     "zh-CN": "少年意气",
+     "ja": "少年の心意気",
+     "ko": "소년의 기개"
     },
     "room": "control",
     "kind": "mood-regen-all",
@@ -901,7 +983,9 @@
     "name": {
      "en": "Laddie Reliable",
      "zh-TW": "小大人",
-     "zh-CN": "小大人"
+     "zh-CN": "小大人",
+     "ja": "小さな大人",
+     "ko": "조숙한 아이"
     },
     "room": "reception",
     "kind": "clue-chance",
@@ -936,7 +1020,9 @@
     "name": {
      "en": "Idol Passion",
      "zh-TW": "偶像的熱忱",
-     "zh-CN": "偶像的热忱"
+     "zh-CN": "偶像的热忱",
+     "ja": "アイドルの情熱",
+     "ko": "아이돌의 열정"
     },
     "room": "reception",
     "kind": "mood-drop-room",
@@ -957,7 +1043,9 @@
     "name": {
      "en": "Stage Vibe That Lingers",
      "zh-TW": "演出餘韻",
-     "zh-CN": "演出余韵"
+     "zh-CN": "演出余韵",
+     "ja": "ライブの余韻",
+     "ko": "무대의 여운"
     },
     "room": "control",
     "kind": "mood-regen-all",
@@ -980,7 +1068,9 @@
     "name": {
      "en": "Secret Informants",
      "zh-TW": "暗樁眼線",
-     "zh-CN": "暗桩眼线"
+     "zh-CN": "暗桩眼线",
+     "ja": "内部協力者",
+     "ko": "은밀한 시선"
     },
     "room": "reception",
     "kind": "clue-chance",
@@ -1013,7 +1103,9 @@
     "name": {
      "en": "Esoteric Tisane",
      "zh-TW": "草藥偏方",
-     "zh-CN": "草药偏方"
+     "zh-CN": "草药偏方",
+     "ja": "薬草療法",
+     "ko": "약초 요법"
     },
     "room": "growth",
     "kind": "grow-fungus",
@@ -1036,7 +1128,9 @@
     "name": {
      "en": "Supervisor",
      "zh-TW": "監督",
-     "zh-CN": "监督"
+     "zh-CN": "监督",
+     "ja": "監察官",
+     "ko": "감독관"
     },
     "room": "control",
     "kind": "mood-regen-all",
@@ -1057,7 +1151,9 @@
     "name": {
      "en": "Protocol Redistribution",
      "zh-TW": "協議調度",
-     "zh-CN": "协议调度"
+     "zh-CN": "协议调度",
+     "ja": "協約調達",
+     "ko": "프로토콜 관리"
     },
     "room": "manufacturing",
     "kind": "make-weapon-exp",
@@ -1080,7 +1176,9 @@
     "name": {
      "en": "Hone the Weapons",
      "zh-TW": "先利其器",
-     "zh-CN": "先利其器"
+     "zh-CN": "先利其器",
+     "ja": "武備先行",
+     "ko": "무기 정비"
     },
     "room": "manufacturing",
     "kind": "make-weapon-exp",
@@ -1101,7 +1199,9 @@
     "name": {
      "en": "Morale Boost",
      "zh-TW": "鼓舞士氣",
-     "zh-CN": "鼓舞士气"
+     "zh-CN": "鼓舞士气",
+     "ja": "気勢鼓舞",
+     "ko": "사기충천"
     },
     "room": "manufacturing",
     "kind": "mood-drop-room",
@@ -1124,7 +1224,9 @@
     "name": {
      "en": "Brand Ambassador",
      "zh-TW": "形象代言人",
-     "zh-CN": "形象代言人"
+     "zh-CN": "形象代言人",
+     "ja": "アンバサダー",
+     "ko": "홍보대사"
     },
     "room": "reception",
     "kind": "clue-chance",
@@ -1157,7 +1259,9 @@
     "name": {
      "en": "Desserts for the Debrief",
      "zh-TW": "任務後的點心",
-     "zh-CN": "任务后的点心"
+     "zh-CN": "任务后的点心",
+     "ja": "任務後のお菓子",
+     "ko": "임무 후의 디저트"
     },
     "room": "manufacturing",
     "kind": "make-operator-exp",
@@ -1180,7 +1284,9 @@
     "name": {
      "en": "Clan Etiquette",
      "zh-TW": "氏族的禮儀",
-     "zh-CN": "氏族的礼仪"
+     "zh-CN": "氏族的礼仪",
+     "ja": "クランの礼儀",
+     "ko": "집단의 의례"
     },
     "room": "reception",
     "kind": "mood-drop-room",
@@ -1201,7 +1307,9 @@
     "name": {
      "en": "Scent of the Hunt",
      "zh-TW": "狩獵嗅覺",
-     "zh-CN": "狩猎嗅觉"
+     "zh-CN": "狩猎嗅觉",
+     "ja": "ハンティングの勘",
+     "ko": "사냥꾼의 후각"
     },
     "room": "reception",
     "kind": "clue-speed",
@@ -1224,7 +1332,9 @@
     "name": {
      "en": "Ware is the Geist",
      "zh-TW": "點器為倀",
-     "zh-CN": "点器为伥"
+     "zh-CN": "点器为伥",
+     "ja": "器を鬼とす",
+     "ko": "도구의 사역마"
     },
     "room": "reception",
     "kind": "clue-speed",
@@ -1245,7 +1355,9 @@
     "name": {
      "en": "Ink Spirit Aide",
      "zh-TW": "墨魎代勞",
-     "zh-CN": "墨魉代劳"
+     "zh-CN": "墨魉代劳",
+     "ja": "代役墨魎",
+     "ko": "묵량의 보조"
     },
     "room": "reception",
     "kind": "mood-drop-room",
@@ -1268,7 +1380,9 @@
     "name": {
      "en": "Rescuer's Perseverance",
      "zh-TW": "救援者的恆心",
-     "zh-CN": "救援者的恒心"
+     "zh-CN": "救援者的恒心",
+     "ja": "救う者の根気",
+     "ko": "구조자의 굳건한 마음"
     },
     "room": "manufacturing",
     "kind": "mood-drop-room",
@@ -1289,7 +1403,9 @@
     "name": {
      "en": "Happy-Go-Lucky",
      "zh-TW": "樂天派",
-     "zh-CN": "乐天派"
+     "zh-CN": "乐天派",
+     "ja": "楽天家",
+     "ko": "긍정파"
     },
     "room": "control",
     "kind": "mood-regen-all",
@@ -1312,7 +1428,9 @@
     "name": {
      "en": "Supreme Chief",
      "zh-TW": "大當家",
-     "zh-CN": "大当家"
+     "zh-CN": "大当家",
+     "ja": "大親分",
+     "ko": "대당가"
     },
     "room": "growth",
     "kind": "mood-drop-room",
@@ -1333,7 +1451,9 @@
     "name": {
      "en": "River's Daughter",
      "zh-TW": "河流的女兒",
-     "zh-CN": "河流的女儿"
+     "zh-CN": "河流的女儿",
+     "ja": "水の申し子",
+     "ko": "강에서 태어난 소녀"
     },
     "room": "growth",
     "kind": "grow-plant",
@@ -1356,7 +1476,9 @@
     "name": {
      "en": "Lithic Murmurs",
      "zh-TW": "晶石低語",
-     "zh-CN": "晶石低语"
+     "zh-CN": "晶石低语",
+     "ja": "晶石の囁き",
+     "ko": "크리스털의 속삭임"
     },
     "room": "growth",
     "kind": "grow-mineral",
@@ -1377,7 +1499,9 @@
     "name": {
      "en": "Life in the Spores",
      "zh-TW": "孢子生靈",
-     "zh-CN": "孢子生灵"
+     "zh-CN": "孢子生灵",
+     "ja": "胞子生物",
+     "ko": "포자의 생령"
     },
     "room": "growth",
     "kind": "grow-fungus",
@@ -1400,7 +1524,9 @@
     "name": {
      "en": "Pack Techniques",
      "zh-TW": "狼群的技巧",
-     "zh-CN": "狼群的技巧"
+     "zh-CN": "狼群的技巧",
+     "ja": "狼群の技術",
+     "ko": "울프팀의 기술"
     },
     "room": "manufacturing",
     "kind": "make-operator-exp",
@@ -1421,7 +1547,9 @@
     "name": {
      "en": "Knack for the Wildlands",
      "zh-TW": "荒野卓識",
-     "zh-CN": "荒野卓识"
+     "zh-CN": "荒野卓识",
+     "ja": "荒野で生きる",
+     "ko": "황무지의 지혜"
     },
     "room": "growth",
     "kind": "grow-mineral",
@@ -1444,7 +1572,9 @@
     "name": {
      "en": "Standardized Scripting",
      "zh-TW": "標準化編譯",
-     "zh-CN": "标准化编译"
+     "zh-CN": "标准化编译",
+     "ja": "標準化コンパイル",
+     "ko": "표준화 컴파일"
     },
     "room": "manufacturing",
     "kind": "make-operator-exp",
@@ -1465,7 +1595,9 @@
     "name": {
      "en": "Murmuring Session",
      "zh-TW": "會話與細語",
-     "zh-CN": "会话与细语"
+     "zh-CN": "会话与细语",
+     "ja": "対話&静語",
+     "ko": "대화와 속삭임"
     },
     "room": "reception",
     "kind": "clue-chance",
@@ -1500,7 +1632,9 @@
     "name": {
      "en": "Fungal Pigment Extraction",
      "zh-TW": "菌類顏料提取",
-     "zh-CN": "菌类颜料提取"
+     "zh-CN": "菌类颜料提取",
+     "ja": "キノコ色素抽出",
+     "ko": "버섯 색소 추출"
     },
     "room": "growth",
     "kind": "grow-fungus",
@@ -1521,7 +1655,9 @@
     "name": {
      "en": "Fashionista",
      "zh-TW": "時尚達人",
-     "zh-CN": "时尚达人"
+     "zh-CN": "时尚达人",
+     "ja": "ファッショニスタ",
+     "ko": "패션 피플"
     },
     "room": "growth",
     "kind": "mood-drop-room",
@@ -1544,7 +1680,9 @@
     "name": {
      "en": "Viceroy Experience",
      "zh-TW": "管代經驗",
-     "zh-CN": "管代经验"
+     "zh-CN": "管代经验",
+     "ja": "代理の心得",
+     "ko": "책임자의 노련함"
     },
     "room": "manufacturing",
     "kind": "mood-drop-room",
@@ -1565,7 +1703,9 @@
     "name": {
      "en": "Tianshi Chi Meditation",
      "zh-TW": "天師養氣法",
-     "zh-CN": "天师养气法"
+     "zh-CN": "天师养气法",
+     "ja": "天師練気法",
+     "ko": "천사의 호흡 수련법"
     },
     "room": "manufacturing",
     "kind": "make-operator-exp",

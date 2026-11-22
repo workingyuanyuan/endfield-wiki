@@ -52,6 +52,7 @@ systems/operator-progression
 systems/weapons
 systems/gear
 systems/dijiang
+systems/enemies
 systems/names
 aic/index
 aic/power

@@ -15,7 +15,7 @@ sources:
     url: https://warfarin.wiki/en
 ---
 
-這十頁整理不隨版本改變的遊戲規則。
+這十一頁整理不隨版本改變的遊戲規則。
 
 ## 頁面
 
@@ -29,6 +29,7 @@ sources:
 | [幹員養成](/zh-tw/systems/operator-progression/) | 等級上限、精英化材料、技能等級、天賦、潛能、能力值 |
 | [武器列表](/zh-tw/systems/weapons/) | 84 把武器的類型與稀有度、基質詞條、遊戲推薦的幹員，附三種文字的名稱 |
 | [裝備套裝](/zh-tw/systems/gear/) | 24 套裝備與 3 件套裝效果 |
+| [敵人抗性](/zh-tw/systems/enemies/) | 每種敵人的物理、灼熱、電磁、寒冷、自然抗性、等級與分布地區 |
 | [帝江號](/zh-tw/systems/dijiang/) | 基地飛船：艙室、幹員進駐、心情與輪班，以及各艙室適合哪些幹員的後勤技能 |
 | [名稱對照](/zh-tw/systems/names/) | 幹員、職業、屬性、武器類型、陣營與種族的英文、繁體中文、簡體中文名稱 |
 

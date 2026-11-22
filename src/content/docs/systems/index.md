@@ -15,7 +15,7 @@ sources:
     url: https://warfarin.wiki/en
 ---
 
-Ten pages cover the rules of the game that hold across versions.
+Eleven pages cover the rules of the game that hold across versions.
 
 ## Pages
 
@@ -29,6 +29,7 @@ Ten pages cover the rules of the game that hold across versions.
 | [Operator progression](/systems/operator-progression/) | Level caps, promotion materials, skill levels, talents, potentials, attributes |
 | [Weapons list](/systems/weapons/) | All 84 weapons by type and rarity, with Essence stats, the operators the game recommends them for, and names in three scripts |
 | [Gear sets](/systems/gear/) | The 24 gear sets and their 3-piece effects |
+| [Enemy resistances](/systems/enemies/) | Physical, Heat, Electric, Cryo and Nature resistances of every enemy, its class and where it lives |
 | [Dijiang](/systems/dijiang/) | The base ship: rooms, operator assignments, mood and shifts, and which operators' base skills suit each room |
 | [Names in three scripts](/systems/names/) | Operators, classes, elements, weapon types, factions and races in English, Traditional and Simplified Chinese |
 

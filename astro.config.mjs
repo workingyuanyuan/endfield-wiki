@@ -35,7 +35,7 @@ export default defineConfig({
 				{
 					label: 'Systems',
 					translations: { 'zh-TW': '系統', 'zh-CN': '系统' },
-					items: [{ slug: 'systems' }, { slug: 'systems/headhunting' }, { slug: 'systems/arsenal' }, { slug: 'systems/combat' }, { slug: 'systems/operator-progression' }, { slug: 'systems/weapons' }, { slug: 'systems/gear' }, { slug: 'systems/dijiang' }, { slug: 'systems/servers-and-time' }, { slug: 'systems/platforms' }, { slug: 'systems/names' }],
+					items: [{ slug: 'systems' }, { slug: 'systems/headhunting' }, { slug: 'systems/arsenal' }, { slug: 'systems/combat' }, { slug: 'systems/operator-progression' }, { slug: 'systems/weapons' }, { slug: 'systems/gear' }, { slug: 'systems/enemies' }, { slug: 'systems/dijiang' }, { slug: 'systems/servers-and-time' }, { slug: 'systems/platforms' }, { slug: 'systems/names' }],
 				},
 				{
 					label: 'AIC',

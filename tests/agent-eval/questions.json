@@ -353,6 +353,17 @@
    "answer": "The operator goes to rest in the Central Ring and gives no assignment effect, then returns to the room by themselves at full mood.",
    "qualifier": "Some base skills slow mood drop in a room or speed mood recovery of all operators (Control Nexus).",
    "page": "systems/dijiang"
+  },
+  {
+   "id": "q33",
+   "question": "Which element does the YSTF Captain Blightshade resist, and how much?",
+   "variants": [
+    "蝕影應龍隊長抗什麼屬性？",
+    "蚀影应龙队长抗性是多少？"
+   ],
+   "answer": "Electric 35 and Physical 20 (both shown as grade C); Heat, Cryo and Nature 0 (grade D).",
+   "qualifier": "Values of the base form in the open world; some stage versions have other resistances (11 in every element on one).",
+   "page": "systems/enemies"
   }
  ],
  "toWrite": [

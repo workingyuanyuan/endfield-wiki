@@ -22,7 +22,8 @@ def table(name):
     return json.load(open(os.path.join(ED, name + '.json'), encoding='utf8'))
 
 
-TEXT = {'en': table('I18nTextTable_EN'), 'zh-TW': table('I18nTextTable_TC'), 'zh-CN': table('I18nTextTable_CN')}
+TEXT = {'en': table('I18nTextTable_EN'), 'zh-TW': table('I18nTextTable_TC'), 'zh-CN': table('I18nTextTable_CN'),
+        'ja': table('I18nTextTable_JP'), 'ko': table('I18nTextTable_KR')}
 
 
 def text(ref, lang):
@@ -33,6 +34,15 @@ def names(ref):
     out = {lang: text(ref, lang) for lang in TEXT}
     assert all(out.values()), ref
     return out
+
+
+def term(en):
+    """A term by its English text: of the text ids that carry it, the one with the shortest
+    Traditional Chinese text (Wuling is also the start of "Wuling Medal" and "Wuling region")."""
+    ids = [k for k, v in TEXT['en'].items() if v == en]
+    assert ids, en
+    best = min(ids, key=lambda k: (len(TEXT['zh-TW'].get(k, '')), k))
+    return {lang: TEXT[lang][best] for lang in TEXT}
 
 
 OPS = {}
@@ -148,7 +158,37 @@ def main():
             recipes['items'].setdefault(x['id'], names(items_t[x['id']]['name']))
         recipes['recipes'].append({'id': rid, 'machine': r['machineId'], 'inputs': ins, 'outputs': outs, 'seconds': r['progressRound']})
 
-    for name, data in (('recommend.json', recommend), ('base-skills.json', base), ('weapon-essence.json', essence), ('recipes.json', recipes)):
+    # Enemies of the in-game encyclopedia (WikiEntryTable entries wiki_<template id>): class,
+    # where they are found, and the resistances of the base enemy (enemy id = template id).
+    # Stage versions of an enemy (ids with a suffix, such as _hdg025) can have other values.
+    wiki = {x[len('wiki_'):] for v in table('WikiEntryTable').values() for x in v['list'] if x.startswith('wiki_eny_')}
+    enemy_t, attr_t, dist_t = table('EnemyTable'), table('EnemyAttributeTemplateTable'), table('DistributionInfoTable')
+    resist_keys = {'physical': 'physicalResistance', 'heat': 'fireResistance', 'electric': 'pulseResistance',
+                   'cryo': 'crystResistance', 'nature': 'naturalResistance'}
+    enemies = {'source': SOURCE, 'classes': {k: names(v['name']) for k, v in table('DisplayEnemyTypeTable').items()},
+               'areas': {}, 'enemies': []}
+    for tid, d in table('EnemyTemplateDisplayInfoTable').items():
+        if tid not in wiki:
+            continue
+        a = attr_t[enemy_t[tid]['attrTemplateId']]
+        # No enemy in the encyclopedia has an Aether resistance other than 0 (attribute 99).
+        assert all(x['attrValue'] == 0 for x in a['levelIndependentAttributes']['attrs'] if x['attrType'] == 99), tid
+        areas = [x for x in d['distributionIds'] if x in dist_t]
+        for x in areas:
+            enemies['areas'].setdefault(x, names(dist_t[x]['areaName']))
+        enemies['enemies'].append({'id': tid, 'name': names(d['name']), 'class': str(d['displayType']),
+                                   'resist': {k: int(a[f]) if a[f] == int(a[f]) else a[f] for k, f in resist_keys.items()},
+                                   'areas': areas})
+    assert len(enemies['enemies']) == len(wiki), (len(enemies['enemies']), len(wiki))
+    # The game shows a resistance as a grade: the grade with the smallest damage-taken scalar that
+    # is not below 1 - resistance / 100 (checked on the official wiki, 2026-11-22: 0 is D,
+    # 20, 30, 35 and 40 are C, 50 and 60 are B).
+    enemies['grades'] = sorted(({'grade': v['name'] and names(v['name'])['en'], 'taken': v['damageTakenScalar']}
+                                for v in table('EnemyDamageTakenLevelTable').values()), key=lambda g: g['taken'])
+    enemies['terms'] = {k: term(en) for k, en in (('physical', 'Physical Resistance'), ('heat', 'Heat Resistance'), ('electric', 'Electric Resistance'),
+                                                   ('cryo', 'Cryo Resistance'), ('nature', 'Nature Resistance'), ('map01', 'Valley IV'), ('map02', 'Wuling'))}
+
+    for name, data in (('recommend.json', recommend), ('base-skills.json', base), ('weapon-essence.json', essence), ('recipes.json', recipes), ('enemies.json', enemies)):
         with open(os.path.join(ROOT, 'records', name), 'w', encoding='utf8') as f:
             json.dump(data, f, ensure_ascii=False, indent=1)
             f.write('\n')
