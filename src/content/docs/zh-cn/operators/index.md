@@ -1,15 +1,15 @@
 ---
-title: 明日方舟：终末地 干员列表
+title: 干员列表
 description: 《明日方舟：终末地》1.6 版有 34 名可用干员；官方网站列出 37 笔。
 appliesTo: 《明日方舟：终末地》国际版，1.6 版；官方干员列表读取于 2026-11-21
 caveat: 官方列表的 37 笔不等于 37 名可用干员。管理员出现两次，小刻与米米诺不在 1.6 版以前任何一版的更新说明内。
 lastVerified: 2026-11-21
 effectiveDate: 2026-11-21
 aliases:
-  - "Arknights: Endfield operators list"
-  - 明日方舟：終末地 幹員列表
-  - "アークナイツ：エンドフィールド オペレーター一覧"
-  - "명일방주: 엔드필드 오퍼레이터 목록"
+  - Operators list
+  - 幹員列表
+  - オペレーター一覧
+  - 오퍼레이터 목록
 sources:
   - title: 官方干员列表 (Gryphline)
     url: https://endfield.gryphline.com/en-us/operator

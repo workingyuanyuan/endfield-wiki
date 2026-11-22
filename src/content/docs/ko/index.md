@@ -21,8 +21,6 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3837
 ---
 
-이 사이트는 Hypergryph나 Gryphline이 운영하지 않는다. 글로벌 서비스를 다룬다.
-
 ## 섹션
 
 | 섹션 | 내용 |

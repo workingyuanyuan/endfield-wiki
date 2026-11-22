@@ -1,7 +1,7 @@
 ---
 // Override of Starlight's SiteTitle: the site name, a mark that the site is not the
 // publisher's, and links to the machine-readable outputs of the current page. Each link
-// has a single-key shortcut (M, L, J).
+// has a single-key shortcut (M, L, J), shown as a bracketed hint drawn by CSS.
 import { LABELS, pageId, localeOf, mdPath, llmsPath, withBase } from '../lib/site.mjs';
 
 const { siteTitle, siteTitleHref, entry, id: routeId } = Astro.locals.starlightRoute;
@@ -119,8 +119,16 @@ const links = [
 		text-decoration: none;
 		text-transform: uppercase;
 	}
+	/* The key hint before each link ([M], [L], [J]) is drawn here, never typed: check 5 of
+	   scripts/check-dist.mjs fails when it leaks into page text. */
+	.outputs a::before {
+		content: '[' attr(data-key) '] ';
+		color: var(--sl-color-white);
+	}
 	.outputs a:hover,
-	.outputs a:focus-visible {
+	.outputs a:focus-visible,
+	.outputs a:hover::before,
+	.outputs a:focus-visible::before {
 		background: var(--ef-yellow);
 		color: var(--ef-ink);
 	}

@@ -1,15 +1,15 @@
 ---
-title: "명일방주: 엔드필드 오퍼레이터 목록"
+title: 오퍼레이터 목록
 description: "《명일방주: 엔드필드》 1.6 버전의 플레이 가능한 오퍼레이터는 34명이며, 공식 사이트에는 37개 항목이 있다."
 appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 공식 오퍼레이터 목록은 2026-11-21에 읽은 것"
 caveat: "공식 목록의 37개 항목은 플레이 가능한 오퍼레이터 37명이 아니다. 관리자가 2번 나오고, Kay와 Mimino는 1.6 버전까지 어떤 업데이트 설명에도 나오지 않는다."
 lastVerified: 2026-11-21
 effectiveDate: 2026-11-21
 aliases:
-  - "Arknights: Endfield operators list"
-  - "明日方舟：終末地 幹員列表"
-  - "明日方舟：终末地 干员列表"
-  - "アークナイツ：エンドフィールド オペレーター一覧"
+  - Operators list
+  - 幹員列表
+  - 干员列表
+  - オペレーター一覧
 sources:
   - title: "공식 오퍼레이터 목록(Gryphline)"
     url: https://endfield.gryphline.com/en-us/operator

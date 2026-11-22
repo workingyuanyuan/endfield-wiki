@@ -21,8 +21,6 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3837
 ---
 
-本站并非鹰角网络或 Gryphline 经营，内容为国际版。
-
 ## 分区
 
 | 分区 | 内容 |

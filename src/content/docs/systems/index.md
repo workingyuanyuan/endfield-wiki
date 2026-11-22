@@ -17,8 +17,6 @@ sources:
     url: https://warfarin.wiki/en
 ---
 
-Eleven pages cover the rules of the game that hold across versions.
-
 ## Pages
 
 | Page | What it covers |

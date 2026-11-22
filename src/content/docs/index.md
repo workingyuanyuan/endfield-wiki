@@ -21,8 +21,6 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3837
 ---
 
-This site is not run by Hypergryph or Gryphline. It covers the global service.
-
 ## Sections
 
 | Section | What it lists |

@@ -17,8 +17,6 @@ sources:
     url: https://warfarin.wiki/en
 ---
 
-這十一頁整理不隨版本改變的遊戲規則。
-
 ## 頁面
 
 | 頁面 | 內容 |

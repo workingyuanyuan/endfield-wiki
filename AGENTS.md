@@ -21,13 +21,14 @@ State on 2026-11-22: the owner approved the look on the sample pages; all pages 
 
 The owner does not play the game and cannot audit the facts; they judge the pages as a reader and asked for the `nte-wiki` way of working.
 
-- Short titles, without a subtitle after a colon: the sidebar shows them. The question words go in the description and the headings.
+- Short titles, without a subtitle after a colon and without the game's name in front (幹員列表, as 版本列表): the sidebar shows them. Only the home page title names the game. The question words go in the description and the headings.
 - No citation phrases in the prose ("official notices say", "Endfield Talos Wiki lists", "the game data shows"). The page notes name the sources. A sentence names a source only where two sources disagree on something a reader acts on, or where one player test (NGA) is the only source; then once per section.
 - No disclaimers: nothing about what is unknown, unannounced, or true "as of" a date. State the positive fact or leave it out.
+- No sentence about the site or the page: not who runs the site (the header label 非官方 and `llms.txt` say it), not how many pages a section has. The owner removed 「本站並非鷹角網路或 Gryphline 經營」 and 「這十一頁整理……」 on 2026-11-22.
 - Time-limited content stays out: events, limited shops and sales, sign-ins, compensation, pre-downloads, protocol passes, collaborations, the next version, the end of the current one. Headhunting banners and Arsenal Issues stay as a dated history on version and operator pages. Operator pages say nothing that depends on the day they are built. `systems/banner-history` was removed for this reason.
 - One clock: dates and times are Asia server time (UTC+8), without a label beside each. The home page caveat, `systems/servers-and-time` and `llms.txt` state once how the Americas / Europe server (UTC-5) relates.
 - Player research from the NGA forum (board `fid=846`, mainland players) may serve as a source, as on `nte-wiki`: the combat damage formula comes from the guide 「终末地数据机制导论」 (`tid=46094556`). Player questions from its 提问求助 sub-board went into the question list.
-- `pipeline/check_prose.py` checks a page for these four kinds of wording; run it with `lint_page.py` on every hand-written page.
+- `pipeline/check_prose.py` checks a page for these five kinds of wording; run it with `lint_page.py` on every hand-written page. `pnpm verify` runs it on every page.
 
 ## Expansion and strategy (2026-11-22)
 
@@ -90,7 +91,7 @@ Agent test in Japanese and Korean, phase 2 (2026-11-22; ten questions per langua
 ## Commands
 
 ```
-pnpm verify      # build, then run the acceptance checks. Run this before you call a change done.
+pnpm verify      # prose check, build, then the acceptance checks. Run this before you call a change done.
 pnpm build       # build
 pnpm check       # acceptance checks on an existing dist/
 python3 -I pipeline/build_pages.py     # operator pages (en, zh-tw, ja, ko) from records/; ja/ko need the ja/ko fields of records/text/
@@ -101,7 +102,7 @@ python3 -I pipeline/check_jako_names.py [page.md ...]           # ja/ko pages: e
 python3 -I pipeline/jako_pages.py sheet|check|aliases ...        # hand-written ja/ko pages: writer's sheet, check against the English page, one set of titles
 uv run --with opencc-python-reimplemented scripts/to-zh-cn.py   # write the zh-cn pages from the zh-tw pages
 python3 -I pipeline/lint_page.py <page.md> [...]                # check one page without a build
-python3 -I pipeline/check_prose.py <page.md> [...]              # citation phrases, disclaimers, time-limited content, a second server's dates (en, zh, ja, ko)
+python3 -I pipeline/check_prose.py <page.md> [...]              # citation phrases, disclaimers, time-limited content, a second server's dates, sentences about the site (en, zh, ja, ko); no argument: every page
 python3 -I pipeline/check_text.py <sheet.json> records/text/<slug>.json   # check one operator's restated text
 pnpm preview     # serve dist/ at http://127.0.0.1:4398/endfield-wiki/ with GitHub Pages style headers
 python3 -I pipeline/notice_text.py cache/official/art/en-us-<cid>.json   # an official notice from the cache as text
@@ -140,6 +141,7 @@ After a change to a record: `names_jako.py` (when names changed), `build_pages.p
 - In the light theme yellow is a ground colour only (highlight under links, selected row, marks); text accents are ink. In the dark theme yellow carries links.
 - Text drawn with CSS `content`: the double slash before `h2`. A pattern for it is in check 5 of `scripts/check-dist.mjs`.
 - Three Starlight components are overridden: `SiteTitle`, `MarkdownContent`, `ThemeSelect`.
+- The header links to the Markdown twin, `llms.txt` and `index.json` carry the key hints `[M]`, `[L]`, `[J]`, drawn by CSS (`SiteTitle.astro`); the keys work as shortcuts. Check 11 of `check-dist.mjs` fails without them (added 2026-11-22: the first skin had dropped them, although the owner had asked for them on `nte-wiki`).
 - Screenshots: `preview/endfield-wiki/` one level up. Headless Chromium needs `FONTCONFIG_FILE` pointing at a config that adds `/mnt/c/Windows/Fonts`.
 
 ## Where things are

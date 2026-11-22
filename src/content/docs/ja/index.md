@@ -21,8 +21,6 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3837
 ---
 
-このサイトはHypergryphおよびGryphlineが運営するものではない。グローバル版を扱う。
-
 ## セクション
 
 | セクション | 内容 |

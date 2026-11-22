@@ -1,15 +1,15 @@
 ---
-title: "Arknights: Endfield operators list"
+title: Operators list
 description: "Arknights: Endfield has 34 playable operators in Version 1.6; the official site lists 37 entries."
 appliesTo: "Arknights: Endfield, global service, Version 1.6; official operator list as read on 2026-11-21"
 caveat: The official list has 37 entries, not 37 playable operators. Endministrator appears twice, and Kay and Mimino are in no version's update notes up to 1.6.
 lastVerified: 2026-11-21
 effectiveDate: 2026-11-21
 aliases:
-  - 明日方舟：終末地 幹員列表
-  - 明日方舟：终末地 干员列表
-  - "アークナイツ：エンドフィールド オペレーター一覧"
-  - "명일방주: 엔드필드 오퍼레이터 목록"
+  - 幹員列表
+  - 干员列表
+  - オペレーター一覧
+  - 오퍼레이터 목록
 sources:
   - title: Official operator list (Gryphline)
     url: https://endfield.gryphline.com/en-us/operator

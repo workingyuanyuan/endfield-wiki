@@ -1,15 +1,15 @@
 ---
-title: "アークナイツ：エンドフィールド オペレーター一覧"
+title: オペレーター一覧
 description: "『アークナイツ：エンドフィールド』バージョン1.6のプレイアブルオペレーターは34人で、公式サイトには37件が載っている。"
 appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。公式オペレーター一覧は2026-11-21に読んだもの"
 caveat: "公式一覧の37件はプレイアブルオペレーター37人ではない。管理人が2件あり、KayとMiminoはバージョン1.6までのどのアップデートの説明にも載っていない。"
 lastVerified: 2026-11-21
 effectiveDate: 2026-11-21
 aliases:
-  - "Arknights: Endfield operators list"
-  - "明日方舟：終末地 幹員列表"
-  - "明日方舟：终末地 干员列表"
-  - "명일방주: 엔드필드 오퍼레이터 목록"
+  - Operators list
+  - 幹員列表
+  - 干员列表
+  - 오퍼레이터 목록
 sources:
   - title: "公式オペレーター一覧（Gryphline）"
     url: https://endfield.gryphline.com/en-us/operator

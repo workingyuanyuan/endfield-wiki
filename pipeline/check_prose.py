@@ -10,10 +10,16 @@ Each hit is one of:
   TIMED    time-limited content: events, sales, sign-ins, compensation, pre-downloads.
   SERVER   a second server's date or a region label beside a date; dates are UTC+8 server
            time, stated once on the home page and on systems/servers-and-time.
+  SELF     a sentence about the site or the page instead of the game: who runs the site, what
+           it covers, how many pages a section has. The header's "unofficial" label and
+           llms.txt say it is unofficial; the description says what the page is about.
+With no argument (as in `pnpm verify`), checks every page except zh-cn/, which a script writes
+from zh-tw/; operator profiles there get the SELF check only.
 A line that must keep a hit carries the marker <!-- keep --> nowhere: rewrite it instead, or
 add the page to ALLOW below with the reason.
 """
 import os
+import pathlib
 import re
 import sys
 
@@ -27,6 +33,8 @@ PATTERNS = {
     'TIMED': [r'補償', r'預先下載', r'預下載', r'簽到', r'限時', r'登入活動', r'compensation', r'pre-?download',
               r'limited-time', r'sign-in', r'log-in event', r'過期', r'expire'],
     'SERVER': [r'Americas', r'（Asia', r'\(Asia', r'Asia 伺服器', r'Asia server', r'UTC-5'],
+    'SELF': [r'本站', r'this site', r'not run by', r'(並非|不是|非).{0,12}(經營|營運|官方網站)',
+             r'(?<![第前後0-9])([2-9]|[1-9][0-9]+|[二三四五六七八九十兩][一二三四五六七八九十]*) ?頁', r'\b(two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|[0-9]+) pages\b'],
 }
 # Added for Japanese (ja/) and Korean (ko/) pages, which are also checked with PATTERNS.
 # 未公開 is not here: it is the game's own value for an undisclosed race.
@@ -40,6 +48,7 @@ PATTERNS_JAKO = {
     'TIMED': [r'補填', r'お詫び', r'事前ダウンロード', r'ログインボーナス', r'ログイン(イベント|キャンペーン)', r'期間限定', r'有効期限', r'期限切れ',
               r'점검 보상', r'보상 지급', r'사전 다운로드', r'출석', r'기간 한정', r'로그인 이벤트', r'만료'],
     'SERVER': [r'Asia ?サーバー', r'アジアサーバー', r'アメリカ', r'Asia 서버', r'아시아 서버', r'아메리카'],
+    'SELF': [r'このサイト', r'当サイト', r'本サイト', r'運営(する|して|では)', r'(?<![0-9])([2-9]|[1-9][0-9]+) ?ページ', r'이 사이트', r'본 사이트', r'운영하지', r'(?<![0-9])([2-9]|[1-9][0-9]+) ?개 페이지'],
 }
 # Pages that explain a pattern on purpose.
 ALLOW = {
@@ -47,6 +56,9 @@ ALLOW = {
     'systems/platforms.md': {'SERVER'},
     'index.md': {'SERVER'},
 }
+
+
+ALL_PAGES = False
 
 
 def body_of(text):
@@ -58,6 +70,10 @@ def check(path):
     norm = path.replace(os.sep, '/')
     rel = re.sub(r'^.*?src/content/docs/(zh-tw/|ja/|ko/)?', '', norm)
     allowed = ALLOW.get(rel, set())
+    # Run on every page (no argument): operator profiles are restated game text, checked by
+    # check_text.py and jako_text.py, and the story words there (目前, 現在) are not hedges.
+    if ALL_PAGES and re.match(r'operators/(?!index)', rel):
+        allowed = allowed | (set(PATTERNS) - {'SELF'})
     jako = re.search(r'src/content/docs/(ja|ko)/', norm) is not None
     hits = []
     for n, line in enumerate(body_of(open(path, encoding='utf8').read()).split('\n'), 1):
@@ -74,11 +90,13 @@ def check(path):
 
 if __name__ == '__main__':
     bad = False
-    for path in sys.argv[1:]:
+    ALL_PAGES = not sys.argv[1:]
+    paths = sys.argv[1:] or sorted(str(f) for f in pathlib.Path('src/content/docs').rglob('*.md') if 'zh-cn' not in f.parts)
+    for path in paths:
         hits = check(path)
         for h in hits:
             print(h)
-        if not hits:
+        if not hits and sys.argv[1:]:
             print(f'ok     {path}')
         bad = bad or bool(hits)
     sys.exit(1 if bad else 0)
