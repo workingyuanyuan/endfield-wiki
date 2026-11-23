@@ -45,6 +45,8 @@ sources:
 
 Snowshine is a Rhodes Island search and rescue specialist assigned to Endfield Industries who focuses on polar and high-altitude operations and wrote the Polar Survival Guide.
 
+Files, voice lines and chats: [Snowshine's file](/story/snowshine/).
+
 ## How to obtain
 
 Snowshine has no rate-up banner. Snowshine is in the standard roster, which Basic Headhunting and every Chartered Headhunting pool draw from.

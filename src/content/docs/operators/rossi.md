@@ -55,6 +55,8 @@ sources:
 
 Rossi (Rossina Wulfperl Luppino) is Wulfgard's younger sister and the Pearl of the Pack who took on leading the clan while her brother works alone.
 
+Files, voice lines and chats: [Rossi's file](/story/rossi/).
+
 ## How to obtain
 
 Rossi is the rate-up 6-star operator of Wolf Pearl, a Chartered Headhunting banner of [Version 1.1, Old Deep Water Dies, by Rising Tide It is Denied](/versions/1-1/). Banners with Rossi:

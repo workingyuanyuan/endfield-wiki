@@ -1,0 +1,3019 @@
+{
+ "slug": "akekuri",
+ "gameId": "chr_0019_karin",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Akekuri \nGENDER: Female \nAUTHENTICATION: Endfield Industries \nDOB: March 31 \nRACE: Perro \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Standard \nCOMBAT SKILL: Standard \nTACTICAL ACUMEN: Excellent\nORIGINIUM ARTS ASSIMILATION: Normal",
+    "zh-TW": "【代號】秋栗\n【性別】女\n【身分認證】終末地工業\n【生日】3月31日\n【種族】佩洛\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：標準\n作戰技巧：標準\n戰術規劃：優良\n源石技藝適應性：普通",
+    "zh-CN": "【代号】秋栗\n【性别】女\n【身份认证】终末地工业\n【生日】3月31日\n【种族】佩洛\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：标准\n作战技巧：标准\n战术规划：优良\n源石技艺适应性：普通",
+    "ja": "【コードネーム】アケクリ\n【性別】女\n【身分証明】エンドフィールド工業\n【誕生日】3月31日\n【種族】ペッロー\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：標準\n戦闘技術：標準\n戦術立案：優秀\nアーツ適性：普通",
+    "ko": "[코드네임] 아케쿠리\n[성별] 여\n[신분 인증] 엔드필드 공업\n[생일] 3월 31일\n[종족] 페로\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 표준\n전술 계획: 우수\n오리지늄 아츠 적응성: 보통"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Akekuri, also known as Shiba Momiji, graduated from the Neo Tsukushi Business School and joined Endfield Industries as a reserve operator. She now leads Operations Team Z7 in the Specialist Tech Division, overseeing both field operations and team management. \n\nWith her background, she could've walked into any renowned TGCC company with a single recommendation. Yet she chose to join Endfield. Even here, she could've opted for a desk job, but during her rotation in the Specialist Tech Division, she volunteered to take on the challenge of rebuilding Operations Team Z7, stepping into the role of a frontline operator. I believe Akekuri has always been driven by ideals and passion, she is exactly the kind of young talent Endfield needs. \nDuring her interview, she asked me: \"What's Endfield's vision as a \"great enterprise\", and how does it plan to achieve it?\" This is a question only the Endministrator can truly answer. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員秋栗，本名斯波紅葉，畢業於新都築高等商學院，以預備幹員身分加入終末地工業。現為特種技術部門Z7行動組組長，負責指揮和管理工作。\n\n以她的履歷，本來可以透過推薦進入環塔商會任何一家赫赫有名的大企業任職，卻選擇來到了終末地；即便在終末地，她也可以選擇文職工作，卻在特種技術部門輪崗時主動提出申請，接下了重建Z7行動組的重擔，成為前線行動人員。只能說，她心中一直奔騰著理想與熱忱，是終末地最需要的年輕血液。\n在候選人問答環節，她問了一個問題——終末地作為一個「偉大企業」的願景是什麼，想要如何實現？我想，答案最好由管理員親自告訴她。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员秋栗，本名斯波红叶，毕业于新都筑高等商学院，以预备干员身份加入终末地工业。现为特种技术部门Z7行动组组长，负责指挥和管理工作。\n\n以她的履历，本可以通过推荐进入环塔商会任何一家赫赫有名的大企业任职，却选择了来到终末地；即便在终末地，她也可以选择文职岗位，却在特种技术部门轮岗时主动提交申请，接下了重建Z7行动组的重担，成为前线行动人员。只能说，她心中一直奔腾着理想与热忱，是终末地最需要的年轻血液。\n在候选人提问环节，她问了一个问题——终末地作为一个“伟大企业”的愿景是什么，想要如何实现？我想，答案最好由管理员亲自告诉她。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "アケクリ、本名は「斯波紅葉」。シン・ツクシ高等商学院を卒業後、予備オペレーターとしてエンドフィールドに加入した。現在、特殊技術部行動隊Z7の隊長を務め、その指揮と管理を担当している。\n\n「彼女の経歴であれば、推薦を受けて環タロ商会の名だたる大企業に入れたはずです。それでも、彼女はエンドフィールドを選んでくれました。さらに入社後も事務職という道があったにもかかわらず、ジョブローテーションの際に自ら特殊技術部を希望し、行動隊Z7の再編という大役を引き受けて、前線に立つ行動隊員になることを選択しました。彼女は常に理想と情熱を胸に抱いています。まさにエンドフィールドが求める「新しい風」と言える存在でしょう。」\n「候補者面談の際に、私は彼女から1つ質問を受けました――エンドフィールドという『偉大な企業』が夢をどのように描き、どう実現しようとしているのかと。その答えは、きっと管理人ご自身の口で直接伝えるのが一番でしょうね。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 아케쿠리, 본명 시바 모미지. 신 츠쿠시 상학원을 졸업한 뒤 예비 오퍼레이터 신분으로 엔드필드 공업에 합류했다. 현재는 특수 기술부 Z7 작전팀의 팀장으로, 지휘 및 관리 업무를 담당하고 있다.\n\n그녀의 이력이라면 추천을 통해 탈로스 II 상업연합회의 유명 대기업 중 어디든 취직할 수 있었을 텐데, 그녀는 엔드필드를 선택했다. 심지어 엔드필드에서도 사무직을 택할 수 있었지만, 특수 기술부 순환 근무 중 스스로 지원서를 제출하여 해체된 Z7 작전팀 재건이라는 중책을 맡고 전선 작전 인원이 되었다.\n그녀의 마음속에는 늘 이상과 열정이 끓어오르며, 그것이야말로 엔드필드가 가장 필요로 하는 젊은 피라고 할 수 있다.\n후보자 질문 단계에서 그녀는 \"엔드필드가 '위대한 기업'으로서 가진 비전은 무엇이며, 그것을 어떻게 실현하고 싶은지?\"에 대해 질문했다. 이 질문에 대한 대답은 아마도 관리자가 직접 알려주는 편이 좋을 것 같다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Neo Tsukushi Business School News - Special Edition \nOn the eve of the graduation ceremony, our reporter sat down with top graduate Shiba Momiji for an exclusive interview. \n\"Miss Momiji, you've maintained the top GPA in your major for four years straight and won two gold medals in the TGCC Youth Business Competition. What has kept you so driven all this time?\" \nShiba Momiji smiled and replied, \"It's just how I do things. Or maybe it's the way my mother taught me to approach life ever since I was little.\" \nShiba Momiji interned at several top-tier TGCC companies. Her experiences included an on-site rotation at the headquarters of Shinozu Trading, as well as contributing to a business proposal for TGCC's logistics coordination system. Her key optimization ideas for the risk assessment model received glowing feedback from company leaders. Yet when asked about the achievement she's most proud of over the past four years, she spoke fondly of her work with the volunteer group Firefly Light. \n\"I've always believed that the true value of business and management lies not only in profit, but also in how we support one another. Firefly Light taught me how to stretch limited resources to help as many people as possible.\" \nWhen asked about future plans: \"Your mother runs Shiba Trading as its CEO. Many assume you'll follow in her footsteps, especially since you've never publicly expressed other ambitions. With graduation just around the corner, can you share your plans?\" \nShiba Momiji simply shook her head and grinned, \"I've made up my mind. But ... you'll have to wait a little longer to find out.\" \n\nA Self-Recommendation Letter \nDear HR Team at Endfield Industries, \nMy name is Momiji Shiba, a student at the Neo Tsukushi Business School. I am writing to express my interest in joining Endfield Industries in a position focused on resource management and personnel coordination. \nThough I do not come from a technical or combat background, I specialize in logistics, coordination, and on-site problem-solving. I firmly believe these skills can make a meaningful contribution. I am ready to undergo any required training or evaluation and am willing to take on front-line responsibilities if needed. My goal is to be a dependable team member who helps others work more safely and efficiently. \nThank you for your time and consideration. I have attached my resume, transcript, internship records, and project examples from past competitions. I look forward to hearing from you! \n\nShiba Momiji",
+    "zh-TW": "【新都築高等商學院校刊】\n在畢業典禮前夕，本報記者專訪了優秀畢業生斯波紅葉。\n「紅葉學姐，您連續四年成績位列系上第一，兩次獲得『環塔青年綜合商賽』金獎。請問，是什麼讓您始終保持高標準的自我要求？」\n她微笑著回答：「習慣吧，也可能是因為我媽媽從小就這樣教我做事。」\n斯波紅葉曾在環塔商會多家知名企業實習，包括在四之洲商事總部的實地經營職位輪訓，也參與了環塔物流協同調度系統的商業策劃案制定，並提出風險評估模型的關鍵性改善建議，最終獲得企業方的良好評價。但是談到她在四年裡最驕傲的事蹟，斯波紅葉卻把公益社團「螢之光」掛在嘴邊。\n「我一直相信，商業和管理能力的意義不僅體現在利潤上，更體現在人與人之間的支援與互助。『螢之光』讓我學會了如何調動有限的資源，去照亮更多的人。」\n談及畢業後的去向，「您母親是芝商社的代表取締役社長，很多人都認為您會繼承這份家業，您也從未公開表達過其他意願。現在即將畢業，可以透露一下未來的打算嗎？」\n面對這個問題，斯波紅葉只是輕輕地搖搖頭，露出了俏皮的微笑：「我已經做好決定了。不過嘛，現在還不方便說。」\n\n【一封自薦信】\n致終末地工業人事部：\n您好，我是斯波紅葉，來自新都築高等商學院。我希望能加入終末地工業，參與涉及資源管理與人員調度的工作。\n我深知自己並非專業技術出身，也不是戰鬥人員，但我擅長統籌、調度與現場應變。我相信，這些能力同樣可以發揮作用。我願接受任何培訓與考核，也願意投身前線，只為一個目標：成為值得依靠的支援者，為更多人提供幫助。\n感謝您撥冗閱讀。後附履歷、成績單、實習紀錄與比賽案例，希望得到您的回覆！\n\n斯波紅葉",
+    "zh-CN": "【新都筑高等商学院校报特刊】\n在毕业典礼前夕，本报记者对优秀毕业生斯波红叶进行了专访。\n“红叶学姐，您连续四年绩点位列专业第一，两次获得‘环塔青年综合商赛’金奖。请问，是什么支撑您始终保持高标准的自我要求？”\n她微笑着回答：“习惯吧，也可能是因为我妈妈从小就这样教我做事。”\n斯波红叶曾在环塔商会多家知名企业实习，包括在四之洲商事总部的实地经营岗位轮训，也参与了环塔物流协同调度系统的商业策划案制定，并提出了风险评估模型的关键优化建议，最终获得了企业方的高度评价。但是谈到她在四年里最骄傲的事迹，斯波红叶却把公益社团“萤之光”挂在嘴边。\n“我一直相信，商业和管理能力的意义不仅体现在利润上，更体现在人与人之间的支持与互助。‘萤之光’让我学会了如何调动有限的资源，去照亮尽量多的人。”\n谈及毕业后的去向，“您母亲是芝商社的代表取缔役社长，很多人都认为您会继承这份家业，您也从未公开表达过其他意向。现在毕业在即，可以透露一下未来的打算吗？”\n面对这个问题，斯波红叶只是轻轻地摇了摇头，露出了俏皮的微笑：“我已经做好决定了。不过嘛，现在还不方便说。”\n\n【一封自荐信】\n致终末地工业人事部：\n您好，我是斯波红叶，来自新都筑高等商学院。我希望能加入终末地工业，参与涉及资源管理与人员调度的工作。\n我深知自己并非技术出身，也不是战斗人员，但我擅长统筹、调度与现场应变。我相信，这些能力同样可以发挥作用。我愿接受任何培训与考核，也愿意投身前线，只为一个目标：成为值得依靠的支援者，为更多人提供帮助。\n感谢您的审阅。后附简历、成绩单、实习记录与比赛案例，希望得到您的回复！\n\n斯波红叶",
+    "ja": "【シン・ツクシ高等商学院新聞・特別号】\n卒業式を目前に控え、本紙記者は本年度の優秀卒業生・斯波紅葉さんに特別インタビューを行いました。\n「紅葉先輩は4年連続で学科の首席を維持し、『環タロ青年総合ビジネス大会』では2度の金賞を受賞されています。常に高い基準を自分に課してきたと思いますが、その原動力は何でしょうか。」\n「習慣だと存じます。幼い頃より、母からそう教えを受けていた影響も大きいと思っております。」と、微笑みながら返答してくれました。\n斯波紅葉さんは在学中、環タロ商会の複数の有名企業でインターンを経験し、四ノ州物産本社で経営職育成のための現場ローテーション研修に参加し、環タロ通商では協同調達システムの事業計画立案にも携わりました。その際、リスク評価モデルにおける重要な改善策を提案し、企業側から高く評価されたそうです。しかし、この4年間で最も誇りに思っていることについて尋ねると、彼女が真っ先に挙げたのはボランティアグループ「蛍の光」での活動でした。\n「私は、ビジネスやマネジメント能力は、利益を生み出すためだけではなく、人々が支え合い、助け合う場面にこそ現れるものだと考えています。『蛍の光』では、限られたリソースでより多くの人に希望を届ける方法を学ぶことができました。」\n卒業後の進路についてもお伺いしました。「お母さまは芝商事の代表取締役社長を務めていらっしゃいます。多くの人が、紅葉さんは将来的に家業を継ぐのだろうと見ていますし、これまで別のご意向も示されていなかったと記憶しています。卒業を間近に控えた今、将来の進路について、少しだけお聞かせ願えますか？」\nこの質問に対し彼女は首を横に振り、悪戯っぽく笑いながら、このように答えました。「もう心は決まっています。でも、今はまだ何もお話できないのです。」\n\n【自己推薦書】\nエンドフィールド人事部　ご担当者様\nいつも大変お世話になっております。私はシン・ツクシ高等商学院を卒業いたしました、斯波紅葉と申します。エンドフィールド工業の一員となり、貴社で資源管理および人事調整に関する業務に携わりたいと考え、ご連絡させていただきました。\n私は技術分野の専門職ではなく、戦闘員でもありませんが、これまで培ってきた作業統括力や調整力、柔軟な現場対応力を活かし、貴社のお役に立てるものと考えております。また、いかなる研修や評価も真摯に取り組み、前線での任務にも全力を尽くす所存です。目標は、より多くの人を支え、頼られる存在になることです。\nお忙しいところ誠に恐縮ではございますが、添付いたしました履歴書、成績表、インターン記録および大会参加の事例に関しまして、ご確認いただき、ご検討いただきますよう、お願い申し上げます。ご返信を心よりお待ちしております。\n\n斯波紅葉",
+    "ko": "[신 츠쿠시 상학원 교지 특간]\n졸업식을 앞두고, 본지 기자가 우수 졸업생 시바 모미지를 단독 인터뷰했다.\n\"모미지 선배님은 4년 연속 전공 수석에 '탈로스 II 청년 종합 상업 대회' 금상도 두 번이나 수상하셨습니다. 이런 대단한 성과를 지속적으로 유지할 수 있었던 비결은 무엇인가요?\"\n\"습관이기도 하고, 어릴 때부터 어머니께 그렇게 교육받았기 때문일지도 모르겠네요.\" 그녀는 미소 지으며 이렇게 답했다.\n시바 모미지는 탈로스 II 상업연합회의 여러 유명 기업에서 인턴으로 근무했다. 요노스 상사의 현장 경영 직무를 순환 이수하고, 탈로스 II 물류 협동 조정 시스템 관련 사업 기획안 작성에도 참여했으며, 특히 리스크 평가 모델의 핵심 최적화 방안을 제시하여 기업 측으로부터 높은 평가를 받기도 했다.\n하지만 4년간의 활동 중 가장 자랑스러운 일을 묻는 질문에, 그녀는 망설임 없이 '반딧불의 빛'이라는 봉사 동아리를 꼽았다.\n\"저는 상업과 관리 능력의 의의가 단순히 이윤 창출에만 있는 것이 아니라, 사람과 사람 사이의 서로 지지하고 돕는 데 있다고 항상 믿어왔어요. '반딧불의 빛' 활동을 통해 저는 한정된 자원을 운용하여 최대한 많은 사람에게 빛을 비춰주는 법을 배웠습니다.\"\n졸업 후 진로에 대해 이렇게 질문했다. \"어머니께서 지바 상업 회사의 대표 이사이신데, 많은 사람들이 그 뒤를 이을 거라고 생각하고 있거든요. 선배님 스스로도 다른 의향을 밝힌 적이 없으셨는데요. 졸업을 앞둔 지금 향후 계획을 공개해 주실 수 있나요?\"\n이에 시바 모미지는 고개를 가볍게 저으며 장난스러운 미소를 지었다.\n\"결정은 이미 했어요. 하지만 지금은 아직 말하기 곤란하네요.\"\n\n[자기소개서 한 통]\n엔드필드 공업 인사 부서 귀중\n안녕하세요. 저는 신 츠쿠시 상학원에서 졸업한 시바 모미지라고 합니다. 엔드필드 공업에 입사하여 자원 관리 및 인원 조율 업무에 참여하고 싶습니다.\n비록 기술이나 전투 분야 출신은 아니지만, 총괄, 조율, 현장 대처에는 자신이 있습니다. 이런 능력들도 충분히 역할을 해낼 수 있다고 믿습니다.\n어떤 훈련이나 평가도 기꺼이 받을 준비가 되어 있으며, 전선 투입도 마다하지 않겠습니다. 제 목표는 단 하나, 믿고 의지할 수 있는 지원 인력이 되어 더 많은 이들을 돕는 것입니다.\n읽어주셔서 감사합니다. 이력서, 성적표, 인턴십 기록, 대회 사례를 첨부합니다. 회신을 기다리겠습니다!\n\n시바 모미지 드림"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "Application for Operations Team Z7 Leader Position \nAPPLICANT: Akekuri \nROLE: Rotational Operator, Specialist Tech Division \nDear Supervisor Perlica, \nI have learned that the Operational Axis is currently recruiting a new leader for Operations Team Z7 within Endfield Industries. Therefore, I am writing to formally apply for the position. \nTo my knowledge, Operations Team Z7 was originally a multipurpose support unit. Its former members have since been promoted or reassigned to other teams, leaving the unit inactive. Given the growing multi-front operational demands faced by Endfield Industries, as well as the ongoing personnel shortages within the Specialist Tech Division, I intend to rebuild Z7 as a compact, agile support team capable of independently handling low- to mid-risk missions while assisting other task forces when needed — all without drawing heavily on existing resources. \nI have completed all required field training, earning A or higher ratings in 32 real missions and over 200 simulations, and I have solid experience in on-site coordination and leadership. \nIf required, I can also take on administrative duties and serve as a point of contact between Management Axis and Operational Axis. \nIf approved, I will begin recruitment and training immediately to get the team mission-ready in the shortest time possible. \nA summary and detailed proposal are attached for your consideration. \nSincerely, \nAkekuri \n\nNo wonder that girl nagged me for a whole month, asking in painstaking detail about every tactical role — its duties, skill requirements, training plans... In the end, she even put my name down in her proposal. \n— Krad, Endfield Security Professional \n\nI'll be honest — a few of the people Operator Akekuri brought into Operations Team Z7 made HR raise their eyebrows. But, with Supervisor Perlica's green light and her personal guarantee, I'll give them a trial run for now. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries \n\nAkekuri asked me to help train the new recruits — show them how to use tactical maneuvers against heavily armored targets. Oh? You got the same invite? \n— Conversation between Operator Chen Qianyu and Operator Ember in the hallway \n\nWe successfully passed the assessment within three months, right on schedule! Great job, everyone! I've prepared some hot drinks and snacks. Once you've had a good rest, we'll take a look at our very first mission together! \n— Akekuri, Captain, Operations Team Z7",
+    "zh-TW": "《Z7行動組職位申請書》\n申請人：秋栗\n職位：特種技術部門輪崗幹員\n尊敬的佩麗卡監督：\n我留意到，行動中樞正在終末地工業內部招募Z7行動組的新隊長，負責行動組重建及後續任務，我正式自薦擔任該項工作。\nZ7行動組原為多用途支援編隊，其原有成員皆已晉升或調動至其他行動組，番號現已停用。鑑於終末地工業目前正面臨的多線作戰壓力，以及特種技術部門持續的人力資源緊張狀況，我將致力於在不消耗過多資源的前提下，組建一支靈活、高效的支援型小隊，致力於中低風險任務的獨立執行，並在需要時對其他行動組提供輔助支援。\n本人已完成所有戰地適應課程訓練，並在32次實地任務與超過200次模擬任務中獲得A級以上評價，具備一定的現場指揮與協調能力。\n如果需要的話，我可以承擔相關的事務協調與管理工作，並對接管理中樞與行動中樞。\n若獲得批准，我將立即啟動人員招募與訓練計劃，確保小隊在最短時間內成型並投入實戰。\n後附計劃書摘要與內容，敬請查閱。\n此致\n敬禮\n\n怪不得那個女孩纏著我整整一個月，鉅細靡遺地詢問每一個戰術位置的功能細分、能力需求、訓練方案……最後在計劃書裡還把我的名字也列了上去。\n——終末地安全專家 卡拉德\n\n老實說，秋栗幹員為Z7行動組新招募的某些隊員……的確是讓人事部有點為難。但既然有佩麗卡監督的首肯和她自己的擔保，我就先設個「觀察期」吧。\n——終末地人事助理 馬丁·馬文·馬倫\n\n秋栗那邊邀請我去幫忙訓練新人呢，演示如何運用戰術機動來應對重裝目標。咦，你也是嗎？\n——陳千語幹員某次在走廊與餘燼幹員相遇時的對話\n\n在三個月內如期通過了評審，大家辛苦了！我準備了熱飲和茶點，休息好之後，一起看看我們的第一次任務吧！\n——Z7行動組組長 秋栗",
+    "zh-CN": "《Z7行动组岗位申请书》\n申请人：秋栗\n职位：特种技术部门轮岗干员\n尊敬的佩丽卡监督：\n我留意到，行动中枢正在终末地工业内部招募Z7行动组的新队长，负责行动组重建及后续任务，我正式自荐担任该项工作。\nZ7行动组原为多用途支援编队，其原有成员皆已晋升或调配至其他行动组，番号现已停用。鉴于终末地工业当前正面临的多线作战压力，以及特种技术部门持续的人力资源紧张状况，我将致力于在不消耗过多资源的前提下，组建一支灵活、高效的支援型小队，专注于中低风险任务的独立执行，并在需要时对其他行动组提供辅助支持。\n本人已完成所有战地适应课程训练，并在32次实地任务与超过200次模拟任务中获得A级以上评价，具备一定的现场指挥与协调能力。\n如果需要的话，我可以承担相应的事务性协调与管理工作，并对接管理中枢与行动中枢。\n若获批准，我将立即启动人员招募与训练计划，确保小队在最短时间内成型并投入实战。\n后附计划书摘要与详案，敬请审阅。\n此致\n敬礼\n\n怪不得那个小姑娘缠着我整整一个月，巨细靡遗地询问每一个战术位置的功能细分、能力需求、训练方案……最后在计划书里还把我的名字也列了上去。\n——终末地安全专家 卡拉德\n\n老实说，秋栗干员为Z7行动组新招募的某些队员……确实让人事部有点为难。但既然有佩丽卡监督的首肯和她自己的担保，我就先设个“观察期”吧。\n——终末地人事助理 马丁·马文·马伦\n\n秋栗那边邀请我去帮忙训练新人呢，演示如何运用战术机动来应对重装目标。咦，你也是吗？\n——陈千语干员某次在走廊与余烬干员相遇时的对话\n\n在三个月内如期通过了合格评审，大家辛苦了！我准备了热饮和茶点，休息好之后，一起看看我们的第一次任务吧！\n——Z7行动组组长 秋栗",
+    "ja": "『行動隊Z7職務申請書』\n申請人：アケクリ\n申請職位：特殊技術部交代オペレーター\nペリカ監察官殿\nエンドフィールド行動中枢におきまして、行動隊Z7の再編及び後続任務を担当する職務である新たな隊長を募集していると知り、自己推薦の形で応募させていただきたく思います。\n行動隊Z7は元来、多目的支援を担う隊でしたが、隊員の昇進や異動により、一時的に活動が停止されています。一方でエンドフィールドは現在、多方面での作戦を同時に進めることによる高い負荷と、特殊技術部における慢性的な人員不足という状況に直面しています。私は、最小限のリソースで柔軟かつ効率的な支援型行動隊を組織し、中・低リスクの任務を独立して遂行できる体制を構築するとともに、必要に応じて他の行動隊への補助支援も行うことを目指したいと考えています。\nこれまでに戦地適応訓練を全て修了し、32回の実地任務および200回を超える模擬任務においてA評価以上を取得いたしました。現場指揮力と調整力には自信があります。\n必要に応じて事務的な調整や管理業務も担当し、管理中枢や行動中枢との窓口を務めることも可能です。\n許可をいただければ、即座に人員募集と訓練計画を開始し、最短期間での隊結成と実戦投入を実現いたします。\n計画書の要約および詳細は別添資料にて提出いたしますので、ご確認いただけますと幸いです。\nご検討のほど、何卒よろしくお願い申し上げます。\n敬具\n\nなるほど、だからあの娘さんは私に1カ月も付きまとい、戦術配置の細分、能力の必要条件、訓練計画に至るまで、事細かに尋ねてきたのですか。最後に提出された計画書には、私の名前も書き添えてあったようですね。\n――エンドフィールドセキュリティ専門家　クラッド\n\n正直に申し上げますと、アケクリさんが行動隊Z7のために新たに採用した一部の隊員については……人事部として少々扱いに困っている部分があることは事実です。ただ、ペリカ監察官のご承認もありますし、アケクリさんご本人も保証するとのことでしたから、まずは「観察期間」という形で様子を見させていただきたいと思っています。\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン\n\nアケクリに、新人の訓練手伝ってって頼まれて……戦術機動で重装目標に対処する方法、実演してほしいってさ。あれ、エンバーさんも？\n――チェン・センユーが廊下でエンバーに出会ったときの会話\n\n予定通り、3カ月以内で審査に合格できたね！みんな、本当にお疲れさま。あったかい飲み物とお菓子を用意したから、ひと息ついたら……初めての任務、一緒にチェックしてみよう！\n――行動隊Z7隊長　アケクリ",
+    "ko": "<Z7 작전팀 지원서>\n신청인: 아케쿠리\n직위: 특수 기술부 오퍼레이터\n펠리카 감독관님께\n안녕하세요. 작전 중추에서 엔드필드 공업 내부 인원을 대상으로 Z7 작전팀의 재건 및 추후 임무를 담당할 신임 대장을 모집 중인 것을 확인하였습니다. 이에 해당 직무에 정식으로 지원합니다.\nZ7 작전팀은 원래 다목적 지원팀이었으나, 기존 구성원들이 모두 승진하거나 다른 작전팀으로 재배치되면서 현재 해당 팀 이름의 사용이 중지된 상태라고 알고 있습니다.\n엔드필드 공업이 현재 여러 전선에서 동시에 작전을 수행해야 하는 부담과 특수 기술부의 지속적인 인력난을 고려할 때, 저는 자원 소모를 최소화하면서도 유연하고 효율적인 지원형 팀을 조직하는 데 집중하고자 합니다. 이 팀은 중·저위험 임무를 독립적으로 수행하고 필요시 타 작전팀을 보조하는 역할을 맡을 것입니다.\n저는 이미 모든 전장 적응 훈련 과정을 이수하였으며, 32회의 실전 임무 및 200회 이상의 모의 임무에서 모두 A등급 이상을 기록하여 일정 수준의 현장 지휘 및 조율 능력을 갖추고 있습니다.\n필요하다면, 업무 조율 및 관리 업무를 담당하여 관리 중추와 작전 중추 간의 소통 창구 역할도 수행할 수 있습니다.\n승인이 이루어지면 즉시 인원 모집 및 훈련 계획을 시작하여, 최단 시간 내에 팀을 편성하고 실전에 투입하겠습니다.\n계획서 개요와 상세안을 첨부하오니 검토 부탁드립니다.\n감사합니다.\n\n어쩐지 걔가 한 달 내내 나한테 들러붙더라니. 전술 포지션 하나하나 기능과 요구 능력, 훈련 방식까지 죄다 묻더니... 결국 계획서엔 내 이름까지 넣어놨네.\n- 엔드필드 보안 전문가 크래드\n\n솔직히 말하면, 오퍼레이터 아케쿠리가 Z7 작전팀에 새로 모집한 팀원 중 몇 명은... 인사 부서 입장에서 좀 곤란한 게 사실이다. 하지만 펠리카 감독관님의 승인도 있었고 본인이 책임지겠다고 했으니, 일단 '관찰 기간'을 두기로 하겠다.\n- 엔드필드 인사 보조 마틴 마빈 말렌\n\n아케쿠리가 나한테 신입 훈련 도와달라고 했어. 디펜더 목표를 상대했을 때, 어떻게 전술을 활용하는지 시범을 보여달라네. 어라, 너도야?\n- 진천우가 복도에서 엠버와 마주쳤을 때의 대화\n\n\"3개월 만에 예정대로 자격 심사를 무사히 통과했네요. 모두 수고 많았어요! 따뜻한 음료랑 간식을 준비했으니, 푹 쉬고 나서 첫 번째 임무를 같이 확인해 보죠!\"\n- Z7 작전팀 팀장 아케쿠리"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "Letter from TGCC \nSENDER: Shiba Trading \nRECIPIENT: Human Resources Division at Endfield Industries \n\nDear HR Team at Endfield Industries, \nGreetings. \nMy name is Shiba Yoko, mother of Shiba Momiji. Pardon me for reaching out in this manner. \nAs the CEO of Shiba Trading, I am accustomed to addressing matters with logic and efficiency. Yet as I write this letter, I find myself overwhelmed by emotions. \nMomiji is my only daughter. Her father met my younger brother while serving in the war against the Aggeloi. That bond eventually brought him into my life, and later, we had Momiji. While I was the strict teacher in her upbringing, her father and uncle were her playmates and protectors, filling her childhood with laughter and idealism. \nEverything changed after the Crusade against the Aggeloi ended ten years ago. Her uncle never returned, and her father came back a different man — only to leave home not long after. \nSince then, I have raised Momiji with care and intention, preparing her to carry forward both our family and our business. I shielded her from the very things that once tore our lives apart. She set aside her childhood game of \"fighting Aggeloi\" and turned her focus to her studies, growing into a diligent, outstanding young woman. She has never once let me down. \nAnd yet, upon graduation, she made an unexpected decision — joining Endfield Industries and volunteering for front-line duty. \nI was taken aback and deeply upset. We argued incessantly, and our relationship suffered. \nBut over time, I came to realize this was not just a reckless impulse. The same sense of justice and idealism that once guided her father lives on in her. Though these ideals may have cost her a carefree childhood, they now give her purpose — and strength. \nI no longer oppose her decision. She is determined to prove her worth, even if it means risking everything. That is a resolve I cannot deny. \nI respectfully ask that you keep her safe, as much as circumstances allow. But please understand that my daughter is more than just academically gifted. \nThank you for supporting her journey. \n\n Shiba Yoko",
+    "zh-TW": "【環塔商會相關函件】\n來函方：芝商社\n收函方：終末地工業人力資源事務部\n\n尊敬的終末地工業人力資源事務部：\n您好。\n我是斯波紅葉的母親，斯波陽子。請原諒我以這樣的方式打擾貴公司。\n作為商社的負責人，我習慣於以理性和效率處理事務。但提筆寫下這封信時，我的內心卻充滿了複雜的情感。\n紅葉是我唯一的女兒。她的父親與我的弟弟在討伐天使的軍旅中相識，因此與我結緣，然後有了紅葉。在她的成長過程中，我是嚴格的教導者，而她那充滿理想主義的父親和舅舅則是帶她遊戲、玩耍的「大朋友」。\n直到十年前那場對天使的遠征結束後，她的舅舅再也沒有回來，她生還的父親也變了一個人，最後離開了我們的生活。\n從那時候起，我便將紅葉視為家庭唯一的延續，悉心培養她成為商社的繼承人。她遠離了那些葬送了我們的家庭的東西，再也不玩「打天使」的遊戲，而成了優秀的學生，聰明、勤奮，始終不負我的期望。\n然而，在畢業之際，她卻選擇了加入終末地工業，甚至投身於充滿危險的前線工作。\n一開始，我對此感到震驚和惱怒。我們為此爭執不休，關係緊張。\n我並非不理解她，相反，我比任何一個人都清楚，她並不是一時衝動。她的身體裡依然流著她父親的血，流著那份對理想、對正義的熱血與執著——儘管這斷送了她的童年。\n我不再試圖阻止她的決定。她願意拼盡全力，只為證明自己的價值——這是我無法否定的理由。\n我懇請貴公司，在盡可能的範圍內確保她的安全。但也請相信，我的女兒不是只會讀書的孩子。\n謝謝你們的照顧。\n\n斯波陽子",
+    "zh-CN": "【环塔商会相关函件】\n来函方：芝商社\n收函方：终末地工业人力资源事务部\n\n尊敬的终末地工业人力资源事务部：\n您好。\n我是斯波红叶的母亲，斯波阳子。请原谅我以这样的方式打扰贵方。\n作为商社的负责人，我习惯于以理性和效率处理事务。但提笔写下这封信时，我的内心却充满了复杂的情感。\n红叶是我唯一的女儿。她的父亲与我的弟弟在讨伐天使的军旅中相识，因此与我结缘，然后有了红叶。在她的成长过程中，我是严格的教导者，而她那充满理想主义的父亲和舅舅则是带她游戏、玩耍的“大朋友”。\n直到十年前那场对天使的远征结束后，她的舅舅再也没能回来，她生还的父亲也变了一个人，最后离开了我们的生活。\n从那时候起，我便将红叶视为家庭唯一的延续，悉心培养她成为商社的继承人。她远离了那些葬送了我们的家庭的东西，再也不玩“打天使”的游戏，而成了优秀的学生，聪明，勤奋，始终不负我的期望。\n然而，在毕业之际，她却选择了加入终末地工业，甚至投身于充满危险的前线工作。\n起初，我对此感到震惊和恼怒。我们为此争执不休，关系紧张。\n我并非不理解她，相反，我比任何一个人都清楚，她并非一时冲动。她的身体里依然流着她父亲的血，流着那份对理想、对正义的热血与执着——尽管这断送了她的童年。\n我不再试图阻止她的决定。她愿意拼尽全力，只为证明自己的价值——这是我无法否定的理由。\n我恳请贵方，在可能范围内确保她的安全。但也请相信，我的女儿不是只会念书的孩子。\n谢谢你们的照顾。\n\n斯波阳子",
+    "ja": "【環タロ商会関係の書簡】\n差出人：芝商事\n宛先：エンドフィールド工業人事部御中\n\nエンドフィールド工業人事部の皆様\nいつもお世話になっております。\n斯波紅葉の母、斯波陽子と申します。突然のご連絡にて、大変恐れ入ります。\n企業の責任者として、これまで常に理性的かつ効率的な業務を心がけてまいりました。しかし、この手紙をしたためている今、非常に複雑な胸中でございます。\n紅葉は、私にとってたった1人の娘です。紅葉の父親と私の弟は、アンゲロス討伐の軍で出会いました。その縁で私と結ばれ、紅葉が生まれました。成長の過程において、私は常に厳しい指導者であり、理想主義的な夫と叔父は、共にゲームや冒険をする「年上の友達」のようなものでした。\nしかし10年前の対アンゲロス遠征後、紅葉の叔父は帰らぬ人となりました。生還した父親は別人のようになり、最終的に私たちのもとを去ることとなってしまいました。\nそれ以来、私は紅葉を我が家の唯一の希望とし、企業の後継者として育ててまいりました。家族を壊した存在から遠ざけ、「アンゲロス退治」のゲームもさせず、賢く、勤勉で、私の期待を決して裏切ることのない優秀な学生として成長してきたのです。\nしかし卒業を迎えると、紅葉はエンドフィールド工業への入社を選んだだけではなく、危険に満ちた前線勤務の道を歩み始めました。\n最初はあまりの驚きと怒りで、日々の口論は絶えず、親子の間に亀裂が入るのではと思うほどでした。\nそれでも私は、紅葉のことを理解していないわけではありません。これが、一時の衝動による選択などではないと、誰よりも理解しているつもりです。紅葉には、父親の――理想と正義へ全てを賭けた父親の血が流れています。それが、紅葉の幼少期を犠牲にしたものであったとしても。\n私はもう、この決断を止めようという気持ちはありません。己の力で価値を証明するため全力を尽くそうとする覚悟を、否定などできません。\nつきましては、可能な範囲で構いません。紅葉の身の安全について、ご尽力賜りますよう、お願い申し上げます。そして、信じていただきたいのです。私の娘はただ勉強ができるだけの子などではないと。\n皆様のご配慮に感謝いたします。今後とも、よろしくお願い申し上げます。\n\n斯波陽子",
+    "ko": "[탈로스 II 상업연합회 관련 서한]\n발신처: 지바 상업 회사\n수신처: 엔드필드 공업 인력 자원 사무부\n\n엔드필드 공업 인력 자원 사무부 담당자님께\n안녕하십니까. 저는 시바 모미지의 어머니 시바 요코입니다. 이렇게 서신으로 연락드리는 점, 부디 양해해 주시기 바랍니다.\n상업 회사의 책임자로서 저는 언제나 이성적이고 효율적으로 사안을 처리하는 데 익숙합니다. 하지만 이 편지를 쓰기 위해 펜을 든 지금, 제 마음은 실로 복잡한 감정으로 가득합니다.\n모미지는 제 하나뿐인 딸입니다. 아이의 아버지는 제 남동생과 아겔로스 토벌 작전에서 인연을 맺었고, 그 인연으로 저와 그렇게 만나 모미지를 낳게 되었습니다.\n\n모미지가 자라는 동안 저는 엄격한 훈육자였지만, 이상주의자였던 모미지의 아버지와 외삼촌은 언제나 함께 놀아주는 '친구' 같은 존재였습니다.\n그러나 10년 전, 아겔로스 원정이 끝난 뒤, 아이의 외삼촌은 돌아오지 못했고, 살아 돌아온 아이 아버지도 완전히 다른 사람이 되어 결국 저희 곁을 떠나버리고 말았습니다.\n\n그때부터 저는 모미지를 가문을 이어갈 유일한 희망으로 여기며 회사의 후계자로 양성하는 데 온 힘을 쏟았습니다. 아이는 가정을 무너뜨린 그 모든 것들과 멀어졌습니다. 다시는 '아겔로스 놀이' 같은 것도 하지 않았고, 늘 제 기대를 저버리지 않는 똑똑하고 성실한 모범생으로 자라주었습니다.\n하지만 그 아이가 졸업을 앞두고, 엔드필드 공업에 입사하겠다며, 심지어 위험이 도사리는 전선에서 일하겠다는 결정을 내린 것입니다.\n\n처음에 저는 그 사실에 충격과 분노를 금할 수 없었습니다. 그 일로 심하게 다투었으며 한동안 관계도 서먹해졌습니다.\n제가 아이를 이해하지 못하는 것은 아닙니다. 오히려 그 누구보다도 잘 알고 있습니다. 그 결정이 결코 순간의 충동이 아니라는 것을요. 아이의 몸속에는 여전히 그 아버지의 피가, 이상과 정의를 향한 그 뜨거운 열정과 집념이 흐르고 있습니다. 비록 그것이 아이의 유년 시절을 앗아갔다 해도 말입니다.\n\n저는 더는 아이의 결정을 막지 않기로 했습니다. 자신의 가치를 증명하기 위해 기꺼이 모든 것을 걸려는 아이를, 제가 무슨 수로 부정할 수 있겠습니까.\n이에 귀사에 간곡히 부탁드립니다. 가능한 범위 내에서 아이의 안전을 보장해 주십시오. 하지만 제 딸아이가 그저 공부만 할 줄 아는 온실 속 화초는 아니라는 것도 부디 믿어주시기 바랍니다.\n여러모로 잘 부탁드립니다.\n\n시바 요코 드림"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "Before, reflecting on the past used to come naturally for Shiba Momiji. Back in school, she had a knack for breaking down a year's worth of progress with neat charts and detailed annotations — earning top grades with ease. \nBut now, things are different. It's been a full year since Operations Team Z7 was formed. And instead of stats and milestones, what fills her heart now ... are feelings. \nShe constantly worries about Catcher. As the team's shield and support, he looks after everyone like family. Is he overextending himself...? \nShe pays attention to Estella's condition. Some may see her as unmotivated or laid-back, but Akekuri knows better. Estella is healing her own fragile body while quietly helping Op Z7 heal the world. That takes a rare kind of strength. \nShe watches over Fluorite's moods, not just her frequent outbursts or headstrong ways. Akekuri often asks herself: Am I being a strong enough cushion? One that lets her feel understood and safe? \nShe worries about Antal too. Often labeled an \"odd one,\" Antal is, in truth, passionate and reliable — his way of connecting simply different. She sees how hard he's been working to keep pace with the team. \nIt's because of them that Z7 stands as it does today. \nShe's deeply grateful — for their trust, for their belief in her leadership, and for proving that this team, once seen as inexperienced, could stand on its own. \nBut most of all, she wonders about herself: Has she met the expectations she set — using what little they had to help as many as possible ... and to find her own light in the process? \nSometimes she wonders: if the ideals of Endfield are ever fulfilled, and peace finally comes — maybe, just maybe, her parents might reconcile. And perhaps she could go home, just like when she was little ... and share one peaceful family meal together again. \nShe is giving her all to make that future possible. \n\nAnnual Performance Report\nSUBMITTED BY: Akekuri, Captain, Operations Team Z7 \n\nDear Supervisor Perlica, \nThis report outlines the major operations and achievements of Operations Team Z7 over the past year. \nWe completed 40 missions with a 95% success rate and zero casualties. These included 16 cross-region supply runs, 9 joint wildlands recon operations, 7 high-risk engineering escorts, and 8 emergency rescues. \nWe've steadily grown from a provisional support force into a reliable, fully operational unit. \nP.S. While our combat rating remains average in this year's assessment, we ranked among the top in support, command, and management. \n......\nRegarding the rumored awakening of the \"Endministrator,\" though I have yet to witness it myself, I can feel the excitement in  stories shared by our seniors. If possible, I'd like to respectfully request that Operations Team Z7 be involved in missions under the Endministrator's command. It would be a privilege to personally deliver our tactical reports — and even more meaningful to work alongside the Endministrator to bring Endfield's vision to life. Together, we can restore peace to Talos-II...",
+    "zh-TW": "對曾經的「斯波紅葉」而言，總結過去從不是難事。學生時代，她總能把一年中的進步與成果有條理地分析整理，配上恰到好處的圖表與註解，順理成章地收穫最佳評價。\n但這一次卻不太一樣。Z7行動組成立滿一年了，比起數字和案例，更多湧上心頭的是……特殊的「感觸」。\n秋栗常常擔心卡契爾——作為隊伍的「盾」與後勤，他就像照顧家人一樣照顧每一個人……他會不會太累了？\n秋栗掛念著埃特拉的身體狀況。外人或許覺得這個女孩散漫、缺乏幹勁，但秋栗知道，她在修復自己虛弱身體的同時，也在幫助Z7行動組修復這個世界的創傷——這很了不起。\n秋栗更在意螢石的情緒波動，而不是經常的「惹是生非、我行我素、冒犯他人」……秋栗常常反思自己，有沒有成為足夠穩妥的「緩衝」，讓螢石感受到更多理解與信任？\n秋栗也擔心安塔爾的孤獨。這個總被視為「怪人」的隊員，其實熱情且可靠，只是表達方式太過不同。她知道，安塔爾一直在努力與大家融入。\n正因為有他們，才有了如今的Z7。\n她感謝這一切——感謝他們總會說「組長下令就好」，也感謝他們讓這支新人小隊擺脫了質疑。\n更多的感觸，則關於秋栗自己：這一年，是否實現了自己的期待——調動有限的資源，去照亮更多的人，並且……最終照亮自己？\n有時候秋栗會想，只要終末地的理想實現，和平真的到來——或許那個時候，父母就可以冰釋前嫌，她可以像記憶裡小時候那樣，回到家裡，和他們一起，好好吃一頓晚餐。\n她正為此傾盡自己所有的努力。\n\n《年度述職報告》\n呈報人：Z7行動組組長 秋栗\n\n佩麗卡監督：\n一年過去，Z7行動組交出了這樣的答卷——\n全年執行任務40次（成功率95%，全員零傷亡），含跨區物資押運16次、荒野偵察協同9次、高危險工程護衛7次、緊急救援8次。\n我們的定位逐漸從「實驗性補充力量」過渡為「穩定支援編制」。\nP.S. 雖然年度考核中，Z7行動組的正面戰鬥力評等依然為普通，但支援、指揮和管理等方面評等名列前茅。\n…………\n此外，關於傳說中「管理員」的甦醒，雖然我未能有幸親眼目睹，但從前輩們的言語中，我感受到了一種前所未有的期待。如果可以的話，請務必讓Z7行動組參與管理員指揮的任務！我想親手把戰術板和任務報告遞到管理員的面前，並和管理員一起，實現終末地的願景，為塔衛二帶來和平……",
+    "zh-CN": "对曾经的“斯波红叶”而言，总结过去从不是难事。学生时代，她总能把一年中的进步与成果条分缕析，配上恰到好处的图表与注解，顺理成章地收获最佳评价。\n但这一次却不太一样。Z7行动组成立满一年了，比起数字和案例，更多涌上心头的是……特殊的“感触”。\n秋栗常常担心卡契尔——作为队伍的“盾”与后勤，他就像照顾家人一样照顾每一个人……他会不会太累了？\n秋栗挂念着埃特拉的身体状况。外人或许觉得这个姑娘散漫、缺乏干劲，但秋栗知道，她在修复自己虚弱身体的同时，也在帮助Z7行动组修复这个世界的创伤——这很了不起。\n秋栗更在意萤石的情绪波动，而不是时不时的“惹是生非”“我行我素”“冒犯他人”……秋栗常常反思自己，有没有成为足够稳妥的“缓冲”，让萤石感受到更多理解与信任？\n秋栗也担心安塔尔的孤独。这个总被视作“怪人”的队员，其实热情且可靠，只是表达方式太过不同。她知道，安塔尔一直在努力与大家同步。\n正因为有他们，才有了如今的Z7。\n她感谢这一切——感谢他们总会说“组长下令就好”，也感谢他们让这支新人小队摆脱了质疑。\n更多的感触，则关于秋栗自己：这一年，是否实现了自己的期待——调动有限的资源，去照亮尽量多的人，并且……最终照亮自己？\n有时候秋栗会想，只要终末地的理想实现，和平真的到来——或许那个时候，父母就可以冰释前嫌，她可以像记忆里小时候那样，回到家里，和他们一起，好好吃一顿晚餐。\n她正为此倾尽自己所有的努力。\n\n《年度述职报告》\n呈报人：Z7行动组组长 秋栗\n\n佩丽卡监督：\n一年过去，Z7行动组交出了这样的答卷——\n全年执行任务40次（成功率95%，全员零伤亡），含跨区物资押运16次、荒野侦察协同9次、高危工程护卫7次、紧急救援8次。\n我们的定位逐渐从“实验性补充力量”过渡为“稳定支援编制”。\nP.S. 虽然年度考核中，Z7行动组的正面战斗力评级依然为普通，但支援、指挥和管理等评级名列前茅。\n…………\n此外，关于传说中“管理员”的苏醒，虽然我未能有幸亲眼目睹，但从前辈们的言语中，我感受到了一种前所未有的期待。如果可能的话，请务必让Z7行动组参与管理员指挥的任务！我想亲手把战术板和任务报告递到管理员的面前，并和管理员一起，实现终末地的愿景，为塔卫二带来和平……",
+    "ja": "かつての「斯波紅葉」にとって、過去を総括することは難しいことではなかった。学生時代は年間の進歩や成果を1つ1つ分析し、的確な図表と注釈を添え、当然のように最高の評価を手にしてきた。\nしかし今回は、少し違う。行動隊Z7を結成してから、ちょうど1年。数字や事例よりも、彼女の心に残ったのは……特別な「実感」だった。\nアケクリはいつもキャッチャーのことを気にかけている――隊の「盾」となり後方支援を担当しながら、まるで家族のように全員の世話をしてくれる彼は……疲れていないだろうか。\nアケクリはエステーラの身体のことも案じている。一見彼女はだらしなく、やる気がないように見えるかもしれない。けれどアケクリは知っている――弱い身体を回復させながら、行動隊Z7と共に、この世界の傷を癒そうとしていることを。それは、並大抵の決意ではないと。\nアケクリは、フローライトの感情の波を心配している。「トラブルメーカー」「マイペース」「神経を逆撫でする」などの問題ではなく……自分は、彼女にとって十分な「クッション」になれているだろうか。理解しようとしていること、信頼しようとしていることが伝わっているだろうかと、いつも自問するのだった。\nアケクリはまた、アンタルが孤独を感じていないかも気にしている。「変人」と思われがちなこの隊員は、実はとても熱心で頼れる人物だ。ただ、その表現方法が他の人とあまりに違うだけ。アンタルがずっと、みんなに合わせようと努力していることを、ちゃんと知っている。\n彼らがいたから、今のZ7がある。\nアケクリは、みんなに感謝している――「隊長の指令に従う」と背中を押してくれることにも、新しい隊が疑念を含む目に耐え抜いたことにも。\nそして浮かぶのは、自分自身への実感だ。この1年は、自分の期待に応えられただろうか――限られたリソースを投じ、可能な限り多くの人が希望を持てるように、そして……自分にも希望が見えただろうか？\n時折、彼女は思う。いつかエンドフィールドの理想が実現し、真の平和が訪れたなら――両親の誤解も解け、子どもの頃そうしていたように、家に返って両親と一緒に夕食を囲む日が来るのではないか、と。\nそのために、すべて出し尽くし、努力を重ねている。\n\n『年度業務報告書』\n報告者：行動隊Z7隊長　アケクリ\n\nペリカ監察官\n1年が経過いたしました。行動隊Z7の成果を報告いたします。\n任務実行回数は40回（成功率95%、死傷者0）。内訳は、エリア間の物資輸送が16回、荒野での協同偵察業務は9回、危険度の高い工事護衛は7回、緊急救助は8回でした。\n当初は「実験的な補助部隊」という位置づけでしたが、現在は「安定的な支援編成」へと移行しています。\n追伸：年度評価ではZ7の正面戦力評価は依然「普通」とされていますが、支援、指揮および管理等の評価は上位に入っています。\n…………\nまた、伝説の「管理人」が目覚められたとのことで、私はまだ直接お目にかかったことはありませんが、先輩方の話から今まで以上に大きな期待を感じております。可能であれば、ぜひ行動隊Z7も管理人指揮下の任務に参加させていただきたく存じます。戦術ボードや任務報告を管理人に直接お渡したいのです。管理人と共にエンドフィールドの理想と、タロⅡの平和を実現したいと考えております……",
+    "ko": "과거의 '시바 모미지'에게 있어, 지난 일들을 요약해서 정리하는 일은 결코 어려운 일이 아니었다. 학창 시절의 그녀는 1년 동안의 성과와 발전을 조목조목 분석하고, 적절한 그래프와 주석까지 곁들여 항상 좋은 평가를 받곤 했다.\n하지만 이번은 조금 달랐다. Z7 작전팀이 창설된 지 1년이 된 지금, 숫자나 사례보다는... 가슴속에서 북받쳐 오르는 특별한 '감회' 같은 것들이 더 많았다.\n\n아케쿠리는 카치르를 늘 걱정한다. 팀의 '방패'이자 지원 담당인 그는 마치 가족을 돌보듯 모든 대원을 챙긴다... 그가 너무 무리하는 건 아닐까?\n\n아케쿠리는 에스텔라의 몸 상태도 늘 신경 쓴다. 겉으론 늘어지고 의욕이 없어 보이지만, 에스텔라는 자신의 허약한 몸을 회복시키는 동시에 Z7 작전팀이 이 세계의 상처를 회복시키는 것을 돕고 있다는 사실을. 그건 정말 대단한 일이다.\n\n아케쿠리는 플루라이트가 '말썽을 피우고' '제멋대로 행동하고' '남에게 실례를 범하는 것' 보다도 그녀의 감정 기복 자체에 더 신경을 쓴다.\n그녀는 플루라이트가 더 많은 이해와 신뢰를 느낄 수 있도록 자신이 충분히 안정적인 '완충 역할'을 하고 있는지 되돌아본다.\n\n아케쿠리는 안탈의 외로움 또한 걱정한다. 늘 '괴짜'로 불리지만, 사실 따뜻하고 믿음직한 사람이다. 다만 표현 방식이 남다를 뿐이다. 아케쿠리는 안탈이 팀원들과 보조를 맞추려 얼마나 노력하고 있는지를 잘 알고 있다.\n\n바로 이들이 있었기에, 지금의 Z7이 존재한다.\n아케쿠리는 이 모든 것에 감사한다. 명령만 내려달라고 말해주는 팀원들에게도, 이 신생팀이 세간의 의심을 벗어던질 수 있게 해준 것에도 감사한다.\n\n더 많은 감회는 아케쿠리 자신에 관한 것이었다. 지난 1년간, 정말로 자신이 기대했던 것을 실현했는가? 한정된 자원을 최대한 활용해, 최대한 많은 사람에게 빛을 비춰주고... 그리고... 자기 자신도 비추게 되었을까?\n아케쿠리는 가끔 이런 생각을 한다. 언젠가 엔드필드의 이상이 실현되고 진정한 평화가 찾아온다면... 어쩌면 그때는, 부모님도 오랜 갈등을 풀고 화해할 수 있지 않을까. 마치 어릴 적 기억처럼, 다시 집으로 돌아가 다 함께 따뜻한 저녁 식사를 할 수 있지 않을까.\n그 가능성을 위해, 그녀는 지금 모든 노력을 쏟고 있었다.\n\n<연간 업무 보고서>\n보고자: Z7 작전팀 팀장 아케쿠리\n\n펠리카 감독관님께\n지난 1년간, Z7 작전팀은 아래와 같은 성과를 거두었습니다.\n연간 수행 임무: 총 40회 (성공률 95%, 전원 무사 귀환)\n이 중 구역 간 물자 호송 16회, 황무지 정찰 협동 작전 9회, 고위험 건설 경호 임무 7회, 긴급 구조 임무 8회를 포함합니다.\n저희 팀은 이제 '실험적 보충 전력'에서 '안정적인 지원팀'으로 자리 잡았습니다.\nP.S. 비록 올해 연말 평가에서 Z7 작전팀의 정면 전투력 등급은 여전히 '보통'에 머물렀으나, 지원, 지휘, 관리 등급은 최상위권을 기록했습니다.\n......\n또한, 전설 속의 '관리자'님께서 깨어나셨다는 소문을 들었습니다. 비록 제가 직접 그 영광스러운 순간을 목도하지는 못했으나 선배님들의 말씀 속에서 전례 없는 기대를 느낄 수 있었습니다.\n가능하다면, 꼭 Z7 작전팀이 관리자님께서 지휘하시는 임무에 참여할 수 있도록 해주시길 간곡히 부탁드립니다! 제 손으로 직접 전술판과 임무 보고서를 직접 관리자님께 전해드리고, 관리자님과 함께 엔드필드의 이상을 실현하고, 탈로스 II에 진정한 평화를 가져오고 싶습니다..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0019_karin_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Prepped and primed! Let's hit it, team!",
+    "zh-TW": "剛完成方案推演，隨時可以出發！",
+    "zh-CN": "刚完成预案推演，随时可以出发！",
+    "ja": "シミュレーション、完了しました！いつでも出発いたします！",
+    "ko": "작전 시뮬레이션 완료! 언제든지 출발할 수 있어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "This is our chance to learn and grow!",
+    "zh-TW": "這次行動能累積寶貴的經驗。",
+    "zh-CN": "这次行动能积累宝贵的经验。",
+    "ja": "今回の作戦も、間違いなく貴重な経験になります。",
+    "ko": "이번 작전은 소중한 경험이 될 것 같아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Akekuri, Op Z7, reporting in! Excited to join the mission, let's make it a success!",
+    "zh-TW": "Z7行動組，秋栗，很高興加入這次行動！請期待我的表現！",
+    "zh-CN": "Z7行动组，秋栗，很高兴加入这次行动！请期待我的表现！",
+    "ja": "行動隊Z7、アケクリと申します。作戦に参加させていただき、光栄です！尽力いたします！",
+    "ko": "Z7 작전팀, 아케쿠리, 이번 작전에 함께하게 되어 영광이에요! 앞으로 최선을 다할게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Awesome, another task from the Endmin! What better way to learn than this!",
+    "zh-TW": "是管理員的安排！太好了，沒有比這更好的學習機會了！",
+    "zh-CN": "是管理员的安排！太好了，没有比这更好的学习机会了！",
+    "ja": "管理人からのご指示とは、身に余る光栄です。しっかりと、勉強させていただきます！",
+    "ko": "지시 확인! 정말 잘됐네요. 이보다 더 좋은 학습 기회는 없으니까요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "A new weapon, hmm ... definitely feels unique. Alright, I've gotta come up with fresh tactics and strategies!",
+    "zh-TW": "新武器……感覺很不一樣呢。可以有新的戰術安排和行動方式了！",
+    "zh-CN": "新武器……感觉很不一样呢。可以有新的战术安排和行动方式了！",
+    "ja": "新しい武器……全く感触が違いますね。新戦術を試させていただきたいです！",
+    "ko": "이 무기... 엄청 느낌이 다른데요? 새로운 전술이랑 작전을 시도해 봐도 좋을 것 같아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "Hmm, fits me just right! I'll be sure to send my feedback to the Arsenal soon.",
+    "zh-TW": "嗯，很合身。後續的使用體驗，我會報告給武庫。",
+    "zh-CN": "嗯，很合身。后续的使用体验，我会报告给武库。",
+    "ja": "はい、良く馴染みます。使用の評価につきましては、武庫に報告させていただきます！",
+    "ko": "음, 딱 맞네요! 한번 사용해 보고 무기고에 피드백을 전달할게요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "This feels like stacking up credits, just not the kind you get from class.",
+    "zh-TW": "就像拿學分的感覺一樣，不過這次不是從課堂上得到的。",
+    "zh-CN": "就像拿学分的感觉一样，不过这次不是从课堂上得到的。",
+    "ja": "なんだか、学校で単位を取ったときのことを思い出す……もちろん、授業じゃないんだけど！",
+    "ko": "꼭 학점을 따는 것 같아요. 다른 점이라면... 장소가 교실이 아니라는 것 정도?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "So this is what an elite debriefing looks like ... truly eye-opening!",
+    "zh-TW": "這就是精英幹員的行動檢討嗎……真是受益匪淺！",
+    "zh-CN": "这就是精英干员的行动复盘吗……真是受益匪浅！",
+    "ja": "これが、エリートオペレーターの分析力……大変参考になりました……！",
+    "ko": "이게 바로 정예 오퍼레이터의 작전 복기인가요... 정말 많은 걸 배웠어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Ohhh, a promotion? What an honor! Feels like a nod to me and the whole Z7 crew. Rest assured, we'll keep pushing forward!",
+    "zh-TW": "晉升？太榮幸了！這既是對我的勉勵，也是對整個Z7行動組的嘉獎。我們會繼續努力的！",
+    "zh-CN": "晋升？太荣幸了！这既是对我的勉励，也是对整个Z7行动组的嘉奖。我们会继续努力的！",
+    "ja": "昇進……ありがとうございます！これは、わたくしだけではなく、行動隊Z7全員への評価だと受け止めています。これからも精一杯、務めさせていただきます！",
+    "ko": "정말 영광입니다! 이건 저 개인뿐만 아니라 Z7 작전팀 모두를 격려해 주신 거예요! 앞으로도 열심히 할게요!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0019_karin_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "More risky missions to come? Nope, I'm more excited than scared. It's a sign of your trust, and I see it as a great chance for us to learn and grow.",
+    "zh-TW": "以後要參加更危險的行動了？不，我不是害怕，而是開心。對還在累積經驗的行動組來說，這意味著莫大的肯定。",
+    "zh-CN": "以后要参加更危险的行动了？不，我不是害怕，而是开心。对还在积累经验的行动组来说，这意味着莫大的肯定。",
+    "ja": "今後はより危険な任務に携わると……いえ、怖くはありません。むしろ、身が引き締まります。未熟な隊であるにも関わらず、信頼していただいている証ですから。",
+    "ko": "앞으로 더 위험한 작전에 참여하게 되는 건가요? 아니요, 무서워서가 아니라... 기뻐서요. 아직 성장 중인 저희 작전팀한테는 엄청난 인정이거든요."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0019_karin_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Endmin, got a bit of time later? The team's throwing you a little celebration party. I baked a Mont Blanc cake just for you, and trust me, you won't wanna miss it!",
+    "zh-TW": "管理員，談話結束後有空嗎？行動組的大家為我準備了一個小小的慶祝會，我為您預留了蒙布朗蛋糕，別錯過喔。",
+    "zh-CN": "管理员，谈话结束后有空吗？行动组的大家为我准备了一个小小的庆祝会，我给您预留了蒙布朗蛋糕，别错过哦。",
+    "ja": "管理人、お話のあとにお時間いただけないでしょうか？隊のみんなが、わたくしのお祝いをしてくれると言って……ですから、管理人の分も用意いたしました、モンブランケーキ！絶対にいらしてくださいね！",
+    "ko": "관리자님, 이따 시간 괜찮으신가요? 작전팀의 팀원들이 소소하게 축하 파티를 준비했거든요! 관리자님께 드리려고 몽블랑 케이크도 따로 챙겨뒀는데... 꼭 참석해 주셨으면 좋겠어요."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0019_karin_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "There's a theory I learned in class that everyone will eventually be promoted to a role they can't handle. So, if I get stuck for too long, Endmin, please be sure to step in and offer me your guide.",
+    "zh-TW": "我在課堂上學到過一個理論，說一個人最終會晉升到自己無法勝任的位置上。所以如果我「停滯」了太久，管理員，請您第一時間督促和指導我吧。",
+    "zh-CN": "我在课堂上学到过一个理论，说一个人最终会晋升到自己无法胜任的位置上。所以如果我“停滞”了太久，管理员，请您第一时间给我督促和指导吧。",
+    "ja": "「最終的に、自身の能力を超えて昇進するものだ」――授業で学びました。もしわたくしが「停滞」してしまったら……管理人。早急にご指導いただきますよう、よろしくお願いいたします。",
+    "ko": "제가 수업에서 배운 이론이 있어요. '인간은 결국 자신이 감당할 수 없는 자리까지 오르게 된다'... 만약 제가 한 자리에 너무 오래 '정체'되어 있다면, 관리자님께서 꼭 지도해 주셨으면 좋겠어요."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0019_karin_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Captain Akekuri of Operation Team Z7 reporting in! The operations dossier, budget summary, and action plan are ready for review. Which would you like to read first?",
+    "zh-TW": "終末地Z7行動組組長，秋栗，向管理員報到！備忘摘要、預算評估、行動方案都已經做好了，您要先過目哪一份？",
+    "zh-CN": "终末地Z7行动组组长，秋栗，向管理员报到！备忘摘要、预算评估、行动预案都已经做好了，您要先过目哪一份？",
+    "ja": "エンドフィールド行動隊Z7、隊長アケクリ。ただいま参りました、管理人！レポート概要、予算の見積、作戦計画、すべて作成完了です。どちらから確認されますか？",
+    "ko": "엔드필드 Z7 작전팀 팀장 아케쿠리, 관리자님께 보고드립니다! 기록 보고서, 예산 평가서, 작전 계획서까지 모두 정리해 두었습니다. 어떤 것부터 확인하시겠습니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "A strong team is one without any weak links.",
+    "zh-TW": "一個健康的團隊不應該有弱點。",
+    "zh-CN": "一个健康的团队不应该有短板。",
+    "ja": "優れたチームに、短所があってはいけませんから。",
+    "ko": "건강한 팀에는 약점이 없어야 하죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "C'mon, let me do something for Endfield!",
+    "zh-TW": "讓我為終末地做些什麼吧！",
+    "zh-CN": "让我为终末地做些什么吧！",
+    "ja": "エンドフィールドのために、何でもやらせていただきます！",
+    "ko": "엔드필드를 위해서 뭐라도 하고 싶어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "You can count on me. I've done the job before.",
+    "zh-TW": "放心交給我吧，我在輪調時做過這份工作。",
+    "zh-CN": "放心交给我吧，我在轮岗时做过这份工作。",
+    "ja": "お任せください。交替勤務で経験したことのある業務です。",
+    "ko": "안심하고 맡겨주세요. 예전에 많이 해봤던 일이거든요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Small world, Endmin! You just wrapped up a mission as well?",
+    "zh-TW": "好巧，管理員，您也剛出完任務嗎？",
+    "zh-CN": "好巧，管理员，您也刚出完任务吗？",
+    "ja": "偶然ですね！管理人も任務を終えられたところでしょうか？",
+    "ko": "어? 관리자님! 관리자님도 방금 임무를 마치고 돌아오시는 길인가요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Coffee break, Endmin? I can whip up a fresh pot for you!",
+    "zh-TW": "管理員，要我幫您煮一壺熱咖啡嗎？",
+    "zh-CN": "管理员，要我帮您煮一壶热咖啡吗？",
+    "ja": "管理人、コーヒーをお淹れしましょうか？",
+    "ko": "관리자님, 따뜻한 커피 한잔 내려드릴까요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0019_karin_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Nice to meet you, Endministrator. I'm Akekuri from Operation Team Z7. Oh, it's okay! We may be newly reformed and flying under the radar for now, but I promise — we're going to make our mark.",
+    "zh-TW": "管理員，您好啊！我是秋栗，隸屬於重建不久的Z7行動組……沒關係，雖然現在我們的工作並不起眼，但很快就會讓您記住的。",
+    "zh-CN": "管理员，您好呀！我是秋栗，隶属于重建不久的Z7行动组……没关系，虽然现在我们的工作并不起眼，但很快就会让您记住的。",
+    "ja": "管理人、アケクリと申します。再編されたばかりの行動隊Z7に所属しています……気になさらないでください、我々の業務は非常に地味なもので……でも、すぐに覚えていただけるよう、努力いたします！",
+    "ko": "안녕하십니까, 관리자님! 제 이름은 아케쿠리, 얼마 전에 재편된 Z7 작전팀 소속으로... 아, 아니에요. 지금은 저희가 눈에 띄지 않으시겠지만, 곧 기억하실 수밖에 없으실 거예요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "Knowing you've been guiding Endfield since day one, I thought you'd be a lot stricter. But you're more easygoing than I expected — heehee, I guess that's part of what makes a true leader!",
+    "zh-TW": "他們都說管理員是從終末地建立至今，一直以來的領導者……沒想到竟然這麼有親和力。我懂我懂，這也是體現領導力的一環。",
+    "zh-CN": "他们都说管理员是从终末地建立至今，一直以来的领导者……没想到竟然这么有亲和力。我懂我懂，这也是体现领导力的一环。",
+    "ja": "管理人はエンドフィールドが設立されてから、長い間リーダーを務められているとお伺いしていましたが……これほどまで気さくなお人柄だとは。なるほどですね。これがリーダーシップの秘訣……！",
+    "ko": "관리자님께서는 엔드필드를 설립부터 지금까지 이끌어 오신 리더라고 들었는데... 이렇게 친근하게 다가와 주실 줄은 몰랐어요. 역시... 이것도 하나의 리더십이겠죠? 이해했어요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0019_karin_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "I must say, I'd much rather be here in Dijiang than at those so-called \"fancy events\" run by the business elites in Neo Tsukushi. People here are way more relaxed and actually making a real impact.",
+    "zh-TW": "比起新都築的「高級場合」，還是帝江號的大廳更適合我。在這裡，每個人顯得那麼輕鬆，而且做的事情遠比那些「商業精英」們有意義。",
+    "zh-CN": "比起新都筑的“高端场合”，还是帝江号的大厅更适合我。在这里，每个人显得那么轻松，而且做的事情远比那些“商业精英”们有意义。",
+    "ja": "シン・ツクシのような堅苦しい場所よりも、わたくしには帝江号のホールが合っていると思います。みんなが思うように過ごせて、しかも「エリート」よりずっと意味のある業務を担当できますから。",
+    "ko": "신 츠쿠시에 있는 '고급스러운 장소'보다는 제강호의 중앙 홀이 저한테는 더 잘 맞는 것 같아요. 여기서는 모든 사람이 편안해 보이고, 하는 일도 '비즈니스 엘리트'들보다 훨씬 더 의미가 있으니까요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0019_karin_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Have you ever had nama yatsuhashi? It's a traditional Higashi sweet with red beans, matcha, and roasted chestnut flavor. If you're up for it, come along to the next Z7 team meeting.",
+    "zh-TW": "管理員，您吃過「生八橋」嗎？那是一種東國風格的甜點，有紅豆、抹茶，還有烤栗子味的。想試試的話，下次可以列席Z7行動組的行動部署會喔。",
+    "zh-CN": "管理员，您尝过“生八桥”吗？那是一种东国风格的甜点，有红豆、抹茶，还有烤栗子味的。想试试的话，下次可以列席Z7行动组的行动部署会哦。",
+    "ja": "管理人、「生八ツ橋」を召し上がったことはありますか？東国風のお菓子で、つぶあん、抹茶、栗など、たくさんの種類があるんですよ。もし興味がありましたら、今度ぜひ！行動隊Z7の作戦会議にご出席ください！",
+    "ko": "관리자님, 혹시 '나마 야츠하시' 드셔보셨나요? 토우고쿠 스타일의 디저트인데, 팥, 말차, 구운 밤, 여러 가지 맛이 있거든요. 드시고 싶으시면 언제든 Z7 팀 작전 회의를 찾아주세요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0019_karin_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "Hey, Endmin. Wanna sit down for a cup of hot tea? We've got cool stories from the mission to share!",
+    "zh-TW": "來，管理員，這裡有熱紅茶，坐下來，聽我們講講這次任務的見聞吧。",
+    "zh-CN": "来，管理员，这里有热红茶，坐下来，听我们讲讲这次任务的见闻吧。",
+    "ja": "管理人、こちらに……温かい紅茶を入れました。どうぞお座りになって、今回の任務の件を聞いていただければと！",
+    "ko": "관리자님, 따뜻한 홍차 한 잔 어떠신가요? 이번 임무에서 겪은 일을 한번 들어보실래요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0019_karin_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "I love looking up at Talos-II from the Bridge. It's got all my memories — where I grew up, where my family last was, and the places you've changed. Hey, what's with the surprise face? I totally got A+ in planetary geology and modern history!",
+    "zh-TW": "我喜歡在帝江號的艦橋眺望塔衛二，這裡能看到我長大的地方、家人最後踏足的地方，還有被管理員改變過的地方——別驚訝，星球地理學和近代史我都拿了A+。",
+    "zh-CN": "我喜欢在帝江号的舰桥眺望塔卫二，这里能看到我长大的地方、家人最后踏足的地方，还有被管理员改变过的地方——别惊讶，星球地理学和近代史我都拿了A+。",
+    "ja": "帝江号のブリッジから、タロⅡを見るのが好きなんです。ここからは、生まれ故郷や家族で最後に訪れた場所、そして管理人のおかげですっかり変わったところも全部見られます――驚きましたか？わたくし、タロⅡ地理学と近代史はどちらもA+だったのですよ！",
+    "ko": "전 제강호의 갑판에서 탈로스 II를 바라보는 게 좋아요. 제가 자란 곳이랑 가족이 마지막으로 머물렀던 곳, 그리고... 관리자님이 바꿔놓은 곳까지 모두 다 내려다볼 수 있거든요. 놀라지 마세요, 저 행성 지리학이랑 근대사 둘 다 A+ 받았었어요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0019_karin_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Ah, Endmin! I got you a little something from the field mission. Hope you like it!",
+    "zh-TW": "管理員，這次外勤任務，我帶回來了一些小紀念品，請收下！",
+    "zh-CN": "管理员，这次外勤任务，我带回来了一些小纪念品，请收下！",
+    "ja": "管理人、外勤任務のお土産を持って参りました！どうぞ、受け取ってください。",
+    "ko": "관리자님, 이번 외근 임무에서 기념품을 좀 가져왔어요. 받아주세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Wow, a gift for me?! Is it a reward for something I did, or...?",
+    "zh-TW": "哇，管理員的禮物！我猜一猜，這是獎勵嗎？還是……",
+    "zh-CN": "哇，管理员的礼物！我猜一猜，这是奖励吗？还是……",
+    "ja": "えっ！？待ってください、中身を当てて――これ、ご褒美でしょうか？それとも……",
+    "ko": "와, 관리자님이 주시는 선물이라니! 잠시만요, 이건 보상인가요? 아니면..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Oh, you wanna know why the valedictorian from Neo Tsukushi chose to join Endfield? Truth is, I'm the one who's grateful they chose me. I like everything about my Op Team, far more than any corporate ladder. Here, I get to be a fellow combatant as well as a pioneer.",
+    "zh-TW": "為什麼新都築的年度模範畢業生會選擇終末地？其實我更感激終末地選擇了我。比起商會職場裡的晉升階梯，我更喜歡行動組的一切——在這裡，我既是戰鬥者，也是開拓者。",
+    "zh-CN": "为什么新都筑的年度模范毕业生会选择终末地？其实我更感激终末地选择了我。比起商会职场里的晋升阶梯，我更喜欢行动组的一切——在这里，我既是战斗者，也是开拓者。",
+    "ja": "シン・ツクシの模範卒業生がどうしてエンドフィールドを選択したのか、ですか……実は、むしろエンドフィールドにはわたくしを選んでいただいて、感謝しているのです。企業で昇進を目指すより、行動隊のほうがずっと価値があります――ここでのわたくしは、戦士であり、開拓者でもありますから。",
+    "ko": "신 츠쿠시의 우수 졸업생이 왜 엔드필드를 선택했냐고요? 사실 전 엔드필드가 절 선택해 줬다는 걸 더 고맙게 생각하고 있어요. 상업연합회에서 승진하는 것보다 작전팀에서 활동하는 게 훨씬 더 좋아서요. 여기서 전, 전투 요원이면서도 개척자가 될 수 있으니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "My wish? I just hope Mom and Dad can make peace. Dad's been out fighting Aggeloi, while Mom's been running the family store. But why should that mean they have to live separate lives? If they both worked at Endfield, maybe they wouldn't have to choose between duty and family...",
+    "zh-TW": "我的願望？希望爸爸和媽媽和解吧。我覺得無論是與天使奮戰的爸爸，還是打理家庭商店的媽媽，他們之間沒有成為「敵人」的理由，對吧？在終末地工業，兩者不就能兼得嗎？",
+    "zh-CN": "我的愿望？希望爸爸和妈妈和解吧。我觉得无论是与天使奋战的爸爸，还是打理家庭商店的妈妈，他们之间没有成为“敌人”的理由，对吧？在终末地工业，两者不就能兼得吗？",
+    "ja": "わたくしの願い事？それは、父母の仲直りです。アンゲロスと戦う父も、家業を支える母も、お互いにいがみ合う理由などないのに……エンドフィールドなら、どちらも両立できる。そうですよね？",
+    "ko": "제 소원이요? 아빠랑 엄마가 화해하는 거예요. 아겔로스랑 싸우는 아빠도, 상점을 운영하는 엄마도 서로 '적대'할 이유는 없다고 생각해요. 엔드필드 공업에서는 둘 다 할 수 있잖아요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0019_karin_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "When I was little, I used to play this game called \"Fight the Aggelos\" with Dad and Uncle. I'd ride on their shoulders like I was the commander. Then, ten years ago, Uncle got called up to the north as a shinobi hacker and never came back. That was when my parents stopped speaking to each other. I almost forgot about those \"battles\" until Endfield brought it all rushing back.",
+    "zh-TW": "記得很小的時候，爸爸和舅舅經常帶我玩「打天使」的遊戲，那時我騎在他們的肩膀上，就像個指揮官。十年前，舅舅作為忍客被徵召去了北邊，再也沒有回來，爸爸也和媽媽永不相見。我幾乎忘了那時候的「戰鬥」經歷，直到終末地讓我再次回憶起來。",
+    "zh-CN": "记得很小的时候，爸爸和舅舅经常带我玩“打天使”的游戏，那时我骑在他们的肩膀上，就像个指挥官。十年前，舅舅作为忍客被征召去了北边，再也没有回来，爸爸也和妈妈永不相见。我几乎忘了那时候的“战斗”经历，直到终末地让我再次回忆起来。",
+    "ja": "子どもの頃、父と叔父がよく「アンゲロス退治」のゲームに連れて行ってくれたんです。まるで指揮官のように、2人の肩に乗って。けれど叔父は10年前に破賀忍として北部に行ったっきり戻らず……父も母の元に戻ることはありませんでした。あの頃の「戦い」についてはほとんど覚えていなかったのですが……エンドフィールドが、記憶を蘇らせてくれたのです。",
+    "ko": "아주 어렸을 때, 아빠랑 외삼촌이랑 '아겔로스 잡기' 놀이를 하곤 했어요. 그땐 제가 가족들 어깨에 올라타 있었는데, 꼭 지휘관이 된 것 같았죠. 하지만 십 년 전... 외삼촌이 북쪽으로 소집당하고 돌아오지 못한 이후로, 엄마도 아빠랑 다시는 만나지 않으셨어요. 전 그때의 '전투'를 거의 잊고 살았는데, 엔드필드에 오니까 그때의 기억이 다시 떠오르더라고요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0019_karin_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "After applying to reestablish Z7, I went through over a year of intense training and trials. But what truly mattered was meeting Catcher, Fluorite, Estella, and Antal. They're the heart of our team and the reason Z7 has a future.",
+    "zh-TW": "在申請重建Z7行動組之後，我經歷了一年多的高難度培訓和挑戰。但真正重要的，是找到了卡契爾、螢石、埃特拉和安塔爾——他們都是無價之寶，是他們給了Z7行動組能夠重新成立的資格。",
+    "zh-CN": "在申请重建Z7行动组之后，我经历了一年多的高难度培训和挑战。但真正重要的，是找到了卡契尔、萤石、埃特拉和安塔尔——他们都是无价之宝，是他们给了Z7行动组能够重新成立的资格。",
+    "ja": "行動隊Z7の再編成を申請後、1年以上厳しい訓練を受けてきました。でも、最も価値があると感じたのは、キャッチャーやフローライト、エステーラ、アンタルに出会えたことです。みんなの力で、行動隊Z7は蘇ることができた――本当にかけがえのない存在なのです。",
+    "ko": "Z7 작전팀 재편을 신청하고, 전 일 년 이상의 혹독한 훈련과 시험을 거쳤어요. 하지만 진짜 중요한 건... 카치르부터 플루라이트, 에스텔라, 안탈까지 Z7 작전팀을 다시 일어설 수 있게 해준 소중한 동료들을 만났다는 거죠."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0019_karin_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "Haha, guess there's no hiding anything from you, Endmin. Yeah, my mom had it all planned out — business school, join TGCC, follow in her footsteps. Welp, me joining here was not a part of her script. Sooo ... please make Endfield the biggest deal on Talos-II, or she'll start calling me back! Oh, by the way, if you ever shop in the Band, take this card. Shh... Yes, the store everyone knows about.",
+    "zh-TW": "啊，管理員，您都知道啦？媽媽把我送去念商科，是希望我將來在環塔商會裡成為她的左右手。但現在我背離了她所規劃的道路。所以您必須讓終末地工業成為塔衛二最偉大的企業，要不然，我就得回去繼承家業了。對了，如果去環帶購物，記得帶上這張卡——噓，別唸出來，就是大家都知道的那家。",
+    "zh-CN": "啊，管理员，您都知道啦？妈妈把我送去念商科，是希望我将来在环塔商会里成为她的左右手。但现在我背离了她所规划的道路。所以您必须让终末地工业成为塔卫二最伟大的企业，要不然，我就得回去继承家业了。对了，如果去环带购物，记得带上这张卡——嘘，别念出来，就是大家都知道的那家。",
+    "ja": "えっ、管理人……ご存じだったんですね。母がわたくしを商学部に通わせたのは、いずれ環タロ商会で自分の右腕になってほしいと考えていたからです。でも、そのレールから外れてしまいました。ですから、管理人！エンドフィールド工業をタロⅡで最も偉大な企業にしてくださいね。そうでなければ、地元で家業を継ぐことになってしまいますから……それと、もし文明地帯で買い物をするなら、このカードをお持ちください――しーっ、名前は口に出さないでください！あのお店、です。",
+    "ko": "앗, 관리자님. 다 알고 계셨던 거예요? 절 상경 계열로 보내신 게 바로 저희 엄마거든요. 제가 상업연합회에서 엄마를 돕길 바라셨던 거겠죠. 하지만... 지금의 전 이미 그 길을 걷고 있지 않으니까요. 그러니까 관리자님께서 꼭 엔드필드 공업을 탈로스 II 최고의 조직으로 만들어주셔야 해요. 아니면 저 진짜 돌아가서 가업을 이어야 할지도 모르거든요. 아, 맞다. 혹시 밴드에서 물건을 사실 일이 있으면 이 카드를 꼭 가져가세요. 쉿, 거기 맞아요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0019_karin_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "I know I'm not the strongest fighter out there — that's why trust and teamwork are our best defense. Now you see why this flare gun matters so much!",
+    "zh-TW": "我知道自己的戰鬥力不算驚人，因此隊友們的信任與配合才是最可靠的保障。您現在知道這支信號銃的重要性了吧！",
+    "zh-CN": "我知道自己的战斗力不算惊人，因此队友们的信任与配合才是最可靠的保障。您现在知道这支信号铳的重要性了吧！",
+    "ja": "自身の戦闘能力が高くないということは、自覚しています。だからこそ、仲間への信頼と協力がわたくしにとっては一番の力になります。この信号銃がどれほど重要か、わかっていただけたでしょうか。",
+    "ko": "저도 제 전투 능력이 놀랄 만큼 탁월하진 않다는 걸 잘 알아요. 그래서 팀원들 간의 신뢰랑 협력이 무엇보다 중요한 거고요. 이제 이 신호총의 중요성을 아시겠죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Wanna know how I keep Z7 running smooth? It's actually quite simple — eat everything Catcher cooks, gift Fluorite flytraps, power through Estella's noisy tracks with her, and laugh at Antal's jokes. Trust me, it works.",
+    "zh-TW": "想知道與我的隊友們相處的訣竅嗎？卡契爾做的飯菜要吃乾淨，送螢石捕蠅草，陪埃特拉聽噪音，在安塔爾的笑話冷場時第一個大聲笑出來……就好了！",
+    "zh-CN": "想知道与我的队友们相处的诀窍吗？卡契尔做的饭菜要吃干净，送萤石捕蝇草，陪埃特拉听噪音，在安塔尔的笑话冷场时第一个大声笑出来……就好了！",
+    "ja": "隊員とうまくやっていくコツを知りたいのですか？そうですね、まずは……キャッチャーの作ったご飯は残さないこと。フローライトにはハエトリグサをプレゼントして、エステーラとは一緒にごちゃごちゃした音を聞く。アンタルのギャグで空気が凍りそうになった瞬間に、大声で笑う……これくらいでしょうか？",
+    "ko": "팀원들이랑 잘 지내는 비결이요? 별거 없어요. 카치르가 만든 요리는 남김없이 먹고, 플루라이트한테는 파리지옥을 선물하고, 에스텔라는 같이 시끄러운 음악을 들어주고... 그리고 안탈은 썰렁한 농담할 때 제일 먼저 웃어주는 거! 이 정도면 충분해요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Our first mission together was just a simple escort gig — helping Endfield engineers build a dam on the frontier. Sounds easy, right? We bungled it so bad we could've written a \"101 Things Not to Do\" handbook. But when the dam was finally finished, standing waist-deep in that cold water... The sense of accomplishment was real.",
+    "zh-TW": "我忘不了Z7小隊執行的第一個任務，很簡單，護送終末地的建設人員到開拓區邊陲修建水壩。那一次我們鬧出來的笑話足以寫一本《初級行動組避雷指南》，但我忘不了大壩落成時的感覺：泡在齊腰深水裡的冰冰涼涼，還有充斥胸腔的、熾熱的成就感。",
+    "zh-CN": "我忘不了Z7小队执行的第一个任务，很简单，护送终末地的建设人员到开拓区边陲修建水坝。那一次我们闹出来的笑话足以写一本《初级行动组避坑指南》，但我忘不了大坝落成时的感觉：泡在齐腰深水里的冰冰凉凉，还有充斥胸腔的、炽热的成就感。",
+    "ja": "初めて担当した任務のことは、今でも忘れられません。ダム建設を担当するエンドフィールドの作業員を開拓エリアの辺境まで護送するという、とても簡単な任務――あのときのことは、『新米行動隊に捧げるうっかりミス回避マニュアル』なんて本にできちゃうんじゃないかって思ったくらいです。でも、ダムが完成して……腰まである水の冷たさ、胸いっぱいに広がった熱い達成感は、本当に特別なものでした。",
+    "ko": "Z7 팀이 맡았던 첫 번째 임무를 잊을 수가 없어요. 엔드필드의 건설 요원을 개척 지역 변두리로 호송해서 댐을 시공하는 일이었죠. 간단한 임무였지만, 말도 안 되는 실수들이 정말 많았어요. <초보 작전팀이 피해야 할 100가지 실수> 같은 책을 한 권 쓸 수 있을 정도였죠. 하지만 댐이 완공되는 순간, 그 느낌은 이루 말할 수 없어요. 허리까지 잠겨오는 차가운 물, 그리고 가슴 속에 차오르는 벅찬 감정... 절대 잊지 못할 거예요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "If you were leading us, Endmin ... I'd say let Estella and Antal cover us, Catcher and I draw the heat, and Fluorite lands the final blow. Wait, you've got a totally different plan?",
+    "zh-TW": "如果管理員指揮我們……可以讓埃特拉和安塔爾來打掩護，我和卡契爾來吸引火力，安排螢石來發出最後一擊！欸？您有截然不同的設想嗎？",
+    "zh-CN": "如果管理员指挥我们……可以让埃特拉和安塔尔来打掩护，我和卡契尔来吸引火力，安排萤石来发出最后一击！欸？您有截然不同的设想吗？",
+    "ja": "管理人が指揮を取ってくださるのであれば……エステーラとアンタルは援護、わたくしとキャッチャーが囮役、フローライトが最後の一撃を――えっ？管理人は全く違うお考えなのでしょうか？",
+    "ko": "관리자님께서 저희 지휘를 맡아주신다고 가정했을 때... 에스텔라랑 안탈이 엄호를 맡고, 저랑 카치르가 적의 시선을 끌고 있을 때, 플루라이트가 마무리 공격을 하면! 어? 다른 전략이 있으시다고요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "You wanna see my report card? Hmm, all A+ except for the business simulation in sophomore year. My teammates were counting on me, so oops... I kinda made the other teams go bankrupt. The professor later told me that in Talos-II, zero-sum strategy isn't the best approach. That was my one and only A-.",
+    "zh-TW": "想看我的成績單？嗯，每一門成績都是A+，除了二年級的商業競爭模擬。當時迫於同組同學的壓力，我把其他組扮演的「對手」都逼到了破產。但最後教授告訴我，在塔衛二，零和並不是最好的策略。這是我拿的第一個也是最後一個A−。",
+    "zh-CN": "想看我的成绩单？唔，每一门成绩都是A+，除了二年级的商业竞争模拟。当时迫于同组同学的压力，我把其他组扮演的“对手”都逼到了破产。但最后教授告诉我，在塔卫二，零和并不是最好的策略。这是我拿的第一个也是最后一个A−。",
+    "ja": "わたくしの成績についてでしょうか？基本的にすべての教科でA+をいただけたのですが、2年時のビジネスシミュレーションは……他のチームをすべて破産に追い込んでしまい……最後に教授が「タロⅡではゼロサムは最善の選択ではない」と教えてくれました。それが、最初で最後のA-です。",
+    "ko": "제 성적표가 궁금하시다고요? 음, 모든 과목이 A+였어요. 아, 2학년 때의 상업 경쟁 시뮬레이션을 제외하면요. 그때 같은 조였던 친구들의 압박에 못 이겨 다른 조의 '경쟁 상대'들을 모두 파산시켜 버렸거든요. 근데 마지막에 교수님께서 이렇게 말씀하셨어요. 탈로스 II에서는 제로섬이 최선의 전략은 아니라고요. 그게 제 처음이자 마지막 A−였어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_about_line01",
+   "title": {
+    "en": "Topic: Catcher",
+    "zh-TW": "話題：卡契爾",
+    "zh-CN": "话题：卡契尔",
+    "ja": "キャッチャーについて",
+    "ko": "카치르에 관하여"
+   },
+   "text": {
+    "en": "Everyone says Catcher's a great teammate, but honestly, he's the one who needs the most care. I kept making coffee for everyone at the team meetings, and he just drank it every time for two months — until we found out he was allergic! That's when I switched him to hot cocoa.",
+    "zh-TW": "大家都說卡契爾是個好同伴，其實他是最需要同伴關愛的人呢。他甚至會因為怕影響到大家，而在行動組週會上默默喝了兩個月的咖啡——直到被發現咖啡過敏，才換成熱巧克力。",
+    "zh-CN": "大家都说卡契尔是个好同伴，其实他是最需要同伴关爱的人呢。他甚至会因为怕影响到大家，而在行动组周会上默默喝了两个月的咖啡——直到被发现咖啡过敏，才换成热巧克力。",
+    "ja": "みんな、キャッチャーを「頼れる仲間」だと言うけれど、本当は一番気遣いが必要な人なんです。定例で2カ月間アレルギーを隠してコーヒーを飲み続けて――それから、ホットチョコに切り替えましたが……",
+    "ko": "다들 카치르를 좋은 동료라고 생각해요. 근데 사실 카치르는 누구보다도 동료들의 따뜻한 관심이 필요한 친구거든요. 모두한테 민폐를 끼치고 싶지 않았던 건지, 두 달 동안이나 말없이 작전팀 주간 회의에서 커피를 마시더라고요. 알레르기가 있다는 게 밝혀지기 전까지 계속요! 그때 가서야 핫초코로 바꿨다니까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_about_line02",
+   "title": {
+    "en": "Topic: Fluorite",
+    "zh-TW": "話題：螢石",
+    "zh-CN": "话题：萤石",
+    "ja": "フローライトについて",
+    "ko": "플루라이트에 관하여"
+   },
+   "text": {
+    "en": "Some people are scared of Fluorite because of the way she speaks and her background. But if you get to know her, you'll see the courage and sense of justice beneath that hood. Trust me, you won't regret it.",
+    "zh-TW": "有些人害怕螢石……因為那「不懷好意」的語氣和危險的「幫派」身分。但只要稍稍瞭解她，就能看到深藏在帽兜下的勇氣和正義感。相信我，不會錯的。",
+    "zh-CN": "有些人害怕萤石……因为那“不怀好意”的语气和危险的“帮派”身份。但只要稍稍了解她，就能看到深藏在兜帽下的勇气和正义感。相信我，不会错的。",
+    "ja": "フローライトを、怖いと言う人もいます。あの皮肉っぽい話し方や、危ない「組織」に所属していたということもあるのでしょう。でも、フローライトを少しでも知ったなら、フードの奥に勇気と正義感が隠されていると理解できるはずです。大丈夫です、信じてください。",
+    "ko": "어떤 사람들은 플루라이트를 좀 무서워해요... 아마 '냉소적인' 말투랑 '위험한 파벌 출신'이라는 신분 때문이겠죠. 하지만 조금만 알고 지내면 후드 아래 감춰진 용기랑 정의감을 볼 수 있을 거예요. 절 믿어보세요, 진짜예요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_about_line03",
+   "title": {
+    "en": "Topic: Estella",
+    "zh-TW": "話題：埃特拉",
+    "zh-CN": "话题：埃特拉",
+    "ja": "エステーラについて",
+    "ko": "에스텔라에 관하여"
+   },
+   "text": {
+    "en": "Another complaint about Estella lacking motivation? Nah, that's not true. Just look at her record, she's actually all about the thrills, adventures, and hard work!",
+    "zh-TW": "又有人投訴埃特拉幹勁不足嗎？不是喔，看看行動履歷就知道了，其實她對於刺激、冒險和體力勞動都樂在其中呢！",
+    "zh-CN": "又有人投诉埃特拉干劲不足吗？不是哦，看看行动履历就知道了，其实她对于刺激、冒险和体力劳动都乐在其中呢！",
+    "ja": "エステーラはやる気がなさすぎるとクレームが……？そんなはずはありません。こちらの行動記録を見てください。エステーラは、ああ見えて冒険が大好きで、肉体労働も厭わないタイプなんですよ！",
+    "ko": "또 에스텔라가 의욕 없이 일한다는 항의가 들어온 건가요? 전혀 아니에요! 작전 이력만 봐도 바로 알 수 있는걸요. 에스텔라는 자극적이고 모험적인 업무부터 힘을 쓰는 육체노동까지 의욕이 가득하다고요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_about_line04",
+   "title": {
+    "en": "Topic: Antal",
+    "zh-TW": "話題：安塔爾",
+    "zh-CN": "话题：安塔尔",
+    "ja": "アンタルについて",
+    "ko": "안탈에 관하여"
+   },
+   "text": {
+    "en": "Oh, you don't get Antal's humor? *Giggle* Try looking at it from his point of view, maybe you'll catch his train of thought and find that funny... Hahaha!",
+    "zh-TW": "沒辦法理解安塔爾的笑話嗎？嗯，其實換個角度，設身處地感受他編笑話時的腦迴路，是不是就能被逗樂起來……噗……哈哈哈哈……",
+    "zh-CN": "没法理解安塔尔的笑话吗？唔，其实换个角度，设身处地感受他编笑话时的脑回路，是不是就能被逗乐起来……噗……哈哈哈哈……",
+    "ja": "アンタルのギャグが難しいと………ちょっと考え方を変えてみるのがおすすめですよ。アンタルがギャグを考えているときの頭の中を想像してみたら、もう……ぷっ……あはははは……！",
+    "ko": "안탈의 농담을 이해하기가 어려우시다고요? 음, 사실 조금만 시선을 바꿔보면 돼요. 안탈이 농담을 지어낼 때 머릿속에서 어떤 생각들이 가득했을지를 떠올리면... 푸흡... 푸하하하."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "I think I spotted something interesting over there... Let's go check it out!",
+    "zh-TW": "好像有一些值得注意的東西，去查看一下吧？",
+    "zh-CN": "好像有一些值得注意的东西，去查看一下吧？",
+    "ja": "何か気になりますね。確認しに行きましょうか？",
+    "ko": "저쪽에 뭔가 있어요. 확인하러 갈까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "High-value object identified. Requesting approval to initiate collection operation.",
+    "zh-TW": "發現高價值目標，申請展開收集行動。",
+    "zh-CN": "发现高价值目标，申请开展收集行动。",
+    "ja": "高ランクのアイテムですね。収集の許可をお願いいたします。",
+    "ko": "가치 있는 목표 발견, 수집 작전을 요청합니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Unidentified area detected. Awaiting additional instructions for action.",
+    "zh-TW": "報告未知區域，有進一步行動指示嗎？",
+    "zh-CN": "报告未知区域，有进一步行动指示吗？",
+    "ja": "未確認のエリアを発見。次の指示をお待ちしております。",
+    "ko": "미확인 구역 보고, 작전 지시를 부탁드릴게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "High-risk target detected. Stay calm, we've trained for this.",
+    "zh-TW": "確認高危險目標，別慌，我們演習過應對策略。",
+    "zh-CN": "确认高危险目标，别慌，我们演习过应对策略。",
+    "ja": "強敵を確認。落ち着いて。演習どおりにやれば大丈夫だから。",
+    "ko": "고위험 목표 확인, 당황할 거 없어요. 이런 상황은 몇 번이고 연습했으니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "These minerals are essential materials for Endfield.",
+    "zh-TW": "這些礦物是對終末地有用的物資。",
+    "zh-CN": "这些矿物是对终末地有用的物资。",
+    "ja": "わたしたちにとって、鉱物は有用な物資だからね。",
+    "ko": "이 광물은 엔드필드에서 유용하게 쓰이겠네요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Let me give you a hand! We're a team, right?",
+    "zh-TW": "我也來幫忙，我們是搭檔嘛！",
+    "zh-CN": "我也来帮忙，我们是搭档嘛！",
+    "ja": "手伝いに来たよ！仲間だから、当然！",
+    "ko": "저도 도울게요, 우린 파트너잖아요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Nice! Looks like we've made quite the haul!",
+    "zh-TW": "嗯，我們收穫不小啊！",
+    "zh-CN": "嗯，我们收获不小啊！",
+    "ja": "うん、収穫はバッチリだね！",
+    "ko": "음, 꽤 얻은 게 많은데요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Acquiring Aurylene is our top priority on missions. I wonder what secret it hides...",
+    "zh-TW": "醚質是行動時的高優先度目標，它究竟有什麼秘密？",
+    "zh-CN": "醚质是行动时的高优先级目标，它究竟有什么秘密？",
+    "ja": "オーリレンは作戦時の優先度が高いものだけど……どんな秘密があるのかな？",
+    "ko": "오리렌은 수집 우선순위가 높은 목표예요. 도대체 어떤 비밀을 가지고 있는 걸까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Alrighty, another hurdle down! Onward to our goal!",
+    "zh-TW": "通往終末地目標的路上，又少了一些障礙。",
+    "zh-CN": "通往终末地目标的路上，又少了一些障碍。",
+    "ja": "目標へとつながる道が、また少し開けたね。",
+    "ko": "엔드필드를 막는 장애물이 또 하나 줄었네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Phew, now I can finally sit down and enjoy my coffee. Oh, I should also plan the next steps, fix up my gear, and check my bag.",
+    "zh-TW": "現在可以坐下來，思考行動、修理裝備、檢查背包，並且享用熱咖啡。",
+    "zh-CN": "现在可以坐下来，思考行动、修缮装备、检查背包，并且享用热咖啡。",
+    "ja": "今は座って、作戦を考えたり、装備を修理したり、道具箱をチェックしたり……あとは、コーヒーを飲まなきゃね。",
+    "ko": "좀 앉아 있어도 되겠어요. 작전 계획을 복기하고, 장비를 점검하면서 따뜻한 커피 한잔하는 거죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Stay calm, let's get you patched up first.",
+    "zh-TW": "別擔心，快接受治療。",
+    "zh-CN": "别担心，快接受治疗。",
+    "ja": "大丈夫、早く治療を受けて。",
+    "ko": "걱정하지 말고, 어서 치료받으세요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "A timely treatment!",
+    "zh-TW": "治療得很及時！",
+    "zh-CN": "治疗得很及时！",
+    "ja": "ナイスタイミング！",
+    "ko": "좋은 타이밍이에요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Take cover, NOW!",
+    "zh-TW": "有危險，立刻躲避！",
+    "zh-CN": "有危险，立刻躲避！",
+    "ja": "危ない！下がって！",
+    "ko": "위험해요, 빨리 피하세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "A good captain ... should never back down...",
+    "zh-TW": "身為組長……更不能後退……",
+    "zh-CN": "身为组长……更不能后退……",
+    "ja": "リーダーが……退くわけには……",
+    "ko": "팀장으로서... 물러설 수 없어요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Even if I fall ... I won't stay down.",
+    "zh-TW": "可以被擊倒……但不能被打敗。",
+    "zh-CN": "可以被击倒……但不能被打败。",
+    "ja": "倒れたとしても……負けるわけには……",
+    "ko": "쓰러지더라도... 절대 포기하진 않아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Wow, perfect execution!",
+    "zh-TW": "真是教科書式的示範！",
+    "zh-CN": "真是教科书式的示范！",
+    "ja": "お手本どおりだったよ！",
+    "ko": "모범적인 전투네요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Beautifully done! I'm amazed!",
+    "zh-TW": "漂亮！大開眼界！",
+    "zh-CN": "漂亮！大开眼界！",
+    "ja": "やったね！こんなの初めてできたよ！",
+    "ko": "정말 대단해요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "It's all about our teamwork!",
+    "zh-TW": "重要的是我們的默契！",
+    "zh-CN": "重要的是我们的默契！",
+    "ja": "息ぴったりだったね！",
+    "ko": "최고의 팀워크예요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "Couldn't have done it without you all!",
+    "zh-TW": "多虧了大家的助攻！光榮屬於我們！",
+    "zh-CN": "多亏了大家的助攻！光荣属于我们！",
+    "ja": "サポートのおかげ……みんなで勝ち取った成果だよ！",
+    "ko": "힘을 합치면 못할 게 없다고요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "We're going head-to-head, execute Plan A!",
+    "zh-TW": "是正面作戰任務，執行方案A！",
+    "zh-CN": "是正面作战任务，执行方案A！",
+    "ja": "正面突破の任務だよ。プランAで行こう！",
+    "ko": "임무 시작! 작전 A!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Let's go! I have total faith in y'all!",
+    "zh-TW": "好，相信我們之間的默契！",
+    "zh-CN": "好，相信我们之间的默契！",
+    "ja": "うん、チームワークを信じよう！",
+    "ko": "좋아요, 우리의 호흡을 믿어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Next up is AAR, PCA ... but let's cheer for our victory first!",
+    "zh-TW": "接下來要檢討、總結……不過先歡呼勝利吧！",
+    "zh-CN": "接下来要复盘、总结……不过先欢呼胜利吧！",
+    "ja": "振り返りと総括が必要だけど……まずは勝利のお祝いが先だよね。",
+    "ko": "이제 전투 복기랑... 또 분석에다가... 아, 일단은 승리를 만끽하자고요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "We're getting there — slowly but surely.",
+    "zh-TW": "離成為主力又近了一步！",
+    "zh-CN": "离成为主力又近了一步！",
+    "ja": "第一線での活躍に、また一歩近づけたね！",
+    "ko": "이제 핵심 멤버에 한 걸음 더 가까워졌어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Great job. We've all done our part for Endfield!",
+    "zh-TW": "嗯，我們都為終末地盡了一份力！",
+    "zh-CN": "嗯，我们都为终末地尽了一份力！",
+    "ja": "うん。エンドフィールドのために、全力で頑張ったよね！",
+    "ko": "우리 모두 엔드필드를 위해 최선을 다한 거니까요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "A flawless win teaches little. It's the flaws that sharpen us.",
+    "zh-TW": "比起完勝，有缺憾的勝利更有參考意義。",
+    "zh-CN": "比起完胜，有缺憾的胜利更有参考意义。",
+    "ja": "完璧な勝利より、悔いがあるほうが次に繋がるはずだよ！",
+    "ko": "완전한 승리보다는 아쉬움이 남는 승리가 더 큰 가르침을 주죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Mistakes help us learn. I'm sure we can do better next time.",
+    "zh-TW": "試錯也能帶來寶貴的經驗，我們對勝利有了更大的把握，不是嗎？",
+    "zh-CN": "试错也能带来宝贵的经验，我们对胜利有了更大的把握，不是吗？",
+    "ja": "試行錯誤だけでも貴重な経験だよ。積み重ねることで、勝利が自信に変わるんだから。",
+    "ko": "시행착오를 통해서도 소중한 경험을 얻을 수 있어요. 이로써 승리에 한 걸음 더 가까워진 거죠, 안 그래요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Watch this!",
+    "zh-TW": "看劍！",
+    "zh-CN": "看剑！",
+    "ja": "突き破る！",
+    "ko": "받아라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Piercing strike!",
+    "zh-TW": "貫穿！",
+    "zh-CN": "贯穿！",
+    "ja": "貫け！",
+    "ko": "꿰뚫어주겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Area sweep!",
+    "zh-TW": "戰術清除！",
+    "zh-CN": "战术清除！",
+    "ja": "掃討する！",
+    "ko": "전술 속행!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Make way!",
+    "zh-TW": "斬開前路！",
+    "zh-CN": "斩开前路！",
+    "ja": "切り開く！",
+    "ko": "전방 공격!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Feel the burn!",
+    "zh-TW": "嚐嚐灼痛！",
+    "zh-CN": "尝尝灼痛！",
+    "ja": "灼熱！",
+    "ko": "화염 전술!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Now's the moment!",
+    "zh-TW": "好機會！",
+    "zh-CN": "好机会！",
+    "ja": "チャンス！",
+    "ko": "좋은 기회야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Let's team up!",
+    "zh-TW": "打個配合！",
+    "zh-CN": "打个配合！",
+    "ja": "足並みを揃えて！",
+    "ko": "호흡 맞춰볼까!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Hmph! Blaze through!",
+    "zh-TW": "快閃開始！",
+    "zh-CN": "快闪开始！",
+    "ja": "疾風迅雷！",
+    "ko": "좀 더 빠르게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Now ignite!",
+    "zh-TW": "電光石火！",
+    "zh-CN": "电光石火！",
+    "ja": "電光石火！",
+    "ko": "전광석화!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "You are finished!",
+    "zh-TW": "倒下吧！",
+    "zh-CN": "倒下吧！",
+    "ja": "倒す！",
+    "ko": "쓰러져라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "This ends here!",
+    "zh-TW": "就此解決！",
+    "zh-CN": "就此解决！",
+    "ja": "これでおしまい！",
+    "ko": "이걸로 끝이다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Team, follow my flare! Let's GO!",
+    "zh-TW": "看我的信號！",
+    "zh-CN": "看我的信号！",
+    "ja": "信号弾を見て！",
+    "ko": "내 신호에 집중해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Let the hanabi rise!",
+    "zh-TW": "焰火表演開始！",
+    "zh-CN": "焰火表演开始！",
+    "ja": "ドカンと打ち上げるよ！",
+    "ko": "불꽃축제 시작!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0019_karin_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Victory strategy, engage!",
+    "zh-TW": "決勝行動方案——",
+    "zh-CN": "决胜行动方案——",
+    "ja": "このプランで勝つ――！",
+    "ko": "필승 전략!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0019_karin_1",
+   "topic": {
+    "en": "Character Study",
+    "zh-TW": "性格觀察",
+    "zh-CN": "性格观察",
+    "ja": "性格の観察",
+    "ko": "인물 관찰"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Hey Endmin, sorry to bother you!",
+      "zh-TW": "管理員，打擾一下！",
+      "zh-CN": "管理员，打扰一下！",
+      "ja": "管理人、お疲れ様です！",
+      "ko": "관리자님, 지금 시간 되시나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "I'm working on Op Z7's mission reflections. Hoping to get your advice.",
+      "zh-TW": "我在整理總結Z7行動組的任務心得，想向您請教。",
+      "zh-CN": "我在整理总结Z7行动组的任务心得，想向您请教。",
+      "ja": "ただいま行動隊Z7の任務に関する心得をまとめているのですが、よろしければご意見をいただけないでしょうか。",
+      "ko": "Z7 작전팀의 임무 성과를 정리 중인데, 관리자님의 조언을 구하고 싶어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Hehe, you're not saying no, so I'll just ask! When evaluating a field mission, what matters more to you?",
+      "zh-TW": "嘿嘿，這是表示不反對嗎？那我就提問了！對於一次外勤任務的評價，管理員更看重什麼呢？",
+      "zh-CN": "嘿嘿，这是表示不反对吗？那我就发问啦！对于一次外勤任务的评价，管理员更看重什么呢？",
+      "ja": "これは……良いということですね。では、早速質問いたします。管理人は外勤任務の評価として、何を最も重視なさいますか？",
+      "ko": "헤헤, 그건 거절하지 않는다는 의미인가요? 그럼 질문을 드릴게요! 외근 임무를 평가할 때, 관리자님은 무엇을 가장 중요하게 보시나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Objectives achieved, how everyone performed, or how well the team worked together?",
+      "zh-TW": "任務目標完成度？過程中的表現？還是隊員的默契與配合？",
+      "zh-CN": "任务目标完成度？过程中的表现？还是队员的默契与配合？",
+      "ja": "任務目標の達成度でしょうか？その過程のパフォーマンスでしょうか？それともオペレーター同士の連携でしょうか？",
+      "ko": "임무 목표의 완성도? 과정에서 보여준 역량? 아니면 팀원 간의 호흡과 협력인가요?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Well, I focus more on whether the mission objectives were achieved.",
+         "zh-TW": "那當然要看任務完成的結果了。",
+         "zh-CN": "那当然要看任务完成的结果了。",
+         "ja": "やっぱり、任務目標の達成度かな。",
+         "ko": "당연히 임무를 수행한 결과를 봐야지."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Akekuri",
+         "zh-TW": "秋栗",
+         "zh-CN": "秋栗",
+         "ja": "アケクリ",
+         "ko": "아케쿠리"
+        },
+        "text": {
+         "en": "Ha, I knew you'd be results-oriented!",
+         "zh-TW": "果然！我就猜您是結果導向型。",
+         "zh-CN": "果然！我就猜您是结果导向型。",
+         "ja": "やはり結果重視型……予想通りです！",
+         "ko": "역시! 관리자님은 결과 지향형일 거라고 예상했어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Akekuri",
+         "zh-TW": "秋栗",
+         "zh-CN": "秋栗",
+         "ja": "アケクリ",
+         "ko": "아케쿠리"
+        },
+        "text": {
+         "en": "Somehow, even the hardest missions succeed when you're there. Maybe that's why results matter most to you.",
+         "zh-TW": "不論多麼不可能的任務，只要有管理員在，最後都能奇蹟般地完成。或許就是因為這個？",
+         "zh-CN": "不论多么不可能的任务，只要有管理员在，最后都能奇迹般地完成。或许就是因为这个？",
+         "ja": "どれだけ不可能に思える任務でも、管理人がいれば奇跡のように成し遂げられる。その秘訣は、この姿勢にあるのかもしれませんね。",
+         "ko": "아무리 불가능에 가까운 임무라도, 관리자님만 있으면 결국에는 기적처럼 완수할 수 있는 이유가 혹시 그 때문인가요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Well, I focus more on how everyone performed during the mission. Process matters.",
+         "zh-TW": "我更看重在任務過程中展現出來的東西。",
+         "zh-CN": "我更看重在任务过程中展现出来的东西。",
+         "ja": "任務過程でのパフォーマンスが大事かな。",
+         "ko": "임무를 수행하는 과정에서 보여주는 역량이 더 중요하다고 생각해."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Akekuri",
+         "zh-TW": "秋栗",
+         "zh-CN": "秋栗",
+         "ja": "アケクリ",
+         "ko": "아케쿠리"
+        },
+        "text": {
+         "en": "Oh, so you're a process-oriented person.",
+         "zh-TW": "原來管理員是過程主義者。",
+         "zh-CN": "原来管理员是过程主义者。",
+         "ja": "なるほど。管理人は過程を大切に考えているのですね。",
+         "ko": "관리자님은 과정주의자시네요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Akekuri",
+         "zh-TW": "秋栗",
+         "zh-CN": "秋栗",
+         "ja": "アケクリ",
+         "ko": "아케쿠리"
+        },
+        "text": {
+         "en": "I see why you think so. Instead of just focusing on the outcome, you see process itself as the answer. Your choices, your approach, your pace... Each carries true significance.",
+         "zh-TW": "比起結果，這是一種把過程當作答案來對待的方式。選擇怎樣的方法、用怎樣的手段、堅持怎樣的節奏……本身就是意義所在。",
+         "zh-CN": "比起结果，这是一种把过程当作答案来对待的方式。选择怎样的方法、用怎样的手段、坚持怎样的节奏……本身就是意义所在。",
+         "ja": "結果よりも、過程に答えを見出す……どんな方法を選び、どんな手段を使い、どんな計画を立てるのか……それ自体に意味があると。",
+         "ko": "결과보다 과정을 하나의 답으로 여기는 방식이에요. 어떤 방법을 선택하고, 어떤 수단을 쓰는지, 그리고 어떤 속도를 유지하는지 등에 의미를 부여하는 거예요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Well, I focus more on how well the team worked together during the mission.",
+         "zh-TW": "我更看重隊員之間的默契與配合。",
+         "zh-CN": "我更看重队员之间的默契与配合。",
+         "ja": "オペレーター同士の連携を重視するかな。",
+         "ko": "팀원 간의 호흡과 협력이 더 중요하다고 생각해."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Akekuri",
+         "zh-TW": "秋栗",
+         "zh-CN": "秋栗",
+         "ja": "アケクリ",
+         "ko": "아케쿠리"
+        },
+        "text": {
+         "en": "Great minds think alike! I'm glad we're on the same page, Endmin.",
+         "zh-TW": "我也這麼覺得！好高興能和管理員達成一致。",
+         "zh-CN": "我也这么觉得！好开心能和管理员达成一致。",
+         "ja": "わたくしも同じ考えです！管理人と同じ考えを持てたこと、とても嬉しく思います。",
+         "ko": "저도 그렇게 생각해요! 관리자님이랑 의견이 같다니, 정말 기뻐요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Akekuri",
+         "zh-TW": "秋栗",
+         "zh-CN": "秋栗",
+         "ja": "アケクリ",
+         "ko": "아케쿠리"
+        },
+        "text": {
+         "en": "Trust and teamwork really show how capable a team is. Only those who can count on each other and fight side by side can go far.",
+         "zh-TW": "人與人之間的信任和默契，最能看出一個團隊的實力。能彼此託付、並肩作戰的隊伍，才能走更遠的路。",
+         "zh-CN": "人与人之间的信任和默契，最能看出一个团队的实力。能彼此托付、并肩作战的队伍，才能走更远的路。",
+         "ja": "お互いに信頼し、連携を取ることで、チームの実力が最大限に発揮できると思っています。協力してはじめて、より遠くまで進むことができるのだと。",
+         "ko": "사람과 사람 사이의 호흡이야말로 팀의 진짜 실력을 보여줘요. 서로를 믿고 함께 임무를 수행하는 팀만이 더 멀리 갈 수 있는 법이죠."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "But I've seen how you lead, you stick to your goals, pay attention to how things get done, and look out for every teammate.",
+      "zh-TW": "不過在我眼裡，管理員既會為了目標堅定不移，也很注重過程中的表現，還對每位夥伴都非常關照。",
+      "zh-CN": "不过在我眼里，管理员既会为了目标坚定不移，也很注重过程中的表现，还对每个伙伴都关照入微。",
+      "ja": "ですが、管理人は……目標のために揺るがぬ意志を持ち、過程も重視し、仲間への気配りも欠かさない方のように感じます。",
+      "ko": "근데 제가 보기에 관리자님은 목표를 향해 흔들림 없이 나아가면서도 과정에서의 역량을 중요하게 여기고, 팀원 한 사람 한 사람을 세심하게 신경 쓰시는 분 같아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Every perspective shows a different side of you, Endmin. It's hard to say which matters most to you.",
+      "zh-TW": "從每個方向都能看到不同的管理員，很難分辨出您更側重哪一面。",
+      "zh-CN": "从每个方向都能看到不同的管理员，很难区分出您更侧重哪一面。",
+      "ja": "様々な側面があり、どこを最も重視しているかを判断するのは少し難しいですね。",
+      "ko": "관리자님은 모든 면에서 다른 모습을 보여주시니까, 어떤 걸 더 중요하게 생각하시는지 구분하기 어렵네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So this isn't really about getting my advice, it's more like you're trying to observe and study me?",
+      "zh-TW": "與其說你是在討論任務評價側重點，倒不如說是在觀察分析我？",
+      "zh-CN": "与其说你是在讨论任务评价侧重点，倒不如说是在观察分析我？",
+      "ja": "なんだか、質問をしているというより……観察や分析をされているような気がするよ。",
+      "ko": "근데 임무 평가 기준을 얘기하고 있다기보다는, 나를 관찰하고 분석하고 있다고 보는 게 맞는 거 같은데?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Oopsie, you caught me :P",
+      "zh-TW": "啊，管理員，被您發現了！",
+      "zh-CN": "呀，管理员，被您发现了！",
+      "ja": "あっ……気づかれてしまいましたね……",
+      "ko": "앗, 관리자님한테 들켰네요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Please don't be mad! I have my reasons!",
+      "zh-TW": "管理員別生氣！我這麼做是有原因的！",
+      "zh-CN": "管理员别生气！我这么做是有原因的！",
+      "ja": "大変失礼いたしました……申し訳ありません！これには理由がありまして……！",
+      "ko": "관리자님, 화내지 마세요! 제가 이렇게 하는 데는 다 이유가 있어요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "At first, I was looking at Z7's mission logs. I wanted to summarize optimization tips for the team.",
+      "zh-TW": "一開始，我只是想試試看能不能從行動紀錄中，歸納出對Z7有用的改善心得。",
+      "zh-CN": "一开始，我只是想试试看能不能从行动记录中，归纳出对Z7有用的优化心得。",
+      "ja": "最初は、行動記録からZ7の改善点を探せないかと思っただけだったのです。",
+      "ko": "처음에는 작전 기록에서 Z7에 유용한 성과를 좀 추려내 볼 생각이었어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Then I expanded my search and looked into other materials... I was drawn to the role you played in the field.",
+      "zh-TW": "後來我擴大了查閱範圍，被管理員在終末地的行動中所扮演的角色吸引住了。",
+      "zh-CN": "后来我扩大了查阅范围，被管理员在终末地的行动中所扮演的角色吸引住了。",
+      "ja": "ですが、調べるうちにエンドフィールドにおける管理人のすべてに引き込まれてしまい……",
+      "ko": "근데 기록을 계속 읽다 보니, 관리자님이 엔드필드의 작전을 수행하면서 맡았던 역할에 마음이 이끌리더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "So I thought, why not make a little personality profile of you for my own reference? Don't worry, it'll stay between us!",
+      "zh-TW": "就忍不住想要為管理員做一個人格測試，作為輔助理解用途的內部資料。請放心，不會外傳的！",
+      "zh-CN": "就忍不住想要为管理员做一个人格画像，作为辅助理解用途的内部资料。请放心，不会外传的！",
+      "ja": "管理人の資料を作成したくなってしまったのです。管理人を理解するための内部用資料ですので、ご安心ください！外部に出したりはいたしません……！",
+      "ko": "그래서 관리자님을 위한 인물 프로필을 만들고 싶어졌어요. 저희 내부의 참고 자료로만 사용할 거니까 안심하세요. 외부로는 절대 유출하지 않을게요!"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Show me when it's done. I'll add anything you missed.",
+         "zh-TW": "做好了給我看看，我來補充點沒寫到的部分。",
+         "zh-CN": "做好了给我看看，我来补充些没写到的部分。",
+         "ja": "出来上がったら見せて。もし、足りないところがあったら補足するから。",
+         "ko": "다 만들면 나도 보여줘. 빠진 내용은 내가 보충해 줄게."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "If you really think it'll help, then keep observing and studying, Captain Akekuri.",
+         "zh-TW": "要是認真的，那就繼續觀察吧，秋栗組長。",
+         "zh-CN": "要是认真的，那就继续观察吧，秋栗组长。",
+         "ja": "もし本気なら、引き続き観察を続けてもらわないと。",
+         "ko": "정말 진지한 의도로 만들고 있는 거라면 계속해서 관찰해도 좋아, 아케쿠리 팀장."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Thanks, Endmin! You'll be the first to read it when I finish!",
+      "zh-TW": "謝謝管理員！在完成之後，我會呈交給您第一個閱覽。",
+      "zh-CN": "谢谢管理员！在完成之后，我会呈交给您第一个阅览。",
+      "ja": "ありがとうございます、管理人！完成次第、すぐにお持ちいたします！",
+      "ko": "감사해요, 관리자님! 완성되면 관리자님한테 제일 먼저 보여드릴게요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "And if it's okay, I'd love to put your name on it too!",
+      "zh-TW": "如果願意的話，希望屆時能留下您的署名！",
+      "zh-CN": "如果愿意的话，希望届时能署上您的名字！",
+      "ja": "完成した暁には、管理人の名前も資料に記載させていただきたく思います！",
+      "ko": "괜찮으시다면, 나중에 관리자님 이름도 같이 올리고 싶어요!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0019_karin_2",
+   "topic": {
+    "en": "Break Time",
+    "zh-TW": "偷閒時間",
+    "zh-CN": "偷闲时间",
+    "ja": "ひと休み",
+    "ko": "농땡이 시간"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Endmin, do you have a minute?",
+      "zh-TW": "管理員，現在方便聊一下嗎？",
+      "zh-CN": "管理员，现在方便聊一会儿吗？",
+      "ja": "管理人。今、少々お時間いただけますか？",
+      "ko": "관리자님, 잠깐 얘기 좀 할 수 있을까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "I'll come back later if you're busy now.",
+      "zh-TW": "如果正在忙的話，我可以等您有空時再來打擾。",
+      "zh-CN": "如果正忙的话，我可以等您空闲时再来打扰。",
+      "ja": "もし忙しいようでしたら、またお声掛けいたします。",
+      "ko": "지금 바쁘시면, 나중에 한가하실 때 다시 찾아올게요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I'm just taking a rare breather between missions.",
+         "zh-TW": "我正在享受任務間隙難得的平靜。",
+         "zh-CN": "我正在享受任务间隙难得的平静。",
+         "ja": "ちょうど、任務の合間だよ。滅多にない静かな時間を味わっていたんだ。",
+         "ko": "다음 임무까지 잠깐의 휴식 시간을 즐기고 있었어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Things haven't been easy, so I decided to steal a little break. I'm not slacking off though.",
+         "zh-TW": "狀態不太輕鬆，所以我決定短暫地偷一下懶。",
+         "zh-CN": "状态不大轻松，所以我决定短暂地偷一下懒。",
+         "ja": "気が休まらないことも多い……から、ちょっとサボっていた。",
+         "ko": "기분 전환이 필요한 것 같아서, 잠시 농땡이 좀 피우려던 참이야."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Looks like I caught you at just the right time :P",
+      "zh-TW": "看來我「打擾」得正是時候。",
+      "zh-CN": "看来我“打扰”得正是时候。",
+      "ja": "では、わたくしの「お邪魔」もちょうど、ぴったりでしたね！",
+      "ko": "딱 좋은 타이밍에 제가 '방해'하러 온 것 같네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Endmin, when you need to relax, what's your go-to warm drink? Coffee? Tea?",
+      "zh-TW": "管理員，如果在這種需要放鬆的時候，來一杯熱飲，您會選擇哪種？咖啡？茶？",
+      "zh-CN": "管理员，如果在这种需要放松的时候，来一杯热饮，您会选择哪种？咖啡？茶？",
+      "ja": "リラックスタイムのお供に温かい飲み物を1杯……管理人は何を選ばれますか？コーヒー？それともお茶でしょうか？",
+      "ko": "관리자님, 기분 전환이 필요할 때 커피와 차 중에서 어떤 따뜻한 음료를 마시고 싶으세요?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I drink coffee sometimes. Specific flavors only.",
+         "zh-TW": "會喝咖啡，幾種特定的口味。",
+         "zh-CN": "会喝咖啡，几种特定的口味。",
+         "ja": "コーヒーかな。いつも、決まったものしか飲まないけど……",
+         "ko": "난 커피를 마실 거야. 좋아하는 맛이 몇 가지 있거든."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Akekuri",
+         "zh-TW": "秋栗",
+         "zh-CN": "秋栗",
+         "ja": "アケクリ",
+         "ko": "아케쿠리"
+        },
+        "text": {
+         "en": "No wonder I've seen you with coffee to keep awake sometimes. If you like, I can suggest some new flavors for you to try!",
+         "zh-TW": "難怪我經常看到管理員用咖啡提神，不過有興趣的話，可以試一些新口味。",
+         "zh-CN": "怪不得我常见到管理员用咖啡提神，不过有兴趣的话，可以试一些新口味。",
+         "ja": "なるほど、そうだったのですね。管理人が気を引き締めるときにコーヒーを飲んでいるのを拝見していました。もしご興味があれば、新しい味にチャレンジしてみてくださいね。",
+         "ko": "어쩐지 관리자님이 정신을 맑게 하고 싶을 때 커피를 마시는 걸 종종 봤어요. 근데, 관심이 있으시다면 새로운 맛도 한번 시도해 보세요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I'll go for tea. Specially ones with a nice fragrance and a smooth finish.",
+         "zh-TW": "茶吧，尤其是帶清香和回甘的。",
+         "zh-CN": "茶吧，尤其是带清香和回甘的。",
+         "ja": "お茶かな。香りが良くて、後味が甘いものがいい。",
+         "ko": "차를 마실래. 특히 은은한 향이 나고 뒷맛이 달콤한 걸 좋아해."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Akekuri",
+         "zh-TW": "秋栗",
+         "zh-CN": "秋栗",
+         "ja": "アケクリ",
+         "ko": "아케쿠리"
+        },
+        "text": {
+         "en": "Eh? I thought you were a coffee fan!",
+         "zh-TW": "咦？我還以為您是咖啡派的！沒想到管理員更喜歡茶。",
+         "zh-CN": "咦？我还以为您是咖啡派的！没想到管理员更喜欢茶。",
+         "ja": "えっ……！てっきりコーヒー派だと思っていました。お茶のほうがお好きだったのですね。",
+         "ko": "어? 관리자님은 커피파라고 알고 있었는데... 차를 더 좋아하시는 줄은 몰랐네요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I prefer cold drinks!",
+         "zh-TW": "相比之下我更喜歡冷的！",
+         "zh-CN": "相比之下我更喜欢冷饮！",
+         "ja": "正直、冷たい飲み物が好きなんだ。",
+         "ko": "그보다는 차가운 음료를 더 좋아해!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Akekuri",
+         "zh-TW": "秋栗",
+         "zh-CN": "秋栗",
+         "ja": "アケクリ",
+         "ko": "아케쿠리"
+        },
+        "text": {
+         "en": "Endmin... You're always full of surprises.",
+         "zh-TW": "管理員……果然永遠讓人猜不透。",
+         "zh-CN": "管理员……果然永远让人猜不透。",
+         "ja": "管理人は……やはり予測できないお方です。",
+         "ko": "관리자님은 역시 예측 불가네요..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "But I guess I understand you a tiny bit better now.",
+      "zh-TW": "總之，感覺對管理員的瞭解又多了一點點。",
+      "zh-CN": "总之，感觉对管理员的理解又多了一点点。",
+      "ja": "とにかく、管理人の理解をまた深めることができました。",
+      "ko": "아무튼, 관리자님에 대해서 조금 더 알게 된 것 같아요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Why ask this all of a sudden?",
+         "zh-TW": "你怎麼會忽然問這個問題？",
+         "zh-CN": "你怎么会忽然问这个问题？",
+         "ja": "どうして急にこんな質問を",
+         "ko": "갑자기 그런 건 왜 물어보는 거야?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I think I know what you're up to.",
+         "zh-TW": "我想我猜到你要幹嘛了。",
+         "zh-CN": "我想我猜到你要干什么了。",
+         "ja": "君が何をするつもりか、だいたいわかったよ",
+         "ko": "네가 뭘 하려는 건지 알 것 같아."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Haha, I wasn't keeping it a secret, so I'll just say it.",
+      "zh-TW": "哈哈，本來就沒想要瞞著管理員，我就直接說吧。",
+      "zh-CN": "哈哈，本来就没想要瞒着管理员，我就直接说吧。",
+      "ja": "はい！隠すつもりは最初からなかったのですよ。では、正直に申し上げます。",
+      "ko": "하하, 처음부터 관리자님을 속일 생각은 없었어요. 그냥 솔직하게 말씀드릴게요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "I'd like to invite you to a small tea gathering with us.",
+      "zh-TW": "我想邀請您參加一次我們的小組茶會。",
+      "zh-CN": "我想邀请您参加一次我们的小组茶会。",
+      "ja": "行動隊Z7のお茶会に、管理人をお招きしたいのです！",
+      "ko": "우리 팀 다과회에 관리자님을 초대하고 싶어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Oh, is this Akekuri's Cozy Drink Party?",
+      "zh-TW": "這就是「秋栗的熱飲時間」嗎？",
+      "zh-CN": "这就是“秋栗的热饮时间”吗？",
+      "ja": "これが噂の「アケクリのお茶会」……",
+      "ko": "그게 혹시 '아케쿠리의 따뜻한 한 모금'이야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Ah! How did you know?",
+      "zh-TW": "啊！原來這都傳到管理員的耳朵裡了，真沒想到。",
+      "zh-CN": "啊！原来这都传到管理员的耳朵里了，真没想到。",
+      "ja": "えっ！管理人、ご存知だったのですか？びっくりしました……！",
+      "ko": "앗! 설마 그 소문이 관리자님한테까지 퍼진 건가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "I usually prepare tea and snacks, and while the team enjoys them, we talk missions and plans.",
+      "zh-TW": "沒錯，我是經常準備好茶點，和隊友們一邊享用，一邊布置行動、討論方案。",
+      "zh-CN": "没错，我是经常准备好茶点，和队友们一边享用，一边布置行动，讨论方案。",
+      "ja": "そうなんです。隊員と共に、お茶とお菓子を楽しみながら、行動の準備や作戦会議を行っています。",
+      "ko": "맞아요. 종종 팀원들이랑 같이 차랑 간식을 먹으면서, 작전을 짜거나 계획을 상의해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "But it's not just about planning ... it helps everyone relax and get back in rhythm. Tea makes people calm, so it's easier for them to speak up.",
+      "zh-TW": "但那不單純是為了戰術準備，而是……讓所有人都放鬆下來，重新同步節奏。在熱氣升起來的時候，人也更容易開口。",
+      "zh-CN": "但那不单纯是为了战术准备，而是……让所有人都放松下来，重新同步节奏。在热气升起来的时候，人也更容易开口。",
+      "ja": "しかし、単なる会議のためではなく……みんなでリラックスした時間を過ごして、足並みを揃える時間でもあるのです。温かい湯気に包まれれば、人は自然と口を開きやすくなるものですから。",
+      "ko": "근데 단순히 작전 준비를 위한 게 아니라... 모두가 긴장을 풀고, 다시 호흡을 맞출 수 있도록 격려하기 위한 자리기도 해요. 뜨거운 기운이 오르면 사람들이 더 쉽게 마음을 터놓을 수 있거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Maybe it's an efficient and elegant team meeting setup so people start talking about it.",
+      "zh-TW": "這可能是最別緻的行動部署會吧，所以就傳開了。",
+      "zh-CN": "这可能是最别致的行动部署会吧，所以就传开了。",
+      "ja": "少し、変わった作戦会議に感じますよね。それで、噂になってしまったのでしょうか？",
+      "ko": "아무래도 독특한 작전 회의다 보니 거기까지 소문이 퍼졌나 보네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I guess it does make things more special. Almost ceremonial, I'd say.",
+      "zh-TW": "聽起來倒像是某種儀式。",
+      "zh-CN": "听起来倒像是某种仪式。",
+      "ja": "作戦前のルーティーンみたいなこと……？",
+      "ko": "듣고 보니, 왠지 일종의 행사 같네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Yes! That little bit of ceremony is what helps the team bond. If you like, you could join us once!",
+      "zh-TW": "您說得對！儀式感，應該就是團隊凝聚的一部分吧！如果有機會，管理員也可以來參加一次？",
+      "zh-CN": "您说得对！仪式感，应该就是团队凝聚的一部分吧！如果有机会，管理员也可以来参加一次？",
+      "ja": "はい、まさに！ルーティーン……習慣化することで、チームの団結力につながっていると感じます。よろしければ、管理人にも一度ご参加いただきたいのですが……",
+      "ko": "맞아요! 그런 의례적인 행사가 팀을 하나로 만드는 방법 중 하나거든요! 나중에 기회가 되면, 관리자님도 한 번 참석해 보실래요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Oh? Are you trying to rope me in as Z7's \"advisor\"?",
+      "zh-TW": "哦？是想趁機邀請我成為Z7的「行動顧問」？",
+      "zh-CN": "哦？是想趁机邀请我成为Z7的“行动顾问”？",
+      "ja": "つまり、Z7の「顧問」になってほしいということ？",
+      "ko": "음? 이 기회에 나를 Z7의 '작전 고문'으로 초청하려는 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "No no no, it's gonna be a fun-only tea break. Even though I'm the captain, I don't want my team doing nothing but work.",
+      "zh-TW": "不不不，這次是「不聊工作的偷懶茶會」，雖然我是行動組的負責人，但我不想讓Z7變成只有訓練和行動的地方。",
+      "zh-CN": "不不不，这次是“不聊工作的偷懒茶会”，虽然我是行动组的负责人，但我不想让Z7变成只有训练和行动的地方。",
+      "ja": "そんな、そこまでは！今回は「一息ついて、サボりのお茶会」がテーマです。行動隊の隊長ではありますが、Z7を訓練と任務だけの場所にはしたくないと思っています。",
+      "ko": "그런 거 아니에요. 이번엔 '일 얘기 없는 농땡이 다과회'예요. 제가 작전팀의 책임자이긴 하지만, Z7이 훈련과 작전만 있는 곳이 되길 바라진 않거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "I'll prepare the drinks, Catcher will handle the snacks, and we'll all just sit, chat about weather, food, gossip ... maybe even play our own little board games.",
+      "zh-TW": "就是我準備飲料，卡契爾做點心，大家坐在一起，聊聊天氣、口味、八卦，然後一起玩玩我們自製的桌遊。",
+      "zh-CN": "就是我准备饮料，卡契尔做点心，大家坐在一起，聊聊天气、口味、八卦，然后一起玩玩我们自制的桌游。",
+      "ja": "わたくしが飲み物を用意して、キャッチャーはお菓子を作る。みんなで集まって、天気や好みの味、ちょっとした噂話をして……最後は、自分たちで作ったボードゲームで遊ぶんです。",
+      "ko": "제가 음료를 준비하고, 카치르가 디저트를 만들 거예요. 그리고 다 함께 앉아서 날씨나 음식 얘기 같은 소소한 잡담을 나누고, 직접 만든 보드게임을 같이하는 거죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What if everyone stops goofing off the moment I show up?",
+      "zh-TW": "要是我一來，大家都不敢偷懶了怎麼辦？",
+      "zh-CN": "要是我一来，大家都不敢偷懒了怎么办？",
+      "ja": "自分が参加したら、皆サボれなくなるんじゃないかな。",
+      "ko": "내가 참석하면, 다들 눈치 보느라 농땡이를 못 피우는 게 아닐까?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Trust me, everyone would love to have you there! Having you around lets us all chill together, and it makes the team feel tighter.",
+      "zh-TW": "剛好相反！連管理員都會和我們一起「偷懶」，反而能讓大家對終末地感到更加親近。",
+      "zh-CN": "恰恰相反！连管理员都会和我们一起“偷懒”，反而能让大家对终末地感到更加亲近。",
+      "ja": "逆です！管理人が一緒に「サボって」くだされば、エンドフィールドをもっと身近に感じられるのではないかと思っています。",
+      "ko": "정반대예요! 관리자님까지 농땡이를 피우면, 오히려 다들 엔드필드에 친근감을 더 느낄 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Then I suppose I'll come.",
+      "zh-TW": "那就恭敬不如從命了。",
+      "zh-CN": "那就恭敬不如从命了。",
+      "ja": "じゃあ、ありがたく参加させてもらおうかな。",
+      "ko": "그럼, 그 제안을 받아들여야겠네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Yay! Can't wait for you to try my special \"Akekuri Blend\" ^_^",
+      "zh-TW": "太好了，到時候，就請管理員品鑑我準備的「秋栗特調」吧。",
+      "zh-CN": "太好了，到时候，就请管理员品鉴我准备的“秋栗特调”吧。",
+      "ja": "わあ……！では、そのときは「アケクリ特製ブレンド」をお出ししますね！",
+      "ko": "잘됐네요! 나중에 관리자님이 제가 준비한 '아케쿠리 특별 조제' 음료를 맛봐주세요."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0019_karin_3",
+   "topic": {
+    "en": "Dear Mom",
+    "zh-TW": "給媽媽的話",
+    "zh-CN": "给妈妈的话",
+    "ja": "母への言葉",
+    "ko": "어머님께"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You seem a bit distracted lately. Did something happen?",
+      "zh-TW": "感覺你最近好像有點心神不寧，發生什麼事了？",
+      "zh-CN": "最近感觉你好像有点心神不宁，发生什么事了？",
+      "ja": "最近、なんだか落ち着かない感じだけど、何かあったのかな。",
+      "ko": "요즘 들어 뭔가 심란해 보이는데, 무슨 일 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "I knew I couldn't keep anything from you.",
+      "zh-TW": "果然逃不過管理員的眼睛。",
+      "zh-CN": "果然逃不过管理员的眼睛。",
+      "ja": "やはり、管理人の目はごまかせませんね……",
+      "ko": "역시 관리자님의 눈은 속일 수 없네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Couple of days ago, I got some news about my mom.",
+      "zh-TW": "前幾天我剛收到一則消息，是關於媽媽的。",
+      "zh-CN": "前几天我刚收到一则消息，是关于妈妈的。",
+      "ja": "数日前、連絡があったのです。母について……",
+      "ko": "얼마 전에 저희 엄마에 대한 메시지를 받았거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What happened? Is she alright?",
+      "zh-TW": "斯波女士？她怎麼了？",
+      "zh-CN": "斯波女士？她怎么了？",
+      "ja": "お母さんに何かあったの？",
+      "ko": "시바 여사님? 무슨 일이라도 생긴 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Thank you for asking. She's been running the company on her own, and overworked herself until she fell ill.",
+      "zh-TW": "讓管理員費心了。就是媽媽一個人操持商社的事情，勞累過度，病倒了。",
+      "zh-CN": "让管理员费心了。就是妈妈一个人操持商社的事情，劳累过度，病倒了。",
+      "ja": "ご心配をおかけして申し訳ございません。母は今、1人で会社を取り仕切っています。疲労が祟り、倒れてしまったそうです。",
+      "ko": "괜히 관리자님한테 걱정을 끼쳤네요. 사실 엄마 혼자 회사를 운영하시느라 너무 무리하셔서 병이 나셨어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You should take some time off to be with her.",
+      "zh-TW": "你可以休個假，去陪陪她。",
+      "zh-CN": "你可以休个假，去陪陪她。",
+      "ja": "休暇を取って、お見舞いに行ったらどうかな。",
+      "ko": "휴가 내고 가서 어머니를 돌봐드려."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Supervisor Perlica has already granted my leave. I'm setting out tomorrow, but I can't help feeling a little afraid.",
+      "zh-TW": "嗯。佩麗卡監督已經批准了我的假期，明天就出發。但我現在有點害怕。",
+      "zh-CN": "嗯。佩丽卡监督已经给我批了假期，明天就动身。但我现在有点害怕。",
+      "ja": "はい。ペリカ監察官からも許可をいただきましたので、明日出発する予定です。ただ……少し怖い気持ちも……",
+      "ko": "네, 펠리카 감독관님이 휴가 신청을 승인해 주셔서 내일 출발할 예정이에요. 근데 좀 두려워요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What are you afraid of?",
+      "zh-TW": "你為什麼害怕？",
+      "zh-CN": "你为什么害怕？",
+      "ja": "どうして怖いの？",
+      "ko": "뭐가 두렵다는 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Back then, my mom hoped I would stay by her side and eventually take over the family business.",
+      "zh-TW": "曾經，媽媽對我的期許，是留在她身邊，最後繼承家業。",
+      "zh-CN": "曾经，妈妈对我的期许，是留在她身边，最后继承家业。",
+      "ja": "母は、私がずっと側にいることを望んでいました。最終的には、家業を継いでほしいと期待もしていたと思います。",
+      "ko": "한때 저희 엄마는 제가 엄마 곁에 남아서 가업을 이어받기를 바라셨어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "But I chose to join Endfield instead ... and I've always carried some guilt toward her for that.",
+      "zh-TW": "但我還是選擇了終末地。我心中懷有對她的愧疚。",
+      "zh-CN": "但我还是选择了终末地。我心中怀有对她的愧疚。",
+      "ja": "ですが、私はエンドフィールドを選びました。母に対して、罪悪感をずっと抱えているのです。",
+      "ko": "근데 저는 결국 엔드필드를 선택했죠. 그래서 마음 한편에 엄마에 대한 죄책감이 남아 있어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I'm actually curious... If you had stayed with the Talos-II General Chamber of Commerce, what kind of person would you be now?",
+      "zh-TW": "我蠻好奇的，如果你留在環塔商會，會是什麼樣的人？",
+      "zh-CN": "我挺好奇，如果你留在环塔商会，会是什么样的人？",
+      "ja": "もし、君が環タロ商会に残っていたとしたら、どうなっていたんだろうね。",
+      "ko": "만약 네가 탈로스 II 상업연합회에 남았다면 어떤 사람이 되었을지 나도 궁금해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "I think I'd still work as hard as I do now, only in a different setting ... wearing formal business attire in an office, or in an evening dress at social gatherings.",
+      "zh-TW": "應該還會像現在這樣拼盡全力吧，只不過是穿著正裝，在辦公室裡處理各種企業事務，或者身著禮服穿梭在社交場合裡。",
+      "zh-CN": "应该还会像现在这样拼尽全力吧，只不过是穿着正装，在办公室里处理各种企业事务，或者披着礼服穿梭在社交场合里。",
+      "ja": "きっと、今と変わらずに全力を尽くしていたとは思います。しかし、正装で事務処理をして、ドレスを着て社交の場を飛び回っていたかもしれません。",
+      "ko": "지금처럼 최선을 다했을 거예요. 대신, 정장을 입고 사무실에 앉아서 각종 회사 업무를 처리하거나, 예복을 입고 사교 행사장을 누비는 모습이었겠지만요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "If you had made a different choice back then, that would be your life now. Perhaps it wouldn't have been such a bad one.",
+      "zh-TW": "如果當初你改變了主意的話，過的就是這種人生了，或許也不是那麼不能接受？",
+      "zh-CN": "如果当初你改变了主意的话，过的就是这种人生了，或许也不是那么不能接受？",
+      "ja": "選択によっては、そういう人生を送っていたのかもしれないね。それも、悪くなかったかもしれないよ。",
+      "ko": "만약 그때 네가 생각을 바꿨다면, 그런 삶을 살았겠지. 어쩌면 그렇게 나쁘지 않을지도 몰라."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Perhaps. There's never only one path in life.",
+      "zh-TW": "說的也是，人生不是只有一條道路。",
+      "zh-CN": "说得也是，人生不是只有一条路径。",
+      "ja": "確かに、人生に道は1つだけではありません。",
+      "ko": "그럴 수도 있죠. 인생은 한 가지 길만 있는 게 아니니까요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "But if I had gone that way, I never would've met everyone in Endfield, fought with Op Z7, or had the chance to meet you.",
+      "zh-TW": "不過那樣的話，我可能不會遇到終末地的大家，也不會和Z7行動組的夥伴們並肩作戰，更不會認識您。",
+      "zh-CN": "不过那样的话，我可能不会遇见终末地的大家，也不会和Z7行动组的伙伴们并肩作战，更不会认识您。",
+      "ja": "けれど、エンドフィールドの方々にも、Z7の仲間にも出会えず……管理人にも出会うことのできない道だとするなら……",
+      "ko": "하지만 그랬다면 엔드필드의 모두를 만나지도 못했겠죠. Z7 작전팀과 함께 싸우는 일도 없었을 거고요. 무엇보다도 관리자님을 만나지 못했을 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "And that's what makes all the difference for me.",
+      "zh-TW": "對我來說，這就是決定性的差別。",
+      "zh-CN": "对我来说，这就是决定性的差别。",
+      "ja": "わたくしにとっては、大きすぎる違いです。",
+      "ko": "저한테 있어서 그게 바로 결정적인 차이예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "It's great that you chose the path you truly wanted. Your abilities shine here.",
+      "zh-TW": "所以，你選擇了自己更想要的道路。而且你的能力也更適合這裡。",
+      "zh-CN": "所以，你选择了自己更想要的道路。而且你的能力也更适合这里。",
+      "ja": "じゃあ、自分が望む道を選んだんだね。それに、君の能力はここにふさわしいと思う。",
+      "ko": "그러니까, 넌 네가 진정 원하는 길을 선택한 거야. 게다가 네가 가진 능력은 이곳에 더 적합해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Thank you, Endmin. I meant only to share my thoughts, but it feels like we've just reviewed my whole life.",
+      "zh-TW": "謝謝管理員。我本來只是想跟您聊聊心情，卻好像變成一次人生回顧了。",
+      "zh-CN": "谢谢管理员。我本来只是想和您聊聊心情，却好像变成一次人生复盘了。",
+      "ja": "ありがたいお言葉です、管理人。本当は少しわたくしの気持ちをお話できたらと思っていただけだったのですが、人生を振り返る時間になってしまいましたね。",
+      "ko": "감사해요, 관리자님. 원래는 관리자님이랑 가볍게 속마음 얘기나 하려 했는데, 어느새 인생을 되돌아보는 시간이 되어버렸네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Sometimes it's nice to imagine the other paths life could've taken.",
+      "zh-TW": "偶爾這樣想像一下人生的可能性，也蠻好的。",
+      "zh-CN": "偶尔这样想象一下人生的可能性，也挺好。",
+      "ja": "いろんな人生の可能性を想像してみるのも、たまには悪くないよ。",
+      "ko": "가끔 이렇게 인생의 가능성을 상상해 보는 것도 꽤 괜찮네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Have you ever thought about yours? If you weren't the Endmin, what would you be doing now?",
+      "zh-TW": "管理員，您有想過另一種人生嗎？比如，如果不是終末地的管理員，現在會在做什麼？",
+      "zh-CN": "管理员，您有想过另一种人生吗？比如，如果不是终末地的管理员，现在会在做什么？",
+      "ja": "管理人は、別の人生を考えたことはありますか？もし、エンドフィールドの管理人ではなかったとしたら、何をしていたと思いますか？",
+      "ko": "관리자님은 지금과는 다른 인생을 상상해 보신 적 있으세요? 예를 들어서, 엔드필드의 관리자가 아니었다면 지금 무엇을 하고 계셨을까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Honestly, I'd probably still be doing something similar. The setting might change, but the calling wouldn't.",
+      "zh-TW": "我想我依然還是會做和在終末地時類似的事。哪怕改變形式，也改不了這點。",
+      "zh-CN": "我想我依然还是会做和在终末地时类似的事。哪怕换了形式，也改不了这点。",
+      "ja": "違う道を進んだとしても、やっていることはあまり変わらないかもしれないね。",
+      "ko": "엔드필드에서 하는 일과 비슷한 일을 하고 있지 않을까 싶어. 형태는 달라져도, 그 점만은 변하지 않을 것 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Agree. When it's your true path, things don't change much.",
+      "zh-TW": "嗯，理想的道路，是不會改變的。",
+      "zh-CN": "嗯，理想的道路，是不会改变的。",
+      "ja": "そうですね。理想への道というのは、変わらないものだとわたくしも思います。",
+      "ko": "맞아요, 자기가 꿈꾸는 길은 변하지 않아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "You have this gift for bringing people together. Even if you lived a completely different life, I think I'd still end up working with you.",
+      "zh-TW": "而且您身上有那種能夠聚集人心的特質。如果真的有這麼一天，我可能依然會是您的部下喔。",
+      "zh-CN": "而且您身上有那种能够聚集人心的特质。如果真有这么一天，我可能依然会是您的部下哦。",
+      "ja": "それに、管理人には人を惹きつける力があります。もし、違う道を進むことになったとしても、わたくしは管理人の部下でいたいと思います。",
+      "ko": "게다가 관리자님한테는 사람들의 마음을 모으는 힘이 있어요. 만약 정말로 그런 날이 온다면, 저도 여전히 관리자님의 부하로 있을지도 몰라요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "Thank you very much, Endmin. I feel a lot better now. I'll share what we talked about with mom.",
+      "zh-TW": "謝謝管理員，我好多了。我會把剛剛我們聊的東西告訴媽媽。",
+      "zh-CN": "谢谢管理员，我好多了。我会把刚刚我们聊的东西告诉妈妈。",
+      "ja": "ありがとうございます、管理人。本当に気持ちが楽になりました。母にも、今の話をしようと思います。",
+      "ko": "고마워요, 관리자님. 덕분에 한결 나아졌어요. 방금 나눈 이야기를 엄마한테도 들려줄게요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "I want her to know I'm not running from anything, and I'm not being selfish. This is a choice I made, the path I truly want.",
+      "zh-TW": "我想讓她知道，我不是在逃避什麼，也不是在任性，而是認認真真做出了選擇。",
+      "zh-CN": "我想让她知道，我不是在逃避什么，也不是在任性，而是认认真真做出了选择。",
+      "ja": "わたくしは、逃げ出したわけではない。我儘を言ったわけでもない。自分が選んだことなのだと、伝えたいのです。",
+      "ko": "엄마한테도 알려 드리고 싶어요. 제가 도망치거나 제멋대로 한 게 아니라, 진지하게 내린 결정이라는 걸요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "For that reason, I want to live my life to the fullest, pouring all my passion and effort into it, so I have no regrets.",
+      "zh-TW": "也是因為如此，我更想好好度過現在這段時間——把自己所有的熱情、努力都投入進去，不留遺憾。",
+      "zh-CN": "也正因为如此，我更想把现在这段时间过得彻底——把自己所有的热情、努力都投进去，不留遗憾。",
+      "ja": "自分の選んだ道を、この時間を、一生懸命に生きる。情熱も、努力も、すべてを注ぎ込んで。絶対に後悔しないために。",
+      "ko": "그렇기 때문에, 지금 이 시간을 더 온전히 보내고 싶어요. 제 모든 열정과 노력을 쏟아부어서, 후회를 남기고 싶지 않아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Akekuri",
+      "zh-TW": "秋栗",
+      "zh-CN": "秋栗",
+      "ja": "アケクリ",
+      "ko": "아케쿠리"
+     },
+     "text": {
+      "en": "I'll report to you when I'm back.",
+      "zh-TW": "我會回來向您報到的。",
+      "zh-CN": "我会回来向您报到的。",
+      "ja": "戻りましたら、管理人に報告に参ります！",
+      "ko": "나중에 돌아오면 관리자님한테 보고드릴게요."
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 0
+}

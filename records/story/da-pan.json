@@ -1,0 +1,3691 @@
+{
+ "slug": "da-pan",
+ "gameId": "chr_0018_dapan",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Da Pan \nGENDER: Male \nAUTHENTICATION: Hongshan Academy of Sciences \nDOB: May 19 \nRACE: Ursus \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Excellent \nCOMBAT SKILL: Standard \nTACTICAL ACUMEN: Normal \nORIGINIUM ARTS ASSIMILATION: Excellent",
+    "zh-TW": "【代號】大潘\n【性別】男\n【身分認證】宏山科學院\n【生日】5月19日\n【種族】烏薩斯\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：優良\n作戰技巧：標準\n戰術規劃：普通\n源石技藝適應性：優良",
+    "zh-CN": "【代号】大潘\n【性别】男\n【身份认证】宏山科学院\n【生日】5月19日\n【种族】乌萨斯\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：优良\n作战技巧：标准\n战术规划：普通\n源石技艺适应性：优良",
+    "ja": "【コードネーム】ダパン\n【性別】男\n【身分証明】宏山科学院\n【誕生日】5月19日\n【種族】ウルサス\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：優秀\n戦闘技術：標準\n戦術立案：普通\nアーツ適性：優秀",
+    "ko": "[코드네임] 판\n[성별] 남\n[신분 인증] 홍산 과학원\n[생일] 5월 19일\n[종족] 우르수스\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 우수\n작전 기술: 표준\n전술 계획: 보통\n오리지늄 아츠 적응성: 우수"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Da Pan (ID name: Pan Yuan) is a member of the Hongshan Academy of Sciences (HAS). He claims to be a very well-traveled chef and trader. He has joined the Specialist Tech Division as an independent, with recommendations from Operator Chen Qianyu and a letter of authentication from HAS. We also respected his personal wishes and granted him partial authority levels for canteen access. \n\nDa Pan provided an incredibly chaotic CV. His verifiable work experiences include: owner of hot pot eatery, LA-ME-DA (literal translation: Spicily Huge); tianshi at HAS; electrician; carpenter; machinist; and background extra in Heyi Quan: Zailin (literal translation: Fist of Combined Will: Revisited). \nTwo of his past experiences cannot be verified. The first was a brief stint of driving taxis at Simonch. We failed to find any commercial driving license or records for Da Pan in the said city. When I pointed out this finding, the Ursus' maw cracked into a 70-degree smile and he applied a rather powerful slap on my mechanical chassis. The second would be \"friendly assists and support\". Da Pan claims he part-timed as an ornamental burdenbeast stand-in for three days at La Fantoma. By the time I realized that I had been misled into an engrossing dialog about unlicensed taxi driving and ornamental burdenbeasts, we had already been talking for four hours — and I had neglected to ask Da Pan about the experiences that he should remember best: his time as a tianshi at HAS. \nWhile verifying his experiences in HAS, Da Pan became visibly downcast and displeased. But he quickly resumed his smile and deflected the topic with a casual joke. Then he showed me a friendly group photo of him and other ornamental burdenbeasts. I could obviously tell that he was trying to avoid talking about his disagreeable past with other Tianshi, but this is not a negative consideration for Endfield. Since Da Pan is still affected by the Science Station incident, it proves that he remains, deep inside, a HAS tianshi who upholds a strong sense of principles, responsibilities, and duty. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員大潘，本名潘遠，出身宏山科學院，自稱遊歷四方的廚師兼遊商。經幹員陳千語介紹，宏山科學院送函認證，與終末地工業合作，以個人身分加入特種技術部門。尊重幹員個人意願，額外向他開放餐廳的部分權限。\n\n大潘提供的過往履歷非常雜亂。已確認真實可靠的經歷有「辣麼大」火鍋店店長、宏山科學院天師、電工、木工、鉗工，在《合意拳·再臨》中客串過兩次背景板等。\n暫時無法考據的部分主要有兩點。首先是他自述在塞夢珂當過一段時間的計程車司機，而我們並未查詢到大潘在該城市的相關營運許可證。在我指出這點後，他的嘴角咧開超過七十度，並大力拍打起我的機械面板。另一點則是為了幫朋友「撐場面」，他在菈梵朵瑪兼職做了三天觀賞馱獸的替身。在我意識到自己被他牽著問了太多黑車司機與觀賞馱獸的事情，反而忽略了最應該詳細瞭解的天師經歷時，我們已經攀談了將近四小時。\n核實那段宏山科學院的經歷時，大潘的神情展現出明顯的惆悵和不悅，但很快，他恢復了笑容，用一個輕鬆的玩笑轉移了話題——向我展示他與觀賞馱獸們親密無間的合照。我能看出他迴避去談與那幾位天師間的齟齬，但這並不是扣分項，他至今仍為科研站的事故耿耿於懷，這剛好能證明他的內心最深處依舊是那名秉持理念和操守的宏科院天師。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员大潘，本名潘远，出身宏山科学院，自称游历四方的厨师兼游商。经干员陈千语介绍，宏山科学院送函认证，与终末地工业合作，以个人身份加入特种技术部门。尊重干员个人意愿，额外向他开放食堂的部分权限。\n\n大潘提供的过往履历非常杂乱。已确认真实可靠的经历有“辣么大”火锅店店长、宏山科学院天师、电工、木工、钳工，在《合意拳·再临》中客串过两次背景板等。\n暂时无法考据的部分主要有两条。首先是他自述在塞梦珂当过一段时间的出租车司机，而我们并未查询到大潘在该城市的相关营运许可证。在我指出这点后，他的嘴角咧开超过七十度，并大力拍打起我的机械面板。另一条则是为帮朋友“撑场子”，他在菈梵朵玛兼职做了三天观赏驮兽替身。在我意识到自己被他牵着问了太多黑车司机与观赏驮兽的事情，反倒忽略了最应当详细了解的天师经历时，我们已经攀谈了将近四小时。\n核实那段宏山科学院的经历时，大潘的神情展现出明显的惆怅和不悦，但很快，他恢复了笑容，用一个轻松的玩笑转移了话题——向我展示他与观赏驮兽们亲密无间的合影。我能看出他回避去谈与那几位天师间的龃龉，但这并不是减分项，他至今仍为科考站的事故耿耿于怀，恰恰能证明他的内心最深处依旧是那名秉承理念和操守的宏科院天师。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "ダパン、本名は「潘遠」。宏山科学院出身で、地方を巡るシェフ兼行商人を自称。チェン・センユーの紹介および宏山科学院の認証を受け、個人として特殊技術部に加入、エンドフィールドに協力している。本人の希望を考慮し、食堂の一部運用権限が特別に付与されている。\n\n「ダパンさんの提出した経歴は、非常に雑多で一貫性に欠けています。信憑性が高いと確認されたものは、『辣么大』火鍋店の店長、宏山科学院の天師、電気工事士、大工、組立工、さらには『合意拳・再臨』にてエキストラとして2回出演したことなどが挙げられます。」\n「一方、確認が取れなかった経歴もあります。1つは、シモンクでタクシー運転手をしていたという話です。ダパンさんが同都市で営業許可を取得した記録は確認できませんでした。この点を指摘すると、彼は口角を70度以上に引き上げ、私の操作パネルを勢いよく叩いてきました。もう1つは友人の『メンツ』のために、ラヴァンドマで3日間、観賞用駄獣の代役を務めたという話です。無免許運転や駄獣代役の話に気を取られすぎたせいで、肝心の天師としての経歴について聞きそびれたと気づいたときには、すでに4時間が経過していました。」\n「宏山科学院での経歴を確認すると、ダパンさんは一瞬、明らかに寂しげで不快そうな表情を見せました。しかしすぐに笑顔に戻り、観賞用駄獣とのツーショットを見せながら軽口を叩き、話題を変えたのです。彼がかつての天師仲間との確執について話すのを避けているのは明白です。しかし、私はそれをマイナスだと考えてはいません。彼はいまだに研究基地の事故を深く心に刻んでいます。その姿勢こそが、彼が今もなお、宏山科学院の天師としての信念と誇りを守っている証だと思うのです。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 판, 본명 판 원. 홍산 과학원 출신으로, 스스로를 '사방을 떠도는 요리사 겸 행상인'이라 소개한다. 오퍼레이터 진천우의 소개로 홍산 과학원으로부터 서면 인증을 거친 후 엔드필드 공업의 특수 기술부에 합류하였으며, 별도로 오퍼레이터 본인의 의사를 존중하여 구내식당의 일부 권한도 추가로 부여하였다.\n\n판이 제출한 이력은 아주 다양했다. 그중 확인 가능한 것은 '라머따' 훠궈집 사장, 홍산 과학원 천사, 전기공, 목수, 금속공, 영화 <합의권 · 재림> 엑스트라 출연 두 차례 등이 있다.\n검증이 어려운 이력은 크게 두 가지다. 첫째는 사이몬크에서 택시 운전사로 일했다는 주장이다. 하지만 사이몬크 시스템에서 그의 영업 자격을 조회할 수 없었다. 이를 지적했을 때 판은 그저 크게 웃으며 내 화면을 툭툭 치기만 했다. 둘째는, 친구 부탁으로 라반도르마에서 3일간 '관람용 버든비스트 대역'을 맡았다는 이야기다. 불법 택시 영업과 관람용 버든비스트 관련 질문을 하느라 정작 가장 중요한 천사 이력에 대한 질문을 놓쳤고, 그 사실을 깨달았을 때는, 판과 이야기를 나눈 지 거의 4시간이나 흐른 뒤였다.\n나중에서야 홍산 과학원에서의 과거 경력을 확인하려 했을 때, 판의 표정에 스친 것은 분명히 슬픔과 불쾌함이라는 감정이었다. 하지만 이내 미소를 지으며 버든비스트들과 찍은 사진을 보여주고, 농담과 함께 자연스럽게 화제를 돌렸다. 옛 동료 천사들과의 불화에 대해 언급하기를 피하는 것으로 보였지만, 감점 요소는 아니다. 지금까지도 당시 해당 연구 기지에서 일어났던 사고를 마음에 담아두고 있다는 점은, 오히려 마음 깊은 곳에 여전히 이상과 신념을 간직한 홍산 과학원의 천사가 남아있다는 증거니까.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "DOCUMENT: Uncle Pan the Everchenjing \nUncle Pan the Everchenjing lives in Wuling and hes like the most warmest person i've ever seen. Hes black and white and his eyes look like grapes. His ears look like gold yuanbao and he looks very cool with his sunglasses. \nUncle Pan can transform and he's got all sorts of clothes like a big white shef apron or crew overalls. Sometimes he also wears a yellow plastic hat. Uncle Pan also has a hot pot shop and tolds us that we can have meals at his place if we miss home and if we got tired of hot pot he will make other delishus stuff like mantow buns, flashy fryd kidnees, or sweet sour fins. The best food made by Uncle Pan is the veeneger bokk choy and refryd meat and he wants to make them the chefs speshow. \nBut sometimes Uncle Pan plays pranks on us. He puts spisy saos in my lunch box but tells me its magic jam so i share the magic jam with my frenz and everyone got sosejj lips. \nUncle Pan takes care of the kids and he also helps other people. He can fix power meeters, do plumming and pipes, chop the bamboos. Cos Uncle Pan is so helpful to everyone, everyone also wants to help Uncle Pan. But Uncle Pan is reely powerfol and theres nothing we can help him with, so we gave him delishus fruits and sweets... and the landlord lowerd his hot pot shop rent. Peepo say that Uncle Pan is homeless cos his home eksploddeded so he has to spend money to liv in a frenz home. \n\nOne day i ask Uncle Pan why he made no money after working for many years. He told me he spent all the money on food but later i lerned that he spent all the money on the kids... \n— Chen Qianyu \n\nHis passion and friendliness are infectious. People often start spilling their beans and sharing their stories within minutes after meeting him. But the reverse does not apply. Operator Da Pan rarely talks about his own story. Nevertheless, many still regard him as the \"friendly HAS tianshi who really knows how to cook\". A painful past may be a burden to bear. Being a listener with few words makes him a decent friend. However, being secretive and keeping to oneself are rarely good things. \nMy other concern is that after Da Pan arrived at Dijiang, many of our operators (and our Endministrator as well) began putting on significant amounts of weight... \n— Perlica",
+    "zh-TW": "《多變的潘叔》\n武夌（陵）城有一個多變的潘叔，他是我看過最熱心腸的人。他長得黑白分明，眼睛像是葡萄，耳朵則是像兩個大大的金元寶，帶（戴）著墨鏡非常帥。\n潘叔會變身，總是穿著各式各樣的衣服，有時候是白色的大圍裙，有時候是工作服，有時候會帶（戴）著黃色的塑膠帽。潘叔有一間火鍋店，說我們想家了就可以隨時去吃，如果我們火鍋吃膩了，他也會變著花樣做好吃的饅頭、火暴（爆）腰花、松尾林（鱗）給我們。最好吃的是醋留（溜）白菜跟回鍋肉，希望能成為招牌菜。\n但潘叔也有壞心腸的時候，他會在我的飯盒裡放辣交（椒）醬，跟我說是「魔法醬料」，我分給其他小朋友，大家的嘴巴都腫了。\n除了照顧小朋友外，潘叔也會特別熱心幫助其他人。他總是幫城裡的人修電錶、接水管、砍竹子。因為潘叔非常好，總是幫助大家，大家也願意幫他，但因為潘叔太厲害了，大家沒什麼能幫忙的，只能送水果跟點心……還有偷偷減兔（免）火鍋店的租金。聽說潘叔的家也在暴（爆）炸中沒有了，所以他不得不花錢住在別人家裡。\n——常客留下的泛黃作文\n\n有一次我問潘叔，為什麼他工作這麼多年卻完全沒存到錢，他說都被吃掉了，我還笑是他愛吃。後來才知道，原來是照顧了那麼多孩子……\n——陳千語\n\n人們經常會被他的熱情與親切感染，在初次見面的幾分鐘內就話停不下來，把自己的事講給他聽。但反過來，幹員大潘並不太主動去聊自己的故事，直到現在依舊有許多人對他的印象只是「很熱情、會煮飯的宏科院天師」。沉痛的過往是一種負擔，交深言淺是他特有的體貼，但把自己的事情憋在心中並非好事。\n我更擔心的是他來到帝江號上後，很多人，尤其是管理員的體重在明顯增加……\n——佩麗卡",
+    "zh-CN": "《多变的潘叔》\n武夌（陵）城有一个多变的潘叔，他是我见过最热心肠的人。他长得黑白分明，眼睛像是葡萄，耳朵则是像两个大大的金元宝，带（戴）着墨镜特别帅。\n潘叔会变身，总是穿着各种各样的衣服，有时候是白色的大围裙，有时候是作业服，有时候会带（戴）着黄色的塑料帽子。潘叔有一间火锅店，说我们想家了就可以随时去吃，如果我们火锅吃腻了，他也会变着法子给我们做好吃的馒头、火暴（爆）腰花、松尾林（鳞）。最好吃的是醋留（溜）白菜跟回锅肉，希望能成为招牌菜。\n但潘叔也有不好心肠的时候，他会往我的饭盒里放辣交（椒）酱，跟我说是“魔法酱料”，我分给其他小朋友，大家的嘴巴都肿了。\n除了照顾小朋友外，潘叔也会特别热心帮助其他人。他总是帮城里的人修电表、接水管、砍竹子。因为潘叔特别好，总是帮助大家，大家也愿意帮他，但因为潘叔太厉害了，大家没什么能帮忙的，只能送水果跟点心……还有偷偷减兔（免）火锅店的租金。听说潘叔的家也在暴（爆）炸里没有了，所以他不得不花钱住在别人家里。\n——常客留下的泛黄作文\n\n有一次我问潘叔，为什么他工作这么多年却完全没存下钱来，他说都被吃掉了，我还笑话他嘴馋。后来才知道，原来是招待了那么多孩子……\n——陈千语\n\n人们经常会被他的热情与亲切感染，在初次见面的几分钟内就竹筒倒豆子，把自己的事讲给他听。但反过来，干员大潘并不太主动去聊自己的故事，直到现在依旧有许多人对他的印象只是“很热情、会做饭的宏科院天师”。沉痛的过往是一种信息负担，交深言浅是他特有的体贴，但把自己的事情憋在心中并非好事。\n我更担心的是他来到帝江号上后，很多人，尤其是管理员的体重在明显增长……\n——佩丽卡",
+    "ja": "『ころころ変わるパンおじさん』\n武りょう（陵）城にはころころ変わるパンおじさんがいます。わたしが知っている中で一番しんせつな人です。見た目は白黒はっきりしていて、目はブドウみたいで、耳は大きなギョーザが2つついているみたいで、サングラスをかけていて、とてもかっこいいです。\nパンおじさんは変身がとくいで、いつもいろんな服を着ています。白いエプロンだったり、作業服だったり、黄色のビニールぼう（帽）をかぶっていたりします。パンおじさんは火なべのお店をやっていて、家に帰りたくなったらいつでも食べにおいでと言ってくれます。わたしたちがなべにあきたら、おかずを変えておいしいマントウや、ぶたマメいため、りんじゅう（鱗獣）フライのあんかけを作ってくれます。一番おいしいのは白菜の甘す（酢）いためとホイコーローです。お店の目玉メニューにしてほしいです。\nでもパンおじさんもいじわるをするときがあります。わたしのおべんとうにチリソースを入れて、「魔法のソース」だと言うので、お友だちに分けてあげたら、みんな口がはれてしまいました。\n子どもたちのめんどうを見ているほかに、パンおじさんは人助けにも一生けんめいです。いつも町の人のために電気メーターを直したり、水道管をつないだり、竹を切ったりしています。パンおじさんはとてもいい人で、いつもみんなを助けてくれます。みんなもおじさんを助けたいと思っていますが、パンおじさんがあまりにもすごいので、なにも助けられることがなくて、フルーツやおかしをおくっているらしいです……それからこっそりお店の家ちん（賃）をへらしてあげます。パンおじさんの家もばくはつ（爆発）でなくなったので、しかたなくお金をはらって人の家に住ませてもらっているそうです。\n――常連客が残した黄ばんだ作文用紙\n\n前に一回、パンじいに聞いたことあるんだ。なんでずっと働いてるのにお金ないのって。そしたら「全部食べられた」って……あたし、すっごい食いしん坊なんだねって、笑っちゃった！でも、あとで知ったんだ……あんないっぱいいる子どもたち全員に、ご飯食べさせてたんだって……\n――チェン・センユー\n\n皆、情に厚く親切な様子に惹かれ、会って数分も経たないうちに、つい包み隠さず自分のことを打ち明けてしまうのです。けれどその一方で、ダパンさん自身は自分のことをあまり話したがりません。多くの人にとってダパンさんは「親切で料理が上手な宏山科学院の天師」。つらい過去の話をすることは、心に負担がかかります。どれだけ深い付き合いになっても、あえて立ち入らせないのは、彼なりの思いやりなのでしょう。けれど、ずっと心の奥にしまい込んだままにしておくというのは、決していいことではありません。\nそして、もっと心配なのは……ダパンさんが帝江号に来てから、皆――特に管理人の体重が明らかに増えていることです。\n――ペリカ",
+    "ko": "<변화무쌍한 판 아저씨>\n무른(릉)성에는 변신을 잘하는 판 아저씨가 있다. 아저씨는 내가 본 사람 중에 제일 마음이 따뜻한 사람이다. 아저씨의 생김새는 뚜렷한 흑백으로 나뉘어 있고, 눈은 포도알 같고, 귀는 커다란 금원보처럼 생겼고, 선글라스를 쏘면(쓰면) 엄청 멋있다.\n판 아저씨는 변신을 잘한다. 늘 여러 가지 옷을 입고 있는데, 때로는 하얀 앞치마를 두르거나, 때로는 작업복을 입기도 하고, 또 어떤 때는 노란색 플라스틱 모자를 쏠(쓸) 때도 있다. 아저씨는 훠궈집을 하는데, 우리한테 집 생각이 나면 언제든 먹으러 오라고 했다. 훠궈가 질릴 때면, 찐빵이나 풀(불)맛을 더한 돼지 콩팥 볶음, 땅(탕)수 린수 등 여러 가지 다양한 요리도 만들어준다. 그중 최고는 식초를 넣어 새콤한 맛을 더한 배추 볶음과 회과육이다. 그 음식이 꼭 가게 대표 메뉴가 되었으면 좋겠다.\n하지만 아저씨도 장난꾸러기일 때가 있다. 내 도시락에 몰래 매운 곰추(고추) 소스를 넣고는 '마법 소스'라고 해서 친구들이랑 나눠 먹었더니 다들 입술이 퉁퉁 부어버렸다.\n판 아저씨는 아이들뿐만 아니라, 어른들도 자주 도와준다. 전기 계량기를 고쳐주거나, 수도관을 연결해 주거나, 대나무도 베어준다. 모두 아저씨를 좋아하니까, 사람들도 아저씨를 돕고 싶어 하지만, 아저씨가 너무 대단해서 따로 도와줄 일이 별로 없었다. 그래서 사람들은 과일이나 간식을 선물하거나, 훠궈집 월세를 몰래 잘라(깎아)주기도 한다. 누가 그랬는데, 아저씨의 집도 뽁발(폭발)로 사라졌다고 한다. 그래서 어쩔 수 없이 다른 사람 집에 집세를 내고 살게 되었다고 한다.\n- 단골이 남긴 약간 누렇게 바랜 글\n\n예전에 판 아저씨한테 왜 그렇게 오래 일했는데도 돈이 하나도 없냐고 물어본 적이 있는데, 그때 아저씨는 버는 족족 전부 사 먹는 데 써서 없다며 웃었고, 나는 그런 아저씨를 먹보라고 놀렸다. 하지만 나중에야 알게 됐다. 사실은 다 아이들에게 밥을 해주는 데 쓴 거였단 걸...\n- 진천우\n\n사람들은 보통 그의 따뜻함과 친근함에, 처음 만나서 조금만 대화를 나누면, 봇물 터지듯 자신 이야기를 털어놓게 되지만 정작 그는 자신의 이야기를 먼저 꺼내는 경우가 드물다. 지금까지도 대부분 사람들에게 그는 '친절하고 요리 잘하는 홍산 과학원 천사'로 기억된다. 아픔이 담긴 과거는 상대방에게 무거운 짐이 될 수도 있다. 관계가 깊어질수록 말을 아끼는 건, 오히려 그만의 배려 방식일 것이다. 그렇지만, 마음에 있는 이야기를 꾹꾹 눌러 담기만 하는 것은 결코 좋은 일이 아니다.\n그리고 더 걱정스러운 것은, 그가 제강호에 온 뒤로 많은 사람들... 특히 관리자의 체중이 눈에 띄게 늘고 있다는 점이다...\n- 펠리카"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "DOCUMENT: List of Candidates for the Vanguard Scientist Award \nAuthor: Luo Shiqiao \n\nAfter integrating observations for the three dimensions of innovation, influence, and adaptability, I recommend Tianshi Pan Yuan as the recipient for this year's Vanguard Scientist award. His work so far accrued a total of twelve academic achievements and he has attained six sustainable development goals for HAS. Very few awardees from the last ten years have achievements on par with his. And Da Pan is not yet thirty. \nAlthough I am his mentor, I can guarantee that my evaluations are completely fair and balanced. When Pan Yuan knocked on my door and described his wish to be on my project team, my first reaction was to turn him down. The young man had left a relatively poor impression with me back then. He played ping-pong with explosives, on fire. He also got several veteran (and well respected) Tianshi to perform tap dance on a digital poster of Creative Maolaguo Cuisine Lovers. He built several high-speed battleships from scraps, and attacked our subterranean cryostorage facility with his fleet. The entire building reeked of rotten fins for a month... Yes. I suppose these are minor misdemeanors that come naturally to the youths. HAS encourages all kinds of scientific exploration, and even I ended up in the emergency medical bay a few times back in my younger days. \nCertain youths play pranks to get attention. Some of them do so to sate their immense curiosity about the world. Pan Yuan doesn't quite belong to either of these categories. He is ... too smart. I saw disinterested boredom in his eyes when he was caught doing these pranks. After becoming his mentor, I realized that he committed these actions because he could. To put it in other words, he wanted to prove that he was simply better than anyone else in HAS — even when it came to pulling off pranks on campus. \nJoy comes from challenges. Take away the challenge and you deprive any opportunities for joy — and a joyless academic pursuit will never get far. A sculptor who spends every moment chipping away at stone would only leave a handful of works behind. Pan Yuan has proved to be most obstinate. This stone must be properly polished to reveal its true beauty. But only another slab of stone harder than him could hope to bring down his pride and chip away at his edges. \nI told him, \"There are several Tianshi who made significant achievements in the field of rift research. They would be better mentors than me...\" \nBut Pan Yuan replied, \"But there is a great mountain within me that must be conquered first. Your projects and research focus are the only things that match my goals.\" \nAt that moment, I saw confusion, pain, and maybe a subtle dash of cautious hope in his eyes. Maybe my judgment on his character was not entirely correct. Perhaps something changed him. As long as he is persistent, I have faith he will change for the better. \n\nAnd if you must have a reason for not giving him the award ... there is the matter of his rather impulsive temperament. And also because he was cooking in the lab and deliberately mislabeled a tub of puffed rice as \"Reducing Agent\". Maybe he didn't want others to steal his food, but this action completely wrecked my first prototype!",
+    "zh-TW": "《「先進科研工作者」獎項候選人推薦表》\n填寫人：羅時喬\n\n結合「創新、影響、適應性」三個角度，我推薦將今年的「先進科研工作者」頒發給潘遠天師。在過往工作中，他累計取得了十二項學術成果，並達成六項宏山科學院的可持續發展目標。縱觀近十年的得獎人員名單，只有極少數能做出與他現階段相同的貢獻，而且他還不到三十歲。\n雖然我是他的老師，但可以保證以上評價絕無任何偏頗之處。當潘遠敲開我辦公室的門，說想跟著我做專案時，我第一反應是拒絕。畢竟我對這位年輕人的印象並不算好。他會用正在燃燒的爆炸物打乒乓球，會在「冒辣果創意料理同好會」的電子海報上讓幾位德高望重的老天師跳踢踏舞，會用廢材料做了台迷你高速戰艦攻打地下冷凍庫，搞得大樓一整個月都充斥著腐壞的鱗肉味……是，都不算什麼，年輕人總是調皮的，宏科院鼓勵所有探索行為，我年輕時也把自己送進過急診室。\n有些孩子惡作劇是為了引起其他人注意，另一些孩子這樣做是因為他們對世界有著龐大的好奇心。潘遠這孩子的情況又有點不同，他——太聰明了。我能看出他做這些事情時眼裡的意興闌珊。成為他的老師後，我更清楚意識到他做的這一切只是因為他能做，或者說他想證明即使是惡作劇，他也能輕輕鬆鬆地比其他人做得更好，整個宏科院裡沒有他的對手。\n受到挫折，得到樂趣；沒有挫折，就沒有樂趣——沒有樂趣能在學術道路上走多遠？一名石匠不眠不休地雕琢一生，也只能留下寥寥作品。潘遠是一塊極其難啃的頑石，需要打磨才可以綻放光彩，但能讓他跌倒，以此雕琢他的，只有比他硬度更高的石頭。\n我說：「相比我而言，有幾位在裂隙研究領域的天師更有學術建樹，更適合當你的老師……」\n潘遠說：「但我現在有一座必須要去攀爬的山，只有您院裡的專案與其方向相符。」\n那瞬間，他眼神中除了迷茫與痛苦，還隱藏著一些小心翼翼的期盼。或許我對他的判斷並不全對，也或許有什麼改變了他。只要他懷著執念，我相信他會做出好的改變。\n\n若一定要問我有什麼不把獎項頒給他的理由……除了有點衝動的脾氣外，大概就是他在實驗室炒菜怕別人偷吃，在放著炒米的罐子上貼「還原劑」的標籤，害我的初號原型機報廢了吧！",
+    "zh-CN": "《“先进科研工作者”奖项候选人推荐表》\n填写人：罗时乔\n\n综合“创新、影响、适应性”三个维度，我推荐将今年的“先进科研工作者”颁发给潘远天师。在过往工作中，他累计取得了十二项学术成果，并达成六项宏山科学院的可持续发展目标。纵观近十年的获奖人员名单，只有极少数能做出与他当前阶段相同的贡献，而且他还不到三十岁。\n虽然我是他的老师，但可以保证以上评价绝无任何偏颇之处。当潘远敲开我办公室的门，说想跟着我做项目时，我第一反应是拒绝。毕竟我对这位年轻人的印象并不算好。他会用正在燃烧的爆炸物打乒乓球，会在“冒辣果创意料理同好会”的电子海报上让几位德高望重的老天师跳踢踏舞，会用废材料做了台迷你高速战舰攻打地下冷库，搞得大楼一整个月都充斥着腐坏的鳞肉味……是，都不算什么，年轻人总是调皮的，宏科院鼓励所有探索行为，我年轻时也把自己送进过急诊室。\n有些孩子做恶作剧是为了引起其他人注意，另一些孩子这么做是因为他们对世界有着庞大的好奇心。潘远这孩子的情况又有些不同，他——太聪明了。我能看出他做这些事情时眼里的意兴阑珊。成为他的老师后，我更清晰意识到他做的这一切只是因为他能做，或者说他想证明即使是恶作剧，他也能轻轻松松地比其他人做得更好，整个宏科院里没有他的对手。\n遭到挫折，得到乐趣；没有挫折，就没有乐趣——没有乐趣能在学术道路上走多远？一名石匠不眠不休地雕琢一生，也只能留下寥寥作品。潘远是一块极其难啃的顽石，需要打磨才可以绽放光彩，但能让他跌倒，以此雕琢他的，只有比他硬度更高的石头。\n我说：“相比我而言，有几位在裂隙研究领域的天师更有学术建树，更适合做你的老师……”\n潘远说：“但我现在有一座必须要去攀爬的山，只有您的院管项目与其方向相符。”\n那瞬间，他眼神中除了迷茫与痛苦，还隐藏着一些小心翼翼的期盼。或许我对他的判断并不全对，也或许有什么改变了他。只要他怀着执念，我相信他会做出好的改变。\n\n若一定要问我有什么不把奖项颁给他的理由……除了有点冲动的脾气外，大概就是他在实验室炒菜怕别人偷吃，给放着炒米的罐子贴上“还原剂”的标签，害我的初号原型机报废了吧！",
+    "ja": "『優秀研究者』賞 候補者推薦状\n記入者：ルオ・シーチャオ\n\n「革新、影響力、適応性」3つの観点から総合的に判断し、今年度の「優秀研究者」の候補者としてパン・ユェン天師を推薦いたします。これまでの業務において、彼は累計12項目の学術的成果をあげ、また宏山科学院の長期開発目標を6項目達成しました。ここ10年の受賞者と比較しても、現段階の彼と同程度の貢献をしている方はごくわずかです。しかも彼はまだ30歳にもなっていません。\n私は彼の指導をした立場ではありますが、上記の評価にはいかなるひいき目もないと保証できます。パン・ユェンが研究室の門を叩き、私のプロジェクトに参加したいと志願した際、最初は断るつもりでした。なにしろこの若者に対する印象は良いものではなかったからです。彼は燃え上がる爆発物で卓球をし、「冒辣果創作料理同好会」の電子ポスターでは尊敬すべき老天師数名にタップダンスをさせ、廃材で小型の高速戦艦を作って地下冷凍倉庫に攻撃をしかけ……おかげで研究棟はひと月ずっと腐った鱗獣の臭いが充満する羽目になりました――いえ、どれも大したことではありません。若者は悪戯をするもの。宏山科学院はあらゆる探究的行動を推奨しています。私も若い頃、自身が原因で救急治療室に運ばれたことがあります。\n他人の注意を引くために悪戯をする人もいれば、世界に対する無限の好奇心によって悪戯をする人もいます。パン・ユェンの状況はまた少し違っていて――彼は、あまりにも聡明すぎたのです。そういうことをしているときでも、彼は興味を失った退屈な眼をしている……彼の指導をするようになってから、はっきりと確信しました。彼が行う全ては、彼にそれができるから。あるいは悪戯であったとしても、他人より容易くできると証明したいからなのです。宏山科学院には、彼に敵う人材などいません。\n挫折を味わってこそ、楽しみが得られます。挫折がなければ、楽しみもありません——楽しみのないまま、学問の道をどこまで歩んでいけるでしょうか。1人の石工が不眠不休で彫り続けたとしても、残せる作品は僅か。パン・ユェンは非常に硬い原石です。磨かれなければ、光らない。しかし、彼に傷を刻み、輝きを与えることができるのは、彼より硬い石だけです。\n私はこう伝えました。「裂け目の研究において、自分よりも成果を上げている天師の方がいる。あなたには、そちらが相応しい……」\nパン・ユェンは――「でもよ……オレには登らにゃなんねェ山がある。矢印の先がおんなじなのはよう、先生のプロジェクトだけなんだぜ。」\nその瞬間の彼の眼には迷いと苦しみだけではなく、微かな期待が滲んでいました。私の判断がすべて正しいとは限りませんし、何かが彼を変えたかもしれません。彼が執念を抱いている限り、良い方向に進んでいくものと信じています。\n\n「彼に賞を与えるべきではない理由」を強いて上げるならば……少し衝動的な性格ということ、そして実験室で作った炒飯を盗み食いされないよう、保管した缶に「還元剤」のラベルを貼り、私のプロトタイプ第1号を台無しにしたことくらいでしょうか。",
+    "ko": "<'선진 과학 연구자' 후보 추천서>\n작성자: 라시교\n\n'혁신성, 영향력, 적응력' 세 가지 기준을 종합적으로 고려하여, 올해의 '선진 과학 연구자' 상 수여자로 판 원 천사를 추천합니다. 그는 지금까지 총 12건의 학술 성과를 달성했고, 홍산 과학원의 지속 가능한 발전 목표 중 6개를 성공적으로 이뤄냈습니다. 지난 10년간의 수상자 명단을 살펴보면, 그와 같은 단계에서 이 정도의 기여를 한 사람은 극소수에 불과하며, 게다가 그는 아직 서른의 나이도 되지 않았습니다.\n물론 제가 그의 스승이긴 하지만, 이 평가에 그 어떤 개인적인 감정이 포함되지 않았음을 알립니다. 처음 판 원이 제 연구실 문을 두드리면서 프로젝트에 참여하고 싶다고 했을 때 솔직히 거절하고 싶었습니다. 사실 이 젊은이에 대한 인상이 썩 좋지 않았기 때문이죠. 불붙은 폭발물로 탁구를 치질 않나, '모랄과 창의 요리 동호회' 전자 포스터에 나이 든 천사들을 탭 댄서로 그려 넣질 않나, 고철로 만든 초소형 고속 전함으로 지하 냉장고를 '공격'해서 한 달 내내 건물에 썩은 린수 냄새가 진동하게 만들질 않나... 뭐, 혈기 왕성할 때는 다들 사고 한두 번씩 치기도 하기도 하고, 홍산 과학원은 원래 모든 탐구 정신을 장려하기도 하니까요. 저도 젊은 혈기 때는 응급실을 들락날락했으니까요.\n어떤 아이는 관심을 받고 싶어서, 또 어떤 아이는 왕성한 호기심에 장난을 칩니다. 그런데 판 원의 경우는 조금 달랐습니다. 그는... 너무 똑똑했어요. 그런 짓을 저지르면서도 눈빛만은 심드렁했습니다. 스승이 된 후 더욱 명확히 깨달았습니다. 그때 그 일들은 그저 할 수 있어서, 또는 '난 이런 장난도 남들보다 훨씬 더 쉽게 잘할 수 있다.'라는 걸 증명하고 싶어서였다는 걸요. 그저 홍산 과학원에는 그의 적수가 없었을 뿐입니다.\n사람은 좌절에서 즐거움을 얻습니다, 좌절 없는 즐거움은 오래가지 못하는 법이죠. 즐거움 없는 학문의 길이란, 과연 얼마나 갈 수 있을까요? 석공 하나가 평생을 깎아도 남기는 작품은 몇 점에 불과합니다. 판 원은 정말 단단한 원석이었습니다. 갈고 닦아야 빛이 나는 법인데, 판 원이라는 바위를 좌절시키고 다듬기 위해서는 그보다 더 단단한 돌이 필요했죠.\n판 원에게 \"나보다는, 균열 연구에 더 전문적인 다른 천사가 네 스승으로 더 적합할 거다...\"라고 말한 적이 있습니다.\n판 원은 \"지금 제가 반드시 올라야 할 산이 있는데, 그 방향과 부합하는 건 선생님의 프로젝트뿐입니다.\"라고 하더군요.\n그때 그의 눈빛에서 막막함과 고통, 그리고 그 속에 숨겨진 간절한 기대를 볼 수 있었습니다. 어쩌면 제가 잘못 판단했을 수도 있고, 아니면 무언가가 그를 변하게 했을지도 모릅니다. 하지만 그가 간절함을 품고 있다면, 전 판 원 천사가 반드시 좋은 방향으로 변화할 수 있을 거라고 믿습니다.\n\n굳이 그에게 이 상을 주지 말아야 한다는 이유를 꼽으라면... 성격이 좀 급한 것 빼고는... 아, 실험실에서 만든 볶음밥을 누가 훔쳐 먹을까 봐 쌀통에 '환원제'라고 붙여놨다가 프로토타입 1호를 망가뜨린 정도가 되겠군요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "DOCUMENT: A funeral speech \nIt was an ordinary morning, like all the other mornings that HAS had received before. But when the sunlight poured into the office, my husband had already passed away in his dreams. \nHe committed his entire life to the Hongshan Academy of Sciences — Naturally there was a time when I hated it. Whenever I stepped into the corridors to deliver his meal, I felt only annoyance when I heard the all-knowing Tianshi debate each other. I didn't care if they were trying to get permanent tenure, jostling for higher positions, or really trying to get people fed. I didn't want to know why they were creating stacks of paper with no actual benefits to the environment. None of these mattered to me. \nI didn't understand why they would neglect their own lives just so others could survive and live theirs. It felt as though \"survival\" was a canon rule of the Academy, or an abstract concept. Perhaps their entire philosophy, career, and even existence was just part of this obsession of theirs. \n............ \nWith my own hands I buried my daughter's dress at this public cemetery many years ago. She was one of the 113 who left us in the early days of the Wuling Science Station. \n...My husband and I had not talked for years. When I learned that my darling girl's vital signs ceased, he was carrying out the consecutive voting process with the old Tianshi. He only called me after three days. I was in tears when I asked why we couldn't bring the children's remains back home. He only told me it was impossible. At that time, the only wish on my mind was to strap myself with explosives and take my husband and those old academicians to the grave — that is ... until two incredibly young Tianshi opposed the vote. One was Viceroy Zhuang, and the other was an Ursus. The latter made quite a scene at HAS and soon left Hongshan after submitting his resignation. \nI thought the young lad, having expressed his disagreements in such a physical manner, wouldn't attend the funeral. But I saw him before everyone gathered here. He grew up and matured. He came quietly, and left just as quietly. He shared no words with anyone ... and left nothing but a jar of Mrs. Pepper. \nAnd now with my hands I buried my husband. I still detest HAS for having devoured my entire family. Yet I know that he ... that child, and every young Tianshi standing here with us whom my late husband had mentored, you have nothing but love for the Academy. \nAt least he had flowers and his favorite hot sauce by his side when he left us. \n\nFILE: Repaired audio log \n\"Dozens of hours had passed. Unfortunately, we have picked up no vital signs in the vicinity of the Very Large Rift. Since we have a unanimous consensus, we shall act upon the decision and cease all SAR operations.\" \n\"Objection! I'm not going to argue whose proposal it was and how it ended up this way! But at least have the common decency to bring our people out, dead or alive! How could we even face their families after this?! Zhuang Fangyi, don't you dare side with them!\" \n\"Calm down and let me say something. Professor Huang... I believe Tianshi Pan is right. Giving up right now goes against the collective as well as individual spirit espoused by the HAS. I recommend continuing our SAR efforts.\" \n\"Zhuang, I couldn't believe you actually agreed with Tianshi Pan on something, but this isn't the moment or place... Listen to us. This isn't giving up. We simply couldn't get it done. As Tianshi, you should use the balance of reason and understand this is us weighing the living against the dead. Now, get back to your seats.\" \n\"Couldn't get it done?! Then think of something to get it done!\" \n\"Not everyone is like you, Pan Yuan...\" \n\"[Yanese expletive].\"",
+    "zh-TW": "【一段葬禮上的致詞】\n那是個很普通的清晨，跟宏科院每天都要迎來的清晨一樣。只是陽光照進辦公室時，我的丈夫已經在睡夢中長逝。\n他將一生都獻給了宏山科學院——所以有段時間我非常憎惡它。每當我提著飯盒走入長廊，聽著周遭那些腦中裝著數不清典籍的天師不停爭吵，我心裡只有厭煩。無論他們究竟是想端著鐵飯碗，創造一些對改善環帶狀況沒實際作用的廢紙，去爭奪一把名次更高的椅子，還是真的打算讓所有人都吃飽，這些事對我來說都不重要。\n我無法理解為什麼，為什麼他們一定要讓更多人活下去，卻又可以對自己的生命滿不在乎？就好像「活著」只是一條院規、一個抽象概念——就好像他們的思想、事業，甚至存在都只是這執念的一部分？\n…………\n許多年前，我在這處公墓親手埋下了女兒的一件衣服，她是武陵科研站那最初的一百一十三人之一。\n……我跟丈夫有許多年沒有說過話了。在我得知女兒已無生命跡象的消息時，他正在與老天師們進行連續表決，三天以後才打了一個電話給我。我哭著問他為什麼不能帶回孩子們的遺體，他只說，沒有辦法。那時我恨不得能綁上一捆爆炸物，去跟我丈夫、跟老天師們同歸於盡——直到……當時有兩位非常年輕的天師提出了反對意見，我記得有莊管代，還有一名烏薩斯——他在宏科院大鬧了一場，在那之後就遞交辭函，離開了宏山。\n我以為在鬧成那樣之後，這孩子並不會來參加葬禮，但在諸位來到這裡之前我看見了他。他長大了，成熟了很多，並沒有跟任何人說話，悄悄地來，又悄悄地走……只放下一瓶辣椒老媽。\n現在，我又親手埋下了我的丈夫。我依舊憎惡這間吞噬了我全部家人的宏山科學院，但我知道，他……還有那個孩子，以及現在站在這裡的，由我丈夫培養的小天師們，你們愛著它。\n至少在他離去的時候，有鮮花，還有他喜歡的拌飯醬。\n\n【修復的語音紀錄】\n「已經幾十個小時了。很遺憾，甚大裂隙周遭已經沒有任何生命反應。既然大家都沒有意見，我們決定停止一切搜救行動——」\n「我有意見！我現在不想再辯是誰提出的方案，為什麼會實行成這樣！但至少……至少無論生死，都要把人帶回來吧？！我們怎麼向家屬交代？！莊方宜，你別現在還偏袒——」\n「冷靜點，讓我說一句。黃老師……這次潘天師說的是對的。輕易放棄不符合宏科院的精神，無論是從集體還是個人角度，我都建議繼續搜救。」\n「小莊，你跟潘天師意見一致居然是在這種場合……聽著，我們是『做不到』。你們作為天師，心裡必須有桿秤，衡量活著的跟死了的哪邊更重要。現在，坐下！」\n「那就想辦法去做到啊！」\n「……潘遠，不是每個人都是你。」\n「去你*炎國粗口*的。」",
+    "zh-CN": "【一段葬礼上的致辞】\n那是个很普通的清晨，跟宏科院每日都要迎来的清晨一样。只是阳光照进办公室时，我的丈夫已经在睡梦中溘然长逝。\n他将一生都献给了宏山科学院——所以有段时间我非常憎恶它。每当我提着饭盒走入长廊，听着周遭那些脑中装着数不清典籍的天师不停争吵，我心里只有厌烦。无论他们究竟是想端上铁饭碗，创造些对改善环带境况没实际作用的废纸，去争夺一把名次更高的椅子，还是真的打算让所有人都吃饱，这些事对我来说都不重要。\n我无法理解为什么，为什么他们一定要让更多人活下去，却又可以对自己的生命满不在乎？就好像“活着”只是一条院规、一个抽象概念——就好像他们的思想、事业，乃至存在都只是这执念的一部分？\n…………\n许多年前，我在这处公墓亲手埋下了女儿的一件衣服，她是武陵科考站那初始的一百一十三人之一。\n……我跟丈夫有许多年没有说过话了。在我得知女儿生命体征停止的消息时，他正在与老天师们进行连续表决，三天以后才给我打了一个电话。我哭着问他为什么不能带回孩子们的遗体，他只说，没有办法。那时我恨不得能绑上一捆爆炸物，去跟我丈夫、跟老天师们同归于尽——直到……当时有两位非常年轻的天师提出了反对意见，我记得有庄管代，还有一名乌萨斯——他在宏科院大闹了一场，在那之后就递交辞函，离开了宏山。\n我以为在闹成那个样子后，这孩子并不会来参加葬礼，但在诸位来到这里之前我看见了他。他长大了，成熟了很多，并没有跟任何人说话，悄悄地来，又悄悄地走……只放下一瓶辣椒老妈。\n现在，我又亲手埋下了我的丈夫。我依旧憎恶这间吞噬了我全部家人的宏山科学院，但我知道，他……还有那个孩子，以及现在站在这里的，由我丈夫培养的小天师们，你们爱着它。\n至少在他离去的时候，有鲜花，还有他喜欢的拌饭酱。\n\n【修复的语音记录】\n“已经几十个小时了。很遗憾，甚大裂隙周遭已经没有任何生命反应。既然大家都没有意见，我们决定停止一切搜救行动——”\n“我有意见！我现在不想掰扯是谁提出的方案，为什么会实行成这样！可至少……至少无论生死，都要把人带回来吧？！我们怎么向遗属交代？！庄方宜，你别现在拉偏架——”\n“冷静点，让我说一句。黄老师……这次潘天师说的是对的。轻易放弃不符合宏科院的精神，无论是从集体还是个人角度，我都建议继续搜救。”\n“小庄，你跟潘天师意见一致居然是在这种场合……听着，我们是‘做不到’。你们作为天师，心里必须有杆秤，衡量活着的跟死了的哪边更重要。现在，坐下！”\n“那就想办法去做到啊！”\n“……潘远，不是每个人都是你。”\n“去你*炎国粗口*的。”",
+    "ja": "【葬儀での弔辞】\nそれはいつもと変わらぬ朝でした。宏山科学院が毎日迎える、いつも通りの変わらぬ朝。違っていたのは、朝日が研究室に差し込んだときに、夫が眠るように息を引き取っていたことだけです。\n夫は生涯を宏山科学院に捧げました。私は、それを受け入れられない時期もありました。お弁当を届けに向かうと、廊下ですれ違う天師たちが言い争っている……頭に数え切れないほどの書籍を詰め込んだ彼らの議論でさえ、うんざりするほどに。食うに困ることの無い職につき、文明地帯の生活を改善するわけでもない紙くずのような論文を生み出し続けたいのか、上のポストを争っているのか、あるいは本当に飢える人々をお腹いっぱい食べられるようにしたいのか……そんなことは私にはどうでもよかったのです。\n私が理解できなかったのは、なぜ彼らは「より多くの人を救う」と言いながら、自分の身体をまったく気にかけないかということです。まるで「生きる」ということはただの規則で、概念にすぎず——思想、事業、そして存在はすべてこの執念の一部でしかないように。\n……\n何年も前の話です。私はこの共同墓地に娘の服を埋葬しました。娘は武陵研究基地の最初の113人のうちの1人でした。\n……私と夫ともう何年も口を利いていませんでした。娘の心臓の音が止まったことを私が知ったとき、夫は老天師たちと複数の案件を採択している最中だったそうで、連絡が来たのはその3日後でした。私は泣きながら「なぜ子どもたちの遺体を持ち帰れないのか」と問い詰めましたが、夫は「仕方がない」、この一言だけ。私は身体に爆弾をくくりつけて、夫と老天師たちを共に吹き飛ばしてやるのだと——そのとき、年若い2人の天師が反対の声を上げたのを覚えています。1人はゾアン代理で、もう1人のウルサスは——宏山科学院で大暴れして、その後辞表を出して、宏山科学院を出ていってしまったそうです。\nそんな騒動がありましたから、その方は葬儀には来ないのだろうと思っていました。しかし、皆さんがここにいらっしゃる前に姿を見かけたのです。彼は……とても成長して、ずっと大人になっていました。誰と言葉を交わすこともなく、静かにやって来て、静かに去ってゆきました……辣椒老媽を1瓶だけ置いて。\n今、私は再びこの手で夫を埋葬しました。家族からすべてを奪った宏山科学院を憎んでいることに変わりはありません。しかし、夫は……それから娘も、そして今ここにいらっしゃる、夫が育てた天師の皆さんも、宏山科学院を愛していると、知っています。\n少なくとも夫の旅立ちには、たくさんの花と、好物のチリソースがあるのですから。\n\n【復元された音声記録】\n「もう何十時間も経った。残念だが、巨大な裂け目の周囲には生命反応が全くない。全員、異論がなければ一切の捜索活動を打ち切ることを決定する——」\n「異議あらァ！誰のプランだとか、こんなことになった理由だとか、ゴチャゴチャ言うつもりはねェ……でもよ……どうなってようと、必ず連れ帰んなきゃなんねェ！遺族に何て説明するつもりだ！おう、ゾアン・ファンイ。今は相手の肩を持つんじゃねェぞ――」\n「冷静に。一言、申し上げます。ホアン先生……今回は、パン天師が正しいと。容易に諦めるなど、宏山科学院の理念に反する行為でございます。組織、私個人としても――捜索の継続を強く提案いたします。」\n「ゾアン……こんなときに限ってお前とパン天師の意見が一致するか……よく聞け。我々は『できない』のだ。天師として、心の中に常に天秤を持つべきなのだ。生きている者、死んだ者、どちらが重いか、量る――今すぐ、座れ！」\n「だったらよう、『できる』ようにすりゃあいい、それだけの話だ！」\n「……パン・ユェン、皆が、君のようにはなれないのだ。」\n「*炎国スラング*！」",
+    "ko": "[장례식장에서의 추도사]\n평소와 다를 바 없는 아주 평범한 아침이었어요. 홍산 과학원이 늘 맞이하는 그런 아침이었죠. 단지 그날 조금 달랐던 건, 햇살이 비치는 연구실에서 남편이 잠든 채 갑작스럽게 세상을 떠났다는 것뿐이었어요.\n그이는 평생을 홍산 과학원에 바쳤어요. 그래서 저는 한때는 과학원이 너무나도 원망스러웠어요. 도시락을 들고 복도를 걸을 때마다, 주변에서 수많은 문헌을 외우고 있는 천사들이 논쟁하는 소리를 들을 때마다, 제 마음속은 짜증으로 가득했습니다. 그들이 안정적인 직장을 원하든, 밴드의 상황 개선에 도움도 안 되는 않는 종이 쪼가리를 만들어내며 더 높은 자리를 노리는 것이든, 정말 배고픈 사람들을 위해 연구를 하고 있든 솔직히 제겐 전혀 중요하지 않았어요.\n도무지 이해할 수 없었어요. 왜 그 사람들은 더 많은 사람을 살려야 한다면서, 정작 자신의 목숨에는 그토록 무심할 수 있는 걸까요? 마치 '살아 있다는 것'조차 그저 하나의 규정, 개념, 철칙에 불과한 것처럼요... 마치 그들의 사상과 사명, 존재 자체가 다 그 집착의 부속품이라도 되는 것 같았어요.\n......\n몇 년 전, 저는 이 묘지에 딸의 옷 한 벌을 묻었어요. 그 아이는 무릉 연구 기지 최초의 113명 중 한 명이었죠.\n...몇 년 동안이나 남편과 대화하지 않았어요. 딸의 바이탈 사인이 정지했다는 소식을 들었을 때, 그이는 나이 든 천사들과 끝없는 찬반투표에 한창이었고, 무려 사흘이 지나고서야 제게 전화했죠. 왜 아이들의 시신조차 찾아올 수 없는 거냐고 울며 물었더니, 그저 어쩔 수 없는 결정이었다고만 하더군요. 그때 전, 폭발물을 몸에 두르고 남편과 나이 든 천사들과 함께 죽고 싶다는 생각까지 했죠... 그러던 어느 날, 사건 당시 젊은 천사 두 명이 반대 의견을 냈었다는 이야기를 전해 들었어요. 한 명은 장 선생이었고, 다른 한 명은 어떤 우르수스 천사였다고 해요. 그 천사가 홍산 과학원을 발칵 뒤집어 놓고는, 사직서를 내고 과학원을 떠났다고 들었어요.\n그런 소동을 벌인 후였으니, 장례식엔 당연히 안 올 줄 알았어요. 하지만 여러분이 도착하기 전에, 그 분이 오신 걸 봤어요. 몰라볼 정도로 많이 크고, 훨씬 성숙했더군요. 아무에게도 말 한마디 걸지 않고, 조용히 왔다가, 조용히 떠났어요... 맘스페퍼 한 병만 남겨둔 채로요.\n이제 전 남편도 제 손으로 보내줘야 하네요. 여전히 제 가족을 모두 앗아간 홍산 과학원이 너무나도 원망스럽지만, 잘 알아요... 그이도, 아까 다녀가신 그 분도, 그리고 지금 이 자리에 서 있는, 그이가 길러낸 여러분도, 홍산 과학원을 사랑하고 있다는 것을.\n적어도, 남편이 떠나는 이 순간엔 꽃과 그이가 좋아하던 비빔 소스도 함께 있으니... 참 다행이에요.\n\n[복원된 음성 기록]\n\"벌써 수십 시간이 지났습니다. 유감스럽게도, 대균열 인근 지역에서 더 이상 생명 반응이 감지되지 않습니다. 모두 이견이 없다면, 수색 및 구조 작업을 여기서 종료하도록...\"\n\"이의 있습니다! 누가 그따위 안을 냈는지, 왜 이 지경이 됐는지 따지고 싶진 않습니다. 하지만 최소한... 최소한 죽었든 살았든, 사람은 데리고 돌아와야 하는 거 아닙니까?! 유가족한테는 뭐라고 말할 겁니까?! 장방이, 나 말릴 생각하지 말고...\"\n\"진정하고, 제 말 좀 들어주세요. 황 선생님... 이번엔 판 천사님 말씀이 맞습니다. 쉽게 포기하는 건 홍산 과학원의 정신에도 어긋납니다. 집단의 입장에서도, 개인의 입장에서도, 저는 수색 작업을 계속하는 게 맞다고 생각합니다.\"\n\"방이, 자네가 판 천사 편을 드는 날이 올 줄이야... 잘들어, 안 하는 게 아니라, '할 수가 없는 거야'. 자네들도 천사잖나. 산 사람과 죽은 사람, 어느 쪽이 더 중요한지 가늠할 줄은 알아야지. 더 이상 말할 필요 없네, 앉으시게.\"\n\"그러면, 할 수 있도록 방법을 생각해 내야죠!\"\n\"...판 원, 모두가 자네 같을 순 없다네.\"\n\"이런, *염국 욕설* 같은.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "An Investigation on the Joint Applications and Efficiency of Xiranite Machine Automation Control Systems in the Automated Industry Complex \nABSTRACT: This investigation specifically focuses on the automation of Xiranite machinery and discusses potential possibilities and concepts for jointly applying said machinery in the Automated Industry Complex. This paper explores actual scenarios and applications for inter-disciplinary and multi-sector efforts for integrated Blight containment and remediation, and summarizes methodologies that improves safety guarantees as well as the efficiency of coordinated operations. The aim... \nKeywords: mechanical engineering; Endfield Industries; rift; Blight; cooking; food safety; efficiency optimization; \n............ \nREFERENCES: \n[1] Endfield Industries. Ten Year Plan and Recommended Milestones for the Automated Industry Complex. \n[2] Endfield Industries. Sharing of Open Source Technologies of AIC Automation Approaches. \n[3] Endfield Industries. An Overview of Applied Technologies of Originium Circuitry. \n[4] Huang, M.Z. and Luo, S.Q., Field Applications of Xiranite Protoforms in the Remediation of Blight Trauma. \n............ \nACKNOWLEDGMENT: It isn't an everyday thing when you can simply open the dorm room to converse with authors of the works you cited in your younger days. I know I helped solve a few problems here and there, but looking at the bigger picture, I actually received way more assistance in return... \n\n\"The paper... Argh. Don't flatter me, Endmin. I'll get really embarrassed. It's just based on the basic theories you came up with years ago. This is far from a breakthrough.\" \n\"...\" \n\"It's kinda funny, really. I'm already forty plus, yet I'm still obsessed about climbing the highest mountain. There's a little panda deep within me... If I ever mentioned this to people in HAS, I would end up as joke material. They'd laugh and say how far Pan Yuan had fallen.\" \n\"...\" \n\"Mountains would only get higher, so the highest peak is always beyond reach? Ohoho. I admire your confidence! But the more you say it, the greater my urge to challenge the hike. By the way, I've been looking up about your Automated Industry Complex and worked out a brand new tech. It's something you never wrote about...\" \n\"...\" \n\"I'm definitely not your match. I call this joint growth through competition! If you want me to be honest with you, it's because ... your AIC Factory is terrific. I like this tech. From the bottom of my heart. If only we had this tech back then... If I could get this AIC when I was twenty...\" \n\"...\" \n\"You're right. It's never too late...!\"",
+    "zh-TW": "《息壤機械自動化控制系統在集成工業系統中的協作應用與效率最佳化研究》\n摘要：聚焦息壤機械自動化，討論其在集成工業系統中協作應用的可能性與思路。本文剖析了跨專業、跨領域聯合治理侵蝕的具體應用情形，並總結提升安全保障與協作效率的方法論，旨在……\n關鍵字：機械工程、終末地工業、裂隙、侵蝕、烹飪、食品安全、效率優化；\n…………\n參考文獻：\n[1]終末地工業・關於集成工業系統的十年規劃與遠景建議\n[2]終末地工業・集成工業自動化思路的開源技術分享\n[3]終末地工業・源石迴路應用技術綜述\n[4]黃明征、羅時喬・息壤原型在侵蝕創傷修復中的實際應用\n…………\n致謝：一推開宿舍門，就能跟你年輕時引用文獻的作者對話可是個不常見的事。雖然我是為人家解決了一些麻煩，但總體來說，人家給我的幫助多多了……\n\n管理員，這篇論文……欸，您別誇我，太害羞了。這些東西依舊是從您當年那些基礎理論上生出來的，談不上什麼突破，還差得遠呢。」\n「……」\n「您說可笑不可笑，都四十幾歲的人了，還一直想去爬最高的山，多幼稚……我要是跟宏科院的其他人說這件事，說我潘遠會自慚形穢，他們一定會把我笑死！」\n「……」\n「山會越長越高，所以一輩子都爬不過？唉唷，我就欣賞您身上這種自信！可是您越這麼說，我可就越想挑戰了。對了，我最近看著集成工業系統，還真的研究出來一個新的技術，連管理員您都沒有寫過的……」\n「……」\n「那一定不是把您當對手啊，咱們這叫『攀比並共同進步』！一定要說的話，還是因為……集成工業系統真是好東西，我打從心底佩服這技術。要是我們能再早點……要是我二十歲的時候就……」\n「……」\n「您說得對。不晚……！」",
+    "zh-CN": "《息壤机械自动化控制系统在集成工业系统中的协作应用与效率优化研究》\n摘要：聚焦息壤机械自动化，讨论其在集成工业系统中协作应用的可能性与思路。本文剖析了跨专业、跨领域联合治理侵蚀的具体应用情形，并总结提升安全保障与协作效率的方法论，旨在……\n关键词：机械工程；终末地工业；裂隙；侵蚀；烹饪；食品安全；效率优化；\n…………\n参考文献：\n[1]终末地工业.关于集成工业系统的十年规划与远景建议\n[2]终末地工业.集成工业自动化思路的开源技术分享\n[3]终末地工业.源石回路应用技术综述\n[3]黄明征,罗时乔.息壤原型在侵蚀创伤修复中的实际应用\n…………\n致谢：一推开宿舍门，就能跟你年轻时引用文献的作者对话可是个不多见的事儿。虽然我是为人家解决了一些麻烦，但总体来说，人家给我的帮助多多了……\n\n“管理员，这篇论文……嗐，您别夸我，臊得慌。这些东西依旧是从您当年那些基础理论上生长出来的，谈不上什么突破，还差得远呢。”\n“……”\n“您说可笑不可笑，都四十来岁的人了，还惦记去爬最高的山，多幼稚……我要是跟宏科院的其他人说这事儿，说我潘远会自惭形秽，他们一准笑话死我！”\n“……”\n“山会越长越高，所以一辈子都爬不过？哎哟，我就欣赏您身上这种自信！可您越是这么说，我可就越想挑战了。对了，我最近看着集成工业系统，还真琢磨出来一个新的技术，连管理员您都没有写过的……”\n“……”\n“那肯定不是把您当对手啊，咱们这叫‘攀比着共同进步’！非要说的话，还是因为……集成工业系统真是好东西，我打心眼儿里佩服这技术。要是我们能再早点……要是我二十岁的时候就……”\n“……”\n“您说得对。不晚……！”",
+    "ja": "『集成工業システムにおける息壌オートメーション化制御システムの共同応用と効率化の研究』\n要約：息壌オートメーション化に焦点を当て、集成工業システムにおける共同応用の可能性と考え方を検討する。本文では専門や分野を超えて共同で侵蝕に対抗する具体的な応用状況を分析し、安全保障および協力の効率を高める方法論を総括する。その趣旨は……\nキーワード：機械工学、エンドフィールド工業、裂け目、侵蝕、料理、食品の安全、効率化\n……\n参考文献：\n[1] エンドフィールド工業「集成工業システムの10年計画と未来に関する提案」\n[2] エンドフィールド工業「集成工業自動化構想のオープンソース技術共有」\n[3] エンドフィールド工業「源石回路の応用技術総論」\n[4] ホアン・ミンチョン、ルオ・シーチャオ「侵蝕創傷修復における息壌モデルの実際の応用」\n……\n謝辞：寮のドアを開けたら、若けェ頃に引用してた文献の著者と直接話ができるなんてよう……貴重な経験だったぜ。オレも多少面倒事に手貸したけどよ、正直助けてもらったことのほうがずっと多かったからなァ……\n\n「管理人、この論文……なんでェ。そんなに褒められちゃあ、さすがに照れ臭ェな……こんなんは結局、管理人が当時築いた基礎理論の派生でしかねェんだ。進展なんて言えるもんでもねェ。まだまだってこった。」\n「……」\n「なァ、可笑しいと思わねェか？40歳を過ぎたってのによ、まだ「最高峰を目指す」なんて考えてんだぜ……バカみてェな話だ。もし宏山科学院の連中に話して、「パン・ユェンが引け目を感じてる」なんて知ったら、笑いもんになっちまう！」\n「……」\n「山は日に日に高くなる、一生かかっても登れねェ？ほう、大した話だなァ……でも、そう言われちゃあ、ますます挑戦したくなるってもんよ。それに、最近は集成工業システムの研究もしてんだ。管理人の論文にもなかった新しい技術、思いついちまったんだぜ……」\n「……」\n「もちろんおめえに対抗してるわけじゃねェよ。つまり『切磋琢磨』ってやつだ……にしても、集成工業システムは本当に良くできてらァ。オレぁこの技術に心底感心してるんだぜ。もし、もう少し早く……20歳の頃だったら……」\n「……」\n「ああ、あんたの言う通りだ。今からでも遅くなんかねェな！」",
+    "ko": "<식양 기계 자동화 제어 시스템의 통합 공업 시스템 내 적용 및 효율 최적화 연구>\n초록: 본 연구는 식양 기계 자동화를 중심으로, 통합 공업 시스템 내에서의 협업 가능성과 방향을 모색한다. 침식에 대한 여러 전문 분야와 영역을 아우르는 침식 통합 관리의 실제 적용 사례를 분석하고, 안전성 확보와 협업 효율을 향상시키기 위한 방법론을 정리하는 것을 목표로 한다...\n키워드: 기계공학, 엔드필드 공업, 균열, 침식, 요리, 식품 안전, 효율 최적화\n......\n참고 문헌:\n[1] 엔드필드 공업. 통합 공업 시스템의 10년 계획 및 장기 전망 제안\n[2] 엔드필드 공업. 통합 공업 자동화 구상의 오픈소스 기술 공유\n[3] 엔드필드 공업. 오리지늄 회로 응용 기술 개요\n[3] 황명정, 라시교. 식양 프로토타입의 침식 상처 회복에 대한 실제 응용 사례\n......\n감사의 말: 기숙사 문만 열면, 젊은 시절 제가 인용하던 참고 문헌의 저자와 직접 대화를 나눌 수 있다는 건 흔치 않은 경험입니다. 비록 제가 그의 문제를 조금 해결해 주었을 뿐, 전반적으로는 제가 받은 도움이 훨씬 많았습니다....\n\n\"관리자, 이 논문 말인가... 에이, 그렇게 칭찬하지 말게, 민망하다니깐. 이 내용들도 결국은 예전에 자네가 세운 기초 이론에서 파생된 것뿐인데, 뭘. 돌파니 뭐니, 아직 멀었다니까.\"\n\"......\"\n\"웃기지 않나? 마흔이 넘은 나이에, 아직도 가장 높은 산에 올라가겠다고 용쓰고 있다니... 내가 이 얘길 홍산 과학원 사람들한테 했다간, 그 대단한 판 원이 자격지심을 다 느낀다고 하면서 비웃을걸세!\"\n\"......\"\n\"산은 갈수록 높아져서, 평생 올라가도 못 닿는다고? 와, 역시 관리자! 나는 그 자신감이 참 좋다네. 근데 그렇게 말할수록, 더 도전해 보고 싶어지는구먼? 맞다, 이번에 통합 공업 시스템을 보면서, 관리자도 쓴 적 없는 기술 하나 생각해 냈다네!\"\n\"......\"\n\"아니, 자네를 경쟁 상대로 생각하는 게 아니라, '선의의 경쟁으로 함께 성장'하자는 거지! 굳이 말하자면... 통합 공업 시스템이 정말 물건이더라고, 진심으로 감탄하고 있다네. 그 기술을 우리가 조금이라도 더 일찍 만들어냈다면... 내가 스무 살 때 이걸 사용할 수 있었더라면...\"\n\"......\"\n\"그래, 자네 말이 맞아. 아직 늦지 않았어...!\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0018_dapan_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Oh, Endmin! Are you done with preparations?",
+    "zh-TW": "唷，管理員，傢伙都準備齊了？",
+    "zh-CN": "哟，管理员，家伙什儿都备齐了？",
+    "ja": "おう、管理人！アレは全部揃ってるか？",
+    "ko": "이보게, 관리자. 챙길 건 다 챙겼나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "We can't waste food like this — YO! Good to see you here!",
+    "zh-TW": "不能糟蹋食物——嘿，您怎麼來了？",
+    "zh-CN": "可不能糟践粮食——嘿，您怎么来了？",
+    "ja": "食べ物を粗末にしちゃいけねェ――ん、何か用か？",
+    "ko": "음식을 낭비할 수는 없는데 말이야... 어, 자네 왔나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Finally a place to stretch my limbs! Care to check out my skills?",
+    "zh-TW": "還是這裡舒服。要我露一手？",
+    "zh-CN": "还是这儿舒坦。要我露一手？",
+    "ja": "やっぱりここが落ち着くねェ。オレの腕前、見せてやるぜい！",
+    "ko": "역시 여기가 편하군. 실력을 좀 보여주지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "If you're the one calling the shots, I'll be right behind you.",
+    "zh-TW": "您辦事，我放心。",
+    "zh-CN": "您办事，我放心。",
+    "ja": "おめえが決めたことならよう、安心してやれるぜ。",
+    "ko": "자네가 일을 맡아준다면 충분히 안심할 수 있단 말이지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Hooo. This piece is well-balanced. You must have spent a fortune on it.",
+    "zh-TW": "呵！這傢伙好，您準備這個費心了！",
+    "zh-CN": "嗬，这家伙好使，您张罗这费心了！",
+    "ja": "おっ、こいつは使いやすいねェ。用意してくれて、ありがとよ！",
+    "ko": "이야, 이거 좋은데. 이렇게까지 신경 써 주는 건가!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "Haven't been fully decked out for a while. HGNH! AHH! Well, what do you think? Looks pretty good, right?",
+    "zh-TW": "很久沒試裝備了。嚄，緊了一點，不過看起來還不賴。您覺得呢？",
+    "zh-CN": "很久不试装备了。嚯，紧了点，不过瞅着还不赖。您觉着呢？",
+    "ja": "久々に試着するかァ……ちいとキツいが、見られるな。どうだ？",
+    "ko": "참 오랜만이군. 읏차, 좀 꽉 끼긴 하지만... 꽤 나쁘지 않지? 어떤가?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "If you're not good with a dish, just make it more often! I don't cook to show off. I do it to make a pretty and joyful feast!",
+    "zh-TW": "不會的菜就要多練！這可不是為了出風頭，我掌廚就圖個煮得漂亮，吃得爽快！",
+    "zh-CN": "不会的菜式就得多练！这可不是为了出风头，我掌勺就图个做得敞亮，吃得爽心！",
+    "ja": "できねェもんは練習する！別に目立ちたいわけでもねェ。鍋を振るのは、うめェメシで皆に喜んでもらうためだからよ！",
+    "ko": "잘 못하는 요리는 여러 번 연습해야 한다네! 뭘 뽐내려고 하는 게 아니라, 보기 좋게 만들어야 맛도 더 좋으니까 말이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "One is never too old to learn. The secret lies in keeping your legs in working order!",
+    "zh-TW": "活到老，學到老，重點是腿腳還要保養好！",
+    "zh-CN": "活到老，学到老，关键腿脚还得保养好！",
+    "ja": "生きてりゃ学ぶことだらけ！でもなァ……足は大事！健康が第一！",
+    "ko": "사람은 말이지, 죽을 때까지 배워야 한다네. 건강을 챙기는 것도 잊지 말고 말이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "I'm not the best pick nor the best warrior, and I am very flattered by your kindness. I don't have any wine with me, so I'll drain this teapot as a sign of my gratitude!",
+    "zh-TW": "鄙人——能力有限，程度一般，感謝賞識。以茶代酒，先乾為敬！",
+    "zh-CN": "鄙人——能力有限，水平一般，感谢赏识。以茶代酒，先干为敬！",
+    "ja": "オレなんざ――才能もねェ一般人だ。こんなオレを認めてくれてよお……酒はねェが、うめェ茶で……乾杯だ！",
+    "ko": "능력이 특출난 것도 아니고, 실력도 대단치 않은 날 이렇게나 인정해 주다니. 술 대신 차로 건배 어떤가!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0018_dapan_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "Though my talents are limited, I always live up to the task. So, I'll take this promotion. Holler me if you need something done. I won't leave you hanging out to dry.",
+    "zh-TW": "我自認不算什麼大人物，但好在辦事還算可靠，這晉升我就先接受了。有事您再吩咐我，我絕對負責到底！",
+    "zh-CN": "我自认不算什么大拿，但好在办事从不怯勺，这晋升的名头就先受着了。有事您吩咐，我绝不撂挑子拿您开涮！",
+    "ja": "オレぁ大した人物じゃねェけどよう、仕事で尻込みしたことはねェんだ。昇進、ありがたく受け取るぜ。手は抜かねェ、文句も言わねェ……とにかく、何でも言ってくれい！",
+    "ko": "내가 엄청난 전문가라고는 생각하지 않지만, 최소한 일 앞에서 주눅이 들진 않네. 필요한 게 있다면 뭐든지 말하게나, 내가 다 처리해 줄 테니까!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0018_dapan_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "That's very nice of you, but this means my shop at Wuling must stay closed for a while — Once you got the time, we'll head back, throw a feast for you ... and ask my relatives to take care of my business.",
+    "zh-TW": "有勞您擔待了。不過眼看著我武陵的店鋪又要多關一些日子——等您有空了，咱們回去擺個一大桌，讓您嚐嚐鮮，也順便拜託鄉親們繼續幫我照看鋪子。",
+    "zh-CN": "劳您担待了。不过眼瞅着我武陵的铺子又得多关些日子——等您得闲了，咱们回去摆上一大桌，让您尝尝鲜，也顺便拜托乡亲们继续帮我照看铺子。",
+    "ja": "手間かけたな。よし、武陵の店はまたしばらく閉めるかァ――暇なときにでもよう、一緒に戻ろうぜ。珍しいもんでもごちそうしてやらァ。ついでに地元の連中に店のことも頼まねェと。",
+    "ko": "고맙네. 근데 그럼 무릉의 가게를 좀 더 오래 닫아야 할 것 같군. 나중에 시간이 좀 나면 우리 같이 돌아가는 거 어떤가? 자네한테 맛있는 것도 잔뜩 만들어 주고, 겸사겸사 동네 사람들한테 가게도 좀 더 부탁하고 말이야."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0018_dapan_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "During my last Hongshan visit, my Master did everything she could to peg me to a project in the Academy. She stopped when I told her I'm now working at Endfield — Not gonna lie, Endmin, I am TRULY honored to get an official post aboard Dijiang — Hey, why are you blushing?",
+    "zh-TW": "前陣子回宏山，老師又換著方法地慫恿我回她的院裡管案子，最後還必須搬出終末地的名頭她才肯停——不管您怎麼看，但能在帝江號上混著這個差事，我與有榮焉——您怎麼還臉紅了呢？",
+    "zh-CN": "前阵子回宏山，老师又变着方儿地撺掇我回她的院管项目，最后还得搬出终末地的名头她才消停——甭管您怎么看，但能在帝江号上混着这个差事，我与有荣焉——您咋还脸红上了呢？",
+    "ja": "ちっと前に宏山に戻ったらよう、師匠がオレを科学院のプロジェクトに戻すって言ってきてなァ……エンドフィールドの名前を出さなきゃあ、納得したか……おめえの考えは知らねェが、オレは帝江号での今の仕事、誇りに思ってるんだぜ――なんでェ、顔赤くしてよう！",
+    "ko": "전에 홍산으로 돌아갔을 때 스승님이 또 날 과학원 프로젝트에 끌어들이려고 하시더군. 마지막에 '엔드필드'라는 이름을 꺼내고나서야 겨우 그만두셨지만 말이야. 자네가 어떻게 생각할지는 모르겠지만, 제강호에서 일할 수 있다는 것 자체를 참 영광이라고 생각해. 근데 자네 얼굴은 왜 또 빨개진 것 같지?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0018_dapan_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Oh, we meet again, Endmin. Got an engineering problem? Point it out, and consider it fixed! And I'll be EVEN happier if there's canteen work for me!",
+    "zh-TW": "欸，又見面了，管理員。工程上有用得到我的地方儘管說，保證幫您解決麻煩！要是您願意讓我去伙房露一手，那我就更開心了！",
+    "zh-CN": "欸，又见面了，管理员。工程上有用得上我的地方尽管言语，保管帮您解决麻烦！要是您愿意招呼我上伙房露一手，那我就更开心了！",
+    "ja": "よう、また会ったなァ、管理人。遠慮はいらねェ、工事で困ったときにゃあ、声かけてくれよう！それにもし、厨房にも入れてくれるって言うんならありがてェ話だ。腕も奮ってやるぜい！",
+    "ko": "관리자, 또 만났구먼! 공학 관련 도움이 필요하면 언제든지 말하게! 당연하겠지만, 주방 일손이 필요한 거라면 더 즐겁게 도와줄 수도 있다네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Where to next, Endmin?",
+    "zh-TW": "您這是要去哪裡？",
+    "zh-CN": "您这是要上哪儿？",
+    "ja": "どこかお出かけかい？",
+    "ko": "어디 가는 길인가?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Got a job for me? I'll handle it.",
+    "zh-TW": "有事？我幫您處理。",
+    "zh-CN": "有活儿？我替您支着。",
+    "ja": "仕事だってェ？手伝うぜ。",
+    "ko": "무슨 일이라도 있나? 내가 도와주지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Don't worry. Just take your break. I'll be right there once I squeeze into my work outfit.",
+    "zh-TW": "您先歇著，我換套作業服就過去。",
+    "zh-CN": "您先歇着，我换套作业服就过去。",
+    "ja": "ちいっと休んでな。オレは作業服に着替えてすぐ行くからよう。",
+    "ko": "좀 쉬고 있게, 작업복으로 갈아입고 금방 갈 테니까 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Once you have time, I'll throw a feast for you!",
+    "zh-TW": "有空陪您吃頓好的！",
+    "zh-CN": "有空陪您撮顿好的！",
+    "ja": "暇ならよう、うめェもんでも食おうぜ！",
+    "ko": "언제 한번 맛있는 밥 한 끼 하지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Hungry for something not offered in the Dijiang cafeteria? I can help.",
+    "zh-TW": "要是帝江號的伙食吃膩了，您隨時叫我！",
+    "zh-CN": "要是帝江号的伙食吃腻味了，您随时招呼我！",
+    "ja": "帝江号のメシに飽きたら、オレに声かけてくれい！",
+    "ko": "제강호의 음식이 질리면 언제든지 날 부르게!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0018_dapan_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "You lost weight again. Please, take better care of your health. Want me to cook something?",
+    "zh-TW": "您看起來又瘦了。這節骨眼上您更該對自己多上上心，要不幫您開點小灶？",
+    "zh-CN": "您可看着又瘦了。这节骨眼儿上您更该对自己多上上心，要不给您开点小灶？",
+    "ja": "また痩せちまったんじゃねェか？こういうときこそ自分を大切にしにゃあ……特製のメシ作ってやるか？",
+    "ko": "살이 빠진 것 같군. 이럴 때일수록 건강을 더 챙겨야 한다네. 먹고 싶은 거라도 있나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "Hrrmph. The Dijiang cafeteria wasn't hitting the right place. Don't disagree yet. Try this. I cooked it myself!",
+    "zh-TW": "哎呀，帝江號之前的伙食總是不怎麼樣。您先別反駁我，今天我掌廚，弄了點新鮮的，您先嚐嚐！",
+    "zh-CN": "哎呀，帝江号之前的伙食总是不得劲儿。您先甭反驳我，今天我掌勺，弄了点新鲜的，您先尝尝！",
+    "ja": "ヘヘッ……帝江号のメシ、前はちっとイケてなかっただろ。よし、まず反論はナシだ。今日はオレが鍋振って新しいもん作ったからよう……食ってみろい！",
+    "ko": "사실, 이전까지만 해도 제강호의 음식은 상당히 별로였다네. 아, 반박은 잠깐 넣어두게. 오늘은 내가 책임자로서 새로운 것들을 준비했으니, 이것부터 맛보고 시작하지!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0018_dapan_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Heard you talked to the youths who disagreed with me. It's alright. I don't care if they're Tianshi or chefs. Not everyone aboard Dijiang has the time to share a few words with an old panda.",
+    "zh-TW": "聽說您剛責備了那些對我說話刺了點的晚輩？其實沒關係，天師也好，廚子也罷，我聽著都開心。帝江號上也難得有願意找我聊天的同事了。",
+    "zh-CN": "听说您刚批评了那些对我说话刺了点的晚辈？其实不碍事，天师也好，厨子也罢，我听着都开心。帝江号上也难得有愿意找我聊天的同事了。",
+    "ja": "オレに注意した若ェの、叱ってくれたんだってなァ。気ぃ遣わせたな。天師だろうがコックだろうが、話だけでも嬉しいもんよ。ここじゃあ、そういう同僚はそうそう見つからねェからよう……",
+    "ko": "방금 자네가 나한테 말실수한 후배를 혼냈다고 들었네. 사실 괜찮아. 천사라고 부르든, 요리사라고 부르든, 나한테는 다 즐거운 일이거든. 제강호에서 나와 얘기할 동료를 찾는 게 쉽진 않으니까 말이야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0018_dapan_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "I see plenty of Academy tech aboard Dijiang. Actual pieces of hard work carried out by the HAS orbital tech experts — You definitely can't picture this bunch of loud, angry codgers! They'll start wars about where to place a tiny diagnostic module!",
+    "zh-TW": "我在帝江號上看到不少宏山科學院的技術，院裡軌道技術專家們的心血都真切擺在我眼前——您一定想像不出那個場面，幾位老師為了一個小自檢模組該放哪都能吵個天昏地暗。",
+    "zh-CN": "我在帝江号上看到不少宏山科学院的技术，院里轨道技术专家们的心血都真切摆在我眼前——您保管想象不出那个场面，几位老师为了一个小自检模块该搁哪儿都能吵个天昏地暗。",
+    "ja": "帝江号には、宏山科学院の技術が詰まってらァ。軌道専門家の連中が魂削って仕上げたんだ――あの連中、こんな小せェ検査モジュールの置き場所1つでああだこうだ大声でやり合ってたなあ……",
+    "ko": "제강호에서 홍산 과학원의 기술을 많이 봤네. 과학원의 궤도 기술 전문가들이 피땀 흘려 만들어낸 것들이 눈앞에 생생하게 펼쳐져 있더군. 자네는 상상도 못 하겠지, 그 대단한 전문가들이 모여 작은 자체 테스트 모듈 하나를 어디에다 둘지 논쟁하는 모습을 말이야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0018_dapan_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "Endfield dorm rooms aren't big enough! No disrespect, but I just did a morning stretch and ended up bruising my elbows and knees. PLEASE! Do something!",
+    "zh-TW": "不是駁您的面子，終末地的宿舍不夠大啊！早上我伸個懶腰，胳膊和膝蓋就都磕瘀青了。您幫忙想想辦法！",
+    "zh-CN": "不是驳您面子，终末地的宿舍不够大呀！早上我伸个懒腰，胳膊和膝盖就都磕青了。您给想想法子！",
+    "ja": "メンツを潰すつもりは無いんだけどよ。エンドフィールドの寮はちぃとばかり狭え……朝、腰を伸ばしただけでよう……腕も足もケガしちまうぜ。どうにかしてくれねェか？",
+    "ko": "자네한테 뭐라고 하려는 건 아니지만, 엔드필드의 숙소가 너무 좁다고 생각하지 않나? 아침에 기지개를 켜다가 팔과 무릎을 세게 부딪쳤단 말이네. 방법을 좀 생각해 보게."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0018_dapan_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "If you see Andre, tell the Big Owl that — he owes an Old Panda his latest ideas! AND tell him to stop hiding from me!",
+    "zh-TW": "您要是見到安德烈，就幫我打招呼一句——我還等著聽他的新思路呢！他怎麼還躲著我啊？",
+    "zh-CN": "您要见到安德烈，就替我招呼一句——我还等着听他的新思路呢！他怎么还躲着我啊？",
+    "ja": "もしアンドレイに会ったら伝えておいてくれねェか――新しいアイディア、早く見せてくれってよ！ったく、なんでオレを避けるかねェ？",
+    "ko": "안드레를 만나면 나 대신 안부를 좀 전해주겠나? 그 친구의 새로운 아이디어를 듣고 싶거든! 왜 날 계속 피하는 건지, 원..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0018_dapan_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Found you, Endmin! Here! Something special straight from Hongshan!",
+    "zh-TW": "總算逮到您了，管理員！專門弄來的特產，接好囉！",
+    "zh-CN": "总算逮着您了，管理员！专门弄来的特产，接好咯！",
+    "ja": "やっと捕まえたぜ、管理人！せっかくの土産だ、受け取ってくれい！",
+    "ko": "드디어 자네를 만났군, 관리자! 특별히 준비한 선물이네, 받게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "I am deeply honored!",
+    "zh-TW": "承蒙關照！",
+    "zh-CN": "承蒙关照！",
+    "ja": "いつもありがとよ！",
+    "ko": "챙겨줘서 고맙네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "I know you got tons of lab work lying around, so you can set me on the task! I've been a proud chef, electrician, carpenter, chauffeur, and roadside entrepreneur. So, I can do ANYTHING. Oh, you got a question about this \"Vanguard Worker\" flask? Heheh, I just use it for tea.",
+    "zh-TW": "您有麻煩儘管找我，咱什麼活沒幹過！廚子、電工、木工、司機，甚至擺攤都稱得上職業。畢竟實驗室裡要忙的事很多。「先進科研工作者」？嘿嘿，只是我順手拿來泡茶的杯子而已。",
+    "zh-CN": "您有麻烦尽管找我，咱什么活没干过！厨子、电工、木工、司机，甚至练摊儿都称得上职业。毕竟实验室里要忙活的事儿很多。“先进科研工作者”？嘿嘿，只是我顺手拿来泡茶的杯子而已。",
+    "ja": "困りごとがあったら、なんでも言ってくれい！コックに電気工事、木工に運転手、屋台だってお手の物。研究所でも山程仕事してたしなァ……「優秀研究者」だってェ？へへっ、それはただの茶飲み用の器よ。",
+    "ko": "문제가 있으면 언제든 날 찾아오게, 내가 다 해결해 주겠네! 요리사, 전기공, 목수, 운전사, 심지어 노점상까지 안 해본 직업이 없지. 실험실에서는 해야 할 일이 많으니까 말이야. '선진 과학 연구자'라고 적힌 컵 말인가? 하하, 별거 아니네. 차 마실 컵 정도는 있어야 하지 않겠나."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Endmin, do visit the Hongshan Academy of Sciences headquarters. Even if you're not excited about visiting a new place, the student debates can be quite exciting. You probably don't remember, but plenty of pioneering projects cite your work — Wait. I ... actually referenced your paper as well.",
+    "zh-TW": "管理員，有機會您得去宏山科學院本部遛遛。哪怕不是為了圖新鮮，只是去聽聽學生們的辯論。許多前沿課題會引用您過去的研究，雖然您都忘了——說起來，我的論文是不是也引用了您的文章來著？",
+    "zh-CN": "管理员，有机会您得去宏山科学院本部遛遛。哪怕不为图新鲜，只是去听听学生们的辩论。许多前沿课题会引用您过去的研究，虽然您都忘了——说起来，我的论文是不是也引用了您的文章来着？",
+    "ja": "管理人、時間があるときにでも宏山科学院の本部に遊びにこねェか？新しいもんだけじゃねえ、学生の議論聞くだけでも面白ェもんだぜ。それにおめえの昔の研究は引っ張りだこだしよう。本人が忘れてても——あ、そういやあオレも引用させてもらってたなァ……へへっ。",
+    "ko": "관리자, 언제 한번 홍산 과학원의 본부에 들러보게. 자네한테 새로운 경험은 아닐지도 모르지만, 학생들의 얘기를 들어본다는 것 자체가 큰 의미가 아니겠나. 수많은 연구가 자네의 과거 연구를 인용하고 있으니까 말이야. 물론 자네는 다 잊었겠지만. 그러고 보니... 내 논문에도 자네의 글을 인용한 적이 있는 것 같은데?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0018_dapan_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "This black iron wok of mine keeps out both rain, fire, and even etched bullets. When necessary, I can just wear it on my back and it gets me covered nice and safely! Well, Endmin, going the extra mile will earn us a slight advantage when we need it most. This is a good deal. I say we take it.",
+    "zh-TW": "我這口大黑鍋，防雨防火，還防蝕刻彈，必要時候往身上一背，能擋不少事！管理員，咱們有時候多吃點苦，就能少吃點虧，這買賣我覺得值，太值了。",
+    "zh-CN": "我这口大黑锅，防雨防火，还防蚀刻弹，必要时候往身上一背，能挡不少事儿！管理员，咱们有时候多吃点儿苦，就能少吃点儿亏，这买卖我觉得值，太值了。",
+    "ja": "鍋ってのはなァ、料理だけに使うもんじゃあねェんだ。防水、防火、エッチング弾からも守ってくれるしよう……ほれ、背負やァ盾にもなる！管理人よう。これは所謂、苦労の先払いってやつだぜ。こういう取引が「いい塩梅」ってこったァ。",
+    "ko": "여기, 이 커다란 검은 솥은 비도, 불도 다 막아낸다네! 식각 탄환까지 막아내지! 그냥 짊어지고만 다녀도 웬만한 사고는 다 막아준다는 걸세. 관리자. 가끔은 우리가 좀 더 고생하면 그만큼 손해를 덜 보기도 하네. 이건 아주 남는 장사야, 정말 가치 있는 일이지."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0018_dapan_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "Me? Pan Yuan the friendly old panda? HAH! Back then, no one in HAS dared cross my path. Da Great Pan Yuan ENDED scientific disagreements on the spot and, and — Ugh. Well, there are times when sticking to cold, hard facts could unintentionally destroy someone's hard-earned career. I tried making up for it, but stubbornness is a cause for regret... Just take this story with a grain of salt.",
+    "zh-TW": "您別看我現在老是說得過且過，當年我潘遠在宏科院可不慣著別人！誰敢在研究上跟我抬槓，那我們就得當場說清楚——欸，但要是太認那死理，可能不經意間就誤了旁人大半輩子的努力。哪怕找補回來，自己心裡那道坎都抹不掉了。不過都是些往事了，您聽聽笑笑就好。",
+    "zh-CN": "您别看我现在老说得过且过，当年我潘远在宏科院可不惯着别人！谁敢在研究上跟我抬杠，那我们就得当场说道清楚——哎，但要太认咱那死理，可能不经意间就误了旁人大半辈子的努力。哪怕找补回来，自己心里那道坎儿都抹不掉了。不过都是些老黄历了，您就听一乐呵。",
+    "ja": "今でこそ「適当が一番」なんて言ってるがなァ、昔宏科院にいたオレは手抜きが苦手でよう！研究にケチつけてくるやつがいりゃあ白黒つけようって躍起になったもんだぜ。でもなァ……正しさに拘りすぎると、誰かの人生を潰しちまうことがある。後からどうにかしようったって心には棘が刺さったまんま……ふう、昔の話よ。聞き流してくれ。",
+    "ko": "지금은 적당히 넘어가며 살아가고 있지만, 나, 판 원이 홍산 과학원에 있을 때는 절대 그리 쉽게 넘어가지 않았네! 그 누구든 연구랑 관련해서 나한테 걸리면 끝까지 명명백백하게 따져 물었지. 하지만... 지나치게 자기주장만 고집하다 보면, 어느 순간 상대방이 평생 노력해 온 걸 무너뜨리게 되기도 하더군. 나중에 뭘로 보상한들, 자기 마음속 죄책감은 절대 사라지지 않고 말이야... 크흠, 다 옛날이야기네. 그냥 듣고 넘기게나."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0018_dapan_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "Once you're done settling your problems here, I'll be very honored if you could visit Hongshan. No worries, you'll have time to visit the local stores and I can make any Hongshan dish at my place! Just swing by the Academy with me. I have an unfinished project and I really hope to try out the new stuff I saw with you! And since you're around, there's no giving up till I smash that bottleneck!",
+    "zh-TW": "等幫您把現在的麻煩都穩住了，勞駕您賞臉去宏山遛遛。放心，不拖您去探店，宏山什麼菜我自己在家不能做給您啊！就陪我回趟院裡，幫我看看當年落下的研究。您別說，和您見識了那些新鮮事後，心裡癢癢的！有您在，這次我非得把那難搞的解決了！",
+    "zh-CN": "等帮您把眼下的麻烦都兜住了，劳您赏脸去宏山遛遛。放心，不拖您探店，宏山啥菜我自个儿在家不能给您做啊！就陪我回趟院里，帮我瞅瞅当年落下的研究。您别说，和您见识了那些新鲜事儿后，心里直痒痒！有您在，这次我非得把那硬茬给啃喽！",
+    "ja": "今の問題を片付けちまったら、宏山まで一緒にいかねェか？店巡りになんざ付き合わせねェし、そもそもメシならオレが何でも作ってやらァ。ただ宏山科学院に行って、昔の研究をちいっと見てもらいてェんだ。おめえと一緒にいて、火が付いちまったからよう……よっし、今回は絶対ェ、解決してやるぜい！",
+    "ko": "내가 자네의 문제를 다 잘 해결해 주고 나면, 시간 내서 홍산으로 한번 같이 가보는 건 어떤가? 안심하게, 맛집 탐방 같은 걸 억지로 시키려는 게 아니네, 홍산의 음식은 전부 다 내가 집에서 해줄 수 있으니까 말이야! 그냥 나랑 같이 과학원으로 가서 예전에 미뤄뒀던 연구를 좀 도와줬으면 싶어서 그러네. 새로운 일들을 보고 겪으며 전엔 생각도 못 했던 것들이 조금씩 떠오르기도 하고, 자네만 있으면 어떤 힘든 문제도 꼭 해결할 수 있을 거라는 느낌이 들거든!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0018_dapan_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "There is NO shortcuts for good food. You must keep trying and eat up your own mistakes along the way. It is the only path to hit the perfect blend of flavors. Don't you agree?",
+    "zh-TW": "想做好菜就不用找捷徑。一道菜搞砸了再多次，也都得自己全吞囉，否則怎麼嚼出那個最合適的味道呢？您說是吧！",
+    "zh-CN": "想做好菜就甭找捷径。一道菜搞砸了再多次，也都得自己全咽咯，否则怎么咂吧出那个最合适的味儿呢？您说是吧！",
+    "ja": "うめェメシを作るのに近道なんざねェ。失敗したら、繰り返し作って食う。そうしにゃあ、最高の味ってのは見つからねェもんなんだ。なあ、おめえもそう思わねェか？",
+    "ko": "좋은 요리를 만드는 지름길 같은 건 없다네. 수십번 음식을 망치더라도, 모든 실패를 전부 자신의 것으로 만들어야 해. 그래야만 최고의 맛을 찾을 수 있거든. 자네도 그렇게 생각하지 않나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "You got it all figured out! Technical problems can't be solved by beating around the bush. Focus on the issue, talk over the disagreements, and then we're all friends again, right? Never keep it to yourself. Ugh. I'll save the story for later. It left a bad taste in my mouth.",
+    "zh-TW": "您是明白人！技術討論這事，就得敞開了聊。就事論事，咱們有分歧談分歧，談完了大家還是和和氣氣。唉，這事就怕有意見還非得在心裡憋著。不提了，難受！",
+    "zh-CN": "您是明白人！技术讨论这事儿，就得敞开了聊。就事论事，咱们有分歧谈分歧，谈完了大家还是和和气气。唉，这事就怕有意见还非得心里憋着。不提了，难受！",
+    "ja": "おめえはやっぱわかってるなァ。技術の議論ってのは本音が一番だ。意見が違やァぶつかりあって、終わったらまた元通り……でもよう。言いたいことがあっても言えねェ関係ってのは、後を引くもんだ……やめだやめだ、暗くなっちまう！",
+    "ko": "자네가 뭘 좀 아는군! 기술적인 이야기는 깔끔하게 하는 거라네. 문제가 있으면 문제만 얘기하면 돼. 의견 차이가 있으면 그걸 조율하면 되는 거고! 뭐든 해결하고 나면 다시 화기애애하게 일상으로 돌아오는 게 맞지 않나. 어휴... 속에 감춰두고 쌓아두면 안 된다는 말이야. 됐네, 생각만 해도 답답해지는군!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Wuling City. You can't talk about it without mentioning the beautiful natural scenery, or my shop, or games of Mahjong in the face of a rising Blight Tide. I know I can keep droning on and on, but I really miss the place! Perhaps Wuling pampered my post-retirement life too much. Oy, stop laughing. And since I mentioned it, are you up for some ... Mahjong?",
+    "zh-TW": "每每跟您聊起武陵城，老是繞不開山清水秀，繞不開我那小店，繞不開侵蝕潮跟前搓麻將。雖然說都是老話題，但惦記也是真惦記！很難說我這性子不是退休後被武陵城養出來的。您別光偷笑，話都說到這分上了，搓一輪？",
+    "zh-CN": "每每跟您唠起武陵城，老是绕不开水秀山清，绕不开我那小店，绕不开侵蚀潮跟前搓麻将。虽说都是车轱辘话，但惦记也是真惦记！难说我这性子不是退休后被武陵城给养出来的。您别光偷着笑，话都说到这份上了，搓一轮？",
+    "ja": "管理人と武陵の話するとよう……見事な山と川、それにオレの店、侵蝕潮の前でする麻雀……いつも同じことばっかで申し訳ねェが、本当にあの城が懐かしくてなァ。退職後のオレぁ、武陵に随分影響されてると思うぜ。へへっ……ニヤニヤすんなよう！よっし、せっかくだ、一局やるか？",
+    "ko": "자네랑 무릉성 얘기를 할 때면 항상 맑은 물과 푸른 산, 내가 운영하는 작은 가게, 침식 조류 옆에서 마작을 치던 얘기가 빠지질 않는군. 이미 몇 번이나 했던 말이긴 하지만, 그리운 건 진짜 그리운 거 아니겠나? 이 성격도 은퇴하고 나서 무릉성에서 생긴 게 아닐까 싶을 정도라네. 거기서 몰래 웃고 있지만 말고, 겸사겸사 한 판 하는 건 어떤가?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "I traveled to many cities and learned from many fellow chefs. Every chef is more than willing to reveal their cooking methods with their dishes. But mastering various culinary arts ... depends on one's skills.",
+    "zh-TW": "我遊歷過環帶不少城市，也和很多同行切磋過。各家那點門道，都願意敞開了放菜裡。不過能學到幾成，那就看各家造化了。",
+    "zh-CN": "我游历过环带不少城市，也和很多同行切磋过。各家那点门道，都愿意敞开了放菜里。不过能学到几成，那就看各家造化了。",
+    "ja": "地帯をあちこち巡って、いろんな料理人と腕比べしたもんだ。皆、隠さず技を皿に乗っけてくれてよう。ただ、それを自分のもんにできるかは、腕と運次第なんでェ！",
+    "ko": "난 밴드의 많은 도시를 여행하며, 많은 요리사의 기술을 보고 느꼈네. 모두 자신만의 비법을 아낌없이 요리에 담아 보여주더군. 하지만 그걸 자기 것으로 만드는 건 결국 자기 자신일세."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "I thought retirement would be a relaxing life with cooking, tea brewing, and just getting by... But then you showed up and brought me an endless amount of work. How do I feel about it? HAH! Not bad at all, I say!",
+    "zh-TW": "本以為退休了就能好好閒下來，煮煮飯，品品茶，日子照樣過……唉，可惜遇見了您，之後就再沒停過嘍。您要問這滋味怎麼樣？哈，也不錯！",
+    "zh-CN": "本以为退休了就能老实闲下来，烧烧饭，品品茶，日子照样过……唉，可惜遇见了您，之后就再没消停过咯。您要问这滋味咋样？哈，也不错！",
+    "ja": "定年後はのんびりメシ作って、茶ァ飲んで……って思ってたのになァ。でもよ、おめえに会ってからはずっとてんやわんやで……どうかって？そりゃ……なあ！悪くねェよ！",
+    "ko": "솔직히 은퇴하고 나면 조용히 쉴 수 있을 줄 알았네. 요리도 해 보고, 차도 마시고... 평화로운 나날이 기다릴 거라고 생각했지. 하지만 자네를 만나고서 하루도 쉴 날이 없었네. 자네는 지금 내 기분이 어떨 것 같나? 하하, 이것도 나쁘지 않다네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_about_line01",
+   "title": {
+    "en": "Topic: The Infected",
+    "zh-TW": "話題：感染者",
+    "zh-CN": "话题：感染者",
+    "ja": "感染者について",
+    "ko": "감염자에 관하여"
+   },
+   "text": {
+    "en": "Becoming the \"Infected\" is no longer a death sentence. Most would simply feel they got unlucky and move on... But if you visit the villages and towns outside the Band, your views on becoming Oripathy Positive will change.",
+    "zh-TW": "「感染者」，這個稱呼好像早沒了絕望的意味。真遇到了，大多數人也無非一句真倒楣就帶過去了……但要是您也多去環帶外的聚落遛遛，說不定會有不同的看法。",
+    "zh-CN": "“感染者”，这个称呼好像早没了绝望的意味。真遇上了，大多数人也无非一句点儿背就带过去了……但要是您也多去环带外的聚落遛遛，保不准会有不同的看法。",
+    "ja": "「感染者」ねェ……今は絶望的ってほどじゃあねェな。実際「運が悪かった」で済ませるやつも多い。けどよう……地帯の外に出てみりゃあ、また違う景色が見えるかもしれねェな……",
+    "ko": "'감염자', 이 이름에 담긴 절망감조차 이젠 사라진 것 같네. 실제로 걸린다고 한들, 대부분의 사람은 그냥 운이 없었다고 넘겨버리지... 하지만 밴드 외곽의 거주지를 좀 돌아볼 기회가 있다면... 자네도 생각이 달라질지 모르네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_about_line02",
+   "title": {
+    "en": "Topic: The Rift",
+    "zh-TW": "話題：裂隙",
+    "zh-CN": "话题：裂隙",
+    "ja": "裂け目について",
+    "ko": "균열에 관하여"
+   },
+   "text": {
+    "en": "We've studied the Very Large Rift beneath Wuling City for years. I can simply use my wok if you need exact dimension of the thing. But a permanent solution ... is still quite a challenge...",
+    "zh-TW": "武陵城底下的特大裂隙我們研究了這些年，您要是想知道它的尺寸，我光靠著這口鍋都能比劃得清清楚楚。可真要想出個一勞永逸的解決辦法，唉，難唷……",
+    "zh-CN": "武陵城底下的特大裂隙我们研究了这么些年，您要是想知道它的尺寸，我就着这口锅都能给您比划得清清楚楚。可真要想出个一劳永逸的解决办法，唉，难哟……",
+    "ja": "武陵城の地下にあるでっかい裂け目、もう何年も調べてきたけどよう……サイズを知りたいってんなら、この鍋使ってきっかり説明してやらァ。けどよ、あれを一発でどうにかしようってのはちっと……難しいかもなァ……",
+    "ko": "우리는 무릉성 아래의 거대한 균열을 오랫동안 연구해 왔네. 균열의 크기가 알고 싶다면 이 냄비로도 명확하게 비교해 줄 수 있을 정도지. 하지만 영원히 해결할 방법이라는 건... 하, 어렵군 어려워."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_about_line03",
+   "title": {
+    "en": "Topic: Zhuang Fangyi",
+    "zh-TW": "話題：莊方宜",
+    "zh-CN": "话题：庄方宜",
+    "ja": "ゾアン・ファンイについて",
+    "ko": "장방이에 관하여"
+   },
+   "text": {
+    "en": "Oh. Did you see Viceroy Zhuang? She hasn't changed. Still forcing herself to act and look tough despite being all soft and mushy inside. Made her miserable, very unpopular and — Ugh. Let's skip this for another day.",
+    "zh-TW": "哦，您見到莊管代了吧！她還是那副老樣子，心裡明明軟著呢，但做事說話還非得逼著自己上狠手段。苦了自己不說，還落不了個好名聲——算了，不提這個。",
+    "zh-CN": "哦，您见着庄管代了吧！她还是那副老样子，心里明明软着呢，但做事说话还非得逼着自己上狠手段。苦了自己不说，还落不着个好名声——算了，不提这茬。",
+    "ja": "お、ゾアン代理に会ったって？まあ、相変わらずだろうなァ……ほんとは優しいやつなのによう、無理に厳しくして。てめえが苦労するだけじゃねェ、周りにもいい顔されねェし――すまねえ、この話はもう終わりだ。",
+    "ko": "오, 장 선생을 만나봤나 보군! 아직도 여전하지 않나? 마음은 여리면서... 일부러 말이나 행동을 거칠게 하려고 애쓰지. 자기도 힘든 건 물론이고, 오해까지 사면서도... 아, 됐네. 이 얘긴 그만하지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_about_line04",
+   "title": {
+    "en": "Topic: Hongshan Academy of Sciences (HAS)",
+    "zh-TW": "話題：宏山科學院",
+    "zh-CN": "话题：宏山科学院",
+    "ja": "宏山科学院について",
+    "ko": "홍산 과학원에 관하여"
+   },
+   "text": {
+    "en": "RIDICULOUS! Who said that the HAS only admitted candidates of Yanese descent? No one gets rejected due to their ancestry. We accept anyone who can work well with the other two factions, and those with the patience for scientific work.",
+    "zh-TW": "誰跟您亂說宏科院都是炎國人？院裡講究廣納賢才，只要能和其他兩個陣營協調好，願意耐得住性子搞研究，幹嘛把人拒之門外？",
+    "zh-CN": "谁跟您胡说宏科院都是炎国人？院里讲究广纳贤才，只要能和其他俩阵营协调好，愿意耐得住性子搞研究，干嘛把人拒之门外？",
+    "ja": "宏科院は炎国人ばっかりだってェ？誰が言った？宏科院はよう、才能がありゃあどんなやつでも蔑ろにしたりしねェ。他の陣営のやつらと上手くやって、研究にも打ち込めるやつを門前払いにするなんて、ありえねェ！",
+    "ko": "누가 자네한테 홍산 과학원이 전부 다 염국 사람이라는 헛소리를 하던가? 우리 과학원의 문은 항상 인재를 향해 열려있다네. 다른 두 진영과 협력할 수 있고, 열심히 연구하길 원하는 사람을 뭣 하러 거절하겠나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_about_line05",
+   "title": {
+    "en": "Topic: Lifeng",
+    "zh-TW": "話題：黎風",
+    "zh-CN": "话题：黎风",
+    "ja": "リーフォンについて",
+    "ko": "여풍에 관하여"
+   },
+   "text": {
+    "en": "Lifeng is too tense. I get tired just by looking at him, so I do my best to help him relax. Luckily, the boy's willing to fool around with this old panda. He's got a keen mind and sorts things out on his own, but I don't know if that's a good thing...",
+    "zh-TW": "黎風那小子每天把身體繃成那樣，我看著就累，所以變著方式地想讓他放鬆放鬆。他啊，也樂意陪著我胡鬧。那孩子的心思，我都清楚！也不知道算好事還是壞事……",
+    "zh-CN": "黎风那小子每天把身杆儿绷得那样儿，我瞅着就累，所以变着方儿地想让他放松放松。他呀，也乐意陪着我胡闹。那孩子的心思，门儿清！也不知道算好事儿还是坏事儿……",
+    "ja": "リーフォンなあ……いつも身体に力が入りすぎてる。見てるだけで疲れらァ。リラックスでもさせてやろうって、あの手この手でやってみるけどよう、それにもきっちり付き合ってくれてなァ……なんでもわかってんだ、あの子は。良いんだか、悪いんだか……なァ。",
+    "ko": "여풍, 그 녀석은 항상 딱딱하게 굳어 있지 않나? 보기만 해도 피곤해져서 내가 여러 방법으로 긴장을 좀 풀어주려 하고 있다네. 녀석도 내 생각에 잘 따라주곤 있지만... 벌써부터 그렇게 행동하는 게 좋은 건지 나쁜 건지, 원."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_about_line06",
+   "title": {
+    "en": "Topic: Valley IV",
+    "zh-TW": "話題：四號谷地",
+    "zh-CN": "话题：四号谷地",
+    "ja": "四号谷地について",
+    "ko": "4번 협곡에 관하여"
+   },
+   "text": {
+    "en": "The AIC Factory will greatly improve the nomads' lives. Nevertheless, everyone has their own ideas, and great enterprises will always run into bumps. We just have to bear with it. This old panda is just doing his best and won't claim credit for what we achieved in Valley IV!",
+    "zh-TW": "集成工業系統的確可以很大程度改善難民們的生活，但畢竟大家想法不同，一件大好事也難免有碰撞，您多擔待！但四號谷地的事咱可不敢邀功，力所能及罷了！",
+    "zh-CN": "集成工业系统的确可以很大程度改善难民们的生活，但毕竟大家想法不同，一件大好事儿也难免磕磕碰碰，您多担待！但四号谷地的事儿咱可不敢邀功，力所能及罢了！",
+    "ja": "集成工業システムってのは、確かに流浪者の生活を相当マシにはする。でもよ、考え方ってのは人それぞれだからなァ。どんなに良いことだって、ゴタゴタは起こるもんなんだ。その辺はわかってるだろうけどよう。それに四号谷地の件でオレが威張れることはねェ。やれることをやったまでよ。",
+    "ko": "통합 공업 시스템은 확실히 유랑자들의 생활을 크게 개선할 걸세. 하지만 모든 이들의 생각이 같을 수는 없지 않나? 좋은 일에도 충돌은 있을 수밖에 없지, 자네가 좀 이해하게! 4번 협곡의 일을 우리가 뭘 바라고 한 건 아니잖나? 그냥 해야 할 일을 한 것뿐이니까 말이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Finding this is not easy. Fill your pockets with whatever you can.",
+    "zh-TW": "來一趟不容易，能帶多少帶多少。",
+    "zh-CN": "来一趟不容易，能带多少带多少。",
+    "ja": "また来るのも億劫だからよう……できるだけたんまり持って帰ろうぜ。",
+    "ko": "힘들게 여기까지 왔는데 최대한 많이 챙겨야 하지 않겠나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "A very rare finding. Time to assign gathering work.",
+    "zh-TW": "這種稀有物很不錯，安排一下收集工作吧。",
+    "zh-CN": "这种稀罕物挺不错，安排一下收集工作吧。",
+    "ja": "こりゃ珍しいもんだ。きっちり回収しとくかねェ。",
+    "ko": "좋은 물건이군! 수집할 준비를 해야겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "This place doesn't feel right. Be careful.",
+    "zh-TW": "這附近有古怪，您千萬要留意！",
+    "zh-CN": "这附近有古怪，您千万留意！",
+    "ja": "この辺はちいっと怪しい……注意しろ。",
+    "ko": "주변이 좀 이상하네, 조심하게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Careful. That one looks like serious trouble.",
+    "zh-TW": "有難搞的，小心！",
+    "zh-CN": "有硬茬子，当心！",
+    "ja": "ずいぶん野暮なやつがいたもんだなァ……気をつけろよ。",
+    "ko": "강한 놈이야, 조심하게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Fine quality ore!",
+    "zh-TW": "這些礦物品質不錯！",
+    "zh-CN": "这些矿物品质不错！",
+    "ja": "なかなかいい鉱物じゃねェか！",
+    "ko": "이 광물들은 품질이 좋군!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "We appreciate your hard work!",
+    "zh-TW": "勞駕您了！",
+    "zh-CN": "劳驾了您嘞！",
+    "ja": "いやあ、助かったぜ。ありがとよ！",
+    "ko": "덕분에 수고를 덜었어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "The golden jackpot! Hah! Just messing with you!",
+    "zh-TW": "哇，金色！哈哈，和您開玩笑呢！",
+    "zh-CN": "哇，金色！哈哈，和您逗闷子呢！",
+    "ja": "おうおう、金色じゃねェか！へへッ……冗談でい！",
+    "ko": "이야, 금색이군! 하하, 장난 좀 쳐본 거라네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "I'll keep this Aurylene for you.",
+    "zh-TW": "這醚質幫您收好了。",
+    "zh-CN": "这醚质替您收着了。",
+    "ja": "このオーリレン、預かっとくぜ。",
+    "ko": "이 오리렌은 내가 대신 챙겨주겠네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Blight neutralized! Hurrr. This is so exhausting.",
+    "zh-TW": "這片侵蝕搞定了！呼，累死我了。",
+    "zh-CN": "这片侵蚀搞定了！呼，累死我了。",
+    "ja": "よっし、この侵蝕は終わりだ。くーっ……ちっと、疲れたねェ……",
+    "ko": "이 구역의 침식은 다 처리했네! 아이고, 힘들다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Had my fill of food and sleep. Let's keep going.",
+    "zh-TW": "吃飽睡足，就不耽誤了。",
+    "zh-CN": "吃饱睡足，就不耽搁了。",
+    "ja": "お腹も満足、たっぷり睡眠……よし、行くかァ！",
+    "ko": "배도 부르고 잠도 잘 잤으니, 이제 움직일 때가 됐군."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Don't panic! I got you covered!",
+    "zh-TW": "別害怕，我幫您撐著！",
+    "zh-CN": "别害怕，我帮您支着！",
+    "ja": "オレに任せろ、支えてやるぜ！",
+    "ko": "겁먹을 필요 없네, 내가 도와주지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Feeling better.",
+    "zh-TW": "舒服！",
+    "zh-CN": "舒坦！",
+    "ja": "くーッ、たまんねェ！",
+    "ko": "좋구먼!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Watch it! Don't get hit!",
+    "zh-TW": "有險招！您多留神！",
+    "zh-CN": "有险招！您多留神！",
+    "ja": "何かくるぞ！気ぃつけろ！",
+    "ko": "위험해! 조심하게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Hrraak... I'm not doing too well.",
+    "zh-TW": "咳，渾身沒力氣。",
+    "zh-CN": "咳，浑身不得劲儿。",
+    "ja": "がぁッ、力が入らねェ……",
+    "ko": "쿨럭, 온몸이 욱신거리는군."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Sorry ... but I gotta take a breath!",
+    "zh-TW": "對不起您啊，我先喘口氣！",
+    "zh-CN": "对不住了您哪，我先喘口气！",
+    "ja": "悪ぃな。ちょっと一息入れさせてくれ……",
+    "ko": "미안하네, 숨 좀 돌려야겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "A very professional move!",
+    "zh-TW": "您動作真俐落！",
+    "zh-CN": "您动作真麻利！",
+    "ja": "随分動きがキレてたなァ！",
+    "ko": "몸놀림이 상당히 좋군!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "We make a good team!",
+    "zh-TW": "好配合！",
+    "zh-CN": "好配合！",
+    "ja": "最高の連携だ！",
+    "ko": "잘 맞는군!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "You're welcome!",
+    "zh-TW": "您客氣了！",
+    "zh-CN": "您客气了！",
+    "ja": "へへッ、大げさでェ！",
+    "ko": "이 정도야, 뭐!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "We're doing good, team!",
+    "zh-TW": "大家都不錯！",
+    "zh-CN": "大伙都不错！",
+    "ja": "皆、よくやったぜ！",
+    "ko": "자네들도 못지않네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Want a piece of panda? COME AT ME!",
+    "zh-TW": "衝著我來？當然好啊！",
+    "zh-CN": "冲着我来？敢情好呀！",
+    "ja": "おう、オレ狙いか？上等だねェ！",
+    "ko": "날 노리는 건가? 한번 해 보자고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Call the shots! I'll do the rest!",
+    "zh-TW": "您放手去做，其他我替您解決嘍！",
+    "zh-CN": "您放开手干，其他我替您包圆咯！",
+    "ja": "思い切りやれよう！後ろはオレに任せろい！",
+    "ko": "자네 하고 싶은 대로 해! 나머지는 내가 처리하지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "That's why you're the boss!",
+    "zh-TW": "您辛苦，您受累！",
+    "zh-CN": "您辛苦，您受累！",
+    "ja": "お疲れ、お疲れさん。",
+    "ko": "고생 많았네! 정말 고생 많았어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "THAT was a good battle — Ah, well, it's time for food.",
+    "zh-TW": "打得酣暢淋漓——就是，嘿，肚子餓了。",
+    "zh-CN": "打得酣畅淋漓——就是，嘿，肚子饿了。",
+    "ja": "思う存分やれたぜ！……って、腹ァ……減ったなァ……",
+    "ko": "아주 통쾌한 전투였군! 근데 말이야... 배가 좀 고픈걸?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Well said! It was fun, and we won!",
+    "zh-TW": "您說的話在理，贏得確實爽！",
+    "zh-CN": "您这话在理，赢得确实爽！",
+    "ja": "おう、勝利ってのはやっぱり気持ちいいもんだなァ。",
+    "ko": "맞는 말이야, 통쾌한 전투였어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "That was close. They almost broke my iron wok.",
+    "zh-TW": "還好還好，差點連我這口大鐵鍋都砸嘍！",
+    "zh-CN": "还好还好，差点连我这口大铁锅都给砸咯！",
+    "ja": "危ねェ……オレの鍋、壊れちまうとこだったぜ……",
+    "ko": "다행이야, 잘못하면 내 냄비가 망가질 뻔했지 뭔가?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "No need to fret. I'll make food for the team and avenge this defeat!",
+    "zh-TW": "沒什麼好丟臉的，我來幫大家弄點好東西。吃飽了咱們再殺回去！",
+    "zh-CN": "没啥抹不开面儿的，我来给大伙弄点好东西。吃饱了咱们再干回去！",
+    "ja": "小せェことは気にすんな！うめェもん作ってやるからよう、もう一回行こうじゃあねェか！",
+    "ko": "부끄러워할 것 없네! 내가 맛있는 걸 해주도록 하지. 든든하게 먹고 다시 가보세!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Here comes!",
+    "zh-TW": "嚐嚐這個！",
+    "zh-CN": "尝尝这个！",
+    "ja": "これでも喰らえ！",
+    "ko": "맛 좀 봐라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "TAKE THAT!",
+    "zh-TW": "走吧你！",
+    "zh-CN": "走你！",
+    "ja": "行くぜェ！",
+    "ko": "간다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "FLIP DA WOK!",
+    "zh-TW": "翻鍋！",
+    "zh-CN": "颠勺！",
+    "ja": "鍋振り！",
+    "ko": "뒤집어 주지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "EAT THIS!",
+    "zh-TW": "加滿！",
+    "zh-CN": "满上！",
+    "ja": "大盛りだ！",
+    "ko": "가득 채우게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "UP YOU GO!",
+    "zh-TW": "起！",
+    "zh-CN": "起！",
+    "ja": "吹っ飛びなッ！",
+    "ko": "완성이군!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Need a hand?",
+    "zh-TW": "要幫個忙嗎？",
+    "zh-CN": "要搭把手吗？",
+    "ja": "手助けするかァ？",
+    "ko": "내가 도와야하지 않겠나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Watch me do this!",
+    "zh-TW": "放著我來！",
+    "zh-CN": "放着我来！",
+    "ja": "任せろい！",
+    "ko": "내 차례구먼!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Eyes front!",
+    "zh-TW": "往哪裡看呢！",
+    "zh-CN": "往哪儿看呢！",
+    "ja": "よそ見はよくないねェ！",
+    "ko": "어딜 보고 있나!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Bite the dust!",
+    "zh-TW": "下去吧您！",
+    "zh-CN": "下去吧您哪！",
+    "ja": "ぶっ叩く！",
+    "ko": "쓰러져라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "See you NEVER!",
+    "zh-TW": "回頭見！",
+    "zh-CN": "回头见！",
+    "ja": "またなァ！",
+    "ko": "잘 가게나!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "THIS IS ON THE HOUSE!",
+    "zh-TW": "算是我請您！",
+    "zh-CN": "算我请您！",
+    "ja": "奢りだよい！",
+    "ko": "이건 내가 쏘지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "ULTRA WOK HEY!",
+    "zh-TW": "猛火快炒！",
+    "zh-CN": "猛火快炒！",
+    "ja": "高速強火炒め！",
+    "ko": "볶을 때는 빠르게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "TASTE MY PANDA SPECIAL!",
+    "zh-TW": "嚐嚐我的手藝！",
+    "zh-CN": "尝尝我的手艺！",
+    "ja": "オレの腕前、見ろよい！",
+    "ko": "손맛을 보여주지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0018_dapan_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Time to ... CLEAN YOUR PLATE!",
+    "zh-TW": "叫你挑食！",
+    "zh-CN": "让你挑食！",
+    "ja": "偏食よくないぞ！",
+    "ko": "편식하면 못 써!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_map02_lv002_3",
+   "topic": {
+    "en": "Fangxing Avenue",
+    "zh-TW": "方興衢",
+    "zh-CN": "方兴衢",
+    "ja": "方興街",
+    "ko": "방흥거리"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Wow, I didn't know you owned a hotpot restaurant in Wuling.",
+      "zh-TW": "沒想到，你在武陵還有家火鍋店。",
+      "zh-CN": "没想到，你在武陵还有家火锅店。",
+      "ja": "まさか、武陵で火鍋屋までやっているとは思わなかったよ。",
+      "ko": "무릉에 훠궈집까지 운영하신 줄은 몰랐네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Looks who's here! Come in and take a seat!",
+      "zh-TW": "唷，您來了怎麼不進店裡坐坐？",
+      "zh-CN": "嚯，您来了怎么不进店里坐坐？",
+      "ja": "おう、来てたのか？入ってくれたらよかったのによう。",
+      "ko": "호오, 어떻게 안에 좀 들어와서 앉다가지 그래?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Started this place after I retired, just for fun. Business has been great, all thanks to the folks here. It's actually pretty famous in Wuling City now.",
+      "zh-TW": "退休後閒著無聊開了一家，承蒙武陵鄉親們關照，生意一直都很興隆，在武陵城也算是小有點名氣。",
+      "zh-CN": "退休后闲着无聊开了一家，承蒙武陵乡亲们关照，生意一直都红红火火的，在武陵城也算是小有点名气。",
+      "ja": "仕事を辞めて手持ち無沙汰でなァ……店を開いたんだ。おかげさんで大繁盛、武陵城でもちっと名の知れた店なんだぜ。",
+      "ko": "은퇴하고 한가해서 하나 열었지. 무릉 동네분들 덕을 많이 봐서 장사가 쭉 잘됐어. 무릉성에서는 나름 좀 유명한 편이지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Do people in Wuling really enjoy hot pot that much?",
+      "zh-TW": "武陵城的居民們都喜歡吃火鍋嗎？",
+      "zh-CN": "武陵城的居民们都喜欢吃火锅吗？",
+      "ja": "武陵の人たちは、火鍋が好きなのかな。",
+      "ko": "무릉성 주민들도 다들 훠궈를 즐기시나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "In a humid place like this? Hot pot is a must!",
+      "zh-TW": "畢竟武陵這地方濕氣這麼重，怎麼能少得了火鍋？",
+      "zh-CN": "毕竟武陵这地方湿气这么重，怎么能少得了火锅？",
+      "ja": "武陵は湿気がすげェだろ。火鍋なしじゃやっていけねェ！",
+      "ko": "아무래도 무릉은 습기가 너무 심하니까, 훠궈가 빠질 수가 없지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Imagine sitting here on a cool night with a few buddies around a bubbling pot! Man, it's the ultimate comfort.",
+      "zh-TW": "夜裡往這一坐，三五好友圍成一桌點這麼一鍋，吃的就是個酣暢淋漓。",
+      "zh-CN": "夜里往这儿一坐，三五好友围成一桌来上这么一锅，吃的就是个酣畅淋漓。",
+      "ja": "夜に、気の合う仲間と火鍋をつつく……そりゃあもう至福のひとときってェもんだぜ。",
+      "ko": "밤에 여기 앉아서 친구들이랑 한자리에 둘러앉아 이렇게 한 냄비 끓여 먹으면 속이 뻥 뚫리는 기분이네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Then you wipe off the sweat, and ah ... nothing feels better.",
+      "zh-TW": "等吃完後把滿頭的汗一擦，呵，那個感覺，別提多舒爽了。",
+      "zh-CN": "等吃完后把满头的汗一擦，嗬，那感觉，别提多舒畅了。",
+      "ja": "食い終わったら、顔の汗を手でぐいっと拭ってみろい。スッキリサッパリ、たまんねェんだ！",
+      "ko": "다 먹고 이마에 흐르는 땀을 닦아내는 그 순간은 정말 말로 다할 수 없을 만큼 개운하지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "But don't get the wrong idea, Wuling City isn't just about hot pot.",
+      "zh-TW": "不過，別以為武陵城就只有火鍋。",
+      "zh-CN": "不过，可别以为武陵城就只有火锅。",
+      "ja": "でもよう、武陵城には火鍋しかねェって思ったら、大間違いだぜ。",
+      "ko": "그렇다고 무릉성이 훠궈만 있는 줄 알면 큰 오해네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "We've got Roast Beast, Sliced Fowlbeast, Tofu Soup, Crispy Wings, Oil-Braised Fin, Twice-cooked Burdenbeast ... and the list goes on.",
+      "zh-TW": "烤乳獸、白切羽、大煮干絲、黃泥煨羽、油燜大鱗、回鍋馱肉……光這些還沒完呢。",
+      "zh-CN": "烤乳兽、白切羽、大煮干丝、黄泥煨羽、油焖大鳞、回锅驮肉……光这些还没完呢。",
+      "ja": "乳獣焼き、蒸し羽獣、細切り豆腐の煮込み、羽獣の姿焼き、駄獣肉の炒め物……まだまだあるぜ。",
+      "ko": "새끼 야수 구이, 파울비스트 백반, 야채 졸임, 파울비스트 흙구이, 린수찜, 회과 버든비스트... 이것만 있는 건 아닐세."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Now I'm hungry.",
+         "zh-TW": "我也想吃。",
+         "zh-CN": "我也想吃。",
+         "ja": "食べてみたいな。",
+         "ko": "저도 먹어 보고 싶네요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "They all sound delicious.",
+         "zh-TW": "聽起來不錯。",
+         "zh-CN": "听上去不错。",
+         "ja": "美味しそうだな。",
+         "ko": "듣기만 해도 군침이 돌아요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Now that you're here, you've got to look me up when you have time. I'll cook for you myself. Promise you'll get the real \"Pan-Style Hotpot\" experience.",
+      "zh-TW": "來都來了，等之後您有空了記得來找我，我親自下廚。保證讓您嚐到最道地的「潘式火鍋」。",
+      "zh-CN": "来都来了，等后面您有空了可得来找我，我亲自下厨。保证让您尝到最地道的“潘式火锅”。",
+      "ja": "せっかく来たんだからよ、時間があるときに寄ってくれ。本場の「パン風火鍋」を食わせてやらァ！",
+      "ko": "여기까지 왔는데, 나중에 시간 나면 꼭 날 찾아오게. 내가 직접 제대로 된 '판 훠궈'를 끓여주겠네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "You seemed even skinnier... Make sure you're taking good care of yourself.",
+      "zh-TW": "上次看著您又瘦了，可別委屈了自個兒。",
+      "zh-CN": "上次看着您可又瘦了，可别委屈了自个儿。",
+      "ja": "おめえもずいぶん痩せちまったって思ってなァ……あんま無理すんじゃねェぞ。",
+      "ko": "지난번보다 살이 또 빠진 것 같구먼. 너무 굶지는 말게나."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Don't forget to drop by once you've wrapped up your work.",
+      "zh-TW": "等您忙完公務，一定記得來啊。",
+      "zh-CN": "等您忙完公务，可一定记得来啊。",
+      "ja": "仕事が終わったら、絶対来てくれよ！",
+      "ko": "일 다 끝나면 꼭 들리게나."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_map02_lv007_14002",
+   "topic": {
+    "en": "A Step into the Exclusion Zone",
+    "zh-TW": "通向禁區的一步",
+    "zh-CN": "通向禁区的一步",
+    "ja": "封鎖区域へ踏み出す一歩",
+    "ko": "금지 구역으로 내딛는 한 걸음"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Endmin, the North Wuling EZ is right ahead. I'm feeling...",
+      "zh-TW": "管理員，北部禁區就在眼前，我的心裡……",
+      "zh-CN": "管理员，北部禁区就在眼前，我这心里头……",
+      "ja": "管理人、封鎖区域はもう目の前だ。なんだかなァ、胸が……",
+      "ko": "관리자, 이제 북쪽 금지 구역이 바로 코앞인데... 기분이 참..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Feeling conflicted about returning to the Science Station?",
+         "zh-TW": "馬上就能回科研站了，心情複雜？",
+         "zh-CN": "马上就能回科考站了，心情复杂？",
+         "ja": "もうすぐ研究基地に行けるから、複雑な心境なのかな。",
+         "ko": "막상 연구 기지로 돌아가려니 마음이 복잡한가요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I know what you're feeling. I'm feeling it a lot, too.",
+         "zh-TW": "我懂，我也有點唏噓。",
+         "zh-CN": "我懂，我也有些唏嘘。",
+         "ja": "{F}わかるよ。私も胸にくるものがある。{M}わかるよ。僕も胸にくるものがある。",
+         "ko": "무슨 느낌인지 알아요. 저도 뭐랄까... 좀 착잡하네요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Viceroy Zhuang and I once worked at the Science Station and took part in Project Xiranite. You might even see my name in the Xiranite Research Labs.",
+      "zh-TW": "我跟莊管代以前都在科研站待過，參與過息壤計劃。息壤研究所裡說不定還能找到我的名字。",
+      "zh-CN": "我跟庄管代以前都在科考站待过，参与过息壤计划。息壤研究所里说不定还能找到我的名字。",
+      "ja": "オレとゾアン代理は昔、研究基地にいたんだ。息壌プロジェクトにも関わってた。息壌研究所にゃあオレの名前も残ってるかもしれねェな……",
+      "ko": "나랑 장 선생 모두 예전에 연구 기지에 몸을 담았었네, 식양 프로젝트에도 참여했었고. 아마 식양 연구소 안을 뒤져보면 내 이름도 남아 있을걸?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "The VLR eruption instantly swallowed the Research Labs ... and then the Tianshi Pillar R&D Center, the Quelltide Levee, the Designated Urban Area...",
+      "zh-TW": "當年，甚大裂隙爆發，頃刻之間就吞沒了研究所……還有天師樁研發中心、平波堤、城建區……",
+      "zh-CN": "当年，甚大裂隙爆发，顷刻之间就吞没了研究所……还有天师桩研发中心、平波堤、城建区……",
+      "ja": "あのとき、巨大な裂け目が爆発して……研究所はあっという間に呑み込まれちまった。天師杭研究本部、平波堤、都市建設エリア……",
+      "ko": "그때... 대균열이 터지면서 순식간에 연구소를 집어삼켰지. 천사장 연구 개발 센터도, 평파 제방도, 도시 건설 구역도 전부..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "It was all over in a few seconds. All of it. Gone. In a few seconds.",
+      "zh-TW": "幾秒鐘，就幾秒鐘，全毀了。",
+      "zh-CN": "几秒钟，就几秒钟，全毁了。",
+      "ja": "ほんの一瞬で、全部崩れちまった。",
+      "ko": "몇 초. 단 몇 초 만에... 모든 게 사라졌네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Man, I know everyone's roaring to go and want to seal that VLR for good. What I said was probably very demoralizing.",
+      "zh-TW": "唉，這一次，大家鼓足了士氣，決心一定要填平甚大裂隙，我不該說洩氣話。",
+      "zh-CN": "嗐，这一次，大伙儿鼓足了士气，决心一定要填平甚大裂隙，我不该说泄气话。",
+      "ja": "でもよう、今回は皆で気合い入れて、巨大な裂け目を閉じてやるって腹ァくくったんだ。弱音なんて吐いてる場合じゃねェ。",
+      "ko": "에잇, 이번엔 다들 반드시 대균열을 메우겠다고 마음을 단단히 먹고 온 거 잘 아네. 내가 이런 김빠지는 소릴 해서는 안 된다는 것도 말일세."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "But stepping into the place means that I have to see the ruins of my home ... and remember all those friends and buddies that I'd never see again.",
+      "zh-TW": "但真的要踏進去，就意味著要看到家園的廢墟，要去追憶一去不回的親朋好友。",
+      "zh-CN": "但真的要踏进去，就意味着要看到家园的废墟，要去追忆一去不回的亲朋好友。",
+      "ja": "あそこに行くってことは、ひでえ状況になっちまった家を見るってことでもある。もう帰ってこねェ家族や仲間のことも思い出さなきゃなんねェ……",
+      "ko": "하지만 막상 발을 들이자니... 고향의 폐허를 보게 될 거고, 다시는 돌아오지 못할 가족이나 친구들도 떠올리게 될 것 같아서..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That's not demoralizing. You're just preparing yourself mentally.",
+         "zh-TW": "這不是洩氣話，你只是需要做一些心理準備。",
+         "zh-CN": "这不是泄气话，你只是需要做一些心理准备。",
+         "ja": "それは弱音なんかじゃないよ。誰だって、心の準備は必要なんだ。",
+         "ko": "그건 김빠지는 소리가 아니에요. 판 선생님은 그냥 마음의 준비가 좀 필요한 거죠."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "We're human. It is normal to feel that way ... when we must face the past we lost.",
+         "zh-TW": "我們是人，面對失落的過去……這是正常的情緒。",
+         "zh-CN": "我们是人，面对失落的过去……这是正常的情绪。",
+         "ja": "誰だって、失った過去に向き合うときは……そう感じると思う。",
+         "ko": "잃어버린 과거를 마주할 때... 그런 감정이 드는 건 당연한 거예요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Sorry for talking my mouth off like that. You're a good listener, Endmin. I'm totally ready.",
+      "zh-TW": "勞煩您聽我絮叨這麼多，我做好準備了。",
+      "zh-CN": "劳烦您听我絮叨这么多，我做好准备了。",
+      "ja": "愚痴聞かせちまって、すまねェな。もう、覚悟は決まったぜ。",
+      "ko": "내 넋두리를 들어줘서 고맙네. 이제 좀 마음 정리가 된 것 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "I'm sure everyone's feeling the same. But this isn't the time to be sad. We got a super important mission right now.",
+      "zh-TW": "大家肯定都有這種感受，只是現在比起傷感，我們眼前有更重要的事。",
+      "zh-CN": "大伙儿肯定都有这种感受，只是现在比起伤感，我们眼前有更重要的事儿。",
+      "ja": "皆も同じ気持ちだろうが……今は、悲しむより、もっと大切なことが目の前にある。",
+      "ko": "아마 다들 비슷한 기분일 걸세. 다만 지금은 슬퍼할 시간보다 더 중요한 일이 눈앞에 있는 거지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Everyone poured their heart and soul into the Xiranite Nexus. Let's use it to permanently end the VLR!",
+      "zh-TW": "用我們投入了全部努力的樞壤儀，把甚大裂隙搞定！",
+      "zh-CN": "用我们投入了全部努力的枢壤仪，把甚大裂隙搞定！",
+      "ja": "オレたちの努力の結晶、枢壌儀で巨大な裂け目をやってやろうじゃねェか！",
+      "ko": "우리가 모든 노력을 쏟아 만든 중추 식양 장치로... 이번에야말로 대균열을 끝장내보자고!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0018_dapan_1",
+   "topic": {
+    "en": "The Refund Dispute",
+    "zh-TW": "退款風波",
+    "zh-CN": "退款风波",
+    "ja": "返金騒ぎ",
+    "ko": "환불 사유"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Shared product link - [\"Rama Battleship Comprehensive Analysis\". Book description: A spacecraft from distant stars crashed through Talos' atmosphere...]",
+      "zh-TW": "分享商品連結-[《拉瑪戰艦詳解》。書籍簡介：一艘來自遠方的太空戰艦墜入了塔羅斯的大氣……]",
+      "zh-CN": "分享商品链接-[《拉玛战舰详解》。书籍简介：一艘来自远方的太空战舰坠入了塔罗斯的大气……]",
+      "ja": "商品リンクのシェア：『ラーマ戦艦詳解』　書籍紹介：遠方から来た宇宙戦艦がタロスの大気圏に突入した……",
+      "ko": "상품 링크 공유: [<라마 전함 해설서> 도서 소개: 먼 행성에서 온 우주 전함이 탈로스 대기권 안으로 추락하면서...]"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Ah, sorry 'bout that, Endmin! Didn't mean to send that link your way.",
+      "zh-TW": "抱歉抱歉，管理員，不小心把連結傳到您這裡了。",
+      "zh-CN": "抱歉抱歉，管理员，不小心把链接发您这儿来了。",
+      "ja": "すまねェ、管理人。リンクを間違って送っちまった。",
+      "ko": "아이고, 미안하네. 그만 실수로 링크를 자네한테 보냈구먼."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Man, the TGCC shop page is all flash and no function! Pop-up coupons one second, group deals the next. But the basics? Total mess! Who in their right mind puts refund next to share?!",
+      "zh-TW": "環塔商會的購物網頁做得太花俏了，一下跳出一個打折券，一下又是找人湊單，基礎功能都亂了，居然把退款跟分享放一起！",
+      "zh-CN": "环塔商会的购物页做得花里胡哨，一会儿弹一个打折券，一会儿又是拉人凑单，基础功能却乱套了，居然把退款跟分享放一起！",
+      "ja": "環タロ商会の通販サイトがなァ……やたらと派手でよう。クーポンがポンポン出てくるわ、「フレンドを集めてガチャにチャレンジ」だの……終いにゃ「返品」と「シェア」のボタンまで一緒ときた。",
+      "ko": "탈로스 II 상업연합회의 쇼핑 사이트는 너무 요란스럽게 되어있더라고. 할인쿠폰이 튀어나오질 않나, 묶음 주문을 끼워 넣질 않나... 그런데 또 기본 기능은 엉망인 게! 환불이랑 공유 버튼을 나란히 붙여놨다니까."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "What's wrong with the book? Why refund?",
+         "zh-TW": "品質有問題嗎？為什麼要退款？",
+         "zh-CN": "质量有问题吗？为什么要退款？",
+         "ja": "商品に問題があったのかな。どうして返品しようと思ったの？",
+         "ko": "품질에 문제가 있었나요? 왜 환불하시려는 거예요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You don't like the book?",
+         "zh-TW": "這本書的內容不好看嗎？",
+         "zh-CN": "这本书的内容不好看吗？",
+         "ja": "本、そんなにつまらなかったの？",
+         "ko": "책 내용이 재미없었나요?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "My bad. Should've checked before hitting buy.",
+      "zh-TW": "是買錯了，怪我自己沒仔細看。",
+      "zh-CN": "是买错了，怪我自己没仔细看。",
+      "ja": "間違えて買っちまった。ちゃんと見てなくてなァ……",
+      "ko": "내가 상품 내용을 자세히 안 봐서, 잘못 산 거라네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Snagged some steel and a used engine from the UWST the other day. Figured I'd slap together a \"mini high-speed battleship\" for fun.",
+      "zh-TW": "前幾天我從聯盟工團淘換了些鋼材跟二手發動機，想組台「迷你高速戰艦」玩玩。",
+      "zh-CN": "前几天我从联盟工团淘换了些钢材跟二手发动机，想组台“迷你高速战舰”玩玩。",
+      "ja": "ちっと前に工業団連盟から鋼材と中古エンジンを仕入れてよう。「ミニ高速戦艦」でも作ってやらァ！って思ったんだがなァ……",
+      "ko": "며칠 전에 연맹 공단에서 강철이랑 중고 엔진을 좀 구했거든. '미니 고속 전함'이란 걸 한번 만들어 보려고 했지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Thought this was a legit battleship manual, turns out it's sci-fi! Flipped through a few pages and was like, \"Since when do we have tech this fancy?!\"",
+      "zh-TW": "我以為這本書是講戰艦的，買回來才發現是科幻小說。看了幾頁，我還納悶什麼時候有這麼高科技的東西了呢。",
+      "zh-CN": "我以为这书是讲战舰的，买回来才发现是科幻小说。看了几页，我还纳闷啥时候有这么高科技的玩意儿了呢。",
+      "ja": "戦艦の解説書かと思って買ったのによう、届いてみたらSF小説じゃねェか。何ページか読んで、いつの間にこんなハイテクな世界になったんだって、目ェ飛び出ちまったぜ。",
+      "ko": "이 책이 전함과 관련된 기술서인 줄 알았는데, 받아보니까 공상 과학 소설이지 뭔가. 몇 장 읽으면서, 언제 우리 기술이 이렇게 발전했나 싶더라니."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "A battleship? Wait. You're not planning to take on Dijiang, are you?",
+         "zh-TW": "戰艦？難道是拿來攻打帝江號的？",
+         "zh-CN": "战舰？难道是拿来攻打帝江号的？",
+         "ja": "戦艦……もしかして、帝江号を攻撃するつもりなの？",
+         "ko": "전함이요? 설마 제강호를 공격하시려는 건가요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "A battleship? Ohhh, I see! You're gonna storm HAS!",
+         "zh-TW": "戰艦？我知道了，要拿去攻打宏科院！",
+         "zh-CN": "战舰？我知道了，要拿去攻打宏科院！",
+         "ja": "戦艦……なるほど。宏科院を攻撃するつもりなんだね。",
+         "ko": "전함이요? 아, 알겠다. 홍산 과학원을 치려고 하시는 거죠?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Aw, c'mon, don't mess with me like that. It's just a toy, all bark and no bite. Just made it for fun!",
+      "zh-TW": "怎麼會，您別跟我開玩笑。就是做個玩具，名字叫得浮誇，沒破壞力。",
+      "zh-CN": "那不能，您别拿我开涮。就是做个玩具，名字叫得响亮，没破坏力。",
+      "ja": "んなこたァねェ！冗談だろうけどよう……こりゃあ、ただのオモチャだぜ。名前はちーっと派手だが……そんな力なんざねェ。",
+      "ko": "에이, 그럴 리가. 농담 그만하게. 그냥 장난감을 만드는 거야, 이름만 거창하지, 파괴력은 전혀 없다네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Speaking of which... Endmin, you got any interest in this book yourself?",
+      "zh-TW": "說到這裡……管理員，您對這本書有興趣嗎？",
+      "zh-CN": "说到这里……管理员，您对这本书有兴趣吗？",
+      "ja": "そういや……おめえはこの本、興味あるか？",
+      "ko": "그런데 말이야... 관리자, 혹시 이 책에 관심이 있나?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Honestly, that mini battleship sounds way more fun. What's the specs on that thing?",
+         "zh-TW": "我對那個迷你戰艦比較有興趣，聽起來蠻好玩的。",
+         "zh-CN": "我对那个迷你战舰比较有兴趣，听上去挺好玩儿。",
+         "ja": "正直、ミニ戦艦のほうが気になるよ。なんだか面白そうだ。",
+         "ko": "저는 그 미니 전함 쪽에 더 관심이 가는데요? 재미있을 것 같아요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Now we're talkin'! Perfect match!",
+         "zh-TW": "那咱們算是一拍即合了！",
+         "zh-CN": "那咱们可算一拍即合了！",
+         "ja": "おう、やっぱりおめえは話のわかるやつだ！",
+         "ko": "오, 그럼 우리 뜻이 아주 잘 맞네!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Back when I was still at HAS, I secretly built a mini high-speed battleship right under their noses in my office...",
+         "zh-TW": "我還在宏科院時，在辦公室偷偷做了一台迷你高速戰艦……",
+         "zh-CN": "我还在宏科院时，在办公室偷偷做了一台迷你高速战舰……",
+         "ja": "オレぁ宏科院にいた頃、こっそり実験室でミニ高速戦艦を作ったことがあってよう……",
+         "ko": "내가 홍산 과학원에 있을 때도, 사무실에서 몰래 미니 고속 전함을 하나 만들었는데..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Tried \"attacking\" the underground storage with it, ended up plowing straight into a bin of scrapped experiment samples. Whole building reeked of rotting fin for days.",
+         "zh-TW": "然後用它攻打地下冷庫，不小心撞翻了報廢實驗樣本的回收箱，弄得整棟樓都飄著一股鱗肉腐壞了的味道。",
+         "zh-CN": "用它攻打地下冷库时，不小心撞翻了报废实验样本的回收箱，搞得整栋楼都飘着一股鳞肉腐坏了的味儿。",
+         "ja": "地下の冷凍庫に攻め込んだら、廃棄サンプルの回収箱をひっくり返しちまってなァ……宏科院全体が鱗獣の腐った匂いに……",
+         "ko": "그걸로 지하 냉동고를 습격하다가, 폐기 실험 표본 수거함을 들이받는 바람에 건물 전체가 썩은 린수 냄새로 진동했었거든."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Once I get this new mini-speedster shipworthy, you're definitely getting a front-row demo, Endmin.",
+         "zh-TW": "等這艘新的迷你戰艦做好了，我叫您來看啊。",
+         "zh-CN": "等这艘新的迷你战舰做好了，我叫您来看啊。",
+         "ja": "まあ、次のミニ戦艦が出来たらおめえに見せてやるよ。",
+         "ko": "이번에 새 전함이 완성되면, 꼭 자네를 부를 테니 구경하러 오게."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Gonna polish the design real nice and make it look proper intimidating. Just you wait, the crew's gonna lose their minds when they see this thing!",
+         "zh-TW": "我好好設計一下外形，把它弄帥氣一點，到時候一定可以嚇大家一跳。",
+         "zh-CN": "我好好设计下外形，给它弄帅气点儿，到时候肯定能把大伙儿吓一跳。",
+         "ja": "見た目もしっかりデザインしてやらァ。皆、びっくりすると思うぜ。",
+         "ko": "외형도 멋지게 디자인해서, 보는 사람들 모두 깜짝 놀라게 만들어보자고."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "The novel's blurb does seem interesting... I'll admit, I'm a little curious now.",
+         "zh-TW": "看小說簡介描述，蠻有趣的。有一點點好奇……",
+         "zh-CN": "看小说简介描述，挺有趣的。有一点点好奇……",
+         "ja": "紹介文を見ると、面白そうな小説だ……ちょっと気になるな。",
+         "ko": "소설 소개를 읽어보니, 내용이 꽤 재밌어 보이는데요. 조금 궁금하긴 하네요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Perfect! Forget the refund then. I'll drop the book off at your place later.",
+         "zh-TW": "那就太好了。我不研究退款了，等一下把書送過去給您。",
+         "zh-CN": "那敢情好。我不折腾退款了，一会儿把书给您送过去。",
+         "ja": "お、ありがてェ話だ。返品すんのはやめて、あとでおめえんとこに持ってってやる。",
+         "ko": "그럼 됐네. 힘들게 환불 안 하고, 이따가 자네한테 가져다주겠네."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Consider it a gift for the right reader. If you like it, you'll have to tell me all about it later!",
+         "zh-TW": "書贈有緣人，您要是覺得好看，有空跟我講講裡面的內容。",
+         "zh-CN": "书赠有缘人，您要是觉得好看，回头给我讲讲里面的内容。",
+         "ja": "本は縁ありゃ譲るもの……ってなァ。面白かったら、内容を教えてくれよ。",
+         "ko": "책은 인연이 닿는 사람한테 주는 게 낫지. 읽어보고 재밌으면, 나중에 줄거리나 얘기해주게나."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Ah hell, didn't mean to chew your ear off like that. Next round's on me, we'll grab a proper meal and really talk it out.",
+      "zh-TW": "欸，拉著您說了這麼多，耽誤您時間了。有機會請您吃個飯，咱們再慢慢聊。",
+      "zh-CN": "嗐，拉着您说了这么多，耽误您时间了。有机会请您吃个饭，咱们再慢慢聊。",
+      "ja": "いやァ、ずいぶん話し込んじまった……時間取らせたな。今度、またメシでも食いながらゆっくりな。",
+      "ko": "이거 참, 바쁜 사람 붙잡아놓고, 괜히 말이 길어졌구먼. 나중에 밥 한 끼 대접하겠네, 그때 천천히 얘기하자고."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I'm holding you to that. So when exactly is \"next round\"?",
+         "zh-TW": "我當真了，有機會是哪天？",
+         "zh-CN": "我当真了，有机会是哪天？",
+         "ja": "「今度」って、いつ？",
+         "ko": "정말이죠? 나중에 언제요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sure! Been hearing legends about your cooking. I'll bring the appetite.",
+         "zh-TW": "好啊，早就聽說你做菜一絕。我等著。",
+         "zh-CN": "好啊，早就听说你做菜一绝。我等着。",
+         "ja": "うん。君の料理の評判を前から聞いていたからね。楽しみにしているよ。",
+         "ko": "좋아요, 판 선생님 요리 솜씨가 뛰어나다는 얘기를 정말 많이 들었는데, 기대하고 있을게요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Hah! Soon, soon. Mark my words.",
+      "zh-TW": "哈哈，改天，改天。一定。",
+      "zh-CN": "哈哈，改日，改日。一定。",
+      "ja": "へへ……「今度」は「今度」だ。必ずな。",
+      "ko": "하하, 다음에, 다음에 꼭 대접하도록 하지!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Gonna grab a copy of \"Dual-Purpose Battleship Maintenance\"...",
+      "zh-TW": "我去買本《軍地兩用戰艦維修》……",
+      "zh-CN": "我买本《军地两用战舰维修》去……",
+      "ja": "次は『軍民両用戦艦の整備』ってやつ、買ってみるか……",
+      "ko": "그럼 난 <군·민간 겸용 전함 정비>라는 책을 사러 가봐야겠네..."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0018_dapan_2",
+   "topic": {
+    "en": "Now Playing",
+    "zh-TW": "電影上映",
+    "zh-CN": "电影上映",
+    "ja": "映画の上映",
+    "ko": "영화 상영회"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Endmin, you like movies?",
+      "zh-TW": "管理員，您喜歡看電影嗎？",
+      "zh-CN": "管理员，您喜欢看电影吗？",
+      "ja": "管理人、映画好きか？",
+      "ko": "관리자, 자네 혹시 영화 보는 건 좋아하나?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Back when I was bumming around Talos-II, I somehow wound up as an extra in a few flicks. One of 'em's finally hitting the screens, and the director mailed me a ticket.",
+      "zh-TW": "之前我在塔衛二閒逛時，機緣巧合，客串過幾部電影。有一部要上映了，導演寄了張電影票給我。",
+      "zh-CN": "之前我在塔卫二瞎逛时，机缘巧合，客串过几部电影。有一部要上映了，导演给我寄了张电影票。",
+      "ja": "タロⅡをふらふらしてたらよう……なんでか、映画のエキストラをやることになっちまったんだ。その中の1本が公開されるってんで、監督からチケットが送られてきたんだ。",
+      "ko": "전에 내가 탈로스 II 여기저기 돌아다니다가, 우연히 영화 몇 편에 엑스트라로 출현한 적이 있거든. 그중 한 편이 곧 개봉된다고, 감독이 영화표를 보내줬네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Word is, it's not half bad. Want me to swing that ticket your way?",
+      "zh-TW": "聽說口碑還不錯。您要是想看的話，我把票拿過去給你。",
+      "zh-CN": "听说口碑还不错。您要想看的话，我把票给您拿去。",
+      "ja": "評判も悪くねェらしい……興味がありゃあ、このチケットをおめえにやる。",
+      "ko": "평도 괜찮다던데, 혹시 관심이 있으면 자네가 보러 가게."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Wouldn't you want to see it yourself? Seems like a pretty special moment.",
+         "zh-TW": "這麼有意義的事情，不自己去看看嗎？",
+         "zh-CN": "这么有意义的事情，不自己去看看吗？",
+         "ja": "すごいことだと思うけど、自分で見に行かなくていいの？",
+         "ko": "그렇게 의미 있는 작업물인데, 직접 보러 가시진 않나요?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Watching yourself on screen, playin' at being someone else, then hearing strangers cackle at it? Nah, that's way too much skin-crawlin' for me.",
+         "zh-TW": "看到自己在銀幕裡，變成另一個人，過著另一種人生，觀眾再送上兩聲大笑，多彆扭。",
+         "zh-CN": "看到自己在屏幕里，变成另一个人，过着另一种人生，观众再送上两声大笑，多别扭。",
+         "ja": "スクリーンの中で別人のオレが、別の人生を歩んでる……んで、観客がそれ見て笑うなんてなァ……むず痒くて、仕方ねェぜ。",
+         "ko": "스크린 속의 내가 다른 사람이 되어, 다른 삶을 보내고... 관객이 그걸 보고 껄껄 웃는 걸 보고 있자니... 괜히 어색하더라고."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "What about Lifeng and the crew? Bet they'd kill to see this.",
+         "zh-TW": "黎風他們一定有興趣，不讓他們去看嗎？",
+         "zh-CN": "黎风他们肯定有兴趣，不让他们去看吗？",
+         "ja": "リーフォンたちが見たがるんじゃないかと思うけど……",
+         "ko": "여풍 씨나 다른 분들이 알면 분명 관심 있어 할 것 같은데, 안 부르실 건가요?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Have some mercy! Those brats would never let me live it down 'til next winter at least.",
+         "zh-TW": "別別別，饒了我吧。那幾個孩子可以笑我笑到明年！",
+         "zh-CN": "别别别，饶了我吧。那几个孩子能拿我打趣到明年！",
+         "ja": "おいおい、勘弁してくれよう……1年はネタにされちまう。",
+         "ko": "에이, 됐네, 됐어. 그 녀석들이 알면, 최소 삼 년은 우려먹을 걸세."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Besides, I was basically set dressing. Doubt you'd even spot me. Played some guy called the Wok-Flipping King in one scene — just clanging a spatula behind the villain.",
+      "zh-TW": "而且我就是去當塊背景板的，都不一定能看到我……那個角色叫「同手同腳炒飯大王」，全片就一個鏡頭，站在反派後面甩鍋。",
+      "zh-CN": "而且我就是去当块背景板，都不一定能看得见我……那个角色叫“顺拐炒饭大王”，全片就一个镜头，站在反派后边儿颠勺。",
+      "ja": "それに、オレの役はただの風景みてェなもんなんだ。「モタモタチャーハンキング」なんて変な名前で、出番はワンカット。悪役の後ろでちょいっと中華鍋降ってるだけよ。",
+      "ko": "게다가 난 그냥 배경에만 살짝 나와. 제대로 보이지도 않을 걸세... 그때 배역 이름이 '헤롱이 볶음밥 장인'인데, 전편 통틀어 악당 뒤에 서서 웍질하는 장면 한 컷뿐이라네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "The director's a real character too. For that one damn shot, she had me dye my fur from black-and-white to fire-engine red.",
+      "zh-TW": "導演她也是怪人。為這一個鏡頭，還把我的毛從黑白染成紅的了。",
+      "zh-CN": "导演她也是怪人。为这一个镜头，还把我的毛从黑白染成红的了。",
+      "ja": "監督もずいぶん変わっててなァ……たったワンカットのために、オレの毛を赤くそめやがった。",
+      "ko": "그 감독도 참 이상한 사람이었네. 그 짧은 장면 하나 찍는다고 글쎄, 내 털을 빨간색으로 염색시켰다니깐."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Your resume's wilder than I thought.",
+         "zh-TW": "你的經歷比我知道的還豐富。",
+         "zh-CN": "你的经历比我知道的还丰富。",
+         "ja": "君の経歴は、思っていたよりもずっと幅広いね。",
+         "ko": "판 선생님의 경력은 제가 알고 있는 것보다 훨씬 다양하네요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Master Da Pan's career range just keeps expanding, huh?",
+         "zh-TW": "大潘師傅的工作履歷，跨度比我想的還大。",
+         "zh-CN": "大潘师傅的工作履历，跨度比我想的还大。",
+         "ja": "ダパン師匠は本当にいろんな職業を経験しているんだね。",
+         "ko": "판 선생님 경력의 폭이 제 예상보다 너무 넓은데요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "After leaving HAS, I figured I'd wander a bit — see the world, learn a thing or two.",
+      "zh-TW": "離開宏山科學院後，我想散散心，長長見識。",
+      "zh-CN": "离开宏山科学院后，我想散散心，长长见识。",
+      "ja": "宏科院出てからはよう、気晴らしと……あとは、知見を広げるためってとこかァ。",
+      "ko": "홍산 과학원을 떠난 뒤엔, 그냥 생각도 정리할 겸, 세상 구경도 좀 하고 싶었네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Back then, I donated my whole nest egg... Ended up drifting from job to job, just enough to keep moving. Saw every metropolis on Talos-II that way.",
+      "zh-TW": "當年把存款都捐了……口袋裡沒錢，就一邊打工一邊旅行。把塔衛二上的幾個大城市逛了個遍。",
+      "zh-CN": "当年把存款都捐了……兜儿里没钱，就一边打工一边旅行。把塔卫二上的几个大城市转了个遍。",
+      "ja": "あんとき、オレは貯金を全額寄付しちまってたんだ……手持ちゼロのまま、バイトしながら旅を続けてよう……タロⅡの大きい街はほとんど全部行ったんじゃねェか？",
+      "ko": "그때 모아둔 돈을 전부 기부했었거든... 주머니는 텅 비었지, 그래도 생활은 이어가야 하니, 여기저기 여행하며 일을 찾아다녔지. 탈로스 II에 있는 웬만한 큰 도시들은 죄다 돌아봤다네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "If you ever get the chance, you gotta hit up La Fantoma. Their music festivals are absolute madness in the best way.",
+      "zh-TW": "您要是有空，一定要去菈梵朵瑪看看。那個音樂節真的非常精彩。",
+      "zh-CN": "您要是有空，一定得去菈梵朵玛看看。那音乐节叫一个精彩。",
+      "ja": "おめえも時間がありゃあ、ラヴァンドマに行ってみろい。音楽祭が最高なんだぜ。",
+      "ko": "자네도 시간이 나면 라반도르마에 꼭 가보게. 거기 뮤직 페스티벌은 진짜 끝내준다고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Ah, hell... Truth is, when I first hit the road, I was chew'n my claws off with nerves.",
+      "zh-TW": "唉，其實……剛踏上旅行時，我心裡很焦慮。",
+      "zh-CN": "唉，其实……刚踏上旅行时，我心里特别焦虑。",
+      "ja": "でもよう……旅を始めてすぐの頃は、オレも不安でなァ。",
+      "ko": "하아... 사실 처음 여행길에 올랐을 땐 마음이 꽤 불안했네."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Guessing you were scared of ... wasting time?",
+         "zh-TW": "我猜你害怕虛度光陰。",
+         "zh-CN": "我猜你害怕虚度光阴。",
+         "ja": "時間をもったいなく感じたとか？",
+         "ko": "세월을 헛되이 보낼까 봐 두려우셨나요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Were you scared that once you jumped the rails, you'd never slot back in?",
+         "zh-TW": "難道是擔心脫離正軌，再也回不去了？",
+         "zh-CN": "难道是担心脱离正轨，再也回不去了？",
+         "ja": "元の生活に戻れなくなるのが怖かったの？",
+         "ko": "기존의 길에서 너무 멀어져서, 다신 돌아갈 수 없을까 봐 걱정되셨나요?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Wow Endmin, always cutting right to the bone, aren't ya?",
+      "zh-TW": "不愧是管理員，一針見血。",
+      "zh-CN": "不愧是管理员，一针见血。",
+      "ja": "さすが、一発で見抜くなァ。",
+      "ko": "역시 관리자야, 바로 정곡을 찌르는구먼."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "At HAS, I was Vanguard Scientist Pan Yuan. But when I walked away, all those titles and credits turned to smoke. So who the hell am I then?",
+      "zh-TW": "留在宏科院，我是先進科研工作者潘遠。離開宏科院，頭銜貢獻，全都煙消雲散了。那我是誰？",
+      "zh-CN": "留在宏科院，我是先进科研工作者潘远。离开宏科院，名头贡献，全都烟消云散了。那我是谁？",
+      "ja": "宏科院にいるオレは「優秀研究者パン・ユェン」だった。離れちまえば、その肩書きも功績も全部消えちまう。なら、オレは誰なんだってなァ……",
+      "ko": "홍산 과학원의 나는 '선진 과학 연구자 판 원'이었네. 하지만 거길 떠나면 이름도, 업적도 모조리 사라지지... 그럼 난, 대체 누구냐는 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Whenever my old mentor called, she never said it straight, but I could hear that disapproval twistin' through every word. Like I'd gone and kicked over the chessboard.",
+      "zh-TW": "老師打電話給我時，雖然沒有明說，但我也能聽出來她老人家拐彎抹角地，怪我衝動。",
+      "zh-CN": "老师给我打电话时，虽然不明说，但我也能听出来她老人家拐弯抹角，怪我冲动。",
+      "ja": "先生から電話をもらったときはよう……はっきりと言わねェにしても、遠回しに「軽率だった」って言われたのはわかったんだ。",
+      "ko": "선생님이 전화 주셨을 때도, 대놓고 말씀은 안 하셨지만 내 충동적인 선택을 못마땅해하신 게 느껴졌네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Then one day, I hauled myself up some mountain pass and saw Talos in the sky, lighting up Talos City below... That's when I knew. Not a damn second went wasted.",
+      "zh-TW": "直到有一天爬到山上，看到天上的塔羅斯，映照著地上的塔羅斯城——我確定自己沒浪費時間。",
+      "zh-CN": "直到有一天爬到山上，看到天上的塔罗斯，映照着地上的塔罗斯城——我确定自己没浪费时间。",
+      "ja": "でもなァ……ある日、山に登って、空のタロスと地上のタロスシティが重なって――オレが過ごした時間に、無駄なんかねェんだって気づいた。",
+      "ko": "그런데 어느 날 산에 올라서 보니, 하늘의 탈로스가 땅 위의 탈로스 성을 비추고 있더군. 그 순간 확신했지. 아, 내 시간이 결코 헛된 게 아니구나."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "New Wrankwood, Simonch... I kept putting one foot after another. Going from place to place...",
+      "zh-TW": "新藍卡塢、塞夢珂……我走過一個又一個地方……",
+      "zh-CN": "新蓝卡坞、塞梦珂……我走过一个又一个地方……",
+      "ja": "ニューランクウッド、シモンク……あっちこっち回ってよ……",
+      "ko": "뉴 랭크우드, 사이몬크... 수많은 곳을 돌면서..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "I walked among the people, learned every shade of life. I stood before the vast sky and earth ... and finally saw my own smallness.",
+      "zh-TW": "觀眾生，知道人生百態。觀天地，認清自己的渺小……",
+      "zh-CN": "见众生，知道人生百态。见天地，认清自己的渺小……",
+      "ja": "人を見て、世の中を知った……天地を見て、自分のちっぽけさを知った……",
+      "ko": "사람들의 삶을 지켜보며, 세상의 다양함을 알았고... 하늘과 땅을 바라보며, 내가 얼마나 미약한 존재인지도 깨달았네..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Had to taste every damn flavor under Talos, that's how you learn what really sings. Hell, that's the whole soul behind LA-ME-DA now!",
+      "zh-TW": "品嚐過各式各樣的食物，才能取其精華，才有現在的「辣麼大」火鍋店嘛！",
+      "zh-CN": "尝过各种各样的食物，才能取其精华，才有现在的“辣么大”火锅店嘛！",
+      "ja": "そんで、いろんなもん食って……で、今の火鍋屋「辣么大（ラーマーダ）」があるってこった！",
+      "ko": "별의별 음식을 다 맛보고 그 정수를 뽑아내서, 지금의 '라머따' 훠궈집이 있는 거 아니겠나!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You know, with all the food talk... I think you're forgetting something?",
+      "zh-TW": "說到食物，你好像忘記了一件事……",
+      "zh-CN": "说到食物，你好像忘记了一件事……",
+      "ja": "食べ物の話になったけど……忘れてることが……",
+      "ko": "음식 얘기 나와서 말인데, 판 선생님 뭔가 잊어버린 건 아니신지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "The meal promise? Wouldn't dare forget. Just gotta fine-tune the menu.",
+      "zh-TW": "請您吃飯嘛，沒忘沒忘。我再思考一下菜單。",
+      "zh-CN": "请您吃饭嘛，没忘没忘。我再琢磨琢磨菜单。",
+      "ja": "おめえにメシ作ってやるって話か？忘れてねェよ。メニューをちいっと考えてるだけだ……",
+      "ko": "한 끼 대접하겠다는 거 말이지? 기억하고 있네. 메뉴를 좀 더 고민해 보려 하네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Btw, you still want the ticket?",
+      "zh-TW": "對了，您還要不要電影票？",
+      "zh-CN": "对了，您还要不要电影票？",
+      "ja": "忘れてたぜ。映画のチケット、いるか？",
+      "ko": "아 참, 그래서 영화는 보러 갈 텐가?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Absolutely. Wouldn't miss your silver-screen debut for the world.",
+         "zh-TW": "當然，我要去欣賞一下你的演技。",
+         "zh-CN": "当然，我要去欣赏一下你的演技。",
+         "ja": "もちろんだ。君の演技を「拝見」しよう。",
+         "ko": "물론이죠. 꼭 판 선생님의 연기를 감상하러 갈 거예요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Of course. Already rolling up my sleeves for a proper cinematic roast.",
+         "zh-TW": "當然，我已經摩拳擦掌、迫不及待了。",
+         "zh-CN": "当然，我已经摩拳擦掌、迫不及待了。",
+         "ja": "もちろんだ。もう腕が鳴って、待ちきれないな。",
+         "ko": "그럼요, 벌써부터 기대돼서 몸이 근질근질하네요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "...Yeah, no way you're walkin' outta that theater without ribbin' me for life.",
+      "zh-TW": "……我怎麼覺得，您回來一定會笑我呢？",
+      "zh-CN": "……我怎么感觉，您回来肯定要笑话我呢？",
+      "ja": "……笑われるもんだと思って、心の準備でもしといたほうがよさそうだなァ……",
+      "ko": "...왠지, 보고 와서 날 놀릴 거 같은데?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0018_dapan_3",
+   "topic": {
+    "en": "Food is Life.",
+    "zh-TW": "吃飯比天大",
+    "zh-CN": "吃饭比天大",
+    "ja": "メシは命より大事",
+    "ko": "먹는 것보다 중요한 건 없다"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Endmin, I finalized the menu. Swing by later for a proper feast. Da Pan's kitchen's open.",
+      "zh-TW": "管理員，大潘師傅決定好菜單了，晚點來祭五臟廟啊。",
+      "zh-CN": "管理员，大潘师傅决定好菜单了，晚点来打牙祭啊。",
+      "ja": "管理人。「ダパン師匠」がついにメニューを決めたぜ。あとで腹ごしらえに来いよう！",
+      "ko": "관리자, 드디어 메뉴를 정했네, 오늘 입에 기름칠 좀 할 텐가?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Finally found the perfect day for a proper feast, huh?",
+      "zh-TW": "終於找到適合祭五臟廟的日子了？",
+      "zh-CN": "终于找到适合打牙祭的日子了？",
+      "ja": "ついに「いい日」が見つかったのかな。",
+      "ko": "드디어 오늘 판 선생님의 요리를 맛볼 수 있는 건가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Feast days ain't got no calendar. Good mood? Eat well. Bad mood? Eat better. Every meal's a celebration.",
+      "zh-TW": "祭五臟廟可不用挑日子。心情好就要吃好的，心情不好更要吃好的，頓頓好。",
+      "zh-CN": "打牙祭可不用挑日子。心情好得吃好的，心情不好更得吃好的，顿顿好。",
+      "ja": "腹ごしらえに日なんて関係ねェ。気分がよけりゃあうまいもん食う。気分が悪けりゃあもっとうまいもん食う。常にいいもんを食う。",
+      "ko": "밥 먹는데, 오늘 내일이 어디 있겠나. 기분이 좋으면 맛있는 걸 먹는 거고, 기분이 안 좋으면 더더욱 맛있는 걸 먹어야 하는 거지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Food's the first law of heaven. Always comes before everything else. For us Hongshan folks, all our survival wisdom's right in this pot.",
+      "zh-TW": "民以食為天，吃飯比天大。咱們宏山人，所有的生存智慧都在這鍋裡。",
+      "zh-CN": "民以食为天，吃饭比天大。咱们宏山人，所有的生存智慧都在这锅里。",
+      "ja": "メシが第一。食うことは命より大事なんでェ。オレたち宏山の人間の生きる知恵は、全部鍋に詰まってんだ。",
+      "ko": "백성은 식량을 하늘로 여긴다고 하잖나. 세상만사 중에서 먹고 사는 것보다 더 중요한 일은 없지. 우리 홍산 사람은, 다 이 솥 안에서 살아가는 지혜를 배운다네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "I held off until now mainly 'cause it's for you, Endmin. Gotta dig deep, haul out every last secret recipe I've been sittin' on.",
+      "zh-TW": "主要是招待您，要多準備一段時間，把壓箱底的好菜都拿出來。",
+      "zh-CN": "主要是招待您，得多准备一阵子，把压箱底的好菜都拿出来。",
+      "ja": "それに、おめえをもてなそうと思ったら、じっくり仕込んだ秘蔵の料理を出さねェと。",
+      "ko": "이번엔 자네한테 대접하는 거라 준비를 좀 오래 했네. 숨겨둔 비밀 메뉴까지 다 꺼내 왔다니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Sweet-sour fin, braised mangler, salt-baked fowl, wok-fried muck chow, steamed muck dumplings...",
+      "zh-TW": "糖醋鱗、紅燒裂獸、鹽焗羽獸、乾炒獸肉河粉、獸肉蒸餃……",
+      "zh-CN": "糖醋鳞、红烧裂兽、盐焗羽兽、干炒兽肉河粉、兽肉蒸饺……",
+      "ja": "鱗獣の甘酢あんかけ、照り焼き裂獣、羽獣の塩釜焼き、獣肉とライスヌードルの炒め、獣肉蒸し餃子……",
+      "ko": "탕수 린수, 홍소 맹글러, 로스트 파울비스트 소금구이, 야수 고기 볶음면, 야수 고기 찐만두..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Whoa there! That's enough to feed a small army.",
+      "zh-TW": "太多了吧，吃不完，根本吃不完。",
+      "zh-CN": "太多了吧，吃不完，根本吃不完。",
+      "ja": "そんなにたくさん、食べきれないよ。",
+      "ko": "너무 많아요, 절대 다 못 먹을 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Perfect. Call in Chen, supervisor Perlica, even Engineer Qin! The more the merrier, especially with this spread.",
+      "zh-TW": "那就叫小陳、佩麗卡監督，還有秦工程師一起，都來都來。",
+      "zh-CN": "那就叫上小陈、佩丽卡监督，还有秦工程师一起，都来都来。",
+      "ja": "なら、チェンもペリカ監察官もシン主任も……皆、呼べばいいじゃねェか！",
+      "ko": "그럼 천우랑 펠리카 감독관, 그리고 진 선생까지 다 불러오면 되지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Crew sure is family.",
+      "zh-TW": "你跟大家關係真好。",
+      "zh-CN": "你跟大家关系真好。",
+      "ja": "皆と本当に仲がいいんだね。",
+      "ko": "정말 정이 넘치시네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "More mouths to feed just fires me up.",
+      "zh-TW": "食客越多，主廚越有幹勁。",
+      "zh-CN": "食客越多，主厨越来劲儿。",
+      "ja": "客が多けりゃ多いほど、シェフは燃えるってもんなんだぜ。",
+      "ko": "손님이 많을수록 요리사는 더 힘이 나는 거라네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Cold dishes, hot plates, whole table groaning under 'em. Folks sharing stories over bites, me listening in... Maybe even knock some sense into the young'uns. Damn perfect, if you ask me.",
+      "zh-TW": "冷盤熱菜，擺滿一桌，食客們聊點心事。我在旁邊聽，還能幫年輕人解決點問題，多好。",
+      "zh-CN": "冷盘热菜，摆上一桌，食客们聊点儿心事。我在一边听，还能帮年轻人解决些问题，多好。",
+      "ja": "冷菜も温菜もテーブルいっぱいに並べて、腹割って話す。オレぁ話を横で聞いて、若ぇやつらの悩みを解決してやる。最高じゃねェか。",
+      "ko": "한상 든든하게 차린 뒤, 손님들이 다 같이 앉아서 이야기 나누면, 난 옆에서 젊은이들의 고민거리도 슬쩍 들어주고... 얼마나 좋아."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "And what about your stories? Notice you never put 'em on the table.",
+         "zh-TW": "你自己的心事呢？你好像從來不跟其他人說。",
+         "zh-CN": "你自己的心事呢？你好像从不跟其他人说。",
+         "ja": "君の悩みはどうするの？周りの人に話しているのは見たことがないけど。",
+         "ko": "판 선생님은 고민거리 같은 거 없어요? 그런 얘기를 한 번도 안 하신 것 같네요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You're quick to fix others' plates ... but never let anyone set yours.",
+         "zh-TW": "你希望幫大家的忙，但自己卻不依賴別人。",
+         "zh-CN": "你希望帮大家的忙，但自己却不依赖别人。",
+         "ja": "皆を助けてくれるけど、君は人を頼ったりしないよね。",
+         "ko": "선생님은 우리를 도와주시려고 하면서, 정작 저희한테는 그런 기회를 안 주시잖아요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Me?",
+      "zh-TW": "我啊？",
+      "zh-CN": "我啊？",
+      "ja": "オレか？",
+      "ko": "나?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Truth is... I kept puttin' this meal off 'cause once we start talking, I might just spill everything right there between the appetizers and main course.",
+      "zh-TW": "其實……這頓飯一直拖著，也是我怕在餐桌上聊天，一個不小心就把自己的事都跟您說了。",
+      "zh-CN": "其实……这顿饭一直拖着，也是我怕在饭桌上聊天，一个不小心就把身上的事儿都倒给您了。",
+      "ja": "実はなァ……この会を先延ばしにしてたのも、うっかり自分のことを全部話しちまうんじゃねェかって……",
+      "ko": "사실은... 이번 식사 자리를 계속 미룬 것도, 괜히 수다 떨다가 내 얘기를 다 쏟아낼까 봐 걱정돼서 그랬던 걸세."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You're worried I'd talk? Or ... that I wouldn't get it?",
+         "zh-TW": "擔心我說出去，不信任我嗎？",
+         "zh-CN": "担心我说出去，不信任我吗？",
+         "ja": "言いふらしたりなんかしないよ。信じられない？",
+         "ko": "제가 설마 다른 사람한테 말할까 봐요? 절 못 믿으시는 건가요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Thought we had that trust. Was I wrong?",
+         "zh-TW": "我以為我們關係不錯，是錯覺嗎？",
+         "zh-CN": "我以为我们关系不错，是误解吗？",
+         "ja": "信頼されていると思っていたけど、勘違いだったのかな……",
+         "ko": "전 또 저희가 꽤 가까운 사이인 줄 알았는데, 제가 오해한 건가요?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "No way, you're my ride-or-die, Endmin!",
+      "zh-TW": "怎麼會啊，咱兩個關係天下第一好！",
+      "zh-CN": "哪儿能啊，咱俩关系第一铁！",
+      "ja": "んなこたねェ！オレたちの絆は最高に固ェ！",
+      "ko": "그럴 리가, 우리같이 좋은 사이가 또 어디 있다고?!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "It's just … no point dredging up old grievances with HAS. What's done is done, right?",
+      "zh-TW": "主要是跟宏科院之間那些陳年舊事，沒必要拿出來惹人不高興，都過去多少年了……",
+      "zh-CN": "主要是跟宏科院之间那些陈芝麻烂谷子，没必要拿出来给别人添堵，都过去多少年了……",
+      "ja": "ただ、宏科院との昔のゴタゴタなんてよう……わざわざ他人に聞かせるもんでもねェ。何年も前の話だしなァ……",
+      "ko": "내 얘기라고 해도, 그냥 홍산 과학원 시절의 얘기나, 다 지난 허드렛일들뿐인데, 뭐 하러 꺼내서 남한테까지 부담 주냐는 거지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "I don't wanna plant all that mess in your head. Heavy stories kill appetites faster than spoiled meat.",
+      "zh-TW": "我怕您聽了替我煩惱。心裡裝的事情一多，就容易食慾不振。",
+      "zh-CN": "我怕您听了替我纠结。心里装事儿一多，就容易食欲不振。",
+      "ja": "おめえに聞かせて、いろいろ悩ませるのも申し訳ねェ……心に抱え込んじまったら、メシも食えなくなる。",
+      "ko": "자네가 듣고 마음 쓸까 봐 그러네. 기분 좋은 자리에서 괜히 입맛 떨어지게 할 수 없진 않나."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Though ... guess I've already spilled most of it to you anyway.",
+      "zh-TW": "但這段時間下來，也跟您說得差不多了。",
+      "zh-CN": "但这段时间下来，也跟您说得七七八八了。",
+      "ja": "でも、もう8割は話しちまったかもな。",
+      "ko": "근데 가만히 생각해 보니, 그동안 자네한테 이미 이것저것 많이 털어놨구먼."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Endmin, that sky could fall and you'd probably prop it up. And I don't hand out compliments just to be polite!",
+      "zh-TW": "您身上有種天塌下來都能頂著的氣質，這話可不是跟您客套啊！",
+      "zh-CN": "您身上有种天塌下来都能扛着的气质，这话可不是跟您客套啊！",
+      "ja": "おめえなら、空が落ちてきても支えちまうんじゃねェかって、そう思う……これはお世辞じゃねェぞ！",
+      "ko": "자네는 워낙 듬직해서, 하늘이 무너져도 버텨낼 거 같은 기운이 있다네. 절대 빈말하는 거 아닐세!"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Takes one to know one. That's why everyone leans on you when the ground shakes.",
+         "zh-TW": "你也有這種氣質，所以大家願意依賴你。",
+         "zh-CN": "你也有这种气质，所以大家愿意依赖你。",
+         "ja": "君にも同じことを思っていたよ。だから、皆が君を頼りにしているんだ。",
+         "ko": "판 선생님도 마찬가지예요. 그래서 다들 선생님께 의지하잖아요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Whoa, better mean that! I will be insufferable about it for weeks.",
+         "zh-TW": "嘿，誇我？我就當真了。",
+         "zh-CN": "嘿，夸我？我可当真了。",
+         "ja": "へへっ、褒め言葉かァ……素直に受け取るぜ。",
+         "ko": "허허, 관리자한테 칭찬까지 다 듣고, 참 부끄럽구먼."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "My skill set's nothing fancy, but long as it keeps Endfield standing, that's victory enough for me",
+         "zh-TW": "我本領不大，只要是能幫到終末地，就比什麼都強。",
+         "zh-CN": "我本领不大，只要是能帮上终末地的忙，就比什么都强。",
+         "ja": "オレの腕は大したことねェが……エンドフィールドの役に立てりゃあ、それが一番ってこった。",
+         "ko": "내가 별 대단한 능력은 없어도, 엔드필드에 도움이 된다면 그게 가장 기쁜 일일세."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "And quit with the formalities, Endmin. Hit a snag? Da Pan's your man.",
+         "zh-TW": "您也不用跟我客氣。有什麼難處，儘管找我大潘！",
+         "zh-CN": "您也甭跟我客气。有什么难处，尽管找我大潘！",
+         "ja": "おめえも遠慮はいらねェぜ！困ったことがあったら、なんでも相談しろい！",
+         "ko": "자네도 무슨 어려운 일이 있으면, 언제든지 나를 찾아오게."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Anytime you need to unload, I'm here. Won't ever be \"trouble\".",
+         "zh-TW": "如果有想傾訴的事，你可以放心地找我，我不會覺得麻煩。",
+         "zh-CN": "如果有想倾诉的事，你可以放心地找我，我不会觉得麻烦。",
+         "ja": "何か話したいことがあるなら、遠慮しなくていい。",
+         "ko": "판 선생님도 힘드실 때 언제든지 저한테 기대셔도 돼요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Hah! That's exactly why everyone ends up leanin' on you. But ... yeah. Get it now.",
+         "zh-TW": "唉，就是這樣，大家才不自覺地依賴您。不過我也可以理解。",
+         "zh-CN": "唉，就是这样，大伙儿才不自觉地依赖您。不过我也能理解。",
+         "ja": "そういうとこだな。皆、無意識におめえを頼っちまう……その気持ち、よくわかるぜ。",
+         "ko": "아이고, 이래서 다들 자네한테 의지하는 거구먼. 하지만 그 마음이 이해는 가네."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Funny thing. We're all solid standing alone ... but life tastes better when the tables are full.",
+         "zh-TW": "咱們每個人都是獨立的個體，但又需要跟別人湊在一起。",
+         "zh-CN": "咱们每个人都是独立的个体，但又需要跟别人凑在一起。",
+         "ja": "オレたち、皆それぞれ違う存在だ。でも、誰かと一緒にいることだって、大切だ。",
+         "ko": "사람은 모두 독립적인 존재이지만, 결국은 서로 의지하며 살아가는 게 아니겠나."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "Nothing like that glow when your strength sparks something in others, right?",
+         "zh-TW": "如果能把自己的力量傳遞出去，心裡就很開心，對吧？",
+         "zh-CN": "如果能把自己的力量传递出去，心里头就喜滋滋的，对吧？",
+         "ja": "自分の力を分けてやって……それだけで胸が温まることだってある。",
+         "ko": "조금이라도 다른 사람에게 힘이 된다면, 그거만큼 뿌듯한 게 또 어디 있겠어, 안 그래?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Da Pan",
+         "zh-TW": "大潘",
+         "zh-CN": "大潘",
+         "ja": "ダパン",
+         "ko": "판"
+        },
+        "text": {
+         "en": "And quit with the formalities, Endmin. Hit a snag? Da Pan's your man.",
+         "zh-TW": "您也不用跟我客氣。有什麼難處，儘管找我大潘！",
+         "zh-CN": "您也甭跟我客气。有什么难处，尽管找我大潘！",
+         "ja": "だから、おめえも遠慮はいらねェ！困ったことがあったら、なんでも相談しろい！",
+         "ko": "자네도 무슨 어려운 일이 있으면, 언제든지 나를 찾아오게."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Alright Endmin, kitchen's calling. Don't you dare show up late.",
+      "zh-TW": "管理員，我先去煮菜。您千萬別遲到。",
+      "zh-CN": "管理员，我先做菜去。您可别迟到。",
+      "ja": "よし、管理人。オレはメシ作りに行ってくらァ……遅れんじゃねェぞ。",
+      "ko": "관리자, 그럼 난 요리를 준비하러 가보겠네. 늦지 말고 오게."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Wait up, I'm coming in as your sous-chef.",
+      "zh-TW": "等等我，我去幫你打下手。",
+      "zh-CN": "等等我，我去给你打下手。",
+      "ja": "待って、手伝いに行くよ。",
+      "ko": "조금만 기다려 주세요. 저도 가서 도울게요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Da Pan",
+      "zh-TW": "大潘",
+      "zh-CN": "大潘",
+      "ja": "ダパン",
+      "ko": "판"
+     },
+     "text": {
+      "en": "Damn right, early birds get first crack at the feast. Let's eat!",
+      "zh-TW": "好啊，早來早吃飯。咱們開飯！",
+      "zh-CN": "好啊，早来早吃上。咱们开饭！",
+      "ja": "おう、助かるぜ。早く来りゃあ、早くメシも食える。早速準備だ！",
+      "ko": "그래, 일찍 와야 일찍 먹지! 자, 오늘 한번 시원하게 먹어보자고!"
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 0
+}

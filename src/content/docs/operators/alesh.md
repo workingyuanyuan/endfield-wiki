@@ -48,6 +48,8 @@ sources:
 
 Alesh is a fin seller and former frontier street survivor recommended by a UWST Security Bureau liaison; he handles frontier communications and cover for Endfield and teaches its angling class.
 
+Files, voice lines and chats: [Alesh's file](/story/alesh/).
+
 ## How to obtain
 
 Alesh has no rate-up banner. Alesh is in the standard roster, which Basic Headhunting and every Chartered Headhunting pool draw from.

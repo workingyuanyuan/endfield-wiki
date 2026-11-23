@@ -1,0 +1,3013 @@
+{
+ "slug": "fluorite",
+ "gameId": "chr_0022_bounda",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Fluorite \nGENDER: Female \nAUTHENTICATION: Endfield Industries \nDOB: June 21 \nRACE: Phidia \n[ORIPATHY INFECTION STATUS] \nOripathy positive (infected), based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Standard \nCOMBAT SKILL: Excellent \nTACTICAL ACUMEN: Standard \nORIGINIUM ARTS ASSIMILATION: Normal \n\nWe would like to remind Miss Fluorite to regard our regular physical examinations as an official requirement and attend a session. If she finds yet another excuse for her absence, we shall escalate this situation to Miss Akekuri.",
+    "zh-TW": "【代號】螢石\n【性別】女\n【身分認證】終末地工業\n【生日】6月21日\n【種族】斐迪亞\n【礦石病感染情況】\n參照醫學檢測報告，確認為感染者。\n\n【綜合體檢測試】\n生理強度：標準\n作戰技巧：優良\n戰術規劃：標準\n源石技藝適應性：普通\n\n請螢石小姐務必認真參與例行體檢測試。如果她再找藉口不好好做檢查，我們就要把情況告訴秋栗小姐了。",
+    "zh-CN": "【代号】萤石\n【性别】女\n【身份认证】终末地工业\n【生日】6月21日\n【种族】斐迪亚\n【矿石病感染情况】\n参照医学检测报告，确认为感染者。\n\n【综合体检测试】\n生理强度：标准\n作战技巧：优良\n战术规划：标准\n源石技艺适应性：普通\n\n请萤石小姐务必认真参与例行体检测试。如果她再找借口不好好做检查，我们就要把情况告诉秋栗小姐了。",
+    "ja": "【コードネーム】フローライト\n【性別】女\n【身分証明】エンドフィールド工業\n【誕生日】6月21日\n【種族】フィディア\n【鉱石病感染状況】\nメディカルチェックの結果、感染者に認定。\n\n【能力測定】\n物理強度：標準\n戦闘技術：優秀\n戦術立案：標準\nアーツ適性：普通\n\nフローライトさんに定期能力測定に参加するよう求めます。今後も正当な理由なく不参加が続くようであれば、アケクリさんに報告します。",
+    "ko": "[코드네임] 플루라이트\n[성별] 여\n[신분 인증] 엔드필드 공업\n[생일] 6월 21일\n[종족] 피디아\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 우수\n전술 계획: 표준\n오리지늄 아츠 적응성: 보통\n\n플루라이트 씨는 정기 신체검사에 반드시 성실히 응해 주시기 바랍니다. 만약 계속 핑계를 대며, 검사를 제대로 받지 않을 경우, 아케쿠리 씨에게 이 상황을 보고하겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Fluorite once encouraged local civilians to violently resist a criminal organization and helped an Endfield field operations team escape certain threats. Operator Akekuri thus endorsed Fluorite's employment with Endfield Industries. She is now a member of Operations Team Z7. No new criminal records have been filed against the Operator since then. \n\nPay particular attention to Fluorite in social settings. Her \"personal grudges\" are usually not as significant as we make them, but conversations with her may take unexpected turns. Fortunately, Fluorite is not averse to being a listener. Since we place greater importance on an operator's combat capabilities, her peculiarity is not particularly difficult to handle. \nHowever, she seized the initiative and answered every question on the list before I formally delivered it to her. In fact, she even started laughing before I could complete my engaging answers. This situation was not predicted by my algorithms. Hence, this interview has been added to the archives of unique case studies for further analysis. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員螢石，在鼓動地方民眾使用暴力手段反抗當地不法勢力，並幫助終末地外勤隊伍擺脫威脅後，經幹員秋栗申請，納入Z7行動組管理，此後無新增犯罪紀錄。\n\n務必留意社交場合的螢石，她的所謂「私人恩怨」並不算什麼，但與她交流本身就足夠製造意外。幸好大多數時候螢石並不反感當一個安靜的聽眾，而我們更重視幹員的戰鬥能力，這不是一個難以處理的情況。\n但是，她搶答了我要問的每一個問題，甚至在我完成風趣回應之前笑了出來。演算法推演中不曾出現此類結果，已納入待分析特徵庫。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员萤石，在鼓动地方民众使用暴力手段反抗当地不法势力，并帮助终末地外勤队伍摆脱威胁后，经干员秋栗申请，纳入Z7行动组管理，此后无新增犯罪记录。\n\n务必留意社交场合的萤石，她的所谓“私人恩怨”并不算什么，但与她交流本身就足够制造意外。好在大多数时候萤石并不反感当一个安静的听众，而我们更重视干员的战斗能力，这不是一个难以处理的情况。\n但是，她抢答了我要问的每一个问题，甚至在我完成风趣回应之前笑了出来。算法推演中不曾出现此类结果，已纳入待分析特征库。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "フローライトは、地方の不法勢力に対して暴力的な手段で抵抗するように民衆を扇動し、さらにエンドフィールドの外勤チームが危機的状況から脱するのに協力した。その後、アケクリの申請により、行動隊Z7へと配属されている。以降、新たな犯罪歴は確認されていない。\n\n「フローライトには、過去に起因するいくつかの『私怨』が存在します。ただ、それよりも社交の場にいる彼女には十分気を付けたほうがいいでしょう――彼女との会話そのものが時としてトラブルになり得ますからね。もっとも、多くの場合、フローライトは静かに耳を傾けてくれますし、私たちとしてもオペレーターとしての戦闘能力を重視しています。そうした観点から、彼女の状況に関しては、許容範囲と判断します。」\n「面談中、私が質問する前に彼女はすでに答え始め、こちらがユーモアを交える余地もないまま先に笑っていました。演算アルゴリズムでは想定されていなかった反応だったため、このやり取りは分析データベースに記録しました。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 플루라이트, 현지 주민들을 선동하여 불법 세력에 맞서 폭력적인 수단으로 저항하게 만들고, 엔드필드 외근 팀이 위협에서 벗어날 수 있도록 도왔다. 이후 아케쿠리 오퍼레이터의 신청에 따라 Z7 작전팀에 편입되었으며, 그 후로 추가 범죄 기록은 없다.\n\n사교 활동에서 플루라이트를 대할 때는 각별히 주의할 필요가 있다. 그녀의 '개인적인 원한'은 큰 문제가 되진 않지만, 단지 그녀와 대화하는 것만으로도 예상치 못한 상황이 발생할 수 있기 때문이다. 다행히도 대부분의 경우 플루라이트는 조용히 듣기만 하는 데 거부감을 보이지 않으며, 엔드필드에서도 오퍼레이터의 전투 능력을 더 중요하게 평가하므로, 그녀의 이러한 성향은 크게 문제가 되지 않을 것으로 판단된다.\n하지만 그녀는 내가 하려던 모든 질문에 미리 대답했고, 심지어 내가 재치 있는 반응을 하기도 전에 먼저 웃음을 터뜨렸다. 이는 기존 알고리즘 추론에 존재하지 않던 유형이었으며, 현재 특성 분석 데이터베이스에 새롭게 추가되었다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "According to Fluorite herself, her Originium Arts solely focused on the creation of polymorphic fluids with adhesive abilities. However, if this were true (which I personally feel to be not), then her malignant social skills could only be explained by her \"extensive experiences\" — since she has expert-level abilities in identifying damaging information about others. Fluorite's willingness to reveal such information without hesitation is another thing entirely. Even though Arts assimilation test results are publicly accessible, there are those who stubbornly believe that Fluorite has secret \"divination\" abilities. \n\"Just think about it. You almost flopped your PE and the instructor just gave you an earful. While heading back to the dorms you see Fluorite along the corridors and she suddenly goes, 'I guess it can't be helped. Midnight sandwiches are just so divine'... She's so friggin' annoying! Fine, I know I shouldn't be snacking at night but why would she say it out loud?\" \nOne Operations Team Z7 member once voiced their frustrations, but instead of receiving comfort, they were met with a chorus of knowing looks that silently said, \"I feel you.\" In all fairness, Fluorite does not intend to stir up trouble and she hardly speaks during dialogs. However, her carefree nature combined with her excessively unforgiving tone proved to be rather discomforting to most people during many situations. When these issues were brought before Fluorite, her defense was simple and sincere: \n\"You want me to go and apologize?\"",
+    "zh-TW": "根據本人自述，螢石的源石技藝只是製造一些狀態多變、具有黏著性的液體。如果情況屬實（我得說，可信度並不高），那麼她糟糕的社交表現就只能用「閱歷豐富」來解釋了——只有專家才知道怎樣準確揣測別人的痛點，至於她為什麼會毫不猶豫地戳下去則是另一碼事。即便測試結果已經公開，依然有人固執地認為她一定還有其他諸如「讀心術」之類的秘密能力。\n「試想一下，你今天的體能測試差點不及格，剛剛被教官一頓臭駡。回宿舍的路上看到她，她突然冒出來一句『沒辦法，半夜的三明治的確很誘人』……這還不夠煩嗎？好，我知道偷吃宵夜是我不對，但她幹嘛說出來啊！」\n有人曾經這樣向Z7行動組的成員們抱怨，卻沒有得到太多安慰，只收穫了無數「我懂你」的眼神。平心而論，螢石並不喜歡惹是生非，性格方面甚至稱得上沉默寡言。然而，她自由散漫的行動方式和太過犀利的溝通習慣結合在一起，大部分情況下都會讓人不適。對於這些控訴，螢石的自我辯護簡單而真誠：\n「要我去道歉嗎？」",
+    "zh-CN": "根据本人自述，萤石的源石技艺只是制造一些性状多变、具有黏着性的液体。如果情况属实（我得说，可信度并不高），那么她糟糕的社交表现就只能用“阅历丰富”来解释了——只有专家才知道怎样准确揣测别人的痛点，至于她为什么会毫不犹豫地戳下去则是另一码事。即便测试结果已经公开，依然有人固执地认为她一定还有其他诸如“读心术”之类的秘密能力。\n“试想一下，你今天的体能测试差点儿不合格，刚刚挨了教官一顿臭骂。回宿舍的路上看到她，她突然冒出来一句‘没办法，半夜的三明治的确很香’……这还不够烦人吗？行，我知道偷吃宵夜是我不对，但她干嘛说出来呀！”\n有人曾经这样向Z7行动组的成员们抱怨，却没有得到太多安慰，只收获了无数“我懂你”的眼神。平心而论，萤石并不喜欢惹是生非，性格方面甚至称得上沉默寡言。然而，她自由散漫的行动方式和太过犀利的沟通习惯结合在一起，大部分情况下都会让人不适。对于这些控诉，萤石的自我辩护简单而真诚：\n“要我去道歉吗？”",
+    "ja": "本人の自己申告では、フローライトのアーツは「多様な性質を持つ、粘着性の液体を生み出す」程度のものらしい。もしそれが事実だとすれば（正直、信憑性は高くない）、社交の場での言動は「経験豊富」としか説明がつかないだろう――他人の痛いところを、あんなにも的確に突けるのは、もはやプロの技だ。もっとも、なぜためらいもせずに突き刺してくるのかという疑問は、また別の話だ……測定結果が公開された今も「フローライトには、『読心術』のような隠し能力が絶対にあるに違いない」と強く主張する者は後を絶たない。\n「だって、考えてみてくださいよ！テストで合格ギリギリ、教官に散々叱られた日だったとしましょう。その帰り道、寮に着く途中で会ったフローライトがいきなり『ざーんねん、夜中のサンドイッチって美味しいもんねぇ？』って言ってきたら……うざくないですか？夜食を盗み食いした自分が悪い、それはわかってますよ。でもわざわざ言うことなくないですか！？」\nこのように、行動隊Z7の隊員に文句をぶつけた人もいたが、大して慰められることもなく「わかる」という視線を浴びるだけであった。とはいえ、フローライト自身は別に揉め事が好きというわけではない。むしろ、性格的には寡黙と言えるだろう。しかし、あの自由奔放な振る舞いと、鋭すぎる会話の癖の組み合わせは……大抵の人を、不快にする。そういった指摘に対してフローライトは、簡潔で真摯な返答をする――\n「私、謝ってもいいけどねぇ？」",
+    "ko": "본인 진술에 따르면 플루라이트의 오리지늄 아츠는 단지 성질이 다양하게 변하고 점착성을 띤 액체를 만들어내는 정도라고 한다. 사실이라면(솔직히 신뢰도는 높지 않지만), 그녀의 형편없는 대인관계는 '경험이 풍부하다'는 말로밖에 설명할 수 없을 것이다. 전문가만이 타인의 아픈 곳을 정확히 짚어내는 법을 알기 때문이다. 다만, 그것을 왜 서슴없이 찌르는지는 또 다른 문제다. 테스트 결과가 이미 공개되었음에도 불구하고, 여전히 일부 사람들은 그녀에게 '독심술' 같은 숨겨진 능력이 있을 거라 믿는다.\n\"상상해 보세요. 오늘 체력 테스트에서 간신히 탈락을 면하고, 교관한테 욕까지 한 바가지 먹었어요. 그런데 돌아가는 길에 그녀가 갑자기 '어쩔 수 없지, 새벽에 먹는 샌드위치는 정말 맛있으니까.'라는 말을 툭 내뱉는 거예요... 짜증이 안 나겠어요? 인정해요, 내가 몰래 야식 먹은 게 잘못이긴 한데, 굳이 그걸 말해야겠냐고요!\"\n누군가 Z7 작전팀 팀원들에게 이런 불만을 토로했지만, 위로는 커녕 '나도 네 심정 이해한다'는 눈빛만 한가득 돌아왔을 뿐이었다. 사실 플루라이트는 일부러 말썽을 일으키는 걸 좋아하지 않는다. 오히려 성격은 조용하고 말수가 적은 편에 가깝다. 다만, 자유분방한 행동 방식과 날카로운 대화 스타일이 합쳐지면, 대부분의 경우 상대방을 불편하게 만든다. 이런 불평들에 대한 플루라이트 본인의 변론은 단순하고도 솔직하다.\n\"가서 사과해야 하나?\""
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "Verana. Known aliases: Double Hands, Gossipmonger, Shots-Got-Eyes, Strangleweed. Female. Phidia. Green haired. \nFormer muscle Boozers, former muscle for the Lamelegs; former member of the gunslinger posse for the Hungry Lupos; honorary member of the Scarred Company (scratched out to avoid reprisal); top shooter working for \"Weird Neck\" Logan. Rumors say that Verana began working at a proper security company after leaving the underworld. \nVerana is extremely skilled in the use of hand guns, throwing daggers, and hand crossbows. She is famous for her quick-draws, cunning, and willingness to lay down various traps. Keep an eye on anything she holds. Do not believe anything (not even a word) she says. Do not attempt to confront her in the wildlands as it has proved to be extremely risky and dangerous. \nWANTED FOR: Violating the established order; stealing gang supplies, treason; inflaming local tensions in the town of Oriron Screw, toppling the business of \"Weird Neck\" Logan, and physically wounding and crippling every member of his operations. Also, we now have verified that she is the one who dealt a powerful kick to the nethers of a certain spokesperson in a public setting before fleeing the scene. \nINTERMEDIARY: Go to the bar Road of No Return and talk to Bald Brown. Payment upon delivery, to be made in old bills with no consecutive serials. Body parts also accepted. 30% for hands and feet. 50% for the tongue. \nBOUNTY: 300,000 T-Creds \nUPDATE: 450,000 T-Creds \nUPDATE: 800,000 T-Creds (Payer's request: Another 200,000 T-Creds if captured alive!) \nUPDATE: 1,200,000 T-Creds \n\n(Handwritten scribbles) That \"certain\" spokesperson is Powell. He deserved it. \n\nSOW Notes: After much persuasion from our side, Operator Fluorite voluntarily submitted this bounty poster. As of now, we can verify that no copies furnished with her handwriting can be found. The Human Resources Division has already conferred with Operator Fluorite regarding the public attack on the spokesperson. Please direct your inquiries to the said division if you need to peruse the relevant records. \nSpokesperson Powell did not suffer serious physical injuries, but his public image took a significant blow. This was due not only to his exaggerated and undignified reactions to the intense pain, but also due to the fact that he revealed a malicious demeanor (upon finding Fluorite), which sharply contrasted with the public persona he had built throughout the days. Our investigations further revealed that Spokesperson Powell's early political activities were primarily centered around several free cities near the frontiers. Records indicate frequent interactions with leaders of various minor criminal organizations. One such example is \"Weird Neck\" Logan, who once dominated the town of Oriron Screw and is a potential suspect in illicit crop trading and the use of forced labor in hazardous environments. Logan has, on multiple occasions, granted Powell monetary benefits in exchange for protection. \nOperator Fluorite's final action in the town of Oriron Screw obviously revealed her personal grudge against Spokesperson Powell, who had secretly offered protection for local criminal organizations. After accessing monitoring records, we verified that Fluorite carried out the deed while donning a mask. Spokesperson Powell's criminal records have since been submitted to the TGCC. This incident is unlikely to trigger further PR issues, for now.",
+    "zh-TW": "維若娜，外號「雙利手、長舌婦、子彈長眼、無根草」，女，斐迪亞，綠髮。\n前任醉鬼幫打手、瘸幫打手、餓狼幫短銃隊隊員、疤痕傭兵隊掛名（不用防範報復）、「歪脖子」羅根的頭牌射手，據說金盆洗手後在白道的保全公司任職。\n擅長使用短銃，也會用飛刀、手弩。行動敏捷，出手極快，非常狡猾，會使用各種陷阱。留意她手上的任何東西，不要聽她說的任何一個字，以及不要在野外找她麻煩，非常危險。\n事蹟：以下犯上、偷竊幫派物資、背叛組織；煽動「異鐵螺釘」小鎮居民，搞垮「歪脖子」羅根的產業，將幫派全部成員致殘；另外，我們確信在公共場合猛踢某位發言人下體後逃走的就是她。\n交易人：「不歸路」酒吧找光頭布朗。舊幣不連號，見人見錢。手腳拿三成，舌頭拿五成。\n懸賞額：300,000金票\n更新：450,000金票\n更新：800,000金票（金主要求，活捉再加20萬！）\n更新：1,200,000金票\n\n（潦草的手寫體）「某位」發言人是鮑威爾，活該。\n\nS.O.W.備註：經過勸說，螢石幹員主動上交了這份懸賞令。目前暫時可以確認沒有更多留有她書寫痕跡的副本。關於公共場合襲擊發言人一事，人力資源事務部已經與螢石幹員溝通過，如需調閱相關紀錄，可直接向該部門諮詢。\n發言人鮑威爾並未受到嚴重身體傷害，但顯然其公眾形象嚴重受損。這不僅是因為他在劇烈疼痛下不太嚴肅的誇張表現，也因為他在發現螢石幹員後展現的惡劣態度與其平日塑造的形象不符。經調查，發言人鮑威爾的初期政治活動主要集中在臨近開拓區的數個自由市，並且他與許多小型犯罪組織頭目有往來紀錄。例如，盤踞在「異鐵螺釘」小鎮的「歪脖子」羅根涉嫌非法作物交易和高危險環境強迫勞動，曾數次向發言人鮑威爾獻金以尋求庇佑。\n考慮到螢石幹員加入終末地前在「異鐵螺釘」小鎮最後的行為，不難理解她為何對暗中保護地方惡勢力的發言人鮑威爾懷有仇恨。調取監視器紀錄後，可以確認螢石當時已經蒙面，發言人鮑威爾的犯罪紀錄也已經送交環塔商會，暫時沒有引發進一步公共關係問題的風險。",
+    "zh-CN": "维若娜，外号“双利手”“长舌妇”“子弹长眼”“无根草”，女，斐迪亚，绿发。\n前任醉鬼帮打手、瘸帮打手、饿狼帮短铳队队员、疤痕佣兵队挂名（不用防备报复）、“歪脖子”罗根的头牌射手，据说金盆洗手后在白道的安保公司任职。\n擅长使用短铳，也会用飞刀、手弩。行动敏捷，出手极快，十分狡猾，会使用各种陷阱。留意她手上的任何东西，不要听她说的哪怕一个字，以及不要在野外找她麻烦，非常危险。\n事迹：以下犯上、偷窃帮派物资、背叛组织；煽动“异铁螺钉”小镇居民，搞垮“歪脖子”罗根的产业，致残帮派全部成员；另外，我们确信在公共场合猛踢某位发言人下体后逃走的就是她。\n交易人：“不归路”酒吧找光头布朗。旧币不连号，见人见钱。手脚拿三成，舌头拿五成。\n悬赏额：300000金票\n更新：450000金票\n更新：800000金票（金主要求，活捉再加二十万！）\n更新：1200000金票\n\n（潦草的手写体）“某位”发言人是鲍威尔，活该。\n\nS.O.W.批注：经过劝说，萤石干员主动上交了这份悬赏令。目前暂时可以确认没有更多留有她书写痕迹的副本。关于公共场合袭击发言人一事，人力资源事务部已经与萤石干员进行过沟通，如需调阅相关记录，可直接向该部门咨询。\n发言人鲍威尔并未受到严重身体伤害，但显然其公众形象严重受损。这不仅是因为他在剧烈疼痛下不太严肃的夸张表现，也因为他在发现萤石干员后展现的恶劣态度与其平日塑造的形象不符。经调查，发言人鲍威尔的初期政治活动主要集中在临近开拓区的数个自由市，并且他与许多小型犯罪组织头目有交往记录。例如，盘踞在“异铁螺钉”小镇的“歪脖子”罗根涉嫌非法作物交易和高危环境强迫劳动，曾数次向发言人鲍威尔献金以寻求庇佑。\n考虑到萤石干员加入终末地前在“异铁螺钉”小镇最后的行为，不难理解她为何对暗中保护地方黑恶势力的发言人鲍威尔怀有仇恨。调取监控记录后，可以确认萤石当时已经蒙面，发言人鲍威尔的犯罪记录也已经送交环塔商会，暂时没有引发进一步公共关系问题的风险。",
+    "ja": "ヴェラナ、通称「両利き」「ペラペラ女」「千発千眼」「根無し草」。女性、緑髪のフィディア。\n元暴力組織「ブーザーズ」と「レイムレッグス」の用心棒、「ハングリー・ループス」拳銃隊員、「スカー傭兵隊」に名義貸し（復讐の心配なし）、「首折れ」ローガン配下で一番の狙撃手。引退後は「表」の警備会社に勤めていたとのこと。\n拳銃の扱いを得意とし、投げナイフやクロスボウも使用可能。俊敏な動きで、攻撃は素早く、非常に狡猾。あらゆる罠にも精通している。彼女が手に持つすべてに警戒が必要、発言は1つも信用できない。野外では絶対にかかわらないこと――極めて危険な行為。\n罪状：上への反逆、組織の物資窃盗と裏切り行為。「異鉄ネジ」の住民を煽動し、「首折れ」ローガンの事業を壊滅させ、組織構成員全員に重傷を負わせた。さらに、公衆の面前で報道官の下半身を蹴って逃走した人物でもある。\n取引人：バー「ノー・リターン」でスキンヘッドのブラウンを探せ。支払いは番号が連続しない使用済みの紙幣で行う。現物取引のみ。手足の場合は3割、舌には5割。\n懸賞額：300,000金券\n更新：450,000金券\n更新：800,000金券（依頼主によると生け捕りの場合プラス20万）\n更新：1,200,000金券\n\n（適当に描かれた文字）「報道官」ってのはパウエルのこと。ざまあみろー\n\nS.O.W.備考：繰り返し説得した末、フローライトは自発的に懸賞ポスターを提出した。現時点において、彼女の手書き文字が残っている写しはこれ以上存在しないことを確認した。公共の場で報道官を襲撃した件に関しては、人事部が既にフローライト本人と面談を行っている。関連記録の閲覧を希望する場合の問い合わせは人事部まで。\n報道官パウエルについて、身体的な損傷はなかったものの、社会的なイメージは大きく損なわれた。激痛の中で見せた節度を欠く大仰な反応のみならず、フローライトを発見した際に見せた悪辣な態度が、普段本人が見せていた人物像と著しく乖離していたことに起因する。調査の結果、報道官パウエルの初期の政治活動は、開拓エリア周辺の複数の独立都市に集中しており、複数の小規模犯罪組織のリーダーと接点を持っていた記録が見つかった。例えば「異鉄ネジ」という町に拠点を置いていた「首折れ」ローガンは、農作物の違法取引および危険な環境下での強制労働への関与が疑われている。ローガンは過去に数回パウエルに賄賂を渡し、保護を求めていた。\nフローライトがエンドフィールドに加入する以前「異鉄ネジ」で最後に行ったことを考慮すると、裏で現地の反社会的勢力を保護したパウエルに強い敵意を抱いていたことも想像がつく。当時の監視映像で確認したフローライトは顔を隠して行動していた。報道官パウエルの犯罪記録も環タロ商会へ提出済みである。よって現時点で報道その他、世間的な重大なリスクは認められない。",
+    "ko": "벨라나, 별명 '양손잡이', '긴 혀의 여자', '주시의 탄환', '뿌리 없는 풀'. 여성, 피디아, 초록색 머리.\n전직 주정뱅이단 해결사, 절름발이단 해결사, 굶주린 늑대단 단총 대원, 흉터 용병대 소속(보복 위험 없음), '뒤틀린 목' 로건의 최정예 저격수. 이후 손을 씻고 정식 보안 회사에서 일한다는 소문이 있음.\n단총 사용에 능하며, 투척용 단검, 석궁도 다룸. 행동이 민첩하고 손이 빠르며, 매우 교활하고 다양한 함정 사용에도 능숙함. 그녀 손에 든 것은 무엇이든 주의해야 하며, 그녀가 하는 말은 단 한마디도 믿지 말 것, 특히 야외에서는 절대로 건드리지 말 것. 매우 위험함.\n주요 전적: 하극상, 파벌 물자 절도, 조직 배신. '이철 나사' 주민을 선동하여 '뒤틀린 목' 로건의 사업을 무너뜨렸으며, 파벌 전원을 불구로 만듦. 또한, 공개석상에서 모 발언자의 급소를 걷어차고 도주한 범인 역시 그녀인 것으로 확신함.\n거래처: '돌아갈 수 없는 길' 주점의 대머리 브라운을 찾을 것. 구권 지폐는 일련번호가 이어지지 않은 것으로 지급. 거래는 반드시 현장 대면 후 현금 결제. 손발 30%, 혀 50%.\n현상금: 300,000 탈로시안 화폐\n갱신: 450,000 탈로시안 화폐\n갱신: 800,000 탈로시안 화폐 (생포 시 200,000 추가!)\n갱신: 1,200,000 탈로시안 화폐\n\n(갈겨쓴 메모) '모 발언자'는 포웰. 꼴 좋다.\n\nS.O.W. 비고: 권유 끝에 플루라이트 오퍼레이터가 자발적으로 이 현상 수배서를 제출했다. 현재까지 그녀가 직접 작성한 흔적이 남아 있는 다른 사본은 없는 것으로 확인된다. 공개석상에서 발언자를 공격한 사건과 관련하여, 인력 자원 사무부에서 그녀와 이미 면담을 진행하였다. 관련 기록이 필요하다면 해당 부서에 직접 문의 가능하다.\n발언자 포웰은 심각한 신체 부상은 입지 않았으나, 그의 대외적 이미지에는 큰 타격을 입었다. 극심한 고통 속에서 보인 진지하지 못한 반응 때문이기도 하지만, 플루라이트 오퍼레이터를 발견한 후 드러낸 그의 악질적인 태도가 평소 쌓아온 이미지와 상반되었기 때문이다. 조사 결과, 포웰은 초기 정치 활동 당시 개척 지역 인근 여러 자유도시를 중심으로 활동했으며, 그는 소규모 범죄 조직 두목들과 교류했던 기록이 존재했다. 예를 들어, '이철 나사' 마을을 장악했던 '뒤틀린 목' 로건은 불법 작물 거래 및 고위험 환경에서의 강제 노동 혐의를 받고 있었으며, 포웰에게 반복적으로 뇌물을 상납해 온 정황이 드러났다.\n플루라이트가 엔드필드에 합류하기 전 '이철 나사' 마을에서 벌인 행동을 고려하면, 검은 세력을 옹호하던 포웰에 대한 그녀의 반감은 충분히 이해할 수 있었다. 감시 기록에 따르면 당시 플루라이트는 복면으로 얼굴을 가리고 있었고, 포웰의 범죄 기록도 이미 탈로스 II 상업연합회에 제출되었으므로, 현시점에서 추가적인 대외 여론 리스크는 발생하지 않을 것으로 판단된다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "\"The thing is, those towns and villages have been completely abandoned. According to the path described by Fluorite herself, you'll realize that she's like a scavenger, swooping from one dying town to the next. Once a new 'corpse' appears, she would spread her wings and 'fly off' again...\" \n\"I'm not questioning her motives. These vagabonds were not the ones who caused the towns to fade away. Folks could only find less than ideal places to settle, places that only had limited access to support and resources from the fringes. If a hub city meets a crisis, then the resulting supply breakdown could initiate a chain reaction capable of killing every town along the route.\" \n\"Death starts from the most isolated spots, the weakest link of the chain. Refugees would then ride the wave of collapse until they either arrive at a new town that offers enough stability, or fade away completely in the wildlands like a certain town out there... People even came up with a special name to describe this phenomenon.\" \n\"As long as the links between our cities remain fragile and tenuous, the stranding will never end. Crisis breeds privilege, and privilege is a hot bed for sin. Once we reach the threshold, Civilization is no longer a home, but a yoke that the monopolists shackle onto the necks of their slaves.\" \n\"We must master the power that can help us prevent this from happening.\"",
+    "zh-TW": "「——關鍵點在於，那些聚落已經全部荒廢了。如果按螢石的自述繪製行動軌跡，你會發現她就像食腐動物一樣追著衰頹的小鎮遷移，等待屍體出現，然後再次『起飛』……\n這裡沒有質疑她的意思——並非這些流浪者導致了聚落的衰敗，而是他們往往只能找到處境不佳的落腳處。能觸及邊緣地帶的援助實在有限，如果某個中轉城市遭遇危機，供給斷裂可能會引發連鎖反應，把一整條物流鏈上的聚落全都毀掉。\n「從最偏僻、最脆弱的地方開始，逃難者們乘著崩潰的波浪一路逃離，直到他們抵達一個足夠穩定的新居所，或者和某個聚落一起消失……人們甚至為這種現象取了一個名字。」\n「只要那些城市間的連繫依然脆弱，『擱淺』還會發生無數次。危機會滋生特權，特權會滋生罪惡。到了某個臨界點，文明就不再是家園，而是壟斷者們套在奴隸脖子上的鎖鏈。\n「我們必須掌握阻止這一切繼續發生的力量。」",
+    "zh-CN": "“——关键在于，那些聚落已经全部荒废了。如果按萤石的自述绘制行动轨迹，你会发现她就像食腐动物一样追着衰颓的镇子迁移，等待尸体出现，然后再次‘起飞’……\n“这里没有质疑她的意思——并非这些流浪者导致了聚落的衰败，而是他们往往只能找到处境不佳的落脚处。能触及边缘地带的援助实在有限，如果某个中转城市遭遇危机，供给断裂可能会引发连锁反应，把一整条物流链上的聚落全都毁掉。\n“从最偏僻、最脆弱的地方开始，逃难者们乘着崩溃的波浪一路逃离，直到他们抵达一个足够稳定的新居所，或者和某个聚落一起消失……人们甚至给这种现象起了一个名字。\n“只要那些城市间的联系依然脆弱，‘搁浅’还会发生无数次。危机会滋生特权，特权会滋生罪恶。到了某个临界点，文明就不再是家园，而是垄断者们套在奴隶脖子上的锁链。\n“我们必须掌握阻止这一切继续发生的力量。”",
+    "ja": "「――問題なのは、すべての集落がすでに廃墟と化しているということだ。フローライトの言葉通りに動線を描くと、まるで死肉を漁る動物のように衰退した町を転々として、その死を見届けてから、また『飛んで』いく……」\n「もちろん、疑っているわけではない――集落を荒廃させたのは流浪者ではないことはわかっている。ただ、彼らが選択できるのは届く支援が極めて限られている、状況も良くない辺境の地だけだ。仮に中継都市で問題が起きたならば、連鎖的に供給網は崩壊し、物流チェーンにぶら下がっているすべての集落が衰退していくことだってある。」\n「最も辺鄙で脆弱な場所から、避難者たちは崩れゆく波に乗って逃げ続け、運が良ければ安定した新たな居場所に辿り着ける……さもなければ、集落と共に消えてしまうだろう……人々はこの現象に名前をつけた。」\n「都市同士の繋がりが弱いままならば、『座礁』は何度でも繰り返されるだろう。危機は特権を生み、特権は罪を生む。臨界点に達すれば、文明はもはや帰るべき場所ではなくなり、独占者が奴隷の首に巻く鎖となる。」\n「私たちは、この連鎖を断ち切る力を、手にしなければならない。」",
+    "ko": "핵심은, 그 거주지들이 이미 전부 황폐되었다는 것이다. 플루라이트의 진술을 따라 그녀의 이동 경로를 그려보면, 그녀는 마치 부패한 먹이를 찾아다니는 동물처럼 몰락한 마을을 따라다니며, 시체가 나타나길 기다리다가, 다시 '날아오르는' 것을 알 수 있다...\n물론 그녀를 의심하려는 것은 아니다. 그곳의 유랑자들이 거주지의 몰락을 초래한 게 아니라, 단지 상황이 좋지 않은 곳에 발붙일 수밖에 없었단 것뿐이다. 외곽 지역까지 닿는 지원은 턱없이 부족했다. 만약 어느 중계 도시 하나라도 위기를 맞아 보급이 끊기면, 그 여파는 연쇄 반응을 일으켜, 그 물류 체계에 의존하던 모든 거주지가 한꺼번에 무너질 수 있다.\n붕괴는 가장 외딴곳, 가장 취약한 곳부터 시작된다. 유랑자들은 몰락의 물결을 타고 떠밀려 도망치다가 충분히 안정적인 새 거처를 찾거나, 아니면 또 다른 거주지와 함께 사라져버린다... 사람들은 이런 현상에 이름까지 붙였다.\n도시 간의 연결이 여전히 취약한 한, '좌초'는 무수히 되풀이될 것이다. 위기는 특권을 낳고, 특권은 죄악을 낳는다. 어느 임계점에 다다르면, 문명은 더 이상 안식처가 아닌, 권력자들이 노예의 목에 채운 쇠사슬이 되고 만다.\n우리는, 이 모든 일이 되풀이되지 않도록 막을 힘을 키워야 한다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "Mama, I heard about how my uncles and aunts are doing: \nGordon. Alloycarrot. Trucker. \nElsa. The Unicity. Seems to be a cashier at a grocery store. \nAndalusia. Free City of Neo Tsukushi. Journalist. \nBig William. Town of Oriron Screw (abandoned). Passed away due to a railroad accident. \nKarakurt. I only managed to learn that she left for Morospolis. She was last seen near Valley V. \nEbby. Not yet found. \nCavill. Not yet found. \n\"Long Legs\". Currently serving his term. They treat inmates pretty well in Hongshan. \nAldan. Tried fighting me but ran away. I don't intend to look for him anymore. Piece of trash. \n............ \nVerana, you can also call me \"Fluorite\" now. I've reached the skies. Place is interesting so I might stick around for a while. \nIf you find this letter and regard yourself as a decent individual, please give this to Endfield Industries or burn it in the frontiers. Much appreciated. \n— A piece of wrinkled paper, folded many times. When the logistics operator gave this to Fluorite, she noticed a gentleness rarely seen in the latter's eyes.",
+    "zh-TW": "媽媽，我打聽到叔叔阿姨們現在的情況了：\n戈登，合金蘿蔔自由市，卡車司機。\n艾爾莎，團結號，好像在一家雜貨鋪當售貨員。\n安達露西亞，新都築自由市，記者。\n大威廉，「異鐵螺釘」小鎮（已廢棄），已故，軌道事故。\n卡拉庫爾特，只打聽到她已經啟程去瑪爾斯波利斯，最後一次露面在五號谷地附近。\n艾比，還沒找到。\n卡維爾，還沒找到。\n「長腿」，在監獄服刑，宏山人對犯人還不錯。\n阿爾丹，和我決鬥，逃跑了，不打算去找。人渣。\n…………\n維若娜，現在也可以叫我「螢石」。我已經在天上了。這裡很有趣，先不走了。\n如果你撿到了這封信，而且是個好人，把它交給終末地工業，或者送去開拓區燒掉。謝謝。\n——一張被疊成小塊、皺巴巴的紙。從後勤幹員手上拿回它時，螢石的眼神很少見地變得有些溫柔。",
+    "zh-CN": "妈妈，我打听到叔叔婶婶们现在的情况了：\n戈登，合金萝卜自由市，卡车司机。\n艾尔莎，团结号，似乎在一家杂货铺当售货员。\n安达露西亚，新都筑自由市，记者。\n大威廉，“异铁螺钉”小镇（已废弃），已故，轨道事故。\n卡拉库尔特，只打听到她已经启程去玛尔斯波利斯，最后一次露面在五号谷地附近。\n艾比，还没找到。\n卡维尔，还没找到。\n“长腿”，在监狱服刑，宏山人对犯人还不错。\n阿尔丹，和我决斗，逃跑了，不打算去找。人渣。\n…………\n维若娜，现在也可以叫我“萤石”。我已经在天上了。这里很有趣，先不走了。\n如果你捡到了这封信，而且是个好人，把它交给终末地工业，或者送去开拓区烧掉。谢谢。\n——一张被叠成小块、皱巴巴的纸。从后勤干员手上拿回它时，萤石的眼神很少见地变得有些温柔。",
+    "ja": "母さん。叔父さん叔母さんの近況、調べといたよ。\nゴードン：独立都市メタルキャロット、トラックドライバー。\nエルザ：ユニシティ号、雑貨屋で販売員やってるみたい。\nアンダルシア：独立都市シン・ツクシ、記者。\nビッグ・ウィリアム：「異鉄ネジ」（廃墟）、交通事故で死亡。\nカラクルト：モロスポリスに向かったって。最後の目撃情報は五号谷地近く。\nエビー：情報ゼロ。\nカヴィル：情報ゼロ。\n「足長」：刑務所暮らし。宏山人は犯人にも随分親切。\nアルダン：私と決闘して、逃げた。クズ。捜索終わり。\n…………\nヴェラナ：今の呼び名「フローライト」でもいいよ。空の上にいる。面白いとこだし、しばらくいるつもり。\nこの手紙、拾っちゃった「いい人」さんへ。エンドフィールドに送るか、開拓エリアで燃やしといて。よろしく。\n――小さく折りたたまれて、くしゃくしゃになった紙。後方支援オペレーターからそれを受け取ったとき、フローライトの瞳は珍しく穏やかな色を帯びていた。",
+    "ko": "엄마, 나 삼촌, 이모들의 소식을 알아봤어.\n고든은 합금 무성 자유도시에서 트럭 운전기사로 일하고 있어.\n엘사는 유니티에서 잡화점 점원으로 일하는 것 같고.\n안다르시아는 신 츠쿠시에서 기자로 일하고 있어.\n빅 윌리엄은, 지금은 폐허가 된 '이철 나사' 마을에서 지내다가 궤도 사고로 사망했어.\n카라쿨트는 마르스폴리스로 떠났다는 것만 알아냈어, 마지막으로 목격된 건 5번 협곡 근처야.\n아이비랑 카빌은 아직 못 찾았어.\n'긴 다리'는 감옥에서 복역 중이야. 홍산 사람들은 죄수들한테 그럭저럭 잘해준대.\n아르단은 나랑 결투하다가 도망쳤어. 다신 안 찾아. 걔는 인간 쓰레기야.\n......\n그리고 벨라나, 이제는 날 '플루라이트'라고 불러도 돼. 난 이미 하늘 위에 있어. 여긴 재밌으니까, 당분간 떠나지 않을 생각이야.\n만약 편지를 주운 사람이 좋은 사람이라면, 엔드필드 공업에 전해 주거나, 개척 지역으로 가져가서 불태워줘. 고마워.\n─작게 접힌 꾸깃꾸깃한 종이 한 장. 지원 오퍼레이터에게서 그것을 돌려받았을 때, 플루라이트의 눈빛은 보기 드물게 조금 부드러워졌다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0022_bounda_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Oh, we ready to play?",
+    "zh-TW": "呀，有事做了？",
+    "zh-CN": "呀，来活了？",
+    "ja": "お仕事、来たんだ？",
+    "ko": "뭐야, 일이야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Hold on, what if someone's not ready for it?",
+    "zh-TW": "要是有人沒準備好呢？",
+    "zh-CN": "要是有人没准备好呢？",
+    "ja": "準備できてないとか、ないよね？",
+    "ko": "아직 준비 못 한 사람이라도 있으면 어쩌려고 그러나 몰라?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Peace and smiles, ladies and gents.",
+    "zh-TW": "讓我們好好相處吧，女士們、先生們？",
+    "zh-CN": "让我们好好相处吧，女士们、先生们？",
+    "ja": "ま、仲良くやりましょ。紳士淑女の皆様？",
+    "ko": "잘 지내보자고, 신사숙녀 여러분?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Wow, looks like I'm quite the catch.",
+    "zh-TW": "哼哼，我還蠻被看重呢。",
+    "zh-CN": "哼哼，我还挺被看重呢。",
+    "ja": "フフッ……割と重宝されてるんだ。",
+    "ko": "으흠, 내가 생각보다 대단한가 봐?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Not bad... Mind if I tweak it a little?",
+    "zh-TW": "還算趁手……介意我做點小改裝嗎？",
+    "zh-CN": "还算趁手……介意我做点小改装吗？",
+    "ja": "使えないわけじゃないか……弄ってもいいなら。",
+    "ko": "그럭저럭 괜찮네... 내가 손 좀 봐도 되지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "The fancier the gear, the bigger the hassle, right?",
+    "zh-TW": "東西越好，事越麻煩，對吧？",
+    "zh-CN": "东西越好，事越麻烦，对吧？",
+    "ja": "モノが良ければ、ロクでもない話も増える……でしょ？",
+    "ko": "이렇게 좋은 물건을 주다니, 꽤 까다로운 일인가 봐?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Nobody wants to spar with me? What a shame.",
+    "zh-TW": "沒人陪我練習一下嗎？真可惜。",
+    "zh-CN": "没人陪我练习一下吗？真可惜。",
+    "ja": "一緒に練習……付き合い、ほんと悪いねえ？",
+    "ko": "나랑 연습할 사람 없어? 아쉬운걸?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "So many battle records... Endfield sure lives up to the \"Industries\" part.",
+    "zh-TW": "這麼多作戰紀錄，不愧是終末地「工業」啊。",
+    "zh-CN": "这么多作战记录，不愧是终末地“工业”啊。",
+    "ja": "作戦記録の数……さすがエンドフィールド「工業」ってわけね。",
+    "ko": "작전 기록이 이렇게나 많아? 역시 엔드필드 '공.업'이네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Looks like the real work's just getting started.",
+    "zh-TW": "看來後面的工作不輕鬆呢。",
+    "zh-CN": "看来后头的工作不轻松呢。",
+    "ja": "楽な仕事だけじゃなくなりそう？",
+    "ko": "이제부터는 일이 좀 힘들어질 거라는 소리인가?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0022_bounda_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "I'm truly honored ... but I guess it means even longer hours on field missions, yeah?",
+    "zh-TW": "榮幸之至——出勤時間又要變長了，對吧？",
+    "zh-CN": "荣幸之至——出勤时间又要变长了，对吧？",
+    "ja": "至極光栄――で、勤務時間はもっと長くなる、と。",
+    "ko": "근무 시간이 또 길어지겠네, 영광이야."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0022_bounda_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Maybe throw in a medal next time. Never had one before.",
+    "zh-TW": "下次發個勛章吧，我還從來沒拿過呢。",
+    "zh-CN": "下回发个勋章吧，我还从来没拿过呢。",
+    "ja": "次はさすがに勲章。まだ貰ったことないしね？",
+    "ko": "다음에는 훈장이라도 하나 주는 건 어때? 그런 거 받아본 적 없거든."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0022_bounda_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "If the Band Fringes are part of the \"better world\" we're trying to build, then we've got plenty of work to do, don't we?",
+    "zh-TW": "如果文明環帶邊緣也在終末地想創造的「美好世界」裡，那我們還有很多工作要做，不是嗎？",
+    "zh-CN": "如果文明环带边缘也在终末地想创造的“美好世界”里，那我们还有很多工作要做，不是吗？",
+    "ja": "文明地帯の外までエンドフィールドの「明るい未来」を作るなら……仕事はぜーんぜん、尽きそうにないね？",
+    "ko": "만약 문명 밴드 가장자리도 엔드필드가 꿈꾸는 '이상적인 세계'에 포함된다면... 우리가 할 일은 정말 많아질 거야, 안 그래?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0022_bounda_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Op Z7 skirmisher, Fluorite. Got anything to say? No? How about we just call it a day?",
+    "zh-TW": "Z7行動組游擊手，螢石。不說點什麼嗎？嗯……要不然，散會？",
+    "zh-CN": "Z7行动组游击手，萤石。不说点什么吗？嗯……要不，散会？",
+    "ja": "行動隊Z7の遊撃担当、フローライト。なんか話ある？……じゃ、解散で？",
+    "ko": "Z7 작전팀, 플루라이트야. 공격을 맡고 있어. 뭐, 할 말 없어? 그래, 그럼... 나 간다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Who's due for some bad luck this time?",
+    "zh-TW": "這次輪到誰倒楣了？",
+    "zh-CN": "这回轮到谁倒霉了？",
+    "ja": "ハズレ引くのは誰かなぁ？",
+    "ko": "오늘의 희생양은 누구일까나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Distract them? Disable them? Or ... just destroy them?",
+    "zh-TW": "擾亂？牽制？還是……一步到位？",
+    "zh-CN": "扰乱？牵制？还是……一步到位？",
+    "ja": "妨害？牽制？ううん……一発、行く？",
+    "ko": "교란? 견제? 아니면... 한 방에 끝내버릴까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Relax, I'll get the job done right.",
+    "zh-TW": "放心，我會好好幹的。",
+    "zh-CN": "放心，我会好好干的。",
+    "ja": "安心しなって。ちゃんとやるからさ。",
+    "ko": "걱정하지 마, 내가 알아서 잘해놓을 테니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Busy day, huh, big hero?",
+    "zh-TW": "真忙啊，大英雄。",
+    "zh-CN": "真忙呀，大英雄。",
+    "ja": "さすがヒーロー様、お忙しいねぇ。",
+    "ko": "바빠 보이네? 우리 영웅님."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "When was the last time you actually rested?",
+    "zh-TW": "又有多久沒休息了？",
+    "zh-CN": "又有多久没休息了？",
+    "ja": "今回はどれくらいぶっ続け？",
+    "ko": "이번엔 또 얼마나 못 쉬었던 거야?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0022_bounda_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Well ... this is new. No tasks for me today?",
+    "zh-TW": "嗯……真難得，不像是找我出任務呢。",
+    "zh-CN": "嗯……真难得，不像是找我出任务呢。",
+    "ja": "ふぅん……珍しい。仕事の話じゃないんだ？",
+    "ko": "흠... 일 때문에 온 건 아닌가 보네? 이런 경우는 너무 드물어서 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "Did Akekuri just stroll into the training room, grinning ... with a sword? Guess I'll stay out of her sight for a bit longer...",
+    "zh-TW": "秋栗她笑著進訓練室了？還拿著劍？好，那我再躲一下……",
+    "zh-CN": "秋栗她笑着进训练室了？还拿着剑？好，那我再躲一会儿……",
+    "ja": "アケクリ、笑って訓練室に入ってったって？剣持って……へー、じゃあもうちょい隠れよーっと。",
+    "ko": "아케쿠리가 웃으면서 훈련장에 들어갔다는 거지? 검까지 들고? 음, 그럼 좀 더 숨어 있어야겠네..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0022_bounda_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "The first time I picked up a gun, I didn't even know how to open the chamber. With a bunch of guys charging at me, it wasn't like I had a choice... Honestly, this training's a breeze compared to the chaos back in the frontier.",
+    "zh-TW": "第一次摸到銃的時候，我連怎麼打開它的彈巢都不知道，但對面已經衝上來好幾人了……和開拓區比起來，這裡的訓練很溫柔呢。",
+    "zh-CN": "第一次摸到铳的时候，我连怎么打开它的弹巢都不知道，但对面已经冲上来好几人了……和开拓区比起来，这里的训练很温柔呢。",
+    "ja": "銃に初めて触れたとき、弾倉の開け方もわかんなかったよ。でも、敵は押し寄せてくる……開拓エリアと比べたら、ここは全然ヌルいって。",
+    "ko": "처음 총을 잡았을 때, 난 탄창을 갈아 끼우는 방법도 몰랐어. 근데 그 순간에도 나한테 달려드는 사람은 한둘이 아니었거든. 그런 개척 지역이랑 비교하면... 여기에서의 훈련은 참 쉬운 편이지."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0022_bounda_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "If it wasn't for pure luck that we ended up in the same team, we'd be doubling the trouble. But don't worry, I'll keep them in check.",
+    "zh-TW": "我們小隊這幾位要不是剛好湊在一起，能惹的麻煩大概要多好幾倍。放心，我當然會幫你看著他們啦。",
+    "zh-CN": "我们小队这几位要不是刚好凑在一起，能惹的麻烦大概要多好几倍。放心，我当然会帮你看着他们啦。",
+    "ja": "うちの隊、偶然だけど集まって正解。じゃなきゃ面倒事も倍どころじゃなかったって。安心しなよ、ちゃんと見といてあげる。",
+    "ko": "우리 팀원들이 다 같이 모여 있어서 다행이야. 아니면 귀찮은 일이 몇 배는 더 많아졌을 테니까. 걱정하지 마, 내가 잘 관리하고 있을게."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0022_bounda_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "When we were kids, we'd sleep all day on the burdenbeasts, sunbathing so we wouldn't feel hungry... Not that I'm complaining about the perks; I just think it'd be a shame not to soak up a little sunshine at this altitude.",
+    "zh-TW": "小時候，我們幾個小鬼會在馱獸車上曬著太陽睡一整天，這樣肚子才不容易餓……我沒在抱怨員工福利，只是飛得這麼高，不多曬曬太陽就可惜了。",
+    "zh-CN": "小时候，我们几个小鬼会在驮兽车上晒着太阳睡一整天，这样肚子才不容易饿……我没在抱怨员工福利，只是飞得这么高，不多晒晒太阳就可惜了。",
+    "ja": "ガキん頃は雁首揃えて駄獣車に乗って、日向ぼっこして寝て……お腹も空かないし、得。ああ、福利厚生がどうとかじゃなくて？せっかく高いとこにいるから、陽に当たりたいだけ。",
+    "ko": "어릴 때 우리는 버든비스트 수레 위에서 햇볕을 쬐면서 하루 종일 잠만 잤어. 그래야 배가 좀 늦게 꺼졌거든... 아, 지금 그렇다는 건 아니고. 그냥... 이렇게 높이 날고 있는데, 햇볕을 좀 더 쬐지 않으면 아깝지 않겠냐는 거지."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0022_bounda_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "You're like Supervisor Perlica — can't really hate you. The big shots out in the frontier love clinging to their status and pride, but honestly, people will follow a real leader, with or without all that.",
+    "zh-TW": "你和佩麗卡監督一樣，讓人討厭不起來呢。開拓區的「大人物」們只會抓著排場和面子不放，但就算沒有那些東西，大家也願意跟著真正的領袖，對吧？",
+    "zh-CN": "你和佩丽卡监督一样，让人讨厌不起来呢。开拓区的“大人物”们只会揪着排场和面子不放，可就算没有那些东西，大家也愿意跟着真正的领袖，对吧？",
+    "ja": "あんたもペリカ監察官と一緒。なーんか嫌いになれない。開拓エリアの見栄と体裁が大事な「お偉いさん」……じゃなくて、本当のリーダーについてく、でしょ？",
+    "ko": "넌 펠리카처럼 싫어할 수가 없는 사람이야. 개척 지역의 '높으신 분들'은 겉치레나 체면을 엄청 신경 쓰거든. 근데 사실 진정한 리더라면 그딴 거 없이도 다들 따르고 싶어 하잖아, 안 그래?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0022_bounda_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Here, a little gadget for you. Relax, nothing will pop out of it.",
+    "zh-TW": "再送你個小東西。放心，這次的不嚇人。",
+    "zh-CN": "再送你个小东西。放心，这次的不吓人。",
+    "ja": "大したことないやつ。安心して。今回は怖くないよ？",
+    "ko": "선물이야. 걱정하지 마, 이번에는 무서운 거 아니니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Hmm, a \"colleague\" of mine once accepted a gift and ended up taking the fall... Why are you shaking your head so hard?",
+    "zh-TW": "以前，我有位「同事」收了一件禮物，然後就被抓去頂罪了——你拼命搖頭做什麼？",
+    "zh-CN": "以前，我有位“同事”收了一件礼物，然后就被抓去顶罪了——你拼命摇头做什么？",
+    "ja": "昔、「同僚」がプレゼントを受け取って、そのまま濡れ衣着せられて、捕まって――って、そんなに必死に首振る？",
+    "ko": "전에 '동료'가 선물을 잘못 받았다가 죄를 뒤집어쓴 적이 있는데... 뭐야? 뭘 그렇게 필사적으로 고개를 젓고 그래?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Negotiation skills? Please, don't flatter those street punks. They bark loud, but the moment their boss shakes the bowl, they come trotting back. They're just tools — no spine, no plan. They make a mess, sure, but the real rot? It's the ones sitting on all the power and resources, squeezing the rest of us dry.",
+    "zh-TW": "交涉經驗？最好別把那些地痞混混太當回事。他們只是眼線和爪牙，主子稍微動動飯盆，就得乖乖跟著跑。蠢材到處都是，最多不過掀點小風小浪，真正能把一片地方毒死的，還是那些霸占資源和權力不放手，壟斷了一切的傢伙。",
+    "zh-CN": "交涉经验？最好别把那些地痞混混太当回事。他们只是眼线和爪牙，主子稍微动动饭盆，就得乖乖跟着跑。蠢材到处都是，最多不过掀点小风小浪，真正能把一片地方毒死的，还是那些霸着资源和权力不松手，垄断了一切的家伙。",
+    "ja": "交渉経験？チンピラなんてどうでもいいよ。どうせ見張りか末端。御主人様のエサに尻尾振って擦り寄るしかできないどこにでもいる能無し。結局、一帯を腐らせるのは資金も権力も全部独占してる連中ってわけ。",
+    "ko": "교섭해 본 경험이 있냐고? 하... 그딴 양아치들한테 너무 신경 써주지 않는 게 좋아. 그놈들은 그냥 정보 수집이나 단순히 몸 쓰는 일을 담당하는 졸개에 불과하거든. 주인이 밥그릇을 흔들면 바로 꼬리를 흔들고 따라가는 것들이라고. 멍청한 녀석들은 널렸지만, 기껏해야 소란 좀 피우는 정도야. 진짜 한 지역을 죽음으로 몰고 가는 건, 자원과 권력을 움켜쥐고 독점하는 놈들이지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "I got in some trouble before I joined. Akekuri bailed me out. Her squad was busy saving the town, kicking out those Landbreakers. And the locals? They were too busy eyeing Endfield's supplies like vultures... Now, tell me, what would you have done?",
+    "zh-TW": "入夥前我犯錯點事，是秋栗為我寫的保證書。那時候，她的小隊在拼命保護小鎮，趕走了那些裂地者，但居民們卻盯上了終末地的物資……換成是你，你會怎麼做？",
+    "zh-CN": "入伙前我犯了点事，是秋栗为我写的保证书。那时候，她的小队在拼命保护镇子，赶走了那些裂地者，但居民们却盯上了终末地的物资……换成是你，你会怎么做？",
+    "ja": "隊に入る前、やらかしちゃって。アケクリが保証書を書いてくれた。アケクリの隊は必死に町を守ってランドブレーカーを追い出したのに、住民の眼にはエンドフィールドの物資しか映ってなかった。もしあんたが同じ目に遭ったら……どうすんの？",
+    "ko": "이쪽에 합류하기 전에 내가 사고를 좀 치는 바람에 아케쿠리가 보증서를 써준 적이 있어. 그때 아케쿠리가 이끌던 팀은 마을을 지키겠다고 최선을 다해 랜드브레이커들을 몰아냈는데, 웃긴 건 마을 사람들은 엔드필드의 물자에 눈독을 들였다는 거야. 너였다면... 어떻게 할 것 같아?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0022_bounda_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "I've got six uncles, eight aunts, and twenty-two siblings ... yeah, we're very much like the Cautuses. We weren't all related, just folks who fled with me and my mom. Some came later, some vanished who-knows-when. But we stuck together, even if it was only for a short while. That was family enough for me.",
+    "zh-TW": "有一陣子，我有六個叔叔，八個嬸嬸，二十二個兄弟姐妹……倒是像一家子卡特斯了。他們是我和媽媽逃難路上的夥伴，我們彼此照顧。有人中途加入，也有人離開。即便這支隊伍很快就散了，那也是我少數有「家庭」的時候。",
+    "zh-CN": "有一阵子，我有六个叔叔，八个婶婶，二十二个兄弟姐妹……倒像是一家子卡特斯了。他们是我和妈妈逃难路上的伙伴，我们彼此照顾。有人中途加入，也有人离开。即便这支队伍很快就散了，那也是我少数有“家庭”的时候。",
+    "ja": "叔父が6人、叔母が8人、兄弟が22人いたときあってねぇ……コータス一家みたいでしょ。私と母さんとで逃げてたときの仲間で、お互いに支え合ってた。増えて減って、最後はバラバラになったけど……ちゃんと「家族」って思えたのは、あのときくらいだったよ。",
+    "ko": "난 삼촌이 여섯 명, 숙모가 여덟 명, 형제자매가 스물두 명 있어... 꼭 카우투스 가족같달까. 전부 나랑 엄마 같이 피난 온 동료들이야, 우린 서로를 잘 챙겨줬거든. 중간에 합류한 사람도 있고, 언제부터인가 사라져 버린 사람도 있어. 지금은 우리 모두 흩어졌지만... 나한테는 '가족'이 있었던 몇 안 되는 시간이었지."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0022_bounda_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "Some people forget we've got four limbs, not just two to drag ourselves around. Stay hunched long enough, you stop looking like a person. The frontier's full of folks like that. But if you've got the guts to look up? Then maybe you've got a shot at something better.",
+    "zh-TW": "我們有四肢，卻只用兩隻腳走路。如果自己不記得如何直起身體，就和那些野獸沒區別了。開拓區到處都是這樣的人。低頭一輩子，就要當一輩子家畜，只有抬起頭來，才能有機會做個人。",
+    "zh-CN": "我们有四肢，却只用两条腿走路。如果自己不记得如何直起身子，就和那些野兽没区别了。开拓区到处都是这样的人。低头一辈子，就要当一辈子家畜，只有抬起头来，才能有机会做个人。",
+    "ja": "手と足、合わせて4本あるのに歩くのに使うのは2つ。「立ち上がる」ことを忘れたら獣と一緒。開拓エリアの連中はそんなのばっかだよ。一生頭を下げ続けたら、家畜になる。「人間」なら、顔を上げないと。",
+    "ko": "우리는 팔과 다리가 있는데도 걸을 땐 두 다리만 사용해. 만약 어떻게 일어서는지조차 잊어버린다면, 우리가 짐승들이랑 다를 게 뭐지? 개척 지역에 있는 사람들은 대부분 그래. 평생을 고개를 숙인 채 가축처럼 살아간다고. 사람답게 살아갈 기회는... 고개를 든 자들에게만 주어지는 거야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0022_bounda_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "Here, take this letter. Burn it in the wildlands if I don't make it back. You can read it if you want, just a bunch of little things. The person it's meant for is gone. Guess it's up to me to find the answers they were looking for. I'm sure the big hero of Talos-II will help me, right?",
+    "zh-TW": "這封信，拿著。如果我回不來了，把它帶去荒野燒掉吧。想打開看也可以，只是一些瑣事而已。收信人已經去世，他們想打聽的消息只能讓我去找了。你會幫我的吧，塔衛二的大英雄？",
+    "zh-CN": "这封信，拿着。如果我回不来了，把它带去荒野烧掉吧。想打开看也可以，只是一些琐事罢了。收信人已经去世，他们想打听的消息只能让我去找了。你会帮我的吧，塔卫二的大英雄？",
+    "ja": "手紙、預かってて。で、戻らなかったら荒野で燃やして。中見てもいいよ。大した内容じゃないし、受け取る人も死んだ。知りたがってたことは……代わりに探してやる。ってことで、手伝ってよ？タロⅡのヒーロー様？",
+    "ko": "이 편지, 갖고 있어. 만약 내가 돌아오지 못하면 황무지로 가서 편지를 태워줘. 읽어보고 싶으면 읽어봐도 돼. 별거 아니니까. 사실 이 편지를 받을 사람은 이미 이 세상에 없어. 하지만 그 사람이 듣고 싶어 했던 소식은 내가 모두 찾아서 적어놨거든. 그때가 오면 날 도와주겠어? 탈로스 II의 영웅님?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0022_bounda_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "This is one of my go-to bombs. Just tweak the adhesive surface, and it'll blow up exactly where it counts. Oh, don't stress about its power. It's way more effective at stalling the target than just blowing things up.",
+    "zh-TW": "這是我常用的小炸彈。只要調整附著面的黏性，就能讓它在最合適的地方炸開。擔心威力？沒關係，它能拖延目標行動，這比直接破壞有用多了。",
+    "zh-CN": "这是我常用的小炸弹。只要调整附着面的黏性，就能让它在最合适的地方炸开。担心威力？没关系，它能拖延目标行动，这比直接破坏有用多了。",
+    "ja": "これ、よく使うミニ爆弾。粘着性を調整すると、一番いいところでバァンって。威力？安心しなよ。足引っ張るにはちょうどいいんだ。壊すよりよっぽど効率的。",
+    "ko": "이건 내가 자주 쓰는 소형 폭탄이야. 부착 면의 점성을 조절하는 걸로 폭발 위치를 정할 수 있지. 위력이 어떠냐고? 이 녀석은 목표의 행동을 지연시키는 게 목적이야. 직접 박살 내는 것보다 훨씬 효과적이지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "After going over my file, Supervisor Perlica gave me the codename \"Fluorite\". It's naturally toxic, yet perfect for creating all kinds of industrial products. I get what she meant after skimming through the book. But, honestly? Kind of a cheeky choice.",
+    "zh-TW": "看過履歷之後，佩麗卡監督給了我「螢石」這個代號——自然狀態有毒，但也能製作很多工業用品。翻過書之後，我大概懂她的意思了。不過，有點壞心眼呢。",
+    "zh-CN": "看过履历之后，佩丽卡监督给了我“萤石”这个代号——自然状态有毒，但也能制作很多工业用品。翻过书之后，我大概懂她的意思了。不过，有点坏心眼呢。",
+    "ja": "履歴書見て、ペリカ監察官が「フローライト」ってコードネーム付けてくれた。毒はあるけど、工業製品に役立つ。意味は本で調べたけど……なーんか、意地悪じゃない？",
+    "ko": "펠리카가 내 경력을 보더니 '플루라이트'라는 코드네임을 줬어. 자연 상태에서는 유독 물질이지만, 공업에서는 쓸데가 많은 녀석이라나? 책을 찾아본 뒤에야 무슨 뜻인지 대충 알게됐지. 근데... 좀 심술 궂지 않아?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "When I was a kid, my mom and I were always running from one place to the next. Eventually, I had to survive on my own in the frontier. Some places gave us reserved grain as rations, while others taxed us with all sorts of made-up fees. Everywhere felt like home, yet nowhere truly was. The settlements in the frontier never lasted long, and the idea of \"home\" never really meant anything.",
+    "zh-TW": "小時候，我跟著媽媽到處逃難。後來，我自己一個人在開拓區過活。有的聚居地會拿種子糧救濟難民，有的自由市會巧立名目徵收各種雜稅，哪裡都是我的家鄉，哪裡也都不是。開拓區的聚落都「活」不長久，「家鄉」的分量太輕了。",
+    "zh-CN": "小时候，我跟着妈妈到处逃难。后来，我自己一个人在开拓区过活。有的聚居地会拿种子粮救济难民，有的自由市会巧立名目征收各种杂税，哪儿都是我的家乡，哪儿也都不是。开拓区的聚落都“活”不长久，“家乡”的分量太轻了。",
+    "ja": "母さんとあちこち逃げ回ってたときもあった。1人で開拓エリアに住んでた時期もあった。種用の食料を流浪者に配った場所も、税金をむしり取る独立都市もあった。全部故郷みたいで、全部違った。開拓エリアの集落なんて、すぐなくなるから「故郷」なんて、合わない。",
+    "ko": "어릴 때 난 엄마랑 여기저기를 떠돌았어. 나중에는 나 혼자서 개척 지역을 돌아다니며 살게 됐고. 유랑자들한테 식량을 나눠주는 거주지도 있었지만, 이상한 명목으로 잡다한 세금을 뜯어가는 자유 도시도 있었어. 그 모든 곳이 내 고향이기도 하지만, 아니기도 해. 개척 지역의 거주지 모두 '오래가진' 못했거든. '고향'이라는 건 참... 어려운 것 같아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "Beauty has always defined the wildlands. The animals driven away by the Blight never really leave — they just shift their paths each year. Grass creeps back the moment the Blight retreats. Nature has its own rhythm, and there's only so much it can take... Sometimes I wonder if we really belong in that balance.",
+    "zh-TW": "其實，那片荒野一直都很美。侵蝕趕跑的動物不會一走了之，每年都會出現新的遷徙路線。災害邊緣總是長滿野草，哪怕只消退一點，黃色和綠色都會馬上填滿空缺。它們自己循環得很好，只是沒辦法再承受更多了……你說，「人」會不會才是那裡最多餘的東西？",
+    "zh-CN": "其实，那片荒野一直都很美。侵蚀赶跑的动物不会一走了之，每年都会出现新的迁徙路线。灾害边缘总是长满野草，哪怕只消退一点，黄色和绿色都会马上填满空缺。它们自己循环得很好，只是没法再承受更多了……你说，“人”会不会才是那里最多余的东西？",
+    "ja": "荒野って、ずっと綺麗なまま。侵蝕に追われた動物がいても、別のルートで戻って来る。侵蝕の縁には草も生えて、消えたらすぐに緑でいっぱいになる。自然はちゃんと巡ってる。でも、これ以上……結局、ここに一番いらないのは「人間」。そうでしょ？",
+    "ko": "사실, 황무지는 항상 아름다워. 침식 때문에 쫓겨난 짐승들은 그냥 사라져 버리는 게 아니거든. 항상 새로운 길을 찾아서 이동하지. 재해 지역 가장자리에는 늘 야생 풀이 가득해. 침식이 조금만 물러나도 금세 노란색과 초록색으로 그 빈자리를 채워버려. 자연은 그냥 내버려둬도 잘 돌아가, 그냥 더 이상 감당할 수 없을 뿐이야... 어쩌면, 거기서 가장 필요 없는 존재가 바로 '사람'이 아니었을까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "In the backwaters I've lived, it's always the enforcers who squeeze people the hardest. They know how fragile things are — one spark of chaos, and the whole place could crumble. So, they create a twisted balance by holding the locals hostage. Unless you're close enough to grab their throats, nothing's ever going to change.",
+    "zh-TW": "我待過的那幾個偏僻地方，壓榨別人最狠的往往都是秩序的維護者。他們知道有些地方一點動蕩都受不起，就把居民當人質，維持了一個妙得噁心的平衡。改變現狀吧，只要你的手還離他們那麼遠，這樣的事就會永遠存在。",
+    "zh-CN": "我待过的那几个偏僻地方，压榨别人最狠的往往都是秩序的维护者。他们知道有些地方一点动荡都受不起，就把居民当人质，维持了一个妙得恶心的平衡。改变现状吧，只要你的手还离他们那么远，这样的事就会永远存在。",
+    "ja": "私がいた僻地の話。搾取するのは結局、「秩序」を掲げる側だった。少しの歪みにも耐えられないってわかって、住民を人質に気持ち悪いバランスを取る。変えようとしたって、手が届なかったら無理なんだよ。",
+    "ko": "내가 머물렀던 외딴 지역에는 사람들을 악랄하게 착취하는 놈들이 있었어. 바로 그 지역의 질서를 유지하는 녀석들이었지. 그놈들은 주민들이 변화를 원하지 않을 거라는 걸 인질 삼아 역겹도록 기막힌 균형을 유지했어. 상황을 바꿔봐. 네가 움직이지 않는다면 이런 일은 영원히 반복될 테니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_about_line01",
+   "title": {
+    "en": "Topic: Akekuri",
+    "zh-TW": "話題：秋栗",
+    "zh-CN": "话题：秋栗",
+    "ja": "アケクリについて",
+    "ko": "아케쿠리에 관하여"
+   },
+   "text": {
+    "en": "Take a wild guess — who do you think sealed those ears into the evidence bag? Yep, even our kind-hearted Captain knew there wasn't a better choice on Talos-II. And that face she made, all teary but holding it in? Adorable.",
+    "zh-TW": "猜猜看，我展示的那串耳朵，是誰幫忙收進證物袋裡的？就算是我們善良純真的好隊長，也知道塔衛二沒有更好的選擇。當然，她忍著不哭的表情，我還是蠻喜歡的喔。",
+    "zh-CN": "猜猜看，我展示的那串耳朵，是谁帮忙收进证物袋里的？就算是我们善良纯真的好队长，也知道塔卫二没有更好的选择。当然，她忍着不哭鼻子的表情，我还是挺喜欢的喔。",
+    "ja": "当ててみてよ。あの「耳」のコレクション――証拠品袋に詰めたの、誰だろうね？お人好しで純真な隊長様でも、タロⅡでは選択肢がないってちゃあんとわかってる証拠。にしても泣くの我慢してる顔……萌えるよねえ？",
+    "ko": "내가 보여줬던 그 귀들 말이야, 누가 증거물 봉투에 담아줬는지 알아? 착하고 순진한 팀장이지만, 탈로스 II에서는 다른 선택권이 없다는 걸 잘 알고 있거든. 물론... 눈물 꾹 참고 있는 그 표정, 난 되게 마음에 들어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_about_line02",
+   "title": {
+    "en": "Topic: Catcher",
+    "zh-TW": "話題：卡契爾",
+    "zh-CN": "话题：卡契尔",
+    "ja": "キャッチャーについて",
+    "ko": "카치르에 관하여"
+   },
+   "text": {
+    "en": "He might look like he's enjoying it, but go easy on him. The super-prepared ones are usually the most afraid of screwing up. No one's mistake-proof... What, I should stop asking him for favors? Pfft, why should I? Don't worry — he'll push through, even if he's scared stiff. He always does.",
+    "zh-TW": "雖然那傢伙好像樂在其中，但還是穩一點地使喚他吧。有些人越是準備萬全，越是害怕出紕漏。你知道，人不可能永遠不犯錯……從我先做起？不要，那多麻煩。而且，不管有多害怕，他都會撐過來的。",
+    "zh-CN": "虽然那家伙好像乐在其中，但还是悠着点使唤他吧。有些人越是准备万全，越是害怕出纰漏。你知道，人不可能永远不犯错……从我先做起？不要，那多麻烦。而且，不管有多害怕，他都会挺过来的。",
+    "ja": "楽しくやってるように見えても、手加減はしときなよ。完璧に準備する奴はミスを恐れる。永遠にミスしない奴なんていない。「まず自分が」って？嫌だよ。面倒。それに……あいつは乗り越える、そういう奴。",
+    "ko": "그 녀석... 본인이 좋아서 하는 거 같긴 하지만, 그래도 너무 막 부려 먹진 마. 철저하게 준비하는 사람일수록 뭔가 잘못될까 봐 더 두려워하거든. 뭐, 영원히 실수를 안 할 순 없으니까... 나부터 잘하라고? 싫어, 귀찮아. 그리고 그 녀석은 아무리 무서워도 결국 어떻게든 다 버텨낼 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_about_line03",
+   "title": {
+    "en": "Topic: Estella",
+    "zh-TW": "話題：埃特拉",
+    "zh-CN": "话题：埃特拉",
+    "ja": "エステーラについて",
+    "ko": "에스텔라에 관하여"
+   },
+   "text": {
+    "en": "Don't touch Estella's playlist, or let her chase danger for real. You think she's got everything under control? Uh-uh. Better keep a mop handy, my dear.",
+    "zh-TW": "別隨便試埃特拉聽的音樂，也別真的放她去找刺激。她是因為游刃有餘才會冒出那些想法？我不覺得，做好善後準備吧，指揮大師。",
+    "zh-CN": "别随便试埃特拉听的音乐，也别真放她去找刺激。她是因为游刃有余才会冒出那些想法？我不觉得，做好善后准备吧，指挥大师。",
+    "ja": "エステーラの音楽には迂闊に近づかないこと。「面白そうなこと」もやめさせるべき。「余裕がありそうだ」って？じゃ、後始末はよろしく。大指揮官様？",
+    "ko": "에스텔라가 듣는 음악을 함부로 따라 듣지 마. 자극적인 걸 찾게 두지도 말고. 걔가 그걸 언제까지 조절할 수 있겠어? 내 생각엔 쉽지 않을 거야. 뒤처리할 준비나 미리 잘 해두라고. 우리의 지휘관님?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_about_line04",
+   "title": {
+    "en": "Topic: Antal",
+    "zh-TW": "話題：安塔爾",
+    "zh-CN": "话题：安塔尔",
+    "ja": "アンタルについて",
+    "ko": "안탈에 관하여"
+   },
+   "text": {
+    "en": "That big lizard's cool as ice, even in the heat of battle — probably doesn't even realize he's in danger. It drives the Captain up the wall ... but hey, that's just how he rolls. Me and him? Hmm... We're totally cool ... as long as he remembers my tail's not for staring.",
+    "zh-TW": "大蜥蜴就算戰鬥時也一直不慌不忙的，他大概根本沒意識到危險在哪吧？隊長其實沒必要總因為這個生氣，反正每個人有各自的活法。嗯……我對他沒什麼意見，只要別老盯著別人的尾巴不放就好。",
+    "zh-CN": "大蜥蜴就算战斗时也一直不慌不忙的，他大概根本没意识到危险在哪儿吧？队长其实没必要总因为这个生气，反正每个人有各自的活法。嗯……我对他没什么意见，只要别老盯着别人的尾巴不放就好。",
+    "ja": "大トカゲ、戦闘中もボーっとしてるよねえ？多分状況分かってないよ。隊長もイチイチ構わなくていいのに。皆それぞれの生き方があるから……文句はないけど。尻尾ばっかり見てること以外は。",
+    "ko": "그 도마뱀은 싸울 때도 항상 태연해. 아마 뭐가 위험한지도 모를걸? 그래도 팀장이 이것 때문에 화낼 필요는 없다고 생각해, 각자 살아가는 방식이 있으니까. 음... 난 딱히 불만 없어. 근데 남의 꼬리는 그만 쳐다봤으면 좋겠네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Found something cool, mind if I take it all?",
+    "zh-TW": "找到一點好東西，我能全拿走嗎？",
+    "zh-CN": "找到一点好东西，我能全拿走吗？",
+    "ja": "良さげ。全部もらっていい？",
+    "ko": "좋은 거 찾았네, 내가 다 가져도 돼?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Did you see that over there? Oh, never mind, forget I said anything.",
+    "zh-TW": "難道你沒看見那邊的……啊，我什麼都沒說。",
+    "zh-CN": "难道你没看见那边的……啊，我什么都没说。",
+    "ja": "あれって……あ、なんでもない。",
+    "ko": "설마 저기에 있는 거 못 봤어? 아... 아무것도 아냐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Found a nice spot. Hmm ... seems like fun.",
+    "zh-TW": "看到個好地方。嗯……應該會很有趣。",
+    "zh-CN": "看到个好地方。嗯……应该会很有意思。",
+    "ja": "面白そうだねぇ？うん、いいとこだよ。",
+    "ko": "좋은 게 있네. 음... 좀 재밌겠는걸?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Everyone, we've got a new buddy to play with.",
+    "zh-TW": "各位，我們有新玩伴了。",
+    "zh-CN": "各位，咱们有新玩伴了。",
+    "ja": "新しい遊び相手だねぇ？",
+    "ko": "자, 새로운 장난감이 나타났다고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Ah, the good ol' DIY. Just like the bitter old days.",
+    "zh-TW": "自己動手，是在回憶過去辛酸，感受現在的幸福嗎？",
+    "zh-CN": "自己动手，这算忆苦思甜么？",
+    "ja": "苦い思い出を噛み締めて、ありがたみを知れって？",
+    "ko": "직접 하니까, 옛날 생각이 좀 나는데?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "*Yawn* Coming. Y'all are so productive.",
+    "zh-TW": "來了，各位真勤快啊。",
+    "zh-CN": "来了，各位真勤快呀。",
+    "ja": "はーい。皆ほんと、働き者ですねぇ。",
+    "ko": "뭐야, 다들 참 부지런하네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Wooo, what a find. And no name tag? Hmm...",
+    "zh-TW": "還有這種好東西？幸好上面沒寫名字。",
+    "zh-CN": "还有这种好东西？幸好上面没写名字。",
+    "ja": "すごいモノだけど……名前書いてない、よかったねぇ？",
+    "ko": "이런 좋은 물건도 있네? 주인은 없어서 다행이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "I had one of these before... What happened after wasn't so great.",
+    "zh-TW": "我以前也有過一個。嗯……後來的事讓人不太高興呢。",
+    "zh-CN": "我以前也有过一个。嗯……后来的事不太让人高兴呢。",
+    "ja": "前、1個手に入れたけど。うん。あんま思い出したくない話。",
+    "ko": "나도 하나 있었어. 음... 근데 그뒤로 일어난 일들은 별로 재미가 없어서 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "If only I could've eliminated the Blight back then...",
+    "zh-TW": "要是那時候也能消除侵蝕的話……",
+    "zh-CN": "要是那时候也能消除侵蚀的话……",
+    "ja": "あのときも、侵蝕を消せてたら……",
+    "ko": "그때도 침식을 제거할 수 있었다면..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Finally, time to restock on bombs.",
+    "zh-TW": "總算有時間補充炸彈了。",
+    "zh-CN": "总算有时间补充炸弹了。",
+    "ja": "ようやく爆弾、補充できる。",
+    "ko": "이제야 폭탄을 보충할 시간이 생겼네..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "See? I knew this would come in handy.",
+    "zh-TW": "就說肯定能用到吧？",
+    "zh-CN": "就说肯定能用上吧？",
+    "ja": "だから使えるって言ったよねぇ？",
+    "ko": "쓸모가 있을 줄 알았어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "That was just bad luck. One more round.",
+    "zh-TW": "……剛才只是運氣不好，再來。",
+    "zh-CN": "……刚才只是运气不好，再来。",
+    "ja": "……さっきのはたまたま。はい、次。",
+    "ko": "...방금은 운이 좀 없었던 거야, 다시 가자고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Careful, don't get jinxed.",
+    "zh-TW": "小心，別中「大獎」了。",
+    "zh-CN": "当心，别中“大奖”了。",
+    "ja": "気をつけないと「当たり」引くよ。",
+    "ko": "조심해, 괜히 '당첨'되지 말고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "...I slipped.",
+    "zh-TW": "……嘖，大意了。",
+    "zh-CN": "……嘁，大意了。",
+    "ja": "……ちっ、油断した。",
+    "ko": "하... 방심했어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "I should've ... caught that.",
+    "zh-TW": "這一次……沒看透嗎……",
+    "zh-CN": "这一回……没看透吗……",
+    "ja": "今回は……読めなかったか……",
+    "ko": "이걸... 제대로 못 봤네..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Well, that was something.",
+    "zh-TW": "這不是很能幹嘛。",
+    "zh-CN": "这不是挺能干嘛。",
+    "ja": "思ったよりできてるね。",
+    "ko": "꽤 하는데."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Not bad. Shame no one's here to film it.",
+    "zh-TW": "真賣力，旁邊可沒攝影機在拍啊。",
+    "zh-CN": "真卖力，边上可没摄像机呀。",
+    "ja": "頑張っちゃってるねぇ、カメラもないのに。",
+    "ko": "되게 열심히네. 어디서 뭐 카메라로 찍고 있어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Nice words, but save yourself some breath.",
+    "zh-TW": "恭維我也沒好處哦。",
+    "zh-CN": "恭维我也没好处哦。",
+    "ja": "褒めても何も出ないよ。",
+    "ko": "아부해도 뭐 없어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "Well, we are an elite team, after all.",
+    "zh-TW": "畢竟我們是精英團隊嘛。",
+    "zh-CN": "毕竟咱们是精英团队嘛。",
+    "ja": "私たち、エリートだからねぇ？",
+    "ko": "어쨌든 우린 '정.예' 팀이니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Back to my old gig, huh?",
+    "zh-TW": "嗯……我這算是重操舊業了？",
+    "zh-CN": "嗯……我这算是重操旧业了？",
+    "ja": "っぱ……結局はこっちの世界に戻るんだ？",
+    "ko": "흐음... 손은 진작에 씻었는데."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "We're so committed! Fingers crossed for a bonus.",
+    "zh-TW": "真敬業啊，有獎勵嗎？",
+    "zh-CN": "真敬业呀，有奖励吗？",
+    "ja": "ほんと仕事熱心。報酬目当て？",
+    "ko": "완전 프로 같네, 상이라도 주나 봐?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Good, one less problem to worry about.",
+    "zh-TW": "好，又少一樁麻煩。",
+    "zh-CN": "好，又少一桩麻烦。",
+    "ja": "はい。面倒事1つ、さよなら。",
+    "ko": "좋아, 귀찮은 거 또 하나 줄었네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "Too bad, they almost had a chance.",
+    "zh-TW": "真可惜，對面本來有機會的。",
+    "zh-CN": "真可惜，对面本来有机会的。",
+    "ja": "チャンス、ちゃんとあげたのにねぇ？",
+    "ko": "참 안됐네, 나만 없었으면 기회가 있었을 텐데."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Yep, yep. We totally couldn't have done it without you.",
+    "zh-TW": "對，對。沒你我們贏不了。",
+    "zh-CN": "对，对。没你咱们赢不了。",
+    "ja": "はいはい、あなたがいなくちゃ勝てませんでしたよー。",
+    "ko": "그래, 그래. 너 없었으면 졌을 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "Hmph. Not bad, but not quite enough.",
+    "zh-TW": "哼……遺憾，這位還是差了一點點。",
+    "zh-CN": "哼……遗憾，这位还是差了一点点。",
+    "ja": "フン……残念。あと一歩ってとこ。",
+    "ko": "흥... 아쉽네, 조금만 더 노력해 보라고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Moping won't get us anywhere, but action will. C'mon, this isn't over yet.",
+    "zh-TW": "……與其苦著一張臉，不如先動起來。這件事還沒完呢。",
+    "zh-CN": "……与其苦着一张脸，不如先动起来。这事还没完呢。",
+    "ja": "……見苦しい顔。その前に動く。まだ終わりじゃないんだから。",
+    "ko": "...실망만 하고 있지 말고, 일단 움직여. 아직 안 끝났으니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "*Whistle* Fetch!",
+    "zh-TW": "接好了！",
+    "zh-CN": "接好了！",
+    "ja": "サプライズ。",
+    "ko": "받아랏!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Attention please.",
+    "zh-TW": "看哪呢？",
+    "zh-CN": "看哪儿呢？",
+    "ja": "よそ見？",
+    "ko": "어딜 보는 거야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Here you go.",
+    "zh-TW": "拿去，不謝。",
+    "zh-CN": "拿去，不谢。",
+    "ja": "お礼は結構。",
+    "ko": "감사는 됐어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Hope you like this!",
+    "zh-TW": "喜歡這個嗎？",
+    "zh-CN": "喜欢这个吗？",
+    "ja": "気に入ったでしょ？",
+    "ko": "이거 맘에 들어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Tick tock!",
+    "zh-TW": "計時開始囉。",
+    "zh-CN": "计时开始喽。",
+    "ja": "カウントダウン。",
+    "ko": "카운트다운, 시작."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Hmph. Show time.",
+    "zh-TW": "總算等到了！",
+    "zh-CN": "总算等到了！",
+    "ja": "やっと来た。",
+    "ko": "기다렸다고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "They've got more holes than cheese.",
+    "zh-TW": "破綻百出呢。",
+    "zh-CN": "破绽百出呢。",
+    "ja": "隙しかないの？",
+    "ko": "온통 허점이네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Savor this.",
+    "zh-TW": "加點猛料。",
+    "zh-CN": "加点猛料。",
+    "ja": "一発ドーンと入れとくか。",
+    "ko": "맛 좀 보겠어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Bet you love it.",
+    "zh-TW": "吃得消這一發嗎？",
+    "zh-CN": "吃得消这一发么？",
+    "ja": "耐えてみる？",
+    "ko": "이걸 견딜 수 있을까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Surprise.",
+    "zh-TW": "毫無防備呢。",
+    "zh-CN": "毫无防备呢。",
+    "ja": "無防備。",
+    "ko": "방심하지 말라고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Bedtime, honey.",
+    "zh-TW": "乖乖躺下吧。",
+    "zh-CN": "乖乖躺下吧。",
+    "ja": "横になりな、いい子ちゃん。",
+    "ko": "얌전히 누워 있어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Guess you've lived long enough?",
+    "zh-TW": "都活得夠久了吧？",
+    "zh-CN": "都活得够久了吧？",
+    "ja": "十分長生きしたよねぇ？",
+    "ko": "이 정도 살았으면 됐잖아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "This is gonna be loud.",
+    "zh-TW": "動靜會有點大哦。",
+    "zh-CN": "动静会有点大哦。",
+    "ja": "うるさくなるかも。",
+    "ko": "조금만 참아봐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0022_bounda_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "End of the road, pal.",
+    "zh-TW": "現在還想逃跑嗎？",
+    "zh-CN": "现在还想逃跑吗？",
+    "ja": "本気で逃げるつもり？",
+    "ko": "도망치려고?"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0022_bounda_1",
+   "topic": {
+    "en": "The Murphy's Law Enforcer",
+    "zh-TW": "「全自動惹事機」",
+    "zh-CN": "“全自动惹事机”",
+    "ja": "「トラブル発生装置」",
+    "ko": "'트러블 메이커'"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "An operator just came by with a message. You wanted to talk?",
+      "zh-TW": "剛剛有個幹員來傳話，找我有事？",
+      "zh-CN": "刚刚有个干员来传话，找我有事？",
+      "ja": "さっき、オペレーター来てたけど。私に用？",
+      "ko": "방금 어떤 오퍼레이터한테서 들었어, 나한테 무슨 볼일 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I just finished reading Akekuri's team mission report... Did you almost get yourself into a conflict with the local residents again?",
+      "zh-TW": "我剛看完秋栗提交的小隊行動報告……你又差點和當地居民發生衝突了？",
+      "zh-CN": "我刚看完秋栗提交的小队行动报告……你又差点和当地居民起冲突了？",
+      "ja": "アケクリが提出した行動報告を見たよ。君がまた、現地の住民とケンカしそうになったって……",
+      "ko": "방금 아케쿠리가 제출한 소대 작전 보고서를 봤어... 현지 주민이랑 또 다툴뻔했다던데, 맞아?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Yup.",
+      "zh-TW": "是沒錯。",
+      "zh-CN": "是没错。",
+      "ja": "そうだねぇ。",
+      "ko": "응, 맞아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Need me to write up something? I still have a few copies of the reflection left. I can submit them together.",
+      "zh-TW": "需要寫點什麼嗎？我還剩下幾份檢討書可以一起給。",
+      "zh-CN": "需要写点什么吗，我还剩几份检讨书可以一起给。",
+      "ja": "書類、必要？始末書の余りあるし、全然書くけど？",
+      "ko": "또 뭔가 써서 제출해야 해? 마침 같이 제출해야 할 반성문도 몇 장 더 있거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Reflections are for those capable of remorse, but I doubt you're one of them.",
+      "zh-TW": "檢討書是留給會反省的人用的，但我覺得你並不會。",
+      "zh-CN": "检讨书是留给会反省的人用的，但我觉得你并不会。",
+      "ja": "始末書は反省してる人が書くものなんだよ。君にはあまり意味がなさそうだね……",
+      "ko": "반성문은 반성할 줄 아는 사람을 위한 거야. 근데 넌 하나도 반성하고 있지 않잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "An operator from the HR Division has already shown me the past mission reports. Why does it always end up like this?",
+      "zh-TW": "人力資源事務部的幹員已經給我看了過往的行動報告。為什麼每次都變成這樣？",
+      "zh-CN": "人力资源事务部的干员已经给我看了过往的行动报告。为什么每次都变成这样？",
+      "ja": "人事部からの報告も読んだよ。どうしてこうなっちゃったのかな。",
+      "ko": "인력 자원 사무부의 오퍼레이터가 예전 보고서도 다 보여줬어. 왜 매번 문제를 일으키는 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "'Cuz of the nature of our work, I guess?",
+      "zh-TW": "因為我們工作的特性吧。",
+      "zh-CN": "因为我们工作的特性吧。",
+      "ja": "そういう仕事だし？",
+      "ko": "우리 업무 특성상 어쩔 수 없는 부분이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Dealing with people is exhausting enough. Having to cater to all those convoluted little schemes is just too much trouble.",
+      "zh-TW": "跟人說話那麼累，如果還要照顧那些彎彎繞繞的想法，那就太麻煩了。",
+      "zh-CN": "和人说话那么累，如果还要照顾那些弯弯绕绕的小心思，那就太麻烦了。",
+      "ja": "人と話すの、面倒。遠回しな小細工に付き合うのも、面倒。",
+      "ko": "사람이랑 대화하는 것만으로도 힘든데, 복잡한 속마음까지 신경 써야 한다면 정말 성가실 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Sooooo I usually just answer people according to what's on their minds.",
+      "zh-TW": "所以，我通常就直接按照對面心裡想的去回答他們。",
+      "zh-CN": "所以，我一般直接按照对面心里在想的来回答他们。",
+      "ja": "だったら腹の中で考えてること、そのまま返したほうがいいでしょ？",
+      "ko": "그래서 난 보통 상대가 마음속으로 하는 생각을 바로 짚어서 대답해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Unfortunately, the individuals we're forced to negotiate with in our team's operations rarely appreciate such ... directness.",
+      "zh-TW": "很不巧，需要我們小隊出面的情況，交涉對象都不太習慣這種辦法。",
+      "zh-CN": "很不巧，需要我们小队出面的情况，交涉对象都不太习惯这种办法。",
+      "ja": "ただ、Z7が行く場所にいる相手が慣れてないだけ。",
+      "ko": "아쉬운 건, 우리 소대가 나서야 하는 상황에서 교섭할 상대가 이런 방식에 익숙하지 않다는 점이지."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Hard to believe anyone could get used to this kind of \"negotiation\"... If you've been pulling this off all along, mad respect for you.",
+         "zh-TW": "很難想像會有人習慣這種「交涉」。如果你以前就經常這麼做，我都要開始佩服你了。",
+         "zh-CN": "很难想象会有人习惯这种“交涉”。如果你以前就经常这么做，我都要开始佩服你了。",
+         "ja": "そのやり方に慣れている人なんて、なかなかいないかもしれないよ。ずっとそんなやり方をしてたなら……",
+         "ko": "그런 '교섭' 방식에 익숙한 사람이 과연 있을까? 이게 네가 예전부터 해온 방식이라면 정말 존경스러울 따름이네."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Fluorite",
+         "zh-TW": "螢石",
+         "zh-CN": "萤石",
+         "ja": "フローライト",
+         "ko": "플루라이트"
+        },
+        "text": {
+         "en": "Well, my approach actually has its advantages.",
+         "zh-TW": "其實這樣反而有好處喔。",
+         "zh-CN": "其实这样反而有好处哦。",
+         "ja": "こっちのほうがいいんだよ。",
+         "ko": "사실 그렇게 하는 게 오히려 더 좋을 때도 있어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I can already picture them flying into a humiliated rage. You're telling me nothing's ever gone wrong before?",
+         "zh-TW": "我已經能想像對面惱羞成怒的樣子了，難道以前沒有出過事嗎？",
+         "zh-CN": "我已经能想象对面恼羞成怒的样子了，难道以前没有出过事吗？",
+         "ja": "相手が顔を真っ赤にしている様子が目に浮かぶ……今まで、問題になったことはなかったのかな。",
+         "ko": "상대가 화내는 모습이 벌써 눈앞에 선하네. 지금까지 진짜 별일 없었어?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "If they never intended any harm from the start, then the worst I'll get is a few dirty looks even if I pop that bubble.",
+      "zh-TW": "如果他們從一開始就沒想過對人不利，就算我戳穿那層泡泡，最多只是被翻幾個白眼。",
+      "zh-CN": "如果他们从一开始就没想过对人不利，就算我戳穿那层泡泡，最多只是挨几个白眼。",
+      "ja": "悪いこと考えてないなら、腹の中見たってちょっと白い目で見るくらいで終わり。",
+      "ko": "만약 상대가 처음부터 남에게 해를 끼칠 생각이 없었다면, 내가 화나게 만들어도 기껏해야 눈총이나 받았겠지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "But if their intentions were different ... then it's safer to make them show their fists early with our skills.",
+      "zh-TW": "但如果是另一種想法，以我們的身手，早點讓他們把拳頭亮出來，反而更安全。",
+      "zh-CN": "但如果是另一种想法，以我们的身手，早些让他们把拳头亮出来，反而更安全。",
+      "ja": "違うなら、相手に拳を見せてあげたほうが、よっぽど安全。",
+      "ko": "하지만 생각이 좀 다른 사람이라면, 우리 실력으로 상대가 먼저 주먹을 날리게 만드는 편이 오히려 안전해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Why does that make sense to me... BUT Akekuri clearly had strong opinions about this in the report. You should probably give more thought to your captain who worries about you.",
+      "zh-TW": "這套理論意外地合理……不過秋栗在報告裡對此還是很有意見，最好也多考慮考慮替你操心的隊長。",
+      "zh-CN": "这套理论意外地自洽……不过秋栗在报告里对此还是很有意见，最好也多考虑考虑替你操心的队长。",
+      "ja": "なるほどね。一理あると思うけど、アケクリの報告書だと少し困っているみたいだったよ。君を心配しているんだ。",
+      "ko": "의외로 자기 객관화가 된 논리네... 근데 아케쿠리의 보고서를 보면 네 방식에 불만이 있는 것 같아. 그러니까 너 대신 걱정하는 팀장 생각도 좀 해줘."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Rest assured. So long as no innocent parties were harmed, she won't ramble too much.",
+      "zh-TW": "放心，只要沒錯怪好人，她不會抱怨太久的。",
+      "zh-CN": "放心，只要没错怪好人，她不会抱怨太久的。",
+      "ja": "大丈夫。間違って「いい人」を疑ったりしなければいい。それでアケクリも満足。",
+      "ko": "걱정 마. 죄 없는 사람을 탓하지 않는 한, 팀장도 그렇게 오랫동안 뭐라고 하진 않을 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "I'm guessing those so-called locals haven't come to file a complaint or cause trouble yet, have they?",
+      "zh-TW": "我猜那群「當地人」到現在還沒有過來投訴或鬧事，對吧？",
+      "zh-CN": "我猜那群“当地人”到现在还没有过来投诉或者闹事，对吧？",
+      "ja": "「住民」からの抗議、どうせ来てない……でしょ？",
+      "ko": "내 예상으로는 그 '현지인'들도 아직까진 신고하러 오거나, 소란을 피우러 오진 않았을 거야, 그렇지?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Though the report made it sound severe, we haven't received any actual feedback.",
+      "zh-TW": "雖然報告裡描述得很嚴重，但我們的確沒有收到任何投訴。",
+      "zh-CN": "虽然报告里描述得很严重，但我们确实没有收到任何反馈。",
+      "ja": "そうだね。報告ではかなり深刻そうに書かれていたけど、特に苦情は来ていない……",
+      "ko": "보고서에는 뭔가 심각하게 썼지만, 실제로는 우리도 아무런 신고를 못 받았어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So they really did have something to hide?!",
+      "zh-TW": "所以，他們真的心裡有鬼？",
+      "zh-CN": "所以，他们确实心里有鬼？",
+      "ja": "つまり、相手に後ろめたいことがあったということかな。",
+      "ko": "그러니까, 주민들도 무슨 속셈이 있다는 거지?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Since we've got nothing better to do today, why don't I go file a report myself and claim the reward?",
+      "zh-TW": "反正今天很閒，不如我去主動報案領筆獎金吧。",
+      "zh-CN": "反正今天很闲，不如我去主动报案领笔赏钱吧。",
+      "ja": "今日、暇だし。自首でもして、懸賞金もらってこようかなぁ？",
+      "ko": "어차피 오늘은 한가한데, 내가 직접 신고하고 현상금을 받아 오면 어떨까?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "What do you think? Care to sign your name with mine?",
+      "zh-TW": "怎麼樣，一起來簽個名？",
+      "zh-CN": "怎么样，一起来签个名？",
+      "ja": "どうする？一緒に行ってサインする？",
+      "ko": "나랑 같이 사인할 생각 없어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I'm good. I'll leave this matter in your hands.",
+      "zh-TW": "不必了，這件事就交給你處理吧。",
+      "zh-CN": "不必了，这件事就交给你处置吧。",
+      "ja": "遠慮しておく。今回の件は、君に任せるよ。",
+      "ko": "됐어... 그런 일은 그냥 너한테 맡길게."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0022_bounda_2",
+   "topic": {
+    "en": "It's the thought that counts",
+    "zh-TW": "禮輕情意重",
+    "zh-CN": "礼轻情意重",
+    "ja": "心ばかりのプレゼント",
+    "ko": "마음의 크기"
+   },
+   "lines": [
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Fluorite] sent you a reminder",
+      "zh-TW": "[螢石]向你傳送了一次提醒",
+      "zh-CN": "[萤石]向你发送了一次提醒",
+      "ja": "「フローライト」からリマインドが届きました",
+      "ko": "[플루라이트] 님이 알림을 보냈습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "I left a few boxes for you. See them?",
+      "zh-TW": "留了幾個盒子給你，看到了嗎？",
+      "zh-CN": "给你留了几个盒子，看到了吗？",
+      "ja": "箱をいくつか置いといたけど、見た？",
+      "ko": "내가 갖다놓은 상자들 혹시 봤어?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Yeah I saw them. Since they look like the kind of thing you'd give, I haven't dared to open them yet.",
+         "zh-TW": "看到了，因為樣子像是你會給的東西，我還沒鼓起勇氣打開。",
+         "zh-CN": "看到了，因为样子像是你会给的东西，我还没敢打开。",
+         "ja": "うん。でも君からかなと思って、まだ開けずにいたんだ。",
+         "ko": "봤어. 근데 네가 준 물건들 같아 보여서 아직 안 열어봤어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Just as I thought, they're from you. Good thing I already called the engineering operators over.",
+         "zh-TW": "果然是你給的東西，幸好我已經請工程幹員過來了。",
+         "zh-CN": "果然是你给的东西，幸好我已经喊工程干员过来了。",
+         "ja": "やっぱり君からだったんだね。専門家を呼んでおいてよかったよ。",
+         "ko": "역시 네가 준 거였구나. 엔지니어 오퍼레이터를 미리 불러놓길 잘했네."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Come on, don't be so wary. It's not like I've only played a few jokes on you.",
+      "zh-TW": "別這麼防備啊，不就是開過幾次玩笑嘛。",
+      "zh-CN": "别这么防备呀，不就是开过几次玩笑嘛。",
+      "ja": "そんな警戒する？ちょっと遊んだだけでしょ。",
+      "ko": "그렇게까지 경계하지 마. 그냥 몇 번 장난 좀 친 거잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That glue was a nightmare to clean up...",
+      "zh-TW": "那些膠水清理起來超麻煩的……",
+      "zh-CN": "那些胶水清理起来可麻烦了……",
+      "ja": "あの接着剤は、後片付けが大変なんだよ。",
+      "ko": "접착제를 제거하는 게 얼마나 힘든지 알아?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "I promise they're actually gifts this time. One of them is for you.",
+      "zh-TW": "這次真的是小禮物，有一份是給你的。",
+      "zh-CN": "这次真的是小礼物，有一份是给你的。",
+      "ja": "今回は、ただの大したことないプレゼント。1つは管理人の分。",
+      "ko": "이번엔 진짜 선물이야. 거기 관리자한테 줄 것도 하나 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "As for the rest, do me a favor and deliver them to my dear Captain and the crew.",
+      "zh-TW": "剩下幾份就請你幫個忙，送給我的好隊長和大蜥蜴他們幾個吧。",
+      "zh-CN": "剩下几份就请你帮个忙，送给我的好队长和大蜥蜴他们几个吧。",
+      "ja": "残りは、隊長と大トカゲ……うちの隊の人たちに渡して。",
+      "ko": "나머지는 나 대신 우리 팀장이랑 도마뱀 걔네한테 좀 전해줘."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Why are you sending gifts to your own team through me? Did you have a falling out with them?",
+      "zh-TW": "你送禮物給自己小隊的人，為什麼要從我這裡繞一大圈？跟他們吵架了？",
+      "zh-CN": "你给自己小队的人送礼物，为什么要从我这里绕一大圈？和他们闹矛盾了？",
+      "ja": "隊の皆へのプレゼントなのに、どうして自分で渡さないの？ケンカでもした？",
+      "ko": "자기 팀원들한테 주는 선물을 왜 굳이 나를 거치는 거야? 설마 팀원들이랑 싸우기라도 한 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "What?! Am I that kind of person?",
+      "zh-TW": "我像是那種人嗎？",
+      "zh-CN": "我像是那种人吗？",
+      "ja": "そんなタイプに見える？",
+      "ko": "내가 그런 사람으로 보여?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Truth is, I meant to give them these gifts myself ... but they bolt the second they see me approaching with my hands behind my back. You're my only workaround.",
+      "zh-TW": "其實我是想送點東西給他們，但他們一看見我手放在背後就會逃跑，只能麻煩你了。",
+      "zh-CN": "其实我打算给他们送点东西，但他们一看见我背着手就会逃跑，只能麻烦你了。",
+      "ja": "手を後ろに組んだだけで逃げる。で、どうやって渡すの？頼むしかないでしょ？",
+      "ko": "사실 내가 뭔가를 주려고 등 뒤에 손을 숨기고 있으면 다들 도망가 버리거든. 그래서 어쩔 수 없이 관리자한테 부탁하는 거야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Can't say I blame them. You've pulled one too many \"surprises\" already.",
+         "zh-TW": "我很理解他們，你掏出來的「驚喜」已經太多了。",
+         "zh-CN": "我很理解他们，你掏出来的“惊喜”已经太多了。",
+         "ja": "皆の気持ち、ちょっとわかるよ。君の「サプライズ」をたっぷり味わってきたから……",
+         "ko": "팀원들의 마음이 이해가네. 여태껏 네가 준비한 '깜짝선물'이 어디 한두 개야?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "As one of the victims, all I can say is the trouble you're facing now is entirely self-inflicted.",
+         "zh-TW": "作為「受害者」之一，我只能說，你現在遇到的麻煩完全是咎由自取。",
+         "zh-CN": "作为“受害者”之一，我只能说，你现在遇上的麻烦完全是咎由自取。",
+         "ja": "「被害者」の1人として言わせてもらうよ。正直、今困っていることがあっても、自業自得かもしれない……",
+         "ko": "'피해자' 중 한 명으로서, 지금 겪고 있는 어려움은 완전히 자업자득이라고 밖에 못 말하겠네."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "But why the sudden urge to give gifts?",
+      "zh-TW": "不過，為什麼突然想到送禮物？",
+      "zh-CN": "不过，为什么突然想到送礼物？",
+      "ja": "でも、どうして急にプレゼントを？",
+      "ko": "근데, 왜 갑자기 선물을 주려는 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "The logistics operator just informed me, turns out the Captain and the others donated a significant amount behind my back to rebuild the \"Oriron Screw\".",
+      "zh-TW": "後勤部門的幹員來通知我，我才知道隊長他們背著我為重建「異鐵螺釘」捐了不少錢。",
+      "zh-CN": "后勤部门的干员来通知我，我才知道队长他们背着我为重建“异铁螺钉”捐了不少钱。",
+      "ja": "後方支援部のオペレーターに聞いたから。隊長たち、私に隠れて「異鉄ネジ」を立て直すために、結構なお金出したって。",
+      "ko": "지원 부서 오퍼레이터가 이제야 알려주더라고, 팀장이 나 몰래 '이철 나사'에 꽤 많은 돈을 기부했다는 사실을 말이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "I mean, I never felt particularly attached to that town. But since someone's looking out for my \"hometown\", I suppose I owe them a favor.",
+      "zh-TW": "我對那個鎮子其實沒什麼歸屬感，但既然「老家」被人關照了，也算欠了次人情。",
+      "zh-CN": "我对那个镇子其实没那么有归属感，但既然“老家”被人关照了，也算欠了次人情。",
+      "ja": "特別思い入れとか無いけど。でも、「故郷」がお世話になったなら別。借りは返さないとねぇ。",
+      "ko": "사실 난 그 마을에 그렇게 강한 소속감을 느끼진 않아. 하지만 누군가가 내 '고향'에 도움을 줬다면, 그건 내가 신세를 진 셈이잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Returning the courtesy is only right. What did you get for the team?",
+      "zh-TW": "禮尚往來是應該的。你送了些什麼給隊員？",
+      "zh-CN": "礼尚往来是应该的。你给队员们送了些什么？",
+      "ja": "礼には礼を、っていうことだね。それで、皆には何を贈ったの？",
+      "ko": "가는 게 있으면 오는 게 있어야 하는 법이지. 팀원들한테는 어떤 선물을 줄 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Tail hair conditioner, large memo pads, and extra-spicy bizarre jelly beans.",
+      "zh-TW": "尾部毛髮護理液、大號備忘筆記本、超辛辣怪味糖豆。",
+      "zh-CN": "尾部毛发护理液、大号备忘笔记本、超辛辣怪味糖豆。",
+      "ja": "尻尾のトリートメント、でっかいメモ帳、辛くて変な味のビーンズ。",
+      "ko": "꼬리 털 관리 에센스, 대형 메모 노트, 그리고 초강력 매운맛 젤리빈을 준비했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "And a copy of \"Common Guide to Daily Life\" for Big Scaley Savra. Care to guess who the other gifts are for?",
+      "zh-TW": "還有一本《生活常識指南》是給大蜥蜴的。想猜猜其他幾份都是送給誰的嗎？",
+      "zh-CN": "还有一本《生活常识指南》是给大蜥蜴的。想猜猜其他几份都是送给谁的吗？",
+      "ja": "あ、大トカゲには「一般常識ガイド」。他は誰のか……当ててみる？",
+      "ko": "그리고 <생활 상식 가이드>는 도마뱀한테 주려고. 나머지는 누구한테 줄 건지 맞혀봐."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Akekuri, Catcher, Estella?",
+         "zh-TW": "秋栗、卡契爾、埃特拉？",
+         "zh-CN": "秋栗、卡契尔、埃特拉？",
+         "ja": "アケクリ、キャッチャー、エステーラかな。",
+         "ko": "아케쿠리, 카치르, 그리고 에스텔라?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Estella, Akekuri, Catcher?",
+         "zh-TW": "埃特拉、秋栗、卡契爾？",
+         "zh-CN": "埃特拉、秋栗、卡契尔？",
+         "ja": "エステーラ、アケクリ、キャッチャーかな。",
+         "ko": "에스텔라, 아케쿠리, 그리고 카치르?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Fluorite",
+         "zh-TW": "螢石",
+         "zh-CN": "萤石",
+         "ja": "フローライト",
+         "ko": "플루라이트"
+        },
+        "text": {
+         "en": "Awww, so close!",
+         "zh-TW": "真可惜，差一點點呢。",
+         "zh-CN": "真可惜，差一点点呢。",
+         "ja": "残念。惜しかったねぇ。",
+         "ko": "거의 비슷했는데, 틀렸어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Estella, Catcher, Akekuri?",
+         "zh-TW": "埃特拉、卡契爾、秋栗？",
+         "zh-CN": "埃特拉、卡契尔、秋栗？",
+         "ja": "エステーラ、キャッチャー、アケクリかな。",
+         "ko": "에스텔라, 카치르, 그리고 아케쿠리?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Fluorite",
+         "zh-TW": "螢石",
+         "zh-CN": "萤石",
+         "ja": "フローライト",
+         "ko": "플루라이트"
+        },
+        "text": {
+         "en": "Playing the contrarian is a bit too deliberate, don't you think, hero?",
+         "zh-TW": "專門倒著回答有點太刻意啦，大英雄。",
+         "zh-CN": "专门倒着答有点太刻意啦，大英雄。",
+         "ja": "わざと外すの、滑ってるよ？ヒーロー様。",
+         "ko": "일부러 반대로 대답하는 건 너무 티 나잖아, 우리 영웅님."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Seems like practical little gifts. After hearing you out, I expected something more solemn.",
+      "zh-TW": "看起來是一些實用的小禮物。聽你說完理由，我還以為禮物會選得更鄭重一點。",
+      "zh-CN": "看起来是些实用的小礼物。听你说完理由，我还以为礼物会选得更郑重一些。",
+      "ja": "でも、随分実用的なものが多いね。理由を聞いていたから、もっと派手なものかと思っていた。",
+      "ko": "실용적인 소소한 선물이네. 선물을 주는 이유를 듣고 보니까, 좀 더 격식 있는 선물을 고를 줄 알았어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Where's the fun in that? Then everyone would have to stress about how to return the favor.",
+      "zh-TW": "那樣才沒意思吧，到時候大家還要想怎麼回禮。",
+      "zh-CN": "那样才没意思吧，到时候大家还得费心怎么回礼。",
+      "ja": "そんなの、つまんないでしょ。お返しとか、妙に気を使われても困るし。",
+      "ko": "그건 너무 재미없잖아. 그리고 만약 정말 그런 격식 있는 걸 선물하면, 나중에 다들 어떤 답례를 할지 고민할 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Back-and-forth formalities would just make things awkward. Practical gifts like these put people at ease.",
+      "zh-TW": "來來回回真的要變得不自在了，不如送這些實用的東西讓人安心。",
+      "zh-CN": "一来二去真要变得不自在了，不如这些实用的东西让人安心呢。",
+      "ja": "使えるものが一番。結局、安心できるってわけ。",
+      "ko": "그런 식으로 선물을 주고받다 보면 결국 부담스러워지지 않겠어? 차라리 이런 실용적인 것들이 덜 부담스럽지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I'm not really sure about Antal...",
+      "zh-TW": "我覺得安塔爾不一定會這麼想……",
+      "zh-CN": "我觉得安塔尔不一定会这么想……",
+      "ja": "アンタルはそう思わないかもしれないけど……",
+      "ko": "안탈은 그렇게 생각 안 할 것 같은데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Speaking of which, if they're all practical items, what's the gift you got for me?",
+      "zh-TW": "話說回來，如果都是實用的東西，你給我的禮物是什麼呢？",
+      "zh-CN": "话说回来，如果都是实用的东西，你给我的礼物是什么呢？",
+      "ja": "ところで、全部「使えるもの」なら、自分には何をプレゼントしてくれたのかな。",
+      "ko": "그건 그렇고, 전부 다 실용적인 것들이라면, 나한테 줄 선물은 뭐야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Guess.",
+      "zh-TW": "儘管猜猜看囉。",
+      "zh-CN": "尽管猜猜看咯。",
+      "ja": "当ててみて。",
+      "ko": "글쎄, 한번 맞혀보던가."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0022_bounda_3",
+   "topic": {
+    "en": "By the Same Book",
+    "zh-TW": "相同的規則",
+    "zh-CN": "相同的规则",
+    "ja": "同じ規則",
+    "ko": "동일한 규칙"
+   },
+   "lines": [
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Fluorite] sent you a reminder",
+      "zh-TW": "[螢石]向你傳送了一次提醒",
+      "zh-CN": "[萤石]向你发送了一次提醒",
+      "ja": "「フローライト」からリマインドが届きました",
+      "ko": "[플루라이트] 님이 알림을 보냈습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Had someone leave a box for you. Did you see it?",
+      "zh-TW": "託人留了個盒子給你，看到了嗎？",
+      "zh-CN": "托人给你留了个盒子，看到了吗？",
+      "ja": "箱をひとつ預けといたんだけど、見た？",
+      "ko": "너한테 줄 상자 하나를 맡겨놨는데, 혹시 봤어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I won't fall for it again! Last time you made it sound so nice, but it still turned out to be a jack-in-the-box!",
+      "zh-TW": "我不會再上當了！上次你說得那麼漂亮，結果給我的那份還是個驚嚇盒！",
+      "zh-CN": "我不会再上当了！上次你说得那么漂亮，结果给我的那份还是个惊吓盒子！",
+      "ja": "もう引っかからないよ。前回いいことを言っていたのに、結局びっくり箱だったからね。",
+      "ko": "이제는 안 속아! 지난번에도 말은 그럴듯하게 해놓고, 결국은 서프라이즈 상자였잖아!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Hey, don't be mad! There was still a gift hidden inside the box.",
+      "zh-TW": "盒子裡不是還藏了小禮物嘛，不要生氣啦。",
+      "zh-CN": "盒子里不是还藏了小礼物嘛，别生气呀。",
+      "ja": "でもちっちゃいプレゼント、中に入ってたでしょ？そんな怒らなくてもねぇ。",
+      "ko": "상자 안에 작은 선물도 들어 있었잖아, 그렇게 화내지 마."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "I swear it's really just an ordinary wildflower I spotted by the roadside this time.",
+      "zh-TW": "這次真的只是一朵普通的野花，在路邊看到的。",
+      "zh-CN": "这次真的只是一朵普通的野花，在路边看到的。",
+      "ja": "今度はほんとに、ただの花。道端に咲いてて。",
+      "ko": "이번엔 진짜 그냥 평범한 야생화야. 길에서 한 송이 땄어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Though it's been in my pocket for a while ... it might be a little crumpled.",
+      "zh-TW": "不過在口袋裡放了蠻久的，說不定弄皺了一點。",
+      "zh-CN": "不过在口袋里放了挺久，说不定弄皱了一点。",
+      "ja": "ポケットにずっと入れてたから、潰れちゃったかも。",
+      "ko": "근데 주머니에 좀 오래 넣어둬서 조금 구겨졌을지도 몰라."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Anyway, thanks for the gift ... but why did you think to give me a flower?",
+      "zh-TW": "總之，謝謝你的禮物……但你為什麼會想到送我一朵花？",
+      "zh-CN": "总之，谢谢你的礼物……但你为什么会想到送我一朵花？",
+      "ja": "とりあえず、ありがとう。でも、どうして花を？",
+      "ko": "아무튼, 선물은 고마워... 근데 왜 나한테 꽃을 선물하는 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "I dunno. Felt like you'd appreciate it.",
+      "zh-TW": "突然覺得你應該會喜歡。",
+      "zh-CN": "突然觉得你应该喜欢。",
+      "ja": "管理人、好きかなーって。",
+      "ko": "그냥 갑자기 네가 좋아할 거 같은 생각이 들어서."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Folks in the frontier call it the \"Pathfinder's Bloom\". I only found out later that this wildflower was also brought over from Terra.",
+      "zh-TW": "開拓區的人習慣叫它「探路花」，我後來才知道，這種野花也是從泰拉帶過來的。",
+      "zh-CN": "开拓区的人习惯叫它“探路花”，我后来才知道，这种野花也是从泰拉带过来的。",
+      "ja": "開拓エリアでは「活路花」って呼ばれてるみたい？テラから持ってきた花なんだって。あとで知ったけど。",
+      "ko": "개척 지역에서는 '길을 여는 꽃'이라고 불리는 꽃인데. 나중에 들어보니, 이 꽃도 테라에서 가져온 거래."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "It only grows where people have been. But this one sprouted right on the edge of the Blight, just centimeters from all that filth.",
+      "zh-TW": "它只在有人的地方生長，但這朵長在侵蝕旁邊，離那些髒東西只有幾公分的距離。",
+      "zh-CN": "它只在有人的地方长，但这朵长在了侵蚀边上，离那些脏东西只有几厘米远。",
+      "ja": "人のいる場所にだけ咲く花だけど、これは侵蝕の縁に咲いてた。ほんの数センチのとこに。",
+      "ko": "이 꽃은 원래 사람이 있는 곳에만 피는데, 이 한 송이는 침식 옆에서 자라서 그 더러운 것들이랑 몇 센티미터밖에 안 떨어져 있었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "A flower from Terra, blooming on the edge of Blight on Talos-II...",
+      "zh-TW": "從泰拉來的花，開在了塔衛二的侵蝕旁邊……",
+      "zh-CN": "从泰拉来的花，开在了塔卫二的侵蚀边上……",
+      "ja": "テラから来た花が、タロⅡの侵蝕の側に……",
+      "ko": "테라에서 온 꽃이 탈로스 II의 침식 바로 옆에 피어난 거네..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "What's the word for it again?",
+      "zh-TW": "那個詞叫什麼來著。",
+      "zh-CN": "那个词叫什么来着。",
+      "ja": "ほら、えっと。何ていうんだっけね？",
+      "ko": "이럴 때 뭐라고 하더라..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Quite \"poetic\", isn't it?",
+      "zh-TW": "意境很好，對吧？",
+      "zh-CN": "意境很好，对吧？",
+      "ja": "趣がある？",
+      "ko": "아, 시적인 표현이야. 맞지?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "No matter how these dangers reject us, the Civilization Band has already taken root on Talos-II.",
+      "zh-TW": "不管這些危險如何拒絕我們，文明環帶也已經在塔衛二上站住了腳跟。",
+      "zh-CN": "不管这些危险如何拒绝我们，文明环带也已经在塔卫二上站住了脚跟。",
+      "ja": "この星の危険に阻まれても、文明地帯はタロⅡにしっかりと根を下ろした。",
+      "ko": "수많은 위험이 우리를 가로막았지만, 문명 밴드는 결국 탈로스 II에 자리를 잡았어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "No matter how close the threat looms, life never gives up on growing. Quite poetic indeed.",
+      "zh-TW": "不管威脅靠得多近，生命都不會放棄繼續生長，意境確實不錯。",
+      "zh-CN": "不管威胁靠得多近，生命都不会放弃继续生长，意境确实不错。",
+      "ja": "どれほどの危険が迫ってきても、生命は成長をやめない。確かに趣があると言えるかもね。",
+      "ko": "위협이 아무리 가까이 다가와도, 생명은 계속 자라기를 포기하지 않았지. 정말 뭔가 시적인 느낌이네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Though I just killed it.",
+      "zh-TW": "雖然它的生命已經被我結束了。",
+      "zh-CN": "虽然它的生命已经被我结束了。",
+      "ja": "まあ、その命は私が終わらせたけど。",
+      "ko": "비록 그 생명은 나 때문에 끝났지만 말이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "I've always felt that the lands beyond the frontier, y'know, the ones farther out might not truly belong to us.",
+      "zh-TW": "我一直都覺得，開拓區外面更遠的那些地方，不一定屬於我們。",
+      "zh-CN": "我一直都觉得，开拓区外面更远的那些地方，不一定属于我们。",
+      "ja": "ずっと思ってたんだよねぇ。開拓エリアのもっと外、あっち側は私たちのものじゃない。",
+      "ko": "난 항상 이런 생각을 했어. 개척 지역에서 멀리 떨어진 곳들은 우리 것이 아닐 수도 있다고 말이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Whether it's those chaotic buggerloid or the self-spreading Blight ... neither managed to destroy this planet before we arrived.",
+      "zh-TW": "亂七八糟的破石頭天使也好，自說自話冒出來的各種侵蝕也好，在我們來之前，它們也沒有把這顆星球毀掉。",
+      "zh-CN": "乱七八糟的破石头天使也好，自顾自冒出来的各种侵蚀也好，在我们来之前，它们也没有把这颗星球毁掉。",
+      "ja": "石のアンゲロスも、勝手に湧いてくる侵蝕だって、私たちが来る前はこの星を壊したりしてなかった。",
+      "ko": "그 빌어먹을 아겔로스든, 제멋대로 나타난 온갖 침식이든, 우리가 오기 전까지는 그 아무도 이 행성을 파괴하지 않았으니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That is indeed the truth, but I don't want everyone to think that way.",
+      "zh-TW": "這的確是事實，但我不希望大家這麼想。",
+      "zh-CN": "这的确是事实，但我不希望大家这么想。",
+      "ja": "それは事実だ。でも、皆にはそう考えてほしくはないんだ。",
+      "ko": "그게 사실이긴 하지만, 난 사람들이 그렇게 생각하지 않으면 좋겠어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "This world doesn't belong to anyone, and we are not superfluous on this planet.",
+      "zh-TW": "這世界沒有主人，而我們也不是這顆星球上多餘的部分。",
+      "zh-CN": "这世界没有主人，而我们也不是这颗星球上多余的部分。",
+      "ja": "この世界に支配者はいない。我々だって、この星で余計な存在なんかじゃないんだよ。",
+      "ko": "이 세상의 주인이라는 건 없어. 그리고 우리도 이 행성에서 불필요한 존재가 아니야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Too serious there, hero.",
+      "zh-TW": "太嚴肅了啦，大英雄。",
+      "zh-CN": "太严肃啦，大英雄。",
+      "ja": "相変わらずマジメだねぇ、ヒーロー様。",
+      "ko": "너무 심각해지지 마, 우리 영웅님."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "The wilderness shows no mercy. Every blade of grass that survives had to claw for its place in this world.",
+      "zh-TW": "荒野裡的那些危險一樣不留情面，活下來的每一棵花草都是靠自己爭取到的生存空間。",
+      "zh-CN": "荒野里的那些危险一样不留情面，活下来的每一棵花草都是自己争取的生存空间。",
+      "ja": "容赦なく襲ってくる荒野の危険。生き残ってる花も草も、自分の力で生きる場所を勝ち取った。",
+      "ko": "위험이 가득한 황무지는 여전히 무자비하지만, 살아남은 꽃과 풀들에게 있어서 그곳은 스스로 쟁취한 생존 공간이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "I just think there's no real difference between the Civilization Band and the frontier. If anything, it's just one massive frontier.",
+      "zh-TW": "我只是覺得，文明環帶裡面和開拓區也沒什麼區別，不如說它就是個巨大的開拓區。",
+      "zh-CN": "我只是觉得，文明环带里面和开拓区也没什么区别，不如说它就是个巨大的开拓区。",
+      "ja": "文明地帯の中だって、開拓エリアとおんなじ。むしろ、巨大な開拓エリアって言えるかもねぇ。",
+      "ko": "난 문명 밴드가 개척 지역이랑 크게 다르지 않다고 생각해. 오히려 거대한 개척 지역이라고 할 수 있겠지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Only now we've got a bunch of pretentious hypocrites to deal with on top of it all. If you want to live well, you have to fight for it.",
+      "zh-TW": "要收拾的對象裡還多了群裝模作樣的偽君子，想過好日子，都要拼命。",
+      "zh-CN": "要收拾的还多了群装模作样的伪君子，想过好日子，都得拼命。",
+      "ja": "片付ける相手も増えた。取り繕うだけの偽善者も。いい暮らしがしたくて、みんな必死なんだよ。",
+      "ko": "없어져야 할 사람들은 허세만 부리는 위선자들이야. 더 나은 삶을 위해서는 필사적인 노력이 필요해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "True. Whether facing nature or the even more complex society built upon it, living space must be fought for.",
+      "zh-TW": "確實，不管是面對自然，還是在其之上更加複雜的社會，生存空間都要靠自己爭取。",
+      "zh-CN": "确实，不管是面对自然，还是在其之上更加复杂的社会，生存空间都得靠自己争取。",
+      "ja": "うん、そう思うよ。自然でも、もっと複雑な社会だったとしても、生きる場所は自分で勝ち取らないといけない。",
+      "ko": "맞아, 자연을 마주하든, 아니면 더 복잡한 사회를 마주하든, 생존 공간은 결국 스스로 쟁취해야 하는 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "So some rules of the wildlands still apply within the Civilization Band.",
+      "zh-TW": "所以，荒野裡的一些規矩，在文明環帶裡也適用。",
+      "zh-CN": "所以，荒野里的一些规矩，在文明环带里也行得通。",
+      "ja": "だから、荒野のルールは文明地帯でも通じるってわけ。",
+      "ko": "그러니까, 황무지에서 통하던 규칙이 문명 밴드 안에서도 통한다는 뜻이지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Only those who know how to stand on their own won't ruin the land for everyone else. They're worth sticking together with.",
+      "zh-TW": "只有懂得自力更生的人才不會禍害一整片地方，值得一起抱團取暖。",
+      "zh-CN": "只有懂得自力更生的人才不会祸害一整片地方，值得一起抱团取暖。",
+      "ja": "自分で生きていく方法を見つけられたら、迷惑かけずにすむ。そういう人だったら、一緒に支え合える。",
+      "ko": "자기 힘으로 살아갈 수 있는 사람만이 이 땅에 피해를 주지 않을 거야. 그런 사람들과 함께 뭉쳐서 서로를 지켜줘야 해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "As for the parasites among us ... those bandits who can't survive without exploiting others? I'd rather eliminate them myself.",
+      "zh-TW": "至於那些寄生在我們當中的蛀蟲，那些不剝削其他人就活不下去的強盜，我更願意親手淘汰他們。",
+      "zh-CN": "至于那些寄生在我们当中的蛀虫，那些不剥削其他人就活不下去的强盗，我更愿意亲手淘汰他们。",
+      "ja": "だけど、他人から搾取しないと生きられない寄生虫みたいな連中だったら、消したほうがいい、でしょ？",
+      "ko": "우리한테 빌붙어 사는 기생충 같은 사람이나, 누군가를 착취하지 않고는 못 살아남는 강도들은 차라리 내 손으로 제거하는 편이 훨씬 나아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Well said. But what's gotten into you today? Getting all philosophical over a single flower?",
+      "zh-TW": "說得沒錯。不過今天是怎麼了，因為一朵花就說了這麼多正經道理？",
+      "zh-CN": "说得不错。不过今天是怎么了，因为一朵花就说了这么多正经道理？",
+      "ja": "なるほどね。でも、今日はどうしたの？花の話から、ここまで話してくれると思わなかったよ。",
+      "ko": "의미 있는 말이네. 근데 너 오늘 좀 이상하다? 꽃 한 송이에 이렇게 많은 진지한 이야기를 하다니 말이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "Well... While picking that flower, I happened to take down a few clueless parasites who weren't on the mission roster.",
+      "zh-TW": "摘那朵花的時候，不小心順手放倒了幾個不長眼的蛀蟲，任務計劃裡沒有他們。",
+      "zh-CN": "摘那朵花的时候，不小心顺手放倒了几个不长眼的蛀虫，任务计划里没他们。",
+      "ja": "花を摘んだついでに、目障りな虫を殺っただけ。任務計画には載ってなかったけどねぇ。",
+      "ko": "사실 그 꽃을 따다가, 어쩌다 보니 겁 없는 기생충 놈들을 몇 명 혼내줬거든. 물론 원래 임무 계획에는 없었지만."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Fluorite",
+      "zh-TW": "螢石",
+      "zh-CN": "萤石",
+      "ja": "フローライト",
+      "ko": "플루라이트"
+     },
+     "text": {
+      "en": "I'll leave the cleanup to you, thanks hero!",
+      "zh-TW": "善後工作就拜託啦，大英雄！",
+      "zh-CN": "善后工作就拜托啦，大英雄！",
+      "ja": "後始末、頼んだよ。ヒーロー様！",
+      "ko": "그래서 뒷일을 좀 부탁할게, 우리 영웅님!"
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 4
+}

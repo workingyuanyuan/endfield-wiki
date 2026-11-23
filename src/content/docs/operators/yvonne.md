@@ -59,6 +59,8 @@ sources:
 
 Yvonne is a fashion-loving researcher in Endfield Industries' Specialist Tech Division who studies Æther, Blight, and related devices.
 
+Files and voice lines: [Yvonne's file](/story/yvonne/).
+
 ## How to obtain
 
 Yvonne is the rate-up 6-star operator of Hues of Passion, a Chartered Headhunting banner of [Version 1.0](/versions/1-0/). Banners with Yvonne:

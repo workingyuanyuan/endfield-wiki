@@ -75,8 +75,13 @@ def check(path):
     if ALL_PAGES and re.match(r'operators/(?!index)', rel):
         allowed = allowed | (set(PATTERNS) - {'SELF'})
     jako = re.search(r'src/content/docs/(ja|ko)/', norm) is not None
+    # Story pages show the game's own text (quotes, table rows, chat lines, file titles and
+    # unlock conditions); only the sentences around it are ours.
+    game_text = re.compile(r'^\s*(>|\||- |\*|### )') if re.match(r'story/(?!index)', rel) else None
     hits = []
     for n, line in enumerate(body_of(open(path, encoding='utf8').read()).split('\n'), 1):
+        if game_text and game_text.match(line):
+            continue
         for kind, pats in PATTERNS.items():
             if kind in allowed:
                 continue

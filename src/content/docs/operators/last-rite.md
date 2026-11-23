@@ -53,6 +53,8 @@ sources:
 
 Last Rite is a young Nachzehrer raised by Caprinae gravekeepers; after Seš'qa discovered her potential, merchants came to call her the Princess of the War Court, and she now fights for Endfield under contract.
 
+Files, voice lines and chats: [Last Rite's file](/story/last-rite/).
+
 ## How to obtain
 
 Last Rite has no rate-up banner. Five standard 6-star operators are in the pool of Basic Headhunting and of every Chartered Headhunting banner: Ember, Lifeng, Ardelia, Last Rite and Pogranichnik.

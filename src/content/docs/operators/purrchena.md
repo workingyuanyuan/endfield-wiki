@@ -46,6 +46,8 @@ sources:
 
 Purrchena is a dessert-loving spokesperson for the Ætherside Environmental Impact Syndrome Relief Foundation; recommended by the TGCC, she joined Endfield's Business Office as the liaison between the two on Ætherside Syndrome.
 
+Files and voice lines: [Purrchena's file](/story/purrchena/).
+
 ## How to obtain
 
 Purrchena was given by Purry Big Feline! RAWR!, a giveaway event of Version 1.5 that ran from 2026-09-24 12:00 to the Version 1.6 update, 2026-10-15. Logging in and playing the game modes during the event gave Purrchena, Purrchena's Token ×5 and the 5-star weapon Dessert Moment (Sword) ×6.

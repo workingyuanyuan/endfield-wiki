@@ -1,0 +1,23 @@
+{
+ "endmin": {
+  "en": "Endministrator",
+  "zh-TW": "管理員",
+  "zh-CN": "管理员",
+  "ja": "管理人",
+  "ko": "관리자"
+ },
+ "trust": {
+  "en": "Reach trust: %s",
+  "zh-TW": "信賴值達到%s可解鎖",
+  "zh-CN": "信赖度达到%s可解锁",
+  "ja": "信頼度：%sで解放",
+  "ko": "오퍼레이터 신뢰도 %s 도달 후 해제"
+ },
+ "file": {
+  "en": "Operator File",
+  "zh-TW": "幹員檔案",
+  "zh-CN": "干员档案",
+  "ja": "プロファイル",
+  "ko": "오퍼레이터 파일"
+ }
+}

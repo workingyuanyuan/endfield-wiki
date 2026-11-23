@@ -1,0 +1,3353 @@
+{
+ "slug": "arcane",
+ "gameId": "chr_0032_lizhiyan",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Arcane \nGENDER: Female \nAUTHENTICATION: Yinglung Special Task Force \nDOB: July 7 \nRACE: Liberi \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Standard \nCOMBAT SKILL: Excellent \nTACTICAL ACUMEN: Outstanding \nORIGINIUM ARTS ASSIMILATION: Excellent",
+    "zh-TW": "【代號】訣\n【性別】女\n【身分認證】應龍特勤隊\n【生日】7月7日\n【種族】黎博利\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：標準\n作戰技巧：優良\n戰術規劃：卓越\n源石技藝適應性：優良",
+    "zh-CN": "【代号】诀\n【性别】女\n【身份认证】应龙特勤队\n【生日】7月7日\n【种族】黎博利\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：标准\n作战技巧：优良\n战术规划：卓越\n源石技艺适应性：优良",
+    "ja": "【コードネーム】オクギ\n【性別】女\n【身分証明】応龍特殊部隊\n【誕生日】7月7日\n【種族】リーベリ\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：標準\n戦闘技術：優秀\n戦術立案：卓越\nアーツ適性：優秀",
+    "ko": "[코드네임] 결\n[성별] 여\n[신분 인증] 응룡 특수부대\n[생일] 7월 7일\n[종족] 리베리\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 우수\n전술 계획: 탁월\n오리지늄 아츠 적응성: 우수"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Arcane (given name: Li Zhiyan) is a Hongshan Academy of Sciences Yinglung Special Task Force (YSTF) captain. Following injuries suffered during an operation in the North Wuling Exclusion Zone (EZ), she has been permitted to take an extended R&R. With special permission from the YSTF, Arcane is now a partner of Endfield Industries. \n\nAccording to Operator Arcane herself, this is her first long R&R. Our medical operators identified several dozen sites of internal injuries. Frontline work in dangerous Blight environments did not destroy her spirit, yet it has taken a toll on her in the form of constant and grueling physical pain. After conversing with members of the HAS, we learned that the HAS hopes that she can use the opportunity for proper recovery. \"It should be a break to make up for all the breaks she missed for several years running.\" \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員訣，本名李織煙，宏山科學院應龍特勤隊行動隊長。在北部禁區行動中負傷，被批准長期休養。經應龍特勤隊特許，與終末地工業建立合作關係。\n\n按照訣自己的說法，這是她第一次長期休假。醫療幹員在她身上檢查出數十處暗傷，一線高危的侵蝕環境沒有摧毀她的精神，卻折磨著她的肉體。在和宏科院相關人士的交接中，也得知了希望她能藉此機會多做休整的意願——「就像是一口氣休掉了過去數年該休的假。」\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员诀，本名李织烟，宏山科学院应龙特勤队行动队长。在北部禁区行动中负伤，被批准长期休养。经应龙特勤队特许，与终末地工业建立合作关系。\n\n按照诀自己的说法，这是她第一次长期休假。医疗干员在她身上检查出数十处暗伤，一线高危的侵蚀环境没有摧毁她的精神，却折磨着她的肉体。在和宏科院相关人士的对接中，也得知了希望她能借此机会多做休整的意愿——“就像是一口气休掉了过去数年该休的假。”\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "オクギ、本名は「李織煙」。宏山科学院応龍特殊部隊の作戦隊長であり、武陵北部封鎖区域での作戦行動中に負傷し、長期療養を認められた。応龍特殊部隊の特別許可のもと、エンドフィールドと協力関係を結んでいる。\n\n「オクギさんによると、今回は初めての長期休暇とのことです。医療オペレーターが行った検査の結果、数十カ所に及ぶ内部損傷が見つかりました。侵蝕環境の最前線に身を置いていた彼女の精神は非常に強靭ではありましたが、肉体は蝕まれ続けていたということでしょう。宏科院関係者からも、この機会に心身を休めてほしいという意向を伝えられました――『この数年間に取るべきだった休暇を、一気に消化してほしい』とのことです。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 결, 본명 이지연. 홍산 과학원 응룡 특수부대 행동 대장. 북쪽 금지 구역 작전 중 부상을 입어 장기 요양을 승인받았으며, 응룡 특수부대의 특별 허가에 따라 엔드필드 공업과 협력 관계를 맺었다.\n\n결 본인의 말에 따르면, 이는 그녀에게 있어 첫 장기 휴가라고 한다. 의료 오퍼레이터는 그녀의 몸에서 수십 곳의 오래된 부상을 확인했다. 최전선의 고위험 침식 환경은 그녀의 정신을 꺾지 못했지만, 육체는 오랫동안 혹사당하고 있었다. 홍산 과학원 관계자들과의 조율 과정에서도, 이번 기회를 통해 그녀가 충분히 몸을 추스르기를 바란다는 뜻을 확인할 수 있었다.... \"지난 몇 년 동안 쉬지 못했던 휴가를 한꺼번에 쓰는 것과도 같습니다.\"\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "The Captain and Chen? I don't know much about that. I heard they were pretty good friends and even partnered up during the selection trials. Their performance was also the most outstanding amongst the reservists. Everyone thought they would become a pair of promising Yinglungs garrisoned at Yinglung Pass. But after that ... they wouldn't stop arguing with each other. And if they weren't, they were preparing for the next shouting match. You know the Captain. She never backs down. The two were assigned to separate groups and the Captain was the one that became an Yinglung... What if Chen becomes an Yinglung...? I ... can't imagine that. The Captain will still be the Captain. And if she were ever assigned to the Captain's team ... someone would definitely get reassigned. As a bystander, Instructor Zhu and the Captain made the right call. The current arrangement is the best for both of them. \n— Summit, trooper, Yinglung Special Task Force \n\nThe YSTF didn't teach the Captain how to wield her heavy arts unit cannon. I asked her once, and she said it's part of her father's \"legacy\". There was a time when the Captain couldn't get any better no matter how hard she trained, so she kept swapping her weapons. Blades, spears, swords, halberds, axes, broadaxes, hooks, and tridents... She tried them all, got decent with everything, mastered all sorts of fighting styles, but she wasn't satisfied. She thought she wasn't getting good enough, so she doubled her training regimen... People got worried that she'd collapse from exhaustion. Then one day she chanced upon her father's arts unit cannon that was stored outside the place. She never applied for leave until then. No one knew where she went for a couple of days. But when she came back, she had made up her mind to use her father's weapon. And after that, she just became the Arcane we know. No Yinglung garrisoned at Wuling is a match for her. \n— Phrase, trooper, Yinglung Special Task Force \n\nSTOP LISTENING TO THE RUMORS! Ugh. During the selection trials, she ... welp, she was like ... yeah ... got that slight edge over me. But I'm a far better fighter than I used to! If we fight again, I'll give her three free attacks on me! Wait ... maybe two. Don't worry. It'd be just a friendly spar. From what I remember, Arcane was always frowning and grumpy, like she was constantly carrying a huge boulder around. But since she fulfilled her wish about the North Wuling EZ, she's turned a little different. Oh yeah! It reminds me of how she looked like when I first met her. I tried asking her about her encounters in the EZ but she refused to say anything to me. I can't just go and pester the Endmin with questions... Wait... I think I can... \n— Chen Qianyu, former reservist, Yinglung Special Task Force \n\nLi Zhiyan? That little Yinglung girl? Nope. Nothing special comes to mind. Every time I see her, she's always stern-faced, stiff-necked, and making people feel bad about themselves. And she wouldn't stop yapping \"Lady Proxy! Lady Proxy!\" and I had to correct her umpteen times before I could force her to change. Mortal life is short, yet she's blessed with powerful abilities. But look at what she's doing with them: Living the most boring life ever and shackling herself with a load of self-made rules. Well, things have gotten a bit better recently. Her face softened up a little, so that's quite interesting, at least. Maybe the silly dolt did something. Hmph. That clueless idiot romped around and ended up with a bunch of injuries. There'll be no escape this time. \n— Si",
+    "zh-TW": "隊長和陳千語？我知道的也不多。聽說她們最初關係還不錯，在應試選拔期間還搭檔過。她們兩個是候補裡表現最突出的，每個人都以為她們會成為守衛應龍關的搭檔。但是之後……每次看到她們兩個不是在吵架，就是準備吵架。隊長的性格你也知道，總是寸步不讓，後來兩個人就被拆散了，最終只有隊長通過了選拔……如果陳千語也進入應龍的話……我想像不出來，而且隊長一定還會是隊長，她跟隊長一起出任務……搞不好沒幾天調任令就下來了。從旁觀者視角來看，竺老師和隊長的判斷沒有錯。現在的局面對她們兩個而言都是最好的結果。\n——應龍特勤隊隊員 峰\n\n隊長操作重炮的技術不是從特勤隊裡學來的，我之前問過她，她說是父親留下的「遺物」。有一段時間，隊長的訓練陷入了瓶頸，她不停地更換武器。刀槍劍戟，斧鉞鉤叉，她都試過一遍，她用得很好，百般武藝都能很快掌握，但是她總是不滿意，認為自己始終無法更進一步。她為此成倍地錘鍊自己……旁人看了都擔心她能否撐得住。直到有一次，她找到了父親寄存在外的重炮，難得請了幾天假，沒人知道她去了哪裡，但是回來之後，她就決定使用那幾門重炮了。嗯，之後她就和現在沒什麼兩樣了。駐守武陵的隊員裡沒人是她的對手。\n——應龍特勤隊隊員 言\n\n你別聽信謠言，雖然說以前的比試……她……嗯……是占了那麼一點點上風，但是——現在的我可今非昔比！要是再打起來，我先讓她三招！嗯……兩招吧。別擔心，就只是切磋而已。過去她總是眉頭緊皺，像是背了塊石頭在身上，但現在北部禁區的夙願已了，她和之前有點不同了。嗯！有點像我剛開始認識她時的樣子了。只是無論我怎麼問她，她都不願意提禁區裡那段經歷，我總不能一直纏著管理員吧……嗯……可能也不是不行？\n——應龍特勤隊候補隊員（前） 陳千語\n\n李織煙？你是說應龍的那個小丫頭嗎？沒什麼特別的印象，每次看到她的時候，她都是那副正經模樣，讓人覺得彆扭。總是叫我「代理人、代理人」，我說了好幾次她才改口，甚是無趣。她的人生也不過短短百載，空有一身移山填海的好本領，卻活得呆呆板板，不自在得很。不過……最近她似乎變了一點，神色也柔和了不少，這樣才讓人對她有點興趣。我猜是那呆子做了什麼吧？哼，到處亂跑，還弄得一身傷，這次可別想輕易逃過了。\n——祀",
+    "zh-CN": "队长和陈千语？我知道的也不多。听说她们最初关系还不错，在应试选拔期间还搭档过。她们二人是候补里表现最突出的，每个人都以为她们会成为守卫应龙关的搭档。但之后……每次见到她们两个不是在吵架，就是准备吵架。队长的性格你也知道，总是寸步不让，后来两个人就被拆散了，最终只有队长通过了选拔……如果陈千语也进入应龙的话……我想象不出来，而且队长肯定还会是队长，她跟队长一起出任务……弄不好没几天调任令就下来了。从旁观者视角来看，竺老师和队长的判断没有错。现在的局面对她们二人而言都是最好的结果。\n——应龙特勤队队员 峰\n\n队长操作重炮的技术不是从特勤队里学来的，我之前问过她，她说是父亲留下的“遗物”。有一段时间，队长的训练陷入了瓶颈，她不停地更换武器。刀枪剑戟，斧钺钩叉，她都试过一遍，她用得很好，百般武艺都能很快掌握，但她总是不满意，认为自己始终没能更进一步。她为此成倍地锤炼自己……旁人看了都担心她能否撑得住。直到有一回，她找到了父亲寄存在外的重炮，难得请了几天假，没人知道她去了哪里，但回来之后，她就决定使用那几门重炮了。嗯，之后她就和现在没什么两样了。驻守武陵的队员里没人是她的对手。\n——应龙特勤队队员 言\n\n你别听信谣言，虽说以前的比试……她……嗯……是占了那么一点点上风，但是——现在的我可今非昔比！要是再打起来，我先让她三招！嗯……两招吧。别担心，就只是切磋而已。过去她总是眉头紧皱，像是背了块石头在身上，但现在北部禁区的夙愿已了，她和之前有些不同了。嗯！有点像我刚开始认识她时的样子了。只是无论我怎么问她，她都不肯提禁区里那段经历，我总不能一直缠着管理员吧……唔……可能也不是不行？\n——应龙特勤队候补队员（前） 陈千语\n\n李织烟？你是说应龙的那个小丫头吗？没什么特别的印象，每次见到她的时候，她都是那副正经模样，教人觉着拧巴。总喊着“代理人，代理人”，我说了好几次她才肯改口，甚是无趣。她的人生也不过短短百载，空有一身移山填海的好本领，却活得呆呆板板，不自在得很。不过……最近她似乎变了一些，神色也柔和了不少，这才让人对她有了些兴趣。我猜是那呆货做了什么吧？哼，到处乱跑，还弄得一身伤，这次可别想轻易逃过了。\n——祀",
+    "ja": "隊長とチェン・センユーについて？俺も詳しいわけではない。当初、2人の仲は悪くなかったと聞いている。選抜試験の期間中には、組んでいたこともあったらしい。候補生の中でも一際目立っていて、2人は応龍関を守ることになるんだろうと誰もが思っていたそうだ。だが、結局今は……顔を合わせるたびに喧嘩するか、喧嘩寸前か、そのどちらかだ。知っての通り、隊長は一歩も譲らない性格だ。最終的に、隊長だけが選抜を通過し、2人は別々の道を歩むことになったが……もしチェン・センユーも応龍に入っていたなら、どうなっていたかは想像もつかない。それに、隊長は隊長で変わるはずがない。彼女が隊長と一緒に任務に出るなんてことになったなら……下手をすれば、数日中に異動辞令が出るかもしれない。傍から見れば、アツ先生と隊長の判断は間違っていなかった。今の状況が、あの2人にとっては一番いい結果なんだろう。\n――応龍隊員　ミネ\n\n隊長が重砲を扱う技術は、応龍で習得したものではない。以前、私が尋ねたときは、父親が遺した「形見」だと隊長は言っていた。ある時期、隊長は壁にぶつかり、武器を次々と替え続けたことがあった。刀、槍、剣、戟、斧、鉤――ありとあらゆる得物を一通り試し、どれも見事に使いこなしていた。様々な武芸を瞬く間に習得したが、隊長は決して満足することなく、まだ一段上へ進めていないと考えているようだった。そのために幾倍もの厳しさで自らを鍛え上げた……隊長が持ちこたえられるのかと、誰もが案じていた。そんなある時、隊長は父親が外部に預けていた重砲を見つけ出した。珍しく数日の休暇を取った隊長が、どこへ行ったのかは誰も知らない。だが戻ってきた後、あの数門の重砲を使うことを決めていた。そして、それからは今とほとんど変わらない。武陵に駐留する隊員の中で、隊長の相手になる者は1人としていない。\n――応龍隊員　コト\n\n噂はあくまで噂だって。確かに昔の手合わせだと……オクギが……まあ……ちょっとだけ上だったかも。だけど、今のあたし、前とは全然違うんだから！もし今戦うってなったら、最初の三手は譲れるよ。うーん……やっぱり二手で。心配いらないって、ただの稽古だし。昔のオクギはいっつも眉間にしわ寄せてて、なんか重い石でも背負ってるみたいな……でも今は封鎖区域での「宿願」も果たして、前とはちょっと変わったかな。うん、なんか最初に会ったときに戻ったみたいな感じかなあ。でも、何回聞いても封鎖区域でのこと、全然教えてくれなくってさ。管理人に聞き続けるわけに……うーん……まあ、できなくはないかも。\n――応龍特殊部隊元候補　チェン・センユー\n\nリ・チーエン？ああ、応龍の小娘のことか。これといって特別な印象もないのう。あやつは頑固者じゃ、見ておるこっちのほうが窮屈になってくる。「代理人」とだけ呼んでくるものじゃから、何度も注意して、名を呼ぶよう改めさせたのだが……まったく、つまらぬやつよ。あやつの生なぞ、たかだか百年ばかりの短きもの。あれほどの才を持ちながら、堅苦しく杓子定規な生き方を選ぶとは……ほんに退屈そうじゃ。しかし……近頃はどうも、少し変わったようじゃな。顔つきもだいぶ柔らかくなりおった。まあ、ようやくほんの少しだけ興味が湧いたとでも言ってやるか……それで、あのうつけ者がまた何かしでかしたのか？ふむ、あちこち駆け回った挙句、傷だらけになりおって。今度ばかりは、そう易々と逃がしはせぬぞ。\n――スー",
+    "ko": "대장님과 진천우 씨 말입니까? 저도 자세히는 모릅니다. 듣기로는 처음엔 관계도 나쁘지 않았고, 선발 시험 기간에는 함께 움직인 적도 있었다고 합니다. 두 사람은 후보생 중에서도 가장 두각을 드러낸 이들이라, 누구나 둘이 응룡 관문을 지키는 파트너가 될 거라고 생각했습니다. 하지만 그 뒤로는... 두 사람이 마주칠 때마다 이미 말다툼 중이거나, 곧 말다툼이 시작될 분위기였습니다. 대장님 성격은 아시다시피 한 치도 물러서지 않는 분이니까요. 결국 두 사람은 떨어졌고, 최종적으로 선발을 통과한 건 대장님뿐이었습니다... 만약 진천우 씨도 응룡에 가입했다면... 상상이 잘 되지 않습니다. 그래도 대장님은 분명 대장님이었을 테고, 둘이 함께 임무를 나갔다면... 어쩌면 며칠 지나지 않아 전보 명령이 내려왔을지도 모릅니다. 제3자의 입장에서 보자면, 축 교관님과 대장님의 판단은 틀리지 않았습니다. 지금의 결과가 두 사람 모두에게는 가장 나은 결말일 겁니다.\n- 응룡 특수부대 대원 봉\n\n대장님이 중포를 다루는 기술은 특수부대에서 배운 것이 아닙니다. 예전에 제가 물어본 적이 있는데, 아버지가 남긴 '유품'이라고 하셨습니다. 한동안 대장님은 훈련에서 벽에 부딪힌 듯했고, 계속 무기를 바꾸셨습니다. 도검, 창, 극, 도끼, 갈고리, 장병기까지 전부 써 보셨죠. 어느 것이든 잘 다루셨고, 어떤 무예든 빠르게 익히셨지만, 늘 만족하지 못하셨습니다. 자신이 끝내 한 걸음 더 나아가지 못하고 있다고 여기셨으니까요. 그래서 몸을 몇 배로 몰아붙이셨습니다... 곁에서 보는 사람들까지 저렇게 버틸 수 있을까 걱정할 정도였습니다. 그러다 어느 날, 대장님은 아버지가 외부에 맡겨 두었던 중포를 찾아내셨고, 드물게 며칠 휴가를 내셨습니다. 어디에 다녀오셨는지는 아무도 모릅니다. 다만 돌아온 뒤, 대장님은 그 중포들을 사용하기로 결정하셨습니다. 네, 그 뒤로는 지금의 대장님과 거의 다르지 않았습니다. 무릉에 주둔한 대원 중 대장님의 상대가 되는 사람은 없었습니다.\n- 응룡 특수부대 대원 언\n\n소문 믿지 마. 예전 대련에서는... 그 녀석이... 음... 아주 살짝 우세했던 건 맞지만, 하지만 지금의 난 그때와는 완전히 다르다고! 다시 붙으면 내가 먼저 세 수는 양보해 줄게! 음... 두 수만 할까. 걱정 마, 그냥 가벼운 대련일 뿐이니까. 예전엔 하도 미간을 찌푸리고 다녀서 꼭 등에 돌덩이라도 짊어진 것 같았는데, 이제 북쪽 금지 구역의 숙원도 끝났으니 그 녀석도 전이랑은 좀 달라졌어. 응! 처음 알게 됐을 때 모습이랑 좀 비슷해졌다고 해야 하나. 다만 내가 아무리 물어봐도 금지 구역에서 있었던 일은 전혀 말 안 해주더라고. 그렇다고 관리자한테 계속 매달릴 수도 없고... 으음... 어쩌면 안 될 것도 없으려나?\n- 응룡 특수부대 후보 대원(전) 진천우\n\n이지연? 응룡의 그 꼬마 말이야? 딱히 특별한 인상은 없어. 만날 때마다 맨날 그렇게 진지한 표정만 짓고 있어서, 보는 사람까지 피곤하게 만들었지. 맨날 '대리인님, 대리인님' 하고 불러대길래, 내가 몇 번이나 말하고 나서야 겨우 호칭을 고치더라. 참 재미없는 애였어. 걔 인생도 고작해야 백 년 정도일 텐데, 산을 옮기고 바다를 메울 만한 좋은 재주를 가지고도 그렇게 고지식하게 사니 너무 답답하잖아. 하지만... 요즘은 좀 바뀐 것 같네. 표정도 제법 부드러워졌고, 보는 맛이 좀 생겼달까? 내 생각엔 그 멍청이가 뭔가를 한 거 같은데? 흥, 여기저기 돌아다니다가 다치기나 하고, 이번엔 절대 쉽게 안 넘어갈 줄 알아.\n- 사"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "\"She may come off as cold and heartless, but that is what's needed in the YSTF.\" A bystander's evaluation of Li Zhiyan is usually very simple. \nAll of Li's actions and choices can be boiled down to this statement: Finishing the mission. The troopers of the Yinglung Special Task Force (YSTF) always fight in extreme environments. Cold rationality and sheer determination help guarantee the success of a mission. If \"safe exit\" is not listed as part of the mission objective, every Yinglung knew what it meant. \nThe YSTF has a secret chamber kept under tight security. They do not use it for storing intel files or documents, but for the \"belongings\" of every Yinglung. When you become an Yinglung, you are given a box and you are free to put anything you want in it. In the event that you fall during a mission, that thing in the box will function as the only proof of your existence. \nBut Li Zhiyan's box remained empty. \nShe told the chamber custodian that she had nothing. Everything she once had was buried within the dark, cold, and toxic Miasma of the North Wuling Exclusion Zone. \nThe custodian had to tell her that this was a YSTF rule. It made Li think. What item best represents herself? If the title of YSTF Captain were taken from her, is there anything that she could put in the box? She pondered about the meaning of \"self\". \nShe was only temporarily hampered by the question. Soon enough, she found an old artist on the market to write her name down with a calligraphy brush. This name was the thing that entered the box. \nThe question did not feel important to her. It was the next mission that always mattered most. \n...... \nLi barely visited the secret chamber until recently. In her multiple visits, her once threadbare box began to fill. A pen. A button. A dagger also joined the pile... Every item appeared mundane and meaningless, as though she just grabbed something from the desk. A few seemed like gifts from her neighbors or keepsakes that someone wanted her to pass on... Yet Li treated them all like treasure and carefully placed them in her box. \nWhen a curious Endministrator asked about this, Li no longer responded with stern silence as she'd often done in the past. Instead, she gave a solemn answer. \n\"I looked back and realized that I have missed so many things that I should have treasured.\"",
+    "zh-TW": "「有時你會覺得她冷漠無情，但這是特勤隊所必需的。」旁人對李織煙的評價非常簡單。\n你能用「為了完成任務」來解釋李織煙的一切行為。應龍特勤隊的戰場總位於極端環境中，冷酷堅決的執行力就是完成任務的一份保障。當「活著回去」沒有出現在任務目標內，特勤隊的成員都知道那意味著什麼。\n特勤隊有一間暗室，戒備極其森嚴，裡面存放的並不是什麼情報卷宗，而是每一位應龍隊員的「遺物」。在正式成為特勤隊成員的那一刻，你會分到一個匣子，放什麼進去自己決定。只是，如果當你因任務無法回來時，匣子裡的東西就是你存在過的唯一證明。\n李織煙的匣子空空如也。\n她告訴暗室的管理者，自己一無所有，曾經的一切都埋在禁區裡，在那片漆黑冰冷的毒瘴之下。\n直到管理者告訴她這是特勤隊的規矩，她才開始思考，到底什麼才能代表自己。在摘掉應龍特勤隊行動隊長這個身分後，還有什麼是能夠放進匣中之物？「我」又是誰？\n但是這個問題也沒有困擾她多久，她找了市集上的一個老師傅，用毛筆寫下自己的名字，裝進了匣子裡。\n這些問題，都不重要。重要的，永遠都是下一個任務。\n…………\n她幾乎從不來暗室，但最近，她來過好幾次，在那原本空蕩蕩的匣子裡留下了不少東西。有時是一支筆，有時是一顆紐扣，有時是一把匕首……都那麼平平無奇，看不出什麼意義，似乎只是她從桌上隨手帶回的。那些東西有的是鄰居給予的禮物，有的是受人託付的信物……她都如同對待珍視的寶物一般，將其放入匣中。\n當管理者饒有興趣地問起時，她不再像往日那樣冷峻不語，而是略作思考，認真地回答道——\n「回首看去，我才發現自己錯過了那麼多值得珍視的東西。」",
+    "zh-CN": "“有时你会觉得她冷漠无情，但这是特勤队所必需的。”旁人对李织烟的评价非常简单。\n你能用“为了完成任务”来解释李织烟的一切行为。应龙特勤队的战场总位于极端环境中，冷酷坚决的执行力就是完成任务的一份保障。当“活着回去”没有出现在任务目标内，特勤队的成员都知道那意味着什么。\n特勤队有一间暗室，戒备极其森严，里面存放的并不是什么情报卷宗，而是每一位应龙队员的“遗物”。在正式成为特勤队成员的那一刻，你会分到一个匣子，放什么进去自己决定。只是，如果当你因任务无法回来时，匣子里的东西就是你存在过的唯一证明。\n李织烟的匣子空空如也。\n她告诉暗室的管理者，自己一无所有，曾经的一切都埋在禁区里，在那片漆黑冰冷的毒瘴之下。\n直到管理者告诉她这是特勤队的规矩，她才开始思考，到底什么才能代表自己。在摘掉应龙特勤队行动队长这个身份后，还有什么是能够放进匣中之物？“我”又是谁？\n但这个问题也没有困扰她多久，她找了市集上的一个老师傅，用毛笔写下自己的名字，装进了匣子里。\n这些问题，都不重要。重要的，永远都是下一个任务。\n…………\n她几乎从不来暗室，但最近，她来过好几次，在那原本空荡荡的匣子里留下了不少东西。有时是一支笔，有时是一颗纽扣，有时是一把匕首……都那么平平无奇，看不出什么意义，似乎只是她从桌上随手带回的。那些东西有的是邻居给予的礼物，有的是受人托付的信物……她都如同对待珍视的宝物一般，将其放入匣中。\n当管理者饶有兴趣地问起时，她不再像往日那样冷峻不语，而是略作思考，认真地回答道——\n“回首看去，我才发现自己错过了那么多值得珍视的东西。”",
+    "ja": "「彼女を冷淡で無情だと感じることもあるだろう。だが、それは応龍特殊部隊にとって必要な資質だ」――リ・チーエンに対する周囲の評価は、いたって単純なものだった。\nリ・チーエンのあらゆる行動は、「任務の完遂」の一語で説明がつく。応龍の任務は、常に極限の環境で行われる。冷徹で揺るがぬ実行力こそが、任務達成を支えるものとなるのだ。「生きて帰る」が任務目標に含まれていないとき、それが何を意味するのか――隊員なら、誰もが知っている。\n特殊部隊には暗室が1つある。警備はこの上なく厳重で、そこに収められているのは情報資料の類などではない。隊員一人ひとりの「形見」だ。正式に応龍の一員となったその瞬間、隊員には1つの箱が割り当てられる。中に何を納めるかは、各自の自由だ。もしも任務中に帰還できなくなったとき、その箱の中身が、自分がこの世に存在した唯一の証となる。\nリ・チーエンの箱は、空っぽだった。\n彼女は暗室の管理係にこう告げた。自分には何もない。かつて持っていたすべては、あの封鎖区域に――あの漆黒に凍てつく霧の下に埋もれてしまったのだと。\nこれは応龍の規則だからと管理係に告げられて、彼女はようやく考え始めた。いったい何が、自分自身を表しうるのか。応龍の作戦隊長という肩書きを外したとき、箱に納められるものなど、はたして残っているのだろうか。そして――「私」とは、いったい誰なのか。\nだが、この問いが彼女を悩ませた時間も、さほど長くはなかった。彼女は市場の老師範を訪ね、筆で自分の名前を書き記すと、それを箱に納めたのである。\nこうした問いなど、どれも重要ではない。重要なのは、いつだって次の任務――ただそれだけなのだから。\n…………\n彼女が暗室を訪れることは、ほとんどなかった。だが近頃は、度々足を運んでいる。そして空っぽだったあの箱の中に、いくつもの品を残していった。あるときは1本のペン、あるときは1個のボタン、あるときは一振りの匕首……どれもこれも、まるで机の上から無造作に持ち帰ってきたような、ありふれた、そしてこれといった意味もなさそうな品ばかりだ。その中には、隣人から贈られた品もあれば、人から託された証の品もある……彼女はそのどれもを、まるで大切な宝物を扱うかのように、箱の中へと納めていった。\n管理係が興味をそそられて尋ねてみると、彼女はいつものように冷ややかに黙り込むことはなく、少しばかり考えてから、真剣にこう答えたのだった――\n「振り返ってみて、ようやく気づいた。私は大切にすべき多くのものを、見過ごしてきたんだ。」",
+    "ko": "\"때로는 그녀가 냉정하고 무정하다고 느낄 수도 있지만, 특수부대에는 그런 사람이 필요해요.\" 주변 사람들이 이지연을 평가하는 말은 매우 단순하다.\n'임무를 완수하기 위해'라는 말 하나로 이지연의 모든 행동을 설명할 수 있다. 응룡 특수부대의 전장은 언제나 극한의 환경 속에 있으며, 냉정하고 단호한 실행력은 임무 완수를 보장하는 조건 중 하나다. 임무 목표 안에 '살아서 돌아간다'는 문구가 없을 때, 특수부대 대원들은 그것이 무엇을 뜻하는지 알고 있다.\n특수부대에는 경비가 극도로 삼엄한 암실이 하나 있다. 그 안에 보관된 것은 정보 문서나 작전 기록이 아니라, 응룡 대원들의 '유품'이다. 정식으로 특수부대 대원이 되는 순간, 각자는 작은 상자를 배정받는다. 그 안에 무엇을 넣을지는 본인이 정한다. 다만, 임무 중 돌아오지 못하게 된다면, 그 상자 안의 물건이 곧 존재했다는 유일한 증거가 된다.\n이지연의 상자는 텅 비어 있었다.\n그녀는 암실 관리원에게 자신은 아무것도 없다고 말했다. 과거의 모든 것은 북쪽 금지 구역, 그 칠흑같이 차갑고 독한 침식 안개 아래에 묻혀 있다고.\n관리원이 이것이 특수부대의 규칙이라고 알려 주고 나서야, 그녀는 비로소 생각하기 시작했다. 대체 무엇이 자신을 대표할 수 있는가. 응룡 특수부대 행동 대장이라는 신분을 떼어 내고 나면, 상자 안에 넣을 수 있는 것은 무엇인가. '나'란 대체 누구인가.\n하지만 이 문제도 그녀를 오래 붙들지는 못했다. 그녀는 시장의 한 노인을 찾아가 붓으로 자신의 이름을 써 달라고 했고, 그것을 상자 안에 넣었다.\n그런 문제들은 중요하지 않았다. 중요한 것은 언제나 다음 임무였다.\n......\n그녀는 거의 암실을 찾지 않았지만, 최근에는 몇 차례나 그곳을 방문했다. 그리고 본래 텅 비어 있던 상자 안에 여러 물건을 남겼다. 때로는 펜 한 자루, 때로는 단추 하나, 때로는 단검 한 자루... 하나같이 평범해서 특별한 의미를 알아보기 어려운 물건들이었다. 마치 책상 위에서 무심코 집어 온 것처럼 보이기도 했다. 그 물건들 중에는 이웃이 건넨 선물도 있었고, 누군가에게 부탁받은 증표도 있었다. 그녀는 그것들을 모두 소중한 보물처럼 조심스럽게 상자 안에 넣었다.\n관리원이 흥미로운 듯 그 이유를 묻자, 그녀는 더 이상 예전처럼 차갑게 입을 다물지 않았다. 잠시 생각한 뒤, 진지하게 대답했다.\n\"돌아보니, 제가 소중히 여겨야 할 것들을 너무 많이 놓치고 있었다는 걸 알게 되었습니다.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "My combat style? It's based on the arrays that my Father taught me combined with Yinglung tactics. \nFather said that arrays operate on the principle of \"change\". The array gives the wielder momentum, and moves with the wielder as well. No array should be unchanging or permanent. An array is only complete when the wielder becomes part of it. \nFather brought me to many places when I was a girl. Sometimes we rode logs down rivers. Sometimes we climbed really tall trees. And when we got tired, we'd just lie down on the grass to gaze at the stars... Father taught me their positions and the shapes of the constellations. I later learned that none of this was just a \"game\". He used a subtle yet engaging way to teach me his knowledge of arrays and the cycles of all sorts of entities. \nThe Yinglungs, however, taught me the meaning of \"permanence\", and how to remain unmoving in the midst of a storm. The Yinglung tactic relies primarily on \"momentum\" to create an unstoppable force. Different tactics are used against different threats. Yet it does not matter if we fought with swordmancy, spearmancy, or with our formations and arrays. Every Yinglung stuck to their post and focused on unleashing the momentous strike to obliterate the foe. \nI tried integrating Yinglung tactics with my Father's arrays. The former focuses on the team, the entire battlefield, and complementing each other's moves, like how my triplex cannon function as a single unit. My Father's arrays focus on flexibility and change. Combining these two approaches was difficult and troubled me for quite some time... \nBut then I revisited the place where Father and I used to play. I saw how falling leaves passed through river rapids, how fowlbeasts perched at the end of long branches swung with the wind, and how the constellations never stopped yet somehow retained their shapes — Then I suddenly understood what Father used to say. I am the key. I must be part of the formation, the fourth piece of the array. \nI am the knot and pivot by which the array changes, the variable element that fills the tactical gap. Once I learned the lesson, I incorporated myself into the array. With my jade slip I positioned the triplex cannon and adjusted its firepower until it felt like an extension of my arm and leg. Only then did I master its use. \nMy Originium Arts focus more on the \"flow\" of energy to create an equilibrium of \"change\" and \"permanence\". In a way, my Arts are similar to those wielded by Operator Gilberta. She shared a few tips about Arts casting with me. Operator Arclight also wielded electrical currents with beautiful elegance and mastery, and so I asked her for advice as well. She responded with a phrase: \"Feel it.\" Indeed, Dijiang is a gathering of incredibly talented and skilled individuals and offers plenty of learning opportunities, like Operator Last Rite with her astronomical strength and Operator Pogranichnik with his unparalleled knowledge of military formations... I hope my stay aboard Dijiang will give me a chance to improve my own skills and study the strengths of every school... \nI'm also trying to compile these lessons into a book. Other Yinglungs trying to master the arrays and heavy cannons can use it for reference. I hope these writings can provide them with assistance.",
+    "zh-TW": "我的作戰風格？其實是源自於父親教我的陣法，和應龍的戰術。\n父親說過：陣法以「變」為理。人借陣勢，陣隨人動。任何陣法都不是一成不變的，將自己視作「陣」的一部分，才是完成陣法的關鍵。\n小時候，父親經常帶著我四處玩耍，有時會乘著圓木順流而下，有時會爬上高聳的樹尖，如果玩累了，就躺在草地上看著滿天繁星……父親會叮囑我記下星星的位置，分清星座的形狀。後來我才知道，這並不是單純地在「玩」，父親把他對陣法、對世間萬物的盈缺變換的理解，以一種潤物無聲的方式傳授給了我。\n而應龍則傳授了我何為「不變」。任憑風雲流轉，我自巋然不動。應龍的戰法永遠以「勢」為主，勢成可當千鈞。雖然危局不同，應龍的戰術也不相同，但不論劍術槍法，又或是陣型排列，應龍永遠各司其職，力求以一勢破萬敵。\n我試著把應龍的戰術和父親傳授的陣法進行結合。應龍的作戰風格更講究整體，兼顧全域，就像將三門重炮看作一體，互相補缺。而父親的陣法則講究靈動，千變萬化。這二者很難融合，困擾了我很長一段時間……\n直到我再次回到和父親「玩耍」的地方，看見落葉成簇穿越湍急的河流，看見羽獸停在枝頭，與樹梢一起迎風擺動，看見星座不斷移動，卻總有其形——我才參透父親曾說過的，那所缺的關鍵就是「我」自己，我是它們的一部分，也是陣法中的第四枚棋子。\n我就是連結陣法變換的紐帶，也是補全戰術空缺的異動。明白這一點後，我把自己也融入了陣法中，以玉簡調整炮的走勢、火力，這才覺得幾門重炮化為了手腳的延伸，運用起來才得心應手。\n我的源石技藝更注重能量的「流動」，在範圍內製造「變」與「不變」的平衡區，這點和潔爾佩塔幹員很像，她和我分享了施術過程中的訣竅。我還請教了弧光幹員，她對電流的掌控出神入化，關於這方面的心得，她只給了兩個字作為建議——「感受」。帝江號上奇人齊聚，還有很多值得我學習和吸納的地方——別禮幹員能一力降十會，駿衛幹員對軍陣的理解如臻化境……我希望在帝江號上的這段時間也可以用來精進自己的技藝，集百家之所長……\n我也在嘗試把這些心得寫成冊子，給那些同樣修習陣法和重炮的隊員們參考練習，希望能為他們提供一些幫助。",
+    "zh-CN": "我的作战风格？其实是源自于父亲教我的阵法，和应龙的战术。\n父亲说过：阵法以“变”为理。人借阵势，阵随人动。任何阵法都不是一成不变的，将自己视作“阵”的一部分，才是完成阵法的关键。\n小时候，父亲经常带着我四处玩耍，有时会乘着圆木顺流而下，有时会爬上高耸的树尖，如果玩累了，就躺在草地上看着满天繁星……父亲会叮嘱我记下星星的位置，分清星座的形状。后来我才知道，这并不是单纯地在“玩”，父亲把他对阵法、对世间万物的盈缺变换的理解，以一种润物无声的方式传授给了我。\n而应龙则传授了我何为“不变”。任凭风云流转，我自岿然不动。应龙的战法永远以“势”为主，势成可当千钧。虽然危局不同，应龙的战术也不相同，但不论剑术枪法，又或是阵型排列，应龙永远各司其职，力求以一势破万敌。\n我试着把应龙的战术和父亲传授的阵法进行结合。应龙的作战风格更讲究整体，兼顾全局，就像将三门重炮看作一体，互相补缺。而父亲的阵法则讲究灵动，千变万化。这二者很难融合，困扰了我很长一段时间……\n直到我再次回到和父亲“玩耍”的地方，看见落叶成簇穿越湍急的河流，看见羽兽停在枝头，与树梢一起迎风摆动，看见星座不断移动，却总有其形——我才参透父亲曾说过的，那所缺的关键就是“我”自己，我是它们的一部分，也是阵法中的第四枚棋子。\n我就是联系阵法变换的纽带，也是补全战术空缺的异动。明白这一点后，我把自己也融入了阵法中，以玉简调整炮的走势、火力，这才觉得几门重炮化为了手脚的延伸，运用起来才得心应手。\n我的源石技艺更注重能量的“流动”，在范围内制造“变”与“不变”的平衡区，这点和洁尔佩塔干员很像，她和我分享了施术过程中的诀窍。我还请教了弧光干员，她对电流的掌控出神入化，关于这方面的心得，她只给了两个字作为建议——“感受”。帝江号上奇人齐聚，还有很多值得我学习和吸纳的地方——别礼干员能一力降十会，骏卫干员对军阵的理解如臻化境……我希望在帝江号上的这段时间也可以用来精进自己的技艺，集百家之所长……\n我也在尝试把这些心得写成册子，给那些同样修习阵法和重炮的队员们参考练习，希望能为他们提供一些帮助。",
+    "ja": "私の戦闘方法か？元をたどれば、父から教わった陣と、応龍の戦術に由来している。\n父はこう言っていた――陣は「変」を理とする。人は陣の勢いを借り、陣は人に従って動く。いかなる陣も、決して不変ではない。自らを「陣」の一部とすることが、陣を完成させる鍵なのだ、と。\n幼い頃、父は私をあちこち遊びに連れて行ってくれた。丸太に乗って流れを下ることもあれば、高くそびえる木の上に登ることもあった。遊び疲れれば、草の上に寝転んで満天の星を眺めた……父は私に、星の位置を覚え、星座の形を見分けるようにといつも言っていた。後になって気付いたが、これはただの「遊び」ではなかった。父は陣への、そして満ち欠けし移ろう万物への理解を、私が気付かないうちに染み込ませてくれていたんだ。\n一方、応龍が私に授けたのは「不変」とは何かということだ。風雲がいかに移り変わろうと、私は泰然として動じない。応龍の戦法は常に「勢」を主とする。勢が成れば、千鈞の重さにも抗える。置かれた状況によって応龍の取る戦術も変わるが、剣術であれ槍術であれ、部隊の配置であれ、応龍では、常に各々が己の役目を全うし、一騎当千をの働きをなす。\n私は、応龍の戦術と父から授かった陣を融合できないかと考えた。応龍の戦法は全体を重んじ、大局を見据えるもの。いわば、三門の重砲を一体とみなし、互いの不足を補い合うものだ。父の陣法は、流れるような靭やかさと、千変万化の動きを要とする。この2つを融合させるのは難しく、長く悩んだ……\nそして再び、かつて父と「遊んだ」あの場所に戻ったとき――集まった落ち葉が激流を渡り、枝の先にとまった羽獣が風に揺れ、絶えず動く星座がその形を保つのを見て――私はようやく、父が語ったことの真意を悟った。欠けていた鍵は「私」であり、私自身が陣における第四の駒だったんだ。\n私は、陣の変転をつなぎ、戦術の空隙を補う存在にならなければいけない。それを理解してから、自らを陣と融合させ、玉簡をもって砲の動きと火力を調整するようになった。そうして初めて、数門の重砲が手足のように、意のままに操れるようになった。\n私のアーツは、エネルギーの「流動」を重視し、範囲内に「変」と「不変」の均衡領域を作り出す。ギルベルタのアーツと似ているところがあり、彼女からは過程におけるコツを共有してもらった。それから、アークライトにも教えてもらったことがある。彼女の電流制御の腕はまさしく最高峰と言えるが、その助言はたった5文字――「感じること」。帝江号には優秀な者が集まっている。私が学び、吸収すべきものはまだ多くある。ラストライトには技をねじ伏せるだけの力があり、ポグラニチニクの軍略への理解は、まさに至高の域に達している……帝江号で過ごすこの期間を通じて、自らの技を研鑽し、皆の長所を取り入れたい……\n心得を冊子にまとめることも試みている。同じく陣と重砲を修める隊員たちが、練習の参考にできるように。彼らの助けに、少しでもなればと思っている。",
+    "ko": "제 전투 방식 말입니까? 사실 아버지께 배운 진법과 응룡 특수부대의 전술에서 비롯된 것입니다.\n아버지는 이렇게 말씀하셨습니다. 진법의 이치는 '변화'에 있다고. 사람은 진세를 빌리고, 진은 사람의 움직임에 따라 달라진다고요. 어떤 진법도 고정된 형태로만 존재하는 것은 아니며, 자기 자신을 '진'의 일부로 받아들일 때 비로소 진법은 완성됩니다.\n어릴 때 아버지는 저를 데리고 여기저기 자주 다니셨습니다. 때로는 통나무를 타고 물살을 따라 내려가기도 했고, 때로는 높이 솟은 나무 끝까지 올라가기도 했습니다. 놀다 지치면 풀밭에 누워 밤하늘의 별을 바라보았죠. 아버지는 제게 별의 위치를 기억하고, 별자리의 모양을 구분해 보라고 하셨습니다. 나중에야 알았습니다. 그것은 단순한 '놀이'가 아니었습니다. 아버지는 진법에 대한 이해와, 세상 만물이 차고 기울며 끊임없이 변하는 이치를, 아주 자연스럽고 조용한 방식으로 제게 전해 주고 계셨던 겁니다.\n반면 응룡 특수부대는 제게 '불변'이 무엇인지를 가르쳐 주었습니다. 바람과 구름이 아무리 흐르고 변해도, 나는 흔들리지 않는다. 응룡 특수부대의 전법은 언제나 '기세'를 중심에 둡니다. 기세가 차오르면 천근의 무게도 받아낼 수 있습니다. 상황과 위기가 달라질 때마다 전술도 달라지지만, 검술이든 창술이든, 진형 배치든, 응룡 특수부대는 언제나 각자의 역할을 다하며 하나의 기세로 수많은 적을 꺾고자 합니다.\n저는 응룡 특수부대의 전술과 아버지께 배운 진법을 결합하려 했습니다. 응룡 특수부대의 전투 방식은 전체를 보고, 전장을 넓게 조율하는 데 중점을 둡니다. 세 문의 중포를 하나의 체계로 보고 서로의 빈틈을 보완하는 것처럼요. 반대로 아버지의 진법은 유연하고 변화무쌍했습니다. 이 둘을 하나로 엮는 일은 쉽지 않았고, 오랫동안 저를 고민하게 했습니다...\n그러다 다시 아버지와 함께 '놀던' 장소로 돌아갔을 때였습니다. 낙엽들이 무리를 이루어 거센 물살을 건너는 것을 보았고, 파울비스트가 가지 끝에 앉아 나무와 함께 바람에 흔들리는 것을 보았습니다. 별자리는 끊임없이 움직이면서도 언제나 그 형상을 잃지 않았습니다. 그때야 저는 아버지께서 말씀하셨던, 제가 놓치고 있던 핵심을 깨달았습니다. 그것은 바로 '나' 자신이었습니다. 저는 그 모든 변화의 일부이자, 진법 안의 네 번째 바둑돌이었던 겁니다.\n저는 진법의 변화를 잇는 고리이며, 전술의 빈틈을 메우는 예외적인 움직임입니다. 그 사실을 이해한 뒤, 저는 저 자신까지 진법 안에 포함시켰습니다. 옥간으로 포의 움직임과 화력을 조정하자, 그제야 몇 문의 중포가 손발의 연장처럼 느껴졌고, 비로소 마음먹은 대로 다룰 수 있게 되었습니다.\n제 오리지늄 아츠는 에너지의 '흐름'을 특히 중시합니다. 일정 범위 안에 '변화'와 '불변'이 균형을 이루는 영역을 만들어 내는 방식이죠. 이 점은 질베르타 오퍼레이터와 닮아 있습니다. 그녀는 시전 과정에서의 요령을 제게 공유해 주었습니다. 아크라이트 오퍼레이터에게도 조언을 구했습니다. 그녀의 전류 제어는 매우 원활합니다. 그 방면의 깨달음에 대해, 그녀가 제게 해 준 조언은 단 두 글자였습니다. 바로 '느낌'. 제강호에는 뛰어난 사람들이 많이 모여 있습니다. 아직 제가 배우고 받아들여야 할 것도 많습니다. 라스트 라이트 오퍼레이터는 힘 하나로 수많은 기교를 압도하고, 포그라니치니크 오퍼레이터의 군진에 대한 이해는 경지에 이르렀습니다... 저는 제강호에 머무는 동안 제 기술을 더욱 갈고닦고, 여러 사람의 장점을 받아들이고 싶습니다...\n또한 저는 이러한 깨달음을 수첩으로 정리해 보려 합니다. 저처럼 진법과 중포를 수련하는 대원들이 참고하고 연습할 수 있도록 말입니다. 조금이나마 그들에게 도움이 되기를 바랍니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "[RECEIVING RECORD] \nRECIPIENT: Li Zhiyan \nSENDER: Ling Yue \nSENDER'S ADDRESS: Wuling City \nSTATUS: Signed and received \nINSPECTION: Inspection passed \nVOICE MESSAGE: \nZhiyan! It's me! Auntie Liu! I heard you're getting some R and R at Endfield. You should have told me, Ah Girl. The entire neighborhood got super worried! So I asked the young lady at Serenity Garden to help deliver some of your favorite things! Just a few boxes of osmanthus cakes and sweet kohl pudding. I brewed it just a few days ago for baby's birthday, so it won't keep forever. Finish it first, okay? \nAuntie Shen also cares a lot about you. She stuffed the package with a few sets of clothing that she sewed. She heard you're now staying on a spaceship and so she kept complaining how cold you are in space. So yes, that's where the clothes are from in case you're wondering. \nAh Girl, I don't know when you'd be back. You've always been stubborn. Always sitting at one spot and doing nothing. You hardly played with other girls your age. Instead, you kept trying to help the aunties in the neighborhood. It's not right! You are a darling girl but we're getting old and won't be around forever. Listen to your Auntie and make some friends at Endfield. I saw their Endmin and the young lady called Perlica, and they look very nice to me! And if you don't know how to make small talk, just take the rice cakes and sweet kohl pudding to the Endfielders, and let them try out your Auntie's cooking! Do this a few times and you'll have new friends! \nAuntie watched you grow up. You never liked to talk, but Auntie knows you got an eye for details. I made a note every time you helped us. Remember when you returned with a photo of Auntie Shen's little girl? Auntie Shen couldn't stop crying that day. Poor girl left when she was around your age, so Auntie Shen treated you like her own. And ... it's the same for all of us. You are a child of Wuling. The city is always your home, no matter where you go. \nAiyah, the talk is getting too sad. Auntie isn't very good with words, so maybe I should stop here. Just focus on getting better and try to come home early. Once you come back to Wuling, Auntie will make a huge feast for you! Don't forget about Auntie's advice! Bring your new friends too! \n...... \nWait. Aiyo, Auntie Shen actually has something to say but she started crying again. I'll just let Ling Yue deliver the package and let Auntie Shen record a voice message later. Hope we're not bugging you. Hey! Don't rush me! I'm not taking forever, okay! Wait. Low battery? How — \n\n[DELIVERY RECORD] \nSENDER: Li Zhiyan \nRECIPIENT: Ling Yue \nSENDER'S ADDRESS: OMV Dijiang \nDELIVERY STATUS: Delivered \nINSPECTION: Inspection passed \nLIST OF ITEM(S): \nSimonch Shawl - 5 pieces \nBreeze of Kjersch - 5 jars \nCosmic Gate Puzzle - 3 sets \nCitromix [Rf.] - 10 bottles \nVOICE MESSAGE: \nLing Yue, It's me ... Li Zhiyan. I received the package from the old folks of the neighborhood. Please don't let them deliver another package... There's everything aboard Dijiang, and I still got plenty of stuff left after giving away plenty of things to the Endmin and other Endfielders... \nI think the aunties like the shawls I mailed last time. I procured a few more from the Logistics Division so just let the old ladies sort them out. There are also fruit-flavored mixes you can't find in Wuling and toys for the children. \nDon't worry about the cost. I hardly have any other expenses. \nAnd tell Auntie Shen that the things are free giveaways from Endfield. I don't want her to worry too much.",
+    "zh-TW": "【收件紀錄】\n簽收人：李織煙\n寄件人：菱月\n寄送地址：武陵城\n簽收狀態：已簽收\n檢查狀態：已通過檢查\n語音留言：\n織煙，是我，你的劉嬸嬸！聽說你去終末地養傷啦？你這孩子，說走就走，也不打聲招呼。周圍的叔叔嬸嬸都惦記著你呢！我託安思園的小妹妹幫我們寄了些東西給你，都是你喜歡的！有幾盒米糕，還有甜酒釀。這甜酒釀還是前幾天小孩過生日才做的，放不了太久，儘快把它喝掉。\n還有，你沈阿姨最疼你了，非要塞幾件衣服，是她才縫的，她一聽說你要住在飛船上，逢人就說「那得多冷啊！」，說什麼都要放進來。\n唉，你這一走，也不知道什麼時候再回來。你這個孩子不好動，總是一坐坐一天。平常也不和年紀差不多的女孩們玩，就只幫我們這些老頭老太太做事。這可不行！我們雖然也喜歡你，但我們年紀大了，總不能陪你一輩子吧？聽劉嬸嬸的，你在那個終末地多交點朋友。我遠遠看到過他們那個管理員和叫佩麗卡的丫頭，都不賴！你要是不知道怎麼搭話，就帶著嬸嬸寄的米糕、甜酒釀，讓終末地的人嚐嚐嬸嬸的手藝！這樣一來二去不就熟了嘛！\n嬸嬸是看著你長大的，你雖然嘴上話少，但是心細。你幫了我們多少忙，我們都記在心裡。你之前還把沈阿姨女兒的照片帶回來了對吧？沈阿姨哭得稀里嘩啦的。她女兒走的時候跟你一樣大，她一直把你當親女兒看待。我們……也都一樣。你是我們武陵的孩子，無論走到哪裡，這裡都是你的家。\n唉唷，你看我這話說的，把天都聊死了。不說了不說了，你在那邊好好養傷。早點回來，等你回武陵，嬸嬸一定幫你準備一大桌好吃的！別忘了嬸嬸剛說的，最好帶朋友們回來！\n…………\n等一下！沈阿姨也想和你聊幾句，但是她現在又哭起來了，我們先讓菱月去寄東西，晚點再讓沈阿姨傳個語音訊息，你可別嫌我們煩，欸欸，你們別急，我沒想霸著，這東西怎麼就沒電了，啊……\n\n【寄件紀錄】\n寄件人：李織煙\n收件人：菱月\n寄送地址：帝江號\n寄送狀態：已寄出\n檢查狀態：已通過檢查\n物品清單：\n塞夢珂披巾 5件\n耶爾什微風 5瓶\n星門鎖 3件\n精選柑實沖泡劑 10瓶\n語音留言：\n菱月，我是……李織煙。叔叔嬸嬸們寄的東西都收到了，下次別讓他們寄了……帝江號上什麼都有，之前寄來的，我分給管理員他們後還有不少……\n上次寄回去的披巾嬸嬸們好像很喜歡？我託後勤部門又採購了一些，你讓她們去分一下吧。還有一些武陵沒有的果味沖泡劑，和幫小孩們準備的玩具。\n別擔心錢，我也沒有其他需要花錢的地方。\n對了，給沈阿姨東西的時候就說是終末地發的，我怕她又操心。",
+    "zh-CN": "【收件记录】\n签收人：李织烟\n寄件人：菱月\n寄送地址：武陵城\n签收状态：已签收\n检查状态：已通过检查\n语音留言：\n织烟，是我，你刘婶！听说你去终末地养伤啦？你这闺女，说走就走，也不打声招呼。周围的叔婶都惦记着你呢！我托安思园的小姑娘帮我们给你寄了些东西，都是你喜欢的！有几盒米糕，还有甜酒酿。这甜酒酿还是前几天小娃过生日才做的，放不了太久，尽快给它喝了。\n还有，你沈姨最疼你了，非要塞几件袄，是她才缝的，她一听说你要住在飞船上，逢人就说“那得多冷啊！”，说啥都要放进来。\n唉，你这一走，也不知道啥时候再回来。你这闺女不好动，老是往那儿一坐坐一天。平时也不和一般大的闺女们玩，净帮我们这些老头老太太干活了。这可不行！我们虽然也稀罕你，但我们年纪大了，总不能陪你一辈子吧？听刘婶的，你在那个终末地多交点朋友。我老远看到过他们那个管理员和叫佩丽卡的丫头，都不赖！你要不知道怎么搭话，就带上婶儿给你寄的米糕、甜酒酿，让终末地的人尝尝婶儿的手艺！这一来二去不就熟了嘛！\n婶儿看着你长大的，你虽然嘴上话少，心可细着呢。你帮了我们多少忙，我们都记在心里。你之前还把沈姨闺女的照片带回来了对吧？沈姨哭得稀里哗啦的。她闺女走的时候和你一般大，她一直把你当亲闺女看待。我们……也都一样。你是我们武陵的孩子，无论走到哪里，这里都是你的家。\n哎哟，你看我这说的，把天都聊死了。不说了不说了，你在那边好好养伤。早点回来，等你回武陵，婶儿肯定给你准备一大桌好吃的！别忘了婶儿刚说的，最好带上朋友们回来！\n…………\n等会儿啊！沈姨也想和你聊几句，但她这会儿又哭起来了，我们先让菱月寄东西去，晚点再让沈姨发个语音，你可别嫌我们烦，哎哎，你们别急，我没想霸着，这东西咋就没电了，啊……\n\n【寄件记录】\n寄件人：李织烟\n收件人：菱月\n寄送地址：帝江号\n寄送状态：已寄出\n检查状态：已通过检查\n物品清单：\n塞梦珂披巾 5件\n耶尔什微风 5瓶\n星门锁 3件\n精选柑实冲剂 10瓶\n语音留言：\n菱月，我是……李织烟。叔婶们寄的东西都收到了，下次别让他们寄了……帝江号上什么都有，之前寄来的，我分给管理员他们后还有不少……\n上次寄回去的披巾婶们好像很喜欢？我托后勤部门又采购了一些，你让她们去分一下吧。还有一些武陵没有的果味冲剂，和给小孩们准备的玩具。\n别担心钱，我也没有其他需要花钱的地方。\n对了，给沈姨东西的时候就说是终末地发的，我怕她瞎操心。",
+    "ja": "【受取記録】\n受取人：リ・チーエン\n差出人：リンユエ\n発送元：武陵城\n受領状況：受領済み\n検査状況：検査通過\n音声メッセージ：\nチーエン、あたしよ、リュウおばさん！あんた、療養でエンドフィールドに行ったんだってねえ？まったく、行くなら一声かけてくれたっていいじゃない。近所のおじさんもおばさんも、みんなあんたのこと心配してるんだからね！ミーガオを何箱かと、それから甘酒も、安思園のお嬢ちゃんに頼んで送ってもらったよ。全部あんたの好きなものだからね！甘酒は、先日おチビの誕生日に作ったばかりでね、あんまり日持ちしないから、早めに飲んじまっておくれ。\nそれから、あんたを一番可愛がってるシンおばさんが、どうしても上着を送りたいって。あの人、自分で縫ったのよ。あんたが帝江号にいるってわかってから、もう会う人みんなに「あんな所、寒いに決まってるじゃないか！」って、何が何でも荷物に入れるって聞かなくてね。\nしかしまあ、次はいつ帰ってくるんだい。あんたは昔からじーっと黙ってるのが好きで、一日中座りっぱなしだったね。同い年の子たちと遊びもしないで、あたしら年寄りの手伝いばっかりして。それじゃダメさ！あたしらはもう年だし、ずっと一緒にいられるわけじゃないからね。おばさんの言うこと聞いて、そっちでもっと友だちをたくさん作るんだよ。あたし、遠くから見たことあるけど、ほら……管理人とペリカっていうお嬢ちゃん、2人ともいい子そうじゃない！話しかけられないなら、ミーガオと甘酒を持っておいき。エンドフィールドの人たちにも、おばさんの料理を味わってもらえば、そのうちに仲良くなれるはずよ！\nおばさんはあんたが大きくなるのをずっと見守ってきた。口数は少ないけど、本当は気配り上手な子だってちゃんとわかってるからね。あんたがどれだけ助けてくれたか、みんな忘れちゃいないよ。ほら、前にシンおばさんの娘さんの写真、持って帰ってきてくれたでしょ？あの人、大泣きしてねえ。娘さんが亡くなったときは、ちょうどあんたと同じくらいの年頃だったし、あんたを本当の娘みたいに思ってるのよ。あたしらも……おんなじよ。あんたはあたしら武陵の子だよ。どこへ行ったって、ここがあんたの家だからね。\nあらやだ、しゃべりすぎちゃった……おしまいおしまい。そっちでちゃんと養生して早く帰っておいで。武陵に戻ったら、ごちそうをいっぱい用意してあげる！さっきおばさんが言ったこと、絶対に忘れるんじゃないよ。あと、できれば友達も連れて帰ってくるように！\n…………\nあ、ちょっと待っておくれ！シンおばさんもあんたと話したい……って、また泣き出しちゃった。先にリンユエに荷物を送らせて、あとでシンおばさんにも音声を送らせるから。お節介なんて思わないでおくれよ……ああもう、急かさないで。みんなにも話させないと……ちょっと、バッテリー切れ……あっ……\n\n【発送記録】\n差出人：リ・チーエン\n受取人：リンユエ\n発送元：帝江号\n発送状況：発送済み\n検査状況：検査通過\n品目リスト：\nシモンクのショール 5点\nイェルシェのそよ風 5本\n星門パズル 3点\n黒銀シトローム粉剤Ⅲ 10本\n音声メッセージ：\nリンユエ……リ・チーエンだ。おじさんとおばさんたちが送ってくれた品は、全部受け取った。次からは、もう送らなくていいと伝えてほしい……帝江号には何でも揃っている。前に届いた分は、管理人たちにも分けたが、まだかなり余っている……\nこの前送ったショールを気に入ってくれたと聞いたから、後方支援部に頼んでまた少し買っておいた。皆に渡してほしい。それと、武陵にはない果物味の粉剤と、子どもたち用にパズルを入れた。\nお金のことは心配しなくていい。他に使うあてもない。\nそうだ、シンおばさんに渡すときは、エンドフィールドからだと言ってほしい。あの人に、いらない心配をかけたくないからな。",
+    "ko": "[수령 기록]\n수령인: 이지연\n발신인: 능월\n배송지: 무릉성\n수령 상태: 수령 완료\n검사 상태: 검사 통과\n음성 메시지:\n지연아, 나야, 유 아주머니! 너 엔드필드로 몸 추스르러 갔다며? 이 녀석아, 간다고 말도 없이 훌쩍 가 버리면 어떡하니? 동네 어른들이 다 너 걱정하고 있어! 안사원에 있는 아가씨한테 부탁해서 우리가 이것저것 좀 보냈어. 전부 네가 좋아하는 것들이야! 쌀떡 몇 통이랑, 달콤한 감주도 넣었다. 이 감주는 며칠 전에 애 생일이라 만든 거라 오래 못 두니까, 되도록 빨리 마셔.\n그리고 심 아주머니가 너를 얼마나 아끼는지 알지? 새로 지은 솜옷을 몇 벌이나 굳이 넣겠다고 하더라. 네가 함선에서 지낸다는 말 듣고는 사람 만날 때마다 \"거긴 얼마나 춥겠어!\"라고 하면서, 무슨 일이 있어도 넣어야 한다고 난리였어.\n하아, 네가 이렇게 가 버리니 언제 다시 돌아올지도 모르겠구나. 너는 워낙 움직이는 걸 좋아하지 않아서, 한번 앉으면 하루 종일 거기 앉아 있잖니. 또래 여자애들이랑도 잘 안 놀고, 우리 같은 늙은이들 일만 도와주고. 그건 안 돼! 우리도 네가 예쁘고 귀하지만, 우리도 나이가 있으니 평생 네 곁에 있어 줄 수는 없잖아? 유 아주머니 말 들어. 그 엔드필드에서 친구 좀 많이 사귀어. 멀리서 보니까 거기 관리자님이랑 펠리카라는 아가씨도 괜찮아 보이더라! 어떻게 말을 걸어야 할지 모르겠으면, 아주머니가 보낸 쌀떡이랑 감주를 들고 가서 엔드필드 사람들한테 맛 좀 보라고 해. 그렇게 오가다 보면 금방 친해지는 거야!\n아주머니는 네가 자라는 걸 지켜봤다. 너는 말수는 적어도 마음은 참 세심한 아이야. 네가 우리를 얼마나 많이 도와줬는지, 우리는 다 기억하고 있어. 전에 심 아주머니 딸 사진도 찾아다 줬지? 심 아주머니가 얼마나 울었는지 몰라. 딸이 떠났을 때가 딱 네 나이쯤이었거든. 그래서 늘 너를 친딸처럼 생각해 왔어. 우리도... 다 마찬가지야. 너는 우리 무릉의 아이야. 어디를 가든, 여기는 네 집이란다.\n아이고, 내가 괜히 이런 말까지 해서 분위기가 무거워졌네. 그만할게, 그만. 거기서 몸 잘 추스르고 있어. 네가 무릉에 돌아오면 아주머니가 맛있는 걸로 한 상 가득 차려 줄게! 방금 아주머니가 한 말도 잊지 말고, 되도록 친구들도 같이 데려와!\n......\n잠깐만! 심 아주머니도 너랑 몇 마디 하고 싶다는데, 지금 또 울기 시작하네. 일단 능월이한테 물건부터 보내 달라고 하고, 나중에 심 아주머니가 다시 음성 메시지 보내라고 할게. 우리 귀찮다고 생각하지 말고. 아이고, 다들 서두르지 마. 내가 혼자 차지하려던 게 아니라니까. 이거 왜 벌써 배터리가 없...\n\n[발송 기록]\n발신인: 이지연\n수령인: 능월\n배송지: 제강호\n발송 상태: 발송 완료\n검사 상태: 검사 통과\n물품 목록:\n사이몬크 머플러 5개\n옐시의 산들바람 5병\n스타게이트 자물쇠 3개\n시트론 혼합제(특) 10병\n음성 메시지:\n능월, 나야... 이지연. 아주머니들과 아저씨들이 보내 주신 물건은 잘 받았어. 다음부터는 굳이 보내지 않으셔도 된다고 전해 줘... 제강호에는 필요한 게 다 있어. 전에 보내 주신 것도 관리자님 일행에게 나눠 드리고도 꽤 남았어...\n지난번에 보내 드린 숄을 아주머니들이 마음에 들어 하셨나 봐? 지원 부서에 부탁해서 조금 더 구해 뒀으니까, 아주머니들께 나눠 드려. 그리고 무릉에는 없는 과일맛 분말 음료도 조금 넣었고, 아이들 장난감도 몇 개 준비했어.\n돈은 걱정하지 마. 나도 딱히 돈 쓸 곳이 없으니까.\n아, 심 아주머니께 물건을 드릴 때는 엔드필드에서 보낸 거라고 말해 줘. 괜히 걱정하실까 봐."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0032_lizhiyan_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Now, you're in command.",
+    "zh-TW": "現在，你是指揮官。",
+    "zh-CN": "现在，你是指挥官。",
+    "ja": "指揮官は、管理人だ。",
+    "ko": "지금부터, 제 지휘관이 되어 주시겠습니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "I will uphold the honor of the Yinglungs.",
+    "zh-TW": "定不辱應龍之名。",
+    "zh-CN": "定不辱应龙之名。",
+    "ja": "応龍の名を、汚しはしない。",
+    "ko": "절대, 응룡의 이름을 더럽히지 않겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "I have faith in you.",
+    "zh-TW": "我相信你。",
+    "zh-CN": "我相信你。",
+    "ja": "管理人を信じる。",
+    "ko": "전 관리자님을 믿습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Give me your orders.",
+    "zh-TW": "隨時聽從調遣。",
+    "zh-CN": "随时听从调遣。",
+    "ja": "すぐに向かう。",
+    "ko": "언제든 명령을 따를 준비가 되어 있습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "The strongest weapon is the heart that wields it.",
+    "zh-TW": "百種神兵，都不及心中一念。",
+    "zh-CN": "百种神兵，都不及心中一念。",
+    "ja": "百の兵も、心中の一念には及ばない。",
+    "ko": "그 어떤 강력한 무기도, 굳건한 신념을 이길 순 없는 법..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "Endfield really knows how to deliver quality.",
+    "zh-TW": "終末地的水準足夠優秀。",
+    "zh-CN": "终末地的水准足够优秀。",
+    "ja": "エンドフィールドの水準は低くない。",
+    "ko": "엔드필드는 역시 수준이 다르군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Hone yourself to extreme perfection, and you can calmly prevail, no matter the situation.",
+    "zh-TW": "只要將自己磨練到極致，縱使局勢變化萬千，也可從容破局。",
+    "zh-CN": "只要将自己磨炼到极致，纵使局势变化万千，也可从容破局。",
+    "ja": "極限まで鍛え上げれば、どんな局面でも打開できる。",
+    "ko": "자신을 극한까지 단련하면, 그 어떤 변수가 생겨도 침착하게 대응할 수 있죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "Combat records... I used to spend all night poring over after-action reviews.",
+    "zh-TW": "錄影啊……我也曾這樣研究作戰，到了廢寢忘食的地步。",
+    "zh-CN": "录像啊……我也曾这样复盘作战，到了废寝忘食的地步。",
+    "ja": "録画か……昔は繰り返し見ていた。それこそ寝ずに、ずっと。",
+    "ko": "작전 영상이라... 먹고 자는 것도 잊을 정도로 작전 복기에 몰두하던 때가 있긴 했죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Thank you for the honor... I don't often get to be in situations like this as Task Leader, so it's ... kind of novel.",
+    "zh-TW": "感謝任命……成為隊長後，我很少經歷這樣的場合，還有些……新奇。",
+    "zh-CN": "感谢任命……成为队长后，我很少经历这样的场合，还有些……新奇。",
+    "ja": "任命、感謝する。隊長となってからは、こういう場に立つことも少なくなった……少し、不思議な気持ちだ。",
+    "ko": "감사합니다... 대장이 된 이후로는 사실 이런 기회가 거의 없었거든요. 좀... 새로운 것 같습니다."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "Does this signal closer collaboration between Endfield and HAS? Maybe next time, I could give you a tour of Yinglung HQ in Hongshan.",
+    "zh-TW": "這是否代表終末地和宏科院的合作更緊密了？也許下次，我可以邀請你去宏山的應龍特勤隊總部參觀。",
+    "zh-CN": "这是否代表终末地和宏科院的合作更紧密了？也许下次，我可以邀请你去宏山的应龙特勤队总部参观。",
+    "ja": "エンドフィールドと宏科院の協力がより緊密になったということか。なら、次は宏山の応龍特殊部隊本部に連れて行ける。",
+    "ko": "이걸로 엔드필드와 홍산 과학원의 협력 관계가 좀 더 견고해졌다고 생각해도 되겠습니까? 다음에는 관리자님을 홍산의 응룡 특수부대 본부로 초대하겠습니다."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Commendations are appreciated, but I'd rather keep busy with more missions. Any missions will do. Idleness doesn't suit me... I want to be of more help to you.",
+    "zh-TW": "比起褒獎，我想得到更多的任務。什麼都行，我不想讓自己習慣清閒的生活……我想幫上你的忙。",
+    "zh-CN": "比起褒奖，我想得到更多的任务。什么都行，我不想让自己习惯清闲的生活……我想帮上你的忙。",
+    "ja": "褒賞より、もっと多くの任務を貰いたい。暇で楽な人生を過ごすのは苦痛だ……少しでも、管理人の力になれたらと思う。",
+    "ko": "포상도 좋지만, 조금 더 많은 임무를 받고 싶습니다. 한가로운 생활에 익숙해지고 싶진 않거든요. 무엇보다 관리자님께 도움이 되고 싶습니다."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "Hmm? Ah ... my mind went back to when I was made Task Leader at Yinglung Pass. After the Wuling affairs were over ... the stubborn fury that once drove me had settled. Had I known that one day you would personally award me ... well, never mind.",
+    "zh-TW": "嗯？只是想到了在應龍關接過隊長一職的時候。武陵事了，當時的滿腔憤懣和執著似乎都煙消雲散了……如果當年的我知道管理員有朝一日會親自為我授勛……算了，沒什麼。",
+    "zh-CN": "嗯？只是想到了在应龙关接过队长一职的时候。武陵事了，当时的满腔愤懑和执着似乎都烟消云散了……如果当年的我知道管理员有朝一日会亲自为我授勋……算了，没什么。",
+    "ja": "応龍関で隊を率いていたときのことを思い返していた。武陵の一件に片が付き、胸にあったわだかまりや執着も気づけば消えていた……あの頃の私に教えてやりたい。管理人から褒賞を貰える日が来ると……話しすぎた。",
+    "ko": "음? 아, 그냥... 응룡 관문에서 대장직을 이어받았을 때를 떠올리고 있었습니다. 무릉에서의 일이 끝나니, 가슴속에 가득했던 분노와 집착이 꼭... 다 사라져 버린 것 같더군요. 만약 그때의 제가 훗날 관리자님께 직접 훈장을 받을 수 있을 거란 걸 알았다면... 아니, 아무것도 아닙니다."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "YSTF Task Leader, Arcane, reporting to Endfield... Awaiting your orders, Commander.",
+    "zh-TW": "應龍特勤隊行動隊長，訣，向終末地報到……那麼，命令是什麼？我的指揮官。",
+    "zh-CN": "应龙特勤队行动队长，诀，向终末地报到……那么，命令是什么？我的指挥官。",
+    "ja": "応龍特殊部隊作戦隊長、オクギ。エンドフィールドに着任する――どんな命令でも従おう、指揮官。",
+    "ko": "응룡 특수부대 행동 대장, 결, 보고드립니다. 명령을 내려주시겠습니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Be of ferrium will, move as a razor's edge. Yinglung wins by momentum.",
+    "zh-TW": "心如鑄鐵，行如劍鋒。應龍的戰法重在其勢。",
+    "zh-CN": "心如铸铁，行如剑锋。应龙的战法重在其势。",
+    "ja": "心は鋳鉄の如く、行は剣先の如く。応龍の戦法は気勢を重んじる。",
+    "ko": "마음은 강철처럼, 행동은 검날처럼... 응룡 전법의 핵심은 기세입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Consider me a blade at your command. Point me at where you need me, and I'll strike.",
+    "zh-TW": "我是一柄利劍，隨你所想，如你所願。",
+    "zh-CN": "我是一柄利剑，随你所想，如你所愿。",
+    "ja": "管理人に従い、管理人のために在る……私は、一振りの剣だ。",
+    "ko": "절 검이라 생각해 주십시오. 어떤 명령이든 따르겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Yinglungs are never choosy about their missions. My duty is to see them through.",
+    "zh-TW": "應龍特勤隊不會挑選工作，我會完成一切交給我的任務。",
+    "zh-CN": "应龙特勤队不会挑选工作，我会完成一切交给我的任务。",
+    "ja": "応龍の任務は多岐に渡る。与えられた任務なら、すべてやり遂げる。",
+    "ko": "응룡 특수부대는 임무를 가리지 않습니다. 명령만 내려주십시오."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Finally got a moment, Endmin?",
+    "zh-TW": "終於有空了嗎？管理員。",
+    "zh-CN": "终于有空了吗？管理员。",
+    "ja": "管理人、ようやく手が空いたか……",
+    "ko": "오랜만이군요, 관리자님."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Saw you from a distance. Any new intel?",
+    "zh-TW": "遠遠地就看到你了，有什麼新情報嗎？",
+    "zh-CN": "远远地就看到你了，有什么新情报吗？",
+    "ja": "遠くからでもすぐにわかった。どうした、新しい情報か？",
+    "ko": "저 멀리서부터 보고 있었습니다. 새로운 정보가 들어온 겁니까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "I once thought the Proxy didn't like me much. But after our return from the North Wuling Exclusion Zone, she started treating me warmly. I think I understand why... She probably treated the old me as a stiff bore. If I get the chance to meet Lady Si aboard Dijiang ... I'd like to thank her in person.",
+    "zh-TW": "我過去總以為代理人不喜歡我。但自北部禁區回來後，她對我親切了不少。我隱隱有些明白這其中的原因……過去的我，在她看來應該是個十分無趣的人吧。如果有機會在帝江號上遇到……祀小姐，我想當面向她道聲謝。",
+    "zh-CN": "我过去总以为代理人不喜欢我。但自北部禁区回来后，她对我亲切了不少。我隐隐有些明白这其中的原因……过去的我，在她看来应该是个十分无趣的人吧。如果有机会在帝江号上遇到……祀小姐，我想当面向她道声谢。",
+    "ja": "代理人は私に興味がないのだと思っていた。ただ、封鎖区域に戻ってからは、態度が和らいだ気がしている。理由は理解できる……以前の私は、つまらない存在だった。帝江号で、会う機会があるなら……スー代理人には礼を伝えたい。",
+    "ko": "전에는 대리인이 절 싫어하시는 줄 알았습니다. 근데 북쪽 금지 구역에서 돌아온 뒤론... 꽤 친절하게 대해주시더군요. 그 이유를 조금은 알 것 같습니다. 그분의 눈에... 예전의 전 꽤 재미없는 사람이었을 테니까요. 만약 제강호에서... 사 님을 만나게 된다면, 꼭 고맙다는 인사를 드리고 싶습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "Desolate lands of sand, the snowfields of the extreme north... As I stand atop the decks of Dijiang, regions in need of aid are clearer to me than ever before. My journey doesn't end with the Very Large Rift... I shall reclaim every inch of soil ruined by other rifts.",
+    "zh-TW": "荒蕪的沙海，極北的雪原，站在帝江號上，我能更清晰地看到那些仍需要援助的絕境。甚大裂隙不再是我的終點……我想要解放每一寸被裂隙所困的土地。",
+    "zh-CN": "荒芜的沙海，极北的雪原，站在帝江号上，我能更清晰地看到那些仍需要援助的绝境。甚大裂隙不再是我的终点……我想要解放每一寸被裂隙所困的土地。",
+    "ja": "荒廃した砂の海、北の果ての雪原……帝江号からは助けを求める絶境の地がはっきりと見える。巨大な裂け目は、私の終着点ではなかった……私は、裂け目に囚われた地をすべて解放したいんだ。",
+    "ko": "제강호에 서서 탈로스 II를 바라보고 있으면, 황량한 사막부터 극지의 설원까지 도움이 필요한 곳들이 선명하게 눈에 들어오곤 합니다. 더 이상 제 최종 목적지는 대균열이 아니니... 이제부터는 균열로 인해 피해를 보는 모든 대지에 자유를 되찾아 주고 싶습니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "I've seen my share of Wuling's mountains and rivers, and had more than a fill of its food. Everything's new to me and I face challenges that I never saw coming. You brought me out of that buried town ... and that felt like a second life to me.",
+    "zh-TW": "我見慣了武陵的山，看慣了武陵的水，吃慣了武陵各式各樣的菜餚。現在的我需要適應很多新事物，面對很多以前從未設想過的麻煩。是你帶我離開了那個深埋地下的小鎮……對我來說，那彷彿是一次重生。",
+    "zh-CN": "我见惯了武陵的山，看惯了武陵的水，吃惯了武陵各式各样的菜肴。现在的我需要适应很多新事物，面对很多以前从未设想过的麻烦。是你带我离开了那个深埋地下的小镇……对我来说，那仿佛是一次重生。",
+    "ja": "当たり前のように武陵の山や水を眺め、武陵の料理を口にしてきた。今は、新しいことに順応し、考えもしなかったことを目の前にしている。地下深くから、管理人が連れ出してくれた……私にとっては、二度目の人生と同じだ。",
+    "ko": "무릉에서의 삶은 저한테 너무나 익숙한 순간들이었습니다. 산도, 물도, 음식도... 전부 당연했죠. 하지만 지금의 전, 낯선 것들과 한 번도 겪어보지 못한 문제들이 가득한... 전혀 다른 세상에 서 있습니다. 절 그 작은 마을에서 끌어내 주신 건 바로 관리자님이십니다. 저한테 있어서 이건... 새로 태어난 것과 다름없죠."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "I've always had nightmares. But after closing my eyes on my first night aboard Dijiang, the anguished cries and harsh instructions were gone. Instead, I dreamed of my empty self and a voice telling me how I carry the hope of... Ahem. Sorry for dumping all of this on you.",
+    "zh-TW": "我總是會做噩夢，但在帝江號的第一個夜晚，我閉上眼，那些哀嚎和訓誡都不存在了。我夢到了空空蕩蕩的自己，然後有個聲音告訴我，我是帶著希望……咳，我說多了。",
+    "zh-CN": "我总是会做噩梦，但在帝江号的第一个夜晚，我闭上眼，那些哀嚎和训诫都不存在了。我梦见了空空荡荡的自己，然后有个声音告诉我，我是带着希望……咳，我说多了。",
+    "ja": "いつも悪夢を見ていた。しかし、帝江号で迎えた最初の夜、目を閉じると悲鳴も訓戒の声も消えていた。夢の中にいたのはがらんどうの私……すると、声が聞こえた――君は希望を……少し、話しすぎた。",
+    "ko": "이전의 전, 밤마다 악몽을 꾸곤 했습니다. 하지만 제강호에서의 첫날밤은 뭔가 달랐죠. 잠에 들었던 그 순간, 절 괴롭히던 비명과 질책들이 하나도 나타나지 않았거든요. 꿈속에서 전 텅 빈 저 자신을 마주했고, 그때 '전 희망을 품고...'라는 목소리가... 아, 제가 말이 너무 많았군요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "From these decks, the auroras over Talos-II look just like the ones in the North Wuling Exclusion Zone. Scenes of brilliance that hide blood-soaked wounds... I will not allow any rift to harm this land again.",
+    "zh-TW": "這裡能看到塔衛二上的那些極光——和北部禁區同樣的極光。炫目的背後是血淋淋的傷痕……我不會再給裂隙任何傷害這片大地的機會。",
+    "zh-CN": "这里能看到塔卫二上的那些极光——和北部禁区同样的极光。炫目的背后是血淋淋的伤痕……我不会再给裂隙任何伤害这片大地的机会。",
+    "ja": "ここからはタロⅡのオーロラがよく見える。武陵北部の封鎖区域と同じ――眩い光の裏に、血塗れの傷痕を隠しているオーロラが。二度と、裂け目に大地を踏みにじらせはしない。",
+    "ko": "여기선 탈로스 II의 오로라를 볼 수 있습니다. 북쪽 금지 구역에서 볼 수 있는 것과 똑같은 오로라죠. 눈부시게 아름답지만, 저 빛의 이면에는 피비린내 나는 상처들로 가득합니다. 전... 다시는 균열이 이 대지를 망가뜨리게 두지 않을 겁니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Endfield operators hail from every corner of the world. Many are powerful soldiers, but what's more valuable are the ordinary ones who devote themselves to the well-being of others. As the saying goes, from a high perch, one sees farther and wider than tiptoeing on the ground... Being here really fuels my resolve, Endmin.",
+    "zh-TW": "終末地有來自各方的幹員，不乏強大的戰士，但更可貴的是普通人願意為他人奉獻的決心和善意。所謂跂而望矣，不如登高之博見……能來到這裡令我備受鼓舞，管理員。",
+    "zh-CN": "终末地有来自各方的干员，不乏强大的战士，但更可贵的是普通人愿意为他人奉献的决心和善意。所谓跂而望矣，不如登高之博见……能来到这里令我备受鼓舞，管理员。",
+    "ja": "エンドフィールドには各地からオペレーターが集まり、優れた戦士も多い。しかし、本当に尊ぶべきは誰かのために身を差し出す覚悟と善意だ。「跂ちて望むも、高きに登るの博く見ゆるに如かざるなり」――ここに来て、背中を押された気持ちだ。",
+    "ko": "엔드필드에는 정말 다양한 오퍼레이터분들이 있고, 그중에는 강력한 전사분들도 있죠. 하지만 무엇보다 빛나는 건... 평범한 이들이 타인을 위해 내미는 결의와 선의의 마음입니다. '억지로 무언가를 보려 하기보다 시야를 넓히는 게 중요하다'라는 말처럼... 이곳에 온 덕분에 정말 큰 힘을 얻었습니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Just some local stuff. I didn't go out of my way to prepare them. I just ... hmm, got too much of them.",
+    "zh-TW": "這是一些特產，也不算特意準備的，只是……嗯，不小心帶得有點多了。",
+    "zh-CN": "这是一些特产，也不算特意准备的，只是……嗯，不小心带得有点多了。",
+    "ja": "地元の特産品だ。別に、わざわざ用意したわけでは……ああ、そうだ。少し余ってしまっただけだ。",
+    "ko": "특산품을 좀 가져왔습니다. 특별히 챙긴 건 아니고, 그냥... 어쩌다 보니, 너무 많이 가져와 버렸군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Thank you. I'll prepare something in return. But, I'm ... not very good at picking gifts ... so keep your expectations low.",
+    "zh-TW": "謝謝，我會準備好回禮的。不過，我……不是很懂怎麼挑選禮物，就別太過期待了。",
+    "zh-CN": "谢谢，我会准备好回礼的。不过，我……不是很懂怎么挑选礼物，就别太过期待了。",
+    "ja": "ありがとう。お礼は必ず用意する……いや、期待しないでほしい。どうやって贈り物を選べばいいか、よく……わからない。",
+    "ko": "선물 감사합니다. 저도 꼭 답례를 준비하겠습니다. 근데... 제가 선물을 고르는 덴 영 서툴러서... 너무 큰 기대는 하지 말아주십시오."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Things are good here, but it could be ... nice if we had a few clever little companions. Blitzcrash kept me company through the worst of training. She grew from a tiny howlerbeast into a reliable comrade... We weren't together for long, but I still miss her sometimes... The pantails of Wuling are a joy too... Are pets allowed on Dijiang? I'd train them to military standards.",
+    "zh-TW": "這裡什麼都好，就是感覺……缺了一些機靈的小傢伙……噪雷，她是在我度過日復一日的艱苦訓練時，陪伴我的朋友。她從一隻小小的咆獸長成了可靠的戰友……雖然我和她共處的時間不算長，但有時候還是會想起她……還有武陵的蟠獸，也很討喜……帝江號能養寵物嗎？我會以軍事要求訓練牠們的。",
+    "zh-CN": "这里什么都好，就是感觉……缺了一些机灵的小家伙……噪雷，她是在我度过日复一日的艰苦训练时，陪伴我的朋友。她从一只小小的咆兽长成了可靠的战友……虽然我和她共处的时间不算长，但有时候还是会想起她……还有武陵的蟠兽，也很讨喜……帝江号能养宠物吗？我会以军事要求培训它们的。",
+    "ja": "不満は全くない。ただ、小さくて賢い相棒……噪雷が懐かしいと感じる時もある。来る日も来る日も過酷な訓練に明け暮れていた頃、側にいてくれた友だ。小さな咆獣だったのに、気づけば頼れる戦友となっていた。一緒に過ごした時間は長くないが、時々思い出す……それに、武陵の蟠獣も悪くない……そうだ、帝江号で獣が飼えるならば、隊の基準で躾けてみよう。",
+    "ko": "여긴 다 좋습니다만, 영리한 동물이 없는 것 같아 아쉽습니다. '진뢰'... 전 예전에 작은 하울러비스트를 키운 적 있습니다. 매일 반복되는 혹독한 훈련 속에서 친구처럼 함께 했던 존재였죠. 함께한 시간이 길진 않았지만, 가끔 녀석이 떠오르곤 합니다. 무릉의 판테일비스트도 가능성이 보이던데... 제강호에서 키워도 되겠습니까? 물론, 군인으로서 작전에 투입될 수 있도록 훈련시킬 생각입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Summit and Phrase each have their strengths. Summit excels at command while Phrase is gifted in combat. They complement each other well. One of them could take over as Task Leader eventually... Why am I suddenly talking about this? Hmm... Seeing Chen like that made me wonder if there's a broader path for me too... It's ... it's just a thought.",
+    "zh-TW": "峰和言，兩人各有千秋。論指揮，峰更勝一籌；論戰鬥，言天賦異稟。他們二人可以互補長短，總有一天，他們其中一人可以接過隊長一職……你問怎麼突然聊起這個？嗯……就是看著陳千語那個模樣，我會考慮自己是否有更廣闊的道路可以走……只、只是想想而已。",
+    "zh-CN": "峰和言，二人各有千秋。论指挥，峰更胜一筹；论战斗，言天赋异禀。他们二人可以互补长短，总有一天，他们其中一人可以接过队长一职……你问怎么突然聊起这个？嗯……就是看着陈千语那个模样，我会考虑自己是否有更广阔的道路可以走……只、只是想想而已。",
+    "ja": "ミネとコトは、それぞれの強みがある。指揮はミネが一枚上手だが、戦闘ならコトの才が上回る。2人なら互いを補って、いつかは隊を任せられる――急にどうしたのか？いや……チェン・センユーを見て思った。私の目の前にも道が広がっているのではないかと……違う。別に……深い意味は、ない。",
+    "ko": "봉과 언, 두 녀석 모두 장점이 확실합니다. 봉은 뛰어난 지휘력을, 언은 뛰어난 전투력을 갖고 있죠. 서로 부족한 점을 잘 채워줄 수 있으니, 언젠간 두 녀석 중 하나가 제 자리를 이어받을지도 모릅니다. 왜 갑자기 이런 얘기를 하냐고요? 음... 진천우 씨를 보면서 '저도 더 넓은 길로 나아갈 수 있지 않을까'라는 생각이 들었습니다. 그냥... 잠깐 그런 생각을 해봤을 뿐입니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "Hm? What a coincidence, Endmin... I usually spend my downtime alone. Quiet places let me think about people from my hometown, training dummies at Tanjian Hall, rice cakes dusted with sugar... But these memories are too beautiful. They slow you down, lower your guard, and trap you within them... I don't want others to see me like this. As for you... Now that I think about it, you're the reason that I've gone soft. Well, we might as well share this secret break together.",
+    "zh-TW": "嗯？真巧啊，管理員……我喜歡一個人度過休息的時間。安靜的空間能讓我想到很多事情。故鄉的人、談劍堂的木人、沾糖粉的米糕……但這些事過於美好，會讓人遲鈍、懈怠、沉溺其中……我不想讓其他人看到這副樣子。至於管理員你嘛……仔細一想，這份懈怠也算是拜你所賜，我們就共享一下偷閒的時光吧。",
+    "zh-CN": "嗯？真巧啊，管理员……我喜欢一个人度过休息的时间。安静的空间能让我想到很多事情。故乡的人，谈剑堂的木人，蘸糖粉的米糕……但这些事过于美好，会让人迟钝，懈怠，沉溺其中……我不想让其他人看见这副样子。至于管理员你嘛……仔细一想，这份懈怠也算是拜你所赐，我们就共享一下偷闲的时光吧。",
+    "ja": "……奇遇だな、管理人。休みは1人で過ごすのが好きなんだ。静かな空間では、様々な気持ちが蘇る。故郷の皆や談剣堂、砂糖をまぶしたミーガオ……あまりにも心地よく、美しすぎる。人を鈍らせ、気を緩ませ、溺れさせる……だから、誰にも見られたくはない。しかし、よく考えれば……こんな姿になっているのは、管理人のせいじゃないか？なら、少し付き合ってもらってもいいな？",
+    "ko": "음? 우연이군요. 전 혼자서 조용히 쉬는 걸 좋아합니다. 그러다 보면 이런저런 생각이 많이 나거든요. 고향 사람들이나 담검당의 목인장, 설탕에 굴린 떡 같은 것 말입니다... 하지만 이런 기억들은 너무 아름다워서 마음을 느슨하고 무뎌지게 만들곤 합니다. 자칫하면 헤어날 수 없을 정도로 말이죠. 다른 사람들한테 이런 모습을 보여주고 싶지 않지만, 관리자님이라면... 아, 생각해 보니 제가 이렇게 느슨해질 수 있는 것도 전부 관리자님 덕분이군요. 그러니까 이 한가로운 시간을... 함께 나눠보시는 건 어떠십니까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "Mother used to braid my hair with all kinds of ribbons. I never liked it. I always went home covered in dirt with my hair in a complete mess. Father taught me Tianshi arrays with twigs. Though I didn't understand anything, we often played long into the night or counted pear flowers under the moonlight until mother found us... Strange. I hardly remember my childhood, yet tiny moments like these remain so vivid.",
+    "zh-TW": "小的時候，母親會用各式各樣的髮繩幫我綁辮子。但我那時並不喜歡紮頭髮，每次回家都會弄得滿身灰塵，頭髮也散得不像樣。父親會用樹枝教我天師陣法，哪怕我根本看不懂，我們也能玩到深夜，在月色下數梨花，直到被母親發現……真奇怪，童年的回憶明明已經所剩無幾，我記得的，卻只有這些小事。",
+    "zh-CN": "小的时候，母亲会用各式各样的发绳为我绑辫子。但我那时并不喜欢扎头发，每次回家都会弄得满身灰尘，头发也散得不像样。父亲会用树枝教我天师阵法，哪怕我根本看不懂，我俩也能玩到深夜，在月色下数梨花，直到被母亲发现……真奇怪，童年的回忆明明已经所剩无几，我记得的，却只有这些小事。",
+    "ja": "幼い頃、母は様々な髪紐で私の髪を結ってくれた。しかし、子どもの頃の私は、髪を結うのが好きではなかった。家に帰れば泥だらけ、結んだ髪はほどけて酷い有様だった。父は木の枝を使って天師の陣を教えてくれた。さっぱり理解していなかったのに、月明かりの下で梨の花を数え、母に見つかるまで遊び続けた……昔の記憶は、ほとんど残っていない。覚えているのは、些細なことばかりだ。",
+    "ko": "어릴 땐 어머니께서 알록달록한 머리끈으로 제 머리를 땋아주시곤 했습니다. 근데 전 머리 땋는 걸 싫어해서 항상 흙먼지를 뒤집어쓰고 헝클어진 머리로 집에 돌아오곤 했죠. 아버지께서는 천사 진법을 가르쳐 주셨는데, 제가 잘 따라 하지 못해도 너그럽게 대해주셨습니다. 나뭇가지를 들고 밤늦게까지 놀아주시거나, 달빛 아래서 같이 배꽃을 세기도 했죠. 어머니한테 들켜서 같이 혼날 때까지 말입니다. 참 이상하죠? 분명 어린 시절의 기억이 거의 없는데도 이런 소소한 일들은 아직 기억에 남아있다는 게 말입니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "Can you ... tie my hair? You know which ribbon to use. I want to finish this book. At Yinglung Pass, books were one of the few ways to pass the time... When was the last time I asked someone to tie my hair...? Hmm... Can't remember. I thought about cutting it but I just couldn't force myself. Mm... Thank you. It's neatly done... Have you been watching how I tie my hair? Hm? What's that look on your face?",
+    "zh-TW": "可以……請你幫我綁一下頭髮嗎？你知道用哪一根髮繩的。我想讀完這本書。在應龍關，書籍資料是為數不多的消遣方式……上次拜託人替自己綁頭髮是什麼時候呢……已經記不清了。我考慮過剪短頭髮，最終還是沒狠下心。嗯……謝謝，你綁得很好……有觀察過我綁髮繩的方式嗎？嗯？你怎麼這副表情？",
+    "zh-CN": "可以……请你替我绑一下头发吗？你知道用哪一根发绳的。我想读完这本书。在应龙关，书籍资料是为数不多的消遣方式……上次拜托人替自己绑头发是什么时候呢……已经记不清了。我考虑过剪短头发，最终还是没忍下心。嗯……谢谢，你绑得很好……有观察过我绑发绳的方式吗？嗯？你怎么这副表情？",
+    "ja": "すまない、髪を結って貰いたい……髪紐は――分かるだろう。早くこの本を読み終えたいんだ。応龍関では、本や資料を読むことくらいしか気晴らしになることはなかった。髪を誰かに結ってもらうのは、いつぶりだ？……もう覚えていない。短く切ってしまおうかと思ったこともあったが、惜しくなってしまった。ありがとう……上手いな。私が髪を結うところを見ていたのか？……ん？どうした、そんな顔をして。",
+    "ko": "저... 혹시 이 머리끈으로 제 머리 좀 묶어주시겠습니까? 이 책을 마저 읽고 싶어서 말입니다. 응룡 관문에선 책이나 자료를 보는 게 몇 안 되는 여가 활동이니까요... 누군가한테 머리를 묶어 달라고 부탁했던 게 언제였는지 이젠 기억도 잘 안 납니다. 짧게 자를까 생각도 해봤지만, 역시 내키지 않더군요. 아, 감사합니다. 생각보다 훨씬 더 잘 묶으시는군요. 제가 묶는 걸 지켜보기라도 하신 것처럼... 음? 왜 그런 표정입니까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "I don't really know the ... trends people are hyped for. I just don't have time to think about them. But ... Tianshi Zhuang did say I should focus more on myself, like, find a hobby or something. So about hobbies ... training certainly doesn't count. Maybe I could ask Uncle Pan to teach me a skill. But I can't be like Chen and be positive all day. She's a rare one. Developing a hobby seems like a new challenge.",
+    "zh-TW": "我不太懂其他人喜歡的……潮流？我沒時間去想那些。但……莊天師也說過我應該多考慮下自己的事，例如尋找一些愛好。愛好……訓練肯定不能算作愛好。也許我應該去找潘叔學一門手藝。但我可無法像陳千語那樣，整天樂呵呵的，像她這樣的人太少了。培養一門愛好，這也是新的課題。",
+    "zh-CN": "我不太懂其他人喜欢的……潮流？我没时间去想那些。但……庄天师也说过我应该多考虑下自己的事，例如寻找一些爱好。爱好……训练肯定不能算作爱好。也许我应该去找潘叔学一门手艺。但我可没法像陈千语那样，整天乐乐呵呵，像她这样的人太少了。培养一门爱好，这也是新的课题。",
+    "ja": "私は、皆が好む……いわゆる、流行というものがわからない。考えたことも考える時間もなかった。しかし、ゾアン天師にも「自分のための愉しみ、例えば趣味を探してはどうか」と言われたのだ。趣味……訓練は趣味ではないはずだ。パンさんに一芸を習うべきか？チェン・センユーのように一日中ご機嫌顔しているのは無理だ。ああいう人間の方が、稀だ……とにかく趣味探しは、これからの課題とする。",
+    "ko": "사람들이 말하는 유행이라는 게 뭔지 사실 잘 모르겠습니다. 지금까진 그런 곳에 신경 쓸 여유는 없었으니까요. 근데... 장 천사님께서 이젠 자길 위한 시간 좀 가져보라고 하시더군요. 취미 같은 걸 하면서 말입니다. 음... 훈련을 취미라고 할 순 없겠죠. 어쩌면 판 아저씨한테 기술을 배워보는 것도 좋을지도 모르겠습니다. 하지만 그렇다고 진천우 씨처럼 하루 종일 싱글벙글 웃으며 지낼 자신은 없습니다. 애초에 그런 사람은 드물기도 하고요. 취미... 참 어려운 숙제인 것 같습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Even though I'm not in the Task Force, I still train myself to Yinglung standards. This lets me support emergency missions should they come up. I'm still in regular contact with the Yinglungs, and I trust that they'll get the job done, even in my absence.",
+    "zh-TW": "即便不在特勤隊中，我還是會按應龍的標準保持一定強度的訓練，以確保在遇到緊急任務時能夠提供支援。特勤隊還和我保持著定期聯絡，我相信他們，即使我不在，他們也能完成任務。",
+    "zh-CN": "即便不在特勤队中，我还是会按应龙的标准保持一定强度的训练，以确保在遇到紧急任务时能够提供支援。特勤队还和我保持着定期联络，我相信他们，即使我不在，他们也能完成任务。",
+    "ja": "応龍を離れはしたが、緊急時にいつでも支援に行けるよう隊の基準で訓練を続けている。連絡を取り続けているとはいえ、私がいなくても任務は完遂できる。皆を信じている。",
+    "ko": "특수부대에 있지 않더라도, 응룡의 기준에 맞춰 일정 강도의 훈련을 유지하고 있습니다. 긴급한 임무가 생기면 언제든 지원을 나갈 수 있도록 말이죠. 대원들과도 정기적으로 연락하고 있습니다. 녀석들은 제가 곁에 있지 않더라도, 충분히 임무를 완수할 수 있을 테니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Chen wanted to spar with me again... I used to win most of the fights, but she improved quickly — so quickly that it once frustrated the other Yinglungs. Unfortunately, I was even quicker. But ... after becoming a Task Leader, I spent more time on other things than my personal training. So now I'm not really sure anymore. Maybe we'll need a real fight to see who's stronger... Heh. I'm actually looking forward to it.",
+    "zh-TW": "陳千語又來找我切磋……過去，我和她的比試勝多負少，但她總是進步很快——快到一度讓其他同僚感到沮喪。只可惜，那時我學得比她更快。只不過……出任隊長之後，比起磨練武藝，我花了更多精力在其他方面。現在不打打看，還真不知道結果……呵，我開始有點躍躍欲試了。",
+    "zh-CN": "陈千语又来找我切磋……过去，我和她的比试胜多负少，但她总是进步很快——快到一度让其他同僚感到沮丧。只可惜，那时我学得比她更快。只不过……出任队长之后，比起磨炼武艺，我花了更多精力在其他方面。现在不打打看，还真不知道结果……呵，我开始有些跃跃欲试了。",
+    "ja": "チェン・センユーがまた「手合わせをしたい」と……以前は、私がほとんど勝っていた。しかし、彼女は上達が早い……早すぎて、周りが落ち込むほどに。ただ、あの頃は私が一歩先を進んでいた。隊長の任に就いてからは武芸よりも別のことに力を割くことが多くなった。今の実力は……やってみないと、結果はわからないだろう。少し、血が騒いできたな……",
+    "ko": "진천우 씨가 또 대결하자면서 절 찾아왔더군요. 예전부터 결과로만 따지면 제가 이길 때가 더 많았습니다만, 진천우 씨의 성장 속도도 정말 눈부셨습니다. 주변 동료들의 사기를 꺾을 정도로 말이죠. 그 시절엔 제가 조금 더 앞서 있었을 뿐입니다. 대장이 된 이후로는 대결보단 다른 일에 신경 쓸 일이 더 많았는데... 그래서 지금은 직접 겨뤄봐야 결과를 알 수 있을 것 같습니다. 후... 조금 기대가 되는군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "Tianshi Zhuang sent me a copy of the Zone's reconstruction plan... She knows how much it means to me. But I still have my Task Leader duties, whether in Wuling or at Endfield... I'm already content that I could seal the Rift and reclaim our home as a Wulinger. With the AIC Factory, I'm certain the Tianshi will restore the streets to how they once were. If I have the chance ... I'll return and see for myself.",
+    "zh-TW": "莊天師送來了禁區的重建計劃副本……她知道我對這件事很在意。但我還有特勤隊的職責在身，無論身在武陵，還是終末地都是如此……能以武陵人的身分，封印裂隙，奪回家園，我已經知足了。我相信天師們能在集成工業系統的幫助下，讓街道恢復往昔的模樣。如果那時還有機會的話……我會回去看看的。",
+    "zh-CN": "庄天师送来了禁区的重建计划副本……她知道我对这件事很在意。但我还有特勤队的职责在身，无论身在武陵，还是终末地都是如此……能以武陵人的身份，封印裂隙，夺回家园，我已经知足了。我相信天师们能在集成工业系统的帮助下，让街道恢复往昔的模样。如果那时还有机会的话……我会回去看看的。",
+    "ja": "ゾアン天師から封鎖区域の再建計画の写しが送られてきた。私が気にかけているとわかっていて……しかし、私は応龍としての責務がある。武陵にいようが、エンドフィールドにいようがそれは変わらない。武陵の人間として裂け目を封じ、故郷を奪い返した。それだけで十分だ。あとは、天師が集成工業システムの力を借り、きっと元に戻してくれるだろう……そのときに機会があれば、私も戻ろうと思う。",
+    "ko": "장 천사님이 금지 구역의 재건 계획서를 보내주셨습니다. 제가 이 일을 얼마나 중요하게 생각하고 있는지 알고 계시는 거겠죠. 하지만 전 여전히 특수부대원이고, 무릉에 있든 엔드필드에 있든 그 사실만큼은 변하지 않죠. 무릉 사람으로서 균열을 닫고 고향을 되찾을 수 있었으니, 사실 전 그것만으로도 만족합니다. 통합 공업 시스템만 있다면, 천사분들이 거리를 예전 모습으로 되돌릴 수 있을 거라 믿고 있거든요. 언젠가 그날이 온다면... 꼭 한번 돌아가서 보고 싶습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "Got a small problem, Endmin. A few old gents and ladies cared for me back in Wuling. As a soldier who might die at any moment, I thought it was improper to form attachments or make people sad, so I kept my distance. But now I think about what I did and felt a little guilty... So, how does one make up for this? Ask Chen? I just can't force myself to ask her. Endmin, perhaps you've got time for this?",
+    "zh-TW": "管理員，我遇到了個小麻煩，有關那些在武陵很照顧我的叔叔阿姨。過去，我認為隨時有可能犧牲的士兵不該和身邊人來往過多，免得徒留遺憾，所以刻意疏遠了他們，現在想來，還有點過意不去……那個，這種時候，通常要怎麼補償？拜託陳千語？我開不了這個口……管理員，你有空嗎？",
+    "zh-CN": "管理员，我遇到了个小麻烦，有关那些在武陵很照顾我的叔姨。过去，我认为随时有可能牺牲的士兵不该和身边人来往过多，免得徒留遗憾，所以刻意疏远了他们，现在想来，还有点过意不去……那个，这种时候，一般要怎么补偿？拜托陈千语？我开不了这个口……管理员，你有空吗？",
+    "ja": "管理人、相談がある。武陵で私の面倒を見てくれた大人たちのことだ。昔は、いつ命を落としてもおかしくないような兵は、周りの人間と深く関わるべきではないと考えていた。後で辛い思いをさせるくらいならと、わざと距離を取っていたのだ。今は、少し申し訳なかったと思っている……こういうとき、どう埋め合わせをするべきなのかわからない。チェン・センユーに頼むか？いや、無理だ……管理人、時間はあるか……？",
+    "ko": "관리자님, 고민이 있습니다. 무릉에 있을 때 절 많이 챙겨주던 어르신분들이 계시는데... 예전의 전, 저처럼 언제 죽을지 모르는 존재는 주변 사람들과 깊이 엮이지 않는 게 낫다고 생각했습니다. 근데 지금은 그게 계속 마음에 걸려서 말입니다. 이럴 땐... 보통 어떻게 하는 게 좋습니까? 진천우 씨한테 물어볼까도 생각해 봤는데, 도저히 입이 떨어지질 않아서요. 혹시 잠깐 괜찮으십니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_about_line01",
+   "title": {
+    "en": "Topic: Chen Qianyu",
+    "zh-TW": "話題：陳千語",
+    "zh-CN": "话题：陈千语",
+    "ja": "チェン・センユーについて",
+    "ko": "진천우에 관하여"
+   },
+   "text": {
+    "en": "I thought of Chen from time to time after she left. Since then, I've never met anyone who talked the talk and walked the walk as thoroughly as she did. She's not Yinglung material but ... people will trust her more. While some must survive the darkness, others must stand in the light. I do not regret any decision I've made in the past. My choices will be the same, even if I start over.",
+    "zh-TW": "她離開後，我時不時會想到她，自那之後我再也沒見過如她一般言行一致的人。她不適合特勤隊，但……她會更加受人信賴。有人生存在陰影下，也需要有人站在陽光裡。我從不後悔當年做出的每一個決定，即使重來一次也是一樣。",
+    "zh-CN": "她离开后，我时不时会想到她，自那之后我再也没见过如她一般言行一致的人。她不适合特勤队，但……她会更加受人信赖。有人生存在阴影下，也需要有人站在阳光里。我从不后悔当年做出的每一个决定，即使重来一次也是一样。",
+    "ja": "チェン・センユーが去ったあとも、思い出すことが時折あった。あれほど言葉と行動が一致する人間は、見たことがない。応龍には向いていなかった。しかし、彼女のほうが……信頼される存在になるだろう。日陰に生きる者あれば、陽向に立つ者も必要だ。私は、どの決断も後悔したことはない。もう一度やり直したとしても、必ず同じ選択をする。",
+    "ko": "진천우 씨가 떠나고, 사실 가끔 진천우 씨가 생각날 때가 있었습니다. 전 그렇게까지 말과 행동이 일치하는 사람은 못 봤거든요. 특수부대에 어울리는 사람은 아니지만, 그래서 더 깊은 신뢰를 받을 수 있는 건 아닌가 생각하기도 합니다. 그림자 속에서 살아가야 하는 사람이 있다면, 햇살 아래서 살아가야 하는 사람도 있는 법이니까요. 그래서 전 제가 내린 결정을 후회하지 않습니다. 그때로 돌아간다고 해도, 전 분명 같은 선택을 하게 되겠죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_about_line02",
+   "title": {
+    "en": "Topic: Hair Ribbon",
+    "zh-TW": "話題：髮繩",
+    "zh-CN": "话题：发绳",
+    "ja": "髪紐について",
+    "ko": "머리끈에 관하여"
+   },
+   "text": {
+    "en": "No, never tried other styles... Others did try recommending a few. I appreciate the offer, but I still prefer the one I have. You know what it means to me. But ... perhaps it's time to try a new one... Endmin, what color to you think would best represent all the things we've seen together?",
+    "zh-TW": "我沒有試過其他款式的……隊員們倒是推薦過一些。我很感謝，但我還是更喜歡自己的那條髮繩。你知道它對於我來說有什麼含義。不過……也許的確是該選一條新的……管理員，你覺得什麼顏色，能夠象徵我們所見過的那些景象？",
+    "zh-CN": "我没有试过其他样式的……队员们倒是推荐过一些。我很感谢，但我还是更喜欢自己的那条发绳。你知道它对于我来说有什么含义。不过……也许的确是该选一条新的……管理员，你觉得什么颜色，能够象征我们所见过的那些景象？",
+    "ja": "他の髪紐を試したことはない。隊の仲間が勧めてくれたものはあったが……ありがたいと思いつつ、どうしてもこの髪紐でなければしっくりこないのだ。あれがどういう意味を持つか、管理人ならわかるだろう……ただ、そろそろ新調してもいいかもしれない。管理人、私たちが見てきた光景を表す色は、どんな色だろうな。",
+    "ko": "다른 스타일은 해본 적이 없습니다. 대원들도 몇 가지 추천해 주긴 했지만, 역시 전 지금의 제 머리끈이 제일 마음에 들거든요. 이 머리끈이 어떤 의미인지는... 관리자님도 잘 아시겠죠. 근데... 어쩌면 새로운 머리끈을 고를 때가 된 걸지도 모르겠습니다. 관리자님은... 저희가 함께 봤던 풍경을 상징할 수 있는 색은 뭐라고 생각하십니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_about_line03",
+   "title": {
+    "en": "Topic: Blightshades",
+    "zh-TW": "話題：蝕影",
+    "zh-CN": "话题：蚀影",
+    "ja": "蝕影について",
+    "ko": "침식의 그림자에 관하여"
+   },
+   "text": {
+    "en": "When Æther consumes life, it records a deafening echo of despair and terror ... but if hope could survive along with mutual kindness and selfless sacrifice ... then no so-called \"Creator\" can defeat us. This is the meaning of our existence, and it ... touches me deeply.",
+    "zh-TW": "如果連超域吞噬人類的生命之後，在震耳欲聾的絕望和恐懼被記錄的那個瞬間……依然能留下希望，能留下人與人的關懷，留下無私的奉獻……那我們絕不會輸給所謂的造物主。這便是我們存在的意義，這令我……十分感動。",
+    "zh-CN": "如果连超域吞噬人类的生命之后，在震耳欲聋的绝望和恐惧被记录的那个瞬间……依然能留下希望，能留下人与人的关怀，留下无私的奉献……那我们绝不会输给所谓的造物主。这便是我们存在的意义，这令我……十分感动。",
+    "ja": "超域が人の命を呑み込み、耐え難いほどの絶望と恐怖が記憶に刻み込まれた、その瞬間でさえ……希望が、人と人の思いやりや見返りを求めない心があるのなら……我々が創造主とやらに負けることはない。それが、我々の存在する意味でもある。だから、胸を打たれるんだ……",
+    "ko": "초자연이 덮쳐오는 절망과 공포의 순간일지라도, 희망을 남길 수만 있다면... 따뜻한 마음과 헌신을 보여줄 수만 있다면... 저희는 '창조주'라 불리는 존재에게 절대 패배하지 않을 겁니다. 이게 바로 저희가 존재하는 이유겠죠. 그걸 생각하면... 가슴이 벅차오릅니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_about_line04",
+   "title": {
+    "en": "Topic: Alleikhreos",
+    "zh-TW": "話題：阿萊克琉斯",
+    "zh-CN": "话题：阿莱克琉斯",
+    "ja": "アレイクレウスについて",
+    "ko": "알레이크레오스에 관하여"
+   },
+   "text": {
+    "en": "A truly incredible enemy, one who has brought even more mysteries. His words will not make me doubt you or Endfield, but there's no denying that this entity poses a grave threat to the Civilization Band. If our unknown enemies from the Aggeloi War could return ... promise that you'll make me your first blade of their destruction.",
+    "zh-TW": "一個不可思議的敵人，帶來了更多的謎團。我不會因為他的言語就質疑管理員和終末地，但不可否認，這樣的存在對文明環帶是個巨大的威脅。如果天使戰爭中那些尚未探明的敵人真的會捲土重來……請答應我，讓我成為你摧毀敵人的第一把劍。",
+    "zh-CN": "一个不可思议的敌人，带来了更多的谜团。我不会因为他的言语就质疑管理员和终末地，但不可否认，这样的存在对文明环带是个巨大的威胁。如果天使战争中那些尚未探明的敌人真的会卷土重来……请答应我，让我成为你摧毁敌人的第一把剑。",
+    "ja": "得体のしれない敵だ……あいつのせいで、わからないことが増えた。私は言葉ひとつで管理人やエンドフィールドを疑うことはない。しかし、あいつの存在が文明地帯にとっての脅威であることは事実だ。もし、アンゲロス戦争で対峙した敵が再度現れたなら……約束してくれ。私を、敵を砕くための最初の剣にすると。",
+    "ko": "수많은 의문만 남기고 간 적... 그자가 한 말 때문에 제가 관리자님과 엔드필드를 의심할 일은 없을 겁니다. 하지만, 그 존재가 문명 밴드의 거대한 위협이 될 거라는 건 부정할 수 없겠더군요. 만약 아겔로스 전쟁에서 마주했던 정체불명의 적들이 정말로 다시 몰려온다면... 제가 맨 먼저 관리자님의 검이 되어 적을 벨 수 있게 허락해 주십시오."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_about_line05",
+   "title": {
+    "en": "Topic: North Wuling Exclusion Zone",
+    "zh-TW": "話題：北部禁區",
+    "zh-CN": "话题：北部禁区",
+    "ja": "武陵北部封鎖区域について",
+    "ko": "북쪽 금지 구역에 관하여"
+   },
+   "text": {
+    "en": "Time has not hindered the Wulingers' yearning for home. Such feelings slowly build up with time, pushing them ever closer to the homes they were forced to leave... The Exclusion Zone is no longer off limits, but it has completely changed and many things can't be undone. Still ... we must live for tomorrow. Isn't this what you taught me?",
+    "zh-TW": "時間從未成為武陵人渴望重返故土的阻礙。這樣的感情只會一點點地沉澱，催促著人們離家近一點，再近一點……禁區已經不再是禁區，卻也不是曾經的模樣了，很多事情已無法挽回。但……人總要看向明天而活，這是你教給我的，對嗎？",
+    "zh-CN": "时间从未成为武陵人渴望重返故土的阻碍。这样的感情只会一点点地沉淀，催促着人们离家近一点，再近一点……禁区已经不再是禁区，却也不是曾经的模样了，很多事情已无法挽回。但……人总要看着明天而活，这是你教给我的，对吗？",
+    "ja": "時間が、故郷へ帰りたいと願う気持ちを薄れさせることはなかった。想いは静かに溜まっていき、人々を家へと急き立てる――封鎖区域はもう「封鎖区域」ではなくなった。しかし、かつての姿に戻ったわけではない。失ったものも、戻らない。それでも、明日を見つめて生きていく……そう教えてくれたのは、管理人だ。",
+    "ko": "시간은 결코 고향으로 돌아가고자 하는 무릉 사람들의 갈망을 막을 수 없습니다. 오히려 시간이 흐를수록 켜켜이 쌓여서 더 간절하게 만들 뿐이겠죠. 금지 구역은 더 이상 금지 구역이 아니지만, 그렇다고 예전 모습 그대로인 것도 아닙니다. 이미 돌이킬 수 없는 일들이 너무나 많으니까요. 그래도 사람은 내일을 바라보며 살아가야 하지 않겠습니까. 관리자님께서 해주신 말씀처럼 말입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_about_line06",
+   "title": {
+    "en": "Topic: Si",
+    "zh-TW": "話題：祀",
+    "zh-CN": "话题：祀",
+    "ja": "スーについて",
+    "ko": "'사'에 관하여"
+   },
+   "text": {
+    "en": "Lady Si is truly extraordinary, and I mean that literally. Long ago, she shared her strength with Hongshan and helped with the founding of Yinglung Special Task Force. Yet she holds no formal commanding position with the Yinglungs ... nor any title at HAS. Lady Si simply guides the Yinglungs as a fellow \"partner\". Many of us never saw her in person even after being discharged. But she got very much involved for this operation...",
+    "zh-TW": "祀小姐確實是超凡脫俗的存在，這不是比喻。在很久以前，她向宏科院分享了力量，並促成了應龍特勤隊的誕生。不過，她名義上並非特勤隊的指揮人員……甚至不在宏科院領一官半職，僅僅是以「合作」的態度照拂著應龍特勤隊。很多隊員甚至直到退伍也沒有見過祀小姐本尊。不過這次行動，她倒是格外積極……",
+    "zh-CN": "祀小姐确实是超凡脱俗的存在，这不是比喻。在很久以前，她向宏科院分享了力量，并促成了应龙特勤队的诞生。不过，她名义上并非特勤队的指挥人员……甚至不在宏科院领一官半职，仅仅是以“合作”的态度照拂着应龙特勤队。很多队员甚至直到退伍也没有见过祀小姐本尊。不过这次行动，她倒是格外积极……",
+    "ja": "スー代理人は、俗世を越えた存在だ。これは決して比喩ではない。はるか昔、彼女は宏科院に力を分け与え、応龍特殊部隊もそのおかげで生まれた。名目上、応龍の指揮官という立場でもなければ、宏科院の役職にもついていない。あくまで「協力」という形で応龍を支えているのだ。隊員の中には、退役するまで代理人の顔を見なかったという者もいる。今回の任務では、やけに積極的だったが……",
+    "ko": "사 님은 속세의 틀을 벗어난 분입니다. 비유가 아닌, 문자 그대로 말이죠. 아주 오래전, 사 님은 홍산 과학원에 힘을 나눠주셨고, 그 덕분에 지금의 응룡 특수부대가 탄생할 수 있었습니다. 하지만 그분은 공식적인 지휘관도 아니고, 조직 내 직함조차 없죠. 그저 '협력'자의 위치에서 부대를 지켜보고 계실 뿐입니다. 대부분의 대원이 전역할 때까지 사 님을 직접 본 적이 없을 정도죠. 하지만 이번 작전에서는... 왜인지 유독 적극적으로 나서주셨습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Unexpected supplies over there. Let's inspect them for safety first.",
+    "zh-TW": "計劃之外的物資補充？需要先檢驗安全性。",
+    "zh-CN": "计划之外的物资补充？需要先检验安全性。",
+    "ja": "計画にない補給物資なら、安全性の担保が先だ。",
+    "ko": "계획에 없던 물자군요. 우선 안전성부터 확인하겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Strategic supplies detected at target location. Awaiting orders.",
+    "zh-TW": "目標方位存在戰略物資，請下達指示。",
+    "zh-CN": "目标方位存在战略物资，请下达指示。",
+    "ja": "重要物資を確認。指示を願う。",
+    "ko": "목표 지점에서 전투 물자 발견. 지시를 내려주십시오."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Unknown combat zone ahead.",
+    "zh-TW": "前方是未知作戰區域。",
+    "zh-CN": "前方是未知作战区域。",
+    "ja": "前方、任務実績情報なし。",
+    "ko": "전방은 미확인 작전 구역입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "High threat hostile spotted. Maintaining visuals. Permission to engage.",
+    "zh-TW": "發現危險敵人，保持觀察，請求作戰許可。",
+    "zh-CN": "发现危险敌人，保持观察，请求作战许可。",
+    "ja": "敵を発見、監視継続中。交戦許可を求める。",
+    "ko": "위험 개체 발견. 전투 허가를 요청합니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Ore retrieval is our top priority for now.",
+    "zh-TW": "回收礦產，是目前最優先的任務。",
+    "zh-CN": "回收矿产，是当前最优先任务。",
+    "ja": "鉱物の回収を最優先とする。",
+    "ko": "광물 회수가 우선입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "It's all part of keeping our operations supplied.",
+    "zh-TW": "這也是後勤保障的一環。",
+    "zh-CN": "这也是后勤保障的一环。",
+    "ja": "後方支援の一環か。",
+    "ko": "이 또한 작전 지원의 일환입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "High-quality supplies secured.",
+    "zh-TW": "優質的物資補充。",
+    "zh-CN": "优质的物资补充。",
+    "ja": "質の良い物資が補給出来た。",
+    "ko": "훌륭한 물자군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Aurylene... Acquire the entity. We'll secure it in a special device later.",
+    "zh-TW": "醚質……先進行回收，稍後會放入特殊裝置裡封存。",
+    "zh-CN": "醚质……先进行回收，稍后会放入特殊装置里封存。",
+    "ja": "オーリレン……まずは回収だ。追って、特殊装置に入れて保管する。",
+    "ko": "오리렌... 우선 회수하고, 나중에 특수 장치에 넣어두겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Blight eliminated. Path is clear.",
+    "zh-TW": "確認侵蝕清除，可以通行。",
+    "zh-CN": "确认侵蚀清除，可以通行。",
+    "ja": "侵蝕排除完了。通行可能。",
+    "ko": "침식 제거 완료, 이제 지나갈 수 있습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Timely rest concluded. Let's move out.",
+    "zh-TW": "及時的休整，我們該繼續前進了。",
+    "zh-CN": "及时的休整，我们该继续前进了。",
+    "ja": "小休憩完了。任務に復帰する。",
+    "ko": "충분히 쉬었으니 이제 다시 전진하죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Using tacticals!",
+    "zh-TW": "戰術物品就緒！",
+    "zh-CN": "战术物品就绪！",
+    "ja": "補助準備、完了。",
+    "ko": "전술 아이템 준비 완료!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "A timely treatment.",
+    "zh-TW": "及時的治療。",
+    "zh-CN": "及时的治疗。",
+    "ja": "適切な治療判断だ。",
+    "ko": "응급 치료 완료."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_remind_danger_01",
+   "title": {
+    "en": "Warning Teammate",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Caution! Incoming!",
+    "zh-TW": "謹慎接敵！",
+    "zh-CN": "谨慎接敌！",
+    "ja": "慎重に行け！",
+    "ko": "경계 태세 유지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Not yet... I can still fight.",
+    "zh-TW": "只要我沒倒下，就沒結束……",
+    "zh-CN": "只要我没倒下，就没结束……",
+    "ja": "命ある限り、終わらない……",
+    "ko": "쓰러지기 전까진... 끝난 게 아닙니다..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "I can't ... fall here...",
+    "zh-TW": "竟然會在這裡……",
+    "zh-CN": "竟然会在这里……",
+    "ja": "こんなつまらないところで……",
+    "ko": "여기서 이렇게 끝날 순 없습니다..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Stellar.",
+    "zh-TW": "精彩。",
+    "zh-CN": "精彩。",
+    "ja": "見事だ。",
+    "ko": "훌륭하군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Exceptional. Keep it up.",
+    "zh-TW": "遠超基準預期，記住這個狀態。",
+    "zh-CN": "远超基准预期，记住这个状态。",
+    "ja": "予想以上だ。この感覚を覚えておけ。",
+    "ko": "기대 이상이군요. 이대로만 해주십시오."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "It's just standard Yinglung performance.",
+    "zh-TW": "只是特勤隊應有的水準。",
+    "zh-CN": "只是特勤队应有的水平。",
+    "ja": "応龍なら当然のことだ。",
+    "ko": "특수부대로서 이 정도는 당연합니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "The crisis we face demands the best of us.",
+    "zh-TW": "我們面臨的危機需要我們精益求精。",
+    "zh-CN": "我们面临的危机需要我们精益求精。",
+    "ja": "我々の相手に妥協など通じない。",
+    "ko": "더 분발해야 합니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Target confirmed. Secure the AO.",
+    "zh-TW": "作戰目標已確認，肅清區域。",
+    "zh-CN": "作战目标已确认，肃清区域。",
+    "ja": "視界に捉えた。粛清する。",
+    "ko": "작전 목표 확인, 작전 시작."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Position reached. Maintain comms.",
+    "zh-TW": "到達地點，保持溝通。",
+    "zh-CN": "到达点位，保持沟通。",
+    "ja": "所定位置へ到達。共有を怠るな。",
+    "ko": "목표 지점 도착, 통신을 유지하도록."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "The team's on par with the Yinglungs. Impressive.",
+    "zh-TW": "足以媲美特勤隊的成果，了不起。",
+    "zh-CN": "足以媲美特勤队的成果，了不起。",
+    "ja": "応龍に匹敵する戦果、申し分ない。",
+    "ko": "특수부대와 견줄 만큼 훌륭하군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "We have made further progress.",
+    "zh-TW": "我們又更進一步了。",
+    "zh-CN": "我们又更进一步了。",
+    "ja": "また一段階、上に行けた。",
+    "ko": "또 한 단계 성장했군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Let us make sure this excellence continues.",
+    "zh-TW": "希望下一次能繼續這樣的表現。",
+    "zh-CN": "希望下一次能继续这样的表现。",
+    "ja": "今後も同様の働きを期待する。",
+    "ko": "다음에도 활약을 기대하겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "Losses are still within our estimates. Well done, team.",
+    "zh-TW": "作戰損耗在預期範圍中，各位，做得好。",
+    "zh-CN": "作战损耗在预期范围中，各位，做得好。",
+    "ja": "損耗は想定の範囲内だ。皆は良くやった。",
+    "ko": "피해가 예상보다 크지 않았군요. 모두 수고하셨습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "A minor setback, that's all. Victory and defeat are part of the mission.",
+    "zh-TW": "只是挫折而已，不值一提。勝敗乃兵家常事。",
+    "zh-CN": "只是挫折而已，不值一提。胜败乃兵家常事。",
+    "ja": "勝敗は戦の常、躓こうと大したことではない。",
+    "ko": "그저 한 번의 좌절일 뿐입니다. 전장에서 승패란 늘 있는 일이죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Break!",
+    "zh-TW": "破！",
+    "zh-CN": "破！",
+    "ja": "破る！",
+    "ko": "파괴하라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Breach!",
+    "zh-TW": "擊穿！",
+    "zh-CN": "击穿！",
+    "ja": "穿つ！",
+    "ko": "꿰뚫어주마!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Shatter the line!",
+    "zh-TW": "以陣破陣！",
+    "zh-CN": "以阵破阵！",
+    "ja": "陣で破る！",
+    "ko": "진형은 진형으로!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Area sealed!",
+    "zh-TW": "封鎖區域！",
+    "zh-CN": "封锁区域！",
+    "ja": "封じる！",
+    "ko": "구역을 봉쇄하라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Deploy formation.",
+    "zh-TW": "人隨陣勢。",
+    "zh-CN": "人随阵势。",
+    "ja": "陣に従え。",
+    "ko": "흐름을 따라갈 뿐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Formation in place.",
+    "zh-TW": "圍殺陣列就位。",
+    "zh-CN": "围杀阵列就位。",
+    "ja": "包囲の陣、配置完了。",
+    "ko": "포위 섬멸 진형, 전개 완료!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "I'll cover you!",
+    "zh-TW": "我來掩護！",
+    "zh-CN": "我来掩护！",
+    "ja": "援護位置に入る！",
+    "ko": "제가 엄호하겠습니다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Strike and suppress!",
+    "zh-TW": "離如驚羽，合如凝雲。",
+    "zh-CN": "离如惊羽，合如凝云。",
+    "ja": "驚羽離れ、凝雲合す。",
+    "ko": "흩어질 땐 화살처럼, 모일 땐 구름처럼."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Meet your end here.",
+    "zh-TW": "你將殞命於此——",
+    "zh-CN": "你将殒命于此——",
+    "ja": "命を落とす運命――",
+    "ko": "넌 여기까지다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Have another!",
+    "zh-TW": "再試一招！",
+    "zh-CN": "再试一招！",
+    "ja": "次だ！",
+    "ko": "한 번 더!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Weak point targeted!",
+    "zh-TW": "瞄準破綻！",
+    "zh-CN": "瞄准破绽！",
+    "ja": "捉えた！",
+    "ko": "빈틈 발견!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Here I command the ebb and flow!",
+    "zh-TW": "盈缺復轉，以我為陣！",
+    "zh-CN": "盈缺复转，以我为阵！",
+    "ja": "盈缺転じ、我を陣となせ！",
+    "ko": "내가 곧 진형이 되리라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "For a sunlit earth of life!",
+    "zh-TW": "天地三才，我銜人間。",
+    "zh-CN": "天地三才，我衔人间。",
+    "ja": "天地三才、世を担う！",
+    "ko": "인간의 뜻을 짊어지리라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0032_lizhiyan_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Chaos shall be quelled!",
+    "zh-TW": "平山海，定風波！",
+    "zh-CN": "平山海，定风波！",
+    "ja": "山海均し、嵐鎮める！",
+    "ko": "풍파를 평정하리라!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_map02_lv008_14001",
+   "topic": {
+    "en": "Duty of the Yinglungs",
+    "zh-TW": "應龍的使命",
+    "zh-CN": "应龙的使命",
+    "ja": "応龍の使命",
+    "ko": "응룡의 사명"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "We'll keep those Yinglung Pillars around for a while, in case anything goes wrong.",
+      "zh-TW": "那些應龍樁，之後一段時間還會留在原處，以免再有意外發生。",
+      "zh-CN": "那些应龙桩，之后一段时间还会留在原处，以免再有意外发生。",
+      "ja": "あの応龍杭は、しばらくあそこに残しておく。万が一に備えるためだ。",
+      "ko": "저 응룡장들은 당분간 그대로 남겨둘 겁니다. 혹시 또 다른 변수가 생길 수도 있으니까요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "The Yinglungs who came here before us left them here, at the cost...",
+         "zh-TW": "應龍的前輩們就是為了留下它們……",
+         "zh-CN": "应龙的前辈们就是为了留下它们……",
+         "ja": "応龍の隊員たちは、あの応龍杭を残すために……",
+         "ko": "응룡의 선배님들은 바로 저걸 남기기 위해서..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "We wouldn't reach this place without those Pillars.",
+         "zh-TW": "沒有它們，我們抵達不了這裡。",
+         "zh-CN": "没有它们，我们抵达不了这里。",
+         "ja": "応龍杭のおかげで、ここまでたどり着けたんだ。",
+         "ko": "저것들이 없었다면 우린 여기까지 올 수 없었을 거예요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Planting Yinglung Pillars in the North Wuling EZ is also one of the Yinglung's missions.",
+      "zh-TW": "應龍的工作之一，就是在北部禁區設置應龍樁。",
+      "zh-CN": "应龙的工作之一，就是在北部禁区布设应龙桩。",
+      "ja": "封鎖区域に応龍杭を設置することは、応龍の任務の1つだ。",
+      "ko": "응룡의 임무 중 하나가 북쪽 금지 구역에 응룡장을 설치하는 것입니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Every soul of Hongshan believes we will reclaim the EZ. To do that, we must have a \"road\".",
+      "zh-TW": "宏山人都相信總有一天會重返禁區，為此，我們需要有一條「路」。",
+      "zh-CN": "宏山人都相信总有一天会重返禁区，为此，我们需要有一条“路”。",
+      "ja": "宏山の人間は皆、いつか必ず封鎖区域に戻ることができると信じている。だからこそ、「路」が必要だった。",
+      "ko": "홍산 사람이라면 모두 언젠가 반드시 금지 구역으로 돌아갈 수 있다고 믿고 있거든요. 그러려면 우선 '길'이 필요하고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Did you plant them too?",
+      "zh-TW": "你曾經也設置過應龍樁？",
+      "zh-CN": "你曾经也布设过应龙桩？",
+      "ja": "君も応龍杭を設置したことはある？",
+      "ko": "결 씨도 응룡장을 설치했었나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Yes, I did... I came here often.",
+      "zh-TW": "嗯，我……來過這裡很多次。",
+      "zh-CN": "嗯，我……来过这里很多次。",
+      "ja": "ああ……ここには何度も来たことがある。",
+      "ko": "네. 저는... 이곳에 여러 번 왔었습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "I tried to stretch this \"road\" just a bit further in every occasion.",
+      "zh-TW": "每一次，我都想把這條「路」延伸得更遠一點。",
+      "zh-CN": "每一次，我都想把这条“路”延伸得更远一些。",
+      "ja": "来るたびに、この「路」をもっと遠くまで伸ばしたいと思っていた。",
+      "ko": "올 때마다 이 '길'을 조금이라도 더 멀리 이어가고 싶었죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Our mission starts once we cross the \"Boundary\". We then survey the routes, record any anomalies, and plant Yinglung Pillars. The relentless Blight Miasma doesn't leave us much room to maneuver.",
+      "zh-TW": "從穿過「邊界」開始，勘察線路，記錄異常，設置應龍樁。侵蝕瘴不會給我們太多喘息的機會。",
+      "zh-CN": "从穿过“边界”开始，勘察线路，记录异常，布设应龙桩。侵蚀瘴不会给我们太多喘息机会。",
+      "ja": "「境界」を越え、進路を調査し、異常を記録し、応龍杭を設置する。侵蝕霧は、我々を待つことはない。",
+      "ko": "'경계'를 통과하는 것부터 시작해서, 경로를 조사하고, 이상 현상을 기록하고, 응룡장을 설치하는 겁니다. 침식 안개는 우리한테 숨 돌릴 틈을 주지 않거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "How long has this mission been going on?",
+      "zh-TW": "你們的任務持續了多久？",
+      "zh-CN": "你们的任务持续了多久？",
+      "ja": "この任務をどれくらい続けたのかな。",
+      "ko": "여러분의 임무는 얼마 동안 이어져 왔나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "The surveillance mission was started after the Blight Miasma sinking 8 years ago. There was a ... a major surveillance op 2 years ago where 4 teams failed to make it back.",
+      "zh-TW": "自八年前侵蝕瘴下沉後，就一直持續進行著勘察。不過……兩年前一次大型勘察行動中，整整四支行動隊沒有回來。",
+      "zh-CN": "自八年前侵蚀瘴下沉后，就一直持续进行着勘察。不过……两年前一次大型勘察行动中，整整四支行动队没有回来。",
+      "ja": "8年前、侵蝕霧に沈み始めてから、調査任務はずっと続いている。しかし……2年前の大規模調査で、4隊全員が戻らなかった。",
+      "ko": "8년 전 침식 안개가 드리운 이후부터 계속 조사가 이어져 왔습니다. 다만... 2년 전 한 차례 대규모 조사 작전에서 네 개의 작전팀이 돌아오지 못했습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "They also recorded data that include a series of coordinates and Blightshade sightings. The YSTF then suspended further operations for the mission.",
+      "zh-TW": "他們留下的訊息還包括一系列座標和蝕影的目擊紀錄。特勤隊在那之後就暫緩了後續的行動。",
+      "zh-CN": "他们留下的信息还包括一系列坐标和蚀影的目击记录。特勤队在那之后就暂缓了后续的行动。",
+      "ja": "彼らが残した情報には、一連の座標、そして蝕影の目撃情報も含まれていた。その後、応龍は後続の任務を一時中断した。",
+      "ko": "그들이 남긴 정보에는 좌표와 침식의 그림자에 대한 목격 기록도 포함돼 있었습니다. 그 이후로 특수부대는 후속 작전을 잠시 중단했었죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Some people in HAS questioned if it is reasonable to keep sacrificing so much for the EZ...",
+      "zh-TW": "即使在宏科院內部也有人提出質疑，我們是否要繼續為這片禁區付出如此高昂的代價……",
+      "zh-CN": "即使在宏科院内部也有人提出质疑，我们是否要继续为这片禁区付出如此高昂的代价……",
+      "ja": "宏科院の内部でさえ、疑問の声があがっていたほどだ。封鎖区域のために、代償を払い続けるべきなのかと……",
+      "ko": "홍산 과학원 내부에서도, 과연 우리가 금지 구역을 위해 계속 이렇게 큰 대가를 치러야 하는지에 대한 의문이 제기되곤 했었습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "But to us, the EZ is more than just a piece of lost territory.",
+      "zh-TW": "但是對我們而言，這不僅僅是一片遺失的故土。",
+      "zh-CN": "但对我们而言，这不仅仅是一片遗失的故土。",
+      "ja": "しかし、我々にとってここはただの「失われた家」ではない。",
+      "ko": "하지만 우리에게 이곳은 단순히 잃어버린 고향이 아닙니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "The Wuling Very Large Rift...",
+      "zh-TW": "武陵甚大裂隙……",
+      "zh-CN": "武陵甚大裂隙……",
+      "ja": "武陵の巨大な裂け目……",
+      "ko": "무릉 대균열..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Fighting the rift ... is part of our duty. We cannot opt out of it. Every step backwards only means that our predecessors wasted their lives.",
+      "zh-TW": "面對裂隙……是一份責任，我們沒有逃避的選項。每一步後退，都是在白白浪費前人的犧牲。",
+      "zh-CN": "面对裂隙……是一份责任，我们没有逃避的选项。每一步后退，都是在白白浪费前人的牺牲。",
+      "ja": "裂け目に向き合う……それは、我々の責任だ。逃げるという選択肢はない。退けば退くほど、先人の犠牲を無駄にすることになる。",
+      "ko": "균열과 맞서는 건... 우리의 책임입니다. 도망칠 선택지는 없습니다. 한 걸음 물러설 때마다 선인들의 희생을 헛되게 만드는 셈이니까요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Every Yinglung steps into the EZ armed with this sense of duty.",
+      "zh-TW": "所有應龍隊員，都是肩負著這樣的使命踏入禁區的。",
+      "zh-CN": "所有应龙队员，都是肩负着这样的使命踏入禁区的。",
+      "ja": "応龍隊員は皆、その使命を背負って封鎖区域に足を踏み入れている。",
+      "ko": "모든 응룡 대원은 그런 사명을 짊어진 채 금지 구역에 들어섭니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "I bear the same duty, and I shall remember the names of every one of them...",
+      "zh-TW": "我記著同樣的使命，也會記住他們每一個人的名字……",
+      "zh-CN": "我记着同样的使命，也会记着他们每一个人的名字……",
+      "ja": "私はその使命と、一人ひとりの名前を心に刻んでいるんだ……",
+      "ko": "저 역시 같은 사명을 기억하고 있습니다. 그리고 그들 한 사람 한 사람의 이름 또한 절대 잊지 않을 것입니다..."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0032_arcane_14001",
+   "topic": {
+    "en": "A Rare Break",
+    "zh-TW": "難得片刻閒餘",
+    "zh-CN": "难得片刻闲余",
+    "ja": "束の間の休息",
+    "ko": "흔치 않은 여가 순간"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Endmin, are you busy right now...?",
+      "zh-TW": "管理員，你現在……有公務在身嗎？",
+      "zh-CN": "管理员，你现在……有公务在身吗？",
+      "ja": "管理人、今は……任務中か？",
+      "ko": "관리자님, 지금 혹시... 근무 중이십니까?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I'm free at the moment. Is there something you need me for?",
+         "zh-TW": "目前沒什麼安排，找我有什麼事嗎？",
+         "zh-CN": "目前没什么安排，找我有什么事吗？",
+         "ja": "今は特に予定はないよ。何か用かな。",
+         "ko": "아니요, 지금은 잠시 쉬고 있어요. 혹시 무슨 일 있으신가요?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "Actually, nothing. But that \"nothing\" is what's bothering me.",
+         "zh-TW": "其實，也沒什麼事。但也就是這個「沒事」，讓我有點不太自在。",
+         "zh-CN": "其实，也没什么事。但也就是这个“没事”，让我有些不太自在。",
+         "ja": "いや、そういうわけではない。「何もない」というのが、少し落ち着かないんだ。",
+         "ko": "사실, 별일 없습니다. 하지만 '별일 없기' 때문에 조금 불편함을 느끼고 있습니다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "I've never had this much free time. My life has only ever been training and duty.",
+         "zh-TW": "我幾乎沒有過這麼多的空閒時間。訓練和執勤，我的生活裡只有這兩樣。",
+         "zh-CN": "我几乎没有过这么多的空闲时间。训练和执勤，我的生活里只有这两样。",
+         "ja": "これほど時間があるのは初めてのことだ。訓練と任務、私の毎日にはその2つしかなかった。",
+         "ko": "저는 지금껏 이렇게 여유 시간을 많이 가져 본 적이 거의 없습니다. 훈련과 근무, 제 생활에는 그 두 가지뿐이었거든요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "I know I might not be fully recovered enough for dangerous missions yet, but ... at least let me resume my training drills.",
+         "zh-TW": "我知道自己可能還沒恢復到能執行危險任務的程度，但是……希望你至少能解除我的訓練限制。",
+         "zh-CN": "我知道自己可能还没恢复到能执行危险任务的程度，但……希望你至少能解禁我的训练科目。",
+         "ja": "危険な任務に出られるほど回復していないことはわかっている。ただ……せめて、訓練だけでも許可してもらいたい。",
+         "ko": "제가 아직 임무를 수행할 수 있을 만큼 회복되지 않았다는 것은 알고 있습니다. 하지만... 적어도 제 훈련 과목만큼은 허락해 주셨으면 합니다."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I just finished my work. I can talk.",
+         "zh-TW": "剛結束手上的工作，剛好可以和你聊一下。",
+         "zh-CN": "刚结束手上的工作，正好可以和你聊一会儿。",
+         "ja": "ちょうど任務が終わったところだよ。少し話そうか。",
+         "ko": "마침 하던 일을 막 끝내서, 잠깐 이야기 나눌 시간이 생겼어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "My apologies, it's nothing important.",
+         "zh-TW": "抱歉，其實不是什麼重要的事。",
+         "zh-CN": "抱歉，其实不是什么重要的事。",
+         "ja": "すまない、少し時間をもらう。",
+         "ko": "아, 사실 별로 중요한 일은 아닙니다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "I wish something important would come up. I've never been off the front line this long.",
+         "zh-TW": "我反而希望能有一些棘手的事分給我，我從來沒像現在這樣脫離一線工作太久。",
+         "zh-CN": "我反倒希望能有一些棘手的事分给我，我从没像现在这样脱离一线工作太久。",
+         "ja": "面倒な仕事でも構わない。何かやらせてもらえないだろうか。これほど長く前線から離れたことは今までになかったんだ。",
+         "ko": "오히려 뭐라도 일을 조금 나누어 주셨으면 좋겠습니다. 저는 지금까지 이렇게 현장에서 오래 떨어져 있었던 적이 없습니다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "It's putting me on edge. Normally I'd train to clear my head, but medical hasn't signed off.",
+         "zh-TW": "這讓我有點靜不下心。以往這種時候，我會透過訓練擺脫這種狀態，只是醫療部門還沒開放許可。",
+         "zh-CN": "这让我有点静不下心。以往这种时候，我会通过训练摆脱这种状态，只是医疗部门还没开放许可。",
+         "ja": "どうにも落ち着かない……いつもなら、訓練でこういった気持ちを振り払っていたが、医療部から許可が下りていない。",
+         "ko": "아무리 마음을 가라앉히려고 노력해봐도 도저히 잘 안되네요. 원래라면 이럴 때마다 훈련하면서 생각을 정리하곤 했지만, 아직 의료 부서에서 훈련 허가를 내주지 않았거든요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "We've put restrictions on your training for now since you haven't fully recovered.",
+      "zh-TW": "限制訓練是基於你目前的身體情況定的。",
+      "zh-CN": "训练科目的限制是基于你目前的身体情况定下的。",
+      "ja": "訓練の制限は、君の身体の状況を踏まえて決められているんだよ。",
+      "ko": "훈련 과목을 제한한 건 현재 결 씨의 몸 상태에 의해 정해진 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "I understand. The Medical Division was very clear about it. And under the Yinglung–Endfield agreement, I need your permission to use Dijiang's training facilities.",
+      "zh-TW": "我知道，醫療部門的解釋很詳細。按照應龍和終末地的合作內容，我使用帝江號的訓練設施必須經過管理員你的許可。",
+      "zh-CN": "我知道，医疗部门的解释很详尽。按照应龙和终末地的合作内容，我使用帝江号的训练设施必须经过管理员你的许可。",
+      "ja": "それはわかっている。医療部からの説明も受けた。ただ、応龍とエンドフィールドの協力内容に、帝江号の訓練施設の使用には、管理人の許可が必要だとある。",
+      "ko": "네, 알고 있습니다. 의료 부서에서도 충분히 잘 설명해 주셨고요. 또한 응룡과 엔드필드의 협약에 따르면, 제강호의 훈련 시설을 사용할 시 관리자님의 허가를 받아야 한다고 규정되어 있죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "So I thought ... maybe you could give me some advice. Ever since I came back from the North Wuling Exclusion Zone, I've had too much on my mind. I just can't seem to settle down.",
+      "zh-TW": "所以我想……是不是也該問問你的建議。從北部禁區回來後，腦中所想的事變得比以前更多……我不知道該做些什麼，才能讓自己平靜下來。",
+      "zh-CN": "所以我想……是不是也该问问你的建议。从北部禁区回来后，脑中所想的事变得比以前更多……我不知道该做些什么，才能让自己平静下来。",
+      "ja": "だから、管理人の意見も聞いておきたい。封鎖区域を出てから、前よりずっと考えることが増えた。どうすれば心を静められるのか、わからない。",
+      "ko": "그래서... 관리자님의 조언도 들어보고 싶어서 연락드렸습니다. 북쪽 금지 구역에서 돌아온 뒤로, 제 머릿속을 헤집고 다니는 일들이 훨씬 더 많아졌습니다... 무엇을 해야 마음이 좀 가라앉을 수 있을지 모르겠습니다..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "How about mental training? Chen runs mental simulations against imaginary enemies all the time. Arclight does similar drills too.",
+         "zh-TW": "試試看冥想訓練？陳千語總會在腦內模擬各類假想敵，弧光也經常進行類似的訓練。",
+         "zh-CN": "试试看冥想训练？陈千语总会在脑内模拟各类假想敌，弧光也经常进行类似的训练。",
+         "ja": "なら、瞑想訓練はどうかな。チェンはよく頭の中で仮想敵を想定しているみたいだし、アークライトも似たような訓練をしているよ。",
+         "ko": "명상 훈련을 해보는 건 어때요? 천우는 평소에 머릿속으로 다양한 가상의 적을 시뮬레이션해 본다고 해요, 아크라이트 씨도 비슷한 훈련을 자주 하죠."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "I've tried it. But I get more out of actual combat.",
+         "zh-TW": "我試過，但實戰帶給我的收穫更多一點。",
+         "zh-CN": "我试过，但实战带给我的收获更多一些。",
+         "ja": "試したことはある。ただ、実戦のほうが得るものは多い。",
+         "ko": "그 방법도 시도해 봤지만, 제게는 실전에서 얻는 것이 더 많았습니다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Have you tried using other operators as imaginary opponents?",
+         "zh-TW": "你試過以其他幹員為假想對手嗎？",
+         "zh-CN": "你试过以其他干员为假想对手吗？",
+         "ja": "オペレーターを仮想敵にしてみたことはある？",
+         "ko": "다른 오퍼레이터를 가상 상대로 삼아 본 적은 있나요?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "Other operators? No. I usually picture sparring with Instructor Zhu or Yinglungs. As for Lady Si ... I can't even imagine fighting her. I'd have no chance.",
+         "zh-TW": "其他幹員？沒有，我通常會模擬與竺老師或應龍隊員過招的情境，至於祀小姐……我無法想像跟她對戰，根本沒有勝算。",
+         "zh-CN": "其他干员？没有，我一般会模拟和竺老师或应龙队员过招的情境，至于祀小姐……我无法想象和她对战，根本没有胜算。",
+         "ja": "オペレーター……確かにないな。アツ先生や隊員との戦闘を想定してばかりだった。スー代理人は……彼女と戦うことは想像できない。勝ち目が見つからない。",
+         "ko": "다른 오퍼레이터 말씀입니까? 아니요, 저는 보통 축 교관님이나 응룡 대원들과 겨루는 상황을 시뮬레이션합니다. 그리고 사 님은... 그분과 싸우는 상황은 상상할 수 없습니다. 승산이 전혀 없으니까요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "But you're right. There are plenty of strong opponents here worth learning from.",
+         "zh-TW": "但是你說得對，這裡有許多值得一戰……值得學習的優秀對手。",
+         "zh-CN": "但你说得对，这里有许多值得一战……值得学习的优秀对手。",
+         "ja": "しかし、良い案だ。ここには一戦……いや、学ぶべき優秀なオペレーターが多い。",
+         "ko": "하지만 관리자님 말씀이 맞네요. 이곳에는 겨뤄 볼... 아니, 배울 점이 많은 훌륭한 상대가 많을 것 같습니다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "That's a decent way to fill the time. Thanks, Endmin.",
+         "zh-TW": "嗯，這是個不錯的打發時間的方案，感謝管理員。",
+         "zh-CN": "嗯，这是个不错的打发时间的方案，感谢管理员。",
+         "ja": "よし、時間を使うには悪くない。感謝する、管理人。",
+         "ko": "음... 시간을 보내기 좋은 방법이 되겠어요. 감사합니다, 관리자님."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "What about trying something new? Join some of the other operators' activities?",
+         "zh-TW": "嘗試一些新事物？例如參與到其他幹員的活動裡？",
+         "zh-CN": "尝试一些新事物？例如参与到其他干员的活动里？",
+         "ja": "新しいことを始めてみるのはどうだろう。他のオペレーターたちに混ざってみるとか。",
+         "ko": "새로운 일들을 시도해 보는 건 어떤가요? 예를 들면 다른 오퍼레이터들의 일정에 참여해 본다던가요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "I don't think I'd fit in. I'd probably just spoil their fun.",
+         "zh-TW": "我想我並不太適合嘗試新事物，或許會掃他們的興。",
+         "zh-CN": "我想我并不太适合尝试新事物，或许会扫他们的兴。",
+         "ja": "そういうのはあまり向いていない……水を差してしまうかもしれない。",
+         "ko": "제가 새로운 일을 시도하는 게 좋은 생각일지 모르겠습니다. 괜히 다른 분들의 흥을 깨뜨릴 수도 있거든요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "But since you suggested it, I'll think about it.",
+         "zh-TW": "但既然是你的建議，我會考慮一下。",
+         "zh-CN": "但既然是你的建议，我会考虑一下。",
+         "ja": "しかし、管理人がそう言うなら、一度考えてみる。",
+         "ko": "하지만 관리자님의 조언인 만큼 한번 고려해 보겠습니다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "I guess I'll have to adapt. I'm in Endfield now, so I should go with how things are done here.",
+         "zh-TW": "入鄉隨俗，既然我現在在終末地，確實應該按終末地的方式來行動……",
+         "zh-CN": "入乡随俗，既然我现在在终末地，确实应该按终末地的方式来行动……",
+         "ja": "郷に入っては郷に従え。今、私はエンドフィールドにいる。エンドフィールドのやり方に従うべきだ。",
+         "ko": "엔드필드에 왔으니 엔드필드의 법을 따라야죠. 이곳에 적응할 수 있게 노력해 보겠습니다..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "If you've got nothing to do, I can hang out with you for a bit.",
+         "zh-TW": "找不到事做的話，我可以陪你打發打發時間。",
+         "zh-CN": "找不到事做的话，我可以陪你打发打发时间。",
+         "ja": "{F}やることが見つからないなら、私が付き合うよ。{M}やることが見つからないなら、僕が付き合うよ。",
+         "ko": "뭘 해야 할지 모르겠으면, 제가 같이 시간 보내드릴게요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "That's ... not what I meant. You have your own duties. You shouldn't waste your time on me.",
+         "zh-TW": "這……不是我的本意。管理員，你有使命在身，不該把時間浪費在我身上。",
+         "zh-CN": "这……不是我的本意。管理员，你有使命在身，不该把时间浪费在我身上。",
+         "ja": "それは……違う。管理人には使命がある。私のために時間を使うのは、無駄だ。",
+         "ko": "아... 그럴 의도는 아니었습니다. 관리자님께서는 중요한 사명이 있으시니, 보잘것없는 제 고민에 시간을 허비하시면 안 되죠."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "I just wanted your advice.",
+         "zh-TW": "我只是想聽一下你的建議。",
+         "zh-CN": "我只是想听一下你的建议。",
+         "ja": "ただ、管理人の意見を聞きたかっただけだ。",
+         "ko": "저는 그저 관리자님의 조언을 듣고 싶었을 뿐입니다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "It's not a waste. This is the break time Perlica arranged for me.",
+         "zh-TW": "這不能稱作「浪費」，現在是佩麗卡為我預留的休息時間。",
+         "zh-CN": "这不能称作“浪费”，现在是佩丽卡为我预留的休息时间。",
+         "ja": "「無駄」なんかじゃないよ。今は、ペリカが休憩時間として空けてくれている時間だしね。",
+         "ko": "'허비'라뇨. 지금은 펠리카가 특별히 제게 남겨준 자유 시간인걸요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "Alright then... I'll go with your suggestion.",
+         "zh-TW": "那……我知道了，按你說的來。",
+         "zh-CN": "那……我知道了，按你说的来。",
+         "ja": "そうか……わかった。それなら、言う通りにしよう。",
+         "ko": "그렇다면... 알겠습니다. 관리자님 말씀대로 하겠습니다."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "I want to get used to life here as fast as I can. And recover soon too.",
+      "zh-TW": "我想儘快適應在終末地的生活，也希望自己能儘早恢復。",
+      "zh-CN": "我想尽快适应在终末地的生活，也希望自己能尽早恢复。",
+      "ja": "できるだけ早くエンドフィールドでの生活に慣れたいと思っている。そして、1日でも早く回復したい。",
+      "ko": "...하루빨리 엔드필드에서의 생활에 적응하고, 가능한 한 몸도 빨리 회복됐으면 좋겠네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Don't worry. This is definitely easier than Yinglung's training.",
+      "zh-TW": "放心吧，這不會比應龍的訓練更困難。",
+      "zh-CN": "放心吧，这不会比应龙的训练更困难。",
+      "ja": "大丈夫だよ。応龍の訓練よりはずっと簡単だと思う。",
+      "ko": "걱정 마세요. 응룡의 훈련보다 어렵지는 않을 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Yeah, I guess so.",
+      "zh-TW": "嗯。",
+      "zh-CN": "嗯。",
+      "ja": "ああ。",
+      "ko": "네."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0032_arcane_14002",
+   "topic": {
+    "en": "Tamer's Habits",
+    "zh-TW": "「馴獸師」的習慣",
+    "zh-CN": "“驯兽师”的习惯",
+    "ja": "「獣使い」の習慣",
+    "ko": "'조련사'의 습관"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Endmin, HR just sent me a warning notice. According to our cooperation agreement, I need to keep you informed of everything.",
+      "zh-TW": "管理員，人事部剛才傳來一份警告文件。根據合作協議，我的一切情況都需要讓你瞭解。",
+      "zh-CN": "管理员，人事部刚才发来一份警告文件。根据合作协议，我的一切情况都需要让你知悉。",
+      "ja": "管理人、人事部から警告書が届いた。協力内容に基づいて、私に関わることはすべて管理人に報告する決まりだ。",
+      "ko": "관리자님, 방금 인사 부서에서 경고 문서를 보내왔습니다. 협약 내용에 따라, 제 모든 상황을 관리자님께 보고드리겠습니다."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "HR says there was a complaint about a small animal attack, and you're said to be involved.",
+         "zh-TW": "人事部接到投訴說受到了小動物的襲擊，據稱與你有關。",
+         "zh-CN": "人事部接到投诉说受到了小动物的袭击，据称与你有关。",
+         "ja": "人事部に、小動物に襲われたっていう苦情が入ったみたいだね。それが君に関係があるって聞いたけど……",
+         "ko": "인사 부서에 동물의 습격을 받았다는 민원이 들어왔고, 그게 결 씨와 관련되어 있다고 하더라고요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "That's correct. It was a small fowlbeast. Its owner is on a long-term mission and asked me to look after it.",
+         "zh-TW": "確有此事，是一隻小型羽獸。牠的飼養者有長期任務，囑託我照看一下。",
+         "zh-CN": "确有此事，是一只小型羽兽。它的饲养者有长期任务，嘱托我照看一下。",
+         "ja": "ああ、事実だ。長期任務に出るという飼い主から、小型の羽獣の世話を頼まれていたんだ。",
+         "ko": "사실입니다. 작은 파울비스트 한 마리가 있는데, 담당 사육자가 장기 임무를 맡게 되어, 제게 잠시 돌봐 달라고 부탁했습니다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "I've had it less than a week, so I'm still learning its temperament. I was checking with HR, and then it just flew out ... scared an operator since she didn't know it was there.",
+         "zh-TW": "我才照顧牠不到一週，還沒有完全掌握牠的習性。我向人事部瞭解了情況——牠突然飛出來，嚇到了不知情的幹員。",
+         "zh-CN": "我才照看它不到一周，还没能完全掌握它的习性。我向人事部了解了情况——它突然飞出来，吓到了不知情的干员。",
+         "ja": "預かってまだ1週間しか経っていない。だから、どういう習性があるか把握できていなかった。人事部からは「突然飛び出してオペレーターを驚かせた」と聞いている。",
+         "ko": "제가 그 녀석을 돌본 지 일주일이 되지 않아, 습성을 완전히 파악하지 못했습니다. 인사 부서에 상황을 확인했더니, 그 녀석이 갑자기 날아오르는 바람에 그 자리에 있던 오퍼레이터가 상당히 놀랐다고 들었습니다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "I'm sorry about the incident. I'll accept whatever punishment comes with it.",
+         "zh-TW": "對於發生的意外我很抱歉，所有的後果和處罰我都接受。",
+         "zh-CN": "对于发生的意外我很抱歉，所有的后果和处罚我都接受。",
+         "ja": "本当にすまない。どんな処分でも受け入れるつもりだ。",
+         "ko": "이런 사고가 발생한 것에 대해 정말 죄송하게 생각하고 있습니다. 어떤 징계나 처벌이든 겸허히 받아들이겠습니다."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "HR told me everything. No real damage was done. Don't worry.",
+         "zh-TW": "人事部來說明了相關情況。沒造成什麼實質性破壞，別擔心。",
+         "zh-CN": "人事部来说明了相关情况。没造成什么实质性破坏，别担心。",
+         "ja": "人事部から話は聞いたよ。被害も出ていないから、心配しなくていい。",
+         "ko": "인사 부서에서 이미 상황을 설명해 줬어요. 실질적인 피해는 없었으니 너무 걱정하실 거 없어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "A mistake is still a mistake. The owner isn't here. Right now, the fowlbeast is my responsibility.",
+         "zh-TW": "錯無大小。那隻羽獸的主人不在，目前是由我照顧的。",
+         "zh-CN": "错无大小。那只羽兽的主人不在，目前是由我照看的。",
+         "ja": "過失であることに変わりはない。今、あの羽獣を預かり、世話をしているのは私だ。",
+         "ko": "잘못에 크고 작은 게 어디 있겠습니까. 그 파울비스트의 주인이 자리를 비운 지금은 제가 보호자입니다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "I asked HR about it. It scared an operator who wasn't aware.",
+         "zh-TW": "我向人事部瞭解了情況，牠嚇到了不知情的工作人員。",
+         "zh-CN": "我向人事部了解了情况，它吓到了不知情的工作人员。",
+         "ja": "突然飛び出し、そこにいたオペレーターを驚かせてしまったと人事部から説明があった。",
+         "ko": "인사 부서에 상황을 확인해 보니, 그 녀석 때문에 엄한 직원이 많이 놀랐다고 들었습니다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Arcane",
+         "zh-TW": "訣",
+         "zh-CN": "诀",
+         "ja": "オクギ",
+         "ko": "결"
+        },
+        "text": {
+         "en": "This was my failure. I'll accept whatever comes.",
+         "zh-TW": "這是我的失職。我接受一切後果。",
+         "zh-CN": "这是我的失职。我接受一切后果。",
+         "ja": "私の失態だ。どんな処分でも受け入れる。",
+         "ko": "이건 제가 소홀한 탓입니다. 어떤 결과든 겸허히 받아들이겠습니다."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "It's fine, don't worry... The operator who got scared is fine. Someone mistook it for an emergency and called HR and medical.",
+      "zh-TW": "別那麼緊張。當事人只是被嚇到了，有人以為出了意外，幫她聯絡了人事部和醫療部門。",
+      "zh-CN": "别那么紧张。当事人只是被吓到了，有人以为出了意外，帮她联系了人事部和医疗部门。",
+      "ja": "そこまで考えなくても大丈夫だ。当事者は驚いただけで、他の人が事故だと思って人事部と医療部に連絡したみたいだから。",
+      "ko": "일단 진정하세요. 당사자는 그저 좀 놀랐을 뿐이래요. 다른 누군가가 사고가 난 줄 알고, 그분 대신 인사 부서와 의료 부서에 연락한 거고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "But ... here's what we don't get. That fowlbeast is usually pretty well-behaved. Why did it suddenly get so aggressive?",
+      "zh-TW": "不過……我們好奇的點是，這隻羽獸平常蠻乖巧的，怎麼突然這麼有攻擊性。",
+      "zh-CN": "不过……我们好奇的点是，这只羽兽平时挺乖巧的，怎么突然这么有攻击性。",
+      "ja": "でも……気になることがある。あの羽獣は大人しい性格らしいんだ。どうして急に飛び出したんだろう……",
+      "ko": "다만... 저희가 궁금한 점은, 그 파울비스트가 평소에는 꽤 얌전한데 왜 갑자기 그렇게 공격적으로 변했냐는 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "I've been giving it some military training.",
+      "zh-TW": "我這幾天對牠進行了一些軍事化訓練。",
+      "zh-CN": "我这几天对它进行了一些军事化训练。",
+      "ja": "実はここ数日、羽獣に軍事訓練をしていた。",
+      "ko": "며칠 동안 약간의 군사 훈련을 시켰습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "YOU WHAT?!",
+      "zh-TW": "什麼？！",
+      "zh-CN": "什么？！",
+      "ja": "えっ！",
+      "ko": "뭐라고요?!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Just basic drills. It's sharp and quick, could be useful in the field.",
+      "zh-TW": "只是一些輕度訓練，牠很敏銳，動作也很靈活，有成為戰場助力的潛質。",
+      "zh-CN": "只是一些轻度训练，它很敏锐，动作也很灵活，有成为战场助力的潜质。",
+      "ja": "軽い訓練だけだ。あれは感覚も鋭く、動きも俊敏だ。戦場で補助的な役割を果たせる素質があった。",
+      "ko": "그냥 가벼운 훈련들이었습니다. 녀석은 감각이 예민하고 움직임도 민첩해서, 전장에서 도움이 될 잠재력이 있었습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "It picks things up fast. I just didn't expect it to be able to break out of its cage...",
+      "zh-TW": "牠學得也很快，只是我沒想到牠已經能破壞羽獸籠了……",
+      "zh-CN": "它学得也很快，只是我没想到它已经能破坏羽兽笼了……",
+      "ja": "覚えも早かった……しかし、ケージを壊すほどになっていたとは……",
+      "ko": "배우는 속도도 아주 빨랐고요. 벌써 파울비스트 우리를 부수고 나올 줄은 몰랐습니다만..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "What exactly did you train it to do?",
+         "zh-TW": "你到底讓牠練了什麼？",
+         "zh-CN": "你到底让它练了什么？",
+         "ja": "一体どんな訓練をしたのかな。",
+         "ko": "대체 뭘 훈련시킨 거예요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I thought it was just an ornamental pet ... kinda cute, actually.",
+         "zh-TW": "我記得牠只是一隻觀賞型的寵物……還蠻可愛的。",
+         "zh-CN": "我记得它只是只观赏型的宠物……还挺可爱的。",
+         "ja": "あの羽獣はペット用で……見た目もすごく可愛らしかったのに。",
+         "ko": "그 파울비스트, 반려형 품종이었던 것 같은데요... 꽤 귀여웠던 친구로 기억하는데..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "I was planning to help it learn how to use its strengths for basic attacks.",
+      "zh-TW": "我的計劃是讓牠學會利用自身的特點，使用一些基礎的攻擊方式。",
+      "zh-CN": "我的计划是让它学会利用自身的特点，使用一些基本的攻击方式。",
+      "ja": "羽獣自身の特徴を活かした、基本的な攻撃方法を身につけさせる計画を立てていた。",
+      "ko": "제 계획은 그 녀석이 자신의 특성을 활용해, 기본적인 공격 방식을 익히게 하는 것이었습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "That's how I trained Blitzcrash too.",
+      "zh-TW": "最開始訓練噪雷的時候，我也是依照這樣的方式。",
+      "zh-CN": "最开始训练噪雷的时候，我也是依照这样的思路。",
+      "ja": "噪雷の訓練を始めたときと同じやり方だ。",
+      "ko": "처음 진뢰를 훈련시킬 때도, 같은 방식으로 접근했었거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "This training has to stop... Its owner might not even recognize it when they come back.",
+      "zh-TW": "還是別練了……牠的主人回來可能都認不出來自己的羽獸了。",
+      "zh-CN": "还是别练了……它的主人回来可能都认不出来自己的羽兽了。",
+      "ja": "とりあえず、訓練するのはやめておこう。飼い主が戻ってきたとき、自分の羽獣だとわからなくなるかもしれない。",
+      "ko": "훈련은 그만하시는 게 좋을 것 같아요... 이러다간 주인이 돌아왔을 때 아예 못 알아보겠어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Then what should I do? Just feed it water and food? That feels like I'm not doing my job.",
+      "zh-TW": "那應該怎麼照顧牠？只是餵一些食物和水嗎？我覺得這樣有點失職。",
+      "zh-CN": "那应该怎么照顾它？只是喂一些食物和水吗？我觉得这样有些失职。",
+      "ja": "それなら、どうやって世話をすればいい？エサと水を与えるだけでは、世話とは言えない。",
+      "ko": "그럼 어떻게 돌봐야 하죠? 그저 먹이와 물만 주면 되는 겁니까? 그건 왠지 직무 유기처럼 느껴집니다..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You can spend more time playing with it... The operator who got scared actually really likes the fowlbeast. She wants to help you take care of it.",
+      "zh-TW": "可以多跟牠玩……沒關係，那位被嚇到的幹員原本就很喜歡這隻羽獸，她說想跟你一起照顧牠，我覺得這是個機會。",
+      "zh-CN": "可以多和它玩……没关系，那位被吓到的干员原本就很喜欢这只羽兽，她说想和你一起照顾它，我觉得这是个机会。",
+      "ja": "一緒に遊んであげたらいいと思うよ……大丈夫、驚かされたオペレーターは、もともとその羽獣が好きだったみたいで、君と一緒に世話をしたいとも言っている。",
+      "ko": "그 외에도 같이 놀아준다던가... 아, 이렇게 하죠. 놀란 그 오퍼레이터도 원래 그 파울비스트를 엄청 좋아했다고 해요. 결 씨와 함께 그 녀석을 돌보고 싶다고 하니, 오히려 잘됐어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You can see how she handles small animals, rather than ... training them.",
+      "zh-TW": "可以觀察一下她是怎麼照顧小動物的，而不是……訓練。",
+      "zh-CN": "可以观察一下她是怎么照顾小动物的，而不是……训练。",
+      "ja": "良い機会だから、世話のやり方も見てみたらいいんじゃないかな……訓練じゃなくて。",
+      "ko": "이참에 그분이 어떻게 동물을 다루는지 한번 지켜보세요... 훈련이 아니라 돌보는 방법을 배울 수 있을 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "That would be perfect.",
+      "zh-TW": "那再好不過了。",
+      "zh-CN": "那再好不过了。",
+      "ja": "それは助かる。",
+      "ko": "유익한 기회가 되겠네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "I also need to apologize to her in person for what happened. I'll excuse myself now.",
+      "zh-TW": "我還要為之前對她造成的困擾當面道歉，就先失陪了。",
+      "zh-CN": "我还要为之前对她造成的困扰当面道歉，就先失陪了。",
+      "ja": "先ほどは迷惑をかけたと、本人に直接謝ってくる……先に失礼する。",
+      "ko": "그분을 놀라게 한 일도 직접 사과드려야 하니, 그럼 저는 이만 가보겠습니다."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0032_arcane_14003",
+   "topic": {
+    "en": "Kites from Home",
+    "zh-TW": "跟著故鄉的風箏",
+    "zh-CN": "跟着故乡的风筝",
+    "ja": "故郷の凧を追って",
+    "ko": "고향의 연을 따라"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Endmin, are you still awake?",
+      "zh-TW": "管理員？還沒休息嗎？",
+      "zh-CN": "管理员？还没休息吗？",
+      "ja": "管理人、起きているか？",
+      "ko": "관리자님? 혹시 아직 근무 중이십니까?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Endmin?",
+      "zh-TW": "管理員？",
+      "zh-CN": "管理员？",
+      "ja": "管理人？",
+      "ko": "관리자님?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "It's fine if you don't see this. Just me rambling...",
+      "zh-TW": "你沒看到也沒關係，這只是一點……不算重要的閒聊。",
+      "zh-CN": "你没看到也没关系，这只是一点……不算重要的闲聊。",
+      "ja": "見ていなくてもいい。ただの……雑談だ。",
+      "ko": "못 보셔도 괜찮습니다. 그냥 제... 심심한 혼잣말이라고 해두죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "You like looking out at Talos-II from the Bridge. I do too.",
+      "zh-TW": "你好像很喜歡在艦橋上看遠處的塔衛二。其實我也一樣。",
+      "zh-CN": "你好像很喜欢在舰桥上看远处的塔卫二。其实我也一样。",
+      "ja": "管理人はブリッジからタロⅡを眺めるのが好きなんだな。実は、私もだ。",
+      "ko": "관리자님께서는 갑판에서 서서 탈로스 II를 멀리 내다보는 것을 좋아하시는 것 같더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "It takes me back to Wuling. I used to use those kites to get up high and gaze into the distance.",
+      "zh-TW": "這讓我想起還在武陵的時候。我偶爾會利用那些風箏，站在高處，看著遠方。",
+      "zh-CN": "这让我想起还在武陵的时候。我偶尔会利用那些风筝，站在高处，看着远方。",
+      "ja": "武陵にいた時のことを思い出す。私は時々、凧を使って高い場所に立ち、遠くを眺めることがあった。",
+      "ko": "사실 저도 무릉에 있었을 때 그랬거든요. 가끔 날리는 연들을 이용해 높은 곳에 서서 먼 곳을 바라보곤 했죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "From up there, I could see places I couldn't normally reach, like mountains beyond Wuling, rivers that seemed to have no end. And...",
+      "zh-TW": "我能看到很多平常所不能及的地方，綿延到武陵外的山，不知流向何處的河。還有……",
+      "zh-CN": "我能见到很多平时所不能及的地方，延绵到武陵外的山，不知流向何处的河。还有……",
+      "ja": "普段は見渡せないような場所まで見えた。武陵の外まで続く山、流れ着く先の見えない川、そして……",
+      "ko": "평소에는 발길이 닿지 않는 곳들을 볼 수 있었으니까요. 무릉 바깥까지 이어지는 산맥, 어디로 흘러가는지 알 수 없는 강, 그리고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "The North Wuling Exclusion Zone shrouded in Blight Miasma.",
+      "zh-TW": "還有被煙塵瘴氣所籠罩的北部禁區。",
+      "zh-CN": "还有被烟尘瘴气所笼罩的北部禁区。",
+      "ja": "塵と霧に覆われた封鎖区域が。",
+      "ko": "먼지와 안개에 뒤덮인 북쪽 금지 구역까지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "From that height, it felt so close. Yet so far away.",
+      "zh-TW": "站在高空眺望，它離我是那麼近，卻又那麼遙遠。",
+      "zh-CN": "站在高空眺望，它离我是那么近，却又那么遥远。",
+      "ja": "上から眺めると、とても近くに感じた。だが実際は、あまりにも遠かった……",
+      "ko": "높은 곳에서 바라보면, 그곳은 너무나 가까우면서도 한없이 멀게 느껴졌습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Every time I tried to get closer, reality just kept pushing me back. I never doubted my resolve ... but no one knew when a turning point would come.",
+      "zh-TW": "每次我想離它更近的時候，現實卻總會將我推得更遠。我不曾質疑過自己的絕念，但沒人知道轉機何時才會來。",
+      "zh-CN": "每次我想离它更近的时候，现实却总会将我推得更远。我不曾质疑过自己的绝念，但没人知道转机何时才会来。",
+      "ja": "近づきたいと思うほど、現実はいつも私を遠ざけた。自分の決意を疑うことはない。しかし、状況を変える一手がいつ来るのか、ずっとわからないままだった。",
+      "ko": "제가 그곳에 더 가까이 다가가려 할 때마다, 현실은 늘 저를 더 멀리 밀어냈습니다. 제 각오를 의심한 적은 없지만, 언제 상황이 바뀔 수 있을지, 바뀌기는 할지... 막막한 마음도 있었습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "And when I heard you were coming, I really felt, for the first time, that maybe everything could change...",
+      "zh-TW": "當得知你的到來時，我才真正感受到，或許一切能夠改變……",
+      "zh-CN": "当得知你的到来时，我才真正感受到，或许一切能够改变……",
+      "ja": "管理人が来ると聞いて、初めて、本当にすべてが変わるのかもしれないと思った……",
+      "ko": "그리고 관리자님께서 오신다는 소식을 들었을 때, 저는 그제야 모든 것이 달라질지도 모른다고 느낄 수 있었습니다..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "And now?",
+      "zh-TW": "那現在呢？",
+      "zh-CN": "那现在呢？",
+      "ja": "今はどう？",
+      "ko": "그럼 지금은요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "......",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "You're up? I thought...",
+      "zh-TW": "原來你在嗎？我還以為……",
+      "zh-CN": "原来你在吗？我还以为……",
+      "ja": "起きていたのか。てっきり……",
+      "ko": "보고 계셨던 겁니까? 저는 관리자님께서..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Never mind, these messages were meant for you anyway. I don't really have any secrets left from you at this point.",
+      "zh-TW": "算了，本來就是傳給你的。事到如今，我對你來說早就沒什麼秘密可言了。",
+      "zh-CN": "算了，本来就是发给你的。事到如今，我对你来说早就没什么秘密可言了。",
+      "ja": "いや、構わない。そもそも管理人に送ったものだ。それに、管理人に隠せることなどないとわかっている。",
+      "ko": "아닙니다, 어차피 관리자님께 보내려던 말들이었습니다. 이제 관리자님 앞에서 비밀이라 할 것도 없고요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Don't mind me. Keep going.",
+         "zh-TW": "別介意，你繼續說就好。",
+         "zh-CN": "别介意，你继续说就好。",
+         "ja": "気にしなくていい。話を続けていいよ。",
+         "ko": "신경 쓰지 말고 계속 말씀해 주세요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "So, how do you feel now?",
+         "zh-TW": "所以，現在感覺如何？",
+         "zh-CN": "所以，现在感觉如何？",
+         "ja": "それで、今はどうかな。",
+         "ko": "그래서, 지금은 좀 어떤가요?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Right now, standing on Dijiang and looking toward Wuling, I'm still up high ... but it doesn't feel the same anymore.",
+      "zh-TW": "現在的話，站在帝江號上看著武陵的方向，同樣是身處高處，卻和當時完全不同。",
+      "zh-CN": "现在的话，站在帝江号上看着武陵的方向，同样是身处高处，却和当时完全不同。",
+      "ja": "今は、帝江号から武陵の方角を眺めている。同じように高い場所にいるのに、あの頃とはすべてが違う。",
+      "ko": "지금은 종종 제강호에서 무릉이 있는 방향을 바라보고 있습니다. 똑같이 높은 곳에 있지만, 그때와는 완전히 다른 감정을 느낍니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "I'm so much farther away now. Yet when I close my eyes, I can still see Wuling, the North Wuling Exclusion Zone ... all of it.",
+      "zh-TW": "明明離得更遠了，但只要閉上眼，我就能想到武陵和北部禁區的一切。",
+      "zh-CN": "明明离得更远了，但只要闭上眼，我就能想到武陵和北部禁区的一切。",
+      "ja": "距離は遠くなった……しかし、目を閉じれば武陵と封鎖区域のことがすぐに浮かんでくる。",
+      "ko": "분명 더 멀리 떨어져 있는데도, 눈을 감으면 무릉과 북쪽 금지 구역의 모든 것이 떠오릅니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Like I never left. Like ... I'm the kite. No matter where I fly, I'm still tied to my homeland.",
+      "zh-TW": "彷彿我根本不曾離開過一樣。好像……我才是一隻風箏，無論在哪裡，都和故鄉的土地連在一起。",
+      "zh-CN": "仿佛我根本不曾离开过一样。好像……我才是一只风筝，无论在哪里，都和故乡的土地连在一起。",
+      "ja": "まるで、今もそこにいるように。自分が凧になって、どこにいても故郷の地と繋がっているかのように。",
+      "ko": "마치 제가 한 번도 그곳을 떠난 적 없는 것처럼 말이죠... 꼭... 제가 연이 되어 날고 있는 것 같습니다. 어디에 있든, 고향의 땅과 이어져 있는 연 말입니다."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "We can't call it the North Wuling Exclusion Zone anymore.",
+         "zh-TW": "現在可不能再叫北部禁區了。",
+         "zh-CN": "现在可不能再叫北部禁区了。",
+         "ja": "今はもう「封鎖区域」ではなくなったね。",
+         "ko": "이제 더 이상 북쪽 금지 구역이라고 부르면 안 되죠."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Now Endfield is also your home.",
+         "zh-TW": "現在終末地也是你的家。",
+         "zh-CN": "如今终末地也是你的家。",
+         "ja": "今は、エンドフィールドも君の家だよ。",
+         "ko": "이제 엔드필드도 당신의 집이에요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "You're right. Everything is different now. How we act, how we see things... It all needs to change.",
+      "zh-TW": "你說得對，一切都不同了，做事的方式、看待問題的角度都該變得不一樣了。",
+      "zh-CN": "你说得对，一切都不同了，做事的方式、看待问题的角度都该变得不一样了。",
+      "ja": "管理人の言う通りだ。本当にすべてが変わった……やり方も、見方も、変わるべきなんだろう。",
+      "ko": "관리자님 말씀이 맞습니다. 모든 것이 달라졌으니, 일 처리하는 방식도, 문제를 바라보는 시선도 달라져야겠죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Thank you ... for bringing that little girl out of that cold, dark ruin and into the open sky.",
+      "zh-TW": "謝謝你……把那個被困在封閉、陰冷廢墟下的小女孩，帶到這片廣袤的天空之下。",
+      "zh-CN": "谢谢你……把那个被困在封闭、阴冷废墟下的小女孩，带到这片广袤的天空之下。",
+      "ja": "ありがとう……あの冷たい廃墟の下に囚われていた小さな子どもを、広い空の下へ連れ出してくれた……",
+      "ko": "감사합니다... 어둡고 차가운 폐허 아래 갇혀 있던 그 어린아이를, 이 드넓은 하늘 아래로 꺼내주셔서..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Do you want to go back together sometime?",
+      "zh-TW": "那……要不要一起回去看看？",
+      "zh-CN": "那……要不要一起回去看看？",
+      "ja": "それなら……一緒に戻って見に行ってみようか。",
+      "ko": "그럼... 언제 한번 같이 돌아가 볼까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "We could go fly kites. Let them see how much this world has changed for us.",
+      "zh-TW": "一起放放風箏什麼的。讓風箏替你我看一看這個已經煥然一新的世界。",
+      "zh-CN": "一起放放风筝什么的。让风筝替你我看一看这个已经焕然一新的世界。",
+      "ja": "一緒に凧を揚げてもいいかもね。私たちの代わりに、変わった世界を見てもらえばいい。",
+      "ko": "돌아가서 같이 연도 날려 보죠. 결 씨와 저를 대신해서, 완전히 새로워진 이 세상을 지켜봐달라고 하자고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "Sure...",
+      "zh-TW": "嗯……",
+      "zh-CN": "嗯……",
+      "ja": "ああ……",
+      "ko": "네..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Arcane",
+      "zh-TW": "訣",
+      "zh-CN": "诀",
+      "ja": "オクギ",
+      "ko": "결"
+     },
+     "text": {
+      "en": "I'd love that.",
+      "zh-TW": "我很樂意。",
+      "zh-CN": "我很乐意。",
+      "ja": "一緒に行こう。",
+      "ko": "좋습니다."
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 0
+}

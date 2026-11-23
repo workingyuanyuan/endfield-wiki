@@ -52,6 +52,8 @@ sources:
 
 Mi Fu is Captain of the Wuling Watch, subordinate to Viceroy Tianshi Zhuang Fangyi, and successor of Qingbo Martial Arts, now on an exchange at Endfield Industries.
 
+Files and voice lines: [Mi Fu's file](/story/mi-fu/).
+
 ## How to obtain
 
 Mi Fu is the rate-up 6-star operator of Fists of No Regrets, a Chartered Headhunting banner of [Version 1.3, Sketches of Lost Heirlooms](/versions/1-3/). Banners with Mi Fu:

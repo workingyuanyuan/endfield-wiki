@@ -55,6 +55,8 @@ sources:
 
 Liino is a breakout Sarkaz Djall idol from the Talos-II General Chamber of Commerce, called the Morning Star of La Fantoma and noted for concerts that break with convention.
 
+Files, voice lines and chats: [Liino's file](/story/liino/).
+
 ## How to obtain
 
 Liino is the rate-up 6-star operator of Good Morning from Your Dawnstar, a Chartered Headhunting banner of [Version 1.4, Homecoming](/versions/1-4/). Banners with Liino:

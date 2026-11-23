@@ -53,6 +53,8 @@ sources:
 
 Camille Arno is an elite Keeper from Seš'qa, skilled in blood-related Originium Arts and anti-witchcraft, who is seeking to work with Endfield Industries in a personal capacity.
 
+Files, voice lines and chats: [Camille's file](/story/camille/).
+
 ## How to obtain
 
 Camille is the rate-up 6-star operator of Expunger of Sin, a Chartered Headhunting banner of [Version 1.3, Sketches of Lost Heirlooms](/versions/1-3/). Banners with Camille:

@@ -1,0 +1,3185 @@
+{
+ "slug": "last-rite",
+ "gameId": "chr_0026_lastrite",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Last Rite \nGENDER: Female \nAUTHENTICATION: Seš'qa \nDOB: November 12 \nRACE: Sarkaz \n[ORIPATHY INFECTION STATUS] \nOripathy positive (infected), based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Excellent \nCOMBAT SKILL: Standard \nTACTICAL ACUMEN: Normal \nORIGINIUM ARTS ASSIMILATION: ■■ \n\nDOCUMENT: Records from a Logistics Operator \nMiss Last Rite accidentally damaged several training machines during testing. From the perspective of the Logistics Division, the scope of damage she inflicted is still within reasonable limits. To put it simply, there are other operators who inflict greater losses during routine inspection. Hence, we wonder if you can help inform Miss Last Rite that there is no need for her to keep delivering handwritten letters of apology to us, or actively avoiding members of our division for that matter. \n\nDOCUMENT: A certain log that requires sufficient authority level \nAdelheid's Originium Arts should only get an [Excellent] rating. However, when this Nachzehrer attempts, bashfully, the manipulation of death, everyone at the scene witnessed a shadowy figure behind the curtain. It felt cold, ancient, grand, and ... serene. It was a discomforting experience though Instructor Maze tried to soothe my concerns... What is Seš'qa trying to hide?",
+    "zh-TW": "【代號】別禮\n【性別】女\n【身分認證】塞什卡\n【生日】11月12日\n【種族】薩卡茲\n【礦石病感染情況】\n參照醫學檢測報告，確認為感染者。\n\n【綜合體檢測試】\n生理強度：優良\n作戰技巧：標準\n戰術規劃：普通\n源石技藝適應性：■■\n\n【後勤幹員紀錄】\n別禮小姐在測試過程中意外造成了一些訓練設備的損壞。對於後勤部門而言，這是合理的損耗範圍，不如說，其他幹員例行檢查時損壞的會更多。所以，請替我們轉告別禮小姐，她沒有必要再向後勤部門遞手寫道歉信，也請她不要再躲著後勤幹員們了。\n\n【權限紀錄】\n阿德爾海德本人的源石技藝能力只能算作優秀。但是，當這位食腐者害羞地玩弄死亡時，在場很多人都在那道帷幕後看見了另一道陰影。很冷，很古老，很浩蕩，也很……平靜。我感到很不安，雖然Maze老師叫我放心……塞什卡到底隱瞞了什麼？",
+    "zh-CN": "【代号】别礼\n【性别】女\n【身份认证】塞什卡\n【生日】11月12日\n【种族】萨卡兹\n【矿石病感染情况】\n参照医学检测报告，确认为感染者。\n\n【综合体检测试】\n生理强度：优良\n作战技巧：标准\n战术规划：普通\n源石技艺适应性：■■\n\n【后勤干员记录】\n别礼小姐在测试过程中意外造成了一些训练设备的损坏。对于后勤部门而言，这是合理的损耗范畴，不如说，其他干员例行检查时损坏的会更多。所以，请替我们转告别礼小姐，她没有必要再往后勤部门递手写道歉信，也请她不要再躲着后勤干员们了。\n\n【权限记录】\n阿德尔海德本人的源石技艺水平只能算作优秀。但是，当这位食腐者害羞地摆弄死亡时，在场很多人都在那道帷幕后看见了另一道阴影。很冷，很古老，很浩荡，也很……平静。我感到很不安，虽然Maze老师让我放心……塞什卡到底隐瞒了什么？",
+    "ja": "【コードネーム】ラストライト\n【性別】女\n【身分証明】セシュカ\n【誕生日】11月12日\n【種族】サルカズ\n【鉱石病感染状況】\nメディカルチェックの結果、感染者に認定。\n\n【能力測定】\n物理強度：優秀\n戦闘技術：標準\n戦術立案：普通\nアーツ適性：■■\n\n【後方支援オペレーターによる記録】\nラストライトさんは測定中に、訓練設備の一部を壊してしまいましたが、後方支援部としては想定内の損耗だと判断しています。むしろ、他のオペレーターが定期測定で設備に与える損害のほうが大きいでしょう。ですから、後方支援部への手書きのお詫び状は不要ですし、後方支援オペレーターを意図的に避ける必要もないとお伝えください。\n\n【権限記録】\nアーデルハイト本人のアーツは、せいぜい優秀と言える程度のものです。ですが、このナハツェーラーが恥ずかしそうに「死」を弄り始めると、その場にいた多くの者が、帳の向こうにもう1つの影を見たと――冷たく、古く、壮大でありながらも……不思議と穏やかな影を。私は胸の奥に不安を覚えてしまいます。Maze先生は心配いらないと言いますが……セシュカはいったい何を隠しているのでしょう？",
+    "ko": "[코드네임] 라스트 라이트\n[성별] 여\n[신분 인증] 세쉬카\n[생일] 11월 12일\n[종족] 살카즈\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 우수\n작전 기술: 표준\n전술 계획: 보통\n오리지늄 아츠 적응성: ■■\n\n[지원 오퍼레이터 기록]\n라스트 라이트 씨는 테스트 과정에서 실수로 훈련 설비 일부를 파손시켰습니다. 지원 부서로서는 합리적인 파손에 해당하죠. 오히려 다른 오퍼레이터들이 정기 검사 때 파손시키는 경우가 더 많아요. 그러니, 라스트 라이트 씨에게 더 이상 지원 부서에 자필 사과 편지를 보낼 필요가 없다고, 지원 부서의 오퍼레이터들을 일부러 피해 다니지 않아도 된다고 전해주세요.\n\n[권한 기록]\n아델하이드 본인의 오리지늄 아츠 수준은 '우수함' 정도에 불과하지만, 이 나흐체러르가 수줍은 듯 죽음을 다루는 순간, 현장에 있던 많은 이들이 그 장막 뒤에 가려진 또 다른 그림자를 보았다. 그것은 아주 차갑고, 아주 오래되었으며, 아주 거대하고... 또 아주 평온했다. 나는 불안감을 감출 수 없다. 비록 메이즈 선생님은 안심해도 된다고 하셨지만... 세쉬카는 도대체 무엇을 숨기고 있는 걸까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Last Rite (ID name: Adelheid) is a special brand ambassador for Seš'qa. She is now working under the Specialist Tech Division following recommendations from \"Bridge Builder\" Fleming, senior business consultant of Witching Hour. \n\nIf this is your first meeting with Last Rite, consider a relaxed and friendly approach. Treat her temporary silence or avoidance with understanding and acceptance. Last Rite is not skilled at dealing with strangers, but attending to the meeting with a few snacks or candies at hand will actively build her trust in you. \nAnd please, AVOID getting too close to her when she panics as this is extremely hazardous. If she sees you getting wounded due to the resulting accident, her panic attack will only escalate. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員別禮，本名阿德爾海德，塞什卡特派品牌形象代言人。經巫術時刻高級商業顧問「築橋者」弗萊明引薦，現劃歸至特種技術部門管理。\n\n如果是第一次與別禮接觸，請考慮使用輕鬆、友善的發言方式，並對其暫時的沉默或迴避行為予以理解和容忍。別禮很不擅長與陌生人社交，不過，準備一些甜點或小零食能有效促進信任的構建進度。\n請儘量避免在她慌亂時過於靠近，這很危險。同時，你因此受到的任何意外傷害都只會讓她更加慌亂。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员别礼，本名阿德尔海德，塞什卡特派品牌形象代言人。经巫术时刻高级商业顾问“筑桥者”弗莱明引荐，现划归特种技术部门管理。\n\n如果是第一次与别礼接触，请考虑使用轻松、友善的发言方式，并对其暂时的沉默或回避行为予以理解和容忍。别礼很不擅长与陌生人社交，不过，准备一些甜点或小零食能有效推进信任的构建进程。\n请尽量避免在她慌乱时过于靠近，这很危险。同时，你因此受到的任何意外伤害都只会让她更加慌乱。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "ラストライト、本名は「アーデルハイト」。セシュカから特別に派遣されたブランドアンバサダー。「ウィッチタイム」のシニア・ビジネスコンサルタント「架橋者」フレミングの紹介により加入。現在、特殊技術部の管理下にある。\n\n「ラストライトさんと初めて会うときは、できるだけ気さくでフレンドリーに接することを心がけてください。彼女は見知らぬ人との付き合いが少し苦手ですから、沈黙や距離を取るような行動があっても、それは自然なことだと理解して受け止めてあげることも大切です。ちなみに、甘いお菓子や軽食を用意すると、信頼関係を築くきっかけとして効果的です。」\n「ただし、彼女が慌てているときには、身の安全のため近づきすぎないようにしてください。もし、それが原因で思わぬ怪我に繋がってしまった場合、さらなる混乱を招くことになってしまうからです。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 라스트 라이트, 본명 아델하이드. 세쉬카에서 특별 파견한 브랜드 홍보대사다. 주술 타임의 수석 비즈니스 고문인 '교량 건설자' 플레밍의 추천으로, 현재 특수 기술부 소속으로 배속되었다.\n\n라스트 라이트와 처음 교류하는 경우, 가급적 편안하고 친근한 어조로 대화할 것을 권장한다. 그녀가 잠시 침묵하거나 자리를 피하더라도 이해하고 인내를 가지고 대해야 한다. 라스트 라이트는 낯선 사람을 대하는 데 매우 서투르다. 하지만 달콤한 디저트나 작은 간식을 준비하면 신뢰를 쌓는 데 큰 도움이 될 것이다.\n다만 그녀가 당황해할 때는 절대 가까이 다가가지 말 것. 매우 위험하다. 또한 이로 인해 당신이 뜻밖의 부상을 입는다면 그녀는 더욱 당황할 것이다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "\"The internship mission was a success. She's far more committed than we thought. The girl literally commands to the letter. Also, can we ask the Business Office to convey this to Seš'qa: Reading ad lines to beasts and Aggeloi doesn't achieve anything.\" \n\n\"We are really happy that Operator Last Rite helped clean out the mountain of chores that slowly built itself up over time. But can someone tell her that this is a buffet-style canteen. No one's going to be charged extra for big appetites.\" \n\n\"Specialized Emergency Ice Melter Sprays are now available. We got plenty in store, so grab what you need. Now, we know that Last Rite gives off freeze gases when she panics. I guess it'd be nice if you people can stop triggering her panic attacks.\" \n\n\"Last Rite is getting on pretty well with the other patients of the rehab center, and she believes that volunteer work can help her with stress relief. Chew on this, people. Why is she feeling stressed, hmm? In any case, do not tell any of our patients that Last Rite is an undertaker. It is unnecessary and we will have a lot of explaining to do if word of this gets out.\" \n\n...... \n\nHR Division Operator Bulletin. The girl was so stressed and embarrassed she inched towards the dustbin to conceal herself. \"Relax, girl. Everyone says you're really friendly and easy to get along with.\"",
+    "zh-TW": "「實習任務很成功，她比我們想像中還要投入。另外，麻煩商務辦公室盡力和塞什卡方面再溝通一下，對著野獸和天使唸廣告詞沒有任何意義，但這孩子真的叫她做什麼就照做。」\n\n「我們很高興別禮幹員能幫忙處理堆積許久的雜項工作，不過還是請各位想想辦法說服她，餐廳伙食按需求供應，不用擔心加餐要額外收費。」\n\n「訂製款緊急融冰噴霧已經上架，數量充足，請隨意取用。話說回來，既然別禮一緊張就會冒冷氣，你們倒是少逗她幾次。」\n\n「別禮幹員和康復中心的許多外來病人相處得還不錯，她好像也覺得參與志工服務能緩解自己的壓力（你們應該反省一下為什麼她會有壓力）。另外，請不要在患者面前隨意提及她的守墓人身分，這沒有必要，而且會讓解釋工作變得很麻煩。」\n\n…………\n\n人力資源事務部的幹員合起留言板，對著無比緊張，似乎想整個躲進腳邊垃圾桶的少女露出笑容：「大家都覺得您非常好相處，不用這麼焦慮啦。」",
+    "zh-CN": "“实习任务很成功，她比我们想象中还要投入。另外，麻烦商务办公室争取和塞什卡方面再沟通一下，对着野兽和天使念广告词没有任何意义，但这孩子真的让做什么就做什么。”\n\n“我们很高兴别礼干员能帮忙处理堆积许久的杂项工作，不过还是请各位想想办法说服她，食堂伙食按需供应，不用担心加餐要额外收费。”\n\n“定制款应急融冰喷雾已经上架，数量充足，随意取用。话说回来，既然别礼一紧张就爱冒冷气，你们倒是少逗她几次。”\n\n“别礼干员和康复中心的许多外来病人相处得还不错，她似乎也觉得参与志愿服务能缓解自己的压力（你们应该反省一下为什么她会有压力）。另外，请不要在患者面前随意提及她的守墓人身份，这没有必要，而且会让解释工作变得很麻烦。”\n\n…………\n\n人力资源事务部的干员合上留言板，对着无比紧张，似乎想整个躲进脚边垃圾桶的少女露出笑容：“大家都觉得您相当好相处，不用这么焦虑啦。”",
+    "ja": "「実習任務は成功した。正直、俺たちが想像していた以上に真面目に取り組んでたよ。それから、ビジネス部はちょっとセシュカに話をしておいたほうがいい。獣やアンゲロス相手にCMのセリフなんて意味がないと。本当に律儀な子だ。指示された通りにやってるんだから。」\n\n「ラストライトさんが溜まった雑務を手伝ってくれて、本当に助かっています。ですが、食堂では必要に応じて食事が提供されるので、追加注文しても料金はかからないのだと……説得してもらえませんか？」\n\n「特注の緊急用解氷スプレーをラインナップに追加しました。十分な数がありますので、自由に使っていただいて構いません。ちなみに、ラストライトさんは緊張するとつい空気を冷やしてしまうみたいなので、あまりからかわないであげてください。」\n\n「ラストライトさんは、リハビリテーションセンターの患者さんたちとうまく打ち解けているし、ボランティア活動に参加することでストレス発散になっているみたいね。（ただし、なぜストレスを抱えているのかについては、そちらで確認するべきかと）それから、患者の前で彼女が『墓守』であると口にしないでほしいわ。不要な情報だし、説明も複雑になるのだから。」\n\n…………\n\n人事部のオペレーターは端末を閉じると、足元のゴミ箱に身を縮めて隠れようとするほど緊張している少女に、柔らかく微笑みかけた。「大丈夫ですよ。みんな、ラストライトさんのことを『感じのいい人』だって思っています。焦らなくてもいいんです。」",
+    "ko": "\"인턴 임무는 성공적이었습니다. 그녀는 저희 생각보다 훨씬 더 열심이더군요. 그리고 사업지원실에 세쉬카 측과 다시 협의해 달라고 부탁해 주세요. 야수나 아겔로스를 상대로 광고 문구를 읊는 건 아무 의미가 없습니다. 하지만 이 아이는 정말 시키는 건 뭐든지 다 해내네요.\"\n\n\"라스트 라이트가 오랫동안 쌓여있던 잡무를 도와줘서 정말 큰 힘이 됩니다. 다만, 다들 어떻게든 그녀가 편하게 식사를 더 할 수 있도록 설득해 주세요. 식당 밥은 필요한 만큼 제공되니까, 추가 배식에 비용이 더 들까 봐 걱정할 필요 없다고요.\"\n\n\"맞춤형 긴급 해동 스프레이가 입고되었습니다. 수량은 넉넉하니, 마음껏 가져다 쓰세요. 그건 그렇고, 라스트 라이트가 긴장만 하면 냉기를 뿜는데, 다들 적당히 놀리세요.\"\n\n\"라스트 라이트는 재활 센터의 많은 외부 환자들과 꽤 잘 지내고 있어요. 봉사 활동에 참여하면 스트레스가 풀린다고 생각하는 듯해요. (대체 누구 때문에 스트레스를 받는지 반성 좀 하시고요.) 그리고 환자들 앞에서 그녀가 묘지기라는 것을 함부로 언급하지 마세요. 굳이 그럴 필요도 없고, 괜히 설명만 더 복잡해지니까요.\n\n......\n\n인력 자원 사무부의 한 오퍼레이터가 게시판을 닫았다. 그러고는 발 옆의 쓰레기통에라도 숨고 싶은 듯 잔뜩 긴장한 소녀를 향해 미소 지었다. \"다들 당신을 아주 좋게 생각하고 있어요. 그렇게까지 긴장할 필요 없답니다.\""
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "In the beginning, children at the Den of the Brave always poked fun at Adelheid. No one really knew the girl who lived so far away. She was shy, introverted, dressed in boring clothing, slow to react, and never caught the ball during conversations. \"Biggie\" Tom started by badmouthing her at every turn. He wanted her out of the children's secret base. But Tom eventually relented because of two reasons: The grown-ups respected the Caprinae couple who adopted Adelheid, and even though she was teary eyed and sniveling, she never forgot about stuffing herself with apple peelings and turnip leaves. \n\nEverything changed in that atrocious summer. The rains poured in June, the entire place was flooded, and the bandits were finally evicted after a grueling battle. The ordeal left scars upon five families who lost their loved ones. The unsuspecting children followed the procession to the suburbs, and they saw her atop the hills. Adelheid, except it was not the little crybaby they knew. They saw the girl and her family cleaning out the resting places, cleaning the headstones, and offering elegies to the deceased. It was not until the coffin was laid to rest when the children finally realized that Tom would no longer return to Den of the Brave. \nInstead of fear, it was panic and denial that spread. The children could not accept the machinations of fate, and failed to figure out a way to make up for the missing position. It was then when Adelheid placed a simple wooden statuette before Tom's grave. It was very roughly carved, crooked, imbalanced, and unpolished. \n\"He always wanted a figurine of a Competition Knight,\" the girl said. \"That would be Tom's final wish.\" \nThe grown-ups fail to control their tears again. They lamented the death of a life so innocent and young. \nBut the children tried not to laugh as the statuette looked nothing like a Competition Knight. \nIn the end, they bore it no longer and burst out laughing. \nThey took out their Knight Cards and discussed how to make the statuette more knight-like. Although Adelheid failed to follow their conversation and the task of carving the figurine fell to a more dexterous companion, the children would always hand the new and much improved statuette into Adelheid's hands, for she was tasked with leading their own procession into the cemetery and perform the annual ceremony. \n\"Tom is right here,\" the girl promised every year. \nNo one knew how Adelheid was so certain about this, or how she learned of Tom's wishes. Nobody seemed to care about how she performed her work. \n\nIn the end, Adelheid did not break her shell. She remained rather inept at expressing herself. Every time her tummy rumbled, she became so embarrassed she would start inching to a nearby dustbin. But whenever new kids arrive in town and start talking about the strange girl humming songs in the bushes, someone would tap them on the shoulder and give them a quite a story.",
+    "zh-TW": "最初，「勇者之家」的孩子們經常取笑阿德爾海德——大家不太認識這個住得很遠的女孩，她靦腆內向，衣服土土的，反應慢幾拍，聊什麼都接不上話題。「大個子」湯姆曾經帶頭說了她不少壞話，想要把她趕出孩子們的秘密基地，而湯姆收手的原因有兩個，首先是大人們好像很尊重收養阿德爾海德的那對卡普里尼夫婦，以及就算委屈得淚眼汪汪，她竟然還沒忘記往嘴裡塞蕪菁葉和蘋果皮。\n\n變故發生在一個難熬的夏天。那個六月暴雨傾盆，洪水泛濫，土匪好不容易才被趕走，留下了五個痛失至親的家庭。懵懂的孩子們跟著隊伍來到郊外，在小山上看到了讓他們倍感陌生的阿德爾海德。他們看著少女和家人一起清理場地，擦洗墓碑，為死者送上最後一首輓歌。直到棺槨真正封入土地，孩子們才意識到湯姆已經永遠不會再來「勇者之家」了。\n比起悲傷，恐慌和無所適從更快地蔓延開來。他們不能接受命運倉促的安排，不能理解要如何才能填補空出的位置。就在這時，阿德爾海德拿出了一個粗糙的木雕玩偶，將它放在湯姆墳前。玩偶很簡陋，被裁得歪七扭八、表面不平，連木屑都沒來得及擦去。\n他一直想要一個競技騎士玩偶，少女說，這是湯姆最後的願望。\n大人們忍不住再次哭泣，哀嘆一條無辜生命的早早逝去。\n孩子們只能憋笑，因為那個木雕根本就不像競技騎士。\n總歸還是笑了。\n他們各自拿出收藏的騎士卡，研究怎樣才能把造型刻得更像一點。少女依然不太跟得上話題，動手的任務也被更心靈手巧的同伴接過，但他們每年都會把更新、更好的玩偶交給她，在她的帶領下進入墓園，完成慰問儀式。\n湯姆就在這裡，少女每次都這樣保證。\n沒有人知道她為什麼如此篤定，沒有人知道她當初為什麼瞭解湯姆的願望，沒有人在乎那些道理。\n\n後來，阿德爾海德還是沒有變得外向，她依舊不太擅長表達自己，肚子咕嚕叫時，也還是會害羞得想要鑽到地裡去。但是，如果新來的孩子們開始議論墓園那位偶爾在荒草叢間哼唱的古怪女孩，就會有人搭上他們的肩膀，請他們聽幾個小故事。",
+    "zh-CN": "最初，“勇者之家”的孩子们经常取笑阿德尔海德：大家不太认识这个住得很远的姑娘，她腼腆内向，衣服土里土气，反应慢几拍，聊什么都接不上茬儿。“大个子”汤姆曾经带头说了她不少坏话，想要把她赶出孩子们的秘密基地，而汤姆收手的原因有两个：大人们好像很尊重收养阿德尔海德的那对卡普里尼夫妇，以及，就算委屈得泪眼汪汪，她竟然还没忘记往嘴里塞芜菁叶帮子和苹果皮。\n\n变故发生在一个难熬的夏天。那个六月暴雨倾盆，洪水泛滥，匪帮好不容易才被赶走，留下了五个痛失至亲的家庭。懵懂的孩子们跟着队伍来到郊外，在小山上看到了让他们倍感陌生的阿德尔海德。他们看着少女和家人一起清理场地，擦洗墓碑，为死者送上最后一首挽歌。直到棺椁真正封入土地，孩子们才意识到汤姆已经永远不会再来“勇者之家”了。\n比起悲伤，恐慌和无所适从更快地蔓延开来。他们不能接受命运仓促的安排，不能理解要如何才能填补空出的位置。就在这时，阿德尔海德拿出了一个粗糙的木雕玩偶，将它放在汤姆坟前。玩偶很简陋，被切得歪歪扭扭、表面坑洼，连木屑都没来得及擦去。\n他一直想要一个竞技骑士玩偶，少女说，这是汤姆最后的愿望。\n大人们忍不住再次哭泣，哀叹一条无辜生命的早早逝去。\n孩子们只能憋笑，因为那个木雕根本就不像竞技骑士。\n总归还是笑了。\n他们各自拿出收藏的骑士卡，研究怎样才能把造型刻得更像一些。少女依然不太跟得上话题，动手的任务也被更心灵手巧的同伴接过，但他们每年都会把更新、更好的玩偶交给她，在她的带领下进入墓园，完成慰问仪式。\n汤姆就在这里，少女每次都这样保证。\n没有人知道她为什么如此笃定，没有人知道她当初为什么了解汤姆的愿望，没有人在乎那些道理。\n\n后来，阿德尔海德还是没有变得外向，她依旧不太擅长表达自己，肚子咕咕叫时，也还是会羞得想要钻到地里去。但是，如果新来的孩子们开始议论墓园那位偶尔在荒草丛间哼唱的古怪姑娘，就会有人搭上他们的肩膀，请他们听几个小故事。",
+    "ja": "始めの頃、「勇者の家」の子どもたちは、アーデルハイトをよくからかっていた。遠くから来た彼女のことを誰もよく知らない。おとなしく、恥ずかしがり屋で、野暮ったい服に、噛み合わない反応――ビッグ・トムは、真っ先に彼女を秘密基地から追い出そうとした。しかし、やめた。理由は2つ――1つは大人たちがアーデルハイトを引き取ったキャプリニー夫婦を尊重していることを知ったから。そしてもう1つは、アーデルハイトが涙を目に浮かべながらも、カブの葉やリンゴの皮を懸命にほおばる姿を目にしたからであった。\n\nある暑い夏のことだった。6月の土砂降りで川があふれ、洪水が発生した。蔓延る盗賊団をようやく追い払ったときには、5つの家族が大切な人を失っていた。何も知らない子どもたちは、郊外に向かう列に並ぶ。すると、そこには小さな山に立つアーデルハイトの姿があった。いつもとどこか別人のように見える彼女が、墓を整え、墓碑を磨き、死者へと別れの歌を捧げるのを――子どもたちはただ見つめていた。棺が土に覆い尽くされようかという頃、ようやく全員が理解した。トムはもう、永遠に「勇者の家」に戻ることはないのだと。\n悲しみよりも、恐怖と混乱が先に立った。あまりにも突然すぎる運命を受け入れられず、心に空いた穴を埋める方法もわからなかった。そのとき、アーデルハイトが粗末な木彫りの人形を取り出し、トムの墓の前に置いた。目に入った瞬間、笑いが込み上げるほどの出来だった。歪な切り込みに、表面はでこぼこで、木くずも払われていない。\nトムはずっと、競技騎士の人形を欲しがっていた。これが、トムの最後の願いだった――彼女が呟いた。\n大人たちはこらえきれず、泣き崩れた。あまりにも早く失われた無垢な命を嘆いて。\n子どもたちは――笑いをこらえていた。だってあの人形は、どう見たって競技騎士には見えないのだから。\nとうとう、我慢できずに笑い出してしまった。\nそして自分たちの大切な「騎士カード」を取り出して、どうすれば本物の騎士らしく彫れるかを真剣に考え始めた。少女は相変わらず、話についていくことはできない。彫る作業は、手先が器用な他の子どもが担当することになった。それから毎年、少しずつ上手になっていく新しい木彫りの人形がアーデルハイトの手に渡されるようになった。子どもたちは彼女の案内で墓地を訪れ、慰霊の儀式を続けた。\nトムはここにいる――少女はそのたびに、はっきりとした口調で言った。\nなぜそう確信できたのか。なぜトムの願いを知っていたのか。誰も知らなければ、理由を気にする者もいなかった。\n\nその後も、アーデルハイトは内気なままだった。今も変わらず、自分を表現することが苦手だ。お腹が鳴れば、恥ずかしさのあまり地面に潜り込みたくなってしまう。けれど、新しく来た子どもたちが、墓地の草むらで鼻歌を口ずさむ妙な少女の話を持ち出すと――誰かがそっと肩に手を置き、物語を聞かせてやるのだった。",
+    "ko": "처음에, '용사의 집' 아이들은 아델하이드를 자주 놀렸다. 아이들은 멀리서 사는 이 소녀를 잘 알지 못했기 때문이었다. 그녀는 수줍음이 많고 내성적이었으며, 옷차림은 촌스러웠고, 반응도 항상 한 박자 느렸다. 무슨 이야기를 해도 대화에 끼지 못했다. 어느 날 '덩치 큰' 톰이 앞장서서 그녀에게 험담을 퍼부으며, 아이들의 비밀 기지에서 내쫓으려 했다. 하지만 톰이 그만둔 데에는 두 가지 이유가 있었다. 어른들이 아델하이드를 입양한 카프리니 부부를 꽤 존중하는 것 같았고, 다른 하나는 아델하이드가 눈물이 그렁그렁한 채로도 순무잎 겉대와 사과 껍질을 입에 넣고 우물거리고 있었다는 점이었다.\n\n변고는 견디기 힘들었던 어느 여름에 일어났다. 그해 6월에는 폭우가 쏟아져 홍수가 났고, 겨우 몰아낸 산적 떼는 다섯 가족에게서 소중한 사람을 앗아갔다. 철모르는 아이들은 어른들을 따라 교외로 나갔고, 작은 언덕 위에서 전과는 사뭇 낯설게 느껴지는 아델하이드를 보았다. 아이들은 소녀가 가족과 함께 자리를 정리하고, 묘비를 닦고, 죽은 자를 위해 마지막으로 추모의 노래를 부르는 모습을 지켜보았다. 관이 땅에 묻히고 나서야, 아이들은 톰이 다시는 '용사의 집'에 오지 못할 거라는 사실을 깨달았다.\n슬픔이 채 가시기도 전에, 공포와 어찌할 바 모르는 막막함이 아이들을 덮쳤다. 아이들은 이 황급한 운명의 장난을 받아들일 수 없었고, 톰의 빈자리를 어떻게 채워야 할지 알지 못했다. 바로 그때, 아델하이드가 거칠게 깎은 나무 인형 하나를 꺼내 톰의 무덤 앞에 놓았다. 인형은 조잡하기 짝이 없었다. 솜씨 없이 비뚤하게 깎아낸 표면은 울퉁불퉁했고, 나무 부스러기도 미처 떼어내지 못한 채였다.\n\"톰은 항상 스포츠 기사 인형을 갖고 싶어 했어.\" 소녀가 말했다. \"이게 톰의 마지막 소원이었어.\"\n어른들은 무고한 생명이 너무 일찍 스러진 것을 슬퍼하며 참지 못하고 다시 울음을 터뜨렸다.\n하지만 아이들은 웃음을 참아야 했다. 그 인형은 도저히 스포츠 기사 인형처럼 보이지 않았기 때문이다.\n아이들은 결국 참지 못하고 웃음을 터뜨렸다.\n각자 모아 둔 기사 카드를 꺼내 들고, 어떻게 해야 더 비슷하게 깎을 수 있을지 연구했다. 소녀는 여전히 대화에 잘 끼지 못했고, 인형을 조각하는 일도 손재주가 더 좋은 친구들의 몫이 되었다. 하지만 아이들은 매년 더 나아진 인형을 새로 만들어 그녀에게 건네주었고, 그녀를 따라 묘지를 찾아 위로의 의식을 치렀다.\n\"톰은 여기 있어.\" 소녀는 언제나 그렇게 확신에 차 말했다.\n아무도 그녀가 왜 그렇게 확신하는지, 애초에 그녀가 어떻게 톰의 소원을 알았는지 알지 못했고, 그 이유를 궁금해하는 사람도 없었다.\n\n시간이 지나도 아델하이드는 여전히 내향적이었다. 표현에 서툰 것도 여전했고, 배가 꼬르륵 울리기라도 하면 땅속으로라도 숨고 싶어 했다. 하지만, 새로 온 아이들이 묘지를 뒤덮은 무성한 풀 사이에 앉아 흥얼거리는 괴상한 소녀에 대해 수군거리기 시작하면, 누군가는 아이들의 어깨에 손을 살짝 얹으며, 조용히 몇 가지 이야기를 들려주곤 했다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "This was Adelheid's first culture shock. \nSeš'qa, the Stop, the capital of Witchcraft, the Sarkazian hub, the gathering spot of vagabonds... It was a city of names and she heard plenty of them. However, it was not until she alighted from the dirigible and stepping onto Seš'qa proper when she realized that \"flight\" was the most insignificant feature of this strange realm. \nThe entire place seemed to be a never-ending stream of carnivals. Riot was engraved into the air itself. The decorative furnace that adorned the central plaza spewed waves of heat, clamor, and tons of laughter. Every street was lined with strange shops and signs. People rubbed shoulders in the crowd, chewing food with names that defy even the most dexterous tongues as they marched for the formation of giant figures looming in the distance — Rumors speak of a fighting arena as well as a fairground featuring Sarkazian culture, meticulously prepared for tourists when Seš'qa made itself available to them. However, the purpose of this administrative divisions seems rather limited when Seš'qa itself was already like a giant theme park. \nAdelheid's stomach started rumbling again. \nPerhaps it wasn't a good idea to accept that wandering peddler's invitation. She heard about Witching Hour, but she could never afford anything from this manufacturer. She only needed a broom to chase away the beasts back home. Like Seš'qa itself, the concept of proper weapons felt foreign and distant. \"But I only flipped a truck toppled by the Aggeloi so it got back on its wheels. Why would anyone recommend me a job opportunity for that?\" Adelheid started to wonder. What could she possibly do at this place? \nThe peddler was far away, handling some registration procedure, stringing syllables and words that she could not understand. She suddenly realized that she knew nothing about the Sarkaz, despite being one herself. And is that powerful mercenary a Goliath? A man wore pendants dangling from his sharp ears. Did they mean anything? Everything was new. The peddler explained that her constant sense of hunger was a racial trait as well. But knowing this did not solve the problem. According to Sarkazian standards, her stubborn refusal to \"feed\" probably made her the one least qualified to talk about the rebellious nature of this city. \nHer stomach rumbled louder. Every time she felt afraid or helpless, impulse would find its way in and make it harder to control herself. And this was worse than usual. If someone asks, how should she answer? It would be inappopriate to say: \"I'm sorry. I just don't feel like being a Nachzehrer.\"\nThere was still a chance to escape. The peddler's route would pass through a few more towns and villages. She could always apologize later. It would be best to find a place to hide and wait for the constant sideway glances to ease off... \n\"What's happening to you?\" \nThe voice jolted her back from her increasingly sticky sense of anxiety. The lad tilted his head, his gaze more curious than confused: \"There's free bread over there. Just tell the guard before you grab one. And there's also a pamphlet with a list of jobs. That's free, too.\" \n\"I ... I'm sorry, I'm actually alright,\" she tried to get her breathing under control and ease the trembling out of her voice, \"I'm just waiting for someone.\" \n\"Oh. Okay, \" the lad sniveled, \"But you don't have to worry. Plenty of opportunities here. You'll find something to do. It took me two whole weeks as well.\" \nThe lad was mature for his age and did not seem to believe in her words. Adelheid thought about it but chose not to argue. His expressions seem to exude strange powers that alleviated her worries. \nHe gave her a pat on the shoulders before blending into a nearby crowd once more. She turned to look. It did not appear like a tourist attraction. Sweaty laborers worked on the scaffold as merchants frowned and wrote out their orders. A few well-dressed individuals flanked by mercenaries walked out of what seemed to be a fancy bistro. Everyone looked busy, yet all of them gave off the same relaxing vibe of that young lad. There were plenty of opportunities and she would figure something out. \nShe saw the lad running towards the mercenaries, shouting angrily as he bundled their weapons. He was like a shepherd trying to herd a flock of giant, half-drunken beasts from their masters into the inn. The lad's tail was short and sharp, reminding her of her foster parents. \nThe girl suddenly remembered the peddler saying something on the dirigible: \"We got it to fly because the Sarkaz everywhere were facing difficulties. But when it started flying, we realized that plenty of others are facing hard times, not just the Sarkaz.\" \nBefore it became a flying city of amusements, Seš'qa was a frontier outpost. Despite being involved with countless legends and serving numerous functions, it was a young outpost facing the unknown in the frontiers where humanity strove to build a new home. Life will always find a way. The outpost does not need to house everyone. It just needs to be \"a stop\", and that would be enough. \nAnd thus, after more than ten minutes of shock and awe, Adelheid began diverting her attention to the streets. Her eyes rested upon a massive pile of roasted stockbeast fillet glistening with grease. \nIt was salty, so salty that it sent her heart racing wildly.",
+    "zh-TW": "阿德爾海德第一次感受到了文化衝擊。\n塞什卡，「歇腳地」，巫術之都，薩卡茲的紐帶，浪客的聚集地……她已經聽過無數個有關它的名字，但直到走下熱氣球，親自踏上那片地，她才發現，「能夠飛行」只是這片奇蹟之地最最微不足道的一點小特色。\n這裡簡直就是一場永遠都在進行的狂歡節。騷動幾乎鐫刻在了每一絲空氣裡，廣場中央造型奔放的裝飾熔爐噴湧著熱浪，將吵鬧和歡笑一同高高拋起。各種古怪商店的門面在幾條街爭奪每一寸空間，人群摩肩接踵，往嘴裡塞著叫不出名字的食物，流向遠方一片連綿的招搖巨影——據說那裡除了角鬥場，還有塞什卡在開放時間為遊客精心準備的薩卡茲風情觀光區，但如果整個空間本身已經足夠像個遊樂園，專門劃出一片區域的意義似乎非常微小。\n阿德爾海德的肚子又開始叫了。\n也許答應那位行商的邀請並不是個好主意。她當然聽說過「巫術時刻」，但從來都買不起這家公司的任何一件商品。在老家，驅趕野獸只需要一把掃帚就可以了，武器和她的距離就像小鎮到這裡的路途一樣遙遠。僅僅只是幫忙把被天使掀翻的貨車翻過來，值得對方介紹這裡的工作機會嗎？歸根究柢，她又能在這裡做什麼？\n行商正在遠處辦理登記手續，和專員說著一條又一條聽不懂的東西。她突然意識到，除了自己的確是一個薩卡茲，她幾乎對薩卡茲一無所知。那位高大健壯的傭兵是歌利亞嗎？那位先生尖耳朵上的掛飾代表著什麼？她不知道。她很餓，行商解釋過，這也是種族特徵之一，但明白知識沒辦法解決任何問題。不如說，按照薩卡茲的標準，一直堅持不去「進食」的她也許才是最沒有資格來這座城市的離經叛道者。\n肚子叫得更頻繁了。每當感到害怕無助，衝動總是趁虛而入，讓她更難壓抑自己。比平常更糟糕的是，如果這時有人來問話，她該怎麼回答？「對不起，我只是不想好好當個食腐者」？\n現在還有機會逃走，那位行商應該還會經過小鎮，之後再好好和他道歉吧。或者，至少先找個地方躲起來，讓周圍若有若無的注視再少一點……\n「你怎麼了？」\n一個聲音把她從越加黏膩的焦慮感中拉了回來。男孩歪著頭，眼神比起疑惑更像是好奇：「那邊有免費麵包，和看門的叔叔說一聲就可以拿。還有招募工人的小冊，也不用錢。」\n「不……對不起，我沒事。」她控制呼吸，儘量平復自己聲音中的顫抖，「我在等人。」\n「哦，好吧。」男孩吸了吸鼻子，「總之別擔心，這裡機會多，會有辦法的。我也花了兩個禮拜呢。」\n這個小大人好像不太相信自己的說詞。阿德爾海德想了想，卻沒有開口辯解。對方的神情好像有種奇特的魔力，讓自己心中的擔憂變輕了一些。\n男孩拍了拍她的肩膀，隨後便重新融入身旁一處人群。那裡似乎不是遊客的聚集點，工人圍著鷹架揮汗如雨，商人皺著眉頭寫寫畫畫，幾位西裝革履的體面人和傭兵勾搭在一起，像是剛從酒桌上下來。」大家看起來非常忙碌，卻同樣洋溢著和那個男孩一樣讓人放鬆的氣氛——機會夠多，總會有辦法的。\n她看到男孩跑向那群傭兵，罵罵咧咧地替他們整理武器，像牧童一樣推著一群半醉的傻大個從金主身邊送往旅店。男孩的尾巴又短又尖，和她養父母的很像。\n少女突然想起了行商在熱氣球上說的一句話：「因為到處都是有困難的薩卡茲，我們讓它飛了起來。可是，當它飛起來之後，你會看到，有困難的一定不止薩卡茲。」\n在成為一座飛空遊樂園之前，「塞什卡」是一座開拓據點。不管被多少傳奇圍繞，被附加多少定義，一個面對未知、建立新家園的開拓據點不會阻止生命尋找自己的道路。它不需要是所有人的家，它只需要是一個「歇腳地」，這就足夠了。\n於是，在十幾分鐘的心驚膽戰之後，阿德爾海德終於開始有精力把目光放到街頭那些堆積如山、閃耀著油光的烤牧獸肉排上。\n很鹹，鹹得心臟怦怦跳。",
+    "zh-CN": "阿德尔海德第一次感受到了文化冲击。\n塞什卡，“歇脚地”，巫术之都，萨卡兹的纽带，浪客的聚集地……她已经听过无数个有关它的名字，但直到走下热气球，亲自踏上那片地面，她才发现，“能够飞行”只是这片奇迹之地最最微不足道的一点儿小特色。\n这里简直就是一场永远都在进行的狂欢节。骚动几乎镌刻在了每一丝空气里，广场中央造型奔放的装饰熔炉喷涌着热浪，将吵闹和欢笑一同高高抛起。各种古怪商铺的门面在几条街争夺每一寸空间，人群接踵摩肩，往嘴里塞着叫不出名字的食物，流向远方一片连绵的招摇巨影——据说那里除了角斗场，还有塞什卡在开放时间为游客精心准备的萨卡兹风情观光区，但如果整个空间本身已经足够像个游乐园，专门划出一片区域的意义似乎非常微小。\n阿德尔海德的肚子又开始叫了。\n也许答应那位行商的邀请并不是个好主意。她当然听说过“巫术时刻”，但从来都买不起这家企业的任何一件商品。在老家，驱赶野兽只需要一把笤帚就足够了，武器和她的距离就像小镇到这里的路途一样遥远。仅仅只是帮忙把被天使掀翻的货车翻过来，值得对方介绍这里的工作机会吗？归根结底，她又能在这里做什么？\n行商正在远处办理登记手续，和专员说着一条又一条听不懂的东西。她突然意识到，除了自己的确是一个萨卡兹，她几乎对萨卡兹一无所知。那位高大健壮的佣兵是歌利亚吗？那位先生尖耳朵上的挂饰代表着什么？她不知道。她很饿，行商解释过，这也是种族特征之一，但明白知识没能解决任何问题。不如说，按照萨卡兹的标准，一直坚持不去“进食”的她也许才是最没有资格来这座城市的离经叛道者。\n肚子叫得更厉害了。每当感到害怕无助，冲动总是趁虚而入，让她更难压抑自己。比平时更糟糕的是，如果这时有人来问话，她该怎么回答？“对不起，我只是不想好好当个食腐者”？\n现在还有逃走的机会，那位行商应该还会经过小镇，之后再好好和他道歉吧。或者，至少先找个地方躲起来，让周围若有若无的注视再少一些……\n“你怎么啦？”\n一个声音把她从愈加黏腻的焦虑感中拽了回来。男孩侧着头，眼神比起疑惑更像是好奇：“那边有免费面包，和看门的叔叔说一声就可以拿。还有招工小册子，也不要钱。”\n“不……对不起，我没事。”她控制呼吸，尽量平复自己声音中的颤抖，“我在等人。”\n“哦，好吧。”男孩吸了吸鼻子，“总之别担心，这里机会多，会有办法的。我也花了两个礼拜呢。”\n这个小大人好像不太相信自己的说辞。阿德尔海德想了想，却没有开口辩解。对方的神情似乎有种奇特的魔力，让自己心中的担忧变轻了一些。\n男孩拍了拍她的肩膀，随后便重新汇入身旁一处人群。那里似乎不是游客的聚集点，工人围着脚手架挥汗如雨，商人皱着眉头写写画画，几位西装革履的体面人和佣兵勾搭在一起，似乎刚从酒桌上下来。大家看起来十分忙碌，却同样洋溢着和那个男孩一样让人放松的气氛：机会够多，总会有办法的。\n她看到男孩跑向那群佣兵，骂骂咧咧地替他们收拢武器，像牧童一样推着一群半醉的傻大个从金主身边挪往旅店。男孩的尾巴又短又尖，和她养父母的很像。\n少女突然想起了行商在热气球上说的一句话：“因为到处都是有困难的萨卡兹，我们让它飞了起来。可是，当它飞起来之后，你会看到，有困难的一定不止萨卡兹。”\n在成为一座飞空游乐园之前，“塞什卡”是一座开拓据点。不管被多少传奇围绕，被附加多少定义，一个面对未知、建立新家园的开拓据点不会阻止生命寻找自己的道路。它不需要是所有人的家，它只需要是一个“歇脚地”，这就足够了。\n于是，在十多分钟的心惊胆战之后，阿德尔海德终于开始有精力把目光放到街头那些堆积如山、闪耀着油光的烤牧兽肉排上。\n很咸，咸得心脏怦怦跳。",
+    "ja": "アーデルハイトは生まれて初めてカルチャーショックを受けた。\nセシュカ――「安らぎの地」、巫術の都、サルカズの絆、流浪者の集う場……数えきれない呼び名を耳にしてきたが、熱気球を降り、自分の足でその土地を踏んでから初めて気づいた。「飛べる」ことなど、この奇跡の地にとって取るに足らない特徴にすぎなかったのだ。\nそこは永遠に続くカーニバルだった。喧騒で満ちた空気に、広場の中央にある派手な装飾付きの溶炉が熱を吐き出すたび、ざわめきと笑い声が空へと舞い上がる。通りには怪しげな店が軒を連ね、場所を奪い合っていた。人々はもみくちゃになりながら、名も知らぬ食べ物を口いっぱいに放り込み、遠くにそびえる巨大な影へと流れていく――闘技場だ。セシュカの開放期間だけ、観光客向けに作られたサルカズ風の観光エリアも併設されている。だが、街全体がすでに遊園地のような有様なのだから、わざわざ特別な区画を設ける意味があるのかどうかは疑わしい。\n不意に、お腹が鳴った。\n行商人の誘いに応じたのは間違いだったのかもしれない。もちろん「ウィッチタイム」の名は知っている。だが、値段が故に、その企業の商品を一度も手にしたことはなかった。実家では獣を追い払うのに箒一本あれば十分。武器など、自分から最も遠い存在だ――実家の町からここまでの距離と同じくらい遠い。アンゲロスにひっくり返された荷車を起こしてあげただけで、この地で仕事を紹介してもらうほどのものなのだろうか？結局、自分はここで何ができるのだろうか？\n行商人は少し離れた場所で、担当者と何やら分からないやり取りをしながら、登録手続きを進めていた。自分は確かにサルカズだ。だが、サルカズについて何も知らない――その事実に、今さら気づかされた。あの背の高い逞しい傭兵はゴリアテなのだろうか。尖った耳に掛けられた飾りには、どんな意味があるのだろう。彼女は何も知らなかった。ただ1つ確かなのは、ひどくお腹が空いているということだけ。行商人は、それも種族の特徴の1つだと言っていた。だが、知識で腹は満たされない。むしろ、サルカズの基準からすれば、「食べる」ことを拒み続けてきた自分のほうが、この都市に来る資格などない異端者なのかもしれない。\nまた、お腹が鳴った。しかもさらに大きい音で。恐怖や不安を感じるたびに、衝動は隙を突いて入り込み、抑えるのが難しくなる。普段よりさらに厄介なのは――もし突然何か聞かれたら、なんと答えればいい？「ごめんなさい。ただ、ちゃんとしたナハツェーラーになりたくないだけなんです」……そう言えばいいのだろうか？\nまだ逃げられるチャンスはある。行商人が実家の町を通るはずで、そのときに謝ればいい。あるいは、視線から逃れられる隠れ場所を探すのも……\n「どうしたの？」\n声が、彼女を泥のように沈みかけていた焦燥感から引き上げた。首をかしげている少年の目に浮かんでいたのは、疑問というより、好奇心の色だった。「あそこに無料のパンがあるよ。門番のおじさんに言えばもらえる。求人のパンフレットもある。あれもタダなんだ。」\n「えっと……すみません。あの……わたしは、大丈夫なんです。」アーデルハイトは呼吸を整え、できるだけ声の震えを抑えた。「わたし……人を、待っているんです。」\n「ふぅん、そうなんだ。」少年は鼻をすすりながら答えた。「とりあえず、心配はいらないよ。ここはチャンスがたくさんあるし、きっと何とかなる。僕も最初の2週間は苦労したしね。」\nこの大人びた少年は、自分の言葉を信じていないようだった。アーデルハイトは少し考えたが、それ以上説明しようとは思わなかった。相手の顔には妙な魔力があって、心の中の不安が少し和らいでいく気がしたのだ。\n少年は彼女の肩を軽く叩くと、人混みの中へと戻っていった。そこは観光客が集まる場所ではなかったようだ。作業員たちは足場を囲んで働き、汗を雨のように流している。商人は眉をひそめ、何かを書きつけていた。スーツ姿の数人は傭兵と連れ立ち、酒席から出たばかりのように見える。誰もが忙しそうだったが、さっきの少年と同じように、人の気を少し緩める空気を纏っていた――チャンスは十分にある。きっと何とかなる、と。\n少年は傭兵たちのもとへ駆け寄ると、ぶつぶつと何かを言いながら武器を片づけ、酔いつぶれた大男を家畜の世話をするかのように追い立てていった。そのまま依頼人の横を通り、宿屋へと向かっていく。短く尖った尻尾は、自分の里親とよく似ていた。\n少女はふと、行商人が熱気球の中で言った言葉を思い出した。「困っているサルカズが至るところにいるから、これを飛ばした。だが、空に上がってから気づいた。困っているのはサルカズだけじゃないということに。」\n空を飛ぶ遊園地になる前、「セシュカ」はただの開拓拠点だった。どれだけ伝説を背負おうと、どれだけ定義されようと――未知と向き合い、新しい居場所を築く開拓拠点は、生きるものが自分の道を探すことを妨げることはない。すべての人にとっての居場所になる必要もない。ただの「安らぎの地」であれば、それで十分なのだ。\nこうして十数分、びくびくと俯いていたアーデルハイトはようやく顔をあげて、通りに目を向けた――山のように積み上げられ、脂で輝く牧獣のステーキに。\nしょっぱい。しょっぱくて、心臓がバクバクと騒いだ。",
+    "ko": "아델하이드는 처음으로 문화 충격을 느꼈다.\n세쉬카, '걸음을 멈추는 곳', 주술의 도시, 살카즈의 유대, 방랑자들의 집결지... 그녀는 이곳에 대해 수많은 별명으로 들어왔지만, 열기구에서 내려 직접 그 땅을 밟고 나서야 깨달았다. '날 수 있다'는 것은 이 기적의 땅이 가진 가장 사소한 특징에 불과하다는 것을.\n소란스러움이 공기 한 올 한 올에 새겨진 듯했다. 광장 중앙의 자유분방한 모습의 장식 용광로가 열기를 뿜어내며, 소음과 웃음소리를 함께 하늘 높이 쏘아 올렸다.\n온갖 기괴한 상점들이 좁은 거리마다 빽빽이 늘어서 있었다. 사람들은 어깨를 부딪치며 이름 모를 음식을 입에 쑤셔 넣고, 저 멀리 거대하고 화려한 그림자가 끝없이 이어진 곳으로 흘러갔다. 그곳에는 격투장 외에도 세쉬카에서 오픈 시간에 맞춰 관광객을 위해 마련한 살카즈 풍의 관광단지도 있다고 한다. 하지만 이 모든 공간 자체가 이미 놀이공원 같은 분위기였기에, 굳이 별도의 구역을 나눌 필요가 있을까 싶었다.\n아델하이드의 배에서 또 꼬르륵 소리가 나기 시작했다.\n그 상인의 초대를 받아들인 건, 어쩌면 좋은 선택이 아니었을지도 모른다. 그녀도 물론 '주술 타임'이라는 이름을 들어 본 적은 있었다. 하지만 그 회사의 상품을 그 어느 것도 살 수 없었다. 그녀가 사기엔 너무 비쌌기 때문이다. 고향에서는 야수쯤은 빗자루 하나면 쫓아낼 수 있었고, 무기라는 것은 그녀에게 있어 마을에서 여기까지의 거리만큼이나 멀게만 느껴졌다. 그저 아겔로스한테 뒤집힌 화물차를 바로 세우는 걸 도왔을 뿐인데, 그 대가로 이곳의 일자리를 소개받을 자격이 있을까? 결국, 그녀가 여기서 할 수 있는 일이 있기는 할까?\n상인은 저 멀리서 등록 절차를 밟으며 담당자에게 알아들을 수 없는 말들을 쏟아내고 있었다. 그녀는 문득 깨달았다. 자신이 살카즈라는 사실 외에는, 살카즈에 대해 아는 것이 거의 없다는 것을. 저 건장한 용병은 '골리앗'일까? 저 남자의 뾰족한 귀에 걸린 장식은 무엇을 의미할까? 알 수 없었다. 배가 고팠다. 상인의 설명에 따르면 이것 또한 살카즈의 특징이라고 했지만, 지식으로 안다고 해서 문제가 해결되지는 않았다. 오히려, 살카즈의 기준으로 본다면, '식사'를 거부해 온 그녀야말로 이 도시에 올 자격이 없는 가장 이단적인 존재일지도 몰랐다.\n배의 꼬르륵 소리가 점점 더 크게 울렸다. 두려움과 무력감이 엄습할 때면, 충동은 그 틈을 파고들어, 스스로를 억누르기 더 힘들게 만들었다. 하지만 더 최악인 것은, 만약 지금 누가 말을 걸어온다면 뭐라고 대답해야 할까? \"죄송해요, 전 그저 나흐체러르가 되고 싶지 않을 뿐이에요.\"라고 해야 할까?\n아직 도망칠 기회는 있었다. 상인은 아마 다시 마을을 지날 것이다. 나중에 그에게 정중히 사과하면 되겠지. 아니면, 적어도 어디든 숨을 곳을 찾아 사방에서 느껴지는 있는 듯 없는 듯한 시선이 조금이라도 줄어들 때까지라도...\n\"괜찮아?\"\n누군가의 목소리가 그녀를 더 짙어져 가는 불안감에서 끌어냈다. 소년은 고개를 갸웃하며, 의아함보다는 호기심에 찬 눈빛으로 말했다. \"저쪽에 공짜 빵 있어. 문지기 아저씨한테 말하면 그냥 줄 거야. 채용 팸플릿도 있는데 그것도 공짜고.\"\n\"아니... 미안, 괜찮아.\" 그녀는 호흡을 가다듬으며 목소리의 떨림을 애써 감췄다. \"그냥 누구를 좀 기다리고 있어.\"\n\"아, 그래? 알았어.\" 소년은 코를 훌쩍였다. \"아무튼 걱정 마. 여기엔 기회가 많으니까, 어떻게든 될 거야. 나도 2주나 걸렸거든.\"\n애어른 같은 이 소년은 그녀의 말을 믿지 않는 듯했다. 아델하이드는 잠시 생각했지만, 굳이 변명하지 않았다. 상대의 표정에는 왠지 모를 신기한 힘이 있어, 마음속의 걱정을 조금 가볍게 만들어 주었다.\n소년은 그녀의 어깨를 토닥이더니, 다시 옆에 있는 인파 속으로 섞여 들어갔다. 그곳은 관광객이 모이는 곳이 아니었다. 비계 위 작업자들은 비지땀을 흘리고 있었고, 상인들은 얼굴을 찌푸린 채 무언가를 써 내려가고 있었다. 정장을 멋지게 차려입은 신사 몇몇이 용병들과 어울려 있었는데, 방금 술자리에서 나온 듯했다. 모두 몹시 바빠 보였지만, 동시에 그 소년에게서 느꼈던 것과 같은 여유로움을 풍기고 있었다. '기회는 많고, 어떻게든 방법은 있다.'\n그녀는 소년이 용병 무리에게 달려가 투덜거리며 그들의 무기를 챙기는 것을 보았다. 그는 마치 목동처럼, 반쯤 취한 덩치 큰 바보들을 밀어붙이며 '물주' 곁에서 여관 쪽으로 데려갔다. 소년의 꼬리는 짧고 뾰족했는데, 그녀의 양부모님 꼬리와 비슷했다.\n소녀는 불현듯 열기구 위에서 상인이 했던 말을 떠올렸다. \"곳곳에 어려움을 겪는 살카즈들이 있기에, 우리는 이것을 띄웠지. 하지만, 이 위에서 네가 보게 될 건... 어려움에 처한 이들이 살카즈뿐만은 아니라는 거야.\"\n하늘을 나는 놀이동산이 되기 전, '세쉬카'는 개척 거점이었다. 얼마나 많은 전설에 둘러싸여 있든, 얼마나 많은 의미가 부여되었든, 미지의 세계를 마주하고 새로운 터전을 일구는 개척 거점은 생명이 자신만의 길을 찾는 것을 막지 않는다. 이곳은 모두의 집이 될 필요는 없었다. 그저 '걸음을 멈추는 곳'이기만 하면, 그것으로 충분했다.\n그렇게 가슴 졸이던 십여 분의 시간이 지나고 나서야, 아델하이드는 마침내 거리의 노점에 산더미처럼 쌓인, 기름지고 반짝이는 스톡비스트 스테이크에 시선을 돌릴 여유가 생겼다.\n정말 짰다. 심장이 쿵쿵 뛸 만큼."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "\"Why?\"\nThe legendary senior business consultant of Seš'qa, one of the lead brand managers of the Witching Hour, the downtrodden Sarkaz merchant, \"Bridge Builder\" Fleming, was taken aback by this simple question. Though it came right out of the blue, Fleming quickly regained his cool, tidied his tie, and started counting the stars as he readied himself for the banter. \nThe Feline who stood before him always made him tingle with a strange nervousness, ever since that snowy night. \n\"Ahem. First thing first... We genuinely appreciate Endfield's acceptance of Adelheid. Seš'qa hereby extends its most sincere gratitude.\" \n\"Good. That means you'll pay extra for her additional catering fees. Right?\" \n\"Trust me. Sending her to Endfield is considered a loss for our business.\" \n\"Oh. You have a slogan for Last Rite ... the Princess of the War Court? Very loud and attention grabbing. Must have made you a fortune.\" \nFleming laughed. He usually laughs as a means of dealing with his opponent on the negotiating table. But at this moment, he was laughing to give himself a chance to breathe. \nM3 paid no attention to Fleming's peculiarities. Her gaze was reserved for Adelheid, seated uncomfortably outside the office — Last Rite herself. Fleming sensed M3's curiosity. He cannot afford to miss the opportunity to regain his initiative. \n\"What do you think of Miss Last Rite?\" \n\"I think she's hungry,\" M3 said without averting her gaze from the girl in question. Fleming tried to remember things. Rumors speak of the Feline's ties with the origins of Kazdel, and she hardly paid this much attention to other talents he recommended. \"How could you let such a lovely girl starve?\" \n\"I swear...\" \n\"I think you need to pay an additional catering fee to Endfield Industries. Maybe we should set this sum to...\" \n\"I *SWEAR* this is for the best!\" \nFleming immediately realized that he had slipped. His opponent was simply trying to muddy the waters... No. She was just having a friendly banter. Why did he suddenly break his composure? \n\"And why is that?\" \n\"Ugh... You know, a Nachzehrer in a cemetery with an extreme 'shame of consuming'... She has consistently refused to touch the deaths of others. Her constant hunger is only a natural consequence.\" \n\"No, no, no... You got it all wrong...\" \nM3 maintained her coy, relaxed tone. But that was not the worst for Fleming. What stressed him out more was the fact that she had not smiled ever since he stepped aboard Dijiang. \n\"You know the Sarkaz. No amount of roasted steak fillets could fill an empty soul.\" \n\"Soul? You believe in souls?\" \n\"Ahem... Every Sarkaz who benefited from the protection of the myriad souls believes in them.\" \n\"I'm sure the myriad souls will be happy to know that,\" M3 finally moved her gaze away from the girl. She hesitated, a rare opportunity. But Fleming did not treat this as a good sign, \"But the time does not match.\" \n\"I understand... It took place over a century ago. Nevertheless, Adelheid is definitely a young girl of only seventeen or eighteen years.\" \n\"Right. So, why?\" \nFleming kept his bitter smile inside. Nevertheless, he decided to confront this question directly. \n\"I don't know. But like you said ... she remains very hungry.\" \n\"Even with 'that thing' following her around? That's practically unheard of.\" \nThat genuinely surprised Fleming, if only a little. \"Find it rather astonishing that there are things you have not heard about.\" \nFleming immediately regretted it when those words blurted out of his mouth. Thankfully, M3 was not in the leisurely mood to interpret his verbal mishap as a taunt. \n\"A vast land has perished in her shadow. Millennia-worth of winters heed her beck and call. Yet she remains hungry.\" \n\"It's the blood. We found other Nachzehrers. So many deaths are birthed upon this planet everyday. We have no desire to see another War Court appear without warning. But ... this child is obviously an exception. She has not been 'fed' because she respects every crew mate, messenger, and soldier who died in the frontiers. She could not bring herself to do it. In fact, she refuses to do it.\" \n\"Then how did her power...\" \n\"'Though she did not consume the dead to strengthen herself, Death remains willing to assist her.' That wendigo friend of yours gave this assessment.\" \n\"...Nezzsalem would be extremely moved if he were here.\" \n\"But that also means the child is destined to take on burdens that shouldn't be hers.\" \n\"I suppose this is the actual reason you recommended her to Endfield.\" \n\"If Adelheid hopes to take upon a path of her choice, I believe Endfield Industries will be her best instructor.\" \nM3 was obviously taken aback. Fleming himself was also stunned by her reaction. He knew that M3 never expected him to give such a ... soft and compassionate answer. However, he also did not expect M3 to had judged him so poorly. It was a depressing realization for the merchant and consultant. \n\"Well, Fleming ... perhaps you are kinder than I thought.\" \nThose words allowed Fleming's confidence to return. \n\"And that is also your kindest evaluation of my character for all these years we've known each other, Miss M3.\" \nM3 sighed. It would seem she finally allowed herself to relax. \"Now, how would you like Endfield to treat her?\" \n\"The usual,\" Fleming smiled from the bottom of his heart for the first time in this dialog. \"Let her do what she wants, like a normal child. Let her live, get into trouble, grow up, and earn her keep. It would be wonderful if she gets to make a few friends and discover what she wants out of life...\" \n\"Treating her as your own?\" \n\"Hah. Me? My blood's too poor for her,\" Fleming also shifted his gaze to the window. Adelheid was already getting overwhelmed by other Endfield operators trying to start a conversation with her. \n\"But before Talos-II forces humanity to the brink of extinction, before Death completely fashions her bloodied throne, and before the next Sovereign of the Nachzehrers is forced to manifest upon this planet ... she simply remains as a shy little Sarkaz girl.\"",
+    "zh-TW": "「為什麼？」\n大名鼎鼎的塞什卡高級商業顧問，「巫術時刻」品牌創辦人之一，可憐的薩卡茲商人，「築橋者」弗萊明，被這個無比簡單的問題而嚇了一跳。儘管感到莫名其妙，但他很快調整好了狀態，整理領帶，數著窗外的星星進入對話。\n面對眼前的菲林，他總是和多年前那個大雪紛飛的夜晚同樣，感到一種奇妙的緊張。\n「咳，首先……感謝終末地接納了阿德爾海德，塞什卡向各位表達謝意。」\n「那你付一下額外的伙食費吧。」\n「相信我，派遣她來終末地對我們來說已經是虧本生意了。」\n「哦？別禮小姐不是那個什麼……『戰爭王庭的公主』嗎？這來頭可不算小，有得賺吧？」\n弗萊明笑了起來。如果是平常，這種笑聲是與對手周旋的一種手段，而現在，更像是給自己喘口氣的機會。\nM3沒有理會弗萊明，只是看著辦公室外坐立不安的阿德爾海德——也就是別禮本人。弗萊明察覺到了這份好奇，他不能放過重新把握話題的機會。\n「您對別禮小姐怎麼看？」\n「飢餓。」M3的視線沒有離開別禮，在弗萊明的記憶中，這個據說和卡茲戴爾淵源不淺的菲林，其實很少這樣打量他介紹來的人才，「你怎麼能讓這麼可愛的女孩餓肚子？」\n「我發誓……」\n「你還是得多付終末地一筆伙食費，不如就定……」\n「我發誓這是最好的辦法！」\n弗萊明立刻察覺到了自己的失態。對方只是在插科打諢……不對，只是在友善地開著玩笑，自己怎麼能急了呢？\n「那是為什麼？」\n「唉……您知道，一位食腐者，待在墓園，還有強烈的『進食羞恥』……不願意觸碰他人的死亡，會時時刻刻感到飢餓，是理所當然的事情。」\n「不對……不對……」\nM3依然是那副悠哉的語氣，但真正讓弗萊明倍感壓力的是，從抵達帝江號開始，他就沒看過她的笑容。\n「您是瞭解薩卡茲的。再多烤肉排也填補不了一個空虛的靈魂。」\n「你是相信靈魂的那種人？」\n「咳咳……曾受眾魂庇護的薩卡茲當然會相信靈魂。」\n「那眾魂知道一定會很高興的。」M3終於把目光從別禮身上移開，她難得地猶豫了，但對於弗萊明而言依然不是個好的訊號，「時間對不上。」\n「我知道……那是一百多年前的事了。阿德爾海德是貨真價實的十七八歲的小女孩。」\n「所以，是為什麼？」\n弗萊明在內心苦笑了起來。但他決定坦誠回答這個問題。\n「我不知道。但就像您說的……她依然很餓。」\n「即使有『那個東西』跟著她？聞所未聞。」\n弗萊明有些驚訝，真正的驚訝：「還會有您聞所未聞的事情？」\n話出口，弗萊明就有點後悔。好在M3並沒有什麼閒情逸致去把他的失言理解為一種挑釁。\n「已經有一片浩大的土地死在了她的影子裡，幾十個世紀的寒冬都在聽從她的差遣，她卻仍然感到飢餓。」\n「血統。我們尋找過其他食腐者，這顆星球每天會誕生那麼多死亡，我們可不敢由著第二個戰爭王庭憑空出現。但是……這孩子明顯是個特例。她從未『進食』過，因為她覺得那些死在開拓區的工人、信使、戰士，都是值得尊敬的人。她不忍心，也不願意。」\n「那她的力量又是怎麼……」\n「您認識的那位溫迪戈是這樣評價的：『她沒有吞食任何的死亡來壯大自己，即使死亡會心甘情願地協助她。』」\n「……孽茨雷要是在這裡一定會很感動吧。」\n「可是，這也意味著那孩子注定要承擔許多不該由她背負的東西。」\n「這才是你把她引薦給了終末地的原因。」\n「如果阿德爾海德本人希望走她自己認定的路，我想終末地工業會是她最好的老師。」\nM3明顯愣了一下。然後弗萊明也愣了一下。他明白，M3沒有想到他會給出這麼……溫柔的答案。但弗萊明也沒想到M3對他的評價如此之低，令身為商人和顧問的他略感沮喪。\n「嗯……也許你比我想的更熱心腸，弗萊明。」\n弗萊明又有了點信心。\n「這是認識這麼多年，您對我最好的評價，M3小姐。」\nM3嘆了口氣，她似乎終於放鬆了一些：「那麼，你希望終末地怎麼對待她？」\n「就和現在一樣。」弗萊明也笑了，這一次是發自內心的，「讓她去做她願意做的事，像一個普通的孩子那樣，努力生活，遇到一些挫折，得到一些成長，賺幾個錢養活自己。最好還能收穫幾位知己，找到自己的人生目標……」\n「你是把她當女兒了？」\n「哈，那我可配不上。」弗萊明也把目光望向窗外，阿德爾海德正因為幹員們的搭話而開始暈頭轉向。\n「但在塔衛二把人類逼上絕境前，在死亡為她砌好那座血肉模糊的王座前，在塔衛二被迫出現下一位食腐者之王前……她也只是個怕生的薩卡茲小女孩而已。」",
+    "zh-CN": "“为什么？”\n大名鼎鼎的塞什卡高级商业顾问，“巫术时刻”品牌主理人之一，可怜的萨卡兹商人，“筑桥者”弗莱明，被这个无比简单的问题而吓了一跳。尽管感到莫名其妙，但他很快调整好了状态，理了理领带，数着窗外的星星进入对话。\n面对眼前的菲林，他总是和多年前的那个大雪纷飞的夜晚同样，感到一种奇妙的紧张。\n“咳，首先……感谢终末地接纳了阿德尔海德，塞什卡向各位表达谢意。”\n“那你付一下额外的伙食费吧。”\n“相信我，派遣她来终末地对我们来说已经是亏本生意了。”\n“哦？别礼小姐不是那个什么……‘战争王庭的公主’吗？这噱头可不算小，有得赚吧？”\n弗莱明笑了起来。放在平时，这种笑声是与对手周旋的一种手段，而现在，更像是给自己喘口气的机会。\nM3没有理会弗莱明，只是看着办公室外坐立不安的阿德尔海德——也就是别礼本人。弗莱明察觉到了这份好奇，他不能放过重新把握话题的机会。\n“您对别礼小姐怎么看？”\n“饥饿。”M3的眼没有离开别礼，在弗莱明的记忆里，这个据说和卡兹戴尔渊源不浅的菲林，其实很少这样打量他介绍来的人才，“你怎么能让这么可爱的姑娘饿肚子？”\n“我发誓……”\n“你还是得多付终末地一笔伙食费，不如就定……”\n“我发誓这是最好的办法！”\n弗莱明立刻察觉到了自己的失态。对方只是在插科打诨……不对，只是在友善地开着玩笑，自己怎么能急眼呢？\n“那是为什么？”\n“唉……您知道，一位食腐者，待在墓园，还有强烈的‘进食羞耻’……不愿意触碰他人的死亡，会时时刻刻感到饥饿，是理所当然的事情。”\n“不对……不对……”\nM3依然是那副优哉游哉的语气，但真正让弗莱明倍感压力的是，从抵达帝江号开始，他就没见过她的笑容。\n“您是了解萨卡兹的。再多烤肉排也填补不了一个空虚的灵魂。”\n“你是相信灵魂的那种人？”\n“咳咳……曾受众魂庇护的萨卡兹当然会相信灵魂。”\n“那众魂知道一定会很高兴的。”M3终于把目光从别礼身上挪开，她难得地犹豫了，但对于弗莱明而言依然不是个好信号，“时间对不上。”\n“我知道……那是一百多年前的事儿了。阿德尔海德是货真价实的十七八岁的小姑娘。”\n“所以，是为什么？”\n弗莱明在内心苦笑了起来。但他决定坦诚回答这个问题。\n“我不知道。但就像您说的……她依然很饿。”\n“即使有‘那个玩意儿’跟着她？闻所未闻。”\n弗莱明有些惊讶，真正的惊讶：“还会有您闻所未闻的事情？”\n话出口，弗莱明就有些后悔。好在M3并没有什么闲情逸致去把他的失言理解为一种挑衅。\n“已经有一片浩大的土地死在了她的影子里，几十个世纪的寒冬都在听从她的差遣，她却仍然感到饥饿。”\n“血统。我们寻找过其他食腐者，这颗星球每天会诞生那么多死亡，我们可不敢由着第二个战争王庭凭空出现。但是……这孩子明显是个特例。她从未‘进食’过，因为她觉得那些死在开拓区的工人、信使、战士，都是值得尊敬的人。她不忍心，也不愿意。”\n“那她的力量又是怎么……”\n“您认识的那位温迪戈是这么评价的：‘她没有吞吃任何的死亡来壮大自己，即使死亡会心甘情愿地协助她。’”\n“……孽茨雷要是在这儿一定会很感动吧。”\n“可是，这也意味着那孩子注定要承担许多不该由她背负的东西。”\n“这才是你把她引荐给了终末地的原因。”\n“如果阿德尔海德本人希望走她自己认定的路，我想终末地工业会是她最好的老师。”\nM3明显愣了一下。然后弗莱明也愣了一下。他明白，M3没有想到他会给出这么……温柔的答案。但弗莱明也没想到M3对他的评价如此之低，令身为商人和顾问的他略感沮丧。\n“嗯……也许你比我想的更热心肠，弗莱明。”\n弗莱明又有了点信心。\n“这是认识这么多年，您对我最好的评价，M3女士。”\nM3叹了口气，她似乎终于放松了一些：“那么，你希望终末地怎么对待她？”\n“就和现在一样。”弗莱明也笑了，这一次是发自真心的，“让她去做她愿意做的事，像一个普通的孩子那样，努力生活，遇到一些挫折，得到一些成长，赚几个子儿养活自己。最好还能收获几位知己，找到自己的人生目标……”\n“你把她当女儿了？”\n“哈，那我可配不上。”弗莱明也把目光放向窗外，阿德尔海德正因为干员们的搭话而开始晕头转向。\n“但在塔卫二把人类逼上绝境前，在死亡为她砌好那座血肉模糊的王座前，在塔卫二被迫出现下一位食腐者之王前……她也只是个怕生的萨卡兹小姑娘而已。”",
+    "ja": "「なぜだ？」\nセシュカの名高いシニア・ビジネスコンサルタントで、「ウィッチタイム」ブランドマネージャーの1人、哀れなサルカズ商人――「架橋者」フレミングは、あまりにも単純な質問に息を飲みこんだ。妙な違和感に戸惑いを感じたが、すぐ気を取り直してネクタイを指先で整える。そして、窓の外の星に目を向け、その間に言葉を探す。\nこのフェリーンを目の前にすると、雪舞う夜の記憶が甦り、胸の奥に一抹の緊張感が走る。\n「んんっ……まずは、エンドフィールドがアーデルハイトを受け入れてくださったことに、セシュカを代表して感謝申し上げます。」\n「なら、食費を追加で払ってもらおうか。」\n「……我々にとっては彼女をエンドフィールドに派遣する、それ自体が既に赤字覚悟であるとご理解いただきたい。」\n「ああ、ラストライトは……確か、『戦争王庭の姫』だったね。なかなかいい看板だ。十分儲かっているんだろう？」\nフレミングの顔に乾いた笑いが浮かんだ。交渉では常に武器として使っていた微笑み。しかし、今は己に一息つく暇を与えているだけにすぎなかった。\nM3はフレミングに構うことなく、オフィスの外でそわそわしているアーデルハイト――つまり、ラストライト本人を見ていた。それに気づいたフレミングは、会話の主導権を逃すまいと慌てて口を開いた。\n「ラストライトについて……どう思われますか？」\n「飢えているな。」M3は視線を動かさない。フレミングの知る限り、カズデルと浅からぬ縁を持つこのフェリーンが、紹介した人材をこれほど観察するのは珍しいことだった。「こんなに可愛い娘が、お腹を空かせたままなんてね。」\n「いや、それは……」\n「やはり、食費を払ってもらう必要があるかもしれないね。ああ、こうしては……」\n「――これが間違いなく最善の策なのです！」\nその瞬間、フレミングは自分の失態に気づいた。相手は場の雰囲気を考えて冗談を……いや、ただ軽口を叩いただけだ。それなのに、なぜ自分はこんなに感情的になってしまったのか。\n「つまり？」\n「それは……貴方もご存知でしょう。墓場で暮らすナハツェーラーでありながら、『食』に強い『羞恥心』を抱き……他者の死に触れようともしない。故に、常に飢えを感じるのも、至極当然の話なのだと。」\n「……違うな……」\nM3の口調は穏やかなままだった。だが、フレミングは帝江号に来てから一度もM3の笑顔を見ていない――プレッシャーが募っていく。\n「サルカズをよくご存知の貴方なら理解できるはずです。焼いたステーキをどれだけ与えても、空虚な魂を満たすことなどできない。」\n「君は、魂の存在を信じていると？」\n「……サルカズは『魂』に守られてきたのですから、信じない理由はありません。」\n「そうか。サルカズの魂はきっと喜ぶだろうね。」M3はようやくラストライトから目を移した。ただ、その一瞬の沈黙はフレミングにとって、もちろん良いものではなかった――「時系列が合わない。」\n「ええ、それは承知しています……あれは百年前の出来事。しかし、アーデルハイトは紛れもなく齢17、18の少女です。」\n「では――なぜだ？」\nフレミングは心の中で自分が苦笑するのを感じた。しかし、誠意をもって正直に答えた。\n「わかりません。ですが……貴方の仰る通り、彼女はずっと空腹のままなのです。」\n「『あれ』がついているとしても？そんな話、聞いたことがない。」\nフレミングは思わず目を見開いた。あまりにも素直に驚いてしまった。「貴方でも、聞いたことのないことが……？」\n言い終わってすぐ、後悔した。M3が挑発と受け取るほどの余裕がなかったことは、幸いだった。\n「彼女の影には、雄大な土地の死がある。数十世紀に及ぶ冬が、彼女に従っている。それでもなお、彼女は飢えている。」\n「血統でしょう。他のナハツェーラーも調べたのです――この星には日々、膨大な死が生まれる。第2の戦争王庭を生む可能性を放置するわけにはいきません。ですが……この子は間違いなく特別です。一度も「摂食」をしていないのですから。開拓エリアの作業員も、トランスポーターも、戦士も、敬意を持つべき存在として、その死を糧にすることなどとても出来ぬと……」\n「なら、力はどこから……」\n「貴方もご存知のウェンディゴはこう評していました。『彼女は己を満たすために死を喰らうことはない。それでも死は、喜んで彼女を助けようとする。』」\n「……ネツァレムがここにいたら、感動しただろうね。」\n「ですが、それは同時に本来背負うべきではないものを背負っているということでもあります。」\n「だから、エンドフィールドに推薦したのか。」\n「もし、アーデルハイトが自分で選んだ道を歩みたいと望むなら、エンドフィールドが最も相応しい師になるはずだと……」\nM3は言葉を飲んだ。フレミングも一瞬、自分の動きが止まったのがわかった。M3はきっと、こんなにも優しい答えが返ってくると思っていなかったのだろう……M3の、自分に対する評価は低いのだ。商人として、コンサルタントとして、ほんの少しの落胆を覚えた。\n「そうだね……フレミング。君は、思っていたよりずっと情に厚いらしい。」\nその言葉に、僅かながら自信を取り戻した。\n「これまでの長い付き合いの中でも、最高の褒め言葉ではないでしょうか、M3さん。」\nM3は小さく息を吐き、微かに表情を緩めてこう言った。「それで、エンドフィールドはどうすればいい？」\n「今のままで十分です。」フレミングは微笑んだ。心からの笑顔だった。「やりたいことをやらせてあげてください。普通の子のように、懸命に努力して、時に挫折し、また成長する……生きていくのに必要なお金を稼いで、可能なら彼女を理解してくれる人が側に何人かいて、それで、人生の目標を見つけられたなら……」\n「……娘のようだな。」\n「はは、それはさすがに不相応かと……」フレミングも窓の外へと目を向けた。オペレーターたちに声をかけられ、あたふたと落ち着かない様子のアーデルハイトが目に入ってくる。\n「タロⅡが人類を絶望に導く前に、死が彼女のために血に濡れた王座を築く前に、タロⅡに次のナハツェーラーの王が誕生する前に――でも、今のアーデルハイトは……ただの恥ずかしがり屋なサルカズの少女にすぎません。」",
+    "ko": "\"왜죠?\"\n명성이 자자한 세쉬카의 수석 비즈니스 고문이자, '주술 타임' 브랜드 책임자 중 한 명이며, 가련한 살카즈 상인이자 '교량 건설자'인 플레밍은 이 지극히 단순한 질문에 적잖이 놀랐다. 황당했지만, 그는 곧바로 자세를 가다듬고 넥타이를 고쳐 맨 뒤, 창밖의 별을 세며 대화를 이어갔다.\n눈앞의 필라인을 마주할 때면, 그는 몇 년 전 눈보라가 몰아치던 그날 밤처럼 기묘한 긴장감을 느꼈다.\n\"크흠, 우선... 아델하이드를 받아 준 엔드필드에 감사드립니다. 세쉬카를 대표해 감사의 뜻을 표합니다.\"\n\"그럼, 추가 식비라도 내시죠.\"\n\"믿어 주세요. 아델하이드를 엔드필드에 보내는 것만으로도 우리에겐 이미 손해 보는 장사입니다.\"\n\"네? 라스트 라이트 씨는 그... '전투 왕정의 공주' 아니었나요? 이목을 끌기에는 더없이 좋은데, 돈벌이가 되지 않나요?\"\n플레밍은 웃음을 터뜨렸다. 평소라면 이 웃음은 상대를 구슬리기 위한 수단이었겠지만, 지금은 그저 한숨 돌릴 기회를 버는 것에 가까웠다.\nM3는 플레밍을 무시한 채, 사무실 밖에서 어쩔 줄 몰라 하는 아델하이드, 즉, 라스트 라이트만 빤히 쳐다봤다. 플레밍은 그 궁금증 어린 시선을 놓치지 않았다. 다시 대화의 주도권을 잡을 기회를 놓칠 수 없었다.\n\"라스트 라이트 양을 어떻게 보십니까?\"\n\"굶주림이죠.\" M3의 눈은 여전히 라스트 라이트에게 고정되어 있었다. 플레밍의 기억 속, 카즈델과 인연이 깊다는 필라인이 그가 소개한 인재를 이렇게까지 뜯어보는 일은 드물었다. \"이렇게 귀여운 아가씨를 굶게 만들다니, 어떻게 그럴 수 있죠?\"\n\"맹세컨대...\"\n\"아무래도 엔드필드에 식비를 더 내야겠군요. 어디 보자...\"\n\"맹세컨대 그게 최선의 방법이었습니다!\"\n플레밍은 자신이 실언했음을 즉시 깨달았다. 상대는 그저 농담을... 아니, 그저 친근하게 장난을 친 것뿐인데, 자신이 이렇게 흥분하다니.\n\"그럼 왜죠?\"\n\"하아... 아시다시피, 아델하이드는 나흐체러르인데 묘지에 머물고 있으면서, '식사에 대한 수치심'까지 강하게 갖고 있습니다... 타인의 죽음을 받아들이길 꺼리니, 늘 배고픔을 느끼는 건 당연한 일이죠.\"\n\"아니... 아니지...\"\nM3는 여전히 태평한 말투였지만, 플레밍을 진정으로 압박하는 것은 자신이 제강호에 도착한 이래로 그가 그녀의 웃는 모습을 단 한 번도 본 적이 없다는 사실이었다.\n\"당신은 살카즈를 잘 알잖습니까. 산더미 같은 고기 스테이크로도 공허한 영혼을 채울 순 없습니다.\"\n\"영혼의 존재를 믿는 타입이셨나요?\"\n\"크흠... 살카즈의 영혼의 비호를 받는 살카즈라면 당연히 영혼을 믿습니다.\"\n\"그럼 살카즈의 영혼도 분명 기뻐하겠죠.\" M3는 마침내 시선을 라스트 라이트에게서 거두었다. 그녀는 드물게 망설이는 듯했지만, 플레밍에게는 여전히 좋은 신호가 아니었다. \"시간상으로 맞지 않아요.\"\n\"저도 압니다... 그건 백 년도 더 된 일이지요. 아델하이드는 진짜 17, 18살의 소녀입니다.\"\n\"그러니까 어떻게 그럴 수 있죠?\"\n플레밍은 속으로 씁쓸히 웃었다. 하지만 솔직하게 대답하기로 결심했다.\n\"모릅니다. 하지만 당신이 말한 대로... 아델하이드는 여전히 몹시 배고파합니다.\"\n\"그 '물건'이 그녀를 따라다니는데도요? 처음 들어보네요.\"\n플레밍은 조금, 아니 진심으로 놀랐다. \"당신이 들어 본 적 없는 일도 있었습니까?\"\n말을 내뱉자마자 플레밍은 후회했다. 다행히 M3는 그의 실언을 도발로 받아들일 만큼 한가하지 않았다.\n\"이미 광활한 대지가 그녀의 '그림자' 속에서 죽어갔고, 수십 세기의 혹한이 그녀의 명령을 따르는데, 그녀는 여전히 굶주려 있단 말이죠.\"\n\"혈통 때문입니다. 다른 나흐체러르를 찾아봤습니다. 이 행성에선 매일같이 수많은 죽음이 태어나는데, 두 번째 전투 왕정이 터무니없이 나타나도록 내버려둘 수는 없었으니까요. 하지만... 이 아이는 명백히 특이 케이스입니다. 단 한 번도 '식사'를 하지 않았습니다. 개척 지역에서 죽어간 작업자, 전달자, 전사들을 존중해야 할 사람으로 여겼기에 차마 그럴 수... 그러고 싶지도 않았던 겁니다.\"\n\"그럼 그 힘은 도대체...\"\n\"당신도 아는 그 웬디고는 이렇게 말하더군요. '죽음이 기꺼이 그녀를 돕겠다고 나서는데도, 그녀는 스스로를 강하게 하려 그 어떤 죽음도 삼키지 않았다'고요\"\n\"...네츠살렘이 여기 있었으면 분명 크게 감동했겠어요.\"\n\"하지만, 그건 이 아이가 짊어지지 않아도 될 많은 것들을 짊어지고 가야 한다는 뜻이기도 합니다.\"\n\"그래서 그녀를 엔드필드에 추천한 거군요.\"\n\"아델하이드 본인이 스스로의 길을 걷고자 한다면, 엔드필드 공업이 최고의 스승이 되어줄 거라 생각했습니다.\"\nM3는 눈에 띄게 잠시 멈칫했다. 그리고 플레밍 역시 멈칫했다. 그는 M3가 자신에게서 이렇게... 다정한 대답이 나올 줄은 몰랐다는 것을 깨달았다. 하지만 플레밍 역시 M3가 자신을 이토록 박하게 평가했다는 사실에, 상인이자 고문으로서 약간의 좌절감을 느꼈다.\n\"흠... 생각보다 마음이 따뜻한 사람이었군요, 플레밍 씨.\"\n그 말에 플레밍은 약간의 자신감을 되찾았다.\n\"이렇게 오랫동안 알고 지냈지만, 당신한테 들은 최고의 칭찬이군요, M3 씨.\"\nM3가 한숨을 내쉬었다. 마침내 조금 긴장을 푸는 듯했다. \"그래서, 엔드필드가 그녀를 어떻게 대하길 바라는 거죠?\"\n\"지금처럼만 해주시면 됩니다.\" 플레밍이 이번엔 진심 어린 미소를 지었다. \"아델하이드가 자신이 원하는 일을 하면서 평범한 아이처럼 열심히 살아가게 해 주세요. 좌절도 좀 겪어보고, 성장도 좀 하고, 자기 앞가림할 돈벌이도 하게 해주십시오. 이왕이면 좋은 친구도 몇 사귀고, 자기 인생의 목표도 찾으면 더 좋고요...\"\n\"딸처럼 생각하는 건가요?\"\n\"하, 제가 감히 어떻게요.\" 플레밍도 창밖을 바라보았다. 마침 오퍼레이터들의 말에 어쩔 줄 몰라 하는 아델하이드가 보였다.\n\"하지만, 탈로스 II가 인류를 벼랑 끝으로 몰아가고, 죽음이 피 묻은 왕좌를 쌓아 올리고, 탈로스 II에 또 다른 나흐체러르 왕이 나타나기 전에는... 아델하이드도 그저 낯을 가리는 어린 살카즈 소녀일 뿐이니까요.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0026_lastrite_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "We're about to leave? Ah, uh ... just wait for me ... a sec...",
+    "zh-TW": "要出發了？再、再等我一下……",
+    "zh-CN": "要出发了？再、再等我一下……",
+    "ja": "出発ですか？ちょ、ちょっと待ってください……！",
+    "ko": "지금 출발하는 건가요? 조, 조금만 기다려주세요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "I remember the Operational Manual said — Oh, I-I'm almost done!",
+    "zh-TW": "行動手冊裡寫的是——馬、馬上就好！",
+    "zh-CN": "行动手册里写的是——马、马上就好！",
+    "ja": "あ、えっと、マニュアルには――じ、準備完了！",
+    "ko": "이럴 때 작전 매뉴얼에는... 지, 지금 가요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "It's ... my turn already?",
+    "zh-TW": "到、到我出場了嗎？",
+    "zh-CN": "到、到我出场了吗？",
+    "ja": "わ、わたしの出番ですか？",
+    "ko": "제, 제가 나설 차례인가요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Last Rite, prepare to strike...! Um... We're attacking, right?",
+    "zh-TW": "別禮，準備出擊！……是要出擊了對吧？",
+    "zh-CN": "别礼，准备出击！……是要出击了对吧？",
+    "ja": "ラストライト、出撃準備完了！……あの、出撃で合ってますか……？",
+    "ko": "라스트 라이트, 돌격 준비 완료! ...돌격하는 거 맞죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "No problem. As long as it's hefty enough.",
+    "zh-TW": "沒問題，只要夠重就行！",
+    "zh-CN": "没问题，只要够沉就行！",
+    "ja": "大丈夫です！武器は重いほうがいいですから！",
+    "ko": "문제없어요. 더 무거워도 괜찮아요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "Wow... I've never seen this model before... Let me t-take another look at the use-user's guide...",
+    "zh-TW": "欸？這個型號沒看過啊……我、我再翻一下說明書……",
+    "zh-CN": "欸？这个型号没见过啊……我、我再翻一下说明书……",
+    "ja": "あれ……？このモデルは見たことが……あっ、もう一回説明書読み直します……！",
+    "ko": "어라? 이 모델은 처음 보는 것 같은데... 제, 제가 다시 설명서를 찾아볼게요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "I will continue fighting ... in my own way!",
+    "zh-TW": "我一定會用自己的方式戰鬥下去！",
+    "zh-CN": "我一定会用自己的方式战斗下去！",
+    "ja": "わたしは、わたしなりの戦い方を貫きます！",
+    "ko": "전 제 방식대로 끝까지 싸워나가겠어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "KYAAA...! I-I-I'm so sorry! That scene was a little ... terrifying...",
+    "zh-TW": "嗚哇！對不起，剛、剛才被畫面嚇到了……",
+    "zh-CN": "呜哇！对不起，刚、刚才被画面吓到了……",
+    "ja": "ひゃっ……！す、すみません、さっきの映像、少しびっくりして……",
+    "ko": "아! 죄송해요. 방, 방금 화면보고 살짝 놀라서..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Pro ... motion? *Gasp* Really?! F-for me?",
+    "zh-TW": "晉升？！真、真的可以嗎？！",
+    "zh-CN": "晋升？！真、真的可以吗？！",
+    "ja": "昇進！？ほ、本当にいいんですか！？",
+    "ko": "제, 제가 더 강해진 건가요?!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "Mom ... Dad ... I ... I finally did it...",
+    "zh-TW": "爸爸，媽媽，我做到了……",
+    "zh-CN": "爸爸，妈妈，我做到了……",
+    "ja": "お父さん、お母さん。わたし、やりました……！",
+    "ko": "엄마, 아빠... 저 해냈어요..."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Acknowledged. I shall forge a path through fire and blood in your name, and shall not falter in the face — Umm... Why are you looking so ... tense?",
+    "zh-TW": "承命，在下一定赴湯蹈火、肝腦塗地——嗯？您的表情好怪啊？",
+    "zh-CN": "承命，在下一定赴汤蹈火、肝脑涂地——嗯？您的表情好怪啊？",
+    "ja": "ご命令とあらば、危険も厭わず、命を捨てる覚悟――え？な、なんだか不思議なお顔……されて、ますが……",
+    "ko": "명령에 따르겠습니다! 반드시 이 한 몸 불살라... 응? 왜 그렇게 이상한 표정을 하고 계세요...?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "I realized that I can be a lot more helpful to everyone if I stay. If my contract with Seš'qa expires, you can contact me... O-oh no! I wasn't supposed to say that! Please... Don't tell anyone about this...",
+    "zh-TW": "我發現，留在這裡可以幫助許多人過得更好。如果塞什卡的合約到期了，您也可以繼續找我……啊，這個不可以講的，要、要對其他人保密喔！",
+    "zh-CN": "我发现，留在这里可以帮助许多人过得更好。如果塞什卡的合约到期了，您也可以继续找我……啊，这个不可以讲的，要、要对其他人保密哦！",
+    "ja": "ここにいれば、たくさんの人を助けられるんだって気づいたんです。もし、セシュカとの契約が終わっても、管理人さんがまた呼んでくれたら……あっ、だ、ダメでした！今のは、内緒に……",
+    "ko": "여기 남아 있으면 많은 사람한테 도움이 될 수 있다는 걸 알게 됐어요. 세쉬카의 계약이 끝나도 제가 계속 도와드릴 수 있으니까... 아, 이건 말하면 안 되는 건데... 다, 다른 사람들한테는 비밀로 해주세요!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Seš'qa liaison, reporting in for duty... My name... I-I mean my codename's Last Rite... Just call me that...",
+    "zh-TW": "塞什卡特派幹員，向、向您報到……啊啊啊忘記說名字了！我的代號是「別禮」，您叫我這個就好……",
+    "zh-CN": "塞什卡特派干员，向、向您报到……啊啊啊忘记说名字了！我的代号是“别礼”，您叫我这个就好……",
+    "ja": "セシュカの派遣オペレーター、た、ただいま着任……ああああっ、名前、忘れてました！コードネームは「ラストライト」……で、大丈夫です……",
+    "ko": "세쉬카 특별 파견 오퍼레이터, 관, 관리자님께 인사드립니다... 으아아, 이름 말하는 걸 깜빡했다! 제 코드네임은 '라스트 라이트'예요, 편하게 불러주세요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "The training must continue. I must master this power...",
+    "zh-TW": "還得繼續練習控制力量……",
+    "zh-CN": "还得继续练习控制力量……",
+    "ja": "力の制御、まだまだ訓練しないと……",
+    "ko": "힘을 조절하는 법을 조금 더 연습해야겠어..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "And I hope that our battles may bring about peace.",
+    "zh-TW": "希望這些戰鬥能帶來安寧。",
+    "zh-CN": "希望这些战斗能带来安宁。",
+    "ja": "これまでの戦いが、平和に繋がりますように。",
+    "ko": "이 전투로 세상이 조금 더 평화로워지기를..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Understood! I shall throw in ten times the effort...! No, I mean, one hundred and twenty times!",
+    "zh-TW": "明白！我會十倍……不，一百二十倍加油的！",
+    "zh-CN": "明白！我会十倍……不，一百二十倍加油的！",
+    "ja": "わかりました！わたし、10……じゃなくて、100倍！が、がんばります！",
+    "ko": "알겠어요! 열 배... 아니, 백이십 배 더 열심히 할게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Endministrator?! H-ho-how are you...?",
+    "zh-TW": "管理員？！您、您好啊……",
+    "zh-CN": "管理员？！您、您好呀……",
+    "ja": "管理人さん！？お、お疲れさまです！",
+    "ko": "관리자님?! 안, 안녕하세요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Need help with anything, Endmin?",
+    "zh-TW": "有需要幫忙的嗎，管理員？",
+    "zh-CN": "有需要帮忙的吗，管理员？",
+    "ja": "管理人さん、なにかお手伝いしましょうか？",
+    "ko": "제가 도와드릴 일이 있을까요, 관리자님?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "I can do this. It's just one line. Yes, be confident! Hey, Endmin...!!! D-d-de-de-dessert's ... g-g-grrr-great today, right?",
+    "zh-TW": "自信大方……自信大方……嘿！管理員！……今、今天的餐後甜點很棒呢！",
+    "zh-CN": "自信大方……自信大方……嘿！管理员！……今、今天的餐后甜点很棒呢！",
+    "ja": "自信持って、胸張って……！ハ～イ、管理人さん！……えっと、あの、今日のデザート、すっごく美味しかった……ですね！",
+    "ko": "자신감 있게... 자신감 있게... 아! 안녕하세요! 관리자님! 오... 오늘 디저트 엄청 맛있던데요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "Oh no ... it's so crowded... W-what if someone comes up to me? I should just go curl up in a crate...",
+    "zh-TW": "好多人啊，要是他們搭話……果、果然還是儲物箱比較適合我吧？",
+    "zh-CN": "好多人啊，要是他们搭话……果、果然还是储物箱比较适合我吧？",
+    "ja": "ひ、人いっぱい……声かけられちゃったら……や、やっぱり貯蔵箱の中がわたしには合ってます、よね？",
+    "ko": "여긴 사람이 너무 많잖아.. 혹시 누가 말이라도 걸면... 아, 아무래도 전 그냥 저장함 안에 들어가 있는 게 더 나을 것 같아요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "W-wo-would you happen to know where we can report damages? I ... uh ... smashed the training cabin ... again...",
+    "zh-TW": "您、您知道哪裡可以申請報損嗎？我又把訓練室砸壞了……",
+    "zh-CN": "您、您知道哪里可以申请报损吗？我又把训练室砸坏了……",
+    "ja": "あ、あの、設備の破損手続きはどこでしたらよいでしょうか……また、トレーニングルーム壊しちゃいました……",
+    "ko": "관, 관리자님... 혹시 파손 관련해서는 어디에다가 보고해야 하는지 아세요? 그게... 제가 또 훈련실을 부숴버렸거든요..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Hngh... C-could I lean on you for a sec...? I just need to grab some hardtack... I-I'm okay... Just a little ... hungry...",
+    "zh-TW": "嗚……能扶我一下嗎？我想去拿點壓縮餅乾……沒事，我就是……有點……肚子餓……",
+    "zh-CN": "呜……能扶我一下吗，我想去拿点压缩饼干……没事，我就是……有点……肚子饿……",
+    "ja": "ううぅ……ちょっとつかまっていいですか……？乾パンを取りに……だ、大丈夫です。少し……お腹が空いただけで……",
+    "ko": "혹시... 저 좀 부축해 주실 수 있을까요? 건빵을 가지러 가고 싶어서... 괜찮아요. 그냥 배가 좀 고파서..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "Personal stereo, omni-toolkit, basic Arts Unit... Ah, it's just a shopping list. These things are really hard to get in my hometown. Thankfully, a few colleagues at the Logistics Office offered to pick them up along the way. They're so nice to me!",
+    "zh-TW": "隨身聽、萬用工具箱、簡易施術單元……啊，這是購物清單啦。有些東西在我老家蠻難買的，後勤辦事處有幾位前輩願意幫我順路帶一些，他們人實在太好了！",
+    "zh-CN": "随身听、万用工具箱、简易施术单元……啊，这是购物清单啦。有些东西在我老家挺难买的，后勤办事处有几位前辈肯帮我顺路捎一些，他们人实在太好了！",
+    "ja": "ポータブルオーディオ、工具セット、簡易アーツユニット……あっ、これは……買い物リストです。地元だと手に入らないものばかりで、後方支援部の先輩たちがついでに買ってきてくれるそうで……みなさん、ほんとに親切なんですよ！",
+    "ko": "휴대용 카세트, 다용도 공구함, 간이 아츠 유닛... 아, 이건 제 쇼핑 리스트예요. 고향에서는 구하기 어려운 것들이라, 지원 부서의 몇몇 선배님들이 가는 길에 같이 사다 주시기로 했어요. 정말 좋은 분들이에요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Endmin ... can I ... post some flyers in Dijiang? Seš'qa gave me a load of promotional work. If I don't meet my KPI, they'll drag me back for special training...",
+    "zh-TW": "管理員，我能在帝江號上發小廣告嗎？塞什卡塞了好多推廣任務給我，再不完成的話，又要被抓去特訓了……",
+    "zh-CN": "管理员，我能在帝江号上发小广告吗？塞什卡给我塞了好多推广任务，再不完成的话，又要被抓去特训了……",
+    "ja": "管理人さん、帝江号に広告って出せたりしますか……？セシュカからたくさんプロモーションしろって言われて、できないとまた特訓行きになるみたいで……",
+    "ko": "관리자님... 혹시, 제강호에서 광고를 좀 해도 될까요? 세쉬카에서 홍보 임무가 내려왔는데, 더 미루다가는 또 특별 훈련을 받게 될 상황이라서요..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Endmin, please accept this humble token of my eternal and everlasting g-gratitude! I ... I'm so sorry... I don't know what to say...",
+    "zh-TW": "管、管理員！小小禮物不成敬意，請請請請笑納！對不起，我、我不知道怎麼說比較好……",
+    "zh-CN": "管、管理员！小小礼物不成敬意，请请请请笑纳！对不起，我、我不知道怎么说比较好……",
+    "ja": "か、管理人さん！つまらないものですが、お、お受け取りください！す、すみません、なんて言えばいいかわからなくて……",
+    "ko": "관, 관리자님! 작지만 제 마음을 담은 선물이에요... 바, 바바, 받, 받아주세요! 으아아... 죄송해요! 어떻게 말해야 할지 잘 몰라서..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "This is ... for me...? A-are you really sure, Endmin? Oh gosh... I ... I think I'm ... I think I'm gonna pass out...",
+    "zh-TW": "送我的？管理員？沒騙人？！這……居然——我、我腳有點軟……",
+    "zh-CN": "送我的？管理员？没骗人？！这……居然——我、我腿有点软……",
+    "ja": "えっ、こ、これを……わたしに！？本当ですか……す、少し、足が震えちゃって……",
+    "ko": "설마 관리자님께서 저한테 주시는 건가요? 장난치시는 거 아니죠? 정, 정말... 죄송해요. 다리가 좀 풀려서..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Heheheh... Endmin, is it true they have a house made entirely of candy in New Wrankwood? Can I ... get a few days of leave to stay at that place? And don't worry, I'll chew through enough things to get our money's worth! Oh... It's ... it's just an ad?",
+    "zh-TW": "嘿、嘿嘿……管理員，新藍卡塢真的有全用糖果做的屋子嗎？能不能批准我請假去住幾天啊？放心，我一定能吃回本的，一點都不浪費！什麼？竟然只是旅遊廣告嗎……",
+    "zh-CN": "嘿、嘿嘿……管理员，新蓝卡坞真的有全用糖果做的屋子吗？能不能批准我请假去住几天呀？放心，我肯定能吃回本的，一点都不浪费！什么？竟然只是旅游广告吗……",
+    "ja": "えへ、へへへ……あの、管理人さん。ニューランクウッドにはキャンディーでできたお家があるって聞きました！お休みもらって、泊まってみたくて……はい、ぜったいに全部食べられます。元取ります、自信あります！えっ……？ただの、広告……",
+    "ko": "헤, 헤헤... 관리자님, 뉴 랭크우드에는 정말 사탕으로 만든 집이 있나요? 그럼 며칠만 휴가를 내서 다녀오고 싶은데... 헤헤, 걱정하지 마세요! 아깝지 않을 만큼 먹고 올 거니까요, 한 조각도 남기지 않을 거예요! ... 네? 그냥 여행 홍보용 광고일 뿐이라고요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Dark circles around my eyes? Oh, I'm taking courses on first aid and basic crop disease prevention... so I started sleeping less... But they're really useful! Chopping things to tiny bits with a sword won't fix all our problems! That's definitely a no-no! The only problem is ... lessons on the Arts of Restoration are so hard...",
+    "zh-TW": "黑眼圈？哦，我最近在學習急救護理的知識，還去參加了作物病害防治的基礎培訓，睡得有點少……不過，很值得啊！如果只會拿劍砍東西，這裡有很多忙我都幫不上，肯定是不行的！但、但是醫療法術的課實在太難學了……",
+    "zh-CN": "黑眼圈？哦，我最近在学习急救护理的知识，还去参加了作物病害防治的基础培训，睡得有点少……不过，很值得呀！如果只会拿剑砍东西，这里有很多忙我都帮不上，肯定是不行的！但、但是医疗法术的课实在太难学了……",
+    "ja": "目の下にクマ、ですか？えっと、最近は応急手当の勉強をしたり、作物の病害対策の初期研修に通ったりでちょっと寝不足気味なんです。でも、やってよかったです！剣を振るだけじゃ、できないことってたくさんありますから！……ただ、医療アーツの授業はちょっと、難しくって……",
+    "ko": "다크서클이요? 아, 제가 요즘 응급 처치랑 작물 병해 예방 기초를 배우느라 잠을 좀 못 잤거든요... 그래도, 저한테는 이게 정말 중요한 일이에요! 단순히 검만 휘두를 줄 알아서는 여기서 제가 도울 수 있는 게 별로 없잖아요, 그래선 안 되는 거고요! 그, 근데... 의료 아츠 수업은 너무 어려운 것 같아요..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "Last Rite. Witching Hour pegged this codename on me. Since I'm a Nachzehrer and worked as an undertaker back home, they wanted a name that \"highlighted the product features\"... But I'm not the product — it's this outfit! And the last rites are somber ceremonies meant for the departed! Why would they use it in such a laughable manner...? Endmin ... can I ask you to write another letter of protest for me? Please?",
+    "zh-TW": "「別禮」這個代號是巫術時刻替我決定的。我之前一直在家裡當守墓人，又是食腐者，他們覺得要「強調商品特色」……可是我又不是商品，衣服才是啊！而且，送別是件很嚴肅的事情，不應該用來開玩笑！管理員，要、要不然，您再幫我寫封信給他們抗議一下？",
+    "zh-CN": "“别礼”这个代号是巫术时刻替我决定的。我之前一直在家里当守墓人，又是食腐者，他们觉得要“强调商品特色”……可我又不是商品，衣服才是呀！而且，送别是件很严肃的事情，不应该用来开玩笑！管理员，要、要不，您再帮我给他们写封信抗议一下？",
+    "ja": "「ラストライト」っていうコードネームは、ウィッチタイムが勝手に決めたんです。墓守をしていて、それにナハツェーラーだったので「商品のウリを強調するため」って……でも、わたしは商品じゃないです！服ならともかく……しかも「最期の別れ」ってとっても大事なものなのに、ふざけたらだめです！管理人さん、あ、あの、もう一回だけ、抗議文書いてくれませんか……？",
+    "ko": "'라스트 라이트'라는 코드네임은 주술 타임에서 정해준 거예요. 원래 묘지기를 하기도 했고, 또 나흐체러르기도 해서 그런지 '상품의 개성을 강조해야 한다'라고 하더라고요... 하지만 전 상품이 아니잖아요! 옷이 상품이지! 게다가 송별이라는 건 아주 진지하고 엄숙한 일인데, 장난스럽게 대하면 안 되는 거 아니겠어요? 그래서 말인데... 관리자님! 혹, 혹시 그쪽에 항의 편지를 써주실 수 있으실까요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "People keep joking about me letting myself go \"hungry\", and I kinda know why. But using my innate Nachzehrer abilities would disturb the dead. The chances are slim, but I forbid it... I haven't figured out everything due to the complexity of our witchcraft. So I chose not to tap into my powers. That is the safest course of action!",
+    "zh-TW": "其實，我現在大概知道他們為什麼會笑我一直要讓自己「餓肚子」了。但是，使用食腐者本身的力量，還是會打擾到死者吧？就算機率再小，也是不可以的……而且那些巫術知識好複雜，我還沒搞懂啦。所以，不用就是最安全的！",
+    "zh-CN": "其实，我现在大概知道他们为什么会笑话我一直要让自己“饿肚子”了。但是，使用食腐者本身的力量，还是会打扰到死者吧？就算几率再小，也是不可以的……而且那些巫术知识好复杂，我还没搞懂啦。所以，不用就是最安全的！",
+    "ja": "最近、どうしてみなさんが「いつもお腹を空かせてる」って笑うのか、なんとなくわかってきたんです。でも、ナハツェーラーの力を使うと、亡くなった人に迷惑がかかるかもしれなくて……それは、絶対にダメです。それに、巫術のことも全然理解できてないです。だから、使わないのが一番安全です！",
+    "ko": "사실, 지금은 왜 사람들이 제가 일부러 '굶는' 걸 놀리는지, 조금은 알 것 같아요. 하지만 나흐체러르의 힘을 쓰면, 아무래도 고인을 방해하게 되잖아요? 확률이 아무리 낮아도, 해서는 안 되는 일이에요... 게다가 관련된 주술 지식이 너무 어려워서, 제가 아직 잘 모르는 부분도 많고요. 그러니까, 안 쓰는 게 제일 안전하다고 생각해요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "There's something I must share with you, Endmin. I don't care what happens after I do. Well, y-you must know that ... that Seš'qa grossly overpackaged me! They just named me \"Princess of the Battle Court\" without asking! I never wanted to lie to you... I'm truly sorry. Maybe I should just resign — W-wait, you knew this all along?! And you're ... okay with it?",
+    "zh-TW": "管理員，有件事，不管怎樣我都想跟您說。那、那就是……塞什卡把我包裝過度了！「戰爭王庭公主」什麼的，根本只是他們亂套的名號。我不想騙您，所以還是讓我辭——您、您一直都知道？！真的沒關係嗎？",
+    "zh-CN": "管理员，有件事，不管怎样我都想和您说。那、那就是……塞什卡把我包装过度了！“战争王庭公主”什么的，根本只是他们乱套的名头。我不想骗您，所以还是让我辞——您、您一直都知道？！真的没关系吗？",
+    "ja": "管理人さん、どうしてもお話したいことがあります。じ、実は……セシュカはわたしのことをちょっと盛っているというか……！「戦争王庭の姫」なんて、作り話なんです！嘘ついたままじゃいられなくて、辞めるしかないって思ったんですけど――えっ、もう知って……ほ、本当にここにいていいんですか？",
+    "ko": "관리자님, 드, 드릴 말씀이 있어요. 무슨 일이 있어도, 이건 꼭 말씀드려야 할 것 같아서요. 그, 사실... 세쉬카에서 절 과대 포장했어요! '전투 왕정의 공주' 같은 건... 다 그쪽에서 멋대로 붙인 이름이에요. 더 이상 관리자님을 속이고 싶지 않아서, 지금이라도 그만두게... 네?! 처음부터 알고 계셨다고요?! 정, 정말 괜찮은 건가요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0026_lastrite_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "I really wish I could use my blade like the other operators. Everybody's got beautiful sets of stances, hews, and guards. I tried copying their moves but somehow kept throwing my sword away by accident. I guess I can only fight with wild, instinctive swings... Wait. My swings are beautiful too? I ... I don't know about that, but ... I guess that's very kind of you.",
+    "zh-TW": "我也好想像其他幹員那樣用劍啊。他們的動作都好有章法，但我跟著他們學發力，就很容易把劍甩出去，只能憑感覺亂揮……這樣也很好看嗎？我、我不太清楚欸，謝謝？",
+    "zh-CN": "我也好想像其他干员那样用剑啊。他们的动作都好有章法，但我跟着他们学发力，就很容易把剑甩出去，只能凭感觉乱挥……这样也很好看吗？我、我不太清楚欸，谢谢？",
+    "ja": "わたしも、剣をかっこよく使えたらいいのに。みなさんの動き、すごくきれいです。わたしは力を入れると剣がすっ飛んじゃうんです……結局、感覚で振り回すしかできなくて。え……こんなのでもかっこいいですか？わ、わからないんですけど、ありがとうございます……",
+    "ko": "저도 다른 오퍼레이터분들처럼 검을 멋지게 휘두르고 싶어요. 그분들은 동작 하나하나가 다 멋지고 깔끔하잖아요? 근데 제가 따라 해 보려고 힘을 주면 자꾸 검이 날아가 버려서 결국에는 그냥 느낌대로 막 휘두르게 돼요... 네? 이렇게 휘두르는 것도 괜찮게 보인다고요? 그, 그런가요... 감, 감사해요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Many races do mention some kind of \"spirit\" that lingers after death. My parents taught me many prayer rituals, and I used to perform every last one of them at the cemetery back home on a daily basis. Hmm? Oh yeah, I've heard of a Sarkaz type called the \"Revenants\". It was said they could worm themselves into all sorts of carcasses and re-animate them... Wait. Are you trying to tell me a horror story? NAHNAHNAHNAH! I CAN'T HEAR YOU!",
+    "zh-TW": "很多種族都有「死後有靈」的說法呢。爸爸媽媽教了我很多種祈禱的方法，在老家墓園的時候，我每天都會全部做一遍。嗯，我知道薩卡茲以前有一種「死魂靈」，聽說祂們會鑽進各種東西裡，讓空殼動起來……您是打算講恐怖故事吧！不要！我不聽！",
+    "zh-CN": "很多种族都有“死后有灵”的说法呢。爸爸妈妈教了我很多种祈祷的方法，在老家墓园的时候，我每天都会全部做一遍。嗯，我知道萨卡兹以前有一种“死魂灵”，听说它们会钻进各种东西里，让空壳动起来……您是打算讲恐怖故事吧！不要！我不听！",
+    "ja": "たくさんの種族で「死後に魂が残る」という言い伝えがありますよね。お父さんとお母さんがいろんな祈り方を教えてくれたので、故郷で墓守をしていたときは毎日全部やっていました。サルカズには「レヴァナント」という存在がいたって話も聞きました。いろんなものに入り込んで、動かせるらしくって……えっ？こ、怖い話をしようとしていませんか！？や、やめてください！",
+    "ko": "많은 종족이 '죽음을 맞이해도 영혼은 남는다'라고 믿고 있어요. 그래서 저희 부모님도 다양한 기도법을 가르쳐 주셨는데, 고향의 묘지에 있을 땐 저도 매일 빠짐없이 모든 기도법으로 기도를 한 번씩 드리곤 했었죠. 맞아요, 저도 들은 적이 있어요. 예전에 살카즈에는 '레버넌트'라는 게 있었는데, 그것들이 물건에 빙의돼서 물건을 움직이게 만들 수 있다고... 설마 지금 무, 무서운 이야기 하려고 꺼내신 거예요? 아아, 싫어요! 안 돼요! 안 들을 거예요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Why does everyone play tricks on me? The kids back home either called me \"Omnomnom\" or \"Little Miss Confused\". Senior Endfielders also kept giving me funny names. I need to figure out how to look more authoritarian... Oh! I have an idea. I can wear a mask like the Endmin! How do I look if I talk to people with this on? What? It's too scary? Oh... Fine...",
+    "zh-TW": "為什麼大家都這麼喜歡捉弄我呢？老家的孩子天天叫我「貪吃鬼」、「迷糊大王」，這裡的前輩們也老是幫我取外號。怎樣才能讓我更有氣勢一點呢……對了，您覺得我用這個樣子說話怎麼樣？和管理員一樣戴上面具！造型太可怕了？好吧……",
+    "zh-CN": "为什么大家都这么喜欢捉弄我呢？老家的孩子天天喊我“贪吃鬼”“迷糊大王”，这里的前辈们也老是给我起外号。怎样才能让我更有气势一点呢……对了，您觉得我用这个样子说话怎么样？和管理员一样戴上面具！造型太吓人了？好吧……",
+    "ja": "どうしてみんなわたしをからかうんでしょうか？地元の子どもからも「食いしん坊オバケ」とか「ぼんやりキング」とか呼ばれてたし、ここでも先輩たちに変なあだ名をつけられて……もっと迫力を出すには、どうしたらいいんでしょうか。そうだ、これを使うのはどうですか？管理人さんと同じ仮面です！えっ、怖すぎますか？そ、そうですか……",
+    "ko": "왜 다들 저를 놀리는 걸 좋아하는 걸까요? 고향에선 아이들이 맨날 저한테 '먹보 귀신'이다, '허당'이다 하고 놀렸었는데, 여기 와서도 선배님들이 자꾸 별명을 붙여요. 어떻게 하면 저도 좀 위엄 있어 보일까요... 아! 저도 관리자님처럼 이렇게 마스크를 쓰고 얘기하면 좀 나을까요? ...너무 무섭다고요? 아... 알겠어요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "I took the operator's standard test. I crushed the fitness part, but the technical stuff ... w-well, let's just say Supervisor Perlica ended up passing me anyway! I've been doing remedial training since then! Oh, and about that old gent who handed me the contract at the floating city... Perlica said he was trying to protect me. I don't really know what she meant, but Perlica is always right!",
+    "zh-TW": "我也參加了幹員的標準測試喔。體能測試我可擅長了！但是技能測試那一方面……總、總之，最後是佩麗卡監督同意讓我通過的，我已經在好好補課啦！她說懸空城上給我合約的那位先生是想保護我，雖然不是很懂，但她說的肯定沒錯！",
+    "zh-CN": "我也参加了干员的标准测试哦。体能测试我可擅长了！但是技能测试那一块……总、总之，最后是佩丽卡监督同意让我通过的，我已经在好好补课啦！她说悬空城上给我合同的那位先生是想保护我，虽然不是很懂，但她说的肯定没错！",
+    "ja": "わたしもオペレーターの標準試験、受けましたよ！体力テストは大得意なんです！ただ、スキルテストがちょっと……で、でも、とにかくペリカ監察官が合格にしてくれたので、今は補習もちゃんと受けてます！浮遊都市で契約してくれた方も、わたしを守るためだったって……よくわからないですけど、ペリカ監察官の言うことなら間違いないです！",
+    "ko": "저도 오퍼레이터 표준 테스트를 받았어요! 체력 테스트는 자신 있거든요! 하지만 기술 쪽은... 어, 어쨌든 마지막엔 펠리카 감독관님이 합격시켜 주셨어요. 지금은 열심히 보충 수업도 받고 있고요! 감독관님 말로는, 공중 도시에서 제게 계약을 제안하신 분은 분명 절 지켜주고 싶었던 거래요. 잘은 모르겠지만, 감독관님이 그렇다고 하시니 틀림없을 거예요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "Seš'qa has always safeguarded the Sarkaz knowledge and devices of witchcraft, but there are so few Nachzehrers on Talos-II. Many warring techniques once passed down through the generations were lost to time. According to our scholars, many Nachzehrers fought upon the battlefields of Terra... and they sustained war itself by absorbing the power of fallen comrades... I don't think we need to do that anymore, right? I have a frigid aura I could barely contain. The frigidity would seep out of me if I'm not careful. Nevertheless, it's a power that I'm ... I'm more comfortable with.",
+    "zh-TW": "塞什卡一直在保存薩卡茲的知識和巫術道具，但塔衛二上的食腐者非常少，許多族內傳承的戰爭技術都無法考證了。聽學者們說，泰拉戰場上的食腐者會吸收死去同伴的力量，讓戰爭不斷延續……我們應該不用這麼做了，對吧？雖然我身上的寒氣很難控制，一不小心就會亂冒，但我覺得……果然還是它更適合我一點。",
+    "zh-CN": "塞什卡一直在保存萨卡兹的知识和巫术道具，但塔卫二上的食腐者非常少，许多族内传承的战争技术都没法考证了。听学者们说，泰拉战场上的食腐者会吸收死去同伴的力量，让战争不断延续……我们应该不用这么做了，对吧？虽然我身上的寒气很难控制，一不小心就会乱冒，但我觉得……果然还是它更适合我一点。",
+    "ja": "セシュカはずっとサルカズの知識と巫術の道具を守ってきました。でも、タロⅡにはナハツェーラーがほとんどいないので、古い戦闘技術は、もうわからないものが多いみたいです。学者さんたちは「昔の戦場ではナハツェーラーが死んだ仲間の力を取り込んで戦い続けた」って言ってました……今はそんなことしなくていいですよね？わたしの冷気、暴走しやすいですけど……わたしには、この力が合ってると思うんです。",
+    "ko": "세쉬카는 살카즈의 지식과 주술 도구들을 계속 보존하고 있지만, 탈로스 II에는 나흐체러르가 거의 없어서, 종족 내에서 전해지는 많은 전쟁 기술을 검증할 수가 없게 됐어요. 학자들 말로는, 테라 전쟁터에 있던 나흐체러르들은 죽은 동료의 힘을 흡수해 전쟁을 계속 이어갔다고 해요... 우린 이제 그러지 않아도 되겠죠? 물론 저도... 제 몸에서 나오는 냉기를 완벽하게 제어하기는 어려워서 가끔 제멋대로 새어 나오기도 하지만... 그래도 저한테는, 이게 더 잘 어울리는 것 같아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_about_line01",
+   "title": {
+    "en": "Topic: Talent and Power",
+    "zh-TW": "話題：天賦力量",
+    "zh-CN": "话题：天赋力量",
+    "ja": "素質について",
+    "ko": "재능과 힘에 관하여"
+   },
+   "text": {
+    "en": "Seš'qamam instructors told me that a proper Nachzehrer uses witchcraft to master the frost. And I wasn't being proper because my frigidity kept seeping out of me. Well, I'm really good at checking my urges to absorb the dead. The downside is that I get hungry easily... No, I'm alright. I burn through food pretty fast. In fact, I've been eating midnight snacks for a while now, but somehow I've still lost weight... Umm, Endmin ... was everyone staring at me just now?",
+    "zh-TW": "塞什卡的教官說，正常的食腐者需要使用巫術才能操縱冰霜，而不是像我這樣狂冒寒氣。我好像也更能忍耐吸收死亡的衝動，就是肚子更容易餓……沒問題的，我消耗大，最近天天吃宵夜，體重還少了一點——咦？管、管理員，剛才大家是不是都在瞪我？",
+    "zh-CN": "塞什卡的教官说，正常的食腐者需要使用巫术才能操纵冰霜，而不是像我这样一个劲儿冒寒气。我好像也更能忍耐吸收死亡的冲动，就是肚子更容易饿……没问题的，我消耗大，最近天天吃夜宵，体重还掉了一点——咦？管、管理员，刚才大家是不是都在瞪我？",
+    "ja": "セシュカの教官が言ってました。普通のナハツェーラーは、氷を操るために巫術を使うって。でもわたしは、気づいたら勝手に冷気があふれちゃうし……それに死を吸う衝動もわりと我慢できて、かわりにお腹が空きやすいし……あっ、大丈夫ですよ！消化がすごいので、毎日夜食も食べてるのに体重がちょっと減ってて――え……？か、管理人さん、さっきからわたし、みなさんに見られてませんか？",
+    "ko": "세쉬카의 교관님이 그러셨는데, 보통의 나흐체러르들은 주술을 써야 얼음을 다룰 수 있대요. 저처럼 계속 냉기를 뿜는 건 좀 특이한 거라고 하더라고요. 그리고 저는 죽음을 흡수하고 싶은 충동도 더 잘 참는 편이래요. 대신 배가 훨씬 자주 고파지죠... 그래도 괜찮아요. 소모하는 에너지가 많아서 그런지, 요즘 매일 야식을 먹는데 오히려 체중이 조금 빠졌더라고요! ...어? 관, 관리자님... 방금 다들 저 째려본 거... 맞죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_about_line02",
+   "title": {
+    "en": "Topic: Combat Gear",
+    "zh-TW": "話題：作戰裝備",
+    "zh-CN": "话题：作战装备",
+    "ja": "装備について",
+    "ko": "작전 장비에 관하여"
+   },
+   "text": {
+    "en": "You hardly see outfits like mine? It's a prototyping loadout from the Witching Hour. They want me to wear this during combat to collect some ... uhm ... test data, I guess? But I'm not really good at fighting things. Wonder why they hired me for this... Anyway, this outfit's fabulous! It's light, sturdy, and even dries your hair after a shower! But the user manual for combat mode is a brick of a book, and it's hard to memorize everything...",
+    "zh-TW": "衣服的樣子很少見？這是巫術時刻的測試款啦。他們好像很希望我穿著它戰鬥，好收集一些……嗯，實驗數據？我明明不那麼擅長戰鬥的，不知道哪裡合他們心意了……總之，這套衣服很厲害的！又輕又牢固，洗完澡還會自動幫忙吹頭髮喔！就是戰鬥模式的使用說明好厚，好難背……",
+    "zh-CN": "衣服的样子很少见？这是巫术时刻的测试款啦。他们好像很希望我穿着它战斗，好收集一些……嗯，实验数据？我明明不那么擅长战斗的，不知道哪里合他们心意了……总之，这套衣服很厉害的！又轻又牢固，洗完澡还会自动帮忙吹头发哦！就是战斗模式的使用说明好厚，好难背……",
+    "ja": "この服、珍しいですか？ウィッチタイムの試作品なんです。これを着て戦ってほしいらしくて……実験データのためかと思うんですけど……わたし、戦いは得意じゃないのになんででしょうか……？でも、とにかくこの服、すごいんです！軽くて頑丈で、しかもシャワーの後は自動で髪を乾かしてくれるんですよ！ただ、戦闘モードのマニュアルがすごく分厚くて……難しくって……",
+    "ko": "옷이 좀 특이하다고요? 이건 주술 타임에서 만든 테스트용 작전복이에요. 그쪽에선 제가 이걸 입고 전투하길 바라는 것 같던데, 그래야 무슨... 음, 실험 데이터? 를 수집할 수 있다면서요. 전 전투를 그렇게 잘하는 편도 아닌데, 왜 제가 뽑혔는지 잘 모르겠어요... 아무튼, 이 옷 정말 유용해요! 가볍고 튼튼하고, 목욕하고 나오면 자동으로 머리도 말려준다니까요! 단점이라면, 전투 모드 사용 설명서가 너무 두꺼워서 외우기 정말 힘들다는 거죠..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_about_line03",
+   "title": {
+    "en": "Topic: The Dead",
+    "zh-TW": "話題：亡者",
+    "zh-CN": "话题：亡者",
+    "ja": "亡くなった人について",
+    "ko": "망자에 관하여"
+   },
+   "text": {
+    "en": "I remember everyone buried in the cemetery my family tended — the elderly, the unfortunate babe, the mercenary from another town, the stranger with rock disease... Each of them had a final wish. During the rites, those who came to say goodbye would speak those wishes aloud. And beneath their words ... I could feel what the departed truly longed for. They weren't asking anyone to fulfill their wishes — they just wanted to be heard. Remembering their wishes was the only thing I could do. As my Mom said, a wish that lingers behind is proof they once lived.",
+    "zh-TW": "在我家墓園下葬的每一個人我都記得。壽終的老先生、夭折的寶寶、外地來的傭兵大姐、得了「石頭病」的陌生人……每個人都有遺願，送行的人會告訴我們，我……也能感受到。他們其實沒指望誰能幫忙實現願望，只是想把它說出來。我能做的，就是記住這些遺願。媽媽說，留戀也是一個人活過的證明。",
+    "zh-CN": "在我家墓园下葬的每一个人我都记得。寿终的老先生、夭折的宝宝、外地来的佣兵大姐、得了“石头病”的陌生人……每个人都有遗愿，送行的人会告诉我们，我……也能感受到。他们其实没指望谁能帮忙实现愿望，只是想把它说出来。我能做的，就是记住这些遗愿。妈妈说，留恋也是一个人活过的证明。",
+    "ja": "地元のお墓に眠っている人のことは、全員覚えてます。天寿を全うしたおじいさん、まだ小さかった赤ちゃん、遠くから来た傭兵のお姉さん、「石の病」にかかった人……最後に残した願いを、見送るみなさんが教えてくれるのですが……実は、私にも伝わってくるんです。でも、願いを叶えてほしいわけじゃなくて、言葉にしたいだけ。わたしにできるのは、忘れないことだけ……お母さんが言ってました。「未練は、生きた証だ」って。",
+    "ko": "저희 집 묘지에 묻힌 분들은, 한 분 한 분 다 기억해요. 편안히 생을 마친 할아버지, 너무 일찍 세상을 떠난 아기, 외지에서 온 용병 언니, '돌멩이병'에 걸린 낯선 사람까지... 모두요. 각자 마지막 소원을 남기고 그분들을 배웅하는 사람들이 저희에게 전해주셨죠. 저도... 느낄 수 있었어요. 그분들은 사실 꼭 누군가가 소원을 이루어주기를 바란 게 아니라... 그저 마지막으로 이야기하고 싶었던 것 같아요. 제가 할 수 있는 건, 그 소원들을 기억해 주는 거였어요. 엄마가 그러셨거든요. 미련이 남는 것도... 그 사람이 분명히 살아 있었다는 증거라고요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_about_line04",
+   "title": {
+    "en": "Topic: Seš'qa",
+    "zh-TW": "話題：塞什卡",
+    "zh-CN": "话题：塞什卡",
+    "ja": "セシュカについて",
+    "ko": "세쉬카에 관하여"
+   },
+   "text": {
+    "en": "Witching Hour has to tweak my combat outfit from time to time, so I often make trips to the floating city. When Seš'qa gets far enough from other cities, they retract the touring facilities and the place goes really quiet. The caravaneer who introduced me to Endfield said that Seš'qa roams Talos-II bearing crews of mercenaries and witch-crafters. Their goal is to connect and support Sarkaz communities around the world. But ... if I'm being honest, they feel less like a charity and more like a profiteering venture...",
+    "zh-TW": "巫術時刻經常要幫作戰服做調整，所以我經常去那座懸空城喔！它不靠近城市的時候，遊覽設施都會被收起來，其實還蠻安靜的。介紹我過來的行商先生說，塞什卡帶著傭兵和巫術工匠們在文明環帶巡遊，是想聯繫和幫助各地的薩卡茲同胞。可我總覺得他們也沒少在裡面找機會賺錢啊……",
+    "zh-CN": "巫术时刻经常要给作战服做调整，所以我经常去那座悬空城喔！它不靠近城市的时候，游览设施都会被收起来，其实还挺安静的。介绍我过来的行商先生说，塞什卡带着佣兵和巫术工匠们在文明环带巡游，是想联系和帮助各地的萨卡兹同胞。可我总觉得他们也没少在里面找机会赚钱啊……",
+    "ja": "ウィッチタイムは、しょっちゅう戦闘服を調整するんです。だから、よく浮遊都市に行ってます。街から離れているときは観光施設も閉まっていて、すごく静かなんですよ。紹介してくれた行商人さんは「セシュカが傭兵と職人を引き連れて文明地帯を巡っているのは、サルカズのみんなと繋がって助け合うためだ」って言ってました。でも、どうしても……お金儲けできるチャンスを探してるように思えちゃうんですけど……",
+    "ko": "이 작전복은 주술 타임에서 자주 손봐야 해서, 전 그 공중 도시에 자주 가요! 지상 도시 근처에 머물지 않을 때는 관광 시설들도 다 넣어두어서, 사실 꽤 조용하죠. 저를 여기로 소개해 준 상인 아저씨가 그러셨는데, 세쉬카가 용병들이랑 주술 장인들을 데리고 문명 밴드를 순회하는 건, 각지에 흩어져 있는 살카즈 동포들을 찾고 도움을 주기 위해서래요. 그렇지만 저는 왠지, 그 틈에서도 돈 벌 기회를 찾고 있는 것 같단 말이죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_about_line05",
+   "title": {
+    "en": "Topic: Fate",
+    "zh-TW": "話題：緣分",
+    "zh-CN": "话题：缘分",
+    "ja": "運命について",
+    "ko": "인연에 관하여"
+   },
+   "text": {
+    "en": "Dad said that the TGCC dug several wells in our old place many years ago. But a senior Endfielder just told me that Endfield was the one that led the entire project! Anyway, quite a few families moved in after we had access to water. After that, the caravaneers began visiting our place. One of them told me I could try my luck at Seš'qa, and that was how I met everyone at Endfield. Maybe this was an act of Fate?",
+    "zh-TW": "爸爸說過，很久以前，環塔商會帶人來老家打了好幾口井。剛剛有個前輩告訴我，原來那是終末地幫忙牽線做的！有了井之後，老家新搬來了好幾戶人家，行商也開始往那去了。我就是聽了他們的話，才知道可以去塞什卡碰碰運氣，然後才認識了終末地的各位。嘿嘿，這算不算一種緣分啊？",
+    "zh-CN": "爸爸说过，很久以前，环塔商会带人来老家打了好几口井。刚刚有个前辈告诉我，原来那是终末地帮忙牵头做的！有了井之后，老家新搬来了好几户人家，行商也开始往那儿去了。我就是听了他们的话，才知道可以去塞什卡碰碰运气，然后才认识了终末地的各位。嘿嘿，这算不算一种缘分呀？",
+    "ja": "昔、商会が村の井戸を掘ってくれたってお父さんから聞いてました。でも、さっき先輩に教えてもらったんです。あれ、本当はエンドフィールドが中心になって進めてたんだって……！井戸ができてから、引っ越してきた人もいて、行商人さんも来るようになって……わたしがセシュカに行ってみようって思えたのも、みなさんに出会えたのもそのおかげ……えへへ、これって、運命って言っていいですよね？",
+    "ko": "아빠가 예전에 말씀해 주셨는데, 아주 오래전에 탈로스 II 상업연합회 사람들이 저희 고향에 와서 우물을 여러 개 파줬다고 해요. 그리고 오늘 어떤 선배가 알려주셨는데, 그게 사실은 엔드필드에서 도와줬던 거래요! 우물이 생긴 뒤로 고향에 새로 이사 온 분들도 많아졌고, 상인분들도 드나들기 시작했죠. 저도 그분들 이야기를 듣고 세쉬카에 가볼까 생각이 들어서, 지금 이렇게 엔드필드의 여러분을 만나게 된 거예요. 헤헤, 이것도 인연이라고 할 수 있지 않을까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_about_line06",
+   "title": {
+    "en": "Topic: \"Friends\"",
+    "zh-TW": "話題：「朋友」",
+    "zh-CN": "话题：“朋友”",
+    "ja": "「彼女」について",
+    "ko": "'친구'에 관하여"
+   },
+   "text": {
+    "en": "It began when I was still a very little girl. I would occasionally hear a voice talking to me. She sounded tired and exhausted, and probably slept most of the time. None of her children rested in our cemetery. I believe they were further north... And whenever I would go hungry, she would hold me close and comfort me. But in recent years, she slept longer and longer, and sounded even weaker than before. I really hope there's something I can do to help...",
+    "zh-TW": "從很小很小的時候開始，我偶爾能聽到有個聲音和我說話。她好像很累，也很睏，大部分時間都在睡覺。墓園裡沒有她的孩子們，那些人好像在更北邊……每當我肚子餓的時候，她就會抱著我，讓我好受一點。不過最近幾年，她越來越累，睡著的時間也越來越長，如果能做些什麼幫幫她就好了……",
+    "zh-CN": "从很小很小的时候开始，我偶尔能听到有个声音和我说话。她好像很累，也很困，大部分时间都在睡觉。墓园里没有她的孩子们，那些人好像在更北边……每当我肚子饿的时候，她就会抱着我，让我好受一点。不过最近几年，她越来越累，睡着的时间也越来越长，如果能做些什么帮帮她就好了……",
+    "ja": "小さい頃からたまに、人の声が聞こえるときがあるんです。とても疲れて、眠たそうで、ほとんど寝てばっかりなんですけど……お墓には彼女の子どもたちはいなくて、もっと北の方にいるみたいで……お腹が空いたときに彼女に抱きしめてもらうと、少し楽になるんです。でも最近は本当に疲れていて、眠る時間もどんどん長くなってきていて……わたしに何かできることがあるのかなって……",
+    "ko": "아주 아주 어렸을 때부터, 가끔 어떤 목소리가 제게 말을 걸어오곤 했어요. 그녀는 많이 지치고 졸린 건지, 대부분 시간 잠만 잤죠. 묘지에는 그분의 아이들이 없었는데, 아마 더 북쪽에 있는 것 같았어요... 제가 배가 고플 때마다, 그녀는 저를 꼭 안아주면서 조금이라도 편하게 해주었어요. 그런데 최근 몇 년은 점점 더 피곤해졌는지, 잠들어 있는 시간이 더 길어졌어요. 제가 뭔가 해드릴 수 있으면 좋을 텐데요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "I see resources over there... Should we go and collect them?",
+    "zh-TW": "那些物資，要去收集一下嗎？",
+    "zh-CN": "那些物资，要去收集一下吗？",
+    "ja": "あの物資、回収しに行きますか？",
+    "ko": "저기 있는 물자들, 수집하러 갈까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "That looks like something nice... If I'm not seeing things...",
+    "zh-TW": "那、那邊有好東西……對吧？我沒看錯吧？",
+    "zh-CN": "那、那边有好东西……对吧？我没看错吧？",
+    "ja": "あ、あっち……いいものがありますよね？見間違いじゃないですよね？",
+    "ko": "저, 저쪽에 좋은 게 있는 것 같은데... 제가 잘못 본 건 아니겠죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "My combat outfit is reacting to something. Is there an anomaly over there?",
+    "zh-TW": "作戰服有反應欸，那邊有什麼異常狀況嗎？",
+    "zh-CN": "作战服有反应欸，那边有什么异常状况吗？",
+    "ja": "戦闘服が反応して……あっちで何か起こっているのでしょうか……？",
+    "ko": "어? 작전복이 반응하고 있어요, 무슨 일이 생긴 걸까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Careful! That enemy looks really powerful!",
+    "zh-TW": "小心！那個敵人看起來好厲害！",
+    "zh-CN": "小心！那个敌人看起来好厉害！",
+    "ja": "気をつけてください！あの敵、すごく強そうです……！",
+    "ko": "조심하세요! 아주 강해 보여요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "The Ar-arsenal people ... won't get mad about this, right?",
+    "zh-TW": "武、武庫那邊，不會有意見吧？",
+    "zh-CN": "武、武库那边，不会有意见吧？",
+    "ja": "武庫の方に……怒られませんよね？",
+    "ko": "무, 무기고 쪽에서 문제 삼진 않겠죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Let me do it. I'm strong.",
+    "zh-TW": "我力氣大，讓我來吧。",
+    "zh-CN": "我力气大，让我来吧。",
+    "ja": "力仕事なら、やらせてください！",
+    "ko": "제가 힘이 세니까, 저한테 맡겨 주세요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Woooooww... I've never seen nice things like these...",
+    "zh-TW": "哇……從、從來沒見過這麼多好東西……",
+    "zh-CN": "哇……从、从来没见过这么多好东西……",
+    "ja": "うわあ……こ、こんなにいいものたくさん、初めて見ました……",
+    "ko": "와... 좋은 물건들을 이, 이렇게 많이 본 건 처음이에요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "It's so beautiful... Oh, sorry! I'm done gathering it!",
+    "zh-TW": "好漂亮……啊，沒什麼！收集工作完成了！",
+    "zh-CN": "好漂亮……啊，没什么！收集工作完成了！",
+    "ja": "き、きれい……あ、なんでもありません！回収作業、完了しました！",
+    "ko": "정말 예쁘네요... 아, 아무것도 아니에요! 수집 완료했어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "I hope I didn't spill that dirty goop all over the place.",
+    "zh-TW": "我沒把髒東西濺出去吧？",
+    "zh-CN": "我没把脏东西溅出去吧？",
+    "ja": "汚れ、飛ばしちゃってないですよね？",
+    "ko": "침식이 튀진 않았겠죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "A-an-anyone want something cold to drink? I can make them cold for you...",
+    "zh-TW": "需、需要冷飲嗎？我可以幫忙冰鎮一點……",
+    "zh-CN": "需、需要冷饮吗？我可以帮忙冰镇一点……",
+    "ja": "つ、冷たい飲み物、いりますか？わたし、冷やすことなら少しできるので……",
+    "ko": "혹, 혹시 차가운 음료 필요하세요? 제가 얼려드릴 수 있는데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Let me help you!",
+    "zh-TW": "我來幫忙了！",
+    "zh-CN": "我来帮忙了！",
+    "ja": "わたし、お手伝いします！",
+    "ko": "제가 도와드릴게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "I ... I feel better...",
+    "zh-TW": "活、活過來了……",
+    "zh-CN": "活、活过来了……",
+    "ja": "い、生き返りました……",
+    "ko": "살, 살았어요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Look out! Danger!",
+    "zh-TW": "快、快躲開！有危險！",
+    "zh-CN": "快、快躲开！有危险！",
+    "ja": "に、逃げてください！あぶないです！",
+    "ko": "빨, 빨리 피해요! 위험해요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Stay awake...! I can't fall here...",
+    "zh-TW": "站起來……不能倒……",
+    "zh-CN": "站起来……不能倒……",
+    "ja": "立たなきゃ……倒れちゃ、だめだから……",
+    "ko": "일어나... 쓰러지면 안 돼..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Must protect them...",
+    "zh-TW": "不行，我得……保護大家……",
+    "zh-CN": "不行，我得……保护大家……",
+    "ja": "だめ、わ……わたしが……守らなきゃ……",
+    "ko": "안 돼, 모두를... 지켜야 해..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Th-that's ... so cool...",
+    "zh-TW": "好、好帥氣……",
+    "zh-CN": "好、好帅气……",
+    "ja": "か、かっこいい……",
+    "ko": "저, 정말 멋져요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Everyone's so incredible!",
+    "zh-TW": "各位都好厲害啊！",
+    "zh-CN": "各位都好厉害呀！",
+    "ja": "みなさん、すごいです！",
+    "ko": "모두 대단해요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Y-you flatter me!",
+    "zh-TW": "您、您過獎了！",
+    "zh-CN": "您、您过奖了！",
+    "ja": "ほ、褒めすぎでは……！",
+    "ko": "과, 과찬이에요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "E-everyone made it happen!",
+    "zh-TW": "都、都是大家的功勞！",
+    "zh-CN": "都、都是大家的功劳！",
+    "ja": "み、みなさんのおかげです！",
+    "ko": "다, 다 여러분 덕분이에요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Let me take point!",
+    "zh-TW": "我來打頭陣！",
+    "zh-CN": "我来打头阵！",
+    "ja": "わたしが先に行きます！",
+    "ko": "제가 앞장설게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Let's do our best, people!",
+    "zh-TW": "一、一起加油吧！",
+    "zh-CN": "一、一起加油吧！",
+    "ja": "い、一緒に頑張りましょう！",
+    "ko": "함, 함께 힘내봐요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "I hope I didn't break my combat outfit...",
+    "zh-TW": "作戰服，沒弄壞吧？",
+    "zh-CN": "作战服，没弄坏吧？",
+    "ja": "戦闘服、壊れてない……ですよね？",
+    "ko": "작전복이 망가지진 않았겠죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "Made possible by Seš'qa's latest technology! Ah... I can't break this habit...",
+    "zh-TW": "這就是塞什卡的尖端技術！啊，習慣改不掉了……",
+    "zh-CN": "这就是塞什卡的尖端技术！啊，习惯改不掉了……",
+    "ja": "これぞセシュカの最先端技術！あっ、クセでつい……",
+    "ko": "이게 바로 세쉬카의 첨단 기술! 아, 습관이 돼서 저도 모르게..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "W-we all did a good job!",
+    "zh-TW": "大、大家都辛苦了！",
+    "zh-CN": "大、大家都辛苦了！",
+    "ja": "み、みなさん、お疲れさまでした！",
+    "ko": "다, 다들 수고하셨어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "Is everyone okay...? Oh ... feels good to be alive...",
+    "zh-TW": "大家……都沒事嗎……活著的感覺……真好啊……",
+    "zh-CN": "大家……都没事吗……活着的感觉……真好啊……",
+    "ja": "みなさん……無事ですか……生きている感覚……本当によかった……",
+    "ko": "모, 모두 괜찮으신가요? 살아있다는 건... 좋은 거네요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "I'm so sorry! It-it-it's all my fault! I'll ... I'll fix what went wrong. How about ... we try again?",
+    "zh-TW": "對不起！肯定是我哪裡犯錯了！我會反省的。所、所以，再試一次吧？",
+    "zh-CN": "对不起！肯定是我哪里犯错了！我会反省的。所、所以，再试一次吧？",
+    "ja": "すみません！きっと、わたしがミスしちゃったから！反省します……だ、だから……もう一度やらせてください！",
+    "ko": "으아아! 분명 제가 뭔가 실수했을 거예요! 진짜 죄송해요! 그, 그래서 말인데... 다시 한번 해볼 수 없을까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Last ... swing!",
+    "zh-TW": "再來一下！",
+    "zh-CN": "再来一下！",
+    "ja": "もう一回！",
+    "ko": "한 번 더!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Crush you!",
+    "zh-TW": "揍扁你！",
+    "zh-CN": "揍扁你！",
+    "ja": "ぶっ飛ばします！",
+    "ko": "혼내줄게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "It's a bit cold.",
+    "zh-TW": "會有點冷喔。",
+    "zh-CN": "会有点冷哦。",
+    "ja": "少し寒いですよ。",
+    "ko": "조금 차가울 거예요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Let the snow freeze.",
+    "zh-TW": "風雪，凝結吧。",
+    "zh-CN": "风雪，凝结吧。",
+    "ja": "風雪、凝結せよ。",
+    "ko": "눈보라여, 얼어붙어라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Frost, heed me.",
+    "zh-TW": "寒霜，回應我。",
+    "zh-CN": "寒霜，回应我。",
+    "ja": "寒霜、応答せよ。",
+    "ko": "차가운 서리여, 응답하라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "I'll mop this up!",
+    "zh-TW": "讓我來收尾！",
+    "zh-CN": "让我来收尾！",
+    "ja": "わたしが終わらせます！",
+    "ko": "제가 마무리할게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "I'm ready!",
+    "zh-TW": "我準備好了！",
+    "zh-CN": "我准备好了！",
+    "ja": "準備できました！",
+    "ko": "준비됐어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Now bite ice!",
+    "zh-TW": "感受寒冬吧！",
+    "zh-CN": "感受寒冬吧！",
+    "ja": "凍てつく寒さ、受けてください！",
+    "ko": "추위를 느껴봐!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "This will be cold!",
+    "zh-TW": "會冷到骨頭裡喔！",
+    "zh-CN": "会冻到骨头里哦！",
+    "ja": "骨の髄まで凍らせます！",
+    "ko": "뼛속까지 얼려주겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Please stop fighting...",
+    "zh-TW": "請停下吧！",
+    "zh-CN": "请停下吧！",
+    "ja": "止まってください！",
+    "ko": "거기 멈춰!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "You're going down!",
+    "zh-TW": "打、打倒你！",
+    "zh-CN": "打、打倒你！",
+    "ja": "た、倒します！",
+    "ko": "너, 널 쓰러뜨릴 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Maximum power, activate!",
+    "zh-TW": "最大功率，啟動！",
+    "zh-CN": "最大功率，启动！",
+    "ja": "最大出力、起動！",
+    "ko": "최대 출력, 가동!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Your grave has been dug!",
+    "zh-TW": "這裡就是終點！",
+    "zh-CN": "这里就是终点！",
+    "ja": "これで、ラストです！",
+    "ko": "여기서 끝이다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0026_lastrite_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Uh, any last words?",
+    "zh-TW": "請、請和世界告別吧！",
+    "zh-CN": "请、请和世界告别吧！",
+    "ja": "世界に別れを告げなさいっ！",
+    "ko": "세, 세상과 작별하라!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0026_lastrite_1",
+   "topic": {
+    "en": "The Game of Giants?",
+    "zh-TW": "商業競爭？",
+    "zh-CN": "商业竞争？",
+    "ja": "ビジネス競争？",
+    "ko": "상업 경쟁?"
+   },
+   "lines": [
+    {
+     "speaker": "system",
+     "text": {
+      "en": "You sent [Last Rite] a reminder",
+      "zh-TW": "你向[別禮]傳送了一次提醒",
+      "zh-CN": "你向[别礼]发送了一次提醒",
+      "ja": "「ラストライト」にリマインドを送りました",
+      "ko": "[라스트 라이트] 님에게 알림을 보냈습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Endmin? Anything I can help you with?",
+      "zh-TW": "管理員？您找我有什麼事嗎？",
+      "zh-CN": "管理员？您找我有什么事吗？",
+      "ja": "管理人さん？なにか用ですか？",
+      "ko": "관리자님, 절 찾으셨나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Last Rite, we seem to have received an invoice from the TGCC addressed to you. What's this about?",
+      "zh-TW": "別禮，我們好像收到了一份環塔商會指定給你的帳單，怎麼回事？",
+      "zh-CN": "别礼，我们好像收到了一份环塔商会指定给你的账单，怎么回事？",
+      "ja": "環タロ商会から君宛ての請求書が届いているみたいだよ。これは……",
+      "ko": "응, 탈로스 II 상업연합회 쪽에서 네 앞으로 온 청구서를 보내왔는데, 어떻게 된 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "!!!",
+      "zh-TW": "！！！",
+      "zh-CN": "！！！",
+      "ja": "！！！",
+      "ko": "!!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Please, let me explain!",
+      "zh-TW": "請您聽我解釋！",
+      "zh-CN": "请您听我解释！",
+      "ja": "すみません！あの、話を聞いてください！",
+      "ko": "제, 제가 다 설명할게요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Okay so it was actually just a misunderstandmf. I was zoning out and I saw this merchant guy selling weapons so I just haggled with him a little like a Seš'qa contract says to",
+      "zh-TW": "其實是一場汙穢我在發呆看到有位商人大叔在推銷武器所以就按照塞什卡的合約和他嚼舌了一下",
+      "zh-CN": "其实是一场污秽我在发呆看到有位商人大叔在推销武器所以就按照塞什卡的合同和他嚼舌了一下",
+      "ja": "五階なんですわたしぼーっとしてたら商人のおじさんが武器を売り込みしているのをみてセシュカの契約通りにちょっとおはなししてしまって",
+      "ko": "우회예요! 그게, 제가 그냥 멍때리고 있었는데요... 어떤 상인 아저씨가 무기를 홍보하고 있길래, 세쉬카의 계약 조항대로 그분이랑 잠깐 말을 섞은 것뿐인데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "But it looks like I messed things up I didn't mean to please forgive me I'm really really really really really sorry",
+      "zh-TW": "結果好像弄出問題來了我不是故意的請您原諒對不起對不起對不起對不起對不起對不起",
+      "zh-CN": "结果好像搞出问题来了我不是故意的请您原谅对不起对不起对不起对不起对不起对不起",
+      "ja": "そうしたらいつのまにか問題になってたみたいでわざとではなくてほんとうになにもしてないんですごめんなさいあのほんとうにごめんなさい",
+      "ko": "그게 어쩌다 문제가 된 것 같아요, 진짜 일부러 그런 거 아니에요! 정말이에요! 죄송해요, 죄송합니다, 정말 죄송합니다, 잘못했어요, 다 제 잘못이에요..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Calm down, I just want to understand what happened.",
+         "zh-TW": "冷靜一下，我只是想搞清楚狀況。",
+         "zh-CN": "冷静一下，我只是想搞清楚状况。",
+         "ja": "落ち着いて。ただ、ちょっと話を聞きたかっただけだから。",
+         "ko": "진정해, 난 그냥 상황을 알고 싶어서 물어본 거야."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Take it easy. Also, did you mean to say \"misunderstanding\"?",
+         "zh-TW": "放輕鬆，還有，你是不是想說「誤會」？",
+         "zh-CN": "放轻松，还有，你是不是想说“误会”？",
+         "ja": "落ち着いて。五階じゃなくて「誤解」だよね。",
+         "ko": "일단 진정해, 그리고 방금 '오해'라고 말하려던 거지?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "My bad! I'll do better!",
+      "zh-TW": "我錯了！馬上改正！",
+      "zh-CN": "我错了！马上改正！",
+      "ja": "間違えちゃいました……すぐ直します！！",
+      "ko": "앗... 네! 죄, 죄송합니다! 바로 시정할게요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Selling weapons still seems like normal business. Did that merchant do anything out of line?",
+      "zh-TW": "推銷武器好像還算在正常經營的範疇裡，那位商人有什麼奇怪的舉動嗎？",
+      "zh-CN": "推销武器似乎还在正常经营的范畴里，那位商人有什么出格的举动吗？",
+      "ja": "武器を売るのは普通だと思うけど、何か怪しいところがあったの？",
+      "ko": "근데 무기를 홍보하는 건 정상적인 범주에 속하잖아. 그 상인이 뭔가 수상한 행동을 한 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "No, but that's what the Seš'qa contract requires:",
+      "zh-TW": "沒有，但塞什卡的合約上是這樣要求的——",
+      "zh-CN": "没有，但塞什卡的合同上是这么要求的——",
+      "ja": "あの、そうではなくて……でも、セシュカの契約にはこう書いてあるんです……",
+      "ko": "아니요, 그냥 평범했어요. 다만 세쉬카의 계약서에 그런 조항이 있거든요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Article 283: \"When encountering a fellow merchant's event, one must showcase the brand value of the Witching Hour with an equally impressive display.\"",
+      "zh-TW": "第283條：「遇到友商活動，必須以同等效果展示巫術時刻的品牌價值。」",
+      "zh-CN": "第283条：“遇到友商活动，必须以同等效果展示巫术时刻的品牌价值。”",
+      "ja": "第283条：同業者の商業活動に遭遇した場合、ウィッチタイムのブランド価値を同等の効果で示さなくてはならない。",
+      "ko": "제283조. 동종 업계의 상인이나 단체의 상업 활동을 목격할 경우, 반드시 동등한 효과로 주술 타임의 브랜드 가치를 입증해야 한다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "The conditions are too broad and the definitions are vague. This kind of clause is completely unreasonable.",
+      "zh-TW": "條件寬泛，界定模糊，這種條款完全不合理。",
+      "zh-CN": "条件宽泛，界定模糊，这种条款完全不合理。",
+      "ja": "なんだかすごく曖昧で、条件も広いように思う。無理のある内容だ……",
+      "ko": "조건도 너무 포괄적이고, 규정도 애매하잖아. 그건 말도 안 되는 계약 조항이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Anyway, the problem seems to be with that contract of yours. You don't need to force yourself to do reckless things.",
+      "zh-TW": "總之，問題好像出在你的那份合約上。你沒必要勉強自己亂來。",
+      "zh-CN": "总之，问题似乎出在你的那份合同上。你没必要勉强自己乱来。",
+      "ja": "契約のほうに問題があるんだから、君が無理する必要はないと思うよ。",
+      "ko": "어쨌든 문제는 네가 계약한 계약서에 있는 것 같네. 괜히 무리해서 따를 필요 없어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "It's okay, this is all within the scope of my work.",
+      "zh-TW": "沒關係，這都是工作範圍裡的事。",
+      "zh-CN": "没事的，这都是工作范围里的事。",
+      "ja": "だいじょうぶです！これもお仕事なんです。",
+      "ko": "괜찮아요, 이건 다 제 업무 범위 안에 있는 일이에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "The Witching Hour pays me really well, and they've helped me out a lot. I have to work hard to repay them!",
+      "zh-TW": "巫術時刻給我的報酬很高，還幫了我很多忙，我得好好工作報答他們！",
+      "zh-CN": "巫术时刻给我的报酬很高，还帮了我很多忙，我得好好工作报答他们！",
+      "ja": "ウィッチタイムからはすごくいいお給料をもらってますし、いっぱい助けてもらったので……ちゃんと働いて、恩返ししないと！",
+      "ko": "주술 타임에서 저한테 보수도 많이 주고, 이것저것 많이 도와줬는데, 저도 열심히 일해서 꼭 보답해야죠!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "It's good to be grateful, but if you know something's wrong and ignore it, you're just setting yourself up for trouble.",
+      "zh-TW": "懂得感恩是好事，但如果明知有問題卻不管不顧，就會吃虧的。",
+      "zh-CN": "懂得感恩是好事，但如果明知有问题却不管不顾，可就要吃亏了。",
+      "ja": "恩返しも大切だと思うけど、問題があるのに何でもやってしまえば、君が損することにもなるんだ。",
+      "ko": "마음은 기특하다만, 문제가 있다는 걸 알면서도 무작정 해주다 보면, 결국 손해를 보게 된다고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "If you really want what's best for them, you shouldn't agree to every single demand.",
+      "zh-TW": "如果你真的想為了他們好，就不該什麼要求都答應。",
+      "zh-CN": "如果你真想为了他们好，就不该什么要求都答应。",
+      "ja": "本当に恩返ししたいと思うなら、何でも受け入れるべきではないのかもしれない。",
+      "ko": "정말 그들을 위해 생각한다면, 아무 요구나 다 들어주는 게 답은 아니야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Dad used to say things like that too...",
+      "zh-TW": "爸爸也說過這樣的話……",
+      "zh-CN": "爸爸也说过这样的话……",
+      "ja": "あ……お父さんも、似たようなこと言ってました……",
+      "ko": "아빠도 그런 말을 하신 적이 있어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "I understand, I'll think about it more carefully.",
+      "zh-TW": "我知道了，我會再好好想想的。",
+      "zh-CN": "我明白了，我会再好好想想的。",
+      "ja": "あの、もう一度ちゃんと考えてみます……",
+      "ko": "...알겠어요, 다시 잘 생각해 볼게요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "If you need legal assistance, you can always report it to the HR Division.",
+      "zh-TW": "如果需要法律援助，隨時都可以向人力資源事務部報告。",
+      "zh-CN": "如果需要法律援助，随时都可以向人力资源事务部报告。",
+      "ja": "もし、法的なサポートが必要なら、人事部に相談したほうがいいと思う……",
+      "ko": "만약 법무팀의 지원이 필요하면 언제든 인력 자원 사무부에 얘기해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "But the amount on that bill isn't small. What exactly happened that required you to pay compensation?",
+      "zh-TW": "不過帳單上的金額還不小，當時到底發生了什麼需要你賠償的事？",
+      "zh-CN": "不过账单上的金额还不小，当时到底发生了什么需要你赔偿的事？",
+      "ja": "でも、請求書の金額が随分大きいみたいだ。どうして、こんなことになったの？",
+      "ko": "청구 금액이 꽤 크던데, 도대체 무슨 일이 있었던 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "...",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Don't worry, I won't tell.",
+         "zh-TW": "放心，我會保密的。",
+         "zh-CN": "放心，我会保密的。",
+         "ja": "大丈夫だよ。秘密は守るから。",
+         "ko": "걱정 마, 다른 사람한텐 얘기 안 할게."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Go ahead, maybe I can step in and get the ones who wrote the contract to cover the cost for you.",
+         "zh-TW": "說吧，也許我可以出面讓寫合約的那幾位幫你買單。",
+         "zh-CN": "说吧，也许我可以出面让写合同的那几位替你买单。",
+         "ja": "話してみて。もしかしたら、契約を書いた人たちに払わせることができるかもしれない。",
+         "ko": "말해 봐, 어쩌면 내가 나서서 계약 조항을 작성한 세쉬카 쪽에 비용을 부담하라고 할 수도 있어."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Well, he said their shields were the toughest in the Band, that they could block anything.",
+      "zh-TW": "當時大叔說，他們家的盾在文明環帶是第一堅固的盾，什麼都擋得住。",
+      "zh-CN": "当时大叔说，他们家的盾文明环带第一结实，什么都挡得住。",
+      "ja": "……商人のおじさんが、「うちの盾は文明地帯で一番頑丈だ、なんでも防げるんだ」って……",
+      "ko": "그때 상인 아저씨가 자기네 방패가 문명 밴드에서 제일 튼튼하다면서, 뭐든 다 막을 수 있다고 하더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "I thought, according to the contract, I had to prove that the Witching Hour's weapons are the most powerful in the world too.",
+      "zh-TW": "我想，按照合約上寫的，那就要證明巫術時刻的武器也是世界第一厲害。",
+      "zh-CN": "我想，按照合同上说的，那就得证明巫术时刻的武器也是世界第一厉害。",
+      "ja": "それで、契約に書いてある通り、ウィッチタイムの武器が世界一強いって証明しなきゃって……思ったんです……",
+      "ko": "그럼 계약 조항대로, 주술 타임의 무기도 최고라는 걸 증명해야 하잖아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "And then ... well, I happened to have a Witching Hour weapon on me ... so I ... gave a little demonstration...",
+      "zh-TW": "然後，我剛好帶著巫術時刻的武器……所以我就……演示了一下……",
+      "zh-CN": "然后，我正好带着巫术时刻的武器……所以我就……演示了一下……",
+      "ja": "そのとき、ちょうどウィッチタイムの武器を持ってて、それで、その……少し、試しちゃって……",
+      "ko": "그래서... 마침 제가 지니고 있던 주술 타임의 무기로... 잠깐 시연을 했더니..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "......",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "O ... kay. Let's go through the compensation process together.",
+      "zh-TW": "好……好吧，我們一起去走賠償流程吧。",
+      "zh-CN": "好……好吧，我们一起去走赔偿流程吧。",
+      "ja": "うん……わかったよ。一緒に賠償の手続きをしに行こう。",
+      "ko": "그... 그래, 같이 가서 배상 절차를 확인해 보자."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0026_lastrite_2",
+   "topic": {
+    "en": "To Better Days",
+    "zh-TW": "好日子",
+    "zh-CN": "好日子",
+    "ja": "良い日",
+    "ko": "좋은 날"
+   },
+   "lines": [
+    {
+     "speaker": "system",
+     "text": {
+      "en": "You sent [Last Rite] a reminder",
+      "zh-TW": "你向[別禮]傳送了一次提醒",
+      "zh-CN": "你向[别礼]发送了一次提醒",
+      "ja": "「ラストライト」にリマインドを送りました",
+      "ko": "[라스트 라이트] 님에게 알림을 보냈습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Endmin? Looking for me again?",
+      "zh-TW": "咦？管理員又找我嗎？",
+      "zh-CN": "咦？管理员又找我吗？",
+      "ja": "わっ……わたしにまた、なにか用でしょうか？",
+      "ko": "어? 관리자님, 또 저를 찾으셨나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "This time it's a remittance slip from Seš'qa, and it's not a small amount.",
+      "zh-TW": "這次是塞什卡的匯款單，數額也不小。",
+      "zh-CN": "这次是塞什卡的汇款单，数额也不小。",
+      "ja": "今回は、セシュカから小切手が届いているよ。金額も随分大きい……",
+      "ko": "이번엔 세쉬카 쪽에서 송금 영수증이 왔더라고. 꽤 적지 않은 금액이던데."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "That should be the \"business stipend\" from last time, right?",
+      "zh-TW": "應該是上次的「商務津貼」吧？",
+      "zh-CN": "应该是上次的“商务津贴”吧？",
+      "ja": "もしかして、前回の「ビジネス手当」でしょうか……",
+      "ko": "아, 아마 지난번 사건에 대한 '업무 수당'일 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Grandpa Fleming just told me the other day, even though we had to pay compensation, it seems everyone at Seš'qa was really satisfied with the on-site promotional results.",
+      "zh-TW": "弗萊明爺爺前幾天剛跟我說過，雖然要賠償，但塞什卡的各位好像非常滿意現場的宣傳效果。",
+      "zh-CN": "弗莱明爷爷前几天刚和我说过，虽然要赔偿，但塞什卡的各位好像十分满意现场的宣传效果。",
+      "ja": "フレミングおじいさんが言ってました。賠償金は払わないといけないけど、セシュカとしては宣伝の効果に満足してるって。",
+      "ko": "며칠 전에 플레밍 할아버지께서 말씀하셨는데... 비록 배상은 해야 했지만, 세쉬카 쪽에서는 현장 홍보 효과에 꽤 만족하신 것 같다고 하셨어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "The business world is just like a battlefield...",
+      "zh-TW": "商場如戰場啊……",
+      "zh-CN": "商场如战场啊……",
+      "ja": "ビジネスというのは、戦場みたいなものなんだね……",
+      "ko": "상업 경쟁도 전장 못지않네..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "I'll forward the remittance slip to Human Resources. They'll help me wire it back home.",
+      "zh-TW": "我會把匯款單轉交給人力資源事務部的，他們會幫我匯給家裡。",
+      "zh-CN": "我会把汇款单转交给人力资源事务部的，他们会帮我汇给家里。",
+      "ja": "この小切手は、人事部の方に手伝ってもらって、お家に送ってもらおうと思います。",
+      "ko": "송금 영수증은 제가 인력 자원 사무부에 전달할게요. 그쪽에서 집으로 송금해 주실 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Seems like this isn't the first time. Last Rite, do you often send money back home?",
+      "zh-TW": "看來不是第一次了，別禮經常匯錢回家裡嗎？",
+      "zh-CN": "看来不是第一次了，别礼平时经常给家里寄钱吗？",
+      "ja": "これが初めてってわけじゃないんだね。普段からよくお金を送っているの？",
+      "ko": "처음이 아닌 거 같네? 평소에도 자주 집에 돈을 보내는 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "I send some every month. There's not really anywhere for me to spend money here at Endfield",
+      "zh-TW": "每個月都會喔，我在終末地沒什麼地方要花錢",
+      "zh-CN": "每个月都会寄喔，我在终末地没什么地方要花钱",
+      "ja": "はい、毎月送ってるんです！わたし、エンドフィールドではあまりお金を使うことがなくて……",
+      "ko": "네, 매달 보내고 있어요. 전 여기서 딱히 돈 쓸데가 없거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Mom and Dad use the money for medical treatment and to repair the cemetery. They've already replaced the entire fence and laid down a new gravel path.",
+      "zh-TW": "爸爸媽媽會拿錢去治病和修理墓園，他們已經換了新的籬笆，也鋪了新的石頭路。",
+      "zh-CN": "爸爸妈妈会拿钱去治病和修理墓园，他们已经把篱笆重新换了一圈，也铺了新的石子路。",
+      "ja": "お父さんとお母さんが、みんなの治療やお墓のために使ってくれるんです。柵を新しくして、道の石もきれいにできたんですよ。",
+      "ko": "엄마랑 아빠는 그 돈으로 치료도 받으시고, 묘지도 수리하고 계세요. 이미 집 주위의 울타리도 새로 바꾸고, 집 앞에 새 자갈도 깔았다고 해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "But Dad still refuses to hand over the work to anyone else. He insists on doing everything himself.",
+      "zh-TW": "不過，爸爸還是不願意把工作交給別人，一定要自己親自動手。",
+      "zh-CN": "不过，爸爸还是不肯把工作交给别人，一定要自己亲自动手。",
+      "ja": "でも、お父さんは仕事をほかの人に任せたくないみたいで、全部自分でやるって……",
+      "ko": "근데, 아빠는 여전히 일을 다른 사람에게 맡기지 않으시려고 해요. 뭐든지 직접 하셔야 마음이 놓이시나 봐요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "It's just ... because his back hurts and the work is so hard for him, that's why I wanted to find a job and earn some money...",
+      "zh-TW": "明明就是因為他腰痛，工作很辛苦，我才想出來打工賺點錢的……",
+      "zh-CN": "明明就是因为他腰痛，干活很辛苦，我才想出来打工赚点钱的……",
+      "ja": "腰を痛めてて、大変なのに……だから、わたしが働いて、少しでも助けになれたらって思ったんです……",
+      "ko": "허리가 아파서 힘들어하시길래, 제가 이렇게 돈을 벌려고 나온 건데..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "At least you're already helping share his burden. He doesn't have to worry about medical expenses anymore, right?",
+         "zh-TW": "至少你已經幫他分擔了壓力，他也不用擔心治病的錢了，不是嗎？",
+         "zh-CN": "至少你已经帮他分担了压力，他也不用担心治病的钱了，不是吗？",
+         "ja": "だったら、お父さんの助けにはなれたね。治療費の心配もしなくていいだろうし……",
+         "ko": "그래도 넌 이미 아버님의 부담을 덜어 주고 있잖아. 적어도 이제 치료비 걱정은 안 하셔도 되니까, 안 그래?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Most people wouldn't come all the way to Endfield to work a job while wearing a Witching Hour prototype combat suit...",
+         "zh-TW": "普通人是不會穿著巫術時刻的測試款作戰服到終末地打工的喔……",
+         "zh-CN": "一般人可不会穿着巫术时刻的测试款作战服到终末地打工啊……",
+         "ja": "だからといって、ウィッチタイムの試作戦闘服を着て、エンドフィールドでバイトするのはかなり珍しいけど……",
+         "ko": "그래서 이렇게 엄청난 일을 하게 된 거구나... 주술 타임의 테스트용 작전복을 입고 엔드필드에서 아르바이트하는 사람은 흔치 않은데..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Yeah, you're right. The way things are now is already pretty good.",
+      "zh-TW": "是沒錯啦，現在這樣已經很好了。",
+      "zh-CN": "是没错啦，现在这样已经很好了。",
+      "ja": "あ、あの……はい。だから、今もすごく満足しているんです。",
+      "ko": "헤헤... 맞아요, 지금처럼 살 수 있는 것도 아주 감사할 일이죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "I also want to save up a bit more money to ship some farm machinery to our town.",
+      "zh-TW": "我還想再存一筆錢，幫鎮裡多買幾台農機。",
+      "zh-CN": "我还想再攒一笔钱，给镇子里运一些农机。",
+      "ja": "でも、もう少しお金を貯めて、農業の機械を送れたらって……",
+      "ko": "하지만 돈을 더 모아서, 마을에 농기계를 들여놓고 싶어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "An operator told me the UWST sells farm equipment really cheap, but getting it shipped all the way out to my place would cost a fortune",
+      "zh-TW": "有個幹員哥哥跟我說過，聯盟工團有很便宜的農機轉讓，但我家有點偏僻，運輸成本很高",
+      "zh-CN": "有个干员哥哥跟我说过，联盟工团有很便宜的农机转让，但我家有点偏僻，运输成本很高",
+      "ja": "オペレーターの方に聞いたのですが、工業団連盟では安く機械を譲ってくれるらしいんです！でも、うちはちょっと遠いので、運ぶのにもお金がかかって……",
+      "ko": "아는 선배 오퍼레이터가 그러는데, 연맹 공단에서 중고 농기계를 싸게 판다고 했어요. 다만 우리 마을이 좀 외진 데 있어서, 운송비가 꽤 많이 들거든요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "If we could clear more land, we could grow more food and cash crops. Maybe then more people would move in, and the roads would slowly get fixed too.",
+      "zh-TW": "如果能多開墾一點地，就能種更多糧食和用來賣錢的作物，說不定還會有更多人搬進來，路也會慢慢修好。",
+      "zh-CN": "如果能多开垦一点地，就能种更多粮食和用来卖钱的作物，没准还会有更多人搬进来，路也会慢慢修好。",
+      "ja": "でも、畑を広げられたら、もっとたくさん食べ物を作って売ることもできるし、住む人も増えるかもしれないので……そうしたら、道も整備されるかもしれなくて……",
+      "ko": "근데, 만약 땅을 조금 더 일굴 수 있다면, 더 많은 곡식이랑 작물을 재배해서 팔 수 있고, 그러면 사람들도 많이 이주해 와서 도로도 점점 더 다니기 편해질지도 몰라요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "When that happens, we won't have to travel for days just to get to the city!",
+      "zh-TW": "到時候，去城裡就不用趕好幾天的路了！",
+      "zh-CN": "到时候，去城里就不用赶好几天的路了！",
+      "ja": "そうしたら、大きい町に行くとき、何日もかからなくなると思うんです！",
+      "ko": "그때가 되면, 며칠을 거쳐 시내로 가던 것도 훨씬 단축되겠죠!"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You're really thinking ahead. It's impressive that you're considering all this.",
+         "zh-TW": "看得很長遠呢，能想到這些，已經很了不起了。",
+         "zh-CN": "看得很长远呢，能想到这些，已经很了不起了。",
+         "ja": "随分先のことまで考えているんだね。すごく立派だと思う。",
+         "ko": "아주 멀리 내다보고 있구나. 거기까지 생각하다니, 정말 대단한데?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Looks like you've put a lot of thought into this. You really care about your hometown, don't you?",
+         "zh-TW": "看來是有好好思考過，你為家鄉操了不少心啊。",
+         "zh-CN": "看来是有好好思考过，你为家乡操了不少心啊。",
+         "ja": "自分の家のことをすごく大切にしているんだね。",
+         "ko": "고향을 위해 많이 애쓰고 있구나."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Hehe",
+      "zh-TW": "嘿嘿",
+      "zh-CN": "嘿嘿",
+      "ja": "えへへ……",
+      "ko": "헤헤..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "I've learned so much here at Endfield. People even helped me research exactly how to do it and how much everything would cost.",
+      "zh-TW": "在終末地可以學到好多東西，大家還一起幫我研究過實際要怎麼做，在哪裡花多少錢。",
+      "zh-CN": "在终末地可以学到好多东西呢，大家还一起帮我研究过具体要怎么做，在哪里花多少钱。",
+      "ja": "エンドフィールドで、いろんなことを教えてもらいました。みなさんも一緒に考えてくれて、どうすればいいかとか、どこにお金がかかるかとか……",
+      "ko": "다 엔드필드에서 배운 것들이에요. 다들 구체적으로 어떻게 해야 하는지, 어디에 돈을 얼마를 써야 하는지 같이 연구해 주셨거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Though by the time we got to demography and logistics management theory, I was completely lost...",
+      "zh-TW": "雖然到了人口學和物流管理理論那裡的時候，我就已經跟不上了……",
+      "zh-CN": "虽然到了人口学和物流管理理论那块的时候，我就已经跟不上了……",
+      "ja": "わたしは、人口学とか物流管理の話とかには……全然ついていけなかったんですけど……",
+      "ko": "물론 인구학이나 물류 관리 이론 얘기가 나왔을 땐, 무슨 말을 하는지 전혀 따라가지 못했지만요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "There's just one big problem with this whole plan that I still can't figure out",
+      "zh-TW": "不過，這個計劃有一個最大的問題，我到現在還不知道該怎麼解決",
+      "zh-CN": "不过，这个计划有一个最大的问题，我到现在还不知道该怎么解决",
+      "ja": "それに、大変な問題もあって……まだ、どうしたらいいかわからないんです",
+      "ko": "아, 근데... 이 계획에는 큰 문제가 하나 있어요. 전 아직까지 그 문제를 어떻게 해결해야 할지 모르겠어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "One big problem? What is it?",
+      "zh-TW": "最大的問題？是什麼？",
+      "zh-CN": "最大的问题？是什么？",
+      "ja": "大変な問題……って、どんなもの？",
+      "ko": "큰 문제? 그게 뭔데?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "They said the UWST distributes internally by their rules, but external equipment sales are all about bidding and haggling...",
+      "zh-TW": "他們說，工團對內按制度分配，但對外的農機轉讓是要搶單和議價的……",
+      "zh-CN": "他们说，工团对内按制度分配，但对外的农机转让是要抢单和议价的……",
+      "ja": "えっと……工業団の外部に農業の機械を譲渡するときは、早いもの勝ちで、値段交渉も必要だって……",
+      "ko": "그게... 공단 내부에서는 제도에 따라 배분하지만, 외부로 농기계를 판매할 때는 선착순 경쟁도 해야 하고, 가격 협상도 해야 한대요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "I'm really not good at that",
+      "zh-TW": "這個我真的不會",
+      "zh-CN": "这个我真的不会",
+      "ja": "わたし、そういうのは……本当に苦手で……",
+      "ko": "그건 진짜 못 하겠어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I'll go with you when the time comes...",
+      "zh-TW": "到時候我陪你去一趟吧……",
+      "zh-CN": "到时候我陪你去一趟吧……",
+      "ja": "それなら、一緒に行くよ。",
+      "ko": "그럼 그때가 되면 내가 같이 가줄게..."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0026_lastrite_3",
+   "topic": {
+    "en": "No What-ifs",
+    "zh-TW": "不應留有遺憾",
+    "zh-CN": "不应留有遗憾",
+    "ja": "後悔のないように",
+    "ko": "아쉬움이 남지 않도록"
+   },
+   "lines": [
+    {
+     "speaker": "system",
+     "text": {
+      "en": "You sent [Last Rite] a reminder",
+      "zh-TW": "你向[別禮]傳送了一次提醒",
+      "zh-CN": "你向[别礼]发送了一次提醒",
+      "ja": "「ラストライト」にリマインドを送りました",
+      "ko": "[라스트 라이트] 님에게 알림을 보냈습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Last Rite, logistics said I got a package, but it's marked for you.",
+      "zh-TW": "別禮，後勤幹員說我收到了一個包裹，但上面寫著要轉交給你。",
+      "zh-CN": "别礼，后勤干员说我收到了一个包裹，但上面写着要转交给你。",
+      "ja": "後方支援のオペレーターから荷物を受け取ったよ。君に渡すようにって。",
+      "ko": "지원 오퍼레이터가 내 앞으로 온 소포가 있다고 해서, 확인해 보니 너한테 전해 달라고 쓰여 있었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Looks like there's a red flag inside the package. Do you know what this is about?",
+      "zh-TW": "包裹裡好像是一面紅色的旗子，你知道是什麼情況嗎？",
+      "zh-CN": "包裹里好像是面红色的旗子，你知道情况吗？",
+      "ja": "中身は赤い旗みたいだけど……心当たりはある？",
+      "ko": "안에 붉은색 깃발 같은 게 들어 있던데, 이게 뭔지 알겠어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "???!!!!??!",
+      "zh-TW": "？？？！！！！？？！",
+      "zh-CN": "？？？！！！！？？！",
+      "ja": "？？？！！！！？？！",
+      "ko": "???!!!!??!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "I didn't buy any flag I haven't spent any money lately and why would it be sent to you? Something's definitely wrong I'll go check right away",
+      "zh-TW": "我沒有買旗子啊最近都沒花錢而且為什麼會送到您那裡一定是哪裡搞錯了我去檢查一遍",
+      "zh-CN": "我没有买旗子啊最近都没花钱而且为什么会送到您手里肯定是哪里搞错了我去检查一遍",
+      "ja": "わたし旗なんて買ってません、ぜんぜん、お金とかも使わないですし管理人さんに届くわけないですし……あの、何かの間違いだと思うので急いで確認……",
+      "ko": "저, 저는 깃발을 산 적이 없어요! 요즘 어디다 돈을 쓴 적도 없고요. 게다가 왜 저한테 온 소포가 관리자님께 가게 된 거죠... 어딘가 잘못된 게 분명해요, 제가 바로 가서 한번 확인해 볼게요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "I'm so sorry for bothering you with this I didn't mean to please forgive me I'm really really really really really sorry",
+      "zh-TW": "總之非常抱歉打擾到您我不是故意的請您原諒對不起對不起對不起對不起對不起對不起",
+      "zh-CN": "总之非常抱歉打扰到您我不是故意的请您原谅对不起对不起对不起对不起对不起对不起",
+      "ja": "ご迷惑をおかけして、あの、その……ごめんなさい……もうしわけありません……",
+      "ko": "어찌 됐든 폐를 끼쳐서 죄송해요. 그럴 생각은 없었는데... 정말 죄송합니다, 정말 정말 정말 죄송해요, 다 제 잘못이에요..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Take it easy, I was just asking. Nothing's gone wrong.",
+         "zh-TW": "冷靜一點，只是問問，沒出什麼問題。",
+         "zh-CN": "冷静一点，只是问问，没出什么乱子。",
+         "ja": "落ち着いて。ちょっと聞いただけだよ。問題も起きていないし……",
+         "ko": "별일 아니니까 일단 진정해, 그냥 물어본 거야."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You didn't make a single typo this time, that's real progress.",
+         "zh-TW": "這次竟然一個字都沒打錯，有進步喔。",
+         "zh-CN": "这次竟然一个字都没打错，有进步哦。",
+         "ja": "今回は打ち間違いもないし、進歩してるね。",
+         "ko": "그래도 이번에는 많이 늘었네, 한 글자도 안 틀리고."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Oh",
+      "zh-TW": "啊",
+      "zh-CN": "啊",
+      "ja": "あ",
+      "ko": "아!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "I know",
+      "zh-TW": "我想到了",
+      "zh-CN": "我想到了",
+      "ja": "思い出しました……！！！",
+      "ko": "생각났어요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "A few days ago, I finished my volunteer service at that prison run by HAS. The warden mentioned he wanted to send me something.",
+      "zh-TW": "前幾天我在宏科院一家監獄的志願服務結束了，長官先生說過要送我什麼東西。",
+      "zh-CN": "前几天我在宏科院一家监狱的志愿服务结束了，领导先生说过要送我什么东西。",
+      "ja": "この間、宏科院の刑務所でボランティアをしてきたんです。そのとき、担当さんが「なにか贈るね」と言ってくださって……",
+      "ko": "제가 며칠 전에 홍산 과학원에 있는 감옥에서 자원봉사를 했었거든요. 그때 담당자분이 뭘 보내주신다고 말씀하셨어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Looks like it's an honorary banner. No wonder they sent it to me first.",
+      "zh-TW": "看來是一面錦旗，難怪會先交給我。",
+      "zh-CN": "看来是面锦旗，难怪会先交给我。",
+      "ja": "なるほど、感謝の旗かそれで、先にこっちに届いたんだね。",
+      "ko": "그럼 감사 깃발이겠네, 그래서 먼저 나한테 온 거구나."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "...Wait, you volunteered at a prison?",
+      "zh-TW": "……等等，去監獄參加志願服務？",
+      "zh-CN": "……等等，去监狱参加志愿服务？",
+      "ja": "……ちょっと待って。刑務所でボランティア……？",
+      "ko": "...잠깐만, 감옥에서 자원봉사를 했다고?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Yeah, they house some young offenders who committed minor crimes. They needed people their own age to help with rehabilitation and education.",
+      "zh-TW": "是的，那邊收容了一些年輕的輕罪犯人，需要有同齡人協助開展感化教育。",
+      "zh-CN": "是的，那边收容了一些年轻的轻罪犯人，需要有同龄人协助进行感化教育。",
+      "ja": "はい、ちょっとしたことで捕まってしまった若いみなさんがいるところで、同年代のボランティアが更生に協力するという……",
+      "ko": "네, 그쪽에 젊은 경범죄자들이 수용되어 있는데, 또래 사람들이랑 대화하면서 교화 교육을 돕는 프로젝트가 있다고 해서요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "I signed up when I heard they needed help. It wasn't complicated, mostly just spent time talking with them.",
+      "zh-TW": "我聽說之後就報名參加了，沒有什麼特別要做的，多和他們聊聊天就好。",
+      "zh-CN": "我听说之后就报名参加了，没有什么特别要做的，多和他们聊聊天就好。",
+      "ja": "そのお話をきいて、すぐ応募したんです！特別なことはしなくてもよくて、ただ一緒にお話すればいいって……",
+      "ko": "소문을 듣자마자 바로 지원했죠. 특별히 해야 할 일은 없었고, 그냥 그들과 대화를 많이 나누면 됐어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "They made fun of me for a long time at first ... but I still found a way to stick it out till the end!",
+      "zh-TW": "一開始還被笑了好久……但我還是想辦法堅持到最後了！",
+      "zh-CN": "一开始还被笑话了好久……但我还是想办法坚持到最后了！",
+      "ja": "最初はずいぶん笑われちゃいましたけど……なんとか、最後までやりきれました！",
+      "ko": "처음엔 꽤 놀림을 많이 받았지만... 그래도 어떻게든 끝까지 버텨냈어요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That does sound like meaningful work, but it doesn't seem like your strong suit. Why did you push yourself so hard with it?",
+      "zh-TW": "確實是很有意義的工作，但你應該不太擅長這方面吧，為什麼會這麼努力？",
+      "zh-CN": "确实是很有意义的工作，但你应该不太擅长这块吧，为什么会这么努力？",
+      "ja": "すごく立派なことだと思うけど、君はあまり得意そうじゃないかなと思って……どうしてそこまで頑張れたのかな。",
+      "ko": "아주 의미 있는 일이네. 네 성격에 그런 활동은 쉽지 않을 텐데, 그렇게까지 열심히 한 이유라도 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "It's kinda complicated ... how should I put this...",
+      "zh-TW": "有點複雜……要怎麼說呢……",
+      "zh-CN": "有点复杂……要怎么说呢……",
+      "ja": "ちょっと……むずかしいですけど……",
+      "ko": "그게... 좀 복잡해요... 어떻게 설명해야 할까요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Perhaps ... it's because of a gentleman from our family cemetery.",
+      "zh-TW": "可能，是因為我家墓園裡的一位先生。",
+      "zh-CN": "可能，是因为我家墓园里的一位先生。",
+      "ja": "あの、わたしのお家の墓地に来た人のことがきっかけで……",
+      "ko": "아마 저희 집 묘지에 계셨던 어떤 분 때문인 것 같아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "It's not a ghost story, I promise!",
+      "zh-TW": "不是要講鬼故事啦！",
+      "zh-CN": "不是要讲鬼故事啦！",
+      "ja": "あ、怖い話ではないんです",
+      "ko": "무서운 이야기를 하려는 건 아니고요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "That gentleman was a Landbreaker who fled to our cemetery. By the time my family found him, he was already on the verge of death.",
+      "zh-TW": "那位先生是逃到墓園裡來的裂地者，我們一家找到他的時候，他已經奄奄一息了。",
+      "zh-CN": "那位先生是逃到墓园里来的裂地者，我们一家找到他的时候，他已经奄奄一息了。",
+      "ja": "その人はランドブレーカーで、うちのお墓に逃げ込んできたんです。わたしたちが見つけたときは、ぼろぼろで、傷だらけで……",
+      "ko": "그분은 묘지로 도망쳐 온 랜드브레이커였어요. 저희 가족이 발견했을 땐 이미 거의 숨을 거두기 직전이었죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "He was so heartbroken at the end. He kept crying, asking \"What do I even want?\" until he finally passed... It really stuck with me.",
+      "zh-TW": "他最後變得很難過，說著「我到底想要什麼」，哭著嚥了氣……那種感覺讓我很難過。",
+      "zh-CN": "他最后变得很难过，说着“我到底想要什么”，哭着咽了气……那种感觉让我很难受。",
+      "ja": "最期、とても悲しそうにこう言ったんです。「一体、何が欲しかったんだろう」って……泣きながら、息を引き取りました。そのときのことが、ずっと胸に残っていて……",
+      "ko": "그분은 마지막에 '나는 대체 무엇을 위해 살아온 걸까'라고 말하면서 무척 괴로워하며 울다가, 결국 숨을 거뒀어요... 전 그때 너무 마음이 아팠어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "After I started working, I helped out with some funerals through Seš'qa too. I heard a lot more people's final wishes.",
+      "zh-TW": "出來工作之後，我在塞什卡也在一些葬禮上幫過忙，聽到了更多人的遺願。",
+      "zh-CN": "出来打工之后，我在塞什卡也给一些葬礼帮过忙，听到了更多人的遗愿。",
+      "ja": "こうして働くようになってから、セシュカで葬儀の手伝いをしたこともあって、いろんな人の最期の願いを聞きました。",
+      "ko": "그 후 제가 집을 떠나 일을 시작한 뒤, 세쉬카에서도 몇 번 장례를 도우며 많은 사람들의 유언을 들었어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "I realized, the funerals for people who spent their whole lives living on the edge, just struggling to survive ... they feel just as empty.",
+      "zh-TW": "我發現，那些一輩子都刀口舔血的人、為了活下來就精疲力盡的人，他們的葬禮也一樣，空空的。",
+      "zh-CN": "我发现，那些一辈子都刀口舔血的人，为了活下来就精疲力竭的人，他们的葬礼也一样，空空的。",
+      "ja": "でも、気づいたんです。生きるためにずっと戦い続けて、生きるために疲れ果てて……でも、最期のお葬式のときは、空っぽなんです。",
+      "ko": "평생 칼끝 위에서 살아온 사람들, 살아남기 위해 몸부림치던 사람들은... 마지막 가는 길도 그들이 살아온 인생처럼 텅 비어 있더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "Most of them didn't have any final wishes. I couldn't sense any satisfaction or peace... It always felt like they never found any calm in the end.",
+      "zh-TW": "他們大多沒有遺願，不論是滿足還是釋懷，我都感覺不到……總覺得他們最後也沒有得到平靜。",
+      "zh-CN": "他们大都没有遗愿，不论是满足还是释怀，我都感觉不到……总觉得他们最后也没能得到平静。",
+      "ja": "最期の願いもなくて、満足することも、安らぎもなくて……最後の最後まで、何も感じられなかったんじゃないかって……",
+      "ko": "그들은 대개 어떤 유언도 남기지 않았어요. 살아왔던 인생에 대한 만족이나 미련... 그 어떤 것도 느껴지지 않았죠... 어쩌면 그들은 끝까지 평온한 결말을 맞이하지 못한 것 같이 느껴졌어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "So I figured, if I can help people who still have time turn things around, help them live properly ... maybe that would mean fewer stories ending like that.",
+      "zh-TW": "所以我想，如果能幫助那些還有機會的人重新找到目標，讓他們好好生活，應該能讓這種遺憾變少一點……",
+      "zh-CN": "所以我想，如果能帮助那些还有机会的人重新找到目标，让他们好好生活，应该能让这种遗憾变少一些……",
+      "ja": "だから、まだ間に合う人がいるなら……目標を見つけて、生き直せるなら……そういう後悔も、もしかして減るのかもしれないって……",
+      "ko": "그래서 생각했어요. 아직 기회가 있는 사람들이 다시 삶의 목표를 찾고, 제대로 살아갈 수 있도록 도울 수 있다면... 그런 아쉬움이 조금은 줄지 않을까 하고요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I see. That's a really admirable way of thinking.",
+         "zh-TW": "原來如此，的確是很了不起的想法。",
+         "zh-CN": "原来如此，确实是很了不起的想法。",
+         "ja": "うん……立派な考えだね。",
+         "ko": "그렇구나, 정말 훌륭한 생각이네."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I understand, but that path isn't an easy one. You'll need to be prepared.",
+         "zh-TW": "我瞭解了，不過這條路不輕鬆喔，你要做好準備。",
+         "zh-CN": "我明白了，不过这条路可不轻松，你得做好准备。",
+         "ja": "そうなんだね。でも、簡単な道ではないと思う。覚悟しないと。",
+         "ko": "그렇구나, 하지만 네가 선택한 건 결코 쉬운 길이 아니야, 마음 단단히 먹어야 해."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Last Rite",
+         "zh-TW": "別禮",
+         "zh-CN": "别礼",
+         "ja": "ラストライト",
+         "ko": "라스트 라이트"
+        },
+        "text": {
+         "en": "No problem, I'm sure I can stick with it",
+         "zh-TW": "沒問題的，我一定可以堅持住",
+         "zh-CN": "没问题的，我肯定能坚持下来",
+         "ja": "大丈夫です。わたし、絶対やり遂げます",
+         "ko": "괜찮아요, 전 꼭 끝까지 해낼 거예요!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Well, if that's the case, then I ought to give you some proper encouragement.",
+      "zh-TW": "既然是這樣，那就要好好鼓勵一下你了。",
+      "zh-CN": "既然是这样，那就得好好鼓励一下你了。",
+      "ja": "じゃあ、ちゃんと応援しないと……",
+      "ko": "그래, 그럼 나도 열심히 응원해야겠네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I'll find some time to bring that banner over and hang it on your dorm door for you!",
+      "zh-TW": "找個時間，我把那面錦旗送過去，幫你掛在宿舍門上吧！",
+      "zh-CN": "找个时间，我把那面锦旗送过去，帮你挂在宿舍门上吧！",
+      "ja": "今度、その旗を君の寮のドアにかけてあげよう！",
+      "ko": "나중에 시간 되면 깃발을 가져다줄게. 네 숙소 문 앞에 걸어두자!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Last Rite",
+      "zh-TW": "別禮",
+      "zh-CN": "别礼",
+      "ja": "ラストライト",
+      "ko": "라스트 라이트"
+     },
+     "text": {
+      "en": "!!!!!",
+      "zh-TW": "！！！！",
+      "zh-CN": "！！！！",
+      "ja": "！！！！",
+      "ko": "!!!!"
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 0
+}

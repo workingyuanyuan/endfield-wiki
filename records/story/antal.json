@@ -1,0 +1,2943 @@
+{
+ "slug": "antal",
+ "gameId": "chr_0023_antal",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Antal \nGENDER: Male \nAUTHENTICATION: Endfield Industries \nDOB: April 10 \nRACE: Savra \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Normal \nCOMBAT SKILL: Standard \nTACTICAL ACUMEN: Normal \nORIGINIUM ARTS ASSIMILATION: Outstanding",
+    "zh-TW": "【代號】安塔爾\n【性別】男\n【身分認證】終末地工業\n【生日】4月10日\n【種族】薩弗拉\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：普通\n作戰技巧：標準\n戰術規劃：普通\n源石技藝適應性：卓越",
+    "zh-CN": "【代号】安塔尔\n【性别】男\n【身份认证】终末地工业\n【生日】4月10日\n【种族】萨弗拉\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：普通\n作战技巧：标准\n战术规划：普通\n源石技艺适应性：卓越",
+    "ja": "【コードネーム】アンタル\n【性別】男\n【身分証明】エンドフィールド工業\n【誕生日】4月10日\n【種族】サヴラ\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：普通\n戦闘技術：普通\n戦術立案：標準\nアーツ適性：卓越",
+    "ko": "[코드네임] 안탈\n[성별] 남\n[신분 인증] 엔드필드 공업\n[생일] 4월 10일\n[종족] 사브라\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 보통\n작전 기술: 표준\n전술 계획: 보통\n오리지늄 아츠 적응성: 탁월"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Antal is a member of Operations Team Z7. He was previously involved in Endfield Industries' Originium machine automation research project. Antal later transferred to the Specialist Tech Division following Operator Akekuri's special recommendations. \n\nAntal never hides his thoughts. When I asked him about his academic background as part of my routine inquiry process, he provided a comprehensive list of courses he took in every semester as well as his academic achievements... Nevertheless, this proves that Antal is passionate about his field of expertise and solemnly responds to various questions. \nAs I was preparing to conclude the interview, which Antal had extended to nearly three hours, he curiously asked me if I have a humor-appreciation system. He also offered to test the system for me, if I did not mind. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員安塔爾，Z7行動組成員。曾參與終末地工業源石自動化器械的研發，經幹員秋栗特別推薦，轉入特種技術部門。\n\n安塔爾從來不會掩飾自己的想法，當我問到他的學業情況時，他便完整向我講述了自己每學期的學習和研究成果，雖然我只是依照慣例詢問了一下……至少證明他確實熱愛自己的主修，對待問題也足夠認真。\n在終於要結束被他拖延到長達三小時的談話時，他突然好奇我有沒有幽默系統，對我說，不介意的話他可以幫忙測試一下。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员安塔尔，Z7行动组成员。曾参与终末地工业源石自动化器械研发项目，经干员秋栗特别推荐，转入特种技术部门。\n\n安塔尔从来不会掩饰自己的想法，当我问到他的学业情况时，他便完整向我讲述了自己每学期的学习和研究成果，虽然我只是依照惯例询问了一下……至少证明他确实热爱自己的专业，对待问题也足够认真。\n在终于要结束被他拖延到长达三小时的谈话时，他突然好奇我有没有幽默系统，对我说，不介意的话他可以帮忙测试一下。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "アンタルは行動隊Z7に所属している。エンドフィールドの源石自動化開発プロジェクトに参加したことがあり、アケクリの特別推薦により、特殊技術部へと異動した。\n\n「アンタルは、自分の考えを隠すタイプではありません。学業について尋ねると、毎学期の学習内容や研究成果の詳細を、事細かに語ってくれました。私は形式的に尋ねただけだったのですが……少なくとも、彼が自分の専攻に強い情熱を持ち、真剣に取り組んでいることは間違いないでしょう。」\n「彼が延々と話し続け、3時間に及んだ面談がようやく終わろうかというとき、今度は私に『ユーモア』システムが搭載されているかということに興味が湧いてきたようで、『差し支えなければテストさせて貰いたい』と申し出てきましたよ。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 안탈, Z7 작전팀 소속. 엔드필드 공업의 오리지늄 자동화 기계 개발 프로젝트에 참여했으며, 아케쿠리 오퍼레이터의 특별 추천으로 특수 기술부로 전입되었다.\n\n안탈은 자신의 생각을 숨기지 않는다. 내가 그의 학업 이력을 물었을 때, 그는 매 학기의 학습 및 연구 성과를 전부 빠짐없이 설명했다. 사실 그냥 형식상 물어본 질문이었는데 말이다... 적어도 그의 전공에 대한 애정과 문제를 대하는 태도는 충분히 진지하다는 걸 알 수 있었다.\n그와 장장 세 시간에 걸친 대화를 마무리하려는 순간, 그는 갑자기 내게 유머 감각이 있는지 궁금하다며, 괜찮다면 자기가 테스트해 보겠다고 했다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Antal is not as cold or unsociable as he appears. Everyone who actually talked to him would agree with this statement. No one expected this stern-faced dude obsessed with Originium technology and sciences to be equally passionate about lame jokes! Why would this techie tell jokes so bad that one would need to devote all their brain juices and logical reasoning to fathom? Is he doing this to boost his sense of humor? When you look at his expression-less face and realize that he's doing his best to make you laugh, you might also find it difficult to determine why you end up laughing anyway. Is it because of his lame jokes? Or the stark contrast presented by his physical form? \nAkekuri, Antal's team captain, has maintained extreme optimism about this quirk: \"At least he's sincere. Though there are times when he fails to read the context. For example, he may get a sudden urge to show off his sense of humor in the face of hostility. Unfortunately, the enemies often think otherwise.\" \nTo Antal, \"being someone interesting\" may have become a lifelong pursuit, and he treats everyone as instructors capable of reviewing his performance. It doesn't matter if they are fellow teammates of Op Team Z7 or fellow Endfielders whom he only met once — Antal would humbly seek advice from anyone deemed capable of sharing valuable recommendations. \nRecently, Antal placed his antics on hold as a particular individual stepped up to the game and volunteered to offer constant feedback... Hold on. It's voluntary, right? I don't know if there are other people capable of laughing even before Antal finishes his bad jokes. Yes, we're talking about our Endministrator, who would, with the greatest patience, hang out with Antal, and listen to everything he has to say — ranging from eureka moments of inventive ideas to hour-long science lectures that he suddenly initiates when he finds an opportunity to do so. In a particular memorable moment, Antal tried to persuade the Endmin to take off the mask. His excuse was to apply certain mods like a pair of beam-firing eyes... Of course, Akekuri happened to be nearby and she fiercely reprimanded Antal's action. The Operator was forced to write a 6000-word self-examination essay and read it aloud before the Endmin on the following day. \nOf course, this punishment was hardly effective to Antal. It would only take a few days before his creative mind starts to formulate other interesting ideas.",
+    "zh-TW": "安塔爾並非像他看上去那樣冷漠，難以相處，相信每一位和他有過接觸的人都有這樣的認知。這位熱衷於研究源石技術、看起來過分正經的傢伙，居然很喜歡講冷笑話！一個技術人才，會絞盡腦汁想出需要用邏輯推理才能勉強理解笑點的冷笑話，他這麼做的原因，只是想提升自己的幽默感嗎？尤其當他頂著面無表情的臉試圖引你發笑，你很難判斷讓你笑的點到底是他的冷笑話，還是他身上表現出的反差。\n他的隊長秋栗對此倒是保持著非常樂觀的態度：「至少他待人真誠，雖然有時說話不看場合。比如與敵人對峙時也會突然展示他的幽默感，可惜對方就不這麼認為了。」\n對安塔爾來說，「成為有趣的人」似乎是他人生的必修課，而所有人都是來考核他成績的老師，從Z7小隊的隊友到不過是一面之交的同事——只要是能給予有價值建議的對象，他都不吝於請教。\n但是最近，安塔爾不再去打擾別人了，因為終於有人自願長期給他回饋……等等，大概是自願的吧？畢竟很少有人還沒聽完安塔爾的笑話就笑了起來。是的，我們的管理員，在以最大的耐心和安塔爾相處，會聽完他所有的奇思妙想——包括他靈機一動的發明創意，以及抓住一個機會就展開的長達幾小時的科普演講。尤其某次，他竟然試圖說服管理員脫下面具，理由是想對它做一些改裝，比如加一雙電光眼……最後當然是被路過的秋栗狠狠教訓一通，當晚寫了六千字的悔過書，並在第二天當著管理員的面大聲朗讀出來。\n當然，這種懲罰對安塔爾來說完全沒用，沒過幾天，他靈活的大腦大概又要冒出一些奇妙的點子了。",
+    "zh-CN": "安塔尔并非像他看上去那么冷漠，难以相处，相信每一位和他有过接触的人都有这样的认知。这位热衷于研究源石技术、看起来过分板正的家伙，居然很喜欢给人讲冷笑话！一个技术人才，会绞尽脑汁想出需要用逻辑推理才能勉强理解笑点的冷笑话，他这么做的原因，只是想提升自己的幽默感吗？尤其当他顶着面无表情的脸试图引你发笑，你很难判断让你发笑的点到底是他的冷笑话，还是他身上表现出的反差。\n他的队长秋栗对此倒是保持着非常乐观的态度：“至少他待人真诚，虽然有时说话不看场合。比如与敌人对峙时也会突然展示他的幽默感，可惜对方就不这么认为了。”\n对安塔尔来说，“成为有趣的人”似乎是他人生的必修课，而所有人都是来考核他成绩的老师，从Z7小队的队友到不过一面之交的同事——只要是能给予有价值建议的对象，他都不吝于请教。\n但是最近，安塔尔不再去打扰别人了，因为终于有人自愿长期给他反馈……等等，大概是自愿的吧？毕竟很少有人还没听完安塔尔的笑话就笑了起来。是的，我们的管理员，在以最大的耐心和安塔尔相处，会听完他所有的奇思妙想——包括他灵机一动的发明创意，以及抓住一个机会就展开的长达几小时的科普演讲。尤其某次，他竟然试图说服管理员脱下面具，理由是想对它做一些改装，比如加一双电光眼……最后当然是被路过的秋栗狠狠教训一通，当晚写了六千字检讨，并在第二天当着管理员的面大声朗读出来。\n当然，这种惩罚对安塔尔来说完全没用，没过去几天，他灵活的大脑大概又要冒出一些奇妙的点子了。",
+    "ja": "アンタルは見た目ほど冷たくもなく、付き合いにくい存在でもない。話してみれば、誰もがそれを実感するだろう。源石技術の研究に熱中し、いかにも真面目そうに見えるアンタルだが、実は……「寒いギャグ」が大好きなのだ。しかも技術者らしく、全力でロジカルシンキングしなければ理解できないような凍てつくネタを真面目に考えている……それは、ただユーモアのセンスを磨きたいだけなのだろうか？彼が真顔でギャグを披露するとき――思わず笑ってしまうのは、ギャグが面白いのか、それとも堅物な本人とのギャップにやられてしまっただけなのだろうか？\n隊長であるアケクリは、この件について全く気にしておらず、むしろ前向きにとらえているようだった。「少なくとも、みんなに対して誠実なのは伝わってきます。TPOに合わない発言をしてしまうことはありますが……例えば、目の前にいる敵にいきなりギャグを言うときもあるんですよ。残念ながら、相手が笑うことは……」\nアンタルにとって「面白い人になる」ことは、人生の必修科目らしい。そして、周囲にいる全員が評価をくれる「先生」だ。行動隊Z7の仲間はもちろん、たった1度会っただけの同僚まで――有益なアドバイスをくれるならば、誰にでも遠慮なく教えを乞う。\nしかし、最近は人に声をかけることが少なくなった。ついに長期的なフィードバックを快くしてくれる人物が現れた――いや、快く……というわけではないのかもしれない。アンタルのギャグを聞いて、途中で笑い出す人など滅多にいないのだから――その人物こそ、管理人だ。管理人は、高い忍耐力でアンタルに真摯に向き合い、彼の奇抜な発想――突然の発明アイディアから、ふとしたきっかけで始まる数時間の科学講演まで――すべて受け止める。特に印象深いのは、アンタルが「マスクを貸してほしい」と管理人を説得しようとしたときのこと。ちなみに理由は「改造して、目が光る機能をつけたい」というものであった。もちろんその場で通りかかったアケクリに厳しく叱られていたが……その夜、アンタルは6,000文字の自己反省文を書き、翌日、管理人の前に立ち大声で読み上げた。\n――もっとも、こんな罰は彼にとってあまり効果がない。数日も経たないうちに、あの回転が速すぎる頭脳は、奇想天外なアイディアの数々を思いつくだろう。",
+    "ko": "안탈은 겉보기만큼 차갑거나 까다로운 사람은 아니다. 그와 한 번이라도 이야기해 본 사람이라면 누구나 이 사실을 금세 알게 된다. 오리지늄 기술 연구를 사랑하는, 겉으로 보기엔 지나치게 딱딱한 이 남자가 의외로 썰렁한 농담을 매우 좋아한다는 사실을! 기술 전문가인 그가 만들어내는 농담은, 논리적인 추리를 거쳐야 겨우 이해되는 이른바 '썰렁한 농담'이다. 이런 전문가라는 사람이 굳이 고심해서 이런 농담을 하는 이유가 단지 '유머 감각'을 기르기 위해서일까? 특히 무표정한 얼굴로 억지로 웃기려는 모습을 보고 있으면, 정작 웃음이 나는 이유가 그의 농담 때문인지, 아니면 그 극명한 대비 때문인지 헷갈릴 때가 많다.\n그의 팀장인 아케쿠리 오퍼레이터는 이 상황을 아주 긍정적으로 바라본다. \"적어도 진심으로 소통하려 하잖아요. 물론, 가끔 상황을 안 가릴 때가 있긴 하죠. 예를 들면, 적과 대치 중일 때도 갑자기 유머 감각을 발휘한다든가. 안타깝게도, 상대는 그렇게 생각하지 않았지만요.\"\n안탈에게 있어 '재미있는 사람'이 되는 건, 마치 인생의 필수 과제인 듯하다. 그리고 세상 모든 사람은 그에게 피드백을 주는 '선생님'인 셈이다. Z7 팀의 동료부터 일면식인 동료까지, 피드백을 줄 만한 사람이라면 그는 주저 없이 찾아가 조언을 구한다.\n하지만 요즘 들어 안탈은 더 이상 다른 사람들을 귀찮게 하지 않는다. 왜냐하면 드디어 그에게 자발적으로 피드백을 주는 사람이 생겼기 때문이다... 음, 아마도 '자발적으로' 하는 행동이 맞을 것이다. 안탈의 농담을 끝까지 듣고 나서 웃어주는 사람은 거의 없으니까. 그렇다, 바로 우리의 관리자다. 안탈을 누구보다도 인내심 있게 상대해 주며, 그의 기상천외한 발명 아이디어며, 틈만 나면 시작되는 몇 시간짜리 과학 강연도 끝까지 들어준다. 특히 한번은 관리자의 마스크에 LED 눈을 달아 보겠다며 마스크를 벗어달라고 설득하려다가, 지나가던 아케쿠리에게 발각되어 호되게 혼이 났다. 그날 밤 6천 자 반성문을 작성했고, 다음 날 관리자 앞에서 큰 소리로 낭독해야 했다.\n물론 이런 벌은 안탈에게 전혀 효과가 없다. 며칠 안 가서 그의 머릿속에선 또다시 기상천외한 아이디어가 샘솟고 있을 테니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "DOCUMENT: Operator training logs \nIf we only look at Antal's current performance in training sessions, I have reasons to believe that he lacks direct combat capabilities. \nHe is skilled at offering fire support for his teammates with his self-customized staff and orbiters. However, he seldom casts his own Originium Arts. \nPerhaps we can continue to monitor his performance in actual field battles. \n— An instructor's notes \n\nDOCUMENT: A certain log that requires sufficient authority level \nAccording to reports by members of Operations Team Z7, Antal is exceptionally skilled in Originium Arts. His ability to cast the Arts far exceeds that of other operators in his cohort. When conducting a certain operation, Op Team Z7 members witnessed how Antal, in a crucial moment, positioned himself before the hostage. The operator used his Originium Arts to instantly disintegrate the greatsword swung by the attacking Landbreaker, and saved both himself and the hostage. \nIt was an extremely intense moment. Antal would immediately lose his life if he failed to de-weaponize the attacker. However, he himself remained extremely calm throughout the entire incident. Since then, members of Op Team Z7 gained a deeper appreciation of Antal's abilities — Though he was known for being slow when it comes to sensing dangers in the environment or picking up changes in the emotions of other people, he was willing to risk his own life to save others. This revealed Operator Antal to be an extremely kind and courageous individual. \nAntal was remarkably humble when his teammates asked him about what he did. Antal replied that he did not perfectly wield his Originium Arts and failed to achieve his grandmother's level of expertise. He claimed the old lady could take apart and reassemble large metal machinery, while disintegrating a Landbreaker's weapon was the most he could do. Antal also mentioned that his grandmother crafted a small staff for him during his childhood to make up for his lack of power. \n\"Your talent lies elsewhere — That is what my grandmother told me. And I have absolutely faith in her words.\"",
+    "zh-TW": "【幹員培訓紀錄】\n如果只看安塔爾目前的訓練表現，我有理由認為他並不具備足夠的正面作戰能力。\n他擅長用自己改造的法杖和浮游炮為隊友提供輔助，但很少使用他本人的源石技藝。\n或許有待進一步實戰觀察。\n——訓練教官備註\n\n【權限紀錄】\n根據Z7小隊成員的報告，安塔爾的源石技藝堪稱精湛，水準遠遠超過其他同期幹員。在執行某一次任務時，他們曾親眼見識過，安塔爾是如何在緊要關頭擋在人質面前，利用自己的源石技藝將裂地者揮舞而來的大劍瞬間分解，救下包括他自己在內的兩條生命。\n當時所有人都格外緊張，如果安塔爾沒及時分解那把武器，他立刻會丟掉性命，但他本人卻表現得非常冷靜。從那以後，隊友們對安塔爾有了更深的認知——這傢伙其實非常遲鈍，不論是感知危險情況，還是察覺別人的情緒波動，但他又願意冒著生命危險去救人，也說明他是非常善良和勇敢的人。\n事後面對隊友的詢問，安塔爾表現得格外謙虛——他說自己的源石技藝掌握得並不是很好，完全無法做到像他的奶奶那樣將一個大件金屬器械分解並重構，分解裂地者的武器是他能做到的極限。他還提到，小時候奶奶還特地做了一根小法杖送給他，用來彌補這方面的不足。\n「你的天賦在別的地方——奶奶曾這樣對我說過，而我一直對這件事深信不疑。」",
+    "zh-CN": "【干员培训纪录】\n如果只看安塔尔目前的训练表现，我有理由认为他并不具备足够的正面作战能力。\n他擅长用自己改造的法杖和浮游炮为队友提供辅助，但很少使用他本人的源石技艺。\n或许有待进一步实战观察。\n——训练教官批注\n\n【权限记录】\n根据Z7小队成员的报告，安塔尔的源石技艺堪称精湛，水准远远超过其他同期干员。在执行某一次任务时，他们曾亲眼见识过，安塔尔是如何在紧要关头挡在人质面前，利用自己的源石技艺将裂地者挥舞而来的大剑瞬间分解，救下包括他自己在内的两条生命。\n当时所有人都格外紧张，如果安塔尔没能及时分解那把武器，他立刻会丢掉性命，可他本人却表现得十分冷静。自那以后，队友们对安塔尔有了更深的认知——这家伙其实非常迟钝，不论是感知危险情况，还是察觉别人的情绪波动，但他又愿意冒着生命危险去救人，也说明他是十分善良和勇敢的人。\n事后面对队友的询问，安塔尔表现得格外谦虚——他说自己的源石技艺掌握得并不是很好，完全无法做到像他的奶奶那样将一个大件金属器械分解并重构，分解裂地者的武器是他能做到的极限。他还提到，小时候奶奶还特地做了一根小法杖送给他，用来弥补这方面的不足。\n“你的天赋在别的地方——奶奶曾这么对我说过，而我一直对这件事深信不疑。”",
+    "ja": "【オペレーター研修記録】\n現時点におけるアンタルの訓練を見る限り、前線を突破する戦闘能力を備えているとは言い難い。\n彼は自身が改造したアーツユニットや浮遊砲を駆使し、支援を得意とする一方で、自らのアーツを使用する場面は少ない。\n今後のさらなる実戦観察が必要だろう。\n――訓練教官のコメント\n\n【権限記録】\n行動隊Z7隊員の報告によれば、アンタルのアーツは一流と評して差し支えない水準にあり、同期の他のオペレーターを遥かに凌駕しているという。ある任務中、アンタルが人質の前に立ちはだかり、自らのアーツを用いてランドブレーカーの大剣を瞬時に分解し、自身を含む2名を救った場面を目撃したそうだ。\n当時、現場にいた全員は極度の緊張状態にあった。もし彼の反応が一瞬でも遅れ、武器の分解に失敗していたとしたら、命を落としていた可能性は高い。それでも、アンタル本人は終始冷静だった。この出来事をきっかけに、仲間たちは彼の理解を深めていった――アンタルは非常に鈍感で、危険な状況にも、他人の感情の変化にも気づきにくい。しかし、命の危険を顧みず他者を救おうとする姿勢は、彼が勇敢で誠実な心を持つ人物であることの証でもある。\n後日、仲間から質問を受けた際には、このような謙虚な回答をしたそうだ――自分はアーツを上手く使いこなせていない。大きな金属器具を分解し再構築できる祖母の域には到底及ばない。ランドブレーカーの武器を分解するので限界だったのだ、と。また、幼少期に祖母がその「限界」を補うために、小型のアーツユニットを作って送ってくれたことも教えてくれた。\n「『あなたの才能は、別のところにある』――祖母はかつてそう語った。小生はその言葉を強く信じているのだ。」",
+    "ko": "[오퍼레이터 훈련 기록]\n현재 안탈의 훈련 성과만 놓고 보면, 직접 전투 능력이 부족하다고 판단할 수밖에 없다.\n스스로 개조한 지팡이와 부유포를 사용해 아군을 지원하는 데 능숙하지만, 본인의 오리지늄 아츠는 거의 활용하지 않는다.\n추후 실전에서 관찰이 필요할 것으로 보인다.\n- 훈련 교관 의견\n\n[권한 기록]\nZ7 팀원들의 보고에 따르면, 안탈의 오리지늄 아츠는 매우 정교하며, 동기 오퍼레이터들을 훨씬 뛰어넘는 수준이라고 한다. 어느 임무 수행 중, 팀원들은 긴박한 순간 직접 목격했다. 안탈이 인질 앞을 막아서서 오리지늄 아츠로 랜드브레이커의 대검을 순식간에 분해했고, 자신을 포함한 두 사람의 목숨을 구한 것이다.\n당시 모두가 극도로 긴장했다. 만약 안탈이 그 무기를 제때 분해하지 못했다면 바로 목숨을 잃었을 것이다. 하지만 정작 본인은 침착함을 잃지 않았다. 그 사건 이후, 동료들은 안탈을 더욱 깊이 이해하게 되었다. 이 남자는 사실 위험 감지 능력이나 타인의 감정 변화를 알아채는 능력은 둔하지만, 기꺼이 목숨을 걸고 사람을 구하려고 하는 점에서, 정말로 선하고 용감한 사람이라는 것을.\n사건 후 동료들의 질문에 대해, 안탈은 오히려 겸손한 태도를 보였다. 자신은 오리지늄 아츠를 그리 잘 다루는 편이 아니며, 할머니처럼 대형 금속 구조물을 분해하고 재구성하는 일은 전혀 할 수 없다고 했다. 랜드브레이커의 무기를 분해하는 게 자신이 해낼 수 있는 최대치라고 덧붙였다. 또한 그는, 어릴 적 할머니가 이런 한계를 보완해 주기 위해 작은 지팡이를 만들어주셨다고 한다.\n\"'너의 재능은 다른 곳에 있단다.' 할머니가 해주신 말씀이에요. 전 그 말을 언제나 굳게 믿고 있죠.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "Antal was born in a normal household in the Free City of New Wrankwood. He spent most of his childhood growing up in a household Originium appliance repair shop belonging to his grandmother. \nAlthough Antal lived in a place known for its entertainment industry, he had no interest in the movies or performance industries. Instead, he preferred lying on the table and looking at his grandmother work — Her jobs include repairing a faulty refrigerator and swapping out its Originium starter component, or restoring a television with a shattered screen and severely damaged mainboard to mint conditions... The old repairlady had jobs everyday, but she never neglected her grandson. When she had time, she would personally design and make various toys such as mini sports cars and powered combo-puzzle cubes for the lad. Hence, Antal grew up very much loved and never felt lonely. Years of influence from his grandmother gave Antal an outstanding talent for assembling and taking apart Originium devices. He successfully secured a full scholarship in an academy and chose a major related to applications of Originium automation. \nThe academy where Antal studied at was known for its conservative atmosphere. The youth, however, was not an adherent to the rules. When his novel inventions failed to acquire the favor of his professors, he chose to continue his project in private. For his academic excellence, Antal became the valedictorian for the graduation ceremony. He mounted his latest invention on his back — an automated Originium-powered robot arm, and enthusiastically used it to wave at the professors who once scoffed at the idea. And then suddenly, the open hand of the robot lowered four of its fingers, save for one that remained still and fully extended. \nAlthough the incident left quite a psychological trauma to members of the academy's administration, Antal was still able to graduate. However, no one in the academy was willing to offer letters of recommendation to his potential employers. Endfield Industries initiated a talent recruitment drive in cities near New Wrankwood a while later. The advanced technologies and pioneering spirit of the company seized Antal by his heart. He then submitted his resume to Endfield. After the interview, Antal was chosen by Operator Akekuri who was setting up an operations team of her own. He later became a formal member of Operations Team Z7. \n\nOh... I only realized this after special training. The guy is pretty close to a true genius. \n— Maze \n\nPretty close? \n— Caster operator in the same training cohort",
+    "zh-TW": "安塔爾出身於新藍卡塢自由市的一個普通家庭，從小在奶奶經營的一家家用源石設備維修店裡長大。\n雖然生活的地方娛樂業發達，但安塔爾卻對電影藝術之類的毫無興趣，反而喜歡每天趴在桌子上看奶奶工作——比如維修一台運轉異常的冰箱，為它更換源石啟動器配件，再將螢幕碎裂、主機板受損嚴重的電視機修復到完好如初……雖然身為維修師每天都有工作要做，但她從未忽視過孫子的成長。不忙的時候，她還會親自設計製作一些小玩具給安塔爾，例如自動小跑車、電動魔術方塊等等。所以安塔爾的童年從不缺少愛和陪伴。耳濡目染下，安塔爾也展現出他出眾的組裝、拆卸源石裝置的天賦，最後得到全額獎學金去學院讀書時，他也選了源石自動化應用相關的科系。\n安塔爾就讀學院的教育方式以保守著稱，但他並不循規蹈矩，在發現自己的一些新奇發明並未得到老師的青睞後，他選擇私下研究。畢業典禮那天，安塔爾作為優秀畢業生上台演講。他將自己的最新發明——以源石驅動的自動化機械臂——安裝在身後，用它對著曾對此不屑一顧的老師們熱情招手。突然，機械臂的四指垂下，只留一根中指豎立在空中沉默不動。\n儘管這次事件給校方的相關負責人留下了不小的心理陰影，安塔爾後來還是順利畢業了。只不過，學校這邊再也沒有一位老師願意幫他寫就業推薦信。再後來，恰逢終末地工業前往新藍卡塢附近的城市招募人才，其先進的技術和開拓精神深深吸引了安塔爾。事後，他主動向終末地投了履歷。完成面試後，安塔爾被正在組建隊伍的幹員秋栗選中，不久後正式成為了Z7行動組的一員。\n\n啊……特訓結束了我才意識到，難道這傢伙勉強能算是個天才？\n——Maze\n\n勉強？\n——同期受訓的術師幹員",
+    "zh-CN": "安塔尔出身于新蓝卡坞自由市的一个普通家庭，从小在奶奶经营的一家家用源石设备维修店里长大。\n虽然生活的地方娱乐业发达，但安塔尔却对电影艺术之类的毫无兴趣，反而喜欢每天趴在桌子上看奶奶工作——比如维修一台运转异常的冰箱，为它更换源石启动器配件，再将屏幕碎裂、主板受损严重的电视机修复到完好如初……虽然身为维修师每天都有工作要做，但她从未忽视过孙子的成长。不忙的时候，她还会亲自给安塔尔设计制作一些小玩具：自动小跑车、电动魔方等等。所以安塔尔的童年从不缺少爱和陪伴。耳濡目染下，安塔尔也展现出他出众的组装、拆卸源石装置的天赋，最后得到全额奖学金去学院读书时，他也选了源石自动化应用相关的专业。\n安塔尔就读学院的教育方式以保守著称，但他并不循规蹈矩，在发现自己的一些新奇发明并未得到老师的青睐后，他选择私下研究。毕业典礼那天，安塔尔作为优秀毕业生上台演讲。他将自己的最新发明——以源石驱动的自动化机械臂——安装在身后，用它冲着曾对此不屑一顾的老师们热情招手。突然，机械臂的四指垂下，只留一根中指竖立在空中静默不动。\n尽管这次事件给校方的相关负责人留下了不小的心理阴影，安塔尔后来还是顺利毕业了。只不过，学校这边再没有一位老师愿意为他写就业推荐信。再后来，恰逢终末地工业前往新蓝卡坞附近的城市招募人才，其先进的技术和开拓精神深深吸引了安塔尔。事后，他主动向终末地投递了简历。完成面试后，安塔尔被正在组建队伍的干员秋栗选中，不久后正式成为了Z7行动组的一员。\n\n啊……特训结束了我才意识到，难道这家伙勉强能算是个天才？\n——Maze\n\n勉强？\n——同期受训的术师干员",
+    "ja": "アンタルは、独立都市ニューランクウッドのごく普通の家庭に生まれた。幼い頃から、祖母が営む家庭用源石設備の修理店で多くの時間を過ごしていた。\n彼の住む街ではエンターテインメント産業が発展していたが、アンタル自身は映画や芸術といった分野にはまったく興味を示さなかった。それよりも机から身を乗り出し、修理作業中の祖母を眺めているほうが好きだった――故障した冷蔵庫の修理や、源石起動装置のパーツ交換……スクリーンが破裂してマザーボードまで壊れたテレビを元通りに修復してしまうその様子を。祖母は修理作業で日々忙しくはしていたが、孫の成長に目を向けることを忘れなかった。手が空けば、ミニレーシングカーや電動キューブなど、アンタルのためにおもちゃを設計して制作することさえあった。このように、アンタルの幼少期は日々愛情に包まれていたのである。アンタルは自然と源石装置の組立や分解に興味を持つようになり、才能を開花させていった。そして、全額奨学金を得て学院に進学した。専攻は源石自動化応用を選んだ。\n彼が通っていた学院は保守的な教育方針で知られていたが、アンタルは規則に縛られるような性格ではなかった。独特な発明が教師に受け入れられることはないことに気付き、彼は独りで研究を進めることにした。卒業式の日、アンタルは優秀卒業生としてスピーチを行うため、壇上に立った。自ら開発した源石駆動の自動化機械アームを背中に装着し、かつて自分の発明に冷ややかな態度を見せていた教師に向けて、勢いよく手を振った。だが突然、アームの指が4本垂れ下がり――中指だけが1本、残った。\nこの出来事は、学院の責任者に忘れがたいトラウマを与えはしたが、結局、彼は無事に卒業できた。とはいえ、就職の推薦状を書いてくれる教師など1人もいなかった。そんな折、ニューランクウッド付近の都市でエンドフィールドが人材募集を行っているのが目に留まった。先進的な技術と開拓精神に強く惹かれたアンタルは、すぐに履歴書を送った。面接を終え、ちょうど行動隊の隊員を探していたアケクリと出会い、行動隊Z7の正式メンバーとして迎えられた。\n\nあ、特訓が終わってから気づいたけど、こいつ……もしかして天才かも？\n――Maze\n\n「もしかして？」\n――同期として共に訓練を受けた術師オペレーター",
+    "ko": "안탈은 뉴 랭크우드의 평범한 가정에서 태어나, 유년 시절을 할머니가 운영하던 가정용 오리지늄 설비 수리점에서 보냈다.\n그곳은 엔터테인먼트 산업이 발달한 지역이었지만, 안탈은 영화나 예술 쪽에는 전혀 관심이 없었다. 대신 매일 책상 위에 엎드려 할머니가 일하는 모습을 지켜보는 걸 더 좋아했다. 예를 들어 고장난 냉장고의 오리지늄 기동 부품을 교체한다든가, 화면이 깨지고 메인보드가 심하게 손상된 TV를 새것처럼 복원한다든가 하는 일들 말이다. 할머니는 매일 바쁜 수리 작업을 하면서도 손자의 성장을 결코 소홀히 하지 않았다. 한가할 때면 손수 안탈에게 자동으로 달리는 작은 차나 전동 큐브와 같은 장난감을 만들어 주기도 했다. 덕분에 안탈의 유년 시절은 사랑과 따뜻한 관심으로 가득했다. 그렇게 보고 배우며 자란 안탈은 오리지늄 장치를 분해하고 조립하는 데 뛰어난 재능을 보였고, 결국 전액 장학금을 받고 아카데미에 진학하여 오리지늄 자동화 응용학을 전공하게 된다.\n그가 다닌 아카데미는 보수적인 교육 방침으로 유명했지만, 안탈은 그런 틀에 얽매이지 않았다. 자신의 기발한 발명이 교수들에게 인정받지 못하자, 그는 비밀리에 연구를 이어갔다. 졸업식 날, 우수 졸업생 대표로 연단에 오른 안탈은 자신의 최신 발명품인 오리지늄 구동 자동화 기계 팔을 등 뒤에 장착하고, 자신을 무시했던 교수진을 향해 열정적으로 손을 흔들었다. 그러다 기계 팔의 네 손가락이 천천히 접히고, 중지만이 하늘을 향해 곧게 솟은 채 멈춰 서 있었다.\n이 사건은 학교 측 관계자에게 적잖은 트라우마를 남겼지만, 안탈은 끝내 무사히 졸업할 수 있었다. 물론, 그 이후로는 그 어떤 교수도 안탈에게 취업 추천서를 써주지 않았지만 말이다. 이후, 마침 엔드필드 공업이 뉴 랭크우드 인근 도시에서 인재를 모집 중이었고, 그들의 첨단 기술과 개척 정신은 안탈의 마음을 단번에 사로잡았다. 안탈은 자발적으로 엔드필드에 이력서를 제출했고, 당시 팀을 꾸리던 아케쿠리 오퍼레이터의 눈에 띄어 Z7 작전팀의 일원이 되었다.\n\n아... 특훈이 끝나고서야 알았는데, 안탈 이 녀석 거의 천재에 가깝던데?\n- 메이즈\n\n거의라니...\n- 같은 기수의 캐스터 오퍼레이터"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "Grandma: \nI have received the package from you. The new Arts Unit is just what I need to support my modified orbiter. I have distributed the other local specialties that came attached with the package. There is no need for you to send these things to me. I have a fixed salary good enough that I have some leftover after purchasing parts for engineering mods every month. \nI know you've sent plushes of movie characters, outfits of classic movie stars, and other limited edition movie posters so that I can use these to befriend other individuals. You have been doing this since I was attending the academy — However, those classmates of mine simply stashed the collectibles they received inside their closets and never showed them again. Your following letter told me not to be sad. I really wasn't, grandmother. It is just like what I've told you. Their reactions and responses will not influence my attitude towards them. \nMy colleagues at Endfield are not like the classmates I have in the academy. The Endfielders never turned me down nor rejected my ideas. Life is here is good, and I enjoy more liberties. There is something else that I intend to tell you. My communication skills have vastly improved thanks to the instructions provided by my Z7 teammates and constant side-by-side training offered by the Endministrator. \nYou once worried that my personality might start to conflict with my superior, but my current situation proves your worries are unnecessary. Our meetings have been enjoyable and the Endmin happily accepts everything I share. This also explains why I have been writing less to you. You no longer need to be concerned about my lack of friends. It is not about taking and giving, but mutual sincerity to explore and discuss everything about each other... I believe I have completely understood the true meaning of \"friendship\". \nAlso, your request for passing on a message to the Endministrator has been carried out by me. The Endmin is enthusiastic and even said that the meeting with you should have taken place much earlier. \n\nAntal",
+    "zh-TW": "奶奶：\n我收到您寄來的包裹了，這個新型施術單元剛好能為我改造浮游炮提供幫助，別的一些附帶的家鄉特產我都分給了別人。其實您不用特地寄這些東西給我，我現在有固定的薪水，即便每月買一些工程改裝用的零件也還有盈餘。\n我知道您寄電影角色玩偶、經典角色衣服，還有各種限定電影海報這些特產過來，是想讓我用它們和其他人拉近關係，以前讀書時您就是這樣做的——雖然那些同學拿到東西後隨手將它們塞進了閒置櫃，再也沒有拿出來過。那時您還寫信說叫我不要傷心，我真的沒有，奶奶，正如我一直告訴您的那樣，別人的反應無法影響我對他們的態度。\n而且終末地的同事和學院的同學不一樣，他們從來沒有拒絕過我，也沒否定過我的想法。我在這裡的生活還不錯，也更自由。順便有件事我還想告訴您，我的溝通能力大有進步，多虧Z7隊友們的教導，還有管理員一直陪我練習。\n您之前還擔心，以我的性格會不會和這位主管有什麼衝突，現在證明是您多慮了。我們相處得很愉快，不管我分享什麼，那個人都樂意接受，這也是我跟您寫信頻率降低的原因。您不用再擔心我交不到朋友。不是索取與施捨，而是真誠相待，去探討彼此的所有……我想我應該已經明白所謂「友情」的意義了。\n以及，您託我轉告的話，我已經告訴管理員了，對方很樂意，還說自己很早就期待能和您見上一面。\n\n安塔爾",
+    "zh-CN": "奶奶：\n我收到您寄来的包裹了，这个新型施术单元正好能为我改造浮游炮提供帮助，别的一些附带的家乡特产我都分给了别人。其实您不用特地寄这些东西给我，我现在有固定的工资，即便每月购置一些工程改装用的零件也还有盈余。\n我知道您寄电影角色玩偶、经典角色衣服，还有各种限定电影海报这些特产过来，是想让我用它们和其他人拉近关系，以前读书时您就是这么做的——虽然那些同学拿到东西后随手将它们塞进了闲置柜，再也没有拿出来过。那时您还写信说让我不要伤心，我真的没有，奶奶，正如我一直告诉您的那样，别人的反应无法影响我对他们的态度。\n而且终末地的同事和学院的同学不一样，他们从来没有拒绝过我，也没否定过我的想法。我在这里的生活还不错，也更自由。顺便有件事我还想告诉您，我的沟通能力大有进步，多亏Z7队友们的教导，还有管理员一直陪我练习。\n您之前还担心，以我的性格会不会和这位领导有什么冲突，现在证明是您多虑了。我们相处得很愉快，不管我分享什么，那个人都乐意接受，这也是我跟您写信频率降低的原因。您不用再担心我交不到朋友。不是索取与施舍，而是真诚相待，去探讨彼此的所有……我想我应该已经明白所谓“友情”的意义了。\n以及，您托我转告的话，我已经告诉管理员了，对方很乐意，还说自己很早就期待能和您见上一面。\n\n安塔尔",
+    "ja": "祖母へ\n荷物、確かに受領した。この新型アーツユニットは、小生の浮遊砲改造計画に適している。同封の品々は皆へ分配した。ところで、このような物は本来送って貰う必要などない。今の小生には定額の給与があり、毎月改造用のパーツを購入しても余裕である。\n映画の人形や衣装、限定広告――送付の意図は理解している。他者との距離を縮めるための手段なのだろう。昔から、学院にいた頃から、理解していた。しかし、当時の同級生は受け取った物を机にしまい、二度と触れる事などなかった。あの時「落ち込まないで」と手紙をくれた事を覚えている。だが、小生は本当に何とも思っていなかった。繰り返し話していることだが、他者の反応によって、取るべき態度に影響を与えることなど無いのである。\nエンドフィールドの皆は、学院の同級生とは違う。誰も小生を拒絶しない。小生の意見を否定する事もない。ここでの生活は、実に快適で、自由なのだ。併せて報告しておこう。小生のコミュニケーション能力は著しく向上している。Z7の面々の指導並びに管理人の献身的な訓練協力の賜物である。\n以前、上司との衝突を懸念していたと思うが、杞憂であった。非常に良好な関係を築けている。小生が何を語ろうと、上司は常に真剣に耳を傾けてくれる。これは、手紙の頻度が減った理由の1つでもある。友人が出来ぬ事を案じる必要はもう無い。求め、施すのでは無く、誠心誠意、互いのすべてを語り合う。小生は「友情」という存在の意味を、理解出来たと思う。\n頼まれていた伝言は確かに管理人へと伝えた。管理人は非常に喜び、祖母と面会することを楽しみにしているようだ。\n\nアンタル",
+    "ko": "할머니께,\n보내주신 소포 잘 받았어요. 이 새로운 아츠 유닛은 마침 제 부유포를 개조하는 데 큰 도움이 될 것 같아요. 다른 고향 특산물들도 많이 챙겨주셨던데, 그건 다른 사람들한테 나눠줬어요. 이제는 이런 거 안 보내주셔도 돼요. 이젠 월급도 꼬박꼬박 나오고, 매달 개조용 부품을 사고도 남을 정도거든요.\n영화 캐릭터 인형이나 의상, 한정판 포스터 같은 걸 계속 보내주시는 건, 그것들을 계기로 사람들과 친해지라는 뜻인 거 알아요. 예전에 제가 아카데미 다닐 때도 그러셨으니까요. 물론 그때 친구들은 제가 건넨 물건들을 대충 보관함에 쑤셔 넣고는 다시 꺼내는 일이 없었지만요. 그때 할머니가 편지에서 속상해하지 말라며 위로해 주셨었는데, 전 정말로 괜찮았어요. 제가 늘 말씀드렸듯이, 남들의 반응은 제가 그들을 대하는 태도에 영향을 주지 않거든요.\n그리고 지금 엔드필드에서 함께 일하는 동료들은 예전 아카데미 친구들과는 다르게, 제 의견을 거절하거나 부정한 적이 없어요. 이곳의 생활은 훨씬 자유롭고 편해요. 게다가 요즘엔 제 소통 능력도 크게 늘었어요. Z7 팀원들이 도와준 덕분이고, 무엇보다 관리자님이 꾸준히 연습 상대가 되어주셨기 때문이죠.\n전에 할머니는 제 성격상 관리자님이랑 충돌이 생기는 건 아닐지 걱정된다고 하셨잖아요? 이제 그런 걱정은 안 하셔도 돼요. 저희는 아주 잘 지내고 있어요. 제가 무슨 이야기를 하든, 관리자님은 언제나 기꺼이 들어주세요. 그래서 최근에 할머니께 편지 쓰는 빈도도 줄었던 것 같네요. 이제는 제가 친구를 사귀지 못할까 봐 걱정하지 않으셔도 돼요. 뭔가를 주고받기 위한 관계가 아니라, 진심을 다해 서로를 이해하고 나누는 관계라... 진정한 '우정'이란 게 무엇인지, 이제는 알 것 같아요.\n그리고, 할머니가 전하라고 하신 말씀도 관리자님께 잘 전달했어요. 아주 기뻐하시면서, 진작부터 꼭 한 번 직접 만나 뵙고 싶다고 하셨어요.\n\n안탈"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0023_antal_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Hmm. Another shift begins.",
+    "zh-TW": "嗯，準備開始工作吧。",
+    "zh-CN": "嗯，准备开始工作吧。",
+    "ja": "ふむ、業務を開始する。",
+    "ko": "업무 준비를 하도록 하죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Who's the test subject this time?",
+    "zh-TW": "這次的測試對象是誰？",
+    "zh-CN": "这次的测试对象是谁？",
+    "ja": "今回のテスト対象はどれであろうか？",
+    "ko": "이번 테스트 대상은 누굽니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "A mission for me? Good. I happen to be seeking field-testing opportunities for modified orbiters.",
+    "zh-TW": "輪到我出任務了嗎？剛好，我也想找機會測試浮游炮的改造成效。",
+    "zh-CN": "轮到我出任务了么？正好，我也想找机会测试浮游炮的改造成效。",
+    "ja": "小生の出番であるな。ありがたい。浮遊砲の改造の成果を試してみたかったのだ。",
+    "ko": "이번엔 제가 임무에 나갈 차례입니까? 딱 좋네요. 마침 부유포의 개조 성능을 테스트하고 싶었거든요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "If you have a plan, just give your orders. I have faith in your judgment.",
+    "zh-TW": "想好作戰方案的話，告訴我要做什麼就可以，我相信您的判斷。",
+    "zh-CN": "想好作战方案的话，告诉我要做什么就行，我相信您的判断。",
+    "ja": "作戦が決定次第、何をすべきか教示願う。小生はお主の判断を信じよう。",
+    "ko": "작전 구상이 끝나셨다면 지시를 내려주시죠. 전 관리자님의 판단을 믿습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "A new and uncalibrated weapon. I must subject it to a round of performance evaluations.",
+    "zh-TW": "未經除錯的新武器，我需要對它進行一次效能評估。",
+    "zh-CN": "未经调试的新武器，我需要对它进行一次效能评估。",
+    "ja": "未調整の新型武器か……性能の評価をせねば。",
+    "ko": "아직 조정되지 않은 신형 무기군요... 성능을 한번 테스트 해봐야겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "The new gear presents significant improvements. However, it snags against my dermal scales.",
+    "zh-TW": "效能有顯著提升，雖然它會卡住我的鱗片。",
+    "zh-CN": "性能有显著提升，虽然它会卡住我的鳞片。",
+    "ja": "著しい性能の向上だ。ところで、ウロコにも引っかかるようなのだが。",
+    "ko": "확실히 성능은 좋군요. 제 비늘에 걸리는 것만 빼면 말이죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Hmm... I appreciate the instructions. A new train of thought has been inspired.",
+    "zh-TW": "嗯……感謝指導，我突然有了一個新思路。",
+    "zh-CN": "嗯……感谢指导，我突然有了一个新思路。",
+    "ja": "指導、感謝する……ふむ。突如、新たな構想を閃いた。",
+    "ko": "음... 지도해주셔서 감사합니다. 갑자기 새로운 아이디어가 떠오르는군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "A most impressive battle plan, Endministrator. I am glad to be part of your operations.",
+    "zh-TW": "出色的作戰規劃，管理員，我很樂意配合您行動。",
+    "zh-CN": "出色的作战规划，管理员，我很乐意配合您行动。",
+    "ja": "優れた作戦計画である。管理人、喜んでお主の力となろう。",
+    "ko": "훌륭한 작전입니다. 관리자님과 같이 작전을 진행할 날이 기대되는군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "A raise? I appreciate additional funds for procuring more Originium devices and Arts Units. My research and personal hoard shall grow.",
+    "zh-TW": "要幫我加薪嗎？謝謝，那我每月就可以購入更多源石裝置和施術單元用來研究和收藏。",
+    "zh-CN": "要给我涨薪吗？谢谢，那我每月就可以购入更多源石装置和施术单元用来研究和收藏。",
+    "ja": "昇給だと？感謝する。月に購入する源石装置とアーツユニットの数を増やし、研究用と保存用にさせてもらおう。",
+    "ko": "급여를 인상해주시는 겁니까? 감사합니다. 이제 그럼 매달 더 많은 오리지늄 장치랑 아츠 유닛을 구입해서 연구하고 수집할 수 있겠군요."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0023_antal_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "A promotion, but one that entails additional work in the future? Understood. So, is there any new mission for me?",
+    "zh-TW": "晉升？意味著以後工作會更加繁忙？瞭解，所以新的任務是什麼？",
+    "zh-CN": "晋升？意味着以后工作会更加繁忙？了解，所以新的任务是什么？",
+    "ja": "昇進？つまり、以後業務が多忙になると？承知した。では、次の任務を教示いただきたい。",
+    "ko": "그럼 앞으로 일이 더 많아진다는 뜻입니까? 좋습니다, 그럼 다음 임무는 뭡니까?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0023_antal_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Is this encouragement for my thirst for knowledge? I just finished a report on the Protocol Automation-Core. You can review it in case I missed anything.",
+    "zh-TW": "這是對我求知欲望的鼓勵嗎？我剛好寫了一份關於協議核心的研究報告，您可以幫我檢查一下是否存在漏洞。",
+    "zh-CN": "这是对我求知欲望的鼓励吗？我正好写了一份关于协议核心的研究报告，您可以帮我检查一下是否存在漏洞。",
+    "ja": "小生の探究心を知っての激励であろうか？折よく、協約核心に関する研究報告を仕上げたところであった。不備がないか、確認願いたい。",
+    "ko": "이건 제 탐구욕에 대한 격려입니까? 마침 프로토콜 코어에 대한 연구 보고서를 다 작성한 참입니다. 괜찮으시다면 어떤 문제가 있는지 확인해 주실 수 있으십니까?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0023_antal_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "Life in Endfield is vastly different compared to my days in the Academy. Back then, I easily earned my GPA with my research, but this doesn't seem important now. I must learn and live with trusting my teammates and achieving results as a team.",
+    "zh-TW": "老實說，這裡的生活和讀書時很不一樣。在學院，我只要拿出研究成果就能得到高GPA，現在這些反而不再重要。信任隊友，透過團隊配合取得成果，是我要重新學習和適應的事。",
+    "zh-CN": "老实说，这里的生活和读书时很不一样。在学院，我只要拿出研究成果就能得到高绩点，现在这些反而不再重要。信任队友，通过团队配合取得成果，是我要重新学习和适应的事。",
+    "ja": "偽らず申せば、現在の生活は以前と全く異なる。学院では研究の成果により評価を得たが、今はそうではない。隊を信頼し、協力し任務を果たす。これは小生が改めて学び、適応すべきことである。",
+    "ko": "솔직히 이곳에서의 생활은 학교를 다닐 때와 많이 다릅니다. 학교에서는 연구 성과를 낼 수만 있다면 높은 성적을 받을 수 있었거든요. 지금은 오히려 그런 게 중요하지 않게 됐지만요. 동료를 믿고, 협력해서 성과를 낸다... 그게 바로 제가 새로 배우고 적응해야 할 과제입니다."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0023_antal_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Antal of Op Z7 reporting for duty. I've studied Originium automation and occasionally help with modifying or repairing Originium devices. You may approach me for such tasks... And I have a question for you. What is the material of your mask? Carbon fiber?",
+    "zh-TW": "Z7行動組安塔爾，向您報到。我對源石自動化器械有些研究，平常會幫忙改造和維修源石設備，如有需要可以來找我。順便，我有個問題，您的面具是什麼材質做的？碳纖維嗎？",
+    "zh-CN": "Z7行动组安塔尔，向您报到。我对源石自动化器械有些研究，平时会帮忙改造和维修源石设备，如有需要可以来找我。顺便，我有个问题，您的面具是什么材质做的？碳纤维吗？",
+    "ja": "行動隊Z7アンタル、着任した。源石自動化の研究を少々、普段は装置の改造と修理を補佐している。必要であれば遠慮なく声をかけていただきたい。ところで、1点確認を……その仮面、素材は何だ？カーボンファイバーか？",
+    "ko": "엔드필드 Z7 작전팀 안탈, 보고드립니다. 과거 오리지늄 자동화 장비에 대한 연구를 진행한 적 있으며, 오리지늄 설비의 개조나 수리를 도와드릴 수 있습니다. 필요하실 때는 언제든 불러주시기 바랍니다. 근데 궁금한 게 하나 있습니다만, 관리자님의 마스크는 무슨 재질로 이루어져 있는 겁니까? 탄소섬유?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "You have something to discuss with me?",
+    "zh-TW": "有什麼問題要和我討論嗎？",
+    "zh-CN": "有什么问题要和我讨论吗？",
+    "ja": "小生と意見交換をしたいと？",
+    "ko": "저랑 같이 토론해야할 문제가 있으십니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "I am trying to compose a bad joke for you.",
+    "zh-TW": "我在想要跟您講什麼冷笑話。",
+    "zh-CN": "我在想要跟您讲什么冷笑话。",
+    "ja": "今、お主への「寒いギャグ」を思案していたところであった。",
+    "ko": "어떤 재밌는 이야기를 들려드리면 좋을 지 고민하고 있었습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "A new job assignment? Affirmative.",
+    "zh-TW": "新的工作安排嗎？我明白了。",
+    "zh-CN": "新的工作安排吗？我明白了。",
+    "ja": "新しい任務？承知した。",
+    "ko": "새로운 업무입니까? 알겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "I am open to questions related to Originium devices, in addition to other things.",
+    "zh-TW": "源石器械上的事都可以來找我，別的事也可以。",
+    "zh-CN": "源石器械上的事都可以来找我，别的事也行。",
+    "ja": "源石機器の件なら聞いてもらって構わない。他の話でもいいが。",
+    "ko": "오리지늄 기계에 관련된 거라면 언제든 절 찾아오셔도 됩니다. 다른 일도 괜찮고요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Curiously, your presence greatly amplifies my eagerness to share my vast knowledge.",
+    "zh-TW": "很奇怪，一見到您，我的分享欲就格外強烈。",
+    "zh-CN": "很奇怪，一见到您，我的分享欲就格外强烈。",
+    "ja": "妙だ。お主を見ると、語りたい欲が爆発してしまう。",
+    "ko": "이상하네요. 관리자님만 보면 제 얘기를 하고 싶다는 마음이 강렬하게 불타오르거든요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0023_antal_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "May I inspect your weaponry, Endmin? Hmm. The only issue I see is the wearing down of certain components. Replacing a single precision Originium component will fix it. This repair job won't be much trouble. I offer this service for every individual in Team Z7.",
+    "zh-TW": "我能檢查一下您的武器嗎，管理員？嗯，除了零件有點磨損，別的沒有太大問題，只需替換一個新的精密源石元件就好。沒什麼麻煩的，在Z7小隊，我一直都這麼做。",
+    "zh-CN": "我能检查一下您的武器吗，管理员？嗯，除了零件有些许磨损，别的没有太大问题，只需替换一个新的精密源石元件就行。没什么麻烦的，在Z7小队，我一直都这么做。",
+    "ja": "武器を少々点検させて貰えるか？ふむ、多少の劣化はあるが、大きな問題はない。1点、新しい部品に交換すれば良いだろう。面倒ではない。Z7でいつも小生がしていることである。",
+    "ko": "무기를 한번 봐드릴까요, 관리자님? 음, 부품이 살짝 마모된 거 말고는 큰 문제가 없네요. 정밀 오리지늄 부품 하나만 교체하면 됩니다. 어려울 거 없어요, Z7 팀에서 제가 늘 해오던 일이니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "My studies of Dijiang reveal that she is a pinnacle of engineering. Central Control, the Protorig Network Node, Life Support systems, and various parts of the vessel offer ample opportunities of learning. It has granted me the structure for my next thesis.",
+    "zh-TW": "我在觀察帝江號，它無疑是工程設計的巔峰，每一部分都極有學習和研究價值，中樞控制系統、協議網路節點與生命維持系統等等，我甚至已經構思好了下篇論文的選題。",
+    "zh-CN": "我在观察帝江号，它无疑是工程设计的巅峰，每一部分都极有学习和研究价值，中枢控制系统、协议网络节点与生命维持系统等等，我甚至已经构思好了下篇论文的选题。",
+    "ja": "帝江号を観察していた。間違いなく、工学設計の最高傑作……中枢制御システム、協約ネットワーク、生命維持システム。どこをとっても研究の価値がある。次の論文のテーマの着想まで得てしまった。",
+    "ko": "제강호를 관찰하고 있습니다. 두말할 것 없는 공학의 정점이니까요. 단 한 군데도 빠짐없이 연구와 배움의 가치로 가득 차 있는 곳이죠. 중앙 제어 시스템과 프로토콜 네트워크 노드, 그리고 생명 유지 시스템... 전 심지어 다음에 쓸 논문 주제까지 다 생각해놨습니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0023_antal_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "I have a joke based on Fluorite's personal experiences. How should one respond to a threatening message from an antagonist? Answer: Unsubscribe. You laugh. This joke is proven humorous. But why didn't the others laugh as you did?",
+    "zh-TW": "我根據螢石的經歷想到一個冷笑話：收到敵人的威脅訊息該怎麼辦？答案是退訂。您笑了，證明它有效果，那為什麼其他人沒有這樣的反應？",
+    "zh-CN": "我根据萤石的经历想到一个冷笑话：收到敌人的威胁信息该怎么办？答案是退订。您笑了，证明它有效果，那为什么其他人没有这样的反馈？",
+    "ja": "フローライトの話から「寒いギャグ」を思いついた――「脅迫メッセージを受け取ったら？」答えは「配信解除」……笑ったな。つまり成功した、と。しかし、他の者は無反応であったが……",
+    "ko": "플루라이트를 보고 생각해낸 농담이 있습니다. 자, 적의 협박 메시지를 받았을 때는 어떻게 하면 된다고 생각하십니까? 정답은... 구독 취소를 하면 됩니다. 웃으셨군요. 이걸로 이 농담의 효과는 증명됐습니다. 근데 왜 다른 사람들은 웃지 않을까요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0023_antal_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "If your emotions are cold, join me in the outdoors. Solar radiation induces cerebral serotonin secretion that alleviates negative emotions. There was a fountain park near my Academy, one that offered serenity and plenty of solar exposure. When I studied in the Academy, the park was my resting grounds in moments of exhaustion.",
+    "zh-TW": "情緒持續低迷的話，可以跟我一起去室外享受自然日光浴，陽光會刺激大腦釋放血清素，能有效驅散一定的負面情緒。以前，學院附近有一個噴泉公園，安靜、日光充足，只要感到疲憊我就會去那裡休息。",
+    "zh-CN": "情绪持续低迷的话，可以跟我一起去室外享受自然日光浴，阳光会刺激大脑释放血清素，能有效驱散一定的负面情绪。以前，学院附近有一个喷泉公园，安静、日光充足，只要感到疲惫我就会去那儿休息。",
+    "ja": "気が沈むならば、小生と日光を浴びようではないか。日光は脳を刺激し、セロトニンを分泌させる。落ち込む感情を効果的に緩和できるのだ。学院近くの噴水公園は静かで日光も十分であった故、よく休憩したものだ。",
+    "ko": "기분이 좋지 않을 때는 저랑 같이 햇빛을 보러 가시죠. 햇빛은 대뇌의 세로토닌 분비를 유도합니다. 우울한 감정이 조금 사라지게 되죠. 예전에 학교 근처에 분수 공원이 있었는데, 조용하고 또 햇빛이 참 잘드는 곳이었거든요. 피곤할 때는 항상 그곳에서 쉬곤 했습니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0023_antal_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "My grandmother's reply arrived yesterday. She seems rather interested in a particular individual that I repeatedly mentioned in my letters to her. I shall relay her message to the said individual, which happens to be you, Endmin: \"You should know by now that a certain young Savra may be quite stubborn, albeit in a good-natured way. Please bear with him. I hope to share some tea with you and tell you more about how I raised that little scaley kid.\"",
+    "zh-TW": "我昨天收到了奶奶的回信，她對我信中頻繁提到的一個人很感興趣，也就是您。她有句話讓我代為傳達：「您也看到了，這孩子有點較真，但本質不壞，還麻煩您多多擔待，有機會真想找您喝杯茶，再聊聊他小時候的事。」",
+    "zh-CN": "我昨天收到了奶奶的回信，她对我信中频繁提到的一个人很感兴趣，也就是您。她有句话让我代为传达：“您也看到了，这孩子有些较真，但本质不坏，还麻烦您多多担待，有机会真想找您喝杯茶，再聊聊他小时候的事。”",
+    "ja": "昨日、祖母から手紙が届いた。小生が何度も手紙で触れた人物、つまりお主に興味があると。「ご存じでしょうが、この子は真面目すぎるだけで悪い子ではありません。これからも面倒を見てあげてください。そのうち幼い頃の話でもしたいですね。」とのことだ。",
+    "ko": "어제 할머니의 답장을 받았습니다. 제가 편지에서 자주 언급했던 사람이 누군지 궁금해 하시더군요. 바로 관리자님이죠. 할머니가 꼭 저한테 대신 말을 좀 전해달라고 하셨습니다. '자네도 이미 봤겠지만, 우리 아이는 가끔 의욕만 앞서는 경우가 있네. 하지만 나쁜 아이는 아니야. 잘 좀 부탁하겠네. 언젠가 기회가 된다면 자네와 함께 차나 한 잔 해보고 싶군. 우리 애의 어릴 때 얘기도 좀 하고 말이야.'"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0023_antal_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Many people gaze upon Talos-II from the decks of Dijiang. I did the same and though it offered a novel perspective, I did not share the nostalgia they felt. Perhaps my grandmother is to blame. She taught me: \"Do not obsess about the past. Seek and broaden your future.\"",
+    "zh-TW": "很多人會站在帝江號上眺望塔衛二，我也嘗試過這麼做，但發現除了提供給我不同的觀察角度，好像沒能像他們一樣去懷念家鄉，也許是因為奶奶的關係吧。她總是告訴我：「不必沉浸於過去，你該去追尋更廣闊的未來。」",
+    "zh-CN": "很多人会站在帝江号上眺望塔卫二，我也尝试过这么做，但发现除了提供给我不同的观察角度，似乎没能像他们一样去怀念家乡，也许是因为奶奶的关系吧。她总是告诉我：“不必沉浸于过去，你该去追寻更广阔的未来。”",
+    "ja": "皆が帝江号からタロⅡを眺める故、小生も試みたことがある。新たな視点は得られたが、故郷を懐かしむことはできなかった。「過去に浸る必要はない。広い未来を追い求めるべき」……祖母の影響であろう。",
+    "ko": "사람들이 제강호에서 탈로스 II를 바라보고 있길래, 저도 한번 해봤습니다. 하지만 다른 사람들이 느끼는 고향에 대한 그리움 같은 게 저한테만큼은 느껴지지 않더군요. 그냥 새로운 관찰의 시야가 생길 뿐이었죠. 어쩌면 이건 할머니의 영향일 지도 모르겠습니다. 항상 이렇게 말씀하셨거든요. '과거에 머물지 말고, 더 넓은 미래를 향해 나아가라.'"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0023_antal_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Conventions of socialization dictate that people exchange gifts to convey their feelings. I have prepared this particular gift for you, recipient.",
+    "zh-TW": "在社會交往中，人們選擇透過贈予對方東西來傳達心意和感受。所以我準備了一份禮物，想送給您。",
+    "zh-CN": "在社会交往中，人们选择通过赠予对方物件来传达心意和感受。所以我准备了一份礼物，想送给您。",
+    "ja": "社会的な交流の中で、人々は気持ちを伝えるために物を贈る。故に、小生もお主へ贈る物を用意した。",
+    "ko": "사회적 교류에서 사람들은 상대방에게 선물을 주는 것으로 마음과 감정을 전달합니다. 그래서 저도 선물을 하나 준비했습니다. 관리자님께 드리고 싶습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "I am grateful. I understand what it means to offer a gift, and I shall treasure this offering.",
+    "zh-TW": "謝謝，我明白送禮這一行為的意義，我會珍惜。",
+    "zh-CN": "谢谢，我明白送礼这一行为的意义，我会珍惜。",
+    "ja": "礼を言う。物を贈ることの意味は理解している。誠意を持って受け取ろう。",
+    "ko": "감사합니다. 전 선물을 준다는 이 행위의 의미를 잘 이해하고 있습니다. 소중히 간직하겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Joining Endfield was not a difficult choice. You offer new technologies that are absent in the Academy. The scientific society can be overly conservative in the advancement of certain fields. Endfield, however, offers an admirable spirit of exploration, innovation, and practical applications.",
+    "zh-TW": "選擇加入終末地的原因很簡單，這裡有連學院也無法講授的全新技術。學院對技術進步的觀念有點過於保守，我還是更欣賞終末地敢於探索實踐的創新精神。",
+    "zh-CN": "选择加入终末地的原因很简单，这里有连学院也无法讲授的全新技术。学院对技术进步的观念有些过于保守，我还是更欣赏终末地敢于探索实践的创新精神。",
+    "ja": "エンドフィールドに加入した理由は単純である。学院では学べぬ新しい技術があるためだ。保守的な学院に対し、実践を通じて探求するエンドフィールドの革新的な姿勢は評価に値する。",
+    "ko": "엔드필드에 합류하겠다고 선택한 이유는 간단합니다. 여기에는 학교에서도 가르쳐 줄 수 없는 새로운 기술들이 있거든요. 학교의 기술 진보에 대한 관념은 가끔 보수적일 때가 있어서 말이죠. 전 엔드필드처럼 과감하게 탐색하고 실천하는 정신이 더 좋습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "My book? It is indeed the Selection of Extreme Sudoku Challenges. Arithmetic puzzles help modulate my emotions during idle time. I have shared this pastime with members of Z7 but reception was negative. Perhaps you can give this a try, Endmin?",
+    "zh-TW": "對我手上這本書很好奇？是《高難度數獨題精選》。閒暇之餘，我會做一些數學謎題來調節情緒。我曾向Z7的隊友們分享過這個方法，但他們全都拒絕了。管理員，或許您可以嘗試一下。",
+    "zh-CN": "对我手上这本书很好奇？是《高难数独题精选》。闲暇之余，我会做一些数学谜题来调节情绪。我曾向Z7的队友们分享过这个方法，但他们全都拒绝了。管理员，或许您可以尝试一下。",
+    "ja": "この本に興味があると？「高難度数独問題選集」だ。小生は時間があるときに気分転換で数学パズルを解いている。以前、Z7の隊員にも勧めたが、全員に拒絶された。管理人、お主ならばできるのではないか？",
+    "ko": "이 책에 관심이 있으십니까? <고난도 스도쿠 특선>입니다. 전 시간 있을 때 수학 문제를 풀면서 기분을 다스리거든요. 전에 이 방법을 Z7의 팀원들한테도 소개해준 적이 있는데, 모두 다 바쁜 일이 있다고 하더군요. 관리자님, 괜찮으면 한번 해보셔도 좋을 것 같네요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0023_antal_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "A bad joke for me? I shall hear it. \"Why does a Savra only drop cheesy jokes during the day? Because the sun's out, and even the cringe deserves a little vitamin D.\" ...Hrra-Hrra-Hrra. I did not mean to insult, Endmin. Such is the sound of a Savra's genuine laughter.",
+    "zh-TW": "您也要講個冷笑話給我嗎？「有位薩弗拉總是喜歡在白天講冷笑話，這是為什麼？因為白天很溫暖，別人就不會被冷到。」……哈哈哈，我沒有嘲笑您的意思，我真的在笑。",
+    "zh-CN": "您也要给我讲个冷笑话吗？“有位萨弗拉总喜欢在白天讲冷笑话，这是为什么？因为白天很温暖，别人就不会被冷到。”……哈哈哈，我没有嘲笑您的意思，我真的在笑。",
+    "ja": "お主も「ギャグ」に挑戦するのか？「あるサヴラは昼に冗談を言うのが好きだと言う。なぜなら昼は寒くないから」……ははは、お主を嘲笑しているのではない。本当に可笑しくて笑っているのだ。",
+    "ko": "관리자님도 저한테 썰렁한 농담을 하시려는 겁니까? '한 사브라가 대낮에만 썰렁한 농담을 하는 이유'가 바로... 낮은 썰렁하지 않아서 사람들을 썰렁하게 만들 수가 없기 때문이라는 거죠? 하하하... 놀리는 게 아닙니다, 저 지금 웃고 있지 않습니까."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0023_antal_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "I have modified plenty of Originium devices. But the one I miss the most is the staff my grandmother gave me when I was young. I remember her line to this day: \"It shall accompany you as you modify this world.\"",
+    "zh-TW": "雖然改造過很多源石設備，但我最懷念的還是小時候奶奶送給我的那根法杖，「現在它可以陪著你去改造世界」，這句話我一直記到今天。",
+    "zh-CN": "虽然改造过很多源石设备，但我最怀念的还是小时候奶奶送给我的那根法杖，“现在它可以陪着你去改造世界”，这句话我一直记到今天。",
+    "ja": "多数の源石機器を改造してきたが、最も心に残っているのは幼い頃に祖母がくれた杖である。「これはあなたに寄り添って、一緒に世界を変えてくれるはず」――この言葉は、永久に忘れることはないであろう。",
+    "ko": "그동안 많은 오리지늄 설비를 개조해봤습니다만, 그중에서 가장 기억에 남는 건 역시 어릴 때 할머니께서 저한테 주셨던 지팡이입니다. '이 지팡이가 좋은 친구가 되어 세계를 개조하는 걸 도와줄 거란다'. 절대 잊혀지지 않는 한 마디입니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0023_antal_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "My grandmother told me that spending a lifetime to answer a scientific question may be romantic, but lonely is a life without friends. I did not understand what she meant. Then came a time when I wanted to share the joy of a new discovery, but you were not around. This incident taught me about loneliness.",
+    "zh-TW": "奶奶曾經告訴過我，研究者窮極一生去向世界尋求答案固然浪漫，但在道路上無人陪伴豈不太過孤獨？我以前一直不明白她的意思，但當我有了新思路想把這份喜悅分享給您，而您卻不在我身邊時，我終於理解她說的孤獨是什麼意思。",
+    "zh-CN": "奶奶曾经告诉过我，研究者穷极一生去向世界寻求答案固然浪漫，但在道路上无人陪伴岂不太过孤独？我以前一直不明白她的意思，但当我有了新思路想把这份喜悦分享给您，而您却不在我身边时，我终于理解她说的孤独是什么意思。",
+    "ja": "祖母に言われた言葉だ。「研究者が生涯をかけて世界の答えを探すのはロマンチックだけど、一緒に歩む人がいなければ、それはとても孤独なことでしょう？」――当時は意味が理解できなかった。しかし、新しい発想の芽生えの瞬間、お主が傍にいなかった時……ようやく、祖母の言うところの「孤独」が理解できたのだ。",
+    "ko": "전에 할머니가 저한테 해주신 말씀이 있습니다. '연구자는 평생 동안 세상을 향해 물음을 던진단다. 그 길을 걷겠다는 건 참으로 멋진 일이지. 하지만, 같이 걸어주는 이가 없다면 너무 외롭지 않겠니?' 예전에는 그게 무슨 말인지 몰랐습니다. 근데 언젠가 좋은 아이디어가 떠올랐을 때, 가장 먼저 관리자님과 그 기쁨을 나누고 싶다는 생각이 들었거든요. 그때 제 곁에 관리자님이 없다는 걸 깨달았지만요... 그 순간, 할머니께서 말씀하신 외로움이 어떤 의미인지 알게되었습니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0023_antal_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "Fluorite taught me a card game for passing the time. She also told me that the loser must do anything for the winner. We played five games. She is now obliged to give me five one-on-one sessions on \"quickly becoming a joyful partner in conversations\".",
+    "zh-TW": "螢石教過我一個無聊時用來消遣的紙牌遊戲，還提出輸家要答應贏家一個要求。我們玩了五次，現在她要為我單獨開設五節課，一對一輔導，課程內容是「如何讓人迅速變成聊天高手」。",
+    "zh-CN": "萤石教过我一个无聊时用来消遣的纸牌游戏，还提出输家要答应赢家一个要求。我们玩了五次，现在她要为我单独开设五节课，一对一辅导，课程内容是“如何让人迅速变成聊天高手”。",
+    "ja": "フローライトがカードゲームを教えてくれた。ちなみに、敗者は勝者の要求に応じるという条件が付いていた。5回勝負をし――結果、個別特訓を受けさせられている。「会話の達人を目指そう」という内容で。",
+    "ko": "지루할 때 해보라고 플루라이트가 카드게임을 하나 가르쳐준 적이 있습니다. 진 사람이 이긴 사람의 소원을 하나 들어줘야 한다는 벌칙까지 만들더군요. 저희는 전부 다섯 판을 했고, 전 단 한 판의 승리도 내어주지 않았죠. 그렇게 플루라이트는 저한테 특별 수업을 다섯 번 해주게 됐습니다. 1대1로 말이죠. 수업 내용은 바로, '한 방으로 보내는 대화의 기술'입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Having dinner? No. I cannot go. I have hunted down an Aggelos without reporting to my Captain. She has punished me by denying me night time feeding privileges at the canteen.",
+    "zh-TW": "您要去吃晚餐了嗎？不，我不能去。由於我私自捕獲了一隻天使沒向隊長報備，她罰我今天晚上不准去餐廳進食。",
+    "zh-CN": "您要去吃晚餐了吗？不，我不能去。由于我私自捕获了一只天使没向队长报备，她罚我今天晚上不准去餐厅进食。",
+    "ja": "夕食か？いや、小生は行けぬのだ。業務外でアンゲロスを1匹捕獲したという、隊長への報告を失念してしまった。罰として、今夜は食堂の出入り禁止となっている。",
+    "ko": "저녁 식사하러 가시는 겁니까? 아니요, 전 갈 수가 없습니다. 팀장님이 오늘 저녁에는 식당에 출입하지 말라고 하시더군요. 전 아겔로스 한 마리를 잡았을 뿐인데 말이죠. 보고를 안 해서 그런가..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Why did I choose Z7 instead of an R&D project? The R&D Center was my initial interest but Captain Akekuri was my interviewer. She believes that modified Originium devices should be taken out of the lab and subject to actual combat scenarios. This will better identify their issues. I concur, therefore I joined her team.",
+    "zh-TW": "為什麼加入Z7行動組而沒參加科研計劃？事實上，我最初的就職意向的確是去研發中心。不過那時面試我的是秋栗隊長，她認為比起待在研究室，藉由實戰去測試改造的源石設備，更易於發現一些效能問題。我同意她的看法，所以加入了她的隊伍。",
+    "zh-CN": "为什么加入Z7行动组而没参加科研项目？事实上，我最初的就职意向的确是去研发中心。不过那时面试我的是秋栗队长，她认为比起待在研究室，通过实战去测试改造的源石设备，更易于发现一些性能问题。我同意她的看法，所以加入了她的队伍。",
+    "ja": "なぜ研究プロジェクトではなく、行動隊Z7に加入したかと？実のところ、最初は研究センターへの就職を志望していた。しかし、面接担当のアケクリ隊長が「改造した機器のテストをしたいなら、研究室より実践で試すべきでしょう」と言った。その意見に賛同し、隊に加わると決めたのである。",
+    "ko": "제가 왜 연구 프로젝트에 참가하지 않고 Z7 작전팀에 합류했냐고요? 사실 처음에는 연구 개발 센터로 가길 희망했습니다. 근데 그때 면접관이 아케쿠리 팀장님이었거든요. 팀장님은 연구실에 앉아있는 것보다 실전에서 개조한 오리지늄 설비를 테스트하는 게 성능 문제를 빨리 찾아낼 수 있다고 하셨습니다. 일리 있는 말이죠. 그래서 작전팀에 들어오게 된 겁니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "Why do I obsess about bad jokes? During my schooling days people complained about my lack of humor. I agree with them. My defect must be corrected.",
+    "zh-TW": "為什麼執著於講各種冷笑話？因為讀書時有人指出我缺乏幽默感，我認為對方說得沒錯，這是一種缺陷，必須得到修正。",
+    "zh-CN": "为什么执着于讲各种冷笑话？因为读书时有人指出我缺乏幽默感，我认为对方说得没错，这是一种缺陷，必须得到修正。",
+    "ja": "何故「寒いギャグ」ばかり言うのかだと？勉学に励んでいる頃、ユーモアに欠けると指摘されたことがある。確かに的を得ていると納得した。つまり、小生の欠点であるからして、克服のために「特訓中」なのである。",
+    "ko": "왜 자꾸 썰렁한 농담을 하냐고요? 전에 학교 다닐 때 어떤 사람이 저보고 유머 감각도 없는 녀석이라고 말한 적이 있습니다. 전 그게 틀린 말은 아니라고 생각했죠. 이건 일종의 결함이니까, 반드시 수정해야할 점입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "My grandmother told me she was happy I left home for Endfield. She treated this as an opportunity to get me off the reading and Originium devices. She hoped I would learn about getting along with teammates and even ... make a friend.",
+    "zh-TW": "加入終末地離開家的時候，奶奶說她很高興，她覺得這是一次機會：可以讓我稍微將注意力從書籍和源石裝置轉移到別的地方——去和隊友好好相處，再交個朋友。",
+    "zh-CN": "加入终末地离开家的时候，奶奶说她很高兴，她觉得这是一次机会：可以让我稍微将注意力从书籍和源石装置转移到别的地方——去和队友好好相处，再交个朋友。",
+    "ja": "エンドフィールドに加入して家を離れた時、祖母はとても喜んでいた。書物や源石装置から距離を置き、仲間と交流し、新たな友を作る機会になると。",
+    "ko": "엔드필드에 합류하게 되면서 집을 떠나게 됐을 때, 할머니께서는 참 기뻐하셨습니다. 책이나 오리지늄 장치에만 몰두하는 생활에서 벗어나 다른 것들로 좀 관심을 돌려볼 수 있는 기회라고 생각하신 거죠. 팀원들과도 잘 지내보고, 친구들도 많이 사귀고요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_about_line01",
+   "title": {
+    "en": "Topic: Akekuri",
+    "zh-TW": "話題：秋栗",
+    "zh-CN": "话题：秋栗",
+    "ja": "アケクリについて",
+    "ko": "아케쿠리에 관하여"
+   },
+   "text": {
+    "en": "Captain Akekuri? She recruited me and is very friendly. I heed all her instructions. Though she says our team is doing okay, she often loses sleep and would pace about in the middle of the night. She refuses to divulge the reasons. I hope you may tell me why, Endmin.",
+    "zh-TW": "秋栗隊長嗎？招我進來的人，好說話，我什麼都聽她的。雖然她平時總是說沒問題我們可以的，但她又經常失眠，半夜一個人在外面散步，問她原因也不說，您知道為什麼嗎？",
+    "zh-CN": "秋栗队长吗？招我进来的人，好说话，我什么都听她的。虽然她平时总说没问题我们可以的，但她又经常失眠，半夜一个人在外面散步，问她原因也不说，您知道为什么吗？",
+    "ja": "アケクリ隊長か？小生を招き入れた人物であり、物腰も柔らかく話しやすい。故に隊長の指示に異を唱えることはない。常々「わたしたちなら大丈夫」と言っているが、その実、眠れぬ様子で1人散歩している姿を見かける。理由を尋ねても答えてくれないのだが……お主は何か知っているか？",
+    "ko": "아케쿠리 팀장님말이십니까? 절 뽑아주신 분입니다. 말도 잘 통하고, 저도 팀장님이 하시는 말씀은 다 잘 듣습니다. 물론, 팀장님은 항상 괜찮다, 우린 할 수 있다를 외치시면서도 밤에는 또 불면증 때문에 혼자 밖을 걷고 계실 때가 많으시더군요. 이유를 물어봐도 안 알려주시던데, 혹시 관리자님은 알고 계십니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_about_line02",
+   "title": {
+    "en": "Topic: Catcher",
+    "zh-TW": "話題：卡契爾",
+    "zh-CN": "话题：卡契尔",
+    "ja": "キャッチャーについて",
+    "ko": "카치르에 관하여"
+   },
+   "text": {
+    "en": "Catcher is responsible for preparing the rations during field operations. He wields kitchenware better than how I wield my orbiters. When it rains, however, he refuses to talk but neither does he object to my presence. I find this rather perplexing.",
+    "zh-TW": "外出執行任務時，小隊飲食都是卡契爾在負責，廚具在他手上比我的浮游炮還聽話。只不過下雨的時候他就不怎麼理人，但又不趕人走，很奇怪。",
+    "zh-CN": "外出执行任务时，小队饮食都是卡契尔在负责，厨具在他手上比我的浮游炮还听话。只不过下雨的时候他就不怎么理人，但又不赶人走，很奇怪。",
+    "ja": "任務で外出する際、隊の食事はすべてキャッチャーが担当している。小生が浮遊砲を扱うよりずっと器用に、調理器具を操っているように見える……しかし雨の日は、人との接触を避けている。追い払うことまではしないが、なんとも不思議である。",
+    "ko": "밖에서 임무를 수행할 때 팀의 식사는 모두 카치르가 책임지고 있습니다. 카치르가 요리 도구를 다루는 솜씨는 제가 부유포를 다루는 것보다 더 대단하죠. 근데 비만 오면 사람이 조금 변합니다. 쫓아내진 않지만요. 참 이상합니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_about_line03",
+   "title": {
+    "en": "Topic: Fluorite",
+    "zh-TW": "話題：螢石",
+    "zh-CN": "话题：萤石",
+    "ja": "フローライトについて",
+    "ko": "플루라이트에 관하여"
+   },
+   "text": {
+    "en": "I consider Fluorite to be a fellow scaley friend of mine, to some degree. I find her strong, powerful tail attractive but she forbade me from making tactile assessments. Fluorite is also an artful conversationalist. I can learn much from her.",
+    "zh-TW": "某種程度來說，螢石也算是我的鱗片夥伴。我喜歡她的尾巴，結實有力，但她不讓我進一步接觸。除此以外，她說話還很藝術，我應該向她學習。",
+    "zh-CN": "某种程度来说，萤石也算是我的鳞片伙伴。我喜欢她的尾巴，结实有力，但她不让我进一步接触。除此以外，她说话还很艺术，我应该向她学习。",
+    "ja": "ある種、フローライトは小生の「ウロコ仲間」と言える。彼女の尾は特に素晴らしい――力強くしなやかだ。なぜか触れることを拒否されているが。彼女の語り口は非常に芸術的であり、学ぶべきことも多いのだ。",
+    "ko": "어떤 의미에서는 플루라이트도 제 비늘 친구입니다. 전 튼튼하면서도 힘 좋은 그 꼬리가 마음에 들거든요. 근데 또 만지지는 못하게 합니다. 그것만 빼면, 제가 배워야할 점이 많죠. 말도 예술적으로 잘하고요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_about_line04",
+   "title": {
+    "en": "Topic: Estella",
+    "zh-TW": "話題：埃特拉",
+    "zh-CN": "话题：埃特拉",
+    "ja": "エステーラについて",
+    "ko": "에스텔라에 관하여"
+   },
+   "text": {
+    "en": "When entering a battle, I need to consider defending Estella. We both share reflective and conspicuous skin tones. It is a key concern that dangerously exposes us in battle.",
+    "zh-TW": "埃特拉是我最先要考慮保護的隊友，因為她和我一樣都是白色的，很容易在戰鬥時暴露行蹤，需要特別注意。",
+    "zh-CN": "埃特拉是我最先要考虑保护的队友，因为她和我一样都是白色的，很容易在战斗时暴露行踪，需要重点关注。",
+    "ja": "エステーラは、小生が最優先で護る隊員である。彼女は白く、小生と同様に戦場では極めて目立ちやすい。注意を払わねばならないのだ。",
+    "ko": "에스텔라는 제가 가장 먼저 보호해야 할 팀원입니다. 저처럼 하얗다보니, 전투 중에 눈에 잘 띄어서 특별히 신경을 써줘야 하거든요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Good. A new discovery has been made.",
+    "zh-TW": "不錯，那邊有新發現。",
+    "zh-CN": "不错，那边有新发现。",
+    "ja": "ふむ、新たな発見か。",
+    "ko": "새로운 걸 발견했습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "We should take a look at that key discovery.",
+    "zh-TW": "一些重要的新發現，不去看看嗎？",
+    "zh-CN": "一些重要的新发现，不去看看吗？",
+    "ja": "重要と思われる物があるようだが。確認すべきか？",
+    "ko": "중요한 걸 발견했습니다. 가서 확인해 보는 게 어떻겠습니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Allow me to investigate this mystery.",
+    "zh-TW": "請允許我去探究其中的奧秘。",
+    "zh-CN": "请允许我去探究其中的奥秘。",
+    "ja": "この先に秘められし事の探索許可を貰いたい。",
+    "ko": "숨겨진 비밀에 대한 조사 허가를 요청합니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Elite hostile unit detected.",
+    "zh-TW": "發現高規格敵對單位。",
+    "zh-CN": "发现高规格敌对单位。",
+    "ja": "高水準の敵対ユニットを発見。",
+    "ko": "고위험 개체 확인."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Minerals serve multiple purposes. We should gather some.",
+    "zh-TW": "礦物用途多樣，可以多採集一些。",
+    "zh-CN": "矿物用途多样，可以多采集一些。",
+    "ja": "この鉱物は用途が広範だ。可能な限りの採集を推奨する。",
+    "ko": "광물은 쓸 데가 많습니다. 좀 더 채집해 두도록 하죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "This will boost our efficiency.",
+    "zh-TW": "這樣效率更高。",
+    "zh-CN": "这样效率更高。",
+    "ja": "より効率的な手順だ。",
+    "ko": "이게 더 효율적입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Rich resource stash found. We should sort through it to identify gear maintenance materials.",
+    "zh-TW": "發現不少有用資源，等下可以篩選一些用作設備維護的材料。",
+    "zh-CN": "发现不少有用资源，等下可以筛选一些用作设备维护的材料。",
+    "ja": "有益な資源を多数発見。後ほど設備メンテナンス用の素材を選別する。",
+    "ko": "유용한 자원을 많이 발견했습니다. 이따가 장비 설비에 쓸 재료들을 골라둬야겠군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Some Aurylenes suddenly move away when we approach. Why? Can it be some form of energy-based repulsion?",
+    "zh-TW": "一些醚質在我們接近時會突然閃避，這是為什麼？某種能量互斥？",
+    "zh-CN": "一些醚质在我们接近时会突然闪避，这是为什么？某种能量互斥？",
+    "ja": "接近すると、一部のオーリレンは逃げてしまう……何故だ？エネルギーの反発か？",
+    "ko": "가까이가면 우릴 피하는 오리렌도 있던데, 왜 그런 거죠? 에너지 반발 작용 같은 건가요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Does this mean we have achieved better understanding of the Blight...?",
+    "zh-TW": "這是否意味著，我們對侵蝕有了更深的瞭解……",
+    "zh-CN": "这是否意味着，我们对侵蚀有了更深的了解……",
+    "ja": "これは即ち、侵蝕に対して我らの理解が深まったと言うべきか……",
+    "ko": "저희가 침식 현상에 대해 더 깊이 이해했다는 뜻일지도 모르겠군요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "People are not machines, and must set aside time for rest.",
+    "zh-TW": "人不是機器，需要時間休息。",
+    "zh-CN": "人不是机器，需要时间休整。",
+    "ja": "人は機械ではない。休息の時間は不可欠である。",
+    "ko": "사람은 기계가 아닙니다. 쉴 시간이 필요하죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Initiating emergency treatment.",
+    "zh-TW": "正在緊急搶救。",
+    "zh-CN": "正在紧急抢救。",
+    "ja": "緊急救助を行う。",
+    "ko": "긴급 구조 중."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Nominal conditions restored.",
+    "zh-TW": "已恢復正常狀態。",
+    "zh-CN": "已恢复正常状态。",
+    "ja": "正常状態への回復確認。",
+    "ko": "정상 상태로 회복 완료."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Hostile attack order detected.",
+    "zh-TW": "識別到敵方攻擊指令。",
+    "zh-CN": "识别到敌方攻击指令。",
+    "ja": "敵の攻撃命令を識別。",
+    "ko": "적 공격 감지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Conditions sub-optimal, but still functional.",
+    "zh-TW": "狀態不佳，但還能堅持。",
+    "zh-CN": "状态不佳，但还能坚持。",
+    "ja": "状態は良くないが、まだ戦える。",
+    "ko": "상태가 좋진 않습니다만, 견딜 수 있습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Train of thought derailed. Support ... unavailable.",
+    "zh-TW": "抱歉，思路中斷，無法提供援助。",
+    "zh-CN": "抱歉，思路中断，无法提供援助。",
+    "ja": "済まない。思考中断……これ以上の救援は不可と判断。",
+    "ko": "죄송합니다. 더 이상 머리가 안 돌아가네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "An outstanding performance.",
+    "zh-TW": "精彩的表現。",
+    "zh-CN": "精彩的表现。",
+    "ja": "見事な働きだ。",
+    "ko": "훌륭합니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "We achieved tacit synergy.",
+    "zh-TW": "默契的配合。",
+    "zh-CN": "默契的配合。",
+    "ja": "滑らかな連携であった。",
+    "ko": "완벽한 호흡입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Thank you, but I could've done better.",
+    "zh-TW": "謝謝，但我應該能做得更好。",
+    "zh-CN": "谢谢，但我应该能做得更好。",
+    "ja": "感謝する。しかし、より良い結果を出せたはずだ。",
+    "ko": "감사합니다. 하지만 전 여전히 부족합니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "A definitive outcome.",
+    "zh-TW": "這是必然的結果。",
+    "zh-CN": "这是必然的结果。",
+    "ja": "必然の結果である。",
+    "ko": "이건 당연한 결과일 뿐이죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Arts Unit optimal.",
+    "zh-TW": "施術單元狀態良好。",
+    "zh-CN": "施术单元状态良好。",
+    "ja": "アーツユニット、状態良好。",
+    "ko": "아츠 유닛 상태 양호."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Focus on the battle. I shall provide covering fire.",
+    "zh-TW": "專心戰鬥，我會掩護你們。",
+    "zh-CN": "专心战斗，我会掩护你们。",
+    "ja": "戦闘に集中を。小生が援護する。",
+    "ko": "전투에만 집중하세요. 제가 엄호하겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "New knowledge gained.",
+    "zh-TW": "又有新的收穫。",
+    "zh-CN": "又有新的收获。",
+    "ja": "新たな収穫を得た。",
+    "ko": "또 하나 배웠군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "Mission complete. It was a walk on a cake.",
+    "zh-TW": "任務完成，還算輕鬆。",
+    "zh-CN": "任务完成，还算轻松。",
+    "ja": "任務完了。楽な戦いであった。",
+    "ko": "임무 완료, 생각보다 수월했군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Everyone has been indispensable to the team.",
+    "zh-TW": "每個人都是團隊不可或缺的一部分。",
+    "zh-CN": "每个人都是团队不可或缺的一部分。",
+    "ja": "全員が欠かせない存在である。",
+    "ko": "우리 모두 필요한 존재입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "Our results are optimal, despite the unexpected variables of combat.",
+    "zh-TW": "戰鬥中總會有不可控的變數，這是我們能取得的最好成果。",
+    "zh-CN": "战斗中总有不可控的变量，这是我们能取得的最好成果。",
+    "ja": "戦闘には常に不確定要素が伴うものである。今回はこれが最良の成果だったのだ。",
+    "ko": "전투의 모든 변수를 통제할 수는 없습니다. 이 정도면 최선의 결과인 거죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Tabulations of losses incurred showed that extraction was the best solution for the team.",
+    "zh-TW": "根據小隊剛才的受損情況，撤退是我在計算後得出的最佳結果。",
+    "zh-CN": "根据小队刚才的受损情况，撤退是我在计算后得出的最优解。",
+    "ja": "隊の損害状態に基づいた結果、撤退が最善と判断。",
+    "ko": "방금 팀의 피해 상황을 분석하면, 철수하는 게 가장 합리적인 선택이었습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Flaw sighted!",
+    "zh-TW": "破綻。",
+    "zh-CN": "破绽。",
+    "ja": "突破口だ。",
+    "ko": "허점 발견."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Hmph! Paralyze!",
+    "zh-TW": "停下。",
+    "zh-CN": "停下。",
+    "ja": "停止だ。",
+    "ko": "거기까지다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Direction set.",
+    "zh-TW": "方向確認。",
+    "zh-CN": "方向确认。",
+    "ja": "方向確認。",
+    "ko": "방향 확인."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Target locked.",
+    "zh-TW": "目標鎖定。",
+    "zh-CN": "目标锁定。",
+    "ja": "目標捕捉。",
+    "ko": "목표 고정."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Max output.",
+    "zh-TW": "全力攻擊。",
+    "zh-CN": "全力攻击。",
+    "ja": "全能力解放。",
+    "ko": "전력 공격."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Fully energized.",
+    "zh-TW": "蓄能完畢。",
+    "zh-CN": "充能完毕。",
+    "ja": "充電完了。",
+    "ko": "에너지 충전 완료."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Unit prepped and hot.",
+    "zh-TW": "隨時準備。",
+    "zh-CN": "随时准备。",
+    "ja": "出撃準備完了。",
+    "ko": "준비됐습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Critical zap.",
+    "zh-TW": "關鍵一擊。",
+    "zh-CN": "关键一击。",
+    "ja": "一撃、放つ。",
+    "ko": "이걸로 끝이군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Hasten victory!",
+    "zh-TW": "迅速解決。",
+    "zh-CN": "迅速解决。",
+    "ja": "迅速に対応する。",
+    "ko": "빠르게 끝내죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Ion burst.",
+    "zh-TW": "電能釋放。",
+    "zh-CN": "电能释放。",
+    "ja": "電力放出。",
+    "ko": "전기 에너지 방출."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Voltaic surge.",
+    "zh-TW": "變壓控制。",
+    "zh-CN": "变压控制。",
+    "ja": "電圧制御。",
+    "ko": "변압 제어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Victory electrified.",
+    "zh-TW": "去吧，制勝關鍵。",
+    "zh-CN": "去吧，制胜关键。",
+    "ja": "行け、勝利の鍵よ。",
+    "ko": "이걸로 이기는 건 확정입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Circuit amplified.",
+    "zh-TW": "增幅迴路，啟動。",
+    "zh-CN": "增幅回路，启动。",
+    "ja": "増幅回路、起動。",
+    "ko": "증폭 회로, 작동."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0023_antal_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Time to power up.",
+    "zh-TW": "動力執行。",
+    "zh-CN": "动力运行。",
+    "ja": "動力稼働開始。",
+    "ko": "동력 작동."
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0023_antal_1",
+   "topic": {
+    "en": "The Pun-isher's Guide",
+    "zh-TW": "冷笑話訣竅",
+    "zh-CN": "冷笑话诀窍",
+    "ja": "寒いギャグの秘訣",
+    "ko": "농담의 비법"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Endmin, there's been something troubling me lately. After careful consideration, I've decided to seek your advice.",
+      "zh-TW": "管理員，最近有一件事讓我非常困擾，經過思考後我決定還是應該來請教您。",
+      "zh-CN": "管理员，最近有一件事让我非常困扰，经过思考后我决定还是应该来请教您。",
+      "ja": "近頃、深刻に悩んでいることがある。熟考の末、管理人に相談するのが最適であると判断した。",
+      "ko": "관리자님, 요즘 저를 아주 곤란하게 하는 일이 있는데, 깊이 고민한 끝에 역시 관리자님께 직접 여쭤보는 게 맞다고 판단했습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "I've noticed a significant decline in my deadpan humor skills lately. My joke success rate has flatlined at zero for quite some time now.",
+      "zh-TW": "我發現我的冷笑話水準好像出現了明顯的下滑，這段時間逗笑的人數始終為零。",
+      "zh-CN": "我发现我的冷笑话水平似乎出现了明显的下滑，这段时间逗笑的人数始终为零。",
+      "ja": "小生の「寒いギャグ」の腕前が目に見えて低下している。笑ってくれる者が1人も居ないのだ。",
+      "ko": "제 농담 실력이 눈에 띄게 떨어진 것 같아서요... 최근에 제 농담에 웃은 사람이 단 한 명도 없었거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Therefore, I'm considering whether my training frequency needs adjustment. Perhaps increasing from five times a week to once daily.",
+      "zh-TW": "因此，我在思考我的訓練頻率是否還有待提高，應該從一週五次提升到一天一次。",
+      "zh-CN": "因此，我在思考我的训练频率是否还有待提高，应该从一周五次提升到一天一次。",
+      "ja": "故に、小生としては稽古の頻度を更に高めるべきではないかと考える。週に5回から、1日1回と。",
+      "ko": "그래서 훈련 빈도를 더 높여야 할지 고민하고 있습니다. 일주일에 다섯 번에서, 하루에 한 번으로 늘리는 게 어떨까 싶네요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "When was the last time you told a deadpan joke? And what was it?",
+         "zh-TW": "你最近一次講冷笑話是在什麼時候？當時講的什麼？",
+         "zh-CN": "你最近一次讲冷笑话是在什么时候？当时讲的什么？",
+         "ja": "最後に「寒いギャグ」を言ったのはいつ？そのときのギャグも教えて。",
+         "ko": "마지막으로 농담을 한 게 언제인데? 그때 어떤 농담을 했어?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "So your jokes didn't land with the audience? Can you give me an example?",
+         "zh-TW": "講冷笑話的時候沒有逗笑聽眾？能舉個具體的例子嗎？",
+         "zh-CN": "讲冷笑话的时候没能逗笑听众？能举个具体的例子吗？",
+         "ja": "「寒いギャグ」で相手が笑わなかったときの、具体的な例を教えてくれる？",
+         "ko": "농담을 했는데 아무도 웃지 않았구나. 구체적으로 어떤 농담을 했는데?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Please allow me to process this inquiry.",
+      "zh-TW": "請允許我思考一下。",
+      "zh-CN": "请允许我思考一下。",
+      "ja": "ふむ……少々考える時間を頂きたい。",
+      "ko": "잠시만요, 생각을 좀 정리해 볼게요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Likely during the last mission, when we encountered a Landbreaker ambush.",
+      "zh-TW": "應該是上次出任務的時候，當時我們遭遇了裂地者突襲。",
+      "zh-CN": "应该是上次出任务的时候，当时我们遭遇了裂地者突袭。",
+      "ja": "先般の任務の折。我らはランドブレーカーの奇襲を受けた。",
+      "ko": "아마 지난번 임무 때였을 겁니다. 그때 저희는 랜드브레이커의 습격을 받고 있었어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "While Catcher was holding the line, I revealed the answer to my earlier riddle: Why do Bonekrushers always cause trouble?",
+      "zh-TW": "我在卡契爾擋住敵人的時候，向他揭曉了一小時前「為什麼碾骨氏族經常惹是生非？」的答案——",
+      "zh-CN": "我在卡契尔挡住敌人的时候，向他揭晓了一小时前“为什么碾骨氏族经常惹是生非？”的答案——",
+      "ja": "小生はキャッチャーの前に立ち、敵の攻撃を抑えていた。その際、キャッチャーが1時間前に小生に放った問い――「何故、ボーンクラッシャーは常に問題を起こすのか」に対する答えが頭に浮かんだのだ。",
+      "ko": "카치르가 적을 막고 있을 때, 제가 한 시간 전에 던졌던 질문의 답을 공개했었죠. \"왜 본 크러셔 집단은 늘 사고를 치고 싶어 하는가?\"..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "\"Because they can't stop piping into others' business\". I then explained the double meaning, how \"piping\" refers both to the Landbreakers' pipes and their meddling tendencies.",
+      "zh-TW": "「因為他們總是管太多」。並且幫他解釋了笑點，裡面的「管」既是指裂地者身上的管子，也是指管閒事。",
+      "zh-CN": "“因为他们总是管太多”。并且给他解释了笑点，里面的“管”既是指裂地者身上的管子，也是指管闲事。",
+      "ja": "「『癇に障った』から」――笑い所も説明した。「癇」は「管」、つまりランドブレーカーのチューブと掛けているのだ。奴らは常にチューブに触れているだろう。",
+      "ko": "답은... \"사고할 수 없으니까, 사고만 치려고 하지.\" 그리고 바로 웃음 포인트까지 설명했습니다. 전자는 생각이 없다는 뜻이고, 후자는 말썽을 피운다는 뜻이라고요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "...I think you might be worried about the wrong thing here.",
+         "zh-TW": "……我覺得你苦惱的方向可能錯了。",
+         "zh-CN": "……我感觉你苦恼的方向可能错了。",
+         "ja": "……悩みと、解決の方向性が少し違うかもしれない。",
+         "ko": "...내가 볼 땐, 고민하는 포인트가 조금 잘못된 것 같아."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Increasing training frequency might not actually improve your deadpan comedy skills.",
+         "zh-TW": "提高練習頻率可能並不能提升你的冷笑話水準。",
+         "zh-CN": "提高练习频率可能并不能提升你的冷笑话水平。",
+         "ja": "練習の回数を増やしても、「寒いギャグ」の腕前は上がらないと思う。",
+         "ko": "훈련 빈도를 늘린다고 해서 농담 실력이 올라가는 건 아닌 것 같아."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Your issue lies in timing and delivery. Few people have the mental bandwidth for deadpan humor mid-combat ... let alone a joke with its punchline explained.",
+      "zh-TW": "問題出在講的時機與方式上……很少有人在戰鬥中會有心情聽冷笑話，更何況還是需要解釋笑點的冷笑話。",
+      "zh-CN": "问题出在讲的时机与方式上……很少有人会在战斗中有心思听冷笑话，更何况是被解释了笑点的冷笑话。",
+      "ja": "問題はギャグの「タイミング」と「伝え方」だ。戦闘中にギャグを聞く余裕がある人は少ないよ。それに、笑いどころまで説明されるような寒いギャグならなおさら。",
+      "ko": "문제는 타이밍과 방식이지... 전투 중에 농담을 들을 여유가 있는 사람은 거의 없어. 특히 설명이 필요한 농담이라면 더더욱 그렇고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "But my timing was deliberate. Back then Catcher's stress levels had reached a new high.",
+      "zh-TW": "可是，我當時之所以選擇那個時間點講，是因為卡契爾的表情太緊張了。",
+      "zh-CN": "可是，我当时之所以选择那个时间点讲，是因为卡契尔的表情太紧张了。",
+      "ja": "しかし、小生がその「タイミング」を選んだ理由がある。キャッチャーの顔が、あまりにも固まっていた。",
+      "ko": "음... 사실 제가 그때 굳이 그 순간에 농담을 한 건, 카치르가 너무 굳어 있었기 때문이에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "He once told me a relaxed mental state improves combat efficacy. Based on my observations, the corner of his mouth exhibited approximately 1 millimeter of displacement post-joke.",
+      "zh-TW": "他跟我說過，心態放鬆的狀態下更有利於作戰。根據我的觀察，卡契爾聽完後嘴角大概有0.1公分左右的變化。",
+      "zh-CN": "他和我说过，心态放松的状态下更有利于作战。根据我的观察，卡契尔听完后嘴角大概有一毫米左右的变化。",
+      "ja": "彼は、以前こう言っていた。「リラックスすれば、戦闘に有利だ」と。小生の観察によると、「寒いギャグ」の後に彼の口角は約1ミリほど動いた。",
+      "ko": "카치르가 저한테 마음을 편히 가져야 전투 효율이 오른다고 한 적이 있거든요. 그리고 제 관찰에 따르면, 카치르도 그 농담을 듣고 난 후 입꼬리가 약 1mm 정도 움직였었고요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "He might've developed transient facial neural dysregulation. Colloquially known as \"twitchy mouth syndrome\".",
+         "zh-TW": "他可能在作戰過程中罹患了面部神經紊亂，俗稱「嘴角抽搐」。",
+         "zh-CN": "他可能在作战过程中罹患了面部神经紊乱，俗称“嘴角抽搐”。",
+         "ja": "もしかして、顔面神経の不調があったのかもしれない。口元が引きつっただけかも……",
+         "ko": "아마 전투 중 안면 신경에 문제가 생겨서 움직였을 거야. 흔히 말하는 '입꼬리 경련'이지."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Maybe he was conditioning his lips for close combat. Getting ready to \"jaw\" with the Landbreakers.",
+         "zh-TW": "或許他是在鍛鍊嘴角肌肉，打算和裂地者「角」一死戰。",
+         "zh-CN": "或许他是在锻炼嘴角肌肉，打算和裂地者“角”一死战。",
+         "ja": "もしくは、「口角」の筋肉を鍛えて、ランドブレーカーに「高確」率で勝利しようとしてたのかもね。",
+         "ko": "어쩌면 입꼬리 근육을 단련하고 있었을지도 모르지. 랜드브레이커와 말싸움하려고 준비하고 있었을 수도 있고."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "......",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "See, this is a textbook case study.",
+         "zh-TW": "你看，這就是一個鮮明的案例。",
+         "zh-CN": "你看，这就是一个鲜明的案例。",
+         "ja": "どうかな。これが「具体的な例」だと思うけど……",
+         "ko": "봐, 이게 바로 분명한 사례야."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Now you see? Context determines comedic casualty rates.",
+         "zh-TW": "現在你應該懂了吧？挑選對的時機有多重要。",
+         "zh-CN": "现在你应该明白了吧？挑选对的时机有多重要。",
+         "ja": "今ならわかるんじゃないかな。タイミングの重要さが……",
+         "ko": "이제 알겠지? 타이밍이 얼마나 중요한지."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Endmin, your tactical analysis is peerless! Though currently unable to see or hear me, my laughter subroutine is now stuck in an irrepressible loop.",
+      "zh-TW": "管理員太厲害了！雖然您看不到也聽不到，但我已經快笑死了！",
+      "zh-CN": "管理员太厉害了！虽然您看不到也听不到，但我已经笑得停不下来了！",
+      "ja": "お見事！見事である！管理人には見えず、聞こえぬと思うが、小生は今、大笑いしている！",
+      "ko": "역시 관리자님은 대단하시네요! 직접 보거나 들으실 수 없겠지만... 저는 지금 웃음이 멈추질 않고 있어요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Eureka. The critical variable is timing. I must deploy jokes at maximally inconvenient intervals!",
+      "zh-TW": "我已經完全懂了！真正的問題所在就是時機！我應該選擇更刁鑽的時機去講冷笑話！",
+      "zh-CN": "我已经完全懂了！真正的问题所在就是时机！我应该选择更刁钻的时机去讲冷笑话！",
+      "ja": "完全に理解した！なるほど、「タイミング」の問題も理解した。より奇妙な「タイミング」こそ、寒いギャグが光るのだ。",
+      "ko": "이제 확실히 알겠어요! 진짜 문제는 바로 타이밍이었네요! 더 기막힌 순간을 노려서 농담을 던져야겠어요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "I suspect that previous joke deployments suffered from predictable situational patterns. Catcher likely pre-calculated my humor intervals.",
+      "zh-TW": "之前講的情景都太過常見，卡契爾或許早就猜到我會挑那個時候講了吧。",
+      "zh-CN": "之前讲的情景都太过常见，卡契尔或许早猜到我会挑那个时候讲了吧。",
+      "ja": "小生の選択したタイミングは平凡すぎた。キャッチャーも、予測出来ていたに違いない。",
+      "ko": "그동안 너무 흔한 상황에서만 농담을 했으니, 카치르도 어쩌면 이미 예상하고 있었을지도 몰라요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Have you considered ... directly asking Catcher for feedback?",
+      "zh-TW": "這個……也許……你不如去問問他本人的想法？",
+      "zh-CN": "这个……也许……你不如去问问他本人的想法？",
+      "ja": "それは……どうだろう。本人に直接聞いてみたらいいんじゃないかな。",
+      "ko": "그건... 글쎄... 카치르한테 직접 물어보는 게 어떨까?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "You are absolutely correct. I'll go ask him in a bit.",
+      "zh-TW": "說得很有道理！我等一下就去找他。",
+      "zh-CN": "说得很有道理！等下我就去找他。",
+      "ja": "成る程。この後すぐ、聞いてみようと思う。",
+      "ko": "일리 있네요! 지금 바로 물어보러 갈게요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Endmin, thank you for your clarification. With this strategic timing parameter unlocked, my comedic operational efficiency will definitely increase!",
+      "zh-TW": "管理員，非常感謝您的解答！我想有了您教的這個訣竅，我的冷笑話水準以後一定會顯著提高！",
+      "zh-CN": "管理员，非常感谢您的解答！我想有了您教的这个诀窍，我的冷笑话水平往后一定能显著提高！",
+      "ja": "感謝致す。管理人に授かったこの「寒いギャグの秘訣」を活かし、必ずや腕前を上げてみせよう。",
+      "ko": "관리자님, 대답해 주셔서 정말 감사합니다! 이번에 알려주신 비법 덕분에, 제 농담 실력은 틀림없이 눈에 띄게 향상될 거예요!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0023_antal_2",
+   "topic": {
+    "en": "Arts Talent",
+    "zh-TW": "術法的天分",
+    "zh-CN": "术法的天分",
+    "ja": "アーツの才能",
+    "ko": "아츠의 재능"
+   },
+   "lines": [
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I heard you turned down the Originium Arts showdown invite. What's the deal?",
+         "zh-TW": "聽說你拒絕了這次源石技藝比拼的邀請？",
+         "zh-CN": "听说你拒绝了这次源石技艺比拼的邀请？",
+         "ja": "今回のアーツ大会の招待を断ったって聞いたよ。",
+         "ko": "이번 오리지늄 아츠 대결의 초대를 거절했다면서?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You're not joining the Originium Arts showdown this time?",
+         "zh-TW": "你不打算參加這次的源石技藝比拼嗎？",
+         "zh-CN": "你不打算参加这次的源石技艺比拼吗？",
+         "ja": "今回のアーツ大会、出る気はないの？",
+         "ko": "이번 오리지늄 아츠 대결에 참여하지 않을 거야?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Correct... Endmin, are you here to persuade me to participate? Captain Akekuri also inquired about this matter yesterday.",
+      "zh-TW": "是的……管理員，您是來勸我參加的嗎？昨天秋栗隊長也來問了這件事。",
+      "zh-CN": "是的……管理员，您是来劝我参加的吗？昨天秋栗队长也来问了这件事。",
+      "ja": "ふむ……管理人は小生を説得しようとしているのか？昨日はアケクリ隊長も同様にやって来た。",
+      "ko": "네... 혹시 저를 설득하러 오신 건가요? 어제 아케쿠리 팀장님도 같은 걸 물어보셨거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "True, it's a rare opportunity. Lil' Dodge specifically asked me to nudge you. But no pressure, your call.",
+      "zh-TW": "嗯，機會難得，小道奇教官特地委託我勸一下你，不過我會尊重你的想法。",
+      "zh-CN": "嗯，机会难得，小道奇教官特意委托我劝劝你，不过我会尊重你的想法。",
+      "ja": "貴重な機会だからね。ダッジ教官からも頼まれて説得に来たんだよ。でも、君の考えを尊重したいと思う。",
+      "ko": "그래, 좋은 기회잖아. 도치 교관님도 특별히 나한테 너를 설득해 달라고 부탁하시더라고. 물론 어떤 선택을 하든, 난 그 결정을 존중할 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Your consideration is appreciated, Endmin. However, my non-participation is backed by ... substantial reasoning.",
+      "zh-TW": "管理員，謝謝您的理解！其實我是有充分的不參加理由的……",
+      "zh-CN": "管理员，谢谢您的理解！其实我是有充分的不参加理由的……",
+      "ja": "理解、感謝する。実は、小生が参加を断った背景には、重要な理由が複数ある。",
+      "ko": "이해해 주셔서 감사합니다! 사실 제가 참가하지 않으려는 데에는 충분한 이유가 있습니다..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "First off, my current deadpan humor training regimen demands excessive temporal and cognitive resources. The showdown would compromise optimal joke-per-minute output.",
+      "zh-TW": "第一，我最近正在進行冷笑話的特訓，需要花費很多時間與精力，無法兼顧源石技藝比拼的事。",
+      "zh-CN": "一来，我最近正在进行冷笑话的特训，需要花费很多时间与精力，无法兼顾源石技艺比拼的事。",
+      "ja": "まず第1に、近頃は「寒いギャグ」の特訓に励み、相当な時間と気力を費やしている。アーツ大会の準備に割く時間が無い。",
+      "ko": "첫째, 제가 요즘 농담 특훈에 매진 중이라 시간과 에너지를 다 쏟고 있어서, 오리지늄 아츠 대결에 신경 쓸 틈이 없습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Secondary and critical. With my current Originium Arts proficiency, I may not be qualified to take part in a contest of this importance.",
+      "zh-TW": "第二，也是最關鍵的原因：我覺得以我的源石技藝水準，想參加這麼重要的比賽，恐怕還不夠格。",
+      "zh-CN": "二来，也是最关键的原因：我觉得以我的源石技艺水平，想参加这么重要的比赛，恐怕还不够格。",
+      "ja": "第2に、これは最も大きな理由であるが、小生にこのような重要な大会に出るほどの技量は無いと感じている。",
+      "ko": "둘째, 그리고 이게 가장 중요한 이유인데... 제 오리지늄 아츠 실력으로는, 이렇게 중요한 대회에 참가하기에는 아직 역부족이라고 생각합니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Not qualified? Lil' Dodge showed me your Originium Arts scores, and you cleared the benchmark months ago.",
+      "zh-TW": "不夠格？但小道奇教官給我看過你的源石技藝測試成績，早就達到參加的標準了。",
+      "zh-CN": "不够格？但小道奇教官给我看过你的源石技艺测试成绩，早就达到参加的标准了。",
+      "ja": "技量は無い……そんなことはないと思うよ。ダッジ教官から君の成績を見せてもらった。参加基準には十分達していると思う。",
+      "ko": "역부족이라고? 하지만 도치 교관님이 보여준 네 오리지늄 아츠 테스트 성적은 이미 충분히 참가 기준을 넘었던데?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Endmin, test scores are merely theoretical data. I once prioritized such metrics, but after joining Z7, I realized numbers matter less.",
+      "zh-TW": "管理員，源石技藝測試的成績也只是數據而已。我過去也很看重這些，但來到Z7後才發現，數據沒有那麼重要。",
+      "zh-CN": "管理员，源石技艺测试的成绩也只是数据罢了。我过去也很看重这些，但来到Z7后才发现，数据没那么重要。",
+      "ja": "テストの成績など、所詮ただの数値。以前は小生もその数値を重んじていた時があったが、Z7に来てから理解った。数値など、重要では無い。",
+      "ko": "관리자님, 오리지늄 아츠 테스트의 성적은 그저 숫자에 불과합니다. 예전에는 저도 그런 걸 중요하게 여겼지만, Z7에 와 보니 꼭 그렇지는 않더군요. 정말 중요한 건 데이터가 아니라..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Practical application in combat is what truly matters ... and my operational deficiencies in that field remain non-negligible.",
+      "zh-TW": "重要的還是實戰時的應用……只是我在這方面還有很多欠缺。",
+      "zh-CN": "重要的还是实战时的应用……只是我在这方面还有很多欠缺。",
+      "ja": "重要なのは、実践での応用力……小生は、この面で課題が多いと考えているのだ。",
+      "ko": "실전에 어떻게 활용하느냐는 거죠... 그런데 저는 아직 그 부분에서 많이 부족합니다."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Break it down for me. Where exactly do you think you're lacking?",
+         "zh-TW": "能說說你覺得自己哪裡欠缺嗎？",
+         "zh-CN": "能说说你觉得自己哪里欠缺吗？",
+         "ja": "どんな課題があるの？",
+         "ko": "구체적으로 어떤 점이 부족하다고 느끼는데?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Give me a concrete example. Hypothetically.",
+         "zh-TW": "舉幾個實際的例子？",
+         "zh-CN": "举点具体的例子？",
+         "ja": "例えば、具体例はある？",
+         "ko": "구체적인 예를 들어줄 수 있어?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "For example, I still cannot pre-calculate debris trajectories when disassembling enemy weapons mid-combat...",
+      "zh-TW": "例如，我到現在依然做不到在分解敵人武器的時候，提前規劃好分解物的落點……",
+      "zh-CN": "比如，我到现在依然做不到在分解敌人武器的时候，提前规划好分解物的落点……",
+      "ja": "敵の武器を分解する際、分解した部品の落下地点を事前に計算し、制御することが出来ぬ。",
+      "ko": "예를 들면, 저는 적의 무기를 분해할 때, 여전히 분해된 조각이 어디로 떨어질지 미리 계산하지 못합니다..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "My Hervorrufung Originium Arts area control remains imprecise. I consistently exceed the one-square-meter threshold...",
+      "zh-TW": "使用塑能轉換系源石技藝的時候，也沒辦法精準地把範圍控制在一平方公尺內……",
+      "zh-CN": "使用塑能转换系源石技艺的时候，也没法精准地把范围控制到一平米内……",
+      "ja": "転化変換系のアーツでは、正確な範囲、つまり1平方メートル以内に収めることも出来ぬ。",
+      "ko": "또한, 에너지 전환계 오리지늄 아츠를 사용할 때, 범위를 1제곱미터 안으로 정확하게 제어할 수도 없고요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Compared to other casters, the power of my Arts is unacceptably unstable. A clear deficiency.",
+      "zh-TW": "和其他術師同事比，我的源石技藝威力實在太不可控了，這顯然是個缺陷。",
+      "zh-CN": "和其他术师同事比，我的源石技艺威力实在太不可控了，这显然是个缺陷。",
+      "ja": "術師の同僚と比べ、小生のアーツは制御が過度に不安定である。明らかな課題と言えよう。",
+      "ko": "다른 캐스터들에 비하면, 제 오리지늄 아츠는 불안정한 요소들이 많아요. 이건 명백한 제 실력의 부족함이죠."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "...That's what you consider \"lacking\"?",
+         "zh-TW": "……原來你覺得這些屬於缺陷。",
+         "zh-CN": "……原来你觉得这些属于缺陷。",
+         "ja": "……それが課題だと思っているんだね。",
+         "ko": "...안탈은 그런 걸 부족함이라고 생각하는구나."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sure... If you say so...",
+         "zh-TW": "好吧。既然你這麼認為……",
+         "zh-CN": "好吧。既然你这么认为……",
+         "ja": "そうなんだ。君がそう思っているなら……",
+         "ko": "알겠어. 그렇게까지 말한다면..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "On second thought, maybe sitting this one out is the right call. Wouldn't want the other participants to get hurt...",
+      "zh-TW": "我覺得，你不參加這次比拼或許是正確的，否則其他參加的幹員可能會受傷吧……",
+      "zh-CN": "我觉得，你不参加这次比拼或许是正确的，否则其他参加的干员可能会受伤吧……",
+      "ja": "今回は出ないほうがいいと思う。そうしないと、他の人が怪我をするかもしれない。",
+      "ko": "확실히 이번 대회에 참가하지 않는 게 맞을지도 모르겠네. 자칫하면 다른 참가자들이 상처를 입을 수도 있으니까..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Get hurt? Endmin, that variable is statistically negligible.",
+      "zh-TW": "受傷？管理員，這個您倒是不需要擔心。",
+      "zh-CN": "受伤？管理员，这个您倒不需要担心。",
+      "ja": "怪我？管理人、それは心配無用である。",
+      "ko": "상처를 입어요? 아, 그건 걱정할 필요 없습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "While I've opted out, I conducted a full analysis of the showdown's rule framework.",
+      "zh-TW": "雖然我沒打算參加，但有認真研究過比拼的規則。",
+      "zh-CN": "虽然我没打算参加，但有认真研究过比拼的规则。",
+      "ja": "招待を断りはしたが、大会の規則についてはすべて把握済み故。",
+      "ko": "비록 참가할 계획은 없어도, 규칙은 꼼꼼히 읽어봤거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "The rules state: All participants must use customized Arts Units, rendering Originium Arts harmless during the event.",
+      "zh-TW": "規則上說：為了防止意外，所有參與者使用的施術單元都是特製的，期間施放的源石技藝是不具備任何威力的。",
+      "zh-CN": "规则上说：为了防止意外，所有参与者使用的施术单元都是特制的，期间施放的源石技艺是不具备任何威力的。",
+      "ja": "規則では、事故を防ぐために全ての参加者のアーツユニットは特製品であり、大会で使用するアーツには攻撃力が無いとあった。",
+      "ko": "혹시 모를 사고를 막기 위해, 모든 참가자가 사용하는 아츠 유닛은 특수 제작된 것으로, 대회 중 발동하는 오리지늄 아츠에는 어떠한 위력도 갖지 않는다고 합니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "The injuries I'm referring to aren't physical. They're psychological.",
+      "zh-TW": "我指的受傷，不是身體層面的，而是心靈層面的。",
+      "zh-CN": "我指的受伤，不是身体层面的，而是心灵层面的。",
+      "ja": "身体の「怪我」ではなくて、心の「怪我」のほうだ。",
+      "ko": "아니, 육체적인 상처가 아니라... 마음의 상처 말이야..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Psychological?",
+      "zh-TW": "啊？心靈層面……",
+      "zh-CN": "啊？心灵层面……",
+      "ja": "うむ、心……？",
+      "ko": "네? 마음의 상처라니..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Endmin, I will admit, the Djall Arts ... no, the entire Sarkaz witchcraft system has intrigued me. But I've never received formal training.",
+      "zh-TW": "管理員，我的確對笞心魔的源石技藝……或者說對整個薩卡茲巫術體系很好奇……可是我從沒正式學習過啊。",
+      "zh-CN": "管理员，我确实对笞心魔的源石技艺……或者说对整个萨卡兹巫术体系很好奇……可我从没正式学习过啊。",
+      "ja": "管理人。確かに小生はジャールのアーツ……否、サルカズの巫術そのものに興味があり……否、正式に学んだ事は無く……",
+      "ko": "물론 저는 디얄의 오리지늄 아츠... 더 나아가서 전체 살카즈 주술 체계에 큰 흥미가 있습니다만... 정식으로 배운 적은 없는데요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Never mind. Treat it as ... another failed deadpan joke. Anyway, I'll explain your non-participation to Lil' Dodge.",
+      "zh-TW": "沒什麼。你就當是個冷笑話吧……總之，關於你不參加比拼的事，我會再和小道奇教官解釋的。",
+      "zh-CN": "没什么。你就当是个冷笑话吧……总之，关于你不参加比拼的事，我会再和小道奇教官解释的。",
+      "ja": "なんでもない、今のはただの「寒いギャグ」だ……君が大会に出ないことは、ダッジ教官に伝えておくよ。",
+      "ko": "아니야. 그냥 썰렁한 농담이라고 생각해... 아무튼 네 결정은, 내가 다시 한번 도치 교관님한테 설명할게."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Greatly appreciated, Endmin!",
+      "zh-TW": "太好了！那就辛苦您了，管理員。",
+      "zh-CN": "太好了！那就辛苦您了，管理员。",
+      "ja": "感謝する！では、本件についてはお任せしよう。",
+      "ko": "감사합니다! 그럼 부탁드릴게요, 관리자님."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "However, the precise comedic focal point of this joke remains unclear. Further analysis is required.",
+      "zh-TW": "不過，這個冷笑話的笑點到底是……看來我需要花時間好好研究一下。",
+      "zh-CN": "不过，这个冷笑话的笑点究竟是……看来我需要花时间好好研究一下。",
+      "ja": "しかし、その「寒いギャグ」……笑い所は、一体……ふむ、暫し時間をかけ研究する必要が……",
+      "ko": "그런데, 방금 전에 하신 농담의 웃음 포인트는 뭘까요... 아무래도 시간을 들여 제대로 연구해 봐야겠네요."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0023_antal_3",
+   "topic": {
+    "en": "A Token of Her Heart",
+    "zh-TW": "奶奶的謝禮",
+    "zh-CN": "奶奶的谢礼",
+    "ja": "祖母の贈り物",
+    "ko": "할머니의 선물"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Endmin, my grandmother mailed care packages requesting distribution to you and Z7 teammates as \"gratitude for tolerating me\".",
+      "zh-TW": "管理員，奶奶寄了一些禮物給我，說希望我可以分給管理員和Z7的隊友，作為大家一直照顧我的謝禮。",
+      "zh-CN": "管理员，奶奶给我寄来了一些礼物，说希望我能带给管理员和Z7的队友，作为大家一直照顾我的谢礼。",
+      "ja": "管理人、小生の祖母から荷物が届いた。管理人とZ7の皆に渡してほしいと。日頃世話になっている礼とのことだ。",
+      "ko": "관리자님, 할머니께서 선물을 좀 보내주셨어요. 그동안 관리자님과 Z7 팀원들이 저를 잘 챙겨주신 것에 대한 감사의 표시라고 하시면서요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Yet my data on your preference metrics remains incomplete. Hence this inquiry.",
+      "zh-TW": "但我不是很清楚管理員的喜好，所以來問問。",
+      "zh-CN": "但我不是很清楚管理员的喜好，所以来问问。",
+      "ja": "管理人の好みが分からぬ故、聞きに来た。",
+      "ko": "그런데 제가 관리자님의 취향을 잘 몰라서 그러는데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Between the \"Hongshan Hermit Chronicles\" limited-edition Chubby Lung plushie and \"Simonch's Dream\" protagonist's replica stage costume, which do you prefer?",
+      "zh-TW": "《宏山俠隱記》的紀念龍泡泡玩偶和《塞夢珂之夢》主角的同款戲服，您更喜歡哪個？",
+      "zh-CN": "《宏山侠隐记》的纪念龙泡泡玩偶和《塞梦珂之梦》主角的同款戏服，您更喜欢哪个？",
+      "ja": "『宏山侠隠記』の記念龍泡泡人形と、『シモンクの夢』主人公の衣装、どちらが良いだろうか。",
+      "ko": "<홍산 협객전> 기념 드래곤 버블 인형이랑, <사이몬크의 꿈> 주인공이 입었던 똑같은 무대 의상 중에 어느 쪽이 더 마음에 드나요?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I'm leaning toward the Chubby Lung plushie... Feels more meaningful as a keepsake.",
+         "zh-TW": "比較想要龍泡泡玩偶……感覺更有紀念意義。",
+         "zh-CN": "比较想要龙泡泡玩偶……感觉更有纪念意义一些。",
+         "ja": "龍泡泡がいいかな……「記念」みたいだし。",
+         "ko": "드래곤 버블 인형이 더 갖고 싶어. 더 기념품다운 느낌이랄까...?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Antal",
+         "zh-TW": "安塔爾",
+         "zh-CN": "安塔尔",
+         "ja": "アンタル",
+         "ko": "안탈"
+        },
+        "text": {
+         "en": "Optimal selection, Endmin. This Chubby Lung plushie was a \"celebrity commodity\" in New Wrankwood.",
+         "zh-TW": "選得不錯啊，管理員。這款龍泡泡玩偶之前在新藍卡塢就很受歡迎，是所謂的「明星產品」。",
+         "zh-CN": "选得不错啊，管理员。这款龙泡泡玩偶之前在新蓝卡坞就很受欢迎，是所谓的“明星产品”。",
+         "ja": "良い選択だ。この人形はニューランクウッドでも大人気であった。所謂「爆売れ商品」と呼べる物であろう。",
+         "ko": "역시 안목이 있으시네요, 관리자님. 이 드래곤 버블 인형은 뉴 랭크우드에서도 큰 인기를 끌었던 '스타 상품'이거든요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Antal",
+         "zh-TW": "安塔爾",
+         "zh-CN": "安塔尔",
+         "ja": "アンタル",
+         "ko": "안탈"
+        },
+        "text": {
+         "en": "The Chubby Lung likeness required exclusive licensing from Wuling City authorities, resulting in a hard-capped production run. Market availability now approximates zero.",
+         "zh-TW": "據說，使用的龍泡泡形象是專門向武陵城申請過的，所以限制了製作數量，現在買不到了。",
+         "zh-CN": "据说，使用的龙泡泡形象是专门向武陵城申请过的，所以限制了制作数量，现在买不到了。",
+         "ja": "聞くところによると、このデザインは武陵城に正式に申請して使用許諾を得て作られたとのこと。数量限定販売であった故、今はもう手に入らぬ。",
+         "ko": "게다가 이 드래곤 버블의 이미지는 무릉성에서 특별 허가를 받아서 만든 거라, 제작 수량이 제한적이어서 지금은 구할 수도 없다고 해요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "The stage costume, maybe? Could display it in the office... Theater-core vibes.",
+         "zh-TW": "更喜歡主角的戲服吧……可以擺起來展示。",
+         "zh-CN": "更喜欢主角的戏服吧……可以摆起来展示。",
+         "ja": "主人公の衣装にしようかな……飾っておけるし。",
+         "ko": "주인공의 무대 의상이 더 마음에 들어. 전시해 두면 멋있을 것 같아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Antal",
+         "zh-TW": "安塔爾",
+         "zh-CN": "安塔尔",
+         "ja": "アンタル",
+         "ko": "안탈"
+        },
+        "text": {
+         "en": "Excellent choice, Endmin. This replica precisely replicates the protagonist's final battle attire, down to the authentic Originium dust stains.",
+         "zh-TW": "真有眼光啊，管理員。這套戲服是主角在最後一戰時穿的那套，連沾到的源石塵都有還原。",
+         "zh-CN": "真有眼光啊，管理员。这套戏服是主角在最后一战时穿的那身，连沾上的源石尘都有还原。",
+         "ja": "流石の目利き。この衣装は主人公が最終決戦の際に着用していた物だ。さらに、付着した源石粉塵まで再現されている。",
+         "ko": "정말 안목이 있으시네요, 관리자님. 이 무대 의상은 주인공이 마지막 전투에서 입었던 건데, 묻어 있던 오리지늄 분진까지 그대로 재현했답니다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Antal",
+         "zh-TW": "安塔爾",
+         "zh-CN": "安塔尔",
+         "ja": "アンタル",
+         "ko": "안탈"
+        },
+        "text": {
+         "en": "Rumour has it the director invited historical experts from the UWST as consultants, just to perfect the Ursus military uniform texture in this costume.",
+         "zh-TW": "據說，導演為了盡力還原烏薩斯軍服的質感，做這套衣服時還專門邀請了工團的歷史專家作為顧問。",
+         "zh-CN": "据说，导演为了尽力还原乌萨斯军服的质感，做这套衣服时还专门邀请了工团的历史专家作为顾问。",
+         "ja": "聞くところによると、この衣装を作る際にはウルサス軍服の質感を再現するため、工業団の歴史専門家を特別に顧問として招いたという。",
+         "ko": "들은 얘기로는, 작품 감독이 우르수스 군복의 질감을 제대로 살리려고 특별히 공단의 역사 전문가까지 불러서 제작 자문을 받았다고 해요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Is that so... Antal, are you a cinephile? Most viewers wouldn't dig this deep.",
+      "zh-TW": "原來還有這樣的事……你很喜歡電影嗎？普通觀眾很少會瞭解這麼多吧？",
+      "zh-CN": "原来还有这样的事……你很喜欢电影吗？一般的观众很少会了解这么多吧？",
+      "ja": "そんな裏話まで知っているなんて、映画が好きなのかな。普通の観客は、そこまで詳しく知らないと思って。",
+      "ko": "그렇구나... 혹시 영화에 관심이 많아? 일반 관객은 잘 모르는 정보 같은데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "No, Endmin. Cinematic appreciation falls outside my standard interest parameters. However, during academic years, grandmother expressed concern regarding my peer-interaction metrics.",
+      "zh-TW": "不，管理員，其實我對電影興趣平平。只是以前在校的時候，奶奶很擔心我不能和同學好好相處。",
+      "zh-CN": "不，管理员，其实我对电影兴趣平平。只是以前在校的时候，奶奶很担心我不能和同学好好相处。",
+      "ja": "否。実のところ、小生は映画にさほど興味は無い。ただ……在学中は祖母が小生の交友関係を気にしていたのだ。",
+      "ko": "그렇진 않아요. 사실 저는 영화에 그다지 관심이 없어요. 다만 예전에 학원을 다닐 때부터, 할머니께서 제가 친구들과 잘 어울리지 못할까 봐 걱정을 많이 하셨어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "With zero overlapping interests with peers, I identified New Wrankwood cinema as the optimal conversation vector. Thus, mandatory research was done.",
+      "zh-TW": "因為我和同齡人幾乎沒什麼話題。而在新藍卡塢，大家最愛聊的就是電影藝術的事，所以我專門做了很多功課。",
+      "zh-CN": "因为我和同龄人几乎没什么话题。而在新蓝卡坞，大家最爱聊的就是电影艺术的事，所以我专门做了很多功课。",
+      "ja": "同年代で話の合う存在は殆ど居なかった。ニューランクウッドでは、皆映画の話に興じていた故、小生も勉強したまで。",
+      "ko": "제가 또래 친구들이랑 거의 공통 화제가 없었거든요... 그래서 뉴 랭크우드에서는 다들 영화나 예술을 좋아하니까, 저 역시 사람들과 어울리려고 많은 공부를 했었죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "However, gift reception rates did not correlate with verbal engagement increases. Even if they accepted my gifts, my classmates still wouldn't talk to me.",
+      "zh-TW": "不過，我那些同學就算收下了我送的禮物，也不會和我多說一句話。",
+      "zh-CN": "不过，我那些同学就算收下了我送的礼物，也不会和我多说一句话。",
+      "ja": "とはいえ、これを受け取ったところで誰も小生に話しかけて来る事も無かった。",
+      "ko": "하지만 그런 노력에도 불구하고, 그 친구들은 제 선물을 받고도, 저와 한마디도 더 얘기하려 하지 않았어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Today was the first time I actually used any of those \"studied references\".",
+      "zh-TW": "今天其實是我第一次用上這些「典故」。",
+      "zh-CN": "今天其实是我第一次用上这些“典故”。",
+      "ja": "故に今日、初めて勉強した「蘊蓄」を披露できた。",
+      "ko": "...사실 제가 이렇게 자발적으로 그 지식을 제대로 활용한 건 오늘이 처음이에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Don't overthink it. You'll find your crowd eventually.",
+      "zh-TW": "別太在意，你總會遇到更值得結交的朋友。",
+      "zh-CN": "别太在意，你总会遇到更值得结交的朋友的。",
+      "ja": "そんなの、気にしなくていい。君はもっといい友だちに出会えるんだから。",
+      "ko": "너무 마음에 담아두지 마. 더 좋은 친구들을 만날 수 있을 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "That is true, Endmin. While I never felt it was a problem at the time, I acknowledged a probable communication efficiency deficit on my part.",
+      "zh-TW": "嗯，管理員，您說得沒錯。儘管我那時並沒有覺得有什麼不對，只是覺得自己的溝通能力也許真的有所欠缺。",
+      "zh-CN": "嗯，管理员，您说得没错。尽管我那时并没觉得有什么不对，只是觉得自己的沟通能力可能确实有所欠缺。",
+      "ja": "ふむ、管理人……確かに、その通りである。当時は特段気にしていなかったが……小生の会話力には不足があるのだろう。",
+      "ko": "네, 말씀하신 대로예요. 그땐 뭐가 잘못된 줄도 모르고, 그냥 제 의사소통 능력이 부족하다고 생각했었죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Yet after encountering you and Z7... I began to tentatively accept the existence of unconditional social bonds.",
+      "zh-TW": "不過在遇到您和Z7的大家後，我逐漸開始相信「無需拿東西去換的友誼」是真實存在的……",
+      "zh-CN": "不过在遇到您和Z7的大家后，我逐渐开始相信“无需拿东西去换的友谊”是真实存在的……",
+      "ja": "管理人やZ7の皆と出会ってからは「何かを贈らずとも得られる友情」が存在すると、信じられるようになってきたのだ。",
+      "ko": "하지만 관리자님과 Z7의 팀원들을 만난 후로, '물건으로 바꾸지 않아도 되는 우정'이 실제로 존재한다는 걸 점점 믿게 됐어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Grandmother sent over this delivery only after reading my letter, which contained excessive Endmin-related annotations.",
+      "zh-TW": "奶奶也是看了我寫的信，裡面寫了很多您的事，所以才想要寄謝禮過來的。",
+      "zh-CN": "奶奶也是看了我写的信，里面写了很多您的事，所以想要寄谢礼过来的。",
+      "ja": "祖母は、小生の書いた手紙に「管理人」の名が多く出る故に、「贈り物を」と思ったそうだ。",
+      "ko": "할머니께서도 제 편지를 보시고, 관리자님 이야기가 많이 적혀 있어서 이렇게 감사의 표시로 선물을 보내주신 거고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Please thank your grandmother for me. That said, I'd like to reciprocate. Any specific requests from you?",
+      "zh-TW": "替我謝謝你的奶奶。我也想送一份回禮給你，有什麼想要的東西嗎？",
+      "zh-CN": "替我谢谢你的奶奶。我也想送一份回礼给你，有什么想要的东西吗？",
+      "ja": "感謝を伝えておいてほしい。それから、お返しに何か贈りたいと思うけど……何かいいものがあるかな。",
+      "ko": "나야말로 할머니께 감사하다고 전해줘. 그리고 나도 너한테 선물을 주고 싶은데, 혹시 뭐 갖고 싶은 거 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Yes!",
+      "zh-TW": "有！",
+      "zh-CN": "有的！",
+      "ja": "うむ！",
+      "ko": "네, 있습니다!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Endmin, may I formally invite you to attend my next deadpan humor showcase?",
+      "zh-TW": "管理員，之後我能邀請您來聽我最新的冷笑話集錦表演嗎？",
+      "zh-CN": "管理员，之后我能邀请您来听我最新的冷笑话集锦表演吗？",
+      "ja": "管理人、小生の最新版「寒いギャグ」公演に来てくれぬだろうか。",
+      "ko": "혹시 나중에 제 최신 농담 모음 공연을 할 때 관리자님을 초대해도 될까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Could you also record it for me. I promised grandmother I'd send her a copy.",
+      "zh-TW": "順便幫我錄個影就好，我答應奶奶要寄一份給她的。",
+      "zh-CN": "顺便帮我录个像就好，我答应奶奶要给她寄一份的。",
+      "ja": "そこで、映像も撮って頂きたい。祖母に送ると約束しているのだ。",
+      "ko": "그리고 그걸 영상으로 기록해 주셨으면 좋겠어요. 할머니께 보내 드리기로 약속했거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Sure. Leave that to me.",
+      "zh-TW": "好，交給我吧。",
+      "zh-CN": "好，交给我吧。",
+      "ja": "うん。任せて。",
+      "ko": "그럼, 나한테 맡겨줘."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I will make sure ANTAL's performance gets ANT-IRELY captured.",
+      "zh-TW": "到時候安塔爾的表演，我一定會一個不漏地全錄起來的，畢竟「安全第一」。",
+      "zh-CN": "到时候安塔尔的表演，我一定会一个不漏地全录上的，毕竟“安全第一”。",
+      "ja": "何があるかわからないから、公演中のすべてを撮影しておくよ。「アン全第一」の「アン全」策でね。",
+      "ko": "'안'탈의 공연이니까, 한순간도 놓치지 않고 '전'부 기록해 줄게. '안전 제일'이니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Antal",
+      "zh-TW": "安塔爾",
+      "zh-CN": "安塔尔",
+      "ja": "アンタル",
+      "ko": "안탈"
+     },
+     "text": {
+      "en": "Endmin ... are you the undisputed genius of deadpan humor? This joke's structural efficiency is flawless! Immediate inclusion in my compilation mandatory!",
+      "zh-TW": "管理員，難道您就是講冷笑話的天才？這個笑話太棒了！我要把它也加進我的集錦裡！",
+      "zh-CN": "管理员，莫非您就是讲冷笑话的天才？这个笑话太棒了！我要把它也加进我的集锦里！",
+      "ja": "管理人……お主、やはり「寒いギャグ」の天才であるな！絶妙な笑い、完璧としか言えぬ！これは、最新公演にも加えさせて頂きたい！",
+      "ko": "관리자님은 정말 농담의 천재이신 것 같아요. 방금 하신 농담은 정말 제가 최근에 들은 것 중의 최고예요! 나중에 제 모음집에도 꼭 추가해야겠어요!"
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 1
+}

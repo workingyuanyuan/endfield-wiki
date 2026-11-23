@@ -45,6 +45,8 @@ sources:
 
 Catello Wulfgard Luppino is a Landbreaker mercenary of the Pack, living on the fringes of the Civilization Band, who serves on Endfield Industries' Crisis Team and excels at stealth and recon.
 
+Files, voice lines and chats: [Wulfgard's file](/story/wulfgard/).
+
 ## How to obtain
 
 Every account has Wulfgard from the start of the game. The four starting operators are Endministrator, Perlica, Chen Qianyu and Wulfgard.

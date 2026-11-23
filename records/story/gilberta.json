@@ -1,0 +1,2953 @@
+{
+ "slug": "gilberta",
+ "gameId": "chr_0013_aglina",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Gilberta \nGENDER: Female \nAUTHENTICATION: Rhodes Island \nDOB: November 28 \nRACE: Vulpo \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Standard \nCOMBAT SKILL: Normal \nTACTICAL ACUMEN: Normal \nORIGINIUM ARTS ASSIMILATION: Excellent",
+    "zh-TW": "【代號】潔爾佩塔\n【性別】女\n【身分認證】羅德島\n【生日】11月28日\n【種族】沃爾珀\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：標準\n作戰技巧：普通\n戰術規劃：普通\n源石技藝適應性：優良",
+    "zh-CN": "【代号】洁尔佩塔\n【性别】女\n【身份认证】罗德岛\n【生日】11月28日\n【种族】沃尔珀\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：标准\n作战技巧：普通\n战术规划：普通\n源石技艺适应性：优良",
+    "ja": "【コードネーム】ギルベルタ\n【性別】女\n【身分証明】ロドス・アイランド\n【誕生日】11月28日\n【種族】ヴァルポ\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：標準\n戦闘技術：普通\n戦術立案：普通\nアーツ適性：優秀",
+    "ko": "[코드네임] 질베르타\n[성별] 여\n[신분 인증] 로도스 아일랜드\n[생일] 11월 28일\n[종족] 불포\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 보통\n전술 계획: 보통\n오리지늄 아츠 적응성: 우수"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Recommended by Rhodes Island, Gilberta now serves under the Endfield Industries Specialist Tech Division. \n\nBefore reporting in at Endfield, Operator Gilberta had spent two years roaming Talos-II. As a Messenger, she offered kind-hearted help to many across the land. In her words, \"That journey shaped who I am today.\" Then again, don't all our journeys shape the people we become? \nOperator Gilberta truly believes in \"sharing is caring,\" and that's something I really appreciate about her. Almost everyone on the Dijiang has received a little gift from her. As for mine ... it was an electronic music record — perfect for playing while writing up HR summaries. \nI've never seen anyone dressed almost entirely in red while radiating every shade of color. She's an endless pool of possibilities — yet only a single choice came out from her... Pardon me, this unit was not intended to compose poetry. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "潔爾佩塔，經羅德島引薦，加入終末地工業，隸屬於特種技術部門。\n\n在來終末地報到前，潔爾佩塔幹員已經在塔衛二遊歷了兩年，作為一名信使，為塔衛二上的許多人提供了幫助。按照她的話來說：「是那段旅程造就了現在的我。」噢！誰又不是呢？\n我很欣賞潔爾佩塔幹員的分享欲，帝江號上幾乎每個人都得到過她帶來的禮物。至於我的那份……我得到了一張電子樂唱片，很適合在填寫人事簡述時播放。\n我從未見過一個身上大部分衣物都是紅色的人，能綻放出如此多的色彩。她的身上好像有無限的可能，卻又好像只有一種——不好意思，一個機器人是不應該寫詩的。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "洁尔佩塔，经罗德岛引荐，加入终末地工业，隶属于特种技术部门。\n\n在来终末地报到前，洁尔佩塔干员已经在塔卫二游历了两年，作为一名信使，为塔卫二上的许多人提供了帮助。按她的话来说：“是那段旅程造就了现在的我。”哦！谁又不是呢？\n我很欣赏洁尔佩塔干员的分享意愿，帝江号上几乎每个人都得到过她捎带的礼物。至于我的那份……我得到了一张电子乐唱片，很适合在填写人事简述时播放。\n我从未见过一个身上大部分衣物都是红色的人，能绽放出如此多的色彩。她的身上好像有无限的可能，却又好像只有一种——不好意思，一个机器人是不应该写诗的。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "ギルベルタはロドスの推薦によって、エンドフィールドに加入した。現在は特殊技術部に所属している。\n\n「エンドフィールドに加わる以前、ギルベルタさんはすでにトランスポーターとして2年間タロⅡを旅し、各地で人々に支援を行っていました。本人曰く――『あの旅があったから、今のあたしがいるんだよ』――誰しも似たようなことを言うものでしょうが。」\n「私はいつも『シェアしたい』という彼女の欲求には感心させられます。帝江号にいる者なら、誰もが彼女から何かしらの贈り物を受け取った経験があるでしょう。ちなみに私の場合は……電子音楽のレコードをいただきました。人事評価を書きながら流すにはちょうど良い音楽です。」\n「身に着けている服がほぼ赤一色であるにもかかわらず、これほど多彩な印象を放つ人物は今までに見たことがありません。彼女からは無限の可能性が感じられる一方で、それが1つに集約されているような気も――おっと、失礼。たかがロボットの分際で詩の真似事など、差し出がましい行為でしたね。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "질베르타는 로도스 아일랜드의 추천으로 엔드필드 공업에 합류했으며, 특수 기술부 소속이다.\n\n엔드필드에 합류하기 전부터 질베르타 오퍼레이터는 탈로스 II를 2년간 여행하며, 전달자로서 많은 사람들에게 도움을 주었다. 그녀의 말을 빌리자면 '그때의 여행이 지금의 자신을 만들었다'고 한다. 아, 누군들 안 그러겠는가.\n나는 오퍼레이터 질베르타의 베푸는 마음을 높이 평가한다. 제강호의 거의 모든 사람이 다 그녀에게서 선물을 받은 적이 있을 정도다. 내가 받은 선물은... 일렉트로닉 음악 음반이었다. 인사 요약서를 작성할 때 듣기에 딱 좋은 음악이다.\n나는 입고 있는 옷 대부분이 붉은색인 사람이 이토록 다채로운 색을 발산하는 것을 본 적이 없다. 그녀에게는 무한한 가능성이 있는 듯하면서도, 동시에 단 하나뿐인 듯했다. 앗, 로봇 주제에 시를 써버리고 말았군.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Raindrops beaded along the edge of Gilberta's umbrella, each droplet swelling with borrowed weight before surrendering to gravity. Before one could shatter against the ground, she caught it midair with a flick of the Arts and let it balance on her fingertip. \nThis was her first journey beyond Rhodes Island. The skies were always a weeping steel. She walked unhurried, pausing whenever she felt like it. \nHer gaze drifted between the distant horizon and the letter in hand - Warfarin's assignment, her first duty as a Talos-II Messenger.\nShe'd lingered too long on the road watching burdenbeasts amble, flying wing-to-wing with fowlbeasts, even letting raindrops on her umbrella's edge steal her attention. \nWarfarin never set her a delivery deadline. Just an encouragement: \"Go see the world.\" \nGilberta understood Warfarin's message: she needed to deepen her bond with this planet before answering her calling. It was something she genuinely wanted to do as well. \nBut where to next? Her eyes wandered. A strange glow shimmered at the foot of a mountain. Wild creatures circled near a tower on the open plain. A breeze stirred the curtain at a distant mail depot. Every sight pulled her forward. \n\"Take it slow, I've got plenty of time,\" Gilberta thought to herself as she looked at the letter sealed with the crest of an industrial company. \n\"Just a little longer. I'll be there.\" \nShe then flicked the raindrop into the stream before her. As the skies cleared, the Messenger closed her umbrella and resumed with her journey.",
+    "zh-TW": "潔爾佩塔盯著傘邊的雨珠，看著它們匯作一團，然後重重地摔向地面。在水珠破碎之前，潔爾佩塔用法術把它停在半空，落在了自己指尖。\n這是潔爾佩塔第一次離開羅德島，外面的天總是下雨，潔爾佩塔走走停停，但她並不著急。\n她看著遙遠的天邊，又看了看手中的信件——這是華法琳交給自己的，作為塔衛二信使的第一份工作。\n不過一路上似乎耽擱了太久，看著悠哉的馱獸發呆，和小巧的羽獸並排飛翔，連傘沿的雨水都能夠吸引走潔爾佩塔的目光。\n華法琳並沒有要求一個具體的時間，她只是告訴潔爾佩塔：「出去看看吧。」\n潔爾佩塔理解華法琳的意圖，她總是希望幹員們更加熟悉塔衛二，將自己和這顆星球連接在一起，再去面對即將到來的使命。而潔爾佩塔也樂於這麼做。\n接下來要去哪裡呢？潔爾佩塔四處眺望著，遠處的山腳下似乎閃爍著點點奇異的光，原野上的塔樓旁出現了成群的野獸，雨後的風吹起了驛站門口的簾子。潔爾佩塔每個地方都想去。\n不要著急，時間還算充裕。潔爾佩塔看了看手中，那封印有一家工業企業圖章的信件。\n「稍微再等我一下喔。」\n潔爾佩塔催動指尖的雨珠，讓其融進了眼前的小溪。雨停了，信使收起了傘，繼續上路。",
+    "zh-CN": "洁尔佩塔盯着伞边的雨珠，看着它们汇作一团，然后重重地摔向地面。在水珠破碎之前，洁尔佩塔用法术把它停在半空，落在了自己指尖。\n这是洁尔佩塔第一次离开罗德岛，外面的天总是下雨，洁尔佩塔走走停停，但她并不着急。\n她看着遥远的天边，又看了看手中的信件——这是华法琳交给自己的，作为塔卫二信使的第一份工作。\n不过一路上似乎耽搁了太久，看着优哉游哉的驮兽发呆，和小巧的羽兽并排飞翔，连伞沿的雨水都能够吸引走洁尔佩塔的目光。\n华法琳并没有要求一个具体的时间，她只是告诉洁尔佩塔：“出去看看吧。”\n洁尔佩塔理解华法琳的意图，她总是希望干员们更加熟悉塔卫二，将自己和这颗星球连接在一起，再去面对即将到来的使命。而洁尔佩塔也乐得于此。\n接下来要去哪里呢？洁尔佩塔四处眺望着，远处的山脚下似乎闪烁着点点奇异的光，原野上的塔楼旁出现了成群的野兽，雨后的风吹起了驿站门口的帘子。洁尔佩塔每个地方都想去。\n不要着急，时间还算充裕。洁尔佩塔看了看手中，那封印有一家工业企业图章的信件。\n“稍微再等我一会儿哦。”\n洁尔佩塔催动指尖的雨珠，让其融进了眼前的小溪。雨停了，信使收起了伞，继续上路。",
+    "ja": "ギルベルタは、傘の先に垂れた雨の雫を見つめていた。少しずつ膨らみ、重さに耐えられなくなった雫は、やがて地面へと落ちていく。散る瞬間、彼女はアーツでそれを宙に止め、自分の指先で受け止めた。\nロドスを離れるのはこれが初めてだ。空は、いつも雨。ギルベルタは一歩進んでは止まり、止まってはまた歩き出す。急ぐ必要はない。\n遠く広がる空を見上げ、視線を手元の手紙へと落とした。それはワルファリンから渡された――タロⅡのトランスポーターとしての初仕事だった。\nけれど、少し寄り道しすぎたかもしれない。のんびり歩く駄獣を眺め、小さな羽獣と空を飛び、傘を伝う雨水を目で追う。\nワルファリンは具体的な期間に触れなかった。ただ一言、「外を見てくるといい」と。\nその理由を、ギルベルタは理解している。仲間たちにタロⅡを知ってほしい、この星と繋がりを深め、いずれ来る使命に備えてほしい――ワルファリンはそう願っているのだ。ギルベルタは納得したうえで、楽しんでもいた。\n次はどこに行こうかな？遠くの山のふもとに、ピカピカと不思議な光が見える。野原にそびえ立つ塔の周りには獣が集まって、雨上がりの風は宿場の暖簾を揺らしていた。ギルベルタは、いろんな場所に行ってみたいと思っていた。\n急ぐ必要はない。まだ時間はある。手の中には、ある工業企業のロゴが入った手紙。\n「もうちょっと待っててもらえるかな？」\n指先の雫を、再びアーツで操り、目の前で落ち続ける水滴にそっと重ねた――雨が止んだ。トランスポーターは傘を畳み、再び歩き始める。",
+    "ko": "질베르타는 우산 끝에 맺힌 빗방울을 바라보았다. 작은 빗방울이 모여 떨어지고 부서지기 전, 그녀는 아츠로 빗방울을 공중에 멈춰 세웠고, 자신의 손끝에 올려놓았다.\n질베르타가 로도스 아일랜드를 떠난 후의 첫 여정이었다. 로도스 밖의 세상은 늘 비가 내렸고, 그녀는 걷다가 멈추기를 반복했지만 서두르지 않았다.\n그녀는 먼 하늘을 바라보다가, 다시 손에 쥔 편지를 내려다보았다. 와파린이 그녀에게 준 임무이자, 탈로스 II의 전달자로서 맡는 첫 번째 임무였다.\n하지만 그녀는 길 위에서 자주 발걸음을 늦췄다. 한가로이 돌아다니는 버든비스트들을 멍하니 바라보거나, 작고 날렵한 파울비스트와 같이 날아다니기도 하고, 심지어는 우산 끝에 맺힌 빗방울에도 시선을 빼앗기곤 했다.\n와파린은 구체적인 기한을 정해주지 않았다. 그저 그녀에게 \"밖으로 나가서 둘러보고 와.\"이라고 말했을 뿐.\n질베르타는 와파린의 의도를 잘 알고 있었다. 와파린은 늘 오퍼레이터들이 탈로스 II와 더 친숙해지고, 이 행성과 스스로 하나가 된 뒤에야 앞으로 다가올 사명을 마주하길 바랐다. 질베르타 역시 그 의도를 기꺼이 받아들였다.\n자, 다음은 어디로 가볼까? 질베르타는 주변을 둘러보았다. 저 멀리 산기슭에 신비로운 빛이 반짝였고, 들판 위의 탑 옆에는 야수 무리가 서성이며, 비가 갠 뒤 불어오는 바람에 휴게소 입구의 커튼이 흔들리는 모습이 눈에 들어왔다. 질베르타는 그 모든 곳에 다 가보고 싶었다.\n서두를 필요는 없다. 아직은 시간이 충분하니까. 그녀는 손에 든, 어느 한 공업 기업의 봉인이 찍힌 편지를 바라보았다.\n\"조금만 더 기다려 줘.\"\n그녀는 손끝에 있는 빗방울을 흘려보내, 앞에 있는 시냇물에 떨어뜨렸다. 비가 그쳤다. 전달자는 우산을 접고 다시 길을 나선다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "With a flutter of crimson, she touched down bearing saccharine candies, animal-shaped origami, and a kaleidoscope of colored pencils. \nThe kids swarmed around the mysterious Miss Messenger, who came by every now and then with treats, gifts, and tales they'd never heard before. \nTogether, they drew her stories' vibrant fowlbeasts, then folded sugary foil into tiny mirrors of themselves. \nAs the evening bell rang, she said goodbye to each kid, watching them run home. \nOne girl tugged softly at Miss Messenger's skirt. She had nowhere to go. \nWith a gentle touch to her head, the Messenger sent the girl floating upward as a startled yelp escaped her lips. \nTogether, they watched the moon climb the night sky as stars arranged themselves into fleeting constellations. \n\"Miss ... aren't you going home?\" \nThe girl whispered, lowering her head, knowing the Messenger would soon leave her. \n\"My home... lies beyond the far horizons. Or should I say, it hides beyond the sky and behind the stars themselves.\" \n\"Behind the stars?\" \n\"Would you like to visit?\" \nThe girl nodded, then shook her head. She ached to go, yet feared troubling her beloved Miss Messenger. \n\"Don't worry. I've told my colleagues about a brilliant little girl. They all want to meet you too.\" \n\"R-really?\" \n\"Uh-huh. I would never lie to you. Oh, wait, it's time.\" \n\"It's ... time?\" \n\"Close your eyes and don't peek. In three ... two ... one ... Voila!\" \nIn Miss Messenger's hands appeared two cupcakes. \n\"Woah...\" \n\"Hehe, today's your birthday, right? Of course I remembered! This one's just for you.\" \nThe girl stared wide-eyed at the Messenger as she dipped her cream-coated finger into her mouth, beaming with a sweet smile. \n\"I- I want to visit your home...\" \nTo her, this cupcake was a treasure beyond price, held carefully as fragile glass.\nNow aboard the Dijiang, she studies tirelessly to become an official technician at the EF-ED. \nWhenever challenges arise, she takes a cupcake to the Bridge and gazes toward Talos-II. She finds herself drawing courage from that familiar crimson figure, always trailing a scent of sugar and resolve.",
+    "zh-TW": "紅色的身影翩然落下，她帶來了甜滋滋的糖果、折成動物形狀的彩色紙，還有許多顏色的彩色筆。\n孩子們圍到了神秘的信使小姐身邊。她會不時來這裡一次，帶來點心、禮物，還有新的故事。\n她帶著孩子們，用各色的筆畫出了她講過的五顏六色的羽獸，教他們用糖紙拼出自己的樣子。\n傍晚的鐘聲響起，信使小姐和孩子們一一告別，目送著他們一個個跑回家裡。\n一個女孩拉了拉信使小姐的裙子，她沒有能夠回去的地方。\n信使摸了摸她的腦袋，女孩感覺自己的雙腳漸漸離開了地面，她驚異地叫出了聲。\n她們一起看著月亮掛上夜空，星星拼成了不同的形狀。\n「姐姐……不回家去嗎？」\n女孩輕聲問道，她垂下頭，她知道信使小姐很快就會離開自己。\n「我的家啊……在很遠很遠的地方。又或者說，它躲在天的另一邊，藏在星星的後面。」\n「星星的後面？」\n「你想要去看看嗎？」\n女孩點點頭，又搖了搖頭，她很想去，卻又怕給自己最喜歡的信使小姐造成麻煩。\n「不用想那麼多的，我和同事們說起過，有個很聰明很有潛力的小女孩。他們也都想見見你。」\n「真的……可以嗎？」\n「我不會騙你的，啊，等等，時間到了。」\n「時間……？」\n「來閉上眼睛，別偷看喔，等我數一……二……三！好了！」\n信使小姐的手中，出現了兩個紙杯蛋糕。\n「啊……」\n「嘿嘿，今天是你的生日對吧，我可沒有忘記喔。來，這份是你的。」\n女孩愣愣地看著眼前的信使——她沾了一些奶油，放進嘴裡，露出了甜美的笑容。\n「我……我想去姐姐的家看看……」\n女孩捧起了手裡的蛋糕，這是對她而言最為珍貴的一份禮物。\n現在，女孩已經在帝江號上，為了成為一名工程中心的正式技術員而努力學習。\n每當遇到困難時，她都會拿起一份紙杯蛋糕，在艦橋邊遠遠地眺望塔衛二。每當那抹帶著甜甜香味的紅色身影走過她身旁時，都會帶給她勇氣。",
+    "zh-CN": "红色的身影翩然落下，她带来了甜丝丝的糖果、叠成动物形状的彩纸，还有许多颜色的彩笔。\n孩子们围到了神秘的信使小姐身边。她时不时就会来这里一次，带来点心、礼物，还有新的故事。\n她带着孩子们，用各色的笔画出了她讲过的五颜六色的羽兽，教他们用糖纸拼出自己的样子。\n傍晚的钟声响起，信使小姐和孩子们一一作别，目送着他们一个个跑回家里。\n一个女孩拉了拉信使小姐的裙子，她没有能够回去的地方。\n信使摸了摸她的脑袋，女孩感觉自己的双脚渐渐离开了地面，她惊异地叫出了声。\n她们一起看着月亮挂上夜空，星星拼成了不同的形状。\n“姐姐……不回家去吗？”\n女孩轻声问道，她垂下脑袋，她知道信使小姐很快就会离开自己。\n“我的家啊……在很远很远的地方。又或者说，它躲在天的另一边，藏在星星的后面。”\n“星星的后面？”\n“你想要去看看吗？”\n女孩点了点头，又摇了摇头，她很想去，却又怕给自己最喜欢的信使小姐添麻烦。\n“不用想那么多的，我和同事们说起过，有个很聪明很有潜力的小女孩。他们也都想见见你。”\n“真的……可以吗？”\n“我不会骗你的，啊，等等，时间到了。”\n“时间……？”\n“来闭上眼睛，别偷看哦，等我数一……二……三！好了！”\n信使小姐的手中，出现了两个纸杯蛋糕。\n“啊……”\n“嘿嘿，今天是你的生日对吧，我可没有忘记哦。来，这份是你的。”\n女孩怔怔地看着眼前的信使——她蘸起了一些奶油，放进了嘴里，露出了甜美的笑容。\n“我……我想去姐姐的家看看……”\n女孩捧起了手里的蛋糕，这是对她而言最为珍贵的一份礼物。\n现在，女孩已经在帝江号上，为了成为一名工程中心的正式技术员而努力学习。\n每当遇到困难时，她都会拿起一份纸杯蛋糕，在舰桥边远远地眺望塔卫二。每当那抹带着甜甜香味的红色身影走过她身旁时，都会带给她勇气。",
+    "ja": "赤い影が、空から軽やかに降りてきた。手には甘いキャンディ、動物の形に折られた色とりどりの紙、そしてカラフルなペン。\n子どもたちは「トランスポーターさん」の元へ次々と駆け寄ってくる。彼女はスイーツやプレゼント、そして新しい物語を携えて、ここを訪れる。\nこの日も子どもたちと一緒に、カラフルなペンで物語の中に出てくる色とりどりの羽獣を描き、甘いキャンディの包み紙を使って、自分の人形を作る遊びを教えてあげた。\n夕方、鐘の音が響く頃になると、子どもたちはそれぞれの家へと帰っていく。「トランスポーターさん」は一人ひとりを見送る。\nスカートの裾がわずかに引っ張られるのを感じて目を向けると、そこには帰る家のない女の子が1人。\n頭をそっと撫でられると同時に、女の子は自分の足がゆっくり地面から離れていることに気づいて、驚きの声をあげた。\n2人は月が空へと昇り、星々がいろいろな形を描いていくのを眺めていた。\n「お姉ちゃんは……家に戻らないの？」\n女の子は視線を落としながら、小さな声で聞いた。もうすぐ、トランスポーターさんは自分の前からいなくなってしまう。そう分かっていたのだ。\n「あたしの家はね……遠くにあるんだ。空のずっと向こう、星空の奥に隠れてるんだよ。」\n「星空の奥？」\n「行ってみたい？」\n女の子は頷いたが、すぐに首を振った。行ってみたい。でも、大好きなトランスポーターさんに迷惑はかけたくなかったのだ。\n「そんなふうに考えなくてもいいんだよ。あたし、みんなにも言ってあるんだ。頭がよくて、将来が楽しみな女の子がいるって！だから、みんな会うのを楽しみにしてるんだよ。」\n「……本当？」\n「あたしが嘘つくと思う？あ、大変！もうこんな時間！」\n「時間……？」\n「ほら、目を閉じて。まだ開いちゃだめだからね。いーち……にー……せーのっ！ポン！」\nトランスポーターさんの手には、2つのカップケーキがあった。\n「……わあ！」\n「えへへ、今日は誕生日だったよね？ちゃんと覚えてたよ。はい！」\nぼんやりと、その姿を見つめる――トランスポーターさんは指にクリームを取るとペロリと舐めて、甘い笑顔を浮かべた。\n「私……お姉さんの家に行ってみたい……」\n女の子は、両手でケーキを大事そうに持っている。それは何よりも大切なプレゼントだった。\n――そして今。女の子は帝江号で、エンジニア部の正式技術員になるために勉強を続けている。\n困難にぶつかるたび、彼女はカップケーキを手に、ブリッジからタロⅡを眺める。甘い香りをまとった赤い影が通り過ぎるたびに、胸の奥にあの時と同じ勇気が満ちていくから。",
+    "ko": "붉은색 실루엣이 살포시 내려왔다. 그녀는 달콤한 사탕과 동물 모양으로 접은 색종이, 형형색색의 색연필을 가져왔다.\n아이들이 신비한 전달자 아가씨의 곁으로 몰려들었다. 그녀는 가끔씩 이곳을 찾아와 과자와 선물, 그리고 새로운 이야기를 들려주곤 했다.\n그녀는 아이들과 함께 자신이 들려주었던 다양한 색의 파울비스트를 색연필로 그리기도 하고, 사탕 껍질로 자기 모습을 접는 방법을 가르쳐 주기도 했다.\n저녁 종소리가 울리자, 전달자 아가씨는 아이들과 하나씩 작별 인사를 나누고, 하나둘 집으로 돌아가는 아이들을 지켜보았다.\n그때, 한 여자아이가 전달자 아가씨의 치맛자락을 살짝 잡아당겼다. 그 아이에게는 돌아갈 집이 없었다.\n전달자가 아이의 머리를 쓰다듬자, 아이는 두 발이 점점 땅에서 떨어지는 것을 느꼈다. 아이는 놀라서 소리를 질렀다.\n둘은 함께 밤하늘에 달이 걸리고, 별들이 여러 모양을 만들어내는 것을 바라보았다.\n\"언니는... 집에 안 가?\"\n여자아이가 작은 목소리로 물었다. 아이는 전달자 언니가 곧 자신을 떠날 것을 알고 있었다.\n\"언니 집은... 아주 먼 곳에 있어. 그러니까, 저 하늘 너머에 있는 별들 뒤에 숨어 있다고 해야 할까?\"\n\"별들 뒤에?\"\n\"응, 가 보고 싶니?\"\n아이가 고개를 끄덕였다가, 이내 가로저었다. 가보고는 싶었지만, 자기가 가장 좋아하는 전달자 언니에게 부담을 주긴 싫었다.\n\"그렇게 고민할 필요 없어. 내가 동료들한테 네 얘기를 한 적 있거든, 아주 똑똑하고 재능 있는 여자아이가 있다고 말이야. 다들 너를 꼭 만나보고 싶다고 하더라.\"\n\"정말... 가도 돼?\"\n\"난 거짓말 안 해. 아, 잠깐만, 시간이 다 됐네.\"\n\"시간...?\"\n\"자, 눈 감아 봐. 몰래 보면 안 돼! 자, 하나, 둘, 셋! 짜잔!\"\n전달자의 손 위로 작은 컵케이크 두 개가 나타났다.\n\"아...\"\n\"헤헤, 오늘 생일이지? 내가 다 기억하고 있었다고. 자, 이건 네 거야.\"\n아이는 멍하니 전달자를 바라보다가, 크림을 손가락에 콕 찍어 입에 넣었다. 그리고 달콤한 미소를 지었다.\n\"나... 언니 집에 가보고 싶어...\"\n아이는 손에 든 컵케이크를 들어 올렸다. 이 아이에게 있어서 세상에서 가장 소중한 선물이었다.\n지금 그 아이는 제강호에서 공학 센터의 정식 기술원이 되기 위해 열심히 공부하고 있다.\n어려움에 부딪힐 때마다, 그녀는 컵케이크를 꺼내 들고, 갑판 끝에 서서 저 멀리 있는 탈로스 II를 바라본다. 그 달콤한 향기를 지닌 붉은 실루엣이 그녀 곁을 지나갈 때마다, 그녀는 용기를 얻는다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "TRAINING LOG I \nENVIRONMENT: Setting C \nGRAVITY: Setting 2 \nSUBJECT: Gilberta \nRECORDER: Lil' Dodge \nGilberta's training performance exceeded all benchmarks. For her Arts specialization, we modified the chamber with gravity field generators and tactical release nodes, anticipating a lengthy adjustment period. Yet her combat instincts proved sharper than projected: mission accomplished in 1/3 the estimated time, with notably restrained collateral damage (a rarity for these fragile systems, as you know). Her gravitational control hints at paradigm-shifting potential: a tactician who warps the battlefield itself, or perhaps a one-woman armada-breaker. With this being said, I'm sure every commander will vie for her deployment. \nOur next step is clear: help Gilberta unlock her full potential and refine her tactical instincts. Her abilities can turn the tide under any condition — and that's thrilling. \n\nTRAINING LOG VI \nENVIRONMENT: Setting S\nGRAVITY: Setting 26 \nSUBJECT: Gilberta \nRECORDER: Lil' Dodge \nIn recent training sessions, we've been exploring Gilberta's control over her Arts. When we increased the number of non-directional gravity sources to eight, her control over the surrounding field showed a marked decline. Most of the time, she was able to maintain stable gravity around herself, but at critical environmental thresholds, she could no longer stabilize areas a few meters away — which means she couldn't ensure the safety of nearby teammates. \nAll relevant parameters and environmental conditions have been uploaded to EFDB. While Talos-II is unlikely to present situations with multiple gravity sources shifting unpredictably, the risks our operators face extend beyond this planet. At certain Depths, any battlefield condition is possible. \nGilberta expressed some dissatisfaction with her performance, but she did more than enough. This training was designed specifically to test the limits of her abilities — and it's now our task to develop the next training phase accordingly.",
+    "zh-TW": "【訓練紀錄一】\n環境設定：設定C\n重力單元：設定2\n測試人：潔爾佩塔\n記錄員：小道奇\n潔爾佩塔的訓練表現令人難以置信。針對她的法術特徵，我們調整了訓練室的重力源，設定了數個牽引力釋放點。我們預期她需要數分鐘適應訓練環境，但……我們顯然低估了她的實戰經驗。從訓練開始到完成目標只花費了預估時間的三分之一。最令人驚訝的是，她好像是在有意地控制對訓練器械的損壞（你知道的……這些器械在訓練過程中屬於「易損品」）。她的法術和潛力給人帶來無窮的遐想空間，一個能夠操縱重力的戰術家？一個人形的「戰艦殺手」？只要聯想到重力，我相信每個戰場指揮官都會無比興奮。\n我想我們接下來的任務是盡可能地協助潔爾佩塔發掘她的潛力，提升戰術規劃能力。她的能力能夠在任何環境條件下提供幫助，這太棒了。\n\n【訓練紀錄六】\n環境設定：設定S\n重力單元：設定26\n測試人：潔爾佩塔\n記錄員：小道奇\n最近幾次訓練中，我們都在摸索潔爾佩塔對法術控制的邊界。當我們把不定向的重力源增設到8個時，她對周邊重力的控制出現了明顯的減弱。絕大多數情況下她都可以維持自身體表附近的重力，但當環境設定抵達臨界點時，她就無法保障幾公尺外空間的重力環境了。換句話說：那種情況下，她無法保障一同行動的同伴的安全。\n相關的參數設定和環境分析已經上傳到資料庫，當然了，塔衛二很難找出符合這種環境條件的特殊地點——多個重力源，無規律地切換著方向和大小。但……幹員們所面臨的險境並不局限於塔衛二——在一定的深度下，怎樣的作戰環境都有可能出現。\n潔爾佩塔對自己的表現有點不滿意，但她已經做得夠好了。這是針對她的能力而設置的專門訓練，在此結果上制定新的訓練計劃，這就是我們的工作。",
+    "zh-CN": "【训练记录一】\n环境设置：设置C\n重力单元：设置2\n测试人：洁尔佩塔\n记录员：小道奇\n洁尔佩塔的训练表现令人难以置信。针对她的法术特征，我们调整了训练室的重力源，设置了数个牵引力释放点。我们预期她需要数分钟适应训练环境，但……我们显然低估了她的实战经验。从训练开始到完成目标只花费了预估时间的三分之一。最令人惊讶的是，她似乎在有意地控制对训练器械的损坏（你知道的……这些器械在训练过程中属于“易损品”）。她的法术和潜力给人带来无穷的遐想空间，一个能够操纵重力的战术家？一个人形的“战舰杀手”？只要联想到重力，我相信每个战场指挥官都会无比兴奋。\n我想我们接下来的任务是尽可能地协助洁尔佩塔发掘她的潜力，提升战术规划能力。她的能力能够在任何环境条件下提供帮助，这太棒了。\n\n【训练记录六】\n环境设置：设置S\n重力单元：设置26\n测试人：洁尔佩塔\n记录员：小道奇\n最近几次训练中，我们都在摸索洁尔佩塔对法术控制的边界。当我们把不定向的重力源增设到8个时，她对周边重力的控制出现了明显的减弱。绝大多数情况下她都可以维持自身体表附近的重力，但当环境设置抵达临界点时，她就无法保障几米外空间的重力环境了。换句话说：那种情况下，她无法保障一同行动的同伴的安全。\n相关的参数设置和环境分析已经上传到数据库，当然了，塔卫二很难找出符合这种环境条件的特殊地点——多个重力源，无规律地切换着方向和大小。但……干员们所面临的险境并不局限于塔卫二——在一定的深度下，怎样的作战环境都有可能出现。\n洁尔佩塔对自己的表现有些不满意，但她已经做得足够好了。这是针对她的能力设置的专项训练，在此结果上制定新的训练计划，这就是我们的工作。",
+    "ja": "【訓練記録1】\n環境設定：設定C\n重力ユニット：設定2\n参加者：ギルベルタ\n記録員：ダッジ\nギルベルタの訓練成果は驚くものだ。彼女のアーツ特性に合わせ、訓練所の重力源を調整し、複数の引力発生源を設置した。我々の見立てでは、環境に慣れるまで数分はかかるだろうと想定していたが……彼女の実戦経験を甘く見ていた。開始から目標達成までに要した時間は、予定の3分の1だったのだ。さらに、彼女は意識的に訓練機材が破損しないようコントロールまでしていた。（わかっていると思うが……本来これらは「消耗品」だ。）そのアーツと潜在能力は、無限の可能性を想像させる。重力を操る戦術家か？人型の「戦艦キラー」になるか？重力を操ると聞くだけで、どの戦場指揮官も興奮することだろう。\nこれからは彼女の潜在的な力をより引き出し、戦術立案能力をさらに高める訓練に移行するつもりだ。彼女の能力は、いかなる状況でも我々を助けてくれることだろう。実に素晴らしい。\n\n【訓練記録6】\n環境設定：設定S\n重力ユニット：設定26\n参加者：ギルベルタ\n記録員：ダッジ\n最近の数回の訓練では、ギルベルタのアーツ制御における限界点を探っている。今回は、方向が一定ではない重力源を8基に増設した。結果、彼女の周囲の重力制御は明らかに不安定になってしまった。自身の至近距離であれば、重力場を概ね維持できるが、環境設定が限界に近づくと、数メートル先の空間では制御が崩れる。言い換えれば、この条件下では同行者の安全を保証することは難しい。\n関連パラメータと環境分析データはすでにデータベースへアップロード済みだ。もっとも、タロⅡでこうした条件が発生する場所はほぼない――複数の重力源が不規則に方向や強さを変えるような状況は想定外だ。しかし、オペレーターの活動範囲はタロⅡだけに限られない――特定の深度に達すれば、どんな環境になったとしてもおかしくない。\nギルベルタ本人は結果に満足していない様子だが、十分に優秀な成績だ。これは彼女の能力を前提に構築された高度な訓練であり、この結果をもとに次の訓練計画を立案するのは我々の役目である。",
+    "ko": "[훈련 기록 1]\n환경 설정: 설정 C\n중력 유닛: 설정 2\n피실험자: 질베르타\n기록원: 도치\n질베르타의 훈련 성과는 믿기 어려울 정도였다. 그녀의 아츠 특성을 고려해 훈련실의 중력원을 조정하고, 여러 개의 인력 방출 지점을 배치했다. 원래는 훈련 환경에 적응할 시간이 좀 필요할 것이라 예상했지만... 우리는 분명 그녀의 실전 경험을 과소평가했다. 훈련 시작부터 목표 달성까지 예상 시간의 3분의 1밖에 걸리지 않았다. 더 놀라운 점은 그녀가 의도적으로 훈련 장비의 손상을 억제하고 있다는 사실이다(알다시피, 이런 장비는 훈련 과정에서 '소모품'에 가깝다). 그녀의 아츠와 잠재력은 무궁무진한 상상력을 불러일으킨다. 중력을 다루는 전술가? 인간형 '전함 킬러'? 중력이라는 단어만 떠올려도 어떤 전장 지휘관이라도 흥분할 수밖에 없을 것이다.\n우리의 다음 과제는 질베르타가 자신의 잠재력을 최대한 발휘할 수 있도록 돕고, 전술 계획 능력을 향상시키는 일이라고 생각한다. 그녀의 능력은 어떤 환경 조건에서도 도움이 될 수 있을 것이다. 정말 멋지다.\n\n[훈련 기록 6]\n환경 설정: 설정 S\n중력 유닛: 설정 26\n피실험자: 질베르타\n기록원: 도치\n최근 몇 차례의 훈련에서 우리는 그녀의 아츠 제어 한계치를 파악하는 데 주력했다. 불특정 방향의 중력원을 8개로 늘렸을 때, 그녀의 주변 중력 제어 능력이 눈에 띄게 약화되었다. 대부분의 경우 그녀는 자기 신체 주변의 중력을 유지할 수 있었으나, 환경 설정이 임계점에 도달하면 몇 미터 밖의 중력 환경은 안정적으로 제어하지 못했다.\n다시 말해, 그러한 상황에서는 함께 작전을 수행하는 동료의 안전을 보장할 수 없다는 뜻이기도 하다.\n관련 파라미터 설정과 환경 분석 결과는 이미 데이터베이스에 업로드했다. 물론 탈로스 II에서는 여러 개의 중력원이 불규칙하게 방향과 크기를 바꾸는 상황을 충족하는 장소를 찾기는 어렵다. 그러나... 오퍼레이터들이 직면할 위험은 탈로스 II에만 국한된 것은 아니다. 일정 심도에서는 그 어떤 작전 환경도 발생할 수 있다는 점이다.\n질베르타 본인은 자신의 성과에 만족하지 못하는 듯 보였으나, 그녀는 이미 충분히 잘해주고 있다. 이번에 진행한 것은 질베르타의 능력에 특화된 전문 훈련이었다. 이번 결과를 바탕으로 새로운 훈련 계획을 수립하는 것, 그것이 우리가 해야 할 일이다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "Gilberta first met them with a white bedsheet draped over her head, as she played hide-and-seek with the hospital's children. \nAs the door creaked open, she floated like a dandelion seed over giggling kids, then whooshed straight at the intruder for a tackle-hug. \n\"Hehe, gotcha!\" \nShe yanked off the bedsheet triumphantly, only to freeze. Not a giggling child, but a stranger. A figure in a specialized mask, tilting their head in bemused silence. \n\"Oh...\" \nGilberta recoiled, hands snapping back to her chest. A flustered smile flickered across her face just as recognition dawned, stealing all words of apology. \n\"That outfit ... that mask ... no way...\" \nGilberta had imagined countless ways they might meet, but never like this. \n\"You must be Gilberta, right? I'm ... well, I think you already know who I am.\" \nTheir voice carried no thunderous command, yet it etches itself into memory like a half-remembered lullaby. \nGilberta's face burned crimson, replaying her earlier blunder. She stepped back only to catch her heel on a hospital cot, sending her sprawling onto its edge. \n\"I-I ... didn't expect you here...\" \n\"I heard some kids had been rescued and brought in, so I came to check on them. What were you doing just then...?\" \n\"Oh, uh — hide-and-seek. The kids were getting bored, so I figured we could play a game to cheer them up a bit.\" \n\"Hide-and-seek... I see.\" \nThey picked up Gilberta's bedsheet. \n\"Well then, since you caught me, does that mean I'm 'it'?\" \n\"Huh? But you are...\" \n\"They scheduled me to give a speech. But honestly I'd rather play with you and the kids.\" \n\"...\" \n\"What's wrong?\" \nNoting Gilberta's silence, the figure touched their own cheek in quiet bewilderment. \n\"You are nothing like the rumors,\" \nGilberta smiled in relief. \n\"Is that so...\" \nConfusion deepened. Freshly cleared for independent movement yet still adrift in memory’s fog, they stood suspended between protocol and instinct. \n\"Alrighty, let me explain the rules,\" \nGilberta said with a grin on her face. \nAh, so this was them. That half-remembered silhouette, the voice murmuring at fate's periphery. \nShe was grateful for the Originium Woods left behind, more grateful still for this place, this moment.",
+    "zh-TW": "潔爾佩塔第一次遇到那個人時，自己正頂著一張白色的床單，和醫院的孩子們玩捉迷藏。\n她的耳朵捕捉到房門被推開的聲音，她輕輕飄起，控制好力度不撞倒孩子，閃身到了門口，撲向了那個人。\n「嘿嘿，抓到你了吧！」\n她抓到了目標，開心地掀起了床單，卻發現自己抓住的並不是調皮的孩子，而是一個陌生的人。那個人戴著一個特製的面罩，詫異地歪了歪腦袋。\n「啊……」\n潔爾佩塔慌亂地縮回了手，有些尷尬地笑了笑。本來想說點什麼打個圓場，卻突然意識到了那個人的身分。\n「這身裝束，這個面罩，不會吧，該不會……」\n潔爾佩塔想像過許多次與那個人見面的場景，卻從沒想到會是這樣。\n「你就是潔爾佩塔吧？我是……嗯，我想你應該猜到我是誰了。」\n那個人的聲音並沒有多麼地嚴厲和強勢，而是有著一種讓人刻入腦海的奇妙特質。\n潔爾佩塔漲紅了臉，想到剛才失禮的樣子。不知為何後退了兩步，不小心被病床絆了一跤，跌坐在了床邊。\n「您居然會來這裡……」\n「嗯，我聽說這裡救回了一批遇險的孩子們，所以想來看望一下。你這是在……？」\n「這是捉迷藏啦，孩子們在病房裡待得很無聊，我就想說和他們一起玩玩遊戲。」\n「捉迷藏啊……」\n那個人拿起了潔爾佩塔落在地上的白色床單。\n「那，我被潔爾佩塔抓到了，是不是該換我來當鬼了？」\n「欸？但您可是……」\n「啊……他們說幫我安排了個講座。但我覺得，你和孩子們的相處方式更有趣一點。」\n「……」\n「怎麼了？」\n那個人看潔爾佩塔默不作聲，有些困惑地摸了摸臉頰。\n「您和傳聞中完全不是一個樣子呢。」\n潔爾佩塔突然釋然地笑了起來。\n「是嗎……」\n那個人更加疑惑了，畢竟才剛剛被允許自由行動，還沒有從失憶的影響中走出來。\n「那我講一下規則喔……」\n潔爾佩塔笑得更開心了。\n嗯，這就是那個人。那個朦朧的影子，那個冥冥之中的聲音。\n潔爾佩塔很慶幸自己走出了那片源石森林，也慶幸自己來到了這裡。",
+    "zh-CN": "洁尔佩塔第一次遇到那个人时，自己正顶着一张白色的床单，和医院的孩子们玩捉迷藏。\n她的耳朵捕捉到房门被推开的声音，她轻轻飘起，控制好力度不撞倒孩子，闪身到了门口，扑向了那个人。\n“嘿嘿，抓到你了吧！”\n她抓到了目标，开心地掀起了床单，却发现自己抓住的并不是调皮的孩子，而是一个陌生的人。那个人戴着一个特制的面罩，诧异地歪了歪脑袋。\n“啊……”\n洁尔佩塔慌乱地缩回了手，有些尴尬地笑了笑。本想说点什么打个圆场，却突然意识到了那个人的身份。\n“这身装束，这个面罩，不会吧，该不会……”\n洁尔佩塔想象过许多次与那个人会面的场景，却从没想到会是这样。\n“你就是洁尔佩塔吧？我是……嗯，我想你应该猜到我是谁了。”\n那个人的声音并没有多么地威厉和强势，而有着一种让人刻入脑海的奇妙特质。\n洁尔佩塔涨红了脸，想到刚才失礼的样子。不知为何后退了两步，不小心被病床绊了一跤，跌坐在了床边。\n“您居然会来这里……”\n“嗯，我听说这里救回了一批遇险的孩子们，所以想来看望一下。你这是在……？”\n“这是捉迷藏啦，孩子们在病房里待得无聊，我就想着和他们一起玩玩游戏。”\n“捉迷藏啊……”\n那个人拾起了洁尔佩塔落在地上的白色床单。\n“那，我被洁尔佩塔抓到了，是不是该换我来当鬼了？”\n“欸？但您可是……”\n“啊……他们说帮我安排了个讲座。但我觉得，你和孩子们的相处方式更有意思一些。”\n“……”\n“怎么了？”\n那个人看洁尔佩塔默不作声，有些困惑地摸了摸脸颊。\n“您和传闻中可完全不是一个样子呢。”\n洁尔佩塔突然释然地笑了起来。\n“是吗……”\n那个人更加疑惑了，毕竟才刚刚被允许自由行动，还没有从失忆的影响中走出来。\n“那我讲一下规则哦……”\n洁尔佩塔笑得更开心了。\n嗯，这就是那个人。那个朦胧的影子，那个冥冥之中的声音。\n洁尔佩塔很庆幸自己走出了那片源石森林，也庆幸自己来到了这里。",
+    "ja": "ギルベルタが初めてあの人に出会ったのは、病院の子どもたちとかくれんぼをしていたときだった。\n白いシーツをすっぽりかぶり、耳をすませてドアが開く音を捉えると、そっと子どもたちにぶつからないようにドアの前へ移動して――入ってきた人の懐に飛び込んだ。\n「えへへ、捕まえた！」\nにっこり笑って勢いよくシーツをめくったギルベルタの目の前にいたのは、子どもではなく、見知らぬ人物だと気づくのにそう時間はかからなかった。特別なマスクをつけたその人は、不思議そうに首をかしげていた。\n「あ……」\nギルベルタは慌てて手を引っこめて、気まずそうに笑う。何か言わなくては……そう思った瞬間――ふと頭に思い浮かぶ人物がいた。\n「この服、このマスク……これって、もしかして……」\nいつか会う日のことを、何度も想像していた。でも、まさかこんな形だとは。\n「君は、ギルベルタ？自分は……うん、もう自己紹介はいらないみたいだね。」\nその声には厳しさも、威圧感もない。けれど、記憶に深く刻み込まれるような、不思議な響きだった。\n顔がぼうっと熱くなる。さっきはなんて失礼なことを……思わず後ずさりをすると、足がシーツに引っかかってベッドの横に尻もちをついてしまった。\n「あなたが、こんなところに来るなんて……」\n「避難している子どもたちがここにいると聞いたんだ。だから、お見舞いに来たんだよ。それで、君は……何をしていたの？」\n「かくれんぼだよ。子どもたちが退屈そうにしてたから、一緒に遊ぼうって思ったんだ。」\n「かくれんぼ……」\nそう言いながら、床に落ちた白いシーツを拾い上げた。\n「ギルベルタに捕まったからね。今度は鬼をやればいいのかな。」\n「え？でも……」\n「うん、講演会をしてほしいって言われていたけど、君のやり方のほうが、面白そうだ。」\n「……」\n「どうしたの？」\n黙り込むギルベルタの顔に、困惑した様子でそっと手を添える。\n「聞いてた噂と、全然違うんだね。」\nギルベルタは小さな声で笑った。胸につっかえていたものも、どこかに消えたような気がした。\n「そうなんだ……」\nその表情に、また少し困惑の色が挿したようだった。つい最近、自由に行動できるようになったらしいが、まだ記憶喪失の影響があるのだろう。\n「じゃあ、ルールを教えるね……！」\nギルベルタは、心からの笑顔を見せた。\nうん、絶対間違いない。あの人だ。あのぼんやりとした影。運命のように遠くから聞こえた、あの声。\nギルベルタは、源石森林を抜けてきたことを幸運だと思っている。そして、この場所にたどり着いたことも。",
+    "ko": "질베르타가 처음 그 사람을 만났을 때, 그녀는 하얀 침대 시트를 뒤집어쓴 채 병원 아이들과 숨바꼭질을 하는 중이었다.\n그때 병실 문이 열리는 소리가 들렸다. 그녀는 아이들과 부딪히지 않도록 힘을 조절하며 살짝 떠올라, 문 쪽으로 휙 다가가 그 사람에게 달려들었다.\n\"헤헤, 잡았다!\"\n술래였던 그녀는 신이 나서 시트를 걷어 올렸다. 하지만 눈앞에는 장난꾸러기 아이가 아닌 낯선 사람이 서 있었다. 특수 제작된 마스크를 쓴 그 사람은 의아하다는 듯 고개를 갸웃했다.\n\"아...\"\n질베르타는 황급히 손을 거두고 멋쩍게 웃었다. 이를 수습하려 무슨 말이라도 꺼내려던 순간, 문득 그 사람의 정체를 깨달았다.\n\"이 복장, 이 마스크는 설마... 그럴 리가...\"\n질베르타는 그 사람과의 만남을 수없이 상상해왔지만, 이런 식일 줄은 전혀 예상하지 못했다.\n\"질베르타 맞지? 나는... 음, 내가 누구인지 아마 짐작한 것 같은데.\"\n그 사람의 목소리는 위엄이나 강압과는 거리가 멀었지만, 듣는 이의 기억에 각인되는 기묘한 힘이 있었다.\n질베르타는 방금 자신이 저지른 실례가 떠올라 얼굴이 붉어졌다. 괜히 뒷걸음질 치다가 병상에 발이 걸려 주저앉고 말았다.\n\"여긴 어떻게...\"\n\"음, 위험에 처했던 아이들을 구조했다고 들어서 한번 만나고 싶었어. 근데 뭐 하고 있었던 거야?\"\n\"숨바꼭질을 하고 있었던 거야. 병실에만 있으니까 아이들이 심심해하길래, 같이 놀아주고 있었거든.\"\n\"숨바꼭질이라...\"\n그 사람이 땅에 떨어진 하얀 침대 시트를 주워들었다.\n\"그럼, 내가 질베르타한테 잡힌 거니까, 이제 내가 술래인가?\"\n\"어? 하지만 당신은...\"\n\"아... 원래는 나한테 강연을 준비했다고 하던데. 하지만 네가 아이들과 어울리는 방식이 더 재미있을 것 같아서.\"\n\"......\"\n\"왜 그래?\"\n그 사람은 말없이 가만히 있는 질베르타를 보며 당황하며 얼굴을 매만졌다.\n\"소문에서 듣던 것과는 완전히 다르네.\"\n질베르타는 갑자기 마음이 놓인 듯 웃었다.\n\"그래...?\"\n그 사람은 더 의아해졌다. 그도 그럴 것이, 이제 막 자유롭게 움직일 수 있게 되었고, 아직 기억상실의 영향에서 완전히 벗어나지 못한 상태였기 때문이다.\n\"그럼, 내가 규칙을 설명해줄게...\"\n질베르타가 아까보다 더 환하게 웃었다.\n그래, 이 사람이 바로 그 사람이었다. 그저 아련했던 그림자, 멀리서 들려오던 바로 그 목소리.\n질베르타는 그 오리지늄 숲에서 빠져나온 것을, 그리고 이곳에 오게 된 것을 진심으로 다행이라고 생각했다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0013_aglina_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Hi, Endmin. Oh, the weather is so lovely today.",
+    "zh-TW": "嗨~管理員，外面的天氣很不錯喔。",
+    "zh-CN": "嗨，管理员，外面的天气很不错哦。",
+    "ja": "管理人、ヤッホ～！今日、すごくいい天気だよ！",
+    "ko": "안녕, 관리자! 오늘 날씨 진짜 좋다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Ready for a really long trip?",
+    "zh-TW": "準備好出遠門了嗎？",
+    "zh-CN": "准备好出远门了吗？",
+    "ja": "お出かけの準備、できてるかな？",
+    "ko": "떠날 준비는 다 됐어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Hmm. What colors will Talos be sparkling in today?",
+    "zh-TW": "今天的塔羅斯，會閃爍著什麼樣的光彩呢？",
+    "zh-CN": "今天的塔罗斯，会闪烁着什么样的光彩呢？",
+    "ja": "今日のタロスは、どんな色で輝くかな？",
+    "ko": "오늘의 탈로스는 어떤 빛으로 반짝일까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Heading towards our next destination?",
+    "zh-TW": "要前往下一個目的地了嗎？",
+    "zh-CN": "要前往下一个目的地了吗？",
+    "ja": "もう、次の目的地に行くの？",
+    "ko": "다음 목적지로 갈 시간이야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "It doesn't matter which new weapon I'm getting. I'll just add a dash of Arts... And look! It's floating in the air!",
+    "zh-TW": "無論是什麼樣的新武器，只要施加一點法術……看，飄起來了！",
+    "zh-CN": "无论是什么样的新武器，只要施加一点法术……看，飘起来了！",
+    "ja": "新しい武器だって、ちょっとアーツを使ったら……ほら、ふわって浮くんだよ！",
+    "ko": "어떤 무기든 상관없어! 아츠를 살짝 사용하면... 짠! 둥실 떠오른다니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "Mmm. They fit me so well! I'll suit up with them for the next journey. Say, Endmin, got any ideas on matching and style?",
+    "zh-TW": "嗯！看上去很合適！我很期待帶著它們一起遠行。要怎麼穿搭才會更好看呢？",
+    "zh-CN": "嗯！看上去很合适！我很期待带着它们一起远行。要怎么穿搭才会更好看呢？",
+    "ja": "うん、ぴったり！これで旅するの、すごく楽しみだな。どうコーデしたら、もっと可愛くなるかな？",
+    "ko": "와, 나랑 엄청 잘 어울리지 않아? 얘랑 같이 여행할 수 있다니, 엄청나게 기대돼! 음... 얘랑 잘 어울리는 게 뭐가 있을까..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Got a few tips to get a better view of the road. Broaden your horizons, learn from the experiences ... and add a dash of imagination!",
+    "zh-TW": "開闊眼界，提升經驗……再加上一點想像力，這樣才能看清前方的道路！",
+    "zh-CN": "开阔眼界，提升经验……再加上一些想象力，这样才能看清前方的道路！",
+    "ja": "視野を広げて、経験を積んで……あとは、ちょっぴりの想像力。それで、進む方向も見えてくるよね！",
+    "ko": "넓은 시야랑 풍부한 경험에다가 상상력까지 더 하면... 어떤 상황에서도 대처할 수 있다고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "Remember how it felt... Find the right intensity... Up it goes!",
+    "zh-TW": "回想一下當時的感覺……嗯，這個程度剛好，慢慢地……浮起來！",
+    "zh-CN": "回想一下当时的感觉……嗯，这个程度正好，慢慢地……浮起来！",
+    "ja": "あのときの感覚を思い出して……うん、このくらい。ゆ～っくり……ふわ～って、浮かんでくる……",
+    "ko": "그때의 느낌을 한번 살려볼까? 맞아, 딱 이 정도였어! 천천히... 떠올라라, 얍!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Does the promotion mean that ... I'm allowed to head to places even further away? Heheh. I've got everything packed and ready. When are we setting off?",
+    "zh-TW": "晉升的含義是……我可以前往更遙遠的地方了嗎？嘿嘿，我已經打包好行李了，什麼時候出發？",
+    "zh-CN": "晋升的含义是……我可以前往更遥远的地方了吗？嘿嘿，我已经打包好行李了，什么时候出发？",
+    "ja": "昇進したってことは……もっと遠くまで行けるってことだよね。ふふ、もう荷物はまとめてあるよ。いつ出発するの？",
+    "ko": "그러니까... 더 먼 곳으로 갈 수 있다는 뜻이지? 헤헤, 나 벌써 짐 다 쌌어! 우리 언제 출발해?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0013_aglina_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "I wanna be the Endmin's ... I mean, I want to be everybody's most reliable support. But there are times when I get a little worried about being ... qualified enough.",
+    "zh-TW": "我想要在管理員……在大家的心中變得更加可靠。有時候我會有點擔憂，我真的有好好邁出這一步嗎？",
+    "zh-CN": "我想要在管理员……在大家的心中变得更加可靠。有时候我会有些担忧，我真的有好好迈出这一步吗？",
+    "ja": "あたし、管理人……みんなにとって、心から頼れる存在になりたいんだ。でも、時々不安になるときもある……あたし、ちゃんと前に進めてるかな？",
+    "ko": "난 관리자가... 아니, 모두가 의지할 수 있는 사람이 되고 싶어. 근데 가끔은 걱정될 때도 있어, 지금 내가 제대로 가고 있는 걸까? 하고."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0013_aglina_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Will I get something more special in the next promotion...? What am I hoping for? Hmm ... how about a day of fun together, Endmin?",
+    "zh-TW": "下一次晉升會有些更特別的獎勵嗎？我想要的禮物？嗯……和管理員出去玩一整天怎麼樣？",
+    "zh-CN": "下一次晋升会有些更特别的奖励吗？我想要的礼物？嗯……和管理员出去玩一整天怎么样？",
+    "ja": "次に昇進したら、もっと特別なご褒美があったりするのかな？何って……うーん、管理人と2人で一日中お出かけ、とか……？",
+    "ko": "다음에는 좀 더 특별한 선물을 기대해도 돼? 뭘 받고 싶냐고? 음... 하루 종일 관리자랑 노는 거?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0013_aglina_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "Every time I looked back at all those lengthy journeys I've completed, all those tiny emotions would simply well up within me. That was the exact moment when I knew ... I'm simply in love with my work.",
+    "zh-TW": "每當我走完了一段漫長的新旅程，駐足回望，那些點點滴滴的情緒都會一起湧上心頭。這，就是我最熱愛這份工作的瞬間。",
+    "zh-CN": "每当我走完了一段漫长的新旅程，驻足回望，那些点点滴滴的情绪都会一同涌上心头。这，就是我最热爱这份工作的瞬间。",
+    "ja": "長い旅を終えて、振り返ったとき……積み重なった想いが一気にあふれてくるの。それが、この仕事で一番大好きな瞬間なんだ。",
+    "ko": "긴 여정을 마치고 잠시 멈춰서서 뒤를 돌아볼 때면... 마음속 깊이 스며든 수많은 감정이 한꺼번에 밀려 들어오곤 해. 그때가 바로, 내가 이 일을 진심으로 사랑하고 있다고 느끼는 순간이야."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0013_aglina_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Hi there! Oh, you have the rosy scent of beautiful memories ... like an incomplete letter destined for a special place. I wonder where that might be.",
+    "zh-TW": "你好啊！你身上有一股令人懷念的氣味……好像一封沒有寫完的信，我很好奇它會去往哪裡。",
+    "zh-CN": "你好呀！你身上有一股令人怀念的气味……好像一封没有写完的信，我很好奇它会去往哪里。",
+    "ja": "管理人って、懐かしい匂いがするんだよね。なんだか、書きかけの手紙みたいで……この先、どうなるのかなって気になっちゃうんだ。",
+    "ko": "안녕! 너한테서 그리움이 가득한 향기가 나... 꼭 끝나지 않은 편지처럼 말이야. 이 향기는 어디로 가게 될까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Looky here! The Flying Miss Messenger got a special letter for you!",
+    "zh-TW": "看這裡！看，信使小姐帶著你的信飛來囉！",
+    "zh-CN": "看这里！瞧，信使小姐带着你的信飞来咯！",
+    "ja": "ほら、こっちこっち！トランスポーターのお姉さんが、手紙を届けに来たよ！",
+    "ko": "짠! 전달자 아가씨가 네 편지를 갖고 날아왔다고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Ciao! Wanna head out for a walk? The colors of the sky look absolutely fabulous today!",
+    "zh-TW": "嗨！要一起出去走走嗎？天空的顏色很好看喔！",
+    "zh-CN": "嗨！要一起出去走走吗？天空的颜色很好看哦！",
+    "ja": "今日、空がすっごく綺麗だよ。一緒にお出かけしない？",
+    "ko": "안녕! 같이 산책하러 갈래? 오늘 하늘색이 엄청 예뻐!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Don't worry. Leave it to me!",
+    "zh-TW": "放心交給我吧！",
+    "zh-CN": "放心交给我吧！",
+    "ja": "あたしに任せて！",
+    "ko": "맡겨만 줘!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Endmin! What a coincidence! How about we take a stroll along the Bridge?",
+    "zh-TW": "好巧啊，管理員！一起去艦橋散散步吧！",
+    "zh-CN": "好巧呀，管理员！一起去舰桥散散步吧！",
+    "ja": "管理人、ちょうどよかった！一緒にブリッジを散歩しない？",
+    "ko": "어? 관리자! 같이 갑판에서 산책할래?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Busy, Endmin? Don't forget to take a break, okay?",
+    "zh-TW": "還在忙嗎？管理員，要注意休息喔。",
+    "zh-CN": "还在忙吗？管理员，要注意休息哦。",
+    "ja": "管理人、ずっと忙しそうだけど……たまにはちゃんと休んでね。",
+    "ko": "아직 바빠? 관리자, 쉬면서 해."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0013_aglina_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "I just love collecting lipsticks of all sorts of colors and flavors. I can't help but wonder if they add sparkling hues and tints to our words?",
+    "zh-TW": "我好喜歡收集五顏六色、不同香味的唇彩，這樣說出來的話語，是不是也會變得五彩斑斕呢？",
+    "zh-CN": "我好喜欢收集五颜六色、不同香味的唇彩，这样说出来的话语，是不是也会变得五彩斑斓呢？",
+    "ja": "いろんな色や、いろんな香りのリップを集めるのが大好きなんだ。使ったときに、話す言葉もカラフルになる気がしない？",
+    "ko": "난 알록달록하고 향기가 나는 립글로스를 모으는 걸 좋아해! 그걸 바르면 내가 하는 말도 반짝반짝 빛나지 않을까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "Talos adds a brilliant spectrum of colors to the sky of Talos-II. Those unexpected spectacles with flashes of radiance... Aren't they simply romantic, Endmin?",
+    "zh-TW": "塔羅斯賦予了塔衛二天空絢麗的顏色，看著那些不期而遇的光華一閃而過……管理員，你不覺得這是一件很浪漫的事情嗎？",
+    "zh-CN": "塔罗斯赋予了塔卫二天空绚丽的颜色，看着那些不期而遇的光华一闪而过……管理员，你不觉得这是一件很浪漫的事情吗？",
+    "ja": "タロスがタロⅡの空にくれた、鮮やかな色。偶然出会う、一瞬のきらめき……管理人、ロマンチックだと思わない？",
+    "ko": "탈로스는 탈로스 II에 정말 멋진 하늘색을 선물했어. 우연히 찾아온 별들이 반짝이며 스쳐가는데... 관리자, 이런 순간들, 정말 낭만적이지 않아?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0013_aglina_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Look at what I brought, Endmin! Mini-lamps with all sorts of colors PLUS a little incense burner from Witching Hour. I'm thinking if we could ... use them to decorate your cabin together, Endmin? Once the lights are off, your place will be as brilliant as the starry night! Come on, what do you say?",
+    "zh-TW": "管理員，看我帶回來了什麼？好多好看的小燈串！還有巫術時刻的特製小香氛。我們可以一起布置一下管理員的房間，等到晚上，周圍就會變得像夜空一樣璀璨！一起去試試吧！",
+    "zh-CN": "管理员，看我带回来了什么？好多好看的小彩灯！还有巫术时刻的特制小香薰。我们可以一起布置一下管理员的房间，等到晚上，周围就会变得像夜空一样璀璨！一起去试试吧！",
+    "ja": "管理人、見て！カラフルで可愛いライトと、ウィッチタイムの特製アロマを持ってきたんだ。一緒にお部屋を飾ってみない？夜になったら、本物の星空みたいになると思うんだ！",
+    "ko": "관리자, 내가 뭘 가져왔게? 짜잔, 엄청 예쁜 조명들이야! 주술 타임에서 나온 특별 디퓨저도 있어! 이걸로 방을 꾸며보는 게 어때? 밤이 되면 별빛 하늘처럼 반짝반짝할걸? 얼른얼른!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0013_aglina_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Hmm... Characters in novels keep hiding their feelings. Why? There were so many invitations they failed to deliver, so many letters they failed to send, and so many things they failed to say... It's so obviously simple but they just couldn't find the courage to convey their feelings... Now I could easily invite you to an adventure or give you fun prezzies... I wonder where the difference is?",
+    "zh-TW": "嗯……我在想，為什麼小說裡的角色總是會把心事藏起來？送不出的邀請、寄不出的信、說不出的話語……明明那麼簡單，卻遲遲不敢傳達……我就可以輕鬆地邀請管理員出門，送出好玩的禮物……究竟是哪裡不一樣呢……",
+    "zh-CN": "嗯……我在想，为什么小说里的角色总是会把心事藏起来？发不出的邀请、送不出的信、说不出的话语……明明那么简单，却迟迟不敢传达……我就可以轻松地邀请管理员出门，送出好玩的礼物……究竟是哪里不一样呢……",
+    "ja": "うーん……どうして小説の登場人物って、大切な気持ちを隠しちゃうんだろう。出せない招待状、渡せない手紙、言えない言葉……そんなに難しいことじゃないはずなのに。あたしなら、管理人を誘うことも、プレゼントを渡すこともできる……何が違うのかな……",
+    "ko": "있잖아... 왜 소설 속 사람들은 마음을 꼭 숨기고 있을까? 보내지 못한 초대장, 전하지 못한 편지, 말하지 못한 말들... 사실 간단한 건데, 왜 그렇게 망설이는지 모르겠어. 난 관리자한테 같이 나가자고도 하고, 선물도 주고 그러잖아? 대체 뭐가 다른 거지?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0013_aglina_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "Miss Akekuri gave me this special talisman. She told me that my wishes will eventually come true if I carry it around with me. Now, I wish that ... everyone who hires me for a letter delivery will have their wishes fulfilled! Heheh! I hope this wish doesn't sound too greedy!",
+    "zh-TW": "秋栗小姐送給了我一枚很特別的護身符，說是只要一直帶在身邊，總有一天願望就會實現。我的願望嘛……我希望每一個交給我信件的人，都能實現自己所寫下的願望！嘿嘿，這樣是不是有一點貪心了？",
+    "zh-CN": "秋栗小姐送给了我一枚很特别的护身符，说是只要一直带在身边，总有一天愿望就会实现。我的愿望嘛……我希望每一个交给我信件的人，都能实现自己所写下的愿望！嘿嘿，这样是不是有一点贪心了？",
+    "ja": "アケクリさんから、特別なお守りをもらったの。ずっと持ってたら、願いがいつか叶うんだって。あたしの願い？……手紙を託してくれたみんなの願いが叶いますように、って……ふふ、ちょっと欲張りすぎかな？",
+    "ko": "아케쿠리 씨가 나한테 특별한 호신부를 하나 줬어. 계속 가지고 다니면 언젠가 소원이 이뤄진대. 내 소원은 말이지... 나한테 편지를 맡긴 모든 사람이, 편지에 쓴 소망을 전부 이루는 거야! 헤헤, 이거... 조금 욕심이 과한 걸까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0013_aglina_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "I always dream about the places I've seen. And amidst my blurry dreamscapes, there's always a figure standing in silence, as though waiting for a person ... or a letter. Recently, I've been getting a clearer view of that figure — and it's someone whom I'm ... pretty familiar with.",
+    "zh-TW": "我總是會夢見曾經看到過的景色，在那些夢幻而又模糊的影子背後，總是有著一個人的身影，靜靜地站在遠處，像是在等一個人，或是在等一封信。最近，我覺得那個身影似乎變得越來越清晰，像是身邊某個熟悉的人……",
+    "zh-CN": "我总是会梦见曾经见到过的景色，在那些梦幻而又模糊的影子背后，总是有着一个人的身影，静静地站在远处，像是在等一个人，或是在等一封信。最近，我觉得那个身影似乎变得越来越清晰，像是身边某个熟悉的人……",
+    "ja": "記憶の中にある景色を何度も夢に見るんだ。不思議でぼんやりした影の中で、奥に立ってる人がいるの。誰かを待ってるのか……ううん、手紙を待ってるのかもしれない。最近、その人の姿がだんだんはっきりしてきて……よく知ってる誰かに似てるような……",
+    "ko": "난 자주 꿈속에서 예전에 본 풍경을 다시 보곤 해. 희미하고 몽롱한 그림자 뒤에, 늘 누군가가 조용히 서 있어. 마치 누구를 기다리거나, 편지를 기다리는 것처럼 말이야. 요즘은 그 그림자가 점점 또렷해지는 것 같아. 음... 꼭 누구랑 닮은 것 같기도 하고?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0013_aglina_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Surprise, Endmin! I picked something super special, just for you. C'mon, guess what it is!",
+    "zh-TW": "管理員，猜猜看我為你準備了什麼驚喜？是我專門為你挑選的喔！猜錯了也沒關係的，試一下嘛。",
+    "zh-CN": "管理员，猜猜看我给你准备了什么惊喜？是我专门为你挑选的哦！猜错了也没关系的，试一下嘛。",
+    "ja": "サプライズプレゼントだよ！……何だと思う？管理人のことを考えて選んだんだ。外れても大丈夫だから……言ってみて？",
+    "ko": "관리자, 내가 뭘 준비했게? 널 위해 특별히 고른 거야! 틀려도 괜찮으니까 한번 맞혀봐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Is this for me? Oh, thank you so much! It's getting the most conspicuous spot in my cabin!",
+    "zh-TW": "這是給我的嗎？謝謝！我會把它擺在房間裡最顯眼的位置！",
+    "zh-CN": "这是给我的吗？谢谢！我会把它摆在房间里最显眼的位置！",
+    "ja": "わぁ、これ……あたしに？すっごく嬉しいな！お部屋の一番目立つところに飾っておくね。",
+    "ko": "이거... 나 주는 거야? 고마워! 내 방에서 제일 잘 보이는 곳에 둬야겠다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "The first letter I delivered was a recommendation that Surgeon Warfarin wrote for me. I was a little nervous when I first stepped aboard Dijiang. Warfarin told me to: \"Wait for the Endministrator.\" And I kept thinking: \"What's this Endmin like?\" But seeing you in person after your accidental awakening — all my worries just faded away. I got to admit, I'm still a little nervous...",
+    "zh-TW": "我送出的第一封信，是華法琳醫生為我寫的介紹信。當我第一次來到帝江號時內心還有點忐忑，我總會去想：華法琳醫生讓我等待的「管理員」會是一個什麼樣的人？直到得知管理員你意外甦醒，在帝江號上親眼見到你時，我才放下心來……不過……現在還是有點小小的忐忑……",
+    "zh-CN": "我送出的第一封信，是华法琳医生为我写的介绍信。当我第一次来到帝江号时内心还有些忐忑，我总会去想：华法琳医生让我等待的“管理员”会是一个什么样的人？直到得知管理员你意外苏醒，在帝江号上亲眼见到你时，我才放下心来……不过……现在还是有点小小的忐忑……",
+    "ja": "あたしが初めて届けた手紙は、ワルファリン先輩が書いてくれた紹介状だった。帝江号に来たばっかりのときは、不安でいっぱいで……「管理人」ってどんな人なんだろうって、ずっと考えてたんだ。だけど管理人が目覚めて、初めて会ったあの日……すごく、ほっとしたの。でも……今もちょっとだけ、どきどきする感じがして……",
+    "ko": "내가 처음 전달한 편지는 와파린 씨가 써준 소개장이었어. 처음 제강호에 왔을 때, 사실 엄청나게 떨렸다? 와파린 씨가 나보고 '관리자'라는 사람을 기다리라고 했거든, 어떤 사람일지 되게 많이 상상했어. 관리자가 깨어났다는 소식을 듣고 직접 본인을 보고 나서야 마음이 진정된 거 있지? 근데... 아직도 가끔 두근거리긴 해..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "I love solo flights after the sun has set. The night sky lets me gaze upon twinkling stars. Perhaps they have plenty of stories of their own. Perhaps at those very moments, there were others who were thinking the same thing ... and looking at the same night sky together with me...",
+    "zh-TW": "我喜歡獨自在夜晚的天空中飛行，融進夜色裡，看著那些亮閃閃的點點星星，我會想像那裡會不會也有著數不清的故事。會不會在此時此刻，有人跟我想著一樣的事情，分享著同一片夜空……",
+    "zh-CN": "我喜欢独自在夜晚的天空中飞行，融进夜色里，看着那些亮闪闪的点点星星，我会想象那里会不会也有着数不清的故事。会不会在此时此刻，有人和我想着一样的事情，分享着同一片夜空……",
+    "ja": "あたし、夜の空を1人で飛ぶのが好きなんだ。闇に溶け込んで、キラキラ光る星を眺めてると……あの輝きのひとつひとつにも、それぞれの物語があるのかなって思っちゃうんだ。今この瞬間、誰かが同じ空を見上げて、同じことを思ってるのかもしれないって……",
+    "ko": "난 밤하늘을 혼자 날아다니는 걸 좋아해. 어둠 속에 스며들듯이 날면서 반짝이는 별들을 바라보면 저기 어딘가에도 셀 수 없이 많은 이야기가 숨겨져 있을 것 같다는 생각이 들거든. 어쩌면, 그 순간, 그 하늘을 바라보며 나랑 같은 생각을 하는 사람이 있을지도 몰라!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0013_aglina_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "Loneliness is the messengers' companion, but I could never get used to it. Whenever I reached a distant place, I would take out my compass to find my bearings towards Rhodes Island. Surgeon Warfarin is there, along with memories that will never fade. Now, I'm traveling down a path where new friends and encounters await. Just thinking about this gives me warm, cozy feels as well as hope for the journey ahead. That's right. I want to be a messenger who's never lonely.",
+    "zh-TW": "孤獨是信使的伴侶，但我永遠也習慣不了孤獨。每當孤身一人行至遠方，我都會拿起羅盤，看向羅德島的方向。那裡有著華法琳醫生，有著真實且不會褪色的記憶。而我要前進的方向，則有著素未謀面的新朋友和新的邂逅。想到這些，我就會安心下來，期待起接下來的旅行。嗯，潔爾佩塔想要做一個不孤獨的信使。",
+    "zh-CN": "孤独是信使的伴侣，但我永远也习惯不了孤独。每当孤身一人行至远方，我都会拿起罗盘，看向罗德岛的方向。那里有着华法琳医生，有着真实且不会褪色的记忆。而我要前进的方向，则有着素未谋面的新朋友和新的邂逅。想到这些，我就会安心下来，期待起接下来的旅行。嗯，洁尔佩塔想要做一个不孤独的信使。",
+    "ja": "孤独って、トランスポーターの相棒みたいなものだけど……あたし、どうしても慣れなくて。1人で遠くまで行くときはいつもコンパスを見て、ロドスの方角を確かめるの。そこにはワルファリン先輩と、色褪せない大切な記憶があるから。でも、これから進む先にはたくさんの新しい出会いがある……そう考えると少し安心して、次の旅に向かえるんだ。うん、あたしは……「孤独じゃないトランスポーター」になるよ！",
+    "ko": "외로움은 꼭 전달자의 오랜 친구 같은 존재야. 하지만 난 아직도 익숙하지가 않아... 혼자서 먼 길을 가야 될 땐 꼭 나침반을 들어서 로도스 아일랜드 쪽을 바라보곤 해. 와파린 씨랑 절대 바래지 않는 소중한 기억들이 있는 곳이니까... 내가 가는 길에는 새로운 친구랑 인연이 날 기다리고 있겠지? 그렇게 생각하면 마음이 조금 놓여, 앞으로의 여정이 기대되기도 하고. 응, 난 외롭지 않은 전달자가 되고 싶어."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0013_aglina_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "I don't know... Seeing a lonely star would give me an indescribable sense of loss and regret... Oh twinkle, twinkle little star, how I wonder from afar... Could you be, across that sky so wide, still waiting for your star to shine beside?",
+    "zh-TW": "每當看見孤零零的星星時，我都會感到莫名的失落和遺憾……星星啊星星，是否天空那一邊的你……也沒有等來屬於自己的伴星……",
+    "zh-CN": "每当看见孤零零的星星时，我都会感到莫名的失落和遗憾……星星啊星星，是否天空那一边的你……也没有等来属于自己的伴星……",
+    "ja": "1つだけぽつんと光ってる星を見ると、なんだか寂しい気持ちになる……ねぇ、お星さま。あなたも、まだ出会えてないの？あなたのそばで輝く、たった1つの星に……",
+    "ko": "외롭게 떠 있는 별을 볼 때마다 왠지 모를 쓸쓸함과 아쉬움이 밀려와... 저 별도... 어딘가에 있을 자신의 반쪽을 기다리고 있는 걸까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0013_aglina_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "When I'd just left the Woods, I noticed the blank letter by my side. It felt like a symbol of my confusion... And I always wondered why was I the only one who had it. Should I write something on it? And who should I deliver this letter to? I journeyed far yet failed to find my answers. But now ... I believe I should jot down all that I've felt and fantasized ... then deliver it to my most important and special someone.",
+    "zh-TW": "在我剛剛走出那片「森林」時，我發現了身邊的那張空白信紙。它彷彿具現了那時我有些迷茫的內心……它為何只出現在我的身邊？究竟要在上面寫點什麼？寫好的信件又要交給什麼人？我走了一路，依然沒找到答案。但……我想這一定是讓我把所有的心情、所有的幻想，寫進那張空白的信紙裡，然後，將它交給某個最重視的人。",
+    "zh-CN": "在我刚刚走出那片“森林”时，我发现了身边的那张空白信纸。它仿佛具现了那时我有些迷茫的内心……它为何只出现在我的身边？究竟要在上面写些什么？写好的信件又要交给什么人？我走了一路，依然没找到答案。但……我想这一定是让我把所有的心情、所有的幻想，写进那张空白的信纸里，然后，将它交给某个最重视的人。",
+    "ja": "あの「森林」を抜けたとき、何も書かれてない手紙が足元に落ちてたんだ。まるで、迷ってたあたしの心を写したみたいに……どうしてそこにあったのか、何を書けばいいのか、誰に渡すのか……いろんな場所を旅してきたけど、ずっと答えは見つからなかった。でもね、今は……あたしの気持ちと、思い描いた全部をこの手紙に書いて、一番大切な人に渡す……そのためなんだって、そう思うんだ。",
+    "ko": "그 '숲'에서 막 빠져나왔을 때, 내 옆엔 빈 편지 한 장이 있었어. 방향을 잃었던 그때의 내 마음이 눈앞에 실제로 나타난 것만 같았지. 왜 내 앞에 나타난 걸까? 도대체 뭘 써야 하고, 또 누구한테 전해야 하는 걸까? 많이 생각해 봤지만, 아직도 정답을 모르겠어. 어쩌면... 내 모든 감정과 상상을 담아서 세상에서 가장 소중한 누군가한테 전해주라는 뜻일지도 몰라."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0013_aglina_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "A journey that I remember most? Hmm... Endmin, have you heard about Alloycarrot? Cautuses who live at that place eat carrots. All. The. Time! And they have all sorts of carrot recipes! I visited the city twice to deliver medication to the TGCC running the carrot farms. If I can visit that place again, I hope I'll get to see the subterranean Big Borehole... Ah! And I'll definitely book a place at the Cabbage Inn... Not that I hate carrots, I just want a bit more variety...",
+    "zh-TW": "印象深刻的旅行？嗯……管理員聽說過合金蘿蔔城嗎？那裡的卡特斯們能一天三餐都吃蘿蔔！他們會把蘿蔔做成各式各樣的料理！我去過那裡兩次，都是去提供藥品給蘿蔔種植園的商會。再有機會造訪的話，真想去看看下層的「大鑽孔」……啊，記得一定要去那家叫「高麗菜」的旅館住宿，否則你的菜單上就只剩下蘿蔔料理了……",
+    "zh-CN": "印象深刻的旅行？嗯……管理员听说过合金萝卜城吗？那里的卡特斯们能一天三顿都吃萝卜！他们会把萝卜做成各式各样的料理！我去过那里两次，都是去给萝卜种植园的商会提供药品。再有机会造访的话，真想去看看下层的“大钻孔”……啊，记得一定要去那家叫作“卷心菜”的旅馆住宿，否则你的菜单上就只剩下萝卜料理了……",
+    "ja": "印象に残ってる旅？うーん……「メタルキャロットシティ」って聞いたことある？そこに住んでるコータスはね、1日3食ニンジンを食べてるの！しかも、いろんな料理にして。あたし、ニンジン農園の商会に薬を届けるために、2回行ったことがあるんだけど……次は「大掘削孔」も見に行ってみたいな。あっ、あとは……泊まるなら絶対「キャベツ」って宿にしなきゃ。じゃないと、食事が全部ニンジンになっちゃうから……",
+    "ko": "기억에 남는 여행지? 음... 혹시 합금 무성이라고 들어봤어? 거기 사는 카우투스 사람들은 당근으로 온갖 요리를 만들어서 하루 세 끼 당근만 먹기도 한다는 거 알아? 당근 농장 상회에 약품을 배달한다고 두 번 정도 가봤거든! 나중에 또 가게 된다면 지하에 있는 '대천공'을 꼭 구경해 보고 싶어. 참, 혹시 관리자도 갈 일 있으면 꼭 '양배추'라는 여관에 묵어야 해! 안 그러면 식사 메뉴가 당근밖에 없을지도 모르거든... 헤헤..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Weightlessness is a constant feeling I have. I always feel like a balloon gently skimming across the heavy earth. Yet I do whatever I can to make it float with me. Sounds like I'm fantasizing, doesn't it? But even while flying, I would cast a long shadow upon the land — as if something was tethering me to the earth. Just like how these letters link me ... to you.",
+    "zh-TW": "失重的感覺，對我來說是如影隨形的。我經常覺得自己像一顆氣球，輕飄飄地繫在沉重的地面上，但我又想要竭盡全力，帶著它一起飛起來。這會是異想天開嗎？地上的影子延長成一根長長的線，我知道，那就是我和世界的連結。就像信，連接著你和我一樣。",
+    "zh-CN": "失重的感觉，对我来说是如影随形的。我经常觉得自己像一只气球，轻飘飘地系在沉重的地面上，但我又想要竭尽全力，带着它一起飞起来。这会是异想天开吗？地上的影子延长成一根长长的线，我知道，那就是我和世界的联系。就像信，连接着你和我一样。",
+    "ja": "無重力は、いつでもそばにあって……自分が重い地面に繋がれてる、軽い風船みたいだなって感じることもあるよ。でも、地面ごと浮かび上がれたらって、全力で頑張ってみたくもなっちゃうんだ。やっぱり変かな？地面に伸びる長い影が、あたしと世界を結ぶ糸になる……手紙が、あたしと管理人を結んでるみたいに。",
+    "ko": "나한테 무중력이 주는 느낌은 그림자 같은 거야. 가끔은 나 자신이 무거운 추에 매달린 풍선 같기도 해. 근데 또 막 날아가고 싶기도 하고. 너무 엉뚱한 생각인가? 그래도 난 알아, 꼭 날 붙잡고 있는 것 같은 그림자가 사실은 세상이랑 날 이어주는 끈이라는 걸. 편지가 너랑 나를 이어주는 것처럼 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "What about this book? Well, it's an anthology of short stories of all sorts of messengers. One of them navigated through a Catastrophe to save people ... only to be called out as an accursed harbinger of disaster. Another just wanted a peaceful delivery, only to topple an entire nation through a series of unexpected events. And there's this young but clumsy messenger who lost their deliveries on the first day of the job... Heheheh. I love every single tale in this book.",
+    "zh-TW": "你是問這本書？這是一本記錄著許許多多信使故事的選集。他們之中有人跨過了天災，拯救了人民，卻被當成喚來災難的使者；有人嚮往著安穩平淡的旅途，卻陰錯陽差顛覆了國家；還有笨拙的孩子，在成為信使的第一天弄丟了信……嘿嘿，我喜歡裡面的每一個故事。",
+    "zh-CN": "你是问这本书？这是一本记录着许许多多信使故事的选集。他们中有人跨过了天灾，拯救了人民，却被当成唤来灾难的使者；有人向往着安稳平淡的旅途，却阴差阳错颠覆了国家；还有笨拙的孩子，在成为信使的第一天弄丢了信……嘿嘿，我喜欢里面的每一个故事。",
+    "ja": "この本が気になる？これはね、いろんなトランスポーターたちの物語を集めた本なんだ。天災を越えて人を救ったのに、天災の象徴にされた話。穏やかな旅を望んでたのに、偶然国の運命を変えてしまった話……あと、トランスポーターになったその日に手紙をなくしちゃったドジな子の話。ふふ……あたし、どのお話も大好きなんだ。",
+    "ko": "이 책 말이야? 이건 전달자들의 이야기를 모은 책이야. 재해를 헤치고 사람들을 구했는데 오히려 재해를 부른 사람이라고 오해받은 전달자도 있고, 조용하고 평범한 여정을 꿈꿨는데 결국은 나라의 역사를 뒤흔들어 버린 전달자도 있대. 그리고... 전달자가 된 첫날부터 편지를 잃어버린 엉뚱한 애도 있지. 헤헤, 나 이 책에 나오는 이야기들 하나하나 다 좋아해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "I've heard plenty of people talk about Terra in New Wrankwood. Some lauded her warmth. Others cursed her lack of mercy. A few hated her devastation, and there were those who missed her beauty... While thespians and writers devote entire lifetimes to that part of our history, the philosophers believe that we should move on and embrace a new way of thinking... I personally treat Terra as a familiar yet distant name... A world of beautiful landscapes and familiar faces... What about you, Endmin?",
+    "zh-TW": "我在新藍卡塢無數次聽人講述「泰拉」的故事。有人歌頌她的溫暖，有人斥責她的無情；有人憎惡她的破敗，有人懷念她的瑰麗……藝術家為了那一段段歷史嘔心瀝血，哲學家則認為我們早該擁抱新的思潮……對我來說，「泰拉」更像是一個熟悉又陌生的名字……至少在我眼裡，那裡有著同樣美好的風景和熟悉的面孔……管理員，你呢？",
+    "zh-CN": "我在新蓝卡坞无数次听人讲述“泰拉”的故事。有人歌颂她的温暖，有人斥责她的无情；有人憎恶她的破败，有人怀念她的瑰丽……艺术家为了那一段段历史呕心沥血，哲学家则认为我们早该拥抱新的思潮……对我来说，“泰拉”更像是一个熟悉又陌生的名字……至少在我眼里，那里有着同样美好的风景和熟悉的面孔……管理员，你呢？",
+    "ja": "ニューランクウッドで、何回も「テラ」の話を聞いたの。温もりを讃える人もいれば、冷たさを責める人もいた。荒れ果てた姿を嫌う人もいれば、美しさを懐かしむ人もいた。芸術家は過去の歴史のために魂を削って、哲学者は新しい思想を受け入れるように言う……あたしにとっての「テラ」は、懐かしいのに、知らないような……でもね、あたしの目の中には綺麗な景色と、見覚えのある顔がある……管理人は、どう思う？",
+    "ko": "내가 뉴 랭크우드에 있을 때 수없이 '테라'에 대한 이야기를 들었어. 누군가는 테라의 따스함을 찬양했고, 누군가는 냉혹함을 비난했지. 누군가는 테라의 황폐를 미워했고, 누군가는 그 화려함을 그리워했어... 예술가들은 그 역사를 작품으로 남기려 애쓰고 있고, 철학자들은 이젠 새로운 사상을 받아들여야 한다고 주장해... 나한테 테라는... 익숙하면서도 낯선 이름 같아... 적어도 내 눈에는 아름답게 보이는 풍경과 친숙한 얼굴들이 그곳에는 있으니까... 관리자, 너는 어떻게 생각해?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "No messengers could guess the contents of a letter. But when I see fancy stickers and decorations on the envelope ... I imagine warm cozy stories waiting to happen. An envelope wrinkled by the rain, on the other hand, gives me the vibes of a difficult journey or heartbreaking separation... The letter writers rarely share their feelings with the messengers. They never know how someone whom they've never met ... actually shares their happiness ... and sadness.",
+    "zh-TW": "沒有信使能夠猜測到信封內藏著什麼，但看著那些精心裝飾著的貼紙，我就會想到一些溫馨的故事或許即將發生。看到信件被雨水打濕成皺巴巴的模樣，我就會感嘆會不會又是一段苦難的旅途或是離別……信件的主人們很少會向信使分享他們的心情，他們也不會知道，有個陌生人曾為他們開心，曾為他們難過。",
+    "zh-CN": "没有信使能够猜测到信封内藏着什么，但看着那些精心装饰着的贴纸，我就会想到一些温馨的故事或许即将发生。看到信件被雨水打湿成皱皱巴巴的模样，我就会感叹会不会又是一段苦难的旅途或是别离……信件的主人们很少会向信使分享他们的心情，他们也不会知道，有个陌生人曾为他们开心，曾为他们难过。",
+    "ja": "トランスポーターには、封筒の中身なんてわからない。でもね、丁寧に貼られたシールを見ると、きっと素敵な物語が始まるんじゃないかって思う。ぐしゃぐしゃに濡れた手紙を見ると、辛い旅や別れがあったんじゃないかって想像する。手紙の差出人がトランスポーターに気持ちを教えてくれることなんてほとんどないから……わからないかもしれないよね。一緒に幸せを喜んで、一緒に悲しみに胸を痛めるトランスポーターが、ここにいるってこと。",
+    "ko": "그 어떤 전달자도 편지의 내용을 알 수는 없어, 하지만 정성껏 붙인 스티커를 보면 금방이라도 따뜻한 이야기가 시작될 것 같은 기분이 들곤 해. 빗물에 젖어 구겨진 편지를 보면 누군가의 힘든 여정이나 이별이 담겨 있을까 봐 마음이 무거워지기도 하고... 편지를 맡긴 사람들이 전달자한테 감정을 털어놓진 않지만, 자신들의 이야기에 함께 울고 웃는 누군가가 존재한다는 건 꿈에도 모를 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_about_line01",
+   "title": {
+    "en": "Topic: Warfarin",
+    "zh-TW": "話題：華法琳",
+    "zh-CN": "话题：华法琳",
+    "ja": "ワルファリンについて",
+    "ko": "와파린에 관하여"
+   },
+   "text": {
+    "en": "Surgeon Warfarin? She looked great and appeared to be her same old self. But there was this time when Warfarin remembered my birthday wrong ... and she looked really guilty while apologizing to me... It wasn't that big of a deal. Then she called me by the wrong name in panic... I've never seen her like that. How would I describe it...? Hmm. She appeared really confused ... and lost. And even after I left, she brooded by the dinner table by herself for a really, really long time...",
+    "zh-TW": "華法琳醫生？她還是和以前一樣，看起來精神不錯。不過她有一次記錯了我的生日，很自責地向我道歉……明明沒關係的。慌亂中她還叫錯了我的名字……她那一刻的表情我從未見過，怎麼形容呢……看上去有點錯愕，有點茫然。在我走後，她一個人在餐桌旁坐了很久很久……",
+    "zh-CN": "华法琳医生？她还是和以前一样，看起来精神不错。不过她有一次记错了我的生日，很是自责地向我道了歉……明明没关系的。慌乱中她还叫错了我的名字……她那一刻的表情我从未见过，怎么形容呢……看上去有些错愕，有些茫然。在我走后，她一个人在餐桌旁坐了很久很久……",
+    "ja": "ワルファリン先輩？前とおんなじで、元気そうだったよ。でも一回……あたしの誕生日を間違えちゃったとき、すごく申し訳無さそうに謝ってくれて……あたしは全然気にしてなかったのに、今度は名前まで言い間違えて……そのときの先輩、初めて見る顔してたんだ。驚いたような、戸惑ったような……あたしがそこを離れても、先輩はずっと1人、食堂に座ったままだった……",
+    "ko": "와파린 씨? 예전처럼 잘 지내고 계시지. 근데 언제 한번은 내 생일을 헷갈리신 적이 있거든? 엄청나게 미안해하시면서 사과하셨어... 별일 아닌데 말이야. 내 이름까지 틀리게 부르시더니, 뭐랄까... 그때 표정은 정말 처음 보는 표정이었어. 당황한 것 같기도 하고, 멍한 것 같기도 하고? 내가 간 뒤로도 혼자서 식탁에 오랫동안 앉아 계셨다는 거 있지..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_about_line02",
+   "title": {
+    "en": "Topic: Mysterious Swordmancer",
+    "zh-TW": "話題：神秘劍客",
+    "zh-CN": "话题：神秘剑客",
+    "ja": "不思議な剣士について",
+    "ko": "신비한 검객에 관하여"
+   },
+   "text": {
+    "en": "I met a mysterious lady at Rhodes Island quite a while ago. She wielded a unique-looking blade, and stood by the tranquil lake. Suddenly, her blade flashed. It left only a gentle ripple upon the lake waters, but clove an entire cloud in two... She gave me this letter and hoped that I could deliver it to the Endministrator. And once Operator Chen Qianyu finally comes into her own, you can then pass it on to her...",
+    "zh-TW": "很久以前，我曾經在羅德島見過一位神秘的女性。她拿著一把與眾不同的劍，獨自立於平靜的湖面。劍光閃過，湖水只泛起了一點漣漪，天空卻缺了半邊的雲……她把這封信交給了我，希望把信寄給管理員，等到陳千語幹員有所成長的時候再轉交給她……",
+    "zh-CN": "很久以前，我曾经在罗德岛见过一位神秘的女性。她拿着一把与众不同的剑，独自立于平静的湖面。剑光闪过，湖水只泛起了一点涟漪，天空却缺了半边的云……她把这封信交给了我，希望把信寄给管理员，等到陈千语干员有所成长的时候再转交给她……",
+    "ja": "ずっと前にね、ロドスですごく不思議な女の人に会ったんだ。特別な剣を持って、1人で静かな湖の上に立ってて。剣がきらっと光った瞬間、水面にほんの小さな波が広がって……そしたら空の雲が半分、消えちゃってた。その人が手紙を1通、あたしに託した――この手紙を管理人に渡してほしい、チェンさんが成長したら、彼女に渡すように伝えてほしいって……",
+    "ko": "아주 오래전에 로도스 아일랜드에서 한 신비한 여자를 본 적이 있어. 특이한 검을 들고 호숫가에 혼자 서 있었지. 근데 갑자기 검광이 번쩍하더니 호수에 잔물결이 일면서 하늘의 구름이 절반이나 사라진 거 있지? 그때 그 여자가 나한테 이 편지를 관리자한테 전해달라고 그랬어. 그리고 진천우 오퍼레이터가 충분히 성장하면 관리자가 다시 전달해 주면 좋겠다고 하면서 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_about_line03",
+   "title": {
+    "en": "Topic: Avywenna",
+    "zh-TW": "話題：艾維文娜",
+    "zh-CN": "话题：艾维文娜",
+    "ja": "アイビーエナについて",
+    "ko": "아비웨나에 관하여"
+   },
+   "text": {
+    "en": "Avywenna is always delivering to dangerous places... She might be smiling all the time, but her eyes are hiding some heavy secrets... Secrets that she could not share with anyone... I've seen plenty of other messengers who share the same gaze... And I know what it means...",
+    "zh-TW": "艾維文娜總是會前往一些凶險的地方送信……雖然她每天都在笑著，但她的眼睛裡像是藏著一些無法說出口的，有些沉重的秘密……我在許多信使眼中看到過……我知道那是為什麼……",
+    "zh-CN": "艾维文娜总是会前往一些凶险的地方送信……虽然她每天都在笑着，但她的眼睛里像是藏着一些无法说出口的，有些沉重的秘密……我在许多信使眼中看到过……我知道那是为什么……",
+    "ja": "アイビーエナさんは、いつも危ない場所に手紙を届けに行ってるんだ。ずっとニコニコしてるけど……目の奥に、誰にも言えない重い秘密が隠れてる感じがする。そんなトランスポーターを、あたしは他に何人も見てきた……だから、わかるんだ。どうしてあんな目になるのかって……",
+    "ko": "아비웨나 씨는 자주 위험한 곳으로 편지를 전하러 가곤 해... 항상 밝은 얼굴을 하고는 있지만, 그 눈빛 속에는 말 못 할 무거운 비밀이 담겨있는 것만 같아... 다른 전달자들한테서도 본 적이 있는 눈빛이야... 그리고 난 그 이유를 알아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_about_line04",
+   "title": {
+    "en": "Topic: The Dangerous Wildlands",
+    "zh-TW": "話題：荒野上的危險",
+    "zh-CN": "话题：荒野上的危险",
+    "ja": "荒野の危険性について",
+    "ko": "황무지에 도사리는 위험에 관하여"
+   },
+   "text": {
+    "en": "Talos-II is filled with all sorts of unknown dangers... I've read Ardelia's report. The hazards of Talos-II are far more unpredictable than those of faraway Terra. Since messengers have to navigate through areas with frequent Blight events, we often carry gear for emergency first aid or evac. Since I can fly, I often carry extra sets of emergency gear and drop them off at resting areas in the wildlands. I hope this can help people who run into trouble.",
+    "zh-TW": "塔衛二充滿了各種未知的危險……我看過艾爾黛拉提供的報告，和遙遠的泰拉相比，塔衛二上的威脅更加難以預測。信使時常要涉足那些侵蝕災害頻繁的區域，所以會配備用於自救和逃脫的裝備。因為我會飛嘛，所以我通常會多準備一點，把它們留在荒野上的落腳點，盡可能地幫助到那些遇到危險的人。",
+    "zh-CN": "塔卫二充满了各种各样未知的危险……我看过艾尔黛拉提供的报告，和遥远的泰拉相比，塔卫二上的威胁更加难以预测。信使时常要涉足那些侵蚀灾害频发的区域，所以会配备用于自救和逃脱的装备。因为我会飞嘛，所以我通常会多准备一些，把它们留在荒野上的落脚点，尽可能地帮助到那些遇到危险的人。",
+    "ja": "タロⅡには、まだまだ予測できない危険がたくさんあるんだよ。アルデリアの報告書も読んだけど、遠く離れたテラよりも、目の前のタロⅡの予測のほうが難しいって。トランスポーターは侵蝕災害の多い場所にも行くから、自分で逃げ出すための装備も必要なんだけど……あたしは空を飛べるから、ちょっと多めに持ち歩いて、荒野の休憩スペースに置くようにしてるんだ。困ってる人の助けになるかもしれないから。",
+    "ko": "탈로스 II에는 예측할 수 없는 위험들이 가득해... 전에 아델리아 씨가 작성한 보고서를 본 적이 있는데, 머나먼 테라보다, 탈로스 II의 위협이 훨씬 더 예측하기 어렵다고 하더라고. 전달자들은 침식 재해가 일어나는 구역을 자주 가기 때문에 긴급 보호 장치나 비상 탈출 장치를 가지고 다니는 편이야. 근데 난 날 수 있잖아? 그래서 보통 장비를 조금 더 준비해서 황무지 여기저기에 남겨두곤 해. 위험에 빠진 사람들이 있다면, 조금이라도 도움을 주고 싶거든."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_about_line05",
+   "title": {
+    "en": "Topic: Self",
+    "zh-TW": "話題：自己",
+    "zh-CN": "话题：自己",
+    "ja": "自分について",
+    "ko": "자신에 관하여"
+   },
+   "text": {
+    "en": "While I was at Rhodes Island, I thought Surgeon Warfarin would give me a few missions. But she told me that Rhodes Island was not in a position to make itself known to the public. However, since I'm a messenger, she told me I would do better by traveling under the open skies. And that's exactly what I did — spent two years wandering Talos-II, getting to know this world before finally arriving here.",
+    "zh-TW": "我本來以為華法琳醫生會分配一些羅德島的任務給我，但她卻說羅德島現在的立場不適合活躍在大眾視野中，身為信使的我應該在更明媚的天空下暢遊。所以，我先在塔衛二上生活了兩年，逐漸認識了這個廣袤的新世界，然後來到了這裡。",
+    "zh-CN": "我本以为华法琳医生会给我在罗德岛分配一些任务，可她却说罗德岛现在的立场不适合活跃在大众视野中，身为信使的我应该在更明媚的天空下畅游。所以，我先在塔卫二上生活了两年，逐渐认识了这个广袤的新世界，然后来到了这里。",
+    "ja": "てっきり、ロドスで何かお仕事をもらえるって思ってたんだけど……ワルファリン先輩が、今のロドスでは目立つ行動をするのは良くない、トランスポーターのあたしにはもっと広くて明るい空の下で自由に羽ばたいてほしいって……だから、タロⅡで2年暮らして、新しい世界のことを少しずつ知って……それから、ここに来たんだ。",
+    "ko": "로도스 아일랜드에 있을 때, 난 와파린 씨가 나한테 임무를 주실 거로 생각했어. 근데 지금의 로도스 아일랜드는 대중 앞에 나서기엔 적절한 입장이 아니라고 하시더라고? 그러면서 전달자인 난 더 밝은 곳에서 더 넓은 하늘을 날아다녀야 한다고도 하셨어. 그렇게 난 탈로스 II에서 2년 동안 여러 곳을 돌아다니며 이 광활한 신세계를 하나하나 알아갔고, 그러다 지금 이곳까지 오게 된 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Something calls for our attention over there.",
+    "zh-TW": "那邊有值得注意的東西。",
+    "zh-CN": "那边有值得注意的东西。",
+    "ja": "あっち、何かありそうかも。",
+    "ko": "저기 뭔가 있는 것 같아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Look there! Maybe there's a surprise waiting for us!",
+    "zh-TW": "看看那邊，說不定會有驚喜！",
+    "zh-CN": "看看那边，说不定会有惊喜！",
+    "ja": "あっちに行ってみない？サプライズがある気がするんだ。",
+    "ko": "저쪽으로 한번 가보자. 혹시 좋은 게 있을지도 몰라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "According to messenger standards: Be extra cautious when entering uncharted territories!",
+    "zh-TW": "信使準則：未知區域需要謹慎前行！",
+    "zh-CN": "信使准则：未知区域需要谨慎前行！",
+    "ja": "トランスポーターの心得、その一！知らない場所では、慎重に進むこと！",
+    "ko": "전달자 업무 수칙 하나! 미지의 구역에서는 신중하게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Be extra careful! That enemy looks really dangerous.",
+    "zh-TW": "那裡的敵人好像很危險，要小心喔。",
+    "zh-CN": "那里的敌人好像很危险，要小心哦。",
+    "ja": "あっちにいる敵、ちょっと強そうだね……気をつけて。",
+    "ko": "저기 있는 적은 꽤 위험해 보여, 조심해야 해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Let's pack up these minerals!",
+    "zh-TW": "讓我們把這些礦物放進背包裡！",
+    "zh-CN": "让我们把这些矿物放进背包里！",
+    "ja": "全部、道具箱に入れておくね！",
+    "ko": "어서 이 광물들을 가방에 넣어놓자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "I'm here to help. Heehee.",
+    "zh-TW": "我來幫忙囉，嘻嘻。",
+    "zh-CN": "我来帮忙咯，嘻嘻。",
+    "ja": "ふふ、あたしも手伝うよ！",
+    "ko": "내가 도와줄게, 헤헤."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Wow! This is exactly what we need!",
+    "zh-TW": "哇！都是我們需要的東西！",
+    "zh-CN": "哇！都是我们需要的东西！",
+    "ja": "わぁ……ちょうど探してたものばっかりだね！",
+    "ko": "와! 전부다 우리한테 필요한 것들이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Heheh, caught it before it flew away.",
+    "zh-TW": "嘿嘿，還好沒有飛遠。",
+    "zh-CN": "嘿嘿，还好没有飞远。",
+    "ja": "ふふ、遠くに飛んでいっちゃう前でよかった。",
+    "ko": "헤헤, 멀리 날아가지 않아서 다행이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "We just opened up the way for future deliveries!",
+    "zh-TW": "這樣送信的道路將會暢通無阻！",
+    "zh-CN": "这下送信的道路将会畅通无阻！",
+    "ja": "これで手紙もスムーズに届けられるね。",
+    "ko": "이제는 편지를 마음껏 전달할 수 있겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Proper rest prepares us for a longer journey.",
+    "zh-TW": "休息是為了更好地出發。",
+    "zh-CN": "休整是为了更好地出发。",
+    "ja": "休むのも、大事な旅の準備なんだよね。",
+    "ko": "휴식은 더 멀리 나아가기 위해 꼭 필요한 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Try this. It should help!",
+    "zh-TW": "試試這個，能幫到你！",
+    "zh-CN": "试试这个，能帮到你！",
+    "ja": "これ、使ってみて！",
+    "ko": "자, 도움이 될 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Phooo... Feeling better already.",
+    "zh-TW": "呼……我感覺好一點了。",
+    "zh-CN": "呼……我感觉好一些了。",
+    "ja": "ふぅ……少し良くなってきた……",
+    "ko": "후... 이제 좀 나아졌어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Watch it! Don't get hurt!",
+    "zh-TW": "小心受傷，快閃開！",
+    "zh-CN": "小心受伤，快闪开！",
+    "ja": "危ない、ケガしちゃう！",
+    "ko": "조심해, 빨리 피해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "My body ... is feeling so heavy...",
+    "zh-TW": "感覺……身體好重……",
+    "zh-CN": "感觉……身体好重……",
+    "ja": "なんだか……身体が重いよ……",
+    "ko": "몸이... 너무 무거워..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "I wanna fly ... one last time...",
+    "zh-TW": "還想要……再一次飛起來……",
+    "zh-CN": "还想要……再一次飞起来……",
+    "ja": "もう一度……飛びたい……",
+    "ko": "다시 한번... 높이 날고 싶어..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Wow! You can actually do that?!",
+    "zh-TW": "哇，還可以這樣！",
+    "zh-CN": "哇哦，还可以这样！",
+    "ja": "わぁ、こんな方法もあるんだね！",
+    "ko": "와, 이렇게 할 수도 있구나!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Awesome! Can we do it again?",
+    "zh-TW": "太精彩了！我們可以再來一次嗎？",
+    "zh-CN": "太精彩了！我们可以再来一次吗？",
+    "ja": "すごいね！もう一回やってみてもいい？",
+    "ko": "너무 멋져! 다시 한번 해볼까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Heheh. You're too kind.",
+    "zh-TW": "嘿嘿，沒那麼厲害啦。",
+    "zh-CN": "嘿嘿，没那么厉害啦。",
+    "ja": "ふふ、大したことじゃないよ。",
+    "ko": "헤헤, 별거 아냐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "Let's keep going and finish this!",
+    "zh-TW": "我們就這樣繼續吧，一鼓作氣！",
+    "zh-CN": "我们就这样继续吧，一鼓作气！",
+    "ja": "うん、このまま一気に進もう！",
+    "ko": "지금 이대로, 한 번에 끝내자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "We'll end this fight easily!",
+    "zh-TW": "讓我們輕鬆地解決戰鬥！",
+    "zh-CN": "让我们轻松地解决战斗！",
+    "ja": "あっという間に片付けちゃうよ！",
+    "ko": "여유롭게 가볼까나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "And I was hoping you'd say that.",
+    "zh-TW": "就等你這句話啦！",
+    "zh-CN": "就等你这句话啦！",
+    "ja": "それ、待ってたんだ！",
+    "ko": "기다리고 있었다고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Heheh. I pulled it off, right?",
+    "zh-TW": "嘿嘿，剛才的表現還不錯吧？",
+    "zh-CN": "嘿嘿，刚才的表现还不错吧？",
+    "ja": "ふふ、さっきの動き、悪くなかったと思わない？",
+    "ko": "헤헤, 방금 나 좀 괜찮았지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "Best thing I've done today!",
+    "zh-TW": "這是今天最開心的事！",
+    "zh-CN": "这是今天最开心的事！",
+    "ja": "今日一番の「嬉しかったこと」になったよ！",
+    "ko": "오늘 하루 중에 가장 기쁜 일이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Yeah! We can now continue our journey.",
+    "zh-TW": "好耶，又可以上路了。",
+    "zh-CN": "好耶，又可以上路了。",
+    "ja": "うん、また旅に出られるね。",
+    "ko": "좋아, 이제 다시 길을 떠날 수 있겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "We made it to the end... And the difficulties were worth their while.",
+    "zh-TW": "我們堅持到了最後……嗯，艱辛的過程是值得的。",
+    "zh-CN": "我们坚持到了最后……嗯，艰辛的过程是值得的。",
+    "ja": "最後まで頑張ったこと……うん。大変だったけど、意味があるって思うんだ。",
+    "ko": "다들 마지막까지 잘 버텼어... 힘들었던 만큼 값진 승리야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "The road might be fraught with hardship, but we will start our journey again, and ensure a successful delivery.",
+    "zh-TW": "把一封信送到終點的旅途，或許會坎坷不平，但沒關係，我們會再次啟程。",
+    "zh-CN": "把一封信送到终点的旅途，或许会坎坷不平，但没关系，我们会再次启程。",
+    "ja": "手紙を届ける旅は、いつも順調とは限らない。大丈夫、またここから始めればいいんだから！",
+    "ko": "편지를 전달하는 여정은 아주 험난할 순 있지만... 그래도 괜찮아, 우린 다시 여정을 시작할 거니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Step aside!",
+    "zh-TW": "靠邊點！",
+    "zh-CN": "靠边点！",
+    "ja": "下がって！",
+    "ko": "저리 비켜!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Go!",
+    "zh-TW": "去吧！",
+    "zh-CN": "去吧！",
+    "ja": "いくよっ！",
+    "ko": "가라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Stick together, people!",
+    "zh-TW": "聚在一起！",
+    "zh-CN": "聚在一起！",
+    "ja": "集めるよ！",
+    "ko": "모여라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "You can't escape gravity!",
+    "zh-TW": "別想逃走！",
+    "zh-CN": "别想逃走！",
+    "ja": "逃がさない！",
+    "ko": "도망칠 생각 하지 마!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Better watch where you step!",
+    "zh-TW": "小心腳下喔！",
+    "zh-CN": "当心脚下哦！",
+    "ja": "足元に注意！",
+    "ko": "발밑 조심하라고~!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Gravity field ready!",
+    "zh-TW": "重力場就緒了喔！",
+    "zh-CN": "重力场就绪了哦！",
+    "ja": "重力場、準備完了！",
+    "ko": "중력장은 준비됐어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Who wants to float?",
+    "zh-TW": "有誰想飄起來嗎？",
+    "zh-CN": "有谁想飘起来吗？",
+    "ja": "ふわ～っとしたい人、いるかな？",
+    "ko": "둥둥~ 날아볼 사람?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Now, fly!",
+    "zh-TW": "飛吧！",
+    "zh-CN": "飞吧！",
+    "ja": "ひらり～っと！",
+    "ko": "날아라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Have fun floating!",
+    "zh-TW": "升起來！",
+    "zh-CN": "升起来！",
+    "ja": "ふわ～っと！",
+    "ko": "떠올라라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Surprise!",
+    "zh-TW": "來點驚喜！",
+    "zh-CN": "来点惊喜！",
+    "ja": "サプライズ、どう？",
+    "ko": "이런 건 어때?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "How about this?",
+    "zh-TW": "喜歡嗎？",
+    "zh-CN": "喜欢吗？",
+    "ja": "気に入ったかな？",
+    "ko": "마음에 들어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Let's flip the world!",
+    "zh-TW": "世界翻轉！",
+    "zh-CN": "世界翻转！",
+    "ja": "世界をひっくり返すよ！",
+    "ko": "세상을 뒤흔들겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Might of the land!",
+    "zh-TW": "感受大地的力量！",
+    "zh-CN": "感受大地的力量！",
+    "ja": "大地の力、味わってみない？",
+    "ko": "대지의 힘을 느껴봐!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0013_aglina_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Cozy up with gravity!",
+    "zh-TW": "傾倒在重力之下吧！",
+    "zh-CN": "倾倒在重力之下吧！",
+    "ja": "重力、見せてあげる！",
+    "ko": "중력의 무서움을 보여주지!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0013_aglina_1",
+   "topic": {
+    "en": "The Messenger's New Style",
+    "zh-TW": "信使的新裝",
+    "zh-CN": "信使的新装",
+    "ja": "トランスポーターの新しい服装",
+    "ko": "전달자의 의상"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Endminnnn, I need your advice.",
+      "zh-TW": "管理員，幫我參考一下吧。",
+      "zh-CN": "管理员，帮我出出主意吧。",
+      "ja": "管理人、ちょっと相談に乗ってもらえるかな？",
+      "ko": "관리자, 나 좀 도와줘."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Got 2 gowns, red and blue. Which one do you like more >.<",
+      "zh-TW": "紅色的禮服和藍色的禮服，你覺得哪一件更好看呢？",
+      "zh-CN": "红色的礼服和蓝色的礼服，你觉得哪一件更好看呢？",
+      "ja": "赤いドレスと青いドレス、どっちがかわいいと思う？",
+      "ko": "빨간색 드레스랑 파란색 드레스, 어떤 게 더 이쁜 것 같아?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I'd say the red one suits you more.",
+         "zh-TW": "潔爾佩塔的話，還是更適合紅色。",
+         "zh-CN": "洁尔佩塔的话，还是更适合红色。",
+         "ja": "ギルベルタなら、やっぱり赤が似合うと思う。",
+         "ko": "질베르타라면 역시 빨간색이 더 어울리지."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "UwU",
+         "zh-TW": "嘿嘿……",
+         "zh-CN": "嘿嘿……",
+         "ja": "えへへ……",
+         "ko": "헤헤..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I like the blue one.",
+         "zh-TW": "藍色看起來更好。",
+         "zh-CN": "蓝色看起来更好。",
+         "ja": "青のほうがいいかな。",
+         "ko": "파란색이 나을 것 같아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "Hmm, trying out something new isn't a bad idea.",
+         "zh-TW": "多嘗試一些風格是也不錯。",
+         "zh-CN": "多尝试一些风格倒也不错。",
+         "ja": "いろんなものを試してみるのも悪くないと思うよ。",
+         "ko": "다양한 스타일을 시도해 보는 것도 나쁘지 않지."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "I'll mark your choice, heh. But it's not abt picking for me this time.",
+      "zh-TW": "我記下管理員的答案了，不過這次不是幫我選啦。",
+      "zh-CN": "我记下管理员的选择了，不过这次不是替我选啦。",
+      "ja": "管理人の意見は、ちゃんとメモしておいたからね。でも、今回はあたしのじゃなくて……",
+      "ko": "관리자의 선택은 잘 기록해 둘게. 하지만 이번엔 나한테 골라주는 게 아니야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "It's actually for a fashion magazine survey. Whichever design gets the most votes will be released next season.",
+      "zh-TW": "這是一個時尚品牌的雜誌調查，選票最高的一方將會在下個季度作為商品推出。",
+      "zh-CN": "这是一个时尚品牌的杂志调研，选票最高的一方将会在下个季度推出商品版。",
+      "ja": "実は、雑誌のアンケートなんだ。票数の多いほうが、次のシーズンでブランドから商品化されるみたい。",
+      "ko": "한 패션 브랜드에서 잡지 설문을 하고 있거든. 득표수가 가장 높은 쪽이 다음 시즌 상품으로 출시될 예정이래."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "TBH, I like them both. Why can't they just release both!!!",
+      "zh-TW": "我覺得兩種都很好看啊，為什麼只能選一種呢……",
+      "zh-CN": "我觉得两种都很好看啊，为什么只能选一种呢……",
+      "ja": "どっちもすごくかわいくて……でも、1つしか選べないから……",
+      "ko": "난 둘 다 예쁜데... 왜 하나만 선택해야 하는 거야..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Maybe it's some kind of marketing trick. I've even seen \"pick one, the other gets taken off forever\"...",
+      "zh-TW": "也許是種行銷手段？聽說甚至有企業推出過商品二選一永久下架的方案……",
+      "zh-CN": "也许是种营销手段？听说甚至有企业推出过商品二选一永久下架的方案……",
+      "ja": "ハングリーマーケティングっていう方法かもしれない。2択にして、選ばれなかったほうを完全にお蔵入りにする……なんてことがあるって聞いたよ。",
+      "ko": "아마 일종의 마케팅 수법일지도 몰라. 예전에 어떤 회사는 아예 상품을 두 가지 중 하나만 남기고, 다른 하나는 영구적으로 단종시키는 방식을 쓴 적도 있다더라고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "That's such a waste of great designs... Perhaps I should just make one myself!",
+      "zh-TW": "真是可惜了這麼好的設計……嗯，不然我自己做一件吧！",
+      "zh-CN": "真是可惜了这么好的设计……嗯，要不我来自己做一件吧！",
+      "ja": "素敵なデザインなのに……もったいないな。うーん……それなら、自分で作ってみようかな？",
+      "ko": "아깝다, 이렇게 예쁜데... 음, 아니면 내가 직접 만들어볼까?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "It's hard to perfectly recreate the design from the magazine... I don't think I can get it 100% right, but I've got some new ideas I wanna try anyway.",
+      "zh-TW": "雖然完全復刻雜誌上的樣圖有點困難……不過，我還有一些新想法想嘗試一下。",
+      "zh-CN": "虽然完全复刻杂志上的例图有点困难……不过，我还有些新想法想尝试一下。",
+      "ja": "雑誌に載ってた通りに作るのはさすがに無理だけど……あたし、ちょっとアイディアもあって……",
+      "ko": "잡지에 나온 걸 똑같이 재현하는 건 어렵겠지만... 나름 새로 시도해 보고 싶은 아이디어도 있고..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Oh, I didn't know you could make gowns.",
+         "zh-TW": "潔爾佩塔還會製作禮服？",
+         "zh-CN": "洁尔佩塔还会制作礼服？",
+         "ja": "ギルベルタは、ドレスまで作れるの？",
+         "ko": "드레스도 만들 줄 알아?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "Yup yup. I'm only good with simple designs, so making a gown's a first for me.",
+         "zh-TW": "我只會一些簡單的設計，禮服還是第一次嘗試。",
+         "zh-CN": "我只会一些简单的设计，礼服还是第一次尝试。",
+         "ja": "全然、簡単なのが少しだけ……それに、ドレスは初めてだし。",
+         "ko": "엄청 간단한 거만 만들 줄 알아, 드레스는 나도 처음이야."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "If I end up messing it up... Let's pretend we never had this convo!",
+         "zh-TW": "所以有點擔心能不能做好，如果搞砸了，管理員就忘記這件事吧！",
+         "zh-CN": "所以有点担心能不能做好，如果搞砸了，管理员就忘记这件事吧！",
+         "ja": "うまくできるかは、自信ないかも。だから、失敗しちゃったら……管理人、この話、最初から全部なかったことにしてね。",
+         "ko": "잘할 수 있을지 좀 걱정되긴 하네. 만약 망치면... 그냥 없던 일로 해줘, 알았지?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Anything I can help with?",
+         "zh-TW": "有什麼是我能幫忙的嗎？",
+         "zh-CN": "有什么是我能帮上忙的吗？",
+         "ja": "何か手伝えることはあるかな。",
+         "ko": "내가 도와줄 만한 건 있어?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "I still need a bit of prep time, but I wanna hear your ideas first!",
+         "zh-TW": "準備工作還要很久欸。不過，我想先收集一些管理員的意見！",
+         "zh-CN": "准备工作还要很久呢。不过，我想收集管理员的一些意见！",
+         "ja": "少し準備に時間がかかりそうなんだけど、でも、管理人の意見は聞きたいんだ！",
+         "ko": "아직 준비할 게 많아서 시간이 좀 걸려. 일단은 관리자 의견을 좀 듣고 싶어!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "Do you think little decorative touches would make the gown prettier? And what colors should I pick? Ahhh, plz enlighten me!",
+         "zh-TW": "像一些點綴用的裝飾是否適合、顏色要怎麼搭配……我覺得管理員的看法很值得參考。",
+         "zh-CN": "像一些点缀用的装饰是否合适，颜色要怎么搭配……我觉得管理员的看法很值得参考。",
+         "ja": "アクセサリーのデコレーションとか、色の組み合わせとか……管理人のセンスが参考になると思うから。",
+         "ko": "장식은 어떤 게 어울릴지, 색은 어떻게 조합할지... 네 의견을 참고하면 좋을 것 같아."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Maybe I'll be creative and let my ideas run wild! Alright, I'll show you when it's done!",
+      "zh-TW": "等我把禮服做好，也會給管理員看看的！",
+      "zh-CN": "等我把礼服做好，会给管理员也看看的！",
+      "ja": "完成したら、管理人にも見せにいくからね。",
+      "ko": "드레스가 완성하면 제일 먼저 너한테 보여줄게!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Great! I can't wait to see it!",
+      "zh-TW": "好，我很期待！",
+      "zh-CN": "好，我很期待！",
+      "ja": "うん、楽しみにしているよ。",
+      "ko": "좋아, 기대하고 있을게!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0013_aglina_2",
+   "topic": {
+    "en": "The Messenger's Woes",
+    "zh-TW": "信使的煩惱",
+    "zh-CN": "信使的烦恼",
+    "ja": "トランスポーターの悩み",
+    "ko": "전달자의 고민"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Endmin, guess who's back! Okay, so sth tricky happened this morning... But dw! I got everything solved ;)",
+      "zh-TW": "我回來啦，管理員……早上遇到了一些令人為難的事……好在已經順利解決了！",
+      "zh-CN": "我回来啦，管理员……早上遇到了一些令人为难的事……好在已经顺利解决了！",
+      "ja": "ただいま、管理人……今朝、ちょっとトラブルがあったんだけど……ちゃんと解決できたんだ。",
+      "ko": "나 다녀왔어, 관리자... 사실 아침에 좀 곤란한 일을 겪었거든... 그래도 결국 무사히 다 해결됐어!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Oh, and I got you a little something. I'll give it to you in a sec.",
+      "zh-TW": "伴手禮我沒有忘記喔，等一下拿給管理員。",
+      "zh-CN": "伴手礼我没有忘记哦，等一下拿给管理员。",
+      "ja": "お土産ももちろん、買ってきたよ。後で渡しにいくね。",
+      "ko": "관리자한테 줄 선물도 챙겼어, 이따가 가져다줄게."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What happened that even you found tricky?",
+      "zh-TW": "發生什麼事了，會讓潔爾佩塔也左右為難？",
+      "zh-CN": "发生什么事了，会让洁尔佩塔也左右为难？",
+      "ja": "どうしたの？ギルベルタでも困るようなこと？",
+      "ko": "무슨 일이길래, 질베르타를 곤란하게 한 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "So I was delivering letters...",
+      "zh-TW": "其實是送信時遇到的事情。",
+      "zh-CN": "其实是送信时遇到的事情。",
+      "ja": "実は、配達の途中で……",
+      "ko": "사실 편지를 배송하던 중에 생긴 일인데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "I ran into an elderly couple who were arguing. They wouldn't let me go unless I told him who was right.",
+      "zh-TW": "我遇到了一對正在吵架的老人，他們拉著我不讓我走，硬要叫我評評理。",
+      "zh-CN": "我遇到了一对正在吵架的老人，他们拉着我不让走，非要让我评评理。",
+      "ja": "ケンカしてる老夫婦に会ったんだ。2人ともあたしの手を掴んで……話を聞いてほしいって、離してくれなくって。",
+      "ko": "어떤 어르신 두 분이 다투고 계셨거든, 그러더니 지나가는 날 붙잡고선 누가 잘못했는지 얘기를 들어달라는 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "They were blaming each other for losing their wedding keepsakes. They fought on and on, from morning to the afternoon!",
+      "zh-TW": "他們都責備對方弄丟了結婚時的紀念品，你一句我一句，從早上吵到了下午！",
+      "zh-CN": "他们都责备对方弄丢了结婚时的纪念品，你一句我一句，从早上吵到了下午！",
+      "ja": "結婚の記念品を失くしちゃったのは相手のせいなんだって。朝からずーっと、日が暮れるまでケンカして……",
+      "ko": "서로 결혼 기념품을 잃어버렸다고 탓하면서, 아침부터 오후까지 계속 싸우셨어!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Then they got tired so I finally had the chance to ask what rlly happened.",
+      "zh-TW": "直到他們吵不動了，我才有機會詢問原委。",
+      "zh-CN": "直到他们吵不动了，我才有机会询问原委。",
+      "ja": "やっと落ち着いてきたときに、事情を話してくれたんだけどね。",
+      "ko": "겨우 두 분이 지치실 때쯤 천천히 사정을 물어봤지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Turns out, they had each secretly sold their keepsakes to prepare new gifts for their 50th anniversary.",
+      "zh-TW": "原來，他們各自把紀念品賣掉了，偷偷準備了結婚五十週年的新禮物。",
+      "zh-CN": "原来，他们各自把纪念品卖掉了，偷偷准备了结婚五十周年的新礼物。",
+      "ja": "実は2人とも、内緒で自分の記念品を売って、新しい結婚50周年のプレゼントをこっそり用意してたの。",
+      "ko": "알고 보니, 두 분 다 원래 있던 기념품을 몰래 팔아서, 결혼 50주년 선물을 준비하고 계셨던 거였어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "So... I had to make up excuses for both sides that wouldn't upset anyone while keeping the truth hidden.",
+      "zh-TW": "結果變成……我需要替雙方編一些藉口，既不惹人生氣，也可以掩蓋真相。",
+      "zh-CN": "结果变成……我需要替双方编一些借口，既不惹人生气，也可以掩盖真相。",
+      "ja": "だから……ケンカは止めたいけど、本当のことは隠さないといけないから……なんて言うか、いろいろ考えながら説得しなくちゃいけなくて。",
+      "ko": "그래서 내가... 두 분 모두 기분 상하지 않으면서도, 적당히 둘러댈 핑곗거리를 만들어줘야 했지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That really does sound tricky...",
+      "zh-TW": "這真的是一件難辦的事……",
+      "zh-CN": "这确实是件难办的事……",
+      "ja": "それは、大変だったね……",
+      "ko": "정말 까다로운 일이었네..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Yeah! And guess what? We scrambled around for a loooong time but they both found out about the surprise. Then they jst laughed real hard and forgave each other.",
+      "zh-TW": "我們三個人忙了半天，最終還是暴露了。兩個人又好氣又好笑，不過都原諒了對方。",
+      "zh-CN": "我们三个人瞎忙活了好久，最终还是暴露了。两个人又气又笑，不过都原谅了对方。",
+      "ja": "結局、3人でいろいろやって……最後は、バレちゃったんだけど。2人とも、怒ったような、笑ってるような……とにかく、お互いを許すことができたんだ。",
+      "ko": "근데 우리 셋이서 그렇게 한참 동안 애를 썼지만, 결국은 들통나고 말았어. 두 분은 화가 나면서도 웃기셨는지, 서로를 용서하셨고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "It's really nice that they tried so hard. Even though it took forever, the time wasn't wasted. You can tell they rlly care about each other. True love wins <3",
+      "zh-TW": "他們都很為對方著想，結局好就是最好的！雖然耽誤了很久，但我覺得這些時間也沒有浪費。",
+      "zh-CN": "他们都很为对方着想呢，结局好就是最好的！虽然耽搁了很久，但我觉得这些时间也没有浪费。",
+      "ja": "きっと、お互いを思い合ってたから、ケンカになっちゃったんだよね。終わりよければ、すべて良し！時間はかかっても、無駄じゃなかったと思うんだ。",
+      "ko": "서로를 진심으로 생각하시는 게 느껴져서 마음이 따뜻해지더라고... 음! 결과가 좋았으니 그걸로 된 거야! 시간이 좀 걸렸지만, 전혀 아깝지 않았어."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You've got such a kind heart. Every time you come back from delivering letters, I can tell whether you ran into something good or bad.",
+         "zh-TW": "潔爾佩塔總是心繫他人，每次看你送信回來，就能知道是遇到了好事還是壞事。",
+         "zh-CN": "洁尔佩塔总是心系他人，每次看你送信回来，就能知道是遇到了好事还是坏事。",
+         "ja": "ギルベルタはいつも、皆のことをよく考えているからね。配達から戻ってきたときの顔で、良いことがあったのか、悪いことがあったのか、すぐわかるよ。",
+         "ko": "역시 질베르타는 늘 남을 먼저 생각하네. 그거 알아? 네가 일을 끝내고 돌아올 때마다, 표정만 봐도 무슨 일이 있었는지 알 수 있거든."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "That's cuz ... there are always so many things that make you worry.",
+         "zh-TW": "因為……總是有很多事情讓人放不下心嘛。",
+         "zh-CN": "因为……总有很多事情让人放不下心嘛。",
+         "ja": "だって……気になることって、たくさんあって……",
+         "ko": "헤헤... 늘 마음이 쓰이니까 그러지."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "If they smile when they get the letter, I feel it too. But if they look sad, my mood sinks right along with theirs.",
+         "zh-TW": "如果收信人的心情是好的，我也會感覺很開心，如果收信人流露出悲傷的情緒，我也會覺得難過。",
+         "zh-CN": "如果收信人的心情是好的，我也会感觉很开心，如果收件人流露出悲伤的情绪，我也会觉得难过。",
+         "ja": "受け取る人が嬉しそうだったら、あたしも嬉しくなる。悲しそうだったら、一緒に悲しみを分かち合う……",
+         "ko": "편지를 받는 사람이 기뻐하면 나도 행복하고, 슬퍼하는 기색을 보이면 나도 같이 마음이 무거워져..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "I jst wish every letter I deliver brings a little happiness...",
+         "zh-TW": "我真的希望每一個從我手中接到信件的人，都能獲得幸福……",
+         "zh-CN": "我真心希望每一个从我手中接到信件的人，都能获得幸福……",
+         "ja": "あたしの手から手紙を受け取った人が、みんな幸せになれますようにって、本気で思ってるんだ。",
+         "ko": "난 진심으로 편지를 받는 모든 사람이 행복해졌으면 좋겠어..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "A good ending is the best ending! I could tell nothing bad had happened from your expression.",
+         "zh-TW": "好在結局是好的，潔爾佩塔回來時的表情就說明了一切。",
+         "zh-CN": "好在结局是好的，洁尔佩塔回来时的表情就说明了一切。",
+         "ja": "いい結末になったなら、よかったよ。帰ってきたときの顔をみれば、すぐわかる。",
+         "ko": "결과가 좋아서 다행이야. 사실 돌아올 때 표정만 봐도 알 수 있었어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "Rlly? Hehe...",
+         "zh-TW": "是嗎？嘿嘿……",
+         "zh-CN": "是吗？嘿嘿……",
+         "ja": "そうかな？えへへ……",
+         "ko": "그래? 헤헤..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "But, well ... not every ending is happy...",
+         "zh-TW": "不過，也不是每一次都是好的結局……",
+         "zh-CN": "不过，也不是每一次都是好的结局……",
+         "ja": "でも、いつもいい結末になるとは、限らないから……",
+         "ko": "물론 언제나 결과가 좋기만 한 건 아니야..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "A lot of the time, all I can do is stand by and watch. That's what being a Messenger is like.",
+         "zh-TW": "但這就是信使的工作，很多時候，我都只能扮演一個旁觀者。",
+         "zh-CN": "但这就是信使的工作，很多时候，我都只能扮演一个旁观者。",
+         "ja": "それが、トランスポーターの仕事。あたしは、側で見てることしかできない……",
+         "ko": "하지만 그게 또 전달자의 일이기도 해. 나는 그냥 곁에서 지켜보는 사람일 뿐이지."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Come to think of it ... do I rlly wear my feelings on my face?",
+      "zh-TW": "話說回來……我真的會把心情都寫在臉上嗎？",
+      "zh-CN": "话说回来……我真的会把心情都写在脸上吗？",
+      "ja": "でも……あたしって、そんなに顔に出ちゃってるかな？",
+      "ko": "근데... 나 진짜 얼굴에 다 드러나는 편이야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Uh-huh.",
+      "zh-TW": "好像是的。",
+      "zh-CN": "好像是的。",
+      "ja": "たぶん……",
+      "ko": "그런 것 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Oh...",
+      "zh-TW": "啊……",
+      "zh-CN": "啊……",
+      "ja": "そっか……",
+      "ko": "아..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "There are other ways to tell. For example, you get extra desserts when you're upset.",
+      "zh-TW": "還有很多判斷方法，比如潔爾佩塔多點了很多甜食，可能就是遇到了煩心事？",
+      "zh-CN": "还有很多判断方法，比如洁尔佩塔多点了很多甜食，可能就是遇到了烦心事？",
+      "ja": "他にもあるよ。例えば、甘いものをたくさん頼んでいたら、嫌なことがあったかもしれないとか。",
+      "ko": "알아챌 수 있는 방법은 많아. 예를 들어, 평소보다 단 걸 많이 먹는 날이면, 아마 속상한 일이 있었을 거라고 추측할 수 있지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Well... T_T Desserts are a great pick-me-up...",
+      "zh-TW": "那個是……嗚……碰到難過的事，就會讓人想吃東西嘛……",
+      "zh-CN": "那个是……呜……碰到难受的事，就会让人想吃东西嘛……",
+      "ja": "それは……つい、ちょっとつらいことがあったときに、食べたくなっちゃうんだ……",
+      "ko": "그건... 웅... 맞아, 기분이 안 좋으면 괜히 단 게 먹고 싶어져서..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Gotta manage my expressions better from now on!",
+      "zh-TW": "我以後要努力，多注意表情管理！",
+      "zh-CN": "我以后要努力，多注意表情管理！",
+      "ja": "表情に出ないように、気をつけるね！",
+      "ko": "앞으로는 표정 관리 더 열심히 해야겠어!"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "It's not sth you have to fix. You are great the way you are.",
+         "zh-TW": "我覺得這並不是一種缺點，不需要為此做出改變。",
+         "zh-CN": "我觉得这并不是一种缺点，不需要为此做出改变。",
+         "ja": "これは、君の欠点じゃないと思う。だから、そのままでいいよ。",
+         "ko": "그건 단점이 아니야. 전혀 바꿀 필요 없어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Just be yourself. If anything comes up and you want to talk, come to me, just like today.",
+         "zh-TW": "以後遇到各式各樣的事情，也可以像今天這樣，和我聊一聊？",
+         "zh-CN": "以后遇到各种各样的事，也可以像今天这样，和我聊一聊？",
+         "ja": "これからも何かあったら、いつでも今日みたいに話してくれればいい。",
+         "ko": "앞으로도 이런저런 일이 있으면, 오늘처럼 나한테 얘기해 주면 돼."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "After all, we all value the Gilberta we know now.",
+         "zh-TW": "現在這樣才是我們熟悉的潔爾佩塔。",
+         "zh-CN": "现在这样才是我们熟悉的洁尔佩塔。",
+         "ja": "ギルベルタは、今のままでいいんだ。",
+         "ko": "이래야 내가 아는 질베르타지. 전혀 바꿀 필요 없어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Just be yourself. If anything comes up and you want to talk, come to me, just like today.",
+         "zh-TW": "以後遇到各式各樣的事情，也可以像今天這樣，來和我聊一聊的。",
+         "zh-CN": "以后遇到各种各样的事，也可以像今天这样，来和我聊一聊的。",
+         "ja": "これからも何かあったら、いつでも今日みたいに話してくれていい。",
+         "ko": "앞으로도 이런저런 일이 있으면, 오늘처럼 나한테 얘기해 주면 돼."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Oh... I might end up bothering you a lot, Endmin ;)",
+      "zh-TW": "那……我可能會經常打擾管理員了。",
+      "zh-CN": "那……我可能会经常打扰管理员了。",
+      "ja": "そんなの……じゃあ、管理人にもっと甘えてもいいってことだよね？",
+      "ko": "그럼... 앞으로 진짜 관리자를 많이 귀찮게 할지도 몰라."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "But hey, it's you who said it, so don't call me annoying if I talk too much.",
+      "zh-TW": "這是管理員自己說的，不要覺得我吵喔。",
+      "zh-CN": "这可是管理员自己说的，不要觉得我吵哦。",
+      "ja": "管理人が言ったんだよ！うるさいって思っても、止められないからね。",
+      "ko": "네가 먼저 그렇게 하라고 한 거니까, 나중에 귀찮아하기 없기다?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I promise I won't.",
+      "zh-TW": "儘管來吧。",
+      "zh-CN": "尽管来吧。",
+      "ja": "いつでもいいよ",
+      "ko": "얼마든지 환영이야."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0013_aglina_3",
+   "topic": {
+    "en": "Until The Rain Passes",
+    "zh-TW": "等雨停",
+    "zh-CN": "等雨停",
+    "ja": "雨がやむまで",
+    "ko": "비가 멈춘 순간"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Endmin, have you ever seen blue rain?",
+      "zh-TW": "管理員，你看過藍色的雨嗎？",
+      "zh-CN": "管理员，你看过蓝色的雨吗？",
+      "ja": "管理人、青い雨って見たことある？",
+      "ko": "관리자, 혹시 파란 비 본 적 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "The raindrops are like tiny sparkling crystals! When they float in the air, it's like stepping into a dream.",
+      "zh-TW": "看起來像是水晶。當藍色水滴懸停在空中，就像夢境一樣。",
+      "zh-CN": "看起来像是水晶。当蓝色水滴悬停在空中，就像梦境一样。",
+      "ja": "まるで、水晶みたいな雨……青い雫が空に浮かんで、夢の中みたいな……",
+      "ko": "크리스털처럼 생겨서, 파란 빗방울이 공중에 멈춰 있으면, 꼭 꿈속 세상 같거든."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Blue rain?",
+         "zh-TW": "藍色的雨？",
+         "zh-CN": "蓝色的雨？",
+         "ja": "青い雨？",
+         "ko": "파란 비?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "Yeah, it's rare. Sometimes it appears after heavy rain and thunder.",
+         "zh-TW": "嗯，是一種罕見的現象，有時候會在暴雨和雷鳴之後看到。",
+         "zh-CN": "嗯，是一种罕见的现象，有时候会在暴雨和雷鸣之后看到。",
+         "ja": "うん、大雨とか雷のあとに見られる、珍しい現象なんだよ。",
+         "ko": "응, 아주 드물게 나타나는 현상인데, 가끔 폭우나 천둥이 지나간 뒤에 볼 수 있어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "But even though it looks beautiful, it can actually be bad for crops... Sometimes it comes from plant debris, sometimes from pollutants...",
+         "zh-TW": "不過，這些雨雖然好看，卻會對農作物帶來不好的影響……它們有時候來自植物的碎屑，有時候來自汙染物……",
+         "zh-CN": "不过，这些雨虽然好看，却会对农作物带来不好的影响……它们有时候来自植物的碎屑，有时候来自污染物……",
+         "ja": "すごく綺麗なんだけど、作物にはあまり良くないみたいで……植物の成分とか、汚染物質が混ざってることもあるみたい。",
+         "ko": "예쁘긴 하지만 농작물에는 좋지 않은 영향을 주기도 해... 파란 비는 가끔 식물의 파편에서 올 때도 있고, 또 가끔은 오염물에서 비롯되기도 하거든..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "And sometimes the wind blows the rain clouds far away.",
+         "zh-TW": "有時候也會因為風，將雨雲吹到很遠的地方。",
+         "zh-CN": "有时候也会因为风，将雨云吹到很远的地方。",
+         "ja": "風で、雨雲が遠くまで流されることもあるって。",
+         "ko": "또 바람을 따라 비구름이 멀리 흘러가기도 하고."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Float in the air... Did you do that with your Arts?",
+         "zh-TW": "懸停……是因為你的法術嗎？",
+         "zh-CN": "悬停……是因为你的法术吗？",
+         "ja": "空に浮かぶ……って、君のアーツ？",
+         "ko": "공중에 멈춰 있는 건... 네 아츠 때문이야?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "Mmhmm. Just a little control over the gravity around me, and the raindrops can float in the air. Simple.",
+         "zh-TW": "嗯，只要稍微控制一下周圍的重力，就能讓雨水停在空中。",
+         "zh-CN": "嗯，只要稍微控制一下周围的重力，就能让雨水停在空中。",
+         "ja": "うん、ちょっとだけ重力を操れば、雨を空に浮かべておけるんだよ。",
+         "ko": "맞아, 주변의 중력을 살짝 조절하기만 하면, 빗방울을 공중에 멈춰 있게 할 수 있어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "That's how I \"pause\" time.",
+         "zh-TW": "那種時候，就會感覺時間像是靜止了一樣。",
+         "zh-CN": "那种时候，就会感觉时间像是静止了一样。",
+         "ja": "そうすると、時間が止まったみたいに感じるんだ。",
+         "ko": "그럴 때면 시간이 멈춘 것처럼 느껴져."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Gilberta",
+         "zh-TW": "潔爾佩塔",
+         "zh-CN": "洁尔佩塔",
+         "ja": "ギルベルタ",
+         "ko": "질베르타"
+        },
+        "text": {
+         "en": "The only hint that the world keeps moving is the sound of rain far away.",
+         "zh-TW": "只有遠處的雨聲會提醒你一切仍在繼續。",
+         "zh-CN": "只有远处的雨声会提醒你一切仍在照旧。",
+         "ja": "ただ、遠くから聞こえる雨の音だけが、時の流れを教えてくれる……",
+         "ko": "멀리서 들려오는 빗소리만이 모든 게 여전히 흘러가고 있음을 알려주지."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Why bring this up?",
+      "zh-TW": "為什麼突然提到這個？",
+      "zh-CN": "为什么突然提到这个？",
+      "ja": "どうして急に、その話をしたの？",
+      "ko": "갑자기 왜 이런 얘길 꺼내는 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Well... weather's a Messenger's frenemy. On the road, you see all sorts of magical and pretty stuff.",
+      "zh-TW": "這個嘛……天氣是信使的朋友，也是信使的敵人。旅途中總會遇到各式各樣神奇但美麗的景象。",
+      "zh-CN": "这个嘛……天气是信使的朋友，也是信使的敌人。旅途中总会遇到各种各样神奇但美丽的景象。",
+      "ja": "あのね……トランスポーターにとって、天気は友だちでも、敵でもある。旅をしていると、不思議だけど美しい景色にもたくさん出会える。",
+      "ko": "음... 날씨는 전달자의 친구이자 적이거든. 그래서 여행길엔 늘 신비롭고도 아름다운 광경을 마주하게 돼."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "No matter how hard I try, I can't stop all the rain. Those scenes vanish in a flash and can only be captured in my memory.",
+      "zh-TW": "不管我怎麼努力，也無法停住全部的雨，那些景色稍縱即逝，只能在記憶裡定格。",
+      "zh-CN": "不管我怎么努力，也无法停住全部的雨，那些景色稍纵即逝，只能在记忆里定格。",
+      "ja": "どんなに頑張ったとしても、全部の雨を止めることはできない……どんな景色も一瞬で消えて、記憶の中にしか残らない……",
+      "ko": "내가 아무리 애써도 모든 비를 멈출 순 없더라고. 그 풍경들은 눈 깜짝할 사이에 사라져 버려서, 기억 속에 새길 수밖에 없지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Since I can pause the rain around me, I wanted to share that special scene with you ... even just through words. Have you seen the world after the rain? It's like stepping into a brand-new world.",
+      "zh-TW": "但，至少我可以停住身邊的雨，所以……我和管理員一起分享這些體驗，當雨過天晴的時候，世界就會變成另外一幅樣子。",
+      "zh-CN": "但，至少我可以停住身边的雨，所以……我和管理员一起分享这些体验，当雨过天晴的时候，世界就会变成另外一幅样子。",
+      "ja": "でも、自分の周りの雨なら、止められるから。管理人と一緒に、同じ瞬間を見られるから……雨が上がれば、世界は全然違って見えるんだよ。",
+      "ko": "하지만, 적어도 내 주변의 빗방울은 멈출 수 있으니까... 꼭 관리자랑 함께 그 순간들을 나누고 싶어. 비가 그치고 나면, 완전히 다른 모습이 될 세상을 말이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I'd love to see raindrops floating in the air.",
+      "zh-TW": "我也想看看懸停的雨。",
+      "zh-CN": "我也想看看悬停的雨。",
+      "ja": "空に浮かぶ雨、見てみたいな。",
+      "ko": "나도 멈춘 빗방울을 보고 싶어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Sure. We can stroll through the paused rain ... or maybe just sit and watch snowflakes form.",
+      "zh-TW": "嗯，我們可以在停滯的雨中漫步，看著雪片凝結的瞬間。",
+      "zh-CN": "嗯，我们可以在停滞的雨中漫步，看着雪片凝结的瞬间。",
+      "ja": "うん！一緒に、雨の粒の中を歩こう。雫が雪の結晶になる瞬間も見ながら……",
+      "ko": "응, 우리 같이 멈춘 빗속을 걷고, 눈송이가 얼어붙는 순간을 지켜보는 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "We can go wherever you want, Endmin!",
+      "zh-TW": "管理員，只要和我一起，我們就可以去任何地方！",
+      "zh-CN": "管理员，只要和我一起，我们就可以去任何地方！",
+      "ja": "管理人。あたしと一緒なら……どこにだって行けるんだよ！",
+      "ko": "관리자, 우리 둘이 함께라면 어디든 갈 수 있어!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Through delivering letters, I wanna keep all those tiny, easily forgotten moments in memory.",
+      "zh-TW": "我想透過傳遞信件，把那些容易丟掉的、容易遺忘的點點滴滴，統統刻印在腦海裡。",
+      "zh-CN": "我想通过传递信件，把那些容易丢掉的，容易遗忘的点点滴滴，统统刻印在脑海里。",
+      "ja": "あたしね、手紙を届けるときに……忘れられちゃいそうな、小さな瞬間も、全部刻んでおきたいって思うんだ。",
+      "ko": "난 편지를 전하면서, 쉽게 지나치고 잊혀지는 순간들을 마음속에 새기고 싶어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Hehe, that's also the reason I wanted to be a Messenger!",
+      "zh-TW": "這也是我，仍想成為一名信使的理由！",
+      "zh-CN": "这也是我，仍想成为一名信使的理由！",
+      "ja": "それが、あたしがずっとトランスポーターでいたい理由！",
+      "ko": "그게 내가 여전히 전달자로 살고 싶은 이유기도 해!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Am I a part of those moments too?",
+      "zh-TW": "我也是那些瞬間的一部分嗎？",
+      "zh-CN": "我也是那些瞬间的一部分吗？",
+      "ja": "その瞬間の一部になれているといいけど。",
+      "ko": "나도 그 순간들의 일부일까?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Hehe, yes and no. You're different.",
+      "zh-TW": "管理員的話……嘿嘿，稍微還有點不一樣。",
+      "zh-CN": "管理员的话……嘿嘿，稍微还有点不一样。",
+      "ja": "管理人は……えへへ、それだけじゃちょっと足りないかも。",
+      "ko": "관리자는... 헤헤, 조금 달라."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "I just want you to be in all of my moments.",
+      "zh-TW": "我希望每一個瞬間裡，都可以有管理員的身影。",
+      "zh-CN": "我希望每一个瞬间里，都能有着管理员的身影。",
+      "ja": "どんな瞬間にも、管理人がいてほしいから。",
+      "ko": "난 모든 순간을 너와 함께하고 싶거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Nooo, I mean ... there are sooo many places we can go! So many fun things to do!",
+      "zh-TW": "不……我的意思是……我們可以去很多地方，嗯！可以一起去很多有趣的地方！",
+      "zh-CN": "不……我的意思是……我们可以去很多地方，嗯！可以一起去很多有意思的地方！",
+      "ja": "あ、違うよ！あのね、一緒に行きたい場所はまだまだあるし……うん、面白い場所も！たくさんあって……",
+      "ko": "아, 아니... 내 말은... 같이 여러 곳을 가볼 수 있다고, 응! 재미있는 곳들이 많으니까!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "That's right, there are way toooo many. I don't even know where to start. Haha!",
+      "zh-TW": "對，還有很多好玩的事喔，哈哈。一下子都不知道從哪裡開始說起。",
+      "zh-CN": "对，还有很多好玩的事呢，哈哈。一时间都不知道从哪儿说起才好呢。",
+      "ja": "楽しいこと、もっともっとあるんだよ。ふふ、どこから話したらいいかな？",
+      "ko": "그래, 재미있는 일도 엄청 많을 거고, 하하. 어디서부터 얘기해야 할지 모르겠네..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Gilberta",
+      "zh-TW": "潔爾佩塔",
+      "zh-CN": "洁尔佩塔",
+      "ja": "ギルベルタ",
+      "ko": "질베르타"
+     },
+     "text": {
+      "en": "Anyway, I take this as a promise! Wait for my msg, Endmin!",
+      "zh-TW": "總之，我們約好了！管理員，等我的消息喔！",
+      "zh-CN": "总之，我们约好了！管理员，等我的消息哦！",
+      "ja": "とにかく、約束！管理人、楽しみにしててね。",
+      "ko": "어쨌든, 약속한 거야? 관리자, 내 소식 기다려줘!"
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 3
+}

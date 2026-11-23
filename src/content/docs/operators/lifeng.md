@@ -49,6 +49,8 @@ sources:
 
 Lifeng is a Wuling City native and spear fighter trained by Da Pan who currently interns in Endfield's Specialist Tech Division to grow strong enough to protect his home.
 
+Files, voice lines and chats: [Lifeng's file](/story/lifeng/).
+
 ## How to obtain
 
 Lifeng has no rate-up banner. Five standard 6-star operators are in the pool of Basic Headhunting and of every Chartered Headhunting banner: Ember, Lifeng, Ardelia, Last Rite and Pogranichnik.

@@ -1,0 +1,1628 @@
+{
+ "slug": "yvonne",
+ "gameId": "chr_0017_yvonne",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Yvonne \nGENDER: Female \nAUTHENTICATION: Endfield Industries \nDOB: May 9 \nRACE: Vouivre \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Standard \nCOMBAT SKILL: Normal \nTACTICAL ACUMEN: Standard \nORIGINIUM ARTS ASSIMILATION: Excellent",
+    "zh-TW": "【代號】伊馮\n【性別】女\n【身分認證】終末地工業\n【生日】5月9日\n【種族】瓦伊凡\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：標準\n作戰技巧：普通\n戰術規劃：標準\n源石技藝適應性：優良",
+    "zh-CN": "【代号】伊冯\n【性别】女\n【身份认证】终末地工业\n【生日】5月9日\n【种族】瓦伊凡\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：标准\n作战技巧：普通\n战术规划：标准\n源石技艺适应性：优良",
+    "ja": "【コードネーム】イヴォンヌ\n【性別】女\n【身分証明】エンドフィールド工業\n【誕生日】5月9日\n【種族】ヴイーヴル\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：標準\n戦闘技術：普通\n戦術立案：標準\nアーツ適性：優秀",
+    "ko": "[코드네임] 이본\n[성별] 여\n[신분 인증] 엔드필드 공업\n[생일] 5월 9일\n[종족] 와이번\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 보통\n전술 계획: 표준\n오리지늄 아츠 적응성: 우수"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Yvonne was recommended by Crowe of UWST to Andre. She joined the Specialist Tech Division of Endfield Industries via the \"Specialized Talent Recruitment\" channel. Yvonne is now leading several research projects on the Æther, the Blight, and the Trans-Æther Tranquilizer-Automata associated with the previous two. Given her outstanding scientific research capabilities, she has received bonus grants and resources to support her independent research. \n\nDuring background checks, many have described Yvonne as an engineer with an obvious streak of \"rebellion\". However, I cannot be more opposed to this evaluation. And no, this has nothing to do with the laser stickers she adhered upon my chassis. \nIn my opinion, the core issue rests in the inability of most individuals to keep up with her rapid train of thought. The end result would appear that she has teamwork issues. Also, she is rather confident in her personal style that she constructed for herself after years of scientific research... Her violations were never deliberate. Instead, they should be considered instinctive reactions when someone or something attempts to interfere with her way of thinking or self-expression. \nSuch personality quirks withstood the influences of the environment and many would often regard this as Yvonne's rebel spirit. However, her brightly colored outfits, carefree graffiti, and complex yet extremely practical chassis designs are modes of expression that she has consistently maintained — in a world filled with rules and boundaries, those who remain true to themselves would seem rather out of place. Fortunately, Endfield is not a place dictated by inflexible regulations. Our vision is to change this world, instead of sustaining its current existence by sticking to the law. \nMoreover, when our people described Yvonne as a \"rebel\", they did so with a smile. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員伊馮，經聯盟工團的克勞推薦給安德烈，以「特殊人才引進」的管道被招募進終末地工業的特種技術部門，現負責對超域、侵蝕及其相關裝置「全頻超域抑穩自動機」的研究。因其出色的科學研究能力，額外劃撥資源幫助其獨立研究。\n\n在進行背景調查時，很多人都表示伊馮是一位相當「叛逆」的工程師，但我並不完全認同這一評價。不，跟她幫我貼的鐳射貼紙無關。\n在我看來，最核心的原因是大部分人無法跟上她的思考速度，顯得她在協作方面有些問題。其次，她對長年研究中形成的個人風格非常自信……並非蓄意違抗規範，而是本能地抗拒對她思考方式與表達路徑的干涉。\n這份難以被環境塑形的特質很容易被認為是叛逆。但實際上，光鮮的穿著、肆意的塗鴉和那些極繁卻又非常實用的機械外形設計，都是她貫徹自我的表現——周圍充滿條條框框時，任何堅持自我的人都會顯得格格不入。幸運的是，終末地並沒有僵化的教條，我們的目標本就是改造這個世界，而非循規蹈矩地維持它。\n更何況，所有人說她「叛逆」的時候，臉上都帶著笑。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员伊冯，经联盟工团的克劳推荐给安德烈，以“特殊人才引进”的渠道被招募进终末地工业的特种技术部门，现负责对超域、侵蚀及其相关装置“全频超域抑稳自动机”的研究。因其出色的科研能力，额外划拨资源帮助其独立研究。\n\n在进行背景调研时，很多人都表示伊冯是一位相当“叛逆”的工程师，但我并不完全认同这一评价。不，与她给我贴的镭射贴纸无关。\n在我看来，最核心的原因是大部分人无法跟上她的思考速度，显得她在协作方面有些问题。其次，她对长年研究中形成的个人风格相当自信……并非蓄意违抗规范，而是本能地抗拒对她思考方式与表达路径的干涉。\n这份难以被环境塑形的特质很容易被认为是叛逆。但实际上，光鲜的穿着、肆意的涂鸦、那些极繁却又非常实用的机械外形设计，都是她贯彻自我的表现——周围充满条条框框时，任何坚持自我的人都会显得格格不入。幸运的是，终末地并没有僵化的教条，我们的目标本就是改造这个世界，而非循规蹈矩地维持它。\n更何况，所有人说她“叛逆”的时候，脸上都带着笑。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "イヴォンヌは工業団連盟クロウの推薦を受け、アンドレイを経由して「特殊人材募集」ルートでエンドフィールド特殊技術部へと採用された。現在は超域、侵蝕および関連機器である「全周波数超域安定化自動機械」の研究を担当している。その卓越した科学研究能力を高く評価され、彼女の単独研究には多大な支援が行われている。\n\n「入職前調査では、イヴォンヌさんについて『反逆的なエンジニア』と評する声が多く聞かれました。私はその評価に賛同しているわけではありません。ええ、もちろん彼女からホログラムステッカーをもらったこととは無関係ですが。」\n「私の見立てでは、多くの人が彼女の思考速度に追いつけないことがその本質であり、結果として、協調性に欠けているように見えてしまったのでしょう。また、彼女は長年の研究を通じて培った独自の方法に強い自信を抱いており、意図的に規則に背いているのではなく、自身の思考や表現への干渉を、本能的に拒んでいるのだと思います。」\n「環境に左右されにくいという性質は、『反逆』と受け取られがちなものです。しかし実際には、彼女の鮮やかな服装、自由奔放な落書き、そして複雑でありながら実用性に富んだ機械設計――それらすべてが、彼女が自己を貫いている証です。あれこれ制約に満ちている場所では、自分の信念を持つほど、場違いに見えてしまうものですから。幸いなことに、エンドフィールドには堅苦しいルールはありません。私たちが目指しているのは、この世の変革であり、ただの現状維持ではないのです。」\n「それに、彼女を『反逆的』と評する人々は、皆どこか楽しそうに笑っていたのですから。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 이본, 연맹 공단의 크로가 안드레에게 추천했으며, '특수 인재 영입' 경로를 통해 엔드필드 공업의 특수 기술부에 채용되었다. 현재는 초자연, 침식 및 관련 장치인 '전체 주파수 초자연 제어 자율 기계' 연구를 담당하고 있다. 뛰어난 과학 연구 능력을 인정받아, 그녀의 독립적인 연구를 위한 자원도 추가로 배정되었다.\n\n배경 조사를 진행하는 과정에서, 많은 사람들이 이본을 상당히 '반항적인' 공학자라고 평가하지만, 나는 그 평가에 전적으로 동의하진 않는다. 절대 그녀가 내게 붙여준 레이저 스티커 때문은 아니다.\n내가 보기에 이런 평가가 생긴 건, 대부분의 사람이 그녀의 사고 속도를 따라잡지 못해 협력 과정에서 문제가 있는 것처럼 보였기 때문이다. 또한, 그녀는 오랜 연구 속에서 형성된 자신만의 스타일에 상당한 자신감을 갖고 있다. 고의로 규범을 어기려는 게 아니라, 자신의 사고방식과 표현에 가해지는 간섭을 본능적으로 거부하는 것에 가깝다.\n이처럼 환경에 쉽게 동화되지 않는 성향은 흔히 반항적으로 비치기 쉽다. 하지만 이본의 화려한 옷차림, 자유분방한 낙서, 극도로 복잡하면서도 실용적인 기계 디자인은 모두 그녀가 자기 자신을 관철하는 방식이다. 주변이 규정과 제약으로 가득할 때, 자신을 지켜내려는 사람은 누구든 이질적으로 보이게 마련이다. 다행히도, 엔드필드는 딱딱한 규칙에 얽매이지 않는다. 우리의 목표는 이 세계를 유지하는 것이 아니라 바꾸어내는 것이다.\n그리고 무엇보다도, 사람들이 그녀를 '반항적'이라 말할 때, 모두 웃음을 지으며 그렇게 말한다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "DOCUMENT: List of lost items \nA laser jelly bag — printed with a big friendly smiley graffiti, with an inner pocket containing scented beads. \nA bottle of nail varnish — containing an environment-sensitive pigment that changes color according to the concentrations of ambient Æther. \nA children's toy — constructed from nuts, bolts, gears, axles, and other pieces of hardware. It resembles an oddly familiar hexagonal structure and is furnished with a brightly colored coating. \nA set of memorial laser cards — this appears to be a special reward for the winners of the 1st Talos-II Bastion Defense. The back of the cards feature the portrait of a Vouivre. \nA miniature Æther counter — this device has the shape of a necklace. It is furnished with not-yet-released algorithms that grant it far higher sensitivity than existing competition on the market. \nHalf a box of cream puffs (spicy buckflower flavor) — the most popular snack on the market with a rather peculiar taste (NOTE: Half a box of the same cream puffs was seen on Supervisor Perlica's desk). \nA set of Good Engineer screwdrivers — special cherry pink edition. The user has kept it well-maintained and rust-free. \nMonthly MARTHE — the latest issue was just being sold today. This fashion magazine introduces the latest and trendiest outfits of Talos-II (About two weeks ago, I think I saw Yvonne wearing the outfit featured on that magazine cover... If she's always ahead of the trend, can it be that she's the legendary Shadow Designer?) \nMESSAGE: Yvonne, I know that testing the prototype is important, but please claim your lost items.",
+    "zh-TW": "【失物招領清單】\n一個鐳射果凍手提袋——外部印著燦爛笑臉塗鴉，內袋放著香薰的珠子。\n一個指甲油瓶子——內部裝著會根據超域能量濃度改變顏色的環境感應塗料。\n一件兒童玩具——用螺帽、齒輪、軸承等五金零件組裝而成，外形為有點眼熟的六邊形結構，塗裝非常豔麗。\n一組紀念鐳射卡——似乎是為首屆塔衛二「堡壘守禦」得主專門訂製的獎勵，背面刻著一位瓦伊凡的頭像。\n迷你超域讀數偵測設備——外表像是一根項鍊。因輸入了尚未發表的公式，靈敏度比市面上的同類產品更高。\n半盒蕎花風味熱辣口感顆粒泡芙——目前最流行的甜點，味道非常微妙。（早上看到佩麗卡監督的桌子上還有半盒。）\n「好工程師」螺絲起子組合——櫻花粉訂製款。被使用者保養得很好，沒有任何生鏽痕跡。\n《MARTHE月刊》——今天發售的最新一期，介紹了塔衛二時下最潮流的穿搭。（兩週前似乎看到伊馮穿著封面上的這套時裝……她好像總是先於潮流，難道她真的是那個傳說中的影子設計師？）\n留言：伊馮，我知道原型機的實驗很重要，但請快點來拿遺失物品！",
+    "zh-CN": "【失物招领清单】\n一个镭射果冻手提袋——外部印着灿烂笑脸涂鸦，内袋放着熏香的珠子。\n一个指甲油瓶子——内部装着会根据超域能量浓度改变颜色的环境感知涂料。\n一件儿童玩具——用螺母、齿轮、轴承等五金工件组装而成，外形为有些眼熟的六边形结构，涂装非常艳丽。\n一组纪念镭射卡——似乎是为首届塔卫二“堡垒守御”获奖者专门定制的奖励，背面刻着一位瓦伊凡的头像。\n迷你超域读数检测设备——外表像是一根项链。因输入了尚未发表的公式，灵敏度比市面上的同类产品更高。\n半盒荞花风味热辣口感颗粒泡芙——目前最流行的甜点，味道十分微妙。（早上看到佩丽卡监督的桌子上还有半盒。）\n“好工程师”螺丝刀套组——樱花粉定制款。被使用者保养得很好，没有任何生锈痕迹。\n《MARTHE月刊》——今天发售的最新一期，介绍了塔卫二当下最潮流的穿搭。（两周前似乎看到伊冯穿着封面上的这套时装……她好像总是先于潮流，难道她真的是那个传闻中的影子设计师？）\n留言：伊冯，我知道原型机的实验很重要，但请快点来拿遗失物品！",
+    "ja": "【落し物リスト】\nホログラムクリアトートバッグ――外側には満面の笑顔が眩しいイラストが描かれている。また、内ポケットにはアロマボールが入っている。\nマニキュアの瓶――中身は超域エネルギーの濃度に応じて色が変わる環境検知用の塗料。\n子供用のおもちゃ――ネジ、ギア、ベアリングなどの金属パーツを組み合わせて作られたもの。見覚えのある六角形構造。非常に派手なカラーリングがされている。\n記念ホログラムカードセット――第一回「タロⅡ要塞ディフェンス」受賞者のために特別に作られた記念品。裏面には、とあるヴイーヴルの肖像が刻印されている。\nミニ超域数値測定装置――見た目はペンダントのようだが、未公開の公式が組み込まれており、市販品より感度が非常に高い。\n蕎花風味ピリピリクランチシュー（半箱分）――今最も話題のスイーツ。味は微妙。（ちなみに、今朝ペリカ監察官のテーブルにも同じく半箱分置かれていた。）\n「グッド・エンジニア」ドライバーセット――桜ピンク色の特注版。持ち主によって丁寧に手入れされており、錆びは一切見当たらない。\n『月刊MARTHE』――本日発売の最新号で、タロⅡの最旬ファッションを特集している。（2週間前、イヴォンヌが表紙とまったく同じコーディネートをしていたのを見かけた……いつも流行を先取りしているイヴォンヌは、噂の「ゴーストデザイナー」なのだろうか）\n伝言：イヴォンヌ、試作モデルの実験が大事なのはわかるけど、落し物を早く取りに来て！",
+    "ko": "[분실물 목록]\n레이저 젤리 손가방 1개 - 바깥쪽엔 활짝 웃는 낙서가 그려져 있고, 안쪽엔 향이 나는 구슬이 들어 있음.\n매니큐어 병 1개 - 초자연 에너지 농도에 따라 색이 변하는 환경 감지형 특수 코팅제가 들어 있음.\n어린이용 장난감 - 너트, 기어, 베어링 등 금속 부품으로 조립된 장난감. 어딘가 익숙한 육각형 구조이며, 색상이 굉장히 화려함.\n기념 레이저 카드 1세트 - 제1회 탈로스 II '요새 방어' 수상자를 위해 맞춤 제작된 보상으로 보임. 뒷면엔 와이번의 초상화가 새겨져 있음.\n미니 초자연 수치 측정 장치 1개 - 겉모습은 목걸이처럼 생김. 아직 발표되지 않은 공식이 입력되어 있어 시중 유사 제품보다 감도가 뛰어남.\n매콤한 메밀꽃맛 알갱이 퍼프 반 상자 - 요즘 가장 인기 있는 디저트. 맛이 상당히 독특함. (오늘 아침 펠리카 감독관의 책상 위에도 반 상자가 더 있던 걸 봤음.)\n'믿음직한 공학자' 드라이버 1세트 - 벚꽃색 맞춤형 제품. 사용자가 잘 관리해서 녹슨 흔적이 전혀 없음.\n<MARTHE 월간지> - 오늘 발매된 최신호. 탈로스 II의 최신 유행 스타일을 소개함. (2주 전쯤 이본이 표지에 나온 옷을 입었던 것 같은... 늘 유행을 앞서가는 것 같단 말이지. 설마 이본이 소문 속 '그림자 디자이너'?)\n메모: 이본, 프로토타입의 실험이 중요한 건 알지만, 그래도 빨리 분실물을 찾아가 주길 바람!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "DOCUMENT: Investigation of an incident of fire \nCASE SUMMARY: Last night, a fire broke out in the second floor library of a residence on the border between the suburbs and the central district. Most of the furniture and retro-style clothing were damaged in the blaze. The fire was contained within the house. No casualties were reported. The book collection of the library escaped unscathed. \n\n1. Investigation of the site \nThe library windows were locked from the inside. The locks appear undamaged. Two sets of fingerprints were collected. Footprints of a gardener responsible for regular pruning of the plants were found next to the garden. The fire started at the carved armoire. \n\n2. Investigation of surveillance records \nAt around 2000 hours, the homeowner and his daughter had an extensive dialogue at the living room. At 2100 hours, both headed to the library. \n\n3. Witness testimonies \nHomeowner: \"Apologies for troubling you into making this journey... But things are under control. People must burn the library once every a few centuries or so.\" \nSpouse of the homeowner: \"My husband prepared that room before our girl was born. He wanted her to inherit that ancient culture, literature, and art, as well as to sow its seeds upon these new lands. I was hoping she could start a cultural restoration study group... The incident is a shame, really.\" \nDaughter of the homeowner: \"Erm... We actually applied precision controls and barely suffered any losses! So why are we being inspected?\" \nGoverness: \"I'm no longer giving meaningful instructions to the young mistress. Ballet and etiquette do not interest her. She is only willing to play the piano. The combined might of a hundred burdenbeasts could not force her to do something she doesn't like... What is she doing now? She's teaching me how to compose Neo-Talosian music and it's pretty interesting. Oh, I'm also learning electronic repairs from her. She has the engineer's knack, if you ask me.\" \n\n4. Post-incident handling \nAfter verifying various findings, we have ascertained that the incident was a private act of planned incineration. The responsible homeowner has been censured and fined. The incident does not need to be escalated to the community management department. \n\n5. Additional testimonies from the homeowner \n\"'Fine,' I said, 'since you've chosen your path, we might as well burn the things.' She studied my face for quite a while. When we both realized neither of us was joking, she immediately started cheering. She said something about making a huge fireworks display and took out the contraptions she built... Maybe they're called drones. Anyway, these gadgets of hers could spew fire and ice.\" \n\"I watched the library burn with her. Bright orange flame flickered behind the gaps of the door. I heard the wooden shelves crackle, burst, and split as the fire licked and consumed it.\" \n\"I actually felt a certain degree of pain. The books in the house may not be antique relics, but I spent quite a tidy sum on acquiring this collection... I guess it can't be helped. It is the price I have to pay for spending years forcing her to go against her will. I have no choice but to demonstrate my stance.\" \n\"But those two flying gadgets came buzzing out with the books. She giggled and said that we simply had different \"tastes\" and questioned on the necessity of destruction. She went on by saying that her preference for New Talos-II Wave literature does not mean she dislikes stories from further back. She even said that she had memorized those older tales.\" \n\"So what was I saying again...? Apologies. I was too busy reminiscing about the smells given off by the fire. Oh, wait, I remember...\" \n\"I said to her, 'We can make this into a proper workshop. And make a drone for me if you have the time. The one that can light my cigars.'\"",
+    "zh-TW": "【一宗火災意外事故的調查報告】\n案件概述：昨天夜裡，位於近郊與中心區交界處邊緣一棟宅邸二層的圖書室起火，大量傢俱與復古裙裝燒毀，火勢控制在該房間內部，未造成任何人員傷亡，書籍完好無損。\n\n1. 現場勘查\n圖書室窗戶從內反鎖，門鎖無破壞痕跡，共提取指紋兩組。靠近花園一側僅有負責定期修剪花園的園林工人腳印。起火點為雕花衣櫃。\n\n2. 由監視器檢查\n晚間八點左右，屋主的女兒與屋主在會客廳進行了詳談。九點兩人走出會客廳，前往圖書室。\n\n3. 證人證詞\n屋主：「抱歉，麻煩你們特地來一趟……不過沒關係。每隔幾個世紀，人們就得燒一次圖書館。」\n屋主的妻子：「我丈夫在女兒出生前就布置好了那個房間，希望她能延續古老的文化，繼承那些文學與藝術，在這片新的土地上扎根。我還想著她能去創立一個文化復興研究團體……發生這樣的事故真是太可惜了。」\n屋主的女兒：「呃……其實控制得很精準，沒什麼損失嘛！這也要查？」\n女兒的家庭教師：「其實我已經沒有在教導小姐了。她對芭蕾舞、禮儀都不太感興趣，只願意學鋼琴。她要是不想做什麼事，一百頭馱獸都拉不動……您問現在？她在教我怎麼譜『新塔風』的音樂，蠻有趣的。哦，還有怎麼維修電子設備。她有做工程師的天賦。」\n\n4. 處理方法\n多方驗證後，確認為個人銷毀行為，對屋主進行譴責與罰款。不移交至社區管理部門處理。\n\n5. 屋主的證詞補充\n「『好吧，』我說，『既然你已經決定好了自己的道路，我們就把那些東西燒掉吧。』她花了很長時間來確認我的表情，直到我們彼此都明白我是認真的。她立刻開始歡呼，說要放個大煙火，把她做的那個什麼機……無人機，就是會噴火、會噴冰塊的東西拿了出來。」\n「我跟她一起看著圖書室燃燒，門縫裡傳來明亮的橙色火光。我聽到火舌舔舐著木頭書架，在煙中劈啪作響。」\n「其實我還是有點心疼。雖然房子裡那些書並不是什麼珍藏品，但蒐羅過來也花了不少金票……沒辦法，這是長年一腔情願逼迫她後要付出的代價，我總得拿出個態度。」\n「嗡的一聲——那兩個小東西提著書飛了過來。她嘻嘻一笑，說只是我們『品鑑』的口味不一樣，為什麼一定要全都毀了？她說，她喜歡那些『新塔衛二浪潮』的文學，但可沒說過要否定那些更遙遠的故事。何況那些東西，她早就都背下來了。」\n「我說了什麼來著……抱歉，光記得那股東西被燒焦的味道了。哦，我說……」\n「把這裡翻修成工作室吧。有空也幫我做台無人機，能點雪茄的那種。」",
+    "zh-CN": "【一宗火灾意外事故的调查报告】\n案件概述：昨日夜里，位于近郊与中心区交界处边缘一栋宅邸二层的图书室起火，大量家具与复古裙装烧毁，火势控制在该房间内部，未造成任何人员伤亡，书籍完好无损。\n\n1. 现场勘查\n图书室窗户从内反锁，门锁无破坏痕迹，共提取指纹两组。靠近花园一侧仅有负责定期修剪花园的园林工人脚印。起火点为雕花衣柜。\n\n2. 监控检查\n夜间八点左右，屋主的女儿与屋主在会客厅进行了详谈。九点两人走出会客厅，前往图书室。\n\n3. 证人证言\n屋主：“抱歉，麻烦你们特地来一趟……不过没关系。每隔几个世纪，人们就得烧一次图书馆。”\n屋主的妻子：“我丈夫在女儿出生前就布置好了那个房间，希望她能延续古老的文化，继承那些文学与艺术，在这片新的土地上扎根。我还想着她能去创立一个文化复兴研究团体……发生这样的事故真是太可惜了。”\n屋主的女儿：“呃……其实控制得很精准，没什么损失嘛！这也要查？”\n女儿的家庭教师：“其实我已经没有在教导小姐了。她对芭蕾舞、礼仪都不太感兴趣，只愿意学钢琴。她要是不想做什么事儿，一百头驮兽都拉不动……您问现在？她在教我怎么谱‘新塔风’的音乐，挺有意思的。哦，还有怎么维修电子设备。她有做工程师的天赋。”\n\n4. 处理方法\n多方验证后，确认系个人销毁行为，对屋主进行批评教育与罚款。不移交至社区管理部门处理。\n\n5. 屋主的证言补充\n“‘好吧，’我说，‘既然你已经决定好了自己的道路，我们就把那些东西烧掉吧。’她花了很长时间来确认我的表情，直到我们彼此都明白我是认真的。她立刻开始欢呼，说要放个大烟花，把她做的那个什么机……无人机，就是会喷火、会喷冰块的玩意儿拿了出来。\n“我跟她一起看着图书室燃烧，门缝里传来明亮的橙色火光。我听到火舌舔舐着木头书架，在烟中劈啪作响。\n“其实我还是有些心疼。虽然屋里那些书并不是什么珍藏品，但搜罗过来也花了不少金票……没办法，这是长年一腔情愿逼迫她后要付出的代价，我总得拿出个态度。\n“嗡的一声——那两个小玩意儿提着书飞了过来。她嘻嘻一笑，说只是我们‘品鉴’的口味不一样，为什么一定要全都毁了？她说，她喜欢那些‘新塔卫二浪潮’的文学，但可没说过要否定那些更遥远的故事。何况那些东西，她早就都背下来了。\n“我说了什么来着……抱歉，光记着那股东西被烧焦的味道了。哦，我说……\n“把这里翻修成工作间吧。有空也给我做台无人机，能点雪茄的那种。”",
+    "ja": "【火災事故に関する調査報告】\n事件概要：昨晩、中心部と郊外の境界付近に位置する二階建て住宅の図書室にて火災が発生。家具や年代物のドレスが多数焼失したが、火は室内に留まり、人的被害はなかった。また、書籍もすべて無事であった。\n\n1. 現場検証\n図書室の窓は内側から施錠されており、壊された痕跡はない。採取された指紋は2種類。庭には、定期的に剪定を担当している作業員のものと見られる足跡のみ確認された。出火元は、装飾が施されたクローゼットと推定。\n\n2. 監視映像の確認\n20時頃、家主と娘が応接間で会話している様子が映っている。21時に2人は応接間を後にし、図書室へ向かった。\n\n3. 関係者の証言\n家主「わざわざ来ていただいて申し訳ないが、大したことではないよ。図書室なんて、数百年に一度は燃えるものだ。」\n家主の妻「主人は娘が生まれる前から、あの部屋を飾っていたの。古くから受け継がれてきた文化、文学、芸術を、新しい土地にも根付かせるためにね。文化復興の研究団体を立ち上げる夢もあったのに……まさか、こんな形で終わるなんて。本当に残念だわ。」\n家主の娘「んー……だって火はちゃんとコントロールされてたし、被害とかもないし。それでも調査って必要？」\n家庭教師「お嬢様の教育に、実はもう関わっておりません。礼儀作法やバレエにはあまり関心がないご様子で、学ぶ意欲があったのはピアノだけです。興味のないことには、100頭の駄獣で引っ張っても一切動かない、それがお嬢様ですから……最近ですか？「ニュー・タロスタイル」の音楽についてご教授いただいています。大変興味深く聞いておりますよ。ああ、電子機器の修理方法も。お嬢様にはエンジニアとしての素質があると思います。」\n\n4. 処理方針\n関係各所へ確認した結果、本件は家主による個人的な焼却処分行為と判断。家主には厳重注意と指導および罰金を科したうえで、地域コミュニティ管理部門への移管は行わない。\n\n5. 家主の補足証言\n「『わかった。これから先の道をもう決めたなら、いっそ全部燃やしてしまおう』と娘に言ったんだ。娘はじっと私の顔を見つめて……ようやく、お互いが本気だとわかったらしい。喜びの声をあげて、『でっかい花火、打ち上げよっか』と言った。そして、あいつが作った……何だったか、『ドローン』？あの火や氷を出す代物を取り出した。」\n「図書室の扉越しに、部屋が燃えていくのを一緒に見ていたよ。明るい橙の炎が棚を包み込み、煙の中からパチパチと音を立てていた。」\n「まぁ、残念な気持ちが無かったかと言われれば、嘘になる。本自体は特に高価なものではないが、集めるのにはそれなりに……でも、仕方ない。これまで、一方的に理想を娘に押し付けてきた、その報いなのだろう。せめて行動で示してやるべきだと思ったよ。」\n「ブーンという音がして――本を抱えた小さな2つの機械が飛んできた。娘はクスッと笑って、『センス』が違うだけで、なんで全部燃やさないといけないのか、と言った。『タロⅡ新世代』文学が好きでも、昔の物語を否定するつもりはないそうだ。それに、もう全部暗記しているとも言っていた」\n「私は、何と返したんだったか……悪いな。焦げた匂いだけが鼻に残って……ああ、そうだ――」\n「ここを作業室に改造してくれ。時間がある時でいい。私にもドローンを作ってくれ。シガーに火がつけられるやつをな。」",
+    "ko": "[화재 사고 조사 보고서]\n사건 개요: 어젯밤, 근교와 중심구 경계 지역 가장자리에 위치한 저택 2층의 서재에서 화재 발생. 다수의 가구와 레트로 드레스가 불에 탔으나, 불길은 해당 방 안에서 진압되었고 인명 피해는 없었으며 책은 전혀 손상되지 않음.\n\n1. 현장 조사\n서재 창문은 내부에서 잠겨 있었고, 문 잠금장치에도 파손 흔적은 없었음. 총 두 세트의 지문을 채취함.\n\n정원 쪽에는 정기적으로 정원을 관리하는 정원사의 발자국만 발견됨. 발화 지점은 조각 무늬가 새겨진 옷장.\n\n2. CCTV 확인\n저녁 8시경, 저택 주인의 딸과 저택 주인이 응접실에서 대화를 나눔.\n9시경 두 사람은 응접실에서 나와 서재로 향함.\n\n3. 증인 진술\n집주인: 미안합니다. 일부러 걸음하시게 해서... 별일 아니에요. 도서관도 몇 세기마다 한 번씩 불타는 법이니까요.\n\n집주인의 아내: 남편은 딸아이가 태어나기 전에 그 방을 꾸몄어요. 아이가 고전 문화를 이어받고... 이 새로운 땅에 뿌리내리길 바랐죠. 저는 아이가 문화 부흥 연구회 같은 걸 만들었으면 하고 생각하기도 했는데... 이런 일이 생기다니 정말 유감이에요.\n\n집주인의 딸: 에이... 사실 아주 정밀하게 조절했는데, 별 손해도 없잖아? 이걸 꼭 조사해야 해?\n\n가정교사: 사실 저는 이제 아가씨를 가르치고 있지 않아요. 발레나 예절에는 관심이 없고, 오직 피아노만 치려고 하거든요. 아가씨가 뭔가 하기 싫을 땐, 백 마리 버든비스트가 뒤에서 밀어도 절대 움직이지 않는 성격이라... 지금은 오히려 제가 '뉴 탈로스풍' 음악의 작곡법이랑 전자 설비 수리법을 배우고 있어요. 아가씨한테 공학자로서의 재능이 있는 거 같아요.\n\n4. 처리 방법\n다각도로 확인한 결과, 개인적 소각 행위로 판단. 집주인에게 화재 교육 및 벌금을 부과함. 관련 부서로 이관하지 않음.\n\n5. 집주인 진술 보충\n\"그래, 네가 이미 너의 길을 정했다면, 저것들을 다 태워버리자.\" 제가 그렇게 말했더니, 딸애는 제 표정을 뚫어져라 쳐다보다가, 제가 진심임을 깨달았는지 환호성을 지르며 '성대한 불꽃놀이'라도 하자더군요. 그 뭐더라... 드론, 맞아요, 불도 뿜고 얼음도 내뿜는 그 물건을 꺼내 왔어요.\n저는 딸과 함께 서재가 타오르는 걸 함께 지켜봤죠. 문틈 사이로 밝은 주황빛 불길이 새어 나왔고, 불길은 나무 책장 사이로 번지며 연기 속에서 '타닥타닥' 타들어 가는 소리를 냈어요.\n사실 속으로는 좀 아쉬웠죠. 그 방의 책들이 귀한 수집품은 아니지만 그래도 모으느라 적잖은 돈이 들었으니까요. 그래도 어쩔 수 없었죠. 오랜 세월 억지로 그 아이에게 강요해 온 내 집착에 대한 대가라면, 그에 맞는 태도를 보여줘야 했으니까요. \n그때 '윙...'하면서 그 조그만 기계들이 책을 들고 가지고 오더군요. 딸애가 웃으면서 말하더군요. 서로 '감상'하는 취향이 다를 뿐인데, 꼭 전부 태워야 하는 건 아니지 않냐면서요. 자긴 새로운 탈로스 II의 물결의 문학을 좋아하지만, 그렇다고 해서 옛이야기들을 부정하려는 건 아니라고요. 심지어 거기 있던 것들은 이미 전부 외워버렸다고 하더군요.\n그 말을 듣고 제가 뭐라고 했더라... 미안합니다. 뭔가 불에 타는 냄새밖에 기억이 안 나서요. 아, 맞다! 제가 이렇게 말했어요...\n\"이 방을 작업실로 바꾸자. 그리고 시간 나면 나도 드론 하나 만들어주겠니? 시가에 불을 붙여주는 그런 걸로.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "\"A group of merchants lived on the fourth planet visited by the Little Engineer. They gave every star a number, and locked the numbers in the safe...\" \n\"Many academicians lived in the sixth planet visited by the Little Engineer... The Little Engineer saw their incredibly thick spectacles, and immediately ran away.\" \n\"The Little Engineer bid farewell to the Gargantuan Feranmut of Industry. He shouted into the mountain valley, 'Let's be friends! I'M LONELY!' But the mountains only responded with echoes of echoes of echoes...\" \n\"And in the end, the Little Engineer collapsed in the sand... And uh, oh yeah! With a swoosh he got back to his feet and shook off the sand. He waved at his friends, grew a pair of sparkling wings, and flew toward the stars!\" \n\n\"This story is probably written by an author from Ga ... just where my home used to be. Terran stories are interesting, as long as they're not history! Alright, my little rascals, that's it for today. For next time, we'll—\" \n\"Miss Yvonne...\" \n\"Awww. You look really down. What's wrong?\" \n\"The Little Engineer is so sad... He could not find his home anywhere! And he made no friends. He's so lonely...\" \n\"And why did he fly? Is it 'coz ... 'coz he got eaten up by the Aggeloi?! The grown-ups keep lying to me about this...\" \nYvonne blinked a few times, then fished out of her pocket the toy that was cobbled together with hardware parts. The little thing resembled Tata, and glinted in the sunlight like specks of diamond dust. \n\"The Little Engineer just couldn't find fitting companions, but that doesn't mean he's lonely! Look at this! This is the first companion he built for himself. He also built other interesting teammates. One makes ice cream, the other creates fireworks... Everyone of them was a loyal friend! And then—\" \n\nYvonne followed the light and raised her head. Clouds slowly rolled across a uniform sheen of azure blue. She could imagine Dijiang cruising along its carefree orbit high above the skies. Yvonne then lowered her gaze and looked upon the children of Valley IV, their faces glowing with hope for more stories. The silhouette of the vessel, the sparkling wings of the Little Engineer, starlight of half-a-billion bells, and a world of splendor and harmony flowed across her retina. \nYvonne felt free. The tempo of her storytelling became lighter and faster. \n\"And in the end, it wasn't the darkness you imagined! The Little Engineer left because he made new friends, received an invitation from the brightest stars, and got a new place to stay! Now, dry your tears and I'll reward you with a bonus story about the Endministrator! Yeah... So what do you want to hear? The one where the Endmin smashed the sun, or the one where the Endmin transformed a single Originium crystal into a million soldiers?\" \n\"Smashed the sun ... and a million soldiers?! The Endmin is so awesome! Are these stories true?\" \n\"Hmm. Are the stories true...? Well, I guess I'll ask the hero in question right after this!\"",
+    "zh-TW": "「小工程師拜訪的第四個行星上住著一群商人。他們為星星編號，然後把編號鎖在保險櫃裡……」\n「小工程師拜訪的第六個行星上住著好多老學究……小工程師看到他們厚厚的眼鏡，就立刻跑掉了。」\n「小工程師跟龐大的工業巨獸告別。他對著山谷大喊——『和我交個朋友吧，我很孤單！』但是呢，大山給他的只有一遍又一遍的回音……」\n「故事的最後，小工程師倒在沙地上……呃，嗯！他咻的一下從沙子上站起來，向著自己的朋友揮手，長出一雙亮晶晶的翅膀，就這樣飛向群星！」\n\n「這個故事好像是高……我老家那邊的作者寫的。只要不是歷史書，泰拉傳承下來的故事倒是都很有趣！好了，小鬼頭們，今天就講到這裡，下次再——」\n「伊馮姐姐……」\n「唉唷，臉怎麼皺起來了？」\n「小工程師好可憐……哪裡都不是他的家，也沒有交到朋友，好寂寞……」\n「而且他最後飛起來，是不是……是不是因為他被天使吃掉了啊？！大人總是說這種謊……」\n伊馮眨眨眼，從口袋中拿出那隻用五金零件組裝的玩具。在日光照耀下，這外形有點像「塔塔」的小東西閃爍著近似鑽石碎屑的光澤。\n「小工程師只是沒有找到合適的夥伴，但不代表會寂寞呀！你們看，這就是他幫自己做的第一個夥伴。他還幫自己做了很多有趣的夥伴，有可以做冰淇淋的、有可以放煙火的……每一個都是好朋友！而且，後來——」\n\n她循著那道光芒抬起頭，天邊熨著一層碧藍，雲層在緩慢流動。她能想像出在那之上的軌道，帝江號無拘無束漫遊的模樣。她又低下頭，四號谷地的孩子們圍著她，臉上露出對故事的期待。艦船的影子、小工程師閃閃發光的翅膀、五億盞鈴鐺中的星光，斑斕而平和的世界自她視網膜上流過。\n伊馮感到自在，她講述故事的語調越來越輕快。\n「後來也不是你們想的那樣黑暗啦！小工程師選擇離開，是因為交到了新的朋友，受到最閃耀的星星邀請，換了個地方住！把眼淚擦一擦，今天再多講一個管理員的故事吧！嗯……你們想聽管理員擊碎了太陽那件事，還是用一顆源石變出了一百萬個士兵那個？」\n「太陽……還有一百萬個士兵？！管理員太厲害了吧，這些都是真的嗎——？」\n「嗯哼，是不是真的呢……等一下我幫你們問問本人！」",
+    "zh-CN": "“小工程师访问的第四个行星上住着一群商人。他们给星星编号，然后把编号锁在保险柜里……\n“小工程师访问的第六个行星上住着好多学究……小工程师看到他们厚厚的眼镜，就立刻跑掉了。\n“小工程师跟庞大的工业巨兽告别。他对着山谷喊道——‘和我交个朋友吧，我很孤单！’但是呢，大山给他的只有一遍又一遍的回声……\n“故事的最后，小工程师倒在沙地上……呃，嗯！他嗖的一下从沙子上站起来，向着自己的朋友挥手，长出一双亮晶晶的翅膀，就这样飞向群星！”\n\n“这个故事好像是高……我老家那边的作者写的。只要不是历史书，泰拉传承下来的故事倒是都很有趣！好了，小滑头们，今天就讲到这里，下次再——”\n“伊冯姐姐……”\n“哎哟，脸怎么皱起来啦？”\n“小工程师好可怜……哪里都不是他的家，也没有交到朋友，好寂寞……”\n“而且他最后飞起来，是不是……是不是因为他被天使吃掉了呀？！大人总是说这种谎……”\n伊冯眨眨眼，自口袋中掏出那只用五金工件组装的玩具。在日光照耀下，这外形有些像“塔塔”的小东西闪烁着近似钻石碎屑的光泽。\n“小工程师只是没有找到合适的伙伴，但不代表会寂寞呀！你们看，这就是他给自己做的第一个伙伴。他还给自己做了很多有趣的伙伴，有可以做冰淇淋的、有可以放烟花的……每一个都是好朋友！而且，后来——”\n\n她循着那道光芒抬起头，天边熨着一层碧蓝，云层在缓慢流动。她能想象出在那之上的轨道，帝江号无拘无束漫游的模样。她又低下头，四号谷地的孩子们围着她，脸上露出对故事的期待。舰船的影子、小工程师闪闪发光的翅膀、五亿盏铃铛中的星光，斑斓而平和的世界自她视网膜上流过。\n伊冯感到自在，她讲述故事的语调越来越轻快。\n“后来也不是你们想的那样黑暗啦！小工程师选择离开，是因为交到了新的朋友，受到最闪耀的星星邀请，换了个地方住！把眼泪擦一擦，今天再多讲一个管理员的故事吧！嗯……你们想听管理员击碎了太阳那件事，还是用一颗源石变出了一百万个士兵那个？”\n“太阳……还有一百万个士兵？！管理员太厉害了吧，这些都是真的吗——？”\n“嗯哼，是不是真的呢……一会儿我替你们问问本人！”",
+    "ja": "「エンジニアちゃんが向かった4ばんめの星には、商人が住んでいました。そこでは星に番号をつけて、その番号を金庫にしまい込んでいました……」\n「6ばんめの星には、学者が住んでいました。エンジニアちゃんは、みんながかけている分厚いメガネを見た瞬間、逃げ出してしまいました。」\n「エンジニアちゃんは、大きな工業巨獣さんとお別れすることにしました。そして、谷に向かって叫びました――『ねえ、ぼくと友だちになって！ひとりはさみしいよ！』……でも、返ってきたのは山に反響する自分の声だけでした……」\n「最後に、エンジニアちゃんは砂の上にパタッと倒れて……えーっと、うん。砂の上からガバッと起き上がって、お友だちに手を振りました。そうしたら、背中にキラキラ光る翼が生えてきて、そのまま星空に飛んでいきました！」\n\n「このお話ね、ガ……あー、アタシの地元の作家さんが書いたヤツなんだよ。テラから伝わってる物語って、歴史書以外はホント、面白いのばっかなんだよね……ってコトで。みんな、今日はココまで！また次に――」\n「イヴォンヌおねえさん……」\n「ん？どーしたの？そんな眉にシワよせちゃって……」\n「エンジニアちゃん、かわいそう……どこにもお家がなくて、お友だちもいないなんて、さみしいよ……」\n「それに、最後にとんでいったって……もしかして、アンゲロスに食べられちゃったんじゃない？大人はみんな、すぐそういうウソつくんだ……」\nイヴォンヌはパチパチと瞬きをすると、ポケットから金属パーツで作られたおもちゃを取り出した。太陽の下、光を浴びたそのおもちゃは――少し「タタ」に似た姿だった。まるでダイヤモンドのかけらのように、キラキラと輝いていた。\n「エンジニアちゃんは『一緒に歩いてくれる仲間』にまだ出会ってないだけ。だから、寂しいってワケじゃなかったんだよ。だって、ほら！これは、最初に作った自分の『仲間』。そのあとも、仲間がたくさんできたんだよ。アイスクリーム作れたり、花火を打ち上げたり……みーんな、エンジニアちゃんの仲間で、友だち！それから、あとは――」\n\n彼女は光を追うように頭を上げた。青く広がる空には、雲がゆっくりと流れている。そのさらに上で――帝江号が、自由に漂う姿を思い浮かべる……彼女はゆっくりと視線を下ろした。彼女を囲む四号谷地の子どもたちは、物語への期待を顔いっぱいに浮かべていた。宇宙船の影、エンジニアちゃんのキラキラ光る翼、5億の鈴の中に煌く星の光。鮮やかで穏やかな世界が、彼女の視界に流れていく。\nイヴォンヌは、気持ちがふっと軽くなるのを感じた。そして、語る声にも自然と明るさが混じっていった。\n「そんな暗い話じゃないんだって！エンジニアちゃんが飛んでったのは、新しいお友だちができたから。いちばん輝いてる星に誘われて、そっちにお引っ越ししただけ！ね、だから……もう涙はいらないよね。今日は特別に、管理人のお話、もう1個してあげる！んー……どっち聞きたい？『管理人が太陽を砕いた』話？それとも、『1個の源石から兵士を百万作った』話？」\n「太陽……百万の兵士！？管理人って、そんなにすごいの……それ、本当の話？」\n「んー、どうかな？……あとで直接本人に聞いてみよ！」",
+    "ko": "\"꼬마 공학자가 네 번째로 방문한 행성에는 상인들이 살았어요. 그들은 별들에 번호를 매기고, 그 번호를 금고에 넣어 두었죠...\"\n\"꼬마 공학자가 여섯 번째로 방문한 행성에는 학자들이 아주 많았어요... 꼬마 공학자는 그들의 두꺼운 안경을 보자마자 곧장 달아나 버렸답니다.\"\n\"꼬마 공학자는 거대한 공업 베헤모스에게 작별을 고했어요. 협곡을 향해 소리쳤죠. '나랑 친구 할래? 나 너무 외로워!' 하지만 돌아온 건 메아리뿐이었답니다.\n\"이야기의 마지막에 꼬마 공학자는 모래밭 위에 쓰러졌어요... 음, 그때! 그는 모래 위에서 벌떡 일어나더니, 친구를 향해 손을 흔들었고, 반짝이는 날개를 펼쳐 별들을 향해 날아갔답니다!\"\n\n\"이 이야기는 아마... 고... 내 고향 쪽 작가가 쓴 걸 거야. 역사책만 아니면, 테라에서 전해 내려오는 이야기들은 다 재밌다니까! 자, 꼬마 장난꾸러기들, 오늘은 여기까지. 다음에 또...\"\n\"이본 언니...\"\n\"어라, 얼굴을 왜 그렇게 찌푸리고 있어?\"\n\"꼬마 공학자가 불쌍해요... 집도 없고, 친구도 못 사귀고... 너무 외로웠을 거 같아요...\"\n\"그리고 마지막에 날아올라 간 건... 혹시... 혹시 아겔로스한테 잡아먹혀서 그런 거 아니에요?! 어른들은 맨날 그런 거짓말하잖아요...\"\n이본은 눈을 깜박이고는 주머니에서 금속 부품으로 만든 장난감을 꺼냈다. 햇살 아래 '타타'를 닮은 그 작은 물건은 다이아몬드 가루처럼 반짝였다.\n\"꼬마 공학자는 아직 잘 맞는 친구를 못 찾았을 뿐이지, 외롭다는 건 아니야! 자, 봐봐. 이게 바로 그 꼬마 공학자가 처음으로 만든 친구거든. 또 아이스크림 만들어주는 친구, 불꽃놀이 해주는 친구도 있지... 모두 다 소중한 친구들이야! 그리고 나중엔...\"\n\n이본은 빛줄기를 따라 고개를 들었다. 하늘엔 푸른빛이 펼쳐지고, 구름이 천천히 흘렀다. 그 위 궤도를 자유롭게 유영하는 제강호의 모습이 떠올랐다. 고개를 내리니, 4번 협곡의 아이들이 그녀를 둘러싸고 있었고, 얼굴엔 이야기에 대한 기대가 가득했다. 함선의 그림자, 꼬마 공학자의 반짝이는 날개, 5억 개의 종소리 속 별빛이 화려하면서도 평화로운 세계로 그녀의 망막을 채웠다.\n\n이본은 마음이 한결 가벼워졌고, 이야기를 들려주는 톤도 점점 더 경쾌해졌다.\n\"그러니까 그 후의 이야기는 너희가 생각하는 것처럼 어둡지 않다니까! 꼬마 공학자가 떠나기로 한 건, 새로운 친구들을 사귀고, 가장 빛나는 별의 초대를 받아서 다른 곳으로 이사 간 거야! 자, 눈물은 이제 닦고~ 오늘은 특별히 관리자님 이야기 하나 더 해줄게! 음... 관리자가 태양을 산산조각 낸 이야기랑, 오리지늄 하나로 백만 명의 병사를 만들어 낸 이야기, 둘 중에 어떤 게 듣고 싶니?\"\n\"태양... 백만 명의 병사?! 관리자님이 그렇게 대단해요? 그거 다 진짜예요...?!\"\n\"음흠, 사실인지 아닌지는.. 이따가 내가 관리자한테 직접 물어봐 줄게!\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "DOCUMENT: Yvonne's work diary \nDay 3 after starting at that particular data section of the Æther rift. I can't see anything inside. All monitoring modules were knocked out. IR, EM, resonance responses — we got flatlined for everything. Not a single blip showed up. Sheesh. \nI tried to \"read\" the changes of that particular area with a smart sign language interpreter! And all I got was a bunch of errors and a single line that reads: \"Failed to interpret data.\" \nWe didn't just fail to monitor the stuff. The Æther rubbed it in our faces. We're completely blind to it. The only thing I'm certain of is this: It exists, and it's not very nice. \nI HATE THINGS I CAN'T SEE! \n............ \nMaybe I can change my approach. What would happen if I actively send data into it? Instead of just passively waiting for a response to come out of the output port, we should seize the initiative and interact with it instead. \nI tried three signal packs with different frequencies: (1) a standard greetings protocol; (2) a set of greetings I wrote myself in pulse-based format; (3) a set of static noise (the first note from the Movement: Genesis of the Universe, the Ætherside might like it). \nThe results are just as predicted ... no responses. Fine. Be optimistic. Perhaps there was a response but receiving a radio wave transmission and emitting a response might take a while. If a single vibration takes at least 10 million years, then I have no choice but to keep Frost-e-Bytee on the receiving line. \nPerhaps I can try optical wave signals with various color codes. If that thing can see things, perhaps it'll like glittering stuff, like me! \nPlus light travels faster than sound! \n............ \nHow many times did I fail again? Can't remember. Signal modulation, model simulations, and feedback monitoring ... none of it worked. The noise I'm getting sounds like the Æther laughing at me — I really hope it was laughing at me, because that means I'll unleash Frost-e-Bytee and ram some icy cold down its throat! \nI always believed that persistence will eventually identify a crack. But now I am beginning to wonder if this is a futile effort of exploration with no way out. \nWe can't even \"observe\" this thing. How are we supposed to \"decipher\" it? \nThe models I proposed and the devices I designed felt like childish gimmicks when compared to the Blight... \n............ \nMaybe the only thing I can do right now is to spin around on my swivel chair. Perhaps I gotta wait 10 million years for a miracle to happen. \nI might as well change my scientific approach. Time to build an invincible space armada. Let the ancient songs echo as I raise countless ... cities into the skies! Unfeasible? Maybe. But what can be more unfeasible than deciphering the Æther? \nI looked at those images of the Æther rift. I gazed at them long and hard. It devoured both sound and light. Even I got trapped within it — it crushed me and smothered me with eternal darkness. There is no escape for me. \nSo why am I doing all this? To protect Talos-II...? To prove myself...? Because I got a grudge against Pa and Ma...? No. I think it all started on that day. I read about the Æther rift in the books and found it beautiful. So I snuck off to the Protection Band so I could observe it, like the giddy girl I was. The rift gave off a bright halo. Looking at it feels like staring straight into the sun. The piercing pain then gave way to a sense of indescribable horror and then it ... melted. \nIt was a terror that got me bawling and trembling under my blankets late that night. My eyes swelled like peaches in the following morning — I looked gross. And I don't ever want to look like that again. So that's it: I'm going to decipher it. It's as simple as that. \nAnd I believe I can do it at Endfield. \nSo once again, I punched the [SEND] button. A resounding KABLAM of epic proportions and ZERO hesitation. Gone and dusted. The darkness will be no more, and I shall return to daytime.",
+    "zh-TW": "【伊馮的工作日誌】\n這是我盯著那段超域裂隙數據的第三天。那裡面什麼都看不到，監測模組全線失效，紅外線、電磁、振盪回應——統統歸零，對面連一聲「嗶」都懶得回我。\n我甚至試過用手語識別器去「讀」那片區域的變化！結果只有一堆錯誤和一句「數據無法解譯」。\n這已經不是監測失敗了，這是被超域狠狠羞辱。我們是徹徹底底的瞎子。唯一能確定的事實是，它存在，而且不友好。\n我討厭看不見的東西！\n…………\n換個想法。如果我主動往裡面傳訊息呢？不再死守輸入口，而是用主動互動取代被動等待。\n今天我嘗試了三種不同頻段的訊號包：一組是標準問候協議，一組是我自己寫的脈衝打招呼格式，還有一組是靜電噪音（宇宙起源樂章的第一個音符，也許超域會喜歡）。\n結果毫不意外……沒反應。好吧，樂觀一點，也許有回應，誰知道無線電波傳播過去，再返回要多久？如果振動一次要至少1000萬年，那就只能讓速凍仔去聽了。\n明天我試試看顏色編碼的光波訊號。如果那東西能看見，也許它會跟我一樣，喜歡閃閃發光的東西！\n光還比聲音快呢！\n…………\n第幾次失敗？我記不清了。訊號偵錯、模型構建、監聽回報，全都失敗。連雜訊聽起來都像是超域的嘲笑——如果真是嘲笑就好了，那我就會用速凍仔幫它的喉嚨降降溫！\n我原本以為只要努力不懈，總能找到一絲縫隙。但現在我開始懷疑，這是不是一場注定沒有出口的探索。\n我們連「觀察」的權力都沒有，更別提「破解」。\n我推導的模型、設計的裝置，跟侵蝕一比就像是小孩子扮家家酒……\n…………\n現在我能做的事情只有坐在轉椅上，一圈又一圈地搖晃，等待或許1000萬年後才會出現的奇蹟。\n乾脆換個研究方向如何？造一支無敵艦隊，在天空中托起無數座那些古老歌謠中迴響的……城市？不可行，但會比破解超域更不可行嗎？\n我看向那段超域裂隙的圖像，久久地、深深地凝望著它。聲音與光都被它吞噬，連我也跌入其中——它碾碎我，用永恆的黑暗包裹著我，讓我無處可逃。\n我是為了什麼才做這些事的？保護塔衛二……證明自己……跟父母賭氣……不。好像只是在某一天，我覺得書上的超域裂隙很漂亮，於是偷偷跑到防護帶後，輕佻地去觀察它。它泛著明亮的光暈，那感覺就像直視太陽，在刺痛中迎接無法言喻的恐懼，然後——融化。\n我怕得在深夜中大哭，縮在被子裡發抖，第二天早上起來看到自己的眼睛腫得像是桃子，那很醜。我不想再因為它露出那樣的醜態，所以我要破解它，就只是這麼簡單。\n而在終末地，我就能做到。\n我再次拍下傳送按鈕，遲疑不決、動心怵目，啪的一聲全都不見了。黑暗消失，將我還回白晝。",
+    "zh-CN": "【伊冯的工作日志】\n这是我盯着那段超域裂隙数据的第三天。那里面什么都看不到，监测模块全线失效，红外、电磁、振荡响应——统统归零，对面连一声“哔”都懒得还我。\n我甚至试过用手语识别器去“读”那片区域的变化！结果只有一堆报错和一句“数据无法解译”。\n这已经不是监控失败了，这是被超域狠狠羞辱。我们是彻彻底底的瞎子。唯一能确认的事实是，它存在，而且不友好。\n我讨厌看不见的东西！\n…………\n换个思路。如果我主动往里面发信息呢？不再死守输入端口，而是用主动交互取代被动等待。\n今天我尝试了三种不同频段的信号包：一组是标准问候协议，一组是我自己写的脉冲打招呼格式，还有一组是静电噪音（宇宙起源乐章的第一个音符，也许超域会喜欢）。\n结果毫不意外……没反应。好吧，乐观一点，也许有回应，谁知道无线电波传播过去，再返回要多久？如果振动一次要至少1000万年，那就只能让速冻仔去听了。\n明天我试试颜色编码的光波信号。如果那东西能看见，也许它会跟我一样，喜欢闪闪发光的东西！\n光还比声音快呢！\n…………\n第几次失败？我记不清了。信号调试、模型构建、反馈监听，全都失败。连噪声听起来都像是超域的嘲笑——要真是嘲笑就好了，我非要用速冻仔给它的喉咙降降温不可！\n我原本以为只要坚持不懈，总能找到一丝缝隙。但现在我开始怀疑，这是不是一场注定没有出口的探索。\n我们连“观察”的权力都没有，更别提“破解”。\n我推导的模型、设计的装置，跟侵蚀一比就像是小孩子过家家……\n…………\n现在我能做的事情只有坐在转椅上，一圈又一圈地摇晃，等待或许1000万年后才会出现的奇迹。\n干脆换个研究方向如何？造一支无敌舰队，在天空中托起无数座那些古老歌谣中回响的……城市？不可行，但会比破解超域更不可行吗？\n我看向那段超域裂隙的图像，久久地、深深地凝望着它。声音与光都被它吞噬，连我也跌入其中——它碾碎我，用永恒的黑暗包裹着我，让我无处可逃。\n我是为了什么才做这些事来着？保护塔卫二……证明自己……跟父母赌气……不。好像只是在某一天，我觉得书上的超域裂隙很漂亮，于是偷偷跑到防护带后，轻佻地去观察它。它泛着明亮的光晕，那感觉就像直视太阳，在刺痛中迎接无法言喻的恐惧，然后——融化。\n我怕得在深夜中大哭，缩在被子里发抖，第二天早上起来看到自己的眼睛肿得像是桃子，那很丑。我不想再因为它露出那样的丑态，所以我要破解它，就只是这么简单。\n而在终末地，我就能做到。\n我再次拍下发送按钮，迟疑不决、动心怵目，啪的一声全都不见了。黑暗消失，将我还回白昼。",
+    "ja": "【イヴォンヌの業務日誌】\n「超域の裂け目」データを見始めて3日目。何にも映んないし、観測モジュールはダメになってるし、赤外線も電磁波も振動反応も完全にナシ。「ピーッ」って音さえしない。\nだから、手話識別装置でも使って変化見つけだしてやるーって思ったら、出てきたのはエラーメッセージと「データ解析不能」って文字だけ。\n観測失敗ってレベルじゃない。間違いない、ゼッタイ……超域にナメられてる！こんなの、目塞がれてるのと一緒じゃん！で、結局わかったのは1つ――何か「ある」ってコトだけ。ちなみに、全然友好的じゃないヤツ。\nアタシ、目に見えないものなんて大っ嫌い。\n…………\n発想ちょっと変えてみよーかなって。こっちからメッセージ送ったらイイんじゃん？だって、ずーっと入力ポート見て待ってるだけじゃつまんないし。\n今日、帯域の違う信号3つ送ってみた。1つは、ちゃんとした標準の挨拶プロトコル。もう1つは、アタシが考えたパルス信号での挨拶フォーム。最後は、静電気っぽいノイズ信号。（もしかしたら宇宙誕生の「最初の音楽」――超域が気に入るかもだし）\n結果は予想通り……反応ナシ。でも、ポジティブに考えようって思った。だって、届いてから戻って来るまでにかかる時間なんて、誰も知るワケないんだし。ホントは反応してるかもだしね。もし、1,000万年かかるんなら……そのときはアイスちゃんにお願いするしかないけど。\n明日は、色つきの光信号も試してみよっかな。もし「見ることができる」存在だったら、アタシと一緒でキラキラしたの好きかもしれないし。\nそれに光って、声より速いしね！\n…………\n何回失敗したかなんて、正直覚えてない。信号の再調整、モデルの構築、反応の観測――全部ダメ。ノイズも、超域がアタシをバカにしてるみたいに聞こえてきて――でも、もしホントにバカにして笑ってたなら……口の中、アイスちゃんで凍らせてやるんだから！\n諦めずに続けてたら、そのうち見えてくるモノもあるハズって思ってたけど……もしかして「出口のない迷路」なんじゃないかって、最近ちょっと疑い始めてる。\nだって、そもそも「観測」できてないのに、「解析」なんて、ムリ過ぎるじゃん……\nアタシが一生懸命組み立てたモデルも、がんばって作った装置も、侵蝕の前では子どものおもちゃでしかない……\n…………\n今アタシにできるのはオフィスの椅子に座って、グルグル回りながら1,000万年後に来る……かもわかんない奇跡を待つことだけ。\nもういっそ研究分野、変えちゃう？無敵艦隊作って、古い歌の中に出てきた……都市？空にパーって浮かばせるとか……ムリかなー？超域の解析と比べたら、さすがにマシなんじゃん？\n裂け目の映像をずっと見てる。ずーーっと、奥の、もっと奥まで。声も光も吸い込まれて、気づいたらアタシも……墜ちてた。超域に押しつぶされて、永遠の闇の中で、逃げ場なんてドコにもなかった。\nアタシ、何のためにこんなコトしてるんだろ？タロⅡを守るため？自分の価値を証明するため？親とケンカしたから？……違う。最初はただ、本に載ってた超域の裂け目がキレイだなって思っただけ。だから、こっそり抜け出して防護バリケードのとこまで、なんとなく裂け目を見に行った。光が――太陽みたいにまぶしくて、目を焼かれたみたいな痛みと……恐怖。その恐怖に――融けた。\n本当に怖くて、夜ずっと布団の中で泣いた。朝起きたらめっちゃ目腫れてて、ホントにヒドい顔だった。こんな思い、もう二度としたくない――だから、決めた。裂け目を解析するって。それだけ。\nそれに、エンドフィールドにいるアタシならきっとできる。\nもう一回「送信」ボタンを叩いた……その瞬間、迷いも、恐怖も全部なくなった。真っ暗な闇が消えて、アタシがいるのは――光の中。",
+    "ko": "[이본의 작업 일지]\n초자연 균열 데이터를 들여다본 지 사흘째. 그 안엔 아무것도 보이지 않는다. 감시 모듈 전면 불능. 적외선, 전자기, 진동 반응... 전부 0. 저편에서 '삐' 소리조차 들려오지 않는다.\n수화 인식기로 그 구역의 변화를 '읽어내려' 시도했다. 결과는 오류 메시지 더미와 '데이터 해석 불가'라는 한 줄뿐.\n이건 단순한 관찰 실패가 아니다. '초자연'한테 제대로 농락당한 거다. 우리는 완벽한 장님 신세다. 유일하게 확인할 수 있는 사실은, 그것이 '존재한다'는 것, 그리고 '우호적이지 않다'는 것뿐이다.\n난 보이지 않는 게 싫다!\n......\n발상을 바꿔보자. 내가 먼저 저쪽으로 정보를 보내면 어떨까? 더 이상 수신 포트만 지켜보지 말고, 수동적인 기다림 대신 능동적인 교류로 바꾸는 거다.\n오늘은 세 가지 다른 통신 노드의 신호 패킷을 시도했다. 첫 번째는 표준 인사 프로토콜, 두 번째는 내가 직접 짠 펄스 인사 형식, 세 번째는 정전기 노이즈(우주 기원 악장의 첫 음표, 혹시 초자연이 좋아할지도).\n결과는 예상대로... 무반응. 하지만 낙관적으로 보자면, 반응이 있긴 한데 아직 도착하지 않았을 수도 있다. 전파가 왕복하는 데 얼마나 걸릴지 누가 알겠어? 진동 한 번에 최소 1,000만 년이 걸린다면... 꽁꽁이한테 맡길 수밖에.\n내일은 색상으로 암호화된 광파 신호를 시도해 볼 거다. 만약 그것이 시각을 가진 존재라면, 나처럼 반짝이는 걸 좋아할지도? 게다가 빛은 소리보다도 빠르니까!\n......\n몇 번째 실패인지, 이제는 기억도 나지 않는다. 신호 조정, 모델 구축, 피드백 관찰, 전부 실패. 잡음마저 초자연의 비웃음처럼 들린다. 차라리 비웃음이었으면 좋겠다. 내가 꽁꽁이로 걔 목구멍을 얼려버릴 수 있었을 테니까!\n나는 원래 끈질기게 버티면 언젠가는 실마리를 찾으리라 믿었다. 그런데 점점 확신이 흔들린다. 이건 애초에 출구 없는 미로가 아닐까?\n우린 '관찰'조차 허락되지 않았다. '해석'은 얼어 죽을. 내가 도출한 모델이나 설계한 장치들은 '침식'에 비하면 그냥 애들 소꿉장난 수준이다...\n......\n지금 내가 할 수 있는 일은 그냥 회전의자에 앉아, 빙글빙글 돌면서, 1,000만 년 후에나 올지 모르는 기적을 기다리는 것뿐이다. 차라리 연구 방향을 바꿀까? 무적함대를 만들어, 고대 노래에 울려 퍼지던... 도시들을 하늘에 띄우는 건? 불가능하겠지만, 설마 초자연을 해독하는 것보다 더 불가능할까?\n나는 초자연 균열의 사진을 바라봤다. 오랫동안, 깊숙이. 소리와 빛 모두 그것에게 삼켜졌고, 나조차 그 안으로 추락했다. 그것은 나를 으스러뜨리고, 영원한 어둠으로 나를 감쌌다. 도망칠 곳은 없었다.\n내가 왜 이걸 시작했더라? 탈로스 II를 지키기 위해... 스스로의 실력을 증명하기 위해... 부모님에 대한 반항심 때문에...? 아니다. 그저 어느 날 문득, 책에서 본 초자연 균열이 아름답다고 느껴졌고, 몰래 방어선 너머로 기어들어가, 경박하게 그것을 관찰하려 했을 뿐이다. 그것은 밝은 빛의 테두리를 두르고 있었고, 나는 태양을 직시하는 기분을 받았다. 찌르는 듯한 고통 속에서 말로 표현할 수 없는 공포를 마주하고, 그리고... 녹아내렸다.\n나는 무서워서 이불 속에서 몸을 벌벌 떨며, 밤새 울었다. 다음 날 아침엔 눈이 퉁퉁 부어 있었고 정말 보기 추했다. 다시는 그런 꼴을 보이고 싶지 않았다. 그래서 그걸 해석할 거다. 그저 그 이유 하나뿐이었다.\n그리고 엔드필드에서라면 나는 해낼 수 있을 것 같다.\n나는 다시 전송 버튼을 내리쳤다. 망설임, 두려움, 그런 것이 '탁' 소리와 함께 전부 사라졌다.\n어둠이 걷히고, 나는 다시 환한 대낮으로 돌아왔다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0017_yvonne_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "So, where are we having fun today, Endmin?",
+    "zh-TW": "管理員，我們今天去哪裡玩？",
+    "zh-CN": "管理员，今天咱们去哪里玩？",
+    "ja": "管理人、今日はどこ行く感じ？",
+    "ko": "관리자, 오늘은 어디로 놀러 갈까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Data sync complete. I'm ready to go at any time!",
+    "zh-TW": "資料同步完畢，我隨時可以出發！",
+    "zh-CN": "数据同步完毕，我随时可以出发！",
+    "ja": "よーっし、同期完了！いつでもイケるよ！",
+    "ko": "데이터 동기화 끝! 언제든 출발할 수 있어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Finally decided to call me up? Hehe, I bet you got a sticky situation on your hands.",
+    "zh-TW": "終於想起來叫我了？嗯哼，一定發生了什麼大事吧。",
+    "zh-CN": "终于想起来叫我了？嗯哼，一定发生了什么大事吧。",
+    "ja": "やーっと呼び出し？さては……何か大問題でも起きたんだ？",
+    "ko": "이제야 내 생각이 났구나? 으흠~ 무슨 큰일이라도 터진 거야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "I'm here. If you got equipment issues, leave them to me.",
+    "zh-TW": "來了來了，設備上的問題就全都交給我吧。",
+    "zh-CN": "来了来了，设备上的问题就全都交给我吧。",
+    "ja": "はいはーい。設備の不具合なら全部アタシがやっとくし。",
+    "ko": "나 왔어! 설비 문제는 나한테 맡기라고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "This pair of handcannons feels just right. Hmm... Noticed a few design OFIs. Guess I'll just mod them into a pair of Yvonne-specials!",
+    "zh-TW": "這把銃手感不錯！嗯……設計上還有拓展空間，我會把它改成我的專屬款！",
+    "zh-CN": "这把铳手感不错！嗯……设计上还有拓展空间，我会把它改成我的专属款！",
+    "ja": "この銃、めっちゃイイじゃん！んー……デザインは改善の余地アリかな。アタシ専用にカスタマイズしよーっと。",
+    "ko": "이 총, 느낌 좋네! 음... 디자인은 아직 좀 더 손 볼 수 있겠어! 내 스타일로 바꿔야지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "Can I apply a new layer of coating to my gear? This color scheme doesn't really match my hair.",
+    "zh-TW": "我能把裝備改塗裝嗎？我覺得它的顏色跟我的頭髮不搭。",
+    "zh-CN": "我能给装备改涂装吗？我觉得它的颜色跟我的头发不搭。",
+    "ja": "この装備、色替えられる？んー、アタシの髪色と合わない感じするじゃん？",
+    "ko": "장비 도색 좀 바꿔도 돼? 내 머리색이랑 좀 안 어울리는 것 같단 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Too easy! Give me a proper challenge!",
+    "zh-TW": "這也太簡單了吧，給我點更難的挑戰！",
+    "zh-CN": "这也太简单了吧，给我点更难的挑战！",
+    "ja": "手応えなさすぎ。もっと難しいヤツないの？",
+    "ko": "이건 너무 쉽잖아. 좀 더 어려운 거 줘봐!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "I was fast-forwarding through everything. I learn fast so makes no difference.",
+    "zh-TW": "我是快轉著看的，但效果應該沒差。",
+    "zh-CN": "我是快进着看的，但效果应该没差。",
+    "ja": "倍速で見たけど、内容はバッチリ分かってるって。",
+    "ko": "대충 훑어봤거든? 효과는 비슷할 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "I'm getting promoted? Wooo, you've got an eye for talent, Endmin!",
+    "zh-TW": "幫我升職？眼光不錯嘛，管理員！",
+    "zh-CN": "给我升职？眼光不错嘛，管理员！",
+    "ja": "昇進！？管理人、さっすがー！見る目あるじゃん。",
+    "ko": "진짜? 보는 눈이 있는걸?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "So, does this promotion mean ... I can get a bigger lab?",
+    "zh-TW": "這次晉升過後，我是不是可以換個更大一點的實驗室了？",
+    "zh-CN": "这次晋升过后，我是不是可以换个更大点的实验室了？",
+    "ja": "まーた昇進したんだし、もっと広い実験室に移ってもバチ当たんなくない？",
+    "ko": "오호, 그럼 이제 좀 더 넓은 실험실로 바꿔줄 거야?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Fighting in an actual battle is really different from studying combat videos... And I've made *massive* improvements by surviving all those trips in the frontier. Right?",
+    "zh-TW": "親臨戰場和光看資料完全是兩回事……在開拓區逛一圈能平安回來，對我來說已經是個巨大的進步了，不是嗎？",
+    "zh-CN": "亲临战场和光看资料完全是两回事……在开拓区逛一圈能平安回来，对我来说已经是个巨大的进步了，不是吗？",
+    "ja": "実際の戦場と、資料とじゃ全然違うんだって。開拓エリアをグルっと1周して無事に帰ったなんて、アタシにとっては超大進歩ってコト。わかった？",
+    "ko": "실제 전장이랑 서류 속 데이터는 천지 차이야. 개척 지역으로 나갔다가 무사히 돌아온 것만으로도 나한테는 이미 큰 발전이 아닐까?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "Assistant? NEWP! Don't need one! My Tink-a-Bella can handle everything! Data organization and lab cleanups are just some of its most basic features! Plus, it would never complain about my daily schedule.",
+    "zh-TW": "助理？不需要不需要！我的「小滴答」完全能搞定！整理資料、收拾實驗室，對它來說都是小事！而且……它還不會抱怨我的作息。",
+    "zh-CN": "助理？不需要不需要！我的“小嘀嗒”完全能搞定！整理数据、收拾实验室，对它来说都是小菜一碟！而且……它还不会抱怨我的作息。",
+    "ja": "アシスタント？全然いらないなー。アタシの「ピタちゃん」なんでも出来るし。データ整理も、実験室の片付けも余裕。あと……アタシの生活っぷりに文句も言わないし？",
+    "ko": "조수? 아냐, 필요 없어! 내 '삐삐' 하나면 충분하거든! 데이터 정리나 실험실 청소 같은 건 기본이라고. 게다가... 얘는 내 생활 패턴에도 불평 한마디 없다니까?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Hi, Endmin. We meet again. Just call me Yvonne. It's been a very long time since I last went out. Pleasure doing business together!",
+    "zh-TW": "嗨，又見面了，還是叫我伊馮就好。這可是我最近第一次出門，管理員，希望我們能合作愉快——",
+    "zh-CN": "嗨，又见面了，还是叫我伊冯就好。这可是我最近第一次出门，管理员，希望我们能合作愉快——",
+    "ja": "あー、また会った。アタシのことはイヴォンヌって呼んでいいよ。それにしても、めっちゃ久しぶりに外出たなー……ま、うまくやってこうよ。",
+    "ko": "안녕, 또 만났네. 그냥 이본이라고 불러줘. 정말 오랜만에 밖으로 나온 것 같아. 앞으로 잘 부탁해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Behave, Frost-e-Bytee! We're going for a walk with Endmin!",
+    "zh-TW": "速凍仔，別調皮！管理員要帶我們出去呢！",
+    "zh-CN": "速冻仔，别调皮！管理员要带我们出去呢！",
+    "ja": "アイスちゃん、集中！せーっかく管理人につれてって貰えるんだし。",
+    "ko": "꽁꽁아! 장난 좀 그만 쳐! 관리자가 같이 나가자고 불렀단 말이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Over here, Endmin! Oh, I'm bringing quite a few things...",
+    "zh-TW": "管理員，在這裡呢！我要帶的東西有點多……",
+    "zh-CN": "管理员，在这儿呢！我要带的东西有点多……",
+    "ja": "管理人、こっちこっち！アタシ、荷物多いタイプで……",
+    "ko": "관리자, 여기야! 내가 챙길 게 좀 많긴 한데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Alright, alright. I'm super familiar with all this, so just kick back and relax!",
+    "zh-TW": "好啦好啦，這裡我很熟，放心吧！",
+    "zh-CN": "好啦好啦，这里我熟得很，放心吧！",
+    "ja": "はいはーい。ココには詳しいから、任せといて。",
+    "ko": "알았어, 그만해. 여긴 나도 잘 알고 있거든? 걱정하지 말라고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Endmin! I'm calling dibs on the equipment testing chamber. Thanks a lot!",
+    "zh-TW": "管理員，裝備測試室今天我先預定了喔！",
+    "zh-CN": "管理员，装备测试间今天我先预定了哦！",
+    "ja": "管理人！装備テストルーム、今日はアタシが先に予約してるからね？",
+    "ko": "관리자, 오늘 장비 테스트룸은 내가 먼저 예약했다?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "The latest issue of Monthly MARTHE just arrived. Wanna read it with me?",
+    "zh-TW": "最新一期的《MARTHE月刊》到了，要一起看嗎？",
+    "zh-CN": "最新一期的《MARTHE月刊》到了，要一起看吗？",
+    "ja": "『月刊MARTHE』の最新号、届いたんだ！一緒に見よー。",
+    "ko": "새로 나온 <MARTHE 월간지>가 도착했는데, 같이 볼래?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "*Sigh*... Every time I study the Automated Industry Complex, I can't help but feel that it's — pure perfection! PAC-directed production is no longer a cold, repetitive chore ... but a living, breathing system of intertwining process loops! Absolutely ingenious! Endmin, I've gotta try this. C'mon, pleaaase?",
+    "zh-TW": "啊啊……無論看幾次都覺得，集成工業系統實~~~在是太完美了！在協議核心的指揮下，生產不再只是冰冷的重複，而像……一套生命系統！可以循環和呼吸！真是天才設計！管理員，能讓我玩一下嗎？",
+    "zh-CN": "啊啊……无论看几次都觉得，集成工业系统实——在是太完美了！在协议核心的指挥下，生产不再只是冰冷的重复，而像……一套生命系统！可以循环和呼吸！真是天才设计！管理员，能让我玩一下吗？",
+    "ja": "ほーんと、集成工業システムっていつ見ても完璧じゃんね？協約核心が制御してるから、機械的な反復作業じゃなくて……システムに命が宿ってる的な。循環して、呼吸して……あーほんと、天才的な設計だなー……ね、管理人。ちょっとでいいから触らせてよー！",
+    "ko": "아아아... 몇 번을 봐도, 통합 공업 시스템은 진짜 완벽 그 자체야! 프로토콜 코어만 있다면 단순하고 반복적인 생산의 차원을 뛰어넘을 수 있거든! 꼭... 살아 숨 쉬는 것처럼 말이지! 순환하고 호흡하는 시스템이라니... 진짜 천재적인 설계라고, 관리자, 나 잠깐만 만져봐도 돼?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "I'll be honest with you, Endmin. I like your style, but don't you think it's time for a wardrobe refresh? Come on, let's get you something flashier and brighter! Your fashion upgrade will be the vogue. Gua-ran-teed!",
+    "zh-TW": "管理員，雖然我很喜歡你的造型，但總是穿這一身，我都快看膩了！有沒有想過換一身更亮眼的衣服？我帶你去買！保證搭配得更有型！",
+    "zh-CN": "管理员，虽然我很喜欢你的造型，但总穿这一身，我都要看腻了！有没有想过换一身更亮眼的衣服？我带你去买！保证搭配得更有型！",
+    "ja": "管理人、その服似合ってると思うけど、ずーっと同じだと飽きない？たまにはもっとパーッと明るい服にしてみてもイイんじゃん？正直、何着ても管理人ならキマると思うけどなー。",
+    "ko": "관리자, 나 진짜 네 스타일 좋아하긴 하는데, 맨날 똑같은 옷만 입으면 좀 질리지 않아? 좀 더 화려하게 입어볼 생각 없어? 나랑 쇼핑 가자! 아주 멋진 스타일로 만들어줄게!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Perlica won't let me bring my Tweety-Bombs along because she said they're safety hazards. But I just can't live without them! *Sigh*. In the end, I compromised and dismantled the demolition modules before boarding this ship.",
+    "zh-TW": "佩麗卡不讓我帶小暴鴒上艦，說太危險。但我又離不開它們，只能妥協囉，上艦前我把爆破模組都拆掉啦！",
+    "zh-CN": "佩丽卡不让我带小暴鸰上舰，说太危险。但我又离不开它们，只能妥协喽，上舰前我把爆破模块都拆掉啦！",
+    "ja": "ペリカにはボムバチちゃん持ち込み禁止令出されてるんだけど……でも、離れるのヤダから妥協して、爆発モジュール全部外してきたんだよね。",
+    "ko": "펠리카가 내 짹짹이들은 함선에 태우면 안 된대, 너무 위험하다고! 근데 난 얘네 없으면 안 되거든? 그래서 어쩔 수 없이 타협했어. 함선에 타기 전에 폭발 모듈을 싹 다 빼버리기로 말이야!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "I'm planning a La Fantoma getaway. Kinda missed the beaches and ocean breeze... Wanna come with, Endmin? We can also check out their latest coastal engineering. I heard it's got a new layer of Blight-resistant coating they just recently developed.",
+    "zh-TW": "我打算過一陣子去菈梵朵瑪度個假，久違的沙灘和海風……管理員，要不要一起？還可以順便去考察一下那裡的海岸工程，聽說採用了新研發的防侵蝕塗層。",
+    "zh-CN": "我打算过阵子去菈梵朵玛度个假，久违的沙滩和海风……管理员，要不要一起？还可以顺便去考察一下那里的海岸工程，听说采用了新研发的防侵蚀涂层。",
+    "ja": "今度、ラヴァンドマで休み取ろうと思ってるんだ。ひっさびさの太陽とビーチ……管理人も一緒にどう？ついでに、海岸プロジェクトもチェックできるし。最新の防蝕コーティング、使われてるらしいんだよね。",
+    "ko": "나 조만간 라반도르마로 휴가 갈 생각이거든. 오랜만에 해변도 거닐고 바람도 좀 쐬려고... 관리자, 너도 같이 갈래? 겸사겸사 거기 해안 공사도 좀 살펴보고 오자! 듣기론 새로 나온 침식 방지 코팅을 썼대."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "I guess we haven't been in the same picture together, Endmin? How about a selfie? I'm going to add it to Yvonne's Annual Moments collection. And if it doesn't turn out cute, I'm blaming Dijiang's terrible lighting, not my skills!",
+    "zh-TW": "管理員，我還沒有跟你合過照呢！一起來張自拍吧？我會把它放在「伊馮的年度時刻」集錦裡。不要質疑我的拍照技術！如果拍得不好看……那就怪帝江號的燈光囉！",
+    "zh-CN": "管理员，我还没有跟你合过影呢！一起来张自拍吧？我会把它放在“伊冯的年度时刻”集锦里。不要质疑我的拍照技术！如果拍得不好看……那就怪帝江号的灯光咯！",
+    "ja": "管理人、アタシたちまだ2人で写真撮ったコトなくない？今撮ろーよ！「イヴォンヌ年間ベストショット」に入れたいし。え、アタシの写真センス疑ってんの？もし写りがイマイチって思うんなら……それは帝江号のライティングが悪い！",
+    "ko": "관리자, 우리 같이 사진 찍은 적 없지? 빨리 같이 한 장 찍자! 이건 '이본의 올해 순간들' 모음집에 꼭 넣을 거야. 내 촬영 실력? 걱정하지 마! 혹시라도 사진이 이상하게 나오면... 그건 다 제강호 조명 탓이야!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "It appears we have similar tastes in music, Endmin! That means you can swing by my lab and enjoy my latest vinyl once it arrives. After all, good music gets even better with good company!",
+    "zh-TW": "管理員，我們喜歡的音樂還蠻像的嘛！下次新唱片到了，可以來我的實驗室，我們一起聽。好音樂就是要和懂的人一起分享！",
+    "zh-CN": "管理员，咱们喜欢的音乐还挺像的嘛！下次新唱片到了，可以来我的实验室，我们一起听。好音乐就是要和懂的人一起分享！",
+    "ja": "管理人。アタシたち、割と音楽の趣味合うよね？今度新しいレコード届いたら実験室で一緒に聴こうよ。イイ音楽はやっぱ、わかる人と一緒に聞きたいし。",
+    "ko": "관리자, 우리가 좋아하는 음악이 꽤 비슷한 거 알아? 나중에 새 음반이 도착하면 연구실에서 같이 듣자. 좋은 음악은 그걸 알아주는 사람이랑 들어야 최고 아니겠어?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Got a little something for you. Open it when you're back at your place. Heh. You're definitely going to like it, 'cos I asked plenty of \"professionals\" to make sure of that!",
+    "zh-TW": "為你準備了點小東西，記得回去後再打開。嘿嘿，我諮詢過「專業人士」的意見，你一定會喜歡！",
+    "zh-CN": "给你准备了点小东西，记得回去后再打开。嘿嘿，我咨询过“专业人士”的意见，你肯定会喜欢！",
+    "ja": "ちょっとイイ感じのもの、用意しといたよ。あっ、ココで開けないで！へへっ、「プロ」に相談したから、ゼッタイ気に入るハズ！",
+    "ko": "너 주려고 선물을 좀 준비했어. 이따 돌아가면 열어봐! 헤헤, '전문가' 조언까지 받은 거니까 분명 마음에 들 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Aww, thanks! Don't worry, even if it's a teensy bit weird, I'll still treasure it forever ... because it's from you!",
+    "zh-TW": "謝謝啦！放心，你送的東西，就算是有點醜我也會當寶貝收著！",
+    "zh-CN": "谢谢啦！放心，你送的东西，就算是有点丑我也会当宝贝收着！",
+    "ja": "ありがとー！管理人からなら、ちょい微妙でも許す！",
+    "ko": "고마워! 걱정하지 마, 네가 준 거라면 디자인이 좀 별로라도 소중하게 간직할게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Maximizing machine performance was never the intention. Nope. My goal is to provide users with a panic-free and idiot-proof experience. Giving them a good laugh would be the cherry on top. After all, tools should make life easier, not harder.",
+    "zh-TW": "我的設計，從來不只是為了讓機器的效能更強，而是為了讓人在用它的時候不用太緊張，不費腦，最好還能笑一笑。畢竟工具是拿來用的，不是讓人跟它較勁的。",
+    "zh-CN": "我的设计，从来不只是为了让机器的性能更强，而是为了让人在用它的时候不用太紧张，不费脑子，最好还能笑一笑。毕竟工具是拿来用的，不是让人和它较劲的。",
+    "ja": "アタシの設計って、ただ性能だけ良くすればイイって感じにはしてないんだ。ラクに使えて、むしろ笑顔になっちゃうくらいの……だって、道具って使う人のためにあるモノで、戦う相手じゃないんだし。",
+    "ko": "난 성능만 생각해서 뭔가를 설계하지 않아. 사용할 때 편하고, 부담 없고, 또 기분까지 좋아지게 만드는 게 목표거든! 도구가 원래 그런 거잖아? 사용하기 위한 거지, 사람 힘 빼려고 있는 게 아니니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Endmin, can you lend me your Originium Arts? Precision controls over Originium circuitry would grant me tons of design options. For example ... I've always wanted to give Frost-e-Bytee a heating module. Oh, that sounds magnifique! Wait. If it heats things up, it won't be Frost-e anymore...",
+    "zh-TW": "管理員，你的源石技藝能借給我嗎？如果能精準控制源石迴路，設計上就有了超高的靈活性。例如……我一直想幫速凍仔再加一個加熱單元，這樣它就完美了！嗯？這樣就不算是「速凍仔」了？",
+    "zh-CN": "管理员，你的源石技艺能借给我吗？如果能精准控制源石回路，设计上就有了超高的灵活性。比如……我一直想给速冻仔再加一个加热单元，这样它就完美了！嗯？这样就不算是“速冻仔”了？",
+    "ja": "管理人のアーツって貸して貰えたりする？もし源石回路をバッチリ制御できたら、設計にもかなり影響すると思うんだよね。うーん、そうだなあ……例えば、アイスちゃんに加熱ユニットあったら最強じゃん？え、それだと「アイス」じゃないんじゃって……",
+    "ko": "관리자, 오리지늄 아츠 좀 써주면 안 돼? 오리지늄 회로를 정밀하게 제어할 수 있으면 설계를 엄청 자유롭게 할 수 있을 거란 말이야. 예를 들면... '꽁꽁이'한테 가열 유닛을 붙이는 거지! 어때, 완벽하지 않아? 응? 그러면 더 이상 '꽁꽁이'가 아니게 될 거라고?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "I was three when I first read about you in some popular book about science. It said you're a legend with *tons* of responsibilities. But the real you is surprisingly ... cute, I guess? *Chuckle* Oh, you probably don't want to know how they illustrated you in those unlicensed copies. It's better to keep you in the dark...",
+    "zh-TW": "我第一次知道管理員的時候，才三歲，是從一本科普讀物上看來的。書上說你是個大人物，要操心好多事。但真的見到了本人，沒想到……管理員其實還蠻可愛的。不過，你是真不知道有些盜版書把過去的你畫成了什麼樣子……不，你還是別知道了。",
+    "zh-CN": "我第一次知道管理员的时候，才三岁，是从一本科普读物上看来的。书上说你是个大人物，要操心好多事。但真的见到了本人，没想到……管理员其实还挺可爱。不过，你是真不知道有些盗版书把过去的你画成了什么样……不，你还是别知道了。",
+    "ja": "アタシが初めて管理人のことを知ったのは、3歳のときだったかな。科学の本で読んだんだ。スゴい人で、いろんなコトしてるって……でも実際会ってみたら、案外カワイくない？って思っちゃった。だって海賊版じゃどんなだったかって……んー、今のナシ。知らない方がイイ。",
+    "ko": "내가 관리자를 처음 알게 된 건 세 살 때야, 무슨 과학책 같은 곳에서 봤는데, 엄청 바쁘고 대단한 사람이라고 쓰여 있었어. 근데 직접 만나보니까... 그럴 줄 몰랐는데 생각보다 귀여운 거 있지? 근데, 불법으로 유통되는 책에서는 네가 엄청 이상한 사람으로 묘사되고 있는 거 알아? 그... 아니다, 그냥 모르는 게 낫겠다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "When I first took over my Baby Bot project, the prototype was just humongous! They couldn't even fit the thing inside the vehicle hangar! Guess the UWST wanted a heavy industrial rig-on-wheels for neutralizing major glops of Blight. But what about people who have to deal with Blight creeping up their homes? Wait around and pray for the giant wooster rig to show up? C'mon, someone's gotta carry out miniaturization studies. So I spent months in the Science Park working on that... The results totally speak for themselves. The events that followed proved my decision to be *incredibly* wise!",
+    "zh-TW": "我剛接手寶貝小車計劃的時候，設備原型大得誇張，整個組裝處都塞不下了！工團一開始就想做成那種重型器械，用來大範圍清除侵蝕。但如果不試試輕量化，普通人面對突發的侵蝕災害怎麼辦？等移動平台轟隆隆開過來？為了這件事，我在實驗園區連續努力了好幾個月……結果你看，後來發生的事，證明我當時的決定——超級明智！",
+    "zh-CN": "我刚接手宝贝小车项目的时候，设备原型大得离谱，整个装配车间都塞不下了！工团一开始就想做成那种重型器械，用来大范围清除侵蚀。但如果不试试轻型化，普通人面对突发的侵蚀灾害怎么办？等移动平台轰隆隆开过来？为了这事，我在实验园区连轴转了好几个月……结果你看，后来发生的事，证明我当时的决定——超级明智！",
+    "ja": "アタシがクルマちゃんのプロジェクトを引き継いだとき、原型がめっちゃ大きくて工場に収まんなくて。工業団は重機として大規模な侵蝕に対処するって言ってたけど……それだと普通の人が急に侵蝕災害に巻き込まれたら、どうしようもないじゃんね？だから、軽量化のために何カ月もぶっ通しで研究続けて……で、この結果。アタシの判断、大正解だったってコト！",
+    "ko": "씽씽이 프로젝트를 처음 맡게 됐을 때, 시제품이 너무 커서 공장에도 다 안 들어갈 정도였어! 왜냐하면 원래 공단이 대규모 침식 제거용 중장비로 만들려고 했던 거거든. 근데 그럼 일반인이 갑자기 침식 재해를 마주치면 어떻게 되겠어? 중장비가 올 때까지 멀뚱멀뚱 기다릴 순 없잖아. 그래서 내가 실험 구역에서 몇 달 동안 밤낮없이 소형화를 위한 작업을 진행했고... 결과적으로는 너도 알겠지만, 내 결정이 정말 옳았다는 거지!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "Fabulous music, exhilarating concerts, chic fashion, the beautiful sunrises and sunsets over the Talosian horizon — I actually know that everything I love is teetering on the edge of destruction. It's the reason why I became an Endfielder. I want to do something and ensure that the fragile beauty of our world lives on. I mean, I haven't had enough fun yet, so I'm not gonna let this world end on my watch!",
+    "zh-TW": "我其實一直都知道，我喜歡的那些東西——美妙的音樂、精彩的演出、漂亮的衣服，還有塔衛二的日出日落……全都很脆弱。正因為這樣，我才加入了終末地。我想做點什麼，讓這些脆弱但美好的東西，能存續下去。我還沒有享受夠呢，所以這個世界可不准完蛋！",
+    "zh-CN": "我其实一直都知道，我喜欢的那些东西——美妙的音乐、精彩的演出、漂亮的衣服，还有塔卫二的日出日落……全都很脆弱。正因为这样，我才加入了终末地。我想做点什么，让这些脆弱但美好的东西，能存续下去。我还没有享受够呢，所以这个世界可不许完蛋！",
+    "ja": "実は気づいてたよ。アタシが好きなモノ……音楽、ライブ、ファッション、それにタロⅡの朝日も夕焼けも……全部、儚いんだって。だから、エンドフィールドに入った。だってまだまだ楽しみたいじゃん？この世界を、ゼッタイ終わらせたくないんだ。",
+    "ko": "난 사실 알고 있었어. 내가 좋아하는 멋진 음악이나 환상적인 공연, 예쁜 옷, 탈로스 II의 일출과 일몰까지... 모두 너무나도 소중하지만 순식간에 사라질 수 있다는 걸 말이야. 그래서 엔드필드에 들어온 거야. 이 아름다운 것들이 사라지지 않도록 뭐라도 해야겠다고 생각했거든. 내가 아직 다 즐겨보지도 못했는데, 이 세상이 그냥 망해버리면 안 되잖아!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0017_yvonne_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "If you ask me, I'll choose a TGCC city in the band for quality of life. But for work? HELL NO! Corporate Practice requires employees to clock in six times a day. Can you imagine that?!",
+    "zh-TW": "如果是生活，我當然首選環塔商會的城市；但工作嘛，那裡實在是不適合我。你能想像嗎？他們一天要打六次卡！",
+    "zh-CN": "如果是生活，我当然首选环塔商会的城市；但工作嘛，那里实在不适合我。你能想象吗？他们一天要打六次卡！",
+    "ja": "暮らすだけなら、環タロ商会の街が最高だと思うけど……仕事はムリ。アタシは合わない。だって1日に6回打刻しなきゃなんだよ？ムリすぎない？",
+    "ko": "상업연합회 도시들이 그냥 생활하기에는 진짜 좋다? 근데 일하는 건... 어휴, 말도 마. 하루에 출퇴근 카드를 여섯 번 찍으라는 게 말이 돼?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Now this one's from the Witching Hour. I just LURRV their style. They get their design elements from all sorts of things. Even the texture and grain of Aggeloid carapace! Danger is just so much more ... *enticing*. Don't you agree, Endmin?",
+    "zh-TW": "這件衣服是巫術時刻出品的，我超喜歡他們的設計風格。他們會從一切地方找點子，甚至會模仿天使外殼的紋理。危險的東西反而更有魅力，不是嗎，管理員？",
+    "zh-CN": "这件衣服是巫术时刻出品的，我超喜欢他们的设计风格。他们会从一切地方找点子，甚至会模仿天使外壳的纹理。危险的东西反而更有魅力，不是吗，管理员？",
+    "ja": "これ、「ウィッチタイム」製の服。デザインめっちゃ好きなんだー。発想がスゴいっていうか、何でもアリで……アンゲロスの外殻を模様にしたりとか。危険なモノほど魅力的ってヤツ……ね、管理人もそう思うよね？",
+    "ko": "이 옷은 주술 타임 브랜드에서 만든 거야. 내가 이 브랜드 디자인을 엄청 좋아하거든! 디자인의 영감을 세상 모든 곳에서 받는 것 같아, 아겔로스 외피의 질감이 연상되는 옷까지 있다니까? 위험할수록 매력적인 법이잖아, 너도 그렇게 생각하지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Yvonne is a Gallian name. Father told me that we inherited a great legacy and everyone in the family was pretty proud of that. But I don't exactly share their sentiments. Terra is far enough away already, and that ancient empire was long gone. What's so important about pedigrees or bloodlines anyway? And then there's this guy called Corsi-Something le First? Was he really that great to begin with?",
+    "zh-TW": "「伊馮」是個高盧名字。我爸說，我們家的血統大有來頭，大家都覺得那是很值得驕傲的事。但對我來說嘛，沒什麼特別的感覺。泰拉離我們都已經夠遙遠了，更別提那上面一個早就消失的帝國了。真不懂血統這種概念，到底哪裡重要了，那個什麼科什麼一世的，有那麼了不起嗎？",
+    "zh-CN": "“伊冯”是个高卢名字。我爸说，我们家的血统大有来头，大家都觉得那是很值得骄傲的事。可对我来说嘛，没啥特别的感觉。泰拉离我们都已经够遥远了，更别提那上面一个早就消失的帝国了。真不懂血统这种概念，到底哪里重要了，那个什么科什么一世的，有那么了不起吗？",
+    "ja": "「イヴォンヌ」はガリアの名前なんだって。父親は血筋を誇りだって言うけど、正直アタシには全然ピンと来ない。テラ自体がもう遠い存在なのに、そこにあった帝国って……血筋ってそんなに大事？その「なんとか一世」って、ほんとにそんなスゴい人なの？",
+    "ko": "'이본'은 가울식 이름이야. 아빠는 우리가 혈통 있는 집안이라고 엄청 자랑스러워하셨는데, 난 사실 별생각 없어. 테라도 충분히 먼 옛날인데, 하물며 오래전에 멸망한 제국 얘기까지... 대체 혈통이 뭐가 그리 중요하다는 건지 모르겠어. 그 코르 어쩌고 1세라는 사람이 그렇게 대단한가?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "Ah, this...? Well... I just swapped out the thermal furnace connector in the lab. Compatibility with an instant noodle cooker was purely *coincidental*. I'm telling you, this is legit technical v&v. Don't look at me like I'm some lazy bum... Oh, fine! I'll share some with you... And ... you won't tell Perlica about this, right?",
+    "zh-TW": "我只是順手把實驗室的熱能爐改了個接口，然後這個接口剛好可以煮泡麵。這不是偷懶，這是技術驗證！好吧，我分給你一份……你不會告訴佩麗卡的，對吧？",
+    "zh-CN": "我只是顺手给实验室的热能炉改了个接口，然后这个接口恰好可以煮泡面。这不是偷懒，这是技术验证！行吧，我分给你一份……你不会告诉佩丽卡的，对吧？",
+    "ja": "実験室のエネルギー炉、ちょっと改造しただけ！そしたらほんとたまたま！カップ麺作れるようになっただけ！サボりじゃなくって、技術検証ってヤツなんだってばー！……んーじゃあ、はい。ちょっとあげるから……ペリカには内緒にして、お願い！",
+    "ko": "실험실에 있던 열에너지 반응로의 연결 장치를 살짝 손봤더니 라면 끓이기 딱 좋은 정도가 된 거 있지? 이건 노는 게 아니라, 엄연한 기술 테스트야. 아, 알았어, 너도 한 입 줄게. 대신, 펠리카한테는 비밀이다?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "I've actually interned at the TGCC, HAS, and UWST. But the Endfield HR Division gave me an offer that I simply couldn't refuse: Unrestricted access to the Endfield databank on everything Ætherside! They even highlighted this particular line: \"Access authority level shall be on par with that of the Endministrator.\"",
+    "zh-TW": "其實我在商會、宏科院和工團都實習過，但當時終末地的人事部開給我無法拒絕的條件：獲得所有超域相關資料的閱讀權限。其中還著重標註了一句：權限等級和管理員相同。",
+    "zh-CN": "其实我在商会、宏科院和工团都实习过，但当时终末地的人事部给我开了无法拒绝的条件：获得所有超域相关资料的阅读权限。其中还着重标注了一句：权限等级和管理员相同。",
+    "ja": "実は商会と宏科院と工業団でもインターンしてたんだよね。そしたらエンドフィールドの人事部からめっちゃスゴい条件来て……それが「超域関連の全資料閲覧許可」。しかも、権限レベルは管理人に等しいって……ほんと、ヤバいよね？",
+    "ko": "사실 난 상업연합회랑 홍산 과학원, 공단 세 곳 모두에서 인턴으로 일했던 적이 있어. 그런데 엔드필드 인사부가 도저히 거절할 수 없는 조건을 내건 거 있지? '초자연에 관련된 모든 자료의 열람 권한'! 게다가 특히 강조된 문장이 하나 있었어, '관리자와 권한 등급이 동일함'."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_about_line01",
+   "title": {
+    "en": "Topic: Ætherside",
+    "zh-TW": "話題：超域",
+    "zh-CN": "话题：超域",
+    "ja": "超域について",
+    "ko": "초자연에 관하여"
+   },
+   "text": {
+    "en": "We hardly know anything about the Ætherside. It might be a completely dark place ... or a realm of absolute chaos. As of now, Blight phenomena are the only things we can observe. They come in all sorts of weird colors — like the conventional laws governing the optical spectrum don't even apply. Truth be told, having spent so much time studying them ... I can't help but feel that they're actually quite ... enthralling.",
+    "zh-TW": "我們對超域的瞭解，其實少得可憐。裡面可能一片漆黑，也可能是……徹底的混亂。我們現在能看到的，就只有那些侵蝕現象。它們的顏色很詭異，像是顛覆了光譜的原理。但說真的，看久了，我甚至覺得它們……有點迷人？",
+    "zh-CN": "我们对超域的了解，其实少得可怜。里面可能一片漆黑，也可能是……彻底的混乱。我们现在能看到的，就只有那些侵蚀现象。它们的颜色很诡异，像是颠覆了光谱的原理。但说真的，看久了，我甚至觉得它们……有点迷人？",
+    "ja": "アタシたちが超域について知ってるコトなんて、ほーんの一部。中が真っ暗なのか、グチャグチャなのかもわかんない。とにかく、今見えるのは侵蝕現象だけ。色も不自然で、スペクトルの理論も崩壊してる。でもずっと見てると、目が離せなくなったりもして……ヘンだよね。",
+    "ko": "우린 초자연에 대해 정말 아는 게 없어. 안은 어쩌면 깜깜할 수도 있고, 완전 난장판일 수도 있지. 지금의 우리가 관찰할 수 있는 건 침식의 현상일 뿐이니까. 그 색깔도 진짜 이상하지 않아? 꼭 스펙트럼이 뒤틀린 것 같아. 아, 근데 또 계속 보다 보면... 뭔가 매력이 있는 것 같기도 하고...?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_about_line02",
+   "title": {
+    "en": "Topic: TGCC Cities",
+    "zh-TW": "話題：環塔商會的城市",
+    "zh-CN": "话题：环塔商会的城市",
+    "ja": "環タロ商会の街について",
+    "ko": "상업연합회의 도시에 관하여"
+   },
+   "text": {
+    "en": "I visit quite a few TGCC cities every year. Alloycarrot is where I get my materials and equipment, and New Wrankwood's Film Festival is where I do some serious movie-binging. But if I'm talking about my favorite city, it has to be Kjersch. Surprised, huh? I love their snow, their open skies, and their quiet serenity.",
+    "zh-TW": "我每年都會去環塔商會的城市好幾趟，去合金蘿蔔城採購材料和設備，或是去新藍卡塢的電影節把電影看個夠。但我最喜歡的城市是耶爾什，想不到吧？我喜歡那裡的雪，那裡的天空，那裡的萬籟俱寂。",
+    "zh-CN": "我每年都会去环塔商会的城市好几趟，去合金萝卜城采购材料和设备，或是去新蓝卡坞的电影节把电影看个够。但我最喜欢的城市是耶尔什，想不到吧？我喜欢那里的雪，那里的天空，那里的万籁俱寂。",
+    "ja": "アタシ、割とよく環タロ商会の街行くんだ。メタルキャロットシティで色々仕入れたり、ニューランクウッドで映画祭行ったり。でも、一番好きなのはイェルシェかなー。意外かもだけど……あの雪と空、それから静まり返った空気が好きなんだ。",
+    "ko": "난 상업연합회 소속의 도시들을 자주 가는 편이야. 합금 무성에서 재료랑 설비를 사기도 하고, 뉴 랭크우드 영화제에 가서 영화도 잔뜩 보기도 하지. 근데 내가 제일 좋아하는 도시는 옐시다? 좀 의외지? 난 거기 눈이랑 하늘, 그리고 온 세상이 고요해지는 그 순간들이 정말 좋거든."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_about_line03",
+   "title": {
+    "en": "Topic: Popular Culture",
+    "zh-TW": "話題：流行文化",
+    "zh-CN": "话题：流行文化",
+    "ja": "流行について",
+    "ko": "유행 문화에 관하여"
+   },
+   "text": {
+    "en": "Terran Retro is something that my grandparents listened to when they were teens. What's IN right now is Neo-Talosian. I LURRRV the song STEREO! We're Talosians, born and raised — of course we're gonna drop jams that are Talos-II-legit.",
+    "zh-TW": "「泰拉復古音樂」已經是我爺爺奶奶還年輕的時候聽的了啦。環塔商會現在的流行樂是「新塔風」。最近那首《立體聲》，我就超級喜歡！我們生在塔衛二，長在塔衛二，當然要搞點屬於塔衛二的新東西。",
+    "zh-CN": "“泰拉复古音乐”已经是我爷爷奶奶还年轻的时候听的啦。环塔商会现在的流行乐是“新塔风”。最近那首《立体声》，我就超级喜欢！我们生在塔卫二，长在塔卫二，当然要搞点属于塔卫二的新东西。",
+    "ja": "「テラ・レトロポップ」なんて、おじーちゃんおばーちゃん世代の曲だし。今環タロ商会では「ニュー・タロスタイル」がめっちゃ流行ってるよ。最近人気の「ステレオ」って曲、超イイし……タロⅡで生まれたんだから、やっぱコレがタロⅡって曲、どんどん作ってかないとじゃん？",
+    "ko": "'테라 레트로 음악'은 우리 할아버지, 할머니 때 유행했던 음악이야. 요즘 상업연합회에서는 '뉴 탈로스풍'이 뜨고 있거든. 특히, 최근에 <스테레오>라는 노래가 나왔는데 진짜 최고야! 우린 탈로스 II에서 태어나고 자랐으니까, 당연히 탈로스 II만의 새로운 걸 만들어야지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_about_line04",
+   "title": {
+    "en": "Topic: Childhood",
+    "zh-TW": "話題：童年",
+    "zh-CN": "话题：童年",
+    "ja": "幼少期について",
+    "ko": "어린 시절에 관하여"
+   },
+   "text": {
+    "en": "When I was a child, my parents were really busy and there was no one else around. So they gave me a fowlbeast as a playmate. It was loud, bad tempered, and kept messing up my room ... but I really loved that creature. You probably guessed that it was the inspiration for my Tweety-Bomb. Though my Tweety-Bombs make a lot less noise, they inherited the foul temper of that cute ball of feathers.",
+    "zh-TW": "我爸媽都蠻忙的，小時候基本上沒人陪我。他們送了我一隻羽獸，當作我的玩伴。牠很吵，脾氣非常暴躁，把我的房間弄得亂糟糟的……但我真的很喜歡牠。也許你已經猜到了，牠就是「小暴鴒」的原型。小暴鴒雖然安靜多了，但還是繼承了牠的壞脾氣。",
+    "zh-CN": "我爸妈都挺忙的，小时候基本没人陪我。他们送了我一只羽兽，当作我的玩伴。它特别吵，脾气非常暴躁，把我的房间搞得乱糟糟的……但我真的很喜欢它。也许你已经猜到了，它就是“小暴鸰”的原型。小暴鸰虽然安静多了，但还是继承了它的坏脾气。",
+    "ja": "アタシの両親、いつも忙しかったんだ。子どもの頃は遊び相手もいなくて、それで親が羽獣くれたの。すっごいうるさいし、暴れん坊で部屋グッチャグチャにして……でも、大好きな友達だった。もう気づいてるかもだけど、それが「ボムバチちゃん」のモデル。ボムバチちゃんは静かだけど、性格は……ほんとそっくりなんだよ。",
+    "ko": "우리 부모님은 엄청 바쁘셔서 어릴 때 난 거의 혼자였어. 그래서인지 부모님이 나한테 파울비스트 한 마리를 선물해 주셨지, 친구처럼 지내라고. 근데 걔가 얼마나 시끄럽고 성깔이 고약했는지 몰라. 내 방을 엉망으로 만들어 놓기 일쑤였거든... 그래도 난 정말 걔를 좋아했어. 눈치챘겠지만, 걔가 바로 '짹짹이'의 원형이야. 짹짹이가 걔보다 얌전하긴 한데, 나쁜 성격은 그대로 물려받았지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_about_line05",
+   "title": {
+    "en": "Topic: Valley IV",
+    "zh-TW": "話題：四號谷地",
+    "zh-CN": "话题：四号谷地",
+    "ja": "四号谷地について",
+    "ko": "4번 협곡에 관하여"
+   },
+   "text": {
+    "en": "I actually never intended to stay at Valley IV when I first arrived three years ago. But Professor Crowe showed me some rift data readings from the Æther Test Site — got me hooked right there and then! Shame we couldn't agree on anything after that. Total research meltdown. Old Crowe couldn't beat me, so he sent me to Andre instead. Guess what? My project started spitting out solid results with that sweet Endfield tech support! I was chugging out papers left and right for three years straight! Oh, Valley IV is truly my special zone of fortune.",
+    "zh-TW": "三年前剛來四號谷地的時候，我根本沒有打算久留。但克勞老師一把超域實驗場的裂隙數據甩出來，我就上鉤了！後來，我們兩個整天因為研究路線吵架，他吵不過我，乾脆把我塞給了安德烈。結果你猜怎麼樣？有了終末地的技術支援，我的研究簡直一發不可收拾！這三年，我的論文大爆發——四號谷地，還真是我的福地。",
+    "zh-CN": "三年前刚来四号谷地的时候，我压根没打算久留。但克劳老师一把超域试验场的裂隙数据甩出来，我就上钩了！后来，我们俩整天因为研究路线吵架，他吵不过我，干脆把我塞给了安德烈。结果你猜怎么着？有了终末地的技术支持，我的研究简直一发不可收拾！这三年，我的论文大爆发——四号谷地，还真是我的福地。",
+    "ja": "3年前、四号谷地に来たとき、正直長居するつもりはなかったんだよね。でも、クロウ先生が超域実験場の裂け目のデータ見せてくれて……引き込まれちゃった。それから毎日、研究のコトであーだこーだ議論して。先生はアタシに口じゃ勝てないから、アンドレイに押し付けて……結果、エンドフィールドのサポートのおかげで研究効率爆上がりして――3年でびっくりするくらいの論文書けちゃった。四号谷地、アタシにとってはほんと、特別な場所だよ。",
+    "ko": "3년 전에 처음으로 4번 협곡에 왔을 때는 오래 있을 생각이 전혀 없었어. 근데 갑자기 크로 선생님이 초자연 실험 장소의 균열 데이터를 보여주는 거 있지? 뭐에 홀린 것처럼 확 빠져들었어! 근데 연구 방향이 맞아야 말이지... 하루가 멀다고 싸워댔어. 결국 선생님은 날 안드레한테 보내버렸고, 결과적으로 엔드필드의 기술 지원을 받은 난 천재성이 폭발해 버린 거야! 3년간, 논문만 수백 편은 넘게 쓴 것 같아. 4번 협곡은 진짜 나한테 보물 같은 곳이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Ohhhh! Gotta take that one back for my studies.",
+    "zh-TW": "那個那個！帶回去研究研究。",
+    "zh-CN": "那个那个！带回去研究研究。",
+    "ja": "あ、それ！持ち帰って研究したいかも！",
+    "ko": "저거 저거! 가져가서 좀 연구해보자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Psst. Got a secret for you. The stuff over there is made of awesome!",
+    "zh-TW": "偷偷告訴你，那裡都是好東西！",
+    "zh-CN": "偷偷告诉你，那儿都是好东西！",
+    "ja": "教えてあげよっか。あっち、イイものありそう。",
+    "ko": "이건 비밀인데, 저기 좋은 거 엄청 많다?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Never been to that place. Let's head over for a closer look.",
+    "zh-TW": "那附近我也沒去過。走，我們去看看！",
+    "zh-CN": "那附近我也没去过。走，咱们去瞧瞧！",
+    "ja": "あの辺はアタシも行ったコトないなー。行ってみようよ。",
+    "ko": "나도 저 근처는 안 가봤는데. 같이 구경해 보자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Tweety-Bomb looks a little nervous. That one's probably a naughty big bad.",
+    "zh-TW": "我的小暴鴒有點緊張，那傢伙應該很厲害！",
+    "zh-CN": "我的小暴鸰有点紧张，那家伙应该很厉害！",
+    "ja": "ボムバチちゃんが震えてる……結構強そうかも。",
+    "ko": "짹짹이가 좀 긴장했어! 꽤 강한 상대인가 봐!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Should've furnished my pewpews with a specialized mining module.",
+    "zh-TW": "應該幫武器加裝一個採礦專用模組的。",
+    "zh-CN": "应该给武器加装一个采矿专用模块的。",
+    "ja": "武器に採掘用のモジュールつけたらイイ感じになりそうじゃん？",
+    "ko": "무기에 채굴 전용 모듈을 추가해야 했는데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Here to help! I happen to be an expert demolitionist!",
+    "zh-TW": "來幫忙了！爆破什麼的我很擅長喔！",
+    "zh-CN": "来帮忙啦！爆破什么的我很擅长哦！",
+    "ja": "手伝うよ！爆破とか得意だし。",
+    "ko": "도와주러 왔어! 폭파 같은 건 내가 전문이지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Wow, that's some nice-looking bling.",
+    "zh-TW": "哇，裡面的東西好好看啊。",
+    "zh-CN": "哇，里面的东西好好看啊。",
+    "ja": "うわー、めっちゃイイ感じじゃん。",
+    "ko": "우와, 안에 있는 거 엄청 예쁘다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Such fluid, effervescent glittering. I've always wanted my nails varnished like that.",
+    "zh-TW": "我一直想要一款像這樣流光變幻的指甲油。",
+    "zh-CN": "我一直想要一款像这样流光变幻的指甲油。",
+    "ja": "こんな感じで光るネイル、やってみたかったのになー……",
+    "ko": "나 이런 반짝반짝 색 바뀌는 매니큐어, 진짜 갖고 싶은데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Absolute neutralization! What do you think?",
+    "zh-TW": "怎麼樣？消除得乾乾淨淨！",
+    "zh-CN": "怎么样？消除得干干净净！",
+    "ja": "ほらほら！めっちゃキレイになった！",
+    "ko": "어때? 완전 깔끔하게 제거했지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Whew. Been waiting for this break forever. Gotta tame this wild hair...",
+    "zh-TW": "終於能休息一下了，髮型都亂了，得快點整理下。",
+    "zh-CN": "终于能歇一歇了，发型都乱了，得赶紧整理下。",
+    "ja": "やっと休憩だー。てか、髪ボサボサでヤバい……早く直さなきゃ。",
+    "ko": "이제 좀 쉴 수 있겠네. 헤어스타일 완전 엉망이니까 빨리 정리해야겠다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Don't panic. Try this.",
+    "zh-TW": "別緊張，試試這個。",
+    "zh-CN": "别紧张，试试这个。",
+    "ja": "落ち着いて。コレ使って！",
+    "ko": "진정하고, 이거 한번 써봐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Ahhh... I'm feeling much better!",
+    "zh-TW": "啊，現在舒服多了！",
+    "zh-CN": "啊，现在舒服多了！",
+    "ja": "んー、だいぶラクかも！",
+    "ko": "하아, 이제 좀 살겠네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Evade! I'll cover you!",
+    "zh-TW": "我掩護你，快閃開！",
+    "zh-CN": "我掩护你，快闪开！",
+    "ja": "援護するから、下がって！",
+    "ko": "엄호할 테니 빨리 피해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Hngh... It hurts... They got me bad...",
+    "zh-TW": "嗚，好痛！好像受傷了……",
+    "zh-CN": "呜，好疼！好像受伤了……",
+    "ja": "うう……いったあ……結構ヤバいかも……",
+    "ko": "으윽, 아파! 나 다친 것 같아..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Shoot... I'm out...",
+    "zh-TW": "討厭！彈藥耗盡了……",
+    "zh-CN": "讨厌！弹药耗尽了……",
+    "ja": "もう……！弾切れとか、最悪……",
+    "ko": "아 진짜! 탄약이 다 떨어졌어..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Spectacular!",
+    "zh-TW": "剛才那招好帥！",
+    "zh-CN": "刚才那招好帅！",
+    "ja": "さっきのヤツ、最高じゃん！",
+    "ko": "방금 거 진짜 멋있었어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "You're so amazing, team!",
+    "zh-TW": "大家都好厲害！",
+    "zh-CN": "大家都好厉害！",
+    "ja": "みんな、めっちゃイイよ！",
+    "ko": "다들 대단한데!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Uh-huh. Greatness is kinda my thing!",
+    "zh-TW": "那當然，也不看看我是誰！",
+    "zh-CN": "那当然，也不看看我是谁！",
+    "ja": "とーぜん。アタシを誰だと思ってんの？",
+    "ko": "당연하지, 내가 누군데!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "Beautiful teamwork.",
+    "zh-TW": "我們配合得不錯。",
+    "zh-CN": "咱们配合得不错。",
+    "ja": "連携、完璧すぎない？",
+    "ko": "우리 호흡이 잘 맞는 걸?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "All equipment charged and ready.",
+    "zh-TW": "所有裝備蓄能完畢。",
+    "zh-CN": "所有装备充能完毕。",
+    "ja": "全装備、チャージ完了！",
+    "ko": "모든 장비 충전 완료!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Fire support, hot and ready!",
+    "zh-TW": "火力支援就交給我吧！",
+    "zh-CN": "火力支援就交给我吧！",
+    "ja": "火力で援護するから！",
+    "ko": "화력 지원은 나한테 맡겨!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Victory is ours! Time for a selfie.",
+    "zh-TW": "贏啦！我要拍張照紀念一下。",
+    "zh-CN": "赢啦！我要拍张照纪念一下。",
+    "ja": "勝ったー！記念にパシャっと撮っとく？",
+    "ko": "이겼다! 기념으로 사진 한 장 남겨야지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "FYI, I'm also quite the combat expert.",
+    "zh-TW": "沒想到吧，戰鬥對我來說也不在話下。",
+    "zh-CN": "没想到吧，战斗对我来说也不在话下。",
+    "ja": "ビックリした？戦闘だって超余裕なんだから。",
+    "ko": "놀랐어? 전투도 나름 꽤 한다고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Hmph. This triumph deserves a real partay!",
+    "zh-TW": "嗯，這麼痛快的勝利一定要慶祝一下。",
+    "zh-CN": "嗯，这么痛快的胜利一定要庆祝一下。",
+    "ja": "めっちゃ気持ちいい勝ち方した！お祝いしよ！",
+    "ko": "좋아! 이렇게 통쾌하게 이겼는데, 당연히 축하해야지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "Battles are hard to predict, even for Tink-a-Bella... *BUT* we'll definitely do better next time.",
+    "zh-TW": "戰場上變數太多，連「小滴答」都無法預測……但下次我們一定能做得更好！",
+    "zh-CN": "战场上变数太多，连“小嘀嗒”都无法预测……但下次我们肯定能做得更好！",
+    "ja": "戦場はギリギリまで何があるかわかんない……ピタちゃんでも……うん、でも次はゼッタイうまくやれるって。",
+    "ko": "전장은 변수가 너무 많아서 '삐삐'도 전부 예측하는 건 힘들어... 그래도 다음엔 더 잘할 수 있을 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Blasted blightery! I'm upping Frost-e-Bytee's output by 5000 percent! Let's see how they beat that!",
+    "zh-TW": "可惡！我要把速凍仔的功率提升五十倍，下次要贏我可就沒那麼容易了。",
+    "zh-CN": "可恶！我要给速冻仔的功率提升五十倍，下次要赢我可就没那么容易了。",
+    "ja": "くっそ……次はアイスちゃんの出力50倍にして……そしたらゼッタイ負けたりなんか……",
+    "ko": "아 진짜! 꽁꽁이의 출력을 50배로 올려야겠어. 다음에 날 이기긴 쉽지 않을걸?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Power shot!",
+    "zh-TW": "火力加倍！",
+    "zh-CN": "火力加倍！",
+    "ja": "火力倍増！",
+    "ko": "화력 두 배!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "One more shot!",
+    "zh-TW": "再來一下！",
+    "zh-CN": "再来一下！",
+    "ja": "もういっちょ！",
+    "ko": "한 번 더!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Feel the chill!",
+    "zh-TW": "降溫了哦！",
+    "zh-CN": "降温了哦！",
+    "ja": "冷やしてあげる！",
+    "ko": "조금 추울걸?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Simmer down!",
+    "zh-TW": "幫你消消火！",
+    "zh-CN": "给你消消火！",
+    "ja": "クールダウンしたら？",
+    "ko": "열 좀 식혀줄까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Get iced!",
+    "zh-TW": "冷靜一下吧！",
+    "zh-CN": "冷静一下吧！",
+    "ja": "頭冷やせー！",
+    "ko": "진정시켜 줄게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Ready to blast!",
+    "zh-TW": "武器就緒！",
+    "zh-CN": "武器就绪！",
+    "ja": "武器セット完了！",
+    "ko": "무기 준비 끝!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Fully energized.",
+    "zh-TW": "蓄能完畢！",
+    "zh-CN": "充能完毕！",
+    "ja": "チャージ完了！",
+    "ko": "충전 완료!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Go! Frost-e!",
+    "zh-TW": "去吧，速凍仔！",
+    "zh-CN": "去吧，速冻仔！",
+    "ja": "アイスちゃん！いっけー！",
+    "ko": "가라, 꽁꽁이!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Let's get icy!",
+    "zh-TW": "一起涼快涼快！",
+    "zh-CN": "一起凉快凉快！",
+    "ja": "冷やしてあげよー！",
+    "ko": "다 같이 식혀줄게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "KABOOM!",
+    "zh-TW": "快速瞄準！",
+    "zh-CN": "快速瞄准！",
+    "ja": "爆速ロックオン！",
+    "ko": "빠른 조준!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Purrrfect shot!",
+    "zh-TW": "精準一擊！",
+    "zh-CN": "精准一击！",
+    "ja": "ドカンと一発！",
+    "ko": "정확한 일격!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Let us dance!",
+    "zh-TW": "來，一起跳個舞吧！",
+    "zh-CN": "来，一起跳个舞吧！",
+    "ja": "ほら、一緒に踊ろ！",
+    "ko": "자, 다같이 춤춰볼까!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Passion supercharged!",
+    "zh-TW": "感受我「超載的熱情」吧！",
+    "zh-CN": "感受我“超载的热情”吧！",
+    "ja": "「オーバーロードの情熱」受け取れっ！",
+    "ko": "내 '과부하된 열정'을 느껴볼래?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0017_yvonne_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Fireworks for you!",
+    "zh-TW": "送你一場煙火秀！",
+    "zh-CN": "送你一场烟花秀！",
+    "ja": "花火ショー、やってあげよっか！",
+    "ko": "불꽃놀이 시작!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [],
+ "skipped": 0
+}

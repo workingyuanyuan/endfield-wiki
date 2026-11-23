@@ -1,0 +1,3085 @@
+{
+ "slug": "avywenna",
+ "gameId": "chr_0012_avywen",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Avywenna \nGENDER: Female \nAUTHENTICATION: Talos-II General Chamber of Commerce (TGCC) \nDOB: October 25 \nRACE: Cautus \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Standard \nCOMBAT SKILL: Excellent \nTACTICAL ACUMEN: Standard \nORIGINIUM ARTS ASSIMILATION: Standard",
+    "zh-TW": "【代號】艾維文娜\n【性別】女\n【身分認證】環塔商會\n【生日】10月25日\n【種族】卡特斯\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：標準\n作戰技巧：優良\n戰術規劃：標準\n源石技藝適應性：標準",
+    "zh-CN": "【代号】艾维文娜\n【性别】女\n【身份认证】环塔商会\n【生日】10月25日\n【种族】卡特斯\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：标准\n作战技巧：优良\n战术规划：标准\n源石技艺适应性：标准",
+    "ja": "【コードネーム】アイビーエナ\n【性別】女\n【身分証明】環タロ商会\n【誕生日】10月25日\n【種族】コータス\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：標準\n戦闘技術：優秀\n戦術立案：標準\nアーツ適性：標準",
+    "ko": "[코드네임] 아비웨나\n[성별] 여\n[신분 인증] 탈로스 II 상업연합회\n[생일] 10월 25일\n[종족] 카우투스\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 우수\n전술 계획: 표준\n오리지늄 아츠 적응성: 표준"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Avywenna is an Armed Messenger of the Special Logistics Module under the Endfield Industries Specialist Tech Division. \n\nSweet as a sugar carrot, but armed with a big lance — this summarizes my evaluation of Avywenna. If she intends to get something done, she would do so with the most honeyed approach and most merciless of measures. Of course, if Avy was found out she had indulged in the latter, she would treat it as a lapse in performance. Avy has confessed to us: \"To get things done in the wildlands, even the kindest soul must put on the most vicious mask.\" She has exhibited child-like innocence, acted like a mercenary, and negotiated like a professional fraud — We do not know which of these best represents the true profile of Avywenna. Perhaps this might be the reason for her excellent mission performance. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "艾維文娜，武裝信使，現隸屬於終末地工業特種技術部門。\n\n一個同時持有胡蘿蔔和大棒的人——這就是我對艾維文娜的評價。對於她意圖之事，她將以甜蜜的態度和殘酷的手段達成，當然，如果後者顯露於眾，對她而言將是一種小小的失誤。她坦承：「在荒地上行動，即便是最善良的人也要扮出最兇惡的樣子。」稚童的心性，打手的行動，騙子的周旋——我們不知道哪一面是真正的艾維文娜，這也是她能夠出色地履行她的職責的原因之一。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "艾维文娜，武装信使，现隶属于终末地工业特种技术部门。\n\n一个同时持有胡萝卜和大棒的人——这就是我对艾维文娜的评价。对于她意图之事，她将以甜蜜的态度和残酷的手段达成，当然，如果后者显露于众，对她而言将是一种小小的失误。她坦承：“在荒地上行动，即便是最善良的人也要扮出最凶恶的样子。”稚童的心性，打手的行动，骗子的周旋——我们不知道哪一面是真正的艾维文娜，这也是她能够出色地履行她的职责的原因之一。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "武装トランスポーター・アイビーエナは現在、エンドフィールド特殊技術部に所属している。\n\n「飴と鞭の両方を使いこなす人――これが、アイビーエナに初めて会ったときの印象でした。彼女は目的を実現するために、蜜のような態度と、冷酷とも言える手段を巧みに使いこなします。もしその「鞭」の部分が表に見えてしまったなら、彼女にとっては小さな失策になるのでしょうね。彼女は率直に語ってくれましたよ。『荒野で動くときは、とてもいい人だったとしても、すごく意地悪そうな顔をしていないといけないの。』子どものような心を持ち、用心棒のように動き、詐欺師のように立ち回る――いったいどれが本当のアイビーエナなのか、私たちにはわかりません。しかし、この掴みどころのない性格が、見事に役割を果たせる理由の1つなのでしょう。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "아비웨나, 무장한 전달자, 엔드필드 공업 특수 기술부에서 근무하고 있다.\n\n당근과 채찍을 동시에 쥐고 있는 사람, 아비웨나를 평가하자면 딱 이렇다. 그녀는 자신의 목적을 달성하기 위해서는 친절한 태도와 잔혹한 수단을 병행한다. 물론, 그 잔혹한 수단이 겉으로 드러난다면, 그건 그녀에게 있어서는 작은 실수일 뿐이다. 그녀는 '황무지에서 움직이려면, 가장 선한 사람이라도 가장 흉악한 모습을 연기해야만 한다'고 솔직히 인정한다. 어린아이 같은 순수함, 해결사의 행동력, 그리고 사기꾼같은 수완까지, 어느 모습이 진짜 아비웨나인지 알 수 없지만, 그게 바로 그녀가 임무를 훌륭하게 수행할 수 있는 이유 중 하나다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "While serving as a messenger in our Specialist Tech Division, Operator Avywenna could not give a more different vibe than Operator Gilberta. The latter is known throughout Endfield for her uninhibited sweetness and geniality. Avywenna, on the other hand, approaches socializing like a professional and manages relationships accordingly. \nOne has to work with Operator Avywenna for extended periods of time before noticing her peculiar quirks. For example, despite being extremely loquacious during small gatherings or in private, everyone who recalled the exchanges would realize that they hardly got any truth from Avywenna — especially about herself. Nevertheless, people tend to find themselves spilling their beans with Avywenna as she proved to be an excellent listener. She is always capable of asking friendly questions, leading on discussions along the direction she has planned, and concluding dialogs at just the perfect moments. \nAvywenna personally explained such skills with her background. She was born to a huge Cautus family living in the Free City of Alloycarrot. Patience easily becomes the most important virtue when living with a huge number of kin. This claim has been verified. Querying \"Avywenna\" in the population database of Alloycarrot gives you over 80 individuals with the same name. \nWhenever Avywenna casually drops a morsel of info about herself, it's always a subtle bait to get her conversational partner to lay everything out. A short dialog is all she needs to acquire background information and contacts about everyone she is chatting with. Avywenna would also argue, with great cunning, that she did so out of professional habit that carried over from her messenger career, where one must constantly deal with people. \nOne thing to note: no one resents Avywenna's air of mystery. Instead, it only got more people interested in chatting her up. Her presence has greatly enhanced Endfield's ability to navigate the local affairs that are often tangled and delicate. Avywenna is a master at resolving conflicts and diffusing tension, walking away without a scratch. She is like a miner navigating the criss-crossing mines and tunnels of Alloycarrot. The one directing the situation will never feel lost.",
+    "zh-TW": "同在特種技術部門擔任信使一職，艾維文娜幹員給人的感覺卻與潔爾佩塔幹員截然不同。後者以毫無保留的甜美和宜人著稱於終末地，前者則似乎將相處之道視為專業加以經營。\n與艾維文娜幹員接觸久了，才會注意到她身上一些古怪的點。例如，她在一些小的聚會和私下相處時經常侃侃而談。大家在事後回想起時，卻很少能夠捕捉到她提過的有關自己的真實訊息。但人們總是控制不住地與她交心，因為她是一個極佳的傾聽者，總能以和善的提問和恰到好處的總結，將談話帶往她想要的方向。\n她個人對此解釋的理由是，她來自於合金蘿蔔自由市一個龐大的卡特斯家族，在與家人們的群居生活中，最重要的品質就是耐心。這一事實，確實如她所言，在合金蘿蔔自由市的人口資料庫裡搜尋「艾維文娜」時，跳出了八十多個以此冠姓的人名。\n當她簡要地拋出了有關自己的一點情報作為誘餌之後，她會毫無痕跡地讓對話者以和盤托出來償還。轉瞬間，她便已對所有人的出身及往來瞭若指掌。而她又會狡黠地辯稱，這是她與人打交道為業的信使生涯中保留的職業習慣。\n值得一提的是，她的這些神秘所為並不惹人厭煩，而是吸引大家更進一步向她靠近的籌碼。她的助力，顯然也讓終末地在處理一些複雜而微妙的在地事務時錦上添花。她擅長周旋於紛爭與糾葛之間，並總能全身而退，就像穿行於合金蘿蔔自由市四通八達的礦洞中一樣。主宰方向的人，從來不會迷路。",
+    "zh-CN": "同在特种技术部门担任信使一职，艾维文娜干员给人的感觉却与洁尔佩塔干员截然不同。后者以毫无保留的甜美和宜人著称于终末地，前者则似乎将相处之道视为专业加以经营。\n与艾维文娜干员接触久了，才会注意到她身上一些古怪的点。例如，她在一些小的聚会和私下相处时经常侃侃而谈。大家在事后回想起时，却很少能够捕捉到她提过的有关自己的真实信息。但人们总是控制不住地与她交心，因为她是一个极佳的倾听者，总能以和善的提问和恰到好处的总结，将谈话带往她想要的方向。\n她个人对此解释的理由是，她来自于合金萝卜自由市一个庞大的卡特斯家族，在与家人们的群居生活中，最重要的品质就是耐心。这一事实，确实如她所言，在合金萝卜自由市的人口数据库里搜索“艾维文娜”时，跳出了八十多个以此冠姓的人名。\n当她简要地抛出了有关自己的一点情报作为诱饵之后，她会毫无痕迹地让对话者以和盘托出来偿还。转瞬间，她便已对所有人的出身及往来了如指掌。而她又会狡黠地辩称，这是她与人打交道为业的信使生涯中保留的职业习惯。\n值得一提的是，她的这些神秘所为并不惹人厌烦，而是吸引大家更进一步向她靠近的筹码。她的助力，显然也让终末地在处理一些复杂而微妙的在地事务时锦上添花。她擅长周旋于纷争与纠葛之间，并总能全身而退，就像穿行于合金萝卜自由市四通八达的矿洞中一样。主宰方向的人，从来不会迷路。",
+    "ja": "同じく特殊技術部でトランスポーターを務めているとはいえ、アイビーエナとギルベルタの印象はまるで違う。ギルベルタがその可愛らしく親しみやすい性格でエンドフィールドの人気者となっているのに対し、アイビーエナは、人付き合いそのものを「専門分野」として扱っているのだから。\n彼女と長く接していると、気づくことがある。たとえば、小規模な集まりやプライベートな場ではよく喋っているように感じるが、あとで思い返してみると、自分自身のことはほとんど話していない。それでも気づけば皆、彼女に心を開いてしまう。アイビーエナはいつも相手の話にしっかりと耳を傾け、うまく質問を挟み、自然に話をまとめながら、巧みに会話を望む方向へと導いていく。\nこの件について、本人はこう説明している――自分はメタルキャロットのコータスの大家族の生まれで、大勢で暮らすには忍耐力が最も大切なのだ、と。その言葉は確かに事実だ。実際、メタルキャロットの人口データベースで「アイビーエナ」を検索すると、同じ苗字の人が80人以上も登録されている。\n自分に関するささやかな情報を餌に、相手のすべてを引き出す。そうしてアイビーエナはほんの一瞬で全員の出身や経歴を把握するのだ。後になって、これはトランスポーターという職業柄だと少しいたずらっぽく釈明するのも彼女らしい。\n特筆すべきは、その不思議な言動が誰かを不快にさせることなく、むしろ人々を惹きつける魅力となっている点だ。エンドフィールドが複雑で繊細な現地の問題に手を焼くようなことがあっても、より円滑な形で事態を収めてくれるに違いない。アイビーエナは紛争や軋轢の中を器用に立ち回り、適切なタイミングで身を引く。まるで四方八方に通じるメタルキャロットの坑道を自在に行き交うように――進むべき道を知る者は、決して迷わない。",
+    "ko": "특수 기술부 소속으로서 같은 '전달자'로 활동하고 있지만, 아비웨나는 질베르타와 전혀 다른 느낌을 준다. 질베르타가 엔드필드에서 누구에게나 거리낌 없이 다정하고 상냥함으로 유명하다면, 아비웨나는 오히려 인간관계를 일종의 업무처럼 관리하고 있다.\n아비웨나와 오래 함께하다 보면, 자연스레 몇 가지 이상한 점들이 눈에 들어온다. 예를 들면, 작은 모임이나 사적인 자리에서 종종 수다를 떨며 분위기를 띄운다. 그러나 그 대화들을 다시 되새겨 보면, 정작 그녀가 자신에 대한 '진짜 정보'는 거의 얘기하지 않는다는 사실을 문득 깨닫게 된다. 그럼에도 사람들은 자기도 모르게 그녀에게 속마음을 털어놓는다. 아비웨나는 사람들의 이야기를 잘 들어주고, 언제나 적절한 질문과 요약으로 대화를 자신이 원하는 방향으로 이끌어가는 능력이 있기 때문이다.\n아비웨나 본인은 이에 대해 자신이 합금 무성 자유도시에 있는 거대한 카우투스 가문 출신이라 그렇다고 설명한다. 가문의 일원으로서 생활하는 데 가장 중요한 덕목이 '인내심'이었다는 것이다. 실제로 합금 무성 자유도시의 인구 데이터베이스에서 '아비웨나'를 검색하면, 해당 성을 가진 사람이 80명 넘게 나오는 것이 확인된다.\n그녀는 자신에 대한 정보를 미끼처럼 살짝 던져준 뒤, 상대방이 모든 것을 털어놓도록 만들어 아무렇지 않게 그것을 회수한다. 눈 깜짝할 사이에, 그녀는 이미 모든 사람의 출신과 과거를 파악할 수 있다. 그러고는 단지 전달자를 하면서 생긴 직업적 습관이라고 능청스럽게 웃어넘긴다.\n주목할 점은, 그녀의 이런 행동이 사람들에게 불쾌감을 주기는커녕, 오히려 더 다가가고 싶은 매력으로 작용한다는 점이다. 덕분에 엔드필드는 복잡하고 미묘한 현지 사안을 다룰 때 그녀의 도움을 받아 매끄럽게 해결할 때가 많다. 그녀는 분쟁과 갈등 사이를 능수능란하게 누비면서도, 언제나 유유히 빠져나온다. 그 모습은 마치 합금 무성 자유도시의 복잡하게 얽힌 광산 동굴을 거침없이 헤쳐 나가는 것과 같다. 방향의 키를 쥔 자는 결코 길을 잃지 않는 법이니까 말이다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "DOCUMENT: HR recruitment log from the Shaynwood mail distribution station \nWhen that Cautus woman stepped through the door, I noticed that big red patch on her clothing. It looked about two or three days old, already starting to turn black. I asked if she needed any help, but she just said she wanted a job. She probably saw that hiring notice outside and got interested. \n\"It's just ketchup,\" she said, \"Nothing to worry about.\" \n\"You sure are one helluva messy eater, young miss.\" I responded with an awkward smile. \nI'm not used to talking with pretty-looking people, and the town of Shaynwood did not give me much practice. The closest TGCC city is 368 klicks away, and the nearest frontier mail depot is about 110 klicks down the road. It was three in the afternoon. The most comely female usually frequenting my place would be the burdenbeast looking for grass outside the door. I assumed this Cautus had started her trip from the city 368 klicks away, with her next stop 110 klicks down the road. Her direction was interesting. Most people would travel in the opposite direction. \nJust last night, I heard about some Landbreaker-related altercation 23 klicks away. Armed battery involving six individuals. Five were injured and one escaped. The UWST Security Bureau operating in the frontiers messaged me to look out for individuals traveling alone. Might just be the fugitive. \n\"The notice posted outside says you're looking for a mail courier,\" the Cautus said, pointing behind her with her thumb. \n\"Ah, yeah. That's right. Your predecessor resigned just two months ago.\" \n\"My predecessor? Are you saying that I'm already hired?\" \n\"Well, know how to drive? What type of vehicles? We don't care about licenses here. Count all the vehicles you know how to ride.\" \n\"Six, including trucks, I think.\" \n\"Awesome!\" I said, \"You nabbed the post. Start working tomorrow! I'll also need you to show me your ID and complete this form. Just for the records.\" \nI pushed her the form and a pen through the tiny window. She completed the form without much of a thought and pushed it back to me. She also gave me a big, glowing smile. What an understanding, kind, and cooperative lady! \nThen she started unloading her questions to me, as though she asked them a million times before. She also started arranging her accommodations as though she owns the place, \"Can I park my car at the back? I'm talking about that overgrown plot behind the iron gate. Yes. Mmhmm? No problem. So, got any Originium power pylons here? I gotta fix my ride. It's down. And what's the network password? Got enough bandwidth on the thing? Yes. For movies. Wooo. Not bad... You don't say, you're inviting me ... to your place? Ooh. A dinner date? That's not what you meant? With your gramps, Postmaster Laine? Say, aren't you way too young for this, kiddo? Much appreciated, but I'll just sleep in my car. Don't worry. I'm used to it.\" \nShe gave me a few winks before slowly swaggering her way through the door. \nI suddenly remembered that I had to check her form. Lo and behold! \nNAME: Secret, but yours for 60000 T-Creds. \nAGE: Forget it, kiddo \nADDRESS: People will pay for this, you know \nRELATIONSHIPS: It's complicated \nEXPERIENCE: Professional traveler \nHEALTH INFORMATION: Essentially safe and hazard-free \n............",
+    "zh-TW": "【山恩伍德鎮郵件集散處人事招募紀錄】\n那個卡特斯女人走進門來的時候我就發現，她的衣擺沾著一大塊紅色的汙漬，可能有兩到三天左右的時間，已經開始發黑了。我馬上向她詢問是否需要幫助，她回答只要一份工作就可以，原來她是看到了門外的徵才告示，臨時起意而來的。\n「是番茄醬啦。」她說，「不要在意喔。」\n「那小姐您的吃相有夠糟糕的。」我尷尬地笑。\n我不擅長與美麗的女人說話，而山恩伍德鎮也沒有為我提供充足的機會鍛鍊，這裡離最近的環塔商會城市有三百六十八公里，離開拓區另一個驛站有一百一十公里，截至到現在——下午三點多了——我看到最讓人心動的異性是一頭在店門口外面找草吃的馱獸。這個女人顯然是從距此三百六十八公里的方向過來，奔著一百一十公里遠的方向去的。非常有趣的選擇，和大部分人相反。\n前天晚上，二十三公里外發生了一場與裂地者有關的鬥毆事故。六人械鬥，五傷，一逃逸。次日，開拓區工團安全局站點傳來通訊，要我們注意獨身在外的旅行者。\n「你們在外面貼的告示說要徵一個郵件運送員。」卡特斯女人用大拇指朝背後指了指。\n「啊，是的，是的，兩個月前你的前一任退休了。」\n「我的？你的意思是我已經拿到這份工作了？」\n「你會駕駛運具嗎？幾種？會就行，不用算上有證的那些。」\n「包括卡車在內的話，六種吧。」\n「棒！」我說，「你應徵成功了。明天開始工作吧！另外，我要先請你出示身分證明並填寫這個表格。只是留個紀錄而已。」\n我把紙和筆從小窗口裡朝她挪過去。她不假思索地填寫完畢，將紙張遞還給我，對我大大地微笑了一下。多麼善解人意、和藹，又配合工作的卡特斯女士！\n她嫻熟地向我提問，以主人的姿態布置起了自己生活的各個方面：「你們這裡後面可以停車嗎？就是鐵門後面那塊長了很多雜草的荒地。可以，嗯哼，沒問題。你這裡有源石電樁嗎？我要修一下車，拋錨了。網路的密碼是多少？快嗎？能看電影嗎？噢噢，真不錯……你邀請我……去你家？共進晚餐？不是這個意思？和你爺爺萊恩站長？不管怎樣，都有點太早了喔，小朋友。沒關係的，我晚上就睡車裡，習慣了。」\n她對我眨了眨眼，從容不迫地打開門出去了。\n我這才想起看她填寫的表格。等等！\n姓名：秘密，或者六萬折金票\n年齡：想得美\n聯絡地址：很多人都想知道\n家庭狀況：複雜\n工作經歷：職業旅人\n健康資料：基本上無害\n…………",
+    "zh-CN": "【山恩伍德镇邮件集散处人事招聘记录】\n那个卡特斯女人走进门来的时候我就发现，她的衣摆沾着一大块红色的污渍，可能有两到三天左右的时间，已经开始发黑了。我马上向她询问是否需要帮助，她回答只要一份工作就可以，原来她是看到了门外的招人告示，临时起意而来的。\n“是番茄酱啦，”她说，“不要在意哦。”\n“那小姐您的吃相有够糟糕的。”我讪讪地笑。\n我不擅长与美丽的女人说话，而山恩伍德镇也没有给我提供充足的机会锻炼，这里离最近的环塔商会城市有三百六十八公里，离开拓区另一个驿站有一百一十公里，截止到现在——下午三点多了——我看到最让人心动的异性是一头在店门口外面找草吃的驮兽。这个女人显然是从距此三百六十八公里的方向过来，奔着一百一十公里远的方向去的。非常有趣的选择，和大部分人相反。\n前天晚上，二十三公里外发生了一场与裂地者有关的斗殴事故。六人械斗，五伤，一逃逸。次日，开拓区工团安全局站点发来通信，要我们注意独身在外的旅行者。\n“你们在外面贴的告示说要招一个邮件派送员。”卡特斯女人用大拇指朝背后指了指。\n“啊，是的，是的，两个月前你的前任退休了。”\n“我的？你的意思是我已经拿到这份工作了？”\n“你会驾驶载具吗？几种？会就行，不用算上有证的那些。”\n“包括卡车在内的话，六种吧。”\n“棒！”我说，“你应聘成功了。明天开始工作吧！另外，我要先请你出示身份证明并填写这个表格。只是留个档而已。”\n我把纸和笔从小窗口里向她挪过去。她不假思索地填写完毕，将纸张递还给我，对我大大地微笑了一下。多么善解人意、和蔼，又配合工作的卡特斯女士！\n她娴熟地向我提问，以主人的姿态布置起了自己生活的方方面面：“你们这里后面可以停车吗？就是铁门后面那块长了很多杂草的荒地。可以，嗯哼，没问题。你这里有源石电桩吗？我要修下车，抛锚了。网络的密码是多少？快吗？能看电影吗？噢噢，真不错……你邀请我……去你家？共进晚餐？不是这个意思？和你爷爷莱恩站长？不管怎样，都有点太早了哦，小朋友。没关系的，我晚上就睡车里，习惯了。”\n她对我眨了眨眼，施施然打开门出去了。\n我这才想起看她填写的表格。等等！\n姓名：秘密，或者六万折金票\n年龄：想得美\n联系地址：很多人都想知道\n家庭情况：复杂\n工作经历：职业旅人\n健康信息：基本无害\n…………",
+    "ja": "【シェインウッド郵便集配所の採用記録】\nそのコータスの女性が入ってきたとき、服の裾に大きな赤い染みがあることにすぐ気づいた。2、3日は経っていたのか、もう黒ずみ始めてはいたが。思わず大丈夫かと声をかけると、仕事さえもらえればいいと言う。彼女は入口に貼ってあった求人広告を見て、思い立って入ってきたらしい。\n「これ、ケチャップなの。」と彼女は言った。「気にしないで。」\n「ずいぶんと豪快な食べっぷりだったんでしょうね。」僕は苦笑いした。\n美しい女性と話すのは苦手だし、シェインウッドにいると訓練する機会もほとんどない。なにしろ最も近い環タロ商会の街から368キロ、開拓エリアの別の宿場からは110キロ離れている。午後3時を過ぎた今までに、僕の気を引いた異性といえば――店の前で草を食んでいる駄獣だけだ。この女性は、きっと368キロ離れた街からやって来て、110キロ離れた宿場に向かうのだろう。普通なら、逆のルートを辿る人が多い。なんとも、興味深い選択だ。\n一昨日の夜、23キロ先でランドブレーカーによる傷害事件が起きた。6人が殴り合い、そのうち5人が負傷、1人が逃走した。翌日、開拓エリア工業団の保安局から、単独で行動している旅行者には注意するようにと通達があった。\n「郵便配達員1名募集って、表の貼り紙を見たの。」コータスの女性は親指で後ろを指した。\n「ああ、はい。そうなんです。2カ月前にあなたの前任者が退職したので。」\n「私の前任者？じゃあ、私はもう採用されたってことでいいのかしら？」\n「乗り物の運転はできますか？何種類？運転ができるなら、免許の有無は問いません。」\n「トラックも含めるなら、6種類ね。」\n「いいですね！」僕は言った。「採用です。さっそく明日から来てください。あと、身分証明書の提示と、この用紙への記入をお願いします。書類はあくまで記録用です。」\n僕は紙とペンを窓口から彼女のほうに押し出した。彼女はためらうことなく記入すると、僕に紙を手渡しながらにっこり微笑んだ。理解があって、優しくて……なんと仕事に協力的なコータス女性なのだろう！\n彼女はここに腰を据えるつもりらしく、慣れた様子で次々と質問を投げかけ、日々の暮らしに必要なものを整え始めた。「この裏に駐車してもいいかしら？鉄門の裏、雑草だらけの空き地のことだけれど。いいの？ふふ、ありがとう。ここに源石の充電スタンドはある？車がエンストしてしまったから、直しておきたいの。ネットワークのパスワードは？速い？映画は見られるかしら？まあ、素敵。あなたの家に招待してくれるの？夕食を一緒に？そういう意味ではない、ですって？おじい様のレーン駅長と？そうね、少し早すぎるかもしれないわね、坊や。大丈夫よ、車の中で寝るから。慣れているもの。」\nそう言って僕にウィンクすると、ゆっくりとドアを開けて出て行った。\n僕はこのときようやく、彼女が記入した用紙に目を落とした――いや、ちょっと待て！\n名前：秘密、または6万折金券\n年齢：夢の中でね\n連絡先：みんなが知りたがっているみたい\n家族構成：複雑\n職歴：プロの旅人\n健康状態：基本的に無害\n…………",
+    "ko": "[샨우드 마을 물류 집결지 인사 채용 기록]\n그 카우투스 여자가 문을 열고 들어섰을 때, 그녀의 옷자락에 묻은 커다란 붉은 얼룩이 눈에 띄었다. 한 이삼일은 된 듯, 이미 검게 변하기 시작하고 있었다. 나는 즉시 도움이 필요한지 물었지만, 그녀는 일자리 하나면 된다고 답했다. 문밖의 채용 공고를 보고 즉흥적으로 들어온 듯했다.\n\"케첩이에요. 신경 쓰지 마세요.\" 그녀가 말했다.\n\"식사를 꽤나 험하게 하셨나 보네요.\" 나는 멋쩍게 웃으며 대답했다.\n나는 원래 아름다운 여성 앞에서는 말을 잘 못하는 스타일인데, 심지어 샨우드 마을은 그런 연습을 할 기회조차 주지 않았다. 여기서 가장 가까운 탈로스 II 상업연합회 도시까지는 무려 368km, 개척 지역 내에 있는 다른 휴게소와도 110km나 되는 이곳에서, 오늘 오후 세 시가 넘은 지금까지, 나를 제일 설레게 하는 이성은 식당 문 앞에서 풀 뜯고 있던 버든비스트뿐이었다. 그리고 이 여자는 368km 떨어진 곳에서 와서 이제 110km 떨어진 곳을 향해 가는 길이 분명했다. 대부분 사람과는 완전히 반대된 선택을 한 셈이니 꽤 흥미로운 선택이었다.\n이틀 전 밤, 23km 떨어진 곳에서 랜드브레이커와 관련된 폭력 사건이 있었다. 6명이 싸워 5명이 다치고 1명이 달아났다. 다음 날, 개척 지역 공단 안전국 거점에서 혼자 떠도는 여행자들을 조심하라는 통지를 보내왔다.\n\"밖에 우편 배달원 구한다고 공고 붙여 놨던데요.\" 카우투스 여자가 등 뒤를 쓱 가리켰다.\n\"아, 네, 맞아요. 두 달 전에 당신 전임자가 은퇴했거든요.\"\n\"제 전임자요? 그 뜻은 제가 뽑혔다는 건가요?\"\n\"운전은 할 줄 아세요? 종류는 얼마나? 면허증에 적힌 것 말고, 그냥 운전할 줄 아는 걸로 알려주세요.\"\n\"트럭 포함해서 여섯 종류쯤요.\"\n\"훌륭하네요!\" 내가 말했다. \"합격입니다. 내일부터 출근하세요! 아, 먼저 신분증 좀 보여주시고 여기 서류도 작성해 주세요. 그냥 기록용이니까 걱정하지 마세요.\"\n나는 창구 너머로 종이랑 펜을 건넸고, 그녀는 망설임도 없이 적어 내려간 뒤, 종이를 내게 다시 내밀며 환하게 웃었다. 아, 얼마나 친절하고 협조적인 카우투스 숙녀란 말인가!\n그녀는 마치 이곳 주인이라도 되는 듯, 능숙하게 질문을 던지며 자신의 생활 환경을 하나하나 점검했다. \"여기 뒤에 주차할 수 있나요? 그 철문 뒤 잡초 덮인 공터 말이에요. 아, 된다고요, 알겠습니다. 그리고 혹시 오리지늄 공급기는 있나요? 제 차가 퍼져서 손 좀 봐야 하거든요. 와이파이 비밀번호는요? 와이파이 잘 터지나요? 영화도 볼 수 있고요? 오오, 좋네요... 저를... 집에 초대한다고요? 같이 저녁 식사하자고요? 아, 그런 뜻이 아니라고요? 할아버지인 레인 소장님이랑 같이요? 뭐, 어느 쪽이든 좀 이르네요, 꼬마친구. 괜찮아요, 저는 차에서 자는 게 익숙해서요.\"\n그녀는 내게 윙크를 한번 하더니, 여유롭게 문을 열고 나갔다.\n그제야 그녀가 작성한 서류를 확인했다. 잠깐만!\n이름: 비밀 또는 6만 탈로시안 화폐\n나이: 몇 살처럼 보여요?\n주소: 많은 사람들이 알고 싶어함.\n가족사항: 복잡함.\n경력: 전문 여행자\n건강 상태: 대체로 무해함.\n......"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "DOCUMENT: Letter of recommendation from Postmaster Laine \nMa-Ma-Ma: \nIf you read this letter of recommendation, I implore you to help an old friend out. Get that woman seated before you OUT of my mail depot. There's a reason why I chose Shaynwood, a place where the fowlbeasts don't ever roost, to enjoy my peace, quiet, and retirement. I do not intend to contend with cartel agents or corpo-rats who keep showing up armed and eager to settle some debt or score or whatever they call it. That's right. My peaceful retirement home of Shaynwood has turned into a carnival in less than a year! A bunch of ambulances came through, and the Originium charging post in town actually made a decent pile of creds. I don't know what Avy did to them, but from the looks of it, it's probably nothing good. \nAnd I got pretty simple reasons for sending her your way. This tunnel-crawling Rim Billygal knows nothing about milking cystybeasts. In fact, my cysty-herd is now morbidly afraid of her because she keeps squeezing too hard with those miner hands of hers. Also, she sorted out the mailing system and got it working like an oiled machine. Now all the lucky bastards in Shaynwood are going to receive their presents ahead of holiday season! Just to let you know, I have been paying her peanuts! But judging from the way she eats, dresses, and acts, and that bespoke customized outdoor rig, she probably worked in a private security detail in the Band. My money's on Sloan Security, and that's one of the biggest family business in the Free City of Alloycarrot. Which means she was getting one helluva paycheck. And since she chose Shaynwood as her hideout, I'm fully convinced that she has a serious mental issue. \nOh, and there's one more thing. She's super interested in our Endministrator. After she found my cert of resignation I've kept hidden in my drawers, she started making dinner for us, hoping that I could share something about the Endmin. This is incredibly unsettling. Truth be told, a generation had already passed since I worked with the Endmin. Let's keep these words between us (and I'm trying to be nice and positive here): It takes a nutcase to handle another. \nBest wishes, \n\nLaine \n\nDOCUMENT: A reply to another letter \nLaine: \nCandidate Avywenna has successfully passed a series of tests and is now formally working at Endfield as an operator. Thank you for your recommendation. We shall mail to you one Endfield Rewards Supply Crate as a token of our appreciation. \n............ \nGiven our safety considerations, I wonder if you can share with us the origins of the polearm that Miss Avywenna carries around with her. She seems very attached to this weapon, but the only thing she told us about it was that the lance was something from her grandmother. Miss Avywenna is armed with far more weapons than we expected. It would take her five to six minutes to fully disarm herself to pass security checkpoints. She even has razor blades hidden in the soles of her shoes. And those two long straps dangling behind her were not merely cosmetic. We learned what they actually do during security training. Sweet as a sugar carrot, but armed with a big lance — this is one unique combo. \nMiss Avywenna, an operator hailing from the residential zones of Rim Billiton, has demonstrated that powerful offensive capabilities also come in a slim and lithe package. We now have positive views regarding the retention of certain cultural traditions and ecology amongst the residents in this section of the Band. \n\nMartin Marvin Malen",
+    "zh-TW": "【一封來自站長萊恩的推薦信】\n馬馬馬：\n看在你我老友交情的分上，當你讀到這封推薦信時，務必把你們面前這個女人從我的站點裡弄走。我選擇到山恩伍德這個羽獸不拉屎的地方退休，是為了頤養天年的，不是為了應付那些三不五時就提著刀上門來尋仇的商會傢伙的。沒錯，這一年這破地方，可真是熱鬧得不行！光是載人的救護車就幫鎮上的源石充電站帶來了不少收入。我不知道艾維文娜哪裡得罪過他們，但她很明顯也沒給他們什麼好處。\n我把她趕到你們那的原因很簡單，她這樣的雷姆必拓礦工小姐根本不會擠奶。瘤獸被她打鐵的手勁捏得嗷嗷叫，現在牠們都怕得要死。除此之外，她將郵政系統整理得很好，周全，現在山恩伍德這些幸運的混蛋們都能在節日前準時收到他們的禮物了！而我甚至沒有給她多少薪水！從她的吃穿用度作風，和那套格外講究的戶外裝備看來，她在環帶的上一份保全工作——我猜是在史隆保全，合金蘿蔔自由市最大的家族企業之一——想必有過不斐的收入。所以，選擇到山恩伍德鎮來隱居，我判定她有嚴重的精神問題。\n哦，還有一點。她對終末地的管理員有著極其濃厚的興趣，自從她發現我藏在抽屜裡的退休證明以後，她每天都幫我們做晚飯，以求換取我口中關於管理員的隻言片語，真是毛骨悚然。說實話，我認識管理員，那都是上輩子的事了。這話只在你我之間說說就算了——從褒義的角度來看：瘋子只有另一個瘋子能應付得來。\n祝好。\n\n萊恩\n\n【一封回信】\n萊恩：\n候選人艾維文娜小姐已經順利通過我們的一系列測試，成為正式幹員，感謝您的推薦，我們將向您寄送終末地獎勵物資箱一份。\n…………\n出於安全角度考量，我想向您諮詢艾維文娜小姐隨身攜帶的那桿長柄武器的由來。她對此愛之如命，卻只肯交代那是來自她祖母的傳承。這位幹員的武裝程度顯然超過我們的想像，每次在安檢處，她都要花五六分鐘的時間才能完全解除身上的全部武器，包括鞋底裡隱藏的刀片等。你知道她背後那兩條長綁帶其實並非是裝飾作用嗎？在安全訓練項目中我們領教了這一點。同時掌握著胡蘿蔔和大棒，這是一種獨特的本事。\n作為一位來自雷姆必拓居住帶的幹員，艾維文娜小姐以柔軟的身段展示出了強力的攻擊性，這讓我們對如今該環帶地區的民俗生態保存程度懷有積極的觀感。\n\n馬丁·馬文·馬倫",
+    "zh-CN": "【一封来自站长莱恩的推荐信】\n马马马：\n看在你我老友交情的份上，当你读到这封推荐信时，务必把你们面前这个女人从我的站点里弄走。我选择到山恩伍德这个羽兽不拉屎的地方退休，是为了颐养天年的，不是为了应付那些隔三岔五就提着刀上门来寻仇的商会家伙的。没错，这一年这破地方，可真是热闹非凡！光拉人的救护车就给镇上的源石充电站带来了不少收入。我不知道艾维文娜哪里得罪过他们，但她显然也没给他们什么好处。\n我把她赶到你们那儿的原因很简单，她这样的雷姆必拓矿工小姐根本不会挤奶。瘤兽被她打铁的手劲撵得嗷嗷叫，现在它们都害怕得要死。除此之外，她将邮件系统整理得很好，周全，现在山恩伍德这些幸运的混蛋们都能在节日前准时收到他们的礼物了！而我甚至没有给她几个子儿作为工资！从她的吃穿用度作风，和那套格外讲究的户外装备来看，她在环带的上一份安保工作——我猜是在史隆安保，合金萝卜自由市最大的家族企业之一——想必有过不菲的收入。所以，选择到山恩伍德镇来隐居，我判定她有严重的精神问题。\n哦，还有一点。她对终末地的管理员有着极其浓厚的兴趣，自从她发现我藏在抽屉里的退休证明以后，她每天都给我们做晚饭，以求换取我口中关于管理员的只言片语，真是毛骨悚然。说实话，我认识管理员，那都是上辈子的事了。这话光在你我之间说说就算了——从褒义的角度来看：疯子只有另一个疯子能应付得来。\n祝好。\n\n莱恩\n\n【一封回信】\n莱恩：\n候选人艾维文娜小姐已经顺利通过我们的一系列测试，成为正式干员，感谢您的推荐，我们将向您寄送终末地奖励物资箱一份。\n…………\n出于安全角度考虑，我想向您咨询艾维文娜小姐随身携带的那杆长柄武器的来由。她对此爱之如命，却只肯交代那是来自她祖母的传承。这位干员的武装程度显然超过我们的想象，每次在安检处，她都要花五六分钟的时间才能完全解除身上的全部武器，包括鞋底里隐藏的刀片等。你知道她背后那两条长绑带其实并非出于装饰作用吗？在安全训练项目中我们领教了这一点。同时掌握着胡萝卜和大棒，这是一种独特的本事。\n作为一位来自雷姆必拓居住带的干员，艾维文娜小姐以柔软的身段展示出了强力的攻击性，这让我们对如今该环带地区的民俗生态保存程度怀有积极的观感。\n\n马丁·马文·马伦",
+    "ja": "【レーン駅長からの推薦状】\nMMMへ\n君とわしの仲だ、頼みがある。この推薦状を読んだら、目の前にいるその女性をそちらで引き取ってくれ。わしがシェインウッドなんて羽獣のフンすらない辺鄙な場所を選んで隠居生活を送っているのは、天寿を全うするためであって、ちょいちょい武器を持って復讐に来る商会の連中を相手にするためじゃない。まったく、こんなボロボロの場所だというのに、1年の間、実ににぎやかだったよ！怪我人のために救急車を呼んだだけでも、町の源石充電スタンドは相当な収入を得たほどだ。アイビーエナがどうしてあんなに恨みを買ったのかわしにもわからんが、明らかにロクなことはしてなかったのだろう。\n押しつけようという理由は簡単だ。あのレム・ビリトンの坑夫お嬢さんは、乳を搾ることすらできないのだ。鉄を叩くような力で搾ろうとするもんだから、瘤獣は悲鳴を上げて逃げ回り、それからずっと怯えておる。だが、郵便システムは完璧に整理され、今じゃシェインウッドの幸運なバカどもは祝日前にプレゼントを時間通り受け取れるようになった！わしはろくに給料も払っておらんのにな！彼女の暮らしぶりや、やけに派手なアウトドア装備からすれば、おそらく以前は文明地帯で警備の仕事をしていたのだろう。家族経営のメタルキャロット最大の企業の1つ、「スローンセキュリティ」だと思うが――きっと、そこではそれなりに稼いでいたかもしれん。だからこそ、わざわざこんな辺境に身を隠すなんてのは、精神面に何らかの問題を抱えているからだと、わしは踏んでいる。\nああ、それともう1つ。彼女はエンドフィールドの管理人に異常とも言える興味を持っておる。わしが引き出しに隠しておいた退職証明書を見つけてから、急に毎日夕飯を作ってくれるようになった。その見返りとして、管理人のことを少しでもいいから教えろと。まったく、ぞっとするよ。正直に言えば、わしは管理人を知っている。だが、それはもうずっと昔の話だ。だから、この話は君とわしの間だけにしておいてくれ……まあ、ポジティブに言えば、変人の扱いは変人にしかできん。頼んだぞ。\nではよろしく頼む。\n\nレーン\n\n【返信】\nレーン様\n被推薦者のアイビーエナさんは一連の測定に無事合格し、正式なオペレーターとなりました。ご推薦ありがとうございました。エンドフィールド報酬物資箱をお送りします。\n……\n安全上の観点から、アイビーエナさんが携帯している長柄武器の由来をお聞きしたいです。非常に大切にされているようなのですが、祖母から譲り受けたのだとしか教えていただけません。また、彼女の武装レベルは私たちの想像を超えています。セキュリティチェックでは、靴底に隠された刃などを含めて、身につけている武器を完全に取り外すのに毎回5、6分かかります。彼女の背中にある2本の長いバンドが実は装飾ではないことをご存知でしょうか？私たちも安全訓練でそのことを思い知らされました。飴と鞭――いえ、ニンジンを使いこなす、それが彼女の才能なのでしょう。\nレム・ビリトン出身のアイビーエナさんは、柔軟な身のこなしと高い攻撃性を見せてくれました。このことから、レム・ビリトン居住地帯の民俗伝統が色濃く受け継がれていることが伺えるでしょう。\n\nマーティン・マーヴィン・マーレン",
+    "ko": "[레인 소장의 추천서]\n마마마에게.\n자네와 나의 오랜 우정을 봐서라도, 이 추천서를 읽고 있다면 제발 자네들 앞의 이 여자를 내 거점에서 좀 데려가 주게. 내가 이 샨우드 같은 파울비스트도 똥 싸러 안 오는 촌구석으로 은퇴한 건, 편안하게 노후를 즐기려는 거지, 틈만 나면 칼 들고 복수하겠다고 쳐들어오는 상업연합회 놈들이나 상대하려는 게 아니었네. 그래, 지난 1년간 이 거지 같은 곳이 아주 떠들썩했다고! 다친 놈들 실어 나르는 구급차 덕분에 마을 오리지늄 충전소 수입이 꽤 짭짤했을 정도라니까. 아비웨나가 그놈들한테 뭘 잘못했는지는 모르겠지만, 그렇다고 그들에게 이득이 될 만한 일을 한 것 같지도 않더군.\n그녀를 자네 쪽으로 떠넘기는 이유는 간단해. 림 빌리턴 광부 출신 아가씨는 젖 짜는 일에 전혀 소질이 없더군. 힘이 아주 대장장이 같아서 치스티비스트들이 울부짖고 도망치다 못해 이제는 겁에 질려 죽을 지경이야. 그래도 인정할 건 해야지. 우편 시스템을 아주 완벽하게 정리해 준 덕분에 이제 샨우드의 운 좋은 녀석들은 명절 전에 제때 선물을 받을 수 있게 됐지! 근데 웃긴 건, 난 걔한테 한 푼도 월급을 준 적이 없다는 거야! 그녀의 씀씀이나, 유난히 공들인 그 아웃도어 장비들을 보면, 전에 밴드에서 꽤 잘나가는 곳에서 보안 일을 했던 모양이야. 내 짐작엔 아마 합금 무성 자유도시에서 제일 큰 가족 기업인 슬론 보안 회사에서 근무했을 거야. 그런데 그런 사람이 샨우드에 와서 은둔 생활을 한다는 건, 내 판단으로는 정신 상태에 심각한 문제가 있는 것 같단 말이지.\n아, 또 한 가지, '엔드필드' 관리자에 대해 이상할 정도로 큰 관심을 보이고 있어. 내 서랍 속에 숨겨둔 퇴직 증명서를 발견한 이후로는, 매일 같이 저녁을 차려주면서 관리자에 대한 얘기를 한마디라도 들으려고 안달이더군. 소름 끼치는 일이야. 솔직히 말해서, 내가 관리자를 알던 건... 정말 까마득한 옛날이야기일세. 이건 우리끼리만 하는 이야기지만... 긍정적으로 보자면, '광인은 광인만이 상대할 수 있다'는 말도 있잖나.\n그럼 이만.\n\n레인\n\n[회신]\n레인 씨에게.\n후보자 아비웨나 양은 저희 측의 일련의 테스트를 무사히 통과해 정식 오퍼레이터로 임용되었음을 알려드립니다. 추천에 감사드리며, 엔드필드 보상 물자 한 상자를 보내 드릴 예정입니다.\n......\n다만, 보안상의 이유로 한 가지 문의드릴 것이 있습니다. 아비웨나 양이 소지하고 있는 그 장병기에 대해, 혹시 알고 계신 정보가 있으십니까? 목숨처럼 아끼면서도, 그저 할머니에게 물려받은 것이라고만 말할 뿐입니다. 해당 오퍼레이터의 무장 수준은 솔직히 저희 예상 범위를 훨씬 넘어섰습니다. 보안 검색대를 통과할 때마다 신발 밑창에 숨긴 칼날을 포함한 몸에 지닌 모든 무장을 해제하는데만 5~6분이 소요됩니다. 그리고 그녀의 등에 두르고 다니는 긴 리본형 장식이 단순한 장식이 아니라는 것을 알고 계셨습니까? 보안 훈련을 통해 이를 실감했습니다. 당근과 채찍을 동시에 쥐고 있다니, 참으로 독특한 능력입니다.\n림 빌리턴 출신의 오퍼레이터로서, 아비웨나 양은 유연한 몸놀림으로 강력한 공격성을 함께 보여줬습니다. 이를 통해 현재 해당 밴드 지역의 민속 생태를 긍정적으로 바라보게 되었습니다.\n\n마틴 마빈 말렌"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "DOCUMENT: A private letter \nLamp: \nWhere are you, darling babe? Your great granny, grand aunt, aunt, and sister heard (from me) that you quit your job and left home. They've got a ton of questions, and they are relentless. Even the best-fabricated story would breach under their endless drilling. Anyway, the family exploded when they learned you really left home, just as we expected. Looking on the bright side, I kept it a secret for 3 weeks. But Mama's gotta know where you've been all this time. \nI know our argument at Arlirye left quite a bad taste in the mouth. Mama still doesn't support your choice but when I got back home and sat down, I suddenly remembered that trip I had planned when I was a young gal like you. My bag was already packed and leaning right against the wall. I was that close to picking it up and marching through the door to get somewhere far away when I heard you. You were in your baby feeding chair and smiling at me with a baby knife and fork in your hands. And I stayed. I'm sharing this story with you because I wish to tell you that your hope of leaving home might be an inherited habit. \nThough your great granny likes to talk about it, the scenes that our pioneering ancestors witnessed after crossing the Cosmic Gate had already faded away into patches of mold on the wall. They were part of the gigantic convoy column, a great wall of vehicles that stretched all the way to the edge of the horizon. The truckers kept driving, up till the very eve of Severance. That was how we found our first pot of gold, the starting capital upon which we built our logistics business in Alloycarrot. However, as we spent longer and longer time chasing after mineral veins, our kin no longer felt at home when placed behind the wheel. \nWatch out for enemies on the road. Your TGCC job wasn't exactly low profile and we had a share of visitors. Rest assured, no one's going to hurt my darling baby doll. \nI'll handle the rest of our family for you. Don't forget to send us pictures from your traveling. \n\nMama \n\nDOCUMENT: A private letter \nMama: \nFinding network connection in the wildlands is no easy task. But a solo journey is everything I dreamed of. Sweet and beautiful. \nI stopped by New Wrankwood right after leaving home. They tried to recreate the scene to heal trauma, but it ended up quite disappointing, since no one was interested in the horror genre. And the place just wouldn't stop raining. I didn't like it. \nThe Northern Corridor is my next destination, and I'll soon be reaching the edge of the Band. Just yesterday, a painter at the motel told me about the breathtaking natural landscapes waiting for me once I leave the Band cities. I intend to explore the old frontiers of the north. People say there are ruins that date back before the collapse of the Cosmic Gate. They're the things that great granny kept talking about, right? Don't worry about me getting into dangerous situations. I've been traveling with a group of Hannabit Circuit Songseekers. Once I find decent connection, I'll send you photos of me riding a burdenbeast. \nFYI, someone just piqued my interest. Whenever I found a place to rest my legs and talk to the locals, I would hear a name called the \"Endministrator\". Coincidentally, my itinerary basically matched this \"Endministrator's\" northward expedition. Is it possible that I've found my match in Talos-II in the field of professional traveling? \n\nLamp",
+    "zh-TW": "【一封私人信件】\n蘭珀：\n寶貝，你已經走到哪裡了？曾祖母、姨婆、姨媽和你姐姐這週家宴才從我這裡得知你辭職離家的訊息，她們追問得太細，再詳盡的謊言都抵禦不住這麼強烈的攻勢。你離開家的消息就像我們預料到的那樣炸鍋了。往好處看，我還是為你保守了三個週末。所以，這三週以來，你走到哪裡了？\n上個月我們在阿利萊餐館的爭吵為彼此留下了不太好的記憶。雖然媽媽還是很不支持你的選擇，但當我回到家裡坐下時，突然回想起我年輕時候計劃好的一次出行。當時，準備好的行囊已經在牆邊放好，我幾乎馬上可以背起來走出門去，到遙遠的地方去。就在那時我聽到了你的聲音。你坐在寶寶椅上抓著刀叉看著我微笑，於是我留了下來。我提起這件事，是為了告訴你，你離開家的念頭其實是一種遺傳下來的習慣。\n儘管你的曾祖母常常掛在嘴邊，但我們家族的祖輩最初跨過星門，來到塔衛二時的場景，已經淡化成了牆上的黴斑——那些排列在天邊的巨大卡車組成了一道黑壓壓的長城，在斷絕事故的前一刻都依然行進不休。這也是我們積累下原始財富，在合金蘿蔔城建立起物流生意的基礎。但隨著逐礦而居的日子日益變長，我們的族人似乎已經很久沒有出發了。\n路上要小心你的敵人。你在商會的工作並不低調，不斷有人找上門來。不過，他們誰也別想欺負我的寶貝女兒。\n家裡那邊，我會為你解釋的。記得常分享沿途的風景給我們。\n\n媽媽\n\n【一封私人信件】\n媽媽：\n在荒野裡找到有網路的地方真的不太容易。但是，一個人的旅程如我夢中的那般，非常甜美。\n我離開家以後立即拜訪了新藍卡塢。他們好像想要透過情景重現療法來療癒創傷，所以不太有人涉足恐怖片的題材，不免令人失望。這裡老是下雨，我不喜歡。\n再往前走就是北方走廊了，我即將到達環帶的邊境。昨天，我在旅館裡聽到一個畫家說，出了環帶諸城，才會親眼看到前所未見的自然風光。我打算去北方舊開拓區逛逛，那邊好像有一些星門崩塌前的廢墟，是曾祖母經常提到的那種東西吧？不要擔心我的危險，我一路上都跟著一隊眾生長地的遊人行動，等訊號好了，我就把騎在馱獸身上的照片傳給你。\n最近，有一個人引起了我的注意。每當我找到一個落腳的地方，與那裡的人稍微接觸後，就能聽到他們說起一個叫「管理員」的人。恰巧，我選擇的漫遊路線，和這個「管理員」當時北進的方向基本上一致呢。難道塔衛二上還有比我更在行的旅行家？\n\n蘭珀",
+    "zh-CN": "【一封私人信件】\n兰珀：\n宝贝，你已经走到哪里了？曾祖母、姨婆、姨妈和你姐姐这周家宴才从我这里得知你辞职离家的消息，她们追问得太细，再详尽的谎言都抵御不住这么强烈的攻势。你离开家的消息就像我们预料到的那样炸了锅。往好处看，我还是为你保守了三个周末。所以，这三周以来，你走到哪儿了？\n上个月我们在阿利莱餐馆的争吵为彼此留下了不太好的记忆。虽然妈妈还是很不支持你的选择，但当我回到家里坐下时，突然回想起我年轻时候计划好的一次出行。当时，打包好的行囊已经在墙边放好，我几乎马上可以背起来走出门去，到遥远的地方去。就在那时我听到了你的声音。你坐在宝宝餐椅上抓着刀叉看着我微笑，于是我留了下来。我提起这件事，是为了告诉你，你离开家的念头其实是一种遗传下来的习惯。\n尽管你的曾祖母常常挂在嘴边，但我们家族的祖辈最初跨过星门，来到塔卫二时的场景，已经淡化成了墙上的霉斑：那些排列在天边的巨大卡车组成了一道黑压压的长城，在断绝事故的前一刻都依然行进不休。这也是我们积累下原始财富，在合金萝卜城建立起物流生意的基础。但随着逐矿而居的日子日益变长，我们的族人似乎已经很久没有出发了。\n路上要小心你的敌人。你在商会的工作并不低调，不断有人找上门来。不过，他们谁也别想欺负我的宝贝女儿。\n家里那边，我会为你解释的。记得经常给我们分享沿途的风景。\n\n妈妈\n\n【一封私人信件】\n妈妈：\n在荒野里找到有网络的地方可不太容易。但是，一个人的旅程如我梦中的那般，非常甜美。\n我离开家以后立即拜访了新蓝卡坞。他们似乎想要通过情景重现疗法来治愈创伤，所以不太有人涉足恐怖片的题材，不免令人失望。这里老下雨，我不喜欢。\n再往前走就是北方走廊了，我即将到达环带的边境。昨天，我在旅馆里听到一个画家说，出了环带诸城，才会亲眼见到冠绝一切的自然风光。我打算去北方旧开拓区逛逛，那边好像有一些星门崩溃前的废墟，是曾祖母经常提到的那种东西吧？不要担心我的危险，我一路上都跟着一队众生长地的游人行动，等信号好了，我就把骑在驮兽身上的照片发给你。\n最近，有一个人引起了我的注意。每当我找到一个落脚的地方，与那里的人稍事接触后，就能听到他们说起一个叫“管理员”的人。刚巧，我选择的漫游路线，和这个“管理员”当时北进的方向基本一致呢。难道塔卫二上还有比我更在行的旅行家？\n\n兰珀",
+    "ja": "【個人宛の手紙】\nランプへ\nもうどこまで行ったのかしら？ひいおばあちゃん、大叔母さま、叔母さん、それにあなたの姉さんは今週のホームパーティで、ようやくあなたが仕事を辞めて家を出たことを知ったのよ。みんなから質問攻めされて、どれだけ上手な嘘をついたとしても、あの勢いにはかなわなかったでしょうね。つまりあなたが家を出たって話は、予想通り大騒ぎになったのよ。でも、ポジティブに受け止めるなら、私は秘密を3週間は隠し通すことができた。それで、この3週間であなたはいったいどこまで行ったの？\n先月、レストランのアーリライで喧嘩したことは、私にとってもあなたにとっても、あまり良い思い出ではないわね。母さんはあなたの選んだ道にまだ納得できてはいないけれど、家に帰って椅子に座ったとき、ふと若い頃に計画した家出のことを思い出したの。荷造りを済ませて壁際に置いて、すぐにでも玄関を出て、ずっと遠くまで行くつもりだった。そんなとき、あなたの声が聞こえたのよ。ベビーチェアに座ってナイフとフォークを握ったあなたが、私を見てにっこり笑った。それで私は思いとどまったのよ。この話をしたのは、家を出るというあなたの選択が、実は遺伝的なものなんだってことをあなたに伝えたかったから。\nひいおばあちゃんはよく口にするけれど、一族の祖先が最初に星門を越えてタロⅡにやって来たときの光景は、壁のシミくらい薄くなってしまった。空の果てに並ぶ巨大なトラックは長城のようで、断絶事故が起こる直前まで休まずに進み続けていた。これは私たちが得た最初の財産で、メタルキャロットシティで物流業を興す元手にもなったのよ。でも鉱石の近くで暮らす生活が続いて、一族が「旅立つ」ということ自体、もう長い間なかったものね。\n道中、敵に気をつけて。あなた、商会では随分派手に仕事をしていたみたいね。ひっきりなしに誰かが訪ねてくるのよ。でも誰にも私の大切な娘をいじめさせたりしない。\n家のみんなには、私から説明しておくわ。忘れずに、旅先の様子を送ってね。\n\n母より\n\n【個人宛の手紙】\n母さんへ\n荒野でネットが繋がる場所を見つけるのって、そう簡単なことじゃないのね。でも、1人での旅は夢見ていたとおり、とっても楽しいわ。\n家を出てすぐ、ニューランクウッドを訪れたのだけれど、みんなが「情景再現療法」で、心の傷を癒そうとしていたの。だから、ホラー映画を作ろうなんて人はあんまりいないみたいで、ちょっと残念。それに、このあたりは雨が多くて……あんまり好きじゃなかったわ。\nもう少し進むと北部回廊で、文明地帯の辺境はもう目の前よ。昨日、宿屋である画家さんのお話を聞いたのだけれど、「文明地帯の街を出て、ようやく本当に美しい自然の絶景が目の前に広がるようになる」んですって。だから、北の旧開拓エリアまで行ってみようかと思っているの。星門崩壊前の廃墟があるっていう話なのだけれど、ひいおばあちゃんがお話してくれたものと、おんなじかしら？それから、私の心配はしなくて大丈夫よ。ずーっと、衆生長地の吟遊者たちと一緒に行動しているから。電波がよくなったら、駄獣に乗ってる写真でも送るわね。\nそうそう、最近ちょっと気になっている人がいるの。行く先々の滞在場所で現地の人と話すたび、いつも「管理人」っていう人の話を聞くのよ。不思議だと思わない？私が気ままに選んだ旅のルートは、その「管理人」さんが前に北へ進んだときの道と、ほぼおんなじなんですって。タロⅡに、私より旅に慣れた人がいるってことなのかしら？\n\nランプ",
+    "ko": "[개인 편지]\n람포에게.\n아가, 지금 어디쯤 가고 있니? 증조할머니, 큰이모, 작은이모, 그리고 네 언니는 이번 주 가족 모임에서야 네가 일을 그만두고 집을 떠났다는 소식을 알게 됐단다. 얼마나 캐물으시던지, 아무리 거짓말을 해봤자 도저히 버텨낼 재간이 없더구나. 네가 집을 떠났다는 소식은 전에 우리가 예상했던 대로 온 집안을 발칵 뒤집어놨지. 그래도 엄마가 그걸 3주나 숨겨줬잖니. 그래서 말인데, 3주 동안 어디까지 갔니?\n지난달 알리라이 식당에서 우리가 한 말다툼이 그리 썩 좋은 기억을 남기진 못했지. 엄마는 여전히 네 선택을 지지하지 않지만, 집에 돌아와 소파에 앉아 곰곰히 생각해보니, 문득 내가 젊었을 때 계획했던 여행이 떠올랐단다. 그땐 짐은 이미 벽 옆에 싸뒀고, 당장이라도 메고 떠날 준비가 됐었지. 그런데 그 순간, 네 목소리가 들렸단다. 네가 아기용 식탁 의자에 앉아 포크랑 나이프를 꼭 쥐고 나를 향해 환하게 웃고 있었지. 그래서 난 남기로 했단다. 이 얘길 꺼내는 건, 네가 집을 떠나고 싶어하는 마음이 사실은 어쩌면 우리 집안 유전이 아닐까 하는 생각에 알려주고 싶었단다.\n네 증조할머니께서 입버릇처럼 말씀하시곤 했지만, 우리 가문의 조상들이 처음 스타게이트를 넘어 탈로스 II에 도착했을 때의 광경은 이제 아득한 옛이야기일 뿐이란다. 지평선 끝까지 늘어선 거대한 트럭들이 검게 늘어선 성벽을 이루었고, '단절 사고'가 일어나기 직전까지도 쉴 새 없이 움직였지. 그렇게 우리는 초창기에 부를 축적하고, 합금 무성에 물류 사업을 일으키는 토대를 세울 수 있었단다. 하지만 광물을 쫓아다니며 살던 날들이 길어지면서, 우리 일족은 오랫동안 길을 떠나지 않았던 것 같구나.\n길에서는 항상 너를 적대시하는 사람을 조심하렴. 네가 상업연합회에서 했던 일이 꽤 눈에 띄었던지, 널 찾아오는 자들이 있더구나. 하지만 걱정하지 말렴, 그 누구도 내 귀한 딸을 건드리게 두지 않을 테니까.\n가족들한테는 엄마가 잘 설명해 둘 테니, 길에서 멋진 풍경이나 재밌는 일이 있다면 꼭 엄마한테도 알려주렴.\n\n엄마가\n\n[개인 편지]\n엄마께\n황무지에서 네트워크가 잡히는 곳을 찾기가 쉽지 않네요. 그래도, 혼자 하는 여행은 꿈에서 그리던 것처럼 정말 달콤해요.\n집을 떠나자마자, 바로 뉴 랭크우드를 들렀어요. 거긴 '상황 재현 치료법' 같은 걸로 트라우마를 치유하려나 봐요. 그래서인지 호러 영화 장르에 발을 들이는 사람이 거의 없어서 실망이었죠. 여긴 비도 너무 자주 오고, 맘에 안 들어요.\n조금만 더 가면 북쪽 회랑이고, 곧 밴드의 가장자리에 도착해요. 어제 여관에서 만났던 화가한테 들었는데, 밴드의 도시들을 벗어나야만, 진짜 자연의 절경을 볼 수 있대요. 그래서 저도 북쪽 옛 개척 지역에 한 번 들러보려고요. 거기엔 스타게이트 붕괴 전의 폐허가 좀 있다던데, 증조할머니가 맨날 말하던 그런 거 맞죠? 안전은 걱정 마세요. 길에서 만난 만물의 대지의 방랑자들과 같이 다니고 있거든요. 신호만 좀 잘 터지면, 버든비스트를 탄 사진도 찍어서 보내드릴게요!\n최근에 제 호기심을 끄는 사람이 생겼어요. 어디 가든 사람들과 이야기를 나누면 하나같이 '관리자'라는 사람에 대해 이야기 하더라고요. 마침 제가 고른 여행 경로가, 그 '관리자'라는 사람이 예전에 북쪽으로 갔던 길이랑 거의 똑같지 뭐예요. 설마 탈로스 II에 저보다 더한 여행 전문가가 또 있는 걸까요?\n\n람포 드림"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0012_avywen_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Well, well, Endmin, seems like fate brought you right to me.",
+    "zh-TW": "嗯？我剛好也找到了你呢，管理員。",
+    "zh-CN": "嗯？我刚好也找到了你呢，管理员。",
+    "ja": "ふふ、ここで会えるってわかってたのよ。管理人。",
+    "ko": "음? 저도 마침 관리자님한테 가려던 참이었어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Ah-ah, don't blink or I might just disappear on you.",
+    "zh-TW": "噓，別眨眼，否則會跟丟我哦。",
+    "zh-CN": "嘘，别眨眼，否则会跟丢我哦。",
+    "ja": "しーっ、目をつぶっちゃだめ。私を見失ってもいいの？",
+    "ko": "쉿, 눈 깜빡이지 마세요. 절 놓칠지도 모르니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Oh, so you trust me enough to spend that much? I'm flattered.",
+    "zh-TW": "你果然信任我——不惜花費這麼高昂的費用。",
+    "zh-CN": "你果然信任我——不惜花费这么高昂的费用。",
+    "ja": "やっぱり信じてくれているのね。こんなに高い報酬を払ってくれるんだもの。",
+    "ko": "역시 절 믿고 계시네요. 이렇게 엄청난 금액을 제시할 정도라니..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "A little closer to the front, please? I'm not a fan of all this distance between us.",
+    "zh-TW": "能把我排得再前面一點嗎？只是不喜歡站在後面，離你有點遠呢！",
+    "zh-CN": "能把我排得再前一点吗？只是不喜欢站在后面，离你有点远呢！",
+    "ja": "ねえ、もう少し前に行ってもいい？あなたと距離があって、嫌なの。",
+    "ko": "저 좀 앞으로 보내주시면 안 될까요? 뒤에 있는 거 싫단 말이에요. 관리자님이랑도 너무 멀고요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "In my family, we say our weapons are basically part of us. Mine just happens to give me a little height boost!",
+    "zh-TW": "用我們家族的一句祖訓來說，武器就是我們身體的一部分，我猜，是彌補身高的意思吧。",
+    "zh-CN": "用我们家族的一句祖训来说，武器就是我们身体的一部分，我猜，是弥补身高的意思吧。",
+    "ja": "武器は体の一部、そう教わってきたの。小さな体をカバーするためかしらね。",
+    "ko": "저희 가문에는 이런 말이 있어요... '무기는 우리 몸의 일부다.' 작은 키를 대신하라는 말일까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "A great journey isn't just about the destination — it's the shoes that carry you there. That's why I'm never stingy with myself when it comes to this.",
+    "zh-TW": "在這一點上，我從來不會對自己吝嗇。決定遠大路途的除了目標，還有一雙好鞋子。",
+    "zh-CN": "在这一点上，我从来不会对自己吝啬。决定远大路途的除了目标，还有一双好鞋子。",
+    "ja": "こういうものには、お金を惜しまないわ。長い旅路に必要なのは目標と、それから歩きやすい靴だもの。",
+    "ko": "전 이것만큼은 절대 아끼지 않아요. 먼 길을 떠날 때, 목표만큼 중요한 게 편한 신발이거든요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "I can't believe how far I've come! Home and those days feel like they're worlds away now.",
+    "zh-TW": "回頭一看，竟然走了這麼多的路！距離家、距離那些日子，已經好遠好遠了呢。",
+    "zh-CN": "回头一看，竟然走了这么多的路！距离家、距离那些日子，已经好远好远了呢。",
+    "ja": "振り返ってみると、ずいぶん長い道のりを歩いてきたのね。故郷からも、あの頃からも……ずーっと遠く離れて。",
+    "ko": "지금 돌아보면 참 많은 곳을 다녔네요. 고향을 떠나 지내왔던 그 시절을 생각하면... 정말 멀리 와버렸어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "Will others get to see these fights? Some might recognize my lance. It's probably best if they don't know my name...",
+    "zh-TW": "這些作戰過程會被外人看到嗎？有些傢伙只認識我的長槍，最好別讓他們知道我的名字……",
+    "zh-CN": "这些作战过程会被外人看到吗？有些家伙只认识我的长枪，最好别让他们知道我的名字……",
+    "ja": "この記録、誰かに見られることはある？私の「槍」しか知らない人もいるから……できれば、名前は知られたくないの。",
+    "ko": "혹시 이번 작전 과정이 외부인한테 알려지진 않겠죠? 제 장창을 기억하는 사람들이 있거든요. 제 이름까지 유출되진 않았으면 좋겠는데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "No worries. Trust me, I'm a pro.",
+    "zh-TW": "小事。我可是專業人士。",
+    "zh-CN": "小事。我可是专业人士。",
+    "ja": "たいしたことないわ。だって、プロだもの。",
+    "ko": "이 정도는 별거 아니죠. 전 전문가니까요."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0012_avywen_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "Ha! I knew you'd get hooked on this feeling eventually! So, what's next on my plate?",
+    "zh-TW": "嗯哼，我就知道，你遲早會依賴這種感覺的。所以，下一個非我不可的任務，是什麼？",
+    "zh-CN": "嗯哼，我就知道，你迟早会依赖这种感觉的。所以，下一个非我不可的任务，是什么？",
+    "ja": "ふふっ、いずれこうなるって思ってたわ。それで、次の「私じゃなきゃいけない任務」は、何かしら？",
+    "ko": "흠, 관리자님이 언젠가 이런 느낌에 의존하게 될 줄 알았어요. 그래서... 저 아니면 절대 안 되는 임무가 뭐죠?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0012_avywen_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Since it makes sense both professionally and personally, I don't mind if we get a little more personal here, right? C'mon, don't blush now! I totally understand what you're getting at!",
+    "zh-TW": "既然於公於私都合情合理，稍微往私人的方面想一想，也沒問題吧？……不要臉紅嘛！我知道你的意思，我當然知道。",
+    "zh-CN": "既然于公于私都合情合理，稍微往私人的方面想一想，也没问题吧？……不要脸红嘛！我知道你的意思，我当然知道。",
+    "ja": "公私ともに理にかなっているんだから、ちょっとはプライベートのことを考えても問題ないわよね？……あら、顔が赤くなった。ふふ、わかってるから、大丈夫よ。",
+    "ko": "공적으로 생각하든, 사적으로 생각하든... 어느 쪽이든 합리적이니까, 조금은 사적으로 생각해도 되는 거겠죠? 부끄러워하지 마세요...! 무슨 말인지 알아요, 다 안다고요."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0012_avywen_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "I spent my whole childhood fighting for the top spot among my siblings, so staying ahead is just what I do. But here's the deal, Endmin — promise you'll always think of me first, yeah?",
+    "zh-TW": "我小時候在一個大家族裡，哪怕是吃飯睡覺，都要和弟弟妹妹們爭個先後。所以，管理員，保持在前列對我而言並不是難事。作為交換，你也要……常常在第一時間想起我哦~",
+    "zh-CN": "我小时候在一个大家族里，哪怕是吃饭睡觉，都要和弟弟妹妹们争个先后。所以，管理员，保持在前列对我而言并不是难事。作为交换，你也要……常常在第一时间想起我哦。",
+    "ja": "私、大家族だったから。ご飯のときも、寝るときも、弟妹と順番を争っていたのよ。だから、管理人。私、一番前にいるのは苦手じゃないの。代わりにあなたも……いつも、一番に私のことを思い出してね。",
+    "ko": "대가족이다 보니 전 어릴 때부터 밥을 먹든, 잠을 자든 항상 동생들이랑 그 순서를 놓고 다퉈야했어요. 그래서, 가장 첫 번째 자리를 꿰차는 건 저한테 어려운 일이 아니에요. 그러니까... 관리자님도 항상 절 가장 먼저 떠올려 주셔야 해요."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0012_avywen_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Well, well, look who it is — the legendary Endministrator. I picked up a couple of whispers on my way here. Curious to know which one's the most accurate? Since you don't know me well yet, here's my offer: how about I tell you a secret in exchange for a little something about you? Whaddya reckon?",
+    "zh-TW": "終於見到本尊了，大名鼎鼎的管理員。我在來的路上，收集了不少關於你的傳言哦。嗯？要說哪條傳言更接近你本人嘛……這樣吧，你對我還一無所知，這不能算作是等價交易。等我告訴你一個我的秘密，你再告訴我，你的某一面是什麼樣子。就這樣說定了哦？",
+    "zh-CN": "终于见到本尊了，大名鼎鼎的管理员。我在来的路上，收集了不少关于你的传言哦。唔？要说哪条传言更接近你本人嘛……这样吧，你对我还一无所知，这不能算作是等价交易。待我告诉你一个我的秘密，你再告诉我，你的某一面是什么样子。就这么说好了哦？",
+    "ja": "やっと会えたわね、「管理人」さん。ここに来るまでに、あなたの噂をいっぱい調べていたの。どの噂が本当だったかって？そうね……私のことをまだなんにも知らないのに、フェアじゃないと思わない？私の秘密をひとつ教えてあげる。その代わり、あなたのこともひとつ教えてくれる？どうかしら？",
+    "ko": "드디어 실제로 만나 뵙네요, 유명하신 관리자님? 오는 길에, 관리자님에 관한 소문을 많이 들었답니다. 음? 어떤 소문이 가장 진짜 같다고 생각하냐면... 이렇게 하죠. 관리자님은 아직 저에 대한 걸 아무것도 모르시잖아요? 그럼 이건 공정한 거래라고 할 수 없어요. 제 비밀을 하나 알려드릴 테니까, 관리자님도 관리자님의 진짜 모습을 하나 알려주는 거예요. 알겠죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Where are we headed?",
+    "zh-TW": "朝哪個方向去？",
+    "zh-CN": "朝哪个方向去？",
+    "ja": "どこに行くの？",
+    "ko": "어느 쪽으로 갈까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Am I lookin' alright from this angle?",
+    "zh-TW": "我這個角度好看嗎？",
+    "zh-CN": "我这个角度好看么？",
+    "ja": "この角度、素敵に見えるでしょう？",
+    "ko": "어때요? 예쁜 각도죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Off we go, no time to waste!",
+    "zh-TW": "即刻啟程。",
+    "zh-CN": "即刻启程。",
+    "ja": "すぐに出発するわ。",
+    "ko": "지금 바로 출발할게요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Hey, Endmin! How's it going?",
+    "zh-TW": "是你啊，管理員，要去哪呢？",
+    "zh-CN": "是你呀，管理员，要去哪儿？",
+    "ja": "あら、管理人。どこへ行くの？",
+    "ko": "어? 관리자님, 어디 가시는 거죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Endmin, mate! Ace to see you! Not avoiding me, are ya?",
+    "zh-TW": "你好啊，管理員，沒有在躲著我吧？",
+    "zh-CN": "你好啊，管理员，没有在躲着我吧？",
+    "ja": "こんにちは、管理人。なんだか、私のことを避けているような気がするのだけれど？",
+    "ko": "반가워요, 관리자님. 절 피했던 건 아니죠?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0012_avywen_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Hey, Endmin, good to see ya again. And yep, you're still rocking that charm — just like five minutes ago, huh?",
+    "zh-TW": "管理員，又見面了，你還像五分鐘前那麼可愛呢。",
+    "zh-CN": "管理员，又见面了，你还像五分钟前那么可爱呢。",
+    "ja": "管理人、また会えたわね。5分前と変わらず、とっても可愛いわ。",
+    "ko": "관리자님, 또 만났네요. 5분 전이랑 똑같이 귀여우신걸요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "I must say, you've really poured your heart into crafting Dijiang. It's incredible — just floating up here for a bit, and it's already covered the distance that took me years to travel.",
+    "zh-TW": "管理員，這艘帝江號是你的心血？真厲害，光是在天上飄一下子，就走完了我幾年的路途！",
+    "zh-CN": "管理员，这艘帝江号是你的心血？真厉害，光是在天上漂一会儿，就走完了我几年的路途！",
+    "ja": "管理人、帝江号はあなたの努力の結晶なのね？本当にすごいわ。だって、少しの間漂うだけで、私が何年もかけて旅をした道のりを超えてしまったんだもの。",
+    "ko": "관리자님, 이 제강호는 직접 만드신 건가요? 정말 대단해요. 하늘 위에 잠깐 떠 있었을 뿐인데, 제가 몇 년이나 걸었던 거리를 다 지나가 버렸거든요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0012_avywen_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "What's that on your face? Uh-uh, other side... Haha, just messing with you. It's rare to see you all flustered like this!",
+    "zh-TW": "你臉上沾著的是什麼？不對，在右邊……哈哈，逗你的。不常見到你這麼迷茫的樣子呢！",
+    "zh-CN": "你脸上沾着的是什么？不对，在右边……哈哈，逗你的。不常见到你这么迷茫的样子呢！",
+    "ja": "あら、顔になにか……そっちじゃなくて、右……ふふ、冗談よ。困った顔をするなんて珍しくて、ついね。",
+    "ko": "얼굴에 뭐가 묻으신 거 아닌가요? 오른쪽이에요... 하하, 장난이었어요. 이렇게 당황한 모습은 정말 귀한데요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0012_avywen_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Y'know, Talos-II really looks like one giant sphere from up here on the Bridge. Guess that means no matter where we travel, we'll always circle back to each other.",
+    "zh-TW": "站在艦橋上才感受到，塔衛二是一顆大圓球。這樣的話，不論往哪裡走，都會重逢呢。",
+    "zh-CN": "站在舰桥上才感受到，塔卫二是一颗大圆球。这样的话，不论往哪里走，都会重逢呢。",
+    "ja": "ブリッジに立って、初めて気づいたの。タロⅡって丸いんだって……だからどこに行ったとしても、また会えるわよね。",
+    "ko": "갑판 위에 서니까... 탈로스 II가 커다란 공 모양이라는 게 실감 나요. 그러니까... 어느 방향으로 가더라도 결국 다시 만나게 되겠죠."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0012_avywen_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "I'm off on another adventure! Need somethin'? Spit it out quick, or you'll have to wait till next time!",
+    "zh-TW": "我馬上又要到地面上去旅行啦，要幫你帶點什麼回來？快想想，我走得很急哦！",
+    "zh-CN": "我马上又要到地面上去旅行啦，要给你带点儿什么回来？快想想，我走得很急哦！",
+    "ja": "もうすぐ地上に戻って、旅行をするの。なにかお土産に欲しいものはある？ほら、早くしないと。もう行ってしまうわよ？",
+    "ko": "이따가 또 지상으로 갈 일이 있는데, 뭔가 갖고 싶은 건 없으신가요? 한번 생각해 보세요. 시간이 얼마 없답니다?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0012_avywen_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Still standing after last night's horror flick? Tsk, guess I'll have to up the stakes next time. Don't worry, I'll drag you into the next one too!",
+    "zh-TW": "昨晚的恐怖電影沒有嚇到你吧？……看來還是沒有找到一部能挑戰到我們膽量的片子！嗯，那麼，下次再叫你。",
+    "zh-CN": "昨晚的恐怖电影没有吓着你吧？……看来还是没有找到一部能挑战到我们胆量的片子！唔，那么，下次再叫上你。",
+    "ja": "昨日のホラー映画、怖くなかったの？……そうね、震え上がるような体験ができる映画って、なかなかないのよね。ふぅ……じゃあ、また誘うわね。",
+    "ko": "어젯밤에 본 공포 영화 말이에요. 별로 안 무서웠죠? 역시... 우리의 담력을 시험할 만한 영화는 아직 못 찾은 것 같아요! 음, 그럼... 다음에 또 부를게요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0012_avywen_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "I went through quite a bit to bring this back for you. Does it spark any memories?",
+    "zh-TW": "這可是我專門從下面帶回來給你的哦，找得很辛苦！看到它，有沒有再想起點什麼？",
+    "zh-CN": "这可是我专门从下面给你带回来的哦，找得很辛苦！看到它，有没有再想起点儿什么？",
+    "ja": "わざわざ地上から持って帰ってきたのよ？探すのもとっても大変で……どう、なにか思い出さない？",
+    "ko": "이건 제가 관리자님한테 주려고 특별히 가져온 거예요, 엄청 힘들게 찾은 거 있죠? 이걸 보고 나서, 뭐 좀 생각나는 거 없어요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "A pretty girl like me has definitely gotten a lot of gifts, but this one from you is ... special.",
+    "zh-TW": "我這麼漂亮的女孩子，當然收到過很多禮物啦！但你這一份，和別的那些完全不一樣喔。",
+    "zh-CN": "我这么漂亮的女孩子，当然收到过很多礼物啦！但你这一份，和别的那些完全不一样哦。",
+    "ja": "私、きれいでしょう？もちろん、たくさんプレゼントはもらうけれど……あなたのは、特別。他のとは全然違うの。",
+    "ko": "저처럼 이렇게 예쁜 여자가 선물을 한두 개 받아봤겠어요? 하지만 관리자님이 준 이 선물은... 그것들 중에 가장 특별해요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "People can be pretty complicated sometimes. Back then, I didn't need to think much. My job was all about getting things from A to B. But when I barged into that circus, things got... *Sigh* I'll tell you the full story another time, yeah?",
+    "zh-TW": "人心可是很複雜的。但是對於我來說啊，從前並不需要理解這些。做信使的時候，將信件點對點送到就可以了，要是強行介入其中，反而會讓自己……算了，具體的嘛，下一次再告訴你。",
+    "zh-CN": "人心可是很复杂的。但是对于我来说呀，从前并不需要理解这些。做信使的时候，将邮件点对点送到就可以了，要是强行介入其中，反而会让自己……算了，具体的嘛，下一次再告诉你。",
+    "ja": "人の心って、複雑なの。でも、昔の私にとってはどうでもいいことだった……トランスポーターの仕事は、荷物を届けること。それ以上のことをすれば、逆に自分が……ううん、今はやめておくわ。また今度、ちゃんと話すわね。",
+    "ko": "사람의 마음이란건... 참 복잡해요. 근데 예전에 전 그걸 이해할 필요가 없었어요. 전달자로서, 그냥 편지를 목적지에 전달하기만 하면 되니까요. 괜히 일에 끼어들었다가 저한테... 아니에요. 이 얘기는 다음에 말씀드릴게요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Back at my old job, my salary was basically a king's ransom compared to what I make now! *Chuckle* In my family, we never settle for anything less than fair. I'm sure you know exactly what made up for that gap. You're just... too shy to admit it.",
+    "zh-TW": "我以前那份工作的薪水——和在這裡的酬勞比起來，應該算是天價吧！哈哈哈，但是，我們家族的人從來不做讓自己吃虧的打算，所以，你知道彌補了那個落差的，是什麼。你知道的，你只是……害羞而已。",
+    "zh-CN": "我以前那份工作的薪水——和在这里的酬劳比起来，应该算是天价吧！哈哈哈，但是，我们家族的人从来不做让自己吃亏的打算，所以，你知道弥补了那个落差的，是什么。你知道的，你只是……害羞而已。",
+    "ja": "ここと、前の仕事の報酬を比べてしまったら……天文学的な数字の差があるわ。でもね、私たち一族は損になることは絶対にしないのよ？その差を埋めたのが何か、わかってるでしょう？ふふ……恥ずかしがらなくてもいいのに。",
+    "ko": "음, 사실 전에 있던 곳에서는 지금보다 훨씬 더 많은 보수를 받았어요! 하하하, 하지만 저희 가문 사람들은 절대 손해 보는 장사를 하진 않는답니다. 제가 왜 더 적은 보수를 받고도 여기에 있는지... 부끄러워하지 않으셔도 돼요, 다 이해해요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0012_avywen_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "I've journeyed from the Band, endured the old frontier's cold, spent white nights in Hannabit Circuit's huts, watched the Seš'qamam's ship drift through the sky, and heard the endless rain by the Oathkeepers' fortress. And through it all, Endmin, your name echoed.",
+    "zh-TW": "我從環帶一路過來，在北方舊開拓區的廢墟底下熬過極凍，在眾生長地的牧棚裡睡過白夜，看過塞什卡人那艘遊蕩在空中的船，聽過鐵誓軍堡壘外經久不息的雨。管理員，最後呀，我聽說那些地方，都迴盪著你的名字。",
+    "zh-CN": "我从环带一路过来，在北方旧开拓区的废墟底下熬过极冻，在众生长地的牧棚里睡过白夜，见过塞什卡人那艘游荡在空中的船，听过铁誓军堡垒外经久不息的雨。管理员，最后呀，我听说那些地方，都回荡着你的名字。",
+    "ja": "文明地帯から出て、北部の旧開拓エリアの廃墟で寒さに耐え、衆生長地の小屋で白夜を過ごして……空を漂うセシュカの船も見たし、鉄誓軍の要塞の外で鳴り止まない雨の音も聞いた。でも、管理人……どこに行っても、あなたの名前を耳にしない日はなかったわ。",
+    "ko": "밴드에서 시작된 여정 속에서 전 북쪽의 옛 개척 지역에서 극한의 추위를 견디고, 만물의 대지의 목초지에서 백야를 보내고, 세쉬카인들이 하늘에 띄운 배를 보고, 철의 서약군 요새 밖에서 끝없이 내리는 빗소리도 들었어요. 그런데 말이죠. 그 모든 곳에서 관리자님의 이름이 울려 퍼지고 있더라고요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0012_avywen_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "Just call me Lamp. Avywenna is actually my family name. Hey, it's no joke to me, so don't laugh. Keep this secret between us, okay? I don't want anyone bad coming after you. Unless... Oh? you're up for looking out for me?",
+    "zh-TW": "嗯，就叫我蘭珀吧，「艾維文娜」其實是我們的族姓。嘿，別笑，這對我來說，可是很重要的正事——這是我託付給你的一個秘密。別聲張，我可不想讓那些壞人順著我找到你，除非……你也願意保護我？",
+    "zh-CN": "嗯，就叫我兰珀吧，“艾维文娜”其实是我们的族姓。嘿，别笑，这对我来说，可是很重要的正事——这是我托付给你的一个秘密。别声张，我可不想让那些坏人顺着我找上你来，除非……你也愿意保护我？",
+    "ja": "ねえ、ランプって呼んでくれる？実は「アイビーエナ」は一族の名前で……ふふ、笑わないで聞いてね？私のとっても大切な――あなただけに話す秘密。誰にも言っちゃだめよ？悪い人が嗅ぎつけて、迷惑をかけたくないもの。もし……私を守りたいっていうなら、話は別だけれどね？",
+    "ko": "음, 그냥 절 람포라고 불러주세요. '아비웨나'는 사실 저희 가문의 성씨거든요. 앗, 웃으시면 안 돼요. 저한테는 꽤 중요하고 진지한 일이니까요. 이건 제가 관리자님한테만 알려드리는 비밀이에요. 어디 가서 소문내지 마시고요. 절 쫓는 나쁜 녀석들이 관리자님한테 들러붙으면 안 되잖아요? 뭐, 물론... 관리자님이 절 지켜주고 싶으신 거라면 또 모르겠지만요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0012_avywen_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "Endmin, Talos-II is huge. How many places have you actually visited? Oh, right ... then how many of them do you still remember? I can't wait for you to recall them all. The more memories we share, the better, right?",
+    "zh-TW": "管理員，塔衛二很大，你到底去過多少地方？或者……你還記得多少地方？……嗯，真希望你能早日都想起來。這樣，我們之間，就可以再多一些共同的記憶了。",
+    "zh-CN": "管理员，塔卫二很大，你究竟去过多少地方？或者……你还记得多少地方？……唔，真希望你能早日都想起来。这样，我们之间，就可以再多一些共同的记忆了。",
+    "ja": "管理人、タロⅡってとっても広いけれど……どこに行ったことがあるの？もしくは覚えている場所……そうだったわ。早く記憶が戻るといいわね。そうなったら、おんなじ思い出がもっともっと増えるもの。",
+    "ko": "관리자님, 이 넓은 탈로스 II에서 얼마나 많은 곳을 가보셨나요? 아니, 음...그래요, 얼마나 많은 곳을 기억하고 계시죠? 흐음... 관리자님이 빨리 모든 걸 기억해 내셨으면 좋겠어요. 그러면 우리가 더 많은 추억을 만들 수 있을 테니까요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0012_avywen_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "My family are Banders and Messenger work has been our calling for generations. So, what's your family like, Endmin?",
+    "zh-TW": "我的家族在環帶的城市裡，祖祖輩輩都是信使。管理員，你的家族是什麼樣的？",
+    "zh-CN": "我的家族在环带的城市里，祖祖辈辈都是信使。管理员，你的家族是什么样的？",
+    "ja": "私の一族は文明地帯でずっとトランスポーターをしているのよ。管理人、あなたの家族はどうかしら？",
+    "ko": "저희 가문은 밴드의 도시에서 대대로 전달자로서의 삶을 이어가고 있어요. 관리자님의 가문은 어때요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Ta-da! This is my little corner. Not that I get back here much, but I like to keep it soft and cozy. A roamer like me's gotta have a place to kip, right?",
+    "zh-TW": "歡迎來到我的「秘密小窩」——想不到吧？雖然不怎麼回來，但我喜歡把家裡弄得舒舒服服的。旅行的人，最需要的反而是一個可以回去的地方哦。",
+    "zh-CN": "欢迎来到我的“秘密小窝”——想不到吧？虽然不怎么回来，但我喜欢把家里整得舒舒服服的。旅行的人，最需要的反而是一个可以回去的地方哦。",
+    "ja": "私の「隠れ家」にようこそ。驚いたかしら？たまにしか帰ってこられないのだけれど。でも、こうやってきれいにしているのよ。だって、旅をしている人にとって本当に必要なのは、「帰る場所」なんだもの。",
+    "ko": "제 '비밀 아지트'에 오신 걸 환영해요. 의외인가요? 자주 오진 않지만, 전 집을 아늑하게 꾸며놓는 걸 좋아하거든요. 여행자한테 가장 필요한 건, 오히려 이렇게 언제든 돌아올 수 있는 곳이니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Messengers have to safely deliver plenty of secrets, and every one of them comes with a costly price tag. But there is one thing more expensive than the delivery itself, and that is ... my silence on these matters.",
+    "zh-TW": "信使要護送許多秘密，每一個秘密都有昂貴的價格，但比它們更昂貴的，是……我的守口如瓶。",
+    "zh-CN": "信使要护送许多秘密，每一个秘密都有昂贵的价格，但比它们更昂贵的，是……我的守口如瓶。",
+    "ja": "トランスポーターってね、たくさんの秘密を扱うお仕事なの。秘密ってとっても価値が高いのよ。でも、それよりずーっと貴重なのは、私の口の堅さ……なんだけれどね。",
+    "ko": "전달자는 수많은 비밀을 전달해요. 모든 비밀 하나하나가 귀중한 가치를 갖고 있죠. 하지만 비밀들보다 더 가치 있는 건... 제가 절대 비밀을 발설하지 않는다는 사실이에요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "Nobody likes rejection ... so if we can talk things out, I'd much rather do that than get physical. But just so we're clear, I don't like being rejected.",
+    "zh-TW": "沒有人喜歡被人拒絕……所以，能好好說話就能解決的事，我當然不想動手啦。不過，我也不喜歡被人拒絕哦。",
+    "zh-CN": "没有人喜欢被人拒绝……所以，能好好说话就能解决的事儿，我当然不想动手啦。不过，我也不喜欢被人拒绝哦。",
+    "ja": "誰であっても、嫌がっている人には何もしたくないわ。きちんとお話して解決できるなら、それが一番よね。",
+    "ko": "누구든... 거절당하면 기분이 나빠지는 법이죠. 그러니까, 말로 해결할 수 있는 일이라면 저도 굳이 폭력을 사용하고 싶진 않아요. 하지만 그렇다고 제가 거절당하는 걸 좋아하는 사람은 아니라서요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "You remember old Laine, right? That grumpy guy never once smiled at me. But I've heard he's a respected retired employee, and when he left, people were crying their eyes out. Hmph, he even called me a \"troublemaker\" before sending me here. Well, if I'm trouble, at least I'm capable trouble!",
+    "zh-TW": "那個萊恩站長，你還記得嗎？就是他推薦我到終末地來工作的。那個老頭子，幾個月裡都沒給過我一個好臉色。呵呵，他說，要把我這個「災星」送到你們這裡來。不過，管理員，我聽說他是榮譽退休員工，大家送別他的時候，至少有十幾號人淚眼汪汪呢。他一定不會害你們的，對吧？",
+    "zh-CN": "那个莱恩站长，你还记得么？就是他推荐我到终末地来工作的。那个老头子，几个月里都没给过我一个好脸色。呵呵，他说，要把我这个“灾星”送到你们这儿来。不过，管理员，我听说他是荣誉退休员工，大家送别他的时候，至少有十好几号人眼泪汪汪呢。他一定不会害你们的，对吧？",
+    "ja": "レーン駅長って、覚えている？私をエンドフィールドに推薦した、あのおじいさん……私にはずーっと冷たくって、厄介者を押し付けてやるんだって。ふふ。でもね、管理人。名誉駅長になって辞めるとき、みんな涙を流して見送ったらしいのよ。そんな人が、あなたたちを陥れたりするかしら。ね、そうでしょう？",
+    "ko": "레인 소장님 말이에요, 아직 기억하시나요? 그분께서 엔드필드를 추천해 주셨거든요. 진짜... 그 소장님은 몇 달 동안 단 한 번도 저한테 좋은 표정을 보여주신 적이 없어요. 그러더니 이 '재앙' 같은 절 여기로 보내버리겠다고 하셨죠. 근데 또 들어보니까, 참 명예롭게 퇴직한 직원이셨더라고요. 퇴직할 때 적어도 열댓 명은 눈물을 글썽일 정도로요. 그러니까 분명 엔드필드를 망치겠다고 절 보내신 건 아니었을 거예요, 그렇죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_about_line01",
+   "title": {
+    "en": "Topic: Endfield",
+    "zh-TW": "話題：終末地",
+    "zh-CN": "话题：终末地",
+    "ja": "エンドフィールドについて",
+    "ko": "엔드필드에 관하여"
+   },
+   "text": {
+    "en": "Endfield's now the place I've stayed the longest, apart from Alloycarrot where I grew up. Guess I might be getting used to this whole settling down thing.",
+    "zh-TW": "終末地，現在已經是我除了從小生活的合金蘿蔔城以外，停留時間最久的地方了。也許，我又開始習慣定居的生活了？",
+    "zh-CN": "终末地，现在已经是我除了从小生活的合金萝卜城以外，停留时间最长的地方了。也许，我又开始习惯定居的生活了？",
+    "ja": "エンドフィールドは、小さい頃に過ごしたメタルキャロットシティを除けば一番長く住んだ場所になったわ。もしかしたら、おんなじところに住み続けることに、また慣れてきたのかもしれないわね。",
+    "ko": "제가 어릴 때 살았던 합금 무성을 빼면, 가장 오래 머문 곳이 바로 이 곳, 엔드필드예요. 어쩌면... 제가 또다시 정착한 삶에 익숙해지고 있는지도 모르겠네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_about_line02",
+   "title": {
+    "en": "Topic: Family Business",
+    "zh-TW": "話題：家族事業",
+    "zh-CN": "话题：家族事业",
+    "ja": "先祖代々の仕事について",
+    "ko": "가문의 일에 관하여"
+   },
+   "text": {
+    "en": "My ancestors were truckers back when the Cosmic Gate was still open. The giant rigs once formed a shimmering trail of metal that cruised along the horizon. After that, my great-nan, nanna, and mum slogged for Sloan Security in the Band! Those old girls gave me a ton of grief when I decided to quit... Ahem. Just so you know, I didn't just ... stroll into your nice little place, Endmin.",
+    "zh-TW": "我家族裡的先人在跨越星門的時期都在擔任卡車司機。一輛輛巨大的卡車壓著天際線的邊緣行進，組成了一道輝煌的長城。從那以後，我的曾祖母、祖母、母親……反正她們全都在環帶的史隆保全公司工作！當我決定辭職時，她們……嗯哼，你知道，我扛住了多少壓力，最終才站在這裡，站在你面前的。",
+    "zh-CN": "我家族里的先人在跨越星门的时期都在担任卡车司机。一辆辆巨大的卡车压着天际线的边缘行进，组成了一道辉煌的长城。从那以后，我的曾祖母、祖母、母亲……反正她们全都在环带的史隆安保公司工作！当我决定辞职时，她们……嗯哼，你知道，我扛住了多少压力，才最终站在这儿，站在你面前的。",
+    "ja": "星門を越えた時代、私の先祖はトラックの運転手をしていたのよ。大きなトラックが地平線の端をなぞって、城壁を織りなして……それ以来、曾祖母も祖母も、母も……みんな文明地帯のスローンセキュリティ社に勤めていたの。私が退職するって伝えたときの家族の顔……ふふ、わかるでしょう？どれほどの覚悟を背負って、今あなたの目の前に立っているか、ね。",
+    "ko": "스타게이트를 넘나들던 시절, 저희 가문의 선조님들은 모두 트럭을 운전했어요. 거대한 트럭들이 지평선 끝을 따라 나아가며, 찬란하게 이어지는 길을 그려내곤 했죠. 그 다음엔 증조할머니, 할머니, 어머니까지... 어느샌가, 가족들은 밴드의 슬론 보안 회사에서 일하기 시작했고요! 제가 그 일을 그만두겠다고 결정했을 때, 가족들이... 흠흠, 말 안 해도 아시겠죠? 제가 얼마나 많은 어려움을 이겨내고 관리자님 앞에 이렇게 서 있는지 말이에요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_about_line03",
+   "title": {
+    "en": "Topic: Fashion",
+    "zh-TW": "話題：服裝",
+    "zh-CN": "话题：服装",
+    "ja": "服について",
+    "ko": "의상에 관하여"
+   },
+   "text": {
+    "en": "My clothes? All about style and practicality! Remember this when you're in the outback: keep your kit sharp, and pull your head in.",
+    "zh-TW": "我的衣服，都是兼顧實用和美觀的設計！長期在野外活動，只有兩條原則：多往身上綁，少管路邊事。",
+    "zh-CN": "我的衣服，都是兼顾实用和美观的设计！长期在野外活动，只有两条原则：多往身上绑，少管路边事。",
+    "ja": "私の服はね、実用性と美しさを兼ね備えたものなの。外で活動するときの決まりごとは2つ――まずは、できるだけたくさんの装備を身に着けておくこと。それと、余計なことに首を突っ込まないこと。",
+    "ko": "제 옷은 실용성과 패션을 모두 고려해서 디자인한 거예요! 오랜 시간 야외에서 활동하기 위해서는 두 가지 원칙을 지켜야 하거든요. 무엇이든 몸에 많이 달아라, 그리고... 쓸데없는 사건에는 휘말리지 말아라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_about_line04",
+   "title": {
+    "en": "Topic: Alloycarrot",
+    "zh-TW": "話題：合金蘿蔔城",
+    "zh-CN": "话题：合金萝卜城",
+    "ja": "メタルキャロットシティについて",
+    "ko": "합금 무성에 관하여"
+   },
+   "text": {
+    "en": "Crikey, I can't believe you've never visited Alloycarrot! Well, I'm not one to toot my own horn, but I've seen plenty of places around Talos-II, and nothing compares to the charm of our mining tunnels. The kids grow up in a world full of close mates and lively chatter. We always say, the only thing tougher than a big drill is our friendship!",
+    "zh-TW": "管理員，沒想到你竟然沒有造訪過合金蘿蔔城！事先聲明，我沒有在自吹自擂——整個塔衛二，我待過不少地方，最有人情味的，還是我們合金蘿蔔城大大小小的礦洞。那裡的孩子們，都是在精巧的人情關係和七嘴八舌的熱鬧氣氛裡長大的喔！我們那裡常說：沒有什麼比大鑽頭更堅硬，除了我們的友誼。",
+    "zh-CN": "管理员，没想到你竟然没有造访过合金萝卜城！事先声明，我没有在自吹自擂——整个塔卫二，我待过不少地方，最有人情味的，还是我们合金萝卜城大大小小的矿洞。那儿的孩子们，都是在精巧的人情关系和七嘴八舌的热闹气氛里长大的哦！我们那里常说：没有什么比大钻头更坚硬，除了我们的友谊。",
+    "ja": "管理人、メタルキャロットシティに行ったことがないの？あのね、別に自慢というわけではないのだけれど――今までいろんな場所に行ってみて思ったの。広いタロⅡの中でも、やっぱりメタルキャロットシティの鉱山が一番人情味に溢れる場所だったって。子どもたちは、住民の絆と賑やかな雰囲気の中で育つから、「友情はドリルよりも硬し」なんて、よく言われていたものよ。",
+    "ko": "관리자님이 합금 무성에 한 번도 가본 적이 없으실 거라고는 생각지도 못했어요! 미리 말씀드리지만, 이건 절대 제가 과장하는 게 아니에요. 탈로스 II에서 참 많은 곳을 다녔는데, 그중에서 가장 따뜻한 인간미가 느껴지는 곳은 저희 합금 무성의 크고 작은 광산 동굴들이라고 생각하거든요. 그곳의 아이들은 끈끈한 인간관계와 즐거운 분위기 속에서 살아가요. 저희한테는 이런 말이 있어요. '거대한 드릴보다 더 단단한 건, 오직 우리의 우정뿐이다.'"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "My device is ticking. Maybe there's something nice nearby.",
+    "zh-TW": "指針在跳動，附近也許有好東西。",
+    "zh-CN": "指针在跳动，附近也许有好东西。",
+    "ja": "反応しているわね。近くに何かありそうよ。",
+    "ko": "바늘이 움직이고 있어요. 근처에 좋은 물건이 있을지도 몰라요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Follow me! I left a treasure mark here last time I was around!",
+    "zh-TW": "跟我來，上次路過這裡，我做過寶藏的標記！",
+    "zh-CN": "跟我来，上次路过这儿，我做过宝藏的标记！",
+    "ja": "こっちよ。前に来たときに、目印をつけておいたの。",
+    "ko": "절 따라오세요. 전에 여길 지나가다가 보물이 숨겨진 곳에 표시를 해놨었거든요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Oh, I can't believe there are places I've never visited before!",
+    "zh-TW": "這附近竟然還有連我都沒去過的地方？",
+    "zh-CN": "这附近竟然还有连我都没去过的地方？",
+    "ja": "あら、私の知らない場所がまだあるなんてね？",
+    "ko": "이 근처에 저도 아직 못 가본 곳이 있어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Looks like that guy's shut down any chance of negotiations.",
+    "zh-TW": "那個傢伙，好像回絕了談判的可能哦。",
+    "zh-CN": "那个家伙，似乎回绝了谈判的可能哦。",
+    "ja": "残念だけれど、交渉に応じるつもりはないみたいね？",
+    "ko": "저 녀석... 협상의 가능성을 짓밟아버렸네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Witness the skills passed down by my Rim Billiton ancestors!",
+    "zh-TW": "祖宗們在雷姆必拓時的老手藝！",
+    "zh-CN": "祖宗们在雷姆必拓时的老手艺！",
+    "ja": "レム・ビリトンで培ってきた伝統技術を披露するわ。",
+    "ko": "선조님들이 림 빌리턴에 계실 때 사용했던 기술이에요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "We Rim Billies always take care of one another!",
+    "zh-TW": "我們有照顧彼此的傳統哦！",
+    "zh-CN": "我们有照顾彼此的传统哦！",
+    "ja": "私たちにはね、お互い助け合う習わしがあるの。",
+    "ko": "저희는 서로를 도와주는 전통이 있거든요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Shhhh! We usually bury these good finds first before anyone else spots them...",
+    "zh-TW": "噓，平常看到這種好東西，我們都會先埋起來……",
+    "zh-CN": "嘘，平时看到这种好东西，我们都会先埋起来……",
+    "ja": "しーっ、いいものを見つけたときは、とりあえずこっそり埋めておくの……",
+    "ko": "쉿! 평소에 이런 좋은 걸 발견하면, 저희는 먼저 묻어두는 편이예요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Aurylene?! How did you know I love stuff that shines?",
+    "zh-TW": "是醚質！你怎麼知道我喜歡發著亮光的東西？",
+    "zh-CN": "是醚质！你怎么知道我喜欢发着亮光的东西？",
+    "ja": "あら、オーリレンね！私、光るものが好きなのよ。どうして知っていたの？",
+    "ko": "오리렌이네요! 제가 빛나는 걸 좋아한다는 거, 어떻게 아신 거예요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Honestly, I actually see it as a way to keep myself safe from certain people.",
+    "zh-TW": "其實有時候，我反而將這個視為躲開某些人的自保措施呢。",
+    "zh-CN": "其实有时候，我反倒将这个视为躲开某些人的自保措施呢。",
+    "ja": "実はね、とある人たちから逃げるときに、これを使うときがあるの。",
+    "ko": "사실 가끔 전 이걸 누군가를 피하기 위한 자기방어 수단으로 쓰곤 해요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Aww, this warm and cozy vibe is just perfect. After being all messy and wet, finding a clean and toasty spot like this is a little slice of heaven.",
+    "zh-TW": "暖洋洋的感覺，真喜歡。一路上髒兮兮、濕答答的，找到一個溫暖乾淨的地方，真不簡單。",
+    "zh-CN": "暖融融的感觉，真喜欢。一路上脏兮兮、湿哒哒的，找到一个温暖干净的地方，真不容易。",
+    "ja": "あたたかくて気持ちいいわね。ずっと汚くてじめじめしたところにいたから、こういう場所はとってもありがたいわ。",
+    "ko": "포근한 느낌, 정말 좋네요. 계속 먼지투성이에... 축축하고 그랬는데, 이렇게 따뜻하고 깨끗한 곳을 찾다니 정말 다행이에요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Good thing I packed this one.",
+    "zh-TW": "好在把這個打包了。",
+    "zh-CN": "好在把这个打包上了。",
+    "ja": "ちゃんと持ってきて正解だったわ。",
+    "ko": "다행히 챙겨온 게 있어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Gotta treat myself sometimes.",
+    "zh-TW": "要對自己好一點哦！",
+    "zh-CN": "要对自己好一点儿哦！",
+    "ja": "自分のことは、大切にしてあげないとね。",
+    "ko": "자기 자신한테도 좀 잘해줘야죠!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Get to somewhere safe!",
+    "zh-TW": "走！去安全的地方！",
+    "zh-CN": "走！去安全的地方！",
+    "ja": "急いで！安全な場所へ！",
+    "ko": "가요! 안전한 곳으로!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Don't worry, I'm okay.",
+    "zh-TW": "沒關係的，這點小傷。",
+    "zh-CN": "没关系的，这点小伤。",
+    "ja": "大丈夫。ちょっとかすっただけ。",
+    "ko": "괜찮아요, 별거 아니에요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Lemme face home ... one last time.",
+    "zh-TW": "想要面向……家的方向……",
+    "zh-CN": "想要面向……家的方向……",
+    "ja": "おうちに……帰りたい……",
+    "ko": "이쪽이... 우리 집 방향이던가..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Nicely done! Ever thought about taking up my job?",
+    "zh-TW": "不錯，考慮做我這行嗎？",
+    "zh-CN": "不错，考虑干我这行吗？",
+    "ja": "いいわね。私のお仕事も、やってみない？",
+    "ko": "괜찮네요. 같이 일 해보지 않으실래요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Look at us, pulling together like a real brood!",
+    "zh-TW": "看看我們，像真正的一家人一樣！",
+    "zh-CN": "瞧瞧我们，像真正的一家人一样！",
+    "ja": "私たち、本当の家族みたいにできたわね。",
+    "ko": "저희 지금 진짜 가족 같네요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Yep, that's just how awesome I am.",
+    "zh-TW": "沒錯，我就是這麼厲害哦。",
+    "zh-CN": "没错，我就是这么厉害哦。",
+    "ja": "もちろんよ。私、すごいもの。",
+    "ko": "맞아요, 제가 이렇게 대단해요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "This makes me feel like I'm at home.",
+    "zh-TW": "好像回家了一樣呢。",
+    "zh-CN": "好像回家了一样呢。",
+    "ja": "なんだか、家に帰ってきたみたい。",
+    "ko": "집에 돌아온 것 같은데요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "The first step is always the hardest.",
+    "zh-TW": "踏出開始那一步總是最難的。",
+    "zh-CN": "踏出开始那一步总是最难的。",
+    "ja": "一番大変なのは、最初の一歩を踏み出すこと。",
+    "ko": "첫걸음이 가장 어려운 법이죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Let's show 'em what we got!",
+    "zh-TW": "沒錯，先把氣勢擺出來。",
+    "zh-CN": "没错，先把气势摆出来。",
+    "ja": "ええ、やる気を見せてあげないとね。",
+    "ko": "맞는 말이에요. 먼저 상대방의 기를 꺾어보죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Talk's cheap, mate. Gotta put in the hard yakka.",
+    "zh-TW": "周旋並不只是靠說話，前提是——手腕夠硬。",
+    "zh-CN": "周旋并不只是靠说话，前提是——手腕够硬。",
+    "ja": "交渉のときに大切なのは、言葉だけじゃないのよ――やっぱり、腕がないと。",
+    "ko": "협상만으로 모든 걸 해결할 수는 없어요. 결국은... 강해야 하죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "No worries, it's all part of our job.",
+    "zh-TW": "不客氣，我們是以此為生的。",
+    "zh-CN": "不客气，我们是以此为生的。",
+    "ja": "気にしなくていいわ。仕事だもの。",
+    "ko": "이 정도는 쉽죠. 저희는 이걸 위해서 태어난 사람들이니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "That's right, hold on to that spirit!",
+    "zh-TW": "保持住這種精神！",
+    "zh-CN": "保持住这种精神！",
+    "ja": "その調子よ。",
+    "ko": "이 분위기를 계속 이어 나가는 거예요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "There's an old saying among the Messengers: To walk the right path, don't focus on where you step — keep your eyes on the horizon.",
+    "zh-TW": "沒關係，就像信使家族流傳下來的一條箴言：要走好路，不要看著腳下，要看著遠方。",
+    "zh-CN": "没关系，就像信使家族流传下来的一条箴言：要走好路，不要看着脚下，要看着远方。",
+    "ja": "大丈夫よ。私の一族にはこんな言葉がある――「正しい道を歩くためには、下を向くな、遠くを見ろ」って。",
+    "ko": "괜찮아요. 전달자 가문에 대대로 전해 내려오는 말이 있거든요. '발아래의 진흙을 보지 말고, 저 별빛을 보고 걸어라.'"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Let's save this payment for when we take our revenge.",
+    "zh-TW": "這次的報酬，留到復仇時再結吧。",
+    "zh-CN": "这次的报酬，留到复仇时再结吧。",
+    "ja": "今回の報酬は、リベンジしたときに受け取るわね……",
+    "ko": "이번 보수는... 복수가 성공했을 때 다시 계산하도록 하죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Don't blink!",
+    "zh-TW": "別眨眼！",
+    "zh-CN": "别眨眼！",
+    "ja": "目を開けなさい！",
+    "ko": "눈 깜빡이지 마세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Here it comes!",
+    "zh-TW": "收下吧！",
+    "zh-CN": "收下吧！",
+    "ja": "受け取りなさい！",
+    "ko": "받아보시죠!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Zap alert!",
+    "zh-TW": "小心觸電！",
+    "zh-CN": "小心触电！",
+    "ja": "ビリビリしたいの？",
+    "ko": "감전 조심하세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Make way.",
+    "zh-TW": "讓讓路。",
+    "zh-CN": "让让路。",
+    "ja": "止められないわよ！",
+    "ko": "저리 비켜보세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Where ya running?",
+    "zh-TW": "想跑去哪？",
+    "zh-CN": "想跑去哪儿？",
+    "ja": "どこへ逃げるつもり？",
+    "ko": "어디로 도망치려고요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Don't forget about me!",
+    "zh-TW": "可別忘了我噢。",
+    "zh-CN": "可别忘了我噢。",
+    "ja": "私がいるわよ。",
+    "ko": "절 잊으시면 안 되죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "You really kept me waiting!",
+    "zh-TW": "等好久了！",
+    "zh-CN": "等好久了！",
+    "ja": "私の番ね。",
+    "ko": "한참 기다렸잖아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Play it by ear!",
+    "zh-TW": "見機行事！",
+    "zh-CN": "见机行事！",
+    "ja": "今がチャンスよ！",
+    "ko": "상황 봐가면서 움직여요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Eyes on the prize.",
+    "zh-TW": "並列第一！",
+    "zh-CN": "并列第一！",
+    "ja": "同列1位ね？",
+    "ko": "1등이 두 명이네요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Weak spot sighted!",
+    "zh-TW": "抓住弱點！",
+    "zh-CN": "抓住弱点！",
+    "ja": "見つけちゃった。",
+    "ko": "어라, 약점이네요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Gotcha.",
+    "zh-TW": "伺機而動。",
+    "zh-CN": "伺机而动。",
+    "ja": "隙だらけね！",
+    "ko": "빈틈을 보이면 안 되죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "I'm not the gentle type.",
+    "zh-TW": "我可不算溫柔！",
+    "zh-CN": "我可不算温柔！",
+    "ja": "優しく……できないわよ？",
+    "ko": "전 부드러운 성격이 아니랍니다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Incoming bad news!",
+    "zh-TW": "這是一條噩耗！",
+    "zh-CN": "这是一条噩耗！",
+    "ja": "死の……お知らせよ！",
+    "ko": "안 좋은 소식이네요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0012_avywen_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Tremble before my strike!",
+    "zh-TW": "掣擊，決顫！",
+    "zh-CN": "掣击，决颤！",
+    "ja": "撃墜、揺らす！",
+    "ko": "차지... 필살!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0012_avywen_1",
+   "topic": {
+    "en": "The Intimate Pages",
+    "zh-TW": "獨家日記",
+    "zh-CN": "独家日记",
+    "ja": "独占日記",
+    "ko": "한 사람만을 위한 일기"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Hmm, pretty gorgeous out today! Clouds r darting around like little Cautuses. Now that the air's clear in the frontier, ya can actually see the stars proper!",
+      "zh-TW": "窗外天氣真好，雲就像小卡特斯一樣跑來跑去。開拓區沒有烏煙瘴氣，星星都多了不少啊。",
+      "zh-CN": "窗外天气真好，云就像小卡特斯一样跑来跑去。开拓区没有乌烟瘴气，星星都多了不少啊。",
+      "ja": "窓の外、いいお天気よ。雲がコータスみたいに走り回っていて……煙も埃も、開拓エリアからすっかり消えてしまったわね。星もすごく増えたみたい。",
+      "ko": "밖에 날씨가 참 좋아 보이네요. 움직이는 구름들이 꼭 꼬마 카우투스가 이리저리 뛰어다니는 것 같아요. 개척 지역에 매캐한 연기가 없어지니, 별도 훨씬 많아진 거 있죠?"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "New Message",
+      "zh-TW": "新訊息",
+      "zh-CN": "新消息",
+      "ja": "新着メッセージ",
+      "ko": "새 메시지"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Reckon this nail polish came up a treat. Love dat little clink-clank noises when my nails tap on my weapon.",
+      "zh-TW": "今天的指甲油顏色還蠻好看的呢。新的指甲，敲在武器上，會有叮叮噹噹的聲音。",
+      "zh-CN": "今天的指甲油颜色还蛮好看的呢。新的指甲，敲在武器上，会有叮叮当当的声音。",
+      "ja": "今日のマニキュア、すごくきれいに塗れたの。新しいネイルで武器を弾くと、カチカチって音が鳴るのよ。",
+      "ko": "오늘 바른 매니큐어 색이 꽤 예뻐요. 새로 손질한 손톱으로 무기를 톡톡 두드리면, '딩딩' 하고 아주 맑은 소리가 나요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "I've always found that sound kinda addictive ... like beauty and violence mashed together.",
+      "zh-TW": "這種聲音，我一直覺得很迷人哦，就像是……美麗和暴力合二為一的感覺。",
+      "zh-CN": "这种声音，我一直觉得很迷人哦，就像是……美丽和暴力合二为一的感觉。",
+      "ja": "この音、本当に魅力的だと思わない？まるで、美しさと暴力が、ひとつになったみたいで……ね？",
+      "ko": "저는 그 소리를 들을 때마다 정말 매혹적이라는 생각이 들어요... 아름다움과 폭력이 하나로 결합된 느낌 같달까요."
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "New Message",
+      "zh-TW": "新訊息",
+      "zh-CN": "新消息",
+      "ja": "新着メッセージ",
+      "ko": "새 메시지"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Pulled up nxt to an old shed by the highway to crash for the night. If the wind doesn't go nuts, all I've gotta worry abt r the beasts.",
+      "zh-TW": "今天把車開到公路旁邊的廢舊棚屋邊過夜。如果荒原上的大風沒有吹得很猛烈，就只需要提防那些野獸了。",
+      "zh-CN": "今天把车开到公路边上的废旧棚屋边过夜。如果荒原上的大风没有吹得太厉害，就只需要提防那些野兽了。",
+      "ja": "今日は、車を道路の横にある古い小屋のそばに停めて、一晩過ごしてみたの。荒野の風さえ静かにしてくれたなら、気をつけなくっちゃいけないのは、野獣だけ。",
+      "ko": "오늘은 차를 몰고 도로 옆 낡은 쉼터 근처에서 하룻밤 보내려고 해요. 황무지의 바람이 심하지만 않다면, 밤에 조심할 건 야수들뿐이겠죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Even if they come near me, I'll just light a fire, and they'll bugger off. Hope they've got the sense to recognise it ... or else it won't end well for 'em.",
+      "zh-TW": "把火點起來的話，牠們就不會靠近了。希望牠們認識火光，否則，就要失去性命囉。",
+      "zh-CN": "点起火的话，它们就不会靠近了。希望它们认识火光，否则，就要丢掉性命了呢。",
+      "ja": "火を灯しておけば、みんな近づいてこなくなるわ。もし、この光の意味を知らなかったら……残念だけど、命を落とすことになってしまうかもしれないわね。",
+      "ko": "불을 피워 두면 녀석들이 다가오지 않을 거예요. 하지만 불빛을 알아보지 못하는 불쌍한 녀석들은... 목숨을 잃게 되겠네요."
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "New Message",
+      "zh-TW": "新訊息",
+      "zh-CN": "新消息",
+      "ja": "新着メッセージ",
+      "ko": "새 메시지"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Bumped into Gilberta in the mail depot. She was in a hurry. Wonder what's got her all fired up... Writing to some fella she fancies?",
+      "zh-TW": "在驛站碰到潔爾佩塔，她急匆匆地走出去了，不知道要去做什麼耶……寫信給心上人嗎？",
+      "zh-CN": "在驿站碰到洁尔佩塔，她急匆匆地走出去了，不知道要去做什么呢……给心上人写信吗？",
+      "ja": "駅でギルベルタに会ったの。急いで出ていったみたい……何をしに行ったのかしらね？気になる人に、手紙を届けに行った、とか？",
+      "ko": "휴게소에서 질베르타를 봤어요. 급하게 밖으로 나가던데... 어디로 간 걸까요? 혹시 마음에 두고 있는 누군가에게 편지를 쓰러 갔나..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Ah, youth. Haven't felt the urge to scribble a letter to someone in years...",
+      "zh-TW": "年輕真好。我好久都沒有寫信給別人的衝動了呢……",
+      "zh-CN": "年轻真好。我好久都没有给人写信的冲动了呢……",
+      "ja": "若いって、いいわね。私、誰かに手紙を書きたいなんて……もう長いこと、思ったことないもの。",
+      "ko": "역시 어린 게 좋네요... 누군가에게 편지를 쓰고 싶다는 생각이 든 게 벌써 언제 적 일인지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Aren't you doing that now?",
+      "zh-TW": "你不是正在寫嗎？",
+      "zh-CN": "你不是正在写吗？",
+      "ja": "じゃあ、今書いているこれは……何？",
+      "ko": "지금도 쓰고 계시잖아요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Huh? Endmin?",
+      "zh-TW": "欸？管理員？",
+      "zh-CN": "哎？管理员？",
+      "ja": "あら、管理人？",
+      "ko": "엇? 관리자님?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Thought this was my private journal...",
+      "zh-TW": "我以為我在寫一句話的日記呢。",
+      "zh-CN": "我以为我在写一句话日记呢。",
+      "ja": "私、日記を書いているつもりだったのよ？",
+      "ko": "아, 이런... 저는 그냥 한 줄 일기를 쓰고 있다고 생각했는데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Whoops...",
+      "zh-TW": "哎呀，好像弄錯了哦。",
+      "zh-CN": "啊呀，好像弄错了哦。",
+      "ja": "ふふ、間違えちゃったみたい。",
+      "ko": "제가 잘못 보냈나 봐요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You did that on purpose, didn't you?",
+      "zh-TW": "別騙我……你明明是故意的吧。",
+      "zh-CN": "别骗我……你明明是故意的吧。",
+      "ja": "嘘だ。わざとだって、わかっているよ。",
+      "ko": "장난치지 마요... 일부러 그런 거죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Did I? Maybe. Ur dp's way too easy to tap on tho.",
+      "zh-TW": "我是……故意的嗎？管理員的頭像很容易弄錯呢！",
+      "zh-CN": "我是……故意的吗？管理员的头像很容易弄混呢！",
+      "ja": "私……そんなつもり、なかったの。だって、管理人のアイコン、少し紛らわしくって……",
+      "ko": "음~ 제가요? 관리자님의 프로필이 워낙 헷갈리기 쉬워서 그랬나 보죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Sorry... I was just scribbling bits of my day.",
+      "zh-TW": "很抱歉，我只是在記錄我的日常生活。",
+      "zh-CN": "很抱歉，我只是在记录我的日常生活。",
+      "ja": "ごめんなさい。ただ、毎日の記録をつけていただけ……そう思っていたのよ。",
+      "ko": "죄송해요, 저는 그저 제 일상을 기록할 생각이었어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Or ... maybe u were hoping I sent them on purpose?",
+      "zh-TW": "還是說，你希望是我故意傳錯的？",
+      "zh-CN": "还是说，你希望是我故意发错的？",
+      "ja": "それとも……わざと間違って送ったほうがいいのかしら？",
+      "ko": "아니면, 혹시... 제가 일부러 보냈길 바라셨나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I didn't wish for that...",
+      "zh-TW": "我才沒有許願這種事……",
+      "zh-CN": "我可没有许愿这种事……",
+      "ja": "そんなお願いはしていないよ。",
+      "ko": "바란 적 없거든요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Shame. Coulda made that wish come true for ya.",
+      "zh-TW": "可惜，我可以滿足你的願望哦。",
+      "zh-CN": "可惜，我可以满足你的愿望哦。",
+      "ja": "あら、残念。私、そのお願いなら簡単に叶えることができるのに。",
+      "ko": "아쉽네요, 전 그 소원 들어드릴 수 있는데."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Well, it's good to know more about you.",
+      "zh-TW": "不過，可以瞭解你的生活，也是好事。",
+      "zh-CN": "不过，能了解你的生活，也是好事。",
+      "ja": "でも、君の毎日を知ることができるというのは、悪くないかもね。",
+      "ko": "뭐, 그래도 이렇게 아비웨나 씨의 일상을 알 수 있어서 좋았어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Oh, looks like someone actually cares abt me :P",
+      "zh-TW": "咦？你在關心我嗎？",
+      "zh-CN": "咦？你在关心我吗？",
+      "ja": "本当？私のこと、気にしてくれているの？",
+      "ko": "음? 저한테 관심 가져 주시는 건가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Come to think of it, u prob care for everyone...",
+      "zh-TW": "也對，你本來就會關心每一個人……",
+      "zh-CN": "也是，你本来就会关心每一个人……",
+      "ja": "そうよね、管理人は、もともとみんなに優しい人……なんだものね。",
+      "ko": "하긴, 관리자님은 원래 누구에게나 다정하시니까요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Gotta stand out somehow, or I'll just blend in with everyone else.",
+      "zh-TW": "如果不把自己擠進你的眼睛裡，就很容易和其他人一樣了呢。",
+      "zh-CN": "如果不把自己挤进你的眼睛里来，就很容易和其他人一样了呢。",
+      "ja": "あなたの目の中に入っておかないと、他の人とおんなじになっちゃうわ。",
+      "ko": "이렇게라도 관리자님의 관심을 끌어내지 않으면, 금세 다른 사람들과 똑같아져 버리겠죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "So, wanna hear more?",
+      "zh-TW": "所以，你還想聽聽別的事情嗎？",
+      "zh-CN": "所以，你还想听听别的事情吗？",
+      "ja": "ねえ、他の話も聞いてくれる？",
+      "ko": "그럼 이제, 제 이야기를 들어보고 싶어졌나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Of course. Did you run into any beasts that night?",
+      "zh-TW": "當然，我很好奇，那天，你遇到野獸了嗎？",
+      "zh-CN": "当然，我很好奇，那天，你遇到野兽了吗？",
+      "ja": "うん。「野獣」に出会ったのか、気になっていたんだ。",
+      "ko": "그럼요. 그날의 이야기가 궁금해요. 밤에 야수를 만났나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Ah, that's a story for nxt time.",
+      "zh-TW": "下次再告訴你。",
+      "zh-CN": "下次再告诉你。",
+      "ja": "続きは、今度。",
+      "ko": "그건 다음에 말씀드릴게요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "One secret at a time. I've gotta keep u curious, don't I?",
+      "zh-TW": "一次，只能說一個秘密。",
+      "zh-CN": "一次，只能说出一个秘密。",
+      "ja": "教えられる秘密は、1回に……1つまで、ね？",
+      "ko": "비밀은 한 번에 하나씩. 욕심부리면 안 되니까요~"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0012_avywen_2",
+   "topic": {
+    "en": "The Eternal Traveler",
+    "zh-TW": "永遠旅行的人",
+    "zh-CN": "永远旅行的人",
+    "ja": "永遠の旅人",
+    "ko": "영원한 여행자"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "I'm moving out of Dijiang today.",
+      "zh-TW": "我今天就要從帝江號上搬走啦。",
+      "zh-CN": "我今天就要从帝江号上搬走啦。",
+      "ja": "私、今日で……帝江号からお引越しするの。",
+      "ko": "오늘은 제가 제강호에서 짐을 빼는 날이에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Gonna miss seeing me around, Endmin?",
+      "zh-TW": "看不到我，你會想我嗎，管理員？",
+      "zh-CN": "见不到我，你会想我吗，管理员？",
+      "ja": "もう、私と会えなくなってしまったら……管理人、淋しい？",
+      "ko": "이제 저를 못 보시면... 그리워해 주실 건가요, 관리자님?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Moving out? Where to?",
+      "zh-TW": "搬走？去哪裡？",
+      "zh-CN": "搬走？去哪里？",
+      "ja": "引っ越しって、どこに行くの？",
+      "ko": "짐을 뺀다고요? 어디로 가시는데요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Oi, that was a quick reply!",
+      "zh-TW": "哎呀！今天回覆我的速度很快耶。",
+      "zh-CN": "呀！今天回复我的速度很快呢。",
+      "ja": "あら、今日はずいぶんお返事が早いのね。",
+      "ko": "어머, 오늘은 답장이 엄청 빠르네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "U know how it is. Dorms on Dijiang aren't meant for us operators to settle in foreva.",
+      "zh-TW": "管理員知道的吧，帝江號的宿舍區，不提供你可愛的幹員們長住的哦。",
+      "zh-CN": "管理员知道的吧，帝江号的宿舍区，可不是供你可爱的干员们长住的哦。",
+      "ja": "知っているでしょう？帝江号は、オペレーターが長く住むための場所じゃないってこと。",
+      "ko": "관리자님도 아시잖아요. 제강호 숙소는 우리 귀여운 오퍼레이터들이 오래오래 묵으라고 마련된 곳이 아니니까요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Fancy spots like this r for the big players with bigger jobs.",
+      "zh-TW": "寸土寸金的地方，是留給那些重任在身的幹員的。",
+      "zh-CN": "寸土寸金的地方，是留给那些重任在身的干员的。",
+      "ja": "こんなに貴重な場所なんだもの……とっても大変な任務があるオペレーターのために、空けておかないといけないのよ。",
+      "ko": "땅 한 평도 아쉬운 곳이니, 중요한 임무를 맡은 이들에게 남겨줘야죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Besides, I'm always out and abt dirtside anyway. Makes sense to bunk at a surface office.",
+      "zh-TW": "況且，我們總要在地上跑來跑去，還是到地面的辦事處比較好。",
+      "zh-CN": "况且，我们总要在地上跑来跑去，还是到地面的办事处比较好。",
+      "ja": "それに、私たちは結局地上をあっちこっち移動しないといけないから……やっぱり、地上の後方支援部にいたほうが、都合がいいの。",
+      "ko": "게다가 저희야 늘 지상에서 뛰어다녀야 하니까, 아무래도 지상의 사무소 쪽이 더 편하기도 하고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Ugh, but moving is painful indeed.",
+      "zh-TW": "只是又要搬家了……好煩惱。",
+      "zh-CN": "只是又要搬家了呢……好烦恼。",
+      "ja": "でも、また引っ越しなんて……ちょっと憂鬱。",
+      "ko": "근데 또 이사 가야 한다니... 심란하네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Don't worry tho, I'll swing by for work stuff. Don't go missing me too much, eh?",
+      "zh-TW": "但我還是會常常回來辦事的，別太想我哦。",
+      "zh-CN": "但我还是会常常回来办事的，别太想我呀。",
+      "ja": "しょっちゅう遊びに来るから……あんまり、淋しがらないでね？",
+      "ko": "그래도 자주 업무 보러 돌아올 테니, 너무 슬퍼하지는 마세요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Need a hand with the move?",
+      "zh-TW": "搬家，需要幫手嗎？",
+      "zh-CN": "搬家，需要帮手吗？",
+      "ja": "引っ越し、手伝いはいる？",
+      "ko": "이사하는 거 도와드릴까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Sigh, Endmin...",
+      "zh-TW": "唉，管理員……",
+      "zh-CN": "唉，管理员……",
+      "ja": "ふふ、管理人……",
+      "ko": "하아, 관리자님..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "What u jst said...",
+      "zh-TW": "我都不知道你說這句話……",
+      "zh-CN": "我都不知道你说这句话……",
+      "ja": "その言葉……",
+      "ko": "그 말을 듣고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Not sure if tht makes me wanna smile or cry...",
+      "zh-TW": "到底是讓我開心還是傷心。",
+      "zh-CN": "到底是让我开心还是伤心。",
+      "ja": "嬉しくて、哀しい……なんだか、不思議な気持ち。",
+      "ko": "기뻐해야 할지, 슬퍼해야 할지 모르겠네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "But yeah... I reckon you mean well.",
+      "zh-TW": "但我覺得，你一定是為了關心我吧。",
+      "zh-CN": "但我觉得，你肯定是为了关心我吧。",
+      "ja": "でも、あなたは私を気遣って言ってくれているのよね。",
+      "ko": "그래도 분명 저를 생각하셔서 하신 말씀이겠죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Thanks, mate. Everything's packed already. Didn't have much in that tiny room anyway.",
+      "zh-TW": "麻煩倒是不麻煩，我已經整理好了。反正，帝江號的宿舍裡，能放的東西也不多……",
+      "zh-CN": "麻烦倒不麻烦，我已经整理好了。反正，帝江号的宿舍里，能放的东西也不多……",
+      "ja": "あのね。準備はぜんぜん、大変じゃないの。整理は終わっているし……それに、帝江号の寮って、そんなにたくさん物は置けないでしょう？",
+      "ko": "사실 딱히 힘들 것도 없어요, 짐 정리라면 벌써 다 끝났거든요. 애초에 제강호 숙소에 물건을 많이 두지도 않았고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Gave the stuff I couldn't take to the others.",
+      "zh-TW": "帶不走的，我都送給其他小朋友了。",
+      "zh-CN": "带不走的，我都送给其他小朋友了。",
+      "ja": "持っていけないものは、他の子にあげたのよ。",
+      "ko": "챙겨가지 못하는 건, 다른 아이들에게 나눠주었으니까요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Then what's bugging you?",
+      "zh-TW": "那你的煩惱……是什麼？",
+      "zh-CN": "那你的烦恼……是什么？",
+      "ja": "じゃあ、どうして「憂鬱」なの？",
+      "ko": "그럼, 심란하다는 건 어떤 걸 뜻하는 거죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Hmm... Honestly, even after ten years of bouncing around, never staying put...",
+      "zh-TW": "煩惱……就算在外面居無定所，漂泊了十年，搬了好多次家……",
+      "zh-CN": "烦恼……就算在外面居无定所，漂泊了十年，搬了好多次家……",
+      "ja": "そうね……住む場所もなく、10年も漂い続けて……何回もお引越しをしたけれど……",
+      "ko": "제가 심란한 건... 밖에서 정처 없이 떠돈 지 벌써 십 년이 넘었고, 이사를 수도 없이 다녔는데도..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Still gets me a bit every time I move.",
+      "zh-TW": "但每次離開，都會有一點點難過呢。",
+      "zh-CN": "但每次离开，都会有一点点难过呢。",
+      "ja": "それでもやっぱり、離れるときはちょっとだけ、切ない気持ちになるわ。",
+      "ko": "매번 지내던 곳을 떠날 때마다, 조금은 아쉽고 슬프더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So you move a lot.",
+      "zh-TW": "原來你經常搬家啊。",
+      "zh-CN": "原来你经常搬家啊。",
+      "ja": "そんなに何度も引っ越しをしてきたんだね。",
+      "ko": "그동안 자주 이사를 하셨군요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "More like I chose this way of living.",
+      "zh-TW": "倒不如說是我自己選的這種生活。",
+      "zh-CN": "倒不如说是我自己选的这种生活。",
+      "ja": "ええ。だって、自分で選んだ道だもの。",
+      "ko": "제가 선택한 삶이라고 해야겠죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Wild, eh? Someone from a proper big family ... choosing a wandering life.",
+      "zh-TW": "誰會想到呢？我一個來自於龐大家族的人，竟然會選擇漂泊。",
+      "zh-CN": "谁能想到呢？我一个来自于庞大家族的人，竟然会选择漂泊。",
+      "ja": "あんな大家族に生まれた私が、いろんな場所を漂うような道を選ぶなんて……誰も想像できなかったかもしれないわね。",
+      "ko": "대가족에 있었던 제가, 스스로 이렇게 떠도는 삶을 택할 줄 누가 알았겠어요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Care to knw y?",
+      "zh-TW": "想知道原因嗎？",
+      "zh-CN": "想知道原因吗？",
+      "ja": "理由、知りたい？",
+      "ko": "그 이유를 알고 싶으신가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Do I have to wait until next time to hear everything again?",
+      "zh-TW": "你每次都說，等到下次再告訴我。",
+      "zh-CN": "你总是说，等到下次再告诉我。",
+      "ja": "君はいつも、「続きは今度」って。",
+      "ko": "또 다음에 말해주겠다고 하는 건 아니겠죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Nah. I'll cut ya a break this time.",
+      "zh-TW": "哦？這次就獎勵你一下吧。",
+      "zh-CN": "哦？这次就奖励你一下吧。",
+      "ja": "もう……じゃあ、今日は特別、大サービス。",
+      "ko": "음~ 이번엔 특별히 알려드릴게요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Leaving ... it's like a habit. Once u start, it sticks. You get used to life on the move.",
+      "zh-TW": "「離開」這個動作是有慣性的——只有零次和無數次。漸漸地，你就開始習慣了在路上的日子。",
+      "zh-CN": "“离开”这个动作是有惯性的——只有零次和无数次。渐渐地，你就开始习惯了在路上的日子。",
+      "ja": "「離れる」ことにはね、「慣性」があるの。一度離れてしまったら、止まらない……だんだん、道の上で過ごす日々が当たり前になってしまう。",
+      "ko": "'떠나는' 행위에는 관성이 있어서, 거처를 한 번도 안 옮기거나, 셀 수 없이 많이 옮기거나 둘 중 하나더라고요. 그렇게 반복되는 과정 속에서 점차 떠도는 삶에 익숙해지는 거죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "But if u're gonna be forever travelling, there's one thing you gotta remember...",
+      "zh-TW": "但永遠旅行的人，有一個要領……",
+      "zh-CN": "但永远旅行的人，有一个要领……",
+      "ja": "でも、永遠に旅を続けるのなら……すっごく大切なことがあるのよ。",
+      "ko": "하지만 영원한 여행자에게 반드시 필요한 게 하나 있어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Find urself a home. Even if it's temp. Even if u're hardly ever there.",
+      "zh-TW": "就是記得為自己找到一個家，哪怕是臨時的，哪怕很少有機會可以回去——",
+      "zh-CN": "就是记得给自己找到一个家，哪怕是临时的，哪怕很少有机会能回去——",
+      "ja": "必ず自分の「家」を見つけること。仮のお家でも、めったに帰れないお家でもいい。",
+      "ko": "바로 자기만의 '집'을 찾는 거예요. 비록 임시일지라도, 자주 돌아갈 수 없더라도..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Ppl who respect the idea of \"home\" won't ever lose their way.",
+      "zh-TW": "認真對待家的人，是不會迷失方向的哦。",
+      "zh-CN": "认真对待家的人，是不会迷失方向的哦。",
+      "ja": "「家」を大切にしている人は……道に迷わないですむの。",
+      "ko": "집을 소중히 여기는 사람은, 절대로 여행 중에 길을 잃지 않거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Endmin, where do you consider home?",
+      "zh-TW": "管理員，你的家在哪裡？",
+      "zh-CN": "管理员，你的家在哪里？",
+      "ja": "管理人の「家」はどこかしらね？",
+      "ko": "관리자님, 관리자님의 집은 어디인가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Maybe it's...",
+      "zh-TW": "也許就在……",
+      "zh-CN": "也许就在……",
+      "ja": "もしかして、それって……",
+      "ko": "아마..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Shhh, save it. Tell me nxt time.",
+      "zh-TW": "噓，先別告訴我，留到下一次吧。",
+      "zh-CN": "嘘，先别告诉我，留到下一次吧。",
+      "ja": "しーっ、まだ言っちゃだめ。それはまた、今度ね。",
+      "ko": "쉿, 지금은 알려주지 말아요. 그 답은 다음에 들을래요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Gotta save sth to tlk abt later, don't we?",
+      "zh-TW": "沒有想要說的話，就沒有下一封信了，對不對？",
+      "zh-CN": "没有想要说的话，就没有下一封信了，是不是？",
+      "ja": "だって、お話したいことがなかったら、次の手紙はこない……でしょう？",
+      "ko": "전하고 싶은 말이 없으면, 다음 편지도 없을 테니까... 그렇죠?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0012_avywen_3",
+   "topic": {
+    "en": "Lying Low",
+    "zh-TW": "暫避風頭",
+    "zh-CN": "暂避风头",
+    "ja": "嵐を避ける",
+    "ko": "몸을 숨기는 이유"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Avywenna?",
+      "zh-TW": "艾維文娜？",
+      "zh-CN": "艾维文娜？",
+      "ja": "アイビーエナ？",
+      "ko": "아비웨나 씨?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Are you getting my message?",
+      "zh-TW": "有收到訊息嗎？",
+      "zh-CN": "收到消息了吗？",
+      "ja": "メッセージは届いてるかな。",
+      "ko": "메시지 받으셨나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Oops, hey Endmin. Sorry abt tht.",
+      "zh-TW": "哎呀，管理員，不好意思。",
+      "zh-CN": "啊呀，管理员，不好意思。",
+      "ja": "あら、管理人。ごめんなさい。",
+      "ko": "어머, 관리자님, 죄송해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Been a bit flat out lately.",
+      "zh-TW": "最近有一點忙呢。",
+      "zh-CN": "最近有一点忙呢。",
+      "ja": "最近、ちょっと忙しかったの。",
+      "ko": "요즘 조금 바빠서요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Hope I didn't make ya feel neglected :p",
+      "zh-TW": "抱歉啦，怠慢你了嗎？",
+      "zh-CN": "抱歉啦，怠慢你了吗？",
+      "ja": "でも、淋しかったわよね……反省。",
+      "ko": "제 답장이 많이 늦었나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Didn't forget ur souvenir tho. Even I knw u've already been there.",
+      "zh-TW": "我沒有忘記幫你帶小禮物哦。雖然，我知道你去過那個地方了。",
+      "zh-CN": "我没有忘记给你带小礼物哦。虽然，我知道那个地方你去过了。",
+      "ja": "管理人へのお土産は、もちろん忘れずに用意しているのよ。行ったことがある場所だって、知っているけれどね。",
+      "ko": "그래도 관리자님 드릴 선물은 잊지 않았어요~ 관리자님도 이미 가보신 곳이지만요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Wasn't so easy to find u a surprise, y'know? Soooo, plz don't be mad for replying late, alright?",
+      "zh-TW": "要幫你準備驚喜還真不容易，看在這個分上，原諒我吧。",
+      "zh-CN": "要给你准备惊喜可不容易，看在这个分上，原谅我吧。",
+      "ja": "サプライズって、とっても難しいの。一生懸命頑張ったから、許してくれる？",
+      "ko": "관리자님을 한 번 놀라게 해드리기가 참 어렵네요. 제 노력을 봐서라도 용서해 주실 거죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "R u upset? How come u're not replying T_T",
+      "zh-TW": "不高興了嗎？怎麼不回我？",
+      "zh-CN": "不高兴了吗？怎么不回我？",
+      "ja": "もしかして、怒らせちゃったかしら……どうしてお返事をくれないの？",
+      "ko": "화나신 거 아니죠? 왜 답장을 안 해주세요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "If you're in some kind of trouble ... you can always ask us for help.",
+      "zh-TW": "如果遇到了什麼麻煩，可以向我們求助。",
+      "zh-CN": "如果遇到了什么麻烦，可以向我们求助。",
+      "ja": "もし、大変で困るようなことがあるなら、手伝うよ。",
+      "ko": "만약 어려운 문제가 생기면, 언제든지 저희한테 얘기하세요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Aww, sounding all official now, r we?",
+      "zh-TW": "像模像樣的呢，管理員。",
+      "zh-CN": "像模像样的呢，管理员。",
+      "ja": "あら……管理人、素敵ね。",
+      "ko": "제법 '관리자'다운 표현이네요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Pretty sure u're just worried about me.",
+      "zh-TW": "明明心裡很擔心我吧。",
+      "zh-CN": "明明心里很担心我才是。",
+      "ja": "本当は、私のことが心配だって、わかってるのよ？",
+      "ko": "사실 속으론 많이 걱정되면서..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Don't worry, I can handle myself. U focus on the big stuff!",
+      "zh-TW": "放心，我能應付。你去忙那些更厲害的事就好。",
+      "zh-CN": "放心，我能应付。你去忙那些更厉害的事就好。",
+      "ja": "私は大丈夫。安心してね。それに、管理人にはもっと大変なことがたくさんあるってことも、わかってるんだから。",
+      "ko": "걱정하지 마세요, 저 혼자서 해결할 수 있어요. 관리자님은 더 중요한 일을 하셔야죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What about you? What have you been up to?",
+      "zh-TW": "你呢，去忙什麼了？",
+      "zh-CN": "你呢，去忙什么了？",
+      "ja": "君は、何をしていたの？",
+      "ko": "그럼 아비웨나 씨는, 무슨 일 때문에 바쁘셨던 거예요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Me? Sometimes I gotta lay low from certain ppl.",
+      "zh-TW": "我……有時候會需要躲避一些人哦。",
+      "zh-CN": "我……有时候会需要躲避一些人哦。",
+      "ja": "私？そうね、ときどき、身を隠さなくっちゃいけないときがあって……",
+      "ko": "저는... 어떤 사람들의 눈을 피해 몸을 숨겨야 할 때가 종종 있거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Someone like me's got no shortage of friends or enemies.",
+      "zh-TW": "像我這樣的人，敵人和朋友都不少。",
+      "zh-CN": "像我这样的人，敌人和朋友都不少。",
+      "ja": "私みたいな人って、味方も、敵も……多いのよ？",
+      "ko": "저 같은 사람은, 적도 많고 친구도 많으니까요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What kind of \"glorious deeds\" have you even done?",
+      "zh-TW": "你都有什麼「光榮事蹟」？",
+      "zh-CN": "你都有什么“光荣事迹”？",
+      "ja": "どんな「栄光の経歴」があるのかな。",
+      "ko": "지금까지 어떤 '무용담'들이 있었나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Oh, we swapping past stories now, eh? Or u wanna hear a bedtime tale? Either way ... tht's getting pretty cozy, Endmin.",
+      "zh-TW": "交換過去？還是說，睡前故事？不管怎樣，都是很親密的行為呢。",
+      "zh-CN": "交换过去？还是说，睡前故事？不管怎样，都是好亲密的行为呢。",
+      "ja": "あら、それは、思い出の交換？それとも、寝る前のお話？すっごく親しくないと、しないことよね。",
+      "ko": "흠흠, 서로의 과거를 공유하자는 건가요? 아니면 자기 전에 들려주는 동화 같은 건가요? 어느 쪽이든 아주 친밀한 행동인걸요~"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "How abt this: I once swiped a file that was supposed to be destroyed. Right under the noses of 200 security blokes across 36 floors.",
+      "zh-TW": "在三十六層樓裡兩百個保全人員的眼皮底下，偷走了一份原本應該被銷毀的文件……",
+      "zh-CN": "在三十六层楼里两百个安保人员的眼皮底下，偷走了一份原本应该被销毁的文件……",
+      "ja": "そうね。36階建てのビルで、200人の警備員を前に、処分されるはずのファイルを盗み取ったこと……",
+      "ko": "무용담이라... 36층 건물 안에서 보안 직원 200명의 눈을 피해, 원래 폐기될 예정이던 문서를 훔쳐냈고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Jumped out a window and walked away without a scratch. Caused a right mess in the industry... U like my story?",
+      "zh-TW": "從窗戶跳出去之後毫髮無損，最後引發了行業地震算不算呢？",
+      "zh-CN": "从窗户跳出去之后毫发无损，最后引发了行业地震算不算呢？",
+      "ja": "窓から飛び出しても、私、無傷だったの。「業界」のみんなが、すっごく驚いたみたい……",
+      "ko": "창문으로 뛰어내리고도 상처 하나 없어, 결국 업계 전체를 흔들어버린 이야기?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Or if tht's too cliché... I can share more.",
+      "zh-TW": "如果這只是一個俗套又日常的故事的話……",
+      "zh-CN": "如果这只是一个俗套又日常的故事的话……",
+      "ja": "これは、普通のお話かしら？",
+      "ko": "이 이야기가 지루하고 뻔하다면..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "I once delivered a heart, in perfect condition, from the peak of Kjersch to the depths of Alloycarrot in 3 days. Saved a Cautus miner's life.",
+      "zh-TW": "三天之內，從耶爾什的最高峰，把一顆心臟完好無損地運送到合金蘿蔔城的最深處，救活了一個卡特斯礦工。",
+      "zh-CN": "三天之内，从耶尔什的最高峰，把一颗心脏完好无损地运送到合金萝卜城的最深处，救活了一个卡特斯矿工。",
+      "ja": "じゃあ……イェルシェの最高峰から、心臓を1つ。3日間でメタルキャロットシティの奥まで運んで、コータスの坑夫を救ったこと……",
+      "ko": "사흘 만에 옐시 최고봉에서 합금 무성의 가장 깊은 곳까지, 한 개의 심장을 온전히 운송해, 카우투스 광부의 목숨을 살려낸 이야기는요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "2 months later, tht same miner ended the longest win streak in Asphalt Roundabout's underground fight ring. He made every bettor lose a fortune... U like this story better?",
+      "zh-TW": "兩個月後，他終結了艾什柏環島地下拳莊冠軍最長的連勝紀錄，讓所有下注人狠狠地虧了一大筆錢……這樣呢？",
+      "zh-CN": "两个月后，他终结了艾什柏环岛地下拳庄冠军最长的连胜记录，让所有下注人狠狠地亏了一大笔钱……这样呢？",
+      "ja": "そうしたらね、彼……2カ月後にアスファルトロータリーの地下闘技場チャンピオンの最長連勝記録を止めて、賭けをしていた人たちを大損させちゃったの。これはどうかしら？",
+      "ko": "그 후 두 달 뒤, 그 광부는 아스팔트 라운드어바웃의 지하 격투장에서 당시 챔피언의 최장 연승 기록을 깨고, 모든 도박꾼들에게 막대한 손해를 안겨주게 되죠... 이런 건 어떤가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Oh, I got one more for ya!",
+      "zh-TW": "還是說……",
+      "zh-CN": "还是说……",
+      "ja": "それとも……",
+      "ko": "이것도 아니면..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Right before a live-broadcast medal ceremony in Morospolis...",
+      "zh-TW": "在瑪爾斯波利斯那個全工團直播的授勛儀式開始前一秒——",
+      "zh-CN": "在玛尔斯波利斯那个全工团直播的授勋仪式开始前一秒——",
+      "ja": "モロスポリスで、全工業団にライブ配信していた授勲式が始まる1秒前。",
+      "ko": "마르스폴리스에서 전 공단에 생중계되던 훈장 수여식이 시작되기 1초 전에..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "I slipped the stolen UWST flag back into their minister's hands ... right before some clueless Sarkaz mercs could chuck it into a volcano.",
+      "zh-TW": "把工團一週前失竊的旗幟塞到他們部長手中，讓它免於被一群不明真相的薩卡茲傭兵丟進火山口裡……",
+      "zh-CN": "把工团一周前失窃的旗帜塞到他们部长手中，让它免于被一群不明真相的萨卡兹佣兵扔进火山口里……",
+      "ja": "1週間前に盗まれて失くしちゃった旗を団長の手に戻して、何も知らないサルカズ傭兵たちが火口に投げ込むのを防いだこと……",
+      "ko": "공단에서 일주일 전에 도난당했던 깃발을, 그들의 장관 손에 돌려줘서, 상황을 알지 못하는 살카즈 용병들이 그걸 화산 속에 던져버리는 걸 막아낸 이야기라면, 설득력이 있을까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Now I get why you're laying low.",
+      "zh-TW": "我現在知道你為什麼要躲起來了。",
+      "zh-CN": "我现在知道你为什么要躲起来了。",
+      "ja": "なるほど。君が身を隠す理由がわかったよ。",
+      "ko": "그래서 숨어 지내신 거군요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Knw u'd miss me, Endmin.",
+      "zh-TW": "就知道你會想我啦，管理員。",
+      "zh-CN": "就知道你会想我啦，管理员。",
+      "ja": "ふふ、やっぱり私を心配してくれているのね、管理人。",
+      "ko": "으흠~ 역시, 제가 보고 싶다는 말이죠, 관리자님?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Alright, I hear footsteps. Gotta ditch the comms!",
+      "zh-TW": "好啦，我聽到他們的腳步聲了。不能再用通訊終端囉！",
+      "zh-CN": "好啦，我听到他们的脚步声了。不能再用通信终端咯！",
+      "ja": "あら……足音が聞こえてきたわ。もう通信端末は使えないわね。",
+      "ko": "아, 또 그들의 발소리가 들려오기 시작하네요. 더 이상 통신 단말기를 쓰면 안 되겠어요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Next time I'm back on Dijiang, I'll tell ya another story.",
+      "zh-TW": "等我下次回到帝江號，再跟你講新故事。",
+      "zh-CN": "等我下次回到帝江号，再给你讲新故事。",
+      "ja": "じゃあ、また今度帝江号に戻ったとき、新しいお話を聞かせてあげるわね。",
+      "ko": "다음에 제가 제강호로 돌아가면, 또 새로운 이야기를 들려드릴게요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Avywenna",
+      "zh-TW": "艾維文娜",
+      "zh-CN": "艾维文娜",
+      "ja": "アイビーエナ",
+      "ko": "아비웨나"
+     },
+     "text": {
+      "en": "Stay cute, alright?",
+      "zh-TW": "要一直這麼可愛哦。",
+      "zh-CN": "要一直这么可爱哦。",
+      "ja": "ずーっと、かわいい管理人のままでいてね。",
+      "ko": "그러니까, 그때까지 이렇게 귀여운 모습으로 기다리고 있어야 해요~"
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 0
+}

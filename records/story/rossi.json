@@ -1,0 +1,3281 @@
+{
+ "slug": "rossi",
+ "gameId": "chr_0028_wulfa",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Rossi\nGENDER: Female\nAUTHENTICATION: The Pack\nDOB: March 10\nRACE: Lupo\n[ORIPATHY INFECTION STATUS]\nOripathy positive (infected), based on medical examination reports.\n\n[INTEGRATED PHYSICAL EXAMINATION]\nPHYSIOLOGICAL STRENGTH: Standard\nCOMBAT SKILL: Standard\nTACTICAL ACUMEN: Excellent\nORIGINIUM ARTS ASSIMILATION: Excellent",
+    "zh-TW": "【代號】洛西\n【性別】女\n【身分認證】狼群氏族\n【生日】3月10日\n【種族】魯珀\n【礦石病感染情況】\n參照醫學檢測報告，確認為感染者。\n\n【綜合體檢測試】\n生理強度：標準\n作戰技巧：標準\n戰術規劃：優良\n源石技藝適應性：優良",
+    "zh-CN": "【代号】洛茜\n【性别】女\n【身份认证】狼群氏族\n【生日】3月10日\n【种族】鲁珀\n【矿石病感染情况】\n参照医学检测报告，确认为感染者。\n\n【综合体检测试】\n生理强度：标准\n作战技巧：标准\n战术规划：优良\n源石技艺适应性：优良",
+    "ja": "【コードネーム】ロッシ\n【性別】女\n【身分証明】狼群\n【誕生日】3月10日\n【種族】ループス\n【鉱石病感染状況】\nメディカルチェックの結果、感染者に認定。\n\n【能力測定】\n物理強度：標準\n戦闘技術：標準\n戦術立案：優秀\nアーツ適性：優秀",
+    "ko": "[코드네임] 로시\n[성별] 여\n[신분 인증] 울프팀\n[생일] 3월 10일\n[종족] 루포\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 표준\n전술 계획: 우수\n오리지늄 아츠 적응성: 우수"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Rossi, full name Rossina Wulfperl Luppino, is a member of a Landbreaker clan known as the Pack. As one of the clan's representatives, she has entered a cooperative partnership with Endfield Industries. Rossi now serves under the Specialist Tech Division.\n\nGiven the unique status of Operator Wulfgard, all collaborative affairs between Endfield Industries and the Pack are effectively focused upon Operator Rossi.\nRossi is not a permanent resident aboard Dijiang. She spends most of her time with the Pack and handling clan affairs. However, locating her is far less challenging than finding Wulfgard. She is also quite receptive to participating in some of Endfield Industries' training programs. Evaluations from Lil' Dodge states: \"Exceptionally high tactical acumen. Possesses considerable leadership charisma and battlefield command talent.\"\nOperator Rossi aligns more closely with public perception of what a member of the Pack should be: devoted to the family, conforms to the code, and respectful of their elders. On her very first day aboard Dijiang, she paid visits to nearly every department head as well as operators of considerable renown. Her well-mannered and conscientious demeanor left a strong impression on many.\nHowever, if you were to face her in combat, you shall witness an entirely different side of Rossi: razor-sharp and utterly ruthless.\n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員洛西，全名洛西娜·狼珀·盧皮諾，裂地者狼群氏族成員，作為狼群代表之一與終末地工業達成合作關係。隸屬於特種技術部門。\n\n由於幹員狼衛的身分特殊性，終末地與狼群氏族的合作事務實際上都圍繞著洛西幹員開展。\n洛西並不常駐於帝江號，更多的時間會留在狼群處理氏族事務，但找到她不會像找到狼衛一樣困難。她也樂於接受終末地的一些訓練計劃。小道奇對她的評價：戰術素養極高，具有相當不錯的領袖魅力和戰場指揮才能。\n洛西幹員更像是大眾眼中狼群氏族該有的樣子，重視族人，遵守規則，尊重長輩。洛西幹員來到帝江號的第一天，就拜訪了幾乎所有部門的負責人，以及極具聲望的幹員。她乖巧懂事的一面讓很多人留下了深刻的印象。\n但在面對敵人時，你又會看到她銳利、兇狠的一面。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员洛茜，全名洛茜娜·狼珀·卢皮诺，裂地者狼群氏族成员，作为狼群代表之一与终末地工业达成合作关系。隶属于特种技术部门。\n\n由于干员狼卫的身份特殊性，终末地与狼群氏族的合作事务实际上都围绕着洛茜干员开展。\n洛茜并不常驻于帝江号，更多的时间会留在狼群处理氏族事务，但找到她不会像找到狼卫一样困难。她也乐于接受终末地的一些训练计划。小道奇对她的评价：战术素养极高，具有相当的领袖魅力和战场指挥才能。\n洛茜干员更像是大众眼中狼群氏族该有的样子，重视族人，遵守规则，尊重长辈。洛茜干员来到帝江号的第一天，就拜访了几乎所有部门的负责人，以及极具声望的干员。她乖巧懂事的一面给很多人留下了深刻的印象。\n但在面对敌人时，你又会看到她锐利、凶狠的一面。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "ロッシ、フルネームは「ロッシーナ・ウルフパール・ルピーノ」。ランドブレーカー「狼群」の一員で、「狼群」を代表してエンドフィールドと協力関係を締結。現在、特殊技術部に所属している。\n\n「ウルフガードさんの特殊な立場を踏まえ、エンドフィールドと狼群の協力にかかわる案件は、実質的にロッシさんを中心に進められています。」\n「ロッシさんは帝江号に長期滞在することはなく、ほとんどの時間を狼群の事務処理にあてています。とはいえ、ウルフガードさんほど所在をつかみにくいわけではありませんし、エンドフィールドの訓練計画にも進んで参加しています。ダッジさんの評価によれば、彼女は戦術的素養が非常に高く、リーダーとしてのカリスマ性と戦場における指揮の才能を兼ね備えているとのことです。」\n「仲間を重んじ、掟を守り、年長者を敬う――ロッシさんの振る舞いは、皆が思い描く『狼群』のメンバー像と重なるものです。帝江号に到着した初日には、ほぼすべての部門の担当者や、影響力の強いオペレーターに一通り挨拶を済ませていました。その礼儀正しさが深く印象に残っている人も多いでしょう。」\n「一方で、敵と相対する場面では、鋭く獰猛な彼女の一面も見られます。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 로시, 본명 로시나 울프펄 루피노. 랜드브레이커 울프팀의 일원이며 울프팀 대표 중 한 명으로서 엔드필드 공업과 협력 관계를 맺고 있다. 지금 특수 기술부 소속이다.\n\n오퍼레이터 울프가드의 특수한 신분 때문에, 엔드필드와 울프팀 집단 간의 협력 업무는 사실상 오퍼레이터 로시를 중심으로 진행된다.\n로시는 제강호에 상주하지 않고, 대부분의 시간은 울프팀에 머물며 집단 관련 사무를 처리하지만, 그녀를 찾는 일은 울프가드를 찾는 것만큼 어렵지는 않다. 또한 그녀는 엔드필드에서 진행하는 여러 훈련 계획에도 기꺼이 참여하는데, 도치는 로시를 전술적 소양이 매우 높고, 상당한 리더십과 전장 지휘 능력을 갖춘 인물로 평가한다.\n오퍼레이터 로시는 대중이 생각하는 울프팀의 전형적인 모습에 가까우며, 동족을 아끼고 규율을 중시하며, 연장자를 존중한다. 오퍼레이터 로시는 제강호에 온 첫날, 거의 모든 부서의 책임자들과 명성이 높은 오퍼레이터들을 빠짐없이 찾아가 인사를 드렸다. 그녀의 싹싹하고 사려 깊은 모습은 많은 이들에게 깊은 인상을 남겼다.\n하지만 적과 마주하는 순간, 사람들은 그녀의 날카롭고 사나운 또 다른 면모를 보게 될 것이다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Rossi's Observation Notes\nNonno Rozzan\nNonno Rozzan is always so quiet when he walks. Davvero strano ... he's so tall, yet his footsteps are as light as if he were walking on a thick carpet. I've almost never seen him slip up. No matter where I hide, he always finds me.\nEvery time I watch Nonno Rozzan handle his gun, it feels like time just ... si ferma. Even the sound of breathing disappears. I don't know how long it lasts before he finally lowers it. I've never actually seen him pull the trigger. He just wipes the barrel down with a cloth, puts it back in its case, and that's the end of training. I've tried to imitate him a few times, but ... I can't hold the stance for nearly as long as he does.\n...\nCatello\nCatello's always in a hurry. Seriously, what's he so busy with? As for his training methods ... annoyingly simple. Mind-numbingly boring strength drills mixed with a few sets of dynamic target practice, or just straight to live combat exercises... Così noioso. Absolutely nothing worth learning from. Skipping this!\n...\nSorella Arclight\nSorella Arclight can move across steep cliff faces so quickly. Is it just a matter of pure speed? I asked her, and she said it requires some Arts... She also meditates during her training. She says it helps her clear her mind of distractions. Ugh... Staying completely still for that long is way too hard for me.\n...\nEndministrator\nThe Endmin always adjusts to the pace of other teammates so everyone can keep up. Totally different from Catello! And the Endmin's training is mostly about manipulating Originium and turning the rocks into razor sharp weapons. How can anyone do that? Something only the Endmin can do, I guess. No point trying to learn it...",
+    "zh-TW": "《洛西的觀察筆記》\n羅贊爺爺\n羅贊爺爺走路時總是沒有聲音，真是奇怪，他明明有著那麼高的身高，腳步聲卻像踩在毛絨地毯上一樣細微，在他身上幾乎從來都看不到破綻。無論我藏在哪裡，都會被他發現。\n每次看到羅贊爺爺用銃時，都會感覺時間像凝固了一樣，連呼吸聲都聽不見了。不知道過了多久，他才會緩緩放下銃。我從沒看到過他開槍，他用紙擦拭完銃身，將其收回盒子裡，訓練就結束了。我試著模仿過幾次，但……沒辦法像他那樣堅持那麼久。\n…………\n卡特洛\n卡特洛總是腳步匆匆，真不知道他都在忙些什麼。他的訓練方式倒是很簡單，枯燥無味的力量訓練穿插幾組動態射擊訓練，要嘛就是實戰演習……真無趣，完全找不到什麼參考價值，略過！\n…………\n弧光姐姐\n弧光姐姐能夠很快地在陡峭的石壁上移動。是不是只要速度夠快就能辦到呢？我問了弧光姐姐，她說需要藉助一些法術……弧光姐姐訓練時還會冥想，她說那會讓她放空腦中的雜念。嗚……一動不動那麼久太困難了。\n…………\n管理員\n管理員總是會照顧別人的步伐，關心對方有沒有跟上自己，跟卡特洛完全不一樣！管理員的訓練基本上都和操縱源石有關，那些源石在管理員手中會化身為銳利的武器。究竟是用了什麼方法呢？這一定是只有管理員才能做到的事，想學也沒有辦法……",
+    "zh-CN": "《洛茜的观察笔记》\n罗赞爷爷\n罗赞爷爷走路时总是没有声音，真是奇怪，他明明有着那么高的个头，脚步声却像踩在毛绒地毯上般细微，在他身上几乎从来都看不到破绽。无论我藏在哪里，都会被他发现。\n每次看到罗赞爷爷用铳时，都会感觉时间像凝固了一样，连呼吸声都听不见了。不知道过了多久，他才会缓缓放下铳。我从没看到过他开枪，他用纸擦拭完铳身，将其收回盒子里，训练就结束了。我试着模仿过几次，但……没法像他那样坚持那么久。\n…………\n卡特洛\n卡特洛总是脚步匆匆，真不知道他都在忙些什么。他的训练方式倒是很简单，枯燥无味的力量训练穿插几组动态射击训练，要么就是实战演习……真没意思，完全找不到什么参考价值，略过！\n…………\n弧光姐姐\n弧光姐姐能够很快地在陡峭的石壁上移动。是不是只要速度够快就能办到呢？我问了弧光姐姐，她说需要借助一些法术……弧光姐姐训练时还会冥想，她说那会让她放空脑中的杂念。呜……一动不动那么久太困难了。\n…………\n管理员\n管理员总是会照顾别人的步伐，关心对方有没有跟上自己，和卡特洛完全不一样！管理员的训练基本都和操纵源石有关，那些源石在管理员手中会化身为锐利的武器。究竟是用了什么方法呢？这肯定是只有管理员才能做到的事，想学也没有办法……",
+    "ja": "『ロッシの観察ノート』\nロザンじい\nロザンじいは、歩くときに全然足音がしない……ほんっと不思議。あんなに背が高いのに、地面にもふもふのカーペットが敷いてあるみたいな……全然隙がない。隠れたってすぐに見つかっちゃう。\nロザンじいが銃を構えた瞬間、時間が止まったみたいに空気が変わるし、息の音もしない。どれくらい経ったかもわからないうちに……いつも同じで、ゆっくり銃を下ろす。撃つとこは、1回も見たことない。銃をしっかり拭いて、箱にしまったら訓練終わり。真似しようって思っても、ロザンじいみたいに……あんなに続けられないんだから。\n…………\nキャトロ\nキャトロって、いつも早足であちこちウロウロしてるけど、なんであんなに忙しそうにしてるんだろ？全然わかんない。訓練でやってることは割と単純で、つまんない筋トレに動的射撃訓練を数セットやるか、実戦演習をちょこっと……本当にくだらないっていうか、参考価値なし！というわけで――以下略！\n…………\nアークライト姉さん\nアークライト姉さんは険しい石壁でもすばやく移動できる。移動のスピードさえ十分だったら、できるのかな？でも、アークライト姉さんに聞いてみたら、アーツの力が必要みたい……アークライト姉さんは訓練のとき、いつも瞑想もしてるんだって。そうすると、頭の中にある雑念がスッキリするからって。うう……ずっとじっとしてるのって、難しい！\n…………\n管理人\n管理人はいつも、みんながちゃんとついてきてるかって周りに気を配ってて――キャトロとぜんっぜん違うんだから！管理人の基本の訓練内容は、源石を操ること。管理人の手にかかると、源石が鋭い武器になる。どんな方法を使ってるんだろう……？管理人にしかできないことなんだろうな。勉強する方法、ないのかな……",
+    "ko": "<로시의 관찰 노트>\n로잔 할아버지\n로잔 할아버지는 걸을 때 소리가 전혀 나지 않는다. 정말 신기하다. 키가 그렇게 큰데도 발소리가 마치 부드러운 양탄자 위를 걷는 것처럼 미세해서, 그에게서는 빈틈을 거의 찾아볼 수 없다. 내가 어디에 숨든 결국엔 그에게 들키고 만다.\n로잔 할아버지가 총을 잡는 모습을 볼 때마다 시간이 멈춘 것만 같아, 숨소리조차 들리지 않게 된다. 얼마나 시간이 흘렀는지도 모를 쯤이 되어서야 그는 비로소 천천히 총을 내린다. 난 할아버지가 방아쇠를 당기는 걸 본 적이 없다. 종이로 총신을 닦아 다시 상자에 넣는데, 그러면 훈련이 끝난다. 나도 몇 번 따라 해 봤지만... 할아버지처럼 오래 버티는 건 도저히 무리였다.\n......\n카텔로\n카텔로는 항상 발걸음이 급하다. 도대체 뭘 그렇게 바쁘게 다니는지 모르겠다. 그의 훈련 방식은 아주 단순하다. 지루하기 짝이 없는 근력 훈련 사이에 동적 사격 훈련을 몇 세트 섞거나, 실전 모의 훈련을 하는 게 전부다... 재미도 없고 참고할 가치도 없으니 패스!\n......\n아크라이트 언니\n아크라이트 언니는 가파른 암벽 위에서도 아주 빠르게 이동한다. 속도만 빠르면 되는 걸까? 그래서 아크라이트 언니에게 물어보니, 몇 가지 아츠의 도움을 받아야 한다고 했다... 언니는 훈련할 때 명상도 하는데, 그러면 머릿속 잡념을 비울 수 있다고 한다. 으... 그렇게 오랫동안 꼼짝도 안 하는 건 너무 어렵다.\n......\n관리자님\n관리자님은 항상 다른 사람에게 보조를 맞춰 주고, 잘 따라오고 있는지 신경 써 준다. 카텔로랑은 완전히 딴판이다! 관리자님의 훈련은 기본적으로 오리지늄 제어와 관련이 있는데, 오리지늄은 관리자님의 손에서 날카로운 무기로 변한다. 도대체 어떤 원리일까? 이건 분명 관리자님만 할 수 있는 거라, 배우고 싶어도 방법이 없다..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "Coming of Age? Within the Pack, everyone's rite of passage is different. For some, it's completing a solo hunt. For others, it's closing a complex business deal.\nThe Pack doesn't seem worried about these youngsters messing up. They boldly assign critical matters as trials to the young wolves, a practice that would seem utterly insane to anyone outside the Pack.\nAs for Rossina... Hunts and business deals? She'd already pulled those off at an even younger age. To her, they were just routine.\nSo the Pack arranged a special trial for her.\nThey left Rossina in a deserted village, with only five luckless bandits for company. Those outlaws were desperate men, each already eyeing whatever meager means of survival the others had left, just waiting for a chance to stab each other in the back.\nThe five of them kept each other in check, none daring to make the first move. But ... if that delicate balance was broken...\nRossina's first task was simply to survive the bandits. That wasn't enough on its own. Beast attacks were also frequent there. Sometimes a lone predator, sometimes an entire group.\nThe Elder Wolves dropped her off and left without a second thought. They seemed unconcerned whether she could survive in such an environment.\nWhen they returned to the village two weeks later, the sight that greeted them left them stunned.\nA fence had been erected around the village. The five bandits and Rossina were taking shifts on watch, vigilant against beast attacks. On days without raids, some of the five would go out hunting, others would gather fresh water. They had actually shaped into a proper, functioning team.\nThose men once constantly viewed each other with suspicion. No one knows how Rossina got them to follow her lead. In her own words, she just \"made them understand the only way to survive.\"\nIt's also worth mentioning that Catello went through the same trial. Well... He spent a few days killing all the nearby beasts, left enough food behind, then slipped away without anyone noticing. He only returned at the end of the trial.\n— Interview Transcript with Pack associate, Marco Wulfhowl Luppino",
+    "zh-TW": "成年禮？狼群之中，每個人的成年禮內容都不太一樣，有的人是獨自完成一場狩獵，有的人是搞定一場複雜的生意。\n狼群似乎不擔心這些年輕人把事情搞砸，他們會大膽地把那些重要事務作為試煉內容交給年輕的小狼，這在氏族之外的人看來簡直是瘋了。\n至於洛西娜……狩獵和生意這些事情她在更小的時候就完成過，對她而言，這些事情只是家常便飯。\n狼群為她安排了一場特殊的試煉。\n他們把洛西娜丟在了一個荒廢的村落，村落裡只有五個倒楣的盜匪。那些盜匪都是些亡命之徒，他們早就盯上了彼此手中僅剩的保命傢伙，說不定哪天就會暗算對方。\n五個人相互掣肘，誰也不敢輕舉妄動，但……一旦微妙的平衡被打破……\n洛西娜的首要任務是在那群盜匪手中活下來，但除此之外還不夠。那裡三不五時就會有野獸襲擊，有時是一隻，有時是一群。\n老狼們把洛西娜丟下之後就走了，他們一點也不擔心她能否在那樣的環境裡活下來。\n兩週後，老狼們前往那個村落，被眼前的一幕驚到了。\n村落中建起了籬笆，五個盜匪和洛西娜輪班站崗，警惕著野獸來襲。沒有襲擊的日子，五個人中有的外出打獵，有的收集淡水，居然成為了一個像模像樣的團隊。\n沒有人知道洛西娜是如何讓這些彼此覬覦的人聽從她的安排的。按她自己的話說，只是「讓他們明白了活下去的唯一方法」。\n順便一提，卡特洛也經歷過這樣的試煉。呃……他用幾天時間殺光了附近的野獸，留下了足夠的食物，然後在誰也不知道的情況下溜走了，到了結束試煉的日子才回來。\n——狼群幹部馬爾科·狼豪·盧皮諾的訪談紀錄",
+    "zh-CN": "成年礼？狼群之中，每个人的成年礼内容都不太一样，有的人是独自完成一场狩猎，有的人是搞定一场复杂的生意。\n狼群似乎不担心这些年轻人把事情搞砸，他们会大胆地把那些重要事务作为试炼内容交给年轻的小狼，这在氏族之外的人看来简直是疯了。\n至于洛茜娜……狩猎和生意这些事情她在更小的时候就完成过，对她而言，这些事情只是家常便饭。\n狼群给她安排了一场特殊的试炼。\n他们把洛茜娜扔在了一个荒废的村落，村落里只有五个倒霉的匪盗。那些匪盗都是些亡命之徒，他们早就盯上了彼此手中仅剩的保命玩意儿，说不准哪天就会暗算对方。\n五个人相互掣肘，谁也不敢轻举妄动，但……一旦微妙的平衡被打破……\n洛茜娜的首要任务是在那群匪盗手中活下来，但除此之外还不够。那里隔三差五就会有野兽袭击，有时是一只，有时是一群。\n老狼们把洛茜娜扔下之后就走了，他们一点也不担心她能否在那样的环境里活下来。\n两周后，老狼们前往那个村落，被眼前的一幕惊呆了。\n村落中建起了篱笆，五个匪盗和洛茜娜轮班值岗，警惕着野兽来袭。没有袭击的日子，五个人中有的外出打猎，有的收集淡水，居然成为了一个像模像样的团队。\n没有人知道洛茜娜是如何让这些彼此觊觎的人听从她的安排的。按她自己的话说，只是“让他们明白了活下去的唯一方法”。\n顺带一提，卡特洛也经历过这样的试炼。呃……他用几天时间杀光了附近的野兽，留下了足够的食物，然后在谁也不知道的情况下溜走了，到了结束试炼的日子才回来。\n——狼群干部马尔科·狼豪·卢皮诺的访谈记录",
+    "ja": "成人の儀式？狼群において、その形はひとつではない。単独で狩りをやり遂げる者、面倒な取引をまとめ上げる者――\n若い連中が多少ヘマしたところで、狼群が気にすることはない。重要な任務を試練の一環として、若い狼に任せる――外の連中から見れば、正気の沙汰ではないと思うだろう。\nロッシーナについて言えば……狩りだろうと取引だろうと、そんなものは幼い頃に一通り経験済みだ。もはや日常の延長に過ぎない。\nだから狼群は、ロッシーナのために特別な試練を用意した。\n荒廃した村に、たった1人、置き去りにした――そこには運の悪い賊が5人いた。命知らずで、自分が生き残るために互いの手持ちを狙っているような連中だ。いつ不意打ちをしてもおかしくはない。\nそいつらは見合ったまま均衡状態を保ち、誰も軽率な動きを取ろうとしなかった。だが……その不自然なバランスが少しでも崩れれば……\nロッシーナの最初の任務は、賊の手から生き延びることだった。だが、それだけでは終わらない。あの村には獣の襲撃も多い。1匹どころか、群れで押し寄せてくることもある。\n老狼たちはロッシーナ1人を残し、そのまま村を後にした。あの中で生き延びられるか……そんな心配は初めからしていなかった。\n2週間後、再びその村に足を踏み入れたとき、目の前に広がった光景に全員が驚かされた。\nまず、村に柵が作られていた。5人の賊はロッシーナと共に巡回のシフトを組み、襲い来る獣に目を光らせていた。襲撃が無いと判断した日は、狩りに出る者、水を汲みに行く者と役割を分けて動いていた――立派な「チーム」になっていたのだ。\n互いに疑い合い、隙あらば喉元に噛みつこうとしていた連中を、ロッシーナがどうやってそこまでまとめ上げることができたのか、知る者はいなかった。本人に聞いたが「生き残るための唯一の方法を教えただけ」と言うのみだった。\nついでに言えば、キャトロも似たような試練を受けたが……数日で周辺一帯の獣をすべて狩り尽くし、食糧を十分に残したかと思えば、誰にもバレることなく姿を消した。試練が終わるその日に、やっと戻ってきたんだったか。\n――狼群の幹部マルコ・ウルフハウル・ルピーノのインタビュー記録",
+    "ko": "성인식? 울프팀에서는 각자의 성인식 내용이 조금씩 다릅니다. 어떤 이는 홀로 사냥을 완수하고, 어떤 이는 복잡한 거래를 성사시키는 것이죠.\n울프팀은 이 젊은 것들이 일을 망칠지도 모른다는 걱정을 거의 하지 않아요. 중요한 일들을 과감히 시련 과제로 삼아 어린 늑대들에게 맡기는데, 집단 밖 사람들 눈에는 그야말로 미친 짓처럼 보일걸요.\n로시나에 관해서라면... 사냥이니 거래니 하는 건 더 어렸을 때 이미 해 본 것들이고, 그녀에게 그런 일들은 말 그대로 일상적인 일에 불과하죠.\n울프팀은 그녀를 위해 특별한 시련을 하나 준비했어요.\n그들은 로시나를 황폐해진 한 마을에 던져 놓았고, 그곳에는 운 나쁜 강도 다섯만 남아 있었어요. 강도들은 하나같이 목숨을 걸고 사는 무리였고, 서로가 쥐고 있는 마지막 목숨줄 같은 물건들을 이미 노리고 있어, 언제 누구를 몰래 해쳐도 전혀 이상할 게 없는 상황이었어요.\n다섯 놈은 서로를 견제하느라 감히 먼저 움직이지 못하고 있었지만... 그 아슬아슬한 균형이 한 번 무너지기만 하면...\n로시나의 최우선 과제는 그 강도들 틈에서 살아남는 것이었지만, 그것만으로는 충분하지 않아요. 그 일대에는 맹수들의 습격이 잦았고, 때로는 한 마리, 때로는 무리를 지어 덤벼들었어요.\n늙은 늑대들은 로시나를 그곳에 두고는 그대로 떠났고, 그런 환경에서 그녀가 과연 버텨낼 수 있을지에 대해 그들은 전혀 걱정하지 않았어요.\n두 주가 지난 뒤, 늙은 늑대들이 다시 그 마을을 찾았을 때, 그들은 눈앞에 펼쳐진 광경에 말을 잃었어요.\n마을 안에는 울타리가 세워져 있었고, 강도들과 로시나는 번갈아 보초를 서며 맹수의 습격에 대비하고 있었어요. 습격이 없는 날이면, 다섯 중 누구는 사냥을 나가고 누구는 식수를 모으며, 그야말로 그럴듯한 한 팀이 되어 있었어요.\n서로의 것을 탐내던 이 사람들이 어떻게 로시나의 지시에 따르게 되었는지는 아무도 알지 못했고, 그녀 본인의 말만 빌리자면, 그저 \"살아남을 수 있는 유일한 방법을 이해시키기만 했을 뿐\"이라고 했어요.\n여담이지만, 카텔로도 비슷한 시련을 치른 적이 있어요. 음... 녀석은 불과 며칠 만에 근처 맹수들을 싹 쓸어버려 식량을 확보해 두고는, 감쪽같이 자취를 감췄다가 시련이 끝나는 날에야 슬그머니 다시 나타났죠.\n- 울프팀 간부 마르코 울프하울 루피노의 인터뷰 기록"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "\"The Pack sent a tiny pup to talk? Did old Rozzan and his crew kick the bucket or something?\"\nRossi glanced at Erik, who was roaring with laughter along with his crew, and instantly lost any interest she might have had in the leader famously known as the \"Cannon of the Wildlands\".\nThis was Rossi's first time handling the clan's ... \"business\". A week prior, a merchant convoy bound for the Luppino family had been intercepted by Erik. Out of respect for the Pack's name, they hadn't dared touch the couriers, but a sizable portion of the goods meant for return had gone missing. With Catello absent from the clan at the time, Rossi had volunteered, eager to prove her mettle with this particular \"deal\".\nBut at that moment, Rossi was starting to regret her decision. This trip was even less interesting than a hunting trip in home turf. The so-called \"Cannon of the Wildlands\" was wriggling his bulky, bloated body while slapping the table with his hand. From the moment she'd walked in, he'd done nothing but attempt to provoke her.\nTrue strength is reserved, unyielding, never showing a crack. That was a lesson Rossi had learned within the clan. No one, not even Rozzan or the Elder Wolves, ever boasted so crudely about their violence.\n\"Nonno Rozzan told me this is 'business.' From where I stand, every deal has one side that profits, and another that takes the loss.\"\nRossi's eyes swept across the tent. The scent of gunpowder drifted to her nose, and she pinpointed where the other side had planted the explosives. The amount was small. Clearly, killing her wasn't the goal. A live wolf seemed far more useful to them.\n\"The Pack doesn't mind letting our business friends wet their muzzles a little. Unfortunately, I haven't passed my rite of passage yet, so I'm not a true member of the Pack. And I only want profit. I don't do losses.\"\n\"Looks like the Pack isn't planning to sit down and talk this out properly, eh?\"\nA flicker passed through Erik's eyes. The bandits around them grew serious, some already resting their hands on their weapons.\nTwo swordsmen, two axemen, and probably several casters lying in wait outside the tent. Judging by their positioning inside, it'd be tough to clear them out quickly. So—\nHaving assessed the situation, Rossi toyed with a fork on the table, waiting for the right moment.\n\"Listen. From the very first day I set foot in this blighted place, someone's been blabbering non-stop in my years. I can't do this. I can't kill that. I must follow the rules — the Code of the Pack.\"\nErik's agitation grew. He stared hard at the girl who'd come alone. All these preparations were meant for Rozzan of the Pack. But the old man sent a bratty girl instead... Erik felt insulted.\n\"The Code? It's written by those who are bigger and holds more power!\"\nErik hefted his cannon. The Pack prized their kin. Taking this girl hostage could prove far more useful.\nIn a flash, a fork shot toward Erik. Rossi sprang from her seat and suddenly disappeared. Erik swatted the utensil away and raised his weapon to aim.\n\"Behave and be still.\"\nA dagger pressed against the back of his neck.\nThe surrounding bandits finally drew their weapons, but it was too late. \n\"STOP! DON'T GET ANY CLOSER!\" Erik yelled, feeling a chilling prick of cold against the back of his neck.\n\"Counting on those casters at the door to bail you out? But that's odd ... it's way too quiet. Seems my clan wrapped things up even faster than I did. What were you saying again? Oh, right ... the Code...\"\nThe icy tip of the blade seemed to press an inch closer.\n\"Do you understand what the Code of the Pack is?\" Rossi sheathed her dagger.\nErik whirled around, furious. All his careful planning, ruined by a child like this? \"I gave the goods to the Bonekrushers. Try and take them back if you have the guts for it! Once they've wiped you out, then I'll be writing up a new Code for this turf!\"\n\"What did you say?\"\nA killing intent he had never felt before radiated from the girl standing before him.\nErik didn't know the price of bringing up the Bonekrushers around this girl, but he was about to learn. And soon.\n\nLooking at the wrecked tent, Rossi couldn't help but sigh.\n\"Business is such a hassle.\"",
+    "zh-TW": "「狼群派這樣乳臭未乾的小毛孩來，是羅贊那群老傢伙都死光了嗎？」\n洛西看了一眼正帶著手下捧腹大笑的埃瑞克，她不由得對這位被稱作「荒野重炮」的首領失去了興趣。\n這本是洛西第一次經手氏族的「生意」。一週前，一支商隊在前往盧皮諾家的途中被埃瑞克截獲。看在狼群的名號上，他們不敢動運送貨物的人，但應當歸還的貨物卻少了一大半。卡特洛此刻又不在氏族中，於是洛西主動請纓，想要在這一筆「生意」上大顯身手。\n但洛西此刻有點後悔這個決定，這一趟還不如留在家裡狩獵有趣。眼前的「荒野重炮」扭動著肥碩臃腫的身軀，用手拍打著桌子。打從進門開始，他就在不斷試圖激怒洛西。\n強者總是內斂的，不露破綻的。這是洛西在氏族中學到的心得，不論是羅贊，或是其他老狼，他們沒有人會這般粗野地誇耀著暴力。\n「羅贊爺爺告訴我這是一筆『生意』，在我看來，生意總是有賺錢的一方，和虧本的另一方。」\n洛西的目光掃過整個營帳，火藥的味道飄到了她的鼻尖，她鎖定了對方埋藏炸彈的位置。火藥的用量很少，看來對方並不是想以殺死自己為目的，活著的狼看起來對他們更加有用。\n「狼群不介意在生意中讓一點利給朋友，但不巧，我還沒通過成人禮，還不能算狼群的一員。我只喜歡賺，不喜歡虧。」\n「看來狼群不準備坐下來好好談談這個問題了，對吧？」\n埃瑞克的目光微動，四周的盜匪神情變得嚴肅，有的已經把手按在了武器上。\n有兩個劍手，兩個巨斧手，門外應該還埋伏著好幾個術師，從營帳內的站位來看，很難在短時間內把他們處理乾淨。那麼——\n洛西結束了觀察，她把玩著桌上的餐叉，伺機而動。\n「你知道嗎？從我到這個鬼地方的第一天起，總是有人不停跟我說這件事不能做，那個人不能殺，要聽狼群的規矩——狼群的規矩。」\n埃瑞克的情緒激動起來，他死盯著眼前孤身前來的小女孩。原本這次的準備是針對狼群的羅贊，但沒想到來的只是個小孩子……埃瑞克覺得自己受到了羞辱。\n「規矩？誰的拳頭大，誰就是規矩！」\n埃瑞克提起了重炮。狼群重視族人，拿下這個小女孩，可能會更有用。\n霎時，一把餐叉飛向了埃瑞克，洛西從座位上跳起，身影突然消失不見。埃瑞克隨手擋開了餐叉，正欲瞄準……\n「別亂動。」\n一把匕首抵住了他的後頸。\n四周的匪盜這才拔出武器，但為時已晚。\n「別過來！你們先別過來！」\n埃瑞克大叫著，他感受到了後頸傳來的一絲絲涼意。\n「你是不是在指望門口的術師能幫自己？但是好奇怪啊，怎麼這麼安靜。看來我的族人已經快我一步完成工作了。你剛說什麼來著？哦，規矩……」\n冰冷的刀尖似乎又近了一寸。\n「你現在懂得什麼是狼群的規矩了嗎？」\n洛西收起匕首，埃瑞克暴怒地轉身。他籌備的這一切，會被這樣的小孩破壞？\n「貨我都交給碾骨了。如果你們真有膽子，就去從他們手裡拿回來啊！等你們被屠戮殆盡，這地方的規矩就由我說了算！」\n「你說什麼？」\n一股從未感受過的殺氣從眼前的女孩身上傳來。\n埃瑞克並不知道在這個女孩面前提起碾骨氏族的下場，但他很快就會知道了。\n\n看著一片狼籍的營帳，洛西忍不住嘆了口氣。\n「做生意真是件麻煩的事情。」",
+    "zh-CN": "“狼群派这样乳臭未干的小毛孩来，是罗赞那群老家伙都死光了吗？”\n洛茜看了一眼正带着手下捧腹大笑的埃瑞克，她不由得对这位被称作“荒野重炮”的首领失去了兴趣。\n这本是洛茜第一次经手氏族的“生意”。一周前，一支商队在前往卢皮诺家的途中被埃瑞克截获。看在狼群的名号上，他们不敢动运送货物的人，但应当归还的货物却少了一大半。卡特洛此刻又不在氏族中，于是洛茜主动请缨，想要在这一笔“生意”上大显身手。\n但洛茜此刻有些后悔这个决定，这一趟还不如留在家里狩猎有趣。眼前的“荒野重炮”扭动着肥硕臃肿的身躯，用手拍打着桌子。打从一进门，他就在不断试图激怒洛茜。\n强者总是内敛的，不露破绽的。这是洛茜在氏族中学到的心得，不论是罗赞，或是其他老狼，他们没有人会这般粗野地夸耀着暴力。\n“罗赞爷爷告诉我这是一笔‘生意’，在我看来，生意总是有赚钱的一方，和亏本的另一方。”\n洛茜的目光扫过整个营帐，火药的味道飘到了她的鼻尖，她锁定了对方埋设炸弹的位置。火药的用量很少，看来对方并不是想以杀死自己为目的，活着的狼看起来对他们更加有用。\n“狼群不介意在生意中让一些利给朋友，但不巧，我还没通过成人礼，还不能算狼群的一员。我只喜欢赚，不喜欢亏。”\n“看来狼群不准备坐下来好好谈谈这个问题了，对吧？”\n埃瑞克的目光微动，四周的匪盗神情变得严肃，有的已经把手按在了武器上。\n有两个剑手，两个巨斧手，门外应该还埋伏着好几个术师，从营帐内的站位来看，很难在短时间内把他们处理干净。那么——\n洛茜结束了观察，她把玩着桌上的餐叉，伺机而动。\n“你知道吗？从我到这鬼地方的第一天起，总有人不停给我说这事不能干，那人不能杀，要听狼群的规矩——狼群的规矩。”\n埃瑞克的情绪激动起来，他死盯着眼前孤身前来的小女孩。原本这次的准备是针对狼群的罗赞，但没想到来的只是个小孩子……埃瑞克感觉自己受到了羞辱。\n“规矩？谁的拳头大，谁就是规矩！”\n埃瑞克提起了重炮。狼群重视族人，拿下这个小女孩，可能会更有用。\n霎时，一把餐叉飞向了埃瑞克，洛茜从座位上跳起，身影突然消失不见。埃瑞克随手挡开了餐叉，正欲瞄准……\n“别乱动。”\n一把匕首抵住了他的后颈。\n四周的匪盗这才拔出武器，但为时已晚。\n“别过来！你们先别过来！”\n埃瑞克大叫着，他感受到了后颈传来的一丝丝凉意。\n“你是不是在指望门口的术师能帮自己？但是好奇怪啊，怎么这么安静。看来我的族人已经快我一步完成工作了。你刚说什么来着？哦，规矩……”\n冰冷的刀尖似乎又近了一寸。\n“你现在懂得什么是狼群的规矩了吗？”\n洛茜收起匕首，埃瑞克暴怒地转过身。他筹备的这一切，会被这样的小孩捣毁？\n“货我都交给碾骨了。如果你们真有胆子，就去从他们手里拿回来啊！等你们被屠戮殆尽，这地方的规矩就由我说了算！”\n“你说什么？”\n一股从未感受过的杀气从眼前的女孩身上传来。\n埃瑞克并不知道在这个女孩面前提起碾骨氏族的下场，但他很快就会知道了。\n\n看着一片狼藉的营帐，洛茜不由叹了口气。\n“做生意真是件麻烦的事情。”",
+    "ja": "「狼群はこんな乳臭えガキを寄越したのか？ロザンみてえな老いぼれ共は、もう棺桶に入っちまったのかよ。」\n子分を引き連れて大笑いする「荒野のキャノン砲」エリックを一瞥すると、ロッシはすぐに興味を失った。\n本来、これはロッシにとって初めて任された「ビジネス」だった。1週間前、ある商隊がルピーノ家へ向かう途中、エリックに拘束された。狼群の名を立てたのか、運び手そのものには手を出さなかったが、戻って来るはずの荷物の大半は失われていた。キャトロがクランを離れている今、ロッシは自ら出向き、この「ビジネス」で腕を見せようと思った。\nしかし今、彼女はその判断を少しだけ後悔していた。家に残って狩りをしていたほうが、よほど楽しかっただろう。目の前にいる「荒野のキャノン砲」は、肥え太った身体を揺らしながら、指で執拗にテーブルを叩いている。部屋に入ってから、彼はずっとロッシを挑発し続けていた。\n強い者ほど、感情を抑え、隙を見せない――それがロッシがクランで学んだ教えだ。ロザンも、ほかの老狼も、誰一人この男のように下品に力を誇示する者はいない。\n「ロザンじいは『ビジネス』だって言うけど、ビジネスなら、儲かる人と損する人がいて当然なんだよね。」\nロッシの視線が、静かにテントの全体をなぞる。鼻を刺すような匂いだけで、相手が爆弾を埋めた位置はすぐにわかった。量は多くない――どうやら、自分を殺すつもりはないらしい。生きている狼のほうが連中にとってよほど使い道があるのだろう。\n「狼群は、ビジネスで友人に利益を譲るときもあるけど……でもアタシは、成人の儀式もやってないし、まだちゃんとした狼群の一員じゃないの。ってことで、損するくらいなら儲けさせてもらうから。」\n「狼群はもう話し合いをやめるってことか？」\nエリックが視線を動かすと、周囲にいた賊も一斉に表情を強張らせた。何人かは、無言のまま武器に手をかける。\n剣の使い手が2人、大斧が2人。外には術師が数人待ち構えている。テント内の配置上、一気に片付けるのは難しい。なら――\nロッシは観察を終えると、テーブルに置かれていたフォークを手に取り、指先でくるりと弄びながら、機を待った。\n「わかるか？このクソみてぇな場所に来た初日からだ。これをやるな、あれは殺すな、狼群の掟に従えって、ずっと耳元で喚いてるヤツがいた――はっ、狼群の掟だと？」\n声に合わせて、感情が徐々に昂っていく。目の前にいるのはたった1人、ただの小娘だ。本来狙っていたのはロザンだったのに、代わりに現れたのがこんなガキだとは……エリックは、自分が侮辱されていると感じていた。\n「掟だぁ？拳がでけぇヤツが、掟なんだよ！」\nエリックはキャノン砲を持ち上げた。狼群は仲間を大事にする。この娘さえ押さえれば、交渉の駒には十分だ。\nその瞬間、1本のフォークがエリック目がけて飛んできた。それと同時に椅子から飛び上がったロッシが、視界から消える。エリックは反射的にフォークを弾き飛ばし、狙いを定めようとしたそのとき……\n「動かないで。」\nナイフの冷たい感触を首の後ろに感じる。\n周囲にいた賊がようやく武器を抜いたが、すでに遅い。\n「来るな！今は動くんじゃねぇ！」\nエリックは大声を上げる。首筋から、ひやりとした冷気がじわじわと染み込んでくる。\n「外の術師が助けてくれるって思ってるの？でも、ほんっと静か……もしかして、アタシより先に仕事終わらせちゃったのかも。そういえばさっき、なんて言ってたっけ？えーっと――掟は……」\nナイフの切っ先が、ぐっと食い込む。\n「狼群の掟……ちゃんと覚えてよね。」\nロッシがナイフを仕舞うと、エリックは怒りに満ちた顔で振り返る――自分が用意したすべてが、こんなガキ1人のせいで崩されるというのか？\n「荷物は全部、ボーンクラッシャーに渡した！奪い返してみろ、そんな度胸があればだけどなぁ！お前ら全員死ねば、この土地の掟は俺になる！」\n「……ボーンクラッシャー？」\n目の前にいる娘から、これまで感じたことのない殺意が溢れ出す。\nこの娘の前でその名を口にした結果がどうなるのか、エリックにはわからない。しかし、すぐにわかるだろう――\n\nグチャグチャになったテントを見回し、ロッシは小さくため息をついた。\n「ビジネスってほんと、面倒くさいんだから。」",
+    "ko": "\"울프팀 녀석들 이렇게 풋내 나는 꼬맹이를 보내다니, 로잔 그 영감탱이들 다들 죽기라도 한 거냐?\"\n로시는 부하들과 함께 배를 잡고 웃고 있는 에릭을 힐끗 쳐다보고는, 이른바 '황무지의 중포'라는 이 두목에게서 순식간에 흥미를 잃었다.\n본래 이번 일은 로시가 처음으로 집단의 '거래'를 맡아 처리하는 자리였다. 일주일 전, 루피노 가문으로 향하던 한 상단이 에릭에게 탈취당했다. 울프팀의 이름값을 의식해 사람은 함부로 못 대고, 대신 돌려줘야 할 화물은 절반 넘게 떼어 먹었다. 그때 또 카텔로는 집단에 없었고, 그래서 로시는 스스로 나서 이번 '거래'에서 제대로 실력을 보여 주고 싶어 했다.\n하지만 지금 이 순간, 로시는 그 선택을 조금 후회하고 있었다. 차라리 집에서 사냥이나 하는 편이 훨씬 재미있었을 것이다. 눈앞의 '황무지의 중포'는 비대한 몸을 뒤흔들며 탁자를 쿵쿵 두드리고 있었다. 들어올 때부터 내내 로시를 자극하려는 말만 골라 뱉으면서.\n강한 자일수록 조용하고, 허점을 드러내지 않는다. 그것이 로시가 집단에서 배운 바였다. 로잔이든 다른 늙은 늑대들이든, 누구도 이렇게 천박하게 폭력을 자랑하듯 떠들지 않는다.\n\"로잔 할아버지는 이걸 '거래'라고 불렀어. 내 생각에 거래라는 건, 항상 버는 쪽이 있고, 손해 보는 쪽이 있는 법이지.\"\n로시는 시선을 천막 안 구석구석에 훑어 보았다. 화약 냄새가 코끝을 스쳤고, 그녀는 상대가 폭탄을 심어 둔 자리를 짐작해 냈다. 화약의 양은 많지 않았다. 보아하니 애초에 자신을 죽일 생각은 없는 듯했고, 살아 있는 늑대 쪽이 그들에게는 훨씬 쓸모 있어 보였다.\n\"울프팀은 거래에서 친구에게 이익을 좀 양보하는 건 개의치 않아. 하지만 아쉽게도, 나는 아직 성인식을 치르지 못해서, 제대로 된 울프팀 일원이라고도 못 해. 난 버는 건 좋아해도, 손해 보는 건 싫거든.\"\n\"보아하니 울프팀은 이 문제를 두고 제대로 앉아서 이야기할 생각이 없는 모양이군, 그래.\"\n에릭의 눈빛이 스쳐 지나갔고, 주변의 강도들도 표정을 굳히며 이미 몇몇은 무기에 손을 얹었다.\n검사 둘, 거대한 도끼를 든 자 둘, 천막 바깥에는 분명 캐스터를 몇 더 숨겨 둔 모양이다. 이 안의 배치를 보아하니, 짧은 시간 안에 전부 정리하기는 쉽지 않아 보였다. 그렇다면...\n로시는 관찰을 끝내고, 탁자 위에 놓인 포크를 손가락 사이에서 굴리며 때를 엿봤다.\n\"알아? 내가 이 썩어 빠진 데 처음 온 날부터, 맨날 누가 옆에서 뭐 이 일은 하면 안 된다, 저 사람은 죽이면 안 된다, 울프팀의 룰을 지켜라... 울프팀의 룰이 어쩌고저쩌고... 라고 떠들어 대더군.\"\n에릭의 감정이 격해지기 시작했다. 그는 홀로 이곳에 온 꼬마를 노려보았다. 애초에 이 준비는 울프팀의 로잔을 겨냥한 것이었는데, 막상 나타난 건 꼬맹이 하나뿐이라니... 에릭은 모욕감을 느꼈다.\n\"룰? 주먹이 더 센 놈이 룰이지!\"\n에릭은 대포를 들어 올렸다. 울프팀은 동족을 중시한다. 이 꼬마를 붙잡는 편이, 어쩌면 더 쓸모 있을지도 모른다.\n그 순간, 포크 하나가 에릭을 향해 날아갔고, 로시는 자리에서 튀어 오르며 눈앞에서 흔적도 없이 사라졌다. 에릭은 포크를 대수롭지 않게 쳐 내고, 막 조준을 하려는 찰나...\n\"움직이지 마.\"\n차가운 단검이 그의 뒷목에 서늘하게 닿았다.\n주변의 강도들이 허겁지겁 무기를 뽑아 들었지만, 이미 너무 늦었다.\n\"오지 마! 다들, 일단 오지 마!\"\n에릭은 고함을 지르며, 뒤통수 아래로 전해지는 서늘한 기운을 느꼈다.\n\"문 앞에 숨겨 둔 캐스터들이 어떻게 좀 해 줄 거라고 기대한 거야? 그런데 이상하지, 왜 이렇게 조용할까. 보아하니 우리 쪽이 나보다 먼저 일을 끝낸 모양인데. 아까 뭐라고 했었지? 아, 룰...\"\n차가운 칼끝이 한 치 더 파고드는 듯했다.\n\"이제 알겠어? 뭐가 울프팀의 룰인지.\"\n로시는 단검을 거두었고, 에릭은 분노에 가득 차 몸을 홱 돌렸다. 공들여 준비한 이 모든 게, 이런 꼬맹이 손에 망가질 수는 없으니까!\n\"물건은 전부 본 크러셔 쪽에 넘겼어. 진짜 배짱이 있으면, 가서 걔네 손에서 직접 찾아 와 보시지! 너희가 모조리 도륙난 다음엔, 이 땅의 룰은 전부 내가 정할 거야!\n\"뭐라고?\"\n지금껏 느껴 본 적 없는 살기가 눈앞의 소녀에게서 뿜어져 나왔다.\n에릭은 이 소녀 앞에서 본 크러셔 집단의 이름을 꺼낸 대가가 무엇일지 몰랐지만, 곧 뼈저리게 알게 될 터였다.\n\n난장판이 된 천막 안을 둘러보며, 로시는 한숨을 내쉬었다.\n\"거래라는 건, 정말이지 귀찮은 일이네.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "Three tolls of the bell sounded. One by one, the people at the gathering removed their hats and stepped forward to place fresh flowers into the cold coffin.\nSome wept quietly, others bowed their heads in silence. Rozzan scanned the surroundings, but he didn't spot that familiar crimson figure anywhere.\nThe last of the Elder Wolves who survived the incident laid in the casket. He spent the rest of his days in pain. Though the Bonekrusher's haze ravaged his organs and their blades pierced his limbs, the Elder Wolf held on tightly to the swaddled young pup ... until he passed her into the arms of another boy...\n\"She's still not here...\"\nThe words reached Rozzan. He gave a slow nod, then quietly passed the rest of the service over to another Elder.\nHe knew where to find her. Whenever she was upset, she'd lose herself in the training grounds and stay there until late into the night.\nRozzan watched the girl in silence. She noticed him too, but neither said a word. With one last fierce thrust, she drove her sword into the training dummy and collapsed to the ground. No one knew how long she had been pushing herself here.\n\"He's gone.\"\nRozzan approached Rossi where she lay gasping on the ground, his voice quiet and flat.\n\"I know... I know...\"\nRossi pulled her hood down over her eyes, but her voice shook uncontrollably. Ever since she was old enough to understand, she had visited the wounded Old Wolf every single week so he could see that she was growing up strong and well. To her, he was the last living thread connecting her to those lost souls.\n\"You should have been there. He would have wanted you there.\"\n\"But ... it was because of me... He did it all for...\"\nRozzan hoisted her up and slung her over his shoulder before she could finish, carrying her toward the courtyard where the funeral was being held.\n\"I can't face him ... it was all my fault... I don't want to...\"\nRossi thrashed and bit against Rozzan's shoulder. Her nails scraped his skin, her teeth sank into his arm. Rozzan's expression didn't flicker. He just kept walking toward the funeral.\nSoon, Rossi's strength gave out. She slumped against Rozzan's back, arms hanging limp.\n\"I didn't become the wolf the Pack could rely on...\"\nRossi murmured, unsure if she was speaking to Rozzan, or to someone no longer there.\n\"I never learned to stand on my own. I couldn't lead anyone. I haven't done a single thing right... I didn't deserve their sacrifice...\"\nRozzan came to a stop. The courtyard was empty now, save for the ashes of burnt offerings and a solitary coffin. Inside, the elder lay peacefully, covered in flowers.\n\"Every time you came to see him, he'd always pull me aside afterward to talk. Maybe age caught up to the wolf and he never remembered what he told me. Just kept ranting the same stories on and on.\"\nRozzan set Rossi down. He rested a hand on the edge of the coffin, gazing at his old friend.\n\"He'd always go on about the glory days, the few times we butted heads. But the details ... those kept changing. One day he was the one who messed up, the next it was me. The same story was told different every time. Only one thing he ever said never changed.\"\nRozzan reached over and ruffled Rossi's hair.\n\"Every single time, he'd say that saving you was the greatest thing he ever did.\"\nRossi lowered her head. She took off the pale pendant from around her neck, the one the elder had given her, and placed it among the flowers.\nThe coffin sealed. The young wolf never cried again.",
+    "zh-TW": "三次鐘聲響起，席間的人摘下禮帽，一個個走上前，將手中的鮮花擺在了冰冷的棺木中。\n有人在輕聲啜泣，有人低下頭默不作聲。羅贊默默地環視四周，他沒有發現那個熟悉的紅色身影。\n棺木裡，是那次事件中活下來的最後一位老狼，他的餘生都在病痛中度過。碾骨的毒煙侵襲了他的內臟，刀刃貫穿了他的四肢，但他依然緊緊地抱住了襁褓中的那個幼小的嬰兒……直到把她交給另一個男孩……\n「她還是沒有來……」\n有人向羅贊傳達了這個消息，他點了點頭，把葬禮交給了另一位老狼。\n他知道能在哪裡找到女孩，每當她心煩意亂的時候，她都會把自己丟到訓練場，一直待到深夜。\n羅贊靜靜地看著那個女孩，女孩也發現了他，但彼此都沒有說一句話。女孩用力地把劍刺入訓練假人，隨後癱倒在地。沒人知道她在這裡練了多久。\n「他走了。」\n羅贊走到躺在泥土上喘氣的洛西身邊，淡淡地說道。\n「我知道，我知道……」\n洛西用帽兜遮住了自己的眼睛，但聲音卻止不住地顫抖。自她懂事以來，每週都會去拜訪那位老人，讓他見證自己健康長大的樣子。對於洛西而言，老人是她與那些靈魂連接的紐帶。\n「你應該在場的，他會希望你在的。」\n「但，都是因為我……是為了我才……」\n沒等洛西說完，羅贊將其提了起來，扛在了肩上，朝著葬禮所在的庭院走去。\n「我不能去見他……都是我……我不要……」\n洛西在羅贊肩上掙扎著，撕咬著。她的指甲劃破了他的皮膚，牙齒刺進了他的手臂。羅贊的表情沒有一絲變化，依然走向葬禮的方向。\n很快，洛西用盡了力氣。她趴在羅贊身上，垂著手臂。\n「我沒有成長為一位可靠的狼……」\n洛西喃喃道，不知道是在對著羅贊，還是對著誰。\n「沒有能夠獨當一面，沒有帶領起大家，我什麼都沒做好……我不值得他們拯救……」\n羅贊停下了腳步，庭院內早已空無一人，只剩已經燃成灰燼的遺物，和孤零零的棺木。棺內的老人面容安詳，身上擺滿了鮮花。\n「每當你來照看他後，他總是喜歡拉著我聊天，可能是上了年紀吧，他總是記不清上次說過了什麼，一個話題顛來倒去地說，說了七八遍都不罷休。」\n羅贊放下了洛西，他的手放在棺材邊，看著熟悉的老朋友。\n「他總是說起年輕時的光輝事蹟，說起和我的幾次爭執。只是細節總是在變，今天是他做錯了事，明天是我闖了禍。同樣的內容每次都說得不一樣。只是有一句話，他從來沒有變過說法。」\n羅贊摸了摸洛西的頭。\n「他每一次都會說，救下你，是他這一生最偉大的成就。」\n洛西低下了頭，她摘下胸前的淺色吊墜——老人贈與自己的那串吊墜，將其和鮮花擺在了一起。\n棺木闔上。女孩也不再哭泣。",
+    "zh-CN": "三次钟声响起，席间的人摘下礼帽，一个个走上前，将手中的鲜花摆在了冰冷的棺木中。\n有人在轻声啜泣，有人低下头默不作声。罗赞默默地环视四周，他没有发现那个熟悉的红色的身影。\n棺木里，是那次事件中活下来的最后一位老狼，他的余生都在病痛中度过。碾骨的毒烟侵袭了他的内脏，刀刃贯穿了他的四肢，但他依然紧紧地抱住了襁褓中的那个幼小的婴儿……直到把她交给另一个男孩……\n“她还是没有来……”\n有人向罗赞传达了这一信息，他点了点头，把葬礼交给了另一位老狼。\n他知道能在哪里找到女孩，每当她心烦意乱的时候，她都会把自己扔到训练场，一直待到深夜。\n罗赞静静地看着那个女孩，女孩也发现了他，但彼此都没有说一句话。女孩用力地把剑刺入训练假人，随后瘫倒在地。没人知道她在这里练了多久。\n“他走了。”\n罗赞走到躺在泥土上喘气的洛茜身边，淡淡地说道。\n“我知道，我知道……”\n洛茜用兜帽遮住了自己的眼睛，但声音却止不住地颤抖。自她懂事以来，每周都会去拜访那位老人，让他见证自己健康长大的样子。对于洛茜而言，老人是她与那些灵魂连接的纽带。\n“你应该在场的，他会希望你在的。”\n“但，都是因为我……是为了我才……”\n没等洛茜说完，罗赞将其提了起来，扛在了肩上，朝着葬礼所在的庭院走去。\n“我不能去见他……都是我……我不要……”\n洛茜在罗赞肩上挣扎着，撕咬着。她的指甲划破了他的皮肤，牙齿扎进了他的手臂。罗赞的表情没有一丝变化，依然走向葬礼的方向。\n很快，洛茜用尽了力气。她趴在罗赞身上，垂着手臂。\n“我没有成长为一位可靠的狼……”\n洛茜喃喃道，不知道是在对着罗赞，还是对着谁。\n“没有能够独当一面，没能带领起大家，我什么都没做好……我不值得他们拯救……”\n罗赞停下了脚步，庭院内早已空无一人，只剩已经燃成灰烬的遗物，和孤零零的棺木。棺内的老人面容安详，身上摆满了鲜花。\n“每当你来照看他后，他总喜欢拉着我聊天，可能是上了年纪吧，他总是记不清上次说过了什么，一个话题颠来倒去地说，说了七八遍都不罢休。”\n罗赞放下了洛茜，他的手搭在棺材边，看着熟悉的老朋友。\n“他总是说起年轻时候的光辉事迹，说起和我的几次争执。只是细节总是在变，今天是他做错了事，明天是我闯了祸。同样的内容每次都说得不一样。只是有一句话，他从来没有变过说法。”\n罗赞摸了摸洛茜的脑袋。\n“他每一次都会说，救下你，是他这一生最伟大的成就。”\n洛茜低下了头，她摘下胸前的浅色吊坠——老人赠与自己的那串吊坠，将其和鲜花摆在了一起。\n棺木阖上。女孩也不再哭泣。",
+    "ja": "鐘の音が3回響く。人々は帽子を脱ぎ、1人ずつ前に進むと、花を冷たい棺の上へと手向けた。\n声を殺して泣く者もいれば、俯いたまま動かない者もいる。ロザンは黙ってその場を見回した。見慣れた赤い影は、どこにもない。\n棺に眠っているのは、あの事件を生き延びた最後の老狼であった。ボーンクラッシャーの毒煙によって内臓を蝕まれ、刃に四肢を貫かれ――その後の人生では、痛みに苛まれ続けた。それでも彼はあのとき、産着に包まれた赤ん坊を抱きしめて離さなかった……その命をもう一人の男の子へ託すまでは……\n「まだ来ていないよ……」\n誰かがロザンへそう告げる。彼は静かに頷き、葬儀の進行を別の老狼に任せた。\nあの娘がどこにいるか、ロザンは知っている。心が乱れると、彼女はきまって深夜まで訓練場に籠もるのだ。\nロザンは静かに彼女を見つめた。その視線にロッシも気づいていたが、言葉を交わすことはない。ロッシは力任せに武器を人形へ突き立てると、そのまま一緒に崩れ落ちた。いったいどれほどの時間、ここで訓練を続けていたのか。\n「……あいつは、逝った。」\n土の上に横たわったまま、上がった息を整えているロッシの傍で、ロザンは淡々と告げた。\n「わかってる……わかってる……」\nロッシはフードで目元を隠してはいたが、声の震えを隠すことはできなかった。物心がついてから、彼女は毎週のようにあの老人のもとを訪れていた――自分が元気に成長していることを見せるために。ロッシにとって老人は、あの日失われた数えきれない魂と、自分を繋ぎ留める最後の絆であった。\n「……行くべきだ。あいつも、きっと来てほしいと思っていた。」\n「だって、アタシのせいで……アタシのために、ああなって……」\nその言葉を遮るように、ロザンは彼女の身体を持ち上げて肩に担ぎ上げると、葬儀の行われている庭へと歩き出した。\n「ダメ、アタシは行けない……アタシのせいだから……やだってば……」\nロッシはロザンの肩の上で暴れ、必死に抵抗した。爪が彼の皮膚を掠め、牙は腕に食い込む。それでもロザンは眉一つ動かさず、ただ進み続ける。\nやがて暴れ疲れたロッシは、ロザンの背に身体を預けたまま、腕をだらりと垂らす。\n「……アタシ、まだ頼れる狼になれてない……」\nロッシの小さな呟きは、ロザンに向けたものなのか、他の誰かに向けたものなのか、わからない。\n「一人前じゃない、みんなをまとめることもできない……アタシは……何も……だから、救われる価値なんて……」\nロザンは足を止めた。庭にはもう誰もいない。残っていたのは、灰となった遺品と、ぽつんと置かれた棺だけであった。棺の中の老人は花に囲まれ、穏やかに眠っている。\n「お前が看病に行くと、あいつはいつも俺に話をしたがった。歳を取りすぎて、前に何を話したか覚えていなかった。何度も何度も同じ話を――七遍も八遍も、話さないと気が済まなかった。」\nロザンはロッシを肩から下ろし、棺の縁に手を置いたまま、旧友の顔を静かに見つめている。\n「若いころの武勇伝や、俺との揉め事のことも話した。でも、細かいところが毎回違った。あいつのミスだと言っていたことも、次の日には俺のミスになっていた。同じ出来事でも、毎回違う内容になっていた――だがひとつだけ、変わらない話があった。」\nロッシの頭に手を置き、ゆっくりと撫でる。\n「お前を救ったことが人生で一番の功績だと、あいつは、いつもそう言っていた。」\nロッシは俯いたまま胸元に手を置いた。淡い色のペンダント――老人から贈られたそれを外し、花の上にそっと添える。\n棺は閉じられた――もう、涙は止まっていた。",
+    "ko": "세 번의 종소리가 울리자, 자리에 앉아 있던 이들이 모자를 벗어 들고 앞으로 나와, 손에 든 꽃을 차가운 관 속에 내려놓았다.\n누군가는 낮게 훌쩍였고, 누군가는 고개를 떨군 채 말없이 서 있었다. 로잔은 말없이 주변을 둘러보았지만, 붉은 옷차림의 익숙한 모습은 보이지 않았다.\n관 속에 누운 이는, 그 사건에서 살아남은 마지막 늙은 늑대였다. 남은 생은 온통 병마와 함께였다. 본 크러셔의 독연기가 그의 내장을 잠식했고, 칼날이 팔다리를 꿰뚫었지만, 그는 강보에 싸인 그 작은 아기를 끝까지 꼭 끌어안고 있었다... 다른 소년에게 그 아이를 넘겨줄 때까지...\n\"결국 오지 않았군...\"\n누군가가 그 사실을 로잔에게 전하자, 그는 고개를 한 번 끄덕이고 장례를 다른 늙은 늑대에게 맡겼다.\n그는 소녀를 어디에서 찾을 수 있을지 잘 알고 있었다. 마음이 뒤숭숭할 때마다, 소녀는 늘 훈련장에 틀어박혀 깊은 밤까지 돌아오지 않았으니까.\n로잔은 말없이 그 아이를 바라보았다. 소녀도 눈치챘지만, 둘 다 한마디도 꺼내지 않았다. 소녀는 힘껏 검을 훈련용 허수아비에 꽂아 넣고는, 그대로 바닥에 주저앉아 버렸다. 이곳에서 얼마나 오래 이러고 있었는지는 아무도 몰랐다.\n\"그분은 떠났다.\"\n로잔은 흙바닥에 누운 채 숨을 헐떡이는 로시 곁으로 다가가 담담히 말했다.\n\"알아요, 알고 있어요...\"\n로시는 후드를 내려 눈을 가렸지만, 목소리의 떨림은 감추지 못했다. 철이 든 뒤로 줄곧, 그녀는 매주 그 노인을 찾아가 자신이 건강하게 자라는 모습을 보여 주곤 했다. 로시에게 그 노인은, 그녀를 저 많은 영혼들과 이어 주는 끈 같은 존재였다.\n\"넌 거기에 있었어야 했어. 그는 네가 와 주길 바랐을 거다.\"\n\"하지만, 다 저 때문에... 날 위해서 그렇게...\"\n로시의 말이 끝나기도 전에, 로잔은 그녀를 번쩍 들어 어깨에 메고 장례가 열리고 있는 뜰 쪽으로 걸음을 옮겼다.\n\"저, 저 그분을 보러 갈 수 없어요... 전부 제 탓인데... 가기 싫어요...\"\n로시는 로잔의 어깨 위에서 발버둥 치며 할퀴고 물어뜯었다. 그녀의 손톱이 그의 살을 긁어 피를 냈고, 이빨이 팔뚝을 파고들었다. 그럼에도 로잔은 표정 하나 변하지 않았고, 걸음 또한 장례가 열리는 쪽을 향해 한 치도 흐트러지지 않았다. 곧 로시는 기운이 빠져 나갔고, 두 팔을 축 늘어뜨린 채 로잔에게 몸을 기댔다.\n\"난 믿음직한 늑대로 자라지 못했어요...\"\n로시는 중얼거리듯 말했다. 그 말이 로잔을 향한 것인지, 아니면 다른 누군가를 향한 것인지는 알 수 없었다.\n\"혼자서 제 몫을 해내지도, 모두를 이끌지도 못했어요. 제대로 해낸 게 하나도 없고... 나 같은 건 구해 줄 가치도 없었는데...\"\n로잔이 발걸음을 멈췄을 때, 뜰 안에는 이미 아무도 남아 있지 않았다. 타고 남은 유품의 재와, 외롭게 놓인 관 하나뿐이었다. 관 속의 노인은 얼굴에 평온함을 머금은 채, 온몸이 꽃으로 덮여 있었다.\n\"네가 다녀간 날이면, 그는 꼭 나를 붙잡고 이야기를 하곤 했어. 아마 나이가 들어서였겠지, 지난번에 무슨 말을 했는지도 잘 기억을 못 해서, 똑같은 화제를 이리저리 바꿔 가며 일곱 번, 여덟 번을 되풀이해도 좀처럼 그만두질 않았어.\"\n로잔은 로시를 내려 주고 관 가장자리에 손을 올린 채, 오래된 친구의 얼굴을 조용히 바라보았다.\n\"젊은 시절의 무용담도, 나랑 몇 번이나 싸웠는지도, 늘 빠지지 않고 꺼내더군. 다만 매번 이야기의 세부 내용은 조금씩 달라졌지. 오늘은 자기가 잘못했다 하고, 내일은 내가 사고를 쳤다 하고. 같은 이야기를 해도 매번 말이 달라졌어. 하지만 단 한 마디만은, 어느 때고 한 번도 바뀐 적이 없었거든.\"\n로잔은 로시의 머리를 쓰다듬었다.\n\"그는 올 때마다 이렇게 말했지. 너를 구해 낸 일이, 자기 생에 가장 위대한 성취라고.\"\n로시는 고개를 숙였다. 그리고 가슴에 걸고 있던 옅은 색의 목걸이... 노인이 그녀에게 건네 준 그 목걸이를 풀어, 관 위의 꽃들 사이에 살며시 올려두었다.\n관 뚜껑이 닫혔고, 소녀의 눈물도 그와 함께 멎었다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0028_wulfa_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "This is my chance to show Endmin what I'm made of!",
+    "zh-TW": "這是在管理員面前表現的機會！",
+    "zh-CN": "这是在管理员面前表现的机会！",
+    "ja": "これって、管理人にアピールできるチャンス！？",
+    "ko": "관리자님한테 잘 보일 수 있는 기회예요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "I won't let anyone down!",
+    "zh-TW": "我不會辜負大家的期待的！",
+    "zh-CN": "我不会辜负大家的期待的！",
+    "ja": "アタシ、期待は裏切らないから！",
+    "ko": "모두의 기대를 저버리지 않을 거예요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Rossi from the Pack. E-Endmin... What's our mission?",
+    "zh-TW": "狼群的洛西，管、管理員，有什麼任務要交給我？",
+    "zh-CN": "狼群的洛茜，管、管理员，有什么任务要交给我？",
+    "ja": "狼群のロッシって言います。管理人！アタシにやってほしいこととか、ありますか……？",
+    "ko": "울프팀 소속 로시! 관, 관리자님! 임무를 주시려는 건가요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "I'll do my absolute best, Endmin!",
+    "zh-TW": "我會努力做到最好的，管理員！",
+    "zh-CN": "我会努力做到最好的，管理员！",
+    "ja": "アタシ、全力で頑張ります！管理人！",
+    "ko": "최고의 결과를 위해 최선을 다할게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Ah! This weapon is so cool! I've never seen anything like this back in the clan!",
+    "zh-TW": "好帥氣的武器！我在氏族裡都沒有看過這樣的！",
+    "zh-CN": "好帅气的武器！我在氏族里都没有见过这样的！",
+    "ja": "この武器、かっこいい！こんなの狼群でも見たことない！",
+    "ko": "멋진 무기네요! 울프팀에서도 이런 건 본 적이 없어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "It's a bit hard to move in... Oh? You picked it out for me, Endmin? I'll take it then! Hmm... There must be some deeper meaning behind this...",
+    "zh-TW": "穿上這身有點不太好移動……嗯？是管理員幫我挑選的嗎？那，就要它吧！肯定有什麼深意……",
+    "zh-CN": "穿上这身有点不太好移动……嗯？是管理员给我挑选的吗？那，就要它吧！肯定有什么深意……",
+    "ja": "ちょっと動きにくいかも……え？管理人がアタシにって……？なら、これがいい！絶対、何か意味があって選んでるはずだし……",
+    "ko": "음... 움직일 때 좀 불편한데... 응? 관리자님이 절 위해 골라주셨다고요? 그, 그럼 이걸로 할게요! 분명 중요한 의미가 담겨 있을 테니까요...!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "I am a descendant of the Pack!",
+    "zh-TW": "我是群狼的後裔！",
+    "zh-CN": "我是群狼的后裔！",
+    "ja": "アタシ、狼の血を継いでるんだから！",
+    "ko": "늑대의 후손, 바로 나 로시!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "So that's how seasoned warriors fight... Hmm ... like this ... and then like that... Okay, I think I've got it now!",
+    "zh-TW": "成熟的戰士是這樣戰鬥的嗎……嗯……這樣……這樣……然後再那樣……好，我學會了！",
+    "zh-CN": "成熟的战士是这样战斗的吗……嗯……这样……这样……然后再那样……好，我学会了！",
+    "ja": "ベテランの戦士はこうやって戦う……なるほどね、えーっと……こうやって、こう……うん、よし！覚えた！",
+    "ko": "숙련된 전사는 이렇게 싸우는구나... 음... 이렇게 하고... 다음엔 저렇게... 됐다, 나도 할 수 있어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Pro ... motion? Ah, I get it! We have similar ceremonies back in the clan, though I've never actually experienced one myself. You know what? This isn't ... half bad.",
+    "zh-TW": "晉……升？啊，我懂了，氏族裡也有類似的儀式！不過我一次都沒有體驗過，感覺……還不賴？",
+    "zh-CN": "晋……升？啊，我懂了，氏族里也有类似的仪式！不过我一次都没有体验过，感觉……还不赖？",
+    "ja": "昇進……？あ、クランにも似てる儀式がありました！1回もやったことないんですけど……思ったより、悪くないかも……？",
+    "ko": "이건... 아, 알겠다! 울프팀에서도 이거랑 비슷한 의식을 본 적이 있어요! 한 번도 해보진 않았는데... 생각보다 괜찮네요?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "Hehe, I'm doing pretty well, right? Gotta be this good to shoulder the clan's responsibilities. After all, I'm gonna make the Pack famous across Talos-II!",
+    "zh-TW": "嘿嘿，我做得還不錯吧？不這樣可承擔不了氏族的重任，我可是還要帶領狼群名揚塔衛二呢。",
+    "zh-CN": "嘿嘿，我做得还不错吧？不这样可承担不了氏族的重任，我可是还要带领狼群名扬塔卫二呢。",
+    "ja": "えへへ……アタシ、結構頑張ってますよね？これくらいできなきゃ狼群だって背負えない……狼群を率いて、タロⅡで名を上げてみせますから！",
+    "ko": "헤헤, 저 잘하죠? 이 정도도 못하면 울프팀의 운명을 짊어질 수 없거든요. 전 언젠가 울프팀을 탈로스 II의 전설로 만들 거예요!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Promotions are a piece of cake for someone like me! When's the next one? I'm totally ready! Gotta wait for the right opportunity? Well ... alright then.",
+    "zh-TW": "哼哼，對於我來說，晉升簡直再簡單不過了！下次晉升是什麼時候？我已經做好準備了！要等待機會？那好吧……",
+    "zh-CN": "哼哼，对于我来说，晋升简直再简单不过了！下次晋升是什么时候？我已经做好准备了！要等待机会？那好吧……",
+    "ja": "昇進なんて楽勝です！次の昇進はいつですか？アタシ、もう準備できてます！あ、もうちょっと時間が必要……？なるほど……",
+    "ko": "저한테 강해지는 건 숨 쉬는 것처럼 자연스러운 일이죠! 준비가 다 됐는데, 다음은 언제예요? 네...? 당장은 어렵다고요? 으음... 그럼 어쩔 수 없죠..."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "Doesn't this prove I'm the top operator now? Wonder if Catello had it this easy. Next time I see him, I'm totally rubbing it in his face!",
+    "zh-TW": "這就證明我是最出色的幹員了吧？不知道卡特洛有沒有這麼順利。下次再見到那傢伙，我可要好好炫耀一下！",
+    "zh-CN": "这就证明我是最出色的干员了吧？不知道卡特洛有没有这么顺利。下次再见到那家伙，我可要好好炫耀一下！",
+    "ja": "これでアタシがすごいオペレーターだって証明できましたよね？……キャトロのときはきっとこんなんじゃなかったはず……次会ったら自慢しなきゃ！",
+    "ko": "그러니까, 제가 최고의 오퍼레이터라는 게 증명된 거죠? 카텔로도 이 정도로 순조롭진 않았을 것 같은데, 다음에 만나면 뭐라고 자랑할지 고민해 봐야겠어요!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "I'm Rossina, granted name Wulfperl, meaning the Pack's treasure! You'd better remember that! Ah ... Endmin, you can call me whatever you prefer...",
+    "zh-TW": "我是洛西娜，授名是狼珀，寓意是狼群的瑰寶！要乖乖記好了喔！啊……管理員用自己喜歡的方式稱呼我就好……",
+    "zh-CN": "我是洛茜娜，授名是狼珀，寓意是狼群的瑰宝！可要乖乖记好了哦！啊……管理员用自己喜欢的方式称呼我就好……",
+    "ja": "アタシ、ロッシーナ。狼群でもらった名前はウルフパール。「狼群の宝」って意味なんだから、しっかり覚えておいてよね！あ、管理人は……好きなように呼んでいただけたら、それで……",
+    "ko": "난 로시나, 부여받은 이름은 울프펄이야! 울프팀의 진주라는 뜻이지! 잘 기억해 두라고! 아! 관, 관리자님은 그냥 편하신 대로 불러주세요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "The hour of bloodshed is upon us. It's time to hunt. I mean ... it's time to eat.",
+    "zh-TW": "嗜血的時刻已至！我是說……用餐時間到了！",
+    "zh-CN": "嗜血的时刻已至！我是说……用餐时间到了！",
+    "ja": "血塗られた戦いの刻が来た！……うん、まあ、ただの食事の時間なんだけど。",
+    "ko": "피의 축제를 열 시간이다! 그러니까... 밥 먹을 시간이 됐단 거지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Prey, beware! I am the paws of the Pack! ...Wait, that doesn't sound right? Anyway... Awoo!",
+    "zh-TW": "我是狼群的爪牙！……好像不太對？反正……嗷嗚！",
+    "zh-CN": "我是狼群的爪牙！……好像不太对？反正……啊呜！",
+    "ja": "アタシは狼群の牙だ！……ちょっと違うかも？まあ、いっか。",
+    "ko": "내가 바로 울프팀의 송곳니다! ...뭔가 이상한데? 어쨌든... 아우!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Piece of cake for an elite like me!",
+    "zh-TW": "對於精銳來說小事一樁！",
+    "zh-CN": "对于精锐来说小菜一碟！",
+    "ja": "アタシはエリートなんだから、こんなの朝飯前！",
+    "ko": "저 같은 정예한테는 식은 죽 먹기죠!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "E-Endmin! Do you have any missions for me today?",
+    "zh-TW": "管、管理員！今天有什麼任務要交給我嗎？",
+    "zh-CN": "管、管理员！今天有什么任务要交给我吗？",
+    "ja": "か、管理人！今日はアタシ、何すればいいでしょうか……？",
+    "ko": "관, 관리자님! 오늘 저한테 주실 임무는 없으신가요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Endmin, could you share some leadership experience with me?",
+    "zh-TW": "管理員，可以傳授我一點作為領導者的經驗嗎？",
+    "zh-CN": "管理员，可以传授我一些作为领导者的经验吗？",
+    "ja": "リーダーとしての心得……教えてもらえませんか、管理人！",
+    "ko": "관리자님, 혹시 리더로서 필요한 덕목이 뭔지 가르쳐주실 수 있나요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "How does Endfield manage so many operators? Something about ... systems? And some kind of ... central control? I can't figure it out ... but it's definitely worth learning.",
+    "zh-TW": "終末地是怎麼管理這麼多幹員的？什麼……系統……什麼……中控來著？搞不懂……不過很值得學習。",
+    "zh-CN": "终末地是怎么管理这么多干员的？什么……系统……什么……中控来着？搞不懂……不过很值得学习。",
+    "ja": "エンドフィールドって、こんなにたくさんのオペレーターをどうやって管理してるんですか？えっと、なんとかシステムに、中枢……うーん、でも学ぶ価値はあるって思います！",
+    "ko": "이렇게 많은 오퍼레이터를 엔드필드에선 어떻게 관리하는 거예요? 무슨... 시스템이었나, 중추 같은 걸 사용한다고 들었는데... 잘은 모르겠지만, 여긴 배울 게 정말 많은 것 같아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "The elder wolves from the clan told me to visit Dijiang more often. They said I could learn about leadership here, especially by your side. But getting a chance to catch you is just so hard!",
+    "zh-TW": "氏族的老狼讓我多來帝江號上看看，他們說在這裡能學習到作為領導者的知識和經驗，尤其是在管理員身邊。可是能抓到管理員的機會太少了！",
+    "zh-CN": "氏族的老狼让我多来帝江号上看看，他们说在这里能学习到作为领导者的知识和经验，尤其是在管理员身边。可是能抓到管理员的机会太少了！",
+    "ja": "狼群の長老たちは、帝江号にいっぱい行くようにって言ってたんです。リーダーとしての知識や経験、それにとにかく管理人の側で学べるからって……なのに管理人と一緒にいられる時間、全然ないじゃないですかー！",
+    "ko": "울프팀의 어른들은 저한테 제강호에 자주 가보라고 해요. 그래야 관리자님 옆에서 리더로서의 지식과 경험을 보고 배울 수 있을 거라고요. 근데 얼굴 보기도 너무 힘들잖아요..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "The big brothers and sisters on Dijiang always treat me like a kid! But I'm already an elite of the Pack. Next time I'll make it clear to them, this has to stop! ...Though the snacks they give me are really good ...",
+    "zh-TW": "帝江號上的哥哥姐姐們總是把我當小孩子看待！但我已經是狼群的精銳了，下次要跟他們說清楚才行，不能再這樣了！不過他們給的小點心都很好吃……",
+    "zh-CN": "帝江号上的哥哥姐姐们总把我当小孩子看待！可我已经是狼群的精锐了，下次要和他们说清楚才行，不能再这样了！！不过他们给的小点心都很好吃……",
+    "ja": "帝江号のみんな、アタシを子ども扱いするんです。アタシは狼群のエリートなんだから、次ははっきり「やめて」って言わなきゃ！……でも、みんながくれるお菓子……すっごくおいしくて……",
+    "ko": "제강호의 언니 오빠들은 계속 절 애처럼 대해요! 다음에 또 그러면 확실하게 말해야겠어요. 전 울프팀의 정.예.라고요! 음... 근데 또 언니 오빠들이 챙겨주는 간식들이 되게 맛있긴 해요..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Clan affairs come first! But if anything urgent happens to Endfield, I'll definitely rush over right away. It's just ... I'm not sure if you really need my help... You're so capable, you could probably handle crises easily, even without me. But I still want to be helpful... What should I do...",
+    "zh-TW": "氏族事務優先！不過，如果終末地有什麼突發情況，我一定會第一時間趕到的。只是不知道管理員需不需要我的幫助……管理員那麼優秀，就算沒有我也能輕鬆解決危機的吧，但我還是想幫到管理員……怎麼辦呢……",
+    "zh-CN": "氏族事务优先！不过，如果终末地有什么突发情况，我肯定会第一时间赶到的。只是不知道管理员需不需要我的帮助……管理员那么优秀，哪怕没有我也能轻松解决危机的吧，但我还是想帮到管理员……怎么办呢……",
+    "ja": "狼群のことが一番だけど……エンドフィールドに何かあったときは、真っ先に駆けつけます！でも、管理人はアタシの助けなんか必要ないかも……だって管理人はすごい人だし、何でも解決できちゃうし……でもアタシ、管理人の力になりたくて、どうすれば……",
+    "ko": "저한테 울프팀의 일이 우선인 건 맞지만, 엔드필드에 무슨 일이 생긴다면 제일 먼저 달려올 거예요. 물론... 제 도움이 필요 없으실 수도 있지만요. 관리자님은 대단하신 분이니까, 혼자서도 어떤 위기든 거뜬히 해결하실 수 있을 거예요. 그래도... 전 관리자님을 돕고 싶어요... 그러니까... 으음, 어떡하지..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "I heard Catello could be found on Dijiang, but why's he so elusive here too? Hmm ... guess old habits die hard? If I can't find him soon, Nonno Rozzan's gonna be furious. I really don't wanna see him angry... Endmin, do you know where I might find Catello?",
+    "zh-TW": "我聽說在帝江號上能找到卡特洛，可是他在這怎麼也是神出鬼沒？嗯……該說是本性難移嗎？再找不到他，羅贊爺爺可就要生氣了！我才不想看到他發火的樣子……管理員，您知道在哪裡能找到卡特洛嗎？",
+    "zh-CN": "我听说在帝江号上能找到卡特洛，可他在这儿怎么也是神出鬼没？嗯……该说是本性难移吗？再找不到他，罗赞爷爷可就要生气了！我可不想见到他发火的样子……管理员，您知道在哪里能找到卡特洛吗？",
+    "ja": "帝江号でキャトロに会えるって聞いたのに、どこほっつき歩いてんだろ？もー、やっぱり性格なんて簡単に変わるものじゃないよね。もし見つからなかったら、ロザンじいが本気で怒っちゃう……あの、管理人。キャトロがどこにいるか知りませんか……？",
+    "ko": "분명 제강호에 카텔로가 있다고 했는데... 왜 이렇게 안 보이는 걸까요? 역시 본성이라는 게 쉽게 변하진 않나 봐요. 이번에도 못 찾으면 로잔 할아버지가 많이 화내실 텐데... 전 혼나고 싶지 않거든요! 관리자님, 카텔로가 어디로 갔는지 아시나요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Why can't I find any records about you on Dijiang, either? I finally learned how to use this so-called Intel Archive, but all I get are useless results or \"No Authority\" messages... Ugh... Endmin, do you have time to tell me about your heroic deeds yourself?",
+    "zh-TW": "帝江號上為什麼也查詢不到管理員的相關紀錄呢？我好不容易才學會使用這個什麼情報檔案庫……查到的全是些沒用的資訊，或者就是說我權限不夠……嗚……管理員，您有時間親自跟我說說您的那些英勇事蹟嗎？",
+    "zh-CN": "帝江号上为什么也查询不到管理员的相关记录呢？我好不容易才学会使用这个什么情报档案库……查到的净是些没用的信息，或者就是说我权限不够……呜……管理员，您有时间亲自跟我说说您的那些英勇事迹吗？",
+    "ja": "帝江号でも管理人の記録、全然見つからなくって……やっとあの情報資料室？っていうの、使えるようになったのに。大したことない情報か、権限レベルが足りないって……うぅ……管理人、時間があるときに伝説の話、直接聞かせてもらえませんか？",
+    "ko": "왜 제강호에서도 관리자님의 기록을 찾을 수 없는 거예요? 그걸 보려고 문서 보관소 사용법을 진짜 열심히 배웠는데, 쓸데없는 것만 나왔어요. 힝... 제 권한이 너무 낮아서 그런가 봐요... 관리자님! 괜찮으시면 관리자님의 대단한 업적들을 직접 들려주실 수 있나요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Endmin, these are the spoils I've collected! They're all for you! Don't worry, I'll get even more!",
+    "zh-TW": "管理員，這是我得到的戰利品！全都送給您！別擔心，我還會弄到更多的！",
+    "zh-CN": "管理员，这是我得到的战利品！全都送给您！别担心，我还会弄到更多的！",
+    "ja": "管理人、アタシの戦利品です！全部あげます！大丈夫です、すぐにもっとたくさん集めてきますから！",
+    "ko": "관리자님! 이건 제가 모은 전리품인데, 전부 다 드릴게요! 걱정하지 마세요, 이게 다가 아니거든요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "This is ... for me? Can I really have it? Thank you! I'll make sure to understand the meaning behind your gift!",
+    "zh-TW": "這是……給我的？我真的可以收下嗎？謝謝您，我會好好領會管理員的用意的！",
+    "zh-CN": "这是……给我的？我真的可以收下吗？谢谢您，我会好好领会管理员的用意的！",
+    "ja": "これ……アタシにですか？本当に？ありがとうございます……管理人の気持ち、心にしっかり刻みつけます！",
+    "ko": "저한테 주시는 거예요? 진짜 받아도 돼요? 고맙습니다! 관리자님의 기대를 저버리지 않을게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "This? Well ... I'm just taking notes on your words and actions, Endmin. I think even the details are worth learning from. Ah ... please don't look! These are personal notes!",
+    "zh-TW": "這個？這個……我只是在記錄管理員您的言行，我覺得這些細節也有值得我學習的地方。啊……不能給您看，這是私人物品！",
+    "zh-CN": "这个？这个……我只是在记录管理员您的言行，我觉得这些细节也有值得我学习的地方。啊……不能给您看，这是私人物品！",
+    "ja": "こ、これは……管理人の言ったこととか、やってたことをメモしてて……えっと、細かいところにも学ぶことがあるし……わっ！絶対だめ！アタシの私物ですから！！",
+    "ko": "이거요? 이건... 그, 그냥 관리자님이 하신 말씀들을 적어놓은 거예요. 사소하게 느껴지는 것에도 배울 점이 있을 것 같아서요. 아... 보여드릴 수는 없어요, 프라이버시라고요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "I-I've heard so many legends about you. I've always wondered what kind of person you'd be! But now that I've actually met you, I feel like you're even more admirable than the stories say. What exactly? Well ... your methods, your leadership... I-I don't even know how to put it into words...",
+    "zh-TW": "我我我、我聽過好多好多管理員的傳說。一直在想您會是個怎麼樣的人！直到真正見到您，才覺得您比傳說中更令人欽佩。具體哪一點？嗯……行事方式、領導力，我、我也不知道該怎麼形容……",
+    "zh-CN": "我我我、我听过好多好多管理员的传说。一直在想您会是个怎么样的人！直到真正见到您，才觉得您比传说中更令人钦佩。具体哪一点？嗯……行事方式、领导力，我、我也不知道该怎么形容……",
+    "ja": "ア、アタシ……管理人の伝説いっぱい調べてて、どんな人かなって思ってたんです。でも実際に会ってみると、もっともっと尊敬できる人だなって……どこが？うーん、やり方とか、リーダーシップとか……全部言葉にしようって思ったらすっごく難しい……",
+    "ko": "전 관리자님에 관한 이야기를 정말 많이 들었어요. 항상 어떤 분이실지 궁금했는데 실제로 뵈니까, 소문보다 훨씬 더 존경스러운 분이라는 걸 알게 됐어요. 구체적으로 어떤 부분이 그렇냐고요? 음... 일하는 모습이나, 많은 사람을 이끄는 모습, 그리고... 저, 저도 어떻게 말해야 할지 잘 모르겠어요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "Children of the Pack participate in the coming-of-age ceremony at thirteen. The clan gathers to choose a granted name for the new \"wolf\". Catello's name is \"Wulfgard\", and mine is \"Wulfperl\". I love the name the clan gave me. Every time I say it, I can feel the blood of the Pack flowing through me... What do you think of it, Endmin?",
+    "zh-TW": "狼群的孩子會在十三歲時參加成人禮。族人們會聚在一起，為新的「狼」選出授名。卡特洛的授名是「狼衛」，而我則是「狼珀」。我喜歡氏族賦予我的名字，每當唸出它時，我就能感受到狼群的血在我的身體裡流淌……管理員覺得這個名字怎麼樣？",
+    "zh-CN": "狼群的孩子会在十三岁时参加成人礼。族人们会聚在一起，为新的“狼”选出授名。卡特洛的授名是“狼卫”，而我则是“狼珀”。我喜欢氏族赋予我的名字，每当念出它时，我就能感受到狼群的血在我的身体里流淌……管理员觉得这个名字怎么样？",
+    "ja": "狼群では13歳になると成人の儀式をするんです。一族が集まって、新しい「狼」に名を与える……キャトロは「ウルフガード」でアタシは「ウルフパール」。アタシ、この名前が大好きで、呼ばれるたびに狼群の血が体中に流れてるのを感じるんです……管理人、この名前、どう思いますか……？",
+    "ko": "울프팀에선 열세 살이 되면 성인식을 치러요. 그때가 되면 사람들이 함께 모여 새로운 '늑대'를 위한 이름을 부여해 주죠. 카텔로가 받은 건 '울프가드'였고, 제가 받은 건 '울프펄'이었어요. 헤헤... 전 제 이름이 마음에 들어요! 부를 때마다 울프팀의 피가 흐르고 있다는 게 느껴지거든요... 관리자님은 이 이름을 어떻게 생각하세요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "Endmin, I've been doing pretty well on missions lately, right? So ... could I maybe ask for a little reward? Ah ... nothing too fancy, just chatting with me more would be enough! ...Is that okay?",
+    "zh-TW": "管理員，我最近的任務表現還算不錯吧？那個……可以找您要一點獎勵嗎？啊……不用太費心，多和我聊聊天就可以了！……可以嗎？",
+    "zh-CN": "管理员，我最近的任务表现还算不错吧？那个……可以找您要一些奖励吗？啊……不用太费心，多和我聊聊天就可以了！……可以吗？",
+    "ja": "管理人、任務でのアタシの動き、悪くないですよね……？ちょっとご褒美とか貰えたらって思って……物とかじゃなくって、お話できたら……だめですか……？",
+    "ko": "관리자님, 요즘 저 꽤 잘하지 않아요? 그래서 말인데... 선물을 좀 받고 싶어요! 아니, 뭘 사달라는 건 아니고요... 그냥, 저랑 많이 얘기해 주세요! 헤헤... 괜찮으실까요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "I know I'm not skilled enough yet to lead the Pack, but the elders insist I handle the clan's affairs... So I want to learn more by your side, Endmin. I want to learn how to become someone trustworthy like you, and Perlica, and M3... I'll make everyone see me in a new light!",
+    "zh-TW": "我知道自己的能力還不足以勝任狼群的領袖，但元老們堅持讓我代理氏族事務……所以、所以我想在管理員身邊學到更多，學習怎麼成為一個值得信賴的人。還有佩麗卡姐姐、M3姐姐……我會讓大家刮目相看的！",
+    "zh-CN": "我知道自己的能力还不足以胜任狼群的领袖，但元老们坚持让我代理氏族事务……所以、所以我想在管理员身边学到更多，学习怎么成为一个值得信赖的人。还有佩丽卡姐姐、M3姐姐……我会让大家刮目相看的！",
+    "ja": "今のアタシじゃ、狼群のリーダーにふさわしくないってわかってます。でも、長老たちは狼群の努めを果たせって……だから信頼される人になるために、管理人の側でたくさん勉強したいんです！それに、ペリカ姉さんやM3姉さんにも……絶対認めさせてみせます！",
+    "ko": "저도 제가 아직 울프팀을 이끌기엔 부족하다는 거 알아요. 하지만 어르신들은 제가 그 역할을 맡아주길 바라세요. 그래서 전 어떻게 하면 사람들의 신뢰를 받을 수 있는지 관리자님 곁에서 배우고 싶어요. 나중에는 펠리카 언니랑 M3 언니, 그리고 모두가 절 다시 보게 만들 거예요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0028_wulfa_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "The big brothers and sisters at Endfield have taught me a lot! Perlica explained how Protosyncs work, Avywenna took me to TGCC's clothing and jewelry stores, and ... and Xaihi said she wants to discuss quadratic time complexity with me... I don't even know what that means.",
+    "zh-TW": "終末地的哥哥姐姐們教了我好多東西，佩麗卡姐姐為我講了協議同步器的用法，艾維文娜姐姐帶我去逛了商會的服裝店和首飾店，還有、還有……賽希姐姐說要與我探討平方時間複雜度……那是什麼？",
+    "zh-CN": "终末地的哥哥姐姐们教了我好多东西，佩丽卡姐姐给我讲了协议同步器的用法，艾维文娜姐姐带我去逛了商会的服装店和首饰店，还有、还有……赛希姐姐说要与我探讨平方时间复杂度……那是什么？",
+    "ja": "みんな、いろんなことを教えてくれるんです！ペリカ姉さんは協約同期装置について、アイビーエナ姉さんは商会のお洋服とかアクセサリーのお店……あ、えっと、ザイヒ姉さんは二乗時間計算量？について議論したいって言ってたんですけど……何ですかね？",
+    "ko": "엔드필드의 언니 오빠들한텐 진짜 많은 걸 배웠어요. 펠리카 언니는 프로토콜 동기화 장치 사용법을 가르쳐줬고, 아비웨나 언니는 절 상업연합회의 옷 가게랑 액세서리 가게에 데려가 줬어요. 그리고 또... 아, 자이히 언니는 저랑 제곱 시간의 복잡도를 주제로 토론하고 싶다고 말했는데, 그게 무슨 말이에요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "The big brothers and sisters here all take good care of me. They even give me gifts. But I've passed the Pack's trials! I'm a real wolf! A mature wolf shouldn't like childish things. They should prefer daggers and coins! So I've collected plenty of those. Once I grow a bit taller, everyone can finally trust me with the most dangerous missions!",
+    "zh-TW": "這裡的哥哥姐姐們都很照顧我，還會給我小禮物。但，我也是通過了狼群試煉的，名副其實的狼！成熟的狼不能喜歡孩子氣的東西，應該喜歡匕首和錢幣！所以我收集了很多。等我再長高一點，大家就可以放心把那些最危險的任務交給我來處理了！",
+    "zh-CN": "这里的哥哥姐姐们都很照顾我，还会给我小礼物。但，我也是通过了狼群试炼的，名副其实的狼！成熟的狼不能喜欢孩子气的东西，应该喜欢匕首和钱币！所以我收集了很多。等我再长高一些，大家就可以放心把那些最危险的任务交给我来处理了！",
+    "ja": "みんな良くしてくれるし、いろいろくれたりもするんですけど……アタシは狼群の試練をくぐり抜けた、れっきとした狼なんです！大人の狼は、短剣とかコインとかを集めるものだから……アタシもそういうのを集めてます。身長さえもう少し伸びたら、みんなも安心して、危険な任務でも任せてくれるようになるはずなんです！",
+    "ko": "언니 오빠들은 절 진짜 잘 챙겨줘요. 선물도 많이 주고요. 하지만, 사실 저도 울프팀의 시련을 통과한 어엿한 늑대거든요! 성숙한 늑대라면 더 이상 아이 같은 걸 좋아해서는 안 돼요, 단검이나 동전 같은 걸 좋아해야죠. 그래서 저도 많이 모아놨어요! 헤헤... 키만 좀 더 크면, 위험한 임무도 안심하고 맡기실 수 있을 거예요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "I always thought Nonno Rozzan was the strongest person in the world, but he kept saying \"there's always someone greater\" and mentioned you all the time, Endmin. Later, I heard tons of legendary stories about you elsewhere. And I was like, \"Wow, we actually got someone like you out there?!\" I've always wanted to see what you're really like. Ever since I heard you woke up, I've been planning to surprise you one day ... hehe.",
+    "zh-TW": "我一直以為羅贊爺爺就是世界上最強大的人，但他卻總告訴我天外有天，還總是提到管理員。後來我還在別處聽說了許多您的傳奇事蹟，哇，世界上居然還有這樣的人！我一直想來看看您真實的樣子，自從聽說您甦醒了，我就在計劃什麼時候來個突然襲擊了……嘿嘿。",
+    "zh-CN": "我一直以为罗赞爷爷就是世界上最强大的人，但他却总告诉我天外有天，还总是提到管理员。后来我还在别处听说了许多您的传奇事迹，哇，世界上居然还有这样的人！我一直想来看看您真实的样子，自从听说您苏醒了，我就在计划什么时候来个突然袭击了……嘿嘿。",
+    "ja": "アタシが世界最強だって思ってたロザンじいは、「上には上がいる」っていつも管理人の話をしてたし、他のところでも伝説をいっぱい聞いて……こんなすごい人、世の中にいるんだって思いました！だからどうしても会ってみたかったんです……管理人が目覚めたって聞いてから、いつ突撃しようかってずっとタイミング探して……えへへ。",
+    "ko": "전 항상 로잔 할아버지가 세상에서 가장 강한 사람이라고 생각했어요. 근데 할아버지는 하늘 위에도 하늘이 있다면서 늘 관리자님을 언급하셨죠. 나중에 관리자님에 관한 더 많은 전설을 듣고 나서는... 와, 세상에 이런 사람도 있구나... 직접 만나보고 싶다고 생각했어요. 근데 마침 깨어나셨다는 소식을 들어서... 언제 깜짝방문을 할지 계획하게 된 거예요! 헤헤..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "My first dagger was a reward after an emergency hunt! The box it came in was all shiny and golden, I've kept it safe ever since. This one's my favorite too. I always carry it with me, though it's not very sharp, good mostly for cutting fruit. If you'd like it, Endmin ... well ... I'll give it to you once I bring the box along too!",
+    "zh-TW": "我的第一把匕首是一次緊急狩獵後的獎勵！裝著它的盒子金光燦燦的，我現在還保管得好好的呢。這也是我最喜歡的一把，總是帶在身邊，不過它不夠鋒利，只能用來切一切水果。如果管理員也喜歡的話，嗯……等我帶上盒子一起送給您！",
+    "zh-CN": "我的第一把匕首是一次紧急狩猎后的奖励！装着它的盒子金光灿灿的，我现在还保管得好好的呢。这也是我最喜欢的一把，总是带在身边，不过它不够锋利，只能用来切一切水果。如果管理员也喜欢的话，嗯……等我带上盒子一起送给您！",
+    "ja": "最初の短剣は、緊急の狩りで報酬としてもらったものでした。金ピカの箱に入ってて、今でも大事にしてます。お気に入りでいつも持ち歩いてたんですけど……切れ味が微妙で、今は果物用に……あの、管理人が気に入ったなら、えっと……箱ごと！プレゼントします！",
+    "ko": "제 첫 번째 단검은 긴급 사냥 작전이 끝나고 받았어요. 제가 가장 좋아하는 단검이라서 항상 가지고 다니죠. 금빛으로 반짝거리는 상자에 담겨 있었는데, 그 상자는 아직도 잘 보관하고 있어요. 근데 날카롭지가 않아서 과일을 깎는 데에만 쓰고 있죠. 헤헤, 혹시 마음에 드시면... 나중에 그 상자에 담아서 드릴게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "About my childhood... The Pack was always caught in conflicts with the Bonekrushers. It was my brother who took me around seeking medical help, and the clan members also... Oh! Ah ... I shouldn't be talking about this in front of you! Forget it, Endmin. Let's talk about you instead! I've heard that...",
+    "zh-TW": "小時候的事嗎……狼群總是處於和碾骨氏族的鬥爭中，是哥哥帶著我四處求醫問診，也是族人們幫忙……啊……不應該在管理員面前說這些的！到此為止、到此為止，管理員，我們還是說一說關於您的事吧，我聽說……",
+    "zh-CN": "小时候的事吗……狼群总是处于和碾骨氏族的斗争中，是哥哥带着我四处求医问诊，也是族人们帮忙……啊……不应该在管理员面前说这些的！到此为止、到此为止，管理员，我们还是说一说关于您的事吧，我听说……",
+    "ja": "子どもの頃、狼群はいつもボーンクラッシャーと戦ってました。お兄ちゃんはアタシのためにお医者さんを探して走り回ってくれたし、他のみんなも助けてくれて……あ、こんなの管理人に話すことじゃ……この話はここまで！それより、管理人のこと教えてください！あの伝説って……",
+    "ko": "어린 시절 기억 속의 울프팀은... 항상 본 크러셔 집단이랑 싸우고 있었어요. 오빠가 절 데리고 약을 구하러 다닐 때, 울프팀 사람들도 정말 많이 도와줬는데... 아, 관리자님 앞에서 이러는 건 예의가 아닌 것 같네요. 이 얘긴 여기까지! 대신 관리자님의 얘기를 들려주시면 안 될까요? 제가 이런 걸 들었거든요! 그게 뭐냐면..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_about_line01",
+   "title": {
+    "en": "Topic: The Endministrator",
+    "zh-TW": "話題：管理員",
+    "zh-CN": "话题：管理员",
+    "ja": "管理人について",
+    "ko": "관리자에 관하여"
+   },
+   "text": {
+    "en": "\"Originium will carve a path for us.\" Ah... I-I was just practicing... Oh, no, no... Will you hate me for this? I know learning from you isn't just about copying... I just thought ... it sounded really cool...",
+    "zh-TW": "「源石會開闢道路。」啊……我、我只是試著說一下，完了完了……不會被管理員討厭吧？我知道學習管理員不是一味地模仿這麼簡單，我只是覺得……這樣確實很帥氣……",
+    "zh-CN": "“源石会开辟道路。”啊……我、我只是试着说一下，完了完了……不会被管理员讨厌吧？我知道学习管理员不是一味地模仿这么简单，我只是觉得……这样确实很帅气……",
+    "ja": "「源石が道を開いてくれるはずだ」……わっ！ちょっと言ってみただけなんです！違うんです！……嫌いになったりとか……しませんよね？真似っこしたって学べるわけじゃないってわかってるんですけど、かっこよすぎて……！",
+    "ko": "\"오리지늄이 길을 열어줄 거야...\" 아! 그, 그냥 한번 따라 해 본 거예요. 어, 어떡해... 절 미워하진 않으실 거죠? 저도 알아요, 겉모습만 따라 한다고 관리자님처럼 될 수는 없다는 걸... 그치만 그냥... 멋있어 보여서..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_about_line02",
+   "title": {
+    "en": "Topic: Codename",
+    "zh-TW": "話題：代號",
+    "zh-CN": "话题：代号",
+    "ja": "コードネームについて",
+    "ko": "코드네임에 관하여"
+   },
+   "text": {
+    "en": "As a Pack member, I could use my granted name as a codename like my brother does, but ... I haven't really been called that by anyone outside the clan yet, so it might feel a bit embarrassing. And \"Rossina\" just sounds too childish ... no way I'm using that! I ended up going with \"Rossi\" as my codename, after the color of my cloak.",
+    "zh-TW": "我也可以像哥哥一樣使用狼群的授名作為代號，但……我還沒怎麼被氏族以外的人那麼叫過，有點不好意思。直接用「洛西娜」的話又會顯得太小孩子氣，我才不要！所以，我就用了「洛西」作為自己的代號，那代表著我斗篷的顏色。",
+    "zh-CN": "我也可以像哥哥一样使用狼群的授名作为代号，但……我还没怎么被氏族以外的人那么叫过，有点不好意思。直接用“洛茜娜”的话又会显得太小孩子气，我可不要！所以，我就用了“洛茜”作为自己的代号，那代表着我斗篷的颜色。",
+    "ja": "お兄ちゃんみたいに狼群からもらった名前をコードネームにしようかなって思ったんですけど……狼群以外の人から呼ばれたことないし、ちょっと恥ずかしくって。「ロッシーナ」は子どもっぽいから絶対無し。だから「ロッシ」にしました。このマントの色とおんなじ名前です！",
+    "ko": "저도 오빠처럼 울프팀에서 부여받은 이름을 코드네임으로 쓸 수는 있지만, 울프팀이 아닌 사람들한테 그렇게 불려본 적이 없어서... 좀 부끄러워요. 근데 그냥 '로시나'라고 불리는 것도 애 같아서 싫거든요. 그래서 제 코드네임은 망토 색에서 따온 '로시'로 정했어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_about_line03",
+   "title": {
+    "en": "Topic: The Bonekrusher Clan",
+    "zh-TW": "話題：碾骨氏族",
+    "zh-CN": "话题：碾骨氏族",
+    "ja": "ボーンクラッシャーについて",
+    "ko": "본 크러셔 집단에 관하여"
+   },
+   "text": {
+    "en": "I won't let a single one of those Bonekrusher brutes get away! This is a blood feud between the Pack and the Bonekrushers. Too many wolves, too many family members, died at their hands just to save me. This is the Pack's vengeance, and mine too. We're the clan that holds grudges longest in this world, and one day, we will settle this score!",
+    "zh-TW": "我不會放過哪怕一個碾骨氏族的暴虐之徒！這是狼群和碾骨之間的世仇。為了救下我，有太多狼……太多家人死在了碾骨手下。這是狼群的仇恨，也是我的仇恨。狼群是這個世界上最記仇的氏族，終有一天，我們會算清這筆帳！",
+    "zh-CN": "我不会放过哪怕一个碾骨氏族的暴虐之徒！这是狼群和碾骨之间的世仇。为了救下我，有太多狼……太多家人死在了碾骨手下。这是狼群的仇恨，也是我的仇恨。狼群是这个世界上最记仇的氏族，终有一天，我们会算清这笔账！",
+    "ja": "ボーンクラッシャーみたいに残虐非道な連中、絶対に許さない。狼群とボーンクラッシャーの間の因縁は代々続いてて……アタシを助けようって、多くの狼……仲間が命を落としました。狼群の恨みは、アタシの恨み……必ず、借りを返してやる……！",
+    "ko": "본 크러셔 집단... 전 그 나쁜 녀석들을 절대 용서하지 않을 거예요! 울프팀과 본 크러셔 사이의 원한은 끝난 게 아니니까요. 절 구하려던 수많은 사람이 본 크러셔의 손에 죽음을 맞이했어요. 이건 울프팀에게 남겨진 원한이기도 하지만, 저한테 주어진 원한이기도 해요. 울프팀은 이런 원한을 절대 잊지 않아요. 언젠가... 꼭 이 빚을 갚겠어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_about_line04",
+   "title": {
+    "en": "Topic: Cape",
+    "zh-TW": "話題：斗篷",
+    "zh-CN": "话题：斗篷",
+    "ja": "マントについて",
+    "ko": "망토에 관하여"
+   },
+   "text": {
+    "en": "It's stained with the blood of my kindred ... but to me, every time I touch it, I feel an incredible sense of peace, as if they never really left. This cloak burns, reminding me never to forget the vendetta, but it also gives me courage, and the warmth of family... Yes, they're always with me.",
+    "zh-TW": "那上面沾染著族人的鮮血……但對我來說，每當觸碰到它時，我就會感到無比的安心，彷彿那些族人們不曾離我遠去。這件斗篷刺痛著我，提醒我絕不忘記仇恨，但它也給予了我勇氣，還有家人的溫暖……嗯，他們一直陪伴著我。",
+    "zh-CN": "那上面沾染着族人的鲜血……但对我来说，每当触碰到它时，我就会感到无比的安心，仿佛那些族人们不曾离我远去。这件斗篷刺痛着我，提醒我决不忘记仇恨，但它也给予了我勇气，还有家人的温暖……嗯，他们一直陪伴着我。",
+    "ja": "このマント……狼群の血が染み込んでて――でも、アタシにとってはみんなが遠くに行ったわけじゃないんだって安心できるものでもある。痛みを与えて、恨みを忘れるなって思わせてくれて――けど、勇気と温もりをくれるものでもある……うん、みんな、ずっと一緒にいてくれてるんだよね。",
+    "ko": "여기엔 울프팀의 피가 스며들어 있어요... 근데, 어쩐지 만질 때마다 마음이 편해져요. 모두가... 제 곁에 있는 것처럼요. 원한을 다시 마음속 깊이 새기면서도, 용기를 주고 동료와 가족의 따뜻함을 안겨주는 망토... 음, 틀린 말은 아니네요. 전 항상 울프팀이랑 함께니까요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_about_line05",
+   "title": {
+    "en": "Topic: Collectibles",
+    "zh-TW": "話題：收集品",
+    "zh-CN": "话题：收集品",
+    "ja": "コレクションについて",
+    "ko": "수집품에 관하여"
+   },
+   "text": {
+    "en": "I used to keep all the daggers and coins I collected in a special treasure box, but I lost it during the move… What's worse is it had some really embarrassing stuff inside — crafts I made as a kid. It took me forever to find the box again. Now I can store everything safely on Dijiang! Better yet, I can use storing things as an excuse to hang out with the big brothers and sisters here. No … I mean, to study here!",
+    "zh-TW": "我之前把收集來的匕首跟錢幣都放進了一個特製的寶箱裡，結果因為搬家弄丟了……裡面還有些不能見人的東西……是小時候做的手工。我費了好大功夫才把寶箱找回來。現在我可以把東西都存放在帝江號上啦！也可以用存東西當理由來找哥哥姐姐們玩。啊，不對……是來學習！",
+    "zh-CN": "我之前把收集来的匕首跟钱币都放进了一个特制的宝箱里，结果由于搬家弄丢了……里面还有些不能见人的东西……是小时候做的手工。我费了好大劲才把宝箱找回来。现在我可以把东西都存放在帝江号上啦！也可以拿存东西当理由来找哥哥姐姐们玩。啊，不对……是来学习！",
+    "ja": "前に集めてた短剣とかコインとか、特製の宝箱にしまってたんですけど、引っ越しのときになくしちゃって……子どもの頃に作った手作りのやつとか、誰にも見せたくないものもあったのに……それで、頑張って探し出したんです！今は帝江号に保管できますから！そのために帝江号行くって言ったら、みんなに遊んでもらえ……あ、違った！勉強！勉強のため！",
+    "ko": "전에는 전 단검이랑 동전을 특별 제작된 보물 상자에 모아두곤 했어요. 근데 그걸 이사하다가 잃어버린 거 있죠? 어릴 때 만들어서 보여주기 부끄러운 물건들도 있었는데! 그래도 다행히 보물 상자를 찾았고, 앞으론 제강호에 놔둘 거라 안심이 돼요. 물건을 두러 온다는 핑계로 제강호로 와서 언니 오빠들이랑 놀 수도 있고요. 아, 아니... 배우러 오는 거죠!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_about_line06",
+   "title": {
+    "en": "Topic: Wilderness Dwellers",
+    "zh-TW": "話題：荒野上的人",
+    "zh-CN": "话题：荒野上的人",
+    "ja": "荒野の人について",
+    "ko": "황무지의 사람들에 관하여"
+   },
+   "text": {
+    "en": "Everything people do in the wilderness is just to survive. Sometimes I saw kids my age doing terrible things just to get by... Sometimes even Landbreakers took desperate risks simply to stay alive. I think everyone should be able to live by their own choices. Endmin, can Endfield change all this, so those kids can pursue their dreams like I do?",
+    "zh-TW": "荒野上的人所做的一切都是為了活下去，有時還能看到和我一樣大的孩子在做壞事……哪怕是那些裂地者，有時鋌而走險也只是為了生存。我覺得任何人都應該按自己的想法活著，但是……管理員，終末地是不是能改變這一切，讓那些孩子也能和我一樣去做自己想做的事呢？",
+    "zh-CN": "荒野上的人所做的一切都是为了活下去，有时还能看到和我一样大的孩子在做坏事……哪怕是那些裂地者，有时铤而走险也只是为了生存。我觉得任何人都应该按自己的想法活着，但是……管理员，终末地是不是能改变这一切，让那些孩子也能和我一样去做自己想做的事呢？",
+    "ja": "荒野の人は、生きるための行動しかしない。アタシと同じくらいの子が悪いことをしてるのも見るし、ランドブレーカーだって……生きるために危険を冒しているのは同じ。みんなが自分の思うままに生きられたらって思うんですけど、管理人……エンドフィールドなら、変えることができますよね？あの子たちも、アタシと同じように自分のやりたいことができるようになりますよね？",
+    "ko": "황무지의 삶은 살아남기 위한 발버둥의 연속이에요. 저랑 비슷한 또래의 아이들이 생존을 위해 잘못된 길을 걷는 것도 쉽게 볼 수 있죠... 어쩌면 랜드브레이커들도 살기 위해서 나쁜 짓을 저지를 뿐일지도 몰라요. 전 누구에게나 자기 뜻대로 살 권리가 있다고 생각하거든요... 엔드필드라면 이런 상황을 바꿀 수 있지 않을까요? 그 아이들도 저처럼 하고 싶은 걸 하면서 살아갈 수만 있다면..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Trust me, something good is over there!",
+    "zh-TW": "相信我，那邊肯定有好東西！",
+    "zh-CN": "相信我，那边肯定有好东西！",
+    "ja": "アタシを信じて！絶対いいものあるって！",
+    "ko": "한번 믿어봐, 저쪽에 좋은 게 있을 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "The Pack never overlooks any resources in the wild. Keep an eye on that area!",
+    "zh-TW": "狼群不會遺漏任何荒野中的資源，注意那邊！",
+    "zh-CN": "狼群不会遗漏任何荒野中的资源，留意那边！",
+    "ja": "狼群は資源を見逃したりしないんだから！ほら、あっち！",
+    "ko": "울프팀은 황무지의 어떤 자원도 놓치지 않아, 저쪽으로 가 보자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "There's a strange smell over there. Let's go check it out!",
+    "zh-TW": "那邊有奇怪的氣味，去看看吧！",
+    "zh-CN": "那边有奇怪的气味，去看看吧！",
+    "ja": "あそこの匂い、ちょっと気になる……行って来るね！",
+    "ko": "저쪽에서 수상한 냄새가 나, 같이 가 보자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Smells like danger. Should we engage?",
+    "zh-TW": "有危險的味道，要上嗎？",
+    "zh-CN": "有危险的味道，要上吗？",
+    "ja": "危なそうな匂いがするけど、どうするの？",
+    "ko": "위험한 냄새가 나, 어떻게 할까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Can you spare a few of those stones for me? I want to inlay them into my dagger.",
+    "zh-TW": "能分給我幾塊這樣的石頭嗎？我想把它們鑲嵌在匕首上。",
+    "zh-CN": "能分给我几块这样的石头吗？我想把它们镶嵌在匕首上。",
+    "ja": "その石、ちょっとだけ欲しくって……この短剣の飾りにちょうど良さそうだなって。",
+    "ko": "몇 개 나눠 주면 안 돼? 단검에 달면 예쁠 것 같은데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Let's do this together. We'll finish this work in no time!",
+    "zh-TW": "大家一起來，工作很快就結束了！",
+    "zh-CN": "大家一起来，工作很快就结束了！",
+    "ja": "みんなでやれば、あっという間に終わるんだから！",
+    "ko": "다같이 하면 빨리 끝낼 수 있을 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Hmm ... I was thinking if it won't open, maybe I could try biting it.",
+    "zh-TW": "嗯……我本來想著如果打不開的話，可以試試咬一口。",
+    "zh-CN": "嗯……我本想着如果打不开的话，可以试试咬一口。",
+    "ja": "うーん……開かないなら、噛んで開けようかなって思ったけど。",
+    "ko": "오... 안 열리면 이로 열어볼까 했는데!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Why do some Aurylene float around while others just stay still? It's marvelous.",
+    "zh-TW": "為什麼有的醚質總會飛來飛去，有的卻靜止不動呢？真神奇。",
+    "zh-CN": "为什么有的醚质总会飞来飞去，有的却静止不动呢？真神奇。",
+    "ja": "なんでオーリレンって飛んでいくのと止まってるのがあるんだろ。ほんっと、不思議……",
+    "ko": "오리렌은 날아다니는 것도 있고, 가만히 있는 것도 있네... 신기하다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "All done! No more of that annoying Blight!",
+    "zh-TW": "搞定啦！再也沒有這些煩人的侵蝕啦！",
+    "zh-CN": "搞定啦！再也没有这些恼人的侵蚀啦！",
+    "ja": "これで終わり！侵蝕は全部消せたはず！",
+    "ko": "끝! 이제 침식 걱정은 안 해도 되겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Eat well, sleep well, rest well. That's the wisdom of the Pack!",
+    "zh-TW": "好好吃飯，好好睡覺，好好休息。這是群狼的智慧！",
+    "zh-CN": "好好吃饭，好好睡觉，好好休整。这是群狼的智慧！",
+    "ja": "よく食べて、よく寝て、よく休む。これが狼の生きる知恵なんだから！",
+    "ko": "잘 먹고, 잘 자고, 잘 쉬고! 이게 바로 늑대의 지혜지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Quick, use these to recover!",
+    "zh-TW": "快，用這些來恢復！",
+    "zh-CN": "快，用这些来恢复！",
+    "ja": "はい、これで回復して！",
+    "ko": "빨리 이걸로 회복해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "I feel much better now!",
+    "zh-TW": "真有效，我好多了！",
+    "zh-CN": "真有效，我好多了！",
+    "ja": "すっごい効き目……楽になった！",
+    "ko": "...휴, 이젠 괜찮아졌어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Careful! Something's coming!",
+    "zh-TW": "小心！有點不對勁！",
+    "zh-CN": "小心！有些不对劲！",
+    "ja": "危ない！変だよ！",
+    "ko": "위험해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "No time ... to lick my wounds now...",
+    "zh-TW": "不行……沒時間舔傷口了……",
+    "zh-CN": "不行……没时间舔伤口了……",
+    "ja": "だめ……傷、舐めてる時間もない……",
+    "ko": "으윽... 치료해야 하는데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "The Pack ... won't let this slide...",
+    "zh-TW": "狼群……不會就此作罷的……",
+    "zh-CN": "狼群……不会就此作罢的……",
+    "ja": "狼群は……こんなふうに終わったりしない……",
+    "ko": "울프팀은... 포기하지 않아..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Nice hit!",
+    "zh-TW": "漂亮的一擊！",
+    "zh-CN": "漂亮的一击！",
+    "ja": "完璧に決まったんじゃない？",
+    "ko": "멋진 공격이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Whoa! Perfect teamwork!",
+    "zh-TW": "哇！完美的配合！",
+    "zh-CN": "哇啊！完美的配合！",
+    "ja": "うん、連携バッチリ！",
+    "ko": "와! 호흡이 완벽했어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Hehehe, I've got better tricks up my sleeve!",
+    "zh-TW": "嘿嘿嘿，還有更厲害的呢！",
+    "zh-CN": "嘿嘿嘿，还有更厉害的呢！",
+    "ja": "えへへ……アタシ、まだまだやれるんだからね！",
+    "ko": "헤헤... 더 멋진 것도 할 수 있어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "This is the fight we want!",
+    "zh-TW": "這就是我們要的成果！",
+    "zh-CN": "这就是我们要的成果！",
+    "ja": "これが「望んだ結果」ってこと！",
+    "ko": "내 생각대로야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "The blood of the Pack is boiling!",
+    "zh-TW": "群狼的血液在沸騰！",
+    "zh-CN": "群狼的血液在沸腾！",
+    "ja": "湧き立て、狼の血！",
+    "ko": "늑대의 피가 끓는다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Wouldn't wanna miss out on this hunt!",
+    "zh-TW": "我可不想錯過這次狩獵！",
+    "zh-CN": "我可不想错过这次狩猎！",
+    "ja": "狩りのチャンス、逃さないんだから！",
+    "ko": "절대 놓치지 않아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "The name of the Pack will echo across the land!",
+    "zh-TW": "狼群之名終將響徹大地！",
+    "zh-CN": "狼群之名终将响彻大地！",
+    "ja": "狼群の名は、必ず大地に響き渡る！",
+    "ko": "울프팀의 이름이 대지에 울려 퍼질 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "Learned your lesson? This is what happens when you mess with the Pack!",
+    "zh-TW": "給我記好了，這就是招惹狼群的下場！",
+    "zh-CN": "给我记好了，这就是招惹狼群的下场！",
+    "ja": "覚えといてよね。狼群を怒らせたらこうなるんだって。",
+    "ko": "잘 기억해, 울프팀을 건드린 대가다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Heh-heh-heh. With me around, victory is a sure thing!",
+    "zh-TW": "哼哼哼，因為我也在嘛！",
+    "zh-CN": "哼哼哼，因为我也在嘛！",
+    "ja": "えへへ、アタシも頑張ったから……！",
+    "ko": "헤헷, 내가 있어서 이긴 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "They bit deep, but the Pack isn't afraid of more scars!",
+    "zh-TW": "狼群從不畏懼留下傷痕！",
+    "zh-CN": "狼群从不畏惧留下伤痕！",
+    "ja": "狼群は、傷を恐れたりなんかしない！",
+    "ko": "울프팀은 도전을 두려워하지 않아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "This little setback means nothing... I, Rossina won't give up!",
+    "zh-TW": "這點失敗不算什麼，洛西娜……我是不會放棄的！",
+    "zh-CN": "这点失败不算什么，洛茜娜……我是不会放弃的！",
+    "ja": "こんなの、大したことない。ロッシーナ……アタシ、絶対諦めない！",
+    "ko": "이 정도 실패는 별거 아냐. 이 로시나한테... 포기란 없어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Get ripped!",
+    "zh-TW": "扯碎你！",
+    "zh-CN": "扯碎你！",
+    "ja": "引き裂いてやる！",
+    "ko": "찢어버리겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Tremble!",
+    "zh-TW": "顫抖吧！",
+    "zh-CN": "颤抖吧！",
+    "ja": "震えてろ！",
+    "ko": "꿇어라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Tear them apart!",
+    "zh-TW": "撕咬吧，狼魂！",
+    "zh-CN": "撕咬吧，狼魂！",
+    "ja": "狼の魂よ、噛みつけ！",
+    "ko": "늑대의 영혼, 물어뜯어라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Hunting time!",
+    "zh-TW": "獵殺時刻！",
+    "zh-CN": "猎杀时刻！",
+    "ja": "狩りの時間だ！",
+    "ko": "사냥할 시간이다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Scorching claws!",
+    "zh-TW": "灼熱的爪痕！",
+    "zh-CN": "灼热的爪痕！",
+    "ja": "灼熱の爪痕！",
+    "ko": "타오르는 발톱!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "We'll hunt them down!",
+    "zh-TW": "你逃不出狼的追殺！",
+    "zh-CN": "你逃不出狼的追杀！",
+    "ja": "狼から逃げられると思った？",
+    "ko": "늑대는 놓치지 않아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "I'll make them fear!",
+    "zh-TW": "讓我看見你的恐懼！",
+    "zh-CN": "让我看见你的恐惧！",
+    "ja": "怖い？その顔、見せてよ！",
+    "ko": "공포를 알려주지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "No escape!",
+    "zh-TW": "想往哪跑？",
+    "zh-CN": "想往哪儿跑？",
+    "ja": "逃げられないんだから！",
+    "ko": "어딜 도망치려고?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "I got you!",
+    "zh-TW": "逮到你了！",
+    "zh-CN": "逮到你了！",
+    "ja": "捕まえた！",
+    "ko": "잡았다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Down you go!",
+    "zh-TW": "倒下吧！",
+    "zh-CN": "倒下吧！",
+    "ja": "倒れろ！",
+    "ko": "쓰러져라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Awoo!",
+    "zh-TW": "嗷嗚！",
+    "zh-CN": "嗷呜！",
+    "ja": "アオーン！",
+    "ko": "아우!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Seethe, blood of the Pack!",
+    "zh-TW": "蒸騰吧，群狼之血！",
+    "zh-CN": "蒸腾吧，群狼之血！",
+    "ja": "湧き上がれ――狼の血よ！",
+    "ko": "끓어올라라, 늑대의 피여!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "The blade is me!",
+    "zh-TW": "我是利刃的化身！",
+    "zh-CN": "我是利刃的化身！",
+    "ja": "アタシが刃なんだからね！",
+    "ko": "칼날의 화신, 강림!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0028_wulfa_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Wolf spirits, stand with me.",
+    "zh-TW": "群狼之魂，與我同在。",
+    "zh-CN": "群狼之魂，与我同在。",
+    "ja": "狼の魂よ、共にあれ！",
+    "ko": "늑대의 영혼이 나와 함께하리라!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_map01_lv006_1",
+   "topic": {
+    "en": "The Rescue Mission",
+    "zh-TW": "救援行動",
+    "zh-CN": "救援行动",
+    "ja": "救援行動",
+    "ko": "구조 작전"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Incredible, Endmin! You saved plenty of lives again!",
+      "zh-TW": "不愧是管理員！你又拯救了大家！",
+      "zh-CN": "不愧是管理员！你又拯救了大家！",
+      "ja": "管理人、さすがです！またみんなを救ってくださったんですね！",
+      "ko": "역시 관리자님! 또 모두를 구하셨군요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You did great as well, Rossi.",
+      "zh-TW": "洛西也有很大的功勞。",
+      "zh-CN": "洛茜也有很大的功劳。",
+      "ja": "ロッシもよく頑張ったね。",
+      "ko": "로시도 정말 큰 역할을 했지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Did the Endmin just approve?? Grazie! I gotta keep this up!",
+      "zh-TW": "竟然被管理員誇獎了！我要繼續努力才可以！",
+      "zh-CN": "竟然被管理员夸赞了！我要继续努力才行！",
+      "ja": "管理人に褒めてもらえるなんて……アタシ、もっと頑張らないと……！",
+      "ko": "관리자님한테 칭찬까지 받다니! 더 열심히 해야겠네요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Don't you worry, Endmin. Go and fulfill your duties. I'll help Surgeon Yue and Alia take care of everyone in the Origin Lodespring!",
+      "zh-TW": "管理員放心，你去完成你的使命，我會幫越醫生、阿麗婭照顧好礦脈源區的大家的！",
+      "zh-CN": "管理员放心，你去完成你的使命，我会帮越医生、阿丽娅照顾好矿脉源区的大家的！",
+      "ja": "管理人、安心してください！鉱山エリアのみんなは、アタシがユエ先生とアリアと一緒に、ちゃんと守りますから！",
+      "ko": "이제는 안심하시고 관리자님의 사명을 완수하세요. 저는 월 선생님, 아리야랑 함께 광맥 구역 사람들을 잘 돌보고 있을게요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Much appreciated.",
+      "zh-TW": "你辛苦了。",
+      "zh-CN": "你辛苦了。",
+      "ja": "うん、頼んだからね。",
+      "ko": "너도 고생했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Hah! I'm always up for a challenge! You should thank Surgeon Yue for his special contingency SAR plan!",
+      "zh-TW": "嘿嘿，我不辛苦！多虧了越醫生的緊急時期特殊救援方案！",
+      "zh-CN": "嘿嘿，我不辛苦！多亏了越医生的紧急时期特殊救援预案！",
+      "ja": "へへ……任せてください！実は、ユエ先生が、「緊急時特別救援プラン」っていうのを考えてくれてて……",
+      "ko": "헤헤, 저는 안 힘들어요! 월 선생님의 긴급 시기 특수 구호 플랜 덕분이죠!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "I was only able to move the injured thanks to the Emergency SAR Route. Saved a lot of time. And lives.",
+      "zh-TW": "緊急救援路線讓我能快速地運送傷患，爭取到更多寶貴的時間。",
+      "zh-CN": "应急救援路线让我能快速地运送伤患，争取到更多宝贵的时间。",
+      "ja": "だから、その道を通って、ケガしてる人たちをすぐに運べたんです！こういうとき、時間が一番大切ですから！",
+      "ko": "응급 구조 경로 덕에 부상자를 빠르게 이송해서 시간을 조금이라도 더 벌 수 있었어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "The crew mates also get plenty of professional training in first aid and SAR. Everyone's doing their part after the disaster...",
+      "zh-TW": "工人們平常也經過專業的急救訓練和救援演習，災難發生後都在積極行動……",
+      "zh-CN": "工人们平时也经过专业的急救训练和救援演习，灾难发生后都在积极行动……",
+      "ja": "作業員のみんなも、いつも応急処置とか救援の演習を受けてるからって、すごく積極的に動いてくれて……",
+      "ko": "작업자들도 평소 전문 응급 구조 교육이랑 구조 훈련을 받아서, 재해가 터지자마자 다들 적극적으로 움직였죠..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Wow. This Surgeon Yue sounds like he's built different.",
+      "zh-TW": "越醫生真厲害耶。",
+      "zh-CN": "越医生真厉害呢。",
+      "ja": "ユエ先生は本当にすごいね。",
+      "ko": "월 선생님은 정말 대단하시네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Indeed! He's from HAS. Heard that's where they built him like that.",
+      "zh-TW": "嗯！不愧是宏科院的醫生！",
+      "zh-CN": "嗯！不愧是宏科院的医生！",
+      "ja": "はい！さすが、宏科院のお医者さんだなって！",
+      "ko": "네! 역시 홍산 과학원의 의사네요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Oh! Endmin! Alia needs me to deliver a batch of med supplies. Sorz! gtg!",
+      "zh-TW": "啊！管理員！阿麗婭需要我去運送一批醫療物資，我先去忙啦！抱歉！",
+      "zh-CN": "啊！管理员！阿丽娅需要我去运送一批医疗物资，我先去忙啦！抱歉！",
+      "ja": "あっ、そうだ！アタシ、アリアに頼まれて医療物資を運びに行かなきゃなんでした……",
+      "ko": "아! 관리자님! 아리야가 의료 물자를 옮겨 달라네요! 그럼 저 먼저 가볼게요! 미안해요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "I rly wanted to keep chatting, Endmin...",
+      "zh-TW": "還想跟管理員聊更多呢……",
+      "zh-CN": "还想和管理员聊更多来着……",
+      "ja": "本当は、管理人ともっともっとお話したかったのに……ごめんなさい！",
+      "ko": "원래 관리자님이랑 더 얘기하고 싶었는데..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "We can always continue this convo once you find the time, Rossi.",
+         "zh-TW": "洛西有空的話，隨時都可以來找我。",
+         "zh-CN": "洛茜有空的话，随时都可以来找我。",
+         "ja": "ロッシの都合がいいときに、いつでも連絡して。",
+         "ko": "로시가 시간만 되면, 언제든 날 찾아와도 돼."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Don't worry. There is always another chance down the road.",
+         "zh-TW": "沒關係，以後有的是機會！",
+         "zh-CN": "没事，以后有的是机会！",
+         "ja": "大丈夫。これからまだまだ時間はあるから。",
+         "ko": "괜찮아, 기회는 언제든 있으니까!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "You're so nice, Endmin!",
+      "zh-TW": "管理員實在是太好啦！",
+      "zh-CN": "管理员实在是太好啦！",
+      "ja": "わあ……管理人って、やっぱり本当に最高です……！！",
+      "ko": "관리자님은 정말 최고예요!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0028_wulfa_1",
+   "topic": {
+    "en": "Injured Beast",
+    "zh-TW": "受傷的動物",
+    "zh-CN": "受伤的动物",
+    "ja": "傷ついた動物",
+    "ko": "다친 동물"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Endmin! Um ... are you, like, free to talk right now?",
+      "zh-TW": "管理員！那個……現在找您聊天，會打擾到您嗎？",
+      "zh-CN": "管理员！那个……现在找您聊天，会打扰到您吗？",
+      "ja": "管理人！あの……今お話しても、ご迷惑じゃないですか？",
+      "ko": "관리자님! 혹시... 방해가 안 된다면 잠깐 얘기할 수 있을까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Sure. What's up?",
+      "zh-TW": "不會，有什麼想聊的嗎？",
+      "zh-CN": "不会，有什么想聊的吗？",
+      "ja": "うん、大丈夫だよ。何か話したいことがあるのかな。",
+      "ko": "응, 괜찮아. 무슨 일이야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Oh, good! So, I found this fowlbeast...",
+      "zh-TW": "那太好了！其實是，我撿了一隻羽獸回來……",
+      "zh-CN": "那太好了！是这样的，我捡回来了一只羽兽……",
+      "ja": "本当ですか！実は、羽獣を拾ったんですけど……",
+      "ko": "감사합니다! 그게... 사실은 나갔다가 파울비스트 한 마리를 주웠어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "It got hurt crossing the storm and can't fly anymore.",
+      "zh-TW": "牠在穿過暴雨時受傷了，飛不起來了。",
+      "zh-CN": "它在穿过暴雨时受伤了，没办法再飞起来。",
+      "ja": "嵐を越えるときに傷ついて、飛べなくなってしまったみたいで……",
+      "ko": "폭풍우를 뚫고 지나다가 다친 거 같아요. 날지를 못하더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Arclight helped me bandage it up. She said it'll take a while for it to heal completely.",
+      "zh-TW": "弧光姐姐幫我把牠包紮了傷口，她說還要一段時間，羽獸的傷才能恢復。",
+      "zh-CN": "弧光姐姐帮我为它包扎了伤口，她说还要一段时间，羽兽的伤才能恢复。",
+      "ja": "アークライト姉さんが手当てをしてくれたんですけど、治るまでにちょっと時間がかかるみたいなんです。",
+      "ko": "아크라이트 언니가 상처 부위를 처치해 주긴 했는데, 회복되려면 시간이 좀 필요하대요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Endmin, I'd like to...",
+      "zh-TW": "管理員……我想……",
+      "zh-CN": "管理员……我想……",
+      "ja": "管理人……アタシ……その……",
+      "ko": "그래서 말인데요, 관리자님... 혹시..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You wanna keep it?",
+         "zh-TW": "你想飼養這隻羽獸？",
+         "zh-CN": "你想饲养这只羽兽？",
+         "ja": "飼いたいってことかな。",
+         "ko": "그 파울비스트를 키우고 싶다고?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "No way. I hate seeing it cooped up in a cage.",
+         "zh-TW": "不，我不喜歡看到牠被關在籠子裡的樣子。",
+         "zh-CN": "不，我不喜欢看到它关在笼子里的样子。",
+         "ja": "そ、そうじゃなくって……アタシ、かごに閉じ込めちゃうのは可哀想だと思うんです。",
+         "ko": "아니요, 그 아이가 우리에 갇혀 있는 모습을 보고 싶진 않아요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "I think ... the fowlbeasts I really like are the ones flying free and happy up in the sky.",
+         "zh-TW": "我覺得，在天上無憂無慮飛翔的羽獸，才是我喜歡的羽獸。",
+         "zh-CN": "我觉得，在天上无忧无虑飞翔的羽兽，才是我喜欢的羽兽。",
+         "ja": "空を自由に飛んでるほうが羽獣らしいなって思って……アタシ、そういう羽獣が好きです。",
+         "ko": "전 아무 걱정 없이 마음껏 하늘을 날아다니는 파울비스트가 좋아요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "But it can't fly right now... I was thinking of letting it stay on the Dijiang for a while.",
+         "zh-TW": "但牠現在飛不了……我想把牠留在帝江號上一陣子。",
+         "zh-CN": "但它现在飞不了……我想把它留在帝江号上一阵子。",
+         "ja": "でも、今は飛べなくなっちゃってるから……しばらく帝江号で休ませてあげられたらって……",
+         "ko": "하지만 지금은 날지 못하니까... 잠시 제강호에서 지내게 하면서 돌봐주고 싶어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Once it's all healed up, I'll take it to find a new home. Is that okay, Endmin?",
+         "zh-TW": "等牠的傷養好了，我就帶牠去找一個新家。可以嗎，管理員？",
+         "zh-CN": "等它的伤养好了，我就带它去找一个新家。可以吗，管理员？",
+         "ja": "ケガが治ったら、一緒に新しいお家を探してあげたいって思ってます。管理人、いいですか……？",
+         "ko": "상처가 다 낫고 나면 바로 새집을 찾아줄게요. 그래도 될까요, 관리자님?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You wanna find it a new home?",
+         "zh-TW": "你想幫牠找個新家？",
+         "zh-CN": "你想为它找个新家？",
+         "ja": "新しい住み家を探してあげたいとか？",
+         "ko": "그 아이의 새집을 찾아주고 싶다고?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Hmm... It tried so hard to fly through that storm. It must have someplace it really wants to go.",
+         "zh-TW": "嗯……牠那麼努力想要穿越風暴，一定是有想前往的目標。",
+         "zh-CN": "嗯……它那么努力想要穿越风暴，一定是有想前往的目标。",
+         "ja": "えっと……アタシが見つけたとき、この子は必死で嵐を越えようとしてたんです。きっと、行きたい場所があるんだって思って。",
+         "ko": "네... 폭풍우를 뚫고 지나가려고 그렇게 애쓴 걸 보면, 분명 가려던 목적지가 있었을 거예요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "When I found it, it was still fighting to get back in the air. I kinda think that's ... pretty brave.",
+         "zh-TW": "我撿到牠的時候，牠依然努力試著飛起來。我覺得這很了不起。",
+         "zh-CN": "我捡到它的时候，它依然努力试着飞起来。我觉得这很了不起。",
+         "ja": "拾ったときも、何回も自分の力で飛ぼうとして……諦めない子なんです。",
+         "ko": "처음에 이 아이를 주웠을 때도 포기하지 않고 다시 날아오르려고 발버둥 치더라고요. 그 모습이 정말 대단해 보였어요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Can we help it? Just let it stay on the Dijiang until its injuries are better.",
+         "zh-TW": "我們可以幫幫牠嗎？在傷口癒合前，讓牠留在帝江號。",
+         "zh-CN": "我们可以帮帮它吗？在它伤口愈合前，让它留在帝江号。",
+         "ja": "管理人、お願いします……！ケガが治るまででいいですから！帝江号におかせてください！",
+         "ko": "우리가 좀 도와줄 수 없을까요? 상처가 다 나을 때까지만 제강호에서 지내게 하고 싶어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "I'll take it to find a new home by then. Is that okay, Endmin?",
+         "zh-TW": "等那之後，我會帶牠去尋找一個新家的。可以嗎，管理員？",
+         "zh-CN": "等那之后，我会带它去寻找一个新家的。可以吗，管理员？",
+         "ja": "治ったら、必ず目的地まで連れて行ってあげます。だから、管理人……",
+         "ko": "그 후에는 제가 책임지고 이 아이의 새집을 찾아줄게요. 그래도 될까요, 관리자님?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "There are rules about pets on the Dijiang, but ... if it doesn't bother anyone...",
+      "zh-TW": "帝江號上有飼養寵物的限制，不過……如果在不影響其他人的前提下……",
+      "zh-CN": "帝江号上有饲养宠物的限制，不过……如果在不影响其他人的前提下……",
+      "ja": "帝江号では、動物の持ち込みに制限をかけているけど……他の人に迷惑をかけないなら……",
+      "ko": "제강호에서는 반려동물을 키우는 게 제한되어 있긴 하지만... 다른 사람한테 피해가 가지 않는다면, 뭐..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "So... does that mean it can stay?",
+      "zh-TW": "這麼說，牠可以留下來了？",
+      "zh-CN": "这么说，它能够留下来了？",
+      "ja": "じゃあ……いいんですね！？",
+      "ko": "그럼, 당분간 여기서 지내도 된다는 거죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Yes! I knew you'd say so, Endmin!",
+      "zh-TW": "太好了！我就知道管理員會答應的。",
+      "zh-CN": "太好了！我就知道管理员会答应的。",
+      "ja": "アタシ、信じてました。管理人なら、絶対わかってくれるはずだって！",
+      "ko": "정말 감사해요! 관리자님이라면 허락해 주실 줄 알았어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Heh, you're just like I thought you'd be, Endmin.",
+      "zh-TW": "嘿嘿嘿，管理員果然跟我想像中的一樣。",
+      "zh-CN": "嘿嘿嘿，管理员果然和我想象中的一样。",
+      "ja": "えへへ。やっぱり、アタシの想像通りです。",
+      "ko": "헤헤헤, 역시 관리자님은 제가 상상한 그대로시네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What did you think I'd be like?",
+      "zh-TW": "你想像中的我是什麼樣？",
+      "zh-CN": "你想象中的我是什么样？",
+      "ja": "{F}君が想像する私は、どんな人なのかな。{M}君が想像する僕は、どんな人なんだろう。",
+      "ko": "네가 상상한 나는 어떤 모습인데?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Well ... that's kinda hard to explain right now! Anyway ... just a really great person!",
+      "zh-TW": "嗯……這個一下子也說不清楚！反正……就是很優秀的形象！",
+      "zh-CN": "嗯……这个一时半会儿说不清楚！反正……就是很优秀的形象！",
+      "ja": "うーん……正直、表現するのがすっごく難しくて……とにかく、とっても優秀で素晴らしくて最高で憧れの存在です！",
+      "ko": "음... 지금 당장 설명하기는 어려워요! 어쨌든... 아주 대단한 이미지예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Gotta go get the fowlbeast settled in now. It's so tiny and cute.",
+      "zh-TW": "我要安頓小羽獸了，牠小小的，非常可愛。",
+      "zh-CN": "我要安顿小羽兽了，它小小的，非常可爱。",
+      "ja": "じゃあ、アタシは羽獣のお世話に行ってきます！すっごく小さくて、かわいくって……",
+      "ko": "저는 이만 파울비스트를 돌보러 가볼게요. 아주 작고 귀여운 친구예요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "That's what Arclight said too! ...You should come see it sometime, Endmin!",
+      "zh-TW": "這是弧光姐姐的評價！……管理員也要來看看牠喔！",
+      "zh-CN": "这是弧光姐姐的评价！……管理员也要来看看它哦！",
+      "ja": "あ……あの、そうやってアークライト姉さんが言ってたんです！……なので、管理人もぜひ見に来てくださいね！",
+      "ko": "아, 아크라이트 언니가 그렇게 평가했었어요! 그러니까... 나중에 관리자님도 꼭 한 번 보러 오세요!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0028_wulfa_2",
+   "topic": {
+    "en": "The Pains of Becoming",
+    "zh-TW": "成長的陣痛",
+    "zh-CN": "成长的阵痛",
+    "ja": "成長の痛み",
+    "ko": "성장통"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Endmin ... do you remember that fowlbeast I brought back to the Dijiang?",
+      "zh-TW": "管理員……您還記得我帶回帝江號的那隻羽獸嗎？",
+      "zh-CN": "管理员……您还记得我带回帝江号的那只羽兽吗？",
+      "ja": "管理人……アタシが帝江号につれてきた羽獣のこと、覚えてますか……？",
+      "ko": "관리자님... 지난번에 제가 제강호에 데려왔던 파울비스트 기억하세요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "It ... didn't make it.",
+      "zh-TW": "牠……死了。",
+      "zh-CN": "它……死了。",
+      "ja": "あの子……死んじゃったんです。",
+      "ko": "그 아이가... 죽었어요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "How did that happen?",
+         "zh-TW": "怎麼回事？發生了什麼？",
+         "zh-CN": "怎么回事？发生了什么？",
+         "ja": "なにがあったの？",
+         "ko": "어떻게 된 거야? 무슨 일 있었어?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "How did this ... are you holding up?",
+         "zh-TW": "怎麼會這樣……你還好嗎？",
+         "zh-CN": "怎么会这样……你还好吗？",
+         "ja": "……ロッシ、大丈夫？",
+         "ko": "아니, 어쩌다가... 넌 괜찮아?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Sorry for bothering you with this, Endmin. I'm just ... really sad right now.",
+      "zh-TW": "抱歉，管理員，為了這種事打擾您，我只是……有點難過……",
+      "zh-CN": "抱歉，管理员，为了这种事打扰您，我只是……有点难过……",
+      "ja": "すみません、管理人にこんなことで連絡しちゃって……でも、アタシ、苦しくて……",
+      "ko": "관리자님, 이런 일로 신경 쓰이게 해서 죄송해요... 그렇지만... 마음이 좀 아파서요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Its wounds had actually healed. I took it to so many places, and it could finally fly properly again.",
+      "zh-TW": "牠的傷已經痊癒了，我帶牠去了很多地方，牠又可以正常地飛行了。",
+      "zh-CN": "它的伤已经痊愈了，我带它去了很多地方，它又可以正常地飞行了。",
+      "ja": "ケガも治って、いろんな場所に一緒に行って、また自由に飛べるようになって……",
+      "ko": "그 아이가 다 나은 후, 여기저기 많이 데리고 다녔는데, 예전처럼 잘 날아다니더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "I thought it was time to say goodbye, so I brought it back to where I found it. But I was still worried, so I asked Xaihi to fit it with a tracker... just to keep an eye on its location.",
+      "zh-TW": "我覺得分別的時候到了，所以帶牠回到了我遇到牠的地方。因為不放心，我拜託賽希姐姐幫牠裝了一個能追蹤位置的小腳環……",
+      "zh-CN": "我觉得分别的时候到了，所以带它回到了我遇见它的地方。因为不放心，我拜托赛希姐姐为它装了一个能同步位置的小脚环……",
+      "ja": "だから、そろそろお別れしなくっちゃと思って、最初に出会った場所に放したんです。でもすごく心配で、ザイヒ姉さんに位置のわかる足環をつけてもらってたんですけど……",
+      "ko": "이제 헤어질 때가 된 것 같아서, 처음 만난 곳으로 그 아이를 돌려보냈어요. 근데 여전히 마음이 안 놓여서, 자이히 언니한테 부탁해 위치 공유 발찌를 달아 줬죠..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "And yesterday, Xaihi told me its signal stopped moving. By the time I got there, it had already fallen into the pond...",
+      "zh-TW": "昨天，賽希姐姐告訴我牠突然不動了。當我趕到時，牠已經掉進池塘裡……",
+      "zh-CN": "昨天，赛希姐姐告诉我它突然不动了。当我赶到时，它已经落进池塘里……",
+      "ja": "昨日、ザイヒ姉さんが「同じ場所から動かなくなった」って……それで行ってみたら、池に……",
+      "ko": "근데, 어제 자이히 언니가 연락이 와서... 그 아이가 안 움직인다고... 제가 찾아갔을 때, 그 아이는 이미 연못에 빠져있었어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "I know it was just an accident, but...",
+      "zh-TW": "我知道這只是一場意外，只是……",
+      "zh-CN": "我知道这只是一场意外，只是……",
+      "ja": "事故だって、わかってるんです。だけど、でも……",
+      "ko": "피치 못할 사고였다는 건 알지만..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I understand how you feel. I saw it too, it had such beautiful feathers.",
+         "zh-TW": "我理解你的心情，我看過牠，那是一隻毛色很漂亮的羽獸。",
+         "zh-CN": "我理解你的心情，我见过它，那是一只毛色很漂亮的羽兽。",
+         "ja": "うん、気持ちはすごくわかるよ。毛並みがきれいで、立派な羽獣だった。",
+         "ko": "그 마음 이해해. 나도 녀석을 본 적이 있으니까... 정말 예쁜 털색을 가진 파울비스트였어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Yeah... I loved watching it fly up there. And I knew it would have to leave someday anyway.",
+         "zh-TW": "嗯……我喜歡牠在天上飛的樣子，我也知道牠總有一天會離我而去。",
+         "zh-CN": "嗯……我喜欢它飞在天上的样子，我也知道它总有一天会离我而去。",
+         "ja": "……はい。大空に羽ばたくあの姿が本当に大好きでした。いつか別れるときが来るって、わかってたのに……",
+         "ko": "네... 전 그 아이가 하늘을 나는 모습을 정말 좋아했어요... 언젠가 제 곁을 떠날 거란 것도 알고 있었죠..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Ever since I was little, goodbyes have always been a part of my life... I thought I was used to it by now.",
+         "zh-TW": "從小到大，我的身邊就總是伴隨著離別……我以為我早就習慣了。",
+         "zh-CN": "从小到大，我的身边就总是伴随着离别……我以为我早就习惯了。",
+         "ja": "小さい頃から、たくさんの別れを経験してきました。だから、慣れてるって思ってたんです。",
+         "ko": "어릴 때부터 제 곁에는 항상 이별이 함께했어요... 그래서 이별에는 이미 익숙해졌다고 생각했어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "But every single time ... it still hurts just as much.",
+         "zh-TW": "但每一次每一次，我都還是一樣難過……",
+         "zh-CN": "但每一次每一次，我都还是一样难受……",
+         "ja": "でも、そんなことなくて……やっぱり、いつでも本当につらいものなんですね……",
+         "ko": "그럼에도 매번 마음이 아픈 건 어쩔 수 없더라고요..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I know. It meant a lot to you.",
+         "zh-TW": "我知道，牠對你來說很重要。",
+         "zh-CN": "我知道，它对你来说很重要。",
+         "ja": "わかるよ。君にとって、本当に大切な存在だったんだね。",
+         "ko": "알아, 너한테 아주 소중한 존재였잖아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "I only knew it for a little while, but it felt like ... we'd been together forever. I really loved it.",
+         "zh-TW": "我只跟牠相處了很短一段時間，但我覺得……我們就像在一起了很久。我真的很喜歡牠。",
+         "zh-CN": "我只和它相处了很短一段时间，但我觉得……我们就像在一起了很久。我真的很喜欢它。",
+         "ja": "ほんの短い間一緒にいただけなのに、ずっと昔から一緒にいたみたいに思ってしまって……本当に、大好きだったんです。",
+         "ko": "함께한 시간은 짦았지만... 오래전부터 같이 있었던 것 같은 기분이 들었어요. 그 정도로 그 아이를 정말 좋아했죠."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "When I let it go, I kept telling myself, \"It's okay, I can always go find it again.\"",
+         "zh-TW": "放牠離開的時候，我一直告訴自己：「沒關係，我還可以去找牠。」",
+         "zh-CN": "让它离开的时候，我一直告诉自己：“没关系，我还可以去找它。”",
+         "ja": "別れたとき、自分に言い聞かせてました。「大丈夫、また絶対に会える」って……",
+         "ko": "그 아이랑 헤어질 때, 계속 마음속으로 되뇌었어요. '괜찮아, 언제든 다시 만나러 갈 수 있어'라고요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "I didn't realize ... that was the last time I'd ever see it.",
+         "zh-TW": "原來那時候，就是真正的離別了。",
+         "zh-CN": "原来那时，就是真正的离别了。",
+         "ja": "まさか、それが最後になるなんて、思わなかった……",
+         "ko": "그런데 그때가 영원한 이별일 줄은 몰랐어요..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Nobody ever really gets used to goodbyes. That pain ... it's just the mark they leave on your heart.",
+      "zh-TW": "沒有人能習慣離別，那些痛苦，就是離去的事物在我們心中留下的印記。",
+      "zh-CN": "没有人能习惯离别，那些痛苦，就是离去的事物在我们心中留下的印记。",
+      "ja": "別れの痛みに慣れる人なんていないよ。だって、ちゃんと心に残っているという証なんだから。",
+      "ko": "이별에 익숙한 사람은 없어. 그 고통은, 떠나간 존재들이 우리 마음속에 남긴 흔적이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Yeah ... I'm gonna hold onto this sadness, this pain, and keep it deep in my heart...",
+      "zh-TW": "嗯……我會把這些難過、這些痛楚，都深深記在心中的……",
+      "zh-CN": "嗯……我会把这些难过、这些痛楚，都深深记在心中的……",
+      "ja": "……この悲しみも痛みも、心にあの子が残ってるって証拠……",
+      "ko": "알겠어요... 지금 이 슬프고 아픈 감정을 마음속 깊이 기억할게요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "All those people, all those memories, that fowlbeast that's gone now...",
+      "zh-TW": "那些人、那些事、那隻離去的羽獸……",
+      "zh-CN": "那些人、那些事、那只离去的羽兽……",
+      "ja": "アタシ、みんなのことも、あったことも、それにあの羽獣も……",
+      "ko": "그 사람들도, 그 사건들도, 그리고 떠나간 파울비스트도..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "I'll remember them for the rest of my life.",
+      "zh-TW": "我會將他們銘記一生。",
+      "zh-CN": "我会将他们铭记一生。",
+      "ja": "全部、一生忘れません。",
+      "ko": "평생 마음속에 새길 거예요."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0028_wulfa_3",
+   "topic": {
+    "en": "Time Capsule",
+    "zh-TW": "時間膠囊",
+    "zh-CN": "时间胶囊",
+    "ja": "タイムカプセル",
+    "ko": "타임캡슐"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Endmin, there's something I wanna ask, but I don't really know how to bring it up...",
+      "zh-TW": "管理員，我有個請求，不知道怎麼開口……",
+      "zh-CN": "管理员，我有个请求，不知道怎么开口……",
+      "ja": "管理人。あの、お願いがあるんですけど……えっと……",
+      "ko": "관리자님, 부탁드리고 싶은 게 있는데, 어떻게 말씀을 드려야 할지 모르겠네요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "If it's something on your mind, Rossi, just go ahead and say it.",
+      "zh-TW": "既然是洛西的想法，儘管開口吧。",
+      "zh-CN": "既然是洛茜的想法，尽管开口吧。",
+      "ja": "ロッシのお願いなら、聞くよ。遠慮しなくていい。",
+      "ko": "로시의 부탁이라면 편하게 얘기해도 돼."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "It's nothing big, really. I just wanted to ask...",
+      "zh-TW": "不是什麼很麻煩的事，就是我想……",
+      "zh-CN": "不是什么很麻烦的事，就是我想……",
+      "ja": "あの、大したことではないんですけど、その……",
+      "ko": "별건 아니고요... 그냥..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Endmin, what do you think would make a good keepsake?",
+      "zh-TW": "想問問管理員覺得什麼比較適合當作紀念品？",
+      "zh-CN": "想问问管理员觉得什么比较适合当作纪念品？",
+      "ja": "管理人は、どんなものが記念品にふさわしいと思いますか？",
+      "ko": "기념할 만한 물건이라 하면, 뭐가 좋을지 여쭤보고 싶어서요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "A keepsake? What do you mean?",
+      "zh-TW": "紀念品？你是指？",
+      "zh-CN": "纪念品？你是指？",
+      "ja": "記念品？どういうこと？",
+      "ko": "기념할 만한 물건?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Oh ... it doesn't have to be anything fancy. It's just ... Akekuri gave me a \"time capsule\".",
+      "zh-TW": "啊……不需要是什麼貴重的東西。就是……秋栗姐姐給了我一個「時間膠囊」。",
+      "zh-CN": "啊……不需要是什么贵重的东西。就是……秋栗姐姐给了我一个“时间胶囊”。",
+      "ja": "あっ……高価なものとかじゃなくて全然大丈夫なんです！アケクリ姉さんが「タイムカプセル」をくれて……",
+      "ko": "아... 딱히 귀중한 물건일 필요는 없어요. 사실... 아케쿠리 언니가 '타임캡슐'을 줬거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "She said I could put things that really matter to me right now inside. Then open it again in ten years, or even twenty.",
+      "zh-TW": "她告訴我，可以收集一些對現在的自己具有特別意義的東西放進去。等到十年後，或者二十年後，再來打開這個「時間膠囊」。",
+      "zh-CN": "她告诉我，可以收集一些对现在的自己具有特别意义的东西放进去。等到十年后，或者二十年后，再来打开这个“时间胶囊”。",
+      "ja": "今のアタシが「特別」って思うものを入れて、10年とか、20年とか経ったときに開けてみたらいいって……",
+      "ko": "지금 나에게 가장 특별한 의미가 있는 물건들을 넣두고, 나중에 십 년이나 이십 년 후에 이 '타임캡슐'을 다시 열어보는 거라고 하면서요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "That actually sounds really cool! I'm kinda curious what future me ... grown-up me, will think of all this stuff.",
+      "zh-TW": "聽起來好像很有趣！我也有點好奇，長大後的我……變成大人的我，會怎樣看待這些東西。",
+      "zh-CN": "听上去好像很有意思！我也有些好奇，长大后的我……变成大人的我，会怎样看待这些东西。",
+      "ja": "すごく面白そうだなって思ったんです。ずーっと大人になったアタシが、それを見たときにどう思うのかなって。",
+      "ko": "들어보니 정말 재미있을 거 같았어요! 저도 미래의 내가... 어른이 된 내가 이 물건들을 보고 무슨 생각이 들지 궁금하거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "So I wanted to hear what you think too. Or maybe ... see if there's anything you'd want to leave for future me!",
+      "zh-TW": "所以，我也想聽聽管理員的想法。或者說……看看管理員有沒有什麼想留給那時的我！",
+      "zh-CN": "所以，我也想听听管理员的想法。或者说……看看管理员有没有什么想留给那时的我！",
+      "ja": "それで、管理人の考えもお聞きしたかったんです。それに、もしかして……未来のアタシに、管理人が残してくれるものがあったらって……！",
+      "ko": "그래서 관리자님의 생각도 들어보고 싶었어요. 아니면... 관리자님이 미래의 저한테 남기고 싶은 물건이 있나요?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Instead of a keepsake, I think there's something better.",
+         "zh-TW": "比起紀念品，我覺得還有更好的選擇。",
+         "zh-CN": "比起纪念品，我觉得还有更好的选择。",
+         "ja": "記念品より、もっといいやり方があると思う。",
+         "ko": "기념할 만한 물건보다 더 좋은 선택지가 있다고 생각해."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Oh... I just thought something you picked out yourself would mean more... If you don't want to, it's fine ... I shouldn't have asked in the first place...",
+         "zh-TW": "是嗎……我本來想說管理員親自挑選的紀念品會更有意義……如果管理員不想的話……真不應該貿然提出這種請求的……",
+         "zh-CN": "是吗……我本想着管理员亲自挑选的纪念品会更有意义……如果管理员不想的话……真不应该贸然提出这种请求的……",
+         "ja": "ほ、本当ですか……？アタシ、管理人が選んでくれたらすっごく特別なものになると思って……こんなお願い、管理人に失礼でしたよね……",
+         "ko": "그런가요... 관리자님이 직접 고른 물건이 더 의미가 있을 거라고 생각했는데... 관리자님이 싫어하실 줄 알았다면... 이런 부탁을 드리지 말 걸 그랬네요..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "In that case, I know just the thing.",
+         "zh-TW": "這樣的話，我想到有什麼東西最適合了。",
+         "zh-CN": "这样的话，我想到有什么东西最合适了。",
+         "ja": "そういうことなら、一番ふさわしいものを思いついたよ。",
+         "ko": "그렇다면, 가장 적합한 물건이 떠올랐어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Really? I ... I'll take anything! But something that reminds me of you would be best!",
+         "zh-TW": "真的可以嗎？我……我覺得什麼都可以！最好是能聯想到管理員的東西！",
+         "zh-CN": "真的可以吗？我……我觉得什么都行的！最好是能联想到管理员的东西！",
+         "ja": "ほ、本当ですか！？アタシ、何でも嬉しいです！でも、できれば……管理人らしくて、管理人を思い出せるものがいいです！",
+         "ko": "정말요? 저... 저는 아무거나 다 좋아요! 관리자님을 떠올릴 수 있는 물건이라면 더 좋고요!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "How about we leave some messages? Like, what present-day Rossi wants to say to future Rossi.",
+      "zh-TW": "我們來留下一些寄語吧。比如說，現在的洛西想對未來的洛西說的話。",
+      "zh-CN": "我们来留下一些寄语吧。比如说，现在的洛茜，想对未来的洛茜说的话。",
+      "ja": "メッセージを残すのはどうかな。たとえば今のロッシが、未来のロッシに伝えたい言葉でもいいと思う。",
+      "ko": "우리 메시지를 남기자. 예를 들면, 지금의 로시가 미래의 로시에게 하고 싶은 말을 남기는 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Ask that grown-up Rossi if she reached her goals. If her dreams came true.",
+      "zh-TW": "想問問那位長成大人的洛西的問題，目標是否達成了？願望是否實現了？",
+      "zh-CN": "想问问那位长成大人的洛茜的问题，目标是否达成了？愿望是否实现了？",
+      "ja": "それに、大人になった自分に聞きたいこともあるんじゃないかな。目標は達成できたのか、願いは叶ったのか……",
+      "ko": "어른이 된 로시한테 물어보는 거지. 원하는 목표는 이루었는지, 소원은 실현됐는지 말이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Ah ... future me ...",
+      "zh-TW": "啊……未來的我……",
+      "zh-CN": "啊……未来的我……",
+      "ja": "未来の……アタシに……",
+      "ko": "아... 미래의 나..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "I wanna ask my future self ... did I finally mature a little? Did I live up to the Pack's hopes?",
+      "zh-TW": "我想問問長大後的自己，有變得成熟一點嗎？有擔負起族人的願望嗎？",
+      "zh-CN": "我想问问长大后的自己，有变得成熟一些吗？有担负起族人的愿望吗？",
+      "ja": "大人になったアタシは……少しは立派になってるかな。狼群のみんなの願い、ちゃんと背負えてるかな……",
+      "ko": "그렇다면 저는 미래의 저한테 묻고 싶어요... 좀 더 성숙해졌는지, 울프팀의 책임을 짊어질 만큼 성장했는지요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Is Catello leading the clan properly? If he'd just be more reliable, I could've gone on more missions with you, Endmin...",
+      "zh-TW": "卡特洛他有好好帶領氏族嗎？他要是可靠一點，我就可以多和管理員一起行動了……",
+      "zh-CN": "卡特洛他有好好带领氏族吗？他要是可靠一些，我就可以多跟着管理员一起行动了……",
+      "ja": "キャトロはちゃんと狼群を導けてるかな……もう、ほんっと頼りないんだから。ちゃんとしてくれたら、もっと管理人と一緒にいられるのに……",
+      "ko": "카텔로는 집단을 잘 이끌고 있는지도 물어봐야겠네요. 카텔로가 좀 더 믿음직스럽다면, 저도 관리자님이랑 같이 더 많은 작전을 수행할 수 있을 테니까요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "That's stuff I wanna ask myself... I'm kinda curious what message you'd leave for me, Endmin.",
+      "zh-TW": "這都是我想問自己的話……我有點好奇，管理員想給我的寄語。",
+      "zh-CN": "这都是我想问自己的话……我有点好奇，管理员想给我的寄语。",
+      "ja": "あ、えっと……聞きたいこと、こんな感じです。管理人は、アタシにどんな言葉を残してくれますか……？",
+      "ko": "제가 저한테 묻고 싶은 질문은 이게 다예요... 관리자님이 남기고 싶은 말은 뭔지 궁금하네요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I wanna know if Rossi grew up healthy.",
+         "zh-TW": "我想知道，洛西有沒有健康長大。",
+         "zh-CN": "我想知道，洛茜有没有健康长大。",
+         "ja": "君が無事に大きくなっているか……かな。",
+         "ko": "난 로시가 건강하게 잘 자랐는지 알고 싶어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Huh, is that all...",
+         "zh-TW": "啊，就只是這樣嗎……",
+         "zh-CN": "啊，就只是这样吗……",
+         "ja": "えっ、それだけですか……？",
+         "ko": "네? 그것뿐인가요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Well ... yeah, that sounds like you, Endmin. I was too focused on all those big dreams and goals...",
+         "zh-TW": "嗯……也是呢，的確是管理員的風格。我光顧著去想那些理想和目標了……",
+         "zh-CN": "嗯……也是呢，确实是管理员的风格。我光顾着去想那些理想和目标了……",
+         "ja": "でも、確かにそうですね。アタシ、自分の理想とか目標のことばっかり考えてたけど……",
+         "ko": "음... 관리자님다운 생각이네요. 저는 오직 이상과 목표에만 정신이 쏠려있었는데..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "So what you care about most ... is just me, huh",
+         "zh-TW": "管理員最關心的，原來是我自己啊……",
+         "zh-CN": "管理员最关心的，原来是我自己啊……",
+         "ja": "管理人は、アタシ本人のことを気にかけてくれてるんですね……",
+         "ko": "관리자님이 가장 관심하시는 게 저였다니..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I wanna know if Rossi found more happiness with Endfield.",
+         "zh-TW": "我想知道，洛西在終末地有沒有更開心。",
+         "zh-CN": "我想知道，洛茜在终末地有没有更加开心。",
+         "ja": "ロッシがエンドフィールドで、楽しく過ごせているかを聞きたいかな。",
+         "ko": "로시가 엔드필드에서 행복하게 잘 지내고 있는지 알고 싶어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Of course I will!",
+         "zh-TW": "一定會的！",
+         "zh-CN": "肯定会的！",
+         "ja": "それなら、絶対大丈夫です！",
+         "ko": "당연히 그럴 거예요!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Joining Endfield itself has already given me so many surprises. Plus I get to work with ... the most awesome Endmin ever!",
+         "zh-TW": "來到終末地，已經給了我許許多多的驚喜了。而且還可以和最……最崇拜的管理員一起行動！",
+         "zh-CN": "来到终末地，已经给了我许许多多的惊喜了。而且还可以和最……最崇拜的管理员一起行动！",
+         "ja": "だって、もうすっごく嬉しくて楽しいことがいっぱいありましたから。それに、何よりも……憧れで尊敬する管理人と一緒に行動できてますし！",
+         "ko": "엔드필드에 와서 이미 너무나도 많은 행복을 느끼고 있어요. 게다가, 가장... 가장 존경하는 관리자님이랑 같이 작전을 수행하고 있잖아요!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Future Rossi will definitely feel the same way!",
+         "zh-TW": "未來的洛西一定也是這樣想的！",
+         "zh-CN": "未来的洛茜一定也是这么想的！",
+         "ja": "未来のアタシだって、絶対同じ気持ちに決まってます！",
+         "ko": "미래의 로시도 분명 그렇게 생각할 거예요!"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I wanna know if Rossi and I became even closer.",
+         "zh-TW": "我想知道，我和洛西的關係有沒有變得更好。",
+         "zh-CN": "我想知道，我有没有和洛茜变得更加要好。",
+         "ja": "君ともっと仲良くなっているかどうか……",
+         "ko": "내가 로시랑 더 친해졌는지 알고 싶어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "I ... I'm not really sure about this...",
+         "zh-TW": "這個……我也不知道……",
+         "zh-CN": "这个……我也不知道……",
+         "ja": "そ、それは……えっと、わかりません……",
+         "ko": "그건... 확신할 수 없겠네요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "I mean, it's not that I don't wanna get closer to you, Endmin!",
+         "zh-TW": "啊，並不是不想跟管理員變得更要好的意思！",
+         "zh-CN": "啊，并不是不想和管理员变得更要好的意思！",
+         "ja": "あの、その、違います！仲良くなりたくないとかじゃなくって……！",
+         "ko": "앗, 관리자님이랑 더 친해지고 싶지 않다는 뜻이 아니라요!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "I've always really looked up to you, but ... I kinda feel like this isn't really good for me.",
+         "zh-TW": "我一直很崇拜管理員，但……我其實覺得這樣下去並不好。",
+         "zh-CN": "我一直很崇拜管理员，但……我其实觉得这样下去并不好。",
+         "ja": "アタシ、管理人にずっと憧れてて……でも、このままじゃダメなんだとも思うんです。",
+         "ko": "저는 항상 관리자님을 존경해 왔잖아요. 하지만... 계속 이런 사이로만 남기는 싫거든요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "Perlica, M3, even Catello ... their relationship with you isn't like this...",
+         "zh-TW": "像佩麗卡姐姐、M3姐姐，甚至卡特洛，他們和管理員，並不是這樣的關係……",
+         "zh-CN": "像佩丽卡姐姐、M3姐姐，甚至卡特洛，他们和管理员，并不是这样的关系……",
+         "ja": "ペリカ姉さん、M3姉さん、それにキャトロも……管理人とは、そういうのとは違うっていうか……",
+         "ko": "펠리카 언니, M3 언니, 심지어 카텔로도 관리자님이랑 이런 관계가 아니잖아요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "The more I idolize you, the further I might drift away... I wanna be like them too, standing side by side with you someday, Endmin!",
+         "zh-TW": "越是崇拜下去，說不定會離管理員越遠……我也想像他們一樣，總有一天和管理員並肩而立！",
+         "zh-CN": "越是崇拜下去，说不定会离管理员更远……我也想像他们一样，总有一天和管理员并肩而立！",
+         "ja": "憧れの気持ちが大きくなるほど、管理人が遠くに行っちゃう気がするんです。アタシだって……管理人と一緒に、同じ場所に立って支えたいんです！",
+         "ko": "계속 존경만 하다 보면, 오히려 관리자님이랑 멀어질지도 몰라요... 저도 언젠가 언니 오빠들처럼, 관리자님이랑 어깨를 나란히 하고 싶어요!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Rossi",
+         "zh-TW": "洛西",
+         "zh-CN": "洛茜",
+         "ja": "ロッシ",
+         "ko": "로시"
+        },
+        "text": {
+         "en": "I hope future me will be able to give a good answer to that.",
+         "zh-TW": "希望未來的我，能好好回答這個問題。",
+         "zh-CN": "希望未来的我，能好好回答这个问题。",
+         "ja": "未来のアタシなら、さっきの質問にもちゃんと答えられるようになってますよね。",
+         "ko": "미래의 저는 이 문제에 대한 해답을 찾았으면 좋겠네요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "Thanks, Endmin! I'll put this in the \"time capsule\" too!",
+      "zh-TW": "謝謝管理員，我會把它一起放進「時間膠囊」的！",
+      "zh-CN": "谢谢管理员，我会把它一起放进“时间胶囊”的！",
+      "ja": "ありがとうございます、管理人！これも「タイムカプセル」に入れておきます。",
+      "ko": "관리자님, 감사해요. 이것도 '타임캡슐'에 잘 넣어둘게요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Rossi",
+      "zh-TW": "洛西",
+      "zh-CN": "洛茜",
+      "ja": "ロッシ",
+      "ko": "로시"
+     },
+     "text": {
+      "en": "I can't wait for the day I get to open it!",
+      "zh-TW": "我期待著打開它的那一天！",
+      "zh-CN": "我期待着打开它的那一天！",
+      "ja": "開ける日のこと……本当に楽しみです！",
+      "ko": "이 타임캡슐을 열어볼 날이 너무 기대되네요!"
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 2
+}

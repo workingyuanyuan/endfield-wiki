@@ -1,0 +1,3233 @@
+{
+ "slug": "alesh",
+ "gameId": "chr_0024_deepfin",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Alesh\nGENDER: Male \nAUTHENTICATION: United Workers' Syndicates of Talos II\nDOB: September 1 \nRACE: Anaty \n[ORIPATHY INFECTION STATUS] \nOripathy positive (infected), based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Standard \nCOMBAT SKILL: Standard \nTACTICAL ACUMEN: Excellent\nORIGINIUM ARTS ASSIMILATION: Excellent\n\nThere are plenty of things we can learn by studying Operator Alesh's Originium Arts. He probably used the Arts to create a fin-like construct from memory or a figment of his imagination. The fin is unlikely to be an entity \"summoned\" from another dangerous or unknown dimension... I guess.",
+    "zh-TW": "【代號】阿列什\n【性別】男\n【身分認證】聯盟工團\n【生日】9月1日\n【種族】阿納緹\n【礦石病感染情況】\n參照醫學檢測報告，確認為感染者。\n\n【綜合體檢測試】\n生理強度：標準\n作戰技巧：標準\n戰術規劃：優良\n源石技藝適應性：優良\n\n關於阿列什幹員的源石技藝，還有很多值得研究的地方。不過，他應該是把某種腦海裡的「印象」用法術能量構建成了一條鱗的模樣，而不是從什麼危險神秘的空間裡「召喚」出了那條鱗……應該吧。",
+    "zh-CN": "【代号】阿列什\n【性别】男\n【身份认证】联盟工团\n【生日】9月1日\n【种族】阿纳缇\n【矿石病感染情况】\n参照医学检测报告，确认为感染者。\n\n【综合体检测试】\n生理强度：标准\n作战技巧：标准\n战术规划：优良\n源石技艺适应性：优良\n\n关于阿列什干员的源石技艺，还有很多值得研究的地方。不过，他应该是把某种脑海里的“印象”用法术能量构建成了一条鳞的模样，而不是从什么危险神秘的空间里“召唤”出了那条鳞……应该。",
+    "ja": "【コードネーム】アレッシュ\n【性別】男\n【身分証明】工業団連盟\n【誕生日】9月1日\n【種族】アナティ\n【鉱石病感染状況】\nメディカルチェックの結果、感染者に認定。\n\n【能力測定】\n物理強度：標準\n戦闘技術：標準\n戦術立案：優秀\nアーツ適性：優秀\n\nアレッシュのアーツに関しては、まだ研究余地が多く残されている。彼は脳内にある「印象」をアーツによって鱗獣の姿に構築していると考えられ、危険かつ神秘的な空間等からその鱗獣を「召喚」しているのではない……はずだ。",
+    "ko": "[코드네임] 알레쉬\n[성별] 남\n[신분 인증] 연맹 공단\n[생일] 9월 1일\n[종족] 아나티\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 표준\n전술 계획: 우수\n오리지늄 아츠 적응성: 우수\n\n알레쉬 오퍼레이터의 오리지늄 아츠는 아직 연구할 부분이 많다. 그는 머릿속 어떤 '인상'을 아츠 에너지로 린수의 모습을 구현한 것이지, 위험하고 신비한 공간에서 그 린수를 '소환'한 건 아닐 것이다... 아마도."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Alesh is currently an angler and fin vendor. He is now working at Endfield Industries following the recommendations of our UWST liaison \"Seagull\". After evaluations, we believe that the operator is capable of serving as a liaison or covert ops agent in the frontiers. \n\nWhen Operator Alesh arrived at Endfield, he placed a fresh fin of unknown species on my desk. It smelled of the sea and exhibited a bright sheen. When Alesh realized that I do not require any dietary proteins, he immediately offered to perform taxidermy on the catch and mount it on the wall to commemorate our meeting. \nAfter a moment of silence, I transferred the fin to the Chief Logistics Office, completed his onboarding process, and signed a regional liaison agreement as well as a covert operations agreement. He summarized his understanding of his duties with this line: \"Angling, but not for the roast.\" \nPreliminary observations: Alesh exhibits adequate adaptability to our work environment, seems incredibly at ease with himself, and displays no other obvious anomalous quirks. Professional stability and performance will require further observations. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員阿列什，現為捕鱗與賣鱗人，由前聯盟工團安全局聯絡人「海鷗」推薦加入終末地工業。經評估，可於開拓區擔任聯絡與掩護工作。\n\n幹員阿列什報到時，將一整條鮮鱗擺在我辦公桌上，品種不明，光澤鮮亮，還帶著海水的氣味。當發現我並無攝取生物蛋白的需求後，他立即表示可以將其製作成標本掛在牆壁上，作為紀念。\n片刻沉默後，我將該物轉交至總後勤辦事處，隨後完成了他的入職流程，並與其簽署區域聯絡協議與掩護職位協議各一份，他用這句話概括自己對職責的認知：「還是釣鱗，不過這次不是為了吃。」\n初步觀察結論：表現出基本適應性與高度鬆弛感。無明顯異常，需進一步考察穩定性與執行力。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员阿列什，现为捕鳞与售鳞人，由前联盟工团安全局联络人“海鸥”推荐加入终末地工业。经评估，可于开拓区担任联络与掩护工作。\n\n干员阿列什报到时，将一整条鲜鳞摆在我办公桌上，品种未明，光泽鲜亮，还带着海水的气味。当发现我并无摄取生物蛋白的需求后，他立即表示可以将其制作成标本挂在墙壁上，作为纪念。\n片刻沉默后，我将该物转交至总后勤办事处，随后完成了他的入职流程，并与其签署区域联络协议与掩护岗位协议各一份，他用这句话概括自己对职责的认知：“还是钓鳞，不过这次不是为了吃。”\n初步观察结论：表现出基本适应性与高度松弛感。无明显异常，需进一步考察稳定性与执行力。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "アレッシュは、鱗獣の捕獲および販売業務に従事している。元工業団連盟保安局連絡員「シーガル」の推薦により、エンドフィールドに加入した。評価を経て、開拓エリアにおける連絡および護衛業務を担当可能と判断する。\n\n「アレッシュさんが着任されたときのことです。新鮮な鱗獣を丸ごと1匹、私のデスクに置いてくれました。品種は不明ですが、光沢があり、潮の香りが漂っていましたね。私が生物タンパク質を摂取する必要がないことに気づくと、すぐに『記念ってことで良くね？標本にして飾ろーぜ』と提案してくださいました。」\n「しばらく沈黙が続きましたが、私はその鱗獣を総合後方支援部に引き渡し、入職手続きを完了させました。地域連絡契約と護衛任務契約にもサインをいただいたところで、アレッシュさんは『鱗獣釣りに変わりはねぇだろ。ま、食うために釣るわけじゃねーってだけで。』と、自分の職務に対する認識を述べてくださいました。」\n「初期観察の結果、基本的な適応力と高い脱力感が見られます。現時点で特に異常はなく、引き続き安定性や実行力については注意深く観察を続けていきたいと思います。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 알레쉬, 현재 린수 포획 및 판매업 종사자. 전 연맹 공단 안전국 연락인 '갈매기'의 추천으로 엔드필드 공업에 합류했다. 평가 결과, 개척 지역에서 연락 및 엄호 임무를 수행할 수 있다.\n\n오퍼레이터 알레쉬는 출근 첫 날, 신선한 린수 한 마리를 통째로 내 사무실 책상 위에 올려놓았다. 품종은 불명이었으나, 선명한 광택에 바다 내음이 남아있었다. 내가 생물학적 단백질 섭취가 필요 없다는 것을 알게 되자, 그는 즉시 기념으로 표본을 만들어 벽에 걸어둘 수 있다고 제안했다.\n잠시의 침묵 후, 해당 린수를 총지원 부서로 인계하고, 이후 그의 입사 절차를 완료했다. 그와 구역 연락과 엄호 업무에 관한 협약서를 각 1부씩 체결했으며, 그는 자신이 맡은 업무에 대해 다음과 같은 말로 요약했다. \"여전히 린수를 낚지만, 이번에는 먹기 위한 게 아니네.\"\n초기 관찰 결론: 기본적인 적응력과 상당히 여유로운 태도를 보인다. 눈에 띄는 이상은 없으나, 안정성과 임무 수행 능력에 대한 추가 관찰이 필요하다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Ahem. Hello people. I'm the new candidate consultant for angling strategies and instructor for hobby angling... Never heard of it? Ah. Yeah, I think some boss man prolly misread my resume and decided to hire me. Maybe he sneezed and got me approved. I'm just an angler and fin seller, you know. It's also possible that your Endfield system got too many loopholes, since a freezer can get treated as frontline combat hardware. Anyway, I got in. \nOkay. Since no one is shooing me away, I'll try to share my true knowledge. It's not going to be engineering or tactics. I'm talking about Angling. Don't underestimate Angling. It's outdoor meditation for true anglers. Those who don't know anything call it old boy's excuse to be lazy. I'll tell you about angling with the Endfield lingo. It is a miniaturization of a tactical operation. You got a bait, a hook, deception, and patience. So, who ends up slipping? Who gets hooked? Who becomes bait? And who enjoys deep fried fins on the shore? It's all about luck and vision. \nNow let's take a look at two basic terms — float angling and bottom angling. \nWhat is float angling? It's just scattering the bait in the water and looking at your float. You may think you caught something when the float moves a little. But when you lift your rod with excitement, you realize the fin never bit, and is in fact \"laughing\" and blowing bubbles at you. Some fins just take two bites and swim away. And some don't even like the bait. They just snag the line a bit and take you for a fool. It's like a turf battle. The bandit gives a funny look and you think he's about to make a move... But turns out he only remembered that he forgot about the spices for the fin stew. Angling is not about mysterious techniques. It's all about not snapping your rod after twelve missed pulls. \nSo what is bottom angling? You dig a hole for yourself and then sink a bait. And then ... nothing else happens. The fins just ignore what you did. Maybe they'll roll their eyes before moving on. I used to know a gang advisor who is an expert in bottom angling. He always says: \"Stop moving, son. They fear you more if you stay still.\" So, Senhor Advisor would spend all day on his second-hand rocking chair while they break our legs out there. And then he would squint his eyes and go: \"Look. The enemy has taken the bait.\" — Take the friggin' bait. I hope the old bastard shits rocks and dies. I was the friggin' bait. \nGot a little carried away. Anyway, angling is a great sport. Just start angling if you wanna know how fun it is! In my humble opinion, it is far healthier than sitting here looking into the cold, dark space... So your question is, why am I even here? \nDecent canteen food and no one's clocking my naps. Pretty nice place, actually. \n — Alesh's contribution to the Hobby-Sharing Get Together",
+    "zh-TW": "咳咳，大家好，我是新來的「鱗類戰略顧問候選人」兼「釣鱗興趣課教師」……沒聽說過？哎，我到現在也搞不清楚，是哪位眼睛不太好的高層，在翻履歷時手一滑，把我這樣一個捕鱗賣鱗的小老闆放了進來。也許當時他正打噴嚏，也可能是你們終末地系統漏洞太多，那怕是冷凍櫃都能被誤分配到前線當作戰單位，反正我，就這樣進來了。\n好吧，既然還沒人來轟我走，那我就力所能及的分享點知識給你們。不是工程，不是戰術，而是釣鱗。別小看這個。釣鱗，懂一點的，叫戶外修行；不懂的，覺得是老年休閒。但按你們的用語來說，釣鱗就是縮小版的戰術行動——有餌、有鉤、有騙術、有耐心，最後誰吃虧、誰上鉤、誰躺在水裡當餌、誰坐在岸上吃炸鱗，全看運氣和眼力。\n現在學習兩個基本名詞——浮釣和底釣。\n浮釣是什麼？就是把餌撒在水層中間。盯著那根浮標，看它晃一下，就以為有戲。結果等你興奮地提竿，才發現那鱗根本沒咬，只是在下面「嘻笑著」吐了個泡泡。牠們有時候咬兩口就走，有時候連餌都不碰，就拉你一下，逗你玩。跟在街頭看到對手一樣，對方露出個表情，你就以為他要動手，結果他只是……突然想起燉鍋裡的鱗忘了加香料。浮釣不考驗什麼有的沒的的技巧，考驗的是你能否在連續十二次空竿之後，還不砸了整根釣竿。\n而底釣呢？那就是挖坑給自己。你把餌沉到底，等鱗慢慢靠近，然後……沒然後了，牠們根本不理你，頂多在水底「翻個白眼」給你。但我以前有個當幫派顧問的前輩就擅長這招。他總是說：「年輕人，別動，越不動別人越怕你。」於是他整天坐在一把二手靠椅上，看著我們在外面被打斷腿，然後瞇著眼說：「敵人已經上鉤了。」——上你*粗口*的鉤，那明明是我被鉤了。\n扯遠了，總之，釣鱗是一項很不錯的運動，如果要體驗它的樂趣，就直接去釣吧！老實說，比在這裡對著冰冷的太空更有利於身心健康……你問我幹嘛還來這裡？\n這地方伙食還不錯，而且沒人管我午睡時間，不錯了。\n——阿列什在興趣交流活動上的發言",
+    "zh-CN": "咳咳，大家好，我是新来的“鳞类战略顾问候选人”兼“钓鳞兴趣课教师”……没听说过？嗐，我到现在也搞不清楚，是哪位眼神不太好的高层，在翻简历时手一滑，把我这么一个捕鳞贩鳞小老板招了进来。也许当时他正打喷嚏，也可能是你们终末地系统漏洞太多，哪怕是冷冻柜都能被误分配到前线当作战单位，反正我，就这么进来了。\n好吧，既然还没人来轰我走，那我就给你们来一点力所能及的知识分享。不是工程，不是战术，而是钓鳞。别小看这事儿。钓鳞，懂点的，叫户外修行；不懂的，觉得是老年休闲。可按你们的术语来说，钓鳞就是缩小版的战术行动——有饵，有钩，有骗术，有耐心，最后谁吃亏，谁上钩，谁躺在水里当饵料，谁坐在岸上吃炸鳞，全看运气和眼力。\n现在学习两个基本名词——浮钓和底钓。\n浮钓是什么？就是把饵撒在水层中间。盯着那根浮漂，看它晃一下，就以为有戏。结果等你兴奋地提竿，才发现那鳞根本没咬，只是在下面“嗤笑着”吐了个泡泡。它们有时候咬两口就走，有时候连饵都不碰，就拽你一把，逗你玩儿。跟在街头盯对手一样，对方露出个表情，你就以为他要动手，结果他只是……突然想起炖锅里的鳞忘了加香料。浮钓不考验什么玄乎的技巧，考验的是你能否在连续十二次空竿之后，还不砸了整根钓竿。\n而底钓呢？那就是给自己挖坑。你把饵沉到底，等鳞慢慢靠近，然后……没然后了，它们根本不理你，顶多在水底给你“翻个白眼”。但我以前有个当帮派顾问的前辈就擅长这招儿。他总说：“年轻人，别动，越不动别人越怕你。”于是他整天坐在一把二手靠椅上，看着我们在外面被打断腿，然后眯着眼说：“敌人已经上钩了。”——上你*粗口*的钩，那明明是我被钩了。\n扯远了，总之，钓鳞是一项很不错的运动，如果要体验它的乐趣，就直接去钓吧！老实说，比在这里对着冰冷的太空更有利于身心健康……你要问我干嘛还来这儿？\n这地方伙食还行，而且没人管我午睡时间，不错了。\n——阿列什在兴趣交流活动上的发言",
+    "ja": "あー、どうも。新しく入った『鱗獣戦略コンサルタント候補』兼『鱗獣釣り講座担当』……聞いたことねえ？てか、オレもよくわかんねーんだから、仕方なくね？老眼のお偉いさんが履歴書めくったときに手滑らしたんじゃねぇの？じゃなきゃ、オレみてーな小せぇ鱗獣屋なんか採用しねぇだろ。ハンコ押す瞬間クシャミしてたとか。あとは、エンドフィールドのシステムがバグばっかで、冷凍庫を前線出す戦闘ユニットだって勘違いしてるとかじゃね？ま、とにかくうまく転がり込めたんだから、オレ的にはラッキー。\n誰も止めに来ねぇし、クビなってないっぽくね？まだ喋ってていーよな。せっかくだしイイこと教えてやるぜ。工学でも戦術でもねぇ……鱗獣釣りの話。は？バカにすんなよ？トーシロには「ジジイの暇潰し」、理解ってるヤツにとっては「アウトドア修行」、あんたらの言い方に合わせるなら「簡略版戦術行動」――それが鱗獣釣り。エサがあって、針があって、駆け引きがある。誰が損して、誰が釣られて、誰が川に沈むエサになんのか。で、最後に岸で鱗獣フライ肴にすんのは誰か……全部、運と「眼」次第なんだよ。\nじゃ基本からな――ウキ釣りと底釣り。\nまずウキ釣り。コマセを水に撒いてウキ観察……んで、揺れたら「アタリ！」って思うよな？すぐアワセ入れて、引き上げる――ときにはもう終わってんの。鱗獣は水ん中。泡吹いて笑ってるだけってオチ。エサだけ食い散らかしたと思ったら、完全無視どころか、こっちおちょくってくるときもあんだぜ？まぁ、裏道で通りすがるヤツと駆け引きすんのと一緒。相手がちっと顔動かせば「来る！」って構えちまう、あの感じ……でも、ただ鱗獣の鍋にスパイス入れんの忘れたって思い出しただけだったりすんだよ。ウキ釣りなんてのに、正直難しい技術なんかねぇ。試されてんのは、連続12回ボウズ食らっても竿叩き折んねーでいられる心だけ。\nじゃ、底釣りはどーなんだっつー話……自分で掘った落とし穴ハマるって感じか？エサ沈めて、鱗獣が寄ってくんのを待つ……おしまい。普通に無視されんだよ。ギリ、底で白目むいてこっち見てくるくらいじゃね？昔、組織の顧問やってた先輩がこれの達人で「若ぇの、動くな。黙ってれば、相手はビビって動かねえ」って言ってたけどな……でも、そいつ一日中ボロい安楽椅子座って、オレたちが外で足折られるまでケンカしてんの見ながら、「敵が釣れた」ってよ――釣れたって*スラング*だろーが。\n……あ、話逸れた。とにかく鱗獣釣りはサイコーのスポーツだからよ。本気で楽しみてぇなら、まず自分で釣るとこからだな。正直、冷えた宇宙眺めてボーっとすんのより、ずっと健康的じゃね？……ん？なんでオレがここ来たか？\nメシがうめー、昼寝邪魔するヤツはいねー……十分すぎんだろ？\n――アレッシュ 趣味交流会での発言",
+    "ko": "크흠, 안녕, 난 새로 온 '린수류 전략 고문 후보' 겸 '린수 낚시 취미 수업 강사'야... 못 들어봤다고? 에휴, 나도 아직까지 이해가 안 간단 말이지. 대체 어느 눈 침침한 높으신 양반이 이력서를 넘기다가 손이 미끄러져서, 나 같은 린수나 잡아다 팔던 동네 사장을 뽑았는지, 참.\n양반이 재채기를 했거나, 아니면 당신들 엔드필드 시스템에 워낙 구멍이 많아서, 냉동고조차 실수로 최전선에 배치되어 싸워야 하는 걸지도... 아무튼, 난 그렇게 들어왔다, 이거야.\n그럼, 아직 저를 쫓아내는 사람이 없으니 내가 할 수 있는 선에서 아는 걸 좀 공유해 줄게. 공학 같은 건 아니고, 전술도 아니고. 바로 린수를 낚는 법이야. 이거, 우습게 보지 마. 물론, 모르는 사람은 '아저씨 취미'라고 생각하는데, 아는 사람은 이것 보고 '야외 수련'이라고 부르거든. 이게 너희들의 말로 따지면, 하나의 작은 전술 작전이야. 미끼가 있고, 낚싯바늘이 있고, 속임수가 있고, 인내심도 있어야 해. 마지막에 누가 손해를 보고, 누가 미끼를 물고, 누가 처박혀서 미끼가 되고, 누가 낚시터에 앉아 튀긴 린수를 먹는지는 전부 운과 눈썰미에 달렸다고.\n\n말이 길어졌네, 어쨌든, 오늘은 내가 기본 용어 두 개만 알려줄게. 띄울낚시와 잠길낚시.\n띄울낚시가 뭐냐?\n미끼를 물 중간층에 뿌려두는 거지. 그러고는 그 찌만 하염없이 바라보는 거야. 살짝 흔들리기만 해도 '왔구나!' 싶을걸. 하지만 신나서 낚싯대를 냅다 잡아채면, 린수는 아예 입질도 안 했고, 저 아래에서 '비웃으며' 거품이나 뽀로록 뱉어냈을 때가 많다니까.\n가끔 두어 번 쪼아 먹고 가버리거나, 미끼는 건드리지도 않고 낚싯줄만 당겨서 낚시하는 사람을 놀려먹기도 한다고.\n길거리에서 상대방 노려보는 거랑 똑같아, 이게. 상대가 표정 한 번 찡그렸다고 '저놈이 덤비려나 보다' 생각했는데, 알고 보니... 그냥 냄비에 끓이던 린수에 향신료 넣는 걸 깜빡한 게 떠오른 것뿐일 수도 있지.\n띄울낚시는 무슨 대단한 기술을 시험하는 게 아냐. 12연속으로 허탕을 치고도 낚싯대를 부러뜨리지 않느냐, 그 인내심을 시험하는 거라고.\n\n그렇다면, 잠길낚시는?\n그건 그냥 제 무덤 파는 짓이지. 미끼를 바닥까지 가라앉히고, 린수가 천천히 다가오길 기다린다... 그리고 그 뒤는 없어. 녀석들은 당신을 거들떠보지도 않는다니까. 기껏해야 물 밑에서 당신 쪽으로 '눈알이나 한 번 굴려주는' 정도?\n내가 아는 파벌 고문을 했었던 선배가 이런 데에 잘 알거든. 그 선배가 항상 \"움직이지 마. 가만히 있을수록 남들이 널 무서워할 것\"이라고 했지. 그래서 그는 하루 종일 중고로 산 의자에 앉아서, 우리가 밖에서 다리 부러지도록 맞고 들어오는 모습을 보면서, 눈을 가늘게 뜨고 적이 걸려들었다고 했어. 걸려들긴 무슨 *심한 욕* 같은 소리, 걸린 건 분명 나였는데.\n그 얘기는 그만하고, 아무튼, 린수 낚시는 꽤 좋은 운동이야. 즐기고 싶다면, 그냥 직접 가서 해봐! 솔직히, 이 차갑고 조용한 우주만 바라보는 것보다는 심신 건강에 훨씬 이롭다니까...\n아, 나는 왜 여기 왔냐고? 여기 보니까, 먹는 것도 괜찮고, 낮잠 시간에 뭐라 하는 사람도 없잖아.\n- 알레쉬가 취미 교류 활동에서 한 발언"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "DOCUMENT: Alesh's Daily Routine \n06:00: Wakes up. Prepares angling gear and bait. Sharpens the hooks while mumbling to himself: \"Gotta really hook these fins today.\" \n06:30: Sets off. Throws some fin bones to the cloudbeast strays in the streets. \n06:45-09:15: Morning angling time. Finds a place where water flow is slower. Waits patiently for the fins. \n09:15-10:00: Wraps up the angling gear. Checks his catch. Inspects the conditions of the caught fins. \"Special\" catches are set aside for other uses. \n10:00-12:00: Fin stall morning shift. Fins are arranged neatly in a specific number of rows and directions. These details matter a lot. \n12:00-13:00: Lunch time. Roasted fin over fire. Eats while glancing at his handyterm. \n13:00-15:00: Takes a nap or walk. Sometimes goes off to the wharf to review his angling skills, or sits on the bench to talk to strangers on proper angling spots. Jabbers on and on while making the fins restless in the water. \n15:00-17:30: Fin stall afternoon shift. Continues selling fins while observing the passers by for any \"familiar faces\" that shouldn't be showing up. \n17:45-19:45: Night angling at deeper waters. Final push during sunset. Specifically targets \"great fins\" that tend to be cautious and alert. These specimens are most active during sunset. This is also the time when enemies are most likely to make their mistakes. \n20:00-21:00: Dinner time. Organizes his catch for the day. Records the angling results and daily \"fintel\" he gathered from all that talking. \n21:00-22:00: Rest time. Relaxes on the balcony and gazes at the stars with his only eye. Occasionally gets reminded of those eventful nights... The turf wars are distant memories, yet they also felt like undercurrents that could suddenly snag him while he angles. \n22:00: Prepares the bait. Checks his angling gear. \"Who'll be the fin for tomorrow?\" \n\nAnecdotes about Alesh\nThe new liaison arrived at the secret locale at the corner of the wharf for the first time. The owner of the fin stall laid motionless on a bench with a book on his face. \nThe fins being sold had been laid out in a specific arrangement — grayfins faced north; red cupras were paired, and tucked away at the corner was a strangely patterned whitefin. The liaison blinked as he worked his mind to recall the fincode he memorized. Struggle as he could, he failed to read the intel. Just as he was about to call the headquarters, the stall owner tossed him a fin with bits of crushed ice. \n\"No great fins today,\" he said, \"Settle your nutritional needs with this one.\" \nThe liaison was stunned for two seconds before he accepted the fin and nodded in gratitude. He walked for around thirty yards before turning around and looked at the stall again — The owner laid on his bench as though the transaction had never taken place. \nReport of the day: Situation normal. Intel is accurate and ... pretty reliable.",
+    "zh-TW": "【阿列什的日常時刻表】\n06:00 起床，準備釣具和鱗餌。邊磨鉤邊自言自語：「今天必須讓這些鱗乖乖上鉤才行。」\n06:30 出發，丟了條鱗骨頭給街角流浪的雲獸。\n06:45 ~ 09:15 早晨釣鱗時間。選個水流緩慢的點，靜靜守候。\n09:15 ~ 10:00 收竿，整理收穫，檢查鱗的狀態，順便把釣到的幾條「特別的」留作他用。\n10:00 ~ 12:00 鱗店上午營業時間。鱗得擺得整整齊齊，方向和數量都有講究。\n12:00 ~ 13:00 午餐時間。簡單烤條鱗，邊吃邊瞟一眼通訊設備。\n13:00 ~ 15:00 小憩或散步。偶爾跑去碼頭研究釣技，或者坐在長椅上，和陌生人聊聊哪裡好釣鱗。訊息來來回回，水裡的鱗都被吵得不勝其煩。\n15:00 ~ 17:30 鱗店下午營業時間。繼續賣鱗，順便觀察來往的人，看看有沒有不該出現的「熟面孔」。\n17:45 ~ 19:45 夜釣。夕陽下最後一搏，釣點換到更深的水域，目標是那些警惕心強的「大鱗」——傍晚是牠們最活躍的時候，也是敵人最容易露出破綻的時刻。\n20:00 ~ 21:00 晚餐。整理當日戰果，簡單記錄釣鱗情況和當天收到的「鱗情」。\n21:00 ~ 22:00 休息。放鬆，在天台上用剩下的一隻眼仰望星空。偶爾會突然想起一些夜晚……街角的廝殺好像已經遠去，卻像水下暗流，隨時可能在釣鱗時重新遇到。\n22:00 準備餌料，檢查裝備。「明天又是哪一條鱗呢？」\n\n【阿列什軼事】\n新聯絡員第一次來到碼頭街角的秘密聯絡點時，這家鱗店的老闆正一動不動地躺在長椅上，臉上蓋著本書。\n攤子上的鱗擺得有點講究——灰鱗朝北，赤銅鱗成對，角落還有一尾斑紋稀奇的白鱗。聯絡員眨了眨眼，拼命回憶記下的暗號順序，希望能夠解讀這些情報，但一無所獲。他正在想要不要聯絡總部，老闆卻頭也不抬地丟了條還帶著冰渣的鱗給他。\n「今天沒有大鱗。」他說，「這條給你補充點營養。」\n聯絡員愣了兩秒，接過鱗點頭致謝。走出三十公尺後，他回頭看了一眼——老闆依然躺在那裡，像什麼都沒發生過。\n當天報告：一切正常，情報準確，非常……可靠。",
+    "zh-CN": "【阿列什的日常时刻表】\n06:00 起床，准备钓具和饵料。边磨钩边自言自语：“今天得让这些鳞乖乖上钩才行。”\n06:30 出发，扔条鳞骨头给街角流浪的云兽。\n06:45～09:15 早晨钓鳞时间。选个水流缓慢的点，静静守候。\n09:15～10:00 收竿，整理收获，检查鳞的状态，顺便把钓到的几条“特别的”留作他用。\n10:00～12:00 鳞店上午出摊时间。鳞得摆得整整齐齐，方向和数量都有讲究。\n12:00～13:00 午餐时间。简单烤条鳞，边吃边瞟一眼通信设备。\n13:00～15:00 小憩或散步。偶尔跑去码头复盘钓技，或者坐在长椅上，和陌生人聊聊哪里好钓鳞。消息来来回回，水里的鳞都被吵得不胜其烦。\n15:00～17:30 鳞店下午出摊时间。继续卖鳞，顺带观察来往的人，看看有没有不该出现的“熟脸”。\n17:45～19:45 夜钓。夕阳下最后一搏，钓点换到更深的水域，目标是那些警惕心强的“大鳞”——傍晚是它们最活跃的时候，也是敌人最容易露出破绽的时刻。\n20:00～21:00 晚餐。整理当日战果，简单记录钓鳞情况和当天收到的“鳞情”。\n21:00～22:00 休息。放松，在天台上用剩下的一只眼仰望星空。偶尔会突然想起一些夜晚……街角的厮杀好像已经远去，却像水下暗流，随时可能在钓鳞时重新遇上。\n22:00 准备饵料，检查装备。“明天又是哪一条鳞呢？”\n\n【阿列什轶事】\n新联络员第一次来到码头街角的秘密联络点时，这家鳞店的店主正一动不动地躺在长椅上，脸上盖着本书。\n摊儿上的鳞摆得有些讲究——灰鳞朝北，赤铜鳞成对，角落还有一尾斑纹稀奇的白鳞。联络员眨了眨眼，拼命回忆默记的暗号顺序，希望能够解读这些情报，但一无所获。他正斟酌要不要联络总部，店主却头也不抬地扔了条还带着冰碴子的鳞给他。\n“今天没有大鳞，”他说，“这条给你补充点营养。”\n联络员愣了两秒，接过鳞点头致谢。走出三十米后，他回头看了一眼——店主依然躺在那里，像什么都没发生过。\n当天报告：一切正常，情报准确，十分……可靠。",
+    "ja": "【アレッシュの日常スケジュール】\n06:00　起床。釣り具とエサを用意。釣り針を磨きながら独り言。「今日も大人しく引っかかってくれねぇと困るぜ？」\n06:30　出発。街角にいた野良雲獣に、余った鱗獣の骨をやる。\n06:45～09:15　朝の鱗獣釣り。流れの穏やかなポイントを選び、静かに待つ。\n09:15～10:00　釣り竿をしまう。鱗獣の状態を確認して「訳アリ」のヤツは別にしておく。\n10:00～12:00　鱗獣屋の午前営業。鱗獣をきちんと並べる。向きにも数にもこだわる。\n12:00～13:00　昼食。釣りたての鱗獣を焼いて食べながら、合間に通信機をちらっと確認。\n13:00～15:00　休憩か散歩。たまに港で釣りの振り返りをしたり、ベンチで知らない人と鱗獣情報を交換したりする。あまりにも盛り上がりすぎているため、水中の鱗獣も多分迷惑がっている。\n15:00～17:30　鱗獣屋の午後営業。鱗獣を売りつつ、往来の人々を観察。いるはずのない「見慣れた顔」が紛れていないか確認。\n17:45～19:45　夜釣り。夕日の下で最後のチャレンジを開始。深場釣りへ。狙うは警戒心の強い「大物」――夕暮れは動きも活発になるが、敵が隙を見せる勝負時でもある。\n20:00～21:00　夕食。一日の成果を整理し、鱗獣釣りの記録と手に入れた「鱗獣情報」を書き残す。\n21:00～22:00　休憩。屋上に上がってリラックス。残った片目で星空を見上げる。過ぎ去ったある夜のことを思い出すときもある……街角での殺し合いは遠ざかっていくが、水面下で蠢く流れのように、釣りをしている最中に不意に出会ってしまうような気もする。\n22:00　エサの準備と装備の点検。「明日また、どの鱗獣が引っかかんだろーな？」\n\n【アレッシュの逸話】\n新任の連絡員が初めて港の一角にある秘密の連絡窓口を訪れたとき、鱗獣屋の店主はベンチに横になり、本を顔に乗せたまま動かなかった。\n店に並ぶ鱗獣の配置には妙な「こだわり」がある――灰鱗はすべて北向きに、赤銅鱗は必ず2匹セットにする。角には珍しい模様の白鱗を置く。連絡員はまばたきをした――必死に記憶してきた暗号の順序を思い出して情報を解読しようとしたが、結局何も思いつかなかった。本部に報告すべきかと考えを巡らせていると、店主は顔を上げることもなく、氷のついた鱗獣を彼に投げた。\n「今日は大物ナシ。これ食って栄養でもつけとけ。」\n連絡員は2秒ほど呆然と立ちすくんだが、鱗獣を受け取ると軽く頭を下げてその場を去った。30mほど離れてから振り返ると――店主は最初から何事もなかったかのようにベンチに寝転がったままだった。\n当日の報告：すべて正常。情報は正確で、非常に信用……できる。",
+    "ko": "[알레쉬의 일상 시간표]\n06:00 기상. 낚싯대와 미끼 준비. 바늘을 갈며 \"오늘은 린수들이 얌전히 걸려줘야 할 텐데.\"라고 중얼거린다.\n06:30 출발. 길모퉁이의 떠돌이 클라우드비스트에게 린수 뼈 한 토막을 던져준다.\n06:45 ~ 09:15 아침 낚시 시간. 물살이 느린 포인트를 골라 조용히 기다린다.\n09:15 ~ 10:00 낚시 마무리. 잡은 린수의 상태를 확인한 후, 그중 몇 마리 '특별한' 것은 따로 보관한다.\n10:00 ~ 12:00 린수 가게 오전 장사. 린수를 놓는 방향과 개수를 따져서 정갈하게 맞춰서 진열한다.\n12:00 ~ 13:00 점심 식사. 간단히 린수 한 마리를 구워 먹으며 통신 장비를 확인한다.\n13:00 ~ 15:00 낮잠 또는 산책. 가끔 부두로 나가 낚시 기술을 복기하거나, 벤치에 앉아 낯선 사람들과 어디가 린수가 더 잘 잡히는지에 대해 잡담을 나눈다. 하도 말이 많아서, 물속 린수들도 시끄러워 못 참을 지경이다.\n15:00 ~ 17:30 린수 가게 오후 장사. 계속 린수를 팔며, 오가는 사람 중 나타나선 안 될 '익숙한 얼굴'이 없는지 관찰한다.\n17:45 ~ 19:45 저녁 낚시. 해 질 녘 마지막 승부. 경계심 강한 \"대물 린수\"를 노리고 더 깊은 수심으로 포인트를 옮긴다. 해 질 녘은 녀석들이 가장 활발하게 움직이는 시간이자, 놈들이 가장 빈틈을 보이기 쉬운 순간이다.\n20:00 ~ 21:00 저녁 식사. 하루 성과를 정리하고, 간단히 낚시 상황과 그날 입수한 '린수 정보'를 기록한다.\n21:00 ~ 22:00 휴식. 긴장을 풀고, 옥상에서 남은 한쪽 눈으로 밤하늘을 올려다본다. 하지만 가끔 어떤 밤이 떠오른다... 골목 모퉁이의 전투는 멀어진 듯하지만, 수면 아래의 암류처럼 낚시 중 언제든 다시 마주칠 수 있을 것만 같다.\n22:00 미끼 준비, 장비 점검. \"내일은 또 어떤 린수가 낚일까?\"\n\n[알레쉬 관한 이야기]\n새 연락원이 처음 부두 모퉁이의 비밀 연락 지점에 왔을 때, 린수 가게 주인은 벤치에 책을 얼굴 위에 덮고 가만히 누워 있었다.\n가게에 놓인 린수들은 묘하게 규칙이 있었다. 회색 린수는 북쪽을 향하고, 적동 린수는 쌍을 지어 놓이며, 구석엔 무늬가 신기한 하얀 린수 한 마리가 놓여 있었다.\n연락원은 눈을 깜빡이며 필사적으로 암기했던 암호 순서를 떠올려 이 정보들을 해독하려 했으나, 아무것도 알아낼 수 없었다. 본부에 연락해야 하나 고민하는 찰나, 가게 주인은 고개도 들지 않은 채 얼음 조각이 붙어있는 린수 한 마리를 그에게 휙 던졌다.\n\"오늘은 대물 린수는 없어.\" 그가 말했다. \"이건 영양 보충이나 하라고 주는 거야.\"\n연락원은 잠시 멍하니 있다가, 린수를 받아 고개 숙여 인사했다. 삼십 미터쯤 걸어가다 돌아봤을 때, 가게 주인은 여전히 그곳에 누워 아무 일도 없던 듯 있었다.\n일일 보고: 이상 없음. 정보는 정확했으며, 대단히... 신뢰할 만함."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "The Popper Tactic was first proposed by Operator Alesh. Its theoretical basis was based on poppers, a type of lures often used by hobby anglers. According to Alesh's extremely detailed yet unverifiable explanations, the popper is a fake, buoyant fin. Poppers are meant to dance, glimmer, wag their tails, annoy, and finally piss off the foul tempered big fins to the point that they burst out of the deep. Simply put, poppers do this: \"Dun wanna move? Whatever. Watch me pollute your turf, play dead, and nab your stuff till you come out and beat me — And then you'll realize that I got a co-star on stage with me.\" \n\nWhat? I need to explain what happened recently? Oh, that was just a basic covert ops job. Convoy needed to get through Route 17 but that LBs love the place. The bandits seized cargo, kidnapped people, and even took over radio stations. Late Night Traffic Radio literally became a stinking cesspit of crude breakkae. \nI was about to go fix my rod, you know, when I got the mission notification. And when I read the words \"basic covert operations\", I suddenly got overwhelmed by work procrastination. Anyway, before I left for the job, I took a look at the map and mumbled: \"Ugh. Let's try the popper.\" \nOf course, nobody knew what I was talking about. Convoy probably thought it was some new weapon and they agreed without thinking. The naivety is astonishing. I mumble something to myself, and people went along. \nAnyway, it was something really simple: \nWe dumped two trucks by the road and dressed them up like they broke down, along with a few crates of \"firearms\". Eh, don't get too excited. The crates were filled with bricks. We even sprayed \"Class I Hazard\" on the crates to make it look real, you know. And then we played an \"SOS recording\" with a trembling voice. Shit is for real, man. More real than that empty rod in my previous angling run. \nAnd the first breaker mob came as expected. They paced around the setup like a beast lured in by fresh fins, and got all hungry and excited. Everyone of them wanted a piece of the \"free takeaway\". \nIt wasn't even over. I tweaked the SOS radio louder and the second mob arrived. The first group of boys got really pissed. They went from \"I wanna bite\" to \"You're not getting a bite\". These blightheads didn't even bother to greet and went straight to all out war at each other. Just like wild, rabid cloudbeasts scrapping for a fin. \nSo the crew hid behind the slopes and enjoyed the breaker show. We even commented on their fighting styles while snacking on dried fin roasts — Man, it was buggly as hell. I remembered hustling as a harbor punk when I was a kid, and I still fight better than these dudes. \nWhen the battle winded down, we swooped in like professional crime scene photo-takers. Take some pictures and clean up the entire place. The dead, the disabled, and the maybe dead or disabled. Anyway, the breaker war didn't leave many who could talk. \nSo the entire convoy got through. Some trucker even told me: \"Bro, that was some masterful covert ops.\" \nI said: \"Thank you. My OG plan was to look at the skies all day. Didn't expect an entire school of fins to show up.\" \nThe biggest take away from this was me verifying a principle — Everything is like angling. Make things up along the way and finprovise. Way better than making detailed plans, IMO.",
+    "zh-TW": "「波趴戰術」這一戰術概念最早由幹員阿列什提出，其理論基礎來源於一種常用於娛樂釣鱗的擬餌「波趴」。根據本人（非常詳細但難以實證的）解釋，波趴是一種浮水型假鱗，負責在水面跳舞、發光、擺尾、惹事，並最終激怒水底那群本來不打算理你的猛鱗，讓牠們衝出來發飆。簡單說，就是：「你本來懶得動，但我偏要在你眼前亂跳、裝死、搶你東西，直到你追出來揍我——然後，你發現不止我一個人在這演戲。」\n\n你說最近的事？那原本只是一次普通的掩護任務。運輸隊要穿過十七號公路，那段公路上最近頻繁有裂地者活動。據說他們不但搶貨、搶人，還搶廣播頻道，把《夜航即時路況》都改成了髒話饒舌。\n接到任務通知時，我本來剛打算去維修釣竿，結果聽說要去執行「普通掩護」，不知怎麼地就產生了一種職業倦怠。於是臨走前，看了眼地圖，小聲說了句：「不如試試『波趴』吧。」\n當然，沒人知道我在說什麼，運輸隊可能以為是某種新武器，點頭點得很快。真是天真，隨便說點什麼都能得到支持。\n計劃很簡單：\n先把兩輛卡車裝作「中途拋錨」的樣子停在路邊，隨便丟了幾箱軍火（裡面都是磚塊，別激動），還特地用噴漆寫了「第一類型危險」，增加真實感。然後廣播一段「求救音訊」，聲音弄得比我上次空竿還真。\n如我所料，第一批裂地者很快來了。他們繞著車轉，像一群對鮮鱗感興趣的野獸，又蹭又舔，還爭著想把裡面的「午飯」帶回家。\n但這還沒完。我稍微放大了一點廣播音量，結果第二批也來了。這群傢伙一看情況不對，態度立刻從「我要搶」切換成了「你憑什麼搶」。於是毫無冷場，他們大打出手，就像野外的雲獸為爭一尾活鱗打起來了。\n大家躲在山坡後看得津津有味，一邊啃烤鱗乾一邊評判他們的打架姿勢——老實說，比我年輕時碼頭幫派鬥毆的樣子難看多了。\n等打得差不多了，我們再像最後進場的犯罪現場攝影師一樣出現：拍照、收尾，順便把現場清掃乾淨。一群打殘的、一群打死的，還有幾個不知道到底是哪邊的，反正都沒剩幾個能說話的了。\n運輸隊全程順利通過，還有個司機轉頭說：「兄弟，這掩護做得真高級。」\n我說：「謝謝，我原計劃是躺平看天，後來一不小心就釣了一鍋。」\n其實這次行動的最大成果是驗證了一個道理——就和釣鱗一樣，「鱗」機應變，有時比計劃周密還管用。",
+    "zh-CN": "“波爬战术”这一战术概念最早由干员阿列什提出，其理论基础来源于一种常用于娱乐钓鳞的拟饵“波爬”。根据本人（非常详细但难以确证的）解释，波爬是一种浮水型假鳞，负责在水面跳舞、发光、摆尾、惹事，并最终激怒水底那群本来不打算理你的猛鳞，让它们冲出来发飙。简单说，就是：“你本来懒得动，但我偏要在你眼前蹦跶、装死、抢你东西，直到你追出来揍我——然后，你发现不止我一个人在这儿演戏。”\n\n你说最近的事儿？那原本只是一次普通的掩护任务。运输队要穿过十七号公路，那段公路上最近频繁有裂地者活动。据说他们不但抢货，抢人，还抢广播频道，把《夜航路况播报》都改成了粗口说唱。\n接到任务通知时，我本来正打算去维修钓竿，结果听说要去执行“普通掩护”，不知怎么地就产生了一种职业性倦怠。于是临走前，瞅了眼地图，嘟囔了句：“不如试试‘波爬’吧。”\n当然，没人知道我在说什么，运输队可能以为是某种新武器，点头点得很快。真是天真，随便说点啥都能获得支持。\n计划很简单：\n先把两辆卡车装作“中途抛锚”的样子停在路边，随便丢了几箱军火（里面都是砖头，别激动），还特地用喷漆写了“第一类型危险”，增加真实感。然后广播一段“求救音频”，声音颤得比我上次空竿还真。\n不出意外，第一拨裂地者很快来了。他们绕着车转悠，像一群对鲜鳞感兴趣的野兽，蹭蹭舔舔，还争着想把里面的“午饭”带回家。\n但这还没完。我稍微放大了一点广播音量，结果第二拨也来了。这群家伙一看情况不对，态度立刻从“我要抢”切换成了“你凭什么抢”。于是毫无过渡地，他们大打出手，就像野外的云兽为争一尾活鳞干上了。\n大家躲在山坡后看得津津有味，一边啃烤鳞干一边评判他们的打架姿势——说实话，比我年轻时码头帮派斗殴的样子难看多了。\n等打得差不多了，我们再像最后进场的犯罪现场摄影师一样出现：拍照，收尾，顺便把现场清扫干净。一群打残的、一群打死的，还有几个不知道到底是哪边的，反正都不剩几个能说话的了。\n运输队全程顺利通过，还有个司机回头说：“兄弟，这掩护做得真高级。”\n我说：“谢谢，我原计划是躺平看天，后来一不小心就钓了一锅。”\n其实这次行动的最大成果是验证了一个道理——就和钓鳞一样，“鳞”机应变，有时比计划周详还管用。",
+    "ja": "「ポッパー戦術」は、オペレーター・アレッシュによって最初に考案されたものである。その理論の根幹となるのは、鱗獣釣りにおいて使われる「ポッパー」というルアー。本人の（非常に詳しいが、検証は難しい）説明によれば、ポッパーとは水面に浮く疑似餌だそうだ。水面で踊り、光を反射し、尾びれを振って大騒ぎすることで、本来は水底でじっとしている獰猛な鱗獣を怒らせる――つまり、飛び出して殴りに来させるためのものらしい。簡単に言えば……「あんたが動く気さらさら無かったとする。んで、オレはあんたの目の前で好き勝手して、死んだフリしたりあんたの物奪ったり……で、我慢できねぇって殴りに来たら、この芝居はオレだけがやってんじゃなかった、的な？」\n\n最近の話？あー、あれか。「ただの護衛」だったヤツな。輸送隊が十七号道路通るっつー話だったけど、あの辺ランドブレーカーだらけなってんだろ？強盗だの拉致だの、ついでに放送ジャックして『夜行道路状況放送』をつまんねぇラップに変えてんだぜ。\n任務通知見たとき、釣り竿修理行くとこだったんだよ。「普通の護衛任務」って聞いたら、なんかダレちまって。地図見ながら「『ポッパー』でも投げるか」ってテキトーにボソっと呟いてみた。\n当然、誰も意味わかんねーはず……けど、輸送隊は新型兵器の名前かなんかだと思ったらしくてウンウン頷いてた。甘くね？全部フル採用って。\n基本単純な話なんだよ。\nトラック2台を「途中でエンスト」的な感じで止めて、武器箱もテキトーに何個か落っことす。（落ち着けって、中身はレンガ）ついでに、「第一類危険物」ってスプレーしとく。リアリティあんだろ？仕上げに「助けてくださーい」って音声流せば完璧。てか、迫真すぎてボウズだったときのオレより声震えてたな。\n案の定、ランドブレーカーが釣れた。鱗獣に鼻擦りつける野獣みてーな顔で、トラックの周りウロついて……全員が「昼飯はコイツだ」って目してたわ。\nけど、まだ終わんねえ。音量ちょい上げたらまた別のが寄ってきて、元からいたヤツらは「奪ってやる！」から「奪うんじゃねえ！」に変わった。んで、即殴り合いスタート。荒野で雲獣が鱗獣取り合ってんのと絵面一緒。\nオレらは丘の上から、焼き鱗獣干しかじりながら観戦してたぜ。フォームとか見てケチつけながら――正直オレがわけー頃、組織で殴り合ってたときのがマシだった。\n最後は現場写真撮りにきた調査員って雰囲気で登場。パシャっと1枚、片付け、掃除、終わり。半殺しのヤツ、多分死んでるヤツ、どっち側かわかんなくなってるヤツ……ま、口きけるヤツいなかったし、どーでもいいか。\n結果、輸送隊は無事通過。「よぉ兄貴、冴えた護衛だったな」なんてほざく運転手もいた。\n「空見て寝転ぶだけって思ってたのに、気づいたら一網打尽だった」って返しといた。\n今回、一番の収穫は――釣りも任務も、「鱗」機応変にってな――気づいちまった。これ、真理ってヤツじゃね？",
+    "ko": "포퍼 전술'이라는 전술 개념은 오퍼레이터 알레쉬, 바로 내가 처음 제안한 건데, 그 이론적 배경은 오락용 린수 낚시에 흔히 쓰이는 '포퍼'라는 가짜 미끼에서 나왔지.\n내가 설명해 주자면(아주 상세하지만 검증은 힘든), 포퍼는 물에 뜨는 가짜 린수인데, 수면에서 춤추고, 빛 뿜고, 꼬리 흔들고, 온갖 시끄러운 짓을 도맡아 하지. 그렇게 물속에서 가만히 있던 사나운 린수들을 자극해 뛰쳐나오게 하는 거야.\n간단히 말해, \"넌 원래 움직일 생각이 없었는데 내가 계속 눈앞에서 시비를 걸고, 죽은 척도 하고, 네 물건들을 뺏어가며 도발해. 그러다 네가 참다 참다 쫓아 나와서 때리려는 순간 깨닫지. 사실 나 혼자만 있는 게 아니란 걸.\"\n\n최근 있었던 그 일? 아, 그거. 원래는 그냥 평범한 엄호 임무였어. 운송팀이 17번 국도를 지나가야 했는데, 요즘 그 길에 '랜드브레이커' 놈들이 하도 설쳐댔거든. 듣자 하니 그놈들, 물건 뺏고, 사람 잡아가고, 심지어 라디오 채널도 가로채서 <야간 교통 정보 방송>을 전부 욕설 랩으로 바꿔버렸다더군.\n임무 통지를 받았을 때, 마침 낚싯대 수리를 하려던 참이었는데, '일반 엄호 임무'라고 하니까, 왠지 모르게 만사가 귀찮아지더라고. 그래서 떠나기 전에 지도를 힐끗 보고 한마디 중얼거렸지. \"이럴 바엔 '포퍼'나 한번 써볼까.\"\n당연히, 내가 뭔 소릴 하는지 아무도 몰랐어. 운송팀 녀석들은 그게 신형 무기인 줄 알고 고개를 끄덕이더라고. 참 순진해, 아무 말이나 막 던져도 다들 좋다니.\n계획은 간단했어.\n우선 트럭 두 대를 길가에 '고장' 난 것처럼 세워두고, 군수품 상자(안에는 벽돌만 들었으니 진정해) 몇 개를 아무렇게나 던져 놨지. 현실감을 살리려고 그 위에다 스프레이로 큼지막하게 '1급 위험'이라고 써놓는 것도 잊지 않았고. 그러고는 '구조 요청 음성' 방송을 틀었는데, 그 목소리 떨리는 게 지난번에 내가 허탕 쳤을 때보다 더 실감 나더라니까.\n\n예상대로, '랜드브레이커' 첫 번째 무리가 금방 나타났지. 그놈들은 갓 잡은 신선한 린수에 꼬인 짐승들처럼 트럭 주위를 어슬렁거리더군. 킁킁대고 핥아보고, 서로 안에 든 \"점심거리\"를 집에 가져가겠다고 싸웠지.\n근데 이게 끝이 아니었어. 내가 방송 볼륨을 살짝 더 키웠더니, 두 번째 무리가 또 몰려온 거야. 이놈들은 상황을 보아하니, 태도가 \"내가 뺏어야지\"에서 \"네놈이 뭔데 감히 뺏어가?\"로 바로 바뀌더군. 그래서 단 1초의 망설임도 없이, 지들끼리 치고받고 싸우기 시작한 거야. 꼭 야생 클라우드비스트가 한 마리 린수를 두고 싸우는 꼴 그대로였다니까.\n\n우린 언덕 뒤에서 구운 말린 린수를 씹으며 놈들의 싸움을 구경했어. 솔직히 말해서 내가 젊었을 때 부두에서 본 패싸움보다 훨씬 재미가 없어라.\n놈들이 얼추 싸움이 끝날 때쯤, 우리는 맨 마지막에 입장하는 범죄 현장 감식반처럼 나타났지. 사진을 찍고, 마무리하고, 현장을 정리했어. 중상을 입은 놈, 사망한 놈, 그리고 어느 편인지도 모를 놈들... 아무튼 말 제대로 할 수 있는 놈은 거의 안 남았더라고.\n운송팀은 무사히 통과했고, 운전기사가 뒤돌아보며 한마디 하더군. \"형씨, 이번 엄호는 정말 대단하네요.\"\n그래서 내가 말해줬지. \"고맙소, 원래 드러누워서 하늘이나 볼 생각이었는데, 어쩌다 보니 한 냄비 가득 낚아버렸네.\"\n사실 이번 작전의 가장 큰 성과는 이치를 하나 증명했다는 거야. 린수 낚시처럼 말이지. '린기응변'이, 가끔은 거창하게 짠 계획보다 훨씬 잘 먹힌다는 거."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "Lemme introduce an old friend of mine. Wait... Yeah. I think we're old friends. Anyway, the story begins with my least favorite angling style — Drop-n-Yank. \nDrop-n-Yank is just like what it says. No lures, no baits, and no waiting for the fins to bite. Drop the hook, yank with all your might, and hope it stabs into something that you can plop in the bucket. They call it angling, but it feels more like violent muggery to me — Absolutely zero patience or technique. One hundred percent deadly. \nI saw the technique for the first time at an abandoned wharf. An old angler with scars all over his face dropped, yanked, and man, it was aquatic murder. Blood everywhere and the poor fin was still flapping. A bunch of kids and I learned how to drop-n-yank by hiding behind the barrels while chewing on tortillas. \nThat was how I \"met\" my old friend. It was my first time doing the drop-n-yank and I pulled the thing up from the water. But it fought back and tore itself free. I couldn't forget that bloody wound and the disfigured eye. Ugh. I can still feel that eye staring at me. Of course, I didn't bother with human-fin relations back then. People have to angle when they get hungry, and we can't help it when things get ugly. \nWhen I was a punk kid, we lived like fins stuffed in a can. First thing we do in the morning was a headcount to see who survived and who got \"devoured\" by the streets. Stealing, mugging, and lying? Those were the survival techniques. We negotiated with fists. When you have to drop-n-yank for fins, you know how rough it was back in those days. \nThen some guy showed up. One that didn't treat us like feral wildlings. He taught us how to negotiate properly, how to step back a little, and how to protect those around us. He even handed me La Estrada. Told me that someone has to do something different for the city. I believed him, you know. Maybe I can clean up the biz and make a name for myself. \nNights got real quiet in those days. I would sometimes angle for fins at the wharf. That was when I saw it again. It became a great fin. The monstrous thing always fought back, always broke free, and always swam its victory circle. It was laughing at me with that ring of ripples. \nSo I fought with people in the day and the fin at night. And it lasted till ... my two most trusted friends gave me \"Game of Gangs the Reality Show\" plus a ton of backstabbing. They were like two insane raptorfins trying to off each other, and I paid an eye to get them to stop. On the day when the gang broke up, I sat at the wharf to see the waves breaking against the wall. We painted graffiti together as kids. Now there was nothing but froth. Our friendship became a dead fin. Scaled and scraped clean. \nThat was also the day when I realized it had become an old geezerfin — Old dude also lost a lot of weight and its scales were falling off. The injured eye had already turned entirely white. It leaped out of the water and stared at me coldly. It was laughing at me and telling me how I deserved everything. I thought it was our last meeting. \nBut just two days ago, I ran into the geezerfin during night angling after I closed shop — It was full moon and I knew old geezerfin bit the hook. Man, I know that deadly strength anywhere. The battle felt like it lasted a hundred years. You should have seen the splashes. Feels like Maymay testing out her explosives underwater. But I was the victor of the struggle. The line did not snap and I hoisted geezerfin out of the water. It looked way bigger than it did during its prime. I was about to lower it in the fin crate when I saw that — there was nothing on the hook. Even the bait was still intact. \nDid I actually hook the thing? Did it just come and leave? Or was it just my unresolved angst and dilemmas that used the cover of night to show themselves? I finally understood when the last ripples disappeared. \"It\" was no longer a simple fin. \nIt had become my lingering disappointments and obsession, an embodiment of \"what ifs\" left behind whenever I see someone leaving or dying early. I even toyed with the idea using the Originium Arts to \"hook\" it out in its entirety — I knew its form, its wounds, its actions, and even the way it stares at people. It's living with me, and it's way more alive than it had been in water.",
+    "zh-TW": "我們兩個應該算是老釣友了，介紹一個老朋友給你認識。不過得從我最討厭的釣法——錨鱗——講起。\n錨鱗，就是不放誘餌，不等鱗咬鉤，直接往水裡扎下鉤，然後迅速一拉，把那些可憐的玩意兒拉上來。說是釣，其實更像是街頭暴力現場——沒有等待，沒有技巧，只有「你死我活」。\n我小時候在廢船碼頭第一次看到這個，一臉刀疤的老漁夫一竿甩下去，拉上來，簡直是一個水下兇殺現場，血水四濺，鱗還在抖。我和一幫小鬼頭躲在油桶後面，一邊啃玉米餅，一邊就這樣學會了錨鱗。\n牠就是那個時候和我「認識」的。那是我第一次錨鱗，剛把牠拉上來，就被頑強地掙脫了。我忘不了牠身體上血淋淋的傷口，還有那隻被划傷的眼睛，似乎到今天還在死死地瞪著我。當然，那時我也沒時間研究人鱗關係。肚子餓了，就得下鉤。手段難看點也沒辦法。\n當時我們這群小孩，就像一罐塞得滿滿的鱗罐頭，早上睜眼先點人頭，看誰活著，誰昨晚被「吃掉」了。偷、搶、騙是生存技巧，打架是溝通手段。說白了，連釣鱗都得心狠手辣，更別說做人。\n後來，有個傢伙出現了。他沒把我們當野獸，他教我們怎麼談判、讓步，保護身邊的人。最後還把「埃斯特拉達幫」交給我，說這座城總要有人幹點不一樣的事。我信了，想說也許真的能乾淨點，混出個名堂。\n那陣子，只有深夜是安靜的。我偶爾去碼頭垂釣，於是又遇上了牠。牠已經成為一條大鱗，每次咬鉤都跟我對抗到底，最後總能掙脫釣線，挑釁地留下一圈譏諷的波紋。\n我就這樣白天和人明爭暗鬥，晚上定期和牠拉扯。直到最後……我最信任的兩個人為權力上演了一齣「幫派背刺真人秀」，像兩條反目的掠食鱗一樣廝殺了起來，我付出了一隻眼睛的代價才讓他們停手。幫派散了的那天，我呆坐在碼頭，看海浪衝著牆，把我們年輕時的塗鴉刷成一灘泡沫，就像死鱗一樣，刮得乾乾淨淨。\n那天，我才發現，牠已經變成了一條老鱗——比記憶中小了一圈，身上鱗落斑斑，受傷的眼睛已是渾白，躍出水面，還是冷冷地盯著我，彷彿是嘲笑我遭受的報應。從那以後，我再也沒遇到牠。\n但就在前天，鱗店收攤後夜釣時，我們竟然又遇到了——月光皎潔，我感覺得出來是牠咬了鉤，那股兇猛的力道，和當年一樣要命。這場架打了像有一個世紀那麼漫長，水面炸得像梅梅在那裡演習一樣。最後我贏了，線沒斷，牠被高高地拉出了水面，體型比記憶裡最大的時候還大了一圈。但當我要把牠收進鱗護網時，低頭一看——鉤子是空的，餌都沒被動過。\n我到底有沒有釣上牠？也許牠真的來了，又走了？也許是我心裡某個沒解的結，在藉著夜色發作？等水面靜下來，我突然明白：「牠」早已不是當初那條鱗了。\n牠變成了我心裡一直沒消散的那份遺憾，是我放不下的執念，是我目睹太多人離開、死去之後留下的「如果當時」。我甚至猜想，用源石技藝的話，我還能再把牠完整地「釣」出來——形狀、傷口、動作，甚至眼神都清清楚楚。牠活在我這裡，比活在水裡還真實。",
+    "zh-CN": "我俩应该算是老钓友了，给你介绍一个老朋友。不过得从我最讨厌的钓法——锚鳞——讲起。\n锚鳞，就是不放诱饵，不等鳞咬钩，直接往水里扎下钩，然后猛地一拉，把那些可怜的玩意儿拽上来。说是钓，其实更像是街头暴力现场——没有等待，没有技巧，只有“你死我活”。\n我小时候在废船码头第一次见到这个，一脸刀疤的老渔夫一竿甩下去，拉上来，简直是一个水下凶杀现场，血水四溅，鳞还在抖。我和一帮小鬼头躲在油桶后头，一边啃玉米饼，一边就这样学会了锚鳞。\n它就是那个时候和我“认识”的。那是我第一次锚鳞，刚把它拉上来，就被顽强地挣脱了。我忘不了它身体上血淋淋的伤口，还有那只被划伤的眼睛，似乎到今天还在死死地瞪着我。当然，那会儿我也没工夫研究人鳞关系。肚子饿了，就得下钩。手段难看点也没办法。\n当时我们这群小孩，就像一罐塞得满满的鳞罐头，早上睁眼先点人头，看谁活着，谁昨晚被“吃掉”了。偷、抢、骗是生存技巧，打架是沟通手段。说白了，连钓鳞都得心狠手辣，更别说做人。\n后来，有个家伙出现了。他没把我们当野兽，他教我们怎么谈判、让步，护住身边的人。最后还把“埃斯特拉达帮”交给我，说这座城总得有人干点不一样的事。我信了，想着也许真能干净点，混出个名堂。\n那阵子，只有深夜是安静的。我偶尔去码头垂钓，于是又遇上了它。它已经成了一条大鳞，每次咬钩都跟我死磕到底，最后总能挣脱钓线，挑衅性地留下一圈讥讽的波纹。\n我就这样白天和人明争暗斗，晚上定期和它角力。直到最后……我最信任的两个人为权力上演了一出“帮派背刺真人秀”，像两条反目的掠食鳞一样厮杀了起来，我付出了一只眼睛的代价才让他们停手。帮派散了的那天，我呆坐在码头，看海浪冲着墙，把我们年轻时的涂鸦刷成一滩泡沫，就像死鳞一样，剐得干干净净。\n那天，我才发现，它已经变成了一条老鳞——比记忆中小了一圈，身上鳞落斑斑，受伤的眼睛已是浑白，跃出水面，还是冷冷地盯着我，仿佛是嘲笑我遭受的报应。从那以后，我再也没遇到它。\n但就在前天，鳞店收摊儿后夜钓时，我们竟然又碰上了——月光皎洁，我感觉得出来是它咬了钩，那股凶猛的力道，和当年一样要命。这场架打了仿佛有一个世纪那么漫长，水面炸得像梅梅在那里演习似的。最后我赢了，线没断，它被高高地扯出了水面，体型比记忆里最大的时候都大上了一圈。但当我要把它收进鳞护时，低头一看——钩子是空的，饵都没被动过。\n我到底有没有钓上它？也许它真的来了，又走了？也许是我心里某个没解的结，在借着夜色发作？等水面静下来，我突然明白：“它”早不是当初那条鳞了。\n它变成了我心里一直没消散的那份遗憾，是我放不下的执念，是我目睹太多人离开、死去之后留下的“如果当时”。我甚至猜想，用源石技艺的话，我还能再把它完整地“钓”出来——形状、伤口、动作，甚至眼神都清清楚楚。它活在我这里，比活在水里还真实。",
+    "ja": "オレたち、もうすっかり釣り友だろ。今日は、「昔馴染み」の話……いや、その前にオレが一番嫌いな釣り方――「ひっかけ釣り」の話、しとかねーとな。\nひっかけ釣りってのは、エサ無し、鱗獣が食いつくのも待たねえ、フック水に突っ込んでただそのまま引っ張り上げるってやり方。かわいそーだと思わねえ？釣りってより、ただのケンカだ。待つこともねえ、技術もいらねえ。「やるかやられるか」ってだけ。\nガキん頃、使ってねぇ船がサビて転がってる港で初めて見たんだよ。顔に刀傷ついたジジイが竿投げて――水面はすぐ血まみれの殺人現場みてーに真っ赤になった。まだ、鱗獣がピクピク動いてんのも見た。オレたちはオイルタンクの影に隠れてトルティーヤかじりながら……ひっかけ釣りを覚えちまった。\nで、その「昔馴染み」と知り合ったのは、初めてのひっかけ釣りんときだった。引き上げた瞬間、すぐ逃げられちまったけど……血まみれの傷口と潰れた片目は、はっきり覚えてんだ。今でも睨み付けられてるみてぇな――もちろん、あの頃のオレに「人鱗関係」なんて考える頭なんか無かったに決まってる。腹が減ったから、フックを投げた。汚ねぇやり方でも、そうするしかなかった。\nあの頃のオレたちはギチギチに詰め込まれた鱗獣缶みてーなもんだった。目覚ましたら人数確認。誰が生き残って、夜に「食われた」のは誰か、確かめる。生きるために、盗んで、奪って、騙す。ケンカは立派な会話手段。鱗獣にだって、情けを賭けることはねえ。人なら……そりゃ、当然だろ？\nそんなとき、現れたのがアイツだった。オレたちを野獣みたいに扱ったりしねえ。生きるために、交渉して、引き際知って、守る。その方法を教えてくれた。最後オレに「ラ・エストラーダ」押し付けて、こう言った。「この街には違うやり方が必要だ」――オレは、信じたよ。少しは綺麗な道を歩いて、なんかできんのかもしんねぇって。\nあの頃、静かな時間は深夜しかなかった。オレは埠頭で釣りして……そこでまた「昔馴染み」に会った。もうすっかり大物ヅラして、針に食いついては暴れて、最後は糸切って逃げる。オレのこと笑ってるみてぇな波紋だけ残して……\n昼は表と裏の人間相手、夜は「大物」相手……そんな日々が続いた。オレが一番信じてた2人が「組織裏切りショー」始めるまでは。権力争いで、肉食鱗獣みてーに噛み付き合って……やっと止まったとき、オレは片目を失くしてた。組織が解散した日、オレは1人で港に座って海見てた。波が壁にぶつかって、ガキん頃の落書きは泡になって流れて……死んだ鱗獣のウロコみてーだなって。跡形も残さず剥がれ落ちてった。\n「昔馴染み」もすっかりジジイになって、頭ん中の記憶より一回りも小さくなってんのに、その日気付いた。ウロコも剥げてまだらになって、潰れた目は白く濁って。それでも暴れて冷たい目でオレを睨む……「報いだ」――笑われてるみてぇだった。それが、最後。それ以来、会ってなかった。\nけど一昨日……店閉めて夜釣りしてたら、いたんだよ。月が白く光って、食いついた瞬間にわかった。あの暴れ方、あのバカ力。昔と変わんねえ……戦いは互角、オレにとっては1世紀かって思うくれーの長さ。メイメイが演習してるみてぇに弾ける水面……んで、最後に勝ったのは、オレだ。糸に繋がったまま、高く掲げられたその姿は――どの記憶よりもデカい「大物」だったよ。けど、鱗獣カゴ出したら……針にはなんもついてねえ。エサもそのまんま。\n――本当に釣ったのか？一度釣って、消えちまったのか？それとも、オレの心に残った針が、夜に乗じて暴れただけか？穏やかな水面を見ながら、そのとき気付いた。あれはもう、あの鱗獣じゃねぇんだって。\nあれは消せねぇ後悔、オレの中に居座る執念――離れてった連中、死んでった仲間……その度に湧き上がる「もしオレが」の積み重ねだ。たぶん、アーツを使えば、完全に「釣り上げる」ことはできる。身体も、傷口も、動きも、あの目も。ヤツは今、オレん中で生きてる。水ん中いたあの頃より、もっとリアルに。",
+    "ko": "우리 둘도 이젠 꽤 오래된 낚시 친구잖나. 내 오랜 친구 녀석을 하나 소개해 주지. 근데 그러려면 내가 제일 혐오하는 낚시법... '훌치기'부터 얘기해야겠군.\n훌치기란 게 뭐냐면, 미끼도 안 써. 린수가 물기를 기다리지도 않아. 그냥 물속에 바늘을 처박고, 냅다 잡아채서 저 불쌍한 놈들을 끌어올리는 거지. 낚시라고는 하지만, 실은 길거리 폭력 현장에 더 가까워. 기다림도 없고, 기술도 없어. 오직 '네가 죽든 내가 죽든'만 있는 거지.\n\n어릴 때 버려진 배가 있는 부두에서 처음 봤지. 얼굴에 칼자국이 가득한 늙은 어부가 낚싯대를 휙 던졌다가 끌어올리는데, 이건 뭐... 수중 살인 현장이 따로 없더군. 피가 튀고, 린수는 파들파들 떨고 있었어. 나랑 꼬맹이 녀석들은 기름통 뒤에 숨어서 옥수수빵이나 뜯어 먹으면서, 그렇게 훌치기를 배웠지.\n그 녀석이랑 '알게' 된 것도 그때였어. 내 첫 훌치기였는데, 막 끌어올리자마자 억척같이 발버둥 쳐서 도망가 버렸거든. 그놈 몸에 남은 피투성이 상처랑... 낚싯바늘에 긁힌 그 눈. 오늘까지도 날 죽일 듯이 노려보는 것 같아. 물론, 그땐 뭐... 린수와 인간의 관계 따윌 연구할 틈이 없었지. 당장 배가 고프면 바늘을 던져야 했으니까. 수단이 좀 더러워도 별수 있나.\n\n그때 우리 같은 꼬맹이들은 꽉꽉 눌러 담은 린수 통조림 같았어. 아침에 눈뜨면 인원 수부터 셌지. 누가 살았고, 누가 간밤에 '잡아먹혔는지'. 훔치고, 뺏고, 속이는 게 생존 기술이었고, 싸움질이 의사소통 수단이었어. 까놓고 말해서, 린수 낚시질조차 그렇게 모질게 해야 했는데, 사람 노릇은 오죽했겠냐고.\n그러다 어떤 양반이 나타났어. 우릴 짐승 취급하지 않았지. 협상하는 법, 양보하는 법, 곁에 있는 놈들을 지키는 법을 가르쳐 줬어. 마지막엔 '에스트라다'까지 나한테 넘기면서, 이 도시엔 뭔가 다른 일을 하는 놈도 있어야 한다더군. 난 그 말을 믿었어. 정말 좀 깨끗하게, 그럴듯하게 살아볼 수 있을지도 모른다고 생각했지.\n\n그 시절엔 밤늦게나 돼야 조용했어. 가끔 부두에 낚시하러 갔다가... 또 그놈이랑 마주쳤지. 이젠 제법 큰 린수가 됐더군. 놈은 입질할 때마다 나랑 죽기 살기로 싸웠고, 마지막엔 꼭 낚싯줄을 끊고 도망쳤어. 날 비웃는 듯한 물결만 남기고 말이야.\n그렇게 낮에는 사람들이랑 아귀다툼을 하고, 밤에는 정기적으로 그놈이랑 힘겨루기를 했지. 그러다 결국... 내가 가장 믿었던 두 놈이 권력 때문에 '파벌 통수 리얼리티 쇼' 한 편을 찍더군. 서로 잡아먹으려고 으르렁대는 린수 두 마리처럼 말이야. 난 한쪽 눈을 잃고 나서야 겨우 그놈들을 멈춰 세웠지. 파벌이 해산되던 날, 난 부두에 멍하니 앉아 있었어. 파도가 벽을 때리면서, 우리가 어릴 때 해놓은 낙서들을 거품으로 씻어내는 걸 봤지. 마치 죽은 린수 비늘 벗겨내듯이, 아주 깨끗하게 말이야.\n그날, 난 그놈이 이젠 늙은 린수가 됐다는 걸 알았어. 기억보다 몸집은 작아졌고, 비늘은 군데군데 떨어져 나갔더군. 상처 입었던 눈은 허옇게 변해 있었지. 놈은 물 밖으로 튀어 올라서도, 여전히 차갑게 날 노려봤어. 꼭 내가 받은 벌을 비웃는 것처럼 말이야. 그날 이후로, 그놈을 다시는 못 만났어.\n\n근데 바로 엊그제, 가게 문 닫고 밤낚시를 하는데, 우리가 또 마주친 거야. 달빛이 참 밝았는데, 녀석이 입질했다는 걸 딱 알겠더군. 그 빌어먹을 힘이, 옛날처럼 아주 사람 잡겠더라고. 한 세기는 족히 싸운 것 같았어. 수면이 꼭 메이메이가 거기서 훈련이라도 하는 것처럼 난리가 났지. 결국 내가 이겼어. 줄이 안 끊어졌거든. 녀석은 물 밖으로 거대하게 끌려 나왔어. 기억 속 가장 컸을 때보다도 한 바퀴는 더 크더군. 근데 녀석을 살림망에 넣으려고 고개를 숙였는데... 바늘이 비어있었어. 미끼는 건드리지도 않았더군.\n\n내가 대체 그놈을 낚은 건가, 만 건가? 녀석이 정말 왔다가 그냥 가버린 걸까? 아니면 내 마음속에 풀리지 않은 응어리가 밤중에 도진 걸까? 수면이 잠잠해지고 나서야, 난 불현듯 깨달았어. '그놈'은 애초에 그때 그 린수가 아니었다는 걸.\n그놈은 내 마음속에서 사라지지 않는 미련이 됐고, 내가 놓지 못하는 집착이 됐고, 너무 많은 놈들이 떠나고 죽는 걸 본 뒤에 남은 '그때 만약'이라는 후회가 된 거야. 심지어 이런 생각도 들어. 오리지늄 아츠를 쓰면, 녀석을 완전히 '낚아'낼 수 있을 거라고. 그 형체, 상처, 몸짓, 심지어 눈빛까지 전부 생생하게 말이지.\n그놈은 여기, 내 안에서 살아. 물속에서보다 훨씬 더 진짜처럼 말이야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0024_deepfin_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Huh? Is it my turn already?",
+    "zh-TW": "這就換我出場了？",
+    "zh-CN": "这就到我出场了？",
+    "ja": "もうオレの出番かよ？",
+    "ko": "벌써 내 차례라고?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Since you're around, we're definitely catching something today.",
+    "zh-TW": "有你在，今天一定不會空手而歸。",
+    "zh-CN": "有你在，今天一定不会空手而归。",
+    "ja": "あんたがいたら、さすがにボウズってことはねーよな。",
+    "ko": "네가 있으니, 오늘은 빈손으로 돌아갈 일은 없겠네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Ah... I sprained my ankle yesterday... My hips hurt, and my neck, too...",
+    "zh-TW": "其實我昨天扭到腳了，而且腰痛，脖子也痛……",
+    "zh-CN": "其实我昨天崴着脚了，而且腰疼，脖子也疼……",
+    "ja": "実は昨日足ひねっちまって……あーあとは腰も首も微妙に痛ぇっつーか……",
+    "ko": "사실은 어제 발목을 살짝 삐끗했지 뭐야. 그러고 보니 허리도 쑤시고 목도 좀 뻐근한데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "You got plenty of heavy hitters already. Sure you need me for the job?",
+    "zh-TW": "隊伍裡高手這麼多，我看也不差我一個了吧？",
+    "zh-CN": "队伍里高手这么多，我看也不差我一个了吧？",
+    "ja": "ここ、強えーヤツばっかじゃん？オレがいなくても変わんね―って。",
+    "ko": "팀에 실력자들이 이렇게 많은데, 나 하나쯤 없어도 되지 않겠어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Hmm. Looks sturdier than a bamboo stick. At least this one isn't going to break into pieces.",
+    "zh-TW": "好像比竹竿結實點，不會被輕易折成幾段。",
+    "zh-CN": "好像比竹竿结实些，不会被轻易折成几段。",
+    "ja": "まあ、竹竿よりはマシってか？ポッキリ折れたりはしねーだろ。",
+    "ko": "대나무보단 튼튼한 것 같네. 이 정도면 웬만해선 잘 안 부러지겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "Now this will keep the bruises off me.",
+    "zh-TW": "這樣就不會受傷了。",
+    "zh-CN": "这样就不会受伤了。",
+    "ja": "これでケガしねーで済むな。",
+    "ko": "이러면 덜 다치겠지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "I actually survived a whole week of special training. Can't believe I managed to work that hard.",
+    "zh-TW": "這就是我一週特訓的成果啊，我居然會有這麼努力的時候。",
+    "zh-CN": "这就是我一周特训的成果啊，我居然会有这么努力的时候。",
+    "ja": "これが1週間特訓した成果ってヤツか？オレがここまでやるって、奇跡だって。",
+    "ko": "이게 바로 내가 일주일을 갈아 넣은 특훈의 결과였구나? 나도 내가 이렇게 열심히 할 줄은 몰랐는데."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "This beats what we had on TV back home, plus it's fresh stuff every time!",
+    "zh-TW": "比老家的電視節目有趣多了，而且內容從不重複。",
+    "zh-CN": "比老家的电视节目有趣多了，而且内容从不重复。",
+    "ja": "テレビよりずっとおもしれーし、毎回内容も違うしで飽きねぇな。",
+    "ko": "고향에서 보던 방송보다 훨씬 재밌네. 내용도 다양하고 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Hold on — this ceremony's for me? Oh wow ... what do I even say? I-I guess ... thank you?",
+    "zh-TW": "這麼隆重嗎？有點搞不清楚狀況啊，現在應該說謝謝嗎？",
+    "zh-CN": "这么隆重吗？有点搞不清状况啊，现在应该说谢谢吗？",
+    "ja": "すげー大げさだな……さすがのオレも戸惑うって。よくわかんねーけど、礼言っとけばいいだろ？",
+    "ko": "뭐야, 왜 이렇게 거창해? 좀 상황 파악이 안 되는데, 나 지금 '고마워'라고 해야 하는 거 맞지?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "No need to keep encouraging me like this, Endmin. It's weird, but praise actually makes me wilt like an overwatered flower.",
+    "zh-TW": "其實不用一直鼓勵我，管理員，我有一種被誇獎後會迅速枯萎的毛病。",
+    "zh-CN": "其实不用一直鼓励我，管理员，我有一种被夸奖后会迅速枯萎的毛病。",
+    "ja": "そんな褒めんなって、管理人。オレ、褒められるとすぐダメんなるから。",
+    "ko": "너무 응원하고 그러지 마. 나 칭찬받으면 금방 기운 빠져버리는 타입이란 말이야."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Must be tiring taking all this responsibility on your own, Endmin. Ahh. I guess I got no choice but to help you for now.",
+    "zh-TW": "一個人背負重擔，很辛苦吧？沒辦法，那我就先當你的幫手囉。",
+    "zh-CN": "一个人背负重担，很辛苦吧？没办法，那我就先当你的帮手咯。",
+    "ja": "1人で全部抱えんのは普通にしんどいだろ。しゃあねえ、オレが手伝ってやるよ。",
+    "ko": "혼자서 무거운 짐을 진다는 건 참 고단한 일이야, 그렇지? 뭐, 어쩔 수 없네. 이 몸이 도와주지."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "Why are you looking happier than me? I thought this is *my* promotion. Okay, then. Let's celebrate at the churrascaria. I only want the best BBQ cuts, and you're picking up the check.",
+    "zh-TW": "明明是我升職，你怎麼看起來比我還高興？那就一起去烤肉餐廳慶祝吧，我要吃品質最好的肉，你買單。",
+    "zh-CN": "明明是我升职，你怎么看起来比我还高兴？那就一起去烤肉餐厅庆祝吧，我要吃品质最好的肉，你买单。",
+    "ja": "昇進したのはオレなのに、あんたのほうが嬉しそうじゃねーか？じゃ、焼肉いくか。最高級のヤツな。もちろん、あんたの奢り。",
+    "ko": "강해진 건 난데, 왜 네가 더 기뻐하는 것 같지? 자, 축하할 겸 고기 먹으러 가자, 최고급 고기로! 계산은 네가 해."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Excuse me, is this where we sign up for the job? Nice meeting you. Name's Alesh. I like to read, and I can do angling with my eyes closed. Happy to be on board.",
+    "zh-TW": "打擾了，報到地點是在這裡嗎？初次見面，我是阿列什。愛好是讀書，專業技能是可以閉著眼睛釣鱗，請多指教。",
+    "zh-CN": "打扰了，报到地点是在这里吗？初次见面，我是阿列什。爱好是读书，专业技能是可以闭着眼睛钓鳞，请多指教。",
+    "ja": "あー、場所ってここで合ってんのか？オレはアレッシュ。趣味は読書、特技は目閉じたまま鱗獣釣ること。ま、よろしく。",
+    "ko": "저기... 여기서 신고하면 되는 건가? 안녕, 난 알레쉬라고 해. 취미는 독서고, 눈 감고 낚시하는 게 내 특기야. 앞으로 잘 부탁해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "What a beautiful day. Perfect for my nap.",
+    "zh-TW": "今天陽光不錯，是適合睡覺的好天氣。",
+    "zh-CN": "今天阳光不错，是适合睡觉的好天气。",
+    "ja": "あったけーな。サイコーの昼寝日和ってヤツ？",
+    "ko": "오늘 날씨 좋네, 낮잠 자기 딱 좋은 날씨야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Empty wallet, story of my life...",
+    "zh-TW": "錢包又空了啊……",
+    "zh-CN": "钱包又空了啊……",
+    "ja": "知らねーうちに財布すっからかん……",
+    "ko": "지갑이 또 텅텅 비었네..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Ahh... The moment you say \"work,\" all my energy just evaporates. I vote nap before task, Endmin.",
+    "zh-TW": "啊啊……一提到工作就好沒幹勁啊……我應該先休息一下，管理員。",
+    "zh-CN": "啊啊……一提到工作就好没干劲啊……我应该先休息一下，管理员。",
+    "ja": "なんつーか、任務って聞くとやる気出ねぇっつーか……ちょっと休んでから行くわ。",
+    "ko": "아아... 일 얘기만 하면 힘이 축 빠져버려... 관리자, 나 좀 쉬어야 할 것 같은데."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Yo! I bump into you all the time. How's work today?",
+    "zh-TW": "唷，又見面了，今天工作怎麼樣？",
+    "zh-CN": "哟，又见面了，今天工作怎么样？",
+    "ja": "おう、また会ったな。今日の任務はどんな感じだったんだ？",
+    "ko": "오, 또 만났네? 일은 잘 돼가?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Boss, don't you feel tired? I can teach you how to sneak in a nap, you know.",
+    "zh-TW": "你不累嗎？可以學我找個時間休息一下。",
+    "zh-CN": "你不累吗？可以学我找个时间休息一下。",
+    "ja": "疲れねーのか？オレみてーにテキトーにサボるのも大事だぜ。",
+    "ko": "안 피곤해? 나처럼 요령껏 쉴 줄도 알아야 하는 거라고."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Nothing's left on the schedule? Great. Time to catch that angling show rerun.",
+    "zh-TW": "接下來應該沒什麼事了吧。待會有個釣鱗節目重播，我趕著去看。",
+    "zh-CN": "接下来应该没什么事了吧。待会儿有个钓鳞节目重播，我赶着去看。",
+    "ja": "もうやることねーよな？このあと釣り番組の再放送あんだよ。早く行かねーと。",
+    "ko": "이제 별일 없지? 조금 있으면 낚시 방송 재방하는데, 그거 보러 가야 되거든."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "That place. Yeah. That one all covered in snow. It's the north, right? I would not be seeing this if I never joined Endfield. When I first got on Dijiang, the view from the bridge was almost too much to take in. Now that I'm used to it, looking down at Talos-II from up here feels pretty magical.",
+    "zh-TW": "那片被冰雪覆蓋的區域就是北地吧？不是來終末地的話，我可能永遠也看不到這種風景。雖然剛來帝江號那時，往舷窗外看有點心慌，但適應之後，這種在空中看塔衛二的感覺還蠻奇妙的嘛！",
+    "zh-CN": "那片被冰雪覆盖的区域就是北地吧？不是来终末地的话，我可能永远也见不到这种风景。虽然刚来帝江号那会儿，往舷窗外看有点心慌，但适应之后，这种在空中看塔卫二的感觉还挺奇妙的嘛！",
+    "ja": "あの雪と氷に覆われた場所が北地だろ？こんな景色、エンドフィールドに来なきゃ、永遠に拝むことなかっただろうな。帝江号に来たばっかのときは、窓から外見るだけでビビってた。でも慣れちまうと、空からタロⅡを眺めるこの感じ、悪くねーもんだな。",
+    "ko": "저기 눈 덮인 곳이 북쪽 지역이지? 엔드필드가 아니었다면 평생 볼 수 없는 풍경이었는지도 모르겠네. 처음 제강호에 왔을 때는 창밖 풍경이 좀 무서웠지만, 익숙해지고 나서는 공중에서 보는 탈로스 II가 묘하게 신비롭더라?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "My combat skills? I just swing the sword around and hope it hurts something real bad, boss. But you can also learn my special skill after fighting giant Tuskbeasts, man-eating vines, full metal Aggeloi, and dudes who owe you serious money.",
+    "zh-TW": "我的作戰實力？只是拿劍亂揮砍的程度，野路子而已。如果你曾經砍過三公尺長的牙獸、會動的藤蔓、鋼鐵構成的天使和欠錢不還的「好兄弟」，你也可以掌握這樣的「劍法」。",
+    "zh-CN": "我的作战实力？只是拿剑胡乱挥砍的水平，野路子罢了。如果你曾经砍过三米长的牙兽、会动的藤蔓、钢铁构成的天使和欠钱不还的“好兄弟”，你也可以掌握这样的“剑法”。",
+    "ja": "実力？ま、剣をテキトーに振り回してるだけの我流だって。3メートルある牙獣とか、動き回る蔓とか、鋼のアンゲロスとか、あとは金貸してんのにトンズラする「マブタチ」――あたりをぶった斬っとけば、おまえもこれくらいは余裕だろ。",
+    "ko": "내 전투 실력? 그냥 막 아무렇게나 휘두르는 길거리 수준이지 뭐. 3미터짜리 터스크비스트나, 살아 움직이는 덩굴, 강철로 된 아겔로스, 그리고 돈 떼먹은 '친구'까지 베다 보면 너도 이런 '검술'을 익힐 수 있을 거야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "You see, folks my age get bored of a lot of things. Angling's the only escape I've got left from all this grim reality. Wha? I'm still young? Cut the buggerloid crap, I'm way older... Wait, Endmin. How old are you again?",
+    "zh-TW": "人啊，到了這個年紀就會對很多東西失去興趣，釣鱗算是我唯一可以逃避現實的方式了。我還年輕？你說什麼呢，我可是比你……呃。管理員，你到底算多大？",
+    "zh-CN": "人啊，到了这个年纪就会对很多东西失去兴趣，钓鳞算是我唯一可以逃避现实的方式了。我还年轻？你说什么呢，我可比你……呃。管理员，你到底算多大？",
+    "ja": "このトシにもなれば、興味持つことなんてどんどんなくなっちまう。ま、釣りくれぇじゃね？現実逃避ってヤツできんの……って、オレが若いってか？何言ってんだよ。あんたのがずっと――あー、管理人。あんた、いくつだ？",
+    "ko": "살다 보면 말이지, 나이가 들수록 점점 모든 일에 흥미가 없어져. 낚시는 그나마 현실을 잊게 해주는 유일한 탈출구지. 내가 아직 젊다고? 무슨 소리야, 난 너보다 훨씬... 어라, 근데 관리자, 넌 대체 몇 살이야?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "I've been flipping through this book about common folks. Y'know, stuff like survival and humanity's struggle doesn't usually interest me... But I feel the author is like ... like someone who actually lived the life. Ai, what's wrong? Why so serious all of a sudden? Relax, Boss. I'm just saying I admire the author, that's all.",
+    "zh-TW": "我在看一本書，講的都是些小人物的故事。其實我不太關注裡面那些生存的意義啊，人性的掙扎啊這些東西。我只是覺得寫這本書的人，好像真的經歷過類似的事。怎麼突然這副表情？我只是欽佩他而已，真的真的！",
+    "zh-CN": "我在看一本书，讲的都是些小人物的故事。其实我不太关注里面那些生存的意义啊，人性的挣扎啊这些东西。我只是觉得写这本书的人，似乎真的经历过类似的事。怎么突然这副表情？我只是钦佩他而已，真的真的！",
+    "ja": "今読んでる本、全然大したことねーヤツらの話ばっかでさ。ぶっちゃけ、生きがいとか心の葛藤とかは興味ねーんだけど、本書いたやつはマジでこんな体験してんだよな。柄にもなく感動し……って、なんだよその顔。尊敬してるって話だっつの。",
+    "ko": "요즘 내가 읽고 있는 책 말인데, 나오는 사람들 다 지극히 평범하거든? 뭐 삶의 의미가 어쩌고, 인간성이 어쩌고 하는 건 잘 모르겠고. 근데 그걸 쓴 사람은 진짜 그런 인생을 살아본 느낌이더라고. 어? 그 표정은 뭐야? 에이, 아니야! 난 그냥 작가가 대단하다는 뜻이야, 진짜라니까!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Being hard to kill is probably my only advantage. I got hit real bad a couple of times, but there were too many people I might miss — like my buddies, the old landlord ... and you guys as well. The thought alone always makes me crawl back up for round two.",
+    "zh-TW": "我唯一的優點，大概就是生命力比較頑強吧，受多重的傷也不會倒下，因為心裡有很多重要的人——過去的朋友、房東老頭……現在還有你們。無論如何，我都要爬起來繼續戰鬥的。",
+    "zh-CN": "我唯一的优点，大概就是生命力比较顽强吧，受多重的伤也不会倒下，因为心里有很多重要的人——过去的朋友、房东老头......现在还有你们。无论如何，我都要爬起来继续战斗的。",
+    "ja": "オレの取り柄はしぶとさくらいだよ。どんだけボロボロなっても、簡単にはくたばらねーよ。オレには大切なヤツらがたくさんいる――昔の仲間に大家のジイさん、あとはあんたたちも。どんなだったとしても、オレが立ち上がって戦ってやるから。",
+    "ko": "내 유일한 장점이라면... 아마도 끈질기다는 거겠지. 아무리 다쳐도 쓰러지지 않아. 왜냐면 마음속에 지켜야 할 사람들이 많거든. 예전 친구들, 집주인 영감탱이... 그리고 지금 너희들까지. 그러니 무슨 일이 있어도 다시 일어설 거야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Here, Boss. Got something nice for you. The shop got this fifty percent discount if you buy another. A great steal, right?",
+    "zh-TW": "順手買了份禮物給你，拿著。商店買兩件打五折，是不是很划算？",
+    "zh-CN": "顺手给你买了份礼物，拿着。商店买两件打五折，是不是很划算？",
+    "ja": "これ、やるよ。2つで半額だったし、ついでに買ってきてやった。「お買い得」だろ？",
+    "ko": "그냥 네 생각이 나서 하나 샀어. 자, 받아. 가게에서 두 개 사면 반값이더라고. 어때, 잘 샀지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "For me? Holy... I usually get love letters from butt-hurt punks asking me to pay up or guys who want to kill me. Never expected to get a real gift.",
+    "zh-TW": "給我的？除了催債信和仇家恐嚇信，居然有人送我正常的禮物。",
+    "zh-CN": "给我的？除了催债信和仇家恐吓信，居然有人送我正常的礼物。",
+    "ja": "オレにか？借金の督促状か脅迫状以外、まともなプレゼントなんて貰えるわけねーって思ってたわ。",
+    "ko": "나 주는 거야? 빚 독촉장이랑 원수들 협박 편지는 많이 받아봤는데, 이런 선물은 또 처음이네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Feeling low? Man, young people should be hopeful. I know things are terrible, but it's going to get worse from now. See? You're feeling a lot better already, right?",
+    "zh-TW": "心情不好嗎？年輕人看開點啦。雖然現在很難受，但一想到接下來還會有更多煩心的事，是不是好受多了？",
+    "zh-CN": "心情不好吗？年轻人看开点啦。虽然现在很难受，但一想到接下来还会有更多烦心事，是不是好受多了？",
+    "ja": "気分でも悪ぃのか？わけーんだからよ、気抜いていーんだって。今キツいったって、この先もっと面倒でツラいこともある。なら今なんてマシ、そー思わねえ？",
+    "ko": "기분 별로야? 젊은이, 인생이 다~ 그런 거야. 지금은 힘들겠지만, 앞으로도 더 골치 아픈 일들이 줄 서서 기다리고 있다고 생각하면, 오히려 지금이 더 나은 거 같지 않아?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Why did I join Endfield? My old wooster landlord. That's why. He's always angry, you know. My fin shop isn't doing too good and I owed him months of rent. So he got me a job without asking me. Don't know what he wrote for my resume, but you accepted it... So here I am.",
+    "zh-TW": "來終末地的原因？是我那個工團退休的房東老頭啦，平常兇巴巴的。我的鱗店生意不景氣，欠了他幾個月房租，那傢伙就擅自決定再幫我找份工作。也不知道他到底在我履歷上寫了什麼，你們居然通過了。",
+    "zh-CN": "来终末地的原因？是我那个工团退休的房东老头啦，平时凶巴巴的。我的鳞店生意不景气，欠了他几个月房租，那家伙就擅自决定再替我找份工作。也不知道他到底在我简历上写了什么，你们居然通过了。",
+    "ja": "エンドフィールドに来たきっかけ？工業団引退した大家のジイさんだよ。クソこえー顔したな。オレの店が全然ダメで、家賃滞納しまくってたら勝手に仕事探してきたんだよ。履歴書に何書いたか知らねーが、まさか通るなんてな。",
+    "ko": "왜 엔드필드에 오게 됐냐고? 그게 다 공단에서 은퇴한 집주인 영감탱이 때문이지. 평소에는 무서운 사람이지만, 내 가게가 망하고 몇 달 치 집세를 못 냈더니, 그 영감탱이가 제멋대로 새 일자리를 찾아줬지, 뭐야. 이력서에 도대체 뭐라고 썼는지 모르겠지만, 너희들 덕분에 이렇게 됐네."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "What's that in your hand? \"Second Gangster Leading La Estrada\"...? The cara in the photo looks like me? Eh, who's to say. C'mon, we should live in the moment. No point digging up what's meant to stay buried. It'd be a shame if we let some old dusty story come between us, don't you think? Uh, why are you asking Perlica for the Security Bureau's number?",
+    "zh-TW": "你手上的是什麼？「埃斯特拉達幫第二任當家」……照片上的人好像是我？知道這些重要嗎？每個人都有一段想要埋葬的往事，過好當下才最重要。你不會因為這些無聊的過去就開始疏遠我的，對吧……嗯？你為什麼要問佩麗卡安全局的聯絡方式？",
+    "zh-CN": "你手上的是什么？“埃斯特拉达帮第二任当家”……照片上的人好像是我？知道这些重要吗？每个人都有一段想要埋葬的往事，过好当下才最要紧。你不会因为这些无聊的过去就开始疏远我的，对吧……嗯？你为什么要问佩丽卡安全局的联络方式？",
+    "ja": "それ、何持ってんだ？「ラ・エストラーダ2代目当主」……写真のヤツがオレに似てるって？それ知って、どうなんの？誰にだって消しちまいたい過去の1つや2つ、あんだろ。大事なのは、今をちゃんと生きることなんだって。まさか、そんなつまんねー過去のことで、オレを避けたりしねえ、そーだろ？……ん？なんでペリカに保安局の連絡先なんて聞こうとしてんだ？",
+    "ko": "네 손에 들고 있는 거 뭐야? '에스트라다 2대 보스'... 사진에 있는 사람이 나랑 비슷하다고? 이런 거 알아서 뭐 하게? 사람은 누구나 숨기고 싶은 과거 하나쯤 있잖아. 중요한 건 바로 지금이라고. 너 설마 이런 시시한 과거 때문에 날 멀리하는 건 아니겠지? 어? 잠깐, 너 갑자기 왜 펠리카한테 안전국 전화번호를 물어보는 거야?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "I used to roll with Estrada Ursaña. Most called it La Estrada. The city's a huge place that breeds small-timers like me. I grew up in the city's armpit, found my crew, joined a bigger gang, and somehow ended up leading it. Then, well ... everything blew up in my face. Man... If I knew I'd end up like this, I should've joined the fin cannery twenty years ago. Now, here I am, selling fins for a living.",
+    "zh-TW": "「厄孫之路」，或者說「埃斯特拉達幫」，這就是以前我所在的組織。城市是一個龐然大物，在不被人注意的地方，總會滋生我們這樣的「小人物」。我在骯髒的環境裡長大，有了一群朋友，被更大的幫派吸納，陰錯陽差變成了頭領，然後又莫名其妙散了夥，現在就靠賣鱗討個生活。早知道這樣，我二十年前就跟著去鱗肉加工廠算了。",
+    "zh-CN": "“厄孙之路”，或者说“埃斯特拉达帮”，这就是以前我所在的组织。城市是一个庞然大物，在不被人注意的地方，总会滋生我们这样的“小人物”。我在肮脏的环境里长大，有了一群朋友，被更大的帮派吸纳，阴差阳错变成了头领，然后又莫名其妙散了伙，现在就靠卖鳞讨个生活。早知道这样，我二十年前就跟着去鳞肉加工厂算了。",
+    "ja": "「エストラーダ・ウルサナ」とか「ラ・エストラーダ」って言うヤツもいる――オレがいた組織だ。このバカでけー都市じゃ、人目を避けて、オレたちみてーな「ちっぽけなヤツら」が必ず湧いてくんだよ。薄汚ねえとこで育って、仲間もできて、もっとデカい組織に取り込まれて……気づきゃボスんなってた。んで、よくわかんねーままバラバラになっちまった……今じゃ鱗獣を売って食い扶持稼いでる。こんなんなら、20年前に鱗獣の加工場にでも入っとくんだったな。",
+    "ko": "'우르순의 길', 혹은 '에스트라다'. 그게 내가 몸담았던 곳이야. 도시라는 놈은 워낙 크고 복잡해서, 눈길이 닿지 않는 어딘가에선 꼭 우리 같은 '잔챙이'들이 자라나게 돼 있어. 나도 그런 더럽고 황폐한 환경에서 자라면서 친구들이 생겼고. 그러다 더 큰 조직에 흡수되더니, 어쩌다 보니 보스까지 됐지. 근데 조직이 흐지부지 해체되고, 지금은 낚시를 해서 린수 장수로 생계유지를 이어가고 있어. 이럴 줄 알았으면 20년 전에 그냥 린수 가공 공장에나 들어갈 걸 그랬다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "What's with the stare? Curious about this scar? Hah, a man with stories doesn't hand 'em out easily. What's behind us stays behind. Gotta let it go and just walk on... Ai! Endmin! Don't really walk away! Okay, okay, I'll tell you — it's nothing fancy. Had two ride-or-dies. One took a swipe at me when I was covering for the other. Lost an eye and a chunk of my old life right there. There you have it. Simple and boring, right?",
+    "zh-TW": "老盯著這道疤做什麼？好奇嗎？像我這樣有故事的男人是不會輕易把往事掛在嘴邊的，那些都已成過去，老是抓著不放也沒什麼意義……別走啊，管理員！不過其實也沒什麼好說的，我為了保護一個生死與共的老朋友，被另一個生死與共的老朋友砍了一刀。我看見的世界從此少了一半，那段生活也宣告結束了。就這麼簡單。",
+    "zh-CN": "老盯着这道疤做什么？好奇吗？像我这样有故事的男人是不会轻易把往事挂在嘴边的，那些都已成过去，老是抓着不放也没什么意思……别走啊，管理员！不过其实也没什么好说的，我为了保护一个生死与共的老朋友，被另一个生死与共的老朋友砍了一刀。我看见的世界从此少了一半，那段生活也宣告结束了。就这么简单。",
+    "ja": "じーっと見てっけど、傷、気になるか？オレみてーなヤツは、昔話はしねーんだ。過ぎたことをいつまでも引きずったって意味ねーからよ……おい、管理人、待てって！別に隠すほどのことじゃねえよ。命を預けた仲間を守るために、もう1人の仲間に斬られた。それから、オレの見える世界は半分になった。ただそれだけだ。それだけの、つまんねー話だよ。",
+    "ko": "뭘 그렇게 흉터만 뚫어지게 보고 있어? 궁금해? 나 같은 남자는 쉽게 과거를 떠들고 다니지 않아. 다 지나간 일이니까. 자꾸 붙들고 있는다고 뭐가 달라지겠어... 어, 관리자! 어디 가려고? 솔직히 말하면 별거 아니야. 그냥 생사를 함께한 친구 놈을 지키려고 또 다른 생사를 함께한 친구한테 칼 한 방 맞았지. 그날 이후로 내가 보는 세상은 반쪽이 됐고, 그 생활도 그렇게 끝났어. 그게 다야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0024_deepfin_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "Life isn't like angling. You can always retrieve a cast lure when angling. But in real life, there's no easy way out once you're in hot water. *THIS* is exactly why livin' the happy life is important. True legit wisdom from an old boy, Endmin.",
+    "zh-TW": "釣鱗和生活還是不太一樣，拋出去的竿隨時可以收回，人一旦陷入漩渦，就無法輕易脫身。所以啊，一定要快快樂樂地活著。管理員，這是我作為過來人的經驗。",
+    "zh-CN": "钓鳞和生活还是不太一样，抛出去的竿随时可以收回，人一旦陷入漩涡，就无法轻易脱身。所以啊，一定要快快乐乐地活着。管理员，这是我作为过来人的经验。",
+    "ja": "釣り竿は投げても糸で巻き取れっけど、人は渦に巻き込まれたら抜け出せねえ。釣りと人はちげーんだよ。だから、せめて楽しく生きろ。管理人、これが経験者からのアドバイスってヤツだよ。",
+    "ko": "낚시랑 인생은 좀 달라. 낚싯대야 던졌다가도 마음만 먹으면 언제든 다시 거둬들이면 되니까. 근데 인생은 안 그래요. 한 번 휘말리면 빠져나오는 게 그렇게 간단하지가 않다, 이 말이지. 그러니까 무조건 즐겁게 살아야 해, 관리자. 이게 내가 살아보니까 알겠더라고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "My little fin shop isn't doing too well. I couldn't even afford rent without that Endfield paycheck. Honestly, I wasn't expecting to make serious bucks selling fins. That's why I let people haggle all they want — and even run tabs if they need to. Even when I got lucky with angling I simply gave the extra fins away. Life isn't easy for everyone, you know. There was this time when a thief visited my place. The sneak found nothing valuable and left me a note. \"Sorriest place I've ever seen.\" Man...",
+    "zh-TW": "鱗店生意越來越不景氣了啊，沒有終末地發我薪水的話，就連店鋪租金都要繳不起了。雖然說開了店，其實我也沒想過要賺什麼錢，像是砍價賒帳什麼的我全都答應了。運氣好，釣的鱗多，也都分給別人，畢竟大家生活都不容易。說起來之前還有小偷溜進我店裡，發現什麼值錢的都沒有，氣得留了張紙條，說這輩子都沒看過這麼寒酸的地方。",
+    "zh-CN": "鳞店生意越来越不景气了啊，没有终末地发我工资的话，就连店铺租金都要交不起了。虽说开了店，其实我也没想着要赚什么钱，像是砍价赊账什么的我全都答应了。运气好，钓的鳞多，也都分给别人，毕竟大家生活都不容易。说起来之前还有小偷溜进我店里，发现什么值钱的都没有，气得留了张字条，说这辈子都没见过这么寒酸的地方。",
+    "ja": "店はどんどんヤバくはなってる。エンドフィールドの給料がなきゃ、店の家賃も払えねえ。ま、端から金儲けする気もねーし、値切りもツケも言うままだしよ。大漁の日は、周りのヤツらにも配るしな……大変なのはどこも変わらねえから。そーいや、前ドロボーが入ったのに金目のものがねーからって手紙残してったんだ。「こんなビンボー臭えとこは初めてだ！」ってな。",
+    "ko": "요즘 가게 장사가 진짜 안돼. 엔드필드에서 월급을 안 줬으면 월세도 못 냈을 거야. 가게를 열긴 했지만, 솔직히 돈 벌 생각은 별로 없었거든. 누가 가격 깎아달라고 해도 그냥 해주고, 외상 좀 해달라고 해도 어쩌겠냐 하고 그냥 해줬지. 운 좋게 많이 잡은 날이면 이웃들이랑 나눠 먹고, 다들 먹고 살기 힘드니까. 아, 맞다. 예전에 우리 가게에 도둑이 들었는데, 가져갈 게 하나도 없었나 봐. 그 와중에 자기 딴에는 열받았는지 쪽지를 남기고 갔더라? '내 평생 이런 가난한 가게는 처음 본다'라고 하면서 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Here's my philosophy of life: Tolerate the little things and dodge the bigger things. *Only* do something when dodging is impossible. Then you give them hell and make sure they stay down.",
+    "zh-TW": "我的生存哲學是，小事忍著，大事避開。如果實在是躲不過，那就只能動手了，而且要打到對方再也站不起來為止。",
+    "zh-CN": "我的生存哲学是，小事忍着，大事避开。如果实在躲不过，那就只能动手了，而且要打到对方再也站不起来为止。",
+    "ja": "オレのモットーは「小せーことは我慢、デカい問題は回避」……どーしてもムリならやるしかねーけど……そうなりゃ、二度と立ち上がれねーくらいにブチのめす。",
+    "ko": "내 생존 철학? 간단해. 작은 일은 참고, 큰 일은 피하고. 근데 피할 수 없으면? 그땐 싸워야지. 상대가 두 번 다시 못 일어날 때까지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "Is the eye giving me trouble? Yeah ... it can be annoying sometimes. For example, you were standing in my blind spot when you greeted me just then. Haha. It's okay. I'm already used to this. Perfect vision isn't that exciting. Maybe it's actually better to keep certain things in the dark and make them ... mysterious.",
+    "zh-TW": "這隻眼睛嗎？確實給我的生活帶來了一點點不便。比如剛才，你就是在我的視野盲點和我打招呼的。哈哈，沒關係，其實我已經習慣了。比起什麼都看得真真切切，留一些對未知空間的遐想，可能也蠻好的。",
+    "zh-CN": "这只眼睛吗？确实给我的生活带来了一点点不便。比如刚才，你就是在我的视野盲区和我打招呼的。哈哈，没关系，其实我已经习惯了。比起什么都看得真真切切，留一些对未知空间的遐想，可能也挺好。",
+    "ja": "目が気になるか？不便っちゃそうだけど。さっきもあんたが声をかけてきたのはオレの死角だった。なーんて言ったってもう気にしてねーよ。全部見えちまうより、見えないことを想像するほうが唆るだろ？",
+    "ko": "이 눈 말이야? 뭐, 살면서 조금 불편한 건 사실이야. 방금 너도 내가 못 보는 쪽에서 인사했잖아. 하하, 근데 뭐~ 익숙하니까 괜찮아. 오히려 세상을 전부 다 똑바로 보는 것보다, 안 보이는 구석이 조금 있는 것도 나쁘지 않더라. 그런 데서 상상할 여지가 생기잖아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "The tarot show yesterday predicted I'd be super lucky today. And guess what? I fell into the stinky sewers right after leaving my place. I was like, \"Man...! Most inaccurate tarot show ever.\" But then I spotted something shiny in the muck — a diamond ring. So hey, maybe I was lucky after all. Felt bad for whoever lost it though, so I used my super luck to find this poor guy and returned the ring. What I'm saying is, Boss — if we use our luck to do the right thing, maybe even more luck will come our way. You agree?",
+    "zh-TW": "昨天的占卜節目說我今天運勢極佳，結果一出門就掉進了下水道。當時我就想，這占卜也太不準了！沒想到順手就摸出了一個鑽戒，原來所謂的好運就在這。不過我覺得東西不見的人太倒楣了，就四處尋找失主，把東西還回去了。把幸運用在做好事上，未來應該能獲得更多的幸運，你說是不是？",
+    "zh-CN": "昨天的占卜节目说我今天运势极佳，结果一出门就掉进了下水道。当时我就想，这占卜也太不靠谱了！没想到顺手就摸出了一个钻戒，原来所谓的好运就在这儿。不过我觉得丢东西的人太倒霉了，就四处寻找失主，把东西给还回去了。把幸运用在做好事上，未来应该能获得更多的幸运，你说是不是？",
+    "ja": "昨日の占い番組、「今日の運勢はサイコー！」って。でも家出て速攻で下水道落ちた。全然当てになんねーじゃんって思ったら、ダイヤの指輪拾っちまって。あーこれが運ってヤツかって。ま、落としたヤツがかわいそーだし、持ち主探して返したよ。運もまた巡って戻ってくるかもしんねーしな。",
+    "ko": "어제 점술 방송에서 오늘 운 좋을 거라길래 완전 기대했거든? 근데 집에서 나오자마자 하수구에 빠졌지, 뭐야! 진짜 그때는 '이 점술 완전 사기잖아!' 했어. 근데 말이야, 거기서 나오려고 일어나다가 웬 다이아 반지 하나가 손에 잡히더라? 이게 바로 말로만 듣던 '행운'인가 싶더라고. 그래도 그거 잃어버린 사람은 얼마나 속상했겠어. 그래서 주변을 좀 돌아다니다가 주인을 겨우 찾아서 돌려줬지. 내 생각엔 말이야, 이렇게 행운을 좋은 일에 쓰면, 앞으로 더 좋은 운이 따라오지 않을까 싶어. 너도 그렇게 생각하지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_about_line01",
+   "title": {
+    "en": "Topic: Gangs",
+    "zh-TW": "話題：幫派",
+    "zh-CN": "话题：帮派",
+    "ja": "組織について",
+    "ko": "파벌에 관하여"
+   },
+   "text": {
+    "en": "I lived in the messy frontiers, you know. It's where kids either grew up with a stinking family or without one. Not sure which one's more screwed up. Me? I had no family, no education, and no roof over my head. So yeah, I ran with the streets. Spent my days brawling with other kids just to survive. We hated each other's guts, but all the threats force us to make funny choices. Somehow we got together and created our own family. Funny enough, we even carved our own rules on that lawless turf.",
+    "zh-TW": "我啊，來自混亂的開拓區，那裡的小孩要麼是孤兒，要麼有著亂七八糟的家庭，很難說哪個更不幸。我呢，就屬於前者，沒學上也沒地方住，為求生存成了只會在街頭打架的混混。大概是危險的環境會逼人團結吧，我們這群彼此看不順眼的傢伙，居然走到一起，組成了一個家，在那個灰色地帶建立起自己的秩序，努力活了下來。",
+    "zh-CN": "我啊，来自混乱的开拓区，那里的小孩要么是孤儿，要么有着乱七八糟的家庭，很难说哪个更不幸。我呢，就属于前者，没学上也没地方住，为求生存成了只会在街头打架的混混。大概是危险的环境会逼人团结吧，我们这群彼此看不顺眼的家伙，居然走到一起，组成了一个家，在那个灰色地带建立起自己的秩序，努力活了下来。",
+    "ja": "オレは無法地帯みてーな開拓エリアの出身だ。子どもは孤児か、じゃなくてもろくでもねえ家のヤツだ。オレは孤児で、学校にも通えねーし、住む場所さえなかったよ。ただ生き延びるためだけに街でケンカばっかしてた。でも、地獄みてーな場所だと妙な連帯感ってのが生まれたりもする。反りが合わねーヤツら同士が寄り添って、家族みてーになった。混沌とした街でも自分たちのルール作って、必死に生きてきたんだよ。",
+    "ko": "나? 혼란스러운 개척 지역에서 왔지. 거기 애들은 대부분 고아이거나, 아니면 집안 사정이 완전히 엉망진창이야. 솔직히 어느 쪽이 더 불행한지는 모르겠어. 나는 고아 쪽이었고, 학교도 못 다녔고, 잘 데도 없었지. 살아남으려고 길거리에서 싸움질이나 하고 그랬어. 근데 말이지, 그런 위험한 환경이 오히려 사람들을 뭉치게 만들더라. 맨날 싸우고 티격태격하던 놈들이 어느새 하나로 뭉쳐서, 회색지대 한가운데 우리끼리만의 질서를 세우고, 어떻게든 살아남았지. 그게 우리에겐 '가족'이었어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_about_line02",
+   "title": {
+    "en": "Topic: Landlord",
+    "zh-TW": "話題：房東",
+    "zh-CN": "话题：房东",
+    "ja": "大家について",
+    "ko": "집주인에 관하여"
+   },
+   "text": {
+    "en": "The old landlord wrote me again. He wasn't asking for rent, but he's curious about my recent situation. Even called me a lazy good-for-nothing who can't take care of myself. Man, hard to believe he was some big deal during his younger days... Waaaiit. Why does he care so much about me? Is he trying to make me his son? Dude, I'm already funding his retirement by paying rent— wheelchair chauffeur duties aren't in the lease. He kept whining about his knees... Maybe I should give him an auto-massager. Seriously, this old man needs to look after himself instead of pestering me with this nonsense. Plus, if he's so worried, he could just drop in instead of guilt-tripping me through letters.",
+    "zh-TW": "房東老頭寫信給我了，這次沒再催房租而是問我的近況，說我老是偷懶肯定照顧不好自己。那老頭年輕時好像也是個人物。欸？他幹嘛這麼關心我，想認我當個便宜兒子？我都付了房租了，還要幫他養老？算了，還是寄個按摩儀過去給他，之前他老是說膝蓋痛，有空擔心我不如多管管自己的身體。真的不放心的話，自己過來看看不就知道了？",
+    "zh-CN": "房东老头给我写信了，这次没再催房租而是问我的近况，说我老偷懒肯定照顾不好自己。那老头年轻时好像也是个人物。哎？他干嘛这么关心我，想认我当便宜儿子？我都付了房租了，还要给他养老？算了，还是给他寄个按摩仪过去，之前他老说膝盖疼，有空操心我不如多管管自己的身体。真不放心的话，自己过来看看不就知道了？",
+    "ja": "大家のジイさんから手紙来てよ。家賃の催促じゃねえ、近況教えろって。「どうせ面倒だってロクでもねー生活してんだろ」……ジイさん、若い頃は結構なお偉いさんだったみてーだけど、なんでこんな気かけてくれんのかわかんねえ。息子代わりに老後の面倒見てもらおうってか？……ま、どうでもいいな。膝痛えっつってたし、マッサージ機でも送るか。オレよりまず、自分の心配しろっつんだよ。んで、直接来りゃいいのに。",
+    "ko": "집주인 영감탱이가 또 편지를 보냈는데, 이번엔 월세 얘긴 안 하고 내 안부를 묻더라고. 맨날 빈둥거리면서 제대로 챙겨 먹고 다니긴 하냐면서. 들리는 말로는 그 영감탱이도 젊을 땐 꽤 잘 나갔던 모양이더라? 근데 왜 이렇게 나한테 신경을 써? 설마 날 몰래 양아들로 삼을 생각인가? 월세도 꼬박꼬박 내는데, 이젠 노후까지 책임지라는 거야 뭐야. 하여간 참... 그래도 맨날 무릎 아프다고 하던 게 생각나서 안마기 하나 보내줄까 해. 나한테 신경 쓸 시간 있으면 자기 몸부터 잘 챙기실 것이지. 그리고 진짜 걱정되면 직접 와서 보면 될 거 아냐?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_about_line03",
+   "title": {
+    "en": "Topic: Talos City",
+    "zh-TW": "話題：塔羅斯城",
+    "zh-CN": "话题：塔罗斯城",
+    "ja": "タロスシティについて",
+    "ko": "탈로스 성에 관하여"
+   },
+   "text": {
+    "en": "Talos City has a special meaning for Talos-II. After the Humiliation War, the Big Three signed the Band Accord and jointly built Talos City. It was the first neutral city for the Terrans. That's what the history books say. A grand city, still incomplete after a century of construction work. Maybe I can describe it better: \"A wizened, graying man who raised his lance and pointed at the sun beyond the hills.\" A lot more cultured, right? Well — I didn't waste no time reading Ursine novels.",
+    "zh-TW": "塔羅斯城對塔衛二有特別的意義。恥辱戰爭後，三巨頭簽訂了《環帶公約》，並建立起塔衛二的第一座中立城市作為泰拉人的生存之地。這都是歷史書上的說辭啦，一座建了一百年仍未完成的城市，不如讓我來描述一下：一個遲暮的老人，手握長槍，指向山那頭的太陽。是不是很有文化？那是的——那麼多烏薩斯著作，我也不是白看的。",
+    "zh-CN": "塔罗斯城对塔卫二有特别的意义。耻辱战争后，三巨头签订了《环带公约》，并建立起塔卫二的第一座中立城市作为泰拉人的生存之地。这都是历史书上的说辞啦，一座建了一百年仍未完成的城市，不如让我来描述一下：一个迟暮的老人，手握长枪，指向山那头的太阳。是不是很有文化？那是——那么多乌萨斯著作，我也不是白看的。",
+    "ja": "タロスシティは、タロⅡにとっちゃ特別な意味がある。悔恥戦争のあと、三巨頭が『文明地帯公約』を結び、テラ人の生存の地としてタロⅡで初めての中立都市を築いた――歴史書はこんなんだけど、100年経っても完成しねー都市……オレに言わせりゃ「ジジイが槍握って、山の先の夕日を目指してる」ってとこか？どうだ？カッコよくねえ？ま、ウルサス文学もダテに読んでねーしな。",
+    "ko": "탈로스 성은 탈로스 II에 꽤 의미 있는 곳이야. 치욕의 전쟁 끝에 세 세력이 <밴드 협약>을 맺으면서, 테라인들이 처음으로 살 수 있는 중립 도시를 탈로스 II에 만든 거거든. 역사책엔 그렇게 쓰여 있어. 하지만 현실은... 백 년 넘게 짓고도 아직도 완공이 안 된 도시야. 그래서 난 이렇게 표현해 봤어. '늙어버린 노인 하나가 손에 창을 쥔 채, 산 너머로 지는 태양을 노려본다.' 어때? 좀 멋지지 않아? 괜히 우르수스 책들을 그렇게 많이 본 게 아니라고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_about_line04",
+   "title": {
+    "en": "Topic: Strange Fin (Fish)",
+    "zh-TW": "話題：奇怪的鱗",
+    "zh-CN": "话题：奇怪的鳞",
+    "ja": "鱗獣について",
+    "ko": "이상한 린수에 관하여"
+   },
+   "text": {
+    "en": "So you're curious about that strange fin I caught? Now that's a long story. I grew up fighting, not reading. Couldn't even say \"Originium Arts\" properly when I was a young punk. When I just lost my eye and was feeling all dazed and confused, I sensed something swimming around in my blind spot. It got really annoying when I was angling, so I cast my bait real hard and — \"BOOM!\" You know what happened next. Old man told me I got a talent for the Arts. I don't know if it's a curse.",
+    "zh-TW": "你好奇我從哪裡釣到了那條奇怪的鱗？說來話長。以前，我是械鬥派的，小時候我連「源石技藝」這個詞都唸不順。剛失去一隻眼睛，渾渾噩噩的時候，我感覺到有一些東西在我看不見的視野裡遊走。釣鱗的時候，我煩透了那個感覺，用力提竿——「碰」，就是你知道的結果了。老頭說，我本來就有法術天賦。唉，這到底是幸運還是不幸呢？",
+    "zh-CN": "你好奇我从哪儿钓上了那条奇怪的鳞？说来话长。以前，我是械斗派的，小时候我连“源石技艺”这个词都念不顺。刚失去一只眼睛，浑浑噩噩的时候，我感到有一些东西在我看不见的视野里游走。钓鳞的时候，我烦透了那个感觉，用力提竿——“嘭”，就是你知道的结果了。老头说，我本来就有法术天赋。唉，这到底是幸运还是不幸呢？",
+    "ja": "あのヘンな鱗獣をどこで釣ったかって？長ぇ話なるけど……オレ、昔は武器をぶん回してケンカしまくってた。「源石アーツ」ってさえまともに言えなかったよ。で、片目潰してぼーっとしてたら、死角に何か見える感覚があって。すげー鬱陶しくて釣りんとき思いっきり竿を振り上げたら――「バシャンッ！」――そのあとはあんたも知ってる通りだ。ジイさんの話だと、アーツの素質があったらしーけどな。ま、いいことか悪ぃことかってのは、全然わかんねえよ。",
+    "ko": "내가 그 이상한 린수를 어디서 낚았는지 궁금해? 말하자면 길어. 옛날엔 그냥 주먹 하나로 살던 놈이었어. 어릴 땐 '오리지늄 아츠'라는 단어도 제대로 못 읽었다니까. 그러다 한쪽 눈을 잃었고, 한동안 정신이 멍해져 있었는데, 어느 날 내가 못 보는 시야 어딘가에서 무언가가 계속 돌아다니는 느낌이 들더라고. 그날도 그냥 낚시하다가, 그 느낌이 너무 거슬려서 홧김에 낚싯대를 세게 당겼거든. 그랬더니 '펑' 하더라고. 그다음은 뭐, 너도 알잖아. 그 영감탱이 말로는 내가 원래 아츠 재능이 있었대. 그게... 행운인 건지, 불행인 건지... 아직도 잘 모르겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Probably should take a look. Maybe it's worth something.",
+    "zh-TW": "要過去看看嗎？萬一是什麼值錢的東西呢？",
+    "zh-CN": "要过去看看吗？万一是什么值钱的东西呢？",
+    "ja": "見に行かねーか？値打ちもんかもだろ。",
+    "ko": "가서 한 번 볼까? 혹시 비싼 물건일지도 모르잖아?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Looks valuable. Guess we're gonna be rich.",
+    "zh-TW": "好像有很值錢的東西，要發財了。",
+    "zh-CN": "好像有很值钱的东西，要发财了。",
+    "ja": "高値で売れんじゃねー？ツイてんなあ。",
+    "ko": "오, 저거 비싸 보이는데? 꽤 짭짤하겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Careful. There's something weird nearby.",
+    "zh-TW": "附近有異常，注意點。",
+    "zh-CN": "附近有异常，注意点。",
+    "ja": "何かヤベえ雰囲気だな……気ぃつけろ。",
+    "ko": "근처에 뭔가 수상한 게 있어. 조심해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Watch it! That one can rough you up real bad.",
+    "zh-TW": "小心，附近有難纏的傢伙。",
+    "zh-CN": "小心，附近有难缠的家伙。",
+    "ja": "面倒なヤツがいる。油断すんなよ。",
+    "ko": "조심해. 근처에 귀찮은 녀석이 있어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Can we actually sell this?",
+    "zh-TW": "這些東西可以拿去賣嗎？",
+    "zh-CN": "这些东西可以拿去卖吗？",
+    "ja": "これって、売れんのか？",
+    "ko": "이거 내가 가져가서 팔아도 돼?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Shiny stuff. Let's get some more.",
+    "zh-TW": "都是好東西，多挖點。",
+    "zh-CN": "都是好东西，多挖点。",
+    "ja": "イイもんばっかじゃね？ガッツリ持って帰ろーぜ。",
+    "ko": "다 괜찮은 것들이야. 많이 캐자고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Lucky. Turned out the tarot show is legit.",
+    "zh-TW": "運氣不錯，占卜節目沒騙我。",
+    "zh-CN": "运气不错，占卜节目没骗我。",
+    "ja": "っぱツイてんな。占い番組もバカにできねーな。",
+    "ko": "운이 좋은 걸 보니 점술 방송이 제대로 맞춘 것 같네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Looks like ... magical stuff. Can I take another look?",
+    "zh-TW": "這個……蠻神奇的，我能再看看嗎？",
+    "zh-CN": "这个……挺神奇的，我能再看看吗？",
+    "ja": "ん……やたら不思議な……もっかい見ていいか？",
+    "ko": "이거... 꽤 신기한데. 좀 더 자세히 봐도 될까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "There. Nice and clean.",
+    "zh-TW": "好，圓滿收場。",
+    "zh-CN": "好，圆满收场。",
+    "ja": "っし、これでいーだろ。",
+    "ko": "좋아, 깔끔하게 마무리했어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "I had a great nap. Time for some serious action.",
+    "zh-TW": "休息好了，鼓足幹勁上吧。",
+    "zh-CN": "休息好了，鼓足干劲上吧。",
+    "ja": "っと、久々バッチリ休めたし……気合、入れてくか。",
+    "ko": "다 쉬었으니, 이제 본격적으로 가볼까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Your meds! Catch.",
+    "zh-TW": "東西來了，接住。",
+    "zh-CN": "东西来了，接着。",
+    "ja": "ほらよ、受け取れ。",
+    "ko": "배달 왔어, 받아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Phew. I thought I was done for.",
+    "zh-TW": "好險，差點要倒下了。",
+    "zh-CN": "好险，差点要倒下了。",
+    "ja": "あぶねー、ブッ倒れるとこだった。",
+    "ko": "휴, 위험할 뻔했어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Hey! Get out the way!",
+    "zh-TW": "小心，快躲開！",
+    "zh-CN": "当心，快躲开！",
+    "ja": "おい、避けろって！",
+    "ko": "조심해, 빨리 피해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Not enough to take me down.",
+    "zh-TW": "這種程度還不能讓我倒下。",
+    "zh-CN": "这种程度还不能让我倒下。",
+    "ja": "こんぐれーじゃ倒れねえ。",
+    "ko": "이 정도로는 어림도 없지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "I'll do ... whatever it takes...",
+    "zh-TW": "無論如何也要……",
+    "zh-CN": "无论如何也要……",
+    "ja": "絶対……何がなんでも……",
+    "ko": "버텨야 해..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Feeling great today, eh?",
+    "zh-TW": "幹勁十足啊！",
+    "zh-CN": "干劲十足啊！",
+    "ja": "やる気、すげーな！",
+    "ko": "활기 넘치는데?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "A good gang makes it easy.",
+    "zh-TW": "果然人多好辦事。",
+    "zh-CN": "果然人多好办事。",
+    "ja": "人多いと、っぱ助かるな。",
+    "ko": "역시 사람이 많으니 일이 술술 풀리네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Just doing my job.",
+    "zh-TW": "哪裡哪裡。",
+    "zh-CN": "哪里哪里。",
+    "ja": "大したことねー。",
+    "ko": "에이, 별거 아냐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "The gang made it happen.",
+    "zh-TW": "也是大家配合得好。",
+    "zh-CN": "也是大家配合得好。",
+    "ja": "おめーらのおかげ……だな。",
+    "ko": "다들 잘 해준 덕이지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Time to keep my eye peeled.",
+    "zh-TW": "要稍微認真起來了。",
+    "zh-CN": "要稍微认真起来了。",
+    "ja": "そろそろマジでやってみっか？",
+    "ko": "슬슬 진지해질 필요가 있겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Do it your way. I'll keep you covered.",
+    "zh-TW": "隨便發揮吧，我會保護好你們。",
+    "zh-CN": "随便折腾吧，我会保护好你们。",
+    "ja": "テキトーにやっていいぜ、オレが守るし。",
+    "ko": "마음껏 날뛰어도 돼. 내가 지켜줄게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Things got a little intense, but we nailed it.",
+    "zh-TW": "剛才真危險啊，不過最後還是完美收工。",
+    "zh-CN": "刚才真危险啊，不过最后还是完美收工。",
+    "ja": "ヤバかったけど、締めはバッチリだったな。",
+    "ko": "방금 진짜 아슬아슬했지? 그래도 결국 완벽하게 끝내서 다행이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "I don't even feel tired.",
+    "zh-TW": "還蠻輕鬆的。",
+    "zh-CN": "还挺轻松。",
+    "ja": "まあまあ、楽にいけたな。",
+    "ko": "생각보다 쉽네?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Not bad. Everyone did their part.",
+    "zh-TW": "不錯，大家都很努力。",
+    "zh-CN": "不错，大家都很努力。",
+    "ja": "っし、おめーら、良かったぜ。",
+    "ko": "좋았어, 다들 수고했어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "That was close! Still gotta say — a win's a win.",
+    "zh-TW": "結局總歸是好的，別計較那麼多。",
+    "zh-CN": "结局总归是好的，别计较那么多。",
+    "ja": "結果オーライ。細けーこと気にすんなって。",
+    "ko": "끝이 좋았으면 됐지, 너무 따지지 말자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Don't sweat the loss. Let's just be more careful next time. We've got this, yeah?",
+    "zh-TW": "戰鬥已經結束了，沒必要執著在失敗上，下次遇到的話注意點不就好了？",
+    "zh-CN": "战斗已经结束了，没必要为失败纠结，下次遇到的话注意点不就好了？",
+    "ja": "もう終わったことだろ。くよくよすんな。次やれればいーんだって。",
+    "ko": "이미 끝났잖아. 졌다고 너무 실망할 필요 없어. 다음엔 좀 더 조심하면 되지. 안 그래?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Take this!",
+    "zh-TW": "我打！",
+    "zh-CN": "我打！",
+    "ja": "行くぞ！",
+    "ko": "간다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Stay down!",
+    "zh-TW": "趴下吧！",
+    "zh-CN": "趴下吧！",
+    "ja": "ブッ飛ばす！",
+    "ko": "엎드려 뻗쳐!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Come GET some!",
+    "zh-TW": "誰想試試？",
+    "zh-CN": "谁想试试？",
+    "ja": "試してみるか？",
+    "ko": "맛 볼 사람?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Simmer DOWN!",
+    "zh-TW": "幫你降溫。",
+    "zh-CN": "帮你降温。",
+    "ja": "頭冷やせよ。",
+    "ko": "몸 좀 식혀줄까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Time to CHILL!",
+    "zh-TW": "有點冷哦。",
+    "zh-CN": "有点冷哦。",
+    "ja": "さみーな。",
+    "ko": "좀 추울 걸?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Time to retaliate, eh?",
+    "zh-TW": "該反擊了吧？",
+    "zh-CN": "该反击了吧？",
+    "ja": "反撃すっか。",
+    "ko": "반격할 타이밍이지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Ready to wreck these punks.",
+    "zh-TW": "我準備好出手了。",
+    "zh-CN": "我准备好出手了。",
+    "ja": "いつでもいけるぜ。",
+    "ko": "몸 풀 준비 됐어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "See what BITES!",
+    "zh-TW": "這次會釣出什麼？",
+    "zh-CN": "这次会钓出什么？",
+    "ja": "何が釣れるんだろーなあ？",
+    "ko": "이번엔 어떤 놈이 걸려들까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Outta my LINE!",
+    "zh-TW": "你擋著我了。",
+    "zh-CN": "你挡着我了。",
+    "ja": "邪魔すんなよなあ！",
+    "ko": "길 막지 말고, 비켜."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Don't trigger my FIN!",
+    "zh-TW": "別吵到鱗！",
+    "zh-CN": "别吵到鳞！",
+    "ja": "鱗獣も怒るぜ！",
+    "ko": "낚시 방해하지마!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "I just chummed here!",
+    "zh-TW": "剛撒的餌料！",
+    "zh-CN": "刚撒的饵料！",
+    "ja": "エサ撒いたばっかだぜ？",
+    "ko": "아, 미끼 하나 날렸잖아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Gotcha!",
+    "zh-TW": "上鉤了！",
+    "zh-CN": "上钩了！",
+    "ja": "かかった！",
+    "ko": "걸렸다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Have fun being the bait!",
+    "zh-TW": "你才是餌！",
+    "zh-CN": "你才是饵料！",
+    "ja": "エサはお前だっつーの！",
+    "ko": "미끼는 바로 너야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0024_deepfin_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Go enjoy your snack!",
+    "zh-TW": "去大吃一頓吧！",
+    "zh-CN": "去饱餐一顿吧！",
+    "ja": "いっぱい食べていいぞ？",
+    "ko": "실컷 먹어라!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0024_deepfin_1",
+   "topic": {
+    "en": "To Cast, To Wait",
+    "zh-TW": "拋竿的心境",
+    "zh-CN": "抛竿的心境",
+    "ja": "キャストの心境",
+    "ko": "낚싯대를 던지는 마음가짐"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Thanks to you, Endmin, I hooked a few big fins today",
+      "zh-TW": "託管理員的福，今天釣到了好幾條大鱗",
+      "zh-CN": "托管理员的福，今天钓上了好几条大鳞",
+      "ja": "管理人のおかげで、今日は鱗獣死ぬほど釣れたぜ。",
+      "ko": "오늘 관리자 덕분에 큰 린수를 꽤 많이 잡았어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Everyone at the dock was totally shocked by my haul!",
+      "zh-TW": "整個碼頭的人都被我的收穫震驚了！",
+      "zh-CN": "整个码头的人都被我的收获震惊了！",
+      "ja": "港にいたヤツら、全員ビビってたしな。",
+      "ko": "부두에 있던 사람들이 내가 잡은 린수를 보고 깜짝 놀랄 정도였다니까!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Aren't you gonna congratulate me, Endmin?",
+      "zh-TW": "不恭喜一下我嗎，管理員？",
+      "zh-CN": "不恭喜一下我吗，管理员？",
+      "ja": "管理人、一言お祝いでもしてくんねー？",
+      "ko": "관리자, 축하 안 해줄 거야?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Great angling skills.",
+         "zh-TW": "你的釣鱗技術真不錯。",
+         "zh-CN": "你的钓鳞技术真不错。",
+         "ja": "君の鱗獣釣りは、本当にすごいね。",
+         "ko": "린수를 낚는 실력이 대단하네요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You're good at this.",
+         "zh-TW": "沒想到你這麼會釣鱗。",
+         "zh-CN": "没想到你这么会钓鳞。",
+         "ja": "そこまで釣れると思ってなかったよ。",
+         "ko": "낚시를 그렇게 잘하시는 줄 몰랐어요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Heh, don't go praising my angling skills, Endmin. It was just plain good luck, that's all.",
+      "zh-TW": "嘿嘿，管理員，不要誇我什麼「釣鱗技術強」，單純只是運氣好而已",
+      "zh-CN": "嘿嘿，管理员，不要夸我什么“钓鳞技术强”，单纯只是运气好而已",
+      "ja": "やめろって。今日はツイてただけ。「釣りの名人」ってワケでもねーし？",
+      "ko": "하하, 관리자, 그건 과찬이야. 내 '낚시 실력이 좋은 게' 아니라 그냥 운이 좀 좋았을 뿐이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Is it really all just luck?",
+      "zh-TW": "真的憑運氣就可以嗎？",
+      "zh-CN": "真的凭运气就行吗？",
+      "ja": "本当に「ツイてた」だけ？",
+      "ko": "단순히 운이 좋다고 되는 일인가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Of course. The most important thing about angling isn't skill, it's not the gear or the bait, and it's not even patience",
+      "zh-TW": "當然了，釣鱗最重要的不是技巧，不是裝備、餌料，甚至不是耐性",
+      "zh-CN": "当然了，钓鳞最重要的不是技巧，不是装备、饵料，甚至不是耐性",
+      "ja": "そうだって。釣りに大切なのは、テクニックでも道具でも餌でも根気でもねぇ……",
+      "ko": "물론이지. 린수를 낚을 때 가장 중요한 건, 기술도 장비도 미끼도, 심지어 인내심도 아니거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "It's the weather that can change in a blink, the environment, and the mood of the fins",
+      "zh-TW": "而是說變就變的天氣、環境和鱗的脾氣",
+      "zh-CN": "而是说变就变的天气、环境和鳞的脾气",
+      "ja": "変わる天気、環境、あとは、鱗獣の機嫌。",
+      "ko": "그 무엇보다 변덕스러운 날씨와 환경, 그리고 린수의 성격이 가장 중요해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "That's why I always flip a coin before I head out to angle",
+      "zh-TW": "所以我每次釣鱗前都要先拋個硬幣再出門",
+      "zh-CN": "所以我每次钓鳞前都得抛个硬币再出门",
+      "ja": "オレは、出る前にコイン投げてる。",
+      "ko": "그래서 난 매번 낚시하러 가기 전에 동전을 던져보고 나가."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So you just don't go if your luck's bad?",
+      "zh-TW": "運氣不好的話，就不釣鱗了？",
+      "zh-CN": "运气不好的话，就不钓鳞了？",
+      "ja": "運が悪かったら、行かないのかな。",
+      "ko": "운이 안 좋으면, 린수를 낚으러 안 가신다는 건가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Nah, of course I still go. It's just that if I don't catch anything, I can't blame it on my skills being bad",
+      "zh-TW": "不不不，釣當然還會去釣，只不過一旦釣不到鱗，那就不用歸咎於技術不好了",
+      "zh-CN": "不不不，钓当然还得去钓，只不过一旦钓不上来鳞，那就不用归咎于技术不行了",
+      "ja": "全然行くけどな。でも、釣れなかったら腕の問題じゃねえ、運悪かっただけって割り切れるし？",
+      "ko": "그건 아니야, 낚시는 당연히 나가야지. 다만 린수를 못 잡아도, 그건 내 기술이 부족해서가 아니라는 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Since it all comes down to luck anyway, coming back empty-handed doesn't really get me down",
+      "zh-TW": "反正是靠運氣的事情嘛，空手而歸，心裡也不至於失落",
+      "zh-CN": "反正是靠运气的事情嘛，空手而归，心里也不至于失落",
+      "ja": "ボウズでも、仕方ねえって思えんだろ？",
+      "ko": "어차피 운에 달린 일이니까, 빈손으로 돌아와도 실망하진 않는다는 거지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Is there still fun in it when you don't catch anything?",
+      "zh-TW": "釣不上來的時候，也有樂趣嗎？",
+      "zh-CN": "钓不上来的时候，也有乐趣吗？",
+      "ja": "釣れなくても、楽しいものなのかな。",
+      "ko": "린수를 낚지 못했을 때도 재미를 느끼시나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Endmin, now you're getting it. In my eyes, the joy of angling is in the \"angling\" itself",
+      "zh-TW": "管理員，你這就說到點上了 在我眼裡，釣鱗的樂趣，在於「釣」本身",
+      "zh-CN": "管理员，你可说到点子上了 在我眼里，钓鳞的乐趣，在于“钓”本身",
+      "ja": "管理人……よく気づいたな。オレ的におもしれーのは、「釣ること」の方なんだよ。",
+      "ko": "관리자, 아주 좋은 질문이야. 나한테 있어서, 낚시의 재미는 '낚는다'는 그 과정 자체에 있거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "It's like that feeling when you cast the line. Who knows if you'll get a bite or not?",
+      "zh-TW": "就像拋竿瞬間的感覺 是不是一場空竿，誰知道？",
+      "zh-CN": "就像那一下抛竿的感觉 是不是一场空竿，谁知道？",
+      "ja": "竿振る。んで、そのあとどうなるかなんて誰にもわかんねえ。",
+      "ko": "낚싯대를 던지는 순간, 빈 낚싯줄이 올라올지 아닐지는 아무도 모르는 거잖아?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "But whether you hook one or not, the instant that line flies out, your arm, the reel, the air, the waves ... they all answer to you",
+      "zh-TW": "但無論釣不釣得上來，線甩出去的瞬間，手臂、線軸、空氣、海浪，全都聽你指揮",
+      "zh-CN": "但无论钓不钓得上来，线甩出去的瞬间，手臂、线轴、空气、海浪，全都听你指挥",
+      "ja": "釣れるかなんて関係ねえ。腕もリールも空気も波も、全部オレに従う。",
+      "ko": "낚시의 결과랑은 상관없이, 줄을 던지는 그 순간만큼은 나의 팔, 릴, 공기, 그리고 파도까지 전부 내 지휘를 따르지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "It's like throwing the whole world out there, along with yesterday's troubles and today's bad mood",
+      "zh-TW": "像把全世界都甩出去，連昨天的爛事和今天的壞心情一起",
+      "zh-CN": "像把全世界都扔出去，连同昨天的烂事和今天的坏心情",
+      "ja": "世界毎投げちまうみてぇな感じ？昨日の嫌なことも、今日の憂鬱も、全部まとめて。",
+      "ko": "그 순간에는 온 세상을 던져버리는 느낌이 들어. 엉망진창이었던 어제의 일도, 오늘의 나쁜 기분도 전부 다 말이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Then you just wait for fate to write you back. Could be a bite or nothing at all, it's all a response",
+      "zh-TW": "然後就只要等著命運回信，咬鉤也好、沒動靜也罷，都是回應",
+      "zh-CN": "然后就只用等着命运给你回信，咬钩也好，没动静也罢，都是回应",
+      "ja": "んで、あとは運命の返事を待つだけだ。アタリでも、ハズレでも、それが答え。",
+      "ko": "그다음부터는 운명이 보내는 답장을 기다리기만 하면 돼. 린수가 미끼를 물든, 아무 반응이 없든, 그게 다 바다가 주는 답이니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Sure, when the response is slow, I just tell myself it's \"cooking\" up something big",
+      "zh-TW": "當然，回應慢的時候，我就當在「醞釀」大場面",
+      "zh-CN": "当然，回应慢的时候，我就当在“酝酿”个大场面",
+      "ja": "返事が遅ぇなら、「大物は遅れてやってくる」って思っときゃいいし？",
+      "ko": "물론, 반응이 좀 느릴 때는 뭔가 대단한 일을 '꾸미고' 있구나 하고 생각하지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "So, what do you say, Endmin? Wanna give it a try?",
+      "zh-TW": "怎麼樣，管理員，要不要來試試？",
+      "zh-CN": "怎么样，管理员，要不要来试试？",
+      "ja": "管理人も、やんねえ？",
+      "ko": "어때? 관리자도 한 번 해보지 않을래?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Sounds pretty philosophical. You're making me want to try it right now.",
+      "zh-TW": "聽上去還蠻有哲理的，聽得我都想馬上去試試了。",
+      "zh-CN": "听上去还挺有哲理的，讲得我都想马上来试试了。",
+      "ja": "なんだか哲学みたいだ……ちょっと、やってみたくなった。",
+      "ko": "꽤 철학적인 말씀이네요. 듣다 보니 저도 한 번 해보고 싶어졌어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Come on, I'll teach you! Beginners have a lucky streak with angling, don't waste it!",
+      "zh-TW": "來吧，我教你！釣鱗可是有新手強運期的，別浪費了！",
+      "zh-CN": "来吧，我教你！钓鳞可是有新手好运期的，别浪费了！",
+      "ja": "おう、教えてやる。とりあえず、ビギナーズラックだけは逃すな。",
+      "ko": "좋았어, 내가 가르쳐 줄게! 낚시는 초보자한테 더 운이 따르는 법이지. 이 기회를 놓치면 안 돼!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Alright! Let's start with casting the line!",
+      "zh-TW": "好！那就從拋竿開始！",
+      "zh-CN": "好！那就从抛竿开始！",
+      "ja": "うん。まず竿を投げるところから教えて。",
+      "ko": "네! 그럼 우선은 낚싯대 던지기부터 시작해야겠죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "I brought my spare rod. You can get started as soon as you get here",
+      "zh-TW": "我帶了備用釣竿，你來了可以直接開始",
+      "zh-CN": "我把备用钓竿带上了，你来了可以直接上手",
+      "ja": "予備の竿はある。すぐ始められるぜ。",
+      "ko": "내가 예비용 낚싯대를 가져왔으니까, 오면 바로 시작할 수 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Just remember one thing: make sure nobody's behind you. Don't go swinging the rod into someone's head",
+      "zh-TW": "只需要記住一件事：確保身後沒人，別甩竿甩到別人頭上就好",
+      "zh-CN": "只需要记住一件事：确保身后没人，别甩竿甩到别人脑袋上就行",
+      "ja": "覚えとくのは1つだけ。後ろに人いねーか確認。頭に当てたら終わり。以上。",
+      "ko": "단, 한 가지 꼭 기억할 게 있어. 낚싯대를 던질 때는 뒤에 사람이 없는지 확인해야 해, 다른 사람 머리에 휘두르면 안 되니까 말이야."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0024_deepfin_2",
+   "topic": {
+    "en": "A Book's Value",
+    "zh-TW": "書本的價值",
+    "zh-CN": "书本的价值",
+    "ja": "本の価値",
+    "ko": "책의 가치"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Hey Endmin, got any book recommendations? Something good to bring along for angling",
+      "zh-TW": "管理員，能不能推薦幾本書？那種適合帶著去釣鱗的",
+      "zh-CN": "管理员，能不能推荐点书？那种适合带着去钓鳞的",
+      "ja": "管理人、オススメの本ねえ？鱗獣釣り持ってくやつ。",
+      "ko": "관리자, 책 좀 추천해 줄래? 낚시하러 갈 때 가져갈 만한 거로 말이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You're gonna read while you angle?",
+      "zh-TW": "你要在釣鱗時看書？",
+      "zh-CN": "你要在钓鳞时看书？",
+      "ja": "釣りをしているときに読むの？",
+      "ko": "낚시할 때 책을 읽으신다고요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "You could say that. It's useful",
+      "zh-TW": "算是吧，有用",
+      "zh-CN": "算是吧，有用",
+      "ja": "ま、そんなとこ。使い道あんだよ。",
+      "ko": "그런 셈이지, 쓸데가 좀 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Hit me with those titles! I'm at the shop right now, so I can look them up",
+      "zh-TW": "請說書名吧！我正在店裡，可以現場查",
+      "zh-CN": "请报书名吧！我正在店里，可以现查",
+      "ja": "タイトルくれ。今店にいんだよ。",
+      "ko": "책 제목을 좀 알려줘! 지금 서점이라서 바로 찾아볼 거야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "\"Gunpowder and Velvet\", a book you can savor for a long time.",
+         "zh-TW": "《硝煙與絲絨》，能讀很久。",
+         "zh-CN": "《硝烟与丝绒》，能读很久。",
+         "ja": "『硝煙とビロード』は長く読める。",
+         "ko": "<화약 연기와 벨벳>이라는 책을 추천드려요. 오래 읽을 수 있을 거예요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Alesh",
+         "zh-TW": "阿列什",
+         "zh-CN": "阿列什",
+         "ja": "アレッシュ",
+         "ko": "알레쉬"
+        },
+        "text": {
+         "en": "Let me see ... a classic Ursine doorstopper? Hard pass. Too heavy, bad for the neck.",
+         "zh-TW": "烏薩斯經典巨著，不要不要，太厚了，傷頸椎",
+         "zh-CN": "乌萨斯经典巨著，不要不要，太厚了，伤颈椎",
+         "ja": "ウルサスの古典名作……分厚すぎんだろ。首に悪い。",
+         "ko": "아, 우르수스 고전 명작... 안 돼, 안 돼. 그건 너무 두꺼워서 읽다가 목에 무리가 갈 거야."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "\"Notes Carried by the Monsoon\", it's an interesting read.",
+         "zh-TW": "有本很有趣的書，叫《季風吹拂下的筆記》。",
+         "zh-CN": "有本很有趣的书，叫《季风吹拂下的笔记》。",
+         "ja": "『モンスーンに吹かれて』は面白かったよ。",
+         "ko": "<계절의 바람이 남긴 기록>이라는 책이 정말 재밌어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Alesh",
+         "zh-TW": "阿列什",
+         "zh-CN": "阿列什",
+         "ja": "アレッシュ",
+         "ko": "알레쉬"
+        },
+        "text": {
+         "en": "The Monsoon... I know that one well. But it's all hardcover, would be uncomfortable to lean on. Not great",
+         "zh-TW": "季風……這我熟 但都是硬面精裝，墊久會痛，不太舒服",
+         "zh-CN": "季风……这我熟 但都是硬面精装，垫着会硌，不大舒服",
+         "ja": "モンスーン……基本ハードカバーばっかじゃね？枕にすんには不向きだな。",
+         "ko": "계절의 바람이라... 그건 나도 들어봤어. 근데 전부 하드커버뿐이네. 목에 받치기엔 딱딱해서 불편할 거야."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "\"Where She Went?\", heard great things about it.",
+         "zh-TW": "《她往何處去》，聽說不錯。",
+         "zh-CN": "《她往何处去》，听说不错。",
+         "ja": "『彼女はどこへ』は評判がいいみたいだけど。",
+         "ko": "<그녀는 어디로 갔을까?>라는 책이 괜찮다고 들었어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Alesh",
+         "zh-TW": "阿列什",
+         "zh-CN": "阿列什",
+         "ja": "アレッシュ",
+         "ko": "알레쉬"
+        },
+        "text": {
+         "en": "The new literary award winner ... but they only have the pocket edition. Wouldn't even cover half my face",
+         "zh-TW": "文學獎新晉佳作……不過只有隨身本，連半邊臉都蓋不住",
+         "zh-CN": "文学奖新晋佳作……不过只有口袋本，连半边脸都盖不住",
+         "ja": "文学賞獲ったヤツか……文庫本しかねぇな。顔半分も隠せねえし。",
+         "ko": "신인 문학상 수상장이라... 근데 포켓북밖에 없네, 이걸로는 얼굴 반도 못 가리겠어."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Uh ... are you picking out a pillow, angling gear, or a book?",
+      "zh-TW": "這……你到底是在選枕頭、釣具，還是選書？",
+      "zh-CN": "这……你到底是在选枕头、钓具，还是选书？",
+      "ja": "これは……枕を選んでいるの？それとも釣り道具？それとも本？",
+      "ko": "아니... 책 고르고 계신 거 맞아요? 베개나 낚시 도구가 아니고요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Like I said, it's for angling. I'm a practical angler. I believe in multi-purpose gear",
+      "zh-TW": "我說了啊，拿來釣鱗用的 我是個實用主義釣手，信奉多功能裝備理論",
+      "zh-CN": "我说了呀，拿来钓鳞用的 我是个实用主义钓手，信奉多功能装备理论",
+      "ja": "だから、釣り用なんだって。オレは実用主義ってヤツ。たくさん機能あったほうがお得だろ？",
+      "ko": "낚시할 때 쓸 거라고 말했잖아. 난 실용주의 낚시꾼이라서, 다기능 장비 이론을 믿거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You can angle with books?",
+      "zh-TW": "書還能用來釣鱗？",
+      "zh-CN": "书还能用来钓鳞？",
+      "ja": "本で釣りができるの？",
+      "ko": "책으로 낚시를 한다고요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Books are the universal tool for angling",
+      "zh-TW": "書，是釣鱗時的萬能道具",
+      "zh-CN": "书，是钓鳞时的万能道具",
+      "ja": "本は釣りの万能アイテム。",
+      "ko": "책은 낚시할 때 필요한 만능 도구야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Don't underestimate what a properly sized, decently weighted, solidly built book can do for you out there",
+      "zh-TW": "你千萬別小看一本大小、重量適中、質地厚實的書，在釣鱗時能起到的作用",
+      "zh-CN": "你可别小看一本大小合适、重量适中、质地实在的书，在钓鳞时能起到的作用",
+      "ja": "サイズも重さも丁度で、しっかりした作りなら……マジで役立つ。",
+      "ko": "크기와 무게가 적당하고, 질감이 탄탄한 책이 낚시에 얼마나 유용한 줄 알아? 절대 얕보면 안 돼."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What else is there? Go on, tell me more.",
+      "zh-TW": "還有什麼妙用嗎？展開講講。",
+      "zh-CN": "还能有什么妙用吗？展开讲讲。",
+      "ja": "どんなふうに役立つのか、教えて。",
+      "ko": "책에 또 어떤 신기한 용도가 있는 거죠? 자세히 설명해 주실래요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Like using it as a seat cushion. If the spot's damp, a book can save your backside",
+      "zh-TW": "比如用來墊著 釣點要是地面濕滑，一本書能救屁股一命",
+      "zh-CN": "比如垫着用 钓点要是地面湿滑，一本书能救屁股一命",
+      "ja": "座るとこが濡れてたら、下に敷く。まずはケツが助かった。",
+      "ko": "예를 들면, 받침대로 쓸 수 있어. 낚시 자리의 바닥이 미끄러울 때, 이 책 한 권으로 내 엉덩이를 지킬 수 있지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "When the sun's brutal, you can use it to shield your face. A light drizzle comes, and it protects your head",
+      "zh-TW": "太陽毒的時候可以拿本書來擋臉防曬，毛毛雨來了還能保護頭",
+      "zh-CN": "太阳毒的时候可以拿本书来挡脸防晒，毛毛雨来了还能护住头",
+      "ja": "日差しがキツけりゃ、顔にかざす。雨なら頭に被せる。",
+      "ko": "햇볕이 너무 셀 때는 책으로 얼굴을 가려서 햇볕을 피하고, 갑자기 이슬비가 내리면 머리를 가릴 수도 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Tired? It's a pillow. If the sun's too bright to keep your eyes open, just put another one on top to block the light",
+      "zh-TW": "睏了，它是枕頭；要是曬得睜不開眼，就再蓋一本擋光",
+      "zh-CN": "困了，它是枕头；要是晒得睁不开眼，就再盖一本遮光",
+      "ja": "眠いときの枕。眩しい日はもう1冊で日除け。",
+      "ko": "낚시하다 졸리면 베개로 쓰고, 자다가 눈이 너무 부시면 책 한 권을 더 덮어서 햇볕을 가리는 거지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "If you don't have a notebook handy, you can use the margins to jot down fin activity, tide, wind speed, and your mood",
+      "zh-TW": "要是手上沒筆記本，頁邊的空白還能臨時記鱗況、潮汐、風速和心情",
+      "zh-CN": "要是手边没笔记本，页边的空白还能临时记鳞况、潮汐、风速和心情",
+      "ja": "メモ帳代わりに余白も使えるしな。釣りの結果、潮、風、気分まで書いとく。",
+      "ko": "옆에 노트가 없을 때도 책 아무 데나 린수 상황이나 물때 시간, 풍속, 컨디션 같은 걸 기록할 수 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So that's how you \"use\" a book.",
+      "zh-TW": "原來書是拿來這樣「用」的啊。",
+      "zh-CN": "原来书是拿来这么“用”的啊。",
+      "ja": "本には、そういう「使い道」もあるんだね。",
+      "ko": "책이 그렇게 '유용'한 줄은 몰랐네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Don't laugh at me, Endmin",
+      "zh-TW": "管理員你別笑我",
+      "zh-CN": "管理员你可别笑话我",
+      "ja": "笑うなって。",
+      "ko": "관리자, 날 비웃지 말라고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Who says only the content of a book has value?",
+      "zh-TW": "誰說只有書的內容才有價值呢",
+      "zh-CN": "谁说只有书的内容才有价值呢",
+      "ja": "中身にしか価値ねーって、誰が決めたんだよ？",
+      "ko": "책 안의 내용만이 가치가 있는 건 아니잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So which book is the most \"valuable\" for angling then?",
+      "zh-TW": "那哪本書在釣鱗時比較有「價值」？",
+      "zh-CN": "那哪本书在钓鳞时比较有“价值”？",
+      "ja": "じゃあ、釣りのときに一番「価値」がある本はどれ？",
+      "ko": "그럼, 낚시할 때는 어떤 책이 '가치'가 있는데요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Let me think ... \"The Tides That Bind\"",
+      "zh-TW": "我想想……《沙海愚夫》吧",
+      "zh-CN": "我想想……《沙海愚夫》吧",
+      "ja": "まあ……『砂海の愚夫』じゃね？",
+      "ko": "음... <광활한 사막의 어리석은 남자>?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Seems like it's about Sargon? Why that one?",
+      "zh-TW": "好像是本關於薩爾貢的書？為什麼是這本？",
+      "zh-CN": "好像是本关于萨尔贡的书？为什么是这本？",
+      "ja": "サルゴンの本だったはずだ。どうしてその本なの？",
+      "ko": "사르곤에 관한 책인 것 같은데... 왜 그 책이죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "\"Life will scar you like desert sun and sandstorms. But remember, these wounds will harden into the strongest armor to walk beside you.\"",
+      "zh-TW": "「生活會像烈日和沙暴一樣，讓人遍體鱗傷；但你要知道，正是這些傷口，終會變成最堅硬的甲胄，伴你前行」",
+      "zh-CN": "“生活会像烈日和沙暴一样，让人遍体鳞伤；可你要知道，正是这些伤口，终会变成最坚硬的甲胄，伴你前行”",
+      "ja": "「人生は、灼熱の太陽と砂嵐のように人を傷つける。しかし、覚えておくのだ。傷はいつか、最も堅固な鎧となる。それが、お前を先へと導くだろう――」",
+      "ko": "'인생은 뜨거운 태양, 모래폭풍과 같아서 온몸을 상처투성이로 만들 것이다. 하지만 우리는 알아야 할 것이 있다. 그 상처들이 결국 가장 단단한 갑옷이 되어 당신과 함께 앞으로 나아가게 된다는 것을.'"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "This line...?",
+      "zh-TW": "這句話是……？",
+      "zh-CN": "这句话是……？",
+      "ja": "これは……本からの引用？",
+      "ko": "그 구절은..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "That's an excerpt I copied down. Quite thought-provoking, isn't it?",
+      "zh-TW": "是我摘抄的，這句蠻有趣的吧",
+      "zh-CN": "是我做的摘抄，这句挺有意思的吧",
+      "ja": "まあな。悪くねーだろ？",
+      "ko": "내가 책에서 보고 따로 써놓은 거야. 참 인상적인 문장이지?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I knew it. Any book in your hands would be put to its \"fullest use\".",
+      "zh-TW": "我就知道，書在你手上一定會被「物盡其用」。",
+      "zh-CN": "我就知道，书在你手上肯定会“物尽其用”。",
+      "ja": "なるほど、わかったよ。どんな本にもやっぱり「使い道」があるんだね。",
+      "ko": "그럴 줄 알았어요. 책이 알레쉬 씨 손에 들어가면 제 가치를 충분히 발휘할 거라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Naturally. I never said I didn't care about the content of the books at all.",
+      "zh-TW": "那當然，我又沒說自己不在乎書的內容",
+      "zh-CN": "那当然，我又没说自己不在乎书的内容",
+      "ja": "言っただろ？中身にも価値があんだって。",
+      "ko": "당연하지, 책의 내용을 신경 쓰지 않는다고 말한 적은 없어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "With books as companions, one is never truly alone. Even if no fins are caught, I will always receive something else",
+      "zh-TW": "有書相伴，就永遠不會孤單 哪怕沒釣到鱗，也能收穫點別的什麼",
+      "zh-CN": "有书相伴，就永远不会孤单 哪怕没钓上鳞，也能收获点别的什么",
+      "ja": "本は、誰も孤独にしねえんだ。鱗獣が釣れなくったって、別の収穫があるのと同じ。",
+      "ko": "책이 있으면 절대 외롭지 않아. 린수를 못 낚아도, 또 다른 수확을 얻을 수 있거든."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0024_deepfin_3",
+   "topic": {
+    "en": "No Discord, No Concord",
+    "zh-TW": "不是冤家不聚頭",
+    "zh-CN": "不是冤家不聚头",
+    "ja": "犬猿の仲の再会",
+    "ko": "숙명의 대적"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Nice weather today. Did you go angling?",
+      "zh-TW": "今天天氣看起來不錯，你去釣鱗了嗎？",
+      "zh-CN": "今天天气看起来不错，你去钓鳞了吗？",
+      "ja": "今日は天気がいいみたいだね。君は、鱗獣釣りに行くの？",
+      "ko": "오늘 날씨가 좋아 보이네요. 낚시하러 나가셨나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Dammit",
+      "zh-TW": "糟糕",
+      "zh-CN": "糟糕",
+      "ja": "やべー。",
+      "ko": "큰일이야..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "I ran into an enemy here",
+      "zh-TW": "在這裡遇到仇家了",
+      "zh-CN": "在这里遇见仇家了",
+      "ja": "やべーヤツがいた。",
+      "ko": "여기서 원수를 마주쳤어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Huh? What enemy?!",
+      "zh-TW": "什麼？仇家？！",
+      "zh-CN": "什么？仇家？！",
+      "ja": "やべーヤツって……誰？",
+      "ko": "네? 원수요?!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "An old rival from my gang days. The most bloodthirsty ruthless person I've ever met. Never leaves a score unsettled",
+      "zh-TW": "以前混幫派時的死對頭 是我遇過最嗜血的狠人 有仇必報",
+      "zh-CN": "以前混帮派时的死对头 是我见过最嗜血的狠人 有仇必报",
+      "ja": "前、組織いたときやり合ってたライバル。恨みは必ず返す、血腥いヤツだ。",
+      "ko": "예전에 몸담았던 파벌의 원수야. 내가 본 사람 중에 가장 피에 굶주린 잔인한 놈이지. 원한이 있으면 반드시 갚아야 직성이 풀렸어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Back then we fought with real blades. We cracked each other's skulls open and saw real blood",
+      "zh-TW": "那時候我們真刀真槍幹過 互相開過對方腦瓜 看過血",
+      "zh-CN": "那会儿我们真刀真枪干过 互相给对方开过瓢 见过血",
+      "ja": "当時は、真剣勝負……お互いに頭かち割って、血流して……",
+      "ko": "그때 우린 진짜 칼이나 총으로 싸웠어. 서로 머리를 쳐서 피를 보기도 했고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Killing intent radiates toward me. The debts of the past cannot be escaped",
+      "zh-TW": "殺氣騰騰 衝著我來了 往日的孽債 逃不過了",
+      "zh-CN": "杀气腾腾 冲着我来了 往日的孽债 逃不过了",
+      "ja": "とにかく、殺る気しか感じねえ。過去のツケ払いに来たのか、逃げられそーもねえ……",
+      "ko": "그놈이 살기를 품고 날 향해 달려오고 있어. 그래, 지난날의 원한을 오늘은 끝내야겠군."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "...Where are you? How bad is it? You geared up? Need help?",
+      "zh-TW": "……你現在在哪裡？情況怎麼樣？穿護具了嗎？要不要支援？",
+      "zh-CN": "……你现在在哪里？情况怎么样？穿护具了吗？要不要支援？",
+      "ja": "今どこにいる？状況を教えて。装備はある？必要なら支援を出すから……",
+      "ko": "...지금 어디세요? 대체 무슨 상황이에요? 방어구는 챙겨가셨어요? 지원을 보낼까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Alesh?? Please respond?!",
+      "zh-TW": "阿列什！快回覆！",
+      "zh-CN": "阿列什！快回复！",
+      "ja": "アレッシュ！返事して。",
+      "ko": "알레쉬 씨! 대답 좀 하세요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Sorry Endmin, I ... lost",
+      "zh-TW": "抱歉，管理員，我輸了",
+      "zh-CN": "抱歉，管理员，我输了",
+      "ja": "管理人、悪い。負けたわ。",
+      "ko": "미안해, 관리자. 내가 졌어..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "I'm at the spot where we last went angling",
+      "zh-TW": "我在我們上次釣鱗的地方",
+      "zh-CN": "我在我们上次钓鳞的地方",
+      "ja": "場所は、この前一緒に鱗獣釣ったとこ。",
+      "ko": "저번에 우리 같이 낚시했던 곳이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "I'm afraid we can't angle here anymore",
+      "zh-TW": "以後再也不能約你來這裡釣鱗了",
+      "zh-CN": "以后再也没法约你来这里钓鳞了",
+      "ja": "もう、お前とここで釣りできねぇんだな……",
+      "ko": "앞으로 너랑 같이 여기서 낚시할 기회는 없겠네..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Alesh!!! What happened??",
+      "zh-TW": "阿列什！你怎麼了？",
+      "zh-CN": "阿列什！你怎么了？",
+      "ja": "アレッシュ！どうしたの？",
+      "ko": "알레쉬 씨! 무슨 일이에요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Hang on there! I'm having Fiona locate your position immediately.",
+      "zh-TW": "撐住！我請菲奧娜馬上定位你的位置。",
+      "zh-CN": "挺住！我让菲奥娜马上定位你的位置。",
+      "ja": "フィオナに君の位置を確認してもらう。",
+      "ko": "거기 그대로 계세요! 피오나한테 그쪽 위치를 확인해 보라고 할게요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "The crisis team is en route.",
+      "zh-TW": "危機處理小組馬上就來。",
+      "zh-CN": "危机处理小组马上就来。",
+      "ja": "危機対策班も向かわせるから、それまで……",
+      "ko": "위기 대책팀이 곧 갈 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Oh, it's all good Endmin. I'm fine",
+      "zh-TW": "不，管理員，不用這樣，我人沒事",
+      "zh-CN": "不，管理员，不用这样，我人没事",
+      "ja": "あ、管理人？んな必要ねぇよ。オレは無事。",
+      "ko": "아니, 관리자, 그럴 필요 없어. 난 무사해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Excuse me?? Explain!",
+      "zh-TW": "怎麼回事？你解釋清楚！",
+      "zh-CN": "怎么回事？你解释清楚！",
+      "ja": "どういうこと？説明して……",
+      "ko": "어떻게 된 거예요? 자세히 좀 말해보세요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "We were just using angling to settle our rivalry",
+      "zh-TW": "我們用釣鱗來比勝負",
+      "zh-CN": "我们用钓鳞来比胜负",
+      "ja": "だから、鱗獣釣りで勝負したんだって。",
+      "ko": "둘이서 낚시로 승부를 겨뤘어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "I was leading for the first thirty minutes. He only pulled up weeds and trash so I thought I had it in the bag",
+      "zh-TW": "前三十分鐘我領先，他釣上來一堆水草和垃圾，我還以為贏定了",
+      "zh-CN": "前三十分钟我领先，他钓上来一堆水草和垃圾，我还以为稳了",
+      "ja": "最初の30分はオレがリード。あいつ、草とかゴミばっか釣ってて。普通に勝ったと思った。",
+      "ko": "초반 30분은 내가 앞서 있었어. 상대가 물속에서 건진 건 수초랑 쓰레기뿐이라, 내가 이길 거라고 확신하고 있었지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "But in the end, a rare silver fin took his bait",
+      "zh-TW": "結果到最後，一條罕見的銀色鱗咬了他的鉤",
+      "zh-CN": "结果到最后，一条罕见的银色鳞上了他的钩",
+      "ja": "でも最後の最後、珍しい銀鱗獣を釣り上げた……",
+      "ko": "근데 마지막에 그 귀한 은색 린수가 그 녀석의 낚시 바늘에 걸려버린 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So that's how you lost?",
+      "zh-TW": "所以你就這樣輸了。",
+      "zh-CN": "所以你就这样输了。",
+      "ja": "つまり、負けたってことだね。",
+      "ko": "그래서 알레쉬 씨가 진 거군요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "I'm afraid so. This spot belongs to him now",
+      "zh-TW": "是的，這塊場地現在歸他了",
+      "zh-CN": "是的，这块场子现在归他了",
+      "ja": "まあ、そーだな。で、釣り場は譲った。",
+      "ko": "맞아, 지금부터 이 낚시터는 그 녀석 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Unless I win it back next time",
+      "zh-TW": "除非下次贏回來",
+      "zh-CN": "除非下次赢回来",
+      "ja": "次、取り返すけど。",
+      "ko": "다음번에 내가 이기기 전까지는 말이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So your old grudge was settled just like that?",
+      "zh-TW": "以前的仇就這樣解決了？",
+      "zh-CN": "以前的仇就这样解决了？",
+      "ja": "昔のツケって、それで終わりなの？",
+      "ko": "과거의 복수는 이렇게 해결된 건가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Can't exactly call it settled. But when our eyes met, we both understood how things stood",
+      "zh-TW": "也不能說解決吧，但當時我們對視後，就都心知肚明了",
+      "zh-CN": "也不能说解决吧，但当时我们对上眼，就都明白怎么回事了",
+      "ja": "終わりかって言われたら微妙だけど。でも、目が会った瞬間にお互いわかったんだよ。",
+      "ko": "해결됐다고는 할 수 없지. 하지만 서로 눈이 마주치는 그 순간, 지금이 무슨 상황인지 바로 알았어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "It's a perfect day for angling anyway. The migration is on, water temperature is ideal, and the wind direction is favorable",
+      "zh-TW": "今天正是釣鱗的時候，剛好在鱗汛，水溫適合，風向也對",
+      "zh-CN": "今天正是钓鳞的时候，赶上鳞汛，水温合适，风向也对",
+      "ja": "今日は鱗獣釣りにはサイコーの日だ。群れも来てて、水温も風向きもいい。",
+      "ko": "오늘이 마침 낚시하기 딱 좋은 날이었어. 린수 떼가 몰려오고, 수온도 적당하고, 바람 방향도 딱 알맞았거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "No one brought up old grudges, no one made threats. He raised his rod, and I raised mine ... so we competed",
+      "zh-TW": "沒人提舊帳，沒人說狠話。他舉起釣竿，我也舉起釣竿，那就比吧",
+      "zh-CN": "没人提旧账，没人说狠话；他举起钓竿，我也举起钓竿，那就比吧",
+      "ja": "昔話なんか必要ねぇだろ。あいつが竿構えて、オレもそうする。あとは流れを待つだけ。",
+      "ko": "둘 중 아무도 지난 일을 꺼내지 않았고, 아무도 모진 말을 하지 않았어. 상대가 낚싯대를 들면, 나도 낚싯대를 들었지. 그냥 그렇게 대결이 시작된 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "...Wasn't he supposed to be bloodthirsty and ruthless? How did he end up becoming an angler too?",
+      "zh-TW": "……不是說他是個嗜血的狠人嗎？怎麼也變成「釣鱗佬」了？",
+      "zh-CN": "……不是说他是个嗜血的狠人么？怎么也成了“钓鳞佬”了？",
+      "ja": "「血腥いヤツ」が「鱗獣釣り人」になっていたの？",
+      "ko": "......아까 그 사람은 원래 잔인한 사람이었다고 했잖아요. 근데 어쩌다가 낚시꾼이 된 거예요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Apparently his gang lost too, and fell apart. Then he did a two-year stint behind bars",
+      "zh-TW": "聽說他的幫派也輸了，散了 然後在監獄裡蹲了兩年",
+      "zh-CN": "听说他的帮派也输了，散了 然后在号子里蹲了两年",
+      "ja": "組織が負けて、解散したって。んで、刑務所2年いたとか。",
+      "ko": "이야기를 들어 보니까, 그 녀석이 있던 조직도 싸움에 져서 해체됐다고 하더라고. 그리고 감옥에서 2년을 있었대."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Maybe everyone needs some way to start over. When he got out, just like I did back then, he took up angling too",
+      "zh-TW": "可能誰都需要一種方式來重新開始？等他再出來，就和我當初一樣，也開始釣鱗了",
+      "zh-CN": "可能谁都需要一种方式来重新开始？当他再出来，就和我当初一样，也开始钓鳞了",
+      "ja": "やり直すためにはきっかけもいるだろ。オレもそーだったし。出てきて鱗獣釣り始めた。",
+      "ko": "누구나 새로운 삶을 시작할 방식이 필요하잖아. 녀석도 출소한 뒤에 그때의 나처럼 낚시를 시작하게 된 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Just like you did back then?",
+      "zh-TW": "像你當初那樣？",
+      "zh-CN": "像你当初那样？",
+      "ja": "君もそうだったの？",
+      "ko": "그때의 알레쉬 씨처럼요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Yeah. Right after the gang fell apart, I wasn't any better. I buried myself in liquor bottles day after day",
+      "zh-TW": "嗯，幫派剛散那陣子，我也沒比他好到哪裡去，整天把自己埋在酒瓶裡",
+      "zh-CN": "嗯，帮派刚散那阵，我可不比他好到哪里去，成日把自己埋在酒瓶里",
+      "ja": "組織が潰れたときな。オレも……同じっつーか、一日中酒瓶に埋もれてた。",
+      "ko": "응, 파벌이 막 해체됐을 때 나도 그 녀석이랑 다를 바 없었어. 매일 술병에 파묻혀 지냈으니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "That day, stumbling back to my hideout dead drunk, I tripped over something. Picked it up, and it was an angling rod coated in dust",
+      "zh-TW": "那一天喝得醉醺醺的，回到藏身處，被什麼東西絆到了 抓起來一看，是落滿灰塵的釣竿",
+      "zh-CN": "那一天喝得醉醺醺的，回到藏身处，被什么东西绊到了 抓起来一看，是落满灰尘的钓竿",
+      "ja": "酔っ払って隠れ家戻ったら、足に何か引っかかったんだよ。それが、ホコリまみれの竿だった。",
+      "ko": "어느 날 술에 잔뜩 취해서 은신처로 돌아왔는데, 뭔가에 걸려서 넘어졌지 뭐야. 그래서 집어 들어보니까 먼지가 잔뜩 쌓인 낚싯대였지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Suddenly I felt a spark. I carried it straight to the docks... And the moment I cast the line, I knew I could stand tall again",
+      "zh-TW": "忽然心一動，拎著它直奔碼頭，揮出釣竿的那一刻，我就覺得自己又能站起來了",
+      "zh-CN": "忽然心一动，拎着它直奔码头，挥出钓竿的那一刻，我就觉得自己又能站起来了",
+      "ja": "そんときビビっと来た……港に直行して竿振って。オレはまだ立てるって、そう思えた。",
+      "ko": "그때 갑자기 마음이 움직였어. 그래서 그 낚싯대를 들고 곧바로 부두로 달려갔지. 낚싯대를 휘두르는 순간, 다시 일어설 수 있을 것 같은 기분이 들었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Wow, never imagined that's how you found your way out.",
+      "zh-TW": "想不到，你是這樣走出來的。",
+      "zh-CN": "想不到，你是这样走出来的。",
+      "ja": "なるほどね。立ち直った方法がわかったよ。",
+      "ko": "그렇게 새로운 삶을 시작하셨을 거라곤 상상도 못 했어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Heh. Just like what Endfield means to me",
+      "zh-TW": "嘿嘿，就像終末地對我的意義一樣",
+      "zh-CN": "嘿嘿，就像终末地对我的意义一样",
+      "ja": "オレ的には、エンドフィールドも同じだ。",
+      "ko": "하하, 나한테 있어서 낚시는 엔드필드와 같은 의미야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Endfield? What does it have in common with angling?",
+      "zh-TW": "終末地？和釣鱗有什麼相似之處嗎？",
+      "zh-CN": "终末地？和钓鳞有什么相似之处吗？",
+      "ja": "エンドフィールドと鱗獣釣りが同じってこと？",
+      "ko": "엔드필드요? 엔드필드가 낚시랑 어떤 비슷한 점이 있죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "Joining Endfield felt like ... casting a new line",
+      "zh-TW": "加入終末地的時候，就像新的一次拋竿",
+      "zh-CN": "加入终末地的时候，就像新的一次抛竿",
+      "ja": "エンドフィールドに入ったとき、新しい竿振った気分になったんだよ。",
+      "ko": "엔드필드에 합류했을 때, 낚싯대를 새로 던지는 기분이었거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "And this time, I managed to hook the most precious thing of all",
+      "zh-TW": "而且還釣到了最珍貴的東西",
+      "zh-CN": "而且还钓上了最珍贵的东西",
+      "ja": "それに、大物釣れたし。",
+      "ko": "게다가 가장 소중한 걸 낚아 올렸지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Alesh",
+      "zh-TW": "阿列什",
+      "zh-CN": "阿列什",
+      "ja": "アレッシュ",
+      "ko": "알레쉬"
+     },
+     "text": {
+      "en": "New friends, and a fresh start",
+      "zh-TW": "新的夥伴，新的開始",
+      "zh-CN": "新的伙伴，新的开始",
+      "ja": "新しい仲間と新しいスタート",
+      "ko": "새로운 동료와 새로운 시작을 말이야."
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 5
+}

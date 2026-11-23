@@ -57,6 +57,8 @@ sources:
 
 Laevatain joined Endfield Industries from Rhodes Island on the Endministrator's own recommendation and reports directly to the Endministrator.
 
+Files, voice lines and chats: [Laevatain's file](/story/laevatain/).
+
 ## How to obtain
 
 Laevatain is the rate-up 6-star operator of Scars of the Forge, a Chartered Headhunting banner of [Version 1.0](/versions/1-0/). Banners with Laevatain:

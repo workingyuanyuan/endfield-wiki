@@ -1,0 +1,2769 @@
+{
+ "slug": "argent-flow",
+ "gameId": "chr_0037_minghe",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Argent Flow \nGENDER: Male \nAUTHENTICATION: Hongshan Academy of Sciences \nDOB: October 23 \nRACE: Lung \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Excellent \nCOMBAT SKILL: Outstanding \nTACTICAL ACUMEN: Excellent \nORIGINIUM ARTS ASSIMILATION: Standard \n\nOperator Argent Flow, despite having excellent physical health, extremely healthy daily routines, and zero bad habits (only drinks in moderation), remains highly cooperative when sharing his history of illnesses and injuries... I am formally applying for the public disclosure of this set of data. Bratty youths who kept screeching how \"THERE MUST BE SACRIFICES TO ACQUIRE POWER\" should take a look at a true professional and learn something about taking responsibility for their well-being. \n— Comment is made by a medic operator bearing a deep grudge",
+    "zh-TW": "【代號】明河\n【性別】男\n【身分認證】宏山科學院\n【生日】10月23日\n【種族】龍\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：優良\n作戰技巧：卓越\n戰術規劃：優良\n源石技藝適應性：標準\n\n明河幹員體格強健，日常生活習慣極佳，無不良嗜好（適度飲酒），積極配合自述傷病史……我要申請把這份資料在內部公開，讓那些天天在唸「獲得力量就要付出代價」的幼稚年輕人們見識一下，什麼才叫對自己負責的專業人士。\n——怨念頗深的醫療幹員",
+    "zh-CN": "【代号】明河\n【性别】男\n【身份认证】宏山科学院\n【生日】10月23日\n【种族】龙\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：优良\n作战技巧：卓越\n战术规划：优良\n源石技艺适应性：标准\n\n明河干员体格强健，日常生活习惯极佳，无不良嗜好（适度饮酒），积极配合自述伤病史……我要申请把这份资料在内部公开，让那些天天念叨“获得力量就要付出代价”的幼稚小年轻们见识一下，什么才叫对自己负责的专业人士。\n——怨念颇深的医疗干员",
+    "ja": "【コードネーム】明河\n【性別】男\n【身分証明】宏山科学院\n【誕生日】10月23日\n【種族】龍\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：優秀\n戦闘技術：卓越\n戦術立案：優秀\nアーツ適性：標準\n\nオペレーター・ミンホの健康状態は良好で、生活習慣にも問題なく、嗜好品も適度である（飲酒は適量）。既往歴や負傷歴についても積極的に申告を行う……この資料はぜひ内部で公開させてもらいたい。「力を得るには代償が必要だ」などと言う青二才たちに、プロとは何たるか見せてやりたいものですよ。\n——恨み節が止まらない医療オペレーター",
+    "ko": "[코드네임] 명하\n[성별] 남\n[신분 인증] 홍산 과학원\n[생일] 10월 23일\n[종족] 용\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 우수\n작전 기술: 탁월\n전술 계획: 우수\n오리지늄 아츠 적응성: 표준\n\n오퍼레이터 명하는 건장한 체격과 평소에도 나쁜 습관 없이(적당량의 음주 제외) 모범적인 생활 습관을 갖추고 있다. 과거 병력과 부상 이력도 성실하게 진술하며 모든 검사에 적극 협조했다... 이 자료를 내부에 공개할 것을 정식으로 요청한다. 날마다 \"힘을 얻으려면 반드시 대가를 치러야 한다.\"라고 떠들어 대는 철없는 젊은 오퍼레이터들에게, 자기 자신을 책임질 줄 아는 진정한 전문가가 어떤 사람인지 보여줄 필요가 있다.\n-불만이 많은 의료 오퍼레이터"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Argent Flow (given name Ye Minghe) is currently an Imperial Guard of Yan and Hongshan Academy of Sciences (HAS) Captain of Pacified Skies*. Following HAS orders, he is now working closely with Endfield Industries, offering battlefield support while providing instructions on various combat techniques. *NOTE: Pursuant to the Law of Yan, the Imperial Guards are not a subordinate organization under the Affiliated Hongshan Academy of Sciences of Tianshi Bureau of Great Yan. However, given the historical complexities involved, this NOTE (absent other details) provides a sufficient explanation for this particular naming convention.\n\nOperator Argent Flow revealed maturity and calm when dealing with other personnel and has proved to be a good team player. Concerns regarding his \"haughty arrogance\", \"extreme unfriendliness\", and other personality issues voiced by some operators seem to have been misplaced. Operator Argent Flow gave two explanations for the rise of such misunderstandings: (1) though it is true that members of the Imperial Guards act in different ways, most of the stories about them are fictional; and (2) certain \"embarrassing follies of youth\" that took place years ago have been passed around for too long, and were probably subject to exaggeration and/or distortion. In other words, all personnel are encouraged to observe common etiquette and avoid dwelling on sensitive subject matters when engaging Operator Argent Flow. This approach is almost certain to secure a chance of friendly sparring or combat technique instruction from the Operator. Please also reserve dialogue sessions in advance and be mentally prepared to wait in a long queue.\nNOTE TO ALL GROUND CREW: These assessments only apply to Operator Argent Flow himself. His galloper is a beast of immense strength and violent temper. Be vigilant and cautious if tasked with feeding or caring for said beast. The Operator has personally organized a comprehensive list of things to look out for. Any personnel tasked with galloper handling MUST PERUSE AND MEMORIZE THE SAID LIST REPEATEDLY.\n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "明河，本名夜明河，炎國禁軍，宏山科學院靖天都尉，根據宏山科學院調令，現與終末地工業展開密切合作，為終末地提供武力支援和戰鬥技巧指導。（依炎國律法，禁軍與炎國天師府下屬宏山科學院並非嚴格從屬關係。考慮到其中歷史淵源複雜，此處僅對通常說法進行簡要註釋，不作詳解。）\n\n明河幹員待人處事成熟穩重，合作意識良好，能適應絕大部分團隊任務，並不存在部分幹員擔心的「恃才傲物」、「拒人千里」等性格問題。對於此類誤解，明河幹員給出了兩種解釋：禁軍傳聞大多不實，同僚們的行事風格也因人而異；又或者，有些「年輕時讓人害臊的事蹟」傳得太久，早就被誇大和扭曲了。總體而言，只要遵循禮節，不在敏感話題上過多糾纏，各位基本上都能如願得到一次與他切磋或接受武藝指導的機會（請提前預約，並對排隊人數做好心理預期）。\n另外，請地面工作人員注意，上述評價僅針對明河幹員本人。他的馳獸力量驚人且氣性暴烈，務必在飼養維護工作中保持高度戒備。幹員已親手將相關事項整理完畢，請確保接觸前反覆閱讀並背誦。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "明河，本名夜明河，炎国禁军，宏山科学院靖天都尉，根据宏山科学院调令，现与终末地工业展开密切合作，为终末地提供武力支援和战斗技巧指导。（依炎国律法，禁军与炎国天师府下属宏山科学院并非严格从属关系。考虑到其中历史渊源复杂，此处仅对通常说法进行简要注释，不作详解。）\n\n明河干员待人处事成熟稳重，合作意识良好，能适应绝大部分团队任务，并不存在部分干员担心的“恃才傲物”“拒人千里”等性格问题。对于此类误解，明河干员给出了两种解释：禁军传闻大多不实，同僚们的行事风格也因人而异；又或者，有些“年轻时让人害臊的事迹”传得太久，早就被夸大和扭曲了。总体而言，只要遵循礼节，不在敏感话题上过多纠缠，各位基本都能如愿得到一次与他切磋或接受武艺指导的机会（请提前进行预约，并对队列长度做好心理预期）。\n另外，请地面工作人员注意，上述评价仅针对明河干员本人。他的驰兽力量惊人且气性暴烈，务必在饲养维护工作中保持高度戒备。干员已亲手将相关事项整理完毕，请确保接触前反复阅读并背诵。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "ミンホ、本名は「夜明河」。炎国禁軍、宏山科学院の靖天都尉。宏山科学院の命により、現在はエンドフィールドと緊密に協力し、戦力支援のほか、戦闘技術の指導にも当たっている。（炎国の法においては、禁軍と炎国天師府に属する宏山科学院との間には、厳密な意味での従属関係はない。ただし、その歴史的な経緯は複雑であるため、ここでは慣例的な呼称であることのみ補足し、詳細は割愛する）\n\n「ミンホさんは成熟した落ち着きのある人物で、協調性も高く、ほとんどのチーム任務に難なく適応しています。一部のオペレーターが懸念していた『才能を鼻にかける』『人を寄せつけない』といった性格上の問題も見られません。こうした誤解について、彼は2つの可能性を挙げてくれました。1つは、禁軍にまつわる噂は事実と異なるものが多く、また禁軍の者たちの振る舞いも人それぞれだということ。もう1つは、『若い頃の恥ずかしい逸話』が人づてに語り継がれるうちにすっかり尾ひれがつき、歪められてしまったのではないか、ということです。総じて礼節を守り、デリケートな話題をしつこく掘り下げさえしなければ、どなたでもミンホさんと手合わせをするか、武芸の指導を受ける機会が得られるでしょう。（事前予約推奨、待機列が長くなることはあらかじめご了承ください）」\n「また、地上勤務のスタッフは注意が必要です。上記の評価は、あくまでミンホさん本人に対するものです。彼の馳獣は恐るべき力を持ち、気性も非常に荒いため、飼育作業の際は十分に警戒すること。関連事項についてはミンホさんが整理済みです。作業の前に必ず繰り返し読み、暗記しておいてください。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "명하. 본명은 야명하. 염국 금위군, 홍산 과학원 정천도위. 홍산 과학원의 발령에 따라 현재 엔드필드 공업과 긴밀히 협력하며, 엔드필드에 무력 지원과 전투 스킬 지도를 제공하고 있다. (염국 율법상 금위군과 염국 천사부 산하 홍산 과학원은 엄밀한 상하 관계는 아니다. 다만 양측의 역사적 배경이 매우 복잡한 만큼, 여기서는 일반적으로 통용되는 표현만 간략히 기재하며 자세한 설명을 생략한다.)\n\n오퍼레이터 명하는 사람을 대하는 태도가 성숙하고 안정적이며, 협업 의식이 뛰어나 대부분의 팀 임무에 무리 없이 적응한다. 일부 오퍼레이터들이 우려했던 '재능만 믿고 거만하다', '사람을 지나치게 멀리한다'와 같은 성격상의 문제도 확인되지 않았다. 이러한 오해에 대해 오퍼레이터 명하는 두 가지 이유를 들었다. 첫째, 금위군에 관한 소문은 대부분 사실과 다르며, 동료들의 행동 방식 역시 사람마다 다르다는 것. 둘째, \"젊은 시절의 부끄러운 일화\"가 너무 오랫동안 전해지는 과정에서 이미 과장되고 왜곡되었다는 것이다. 종합하면, 기본적인 예의만 지키고 민감한 화제를 지나치게 캐묻지만 않는다면 누구나 원하는 대로 그와 대련하거나 무예 지도를 받을 기회를 얻을 수 있다.(단, 사전 예약은 필수이며, 긴 대기열은 미리 각오하는 것이 좋다.)\n위 평가는 어디까지나 오퍼레이터 명하 본인에게만 해당한다는 점을 유의하기 바란다. 그의 갤럽비스트는 엄청난 힘을 지녔을 뿐 아니라 성질도 매우 사나우므로, 사육 및 관리 업무 중에는 반드시 각별한 주의를 기울여야 한다. 관련 주의 사항은 오퍼레이터가 직접 정리해 두었으니, 접촉하기 전에 반드시 여러 차례 숙지하기 바란다.\n-엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "[RECORDS: Operator Minghe's Performance in the \"Operators Got Talent: Monthly Mega-Arena\"] \nBlindfolded & Armed Combat. 1st Place in Division (forfeits after knowing this is a competition). \nThe Art of Throwing. 1st Place. NOTE: 10 perfect throws, with 3 daggers plunged into the hilt of the previous. \nWrestle and Fight. 1st Place in weight class. NOTE: Handicapped himself by tying one arm to the back. \nInjury SAR Simulation Dash. 1st Place, Division: Forte Down. NOTE: Many Dusthair surgeons have commended his skills. \nBurdo-Bot-Bucker Rodeo. 1st Place. NOTE: Stayed in saddle for 600s. May have achieved a better score if the Bot-Bucker did not break down. \nHerbal Speed Trivia. 2nd Place, Hobbyist Division. \nCreative and Improvised Carving. \"IT'S SO CUTE\" Prizewinner. NOTE: Tool used is a sewing needle. \nMicro-Gravity Office Chair Racing. 2nd Place. NOTE: Only 0.4s behind best record. \nCHUG DA KOHL! 1st Place in Division. NOTE: Ignored the rules and joined the Durin Division. \nTofu Courier with Chopsticks. 1st Place. NOTE: Carried 36.5 pieces. \nNo Blinking. 2nd Place. NOTE: 928s without blinking. Defeated by Operator Xaihi. \n\nGotta remind you all. These are unofficial events designed for fun. Stop dragging people in because you see words like \"Arena\". And I thought this is the guy's day 1 at Endfield. How did you convince him to compete in so many events? \n— Lil' Dodge \n\nConvince? Naww Dodge. Dude just saw a crowd having fun and joined in... So who's this \"day 1 at Endfield guy\" anyways? \n— Logistics Operator (obviously having too much fun)",
+    "zh-TW": "【明河幹員參加「月度幹員才技大比武」的成績紀錄】\n矇眼兵擊比武大賽，小組第一（知曉比賽性質後棄權）。\n投擲技藝比拼，十刀皆中靶心，其中三刀沒入前刀尾部，同分數中取勝，第一名。\n摔角對抗，自縛一臂，重量級第一名。\n傷患運送模擬競速，豐蹄傷患組，第一名，受多位灰醫生賞識。\n仿生馱獸馴獸騎乘賽，600秒，第一名。如果機器沒有壞掉，成績應該更好。\n草藥知識快問快答，業餘組第二名。\n即興雕花創作賽，使用工具縫衣針，獲評審團「真的好可愛」獎。\n微重力辦公椅競速賽，第二名，僅落後最高紀錄0.4秒。\n酒量大賽，破例加入杜林組，團體第一名。\n筷子搬豆腐大賽，36.5塊，第一名。\n不眨眼大賽，928秒，第二名。惜敗於賽希幹員。\n\n必須重新提醒各位，這是業餘興趣活動，不能因為名字裡有「比武」就隨便把人拉進來。不過這才是報到第一天，你們怎麼說服他陪你們參加了這麼多項目？\n——小道奇\n\n說服？我們在那邊玩，這個人自己看到就湊過來了……對了，他是誰啊？\n——興頭上的後勤幹員",
+    "zh-CN": "【明河干员参加“月度干员才技大比武”的成绩记录】\n蒙眼兵击比武大赛，小组第一（知晓比赛性质后弃权）。\n投掷技艺比拼，十刀皆中靶心，其中三刀没入前刀尾部，同分数中取胜，第一名。\n摔跤对抗，自缚一臂，重量级第一名。\n伤员运送模拟竞速，丰蹄伤员组，第一名，受多位灰医生赏识。\n仿生驮兽驯兽骑乘赛，600秒，第一名。如果机器没有坏掉，成绩应该更好。\n草药知识快问快答，业余组第二名。\n即兴雕花创作赛，使用工具缝衣针，获评审团“真的好可爱”奖。\n微重力办公椅竞速赛，第二名，仅落后最高纪录0.4秒。\n酒量大赛，破例加入杜林组，团体第一名。\n筷子搬豆腐大赛，36.5块，第一名。\n不眨眼大赛，928秒，第二名。惜败于赛希干员。\n\n必须重新提醒各位，这是业余兴趣活动，不能因为名字里有“比武”就随便把人拉进来。不过这才报到第一天，你们怎么说服他陪你们折腾了这么多项目？\n——小道奇\n\n说服？我们正玩着呢，这人自己看见就凑过来了……对了，他是谁啊？\n——兴头上的后勤干员",
+    "ja": "【月間オペレーター特技大会　ミンホの成績記録】\n目隠し武器対戦大会：グループ1位（大会の趣旨を知った後、棄権）。\n投擲技術大会：10投すべて的の中心に命中。そのうち3投は先に刺さっていたナイフの後端に突き刺さり、同点の参加者を抑えて1位。\n組み技大会：片腕を自ら縛って出場し、重量級1位。\n負傷者搬送シミュレーションレース：フォルテ負傷者部門1位。複数の鉛灰の医者から高い評価を受ける。\n機械駄獣の調教・騎乗大会：600秒で1位。機械が故障しなければ、さらに記録を伸ばしていたと思われる。\n薬草知識早押しクイズ：アマチュア部門2位。\n即興飾り彫りコンテスト：使用した道具は縫い針。審査員特別賞として「本当にかわいい賞」を贈られる。\n微重力オフィスチェア選手権：2位。最高記録との差はわずか0.4秒。\n酒豪大会：特例でドゥリン組に参加し、団体1位。\n箸で豆腐運び大会：36.5個、1位。\nまばたき我慢大会：928秒で2位。惜しくもザイヒに敗れる。\n\n改めて皆に念を押しておくが、これはあくまでレクリエーションだ。名前に「大会」とついているからといって、手当たり次第に人を連れてくるものではない。それにしても着任初日だというのに、これだけの種目に参加するなんて、どうやって説得したんだ？\n――ダッジ\n\n説得？こっちが遊んでたら、あっちの方から寄ってきて……というか、あの人って誰？\n――ノリノリの後方支援オペレーター",
+    "ko": "[오퍼레이터 명하의 '월간 오퍼레이터 장기자랑 대항전' 참가 기록]\n안대 검술 연무 부문, 조별 1위.(대회 성격을 파악한 뒤 기권)\n투척 아츠 부문, 열 자루 모두 과녁 중앙 명중. 그중 세 자루는 앞서 꽂힌 칼의 자루 끝을 관통함. 동점자 중 우승, 1위.\n레슬링 부문, 한쪽 팔을 스스로 묶고 참가, 헤비급 1위.\n부상자 운송 시뮬레이션 경주 부문, 포르테 부상자 부문 1위. 여러 그레이 닥터에게 호평받음.\n모방 버든비스트 조련 및 기승 부문, 기록은 600초, 1위. 기계만 고장 나지 않았더라면 더 좋은 기록을 냈을 것.\n약초 지식 스피드 퀴즈, 아마추어 부문 2위.\n즉흥 조각 창작 대회, 바느질 바늘만으로 작품을 완성해 심사위원 특별상 '정말 귀여워요'를 수상.\n미세 중력 사무실 의자 경주, 2위. 최고 기록과 단 0.4초 차이.\n주량 대회, 이례적으로 두린 조에 합류, 단체전 1위.\n젓가락 두부 옮기기 대회, 36.5모 옮기기 성공, 1위.\n눈 깜빡이지 않기 대회. 928초를 기록해 2위. 자이히 오퍼레이터에게 아쉽게 패배.\n\n다시 한번 말하지만, 이건 어디까지나 취미 활동에 관한 것입니다. 이름에 '대항전'이 들어간다고 아무 오퍼레이터나 끌어들이면 곤란합니다. 그나저나 첫 출근일부터 대체 어떻게 설득해서 이렇게 많은 종목에 참가시킨 건지...?\n-도치\n\n설득이요? 저희끼리 놀고 있었는데 저 사람이 먼저 다가온 건데요... 그런데, 저 사람 누구예요?\n-신이 난 지원 오퍼레이터"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "[LIST: Items Claimed by Operator Argent Flow From Delta Bot Transport Incidents] \nITEM CLAIM (1): \nWoodcarving, of a gallopbeast. Wax-coated. Finely made. \nNOTES BY CLAIMANT: \nA small gift from a Hannabit Circuit Songseeker. Some Sandreavers were chasing him. I happened to be passing by and decided to help him out. Before we departed, he gave me this. He described it as a special keepsake for a heroine. \nWhy did he carve Nuli? My galloper was the one who did the real work and crushed one Sandreaver ship after another. Without her aid, it would have been a drawn-out affair. So I accept it on her behalf. Speaking of this incident, I do have my own personal regrets. Well, it has nothing to do with the fact that I didn't get a gift. It's about the Songseeker. With his wisdom and courage, he got his people into a safe hiding spot in the dunes and fought the Sandreavers alone for several days. I should have been the one who gave him something. \n\nITEM CLAIM (2): \nA list of names and addresses written out on paper. The owner agreed to allow us to inspect its contents. Most of the names have matching entries in the various personal identity management systems of the Civilization Band. \nNOTES BY CLAIMANT: \nYeah, they're just a few kids. Promising ones, too. I met them when handling a rift rupture event. Some of the survivors were completely trapped in the mountain. I spent too much time borrowing a flying vehicle and creating a path. I was pessimistic, but what I found surprised me. Barely a dozen kids and teenagers kept over a hundred survivors together and on the move for safety, while picking up the wounded they found along the way. The kids even made a rudimentary energy warning device that helped me pinpoint the rift's location. \nWhen we parted ways, some of them were already back in school. I jotted down their names and information, hoping that if they were to apply to HAS, I'd be honored to vouch for them as their official recommender. How about directing them to Endfield? Hah. That will be their choice to make. \n\nITEM CLAIM (3): \nA worn camera. \nNOTES BY CLAIMANT: \nIt used to belong to an old journalist. I have it because of ... a promise. Just because of a promise. \nIt was an unlikely friendship during an Aggeloi clean-up operation. Though far from being a competent medic, I do have experience in battlefield first-aid and escorted her across a large swamp. We failed to save her legs ... but she gave me this camera that she carried with her throughout the harrowing affair. I often send her pictures. Like she said, nobody knew if an Æther rift or some other accident would suddenly strike a beautiful place. Since I travel a lot, I could use her camera to see the world for her. Fate brought us together, and I have no reason to refuse. \n\nI traveled far and met many people after leaving the village named Pan'an... And I was glad that my blade managed to defend them. I used the camera and recorded many memorable moments. The world may be vast, but fate is a rare thing. That's it. \nI've given my signature. I won't get in the way of other lost-and-found claimants. Farewell.",
+    "zh-TW": "【Delta型機器人運輸事故後，明河幹員的認領清單】\n認領物一：\n馳獸木雕，表面塗蠟，工藝精美。\n當事人認領紀錄：\n……一位眾生長地的遊人送的小禮物。他當時被一群沙盜盯上，我偶然經過，替他解了圍。分別時他便送了我這個，說是留給英雄的紀念。\n為什麼雕的是怒驪？如果沒有牠大顯神威，在沙海裡攆過一艘又一艘船，事情不會了結得那麼快，我只是代替英雄保管禮物罷了。說起這件事，我一直有些遺憾——哈哈，當然不是說我沒有收到禮物……那位遊人勇敢又智慧，將跟隨他的民眾們藏進沙地，孤身一人和沙盜周旋了數日之久，細究起來，我也應該為他留一份英雄的禮物才是。\n\n認領物二：\n一本紙質名冊。經本人同意後檢查內容，確認為一系列人名與地址，大部分與文明環帶各地身分管理系統中的資料相符。\n當事人認領紀錄：\n嗯，都是一些孩子，一些大有可為的孩子，我在處理一起裂隙災害時認識了他們。當時一群災民已經被完全隔絕在山裡，借調飛行器，開闢通路又耗費了我不少時間，我沒抱太大希望。但我最終看到的是一個多達百人的隊伍——十來個孩子把大家聚集在一起，四處轉移，順路還搭救了不少受傷的成年人。他們甚至還做了一個簡易的能量預警裝置，幫助我鎖定了裂隙的位置。\n分別的時候，那些孩子已經重新開始上學了，我記下了他們的資料，想著如果有朝一日他們願意來宏科院，我很榮幸做個引薦人。讓給終末地？哈哈，那到時候就要看他們自己的選擇了。\n\n認領物三：\n一台痕跡斑駁的相機。\n當事人認領紀錄：\n它屬於一位老記者，而現在之所以在我手上……約定，只是一個約定。\n我們在一次天使剿滅行動中偶然相識，我有一些戰場急救的經驗，卻算不上稱職的醫生，護送她穿越一大片沼澤後，她的雙腳已經保不住了……她把隨身帶著的這台相機送給了我，我時常會寄一些照片給她。如她所說，沒人知道哪些好地方會出現超域裂隙，或是發生別的意外，我常年東奔西走，能順路替她看看世界，是一種緣分。我沒有拒絕的理由。\n\n在離開那個名叫「畔安」的村子後，我確實遊歷了很多地方，也認識了很多人……我很慶幸自己曾為他們拔劍，又留下了許多紀念。天地偌大，緣分難得，如此而已。\n名字簽好了，不耽誤其他幹員來認領失物了，再見。",
+    "zh-CN": "【Delta型机器人运输事故后，明河干员的认领清单】\n认领物一：\n驰兽木雕，表面涂蜡，工艺精美。\n当事人认领记录：\n……一位众生长地的游人送的小礼物。他当时被一群沙盗盯上，我偶然经过，替他解了围。分别时他便送了我这个，说是留给英雄的纪念。\n为什么雕的怒骊？如果没有它大显神威，在沙海里撵过一艘又一艘船，事情不会了结得那么快，我只是代替英雄保管礼物罢了。说起这件事，我一直有些遗憾——哈哈，当然不是说我没有收到礼物……那位游人勇敢又智慧，将跟随他的民众们藏进沙地，孤身一人和沙盗周旋了数日之久，细究起来，我也应该给他留一份英雄的礼物才是。\n\n认领物二：\n一本纸质名册。经本人同意后检查内容，确认为一系列人名与地址，大部分与文明环带各地身份管理系统中的资料匹配。\n当事人认领记录：\n嗯，都是一些孩子，一些大有可为的孩子，我在处理一起裂隙灾害时认识了他们。当时一群灾民已经被完全隔绝在山里，借调飞行器，开辟通路又耗去我不少时间，我没抱太大希望。可我最终看到的是一个多达百人的队伍——十来个孩子把大家聚集在一起，四处转移，顺路还搭救了不少受伤的成年人。他们甚至还做了一个简易的能量预警装置，帮助我锁定了裂隙的位置。\n分别的时候，那些孩子已经重新开始上学了，我记下了他们的信息，想着如果有朝一日他们愿意来宏科院，我很荣幸做个引荐人。让给终末地？哈哈，那到时候就要看他们自己的选择了。\n\n认领物三：\n一台痕迹斑驳的相机。\n当事人认领记录：\n它属于一位老记者，而现在之所以在我手上……约定，只是一个约定。\n我们在一次天使剿灭行动中偶然相识，我有一些战场急救的经验，却算不上称职的医生，护送她穿越一大片沼泽后，她的双脚已经没法保住……她把随身带着的这台相机送给了我，我时常会寄些相片给她。如她所说，没人知道哪些好地方会出现超域裂隙，或是发生别的意外，我常年东奔西走，能顺道替她看看世界，是一种缘分。我没有拒绝的理由。\n\n在离开那个名叫“畔安”的村子后，我确实游历了很多地方，也认识了很多人……我很庆幸自己曾为他们拔剑，又留下了这许多纪念。天地偌大，缘分难得，如此而已。\n字签完了，不耽误其他干员来认领失物了，再见。",
+    "ja": "【Deltaロボット輸送事故後　ミンホの引き取り品リスト】\n引き取り品その一：\n馳獣の木彫り。表面には蝋が塗られており、精巧な作り。\n本人による申告：\n……衆生長地の吟遊者からもらった、ちょっとした贈り物だ。砂盗の一団に目をつけられていたときに、たまたま通りかかった俺が少し力を貸しただけだが、別れ際に「英雄への記念の品だ」と言って渡してくれた。\nどうして怒驪の木彫りか？怒驪が大暴れして、砂海で船という船を追い回してくれなかったら、あれほど早く片付くことはなかっただろう。だから俺は英雄に代わって、この贈り物を預かっているだけだ。ただ、この話には少し心残りがある――はは、もちろん、俺も贈り物が欲しかったわけではない……あの吟遊者は勇敢で、知恵もあった。行動を共にしていた人々を砂地に隠し、たった1人で数日の間、砂盗を相手に立ち回っていたんだ。そう思えば、俺のほうこそ彼に「英雄への記念の品」を渡すべきだったと。\n\n引き取り品その二：\n紙の名簿1冊。本人の同意を得て内容を確認したところ、多数の氏名と住所が記されており、その大半は文明地帯各地の身分管理システムに登録された情報と一致した。\n本人による申告：\nああ、皆将来有望な子供たちだ。裂け目による災害の対処をしているときに出会った。あのときは被災者たちが山に取り残されてしまってね。飛行ユニットを手配し、道を確保するだけでも随分と時間を取られてしまったんだ。正直、あまり期待はしていなかった……しかし、辿り着いた先で目にしたのは、100人もの一団だった。10人ほどの子供が皆をまとめ、安全な場所を求めて移動しながら、道中で出会った大人の負傷者まで助けていた。それどころか、簡易的なエネルギー探知装置まで作っていたんだ。そのおかげで、こちらも裂け目の位置を絞り込むことができた。\n別れる頃には子供たちも皆、学校に通えるようになっていた。それで、もしいつか宏科院に来てみたいと思う日が来たならば、俺が紹介役になれたら光栄だと思ってね。連絡先を控えておいたんだ。エンドフィールドに譲れ？はは、それはいずれ、本人たちが決めることだろう。\n\n引き取り品その三：\n使い込まれたカメラ1台。\n本人による申告：\nこれは、ある年老いた記者のものでね。なぜ、俺が持っているかといえば……それは、約束のためだ。\n彼女とは、アンゲロスの討伐任務中に偶然知り合った。俺には戦場での応急処置の心得が多少あるとはいえ、医者とは到底言えない。彼女を守りながら広い沼地を抜けたとき、彼女の両足はもうどうにもならない状態だった……そのとき、彼女は持っていたカメラを俺に渡した。それ以来、時折撮った写真を彼女に送っている。彼女の言う通り、どんな場所に超域の裂け目が現れるか、あるいはどんな事故が起こるかなど、誰にもわからない。俺は普段から方々走り回っている。だから、そのついでと言っては何だが、彼女の代わりに世界を見て回れる。これもひとつの縁なのだろう。だから、断る理由などなかった。\n\n……「畔安」を離れてから、俺は様々な土地を巡り、多くの人と出会った。彼らのために剣を抜けたこと、そしてこうして多くの思い出の品が残ったことを、本当に幸運だと思っているんだ。広大な天地の中で、縁とは得難いもの――それだけのことだ。\nさて、署名も済んだ。他のオペレーターが遺失物を引き取りに来る邪魔をしてはいけないな。では、失礼する。",
+    "ko": "[델타 로봇 운송 사고 이후, 오퍼레이터 명하의 분실물 인수 목록]\n인수 물품 1:\n갤럽비스트 목각 장식품, 표면에 왁스 처리가 되어 있으며, 정교하게 제작됨.\n당사자 수령 기록:\n...만물의 대지를 여행하던 방랑자가 준 작은 선물입니다. 당시 그분은 사막 도적들에게 쫓기고 있었는데, 마침 제가 우연히 지나가다 도와드렸습니다. 헤어질 때 이걸 건네며 영웅에게 남기는 기념품이라 하더군요.\n왜 하필 노여를 조각했냐는 질문에는, 노여가 신출귀몰한 실력으로 모래바다에서 수많은 배를 추격하지 않았다면, 그 일이 그렇게 빨리 끝나지는 않았을 겁니다. 전 그저 그 영웅을 대신해 이 선물을 보관하고 있을 뿐입니다. 이 이야기를 하다 보면 아직도 조금 아쉬운 마음이 듭니다... 하하, 선물을 받지 못해서 하는 말은 아닙니다. 그 방랑자는 용감하고 지혜로운 사람이었습니다. 자신을 따르던 사람들을 모래 속에 숨겨 두고, 홀로 며칠이나 사막 도적들과 맞서 시간을 벌었죠. 곰곰이 생각해 보면, 오히려 저 역시 그분께 영웅에게 걸맞은 선물 하나쯤은 남겨야 했습니다.\n\n인수 물품 2:\n종이 명부 한 권. 본인 동의를 얻어 내용을 확인한 결과, 일련의 이름과 주소로 이루어져 있으며 대부분 문명 밴드 각지의 신원 관리 시스템 자료와 일치함이 확인됨.\n당사자 수령 기록:\n음... 모두 아이들입니다. 앞날이 창창한 아이들이죠. 균열 재해를 수습하던 중 그 아이들을 만났습니다. 당시 피난민들은 산속에 완전히 고립되어 있었고, 비행선을 지원받아 진입로를 확보하는 데만도 적지 않은 시간이 걸렸습니다. 솔직히 큰 기대는 하지 않았습니다. 하지만 제가 마주한 것은 백 명이 넘는 피난 행렬이었습니다... 열 명 남짓한 아이들이 사람들을 한데 모아 계속 안전한 곳으로 이동시키는 한편, 길에서 다친 어른들까지 구조하고 있었죠. 심지어는 간이 에너지 경보 장치까지 만들어서 덕분에 균열의 위치까지 특정할 수 있었습니다.\n헤어질 무렵에는 모두 다시 학교에 다니고 있었습니다. 저는 그 아이들의 이름을 적어 두었습니다. 언젠가 그 아이들이 홍산 과학원에 오고 싶어 한다면, 기꺼이 추천인이 되어 주고 싶었거든요. 엔드필드로 오게 할 생각이냐고요? 하하, 그건 결국 그 아이들이 스스로 선택할 일입니다.\n\n인수 물품 3:\n세월의 흔적이 고스란히 남은 카메라 한 대.\n당사자 수령 기록:\n이 카메라는 한 베테랑 기자의 물건입니다. 지금 제 손에 있는 이유는... 약속 때문입니다. 그저 하나의 약속이죠.\n저희는 아겔로스 소탕 작전에서 우연히 만났습니다. 저는 전장에서 응급처치해 본 경험은 있었지만, 제대로 된 의사는 아니었습니다. 드넓은 늪지를 지나 그분을 끝까지 호송했지만, 결국 두 다리는 지켜 드릴 수 없었습니다... 그분은 늘 가지고 다니던 이 카메라를 제게 맡겼고, 저는 지금도 가끔 사진을 찍어 보내 드립니다. 그분의 말처럼, 어디에 초자연 균열이 나타날지, 또 어떤 사고가 벌어질지는 아무도 모릅니다. 저는 늘 여러 곳을 떠돌아다니니, 그분 대신 세상을 바라봐 드리는 것도 하나의 인연이라 생각했습니다. 거절할 이유가 없었죠.\n\n'반안'이라는 마을을 떠난 뒤, 저는 정말 많은 곳을 떠돌았고 많은 사람을 만났습니다... 그들을 위해 검을 들었던 것도, 그리고 이렇게 많은 기념품을 간직하게 된 것도 늘 다행으로 생각합니다. 세상은 넓고, 인연은 귀한 법. 그뿐입니다.\n서명은 다 했으니, 다른 오퍼레이터들도 분실물을 찾아갈 수 있도록 이만 비켜 드리겠습니다. 그럼, 또 뵙겠습니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "Following Lil' Dodge's invitation, Operator Argent Flow would occasionally visit Dijiang as a special training instructor. Everyone knows that Endfield operators have a vast range of combat techniques and wield all sorts of Originium Arts, requiring the provision of various training methods. Nevertheless, the martial skills demonstrated by Operator Argent Flow proved the immense reputation of the Imperial Guards. In close-quarter battles, ranged Arts skirmishes, or even mounted fights, he always identified his opponent's tricks within a few moves, adjusted his tactics just as quickly, and restrained his counters to extend the sparring. In every battle, he held the initiative and dictated the flow, until the opponent was defeated from sheer exhaustion. \nOperators with extensive experience using the Dijiang anti-gravity training chamber tried to gain an edge on Argent Flow by challenging him in this special facility. They switched on the anti-gravity feature and hoped to see Argent Flow make a fool of himself. But the Imperial Guard gently tapped the ground and flew like a bolt of lightning that blinded the operators' vision. The operators braced for an attack that never came. With a gentle tap, a flip, and a leap, Argent Flow got past his opponents and landed steadily on the ceiling of the anti-gravity chamber. \nWe are all astounded by Operator Argent Flow's incredible adaptability and focus, but his answers may have triggered quite a few people when they asked him for guidance. The Operator simply told them to adapt and change between breaths as it was an essential part of Imperial Guards training. He also explained how he tended to be more creative in fighting, interspersed his moves with moments of stillness, and preferred riding on the opponent's momentum. While the operators surrounded Argent Flow for advice and tips, be it out of admiration or jest, none of them seemed to realize a crucial fact. Argent Flow neither mentioned the brutal training he endured nor the harsh, unforgiving codes that accompanied his family's secret combat techniques. \nThe Ye family had long distinguished themselves on the battlefields of Yan and won numerous victories. Nevertheless, Argent Flow was a prodigy even when rated alongside esteemed names of past generations. No one in his extended clan moved like a comet with the speed of blazing fire. After his unexpected encounter with his mount, Nuli, the mounted warrior became a thunderbolt of destruction that could not be approached, fought against, nor evaded. However, this also meant that Argent Flow had to train harder and was often given far more dangerous tasks. \nOperator Argent Flow summarized it succinctly: \"The tighter one grips the thunderbolt, the clearer their mind must be.\" \n\"But being this good is definitely not easy! They must have been super hard on you!\" \n\"The bitterness of training is far sweeter than the grievous gall of failure that none of us could afford.\"",
+    "zh-TW": "應小道奇教官之邀，明河幹員偶爾會前往帝江號協助特訓。眾所周知，終末地幹員的作戰方式與源石技藝各異，訓練方式也變化多端。然而，明河幹員展現出的武藝卻無愧於禁軍之名：無論近戰交鋒、遠程法術對抗，還是騎術比試，他總能在數招內洞悉對手特點，迅速調整策略，並在隨後的長時間對練中始終點到為止，游刃有餘地掌控節奏，直至對手因精神不支而落敗。\n有一次，為了在與明河幹員的特訓中占到先機，一些在帝江號反重力艙室訓練許久的幹員，將特訓地點搬到了那裡。上一秒，反重力開關啟動，與明河對抗的幹員還在等著看他出洋相。下一秒，一道閃光輕點地面，禁軍便帶著千鈞之勢占據了他的視線。然而，幹員預想的攻擊並沒有到來，一拍，一翻，一躍，他便掠過眼前的目標，穩穩落在了反重力艙室的天花板上。\n我們都驚訝於明河幹員那強大的適應力和專注力，但向其討教時，他的解釋可能會讓人感到憤憤：在呼吸間因地制宜，幾乎算得上是禁軍的必修課，比起同僚們，他只是心思更加活絡，更懂得動靜結合，借力打力罷了。然而，當幹員們圍著他或仰慕或譏諷地要求他多指點幾招時，他們似乎都忘記了一件事——明河幹員從未向他們提及自己經歷過的殘酷訓練，以及傳承家族秘法時所伴隨的嚴苛規矩。\n夜家早年在炎國疆場上嶄露頭角，破關無數，但歷代傳人中，沒有誰能像他這樣奔若流星、疾如飛火，意外得到怒驪這樣的坐騎之後，一人一獸協力並進，更是一道無法靠近、無從抗衡、無處躲藏的毀滅雷霆。這也同樣意味著，他要付出更多的汗水，面對比以往多得多的風險。\n明河幹員給了一句很簡單的總結：「越是手握雷霆，越是要心思清明。」\n「要達到這種境界，可不是一件容易事啊！你吃了不少苦吧？」\n「相比起承擔那些無法承擔的結果，吃苦反而來得更容易些。」",
+    "zh-CN": "应小道奇教官之邀，明河干员偶尔会前往帝江号协助特训。众所周知，终末地干员的作战方式与源石技艺各异，训练方式也变化多端。然而，明河干员展现出的武艺却无愧于禁军之名：无论近战交锋、远程法术对抗，还是骑术比试，他总能在数招内洞悉对手特点，迅速调整策略，并在随后的长时间对练中始终点到为止，游刃有余地掌控节奏，直至对手因精神不支而落败。\n有一次，为了在与明河干员的特训中占到先机，一些在帝江号反重力舱室训练许久的干员，将特训地点搬到了那里。上一秒，反重力开关启动，与明河对抗的干员还在等着看他的洋相。下一秒，一道闪光轻点地面，禁军便带着千钧之势占据了他的视线。然而，干员预想的攻击并没有到来，一拍，一翻，一跃，他便掠过眼前的目标，稳稳落在了反重力舱室的天花板上。\n我们都惊讶于明河干员那强大的适应力和专注力，可向其讨教时，他的解释可能会让人感到愤愤：在呼吸间因地制宜，几乎算得上是禁军的必修课，比起同僚们，他只是心思更加活络，更懂得动静结合，借力打力罢了。然而，当干员们围着他或仰慕或讥诮地要求他多指点几招时，他们似乎都忘记了一件事——明河干员从未向他们提及自己经历过的残酷训练，以及传承家族秘法时所伴随的严苛规矩。\n夜家早年在炎国疆场上崭露头角，破关无数，但历代传人中，没有谁能像他这样奔若流星、疾如飞火，意外得到怒骊这样的坐骑之后，一人一兽协力并进，更是一道无法靠近、无从抗衡、无处躲藏的毁灭雷霆。可这同样意味着，他要付出更多的汗水，直面比以往多得多的风险。\n明河干员给了一句很简单的总结：“越是手握雷霆，越是要心思清明。”\n“要达到这种境界，可不是一件容易事啊！你吃了不少苦吧？”\n“相比起承担那些无法承担的结果，吃苦反而来得更容易些。”",
+    "ja": "ダッジ教官の要請を受け、ミンホは時折、帝江号を訪れて特別訓練に協力している。周知の通り、エンドフィールドのオペレーターは戦闘スタイルもアーツも千差万別で、訓練の種類も多岐にわたっている。しかしミンホの武芸は、まさしく禁軍の名に恥じないものであった。近接戦、遠距離からのアーツによる戦い、あるいは騎乗での勝負――どのような相手でも、数回技を交えればその特徴を見抜き、即座に戦術を調整する。その後どれほど長く打ち合おうとも、決して相手を傷つけることなく、余裕をもって主導権を握り続ける。そして最後には、相手の集中力が尽きて音を上げるのが常だった。\nあるとき、少しでも先手を取ろうとしたオペレーターが、自分たちが長らく訓練を積んできた帝江号の反重力船室へと訓練場所を移したことがあった。反重力装置が起動すると、対戦相手のオペレーターはミンホが慌てるのを今か今かと待ち構えた。ところが次の瞬間、閃光が床をかすめたかと思うと、凄まじい勢いで迫る禁軍の姿が視界いっぱいに飛び込んできたのだ。しかし、予想していた一撃は来なかった。床を蹴り、身を翻し、跳躍する。ミンホはそのまま眼前の相手を飛び越え、反重力船室の天井に足をつくと、ぴたりと止まった。\n誰もが彼の並外れた適応力と集中力に驚かされた。しかし、その秘訣を尋ねたときに返ってきた答えは、人によっては少々癪に障るものだったかもしれない。「一呼吸のうちに場の状況を察知して動きを変えることは、禁軍であれば必ず学ぶことだ。俺は少し頭が柔らかくてね。動と静を使い分け、相手の力を利用するのが多少は得意だったんだ。」そう語る彼を囲み、感心する者、茶化す者、それぞれがもっと技を教えてくれとせがんでいた。だが、彼らはひとつ忘れていたことがあった――ミンホは、自らがくぐり抜けてきた過酷な鍛錬についても、一族の秘伝を受け継ぐために課された厳しい掟についても、一度として語ったことはない。\n夜家は古くから炎国の戦場で名を上げ、幾多の関門を打ち破ってきた。しかし、歴代の継承者を見渡しても、彼のように流星のごとく駆け、炎のごとき疾さを持つ者はいなかった。さらに怒驪と思いがけず行動を共にするようになり、2つの力が合わされば、近づくことも、抗うことも、逃れることさえかなわない――まさしく破滅をもたらす雷霆そのものとなった。だがそれは同時に、彼が誰より多くの汗を流し、これまで以上の危険と向き合わなければならないということでもある。\nミンホはそれを簡潔な言葉にまとめた。「強い雷霆を手にしたならば、心は澄んでいなければならない。」\n「そこまでの境地に至るのは、そう簡単なことじゃないだろう。ずいぶん苦労したんじゃないか？」\n「背負いきれない結果を背負うことに比べたなら、苦労するほうがずっと楽だろう。」",
+    "ko": "오퍼레이터 명하는 도치 교관의 요청을 받아 가끔 제강호를 찾아 특훈을 지원한다. 잘 알려져 있듯 엔드필드 오퍼레이터들은 각기 다른 전투 방식과 오리지늄 아츠를 구사하며, 그에 따라 훈련 방식도 천차만별이다. 그러나 오퍼레이터 명하가 보여 주는 무예는 금위군이라는 이름에 조금도 부족함이 없다. 근거리 대결, 원거리 아츠 대결, 기마술 대련을 가리지 않고 불과 몇 수만에 상대의 특징을 꿰뚫어 본 뒤 빠르게 전략을 조정한다. 이후 오랜 시간 대련이 이어지는 동안에도 줄곧 적정한 선에서 힘을 조절하며 여유롭게 흐름을 장악하고, 끝내 상대가 정신적으로 버티지 못해 패배할 때까지 그 기세를 유지한다.\n한 번은 오퍼레이터 명하와의 특훈에서 조금이라도 유리한 고지를 차지하려고, 제강호의 반중력 선실에서 오랫동안 훈련해 온 몇몇 오퍼레이터가 특훈 장소를 그곳으로 옮긴 적이 있었다. 반중력 스위치가 켜진 직후까지만 해도 명하와 대련하던 오퍼레이터는 그가 당황하는 모습을 기대하고 있었다. 그러나 다음 순간, 한 줄기 섬광이 바닥을 가볍게 스치더니 금위군의 천근에 기세를 몰아 순식간에 그의 시야를 가득 채웠다. 하지만 예상했던 공격은 이어지지 않았다. 한 번 박차고, 한 번 몸을 뒤집고, 한 번 도약하는 사이, 그는 눈앞의 목표를 스쳐 나가 반중력 선실의 천장에 사뿐히 내려앉아 있었다.\n모두 오퍼레이터 명하의 뛰어난 적응력과 집중력에 감탄했지만, 그에게 비결을 묻자 돌아온 설명은 다소 얄미울 정도로 담담했다. 숨 쉬는 사이사이에도 상황에 맞게 대응하는 것은 금위군이라면 거의 필수 과목이나 다름없었다. 자신은 그저 다른 동료들보다 머리 회전이 조금 빠르고, 동적인 요소와 정적인 요소를 더 잘 조화시키며, 상대의 힘을 역이용하는 법을 좀 더 이해하고 있을 뿐이라는 것이었다. 그러나 오퍼레이터들이 존경과 짓궂은 농담을 섞어 그를 둘러싸고 몇 수 더 가르쳐 달라고 할 때면, 다들 한 가지 사실을 잊곤 했다. 오퍼레이터 명하는 자신이 겪어왔던 혹독한 훈련이나 가문의 비법을 전수받으며 따라야 했던 엄격한 규율에 대해서는 단 한 번도 이야기한 적 없었다는 사실을 말이다.\n야명하의 가문은 일찍이 염국의 전장에서 두각을 나타내며 수많은 관문을 돌파했지만, 역대 계승자 가운데 그처럼 유성같이 내달리고 불꽃처럼 빠른 이는 없었다. 우연히 노여와 같은 탈것을 얻게 된 뒤로는 누구도 다가설 수도, 맞설 수도 피할 곳조차 없는 파멸의 벼락이 되었다. 하지만 이는 동시에, 그가 더 땀을 많이 흘리고 그 어느 때보다 훨씬 더 큰 위험과 정면으로 맞서야 한다는 뜻이기도 했다.\n오퍼레이터 명하는 이를 한마디로 정리했다. \"손에 쥔 벼락이 강할수록, 정신은 더욱 맑아야 합니다.\"\n\"그런 경지에 이르는 건 결코 쉬운 일은 아니겠군요! 고생 많이 하셨겠어요?\"\n\"감당할 수 없는 결과를 떠안는 것에 비하면, 고생하는 편이 오히려 더 쉽습니다.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "My first mentor was my instructor of swordmancy. \nI was just a young boy. My father was busy with official duties and invited him from Tanjian Hall to help with my fundamentals. But I learned too quickly, and he officially concluded the lessons and left in a few months. \nBefore we parted, he told me that I had only taken a single season to learn everything he had spent a lifetime mastering. He confided how he had many things to regret about in life. If I could surpass him, I would face the same challenges without grief. And should I continue to hone my martial skills, I would have other mentors and instructors. When that day comes, he wanted me to remember their achievements as well as their failures, for I might be the one who could avenge their grief. \nThat was when I realized that I must seek my purpose. The Aggeloi destroyed the home of my swordmancy instructor. A lone blade could not protect everyone. The times were dark, and this was not an isolated tale. With skill comes responsibility and duty. \n\nMy second mentor was my partner, Nuli. \nI was a lad of fourteen and encountered her in the wilderness. Both of us wanted to hunt down the same prey, but the chase quickly turned into a competition. We fought for a day and a night, tearing down almost half the trees on the hill slope. I was too stubborn to lose, and so was she. \nNuli and I collapsed by the river at almost the same time. She, ever the stiff-necked beast, got back to her hooves, staggered towards me, and tried to ram me with her horn ... before she ultimately passed out. It was her victory. She wanted to win and fulfilled her wish to the detriment of her own safety. The bearer of duty and authority must be armed with such mental fortitude. \n\nYou definitely know my third mentor. She is Tianshi Tan. \nI actually met her soon after I joined the army. She swaggered into our camp during our R&R. I was at first confused and thought someone accidentally let a brat into our camp. But when the \"brat\" kicked the high-ranking officers away when they tried to stop her, I suddenly realized that she was Old Tianshi Tan, the one-girl army who stood watch over the Polar North. \nTianshi Tan kept asking me all sorts of questions during that encounter. She probably kept HAS off my back during the several occasions when I acted out of recklessness... I later conversed with Tianshi Tan about our first encounter, and she told me that she saw, at first glance, that I was burning with impatience. She described me as fine steel that could not be forged into a proper blade. I was the problem, and I needed proper grinding and polishing. The only thing she could do was to get me into the battlefield where I might find my answers. \n\n\"Enough! Sheesh! It was a simple question, but you kept rambling on and on and on. How many mentors did you have anyway?\" \n\"Quite a few, Lady Si. A youth from Pan'an Village taught me how to raise burdenbeasts. A vendor of Luoyi gave me lessons on improving my incense mix. An Aldertone in the wildlands taught me how to sing. An Asphalt Roundabout trucker taught me to brew sweet kohl with bitter fruits... From a group of three, one can most certainly find a mentor.\" \n\"Hmph. Trying to act all humble and nice again.\" \n\"Maybe, but blunted foolishness is closer to the truth. I thought too much during my youth. Too many years had to pass before I came to terms with how little I know, and how limited my experience was.\" \n\"I asked you about mentors, but you didn't even mention the Endministrator!\" \n\"The Endministrator ... is more than just a 'mentor' to me...\" \n\"...\"",
+    "zh-TW": "我的第一位老師，是我的劍術教練。\n當時我年紀尚小，家父公務繁忙，便從談劍堂請來他替我打基礎。可惜我學得太快，他沒教我幾個月就告辭了。\n臨別之前，他跟我說，我三個月學完了他的一輩子，他不嫉妒。他一生中有許多憾事，如果我能比他強，應該不會重蹈覆轍。如果我將來繼續磨練武藝，自然會向更多人討教，到那時，他希望我不光記住人們的成果，也要看到他們的遺憾，因為他們沒有做到的，也許我能做到。\n那是我第一次意識到自己似乎需要做點什麼。他的家鄉被天使毀了，他一人一劍實在保不住所有人。時代如此，他的故事當然不是孤例，正因如此，有能之人才應該承擔更多責任。\n\n第二位老師，是我的搭檔怒驪。\n我十四歲那年，在一處荒山野林遇到了牠。最初，我們只是盯上了同一隻獵物，結果追到後來，我們成了彼此的對手。我們纏鬥了一天一夜，幾乎剷平了半座山的樹，或許只是因為我不服氣，而牠也一樣。\n怒驪和我幾乎同時倒在河邊，但牠最後硬是重新撐起身子，踉踉蹌蹌地撞向我……直到用角狠狠頂了我一下，才徹底昏了過去。是怒驪贏了，牠貫徹自己求勝的意志，甚至超越了自己的性命，若要身負大任，必須也有這般覺悟。\n\n至於第三位老師，您肯定認識……談天師。\n其實我從軍沒多久就見過她。某一天，她在我們休整時大搖大擺走過來，我還在想怎麼會有孩子誤闖軍營，直到幾位大人物湊上前來，被她一腳踹開，我才想起來她就是那位常年鎮守北極，一人成軍的老天師。\n那次見面，談天師只是東拉西扯地問了我一些問題。不過，那之後我幾次孤身犯險，宏科院始終沒有追究過什麼，多半是有她打點……後來我和談天師聊起初見種種，她說第一面便已看透我心中焦火，雖然是塊好鋼，卻還鍛不出好劍。問題出在人身上，只能由人自己磨礪乾淨，她唯一能做的，就是給我上戰場尋找答案的機會。\n\n「停停停，我只是隨口一問，你怎麼能講這麼久？你到底有多少個老師？」\n「祀小姐，還真不少。畔安村的少年教過我養馱獸，洛驛的小販教過我調整香薰的配方，荒原上的師者教過我唱歌，艾什柏環島的司機教過我用苦味的水果釀甜酒……三人行，必有我師嘛。」\n「哼，你倒是謙虛。」\n「與其說是謙虛，不如說是愚鈍。一開始我想得太多，以至於太遲才知道，這世間我真正瞭解過、體會過的事情如此之少。」\n「不過，說起老師，你居然不提管理員？」\n「管理員於我，自然不只是『老師』而已……」\n「……」",
+    "zh-CN": "我的第一位老师，是我的剑术教练。\n当时我年纪尚小，家父公务繁忙，便从谈剑堂请来他替我打基础。可惜我学得太快，他没教我几个月就告辞了。\n临别之前，他跟我说，我三个月学完了他的一辈子，他不嫉妒。他一生中有许多憾事，如果我能比他强，应该不会重蹈覆辙。如果我将来继续磨练武艺，自然会向更多人讨教，到那时，他希望我不光记住人们的成果，也要看到他们的遗憾，因为他们没能做到的，也许我能做到。\n那是我第一次意识到自己似乎需要做些什么。他的家乡被天使毁了，他一人一剑实在保不住所有人。时代如此，他的故事当然不是孤例，正因如此，有能之人才应该承担更多责任。\n\n第二位老师，是我的搭档怒骊。\n我十四岁那年，在一处荒山野林遇见了它。最初，我们只是盯上了同一只猎物，结果追到后来，我们成了彼此的对手。我们缠斗了一天一夜，几乎铲平了半座山的树，或许只是因为我不服气，而它也一样。\n怒骊和我几乎同时倒在河边，但它最后硬是重新撑起身子，踉踉跄跄地撞向我……直到用角狠狠顶了我一下，才彻底昏了过去。是怒骊赢了，它贯彻自己求胜的意志，甚至超越了自己的性命，若要身负大任，必须也有这般觉悟。\n\n至于第三位老师，您肯定认识……谈天师。\n其实我从军没多久就见过她。某一天，她在我们休整时大摇大摆走过来，我还在想怎么会有孩子误闯军营，直到几位大人物凑上前来，被她一脚踹开，我才想起来她就是那位常年镇守北极，一人成军的老天师。\n那次见面，谈天师只是东拉西扯地问了我一些问题。不过，那之后我几次孤身犯险，宏科院始终没有追究过什么，多半是有她打点……后来我和谈天师聊起初见种种，她说第一面便已看透我心中焦火，虽然是块好钢，却还锻不出好剑。问题出在人身上，只能由人自己磨砺干净，她唯一能做的，就是给我上战场寻找答案的机会。\n\n“停停停，我只是随口一问，你怎么能讲这么久？你到底有多少个老师？”\n“祀小姐，还真不少。畔安村的少年教过我养驮兽，洛驿的小贩教过我调整香薰的配方，荒原上的师者教过我唱歌，艾什柏环岛的司机教过我用苦味的水果酿甜酒……三人行，必有我师嘛。”\n“哼，你倒是谦虚。”\n“与其说是谦虚，不如说是愚钝。一开始我想得太多，以至于太迟才知道，这世间我真正了解过、体会过的事情如此之少。”\n“不过，说起老师，你居然不提管理员？”\n“管理员于我，自然不止‘老师’而已……”\n“……”",
+    "ja": "俺の最初の師は、剣術の先生だった。\n当時はまだ幼く、父も公務で忙しかった。だから談剣堂から先生を招き、剣の基礎を教えてもらったんだ。だが、俺は覚えるのが早すぎたらしい。数か月も経たないうちに、辞めてしまった。\n別れ際、先生にこう言われた――自分が生涯をかけて身につけたものを、君はたった3カ月で学び終えてしまったが、それを妬んではいない。自分の人生には、多くの悔いが残った。しかし君がもし自分より強くなれば、同じ轍を踏まずに済む。この先も武を磨き続けるならば、より多くの人に教えを請うことになるだろう。そのときは、成し遂げたことだけでなく成し遂げられなかったことにも目を向けてほしい、彼らにできなかったことも君にならできるかもしれない、と。\n俺には何か、果たすべきことがあるのかもしれない……あのとき初めてそう思った。先生の故郷はアンゲロスに滅ぼされた。たった1人、剣1本では、すべての人を守ることなどできなかった。そういう時代だった……彼のような過去は、決して珍しいものではない。だからこそ、力を持つ者はそれだけ多くの責任を背負うべきなのだと思う。\n\n2人目の師は、俺の相棒――怒驪だ。\n14歳の頃、人気のない山奥であいつと出会った。たまたま、同じ獲物を狙っていただけだったんだが……獲物を追ううちに、いつしか互いを相手に戦っていたんだ。一昼夜駆け回った末に、林の木を半分近くなぎ倒した。俺は意地になっていたが、あいつも同じだった。\n俺と怒驪はほとんど同時に川辺へ倒れ込んだが、あいつは無理やりもう一度立ち上がった。よろめきながら俺に向かい……角で思いきり俺を突いて、ようやく気を失った。あれは、怒驪の勝ちだ。あいつは勝利への意志を最後まで持ち、自分の命すら惜しまなかった。大任を背負うというのなら、それほどの覚悟も必要なのだと教えられたんだ。\n\nそして3人目の師は――よく知っているだろうが……タン天師だ。\n実は、入隊して間もない頃に一度、彼女に会ったことがある。ある日、俺達が休息を取っているところに、彼女が堂々と歩いてきたんだ。子供が軍営に迷い込んだのかと思っていたら、何人かの上官が慌てて駆け寄ってきた。それを彼女が蹴飛ばして追い払っていたのを見て、ようやく思い出した。北極を長年守り続けている、一騎当千のあの老天師なのだと。\nそのときタン天師は、俺にいくつか質問をしただけだった。だがそれ以降、俺が何度か一人で危険を冒したときも、宏科院から咎められることはなかった。おそらく、彼女が裏で取り計らってくれたのだろう。後になって、初めて会ったときの話をタン天師としたことがある。彼女は、一目見ただけで俺の心に燻る焦りを見抜いていたらしい。良い鋼ではある。しかし、それだけで良い剣に鍛え上がるわけではない、と。問題が人にあるのなら、自分自身で磨くしかない。彼女にできるのはただ1つ――俺を戦場へ送り出し、自分で答えを探す機会を与えることだけだったらしい。\n\n「ちょいと待て！わらわは興味本位で聞いただけだというのに……なぜそんなに長々と話せるのじゃ。いったい何人の師がおる？」\n「スー代理人、師はまだまだいる。畔安村の少年には駄獣の世話を教わり、洛駅の商人には香の調合を教わった。荒野の詩教者には歌を、アスファルトロータリーの運転手からは苦い果実から甘い酒を造る方法を教わった……『三人行えば必ず我が師あり』と言うだろう？」\n「ふん、ずいぶんと謙虚じゃのう。」\n「謙虚というよりは、物分かりが悪いんだ。昔は考えすぎることも多く、気づくのも随分と遅くなってしまった。この世には、俺が本当に知っていることも、身をもって経験したことも、これほどまでに少ないのだと。」\n「だがのう……師の話に、なぜ管理人を挙げぬのだ？」\n「管理人は俺にとって、『師』というだけの存在ではない……」\n「……」",
+    "ko": "저의 첫 번째 스승은 검술 교관이었습니다.\n당시 저는 아직 어렸고, 아버지께서 공무로 바쁘셔서 담검당에서 교관을 모셔 와 제 기초를 다지게 하셨습니다. 아쉽게도 제가 너무 빨리 배운 탓에, 그분은 몇 달 가르치지도 못하고 떠나셨습니다.\n떠나시기 전, 그분은 제가 석 달 만에 자신이 평생 익힌 것을 모두 배워버렸지만, 질투하지는 않는다고 말씀하셨습니다. 그분의 일생에는 여러 미련이 남아 있었고, 제가 그분보다 강해진다면 같은 잘못을 되풀이하지 않을 수도 있을 거라고 하셨죠. 앞으로도 계속 무예를 갈고닦는다면 자연히 더 많은 사람에게 가르침을 구하게 될 텐데, 그때는 그들이 이룬 성과뿐 아니라 이루지 못해 남긴 미련 또한 눈여겨보길 바란다고 하셨습니다. 그들이 이루지 못한 것을, 어쩌면 제가 해낼 수도 있을 테니까요.\n그때 처음으로 제가 무언가 해야만 하는 사람일지도 모른다는 생각이 들었습니다. 그분의 고향은 아겔로스에게 파괴되었고, 검 한 자루를 든 한 사람의 힘으로는 도저히 모두를 지켜낼 수 없었습니다. 시대가 그러했으니, 그분의 이야기가 결코 특별한 경우일 리도 없었습니다. 그러므로 능력이 있는 사람일수록 더 많은 책임을 져야 한다고 생각했습니다.\n\n두 번째 스승은 제 파트너 노여였습니다.\n제가 열네 살이 되던 해, 어느 황량한 산속에서 그 녀석과 마주쳤습니다. 처음엔 그저 같은 사냥감을 노리고 있었을 뿐인데, 쫓다 보니 어느새 서로가 서로의 상대가 되어있었습니다. 그렇게 꼬박 하루 밤낮을 싸웠고, 그 통에 산 절반의 나무가 거의 다 쓰러질 지경이었습니다. 아마 그저 제가 승복하지 못했고, 그 녀석 역시 지기 싫어했기 때문이겠죠.\n노여와 저는 거의 동시에 강가에 쓰러졌지만, 그 녀석은 끝내 몸을 다시 일으켜 세우고는 비틀거리면서도 저를 향해 돌진해 왔습니다... 결국 뿔로 저를 세게 들이받고 나서야 완전히 정신을 잃었죠. 이긴 건 노여였습니다. 그 녀석은 이기겠다는 의지를 끝까지 관철했고, 심지어 자신의 목숨마저 뛰어넘었습니다. 큰 책임을 짊어지려면 그만한 각오도 필요하다는 것을 배웠습니다.\n\n세 번째 스승으로 말씀드리자면, 분명 잘 알고 계실 겁니다... 담 천사님입니다.\n사실 입대한 지 얼마 되지 않았을 때 그분을 뵌 적 있습니다. 어느 날 저희가 휴식을 취하고 있는데, 한 아이가 거침없이 군영 안으로 걸어들어왔고, 저는 어떻게 아이가 군영에 잘못 들어온 건가를 생각했죠. 그런데 몇몇 높으신 분들이 다가와서는 그분께 다가갔다가 발길질 한 번에 나가떨어지는 모습을 보고서야 떠올렸습니다. 그분이 바로 오랫동안 북극을 지키며 홀로 군대나 다름없다고 불리던 그 나이 든 천사님이라는 것을 말이죠.\n그때 담 천사님은 그저 이런저런 질문을 두서없이 던지셨을 뿐입니다. 하지만 그 뒤 제가 몇 차례나 홀로 위험을 무릅쓰고 나섰음에도 홍산 과학원에서 끝내 아무런 책임도 묻지 않았던 것을 보면, 아마 그분이 뒤에서 손을 써주셨기 때문일 겁니다... 훗날 담 천사님과 첫 만남에 관해 이야기했을 때, 그분 말씀으로는 처음 봤을 때부터 이미 제 마음속 조바심을 꿰뚫어 보셨다더군요. 좋은 강철이긴 했지만 아직 좋은 검으로 벼려질 상태는 아니었다고요. 문제는 사람에게 있는 법이라, 결국 사람 스스로 갈고닦아 없애야 하며, 자신이 해줄 수 있는 유일한 일은 그저 제가 전장에 나가 답을 찾을 기회를 주는 것뿐이었다고 하셨습니다.\n\n\"잠깐, 잠깐. 그냥 가볍게 물어본 건데 뭘 그렇게 장황하게 늘어놓는 거야? 대체 스승이 몇 분이나 있는 거지?\"\n\"사 님, 생각보다 제법 많습니다. 반안 마을의 소년에게는 버든비스트 기르는 법을 배웠고, 낙역의 상인에게 방향제 배합하는 법을 배웠습니다. 황야의 어느 '사자'가 노래를 가르쳐 주셨고, 아스팔트 라운드어바웃의 운전기사가 쓴 과일로 달콤한 술을 담그는 법도 가르쳐 주었죠... '세 사람이 길을 가면 그중에는 반드시 나의 스승이 있다'라고 하죠.\"\n\"흥, 겸손하기도 하네.\"\n\"겸손하다기보다는 우둔했던 겁니다. 처음엔 생각이 너무 많았던 탓에, 이 세상에서 제가 정말로 알고 직접 겪어본 일이 얼마나 적은지를 너무 늦게 깨달았습니다.\"\n\"그런데 스승 이야기를 하면서 관리자님은 왜 언급하지 않는 거지?\"\n\"관리자님은 제게 당연히 '스승' 그 이상의 존재이신 분이니까요...\"\n\"......\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0037_minghe_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "If we must move, just give the order.",
+    "zh-TW": "若要動身，發令便是。",
+    "zh-CN": "若要动身，发令便是。",
+    "ja": "出立するなら、一声掛けてくれ。",
+    "ko": "이제 출발하시는 겁니까? 명령만 내려주십시오."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "At your command.",
+    "zh-TW": "隨時聽您差遣。",
+    "zh-CN": "随时听您差遣。",
+    "ja": "この身をもって尽くそう。",
+    "ko": "언제든 준비됐습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Suited up and ready. There will be no holding back.",
+    "zh-TW": "執銳披堅，就不講點到為止了。",
+    "zh-CN": "执锐披坚，就不讲点到为止了。",
+    "ja": "武具を纏えば、手心など加えるはずもない。",
+    "ko": "이제 적당히 봐주는 건 없을 겁니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "A bright, cloudless day. Perfect for culling the foe.",
+    "zh-TW": "日明雲稀，正是討敵的好時候。",
+    "zh-CN": "日明云稀，正是讨敌的好时候。",
+    "ja": "一点の曇りもない蒼天――敵を屠るに、良い日和だ。",
+    "ko": "적을 섬멸하기 딱 좋은 날이군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "If this weapon talks, it'd never lose a debate.",
+    "zh-TW": "倘若兵刃會說話，這裡就有一位雄辯之才。",
+    "zh-CN": "倘若兵刃会说话，这里就有一位雄辩之才。",
+    "ja": "刃に口があったなら、どれほど雄弁に語っただろう。",
+    "ko": "무기가 말을 할 수 있다면... 이 녀석은 꽤 웅변가였겠군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "Good. It takes proper tools to do a proper job.",
+    "zh-TW": "很好，工欲善其事，必先利其器。",
+    "zh-CN": "很好，工欲善其事，必先利其器。",
+    "ja": "ああ。功を立てるにはまず道具から、だ。",
+    "ko": "좋은 결과를 내려면 먼저 도구부터 갖춰야겠죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Improvement is not only about gradual mastery, but also about mental enlightenment.",
+    "zh-TW": "精進實力，不僅在於日積月累，更在於念頭通達。",
+    "zh-CN": "精进实力，不仅在于日积月累，更在于念头通达。",
+    "ja": "日々精進、心構えもまた肝要なり。",
+    "ko": "실력을 갈고 닦는 것에 있어서, 꾸준히 노력하는 것보다도 더 중요한 것은 어떤 깨달음을 얻는 겁니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "An excellent learning session... To return the favor, let me record something for you. A sparring partner? I've already got you!",
+    "zh-TW": "真是獲益匪淺……作為回報，我也來錄一段吧？演武需要對手？不是還有您嗎。",
+    "zh-CN": "真是获益匪浅……作为回报，我也来录一段吧？演武需要对手？不是还有您吗。",
+    "ja": "良い経験をさせてもらった。礼として、俺も録画を残すか……演武の相手？勿論、管理人だ。",
+    "ko": "정말 도움이 많이 됐습니다. 제 실력도 한번 보여드리고 싶은데, 기록해 주시겠습니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Back in the day, many fellow frontline soldiers wished to be decorated by your hands... I am truly fortunate in this regard.",
+    "zh-TW": "當年在前線，多少人做夢都想由您親自授勛……我還真是幸運。",
+    "zh-CN": "当年在前线，多少人做梦都想由您亲自授勋……我还真是幸运。",
+    "ja": "あの頃、管理人から直々に勲章を授かりたいと望む者は大勢いた……俺は本当に、運が良いな。",
+    "ko": "전선에도 관리자님께 상을 받길 고대하는 전사들은 상당히 많았습니다. 전, 정말 운이 좋군요."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0037_minghe_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "Nuli, stand back. Stop nudging the Endmin... Hmm. Seems like she wants a commendation too. Perhaps you can give her a few more pats?",
+    "zh-TW": "怒驪，退後點，別這樣蹭管理員……牠好像也想要個表彰。要不，您再多摸牠幾下？",
+    "zh-CN": "怒骊，退后点，别这么蹭管理员……它好像也想要个表彰。要不，您再多摸它几下？",
+    "ja": "怒驪、下がれ。管理人に纏わりつくな……どうやら、怒驪も褒めてほしいらしい。すまないが、少し撫でてやってくれないか。",
+    "ko": "노여... 물러서, 관리자님께 너무 들러붙지 말고... 흠, 이 친구도 상을 받고 싶은 모양입니다. 괜찮으시다면 이 녀석을 한번 쓰다듬어 주시겠습니까?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0037_minghe_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "This is it? Oh, it's nothing. I just remembered when I first became a Captain of Pacified Skies. Tianshi Tan only treated me to a bowl of noodles. The two of you must have a lot in common.",
+    "zh-TW": "這就結束了？沒什麼，就是想起上任靖天都尉時，談天師也只請我吃了碗麵，你們一定很有共同語言。",
+    "zh-CN": "这就结束了？没什么，就是想起上任靖天都尉时，谈天师也只请我吃了碗面，你们一定很有共同语言。",
+    "ja": "これだけか？いや、そういえば……靖天都尉の座に就いたとき、タン天師はご馳走すると言って麺を……そうだな、2人は気が合うかもしれない。",
+    "ko": "벌써 끝난 겁니까? 아무것도 아닙니다. 전에 정천도위로 임명 됐을 때도 담 천사님이 사주신 국수 한 그릇을 먹는 게 전부였는데... 어쩌면 관리자님이랑 통하는 부분이 많으실지도 모르겠군요."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0037_minghe_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "The vastness of a tree depends on the strength of its root. Titles aside, I am happy that you have recognized the foundation I've built over the years... Don't worry. With blade sharp and discipline honed, I will be your greatest support.",
+    "zh-TW": "一棵樹能否枝長葉茂，全看根基扎得多深。比起得到虛名，我更高興您認可了我這幾年磨礪扎下的根……請放心，枝幹正碩，大可為您分憂。",
+    "zh-CN": "一棵树能否枝长叶茂，全看根基扎得多深。比起得到虚名，我更高兴您认可了我这几年磨砺扎下的根……请放心，枝干正硕，大可为您分忧。",
+    "ja": "枝葉をどこまで広げられるかは、根をどれほど深く張れるかにかかっている。虚名を得るより、鍛錬で根付いたものを認めてもらった喜びは一入……安心してほしい。木は堂々と育った。管理人の憂いも、必ず受け止めてみせよう。",
+    "ko": "나무가 잘 자라기 위해선, 깊게 잘 내린 뿌리가 필요한 법입니다. 저라는 나무를 관리자님께서 인정해 주신 것 같아, 참 기쁘군요. 걱정하지 마십시오. 관리자님의 걱정을 덜어드릴 수 있도록 노력하겠습니다."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0037_minghe_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Minghe of HAS, at your service. Captain of Pacified Skies? That title serves little purpose here, so let's just drop it and avoid confusion.",
+    "zh-TW": "宏科院，明河，前來為您助力。靖天都尉？那個名號在這裡派不上用場，還是不給大家添亂了。",
+    "zh-CN": "宏科院，明河，前来为您助力。靖天都尉？那个名号在这里派不上用场，还是不给大家添乱了。",
+    "ja": "イェ・ミンホ、宏科院より馳せ参じた。靖天都尉……その肩書きは無意味だ。皆の迷惑にならないよう、努めさせていただく。",
+    "ko": "홍산 과학원, 명하. 지원하러 왔습니다. 정천도위... 여기선 별 의미 없는 이름입니다. 여러분께 짐이 되지 않도록 노력하겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Please warm some wine for me. This battle won't take long.",
+    "zh-TW": "替我溫盞酒吧，這一仗不會太長。",
+    "zh-CN": "替我温盏酒吧，这一仗不会太长。",
+    "ja": "酒を温めておいてくれるか。冷めるほどの時間はかからない。",
+    "ko": "술이 식기 전에 오도록 하죠. 오래 걸리진 않을 겁니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Reporting in. Which army are we breaking today?",
+    "zh-TW": "人槍俱在。說吧，要破何陣？",
+    "zh-CN": "人枪俱在。说吧，要破何阵？",
+    "ja": "槍はこの身と共に在り。さて、どの陣を破ろう。",
+    "ko": "준비됐습니다. 자, 이제 시작해 보시죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Of course. I possess more skills than swordsmanship.",
+    "zh-TW": "交給我吧，舞槍弄劍之外，我也有幾門絕活。",
+    "zh-CN": "交给我吧，舞枪弄剑之外，我也有几门绝活。",
+    "ja": "任せてくれ。槍と剣以外に、特技は幾つもある。",
+    "ko": "문제없습니다. 무기를 다루는 것 말고도, 꽤 쓸 만한 재주를 갖고 있거든요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Endmin, any missions that require my presence?",
+    "zh-TW": "管理員，有需要我的任務嗎？",
+    "zh-CN": "管理员，有需要我的任务吗？",
+    "ja": "管理人、俺に頼みたい任務があるなら、遠慮をするな。",
+    "ko": "제가 필요한 임무가 있습니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Tired? Why don't we just walk and talk the hours away?",
+    "zh-TW": "累了嗎？一起偷閒去走走吧。",
+    "zh-CN": "累了吗？一起去偷闲走走吧。",
+    "ja": "疲れたなら、一緒にゆっくり歩くか？",
+    "ko": "지쳐 보이시는군요. 저랑 바람이라도 같이 쐬러 나가시겠습니까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0037_minghe_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "I knew you were coming from a mile away... And no, I didn't activate my enhanced hearing. It's just a height advantage.",
+    "zh-TW": "隔好遠就知道您來了……別誤會，這次沒用聽聲辨位的本事，我就是單純個子高點。",
+    "zh-CN": "隔老远就知道您来了……别误会，这次没使听声辨位的本事，我就是单纯个子高点。",
+    "ja": "管理人が来たと、すぐに……まいったな、勘違いだ。音で探ったのではない。僅かばかり、背が高いものでね。",
+    "ko": "사실 관리자님이 오고 계신다는 걸 알고 있었습니다. 아, 오해는 마십시오. 능력을 쓴 건 아니니까요. 그냥... 제 키가 좀 커서 그렇습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "I'm starting to regret not bringing Nuli aboard. The arrogant girl loves chasing the clouds and showing off her speed. A few days here should make her appreciate gravity a little more.",
+    "zh-TW": "我有點後悔沒申請帶怒驪上來瞧瞧了。那傢伙整天奔雲逐電，得意得很，不知道在這裡待上幾天，牠還能不能分得清高低上下。",
+    "zh-CN": "我有点后悔没申请带怒骊上来瞧瞧了。那家伙成天奔云逐电，得意得很，不知道在这里待上几天，它还能不能分得清高低上下。",
+    "ja": "怒驪も連れて来てやればよかったな。雲を蹴って、稲妻を追い回し、それでいて得意げにしているような奴だが……ここで数日も過ごせば、上下もわからなくなりそうだ。",
+    "ko": "노여도 같이 올 걸 그랬습니다. 구름을 밟고 달릴 수 있다며 항상 으스대던 녀석인데... 여기서 며칠 지내게 하면, 서열 정리가 확실히 될 것 같아서 말입니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0037_minghe_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Endmin, I wonder if you could show me the arsenal? I heard the Research Center is staffed by very skilled artisans who fashioned a collection of powerful weapons. Why? I guess it's only natural for a soldier like me to be interested in the tools of war. Hmm... why do you look so shocked?",
+    "zh-TW": "管理員，等哪天方便，帶我去武庫轉轉？早就耳聞研發中心巧匠雲集，收藏了不少神兵利器，總想長長見識。嗯？我一個軍人，對這塊上心不奇怪吧？您為什麼突然一副恍然大悟的樣子？",
+    "zh-CN": "管理员，等哪天方便，带我去武库转转？早就耳闻研发中心巧匠云集，收藏了不少神兵利器，总想长长见识。嗯？我一个军人，对这块上心不奇怪吧？您为什么突然一副恍然大悟的样子？",
+    "ja": "管理人、都合が合えば、武庫を案内してもらいたい。研究センターには巧者が集い、伝説の武器も数多く収められているのだろう？一度実物をこの目で見てみたい……俺は軍人だ。関心を持つのは当然だ……急に腑に落ちたような顔をして、どうした？",
+    "ko": "관리자님, 시간 괜찮으시면 무기고 구경을 좀 시켜주시겠습니까? 연구 개발 센터에 솜씨 좋은 장인분들이 많이 계신다고 들었습니다. 천하의 명검들을 직접 보고 싶어서 말이죠. 군인이라 그런지, 이런 곳에 관심이 많은 편입니다. 음? 왜 갑자기 뭘 깨달은 듯한 표정을 지으시는 거죠?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0037_minghe_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "See a chunk of wood by any chance? Well, I can't help but carve when things get a little slow. That piece is still quite flawed and ... I got a burst of inspiration and decided to make a likeness of you. It wouldn't be nice if you saw my clumsy work.",
+    "zh-TW": "您剛才有沒有看到一塊小木頭？我閒時停不住手，偶爾會雕點東西。只是那一件還有不少瑕疵，而且……湊巧心血來潮，照著您的樣子做的，萬一唐突獻醜就太不合適了。",
+    "zh-CN": "您刚才有没有看到一块小木头？我闲时停不住手，偶尔会雕点东西。只是那一件还有不少瑕疵，而且……凑巧心血来潮，照着您的样子做的，万一唐突献丑就太不合适了。",
+    "ja": "小さな木片を見なかったか？手が空いたとき、気まぐれに彫刻を……いや、粗だらけの上、偶々管理人を彫っていた……拙い出来のものを見せるのは、流石に気が引ける。",
+    "ko": "혹시... 작은 나무 조각 같은 걸 보신 적 있으십니까? 제가 가끔 나무를 조각하곤 하는데... 방금 말씀드린 나무 조각은 아직 완성도가 좀 떨어지는 데다... 관리자님의 모습을 본떠 만든 거라... 괜히 어설프게 만든 걸 관리자님께 보여드리는 게 실례처럼 느껴져서 말입니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0037_minghe_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "I am surprised to see many HAS colleagues here. Endfield does enjoy an extensive network. But a few \"well-informed individuals\" might be exaggerating my ... \"heroic past\". Is it possible for you to advise restraint? A single swing does not open a mountain or scatter the clouds. They're going a bit too far.",
+    "zh-TW": "這裡果然也能見到許多宏科院的同僚。終末地人脈廣博當然再好不過，就是幾位消息靈通人士口中，我的那些「英雄事蹟」……還請敦促他們消停些吧。一劍開山，撥雲見日這些話，吹得太誇張了。",
+    "zh-CN": "这里果然也能见到许多宏科院的同僚。终末地人脉广博当然再好不过，就是几位消息灵通人士口中，我的那些“英雄事迹”……还请敦促他们消停些吧。一剑开山，拨云见日这些话，吹得太夸张了。",
+    "ja": "やはり宏科院の同胞が多い。エンドフィールドの人脈には目を見張るものがある……しかし、困ったな。消息筋から伝わる「英雄譚」には些か尾ひれがついている。一振りで山を裂き、雲を払って日を招いたとは……実に大げさだ。",
+    "ko": "여기도 홍산 과학원의 동포분들이 많이 계시는군요. 다양한 분들을 많이 만날 수 있는 게 나쁜 건 아닙니다만... 어디서 시작됐는지 모를 제 '무용담'을 퍼뜨리는 건 좀 자제해 달라고 전달해 주실 수 있으십니까? 검을 한번 휘둘렀더니, 산이 갈라졌다거나, 구름 낀 하늘이 갈라지며 날이 밝아졌다거나... 과장이 좀 심하더군요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0037_minghe_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "In Yan, \"Minghe\" is used as a metaphor for the stream of stars. Exploration of the heavens was fraught with difficulty. The Terrans finally breached the fake sky, only to find themselves trapped in another foreign sky... Even then, you can see we've taken yet another step into the empyrean.",
+    "zh-TW": "在炎國，「明河」二字是天上星河的別稱。問天求道之事向來坎坷，泰拉人剛剛看破了頭頂的虛假星空，又來到了另一片陌生的星空之下……即便如此，您看，我們還是往天上邁出了一步。",
+    "zh-CN": "在炎国，“明河”二字是天上星河的别称。问天求道之事向来坎坷，泰拉人刚刚看破了头顶的虚假星空，又来到了另一片陌生的星空之下……即便如此，您看，我们还是往天上迈出了一步。",
+    "ja": "炎国において、我が名を表す「明河」の2字は天の川の別名だ。天に問い、道求むること、甚だ険し――テラの人々は頭上に広がる偽りの星空をようやく見破ったところで、また別の見知らぬ星空の下へと辿り着き……それでも、我々はこうして天へと一歩を踏み出したのだ。",
+    "ko": "염국에서는 은하수를 '명하'라 부르기도 합니다. 하늘의 도를 깨우치는 길은 애초부터 쉽지 않은 길이란 걸 알고 있습니다만... 거짓된 별하늘을 꿰뚫어 보고, 새로운 하늘 아래 설 수 있었던 테라인들처럼... 저희도 이렇게 하늘을 향해 또 한 걸음 내딛게 되지 않았습니까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0037_minghe_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Endmin, please take this. Don't overthink, it's nothing too expensive. I just thought it might make you happy.",
+    "zh-TW": "管理員，正巧有件小玩意想請您收下。不必多慮，不算什麼貴重東西，只是覺得您也許會開心。",
+    "zh-CN": "管理员，正巧有件小玩意想请您收下。不必多虑，不算什么贵重东西，只是觉得您也许会开心。",
+    "ja": "管理人、つまらないものだが、これを渡そう……遠慮はいらない。喜んでもらえたなら何よりだ。",
+    "ko": "관리자님, 전해드리고 싶은 게 하나 있습니다. 너무 부담 가지실 필요는 없습니다. 별건 아니고... 그냥 좋아하실 것 같아서 말입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Thank you. I'll need to think about a good return gift... Would you be interested in riding Nuli for a day? She seems to like you a lot more now.",
+    "zh-TW": "多謝，讓我想想該回贈什麼比較好……把怒驪借您騎一天如何？牠好像越來越親近您了。",
+    "zh-CN": "多谢，让我想想该回赠什么比较好……把怒骊借您骑一天如何？它好像越来越亲近您了。",
+    "ja": "ありがとう。どうして礼を返そうか……怒驪を1日貸すというのはどうだろうか。あれも、管理人には随分懐いてきたからな。",
+    "ko": "감사합니다만... 답례로 뭘 드리면 좋을지 모르겠군요. 노여를 하루 정도 빌려드리는 건 어떠십니까? 요즘에 관리자님을 좀 따르는 것 같아서 말입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "The Endfield endeavor is not an easy one. The HAS thus decided to assign me to support you. There will be times when I need to carry out Imperial Guards duties, but don't let that be a concern and just issue your orders normally. When you need to make a hard decision, I will be at your side. You can have full faith in our bond.",
+    "zh-TW": "終末地的任務依然艱巨，宏科院決定協調我來支援各位。我時常有些禁軍事務要處理，但您不必顧慮，儘管隨意調遣就好。當下決斷之時，我一定會在您身邊，您大可相信你我之間的默契。",
+    "zh-CN": "终末地的任务依然艰巨，宏科院决定协调我来支援各位。我时常有些禁军事务要处理，但您不必顾虑，只管随意调遣就好。当下决断之时，我一定会在您身边，您大可相信你我之间的默契。",
+    "ja": "エンドフィールドの任務は混迷を極める。だから、宏科院は俺を支援として派遣した。時折、禁軍の任務があるだろうが、心配には及ばない。遠慮する必要もない。言葉など無くとも……決断を下すときは傍にいよう。",
+    "ko": "홍산 과학원은 엔드필드의 임무를 지원하기 위해 절 여기로 파견했습니다. 금위군 관련 업무도 처리해야 하는 건 맞지만... 엔드필드에서 제가 도울 수 있는 일이 있다면 언제든지 편하게 불러주셔도 됩니다. 전 항상 관리자님 편에 설 테니까요. 관리자님과 저 사이의 신뢰를 믿어주셔도 좋습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "A gentle aroma? It's probably this incense diffuser ball. When I first enlisted, I wasn't exactly patient. I forced myself awake and alert to better fulfill my duties. Yet this only taxed my mental health further. My colleagues then gave me an incense recipe to calm my mind. They said good sleep is the key to overcoming the odds. And reality proved the wisdom of their words... Endmin? Hmm. Asleep already. Well then, I shall stand vigil for your sake.",
+    "zh-TW": "溫和的氣味？可能是因為這枚香薰球吧。剛從軍時，我心思急躁，總覺得重任在身，必須不眠不休，反而徒增精神消耗。同僚們知情後，塞給我一份安神香方，他們說，睡得踏實的人，才有定力常勝。事實證明，此話確實不虛……管理員？睡著了？好吧，我就在這裡。",
+    "zh-CN": "温和的气味？可能是因为这枚香熏球吧。刚从军时，我心思急躁，总觉得重任在身，必须不眠不休，反而徒增精神消耗。同僚们知情后，给我塞了一份安神香方，他们说，睡得踏实的人，才有定力常胜。事实证明，此话确实不虚……管理员？睡着了？好吧，我就在这里。",
+    "ja": "優しい香り……？この香球のためだろうな。軍に入った頃は気ばかり焦って、責任を果たすと息巻き、却って自身をすり減らしていた。そんな俺を見て、仲間が鎮静香を教えてくれた……深い眠りこそ、常勝の秘訣だと。実際、その言葉に偽りなく――管理人、眠ったのか？……大丈夫だ、俺が傍にいる。",
+    "ko": "포근한 향... 말씀입니까? 아마 이 향낭에서 나는 향일 겁니다. 막 군에 들어갔을 때, 조급한 마음에 전 제대로 쉬지도 않고 버티곤 했습니다. 그러다 보니 오히려 정신적으로 더 지치기만 했죠. 그때 동료들이 마음을 안정시켜주는 향이라며 건네줬던 향낭입니다. 승리를 위해서라면 제대로 쉴 줄도 알아야 한다면서 말이죠. 실제로도... 관리자님? 잠드신 겁니까. 그래요, 이렇게 쉼도 필요하죠. 푹 쉬셔도 좋습니다. 제가 관리자님의 곁을 지킬 테니까요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0037_minghe_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "The medics asked about my scars? I got this one on my tail when I was a naughty kid. I was reckless, fell off a cliff, and cut it on a rock. It wasn't that ugly at first, but age made it look far more terrifying. As for the rest... they're the result of countless battles and fights. Too many to count, and after all this time, I don't even remember when I got most of them.",
+    "zh-TW": "醫療幹員們問起了我身上那些傷疤？尾巴上這道是小時候貪玩，從山崖上摔下去，被石頭劃的。那時候看起來還不明顯，後來長開了，反倒有點嚇人。至於剩下那些……上過戰場的人，哪有不受傷的。傷太多了，時間一久，我也不記得都是什麼時候留下的了。",
+    "zh-CN": "医疗干员们问起了我身上那些伤疤？尾巴上这道是小时候贪玩，从山崖上摔下去，被石头划的。那会儿看着还不明显，后来长开了，反倒有些唬人。至于剩下那些……上过战场的人，哪有不受伤的。伤太多了，时间一久，我也不记得都是什么时候留下的了。",
+    "ja": "医療オペレーターが傷跡について聞いてきたのか？尾のこれは、幼さ故の無鉄砲の結果だ。取るに足らないものだったはずが、今では人を驚かせるものになってしまった。残りは……戦場へ赴けば、無傷でいられる者はいない。いつ刻まれたかなど、覚えていられるわけがないだろう。",
+    "ko": "의료 오퍼레이터분들이 제 몸의 흉터에 대해 궁금해하신다고요? 꼬리 쪽 흉터는 어릴 적 장난치다가 절벽에서 굴러떨어지며 돌에 긁힌 상처입니다. 그땐 이렇게까지 눈에 띄진 않았는데, 시간이 지나 흉터로 자리 잡고 나니 좀... 그렇더군요. 다른 흉터들은... 전장의 전사라면 모두 있는 그런 것들입니다. 너무 많아서 사실 언제 생긴 건지도 기억나지 않는 상처들이죠."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0037_minghe_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "A few days ago, some colleagues and I approved a cohort of Imperial Guards reservists for HAS. Cream of the crop, true, but too bright, too showy, and in serious need of mental and spiritual training. If we give them important tasks right now, I'm afraid they might mistake duty as the reason of their existence. A headstart like that... Wait, dad talk? No! I'm just... talking about my past. I don't want these kids to repeat my mistakes.",
+    "zh-TW": "前幾天，我陪幾位同僚見了宏科院相中的一批禁軍候補。確實都是萬中無一的好手，可惜鋒芒太盛，心氣還需打磨。倘若現在委以重任，只怕他們錯把使命當成自己的支柱，揠苗助長……嗯？這不能算賣弄資歷吧？我只是拿自己的經驗做做比較，不想後輩走彎路啊。",
+    "zh-CN": "前几天，我陪几位同僚见了宏科院相中的一批禁军候补。确实都是万中无一的好手，可惜锋芒太盛，心气还需打磨。倘若现在委以重任，只怕他们错把使命当成自己的支柱，揠苗助长……嗯？这不能算卖弄资历吧？我只是拿自己的经验做做比较，不想后辈走弯路啊。",
+    "ja": "先日、同僚と共に宏科院が選出した禁軍の候補生に会ってきた。確かに逸材ばかりではあったが、惜しむらくは、気鋭が過ぎる。気性も磨く必要がある。現段階で無理に重責を背負わせれば、使命を己の生きる意味と取り違えかねない……これは、先輩風を吹かせていることになるか？俺の経験が役に立てばと……後進に遠回りさせたくないだけだ。",
+    "ko": "얼마 전, 동포들과 홍산 과학원의 금위군 후보생들을 만나보고 왔습니다. 다들 뛰어난 인재들이더군요. 하지만... 너무 날카롭게 벼려져 있었습니다. 마음가짐을 좀 더 다듬을 필요가 있는 거죠. 아마 지금 당장 중책을 맡기면, 자신의 사명에 휘둘리며 무너져 내릴지도 모르는 일이니까요. 음? 너무 늙은이 같다고요? 음... 그럴 생각은 없었습니다. 그냥 후배들이 힘든 길로 빠지진 않았으면 해서 말입니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0037_minghe_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "Take this whistle. Blow it so that Nuli will know where to find you. Just treat it as a way of making emergency contact. Of course, it's also a personal gift. After all, you are the one who showed me the vast lands and prosperous cities. So yes, outside of battles, I do wish to travel to places with you. Why don't you blow the whistle now? Nuli is resting nearby. When she hears the whistle but sees us right here, her reaction will sure be interesting.",
+    "zh-TW": "請收下這枚哨子吧。聽到哨聲，怒驪就會知道該去往哪個方向，就當是個緊急聯絡方式吧。當然，其中也有我的一點私心在，畢竟是您讓我看見了天地遼闊、煙火綿延，我希望在戰場之外，也能有機會與您並肩同行。要不要試著吹吹看？怒驪正在旁邊打盹。要是牠聽見哨聲，卻看見我們就站在這裡，神情想必會很有趣。",
+    "zh-CN": "请收下这枚哨子吧。听到哨声，怒骊就会知道该去往哪个方向，就当是个应急联络方式吧。当然，其中也有我的一点私心在，毕竟是您让我看见了天地辽阔、烟火绵延，我希望在战场之外，也能有机会与您并肩同行。要不要试着吹吹看？怒骊正在旁边打盹。要是它听见哨声，却看见我们就站在这里，神情想必会很有趣。",
+    "ja": "この笛を受け取ってもらいたい。笛の音が耳に入れば、怒驪は進むべき方角を悟る。有事の際の連絡手段だと思ってもらえればいい。無論、ささやかな私心もある。管理人のおかげで、天地の広さと人々の営みを知った。だからこそ、戦場の外を共に歩く機会があればと……試しに吹いてみるか。怒驪なら、すぐそこで居眠りをしている。飛び起きて、俺たちがここ立っているのを見たなら、どれほど味わい深い顔を見せてくれるだろうな。",
+    "ko": "이 호루라기를 갖고 계셔 주십시오. 이 호루라기의 소리를 들으면 노여가 방향을 찾는 데에 도움이 되거든요. 응급 연락 수단이라고 생각하시면 됩니다. 물론, 제 사심도 좀 담겨 있긴 합니다. 관리자님께서 저한테 더 넓은 세상과 이어지는 수많은 의지들을 보여주셨으니까요. 가능하다면 전장이 아닌 곳에서도 항상 관리자님과 같은 길을 걸어가고 싶습니다. 지금 한번 불어보시겠습니까? 노여는 저쪽에서 낮잠 자고 있을 겁니다. 자다가 불려 왔는데, 정작 아무 일도 없는 걸 보면 어떤 표정을 지을지 궁금하군요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0037_minghe_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "The Catalog of Warriors Under the Heavens is just a work of entertainment. It was compiled by amateurs with too much time on their hands. I never fought any TGCC knights, Security Bureau elites, or that swordmanceress from the Chen family, so those rankings are pure fiction. As for the \"undisputed champion under forty\", they probably saw my rank in the Imperial Guards and made it up. And Endmin, please stop staring. I was born this way, so don't blame me for looking young.",
+    "zh-TW": "那本《天下武評》只是閒散人士隨意編排取樂之作。環塔商會那幾位騎士，安全局的高手，或者陳家那位許久不見的女俠，我從沒與他們交鋒，自然沒有分高低的依據。所謂「不惑之下第一人」，至少有一半是對著「禁軍」兩字胡亂發散，作不得數。管理員，您再盯也盯不出什麼來，我的臉就長這樣，顯年輕也不怪我。",
+    "zh-CN": "那本《天下武评》只是闲散人士随意编排取乐之作。环塔商会那几位骑士，安全局的高手，或者陈家那位许久不见的女侠，我从没与他们交锋，自然没有分高低的依据。所谓“不惑之下第一人”，至少有一半是对着“禁军”两字胡乱发散，作不得数。管理员，您再盯也盯不出什么来，我的脸就长这样，显年轻也不怪我。",
+    "ja": "『天下武術論』は、所詮暇人が面白半分に編んだもの。環タロ商会の騎士や、保安局の使い手、それにチェン家の――長く姿を見せないあの女侠とも、実際には手合わせもしたことがないのだから、優劣を論じるだけの根拠などあるはずもない。「不惑に満たぬ世代の第一人者」という評も、半分は「禁軍」の名から勝手に話を膨らませただけで……まいったな。俺の顔が若く見えるのか？でもそれは、俺のせいじゃない。",
+    "ko": "<천하무평>이란 책은 한가한 사람들이 심심풀이로 엮은 책입니다. 상업연합회의 기사나, 안전국의 고수, 아니면 진씨 가문의 여협객님까지... 전 그분들과 제대로 겨뤄본 적이 없으니, 우열을 가릴 근거 자체가 없거든요. '40대 이하에선 우열을 가릴 사람이 없다.' 같은 말도... 절반은 '금위군'의 명성에 말을 좀 더 덧붙인 것뿐입니다. 믿을 건 못 되죠. 그렇게 절 빤히 쳐다보셔도 달라지는 건 없습니다. 처음부터 이렇게 생겼었거든요. 어려 보인다고 해서 제가 어떻게 할 수 있는 것도 아니고 말이죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "After recovering from my injury, I returned to that hamlet a few more times. Many folks were no longer there, and my visits were short, so I could only rely on others to pass on a few words... No need to worry though, because no Ankhorfalls ever struck that place again. Hongshan also built a few towns nearby and many people moved there. A few kept moving further away, actually. They often send me local treats, and I still got two packs left. Interested?",
+    "zh-TW": "傷癒之後，我順路回過幾次那個小村莊。可惜不少人不在了，每次時間又趕，只能託人帶些話……別擔心，那裡沒有再被錨點襲擊過。宏科院在附近新修了幾座城，許多鄉親搬去了新城，然後又去了更遠的地方。他們還經常寄些特產小吃過來。我還有兩袋，您要嚐嚐嗎？",
+    "zh-CN": "伤愈之后，我顺路回过几次那个小村庄。可惜不少人不在了，每次时间又紧，只能托人带些话……别担心，那儿没有再被锚点袭击过。宏科院在附近新修了几座城，许多乡亲搬去了新城，接着又去了更远的地方。他们还经常寄些特产小吃过来。我还有两袋，您要尝尝么？",
+    "ja": "療養を終えた後も、あの村に何度か立ち寄った。村人は減り、時間も無ければ言付けを頼むことしかできなかったが……ああ、そうではない。再びアンカーに襲われたわけではなく……宏科院が近隣に築いた新たな都市に移り住み、より遠方の地へと渡って行ったのだ。今でも折に触れ、土地の名物を送ってきてくれる。まだ2袋残っているが、管理人もどうだ？",
+    "ko": "모든 치료가 끝난 뒤에도 그 마을에 몇 번 들르곤 했습니다. 하지만 이미 그곳을 떠난 사람도 많았고, 매번 길게 머무를 순 없어서 안부를 전해달라고 부탁하고서 돌아오곤 했죠. 아, 그 이후로 앵커의 습격을 받은 적은 없다고 하니 걱정하지 않으셔도 됩니다. 홍산 과학원이 마을 주변에 새로운 도시를 세웠는데, 거기로 이사 가신 분들도 많고, 더 먼 곳으로 이사 가신 분들도 있더군요. 요즘도 가끔 특산품 같은 걸 보내주십니다. 아직 두 봉지 남았는데, 한번 드셔보시겠습니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Those upstarts from Tanjian Hall are here again. Don't get me wrong. I always entertain martial arts discussions, but equestrian skills... Nuli and I share a spiritual link. I do not control her. Rather, I work with her and there is nothing technical about it. Speaking of which, why are they so obsessed with mounted combat? Hardly anyone fights on a galloper...",
+    "zh-TW": "談劍堂那幾個小子又找來了。探討武藝我當然不會推辭，但傳授「騎術」……怒驪和我心意相通，與其說駕馭，不如說我在配合牠，實在稱不上什麼技巧。話又說回來，也沒有其他人騎馳獸作戰，他們為何如此上心……",
+    "zh-CN": "谈剑堂那几个小子又找来了。探讨武艺我当然不会推辞，但传授“骑术”……怒骊和我心意相通，与其说驾驭，不如说我在配合它，实在称不上什么技巧。话又说回来，也没有其他人骑驰兽作战，他们为何如此上心……",
+    "ja": "談剣堂からまた若者が訪ねてきた。武芸を論じることを拒みはしないが、「騎乗術」の伝授となると……怒驪とは以心伝心、駆っているというよりはこちらが合わせているだけで、技術と呼べる代物ではない。そもそも、馳獣に跨って戦う者など他にはいないのに、どうしてあんなに熱心なのか……",
+    "ko": "담검당의 꼬마 친구들이 또 찾아왔습니다. 무예를 가르쳐 주는 건 언제든지 환영이지만... 이번엔 '기승술'을 가르쳐 달라고 하더군요. 음... 노여랑 전 서로의 마음을 아는 전우 사이입니다. 제가 노여를 다룬다기보다, 노여가 절 다루는 것에 가깝죠. 딱히 기술이라고 할만한 것도 없고요. 근데... 저 말곤 갤럽비스트를 타고 싸우는 사람도 없는데, 왜 그렇게 '기승술'에 관심을 가지는 건지..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "HAS has plenty of books on Yanese military strategy and treatises. We've learned much but not enough. Good deployment can decide the battlefield, but the Civilization Band is battling the entirety of Talos-II on its own. Victory is not decided by how many enemy lairs we raze to the ground, but by how much we can retake, restore and preserve. If the situation permits, I'd rather work on my farms. At least pouring sweat into the soil grows more food.",
+    "zh-TW": "宏科院存有不少大炎留下的兵法韜略，我們從中獲益不少，但仍不足夠。調兵有道自然能左右戰局，扭轉頹勢，只是文明環帶在和整個塔衛二搏殺，決定勝敗的不是犁庭掃千閭，而是風吹草又生。如果形勢允許，我更希望去打理幾畝地，至少汗水灌進田裡，真的能長出糧食來。",
+    "zh-CN": "宏科院存有不少大炎留下的兵法韬略，我们从中获益不少，但仍不足够。调兵有道自然能左右战局，扭转颓势，只是文明环带在和整个塔卫二搏杀，决定胜败的不是犁庭扫千闾，而是风吹草又生。如果形势允许，我更希望去打理几亩地，至少汗水灌进田里，真能长出粮食来。",
+    "ja": "宏科院には炎国の兵法が数多く残っている。そこから得た学びは決して少なくないが、まだ十分とは言い難い。用兵の道を心得れば戦局を左右し、頽勢を覆す。しかし、文明地帯はタロⅡ全土を相手取り、死闘を続けている。勝敗を決するのは敵を殲滅するような力ではない。風吹いて草また生ず――何度でも立ち上がる生命力だ。情勢が許すなら、俺は田畑を耕したい……畑に注いだ汗は、確かに穀物となって実を結ぶのだから。",
+    "ko": "홍산 과학원에는 염국의 병법서가 꽤 많습니다. 저희는 그걸 통해 많은 걸 배웠죠. 하지만 사실 이것만으론 부족합니다. 병법을 통해 전황을 바꿀 순 있겠지만, 지금처럼 문명 밴드가 탈로스 II 전체와 사투를 벌이는 상황에서 승패를 결정짓는 건 파괴적인 병법과 무공이 아닌, 끊임없이 다시 살아가는 생명력이거든요. 그래서 전, 만약 상황이 허락한다면 논밭을 일구고 싶습니다. 땀을 흘린 만큼 정직하게 곡식이 자라나는 삶이야말로 진짜 가치 있는 삶이니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "When I first joined Zeroth Directive, I thought about every scenario of our reunion. Would it be in the northern battlefields? The sandy expanse? During an emergency mission? Or a desperate siege...? I stopped thinking because I knew I'd be fighting by your side no matter what. Pardon my bluntness, but the plans you made with Lady Si in the mountains might not sit well with your friends. If she complains again... let me stay by your side and face her tantrum together.",
+    "zh-TW": "最初參與「零號委託」時，我設想過許多種和您重逢的情況。北地戰陣、漫漫沙海，火線馳援、腹背受敵……後來就不想了，反正這柄劍總要為您而出，上刀山還是赴火海都沒有差別。不過，恕我直言，您在祀小姐山中的安排確實會讓友人憂心，要是她為此再鬧脾氣……我陪您一起聽她發牢騷吧。",
+    "zh-CN": "最初参与“零号委托”时，我设想过许多种和您重逢的情况。北地战阵、漫漫沙海，火线驰援、腹背受敌……后来就不想了，反正这柄剑总要为您而出，上刀山还是赴火海都没有差别。不过，恕我直言，您在祀小姐山中的安排确实会让友人揪心，要是她为此再闹脾气……我陪您一起听她发牢骚吧。",
+    "ja": "「初号指令」に参加すると決まり、管理人と再会する場面を幾通りも思い描いた。北地の戦陣、果てしなき砂海、前線に身を投じ、四面楚歌となり……やがて、思考を止めた。たとえ火の中だろうと水の中だろうと、この剣はどのみち管理人のためにある。しかし率直に言うならば、スー代理人が描いた山での管理人の行動は、我々友人の胸を痛めるものだった。もしあれでまた臍を曲げてしまったなら……そうだな、俺も一緒に彼女の愚痴に付き合おう。",
+    "ko": "처음 '미션 제로'에 참여했을 때, 어디선가 이루어질 관리자님과의 만남을 자주 상상했습니다. 북쪽의 전장이나, 끝없이 펼쳐진 사막, 아니면 전선으로 긴급 지원을 가게 되는 순간일 수도 있었죠. 그러다 결국은 이런 생각이 덧없다는 걸 깨달았습니다. 어차피 이 검은 관리자님을 위해 휘두르게 될 테니, 장소가 어디든 그건 중요하지 않으니까요. 하지만... 관리자님이 사 님의 그림 속 산에서 하셨던 일은 주변 사람들로선 꽤 마음을 졸일 수밖에 없던 일일 겁니다. 혹여나 사 님께서 뭐라고 하신다면, 그땐 옆에서 같이 잔소리를 들어드리겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_about_line01",
+   "title": {
+    "en": "Topic: Partner",
+    "zh-TW": "話題：搭檔",
+    "zh-CN": "话题：搭档",
+    "ja": "「相棒」について",
+    "ko": "전우에 관하여"
+   },
+   "text": {
+    "en": "Nuli and I fought in countless battlefields. The two of us are more than just \"partners\". And nope, she wouldn't eat simple hay. You have to spice it up with some Aggagrit and Originium Slug mucus. Speaking of which, Nuli is an indigenous galloper of Talos-II. Does that mean she likes ... alien food from Terra?",
+    "zh-TW": "怒驪陪我打了無數場，我跟牠的關係，早就不是「搭檔」兩字說得明白。對了，您拿乾草餵牠，牠不會有興趣的。這傢伙早就養刁了嘴，要在草料裡頭混點異香石和源石蟲體液。明明是塔衛二原生的物種，這算不算喜歡吃「外星菜」？",
+    "zh-CN": "怒骊陪我打了无数场，我跟它的关系，早就不是“搭档”两字说得明白。对了，您拿干草喂它，它不会有兴趣的。这家伙早就养刁了嘴，要在草料里头混点异香石和源石虫体液。明明是塔卫二原生的物种，这算不算喜欢吃“外星菜”？",
+    "ja": "怒驪と共に、数え切れない戦を駆け抜けてきた。あれと俺の関係は、「相棒」という一言で片付けられるものではないかもしれない。やれやれ、干し草だけでは見向きもしない。やたらと舌が肥えて、異香石とオリジムシの体液を少々混ぜたものでなければ……タロⅡの原生種だというのに、「宇宙料理」を好むなんて、おかしなものだ。",
+    "ko": "노여랑은 셀 수 없이 많은 전장을 함께 누볐습니다. 단순한 '전우'로는 제대로 설명이 안 될 정도로 말이죠. 아, 그리고 이 녀석은 건초만 주면 잘 안 먹습니다. 입맛이 꽤 까다로워서 이향석이랑 원석충 체액을 좀 섞으면 그제야 좀 먹죠. 분명 탈로스 II 토종 생물인데... 음, 그럼 '외계 음식' 취향이라고 봐야 할까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_about_line02",
+   "title": {
+    "en": "Topic: Imperial Guards",
+    "zh-TW": "話題：禁軍",
+    "zh-CN": "话题：禁军",
+    "ja": "禁軍について",
+    "ko": "금위군에 관하여"
+   },
+   "text": {
+    "en": "The Law of Yan made the Imperial Guards the pinnacle of martial arts, as pugilists were seen as lawbreakers. Despite the lack of national boundaries, the Big Three of Talos-II still faced internal and external threats. Tianshi Tan thus appointed thirteen Imperial Guards. Martial expertise is just the basics. Each of us is a master of our field, allowing us to protect our people. My mastery? It's quite boring... I ride alone into enemies and get their commander. Nothing more.",
+    "zh-TW": "禁軍一職襲自炎律。俠以武犯禁，禁軍就是武所能及的頂點。塔衛二沒有諸國紛爭，但內外隱患不得不防，三大陣營必須保有解決禍根的必要手段。談天師指名禁軍十三人，身手高強只是基礎，大家各有所長，才護得一方安寧。我的長處？大概是裡面最沒意思的吧……一騎當千，萬軍取首，僅此而已。",
+    "zh-CN": "禁军一职袭自炎律。侠以武犯禁，禁军就是武所能及的顶点。塔卫二没有诸国纷争，但内外隐患不得不防，三大阵营必须保有解决祸根的必要手段。谈天师指名禁军十三人，身手高强只是基本，大家各有所长，才护得一方安宁。我的长处？大概是里面最没意思的吧……一骑当千，万军取首，仅此而已。",
+    "ja": "禁軍の職は、炎律より受け継がれた。侠は武を以て禁を犯す。禁軍こそ、武の到達しうる頂点。タロⅡでは諸国の争いこそないものの、内外の禍根には当然備えなければならず、三大陣営は災いの種を断つ手立てを保持する必要がある。よって、タン天師は禁軍の13名を指名した。武芸に秀でているのは前提として、各々の異なる長所を活かし、安寧を保つ。俺の長所か？それは……13人の中で最もつまらない。一騎当千、万軍より敵将の首を取る、ただそれだけだ。",
+    "ko": "금위군이라는 직책은 염국의 법률에서 시작된 겁니다. 자신이 가진 무력을 믿고 법률에 도전하는 게 협객이라면, 그 무력이 도달할 수 있는 최정점의 존재가 바로 금위군이거든요. 탈로스 II에 국가 간 분쟁은 없지만, 안팎의 위협은 여전히 존재합니다. 그래서 3대 진영 모두 문제를 확실히 해결할 강력한 수단을 보유해야 하죠. 담 천사님께서 직접 선발하신 열세 명의 금위군은 단순히 강한 걸 넘어 각자의 특기가 있습니다. 제 특기 말입니까? ...일기당천, 적장의 머리를 베는 것, 그뿐입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_about_line03",
+   "title": {
+    "en": "Topic: Tianshi Tan",
+    "zh-TW": "話題：談天師",
+    "zh-CN": "话题：谈天师",
+    "ja": "タン天師について",
+    "ko": "담 천사에 관하여"
+   },
+   "text": {
+    "en": "Tianshi Tan is usually traveling across the north and defending the polar front with Arts of conflagration. Very rarely does she get involved with Hongshan matters. But given her great seniority, no one in HAS dares to show any disrespect. Even Lady Si would take Tianshi Tan's criticisms without objection. The two do not meet often, but when they do, Tianshi Tan is usually the one dragging Lady Si into mischief. Honestly, I can't really tell who's the senior between them.",
+    "zh-TW": "談天師常年在北方隨性遊走，用那一手焚天灼地的法術與鐵誓軍同守極地防線，偶爾才關照一下宏科院內事。即便如此，以她的資歷，宏科院上下沒有哪個敢不敬的。就算是祀小姐，挨她數落的時候，也會不吭聲聽著，乖得像另一個人。不過這兩人少數幾次碰面，常是談天師帶著祀小姐到處胡鬧，真不知到底誰才是長輩。",
+    "zh-CN": "谈天师常年在北方随性游走，用那一手焚天灼地的法术与铁誓军同守极地防线，偶尔才关照一下宏科院内事。即便如此，以她的资历，宏科院上下没有哪个敢不敬的。就算是祀小姐，挨她数落的时候，也会不吭声听着，乖得像另一个人。不过这两人少数几次碰面，常是谈天师带着祀小姐到处胡闹，真不知到底谁才是长辈。",
+    "ja": "タン天師は北方を気の赴くまま遊歴し、天地を焼き払うアーツをもって鉄誓軍と共に極地の防衛線を守っている。稀に、宏科院に目を向けることもあるらしいが……勿論、あれほどの経歴を持つ彼女に、敬意を払わない者など宏科院にはひとりもいない。あのスー代理人でさえ、彼女の叱責には一言も返さず、まるで別人のように大人しく従順になる。ただ、2人が顔を合わせる数少ない機会となれば、タン天師がスー代理人を連れ回し、あちこちで騒ぎを起こして……一体どちらが年長者なのか、迷ってしまうな。",
+    "ko": "담 천사님은 북쪽을 발길 닿는 대로 방랑하시면서 하늘과 땅을 모두 태워버릴 만큼 강력한 아츠로 철의 서약군과 함께 극지 방어선을 지키고 계십니다. 가끔 홍산 과학원의 일에도 관여하시지만, 대부분은 밖에서 활동하고 계시죠. 경력이 대단하시므로 홍산 과학원에서 담 천사님을 가볍게 보는 사람은 없습니다. 사 님조차도 담 천사님이 잔소리하실 땐 완전히 다른 사람처럼 얌전해지시니까요. 근데 그런 두 분이 만나면... 오히려 담 천사님이 여기저기 사고를 치고 다니십니다. 그럴 때면 도대체 둘 중에 누가 더 어른인 건지, 가끔 헷갈리기도 하죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_about_line04",
+   "title": {
+    "en": "Topic: Si",
+    "zh-TW": "話題：祀",
+    "zh-CN": "话题：祀",
+    "ja": "スーについて",
+    "ko": "사에 관하여"
+   },
+   "text": {
+    "en": "I have to convey messages from Tianshi Tan, so I do correspond with Lady Si quite often. The Lady does seem rather willful, but there's a secret to communicating effectively with her. If you're interested... hehe, it's not that hard. Just start with the most interesting part. Once she's curious enough, just tell her the rest... What? Like talking to some little chil—?! Uh, no, no, better stop here! Some things are too dangerous to say out loud.",
+    "zh-TW": "因為得替談天師帶話，我和祀小姐算有些往來。祀小姐看似我行我素，其實只要掌握要領，還算容易溝通。如果您當真想聽的話……沒那麼複雜，同一件事，挑聽起來有趣的那一面開始講，等她興致來了，自然可以順水推舟……嗯？您說這是哄小——停停停，可千萬不能說出口。",
+    "zh-CN": "因为得替谈天师带话，我和祀小姐算有些往来。祀小姐看似我行我素，其实只要掌握要领，还算容易沟通。如果您当真想听的话……没那么复杂，同一件事，挑听起来有趣的那一面开始讲，等她兴致来了，自然可以顺水推舟……嗯？您说这是哄小——停停停，可千万不能说出口。",
+    "ja": "タン天師の言伝を届ける役目があり、スー代理人とは多少の交流があった。「我が道を行く」――そう見えるかもしれないが、要領さえ掴めれば、存外に話は通じる。どうしても話をしたいのなら……そう難しくはない。まずは、興味を持つだろう側面から切り出し、身を乗り出す様子を見せたなら、あとは自然と流れに任せるのみ……何だって？子供をあやし――駄目だ、それ以上は……それだけは、口が裂けても言ってはならない禁句だ。",
+    "ko": "담 천사님 대신 사 님하고 얘기를 나누게 되는 경우가 종종 있었습니다. 사실... 사 님이 제멋대로인 것처럼 보여도, 대하는 요령만 알면 그렇게 어려운 분도 아니거든요. 요령을 알고 싶으시다고요? 음... 별건 아닙니다. 같은 이야기라도, 먼저 흥미 있어 하실 부분부터 얘기하는 거죠. 관심을 보이기만 하면 자연스럽게 그 흐름을 이어 나갈 수 있으니까요. 음? 어린애 달래는 거 아니냐고요? 크흠... 아무리 관리자님이시라도 그런 말씀은 안 하시는 게 좋을 겁니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_about_line05",
+   "title": {
+    "en": "Topic: Weapon",
+    "zh-TW": "話題：武器",
+    "zh-CN": "话题：武器",
+    "ja": "武器について",
+    "ko": "무기에 관하여"
+   },
+   "text": {
+    "en": "I've wielded Fulei, the Lurking Thunder, for quite a while. Many Aggeloi fell to it, as did many trees and weeds. The Bureau of Swordmancers once requested it for study, and got really upset at me for wasting it on mundane chores. It was a long argument. I regard weapons as tools for subduing enemies and protecting the living, and even the most lauded pieces cannot do so without a wielder. Thus, a weapon's quality lies in the wielder, and not in itself.",
+    "zh-TW": "這柄「伏雷」跟我久了，刺過天使兇獸，也砍過木柴雜草。那天選劍局借槍研究，到手就發火說糟踐寶貝，硬是跟我拉扯了好一陣子。不過說到底，武器只是殺敵護生的工具，再怎麼往上貼金，也無法讓它自己替人消災。刀劍品格如何，在執柄者。",
+    "zh-CN": "这柄“伏雷”跟我久了，刺过天使凶兽，也砍过木柴杂草。那天选剑局借枪研究，到手就发火说糟践宝贝，硬是和我拉扯了好一阵子。不过说到底，武器只是杀敌护生的工具，再怎么往上贴金，也没法让它自己替人消灾。刀剑品格如何，在执柄者。",
+    "ja": "「伏雷」とは長らく共にあり、アンゲロスや凶獣を貫いたこともあれば、薪や雑草を断ったこともある。先日、選剣局の研究のために槍を貸すことになったのだが、渡した途端に「宝を粗末にしている」と怒られ……暫し、言い合いになってしまった。所詮、武器は生を護るための道具でしかない。箔をつけたところで、独りでに禍を祓ってくれるものでもない。武器の品格は、執る者次第。そうだろう？",
+    "ko": "'복뢰'는 저와 함께 오랫동안 수많은 아겔로스와 야수들을 무찔러 온 전우입니다. 전에 선검국에서 연구를 위해 창을 빌려달라고 해서 잠깐 빌려줬더니, 이렇게 귀한 보물을 망쳐놨다면서 절 나무라더군요. 결국 무기는 적군을 베고 아군을 지키는 도구일 뿐인데 말이죠. 아무리 보물 같은 무기라도, 무기 혼자서는 재앙을 막지 못하는 법입니다. 무기가 어떤 가치를 가지느냐는 결국, 쥔 사람에게 달렸으니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "There's an unclaimed treasure. Let's make better use of it.",
+    "zh-TW": "寶物無主，收來妥善使用吧。",
+    "zh-CN": "宝物无主，收来妥善使用吧。",
+    "ja": "宝に主なし。受け取って、しかと役立てよう。",
+    "ko": "주인 없는 보물이니, 저희가 잘 활용해 보도록 하죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "That site might have what we need. Let's go have a look?",
+    "zh-TW": "那邊或許有我們需要的東西，先順路去看看？",
+    "zh-CN": "那边或许有我们需要的东西，先顺路去看看？",
+    "ja": "探しているものが見つかりそうだが、立ち寄ってみるか？",
+    "ko": "저쪽에 쓸 만한 게 있을지도 모릅니다. 가는 길에 한번 둘러보시겠습니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "I spotted something unusual. How about a closer look?",
+    "zh-TW": "那裡似乎有些異樣，還是去探明究竟為好。",
+    "zh-CN": "那里似乎有些异样，还是去探明究竟为好。",
+    "ja": "少し、気がかりだ……調査に行ってみないか。",
+    "ko": "저기가 좀 수상합니다. 가서 확인해 보시죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "A strong adversary. Discretion is a choice, but direct engagement is better.",
+    "zh-TW": "強敵在前，倒也不必躲藏，不妨坦然迎戰。",
+    "zh-CN": "强敌在前，倒也不必躲藏，不妨坦然迎战。",
+    "ja": "身を潜める必要はない。さあ、討って出よう。",
+    "ko": "강적이군요... 숨을 필요는 없습니다. 정면 승부로 충분하죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Oh? The quality is good.",
+    "zh-TW": "哦？成色不錯。",
+    "zh-CN": "哦？成色不错。",
+    "ja": "これは、なかなか上物だ。",
+    "ko": "오... 품질이 좋군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Leave it to me. Two weapons mine better than one.",
+    "zh-TW": "交給我吧，兩把武器採起礦來，確實快一些。",
+    "zh-CN": "交给我吧，两把武器采起矿来，确实快些。",
+    "ja": "両手に武器を構えれば、早く終わる。",
+    "ko": "이건 저한테 맡겨주시죠. 무기 두 자루로 캐면 더 빨리 캘 수 있으니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "A treasure long hidden in a crate, now discovered and awaiting its fate.",
+    "zh-TW": "匣中藏鋒久，雲散見月明。",
+    "zh-CN": "匣中藏锋久，云散见月明。",
+    "ja": "雲の絶え間に、刃の光。",
+    "ko": "오랫동안 감춰져 있던 보물이... 달빛 아래에서 드디어 빛을 보는군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "It flies well and it flies free. I'm starting to envy it.",
+    "zh-TW": "這東西飛得逍遙自在，倒是有點羨慕它了。",
+    "zh-CN": "这东西飞得逍遥自在，倒是有点羡慕它了。",
+    "ja": "気ままに飛び回るとは……少し羨ましいな。",
+    "ko": "자유롭게 날아다니는 모습을 보고 있으면... 조금 부러워지기도 합니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Threat eliminated. Passage is clear.",
+    "zh-TW": "危險解除，可以通過。",
+    "zh-CN": "危险解除，可以通过。",
+    "ja": "この程度か。さて、終わりだ。",
+    "ko": "위험 제거 완료, 이제 지나갈 수 있습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Well-rested and ready for deployment... Let's move out.",
+    "zh-TW": "養精蓄銳，正到用時……動身吧。",
+    "zh-CN": "养精蓄锐，正到用时……动身吧。",
+    "ja": "英気を養い、鋭気を蓄え……さあ、参ろう。",
+    "ko": "기력은 충분히 회복했으니... 이제 움직여 보시죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Monitor your strength.",
+    "zh-TW": "請注意恢復。",
+    "zh-CN": "请注意恢复。",
+    "ja": "体力には気を配れ。",
+    "ko": "회복에 전념하셔야 합니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "I got distracted. Let the battle continue.",
+    "zh-TW": "一時大意，我們再戰。",
+    "zh-CN": "一时大意，我们再战。",
+    "ja": "油断した。もう一度征こう。",
+    "ko": "잠깐 방심했군요. 다시 한번 가 보시죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Team, brace and prepare!",
+    "zh-TW": "各位，務必謹慎！",
+    "zh-CN": "各位，务必谨慎！",
+    "ja": "注意を！",
+    "ko": "여러분, 조심하십쇼!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "It's fine.",
+    "zh-TW": "無妨。",
+    "zh-CN": "无妨。",
+    "ja": "問題ない。",
+    "ko": "전 괜찮습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Sorry Endmin, I should have... kept going...",
+    "zh-TW": "抱歉，管理員，未能……隨您……",
+    "zh-CN": "抱歉，管理员，未能……随您……",
+    "ja": "すまない、管理人……共にあること、叶わず……",
+    "ko": "끝까지 함께하지 못해... 죄송합니다..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Your stunt is remarkable!",
+    "zh-TW": "此招甚妙，好身手！",
+    "zh-CN": "此招甚妙，好身手！",
+    "ja": "良い腕前だ！",
+    "ko": "훌륭한 기술이군요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Like flawless quick silver! Marvelous!",
+    "zh-TW": "行雲流水，全無破綻，精彩！",
+    "zh-CN": "行云流水，全无破绽，精彩！",
+    "ja": "行雲流水、一分の隙なし。",
+    "ko": "빈틈 하나 없이 완벽했습니다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "I'm simply fulfilling my duty.",
+    "zh-TW": "分內之事，不必掛懷。",
+    "zh-CN": "分内之事，不必挂怀。",
+    "ja": "務めのうちだ、気にするな。",
+    "ko": "할 일을 했을 뿐입니다. 신경 쓰지 않으셔도 됩니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "It's the teamwork that deserves praise.",
+    "zh-TW": "承蒙謬讚，是大家共同的功勞。",
+    "zh-CN": "承蒙谬赞，是大家共同的功劳。",
+    "ja": "過分な称賛だ……皆の尽力の賜物だろう。",
+    "ko": "과찬입니다. 모두가 함께 만든 결과죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Let no malice survive this battle.",
+    "zh-TW": "此戰不留餘患。",
+    "zh-CN": "此战不留余患。",
+    "ja": "後顧の憂いは残さない。",
+    "ko": "한 놈도 빠짐없이 완벽하게 해치우겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "The steel shall follow.",
+    "zh-TW": "劍隨其後。",
+    "zh-CN": "剑随其后。",
+    "ja": "次の手が控えている。",
+    "ko": "검은 언제나 저와 함께입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "It has been settled.",
+    "zh-TW": "塵埃落定。",
+    "zh-CN": "尘埃落定。",
+    "ja": "片がついたな。",
+    "ko": "끝났군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "An unsurprising resolution.",
+    "zh-TW": "當然，意料之中。",
+    "zh-CN": "当然，意料之中。",
+    "ja": "無論、想定内だ。",
+    "ko": "당연한 결과입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "A great victory made possible by a great team.",
+    "zh-TW": "精彩的勝利，歸功於大家的配合。",
+    "zh-CN": "精彩的胜利，归功于大家的配合。",
+    "ja": "皆の連携あればこその、見事な勝利だ。",
+    "ko": "모두가 힘을 합쳐 만들어낸 훌륭한 승리입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "We won. I'll secure the perimeters. Everyone, please get some rest now.",
+    "zh-TW": "勝負已分。我來警戒四周，各位儘快休整吧。",
+    "zh-CN": "胜负已分。我来警戒四周，各位尽快休整吧。",
+    "ja": "勝敗は決した。周囲の警戒はこちらで担当しよう。各々、速やかに休息に入れ。",
+    "ko": "승부가 났군요. 제가 주위를 살피겠습니다. 정비하시죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "A rare fight against a strong foe... Another attempt shall avenge our defeat.",
+    "zh-TW": "難得遇到這樣的對手……敗一回而已，贏回來就是了。",
+    "zh-CN": "难得遇到这样的对手……败一回而已，赢回来就是了。",
+    "ja": "これほどの相手に出会えるとはな……一度敗北したところで、取り返せば良いだけの話だ。",
+    "ko": "이 정도의 상대는 오랜만이군요... 괜찮습니다. 다음에 이기면 되니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "THUNDER!",
+    "zh-TW": "穿！",
+    "zh-CN": "穿！",
+    "ja": "穿つ！",
+    "ko": "뚫을 것이다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "SHATTER!",
+    "zh-TW": "裁破！",
+    "zh-CN": "裁破！",
+    "ja": "切り裂く！",
+    "ko": "가를 것이다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Rain split!",
+    "zh-TW": "截雨！",
+    "zh-CN": "截雨！",
+    "ja": "截雨！",
+    "ko": "비를 가르리라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Slash wind!",
+    "zh-TW": "攔風！",
+    "zh-CN": "拦风！",
+    "ja": "遮風！",
+    "ko": "바람을 막으리라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Shadow tear!",
+    "zh-TW": "裁影！",
+    "zh-CN": "裁影！",
+    "ja": "裁影！",
+    "ko": "그림자를 베리라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Time to get serious.",
+    "zh-TW": "可以認真點了。",
+    "zh-CN": "可以认真些了。",
+    "ja": "本気を見せよう。",
+    "ko": "이제 좀 진지하게 가 보시죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "The blade is out.",
+    "zh-TW": "劍已出鞘。",
+    "zh-CN": "剑已出鞘。",
+    "ja": "剣は鞘を離れた。",
+    "ko": "검은 준비되었습니다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "LIGHTNING STRIKE!",
+    "zh-TW": "電隨槍勢！",
+    "zh-CN": "电随枪势！",
+    "ja": "雷光、奔れ！",
+    "ko": "번개가 달려가리라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "BURSTING BLADE!",
+    "zh-TW": "雲裂劍出！",
+    "zh-CN": "云裂剑出！",
+    "ja": "天裂く一剣！",
+    "ko": "구름을 뚫으리라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "You may take your leave.",
+    "zh-TW": "走好，不送。",
+    "zh-CN": "走好，不送。",
+    "ja": "達者で。",
+    "ko": "깔끔하게 보내주지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "You should step aside.",
+    "zh-TW": "莫要擋路。",
+    "zh-CN": "莫要挡路。",
+    "ja": "邪魔立てするな。",
+    "ko": "앞길을 막지 마라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "To the North, behold my march!",
+    "zh-TW": "枕劍北去，萬象為賓！",
+    "zh-CN": "枕剑北去，万象为宾！",
+    "ja": "剣と北へ征かん、万象集え！",
+    "ko": "검을 벗 삼아, 만물과 함께 하리라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "All ends in the roar of thunder.",
+    "zh-TW": "傾光浮野，萬籟歸一！",
+    "zh-CN": "倾光浮野，万籁归一！",
+    "ja": "天つ光に満ち、万声還れ！",
+    "ko": "빛을 이불 삼아, 소리를 하나로 모으리라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0037_minghe_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Come, feel the cosmic flow!",
+    "zh-TW": "天地為鞘，夜照星流！",
+    "zh-CN": "天地为鞘，夜照星流！",
+    "ja": "天地を鞘とし、星流照らす！",
+    "ko": "천지를 칼집 삼아, 밤하늘을 비추리라!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0037_minghe_16401",
+   "topic": {
+    "en": "Unconventional Modification",
+    "zh-TW": "不拘一格的改裝",
+    "zh-CN": "不拘一格的改装",
+    "ja": "型にとらわれない改造",
+    "ko": "자유로운 개조"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "The new air freshener scent used for the Dijiang Living Sector smells relaxing and familiar. It's pretty good. Did you recommend it?",
+      "zh-TW": "帝江號生活區的新香薰聞起來很放鬆又有點熟悉，我很喜歡。是你推薦的配方嗎？",
+      "zh-CN": "帝江号生活区的新熏香闻着很放松又有些熟悉，我很喜欢。是你推荐的配方吗？",
+      "ja": "生活区画の新しいお香、すごく落ち着くし、懐かしい感じがして気に入ったよ。もしかして、ミンホさんが選んだ香りかな。",
+      "ko": "제강호 생활 구역에서 디퓨저를 새로 바꿨던데, 혹시 명하 씨가 추천한 향인가요? 왠지 마음을 편안해지면서 어딘가 친숙한 느낌이 들어서 좋더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "I did not expect you find out so quickly.",
+      "zh-TW": "沒想到您這麼快就猜出是我推薦的。",
+      "zh-CN": "没想到您这么快就猜出它是我推荐的。",
+      "ja": "もう俺が勧めたものだと気づいたか。",
+      "ko": "제가 추천한 거라고 어떻게 아셨어요? 생각보다 빨리 알아채셔서 놀랐습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Operators from the Logistics Division want everyone to wind down in comfort after their operations. I recalled a particular formula suitable for this purpose.",
+      "zh-TW": "後勤幹員們想讓大家回來休息時能更輕鬆一點，我就憑印象推薦了適合的香薰配方。",
+      "zh-CN": "后勤干员们想让大家回来休整时能更轻松些，我就凭印象推荐了合适的香薰配方。",
+      "ja": "後方支援のオペレーターが、皆が少しでも休めるようにしたいと言っていたんだ。それで、合いそうな香りを選んで勧めてみた。",
+      "ko": "사실은 여러분이 임무를 마치고 돌아와서 쉬시는 동안 좀 더 편안하게 지내셨으면 좋겠다는 지원 오퍼레이터분들의 말을 듣고, 제 기억을 더듬어 여러분께 적합한 향 배합을 추천했습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "I am very glad that it is to your liking.",
+      "zh-TW": "您能喜歡，便再好不過。",
+      "zh-CN": "您能喜欢，便再好不过。",
+      "ja": "気に入ってもらえたなら何よりだ。",
+      "ko": "마음에 드셨다니 다행이네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Speaking of which, I noticed that the freshener device itself looks modified.",
+      "zh-TW": "說起來，香薰裝置看起來也改裝過了。",
+      "zh-CN": "说起来，香薰装置看上去也改装过了。",
+      "ja": "そういえば、香を焚く装置もちょっと変わっていたように見えたけど。",
+      "ko": "그러고 보니 디퓨저 장치도 개조를 한 것 같던데요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "I have applied slight modifications to its structure and gave it new features.",
+      "zh-TW": "我稍微改造了它的結構，為它增加了一些新的功能。",
+      "zh-CN": "我对它的结构稍作了改造，为它增加了一些新的功能。",
+      "ja": "構造に少し手を加え、機能をいくつか増やしてみた。",
+      "ko": "네, 구조를 조금 손봐서 몇 가지 새로운 기능을 추가했습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "The device can now adjust the intensity of the scent dispersed. There's also a new ON and OFF timer.",
+      "zh-TW": "例如可以調節氣味的濃、淡，或是定時開啟關閉。",
+      "zh-CN": "比如可以调节气味的浓淡，或是定时开启关闭。",
+      "ja": "香りの強さの調節のほか、時間を決めて自動で動かすこともできる。",
+      "ko": "예를 들면, 향의 농도를 조절한다거나, 정해진 시간에 켜고 끄는 기능 같은 거죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I didn't expect you to be so handy with household appliances. Did you also pick up the skill while staying at Pan'an Village?",
+      "zh-TW": "沒想到你還會改造家用裝置。這些也是在畔安村休養的時候學會的嗎？",
+      "zh-CN": "没想到你还会改造家用装置。这些也是在畔安村休养的时候学会的吗？",
+      "ja": "こういう家で使うものまで改造できると思わなかった。畔安村で覚えたのかな。",
+      "ko": "가정용 장치까지 개조할 줄 아셨다니... 이런 것도 반안 마을에서 요양하면서 배운 건가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "I do know a few simple things about fixing smaller devices. However, I only learned these skills after I left the village and started roaming the world.",
+      "zh-TW": "我的確對改造小型裝置略懂一二，不過大多是在離開村子四處遊歷時學會的。",
+      "zh-CN": "我确实对改造小型装置略懂一二，不过大多是在离开村子四处游历时学会的。",
+      "ja": "多少心得はあったが、大半は村を出てから各地を旅する中で身につけたものだ。",
+      "ko": "대부분은 마을을 떠나 이곳저곳 돌아다니면서 배운 겁니다. 개조라고 해도 작은 장치를 조금 손볼 수 있는 정도이지만요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "I prefer traveling alone, but that also meant I had to fix my equipment when they malfunction. And I had run into my fair share of problems.",
+      "zh-TW": "我獨自行動的時候居多，期間碰到設備故障的情況便不得不自行修理，難免遇到問題。",
+      "zh-CN": "我独自行动较多，其间碰见设备故障的情况便不得不自行修理，难免遇到问题。",
+      "ja": "俺は1人で行動することが多かった。故障も自分で直すほかない。そのたびに問題にぶつかり……",
+      "ko": "워낙 혼자 움직이는 일이 많다 보니, 장비가 고장 나거나 하면 직접 수리할 수밖에 없거든요. 그러다 보면 이런저런 문제도 생기기 마련이고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Hence, every time I met an artisan who is willing to share their experiences on device repairs and modification, I will not hesitate to ask for a lesson or two.",
+      "zh-TW": "所以一旦遇到樂於分享修理和改造心得的工匠，我就會向他們請教。",
+      "zh-CN": "所以一旦碰见乐于分享修理和改造心得的工匠，我就会向他们请教。",
+      "ja": "修理や改造の心得を学ぶ機会があれば、教えを請うこともあった。",
+      "ko": "그래서 여행 도중에 수리나 개조 노하우를 배울 수 있는 장인을 만나면, 꼭 찾아가서 배우곤 했습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Every artisan has their own set of tricks. After seeing enough of them, I could not help but attempt a few modifications on my own devices and weapons.",
+      "zh-TW": "不同的工匠想法各異，見識的技巧多了，我也忍不住開始隨心改裝手頭的裝置和武器。",
+      "zh-CN": "不同的工匠思路各异，见识的技巧多了，我也忍不住开始随心改装手头的装置和武器。",
+      "ja": "職人によって考え方もやり方も違う。知識が広がるにつれ、俺も自分で道具や武器を改造するようになったんだ。",
+      "ko": "장인마다 생각하는 방식이 제각각이라 여러 가지 기술을 접하다 보니, 저도 어느새 손에 잡히는 장치나 무기를 제 마음대로 개조하기 시작했죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Got an example? What type of modifications did you apply?",
+      "zh-TW": "你做過哪些改裝呢？",
+      "zh-CN": "你都做过什么样的改装呢？",
+      "ja": "これまでにどんなものを改造したんだろう。",
+      "ko": "예를 들면 어떤 개조들을 해봤나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "I have a lamp that also doubles as a decent grill, a hot water kettle that can play radio news, a short sword that also serves as an alarm clock...",
+      "zh-TW": "諸如能烤肉的手提燈、可以播放新聞的熱水壺、附帶了鬧鐘功能的短劍……",
+      "zh-CN": "诸如能烤肉的提灯、可以播放新闻的热水壶、附带了闹钟功能的短剑……",
+      "ja": "肉の焼けるランタン、ニュースの流れる湯沸かし器、目覚まし機能付きの短剣……",
+      "ko": "고기를 구울 수 있는 랜턴이나, 뉴스를 재생해주는 주전자, 알람 시계 기능이 있는 단검... 뭐 이런 것들입니다."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I didn't expect those modifications to be so ... unconventional. But they do sound pretty interesting.",
+         "zh-TW": "沒想到你的改造方式這麼不拘一格……但聽起來很有趣。",
+         "zh-CN": "没想到你的改造方式这么不拘一格……但听起来很有趣。",
+         "ja": "そんな変わった改造までしているとは思わなかったけど……面白そうだね。",
+         "ko": "생각보다 아주 자유로운 개조 방식이네요... 그래도 듣다 보니 꽤 재밌을 것 같은데요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I didn't expect those modifications to be so ... unconventional. But they do sound pretty interesting.",
+         "zh-TW": "沒想到你的改造方式這麼不拘一格……但聽起來很有趣。",
+         "zh-CN": "没想到你的改造方式这么不拘一格……但听起来很有趣。",
+         "ja": "そんな変わった改造までしているとは思わなかったけど……面白そうだね。",
+         "ko": "생각보다 아주 자유로운 개조 방식이네요... 그래도 듣다 보니 꽤 재밌을 것 같은데요?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Indeed. My lack of professionalism and competency probably resulted in my non-standard and unexpected approach to kit-modding.",
+      "zh-TW": "或許正是因為我沒有那麼專業，才能這麼天馬行空。",
+      "zh-CN": "或许正是因为我没有那么专业，才能这么天马行空。",
+      "ja": "俺は職人ではないからな。だからこそ出来たのかもしれない。",
+      "ko": "어쩌면 제가 그렇게 전문적이지 않기 때문에 이런 식으로 자유롭게 생각할 수 있는 걸지도 모르죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Personally, dabbling in activities that lack a hard set of rules can also liberate one's way of thinking.",
+      "zh-TW": "而且偶爾隨心做些不設限的事，於我而言，也能讓思考方式變得更自由。",
+      "zh-CN": "而且偶尔随心做些不设限的事，于我而言，也能让思考方式变得更自由。",
+      "ja": "それに、たまには思いつくままやってみるのも悪くないだろう？考え方も変えられるかもしれない。",
+      "ko": "그리고 가끔은 마음 가는 대로, 아무런 제약 없이 무언가를 해보는 것도 제게는 사고방식을 더 유연하게 만드는 데 도움이 되거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You got me wanting to mod my own things. Maybe I should try it out...",
+      "zh-TW": "說得我也想改裝點什麼了……",
+      "zh-CN": "说得我也想改装些什么了……",
+      "ja": "なんだか、やってみたくなってきた……",
+      "ko": "얘기를 듣고 있으니 저도 뭔가 개조해 보고 싶어지네요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "And I just happen to have acquired new modding techniques from the Songseekers of Hannabit Circuit.",
+      "zh-TW": "恰好我最近又從眾生長地的遊人那裡學了點新的改裝技巧。",
+      "zh-CN": "恰好我最近又从众生长地的游人那里学了些新的改装技巧。",
+      "ja": "最近、衆生長地の吟遊者に新しい改造の手法を教わったんだ。",
+      "ko": "마침 제가 최근에 만물의 대지 방랑자들에게서 새로운 개조 기술을 몇 가지 배웠습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "I also just completed a mission. If you have the time, we can head back to Dijiang and try things out together.",
+      "zh-TW": "正好任務剛結束，若您得空，我馬上返回帝江號，我們可以一同嘗試。",
+      "zh-CN": "正巧任务刚结束，若您得空，我这就返回帝江号，我们可以一同尝试。",
+      "ja": "任務も一段落した。管理人に時間があるなら、帝江号に戻るとしよう。共に試してみないか？",
+      "ko": "관리자님만 괜찮으시면, 제 임무도 막 끝났으니 지금 바로 제강호로 돌아가서 같이 시도해 보시죠."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0037_minghe_16402",
+   "topic": {
+    "en": "Swordmancers Leaderboard",
+    "zh-TW": "劍客排行榜",
+    "zh-CN": "剑客排行榜",
+    "ja": "剣客ランキング",
+    "ko": "검객 순위"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I was just walking down the street when I heard children bickering about something interesting.",
+      "zh-TW": "剛剛在路邊聽到孩子們在爭論有趣的事。",
+      "zh-CN": "刚刚在路边听到孩子们在争论有趣的事。",
+      "ja": "さっき、子どもたちが面白い言い争いをしていたんだけど……",
+      "ko": "방금 길을 가다가 아이들이 재미있는 걸 두고 이야기하는 걸 들었어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Oh? What is the cause of their altercation?",
+      "zh-TW": "哦？在爭論什麼？",
+      "zh-CN": "哦？在争论什么？",
+      "ja": "何の話だ？",
+      "ko": "오? 무슨 이야기였습니까?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "They're arguing about the best swordmancer of HAS.",
+      "zh-TW": "他們在爭論誰是宏科院最強的劍客。",
+      "zh-CN": "他们在争论谁是宏科院最强的剑客。",
+      "ja": "「宏科院で一番強い剣客は誰か」って。",
+      "ko": "누가 홍산 과학원에서 가장 강한 검객인지 논쟁하고 있더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "That is indeed something children are interested in.",
+      "zh-TW": "的確是孩子們會感興趣的話題。",
+      "zh-CN": "确实是孩子们会感兴趣的话题。",
+      "ja": "まったく、子供たちが好きそうな話だな。",
+      "ko": "확실히 아이들이 흥미를 가질 만한 주제군요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "One of them mentioned the HAS Swordmancers Leaderboard. Your name is somewhere up there.",
+      "zh-TW": "有人提到了「宏科院劍客排行榜」，說你的排名一直在前列。",
+      "zh-CN": "有人提到了“宏科院剑客排行榜”，说你的排名一直在前列。",
+      "ja": "「宏科院剣客ランキング」もあるらしいんだ。ミンホさんは常に上位に入っているみたいだよ。",
+      "ko": "누군가 '홍산 과학원 검객 순위' 이야기를 꺼냈는데, 명하 씨 순위가 늘 상위권이라고 하더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "But another kid got a little angry. He thinks you deserve a higher rank.",
+      "zh-TW": "但有個孩子看起來很不服氣，他覺得你的排名應該更高。",
+      "zh-CN": "但有个孩子看起来很不服气，他觉得你的排名应该更高。",
+      "ja": "でも、もっとランクが上じゃないとおかしいって言っている子がいたんだ。",
+      "ko": "그런데 한 아이는 명하 씨 순위가 더 높아야 한다면서, 꽤 불만을 드러냈죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "I should thank the boy for his trust.",
+      "zh-TW": "那我要好好感謝他的信任了。",
+      "zh-CN": "那我可得感谢他的信任了。",
+      "ja": "それは随分と買ってくれているな。",
+      "ko": "그 아이의 믿음에는 감사를 표해야겠네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Yet there is an occasion when a rampaging burdenbeast dragged me through town. He might be disappointed to learn about that.",
+      "zh-TW": "不過，若他知道了我當初被馱獸拖著滿街跑的窘態，怕是會大失所望。",
+      "zh-CN": "不过，若他知道了我当初被驮兽拽着满街跑的窘态，怕是会大失所望。",
+      "ja": "昔、俺が駄獣に引きずられて村中を走り回った話を聞けば、幻滅されてしまうかもしれないが。",
+      "ko": "하지만 제가 예전에 버든비스트에게 질질 끌려다니던 꼴을 알게 된다면 많이 실망하겠어요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "He might end up getting impressed. He said not every story about you is focused on the battles.",
+         "zh-TW": "也許剛好相反。他說，只有關於你的傳聞，不是全都和戰鬥有關。",
+         "zh-CN": "也许恰恰相反。他说，只有关于你的传闻，不是全都和战斗有关。",
+         "ja": "むしろ逆かもしれないよ。だって「ミンホさんの噂は戦いのことだけじゃない」……",
+         "ko": "어쩌면 정반대일지도 몰라요. 그 아이가 그러더라고요, 명하 씨에 관한 소문은 다른 검객들과 다르게, 전투와 관련된 이야기가 다가 아니라고요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "\"He's got time to focus on other non-battle stuff, only 'cos he's super strong.\" The lad might conclude that you're a burdo-master as well.",
+         "zh-TW": "「不把戰鬥當全部，說明足夠強。」說不定，他能猜到你也很擅長照料馱獸。",
+         "zh-CN": "“不把战斗当全部，说明足够强。”说不定，他能猜到你也很擅长照料驮兽。",
+         "ja": "「戦いのことばっかりじゃないのは、それだけ強い証拠だ」って。駄獣の世話も得意だって、もう気付いているのかもね。",
+         "ko": "\"전투를 전부라고 여기지 않는다는 건, 그만큼 강하다는 뜻이야.\"라... 어쩌면 그 아이라면 명하 씨가 버든비스트를 돌보는 것에도 아주 능하다는 걸 눈치챌 수 있을 것 같아요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I think he'd be like me. I would be very interested in knowing more about the story. The kid recalled numerous stories about legendary swordmancers, but...",
+         "zh-TW": "也許他跟我一樣，反而很想知道這件事。他對劍客們的傳聞如數家珍，但……",
+         "zh-CN": "也许他和我一样，反而很乐意知道这件事。他对剑客们的传闻如数家珍，但……",
+         "ja": "むしろ、喜んで聞きそうだよ。いろんな剣客の噂をよく知っていたけど……",
+         "ko": "어쩌면 그 아이도 저처럼 오히려 그 사실을 알고 싶어할지도 몰라요. 검객들에 관한 소문은 모두 줄줄 꿰고 있는 것처럼 덤덤했지만..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "When he started talking about you, he sounded happiest when he recited the family dinner recipes that you supposedly came up with...",
+         "zh-TW": "提到你的時候，他最津津樂道的，反而是那些據說由你發明的家常料理。",
+         "zh-CN": "提到你的时候，他最津津乐道的，反倒是那些据说由你发明的家常菜式。",
+         "ja": "一番楽しそうに話していたのは、ミンホさんが考案した家庭料理のことだったから。",
+         "ko": "막상 수많은 소문 중에서 명하 씨가 만들었다는 가정식 요리 이야기를 할 때 가장 흥미로워 보였거든요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "\"He's got time to focus on other non-battle stuff, only 'cos he's super strong.\" I bet the lad will be really happy if he were to learn that you're also a master burdo-rancher.",
+         "zh-TW": "「不把戰鬥當全部，說明足夠強。」若是知道你還擅長照料馱獸，他應該會很開心。",
+         "zh-CN": "“不把战斗当全部，说明足够强。”若是知道你还擅长照料驮兽，他应该会很开心。",
+         "ja": "「戦いのことばっかりじゃないのは、それだけ強い証拠だ」……駄獣の世話まで得意だって知ったら、喜ぶんじゃないかな。",
+         "ko": "\"전투를 전부라고 여기지 않는다는 건, 그만큼 강하다는 뜻이야.\"라... 명하 씨가 버든비스트를 돌보는 일에도 능하다는 걸 알게 되면 분명 엄청 기뻐할 거예요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "To me, the boy sounds wiser than me when I was his age.",
+      "zh-TW": "聽起來，他反而比當年的我更透澈聰慧一點。",
+      "zh-CN": "听起来，他反倒比当年的我更透彻聪慧些。",
+      "ja": "話を聞く限り、昔の俺よりよほど物事が見えているらしい。",
+      "ko": "듣자 하니, 그 아이가 오히려 과거의 저보다 세상을 더 영리하고, 더 깊이 이해하는 것 같군요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "But I'm afraid there's another powerful swordmancer who best fits his fantasies and ideals.",
+      "zh-TW": "不過，最符合他想像的強大劍客，恐怕另有其人。",
+      "zh-CN": "不过，最符合他想象的强大剑客，恐怕另有其人。",
+      "ja": "ただ、その子供が思い描く剣客には、よりふさわしい人物がいる。",
+      "ko": "하지만 그 아이가 상상하는 '강한 검객'에 가장 가까운 사람은 아마 따로 있을 겁니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Another swordmancer of such ideals might exist, but you're definitely one of them.",
+      "zh-TW": "也許這樣的劍客不止一個，但你一定是其中之一。",
+      "zh-CN": "也许这样的剑客不止一个，但你一定是其中之一。",
+      "ja": "確かに、そういう剣客は1人だけじゃないかもしれない。でも、君は間違いなくその1人だよ。",
+      "ko": "그래요, 어쩌면 그런 검객은 한 명이 아닐지도 모르죠. 하지만 확실한 건, 명하 씨는 분명 그중 한 명일 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "You flatter me. I'm but a fortunate disciple of a true master, who taught me one of the many ways to engage with worldly affairs.",
+      "zh-TW": "不敢當，其實我也不過是有幸從一位老師那裡，學會了行於世間的一種方式罷了。",
+      "zh-CN": "不敢当，其实我也不过是有幸从一位老师那里，学会了行于世间的一种方式罢了。",
+      "ja": "いや、そんなことはない。俺もただ、ある師からこの世を歩く術を教わっただけだ。",
+      "ko": "과찬이십니다. 사실 저도 어떤 스승님께 세상을 살아가는 한 가지 방식을 배웠을 뿐입니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Since we are talking about the Swordmancers Leaderboard, from what I know, that master I've mentioned remains at the top of the charts.",
+      "zh-TW": "而且說到劍客排行榜，在我看來，其實第一位一直都沒變過，正是我的那位老師。",
+      "zh-CN": "而且说到剑客排行榜，在我看来，其实第一位一直都没变过，正是我的那位老师。",
+      "ja": "それに剣客ランキングなら、俺の1位はずっと変わらない。その師だ。",
+      "ko": "그리고 검객 순위 이야기가 나와서 말인데, 제가 볼 때 사실 1위는 한 번도 변한 적이 없습니다... 그건 바로 제 스승님이시죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "And I am fortunate enough to be a witness of truly impeccable swordmancy.",
+      "zh-TW": "而我有幸，早已見識過這位劍客那無可匹敵的一劍了。",
+      "zh-CN": "而我有幸，早已见识过这位剑客那无可匹敌的一剑了。",
+      "ja": "幸運にも、その比類なき「一剣」を目にした日から。",
+      "ko": "저는 운이 좋게도, 오래전에 그 검객이 휘두른 궁극의 '일검'을 직접 목격한 적이 있거든요."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0037_minghe_16403",
+   "topic": {
+    "en": "Ordinary Reunion",
+    "zh-TW": "重逢尋常如昨日",
+    "zh-CN": "重逢寻常如昨",
+    "ja": "再会は、昨日のように",
+    "ko": "다시 만나도 어제처럼 한결같이"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Endministrator, there is a small favor I wish to ask of you.",
+      "zh-TW": "管理員，我有個小請求。",
+      "zh-CN": "管理员，我有个小请求。",
+      "ja": "管理人、少し頼みたいことがある。",
+      "ko": "관리자님, 부탁드릴 게 하나 있습니다."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You need a favor? Is it a problem you can't fix?",
+         "zh-TW": "你也會遇到解決不了的事情嗎？",
+         "zh-CN": "你也会碰到解决不了的事情吗？",
+         "ja": "ミンホさんでも手に負えないことがあるんだね。",
+         "ko": "의외네요, 명하 씨가 해결 못 하는 일도 있나요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sure. Go ahead.",
+         "zh-TW": "是什麼事情呢？",
+         "zh-CN": "是什么事情呢？",
+         "ja": "どんなことかな。",
+         "ko": "무슨 일인가요?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "The request is not entirely my own.",
+      "zh-TW": "其實不完全是我個人的請求。",
+      "zh-CN": "其实不完全是我个人的请求。",
+      "ja": "俺個人の頼みというわけではないんだ。",
+      "ko": "사실 제 개인적인 부탁이라고 하기는 어렵습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "A few senior Tianshi from HAS HQ are heading to Wuling for official business. They hope they can meet you in the city during the visit.",
+      "zh-TW": "最近宏科院本部的天師前輩們要到武陵處理些事務，希望可以和您在武陵一見。",
+      "zh-CN": "最近宏科院本部的天师前辈们要到武陵处理些事务，希望可以和您在武陵一见。",
+      "ja": "近いうちに、宏科院本部から天師の先輩方が武陵を訪れるそうで、ぜひ管理人と面会したいと。",
+      "ko": "최근 홍산 과학원 본부의 천사 선배님들이 무릉에 가서 처리할 일이 생겼는데, 그때 관리자님을 무릉에서 한번 뵙고 싶어 하십니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Many of them fought by your side in the past, and have yearned for the visit after hearing of your awakening.",
+      "zh-TW": "不少前輩當年曾與您並肩作戰過，聽說您已經醒來，一直想來拜訪。",
+      "zh-CN": "不少前辈当年曾与您并肩作战过，听说您已经醒来，一直想来拜访。",
+      "ja": "昔、管理人と共に戦った方も多く、目を覚ましたと聞いたときから皆会いたがっていた。",
+      "ko": "그중에는 예전에 관리자님과 함께 싸웠던 선배님들도 꽤 계십니다. 관리자님께서 깨어나셨다는 소식을 들은 후로 계속 찾아뵙고 싶어 하셨다고 하네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Of course. But since we're meeting the Tianshi, will the discussion be work-related?",
+      "zh-TW": "當然可以。不過，既然是天師們來訪，是不是要聊跟工作有關的事？",
+      "zh-CN": "当然可以。不过，既然是天师们来访，是不是要聊和工作有关的事？",
+      "ja": "もちろんいいよ。でも、天師が来るなら仕事の話もするのかな。",
+      "ko": "그런 거라면 당연히 가능하죠. 그런데 천사님들이 찾아오시는 거라면, 업무와 관련된 이야기를 하시려는 건가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Hah. If the visit is work-related, I would have contacted Supervisor Perlica first pursuant to our official procedures.",
+      "zh-TW": "哈哈，若要談工作，我就會按照流程先行聯絡佩麗卡監督了。",
+      "zh-CN": "哈哈，若要谈工作，我就会按照流程先行联系佩丽卡监督了。",
+      "ja": "いや、もし仕事の話なら、正式な手順に従ってペリカ監察官に連絡する。",
+      "ko": "하하, 업무 이야기를 나누는 거라면, 절차에 따라 먼저 펠리카 감독관님께 연락드렸을 겁니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "They wish to meet both of us together. So the meeting will be ... their way of checking on us personally.",
+      "zh-TW": "這次想讓我們一同前往見面，其實更像是他們……私下的關心。",
+      "zh-CN": "这次想让我们一同前往见面，其实更像是他们……私下的关心。",
+      "ja": "今回、俺と一緒にと言っているのは、先輩方が……個人的に気にかけてくれているからだろうな。",
+      "ko": "이번에 이렇게 저도 불러서 함께 만나려는 건, 사실 그분들의... 사심에 더 가깝습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Checking on us personally? They sound like more than just your seniors at work.",
+      "zh-TW": "私下的關心？聽起來，他們不只是你工作上的前輩。",
+      "zh-CN": "私下的关心？听上去，他们不只是你工作上的前辈。",
+      "ja": "個人的に？じゃあ、その人たちは仕事上の先輩というよりは……",
+      "ko": "사심이요? 듣고 보니 그분들은 단순히 직장 선배만은 아닌 것 같네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "That is true. They are my parents' coworkers. But to me, they are more like doting relatives than senior colleagues at work.",
+      "zh-TW": "的確，他們是我父母的同僚，但對我來說，比起前輩，更像是家中親近的長輩。",
+      "zh-CN": "的确，他们是我父母的同僚，但对我来说，比起前辈，更像是家中亲近的长辈。",
+      "ja": "ああ、両親の同僚だったんだ。俺にとっては先輩というより、家族同然の存在と言っても良い。",
+      "ko": "네, 부모님의 동료분들이긴 하지만, 사실 제게는 선배님이라기보다는 가족처럼 가까운 분들입니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "When I was a boy, they would occasionally look after me when my parents were too busy with work.",
+      "zh-TW": "幼時父母工作繁忙，時不時還要麻煩他們幫忙照看一下我。",
+      "zh-CN": "幼时父母工作繁忙，时不时得麻烦他们帮忙照看一下我。",
+      "ja": "子供の頃は両親も忙しく、代わりに面倒を見てもらったこともあった。",
+      "ko": "제가 어렸을 때 부모님이 항상 바쁘셔서, 가끔 그분들께 저를 좀 돌봐 달라고 부탁드리곤 했거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "And I was a difficult brat. I created a fair share of mischief and it was thanks to them I grew up right.",
+      "zh-TW": "而且那時我常常闖禍，惹了不少麻煩，多虧了他們照拂。",
+      "zh-CN": "而且那时我常常闯祸，惹了不少麻烦，多亏了他们照拂。",
+      "ja": "俺は問題ばかり起こして、随分と面倒をかけたものだ。",
+      "ko": "게다가 그때의 저는 워낙 사고를 많이 치고 말썽을 부렸던 터라, 그분들이 안 계셨다면 이렇게 무사히 잘 자랄 수 없었을 겁니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I can't imagine you being a mischievous brat. I thought you'd be a well-disciplined kid wholly devoted to training and did nothing else...",
+      "zh-TW": "難以想像你闖禍的樣子。還以為你小時候會埋頭苦訓，完全不關心別的事……",
+      "zh-CN": "难以想象你闯祸的样子。还以为你小时候会埋头苦训，完全不关心别的事……",
+      "ja": "そんな姿は想像できないよ。脇目も振らず、黙々と鍛錬をしていそうなのに。",
+      "ko": "명하 씨가 사고를 치고 다녔다니, 상상이 잘 안되네요. 어렸을 때부터 머리를 박고 훈련만 하면서 다른 건 전혀 신경 쓰지 않았을 줄 알았는데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Oh yes. I was a spatula-mancer and tried to liberate as many pantails as I could so they could stop hiding in the dastardly trees.",
+      "zh-TW": "那時頑劣，用鍋鏟「練劍」，從樹上「救下」躲起來的小蟠獸之類的事沒少做。",
+      "zh-CN": "那时顽劣，用锅铲“练剑”，从树上“救下”躲起来的小蟠兽之类的事没少干。",
+      "ja": "子供の頃は少しやんちゃだったんだ。ヘラで剣の「稽古」をしたり、木の上の小さな蟠獣を「救出」したり……",
+      "ko": "그때는 꽤 말썽꾸러기였어요. 국자로 '검술 연습'을 한다거나, 나무에 숨어 있던 작은 판테일비스트를 '구해준다'거나... 그런 일은 셀 수 없이 많았답니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "True, there were daily exercises, but the time spent with my parents' coworkers ... remains something I remember fondly.",
+      "zh-TW": "日常訓練也有，不過比起那些，還是和前輩們一起的生活細節，我記得更清楚。",
+      "zh-CN": "日常训练也有，不过比起那些，还是和前辈们一起的生活细节，我记得更真切。",
+      "ja": "無論、鍛錬も積んでいた。だが、先輩方と過ごした何気ない日々のほうが、鮮やかに記憶に残っている。",
+      "ko": "물론 훈련도 했었죠. 하지만 그런 것보다는 선배님들과 함께 지냈던 소소한 일상들이 오히려 더 생생하게 기억에 남아 있습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "The Tianshi seem to be perpetually occupied by their research and work. Seeing them equally committed to life has left a lasting impression on me.",
+      "zh-TW": "也許正因為天師們平常總是忙於研究，所以展示出認真生活的一面時，才會讓我格外印象深刻。",
+      "zh-CN": "也许正因为天师们平日总忙于研究，所以展示出认真生活的一面时，才会让我格外印象深刻。",
+      "ja": "天師は普段、研究に打ち込んでいるからこそ、日々の暮らしを大切にする姿が印象に残ったのかもしれないな。",
+      "ko": "아마 천사님들이 평소에는 연구로 늘 바쁘시기 때문에, 열심히 일상을 살아가는 모습을 보여주셨을 때가 더욱 인상 깊게 남았던 것 같네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Speaking about work ... the HAS seniors are actually worried that you'd revert to your old self and become a relentless workaholic.",
+      "zh-TW": "說到忙碌……宏科院幾位熟悉您的前輩都很擔心您又像當年一樣，不眠不休地工作。",
+      "zh-CN": "说到忙碌……宏科院几位熟悉您的前辈都很担心您又像当年一样，不眠不休地工作。",
+      "ja": "忙しいといえば……先輩方は管理人のことを良く知っている分、また昔のように寝食を忘れて働いているのではと心配しているようだ。",
+      "ko": "바쁘다는 이야기가 나와서 말인데... 홍산 과학원에서 관리자님을 잘 아는 몇몇 선배님들이 관리자님이 예전처럼 주무시지도 않고 일에 매달리실까 봐 무척 걱정하고 계십니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "Now that I've joined Endfield, they have reminded me on countless occasions to give you sound advice on work-life balance.",
+      "zh-TW": "他們跟我提了好幾次，既然我加入了終末地，剛好可以找機會提醒您注意多注意休息。",
+      "zh-CN": "他们向我念叨了好几次，既然我加入了终末地，正好可以找机会提醒您注意劳逸结合。",
+      "ja": "俺がエンドフィールドに加わったと知って、「しっかり休むように伝えてほしい」と何度頼まれたことか。",
+      "ko": "제가 엔드필드에 합류했으니 마침 잘됐다며, 기회가 되면 관리자님께 \"일도 좋지만 적당히 쉬셔야 한다\"고 일러주라며 몇 번이나 당부하시더군요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Work-life balance? I don't think the advice is for me. From what I know, you've handled multiple emergency operations without break.",
+      "zh-TW": "需要休息的不只有我吧？據我所知，你已經連續處理好幾個緊急任務了。",
+      "zh-CN": "需要劳逸结合的可不只是我吧？据我所知，你已经连续处理好几个紧急任务了。",
+      "ja": "でも、ミンホさんだってここずっと緊急の任務が続いていたよね。",
+      "ko": "적당히 쉬어야 하는 건 저뿐만이 아니잖아요? 명하 씨도 최근에 벌써 긴급 임무를 몇 개나 연달아 처리했다고 들었는데요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "And this means we must take this opportunity and rest. My seniors will be incredibly pleased to meet you.",
+      "zh-TW": "那我們剛好趁著這個機會稍事休息。前輩們見到您，一定也都會很高興。",
+      "zh-CN": "那我们正好趁着这个机会稍事休息。前辈们见到您，一定也都会很高兴。",
+      "ja": "ならば、良い機会だ。2人で休もう。先輩方も、管理人に会えたらきっと喜ぶ。",
+      "ko": "그럼 이번 기회에 같이 좀 쉬어가면 되겠네요. 선배님들도 관리자님을 만나시면 분명 무척 기뻐하실 겁니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "This just reminded me of something. I wonder if it is possible to clear out some space in the office.",
+      "zh-TW": "忽然想起，還有一件事。不知您能不能在辦公室裡空出一塊大一點的空間？",
+      "zh-CN": "忽然想起，还有一件事。不知您能不能在办公室里腾出一块大一些的空间？",
+      "ja": "そうだ、もう一つ。執務室に、少し広めの場所を空けておいてもらえるだろうか。",
+      "ko": "아, 그리고 한 가지 더 말씀드릴 게 있습니다. 혹시 사무실에 조금 넓은 공간을 하나 마련해 주실 수 있을까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Clear out some space?",
+      "zh-TW": "大一點的空間？",
+      "zh-CN": "大一些的空间？",
+      "ja": "場所を空けておくって……？",
+      "ko": "조금 넓은 공간이요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "The HAS seniors have prepared quite a few local specialties. They requested my aid in carrying them to you.",
+      "zh-TW": "宏科院的各位準備了很多特產準備送給您，還囑託我幫忙搬運。",
+      "zh-CN": "宏科院的各位准备了很多特产打算送给您，还嘱托我帮忙搬运。",
+      "ja": "宏科院の皆が、管理人へのお土産を山ほど用意しているらしい。運び込むのも任されている。",
+      "ko": "홍산 과학원에서 관리자님께 드리려고 특산품을 잔뜩 준비했다고 합니다. 저한테도 같이 옮겨 달라고 하더군요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Argent Flow",
+      "zh-TW": "明河",
+      "zh-CN": "明河",
+      "ja": "ミンホ",
+      "ko": "명하"
+     },
+     "text": {
+      "en": "One of them even joked how you might end up reaching my size and height once you're done eating them.",
+      "zh-TW": "有位前輩還開玩笑說，等您吃遍宏山這十年來新出現的美食，說不定會變得跟我一樣高。",
+      "zh-CN": "有位前辈还打趣说，等您吃遍宏山这十年来新出现的美食，说不定会变得和我一样高。",
+      "ja": "ここ10年で宏山に増えた美食を全て食べたなら、管理人も俺と同じくらいまで背が伸びるかもしれない、と冗談を言う者までいた。",
+      "ko": "어떤 선배님은 농담으로 그러시더라고요. 어쩌면 관리자님이 지난 10년 동안 홍산에 새로 생긴 음식들을 전부 먹어 보고 나면, 저만큼 키가 커질지도 모른다고요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "What an exaggeration...",
+         "zh-TW": "這未免有點誇張了……",
+         "zh-CN": "这未免有点夸张了……",
+         "ja": "それはさすがに大げさじゃないかな……",
+         "ko": "그건 아무래도 좀 과장이 심한 것 같네요..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I'm looking forward to that.",
+         "zh-TW": "那我就要開始期待了。",
+         "zh-CN": "那我可开始期待了。",
+         "ja": "それはちょっと楽しみだ",
+         "ko": "그럼 기대하고 있을게요."
+        }
+       }
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "skipped": 1
+}

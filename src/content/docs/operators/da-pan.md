@@ -46,6 +46,8 @@ sources:
 
 Da Pan is a former Hongshan Academy of Sciences member and proud traveling chef who joined Endfield Industries' Specialist Tech Division as an independent.
 
+Files, voice lines and chats: [Da Pan's file](/story/da-pan/).
+
 ## How to obtain
 
 Da Pan has no rate-up banner. Da Pan is in the standard roster, which Basic Headhunting and every Chartered Headhunting pool draw from.

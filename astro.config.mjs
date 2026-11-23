@@ -13,7 +13,8 @@ export default defineConfig({
 	base: BASE || undefined,
 	trailingSlash: 'always',
 	// Content links are written without the sub-path; this adds it in the HTML.
-	markdown: { processor: satteri({ hastPlugins: [hastBase] }) },
+	// No smart quotes: story pages show the game's text with its own quote marks.
+	markdown: { smartypants: false, processor: satteri({ hastPlugins: [hastBase] }) },
 	integrations: [
 		// Added here so that it takes options; Starlight then leaves its own copy out.
 		sitemap(sitemapOptions()),
@@ -42,6 +43,12 @@ export default defineConfig({
 					translations: { 'zh-TW': '幹員', 'zh-CN': '干员', ja: 'オペレーター', ko: '오퍼레이터' },
 					collapsed: true,
 					items: [{ autogenerate: { directory: 'operators' } }],
+				},
+				{
+					label: 'Story',
+					translations: { 'zh-TW': '劇情', 'zh-CN': '剧情', ja: 'ストーリー', ko: '스토리' },
+					collapsed: true,
+					items: [{ autogenerate: { directory: 'story' } }],
 				},
 				{
 					label: 'Systems',

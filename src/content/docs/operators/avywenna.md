@@ -47,6 +47,8 @@ sources:
 
 Avywenna is a socially adept Armed Messenger who left a major logistics family in the Free City of Alloycarrot to travel Talos-II and eventually join Endfield Industries.
 
+Files, voice lines and chats: [Avywenna's file](/story/avywenna/).
+
 ## How to obtain
 
 Avywenna has no rate-up banner. Avywenna is in the standard roster, which Basic Headhunting and every Chartered Headhunting pool draw from.

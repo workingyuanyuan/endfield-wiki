@@ -1,0 +1,3391 @@
+{
+ "slug": "laevatain",
+ "gameId": "chr_0016_laevat",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Laevatain \nGENDER: Female \nAUTHENTICATION: Rhodes Island \nDOB: Same as the Endmin's \nRACE: Sarkaz \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Excellent \nCOMBAT SKILL: Standard \nTACTICAL ACUMEN: Standard \nORIGINIUM ARTS ASSIMILATION: Excellent \n\nNOTE: Our arsenal engineers must regularly inspect and repair the ring-like structure that she brought along — Krad, Endfield Security Professional",
+    "zh-TW": "【代號】萊萬汀\n【性別】女\n【身分認證】羅德島\n【生日】和管理員的一樣\n【種族】薩卡茲\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：優良\n作戰技巧：標準\n戰術規劃：標準\n源石技藝適應性：優良\n\n註：她隨身攜帶的環，需由武庫工程師定期檢查維護。——終末地安全專家 卡拉德",
+    "zh-CN": "【代号】莱万汀\n【性别】女\n【身份认证】罗德岛\n【生日】和管理员的一样\n【种族】萨卡兹\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：优良\n作战技巧：标准\n战术规划：标准\n源石技艺适应性：优良\n\n注：她随身携带的环，需由武库工程师定期检查维护。——终末地安全专家 卡拉德",
+    "ja": "【コードネーム】レーヴァテイン\n【性別】女\n【身分証明】ロドス・アイランド\n【誕生日】管理人と同じ\n【種族】サルカズ\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：優秀\n戦闘技術：標準\n戦術立案：標準\nアーツ適性：優秀\n\n注意：持ち歩いているリングは、定期的に武庫エンジニアによる点検とメンテナンスを受ける必要があります。――エンドフィールドセキュリティ専門家　クラッド",
+    "ko": "[코드네임] 레바테인\n[성별] 여\n[신분 인증] 로도스 아일랜드\n[생일] 관리자와 동일함\n[종족] 살카즈\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 우수\n작전 기술: 표준\n전술 계획: 표준\n오리지늄 아츠 적응성: 우수\n\n참고: 소지한 안드바리 링은 무기고 공학자가 정기적으로 점검 및 정비해야 함.\n- 엔드필드 보안 전문가 크래드"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Reconvener and Operator Laevatain joined Endfield with the Endministrator's direct recommendation. After acquiring her personal agreement, as well as approval from the HR Division and authentication from Rhodes Island, Laevatain joined Endfield as an operator under the direct command of the Endministrator. \n\nLaevatain arrived at the reception area a full 45 minutes ahead of the agreed-upon schedule. She simply placed the employment notification on the table and said little else except, \"I'm here. We can begin.\" \nShe was quite cooperative during the initial phase of the interview — giving her signature, submitting a retinal scan, and linking her Protocol Authority Level without a single fuss or comment. I tried to liven up the atmosphere by saying, \"Welcome to Endfield.\" She nodded and replied, \"I'm already here.\" \nDuring job-inclination testing, I followed the prescribed list of questions and asked if she considered utilizing her skill set in other non-combat roles, such as combat planner, coach, or instructor. She did not say anything but appeared obviously annoyed. \nIn the end, Operator Laevatain left with this final line: \"Just let me go to as many places you can — places that let me build as much memories as I can.\" \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "再旅者幹員萊萬汀，由管理員直接引薦加入。結合其本人意願，在得到人事部門同意及羅德島授權後，以管理員直屬幹員的身分入職終末地工業。\n\n萊萬汀比預約時間提前了整整四十五分鐘來到接待區，沒多說話，只是把入職通知放在桌上，說：「我到了，可以開始了。」\n開場流程她配合得很好——簽字、虹膜掃描、協議權限綁定，從頭到尾一句多餘的話都沒說。我嘗試用「歡迎來到終末地」來調節氣氛，她點了點頭，說：「我已經來了。」\n在職業傾向測試環節，我照例詢問她有沒有考慮過在更多非戰鬥崗位發揮作用，比如計劃制定、訓練教學等等，她露出了明顯不耐煩的表情。\n最後，萊萬汀幹員只留下一句話：「儘量讓我去更多的地方，那些可以留下更多回憶的地方。」\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "再旅者干员莱万汀，由管理员直接引荐加入。结合其本人意愿，在得到人事部门同意及罗德岛授权后，以管理员直属干员的身份入职终末地工业。\n\n莱万汀比预约时间提前了整整四十五分钟来到接待区，没多说话，只是把入职通知放在桌上，说：“我到了，可以开始了。”\n开场流程她配合得很到位——签字、虹膜扫描、协议权限绑定，从头到尾一句多余的话都没说。我尝试用“欢迎来到终末地”来调节气氛，她点了点头，说：“我已经来了。”\n在职业倾向测试环节，我照例询问她有没有考虑过在更多非战斗岗位发挥作用，比如计划制定、训练教学等等，她露出了明显不耐烦的表情。\n最后，莱万汀干员只留下一句话：“让我去尽量多的地方，那些可以留下尽量多回忆的地方。”\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "再旅者レーヴァテインは、管理人が直接推薦したことにより加入したオペレーターである。本人の希望を尊重し、人事部の同意およびロドスの承認を受け、管理人直轄のオペレーターとしてエンドフィールドに入職した。\n\n「レーヴァテインさんは予定時間より45分も早く接待スペースに現れ、入職通知書を机の上に置くと『もう着いた。始めていい。』とだけ仰ったのです。」\n「手続きには非常に協力的で、署名、虹彩認証、協約権限の登録といった一連の流れを、余計な言葉を発することなく進めてくださいました。場を和ませようと『エンドフィールドへようこそ』と声をかけたときも、『ああ。もう来たから。』と、軽く頷くだけでした。」\n「職業傾向性テストにおいては、フロー通りに戦闘以外の分野――例えば計画立案や訓練講師などに対する希望を伺ってみましたが、レーヴァテインさんは明らかに退屈そうな表情を浮かべていました。」\n「面談の最後、ただ一言だけを残しました。――『できる限り、いろんな場所に送って。思い出をたくさん残せる場所に。』」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "리컨비너 오퍼레이터 레바테인은 관리자의 직접 추천으로 엔드필드 공업에 합류했다. 본인의 의사와 인사 부서 및 로도스 아일랜드의 승인을 거쳐, 관리자의 직속 오퍼레이터 신분으로 정식 채용됐다.\n\n레바테인은 예정 시간보다 무려 45분이나 일찍 접수처에 도착했다. 별다른 말 없이 입사 통지서를 책상 위에 내려놓고, \"도착했다. 시작하지.\"라고만 말했다.\n입사 절차는 아주 성실하게 협조했다. 서명, 홍채 스캔, 프로토콜 권한 연동까지, 처음부터 끝까지 불필요한 말은 단 한마디도 없었다.\n분위기 풀어보려고 \"엔드필드에 오신 걸 환영합니다.\"라고 인사를 건넸지만, 그녀는 고개만 끄덕이며 \"이미 왔잖아.\"라고 답했다.\n직무 적성 검사 단계에서, 나는 평소처럼 그녀에게 기획, 훈련 교관 등 비전투 포지션에서 역량을 발휘할 생각은 없는지 물었지만, 그녀는 노골적으로 짜증 난다는 표정만 지었다.\n마지막으로, 오퍼레이터 레바테인은 한 마디만 남겼다.\n\"가능한 한 많은 곳에 보내줘. 많은 기억을 남길 수 있는, 그런 곳이라면 어디든 좋아.\"\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Endministrator and Supervisor Perlica of Endfield Industries: \nI am extremely pleased to learn that Laevatain has returned with the Endministrator's help. Though her journey is far from complete, her return proves that she has found a new objective and people whom she is willing to travel with. \nExtremely powerful \"desire and hope\" drove Laevatain to step onto the lands of Talos-II. When we first sensed her existence, the light she gave off was bedazzling. I later realized that this light was emitted by her obsession — her innermost ego demanding the answer: \"Who am I?\" \nLed on by the said obsession, the fragments awakened and created a complete persona. \"She\" walked out of the Originium Woods, new and intact, and arrived at Rhodes Island bearing the name \"Laevatain\". I thought she would immediately become one of our strongest assets and supporters, but she turned us down. Just like Surtr who had always walked alone, no one can command Laevatain or force her to stay in one place. She will answer to no faction until she finds the answer to dispel her own miasma of amnesia. Hence, we decided to open the doors and give her our best farewells. \nOnce, I was worried that Laevatain's choice would affect other reconveners. Then I realized that they became reconveners because every one of them did not forget the old dream and vision. And that is why they reconvened with you on this very same path. Now, this thought alone has lifted a stone off my chest. \nSince Laevatain is currently an official Endfielder fighting along your side, then allow me to share a few words of advice (based on my knowledge of \"her\") for \"getting along with her\". \nFirstly, accommodate and accept Laevatain's straightforward nature. She often says whatever that comes to her mind. It is not an act of hostility, malice, or rudeness. In fact, such words are a symbol of her sincere and undisguised attitude — \"I prefer to simply tell you what I'm thinking right now.\" \nSecondly, should Laevatain exhibit obvious signs of fury or impatience, do not attempt to persuade her to \"calm\" down. Believe me, there are more effective means, such as the provision of ice cream or other things that can rapidly \"cool\" the situation. Laevatain is someone you can communicate with, but she dislikes \"being told what to do\". \nJust as a side note, before she left Rhodes Island, she took all the crimsonberry ice cream from my lab freezer — and ate them all, right before my eyes, as though it was the right thing to do. \"Thought you told me memories can lie,\" she said as she licked the spoon, \"So I better have more of this to make it as memorable as possible.\" Laevatain marked her farewell with this action to ensure the veracity of the moment. She actually cares very deeply about her friends, far more deeply than most would like to think. \nThirdly, Laevatain is extremely similar to Surtr, but according to her temperament... Do not tell her that she resembles Surtr. Also, do not tell her that she DOES NOT resemble Surtr. In fact, do not ever compare her to Surtr, unless she brings the topic up herself. Always remember this! \nBest wishes in your collective journey across Talos-II. \n\nRhodes Island",
+    "zh-TW": "終末地工業的管理員、佩麗卡監督：\n很高興得知萊萬汀已經在管理員的幫助下回歸。她的旅程遠未結束，但這至少說明，她已找到了新的目標和願意同行的人。\n萊萬汀是被強烈的「願望」驅使而踏上塔衛二的。第一次察覺到她的存在時，那熾烈的光芒令人目眩。後來我意識到，那是她的內核——解答「我是誰」這個問題的執念——在閃耀著。\n在執念的牽引下，碎片甦醒為完整的人格，嶄新的「她」走出源石森林，以「萊萬汀」之名來到羅德島。我原以為她會馬上成為我們強大的支援，但被她拒絕了。如同特立獨行的史爾特爾一樣，她無法被引導，也不能被強留；在從失憶的迷瘴中找到答案之前，她不會屬於任何一方。因此，我們決定打開大門，送她遠行。\n我擔心過，萊萬汀的選擇會使其他再旅者動搖，但我也覺得，正因為他們每個人都尚未忘懷曾經的目標，才會成為「再旅者」，並與你們在同一條路上重逢。現在，這塊懸著的石頭終於落了地。\n既然她已經正式加入終末地，與你們並肩作戰，那根據我對「她」的瞭解，給你們一些「相處建議」吧。\n第一，坦然面對她的直率。她說話經常毫不修飾，那不是敵意，也不是厭惡，更不是無禮，這往往代表她最真誠的態度——「我願意直接告訴你我的想法」。\n第二，如果她真的表現出明顯的憤怒和不耐煩，不要試圖說服她「冷靜」。相信我，用點別的手段會更快見效。例如冰淇淋或其他能快速「降溫」的東西。她並非不能溝通的人，只是不喜歡「被教導」。\n順便一提，在離開羅德島前，她拿走了我實驗室冷藏櫃裡所有的猩紅莓果冰淇淋——而且還理直氣壯地在我面前吃完了。「你不是說記憶是會騙人的嗎？」她舔著湯匙說，「那我就多吃點，這樣留下的記憶才會更牢固。」這既是她的告別，也是對記憶最真誠的保存。她其實比大家想像的，還更在意眼前的人。\n第三，其實她和史爾特爾還蠻像的，不過以她的個性……請千萬、千萬不要在她面前說她像史爾特爾，也別說她不像史爾特爾，總之除非她主動提及，不要將二人相互比較。切記！\n願你們在塔衛二同行順利。\n\n羅德島",
+    "zh-CN": "终末地工业的管理员、佩丽卡监督：\n很高兴得知莱万汀已经在管理员的帮助下回归。她的旅程远未结束，但这至少说明，她已找到了新的目标和愿意同行的人。\n莱万汀是被强烈的“愿望”驱使而踏上塔卫二的。第一次察觉到她的存在时，那炽烈的光芒令人目眩。后来我意识到，那是她的内核——解答“我是谁”这个问题的执念——在闪耀着。\n在执念的牵引下，碎片苏醒为完整的人格，崭新的“她”走出源石森林，以“莱万汀”之名来到罗德岛。我原以为她会马上成为我们强大的支援，但被她拒绝了。如同特立独行的史尔特尔一样，她无法被引导，也不能被强留；在从失忆的迷瘴中找到答案之前，她不会属于任何一方。因此，我们决定打开大门，送她远行。\n我担心过，莱万汀的选择会使其他再旅者动摇，但我也觉得，正因为他们每个人都尚未忘怀曾经的目标，才会成为“再旅者”，并与你们在同一条路上重逢。现在，这块悬着的石头终于落了地。\n既然她已经正式加入终末地，与你们并肩作战，那根据我对“她”的了解，给你们一些“相处建议”吧。\n第一，坦然面对她的直率。她说话经常毫不修饰，那不是敌意，也不是厌恶，更不是无礼，这往往代表她最真诚的态度——“我愿意直接告诉你我的想法”。\n第二，如果她真的表现出明显的愤怒和不耐烦，不要试图说服她“冷静”。相信我，用点别的手段会更快见效。比如冰淇淋或者其他能快速“降温”的东西。她并非不能沟通的人，只是不喜欢“被教导”。\n顺带一提，在离开罗德岛前，她拿走了我实验室冷藏柜里所有的猩红莓果冰淇淋——而且还理直气壮地在我面前吃完了。“你不是说记忆会骗人的么？”她舔着勺子说，“那我就多吃点，这样留下的记忆才会更牢固。”这既是她的告别，也是对记忆最真诚的保存。她其实比大家想象的，还要在意眼前的人。\n第三，其实她和史尔特尔还挺像的，不过以她的个性……请千万、千万不要在她面前说她像史尔特尔，也别说她不像史尔特尔，总之除非她主动提及，不要将二人相互比较。切记！\n愿你们在塔卫二同行顺利。\n\n罗德岛",
+    "ja": "エンドフィールド管理人、ペリカ監察官へ――\nレーヴァテインが管理人の助力を得て無事帰還したと聞いた。妾も嬉しく思っておる。その旅路はまだ終わらぬだろうが、少なくとも今は、新たな目標と同行者を見つけたということだろう。\nあの娘は、強い「願い」に突き動かされてタロⅡへと足を踏み入れた。妾が初めて存在に気づいたとき、あの燃え上がる熱を帯びた光は、目を灼くほどのものであった。あとになってわかったことだが、あれこそがあの娘の核であり――「私は誰だ」という問いの答えを求める執念が輝いていたのだ。\nその執念に導かれ、欠片であった存在から、1つの人格として目覚めた。新しく生まれた「彼女」は源石森林を越え、「レーヴァテイン」という名を携えて、ロドスへとやってきた。すぐにこちらの頼もしい力となってくれるだろうと思っていたが、彼女はそれを断った。自由気ままなスルトと同様に、誰も彼女に道を示すこともできなければ、無理やり引き留めることもできない。失われた記憶という靄の中から自らの答えを見出すまではどこに属することもないのだろう。だから、彼女を旅立たせることにしたのだ。\nレーヴァテインの選択は、他の再旅者たちを動揺させるのではないかと懸念したこともあった。しかし、全員がかつての目標を忘れておらぬが故に、「再旅者」となって巡り合い、再び同じ道を歩んでいるのだとも思っておる。今ようやく、胸につかえていた懸念という岩が落ちたようだ。\n正式にエンドフィールドに加わり、そなたたちと共に戦うと決めたのならば、妾なりの「付き合いのアドバイス」をいくつか授けよう。\nまず、率直さを正面から受け止めることだ。レーヴァテインの飾らない言葉は、敵意でも、嫌悪でもなく、ましてや無礼でもない。ただありのまま――「自分の考えを伝える」という態度を誠実に示しているだけだ。\n次に、レーヴァテインが露骨に怒りや苛立ちを見せたなら、「落ち着け」と宥めようとしてはならない。絶対に逆効果だ。妾を信じるがよい。たとえば、アイスクリームなどの「温度を下げる」ものを使うのがいいだろうな。彼女は対話を拒む者ではない。ただ、「教育される」ことが何より嫌いなだけだ。\nちなみにロドスを発つ前、妾の研究室の冷蔵庫からクリムゾンベリー・アイスクリームを全部持ち出して、妾の目の前で堂々と完食していた。「記憶は人を欺く、そう言ったな。なら、たくさん食べよう。そうすれば、この記憶は確かなものになるから。」そう、スプーンをくわえながら言った。これは彼女なりの別れの挨拶で、本心から記憶を残したいという願いでもあったのだろう。皆が思うよりもずっと、目の前の者に心を向ける人物でもあるのだ。\nそして最後に、これは絶対に忘れてはいけない。レーヴァテインとスルトは確かに似ている部分もある。だが、彼女の前で「スルトに似ている」だの「似ていない」だの言ってはならぬ。自ら話題にしない限り、絶対に2人を比較しないことだ。肝に銘じておくように。\nでは、レーヴァテインとのタロⅡでの旅路が良きものとなるように願う。\n\nロドス・アイランド",
+    "ko": "엔드필드 공업의 관리자, 펠리카 감독관에게\n레바테인이 관리자의 도움으로 다시 돌아왔다는 소식을 들으니 기쁩니다. 그녀의 여정은 아직 끝나지 않았지만, 적어도 새로운 목표와 함께 걸어갈 동료를 찾았다는 뜻이니까요.\n\n레바테인은 강렬한 '소망'에 이끌려 탈로스 II에 발을 디뎠습니다. 처음 그녀의 존재를 알아챘을 때, 그 타오르는 듯한 빛은 눈이 부실 정도였습니다. 나중에서야 깨달았죠. 그것은 '나는 누구인가'라는 질문에 대한 해답을 찾으려는 그녀의 집념이 빛나고 있었던 것입니다.\n그 집념에 이끌려 흩어져 있던 조각들이 하나의 인격으로 깨어났고, 새로운 '그녀'가 오리지늄 숲을 걸어나와 '레바테인'이라는 이름으로 로도스 아일랜드에 도착했습니다. 원래는 그녀가 곧바로 우리의 강력한 전력이 되어줄 거라 생각했지만, 그녀는 거절했습니다. 마치 항상 홀로 다니는 수르트처럼, 레바테인은 이끌 수도, 강제로 어딘가 붙잡을 수도 없는 존재였습니다. 기억을 잃은 혼란 속에서 스스로 답을 찾기 전까지, 그녀는 그 어디에도 소속되지 않으려 했기에, 저희는 문을 열어 그녀를 보내주기로 결정했습니다.\n솔직히 걱정도 됐습니다. 그녀의 선택이 다른 리컨비너들의 의지를 흔들지 않을까. 하지만 생각해보면, 과거의 목표를 잊지 않았기 때문에 그들은 '리컨비너'로 불리는 것이고, 여러분과 같은 길에서 다시 만날 수 있었던 것이라 생각합니다. 이제, 마음속에 걸려 있던 돌이 드디어 내려앉은 기분입니다.\n그녀가 정식으로 엔드필드에 합류하여 여러분과 함께 싸우게 된 만큼, 제가 아는 '그녀'와 잘 지내는 데 도움이 될 만한 '약간의 조언''을 드리고자 합니다.\n첫째, 레바테인의 솔직함을 담담하게 받아들여 주세요. 그녀는 말을 꾸미거나 돌려서 말하지 않습니다. 그건 적의도, 혐오도, 무례함도 아닙니다. 오히려 '내 생각을 솔직하게 전하겠다'는 진실한 태도입니다.\n둘째, 만약 그녀가 노골적으로 분노나 짜증을 표출한다면 '진정하라'고 하지 마세요. 설득하려 들기보다, 차가운 아이스크림이나 금방 '열을 식힐' 수 있는 것들이면 훨씬 효과적일 겁니다. 소통이 불가능한 사람은 아니지만, '훈계받는 것'을 싫어할 뿐입니다.\n참고로, 로도스 아일랜드를 떠나기 전, 그녀는 제 실험실에 있는 모든 레드 베리 아이스크림을 꺼내가서 뻔뻔하게 다 먹어치웠죠.\n\"기억은 속일 수 있다면서?\"\n그녀는 숟가락을 핥으며 말했습니다.\n\"그럼 더 먹어둬야지. 그래야 이 기억이 더 오래 남을테니까.\"\n그녀에게 그것은 작별 인사이자, 기억을 가장 오래 보존할 수 있는 자신만의 방식이었습니다. 사실 그녀는 사람들이 생각하는 것보다 훨씬 더 눈앞의 사람들을 소중히 여깁니다.\n셋째, 사실 그녀는 수르트와 꽤 닮았습니다만, 절대 닮았다고 하지 마세요. 닮지 않았다고도 하지 마시고요. 어쨌든 그녀가 먼저 언급하지 않는 한, 두 사람을 비교하지 마세요. 명심하세요!\n\n탈로스 II에서의 여러분과 그녀의 여정이 순조롭길 기원합니다.\n로도스 아일랜드"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "DOCUMENT: Endfield Industries Medical Division Service Log \nAUTHOR: Dulla Gray, clinical psychologist \n\nLOG 1 \nSurgeon Answorth has been dispatched to the surface in response to an emergency. So, this is my first time providing psychotherapeutic services on my own ever since I joined Endfield. The details of the job is to provide psychological evaluations for an onboarding operator. I hope this is the start of a beautiful relationship between us. \n............ \nI've waited for six hours but the operator did not show up. \n\nLOG 2 \nI verified the records. Turns out the operator is a reconvener troubled by \"polymnestic disorders\". I remain the chief therapist in charge of this case. \nMy second meeting (which is technically the first, all facts considered) with Operator Laevatain was successful. I did the psychological evaluations that we missed last time, and she also explained why she failed to show up for that meeting. It appeared that she was deeply troubled and annoyed by certain nightmares. Hence, she chose to head to the surface and \"sort the feelings out\". With my encouragement, she agreed to describe her dreams to me. \n\nLaevatain dreamed of herself standing in a classroom. One by one her classmates introduced themselves on the stage. But when it was her turn, she tried to open her mouth but no voice came out. She tried again, but her throat began to hurt and she only managed to emit blurred, raspy noises. \nThe teacher turned around, but a raging flame danced where her face should be, \"You could not say it because you never had your own life.\" \nLaevatain tried to leave the classroom, only to find herself in a familiar yet alien-looking house. Everything around her was burning. The fire consumed the walls, the books, and the mirrors. Her classmates, friends, teachers, families, and even colleagues she met in Rhodes Island and Dijiang stood in the room, but all their faces were contortions of twisted flame and no longer recognizable. \nShe then ran for the door and forced her way through, only to find herself in the exact same house, also on fire. She ran again, opened the door, and saw the same thing. \nWith every door she went through, the room got smaller and the flames got closer. \nIn the end, she opened the final door and arrived at a room of ashes with neither fire nor smoke. She saw herself seated in the room, smiling at her: \n\"You finally burnt everything.\" \n\nLaevatain's recurring dream appears to be rooted in \"memories\" she has carried in her mind. Whether these are drawn from real experiences or mere illusions is unclear, but it seems she has been journeying with this burden for a long time. \n\nLOG 3 \nI tried prescribing several recommended therapies for Operator Laevatain but the results were less than ideal. After receiving suggestions from Surgeon Answorth, I asked Laevatain if she ever considered medical removal of these memories as the scenes and nightmares continue to affect her in an unabated fashion. \nShe pondered for a moment and denied this advice. \nSeveral days later, she described another dream to me. \n\nIn this dream, Laevatain woke up in a white world. The sky was clean and flawless, and the land seemed endless. \nShe walked for a long time without feeling the wind. She met no one, heard nothing, and saw no shadows. \nA door stood at the very end. Posted on the door was a note — Enter, if you do not wish to be anyone else. \nThere she stopped. She chose not to open the door. \n\nWhen the session ended, Operator Laevatain gave me a bunch of fiery red flowers — a token of gratitude for \"future sessions of memory-sharing\".",
+    "zh-TW": "《終末地工業醫療部門服務手記》\n記錄人：心理醫師杜拉·格蕾\n\n【紀錄一】\n安斯沃思醫生被緊急派往地面，所以這將是我入職終末地以來，第一次單獨提供心理支援服務，內容是為一名新加入幹員進行心理評估。希望這對我和她都是一個好的開始。\n…………\n等待了六個小時，那位幹員沒有出現。\n\n【紀錄二】\n我再次核對了資料，那位幹員是一名被「多重記憶混亂」所困擾的再旅者，以後還是由我來專門負責。\n和萊萬汀幹員的第二次（實際上可以說是初次）會面很順利，我們補上了未能進行的心理測試，她解釋了上一次失約的理由——那時她正被噩夢造成的煩躁情緒困擾，因此直接跑去地面「散散心」。在我的疏導下，她同意複述那些夢境。\n\n她夢見自己站在一間教室中，同學們依次上台介紹自己。輪到她上台時，張口，卻發不出聲音；再試，喉嚨發痛，最終只吐出模糊喑啞的音節。\n老師轉身，面容是一團騰躍的火焰：「你說不出來，因為你從來都不曾擁有自己的生活。」\n她嘗試離開教室，卻進入到另一間熟悉又陌生的屋子中，周圍的一切都在燃燒，火焰吞噬牆壁、書頁、鏡子。房間中還站著她的同學、朋友、師長和親人，甚至在羅德島和帝江號上結識的同僚，但那些人的面目也都被烈火扭曲，不堪辨認。\n她跑向門口，發現門後是同一間屋子——燃燒著的、她剛剛離開的那一間。再跑，再開門，仍然是同樣的景象。\n每一次，房間都變得更小，火焰離她更近。\n最後，她推開門，來到無火無煙、只餘一片灰燼的房間。房間正中央坐著另一個自己，對她微笑：\n「你終於把一切燒光了。」\n\n以上反覆出現的夢境，源自某些在她腦中盤桓已久的「記憶」，其真假已無從辨明。原來，她一直在與這樣的東西「同行」。\n\n【紀錄三】\n嘗試為萊萬汀幹員擬定了若干治療建議，但效果欠佳。在請示過安斯沃思醫生之後，我詢問萊萬汀幹員：如果困擾她的記憶和噩夢始終不可能停歇，是否考慮以醫療方法抹去這些記憶？\n她沉思片刻，給出了否定的答案。\n數日後，她向我講述了另一個夢境。\n\n她在一個白色的世界中醒來，天空純淨無瑕，地面一望無際。\n她走了很久，沒有風，沒有人，沒有聲音，也沒有影子。\n走到盡頭，那裡矗立著一扇門，門上寫著——如果你不想是任何人，請進去。\n她停下腳步。沒有選擇推開門。\n\n這次會面結束時，萊萬汀幹員贈予我一束火紅色的花，作為「日後繼續分擔這些記憶」的感謝。",
+    "zh-CN": "《终末地工业医疗部门服务手记》\n记录人：心理医师杜拉·格蕾\n\n【记录一】\n安斯沃思医生被紧急派往地面，所以这将是我入职终末地以来，第一次单独提供心理支援服务，内容是为一名新加入干员进行心理测评。希望这对我和她都是一个好的开始。\n…………\n等待了六个小时，那位干员没有出现。\n\n【记录二】\n我再次核对了资料，那位干员是一名被“多重记忆混乱”所困扰的再旅者，以后还是由我来专门负责。\n和莱万汀干员的第二次（实际上可以说是初次）会面很顺利，我们补上了未能进行的心理测评，她解释了上一次失约的理由——那时她正被噩梦造成的烦躁情绪困扰，因此径直前往地面“散了散心”。在我的疏导下，她同意复述那些梦境。\n\n她梦见自己站在一间教室中，同学们依次上台介绍自己。轮到她上台时，张口，却发不出声音；再试，喉咙发痛，最终只吐出模糊喑哑的音节。\n老师转身，面容是一团腾跃的火焰：“你说不出来，因为你从来都不曾拥有自己的生活。”\n她尝试离开教室，却进入到另一间熟悉又陌生的屋子中，周围的一切都在燃烧，火焰吞噬墙壁、书页、镜子。房间中还站着她的同学、朋友、师长、亲人，甚至在罗德岛和帝江号上结识的同僚，但那些人的面目也都被烈火扭曲，不堪辨认。\n她跑向门口，发现门后是同一间屋子——燃烧着的、她刚刚离开的那一间。再跑，再开门，仍然是同样的景象。\n每一次，房间都变得更小，火焰离她更近。\n最后，她推开门，来到无火无烟、只余一片灰烬的房间。房间正中坐着另一个自己，对她微笑：\n“你终于把一切烧光了。”\n\n以上反复出现的梦境，源自某些在她脑中盘桓已久的“记忆”，其真假已无从辨明。原来，她一直在与这样的东西“同行”。\n\n【记录三】\n尝试为莱万汀干员拟定了若干治疗建议，但效果欠佳。在请示过安斯沃思医生之后，我询问莱万汀干员：如果困扰她的记忆和噩梦始终不可能停歇，是否考虑以医疗方法抹去这些记忆？\n她沉思片刻，给出了否定的答案。\n数日后，她向我讲述了另一个梦境。\n\n她在一个白色的世界中醒来，天空纯净无瑕，地面一望无际。\n她走了很久，没有风，没有人，没有声音，也没有影子。\n走到尽头，那里矗立着一扇门，门上写着——如果你不想是任何人，请进去。\n她停下脚步。没有选择推开门。\n\n这次会面结束时，莱万汀干员赠予我一束火红色的花，作为“日后继续分担这些记忆”的感谢。",
+    "ja": "『エンドフィールド工業医療部診療記録』\n記録者：臨床心理士デュラ・グレイ\n\n【記録1】\nエインスワース先生は地上への緊急派遣対応中のため、今回のカウンセリングは、私がエンドフィールドに来てから初めて1人で担当することになる。新しく配属されたオペレーターの心理検査を行う予定だが、私にとっても、その方にとっても、いいスタートになることを願う。\n…………\n6時間待ったが、対象のオペレーターは来なかった。\n\n【記録2】\n資料を改めて確認した。今回のオペレーターは、「記憶多重化障害」に悩まされている再旅者で、今後は私が専任の担当として対応を続けることとなった。\nレーヴァテインさんとの2回目の面会は順調だった。（実際には、これが初めての面会ではあるが）前回実施できなかった心理検査も、今回ですべて行うことができた。前回来なかった理由も説明してくれた――あの日は悪夢による強い焦燥感に襲われ、そのまま地上に降りて「気分転換」をしていたとのことだ。今回のカウンセリングでは、夢の内容について話すことにも同意してくれた。\n\n夢の舞台は教室で、生徒たちが順番に壇上で自己紹介をしていく場面だったらしい。彼女の番が来たが、喋ろうとしても声が出ず、もう一度口を開くと喉が焼けるような痛みが走り、結局は掠れた声しか出せなかった。\n振り返った先生の顔は燃え上がる炎となり――「自分の人生がないから、答えられないんだ。」と言った。\n教室を飛び出そうとしたが、どこか見覚えがあるようで、どこか違うような感じがする部屋にたどり着いた。その部屋のすべてが燃えており、壁や紙、鏡が炎に飲み込まれていた。そこには、クラスメイトや友人、先生、家族、さらにはロドスや帝江号で出会った同僚たちの姿も見えたが、皆の顔が炎に包まれて歪み、誰が誰かはわからなくなっていた。\n彼女はドアに走ったが、その先もまた同じ燃える部屋で、何度ドアを開けても同じ景色が繰り返され――そこから逃げることができなかった。\nドアを開くたびに部屋は少しずつ狭くなり、炎もどんどん近づいてくる。\n最後にたどり着いた場所は、煙も炎もなく、灰だけが残る部屋だった。その部屋の真ん中にもう1人の自分が座っていて、笑いながらこう言ったそうだ――\n「やっとすべて燃やし尽くしたか。」\n\n繰り返し見るこの夢は、彼女の中に根深く残る「記憶」の影響によるものだと考えられる。ただ、その真偽は今となっては本人にも判別がつかないだろう。彼女は、そんなものとずっと共にいたのだ。\n\n【記録3】\nレーヴァテインさんにいくつか治療に関する助言をしたが、期待していたほどの効果は得られなかった。その後、エインスワース先生の見解も参考にしながら、この質問を投げかけてみた。「もし、あなたを苦しめている記憶や悪夢を止める方法が他にないとしたら、医療的な手段でその記憶を消してみるのはどうでしょうか？」\nしばらく沈黙した後、否定の言葉を返してくれた。\nそれから数日後、レーヴァテインさんはもう1つの夢について話してくれた。\n\n真っ白な世界で目を覚ますと、そこには澄みきった空が広がり、果てしなく大地が続く。\nただひたすら歩く。風もなく、人影もなく、音もない。\nやがて、地の果てにたどり着き、扉が現れた。そこにはこう書かれていた――誰にもなりたくないのなら、入るが良い。\nその言葉を前に足を止めたが、扉を開くことはなかった。\n\nこの面会の終わりに、レーヴァテインさんは私に、燃えるように鮮やかな赤い花を手渡してくれた。「これからも一緒に記憶を分かち合う」感謝の印として。",
+    "ko": "<엔드필드 공업 의료 부서 서비스 기록>\n기록자: 심리치료사 듀라 그레이\n\n[기록 1]\n앤즈워스 선생님이 급하게 지상으로 파견되면서, 이번 건은 내가 엔드필드에 입사한 이래 처음으로 단독 진행하는 심리 지원 서비스가 될 것이다. 내용은 신규 오퍼레이터의 심리 테스트다. 부디 나와 그녀, 우리 모두에게 좋은 시작이 되길.\n.......\n6시간을 기다렸지만, 해당 오퍼레이터는 나타나지 않았다.\n\n[기록 2]\n다시 자료를 확인한 결과, 해당 오퍼레이터는 '다중 기억 혼란'에 시달리는 리컨비너였으며, 앞으로도 내가 전담하기로 했다.\n오퍼레이터 레바테인과의 두 번째(사실상 첫 번째) 면담은 순조로웠다. 처음에 진행하지 못했던 심리 테스트를 마쳤고, 그녀는 지난번 면담에 오지 못한 이유를 설명해 주었다. 당시 악몽 때문에 몹시 초조하고 예민해져서, 그대로 지상에 '바람 쐬러' 갔었다고 한다. 내 상담을 통해, 그녀는 그 꿈들에 대해 이야기하는 데 동의했다.\n\n그녀는 꿈속에서 자신이 교실 한가운데 서 있었다고 한다. 학생들이 차례로 단상에 올라 자기소개를 했고, 그녀 차례가 되었을 때, 입을 열었지만, 아무 소리도 나오지 않았다고 한다. 다시 시도하니 목이 아파오고, 끝내 흐릿하고 쉰 소리만이 흘러나왔다고 한다.\n선생님이 돌아섰는데, 그 얼굴은 타오르는 불꽃 덩어리였고 '네가 말하지 못하는 건, 네가 한 번도 너만의 삶을 가져본 적이 없기 때문이다.'라고 했다고 한다.\n교실을 떠나려 했지만, 발을 들인 곳은 익숙하면서도 낯선 또 다른 방이었다. 사방이 불타고, 불길은 벽과 책장, 거울을 집어삼키고 있다고 한다. 방 안에는 같은 반 친구, 선생님, 가족, 심지어 로도스 아일랜드와 제강호에서 만난 동료들까지 있었고 그들 역시 불길에 휩싸여 얼굴을 알아볼 수 없었다고 한다.\n그녀는 문으로 달려갔지만, 문 너머엔 방금 나온 그 불타는 방이 다시 나타났고 계속 달리고, 또 문을 열어도 똑같았다. 갈수록 방은 점점 작아지고, 불길은 점점 더 가까워졌다. 마지막으로 그녀가 도착한 방에는 불도 연기도 사라져서 재만 남아있었다고 한다.\n방 한가운데에는 또 다른 '자기 자신'이 앉아 미소를 짓고 있었고 \"드디어 다 태워버렸구나\"라고 말했다고 한다.\n\n이 반복되는 악몽은 오래전부터 그녀의 머릿속을 떠돌던 정체불명의 '기억'에서 비롯된 것이지만, 그 기억이 진실인지 아닌지는 알 수 없었다. 그녀는 줄곧 이런 것들과 '함께' 살아가고 있었던 것이다.\n\n[기록 3]\n레바테인을 위해 몇 가지 치료 제안을 시도해봤지만, 효과는 미미했다. 의사인 앤즈워스 선생님에게 보고한 뒤, 나는 그녀에게 물었다. 만약 당신을 괴롭히는 기억과 악몽이 결코 사라지지 않는다면, 의학적 방법으로 그 기억을 지우는 것을 고려해 볼 의향이 있냐고.\n그녀는 잠시 고민하다 제안을 거절했다.\n며칠 뒤, 그녀는 또 다른 꿈 이야기를 나에게 들려주었다.\n\n온통 하얀 세계에서 그녀는 눈을 떴다. 하늘은 티 없이 맑고, 땅은 끝없이 펼쳐져 있었다. 오랫동안 걸었지만 바람도, 사람도, 소리도, 그림자도 없었다. 길의 끝에 다다르자 문이 하나 있었고, 그 문 위에는 이렇게 쓰여 있었다. '아무도 되고 싶지 않다면 들어가시오.' 그녀는 발걸음을 멈추고 그 문을 열지 않았다고 한다.\n\n이번 면담이 끝날 때, 레바테인은 내게 불꽃처럼 붉은 꽃다발을 건네줬다. '앞으로도 이 기억을 함께 짊어진 것'에 대한 감사의 의미로."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "DOCUMENT: Combat Adaptation Test Records (ID: L-067) \nCANDIDATE: Laevatain (reconvener) \nMONITOR: Krad (Endfield Security Professional) \nOS: S7 Combat Simulation System \nCONTENTS: Mass suppression and precision strikes \nDURATION: 3 minutes 42 seconds \nRESULTS: Pass (conditional) \n\nTEST SUMMARY \nAt the 7th second of Phase 1, Operator Laevatain summons a giant flaming blade with one hand (no equipment ID identified; said blade is likely created by Laevatain's Originium Arts) and charges directly into the center of the simulated enemy group before verbal instructions were given nor confirmed. \nAt the 31st second, thermal readings exceeded simulation environment monitoring thresholds. System automatically activates anti-heat measures. Security Professional Krad requests to stop the test but Operator Laevatain denies the request. \nAt the 1-minute and 24-second mark, Operator Laevatain had destroyed all enemy units and assumed a standing pose in the center of the simulation area, while adjusting her breathing after a high-intensity burst of activities. \nCombat resumed after 38 seconds to initiate Phase 2. Test item \"Stationery Suppression\" was initiated. The operator's performance was far more extreme than Phase 1 and the entire test was completed after 1 minute and 40 seconds. \n\nBEHAVIORAL SUMMARY \nCombat style is highly aggressive and prioritizes breaking the stalemate with overwhelming force. \nPrefers seizing combat initiative instead of focusing on tactical coordination. Willingness to support teamwork is unstable. \nWeapon efficacy is significantly improved at emotional thresholds. Effects include spreading fire, localized scorch marks, and signal interference. \n\nTEST REVIEW \nShe is incredibly powerful but has yet to build up the mental fortitude to master it. She does not enjoy destruction, but uses combat as a means to vent her emotions and prove her existence. She must learn how to restrain herself and bring that instability under control — master the fire, but don't become the fire. If she loses her connection to medic or support operators in the team, no one would be able to save her. \n— Evaluations by Krad, Security Professional \n\nI don't think you gave me this test to see if I can still fight. You wanted to know if I would \"lose control\", right? Don't worry ... I know exactly what I'm doing. \n— Comments from Operator Laevatain \n\nNOTE: New thermal insulation must be installed in the combat testing area. If there is another test, also prepare 3 servings of Coolant Beverages. \n\nDOCUMENT: Post-Operational Summary (ID: SU-58R-TR) \nDuring this combat operation, Operator Laevatain charged into the enemy on her own accords at the initial stages of battle, and did not respond to tactical calls from her team. Her actions temporarily severed communications, disrupted the chain of command, and caused momentary panic amongst team members. Fortunately, the team did not suffer any casualties. \nWhen the operation ended, analyses of residual energy traces and tactical dataloggers confirmed that Operator Laevatain successfully diverted the focus of enemy fire toward herself with these means: deliberate exposure of her own position and continuous emission of super hot flames that disrupt enemy defenses. In other words, she used herself as a lure to create a tactical breach and allowed our attacking operators to exploit the opening and achieve our tactical objectives. \nUpon concluding the operation, Operator Laevatain sat on a cooled fragment of molten rock. Burn marks in the vicinity suggested that this area was subjected to extremely intensive strikes. Laevatain said nothing as we surveyed the battlefield. After ascertaining that all other operators were well, she softly said, \"Good.\"",
+    "zh-TW": "《戰鬥適應性測試紀錄》（檔案編號：L-067）\n【測試者】萊萬汀（再旅者）\n【監測員】卡拉德（終末地安全專家）\n【測試系統】S7戰鬥模擬系統\n【測試內容】群體壓制、精準打擊模擬\n【測試時長】3分42秒\n【測試結果】通過（有條件）\n\n【紀錄摘要】\n第一階段測試開始後第7秒，幹員萊萬汀即單手喚出火焰巨劍（無裝備識別編號，推測為其個人源石技藝衍生物），未作指令確認，直接衝入模擬敵群核心。\n熱能讀數在31秒時突破測試場閾值，系統自動啟動高溫應對程序。安全專家卡拉德要求中止測試，被幹員萊萬汀拒絕。\n1分24秒，幹員萊萬汀全毀敵方單位，並在戰場中央以站立姿態調整呼吸，調節高強度爆發後的狀態。\n38秒後恢復戰鬥，進入第二階段測試，開始執行「定點壓制」階段。其表現較第一階段更加激進，於1分40秒後完成測試。\n\n【行為總結】\n作戰風格呈現顯著進攻性，優先以力破局。\n以主動戰鬥代替戰術協同，團隊配合意識不穩定。\n情緒接近臨界時會大幅激化武器效能，表現為外焰擴散、局部灼痕、訊號干擾等現象。\n\n【測試簡評】\n她很強，但尚未具備對應的心理建設。她並非享受毀滅，而是用戰鬥宣洩情緒，確認自己的存在。她必須從這種不穩定的狀態中學會自我約束——控制火，而不是成為火。否則，一旦與醫療人員和掩護人員脫節，誰都救不了她。\n——安全專家卡拉德評語\n\n你們讓我來測試不是為了確定「我還能不能打」，而是想知道「我會不會失控」？放心吧……我分得清。\n——幹員萊萬汀自述\n\n【附註】戰鬥測試區域需重新鋪設耐高溫層，如有下一次測試，需準備「冷卻劑飲品」三份。\n\n《行動簡報補錄》（檔案編號：SU-58R-TR）\n在本次戰鬥行動中，作戰成員萊萬汀於戰鬥初期選擇獨自突進，未回應隊內戰術訊號。此舉一度導致通訊中斷，指揮鏈混亂，並引發隊員間短暫的恐慌，所幸未造成減員。\n行動結束後，根據殘留能量痕跡與戰術記錄儀分析可確認，萊萬汀幹員採取主動暴露位置、持續釋放高熱能火焰干擾敵方布防的方式，成功引誘敵方火力向其轉移。她以自身為誘餌製造突破口，掩護主攻幹員滲透，成功達成戰術目標。\n行動結束後，萊萬汀幹員獨自坐於熔岩殘渣旁，周圍焦痕表明其所處區域曾承受高密度打擊。檢視戰場期間她未發一言，僅在確認其他幹員無恙後，低聲說了一句：「那就好。」",
+    "zh-CN": "《战斗适应性测试记录》（文件编号：L-067）\n【测试者】莱万汀（再旅者）\n【监控员】卡拉德（终末地安全专家）\n【测试系统】S7战斗模拟系统\n【测试内容】群体压制、精准打击模拟\n【测试时长】3分42秒\n【测试结果】通过（有条件）\n\n【记录摘要】\n第一阶段测试开始后第7秒，干员莱万汀即单手唤出火焰巨剑（无装备识别编号，推测为其个人源石技艺衍生物），未作口令确认，直接冲入模拟敌群核心。\n热能读数在31秒时突破测试场阈值，系统自动启动高温应对程序。安全专家卡拉德要求中止测试，被干员莱万汀拒绝。\n1分24秒，干员莱万汀全毁敌方单位，并在战场中央以站立姿态调整呼吸，调节高强度爆发后的状态。\n38秒后恢复战斗，进入第二阶段测试，开始执行“定点压制”环节。其表现较第一阶段更加激进，于1分40秒后完成测试。\n\n【行为总结】\n作战风格呈现显著进攻性，优先以力破局。\n以主动战斗代替战术协同，团队配合意识不稳定。\n情绪接近临界时会大幅激化武器效能，表现为外焰扩散、局部灼痕、信号干扰等现象。\n\n【测试简评】\n她很强，但尚未具备相应的心理建设。她并非享受毁灭，而是用战斗宣泄情绪，确认自己的存在。她必须从这种不稳定的状态中学会自我约束——控制火，而不是成为火。否则，一旦与医疗人员和掩护人员脱节，谁都救不了她。\n——安全专家卡拉德评语\n\n你们让我来测试不是为了确认“我还能不能打”，而是想知道“我会不会失控”？放心吧……我分得清。\n——干员莱万汀自述\n\n【附注】战斗测试区域需重新铺设耐高温层，如有下一次测试，需准备“冷却剂饮品”三份。\n\n《行动简报补录》（文件编号：SU-58R-TR）\n在本次战斗行动中，作战成员莱万汀于战斗初期选择独自突进，未响应队内战术信号。此举一度导致通信中断，指挥链混乱，并引发队员间短暂的恐慌，所幸未造成减员。\n行动结束后，根据残留能量痕迹与战术记录仪分析可确认，莱万汀干员采取主动暴露位置、持续释放高热火焰干扰敌方布防的方式，成功引诱敌方火力向其转移。她以自身为诱饵制造突破口，掩护主攻干员渗透，成功达成战术目标。\n行动结束后，莱万汀干员独自坐于熔岩残渣旁，周围焦痕表明其所处区域曾承受高密度打击。检视战场期间她未发一言，仅在确认其他干员无恙后，低声说了一句：“那就好。”",
+    "ja": "『戦闘適性テスト記録』（ファイル番号：L-067）\n【参加者】レーヴァテイン（再旅者）\n【監督】クラッド（エンドフィールドセキュリティ専門家）\n【測定用システム】S7戦闘シミュレーションシステム\n【測定内容】範囲制圧、精密打撃シミュレーション\n【測定時間】3分42秒\n【測定結果】合格（条件付き）\n\n【記録摘要】\n第一段階開始から7秒後、レーヴァテインは片手で火炎の巨剣を召喚（装備識別コードなし。当人によるアーツ造物と判断）し、こちらに確認せず、そのままシミュレーション内の敵群に突入した。\n熱エネルギーの数値は31秒時点で測定現場の耐熱上限を突破し、システムは自動的に高温対策プログラムを起動。セキュリティ専門家クラッドが測定中止の提案をしたが、レーヴァテインはそれを拒否した。\n1分24秒、敵ユニットをすべて殲滅後、レーヴァテインは戦場の中央に立って呼吸を整え、短時間での高火力展開に伴う状態の調整を行った。\nその38秒後、戦闘を継続し、測定は第二段階「固定位置の制圧」パートへ移行。当人のパフォーマンスは第一段階よりさらに攻撃的なものになり、1分40秒後に測定全体を完了した。\n\n【戦闘対応総評】\n戦闘スタイルは攻撃傾向が顕著であり、状況の打開に対し力による突破を最優先とする。\n戦術的連携よりも、単独での積極的な交戦を好む。チームワークに対する意識は不安定である。\n感情が臨界点に近づくにつれ、武器性能が著しく強化される。火炎の拡散、焼痕の残留、さらには信号干渉などの現象が確認されている。\n\n【測定評価】\nレーヴァテインは確かに強い力を持っていますが、心理的にまだ未熟なところがあります。彼女は破壊を楽しんでいるわけではありませんが、戦いの中で感情を発散し、自分の存在を確かめているのです。不安定な心を律し、火そのものから、火を制する術を身につける――さもなければ、もし医療スタッフや援護班とはぐれてしまった場合、誰一人、彼女を救うことができなくなります。\n――セキュリティ専門家クラッドの評価\n\n私を呼んだのは「戦えるかどうか」を試すためじゃない。「制御を失う可能性があるか」、それを知りたいんだな。安心して。ちゃんとわかってる。\n――レーヴァテインのコメント\n\n【追記】戦闘測定現場は、耐熱層の再施工が必要だ。次回も同様の測定を実施する場合は、「冷却剤ドリンク」を3本用意しておいたほうがいいだろう。\n\n『行動報告追録』（ファイル番号：SU-58R-TR）\n本作戦行動において、レーヴァテインは戦闘開始の初期段階で単独で前方へ突進し、チーム内の戦術サインには反応しなかった。この行動により通信が一時的に途切れ、指揮系統に混乱が生じ、隊員間でも多少の混乱が発生した。幸い、人員的な被害は確認されていない。\n行動終了後、残留エネルギーの痕跡および戦術記録装置の解析から、レーヴァテインは自らの位置を晒し、高熱の火炎を継続的に放つことで敵の防御に干渉し、敵の攻撃を自身に集中させていたことが判明した。自分を囮にすることにより、切り込み役のオペレーターは無事に潜入を果たし、戦術目標を達成した。\n作戦終了時、レーヴァテインはマグマの残滓のそばに1人で座り込み、周囲に残る焼痕からは、その場所が集中的な攻撃を受けたことが伺えた。戦場の確認中、彼女は終始無言であり、他のオペレーターの無事を確認した後に、ただ小さく呟いた。「それなら、良かったよ」と。",
+    "ko": "<전투 적응성 테스트 기록> (문서 번호: L-067)\n[테스트 대상] 레바테인 (리컨비너)\n[테스트 담당자] 크래드 (엔드필드 보안 전문가)\n[테스트 시스템] S7 전투 시뮬레이션 시스템\n[테스트 내용] 다수 제압, 정밀 타격 시뮬레이션\n[테스트 시간] 3분 42초\n[테스트 결과] 조건부 통과\n\n[기록 요약]\n1단계 테스트 시작 7초 후, 오퍼레이터 레바테인은 한 손으로 거대한 화염 대검을 소환(장비 식별 번호 없음, 개인 오리지늄 아츠 파생물로 추정), 구두 확인 절차 없이 즉시 시뮬레이션 적군 중심부로 돌진함.\n31초경, 열에너지 수치가 테스트 구역 임계치 돌파, 시스템이 자동으로 고온 대응 프로그램을 가동함.\n보안 전문가 크래드가 테스트 중단을 요청했으나, 오퍼레이터 레바테인이 이를 거부함.\n1분 24초, 오퍼레이터 레바테인이 적을 모두 전멸시키고, 전장 중앙에 선 자세로 호흡을 조절하며 고강도 전투 후의 상태를 가다듬음.\n\n38초 후 전투에 복귀하여 2단계 테스트 진입, '거점 제압' 항목 수행 시작. 1단계보다 더 공격적인 모습을 보였으며, 1분 40초 만에 테스트를 완료함.\n[행동 요약]\n전투 스타일은 현저한 공격성을 보이며, 힘으로 국면을 타개하는 것을 선호함.\n전술적 협동 대신 능동적인 단독 전투를 선호하며, 팀워크 의식이 불안정함.\n\n감정이 격해지는 경우 무기 효과가 급격히 증가함. 화염이 확산되며, 부분적 화상 흔적이 퍼지고, 통신 신호 간섭 등 현상이 발생함.\n[테스트 총평]\n레바테인은 강하지만 그 힘에 걸맞는 마음가짐이 아직 갖춰지지 않았다. 파괴를 즐기는 건 아니지만, 전투를 통해 감정을 분출하고 자신의 존재를 확인하려고 하는 모습을 보인다.\n\n이런 불안정한 상태에서 스스로를 제어하는 법을, 즉 '불을 통제하는 법'을 배워야지, '불 그 자체'가 되어서는 안 될것이다. 그렇지 않으면 의료팀 및 엄호 인력과 떨어지는 순간, 누구도 그녀를 구할 수 없을 것이다.\n- 보안 전문가 크래드\n\n\n날 테스트하는 건 '내가 싸울 수 있는지'를 확인하려는 게 아니라, '내가 통제 불능이 될지'를 알고 싶은 거잖아? 걱정 마... 그 정도는 나도 구분하니까.\n- 오퍼레이터 레바테인 본인 진술\n\n[추가 사항]\n테스트 구역의 내열층을 재시공해야 함.\n만약 다음 테스트를 진행한다면, '냉각제 음료' 3개를 준비할 것.\n\n<작전 간략 보고 추가 기록> (문서 번호: SU-58R-TR)\n이번 작전에서 오퍼레이터 레바테인은 교전 초반 단독 돌진을 했으며, 팀 전술 지휘에 응답하지 않았다. 이로 인해, 한때 통신이 두절되고, 지휘 체계에 혼란이 왔으며, 일부 팀원들이 잠시 동요했으나 다행히 인명 피해는 없었다.\n작전 종료 후, 남은 에너지 흔적 및 전술 기록 영상 분석 결과, 레바테인 오퍼레이터는 의도적으로 위치를 노출하고 지속적으로 고열의 화염을 방출해 적의 방어선을 교란하는 방식으로, 적의 화력을 자신에게 유도하는 데 성공했다. 자신을 미끼로 삼아 돌파구를 만들었으며, 결과적으로 주력 오퍼레이터들이 침투에 성공하며 전술 목표를 완수할 수 있었다.\n작전 종료 후, 레바테인 오퍼레이터는 용암 잔해 곁에 홀로 앉아 있었으며, 주변은 고밀도 공격을 받은 흔적으로 가득했다. 작전 현장을 정리하는 동안 그녀는 한마디도 하지 않았고, 다른 팀원들의 무사함을 확인한 뒤에야 조용히 \"그럼 됐어.\"라고 말했다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "Regular Work Report for Operators Under the Endministrator \nREPORTED BY: Laevatain \n\nI escorted the messenger to this volcanic basin. Molten lava flowed through the ground beneath our feet, heating the rain and creek, causing the earth to froth and bubble endlessly. The monitoring station stood right atop this \"cauldron of living soup\". \nThis place is extremely poor in Originium. Resident scientists rely on geothermal heat to cook food. A ration tin can be cooked through simply by burying it in the dirt for an hour. They even have \"pocket stews\": a liquid stock and other ingredients sealed in a food-grade bag — after quick cooking, you can just tear it open with your teeth. I got a face full of hot stew once, and it felt like I was on fire. \nWhen I had my first meal, the scientist taught me to sing their \"ritual\" chant: \"May your soup never spill, and may your flame never die.\" \nI sang the chant with him. It was the first time I received a stranger's blessing on Talos-II. \n— Sent from Monitoring Station 34 \n\nAs the Operator closest to the incident and the most capable emergency responder, I was ordered to reach the UWST base not marked on the map with the greatest speed I could muster. \nThe issue was not complicated. Just an unexpected blast furnace malfunction, shutdown, and loss of power. I spent a bit of my powers and helped them re-ignite the core. Temperature returned to operational levels and the system was restored. The crisis was temporarily averted. \nTheir \"names\" left quite an impression on me. The place was a secret base in the frigid lands of █████, usually referred to by its unique beacon code. Everyone there was forbidden from using their real names or any self-chosen codenames; only the \"assigned\" name was allowed. \nMy temporary name here was \"Olga Randall\". I was told there were three others before me with the same name, and it's likely that the next replacement actuary sent here will also take on this name. \nIt was a strange experience. I was just a temporary user of the name \"Olga Randall\". It felt similar to the memory fragments swimming in my mind. Neither the name nor the fragments were truly mine, but at that very moment, they were all part of me. \n— Sent from UWST Beacon DAU.14 \n\nAfter eliminating the Aggelos camping in the freight station, I reopened the gate that had kept the tunnel sealed for quite a while. \nThey maintained a low gravity environment within the tunnels. Refugees, trapped here for months, floated their way to the exit, trembling and struggling as they left the place. They must relearn how to walk and run under the ponderous influence of gravity. \nBut there was a little girl who floated within the tunnels and danced for a bit before leaving the place. She told me it was how she kept herself calm and sane when they were trapped in this place. \nI memorized her dance, a comforting yet powerful routine of rhythms. If you want, I can show it to you and let you have a go once I head back. The moves aren't hard. It's all about the breathing and the rhythms. \n— Sent from freight nexus MC-20 \n\nI've made plenty of new memories during this time. I still remember that you're chasing after your own memories as well. I found a few places related to the old \"you\". Seek me out if you're interested. \n— Emergency message, sent from Contact Point 084A",
+    "zh-TW": "【直屬幹員定期工作彙報】\n彙報人：萊萬汀\n\n我護送信使來到了這個火山盆地。滾燙的岩漿被封在腳底下，加熱雨水與溪流，讓地面不停地輕輕冒泡，觀測站就坐落在這口「活著的湯鍋」上。\n源石在這裡很稀缺，駐守的研究人員靠地熱來烹飪食物：糧食罐頭埋在地裡不到一小時就能熟。還有「口袋燉菜」，他們把湯和佐料一股腦倒進食用口袋裡——片刻之後，用力咬開，熱流直衝腦門，燙得我像在噴火。\n吃第一頓飯時，研究員教我用他們的「儀式」吟唱：「願你的湯不灑，願你的火不滅。」\n我跟他唱了。這是我在塔衛二第一次被陌生人祝福。\n——傳送自34號觀測站\n\n作為離事發地點最近、有能力回應緊急呼救的幹員，我被要求以最快的速度抵達這座未標示在地圖上的工團基地。\n問題並不複雜。高爐發生故障後熄火，失去了動力。我稍微花費了點力氣，幫他們重新點燃了核心。溫度回升，系統復原，暫時渡過了危機。\n給我留下難忘印象的，是他們的「名字」。這是一座秘密基地，位於嚴寒的█████，平常只能以特殊信標代碼稱呼它。在這裡的每一個人，都被禁止透露自己的真實姓名，也不允許隨意取代號，只能使用被「分配」的名字。\n我在這裡的臨時名字是「奧列加·朗道」。據說在此之前，這個名字已經經歷了三個主人，而在我之後，它會被賦予遞補派來的下一任計算員。\n奇妙的體驗。對「奧列加·朗道」這個名字而言，我只是它片刻的使用者。就像腦海中那些支離破碎的記憶，它們或許不屬於我，在當下，卻又暫時地構成了我。\n——傳送自聯盟工團信標DAU.14\n\n解決了盤踞在貨運中繼站的天使之後，我重新打開了這條隧道緊閉已久的大門。\n隧道裡維持著失重環境，那些被困了幾個月的避難者們紛紛飄到出口，然後顫顫巍巍地離開——他們得重新學習在沉重的引力下走路。\n不過有一個女孩，她浮在隧道中間，自顧自跳了一段舞蹈後才出去。她告訴我，這是在被困的時間裡保持心態平靜的方式。\n我記下了她的舞步，兼具舒緩與有力的韻律。如果你願意，我回去後，可以帶你試試。動作不難，重點是呼吸和節奏。\n——傳送自MC-20貨運樞紐\n\n這段時間裡，我有了很多新的記憶。我還記得，你也正在追尋自己的記憶。我發現了一些地方，和曾經那個「你」有關。感興趣的話，可以直接來找我。\n——加急訊息，傳送自084A聯絡點",
+    "zh-CN": "【直属干员定期工作汇报】\n汇报人：莱万汀\n\n我护送信使来到了这个火山盆地。滚烫的岩浆被封在脚底下，加热雨水与溪流，让地面不停地轻轻冒泡，监测站就坐落在这口“活着的汤锅”上。\n源石在这里很稀缺，驻守的研究员靠地热来烹饪食物：口粮罐头埋在地里不到一小时就能熟。还有“口袋炖菜”，他们把汤和佐料一股脑倒进食用口袋里——片刻之后，用力咬开，热流直冲脑门，烫得我仿佛在喷火。\n吃第一顿饭时，研究员教我用他们的“仪式”吟唱：“愿你的汤不洒，愿你的火不灭。”\n我跟他唱了。这是我在塔卫二第一次被陌生人祝福。\n——发自34号监测站\n\n作为离事发地点最近、有能力响应紧急呼救的干员，我被要求以最快的速度抵达这座未标示在地图上的工团基地。\n问题并不复杂。高炉发生故障后熄火，失去了动力。我稍微花费了点力气，帮他们重新点燃了核心。温度回升，系统复位，暂时渡过了危机。\n给我留下难忘印象的，是他们的“名字”。这是一座秘密基地，位于严寒的█████，平时只能以特殊信标代码称呼它。在这里的每一个人，都被禁止透露自己的真实姓名，也不允许随意起代号，而只能使用被“分配”的名字。\n我在这里的临时名字是“奥列加·朗道”。据说在此之前，这个名字已经经历了三个主人，而在我之后，它会被赋予递补派来的下一任计算员。\n奇妙的体验。对“奥列加·朗道”这个名字而言，我只是它片刻的使用者。就像脑海中那些支离破碎的记忆，它们或许不属于我，在当下，却又暂时地构成了我。\n——发自联盟工团信标DAU.14\n\n解决了盘踞在货运中继站的天使之后，我重新打开了这条隧道紧闭已久的大门。\n隧道里维持着失重环境，那些被困了几个月的避难者们纷纷飘到出口，然后颤颤巍巍地离开——他们得重新学习在沉重的引力下走路。\n不过有一个女孩，她浮在隧道中间，自顾自跳了一段舞蹈后才出去。她告诉我，这是在被困的时间里保持心态平静的方式。\n我记下了她的舞步，兼具舒缓与有力的韵律。如果你愿意，我回去后，可以带你试试。动作不难，重点是呼吸和节奏。\n——发自MC-20货运枢纽\n\n这段时间里，我有了很多新的记忆。我还记得，你也正在追寻自己的记忆。我发现了一些地方，和曾经那个“你”有关。感兴趣的话，可以直接来找我。\n——加急信息，发自084A联络点",
+    "ja": "【直属オペレーターによる定期業務報告】\n報告者：レーヴァテイン\n\nトランスポーターを火山盆地まで護衛した。足元のマグマは封じ込められてるけど、雨や川を熱して、地面からブクブク泡が湧き上がってる。まるで「生きてるスープ鍋」みたいだった。観測所はその真上にあった。\nここでは、源石は数少ない貴重品らしい。研究員たちは地熱を使って食べ物を調理していた。缶詰を土に突っ込んで1時間もすれば食べられるようになる。それから「袋シチュー」って呼ばれてるものもあった。スープと具を袋に詰めてからしばらく待って、齧りつく。頭を刺すような熱さで、火を吹くかと思った。\n最初の食事のとき、研究員が教えてくれたんだ――「スープがこぼれないように、火が消えないように」っていう「儀式」の言葉。\n……仕方ないから、一緒に声を合わせてやった。タロⅡで、他人から祝福されたのは初めてだったから。\n――34号観測所より\n\n故障現場の一番近くにいて、緊急要請に応じられるオペレーターとして、地図に載ってない工業団の基地へ最速で向かうよう要請があった。\n別に、複雑な話じゃない。高炉が止まって、動力が死んだ。ちょっと手間はかかったけど、炉に再び火を付けたら温度も回復して、システムも復旧した。今回は、それで終わり。\n印象に残ったのは、ここにいる人たちの「名前」だ。ここは極寒の█████にある秘密拠点で、普段は特別な識別コードで呼ばれてるらしい。本名を明かすのは禁止で、コードネームを名乗ることも許されない。ただ「配られた」名前だけを名乗っていた。\n私が使ったのは「オルガ・ランドール」――この名前の4人目の持ち主だ。私の次は、派遣されてくる計算手が使うことになっていると言っていた。\n不思議な経験だった。「オルガ・ランドール」にとって、私はほんの一瞬だけの持ち主。まるで頭の中に散らばる記憶の欠片みたいに、私のものじゃないかもしれないが、この瞬間だけは、私のものになっている。\n――工業団連盟ビーコンDAU.14より\n\n貨物中継ステーションにのさばってたアンゲロスを片付けたあと、ずっと閉じたままだったトンネルのゲートを開けた。\n中は今も無重力のままで、数カ月閉じ込められていた避難者は、浮かび上がって出口まで移動していた。重力のある場所は久しぶりだからか、出たあとは全員の足元がふらついてた。歩くことをもう一度身につけるような感覚なのかもしれない。\nただ、1人――トンネルから出る前に、真ん中で踊ってた少女がいた。閉じ込められてた間、心を落ち着けるための方法だったと言っていた。\n……ステップもリズムも、ちゃんと覚えてる。穏やかではあったけど、力強い音だった。あんたが望むなら、帰ったあとに教えてやってもいい。大丈夫、難しくはないから。大事なのは、呼吸とリズム……それだけ。\n――MC-20貨物輸送拠点より\n\n最近、また新しい記憶ができた。あんたも自分の記憶を探してること、ちゃんと覚えてる。だから、昔の「あんた」と関係ありそうな場所もついでに探しておいた。興味があるなら、直接私のところに来ていいから。\n――084A連絡窓口からの緊急連絡",
+    "ko": "[직속 오퍼레이터 정기 업무 보고]\n보고자: 레바테인\n\n전달자를 호위하며 이곳 화산 분지에 도착했다. 끓어오르는 용암은 발아래에 봉인되어 있고, 그 열기로 인해 빗물과 강물이 뜨거워져 지면에 계속 기포가 뿜어져 나온다. 관측소는 이 '살아 있는 솥' 위에 세워져 있었다.\n이곳은 오리지늄이 희귀해서 상주 연구원들은 지열로 음식을 조리한다. 통조림을 땅에 묻어두면 한 시간도 안 되어 익을 정도였다. 또 '주머니 찜 요리'라 불리는 현지 요리가 있는데, 국물과 양념을 그대로 식용 주머니에 넣고, 잠시 후 그것을 이빨로 뜯으면 뜨거운 열기가 이마에 올라와, 마치 불을 뿜는 것처럼 뜨거웠다.\n첫 식사 때, 한 연구원이 자신들의 '의식'이라며 주문을 알려주었다.\n\"당신의 국물이 넘치지 않기를, 당신의 불꽃이 꺼지지 않기를.\"\n나도 따라 불렀다. 탈로스 II에서 처음으로 낯선 이에게 받은 축복이었다.\n\n- 제34 관측소에서 발신\n사건 발생지에 가장 가깝고 긴급 호출에 응할 수 있는 오퍼레이터인 내게, 최대한 빨리 지도에 표시되지 않은 한 공단 기지에 빠르게 도착해 달라는 요청을 받았다.\n기지에 발생한 문제는 단순했다. 용광로가 고장으로 꺼져 동력을 잃은 것이었다. 나는 약간의 힘을 써서 코어를 다시 점화시켰다. 온도가 다시 오르고, 시스템이 복구되면서 일단 위기를 넘겼다.\n하지만 내게 강한 인상을 남긴 건 바로 그들의 '이름'이었다. 이 기지는 극지의 █████에 위치한 비밀 기지로, 평소엔 특수 신호 코드로만 불린다. 여기 있는 모든 사람은 본명을 밝히는 것이 금지되며, 임의로 코드네임을 정하는 것도 금지되어 있고, 오로지 '할당된' 이름을 사용해야 했다.\n내가 받은 임시 이름은 '올레가 랑도'였다. 이 이름은 나 이전에 이미 세 명의 주인을 거쳤으며, 내가 떠나면 이후 파견될 다음 계산원에게 주어질 것이라고 했다.\n아주 묘한 경험이었다. '올레가 랑도'라는 이름에게 나는 그저 찰나의 사용자일 뿐이다. 마치 내 머릿속에 있는 그 산산조각 된 기억들처럼, 비록 내 것이 아니겠지만, 지금, 이 순간만큼은 나를 이루고 있었다.\n- 연맹 공단 신호기 DAU.14에서 발신\n화물 중계소를 점령한 아겔로스를 처리한 후, 오랫동안 굳게 닫혀 있던 이 터널의 문을 다시 열었어.\n터널 안은 무중력 상태였는데, 몇 달간 갇혀 있던 피난자들이 출구로 떠올라 나온 뒤, 비틀거리며 떠났지. 그들은 무거운 중력 아래에서 걷는 법을 다시 배워야 할 거야.\n하지만 소녀 한 명은 터널 중간에 떠서, 혼자 춤을 한바탕 춘 뒤에야 밖으로 나가더라고. 갇혀 있는 동안 마음의 평정을 유지하던 방식이었다던데.\n차분하면서도 힘이 느껴지는 리듬의 춤이라 기억해 뒀어.\n\n아, 만약 네가 원한다면, 돌아가면 가르쳐 줄게. 동작은 안 어려운데, 중요한 건 호흡과 리듬이야.\n- MC-20 화물 거점에서 발신\n\n최근 들어, 새로운 기억이 많이 생겼어. 너도 네 기억을 좇고 있다는 걸 기억해.\n예전의 '너'와 관련된 장소를 몇 군데 발견했어. 관심이 있다면, 나를 찾아와.\n- 긴급 메시지, 연락 지점 084A에서 발신"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0016_laevat_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "I hate trouble, but boredom's worse.",
+    "zh-TW": "我討厭麻煩，但更討厭無聊。",
+    "zh-CN": "我讨厌麻烦，但更讨厌无聊。",
+    "ja": "面倒なことはしたくないが、退屈なのはもっと耐えられない。",
+    "ko": "귀찮은 거 싫어, 근데 따분한 건 더 싫어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Whatever comes next better be memorable.",
+    "zh-TW": "接下來的事，最好值得我記住。",
+    "zh-CN": "接下来的事，最好值得我记住。",
+    "ja": "これから起きることに、覚えておく価値があるといいけど。",
+    "ko": "이번 작전이 기억할 만한 가치가 있어야 할 텐데 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "I can do this. Alone.",
+    "zh-TW": "有我一個人就夠了。",
+    "zh-CN": "有我一个人就够了。",
+    "ja": "私一人で十分だ。",
+    "ko": "나 하나면 충분해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "I am the sword. I am fire incarnate.",
+    "zh-TW": "我是劍，我是火焰。",
+    "zh-CN": "我是剑，我是火焰。",
+    "ja": "私は剣であり、炎だ。",
+    "ko": "검처럼, 그리고 불꽃처럼."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Nice blade. Hope it can tolerate the heat of my fire.",
+    "zh-TW": "這把劍不錯，希望能承受住火焰的溫度。",
+    "zh-CN": "这把剑不错，希望能承受住火焰的温度。",
+    "ja": "いい剣だ。炎の熱に耐えられることを願うよ。",
+    "ko": "괜찮은 검이야, 내 불꽃을 버틸 수 있었으면 좋겠네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "The weight won't slow down my attacks. Flame-resistant coating? Pfft.",
+    "zh-TW": "這點重量不妨礙我揮劍。防火層？多事。",
+    "zh-CN": "这点重量不妨碍我挥剑。防火层？多事。",
+    "ja": "この程度の重さ、剣を振るのに支障はない。耐火層？余計なことを。",
+    "ko": "이 정도는 나한테 가볍지. 방화처리를 해야 하는 거 아니냐고? 그딴 거 필요 없어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "So, how's that for my real power?",
+    "zh-TW": "現在，瞭解我的實力了？",
+    "zh-CN": "现在，了解我的实力了？",
+    "ja": "どうだ、私の実力がわかったか？",
+    "ko": "이제, 내 실력을 알겠지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "Hmm, solid reference.",
+    "zh-TW": "值得參考。嗯，就這樣。",
+    "zh-CN": "值得参考。嗯，就这样。",
+    "ja": "まぁまぁかな。うん、それだけだ。",
+    "ko": "참고할 가치가 있네, 딱 그 정도야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "What's this supposed to mean? Encouragement? Approval? Don't need those. All I did was run into a bunch of buggly things and turn them all to ash.",
+    "zh-TW": "這算什麼？鼓勵？肯定？不需要。只不過是遇到了一些礙眼的傢伙，順便把牠們都燒成了灰而已。",
+    "zh-CN": "这算什么？鼓励？肯定？不需要。只不过是碰见了一些碍眼的家伙，顺便把它们都烧成了灰而已。",
+    "ja": "これは何？褒美？評価？……必要ない。たまたま目についたから、全部灰にしただけ。",
+    "ko": "그래서 이건 격려야? 아니면 인정? 사실 다 필요 없어. 그냥 눈에 거슬리는 녀석들을 겸사겸사 재로 만들어 버렸을 뿐이니까."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0016_laevat_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "Now that I've been promoted, my new authority level should give me a one-on-one annual review meeting, right? Good. Let's take a walk. I need some air.",
+    "zh-TW": "所以按照我晉升後的權限，可以要求馬上舉行一對一年度談話了，對吧？走，現在陪我去吹吹風。",
+    "zh-CN": "所以按我晋升后的权限，可以要求马上举行一对一年度谈话了，对吧？走，现在陪我去吹吹风。",
+    "ja": "昇進後の権限なら、今すぐ面談ができるはずだ。ついてきて。外で風に当たりながら話したいから。",
+    "ko": "그러니까 이제부터 내 권한으로 너한테 1년에 한번 정도는 1대1 면담을 신청할 수 있다는 거지? 그럼 지금 당장 나랑 같이 바람 쐬러 가자."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0016_laevat_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Back again? I don't need any token for a job well done. But if you insist, I'll keep it as a symbol and proof ... for all the memories we made together.",
+    "zh-TW": "還來？我不需要信物作為嘉獎或回報。不然這樣吧，如果是代表了共同的記憶，那我可以留下它，作為一種證明。",
+    "zh-CN": "还来？我不需要信物作为嘉奖或回报。这样吧，如果是代表了共同的记忆，那我可以留下它，作为一种证明。",
+    "ja": "またか。褒美や報酬の類は必要ない。でも、そうだな――一緒に過ごした記憶の証だって言うなら、取っておいてもいい。",
+    "ko": "또야? 격려나 포상의 증표 같은 건 필요 없는데... 음, 그러면 이렇게 하자. 만약 이게 우리들의 추억을 대표하는 거라면 잘 간직해 둘게. 그 증명으로써 말이야."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0016_laevat_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "You Endfielders seem to be increasingly reliant on me. I guess you leave me no choice, but to accept this honor. You may now address me as Endfield Operator Laevatain... Hey! What's up with that look on your face?",
+    "zh-TW": "看來你們對我的依賴越來越深了。那這份榮譽，我就接受吧。從此以後，可以叫我終末地幹員萊萬汀……喂，別露出這種表情！",
+    "zh-CN": "看来你们对我的依赖越来越深了。那这份荣誉，我就接受吧。从此以后，可以叫我终末地干员莱万汀……喂，别露出这种表情！",
+    "ja": "私無しではいられないようだな。その栄誉、貰ってやってもいい。これからは、エンドフィールドのレーヴァテインとして……って、何よ、その顔。",
+    "ko": "너희들 말이야, 요즘 점점 나한테 의지하는 것 같은데... 좋아, 그럼 기댈 수 있게 해줄게. 이제부턴 날 엔드필드의 오퍼레이터 레바테인이라고 불러도 돼... 야, 그 표정은 뭐야!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0016_laevat_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Haven't we met already? Hmph. Doesn't matter. You'll remember me by this sword and flame.",
+    "zh-TW": "我們不是見過了嗎？比起自我介紹，還是用劍與火焰來記住我吧。",
+    "zh-CN": "我们不是见过了吗？比起自我介绍，还是用剑与火焰来记住我吧。",
+    "ja": "あんた、前にも会ったか……まぁ、自己紹介なんかより、この剣と炎で覚えてもらうよ。",
+    "ko": "우리 어디서 만난 적 있지 않아? 자기소개는 됐고, 검이랑 불꽃으로 날 기억해 줘."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "I hate fools who like to micro-manage. Thank goodness you're not one of them.",
+    "zh-TW": "我討厭亂指指點點的傢伙，還好你不是。",
+    "zh-CN": "我讨厌乱指指点点的家伙，还好你不是。",
+    "ja": "あれこれ指図してくる奴が一番ムカつく。あんたがそうじゃなくてよかったよ。",
+    "ko": "난 제멋대로 이래라저래라 하는 녀석이 싫어, 다행히 넌 아니네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Looking for me? You finally remember something?",
+    "zh-TW": "你找我？想起了什麼嗎？",
+    "zh-CN": "你找我？想起了什么吗？",
+    "ja": "私を探してた……何か思い出したのか？",
+    "ko": "나 불렀어? 뭐 기억난 거라도 있는 거야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Hmm, seems like a good place to waste my time in...",
+    "zh-TW": "偶爾在這裡浪費時間也不錯……",
+    "zh-CN": "偶尔在这里浪费时间也不错……",
+    "ja": "たまになら、こういう時間潰しも悪くない。",
+    "ko": "가끔은 여기서 시간을 좀 낭비하는 것도 나쁘진 않지..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Ah, here you are.",
+    "zh-TW": "啊，你在這裡。",
+    "zh-CN": "啊，你在这里。",
+    "ja": "ああ、ここにいたか。",
+    "ko": "어? 여기 있었네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "It's you... Oh, I wasn't waiting for you specifically.",
+    "zh-TW": "是你……別誤會，我沒在特地等你。",
+    "zh-CN": "是你……别误会，我没在特意等你。",
+    "ja": "ふんっ……誤解するな。あんたを待ってたわけじゃないから。",
+    "ko": "너구나... 오해하진 마, 일부러 널 기다린 건 아니니까."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0016_laevat_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Why are you idling here? C'mon, let's go to the Bridge. Then you can tell me all about the places you went in the past, and the destinations you have in store for the future.",
+    "zh-TW": "為什麼在這裡無所事事？出發，去艦橋，把你過去的足跡和未來的目的地都指給我看。",
+    "zh-CN": "为什么在这里无所事事？出发，去舰桥，把你过去的足迹和未来的目的地都指给我看。",
+    "ja": "こんなとこでぼーっとしてるなら、ブリッジに行くよ。あんたのこれまでと、これからの道を教えてもらう。",
+    "ko": "왜 여기서 빈둥거리는 거야? 가자, 갑판으로. 네가 걸어온 길이랑 앞으로 가야 할 길, 모두 나한테 설명해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "Mmmm... I hereby offer my utmost appreciation to the Logistics Division for the all-you-can-eat ice cream bar. Need me to grab a few scoops for you?",
+    "zh-TW": "嗯……我為餐廳有無限量供應的冰淇淋，向後勤部門表達崇高的敬意。要幫你拿一份嗎？",
+    "zh-CN": "嗯……我为食堂有无限量供应的冰淇淋，向后勤部门表达崇高的敬意。要帮你拿一份吗？",
+    "ja": "うーん……食堂にアイスクリームの無限供給があるとは……後方支援部に最大限の敬意を示そうじゃないか。あんたの分も1つ、取ってきてやってもいい。",
+    "ko": "음... 아이스크림을 식당에서 무제한으로 먹을 수 있게 해 준 지원 부서한테 진짜로 고맙다는 말을 전하고 싶어. 너도 하나 갖다줄까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0016_laevat_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "I got a mission. Wanna come with? No, no need for tele-protocol. I prefer the drop pod. I'm going in a deafening howl of fire, right on top of their heads.",
+    "zh-TW": "等一下有任務要去處理，一起？不，不用協議傳送，我更喜歡用降落艙，帶著火焰和呼嘯直接砸到他們頭上。",
+    "zh-CN": "待会儿有任务要去处理，一起？不，不用协议传送，我更喜欢用降落舱，带着火焰和呼啸直接砸到他们头上。",
+    "ja": "まもなく任務に行くが、一緒に……いや、協約転送は使わない。炎と轟音を連れて、降下ポッドで奴らの頭へ飛び降りる方が性に合ってる。",
+    "ko": "이따가 처리할 임무가 있는데, 같이 갈래? 아니, 프로토콜 전송은 필요 없어. 강하 캡슐이 난 더 좋거든. 불꽃이랑 날카로운 소리에 휩싸여서 녀석들 머리 위에 내리꽂는 거야!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0016_laevat_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Cold? I told them to lower the thermostat, because some dummy built this ship and forgot to leave a spot for fresh air. If you can't take the cold, stand a little closer.",
+    "zh-TW": "感覺有點冷？是我要求把溫控度數調低的，誰叫這艘船連露天吹風的地方都沒有。要是受不了的話，就站得離我近點。",
+    "zh-CN": "感觉有点冷？是我要求把温控度数调低的，谁让这艘船连露天吹风的地方都没有。要是受不了的话，就站得离我近点儿。",
+    "ja": "寒い？私が温度を下げさせた。この船には外で風を感じられる場所もないから。我慢できないなら、こっちに来ればいい。",
+    "ko": "춥다고? 내가 온도를 낮추라고 했어. 누가 바람 쐴 곳도 없는 배를 만들래? 정 그렇게 추우면 나한테 좀 가까이 오든지 말든지."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0016_laevat_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "When I have nothing to do, I would just eat ice cream and enjoy the view outside. I can do that all day. My mind is filled with countless fragments of shattered memories. Yet none of them gave me a look of the world or starry nights from this angle.",
+    "zh-TW": "空閒的時候，我能邊吃冰淇淋邊盯著外面看一整天。腦海裡有成百上千段記憶，卻沒有哪一段是從這個角度看著大地與星空的。",
+    "zh-CN": "空闲的时候，我能边吃冰淇淋边盯着外面看一整天。脑海里有成百上千段记忆，却没有哪一段是从这个角度看着大地与星空的。",
+    "ja": "暇なときは、アイスクリームを食べながら一日中外を眺めてる。頭の中にはいろんな記憶があるが、こんなふうに大地や星空を見下ろした記憶はないよ。",
+    "ko": "시간만 있으면 아이스크림을 먹으면서 하루 종일 밖을 볼 수도 있을 것 같아. 내 머릿속엔 수백수천 개의 기억이 있지만, 이 각도에서 바라보는 대지랑 별에 대한 기억은 없거든."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0016_laevat_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Still trapped in your memories? Hmph. If they're gone, they're gone. Just remember what happens from here on.",
+    "zh-TW": "還被困在回憶裡？哼，想不起來就別想了。記住接下來發生的事情。",
+    "zh-CN": "还被困在回忆里？哼，想不起来就别想了。记住接下来发生的事情。",
+    "ja": "まだ記憶の空白に囚われているのか？思い出せないなら、無理はするな。むしろ、この先のことをしっかり覚えておくんだね。",
+    "ko": "기억 안 나는 걸 아직도 붙잡고 있는 거야? 하, 기억 안 나면 그냥 안 나는 대로 넘어가. 그거 할 시간에 앞으로의 일들을 기억하라고."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0016_laevat_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Here. It's yours. Thanks for keeping me on your mind. Huh? Being able to remember someone you care about is gift enough...? Pfft...",
+    "zh-TW": "給你的，作為你一直記住我的回報。嗯？不會忘記在意的人本身就是回報？嘖……",
+    "zh-CN": "给你的，作为你一直记住我的回报。嗯？不会忘记在意的人本身就是回报？嘁……",
+    "ja": "これ、あげる。ずっと私のことを覚えていた、そのお礼だ。ん……？大切な人を忘れない、それ自体がお礼？チッ……",
+    "ko": "네 거야. 계속 날 기억해 준 것에 대한 보상이지. 응? 소중한 사람을 잊지 않는 것 그 자체가 보상이라고? 하..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Hmm, I don't really like receiving presents, because I always end up forgetting about them. But this one's from you ... so it will be an exception.",
+    "zh-TW": "哦？我不是很喜歡接受禮物，因為最後總是會忘記。不過既然是你的……那就另當別論。",
+    "zh-CN": "哦？我不是很喜欢接受礼物，因为最后总是会忘记。不过既然是你的……那就另当别论。",
+    "ja": "うーん、プレゼントをもらうのは苦手だ。どうせ忘れてしまうから。でも、あんたからなら……話は別だけど。",
+    "ko": "응? 난 선물 받는 걸 좋아하진 않아, 왜냐하면 마지막에는 어차피 다 잊어버릴 거잖아? 근데 네가 준 거라면... 얘기가 좀 달라지지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Laevatain? Yeah. Picked it myself. Got the idea from the sword. Some don't take it as my real name? Hmph, I tamed the thing so its name is mine. Just like those memories — I intend to rule over them, not be ruled by them.",
+    "zh-TW": "「萊萬汀」，沒錯，我親自選的，來自那把劍。有人說不算真名？它被我馴服之後，這名字當然也就屬於我了。就像那些記憶——要做它們的支配者，而不是被支配。",
+    "zh-CN": "“莱万汀”，没错，我亲自选的，来自那把剑。有人说不算真名？它被我驯服之后，这名字当然也就属于我了。就像那些记忆——要做它们的支配者，而不是被支配。",
+    "ja": "「レーヴァテイン」――そう、あの剣から取って、自分で選んだ名前だ。本当の名前じゃない？屈したならば私のものになるのは当然だ。支配されるんじゃなくて、支配する――あの記憶のようにな。",
+    "ko": "'레바테인'. 맞아, 내가 직접 고른 이름이야, 검에서 따 왔지. 진짜 이름이 아니라는 말이 있다고? 내가 길들인 검이니까, 그 이름도 당연히 내 거야. 꼭 그 기억들처럼... 기억의 지배자가 되어야지, 지배를 당해선 안 되지 않겠어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "My mind is still filled with all sorts of fragmented memories. They didn't just vanish. I simply chose not to study them. Perhaps when I'm done taking care of these mundane chores, I'll follow these memories and start a new journey.",
+    "zh-TW": "我的腦海裡依然充斥著各式各樣的記憶碎片，它們沒有消失，只是我暫時不去看而已。如果哪一天收拾完了眼前的雜事，或許我會照著這些「記憶」，開始新的旅行。",
+    "zh-CN": "我的脑海里依然充斥着各种各样的记忆碎片，它们没有消失，只是我暂时不去看而已。如果哪一天收拾完了眼前的杂事，或许我会照着这些“记忆”，开始新的旅行。",
+    "ja": "私の頭の中には、今でも記憶の欠片が渦巻いている。消えたわけじゃない……今見ていないだけだ。いつか面倒なことを全て片付けたら、「記憶」を辿る旅に出るのも悪くないかもしれない。",
+    "ko": "내 머릿속엔 아직도 수많은 기억의 조각들이 떠다니고 있어. 내가 의식하고 있지 않을 뿐이지, 사라지지 않거든. 언젠가 눈앞의 잡다한 일들을 모두 정리하고 나면 이런 '기억'을 따라서 새로운 여행을 시작할지도 모르겠네."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0016_laevat_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "Surtr... All her rage, her sense of loss, and her confusion ... remain in my memories. They feel so real and permanent. Yet when I recall the decision she made for herself in the end, I find some measure of solace.",
+    "zh-TW": "史爾特爾……她的怒火，她的失落，她的茫然……都還留在我腦海裡。那麼真實，那麼揮之不去。不過，一想到她自己最終做出的選擇，我也就釋然了。",
+    "zh-CN": "史尔特尔……她的怒火，她的失落，她的茫然……都还留在我脑海里。那么真实，那么挥之不去。不过，一想到她自己最终做出的选择，我也就释然了。",
+    "ja": "スルト……彼女の怒りも、失望も、戸惑いも……脳裏に刻み込まれてる。すごくリアルで、振り払えるものではないが……でも、彼女が最後に自分で選んだ道を思えば、少し気が楽になる。",
+    "ko": "수르트의 분노, 상실감, 방황... 이 모든 기억은 내 머릿 속에 남아 있어. 아주 생생하게 말이야. 하지만 수르트 자신이 마지막에 내린 선택이라고 생각하면, 나도 받아들이게 되더라고."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0016_laevat_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "The duty of the reconveners? I don't care about that. It's probably something stuffed into my memories. I only agreed to fight by your side because of the people I met, the paths I walked, the decks I napped on, and the breakers I crushed... It's because of the memories that are truly mine, made here in this place.",
+    "zh-TW": "再旅者的使命？我不在乎。那不過是又一個被硬塞給我的「記憶」而已。真的讓我同意跟你們並肩作戰的，是在這裡遇到的人、走過的路、寄宿過的甲板、收拾過的惡棍……這些真正屬於我的記憶。",
+    "zh-CN": "再旅者的使命？我不在乎。那不过是又一个被硬塞给我的“记忆”罢了。真让我同意与你们并肩作战的，是在这里遇到的人、走过的路、寄宿过的甲板、收拾过的恶棍……这些真正属于我的记忆。",
+    "ja": "再旅者の使命になんて興味ない。そんなもの、ただの押し付けられた「記憶」だ。あんたたちと一緒に戦ってもいいと思ったのは、出会った人、歩いた道、寝泊まりした甲板、始末した悪党……全部、私のものになった記憶のおかげだ。",
+    "ko": "리컨비너의 사명? 관심 없어. 그냥 또 하나의 강제로 주입된 '기억'일 뿐이야. 너희랑 함께 싸우겠다고 결심하게 된 건, 여기서 만난 사람, 걸어왔던 길, 머물렀던 갑판, 내가 혼내줬던 나쁜 녀석들... 이런 진정한 나만의 기억들 때문이야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0016_laevat_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "There's a time when I couldn't understand why you wouldn't just let go of the past. I only figured things out when I arrived at Endfield — You're the Endministrator, a vessel of everyone's expectations, and a projection of everyone's ideal of the world's savior. But nobody should allow their image to be molded by the wishful thinking of others. And that is why you must use your memories to rediscover your true self. If you need a companion for this journey, just give me a call. I won't care where you're headed.",
+    "zh-TW": "之前不理解，為什麼你不能跟我一樣放下過去。到了終末地，才看清楚——你是被層層期待包圍的「管理員」，是每個人心目中「救世主」的投射。但一個人真正的模樣，不該只由他人的願望所塑造，所以你還是要透過記憶找回自我。在這條路上，無論去哪，都可以叫我同行。",
+    "zh-CN": "之前不理解，为什么你不能和我一样放下过去。到了终末地，才看清楚——你是被层层期待包围的“管理员”，是每个人心目中“救世主”的投射。但一个人真正的模样，不该只由他人的愿望所塑造，所以你还是要通过记忆找回自我。在这条路上，无论去哪儿，都可以叫我同行。",
+    "ja": "なんであんたは私みたいに過去を手放せないのか、前は理解できなかった。エンドフィールドに来てようやくわかったよ。「管理人」はみんなの期待を写した、みんなが思い描く「救世主」じゃないといけない。でも、人の存在は他人の願望だけで作られるものじゃない……だから、記憶を辿って自分を取り戻すんだね。あんたの行く道なら、どこだろうと私がついていくよ。",
+    "ko": "예전엔 이해가 안 됐어, 네가 왜 나처럼 과거를 내려놓지 못하는지 말이야. 근데 엔드필드에서 지내다 보니 알겠더라. 넌 수많은 기대 속에 둘러싸인 '관리자'이자, 모두가 마음 깊이 바라는 '구세주'의 투영이라는 걸. 하지만 다른 사람의 바람 속에서 진정한 자신을 찾아서는 안 돼. 그러니까 넌 자신의 기억 속에서 널 찾아야 한다는 거지... 그리고 그 길, 내가 같이 가 줄게."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0016_laevat_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "My shattered \"Ring\"? Treat it as my pet and \"Arts Unit\". The Arsenal Engineers of Endfield tried to figure out how it works. They also made an attempt to repair it... But the Ring acted out on its own, and put an end to that.",
+    "zh-TW": "這道殘缺的「環」？就當作是我的寵物兼「施術單元」吧。終末地的武庫工程師研究過它的具體原理，試圖修復它……但被它自己阻止了。",
+    "zh-CN": "这道残缺的“环”？就当是我的宠物兼“施术单元”吧。终末地的武库工程师研究过它的具体原理，试图修复它……但被它自己阻止了。",
+    "ja": "この欠けた「リング」は、私のペット兼アーツユニットってところだ。エンドフィールドの武庫エンジニアが構造を調べて修復しようとしたが……「リング」自身が拒んだようだな。",
+    "ko": "이 망가진 '링' 말이야? 내 반려동물이자 '아츠 유닛'인 셈이지. 엔드필드의 무기고 공학자들이 이 녀석의 구체적인 원리를 연구해서 수리해 보려고 했는데... 이 녀석 스스로가 그걸 거절했어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "You're here? Come look at this for me. Warfarin mailed me a jigsaw puzzle. She said it features the scenery, peoples, and histories of Terra... It's huge. I spent ages on this and it's still not done... Hey, quit staring at the torn edges. Also, I have nothing to do with the burned places. This was how it looked when I received it.",
+    "zh-TW": "來了？幫我看看這個：華法琳寄來的一幅拼圖，說上面是泰拉的風景、人群、歷史……大得誇張，耗了我很長時間，到現在都還沒拼完。別盯著殘損的地方看，那些燒焦的部分和我無關，收到的時候就是這樣。",
+    "zh-CN": "来了？帮我看看这个：华法琳寄来的一幅拼图，说上面是泰拉的风景、人群、历史……大得出奇，耗了我很长时间，到现在都还没拼完。别盯着残损的地方看，那些烧焦的部分和我无关，收到的时候就是如此。",
+    "ja": "ああ、ちょっと見てほしいものがある。ワルファリンが送ってきたパズルだ。テラの風景や人々、歴史が描かれているらしい……これがどうにも大きすぎて、やってもやっても終わらない。焦げたところは気にするな、届いたときからそうだった。私がやったわけじゃない。",
+    "ko": "왔어? 이것 좀 봐줄래? 와파린이 보낸 퍼즐인데, 여기에 테라의 풍경이랑 사람들, 역사까지 담겨 있다고 하더라고. 진짜 이상할 정도로 커서 꽤 오래 맞췄는데도 아직 다 못 했어. 불탄 자국만 너무 뚫어지게 보진 마, 나랑 상관없다고. 퍼즐을 받았을 때부터 저랬단 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "When carrying out missions on Talos-II, I would dream of Dijiang as well as the people and events of Endfield at night. I am patiently waiting for my mind to forget every shard of the past that isn't mine, then fill the gaps with memories that I've forged myself.",
+    "zh-TW": "在塔衛二執行任務的夜晚，我會夢見帝江號，還有終末地的人與事。我等待著，把腦海裡那些不屬於我的記憶一點一點遺忘，再用我親身經歷的記憶重新填滿。",
+    "zh-CN": "在塔卫二执行任务的夜晚，我会梦见帝江号，还有终末地的人与事。我等待着，把脑海里那些不属于我的记忆一点一点遗忘，再用我亲身经历的记忆重新填满。",
+    "ja": "タロⅡで任務をする日の夜は、帝江号とエンドフィールドのことを夢に見る。ずっと待ち望んでるんだ――頭の中の「自分のじゃない記憶」を少しずつ手放して、「自分の記憶」で満たされる日を……",
+    "ko": "탈로스 II에서 밤을 보내야 될 때면 난 항상 제강호랑 엔드필드의 사람들이랑 있었던 일들을 꿈꾸곤 해. 언젠가 내 머릿속 나랑 상관없는 기억이 모두 사라지고, 직접 겪은 나만의 기억으로 다시 가득 차는 날이 오겠지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "Why do I fight? Because a day will come when I stand atop a mountain, and gaze upon a world consumed by fire... Why give me that look? I was simply describing a nightmare that's been annoying me for quite a while. Set your worries aside. I will not let the vision come to pass, no matter the time nor place.",
+    "zh-TW": "為什麼而揮劍戰鬥？為了有朝一日站在山巔，目睹世界被火海吞噬……你這是什麼表情，我只是講述了一個困擾我很久的夢魘而已。放心，無論什麼時候，什麼地方，我都不會讓它成真的。",
+    "zh-CN": "为什么而挥剑战斗？为了有朝一日站在山巅，目睹世界被火海吞噬……你这是什么表情，我只是讲述了一个困扰我很久的梦魇而已。放心，无论什么时候，什么地方，我都不会让它成真的。",
+    "ja": "剣を持つ理由？いつか山頂に立って、世界が炎に吞み込まれる光景を見届けるため……何、その顔。ただ、ずっと付きまとってきた悪夢の話をしただけだ。安心していいよ。現実になんかさせないから。",
+    "ko": "무엇을 위해 검을 들고 싸우냐고? 언젠가 산꼭대기에서 온 세상이 불길에 휩싸이는 걸 보기 위해서지... 표정이 왜 그래? 난 그냥 오랫동안 날 괴롭혀왔던 악몽을 이야기해 준 것뿐이야. 걱정하지 마, 절대 이걸 현실로 만들진 않을 테니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "Sometimes I'd see refugees roaming about the wildlands, or butchers who laid waste to entire cities. One minute, I'm pruning flowers in the garden; the next, I'm choking on chemicals in the lab. I fought shadowy figures whose faces I couldn't see, and I never knew why we were fighting... C'mon, stop dozing off. I barely got started.",
+    "zh-TW": "有時候是在荒野中徘徊的難民，有時候卻成了摧毀城市的劊子手；前一刻還在庭院裡修剪花朵，下一刻就在實驗室裡忍受刺鼻的藥劑味；和看不清面目的人決鬥，但不知道為何拔劍……別打瞌睡，我才剛開了頭呢。",
+    "zh-CN": "有时候是在荒野中徘徊的难民，有时候却成了摧毁城市的刽子手；前一刻还在庭院里修剪花朵，下一刻就在实验室里忍受刺鼻的药剂味；和看不清面目的人决斗，但不知道为何拔剑……别打瞌睡，我才刚开了头呢。",
+    "ja": "あるときは荒野をさまよう流浪者、またあるときは街を焼き払う処刑人。庭で花の手入れをしたと思えば、薬品の匂いが漂う研究室にいる。顔の見えない相手と戦うが、なぜ剣を抜いたのかはわからない……って、寝るな！これからが本番だ。",
+    "ko": "가끔 난 황무지를 헤매는 유랑자가 되기도 하고, 또 어떤 때는 도시를 파괴하는 하수인이 되기도 해. 조금 전까지 정원에서 꽃을 다듬고 있다가도, 바로 다음 순간에는 연구실에서 코를 찌르는 약품 냄새를 맡고 있지. 얼굴도 안 보이는 상대랑 결투를 하기도 하는데, 왜 검을 뽑았는지 모를 때도 있어... 졸면 안 되지, 제대로 된 얘기는 아직 시작도 안 했다고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_about_line01",
+   "title": {
+    "en": "Topic: Seš'qa",
+    "zh-TW": "話題：塞什卡",
+    "zh-CN": "话题：塞什卡",
+    "ja": "セシュカについて",
+    "ko": "세쉬카에 관하여"
+   },
+   "text": {
+    "en": "My home? I've been to a place called Seš'qa. They had buildings, language, festivals, and witchcraft that ... felt familiar enough to be a \"home\". But I won't visit that place again unless there's a very good reason to — Their people were too warm and passionate. Some even called me a Diαblo... Ugh. Let's just say it got on my nerves and I messed up the place ... just a little bit...",
+    "zh-TW": "家鄉？我到過一個叫「塞什卡」的地方，那裡的建築、語言、節日、巫術……的確有點「家」的熟悉感。不過我不想輕易再去了——他們有點過於熱情，還有人叫我「炎魔」……我真的是不耐煩，就在那裡弄出點亂子……",
+    "zh-CN": "家乡？我到过一个叫“塞什卡”的地方，那里的建筑、语言、节日、巫术……的确有点“家”的熟悉感。不过我不想轻易再去了——他们有点过于热情，还有人管我叫“炎魔”……我实在不耐烦，在那里闹出了点乱子……",
+    "ja": "故郷の話か。「セシュカ」と呼ばれる場所に行ったことがある。建物も、言葉も、祝祭も、巫術も……確かに、懐かしさを感じた。でも、もう一度行きたい場所ではない――妙に歓迎してくるし、私を「炎魔」って呼ぶ奴もいて……少し、問題を起こしてしまった。どうしても面倒で……",
+    "ko": "고향? 난 '세쉬카'라고 불리는 곳에 가본 적이 있어. 건물부터 언어, 기념일, 주술까지... 확실히 '집' 같은 친숙함이 느껴지긴 했지. 근데 다시 가고 싶은 생각은 없어. 사람들이 지나치게 열정적인 데다가, 날 보고 '다이아볼릭'... 이라고 부르는 사람도 있었거든... 그땐 진짜 머리끝까지 짜증 나서 난리를 좀 쳤지..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_about_line02",
+   "title": {
+    "en": "Topic: Yvonne",
+    "zh-TW": "話題：伊馮",
+    "zh-CN": "话题：伊冯",
+    "ja": "イヴォンヌについて",
+    "ko": "이본에 관하여"
+   },
+   "text": {
+    "en": "That pink-haired Vouivre often asks me to test her Frost-e-Bytee. It never managed to put out my flames. But ... she does make pretty and chic-looking ice cream, and the taste is not half bad.",
+    "zh-TW": "那個粉紅頭髮的瓦伊凡經常來找我測試她的「速凍仔」，可惜沒有一次能熄滅我的火焰。但她製作的冰淇淋看起來很潮，嚐起來也不錯。",
+    "zh-CN": "那个粉红头发的瓦伊凡经常来找我测试她的“速冻仔”，可惜没有一次能熄灭我的火焰。但她制作的冰淇淋看起来挺潮，尝起来也不错。",
+    "ja": "ピンクの髪したヴイーヴルが「アイスちゃん」のテストをするって言って、よくここに来る。私の炎を消せたことは一度もないけど、彼女が作るアイスクリームはまぁまぁいい感じだ。味も悪くない。",
+    "ko": "그 분홍머리 와이번 말이야, 자꾸 자기 '꽁꽁이'를 테스트하겠다고 날 찾아오는데, 정작 단 한 번도 내 불꽃을 꺼본 적은 없어. 뭐, 그래도 걔가 만든 아이스크림은 꽤 먹음직스럽게 생긴 데다가 진짜 맛있더라고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_about_line03",
+   "title": {
+    "en": "Topic: Hannabit Circuit",
+    "zh-TW": "話題：眾生長地",
+    "zh-CN": "话题：众生长地",
+    "ja": "衆生長地について",
+    "ko": "만물의 대지에 관하여"
+   },
+   "text": {
+    "en": "A Songseeker of the Hannabit Circuit once told me this: \"Fire is a fiend in the hands of the wind, but a friend in the hands of humankind.\" The Songseeker showed no fear of fire. She even taught me how to create firelines on the other side of the wildlands. I managed to contain a spreading forest fire. The villagers who survived the disaster called us heroes, but my mind stayed fixed on the cloudbeast we saved. I let her keep the little one. What a shame.",
+    "zh-TW": "「火在風手裡招致災難，火在人手裡成為夥伴。」有個眾生長地的遊人這麼跟我說。她不僅不畏懼火焰，反而教我在荒野上燒出一條「防火線」，把蔓延的山火阻擋在了另一邊。脫險的村民把我們當成英雄，但我只掛念從火裡救出的那隻雲獸。可惜，留給她了。",
+    "zh-CN": "“火在风手里招致灾难，火在人手里成为伙伴。”有个众生长地的游人这么跟我说。她不仅不畏惧火焰，反而教我在荒野上烧出一条“防火线”，把蔓延的山火阻挡在了另一边。脱险的村民把我们当成英雄，但我只挂念从火里救出的那只云兽。可惜，留给她了。",
+    "ja": "「火は風に託せば災いを招き、人に託せば仲間になる」――衆生長地の吟遊者が言ってた。彼女は火を怖がらず、「防火線」のことを教えてくれた。それで地面を焼き払って、山火事を食い止めたんだ。私たちは助けた村人に英雄扱いされたが……実はそのとき考えてたのは、火の中から助けた雲獣のことだけ。その吟遊者に預けたこと、少し後悔してる。",
+    "ko": "'바람의 손에 담긴 불꽃은 재앙의 불씨이나, 사람의 손에 담긴 불꽃은 희망의 씨앗이다'. 만물의 대지에서 온 방랑자가 나한테 해준 말이야. 불꽃을 무서워하기는커녕, 오히려 황무지에서 '방화선'을 만들어서 산불이 더 퍼지지 못하게 막는 법을 가르쳐 준 녀석이거든. 그때 살아남은 마을 사람들은 우리를 영웅이라고 환대해줬어. 근데 난 그것보다도 불 속에서 구해낸 클라우드비스트가 더 신경쓰이더라고. 물론 아쉽게도 녀석한테 줘버렸지만."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_about_line04",
+   "title": {
+    "en": "Topic: TGCC",
+    "zh-TW": "話題：環塔商會",
+    "zh-CN": "话题：环塔商会",
+    "ja": "環タロ商会について",
+    "ko": "상업연합회에 관하여"
+   },
+   "text": {
+    "en": "I need something taken care of. HR Division told me to escalate this matter to you, personally. Here it is. A wanted poster. It's no big deal. Happened back when I just left Rhodes Island. A place called the Asphalt Roundabout tagged me for a few counts of arson. They should really blame themselves. A dirty business with plenty of flammable trash should at least expect some fires.",
+    "zh-TW": "有件事，人事部門請我自己找你處理。吶，就是這張通緝令。沒什麼大不了的，只是剛離開羅德島的時候，在一個叫「艾什柏環島」的地方放了幾把火而已。既然是不乾不淨的生意，就該想到會有「引火燒身」的一天。",
+    "zh-CN": "有件事，人事部门让我自己找你处理。喏，就是这张通缉令。没什么大不了的，只是刚离开罗德岛的时候，在一个叫“艾什柏环岛”的地方放了几把火而已。既然是不干不净的生意，就该想到会有“引火烧身”的一天。",
+    "ja": "人事部が自分で説明しろって。ほら、これ――手配書。大した話じゃない。ロドスを離れてすぐ、アスファルトロータリーって場所に火を放っただけ。まあ、きれいな仕事じゃなかったから、火の粉が降り掛かっても仕方ない。",
+    "ko": "관리자, 인사 부서에서 나한테 널 직접 찾아가라고 했어. 자, 이 수배령 받아. 별 건 아니고, 로도스 아일랜드를 막 떠났을 때 '아스팔트 라운드어바웃'이라는 곳에서 불을 좀 지른 적이 있었거든. 부정하게 돈을 버는 주제에... 당연히 나중에 '불똥이 튈 거라는 것'쯤은 예상해야 되지 않겠어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_about_line05",
+   "title": {
+    "en": "Topic: Sami",
+    "zh-TW": "話題：薩米",
+    "zh-CN": "话题：萨米",
+    "ja": "サーミについて",
+    "ko": "사미에 관하여"
+   },
+   "text": {
+    "en": "I'll say this again. I've never been to Terra. In person. So don't talk to me about the sights, the people, or the culture of that place... Unless, of course, you're talking about Sami. I heard their \"home\" carried them to Talos-II. If we have a mission at that place, give me a call.",
+    "zh-TW": "再說一遍，我並沒有真正去過泰拉，所以不要跟我聊那裡的風土人情……薩米除外。聽說那些人的「家鄉」直接馱著他們來到塔衛二了？什麼時候有任務去那裡的話，叫上我。",
+    "zh-CN": "再说一遍，我并没有真正去过泰拉，所以不要跟我聊那里的风土人情……萨米除外。听说那些人的“家乡”直接驮着他们来到塔卫二了？什么时候有任务去那里的话，叫上我。",
+    "ja": "もう一度言うが、私はテラに行ったことなんてない。風景だの習わしだの、話しかけても無駄……でも、サーミは別だ。「故郷」がタロⅡまで背負って来たって聞いてる。もしそこで任務があるなら、私も一緒に行こう。",
+    "ko": "딱 한번만 더 말해주는데, 난 진짜로 테라에 가본 적이 없어. 그러니까, 나한테 테라의 풍습이나 사람들 얘기는 하지 마... 사미만 빼고. 사미 사람들이 말하는 '고향'이라는 거, 듣기로는 직접 사람들을 태우고 탈로스 II까지 왔다며? 언젠가 거기로 가야 할 임무가 있으면 꼭 나도 불러줘."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "See something there. If it's useless, we can use it to test our blades.",
+    "zh-TW": "那邊有些東西，沒用的話，就拿來試劍吧。",
+    "zh-CN": "那边有些东西，没用的话，就拿来试剑吧。",
+    "ja": "あっちに何かある。役に立たなければ、試し斬りにでも使えばいいよ。",
+    "ko": "저쪽에 있는 거 말이야, 안 쓸 거면 검 연습용으로 쓰자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Something worth remembering there.",
+    "zh-TW": "那邊有你不該遺忘的東西。",
+    "zh-CN": "那边有你不该遗忘的东西。",
+    "ja": "あっちに、忘れちゃいけないものがある。",
+    "ko": "저기, 저거 잊지 말고 챙겨 가자고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "We can go take a look. No worries. Just stay close behind me.",
+    "zh-TW": "放心去看看吧，跟在我身後就行了。",
+    "zh-CN": "放心去看看吧，跟在我身后就行了。",
+    "ja": "心配いらない。見に行こう。私についてくればいい。",
+    "ko": "가보자, 나만 잘 따라오면 안전해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "See that one? Need me to do some trimming?",
+    "zh-TW": "看見那個傢伙了？要我出手嗎？",
+    "zh-CN": "看见那个家伙了？要我出手吗？",
+    "ja": "奴らが見えたか？私がやってもいい。",
+    "ko": "저 녀석 봤어? 내가 처리해 줄까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Only true valuables survive the flame.",
+    "zh-TW": "真正有價值的東西經得住火煉。",
+    "zh-CN": "真正有价值的东西经得住火炼。",
+    "ja": "本物なら、炎にも耐えられるはずだ。",
+    "ko": "진짜 가치 있는 건 불에도 잘 견디는 법이지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Too slow. I hate standing around with nothing to do.",
+    "zh-TW": "太慢了，我不喜歡乾等著。",
+    "zh-CN": "太慢了，我不喜欢干等着。",
+    "ja": "遅い。私は待つのが嫌いなんだ。",
+    "ko": "너무 느리잖아! 기다리는 건 질색이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "I remember that you kinda like these.",
+    "zh-TW": "我記得你喜歡這些。",
+    "zh-CN": "我记得你喜欢这些。",
+    "ja": "あんたの好きなものだって、覚えてる。",
+    "ko": "너 이런 거 좋아했지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Aurylene... A thing that's just as unreliable as my memories.",
+    "zh-TW": "醚質……和記憶一樣飄忽不定。",
+    "zh-CN": "醚质……和记忆一样飘忽不定。",
+    "ja": "オーリレン……記憶と同じだ。掴みどころがない。",
+    "ko": "오리렌... 꼭 내 기억처럼 잡히질 않네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Be cautious. This is far more dangerous than fire.",
+    "zh-TW": "警惕比火焰更危險的存在。",
+    "zh-CN": "警惕比火焰更危险的存在。",
+    "ja": "気をつけろ。炎より危険な存在だ。",
+    "ko": "불꽃보다 더 위험한 녀석이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Try getting closer to me if you're still feeling cold.",
+    "zh-TW": "如果還覺得冷，可以往我這邊靠。",
+    "zh-CN": "如果还觉得冷，可以往我这边靠。",
+    "ja": "まだ寒いなら、こっちに来るといい。",
+    "ko": "아직도 추우면 나한테 가까이 오는 것 정도는 허락할게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "C'mon, spare me the theatrics.",
+    "zh-TW": "我沒興趣看你硬撐。",
+    "zh-CN": "我没兴趣看你硬撑。",
+    "ja": "強がりなんて見たくない。",
+    "ko": "억지로 버티든지, 말든지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Hmph. I'm better now.",
+    "zh-TW": "哼，已經沒事了。",
+    "zh-CN": "哼，不碍事了。",
+    "ja": "ふんっ、もう大丈夫だ。",
+    "ko": "흥, 이제 됐어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Don't just stand there, move!",
+    "zh-TW": "你想發呆到什麼時候？",
+    "zh-CN": "你想发愣到什么时候？",
+    "ja": "いつまで突っ立ってるつもり？",
+    "ko": "뭘 그렇게 멍하니 있어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Tsk... This won't kill me.",
+    "zh-TW": "嘖……死不了。",
+    "zh-CN": "啧……死不了。",
+    "ja": "チッ……死にはしない。",
+    "ko": "쳇... 죽을 정도는 아니야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Curse this ... memory of defeat...",
+    "zh-TW": "可惡……這失敗的記憶……",
+    "zh-CN": "可恶……这失败的记忆……",
+    "ja": "くっ……敗北の記憶が……",
+    "ko": "젠장... 이것도 기억해야겠지..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Hmph. I'll remember that.",
+    "zh-TW": "噢，我會記住。",
+    "zh-CN": "噢，我会记住。",
+    "ja": "ふーん、覚えておくよ。",
+    "ko": "꽤 하잖아! 기억해 두겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Not bad. I'll handle the next one.",
+    "zh-TW": "嗯，不錯，下次我來。",
+    "zh-CN": "嗯，不错，下次我来。",
+    "ja": "まぁ、いいんじゃない。次は私がやる。",
+    "ko": "음, 좋아. 다음에는 내가 할게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "I know.",
+    "zh-TW": "我知道。",
+    "zh-CN": "我知道。",
+    "ja": "わかってる。",
+    "ko": "알고 있어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "Just part of my job.",
+    "zh-TW": "分內之事。",
+    "zh-CN": "分内之事。",
+    "ja": "やるべきことをやっただけ。",
+    "ko": "할 일을 했을 뿐이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Now it's time to bring the pain.",
+    "zh-TW": "我已經等很久了。",
+    "zh-CN": "我已经等很久了。",
+    "ja": "ずいぶん待たされたよ。",
+    "ko": "한참 기다렸잖아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "About time.",
+    "zh-TW": "早就該動手了。",
+    "zh-CN": "早该动手了。",
+    "ja": "時間の無駄。すぐに片付ける。",
+    "ko": "진작에 시작했어야지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "This hardly counts as warm-up.",
+    "zh-TW": "連熱身都算不上。",
+    "zh-CN": "连热身都算不上。",
+    "ja": "肩慣らしにもならない。",
+    "ko": "준비운동조차 안 되잖아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "Victory goes without saying.",
+    "zh-TW": "勝利是理所當然的。",
+    "zh-CN": "胜利是理所应当的。",
+    "ja": "勝利なんて、あったりまえだ。",
+    "ko": "승리는 당연한 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Guess I'll join your celebrations.",
+    "zh-TW": "那就和你們一起歡呼吧。",
+    "zh-CN": "那就和你们一起欢呼吧。",
+    "ja": "それなら、みんなで喜んでやってもいい。",
+    "ko": "너희랑 같이 환호해 줄게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "You did alright. Just leave the hard fighting to me next time.",
+    "zh-TW": "已經做得很好了。下一次先把棘手的交給我。",
+    "zh-CN": "已经做得很好了。下一次先把棘手的交给我。",
+    "ja": "十分だ。次は、面倒な敵は私がやる。",
+    "ko": "이미 충분히 잘했어. 다음번에는 까다로운 놈부터 나한테 넘겨."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "I will not allow this to happen again.",
+    "zh-TW": "我不會再讓這種情況發生。",
+    "zh-CN": "我不会再让这种情况发生。",
+    "ja": "こんなこと、二度と繰り返さない。",
+    "ko": "다신 이런 일 없을 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Slash!",
+    "zh-TW": "斬斷！",
+    "zh-CN": "斩断！",
+    "ja": "切り尽くせ！",
+    "ko": "절단!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Perish!",
+    "zh-TW": "破滅！",
+    "zh-CN": "破灭！",
+    "ja": "滅びろ！",
+    "ko": "파멸!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Melting flame!",
+    "zh-TW": "熔火！",
+    "zh-CN": "熔火！",
+    "ja": "燃え上がれ！",
+    "ko": "융화의 불꽃!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Incinerate!",
+    "zh-TW": "燒盡！",
+    "zh-CN": "烧尽！",
+    "ja": "焼き尽くせ！",
+    "ko": "모조리 태워버려!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Be consumed!",
+    "zh-TW": "被吞沒吧！",
+    "zh-CN": "被吞没吧！",
+    "ja": "呑まれろ！",
+    "ko": "불꽃에 삼켜져라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "I got this!",
+    "zh-TW": "讓我來！",
+    "zh-CN": "让我来！",
+    "ja": "私がやる！",
+    "ko": "내가 처리하지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Inferno awaits!",
+    "zh-TW": "烈焰將至！",
+    "zh-CN": "烈焰将至！",
+    "ja": "灼熱の炎！",
+    "ko": "불꽃이 밀려올 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Burn to cinders!",
+    "zh-TW": "焚毀！",
+    "zh-CN": "焚毁！",
+    "ja": "燃え尽きろ！",
+    "ko": "불타올라라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Turn to ash!",
+    "zh-TW": "灰飛煙滅吧！",
+    "zh-CN": "灰飞烟灭吧！",
+    "ja": "灰燼に帰せ！",
+    "ko": "잿더미로 만들어주지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "There's no escape!",
+    "zh-TW": "別想逃！",
+    "zh-CN": "别想逃！",
+    "ja": "逃げるか！",
+    "ko": "소용없어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "You shall die!",
+    "zh-TW": "去死吧！",
+    "zh-CN": "去死吧！",
+    "ja": "死ね！",
+    "ko": "죽어라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Let that twilight burn!",
+    "zh-TW": "火焰，照亮黃昏！",
+    "zh-CN": "火焰，照亮黄昏！",
+    "ja": "炎よ、黄昏を照らせ！",
+    "ko": "황혼을 비춰라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "I shall cremate darkness!",
+    "zh-TW": "焚燒黑暗！",
+    "zh-CN": "焚烧黑暗！",
+    "ja": "闇ごと、焚き尽くせ！",
+    "ko": "어둠을 태워라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0016_laevat_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Your end is nigh!",
+    "zh-TW": "你的末日到了！",
+    "zh-CN": "你的末日到了！",
+    "ja": "今日がお前の終末だ！",
+    "ko": "작별 인사할 시간이야!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0016_laevat_1",
+   "topic": {
+    "en": "Making a House a Home",
+    "zh-TW": "適應新家",
+    "zh-CN": "适应新家",
+    "ja": "新たな家へ",
+    "ko": "새집 적응기"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "How do you like Endfield so far?",
+      "zh-TW": "剛來終末地，感覺如何？還習慣嗎？",
+      "zh-CN": "刚来终末地，感觉如何？待得惯吗？",
+      "ja": "エンドフィールドに来たばかりだけど、どう？慣れそうかな。",
+      "ko": "엔드필드에 온 소감은 어때? 불편한 건 없고?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "What's this app?",
+      "zh-TW": "嗯？這是什麼？",
+      "zh-CN": "嗯？这是什么？",
+      "ja": "ん？これは何だ？",
+      "ko": "음? 이건 뭐야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "It's Baker, an Insta-Chat app. Each operator is automatically assigned an account.",
+      "zh-TW": "是Baker，一個即時通訊應用。每個幹員都會自動綁定一個帳號。",
+      "zh-CN": "是Baker，一个即时通信应用。每个干员都会自动绑定一个账号。",
+      "ja": "Bakerという、メッセージが送れるアプリだよ。オペレーター全員が使える。",
+      "ko": "Baker라고, 실시간으로 통신할 수 있는 메신저야. 오퍼레이터마다 자동으로 계정이 연동돼."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Shoot me a msg here whenever you need me.",
+      "zh-TW": "你隨時可以用它來找我。",
+      "zh-CN": "你随时可以用它来找我。",
+      "ja": "これで、いつでも連絡が取れるよ。",
+      "ko": "언제든지 이걸로 나한테 연락할 수 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Cool.",
+      "zh-TW": "好，我記住了。",
+      "zh-CN": "好，我记住了。",
+      "ja": "ふーん、覚えておく。",
+      "ko": "응, 기억했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "So, I just burned down the Training Cabin. What do I do now?",
+      "zh-TW": "那，燒了訓練室怎麼辦？",
+      "zh-CN": "那么，烧了训练室怎么办？",
+      "ja": "で、燃えた訓練室の件は？",
+      "ko": "그럼, 훈련실을 태웠는데, 어떻게 해야 돼?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I know.",
+         "zh-TW": "我知道。",
+         "zh-CN": "我知道。",
+         "ja": "話は聞いているよ。",
+         "ko": "알고 있어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Nothing. Don't worry about it.",
+         "zh-TW": "沒關係。",
+         "zh-CN": "没事的。",
+         "ja": "問題ないよ。",
+         "ko": "괜찮아."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I've read your combat adaptation test records and see that your abilities caused some damage to the cabin.",
+      "zh-TW": "我看了你的戰鬥適應性測試報告，知道高溫讓訓練室受到了一些損壞。",
+      "zh-CN": "我看了你的战斗适应性测试报告，知道高温让训练室遭到了一些损坏。",
+      "ja": "君の戦闘適性テストの報告を見たよ。「高温によって訓練室が損傷した」って。",
+      "ko": "네 전투 적응 테스트 보고서를 확인했거든. 고온 때문에 훈련실이 좀 손상된 건 알고 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Don't worry about the Training Cabins, they get damaged all the time. The Specialist Tech Division and Chief Logistics Office will take care of it.",
+      "zh-TW": "交給特種技術部門和總後勤辦事處好了，他們會善後的。放心，這種事對終末地來說並不少見。",
+      "zh-CN": "交给特种技术部门和总后勤办事处好了，他们会善后的。放心，这种事对终末地来说并不少见。",
+      "ja": "特殊技術部と総合後方支援部に任せれば大丈夫だ。こういうことは、ここでは珍しくないからね。",
+      "ko": "특수 기술부랑 총지원 부서에 맡기면 돼, 뒷수습은 그쪽에서 할 거야. 신경 쓰지 마, 엔드필드에선 종종 있는 일이니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Cool. Then I'm off to burn the swimming pool.",
+      "zh-TW": "好。那我繼續去燒訓練泳池了。",
+      "zh-CN": "好。那我接着去烧训练泳池了。",
+      "ja": "そうか。じゃあ、次は訓練用のプールを燃やしてくる。",
+      "ko": "알았어. 그럼 이제 훈련용 수영장을 태우러 가볼게."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Why burn the swimming pool?",
+         "zh-TW": "為什麼要燒訓練泳池？",
+         "zh-CN": "为什么要烧训练泳池？",
+         "ja": "どうして、訓練用のプールを燃やすのかな……",
+         "ko": "수영장은 왜 또?!"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "STOP! Do you plan to boil the operators in the pool?!",
+         "zh-TW": "一聽就很危險！禁止水煮幹員！",
+         "zh-CN": "一听就很危险！禁止水煮干员！",
+         "ja": "危ないよ。オペレーターを煮るのは、流石に……",
+         "ko": "듣기만 해도 위험하잖아! 다른 오퍼레이터를 익히는 건 안 돼!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "An operator from the Arsenal asked me to do this.",
+      "zh-TW": "是武庫那邊的幹員要求的。",
+      "zh-CN": "是武库那边的干员要求的。",
+      "ja": "武庫のオペレーターに頼まれたから。",
+      "ko": "무기고 쪽 오퍼레이터가 부탁했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "She wanted to see what my flames could do in water.",
+      "zh-TW": "她想要試試我的火焰在水裡會怎麼樣。",
+      "zh-CN": "她想要试试我的火焰在水里会怎么样。",
+      "ja": "私の炎が水中でどうなるか試したいって。",
+      "ko": "내 불꽃이 물속에서도 통할지 한번 보고 싶다고 하더라고."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You can't set it on fire tho!",
+         "zh-TW": "那也不能燒游泳池！",
+         "zh-CN": "那也不能烧游泳池！",
+         "ja": "そうだとしても、プールを燃やすのは駄目だ。",
+         "ko": "그래도 수영장을 태우는 건 안 되지!"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I never said okay to this!",
+         "zh-TW": "等等，我還沒批准欸！",
+         "zh-CN": "等等，我还没批准呢！",
+         "ja": "待って。まだ許可していないよ……",
+         "ko": "잠깐만, 나 아직 허락 안 했어?!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Oh? I was told that the Endmin would surely cover for me. She's urging me to hurry over since the pool's empty now.",
+      "zh-TW": "是嗎？她說管理員一定會罩著的，難得現在泳池沒人，催我快點過去。",
+      "zh-CN": "是吗？她说管理员一定会兜着的，难得现在泳池没人，催我赶紧过去了。",
+      "ja": "そうなのか？彼女は管理人なら許してくれると言っていたが。それに、今プールが空いているから、急げって。",
+      "ko": "음? 그 오퍼레이터는, 관리자가 다 알아서 뒷처리해 줄 거라던데? 지금 수영장에 사람도 없으니까 빨리 오라고 하네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "She also said she'll send the report over later.",
+      "zh-TW": "她還說，稍後會把報告送到的。",
+      "zh-CN": "她还说，稍后会把报告送到的。",
+      "ja": "報告書は後で出すらしい。",
+      "ko": "아, 그리고 보고서는 나중에 제출한다고 했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "WAIT!!! LAEVATAIN!",
+      "zh-TW": "喂喂！",
+      "zh-CN": "喂喂！",
+      "ja": "待って！",
+      "ko": "잠깐, 레바테인!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "WAIT!",
+      "zh-TW": "喂！",
+      "zh-CN": "喂！",
+      "ja": "ちょっと……",
+      "ko": "레바테인...?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "{F}...{M}...",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "New Message",
+      "zh-TW": "新訊息",
+      "zh-CN": "新消息",
+      "ja": "新着メッセージ",
+      "ko": "새 메시지"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Hey, you think it's alright to start a fire at a music festival?",
+      "zh-TW": "你覺得在音樂節上縱火適合嗎？",
+      "zh-CN": "你觉得在音乐节上纵火合适吗？",
+      "ja": "黒曜石祭で火を放ってもいいか？",
+      "ko": "뮤직 페스티벌에서 불 지르는 거, 어떻게 생각해?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Please don't get any ideas...",
+      "zh-TW": "這次又是要做什麼？",
+      "zh-CN": "这次又是要做什么？",
+      "ja": "今度は何をしようとしているのかな。",
+      "ko": "이번엔 또 뭘 하려는 건데?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "An operator got in touch with me after the last field operation. She was apparently impressed by my flames.",
+      "zh-TW": "上次外勤行動後，一位幹員聯絡我，說是對我的火焰印象深刻。",
+      "zh-CN": "上次外勤行动后，一位干员联系我，说是对我的火焰印象深刻。",
+      "ja": "この前、外勤後にオペレーターが連絡してきたんだ。私の炎に感動したって。",
+      "ko": "지난번 외근 작전 이후에, 한 오퍼레이터가 내 불꽃이 인상적이었다면서 연락해 왔어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Okay... More than one person has mentioned that to me. Then?",
+      "zh-TW": "不止一個人跟我提過這點……然後呢？",
+      "zh-CN": "不止一个人跟我提到过这点……然后呢？",
+      "ja": "他の人からも聞いたことがある話だ……それで？",
+      "ko": "나한테도 그런 얘기 한 사람이 한둘이 아니었지... 그래서?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "She invited me to join her amateur heavy metal band and set the seawater around the stage on fire at the next Obsidian Festival.",
+      "zh-TW": "她邀請我加入她的業餘重金屬樂隊，在下一場黑曜石音樂節的表演中，用火焰點燃環繞舞台的海水。",
+      "zh-CN": "她邀请我加入她的业余重金属乐队，在下一场黑曜石音乐节的表演中，用火焰点燃环绕舞台的海水。",
+      "ja": "ヘビーメタルバンドに入らないかと誘われた。次の黒曜石祭で、ステージを囲む海水を炎で燃やしたいらしい。",
+      "ko": "그 오퍼레이터가 나한테 자기가 만든 헤비메탈 밴드에 들어오라고 초대했어. 다음 옵시디언 뮤직 페스티벌 무대에서, 내 불꽃으로 무대를 둘러싼 바닷물에 불을 붙여보고 싶다면서."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "So, what do you think?",
+      "zh-TW": "覺得這個主意怎麼樣？",
+      "zh-CN": "觉得这个主意怎么样？",
+      "ja": "どう思う？",
+      "ko": "이 아이디어, 어떤 거 같아?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "LOVE IT! Looking forward to it!",
+         "zh-TW": "聽上去酷斃了！我很期待！",
+         "zh-CN": "听上去酷毙了！我很期待！",
+         "ja": "いいね。楽しみにしているよ。",
+         "ko": "엄청 멋있을 거 같은데! 너무 기대돼!"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Wild, but you have my full support!",
+         "zh-TW": "蠻另類的，不過我支持！",
+         "zh-CN": "挺出格的，不过我支持！",
+         "ja": "やりすぎな気もするけど……いいと思う。",
+         "ko": "좀 과격하긴 하지만, 난 괜찮을 거 같아!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Nice. Make sure you show up then.",
+      "zh-TW": "很好。那到時候記得來。",
+      "zh-CN": "很好。那么到时候记得来支持。",
+      "ja": "じゃ、そのときは応援に来て。",
+      "ko": "좋아. 그럼 그때 꼭 보러 와."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "By the way, I've gotten pretty comfortable here in Endfield.",
+      "zh-TW": "對了，在終末地，我感覺待得很習慣。",
+      "zh-CN": "对了，在终末地，我感觉待得很习惯。",
+      "ja": "あと、エンドフィールドにはもう慣れたから。",
+      "ko": "아, 맞다. 난 엔드필드에서 아주 편하게 지내고 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I asked so long ago... Why telling me this now?",
+      "zh-TW": "欸……你為什麼現在才回答這個問題？",
+      "zh-CN": "欸……你为什么现在才回答这个问题？",
+      "ja": "どうして今、答えたの？",
+      "ko": "어... 왜 이제야 그 질문에 대답하는 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Someone said I could treat Endfield as my home, but I knew I often bring trouble wherever I go.",
+      "zh-TW": "雖然有人告訴我可以把終末地當成自己的家，但我知道自己在很多情況下意味著麻煩。",
+      "zh-CN": "虽然有人告诉我可以把终末地当成自己的家，但我知道自己在很多情况下意味着麻烦。",
+      "ja": "ここが「家」になるんだと言われたが、私がいると迷惑がかかるってことはわかってる。",
+      "ko": "엔드필드를 집처럼 생각하라고 누군가 말했었지만... 사실 나도 알고 있어, 난 어디서든 골칫거리와 같은 존재라는 걸."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "I didn't want to be some burden that people merely accept or tolerate.",
+      "zh-TW": "我可不希望，作為一種麻煩被勉強「接納」和「包容」。",
+      "zh-CN": "我可不希望，作为一种麻烦被勉强“接纳”和“包容”。",
+      "ja": "それに、無理に「受け入れてもらう」とか「許される」ような厄介者にはなりたくない。",
+      "ko": "그래서 억지로 '받아들여지고', '포용되는' 그런 골칫거리가 되고 싶진 않았는데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "This place really feels right for someone like me, which is why I'm only bringing it up now.",
+      "zh-TW": "直到現在，我才確定，這裡就是為我這樣的人準備的地方。",
+      "zh-CN": "直到现在，我才确定，这里就是为我这样的人准备的地方。",
+      "ja": "でも、ようやくわかったよ。ここは、私のような存在のためにある場所なんだって。",
+      "ko": "이제야 확실히 알겠어. 여기는, 바로 나 같은 사람을 위해 준비된 곳이라는 걸."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0016_laevat_2",
+   "topic": {
+    "en": "Fire and Ice",
+    "zh-TW": "冰與火",
+    "zh-CN": "冰与火",
+    "ja": "氷と炎",
+    "ko": "아이스크림과 불꽃"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Did you empty the canteen freezer?",
+      "zh-TW": "萊萬汀，是你把餐廳的冰箱「清空」了？",
+      "zh-CN": "莱万汀，是你把食堂的冰柜“清空”了？",
+      "ja": "レーヴァテイン、食堂の冷凍庫を空っぽにしたのは、君かな。",
+      "ko": "레바테인, 식당 냉동고를 '비운' 게 너야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Sorry not sorry :P",
+      "zh-TW": "是我。",
+      "zh-CN": "是我。",
+      "ja": "そうだ。",
+      "ko": "응."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You seriously ate that much ice cream? Hopefully it didn't upset your stomach.",
+      "zh-TW": "你真的吃了這麼多冰淇淋？不會不舒服嗎？",
+      "zh-CN": "你真吃了这么多冰淇淋？不会不舒服吗？",
+      "ja": "そんなにたくさんアイスを食べたの？体調は大丈夫？",
+      "ko": "정말 그 많은 아이스크림을 다 먹은 거야? 몸은 괜찮아?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Can't remember. I stopped when my lips went a little numb.",
+      "zh-TW": "不記得了，大概吃到嘴唇有點麻的時候就停下了。",
+      "zh-CN": "不记得了，大概吃到嘴唇有点麻的时候就停下了。",
+      "ja": "どれくらいかなんて、覚えてない。多分、唇が痺れてきたくらいでやめたはずだ。",
+      "ko": "잘 기억은 안 나는데. 입술이 살짝 얼얼할 때쯤 그만 먹었던 것 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "I bounced back pretty fast though. Lucky.",
+      "zh-TW": "好在後來很快就恢復了。",
+      "zh-CN": "好在后来很快恢复了。",
+      "ja": "唇はすぐに元に戻ったけど。",
+      "ko": "다행히 금방 회복했지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Why eat so much then...?",
+      "zh-TW": "但是……你為什麼要吃這麼多？",
+      "zh-CN": "但是……你为什么要吃这么多？",
+      "ja": "でも……どうしてそんなにたくさん？",
+      "ko": "그런데... 도대체 왜 그렇게 많이 먹은 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Didn't you see the ice cream contest poster?",
+      "zh-TW": "「冰淇淋決鬥」大賽啊。你沒看到海報？",
+      "zh-CN": "“冰淇淋决斗”大赛啊。你没看到海报？",
+      "ja": "「アイスクリーム決闘」。ポスターを見なかったのか？",
+      "ko": "'아이스크림 대격돌' 대회가 있었잖아. 포스터 못 봤어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "First ever. Hosted by the Chief Logistics Office at the Dijiang canteen.",
+      "zh-TW": "第一屆，總後勤辦事處在帝江號的餐廳辦的。",
+      "zh-CN": "第一届，总后勤办事处在帝江号的餐厅办的。",
+      "ja": "後方支援部が、帝江号の食堂で開催した。今回が「第1回」らしい。",
+      "ko": "이번 제1회는 총지원 부서가 제강호 식당에서 개최했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "First ever? Perlica approved this? Am I the only one left in the dark?",
+      "zh-TW": "第一屆？佩麗卡批准了這活動？只有我不知情嗎？",
+      "zh-CN": "第一届？佩丽卡批准了这活动？只有我不知情吗？",
+      "ja": "「第1回」って……ペリカが許可したのかな。知らなかったのは、もしかして自分だけ……？",
+      "ko": "제1회라고? 펠리카가 이 기획을 통과시켰다고? 나만 몰랐던 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "She even showed up for the opening ceremony.",
+      "zh-TW": "她還參加了開幕式呢。",
+      "zh-CN": "她还参加了开幕式呢。",
+      "ja": "彼女は、開会式にもいたけど。",
+      "ko": "응, 그날 펠리카가 개막식에도 참석했던데."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Anyway. Pretty sure I came first.",
+      "zh-TW": "別擔心，冠軍是我的，毫無懸念。",
+      "zh-CN": "别担心，冠军是我的，毫无悬念。",
+      "ja": "当然、私が優勝した。安心していいよ。",
+      "ko": "걱정 마, 어차피 우승은 나였어. 의심할 여지도 없지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "The grand prize is a month of unlimited cold drinks.",
+      "zh-TW": "獎品就是本月不限量冰品券一張。",
+      "zh-CN": "奖品就是本月不限量冷饮券一张。",
+      "ja": "賞品は今月の「アイスクリーム食べ放題券」だ。",
+      "ko": "우승 상품은 '월간 냉음료 무제한 이용권'이고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That's beside the point. How exactly did you win?",
+      "zh-TW": "這不是重點！你到底怎麼贏的？",
+      "zh-CN": "这不是重点！你到底怎么赢的？",
+      "ja": "それは置いておいて……どうやって勝ったの？",
+      "ko": "그게 문제가 아니잖아! 도대체 어떻게 이긴 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Easy. Win every round. That's all.",
+      "zh-TW": "很簡單，從第一輪開始，每輪保持全勝就可以了。",
+      "zh-CN": "很简单，从第一轮开始，每轮保持全胜就行了。",
+      "ja": "簡単だ。最初から最後まで、ずっと勝ち続けるだけ。",
+      "ko": "간단해. 첫 라운드부터 계속 전승하면 돼."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Flaming Raspberry Iceburst, Bitter Ninefold Citrus, Wasabi Inferno Swirl, Garlic-Caramel Nutpocalypse...",
+      "zh-TW": "火辣樹莓冰爆彈、九層橘絡苦味球、山葵芥末暴擊桶、蒜香焦糖五仁杯……",
+      "zh-CN": "火辣树莓冰爆弹、九层橘络苦味球、山葵芥末暴击桶、蒜香焦糖五仁杯……",
+      "ja": "激辛パチパチラズベリー味、苦味9倍オレンジピール味、Wパンチわさびマスタード味、にんにく香るキャラメルナッツ味……",
+      "ko": "화끈한 라즈베리 얼음 폭탄, 아홉 겹의 쓴맛 오렌지볼, 와사비 머스터드 메가통, 갈릭 캐러멜 오곡컵..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What in the world are those flavors... Don't tell me CLO cooked them up?",
+      "zh-TW": "這都是什麼口味……全是總後勤辦事處研發的嗎？",
+      "zh-CN": "这都是什么口味……全是总后勤办事处研发的吗？",
+      "ja": "その味は一体……全部、後方支援部が開発したものなの？",
+      "ko": "그게 다 무슨 맛이야... 전부 총지원 부서에서 개발한 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Yes. A few challengers tapped out halfway. They were carried off to Medics.",
+      "zh-TW": "嗯。有幾個對手真的是吃一吃，最後就吃到醫療幹員那裡了。",
+      "zh-CN": "嗯。有几个对手真的是吃着吃着，最后就到医疗干员那儿去了。",
+      "ja": "そうらしい。ちなみに、途中で医療オペレーターに運ばれていったオペレーターもいたな。",
+      "ko": "응. 상대 참가자 몇 명은 먹다가 결국 의료 오퍼레이터한테 실려 갔어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "I finished all of mine. With extra toppings.",
+      "zh-TW": "但我都吃完了。還加了點料。",
+      "zh-CN": "但我都吃完了。还加了些小料。",
+      "ja": "けど、私は全部食べた。トッピングも追加した。",
+      "ko": "하지만 난 다 먹었지. 토핑까지 얹어서 말이야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That's not a contest. That's borderline torture!",
+         "zh-TW": "這根本不是比賽，是極限挑戰！",
+         "zh-CN": "这根本不是比赛，是极限挑战！",
+         "ja": "それは、もう大会じゃなくて、我慢大会じゃ……",
+         "ko": "이건 대회가 아니라 그냥 극한 도전이잖아!"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Seriously... Are you really feeling alright?",
+         "zh-TW": "你真的沒事吧？",
+         "zh-CN": "你真的没事吧？",
+         "ja": "本当に大丈夫かな",
+         "ko": "정말 괜찮은 거 맞아?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "I'm not weak, okay?",
+      "zh-TW": "你忘了我是誰嗎？",
+      "zh-CN": "你忘了我是谁吗？",
+      "ja": "私が誰か、忘れた？",
+      "ko": "내가 누군지 잊은 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "That little chill didn't even faze me. Wasn't even enough to lower my body temperature in the slightest.",
+      "zh-TW": "這點程度的冰涼，甚至都不能讓我的體溫下降一點。",
+      "zh-CN": "这点程度的冰凉，甚至都没能让我的体温下降一点。",
+      "ja": "この程度じゃ、私の体温は下げられない。",
+      "ko": "그 정도의 냉기로 내 체온을 떨어뜨리기엔 턱도 없지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Wait, you used your Originium Arts to nullify the ice cream's cold?",
+      "zh-TW": "等等！是火焰！你用自己的源石技藝抵消了冰淇淋的低溫！",
+      "zh-CN": "等等！是火焰！你用自己的源石技艺抵消了冰淇淋的低温！",
+      "ja": "待って！わかった、炎だ。自分のアーツでアイスの冷気を打ち消したんだ。",
+      "ko": "잠깐! 불꽃...! 네 오리지늄 아츠로 아이스크림의 냉기를 상쇄한 거구나!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Isn't that cheating? The judges didn't say anything?",
+      "zh-TW": "這難道不算作弊嗎？裁判沒有提出異議？",
+      "zh-CN": "这难道不算作弊吗？裁判没有提出异议？",
+      "ja": "反則にならないの？審判は、何か言っていなかった？",
+      "ko": "그거 반칙 아니야? 심판은 뭐라고 안 했어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "How is using my talent cheating?",
+      "zh-TW": "這是我的本事，為什麼會是作弊？",
+      "zh-CN": "这是我的本事，为什么会是作弊？",
+      "ja": "それも、私の実力。なんで反則になるわけ？",
+      "ko": "그건 내 능력이잖아, 그게 왜 반칙이야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "I dare you to challenge me. I'll even let you pick your flavor first.",
+      "zh-TW": "你要是不服，可以親自來跟我比賽一場。我可以讓你先挑口味。",
+      "zh-CN": "你要是不服，可以亲自来跟我比赛一场。我可以让你先挑口味。",
+      "ja": "不満があるなら、私と勝負すればいい。好きな味を先に選んでもいいよ。",
+      "ko": "인정 못 하겠으면, 직접 나랑 붙어보던가. 먼저 맛 고르는 것 정도는 양보해 주지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I think I'll pass...",
+      "zh-TW": "還是算了……",
+      "zh-CN": "还是算了……",
+      "ja": "大丈夫……遠慮しておく。",
+      "ko": "아냐, 됐어..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Frankly, I doubt there will ever be a second round of this \"contest\" ... or torture, whatever you want to call it.",
+      "zh-TW": "恐怕這個比賽不會有第二屆了。",
+      "zh-CN": "恐怕这比赛不会有第二届了。",
+      "ja": "なんとなく、「第2回」は開かれない気がする。",
+      "ko": "아마 이 대회, 2회는 없을 것 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "In that case, I request that Dijiang's cold drinks stock be replenished immediately, to guarantee supply this month at least.",
+      "zh-TW": "那我還是要申請儘快補充帝江號的冰品庫存，保障本月內的供應。",
+      "zh-CN": "那我还是要申请尽快补充帝江号的冷饮库存，保障本月内的供应。",
+      "ja": "じゃ、アイスクリームの補充申請を急いで出さないと。今月分を確保しておかないといけないから。",
+      "ko": "그래도 난 제강호 냉음료 재고를 최대한 빨리 보충해달라고 신청할 거야. 이번 달까지만이라도 공급이 보장돼야 하니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Will do, since the prize was unlimited cold drinks for a month. As for the ice cream you love so much... I'll figure something out.",
+      "zh-TW": "好吧，畢竟獎品就是「不限量冰品券」，冰淇淋的事……我來想想辦法。",
+      "zh-CN": "好吧，毕竟奖品就是“不限量冷饮券”，冰淇淋的事……我来想想办法。",
+      "ja": "わかった。賞品が「アイス食べ放題券」なんだし……なんとかするよ。",
+      "ko": "알았어, 상품이 '월간 냉음료 무제한 이용권'이긴 하니까... 아이스크림 문제는 내가 어떻게든 해결해 볼게."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Thanks, Endmin. I promise I'll save you a scoop whenever there's ice cream.",
+      "zh-TW": "謝了，管理員。以後只要有冰淇淋，我一定幫你留一根！",
+      "zh-CN": "谢了，管理员。以后只要有冰淇淋，我一定给你留一根！",
+      "ja": "感謝するよ、管理人。これからアイスクリームを食べるときは、1つあんたに残すことにする。",
+      "ko": "고마워, 관리자. 앞으로 아이스크림이 있으면, 꼭 하나는 네 몫으로 남겨둘게!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0016_laevat_3",
+   "topic": {
+    "en": "Travel Log",
+    "zh-TW": "旅行紀錄",
+    "zh-CN": "旅行记录",
+    "ja": "旅行記",
+    "ko": "여행 일지"
+   },
+   "lines": [
+    {
+     "speaker": "system",
+     "text": {
+      "en": "Sending [Photo_420122]",
+      "zh-TW": "檔案[照片_420122]傳輸中",
+      "zh-CN": "文件[照片_420122]传输中",
+      "ja": "ファイル「写真_420122」送信中",
+      "ko": "파일 [이미지_420122] 전송 중"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "I'm down by the southern coast. There's a city nearby, bright and clear at night.",
+      "zh-TW": "這是南方的海岸邊。附近有一座燈火通明的城市，在夜晚看得很清楚。",
+      "zh-CN": "这是南方的海岸边。附近有一座灯火通明的城市，在夜晚看得很清楚。",
+      "ja": "ここは南部の海岸。近くにずっと灯りがついてる街があるから、夜でもはっきり見える。",
+      "ko": "여기는 남쪽 해안이야. 근처엔 불빛 가득한 도시가 있는데, 밤에도 아주 선명하게 보여."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "But honestly, I find myself drawn more to storms rolling in from the ocean.",
+      "zh-TW": "不過相比之下，我更喜歡從海洋逼近的風暴。",
+      "zh-CN": "不过相比之下，我更喜欢从海洋逼近的风暴。",
+      "ja": "でも、海から迫ってくる嵐のほうが私は好きだ。",
+      "ko": "하지만 난 바다에서 밀려오는 폭풍이 더 좋아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Towering waves, roaring wind ... that's what soothes me.",
+      "zh-TW": "大浪翻湧，風暴咆哮，剛好能讓我平靜下來。",
+      "zh-CN": "大浪翻涌，风暴咆哮，正好能让我平静下来。",
+      "ja": "荒れ狂う大波に、叫ぶ風。そっちのほうがずっと落ち着く。",
+      "ko": "거센 파도와 포효하는 폭풍... 오히려 날 더 차분하게 만들지."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Where are you? La Fantoma?",
+         "zh-TW": "你這是在哪裡？菈梵朵瑪？",
+         "zh-CN": "你这是在哪儿？菈梵朵玛？",
+         "ja": "今どこにいるの？ラヴァンドマ？",
+         "ko": "지금 어디에 있어? 라반도르마야?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Careful! Don't get too close!",
+         "zh-TW": "小心危險，別太接近！",
+         "zh-CN": "小心危险，别太接近！",
+         "ja": "危ないよ。余り近づかないようにしないと。",
+         "ko": "위험해! 너무 가까이 가지 마!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Laevatain] is offline",
+      "zh-TW": "[萊萬汀]已離線",
+      "zh-CN": "[莱万汀]已离线",
+      "ja": "「レーヴァテイン」オフラインになりました",
+      "ko": "[레바테인] 오프라인"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Photo_420122] failed to send",
+      "zh-TW": "檔案[照片_420122]傳輸失敗",
+      "zh-CN": "文件[照片_420122]传输失败",
+      "ja": "ファイル「写真_420122」送信に失敗しました",
+      "ko": "파일 [이미지_420122] 전송 실패"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Laevatain] is online",
+      "zh-TW": "[萊萬汀]已上線",
+      "zh-CN": "[莱万汀]已上线",
+      "ja": "「レーヴァテイン」オンラインになりました",
+      "ko": "[레바테인] 온라인"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "Sending [Photo_420924]",
+      "zh-TW": "檔案[照片_420924]傳輸中",
+      "zh-CN": "文件[照片_420924]传输中",
+      "ja": "ファイル「写真_420924」送信中",
+      "ko": "파일 [이미지_420924] 전송 중"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Signal's weak. I'm on the cable car, heading up to the top of a snowy peak.",
+      "zh-TW": "訊號不好。這是在纜車上，正前往雪山之巔。",
+      "zh-CN": "信号不好。这是在缆车上，正前往雪山之巅。",
+      "ja": "電波が悪いな。これはロープウェイに乗って撮った。今、雪山の山頂に向かってる。",
+      "ko": "신호가 안 좋아. 지금 케이블카 안에 있어, 온통 눈으로 덮인 산 정상으로 가는 중이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "I can hear avalanches rolling every now and then.",
+      "zh-TW": "遠處時不時傳來雪崩的聲音。",
+      "zh-CN": "远处时不时传来雪崩的声音。",
+      "ja": "たまに、雪崩の音が遠くから響いてくる。",
+      "ko": "멀리서 드문드문 눈사태 나는 소리가 들려."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "If I jumped now, I'd probably get buried in snow and vanish.",
+      "zh-TW": "如果這個時候跳下去，大概會被積雪淹沒得無影無蹤。",
+      "zh-CN": "如果这个时候跳下去，估计会被积雪淹没得无影无踪。",
+      "ja": "もし今飛び降りでもしたら、雪に埋もれて跡形もなく消えるだろう。",
+      "ko": "이때 뛰어내리면 아마 눈에 파묻혀 흔적도 없이 사라지겠지."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sounds like you're in Kjersch... How did you get that far?",
+         "zh-TW": "聽起來是耶爾什……你怎麼一下子跑那麼遠？",
+         "zh-CN": "听起来是耶尔什……你怎么一下子跑那么远？",
+         "ja": "そこはイェルシェかな。どうしてそんなに遠くに？",
+         "ko": "설명을 들으니, 옐시에 간 것 같은데... 어떻게 그렇게 멀리까지 간 거야?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Which mountain are you on? How did you get that far?",
+         "zh-TW": "你在哪座山？怎麼一下子跑那麼遠？",
+         "zh-CN": "你在哪座山？怎么一下子跑那么远？",
+         "ja": "どこの山にいるの？どうしてそんなに遠くまで？",
+         "ko": "지금 어느 산에 있어? 어떻게 그렇게 멀리까지 간 거야?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Laevatain] is offline",
+      "zh-TW": "[萊萬汀]已離線",
+      "zh-CN": "[莱万汀]已离线",
+      "ja": "「レーヴァテイン」オフラインになりました",
+      "ko": "[레바테인] 오프라인"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Photo_420924] failed to send",
+      "zh-TW": "檔案[照片_420924]傳輸失敗",
+      "zh-CN": "文件[照片_420924]传输失败",
+      "ja": "ファイル「写真_420924」送信に失敗しました",
+      "ko": "파일 [이미지_420924] 전송 실패"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Laevatain] is online",
+      "zh-TW": "[萊萬汀]已上線",
+      "zh-CN": "[莱万汀]已上线",
+      "ja": "「レーヴァテイン」オンラインになりました",
+      "ko": "[레바테인] 온라인"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "Sending [Photo_421214]",
+      "zh-TW": "檔案[照片_421214]傳輸中",
+      "zh-CN": "文件[照片_421214]传输中",
+      "ja": "ファイル「写真_421214」送信中",
+      "ko": "파일 [이미지_421214] 전송 중"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "I didn't think I'd find a Durin city hidden in the smoke-covered mountain.",
+      "zh-TW": "沒想到在被煙霧掩蓋的山體中，還有這樣一座杜林城市。",
+      "zh-CN": "没想到在被烟雾掩盖的山体中，还有这么一座杜林城市。",
+      "ja": "煙に覆われた山の中に、まさかドゥリンの都市があるとは。",
+      "ko": "연기로 뒤덮인 산속에 이런 두린 도시가 있을 줄이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "So many furnaces, rails, machines... It's like the city has its own veins and heart.",
+      "zh-TW": "密布的熔爐、軌道、工具機……像血管和心臟一樣。",
+      "zh-CN": "密布的熔炉、轨道、机床……像血管和心脏一样。",
+      "ja": "溶炉、レール、機械がぎっしり詰まって……まるで、心臓と血管みたいだ。",
+      "ko": "빼곡히 놓인 용광로, 궤도, 기계들... 마치 혈관이랑 심장 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "The sparks flying out are just as intense as my flames.",
+      "zh-TW": "飛濺的火花，和我的火焰不相上下。",
+      "zh-CN": "飞溅的火花，和我的火焰不相上下。",
+      "ja": "飛び散る火花は、私の炎にも負けてない。",
+      "ko": "튀어 오르는 불꽃은 내 불꽃과도 맞먹을 정도야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Triglava? You're just sending me your trip notes, right?",
+         "zh-TW": "怎麼是特里格拉夫？你是在傳旅遊紀錄給我嗎？",
+         "zh-CN": "怎么是特里格拉夫？你是在给我发旅途记录吧？",
+         "ja": "今はトリグラフ……？なんだか旅行の記録のような……",
+         "ko": "트리글라바라고? 지금 나한테 계속 여행 일지를 보내고 있는 거야?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "How did you even get there? This is another one of your travel updates, isn't it?",
+         "zh-TW": "你是怎麼進到那裡的？你是在傳旅遊紀錄給我嗎？",
+         "zh-CN": "你是怎么进到那里的？你是在给我发旅途记录吧？",
+         "ja": "どうやって入ったの？それに、なんだか旅行の記録のような……",
+         "ko": "거긴 어떻게 들어간 거야? 지금 나한테 계속 여행 일지를 보내고 있는 거야?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Laevatain] is offline",
+      "zh-TW": "[萊萬汀]已離線",
+      "zh-CN": "[莱万汀]已离线",
+      "ja": "「レーヴァテイン」オフラインになりました",
+      "ko": "[레바테인] 오프라인"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Photo_421214] failed to send",
+      "zh-TW": "檔案[照片_421214]傳輸失敗",
+      "zh-CN": "文件[照片_421214]传输失败",
+      "ja": "ファイル「写真_421214」送信に失敗しました",
+      "ko": "파일 [이미지_421214] 전송 실패"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Are our Baker conversations basically your travel log now?",
+      "zh-TW": "你是不是把我們的Baker對話……當成打卡紀念牆了？",
+      "zh-CN": "你是不是把我们的Baker会话……当成打卡纪念墙了？",
+      "ja": "もしかして、Bakerのチャットを旅行記代わりにしていない？",
+      "ko": "너 지금 우리의 Baker 대화창을... 여행 일지 메모로 쓰는 건 아니지?"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Laevatain] is online",
+      "zh-TW": "[萊萬汀]已上線",
+      "zh-CN": "[莱万汀]已上线",
+      "ja": "「レーヴァテイン」オンラインになりました",
+      "ko": "[레바테인] 온라인"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "I don't see any problem with it.",
+      "zh-TW": "有何不可？",
+      "zh-CN": "有何不可？",
+      "ja": "駄目か？",
+      "ko": "안 될 것도 없지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Any cool places you'd suggest I visit? I could swing by a few extra spots while I'm out.",
+      "zh-TW": "你還有什麼印象深刻的地方，可以推薦我去？趁這次遠行，可以多跑幾個地方。",
+      "zh-CN": "你还有什么印象深刻的地方，可以推荐我去？趁这次远行，可以多跑几个地方。",
+      "ja": "あんたの印象に残ってる場所があったら教えて。今回の旅で、行ってみたいから。",
+      "ko": "혹시 네가 인상 깊었던 장소 있어? 이번에 나온 김에 들를 만한 데를 좀 추천해 줘."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "My memories aren't back yet.",
+         "zh-TW": "我的記憶都還沒恢復呢。",
+         "zh-CN": "我的记忆都还没恢复呢。",
+         "ja": "まだ、記憶が戻っていないんだ。",
+         "ko": "나 아직 기억이 돌아오지도 않았어..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I thought you knew more about Talos-II than me.",
+         "zh-TW": "對塔衛二，我比你還陌生。",
+         "zh-CN": "对塔卫二，我比你还陌生。",
+         "ja": "タロⅡのことなら、きっと君のほうが詳しいはずだ。",
+         "ko": "탈로스 II에 대해, 내가 모르는 게 더 많을걸?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Alright then.",
+      "zh-TW": "原來是這樣。",
+      "zh-CN": "原来是这样。",
+      "ja": "そうか。",
+      "ko": "그렇구나."
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Laevatain] is offline",
+      "zh-TW": "[萊萬汀]已離線",
+      "zh-CN": "[莱万汀]已离线",
+      "ja": "「レーヴァテイン」オフラインになりました",
+      "ko": "[레바테인] 오프라인"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Laevatain] is online",
+      "zh-TW": "[萊萬汀]已上線",
+      "zh-CN": "[莱万汀]已上线",
+      "ja": "「レーヴァテイン」オンラインになりました",
+      "ko": "[레바테인] 온라인"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Endmin! Guess where I'm at!",
+      "zh-TW": "管理員！你猜我在哪裡？",
+      "zh-CN": "管理员！你猜我在哪儿？",
+      "ja": "管理人。今、どこにいると思う？",
+      "ko": "관리자! 내가 지금 어디 있는지 맞혀볼래?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Where?",
+      "zh-TW": "你在哪裡？",
+      "zh-CN": "你在哪里？",
+      "ja": "どこにいるんだろう？",
+      "ko": "어디 있는데?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Right in front of the freezer in Dijiang's canteen. Which ice cream flavor do you want?",
+      "zh-TW": "我正在帝江號餐廳的冰箱前。你想要什麼口味的冰淇淋？",
+      "zh-CN": "我正在帝江号食堂的冰柜前。你想要哪个口味的冰淇淋？",
+      "ja": "帝江号の食堂、冷凍庫の前。あんたはどのアイスクリームにする？",
+      "ko": "지금 제강호 식당 냉동고 앞이야. 어떤 맛 아이스크림을 먹고 싶어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Weren't you supposed to be traveling?",
+      "zh-TW": "你不是在遠行嗎？為什麼中斷了？",
+      "zh-CN": "你不是在远行吗？为什么中断了？",
+      "ja": "旅の途中だったはずだ。どうして戻ってきたの？",
+      "ko": "여행 중 아니었어? 왜 갑자기 돌아온 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "I wanted to show you everything I've seen and gathered across Talos-II. So, I got back early.",
+      "zh-TW": "因為我想馬上讓你看看我在塔衛二各個地方見到的、聽到的、搜集到的東西。",
+      "zh-CN": "因为我想马上让你看看我在塔卫二各个地方见到的、听到的、搜集到的东西。",
+      "ja": "すぐに見せたいと思ったから。タロⅡで見て、聞いて、集めたものを。",
+      "ko": "내가 탈로스 II 곳곳에서 보고 듣고 모은 것들을, 당장 너한테 보여주고 싶어서."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Laevatain",
+      "zh-TW": "萊萬汀",
+      "zh-CN": "莱万汀",
+      "ja": "レーヴァテイン",
+      "ko": "레바테인"
+     },
+     "text": {
+      "en": "Hurry, or others will take all the gifts!",
+      "zh-TW": "快點，再不來，禮物就被其他人分光了。",
+      "zh-CN": "抓紧点，再不来，礼物就被其他人分光了。",
+      "ja": "とにかく、早く来るんだね。じゃないと、あんたの分のお土産がなくなる。",
+      "ko": "서둘러 와, 안 그러면 다른 사람들한테 선물 다 뺏길 거야."
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 0
+}

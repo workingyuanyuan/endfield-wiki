@@ -1,0 +1,1628 @@
+{
+ "slug": "purrchena",
+ "gameId": "chr_0038_purrche",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Purrchena\nGENDER: Female\nAUTHENTICATION: Talos-II General Chamber of Commerce (TGCC)\nDOB: November 26\nRACE: Feline\n[ORIPATHY INFECTION STATUS]\nOripathy negative, based on medical examination reports.\n\n[INTEGRATED PHYSICAL EXAMINATION]\nPHYSIOLOGICAL STRENGTH: Normal\nCOMBAT SKILL: Excellent\nTACTICAL ACUMEN: Standard\nORIGINIUM ARTS ASSIMILATION: Standard",
+    "zh-TW": "【代號】噗切娜\n【性別】女\n【身分認證】環塔商會\n【生日】11月26日\n【種族】菲林\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：普通\n作戰技巧：優良\n戰術規劃：標準\n源石技藝適應性：標準",
+    "zh-CN": "【代号】噗切娜\n【性别】女\n【身份认证】环塔商会\n【生日】11月26日\n【种族】菲林\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：普通\n作战技巧：优良\n战术规划：标准\n源石技艺适应性：标准",
+    "ja": "【コードネーム】プチエナ\n【性別】女\n【身分証明】環タロ商会\n【誕生日】11月26日\n【種族】フェリーン\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：普通\n戦闘技術：優秀\n戦術立案：標準\nアーツ適性：標準",
+    "ko": "[코드네임] 푸치나\n[성별] 여\n[신분 인증] 탈로스 II 상업연합회\n[생일] 11월 26일\n[종족] 필라인\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 일반\n작전 기술: 우수\n전술 계획: 표준\n오리지늄 아츠 적응성: 표준"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Purrchena, Brand Ambassador for the Talos-II General Chamber of Commerce's (TGCC) Ætherside Environmental Impact Syndrome Relief Foundation, currently stationed at Endfield Industries as the liaison between Endfield and TGCC in the field of Ætherside Syndrome relief.\n\nThe first time I met Purrchena, her sunny, cheerful demeanor and the way her personality matched her on-screen persona exactly left a deep impression on me. During our conversations, she always had the other operators in the room bursting with laughter.\nAnother thing that left a strong impression on me was her Ætherside Syndrome. Although the relief foundation had already informed us of her condition in advance, when she suddenly fell asleep right in the middle of our conversation, I still felt a sense of admiration. Even while suffering from her own illness, she still chose to help other patients. That spirit of altruism is truly precious.\n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "噗切娜，環塔商會超域環境影響症候群救助基金會形象代言人，現作為終末地工業與環塔商會在超域症候群救助領域的聯絡員，常駐終末地工業。\n\n我第一次見到噗切娜時，她的陽光開朗，以及與鏡頭前完全一致的個性給我留下了很深的印象。在交談中，噗切娜總是會把在場其他幹員逗得大笑。\n另一個讓我印象深刻的地方，是她的超域症候群。儘管基金會已經提前告知了我們她的特殊病症，但真的當她在和我交談的過程中，突然陷入了沉睡時，我感到了一絲敬佩——即便自己飽受病痛的折磨，也依舊選擇要幫助其他的患者，這種利他精神十分可貴。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "噗切娜，环塔商会超域环境影响综合征救助基金会形象代言人，现作为终末地工业与环塔商会在超域综合征救助领域的联络员，常驻终末地工业。\n\n我第一次见到噗切娜时，她的阳光开朗，以及与镜头前完全一致的个性给我留下了很深的印象。在交谈中，噗切娜总是会把在场其他干员逗得大笑。\n另一个让我印象深刻的地方，是她的超域综合征。尽管基金会已经提前告知了我们她的特殊病症，但真当她在和我交谈的过程中，突然陷入了沉睡时，我感到了一丝敬佩——即便自己饱受病痛的折磨，也依旧选择要帮助其他的患者，这种利他精神十分可贵。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "プチエナは、環タロ商会超域影響症候群支援財団のアンバサダーである。現在はエンドフィールド工業と環タロ商会の超域症候群の支援分野における連絡員として、エンドフィールド工業に常駐している。\n\n「初めてプチエナさんに会ったとき、彼女の陽気で明るい性格と、カメラの前で見せる姿とまったく変わらないその個性が強く印象に残りました。会話の最中も、プチエナさんは常にその場にいた他のオペレーターたちを笑わせていました。」\n「もう1つ印象に残っているのは、彼女が患っている超域症候群です。財団からは事前にその特殊な病状について共有がありましたが、会話の途中で彼女が突然眠りに落ちる姿を目にしたとき、私はある種の敬意を抱きました。自らも病の苦しみに耐えながら、他の患者を助ける道を選ぶというその利他的な精神は、非常に尊いものです。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "푸치나, 탈로스 II 상업연합회 초자연 환경 영향 증후군 구호 기금회 홍보대사. 현재는 초자연 증후군 구호 분야에서 엔드필드 공업과 탈로스 II 상업연합회를 잇는 연락원으로, 엔드필드 공업에 상주하고 있다.\n\n내가 처음 푸치나를 만났을 때, 가장 인상 깊었던 것은 그녀의 밝고 활발한 모습이었다. 카메라 앞에서 보던 모습과 실제 성격이 똑같다는 점도 오래 기억에 남았다. 대화를 나누는 동안 푸치나는 늘 주변의 오퍼레이터들을 웃게 만들었다.\n또 하나 깊은 인상을 남긴 것은 그녀가 앓고 있는 초자연 증후군이었다. 기금회 측에서 이미 그녀의 특수한 병증에 대해 알려 주기는 했지만, 실제로 나와 대화하던 도중 그녀가 갑자기 잠에 빠져드는 모습을 보았을 때, 나는 절로 존경심을 느꼈다. 자신도 병으로 큰 고통을 겪고 있으면서, 여전히 다른 환자들을 돕는 길을 선택하다니. 그런 이타심은 참으로 귀중한 것이다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Dear Supervisor Perlica of Endfield Industries, the Business Office, and the Human Resources Division:\nI hope this finds you well.\nTo further promote communication and cooperation between our two parties in the field of Ætherside Environmental Impact Syndrome relief, I am writing to recommend Ms. Rosalind for a position in the Business Office under Endfield Industries.\nFirst, I must explain Ms. Rosalind's condition to you. She suffers from an incurable form of Ætherside Syndrome. The syndrome attacks and damages her central nervous system, causing her to frequently and suddenly fall asleep. Please rest assured, however, that over the past six years, the upgrades we have made to her personal protective device, along with the long-term medical care we have provided, ensure that her daily work remains unaffected.\nI am sure your organization has heard of the rescue operation Ms. Rosalind participated in five years ago. According to the post-operation summary report, when a storm suddenly doubled back, the search and rescue team and the Ætherside Syndrome patients had no choice but to take shelter in a cave. Since the original plan had been to relocate the patients, the operation's medical supplies were extremely limited. Fortunately, Ms. Rosalind, having traveled extensively with her parents and treated Ætherside Syndrome patients even in the absence of medication, had considerable experience in such situations. With her help, the patients' conditions did not worsen further. According to other team members' debriefings, when the storm was directly above the cave, an RV van that had been blocking the entrance slid out. She immediately grabbed a wooden plank and sealed the gap. After the storm passed, following coverage by our media, the name Purrchena began to circulate throughout the Civilization Band. I must admit, the relief foundation's strategy of having a representative of the patients themselves drive the relief work has indeed proven effective. It has provided us with a large number of valuable special cases while also significantly increasing demand for pharmaceuticals and medical equipment from multiple drug companies.\nWhen I recall the first time I met her, her long bouts of irregular sleep had left her eyes vacant and her face gaunt. Had it not been for Ms. Rosalind's adoptive father reaching out to me, given her condition at the time, even if her Ætherside Syndrome did not worsen, her body would hardly have sustained her into adulthood. Out of humanitarian principles, and also as an investment in the future, we provided her with comprehensive medical care and educational support. As a result, we have a thorough understanding of her professional capabilities. I believe that through this bridge built by Ms. Rosalind, both our parties will achieve strong synergy in the relief of Ætherside Syndrome patients.\nShould your organization wish to further advance cooperation in the field of Ætherside Environmental Impact Syndrome relief, we stand ready to provide support for communication between our two parties at any time. Thank you for taking the time to read this letter. We look forward to achieving more substantive collaboration in the future.\nSincerely\n— H, Representative of the Highburg Pharmaceuticals LLC Ætherside Syndrome Business Unit, President of the Ætherside Environmental Impact Syndrome Relief Foundation",
+    "zh-TW": "致終末地工業的佩麗卡監督，商務辦公室及人力資源事務部：\n近來是否順利？\n為進一步推動雙方在超域環境影響症候群救助領域的溝通與合作，我特此寫信向貴方推薦羅莎琳小姐加入終末地工業下屬商務辦公室。\n首先，我需要向貴方說明羅莎琳小姐的病情——屬於已確認無法被治癒的超域症候群。超域症候群攻擊並損害了她的中樞神經系統，使她會頻繁地突然陷入昏睡。但請放心，六年來，我方對其自行防護裝置進行的升級更新，以及長期為她提供的醫療服務，確保了她的日常工作不會受到影響。\n我相信，羅莎琳小姐在五年前參與的那場救援行動，您們一定有所耳聞。根據行動後的總結報告所描述的，當風暴突然折返，救援隊與超域症候群患者們只能躲進一處山洞。由於一開始的救援計劃是轉移患者，這次行動的藥物儲備十分有限，但幸好羅莎琳小姐在與父母一同四處奔波時，便已經在缺乏藥物的情況下救助過超域症候群患者，對此有著一定的經驗。在她的幫助下，患者們的病情沒有進一步惡化。據其他隊員彙報時所述，當風暴來到山洞的正上方時，一輛堵在洞口的大篷車滑出了山洞，她立刻背著一塊木板，堵上了空缺。風暴過後，經我方媒體的報導，「噗切娜」這一名字開始在文明環帶中流傳。不得不承認，基金會制訂的「由救助對象的代表推動救助工作」這一策略，確實達到了不錯的效果，為我方提供了大量值得研究的特殊病例的同時，也讓多個藥企的藥物需求及醫療設備需求猛增。\n回想起我第一次見到她的時候，長期不規律的昏睡讓她雙眼失神、面容憔悴。要不是羅莎琳小姐的養父突然聯絡到我，根據她當時的狀況，即便她的超域症候群不會進一步惡化，她的身體也很難支撐她到成年。出於人道主義原則，也是出於對未來的投資，我們為她提供了完善的醫療服務及教育支援，也因此，我方對其專業能力有充分瞭解。我相信，透過羅莎琳小姐搭建的這座「橋梁」，你我雙方將在超域症候群患者的救助這方面，發揮良好的協同效應。\n如貴公司希望進一步推進超域環境影響症候群救助領域的合作事宜，我方願隨時為雙方的溝通提供支援。感謝貴公司抽空閱讀此信，期待能在未來達成更多實質性的合作。\n此致\n——海伯格藥品有限公司超域症候群事業部負責人，環塔商會超域環境影響症候群救助基金會名譽主席，H",
+    "zh-CN": "致终末地工业的佩丽卡监督，商务办公室及人力资源事务部：\n近来是否顺利？\n为进一步推动双方在超域环境影响综合征救助领域的沟通与合作，我特此写信向贵方推荐罗莎琳女士加入终末地工业下属商务办公室。\n首先，我需要向贵方说明罗莎琳女士的病情——属于已确认无法被治愈的超域综合征。超域综合征攻击并损害了她的中枢神经系统，使她会频繁地突然陷入昏睡。但请贵方放心，六年来，我方对其自行防护装置进行的升级迭代，以及长期为她提供的医疗服务，确保了她的日常工作不会受到影响。\n我相信，罗莎琳女士在五年前参与的那场救援行动，贵方一定有所耳闻。根据行动后的总结报告所描述的，当风暴突然折返，救援队与超域综合征患者们只能躲进一处山洞。由于一开始的救援计划是转移患者，这次行动的药物储备十分有限，但幸好罗莎琳女士在与父母一同四处奔波时，便已经在缺乏药物的情况下救助过超域综合征患者，对此有着一定的经验。在她的帮助下，患者们的病情没有进一步恶化。据其他队员汇报时所述，当风暴来到山洞的正上方时，一辆堵在洞口的大篷车滑出了山洞，她立马背着一块木板，堵上了空缺。风暴过后，经我方媒体的报道，“噗切娜”这一名字开始在文明环带中流传。不得不承认，基金会制定的“由救助对象的代表推动救助工作”这一策略，确实达到了不错的效果，为我方提供了大量值得研究的特殊病例的同时，也让多个药企的药物需求及医疗设备需求猛增。\n回想起我第一次见到她的时候，长期不规律的昏睡让她双眼失神、面容憔悴。要不是罗莎琳女士的养父突然联系到了我，根据她当时的状况，即便她的超域综合征不会进一步恶化，她的身体也很难支撑她到成年。出于人道主义原则，也是出于对未来的投资，我们为她提供了完善的医疗服务及教育支持，也因此，我方对其专业能力有充分了解。我相信，通过罗莎琳女士搭建的这座“桥梁”，你我双方将在超域综合征患者的救助这方面，发挥良好的协同效应。\n如贵方希望进一步推进超域环境影响综合征救助领域的合作事宜，我方愿随时为双方的沟通提供支持。感谢贵方抽空阅读此信，期待能在未来达成更多实质性的合作。\n此致\n——海伯格药品有限公司超域综合征事业部负责人，环塔商会超域环境影响综合征救助基金会名誉主席，H",
+    "ja": "エンドフィールド工業　ペリカ監察官　マーケティング部および人事部御中\n平素より大変お世話になっております。\n超域影響症候群の支援分野における双方の連携を推進するため、ロザリンド氏をエンドフィールド工業管轄のマーケティング部へ推薦したく、ご連絡いたしました。\nまず、ロザリンド氏の病状についてご説明申し上げます。彼女はすでに治癒不能と診断された超域症候群を患っております。彼女の症状は中枢神経系に損傷を与えるもので、そのため頻繁に突発的な昏睡状態に陥ります。しかし、過去6年間にわたり、我々は自律防護装置の改良とアップデートを重ねるとともに、長期的な医療支援を行って参りました。それによって、日常業務に支障が出ない状態を維持できておりますので、ご安心ください。\n5年前にロザリンド氏が参加した救助活動については、すでに耳にされていることと思います。活動後の報告書によれば、嵐が突然進路を変えて引き返してきた際、救助隊と超域症候群の患者たちは洞窟に避難するしかなかったとのことです。当初の救助計画は患者の移送を目的としていたため、医薬品の備蓄は非常に限られていました。しかし幸いなことに、ロザリンド氏は両親と共に各地を転々としていた頃、医薬品が不足している状況下で超域症候群の患者を救助した経験がありました。彼女の助けにより、患者の病状は悪化せずに済んだのです。他の隊員からの報告では、嵐が洞窟の真上を通過した際、入口を塞いでいたトラックが滑り出したそうです。しかし、彼女が即座に木の板を背負ってその隙間を塞いだとのことでした。嵐が過ぎ去ったあとのメディア報道を通じて、「プチエナ」という名前は文明地帯で広く知られるようになっていきました。財団が策定した「救助対象者の代表によって救助活動を推進する」という戦略は、確かにかなりの効果を上げたと認めざるを得ません。我々のもとに研究価値のある特殊な症例が多数集まっただけでなく、複数の製薬会社における医薬品や医療機器の需要が急増するという結果にも結びついたのです。\n初めて彼女に会ったとき、いつ起こるともわからない昏睡発作に長く悩まされていたため、目はうつろで顔は憔悴しきっていました。もしロザリンド氏の養父が私に連絡をしてこなかったら、超域症候群が悪化しなかったとしても、あの状態のまま、彼女の体が成人まで持ちこたえるのは難しかったでしょう。人道主義的な観点から、そして未来への投資として、我々は彼女に十分な医療・教育支援を提供しました。よって、我々は彼女の専門的な能力について十分に把握しております。ロザリンド氏という「架け橋」を通じて、双方が超域症候群患者の支援において素晴らしい相乗効果を発揮できるものと確信しております。\nもし超域影響症候群の支援分野における連携を強めていきたいというご意向があれば、我々はいつでも協議に応じる用意がございます。今後、具体的な協力関係を築いていけることを期待しております。\n何卒よろしくお願い申し上げます。\n――ハイベルグ製薬株式会社　超域症候群事業部責任者　環タロ商会超域影響症候群支援財団名誉理事長H",
+    "ko": "엔드필드 공업의 펠리카 감독관님, 사업지원실 및 인력 자원 사무부에게:\n요즘 어떻게 지내고 있으신가요? 일이 순조롭게 진행되고 있어요?\n초자연 환경 영향 증후군 구호 분야에서 양측의 소통과 협력을 한층 더 추진하기 위해, 귀사 사업지원실 소속으로 로살린을 추천드리고자 이 서신을 보냅니다.\n먼저 귀사에 로살린의 병세에 대해 설명드릴 필요가 있습니다. 그녀가 앓고 있는 것은 이미 완치가 불가능한 것으로 확인된 초자연 증후군입니다. 초자연 증후군은 그녀의 중추신경계를 공격하고 손상시켰으며, 그로 인해 그녀는 빈번하게 갑작스러운 수면 상태에 빠지곤 합니다. 다만 이 점은 안심하셔도 됩니다. 지난 6년 동안 저희가 그녀의 자아 방호 장치를 꾸준히 업그레이드하고 개선해 왔으며, 장기적인 의료 서비스도 함께 제공해 왔습니다. 덕분에 그녀의 일상 업무에는 지장이 없도록 관리되고 있습니다.\n로살린이 5년 전 참여했던 구조 작전에 대해서는 귀사에서도 분명 들어 보셨을 것이라 생각합니다. 작전 후 작성된 종합 보고서에 따르면, 당시 폭풍이 갑자기 방향을 틀어 되돌아오면서 구조대와 초자연 증후군 환자들은 동굴 안으로 대피할 수밖에 없었습니다. 본래 구조 계획은 환자들을 이송하는 것이었기 때문에, 작전에 준비된 약품은 매우 제한적이었습니다. 다행히 로살린은 부모와 함께 여러 곳을 떠돌던 시절, 약품이 부족한 상황에서도 초자연 증후군 환자를 구조한 경험이 있었습니다. 그녀의 도움 덕분에 환자들의 병세는 더 이상 악화되지 않았습니다. 다른 대원들의 보고에 따르면, 폭풍이 동굴 위까지 다가왔을 때 동굴 입구를 막고 있던 트럭 한 대가 밖으로 밀려났다고 합니다. 그 순간 그녀는 곧바로 널판을 등에 지고 빈틈을 막았습니다. 폭풍이 지나간 뒤, 저희 측 매체의 보도를 통해 '푸치나'라는 이름은 문명 밴드 전역에 알려지기 시작했습니다. 인정하지 않을 수 없습니다. 기금회가 세운 '구호 대상의 대표가 구호 사업을 이끌게 한다'는 전략은 실제로 상당한 성과를 거두었습니다. 그 전략은 저희에게 연구 가치가 높은 특수 사례를 다수 확보하게 해 주었고, 동시에 여러 제약 기업의 의약품 및 의료 장비 수요를 크게 끌어올렸습니다.\n제가 그녀를 처음 만났을 때를 떠올려 보면, 장기간 불규칙하게 찾아오는 수면 증상 때문에 그녀의 눈빛은 흐렸고 얼굴은 몹시 초췌했습니다. 로살린의 양아버지께서 갑작스럽게 제게 연락하지 않았다면, 당시 그녀의 상태로는 설령 초자연 증후군이 더 악화되지 않았더라도, 성인이 될 때까지 몸이 버티기 어려웠을 것입니다. 인도주의적 원칙에 따라, 그리고 미래를 향한 투자라는 관점에서, 저희는 그녀에게 체계적인 의료 서비스와 교육 지원을 제공했습니다. 그렇기에 저희는 그녀의 전문 능력에 대해서도 충분히 이해하고 있습니다. 저는 로살린이 놓아 줄 이 '다리'를 통해, 귀사와 저희 양측이 초자연 증후군 환자 구호 분야에서 훌륭한 협력 효과를 발휘할 수 있으리라 믿습니다.\n귀사에서 초자연 환경 영향 증후군 구호 분야의 협력을 한층 더 추진하고자 하신다면, 저희는 언제든 양측의 소통을 지원할 준비가 되어 있습니다. 바쁘신 와중에도 이 서신을 읽어 주셔서 감사드리며, 앞으로 더 많은 실질적인 협력이 이루어지기를 기대합니다.\n- 하이버그 제약 초자연 증후군 사업부 책임자, 탈로스 II 상업연합회 초자연 환경 영향 증후군 구호 기금회 명예 의장, H"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "\"You're watching Frontline Face-to-Face. Our reporter has arrived at the Ætherside Syndrome medical center in northern La Fantoma and has gotten in touch with the Brand Ambassador of the Ætherside Environmental Impact Syndrome Relief Foundation. Let us now go live to the scene. Ms. Purrchena, this is Dinah. Can you hear me over there?\"\n\"Yes, hello Dinah! Hello everyone! I am Purrchena, the Brand Ambassador for the Ætherside Environmental Impact Syndrome Relief Foundation.\"\n\"Hello, Ms. Purrchena. We are all very concerned about this emergency lockdown. Could you tell us what the situation is like over there? I heard you happened to be there visiting Ætherside Syndrome patients when it happened.\"\n\"Huh? I mean, yeeeaahhh I could ... but are you sure you want me to talk about it now? I remember a lot of kids watch your show.\"\n\"Haha, don't worry! We're professionals here. If what you say gets a bit too intense, we will give you a heads up.\"\n\"Okay, cuz the patients living here are all in very serious condition. The one I remember most vividly had his back covered in wounds that looked like they had been slashed by a knife. I saw a doctor touch one of them with a piece of Originium, and the wound just twisted and contorted.\"\n\"That is quite peculiar ... and rather frightening. Could you elaborate on Ætherside Environmental Impact Syndrome? We really do not know much about it at the moment.\"\n\"Um... Well, it is more or less what the textbooks say. If we go into any more detail, even we would have to read through several very thick books just to barely understand it. But to put it in the words of one of the relief foundation's researchers, it is less a disease in the traditional sense and more a unique phenomenon that manifests when Ætherside environments affect the human body.\"\n\"I see. Then is this sudden lockdown really because of an Ætherside Syndrome patient, just like the official announcement says?\"\n\"Correct.\"\n\"So what exactly happened? There are rumors that something similar to the disintegration phenomenon seen in Oripathy positive patients occurred.\"\n\"Not at all! Disintegration happens after a patient dies, but Ætherside Syndrome doesn't. I was talking to him just a moment ago, and then in an instant he was... Thank goodness I was the only one in the isolation ward at the time. Sigh, even though the medical center's condition monitoring system is very thorough, it is completely helpless against this kind of situation.\"\n\"Ahh... So it sounds like the progression of Ætherside Syndrome is very difficult to predict?\"\n\"That is the hardest part about treating these patients. And the unpredictability varies from case to case. Sometimes the condition suddenly worsens. Sometimes the symptoms abruptly change.\"\n\"The symptoms can change?\"\n\"Yeah. Take me for example. Right now Purrchena's symptom is falling asleep at any moment. But if Purrchena were to enter a high-depth environment without the proper protective gear, she might end up flickering like a person on a broken handyterm screen. Or there might be another Purrchena, visible but intangible, waving and greeting everyone, while the real Purrchena lies as if asleep and cannot be roused no matter how much you call. Of course, this risk applies not just to patients, but to any ordinary person who enters a high-depth environment as well.\"\n\"It truly is an unpredictable illness. Therefore, everyone must make sure to wear their protective gear properly before entering any high-depth environment!\"\n\"Absolutely right! If for any reason you must enter a high-depth environment, be sure to wear your protective gear correctly. And of course, for high-depth environments, avoid unless absolutely necessary!\"\n\"Thank you for that reminder, Ms. Purrchena. To wrap up the interview, is there anything else you would like to say to our audience?\"\n\"Oooooh yes I do. Although we still cannot cure Ætherside Syndrome, please do not panic. As long as you do not come into contact with high-depth environments, there is no risk of contracting it. And please do not treat the patients around you like monsters. Ætherside Syndrome is not ... is not ... contagious...\"\n\"Ms. Purrchena? Uh... Ms. Purrchena?\"\n\"...*BEEP*\"\n\"Uh... Looks like we're experiencing some technical difficulties. Next up, let us speak to...\"",
+    "zh-TW": "「這裡是《探訪第一線》訪談節目。我們的記者已經抵達了位於菈梵朵瑪北部的超域症候群醫療中心，並聯絡到了超域環境影響症候群救助基金會的形象代言人，現在讓我們連線現場。噗切娜小姐，我是緹娜，你那邊能聽見嗎？」\n「嗯嗯，你好，緹娜！大家好，我是噗切娜，超域環境影響症候群救助基金會的形象代言人喔！」\n「你好，噗切娜小姐。目前我們都很關注這次的緊急封鎖事件，你能說說那裡的情況如何嗎？聽說事發時你剛好在那裡慰問超域症候群患者。」\n「欸？可以是可以啦，只是確定要現在講嗎？我記得你們節目有很多小朋友在看欸。」\n「哈哈，請你放心，我們是專業的。要是你講的內容尺度過大，我們會提醒你的。」\n「嗯嗯，好。因為住在這裡的患者們，病情都非常嚴重。我印象最深刻的一位患者，他背上布滿了像是被刀劃過的傷痕，我看見有醫生用源石碰了一下，傷口就變得扭曲了起來。」\n「這很奇特……也很可怕，能麻煩你詳細講講超域環境影響症候群嗎？目前關於這種病症我們瞭解的確實不是很多。」\n「嗯……其實和教科書上講的也差不多啦，要是再細究的話，連我們自己都要看完好幾本很厚很厚的書才能勉強理解。不過，用基金會的一個科研人員的話說——比起傳統意義上的病症，更像是超域環境影響人體時表現出的獨特現象。」\n「好的，我明白了。那這次突然的封鎖，真的和官方通報的一樣，是因為一位超域症候群患者嗎？」\n「是的。」\n「那究竟是發生了什麼事情呢？有傳聞說是發生了和礦石病感染者崩解現象類似的事件？」\n「不一樣！崩解現象是在患者死亡後發生的，但超域症候群不是！一開始我還在跟他說話，只是一瞬間就……幸好當時只有我在隔離病房裡。唉，雖然醫療中心的病情監測系統十分完善，但對這種情況也是一點辦法都沒有！」\n「嗯……聽起來像是，超域症候群的病情發展，很難被預測？」\n「這也是我們救助患者時最困難的地方……而且不可預測的情況還各有不同，有的是病情突然惡化，有的是病徵突然發生改變。」\n「病徵會突然發生改變？」\n「嗯嗯，就拿我舉例子。噗切娜現在的病徵是隨時都可能會睡著，但要是噗切娜在沒有正確穿戴防護裝置的時候，跑進了高深度環境，噗切娜就可能會變成……像行動終端損壞時畫面裡的人那樣，閃爍不停；或者是出現了另一個看得見、摸不著的噗切娜，在那裡和大家揮手打招呼，但真正的噗切娜卻像是睡著了一樣，怎麼叫都叫不醒了。當然，不只是患者，普通人進入高深度環境也有這個風險！」\n「確實是一個變幻莫測的病症。所以大家在進入高深度環境之前，一定要正確穿戴好防護裝置。」\n「是的，沒錯！如果因為各種原因必須要進入高深度環境，一定要正確穿戴防護裝置。當然！高深度環境！非必要！不接觸！」\n「感謝噗切娜小姐的提醒。採訪的最後，你還有什麼話想對觀眾朋友們說的嗎？」\n「有啊有啊，雖然我們現在並不能治好超域症候群，但是也請大家不要過度慌張，只要不接觸高深度環境就不會有患病的風險！也請大家不要把身邊的患者當成怪物，超域症候群並不會……並不會……傳染……」\n「噗切娜小姐？噗切娜小姐？」\n「——嘟……」\n「呃……遇到了點技術性故障，接下來讓我們連線……」",
+    "zh-CN": "“这里是《探访第一线》访谈节目。我们的记者已经抵达了位于菈梵朵玛北部的超域综合征医疗中心，并联系到了超域环境影响综合征救助基金会的形象代言人，现在让我们连线现场。噗切娜女士，我是缇娜，你那儿能听见吗？”\n“嗯嗯，你好，缇娜！大家好，我是噗切娜，超域环境影响综合征救助基金会的形象代言人哦！”\n“你好，噗切娜女士。目前我们都很关注这次的紧急封锁事件，你能说说那里的情况如何吗？听说事发时你正好在那里慰问超域综合征患者。”\n“欸？可以是可以啦，只是确定要现在讲吗？我记得你们节目有很多小朋友在看欸。”\n“哈哈，请你放心，我们是专业的。要是你讲的内容尺度过大，我们会提醒你的。”\n“嗯嗯，好。因为住在这里的患者们，病情都十分严重。我印象最深刻的一个患者，他背上布满了像是被刀划过的伤痕，我看见有医生用源石碰了一下，伤口就变得扭曲了起来。”\n“这很奇特……也很可怕，能麻烦你详细讲讲超域环境影响综合征吗？目前关于这种病症我们的了解确实不是很多。”\n“嗯……其实和教科书上讲的大差不差啦，要是再细究的话，连我们自己都要看完好几本很厚很厚的书才能勉强理解。不过，用基金会的一个科研人员的话说——比起传统意义上的病症，更像是超域环境影响人体时表现出的独特现象。”\n“好的，我明白了。那这次突然的封锁，真的和官方通报的一样，是因为一位超域综合征患者吗？”\n“是的。”\n“那具体是发生了什么事情呢？有传闻说是发生了和矿石病感染者崩解现象类似的事件？”\n“不一样！崩解现象是在患者死亡后发生的，但超域综合征不是！一开始我还和他说着话，只是一瞬间就……幸好当时只有我在隔离病房里。唉，虽然医疗中心的病情监测系统十分完善，但对这种情况也是一点办法都没有！”\n“嗯……听起来像是，超域综合征的病情发展，很难被预测？”\n“这也是我们救助患者时最困难的地方……而且不可预测的情况还各有不同，有的是病情突然恶化，有的是病征突然发生改变。”\n“病征会突然发生改变？”\n“嗯嗯，就拿我举例子。噗切娜现在的病征是随时都可能会睡着，但要是噗切娜在没有正确穿戴防护装置的时候，跑进了高深度环境，噗切娜就可能会变成……像移动终端损坏时画面里的人那样，闪烁不停；或者是出现了另一个看得见、摸不着的噗切娜，在那里和大家招手打招呼，但真正的噗切娜却像是睡着了一样，怎么叫都叫不醒了。当然，不只是患者，普通人进入高深度环境也有这个风险！”\n“确实是一个变幻莫测的病症。所以大家在进入高深度环境之前，一定要正确穿戴好防护装置。”\n“是的，没错！如果因为各种原因必须要进入高深度环境，一定要正确穿戴防护装置。当然！高深度环境！非必要！不接触！”\n“感谢噗切娜女士的提醒。采访的最后，你还有什么话想对观众朋友们说的吗？”\n“有呀有呀，虽然我们现在并不能治好超域综合征，但是也请大家不要过度慌张，只要不接触高深度环境就不会有患病的风险！也请大家不要把身边的患者当成怪物，超域综合征并不会……并不会……传染……”\n“噗切娜女士？噗切娜女士？”\n“——嘟……”\n“呃……遇到了点技术性故障，接下来让我们连线……”",
+    "ja": "「インタビュー番組『最前線訪問』です。記者はすでにラヴァンドマ北部にある超域症候群医療センターに到着し、超域影響症候群支援財団アンバサダーと連絡を取っています。それでは現地に繋いでみましょう。プチエナさん、ティナです。聞こえますか？」\n「は～い！ティナさん、みなさん、こ～んにちは！超域影響症候群支援財団アンバサダー、プチエナですっ！」\n「こんにちは、プチエナさん。今回の緊急封鎖については、現在、大きな関心が寄せられています。そちらの状況について教えていただけますか？事件発生時、あなたはちょうど超域症候群の患者さんたちを訪問していたそうですが。」\n「ふむう……あのですね、これって今お話して大丈夫なんでしょうか？この番組は、小さな子どもたちもたくさん見てるって聞きましたよ。」\n「そこはご安心ください。私たちはプロです。もしお話の内容が過激すぎると判断した場合は、こちらから止めますので。」\n「ほむう、なるほどなのです。では……ここにいる患者さんたちは、症状がすごく重いのです。わたしが一番印象に残ってる患者さんは、背中に刃物でつけられたような傷跡がたくさんあって、お医者さんが源石で触れたら、傷口がぐにゃあって歪んじゃいました。」\n「それは不思議ですし……恐ろしいですね。現在、この病気について分かっていることはあまり多くありません。超域症候群について、もう少し詳しく説明していただけますか？」\n「ううむ……実は教科書に書いてあることくらいしかお話できないのです。もっと詳しくってなると、わたしたちでも分厚い本を何冊も読まないとわからないですからねっ。でも、財団の研究員さんの言葉を借りるなら、病気というよりは、超域環境が人体に影響を与えたときに現れる独特な現象、という感じでしょうか？」\n「なるほど、分かりました。では、今回の突然の封鎖は、公式発表のとおり、1人の超域症候群患者が原因だったというのは本当ですか？」\n「はいっ、その通りです！」\n「では、具体的に何が起こったのでしょうか？鉱石病感染者の崩壊現象と似たような事件が起きたという噂もありますが。」\n「ちがいますよ～！崩壊現象は患者さんが亡くなった後に起きるものですけど、超域症候群は違うんです！さっきまでお話してたのに、一瞬で……あのとき、隔離病室にいたのがわたしだけで本当によかったです。ふぅ……医療センターの症状モニタリングシステムはと～っても整ってるのに、こういうときにはどうすることもできないのです。」\n「つまり……超域症候群の病状の進行を予測するのは非常に難しいということですね？」\n「そこが、わたしたちが患者さんを助けるときに一番難しいところなのです。状態も人それぞれで、症状が急に悪化する人もいれば、症状そのものが変わっちゃう人もいるのです……」\n「症状が突然変わるんですか？」\n「そうですよ。たとえばわたしですけども、今の症状は、突然眠ってしまうことです。もし防護装置を着けないで深度の高い場所に入っちゃったら、わたしは……端末が壊れたときの画面に映ってる人みたいに、パチパチ点滅しちゃうかもしれません。それか、見えてるのにさわれないもう1人のプチエナが登場して、みんなに手を振ってやっほ～ってしてるのに、本当のわたしは眠ったみたいになって、いくら呼んでも起きなくなっちゃうかもしれないんですよ。と～ぜん、患者さんだけじゃなくて、みなさんも深度の高いところではそういう危険があるのですよ！」\n「確かに予測が難しい症状なのですね。だからこそ、高深度環境に入る前には、必ず防護装置を正しく着用しなければならないのですね。」\n「はいっ、その通りで～す！もしど～しても高深度の場所に入らなきゃってときは、ぜ～ったいに防護装置を正しく着けてください。『高深度環境！不要な！接触禁止！』なので～す！」\n「プチエナさん、注意喚起をありがとうございます。インタビューの最後に、視聴者の皆さんに何か伝えたいことはありますか？」\n「はいっ、あります！今はまだ超域症候群を治すことはできないのですが、みなさん、そんなに怖がらなくてもへ～きです。深度の高い場所に近寄らなければ、発症する危険はないのですよっ！それから、周りにいる患者さんたちを怪物みたいに思わないであげてください。超域症候群は……うつったり……しない……のです……」\n「プチエナさん？プチエナさん？」\n「――ツーツー……」\n「ええと……技術的なトラブルが発生したようです。それでは続いて……」",
+    "ko": "\"여기는 인터뷰 프로그램 <최전선 대면 인터뷰>입니다. 저희 기자는 현재 라반도르마 북쪽에 위치한 초자연 증후군 의료 센터에 나와 있으며, 초자연 환경 영향 증후군 구호 기금회의 홍보대사와 만나게 되었습니다. 그럼 현장을 연결해 보겠습니다. 푸치나 씨, 저는 티나입니다. 제 목소리 들리시나요?\"\n\"네, 네! 안녕하세요, 티나 씨! 여러분도 안녕하세요! 저는 초자연 환경 영향 증후군 구호 기금회의 홍보대사, 푸치나예요!\"\n\"안녕하세요, 푸치나 씨. 현재 많은 분들이 이번 긴급 봉쇄 사건에 관심을 가지고 있습니다. 현장 상황이 어땠는지 말씀해 주실 수 있을까요? 사건 당시 마침 그곳에서 초자연 증후군 환자들을 위문하고 계셨다고 들었습니다.\"\n\"어? 말해도 되긴 하는데... 정말 지금 얘기해도 괜찮아요? 이 프로그램, 어린이들도 많이 보는 걸로 알고 있는데요\"\n\"하하, 걱정하지 않으셔도 됩니다. 저희는 전문가니까요. 내용 수위가 지나치면 저희가 바로 안내해 드리겠습니다.\"\n\"네, 알겠어요. 거기 입원한 환자분들은 병세가 다들 아주 심각했어요. 가장 기억에 남는 환자분은 등에 칼로 베인 것 같은 상처가 가득했는데, 의사 선생님이 오리지늄으로 살짝 건드리자 상처가 뒤틀리기 시작했어요.\"\n\"매우 특이하고... 또 무서운 사례군요. 초자연 환경 영향 증후군에 대해 조금 더 자세히 설명해 주실 수 있을까요? 현재 저희도 이 병증에 대해 알고 있는 것이 많지 않습니다.\"\n\"음... 사실 교과서에 나오는 설명과 크게 다르진 않아요. 더 많은 것을 알려면 저희도 아주 두꺼운 책을 몇 권씩 읽어야 겨우 이해할 수 있거든요. 그래도 기금회의 한 과학 연구 요원의 말을 빌리자면, 전통적인 의미의 병이라기보다는 초자연 환경이 인체에 영향을 줄 때 나타나는 특수한 현상에 더 가깝다고 해요.\"\n\"네, 이해했습니다. 그렇다면 이번 갑작스러운 봉쇄는 공식 발표처럼 정말 초자연 증후군 환자 한 분 때문에 발생한 일인가요?\"\n\"네.\"\n\"구체적으로 어떤 일이 있었던 건가요? 일각에서는 광석병 감염자의 붕괴 현상과 비슷한 사건이 있었다는 소문도 있습니다.\"\n\"달라요! 붕괴 현상은 환자가 사망한 뒤에 일어나는 일이지만, 초자연 증후군은 그렇지 않아요! 처음에는 저도 그분과 대화를 나누고 있었는데, 정말 한순간에... 다행히 그때 격리 병실 안에는 저밖에 없었어요. 하아, 의료 센터의 병세 감시 시스템은 아주 잘 갖춰져 있었지만, 이런 상황에는 정말 아무 방법이 없더라고요!\"\n\"음... 말씀을 들어 보니, 초자연 증후군은 병세의 진행을 예측하기가 매우 어려운 것 같군요?\"\n\"그게 바로 환자분들을 도울 때 가장 어려운 점이에요... 게다가 예측할 수 없는 방식도 다 달라요. 갑자기 병세가 악화되는 경우도 있고, 증상이 갑자기 바뀌는 경우도 있거든요.\"\n\"증상이 갑자기 바뀐다고요?\"\n\"네. 저를 예로 들어 볼게요. 지금 증상은 언제든 갑자기 잠들 수 있다는 거예요. 그런데 방호 장치를 제대로 착용하지 않은 채 고심도 환경에 들어가면, 모바일 단말기가 고장 났을 때 화면 속 사람이 깜빡이는 것처럼 계속 깜빡이게 될 수도 있어요. 아니면 눈에는 보이는데 만질 수는 없는 또 다른 푸치나가 나타나서, 모두에게 손을 흔들며 인사하고 있을 수도 있고요. 그런데 진짜 푸치나는 잠든 것처럼 아무리 불러도 깨어나지 않는 거죠. 물론 환자뿐만 아니라, 일반인이 고심도 환경에 들어가도 이런 위험은 있어요!\"\n\"정말 예측하기 어려운 병증이군요. 그러니 여러분도 고심도 환경에 들어가기 전에는 반드시 방호 장치를 올바르게 착용하셔야겠습니다.\"\n\"맞아요! 여러 사정 때문에 꼭 고심도 환경에 들어가야 한다면, 반드시 방호 장치를 제대로 착용해야 해요. 그리고! 고심도 환경은! 꼭 필요한 게 아니면! 접촉하지 않기!\"\n\"푸치나 씨, 중요한 안내 감사합니다. 인터뷰를 마치기 전에 시청자 여러분께 전하고 싶은 말씀이 있을까요?\"\n\"있어요. 지금은 저희가 초자연 증후군을 완전히 치료할 수는 없지만, 그렇다고 너무 불안해하지는 말아 주세요. 고심도 환경에 접촉하지 않으면 병에 걸릴 위험은 없어요! 그리고 주변의 환자분들을 괴물처럼 보지 말아 주세요. 초자연 증후군은... 전염되지... 않...\"\n\"푸치나 씨? 푸치나 씨?\"\n\"뚝...\"\n\"어... 약간의 기술 장애가 발생한 것 같습니다. 그럼 이어서...\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "......\nLa Fantoma. I do not think I need to repeat how well the Siesta Group manages this free city, nor do I need to elaborate on how much vitality the Talos-II General Chamber of Commerce has breathed into it. But before I talk about the free city of La Fantoma, I would like to first mention a friend I met on this journey, one who gave me tremendous help in writing this chapter on La Fantoma.\nJust as I did upon arriving in any other city, I wandered into a mall to figure out where to go next, just like any other commercial hub in La Fantoma. The building was packed with businesses from all across the band, and in the middle of it all was an open-air market bustling with customers and roaming vendors. I picked a drink stand with a good view and had barely sat down when I spotted a \"white Feline mascot\", impossible to miss. At first I thought it was some shop's costumed character, but on closer look, she was not trying to draw in customers. She just stood there staring at a dessert shop's window display, while passersby greeted her warmly, as if everyone in the city knew her.\nTo get a feel for the city's culture, I walked up and said hello. Only after she repeatedly confirmed that I was not some tabloid reporter trying to dig up secrets like whether the Ætherside Environmental Impact Syndrome Relief Foundation had signed any backroom deals with pharmaceutical companies, did she tell me who she was. Please forgive me for not being familiar with the various representatives and codenames of TGCC's enterprises, foundations, and administrative departments. It was only after we parted ways that I learned exactly which characters made up the name Purrchena. When she learned that I was there to document everyday life in La Fantoma and write a travel guide, she bounced cheerfully and led me out of the mall, taking on the role of my guide. The food recommendations later in this chapter were all compiled under the guidance of Ms. Purrchena. Perhaps it was her vivid and animated explanations, especially when she would suddenly fall asleep mid-sentence and then wake up, scratching her head and apologizing before continuing, that even made places like TGCC headquarters feel interesting.\n......\nWhen I asked her how she viewed La Fantoma and the other free cities, she just smiled and said she would take me to a fun place, then led me away from the bustling streets and out to the beach. The crowd soon separated us, but before long, I found her again by following the people slowly forming a circle around her. She was sitting on the sand, bobbing her head to the beat of the music, occasionally changing the expressions on her electronic face screen to startle the children climbing over her and playing along. Though I was still some distance away, their laughter still reached my ears through the music. The others around either pulled out their cameras to take photos or joined in the children's revelry, dancing to the melody. She was surrounded by joy and laughter. After the crowd dispersed and the children reluctantly said goodbye to her under their parents' watch, I was finally able to approach her. I noticed she had fallen asleep again, but was still gently swaying her head. I sat down beside her and listened to her soft breathing. She must have been having a beautiful dream.\n— A preface to the La Fantoma chapter of Talos-II Beneath Our Feet, accompanied by a photograph of Purrchena playing with children.",
+    "zh-TW": "…………\n菈梵朵瑪，我想我不必複述汐斯塔集團將這座自由市管理得多麼井井有條，也不必細講環塔商會為這座自由市賦予了多麼蓬勃的活力。但在講菈梵朵瑪自由市之前，我想先講講我在本次旅途中認識到的一個朋友，她為菈梵朵瑪篇的撰寫給予了很大的幫助。\n我像剛到其他城市時一樣，為了思考接下來去哪裡而隨便找了一座商場——一如在菈梵朵瑪任何一個稱得上是商業中心的建築群。樓宇內擠滿了來自環帶各地的企業，樓房的中間還有一個全是客人與行動商販的露天市場，我在這裡選了個視野不錯的飲品店，剛坐下，就見到了那位很難不讓人注意到的「白色菲林玩偶」。一開始我還以為是哪個店家的吉祥物，但仔細觀察發現，她並沒有招攬客人，反而一直盯著甜品店的櫥窗，行人都會熱情地和她打招呼，好像這裡的每個人都認得她。\n為了瞭解這座城市的文化，我主動上前打了個招呼。反覆確認我不是為了獲得什麼諸如超域環境影響症候群救助基金會與其他藥企是否簽訂過秘密協議之類的消息而來的新聞記者後，她才告訴了我她的身分——請原諒我確實不瞭解環塔商會的各個企業、基金會或者行政部門的各種代表及他們的代號，我在這次見面結束後才知道「噗切娜」具體是哪幾個字。得知我此行是為了記錄菈梵朵瑪的日常生活，撰寫一本旅遊指南，她蹦蹦跳跳地帶著我離開了這座商場，當起了我的導遊——後文的美食推薦指南，便是在這位噗切娜小姐的推薦下編寫的。或許是她聲情並茂的解說——特別是在她突然昏睡又醒來，撓著頭道歉後再繼續講解，竟也讓環塔商會總部這類建築變得有趣了起來。\n…………\n當我向她提問，怎麼看待菈梵朵瑪及其他的自由市時，她卻只是笑著說要介紹一個好玩的地方給我，便帶我離開了四通八達的街道，來到了海灘上。人群很快便將我們分開，但沒過多久，我順著慢慢圍成一圈的人們找到了她——她正坐在沙灘上，跟著音樂的節拍搖晃著腦袋，時不時切換臉上電子螢幕的表情嚇一嚇趴在她身上與她玩鬧的孩子們。雖然我與他們還有一段距離，但笑聲依舊透過音樂傳入了我的耳中。周圍的其他人有的拿出相機拍照，有的則加入到孩子們的狂歡裡，隨著音樂的旋律舞動了起來，她的周圍充滿了歡聲笑語。等到人群散去，孩子們在家長的帶領下依依不捨地向她告別，我才得以走近她，注意到她又陷入了沉睡，但依舊晃動著腦袋。我在她身邊坐下，聽著她輕輕的呼吸聲——一定是做了一場美夢。\n——《我們腳下的塔衛二》菈梵朵瑪篇序言，附有一張噗切娜與孩童們一起玩耍的照片",
+    "zh-CN": "…………\n菈梵朵玛，我想我不必复述汐斯塔集团将这座自由市管理得多么井井有条，也不必细讲环塔商会为这座自由市赋予了多么蓬勃的活力。但在讲菈梵朵玛自由市之前，我想先讲讲我在本次旅途中认识到的一个朋友，她为菈梵朵玛篇的撰写给予了很大的帮助。\n我像刚到其他城市时一样，为了思考接下来去哪儿而随便找了一座商场——一如在菈梵朵玛任何一个称得上是商业中心的建筑群。楼宇内挤满了来自环带各地的企业，楼房的中间还有一个全是客人与移动商贩的露天市场，我在这里选了个视野不错的饮品店，刚坐下，就见到了那位很难不让人注意到的“白色菲林玩偶”。一开始我还以为是哪个店家的吉祥物，但仔细观察发现，她并没有招揽客人，反而一直盯着甜品店的橱窗，行人都会热情地和她打招呼，好像这里的每个人都认得她。\n为了了解这座城市的文化，我主动上前打了个招呼。反复确认我不是为了获得什么诸如超域环境影响综合征救助基金会与其他药企是否签订过秘密协议之类的消息而来的小报记者后，她才告诉了我她的身份——请原谅我确实不了解环塔商会的各个企业、基金会或者行政部门的各种代表及他们的代号，我在这次见面结束后才知道“噗切娜”具体是哪几个字。得知我此行是为了记录菈梵朵玛的日常生活，撰写一本旅游指南，她蹦蹦跳跳地带着我离开了这座商场，当起了我的导游——后文的美食推荐指南，便是在这位噗切娜女士的推荐下编写的。或许是她声情并茂的解说——特别是在她突然昏睡又醒来，挠着头道歉后再接着讲解——竟也让环塔商会总部这类建筑变得有趣了起来。\n…………\n当我向她提问，怎么看待菈梵朵玛及其他的自由市时，她却只是笑着说给我介绍一个好玩的地方，便带我离开了四通八达的街道，来到了海滩上。人群很快便将我们分开，但没过多久，我顺着慢慢围成一圈的人们找到了她——她正坐在沙滩上，跟着音乐的节拍摇晃着脑袋，时不时切换脸上电子屏幕的表情吓唬趴在她身上与她玩闹的孩子们。虽然我与他们还有一段距离，但笑声依旧透过音乐传入了我的耳中。周围的其他人要么拿出相机拍照，要么加入到孩子们的狂欢里，随着音乐的旋律舞动了起来，她的周围充满了欢声笑语。等到人群散去，孩子们在家长的带领下依依不舍地同她告别，我才得以走近她，注意到她又陷入了沉睡，但依旧晃动着脑袋。我在她身边坐下，听着她轻轻的呼吸声——一定是做了一场美梦。\n——《我们脚下的塔卫二》菈梵朵玛篇序言，附有一张噗切娜与孩童们一起玩耍的照片",
+    "ja": "…………\nラヴァンドマ。シエスタグループがこの独立都市をいかに秩序立てて管理しているか、また環タロ商会がいかにこの街に活気を与えているかを、ここで改めて述べる必要はないでしょう。しかし、独立都市ラヴァンドマについて語る前に、まずはこの旅で出会ったある友人についてお話したいと思います。彼女は、ラヴァンドマ編の執筆に多大なご協力をくださいました。\n他の街に着いたときと同じように、次にどこに向かうかを考えるため、適当なショッピングモールを見つけて中に入りました。ラヴァンドマの商業中心地と呼ばれる他の建築群と何ら変わらないその建物は、文明地帯の各地から集まったお店で埋め尽くされていました。そして建物の中心には、客や行商人でごった返す青空市場がありました。私はそこで見晴らしの良いドリンクスタンドを選び、席についた途端、どうしても目に入ってしまう「白いフェリーンの着ぐるみ」を見つけたのです。最初はどこかの店のマスコットかと思いましたが、よく見ると客引きをしているわけではなく、スイーツ店のショーウィンドウをただじっと見つめていました。道行く人々は皆、親しげに彼女に声をかけ、まるでこの街の誰もが彼女を知っているかのようでした。\nこの街の文化を知りたいと思った私は、自ら彼女に声をかけました。「超域影響症候群支援財団が他の製薬企業と秘密協定を結んでいるのではないか」という情報を探っているゴシップ記者ではないことを何度も確認すると、彼女はようやく自身の正体を明かしてくれました。お恥ずかしい話ですが、私は環タロ商会の各企業や財団、あるいは行政機関のさまざまな代表者やそのコードネームについては詳しくなかったのです。この出会いのあとで初めて、「プチエナ」という名前の正式表記を知ったほどです。私がラヴァンドマの日常生活を記録し、旅行ガイドブックを執筆するために来たことを知ると、彼女はぴょんぴょん飛び跳ねながら私をモールから連れ出し、ガイド役を買って出てくれました。後のページに掲載している「おすすめグルメガイド」は、このプチエナさんの推薦をもとに作成されたものです。彼女の感情豊かな解説――特に、突然眠りに落ちては目を覚まし、頭をかきながら謝った後に再び解説を続けるその姿のおかげで、環タロ商会本部のような建物でさえ、とても面白く感じられたのは驚きでした。\n…………\nラヴァンドマやその他の独立都市についてどう思っているかを尋ねると、彼女はただ笑顔で「面白い場所を紹介する」と言って、四方八方に伸びる路地から海辺へと連れて行ってくれました。人ごみに揉まれて彼女とはぐれてしまったのですが、人の輪が出来ている場所を探して、彼女を見つけることができました。彼女は砂浜に座って音楽のリズムに合わせて頭を揺らし、時折、顔の電子スクリーンの表情を変えては、彼女に抱きついて遊んでいる子どもたちを驚かせていました。私は少し離れた場所にいましたが、笑い声は音楽越しに私の耳に届いてきました。周りの人たちはカメラを取り出して写真を撮ったり、子どもたちのどんちゃん騒ぎに加わって音楽に合わせて踊り出したりして、彼女の周りは笑い声に包まれていました。人だかりが消え、親に連れられた子どもたちが名残惜しそうに彼女に別れを告げたあと、私はようやく彼女に近づくことができました。彼女は再び深い眠りに落ちていましたが、それでも頭を揺らし続けていました。私は彼女の隣に座り、その静かな寝息に耳を傾けました。きっと、すてきな夢を見ているのでしょう。\n――『私たちの足元にあるタロⅡ』ラヴァンドマ編序文、子どもたちと遊ぶプチエナの写真を添えて",
+    "ko": "...\n라반도르마. 나는 굳이 시에스타 그룹이 이 자유도시를 얼마나 잘 관리하고 있는지 다시 설명할 필요도, 탈로스 II 상업연합회가 이 자유도시에 얼마나 넘치는 활력을 불어넣었는지 길게 이야기할 필요도 없다고 생각한다. 다만 라반도르마 자유도시에 대해 이야기하기 전에, 이번 여행에서 알게 된 한 친구에 대해 먼저 말하고 싶다. 그녀는 라반도르마 편을 쓰는 데 큰 도움을 주었다.\n나는 다른 도시에 처음 도착했을 때처럼, 다음 목적지를 생각하기 위해 적당한 쇼핑몰 하나를 찾았다. 라반도르마에서 상업 중심지라 부를 만한 건물 단지가 대개 그렇듯, 그곳 역시 밴드 각지에서 온 기업들로 가득했다. 건물들 사이에는 손님과 상인들로 북적이는 노천 시장도 있었다. 나는 전망이 괜찮은 음료 가게를 골라 자리에 앉았다. 그리고 앉자마자, 눈길을 끌 수밖에 없는 그 '하얀 필라인 인형'을 보게 되었다. 처음에는 어느 가게의 마스코트인 줄 알았다. 하지만 자세히 보니 그녀는 손님을 끌어모으고 있는 것이 아니라, 계속 디저트 가게의 진열창만 바라보고 있었다. 지나가는 사람들은 모두 반갑게 그녀에게 인사를 건넸다. 마치 이곳 사람이라면 누구나 그녀를 아는 것처럼 보였다.\n이 도시의 문화를 조금 더 알고 싶었던 나는 먼저 다가가 인사를 건넸다. 그녀는 내가 초자연 환경 영향 증후군 구호 기금회와 다른 제약 기업 사이에 비밀 협약이 있는지 같은 소식을 캐내려 온 가십 기자가 아니라는 것을 몇 번이고 확인한 뒤에야, 자신의 신분을 알려 주었다. 미안하지만 나는 탈로스 II 상업연합회의 여러 기업, 기금회, 행정 부서에 속한 각종 대표와 그들의 코드네임을 정말로 잘 알지 못했다. '푸치나'라는 이름이 정확히 어떻게 쓰이는지도, 이번 만남이 끝난 뒤에야 알았다. 내가 라반도르마의 일상을 기록하고 여행 가이드를 쓰기 위해 이곳에 왔다는 사실을 알자, 그녀는 폴짝폴짝 뛰며 나를 쇼핑몰 밖으로 데리고 나갔다. 그리고 내 가이드가 되어 주었다. 뒤에 이어질 맛집 추천 가이드는 바로 푸치나의 추천을 바탕으로 작성한 것이다. 어쩌면 그녀의 생생하고 감정이 풍부한 설명 덕분이었을지도 모른다. 특히 그녀가 갑자기 잠에 빠졌다가 다시 깨어나, 머리를 긁적이며 사과한 뒤 아무렇지 않게 설명을 이어 가는 모습까지 더해져, 탈로스 II 상업연합회 본부 같은 건물마저 어쩐지 흥미롭게 느껴졌다.\n...\n내가 그녀에게 라반도르마와 다른 자유도시들을 어떻게 생각하느냐고 묻자, 그녀는 그저 웃으며 재미있는 곳을 하나 소개해 주겠다고 했다. 그리고 사방으로 뻗은 거리를 벗어나 나를 해변으로 데려갔다. 곧 사람들 틈에 휩쓸려 우리는 떨어지게 되었지만, 얼마 지나지 않아 나는 천천히 원을 이루며 모여드는 사람들을 따라가 그녀를 다시 찾을 수 있었다. 그녀는 모래사장에 앉아 음악의 박자에 맞춰 고개를 흔들고 있었다. 그러다 이따금 얼굴에 있는 전자 화면의 표정을 바꿔 가며, 자기에게 매달려 장난치는 아이들을 놀라게 하고 있었다. 나와 그들 사이에는 아직 거리가 있었지만, 웃음소리는 음악을 뚫고 내 귀에까지 닿았다. 주변 사람들은 카메라를 꺼내 사진을 찍거나, 아이들의 축제에 함께 뛰어들어 음악에 맞춰 몸을 흔들었다. 그녀의 주변은 웃음소리와 즐거운 목소리로 가득했다. 사람들이 흩어지고, 아이들이 부모의 손에 이끌려 아쉬운 듯 그녀에게 작별 인사를 한 뒤에야 나는 가까이 다가갈 수 있었다. 그때 나는 그녀가 다시 잠에 빠져 있다는 것을 알았다. 그런데도 그녀는 여전히 고개를 살짝살짝 흔들고 있었다. 나는 곁에 앉아, 그녀의 조용한 숨소리를 들었다... 분명 좋은 꿈을 꾸고 있을 것이다.\n- <우리가 발 딛고 있는 탈로스 II> 라반도르마편 서문. 푸치나가 아이들과 함께 놀고 있는 사진 한 장이 첨부되어 있다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "November 2, Year 145, clear skies. Today mom drove the RV to a place where lots of other RVs were parked. The uncles and aunties there helped mom upgrade our RV, and now it has become so big and comfortable that even sleeping right on the floor feels great. No more worrying about getting hurt if I suddenly collapse. The uncles and aunties also gave me a really, really tasty snack. I think it was called exotic dried fin. Heh, when I grow up, I am going to buy so much exotic dried fin that I can stuff our RV full with it.\n......\nMay 7, Year 146, snow turning to clear skies. Mom and some uncles and aunties drove a caravan of RVs to a city up in the snowy mountains. Good thing the RV was nice and warm. Mom and I did not feel cold at all. Heh, let dad go out and treasure hunt by himself. This time dad found a machine bone. He said that once he fixed it up, I would be able to go out and play with the other kids!\n......\nJune 23, Year 146, overcast turning to rain. The machine bone did not seem to like the rain. It just stood there in the rain and stopped moving. Luckily the other kids who came along all had umbrellas and stayed with me in the rain to wait for mom and dad. But I don't really remember what happened after that. I think I had a dream. I dreamed I was riding a flying burdenbeast and went to so many places. When I woke up, mom was holding me and crying for some reason. Dad seemed to be blaming the machine bone. I tried to comfort mom, but she only cried harder. I hate falling asleep...\n......\nJuly 16, Year 146, clear skies. We came back to this place where they make movies. There are so many beautiful clothes here. This is my favorite place. I had just helped the uncles and aunties carry the boxes off the RV when dad came back with a very neatly dressed uncle. The uncle was not as nimble as I was. Even though our RV was big enough to fit all of Talos-II inside, he still had to carefully pick his way around inside it. Mom was also very happy today. She brought out a lot of the good food that we usually only save for our birthdays.\n......\nAugust 20, Year 146, overcast. This RV was not like mom's. It was very clean inside, with lots of metal boxes, cramped and cold. There were also a lot of uncles and aunties in white coats. They all smiled at me, but I did not feel happy at all. The uncle dad knew gave me a strange little box. I could hear mom and dad's voices from it, but when I took the box apart, they were nowhere to be found...\n......\nDecember 18, Year 146, clear skies. Today was my first time joining a rescue mission. All my teammates were familiar faces. The RV was cramped, but everyone was chatting and laughing. I really liked the atmosphere! But a few of the relief foundation's directors thought it was too dangerous for me to go to a place like that and said I would not be allowed to join rescue operations of that level again. I'm so pissed! The mission went perfectly, and it was not my fault the storm suddenly turned back. Still, after the operation was over, I got to see mom and dad. I even helped mom take the patients to the nearest city for treatment. Hey, when was the last time I saw them anyway?\n......\nNovember 7, Year 151, clear skies. We will reach our destination tomorrow. Time flies. It feels like just yesterday that I received the reply letter from Endfield Industries. What does the Endministrator actually look like? Is it really the same as what the textbooks say? Sighhhhh, boring! This RV is completely empty, nothing in it at all. Oh, and today I ran into mom and dad. They were transporting supplies from La Fantoma to Valley IV. We took a photo together, so they can see me in the picture and not miss me too much. But even though mom's RV is decorated exactly the same as when I was little, why does it feel like something has changed?",
+    "zh-TW": "145年11月2日，天氣晴。今天媽媽把大篷車開到了一個停了很多大篷車的地方，這裡的叔叔阿姨們幫媽媽的大篷車升了個級，現在大篷車變得好大好大，就算直接睡在地板上也很舒服，再也不怕突然倒下後受傷啦！叔叔阿姨還給我吃了一個很好吃很好吃的點心，好像叫怪味鱗乾。哼哼，等以後長大了，我要買好多好多怪味鱗乾，把大篷車塞得滿滿的！\n…………\n146年5月7日，天氣雪轉晴。媽媽和一些叔叔阿姨開著一隊大篷車，到了一座雪山上的城市，還好大篷車裡很溫暖！我和媽媽一點都不覺得冷，嘿嘿，就讓爸爸自己一個人去外面找寶藏吧。爸爸這次找到了一個機器骨頭，爸爸說，等把這個機器骨頭修好後，我就可以出去和其他小朋友們一起玩啦！\n…………\n146年6月23日，天氣陰轉雨。機器骨頭好像不喜歡下雨，站在雨裡不動了。還好一起來的小朋友們都帶了傘，在雨裡陪我等爸爸媽媽。但後面的事情我就不記得了，我好像做了個夢，夢到我騎在會飛的馱獸身上，去了好多好多地方。等我醒了之後，媽媽不知道為什麼抱著我哭，爸爸好像在怪機器骨頭。我想安慰媽媽，但媽媽哭得更大聲了……我討厭睡著……\n…………\n146年7月16日，天氣晴。又到這個拍電影的地方了，這裡有好多好看的衣服，我最喜歡的地方就是這裡！我剛幫叔叔阿姨們把大篷車上的箱子搬下車，爸爸就帶了一個穿得很乾淨的叔叔回來了。叔叔沒有我靈活，明明能把整個塔衛二都裝進來的大篷車，他都要小心翼翼地在車裡繞來繞去。媽媽今天也很高興，拿了很多平常只在我們生日時才拿出來的好吃的出來。\n…………\n146年8月20日，天氣陰。這輛大篷車和媽媽的不一樣，上面很乾淨，有好多鐵箱子，很擠，也冷冰冰的……還有好多穿白衣服的叔叔阿姨，明明都是笑著看我，但為什麼我感覺不到開心？爸爸認識的那個叔叔給了我一個很奇怪的小盒子，明明能聽到爸爸媽媽的聲音，但把小盒子拆開後卻沒有找到他們。\n…………\n146年12月18日，天氣晴。今天是我第一次參加救援任務，隊友們都是熟人，大篷車上雖然很擠，但大家都有說有笑的，我很喜歡這個氣氛。只是基金會的幾個負責人覺得我去那種地方太危險了，以後不允許我參加這種級別的救援行動，氣死我了！明明任務完成得那麼完美，風暴突然跑回來又不是我的錯。不過，行動完成後，我見到了爸爸媽媽，我還跟媽媽一起把病人們送去了最近的城市接受治療，欸，上一次見面是什麼時候來著？\n…………\n151年11月7日，天氣晴。明天就到目的地了，日子過得好快啊，總感覺收到終末地工業的回函還是昨天的事。管理員究竟長什麼樣呢？真的和教科書上寫的一樣嗎？唉，好無聊，這輛大篷車上空蕩蕩的，什麼東西都沒有。對了，今天我遇到了爸媽，他們正把菈梵朵瑪的物資送往四號谷地。我們還拍了一張合照，這樣爸媽就能在照片上看見我，就不用太想我啦。不過，媽媽的大篷車雖然裝飾得和小時候一模一樣，但為什麼總覺得有什麼地方變得不一樣了？",
+    "zh-CN": "145年11月2日，天气晴。今天妈妈把大篷车开到了一个停了很多大篷车的地方，这里的叔叔阿姨们帮妈妈给大篷车升了个级，现在大篷车变得好大好大，就算直接睡在地板上也很舒服，再也不怕突然倒下后受伤啦！叔叔阿姨还给我吃了一个很好吃很好吃的点心，好像叫怪味鳞干。哼哼，等以后长大了，我要买好多好多怪味鳞干，给大篷车塞得满满的！\n…………\n146年5月7日，天气雪转晴。妈妈和一些叔叔阿姨开着一队大篷车，到了一座雪山上的城市，还好大篷车里很温暖！我和妈妈一点都不觉得冷，嘿嘿，就让爸爸自己一个人去外面找宝藏吧。爸爸这次找到了一个机器骨头，爸爸说，等把这个机器骨头修好后，我就可以出去和其他小朋友们一起玩啦！\n…………\n146年6月23日，天气阴转雨。机器骨头好像不喜欢下雨，站在雨里不动了。还好一起来的小朋友们都带了伞，在雨里陪我等爸爸妈妈。但后面的事情我就不记得了，我好像做了个梦，梦见我骑在会飞的驮兽身上，去了好多好多地方。等我醒了后，妈妈不知道为什么抱着我哭，爸爸好像在怪机器骨头。我想安慰妈妈，但妈妈哭得更厉害了……我讨厌睡着……\n…………\n146年7月16日，天气晴。又到这个拍电影的地方来了，这里有好多好看的衣服，我最喜欢的地方就是这里！我刚帮叔叔阿姨们把大篷车上的箱子搬下车，爸爸就带了一个穿得很干净的叔叔回来了。叔叔没有我灵活，明明能把整个塔卫二都装进来的大篷车，他都要小心翼翼地在车里绕来绕去。妈妈今天也很高兴，拿了很多平时只在我们生日时才拿出来的好吃的出来。\n…………\n146年8月20日，天气阴。这辆大篷车和妈妈的不一样，上面很干净，有好多铁箱子，很挤，也冷冰冰的……还有好多穿白衣服的叔叔阿姨，明明都是笑着看我，但为什么我感觉不到开心？爸爸认识的那个叔叔给了我一个很奇怪的小盒子，明明能听见爸爸妈妈的声音，但把小盒子拆开后却没有找到他们。\n…………\n146年12月18日，天气晴。今天是我第一次参加救援任务，队友们都是熟人，大篷车上虽然很挤，但大家都有说有笑的，我很喜欢这个氛围。就是基金会的几个负责人觉得我去那种地方太危险了，以后不允许我参加这种级别的救援行动，气死我了！明明任务完成得那么完美，风暴突然跑回来又不是我的错。不过，行动完成后，我见到了爸爸妈妈，我还和妈妈一起把病人们送去了最近的城市接受治疗，欸，上一次见面是什么时候来着？\n…………\n151年11月7日，天气晴。明天就到目的地了，日子过得好快呀，总感觉收到终末地工业的回函还是昨天的事。管理员究竟长什么样呢？真的和教科书上写的一样吗？唉，好无聊，这辆大篷车上空荡荡的，什么东西都没有。对了，今天我遇到了爸妈，他们正把菈梵朵玛的物资送往四号谷地。我们还拍了一张合照，这样爸妈就能在照片上看见我，就不用太想我啦。不过，妈妈的大篷车虽然装饰得和小时候一模一样，但为什么总觉得有什么地方变得不一样了？",
+    "ja": "145年11月2日　晴れ。今日はママの運転で、トラックがいっぱい停まってるところに行きました。ここのおじさんとおばさんたちが、ママのトラックをアップグレードしてくれたのです。今のトラックはすっごく大きくて、そのまま寝っ転がってもすごく気持ちいいので、これでもう急に倒れてもケガしませんね！おじさんとおばさんは、とってもおいし～ものをくれました。変味干し鱗獣っていうみたいです。よおっし、大きくなったら、変味干し鱗獣をいっぱい買って、トラックにぎゅうぎゅうに詰め込んでやりますよ～！\n…………\n146年5月7日　雪のち晴れ。ママとおじさんおばさんたちがトラックの列を作って運転して、雪山の上にある街へ行きました。トラックの中はとってもポカポカしていて気持ちよくて、わたしもママも、ずっとぬくぬくでいられました。えへへ、パパには1人でお外に宝探しに行ってもらうことにしたのです！そしたらパパは今回、「ロボットのほね」を見つけてきました。パパは、これを直したら、わたしもお外に出て他のお友だちと一緒に遊べるようになるって言ってました！\n…………\n146年6月23日　くもりのち雨。「ロボットのほね」は雨がうぬぬ～みたいで、雨の中だと動かなくなっちゃいました。一緒にいたお友だちがみんな傘を持ってたので、わたしと一緒にパパとママを待っててくれたのがとってもうれしかったです。でも、そのあとのことを忘れちゃったんです。なんだか夢を見てたんでしょうか。空とぶ駄獣に乗っていろんなところに行って……目が覚めたら、ママがぎゅう～っとわたしを抱きしめて泣いてました。パパは「ロボットのほね」に怒ってるみたいでした。ママにだいじょ～ぶだよって言ったら、ママはもっと泣いちゃいました……だからわたしは眠っちゃいたくないなって、うぬぬ……\n…………\n146年7月16日　晴れ。また映画を撮る場所にやってきました。きれいなお洋服がいっぱいあるので、わたしはここが1番だ～い好きなのです！おじさんおばさんたちの荷下ろしのお手伝いがおわったとき、パパがすごくすてきな服を着たおじさんを連れて戻ってきました。おじさんはわたしみたいにすばしっこくなくて、タロⅡをまるごと詰め込めるくらいおっきなトラックなのに、車の中をビクビクしながら歩いてました。ママもすごく嬉しそうで、いつもはお誕生日のときにしか食べられないおいし～ものをいっぱい出してくれました！\n…………\n146年8月20日　曇り。このトラックはママのとは違ってすっごくきれいなのですが、鉄の箱がいっぱい置いてあって、狭くて、なんだかひんやりしてました……それに白い服を着たおじさんおばさんがいっぱいで、みんなわたしを見て笑ってくれているのに、どうしてうれし～気持ちにならないんでしょうか？パパの知り合いのおじさんは、すごくふしぎな小さい箱をくれました。パパとママの声が聞こえるのに、箱を開けても、2人はどこにもいませんでした。\n…………\n146年12月18日　晴れ。今日は初めて救助任務に参加しました。チームのみんなは仲良しさんばっかりで、トラックの上は狭かったですがみんなでニコニコおしゃべりして、こういうのってほんとに落ち着きます。でも、財団のえらい人たちは、わたしがそういう場所に行くのは危険すぎるって、これからはこのレベルの救助活動には参加させないって言ってました。そんなのプンプンですっ！任務はとってもカンペキで、嵐が戻ってきちゃったのはわたしのせいじゃないですし。でも、任務が終わったあとにパパとママに会えました。それに、ママと一緒に患者さんたちを一番近い街まで運んで、治療を受けてもらうことができたのです。ふむり、そういえば……前会ったのはいつでしたっけ？\n…………\n151年11月7日　晴れ。明日には目的地に着きます。あっという間です！エンドフィールド工業から返信をもらったのが、なんだか昨日のことみたいです。管理人さんって、一体どんな顔をしてるんでしょうか。本当に教科書に書いてる通りなのでしょうか。はふう……ちょっとヒマです。このトラックはからっぽで、なんにもないのです。そうだ、今日はパパとママに会いました！2人はラヴァンドマの物資を四号谷地へ運んでいる途中で、一緒に写真も撮れたんですよ。これでパパとママは写真でわたしを見れますし、もうさみしくないのです。でも、ママのトラックは子どもの頃と見た目はまったくおんなじなのに、なんだかどこかが変わっちゃったような気がするのは、なんででしょうか……",
+    "ko": "145년 11월 2일, 날씨 맑음. 오늘 엄마가 트럭이 아주 많이 멈춰 있는 곳으로 트럭을 몰고 갔다. 여기 아저씨랑 아주머니들이 엄마 트럭을 개조하여 업그레이드해 줬다. 이제 트럭이 엄청 엄청 커져서, 그냥 바닥에 누워 자도 아주 편하다. 이제 갑자기 쓰러져도 다칠 걱정이 없다! 아저씨랑 아주머니들이 엄청 엄청 맛있는 간식도 줬다. 이름이 기이한 맛의 말린 린수였던 것 같다. 흥흥, 나중에 크면 기이한 맛의 말린 린수를 아주 많이 사서 트럭 안을 가득 채울 거야!\n...\n146년 5월 7일, 날씨 눈 온 뒤 맑음. 엄마가 아저씨, 아주머니랑 트럭들을 몰고 설산 위의 도시로 갔다. 그래도 트럭 안은 아주 따뜻했다! 나랑 엄마는 하나도 춥지 않았다. 헤헤, 아빠 혼자 밖에 나가서 보물이나 찾으라고 해야지. 아빠가 이번에는 기계 뼈를 하나 찾았다. 아빠 말로는 그 기계 뼈를 고치면, 나도 밖에 나가 다른 아이들이랑 같이 놀 수 있다고 했다!\n...\n146년 6월 23일, 흐린 날씨 뒤 비. 기계 뼈는 비를 싫어하는 것 같다. 빗속에서 꼼짝도 하지 않았다. 다행히 같이 온 아이들이 모두 우산을 가져와서, 비를 맞으며 나랑 같이 엄마 아빠를 기다려 줬다. 그 뒤에 무슨 일이 있었는지는 기억이 잘 안 난다. 꿈을 꾼 것 같다. 나는 버든비스트 등에 타고, 아주 아주 많은 곳에 갔다. 깨어나 보니 엄마가 왜인지 나를 안고 울고 있었다. 아빠는 기계 뼈를 탓하는 것 같았다. 엄마를 위로해 주고 싶었는데, 엄마가 더 크게 울었다... 나는 잠드는 게 싫다...\n...\n146년 7월 16일, 날씨 맑음. 또 영화 찍는 곳에 왔다. 여기에는 예쁜 옷이 아주 많아서, 내가 제일 좋아하는 곳이다! 내가 막 아저씨랑 아주머니를 도와 트럭에 있던 상자를 내려놓았을 때, 아빠가 아주 말끔하게 차려입은 아저씨 한 명을 데리고 돌아왔다. 탈로스 II 전체도 들어갈 것처럼 큰 트럭인데, 안에서도 조심조심 빙빙 돌아다니는 아저씨를 보면서, 나만큼 몸이 날렵하지 않은 거로 판단을 내렸다. 엄마도 오늘 아주 기분이 좋아 보였다. 생일에만 꺼내 주던 맛있는 것들을 잔뜩 꺼내 줬다.\n...\n146년 8월 20일, 날씨 흐림. 이 트럭은 엄마 것과 달랐다. 안은 아주 깨끗했고, 철 상자가 많았으며, 좁고, 차갑기까지 했다... 하얀 옷을 입은 아저씨랑 아주머니들도 많았다. 다들 나를 보며 웃고 있었는데, 왜 하나도 기쁘지 않았을까? 아빠가 아는 그 아저씨가 이상한 작은 상자를 하나 줬다. 아빠랑 엄마 목소리가 분명히 들렸는데, 상자를 열어 봐도 두 사람은 찾을 수 없었다.\n...\n146년 12월 18일, 날씨 맑음. 오늘은 내가 처음으로 구조 임무에 참여한 날이다. 팀원들은 전부 아는 사람들이었다. 트럭 안은 조금 비좁았지만, 다들 웃고 떠들어서 나는 그 분위기가 참 좋았다. 그런데 기금회 책임자 몇 명은 내가 그런 곳에 가는 건 너무 위험하다면서, 앞으로는 이런 레벨의 구조 작전에 참가하지 못하게 하겠다고 했다. 정말 짜증나네! 임무는 완벽하게 끝났는데. 폭풍이 갑자기 돌아온 건 내 잘못이 아니잖아. 그래도 작전이 끝난 뒤 엄마 아빠를 만났다. 엄마랑 같이 환자분들을 가까운 도시로 보내 치료를 받게 도와드리기도 했다. 어라, 우리가 마지막으로 만난 게 언제였더라?\n...\n151년 11월 7일, 날씨 맑음. 내일이면 목적지에 도착한다. 시간이 정말 빠르다. 엔드필드 공업에서 답장을 받은 게 꼭 어제 일 같다. 관리자는 대체 어떻게 생겼을까? 정말 교과서에 적힌 것과 똑같을까? 하아, 심심하다. 이 트럭은 텅 비어서 아무것도 없다. 맞다, 오늘 엄마 아빠를 만났다. 두 사람은 라반도르마의 물자를 4번 협곡으로 보내는 중이었다. 우리 같이 사진도 찍었다. 그러면 엄마 아빠도 사진 속의 나를 볼 수 있으니까, 나를 너무 보고 싶어 하진 않겠지. 그런데 엄마의 트럭은 어릴 때랑 똑같이 꾸며져 있는데, 왜 자꾸 어딘가 달라진 것처럼 느껴질까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0038_purrche_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "My turn to ... \"Meow-dy!\" ...Ugh, how am I asleep again?!",
+    "zh-TW": "又到我……「你好。」……呃，怎麼又睡著了！",
+    "zh-CN": "又到我……“你好。”……呃，怎么又睡着了！",
+    "ja": "よおし、わたしの……「やあ！」……ふわわあっ、寝ちゃってました！",
+    "ko": "또 내 차례네...'안녕'...어? 나 또 잠든 거야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Nnn... Gah! Is it mission time?",
+    "zh-TW": "嗯……欸！是有什麼任務嗎？",
+    "zh-CN": "嗯……欸！是有什么任务吗？",
+    "ja": "ほわあ……ふあっ！任務！ですか……？",
+    "ko": "하암... 앗! 새로운 임무야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Who's sleepy? Not me!",
+    "zh-TW": "我現在一點也不睏喔。",
+    "zh-CN": "我现在一点也不困哦。",
+    "ja": "今は全然ねむくないのです！",
+    "ko": "나 지금은 하나도 안 졸려!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Got my marshmallows and exotic dried fin... Alright, I'm good to go!",
+    "zh-TW": "棉花糖、怪味鱗乾……嗯，可以出發了！",
+    "zh-CN": "棉花糖、怪味鳞干……嗯，可以出发了！",
+    "ja": "マシュマロに、変味干し鱗獣っと……しゅっぱ～つ！",
+    "ko": "마시멜로, 말린 린수... 응, 다 챙겼어. 이제 출발하자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Oh, nice grip! If I use this as a snack skewer, I can keep my fluffy suit totally mess-free!",
+    "zh-TW": "喔，很順手欸！要是把點心插在上面，是不是就不會弄髒外殼上的毛毛了。",
+    "zh-CN": "喔，很顺手哎！要是把点心插在上面，是不是就不会弄脏外壳上的毛毛了。",
+    "ja": "ほわわ、使いやすいっ！ここにお菓子を差せば、モフモフを汚さずにすむのですねっ！",
+    "ko": "와, 이거 쓰기 엄청 편한데?! 여기다 간식을 꽂아 두면 털에 묻을 일도 없겠다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "Whoa, it actually fits my suit... \"Exotic dried fin! YUM-YUM!\" ...Wait, what's going on? I'm not asleep yet!",
+    "zh-TW": "這裝備，居然能套在我的外殼上……「怪味鱗乾，好吃！」……欸，我還沒睡著啊？！",
+    "zh-CN": "这装备，居然能套在我的外壳上……“怪味鳞干，好吃！”……欸，我还没睡着啊？！",
+    "ja": "なんと！このまま着けられるんですか……「変味干し鱗獣、最高だぜ！」……ふわあっ、寝てないのに！？",
+    "ko": "이 장비, 내 옷 위에 입을 수 있을 줄은 몰랐네...'말린 린수, 맛있어!'...응? 나 안 잤는데?! 왜 이게 뜨는 거지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Mmm... GASP! I've got it! The solution to the pathology experiment is— Wait, what? Where'd that idea go?!",
+    "zh-TW": "嗯……嗯！病理學的實驗課題我好像有頭緒了！不對，哪來的頭緒？",
+    "zh-CN": "嗯……嗯！病理学的实验课题我好像有头绪了！不对，哪儿来的头绪？",
+    "ja": "ふむ……ふああっ！病理学の実験課題、ひらめきましたっ！……って、うむむ？なんでしたっけ？",
+    "ko": "음... 음! 병리학 실험 과제, 어떻게 해야 할지 이제 좀 알겠어... 는 무슨! 하나도 모르겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "The TGCC never taught me anything like this. Wow... I didn't know you could do that!",
+    "zh-TW": "之前在環塔商會確實沒學到過這些……原來還能這樣。",
+    "zh-CN": "之前在环塔商会确实没学到过这些……原来还能这样。",
+    "ja": "環タロ商会ではこんなこと習いませんでしたね……ほむ、こんなやり方もあるのですか～！",
+    "ko": "탈로스 II 상업연합회에서 이런 건 못 배웠는데... 이런 방법도 있었구나."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Ooh, a promotion! Back at the Relief Foundation, these celebrations meant one thing: piles of pastries... What? We don't do celebration cakes here?",
+    "zh-TW": "晉升？我以前參加過基金會的晉升慶祝會，桌上擺滿了好多點心……欸，我們沒有慶祝晉升的點心嗎？",
+    "zh-CN": "晋升？我以前参加过基金会的晋升庆祝会，桌上摆满了好多点心……欸，我们没有庆祝晋升的点心吗？",
+    "ja": "昇進……財団の昇進パーティーでは、テーブルさんにいっぱいお菓子が並んでましてっ……ふえっ、昇進をお祝いするお菓子はない……のですね……",
+    "ko": "전에 기금회에서 열린 축하 파티에 갔을 땐 맛있는 간식이 진짜 많아서 정말 좋았어! 어...? 우린 간식 없어...?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0038_purrche_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "For real? Yes! I can't wait to tell mom and dad and everyone back home. They're gonna ... they'll be ... so happy for me... \"See ya!\"",
+    "zh-TW": "我嗎？真的嗎？太好了，我要告訴爸媽，還有在城裡的朋友們，他們一定……一定……會很開心……「再見！」",
+    "zh-CN": "我吗？真的吗？太好了，我要告诉爸妈，还有在城里的朋友们，他们一定……一定……会很开心……“再见！”",
+    "ja": "わたしがっ！うわわっ……うれし～なのです！パパとママ、それからお友だちにも伝えて……きっと、きっとよろこん「バイバーイ！」",
+    "ko": "진짜? 내가? 와! 빨리 엄마 아빠한테 말해줘야겠다! 아, 그리고 친구들한테도! 다들... 분명... 좋아할 거야... '잘 가!'"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0038_purrche_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Promoted again?! If I'm dreaming, don't wake me up! I'll make sure everyone stays safe and sound. Leave it to me!",
+    "zh-TW": "這麼快的晉升，我沒有在做夢吧！既然如此，保護大家的工作，就放心地交給我吧！",
+    "zh-CN": "这么快的晋升，我没有在做梦吧！既然如此，保护大家的工作，就放心地交给我吧！",
+    "ja": "スピード昇進……夢じゃないっ！ですね！？では、みなさんをわたしが守らせていただきま～すっ！",
+    "ko": "이렇게 빨리 성장할 수 있을 줄은 상상도 못 했어! 꿈은 아니겠지? 좋아, 모두를 지키는 일은 이제 맡겨 줘!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0038_purrche_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "Sometimes, I think about what life would be like if I'd never left for La Fantoma with the Relief Foundation... Hmph. No matter where I ended up, I'd still be me, always lending a hand!",
+    "zh-TW": "我一直在想，要是我當初沒有答應跟基金會去菈梵朵瑪，我會在什麼地方……哼哼，不管在哪裡，我也一定是像現在這樣在幫助別人吧！",
+    "zh-CN": "我一直在想，要是我当初没有答应跟基金会去菈梵朵玛，我会在什么地方……哼哼，不管在哪儿，我也一定是像现在这样在帮助别人吧！",
+    "ja": "財団と一緒にラヴァンドマに行ってなかったら、わたしはいったい……わふふ、どこでだって、わたしはきっとスーパーヒーローなのです！",
+    "ko": "가끔 그런 생각을 해. 그때 기금회를 따라 라반도르마로 가지 않았다면, 지금의 난 어디에 있을까 하고... 뭐, 어디든 지금처럼 사람들을 도왔겠지?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0038_purrche_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Greetings, Endmin! I am the Brand Ambassador for the Ætherside Environmental Impact Syndrome Relief Foundation — Purrchena! My dream is to be ... someone just like y... \"Brand Ambassador for the Ætherside Environmental Impact Syndrome Relief Foundation — Purrchena!\"... *gasp* no, no, no, I dozed off again!",
+    "zh-TW": "管理員你好，我是超域環境影響症候群救助基金會形象代言人——噗切娜，我的夢想是成為像你……一樣的……「我是超域環境影響症候群救助基金會形象代言人——噗切娜！」……欸？糟了糟了，我又睡著了！",
+    "zh-CN": "管理员你好，我是超域环境影响综合征救助基金会形象代言人——噗切娜，我的梦想是成为像你……一样的……“我是超域环境影响综合征救助基金会形象代言人——噗切娜！”……欸？糟了糟了，我又睡着了！",
+    "ja": "こ～んにちは！超域影響症候群支援財団アンバサダー、プチエナなのですっ！夢は管理人さん……みたいな……「僕は、超域影響症候群支援財団のプチエナさ！」……ほわわわっ！くうっ……また寝ちゃってました！",
+    "ko": "관리자, 안녕! 난 초자연 환경 영향 증후군 구호 기금회의 홍보대사, 푸치나야! 내 꿈은 관리자... 같은... '난 초자연 환경 영향 증후군 구호 기금회의 홍보대사, 푸치나야!' ...앗? 또 잠들어버렸네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Hi, Endmin! I'm wide awake!",
+    "zh-TW": "嗨，管理員，我沒有睡著喔！",
+    "zh-CN": "嗨，管理员，我没有睡着哦！",
+    "ja": "ほわ～、管理人さん。わたしは寝てませんよ！",
+    "ko": "안녕, 관리자! 나 안 잤어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Check out my snacks! Want some, Endmin?",
+    "zh-TW": "我這裡有很多點心，管理員，你要嚐嚐嗎？",
+    "zh-CN": "我这里有很多点心，管理员，你要尝尝吗？",
+    "ja": "お菓子がい～っぱいなのです！管理人さんもどうぞ～！",
+    "ko": "여기 간식 엄청 많다? 관리자도 먹을래?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Don't worry if I suddenly zonk out. My suit has a very smart auto-pilot!",
+    "zh-TW": "不用擔心我會突然睡著，我睡著了外殼也會繼續工作的。",
+    "zh-CN": "不用担心我会突然睡着，我睡着了外壳也会接着工作的。",
+    "ja": "突然ねむくなってもだいじょ～ぶ！着ぐるみは優秀なのです。バッチリです！",
+    "ko": "내가 갑자기 잠들어도 걱정하지 마. 내 인형 탈이 대신 일해줄 거니까!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Hiya, Endmin! How about some exotic dried fin?",
+    "zh-TW": "嗨，管理員，你要吃怪味鱗乾嗎？",
+    "zh-CN": "嗨，管理员，你要吃怪味鳞干吗？",
+    "ja": "ふわあ、管理人さん！変味干し鱗獣食べますか？",
+    "ko": "안녕, 관리자! 말린 린수 먹을래?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "\"See ya!\" ... Huh? Oh, Endmin! Hello there!",
+    "zh-TW": "「再見！」……嗯？管理員，你好！",
+    "zh-CN": "“再见！”……嗯？管理员，你好！",
+    "ja": "「また会おうぜ！」……うむう？管理人さん、こんにちは～！",
+    "ko": "'잘 가!' ...아, 관리자, 안녕!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0038_purrche_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Whoa, Dijiang is so different from home! You got a full view of Talos-II and flashy gadgets that I don't recognize! I've only read about stuff like this! It's so cool!",
+    "zh-TW": "帝江號和我住過的地方完全不一樣！這裡能看見塔衛二的全景，還有很多我不認識，以前只在書上見到過的設備，好厲害！",
+    "zh-CN": "帝江号和我住过的地方完全不一样！这里能看见塔卫二的全景，还有很多我不认识，以前只在书上见到过的设备，好厉害！",
+    "ja": "帝江号、すごいですっ！今までいたところとは違います！タロⅡもぜんぶ見えますし、教科書に載ってたナゾの設備もいっぱい……",
+    "ko": "제강호는 내가 살던 곳이랑 완전히 달라! 탈로스 II가 다 보이고, 책에서만 보던 설비들이 가득하거든! 진짜 대단해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "Hi, Endmin! What? The canteen operators said that I was being too modest? Really?! I didn't want to look too greedy. WAIT! It's an all-you-can take snack bar?! WOOHOO! Snack bar! Here I come!",
+    "zh-TW": "嗨，管理員！啊？餐廳的後勤幹員說我有點放不開？我嗎？哪有，我只是怕點心拿得太多了。咦？可以隨便拿？太好了！我、我要去多拿點！",
+    "zh-CN": "嗨，管理员！啊？食堂的后勤干员说我有点放不开？我吗？哪有，我只是怕点心拿得太多了。咦？可以随便拿？太好了！我、我要去多拿点！",
+    "ja": "おつかれさまで～す！ほわっ、食堂の後方支援オペレーターさんがわたしが遠慮しているのではないか、と？違うのです、お菓子を取りすぎたかもと……ふむ、好きなだけ……やった～！では、たくさんいただいちゃいま～す！",
+    "ko": "안녕, 관리자! 응? 식당에 계신 지원 오퍼레이터분들이 내가 낯을 가리는 것 같다고 말씀하셨다고? 아... 그, 그게... 가끔 내가 디저트를 너무 많이 집어 가는 게 아닌가 싶을 때가 있거든... 뭐? 원하는 만큼 마음대로 가져가도 된다고? 그, 그럼 더 많이 가져와야지!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0038_purrche_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Endmin, I'm back from helping out fellow patients! I told the children stories about Endfield and they LOVED IT! What type of stories? Yeah, they're about ... about... \"Exotic dried fin! YUM-YUM!\" \"I LOVE exotic dried fin.\"",
+    "zh-TW": "管理員，我剛完成救助患者的任務回來。我跟那裡的小朋友們講了終末地的故事，他們都很喜歡！什麼故事？當然是……是……「怪味鱗乾，好吃！」「最喜歡怪味鱗乾了。」",
+    "zh-CN": "管理员，我刚完成救助患者的任务回来。我和那里的小朋友们讲了终末地的故事，他们都很喜欢！什么故事？当然是……是……“怪味鳞干，好吃！”“最喜欢怪味鳞干了。”",
+    "ja": "患者さん救出任務から帰還しました！子どもたちにエンドフィールドのお話したら、いいな～って！内容ですか？それは……もちろん……「変味干し鱗獣、最高だぜ！」「やっぱり変味干し鱗獣だよな！」",
+    "ko": "관리자! 환자들 구조 임무를 마치고 막 돌아왔어. 거기 아이들한테 엔드필드에 대해서 이야기해 줬더니 엄청나게 좋아하더라! 무슨 얘기였냐고? 그건... 바로... '말린 린수, 맛있어!' '말린 린수가 제일 좋아'"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0038_purrche_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Endmin! I toasted this marshmallow myself! Why is it a half singed? Oh, heheh, yeah, I think I accidentally dozed off by the fire...",
+    "zh-TW": "管理員！這是我烤的棉花糖！焦了一半？嘿嘿，烤的時候不小心睡著了……",
+    "zh-CN": "管理员！这是我烤的棉花糖！焦了一半？嘿嘿，烤的时候不小心睡着了……",
+    "ja": "管理人さ～ん、焼きマシュマロなのです！にへへっ、これは焼いてるとこで寝ちゃって……",
+    "ko": "관리자! 이것 봐, 내가 직접 구운 마시멜로야! ...어, 반이나 타버렸다고? 헤헤, 굽다가 깜빡 잠들어서..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0038_purrche_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "Nnn — so sleepy... Dealing with those stubborn burdenbeasts was a real workout. Oh? Why'd I go in alone? Well, helping fellow Ætherside Syndrome patients is what I do! Heheh!",
+    "zh-TW": "嗯——好累……那個叔叔家的馱獸也太不聽話了……嗯？為什麼不等待其他幹員支援？因為幫助超域症候群患者就是我的工作，嘿嘿！",
+    "zh-CN": "嗯——好累……那个叔叔家的驮兽也太不听话了……嗯？为什么不等待其他干员支援？因为帮助超域综合征患者就是我的工作，嘿嘿！",
+    "ja": "はふう……お疲れさまでした～。おじさんちの駄獣さんはぜんぜん言うこと聞いてくれませんね……ほえ？どうして支援を待たなかったのか？それは超域症候群のみなさんを救う任務があるからですよ！えっへん！",
+    "ko": "으으... 힘들다... 그 아저씨네 버든비스트, 진짜 말 안 듣더라... 응? 왜 지원 오퍼레이터분들이랑 같이 안 했냐고? 그야... 초자연 증후군 환자분들을 돕는 건 내가 해야 할 일이니까 그렇지! 헤헤."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0038_purrche_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Why do I love snacks so much? 'Cos snack-munching is very relaxing for me ... it feels like floating on the clouds... \"Greetings! I am Purrchena!\"",
+    "zh-TW": "為什麼這麼喜歡吃點心？因為我每次吃完點心，感覺自己就會放鬆下來，好像飛到了雲朵上面一樣……「你好，我是噗切娜！」",
+    "zh-CN": "为什么这么喜欢吃点心？因为我每次吃完点心，感觉自己就会放松下来，好像飞到了云朵上面一样……“你好，我是噗切娜！”",
+    "ja": "お菓子が好きな理由……お菓子は気持ちをふわふわにしてくれますっ！それにふわふわの雲の上に……「やあ！僕はプチエナさ！」",
+    "ko": "왜 그렇게 간식을 좋아하냐고? 음, 간식을 먹으면 마음이 편안해지면서 구름 위를 둥둥 떠다니는 것 같거든! ... '안녕, 난 푸치나야!'"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0038_purrche_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Tada! I hand-picked this gift, so it's guaranteed to be delicious! Trust me, Endmin! You won't find a better snack-expert than me! I know all the best secrets of the snack world!",
+    "zh-TW": "鏘鏘！管理員，這可是我精心挑選的禮物，一定很合你的胃口！沒人比我更懂點心啦，我可是很懂裡面的門道的喔！",
+    "zh-CN": "锵锵，管理员，这可是我精心挑选的礼物，一定很合你的胃口！没人比我更懂点心啦，我可是很懂里面的门道的哦！",
+    "ja": "じゃじゃ～ん！真心プレゼントさんなのです！わたしよりお菓子を知るものはいない……きっとお口に合いますよ！な～んでも知ってるんですからね！",
+    "ko": "짜잔! 관리자한테 주려고 내가 고르고 골라 준비한 선물이야. 입맛에 딱 맞을걸? 간식에 대해서라면 나만큼 잘 아는 사람이 없거든!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Ooh, thank you so much, Endmin... *gasp*, almost fell asleep again! Whew ... thank goodness I didn't drop it.",
+    "zh-TW": "欸，謝謝管理員……呃，差點又睡著了！呼，好險好險，還好沒掉地上。",
+    "zh-CN": "欸，谢谢管理员……呃，差点又睡着了！呼，好险好险，还好没掉地上。",
+    "ja": "ほあっ、ありがとうございます……ひっ、また寝ちゃうとこでした！ツルッと……あぶなかった～です！",
+    "ko": "고마워 관리자! ...앗! 또 잠들 뻔했네. 휴, 하마터면 떨어트릴 뻔했어. 다행이다"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "When I studied at La Fantoma, my textbooks described plenty of Endfield achievements. That's when I learned about Endfield's commitment to Æther disease prevention... The ambient Æther of Talos-II can inflict rare disorders on people. I really want to do my part and help fellow victims. My friends at the Relief Foundation wrote me very nice recommendations, and that was how I ended up here!",
+    "zh-TW": "我在菈梵朵瑪上學的時候，從教科書裡看到了終末地工業的事蹟，那時我才知道，終末地在推動超域疾病防治事業的發展上付出過很多努力……在塔衛二，超域環境會引發罕見的症候群，我想要幫助患者們，所以我就在基金會叔叔阿姨的推薦下，自告奮勇來終末地報到啦！",
+    "zh-CN": "我在菈梵朵玛上学的时候，从教科书里看到了终末地工业的事迹，那时我才知道，终末地在推动超域疾病防治事业的发展上付出过很多努力……在塔卫二，超域环境会引发罕见的综合征，我想要帮助患者们，所以我就在基金会叔叔阿姨的推荐下，自告奋勇来终末地报到啦。",
+    "ja": "ラヴァンドマの学校で、エンドフィールドの偉業について勉強させていただきましたっ！そのとき、エンドフィールドが超域症候群の予防と治療の推進に力を入れているって知ったのです……タロⅡでは、超域がまれな症候群を引き起こすことがあります。そんな患者さんたちを助けたくて、財団のおじさんやおばさんたちの勧めで、勇気を出してやってまいりました！",
+    "ko": "라반도르마에서 학교를 다닐 때, 교과서에서 엔드필드 공업의 업적과 관련된 내용을 본 적 있어. 엔드필드가 초자연 질병 예방을 위해 얼마나 노력하는지 그때 처음 알았지... 난 항상 탈로스 II의 초자연 환경 때문에 희귀 증후군을 앓는 환자분들을 돕고 싶었거든, 그래서 기금회분들한테 추천받자마자 바로 엔드필드로 오게 된 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Hiya! Some article mentioned the \"Brand Ambassador for the Ætherside Environmental Impact Syndrome Relief Foundation\"? Oh, yeah, that was me, but the writing's way over the top... I didn't hike across mountains with a victim on my back. Mom and I just gave him a lift to the hospital in our RV. Why aren't my parents Felines? Good question. It's probably because my grandparents weren't Felines.",
+    "zh-TW": "嗨，管理員！「超域環境影響症候群救助基金會形象代言人」？對啊，報導的就是我，不過沒那麼誇張……我哪有抱著患者翻山越嶺，只是和媽媽一起開大篷車，把他送到了醫院而已。父母為什麼都不是菲林？因為爸媽的爸媽也不是菲林啊。",
+    "zh-CN": "嗨，管理员！“超域环境影响综合征救助基金会形象代言人”？对呀，报道的就是我，不过没那么夸张……我哪有抱着患者翻山越岭，只是和妈妈一起开大篷车，把他送到了医院而已。父母为什么都不是菲林？因为爸妈的爸妈也不是菲林呀。",
+    "ja": "「超域影響症候群支援財団アンバサダー」――はいっ、確かに報道されたのはわたしですけど、そんなすごい話ではないのです。患者さんを抱えて山を越えたなんてウソで、ママと一緒にトラックを走らせて病院まで連れて行っただけです。両親がフェリーンじゃないのはなぜか？……それは、パパとママのパパとママがフェリーンじゃないからに決まってるじゃないですかっ！",
+    "ko": "안녕, 관리자! 기사에 나온 '초자연 환경 영향 증후군 구호 기금회 홍보대사'? 응, 나 맞아. 근데 뭐, 그렇게 대단한 일을 한 건 아니야. 환자를 업고 산 넘고 물 건너갔다는 건 좀 과장이고... 그냥 엄마랑 같이 트럭으로 병원까지 데려다준 것뿐이야... 부모님이 필라인이 아닌 이유? 그야... 우리 할머니 할아버지도 필라인이 아니셨으니까!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0038_purrche_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "My funsy suit? Dad built the first one when I was a little girl. He fixed up a scrapped exo-skeleton and wrapped it in a plushie to keep me safe in case I dozed off. That old suit was really buggy, but I still have it stashed in my La Fantoma apartment! What about the one I'm wearing? Ahem. This one's top-of-the-line! Techies of the Relief Foundation are always giving me neat upgrades. I've got tons of flashy tech inside this thing!",
+    "zh-TW": "我的玩偶外殼？小時候爸爸幫我做過一個。他把回收的機械骨骼修好了，又在機械骨骼外面套了件玩偶服，這樣我才不會因為突然睡著受傷。那件玩偶服是不太好看啦，但我還是把它保存在了我菈梵朵瑪的公寓裡！身上這個？哼哼，基金會的技術人員經常幫我升級，這裡面可有很多高科技呢！",
+    "zh-CN": "我的玩偶外壳？小时候爸爸给我做过一个。他把回收的机械骨骼修好了，又在机械骨骼外面套了件玩偶服，这样我才不会因为突然睡着受伤。那件玩偶服是不太好看啦，但我还是把它保存在了我菈梵朵玛的公寓里！身上这个？哼哼，基金会的技术人员经常帮我升级，这里面可有很多高科技呢！",
+    "ja": "着ぐるみ……ふむ。小さいころ、パパが回収したパワードスーツを修理して、外に着ぐるみをつけてくれたのです。だから突然寝ちゃってもだいじょ～ぶ！実は見た目がうぬぬ～で、今はラヴァンドマのアパートにしまってます。今着てるのは、にへへっ！財団のエンジニアさんがアップグレードしてくれて、ハイテク技術がモリモリ詰まってるのです！",
+    "ko": "내 인형 탈은 어릴 때 아빠가 만들어 주셨어. 재활용한 기계 골격을 고친 다음 그 위에 인형 탈을 씌워 주셨지. 갑자기 잠들어도 다치지 않고 무사할 수 있게 말이야. 좀 못생긴 탈이긴 하지만, 지금은 라반도르마 집에 소중히 보관해 뒀어. 아, 지금 입고 있는 거? 헤헤, 이건 기금회 기술자분들이 계속 업그레이드해 준 거야! 최첨단 기술이 잔뜩 들어갔지!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0038_purrche_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "I once dozed off during a major exam and woke up to find the place in total chaos. The proctor and my fellow examinees were shouting for help! They only knew that I had a rare syndrome and thought I was in a coma. Then they panicked when they couldn't pry my suit open. The poor proctor even fell and got injured... How did I do on the exam? Well, I submitted my half-finished paper just to rush the proctor to the school medical room. I could have topped the class.",
+    "zh-TW": "有一次，我在一場跨校考試上睡了很久。當我醒來的時候，發現監考老師還有幾名學生正滿頭大汗地朝窗外呼救，原來他們只知道我患有罕見的症候群，卻不知道具體的症狀，以為我昏過去了，但又打不開我的外殼，老師還摔倒在地上受了點傷……考試成績？當時我急著把老師送去醫務室，提前交卷了，不然我就能拿全科第一了。",
+    "zh-CN": "有一次，我在一场跨校考试上睡了很久。当我醒来的时候，发现监考老师还有几名学生正满头大汗地朝窗外呼救，原来他们只知道我患有罕见的综合征，却不知道具体的症状，以为我昏过去了，但又打不开我的外壳，老师还摔倒在地上受了点伤……考试成绩？当时我急着把老师送去医务室，提前交了卷，不然我就能拿全科第一了。",
+    "ja": "学力テストでねむねむになっちゃって、ハッと気付いたら試験監督の先生とお友だちが汗ビッショリで助けを呼んでました。珍しい病気ってことはわかってて、でも症状は知らなかったので、わたしが気絶したと思ったみたいです。しかも着ぐるみが引っかかって、先生は転んでケガして……テストの結果ですか？急いで先生を医務室に担いで、早めに出したので……全科目1位は逃しちゃいました。",
+    "ko": "한 번은 학교 시험 도중에 완전히 곯아떨어진 적이 있어. 깨어나 보니까 감독 선생님이랑 애들이 땀을 뻘뻘 흘리면서 창밖으로 구조 요청을 하고 있더라고. 내가 희귀 증후군이 있다는 건 알아도 자세한 증상은 모르니까, 그냥 내가 기절한 줄 알았나 봐. 그래서 인형 탈에서 날 꺼내려고 난리가 났던 거지. 선생님은 넘어지셔서 다치기까지 하셨다니까... 시험 성적? 그땐 선생님을 의무실로 모셔다드리고 급하게 나오느라... 아니면 전 과목 1등이었을 텐데!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0038_purrche_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "Mom picked me up from the wildlands while delivering supplies in her RV... They'd often spend time with me counting stars and playing games. After the Relief Foundation diagnosed my rare syndrome, Mom and Dad brought me to La Fantoma so I could receive treatment while serving as the Foundation's mascot. I soon learned that I wasn't the only one suffering from Ætherside Syndrome. Heheh. I'm so glad I can help so many like me!",
+    "zh-TW": "媽媽開大篷車送物資的時候，在荒野上撿到了我……小時候，他們經常陪我在大篷車上一起數星星，玩遊戲。後來，基金會發現我患有特殊的病症，認為我可以一邊接受治療，一邊當基金會的形象代言人，就把我帶到了菈梵朵瑪。直到加入了基金會我才知道，不只是我，還有好多人都被超域症候群折磨。嘿嘿，我能幫到他們，真是太好了！",
+    "zh-CN": "妈妈开大篷车送物资的时候，在荒野上捡到了我……小时候，他们经常陪我在大篷车上一起数星星，玩游戏。后来，基金会发现我患有特殊的病症，认为我可以一边接受治疗，一边当基金会的形象代言人，就把我带到了菈梵朵玛。直到加入了基金会我才知道，不只是我，还有好多人都被超域综合征折磨。嘿嘿，我能帮到他们，真是太好了！",
+    "ja": "ママがトラックで物資を運んでたとき、荒野でわたしを拾ったそうです……子どものころはトラックで星を数えたり、ゲームをしたりしてました。わたしが特殊な病気だって財団が気づいて、治療を受けながらアンバサダーもできるからって、ラヴァンドマに連れてきてくれたんです。財団で初めて、超域症候群で苦しんでる人がわたしだけじゃないんだって知りました。だから、へへ、みなさんのお役にたてて、うれし～です！",
+    "ko": "엄마는 대형 트럭을 몰고 물자를 운송하던 도중에 날 발견했대, 그래서 그런진 몰라도 어릴 땐 엄마랑 아빠랑 자주 트럭 위에서 별도 세고 장난도 치며 놀았던 기억이 가득해. 그러다 기금회에서 내가 희귀병을 앓고 있다는 걸 알게 됐고, 치료받는 겸, 홍보대사도 맡아달라고 해서 라반도르마로 가게 된 거야. 기금회에 들어와서야 알았어. 나 말고도 정말 많은 사람이 초자연 증후군으로 고통받고 있다는 걸... 헤헤, 내가 도움이 될 수 있어서 정말 다행이야!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0038_purrche_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "Nothing beats exotic dried fin, but the finyaki from Neo Tsukushi is amazing too. I visited fellow syndrome patients in the city during a Relief Foundation trip. Everyone told me Neo Tsukushi has the most authentic finyaki. They're right, but now every non-Tsukushi finyaki tastes wrong. I really wanna go there again... Mmm, oh well, I guess I'll stick to my exotic dried fin for now!",
+    "zh-TW": "我最喜歡吃的當然是怪味鱗乾，新都築的鱗獸燒也很不錯。嘿嘿，之前去新都築拜訪超域症候群患者時，大家都說那裡的鱗獸燒是最正宗的。吃過正宗的鱗獸燒後，就總覺得其他地方的鱗獸燒不好吃。什麼時候才能再去新都築哇……嗯，還好有怪味鱗乾！",
+    "zh-CN": "我最喜欢吃的当然是怪味鳞干，新都筑的鳞兽烧也很不错。嘿嘿，之前去新都筑拜访超域综合征患者时，大家都说那里的鳞兽烧是最正宗的。吃过正宗的鳞兽烧后，就总觉得其他地方的鳞兽烧不好吃。什么时候才能再去新都筑哇……嗯，还好有怪味鳞干！",
+    "ja": "一番大好きなのは、変味干し鱗獣！それからシン・ツクシの鱗獣焼もうまうま～ですっ！へへっ、前に超域症候群の患者さんのお見舞いで行ったとき、みなさん「ここの鱗獣焼が本場」だって言ってました。あれを食べちゃうと、他のはちょっと物足りない……次いつ行けるのでしょうか……うむむ、まだ変味干し鱗獣があるのでへ～きです！",
+    "ko": "난 말린 린수를 제일 좋아해! 신 츠쿠시의 린수야키도 진짜 맛있고! 전에 환자분들을 만나러 간 적이 있었는데, 다들 여기 린수야키가 진짜 최고라고 하길래 먹어봤지. 근데 진짜 그 이후로 다른 곳에서는 절대 그 맛이 안 나는 거 있지? 아, 언제 또 가서 먹어볼 수 있을까... 그래도 말린 린수가 있으니까, 괜찮아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "A plush-bot? NUH-UH! Bots like me don't exist on Talos-II! And even if they did, they'd look nothing like me! Endmin, did you fall for those rumors? My electronic sounds! Look, they're NOT synthesized! I just pre-recorded them so people know when I'm dozing off. Here! I'll play a few for you... \"Greetings!\" \"See ya!\" \"Exotic dried fin! YUM-YUM!\" \"Is the Endmin hiding snacks behind that mask?\" Ack! Stop! That line wasn't meant to be recorded!",
+    "zh-TW": "有人說我是玩偶機器人？才不是！塔衛二哪有這樣的機器人啊！就算有也不會和噗切娜一樣啊！管理員不會是當真了吧？電子音？才不是合成的！那是我怕大家不知道我睡著了，提前錄進去的啊，我播給你聽……「你好！」「再見！」「怪味鱗乾，好吃！」「管理員的面具裡，會不會藏了好吃的？」不對不對，這句話怎麼也錄進去了啊！",
+    "zh-CN": "有人说我是玩偶机器人？才不是！塔卫二哪有这样的机器人啊！就算有也不会和噗切娜一样呀！管理员不会是当真了吧？电子音？才不是合成的！那是我怕大家不知道我睡着了，提前录进去的呀，我播给你听……“你好！”“再见！”“怪味鳞干，好吃！”“管理员的面具里，会不会藏了好吃的？”不对不对，这句话怎么也录进去了啊！",
+    "ja": "わたしが着ぐるみロボットさん？違います！タロⅡにこんなロボットさんがいるなら、教えてほしいのです！まさか、ほんと～だと思って……？音声……合成じゃありませんよ。あれはわたしが寝たよってお知らせのために、あらかじめ録音しといてるやつです。こんな感じです……「やあ！」「また会おうぜ！」「変味干し鱗獣、最高だぜ！」「管理人さんのマスクの下、おいしいものが隠れてるかも～？」はわっ！？だめ～！なんで録音されてるのですか～！",
+    "ko": "내가 인형 로봇인 줄 아는 사람이 있다고? 당연히 아니지! 탈로스 II에 이런 로봇이 어딨어! 있다고 해도, 푸치나랑 하나도 안 닮았을걸! 설마... 진짜라고 믿는 거 아니지? 그럼 전자 음성은 뭐냐고? 그건 그냥 내가 잠들었을 때 다들 모를까 봐 미리 녹음해 둔 거야, 음성을 합성한 게 아니라고! 한번 들어 볼래? '안녕!' '잘 가!' '말린 린수, 맛있어!' '관리자의 마스크 안에는 맛있는 게 숨겨져 있을까?' 앗! 뭐야! 이게 왜 녹음 됐지?!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "How do I take my meds? Dad furnished this suit with a timed dispenser, and friends from the TGCC polished the tech. How do I eat and clean myself? Hmm... Relief Foundation techies installed a cleaning system that removes any crumbs I accidentally drop! To eat, I just go like this: Ahhhh — NYAM ... KYAAA!! HO-HO-HOOO...! *Glug-glug* Phooo. I'm alive! Saved by cool water... The heat almost killed me... Welp. That's how things work, Endmin.",
+    "zh-TW": "我平常怎麼注射藥物？爸爸在外殼裡面裝了定時注射器，商會的叔叔阿姨還幫我升級了一下。怎麼吃東西？怎麼清潔？嗯……基金會的技術人員幫我安裝了清潔系統，不小心掉落的食物碎屑都會被清潔乾淨的！吃東西嘛，就像這樣，啊——嗯……嗯！燙燙燙燙燙……呼，得救了，還好有水，差點以為要被燙死了……就這樣，管理員，嘿嘿……",
+    "zh-CN": "我平时怎么注射药物？爸爸在外壳里面装了定时注射器，商会的叔叔阿姨还帮我升级了下。怎么吃东西？怎么清洁？唔……基金会的技术人员给我安装了清洁系统，不小心掉落的食物碎屑都会被清洁干净的！吃东西嘛，就像这样，啊——嗯……嗯！烫烫烫烫烫……呼，得救了，还好有水，差点以为要被烫死了……就这样，管理员，嘿嘿……",
+    "ja": "薬は……パパが着ぐるみに持続注入ポンプをつけてくれて、商会のおじさんおばさんがアップグレードしてくれました。食事やお風呂？……財団のエンジニアさんがクリーニングシステムを搭載してくれたので、うっかり落とした食べカスとかはきれいになります。食べるときは、あ～ん――ん……うぐっ！あちゃちゃ！……ふわあ、助かったあ……お水があってよかったです、あつあつ死するとこでした……こんな感じです、へへ……",
+    "ko": "주사 맞을 땐 어떻게 하냐고? 탈 안에 아빠가 만들어준 타이머 주사기가 있어. 상업연합회분들이 업그레이드도 해주셨지! 씻는 거나 먹는 거? 음, 기금회 기술자분들이 세척 시스템을 만들어줘서 음식 부스러기 같은 건 다 알아서 청소해 줘. 먹는 건 이렇게... 아, 으앗! 뜨거워! 후우, 살았다... 물이 있어서 다행이야, 뜨거워 죽는 줄 알았네. 아무튼, 대충 이렇게 먹는 거야. 헤헤."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "My appearance? Purrchena looks like Purrchena, fuzzy-wuvvly... My actual appearance under the suit? Oho, looks like someone is interested in my secrets! Harrrumph! Purrchena is made of cotton candy! Hehe, just joking. I'm actually just ... I'm ... feeling ... a lil'... \"Exotic dried fin! HAVE SOME!\"",
+    "zh-TW": "我的樣子？噗切娜當然就長噗切娜這樣，毛絨絨的……裡面？欸，原來管理員也對我的長相感興趣啊。哼哼，噗切娜，就像是棉花糖一樣！嘿嘿，開玩笑的啦，其實我……我……我有點……睏……「怪味鱗乾，嚐嚐！」",
+    "zh-CN": "我的样子？噗切娜当然就长噗切娜这样，毛绒绒的……里面？欸，原来管理员也对我的长相感兴趣呀。哼哼，噗切娜，就像是棉花糖一样！嘿嘿，开玩笑的啦，其实我……我……我有点……困……“怪味鳞干，尝尝！”",
+    "ja": "わたしの外見ですか？ご覧の通り、これがわたしです！モフモフで……中ですか？ふ～ん、管理人さんもご興味が……えっへん。プチエナはマシュマロ似なのです！へへ、じょ～だんでした！実は……わたしは……ねむねむ……「変味干し鱗獣、一緒に食べよう？」",
+    "ko": "내 모습? 푸치나는 당연히 푸치나처럼 생겼지! 복실복실한... 아! 진짜 내 모습이 궁금한 거구나? 에헴, 푸치나는... 마시멜로처럼 생겼어! 하하, 농담이야! 사실 나... 지금... 좀... 졸... 려... '말린 린수, 먹어봐!'"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "Of course, of course! My outfit is a huge hit! Everyone — from the Relief Foundation staff, to the friends I helped, to fellow Endfielders who helped me out  — just LOOOOOVES to get a huggy with me. Especially on cold days. All of them tell me the same thing: \"You're so soft and warm, Purrchena! It's like cuddling with a little piece of the sun!\"",
+    "zh-TW": "當然當然，大家都很喜歡我的造型！不管是基金會裡一直照顧我的朋友，被我幫助後認識的朋友，還是終末地幫助過我的朋友，大家總會衝過來抱著我。特別是在天氣冷的時候，他們都會說，軟呼呼的，還暖呼呼的，要是太陽能抱著，肯定也是這種感覺。",
+    "zh-CN": "当然当然，大家都挺喜欢我的造型！不管是基金会里一直照顾我的朋友，被我帮助后认识的朋友，还是终末地帮助过我的朋友，大家总会冲过来抱着我。特别是在天气冷的时候，他们都会说，软乎乎的，还暖乎乎的，要是太阳能抱着，肯定也是这种感觉。",
+    "ja": "と～ぜん、プチエナの着ぐるみは大人気です！財団で面倒を見てくれたお友だちも、お助けしてからのお友だちも、エンドフィールドで仲良くしてくれるお友だちも、み～んなモフモフするのです。特に寒い日は、ふわふわ～であったか～、太陽をぎゅ～！したら、こんな感じじゃないかって！",
+    "ko": "헤헤, 다들 내 탈을 좋아해! 기금회 친구들, 내가 도와준 분들, 엔드필드 사람들도 다 나만 보면 달려와서 꽉 안아준다니까? 특히 추운 날엔 더 그러더라. 폭신폭신하고 따뜻해서 꼭 태양을 안고 있는 기분이래!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_about_line01",
+   "title": {
+    "en": "Topic: Ætherside Syndrome",
+    "zh-TW": "話題：超域症候群",
+    "zh-CN": "话题：超域综合征",
+    "ja": "超域症候群について",
+    "ko": "초자연 증후군에 관하여"
+   },
+   "text": {
+    "en": "I used to go to all sorts of places to visit fellow patients in need. Some shared my conditions, but there were a few ... well, the Relief Foundation surgeons told me there was nothing they could do with our current medical technology. I remember visiting an Ætherside Syndrome care center with the team and I just... *Sigh*. It made me realize how fortunate I am to have this suit. It keeps me on my feet instead of a sickbed... I just hope I made a difference for them.",
+    "zh-TW": "我以前經常會跑到很多地方去看望病患們。有的，是和我一樣受超域症候群困擾的患者，還有一些……基金會的醫生告訴我，目前的醫療技術無能為力。有一次，我和基金會的大家去了一家專為超域症候群患者們搭起來的醫療中心，我在那裡……唉，幸好噗切娜有這套外殼，不用一直躺在病床上……希望我真的幫到了他們。",
+    "zh-CN": "我以前经常会跑到很多地方去看望病患们。有的，是和我一样受超域综合征困扰的患者，还有一些……基金会的医生告诉我，目前的医疗技术无能为力。有一次，我和基金会的大家去了一家专为超域综合征患者们搭起来的医疗中心，我在那里……唉，幸好噗切娜有这套外壳，不用一直躺在病床上……希望我真的帮到了他们。",
+    "ja": "前はよくいろんなとこで患者さんたちのお見舞いしてました。同じ超域症候群の患者さんや……財団のお医者さんから、今の医療ではどうにもならないって言われた人たち。財団のみんなと一緒に、専用の医療センターに行ったこともありましたよ。そこでは……ふうう……わたしにはパワードスーツがあります。ずっとベッドで寝てなくても……少しでも、みんなの助けになれてたらいいなって思います。",
+    "ko": "예전엔 여기저기 환자분들을 자주 만나 뵈러 다녔어. 나처럼 초자연 증후군을 앓는 분들도 있었고 기금회 의사 선생님 말씀으로는 지금 기술로는 고칠 수 없는 분들도 있었지. 한 번은 기금회 분들이랑 같이 초자연 증후군 환자들을 위한 의료 센터에 간 적이 있는데... 푸치나도 이 탈이 없었으면 그렇게 침대에 누워있었을 거란 생각이 계속 들었어. 휴, 내가 그분들한테 힘이 됐으면 좋겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_about_line02",
+   "title": {
+    "en": "Topic: La Fantoma",
+    "zh-TW": "話題：菈梵朵瑪",
+    "zh-CN": "话题：菈梵朵玛",
+    "ja": "ラヴァンドマについて",
+    "ko": "라반도르마에 관하여"
+   },
+   "text": {
+    "en": "People in La Fantoma are really warm! It's nothing like other places. There are no deserts, no Landbreaker roadblocks... Just massive parks, the ocean, and lively music fests! Of course, La Fantoma snacks are my favorite. I could also hardly tell the Oripathy-positives apart from the rest... *Sigh*. If only we could bring Ætherside Syndrome under control like we did with Oripathy.",
+    "zh-TW": "菈梵朵瑪的人們都很熱情！菈梵朵瑪和其他地方也都不一樣。菈梵朵瑪沒有荒漠，沒有攔路的裂地者，全是很大很大的園區，還有大海，還有熱鬧的音樂節！當然，我最喜歡的還是菈梵朵瑪的點心。在城裡的時候我都分不清感染者和普通人……唉，要是超域症候群也能像礦石病一樣很容易被控制住就好了。",
+    "zh-CN": "菈梵朵玛的人们都很热情！菈梵朵玛和其他地方也都不一样。菈梵朵玛没有荒漠，没有拦路的裂地者，全是很大很大的园区，还有大海，还有热闹的音乐节！当然，我最喜欢的还是菈梵朵玛的点心。在城里的时候我都分不清感染者和普通人……唉，要是超域综合征也能像矿石病一样很容易被控制住就好了。",
+    "ja": "ラヴァンドマの人たちは、みんなと～っても優しかったです。それに荒野もないし、通せんぼしてくるおジャマランドブレーカーもいません。全部ひろ～い実験エリアなのですよ。あとは海と、黒曜石祭も！そして一番素晴らしいのはお菓子で～す！街の中では感染者と普通の人の区別なんかなくて……はああ、超域症候群も鉱石病みたいに簡単にコントロールできたら……",
+    "ko": "라반도르마 사람들은 정말 친절해! 다른 곳이랑 다르게 황무지도 없고 길을 막는 랜드브레이커도 없지. 어디를 가도 거대한 실험 구역 같은 공간들이 가득하고, 탁 트인 바다에선 신나는 음악 축제도 열려! 물론 내가 제일 좋아하는 건 간식이지만 말이야. 누가 감염자인지 아닌지 구별이 안 될 정도로 도심에는 평화가 가득했지. 휴, 초자연 증후군도 광석병처럼 쉽게 억제할 수 있으면 얼마나 좋을까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_about_line03",
+   "title": {
+    "en": "Topic: RV",
+    "zh-TW": "話題：大篷車",
+    "zh-CN": "话题：大篷车",
+    "ja": "トラックについて",
+    "ko": "트럭에 관하여"
+   },
+   "text": {
+    "en": "When I was a little girl, the RV felt super humongous to me. Mom drove it across the world with Dad and I. I've seen snowy mountains, deserts, forests, and giant lakes. I was young, but I was strong and helped people move tons of cargo on and off our RV. They really liked me and gave me lots of sweets. I thought all the snacks on Talos-II would never fill my Mom's RV... But her RV seems smaller now.",
+    "zh-TW": "我記得小時候的大篷車很大很大，媽媽經常開著它，帶著我和爸爸到處跑，雪山、沙漠、森林、大湖邊，我都去過。別看那時候我年紀很小，已經能幫搬貨的工人們把貨物搬上車又搬下車，他們都可喜歡我了，塞了很多點心給我。小時候總覺得，全塔衛二的點心都塞不滿媽媽的大篷車，但是現在感覺，它好像沒那麼大了。",
+    "zh-CN": "我记得小时候的大篷车很大很大，妈妈经常开着它，带着我和爸爸到处跑，雪山、沙漠、森林、大湖边，我都去过。别看那时候我年纪很小，已经能帮搬货的工人们把货物搬上车又搬下车，他们都可喜欢我了，给我塞了很多点心。小时候总觉得，全塔卫二的点心都塞不满妈妈的大篷车，但是现在感觉，它好像没那么大了。",
+    "ja": "小さいころ、トラックはすっご～くおおき～く見えました。ママが運転して、パパとわたしをいろんなところに連れてってくれました。雪山に砂漠、森や湖――まだ小さかったですけど、作業員さんたちが荷物を車に運んだり下ろしたりするのをお手伝いしました。みなさんかわいがってくれて、お菓子をい～っぱい、持たせてくれました。あのころ、ママのトラックにはタロⅡ中のお菓子を詰め込める！って思ってたのです。でも、今考えてみたらそこまで大きくない気がしちゃいます……",
+    "ko": "우리 집 트럭 진짜 엄청나게 크다? 어릴 땐 그걸 타고 여기저기를 돌아다녔어. 설산, 사막, 숲, 호수... 안 가본 데가 없을 정도지. 그때 난 진짜 꼬맹이였는데도 짐 나르는 분들을 도와서 물건을 차에 싣고 그랬어. 다들 날 예뻐해서 간식도 엄청나게 주셨지! 그땐 탈로스 II의 모든 간식을 다 모아도 그 큰 트럭은 못 채울 줄 알았는데... 이상하게 지금은 예전처럼 그렇게 커 보이진 않더라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_about_line04",
+   "title": {
+    "en": "Topic: The Bonekrusher Clan",
+    "zh-TW": "話題：碾骨氏族",
+    "zh-CN": "话题：碾骨氏族",
+    "ja": "ボーンクラッシャーについて",
+    "ko": "본 크러셔 집단에 관하여"
+   },
+   "text": {
+    "en": "Endmin, I just don't understand! Why would the Landbreakers expose themselves to the Æther...? It's crazy ... and their derangement is a classic symptom of Ætherside Syndrome... Why would they do that to themselves? Why do they get sick on purpose? With the very thing we're fighting so hard to stop? What? Was I being too serious? No, it's that... Ugh. It's making me so angry! Super angry!",
+    "zh-TW": "管理員，我很不理解，為什麼那些裂地者會主動去接觸超域能量……他們的癲狂……正是超域症候群的一種典型症狀……為什麼要把自己變成那種樣子？為什麼要故意染上我們拼命對抗的怪病？嗯？不像是我說的話？不、不是啦，我只是很生氣，真的很生氣！",
+    "zh-CN": "管理员，我很不理解，为什么那些裂地者会主动去接触超域能量……他们的癫狂……正是超域综合征的一种典型症状……为什么要把自己变成那种样子？为什么要故意染上我们拼命对抗的怪病？嗯？不像是我说的话？不、不是啦，我只是很生气，真的很生气！",
+    "ja": "管理人さん、質問ですっ！どうしてランドブレーカーは超域エネルギーに触れようとするのでしょうか？……ああやっておかしくなるのは……超域症候群の典型的な症状で……どうして自分から進んで、わたしたちが必死に戦ってる難病にかかろうとするのでしょうか？えっ、わたしらしくない？ほわっ、そうじゃなくて……怒ってるだけです。ほんと～です！",
+    "ko": "난 정말 이해가 안 돼. 랜드브레이커들은 왜 초자연 에너지를 집어삼키려고 안달인 걸까? 그렇게 미쳐 날뛰는 것도 초자연 증후군의 전형적인 증상 중 하나인데... 왜 스스로 그런 짓을 하는 걸까? 우린 이 끔찍한 병이랑 싸우려고 그렇게 애를 쓰는데, 도대체 왜 자기 몸을 그렇게 망가뜨리는 거냐고. 응? 나답지 않은 말이라고? 그, 그게 아니라 너무 화가 나서 그래! 진짜로!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_about_line05",
+   "title": {
+    "en": "Topic: Exotic Dried Fin!",
+    "zh-TW": "話題：怪味鱗乾！",
+    "zh-CN": "话题：怪味鳞干！",
+    "ja": "変味干し鱗獣について",
+    "ko": "말린 린수에 관하여"
+   },
+   "text": {
+    "en": "Exotic dried fin, yummy, yummy... Sweet ... spicy ... sour... E-Endmin? I ... I'm totally asleep right now, just so you know. Zzz... \"Exotic dried fin! YUM-YUM!\"",
+    "zh-TW": "怪味鱗乾，好吃……甜甜的……辣辣的……酸酸的……管、管理員？我、我睡著了喔……呼……「怪味鱗乾，好吃！」",
+    "zh-CN": "怪味鳞干，好吃……甜甜的……辣辣的……酸酸的……管、管理员？我、我睡着了哦……呼……“怪味鳞干，好吃！”",
+    "ja": "変味干し鱗獣、最高だぜ～……甘くて……辛くて……酸っぱくて……か、管理人さん？ね、寝ちゃってたのです！……すう……「変味干し鱗獣、最高だぜ！」",
+    "ko": "말린 린수는 진짜 맛있어! 달달하고... 매콤하고... 새콤하고... 과, 관리자? 나... 지금 자는 중이야... 쿨... 쿨... '말린 린수, 맛있어!'"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Oh! There's something shiny over there! Please tell me it's a treat!",
+    "zh-TW": "噢！那裡好像有好東西！會是好吃的嗎？！",
+    "zh-CN": "噢！那里好像有好东西！会是好吃的吗？！",
+    "ja": "あっ！発見です！おいしい食べ物かもですよ！",
+    "ko": "앗! 저기 좋은 게 있어! 먹을 수 있는 건가?!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Ooh, look here! Heheh, what do you think we'll find inside?",
+    "zh-TW": "看看我發現了什麼！嘿嘿，裡面會有些什麼寶貝呢？",
+    "zh-CN": "看看我发现了什么！嘿嘿，里面会有些什么宝贝呢？",
+    "ja": "こっち～！ふへへ、どんな宝物が入ってるんでしょうね？",
+    "ko": "이것 좀 봐! 내가 뭘 발견했게? 헤헤, 여긴 어떤 보물이 있을까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Hmm? Is something sparkling over there?",
+    "zh-TW": "嗯？那裡是不是在發著光？",
+    "zh-CN": "嗯？那里是不是在发着光？",
+    "ja": "あれっ！なんだか光ってますね……",
+    "ko": "음? 저기 뭔가 반짝이는 것 같지 않아?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Eek, that one looks super mean... But I'll keep everyone safe!",
+    "zh-TW": "欸，那邊的敵人好像很厲害……但我肯定能保護大家！",
+    "zh-CN": "欸，那边的敌人好像很厉害……但我肯定能保护大家！",
+    "ja": "ふむう、強そうな敵さんですね……わたしがみなさんを守りますよ！",
+    "ko": "앗, 저기 나쁜 녀석들... 엄청 세 보이는데? 하지만 내가 모두를 지켜줄 거니까, 걱정하지 마!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "My plushie suit is tougher than it looks!",
+    "zh-TW": "我的玩偶外殼可不只是看起來可愛！",
+    "zh-CN": "我的玩偶外壳可不只是看着可爱！",
+    "ja": "着ぐるみは、見た目がかわい～だけではないのです！",
+    "ko": "내 인형 탈이 귀엽기만 한 건 아니라고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Let me help! My suit's got infinite pow ... power... \"See ya!\"",
+    "zh-TW": "我來幫忙啦！我的外殼可是有用不完的……用不完的力氣……「再見！」",
+    "zh-CN": "我来帮忙啦！我的外壳可是有用不完的……用不完的力气……“再见！”",
+    "ja": "お手伝い～！この着ぐるみには、秘められた……力が……「バイバーイ！」",
+    "ko": "내가 도와줄게! 내 인형 탈은, 힘을 써도 써도, 끝이... 끝이 없거든... '잘 가!'"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Ooh, what a find...! There might be snacks in this.",
+    "zh-TW": "哇，好多寶貝……找找有沒有好吃的。",
+    "zh-CN": "哇，好多宝贝……找找有没有好吃的。",
+    "ja": "ほわ～！宝物いっぱ～い！おいしいものがないか探します！",
+    "ko": "와, 보물이 엄청 많아. 근데 먹을 건 없나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "I've read about Aurylenes from \"Environmental Science of Talos-II\"... Aww, look at it — so sparkly and pretty! Just like in the pictures, heheh.",
+    "zh-TW": "《塔衛二環境學》裡有關於醚質的描述……嗯……真好看！和書上畫的一樣，嘿嘿。",
+    "zh-CN": "《塔卫二环境学》里有关于醚质的描述……嗯……真好看！和书上画的一样，嘿嘿。",
+    "ja": "『タロⅡ環境学』にオーリレンについて記述がありましたっ……ほわあ……きれいです！教科書の絵と同じです、えへへ。",
+    "ko": "<탈로스 II 환경학>에 오리렌에 대한 설명이 있었는데... 와, 책에서 보던 거랑 똑같아. 진짜 예쁘다! 헤헤."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "There... Both people and burdenbeasts are now safe.",
+    "zh-TW": "這樣，周圍的人們還有馱獸就安全啦。",
+    "zh-CN": "这下，周围的人们还有驮兽就安全啦。",
+    "ja": "これでみなさんも駄獣さんも安全です！",
+    "ko": "이제 주변 사람들도, 버든비스트들도 안전해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "I've still got energy! In fact, I'm super pumped...",
+    "zh-TW": "我還不累，還有好多力氣……",
+    "zh-CN": "我还不累，还有好多力气……",
+    "ja": "まだ疲れてなかったですっ！まだ力は………",
+    "ko": "나 아직 안 졸려, 아직 이렇게나 힘이..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Take this! Don't drift off!",
+    "zh-TW": "給你！保持清醒！",
+    "zh-CN": "给你！保持清醒！",
+    "ja": "はいっ！シャッキリします！",
+    "ko": "자, 여기! 얼른 정신 차려!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Back to life!",
+    "zh-TW": "我又充滿精力了！",
+    "zh-CN": "我又充满精力了！",
+    "ja": "元気モリモリですねっ！",
+    "ko": "에너지 충전 완료!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Danger! Get behind me now!",
+    "zh-TW": "危險，躲到我身後！",
+    "zh-CN": "危险，躲到我身后！",
+    "ja": "わたしの後ろに隠れてっ！",
+    "ko": "위험해! 내 뒤로 숨어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Hoo... It's starting to feel like a dream...",
+    "zh-TW": "呼，感覺要睡著了……",
+    "zh-CN": "呼，感觉要睡着了……",
+    "ja": "ほわわ、眠くなってきちゃいました……",
+    "ko": "휴... 자꾸 눈이 감겨..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Sorry ... so sleepy...",
+    "zh-TW": "對不起，眼睛……睜不開了……",
+    "zh-CN": "对不起，眼睛……睁不开了……",
+    "ja": "申し訳ないです……目が……ひらかない……",
+    "ko": "미안해... 눈이... 안 떠져..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Amazing! Glad I was awake for that!",
+    "zh-TW": "好帥，還好看到了！",
+    "zh-CN": "好帅，还好看到了！",
+    "ja": "カッコい～！最高～！",
+    "ko": "완전 멋있다! 방금 그거, 못 봤으면 진짜 아쉬울 뻔했어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "We're the dream team!",
+    "zh-TW": "我們真是太厲害了！",
+    "zh-CN": "我们真是太厉害了！",
+    "ja": "わたしたち絶対すごいですよっ！",
+    "ko": "우리 진짜 대단한데?!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Heheh, you're making me blush.",
+    "zh-TW": "嘿嘿，沒那麼好啦。",
+    "zh-CN": "嘿嘿，没那么好啦。",
+    "ja": "ふへへ、そんなそんな～！",
+    "ko": "헤헤, 별거 아냐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "Exotic dried fin's on me!",
+    "zh-TW": "請你們吃怪味鱗乾！",
+    "zh-CN": "请你们吃怪味鳞干！",
+    "ja": "変味干し鱗獣、ごちそうしま～す！",
+    "ko": "끝나면 내가 말린 린수 줄게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Get behind me, guys!",
+    "zh-TW": "大家站在我身後！",
+    "zh-CN": "大家站在我身后！",
+    "ja": "みなさん、わたしの後ろに～！",
+    "ko": "다들 내 뒤로 피해 있어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "No one's getting a scratch on my watch!",
+    "zh-TW": "我不會讓你們受傷的！",
+    "zh-CN": "我不会让你们受伤的！",
+    "ja": "みなさんにケガはさせません！",
+    "ko": "내가 있는 한, 아무도 못 건드려!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Is everyone safe and sound?",
+    "zh-TW": "大家都沒受傷吧？",
+    "zh-CN": "大家都没受伤吧。",
+    "ja": "ケガはありませんかっ？",
+    "ko": "다들 다친 데는 없지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "Don't mess with this brand ambassador... \"YUM-YUM!\"",
+    "zh-TW": "形象代言人也不是好惹的……「好吃！」",
+    "zh-CN": "形象代言人也不是好惹的……“好吃！”",
+    "ja": "アンバサダーだからって、甘く見てたらイテテッです……「最高だぜ！」",
+    "ko": "홍보대사를 우습게 보면 곤란하지... '맛있어!'"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "*Hoo* ... nice work, everyone! Now snack time!",
+    "zh-TW": "呼……大家辛苦啦，來吃好吃的！",
+    "zh-CN": "呼……大家辛苦啦，来吃好吃的！",
+    "ja": "ほふう……みなさん、お疲れさまです。ではおいしいものに、ゴー！",
+    "ko": "휴... 다들 고생했어! 이제 맛있는 거 먹자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "That was tough... Everyone okay? Good, I'll just... \"Exotic dried fin! HAVE SOME!\"",
+    "zh-TW": "還好結束了……大家都還好嗎？沒事就……「怪味鱗乾，嚐嚐！」",
+    "zh-CN": "还好结束了……大家都还好吗？没事就……“怪味鳞干，尝尝！”",
+    "ja": "終わってよかった……みなさん大丈夫でしょうか？無事なら……「変味干し鱗獣、一緒に食べよう？」",
+    "ko": "다행히 끝났네. 다들 다친 데 없지? 그럼 다행... '말린 린수, 먹어봐!'"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "It's on me... I didn't try hard enough to protect everyone. Next time, I... No, I won't let this happen ever again.",
+    "zh-TW": "是我……沒保護好大家……下次……不，不能再有下一次了。",
+    "zh-CN": "是我……没保护好大家……下次……不，不能再有下一次了。",
+    "ja": "わたしが……みなさんを守らなきゃだったのに……次……次なんかありません。",
+    "ko": "다 나 때문이야... 내가 못 지켜줘서... 다음에는... 아니, 다신 이런 일이 있어선 안 돼."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Back off now!",
+    "zh-TW": "走開！",
+    "zh-CN": "走开！",
+    "ja": "あっち行け！",
+    "ko": "비켜!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "You won't pass!",
+    "zh-TW": "別想過去！",
+    "zh-CN": "别想过去！",
+    "ja": "通さないっ！",
+    "ko": "절대 못 지나가!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "I'm totally awake!",
+    "zh-TW": "我還醒著呢！",
+    "zh-CN": "我还醒着呢！",
+    "ja": "起きてま～す！",
+    "ko": "나 아직 깨어있거든!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "YA-HAY! \"Incoming\"",
+    "zh-TW": "呀吼！「衝擊！」",
+    "zh-CN": "呀吼！“冲击！”",
+    "ja": "ほわあああっ！「突撃！」",
+    "ko": "야호! '돌진!'"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Don't you dare!",
+    "zh-TW": "別想幹壞事！",
+    "zh-CN": "别想干坏事！",
+    "ja": "悪い子はお仕置きで～す！",
+    "ko": "나쁜 짓은 안 돼!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Purrchena, ready for action!",
+    "zh-TW": "噗切娜，準備就緒！",
+    "zh-CN": "噗切娜，准备就绪！",
+    "ja": "プチエナ、準備バッチグ～です！",
+    "ko": "푸치나, 준비 완료!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "GO, exotic dried fin!",
+    "zh-TW": "代表怪味鱗乾，出擊！",
+    "zh-CN": "代表怪味鳞干，出击！",
+    "ja": "変味干し鱗獣を代表して、出撃っ！",
+    "ko": "말린 린수의 이름으로, 출격!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Here I come!",
+    "zh-TW": "我來了！",
+    "zh-CN": "我来了！",
+    "ja": "任せてくださ～い！",
+    "ko": "이거 받아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "No one bullies my friends!",
+    "zh-TW": "別欺負我的朋友！",
+    "zh-CN": "别欺负我的朋友！",
+    "ja": "お友だちをいじめるな～！",
+    "ko": "내 친구 괴롭히지 마!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Hasta la vista!",
+    "zh-TW": "結束啦！",
+    "zh-CN": "结束啦！",
+    "ja": "フィニッシュッ！",
+    "ko": "끝이다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "No dozing off!",
+    "zh-TW": "別睡著囉！",
+    "zh-CN": "别睡着咯！",
+    "ja": "寝たらだめですよっ！",
+    "ko": "내 앞에서 졸면 안 되지~"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Haha! Your sorry came LATE!",
+    "zh-TW": "哼哼，道歉也來不及了！",
+    "zh-CN": "哼哼，道歉也来不及了！",
+    "ja": "へへん、謝っても遅いのですっ！",
+    "ko": "사과해도 안 봐줄 거다?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Hmph! Bully! \"See ya!\"",
+    "zh-TW": "呼呼，大壞蛋！「再見！」",
+    "zh-CN": "呼呼，大坏蛋！“再见！”",
+    "ja": "ふひひ、悪党めっ！「バイバーイ！」",
+    "ko": "악당 녀석! '잘 가!'"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0038_purrche_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "You deserve a snack for that!",
+    "zh-TW": "也請你吃好吃的！",
+    "zh-CN": "也请你吃好吃的！",
+    "ja": "おいし～もの、どうぞですっ！",
+    "ko": "맛있는 거 사줄게!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [],
+ "skipped": 0
+}

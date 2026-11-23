@@ -45,6 +45,8 @@ sources:
 
 Xaihi is a Sessionite from Laterano's Cabal of Tranquility who joined Endfield Industries on the Abbess's recommendation and now handles information engineering aboard Dijiang.
 
+Files, voice lines and chats: [Xaihi's file](/story/xaihi/).
+
 ## How to obtain
 
 Xaihi has no rate-up banner. Xaihi is in the standard roster, which Basic Headhunting and every Chartered Headhunting pool draw from.

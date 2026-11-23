@@ -1,0 +1,3635 @@
+{
+ "slug": "liino",
+ "gameId": "chr_0035_liino",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Liino \nGENDER: Female \nAUTHENTICATION: Talos-II General Chamber of Commerce (TGCC) \nDOB: July 27 \nRACE: Sarkaz \n[ORIPATHY INFECTION STATUS] \nOripathy positive, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Normal \nCOMBAT SKILL: Normal \nTACTICAL ACUMEN: Standard \nORIGINIUM ARTS ASSIMILATION: Excellent \n\nAlthough Liino isn't concerned about it, given her status as an idol, we strongly recommend tighter security for the relevant files to prevent any unintended issues. \n— HR Division",
+    "zh-TW": "【代號】梨諾\n【性別】女\n【身分認證】環塔商會\n【生日】7月27日\n【種族】薩卡茲\n【礦石病感染情況】\n參照醫學檢測報告，確認為感染者。\n\n【綜合體檢測試】\n生理強度：普通\n作戰技巧：普通\n戰術規劃：標準\n源石技藝適應性：優良\n\n儘管梨諾對此並不介意，但鑑於其本人作為偶像的知名程度，我們強烈建議加強相關檔案的保密工作，以便降低某些意外狀況發生的可能性。\n——人事部幹員",
+    "zh-CN": "【代号】梨诺\n【性别】女\n【身份认证】环塔商会\n【生日】7月27日\n【种族】萨卡兹\n【矿石病感染情况】\n参照医学检测报告，确认为感染者。\n\n【综合体检测试】\n生理强度：普通\n作战技巧：普通\n战术规划：标准\n源石技艺适应性：优良\n\n尽管梨诺对此并不介意，但鉴于其本人作为偶像的知名程度，我们强烈建议加强相关档案的保密工作，以便降低某些意外状况发生的可能性。\n——人事部干员",
+    "ja": "【コードネーム】リーノ\n【性別】女\n【身分証明】環タロ商会\n【誕生日】7月27日\n【種族】サルカズ\n【鉱石病感染状況】\nメディカルチェックの結果、感染者に認定。\n\n【能力測定】\n物理強度：普通\n戦闘技術：標準\n戦術立案：標準\nアーツ適性：優秀\n\n本人は特段の懸念を示していないものの、その知名度を考慮し、不測の事態が生じるリスクを低減するため、関連プロファイルの機密性を強化することを強く推奨します。\n――人事部オペレーター",
+    "ko": "[코드네임] 리노\n[성별] 여\n[신분 인증] 탈로스 II 상업연합회\n[생일] 7월 27일\n[종족] 살카즈\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 보통\n작전 기술: 보통\n전술 계획: 표준\n오리지늄 아츠 적응성: 우수\n\n리노 본인은 크게 신경 쓰지 않는 듯하지만, 그녀가 아이돌로서 지닌 인지도를 고려할 때, 관련 파일의 보안 수준을 강화할 것을 강력히 권장함. 예기치 못한 상황이 발생할 가능성을 낮추기 위함임.\n- 인사 부서 오퍼레이터"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Liino is a rising star in the Civilization Band's pop culture scene, widely known as the \"Morning Star of La Fantoma\". She joined Endfield Industries for personal reasons and currently handles parts of its external communications and public outreach efforts. \n\nDespite her popularity in the entertainment industry, Operator Liino is far more approachable than most people would expect from an idol. She has occasionally played up a softer, more delicate image when interacting with Engineering Division operators to secure personal favors, including access to certain areas aboard Dijiang. Following several friendly reminders from Supervisor Perlica, such behavior has become far less common. \nOne thing worth noting is that Liino rarely talks about her family. According to the files she submitted, her parents passed away in an accident when she was eight, and she was the only survivor. \nAs for her mother, who was also a Djall, Mr. Fleming, the \"Bridge Builder\", confirmed in a brief exchange that she, too, was from Seš'qa. However, she left her family shortly after coming of age and has not been heard from since. \nRegarding the \"little trouble\" (as she put it) caused by the \"Djall rumors\", Mr. Fleming took the opportunity to negotiate a partnership with Liino. The exact details of their agreement remain unknown. However, her later shift toward more daring stage performances, along with the gradual fading of the rumors, suggests the outcome was positive for everyone involved. \nLooking ahead, it remains difficult to predict how Operator Liino intends to grow her stage career. But as she likes to say herself: \n\"Ask me about the future later! I've got, like, dozens of concerts to shine through first!\" \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員梨諾，文明環帶流行文化圈當下風頭正盛的新銳偶像，被稱為「菈梵朵瑪的晨星」。因私人原因加入終末地工業，目前負責終末地的部分對外交流與宣傳工作。\n\n作為一位具備較高人氣的演藝界人士，幹員梨諾顯然比大多數人想像中的偶像藝人要易於相處得多。儘管她偶爾也會為了達成一些個人目的（如爭取帝江號部分區域的使用許可），刻意以相對柔弱的姿態與一些工程中心的幹員進行交流，但經過佩麗卡監督的友善提醒後，此類情況已大幅減少。\n需要注意的是，雖然梨諾並不樂於談及她的家庭情況，但從她提交的檔案中我們得知，她的父母早在她8歲時便在一次意外中不幸去世，她本人則是那次意外中唯一的倖存者。\n而關於她那位同為笞心魔的母親——在與「築橋者」弗萊明先生進行簡短溝通後，可以確定她一樣出身塞什卡，但在成年後不久便主動脫離了家族，此後杳無音信。\n而鑑於「笞心魔傳聞」給梨諾帶來的「一點小麻煩（本人描述）」，弗萊明先生也藉此契機和她洽談了合作事宜。關於他們最終究竟達成了怎樣的共識，我們不得而知。只是從梨諾此後更為大膽的演出風格轉變與「笞心魔傳聞」被逐漸淡化的跡象來看，想必當時的結論應該讓雙方都十分滿意。\n儘管如此，我們依然無法判斷幹員梨諾在未來還想以怎樣的方式繼續擴張她的演出事業，但或許就像她本人所說的那樣——\n「以後的事？嗯哼，還是等我把剩下的幾十場巡迴演唱會全開完了再說吧！」\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员梨诺，文明环带流行文化圈当前风头正盛的新锐偶像，被称为“菈梵朵玛的晨星”。因私人原因加入终末地工业，目前负责终末地的部分对外交流与宣传工作。\n\n作为一位具备较高人气的演艺界人士，干员梨诺显然比大多数人想象中的偶像艺人要易于相处得多。尽管她偶尔也会为了达成一些个人目的（如争取帝江号部分区域的使用许可），刻意以相对柔弱的姿态与一些工程中心的干员进行交流，但经过佩丽卡监督的友善提醒后，此类情况已大幅减少。\n需要注意的是，虽然梨诺并不乐于谈及她的家庭情况，但经由她提交的档案我们得知，她的父母早在她8岁时便在一次意外中不幸去世，她本人则是那次意外中唯一的幸存者。\n而关于她那位同为笞心魔的母亲——在与“筑桥者”弗莱明先生进行简短沟通后，可以确定她一样出身塞什卡，但在成年后不久便主动脱离了家族，此后杳无音信。\n而鉴于“笞心魔传闻”给梨诺带来的“一点小麻烦（本人描述）”，弗莱明先生也借此契机和她洽谈了合作事宜。关于他们最终究竟达成了怎样的共识，我们不得而知。只是从梨诺此后更为大胆的演出风格转变与“笞心魔传闻”被逐渐淡化的迹象来看，想必当时的结论应该让双方都十分满意。\n尽管如此，我们依然无法判断干员梨诺在未来还想以怎样的方式继续扩张她的演出事业，但或许就像她本人所说的那样——\n“以后的事？嗯哼，还是等我把剩下的几十场巡回演唱会全开完了再说吧！”\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "リーノは文明地帯のポップカルチャー圏で最も勢いのある新進気鋭のアイドルであり、「ラヴァンドマの綺羅星」と称される。個人的な理由によりエンドフィールドに加入した。現在は対外交流と広報業務の一部を担当している。\n\n「リーノさんは高い人気を誇る芸能人でありながら、人々が思い描くアイドル像よりもずっと親しみやすい人物です。もっとも、私的な目的（たとえば帝江号の一部区画の使用許可を取りつけるなど）のために、頼りなげな様子をエンジニア部のオペレーターに見せることもありましたが、ペリカ監察官からやんわりと注意を受けて以来、そうした態度を取ることはほぼなくなりました。」\n「留意すべき点として、リーノさんは自身の家庭の事情を語ることを好みません。彼女が提出した記録によると、両親は彼女が8歳の頃に事故で亡くなり、彼女だけが生き残ったそうです。」\n「同じくジャールである彼女の母親については――『架橋者』フレミング氏との短いやり取りを経て、セシュカの出身ではあるものの、成人して間もなく自ら一族を離れ、その後は消息を絶っていたことを確認しました。」\n「そして『ジャールの噂』がリーノさんにもたらした『ちょっとめんどくさい話（本人談）』を踏まえ、フレミング氏も彼女と協力について話し合うことになりました。最終的にどのような合意に至ったのか、我々には知る由もありませんが……ただその後、リーノさんのライブ演出が一段と大胆さを増したことと、『ジャールの噂』が次第に立ち消えていったことから、双方にとって満足のいく結論にたどり着いたのでしょう。」\n「とはいえ、リーノさんが今後、どのような形でアイドル活動を続けていくのかは、まだわかっていません。ですが、おそらくは本人の言葉通りかと――」\n『これからのこと？ふふんっ、残ってる数十カ所のライブツアー、全部やり切ってから考えようかな～って！』\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 리노, 문명 밴드 대중문화계에서 현재 가장 주목받는 신예 아이돌. '라반도르마의 샛별'이라 불린다. 개인적인 사유로 엔드필드 공업에 합류했으며, 현재는 엔드필드의 일부 대외 교류 및 홍보 업무를 담당하고 있다.\n\n상당한 인기를 지닌 연예계 인사임에도, 오퍼레이터 리노는 대다수 사람이 상상하는 아이돌보다 훨씬 편하게 대할 수 있는 인물이다. 물론 그녀가 개인적인 목적(예를 들어 제강호 일부 구역의 사용 허가를 얻어 내기 위함) 때문에, 다소 가녀린 태도로 공학 센터의 일부 오퍼레이터들과 대화하는 경우도 가끔 있었다. 다만 펠리카 감독관님의 친절한 조언 이후, 이러한 상황은 크게 줄어들었다.\n주의할 점은, 리노 씨가 자신의 가족사에 대해 이야기하는 것을 그다지 달가워하지 않는다는 것이다. 그러나 그녀가 제출한 파일에 따르면, 그녀의 부모는 리노가 여덟 살이었을 때 사고로 세상을 떠났고, 리노 본인은 그 사고의 유일한 생존자였다.\n또한 그녀와 같은 디얄이었던 어머니에 관해서는, '교량 건설자' 플레밍 씨와 짧게 이야기를 나눈 결과, 그녀 역시 세쉬카 출신이었으나 성인이 된 지 얼마 지나지 않아 스스로 가문을 떠났고, 이후 행방이 묘연해졌다는 사실을 확인할 수 있었다.\n그리고 '디얄 소문'이 리노 씨에게 가져온 약간의 작은 곤란함(본인 표현)을 계기로, 플레밍 씨는 그녀와 협력에 관한 이야기도 나누었다. 두 사람이 최종적으로 어떤 합의에 이르렀는지는 알 수 없다. 다만 이후 리노 씨의 무대 스타일이 한층 대담하게 변화하고, '디얄 소문'이 점차 희미해지는 조짐을 보인 것을 보면, 당시의 결론은 양측 모두에게 꽤 만족스러운 것이었으리라 짐작된다.\n그럼에도 불구하고, 오퍼레이터 리노가 앞으로 어떤 방식으로 자신의 공연 활동을 더 확장해 나가려 하는지는 아직 판단하기 어렵다. 어쩌면 그녀 본인이 말한 것처럼...\n\"앞으로의 일요? 음, 남은 순회 콘서트 수십 회를 전부 끝내고 나서 생각해 볼게요!\"\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Even after joining Endfield, Miss Liino remains largely focused on her performance schedule. Still, she handles every assignment from the Endministrator, from routine duties to assisting intelligence operators with evaluating potential partners, with remarkable enthusiasm and professionalism, always producing excellent results. \nMedical staff have frequently pointed out that Miss Liino's eating and sleeping habits are significantly more erratic than those of most operators, with sharp changes that closely follow the intensity of her schedule. Over time, those who have worked with her have come to see that she is deeply perfectionistic in nature, applying the same standards to all tasks she accepts as she does to her performances. Even minor imperfections are difficult for her to accept, and she will relentlessly refine her work until it matches her vision. \nEvery now and then, the Medical Division sends someone to check on Miss Liino. Once the Endministrator talks her into it, she'll usually play along — for a little while, at least. \n\nBy Talos... She's been at that proposal for almost 30 hours now! Do Djall not sleep or something? \n— An anonymous operator who once worked with Liino \n\nBedtime? Mealtime? Hmm ... the only time that matters is showtime! I've got a dream stage to build! \n— Liino",
+    "zh-TW": "加入終末地後，梨諾小姐仍舊將大部分時間與精力投在了她本人的演出計劃中，但即便如此，對於所有經管理員轉交給她的工作（包括協同情報辦公室的幹員完成部分合作方的考察等等），她依然秉持了極強的熱情與專業度，完成得非常出色。\n但醫療部幹員也曾多次反應，梨諾小姐在飲食與作息方面的不規律程度已經遠遠超出普通幹員的最高限度，並且常常因其行程安排密度而發生極大波動。與她有過工作接觸的幹員逐漸意識到，梨諾小姐無論在舞台演出的實際效果上，還是在已承接工作的完成情況上，都有著過於完美主義的一面，以至於很難接受細節上的瑕疵。為了達成她心中理想的效果或是結局，她很樂於不停地精益求精，直至自己滿意為止。\n作為代價，醫療部每隔一段時間都會委派專員評估梨諾小姐近期的生活規律程度，然後在管理員的勸說下，獲得她短期內的配合。\n\n天啊……從她開始改那份企劃書到現在已經快30個小時了！難道笞心魔能不睡覺嗎？\n——某位曾與梨諾合作過的匿名幹員\n\n準時睡覺？按時吃飯？哎呀，這些事比起我想追求的理想舞台……根本不值一提啦！\n——梨諾",
+    "zh-CN": "加入终末地后，梨诺小姐仍旧将大部分时间与精力投在了她本人的演出计划中，但即便如此，对于所有经管理员转交给她的工作（包括协同情报办公室的干员完成部分合作方的考察等等），她依然秉持了极强的热情与专业度，完成得十分出色。\n但医疗部干员也曾多次反馈，梨诺小姐在饮食与作息方面的不规律程度已经远远超出普通干员的最高水平，并且常常因其行程安排密度而发生极大波动。与她有过工作接触的干员逐渐意识到，梨诺小姐无论在舞台演出的实际效果上，还是在已承接工作的完成情况上，都有着过于完美主义的一面，以至于很难接受细节上的瑕疵。为了达成她心中理想的效果或是结局，她十分乐于不厌其烦地精益求精，直至自己满意为止。\n作为代价，医疗部每隔一段时间都会委派专员对梨诺小姐近期的生活规律程度进行评估，然后在管理员的劝说下，获得她短期内的配合。\n\n天啊……从她开始改那份企划书到现在已经快30个小时了！难道笞心魔能不睡觉吗？\n——某位曾与梨诺合作过的匿名干员\n\n准点睡觉？按时吃饭？哎呀，这些事相比我想追求的理想舞台……根本不值一提啦！\n——梨诺",
+    "ja": "エンドフィールドに加入してからも、リーノさんは依然として大半の時間と労力を自身のライブ計画に注いでいた。それでも、管理人を通じて彼女に任された仕事のすべて（情報部のオペレーターと連携し、一部の協力先に関する調査を行うことを含む）に対して、彼女はきわめて高い情熱とプロ意識をもって取り組み、非常に優れた成果を上げた。\nしかし、医療部のオペレーターからは「リーノさんは食事や生活リズムが一般のオペレーターよりもはるかに不規則なうえ、過密なスケジュールによって大きく変動することが多い」と何度も報告が寄せられている。彼女と仕事で関わったオペレーターたちは、次第に気づいていった。リーノさんはステージの出来栄えにおいても、引き受けた仕事の完成度においても、過剰なまでの完璧主義という一面を持ち、細部の粗さをなかなか受け入れられないのだと。彼女は、心に描いた理想の演出やフィナーレを実現するためなら、労を惜しまず、自分が満足するまで磨き上げることを心から楽しんでいるのである。\nその代償として、医療部による定期的な評価を受けることになっており、一定期間ごとに派遣される専門スタッフが、彼女の直近の生活リズムがどの程度規則的かを確認している。その後、管理人に説得される形で、短期間に限り彼女は協力に応じている。\n\nうわ……あの企画書をいじり始めてからもう30時間近く経つよ。ジャールってもしかして寝なくても平気なの？\n――かつてリーノと仕事をした、とある匿名のオペレーター\n\nちゃんと食事してちゃんと寝る？う～ん、そんなのリーノが目指してる100点のステージに比べたら……全然大したことじゃないよね？\n――リーノ",
+    "ko": "엔드필드에 합류한 뒤에도 리노 씨는 여전히 대부분의 시간과 에너지를 자신의 공연 계획에 쏟고 있다. 그럼에도 관리자님을 통해 전달받은 모든 업무(예를 들어 정보실 오퍼레이터와 협력해 일부 협력사의 시찰을 수행하는 일 등)에 대해서도, 그녀는 매우 높은 열정과 전문성을 보였고 훌륭하게 완수했다.\n다만 의료부 오퍼레이터들의 수차례 보고에 따르면, 리노 씨의 식사와 수면 패턴은 이미 일반 오퍼레이터의 불규칙한 생활 수준을 훨씬 넘어섰으며, 빽빽한 일정에 따라 극심한 기복을 보인다고 한다. 그녀와 함께 일해 본 오퍼레이터들은 점차 깨닫게 되었다. 리노 씨는 무대 위 실제 연출 효과든, 이미 맡은 업무의 완성도든, 지나칠 정도로 완벽을 추구하는 면이 있다. 세부적인 흠결을 좀처럼 받아들이지 못하는 것이다. 자신이 생각하는 이상적인 효과나 결말을 위해서라면, 그녀는 만족할 때까지 조금도 귀찮아하지 않고 계속 다듬고 또 다듬는다.\n이에 따라, 의료 부서는 일정 주기마다 전담 인원을 보내 리노 씨의 최근 생활 리듬을 평가하고 있다. 이후 관리자님의 설득을 거치면, 그녀도 단기간이나마 협조해 주곤 한다.\n\n세상에... 그 기획서를 고치기 시작한 지 벌써 30시간이나 지났잖아! 디얄은 잠을 안 자도 되는 거야?\n- 리노와 협력한 적 있는 어느 익명 오퍼레이터\n\n제때 자고, 제때 밥 먹기요? 아유, 그런 건 제가 꿈꾸는 이상적인 무대에 비하면... 정말 아무것도 아니죠!\n- 리노"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "I've never really trusted my memory, and I don't keep a diary. \nBut when I got back to my place at the Asphalt Roundabout and took out that album with Miss Liino's signature on it, all the happy memories from that day came rushing back. I just had to write this down. \n\nI've never been to La Fantoma before this fan meeting. Even though I booked my hotel a month in advance, I still got lost. Thankfully, a kind Feline helped me find my way. A lot of the guests there were probably fans like me. The front desk noticed my Liino plushie on my bag, told me the fastest route to the venue, and even suggested a nearby café. \n\"It's the one Miss Liino mentioned in her interview! You might wanna try their signature drink.\" \nThe next day, when I arrived at the venue, almost everyone was holding a cup of that café's signature drink. I had already bought one too, so I just quietly blended in. No one knew I had never actually watched a single Liino interview. \nEveryone around me looked so young and so clearly devoted. Compared to them, I really was just an ordinary fan. I only heard a few of Miss Liino's songs and liked her right away. Honestly, I never really cared about idols before her, and I had never been to a fan meeting before this. Everything about that day felt strange ... a little mysterious, and exciting in a way I can't really explain. \nWhen Miss Liino took the gift I nervously held out to her, said my name so warmly, and gently squeezed my hand, she said: \n\"Twinkle-twinkle! I remember you! At the Asphalt Roundabout bus station, you helped Liino get her travel pass, didn't you?\" \nI just nodded, speechless. Every line I'd practiced vanished. In the end, I just blurted a clumsy thank-you — \n\"Thank you... I'm glad I could help...\" \nI also wanted to tell her how much I loved that song she made up on the spot that day. But I couldn't get the words out. \nYet somehow, she seemed to hear them anyway. She picked up the thread so naturally. \n\"You still remember that song? It's gonna be in my next album! If you like it so much, you should come to Liino's concert next month. Liino will sing the full version live!\" \nThen she placed the already-signed album into my hands, smiled, and said: \n\"I hope I'll see you there, Evelyn!\" \n\nLooking back, everything felt like a dream. \nI think I finally understand how those super passionate fans feel. When you're looking at someone that shines that brightly, it's impossible not to think ... \"I wish I could see her again.\" \nI really, really hope I'll get to see Liino again someday. La Fantoma, New Wrankwood, Simonch, or even somewhere way farther away, I'd go without hesitation. \nI really would. \n\n— \"A Fan Meeting I'll Never Forget\" by a Bus Station Clerk Who Traveled Alone to Valley IV for Liino",
+    "zh-TW": "我一向對自己的記憶力缺乏自信，也沒有寫日記的習慣。\n只是，當我回到自己在艾什柏環島的住所，從行李箱裡拿出那張梨諾小姐親筆簽名的專輯，還是回想起了見面會那天的美好時光，於是忍不住拿起筆寫下了這篇紀錄。\n\n在這場見面會之前，我並沒去過菈梵朵瑪。這次雖然提前一個月就訂好了飯店，仍然花了不少時間才在導航與一位好心菲林的幫助下，找到了飯店大門。最近大概有很多客人都是像我這樣的粉絲，接待我的櫃台小姐一眼就認出了我背包上的梨諾玩偶，輕車熟路地告訴了我前往見面會的最佳路線，還非常熱情地推薦了一家會場附近的咖啡店——\n「就是梨諾小姐在訪談裡稱讚的那家喔，可以試試他們最經典的那款。」\n等到第二天進場的時候，幾乎每個人手裡都拿了一杯那家店的經典款，而我也早早買了一杯，安靜且毫不突兀地混進了這些同好之中，絲毫沒有暴露我其實從來沒看過梨諾小姐訪談的事實。\n是的，跟身邊這些看起來非常年輕的忠實粉絲不同，我僅僅是個聽過幾首歌就喜歡上了梨諾小姐的普通粉絲，在她之前從未對偶像產生過興趣，更沒去過什麼見面會。此時此刻的一切，對我來說都是如此地神秘且新奇。\n所以，當梨諾小姐接過我誠惶誠恐遞過去的禮物，非常親切地叫出我的名字，握著我的手說道：\n「Twinkle-twinkle！我記得你！在瀝青環島的車站，是你幫梨諾辦好了通行證，對不對？」\n我聽了，訥訥地點了點頭，原本想好的話語一句都沒說出口，只是茫然地做出了答謝——\n「謝謝，我很高興能幫到您……」\n更高興能聽到您當時即興唱的那首歌——然而最終我還是沒有把這句心聲講出來。\n但是她彷彿聽到了我心底的聲音，非常自然地接了話。\n「你還記得那首歌嗎？是梨諾下張專輯裡的歌曲哦！要是喜歡的話，可以來聽我下個月的演唱會，梨諾會在現場把完整版唱給大家聽的！」\n說完，她就將不知何時已經簽好的專輯送到了我的手中，笑著再次開口：\n「希望到時候還能見到你，伊芙琳！」\n\n現在回想起來，簡直就像做夢一樣。\n我想我終於理解了那些狂熱粉絲們的心情，在望著一顆那麼閃耀的星星時，真的很難不去想「要是能再看一次就好了」。\n由衷地希望還能與梨諾小姐再次相見——不管是在菈梵朵瑪、新藍卡塢、塞夢珂，還是更遙遠的地方，我一定都會去的。\n一定。\n\n——一位之後為了梨諾孤身前往四號谷地的客運站文書處理員的《記一次見面會》",
+    "zh-CN": "我一向对自己的记忆力缺乏自信，也没有写日记的习惯。\n只是，当我回到自己在艾什柏环岛的住所，从行李箱里拿出那张梨诺小姐亲笔签名的专辑，还是回想起了见面会那天的美好时光，于是忍不住拿起笔写下了这篇记录。\n\n在这场见面会之前，我并没去过菈梵朵玛。这次虽然提前一个月就订好了酒店，仍然花了不少时间才在导航与一位好心菲林的帮助下，找到了酒店大门。最近大概有很多客人都是像我这样的粉丝，接待我的前台小姐一眼认出了我背包上的梨诺玩偶，轻车熟路地告诉了我前往见面会的最佳路线，还十分热情地推荐了一家会场附近的咖啡店——\n“就是梨诺小姐在访谈里称赞的那家哦，可以试试他们最经典的那款。”\n等到第二天进场的时候，几乎每个人手里都拿了一杯那家店的经典款，而我也早早买了一杯，安静且毫不突兀地混进了这些同好之中，丝毫没有暴露我其实从没看过梨诺小姐访谈的事实。\n是的，和身边这些看起来非常年轻的忠实粉丝不同，我仅仅是个听过几首歌就喜欢上了梨诺小姐的普通粉丝，在她之前从未对偶像产生过兴趣，更没去过什么见面会。此时此刻的一切，对我来说都是如此地神秘且新奇。\n所以，当梨诺小姐接过我诚惶诚恐递过去的礼物，非常亲切地喊出我的名字，握着我的手说道：\n“Twinkle-twinkle！我记得你！在沥青环岛的长途汽车站，是你帮梨诺办好了通行证，对不对？”\n我听了，讷讷地点了点头，原本想好的话语一句都没能说出口，只是茫然地做出了答谢——\n“谢谢，我很高兴能帮上您……”\n更高兴能听到您当时即兴唱的那首歌——然而最终我还是没能把这句心声讲出来。\n但她仿佛听见了我心底的声音，非常自然地接了话。\n“你还记得那首歌吗？是梨诺下张专辑里的曲子哦！要是喜欢的话，可以来听我下个月的演唱会，梨诺会在现场把完整版唱给大家听的！”\n说完，她就将不知何时已经签好的专辑送到了我的手中，笑着再次开口：\n“希望到时候还能见到你，伊芙琳！”\n\n现在回想起来，简直就像做梦一样。\n我想我终于理解了那些狂热粉丝们的心情，在望着一颗那么闪耀的星星时，真的很难不去想“要是能再看一次就好了”。\n由衷地希望还能与梨诺小姐再次相见——不管是在菈梵朵玛、新蓝卡坞、塞梦珂，还是更遥远的地方，我肯定都会去的。\n肯定。\n\n——一位之后为了梨诺孤身前往四号谷地的客运站文员的《记一次见面会》",
+    "ja": "私は昔から自分の記憶力に自信がなく、日記をつける習慣もない。\nでも、アスファルトロータリーの自宅に戻り、スーツケースからリーノちゃんの直筆サイン入りアルバムを取り出したとき、あのファンミーティングの素敵なひとときを思い出して、この記録をつけることにした。\n\nこのファンミーティングの前まで、私はラヴァンドマに行ったことがなかった。今回は1カ月も前からホテルを予約しておいたのに、ナビと優しい1人のフェリーンの助けを借りて、なんとかホテルの入口にたどり着くことができた。最近はきっと私のようなファンの客が多いのだと思う。対応してくれたフロントの女性は私のバックパックに付けたリーノちゃんのぬいぐるみを見つけると、慣れた様子でファンミーティング会場までのルートを教えてくれ、さらに会場近くのカフェまで丁寧に勧めてくれた――\n「こちらはリーノさんがインタビューで褒めていたお店なんです。定番メニューを味わってみてくださいね。」\n翌日会場に入ると、みんながその店の定番ドリンクを手にしていた。私も事前に1杯買っておいたので、静かに、そして浮くこともなく人の波に紛れ込むことができた。実は私がインタビューを一度も読んだことがないのは、ここだけの秘密だ。\nそう、周りにいる、見るからに若く熱心なファンたちとは違って、私はリーノちゃんの曲をたった数曲聴いただけで好きになってしまった、いわばライトなファンだ。これまでアイドルに興味を持ったことは一度もなく、ましてやファンミーティングなんて行ったこともなかった。今この瞬間のすべてが本当に不思議に思えたし、目新しくも映った。\nだから、リーノちゃんが、私が恐る恐る差し出したプレゼントを受け取り、友達みたいに私の名前を呼んで、手を握りながらこう言ったとき――\n「キラキラ、トゥインクル！もしかして、アスファルトロータリーのバスターミナルで、リーノの手続きを手伝ってくれた人？」\nとにかく私はぎこちなくうなずくばかりで、用意していたはずの言葉はひとつも口に出せず、やっとのことでお礼を言うことしかできなかった。\n「はい、ありがとうございます。お役に立てて嬉しいです……」\n「あのときリーノちゃんが即興で歌ってくれた曲がずっと心に残っていて、聞けたことが嬉しくて」……結局、私は胸に秘めたこの言葉を、最後まで口にできなかった。\nそれでも彼女は、まるで私の心の奥の声が聞こえたかのように、ごく自然に言葉を続けた。\n「あの歌、覚えてるかな？次のアルバムに入るんだよ～！気に入ったなら、来月のライブに来てくれると嬉しい！フルバージョンで歌うから！」\nそう言うと、いつの間にかサインを済ませていたアルバムを私の手にそっと渡し、笑顔でもう一度口を開いた。\n「そのときに絶対また会おうね、イヴリンちゃん！」\n\n今思い返しても、まるで夢みたいだ。\n私はそのときようやく、あの熱狂的なファンたちの気持ちが分かってしまった。あれほどの光を放つ星を見上げてしまったら、「もう一度見たい……」と思わずにはいられないのだ。\n心から、またリーノちゃんに会いたい。ラヴァンドマであれ、ニューランクウッドであれ、シモンクであれ、もっと遠い場所だったとしても、私は絶対に行く。\n必ずだ。\n\n――のちにリーノのために単身で四号谷地へと向かった、とあるバスターミナル事務員による『ファンミーティングの記録』",
+    "ko": "저는 늘 제 기억력에 자신이 없었고, 일기를 쓰는 습관도 없습니다.\n다만 아스팔트 라운드어바웃의 제 숙소로 돌아와, 여행 가방에서 리노 씨가 직접 사인해 준 앨범을 꺼냈을 때, 팬미팅 날의 행복한 시간이 다시 떠올랐습니다. 그래서 도저히 참지 못하고 펜을 들어 이 기록을 남기게 되었습니다.\n\n이번 팬미팅 전까지, 저는 라반도르마에 가 본 적이 없었습니다. 호텔은 한 달 전부터 예약해 두었지만, 그래도 내비게이션과 어느 친절한 필라인의 도움을 받고서야 한참 만에 호텔 입구를 찾을 수 있었습니다. 요즘 저처럼 팬미팅을 보러 온 손님이 많았던 모양입니다. 저를 맞이한 프런트 직원은 제 가방에 달린 리노 인형을 보자마자 알아보고, 아주 능숙하게 팬미팅 장소로 가는 가장 좋은 길을 알려 주었습니다. 게다가 회장 근처의 카페 하나도 열성적으로 추천해 주었습니다.\n\"리노 씨가 인터뷰에서 칭찬한 바로 그 가게예요. 가장 대표적인 시그니처 메뉴를 한번 드셔 보세요.\"\n다음 날 입장할 때가 되자, 거의 모든 사람이 그 가게의 시그니처 메뉴를 한 잔씩 들고 있었습니다. 저 역시 일찌감치 한 잔을 사 두었고, 아주 자연스럽고 조용하게 같은 팬들 사이에 섞여 들어갔습니다. 사실 저는 리노 씨의 인터뷰를 한 번도 본 적이 없다는 사실은 아무에게도 들키지 않은 채로요.\n그렇습니다. 제 곁에 있던, 한눈에도 아주 젊고 열성적으로 보이는 팬들과 달리, 저는 그저 노래 몇 곡을 듣고 리노 씨를 좋아하게 된 평범한 팬일 뿐이었습니다. 그전까지 아이돌에게 관심을 가진 적도 없었고, 팬미팅이라는 곳에 가 본 적도 없었습니다. 그 순간의 모든 것이 제게는 신비롭고도 새로웠습니다.\n그래서 리노 씨가 제가 떨리는 손으로 건넨 선물을 받아 들고, 아주 다정하게 제 이름을 불러 주며 제 손을 잡고 이렇게 말했을 떄:\n\"트윙클 트윙클! 기억나요! 아스팔트 라운드어바웃 버스 정류장에서, 리노가 통행증 만드는 걸 도와주셨던 분이죠?\"\n저는 그 말을 듣고 그저 멍하니 고개만 끄덕였습니다. 미리 생각해 두었던 말은 단 한마디도 꺼내지 못한 채, 얼떨결에 감사 인사만 했습니다.\n\"감사합니다. 도움이 될 수 있어서 기뻤어요...\"\n그때 즉흥으로 불러 주신 노래를 들을 수 있어서 더 기뻤다고, 사실은 그렇게 말하고 싶었습니다. 하지만 결국 그 속마음은 입 밖으로 꺼내지 못했습니다.\n그런데 그녀는 마치 제 마음속 목소리를 들은 것처럼, 아주 자연스럽게 말을 이어 갔습니다.\n\"그 노래 기억하고 있나요? 리노의 다음 앨범에 들어갈 곡이에요! 마음에 들었다면 다음 달 콘서트에 와 주세요. 리노가 현장에서 완성 버전으로 들려드릴게요!\"\n그 말을 마친 뒤, 그녀는 언제 사인을 마쳤는지도 모를 앨범을 제 손에 건네주었습니다. 그리고 다시 웃으며 말했습니다.\n\"그때도 다시 만날 수 있으면 좋겠어요, 에블린 씨!\"\n\n지금 돌이켜 보면, 정말 꿈만 같습니다.\n저는 이제야 열성 팬들의 마음을 조금은 이해하게 되었습니다. 그렇게 반짝이는 별을 바라보고 있으면, \"다시 한 번만 더 볼 수 있다면 좋겠다\"는 생각을 하지 않기가 정말 어렵습니다.\n진심으로 리노 씨를 다시 만날 수 있기를 바랍니다. 라반도르마든, 뉴 랭크우드든, 사이몬크든, 아니면 그보다 더 먼 곳이든, 저는 분명 갈 것입니다.\n분명히.\n\n- 이후 리노를 위해 홀로 4번 협곡으로 향한 어느 여객 터미널 사무원의 <한 번의 팬미팅에 관한 기록>"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "\"The Mystery Behind Her Sudden Fame: Genuine Public Support or Djall Witchcraft?\" \nA new idol named Liino, from La Fantoma, is taking the scene by storm. She's smashing chart records at a ridiculous pace, and her fanbase has exploded from a few hundred to over ten thousand in no time. \nLiino fever is sweeping the scene. Her debut album, \"Fly Talosian and Go Supersonic\", is already sold out, and tickets to her first La Fantoma concert have become a full-blown sellout nightmare for fans. \nHowever, while compiling this article, I have also come across growing doubts surrounding Liino's meteoric rise to fame — and her so-called \"Djall\" identity now appears to be at the very center of the storm. One informant even told me that his own sister became an obsessive fan of Liino after hearing just a single song, despite having shown no interest in idols beforehand. In recent days, similar stories have been popping up at an alarming rate. Some even speculate she is weaving ancient Djall witchcraft into her music. While the academic world firmly insists there is no evidence for so-called \"recordable witchcraft\", that has done little to stop the rumor mill, and the theory has been regarded by some as relatively credible. \nLiino's rapid rise in popularity may stem from a planned corporate campaign, with Djall witchcraft possibly playing a role in amplifying its effect. If true, her real capabilities may fall short of the phenomenon surrounding her. \nIt is hard not to wonder how the traditional idol industry of Talos II has ended up in such a state, raising deeper questions about the forces behind it. \n— Weekly Art, Issue 143, Star News Column \n\n\"Whispers Behind the Curtain: Pro Doubts Cast on Mega Idol's First-Ever Concert\" \nJust last month, Liino, one of the Civilization Band's fastest-rising idols, held her very first concert on the coast of La Fantoma. \nThe show, themed \"Breaking the Stage\", sought to redefine live entertainment through bold staging choices and physically demanding choreography. \nWhile the concert was a clear success in terms of attendance and sales, professional opinions were divided. Among them, Mr. Louis Henson remarked: \n\"Visually impressive, but somewhat excessive... Her vocal technique still needs work.\" \nSo it appears this rising idol has a long way to go vocally, and her flashy, over-the-top performances can't quite hide that fact. \nHow deeply disappointing. An idol with real ambition and talent, yet held back by such a glaring weakness. What a pity! \nLet this serve as a cautionary example for other emerging idols in the industry: polish your skills! After all, an idol who only caters to fan activities is unlikely to go far. \n— Weekly Art, Issue 151, Star News Column \n\n\"Has Liino Been Misjudged? Rising Idol Speaks Out in Interview\" \nLiino, the acclaimed rising idol, recently sat down for another exclusive interview with the La Fantoma Recording Industry Association. The nearly thirty-minute conversation covered recent controversies and her upcoming performance schedule. \nContrary to expectations, Liino appeared remarkably candid regarding her Djall identity. Rather than attempting to avoid the subject, she openly acknowledged the criticism and stated that she understood why such doubts existed. As for performance style, she stated that she was willing to accept sincere feedback from audiences and continue refining herself as an idol. \nThe interview ultimately left a somewhat more positive impression than expected. Whether Liino can truly live up to her words, however, will require further observation. \nEditor's Note: This article was written before Liino's latest fan event. The opinions expressed above were not influenced in any way by Liino's sincere on-stage thanks toward the Weekly Art editorial department. \n— Weekly Art, Issue 155, Star News Column \n\n\"Liino Drops New Demo 'Starlight Over New Wrankwood — Over a Million Streams Already!\" \nThis Sunday, Liino finally gave fans what they'd been waiting for — the demo of \"Starlight Over New Wrankwood\", the lead single from her upcoming album. \nThis is her first time blending classical music influences with modern pop production, and she's already showing a bold new side to her music. Fans are loving it: \"Miss Liino is amazing! This song is beautiful!\" \nWithin a short time of release, the demo had already surpassed one million streams. If this preview is any indication, even bigger surprises may be waiting when the full album arrives. \n— Weekly Art, Issue 158, Star News Column \n\n\"Morning Star\" Lands at Valley IV — Charity Concert Set to Shine!\" \nLiino, currently one of the most talked-about rising idols of Talos II, is said to be heading to Valley IV. Insider reports suggest she has been invited as a special guest for a charity concert organized by the Brady Mining Group, with plans to deliver a solo performance on site. \nAfter winning over both fans and critics with her previous shows, expectations are sky-high. One thing's for sure — Liino is about to bring something even more dazzling and unforgettable to the stage. \nTicket sales will be announced later this month on Liino's official website. Stay tuned for details. \n— Weekly Art, Issue 160, Star News Column",
+    "zh-TW": "《走紅疑雲！究竟是大眾的集體選擇，還是笞心魔帶來的空洞幻覺？》\n近日，一位來自菈梵朵瑪，名叫「梨諾」的新銳偶像逐漸走進大眾視野。據悉，她目前正以極其誇張的速度刷新各大媒體榜單上的排名，其粉絲團也從最初的數百人急速增長到上萬人。\n該偶像的出道專輯《環塔飛行超音速》目前已被眾人搶購一空，而她即將在菈梵朵瑪舉辦的第一場演唱會如今更是一票難求。\n但與此同時，筆者在整理資料時發現，該偶像「笞心魔」的身分，也讓她的爆紅遭到了大量質疑。有知情人表示，他的姐姐僅僅是聽了一首梨諾的歌後就狂熱地喜歡上了這位偶像，而在這之前他姐姐一直對偶像毫無興趣。類似的指控在最近幾天層出不窮，甚至有人猜測是該偶像在自己的歌聲中施放了某種古老的笞心魔巫術——儘管學界尚缺乏對於這類「可錄製儲存的巫術」的研究證明，但這不失為一種具有較高可信度的猜測。\n因此筆者有理由認為，偶像梨諾的爆紅極有可能只是大集團的營運搭配笞心魔巫術的商業炒作成果，其本身真正的實力與她造成的影響或許並不相稱。\n塔衛二的傳統偶像業界竟會淪落至此，這其中的內幕實在引人深思。\n——《週刊藝術》第143期星聞專欄\n\n《震驚！業內知情人揭秘：某知名偶像首次演唱會遭專業人士質疑！》\n就在上個月，文明環帶如今最出名的新銳偶像梨諾，在菈梵朵瑪的海岸邊完成了她的第一場演唱會。\n據悉，梨諾本次以「顛覆」舞台為主題，力求突破傳統演唱會場地固定、內容固定的框架，在演出過程中加入了大量頗具挑戰性的表演內容。\n根據最終的票務數據，本次演唱會顯然大獲成功，但也有不少知名樂評人未能認可——如路易斯·懷森先生，對她的這次演出給出了如下評價：\n「……似乎太過花哨了，在技巧上還有不少改進空間。」\n由此看來，這位新銳偶像在演唱技巧上似乎還存在較大的不足，她獨具特色但過於花哨的現場表演也難以彌補這一點。\n筆者對此深感痛心，一位有追求且具備一定專業素養的偶像居然會有如此瑕疵，令人惋惜！\n望業內其他新銳偶像能引以為戒，更多地提升自身業務能力，畢竟只專注於粉絲活動的偶像注定無法走得長遠。\n——《週刊藝術》第151期星聞專欄\n\n《恐為誤解？偶像梨諾近日在行業專訪上進行澄清》\n最近，大名鼎鼎的新銳偶像梨諾再度接受了菈梵朵瑪唱片業協會的專訪，訪談中她與記者暢談了近三十分鐘，著重回答了近期的爭議性問題與之後的演出安排。\n其中，對於自身的笞心魔身分，梨諾的態度似乎比想像中更為坦誠，她並未迴避，反而直白地表明了自己對質疑的接納。而針對演出風格的評價，梨諾也表現出相當的包容性，表示願意接受所有觀眾發自內心的建議，並會在此基礎上繼續精進自己的業務能力。\n不得不承認，在觀看了本次專訪後，筆者也對梨諾有了些許改觀，之後或許會進一步對其此後的創作進行一定研究，看她是否有履行她的「諾言」。\n特別聲明：本文撰寫於梨諾最新一次粉絲見面會之前，筆者的觀點並未受梨諾在現場誠摯感謝《週刊藝術》編輯部一事的影響，望知曉。\n——《週刊藝術》第155期星聞專欄\n\n《梨諾首次公布新歌〈新藍卡塢的星光〉Demo，播放次數已破百萬》\n本週日，備受廣大粉絲期待的梨諾小姐終於公布了她下一張專輯的主打曲目——《新藍卡塢的星光》的最新歌曲Demo。\n據悉，這是梨諾將傳統古典音樂旋律與當代流行音樂編曲進行融合的首次嘗試，她又一次完成了自身風格的突破，不少粉絲紛紛驚嘆：「不愧是梨諾小姐！太好聽了！」\n目前，《新藍卡塢的星光》Demo版本的播放次數已破百萬。而筆者相信，等到正式版本，梨諾還會為大家帶來更多的驚喜。\n——《週刊藝術》第158期星聞專欄\n\n《「晨星」即將降落於四號谷地！慰勉演唱會受萬眾期待！》\n塔衛二當下最熱門的新銳偶像梨諾，似乎正打算前往四號谷地。知情人表示，她將會作為特邀嘉賓，參與由布萊迪礦業集團主導的慰勉演出活動，在當地舉辦一場個人演唱會。\n眾所周知，梨諾在前幾次演唱會中展示的演出風格與音樂素養，都受到了眾多粉絲與專業人士的認可，相信這一次她也會為大家帶來更閃耀、更特別的體驗。\n據悉，售票管道將在本月底於梨諾的個人網站上公開，屆時可前往瞭解詳情。\n——《週刊藝術》第160期星聞專欄",
+    "zh-CN": "《走红疑云！究竟是大众的集体选择，还是笞心魔带来的空洞幻觉？》\n近日，一位来自菈梵朵玛，名叫“梨诺”的新锐偶像逐渐走进大众视野。据悉，她目前正以极其夸张的速度刷新各大传媒榜单上的排名，其粉丝团也从最初的数百人急速增长到上万人。\n该偶像的出道专辑《环塔飞行超音速》目前已因众人抢购而宣告脱销，而她即将在菈梵朵玛举办的第一场演唱会如今更是一票难求。\n但与此同时，笔者在整理资料时发现，该偶像“笞心魔”的身份，也让她的爆火遭到了大量质疑。有知情人表示，他的姐姐仅仅是听了一首梨诺的歌后就狂热地喜欢上了这位偶像，而在这之前他姐姐一直对偶像毫无兴趣。类似的指控在最近几天层出不穷，甚至有人猜测是该偶像在自己的歌声中施放了某种古老的笞心魔巫术——尽管学界尚缺乏对于这类“可录制保存的巫术”的研究证明，但这不失为一种具有较高可信度的猜测。\n因此笔者有理由认为，偶像梨诺的爆火极有可能只是大集团的运营搭配笞心魔巫术的商业炒作成果，其本身真正的实力与她造成的影响或许并不相称。\n塔卫二的传统偶像业界竟会沦落至此，这其中的内幕实在引人深思。\n——《周刊艺术》第143期星闻专栏\n\n《震惊！业内知情人揭秘：某知名偶像首次演唱会遭专业人士质疑！》\n就在上个月，文明环带如今最出名的新锐偶像梨诺，在菈梵朵玛的海岸边完成了她的第一场演唱会。\n据悉，梨诺本次以“颠覆‘舞台’”为主题，力求突破传统演唱会场地固定、内容固定的框架，在演出过程中加入了大量颇具挑战性的表演内容。\n根据最终的票务数据，本次演唱会显然大获成功，但也有不少知名乐评人未能认可——如路易斯·怀森先生，对她的这次演出给出了如下评价：\n“……似乎太过花哨了，在技巧上还有不少改进空间。”\n由此看来，这位新锐偶像在演唱技巧上似乎还存在较大的不足，她独具特色但过于花哨的现场表演也难以弥补这一点。\n笔者对此深感痛心，一位有追求且具备一定专业素养的偶像居然会有如此瑕疵，令人惋惜！\n望业内其他新锐偶像能引以为戒，更多地打磨自身业务水平，毕竟只专注粉丝活动的偶像注定无法走得长远。\n——《周刊艺术》第151期星闻专栏\n\n《恐为误解？偶像梨诺近日在行业专访上进行澄清》\n最近，大名鼎鼎的新锐偶像梨诺再度接受了菈梵朵玛唱片业协会的专访，访谈中她与记者畅谈了近三十分钟，着重回答了近期的争议性问题与之后的演出安排。\n其中，对于自身的笞心魔身份，梨诺的态度似乎比想象中更为坦诚，她并未回避，反而直白地表明了自己对质疑的接纳。而针对演出风格的评价，梨诺也表现出相当的包容，表示愿意接受所有观众发自内心的建议，并会在此基础上继续精进自己的业务能力。\n不得不承认，在观看了本次专访后，笔者也对梨诺有了些许改观，之后或许会进一步对其此后的创作进行一定研究，看她是否有履行她的“诺言”。\n特别声明：本文撰写于梨诺最新一次粉丝见面会之前，笔者的观点并未受梨诺在现场诚挚感谢《周刊艺术》编辑部一事的影响，望周知。\n——《周刊艺术》第155期星闻专栏\n\n《梨诺首次公布新歌〈新蓝卡坞的星光〉小样，播放次数已破百万》\n本周日，备受广大粉丝期待的梨诺小姐终于公布了她下一张专辑的主打曲目——《新蓝卡坞的星光》的最新歌曲小样。\n据悉，这是梨诺将传统古典音乐旋律与当代流行音乐编曲进行融合的首次尝试，她又一次完成了自身风格的突破，不少粉丝纷纷惊叹：“不愧是梨诺小姐！太好听了！”\n目前，《新蓝卡坞的星光》小样版本的播放次数已破百万。而笔者相信，等到正式版本，梨诺还会为大家带来更多的惊喜。\n——《周刊艺术》第158期星闻专栏\n\n《“晨星”即将降落于四号谷地！慰问演唱会受万众期待！》\n塔卫二当下最热门的新锐偶像梨诺，似乎正打算前往四号谷地。知情人表示，她将会作为特邀嘉宾，参与由布莱迪矿业集团牵头的慰问演出活动，在当地举办一场个人演唱会。\n众所周知，梨诺在前几次演唱会中展示的演出风格与音乐素养，都受到了众多粉丝与专业人士的认可，相信这一次她也会为大家带来更闪耀、更特别的体验。\n据悉，售票渠道将在本月底于梨诺的个人网站上公开，届时可前去了解详情。\n——《周刊艺术》第160期星闻专栏",
+    "ja": "《人気急騰の謎！大衆の総意か、それともジャールがもたらす虚ろな幻か？》\n近頃、ラヴァンドマ出身の「リーノ」という新進気鋭のアイドルが、次第に大衆の目に留まるようになってきた。彼女は現在、各種メディアランキングを猛烈な勢いで塗り替えており、ファンクラブも当初の数百人から一万人超へと急速に膨れ上がっているという。\nデビューアルバム『環タロ音速飛行』は完売、まもなくラヴァンドマで開催予定の初ライブも、現在ではチケットの入手が極めて困難な状況となっている。\n一方で、筆者が資料を整理する中で気付いたことがある。リーノの「ジャール」という出自が、彼女の大ブレイクに対して多くの疑念を招いているのだ。ある事情通は「自分の姉がリーノの歌を1曲聴いただけで熱狂的にのめり込んでしまった。それ以前はアイドルにまるで興味がなかったのに」と語っていた。これに似た話は後を絶たず、中にはリーノが自分の歌声の中に、何らかの古いジャールの巫術を仕込んでいるのではないかと推測する者までいる。「録音保存可能な巫術」に関しては、学界において研究上の証明は存在しないとはいえ、それなりに信憑性の高い推測だと言えるだろう。\nしたがって筆者は、アイドル・リーノの大ブレイクは、大手グループの運営手腕とジャールの巫術を組み合わせた、商業的な仕掛けの結果である可能性が非常に高いと考えている。彼女自身の真の実力は、彼女が及ぼした影響とは必ずしも釣り合っていないのではないか、と考えるだけの理由があるのだ。\n伝統あるタロⅡのアイドル業界がここまで落ちぶれてしまうとは。その裏側の事情には、考えさせられるものがある。\n――『週刊アート』第143号 スター情報コラム\n\n《衝撃！業界関係者が暴露――某有名アイドルの初ライブに専門家から疑問の声！》\n先月、文明地帯で今最も勢いのある新人アイドル・リーノが、ラヴァンドマの海辺で初のライブを終えた。\nリーノは今回「ステージの転覆」をテーマに掲げ、会場も内容も固定された従来のライブという枠組みを打ち破ることを目指したという。ライブ中には、挑戦的な演出がふんだんに盛り込まれていた。\n最終的なチケット売上データを見れば、今回のライブが大成功を収めたのは明らかだ。しかし、それを認めることができなかった著名な音楽評論家も少なくない。たとえばルイス・ワイズン氏は、今回のライブについて次のように評している。\n「……いささか派手さに走りすぎているようだ。技術の面ではまだ改善の余地が多い。」\nどうやら、この新人アイドルは歌唱技術の面でまだ大きく不足している点があるようだ。独自性はあるものの、やや華美であるともいえるライブパフォーマンスをもってしても、それを補うのは難しいということだ。\n筆者はこのことに深く心を痛めている。志を持ち、一定の専門的素養も備えたアイドルに、このような難があるとは、惜しんでも余りある。\n業界の他の新人アイドルたちには、ぜひこれを戒めとして、自らのスキルをもっと磨いてもらいたい。ファン向けの活動ばかりに専念するアイドルは、長く生き残れるわけがないのだから。\n――『週刊アート』第151号 スター情報コラム\n\n《誤解？アイドル・リーノ、先日の業界インタビューで釈明》\n最近、名高い新鋭アイドル・リーノが、ラヴァンドマレコード協会のインタビューに再び応じた。対談の中で彼女は記者とおよそ30分にわたって語り合い、近頃物議を醸していた問題と、今後のライブ予定について重点的に答えた。\n中でも、自身のジャールという出自について、リーノは思いのほか率直な態度であった。この問題を避けるどころか、疑問の声を受け入れている姿勢を見せたのである。またライブ演出への評価についても、リーノは相当の度量を見せた。観客の心からの意見はすべて受け入れるつもりであり、それを踏まえて自らのスキルをさらに磨いていきたいと語ったのだ。\n正直、認めざるを得ない。今回のインタビューを見た後で、筆者のリーノに対する見方は少しばかり変わった。今後は彼女の活動について、さらに一定の調査を進め、彼女が「約束」を果たすかどうかを見届けることになるかもしれない。\n特記：本稿はリーノの最新のファンミーティングより前に執筆したものであり、筆者の見解はリーノが会場で『週刊アート』編集部に心からの感謝を述べた件に何ら影響されていないことをあらかじめご承知おき願いたい。\n――『週刊アート』第155号 スター情報コラム\n\n《リーノ、新曲『ニューランクウッドの星明かり』の試聴版を初公開、再生回数は100万回を突破》\n今週日曜、多くのファンが待ち望んでいた次のアルバムの表題曲――『ニューランクウッドの星明かり』の最新試聴版がついに公開された。\nこれは、伝統的なクラシックの旋律と、現代ポップスのアレンジを融合させた、リーノ初の試みだという。彼女はまたしても自身のスタイルの打破を成し遂げたと言えるだろう。実際、多くのファンが「さすがリーノさん！最高だ！」と盛り上がっている。\n現在、『ニューランクウッドの星明かり』の試聴版の再生回数は100万回を突破している。フルバージョンが公開されれば、リーノはより多くの驚きを我々に届けてくれるはずだと筆者は確信している。\n――『週刊アート』第158号 スター情報コラム\n\n《「綺羅星」、まもなく四号谷地に降臨！ライブに大きな期待！》\n今、タロⅡで最も人気のトップアイドル・リーノが、四号谷地を訪れることがわかった。情報筋によれば、彼女は特別ゲストとして、ブレイディ鉱業グループが主催するチャリティーイベントに参加し、現地でソロライブを開催するという。\n周知のとおり、リーノはこれまでのライブで見せてきた演出や歌の実力によって、多くのファンと専門家から認められてきた。今回もきっと、より特別で、よりキラキラな体験を届けてくれるに違いない。\nチケット販売と詳細については今月末に公開される予定とのことだ。興味のある方は、その際に詳細を確認してほしい。\n――『週刊アート』第160号 スター情報コラム",
+    "ko": "<인기 급상승의 의혹! 대중의 집단적 선택인가, 디얄이 만들어 낸 공허한 환상인가?>\n최근 라반도르마 출신의 '리노'라는 신예 아이돌이 대중의 주목을 받기 시작했다. 알려진 바에 따르면, 그녀는 현재 각종 미디어 차트에서 믿기 어려울 만큼 빠른 속도로 순위를 끌어올리고 있으며, 팬클럽 규모 역시 처음의 수백 명에서 순식간에 만 명 이상으로 불어났다.\n해당 아이돌의 데뷔 앨범 <탈로스 초음속 비행>은 현재 구매 열풍으로 인해 전량 매진되었으며, 곧 라반도르마에서 열릴 첫 콘서트 역시 티켓을 구하기 어려운 상황이다.\n하지만 동시에 필자는 자료를 정리하던 중, 해당 아이돌이 '디얄'이라는 사실이 그녀의 폭발적인 인기에 많은 의혹을 불러일으키고 있음을 발견했다. 한 제보자는 자신의 누나가 리노의 노래 한 곡을 들은 뒤 갑자기 이 아이돌에게 열광적으로 빠져들었다고 밝혔다. 그 전까지 그의 누나는 아이돌에 전혀 관심이 없었다고 한다. 최근 며칠 사이 이와 유사한 주장은 끊임없이 제기되고 있다. 심지어 일부는 해당 아이돌이 자신의 노랫소리에 어떤 고대 디얄 주술을 담아 사용한 것이 아니냐고 추측하기도 한다. 물론 학계에는 아직 이러한 '녹음 및 보존이 가능한 주술'에 대한 연구 증거가 부족하지만, 상당한 설득력을 지닌 추측임은 부정하기 어렵다.\n따라서 필자는 아이돌 리노의 폭발적인 인기가 대기업의 운영 전략과 디얄 주술이 결합된 상업적 조작의 결과일 가능성이 매우 높다고 본다. 그녀 본인의 실제 실력과 그녀가 만들어 낸 영향력은 어쩌면 서로 걸맞지 않을지도 모른다.\n탈로스 II의 전통 아이돌 업계가 이 지경에 이르렀다는 사실은, 그 이면에 무엇이 있는지 깊이 생각하게 만든다.\n- <주간 예술> 제143호 스타 뉴스 칼럼\n\n<충격! 업계 관계자 폭로: 유명 아이돌의 첫 콘서트, 전문가의 의문 제기!>\n지난달, 문명 밴드에서 현재 가장 유명한 신예 아이돌 리노가 라반도르마 해안가에서 자신의 첫 콘서트를 마쳤다.\n알려진 바에 따르면, 리노는 이번 공연에서 '무대의 전복'을 주제로 삼았다. 전통적인 콘서트가 가진 고정된 장소와 고정된 구성의 틀을 깨고자 했으며, 공연 도중 상당히 도전적인 퍼포먼스를 대거 선보였다.\n최종 티켓 판매 데이터를 보면, 이번 콘서트가 큰 성공을 거둔 것은 분명하다. 그러나 적지 않은 유명 음악 평론가들은 이를 인정하지 않았다. 예를 들어 루이스 와이슨 씨는 이번 공연에 대해 다음과 같이 평가했다.\n\"...다소 지나치게 화려하다. 기교적인 면에서는 아직 개선의 여지가 적지 않다.\"\n이로 미루어 보면, 이 신예 아이돌은 가창력 면에서 아직 큰 부족함을 지니고 있는 듯하다. 그녀만의 독특하지만 지나치게 화려한 현장 퍼포먼스도 그 점을 완전히 보완하기는 어려워 보인다.\n필자는 이에 깊은 통탄을 금할 수 없다. 나름의 포부가 있고 일정 수준의 전문성도 갖춘 아이돌에게 이런 결점이 있다는 사실은 참으로 안타까운 일이다!\n업계의 다른 신예 아이돌들도 이를 교훈으로 삼아, 자신의 기본 역량을 더 갈고닦기를 바란다. 팬 서비스에만 몰두하는 아이돌은 결국 오래갈 수 없기 때문이다.\n- <주간 예술> 제151호 스타 뉴스 칼럼\n\n<오해였나? 아이돌 리노, 최근 업계 인터뷰에서 직접 해명>\n최근 명성이 자자한 신예 아이돌 리노가 다시 한 번 라반도르마 음반 산업 협회의 인터뷰에 응했다. 인터뷰에서 그녀는 기자와 약 30분 동안 대화를 나누며, 최근 논란이 된 문제들과 향후 공연 계획에 대해 집중적으로 답변했다.\n그중 자신의 디얄 신분에 대해, 리노는 예상보다 훨씬 솔직한 태도를 보였다. 그녀는 이를 회피하지 않았고, 오히려 자신을 향한 의혹을 수용하겠다는 뜻을 분명히 밝혔다. 또한 공연 스타일에 대한 평가에 대해서도 상당히 포용적인 태도를 보이며, 모든 관객이 진심으로 전하는 조언을 받아들이고, 이를 바탕으로 자신의 역량을 계속 발전시켜 나가겠다고 말했다.\n인정하지 않을 수 없다. 이번 인터뷰를 본 뒤, 필자 역시 리노에 대한 생각이 조금 달라졌다. 앞으로 그녀가 자신의 '약속'을 지켜 나가는지, 이후의 창작 활동을 더 지켜볼 생각이다.\n편집자 주: 본 기사는 리노의 최신 팬 미팅 이전에 작성되었으며, 필자의 관점은 현장에서 리노가 <주간 예술> 편집부에 진심 어린 감사를 전한 일의 영향을 받은 것이 아님을 밝힌다.\n- <주간 예술> 제155호 스타 뉴스 칼럼\n\n<리노, 신곡 뉴 랭크우드의 별빛 데모 최초 공개. 재생 수 100만 돌파>\n이번 주 일요일, 수많은 팬이 기다려 온 리노 씨가 마침내 다음 앨범의 타이틀곡, <뉴 랭크우드의 별빛> 최신 데모를 공개했다.\n알려진 바에 따르면, 이는 리노가 전통 클래식 음악의 선율과 현대 대중음악 편곡을 결합한 첫 시도다. 그녀는 다시 한번 자신만의 스타일을 새롭게 확장해 냈고, 많은 팬들은 \"역시 리노 씨! 너무 좋다!\"라며 감탄을 쏟아냈다.\n현재 <뉴 랭크우드의 별빛> 데모 버전의 재생 수는 이미 100만을 돌파했다. 필자는 정식 버전이 공개되면, 리노 씨가 모두에게 더 많은 놀라움을 선사하리라 믿는다.\n- <주간 예술> 제158호 스타 뉴스 칼럼\n<'샛별'이 곧 4번 협곡에 내려온다! 위문 콘서트, 뜨거운 기대 속 개최 예정!>\n\n탈로스 II에서 현재 가장 뜨거운 신예 아이돌 리노가 4번 협곡으로 향할 예정인 듯하다. 관계자에 따르면, 그녀는 브래디 광업 그룹이 주관하는 위문 공연 행사에 특별 게스트로 참여해, 현지에서 개인 콘서트를 열 예정이다.\n널리 알려진 바와 같이, 리노가 앞선 여러 차례 콘서트에서 보여 준 공연 스타일과 음악적 역량은 수많은 팬과 전문가에게 인정받아 왔다. 이번에도 그녀는 더욱 빛나고 특별한 경험을 선사할 것으로 기대된다.\n티켓 예매처는 이달 말 리노의 개인 웹사이트를 통해 공개될 예정이라고 한다. 자세한 내용은 해당 사이트에서 확인할 수 있다.\n- <주간 예술> 제160호 스타 뉴스 칼럼"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "When Liino first met Mr. Fleming, known as the \"Bridge Builder\", she immediately knew he had come specifically to find her. \nUnlike the clearly separated reds and blacks, blues and yellows she usually perceived in people, Liino regarded him with caution and noticed three overlapping colors within the man said to represent the Witching Hour... \nA somber blue. A mournful green. And a deep, veiled purple. \nTogether, they formed an image not easily deciphered — one that left even her, usually so perceptive, momentarily confused. \nFleming seemed to notice her reaction and gave a small, knowing nod. \n\"You're a very gifted Djall ... and yet you've never once used your abilities in performance. Is that because of what Freida taught you?\" \nLiino froze for a brief moment. \nShe had almost forgotten how long it had been since anyone last said that name to her. Her mother's name. \nBut she quickly recovered. As an idol who always chased perfection, experience had long taught her how to respond to unexpected situations, then and now. \nSo she composed herself and met Fleming's eyes without flinching. Her gaze was sharp, as if she intended to see right through him. \n\"Who are you exactly...? How do you know that name?\" \nFleming smiled gently, unbothered by her bluntness. He looked around the backstage room and said: \n\"Just an old acquaintance who misses her playing sometimes. I still remember how much she loved Leithanian classical music. She once had us track down quite a few musical sheets from Terra.\" \n\"But then ... she took them all with her. She gave up everything to run away with some Liberi from Mieszko Industries. Just like that... It's been over twenty years now, hasn't it?\" \nAs he spoke, the colors around him shifted into a faded yellow, like old musical sheets her mother once adored and she now kept close. Her heart grew heavier. \n\"Mr. Fleming... Did you come all this way just to talk about old times?\" \nFleming shook his head. \n\"Not only for that. I wanted to offer a little warmth before discussing what might become a partnership. Just in case someone with too much caution decided to walk away before I even got to the point.\" \n\"Partnership ... with who? The Witching Hour?\" \n\"As a senior business consultant to the Witching Hour, of course I'd like to work with a top idol like you. You know, there are broader possibilities.\" \n\"You mean ... Seš'qa?\" \n\"Heh. You really do take after your mother. Conversations with intelligent people always save me a great deal of time. Yes — whether it's Djall-related rumors or external negotiations with different factions ... Seš'qa would be happy to help you remove anything that gets in the way of your perfect performances.\" \n\"And the cost? What do I have to give in exchange for working with you ... with Seš'qa?\" \n\"I could say you are the greatest value of all ... but I suspect that isn't the answer you want. Information, access, connections ... something along those lines. How does that sound?\" \n\"......\" \n\"Now then, may I hear your answer?\"",
+    "zh-TW": "當梨諾第一次見到那位被尊稱為「築橋者」的弗萊明先生時，她立刻意識到——他是專程找上門的。\n有別於大多數人過分鮮明的紅與黑、藍與黃，梨諾有些戒備地一眼望去，竟然在這位據說來自巫術時刻的發言人身上，看到了至少三種色彩——\n憂鬱的藍色、惋惜的綠色與神秘的紫色。\n它們共同構成了一份難以輕易解讀的心象，讓向來敏銳的她都陷入了短暫的困惑。\n弗萊明似乎也發現了這點，了然地頷首。\n「你明明是個非常有天賦的笞心魔……卻沒有在演出裡用過一次自己的能力。是因為芙蕾達的教導嗎？」\n彼時，梨諾有過一瞬間的恍惚。\n她都忘了自己有多久沒有從旁人口中聽到這個名字了，這個……屬於母親的名字。\n當然，身為一向追求完美的偶像，她實在累積了太多應對突發狀況的經驗，不管是過去還是現在。\n於是也只是這麼一瞬，她便毫無畏懼地與弗萊明對視，目光直接且銳利，彷彿是想就此看穿他的內心。\n「……你又是什麼人？為什麼會知道這個名字？」\n弗萊明露出一個平和的笑容，並不介意她毫不客氣地發問，反而饒有興致地環顧了這個作為後台的房間。他有些感慨地說道：\n「只是個偶爾還會懷念她琴聲的老友。我還記得她很喜歡萊塔尼亞的古典音樂，曾經委託我們收集了不少從泰拉帶過來的樂譜。」\n「後來……後來就被她全部帶走了——為了跟一個梅什科工業的黎博利遠走高飛，她居然就那樣割捨了其他，義無反顧地離開了家鄉……一眨眼，都二十多年了啊。」\n梨諾看著弗萊明身上的色彩逐漸泛黃，如同那些過去深受母親喜愛，現今被她珍藏的老樂譜，心情忽然變得更加複雜。\n「弗萊明先生，難道你來這裡……只是專門找我敘舊的嗎？」\n弗萊明搖搖頭。\n「不，或者說不僅如此。我只是在為我們接下來或許有幸達成的合作關係做一個有點溫度的開場白，以免一些戒心太重的合作夥伴還不等我說到正題，就貿然拒絕。」\n「合作？……跟誰？巫術時刻嗎？」\n「作為巫術時刻的高級商業顧問，我當然樂於與你這樣的頂級偶像合作。但是為什麼——不更進一步呢？」\n「你是說……塞什卡？」\n「呵呵，你果然很像你的母親……和聰明人談話總能省下我不少事。沒錯，無論是『笞心魔傳聞』這樣的煩心事，還是與各地勢力的斡旋……對於這些影響你完美演出的不確定因素，塞什卡願意為可愛的梨諾小姐給予可觀的幫助。」\n「那代價呢？與你們……與塞什卡合作後，我需要付出什麼？」\n「雖然我很想說梨諾小姐本身，就是最大的『價值』，但是——想必這不會是你希望聽到的答案吧？一些資訊、一些管道，乃至一些關係……這個答案如何？」\n「……」\n「好了，現在能告訴我你的選擇了嗎？」",
+    "zh-CN": "当梨诺第一次见到那位被尊称为“筑桥者”的弗莱明先生时，她立刻意识到——他是专程找上门的。\n有别于大多数人过分鲜明的红与黑、蓝与黄，梨诺有些戒备地一眼望去，竟然在这位据说来自巫术时刻的发言人身上，看到了至少三种色彩——\n忧郁的蓝色、惋惜的绿色与神秘的紫色。\n它们共同构成了一份难以轻易解读的心象，让向来敏锐的她都陷入了短暂的困惑。\n弗莱明似乎也发现了这点，了然地颔首。\n“你明明是个非常有天赋的笞心魔……却没有在演出里用过一次自己的能力。是因为芙蕾达的教导吗？”\n彼时，梨诺有过一瞬间的恍惚。\n她都忘了自己有多久没有从旁人口中听到这个名字了，这个……属于母亲的名字。\n当然，身为一向追求完美的偶像，她实在积累了太多应对突发状况的经验，不管是过去还是现在。\n于是也只是这么一瞬，她便毫无畏惧地与弗莱明对视，目光直接且锐利，仿佛是想就此看穿他的内心。\n“……你又是什么人？为什么会知道这个名字？”\n弗莱明露出一个平和的笑容，并不介意她毫不客气地发问，反而饶有兴致地环顾了这个作为后台的房间。他有些感慨地说道：\n“只是个偶尔还会怀念她琴声的老友。我还记得她很喜欢莱塔尼亚的古典音乐，曾经委托我们收集了不少从泰拉带过来的乐谱。\n“后来……后来就被她全部带走了——为了跟一个梅什科工业的黎博利远走高飞，她居然就那样割舍了其他，义无反顾地离开了家乡……一眨眼，都二十多年了啊。”\n梨诺看着弗莱明身上的色彩逐渐泛黄，如同那些过去深受母亲喜爱，现今被她珍藏的老乐谱，心情忽然变得更加复杂。\n“弗莱明先生，难道你来这里……只是专门找我叙旧的吗？”\n弗莱明摇摇头。\n“不，或者说不仅如此。我只是在为我们接下来或许有幸达成的合作关系做一个有点温度的开场白，以免一些戒心太重的合作伙伴还不等我说到正题，就贸然拒绝。”\n“合作？……和谁？巫术时刻吗？”\n“作为巫术时刻的高级商业顾问，我当然乐于与你这样的顶级偶像进行合作。但为什么——不更进一步呢？”\n“你是说……塞什卡？”\n“呵呵，你果然很像你的母亲……和聪明人谈话总能省下我不少事。没错，无论是‘笞心魔传闻’这样的烦心事，还是与各地势力的斡旋……对于这些影响你完美演出的不确定因素，塞什卡愿意为可爱的梨诺小姐给予可观的帮助。”\n“那代价呢？与你们……与塞什卡合作后，我需要付出什么？”\n“虽然我很想说梨诺小姐本身，就是最大的‘价值’，但——想必这不会是你希望听到的答案吧？一些信息、一些渠道，乃至一些关系……这个答案如何？”\n“……”\n“好了，现在能告诉我你的选择了吗？”",
+    "ja": "リーノは、「架橋者」と称されるフレミング氏に初めて会ったとき、すぐに悟った――彼は自分を目当てに、わざわざ訪ねて来たのだと。\n大抵の人間は、極端なまでにくっきりとした赤と黒、青と黄を帯びている。しかしそれとは異なり、リーノが警戒しながら目を向けた先にいた、ウィッチタイムの代弁者だというこの人物には、少なくとも3つの色彩が見て取れた――\n憂いを帯びた青、惜しむような緑、そして神秘的な紫。\nその3つが重なり合い、彼の内面をひどく読み取りにくいものにしていた。感覚に優れた彼女でさえ、一瞬戸惑いを覚えるほどであった。\nフレミングもそれに気づいたのか、得心したようにうなずいた。\n「貴方はこれほど才能のあるジャールだというのに……ステージでは一度も自分の力を使ったことがない。フリーダの教えでしょうか。」\nそのとき、リーノは一瞬、心を奪われたように呆然とした。\nどれほど長く、この名前を他人の口から聞いていなかったのか。この……母親の名を。\nもちろん、常に完璧を追い求めるアイドルとして、彼女は予想外の状況に対応する経験を、あまりにも多く積み重ねてきた。過去も、そして今も。\nゆえに、それもほんの一瞬のことであった。彼女はすぐに、恐れることなくフレミングと視線を交わした。その眼差しはまっすぐで鋭く、そのまま彼の内心を見抜こうとするかのようだった。\n「……えっと、あなたは誰？どうしてその名前を知ってるの？」\nフレミングは穏やかな笑みを浮かべ、彼女の遠慮のない問いかけを意に介さないどころか、むしろ興味深げに、楽屋として使われている部屋を見回した。そしていくらか感慨深げに言った。\n「ただ、たまに彼女の奏でる音色が懐かしくなる、昔なじみですよ。今でも覚えています。彼女はリターニアのクラシック音楽がとても好きでしてね。かつて我々に、テラから持ち込んだ楽譜を集めてくれと頼んだこともありました。」\n「それから……彼女は、それを全部持っていってしまいました――ミェシュコ工業のリーベリの男と駆け落ちするために、彼女は何もかもを断ち切って、ためらいもなく故郷を去った……時間が経つのは早いですね。もう20年以上前のことです。」\nリーノは、フレミングの帯びる色彩が次第に黄ばんでいくのを見ていた。それはまるで、かつて母が深く愛し、今は彼女が大切にしまい込んでいる、あの古い楽譜のようだった。彼女の心は、一段と複雑に揺れた。\n「フレミングさん、ここに来たのは……ただリーノと昔話をするためだけじゃないよね？」\nフレミングは首を振った。\n「いや、もちろん、それだけではありません。私はただ、これから結ぶことになるかもしれない協力関係のために、少しばかり温かみのある前口上を用意していただけ――こちらが本題に入るのも待たず、警戒心が強すぎる相手が軽率に断ってしまわないように。」\n「協力？……誰と？ウィッチタイムと？」\n「ウィッチタイムのシニア・ビジネスコンサルタントとして、貴方のようなトップアイドルと協力できるなら、もちろん喜ばしいことです。しかし、どうして――もう一歩、踏み込まないのでしょうか？」\n「……セシュカのこと？」\n「ああ、貴方はやはり母親によく似ている……賢い相手との会話は、いつも私の手間を省いてくれます。その通りですよ。『ジャールの噂』のような面倒ごとであれ、各地の勢力との折衝であれ……貴方の完璧なライブを脅かす不確定要素について、セシュカは可愛いリーノさんに相応の助力を与える用意があるのです。」\n「それって、見返りは？あなたたちと……セシュカと協力したら、リーノは何をしなきゃいけないの？」\n「リーノさんご自身こそが最大の『価値』、と言いたいところですが――おそらく、それは貴方が聞きたい答えではないのでしょう。幾つかの情報、伝手、ひいては人脈……この答えではいかがでしょうか？」\n「……」\n「さて、そろそろ貴方の選択をお聞かせ願えますか。」",
+    "ko": "리노가 '교량 건설자'라 불리는 플레밍을 처음 만났을 때, 그녀는 곧바로 깨달았다. 그는 우연히 찾아온 것이 아니라, 자신을 만나기 위해 일부러 온 사람이었다.\n대부분의 사람에게서 지나치게 선명한 붉은색과 검은색, 푸른색과 노란색이 보이는 것과 달리, 리노가 경계심을 품고 힐끗 바라본 이 '주술 타임'의 대변인에게서는 적어도 세 가지 색이 보였다.\n우울한 푸른색, 안타까운 녹색, 그리고 신비로운 보라색.\n그 색들은 쉽게 읽어 낼 수 없는 심상을 이루고 있었다. 늘 예민하게 사람의 마음을 짚어 내던 리노조차, 잠시 혼란에 빠질 정도였다.\n플레밍도 그 사실을 눈치챈 듯, 이해했다는 듯 고개를 끄덕였다.\n\"분명 훌륭한 재능을 타고난 디얄이면서... 정작 공연에서는 단 한 번도 자신의 능력을 쓴 적이 없더군. 프리다의 가르침 때문인가?\"\n그 순간, 리노는 잠시 멍해졌다.\n타인의 입에서 그 이름을 들은 것이 대체 얼마 만이었는지, 그녀는 떠올릴 수조차 없었다. 그것은... 어머니의 이름이었다.\n물론, 언제나 완벽을 추구하는 아이돌인 그녀에게는 돌발 상황에 대처한 경험이 이미 차고 넘쳤다. 과거에도, 지금도.\n그래서 그 동요는 정말 한순간뿐이었다. 리노는 곧 두려움 없이 플레밍과 눈을 마주했다. 그녀의 시선은 곧고 날카로웠다. 마치 그대로 그의 속마음을 꿰뚫어 보려는 듯했다.\n\"...당신은 누구세요? 왜 그 이름을 알고 계세요?\"\n플레밍은 온화하게 웃었다. 리노의 날 선 질문에도 개의치 않는 듯했다. 오히려 흥미롭다는 듯, 대기실로 쓰이고 있는 방 안을 둘러보았다. 그는 조금 감회에 젖은 목소리로 말했다.\n\"가끔은 아직도 그녀의 연주를 그리워하는 오랜 친구일 뿐이야. 그녀가 라이타니엔의 클래식 음악을 무척 좋아했다는 것도 기억하고 있지. 예전에 우리에게 부탁해, 테라에서 가져온 악보를 꽤 많이 모아 갔었어.\"\n\"그러고는... 전부 챙겨서 떠나버렸지. 미에슈코 공업의 리베리 남자와 멀리 달아나기 위해, 그토록 많은 것을 끊어 내고 망설임 없이 고향을 떠났어... 눈 깜짝할 사이에 벌써 이십 년도 더 지났군.\"\n리노는 플레밍에게서 보이던 색이 서서히 누렇게 바래 가는 것을 바라보았다. 마치 예전에 어머니가 무척이나 아꼈고, 지금은 자신이 소중히 간직하고 있는 오래된 악보들처럼. 그녀의 마음은 더욱 복잡해졌다.\n\"플레밍 씨, 설마 여기까지 오신 이유가... 정말 제게 옛날이야기를 하러 오신 것뿐인가요?\"\n플레밍은 고개를 저었다.\n\"아니, 아니라고 해야겠지. 그뿐만은 아니야. 앞으로 우리가 운 좋게 협력 관계를 맺게 된다면, 그 시작을 조금은 따뜻하게 열고 싶었을 뿐이지. 경계심 많은 협력자가 내가 본론을 꺼내기도 전에 성급히 거절하지 않도록 말이야.\"\n\"협력... 누구와요? 주술 타임이요?\"\n\"주술 타임의 수석 상업 고문으로서, 나야 물론 너 같은 정상급 아이돌과 협력할 수 있다면 기쁘지. 하지만 왜... 거기서 한 걸음 더 나아가지 않겠나?\"\n\"그 말은... 세쉬카를 말씀하시는 건가요?\"\n\"후후, 역시 너는 네 어머니를 많이 닮았군... 똑똑한 사람과 이야기하면 수고를 많이 덜 수 있어. 맞아. '디얄 소문' 같은 골칫거리든, 각지 세력과의 조율이든... 네 완벽한 공연을 방해하는 불확실한 요소들에 대해, 세쉬카는 사랑스러운 리노 양에게 상당한 도움을 줄 의향이 있어.\"\n\"그 대가는요? 당신들과... 세쉬카와 협력하면, 저는 무엇을 내놓아야 하죠?\"\n\"리노 양 그 자체가 가장 큰 '가치'라고 말하고 싶긴 한데... 아마 네가 듣고 싶은 답은 아니겠지. 정보, 경로, 나아가 인맥까지... 이 정도 답이면 어떻겠나?\"\n\"...\"\n\"자, 이제 네 선택을 들려줄 수 있겠나?\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0035_liino_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Hm? Time to hit the stage?",
+    "zh-TW": "嗯嗯？可以上台了嗎？",
+    "zh-CN": "嗯嗯？可以上台了吗？",
+    "ja": "え？リーノのためのステージ？",
+    "ko": "으음? 이제 오프닝 하면 돼?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Twinkle-twinkle! My latest performance is about to start!",
+    "zh-TW": "Twinkle-twinkle！新的演出馬上開始！",
+    "zh-CN": "Twinkle-twinkle！新的演出马上开始！",
+    "ja": "トゥインクルなライブ、始まるよ～！",
+    "ko": "트윙클 트윙클! 곧 공연이 시작될 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Singing, dancing, and thinking on my feet, I'm a straight-A idol in every category!",
+    "zh-TW": "我可是舞蹈、演唱、臨場應變都拿滿分的全能偶像！",
+    "zh-CN": "我可是舞蹈、演唱、临场应变都拿满分的全能偶像！",
+    "ja": "ダンスに歌に、現場の対応！100点満点、完璧アイドル！",
+    "ko": "이렇게 춤, 노래, 센스까지 완벽한 아이돌 본 적 있어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Wherever we go, I want to be the star that catches everyone's eye!",
+    "zh-TW": "無論在哪裡，我都想成為最引人注目的那顆星星！",
+    "zh-CN": "无论在哪里，我都想成为最引人注目的那颗星星！",
+    "ja": "どこにいたって、リーノが一番輝く「スター」なんだから！",
+    "ko": "난 어디서나 빛나는 별이 될 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Would you choose one for me? Something easy enough for a total combat novice like me!",
+    "zh-TW": "可以幫我挑一件嗎？最好能讓不擅長戰鬥的人也能輕鬆上手！",
+    "zh-CN": "可以帮我挑一件吗？最好能让不擅长战斗的人也能轻松上手！",
+    "ja": "ねえ、選ぶの手伝ってよ～！戦いが苦手でも使えるのって、どれ……？",
+    "ko": "대신 골라 줄래? 싸우는 건 익숙하지 않거든. 그런 사람도 쉽게 다룰 수 있는 걸로 부탁해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "It's my first time wearing this stage gear... Hmm. Maybe I should come up with a few dance moves to go with it?",
+    "zh-TW": "我還是頭一次穿這樣的演出服……嗯，要不要再設計一下配套的動作？",
+    "zh-CN": "我还是头一次穿这样的演出服……唔，要不要再设计下配套的动作？",
+    "ja": "こんな衣装初めて……うーん、合わせてフリもやり直したほうがいいかも？",
+    "ko": "이런 스타일의 무대의상은 처음이네... 음, 의상에 어울리는 동작도 고민해 봐야겠다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "I understood it in a flash! Just like a star igniting my soul... I'm becoming quite the luminary, aren't I?",
+    "zh-TW": "咻的一下就理解了！像是星星跳進了心裡……是不是讓我變得更耀眼了？",
+    "zh-CN": "咻的一下就理解了！像是星星跳进了心里……是不是让我变得更耀眼了？",
+    "ja": "ビビっときた！キラめきが胸に広がってくみたいな……リーノ、さっきよりも輝いてるよね？",
+    "ko": "음! 이렇게 하는 거구나! 꼭 반짝이는 별이 나한테 다가온 것만 같아! 나, 뭔가 더 빛나는 거 같지 않아?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "What a stage entry — You sure I can't use it for my next concert? Ugh, what a missed opportunity...",
+    "zh-TW": "這個登場方式——真的不能用在我下次的演出裡嗎？嗚啊，好遺憾……",
+    "zh-CN": "这个登场方式——真的不能用在我下次的演出里吗？呜哇，好遗憾……",
+    "ja": "この登場の方法、ライブで使いたいんだけど――絶対ダメ？え～……萎え……",
+    "ko": "음, 이런 느낌으로 다음 공연 오프닝을 만들면 좋을 것 같은데, 어때? 응? 안 된다고? 힝... 아쉽다..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Oh that's sweet! How should I thank you... I've got it! I'll just keep showering you with concert tickets until we're even, how's that?",
+    "zh-TW": "好感動！我該怎麼答謝這份信賴才好……嗯，再多給你幾張下次演出的門票，怎麼樣？",
+    "zh-CN": "好感动！我该怎么答谢这份信赖才好……唔，再多给你几张下次演出的门票，怎么样？",
+    "ja": "嬉し～！どう応えてあげたらいいのかな……う～ん、次のライブのチケット多めにあげちゃう！どう？",
+    "ko": "리노, 감동했어! 이 감동을 어떻게 보답하면 좋으려나, 음... 다음 공연 표를 몇 장 더 챙겨줄까? 어때, 마음에 들어?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0035_liino_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "Eh? That's all you needed from me? I expected a list of demands as long as my renewal contract... This is actually ... quite fresh...",
+    "zh-TW": "欸？這樣就可以了嗎？我還以為會像跟事務所簽續約合約一樣，追加一大堆條件……老實說，有點不習慣……",
+    "zh-CN": "欸？这样就可以了吗？我还以为会像跟事务所签续约合同一样，追加一大堆条件……老实说，有点不习惯……",
+    "ja": "え、それだけ？事務所と契約更新するときは、条件増えまくってたから……ほんとにこれでいいの……？",
+    "ko": "어? 벌써 된 거야? 난 소속사랑 재계약할 때처럼 이상한 추가 조항이 엄청나게 많을 줄 알았거든. 이런 건 좀 익숙하지가 않네..."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0035_liino_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Mm-hmm, so you're finally under my spell? I knew you'd come around—eh? What's that? \"You'll help carry the Endfield ads\"? Is that all you focus on?!",
+    "zh-TW": "嗯哼，徹底拜倒在我的魅力下了嗎？終於開竅——欸？什麼叫「今後終末地的宣傳也靠你了」？重點是這個嗎？！",
+    "zh-CN": "嗯哼，彻底拜倒在我的魅力下了吗？终于开窍——欸？什么叫“今后终末地的宣传也靠你了”？重点是这个吗？！",
+    "ja": "ふふんっ、完全にリーノ沼に――え？「これからはエンドフィールドの宣伝もよろしく」？……って、それ今言わなくてもいいよね？",
+    "ko": "결국 내 매력에 푹 빠져버렸구나? 역시 관리자도... 뭐? 앞으로 엔드필드 홍보를 잘 부탁한다고? 그게 목적이었어?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0035_liino_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "Endmin, it's official: you're now my permanent VIP! I'm making sure you're missing none of my \"dazzling moments\"! You're starstruck, right? You better watch closely! If I see your mind wandering off... Heehee!",
+    "zh-TW": "管理員，我決定了，以後你就是我巡演的常駐特邀嘉賓啦！這樣一來，我的任何一次「閃耀時刻」，你都不會錯過！怎麼樣？是不是很感動？到時可要好好看著我！要是我發現你走神了……哼哼！",
+    "zh-CN": "管理员，我决定了，以后你就是我巡演的常驻特邀嘉宾啦！这样一来，我的任何一次“闪耀时刻”，你都不会错过！怎么样？是不是很感动？到时可要好好看着我！要是我发现你走神了……哼哼！",
+    "ja": "決めた！管理人をツアーのレギュラーゲストにしちゃお～！そしたらリーノの「キラキラタイム」見逃すこともなくなるでしょ？感激しちゃった？ず～っと見ててね。もし目離したら……どうなるのかなぁ？",
+    "ko": "관리자! 나 결정했어! 넌 이제 내 투어의 고정 게스트야! 그럼, 네가 내 빛나는 순간들을 하나도 놓치지 않고 볼 수 있겠지? 어때, 감동이야? 그때 되면 꼭 잘 지켜봐 줘야 한다! 딴생각하고 그러면... 치이, 나 삐질 거야!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0035_liino_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Endmin, missed me? As the brightest and cutest super idol of Talos-II, is there any special treatment for me? No...? Aw, you are still so blunt and direct, and yet somehow, still endearing... Guess it can't be helped.",
+    "zh-TW": "管理員，好久不見呀！欸？作為全塔衛二最閃耀可愛的第一偶像，梨諾正式加入終末地——居然沒有什麼特別優待嗎？真是的……你果然還是老樣子，坦率到讓人想討厭都討厭不起來呢……",
+    "zh-CN": "管理员，好久不见呀！欸？作为全塔卫二最闪耀可爱的第一偶像，梨诺正式加入终末地——居然没有什么特别优待吗？真是的……你果然还是老样子，坦率到让人想讨厌都讨厌不起来呢……",
+    "ja": "管理人、ひっさしぶり～！あれ？タロⅡのハート独り占め、最強キラキラアイドル、リーノが正式加入したのに、特別待遇なし？相変わらず、正直すぎて……もう、嫌いになんてなれるわけない……！",
+    "ko": "오랜만이야, 관리자! 응? 탈로스 II에서 가장 빛나고 사랑스러운 최고의 아이돌 리노가 엔드필드에 합류하는데... 특별 대우가 없어? 진짜... 넌 변하질 않는구나. 너무 투명해서 미워하고 싶어도 미워할 수가 없네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Hehe! How's this for a cute pose?",
+    "zh-TW": "嘿嘿，這個姿勢也很可愛吧？",
+    "zh-CN": "嘿嘿，这个姿势也很可爱吧？",
+    "ja": "へへ、決めポーズなら自信あり！",
+    "ko": "헤헤, 이 동작 어때? 귀엽지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "La—lala—! Mic check complete! I'm ready to go!",
+    "zh-TW": "啦——啦啦——試音完畢，可以開始啦！",
+    "zh-CN": "啦——啦啦——试音完毕，可以开始啦！",
+    "ja": "……マイクチェック、OK！レッツゴー！",
+    "ko": "랄랄라라, 마이크 테스트 완료! 이제 시작해도 돼!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "How about two sets of speakers? One could work too! I just need to see how my voice carries in here...",
+    "zh-TW": "能在這裡多放兩個音響嗎？一個也可以！讓我試試擴音效果就好……",
+    "zh-CN": "能在这里多放两个音响吗？一个也行！让我试试扩声效果就好……",
+    "ja": "ここに2つスピーカー置いたらダメ？1つでもいいよ！音の聞こえ方だけ確認したくて……",
+    "ko": "여기에 스피커 두 개 정도만 놔줄 수 있어? 하나라도 괜찮아! 그냥 음향 효과를 테스트해 보고 싶어서!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Endmin! Care to join me? I'm about to scout some venues.",
+    "zh-TW": "管理員，你好呀！要陪我去看演出場地嗎？",
+    "zh-CN": "管理员，你好呀！要陪我去看演出场地吗？",
+    "ja": "管理人、おはよ～！ライブ会場の下見、一緒にどう？",
+    "ko": "안녕, 관리자! 나랑 공연장 보러 갈래?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "There you are, Endmin! Come listen to my new demo!",
+    "zh-TW": "我正在找你呢，管理員！快來聽我的新歌Demo！",
+    "zh-CN": "我正找你呢，管理员！快来听我的新歌小样！",
+    "ja": "管理人、みっけ～！新曲のデモ、聴いてほしかったの！",
+    "ko": "어, 관리자! 한참 찾았잖아! 빨리 내 신곡 데모 좀 들어봐!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0035_liino_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Hi, Endmin! Here to watch my rehearsal? I just perfected two tricky gliding stunts I've designed! Hehe, don't worry! I already reserved the best seats for you!",
+    "zh-TW": "管理員，是來看我的進場排練嗎？這次我專門設計了兩個特別難的滑翔動作，總算是練好了！嘿嘿，別擔心，我提前就幫你留好位置啦！",
+    "zh-CN": "管理员，是来看我的进场排练吗？这次我专门设计了两个特别难的滑翔动作，总算是练好了！嘿嘿，别担心，我提前就给你留好位置啦！",
+    "ja": "管理人、リハ見に来たの？すっご～く難しい空中アクション2つ入れて、ようやくこれで完成だよ～！あ、心配しないで。ちゃんとチケ確保済みだから！",
+    "ko": "관리자, 리허설 보러 온 거야? 이번 공연에 어려운 글라이딩 동작 부분을 두 개나 넣었는데, 드디어 연습이 끝났어! 헤헤, 걱정하지 마! 네 좌석은 미리 빼놨으니까!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "Dijiang is HUUGE! The place actually scared me at first! Then I thought — If I could have a space-themed concert here, that'd be SOOO amazing! Don't you agree, Endmin?",
+    "zh-TW": "帝江號真的好大！第一次來的時候，真是把我都嚇了一跳！當時我就在想——「啊，要是能讓我在這裡開一場太空主題的個人演唱會，該有多好！」你說是不是，管理員？",
+    "zh-CN": "帝江号真的好大！第一次来的时候，真是把我都吓了一跳！当时我就在想——“啊，要是能让我在这里开一场太空主题的个人演唱会，该多好！”你说是不是，管理员？",
+    "ja": "帝江号ってほんとに広～い！最初に来たときはびっくりしたけど、「宇宙をテーマにソロライブできたら最高かも！」って閃いちゃったんだよね。管理人、いいと思わない？ねぇってば！",
+    "ko": "제강호 진짜 크다! 처음 왔을 때, 얼마나 깜짝 놀랐는지 알아? '아, 이런 곳에서 우주를 주제로 공연하면 얼마나 좋을까...'하는 생각이 절로 들더라니까! 너도 그렇지?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0035_liino_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Hehe, another deal signed and sealed! I'm thinking of a new setup... A circular stage. Scrap the audience seating and add everyone to the show! Super clever and interesting, don't you think?",
+    "zh-TW": "哼哼，這次又拿到了一個不錯的贊助！看來下一場演出可以試試新方案了……嗯？例如把舞台搭成環形的結構，然後徹底去掉觀眾席，讓每一個來看演出的人都成為演出的一分子——聽起來是不是很有意思？",
+    "zh-CN": "哼哼，这回又拿到了一个不错的赞助！看来下场演出可以试试新方案了……嗯？比如把舞台搭成环形的结构，然后彻底去掉观众席，让每一个来看演出的人都成为演出的一分子——听起来是不是很有意思？",
+    "ja": "ふふんっ、また優良スポンサーゲット～！次のライブで新しいこと試せそう……あ！ドーナツ型のステージにして、来てくれたみんなも演出の一部になってもらって……ってどうかな。うわ～！テンション上がっちゃうよね……！",
+    "ko": "헤헤, 이번에 또 괜찮은 후원사랑 협력하게 됐어! 다음 공연에는 새로운 것들을 시도해 봐도 될 것 같아. 응? 어떤 걸 시도해 보고 싶냐고? 음... 무대를 고리 형태로 만들어서 관객석을 완전히 없애는 거야! 공연을 보러 온 사람들도 공연의 일부가 되는 거지! 어때? 재밌을 것 같지 않아?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0035_liino_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Sheesh, people should STAHHP making up ridiculous stories about Djalls. One smile and people will screech: \"SHUT UP AND TAKE MY WALLET!\" Really? Oh, puh-lease. If that were true... Endmin, keep still and look at my face! Now ... feeling any uncontrollable urge to gimme all your cash?",
+    "zh-TW": "真是的，受不了那些整天亂編薩卡茲笞心魔能力的傢伙了！怎麼可能做到「對你笑一下，你就會乖乖掏錢了」啊？要是我真的有這種能力……管理員，保持這樣別動，就看著我的臉！現在有把零用錢全交給我的衝動了嗎？",
+    "zh-CN": "真是的，受不了那些整天乱编萨卡兹笞心魔能力的家伙了！怎么可能做到“对你笑一下，你就会乖乖掏钱了”啊？要是我真有这种能力……管理员，保持这样别动，就看着我的脸！现在有把零花钱全交给我的冲动了吗？",
+    "ja": "ほんっと、ジャールの能力を適当に語るアンチウザい！「ちょっと笑っただけでお金を出しちゃう」なんて、逆にあると思う？そんなのあったら……じゃあ、管理人。リーノの顔見て！で、どう？今、お小遣い全部渡したくなった？",
+    "ko": "정말이지, 살카즈 디얄의 능력이 어쩌니 저쩌니 허튼 소리하는 사람들이 왜 이렇게 많아? 디얄이 한번 웃어주면 순순히 돈을 꺼내놓게 된다느니... 그런 게 가능할 리가 없잖아?! 내가 진짜 그런 능력이 있었으면... 잠깐, 관리자! 움직이지 말고 나 한번 봐봐! 어때? 나한테 돈을 전부 다 바치고 싶지 않아?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0035_liino_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "On the eve of my debut, I suffered a whole week without proper sleep. I spent all night rehearsing and double-checking every performance detail. The thought of a single slip got me scared. But — seeing how happy the audience was, I knew everything I did was ... worth every agony.",
+    "zh-TW": "當初籌備第一場演出的時候，我連續七天都沒睡好，整天不是在練歌，就是在檢查我的舞台方案，直到上台前都很緊張，生怕出一點紕漏。但最後——看著觀眾們驚喜的目光，我忽然覺得之前付出的一切……還蠻值得的。",
+    "zh-CN": "当初筹备第一场演出的时候，我接连七天都没睡好，整天不是在练歌，就是在检查我的舞台方案，直到上台前都很紧张，生怕出一点纰漏。但最后——看着观众们惊喜的目光，我忽然觉得之前付出的一切……还蛮值得的。",
+    "ja": "初ライブの前は、1週間ず～っと眠れなかったんだよ。歌の練習に、ステージプランの確認……本番直前まで緊張しっぱなし。でも、ライブが終わると……客席のみんなが驚いた顔でこっち見てて、それまでの努力が……ぜ～んぶ報われた気がしたの。",
+    "ko": "처음 공연을 준비할 땐, 일주일 내내 잠도 제대로 못 자고, 하루 종일 노래 연습을 하거나 무대 연출만 검토하기도 했어. 무대에 오르기 직전까지 실수할까 봐 불안했지... 근데 막상 사람들의 반짝이는 눈빛을 본 순간, 그간의 노력이 전부 보상받는 느낌이었어. 의미 없는 일은 없었던 거지."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0035_liino_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Gimme advice for my next performance venue, Endmin! New Wrankwood has an interesting floating stage, Neo Tsukushi concert hall is neat. La Fantoma... what about a mid-ocean performance? That'd be blockbusting! Hmm? Why only TGCC cities? Tsk, 'cos they are where the money is!",
+    "zh-TW": "管理員，你說我下次的演出安排在哪裡呢？新藍卡塢那個空中舞台蠻有趣的，新都築的演歌館也不錯，至於菈梵朵瑪……直接在海上演出怎麼樣？應該很有話題度。嗯？為什麼都是商會的城市？嘖，那當然是為了能多賺一點！",
+    "zh-CN": "管理员，你说我下次演出安排在哪里呢？新蓝卡坞那个空中舞台挺有趣的，新都筑的演歌馆也不错，至于菈梵朵玛……直接在海上演出怎么样？应该很有话题度。嗯？为什么都是商会的城市？啧，那当然是为了能多赚一点！",
+    "ja": "管理人、次のライブどうしよ～？ニューランクウッドの空中ステージに、シン・ツクシの演歌ホールも気になってて、ラヴァンドマなら……思い切って、海上ライブやっちゃうとか？話題性もあるし――え？なんで商会の都市ばっかりなのって？まったく、こういうのは収益も大事なの！",
+    "ko": "관리자, 다음 공연은 어디가 좋을까? 뉴 랭크우드의 공중무대도 재밌을 것 같고, 신 츠쿠시의 엔카 무대도 괜찮을 것 같고, 라반도르마에선... 음, 바다 위에서 공연하는 거 어때? 분명 화제성도 있을 거야! 왜 다 상업연합회의 도시냐고? 쯧, 그거야 당연히 조금이라도 더 벌 수 있으니까 그렇지!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0035_liino_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Ehehe, found this little souvenir while I was scouting the venues! Take it and let it make your day.",
+    "zh-TW": "欸嘿，這是我在采風路上專門為你挑選的伴手禮！你就心滿意足地收下吧。",
+    "zh-CN": "欸嘿，这是我在采风路上专门为你挑选的伴手礼！你就心满意足地收下吧。",
+    "ja": "えへへっ、ライブのアイディアと一緒に、管理人のためのお土産も探してきたの。はい、あげる！",
+    "ko": "헤헤, 이건 내가 특별히 널 위해 골라 온 기념품이야! 고마워하라고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "*GASP* My thanks! Heehee! I get all kinds of presents, but those from you ... always mean a little more to me.",
+    "zh-TW": "雖然收到過各式各樣的禮物，但從你那裡得到的……總感覺更特別一點。",
+    "zh-CN": "虽然收到过各式各样的礼物，但从你那里得到的……总感觉更特别一点。",
+    "ja": "プレゼントならたくさん貰ってきたけど……管理人からのは、ちょっと特別……かもね？",
+    "ko": "지금까지 다양한 선물을 받아봤는데, 너한테 받는 건... 왠지 좀 더 특별한 느낌이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "The buzz from a great performance sticks with me for days! Yeah, it feels like a smith who perfects a weapon, except ... a sharp blade is only used to break hearts, while a great show is the perfect mirror for the soul.",
+    "zh-TW": "每結束一場演出，我都會興奮好一陣子！嗯，就像工匠們打造出足夠鋒利的兵器一樣，區別只在於……好兵器會被用來粉碎他人的心，但好演出卻能讓人看清自己的心。",
+    "zh-CN": "每结束一场演出，我都会兴奋好一阵！嗯，就像工匠们打造出足够锋利的兵器一样，区别只在于……好兵器会被用来粉碎他人的心，但好演出却能让人看清自己的心。",
+    "ja": "ライブが終わっても、ず～っとドキドキが続いちゃうんだ。職人が最高の武器を作ったときの感覚に似てるのかなぁ……でも、武器は人の心を壊すために、ライブは自分の心を癒やすためにある……違うのはこれだけ。",
+    "ko": "진짜... 매번 느끼는 거지만, 공연이 끝나고 나면 한동안은 흥분이 가라앉질 않아! 음, 꼭 장인들이 최고의 무기를 만들어냈을 때의 느낌이랄까? 다른 점이 있다면... 좋은 무기는 누군가의 마음을 부수는 데 쓰이지만, 좋은 공연은 관객에게 자신의 마음을 들여다볼 순간을 준다는 거?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "\"Sincerity\". It's the perfume I wear and I love its aroma. Lilac with a dash of rose give it a spectacular and dreamy top note, but it fades into a base note of bitter cedar... And that's why it's super memorable, wouldn't you say?",
+    "zh-TW": "「真心」——是我一直在用的香水的名字哦。我很喜歡它的味道，紫丁香配上些許薔薇的芬芳，開場盛大而夢幻，最後偏偏卻以杉木的苦味收尾……所以，才格外讓人難忘，不是嗎？",
+    "zh-CN": "“真心”——是我一直在用的香水的名字哦。我很喜欢它的味道，紫丁香配上些许蔷薇的芬芳，开场盛大而梦幻，最后偏偏却以杉木的苦味收尾……所以，才格外让人难忘，不是吗？",
+    "ja": "「トゥルーハート」――リーノがず～っと使ってる香水の名前。ほんとに好きなの。ライラックにバラの香りが重なって、トップは華やかで夢みたいなのに、ラストはシダーウッドの苦みが残る……だから、忘れられなくなる。そういうものじゃない？",
+    "ko": "'진심', 내가 쓰는 향수 이름이야. 난 이 향이 진짜 좋아. 라일락에 장미의 향이 살짝 더해져서, 처음은 화려하고 몽환적이지만, 끝은 삼나무의 쌉쌀한 향으로 마무리되거든. 그래서 더 쉽게 잊히지 않는 것 같기도 하고!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0035_liino_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "Because I'm a Djall, they've made all sorts of over-the-top stories about me, like, how my songs are imbued with mind-control arts or how I'd use witchcraft instruments to manipulate my audience... But Endmin, the witchcraft in my earrings and hairpins actually suppresses my Djall powers. I won't permit a single \"flaw\" on my stage that isn't part of the show ... even if that flaw is my innate power.",
+    "zh-TW": "因為我笞心魔的身分，外界傳過好多誇張的說法，像是「歌聲裡的源石技藝會操控心靈」「演出用的巫術裝置能把觀眾變為傀儡」……可是管理員，你知道嗎？我在耳環與髮夾上施的巫術，反而是遏制笞心魔能力的。我才不允許最重要的舞台上出現與演出無關的「瑕疵」……哪怕是這份與生俱來的力量。",
+    "zh-CN": "因为我笞心魔的身份，外界传过好多夸张的说法，像是“歌声里的源石技艺会操控心灵”“演出用的巫术装置能把观众变为傀儡”……可管理员，你知道吗？我在耳环与发卡上施的巫术，反而是遏制笞心魔能力的。我才不允许最重要的舞台上出现与演出无关的“瑕疵”……哪怕是这份与生俱来的力量。",
+    "ja": "リーノがジャールだからって、大げさなデマばっかり流されるの。「アーツを使った歌声で洗脳する」とか「ライブに行ったら巫術装置で操られる」とか。でもね、管理人……リーノはアクセに巫術をかけて、ジャールの力を抑えてるんだよ。ステージの上には「ノイズ」なんて必要ない……生まれ持った能力だろうと、関係ないから。",
+    "ko": "내가 디얄이다 보니, 어딘가에선 날 향한 과장된 소문들이 돌기도 해. '노래에 오리지늄 아츠가 있어서 듣는 이의 마음을 조종한다'라거나, '공연용 주술 장치로 관객을 꼭두각시로 만든다'라거나... 근데 그거 알아? 내 귀걸이랑 머리핀에는 오히려 디얄의 능력을 억제하는 주술이 걸려있다는 거? 난 내 무대에 공연과 상관없는 '흠'이 생기는 게 싫거든. 그게 내가 타고난 힘이라고 해도 말이야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0035_liino_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "When I was a girl, I would dream of a lovely purple rose. With a cloud-white ship we flew across the boundless skies, and the rose told me stories about the stars... One day, the red storm appeared. The ship capsized with the rose, dragged into a dark whirlpool. After that? Well, I woke up all by myself ... and I never, ever dreamed again.",
+    "zh-TW": "小時候，我的夢裡有一朵美麗又芬芳的紫色玫瑰，它和一艘雲朵一樣的白船陪伴著我，在漫無邊際的天空中飛呀飛，和我講述著星星的故事……某一天，紅色的風暴出現了，白船被掀翻，與玫瑰一起掉進了漆黑的漩渦裡。後來？後來我一個人醒來了啊……從此就再沒做過夢了。",
+    "zh-CN": "小时候，我的梦里有一朵美丽又芬芳的紫色玫瑰，它和一艘云朵一样的白船陪伴着我，在漫无边际的天空中飞呀飞，和我讲述着星星的故事……某一天，红色的风暴出现了，白船被掀翻，与玫瑰一起掉进了漆黑的漩涡里。后来？后来我一个人醒来了呀……从此就再没做过梦了。",
+    "ja": "子どもの頃、夢の中にあま～い香りのきれいな紫のバラが出てきてね。雲みたいな白い船と一緒に、広い空をふわふわ飛びながら、星の話を聞かせてくれて……でもある日、赤い嵐が船をひっくり返しちゃったの。船はバラと一緒に真っ黒な渦の中に飲み込まれた――そのあと？……そこで目が覚めちゃった。それから、夢は見なくなったんだ～。",
+    "ko": "어렸을 때 난 어떤 꿈을 자주 꿨어. 아주 예쁘고 향기로운 보라색 장미 한 송이랑, 구름처럼 하얀 배를 타고 끝없이 펼쳐진 하늘을 날아다니며, 그 친구가 들려주는 별들의 이야기를 듣는 꿈이었지. 근데 어느 순간 붉은 폭풍이 몰려와 하얀 배를 뒤집어 버리고, 리노는 장미랑 같이 검은 소용돌이 속으로 떨어져 버린 거 있지? 응? 그다음에? 그다음엔... 그냥 잠에서 깼어. 그리고 다신 꿈을 꾸지 않게 됐지."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0035_liino_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "I always treated the world as a massive stage, one that needed a bit more \"heart\" to master. Everyone, me included, is putting on our best show for an applause. But sometimes ... just sometimes ... even I wanted a break. So, Endmin, can I stay here a little longer? Being around you feels like the only time when I can breathe easy... Strange, isn't it?",
+    "zh-TW": "我一直覺得世界就是個大一點的舞台，只是要耗費更多的「心」才能駕馭。大家不過是為了喝采聲而努力表演，我也不例外。但偶爾，只是偶爾……即使是我，也會想偷個懶呢。所以管理員，能讓我再在這裡多待一下嗎？好像就只有在你身邊的時候，感覺能鬆懈一點……真奇妙啊。",
+    "zh-CN": "我一直觉得世界就是个大一些的舞台，只是要耗费更多的“心”才能驾驭。大家不过是为了喝彩声而努力表演，我也不例外。但偶尔，只是偶尔……即使是我，也会想偷个懒呢。所以管理员，能让我再在这儿多待一会儿吗？好像就只有在你身边的时候，感觉能松懈一点……真奇妙啊。",
+    "ja": "世界って、結局ちょっとだけ大きいステージみたいなものだよね。でも、操るには「心」をたくさん使わないといけない。拍手のために必死にパフォーマンスするのは、みんなもリーノもおんなじ。でもね、たまに……ほんとにたまに。私だってサボりたくなるときもあるんだよ。だから管理人、もう少しここにいていいかな？管理人といると、ほっとする。ほんと、不思議……",
+    "ko": "난 세상은 단순히 조금 더 큰 무대일 뿐이라고 생각해. 조금 더 많은 '마음'을 쏟아야 할 뿐이지. 이 세상 사람들 모두, 조금 더 큰 환호와 박수를 받기 위해 최선을 다해 공연하고 있는 거야. 나도 마찬가지고. 하지만 가끔, 아주 가끔은... 좀... 쉬고 싶을 때도 있어. 그러니까 관리자, 여기서 조금만 더 있다 가도 될까? 왠지 모르겠지만... 신기하게도 네 곁에 있으면 마음이 놓이거든..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0035_liino_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "More scripts to memorize for \"surprise\" interviews... Ugh. People just can't stop asking how I got started. I never went on any talent shows. I was directly scouted. My debut was an instant success, and I worked my heart out to get to where I am. Can't these variety show producers understand?! Is it really that hard to believe?",
+    "zh-TW": "怎麼又有這種需要背稿才方便答的「現場問題」啊……唉，都好幾次了，問的一堆問題還是圍繞我出道時的事。在這些節目組心裡，一個沒上過選秀節目，直接被星探發掘，出道後馬上走紅，只憑個人的努力就走到這一步的偶像，莫非就這麼難以置信嗎？",
+    "zh-CN": "怎么又有这种需要背稿子才方便答的“现场问题”啊……唉，都好几次了，问的一堆问题还是围绕我出道时的事。在这些节目组心里，一个没上过选秀节目，直接被星探发掘，出道后立马走红，只凭个人的努力就走到这一步的偶像，莫非就这么难以置信吗？",
+    "ja": "また台本暗記しなきゃなやつだぁ……もう、何回目だろ～？質問なんて無限にあるのに、聞かれるのはいっつもおんなじ、デビューしたときのこと。オーディション無しでスカウト、デビュー直後にブレイク――一生懸命頑張っただけなのに、もしかして、貴重……？",
+    "ko": "또 대본을 외워야 하는 건가... 에휴, 이게 몇 번째야... 질문들도 전부 데뷔 시절에 관한 질문뿐이고... 이 프로그램 제작진들은 오디션 프로그램 출신도 아닌, 스카우트로 연예계에 데뷔한 아이돌이 처음부터 많은 인기를 끌었다는 게... 그리고 이 모든 걸 아이돌 혼자만의 노력으로 이뤘다는 게, 믿기 어려운가 봐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Interacting with fans, performing on stage... I give my absolute all to everything I do. Especially for my fans. I refuse to let them down. They deserve a dream with a happiness that lasts well after they wake. It doesn't matter if I get so tired I could fall asleep on my feet. I'll wait till the last fan leaves before I even take a sip of water... That's the duty of a real idol.",
+    "zh-TW": "跟粉絲互動也好，上台演出也好……對我而言，都是需要全力以赴的事。尤其是面對粉絲的時候，絕對不能讓大家留下任何的遺憾，務必要為他們送上一場醒來後依然會覺得幸福的夢才可以。所以就算已經累到能站著睡著了，我也總是會堅持到最後一名粉絲離場了才喝水休息……這就是偶像應盡的義務。",
+    "zh-CN": "和粉丝互动也好，上台演出也好……对我而言，都是需要全力以赴的事。尤其是面对粉丝的时候，绝对不能够让大家留下任何的遗憾，务必要为他们送上一场醒来后依然会觉得幸福的梦才可以。所以就算已经累到能站着睡着了，我也总会坚持到最后一名粉丝离场了才喝水休息……这就是偶像应尽的义务。",
+    "ja": "ファンミもライブも……リーノはぜ～んぶ全力でやるよ。だって、ファンの子を絶対がっかりさせたくない。目が覚めても幸せでいられる夢を届けたい。だから、立ったまま寝そうなくらい疲れてても、みんなが帰るまで水1滴だって飲まずに頑張る……それが「アイドル」なんだから。",
+    "ko": "팬들이랑 소통하는 것도, 무대에 서는 것도... 나한테는 모두 최선을 다해야 하는 일이야. 특히 팬들을 만날 땐 더 그래. 한순간도 절대 아쉬울 만한 기억을 남겨줘선 안 되거든. 현장을 벗어난 뒤에도 행복하다고 느낄 만한 꿈을 선물해야 하는 거야. 서서 잠들 정도로 피곤하더라도, 마지막 팬이 나갈 때까진 물 한 모금 안 마시고 버텨야 해. 그게 리노의 의무니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "I did receive training about \"strictly taboo topics\". But I think ... I'll be okay if I talk about them with you. Like, my daily schedule is a super mess. I stay up late. I eat at random times. And I'm a real pain to my staff 'cos I demand perfection for my performance. Wow, admitting all that is quite embarrassing... So, to make it even, you should tell me a personal secret, Endmin.",
+    "zh-TW": "我確實受過那種「絕對不能提這些話題」的培訓。不過，如果是跟你說……應該沒問題吧？例如，其實我作息時間一點都不規律，老是熬夜，還不按時吃飯，經常為了爭取更好的舞台效果讓工作人員頭痛。真是的，這麼說出來總覺得更不好意思了……作為交換，也跟我說說你的事吧，管理員？",
+    "zh-CN": "我确实受过那种“绝对不能提这些话题”的培训。不过，如果是和你说……应该没问题吧？比如，其实我作息时间一点都不规律，老是熬夜，还不按时吃饭，经常为了争取更好的舞台效果让工作人员头疼。真是的，这么说出来总觉得更不好意思了……作为交换，也和我说说你的事吧，管理员？",
+    "ja": "「NG話題」の研修受けたけど……管理人になら……話してもいいよね？リーノ、生活リズム完全に終わってて夜ふかしばっかり、ご飯もお腹空いたら適当につまむだけ。あと、ステージプランにものすご～くこだわって、スタッフさんはグッタリ……あ～！言葉にすると恥ずかしいかも～！ってことで、管理人のも教えてよ～？",
+    "ko": "'이런 말은 어디서도 하면 안 돼'라고 교육받은 말들이 있어. 하지만 넌 관리자니까... 괜찮겠지? 사실 나 되게 불규칙한 생활을 하거든. 자주 밤을 새우기도 하고, 밥도 잘 안 챙겨 먹고, 더 멋진 무대를 위해서 스태프들을 골치 아프게 하는 일도 많지... 으음, 이렇게 말하고 나니까, 뭔가 더 부끄럽네... 자, 내 차례는 끝이야. 이제 네 얘기도 들려줘!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "My favorite way to unwind? If you're the press, I'd say \"music\" to be safe. But truth be told, I love sleeping. I can sleep for a dozen hours after hitting the pillow. It scared a new assistant witless 'cos she couldn't wake me...! Fortunately my manager was there and screamed: \"Ten seconds to curtain!\" I was up before she could countdown to nine.",
+    "zh-TW": "平常喜歡的放鬆方式？如果是別人來問，那肯定要回答「聽音樂」之類的安全選項啦。其實我更喜歡睡覺，經常一睡就是十幾個小時，有一次把新來的工作人員都嚇到了，她當時完全叫不醒我……還好那天我的經紀人在，直接衝進來大喊了一聲「演出十秒後開始——」，然後還沒等她數到九，我就醒了。",
+    "zh-CN": "平时喜欢的放松方式？如果是别人来问，那肯定要回答“听音乐”之类的安全选项啦。其实我更喜欢睡觉，经常一睡就是十几个小时，有一次把新来的工作人员都吓到了，她当时完全叫不醒我……还好那天我的经纪人在，直接冲进来大喊了一声“演出十秒后开始——”，然后还没等她数到九，我就醒了。",
+    "ja": "リラックス方法？他の人になら「歌とか聴いてます」って無難な答えにするけど……ほんとは、寝るのがいちばん最高って言いたい！10時間以上寝るのも普通だし、新人のスタッフさんに「何やっても起きない」って焦らせちゃったこともあったなぁ……その日はたまたまマネージャーがいて「本番10秒前――！」って叫んでくれたから、一瞬で起きれたんだよ～。",
+    "ko": "평소에는 뭐 하면서 쉬냐고? 음... 다른 사람이 물어보면 '음악 감상' 같은 모범 답안을 하겠지만, 사실 난 자는 게 제일 좋아. 한 번 누우면 열 시간도 넘게 잘 수 있거든. 언제는 새로 온 스태프가 날 깨우러 왔는데, 무슨 짓을 해도 내가 깨질 않으니까, 문제가 생긴 건 아닌지 걱정했던 적도 있어. 근데 스태프랑 같이 왔던 매니저가 '공연 10초 전, 스탠바이!'라고 소리치니까, 1초도 안 돼서 내가 벌떡 일어났다는 거 있지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "A former staff member wrote to me this month. He felt guilty for staying silent while a sponsor flat-out accused me of something I never did. But I never blamed him... He chose silence because he needed the money for his family — like so many others struggling to get by. Who are we to blame them?",
+    "zh-TW": "這個月我收到了上家事務所一位工作人員寄來的信件……他在信上說自己已經離職，想為之前在贊助商平白指責時沒有維護我而道歉。但我其實沒有怪過他。畢竟……他也只是為了那點養家的薪水才被迫選擇那麼做——和那些生活艱難的人們一樣，沒有誰是應該被責備的。",
+    "zh-CN": "这个月我收到了上家事务所一位工作人员寄来的信件……他在信上说自己已经离职，想为之前在赞助商平白指责时没有维护我而道歉。但我其实没有怪过他。毕竟……他也只是为了那点养家的薪水才被迫选择那么做——和那些生活艰难的人们一样，没有谁是应该被责备的。",
+    "ja": "今月、前の事務所のスタッフさんから手紙が来たの。今はもう退職したってことと、スポンサーに理不尽に詰められたとき、リーノを庇えなくてごめんねって書いてあった。でも、謝る必要なんか全然ないのに……家族を養うためにはお給料が必要だし、そうするしかないときだってあるのに――ほんとに全然、いいのにね。",
+    "ko": "얼마 전에, 전 소속사 스태프분이 보낸 편지를 받았어. 지금은 퇴사하셨다더라고. 예전에 후원사가 날 이유 없이 비난할 때, 제대로 같은 편에 서 주지 못했던 게 마음에 걸렸다나 봐... 근데 난 미워한 적도, 원망한 적도 없거든. 결국... 하루하루 열심히 살아가는 사람 중 한 명일 뿐이잖아. 생계를 위해 그런 선택을 할 수밖엔 없다는 거, 이해해. 그래서 난... 이 세상에 원망받아 마땅한 사람은 없다고 생각해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_about_line01",
+   "title": {
+    "en": "Topic: TGCC",
+    "zh-TW": "話題：環塔商會",
+    "zh-CN": "话题：环塔商会",
+    "ja": "環タロ商会について",
+    "ko": "상업연합회에 관하여"
+   },
+   "text": {
+    "en": "I used to be fine with all those TGCC practices and rules. But experience and learning that there isn't a single truth to life, I realized that — even TGCC people can choose to live their own way. Even for traditional stageshows, an idol can still deliver the performance with their own style.",
+    "zh-TW": "一開始，我不怎麼反感商會的那些條條框框。但當我見過了更多的人，經歷了更多的事，發現生活的真相不止一種的時候，我才意識到——原來就算是在商會的地盤，人們也未必只有一種活法；原來就算是在傳統的舞台上，偶像也未必只有一種演出方式。",
+    "zh-CN": "一开始，我不怎么反感商会的那些条条框框。但当我见过了更多的人，经历了更多的事，发现生活的真相不止一种的时候，我才意识到——原来就算是在商会的地盘，人们也未必只有一种活法；原来就算是在传统的舞台上，偶像也未必只有一种演出方式。",
+    "ja": "最初は商会の決まりごとだからって全部受け入れてたけど……いろんな人に会って、いろんな経験をして、「決まった人生」なんてない、商会にいたって、生き方が決められてるわけじゃないってわかった。どんな舞台に立ってたって、アイドルのステージにだって、決まりごとなんてないんだよ。",
+    "ko": "처음에는 상업연합회의 여러 규칙을 딱히 싫어하진 않았어. 세상이 원래 그런 줄 알았으니까. 하지만 많은 사람을 만나고, 다양한 일을 겪으면서 삶에 정답이 하나만 있는 건 아니라는 걸 알게 됐지. 상업연합회에서도 꼭 한 가지 방식으로만 살아갈 필요는 없다는 걸. 연예계라는 전통적인 시스템 안에서도 아이돌의 길이 하나로만 정해져 있는 게 아니라는 걸 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_about_line02",
+   "title": {
+    "en": "Topic: Idol Singer",
+    "zh-TW": "話題：偶像",
+    "zh-CN": "话题：偶像",
+    "ja": "アイドルについて",
+    "ko": "아이돌에 관하여"
+   },
+   "text": {
+    "en": "Endmin, what do you think an \"idol\" really is? I suppose everyone has their own answer. For me, an \"idol\" is a ship that carries hope, and she must sail high enough to earn the right to fulfill her \"duty\"... And \"my\" dream has always been to sail Liino the Ship and reach the highest peak of Talos-II. There, I'll do my absolute best to illuminate every wish she carries.",
+    "zh-TW": "管理員，你覺得「偶像」是怎樣的存在呢？我想，在每個人心裡肯定都有一個屬於自己的答案吧？至少對我來說，所謂的「偶像」只是一艘承載願望的航船，只有航行到足夠高的地方，才有履行「職責」的資格……而「我」一直以來的願望都是——將名為「梨諾」的航船開往塔衛二的最高處，努力去照亮她承載的每一個願望。",
+    "zh-CN": "管理员，你觉得“偶像”是怎样的存在呢？我想，在每个人心里肯定都有一个属于自己的答案吧？至少对我来说，所谓的“偶像”只是一艘承载愿望的航船，只有航行到足够高的地方，才有履行“职责”的资格……而“我”一直以来的愿望都是——将名为“梨诺”的航船开往塔卫二的最高处，努力去照亮她承载的每一个愿望。",
+    "ja": "管理人にとって、「アイドル」ってどんな存在？いろんな答えがあると思うんだけど……リーノが思うアイドルは、「みんなの願いを乗せた船」。でも、ず～っと高いとこまで行かないと、「役目」を果たす資格もない……だから、「リーノ」はタロⅡのいっちばん高くまで上る船になって、運んだぜ～んぶの願いを絶対照らしてあげたいんだ。",
+    "ko": "관리자, 넌 '아이돌'이 어떤 존재라고 생각해? 아마 각자의 마음속에 자기만의 답이 있겠지? 나한테 '아이돌'이란, 소원을 실은 배 같은 존재야. 저 높은 곳까지 올라가야만 하는, 그래야만 누군가의 소원을 책임질 자격이 생기는 배... 그래서 난, '리노'라는 배를 탈로스 II 최고의 자리까지 끌어올릴 거야. 그리고 그 배가 실은 모든 소원이 빛나게 해주고 싶어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_about_line03",
+   "title": {
+    "en": "Topic: Music Games",
+    "zh-TW": "話題：音樂遊戲",
+    "zh-CN": "话题：音乐游戏",
+    "ja": "音楽ゲームについて",
+    "ko": "리듬 게임에 관하여"
+   },
+   "text": {
+    "en": "Eh? Don't you think music games are a great way to de-stress? Even when I'm at my busiest, I still love squeezing in a few ultra-hard challenges in the brief moments of free time. I can't perfectly hit every note, but completing a stage just feels great! I'm not great at vertical scrollers, though. Single-tracks like Diro Master or Rhythm Party are what I like!",
+    "zh-TW": "欸？你不覺得玩音樂遊戲是一種很棒的紓壓方式嗎？像我的話，就習慣在通告最密集的空隙打一些高難度的譜面。就算拿不到全完美判定，打完時也會有種神清氣爽的感覺！不過我不太擅長下落式，還是習慣玩單軌的那種啦！比如《二郎達人》和《律動派對》，我都很喜歡！",
+    "zh-CN": "欸？你不觉得玩音乐游戏是一种很棒的解压方式吗？像我的话，就习惯在通告最密集的空隙打一些高难度的谱面。就算拿不到全完美判定，打完时也会有种神清气爽的感觉！不过我不太擅长下落式，还是习惯玩单轨的那种啦！比如《二郎达人》和《律动派对》，我都很喜欢！",
+    "ja": "ね、音ゲーって最高のストレス解消法じゃない？リーノはね、スケジュールがギチギチに詰まってるときの隙間時間に、あえてハードモードに挑戦するのが好きなんだよ～。フルコンできなくても、やるだけですっきりするの！落ちてくる系は苦手で、横に流れるのがいいんだ。『JIRO MASTER』とか『リズムパーティー』が好き～！",
+    "ko": "리듬 게임은 진짜 스트레스 해소에 좋은 것 같아, 안 그래? 난 일정이 많아서 지칠 때 고난도 곡을 플레이하는 편이거든. 퍼펙트 클리어를 못 해도, 끝내고 나면 뭔가 개운한 기분이 든다니까? 근데 떨어지는 노트를 맞추는 건 잘 못해서, 단일 트랙으로 진행되는 걸 자주 하는 편이야. <지로의 달인>이나, <리듬 파티> 같은 거?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_about_line04",
+   "title": {
+    "en": "Topic: Djall",
+    "zh-TW": "話題：笞心魔",
+    "zh-CN": "话题：笞心魔",
+    "ja": "ジャールについて",
+    "ko": "디얄에 관하여"
+   },
+   "text": {
+    "en": "Mother warned me as a girl. The minds of others can be very enticing for Djalls. While whipping their hearts, I must never neglect to whip my own... Reading a hidden secret from people is just as easy as taking a drink of water for us. We don't even have to work for it. And that's why we often forget that people don't feel happy about having their souls laid bare.",
+    "zh-TW": "母親在我很小的時候就告誡過我——「笞心魔」是很容易貪食他人心靈的一族，在嘗試鞭笞他人心靈的時候，也千萬不要忘記鞭笞自己的心……對於笞心魔而言，瞭解他人藏在心裡的秘密就像吃飯喝水一樣尋常，無須刻意便能輕鬆做到。於是我們總是容易忘記，忘記對於他人而言，被隨意探知內心從來不是件開心的事。",
+    "zh-CN": "母亲在我很小的时候就告诫过我——“笞心魔”是很容易贪食他人心灵的一族，在尝试鞭笞他人心灵的时候，也千万不要忘记鞭笞自己的心……对于笞心魔而言，了解他人藏在心里的秘密就像吃饭喝水一样寻常，无须刻意便能轻松做到。于是我们总容易忘记，忘记对于他人而言，被随意探知内心从来不是件开心的事。",
+    "ja": "小さい頃からママが言ってた――「ジャールは人の心を簡単に貪ることができる、人の心に鞭を入れるなら、自分自身の心にも鞭を打ちなさい」って。ジャールにとって心の奥に隠してある秘密を知るのは、呼吸するのとおんなじくらい、普通で簡単なこと。だから、つい忘れちゃう……心の中を勝手に覗かれるのを、嬉しいって思う人なんかいないのにね。",
+    "ko": "우리 엄마는 내가 어릴 때 이런 말을 해준 적이 있어. '디얄은 다른 사람의 마음을 쉽게 탐닉하는 종족이니, 다른 사람의 마음을 채찍질하기 전에 자신의 마음을 채찍질할 줄 알아야 한다'라고... 디얄한테 남의 비밀을 알아내는 건, 숨 쉬는 것처럼 쉬운 일이거든. 노력하지 않아도 자연스럽게 알 수 있을 정도로 말이야. 그래서 우린 자주 잊어버리곤 해. 다른 사람들은 누가 자기 속마음을 들여다보면 별로 안 좋아한다는 걸."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_about_line05",
+   "title": {
+    "en": "Topic: La Fantoma",
+    "zh-TW": "話題：菈梵朵瑪",
+    "zh-CN": "话题：菈梵朵玛",
+    "ja": "ラヴァンドマについて",
+    "ko": "라반도르마에 관하여"
+   },
+   "text": {
+    "en": "Day one of that Obsidian Festival was the last time I went out with my parents. The beautiful sunset dyed the city's fringes red. I pointed to a girl holding a mic on the most visible poster on a skyscraper and asked my mom: \"Mama, can I ever become someone like her?\" Mom smiled, patted my head, and encouraged me for the first time. \"It'll happen. If little Liino puts her heart into it, she'll become the most radiant star of La Fantoma.\"",
+    "zh-TW": "父母最後一次帶我出門的那天，是當年那屆黑曜石音樂節的第一日。夕陽很美，餘暉染紅了城市的邊緣，而我望著大樓上最醒目的宣傳海報，指著上面拿著麥克風的女孩子問母親：「媽媽，我什麼時候也能像她一樣？」母親笑著摸了摸我的頭，第一次這樣鼓勵我：「會有那一天的。只要梨諾願意，一定會成為菈梵朵瑪最耀眼的那顆星。」",
+    "zh-CN": "父母最后一次带我出门的那天，是当年那届黑曜石音乐节的第一日。夕阳很美，余晖染红了城市的边缘，而我望着大楼上最醒目的宣传海报，指着上面拿着麦克风的女孩子问母亲：“妈妈，我什么时候也能像她一样？”母亲笑着摸了摸我的头，第一次这么鼓励我：“会有那一天的。只要梨诺愿意，一定会成为菈梵朵玛最耀眼的那颗星。”",
+    "ja": "パパとママが最後にリーノを連れてってくれたのは、その年の黒曜石祭の初日。夕焼けがきれいで、街が真っ赤に染まってた……ビルの大きなポスターが目に入って、マイクを持った女の子を指差しながら「リーノもあの子みたいになれる？」ってママに聞いたの。ママは頭を撫でて――「必ずなれるわ、リーノならラヴァンドマで一番輝く星に」って……あんなふうに言われたの、初めてだった。",
+    "ko": "부모님이 마지막으로 날 데리고 외출했던 날은 옵시디언 뮤직 페스티벌이 시작된 첫날이었어. 정말 아름다운 노을이 도시의 경계를 붉게 물들였지. 그때 내 눈에 들어온 건, 한 건물 외벽에 걸린 마이크를 든 소녀의 포스터였어. 그때 난 엄마한테 '엄마, 난 언제쯤 저렇게 될 수 있어?'라고 물었지. 그랬더니 엄마가 내 머리를 쓰다듬으며 이렇게 말했어. '언젠간 꼭 그런 날이 올 거야. 우리 리노가 라반도르마에서 가장 눈부신 별이 될 날이 말이야.'"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "There's something over there... I can't take my eyes off it!",
+    "zh-TW": "那邊應該有什麼……好讓人在意！",
+    "zh-CN": "那边应该有什么……好让人在意！",
+    "ja": "あっちに何かあって……気になるかも？",
+    "ko": "저기 뭔가 있는 것 같은데... 으, 너무 신경 쓰여!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Eh? That looks expensive... Maybe we're about to strike it rich?",
+    "zh-TW": "咦？好像發現了很貴重的東西……說不定能大賺一筆？",
+    "zh-CN": "咦？好像发现了很贵重的东西……说不定能大赚一笔？",
+    "ja": "あれれ～？すっごい高そうじゃない？ワンチャン、大金持ち……？",
+    "ko": "어? 이거 되게 귀한 거 아니야? 꽤 비싸겠는데!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "A brand new place! Fingers crossed. Hope we get surprised with something interesting.",
+    "zh-TW": "是之前沒來過的地方！嗯，希望能遇到一點有趣的東西。",
+    "zh-CN": "是之前没来过的地方！唔，希望能遇到一点有趣的东西。",
+    "ja": "こんなとこ初めて～！楽しいこといっぱいだといいな！",
+    "ko": "처음 와보는 곳이네! 재밌는 게 있었으면 좋겠다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Oh my, looks like an uninvited big meanie just barged in!",
+    "zh-TW": "哎呀，好像有沒被邀請的大傢伙出場了！",
+    "zh-CN": "哎呀，好像有没被邀请的大家伙出场了！",
+    "ja": "ちょっと～！飛び入りゲストなんて聞いてないんだけど～？",
+    "ko": "음, 저런 친구는 초대한 적이 없는데."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Whoa. I only saw these minerals in encyclopedias...",
+    "zh-TW": "哇，這樣的礦物我只在百科全書上看過……",
+    "zh-CN": "哇，这样的矿物我只在百科全书上见过……",
+    "ja": "すご～い！こんな鉱物、図鑑でしか見たことないよ〜！",
+    "ko": "와, 이 광물은 책에서만 봤어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Hee hee. Time to collect some special mo-cap data!",
+    "zh-TW": "哼哼，是時候收集一些特別的動作素材了。",
+    "zh-CN": "哼哼，是时候收集一些特别的动作素材了。",
+    "ja": "へへっ！みんなのスペシャルアクションタ～イム！",
+    "ko": "음, 안무 소재를 수집할 때가 된 건가?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "What a find! I'd say this earns a ten-spotlight solo!",
+    "zh-TW": "好棒的收穫！值得為它追加十個聚光燈！",
+    "zh-CN": "好棒的收获！值得为它追加十个聚光灯！",
+    "ja": "うん！スポットライト10個追加。お願いしま～す！",
+    "ko": "우와! 이 정도면 모두의 이목을 끌 수 있겠는데?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Whoa. Aurylenes are actually super sparkly! Bet it's worth a fortune...",
+    "zh-TW": "欸？真正的醚質原來這麼閃亮嗎！應該會很值錢……",
+    "zh-CN": "欸？真正的醚质原来这么闪亮吗！应该会很值钱……",
+    "ja": "え？オーリレンてこんなピカピカなんだ！転売したら高く売れる……？",
+    "ko": "어? 오리렌이 원래 이렇게 반짝이는 거야? 엄청 비쌀 거 같아..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Everything around here feels ... revolting. I refuse to perform in a place like this!",
+    "zh-TW": "附近的一切都讓人不舒服……我可不要在這種地方演出！",
+    "zh-CN": "附近的一切都让人不舒服……我可不要在这种地方演出！",
+    "ja": "この辺、空気悪いよ～……ここでライブなんて絶対ムリ！",
+    "ko": "여긴 너무 불편해... 이런 곳에서는 절대 공연 안 해! 아니, 못해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Is it break time yet? Whew, I need some water! Give me a moment!",
+    "zh-TW": "現在算是幕間休息時間？呼，讓我先喝幾口水！馬上就好！",
+    "zh-CN": "现在算是幕间休息时间？呼，让我先喝几口水！马上就好！",
+    "ja": "今って幕間？ふーっ、すぐ戻るから！",
+    "ko": "이제 좀 쉬어도 되지? 휴, 물 좀 마시고 올게! 잠깐이면 돼!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "I got your back!",
+    "zh-TW": "馬上來幫你！",
+    "zh-CN": "这就来帮你！",
+    "ja": "今助けに行く！",
+    "ko": "지금 갈게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "So warm and cozy...",
+    "zh-TW": "好溫暖的感覺……",
+    "zh-CN": "好温暖的感觉……",
+    "ja": "なんだかあったかいな……",
+    "ko": "아주 포근한 느낌이야..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_remind_danger_01",
+   "title": {
+    "en": "Warning Teammate",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Get down! Don't force yourself!",
+    "zh-TW": "快躲開！別硬撐！",
+    "zh-CN": "快躲开！可别硬撑！",
+    "ja": "危ない！無理したらダメ！",
+    "ko": "무리하지 말고, 얼른 피해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Ngh... Such a clumsy flaw...",
+    "zh-TW": "嗚，這種小瑕疵……",
+    "zh-CN": "呜，这种小瑕疵……",
+    "ja": "うっ……これくらいのノイズ……",
+    "ko": "윽, 이 정도는..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Not fair... I was so close...",
+    "zh-TW": "不甘心……明明再撐一下就……",
+    "zh-CN": "不甘心……明明再撑一下就……",
+    "ja": "悔しい……ほんとにあと少しで……",
+    "ko": "하아... 조금만 더 버텼으면..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Whoa! I have to see that again!",
+    "zh-TW": "哇，好想再看一次！",
+    "zh-CN": "哇，好想再看一次！",
+    "ja": "すごい！もう一回やってよ～！",
+    "ko": "우와, 한 번 더 보여줘!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "When will I be able to move like you all?",
+    "zh-TW": "什麼時候能像你們一樣……",
+    "zh-CN": "什么时候能像你们一样……",
+    "ja": "そのうち、みんなみたいに……",
+    "ko": "난 언제 너희처럼 할 수 있을까..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Join me on stage for the next concert!",
+    "zh-TW": "下次再一起共演吧！",
+    "zh-CN": "下回再一起共演吧！",
+    "ja": "また一緒に歌ってね～！",
+    "ko": "다음에 같이 공연하자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "I'm in sync with the team!",
+    "zh-TW": "和大家更有默契了！",
+    "zh-CN": "和大家更有默契了！",
+    "ja": "みんなと声も合ってきた！",
+    "ko": "호흡이 더 잘 맞는 것 같아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Okay, let's do this! Twinkle-twinkle!",
+    "zh-TW": "呼……就這樣上吧！Twinkle-twinkle！",
+    "zh-CN": "呼……就这么上吧！Twinkle-twinkle！",
+    "ja": "えっと……よし！キラキラ、トゥインクル〜！",
+    "ko": "후우... 그래, 가보는 거야! 트윙클 트윙클!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Let's cross-out these sour notes!",
+    "zh-TW": "一起清除「不和諧音」！",
+    "zh-CN": "一起清除“不和谐音”！",
+    "ja": "「不協和音」はステージに不要！",
+    "ko": "자, 이제 저 잡음들을 치워볼까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Told you I'm bad at fighting... Wait? We actually won?",
+    "zh-TW": "都說了我不擅長了……欸？結束了嗎？",
+    "zh-CN": "都说了我不擅长了……欸？结束了吗？",
+    "ja": "苦手だって言ったのに……あれ？もう終わったの？",
+    "ko": "나 이런 거 잘 못한다고 얘기했는데... 응? 벌써 끝났어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "A flawless curtain call! I knew we had this in the bag.",
+    "zh-TW": "圓滿的謝幕！這也在我的預期內。",
+    "zh-CN": "圆满的谢幕！这也在我的预期内。",
+    "ja": "エンディングも完璧！やっぱハマったね！",
+    "ko": "완벽한 마무리야! 흠흠, 내 예상대로네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Not bad! You actually kept up with my tempo!",
+    "zh-TW": "不賴嘛，竟然跟上了我的節奏！",
+    "zh-CN": "不赖嘛，竟然跟上了我的节奏！",
+    "ja": "へへんっ、リズムについて来れるなんてね～？",
+    "ko": "꽤 하잖아? 내 리듬을 따라오다니."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "Take a proper break for the next performance! No worries. I'll whip everyone into a riot!",
+    "zh-TW": "為了能在下次「演出」發揮得更出色，先好好休息一下吧！放心，我會讓大家打起精神的！",
+    "zh-CN": "为了能在下次“演出”发挥得更出色，先好好休息一下吧！放心，我会让大家打起精神的！",
+    "ja": "次のライブではもっといいパフォーマンス見せなきゃ。まずはしっかり休んで……大丈夫、リーノがみんなを元気にしてあげる！",
+    "ko": "다음 '공연'에서 빛나려면 충분한 휴식이 필수야! 걱정하지 마, 내가 모두 힘낼 수 있게 해줄 테니까!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Was I not bright enough? No... I won't allow such a dismal finale...",
+    "zh-TW": "是我還不夠閃耀嗎？不，不可能……我絕不接受這種結果……",
+    "zh-CN": "是我还不够闪耀吗？不，不可能……我绝不接受这种结果……",
+    "ja": "リーノのキラキラが足りなかったから？そんなはずない……こんな結果あり得ない……",
+    "ko": "내가 부족한 걸까? 아냐, 그럴 리 없어... 이런 결과는 절대..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Buh-byez!",
+    "zh-TW": "再見啦！",
+    "zh-CN": "再见啦！",
+    "ja": "バイバ～イ！",
+    "ko": "잘 가!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Fall!",
+    "zh-TW": "墜落吧！",
+    "zh-CN": "坠落吧！",
+    "ja": "落ちちゃえ～！",
+    "ko": "떨어져!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "This is for you all!",
+    "zh-TW": "獻給所有人！",
+    "zh-CN": "献给所有人！",
+    "ja": "みんなに捧げるよ！",
+    "ko": "모두의 덕분이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Ears on me!",
+    "zh-TW": "由我歌唱！",
+    "zh-CN": "由我歌唱！",
+    "ja": "リーノが歌う番！",
+    "ko": "내가 노래할게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Here's my verse!",
+    "zh-TW": "奏響我的旋律！",
+    "zh-CN": "奏响我的旋律！",
+    "ja": "響け！リーノの旋律！",
+    "ko": "선율이여, 울려 퍼져라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Time for me to give back!",
+    "zh-TW": "該回應大家了！",
+    "zh-CN": "该回应大家了！",
+    "ja": "みんなの気持ちに応えるよ！",
+    "ko": "모두에게 대답할 차례네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "The stage is calling!",
+    "zh-TW": "舞台在呼喚我！",
+    "zh-CN": "舞台在呼唤我！",
+    "ja": "ステージが呼んでる！",
+    "ko": "무대가 날 부르고 있어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Return of the Morning Star!",
+    "zh-TW": "晨星再臨！",
+    "zh-CN": "晨星再临！",
+    "ja": "綺羅星・オンステージ！",
+    "ko": "새벽 별이 찾아왔어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "The show goes on!",
+    "zh-TW": "演出繼續！",
+    "zh-CN": "演出继续！",
+    "ja": "まだまだ行くよ～！",
+    "ko": "무대는 이어질 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "You missed a beat!",
+    "zh-TW": "竟敢分心？",
+    "zh-CN": "竟敢走神？",
+    "ja": "よそ見、厳禁！",
+    "ko": "한눈팔았다, 이거지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Your show's over!",
+    "zh-TW": "還不退場？",
+    "zh-CN": "还不退场？",
+    "ja": "退場時間過ぎてるよ？",
+    "ko": "이래도 버틸거야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Time to spark joy in every heart!",
+    "zh-TW": "由我點亮每一顆心！",
+    "zh-CN": "由我点亮每一颗心！",
+    "ja": "みんなの心、リーノが照らす！",
+    "ko": "모든 사람의 마음을 밝혀줄게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Don't blink! The star is rising!",
+    "zh-TW": "見證星光的閃耀！",
+    "zh-CN": "见证星光的闪耀！",
+    "ja": "これが星のキラめきだよ！",
+    "ko": "반짝이는 별빛을 보라고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0035_liino_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Let's fill the world with shine!",
+    "zh-TW": "為世界送上璀璨！",
+    "zh-CN": "为世界送上璀璨！",
+    "ja": "キラキラを世界に届けてあげる！",
+    "ko": "이 세상에 찬란함을!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0035_liino_14001",
+   "topic": {
+    "en": "Dijiang Holiday",
+    "zh-TW": "帝江號假日",
+    "zh-CN": "帝江号假日",
+    "ja": "帝江号の休日",
+    "ko": "제강호의 휴일"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "(≧∀≦*)ﾉTwinkle-twinkle!",
+      "zh-TW": "(≧∀≦*)ﾉTwinkle-twinkle！",
+      "zh-CN": "(≧∀≦*)ﾉTwinkle-twinkle!",
+      "ja": "(≧∀≦*)ﾉキラキラ、トゥインクル",
+      "ko": "(≧∀≦*)ﾉ 트윙클 트윙클!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Endmin, it's been sooo long! Did you miss Liino?",
+      "zh-TW": "管理員，這麼久沒見，有沒有很想念我啊？",
+      "zh-CN": "管理员，这么久没见，有没有很想念我呀？",
+      "ja": "管理人、久しぶり～！リーノに会えなくて淋しかったよね？",
+      "ko": "관리자, 이렇게 오래 못 봤는데, 나 안 보고 싶었어?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "We literally saw each other yesterday.",
+         "zh-TW": "嗯……我們昨天不是才見過嗎？",
+         "zh-CN": "唔，我们昨天不是才见过吗？",
+         "ja": "昨日会ったばかりだよね。",
+         "ko": "음, 우리 어제도 봤던 것 같은데?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Liino",
+         "zh-TW": "梨諾",
+         "zh-CN": "梨诺",
+         "ja": "リーノ",
+         "ko": "리노"
+        },
+        "text": {
+         "en": "Yeah! That's like foreverrr in Liino time!",
+         "zh-TW": "對梨諾而言，一天就已經是很久很久啦！",
+         "zh-CN": "对梨诺而言，一天就已经是很久很久啦！",
+         "ja": "リーノにとっては、1日だってすっごく長いんだよ",
+         "ko": "리노한테는 하루도 엄청 긴 시간이란 말이야!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Okay, so ... is there something you need my help with?",
+         "zh-TW": "好吧，所以……是又遇到什麼問題了嗎？",
+         "zh-CN": "好吧，所以……是又遇到什么问题了吗？",
+         "ja": "なるほどね……ところで、何かあったの？",
+         "ko": "그래... 그래서 또 무슨 일이라도 생긴 거야?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Just a little...?",
+         "zh-TW": "好像是有一點……",
+         "zh-CN": "好像是有一点……",
+         "ja": "うん、少しは……",
+         "ko": "조금 보고 싶었던 것 같기도 하고..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Liino",
+         "zh-TW": "梨諾",
+         "zh-CN": "梨诺",
+         "ja": "リーノ",
+         "ko": "리노"
+        },
+        "text": {
+         "en": "Anyway, I texted you right away because I missed you too! We're totally connected heart to heart (≧∀≦*)ﾉ",
+         "zh-TW": "我也一樣哦！所以就馬上Baker給管理員了嘛！我們果然心心相印！(≧∀≦*)ﾉ",
+         "zh-CN": "我也一样哦！所以就马上给管理员发Baker了嘛！我们果然心心相印！(≧∀≦*)ﾉ",
+         "ja": "リーノとおんなじだ！だからBakerしたんだよ～(≧∀≦*)ﾉ",
+         "ko": "나도! 그래서 바로 이렇게 관리자한테 Baker 보낸 거잖아~! 역시 우린 마음이 잘 통한다니까! (≧∀≦*)ﾉ"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You need help with something again, don't you.",
+         "zh-TW": "然後？是不是又有什麼事想找我幫忙了？",
+         "zh-CN": "然后？是不是又有什么事想找我帮忙了？",
+         "ja": "それで、何か頼みたいことでもあるのかな。",
+         "ko": "그래서? 또 나한테 부탁할 일이라도 생긴 거야?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Heehee, you caught me! So here's the thing. I finally made it onto Dijiang, but I don't really know anything here...",
+      "zh-TW": "嘿嘿，被管理員發現啦！是這樣的，這幾天我總算到了帝江號，但感覺什麼都不太瞭解……",
+      "zh-CN": "嘿嘿，被管理员发现啦！是这样的，这几天我总算到了帝江号，但感觉什么都不太了解……",
+      "ja": "あ、やっぱバレちゃった！リーノ、や～っと帝江号に来れたんだけど、まだなんにもわかんなくって……",
+      "ko": "헤헤, 들켰네! 별건 아니고, 내가 제강호에 온 지 얼마 안 됐는데... 도통 어디가 어딘지 잘 모르겠어서..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Soooo, tell me, what's something I absolutely shouldn't miss? Any recommendations?",
+      "zh-TW": "管理員，你覺得這裡有什麼地方是最值得參觀，一定不能錯過的呢？可以幫我推薦一下嗎？",
+      "zh-CN": "管理员，你觉得这里有什么地方是最值得参观，一定不能错过的呢？可以给我推荐一下吗？",
+      "ja": "絶対チェックしといたほうがいい場所ってある？おすすめがあるなら教えてほしいな～って。",
+      "ko": "관리자는 여기서 꼭 가봐야 하는 곳이 어디라고 생각해? 추천 좀 해줄 수 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Or hey, just come hang out with me if you can't think of anything. Liino always makes time for you!",
+      "zh-TW": "如果一時想不到的話，也可以直接來找我一起到處逛逛哦！我會專門安排好時間的！",
+      "zh-CN": "如果一时想不到的话，也可以直接来找我一起到处转转哦！我会专门安排好时间的！",
+      "ja": "すぐ思いつかなかったら、リーノと一緒に回って考えてくれてもいいんだよ。リーノ、それなら時間作る！",
+      "ko": "바로 떠오르는 게 없으면, 그냥 직접 나랑 같이 구경 다녀도 되는데! 시간은 내가 따로 비워둘게~!"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You can check out the Growth Chamber.",
+         "zh-TW": "培養艙應該是個好選擇。",
+         "zh-CN": "培养舱应该是个好选择。",
+         "ja": "培養室はどうだろう。",
+         "ko": "재배실이 괜찮을 것 같아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "It's got lots of rare plants we collected from everywhere. Definitely worth seeing.",
+         "zh-TW": "裡面有很多珍稀植物，都是我們從各地收集回來的，非常有觀賞價值。",
+         "zh-CN": "里面有很多珍稀植物，都是我们从各地收集回来的，非常有观赏价值。",
+         "ja": "珍しい植物をたくさん集めているからね。見る価値はあると思うよ。",
+         "ko": "희귀한 식물들이 엄청 많거든. 여기저기서 수집해 온 거라 구경할 맛이 날 거야."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Liino",
+         "zh-TW": "梨諾",
+         "zh-CN": "梨诺",
+         "ja": "リーノ",
+         "ko": "리노"
+        },
+        "text": {
+         "en": "OHHHH! That actually sounds pretty nice!",
+         "zh-TW": "欸？原來還有這樣的地方嗎？聽起來很不錯呢！",
+         "zh-CN": "欸？原来还有这样的地方吗？听起来很不错呢！",
+         "ja": "え～！そんな場所あるなんて知らなかった！行ってみたい！",
+         "ko": "오? 그런 곳이 있었어? 듣기만 해도 재밌겠는데~!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Liino",
+         "zh-TW": "梨諾",
+         "zh-CN": "梨诺",
+         "ja": "リーノ",
+         "ko": "리노"
+        },
+        "text": {
+         "en": "But ... it'd be way more fun if someone knowledgeable could take me there and explain things, don't you think?",
+         "zh-TW": "不過呢，在這如同植物園一樣的地方參觀，如果有個瞭解的人能幫忙解說一下……一定會更有氣氛吧？",
+         "zh-CN": "不过呢，在这如同植物园一样的地方参观，如果有个了解的人能帮忙解说一下……一定会更有氛围吧？",
+         "ja": "でも、植物園？なら……詳しい人がそばで解説、みたいなほうがも～っと楽しいかも？",
+         "ko": "근데 그런 식물원 같은 곳은... 잘 아는 사람이 옆에서 설명까지 해주면 분위기가 훨씬 좋지 않을까?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I'd recommend the Reception Room.",
+         "zh-TW": "我會推薦會客室。",
+         "zh-CN": "我会推荐会客室。",
+         "ja": "応接室がいいと思うよ。",
+         "ko": "그럼 응접실을 추천할게."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "There's a display wall with all kinds of weapons. Weren't you saying you don't know much about this stuff? Good chance to learn.",
+         "zh-TW": "裡面有一面展示牆，陳列了各式各樣的武器。你不是說過不太瞭解這方面嗎？或許可以趁機瞭解一下。",
+         "zh-CN": "里面有一面展示墙，陈列了各种各样的武器。你不是说过不太了解这方面吗？或许可以趁机了解下。",
+         "ja": "壁に武器が飾ってあるんだ。武器にあまり詳しくないと言っていたから、いい機会なんじゃないかと思って。",
+         "ko": "전시 패널에 다양한 무기들이 진열돼 있거든. 너 예전에 이런 쪽은 잘 모른다고 했었잖아? 이번 기회에 좀 알아봐도 좋을 것 같아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Liino",
+         "zh-TW": "梨諾",
+         "zh-CN": "梨诺",
+         "ja": "リーノ",
+         "ko": "리노"
+        },
+        "text": {
+         "en": "Aww ... you actually remember what I said <3 Okay, the Reception Room does sound super interesting!",
+         "zh-TW": "沒想到我說過的話管理員都記得呢，好開心！嗯，聽起來確實是個很值得參觀的地方！",
+         "zh-CN": "没想到我说过的话管理员都记得呢，好开心！嗯，听起来确实是个很值得参观的地方！",
+         "ja": "リーノが言ったこと、ちゃんと覚えてくれてたんだ。すっごく嬉しい～！うん、確かに良さそう！",
+         "ko": "내가 했던 말까지 기억해 주고 있었다니, 괜히 기분 좋네~ 응, 확실히 가볼 만한 곳 같아!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Liino",
+         "zh-TW": "梨諾",
+         "zh-CN": "梨诺",
+         "ja": "リーノ",
+         "ko": "리노"
+        },
+        "text": {
+         "en": "But ... I heard every weapon on that wall has its own story. It'd be great if someone who knows them could give me a little tour!",
+         "zh-TW": "只是，我聽說這面牆上的武器好像都有一個屬於自己的故事？要是有知道的人可以現場講解一下……就太好啦！",
+         "zh-CN": "只是，我听说这面墙上的武器好像都有一个属于自己的故事？要是有知道的人可以现场讲解一下……就太好啦！",
+         "ja": "でも、その武器って確かいろんなストーリーがあるんだよね？詳しい人に直接教えてもらえたら、最高だなって。",
+         "ko": "근데 들어보니까, 거기 전시된 무기마다 다 각자 이야기가 있다던데? 그런 걸 현장에서 설명해 줄 사람이 있으면... 정말 최고일 것 같은데!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Right, Endmin?",
+      "zh-TW": "管理員，你說是不是啊？",
+      "zh-CN": "管理员，你说是不是呀？",
+      "ja": "ね、だよね？管理人もそう思うよね",
+      "ko": "관리자도 그렇게 생각하지 않아?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Seems like ... you really need someone to go with you?",
+         "zh-TW": "你好像……很需要一個同行者？",
+         "zh-CN": "你好像……很需要一个同行者？",
+         "ja": "もしかして……案内役が欲しいのかな。",
+         "ko": "음... 같이 가줄 사람이 필요한 것 같네?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Could it be...",
+         "zh-TW": "難道……",
+         "zh-CN": "难道……",
+         "ja": "まさか……",
+         "ko": "설마..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Liino",
+         "zh-TW": "梨諾",
+         "zh-CN": "梨诺",
+         "ja": "リーノ",
+         "ko": "리노"
+        },
+        "text": {
+         "en": "Eh? Do I?",
+         "zh-TW": "欸？有嗎？",
+         "zh-CN": "欸？有吗？",
+         "ja": "え？なんで～？",
+         "ko": "어? 내가?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Liino",
+         "zh-TW": "梨諾",
+         "zh-CN": "梨诺",
+         "ja": "リーノ",
+         "ko": "리노"
+        },
+        "text": {
+         "en": "I was just thinking...",
+         "zh-TW": "我只是想……",
+         "zh-CN": "我只是想……",
+         "ja": "リーノは、ただ……",
+         "ko": "나는 그냥..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sounds like ... you don't want to go alone?",
+         "zh-TW": "感覺……你好像不想一個人去？",
+         "zh-CN": "你似乎……不想一个人去？",
+         "ja": "1人で行きたくないの？",
+         "ko": "너 혹시... 혼자 가기 싫은 거야?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Don't tell me...",
+         "zh-TW": "莫非……",
+         "zh-CN": "莫非……",
+         "ja": "もしかして……",
+         "ko": "혹시..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Liino",
+         "zh-TW": "梨諾",
+         "zh-CN": "梨诺",
+         "ja": "リーノ",
+         "ko": "리노"
+        },
+        "text": {
+         "en": "No wayyy!",
+         "zh-TW": "怎麼可能！",
+         "zh-CN": "怎么可能！",
+         "ja": "そんなことないよ～！",
+         "ko": "그럴 리가!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Liino",
+         "zh-TW": "梨諾",
+         "zh-CN": "梨诺",
+         "ja": "リーノ",
+         "ko": "리노"
+        },
+        "text": {
+         "en": "I just kinda...",
+         "zh-TW": "我只是稍微……",
+         "zh-CN": "我只是稍微……",
+         "ja": "でも、リーノは……",
+         "ko": "난 그냥 좀..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I get it. You're shy about scouting venues alone, aren't you?",
+         "zh-TW": "我知道了。你是不是覺得一個人跑去找參考的演出場有點尷尬？",
+         "zh-CN": "我明白了。你是不是觉得一个人跑去给演出场地找参考有点尴尬？",
+         "ja": "わかったよ。1人でライブのアイディアを探しに行くのが気まずいんだね？",
+         "ko": "아, 알겠다. 공연 장소에 참고할 만한 자료를 찾는데 혼자 돌아다니긴 좀 민망했던 거지?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Don't worry. I'll go with you. Just like before.",
+         "zh-TW": "放心吧，我會和你同行的，之前不是也這樣嗎？",
+         "zh-CN": "放心吧，我会和你同行的，之前不也是这样吗？",
+         "ja": "大丈夫、一緒に行くよ。前もそうだったしね。",
+         "ko": "걱정 마, 같이 가줄게. 예전에도 그랬잖아."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You feel awkward going solo to scout ideas for your show, huh? Yeah, I figured.",
+         "zh-TW": "你一定是不好意思一個人找演出的參考元素吧？我懂的。",
+         "zh-CN": "你肯定是不好意思一个人找演出的元素参考吧？我懂的。",
+         "ja": "1人でライブのヒントを探すのが恥ずかしいんだよね。うん、わかっているよ。",
+         "ko": "혼자서 공연에 쓸만한 요소를 찾으러 다니긴 좀 부끄러웠던 거지? 이해해."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Don't worry. We'll go together. Like before.",
+         "zh-TW": "別擔心，我們一起去就行了，像之前那樣。",
+         "zh-CN": "别担心，我们俩一起去就行了，像之前那样。",
+         "ja": "大丈夫、2人で行こう。前みたいにね。",
+         "ko": "걱정 마, 예전처럼 우리 둘이 같이 가면 되지."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "!!!",
+      "zh-TW": "！！！",
+      "zh-CN": "！！！",
+      "ja": "！！！",
+      "ko": "!!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "So...",
+      "zh-TW": "所以……",
+      "zh-CN": "所以……",
+      "ja": "それって……",
+      "ko": "그럼..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Wait ... so you're actually gonna come with me?",
+      "zh-TW": "管理員的意思是……你答應跟我一起去參觀囉？",
+      "zh-CN": "管理员的意思是……你答应和我一起去参观咯？",
+      "ja": "管理人、リーノと一緒に回ってくれるってこと？",
+      "ko": "관리자 말은... 진짜 나랑 같이 가주겠다는 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Whaaat... You're agreeing just like that?? No catch??",
+      "zh-TW": "欸？欸？我真的沒理解錯？就這麼答應了嗎？沒別的條件嗎？",
+      "zh-CN": "欸？欸？我真的没理解错？就这么答应了吗？没别的条件吗？",
+      "ja": "え、ほんと？嘘ついてる？こんなあっさり？条件とか何もなしでいいの？",
+      "ko": "정말? 진짜로? 내가 잘못 이해한 거 아니지? 이렇게 바로 들어준다고? 다른 조건 같은 것도 없이?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Is there a problem?",
+         "zh-TW": "哪裡不對嗎？",
+         "zh-CN": "哪里不对吗？",
+         "ja": "何か変だったかな。",
+         "ko": "왜, 뭐 잘못됐어?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Yeah? Is that a problem?",
+         "zh-TW": "對的，是有什麼別的問題嗎？",
+         "zh-CN": "对的，是有什么别的问题吗？",
+         "ja": "うん。何か問題はある？",
+         "ko": "응, 왜? 무슨 문제라도 있어?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "No no!",
+      "zh-TW": "沒有沒有！",
+      "zh-CN": "没有没有！",
+      "ja": "ううん、全然！",
+      "ko": "아니 아니!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "It's just ... not what I thought you'd say...",
+      "zh-TW": "就是……跟之前以為的有點不一樣……",
+      "zh-CN": "就是……和之前以为的有点不一样……",
+      "ja": "でも、思ってたのとちょっと違くて……",
+      "ko": "그냥... 생각했던 반응이랑 조금 달라서..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Heehee, thanks, Endmin! You totally saw through me!",
+      "zh-TW": "哈哈，謝謝你，管理員！我的想法完全被看穿了呢！",
+      "zh-CN": "哈哈，谢谢你，管理员！我的想法完全被看穿了呢！",
+      "ja": "やっぱ管理人には、リーノの考え全部バレちゃってた～！",
+      "ko": "헤헤, 고마워 관리자! 내 생각을 완전 다 들켜버렸네~"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "You're absolutely right! Liino was just stressing over her show prep! Definitely not making excuses just to spend time with you!",
+      "zh-TW": "沒錯，梨諾就是為了準備演出才這麼糾結的！完全不是因為想讓管理員專門陪我才說這些的！",
+      "zh-CN": "没错，梨诺就是为了给演出做准备才这么纠结的！完全不是因为想让管理员专门陪我才说这些的！",
+      "ja": "うん、リーノはライブのことで悩んでたの。だから、管理人と一緒に見たいな～とか、全然そういうのじゃないからね！",
+      "ko": "맞아, 리노는 공연 준비 때문에 고민했던 거야! 절대로 관리자가 일부러 같이 있어 줬으면 해서 그런 거 아니라고!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "So pleaseeeee don't get the wrong idea, okay?",
+      "zh-TW": "管理員千萬千萬不要誤解喔！",
+      "zh-CN": "管理员千万千万不要误解哦！",
+      "ja": "ぜったい、ぜ～ったい、勘違いしないで",
+      "ko": "그러니까 관리자, 절~대 오해하면 안 돼!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Alright, see you later! I'll wait for you on the Bridge! (≧∀≦*)ﾉTwinkle-twinkle!",
+      "zh-TW": "到時候見啦！我會在艦橋那邊等你的！(≧∀≦*)ﾉTwinkle-twinkle！",
+      "zh-CN": "到时候见啦！我会在舰桥那边等你的！(≧∀≦*)ﾉTwinkle-twinkle！",
+      "ja": "じゃあ、あとでね！ブリッジで待ち合わせ、約束(≧∀≦*)ノ",
+      "ko": "그럼 나중에 봐~! 갑판 쪽에서 기다리고 있을게! (≧∀≦*)ﾉ 트윙클 트윙클!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0035_liino_14002",
+   "topic": {
+    "en": "New Song Inspiration",
+    "zh-TW": "新歌靈感",
+    "zh-CN": "新歌灵感",
+    "ja": "新曲のアイディア",
+    "ko": "신곡 영감"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Endmin, can you tell Liino ... is there any scenery you really love or can't forget?",
+      "zh-TW": "管理員，可以告訴梨諾……你有什麼非常難忘或者格外喜歡的景色嗎？",
+      "zh-CN": "管理员，可以告诉梨诺……你有什么非常难忘或者格外喜欢的景色吗？",
+      "ja": "管理人～！管理人的に、忘れられない景色とか、好きな景色ってあったりする？",
+      "ko": "관리자, 관리자가 여태 봤던 풍경 중에서, 정말 잊을 수 없거나 특히 좋아하는 풍경 같은 거 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "It can be anywhere you've been! Valley IV, Wuling, Dijiang ... anywhere is fine!",
+      "zh-TW": "從你去過的地方裡面挑就可以！像是四號谷地、武陵，還有帝江號……哪裡的景色都好！",
+      "zh-CN": "从你去过的地方里挑就可以！像是四号谷地、武陵，还有帝江号……哪里的景色都好！",
+      "ja": "今まで行った場所から選んでもいいよ！四号谷地でも、武陵でも、帝江号でも……どこでもOK！",
+      "ko": "가봤던 곳 중에서 골라주면 돼! 4번 협곡이나 무릉, 제강호... 뭐 어디든 좋아!"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Maybe the Aburrey Quarry at Valley IV?",
+         "zh-TW": "可能是四號谷地的阿伯莉採石場？",
+         "zh-CN": "可能是四号谷地的阿伯莉采石场？",
+         "ja": "四号谷地のアブリー採石場かな。",
+         "ko": "음... 4번 협곡의 아부레이 채석장?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "There's this huge crane there. Feels like it holds so many memories of the quarry's past ... something you don't forget once you've seen it.",
+         "zh-TW": "那裡有一架非常巨大的起重機，象徵了採石場的諸多過去……讓人很難忘記。",
+         "zh-CN": "那里有一架非常巨大的起重机，象征了采石场的诸多过去……让人很难忘记。",
+         "ja": "採石場の過去を象徴するような、とても大きなクレーンがあった……それが印象に残っているよ。",
+         "ko": "거기 엄청 큰 크레인이 하나 있는데, 채석장의 역사를 상징하는 느낌이라... 쉽게 잊혀지지 않더라고."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Maybe the Stragglers Grove in Wuling?",
+         "zh-TW": "或許是武陵的迷蹤林？",
+         "zh-CN": "或许是武陵的迷踪林？",
+         "ja": "武陵の迷踪林かな。",
+         "ko": "음... 무릉의 미종림?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "The bamboo there actually moves around, like there's some kind of hidden pattern to it ... super memorable.",
+         "zh-TW": "那裡的竹子竟然能四處移動，好像暗藏了某種規律……讓人印象深刻。",
+         "zh-CN": "那里的竹子竟然能四处移动，好像暗藏了某种规律……让人印象深刻。",
+         "ja": "あそこの竹は動くし、法則もありそうだったし……とにかく、忘れられない思い出だ。",
+         "ko": "거긴 대나무가 스스로 움직이더라고. 뭔가 규칙이 숨어 있는 것 같았는데... 아주 인상 깊었어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Maybe the Bridge on Dijiang?",
+         "zh-TW": "大概是帝江號的艦橋？",
+         "zh-CN": "大概是帝江号的舰桥？",
+         "ja": "帝江号のブリッジかな。",
+         "ko": "음... 아무래도 제강호의 갑판 아닐까?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You can see all of Talos-II from up there. I always feel calm when I look out.",
+         "zh-TW": "從那裡可以看到整個塔衛二，每次望過去都讓人心情平靜。",
+         "zh-CN": "从那里可以看到整个塔卫二，每次望过去都让人心情平静。",
+         "ja": "あそこからタロⅡを眺めていると、なんだか落ち着くんだ。",
+         "ko": "거기선 탈로스 II 전체가 내려다보이거든. 바라보고 있으면 마음이 차분해져."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Hmm, it does sound quite special ... but still, something feels missing...",
+      "zh-TW": "確實是很特別的景色呢……不過，總覺得哪裡還不夠……",
+      "zh-CN": "确实是很特别的景色呢……不过，总觉得哪里还不够……",
+      "ja": "へ～！どれも特別な感じ……でも、ちょっとだけ、なんだろ……",
+      "ko": "정말 특별한 풍경이네... 근데 아직 뭔가 부족한 느낌이야..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Stuck on something again?",
+         "zh-TW": "又遇到什麼難題了嗎？",
+         "zh-CN": "又遇到什么难题了吗？",
+         "ja": "また何か悩んでいることがあるの？",
+         "ko": "또 무슨 고민이라도 생긴 거야?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Anything I can do to help?",
+         "zh-TW": "有什麼需要我幫忙的嗎？",
+         "zh-CN": "有什么需要我帮忙的吗？",
+         "ja": "何か手伝えることはある？",
+         "ko": "내가 도울 일이 있을까?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Well ... actually, I'm looking for inspiration for my next album!",
+      "zh-TW": "這個嘛……其實我正在為下一張專輯尋找靈感啦！",
+      "zh-CN": "这个嘛……其实我正在为下一张专辑寻找灵感啦！",
+      "ja": "あのね、実は……リーノ、次のアルバムのアイディア探してて！",
+      "ko": "그게... 사실 내가 다음 앨범 영감을 찾고 있었거든!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "I've already got the theme picked out. It's \"Scenery in Memory\"!",
+      "zh-TW": "主題早就定好了，是「記憶中的景色」。",
+      "zh-CN": "主题早就定好了，是“记忆中的景色”。",
+      "ja": "テーマは「記憶の中の景色」って決めてるんだけどね。",
+      "ko": "주제는 이미 '기억 속의 풍경'으로 정해뒀는데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "I've been trying to figure out how to approach it, but nothing clicks...",
+      "zh-TW": "只是一直沒找到特別適合的切入點……有點苦惱。",
+      "zh-CN": "只是一直没找到特别适合的切入点……有点苦恼。",
+      "ja": "でも、方向性っていうか……ビビッとくるものがなくって、困ってたんだ。",
+      "ko": "도저히 시작할 방향이 안 떠올라서 말이야..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Sooo... I thought I'd ask you and see you could spark something for me!",
+      "zh-TW": "所以才想來問問管理員，看看能不能給我一點啟發！",
+      "zh-CN": "所以才想来问问管理员，看看能不能给我一点启发！",
+      "ja": "だから管理人に聞いてみたの。何かヒントになるんじゃないかな～って",
+      "ko": "그래서 관리자한테 물어보면 뭔가 힌트를 얻을 수 있지 않을까 해서!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "But it's still not quite what I was looking for... Ahhhhh, what's a girl supposed to do now...",
+      "zh-TW": "但好像也不是我想要的方向……唉，這樣該怎麼辦才好呢……",
+      "zh-CN": "但好像也不是我想要的方向……唉，这下该怎么办才好呢……",
+      "ja": "でも、リーノが考えてた感じとちょっと違ったかも？あ～もう、どうしよ～",
+      "ko": "근데 아직도 내가 원하던 느낌은 아닌 것 같아... 으으, 이제 어떡하지..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Maybe try to relax and do something you enjoy.",
+         "zh-TW": "或許可以試著放鬆一下？做點自己喜歡的事？",
+         "zh-CN": "或许可以试着放松一下？做点自己喜欢的事？",
+         "ja": "少し息抜きして、好きなことをしてみたらどうかな。",
+         "ko": "차라리 좋아하는 거 하면서 좀 쉬어보는 건 어때?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You can't really force inspiration. Sometimes the right idea just pops into your head.",
+         "zh-TW": "專門去找才找到的靈感，有時候說不定不如突然想到的有趣。",
+         "zh-CN": "专门去找才找到的灵感，有时候说不定不如突然想到的有意思。",
+         "ja": "無理に探すより、ふと浮かんだアイディアのほうが面白いこともあると思う。",
+         "ko": "억지로 찾은 영감보다, 문득 떠오른 아이디어가 더 좋을 때도 있으니까."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Liino",
+         "zh-TW": "梨諾",
+         "zh-CN": "梨诺",
+         "ja": "リーノ",
+         "ko": "리노"
+        },
+        "text": {
+         "en": "You're so right! Whenever I get busy, I totally forget to relax. I guess I DO need to relax a bit!",
+         "zh-TW": "有道理！每次我只要一忙起來，就完全忘記要休息呢，是該放鬆一下了！",
+         "zh-CN": "有道理！每次我只要一忙起来，就完全顾不上休息了呢，是该放松一下了！",
+         "ja": "確かに～！リーノ、忙しいときは休むことも全部忘れて集中しちゃうんだぁ……うん、息抜きも大事！",
+         "ko": "관리자 말이 맞아! 나 한번 바빠지면 쉬는 걸 완전히 잊어버리거든... 슬슬 좀 쉬긴 해야겠다!"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "How about going back to your very first thought?",
+         "zh-TW": "要不要先回歸你最開始的想法？",
+         "zh-CN": "要不要先回归你最开始的想法？",
+         "ja": "初心に返ってみたらいいんじゃないかな。",
+         "ko": "처음 생각했던 방향으로 다시 돌아가 보는 건 어때?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Try remembering why you chose \"Scenery in Memory\" as your theme. Maybe that'll bring new inspiration?",
+         "zh-TW": "回想一下你選擇「記憶中的景色」這個主題的初衷？說不定會有新的靈感？",
+         "zh-CN": "回想下你选择“记忆中的景色”这个主题的初衷？说不定会有新的灵感？",
+         "ja": "「記憶の中の景色」というテーマを決めたときの気持ちに戻ってみたら、思いつくことがあるかもしれない。",
+         "ko": "왜 '기억 속의 풍경'이라는 주제를 골랐는지 떠올려봐. 그러면 의외로 새로운 영감이 생길지도 몰라."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Liino",
+         "zh-TW": "梨諾",
+         "zh-CN": "梨诺",
+         "ja": "リーノ",
+         "ko": "리노"
+        },
+        "text": {
+         "en": "Hmm ... it just came to me when I saw an old photo... Hmm, maybe I should go take a look there...",
+         "zh-TW": "最開始的想法嗎……只是看到一張老照片的時候突然想到的……嗯，或許可以去那裡看看……",
+         "zh-CN": "最开始的想法吗……只是看到一张老照片的时候突然想到的……唔，或许可以去那里看看……",
+         "ja": "初心かぁ……昔の写真見て、これだ～！って思ったんだよね。う～ん、そこに行ってみるのもアリ……？",
+         "ko": "처음 생각...? 그냥 오래된 사진 한 장을 봤을 때 문득 떠올랐던 건데... 음, 거길 다시 가보는 것도 나쁘지 않겠어..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "I think I know what to do now. Thanks for the advice, Endmin!",
+      "zh-TW": "我知道該怎麼辦了，謝謝你的建議呀，管理員！",
+      "zh-CN": "我知道该怎么办了，谢谢你的建议呀，管理员！",
+      "ja": "なんかわかったかも……管理人、ほんとありがと～！",
+      "ko": "응! 어떻게 해야 할지 알 것 같아! 조언 고마워, 관리자!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "But this means I'll have to leave Dijiang all by myself again...",
+      "zh-TW": "不過這樣一來，我又不得不一個人離開帝江號了……",
+      "zh-CN": "不过这样一来，我又不得不一个人离开帝江号了……",
+      "ja": "でも、そしたらリーノ、1人で帝江号出てかなきゃだぁ……",
+      "ko": "근데 그러면 또 혼자 제강호를 떠나야 하네..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "The Group's been pretty quiet lately, but I'm still kinda worried ... what if...",
+      "zh-TW": "雖然最近集團那邊沒什麼動靜，但還是有點不安呢……萬一……",
+      "zh-CN": "虽然最近集团那边没什么动静，但还是有点不安呢……万一……",
+      "ja": "最近はグループから特になんにもされてないけど、やっぱりちょっと……だって、もし……",
+      "ko": "요즘은 그룹 쪽도 별다른 움직임이 없긴 한데, 그래도 조금 불안하네... 혹시라도..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Don't worry. Everything's planned out.",
+         "zh-TW": "別怕，我之前就做好了對應的方案。",
+         "zh-CN": "别怕，我之前就做好了对应的预案。",
+         "ja": "心配しなくていいよ。対策は考えてあるんだ。",
+         "ko": "걱정하지 마. 대비책은 준비해 뒀어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I've arranged for a dedicated security team to accompany you, and the Special Ops Team will be on standby.",
+         "zh-TW": "到時候應該會有專門的保鏢陪同你一起行動，特別行動小組也會隨時待命的。",
+         "zh-CN": "到时候应该会有专门的安保人员陪同你一起行动，特别行动小组也会随时待命的。",
+         "ja": "専属の警備を君につけて、特別行動隊もいつでも動けるようにしておく。",
+         "ko": "전담 경호 인력이 같이 움직일 거고, 특별 작전팀도 대기하고 있을 거야."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I've got everything covered. You'll be fine.",
+         "zh-TW": "我有提前考慮過解決的辦法，你放心吧。",
+         "zh-CN": "我有提前考虑过解决的办法，你放心吧。",
+         "ja": "対策はもう考えてあるから、安心して。",
+         "ko": "미리 해결 방법은 생각해 뒀으니까 안심해도 돼."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "The Technical Department has special stealth suits and disguise gear. I'll get a set for you.",
+         "zh-TW": "技術部門有專門用於隱秘行動的行動套裝和偽裝道具，到時候專門幫你準備一份。",
+         "zh-CN": "技术部门有专门用于隐秘行动的行动套装和伪装道具，到时候专门给你准备一份。",
+         "ja": "技術部には、隠密行動用の専用衣装と変装道具がある。一式用意しておくから。",
+         "ko": "기술 부서에 은밀 작전용 장비랑 위장 도구가 있거든. 네 몫은 따로 준비해 둘게."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "......",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Wow... Just wow...",
+      "zh-TW": "不愧是，管理員……",
+      "zh-CN": "不愧是，管理员……",
+      "ja": "管理人、すご～い……",
+      "ko": "역시 관리자답네..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Haha, you really thought of everything! I'm sooo touched!",
+      "zh-TW": "哈哈，真的是想得非常非常周全呀！好感動！",
+      "zh-CN": "哈哈，真的是想得非常非常周全呀！好感动！",
+      "ja": "え～！ほんとにいろいろ考えてくれてたんだ～！大感謝だよ～",
+      "ko": "하하, 정말... 아주 세심하게 준비해 뒀구나! 감동인데?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "I think I just had a sudden idea for my next-next album...",
+      "zh-TW": "甚至好像又有了新靈感呢！關於下下張專輯的……",
+      "zh-CN": "甚至好像又有了新灵感呢！关于下下张专辑的……",
+      "ja": "うん、なんかアイディア浮かんできた……次の次のアルバムに使う！",
+      "ko": "덕분에 새로운 영감도 떠오를 것 같아! 다다음 앨범은..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "\"Every Moment That Leaves You Speechless\"? What do you think?",
+      "zh-TW": "「每一個讓人沉默的瞬間」——這個主題怎麼樣？",
+      "zh-CN": "“每一个让人沉默的瞬间”——这个主题怎么样？",
+      "ja": "「言葉を失う、すべての瞬間」……これ、どうかなぁ？",
+      "ko": "'사람을 침묵하게 만드는 모든 순간'... 이런 주제는 어떤 거 같아?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Feels kinda meaningful? That's a solid theme.",
+         "zh-TW": "好像很有意義？是個好主題。",
+         "zh-CN": "好像很有意义？是个好主题。",
+         "ja": "考察のしがいがありそうだ。いいテーマだと思う。",
+         "ko": "되게 의미 있는 주제 같네. 좋은데?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sounds good. I bet a lot of people would really feel that one.",
+         "zh-TW": "看起來不錯，說不定會讓人很有共鳴。",
+         "zh-CN": "看起来不错，说不定会让人很有共鸣。",
+         "ja": "いいと思う。共感する人も多そうだね。",
+         "ko": "괜찮네, 공감하는 사람도 많을 것 같고."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Riiiighttt? I think so too!",
+      "zh-TW": "哈哈，我也這麼覺得！",
+      "zh-CN": "哈哈，我也这么觉得！",
+      "ja": "やっぱり？リーノもおんなじこと思った",
+      "ko": "하하, 그렇지!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Once I finish a few more songs for this album, I can start planning the next one!",
+      "zh-TW": "等寫完這張專輯的幾首曲子，就可以籌備起來了呢！",
+      "zh-CN": "等写完这张专辑的几首曲子，就可以筹备起来了呢！",
+      "ja": "今のアルバムの曲、あと何曲かやって……うん、すぐ次の準備に入れそう！",
+      "ko": "이번 앨범 남은 몇 곡만 더 완성하면, 바로 준비 시작할 수 있겠다~"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I can't wait for your new album.",
+         "zh-TW": "我也很期待你這次的專輯。",
+         "zh-CN": "我也很期待你这次的专辑。",
+         "ja": "今回のアルバムも楽しみだよ。",
+         "ko": "이번 앨범도 정말 기대하고 있어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Hope I get to hear it soon. I really want to be the very first listener.",
+         "zh-TW": "希望能早點聽到，很想當第一個聽眾。",
+         "zh-CN": "希望能早点听到，很想当第一个听众。",
+         "ja": "早く聞きたい。よかったら、1番最初に聞かせてほしい。",
+         "ko": "빨리 들을 수 있었으면 좋겠다. 첫 청취자가 되고 싶어."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Really...",
+      "zh-TW": "這樣嗎……",
+      "zh-CN": "这样吗……",
+      "ja": "え……",
+      "ko": "관리자..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Awww, Endmin...",
+      "zh-TW": "管理員，你還真是……",
+      "zh-CN": "管理员，你还真是……",
+      "ja": "管理人って、ほんと……",
+      "ko": "넌 정말..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Alright, since you said that, I'll keep working hard and try my best to let you hear it soon!",
+      "zh-TW": "好啦，既然管理員都這麼說了，那我當然會繼續加油，儘量早點讓你聽到啦！",
+      "zh-CN": "好啦，既然管理员都这么说了，那我当然会继续加油，争取早点让你听到啦！",
+      "ja": "OK！管理人がそこまで言うなら……リーノ、頑張る！早く聴かせたいから！",
+      "ko": "알겠어, 관리자가 그렇게까지 말했으니까, 나도 최대한 빨리 들려줄 수 있도록 더 열심히 할게!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Talk to you next time, Endmin! (≧∀≦*)ﾉ",
+      "zh-TW": "下次再聊吧，管理員！(≧∀≦*)ﾉ",
+      "zh-CN": "下次再聊吧，管理员！(≧∀≦*)ﾉ",
+      "ja": "また話そ～！じゃあね、管理人(≧∀≦*)ﾉ",
+      "ko": "그럼 다음에 또 얘기하자, 관리자! (≧∀≦*)ﾉ"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0035_liino_14003",
+   "topic": {
+    "en": "What I See on Stage",
+    "zh-TW": "舞台上的景色",
+    "zh-CN": "舞台上的景色",
+    "ja": "ステージ上の景色",
+    "ko": "무대 위의 풍경"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Twinkle-twinkle!  Heehee! I finally finished recording the demo for my new song today! (*^▽^*)",
+      "zh-TW": "Twinkle-twinkle！嘿嘿！今天終於錄完新歌demo啦！(*^▽^*)",
+      "zh-CN": "Twinkle-twinkle！嘿嘿！今天终于录完新歌小样啦！(*^▽^*)",
+      "ja": "トゥインクル聞いて～！今日やっと新曲のデモ録り終わった～(*^▽^*)",
+      "ko": "트윙클 트윙클! 헤헤! 오늘 드디어 신곡 데모 녹음을 끝냈어~! (*^▽^*)"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Once the audio file is done exporting, I'm gonna get you to listen with me right awayyy! (≧∀≦*)ﾉ",
+      "zh-TW": "等音訊檔匯出，我絕對會第一時間找管理員一起聽的！(≧∀≦*)ﾉ",
+      "zh-CN": "等音频文件导出完毕，我绝对会第一时间拉管理员一起听的！(≧∀≦*)ﾉ",
+      "ja": "データきたら、絶対管理人呼ぶ！一緒に聴こ～！(≧∀≦*)ﾉ",
+      "ko": "오디오 파일 정리가 끝나면, 제일 먼저 관리자를 불러서 같이 들을 거야! (≧∀≦*)ﾉ"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Awesome! I'm so excited already.",
+         "zh-TW": "太好了，我都有點迫不及待了。",
+         "zh-CN": "太好了，我都有点迫不及待了。",
+         "ja": "お疲れ様。楽しみに待っていたんだよ。",
+         "ko": "좋아, 벌써부터 기대된다."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Did you end up finding the inspiration you were looking for?",
+         "zh-TW": "不過，你後來找到你想要的靈感了嗎？",
+         "zh-CN": "不过，你后来找到你想要的灵感了吗？",
+         "ja": "結局、あのあとアイディアは見つかったのかな。",
+         "ko": "근데 결국 원하는 영감은 찾은 거야?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Really hope it all works out so I can hear it soon.",
+         "zh-TW": "希望能一切順利，這樣就能早點聽到了。",
+         "zh-CN": "希望能一切顺利，这样就能早点听到了。",
+         "ja": "順調に進んでいるね。早く聴けそうでよかった。",
+         "ko": "원만하게 진행됐으면 좋겠다. 그래야 더 빨리 들을 수 있을 거 아니야."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Looks like you did find the right inspiration in the end?",
+         "zh-TW": "對了，看來你最後還是找到想要的靈感了？",
+         "zh-CN": "对了，看来你最后还是找到合适的灵感了？",
+         "ja": "アイディアもちゃんと見つかったみたいだね。",
+         "ko": "그러고 보니, 결국 원하는 영감은 찾았나 보네?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Hehehe, yeah! And it's all thanks to your advice!",
+      "zh-TW": "嘿嘿，對啊。這都多虧了管理員的建議嘛……",
+      "zh-CN": "嘿嘿，对呀。这都多亏了管理员的建议嘛……",
+      "ja": "うん！管理人のアドバイスのおかげだよ。",
+      "ko": "헤헤, 응! 이것도 다 관리자 덕분이야..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "You know what I realized? Even with so much beautiful scenery in the world ... nothing stays in my heart like what I see on stage!",
+      "zh-TW": "我後來就發現，雖然世界上有非常非常多漂亮的風景……但能讓我記在心裡的，果然還是——舞台上的景色！",
+      "zh-CN": "我后来就发现，虽然世界上有非常非常多漂亮的风景……但能让我记在心里的，果然还是——舞台上的景色！",
+      "ja": "リーノ、気づいたんだ。きれいな景色っていっぱいあるけど……リーノの心に1番残ってるのは、ステージから見る景色なんだって！",
+      "ko": "나 깨달았거든. 세상에는 정말 정말 예쁜 풍경이 많지만... 결국 내 마음속에 가장 오래 남는 건 역시 무대 위의 풍경이라는 걸!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Whenever I'm up on stage, what I see is always super unique and special!",
+      "zh-TW": "因為每當站在舞台上，我看到的景色都是最獨一無二的！",
+      "zh-CN": "因为每当站在舞台上，我看到的景色都是最独一无二的！",
+      "ja": "この世でたったひとつの、リーノだけの景色だから！",
+      "ko": "왜냐하면 무대에 올라설 때마다 내가 보는 풍경은 언제나 특별하고 유일하니까!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Sooo... I just threw all those feelings right into this song!",
+      "zh-TW": "所以，我乾脆就把它們都寫進這首新歌裡啦！",
+      "zh-CN": "所以，我干脆就把它们都写进这首新歌里啦！",
+      "ja": "それでね、それをぜ～んぶ、新曲に詰め込んじゃったの！",
+      "ko": "그래서 이번 신곡엔 그런 풍경들을 전부 담아버렸어~!"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That's actually a really great idea.",
+         "zh-TW": "真的是個很棒的想法。",
+         "zh-CN": "真的是个很棒的想法。",
+         "ja": "すごくいい発想だね。",
+         "ko": "정말 멋진 생각이네."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Very Liino.",
+         "zh-TW": "很有梨諾的風格。",
+         "zh-CN": "很有梨诺的风格。",
+         "ja": "リーノらしいと思う。",
+         "ko": "리노다워."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I'm glad it all worked out.",
+         "zh-TW": "確實是個很好的結果。",
+         "zh-CN": "确实是个很好的结果。",
+         "ja": "すごくいいと思う。",
+         "ko": "정말 좋은 결과인 것 같아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Looks like the \"Morning Star of La Fantoma\" is about to bring new \"sparkle\" to Talos-II again.",
+         "zh-TW": "「菈梵朵瑪的晨星」又要為塔衛二帶來新的「閃耀」了。",
+         "zh-CN": "“菈梵朵玛的晨星”又要为塔卫二带来新的“闪耀”了。",
+         "ja": "「ラヴァンドマの綺羅星」が、タロⅡに新しい「キラキラ」をまた届けてくれるんだね。",
+         "ko": "'라반도르마의 샛별'이 또다시 탈로스 II에 새로운 '반짝임'을 가져다주겠네."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "!!!",
+      "zh-TW": "！！！",
+      "zh-CN": "！！！",
+      "ja": "！！！",
+      "ko": "!!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "Ahhh, Endmin!!!",
+      "zh-TW": "管理員你怎麼突然這麼……",
+      "zh-CN": "管理员你怎么突然这么……",
+      "ja": "管理人、急にそんなのって……",
+      "ko": "관리자 갑자기 왜 그렇게..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Did I say something wrong?",
+      "zh-TW": "嗯？我說錯什麼了嗎？",
+      "zh-CN": "嗯？我说错什么了吗？",
+      "ja": "あれ、変なことを言ったかな……",
+      "ko": "응? 내가 뭐 이상한 말 했어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "No no! You didn't!",
+      "zh-TW": "沒什麼沒什麼！",
+      "zh-CN": "没什么没什么！",
+      "ja": "ちがう、そうじゃなくって！",
+      "ko": "아냐 아냐!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "It's just ... you suddenly said something so nice ... it made me a little shy!",
+      "zh-TW": "我的意思是……管理員突然這樣誇我，我會不好意思啦！",
+      "zh-CN": "我的意思是……管理员突然这么夸我，我会不好意思啦！",
+      "ja": "あのね……急にそんな褒められたら、リーノだってちょっと恥ずかしくなっちゃうじゃんってこと",
+      "ko": "내 말은... 관리자가 갑자기 그렇게 칭찬하니까, 부끄럽잖아~!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "But now that I think about it ... so many performances, so many different stages...",
+      "zh-TW": "不過，現在想起來，那麼多次的演出，那麼多種的舞台……",
+      "zh-CN": "不过，现在想起来，那么多次的演出，那么多种的舞台……",
+      "ja": "でも、今までいろんな会場でい～っぱいライブしてきたけど……",
+      "ko": "근데 지금 와서 생각해 보면, 정말 수많은 공연과 수많은 무대가 있었지만..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "That night sky from the show in Valley IV ... it's absolutely one of the scenes I'll never forget.",
+      "zh-TW": "在四號谷地那場演出時看到的夜空，絕對是最讓我難忘的景色之一了。",
+      "zh-CN": "在四号谷地那场演出时看到的夜空，绝对是最让我难忘的景色之一了。",
+      "ja": "四号谷地のライブで見た夜空は、リーノにとって忘れられない景色の1つになったよ。",
+      "ko": "4번 협곡 공연 때 봤던 밤하늘은, 가장 잊지 못할 풍경 중 하나였어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "While I was flying and singing, I even remembered why I wanted to become an idol in the first place...",
+      "zh-TW": "邊飛行邊演唱的過程中，我甚至想起了當初自己選擇當偶像的理由……",
+      "zh-CN": "边飞行边演唱的过程中，我甚至想起了当初自己选择当偶像的理由……",
+      "ja": "空を飛びながら歌ってるときに、アイドルになりたかった理由、思い出したんだ。",
+      "ko": "하늘을 날면서 노래하던 그 순간에, 문득 내가 왜 아이돌이 되고 싶었는지 떠올랐거든..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "To stand higher?",
+         "zh-TW": "想要站在更高的位置上？",
+         "zh-CN": "想要站在更高的位置上？",
+         "ja": "もっと高いところを目指したい、とか？",
+         "ko": "더 높은 곳에 올라가고 싶어서?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "To be the brightest star?",
+         "zh-TW": "希望變成最閃耀的那顆星星？",
+         "zh-CN": "希望变成最闪耀的那颗星星？",
+         "ja": "1番輝く星になりたい、とか？",
+         "ko": "가장 반짝이는 별이 되고 싶어서?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "That's just one little reason, hehe!",
+      "zh-TW": "只是其中一個理由啦！",
+      "zh-CN": "只是其中一个理由啦！",
+      "ja": "もちろん、それもそうなんだけど！",
+      "ko": "그것도 이유 중 하나긴 하지~"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "The real reason is — I want to create a stage that belongs only to Liino!",
+      "zh-TW": "但最重要的還是——我想要創造並登上只屬於「梨諾」的舞台。",
+      "zh-CN": "但最关键的还是——我想要创造并登上只属于“梨诺”的舞台。",
+      "ja": "リーノだけのステージを自分の力で作って、そこに立ちたかったから……",
+      "ko": "근데 가장 중요한 건 역시... '리노만의 무대'를 만들고, 그 위에 서고 싶어서야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "I want to connect with more and more people in a different way through that stage. So they'll give me their \"hearts\", willingly.",
+      "zh-TW": "想要透過這樣的舞台和更多更多的人們建立不一樣的連結，讓大家心甘情願地把自己的「心」交給我。",
+      "zh-CN": "想要通过这样的舞台和更多更多的人们建立不一样的联系，让大家心甘情愿地将自己的“心”交付给我。",
+      "ja": "そのステージで、もっとたくさんの人と特別なつながりを作りたい。みんなが本気で自分の「心」をリーノに預けてもいいって思えるような、そんなライブをしたい。",
+      "ko": "그런 무대를 통해 더 많은 사람들과 특별한 연결을 만들고, 다들 기꺼이 자기 '마음'을 내게 맡기게 하고 싶거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Liino",
+      "zh-TW": "梨諾",
+      "zh-CN": "梨诺",
+      "ja": "リーノ",
+      "ko": "리노"
+     },
+     "text": {
+      "en": "And of course, I hope that one day, on the same stage, you'll see my heart and all the secrets I keep inside!",
+      "zh-TW": "當然啦，現在我也很期待有一天……管理員也能透過這樣的舞台，來發現梨諾的「心」與裡面藏著的秘密！",
+      "zh-CN": "当然啦，现在我也很期待有一天……管理员也能通过这样的舞台，来发现梨诺的“心”与里面藏着的秘密！",
+      "ja": "今はね、管理人にも……リーノのステージを見てもらって、リーノの「心」と、中に閉じ込めた秘密を見つけてほしいって思ってるんだよ。",
+      "ko": "물론 지금은 언젠가 관리자도... 그런 무대를 통해 리노의 '마음'과 그 안에 숨겨진 비밀을 알아봐 주길 기대하고 있어!"
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 1
+}

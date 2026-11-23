@@ -59,6 +59,8 @@ sources:
 
 Tangtang is the straightforward, freedom-loving and fiercely loyal Supreme Chief of Qingbo Stockade who joined Endfield Industries to find answers and build a better future for her home.
 
+Files, voice lines and chats: [Tangtang's file](/story/tangtang/).
+
 ## How to obtain
 
 Tangtang is the rate-up 6-star operator of River's Daughter, a Chartered Headhunting banner of [Version 1.1, Old Deep Water Dies, by Rising Tide It is Denied](/versions/1-1/). Banners with Tangtang:

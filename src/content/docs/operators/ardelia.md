@@ -51,6 +51,8 @@ sources:
 
 Ardelia is a Rhodes Island geologist assigned to Endfield Industries, where her field research into Ætherside and geological disasters informs the company's Blight countermeasures.
 
+Files and voice lines: [Ardelia's file](/story/ardelia/).
+
 ## How to obtain
 
 Ardelia has no rate-up banner. Five standard 6-star operators are in the pool of Basic Headhunting and of every Chartered Headhunting banner: Ember, Lifeng, Ardelia, Last Rite and Pogranichnik.

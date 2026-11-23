@@ -1,0 +1,5641 @@
+{
+ "slug": "perlica",
+ "gameId": "chr_0004_pelica",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Perlica \nGENDER: Female \nAUTHENTICATION: Endfield Industries \nDOB: March 16 \nRACE: Liberi \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Standard \nCOMBAT SKILL: Standard \nTACTICAL ACUMEN: Outstanding\nORIGINIUM ARTS ASSIMILATION: Excellent",
+    "zh-TW": "【代號】佩麗卡\n【性別】女\n【身分認證】終末地工業\n【生日】3月16日\n【種族】黎博利\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：標準\n作戰技巧：標準\n戰術規劃：卓越\n源石技藝適應性：優良",
+    "zh-CN": "【代号】佩丽卡\n【性别】女\n【身份认证】终末地工业\n【生日】3月16日\n【种族】黎博利\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：标准\n作战技巧：标准\n战术规划：卓越\n源石技艺适应性：优良",
+    "ja": "【コードネーム】ペリカ\n【性別】女\n【身分証明】エンドフィールド工業\n【誕生日】3月16日\n【種族】リーベリ\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：標準\n戦闘技術：標準\n戦術立案：卓越\nアーツ適性：優秀",
+    "ko": "[코드네임] 펠리카\n[성별] 여\n[신분 인증] 엔드필드 공업\n[생일] 3월 16일\n[종족] 리베리\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 표준\n전술 계획: 탁월\n오리지늄 아츠 적응성: 우수"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Perlica, Supervisor of Endfield Industries, is one of the official spokespersons for Endfield. She is primarily responsible for overseeing and advancing the development and application of Protocol-Originium technology protocols, while also managing the operations of the Dijiang. \n\nIt's been a long time since I last heard anyone question whether she deserves the title of Supervisor. She has silenced all doubts with tangible results, proving M3's words true: \"This position exists because of Perlica. Don't get the order wrong.\" I still can hardly believe someone so young is capable of supporting the management of the entire Endfield Industries. Yet under her leadership, the future that Endfield strives toward has only grown clearer. However, she isn't flawless in handling everything. For instance, as a key figure in managing the Crisis Team, she shouldn't constantly risk herself on the front lines alongside the members. Even if she continues to dismiss my requests, I will still urge her to reassess the risks. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "佩麗卡，終末地工業的監督，也是終末地的官方發言人之一，主要負責管理和推動協議源石技術的開發與應用，同時也承擔帝江號的管理工作。\n\n對她是否配得上「監督」這一職位的質疑，我已經很久沒聽到了。她用實績打消了所有人的懷疑，也用事實印證了M3的說法：「這個職位是因為佩麗卡才存在，別搞錯了先後順序。」的確連我也不敢相信，一個如此年輕的人能夠擔起協助管理整個終末地工業的重任，但在她的管理下，終末地所追求的未來景象更加清晰了。\n不過，她也不是事事都能處理妥當，例如，作為協助管理危機處理小組的關鍵人物，她不該總是陪著小組成員在第一線冒險。就算她繼續駁回我的申請，我還是會督促她重新評估風險。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "佩丽卡，终末地工业的监督，也是终末地的官方发言人之一，主要负责管理和推进协议源石技术的开发与应用，同时也承担帝江号的管理工作。\n\n对她是否配得上“监督”这一职位的质疑，我已经很久没听到了。她用实绩打消了所有人的怀疑，也用事实印证了M3的说法：“这个职位是因为佩丽卡才存在，别搞错了先后顺序。”确实连我也不敢相信，一个如此年轻的人能够担起协助管理整个终末地工业的重任，但在她的管理下，终末地所追求的未来景象更加清晰了。\n不过，她也不是事事都能处理妥当，比如，作为协助管理危机处理小组的关键人物，她不该总是陪着小组成员在第一线冒险。就算她继续驳回我的申请，我还是会督促她重新评估风险。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "ペリカはエンドフィールドの監察官で、エンドフィールドの公式発言者の1人である。主に協約源石技術の開発および応用の管理と推進を担当している。同時に、帝江号の管理業務も担う。\n\n「彼女が『監察官』に相応しい人物であるかという疑問の声を、しばらく耳にしていません。彼女は実績をもってあらゆる疑念を払い、同時に『ペリカがいたからこの役職が生まれた、順番を間違えるな』と語ったM3の言葉を証明しました。これほど若い監察官がエンドフィールド全体の管理を担うなど、俄には信じ難いと私も思っていました。ですが、彼女の指揮の下、エンドフィールドが目指す未来は以前よりも明確になってきたのです。」\n「とはいえ、すべてが順調というわけではありません。たとえば、危機対策班の管理という要職にありながら、いつまでも隊員と共に前線へ出続けるべきではありません。彼女が私の申請を却下し続けたとしても、リスクの再評価については今後も検討いただくよう促していくつもりです。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "펠리카는 엔드필드 공업의 감독관이자 엔드필드의 공식 대변인 중 한 명으로, 주로 프로토콜 오리지늄 기술의 개발 및 응용 분야를 관리하고 추진하는 업무를 맡고 있으며, 동시에 제강호의 관리 업무도 담당하고 있다.\n\n그녀가 '감독관'이라는 직위를 맡을 자격이 있는지에 대한 의문의 목소리는 이제 더 이상 들리지 않는다.\n그녀는 실적을 통해 모든 사람의 의문을 잠재웠고, M3의 말 또한 사실로 입증했다. \"이 직위는 펠리카가 있기 때문에 존재하는 거지, 그 순서를 착각하지 마.\"\n이렇게 젊은 인물이 전체 엔드필드 공업 전반의 관리라는 막중한 중책을 맡을 수 있다는 게, 사실 나조차도 믿기 어려운 일이었다. 그러나 그녀의 관리하에 엔드필드가 추구하는 미래의 모습은 더욱 뚜렷해졌다.\n물론 그녀가 모든 사안을 완벽히 처리할 수 있는 건 아니다. 예를 들어, 위기 대책팀을 보조 관리하는 핵심 인물로서, 항상 팀원들과 함께 최전선에서 위험을 무릅써서는 안 된다.\n펠리카 감독관이 내 신청을 계속 기각하더라도, 나는 위험 평가를 다시 검토하도록 계속 권고할 것이다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Like many operators within Endfield Industries, Supervisor Perlica survived a disaster as a child and found refuge under the care of the Endministrator and Endfield Industries alongside other children who had lost their families. During her education and growth, she showed exceptional curiosity toward Techno-Protocol and gradually became involved in the foundational operations of Endfield Industries on Talos-II. In less than two years, her footsteps had reached cities both large and small across the planet, and her understanding of the threats we face far surpassed that of ordinary individuals. Her passion for Techno-Protocol led her to join the R&D Center, where she later played a key role in achieving major breakthroughs in the development and application of Techno-Protocol for Endfield Industries. Naturally, she was officially appointed as \"Supervisor\", taking the helm of the Dijiang—a colossal structure suspended in the artificial stationary orbit above Talos-II. \n\nDOCUMENT: A certain log that requires sufficient authority level \nOf course, Perlica's past was never as consistently fortunate as the public records might suggest. \nOver a decade ago, you rescued her while preparing for the expedition, offering her unwavering support at a time when she was still lost and fearful. Yet she could never have anticipated that the same crusade would soon turn her life upside down once more ... she lost you. In the years that followed, most of the children you saved alongside her moved on to new lives. This includes Lycia, whom she considered a sister, eventually left the Dijiang and chose to go her separate way. \nAs friends gradually departed, the weight of responsibility on her shoulders grew heavier, and the development of Techno-Protocol repeatedly hit roadblocks... \nYet she stubbornly remained on this most difficult path, winning us over through her actions. It's true that she received support from many along the way, but no one understands better than I do the effort she has poured in and the hardships she has endured. \nGo and have a chat with her. She's been waiting far too long.\n ——M3's Audio Memo",
+    "zh-TW": "和終末地工業的不少幹員一樣，兒時的佩麗卡監督在災難中倖存下來，並和其他失去家庭的孩子一起受到了管理員和終末地工業的庇護。在學習和成長的過程中，她對協議技術表現出了極大的好奇，並逐漸開始接觸終末地工業在塔衛二的各項基礎事務。不到兩年的時間，她的足跡就已經遍布這顆星球的大小城市，她對我們所面對威脅的認知也遠超常人。而她對協議技術的熱情，也促使她加入了研發中心，並於日後幫助終末地工業在協議技術開發與應用領域取得了重大突破。之後她也順理成章地被正式任命為「監督」，開始真正掌舵帝江號這個高懸於塔衛二人工靜止軌道的龐然大物。\n\n【權限紀錄】\n佩麗卡的過去當然不可能像公開紀錄裡那樣總是被幸運所眷顧。\n十多年前，你在籌備遠征時救下了她，在那個她還惶恐茫然的時候給了她最大的支持。但她也無法預料到不久後的遠征會再一次改變她的生活……她失去了你。後來的日子裡，和她一起被你救來的孩子大多也都開始了新生活，甚至連那個和她情同姐妹的孩子，萊西婭，也離開了帝江號，選擇和她分道揚鑣。\n身邊的朋友逐漸離去，肩上扛下的責任越來越重，協議技術的研發屢遭瓶頸……\n她還是固執地留在了這條最難走的路上，並且用實際行動折服了我們。誠然，她一路走來得到了許多人的支持，但她自己付出的努力和經歷的坎坷……我比任何人都清楚。\n去和她聊聊吧，她已經等了太久。\n——M3的語音備忘錄",
+    "zh-CN": "和终末地工业的不少干员一样，儿时的佩丽卡监督在灾难中幸存下来，并和其他失去家庭的孩子一同接受了管理员和终末地工业的庇护。在学习和成长的过程中，她对协议技术表现出了极大的好奇，并逐渐开始接触终末地工业在塔卫二的各项基础事务。不到两年的时间，她的足迹就已经遍布这颗星球的大小城市，她对我们所面对威胁的认知也远超常人。而她对协议技术的热情，也促使她加入了研发中心，并在日后帮助终末地工业在协议技术开发与应用领域取得了重大突破。之后她也顺理成章地被正式任命为“监督”，开始真正掌舵帝江号这个高悬于塔卫二人工静止轨道的庞然大物。\n\n【权限记录】\n佩丽卡的过去当然不可能像公开记录里那样总是被幸运所眷顾。\n十多年前，你在筹备远征时救下了她，在那个她还惶恐茫然的时候给了她最大的支持。但她也无法预料到不久后的远征会再一次改变她的生活……她失去了你。后来的日子里，和她一起被你救来的孩子大多也都开始了新生活，甚至连那个和她情同姐妹的孩子，莱西娅，也离开了帝江号，选择和她分道扬镳。\n身边朋友的逐渐离去，肩上扛下的责任越来越重，协议技术的研发屡遭瓶颈……\n她还是固执地留在了这条最难走的路上，并且用实际行动折服了我们。诚然，她一路走来得到了许多人的支持，但她自己付出的努力和经历的坎坷……我比任何人都清楚。\n去和她聊聊吧，她已经等了太久。\n——M3的语音备忘录",
+    "ja": "エンドフィールドのオペレーターには、幼少期に災害を生き延びたという者は少なくない。ペリカ監察官もそのうちの1人であり、同じように家を失った子どもたちと共に、管理人とエンドフィールドによって保護された。成長と学びを重ねる中で、協約技術に強い関心を示すようになった彼女は、タロⅡにおけるエンドフィールドの基本業務にも徐々に関わるようになっていく。そして2年足らずのうちにその足跡はタロⅡのあらゆる都市に及び、我々が直面してきた脅威に対する彼女の認識は、一般人の理解を遥かに超えるものとなった。協約技術への情熱は彼女を研究センターへと導き、エンドフィールドが技術開発と応用における大きな飛躍を遂げる原動力となった。その後、然るべくして「監察官」に任命され、タロⅡの静止軌道に悠然と浮かぶ巨大な「帝江号」の舵取りを担う存在となった。\n\n【権限記録】\nペリカの過去は、公開されている記録のようにいつも恵まれていたわけじゃない。\n10数年前、君は遠征でペリカを救って、心細さと戸惑いの中にあった彼女の支えになった。でもすぐ次の遠征で、彼女の人生がまた変わることになるなんて、誰も予想できなかった……君を失うなんてね。それから、同じ時期に君が救った子たちはほとんどが新しい生活を始めた。姉妹のように親しかったレシアも帝江号を離れ、別々の道を歩むことになったんだ。\n側にいた友人が1人、また1人と旅立っていくたびに、ペリカにのしかかる責任はどんどん重くなっていった。協約技術の研究も、何度も行き詰まって……\nそれでも変わらずに、一番険しい道を歩き続けてきたんだ。その姿には本当に感服したよ。もちろん、ここまで来られたのは多くの人の助けがあったからだ。でも、彼女が積み重ねてきた努力と、耐え忍んだ苦労を……私は誰よりも知っている。\n彼女と話してくるといい。もう、随分待たされただろうからね。\n――M3の音声備忘録",
+    "ko": "엔드필드 공업의 많은 오퍼레이터들처럼, 어린 시절의 펠리카 감독관 역시 재앙 속에서 살아남았고, 가족을 잃은 다른 아이들과 함께 관리자와 엔드필드 공업의 보호를 받으며 성장했다.\n학습과 성장 과정에서 그녀는 프로토콜 기술에 강한 호기심을 보였고, 점차 엔드필드 공업이 탈로스 II에서 진행하고 있는 다양한 기초 업무를 접하게 되었다.\n\n2년도 채 되지 않아 그녀의 발길은 이 행성의 크고 작은 도시를 누볐으며, 우리가 직면한 위협에 대한 그녀의 이해는 일반인의 수준을 훨씬 뛰어넘었다.\n프로토콜 기술에 대한 열정은 그녀를 연구 개발 센터로 이끌었고, 훗날 엔드필드 공업이 프로토콜 기술 개발과 응용 분야에서 큰 성과를 거두는 데 크게 기여했다.\n그 이후, 그녀는 자연스럽게 '감독관'으로 정식 임명되었고, 탈로스 II 인공 정지 궤도 위에 떠 있는 제강호라는 이 함선을 진정으로 이끌게 되었다.\n\n[권한 기록]\n펠리카의 과거가 공개 기록에서처럼 언제나 행운만 따랐던 것은 절대 아니야.\n십여 년 전, 당신이 원정을 준비하면서 그녀를 구했고, 그녀가 불안과 혼란 속에 있을 때 가장 큰 버팀목이 되어주었어.\n하지만 곧이어 벌어진 원정은 다시 한번 그녀의 삶을 송두리째 바꿔놓았지... 당신을 잃었던 거야.\n이후 그녀와 함께 구출된 아이들 대부분은 새로운 삶을 시작했고, 심지어 그녀와 자매처럼 지내던 리시아마저 제강호를 떠나 펠리카와 다른 길을 택했지.\n\n곁을 지켜주던 친구들이 하나둘씩 떠나고, 어깨 위에 짊어진 책임은 갈수록 무거워졌으며, 프로토콜 기술의 개발은 수차례 난관에 부딪쳤지...\n그럼에도 펠리카는 고집스럽게, 직접 행동으로 우리 모두를 설득했어. 물론, 그녀가 걸어온 여정에는 많은 이들의 도움이 있었지만, 그녀가 쏟아낸 노력과 겪어온 굴곡만큼은... 내가 그 누구보다 잘 알고 있어.\n\n가서 펠리카와 이야기를 좀 나눠줘, 당신을 너무나도 오래 기다려 왔으니까.\n- M3의 음성 메모"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "Other operators aboard the Dijiang often say that Supervisor Perlica seems to possess a kind of magical quality. As long as she's around, any problem finds its solution. \nSo when I learned that I'd have the privilege of studying alongside her, I was so excited I couldn't sleep. But reality hit me hard. Unable to keep up with her intense workload and exacting standards, I seriously considered quitting along the way … yet I couldn't bring myself to give up such a precious opportunity. \nWith the expected awakening of the Endministrator just around the corner, everyone is on edge—even Supervisor Perlica is no exception. Despite her schedule being completely packed, she still manages to squeeze in meetings with senior members from every department to ensure everything goes off without a hitch. \nBut after each of those impromptu private meetings, she always comes out looking uneasy. Could it be that there are things even she can't handle? I can't help but blame myself for not being able to do more to help. \nShe noticed how lost I felt and took the initiative to comfort me, even sharing some strangely flavored fin meatballs I'd never seen before. The taste was so strong it brought tears to my eyes, yet Supervisor Perlica just watched me with a satisfied smile … That day's worries were washed away along with my tears. \nIn that moment, I suddenly realized that Supervisor Perlica … truly does have that kind of magic. \n—From the work log of a trainee operator, who is still applying for the opportunity to continue her apprenticeship under Supervisor Perlica. \n\n[Record That Has Not Been Successfully Deleted] \n\"She went to see you too, didn't she, Krad? Asking how to get along with the Endministrator she cares about so much, right?\" \n\"Wouldn't expect anything less from Intel. You're not even on the Dijiang and you're still this well-informed. When she rushed into the training room to find me, I thought something had gone wrong. But then she asked me that dead seriously. Totally took me by surprise.\" \n\"Guess I've gotten so used to her being the Supervisor that I almost forgot she isn't actually invincible. But I do love that awkward tone she takes when she messages me. Still just as adorable as when we were kids.\" \n\"So, what advice did you give her?\" \n\"Same as you, nothing at all. The other old-timers did about the same too. We're all just waiting to see how this plays out.\" \n\"But I bet she'll hide it perfectly when she sees the Endministrator again.\" \n\"Don't worry, M3 will definitely be with her. You really think we won't get every last detail from the scene?\" \n\"Right. And remember, we promised her we'd keep this completely confidential. Especially from the Endministrator.\" \n\"Relax, Krad. You know I am the last person to talk. Professional ethics and all. But honestly, it's almost a shame we won't get to see little Perlica pouting over this, isn't it?\"",
+    "zh-TW": "帝江號上其他幹員總是說，佩麗卡監督好像有種神奇的魔力。只要有她在，任何問題都會迎刃而解。\n所以當我得知能有幸在她身邊學習的時候，我甚至興奮到失眠，但現實狠狠重擊了我。因為沒辦法適應她的工作強度還有嚴苛的標準，我一度考慮中途退出……但我實在是捨不得放棄這次寶貴的機會。\n因為馬上就是管理員預計甦醒的日子，每個人都像繃著一根弦，連佩麗卡監督也不例外。在她行程全被塞滿的情況下，她還要見縫插針地去見各部門的前輩，來確保工作萬無一失。\n但這些臨時的私密小會議之後，她的臉色總是不太好，難道有些事情連她也搞不定？我只能埋怨自己幫不上什麼忙。\n我的無所適從被她看在眼裡，她主動安慰了我，還塞給我從沒看過的怪味鱗肉丸一起分享。那味道嗆得我狂流眼淚，佩麗卡監督反而看著我心滿意足地笑起來……那一天的苦惱，也都隨著我的眼淚一起被沖刷一空。\n那一瞬間我才突然意識到，佩麗卡監督……的確存在那種魔力。\n——一位見習後勤幹員的工作日誌，她仍在繼續申請留在佩麗卡監督身邊見習的機會\n\n【未被成功刪除的紀錄】\n「她也去找你了吧，卡拉德？請教要怎麼和她在乎的管理員正常相處，對吧？」\n「不愧是做情報的，不在帝江號消息還這麼靈通。她匆忙來訓練室找我的時候，我還以為是什麼環節出了問題。結果一本正經地問這個，嚇我一跳。」\n「習慣了她當監督的日子，都快忘了她也不是真的無所不能。不過我喜歡她和我通訊時扭捏的樣子，還是和小時候一樣可愛。」\n「所以你給了什麼建議？」\n「跟你一樣囉，什麼也沒給。其他老傢伙也都差不多，大家都準備看好戲呢。」\n「不過我打賭，她重新見到管理員的時候一定會藏得很好。」\n「反正M3一定會陪著她，你還怕沒辦法知道現場的所有細節？」\n「也是。還有，別忘了，我們答應過她絕對要保密。尤其是對管理員。」\n「放心吧，卡拉德。我的嘴可是最嚴的，這是職業操守。但這樣就看不到小佩麗卡生悶氣的樣子，是不是有點太遺憾了？」",
+    "zh-CN": "帝江号上其他干员总说，佩丽卡监督似乎有一种神奇的魔力。只要有她在，任何问题都会迎刃而解。\n所以当我得知能有幸在她身边学习的时候，我一度兴奋到失眠，可现实狠狠重击了我。因为没法适应她的工作强度还有严苛的标准，我一度考虑中途退出……但我实在不舍得放弃这次宝贵的机会。\n因为马上就是管理员预计苏醒的日子，每个人都绷着一根弦，连佩丽卡监督也不例外。在她日程全被塞满的情况下，她还要见缝插针地去见各部门的前辈，来确保工作万无一失。\n但这些临时的私密小会议之后，她的脸色总是不太好，难道有些事情连她也搞不定？我只能埋怨自己帮不上什么忙。\n我的无所适从被她看在眼里，她主动安慰了我，还塞给我从没见过的怪味鳞肉丸一起分享。那味道呛得我眼泪直流，佩丽卡监督反倒看着我心满意足地笑起来……那一天的苦恼，也都随着我的眼泪一起被冲刷一空。\n那一瞬间我才突然意识到，佩丽卡监督……的确存在那种魔力。\n——一位见习后勤干员的工作日志，她仍在继续申请留在佩丽卡监督身边见习的机会\n\n【未被成功删除的记录】\n“她也去找你了吧，卡拉德？请教要怎么和她在乎的管理员正常相处，对吧？”\n“不愧是搞情报的，不在帝江号消息还这么灵通。她匆忙来训练室找我的时候，我还以为是什么环节出了岔子。结果一本正经地问这个，吓我一跳。”\n“习惯了她当监督的日子，都快忘了她也不是真的无所不能。不过我喜欢她和我通信时忸怩的样子，还是和小时候一样可爱。”\n“所以你给了什么建议？”\n“和你一样喽，什么也没给。其他老家伙也都差不多，大家都准备看好戏呢。”\n“不过我打赌，她重新见到管理员的时候一定会藏得很好。”\n“反正M3肯定会陪着她，你还怕没法知道现场的所有细节？”\n“也是。还有，别忘了，我们答应过她要绝对保密。尤其是对管理员。”\n“放心吧，卡拉德。我的嘴可是最严的，这是职业操守。但这样就看不到小佩丽卡生闷气的样子，是不是有点太遗憾了？”",
+    "ja": "帝江号のオペレーターたちは皆、口をそろえて「ペリカ監察官には不思議な力がある」のだと言います。監察官がいるだけで、どんな問題でもたちどころに解決してしまうのだと。\nですから、監察官の側で勉強できると知った日は、興奮して眠れませんでした。しかし、現実はそんな私を容赦なく打ちのめし……仕事の多さ、そして監察官の厳しい基準についていくことができず、途中で投げ出したくなることもありました。それでも、これは本当に貴重な機会です。絶対に諦めてはいけないと感じました。\nまもなく訪れる、管理人が目覚める日。帝江号では、全員が張り詰めた様子でした。ペリカ監察官も例外ではありません。ぎっしり詰まったスケジュールをこなしながら、その合間を縫って各部門の先輩方を訪ね、抜かりのないように確認をしていました。\nしかし秘密裏の会議を終えたあと、監察官の顔色はいつもどこかすぐれませんでした。もしかすると、監察官でも対処できない問題があるのでは……？ですが、私は自分の無力さを責めることしかできなかったのです。\n落ち込む私を気遣って、監察官は声をかけてくださいました。一緒に手渡されたのは、強烈で独特な味わいの鱗獣団子。あまりの辛さに涙が止まらなかったのですが、そんな私を見て監察官は優しく微笑んでいました……不思議と胸の中の悩みも、涙と一緒に流れ落ちたように感じました。\nそのとき初めて、私も気づいたのです。確かにペリカ監察官には「不思議な力」があるのだと。\n――とある後方支援の見習いオペレーター業務日誌（彼女はペリカ監察官の側で業務を続けるための申請を出し続けている）\n\n【削除に失敗した記録】\n「あなたのところにも来たでしょ、クラッド？大切な管理人さんと、どう接するべきかって。」\n「さすがは情報を預かるお方。帝江号から離れていたというのに、これほど耳が早いとは。彼女が訓練室へ駆け込んでいらっしゃったときは、何か大きな問題がと案じましたが……まさか真面目な顔であんな相談をされるなんて、驚きましたよ。」\n「監察官になって随分時間が経ってしまったから、あの子が完璧なんかじゃないってこと、つい忘れかけていたわ。でも、私と通信をしているときの、あの照れた姿が大好きなの。小さい頃とおんなじで本当に可愛いんだから。」\n「で、どんなアドバイスをしたの？」\n「君と同じですよ――特に何も。ほかの皆もそうでしょう。これから、間違いなく面白いことが起こると期待はしているでしょうが。」\n「それに、管理人と再会するとなれば、きっとそういうことは上手に隠すのでしょうね。」\n「M3もついていくはずだから、様子はちゃんとわかるはずだし。」\n「確かに、ごもっともです。それから、くれぐれもご用心を……内緒にする約束をしましたから。特に管理人には、知られぬよう。」\n「安心して、クラッド。私はプロよ？口の堅さには自信があるわ。でも、そうしたら――プンプンしてるペリカちゃんも見られなくなっちゃう。それはそれで、ちょっと残念ね？」",
+    "ko": "제강호의 다른 오퍼레이터들은 늘 말하곤 했다. 펠리카 감독관님에게는 신비한 마력이 있는 것 같다고. 그분이 있는 곳이라면 어떤 문제도 척척 해결된다는 것이다.\n그래서 내가 그분 곁에서 배울 기회를 얻게 되었다는 걸 알았을 때, 한동안 흥분해서 잠을 이루지 못할 정도였다. 하지만 현실은 가혹했다. 그분의 업무 강도와 엄격한 기준을 도저히 따라가지 못해, 중도 포기를 진지하게 고민할 정도였다... 그래도 이 소중한 기회를 포기하고 싶지 않았다.\n\n관리자님이 예정대로 깨어날 날이 가까워지자, 모두가 긴장의 끈을 놓지 못했고, 펠리카 감독관님도 마찬가지였다. 이미 일정이 꽉 찬 와중에도, 그분은 틈을 내어 각 부서 선배들을 일일이 찾아다니며, 업무가 완벽히 진행될 수 있도록 확인했다.\n그런데 그런 임시 비공식 회의가 끝나고 나면, 그분의 안색이 언제나 좋지 않았다. 혹시 그분조차 해결하지 못하는 일이 있는 걸까? 나는 아무 도움도 되지 못하는 자신을 자책할 뿐이었다.\n내가 갈피를 못 잡는 모습이 감독관님의 눈에도 보였던 것 같다. 그분은 먼저 다가와 나를 위로하며, 정체를 알 수 없는 이상한 맛의 린수 고기 완자를 건네며 함께 나누어 먹었다. 그 맛에 눈물이 나올 정도였지만, 펠리카 감독관님은 그런 내 모습을 보고 만족스럽게 미소 지었다... 그날의 고민도 그 눈물과 함께 씻겨 내려갔다.\n그 순간에야 나는 비로소 깨달았다. 펠리카 감독관님은 정말로 그런 마력을 지니고 있다는 것을.\n- 펠리카 감독관 곁에서 계속 수습하기를 신청 중인, 어느 수습 지원 오퍼레이터의 업무 일지.\n\n[삭제되지 않은 기록]\n\"그녀도 너한테 갔었지, 크래드? 자기가 아끼는 관리자와 어떻게 자연스럽게 지내야 할지 물어보러 말이야.\"\n\"역시 정보 담당자답네. 제강호에 없어도 소식이 이렇게 빠르다니. 그녀가 급히 훈련실로 찾아왔을 때, 난 또 뭔가 문제가 생긴 줄 알았잖아. 그런데 진지하게 그런 걸 묻는 바람에 깜짝 놀랐다니까?\"\n\"늘 감독관으로서만 지내는 모습을 보다 보니, 그녀가 사실은 전지전능한 존재가 아니라는 걸 까맣게 잊고 있었어. 하지만 나와 통신할 때 수줍어하는 모습은 예전 꼬마 시절 그대로더군.\"\n\"그래서 뭐라고 해줬는데?\"\n\"너랑 똑같지 뭐, 아무 말도 안 했어. 다른 사람들도 다 마찬가지고, 다들 그냥 재미있게 지켜볼 생각인가 봐.\"\n\"하지만 내가 장담하는데, 관리자를 다시 만날 때 그녀는 절대로 그 속마음을 드러내지 않을 거야.\"\n\"어차피 M3가 함께 있으니까, 네가 현장의 세세한 부분까지 놓칠 일은 없겠지?\"\n\"그렇긴 하지. 그리고 잊지 마, 그녀에게 절대 비밀을 지켜주겠다고 약속한걸. 특히 관리자 앞에서 실수하면 안 돼.\"\n\"걱정하지 마, 크래드. 내 입은 무거우니까. 직업 정신이라는 게 있잖아. 그래도 꼬마 펠리카가 혼자 전전긍긍하는 모습은 볼 수 없게 된다니까 좀 아쉽지 않아?\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "No matter where you run into Supervisor Perlica aboard the Dijiang, she always calmly greets you before immediately returning to her work. Some even joke that beneath her Liberi appearance, she might actually be a machine, perfectly executing the directives of some higher intelligence. While this kind of rumor spreads widely among newer operators, the Supervisor does not mind it at all. In fact, she occasionally plays along with the joke on purpose, lightening the mood and helping to ease the tension among the crew. \nAccording to the unofficial account by Martin Marvin Malen, after officially assuming the role of Supervisor, Perlica forced herself to adopt the most appropriate demeanor to fulfill her duties. But accumulated emotions and pressure always need an outlet. Even before the Endministrator's return, Perlica had already found a way to truly relax. \"Have you heard of the 'Crankcase Creative Contest'? They say it originally started as a creative showdown between a certain Vampire genius and a mysterious mechanic. Seniors in the R&D Center brought this ancient Terra event to Endfield. Nowadays, the wild ideas that emerge from the CCC not only bring a lot of laughter to the operators, but also greatly drive our technological innovation. Yet very few know that the true force behind this event at Endfield is Supervisor Perlica. After all, she has never officially participated, and rarely voices her opinions. In truth, her reason for reviving this event was simply to create a platform where she could relieve her restless hands and test the strange ideas in her head.\" \n\nEven though I was banned from competing this year, I wouldn't call myself entirely absent. After all, I’m the one who named the award-winning \"Blast-ma Roar\"! When its creator came to me with the idea of \"stuffing a gravity firearm into an acceleration engine\", I knew it had potential. We ended up taking apart quite a few fine firearms to make it work, though… Huh? O-of course we didn't touch my dad's precious stockpile! \n—The reigning champion of multiple Crankcase Creative Contests, a prodigy in firearm engineering. \n\n This vehicle just took first place in the Neo Tsukushi Underground Heat Rally! What is it doing on the Dijiang?! \n—From a racing enthusiast. \n\n\"Blast-ma Roar\"? Owned by \"Ilyich, the Suspect\"? Perlica, which department did this newcomer come from? \n— Chen Qianyu",
+    "zh-TW": "無論你在帝江號上的哪個地方偶遇佩麗卡監督，她總會平靜地向你問好，然後繼續投入到自己手上的工作中，以至於不少人猜測監督的真面目是一台披著黎博利皮的機器，可以完美執行某個超級思維的指令。雖然這種玩笑話在新進幹員間流傳甚廣，但監督本人不光不牴觸，還偶爾故意在新人面前「調皮」一下，幫忙緩解幹員們的壓力。\n按照馬丁·馬文·馬倫的非官方說法，正式擔任監督之後，佩麗卡強迫自己用最恰當的面貌去履行自己的職責。但積累的情緒和壓力還是需要一個宣洩口。而在管理員回歸之前，佩麗卡就已經找到了一套足以讓她放鬆自己的辦法。「你聽說過『機油與機械的熱彈創意賽』嗎？據說它最初源於某位血魔天才和神秘機械師的創意對決。研發中心的前輩也把這項古老的泰拉活動帶來了終末地。如今，熱彈賽中出現的怪點子不光為幹員們帶來了許多歡笑，還極大地促進了我們的技術革新。但很少有人知道，這項活動在終末地的真正推手是佩麗卡監督。畢竟她從沒有正式參過賽，也很少發表看法。事實上，她重新開啟這項活動的初衷，只是幫自己創造一個能緩解手癢，驗證腦子裡古怪想法的平台。」\n\n雖然今年我被禁止參賽，但也不算缺席吧。這輛獲獎的「電漿轟鳴」還是我取的名！它主人帶著「把引力銃械塞進加速引擎」的想法找到我時，我就知道有搞頭。最後拆了不少好銃才成功的……欸？當、當然沒有動我爸的寶貝庫存！\n——蟬聯多屆熱彈賽冠軍的銃械天才少女\n\n這輛車剛拿下了新都築地下熱力賽的冠軍啊！怎麼會在帝江號上？！\n——某位競速愛好者\n\n「電漿轟鳴」？主人是「嫌疑人伊里奇」？佩麗卡，這又是哪個部門冒出來的新人？\n——陳千語",
+    "zh-CN": "无论你在帝江号上的哪个地方偶遇佩丽卡监督，她总会平静地向你问好，然后继续投入到自己手头上的工作中，以至于不少人猜测监督的真面目是一台披着黎博利皮的机器，可以完美执行某个超级思维的指令。虽然这种玩笑话在新进干员间流传甚广，但监督本人不光不抵触，还偶尔故意在新人面前“调皮”一下，帮忙缓解干员们的压力。\n按照马丁·马文·马伦的非官方说法，正式担任监督之后，佩丽卡强迫自己用最恰当的面貌去履行自己的职责。但积累的情绪和压力总归需要一个宣泄口。而在管理员回归之前，佩丽卡就已经找到了一套足够让她放松自己的办法。“你听说过‘机油与机械的热弹创意赛’吗？据说它最初源于某位血魔天才和神秘机械师的创意对决。研发中心的前辈也把这项古老的泰拉活动带来了终末地。现如今，热弹赛中出现的怪点子不光给干员们带来了许多欢笑，还极大促进了我们的技术革新。但很少有人知道，这项活动在终末地的真正推手是佩丽卡监督。毕竟她从没有正式参过赛，也很少发表看法。事实上，她重启这项活动的初衷，只是给自己创造一个能缓解手痒，验证脑子里古怪想法的平台。”\n\n虽然今年我被禁止参赛，但也不算缺席吧。这辆获奖的“电浆轰鸣”还是我起的名！它主人带着“把引力铳械塞进加速引擎”的想法找到我时，我就知道有搞头。最后拆了不少好铳才成功呢……欸？当、当然没有动我爸的宝贝库存！\n——蝉联多届热弹赛冠军的铳械天才少女\n\n这辆车刚拿下了新都筑地下热力赛的冠军啊！怎么会在帝江号上？！\n——某位竞速爱好者\n\n“电浆轰鸣”？主人是“嫌疑人伊里奇”？佩丽卡，这又是哪个部门冒出来的新人？\n——陈千语",
+    "ja": "帝江号のどこで会っても、ペリカ監察官は常に穏やかな挨拶を返し、手元の仕事へとすぐ戻っていく。「監察官はリーベリの皮を被った、スーパーコンピューターの指令を完璧にこなすロボットなのではないか」――誰もが一度は考えるジョークである。これは新しく着任したオペレーターの間で広く囁かれているが、監察官本人はまったく気にする素振りを見せなかった。むしろ、新人の緊張をほぐすため、自ら「いたずら」を仕掛けることさえあった。\n非公式ではあるが、マーティン・マーヴィン・マーレンの話では、ペリカは監察官に就任して以来、その役職にふさわしい姿で責務を果たしてきた一方で、内に積もる思いとストレスには発散の場が必要だったのではないかとのことだ。だから管理人が戻る前、彼女はすでに自分なりのリラックス手段を見つけていた。「『エンジンオイルとメカの銃弾創意コンテスト』をご存じですか？ブラッドブルードの天才と、謎めいたメカニックとの対決から始まったと言われています。テラ由来の古い遊びですが、研究センターの先輩方がエンドフィールドに持ち込んだのです。今では、このコンテストで生まれた奇抜なアイディアが、オペレーターを笑顔にするのはもちろん、技術革新の刺激にもなっています。ごく一部にしか知られていませんが、実はこのコンテストを裏で動かしているのは、他ならぬペリカ監察官なのです。とはいえ、彼女は表立って参加したこともなければ、意見を口にすることも滅多にありませんが。復活させた理由は……疼く手の衝動を鎮め、頭に次々と浮かぶアイディアを試す場所を自分自身に与えるためだったという話ですよ。」\n\n今年は参加を断られちゃったけど、「欠席」じゃないからね？だって、賞をとった「プラズマ轟号」の名前をつけたのは、私なんだから！オーナーさんが「引力銃を加速エンジンに取り付ける」ってアイディアを持ってきたとき、ピンときちゃったんだ。結局、いい銃をいくつもバラして組み直すことになったけどね……えっ？も、もちろん父さんの大事なコレクションには手をつけてないよ！\n――銃弾コンテストの1位を連続で勝ち取った銃の天才少女\n\nこれ、シン・ツクシの地下熱機関コンテストで1位をとったやつじゃないか！なんで帝江号にあるんだよ！？\n――とあるレーシング好き\n\n「プラズマ轟号」？オーナーは「容疑者イリイチ」？……ペリカ、今度はどこからこんな新人連れてきたの？\n――チェン・センユー",
+    "ko": "제강호에서 펠리카 감독관과 마주치면, 그녀는 언제나 차분하게 인사를 건네고 이내 다시 맡은 업무에 몰두한다. 이런 모습 때문에, 일부 사람들은 감독관이 사실 리베리 탈을 쓴 기계고, 어떤 초지능의 명령을 완벽히 수행하는 존재가 아닐까 하는 농담 섞인 추측을 하곤 한다.\n이런 농담은 신입 오퍼레이터들 사이에서 널리 퍼져 있지만, 정작 감독관 본인은 전혀 개의치 않을 뿐더러, 가끔 신입 앞에서 '장난'을 치며 긴장을 풀어주기도 한다.\n\n마틴 마빈 말렌의 비공식 기록에 따르면, 펠리카는 공식적으로 감독관 직책을 맡은 후 자신을 억제하며 가장 적절한 모습으로 직무를 수행해 왔다고 한다.\n하지만 누적된 감정과 스트레스는 결국 배출구가 필요하기 마련이다. 관리자가 돌아오기 전, 펠리카는 이미 자신을 이완시킬 방법을 찾아냈다.\n\n\"혹시 '기계와 기름의 열탄 창의력 대회'라고 들어본 적 있어? 원래는 어떤 천재 뱀파이어와 신비로운 기계공의 창의적 발상 대결에서 비롯됐다고 전해지지. 연구 개발 센터의 선배들이 옛적의 테라 행사마저 엔드필드에 들여왔어. 지금은 열탄 창의력 대회에서 쏟아지는 기상천외한 아이디어가 오퍼레이터들에게 큰 웃음을 주는 동시에 기술 혁신에도 크게 기여하고 있지. 하지만 이 행사를 엔드필드에서 주도한 사람의 정체가 펠리카라는 사실은 아는 사람이 거의 없어. 펠리카 감독관은 공식적으로 참가한 적도, 공개적으로 의견을 밝힌 적도 드물거든. 사실 그녀가 대회를 부활시킨 본래 의도는, 손이 근질거릴 때 머릿속 기괴한 아이디어를 검증할 무대를 만들고 싶었던 것뿐이야.\"\n\n올해는 참가가 금지됐지만, 난 빠진 건 아니야. 이번에 수상한 '플라스마 폭음'이라는 이름도 내가 지은 거니까! 그 주인이 '중력 총기를 가속 엔진에 끼워보자'는 아이디어를 들고 왔을 때부터, 난 이거 될 줄 알았다니까. 좋은 총들을 꽤 많이 뜯어낸 후에야 성공했지... 뭐? 당, 당연히 우리 아빠의 소장품 창고는 안 건드렸어!\n- 수차례 열탄 창의력 대회 우승을 차지한 총기 천재 소녀\n\n이 차는 방금 신 츠쿠시 지하 레이싱 경기에서 우승했잖아! 어떻게 제강호에 있는 거지?\n- 어느 레이싱 마니아\n\n'플라스마 폭음'? 그 주인이 '용의자 이리치'라고? 펠리카, 이번엔 또 어느 부서에서 이런 신입이 튀어나온 거야?\n- 진천우"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "M3, file this document as an annex to \"Zeroth Directive\" under sealed status. It is not to be enforced under any circumstances. \nI hereby appoint Perlica as the \"Signatory of Zeroth Directive\". \nHowever, its activation must be entirely subject to her personal consent. \nIf she ultimately decides to remain with Endfield Industries, you, as the executor, shall take her to meet the Founder. \n\nDOCUMENT: A certain log that requires sufficient authority level \n\"Have you decided?\" \n\"Staying with Endfield Industries was never a question, M3.\" \n\"Very well. Come with me. The Founder wishes to see you.\" \n...... \n\"So we finally meet, Supervisor Perlica.\" \n\"Su ... Supervisor? Wait, your appearance—\" \n\"Our time is running short.\"",
+    "zh-TW": "M3，這份檔案作為「零號委託」的附件封存，不可強制生效。\n我現在任命佩麗卡為「『零號委託』簽署人」。\n但是否生效需完全遵循其個人意願。\n如果她最終決定留在終末地工業，那由你作為執行人，帶她去見創始人。\n\n【權限紀錄】\n「你決定了？」\n「留在終末地，我不需要猶豫，M3。」\n「那好吧。跟我來，創始人要見你。」\n…………\n「我們還是見面了，佩麗卡監督。」\n「監、監督？等等，你的樣子——」\n「我們的時間不多了。」",
+    "zh-CN": "M3，这份文件作为“零号委托”的附件封存，不可强制生效。\n我现在任命佩丽卡为“‘零号委托’签署人”。\n但是否生效需完全遵循其个人意愿。\n如果她最终决定留在终末地工业，那由你作为执行人，带她去见创始人。\n\n【权限记录】\n“你决定了？”\n“留在终末地，我不需要犹豫，M3。”\n“那好吧。跟我来，创始人要见你。”\n…………\n“我们还是见面了，佩丽卡监督。”\n“监、监督？等等，你的样子——”\n“我们的时间不多了。”",
+    "ja": "M3、このファイルを「初号指令」の添付ファイルとして保存するように。ただし、強制行使は禁止とする。\nここに、ペリカを「『初号指令』の調印者」として任命する。\nしかし、行使の決定に関しては、本人の意志を尊重しなければならない。\n最終的にペリカがエンドフィールド工業に残ると決めたならば、君が遂行者となり、創設者のもとへ連れて行くこと。\n\n【権限記録】\n「決めた？」\n「エンドフィールドに残る。迷いはないわ、M3。」\n「わかった。なら、ついてきて。創設者は、君に会いたいそうだ。」\n…………\n「やはり会うことになったか、ペリカ監察官。」\n「か、監察官？お待ちください、ご様子が――」\n「残された時間は僅かだ。」",
+    "ko": "M3, 이 파일은 '미션 제로'의 부속 자료로 봉인하며, 강제로 발효될 수 없다.\n지금부터 나는 펠리카를 '미션 제로'의 서명인으로 임명한다.\n단, 발효 여부는 전적으로 그녀의 개인 의사에 따른다.\n만약 그녀가 최종적으로 엔드필드 공업에 남기를 선택한다면, 집행자인 네가 그녀를 창립자에게 인도하라.\n\n[권한 기록]\n\"결정했어?\"\n\"M3, 난 고민할 필요도 없어. 엔드필드에 남을 거야.\"\n\"좋아, 날 따라와. 창립자가 널 만나고 싶어 해.\"\n......\n\"결국 만나게 됐네, 펠리카 감독관.\"\n\"감, 감독관? 잠깐만, 그 모습은...\"\n\"우리에게 남은 시간은 많지 않아.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0004_pelica_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "All Operators accounted for. The team is ready for the mission.",
+    "zh-TW": "全員待命，隨時可以出發。",
+    "zh-CN": "全员待命，随时可以出发。",
+    "ja": "総員準備完了。いつでも出発できます。",
+    "ko": "전 인원 명령 대기, 언제든지 출발할 수 있어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Endfield Crisis Team ready for action.",
+    "zh-TW": "終末地危機處理小組已就緒。",
+    "zh-CN": "终末地危机处理小组已就绪。",
+    "ja": "エンドフィールド危機対策班、準備完了。",
+    "ko": "엔드필드 위기 대책팀 준비 완료."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Transferring command authority now, Endministrator.",
+    "zh-TW": "指揮權限暫時交給你了，管理員。",
+    "zh-CN": "指挥权限暂时交给你了，管理员。",
+    "ja": "管理人、指揮権限を委譲します。",
+    "ko": "당분간 지휘 권한을 너한테 맡길게, 관리자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Lead us in our next step forward, Endministrator.",
+    "zh-TW": "帶領我們更進一步吧，管理員。",
+    "zh-CN": "带领我们更进一步吧，管理员。",
+    "ja": "もう一歩先へ……導いてください、管理人。",
+    "ko": "한 걸음 더 나아갈 수 있게... 우리랑 함께 해줘, 관리자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Time to come up with optimum tactics for wielding this weapon.",
+    "zh-TW": "該研究一下適合這件武器的作戰方式了。",
+    "zh-CN": "该研究一下适合这件武器的作战方式了。",
+    "ja": "この武器に合った戦い方を研究しないと……",
+    "ko": "이 무기랑 어울리는 작전을 연구해 봐야겠네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "The fruit of the Automated Industry Complex.",
+    "zh-TW": "這也是集成工業系統的成果。",
+    "zh-CN": "这也是集成工业系统的成果。",
+    "ja": "これも集成工業システムの成果ですね。",
+    "ko": "이것도 통합 공업 시스템의 성과지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Now I would just need to tune this ... to maximize the spoils of our victories.",
+    "zh-TW": "只需略微調整……這便於取得更多戰果。",
+    "zh-CN": "只需略微调校……这便于取得更多战果。",
+    "ja": "ほんの少しの調整で……もっと戦果が挙げられるものなのです。",
+    "ko": "약간의 조정만으로... 이렇게나 많은 전투 결과를 얻을 수 있다니."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "We once fought on and never gave up ... for it is our wish to witness your return.",
+    "zh-TW": "我們曾這樣不斷抵抗……期待著你能再一次歸來。",
+    "zh-CN": "我们曾这样不断抵抗……期待着你能再一次归来。",
+    "ja": "私たちは抗い続けてきた……あなたがもう一度戻ってくると、ずっと信じていました。",
+    "ko": "예전에 우린 이렇게 끊임없이 저항했어... 네가 다시 돌아올 거라는 기대를 품고서 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Your approval is much appreciated, Endministrator. I shall carry on with greater effort.",
+    "zh-TW": "感謝你的認可，管理員。我會繼續努力的。",
+    "zh-CN": "感谢你的认可，管理员。我会继续努力的。",
+    "ja": "管理人。認めてくださったこと、感謝します。これからも力を尽くします。",
+    "ko": "인정해 줘서 고마워, 관리자. 계속 노력할게."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0004_pelica_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "Though I am a little too young and untested, my mind is set. I shall fulfill my duties as Supervisor of Endfield Industries.",
+    "zh-TW": "作為監督，我還有很多不成熟的地方，但我已經下定了決心，責無旁貸。",
+    "zh-CN": "作为监督，我还有很多不成熟的地方，但我已经下定了决心，责无旁贷。",
+    "ja": "監察官として、未熟だということはわかっています。けれど、決めたのです。責任を負うと。",
+    "ko": "감독관으로서 미숙한 점이 많긴 하지만... 내가 내린 결정과 그 책임을 피하진 않을 거야."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0004_pelica_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Once again you've placed your faith in me, Endministrator... I shall live up to your expectations.",
+    "zh-TW": "你又一次選擇了信任我……管理員。我絕對不會辜負你的期待。",
+    "zh-CN": "你又一次选择了信任我……管理员。我绝对不会辜负你的期待。",
+    "ja": "あなたはまた私を信じてくれました。必ず、期待に応えます。",
+    "ko": "계속 날 믿어줘서 고마워... 관리자, 절대 네 기대를 저버리지 않을게."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0004_pelica_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "I'm alright. Hearing your encouraging words just made me ... nostalgic about the past. It used to be the only reason I kept going. Now, I'm glad that I get to lead Endfield Industries, and stand by your side.",
+    "zh-TW": "沒什麼，只是得到你的誇讚……讓我有點懷念過去。那曾是我努力的唯一理由，而現在，我很慶幸能夠帶領著終末地，站在你的身旁。",
+    "zh-CN": "没什么，只是得到你的夸赞……让我有些怀念过去。那曾是我努力的唯一理由，而现在，我很庆幸能够带领着终末地，站在你的身旁。",
+    "ja": "なんでもありません。管理人に褒められて……少し昔を思い出しただけです。あの頃はそのために努力を重ねていたけれど……今はエンドフィールドを率いて、あなたの隣に立っていることが嬉しいのです。",
+    "ko": "아무것도 아니야. 그냥... 너한테 칭찬을 받으니까, 옛날 생각이 나서... 예전에 나한테는 이게 유일한 노력의 이유였거든. 지금 네 곁에서 함께 엔드필드를 이끌고 있다는 게... 정말 기뻐."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0004_pelica_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "I have always believed that you will lead us upon the right path once more. Welcome back to Endfield Industries, Endministrator.",
+    "zh-TW": "我一直堅信，你會再一次為我們指明前進的方向。歡迎回歸終末地，管理員。",
+    "zh-CN": "我一直坚信，你会再一次为我们指明前进的方向。欢迎回归终末地，管理员。",
+    "ja": "ずっと信じていました。あなたがまた、私たちの進むべき道を示してくれると。エンドフィールドへ……おかえりなさい。管理人。",
+    "ko": "난 항상 믿고 있었어. 네가 다시 한번 우리에게 나아갈 방향을 비춰줄 거라고. 엔드필드로 돌아온 걸 환영해, 관리자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Prepped and ready to go.",
+    "zh-TW": "隨時準備。",
+    "zh-CN": "随时准备。",
+    "ja": "いつでも出撃できます。",
+    "ko": "언제든지 출발할 수 있어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Operator Perlica standing by.",
+    "zh-TW": "幹員佩麗卡，待命中。",
+    "zh-CN": "干员佩丽卡，待命中。",
+    "ja": "オペレーターペリカ、待機しています。",
+    "ko": "오퍼레이터 펠리카, 명령 대기 중."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "An efficient assignment. I shall do my best.",
+    "zh-TW": "高效的規劃，我會努力的。",
+    "zh-CN": "高效的规划，我会努力的。",
+    "ja": "効率的に作業するよう、尽力します。",
+    "ko": "효율적인 계획이네, 열심히 할게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "How are you holding up, Endministrator?",
+    "zh-TW": "適應得還好嗎，管理員？",
+    "zh-CN": "适应得还好吗，管理员？",
+    "ja": "管理人、もう慣れてきましたか？",
+    "ko": "관리자, 잘 적응하고 있어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Don't push yourself too hard, Endministrator. Keep yourself rested and well.",
+    "zh-TW": "管理員，注意休息，不要太勉強自己。",
+    "zh-CN": "管理员，注意休息，不要勉强自己。",
+    "ja": "管理人、しっかり休んでください。無理は禁物ですよ。",
+    "ko": "관리자, 잘 쉬는 것도 중요해. 너무 무리하지 말고."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0004_pelica_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Since your awakening, Dijiang is becoming a livelier place with every passing day... And this makes me hopeful for the future, Endministrator.",
+    "zh-TW": "自從管理員醒來以後，帝江號每天都在變得更有活力……我很期待未來的日子，管理員。",
+    "zh-CN": "自从管理员醒来以后，帝江号每天都在变得更有活力……我很期待未来的日子，管理员。",
+    "ja": "管理人が目覚めてから、帝江号は日に日に活気を取り戻しています……これからが楽しみですね、管理人。",
+    "ko": "네가 깨어난 뒤로, 제강호의 하루하루가 점점 더 활기차게 변하고 있어. 앞으로 다가올 미래가 정말 기대돼."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "You're looking much better, Endmin. Feel free to talk to me if there's anything you need.",
+    "zh-TW": "管理員，你的氣色好多了。如果還有什麼需要，可以隨時找我。",
+    "zh-CN": "管理员，你的气色好多了。如果还有什么需要，可以随时找我。",
+    "ja": "管理人、ずいぶん顔色が良くなりましたね。何かあれば、いつでも声をかけてください。",
+    "ko": "관리자, 안색이 아주 좋아졌네. 필요한 게 있으면 언제든지 나한테 말해 줘."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0004_pelica_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Your needs are our top priority, Endmin. To see them met, I'll gladly set aside other tasks ... or ask Fiona to handle them.",
+    "zh-TW": "管理員，你的需求是最優先的。我可以把其他事情先放下……或是交給菲奧娜去辦。",
+    "zh-CN": "管理员，你的需求是最优先的。我可以把其他事情先放下……或是交给菲奥娜去办。",
+    "ja": "管理人の希望が最優先です。私の業務は後で……それか、フィオナに任せますから。",
+    "ko": "나한테 가장 중요한 건 네 요구 사항이야. 다른 일들은 조금 미뤄도 돼... 아니면 피오나한테 맡겨도 되고..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0004_pelica_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "The Central Ring is always this busy. It is a symbol of our obligations to this world. For more than a century, generations of Endfielders have devoted themselves to reviving the Civilization Band. Perhaps a day will come when Dijiang can finally land, and take a well-deserved rest within the haven we've built.",
+    "zh-TW": "中央環廳總是這麼繁忙，這意味著一種責任。百餘年來，一代又一代的終末地幹員都在為復興文明環帶而努力。也許有一天，帝江號會落回到地上，在我們親手建設的樂土中小憩片刻吧。",
+    "zh-CN": "中央环厅总是这么繁忙，这意味着一种责任。百余年来，一代又一代的终末地干员都在为复兴文明环带而努力。也许有一天，帝江号会落回到地上，在我们亲手建设的乐土中小憩片刻吧。",
+    "ja": "中央ホールの動きが絶えないのは、それだけの責任があるからです。エンドフィールドのオペレーターは100年以上、文明地帯の復興のために尽くしてきました。いつか帝江号も地上に降り、私たちが築いた理想郷でひとときの休息を得られる日が来ると……信じています。",
+    "ko": "중앙 홀은 항상 이렇게 바빠, 이건 일종의 책임이지... 엔드필드의 오퍼레이터들은 백 년이 넘는 세월 속에서 세대와 세대를 이어가며 문명 밴드의 부흥을 위해 노력해 왔으니까. 어쩌면, 언젠가 제강호도 땅으로 내려와 우리가 직접 만든 낙원에서 잠깐 쉬어갈 수 있을지도 모르겠네."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0004_pelica_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "Many operators wouldn't spend too much time aboard Dijiang, especially our elites. They are sorely needed by the Civilization Band where danger lurks, and not by this orbital refuge. No matter, you will meet them soon. I shall make the proper introductions when the time comes.",
+    "zh-TW": "有很多幹員並不會停留在帝江號，特別是精英幹員們。比起逗留在天空之上的安全地帶，危機四伏的文明環帶更需要他們。沒關係，你們遲早會見面的。到時候，我會好好向管理員介紹大家。",
+    "zh-CN": "有很多干员并不会停留在帝江号，特别是精英干员们。比起逗留在天空之上的安全地带，危机四伏的文明环带更需要他们。没关系，你们迟早会见面的。到时候，我会好好向管理员介绍大家。",
+    "ja": "すべてのオペレーターが帝江号に常駐しているわけではありません。特にエリートオペレーターは空に浮かぶ安全地帯ではなく、危険に満ちた文明地帯にこそ必要とされています。大丈夫です……いずれ会える日が来ますから。そのときは私が管理人に紹介しますね。",
+    "ko": "제강호에 머무는 오퍼레이터는 많지 않아, 정예 오퍼레이터들은 특히 더 그렇지. 하늘 위의 안전지대보다는 위험천만한 문명 밴드가 오퍼레이터들을 더 필요로 하니까. 조만간 다들 만나게 될 거야, 그때 내가 모두를 소개해 줄게."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0004_pelica_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "When I last had a conversation like this, I was a girl barely half my current height. Times have changed. Dijiang received plenty of modifications and I grew up... But you, Endministrator... You remain the same as before.",
+    "zh-TW": "曾經我們在帝江號上這樣交談的時候，我還是個只有現在一半高的孩子。如今物換星移，我長大了，帝江號也有許多變化，管理員你卻……依舊如初。",
+    "zh-CN": "曾经我们在帝江号上这样交谈的时候，我还是个只有现在一半高的孩子。如今物换星移，我长大了，帝江号也有许多变化，管理员你却……依旧如初。",
+    "ja": "昔、帝江号でこうしてお話していた頃、私は今の半分ほどの背丈しかない子どもでした。時が経ち、私も成長して、帝江号も変化を重ね……けれど管理人は……ずっと変わらないのですね。",
+    "ko": "예전에 우리가 제강호에서 이런 대화를 나눴을 때, 난 지금 키의 반밖에 안 되는 꼬마였어. 시간의 흐름을 따라 자리를 바꾸는 별들처럼... 어느새 난 그때보다 훨씬 더 커져 버렸고, 제강호도 많이 변했지. 하지만 넌... 예전 그대로네."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0004_pelica_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "I've requested for a set of supplies on your behalf, Endmin. I hope it can help. There are times when you overwork yourself. But do remember: it is alright to count on me and Endfield Industries.",
+    "zh-TW": "管理員，我為你申請了一些補給，應該能幫上你的忙。你有時候太過努力了，但其實，依賴一下我和終末地也沒什麼不好。",
+    "zh-CN": "管理员，我为你申请了一些补给，应该能帮上你的忙。你有时候太过努力了，但其实，依赖一下我和终末地也没什么不好。",
+    "ja": "管理人、補給物資を申請しておきました。きっと役に立つと思います。あなたは頑張りすぎてしまうときがあるから……私やエンドフィールドに、少しくらい頼ってもいいんですよ。",
+    "ko": "너한테 주려고 보급을 신청해 뒀었어, 분명 도움이 될 거야. 요즘 너무 무리하는 것 같던데... 가끔은 나랑 엔드필드에 조금 더 의지해 줬으면 좋겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "I really appreciate this, Endmin. I shall treasure it well.",
+    "zh-TW": "非常感謝，管理員，我一定會珍惜的。",
+    "zh-CN": "非常感谢，管理员，我一定会珍惜的。",
+    "ja": "ありがとうございます、管理人。大切に……しますね。",
+    "ko": "정말 고마워, 관리자. 소중하게 간직할게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Endmin, don't miss your physical exams, and please avoid overworking yourself. Most importantly, never abuse your Originium Arts — Should other operators request your assistance to fix a Delta Bot again ... just turn them down!",
+    "zh-TW": "管理員，你需要定期檢查身體，別太勉強自己。特別是，不要太濫用自己的源石技藝——如果還有幹員請你維修Delta型機器人……請拒絕！",
+    "zh-CN": "管理员，你需要定期检查身体，别太勉强自己。特别是，不要太滥用自己的源石技艺——如果还有干员请你维修Delta型机器人……请拒绝！",
+    "ja": "管理人、定期的な身体検査は必ず受けてください。無理はしないように。特に、アーツを使いすぎては――もし、誰かにDeltaロボットの修理を頼まれたとしても……断ってくださいね。",
+    "ko": "관리자, 정기적으로 건강검진 받는 거 잊지 마. 너무 무리하지 말고... 특히 오리지늄 아츠는 절대 많이 사용하면 안 돼. 다른 오퍼레이터들이 델타 로봇을 수리해 달라고 부탁하더라도... 꼭 거절하는 거야, 알겠지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "When I was a little girl, I explored every corner of Dijiang and nicknamed every cabin. It was a time when I believed I would never see the surface again ... a time when I felt that Dijiang was my home. But to better support you, I left the ship and traveled across many places on Talos-II. Now, Dijiang looks more cramped than I remember ... but to me, it's still a vessel capable of holding the entirety of my memories.",
+    "zh-TW": "小時候，我走遍了帝江號的每一個角落，在心裡為每一個房間都取了綽號。我以為我不會再回到地面上了，我覺得這艘船就是我的家。可是之後，為了能幫到管理員，我還是離開了帝江號，去了塔衛二的很多地方。帝江號看起來變得狹窄了，但我始終覺得……它能裝得下我的所有回憶。",
+    "zh-CN": "小时候，我走遍了帝江号的每一个角落，在心里为每一个房间都取了昵称。我以为我不会再回到地面上了，我觉得这艘船就是我的家。可是之后，为了能帮到管理员，我还是离开了帝江号，去了塔卫二的很多地方。帝江号看起来变得狭窄了，可我始终觉得……它能装得下我的所有回忆。",
+    "ja": "子どものころ、帝江号を歩き回ってはすべての部屋に名前をつけていました。地上にはもう戻らない、ここが私の家だと、そう思っていたんです。けれど、管理人の力になりたくて……ここを離れ、タロⅡの各地を巡ることにしました。帝江号は昔よりも狭く感じるようになったけれど……私の記憶をすべて包んでくれていることに変わりはありません。",
+    "ko": "어릴 때 난 제강호를 구석구석 돌아다니며 모든 방에다가 나만의 애칭을 붙였어. 다시는 땅으로 돌아가지 않을 거고, 이 함선이 바로 내 집이라고 생각했으니까. 하지만 그 이후에, 관리자의 힘이 되고 싶다는 생각으로 난 제강호를 떠나게 됐어. 그렇게 탈로스 II의 여러 곳을 가보니, 제강호가 오히려 작아 보이게 됐지. 하지만 나한테만큼은... 내 모든 추억을 담을 수 있는 최고의 공간이야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0004_pelica_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "Chen is actually the first operator I personally recruited since becoming Supervisor of Endfield Industries. She is also my best friend. I ran into her unexpectedly during a joint project with HAS... Hehe. She kept saying I always wore a stiff face, and only decided to help because she got too worried about me. Perhaps it was the truth. I was an untested Supervisor and there were so many things I had to pick up. I barely had time to focus on the people and things around me. Her smile and candid personality probably kept me from taking many wrong turns.",
+    "zh-TW": "陳其實是我作為監督親自招募的第一位幹員，也是我最好的朋友之一。我在宏科院的合作案現場偶遇了陳千語……呵呵，她總說那時候我不苟言笑，擔心我，所以才主動幫了我的忙。也許真的是這樣。剛成為監督的時候，有太多東西要學習，讓我甚至無暇去關注身邊的人和事。如果不是她的灑脫和笑容，恐怕我會走不少彎路吧。",
+    "zh-CN": "陈其实是我作为监督亲自招募的第一位干员，也是我最好的朋友之一。我在宏科院的合作项目现场偶遇了陈千语……呵呵，她总说那时候我不苟言笑，担心我，所以才主动帮了我的忙。也许真的是这样。刚成为监督的时候，有太多东西要学习，让我甚至无暇去关注身边的人和事。如果不是她的洒脱和笑容，恐怕我会走不少弯路吧。",
+    "ja": "チェンは私が監察官になって最初に採用したオペレーターで、親友でもあるんです。初めて会ったのは、宏科院との共同プロジェクト……ふふ、チェンは「あの頃のペリカは真面目すぎたし笑わなかったから心配になった」って言うんですよ。たぶん本当にそうだったんでしょうね。監察官になったばかりで、学ぶことだらけで……周りに目を向ける余裕がなかったんです。チェンの明るい笑顔がなかったら、もっと遠回りしていたかもしれませんね。",
+    "ko": "천우는 내가 감독관으로서 직접 채용한 첫 번째 오퍼레이터야, 가장 친한 친구이기도 하고. 내가 홍산 과학원의 협력 프로젝트 현장에 갔을 때 우연히 알게 됐지... 전에 천우가 말해줬는데, 그때 난 아무런 표정도 없는 모습이었대. 그게 걱정돼서 나한테 먼저 손을 내밀어 도와주려고 했다는 거 있지? 음, 그때의 나였다면 진짜 그랬을지도 몰라. 막 감독관이 됐을 때는 배울 게 너무 많아서 내 주변을 돌볼 여유가 없었거든. 아마 천우의 밝은 웃음이 없었다면, 더 많이 힘들었을 거야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0004_pelica_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "There's no need for concern, Endmin. Don't take Chen's teasing about me too seriously, of course I have off hours. What do I do for vacation? Hmm, mostly reading — literature and theoretical science, since they're relevant to upcoming work. It's not a break if I'm doing things for work? Well then ... I enjoy racing through frontier lands, alone on my bike. Endmin ... you're the only one who knows about this. The other operators will get worried if they learn about this secret. I know where they're coming from, but part of me yearns to hear the winds of this planet.",
+    "zh-TW": "不用擔心，管理員。我當然也是有休息時間的，不要聽陳亂講。放假的時候會做什麼？會看書。嗯，文學和理論類的都看，為了能在未來的工作中——抱著這種想法就不算休息了？那……其實我會一個人騎著摩托車在開拓區馳騁。我、我只告訴了管理員，其他幹員要是知道了會擔心的。我能理解他們，但我只是想聽聽這顆星球的風聲。",
+    "zh-CN": "不用担心，管理员。我当然也是有休息时间的，不要听陈胡说。放假的时候会做什么？会看书。嗯，文学和理论类的都看，为了能在未来的工作中——抱着这种想法就不算休息了？那……其实我会一个人骑着摩托在开拓区驰骋。我、我只告诉了管理员，其他干员要是知道了会担心的。我能理解他们，但我只是想听听这颗星球的风声。",
+    "ja": "管理人、心配しなくて大丈夫です。ちゃんと休みは取っています。チェンの話は鵜呑みにしないでください……休みの日、ですか？文学や専門書を読み、この先の業務に活かせるように――それでは休憩になっていない、と……えっと、実は開拓エリアをバイクで走るのが好きなのですが……こ、これは管理人だから、お話しました。皆が知ったら、きっと心配してしまうから。わかってはいるんです。でも、この星の風の音をどうしても聞いていたくて……",
+    "ko": "걱정하지 마, 쉬는 시간은 충분히 가져가고 있으니까. 천우가 뭐라고 했는지는 몰라도 말이야. 휴가 때 뭐 하냐고? 음... 책 읽어. 보통 문학 책이나 이론서를 읽는 편이야, 그래야 다음 업무에 도움이 되거든. 이런 생각을 하는 것 자체가 쉬는 게 아니라고? 으음... 사실 나, 가끔 오토바이를 타고 개척 지역을 달리곤 해. 너, 너한테만 말해주는 거야, 다른 오퍼레이터들이 알면 걱정하니까... 그 마음을 모르진 않지만, 난 이 행성의 바람 소리를 듣는 게 좋아."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0004_pelica_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "Are you awake, Endmin? You should turn in early for today if you're feeling tired. I caught a glimpse of your sleepy face just now... I've actually been looking at that same sleepy face of yours for a decade. Back then, I visited the Sarcophagus with the other children, just to see you hibernating peacefully. But as time passed, I was the only one left. I'd come by often — after I passed the operator trials, after I became the Supervisor... Don't feel bad about this, Endmin. I actually have plans to tell you everything once we restore your memories.",
+    "zh-TW": "醒了嗎，管理員？累的話，就早點休息吧。睡臉？管理員的睡臉我已經看了十年了。嗯？當然了，以前我總是會和其他孩子一起去探望石棺中沉睡的管理員。後來，就只剩我一個人了。通過幹員測試的時候，當上監督的時候……我都會去探望沉睡中的管理員。你不必愧疚，畢竟我本來就打算等管理員恢復記憶之後，全部說給你聽的。",
+    "zh-CN": "醒了吗，管理员？累的话，就早点休息吧。睡脸？管理员的睡脸我已经看了十年了。嗯？当然了，以前我总是会和其他孩子一起去探望石棺中沉睡的管理员。后来，就只剩我一个人了。通过干员测试的时候，当上监督的时候……我都会去探望沉睡中的管理员。你不必愧疚，毕竟我本来就打算等管理员恢复记忆之后，一股脑说给你听的。",
+    "ja": "目が覚めましたか？疲れているみたいですから、早めに休んでくださいね。寝顔？管理人のなら、10年も見ていて……はい、もちろんです。小さい頃は皆と一緒に、石棺で眠る管理人を見に行っていました。いつの間にか、私ひとりになっていましたが……オペレーター試験に合格したとき、監察官になったとき、いつもあなたに会いに行って……気にしないでくださいね。管理人が記憶を取り戻したら、全部聞いてもらおうって思っていたんですから。",
+    "ko": "졸려? 피곤하면 일찍 들어가. 걱정할 필요 없어, 네가 자는 모습은 십 년이 넘도록 봐왔는걸. 응? 아, 예전엔 자주 다른 아이들이랑 석관 속에 잠든 널 찾아갔거든. 나중에는 나 혼자만 가게 됐지만 말이야. 오퍼레이터 테스트에 합격했을 때나 감독관이 됐을 때나... 난 항상 깊이 잠든 네 모습을 보러 왔었어. 미안해하지 않아도 돼. 어쨌든 네가 기억을 되찾으면 한꺼번에 얘기하려고 마음먹었던 일이니까."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0004_pelica_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "Endfield Industries is partnering with many organizations upon this land. The Accordatories, definitely. The TGCC is the best provider of modern logistics and supplies, and the UWST is a most reliable friend in the frontier. The HAS is always perched at the edge of the latest tech breakthrough, and we openly share our scientific findings with each other. Allies like these guarantee our ability to stand strong and firm in this cruel, new home.",
+    "zh-TW": "終末地與這片大地上的許多組織都有合作。公約陣營自不必說，環塔商會是現代物流和物資供應的保障，聯盟工團則是開拓區最有力的盟友，宏科院始終站在技術前沿與我們互通有無。正因為有這樣的盟友，我們才能在這個殘酷的新家園站穩腳跟。",
+    "zh-CN": "终末地与这片大地上的许多组织都有合作。公约阵营自不必说，环塔商会是现代物流和物资供应的保障，联盟工团则是开拓区最有力的盟友，宏科院始终站在技术前沿与我们互通有无。正因为有这样的盟友，我们才能在这个残酷的新家园站稳脚跟。",
+    "ja": "エンドフィールドは多くの組織と協力関係にあります。協定陣営はもちろん、環タロ商会は物資供給の要ですし、工業団連盟は開拓エリアにおいて最も頼りになる存在です。そして、最先端の技術を持つ宏科院とは常に情報を共有しています。仲間がいるからこそ、この過酷な土地で「新しい家」のために立ち上がることができるんです。",
+    "ko": "엔드필드는 이 대지의 수많은 조직이랑 협력하고 있어. 협약 진영은 말할 것도 없고, 우리의 현대 물류랑 물자 공급은 상업연합회가 맡아 주고 있거든. 또 연맹 공단은 개척 지역의 가장 든든한 동맹이고, 홍산 과학원은 항상 기술의 최전선에 서서 우리랑 적극적으로 교류하고 있어. 이 잔혹하고도 낯선 고향에서 우리가 버틸 수 있었던 것도 이런 동맹들과 함께했던 덕분이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Never met Fiona in person? Ah... Fiona's condition is quite ... special. She told me that she enjoys being on air and connected with everyone via our combat comms. And Fiona is rather worried that if you ... met her in person, you might start treating her very differently.",
+    "zh-TW": "從來沒當面看過菲奧娜？啊……菲奧娜稍微有點特殊。她說過，她很喜歡現在這樣在作戰通訊中和大家溝通的感覺。但是對於管理員你，菲奧娜很擔心……看到她本人以後，你對她的態度會有很大的改變。",
+    "zh-CN": "从没当面见过菲奥娜？啊……菲奥娜稍微有些特殊。她说过，她很喜欢现在这样在作战通讯中和大家沟通的感觉。特别是对于管理员你，菲奥娜很担心……见到她本人以后，你对她的态度会有很大的改变。",
+    "ja": "フィオナと直接会ったことがない？そうですね、フィオナはちょっと特別で……今のように、作戦通信を通じて皆と話すのが好きみたいなんです。でも、管理人のことはとても心配しています……実際に会ってみたら、きっと大きく印象が変わると思いますよ。",
+    "ko": "피오나를 실제로 만나본 적이 없다고? 아... 좀 특별하긴 하지. 전에 피오나가 나한테 말해준 적이 있는데, 지금처럼 이렇게 작전 통신을 통해서 소통하는 느낌이 좋다고 했었거든. 특히 넌... 피오나가 엄청나게 걱정하고 있어. 직접 만났다가 혹시라도 네가 자기를 대하는 태도가 바뀌는 건 아닌지 하면서 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "I look like a maestra in battle? I picked up the habit during combat training... They say Leithanians during the Age of Terra combined music with their innate gift for the Arts. My Arts instructor also happened to be a gifted musician. My aptitude for combat wasn't particularly outstanding, but I quickly mastered the techniques when I interpreted the flow of Arts as musical notations and tempos.",
+    "zh-TW": "我作戰的樣子看起來像是一位指揮家？這是我接受作戰訓練的時候留下的習慣……傳說在泰拉時期，萊塔尼亞人會將音樂和法術天賦連結起來，而教我使用法術戰鬥的老師也是一位和音樂有關的奇才。我的戰鬥天賦不算出眾，但只要把法術的流向理解為韻律和節奏，我很快就能抓住訣竅。",
+    "zh-CN": "我作战的样子看起来像是一位指挥家？这是我接受作战训练的时候留下的习惯……传说在泰拉时期，莱塔尼亚人会将音乐和法术天赋联系起来，而教我使用法术战斗的老师也是一位和音乐有关的奇才。我的战斗天赋算不上出众，但只要把法术的流向理解为韵律和节奏，我很快就能抓住诀窍。",
+    "ja": "戦っているとき、指揮者のように見える……？それは、戦闘訓練でついた癖で……テラ時代、リターニア人は音楽とアーツの才能には関係があると考えていたそうです。アーツの使い方を教えてくれた先生も、音楽の才を持っている方でしたから。私には戦闘の才能があるわけではないですが、アーツの流れをリズムやメロディだと捉えたときに、自然とコツが掴めたんです。",
+    "ko": "내가 전투하는 모습이 꼭 지휘자 같다고? 음... 작전 훈련을 받을 때의 습관이 남은 것 같네... 전해지는 이야기에 따르면, 테라 시기의 라이타니엔 사람은 음악이랑 아츠 재능을 연관 지었다고 하거든. 나한테 아츠를 이용한 전투를 가르쳐 주신 선생님도 음악에 대한 재능이 뛰어나셨고... 사실 난 전투 관련 재능이 뛰어난 건 아니야, 하지만 아츠의 흐름을 운율이랑 리듬으로 대입하며 이해하면서 꽤 빨리 비결을 깨우친 편이지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "The Aurora is also visible from Dijiang. It is the anomalous flower that bloomed upon Talos-II. The Northern Veil is enveloped in Æther, making the Aurora look like a wall that blocks our way. A utopia for countless souls once existed on the other side of this wall... Though naught is left but devastation... and enemies that occupy the ruins.",
+    "zh-TW": "在帝江號上也能看見的那片極光，就像是塔衛二這顆星球開出的一朵詭異的花。北方的天幕被超域能量籠罩，極光像是一面牆阻攔在我們的面前。牆的那一邊，曾經是無數人類的理想之地。如今，那裡只剩下一片廢墟，和占據了那片廢墟的……敵人。",
+    "zh-CN": "在帝江号上也能看见的那片极光，就像是塔卫二这颗星球开出的一朵诡异的花。北方的天幕被超域能量笼罩，极光像是一面墙阻拦在我们的面前。墙的那一边，曾经是无数人类的理想之地。如今，那里只剩下一片废墟，和占据了那片废墟的……敌人。",
+    "ja": "帝江号から見えるあのオーロラは、タロⅡという星が咲かせた不思議な一輪の花のように思えるんです。北方の空は超域エネルギーに覆われ、オーロラは目の前に立ちはだかる壁のようで……その壁の先は、かつて多くの人々にとって理想郷だった場所。しかし今では、廃墟となり……その地を支配しているのは……敵です。",
+    "ko": "제강호에서도 보이는 저 오로라 말이야, 꼭 탈로스 II 행성이 피워낸 기이한 꽃 같지 않아? 초자연 에너지에 휩싸인 북쪽 하늘, 우리 앞을 막아서는 벽처럼 보이는 오로라... 저 벽 너머는 언젠가 수많은 인류의 이상향이었던 적이 있어. 물론, 지금은... 무너진 폐허와 그 폐허를 점거한 적들만 남아 있을 뿐이지만 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "What vendors should we add to Dijiang? Any ideas, Endmin? Oh, nothing special, just another regular survey from the Business Office. Dijiang doesn't have a large lounge area, and our resident crew isn't that big either... Auto-vendors work fine, but they do lack that human touch... What about a cozy café, Endmin? Would you grab a cup of coffee while you're on break?",
+    "zh-TW": "管理員，你覺得帝江號的商店應該新增什麼種類？沒什麼，只是商務辦公室定期會做調查報告。帝江號的生活區並不大，常駐幹員也不算很多，不過，只靠自動販賣機確實是缺乏了點人情味……咖啡廳怎麼樣？管理員，你會想在休息的時候去買一杯咖啡嗎？",
+    "zh-CN": "管理员，你觉得帝江号的商铺应该新增什么品类？没什么，只是商务办公室定期会进行调研报告。帝江号的生活区并不大，常驻干员也不算很多，不过，只靠自动贩卖机确实缺乏了点人情味……咖啡厅怎么样？管理员，你会想在休息的时候去买一杯咖啡吗？",
+    "ja": "管理人、帝江号の売店にどんなものがあったらいいと思いますか？いえ、少し調査を……帝江号の居住スペースはそれほど広くありませんし、常駐のオペレーターも多くありません。ただ、自販機だけでは少し味気ないかと……カフェはどうでしょうか？管理人も、ゆっくりコーヒーを飲みながら休憩したいと思いませんか？",
+    "ko": "관리자, 제강호 상점에 어떤 품목을 추가하면 좋을까? 특별한 건 아니고, 그냥 사업지원실에서 정기적으로 조사 보고서를 만들어 주거든. 제강호의 생활 구역이 크지도 않고, 상주하는 오퍼레이터도 많지 않지만, 자판기 하나로는 확실히 조금 부족한 감이 없지 않으니까... 카페를 차린다면 어떨 것 같아? 관리자, 너도 쉴 때 커피 한 잔 마시고 싶고 그래?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_about_line01",
+   "title": {
+    "en": "Topic: Their First Encounter",
+    "zh-TW": "話題：相遇",
+    "zh-CN": "话题：相遇",
+    "ja": "出会いについて",
+    "ko": "첫 만남에 관하여"
+   },
+   "text": {
+    "en": "Apologies, Endministrator... I know it's selfish, but I'd rather not bring up our past right now. I just hope you can find those memories on your own. This isn't a request from the Supervisor of Endfield Industries — It's from me.",
+    "zh-TW": "……抱歉，管理員。這是我的私心……但是我不希望在現在的管理員面前主動提起我們相遇的過去。我希望——不是作為終末地的監督，只是作為佩麗卡——我希望管理員能……自己回想起那些回憶。",
+    "zh-CN": "……抱歉，管理员。这是我的私心……但是我不希望在现在的管理员面前主动提起我们相遇的过去。我希望——不是作为终末地的监督，只是作为佩丽卡——我希望管理员能……自己回想起那些回忆。",
+    "ja": "……すみません、管理人。私のわがままで……今のあなたに、出会ったときのことを私からは話したくないのです。エンドフィールドの監察官としてではなく、「ペリカ」として――どうしても、あなた自身に思い出してほしいんです……",
+    "ko": "미안해... 관리자. 내 이기심일지도 모르겠지만, 지금은 예전 이야기를 하기엔 조금 이른 것 같아. 엔드필드의 감독관이 아니라, 그냥 펠리카로서... 네가 스스로 우리의 첫 만남을 떠올리는 날이 왔으면 좋겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_about_line02",
+   "title": {
+    "en": "Topic: Dijiang",
+    "zh-TW": "話題：帝江號",
+    "zh-CN": "话题：帝江号",
+    "ja": "帝江号について",
+    "ko": "제강호에 관하여"
+   },
+   "text": {
+    "en": "Impressive, isn't she? Picture the Techno-Protocol as the Originium Network, and Dijiang would be the Protorig master server. She is also the embodiment of the Terran Civilization that traveled through the Cosmic Gate, as well as all the events that followed our crossing. Dijiang has endured war and chaos, and now she cruises in the sea of outer space. Perhaps a day will come when humanity frees itself from the shackles of gravity ... and walks amidst the stars as our ancestors have dreamed.",
+    "zh-TW": "帝江號很壯觀，對吧。如果把協議技術理解為源石網路，帝江號就是所有協議源石的總伺服器。不僅如此，它也是泰拉文明穿過星門，抵達塔衛二後的歷史縮影。帝江號經歷過戰爭和混亂，但最終翱翔在了這片星海之中。也許終有一天，所有人都可以不再受引力的束縛，如前人所想的那樣，漫步於繁星身側。",
+    "zh-CN": "帝江号很壮观，对吧。如果把协议技术理解为源石网络，帝江号就是所有协议源石的总服务器。不仅如此，它也是泰拉文明穿过星门，抵达塔卫二后的历史缩影。帝江号经历过战争和混乱，但最终翱翔在了这片星海之中。也许终有一天，所有人都可以不再受引力的束缚，如前人所想的那样，漫步于繁星身侧。",
+    "ja": "帝江号には本当に圧倒されます。もし協約技術を源石ネットワークとするなら、帝江号はすべての協約源石を司る「統合サーバー」のようなものです。そして、テラ文明が星門を越えてタロⅡに到達した歴史の象徴でもあり……戦争と混沌を経て、今、星の海を翔ける存在になりました。いつかきっと、重力に縛られることなく星の間を自由に移動できる日が来ると……私は信じています。",
+    "ko": "제강호는 참 웅장하지? 프로토콜 기술을 오리지늄 네트워크에 비유한다면, 제강호는 모든 프로토콜 오리지늄의 메인 서버라고 할 수 있거든. 그뿐만 아니라, 테라 문명이 스타게이트를 넘어 탈로스 II에 도착한 이후의 역사를 담은 그 결정체이기도 해. 제강호는 전쟁과 혼란을 겪었지만, 결국은 이 별들의 바다를 누비게 됐잖아? 어쩌면... 언젠가 모든 사람이 선조들이 꿈꿨던 모습처럼 중력의 구속에서 벗어나 별들 사이를 걷는 날이 올지도 몰라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_about_line03",
+   "title": {
+    "en": "Topic: M3",
+    "zh-TW": "話題：M3",
+    "zh-CN": "话题：M3",
+    "ja": "M3について",
+    "ko": "M3에 관하여"
+   },
+   "text": {
+    "en": "There was a time when I addressed M3 as my elder sister. But she put an end to that after I became an actual Endfield operator. Truth be told, she felt like a true sister of mine. Kind, gentle, optimistic, and skilled in everything. I don't see her on Dijiang much these days. I know she is carrying out a mission of her own... And if possible, I hope that Endfield can share her burden.",
+    "zh-TW": "很久以前，我會用「姐姐」來稱呼M3。後來，我正式成為了終末地的幹員，M3就不讓我那樣叫她了。對我來說，她真的就像姐姐一樣，親切、樂觀、無所不能。不過這些年，她越來越少出現在帝江號上了。我知道她有一個獨一無二的使命，但如果可以，我希望現在的終末地可以為她分擔。",
+    "zh-CN": "很久以前，我会用“姐姐”来称呼M3。后来，我正式成为了终末地的干员，M3就不让我那么叫她了。对我来说，她真的就像姐姐一样，亲切，乐观，无所不能。不过这些年，她越来越少出现在帝江号上了。我知道她有一个独一无二的使命，但如果可以，我希望现在的终末地可以为她分担。",
+    "ja": "昔、M3のことを「お姉さん」って呼んでいたんです。でも、私が正式にオペレーターになると、もう「お姉さん」と呼んではいけないと……優しくて前向きで何でも出来る、本当の姉のような存在なんですよ。最近は帝江号にも姿を見せることは少なくなりました。特別な使命があることは知っていますが、できることならエンドフィールドがその一部だけでも担えたらと、そう思っているんです。",
+    "ko": "예전에 난 M3를 '언니'라고 부르곤 했어. 나중에 내가 엔드필드의 정식 오퍼레이터가 되고 나선 언니가 그렇게 부르지 말라고 했지만 말이야. 나한테 있어서 M3는 진짜 언니 같은 존재였어. 친절하고, 낙관적이고... 못 하는 게 없었거든. 하지만 최근 몇 년 동안은 제강호에서 언니를 거의 못 봤어. 아마 자신만의 특별한 사명이 있기 때문이겠지... 하지만 가능하다면... 지금의 엔드필드가 언니의 부담을 덜어줄 수 있으면 좋겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_about_line04",
+   "title": {
+    "en": "Topic: Talos-II and Terra",
+    "zh-TW": "話題：塔衛二與泰拉",
+    "zh-CN": "话题：塔卫二与泰拉",
+    "ja": "タロⅡとテラについて",
+    "ko": "탈로스 II와 테라에 관하여"
+   },
+   "text": {
+    "en": "Very few people know that this distant world of Talos-II is actually where we all came from. And despite this knowledge, almost none could give up their nostalgia for Terra. Leaving Terra for Talos-II is akin to a babe who left its soft, comfortable cradle for their mother's embrace... But I felt the opposite. It was on Talos-II where I joined Endfield and met the Endministrator. Terra is now little more than a symbol of my mission.",
+    "zh-TW": "很少有人知道，塔衛二這顆遙遠的星球才是我們真正的起源，而即使知道這一點，也無法抹滅很多人對於泰拉故土的懷念。離開泰拉，前往塔衛二，就像是孩子離開柔軟的搖籃，投入母親的懷抱。可是，對我來說，情況完全相反……我在塔衛二加入了終末地，結識了管理員，而泰拉似乎只是一個使命的符號而已。",
+    "zh-CN": "很少有人知道，塔卫二这颗遥远的星球才是我们真正的起源，而即使知道这一点，也无法磨灭很多人对于泰拉故土的怀念。离开泰拉，前往塔卫二，就像是孩子离开柔软的摇篮，投入母亲的怀抱。可是，对我来说，情况完全相反……我在塔卫二加入了终末地，结识了管理员，而泰拉似乎只是一个使命的符号而已。",
+    "ja": "あまり知られてはいませんが、タロⅡというこの遠く離れた星こそが、私たちの本当の起源なのです。それを知っていたとしても、テラへの懐かしさが消えるわけではありません。テラを離れてタロⅡへ向かうということは、赤ん坊が揺りかごから離れ、母の腕に抱かれるようなもの……しかし、私にとっては逆です。タロⅡでエンドフィールドに加わり、管理人と出会い……そしてテラはただの――「使命」の象徴に過ぎないのです。",
+    "ko": "아는 사람이 많이 없지만, 탈로스 II... 이 멀고도 가까운 행성이 바로 우리들의 진정한 기원이야. 이 사실을 안다고 하더라도, 테라를 향한 많은 사람의 그리움을 누그러뜨리진 못하겠지만 말이야. 테라를 떠나 탈로스 II로 향하는 길을 마치 아이가 부드러운 요람을 떠나 어머니의 품으로 돌아가는 것 같다고들 해. 하지만 나한테만큼은 정반대거든... 난 탈로스 II에서 엔드필드에 합류했고, 관리자랑 만났으니까. 테라는... 음, 사명의 기호라고 할까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_about_line05",
+   "title": {
+    "en": "Topic: Zeroth Directive",
+    "zh-TW": "話題：零號委託",
+    "zh-CN": "话题：零号委托",
+    "ja": "初号指令について",
+    "ko": "미션 제로에 관하여"
+   },
+   "text": {
+    "en": "I wasn't the only participant of the Zeroth Directive. But none of us knew the missions of the others. In the past, you always had plenty of preparations in place, even before you became aware of your situation. For this awakening, I've rehearsed executing the Zeroth Directive countless times... But when I met you again in person, all those words flowed out of me naturally with great ease.",
+    "zh-TW": "參與零號委託的並不止我一個人，而且參與者之間，也未必知道其他人負責的內容是什麼。在過去的管理員意識到自己的狀況時，就已經做好了很多的布置。在你這次醒來之前，我無數次預演過執行零號委託的那一刻……但當真的再見到你，好像很多話順理成章地就說出口了。",
+    "zh-CN": "参与零号委托的并不止我一人，而且参与者之间，也未必知道其他人负责的内容是什么。在过去的管理员意识到自己的情况时，就已经做好了很多的布置。在你这次醒来之前，我无数次预演过执行零号委托的那一刻……可当真的再见到你，好像很多话顺理成章地就说出口了。",
+    "ja": "初号指令に関わっているのは、私だけではありません。しかし関係者でも、互いの担当は知らされていないのです。以前の管理人は、自身の状況に基づいた判断によって、入念な準備を整えていました。あなたが目を覚ますまで、私は初号指令の瞬間を何度もシミュレーションしていて……でも、実際あなたと再び会ってみると、言葉が自然と溢れてきたのです……",
+    "ko": "미션 제로에 참여한 건 나뿐만이 아니야. 게다가 참여자끼리도 서로가 맡은 내용이 뭔지 몰랐지. 과거의 관리자는 자신의 상황을 깨닫자마자 많은 준비를 해뒀거든. 네가 깨어나기 전, 난 미션 제로를 실행하는 순간을 끊임없이 연습했었어... 하지만 진짜 널 만나고 나니까, 그렇게 연습할 필요가 없었겠다는 생각이 들더라고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_about_line06",
+   "title": {
+    "en": "Topic: Automated Industry Complex",
+    "zh-TW": "話題：集成工業系統",
+    "zh-CN": "话题：集成工业系统",
+    "ja": "集成工業システムについて",
+    "ko": "통합 공업 시스템에 관하여"
+   },
+   "text": {
+    "en": "Endfield Industries spent our recent years focusing on the Automated Industry Complex. The goals of the AIC are evident in its name, and I believe you have extensive first-hand experience with it. Needless to say, our obsession with the Techno-Protocol isn't just about this. Originium is information. It is the crystallized manifestation of every ephemeral idea. Its final embodiment ... will let us \"manufacture\" and \"construct\" more than just industrial products.",
+    "zh-TW": "集成工業系統是終末地近幾年的專攻對象。它表面上的功能和意義，想必管理員已經深刻體會到了。不過，之所以執著於協議技術，當然是有更深層次的目的。源石即是資訊，即是一切飄渺概念的體現和結晶。最終，我們能夠「建設」和「生產」的，遠不止工業品那麼簡單。",
+    "zh-CN": "集成工业系统是终末地近些年的主要攻坚对象。它表面上的功能和意义，想必管理员已经深刻体会到了。不过，之所以执着于协议技术，当然是有更深层次的目的。源石即是信息，即是一切飘渺概念的体现和结晶。最终，我们能够“建设”和“生产”的，远不止工业品那么简单。",
+    "ja": "集成工業システムは、近年エンドフィールドが最も力を注いでいるものです。表向きの機能や意義は、管理人もよく知っていると思います。でも私たちが協約技術にこだわっているのには、もっと深い理由があります。源石とは情報であり、すべての抽象概念の象徴、そして結晶でもある……私たちが「建設」して「生産」できるものは、ただの工業製品には留まらない……そう考えているのです。",
+    "ko": "통합 공업 시스템은 최근 몇 년간 엔드필드의 주요 해결 과제가 되어 왔어. 이 기술과 그 중요성은 너도 충분히 체감하고 있을 거야. 하지만 그뿐만 아니라, 프로토콜 기술에 집착하는 데는 좀 더 심층적인 목적이 있어. 오리지늄은 정보이면서도, 모든 추상적 개념의 구체화이자 결정체거든. 궁극적으로 우리는 단순한 공업품 이상의 것을 '건설'하고 '생산'하게 된다는 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_about_line07",
+   "title": {
+    "en": "Topic: Endfield Crisis Team",
+    "zh-TW": "話題：危機處理小組",
+    "zh-CN": "话题：危机处理小组",
+    "ja": "危機対策班について",
+    "ko": "위기 대책팀에 관하여"
+   },
+   "text": {
+    "en": "You founded the Crisis Team, Endmin. It is a special operations team that you've led in person. The Crisis Team was a team of elites famed throughout Talos-II. Team leadership was later transferred to the Founder and M3, but its purpose and function still remained the same. When I became Supervisor and took over the team's leadership, I sorely felt the pressure from commanding a team of heroes ... as well as their fiery passion as they threw themselves in battle for our selfless goal and ideal.",
+    "zh-TW": "危機處理小組其實是管理員設立並領導的一支行動小隊，一度是塔衛二名聞遐邇的尖兵隊伍。後來，小隊指揮權移交給了創始人和M3，但依然發揮著原本的作用。而在我成為監督並接任指揮權後，我確實感受到指揮「英雄們」所帶來的壓力……以及，所有人都在為了一個無私的目標而戰的熱血沸騰。",
+    "zh-CN": "危机处理小组其实是管理员设立并领导的一支行动小队，一度是塔卫二名闻遐迩的尖兵队伍。后来，小队指挥权移交给了创始人和M3，但依然发挥着原本的作用。而在我成为监督并接任指挥权后，我确实感受到指挥“英雄们”所带来的压力……以及，所有人都在为了一个无私的目标而战的热血沸腾。",
+    "ja": "危機対策班はもともと管理人が立ち上げて指揮をしていた、タロⅡでも有名なチームでした。その後、指揮権は創設者とM3に引き継がれましたが、当初から役割は変わっていません。私が監察官となり指揮を任されてから、「英雄」を導く重圧を感じることもありますが……それ以上に、皆が誰かのために戦う気持ちにこそ、胸を打たれます。",
+    "ko": "위기 대책팀은 사실 네가 설립하고 이끌었던 작전팀이야. 한때 탈로스 II에서 명성을 떨쳤던 정예 팀이지. 창립자랑 M3가 팀의 지휘를 맡게 된 적도 있지만, 그 역할은 단 한 번도 변한 적이 없었어. 내가 감독관이 된 다음에는 내가 지휘를 맡게 됐고. 사실 '영웅들'을 지휘해야 한다는 부담감이 있었어. 하지만 그것보다 더 컸던 건, 모두 함께 힘을 합쳐 이타적인 목표를 위해 싸우겠다는 팀원들의 무한한 열정이었지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_about_line08",
+   "title": {
+    "en": "Topic: Supervisor of Endfield Industries",
+    "zh-TW": "話題：終末地監督",
+    "zh-CN": "话题：终末地监督",
+    "ja": "エンドフィールド監察官について",
+    "ko": "엔드필드 감독관에 관하여"
+   },
+   "text": {
+    "en": "I heard M3 say that Endfield did not have a Supervisor back then. The Endministrator led the entire company, while M3, the Founder, and our elite operators provided support. We called this decision-making organization the Provenance. The Provenance managed the three major nexuses and has kept Endfield running till this day... Endfield was forced to change while you slept, but these changes kept us going ... and this was how I could stand by your side.",
+    "zh-TW": "我聽M3說，終末地過去並沒有監督職位。管理員是終末地的領袖，M3、創始人和精英幹員們輔佐著管理員，這一決策層被稱為「源點」。「源點」管轄著三大中樞，支撐著終末地一路走到今天……但在你沉睡的時候，終末地也被迫做出了許多改變，不過也因此，我們才能繼續前進……我才能站在你的身邊。",
+    "zh-CN": "我听M3说，终末地过去并不设监督职位。管理员是终末地的领袖，M3、创始人和精英干员们辅佐着管理员，这一决策层被称为“源点”。“源点”管辖着三大中枢，支撑着终末地一路走到今天……但在你沉睡的时候，终末地也被迫做出了许多改变，不过也因此，我们才能继续前进……我才能站在你的身边。",
+    "ja": "M3によると、以前エンドフィールドには「監察官」という役職はなかったそうです。管理人がエンドフィールドのリーダーを務め、M3、創設者、そしてエリートオペレーターが補佐する……この中核を担う層は「源点」と呼ばれ、3つの主要部門を統括してきました。けれどあなたが眠っている間に、多くの変化を受け入れざるを得ず……そしてその変化があったからこそ、前に進むことができました。だから私も、こうしてあなたの側に立っていられるんです。",
+    "ko": "M3한테 들었는데, 원래 엔드필드에는 감독관이라는 직위가 없다고 해. 관리자가 엔드필드의 리더였고, M3, 창립자, 정예 오퍼레이터들이 관리자를 보조하는 형태였지. 이 의사 결정 층을 '원점'이라고 불렀어. 3대 중추를 관장하며 엔드필드를 오늘날까지 이끌어 온 게 바로 이 '원점'이야. 하지만 네가 깊은 잠에 빠지게 되면서 엔드필드도 많이 바뀌게 됐지. 그렇게 우린 지금처럼 계속 나아갈 수 있었고... 결국 이렇게 너랑 함께할 수 있게 된 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Something seems to warrant closer scrutiny...",
+    "zh-TW": "好像有值得調查的東西……",
+    "zh-CN": "似乎有值得调查的东西……",
+    "ja": "調べてみる価値がありそうね……",
+    "ko": "조사할 가치가 있는 물건이 있는 것 같아.."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "We seem to have high value supplies nearby. Keep an eye out for those.",
+    "zh-TW": "附近似乎有高價值的物資，值得留意。",
+    "zh-CN": "附近似乎有高价值的物资，值得留意。",
+    "ja": "近くに貴重な物資があるようですね。見落とさないように。",
+    "ko": "근처에 가치 있는 물자가 있는 것 같아, 기억해 두자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Another area uncharted by humanity.",
+    "zh-TW": "又一處未被人類探索的區域。",
+    "zh-CN": "又一处未被人类探索的区域。",
+    "ja": "まだ、誰も足を踏み入れていない場所のようです。",
+    "ko": "사람의 발걸음이 닿지 않은 곳이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Stay alert. This hostile poses significant threat.",
+    "zh-TW": "眼前的敵人非同小可，提高警惕。",
+    "zh-CN": "眼前的敌人非同小可，提高警惕。",
+    "ja": "あれはなかなかの強敵になるはず。気を引き締めていきましょう。",
+    "ko": "강력한 적이야, 방심하면 안 돼."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Mineral ores form the foundation of industry. We should gather more.",
+    "zh-TW": "礦物是工業的基礎，多準備一點吧。",
+    "zh-CN": "矿物是工业的基础，多准备一些吧。",
+    "ja": "鉱物は工業の基礎。多めに確保しましょう。",
+    "ko": "광물은 공업의 기초지, 많이 챙겨두자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Let me help you.",
+    "zh-TW": "我也來幫忙。",
+    "zh-CN": "我也来帮忙。",
+    "ja": "私も手伝います。",
+    "ko": "나도 도울게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "An impressive acquisition.",
+    "zh-TW": "不錯的收穫。",
+    "zh-CN": "不错的收获。",
+    "ja": "悪くない収穫です。",
+    "ko": "괜찮은 수확이네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Aurylene is a fragment of a shattered universe. This one traveled massive distances to be here, right before us.",
+    "zh-TW": "醚質是破碎的宇宙，它穿越了遙遠的距離才抵達我們面前。",
+    "zh-CN": "醚质是破碎的宇宙，它穿越了遥远的距离才抵达我们面前。",
+    "ja": "オーリレンは砕けた宇宙……はるか遠い距離を越え、ここまで流れ着きました。",
+    "ko": "오리렌은 부서진 우주의 조각이야. 우리와 만나기 위해 먼 거리를 여행해 온 거지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "The Blight no longer threatens the Endfield of today.",
+    "zh-TW": "侵蝕已經無法威脅如今的終末地。",
+    "zh-CN": "侵蚀已经无法威胁如今的终末地。",
+    "ja": "侵蝕はすでに、私たちにとって脅威ではありません。",
+    "ko": "침식은 더 이상 엔드필드에게 위협이 되지 못해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "R&R complete. Team, make ready to continue our operations.",
+    "zh-TW": "休整完畢，各位，準備繼續行動。",
+    "zh-CN": "休整完毕，各位，准备继续行动。",
+    "ja": "休憩は終わり。皆、先に進みましょう。",
+    "ko": "정비 완료, 다시 작전을 진행하자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Patching up. Stay alert.",
+    "zh-TW": "不要掉以輕心。",
+    "zh-CN": "不要掉以轻心。",
+    "ja": "油断してはいけません。",
+    "ko": "방심하지 마."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Conditions stabilized.",
+    "zh-TW": "調整好狀態。",
+    "zh-CN": "调整好状态。",
+    "ja": "体勢を立て直せました。",
+    "ko": "상태 조정 완료."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Incoming! Unknown hazard!",
+    "zh-TW": "未知的行為，小心！",
+    "zh-CN": "未知的行为，小心！",
+    "ja": "見慣れない動きです。注意して！",
+    "ko": "위험할지도 몰라, 조심해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "I'm good... Focus on our objective...",
+    "zh-TW": "沒關係……比起我們的目標……",
+    "zh-CN": "没关系……比起我们的目标……",
+    "ja": "大丈夫です……私たちの目標に比べたら……",
+    "ko": "괜찮아... 우리의 목표를 위해서라면..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Protect yourself... Endmin...",
+    "zh-TW": "保護好自己……管理員……",
+    "zh-CN": "保护好自己……管理员……",
+    "ja": "管理人……自分の身を守って……",
+    "ko": "관리자... 살아남아야 돼..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Outstanding technique. Impressive.",
+    "zh-TW": "出色的技巧，令人讚嘆。",
+    "zh-CN": "出色的技巧，令人赞叹。",
+    "ja": "本当に見事でしたね。",
+    "ko": "엄청나네, 놀라워."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "We are united as one!",
+    "zh-TW": "我們團結一心！",
+    "zh-CN": "我们团结一心！",
+    "ja": "心をひとつに！",
+    "ko": "우리는 하나야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "We did it as a team.",
+    "zh-TW": "全靠大家。",
+    "zh-CN": "全靠大家。",
+    "ja": "皆のおかげです。",
+    "ko": "모두의 덕분이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "This is the power of Endfield.",
+    "zh-TW": "這就是終末地工業。",
+    "zh-CN": "这就是终末地工业。",
+    "ja": "これがエンドフィールド。",
+    "ko": "이게 바로 엔드필드 공업이지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Engaging. Stay safe, team.",
+    "zh-TW": "戰鬥開始，請以自身安全為優先。",
+    "zh-CN": "战斗开始，请以自身安全为优先。",
+    "ja": "戦闘開始、身の安全を第一に。",
+    "ko": "전투 시작. 다들, 자신의 안전을 최우선으로!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "All variables within estimates.",
+    "zh-TW": "沒有超過預先的設想。",
+    "zh-CN": "没有超过预案的设想。",
+    "ja": "すべて、想定の範囲内です。",
+    "ko": "계획했던 대로 진행하자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "A definitive outcome achieved through strong teamwork.",
+    "zh-TW": "出色的配合，必然的結果。",
+    "zh-CN": "出色的配合，必然的结果。",
+    "ja": "見事な連携でした。勝利は必然です。",
+    "ko": "뛰어난 협동은 반드시 좋은 결과를 가져와."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "Verify and report personal status, team.",
+    "zh-TW": "各位，確認一下自己的狀況吧。",
+    "zh-CN": "各位，确认一下自己的状况吧。",
+    "ja": "皆、自分の状態を確認しておくように。",
+    "ko": "각자 자기 상태를 확인해 줘."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Violence is never our objective. Let's press forward.",
+    "zh-TW": "暴力並非我們的目的，繼續前進吧。",
+    "zh-CN": "暴力并非我们的目的，继续前进吧。",
+    "ja": "無益な戦いは目的ではありません。先に進みましょう。",
+    "ko": "우리의 목적은 폭력이 아니야, 계속 앞으로 나아가자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "Check all injuries. Assume defensive formation and restore combat readiness.",
+    "zh-TW": "先確認傷患的狀態，採用安全隊形，重整旗鼓。",
+    "zh-CN": "先确认伤员的状态，采用安全队形，重整旗鼓。",
+    "ja": "負傷者の状態を確認して、安全な配置に切り替えましょう。それから、態勢を整え直します。",
+    "ko": "먼저 다친 사람부터 확인하고, 안전한 진형으로 바꿔서 전열을 정비하자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "We won't let this happen again...",
+    "zh-TW": "我們不會重蹈覆轍……",
+    "zh-CN": "我们不会重蹈覆辙……",
+    "ja": "同じ過ちは二度と繰り返さない……",
+    "ko": "두 번 다시는 이런 실패를 겪지 않겠어..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Concerto!",
+    "zh-TW": "協奏！",
+    "zh-CN": "协奏！",
+    "ja": "協奏！",
+    "ko": "협주!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Sequence!",
+    "zh-TW": "序列！",
+    "zh-CN": "序列！",
+    "ja": "音列！",
+    "ko": "시퀀스!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Target locked!",
+    "zh-TW": "已定位！",
+    "zh-CN": "已定位！",
+    "ja": "標的を確認！",
+    "ko": "위치 확인 완료!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Strike command!",
+    "zh-TW": "轟擊指令！",
+    "zh-CN": "轰击指令！",
+    "ja": "襲撃開始！",
+    "ko": "폭격 개시!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Terminate!",
+    "zh-TW": "清除！",
+    "zh-CN": "清除！",
+    "ja": "排除します。",
+    "ko": "끝이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Arts Unit hot!",
+    "zh-TW": "施術單元已就緒！",
+    "zh-CN": "施术单元已就绪！",
+    "ja": "アーツユニット、準備完了！",
+    "ko": "아츠 유닛 준비 완료!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Arts support ready!",
+    "zh-TW": "我來支援！",
+    "zh-CN": "我来支援！",
+    "ja": "援護します！",
+    "ko": "지원해 줄게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Push forward!",
+    "zh-TW": "乘勝追擊！",
+    "zh-CN": "乘胜追击！",
+    "ja": "この勢いで！",
+    "ko": "놓치지 않겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Here's our chance!",
+    "zh-TW": "抓住機會！",
+    "zh-CN": "抓住机会！",
+    "ja": "好機！",
+    "ko": "바로 지금이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Now, fugue!",
+    "zh-TW": "賦格！",
+    "zh-CN": "赋格！",
+    "ja": "フーガ！",
+    "ko": "푸가!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Coda and finale!",
+    "zh-TW": "尾聲！",
+    "zh-CN": "尾声！",
+    "ja": "終章！",
+    "ko": "피날레!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Commence AL-7 annihilation!",
+    "zh-TW": "殲滅座標，權限七！",
+    "zh-CN": "歼灭坐标，权限七！",
+    "ja": "権限レベル：7……殲滅！",
+    "ko": "좌표 소멸, 권한 7!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Target locked. Fire!",
+    "zh-TW": "目標鎖定，開火！",
+    "zh-CN": "目标锁定，开火！",
+    "ja": "目標捕捉……発射！",
+    "ko": "목표 고정, Fire!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0004_pelica_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Sterilize this area!",
+    "zh-TW": "帝江號，清空區域！",
+    "zh-CN": "帝江号，清空区域！",
+    "ja": "帝江号、全域一掃！",
+    "ko": "제강호, 끝내버려!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_map01_lv001_2",
+   "topic": {
+    "en": "A Decade of Slumber",
+    "zh-TW": "十年沉眠",
+    "zh-CN": "十年沉眠",
+    "ja": "10年の眠り",
+    "ko": "10년의 깊은 잠"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You mentioned I slept for 10 years when I was aboard Dijiang. How is Talos-II now?",
+      "zh-TW": "之前在帝江號上，我記得你說過我沉睡了十年，塔衛二現在怎麼樣了？",
+      "zh-CN": "之前在帝江号上，我记得你说过我沉睡了十年，塔卫二现在怎么样了？",
+      "ja": "前、帝江号で「10年眠っていた」と言っていたよね。今のタロⅡの状況を教えてほしいんだ。",
+      "ko": "전에 제강호에서 나한테 그랬잖아, 내가 10년이나 잠들어 있었다고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Yeah. 10 years had already passed since your last hibernation.",
+      "zh-TW": "嗯，距離你最近一次陷入休眠，已經過去了十年。",
+      "zh-CN": "嗯，距离你最近一次陷入休眠，已经过去了十年。",
+      "ja": "そうですね……管理人が最後に眠りについてから、10年が経ちました。",
+      "ko": "응, 네가 마지막으로 잠든 후로 벌써 10년이 지났으니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "For 10 years we've been constantly working with major organizations to monitor hazardous regions of Talos-II and trying to fight off the remaining hostiles.",
+      "zh-TW": "這十年裡，我們一直與各大組織機構協作，監控塔衛二上的各處危險區域，清剿殘餘的敵對力量。",
+      "zh-CN": "这十年里，我们一直与各大组织机构协作，监控塔卫二上的各处危险区域，清剿残余的敌对力量。",
+      "ja": "その間、私たちは各組織と協力しながら危険区域の監視を続け、残存する敵対勢力への対処をして……",
+      "ko": "10년 동안 우리는 여러 집단과 협력해서, 탈로스 II 전역의 위험 구역을 감시하고, 남은 적대 세력을 정리하는 데 집중했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Of course, the key mission is to follow the Zeroth Directive. We must complete the PAC research work and wait for a suitable moment to wake you up.",
+      "zh-TW": "當然，最重要的任務，還是遵循「零號委託」推動協議核心的研發工作，等待喚醒你的時機。",
+      "zh-CN": "当然，最重要的任务，还是遵循“零号委托”推进协议核心的研发工作，等待唤醒你的时机。",
+      "ja": "もちろん、最も重要な任務は「初号指令」に従って協約核心の研究と開発を進め、あなたを目覚めさせる時を待つことでした。",
+      "ko": "물론 가장 중요한 임무는 '미션 제로'를 따르며 프로토콜 코어 개발을 추진하고, 네가 깨어날 때를 기다리는 거였지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "What happened, Endmin? Why are you asking about this?",
+      "zh-TW": "怎麼了，管理員，為什麼突然問這個？",
+      "zh-CN": "怎么，管理员，为什么突然问这个？",
+      "ja": "管理人、どうかしましたか？急にそんなことを聞くなんて……",
+      "ko": "근데, 갑자기 그건 왜?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "After our meeting, Andre seems interested in telling me all sorts of stuff.",
+      "zh-TW": "與安德烈見面後，他像是有很多話想和我說。",
+      "zh-CN": "与安德烈见面后，他像是有很多话想和我说。",
+      "ja": "アンドレイに会ったとき、話したいことがたくさんありそうだったけど……",
+      "ko": "안드레 씨를 만났을 때, 뭔가 하고 싶은 말이 많아 보였어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "But everyone behaved a little too calmly aboard Dijiang.",
+      "zh-TW": "但在帝江號上時，大家似乎過於平靜了。",
+      "zh-CN": "但在帝江号上时，大家似乎过于平静了。",
+      "ja": "帝江号では、皆とても静かだった。",
+      "ko": "그런데 제강호에 있을 땐, 다들 너무 평온해 보였어..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Endfield waited 10 years for my awakening but I couldn't remember a thing.",
+      "zh-TW": "終末地等待著喚醒我的時機，等了十年，我卻失憶了。",
+      "zh-CN": "终末地等待着唤醒我的时机，等了十年，我却失忆了。",
+      "ja": "エンドフィールドは10年も待ってくれていたのに、記憶を失ってしまって……",
+      "ko": "엔드필드는 나를 깨울 시기를 기다리며 10년을 버텼는데, 나는 그 기억이 하나도 없다니..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Don't think of it that way. It was a 10-year wait but it was also more than that.",
+      "zh-TW": "請不要這樣想，我們等了十年，但不只是等了十年。",
+      "zh-CN": "请不要这样想，我们等了十年，但不只是等了十年。",
+      "ja": "そんなふうに考えないでください。私たちはその間、ただ待っていただけではありません。",
+      "ko": "그렇게 생각하지 마. 우린 단순히 10년 동안 기다리기만 한 게 아니야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "You took the brunt for us during the previous awakening, and also during that war that took place many years ago.",
+      "zh-TW": "無論是上一次喚醒你，還是更久遠以前的戰爭，都是你為我們扛下了責任。",
+      "zh-CN": "无论是上一次唤醒你，还是更久远以前的战争，都是你为我们扛下了责任。",
+      "ja": "前回も、それよりもっと前の戦いでも、管理人はずっとすべてを背負ってくれていました。私たちの代わりに……",
+      "ko": "지난번 네가 깨어났었을 때도, 그리고 그보다 더 오래된 전쟁에서도... 넌 항상 우릴 위해 혼자서 무거운 책임을 지고 있었잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Now is our turn to share the burden.",
+      "zh-TW": "現在該輪到我們為你分擔。",
+      "zh-CN": "现在该轮到我们为你分担。",
+      "ja": "ですから今度は、私たちが管理人を支える番です。",
+      "ko": "이제는 우리가 너의 짐을 나눌 차례야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "The fact that you're back means the most to us.",
+      "zh-TW": "你回來了，就是對我們最重要的事。",
+      "zh-CN": "你回来了，就是对我们最重要的事。",
+      "ja": "管理人が戻ってきたということが、一番大切なことなのですよ。",
+      "ko": "지금 우리에게 가장 중요한 건, 네가 돌아왔다는 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Indeed. We should take things slowly and prepare ourselves properly.",
+      "zh-TW": "嗯，我們都該放鬆點，然後一起做好準備。",
+      "zh-CN": "嗯，我们都该放松些，然后一起做好准备。",
+      "ja": "うん。少し肩の力を抜かないとね……それから、一緒に準備を整えよう。",
+      "ko": "그래. 우리도 숨 좀 돌리고 다시 해야 할 일을 하자."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Sorry if I seemed a little intense.",
+      "zh-TW": "抱歉，我也有點激動了。",
+      "zh-CN": "抱歉，我也有点激动了。",
+      "ja": "すみません、私も少し感情的になってしまいました……",
+      "ko": "응, 나도 방금은 좀 흥분해서 미안해."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_map01_lv002_1",
+   "topic": {
+    "en": "The Bonekrusher Clan",
+    "zh-TW": "碾骨氏族",
+    "zh-CN": "碾骨氏族",
+    "ja": "ボーンクラッシャー",
+    "ko": "본 크러셔 집단"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So, is Nefarith the chief of the Bonekrushers?",
+      "zh-TW": "所以，聶菲斯就是碾骨氏族的首領？",
+      "zh-CN": "所以，聂菲斯就是碾骨氏族的首领？",
+      "ja": "つまり、ネファリスがボーンクラッシャーの「リーダー」ということ？",
+      "ko": "그래서, 네파리스가 바로 본 크러셔 집단의 리더라는 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "From what we're seeing right now, it does seem so.",
+      "zh-TW": "從目前的情況看來，的確如此。",
+      "zh-CN": "从目前的情况看来，确实如此。",
+      "ja": "はい。現状から判断すると、間違いないでしょう。",
+      "ko": "현재 상황으로 봐선, 그런 것 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "This chief might have a hand in the unexpected transformation of the Bonekrushers.",
+      "zh-TW": "碾骨氏族的異樣或許也與這位首領有關。",
+      "zh-CN": "碾骨氏族的异样或许也与这位首领有关。",
+      "ja": "そして、ボーンクラッシャーの異変も、ネファリスと関係があるのかもしれません。",
+      "ko": "본 크러셔 집단의 수상한 움직임도, 아마 그 리더라는 사람과 관련이 있을 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Unexpected transformation?",
+      "zh-TW": "碾骨氏族的異樣？",
+      "zh-CN": "碾骨氏族的异样？",
+      "ja": "ボーンクラッシャーの異変？",
+      "ko": "본 크러셔 집단의 수상한 움직임?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Yes. Landbreaker clans, including the Bonekrushers, were constantly engaged in internal strife or inter-clan warfare. No LB clans have the resources to organize a sizable military force.",
+      "zh-TW": "嗯。包括碾骨氏族在內，裂地者各個氏族都處於長期的內部鬥爭和氏族間的吞併衝突中，並沒有精力組織起強大的軍事力量。",
+      "zh-CN": "嗯。包括碾骨氏族在内，裂地者各个氏族都处于长期的内部斗争和氏族间的吞并冲突中，并没有精力组织起强大的军事力量。",
+      "ja": "ボーンクラッシャーに限らず、ランドブレーカーのクランは長年内部抗争を続けていました。大規模な軍事力を整える余裕などなかったはずです。",
+      "ko": "응. 본 크러셔 집단을 포함해, 랜드브레이커의 각 집단은 오랫동안 내부 다툼과 집단 간의 세력 다툼을 하는 바람에, 강력한 군사력을 꾸릴 여유가 없었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Caravans or smaller villages tend to be the target of Bonekrusher attacks we have on the record. An attack of this scale was unprecedented.",
+      "zh-TW": "在有紀錄的碾骨氏族襲擊事件中，他們下手的目標往往是商隊或者小型定居點，最近這種襲擊規模，還是第一次。",
+      "zh-CN": "在有记录的碾骨氏族袭击事件中，他们下手的目标往往是商队或者小型定居点，最近这种袭击规模，还是第一次。",
+      "ja": "残っている記録を見ても、ボーンクラッシャーが襲っていたのは小規模な居住地やキャラバンばかりで、今回のような襲撃は初めてです。",
+      "ko": "기록에 남아 있는 본 크러셔 집단의 습격 사례를 보면, 그들이 노린 건 대부분 상단이나 작은 정착지였고, 이번처럼 규모가 큰 공격은 처음이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "LB clans seldom attack sites like the Valley Fort. And none of the attacks ever succeeded in capturing the place.",
+      "zh-TW": "很少會有裂地者襲擊谷地要塞這類區域，更沒發生過占領的情況。",
+      "zh-CN": "很少会有裂地者袭击谷地要塞这类区域，更没发生过占领的情况。",
+      "ja": "谷地要塞のような拠点を襲うことなど……まして占拠した例は、これまでにありません。",
+      "ko": "랜드브레이커가 협곡 요새 같은 구역을 공격하는 일은 거의 없고, 점령 사례는 더더욱 없었지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Even if the historical LB leader Jakub Meissen were alive today, he probably couldn't rally the Bonekrushers and take on the UWST directly.",
+      "zh-TW": "即便是歷史上的那位雅各布·邁森，也不太可能有率領如今的碾骨氏族攻擊聯盟工團的氣魄。",
+      "zh-CN": "即便是历史上的那位雅各布·迈森，也不大可能有率领如今的碾骨氏族攻击联盟工团的气魄。",
+      "ja": "あのヤコブ・マイセンでさえ、今のボーンクラッシャーを率いて工業団連盟に挑むなんて……そんな発想に至るとは思えません。",
+      "ko": "역사 속의 제이컵 마이센조차, 지금의 본 크러셔 집단을 이끌고 연맹 공단을 칠 만큼의 배짱은 없었을 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "But what got me concerned is something else. It's how she manipulated those things on the bridge.",
+      "zh-TW": "不過，最讓我在意的，是在橋上時，她能操縱那些東西。",
+      "zh-CN": "不过，最让我在意的，是在桥上时，她能操纵那些东西。",
+      "ja": "ただ、最も気になるのは……橋でネファリスがあれを操っていたこと……",
+      "ko": "하지만 내가 제일 신경 쓰이는 건, 다리 위에서 네파리스가 그것들을 조종할 수 있었다는 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "SOW intel about the Bonekrushers never mentioned that denstacks could influence the combat capabilities of the krushers.",
+      "zh-TW": "在S.O.W.關於碾骨氏族的情報裡，也沒有提過巢雕能影響碾骨氏族成員的作戰能力。",
+      "zh-CN": "在S.O.W.关于碾骨氏族的情报里，也没有提过巢雕能影响碾骨氏族成员的作战能力。",
+      "ja": "S.O.W.の情報を確認しましたが、巣彫がボーンクラッシャーの戦闘能力に影響を与えるという内容は見つかりませんでした。",
+      "ko": "S.O.W.가 파악한 본 크러셔 집단의 정보에도, 지옥의 용광로가 본 크러셔 집단의 작전 능력에 영향을 준다는 얘기는 없었거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Nefarith said something to me on the bridge. She seems to know me very well.",
+      "zh-TW": "在橋上聶菲斯對我說了一些話，她好像很瞭解我。",
+      "zh-CN": "在桥上聂菲斯对我说了一些话，她好像很了解我。",
+      "ja": "{F}ネファリスは、私のことをよく知っているみたいだった……{M}ネファリスは、僕のことをよく知っているみたいだった……",
+      "ko": "다리 위에서 네파리스가 나한테 말을 걸었는데, 마치 날 오래전부터 알고 있는 것 같았어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "She knows you?",
+      "zh-TW": "很瞭解你？",
+      "zh-CN": "很了解你？",
+      "ja": "よく知っている……？",
+      "ko": "너를 안다고?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Understood, Endmin. I'll inform SOW... No. I'll sync this finding with the security agencies of the Band Accordatories. I must remind them to establish a clue dossier about this Nefarith.",
+      "zh-TW": "我知道了，管理員。我會告知S.O.W.……不，還有環帶各方的安全機構，提醒他們針對聶菲斯建立個人情報檔案。",
+      "zh-CN": "我明白了，管理员。我会告知S.O.W.……不，还有环带各方的安全机构，提醒他们针对聂菲斯建立个人情报档案。",
+      "ja": "わかりました、管理人。S.O.Wにも報告しておきます。それから、文明地帯の各セキュリティ部門にも連絡して、ネファリスに関する情報記録をまとめておくように伝えます。",
+      "ko": "알았어, 관리자. S.O.W.에 보고할게... 아니, 밴드 각지의 안전 기관에도 알려서, 네파리스에 대한 개인 정보 파일을 만들라고 해야겠어."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_map01_lv002_3",
+   "topic": {
+    "en": "Power of the AIC Factory",
+    "zh-TW": "集成工業系統的力量",
+    "zh-CN": "集成工业系统的力量",
+    "ja": "集成工業システムの力",
+    "ko": "통합 공업 시스템의 힘"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "The AIC is so useful",
+      "zh-TW": "集成工業系統真的很方便！",
+      "zh-CN": "集成工业系统真的很方便！",
+      "ja": "集成工業システムって、本当に便利だね",
+      "ko": "통합 공업 시스템, 정말 편해!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "We miniaturized a massive production line to its current scale without compromising on total yield.",
+      "zh-TW": "將原本龐大的生產管線濃縮到現在的規模，並且沒有影響產出。",
+      "zh-CN": "将原本庞大的生产管线浓缩到现在的规模，并且没有影响产出。",
+      "ja": "そうですね。巨大な生産ラインを今の規模まで縮小しても、生産量を落とすことなく運用することができます。",
+      "ko": "원래 그 거대하던 생산 라인을 지금의 규모로 축소시켰는데도, 생산량엔 전혀 지장이 없어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "This lets us setup a rather self-contained industrial production system, as long as we are within range of the Protorig Network.",
+      "zh-TW": "只要在現有協議源石網路覆蓋範圍內，便能小範圍搭建比較完善的工業生產體系。",
+      "zh-CN": "只要在现有协议源石网络覆盖范围内，便能小范围搭建比较完善的工业生产体系。",
+      "ja": "それに、既存の協約源石ネットワークの範囲内であれば、小規模でも十分に整った生産システムを構築できるのです。",
+      "ko": "현재 프로토콜 오리지늄 네트워크가 닿는 범위 안이라면, 소규모라도 꽤 완벽한 공업 생산 체계를 구축할 수 있거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "For example, the basic function of our Valley Pass outpost is to satisfy living and safety requirements of the residents.",
+      "zh-TW": "例如我們在谷地通道的據點，只是基本功能便能滿足居民們的生活和安全需求。",
+      "zh-CN": "例如我们在谷地通道的据点，只是基本功能便能满足居民们的生活和安全需求。",
+      "ja": "例えば、谷地通路の拠点ですが……基本的な機能のみで、皆の生活と安全を支えられています。",
+      "ko": "예를 들어, 우리가 협곡길에 세운 거점은 기본 기능만으로도 주민들의 생활과 안전에 필요한 걸 다 충족시킬 수 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Is that just the basic function of our AIC Factory?",
+      "zh-TW": "原來這些只是集成工業系統的基本功能？",
+      "zh-CN": "原来这些只是集成工业系统的基本功能？",
+      "ja": "あれもまだ、「基本的な機能」なんだね。",
+      "ko": "이게 통합 공업 시스템의 기본 기능이라고?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Of course. The people of Talos-II are still facing the crisis of survival. We need an agile and effective industrial system.",
+      "zh-TW": "嗯，塔衛二的人們仍在面對生存危機，需要敏捷且有效的工業系統。",
+      "zh-CN": "嗯，塔卫二的人们仍在面对生存危机，需要敏捷且有效的工业系统。",
+      "ja": "はい。タロⅡに暮らす人々は、様々な危機に直面しています。状況に合わせて迅速に構築できる、効率の良い工業システムが求められていますから……",
+      "ko": "맞아. 탈로스 II의 사람들은 여전히 생존 위기에 직면해 있고, 빠르고 효율적인 공업 시스템이 필요해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Meanwhile, we also have to deal with the threat from the north. Endfield isn't going to just use the AIC Factory to make basic products.",
+      "zh-TW": "另一方面，我們還需要面對北方的威脅。終末地不會滿足於只讓集成工業系統生產基本製成品。",
+      "zh-CN": "另一方面，我们还需要面对北方的威胁。终末地不会满足于只让集成工业系统生产基本制成品。",
+      "ja": "ただ、北部の動きにも備えておかなければなりません。エンドフィールドは、基本的な製品を作るために、このシステムを作ったわけではないのです。",
+      "ko": "한편, 북쪽의 위협에도 대응해야 하지. 엔드필드는 통합 공업 시스템으로 기본 가공품만 만들고 끝낼 생각이 없어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Technologies for deploying the PAC and the auto-assembly of AIC Factory facilities are approaching standardization.",
+      "zh-TW": "協議核心投放技術與集成生產設備自動組裝技術已經接近完成標準。",
+      "zh-CN": "协议核心投放技术与集成生产设备自动组装技术已经接近完成标准。",
+      "ja": "協約核心の投下技術、そして集成生産設備の自動組み立て技術は、限りなく完成に近い段階まで来ています。",
+      "ko": "프로토콜 코어 배치 기술과 설비를 생산하고 자동으로 조립하는 것을 통합하는 기술은 이미 거의 완성 단계에 도달했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "It's just as you've mentioned in the Zeroth Directive, Endmin.",
+      "zh-TW": "管理員，正如你在「零號委託」中提及的那樣。",
+      "zh-CN": "管理员，正如你在“零号委托”中提及的那样。",
+      "ja": "管理人……あなたが、「初号指令」で言っていた通りです。",
+      "ko": "관리자, 네가 '미션 제로'에서 언급했던 그대로야."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_map01_lv002_5",
+   "topic": {
+    "en": "Ginny's Illness",
+    "zh-TW": "阿吉的病",
+    "zh-CN": "阿吉的病",
+    "ja": "ジニーの病気",
+    "ko": "지니의 병"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "The suppressants act fast.",
+      "zh-TW": "抑制劑生效居然這麼快？",
+      "zh-CN": "抑制剂起效居然这么快？",
+      "ja": "抑制剤って、こんなに早く効くんだね。",
+      "ko": "억제제가 이렇게나 빨리 효과를 낸다고?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "We are still studying the nature of Oripathy, and the suppressants have undergone quite a few rounds of improvements.",
+      "zh-TW": "目前的抑制劑已經反覆升級過多次，針對礦石病的研究從未停止。",
+      "zh-CN": "目前的抑制剂已经迭代多次，针对矿石病的研究从未停止。",
+      "ja": "今の抑制剤は、何度も改良を重ねてきたものです。鉱石病の研究も、途切れることなく続いています。",
+      "ko": "현재 쓰이는 억제제는 이미 여러 차례 개량됐고, 광석병에 대한 연구는 한 번도 멈춘 적이 없었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "The Rhodes Island suppressant can prevent matter released by active Originium from crossing cell membranes, and minimize the formation of complex structures —",
+      "zh-TW": "雖然羅德島提供的抑制劑能阻止活性源石釋放的物質穿過體細胞膜，控制新的多重結構形成——",
+      "zh-CN": "虽然罗德岛提供的抑制剂能阻止活性源石释放的物质穿过体细胞膜，控制新的多重结构形成——",
+      "ja": "ロドスが提供する抑制剤は、活性源石から放出される物質が身体の細胞膜を通過するのを防ぎ、新たな多重構造の形成を抑えるものですが……",
+      "ko": "로도스 아일랜드에서 제공한 억제제는 활성 오리지늄이 방출하는 물질이 체세포막을 통과하지 못하게 하고, 새로운 다중 구조의 형성을 억제하지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Unfortunately, we have yet to find a case of an Oripathy-positive being \"cured\" of their condition.",
+      "zh-TW": "但令人遺憾的是，在塔衛二並未出現過「痊癒」的報告。",
+      "zh-CN": "但令人遗憾的是，在塔卫二并未出现过“痊愈”的报告。",
+      "ja": "残念ながら、タロⅡにおいて「完治」の報告は一例もありません。",
+      "ko": "하지만 아쉽게도, 탈로스 II에서 '완치' 판정을 받은 사례는 아직 한 번도 없었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "In any case, Oripathy-positives must rely on constant suppressant injections to alleviate their symptoms.",
+      "zh-TW": "一旦感染礦石病，就必須長期依靠注射抑制劑緩解病症。",
+      "zh-CN": "一旦感染矿石病，就必须长期依靠注射抑制剂缓解病症。",
+      "ja": "感染してしまったら、症状を抑えるために長期的な抑制剤の投与が必要になります。",
+      "ko": "광석병에 감염되면, 증상을 완화하기 위해 평생 억제제 주사를 맞아야 해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Can every patient access and acquire the suppressants?",
+      "zh-TW": "抑制劑是每個患者都能拿到的嗎？",
+      "zh-CN": "抑制剂是每个患者都能拿到的吗？",
+      "ja": "抑制剤はすべての患者に行き渡っているのかな。",
+      "ko": "억제제는 환자라면 누구나 맞을 수 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "I understand your concerns, Endmin. The suppressants can be easily acquired in various Band cities.",
+      "zh-TW": "我瞭解管理員你所擔心的，目前抑制藥物已經在環帶諸城間普及。",
+      "zh-CN": "我明白管理员你所担心的，目前抑制药物已经在环带诸城间普及。",
+      "ja": "管理人が心配されるのも、よくわかります……抑制剤は現在、文明地帯の各都市に供給されています。",
+      "ko": "관리자가 걱정하는 건 이해해. 현재 억제제는 밴드의 각 도시에서 이미 보급되고 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "People who are constantly exposed to active Originium during work are also given preventive medication and Originium protection gear.",
+      "zh-TW": "長期接觸活性源石的工作人員也都會獲得預防藥物和源石防護裝備。",
+      "zh-CN": "长期接触活性源石的工作人员也都会获得预防药物和源石防护装备。",
+      "ja": "活性源石に長時間接する作業員にも、予防薬と源石防護装置の支給があります。",
+      "ko": "또 장기간 활성 오리지늄에 노출되는 직원들은 예방 약물과 오리지늄 보호 장비를 함께 지급받아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "As an example, Mr. Soth mentioned that the UWST will regularly supply its crew mates and other personnel with medication.",
+      "zh-TW": "拿聯盟工團舉例，就像索斯先生所說，會定期為工團成員及收容人員提供藥物。",
+      "zh-CN": "拿联盟工团举例，正如索斯先生所说，会定期为工团成员及收容人员提供药物。",
+      "ja": "ソスさんも言っていましたが……工業団連盟では、作業員だけではなく、保護下にある人々にも定期的に抑制剤が配られるそうです。",
+      "ko": "연맹 공단을 예로 들면, 소스 씨의 말처럼 공단은 정기적으로 공단 직원과 수용 인원에게 약물을 제공하지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "The Civilization Band has already reached a consensus regarding Oripathy many years ago. The Band Accord has never abandoned the principles of safeguarding the rights of Oripathy-positives.",
+      "zh-TW": "文明環帶在礦石病問題上早早達成了一致，《環帶公約》從未放棄保障礦石病感染者權益的原則。",
+      "zh-CN": "文明环带在矿石病问题上早早达成了一致，《环带公约》从未放弃保障矿石病感染者权益的原则。",
+      "ja": "そして、文明地帯では早い段階で鉱石病対策について足並みを揃えていました。『文明地帯協定』においても、感染者の権利を守る原則が貫かれています。",
+      "ko": "문명 밴드는 광석병 문제에 대해 일찍부터 합의를 이뤘고, <밴드 협약>은 감염자의 권리를 보호한다는 원칙을 한 번도 포기한 적이 없어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Although we cannot prevent cases of infection like Ginny ... no one would simply abandon an Oripathy-positive to their fates in this world.",
+      "zh-TW": "儘管我們仍然無法避免類似阿吉這樣的情況發生……但在這裡，沒有人會把感染者拋在身後。",
+      "zh-CN": "尽管我们仍然无法避免阿吉的情况发生……但在这里，没有人会把感染者抛在身后。",
+      "ja": "もちろん、ジニーのようなケースを完全に防ぐことは難しいのが現状です。しかし、ここでは……誰も、感染者を見捨てることはありません。",
+      "ko": "비록 우리는 아직 지니 같은 사례를 완전히 막을 수 없지만... 여기서는 감염자를 절대 외면하지 않아."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_map01_lv006_2",
+   "topic": {
+    "en": "The Rescue Mission",
+    "zh-TW": "救援行動",
+    "zh-CN": "救援行动",
+    "ja": "救援行動",
+    "ko": "구조 작전"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Endmin, the Origin Lodespring seems to have made it over the most difficult hurdle.",
+      "zh-TW": "管理員，看來礦脈源區已經撐過了最艱難的時刻。",
+      "zh-CN": "管理员，看来矿脉源区已经挺过了最艰难的时刻。",
+      "ja": "管理人、鉱山エリアは苦しい時期を乗り越えることができましたね。",
+      "ko": "관리자, 상황을 보니 광맥 구역이 가장 힘든 고비를 넘긴 것 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Gotta thank everyone who worked hard and made it possible!",
+      "zh-TW": "多虧了大家的努力！",
+      "zh-CN": "多亏了大家的努力！",
+      "ja": "皆が頑張ってくれたおかげだ。",
+      "ko": "모두의 노력 덕분이야!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "And I'm truly inspired by the dedication and courage of UWST crew mates during the most critical moment.",
+      "zh-TW": "工團的大家在關鍵時刻散發出來的意志和勇氣，讓我深受鼓舞。",
+      "zh-CN": "工团的大家在关键时刻迸发出来的意志和勇气，让我深受鼓舞。",
+      "ja": "工業団の皆が見せてくれた勇気と強い意志は、私にも力を与えてくれました。",
+      "ko": "난 공단 사람들 모두가 결정적인 순간에 보여준 의지와 용기에 깊은 감명을 받았어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Truth be told, I was already picturing and planning for a terrible scenario...",
+      "zh-TW": "老實說，本來我心裡有一個很壞的預想……",
+      "zh-CN": "说实话，本来我心里有一个很坏的预想……",
+      "ja": "実は、心の中ではずっと、嫌な予感がしていて……",
+      "ko": "사실 마음 한구석으로 아주 나쁜 상상까지 했었거든..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "How terrible...?",
+         "zh-TW": "有多壞……",
+         "zh-CN": "有多坏……",
+         "ja": "どれくらい「嫌」なこと？",
+         "ko": "얼마나 나쁜 상상인데..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "What? Scenario?",
+         "zh-TW": "怎樣的預想？",
+         "zh-CN": "怎样的预想？",
+         "ja": "嫌な予感？",
+         "ko": "어떤 상상이었어?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "The worst-case scenario... After all, nobody expected this disaster.",
+      "zh-TW": "最壞的預想……畢竟這次災難發生得太突然了。",
+      "zh-CN": "最坏的预想……毕竟这次灾难发生得太突然了。",
+      "ja": "最悪の事態も覚悟していました……今回のことはあまりにも突然で、状況も読めず……",
+      "ko": "최악의 시나리오였어... 아무래도 이번 재난은 너무 갑작스러웠으니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "I reviewed the entire scope of damages. Turns out everyone achieved the theoretical minimum in terms of casualties and losses.",
+      "zh-TW": "我回顧了一下受災情況，沒想到大家做到了理論上的最小損失。",
+      "zh-CN": "我复盘了一下受灾情况，没想到大家做到了理论上的最小损失。",
+      "ja": "ですが、実際の被害は……理論上の最低ラインまで抑えられていたのです。",
+      "ko": "피해 상황을 다시 검토해 봤는데, 모두가 정말 이론상 가능한 최소 피해로 막아냈더라."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "When they released the Ankhorfall trajectories and impact sites, the comms team immediately notified workers in high risk areas.",
+      "zh-TW": "錨點墜落路線預測結果出來後，通訊組第一時間通知高危區域的作業人員。",
+      "zh-CN": "锚点坠落路线预测结果出来后，通信组第一时间通知给高危区域的作业人员。",
+      "ja": "アンカーの墜落ルートの予測が出ると、通信班は即座に危険エリアにいる作業員に連絡を入れて……",
+      "ko": "앵커 추락 경로 예측이 나오자마자, 통신팀이 즉시 고위험 구역 작업자들에게 알렸고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Facility maintenance crew responded quickly according to their SOPs and activated the safety mode for our high-value assets.",
+      "zh-TW": "設施維護人員根據緊急方案迅速反應，及時為高價值設備開啟了避險模式。",
+      "zh-CN": "设施维护人员根据应急预案迅速反应，及时为高价值设备开启了避险模式。",
+      "ja": "整備担当も緊急対策案に基づいて、すぐに重要な設備の緊急保全対策を開始しました。",
+      "ko": "시설 유지 인력은 비상 계획에 따라 신속하게 대응해서, 고급 설비의 긴급 보호 모드를 즉시 가동했지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "People like Rossi and Alia volunteered to join the relief efforts. We also have experienced personnel like Surgeon Yue...",
+      "zh-TW": "再加上自願參與救援的洛西、阿麗婭，以及經驗豐富的越醫生……",
+      "zh-CN": "再加上自愿参与救援的洛茜、阿丽娅，以及经验丰富的越医生……",
+      "ja": "そして、ロッシやアリアのように自発的に救助に参加してくれる人もいて、ユエ先生という経験豊富な医師の手助けもあって……",
+      "ko": "게다가 자원해서 구조에 뛰어든 로시, 아리야, 그리고 경험이 풍부한 월 선생님까지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Everyone is united. Together, they all made it through the crisis in one piece.",
+      "zh-TW": "大家緊緊團結在一起，最終渡過了難關。",
+      "zh-CN": "大家紧紧团结在一起，最终渡过了难关。",
+      "ja": "皆の力があったから、乗り越えられたんだ。",
+      "ko": "다들 굳게 하나로 뭉쳤어, 그 덕분에 결국 힘든 시기를 버텨낼 수 있었지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "That's right. It was a monumental achievement for everyone involved.",
+      "zh-TW": "沒錯，他們最終完成了一項壯舉。",
+      "zh-CN": "没错，他们最终完成了一项壮举。",
+      "ja": "はい。本当に皆の力で、大きな偉業を成し遂げることができましたね。",
+      "ko": "맞아, 정말 대단한 일을 해낸 거야."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_map01_lv006_4",
+   "topic": {
+    "en": "Cradle of the Ages",
+    "zh-TW": "世代搖籃",
+    "zh-CN": "世代摇篮",
+    "ja": "時代揺籠",
+    "ko": "세대의 요람"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "We're counting on you, Endmin.",
+      "zh-TW": "辛苦你了，管理員。",
+      "zh-CN": "辛苦你了，管理员。",
+      "ja": "管理人、本当にお疲れ様でした。",
+      "ko": "관리자, 수고했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That Aggelos is very strong.",
+      "zh-TW": "那隻巨型天使很強大。",
+      "zh-CN": "那只巨型天使很强大。",
+      "ja": "あの巨大アンゲロスは、強敵だったね……",
+      "ko": "그 거대 아겔로스, 정말 강했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "The Triaggelos we fought is actually just part of Astarron, the Aggeloid entity that attacked the Origin Lodespring 20 years ago.",
+      "zh-TW": "那隻「三位一體」，只是二十年前襲擊礦脈源區的「星體」的一部分。",
+      "zh-CN": "那只“三位一体”，只是二十年前袭击矿脉源区的“星体”的一部分。",
+      "ja": "今回戦ったトリアンゲロスは、20年前に鉱山エリアを襲ったアスタロンの一部にすぎません。",
+      "ko": "그 '트리아겔로스'는 20년 전 광맥 구역을 습격했던 '별체'의 일부였을 뿐이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Thanks to that, we were able to defeat the entity and lay it to rest again.",
+      "zh-TW": "幸虧這樣，我們才得以擊敗牠。",
+      "zh-CN": "幸亏这样，我们才得以击败它。",
+      "ja": "私たちが勝てたのも、そのためです……",
+      "ko": "그래서 다행히 우리가 그걸 쓰러뜨릴 수 있었던 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Remember the 3 Ankhors that awakened it? I can't believe they landed with such precision...",
+      "zh-TW": "而那三枚喚醒牠的錨點，落下的位置如此準確……",
+      "zh-CN": "而那三枚唤醒它的锚点，落下的位置如此准确……",
+      "ja": "それに、トリアンゲロスを目覚めさせた3つのアンカーが墜落した地点は、偶然とは思えないほど正確でした。",
+      "ko": "근데... 그걸 깨운 세 개의 앵커가 너무도 정확한 위치에 떨어졌어..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "It's obvious that Nefarith masterminded the awakening of Triaggelos.",
+      "zh-TW": "很明顯，三位一體的復甦就是聶菲斯一手策劃的。",
+      "zh-CN": "很明显，三位一体的复苏就是聂菲斯一手策划的。",
+      "ja": "トリアンゲロスの復活は、ネファリスが仕組んだものと見て間違いないでしょう。",
+      "ko": "트리아겔로스의 부활은 네파리스가 직접 꾸민 일이 분명해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I wonder what her true objectives are.",
+      "zh-TW": "不知道她的真實目的是什麼。",
+      "zh-CN": "不知道她的真实目的是什么。",
+      "ja": "ネファリスの本当の狙いは何だったんだろう……",
+      "ko": "네파리스의 진짜 목적은 뭘까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Disrupting the manufacturing capacities of Endfield and the UWST seems to be her most direct goals.",
+      "zh-TW": "破壞終末地和工團的生產應該是她最直接的目的。",
+      "zh-CN": "破坏终末地和工团的生产应该是她最直接的目的。",
+      "ja": "エンドフィールドや工業団の生産活動を妨害すること……単純な狙いとしてはそれが挙げられますが……",
+      "ko": "엔드필드와 공단의 생산을 방해하는 게 가장 직접적인 목표겠지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "But ... from what I saw of her actions so far...",
+      "zh-TW": "但是……從她到現在的表現來看……",
+      "zh-CN": "但是……从她至今的表现来看……",
+      "ja": "ここまでの行動を見ていると……",
+      "ko": "하지만... 지금까지의 행동을 보면..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "I have a feeling that this is just part of her bigger scheme.",
+      "zh-TW": "我覺得，她似乎有更大的陰謀。",
+      "zh-CN": "我感觉，她似乎有更大的阴谋。",
+      "ja": "もっと大きな陰謀を隠しているように思います。",
+      "ko": "뭔가, 더 큰 음모가 있는 것 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "We must act quickly, Endmin.",
+      "zh-TW": "我們要儘快行動了，管理員。",
+      "zh-CN": "我们得抓紧行动了，管理员。",
+      "ja": "急ぎましょう、管理人。",
+      "ko": "우리도 서둘러 움직여야 해, 관리자."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_map01_lv007_3",
+   "topic": {
+    "en": "\"Utjug Order\"",
+    "zh-TW": "「烙鐵指令」",
+    "zh-CN": "“烙铁指令”",
+    "ja": "「烙鉄指令」",
+    "ko": "'인두 지령'"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "The \"Utjug Order\" commands such incredible amount of resources!",
+      "zh-TW": "「烙鐵指令」原來可以調動這麼龐大的資源？",
+      "zh-CN": "“烙铁指令”原来可以调动这么庞大的资源？",
+      "ja": "烙鉄指令は、あれだけのものを動かせるんだね。",
+      "ko": "'인두 지령'으로 이렇게 방대한 자원을 움직이다니."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "It can do more than that, Endmin. The \"Utjug Order\" is just the beginning. We'll have plenty of support for our operations.",
+      "zh-TW": "還不止於此，管理員，「烙鐵指令」對我們行動的支援，只是個開始。",
+      "zh-CN": "还不止于此，管理员，“烙铁指令”对我们行动的支援，只是个开始。",
+      "ja": "管理人。烙鉄指令の支援はまだまだこれからが始まりです。",
+      "ko": "아직 이게 다가 아니야, 관리자. '인두 지령'의 지원은 시작에 불과해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Once the Order is given, any UWST site receiving the order must direct their military resources to the sender unconditionally.",
+      "zh-TW": "指令傳出後，任何接收到它的聯盟工團駐地都會無條件向傳訊源輸送軍事資源。",
+      "zh-CN": "指令发出后，任何接收到它的联盟工团驻地都会无条件向发信源输送军事资源。",
+      "ja": "ひとたび指令が出されれば、受け取った工業団連盟の拠点は、発信源に対して無条件で戦力を送ることになります。",
+      "ko": "지령이 발동되면, 이를 받은 모든 연맹 공단 주둔지는 신호 발신지로 군사 자원을 무조건 운송하게 되어 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "From what I remember, this strategic command had not been issued against any Landbreaker clan.",
+      "zh-TW": "在我的印象裡，戰略級的指令從未對裂地者氏族使用過。",
+      "zh-CN": "在我的印象里，战略级的指令从未对裂地者氏族使用过。",
+      "ja": "私の記憶では、このレベルの指令がランドブレーカーに向けられたことは、これまでに一度もありません。",
+      "ko": "내 기억에, 이렇게 강력한 지령을 랜드브레이커 상대로 쓴 적은 없었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I guess the Bonekrushers really did piss off the UWST.",
+      "zh-TW": "看來這一次，碾骨是真的將工團惹怒了。",
+      "zh-CN": "看来这一次，碾骨是真的将工团惹怒了。",
+      "ja": "今回は、工業団も本気みたいだね。",
+      "ko": "이번엔 본 크러셔가 정말 공단을 화나게 한 모양이네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Strategic firepower of the UWST can do more than just destroying the denstacks.",
+      "zh-TW": "工團的戰略火力，可不僅僅是炸毀巢雕這種程度。",
+      "zh-CN": "工团的战略火力，可不仅仅是炸毁巢雕这种程度。",
+      "ja": "工業団が本気で戦力を動かすなら、巣彫を破壊する程度で収まるものではありません。",
+      "ko": "공단의 화력은 단순히 지옥의 용광로 하나 폭파하는 수준이 아니야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "The Bonekrushers have transgressed by attacking the most valuable assets of the UWST — the livelihood of their workers.",
+      "zh-TW": "碾骨觸碰了工團最珍視的財富——工人們的生命。",
+      "zh-CN": "碾骨触碰了工团最珍视的财富——工人们的生命。",
+      "ja": "ボーンクラッシャーは工業団の最も大切な財産、工業団員たちの命を手にかけたのですから……",
+      "ko": "본 크러셔는 공단이 가장 아끼는 재산... 작업자들의 생명을 건드렸거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "The Bonekrushers may benefit from Nefarith's support, but the UWST will make the Landbreakers pay dearly for what they did.",
+      "zh-TW": "工團必將讓碾骨付出慘痛的代價，即使他們現在有聶菲斯的幫助。",
+      "zh-CN": "工团必将让碾骨付出惨痛的代价，即使他们现在有聂菲斯的帮助。",
+      "ja": "ボーンクラッシャーを徹底的に叩くつもりでしょう。ネファリスの助けがあったとしても、必ず。",
+      "ko": "네파리스가 곁에 붙어 있어도, 공단은 본 크러셔에게 반드시 혹독한 대가를 치르게 할 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "We should expect to see war soon enough.",
+      "zh-TW": "接下來，大概會硝煙四起了。",
+      "zh-CN": "接下来，估计会硝烟四起了。",
+      "ja": "これから、各地に戦火が広がっていくはずです。",
+      "ko": "이제부터 사방이 화약 냄새로 가득하겠지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Be prepared, Endmin.",
+      "zh-TW": "請做好準備，管理員。",
+      "zh-CN": "请做好准备，管理员。",
+      "ja": "準備を整えておきましょう、管理人。",
+      "ko": "준비를 단단히 해야 해, 관리자."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_map02_lv002_11",
+   "topic": {
+    "en": "Wuling and Burdenbeast",
+    "zh-TW": "武陵與馱獸",
+    "zh-CN": "武陵与驮兽",
+    "ja": "武陵と駄獣",
+    "ko": "무릉과 버든비스트"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Endmin, how was the Burdenbeast Care Workshop?",
+      "zh-TW": "管理員，馱獸科學飼養會，感覺怎麼樣？",
+      "zh-CN": "管理员，驮兽科学饲养会，感觉怎么样？",
+      "ja": "管理人、駄獣科学飼育会はいかがでしたか？",
+      "ko": "관리자, 버든비스트 과학 사육회, 어땠어?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "When I attended the workshop, I learned that a Nongye Tianshi had suddenly passed away...",
+         "zh-TW": "我在參加馱獸科學飼養會的時候，得知了一位農業天師突然離世……",
+         "zh-CN": "我在参加驮兽科学饲养会的时候，得知了一位农业天师突然离世……",
+         "ja": "駄獣科学飼育会で、ある農業天師が突然亡くなったと聞いたんだけど……",
+         "ko": "버든비스트 과학 사육회에 갔다가, 한 농업 천사님이 갑자기 돌아가셨다는 걸 알게 됐어..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "I heard about that too. The Old Tianshi worked tirelessly his whole life and can finally rest...",
+         "zh-TW": "我也聽說了。那位老天師操勞了一生，終於可以好好休息了……",
+         "zh-CN": "我也听说了。那位老天师操劳了一生，终于可以好好休息了……",
+         "ja": "私も聞きました。老天師は生涯を費やして働いてきたそうです。ようやく、ゆっくり休めますね……",
+         "ko": "나도 들었어. 그 나이 든 천사는 평생을 몸 바쳐 일하셨지. 이제야 제대로 쉬실 수 있게 됐네..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I learned about the story of an Old Tianshi and Wuling's farms... I believe they are both quite important to Talos-II, right?",
+         "zh-TW": "我瞭解到了一位老天師的故事，武陵的農田……對塔衛二很重要吧。",
+         "zh-CN": "我了解到了一位老天师的故事，武陵的农田……对塔卫二很重要吧。",
+         "ja": "ある老天師の話を聞いたんだ。武陵の農地は……タロⅡにとって、とても重要なんだね。",
+         "ko": "한 나이 든 천사의 이야기를 들었어. 무릉의 논밭... 탈로스 II에게 정말 중요한 거지?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "With its unique geography, Wuling's core mission is to grow crops that can withstand the Blight.",
+      "zh-TW": "武陵的地理環境很獨特，培育出適應侵蝕環境的作物，是這片地區所承擔的使命。",
+      "zh-CN": "武陵的地理环境很独特，培育出适应侵蚀环境的作物，是这片地区所承担的使命。",
+      "ja": "武陵は特殊な環境……つまり、侵蝕という環境に適した作物を育てることが使命とも言えます。",
+      "ko": "무릉의 지형과 환경은 아주 특별해. 침식 환경에 적응하는 작물을 길러 내는 건, 이 지역이 맡은 사명이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "The self-sufficiency of the Civilization Band owes much to the dedication of Wuling's Tianshi.",
+      "zh-TW": "文明環帶能夠實現糧食的自產自足，與武陵天師們的奉獻緊密相關。",
+      "zh-CN": "文明环带能够实现粮食的自产自足，与武陵天师们的奉献紧密相关。",
+      "ja": "文明地帯に十分な食料があるのは、天師たちの献身があってこそです。",
+      "ko": "문명 밴드가 식량을 자급자족할 수 있는 건, 무릉의 천사들의 끝없는 헌신과 노력이 있었기 때문이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Even with the option of living in comfort elsewhere, they still chose to come to Wuling.",
+      "zh-TW": "即便已經能在更為舒適的環境下生活，他們也依舊來到了武陵。",
+      "zh-CN": "即便已经能在更为舒适的环境下生活，他们也依旧来到了武陵。",
+      "ja": "より良い環境で暮らすことができるようになっても、武陵に戻ってきたのですから。",
+      "ko": "더 편한 환경에서 지낼 수 있게 됐어도, 그 사람들은 여전히 무릉으로 돌아와."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "They work tirelessly, making preparations for whatever changes may come.",
+      "zh-TW": "天師們辛苦耕耘，也是在為可能的變故做好準備。",
+      "zh-CN": "天师们辛苦耕耘，也是在为可能的变故做好准备。",
+      "ja": "天師たちが耕作を続けるのは、起こりうる変化に備えるためでもあるのです。",
+      "ko": "천사들이 땅을 갈고 가꾸는 건, 혹시 모를 변수에 대비하는 일이기도 하지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I see... No wonder that Old Tianshi could never stop worrying about his test fields...",
+      "zh-TW": "原來如此……難怪那位老天師，心裡始終牽掛著他的實驗田……",
+      "zh-CN": "原来如此……难怪那位老天师，心里始终牵挂着他的试验田……",
+      "ja": "なるほどね……それであの老天師は最後まで実験用の田んぼをすごく気にかけていたんだね……",
+      "ko": "그렇구나... 어쩐지 그 나이 든 천사가 끝까지 실험용 논밭을 마음에 두셨던 게 이해돼..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Hmm... I suppose the ancient Yan saying \"to devote oneself wholeheartedly until the very end\" was meant to describe someone like him.",
+      "zh-TW": "嗯……我想，炎國古話裡的「鞠躬盡瘁」，說的大概就是這樣的人吧。",
+      "zh-CN": "嗯……我想，炎国古话里的“尽瘁鞠躬”，说的大概就是这样的人吧。",
+      "ja": "ええ、おそらく。炎国の古いことわざ「粉骨砕身」とは、まさに老天師のような人のことを指すのでしょうね。",
+      "ko": "응... 염국의 속담에 '온 힘을 다해 몸이 닳도록 헌신한다'라는 말이 있거든. 아마 이런 분을 두고 한 말일 거야."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_map02_lv003_5",
+   "topic": {
+    "en": "Ancestral Spring and Qingbo",
+    "zh-TW": "祖泉與清波",
+    "zh-CN": "祖泉与清波",
+    "ja": "祖泉と清波",
+    "ko": "선조의 샘과 청파"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Endmin, I never expected the source of the Ancestral Spring to have a device left behind by a Yanese Tianshi.",
+      "zh-TW": "管理員，真沒想到，祖泉泉源居然有炎國天師留下的裝置。",
+      "zh-CN": "管理员，真没想到，祖泉泉源居然有炎国天师留下的装置。",
+      "ja": "まさか、祖泉の泉源に炎国の天師が残した装置があるなんて、思いもしませんでした。",
+      "ko": "선조의 샘 근원에 염국 천사가 남긴 장치가 있을 줄은 몰랐어..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Hmm, that is a bit unexpected.",
+         "zh-TW": "嗯，的確有點意外。",
+         "zh-CN": "嗯，确实有点意外。",
+         "ja": "うん、全く想像していなかった……",
+         "ko": "응, 좀 의외였어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Yeah, I had my suspicions, but I never guessed it was left by a Yanese Tianshi.",
+         "zh-TW": "嗯，我隱約有些猜測，只是沒想到是炎國天師留下的。",
+         "zh-CN": "嗯，我隐约有些猜测，只是没想到是炎国天师留下的。",
+         "ja": "実は、もしかして何かあるんじゃないかと思っていたけど、炎国の天師が残したものだとは思わなかったよ。",
+         "ko": "응, 어렴풋이 짐작은 했지만, 염국 천사가 남긴 거라곤 생각 못 했어."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What an elegant design. It runs almost entirely on the water's own kinetic energy... Terra's tech is truly remarkable.",
+      "zh-TW": "很精妙的設計，幾乎只靠水流本身的勢能就能運作……泰拉的科技真的很精妙。",
+      "zh-CN": "很精妙的设计，几乎只靠水流本身的势能就能运行……泰拉的科技真的很精妙。",
+      "ja": "あの装置は随分精巧に造られていた。水流の勢いだけで動かせるなんて、テラの科学技術は本当にすごいね。",
+      "ko": "참 정교한 설계야. 거의 물 흐름 자체의 에너지만으로 작동되다니... 테라의 기술은 정말 대단한 것 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Yeah, a lot of the tech on Talos-II actually evolved from Terra's technological legacy.",
+      "zh-TW": "嗯，目前塔衛二的很多技術，都是基於泰拉的技術遺產衍生出來的。",
+      "zh-CN": "嗯，目前塔卫二的很多技术，都是基于泰拉的技术遗产衍生出来的。",
+      "ja": "はい。現在のタロⅡの技術は、ほとんどがテラの技術遺産から派生して生まれたものなんですよ。",
+      "ko": "응, 지금 탈로스 II의 많은 기술도 테라의 기술을 바탕으로 파생된 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "But take this device. Over a hundred years ago, they already had such clever designs...",
+      "zh-TW": "但像這座裝置，一百多年前就已經有了這麼巧妙的設計……",
+      "zh-CN": "但像这座装置，一百多年前就已经有了这么巧妙的设计……",
+      "ja": "ただ、100年以上前からこれほど高いレベルの設計が存在していたとは……",
+      "ko": "그런데 이런 장치가, 백여 년 전부터 이미 이렇게 정교하게 설계돼 있었다니..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "If it's the HAS and the Cabal of Tranquility, they probably still have quite a few Terra tech relics from over 152 years ago.",
+      "zh-TW": "如果是宏科院和寂語修會的話，應該還保存著不少一百五十二年前的泰拉技術遺產。",
+      "zh-CN": "如果是宏科院和寂语修会的话，应该还保存着不少一百五十二年前的泰拉技术遗产。",
+      "ja": "宏科院や静語伝道会なら、152年前のテラの技術遺産をたくさん保存しているのかな。",
+      "ko": "홍산 과학원과 고요한 수도회라면, 152년 전의 테라 기술을 꽤 많이 보관하고 있을 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Endfield also holds a fair share of the tech legacy, but I wonder if we'll see more devices like this in other parts of Talos-II.",
+      "zh-TW": "終末地也持有相當部分的技術遺產，但不知道塔衛二的其他地方還能不能看到更多像這樣的裝置。",
+      "zh-CN": "终末地也持有相当一部分的技术遗产，但不知道塔卫二的其他地方还能不能看到更多像这样的装置。",
+      "ja": "エンドフィールドでもかなりの数を保有していますが、タロⅡの他の場所で似たような装置があるかまでは、確認できていません。",
+      "ko": "엔드필드도 상당한 테라 기술을 보유하고 있지만, 탈로스 II의 다른 곳에서도 이런 장치를 더 볼 수 있을지는 모르겠네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Still, I hope there won't be more people trapped in situations like the Stockaders here.",
+      "zh-TW": "不過，希望不要再有更多像寨民們這樣深陷困境的人們了。",
+      "zh-CN": "不过，希望不要再有更多像寨民们这样深陷困境的人们了。",
+      "ja": "ただ……砦のような状況になっていなければ良いのですが……",
+      "ko": "그래도, 청파채 주민들처럼 깊은 곤경에 빠지는 사람들이 더 이상 없었으면 좋겠어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "For the Stockaders to start relying on themselves, and the Ancestral Spring within their hearts, Du Ming has worked hard.",
+      "zh-TW": "為了寨民們能夠開始依靠自己，依靠心中的祖泉，辛苦杜鳴了。",
+      "zh-CN": "为了寨民们能够开始依靠自己，依靠心中的祖泉，辛苦杜鸣了。",
+      "ja": "砦の皆だけで一歩を踏み出せるように、祖泉が心の拠り所で在り続けられるように、ドゥミンは頑張ってくれたね。",
+      "ko": "다 두명 씨 덕분이라고 생각해. 마을 사람들이 마음속 선조의 샘을 기억한 채로 각자의 삶을 살아갈 수 있게 만들어 준 거지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "I hope Qingbo Stockade can soon adjust to living without depending on the Ancestral Spring.",
+      "zh-TW": "希望清波寨能夠早日適應不再依賴祖泉維生的日子。",
+      "zh-CN": "希望清波寨能够早日适应不再依赖祖泉维生的日子。",
+      "ja": "はい。祖泉だけを希望とするのではなく、砦の人々の力で切り開いていけるようになるといいですね。",
+      "ko": "청파채가 더 이상 선조의 샘에 의지하지 않는 생활에 하루빨리 적응했으면 좋겠네."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_map02_lv004_3",
+   "topic": {
+    "en": "Sights at the Marker Stone",
+    "zh-TW": "首墩見聞",
+    "zh-CN": "首墩见闻",
+    "ja": "首礎見聞",
+    "ko": "수돈 견문"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Perlica have you seen an actual Feranmut before?",
+      "zh-TW": "佩麗卡，你親眼看過巨獸嗎？",
+      "zh-CN": "佩丽卡，你亲眼见过巨兽吗？",
+      "ja": "ペリカ、巨獣を見たことはある？",
+      "ko": "펠리카, 베헤모스를 직접 본 적 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "I'm afraid not. Only pictures of them in the Endfield database. Why are you asking, Endmin?",
+      "zh-TW": "很遺憾，只在終末地的資料上看過。管理員，怎麼突然想起問這個？",
+      "zh-CN": "很遗憾，只在终末地的资料上见过。管理员，怎么突然想起问这个？",
+      "ja": "いえ、エンドフィールドの資料でしか見たことはありません。どうしたのですか？",
+      "ko": "아쉽게도 엔드필드의 자료에서만 봤어. 근데, 갑자기 그건 왜?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Seeing the Feranmut Heart got me really curious. How did Hongshan create this thing?",
+      "zh-TW": "看到巨獸心臟後有點好奇，宏科院是怎麼創造出這樣的造物的？",
+      "zh-CN": "看到巨兽心脏后有点好奇，宏科院是怎么创造出这样的造物？",
+      "ja": "巨獣の心臓を見て、少し気になったんだ。宏山科学院は、どうやって作ったのかなって。",
+      "ko": "베헤모스의 심장을 보니까, 홍산 과학원은 어떻게 이런 걸 만들어낸 건지 좀 궁금해졌어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Strictly speaking, the Feranmut Heart is created by a Hongshan Tianshi who is also a Proxy of Feranmut \"Sui\".",
+      "zh-TW": "嚴格來說，創造巨獸心臟的，是宏科院天師和巨獸「歲」的代理人。",
+      "zh-CN": "严格来讲，创造巨兽心脏的，是宏科院天师和巨兽“岁”的代理人。",
+      "ja": "厳密なお話をすると、巨獣の心臓を作ったのは、宏山科学院の天師と巨獣「歳」の代理人ですね。",
+      "ko": "엄밀히 말하자면, 베헤모스의 심장을 만든 건 홍산 과학원 천사들과 베헤모스 '쉐이'의 대리인이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Feranmuts tend to be extremely massive. They often create Proxies to serve as their avatars.",
+      "zh-TW": "巨獸的本體極其龐大，他們往往會創造代理人作為自己的分身。",
+      "zh-CN": "巨兽的本体极其庞大，他们往往会创造代理人作为自己的分身。",
+      "ja": "巨獣自身は非常に大きいですから、分身として代理人を作り出すと言われています。",
+      "ko": "베헤모스의 본체는 엄청 거대해서, 보통 대리인을 만들어 분신처럼 쓰거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So who is this Feranmut Proxy like as a person?",
+      "zh-TW": "那這位巨獸代理人，是怎樣的一位人物？",
+      "zh-CN": "那这位巨兽代理人，是怎样的一位人物？",
+      "ja": "「巨獣の代理人」っていうのは、どういう人なの？",
+      "ko": "그 베헤모스 대리인이란 사람은 어떤 사람이야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Hongshan hardly shared any information about this topic.",
+      "zh-TW": "宏科院公布的資訊並不多。",
+      "zh-CN": "宏科院公布的信息并不多。",
+      "ja": "宏山科学院が公表している情報は多くありません。",
+      "ko": "홍산 과학원에서 공개한 정보는 많지 않아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "All we know is that Hongshan worked closely with this Proxy, who was directly involved in the R&D of Xiranite tech and equipment for the Yinglungs.",
+      "zh-TW": "我們所知道的，也只有宏科院與其進行了相當密切的合作。這位代理人直接參與了息壤技術與應龍裝備的研發。",
+      "zh-CN": "我们所知道的，也只有宏科院与其进行了相当密切的合作。这位代理人直接参与了息壤技术与应龙装备的研发。",
+      "ja": "分かっていることは、宏山科学院と密接な関係にあるということだけです。そして代理人は、息壌技術や応龍の装備の開発に直接関わっているのです。",
+      "ko": "우리가 아는 건, 홍산 과학원과 꽤 긴밀하게 협력했다는 것 정도야. 또 대리인은 식양 기술과 응룡 장비 개발에도 직접 참여했다고 해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "As for what this Proxy is like as a person, we'll have to wait till we have a chance of meeting this Proxy.",
+      "zh-TW": "實際上是怎樣的一位人物，或許得等我們有機會與這位代理人見一面，才能得知。",
+      "zh-CN": "具体是怎样的一位人物，或许得等我们有机会与这位代理人见上一面，才能得知。",
+      "ja": "具体的に「どんな人か」というのは、もしかすると直接会うことがなければ、わからないかもしれませんね……",
+      "ko": "구체적으로 어떤 사람인지는... 대리인을 직접 만나봐야 알 수 있겠지."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I'm quite curious about the looks of this Proxy.",
+         "zh-TW": "好奇這位代理人究竟長什麼樣子。",
+         "zh-CN": "好奇这位代理人究竟长什么样。",
+         "ja": "「代理人」がどんな姿をしているのか、気になる。",
+         "ko": "대리인은 어떻게 생겼을까? 진짜 궁금하네."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "I'm curious too.",
+         "zh-TW": "我也很好奇。",
+         "zh-CN": "我也很好奇。",
+         "ja": "ええ、私も気になります。",
+         "ko": "나도 궁금해."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I'm really looking forward to meeting this Proxy!",
+         "zh-TW": "期待能和這位代理人見面！",
+         "zh-CN": "期待能和这位代理人见面！",
+         "ja": "いつか会えるときがくるかな。楽しみだ。",
+         "ko": "대리인을 직접 만날 수 있으면 좋겠다!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "I feel the same too.",
+         "zh-TW": "我也很期待。",
+         "zh-CN": "我也很期待。",
+         "ja": "ええ、私もです。",
+         "ko": "나도 기대돼."
+        }
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0004_pelica_1",
+   "topic": {
+    "en": "A Culinary Invitation",
+    "zh-TW": "美食邀請",
+    "zh-CN": "美食邀请",
+    "ja": "美食の冒険",
+    "ko": "'미식'의 초대"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Endmin, when we investigated the Bonekrushers' camp, we discovered something very interesting.",
+      "zh-TW": "管理員，我們在調查碾骨氏族的營地時，發現了些有趣的東西。",
+      "zh-CN": "管理员，我们在调查碾骨氏族的营地时，发现了些有趣的东西。",
+      "ja": "管理人、ボーンクラッシャーの拠点を調べていたときに、少し気になるものを見つけました。",
+      "ko": "관리자, 우리가 본 크러셔 집단의 캠프를 조사하다가 재미있는 걸 발견했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Apparently, the Landbreakers keep records of how they process \"edible materials,\" and their final products are quite something.",
+      "zh-TW": "裂地者會記錄各種處理「可食用材料」的方法，有些成品感覺很奇妙。",
+      "zh-CN": "裂地者会记录各种处理“可食用材料”的方法，有些成品感觉很奇妙。",
+      "ja": "「食用可能素材」の処理方法に関する詳細な記録なのですが、完成品が少し、奇妙というのでしょうか……",
+      "ko": "랜드브레이커들이 '먹을 수 있는 재료'를 다루는 온갖 방법을 기록해 놨더라고. 그중엔 꽤 신기한 것도 있었어."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Are they like some kind of creative recipe?",
+         "zh-TW": "就像是某種裂地者的創意食譜？",
+         "zh-CN": "就像是某种裂地者的创意食谱？",
+         "ja": "ランドブレーカーの「創作レシピ」みたいなものかな。",
+         "ko": "랜드브레이커만의 창의적인 요리법 같은 건가?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Hmm, I would not call it a \"recipe\"...",
+         "zh-TW": "和我們定義中的「食譜」可能……天差地別。",
+         "zh-CN": "和我们定义中的“食谱”可能……天差地别。",
+         "ja": "私たちが普段使っている「レシピ」という言葉とは……天地ほどの差が……",
+         "ko": "...우리가 말하는 '요리법'이랑은 완전히 다르다고 해야겠지."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Besides things I can somewhat accept, like Originium Slug secretions, there are fermented Ruby Bolete caps, and gelatinous extracts from various plant roots...",
+         "zh-TW": "除了源石蟲分泌物精粹這類我還可接受的材料以外，還有發酵重紅柱狀菌菌蓋、各類植物根莖的膠狀提取物——",
+         "zh-CN": "除去源石虫分泌物精粹这类我尚可接受的材料以外，还有发酵重红柱状菌菌盖、各类植物根茎的胶状提取物——",
+         "ja": "オリジムシの分泌エキス、これはまだ許容範囲です。他には……発酵させた深紅茸、植物の根から抽出した粘性の液体……",
+         "ko": "원석충 분비물 농축액 같은 건 그나마 받아들일 수 있는 재료라고 한다면, 그 외에도 발효된 진한 붉은 기둥 버섯의 갓이라든가, 각종 식물 뿌리에서 추출한 젤형 물질 같은 것도 있었어..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Maybe it is better you don't know the full details...",
+         "zh-TW": "更多細節……你還是不要知道比較好。",
+         "zh-CN": "更多细节……你还是不要知道了。",
+         "ja": "これ以上は……もうお伝えしないほうが良いでしょう。",
+         "ko": "더 자세한 건... 안 듣는 게 나을 거야."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Edible materials... I wonder if they really are \"edible\"...",
+         "zh-TW": "「可食用材料」這個說法聽起來不太妙……",
+         "zh-CN": "“可食用材料”这个说法听着不太妙……",
+         "ja": "「食用可能素材」って、なんだか不思議な言い方だけど……",
+         "ko": "'먹을 수 있는 재료'라는 표현 자체가 좀 불안하게 들리는데..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "I will try to describe it as accurately as possible.",
+         "zh-TW": "我已經盡可能用準確的詞語去描繪了。",
+         "zh-CN": "我已经尽可能用准确的词语去描绘了。",
+         "ja": "できるだけ、正確にお伝えできる言葉を選んだつもりでした。",
+         "ko": "최대한 정확하게 묘사한 거야."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Besides things I can somewhat accept, like Originium Slug secretions, there are fermented Ruby Bolete caps, and gelatinous extracts from various plant roots...",
+         "zh-TW": "除了源石蟲分泌物精粹和發酵重紅柱狀菌菌蓋這些還能勉強描述成「理論上存在食用可能」外，一些植物根莖的膠狀提取物實在是……",
+         "zh-CN": "除去源石虫分泌物精粹，和发酵重红柱状菌菌盖这些还能勉强描述成“理论上存在食用可能”外，一些植物根茎的胶状提取物实在……",
+         "ja": "オリジムシの分泌エキスや発酵させた深紅茸のように「理論上は食べられる」ものもありますが、植物の根から抽出した粘性の液体などは、正直……",
+         "ko": "원석충 분비물 농축액이나 발효된 진한 붉은 기둥 버섯의 갓 정도는 '이론상 먹을 수 있다'라고 말할 수 있겠지만, 각종 식물 뿌리에서 추출한 젤형 물질 같은 건 도저히..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Judging from the raw materials left behind, I have to admire their imagination.",
+         "zh-TW": "至少從現場殘留的原材料來看，我很欽佩他們的想像力。",
+         "zh-CN": "至少从现场残留的原材料来看，我很钦佩他们的想象力。",
+         "ja": "現場に残っていた材料だけを見れば、彼らの発想力には感心すべきところがある、とは思います。",
+         "ko": "그래도 현장에 남아 있던 원재료를 보면, 그들의 상상력만큼은 정말 대단하다는 생각이 들었어."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "These processed materials have complex flavors and unique textures. I must say, they deliver a striking impact, both to the palate and to the eye...",
+      "zh-TW": "那些處理後味道複雜、口感獨特的東西，會讓人受到極大的感官衝擊。",
+      "zh-CN": "那些处理后味道复杂、口感独特的东西，能让人受到极大的感观冲击。",
+      "ja": "それに、複雑な味かつ独特な食感で、強烈なインパクトがあることも事実です。",
+      "ko": "그 복잡한 맛과 독특한 식감은, 정말 큰 충격을 주더라고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "I'm still investigating the methods they used to neutralize the toxins in some of these ingredients...",
+      "zh-TW": "不過我還在研究，他們到底用了什麼手法來處理部分材料的毒素……",
+      "zh-CN": "不过我还在研究，他们到底用了什么手法来处理部分材料的毒素……",
+      "ja": "ただ、一部の素材に含まれているはずの毒をどのように処理したのかは、まだ研究中ですが……",
+      "ko": "다만 일부 재료의 독성을 어떻게 처리했는지는 아직 연구 중이야..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "What is it, Endmin?",
+      "zh-TW": "怎麼了，管理員？",
+      "zh-CN": "怎么了，管理员？",
+      "ja": "どうしたんですか、管理人？",
+      "ko": "왜 그래, 관리자?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You know a little too much! Don't tell me ... you already tried some?",
+         "zh-TW": "你知道的細節也太多了！你不會已經吃過了吧？！",
+         "zh-CN": "你知道的细节也太多了！你不会已经尝过了吧？！",
+         "ja": "君、詳しすぎない……？まさか、もう食べてたり……",
+         "ko": "너 너무 잘 아는 거 아니야? 설마 벌써 먹어본 거야?!"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You talk like you've tried it. Don't tell me ... you already tried some?",
+         "zh-TW": "感覺你說起來頭頭是道！你不會已經吃過了吧？！",
+         "zh-CN": "感觉你说起来头头是道！你不会已经尝过了吧？！",
+         "ja": "説得力がありすぎるよ……まさか、もう食べてたり……",
+         "ko": "너 너무 태연한 거 아니야? 설마 벌써 먹어본 거야?!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "...",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Guilty as charged. I could not help myself.",
+      "zh-TW": "抱歉，實在是沒忍住。",
+      "zh-CN": "抱歉，实在没忍住。",
+      "ja": "ええと……すみません。我慢できなかったのです。",
+      "ko": "미안. 참을 수가 없었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "I brought some of the materials back aboard Dijiang, refined them, and ran trials. Would you care to sample the results?",
+      "zh-TW": "我帶了點原料回帝江號做改良。想試試我的成品嗎？",
+      "zh-CN": "我带了些原料回帝江号做改良。想试试我的成品吗？",
+      "ja": "原材料を帝江号に持ち帰って、改良しました。私が作ったものですが、食べてみますか？",
+      "ko": "일부 원재료를 제강호로 가져와서 개량해 봤어. 어때? 내 완성품 한번 맛보지 않을래?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Everything was carried out under strict lab conditions, with medical oversight the entire time.",
+      "zh-TW": "一切都是在實驗室環境裡完成的，醫療幹員也在旁邊全程監督我處理食材。",
+      "zh-CN": "一切都是在实验室环境里完成的，医疗干员也在旁边全程监督我处理食材。",
+      "ja": "実験室で処理を行い、医療オペレーターにも同席してもらっていますから。",
+      "ko": "걱정 마, 안전한 실험실 환경에서, 의료 오퍼레이터의 감독하에 진행했으니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "...",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Chen already tried it. She could not stop praising it after her first bite.",
+      "zh-TW": "放心，陳已經吃過了！勇敢邁出第一步後，連她都讚不絕口。",
+      "zh-CN": "放心，陈已经尝过了！勇敢迈出第一步后，连她都赞不绝口。",
+      "ja": "大丈夫です。チェンも試食済です。最初は、勇気が必要かもしれませんが……一口食べたあとは、パクパク食べていたんですよ。",
+      "ko": "안심해도 돼. 천우가 이미 먹어봤어! 처음엔 망설이다가도 한 번 용기를 내고 나니 맛있다고 칭찬이 끊이질 않았다니까."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I'm ... scared.",
+         "zh-TW": "我……有點害怕。",
+         "zh-CN": "我……有点害怕。",
+         "ja": "ちょっと、怖い気もするけど……",
+         "ko": "솔직히... 좀 무서운데."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Scared of my cooking, or scared of the food itself?",
+         "zh-TW": "是害怕我的手藝，還是害怕改良後的食物？",
+         "zh-CN": "是害怕我的手艺，还是害怕改良后的食物？",
+         "ja": "怖い、というのは……私の腕前ですか？それとも、改良した食べ物ですか？",
+         "ko": "내 요리 솜씨가 무서운 거야, 아니면 개량된 음식 자체가 무서운 거야?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Honestly, your reaction was about what I expected...",
+         "zh-TW": "不過管理員的反應也在我的預料之中……",
+         "zh-CN": "不过管理员的反应也在我的预料之中……",
+         "ja": "ただ、管理人の反応は予想通りでしたね……",
+         "ko": "그래도 뭐, 예상했던 반응이야..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "I shall continue refining it. When the time is right, you will have another chance.",
+         "zh-TW": "我會繼續改良的，以後有機會再試試吧。",
+         "zh-CN": "我会继续改良的，以后有机会再试试吧。",
+         "ja": "これからも改良を続けてみますから、また機会があれば、ぜひ試してみてくださいね。",
+         "ko": "계속 개량해 볼게. 나중에 한번 시도해 봐."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Alright then, I'll have to give it a try.",
+         "zh-TW": "那就挑戰一下吧。",
+         "zh-CN": "那就挑战一下吧。",
+         "ja": "よし、挑戦してみるよ。",
+         "ko": "그럼 한번 도전해 볼게."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Not even a moment's hesitation?",
+         "zh-TW": "沒有一點猶豫嗎？",
+         "zh-CN": "没有一点犹豫吗？",
+         "ja": "全く、迷いもなく……",
+         "ko": "망설임이 전혀 없네?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Thank you, Endmin!",
+         "zh-TW": "謝謝你，管理員！",
+         "zh-CN": "谢谢你，管理员！",
+         "ja": "さすがです。ありがとうございます、管理人！",
+         "ko": "고마워, 관리자!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "I shall hurry and refine it a little more.",
+         "zh-TW": "那我儘快再改良一下。",
+         "zh-CN": "那我抓紧再改良一下。",
+         "ja": "急ぎ、改良と調整をしたいと思います。",
+         "ko": "그럼 내가 얼른 더 완성도를 높여볼게."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Hold tight, okay?",
+         "zh-TW": "等我。",
+         "zh-CN": "等我。",
+         "ja": "少しだけ、お待ちください。",
+         "ko": "조금만 기다려줘."
+        }
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0004_pelica_2",
+   "topic": {
+    "en": "Kinetic Geodetics",
+    "zh-TW": "用速度丈量大地",
+    "zh-CN": "用速度丈量大地",
+    "ja": "スピードで大地を測る",
+    "ko": "속도로 탐험하는 대지"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Endmin, do you recall my mentioning the private race I had been preparing for against my instructor?",
+      "zh-TW": "管理員，還記得之前和你提過，我一直在準備和老師的秘密比賽嗎？",
+      "zh-CN": "管理员，还记得之前和你提过，我一直在准备和老师的秘密比赛吗？",
+      "ja": "管理人。以前「先生との秘密の勝負」についてお話したと思うのですが、覚えていますか？",
+      "ko": "관리자, 전에 내가 선생님이랑 비밀 경기를 준비 중이라고 했던 거 기억나?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "The results have just been decided.",
+      "zh-TW": "剛剛終於有結果了。",
+      "zh-CN": "刚刚终于出结果了。",
+      "ja": "ついさっき、結果が出たのです。",
+      "ko": "드디어 방금 경기 결과가 나왔어."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Instructor Maze?",
+         "zh-TW": "和Maze？",
+         "zh-CN": "和Maze？",
+         "ja": "Mazeとの勝負のこと？",
+         "ko": "메이즈 선생님 말하는 거야?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Yes, and I won. Even though Instructor Maze's Arts rank among the best in the Band, he is not without flaws.",
+         "zh-TW": "對，而且是我贏了。雖然老師的法術造詣放眼整個環帶都數一數二，但也不是沒有弱點。",
+         "zh-CN": "对，而且是我赢了。虽然老师的法术造诣放眼整个环带都数一数二，但也不是没有弱点。",
+         "ja": "はい、そうです。そして、結果は私の勝ち……先生のアーツは文明地帯でも群を抜くものですが、弱点が無いわけではありませんから。",
+         "ko": "맞아, 그리고 내가 이겼어. 선생님의 아츠 실력은 밴드 전체에서도 손꼽히지만, 그렇다고 약점이 없는 건 아니더라고."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "How did it go?",
+         "zh-TW": "所以結果如何？",
+         "zh-CN": "所以结果如何？",
+         "ja": "それで、結果はどうだったの？",
+         "ko": "결과는 어떻게 됐는데?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "I won, of course. Even though Instructor Maze's Arts rank among the best in the Band, he is not without flaws.",
+         "zh-TW": "當然是我贏了Maze老師。雖然老師的法術造詣放眼整個環帶都數一數二，但也不是沒有弱點。",
+         "zh-CN": "当然是我赢了Maze老师。虽然老师的法术造诣放眼整个环带都数一数二，但也不是没有弱点。",
+         "ja": "もちろん、私が勝ちました。先生のアーツは文明地帯でも群を抜くものですが、弱点が無いわけではありませんから。",
+         "ko": "내가 메이즈 선생님을 이겼어. 선생님의 아츠 실력은 밴드 전체에서도 손꼽히지만, 그렇다고 약점이 없는 건 아니더라고."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I don't... Sorry.",
+         "zh-TW": "抱歉，我……不記得了。",
+         "zh-CN": "抱歉，我……不记得了。",
+         "ja": "ごめん……覚えていない……",
+         "ko": "미안, 기억이 잘 안 나네..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "It's alright, Endmin. I mentioned it casually a while back.",
+         "zh-TW": "沒關係，管理員，當時我也只是順口提起這件事。",
+         "zh-CN": "没事的，管理员，当时我也只是顺口提起这件事。",
+         "ja": "大丈夫ですよ。私も、会話の中で少し触れただけでしたから。",
+         "ko": "괜찮아, 그땐 나도 그냥 지나가면서 툭 뱉은 말이었으니까."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Anyway, winning even once against him makes me really happy.",
+         "zh-TW": "無論如何，能贏Maze老師一次我很開心。",
+         "zh-CN": "无论如何，能赢Maze老师一次我很开心。",
+         "ja": "とにかく、一度でもMaze先生に勝てたことが嬉しくて、お伝えしたかったのです。",
+         "ko": "어쨌든 메이즈 선생님을 한 번이라도 이겼다는 게 정말 기뻐."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Even though Instructor Maze's Arts rank among the best in the Band, he is not without flaws.",
+         "zh-TW": "雖然老師的法術造詣放眼整個環帶都數一數二，但也不是沒有弱點。",
+         "zh-CN": "虽然老师的法术造诣放眼整个环带都数一数二，但也不是没有弱点。",
+         "ja": "先生のアーツは文明地帯でも群を抜いていますが、弱点はあります。",
+         "ko": "선생님의 아츠 실력은 밴드 전체에서도 손꼽히지만, 그렇다고 약점이 없는 건 아니더라고."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "All right, now I have to know, what kind of race was it?",
+      "zh-TW": "那我更好奇你們的秘密比賽是什麼了。",
+      "zh-CN": "那我更好奇你们的秘密比赛是什么了。",
+      "ja": "その「秘密の勝負」って、どんな内容だったの？",
+      "ko": "그럼 비밀 경기 종목은 뭐였어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "All-terrain racing. I cannot believe I actually beat him at his proudest event.",
+      "zh-TW": "全地形競速。我在他最引以為傲的項目上贏了他一次。",
+      "zh-CN": "全地形竞速。我在他最引以为傲的项目上赢了他一次。",
+      "ja": "全地形レースです。先生の得意分野ではありますが、一度だけ勝つことができたのですよ",
+      "ko": "경기 종목은 전지형 경주였어. 선생님이 가장 자신 있어 하는 분야에서 선생님을 이긴 셈이지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "It was thrilling.",
+      "zh-TW": "過程很驚險。",
+      "zh-CN": "过程很惊险。",
+      "ja": "レースの展開は、本当にスリル満点で……",
+      "ko": "경기 과정은 아주 아슬아슬했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "I took the lead twice but he overtook me both times. I only managed to edge him out by half a second at the final stretch.",
+      "zh-TW": "我兩次取得領先都被他反超，還是靠最後一段路勉強壓了他半秒。",
+      "zh-CN": "我两次取得领先都被他反超，还是靠最后一段路勉强压了他半秒。",
+      "ja": "リードを奪っては追い抜かれ、それが2回……最後、ようやく0.5秒差で勝てたのです。",
+      "ko": "두 번이나 앞섰다가 추월당했는데, 마지막 구간에서 간신히 0.5초 차이로 이겼거든."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I can imagine how intense that must have been.",
+         "zh-TW": "能想像一定發生了很多驚險刺激的事情。",
+         "zh-CN": "能想象一定发生了很多惊险刺激的事情。",
+         "ja": "スリル満点、ギリギリの勝負をしたみたいだね",
+         "ko": "상상만 해도 꽤 스릴 넘치는 경기였을 것 같아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Absolutely.",
+         "zh-TW": "當然。",
+         "zh-CN": "当然。",
+         "ja": "ええ。",
+         "ko": "응."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "I think it's more than a race. It's another way to explore Talos-II.",
+         "zh-TW": "這既是比賽，也是探索塔衛二大地的另一種途徑。",
+         "zh-CN": "这既是比赛，也是探索塔卫二大地的另一种途径。",
+         "ja": "それに、これは単なる勝負というわけではなくて、タロⅡの大地を探索する手段でもあります。",
+         "ko": "이건 단순한 경기가 아니라, 탈로스 II의 대지를 탐험하는 또 다른 방식이기도 해."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "You have to experience it to get it. Racing past migrating herds, soaring over peaks and clouds...",
+         "zh-TW": "如果不是親身體驗，人類很難想像出從遷徙的獸群中飛馳而過，跨越高峰與雲層的感受。",
+         "zh-CN": "如果不是亲身体验，人类很难想象出从迁徙的兽群中飞驰而过，跨越高峰与云层的感受。",
+         "ja": "獣の群れをすり抜け、山を超え、雲を突き抜ける瞬間――体験しなければ、わからない感覚……",
+         "ko": "이동하는 거대한 야수 무리를 가로지르거나, 산과 구름 위를 넘나드는 그 감각은, 직접 경험해 보지 않으면 상상하기 힘들 거야."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "It gives you an instinctive thrill, a shiver of excitement. I love it.",
+         "zh-TW": "那是一種源自本能的興奮戰慄，而我喜歡那種感覺。",
+         "zh-CN": "那是一种源自本能的兴奋战栗，而我喜欢那种感觉。",
+         "ja": "本能から湧きあがるような高揚感……私は、それが好きなんです。",
+         "ko": "본능에서 오는 흥분과 전율... 난 그게 좋아."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "What got you into this?",
+         "zh-TW": "很難想像你是怎麼愛上這項比賽的？",
+         "zh-CN": "很难想象你是怎么爱上这项比赛的？",
+         "ja": "どうして、そんなにこのレースが好きになったの？",
+         "ko": "어떻게 이런 경주를 즐기게 된 거야?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "It's more than a race. I think it's another way to explore Talos-II.",
+         "zh-TW": "這從來都不是單純的比賽，管理員，這也是探索塔衛二大地的另一種途徑。",
+         "zh-CN": "这从不是单纯的比赛，管理员，这也是探索塔卫二大地的另一种途径。",
+         "ja": "管理人、これは単なる勝負ではないのです。タロⅡの大地を探索するもう1つの道なんです。",
+         "ko": "관리자, 이건 단순한 경기가 아니라, 탈로스 II의 대지를 탐험하는 또 다른 방식이기도 해."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "I love dashing past the herds, feeling the quiet above the peaks and clouds.",
+         "zh-TW": "我喜歡從遷徙的獸群中飛馳而過，也享受跨越高峰和雲層的寧靜。",
+         "zh-CN": "我喜欢从迁徙的兽群中飞驰而过，也享受跨越高峰和云层的宁静。",
+         "ja": "獣の群れをすり抜ける瞬間もあれば、山を超え、雲を突き抜ける静けさもあって……",
+         "ko": "난 이동하는 거대한 야수 무리를 가로지르는 짜릿함도 좋고, 산과 구름 위를 가로지를 때의 고요함도 좋아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "It's like seeing Talos-II, my homeland, in a whole new way.",
+         "zh-TW": "它允許我用另一種方式去瞭解塔衛二，我的故鄉。",
+         "zh-CN": "它允许我用另一种方式去了解塔卫二，我的故乡。",
+         "ja": "故郷であるタロⅡを、別の目線から見ることが出来るんですよ。",
+         "ko": "내 고향, 탈로스 II를 다른 방식으로 이해하고 느낄 수 있거든."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "If you have another race ... can I come along? I want to watch in person!",
+         "zh-TW": "如果你們下次還有比賽，可以帶我一起嗎？我也想現場感受！",
+         "zh-CN": "如果你们还有下次比赛，可以带上我吗？我也想现场感受！",
+         "ja": "次のレースのときは、連れて行ってほしいな。現地で見てみたいんだ。",
+         "ko": "다음에 경기할 때 나도 데려가 줄래? 현장에서 직접 보고 싶어!"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "If you have another race ... can I come along? I want to watch in person!",
+         "zh-TW": "如果你們下次還有比賽，可以帶我一起嗎？我也想現場感受！",
+         "zh-CN": "如果你们还有下次比赛，可以带上我吗？我也想现场感受！",
+         "ja": "次のレースのときは、連れて行ってほしいな。現地で見てみたいんだ。",
+         "ko": "다음에 경기할 때 나도 데려가 줄래? 현장에서 직접 보고 싶어!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "No problem.",
+      "zh-TW": "一言為定。",
+      "zh-CN": "一言为定。",
+      "ja": "もちろんです。約束します。",
+      "ko": "좋아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Any particular place you want to see, Endmin?",
+      "zh-TW": "有特別想去的地方嗎，管理員？",
+      "zh-CN": "有特别想去的地方吗，管理员？",
+      "ja": "希望の場所はありますか？",
+      "ko": "관리자, 혹시 꼭 가보고 싶은 곳 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Preferably somewhere challenging.",
+      "zh-TW": "最好有點挑戰性。",
+      "zh-CN": "最好有点挑战性。",
+      "ja": "できれば、少し挑戦的な場所が良いとは……",
+      "ko": "되도록 도전적인 데로."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "There are so many places on Talos-II, it's so hard to choose one...",
+         "zh-TW": "塔衛二上適合的地方很多，有點難挑啊……",
+         "zh-CN": "塔卫二上合适的地方很多，有点难挑呀……",
+         "ja": "タロⅡには候補が多すぎて、なかなか決められない。",
+         "ko": "탈로스 II엔 그런 곳이 하도 많아서 고르기 힘드네..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Take your time.",
+         "zh-TW": "慢慢來。",
+         "zh-CN": "慢慢来。",
+         "ja": "ゆっくり考えても大丈夫ですよ。",
+         "ko": "천천히 생각해."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "There are still many places we have not explored. I cannot wait to see what surprise you come up with.",
+         "zh-TW": "塔衛二還有很多我們沒有踏足過的地方，我會等著你給我一個驚喜。",
+         "zh-CN": "塔卫二还有很多我们没有踏足过的地方，我会等着你给我一个惊喜。",
+         "ja": "タロⅡには、まだ訪れたことのない場所もたくさんあります。管理人がどんな場所を選ぶのか、楽しみにしていますね。",
+         "ko": "탈로스 II엔 아직 우리가 발을 못 디딘 곳이 많으니까. 깜짝 놀랄만한 답을 기대할게."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Maybe you can try somewhere outside of Talos-II, like Terra.",
+         "zh-TW": "也許可以試試塔衛二以外的其他星球，例如泰拉。",
+         "zh-CN": "也许可以试试塔卫二以外的其他星球，比如泰拉。",
+         "ja": "タロⅡじゃなくて、別の星もいいかもしれない……例えば、テラとかね。",
+         "ko": "그럼 탈로스 II 말고 다른 행성은 어때? 예를 들면 테라라든가."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "I know you are joking, but I love the idea.",
+         "zh-TW": "雖然知道是在開玩笑，但我喜歡這個主意。",
+         "zh-CN": "虽然知道是玩笑话，但我喜欢这个主意。",
+         "ja": "冗談だとわかっていますが、素敵な発想ですね。",
+         "ko": "농담인 건 알지만, 난 그 아이디어 마음에 드는데?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "In the ancient texts from Leithanien, I have read about many interesting places: the Black Flow, the Twelve Pagodas and Five Cities, the endless ships on the calm sea...",
+         "zh-TW": "我從萊塔尼亞流傳下來的典籍裡，看到過很多有趣的地方。黑流樹海、十二樓五城、靜謐海面上綿延不斷的航船……",
+         "zh-CN": "我从莱塔尼亚流传下来的典籍里，看到过很多有意思的地方。黑流树海、十二楼五城、静谧海面上绵延不断的航船……",
+         "ja": "リターニアの文献で、興味深い地名をたくさん見つけたことを思い出しました。黒流樹海、十二楼五城、静かな海に連なる船……",
+         "ko": "라이타니엔에서 전해 내려온 고서를 보면 흥미로운 곳들이 많았어. 블랙 플로우, 오성 십이루, 고요한 바다 위로 끝없이 항선들..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "They all seem perfect for all-terrain racing.",
+         "zh-TW": "感覺都是適合全地形競速的好地方。",
+         "zh-CN": "感觉都是适合全地形竞速的好地方。",
+         "ja": "確かに、どれも全地形レースにぴったりかもしれません。",
+         "ko": "모두 전지형 경주에 잘 어울릴 것 같아."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Just one thing...",
+      "zh-TW": "只有一件事……",
+      "zh-CN": "只有一件事……",
+      "ja": "ただ、1つ……",
+      "ko": "다만 딱 한 가지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Do not bail on me out of fear when the time comes.",
+      "zh-TW": "到時候不要因為害怕而失約。",
+      "zh-CN": "到时候可别因为害怕而失约。",
+      "ja": "そのときになって、怖いからって約束を破らないでくださいね？",
+      "ko": "그때 돼서 겁먹고 약속 어기면 안 돼, 알겠지?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Don't worry. I was the one who picked the location.",
+      "zh-TW": "放心，別忘了地點是我選的。",
+      "zh-CN": "放心，别忘了地点可是我选的。",
+      "ja": "大丈夫だよ。だって、場所を選ぶのはこっちだからね",
+      "ko": "걱정 마. 장소는 내가 고를 거니까."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0004_pelica_3",
+   "topic": {
+    "en": "Same Kind of Trouble",
+    "zh-TW": "同一種煩惱",
+    "zh-CN": "同一种烦恼",
+    "ja": "同じ悩み",
+    "ko": "같은 고민"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Endmin, I am dealing with a little problem...",
+      "zh-TW": "管理員，我有一些煩惱……",
+      "zh-CN": "管理员，我有一些烦恼……",
+      "ja": "管理人、実は、少し悩んでいることがあって……",
+      "ko": "관리자, 나 고민이 있어..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Anything I can do to help?",
+         "zh-TW": "我能幫到什麼忙嗎？",
+         "zh-CN": "我能帮上什么忙吗？",
+         "ja": "何か、手伝えることはある？",
+         "ko": "내가 어떻게 도와주면 돼?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "I have not even explained what it is yet...",
+         "zh-TW": "我還沒說完煩惱是什麼呢……",
+         "zh-CN": "我还没说完烦恼是什么呢……",
+         "ja": "まだ、内容もお話していないのに、そんな……ありがとうございます。",
+         "ko": "나 아직 무슨 고민인지 말도 안 했는데..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You don't usually come to me about this.",
+         "zh-TW": "難得你會主動跟我說這個。",
+         "zh-CN": "难得你会主动对我说这个。",
+         "ja": "君がそんなことを言うなんて、珍しいね。",
+         "ko": "네가 그런 말 꺼내는 거 처음 보네."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Because I think maybe only you can help me figure it out.",
+         "zh-TW": "因為可能只有管理員，才能幫我解答。",
+         "zh-CN": "因为可能只有管理员，才能帮我解答。",
+         "ja": "答えを出すことができるのは、管理人だけだと思ったのです……",
+         "ko": "관리자만이 답을 줄 수 있을 것 같아서..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Alright, go ahead and tell me.",
+      "zh-TW": "好吧，那等你先說完。",
+      "zh-CN": "好吧，那等你先说完。",
+      "ja": "大丈夫だ。どんな話だろう",
+      "ko": "알겠어, 끝까지 들어볼게."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "It is not that complicated.",
+      "zh-TW": "其實也沒那麼複雜。",
+      "zh-CN": "其实也没那么复杂。",
+      "ja": "それほど、複雑なお話ではないのですが……",
+      "ko": "사실 아주 복잡한 문제는 아니야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "A Reserve Operator named Navielle is really down because of me...",
+      "zh-TW": "一個叫娜薇兒的預備幹員因為我的緣故，情緒非常低落……",
+      "zh-CN": "一个叫娜薇儿的预备干员因为我的缘故，情绪非常低落……",
+      "ja": "ナヴィエルという予備オペレーターが、私のせいでとても落ち込んでしまっているようで……",
+      "ko": "나벨이라는 예비 오퍼레이터가 나 때문에 많이 힘들어하고 있어..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "She even just submitted her resignation.",
+      "zh-TW": "她剛剛甚至向我正式遞交了離職申請。",
+      "zh-CN": "她甚至刚刚向我正式递交了离职申请。",
+      "ja": "ついさっき、辞職願を受け取ったところです。",
+      "ko": "심지어 조금 전에 정식으로 사직서까지 제출했더라고."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Navielle? Sorry, I don't think I know her...",
+         "zh-TW": "娜薇兒？抱歉，我是不是忘了她是誰……",
+         "zh-CN": "娜薇儿？抱歉，我是不是忘了她是谁……",
+         "ja": "ナヴィエル……申し訳ないけど、誰だったかな……",
+         "ko": "나벨? 미안, 누구인지 기억이 잘 안 나네..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Don't worry, Endmin.",
+         "zh-TW": "別緊張，管理員。",
+         "zh-CN": "别紧张，管理员。",
+         "ja": "気にしないでください。",
+         "ko": "괜찮아, 관리자."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "She is a Reserve Operator... It is normal if you don't remember. She was always by my side and eager to learn.",
+         "zh-TW": "她只是預備幹員……你不記得很正常。她之前一直很想留在我身邊學習。",
+         "zh-CN": "她只是预备干员……你不记得很正常。她之前一直很想留在我身边学习。",
+         "ja": "彼女は予備オペレーターですから、大丈夫ですよ。私のもとで学びたいとずっと申請を出してくれていたのですが……",
+         "ko": "그냥 예비 오퍼레이터일 뿐이니까, 네가 기억 못 하는 게 당연해... 예전부터 내 곁에서 배우고 싶어 했던 아이야."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I saw this name before. Didn't she want to stay close and learn from you?",
+         "zh-TW": "這個名字我有印象。之前她是不是一直想申請留在你身邊學習？",
+         "zh-CN": "这个名字我有印象。之前她是不是一直想申请留在你身边学习？",
+         "ja": "名前を聞いたことがあるよ。確か、君のところで学びたいと希望を出していた人だ。",
+         "ko": "이름은 들어본 것 같아. 전부터 네 옆에서 계속 배우고 싶어 하던 친구 맞지?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "That's right.",
+         "zh-TW": "你果然記得她。",
+         "zh-CN": "你果然记得她。",
+         "ja": "ちゃんと、覚えてくださっていたのですね。",
+         "ko": "맞아, 역시 기억하는구나."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "It feels like after you woke up, you quickly memorized everyone in Endfield.",
+         "zh-TW": "總覺得你醒來之後，很快就把終末地每個人的資料都記住了。",
+         "zh-CN": "总感觉你醒来之后，很快就把终末地每个人的资料都记住了。",
+         "ja": "管理人は目が覚めて……すぐに、エンドフィールドの皆のことを覚えてしまいましたよね。",
+         "ko": "관리자가 깨어난 후 얼마 안 돼서, 모든 엔드필드 직원의 자료를 다 외운 것 같네."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Navielle said she felt pressured when she was next to me...",
+      "zh-TW": "娜薇兒很坦誠地告訴我，她在我身邊感到了巨大的壓力……",
+      "zh-CN": "娜薇儿很坦诚地告诉我，她在我身边感到了无以复加的压力……",
+      "ja": "ナヴィエルは素直に気持ちを伝えてくれました。私のそばにいると、大きなプレッシャーを感じる、と……",
+      "ko": "나벨은 아주 솔직하게 나한테 말했어. 내 곁에 있으면서 너무 큰 압박감을 느낀다고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "\"Your brilliance draws in those of us who are seeking guidance.\"",
+      "zh-TW": "「你的光芒很溫暖，會吸引很多像我這樣渴望指引的人。」",
+      "zh-CN": "“你的光芒很温暖，会吸引很多像我这样渴望指引的人。”",
+      "ja": "「あなたの温かい光は、私のように導いてほしいと願う者を惹きつける」",
+      "ko": "\"당신의 빛은 아주 따뜻해서, 나 같이 지도를 바라는 사람들을 끌어당기죠.\""
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "\"But the nearer I get, and the more I strive to be like you, the more I feel crushed under the weight of your brilliance.\"",
+      "zh-TW": "「可是我越是靠近你，越是想要成為像你一樣的人，反而越是會被你的光芒壓得喘不過氣。」",
+      "zh-CN": "“可我越是靠近你，越是想要成为像你一样的人，反倒越是会被你的光芒压得喘不过气。”",
+      "ja": "「でも、近づけば近づくほど、こうありたいと願えば願うほど、その光に押しつぶされそうになる」……",
+      "ko": "\"하지만 가까이할수록, 당신처럼 되고 싶었던 마음이 오히려 그 빛에 짓눌려 숨이 막혀와요.\""
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "...",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "She's too hard on herself.",
+         "zh-TW": "她對自己太苛刻了。",
+         "zh-CN": "她对自己太苛刻了。",
+         "ja": "彼女は、自分に厳しい人だったんだね。",
+         "ko": "그 아이는 자신에게 너무 엄격해."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "She shouldn't blame herself for not being like you yet, not before she's ready to handle all that pressure.",
+         "zh-TW": "在能承受住恐怖的壓力之前，她不該苛責自己不能變得像你。",
+         "zh-CN": "在能承受住恐怖的压力之前，她不该苛责自己不能变得像你。",
+         "ja": "まだ、ペリカが背負うようなプレッシャーを感じる必要はない……だから、自分を責める必要はないのに。",
+         "ko": "그런 압박을 감당할 능력을 갖추기 전까지는, 남처럼 될 수 없다고 자신을 밀어붙일 필요가 없어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You're being too hard on yourself.",
+         "zh-TW": "你對自己太苛刻了。",
+         "zh-CN": "你对自己太苛刻了。",
+         "ja": "君は、自分に厳しすぎるところがあるからね。",
+         "ko": "넌 자신에게 너무 엄격해."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "It's not your fault. You are simply doing everything you can to the best of your ability.",
+         "zh-TW": "這不是你的過錯，你只是做到了你所能做到的最好。",
+         "zh-CN": "这不是你的过错，你只是做到了你所能做到的最好。",
+         "ja": "今回の件は、君のせいなんかじゃない。最善を尽くした結果だ。",
+         "ko": "그건 네 잘못이 아니야. 넌 그저 할 수 있는 최선을 다했을 뿐이니까."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "So that's what you think...",
+      "zh-TW": "原來你會這麼想啊……",
+      "zh-CN": "原来你会这么想呀……",
+      "ja": "あなたから、そんな言葉をいただけるなんて……",
+      "ko": "넌 그렇게 생각하는구나..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "I get it now.",
+      "zh-TW": "我知道了。",
+      "zh-CN": "我知道了。",
+      "ja": "わかりました。",
+      "ko": "...알겠어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Navielle does remind me of myself.",
+      "zh-TW": "但娜薇兒確實讓我想起了我自己。",
+      "zh-CN": "但娜薇儿确实让我想起了我自己。",
+      "ja": "けれど、ナヴィエルを見ていると、昔の自分を思い出してしまうんです。",
+      "ko": "사실 나벨을 보면서, 나 자신이 떠올랐어."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Yourself?",
+         "zh-TW": "你自己？",
+         "zh-CN": "你自己？",
+         "ja": "過去の君に？",
+         "ko": "너 자신?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "In the past, I too was always chasing after someone, trying to become more like that person.",
+         "zh-TW": "過去，我也一直追著一個人的腳步，努力讓自己變得更像那個人。",
+         "zh-CN": "过去，我也一直追着一个人的脚步，努力让自己变得更像那个人。",
+         "ja": "ええ。私もずっと、背中を追いかけ続けた人が……あの人のようにならなければと必死になったことがありましたから。",
+         "ko": "나도 한때는 누군가의 발자취를 좇으면서, 그 사람처럼 되고자 노력했었거든."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You two share similarities?",
+         "zh-TW": "你們有相似的地方嗎？",
+         "zh-CN": "你们有相似的地方吗？",
+         "ja": "似ているところがあるのかな",
+         "ko": "둘이 공통점이 있어?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Perlica",
+         "zh-TW": "佩麗卡",
+         "zh-CN": "佩丽卡",
+         "ja": "ペリカ",
+         "ko": "펠리카"
+        },
+        "text": {
+         "en": "Just like her, I always wanted to be more like that person I admired.",
+         "zh-TW": "我和她一樣，過去也一直希望讓自己更像所仰慕的那個人。",
+         "zh-CN": "我和她一样，过去也一直希望让自己更像所仰慕的那个人。",
+         "ja": "私もナヴィエルと同じく、憧れの人のようになりたくて仕方がなかった頃がありました。",
+         "ko": "나도 그 아이처럼 누군가의 발자취를 좇으면서, 그 사람처럼 되길 바랐거든."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Let me guess, that person was me...?",
+      "zh-TW": "……那個人是我？",
+      "zh-CN": "……那个人是我？",
+      "ja": "それは……もしかして……",
+      "ko": "...그 사람이 나야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Yes.",
+      "zh-TW": "對。",
+      "zh-CN": "对。",
+      "ja": "はい。管理人です。",
+      "ko": "맞아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "In my mind, you were always capable of anything. Just being near you made me feel at ease.",
+      "zh-TW": "在我的記憶裡，管理員總是無所不能，就算只是待在你的身邊也會覺得安心。",
+      "zh-CN": "在我的记忆里，管理员总是无所不能，哪怕只是待在你的身边也会觉得安心。",
+      "ja": "記憶の中にいる管理人は、出来ないことなど何もない……ただそばにいるだけで、不思議と心が落ち着くような存在でした。",
+      "ko": "내 기억 속의 관리자는 언제나 뭐든지 해내는 사람이었어, 곁에 있는 것만으로도 안심이 되는 그런 존재지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "I may never match your strength, but I knew my own skills and had confidence that in some areas, I could do just as well as you.",
+      "zh-TW": "也許我的實力永遠追不上你，但我清楚我擅長什麼，也有信心在某些方面能做得像你一樣好。",
+      "zh-CN": "也许我的实力永远追不上你，但我清楚我擅长什么，也有信心在某些方面能做得像你一样好。",
+      "ja": "あなたには、きっと一生追いつくことなんてできない。けれど、自分の得意なことでなら、あなたと同じくらい自信を持つことができるのではないかと思っているんです。",
+      "ko": "내 실력이 영원히 너한테 못 미칠 수도 있지만, 난 내가 잘하는 게 뭔지 알았어. 그리고 어떤 분야에서는 너만큼 잘 해낼 수 있다는 자신감도 있었고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Still, even so, before you woke up, I would always worry if I was truly doing enough.",
+      "zh-TW": "可是就算如此，在你醒來之前，我還是會忐忑於自己是否真的做得夠好。",
+      "zh-CN": "可就算如此，在你醒来之前，我还是会忐忑于自己是否真的做得够好。",
+      "ja": "それでも、管理人が目覚める前は……自分がちゃんとやれているか、不安で仕方ありませんでした。",
+      "ko": "...그럼에도 불구하고, 네가 깨어나기 전엔 내가 정말 잘하고 있는지 늘 불안했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "I just ... did not expect ...",
+      "zh-TW": "只是沒想到……",
+      "zh-CN": "只是没想到……",
+      "ja": "それに、こんなことになってしまって……",
+      "ko": "그런데 이렇게 되니..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You did not expect I'd lose my memories... I don't even recall what I'm supposed to be like...",
+      "zh-TW": "我自己都不記得自己應該是什麼樣子……",
+      "zh-CN": "我自己都不记得自己应该是什么样……",
+      "ja": "自分のことなのに、何もかもまったく覚えていないんだ……",
+      "ko": "난 정작 그때의 내 모습조차 기억 못 하네..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "It's like fate playing tricks.",
+      "zh-TW": "就像命運的捉弄。",
+      "zh-CN": "就像命运的捉弄。",
+      "ja": "まるで、運命の悪戯……",
+      "ko": "꼭 운명의 장난 같지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Which is why I understand Navielle's worries and know what's best for her.",
+      "zh-TW": "所以我很理解娜薇兒的煩惱，也清楚怎麼做對她最好。",
+      "zh-CN": "所以我很理解娜薇儿的烦恼，也清楚怎么做对她最好。",
+      "ja": "私は、ナヴィエルの悩みがとてもよくわかるんです。それに、どうすれば一番彼女のためになるかということも……",
+      "ko": "그래서 난 나벨의 고민이 이해가 돼. 어떻게 해주는 게 최선인지도 알겠고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So you've made up your mind.",
+      "zh-TW": "看來你已經想好了。",
+      "zh-CN": "看来你已经想好了。",
+      "ja": "君の中で、もう答えは出ているんだね。",
+      "ko": "이미 마음을 정했구나."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "Yes, I will approve her resignation.",
+      "zh-TW": "是的，我會同意她的離職申請。",
+      "zh-CN": "是的，我会同意她的离职申请。",
+      "ja": "はい。彼女の辞職を受け入れようと思います。",
+      "ko": "응, 그 아이의 사직을 받아들이려고 해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "But I will also tell her that Endfield will always welcome her back.",
+      "zh-TW": "但終末地也隨時歡迎她回來。",
+      "zh-CN": "但终末地也随时欢迎她回来。",
+      "ja": "けれど、帰って来ると決めたなら……エンドフィールドは彼女を歓迎します。",
+      "ko": "하지만 엔드필드의 문은 언제든 그 아이에게 열려있을 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "By the way, about your concerns...",
+      "zh-TW": "對了，關於你對自己的擔憂……",
+      "zh-CN": "对了，关于你对自己的担忧……",
+      "ja": "そうだ、君自身が感じている不安についてだけど……",
+      "ko": "그래, 잘 생각했어. 근데, 네가 자신에 대해 갖고 있는 걱정 말이야..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I don't care what the previous version of me would think, but right now, I think you're doing very well.",
+      "zh-TW": "我不在乎沒失憶的我會怎麼看，但你現在做得很好。",
+      "zh-CN": "我不在乎没失忆的我会怎么看，但你现在做得很好。",
+      "ja": "過去の自分がどう思うかなんてわからないけど……少なくとも君は今、十分過ぎるほどよくやってくれている。",
+      "ko": "난 과거의 내가 널 어떻게 생각할지 신경 안 써. 지금 내 눈에 넌 충분히 잘하고 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Far beyond your expectations.",
+      "zh-TW": "比你所期望的還要好。",
+      "zh-CN": "比你所期望的还要好。",
+      "ja": "君が思っているよりも、ずっとね。",
+      "ko": "네가 바라는 것보다 훨씬 더."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "...",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Perlica",
+      "zh-TW": "佩麗卡",
+      "zh-CN": "佩丽卡",
+      "ja": "ペリカ",
+      "ko": "펠리카"
+     },
+     "text": {
+      "en": "I know.",
+      "zh-TW": "我知道。",
+      "zh-CN": "我知道。",
+      "ja": "ありがとうございます……",
+      "ko": "응, 알고 있어."
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 4
+}

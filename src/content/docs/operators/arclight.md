@@ -44,6 +44,8 @@ sources:
 
 Arclight is a Hannabit Circuit Songseeker recommended by Aldertone Orisha who serves Endfield Industries as a field operator and machinery and vehicle technical consultant.
 
+Files, voice lines and chats: [Arclight's file](/story/arclight/).
+
 ## How to obtain
 
 Arclight has no rate-up banner. Arclight is in the standard roster, which Basic Headhunting and every Chartered Headhunting pool draw from.

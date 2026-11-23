@@ -45,6 +45,8 @@ sources:
 
 The Endministrator is Endfield Industries' trump card and a legendary guardian of Talos-II; the mastery of Originium and the Protocol Network, and the need for periodic hibernation, are among Endfield's closest secrets.
 
+Files and voice lines: [Endministrator's file](/story/endministrator/).
+
 ## How to obtain
 
 The Endministrator is the player character: every account has the Endministrator from the start of the game, and no headhunting pool contains this operator. The official operator list shows two entries for this one operator, one for each appearance.

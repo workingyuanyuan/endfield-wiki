@@ -1,0 +1,3187 @@
+{
+ "slug": "camille",
+ "gameId": "chr_0033_camille",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Camille \nGENDER: Male \nAUTHENTICATION: Seš'qa \nDOB: November 20 \nRACE: Sarkaz \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Excellent \nCOMBAT SKILL: Standard \nTACTICAL ACUMEN: Standard \nORIGINIUM ARTS ASSIMILATION: Outstanding \n\nInquiries have already been made to Seš'qa. However, the exact influences on Camille's Originium Arts Assimilation by the act of sharing blood remain uncertain. \n— A Sarkazian operator",
+    "zh-TW": "【代號】卡繆\n【性別】男\n【身分認證】塞什卡\n【生日】11月20日\n【種族】薩卡茲\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：優良\n作戰技巧：標準\n戰術規劃：標準\n源石技藝適應性：卓越\n\n即使諮詢了塞什卡方面的意見，我們依舊無法確定分享血液的行為對卡繆的源石技藝適應性究竟造成了怎樣的影響。\n——某位薩卡茲幹員",
+    "zh-CN": "【代号】卡缪\n【性别】男\n【身份认证】塞什卡\n【生日】11月20日\n【种族】萨卡兹\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：优良\n作战技巧：标准\n战术规划：标准\n源石技艺适应性：卓越\n\n即使咨询了塞什卡方面的意见，我们依旧无法确定分享血液的行为对卡缪的源石技艺适应性究竟造成了怎样的影响。\n——某位萨卡兹干员",
+    "ja": "【コードネーム】カミーユ\n【性別】男\n【身分証明】セシュカ\n【誕生日】11月20日\n【種族】サルカズ\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：優秀\n戦闘技術：標準\n戦術立案：標準\nアーツ適性：卓越\n\nセシュカに意見を仰いでもなお、血を分けるという行為がカミーユのアーツ適性にどのような影響を及ぼしたのか、断定することは依然として難しい。\n――某サルカズオペレーター",
+    "ko": "[코드네임] 카뮤\n[성별] 남\n[신분 인증] 세쉬카\n[생일] 11월 20일\n[종족] 살카즈\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 우수\n작전 기술: 표준\n전술 계획: 표준\n오리지늄 아츠 적응성: 탁월\n\n세쉬카 측의 의견까지 물어봤지만, 혈액을 나누는 행위가 카뮤의 오리지늄 아츠 적응성에 대체 어떤 영향을 미쳤는지는 끝내 확정할 수 없었다.\n-어느 살카즈 오퍼레이터"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Camille Arno, Seš'qa's Agaš'mekanaz (Keeper of Wisdom), sought a partnership with Endfield Industries in a personal capacity. Following a recommendation from the Endministrator, he currently holds a position within the Specialist Tech Division. \n\nOperator Camille's parents were members of the joint science expedition from Terra. He himself was born and raised in Seš'qa. However, due to the requirements of his job and his past experiences, Camille has lived outside the floating city for many years. \nAlthough Camille claims to be \"hunting\" a criminal kin, his extremely long yet blank curriculum vitae suggests that he has quietly swapped his roles of \"hunter\" and \"prey\". The entire corpus of his social relations, personal background ... or his \"life\", if we were to adopt a broader definition, has been completely destroyed across a period of several decades. \nWhen I picked this up in the discussion, Camille averted his gaze to the ceiling and stared at a blotch. He then broke the silence with a stream of metaphors and figures of speech. One of them, which I felt was most impressive, was how he described himself as a \"pendulum working in vain\". \nHe went on and said there was a certain day when his time stopped ticking. \nWhen the conversation was over, I walked away with the most important lesson when engaging with this operator — If you wish to avoid the excessive task of emotional management, DO NOT talk about his sibling. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "卡繆·亞爾諾，塞什卡的看護人，他以個人身分尋求與終末地工業合作，經管理員引薦，目前於特種技術部門任職。\n\n幹員卡繆的父母是泰拉聯合科學考察團成員，本人則在塞什卡出生、成長，但因職業需要與過往經歷，他選擇長期居住在懸空城之外。\n儘管他自稱在「追獵」犯下罪孽的血親，但從那些時間跨度極長卻又充滿空白的經歷來看，卡繆早就在不知不覺間被迫調轉了「獵物」與「獵人」的身分。他的一切社會關係、成長背景……或者，我們用一個語義上更廣闊的詞，他的「人生」，早就在這幾十年間被破壞殆盡。\n當我談及此事時，卡繆將目光移向天花板，久久凝視著上面的一處汙漬。在打破緘默後，他運用了許多修辭格，其中最令我印象深刻的是，他將自己形容為「徒勞的鐘擺」。\n他說，自己的時間在某一天後，就徹底停止了。\n談話結束時，我領悟到了與他交往中最重要的一點——如果你不想做多餘的情緒勞動，切勿談論他的兄弟。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "卡缪·亚尔诺，塞什卡的看护人，他以个人身份寻求与终末地工业的合作，经管理员引荐，目前于特种技术部门任职。\n\n干员卡缪的父母是泰拉联合科考团成员，本人则在塞什卡出生、成长，但因职业需要与过往经历，他选择长期居住在悬空城之外。\n尽管他自称在“追猎”犯下罪孽的血亲，但从那些时间跨度极长却又充满空白的经历来看，卡缪早就在不知不觉间被迫调转了“猎物”与“猎人”的身份。他一切的社会关系，成长背景……或者，我们用一个语义上更广阔的词，他的“人生”，早就在这几十年间被破坏殆尽。\n当我谈及此事时，卡缪将目光移向天花板，久久凝视着上面的一处污渍。在打破缄默后，他运用了许多修辞格，其中最令我印象深刻的是，他将自己形容为“徒劳的钟摆”。\n他说，自己的时间在某一天后，就彻底停止了。\n谈话结束时，我领悟到了与他交往中最重要的点——如果你不想做多余的情绪劳动，切勿谈论他的兄弟。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "カミーユ・アルノはセシュカの番人である。エンドフィールドとの協力を個人として希望し、管理人の推薦を受けて、現在は特殊技術部に所属している。\n\n「カミーユさんの両親は、テラの連合調査組織の一員でした。彼はセシュカで生まれ育ちましたが、職種と過去の経緯から、長く浮遊都市を離れて暮らす道を選択しました。」\n「本人は、罪を犯した血縁者を『追っている』と語っていますが、極めて長い期間にわたる空白だらけの経歴を辿ってみると、彼は知らず知らずのうちに『追う者』と『追われる者』の立場を逆転させられていたのだと気づきました。あらゆる人間関係や生育環境……より広義的な言葉を使うなら、彼の『人生』そのものが、この数十年で破壊し尽くされていたのです。」\n「私がその件に触れたとき、カミーユさんは視線を天井に向け、そこにあった一点の染みをじっと見つめました。沈黙を破った彼は、さまざまなレトリックを交えて話をしてくれましたが、自らを『虚しく揺れる振り子』と形容したことが最も印象に残っています。」\n「彼曰く、『私の時間は、あの日を境に完全に止まった』――」\n「会話を終える頃、私は彼と付き合ううえで最も重要なことを悟りました――無駄な感情労働をしたくなければ、決して弟の話題に触れてはならないのだと。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "카뮤 아르노, 세쉬카의 수호자. 개인 자격으로 엔드필드 공업과의 협력을 요청했고, 관리자의 소개를 거쳐 현재 특수 기술부에서 근무하고 있다.\n\n오퍼레이터 카뮤의 부모는 테라 연합 과학 탐사단 소속이었고, 본인은 세쉬카에서 태어나 자랐다. 하지만 직업상의 필요와 과거의 경험 때문에, 그는 공중 도시 밖에서 장기 거주하는 길을 택했다.\n그는 스스로 죄를 저지른 혈족을 \"추적하고 있다\"고 말하지만, 시간상으로는 매우 길면서도 수많은 공백으로 채워진 그의 이력을 들여다보면, 카뮤는 이미 자신도 모르는 사이 '사냥감'과 '사냥꾼'의 위치를 뒤바꾸도록 강요받아 온 셈이다. 그의 모든 사회적 관계와 성장 배경... 아니, 더 넓은 의미의 단어를 쓰자면, 그의 '인생' 자체가 지난 수십 년 동안 철저히 파괴되어 버렸다.\n내가 이 이야기를 꺼냈을 때, 카뮤는 시선을 천장으로 옮긴 뒤 그 위의 얼룩 한 점을 오랫동안 말없이 바라보았다. 침묵을 깬 뒤 그는 여러 가지 수사적 표현을 사용했는데, 그중에서도 가장 인상 깊었던 것은 스스로를 '무의미하게 움직이는 시계추'에 비유한 대목이었다.\n그는 어느 날 이후로, 자신의 시간은 완전히 멈춰 버렸다고 말했다.\n대화를 마칠 무렵, 나는 그와 왕래할 때 가장 중요한 점 하나를 깨달았다. 쓸데없는 감정 소모를 하고 싶지 않다면, 그의 형제 이야기는 꺼내지 말 것.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "DOCUMENT: The Tourist's Guide to Talos-II: Seš'qa, Issue 3 \nSeš'qa Open Day is here! What should a wise tourist do? Visit Witching Hour's flagship store? Buy yourself a limited edition of something not offered on the shelves of TGCC shops? Sip on something nice at the Glasshouse Bar? Look for secret witch-crafter ateliers in the dark alleyways? There are just so many things to do in the floating city. Our latest guide gives you a secret and nuanced choice: Book a visit to a safe house of an Agaš'mekanaz, or Keeper of Wisdom. \nI used to treat these Keepers as a mysterious group of dangerous and merciless individuals who work in the shadows. I believe many readers share my view. The organizers of recent Open Days might be interested in changing this stereotype, since they added more Keeper-related activities to the agenda to help us learn about their long-term contributions and good work. \nMy guide was a retired Keeper. A kind and patient Goliath, she was nothing like the cold and merciless Agaš'mekanaz I had in mind. She told me that after Jakub Meissen betrayed Seš'qa, the city experienced a crisis of trust, even though the event also devastated Sarkazian communities of Talos-II. To prevent such things from happening again, the leaders of Seš'qa gathered the very best and established the office of the Agaš'mekanaz. Their focus is to handle malicious crimes perpetrated by, or targeting, the Sarkaz. \nWe spent the next hour happily walking past evidence walls, filing cabinets, and showcases of various specialized witchcraft equipment. The convo we shared taught me a few secrets. The biggest challenge that any Keeper could face would be crimes committed by a fellow kindred. Generally speaking, the other races would balk at putting a relative of the suspect on the case, but the Sarkaz took the opposite approach. Many of their tribes are blessed with long life and mastery of a wide selection of Originium Arts. Hence, a kindred bound by blood also happens to be the perfect counter to Sarkazian criminals. \n\"This is why many of the Agaš'mekanaz suffer emotionally. Some doubt our ability to remain just and fair, but none of us have yet to abandon principle for a kindred,\" the Keeper said. \n\"Were you ever forced to ... cross blades with your own family?\" I could not help but ask. \nThere was a moment when I thought her emotions might crack, but she raised her gaze to the only skylight of the safe house. There was a brief silence before she sorted out her feelings and reverted to her normal self. \"I used a handcannon. It was his.\" \nThrough the skylight, I could see the last rays of dusk reflecting off the clouds. The fireworks erupted, elaborate works of witchcraft woven by the crafters. Seš'qa has enjoyed another day of peace.",
+    "zh-TW": "《塔衛二遊覽指南：塞什卡篇》第三期\n在塞什卡的開放日，遊客最應該做點什麼？去巫術時刻的旗艦店，買環塔商會也不供應的限量款？到玻璃酒館小酌一杯？去小巷裡尋找隱居的巫術工匠？懸空城中值得一看的東西太多了，而在最新的指南中，我將為您提供一個小眾選擇：預約參觀看護人的安全屋。\n從前我認為看護人是個非常神秘的群體，與黑暗為伴，是一些危險、不近人情的傢伙——相信許多讀者與我有一樣的想法。或許正是為了改變這種觀點，近期的開放日中多了一些與他們有關的活動，以此幫助人們瞭解看護人長期的付出。\n負責帶領我進行參觀的是一名退役的看護人，與腦海中預設的冷酷形象完全不同，她是一位溫和、耐心的歌利亞。她告訴我，在雅各布·邁森叛離塞什卡後，人們對塞什卡產生了信任危機——儘管這場分裂對塔衛二的薩卡茲族群也造成了巨大打擊。為了避免類似的事情再發生，塞什卡的領袖召集了萬裡挑一的精銳，組建了看護人部門，專門處理由薩卡茲引起或針對薩卡茲的惡性犯罪事件。\n我們一起走過線索牆、檔案櫃，參觀了各種特製的巫術裝備，度過了相當愉快的一個小時。在與她的談話中，我瞭解到了另一個隱藏的事實：看護人面對的最大挑戰是血親的罪孽。通常來說，人們不會把案件交給嫌疑人的親屬來調查，但薩卡茲卻剛好相反——他們中有許多支壽命較長的氏族，又掌握著極其多樣的源石技藝，血脈相連之人往往才是最好的捕手。\n「看護人為此承受著情感摧殘，也會有人質疑我們面對天秤時能否保持正義，但迄今為止，沒有任何成員因感情放棄原則。」看護人女士如此說。\n「您也曾與自己的親人刀劍相向嗎？」我忍不住這樣問。\n她的臉上流露出一絲動搖，抬起頭望向安全屋中唯一的一扇天窗，愣了片刻後，才恢復如常：「我用的是他的銃。」\n我自天窗中窺見映在天空邊際的晚霞。煙火炸開，那是工匠們編織出的華麗巫術——塞什卡又度過了和平的一日。",
+    "zh-CN": "《塔卫二游览指南：塞什卡篇》第三期\n在塞什卡的开放日，游客最该做些什么？去巫术时刻的旗舰店，买环塔商会也不供应的限量款？到玻璃酒馆小酌一杯？去小巷里寻找隐居的巫术工匠？悬空城中值得一看的东西太多了，而在最新的指南中，我将为您提供一个小众选择：预约参观看护人的安全屋。\n从前我认为看护人是个十分神秘的群体，与黑暗为伴，是些危险、不近人情的家伙——相信许多读者与我有一样的想法。或许正是为了改变这种观点，近期的开放日中多了一些与他们有关的活动，以此帮助人们了解看护人长期的付出。\n负责带领我进行参观的是一名退役的看护人，与脑海中预设的冷酷形象完全不同，她是位温和、耐心的歌利亚。她告诉我，在雅各布·迈森叛离塞什卡后，人们对塞什卡产生了信任危机——尽管这场分裂对塔卫二的萨卡兹族群也造成了巨大打击。为了避免类似的事情再发生，塞什卡的领袖召集了万里挑一的精锐，组建了看护人部门，专门处理由萨卡兹引起或针对萨卡兹的恶性犯罪事件。\n我们一起走过线索墙、档案柜，参观了各种特制的巫术装备，度过了相当愉快的一个小时。在与她的谈话中，我了解到了另一隐藏的事实：看护人面对的最大挑战是血亲的罪孽。通常来说，人们不会把案件交给嫌疑人的亲属来调查，但萨卡兹却恰恰相反——他们中有许多支寿命较长的氏族，又掌握着极其多样的源石技艺，血脉相连之人往往才是最好的捕手。\n“看护人为此经受着情感摧残，也会有人质疑我们面对天平时能否保持正义，但迄今，没有任何成员因感情放弃原则。”看护人女士如此说。\n“您也曾与自己的亲人刀剑相向吗？”我忍不住如此问。\n她的脸上流露出一丝动摇，抬起头望向安全屋中唯一的一扇天窗，愣了片刻后，才恢复如常：“我用的是他的铳。”\n我自天窗中窥见映在天空边际的晚霞。烟火炸开，那是工匠们编织出的华丽巫术——塞什卡又度过了和平的一日。",
+    "ja": "『タロⅡ観光ガイド：セシュカ編』第3号\nセシュカの開放日、旅行者が最初にすべきことは何か？ウィッチタイムのフラッグシップショップで、環タロ商会でも販売していない限定品を買い求めること？ガラスハウスバーでグラスを傾けること？それとも路地裏でこっそり店を構える巫術職人を探すこと？見どころだらけの浮遊都市、この最新ガイドでは、少々マニアックな選択肢――「番人のセーフハウス見学」についてお届けしよう。\n「闇を友とし、どこか危険で人情味に欠ける、きわめて謎めいた集団」――これまで私が「番人」に持っていたイメージだ。おそらく多くの読者も私と同じではないだろうか。そうした印象を払拭するためか、最近の開放日では番人にまつわるイベントが新たに実施されるようになり、番人たちが長年果たしてきた役割を広く知ってもらう機会となっている。\n案内役を務めてくれたのは退役した番人で、頭の中にあった冷徹なイメージとはまるで違った、穏やかで丁寧なゴリアテの女性だった。彼女が語ってくれたところによれば、「ヤコブ・マイセン」がセシュカから離反した際、人々とセシュカの信頼関係は危機的状況に陥った――そもそも、この離反がタロⅡ中のサルカズにとっても大きな打撃となったにも関わらず、である。こうした事態を二度と招かないように、セシュカの指導者は精鋭中の精鋭を召集し、番人部門を組織した。サルカズによる、あるいはサルカズを標的とする凶悪犯罪を専門に扱う部門である。\n手がかりの貼られた壁や資料棚を見学し、特別に作られたという様々な巫術装備を見せてもらい、私たちはこの1時間を満喫した。そして彼女との会話から、もう一つ隠された事実を知ることとなった――番人が直面する最大の難題は「肉親の罪」だというのである。一般的に、事件の調査を容疑者の親族の手に委ねることはない。しかしサルカズの場合はまったく逆で、長寿の一族が数多く存在し、多彩なアーツを操る彼らにあっては、血のつながった者こそが追跡者として最も適当だというケースが多いとのことだ。\n「そのことで苦しむ番人も多くいますし、『天秤』を前にして正義を貫けるのかと疑いの目を向けられることもあります。しかし、これまで感情に流されて原則を外れた者は1人もいません。」――番人の女性は、そう語った。\n「あなたも、身内に刃を向けたことがあるのですか」私はそう問わずにはいられなかった。\n彼女の顔に微かな動揺の色が浮かび、セーフハウスに1つしかない天窓へと視線を移した。そうして少しの時間空を見つめると、元の様子に戻ってこう言った――「私が使っているのは、あの人の銃なんです」\n天窓から、空の縁を染める夕焼けがちらりと見えた。花火が弾ける――それは職人たちが織り上げた華やかな巫術であった。今日もまた、セシュカの平和な一日が過ぎていった。",
+    "ko": "<탈로스 II 여행 가이드: 세쉬카 편> 제3호\n세쉬카의 오픈 데이에는 관광객이 무엇을 가장 먼저 할까요? 주술 타임 플래그십 스토어에 들러 탈로스 II 상업연합회에서도 공급하지 않는 한정판을 사야 할까요? 유리 주점에서 가볍게 한잔해야 할까요? 골목 안으로 들어가 은거 중인 주술 장인을 찾아야 할까요? 공중 도시에는 둘러볼 만한 것이 너무도 많습니다만, 이번 최신 가이드에서 제가 여러분께 소개해 드리고 싶은 것은 조금은 대중적이지 않은 선택지입니다. 바로, 수호자의 안전 가옥 견학을 예약하는 일입니다.\n예전의 저는 수호자라는 집단을 몹시 신비로운 존재라고 여겼습니다. 어둠을 벗 삼고 살아가는, 위험하고 인정머리 없는 사람들... 아마 많은 독자 여러분께서도 저와 비슷한 생각을 해 보신 적이 있을 것입니다. 어쩌면 이러한 인식을 바꾸기 위해서였을까요. 최근 오픈 데이에는 그들과 관련된 행사 몇 가지가 새로 추가되었고, 이를 통해 사람들이 수호자들이 오랫동안 기울여 온 헌신을 이해할 수 있도록 하고 있었습니다.\n저를 안내해 준 사람은 은퇴한 수호자 한 분이었는데, 머릿속에 그려 두었던 냉혹한 이미지와는 완전히 달랐습니다. 그녀는 온화하고 인내심 있는 골리앗이었습니다. 그녀는 제이컵 마이센이 세쉬카를 배신한 뒤, 사람들 사이에 세쉬카에 대한 신뢰의 위기가 생겨났다고 말했습니다. 비록 그 분열이 탈로스 II의 살카즈 공동체 전체에도 엄청난 타격을 남기기는 했지만 말입니다. 비슷한 일이 다시는 일어나지 않도록 하기 위해, 세쉬카의 지도자는 수많은 인재 가운데서도 손꼽히는 정예를 불러 모아 수호자 부서를 조직했습니다. 그들은 살카즈가 일으켰거나, 혹은 살카즈를 겨냥한 악성 범죄 사건을 전담 처리하기 위해 존재한다고 했습니다.\n저희는 함께 단서 벽과 서류 캐비닛 사이를 지나고, 각종 특수 제작 주술 장비를 둘러보며, 꽤 유쾌한 한 시간을 보냈습니다. 그리고 그녀와 대화를 나누는 동안, 저는 또 하나의 숨겨진 사실을 알게 되었습니다. 수호자들이 마주하는 가장 큰 시련은 바로 혈족의 죄라는 점이었습니다. 보통 사람들은 사건 수사를 용의자의 친족에게 맡기지 않습니다. 하지만 살카즈는 정반대입니다. 그들 가운데에는 수명이 긴 집단이 적지 않고, 극도로 다양한 오리지늄 아츠를 다루는 이들도 많기 때문입니다. 피로 이어진 사람이야말로, 오히려 최고의 추적자가 되는 경우가 많다고 합니다.\n\"수호자들은 그 때문에 감정적으로 큰 상처를 입기도 하고, 우리가 저울 앞에서도 정의를 지킬 수 있을지 의심받기도 합니다. 하지만 지금까지 어느 누구도 감정 때문에 원칙을 저버린 적은 없었습니다.\" 여성 수호자는 이렇게 말했습니다.\n\"당신도 자기 가족과 칼을 맞댄 적이 있나요?\" 저는 결국 참지 못하고 그렇게 물었습니다.\n그녀의 얼굴에는 잠시 흔들림이 스쳤고, 고개를 들어 안전 가옥 안에 하나뿐인 천창을 바라보았습니다. 잠깐 멍하니 서 있던 그녀는, 이내 아무 일도 없었다는 듯 평정을 되찾고 말했습니다. \"제가 쓰는 건 그의 총입니다.\"\n저는 천창 너머로 하늘 끝에 번지는 노을을 엿보았습니다. 불꽃이 터져 올랐고, 장인들이 엮어 낸 화려한 주술이었습니다... 세쉬카는 또다시 평온한 하루를 보냈습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "DOCUMENT: Valley IV Monitoring Feed \n1. Originium Byproduct Processing Center (Originium BPPC), Entrance: Clear images. Endfield operators observed. No strange sightings. \n2. Worker Dorms, southeast: UWST crew mates going about their daily activities. No strange sightings. \n3. The Hub Base: Camille Arno identified. Camera zooms in for better tracking. \n4. Aburrey Quarry: Signal lost. Suspected damage to the camera affixed to the Landbreaker; said entity has been attacked and eliminated by the enemy. \n5. Bridge Approach Camp: Several Landbreakers had left or joined the retreating column. Only a few fuzzy videos have been captured. Final position has been abandoned. \n6. United Parking Lot, Originium Power Plant: Focus all cameras on Camille Arno and the Endministrator of Endfield Industries. Monitor the activities of these two individuals. \n...... \nThis report proves that an unknown party has deployed a well-hidden monitoring system throughout the region of Valley IV. \n\nNobody could have imagined that the Endministrator returned from this trip with several thousand hours worth of video recordings. The discovery, found in an abandoned underground facility, left every analyst in shock. It proves that an organization has been acting from the shadows of Valley IV, silently observing every action of everyone, and pulling secret strings to exert control over the region. \nWhen the analysts realized that the cameras were implanted within the Landbreakers to avoid detection (Camille mentioned how the perpetrator abandoned them without second thought), they knew why Seš'qa chose to assign an Agaš'mekanaz to the task. Fortunately, after Camille Arno arrived at Valley IV, all the cameras were assigned to monitor his movement and activities. The period of monitoring happens to overlap with Endfield activities in the region. We can safely assume that no pieces of critical intel have been leaked. The lack of leakage is also why none of our operators noticed the unwarranted third-party monitoring. \nAfter receiving the video feed, operators of the tech division traced the origins to an earlier batch of records (already destroyed) and realized that the organization had begun tracking Camille several decades ago. Though the Keeper himself responded to this finding mildly and appeared to have expected this, the techies sympathized with his plight and promised to give his equipment a suite of upgrades designed to counter covert monitoring measures. When the analysts briefed Camille about their findings, he just leaned against the wall and looked at the screen quietly for quite a while before he raised his eyes and asked: \"Say if you were on the other side of the monitoring cameras, staring at a familiar person ... what is most likely to come to mind?\" \nThe analysts gave all sorts of answers. Camille did not respond to any of them but continued his extended silence. Finally, he left a written note in the debriefing report. \n\"So much alike, yet so divergent in essence. Why?\" \nHe wants the answer to the question. He needs it.",
+    "zh-TW": "【四號谷地的監視紀錄】\n1. 源石副產物中心入口：畫面清晰，觀察到終末地工業的幹員通行，無異常。\n2. 工人之家東南方向：聯盟工團人員持續活動，無明顯異常。\n3. 樞紐區基地：觀察到卡繆·亞爾諾，拉近鏡頭追蹤觀察。\n4. 阿伯莉採石場區域：訊號丟失，疑似安裝在裂地者身上的鏡頭毀壞，個體遭到敵人清剿，廢棄。\n5. 橋頭區營地：部分裂地者離去，或是加入了撤離的隊伍。僅採集到一些模糊畫面，最終點位廢棄。\n6. 聯盟停車場、源石發電站：全部轉向，集中監視卡繆·亞爾諾與終末地管理員的活動。\n…………\n本報告確認，四號谷地區域存在一個由未知方部署的隱蔽監視系統。\n\n誰也沒想到，管理員此行居然帶回了時長超過數千小時的影像紀錄。所有分析員都感到了震撼——這些紀錄源於一處廢棄的地下設施。這表明四號谷地的暗處潛藏著某個存在，悄無聲息地將所有人的一舉一動盡收眼底，納入自己的掌控範圍。\n當意識到有些影像是在裂地者身體中植入監視器，以此來規避他人的感知時（卡繆提及那人很乾脆地放棄了這批手下），分析員們只能表示，難怪塞什卡需要動用到看護人。萬幸的是，在卡繆·亞爾諾抵達四號谷地後，這些監視器悉數被調去觀測這位塞什卡看護人的行動路線，這段監視期剛好與終末地的活動重疊，因此我們沒有洩漏任何關鍵資訊，而這也是幹員們沒有注意到被監視的一個重要原因。\n將影像提交給技術部門後，他們溯源到更早的損毀紀錄，發現該存在針對卡繆的監視從幾十年前就開始了。雖然本人對此沒有太大的反應，表現得似乎早就在他意料之中，但技術人員依舊表達了深切同情，承諾會針對此類隱蔽的監視手段幫他進行一輪設備升級，以防範暗中的窺視。分析員將此事告知卡繆時，他只是靠在牆上，安靜地望著螢幕……良久後，他抬起眼眸，詢問道：「如果你們一直盯著螢幕裡的，一個熟悉的人看……最可能會想什麼？」\n人們給出了各式各樣的回答，卡繆沒有任何回應，只是陷入長久的沉默。最後，他將一張寫有字跡的便條夾在了報告裡。\n「為何人們相似，卻又完全不同？」\n他想要得到這個答案。他需要得到這個答案。",
+    "zh-CN": "【四号谷地的监控记录】\n1. 源石副产物中心入口：画面清晰，观察到终末地工业的干员通行，无异常。\n2. 工人之家东南方向：联盟工团人员持续活动，无明显异常。\n3. 枢纽区基地：观察到卡缪·亚尔诺，拉近镜头追踪观察。\n4. 阿伯莉采石场区域：信号丢失，疑似安装在裂地者身上的镜头毁坏，个体遭到敌人清剿，废弃。\n5. 桥头区营地：部分裂地者离去，或是加入了撤离的队伍。仅采集到一些模糊画面，最终点位废弃。\n6. 联盟停车场、源石发电站：全部转向，集中监控卡缪·亚尔诺与终末地管理员的活动。\n…………\n本报告确认，四号谷地区域存在一个由未知方部署的隐蔽监控系统。\n\n谁也没想到，管理员此行居然带回了时长超过数千小时的影像记录。所有分析员都感到了震撼——这些记录源于一处废弃的地下设施。这表明四号谷地的暗处潜藏着某个存在，悄无声息地将所有人的一举一动尽收眼底，纳入自己的掌控范围。\n当意识到有些影像是通过把摄像头植入裂地者身体中，以此来规避他人的感知时（卡缪提及那人很干脆地放弃了这批手下），分析员们只能表示，怪不得塞什卡需要动用到看护人。万幸的是，在卡缪·亚尔诺抵达四号谷地后，这些摄像头悉数被调去观测这位塞什卡看护人的行动路线，这段监控期刚好与终末地的活动重叠，因此我们没有泄露任何关键信息，而这也是干员们没有注意到监控的一个重要原因。\n将影像提交给技术部门后，他们溯源到更早的损毁记录，发现该存在针对卡缪的监控从几十年前就开始了。虽然本人对此没有太大的反应，表现得似乎早就在他意料之中，但技术人员依旧表达了深切同情，承诺会针对此类隐蔽的监控手段帮他进行一轮设备升级，以防范暗中的窥视。分析员将此事告知卡缪时，他只是靠在墙边上，安静地望着荧屏……良久后，他抬起眼眸，询问道：“如果你们一直盯着屏幕里的，一个熟悉的人看……最可能会想什么？”\n人们给出了各种各样的回答，卡缪没有回应任何一个答案，只是陷入长久的沉默。最后，他将一张写有字迹的便签夹在了报告里。\n“为何人们相似，却又完全不同？”\n他想要得到这个答案。他需要得到这个答案。",
+    "ja": "【四号谷地の監視記録】\n1. 源石副産物センター入口：映像は鮮明。エンドフィールドのオペレーターの通行を確認。異常なし。\n2. 従業員寮南東方向：工業団連盟の人員が継続的に業務を行っている。目立った異常なし。\n3. 中枢基地：カミーユ・アルノを確認。ズームインして観察を継続。\n4. アブリー採石場：信号消失。ランドブレーカーに装着したカメラが破損した模様。対象は敵の襲撃を受けたと想定され、廃棄扱いとする。\n5. 橋頭野営地：ランドブレーカーの一部は離脱したか、撤退の一団に加わった可能性あり。映像が不鮮明であったため、該当地点の映像は廃棄とする。\n6. 工業団駐車場、源石発電所：全カメラにて、カミーユ・アルノおよびエンドフィールド管理人の動向監視に集中。\n…………\n本報告書にて、四号谷地には何者かによって秘密裏に監視システムが設置されていたことを確認した。\n今回、管理人が延べ数千時間を超える映像記録を持ち帰ってくることは想定外であった。さらに、分析員一同衝撃を受けたのは――その記録が、使われていない地下施設で発見したものであったことだ。すなわち、四号谷地に何者かが潜み、あらゆる人々の一挙手一投足を静かに観察し、掌握していたということである。\nまた、他者から察知されるのを防ぐため、カメラをランドブレーカーの体内に埋め込んで撮影した映像が一部存在すると気づいたとき（カミーユによれば、該当人物は手駒たちをあっさりと切り捨てたとのこと）分析員は思わず「セシュカが番人まで動員せざるを得なかったのはそういうわけか」と漏らすほかなかった。カミーユ・アルノが四号谷地に到着した後、すべてのカメラがこの番人の行動経路の監視へと切り替わったのは幸いだった。その期間がちょうどエンドフィールドの行動時期と重なっていたため、私たちは重要な情報を一切漏らさずに済んだ。逆に言えば、それはオペレーターが監視の存在に気づかなかった大きな要因でもあった。\n映像を技術部に提出したところ、過去の破損した記録まで遡り、該当人物によるカミーユへの監視は、数十年前からすでに始まっていたことを突き止めた。本人は本件に対しさしたる反応を見せず、予想通りといった様子であったが、技術部の担当者たちは彼を気にかけて、装備面のアップグレードを行い、この密かな監視を防ぐと約束した。分析員がこのことをカミーユに伝えたが、彼はただ壁にもたれ、静かにスクリーンを見つめるだけだった……しばらくして、彼は顔を上げるとこう尋ねた。「もし皆が、画面の中にいる見知った誰かをずっと監視し続けているとしたなら……何を思うだろうか？」\nさまざまな答えを返したが、カミーユはそのどれにも応じず、ただ長い沈黙の中に沈んでいった。最後に、彼はメモを1枚、報告書に挟んだ。\n「人は似ているのに、これほどまでに違うのか？」\n彼はその答えを求めていた。彼にはその答えが必要だったのだ。",
+    "ko": "[4번 협곡의 감시 카메라 기록]\n1. 오리지늄 부산물 센터 입구: 화면 선명. 엔드필드 공업 오퍼레이터들의 출입이 관측되었으며, 이상 없음.\n2. 직원 숙소 구역 남동쪽 방향: 연맹 공단 인원들이 계속 활동 중이며, 뚜렷한 이상 없음.\n3. 거점 지역 기지: 카뮤 아르노 발견. 화면을 확대해 추적 관찰 진행.\n4. 아부레이 채석장 구역: 신호 상실. 랜드브레이커의 신체에 설치한 카메라가 파손된 것으로 추정됨. 해당 개체는 적에게 처치당해 폐기됨.\n5. 다리 입구 구역 캠프: 일부 랜드브레이커가 이탈함. 철수하는 무리에 합류한 것으로 보임. 흐릿한 화면 일부만 수집되었으며, 최종 관측 지점은 폐기됨.\n6. 연맹 주차장, 오리지늄 발전소: 전부 방향을 전환해 카뮤 아르노 및 엔드필드 관리자 활동을 집중 감시.\n...\n해당 보고서를 통해, 4번 협곡 구역에 정체불명의 세력이 배치한 은밀한 감시 시스템이 존재한다는 사실이 확인되었습니다.\n\n누구도 예상하지 못했습니다. 관리자가 이번 여정에서 재생 시간이 무려 수천 시간을 넘는 영상 기록을 가져올 줄은 말입니다. 모든 분석원은 큰 충격을 받았습니다. 이 기록들은 버려진 지하 시설 한 곳에서 나온 것이었습니다. 이는 4번 협곡의 어둠 속에 어떤 존재가 숨어, 아무도 모르게 모든 사람의 일거수일투족을 지켜보며 자신의 통제 범위 안에 넣고 있었음을 뜻합니다.\n더구나 일부 영상이 카메라를 랜드브레이커의 신체 안에 심어 두는 방식으로, 타인의 감지를 피하도록 만들어졌다는 사실을 깨달았을 때(카뮤는 그자가 이 부하들을 아주 단호하게 버렸다고 언급했습니다), 분석원들은 세쉬카가 왜 수호자까지 동원해야 했는지 알 만하다고 말할 수밖에 없었습니다. 다행히도 카뮤 아르노가 4번 협곡에 도착한 뒤, 이 카메라들은 모두 이 세쉬카 수호자의 이동 경로를 관측하는 데로 전환되었습니다. 그 감시 기간이 마침 엔드필드의 활동 시기와 겹쳤기에, 저희는 어떠한 핵심 정보도 노출하지 않았습니다. 그리고 이것이야말로 오퍼레이터들이 감시를 눈치채지 못한 중요한 이유 중 하나이기도 합니다.\n해당 영상을 기술 부서에 넘긴 뒤, 그들은 더 이른 시기의 훼손 기록까지 추적했고, 이 존재가 카뮤를 상대로 감시를 시작한 시점이 이미 수십 년 전이라는 사실을 밝혀냈습니다. 본인은 이에 대해 큰 반응을 보이지 않았고, 마치 이미 예상하고 있었다는 듯한 태도를 보였습니다. 그럼에도 기술자들은 깊은 동정을 표하며, 이러한 은밀한 감시 수단을 막을 수 있도록 장비를 한 차례 업그레이드해 주겠다고 약속했습니다. 분석원이 이 사실을 카뮤에게 전했을 때, 그는 그저 벽에 기대 선 채 조용히 화면을 바라보고 있었습니다... 한참이 지난 뒤, 그는 눈을 들어 이렇게 물었습니다. \"만약 너희들이 화면 속의, 익숙한 사람을 계속 바라보게 된다면... 가장 먼저 무슨 생각이 들지?\"\n사람들은 저마다 다른 대답을 내놓았습니다. 하지만 카뮤는 그 어느 답에도 반응하지 않은 채, 오랫동안 침묵에 잠겼습니다. 그리고 마지막에, 그는 글이 적힌 메모 한 장을 보고서에 끼워 넣었습니다.\n\"어째서 사람은 서로 닮았으면서도, 또 완전히 다른 걸까?\"\n그는 이 답을 얻고 싶어 했습니다. 그는 반드시 이 답을 얻어야 했습니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "Camille always thought his emotions were well-hidden away. When compared to other operators who exercised zero restraints, he did a fine job. Unfortunately, unintended movements and barely noticeable body language still betrayed him. \nWhen frustrated, Camille would lower his gaze and study a crack, if any, on the ground, or subconsciously rub his shoulder blade. When he wishes to avoid contact, he would shift his center of balance to his right leg to expedite immediate flight. When hesitating or discomforted, his fingers would subconsciously rub the old, ancient key hanging from his waist. \nMany Endfield operators have an item or keepsake they focus on. For example, Yvonne treats Frost-e-Bytee as a close friend, Rossi has her dagger, and Da Pan is always carrying that ferrium wok on his back. But Camille is different. If anyone were to ask him about his key, he would immediately retract his hand as though the thing had become a burning brand. He would keep his lips tightly closed and refuse to respond to the inquiry. \nSkilled machinists would identify that the key was a handcrafted from something that resembled a music box cylinder, though Camille knows nothing about artisanry. The man has no property to his name, and no one knows what the key could actually open. \nEventually, everyone became wiser and learned not to ask about the item. \nIn the end, Camille confessed to the origins of the key during a casual conversation. It was a present personally crafted by his younger brother (the very same who broke all ties with him). It was part of their home at Seš'qa, which Camille later sold after an accident and no longer returned to. The key was merely ornamental and his habit of touching the key was rooted in longing ... and perhaps a dash of inexplicable ennui. After saying these words, Camille placed the key in one of his pockets. \nWhat he remembered was the searing pain as if a chunk of flesh were being torn from his body, and a dark and exhausting past that went on and on. The gift was offered when sincerity remained. The Keeper faced a dilemma, and he no longer wanted to be reminded. \nA few days later, Camille received a Baker toast and visited the Endministrator's office. He was received by a smiling Endministrator who dropped a new key into his hands. \n\"Such keys and locks are pretty rare, so making them took quite a while,\" the person said, \"I just want you to know that Dijiang always has a door that you can open.\" \nIt caught Camille by surprise. He tightly wrapped his fingers around the key and turned his face aside. He tried to form words, but they came out like noises made by a wheezing fowl whose neck was caught in an iron grip. In the end, he only managed to blurt out a barely audible phrase: \"Thank you.\" \nNot everybody is familiar with Camille's body language, but everyone knows that the jingling of the new key against the old is joyous, like how he felt at that very moment.",
+    "zh-TW": "卡繆總是以為自己把情緒偽裝得很好——比起某些完全學不會收斂的幹員，他做得還算不錯，但身體的那些小動作會出賣他。\n陷入焦躁時，他會垂眸盯著地面的縫隙，或者抬手撫著自己的肩胛骨；不想被人觸碰到時，他會把身體重心移向右腿，準備著隨時逃脫。在他猶豫或不安時，手指則會不自覺地去撫摸腰間那把古怪的舊鑰匙。\n終末地的幹員們多多少少都有些珍視的物件：伊馮有親如友人的速凍仔，洛西有心愛的匕首，大潘總是背著那口趁手的鐵鍋。但卡繆的情況又有點不一樣，有人問起鑰匙時，他就立刻像是被灼傷一般抽回手，閉緊嘴巴，拒絕溝通。\n熟悉機械的人能認出，那是用類似音樂盒機芯的東西手工改造出來的。然而卡繆本人對手工勞動一竅不通，他的名下也沒有房產，誰也不清楚這把鑰匙能打開哪一扇門。\n久而久之，大家就心照不宣，不再多問了。\n直到一次偶然的交談，卡繆坦白了那把鑰匙的來歷——是與他決裂的弟弟親手做的禮物。它曾屬於他們在塞什卡的家，一個在事故後被卡繆賣掉，無法再回去的地方。而現在那鑰匙只是個裝飾品，他撫摸的習慣只是源於懷念……或許還有一絲說不清的悵然。說完這些，卡繆便將鑰匙藏入口袋。\n他更想藏起的是那股像是要從他身上挖掉一塊血肉般的疼痛，以及令人疲乏的往事。但面對那個人給予的真誠，他很難，也不再想那麼做了。\n數日後，一則訊息將卡繆引到了管理員的辦公室。迎接他的先是對方的笑臉，然後啪嗒一聲，一把新鑰匙落入卡繆的手心。\n「現在都不太用這種鑰匙了，專門配一把還花了點時間。」那個人說，「我只想讓你知道，帝江號上會有一扇你能打開的門。」\n卡繆愣了一下，捏著自己的手指，移開視線。他支吾了許久，才像是被輕輕扼住脖頸的羽獸，要把所有空氣都從喙中吐出般，擠出一句微不可聞的「謝謝」。\n即使不熟悉那些小動作，任誰都知道——舊鑰匙、新鑰匙，叮噹作響，就像他此時，很開心。",
+    "zh-CN": "卡缪总以为自己把情绪伪装得很好——比起某些完全学不会收敛的干员，他做得还算不错，但身体的那些小动作会出卖他。\n陷入焦躁时，他会垂眸盯着地面的缝隙，或者抬手抚着自己的肩胛骨；不想被人触碰到时，他会把身体重心移向右腿，准备着随时逃脱。在他犹豫或不安时，手指则会不自觉地去摩挲腰间那把古怪的旧钥匙。\n终末地的干员们多多少少都有些珍视的物件：伊冯有亲如友人的速冻仔，洛茜有心爱的匕首，大潘总背着那口趁手的铁锅。但卡缪的情况又有些不一样，有人问起钥匙来，他就立刻像是被灼伤一般抽回手，闭紧嘴巴，拒绝沟通。\n熟悉机械的人能认出，那是用类似八音盒机芯的东西手工改造出来的。然而卡缪本人对手工劳动一窍不通，他的名下也没有房产，谁也不清楚这把钥匙能打开哪一扇门。\n久而久之，大家就心照不宣，不再多问了。\n直到一次偶然的交谈，卡缪坦白了那把钥匙的来历——是与他决裂的弟弟亲手做的礼物。它曾属于他们在塞什卡的家，一个在事故后被卡缪卖掉，无法再回去的地方。而现在那钥匙只是个装饰品，他抚摸的习惯只是源于怀念……或许还有一丝说不清的怅然。说完这些，卡缪便将钥匙藏入口袋。\n他更想藏起的是那股像是要从他身上剜去一块血肉般的疼痛，以及令人疲乏的往事。但面对那个人给予的真诚，他很难，也不再想那么做了。\n数日后，一条信息将卡缪引到了管理员的办公室。迎接他的先是对方的笑脸，接着啪嗒一声，一把新钥匙落入卡缪的手心。\n“现在都不太用这种钥匙了，专门配一把还花了点时间。”那个人说，“我只想让你知道，帝江号上会有一扇你能打开的门。”\n卡缪怔了一会儿，捏着自己的手指，侧过脸去。他支吾了许久，才像是被轻轻扼住脖颈的羽兽，要把所有空气都从喙中吐出般，挤出一句微不可闻的“谢谢”。\n即使不熟悉那些小动作，任谁都知道——旧钥匙、新钥匙，叮当作响，就像他此时，很开心。",
+    "ja": "カミーユはいつも、自分の感情をうまく隠せているつもりでいるらしい――抑えることを知らない一部のオペレーターに比べれば、それなりにうまくやっているかもしれない。だが、ふとした仕草が、彼を「裏切って」しまうのだ。\n苛立ちを募らせているときは、目を伏せて床の継ぎ目を見つめたり、肩のあたりに触れたりする。他人と距離を取りたいときは、右脚に重心を移し、いつでも身を翻せるようにする。迷い、落ち着かないと感じたときは、知らず知らずのうちに腰に下げた風変わりな古びた鍵を指でなぞる。\nエンドフィールドのオペレーターたちには、多少なりとも大切にしている品がある――イヴォンヌは友のように親しいアイスちゃん、ロッシは愛用している短剣、ダパンは常に背負っている使い慣れた鉄鍋。だがカミーユのそれは少し違っていた。鍵について尋ねられると、彼は火にでも触れたかのように瞬時に手を引いて口を閉ざし、それ以上何も語ろうとしなかった。\n機械に詳しい者なら、それがオルゴールのムーブメントらしき何かを手作業で改造したものだと気づくだろう。だが、カミーユ本人は手作業をするような人物にも見えなければ、何か不動産を持っているわけでもない。その鍵がどの扉を開けるためのものなのか、誰にもわからない。\nそのうち暗黙の了解として、誰も何も尋ねなくなっていった。\nそんなある日、ふとした会話の中で、カミーユはあの鍵の由来を打ち明けた。袂を分かった弟が、手ずから作ってくれた贈り物なのだ、と。つまり、あの鍵はセシュカにあった彼らの家――事件の後にカミーユが売却し、二度と戻れない場所のものなのだ。今となってはただの飾りに過ぎず、それを撫でる癖も、ただ懐かしさから来るもの……そこに、言葉にしきれない切なさがわずかに混じっているのかもしれないが。話を終えたカミーユは鍵をそっとポケットにしまった。\n彼が本当にしまっておきたかったのは、身体を抉り取られるようなあの痛みと、思い出すだけで疲弊してしまうような過去だったのかもしれない。しかし、「その人」から向けられた真心を前にすれば、それをしようとも、そうしたいとも思わなくなっていた。\n数日後、1通のメッセージに導かれて、カミーユは管理人の執務室を訪れた。はじめに迎えてくれたのはその人の笑顔だった。そして、カチャリという小さな音と共に、新しい鍵が1本、カミーユの掌にそっと落とされた。\n「最近はこういう鍵をあまり使わないからね。たった1本作るだけなのに、少し時間がかかってしまったんだ。」「君に、知っていてもらいたかったんだよ。帝江号には、君が開けられる扉がちゃんとあるんだって。」\nカミーユはしばし呆然と立ち尽くし、やがて手を握りしめたまま、顔を背けた。長い沈黙の後、まるで喉元を掴まれた羽獣が、嘴の奥から最後の息をようやく絞り出したかのように、か細い声で「……ありがとう」と、たったひと言、呟いた。\n彼の「ふとした仕草」について知らなかったとしても、きっとわかってしまっただろう――古い鍵と新しい鍵が触れ合って、ちりちりと鳴るその音は、今の彼のように嬉しそうに見えた。",
+    "ko": "카뮤는 늘 자신이 감정을 꽤 잘 숨기고 있다고 여겼다. 전혀 절제할 줄 모르는 몇몇 오퍼레이터들에 비하면, 그 정도면 제법 잘해내는 편이었다. 하지만 몸에 밴 그런 자잘한 움직임만큼은 끝내 그를 속여 주지 못했다.\n초조해질 때면 그는 눈을 내리깔고 바닥의 틈을 바라보거나, 손을 들어 제 견갑골을 쓸어내리곤 했다. 누군가가 자신을 건드리려 하는 걸 원치 않을 때면 몸의 중심을 오른쪽 다리로 옮긴 채, 언제든 빠져나갈 수 있도록 자세를 잡았다. 망설이거나 불안해질 때면 손가락이 무심코 허리춤의 그 괴상한 낡은 열쇠를 매만지곤 했다.\n엔드필드의 오퍼레이터들에게는 저마다 소중히 여기는 물건이 하나쯤 있었다. 이본에게는 친구나 다름없는 꽁꽁이가 있었고, 로시에게는 아끼는 단검이 있었으며, 판은 늘 손에 익은 철솥을 등에 지고 다녔다. 하지만 카뮤의 경우는 조금 달랐다. 누군가 그 열쇠에 대해 묻기라도 하면, 그는 마치 데이기라도 한 사람처럼 즉시 손을 거두고 입을 굳게 다문 채 대화를 거부했다.\n기계에 익숙한 사람이라면, 그것이 오르골 태엽 장치와 비슷한 구조를 손수 개조해 만든 것임을 알아볼 수 있었다. 하지만 정작 카뮤 본인은 손으로 무언가를 만드는 일에는 영 소질이 없었고, 그의 명의로 된 부동산도 없었다. 그래서 그 열쇠가 대체 어느 문을 여는 것인지, 누구도 알지 못했다.\n시간이 흐르면서, 사람들은 약속이나 한 듯이 더는 묻지 않게 되었다.\n그러다 어느 날 우연한 대화 끝에, 카뮤는 마침내 그 열쇠의 내력을 털어놓았다. 그것은 결별한 남동생이 직접 만들어 준 선물이었다. 한때는 세쉬카에 있던 그들의 집에 속하였지만, 그 집은 사고 이후 카뮤가 팔아버렸고, 다시는 돌아갈 수 없는 곳이 되었다. 이제 그 열쇠는 그저 장식품에 불과했다. 그가 그것을 만지작거리는 습관 역시 그리움에서 비롯된 것일 뿐이었다... 어쩌면 설명하기 어려운 한 가닥 허전함도 함께였을지 모른다. 그 말을 마친 뒤, 카뮤는 열쇠를 다시 주머니 속에 감춰 넣었다.\n그가 진정 감추고 싶었던 것은, 마치 제 몸에서 살점 한 조각을 도려내 가는 듯한 그 통증과 사람을 지치게 만드는 지난날들이었다. 하지만 그 사람의 진심을 마주한 이상, 그는 더는 그러기 어려웠고, 이제는 그러고 싶지도 않았다.\n며칠 뒤, 한 통의 메시지가 카뮤를 관리자의 사무실로 이끌었다. 그를 맞이한 것은 먼저 상대의 미소였고, 이어 달칵 하는 소리와 함께 새 열쇠 하나가 카뮤의 손바닥 위에 떨어졌다.\n\"요즘은 이런 열쇠를 잘 안 써서, 일부러 하나 맞추느라 시간이 좀 걸렸어.\" 그 사람이 말했다. \"그냥 네가 알았으면 했어. 제강호에는 네가 열 수 있는 문이 하나 있게 될 수 있다는 걸.\"\n카뮤는 잠시 멍하니 서 있었다. 그는 손가락을 쥔 채 고개를 옆으로 돌렸다. 한참을 우물거리던 그는, 마치 목덜미를 가볍게 붙들린 파울비스트가 부리 끝으로 남은 공기를 모조리 토해 내듯, 거의 들리지 않을 만큼 작은 목소리로 \"고마워\"라고 말했다.\n그런 자잘한 몸짓들을 알지 못하는 사람이라 해도, 누구나 알아볼 수 있었을 것이다. 낡은 열쇠와 새 열쇠가 서로 부딪혀 맑게 울리는 그 소리처럼, 지금의 그는 무척 기뻐하고 있었다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "DOCUMENT: A Torn Manuscript \nThe first mirror witnessed by a babe is usually the eyes of its mother. A mother would gaze at you and softly whisper these words: \"Welcome to this world.\" You opened your eyes to look right back at her, with a focus shared by a navigator attempting to cross an ocean. Once the wet shimmers faded, you would see yourself reflected in her eyes. \nPowerful, weak, hateful, lovely, pure, tainted... You recognized the reflection in the mirror, a reflection of yourself. \nBut what if your first mirror was not your mother? What if you opened your eyes before you uttered your first cry? The ocean around you swayed like a swinging cradle, and someone pressed against your fingers. It felt annoying but also calm. You did not know who this person was, but you peered through the turbid fluids, noticed another pair of blurry eyes, and saw your reflection in them. At that very moment, something faster than a bolt of lightning struck through your soul. \nHe was born with you. You were the closest friends, yet you always fought and argued. You could not help but peer into his eyes to look at your own reflections... He was the rule and the control by which you were measured against, and the very conduit by which you fed from the world. He, on the other hand, relied upon you, respected you, and envied you. The days passed and your reflection within his eyes grew ever more perfect. \nThen one day it came. The first crack appeared in the mirror. The cracks spread, and the mirror shattered. Your image was gone. The storm descended, the fates murmured, and the oceans drove back into the deep. You gained a scar that would never heal, lost half of your soul, and were forced to raise your weapon against him. It was the only way with which you could pierce the hatred that burned deeper than love and restore what was broken to completion. \nAnd that moment, you still had not realized — \n— that you were his first mirror. \n\nDOCUMENT: A Faded News Cutting \nLandbreakers Raid Towns - Seš'qa Planning to Create an Anti-Witchcraft Organization \nThe floating city traitor and deserter Jakub Meissen and the Landbreaker raiders he led have recently become a major security threat to the Civilization Band. Jakub's forces have occupied and transformed an Originium farm into their base of operations, sending out raider groups to spread more Originium and raid. \nJust two nights prior, a town at the Band Fringes was attacked by raiders led by a Vampire serving as Jakub's lieutenant. The town, situated at an area not yet claimed by Talosian factions, was poorly defended. However, another Vampire, who hailed from Seš'qa, played a pivotal role in thwarting the raid. Armed with knowledge of Sarkazian witchcraft, the Vampire defender sabotaged the raiders' military hardware and ran his weapon through the chest of the raid leader, forcing the latter to call for retreat. Currently, the raider leader has gone into hiding and Seš'qa is maintaining constant vigilance to track him down. \nSeš'qa regarded Jakub's betrayal as its responsibility. The latest news revealed that the leadership of the floating city is planning to create an organization dedicated to fighting crimes involving Sarkazian witchcraft and apprehending the traitors.",
+    "zh-TW": "【一份殘缺的手記】\n嬰兒看到的第一面鏡子是母親的眼眸。母親注視著你，輕聲說著「歡迎來到這個世界」，而你睜開雙眼，與她對視——專注得就像嘗試橫渡一片海洋。在她眼中的粼光退去後，你將看到映在其中的影像。\n強大的、弱小的、可憎的、可愛的、純潔的、汙濁的……你辨認出鏡中的虛像——那便是你自己。\n但倘若你看到的第一面鏡子並非母親？倘若你先於第一聲啼哭就睜開了眼睛？海浪像是搖籃一樣輕輕搖晃，有人貼著你的手指，讓你有點煩躁，卻又安心。你還不知道對方是誰，但你透過渾濁不堪的水體，窺見一雙模模糊糊的瞳孔，窺見他眼中的你。剎那間，某種比閃電更迅疾的力量擊穿你——\n他與你一同誕生，你們親密無間，又打打鬧鬧。你總是忍不住去窺探他眼中的自己……他是你的標尺、你的對照組、你將世界內投的方式。而他依賴你、尊敬你、嫉羨你，他眸中映照出的你日漸完美無缺。\n直到某日，那面鏡子的表面出現一道裂痕，然後迅速散開，猝然崩裂。你的影像就這樣破碎，宛如風暴倏然而至，命運向你低語，海浪將你拍入深淵。你多出一道無法彌合的傷疤，自此失去一半魂靈，不得不舉起武器與他搏鬥，這樣你才能刺穿那比愛更深刻的恨，回歸完整與圓滿。\n而此時你還未意識到——\n他的第一面鏡子，也是你。\n\n【一張褪色的報紙】\n《裂地者侵擾定居點，塞什卡預計成立反巫術隊伍》\n近日，叛離懸空城的雅各布·邁森及其帶領的裂地者匪幫已成為文明環帶的主要安全威脅。其勢力占領了一片源石培植地，並以此為基地，向外擴散源石，進行洗劫行為。\n就在前夜，一起由雅各布麾下的血魔副手指揮，針對文明環帶邊緣定居點的襲擊被成功挫敗。該定居點位於真空地帶，防禦薄弱，而在戰役中，塞什卡的一名血魔發揮了關鍵作用，他憑藉對薩卡茲巫術的瞭解，搶先破壞了戰地設施，並刺穿了指揮官的胸膛，迫使對方在掩護下撤退。目前，指揮者已隱藏起來，塞什卡方保持著對他的持續追蹤。\n雅各布的叛離行為被塞什卡方視為自身的責任，據消息稱，領袖們正在計劃組織一支專門應對薩卡茲巫術犯罪，捕捉叛離者的隊伍。",
+    "zh-CN": "【一份残缺的手记】\n婴儿见到的第一面镜子是母亲的眼眸。母亲注视着你，轻声说着“欢迎来到这个世界”，而你睁开双眼，与她对视——专注得就像尝试横渡一片海洋。在她眼中的粼光退去后，你将看到映在其中的影像。\n强大的、弱小的、可憎的、可爱的、纯洁的、污浊的……你辨认出镜中的虚像——那便是你自己。\n但倘若你看到的第一面镜子并非母亲？倘若你先于第一声啼哭就睁开了眼睛？海浪像是摇篮一样轻轻摇晃，有人贴着你的手指，让你有些烦躁，却又安心。你还不知道对方是谁，但你透过浑浊不堪的水体，窥见一双模模糊糊的瞳孔，窥见他眼中的你。刹那间，某种比闪电更迅疾的力量击穿你——\n他与你一同诞生，你们亲密无间，又打打闹闹。你总是忍不住去窥探他眼中的自己……他是你的标尺、你的对照组、你将世界内摄的方式。而他依赖你、尊敬你、嫉羡你，他眸中映照出的你日愈完美无缺。\n直到某日，那面镜子的表面出现一道裂痕，接着迅速散开，猝然崩裂。你的影像就这样破碎，宛如风暴倏然而至，命运向你低语，海浪将你拍入深渊。你多出一道无法弥合的伤疤，自此失去一半魂灵，不得不举起武器与他搏斗，这样你才能刺穿那比爱更深刻的恨，回归完整与圆满。\n而此时你还未意识到——\n他的第一面镜子，也是你。\n\n【一张褪色的报纸】\n《裂地者侵扰定居点，塞什卡预计成立反巫术队伍》\n近日，叛离悬空城的雅各布·迈森及其带领的裂地者匪帮已成为文明环带的主要安全威胁。其势力占领了一片源石培植地，并以此为基地，向外扩散源石，进行洗劫行为。\n就在前夜，一起由雅各布麾下的血魔副手指挥，针对文明环带边缘定居点的袭击被成功挫败。该定居点位于真空地带，防御薄弱，而在战役中，塞什卡的一名血魔发挥了关键作用，他凭借对萨卡兹巫术的了解，抢先破坏了战地设施，并刺穿了指挥官的胸膛，迫使对方在掩护下撤退。目前，指挥者已隐藏起来，塞什卡方保持着对他的持续追踪。\n雅各布的叛离行为被塞什卡方视为自身的责任，据消息，领袖们正在计划组织一支专门应对萨卡兹巫术犯罪，捕捉叛离者的队伍。",
+    "ja": "【一部が欠けた手記】\n赤子が最初に見る鏡は、母の瞳である。「この世界へようこそ」と囁いて君に視線を向ける母。そして君は目を開き、お互いの目を見つめる――まるで一面に拡がる海を渡ろうとするかのように、ひたむきに。その瞳に揺らめく光が消えたとき、そこに映る影が見えるだろう。\n強きもの、弱きもの、憎らしきもの、愛らしきもの、清らかなもの、穢れたもの――鏡に映るその虚像の正体を君は見分ける。それが、君自身だ。\nだが、もしも最初に覗き込んだ鏡が、母ではなかったとしたら？もしも君が、産声を上げるよりも先に目を開けていたとしたら？海の波はゆりかごのように、ゆらりゆらりと揺れる。誰かが君の指にそっと触れる。それが煩わしくもあり、却って安心するような気もする。それが誰なのかは、まだ分からない。それでも君は、濁りきった水を通して、ぼんやりと滲む双眸と、その瞳の中に映る君自身の姿を垣間見る。刹那、稲妻よりも速い何かが、君の身を貫く――\n彼は君と同じときにこの世に生まれた。2人は睦まじく寄り添い、ときにはじゃれ合う。君はいつも、彼の瞳に映る自分の姿を覗き込まずにはいられなかった……彼は君の物差しであり、影であり、この世界を己の内へと取り込む方法であった。一方彼は、君を頼って、君を慕って、そして君に焦がれた。その瞳に映る君は、日を追うごとに完璧に近づいていった。\nある日、その鏡に一筋の亀裂が走った。それはまたたく間に広がり、突如砕け散った。君の面影も、突然の嵐に襲われたかのように、崩れ去った。運命が君に囁きかけ、波が君を深淵へ引きずり込む。決して癒えることのない傷痕がひとつ刻まれ、そして、魂の半分を失った。武器を手に取り彼と闘わねばならない。そうすれば、愛より深いあの憎しみを貫き、完璧へと還ることができるのだから。\nこのとき、君はまだ気づいていなかった――\n彼の最初の鏡もまた、他ならぬ君だったということに。\n\n【色褪せた1枚の新聞】\n『ランドブレーカー、集落を襲撃――セシュカ、対巫術部隊を結成予定』\n近日、浮遊都市を裏切り離反したヤコブ・マイセン及び彼の率いる「ランドブレーカー」が、文明地帯における治安問題の最大の焦点となっている。ヤコブらは源石の培養地一帯を占拠し、そこを拠点に源石を外部へと拡散し、略奪行為を繰り返している。\n昨夜、ヤコブ直下のブラッドブルードである副官の指揮によって、文明地帯辺境の集落を狙った襲撃が発生したが、これは見事に撃退された。この集落は空白地帯に位置し、防御体制も不十分であったが、セシュカのブラッドブルードが1名、戦闘において鍵となる働きを見せた。彼はサルカズ巫術への深い知見をもって、いち早く戦闘施設を破壊し、さらには敵の指揮官の胸を刺し貫いた。これにより敵側は援護を受けつつも撤退を余儀なくされた。現在、当の指揮官は姿をくらまし、セシュカ側は引き続き追跡を続けている。\nヤコブの裏切りに関しては、セシュカは自らに責任があるとの姿勢だ。情報筋によれば、指導者たちは現在、サルカズ巫術がらみの犯罪に特化した、離反者の捕縛にあたる専門部隊について計画中であるという。",
+    "ko": "[불완전한 일지 한 편]\n아기가 처음 마주하는 거울은 어머니의 눈동자다. 어머니는 당신을 바라보며, \"이 세상에 온 걸 환영한단다\" 하고 나직이 말한다. 그리고 당신은 눈을 뜨고, 그녀와 시선을 마주친다. 마치 바다를 건너려는 듯, 온 정신을 다한 채. 그녀의 눈 속에서 일렁이던 빛이 잦아든 뒤, 당신은 그 안에 비친 형상을 보게 된다.\n강한 것, 약한 것, 가증스러운 것, 사랑스러운 것, 순결한 것, 더러운 것... 당신은 거울 속 허상이 바로 자신이라는 것을 알아차렸다.\n하지만 당신이 처음 본 거울이 어머니가 아니라면 어떨까? 첫 울음소리를 내기도 전에 이미 눈을 떠 버렸다면 어떨까? 파도는 요람처럼 당신을 가볍게 흔들고, 누군가가 당신 손가락에 바짝 닿아 와 당신을 조금 초조하게 만들지만, 이상하게도 안심이 되게 한다. 당신은 아직 그가 누구인지 알지 못한다. 하지만 흐리고 탁한 물결 너머로, 어렴풋한 한 쌍의 눈동자를 엿본다. 그리고 그 눈 속에 비친 자신을 보았다. 찰나, 번개보다도 더 빠른 어떤 힘이 당신을 꿰뚫는다.\n그는 당신과 함께 태어났고, 둘은 한없이 가까우면서도 늘 티격태격했다. 당신은 늘 그 눈 속에 비친 자신을 들여다보고 싶어 참을 수 없었다... 그는 당신의 척도였고, 비교군이었으며, 당신이 세계를 내면에 받아들이는 방식 그 자체였다. 그리고 그는 당신을 의지했고, 존경했으며, 시기했다. 그의 눈동자에 비친 당신은 날이 갈수록 더없이 완전한 모습이 되어 갔다.\n그러다 어느 날, 그 거울 표면에 금 하나가 생겼고, 그것은 곧 빠르게 번져, 순식간에 산산이 깨져 버렸다. 그렇게 당신의 형상도 부서졌다. 마치 폭풍이 홀연히 들이닥친 것처럼, 운명이 당신에게 속삭이고, 파도가 당신을 심연으로 내리쳤다. 당신은 아물 수 없는 흉터 하나를 더 갖게 되었고, 그때부터 영혼의 절반을 잃은 채, 어쩔 수 없이 무기를 들고 그와 싸워야만 했다. 그래야만 사랑보다 더 깊은 그 증오를 꿰뚫고, 다시 온전함과 완벽함으로 돌아갈 수 있으니까.\n그리고 이때의 당신은 아직 깨닫지 못하고 있다.\n그의 첫 번째 거울 또한, 바로 당신이었다는 것을.\n\n[오래된 신문 한장]\n<랜드브레이커, 정착지를 습격... 세쉬카, 주술 대항 부대 창설 예정>\n최근 공중 도시를 이탈한 제이컵 마이센과 그가 이끄는 랜드브레이커 집단은 문명 밴드의 주요 위협으로 떠올랐다. 그들의 세력은 한 오리지늄 재배지를 거점으로 삼고, 바깥으로 오리지늄을 확산시키며 약탈을 진행하고 있었다.\n바로 전날 밤, 제이컵 휘하의 뱀파이어 부관이 지휘한 밴드의 가장자리에 있는 거주지에 대한 습격을 성공적으로 막아냈다. 해당 거주지는 진공 지대에 위치해 방어가 취약했지만, 이번 전투에서는 세쉬카 측 혈마 한 명이 결정적인 역할을 했다. 그는 살카즈 주술에 대한 이해를 바탕으로 전장의 설비를 먼저 파괴했고, 지휘관의 가슴을 꿰뚫어 상대가 엄호를 받으며 퇴각하도록 몰아붙였다. 현재 해당 지휘자는 모습을 숨긴 상태이며, 세쉬카 측은 그를 계속 추적하고 있다.\n제이컵의 배신은 세쉬카 측에서 스스로의 책임으로 받아들여지고 있다. 전해진 바에 따르면, 지도부는 살카즈 주술 범죄에 전문적으로 대응하고, 배신자를 추적·체포하기 위한 전담 부대를 조직할 계획이다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0033_camille_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "I do not intend to wait any longer.",
+    "zh-TW": "我不想繼續等待了。",
+    "zh-CN": "我不想继续等待了。",
+    "ja": "――もう待つ気はない。",
+    "ko": "더는 기다리기 싫어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Shall I join you? I am at your disposal.",
+    "zh-TW": "要我同行嗎？隨時可以。",
+    "zh-CN": "要我同行吗？随时可以。",
+    "ja": "一緒に行くべきか？いつでも動けるが。",
+    "ko": "도움이 필요해? 내가 도와줄게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Lead, and I shall follow. Or let it be the reverse.",
+    "zh-TW": "你指揮，我配合。反過來也行。",
+    "zh-CN": "你指挥，我配合。反过来也行。",
+    "ja": "君が指揮し、私が合わせる……いや、逆でも構わない。",
+    "ko": "네가 지휘해, 난 따를 테니까. 뭐, 반대로 해도 상관없고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "I expected as much. Let us depart.",
+    "zh-TW": "猜到你會選我，出發吧。",
+    "zh-CN": "猜到你会选我，出发吧。",
+    "ja": "想定通り、私を選んだか。出発しよう。",
+    "ko": "날 선택할 줄 알았어, 가자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "This sharp instrument could impale even the blood sea. I shall wield it with care.",
+    "zh-TW": "這把槍十分鋒利，足以刺穿血海。我會好好使用它。",
+    "zh-CN": "这把枪十分锋利，足以刺穿血海。我会好好使用它。",
+    "ja": "この槍は、血の海すら貫ける……使わせてもらおう。",
+    "ko": "이 창, 꽤 날카롭네. 피의 파도도 꿰뚫을 수 있겠어. 잘 쓸게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "The Keepers' outfitting logic revolves around Sarkaz witchcraft. But I place my trust in your choices.",
+    "zh-TW": "看護人有一套圍繞薩卡茲巫術選擇裝備的邏輯。不過，我信任你的選擇。",
+    "zh-CN": "看护人有一套围绕萨卡兹巫术选择装备的逻辑。不过，我信任你的选择。",
+    "ja": "番人はサルカズの巫術に基づき装備を選定するが……今は君の選択を信じている。",
+    "ko": "수호자들은 자기 주술에 맞는 장비를 고르는 각자의 기준이 있어. 하지만... 난 네 선택을 믿어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "The impurities have been stripped away. The blood is purer now.",
+    "zh-TW": "我剔除了血中的雜質，現在它們變得更純淨了。",
+    "zh-CN": "我剔去了血中的杂质，现在它们变得更纯净了。",
+    "ja": "血中の不純物を除去し、より純粋な血へと……",
+    "ko": "핏속에 있던 불순물을 걸러냈으니, 좀 더 순수해졌을거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "These tactical insights are of great value. They will aid the Keepers in their duties.",
+    "zh-TW": "這些作戰思路很值得學習，對看護人的工作有幫助。",
+    "zh-CN": "这些作战思路很值得学习，对看护人的工作有帮助。",
+    "ja": "この戦術の方針は、番人の職務にも活かせるように思う。",
+    "ko": "꽤 괜찮은 방법이네. 수호자로서 배울 점이 있겠는걸."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "An official recognition from Endfield, or your personal trust?",
+    "zh-TW": "這是終末地工業的認可，還是你對我的信任？",
+    "zh-CN": "这是终末地工业的认可，还是你对我的信任？",
+    "ja": "これは、エンドフィールド工業からの評価か？それとも、君の信頼をくれるとでも？",
+    "ko": "이건 엔드필드 공업으로서의 인정이야? 아니면... 관리자, 네가 주는 신뢰의 증표인가?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0033_camille_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "Thank you for the commendation, Endministrator. My responsibilities have grown, but at this moment, I feel only joy for being worthy of your trust.",
+    "zh-TW": "感謝你的表彰，管理員。雖然肩上又多了一份責任，但這一刻……我感受到的只有被信任的喜悅。",
+    "zh-CN": "感谢你的表彰，管理员。虽然肩上又多了一份责任，但这一刻……我感受到的只有被信任的喜悦。",
+    "ja": "表彰、ありがたく受け取る。背負う責任が増えようと、今は……信頼の歓びだけを感じることにしよう。",
+    "ko": "인정해 줘서 고맙긴 한데, 책임이 하나 더 는 것도 사실이야. 그래도... 지금은 네가 날 믿어줬다는 게 훨씬 더 기뻐."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0033_camille_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Empty honors no longer matter, my friend. My blood is always with you.",
+    "zh-TW": "不需要更多的虛名了，朋友，我的血液與你同在。",
+    "zh-CN": "不需要更多的虚衔了，朋友，我的血液与你同在。",
+    "ja": "これ以上の飾りは無粋か……友よ、私の血は君と共にある。",
+    "ko": "형식에 얽매일 필요는 없어. 내 피는... 항상 네 곁에 있을 테니까."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0033_camille_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "Immense forces vie for dominance on this world, leaving us to eke out a living in the cracks. Yet you showed me that change, however small, bears meaning. And I ... I am more than willing to walk with you in this pursuit.",
+    "zh-TW": "在這顆星球上，巨大的力量互相傾軋，我們只能在夾縫中艱難求生。但你讓我看到，哪怕一點點的改變都有意義，而我……願意與你同行。",
+    "zh-CN": "在这颗星球上，巨大的力量互相倾轧，我们只能在夹缝中艰难求生。但你让我看到，哪怕一点点的改变都有意义，而我……愿意与你同行。",
+    "ja": "この星は互いを圧迫する巨大な力に覆われ、我々は息苦しい隙間を縫って生きることしかできない……ただ、些細な変化にも意義があるのだと君から学んだ。だから、私は……これからも君と共に歩んでいきたい。",
+    "ko": "우린 거대한 힘들이 충돌하는 이 별에서 틈새를 찾아 간신히 살아남는 게 전부였어. 하지만, 넌 나한테 아주 작은 변화일지라도 의미가 있다는 걸 알려줬지. 그래서 난... 계속 너랑 같이 걸어가고 싶어."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0033_camille_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Camille Arno, Agaš'mekanaz of Seš'qa. I seek a dangerous Sarkaz criminal who wields witchcraft as a weapon. For this, I require the strength of Endfield... And in return, I vow to offer you my own.",
+    "zh-TW": "卡繆·亞爾諾，塞什卡的看護人。我正在追捕一名利用巫術犯罪的危險薩卡茲，為此需要藉助終末地工業的力量……而我也會遵守承諾，獻出我的力量。",
+    "zh-CN": "卡缪·亚尔诺，塞什卡的看护人。我正在追捕一名利用巫术犯罪的危险萨卡兹，为此需要借助终末地工业的力量……而我也会遵守承诺，献出我的力量。",
+    "ja": "カミーユ・アルノ、セシュカの番人。巫術犯罪に関与するサルカズを追っている。エンドフィールドの力を貸してもらいたい……その代わり、約束は必ず守る。",
+    "ko": "카뮤 아르노, 세쉬카의 수호자야. 주술로 범죄를 저지르는 위험한 살카즈 녀석 하나를 쫓고 있는데, 엔드필드 공업의 도움이 필요해... 물론, 약속한 대로 나도 엔드필드를 도울 거고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Birthed in blood, concluded in blood.",
+    "zh-TW": "誕生於血，終結於血。",
+    "zh-CN": "诞生于血，终结于血。",
+    "ja": "血に生まれ、血に終わる。",
+    "ko": "피에서 피어난 운명은, 피로써 시들어 가리라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "I leave no shadow ... for the guilty to hide in.",
+    "zh-TW": "我所到之處，罪惡無處遁形。",
+    "zh-CN": "我所到之处，罪恶无处遁形。",
+    "ja": "私の往く道に、罪を隠せるとでも？",
+    "ko": "내 발걸음이 닿은 곳에 죄악이 스며들 곳은 없으리라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "I work alone. Eliminating the need to communicate raises efficiency.",
+    "zh-TW": "我一個人就行。省去溝通的步驟，效率會更高。",
+    "zh-CN": "我一个人就行。省去沟通的步骤，效率会更高。",
+    "ja": "1人で十分だ。意思疎通の時間を省けば効率は高まる。",
+    "ko": "나 혼자서 충분해. 의사소통이라는 거, 사실 꽤 비효율적이거든."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Any orders?",
+    "zh-TW": "有什麼行動嗎？",
+    "zh-CN": "有什么行动吗？",
+    "ja": "動きがあったのか？",
+    "ko": "생각해 둔 작전이라도 있어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Endmin, this meeting was no coincidence. I've been waiting.",
+    "zh-TW": "管理員。並非巧遇，我在等你。",
+    "zh-CN": "管理员。并非巧遇，我在等你。",
+    "ja": "管理人……偶然ではない。君を待っていた。",
+    "ko": "우리가 만난 게 우연이라고 생각해? 나, 한참 기다렸다고."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0033_camille_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "The vertical space on Dijiang is vast. Occasionally, for efficiency, I traverse the ceiling... No, it is not to avoid greeting others.",
+    "zh-TW": "帝江號的垂直空間很大，有時為了方便，我會從艙頂倒掛著走過去……不，不是為了迴避跟其他人打招呼。",
+    "zh-CN": "帝江号的垂直空间很大，有时为了方便，我会从舱顶倒悬着走过去……不，不是为了回避跟其他人打招呼。",
+    "ja": "帝江号は縦方向の空間が広い。必要があれば、天井を歩くこともある……違う、他人に挨拶するのを避けているわけではない。",
+    "ko": "제강호는 천장이 높아서 좋아. 난 가끔 천장에 매달려서 거꾸로 걸어가곤 하거든. 그게 편하니까... 아, 다른 사람이랑 인사하는 게 불편해서 그런 건 아니야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "I can hear the currents flowing through the cables of Dijiang. Whenever Engineering adjust ship parameters, the electrical hums change and I must readjust... They do irk me, but I bear no resentment. They prove that people are striving to keep the ship steadily on course.",
+    "zh-TW": "我能聽到電流從帝江號的纜線中流過的聲音。工程中心調整飛船的參數時，電流聲會發生變化，每次都要重新適應……當然會有困擾，但我不討厭這種改變，因為它代表著，人們在努力讓這艘船平穩航行。",
+    "zh-CN": "我能听到电流从帝江号的线缆中流过的声音。工程中心调整飞船的参数时，电流声会发生变化，每次都要重新适应……当然会有困扰，但我不讨厌这种改变，因为它代表着，人们在努力让这艘船平稳航行。",
+    "ja": "電流が帝江号のケーブルを流れる音が聞こえる。エンジニア部がパラメーターを調節するたびに、音が変わる……都度、慣れなくてならないのは煩わしいが、嫌いではない。この船に穏やかな旅を与えるための、努力の証なのだから。",
+    "ko": "제강호의 배선을 따라 흐르는 전류의 소리, 들어본 적 있어? 난 들리거든. 공학 센터에서 함선 파라미터를 조정할 때마다 소리가 바뀌다 보니 매번 다시 적응해야 하는 게 불편하긴 한데... 이런 변화가 싫진 않아. 제강호가 안정적으로 항해할 수 있게 다들 노력하고 있다는 뜻이니까."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0033_camille_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "I am fond of puzzles. There is a certain satisfaction in gathering scattered fragments and restoring them to a whole. Furthermore, it is a pastime that requires only one person.",
+    "zh-TW": "我喜歡拼圖，那種把零落的碎片撿起來，復原成完整事物的感覺很好。而且，玩拼圖只需要一個人。",
+    "zh-CN": "我喜欢拼图，那种把零落的碎片捡起来，复原成完整事物的感觉很好。而且，玩拼图只需要一个人。",
+    "ja": "私はパズルが好きだ。散らばったピースを集め、元に戻す感覚が心地よい。それに、パズルは1人で事足りる。",
+    "ko": "난 퍼즐 맞추는 걸 좋아해. 흩어진 조각들을 모아서 완전한 그림을 복원해 내는 느낌이 좋거든. 그리고... 혼자서 할 수도 있고."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0033_camille_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "I do not expect Seš'qa to send operator Last Rite to Endfield... You enjoy a sincere partnership, one that proves the solidarity of the two organizations and the alignment of our visions. As in the old days ... nothing has changed.",
+    "zh-TW": "沒想到塞什卡居然捨得把別禮幹員送到終末地……這是充滿誠意的合作，代表著兩個勢力依舊親密無間，理念嵌合。就像很久以前一樣……一切都未改變。",
+    "zh-CN": "没想到塞什卡居然舍得把别礼干员送到终末地……这是充满诚意的合作，标志着两个势力依旧亲密无间，理念嵌合。就像很久以前一样……一切都未改变。",
+    "ja": "セシュカが、ラストライトをエンドフィールドに送っただと？つまり、誠意ある協力――今なお2つの勢力が親密であり、理念も一致しているという証拠だ。遥か昔のことを思い出す……何も、変わっていない。",
+    "ko": "세쉬카에서 라스트 라이트 오퍼레이터를 파견하다니... 협력에 꽤 진심이네. 두 세력의 관계가 긴밀하면서도 추구하는 이념이 잘 맞는다는 뜻이겠지. 꼭... 예전처럼 말이야. 이런 걸 보면 아무것도 변한 게 없는 것만 같아."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0033_camille_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "Two wings in the sky, yet two different homes. Seš'qa's tranquility sprung out of our kindred. But Dijiang ... perhaps the presence of a particular individual exerts the same assuring effect.",
+    "zh-TW": "同樣是飛在空中的造物，塞什卡跟帝江號的居住感受全然不同，但兩者都有種能讓人放鬆的「安心感」。塞什卡的安心感來源於同胞們，而帝江號……大概是因為有個能讓大家放心依賴的人吧。",
+    "zh-CN": "同样是飞在空中的造物，塞什卡跟帝江号的居住感受全然不同，但二者都有种能让人放松的“安心感”。塞什卡的安心感来源于同胞们，而帝江号……大概是因为有个能让大家放心依赖的人吧。",
+    "ja": "同じように空を飛ぶ造物であったとしても、セシュカと帝江号の居心地は全く違う。いや、どちらにも「安心感」は存在する。セシュカのそれは同胞たちに由来し、帝江号は……皆が安心し、頼れる人物の存在から来るのだろう。",
+    "ko": "하늘을 나는 구조물이라는 건 같지만, 세쉬카랑 제강호는 생활감이 완전히 달라. 공통점이라면... 둘 다 사람을 편안하게 하는 '안정감'을 준다는 거? 세쉬카의 동료들이랑 같이 있으면 안심할 수 있게 되더라고, 제강호는... 아마 모두가 믿고 의지할 수 있는 누군가가 있어서 그런 게 아닐까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0033_camille_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Few understand their own hearts, yet everyone aboard Dijiang move toward a clear goal. For long I have sought the reason, and I found it in you, Endmin. You are quite the leader.",
+    "zh-TW": "人們經常不知道自己真正想要的東西，但帝江號上的每個人都有清晰的目標，並願意為之努力。我想了很久，答案是管理員——作為領導者的你，很特別吧。",
+    "zh-CN": "人们经常不知道自己真正想要的东西，但帝江号上的每个人都有清晰的目标，并愿意为之努力。我想了很久，答案是管理员——作为领导者的你，很特别吧。",
+    "ja": "人は、得てして自分が本当に望むものを理解しない。ただ、帝江号の人間は誰もが明確な目標に向かい、努力を続けている。私の推論だが――答えは管理人、君だ。指導者たる君が、特別だからではないのか？",
+    "ko": "사람들은 늘 자기가 진정으로 뭘 원하는지 모른 채로 살아가곤 해. 하지만 제강호의 모든 사람은 뚜렷한 목표가 있고, 그걸 위해서 또 많이 노력하지. 그 이유가 뭘지 생각해 봤는데... 아무래도 그 사람들을 이끄는 사람이 특별해서 그런 것 같아. 관리자, 너 말이야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0033_camille_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "I have something for you from Seš'qa. Take it. The other gifts from our leadership have been delivered to your office.",
+    "zh-TW": "我從塞什卡帶了點東西給你，收下吧。至於領袖們讓我帶的那些禮物，我放到你的辦公室了。",
+    "zh-CN": "我从塞什卡给你带了点东西，收下吧。至于领袖们让我捎的那些礼物，我放到你的办公室了。",
+    "ja": "君に渡したいものを、セシュカから持ってきた。上層部からの贈り物は、君の部屋に置いてある。",
+    "ko": "너 주려고 세쉬카에서 선물을 좀 가져왔어, 자. 아, 윗선에서 보낸 선물들은 네 사무실에 가져다 뒀어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "It is not a parting gift, I hope...? Very well, I shall take it.",
+    "zh-TW": "不是臨別贈禮吧？好，我收下了。",
+    "zh-CN": "不是临别赠礼吧？好，我收下了。",
+    "ja": "まさか、餞別では？いや、違うならいい。ありがたく頂こう。",
+    "ko": "작별 선물은 아니지? 좋아, 그러면 받을게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Over the decades, I've glimpsed you a few times from afar. I remember my first impression of you was that of a \"Savior\". But now you feel more like a confidante. I do not concern with the preferences of others, but I do find more comfort in the person before me now. You are no longer weathered by the elements, and your body is freed from scars.",
+    "zh-TW": "其實這幾十年間，我遠遠見過你幾面。我還記得你最初留給我的印象是——「救世主」，現在卻更像一位親切的朋友。說不上其他人更喜歡哪種，我覺得現在的你更讓人安心。至少你不需要再披著滿身風雪，身上也沒有傷痕。",
+    "zh-CN": "其实这几十年间，我远远见过你几面。我还记得你最初给我留下的印象是——“救世主”，现在却更像一位亲切的朋友。说不上其他人更喜欢哪种，我觉得现在的你更让人安心。至少你不需要再披着满身风雪，身上也没有伤痕。",
+    "ja": "実は、この数十年の間に君の姿を何度か遠くから見ていた。最初の印象は――「救世主」。しかし今は、親しい友だと思っている。他の人間がどう思うかは知らないが、私は今の君が好きだ。少なくとも、君はもうその身に風雪を纏う必要はない。身体にも、傷ひとつ無い……",
+    "ko": "사실 난 저 멀리서 네 모습을 본 적이 몇 번 있어. 그때는 뭐랄까... '구세주'라는 느낌이 들었어. 근데 지금은 꼭 가까운 친구 같아. 다른 사람들이 어떤 네 모습을 좋아할 진 모르겠지만, 난 지금의 네 모습이 더 편해. 최소한... 더 이상 추운 눈보라 속을 뚫고 나아가는 일도, 상처투성이가 되는 일도 없을 테니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "I constantly dream of my family in a garden, surrounded by riotous torch-bearing Landbreakers. No matter how I run, I would remain stuck in place and could never get close. During the worst of my days ... the dreams happened every night. But after arriving at Endfield, the nightmares have started to fade.",
+    "zh-TW": "我總是夢到家人站在花園中，裂地者舉著火把，在周遭狂歡。無論我怎麼奔跑，都無法接近他們，只能在原地打轉。狀態最糟糕的那段時間……每個夜晚，我都會陷入夢魘，周而復始。但來到終末地後，我做噩夢的頻率好像下降了。",
+    "zh-CN": "我总是梦到家人站在花园中，裂地者举着火把，在周遭狂欢。无论我怎么奔跑，都无法接近他们，只能在原地打转。状态最糟糕的那段时间……每个夜晚，我都会陷入梦魇，周而复始。但来到终末地后，我做噩梦的频率好像下降了。",
+    "ja": "いつも同じ夢を見る。家族が庭に佇み、ランドブレーカーが松明を掲げながら狂喜する――どれほど走ろうと近づくことも叶わず、ひたすら同じ場所を巡るだけ……酷いときは、毎晩のように同じ悪夢を見ていた。ただ、エンドフィールドに来てからは、随分と少なくなったのではないだろうか。",
+    "ko": "난 자주 어떤 꿈을 꿔. 가족들이 정원에 있고, 횃불을 든 랜드브레이커들이 주변에서 의식을 벌이는 꿈... 내가 아무리 다가가고 싶어도 다가갈 수 없고, 제자리에서 맴돌 뿐이었지... 몸과 마음이 힘들 때면 항상 이런 악몽에 시달렸어, 끊임없이 반복되는 지옥 같은 밤들이었지. 그런데... 엔드필드에 오고 나서는 이런 일이 줄어든 것 같아."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0033_camille_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "To keep Char alive, I gave him my blood ... a full half of my existence. Thus I am his brother as well as his sire. The greatest fear of a Vampire is the corruption and sullying of our blood. He used mine to injure others ... and so I must stop such foolishness. I have to do it.",
+    "zh-TW": "為了留住查爾的性命，我把血液……一半生命共享給了他。某種意義上，他既是我的手足，又是我的子嗣。血魔們最害怕的事便是血系劣化，變得汙濁，他利用我的血液去傷害他人……所以我必須去阻止他的愚行。我必須去。",
+    "zh-CN": "为了留住查尔的性命，我把血液……一半生命共享给了他。某种意义上，他既是我的手足，又是我的子嗣。血魔们最害怕的事便是血系劣化，变得污浊，他利用我的血液去伤害他人……所以我必须去阻止他的愚行。我必须去。",
+    "ja": "シャールの命を繋ぐため、血を……生命を分け与えた。彼は私の片割れであり、ある意味では、自分の子のようなものだ。ブラッドブルードが最も恐れることは、血の劣化――穢れだ。彼は、私の血で他者を傷つける愚行に走った……だから、私が止めなければならないと、そう誓った。",
+    "ko": "샤를의 목숨을 구하기 위해서 난 내 피를... 생명의 절반을 줬어. 그래서 샤를은 내 형제이기도 하지만, 어떤 의미에서는 내 자손이기도 해. 뱀파이어가 가장 두려워하는 건, 피가 타락하고 또 혼탁해지는 거야. 근데 녀석은 지금 내 피로 사람들을 해치고 있어... 난 그 어리석은 행동을 막아야 해. 반드시..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0033_camille_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "Long ago, I used to wish memory could be bled away to free myself from the aching pain. But after meeting you ... I realized it was these untouchable, unforgettable, and unretractable elements that have shaped who I am today. So, Endmin, I shall help you recover what you've lost.",
+    "zh-TW": "很久以前，我希望自己的記憶像血液一樣，可以從身體中抽出，這樣就能剝離掉痛苦的部分。而認識你後……我意識到正是這些不可觸碰、不可遺忘、不可挽回的事物塑造了現在的我。所以，管理員，我會協助你找回過去的一切。",
+    "zh-CN": "很久以前，我希望自己的记忆像血液一样，可以从身体中抽出，这样就能剥离掉痛苦的部分。而认识你后……我意识到正是这些不可触碰、不可遗忘、不可挽回的事物塑造了现在的我。所以，管理员，我会协助你找回过去的一切。",
+    "ja": "血のように身体から記憶を抜き取ることができれば……そうすれば、苦痛だけを削ぎ落とせるのではないかと思っていた。しかし、君と出会って気付いた……触れられず、忘れられず、消せないものこそが、今の私を形作っていると。管理人、君に協力しよう――過去のすべてを、取り戻すために。",
+    "ko": "예전에는 피처럼 내 기억을 몸에서 뽑아낼 수 있으면 좋겠다고 생각했어. 그럼 고통스러운 기억만 떼어낼 수 있을 테니까. 하지만 널 만나고 깨달았어. 이렇게 만질 수도, 잊을 수도, 되돌릴 수도 없는 것들이... 지금의 날 만들었다는 걸. 그러니까 관리자, 네가 과거의 모든 것을 되찾을 수 있게 내가 도와줄게."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0033_camille_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "I sacrificed half my lifeblood, and so I am left with but a single wing... The missing other throbs with constant pain, as though my blood thirsts for what I lost. Yet, the new memories we've created together are filling that void. Maybe in time ... the pain of that scar will trouble me no more.",
+    "zh-TW": "因為我放棄了一半血液，所以現在只能展開半邊翅膀。而另外一側……它總是在隱痛，就像是我的血在渴望奪回失去的部分。但與你相處的這段時間，我得到了許多新的東西，它們在慢慢填補那些空缺。也許某一天……我的傷痕便不會再疼痛了。",
+    "zh-CN": "因为我放弃了一半血液，所以现在只能展开半边翅膀。而另外一侧……它总是在隐痛，就像是我的血在渴望夺回失去的部分。但与你相处的这段时间，我得到了许多新的东西，它们在慢慢填补那些空缺。也许某一天……我的伤痕便不会再疼痛了。",
+    "ja": "血の半分を捨てた――その代償として、広げられるのは片翼のみ。もう片方は……鈍く疼くだけだ。まるで、失ったものを奪い返そうと、血が叫ぶように。しかし、君と過ごす中で得たものが空虚を埋め……いつか、古傷の痛みが消える日も来るのではないかと思っている。",
+    "ko": "난 피의 절반을 포기했기 때문에 지금은 반쪽 날개만 펼칠 수 있어. 그리고 다른 한쪽은... 날개 대신 통증이 날 괴롭히지. 꼭 내 피가 잃어버린 반쪽을 갈망하는 것처럼... 하지만 너랑 함께하는 동안, 난 새로운 걸 많이 얻었어. 잃어버린 부분이 서서히 채워지는 느낌이야... 어쩌면, 언젠가 이 상처의 통증도 완전히 사라지는 날이 올지도 몰라."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0033_camille_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "Our family garden once held a plant known as the Devil's Licorice. Mother told us that the Sarkaz carried this thread of memory from Terra. It is a sign for our hope to coexist with this planet — All life, people or plant, will find a way in distant lands. Of course, my younger self mainly used it as an ingredient for witchcraft sweets... The flavor is unusual, but not in a bad way.",
+    "zh-TW": "我還記得家中的花園曾栽著一種叫「魔甘草」的植物，媽媽告訴我們，它是薩卡茲從泰拉帶來的一縷思念。每次看到它時，我都在想，魔甘草是一個訊號——人與植物都背井離鄉，但也都找到了生存的方式，這是我們與這顆星球共存的希望。雖然對小時候的我來說，它最大的作用只是拿來做巫術糖果……味道有點奇怪，但不壞。",
+    "zh-CN": "我还记得家中的花园曾栽着一种叫“魔甘草”的植物，妈妈告诉我们，它是萨卡兹从泰拉带来的一缕思念。每次看到它时，我都在想，魔甘草是一个信号——人与植物都背井离乡，但也都找到了生存的方式，这是我们与这颗星球共存的希望。虽然对小时候的我来说，它最大的作用只是拿来做巫术糖果……味道有点奇怪，但不坏。",
+    "ja": "実家の庭に「魔甘草」という植物が植えられていた。母は、サルカズがテラから持ち込んだ一抹の郷愁だと言っていたが、私は――人であれ、植物であれ、故郷を離れた者が生き抜く術を、この星と共に在る希望を掴んだ証なのだと思う。尤も、幼き日の私にとっては、巫術キャンディーの材料でしかなく……ちなみに、妙な味だが、悪くはない。",
+    "ko": "예전에 우리 집 정원에는 '마감초'라는 식물이 있었어. 어머니는 그게 살카즈가 테라에서 가져온 그리움이라고 하셨지. 그걸 볼 때마다 난 마감초가 하나의 신호 같다는 생각이 들었어. 사람이든 식물이든... 고향을 떠나 삶을 이어가고 있다는 그 사실이 우리랑 이 행성도 조화롭게 공존할 수 있을 거라는 희망을 의미한다고. 물론... 어린 시절의 나한테는 단순히 주술 사탕을 만드는 재료에 불과했지만 말이야. 맛이 좀 특이한데, 나쁘진 않았거든."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "There is a unique tavern on Seš'qa, constructed entirely out of mirrored glass. Countless artificial gems glowing with witchcraft hang from the ceilings. The whole building radiates light. During open tours, the Sankta would host parties there. They are a loud, rowdy bunch that keep people awake. Still, such liveliness is good for Seš'qa. It proves — our efforts are working, taking down many barriers between the races.",
+    "zh-TW": "塞什卡上有間特別的酒館，它是用玻璃鏡面蓋成的，天花板上掛著無數注入巫術就會發光的人造寶石，整個建築會不停散發光芒。開放遊覽時會有薩科塔在那裡開派對，他們很會鬧，吵得別人睡不著覺。不過，熱鬧點對塞什卡來說是好事，這代表——我們的努力是有效的，至少消除了很多種族之間的隔閡。",
+    "zh-CN": "塞什卡上有间特别的酒馆，它是用玻璃镜面盖成的，天花板上挂着无数注入巫术就会发光的人造宝石，整个建筑会不停散发光芒。开放游览时会有萨科塔在那儿开派对，他们很闹腾，吵得别人睡不着觉。不过，热闹些对塞什卡来说是好事，这代表——我们的努力是有效的，至少消除了很多种族之间的隔阂。",
+    "ja": "セシュカには、特殊な酒場がある。ガラスに覆われ、天井には巫術で光る人造の宝石が無数に吊られ――建物全体が、絶えず光り続けている。開放日にはサンクタがパーティーを開くが、彼らはとにかく騒がしい。眠れたものではない……ただ、セシュカにとって賑やかなのはむしろ良いことだ。少なくとも種族間の隔たりを……幾つも埋められた証拠になるのだから。",
+    "ko": "세쉬카에는 거울로 만든 특별한 술집이 있어. 천장에 인조 보석이 가득 달려 있는데, 주술을 주입하면 건물 자체가 끊임없이 빛을 발하지. 관광 허가 기간에는 산크타들이 거기서 자주 파티를 여는데, 너무 시끄러워서 주변 사람들이 잠도 제대로 못 잘 정도야. 그래도 뭐... 세쉬카에 활기가 도는 건 좋은 일이라고 생각해. 우리의 노력이 무의미하진 않았다는 걸 의미하니까. 적어도 여러 종족 사이의 장벽을 많이 허물었다는 증거가 아닐까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "The person in the Witching Hour catalog...? Fine, it is I. They send me samples in exchange for promotional photos. Years ago, I wandered into a witchcraft shop and the counter clerk treated me like a rare specimen. I was held, physically, so as to sign a contract on the spot. I do feel awkward if acquaintances see the picture, but the samples are rare... Endmin, may I ask where you might be going with that booklet?",
+    "zh-TW": "巫術時刻商品冊上的這個人……好吧，是我。他們會寄給我一些樣品，而我會幫忙拍一些宣傳的照片。很多年前，我偶然推開過一間巫術商店的門，櫃檯裡的人像是看到了什麼珍稀動物，抓著我在合約上按了個手印。雖然被熟人看到會有點奇怪，但樣品珍貴……管理員，你拿著那個冊子是要去哪裡？",
+    "zh-CN": "巫术时刻商品册上的这个人……好吧，是我。他们会给我寄一些样品，而我会帮忙拍一些宣传的照片。很多年前，我偶然推开过一间巫术商店的门，柜台里的人像是看到了什么珍稀动物，抓着我在合同上按了个手印。虽然被熟人看到会有些奇怪，但样品珍贵……管理员，你拿着那个册子是要去哪儿？",
+    "ja": "ウィッチタイムの商品カタログに載っている……ああ、私だ。サンプルが送られてくると、宣伝用の写真を撮って送っている。何年も前の話だが、巫術の店の扉を開けた瞬間、カウンターにいた店員がまるで珍しい獣を見たような顔になり……そのまま手を捕まれ、契約書にサインさせられてしまった。知っている人間に見られると少し妙な気持ちにはなるが、サンプルは貴重だ……管理人。手にカタログを持ったまま、一体どこへ？",
+    "ko": "주술 타임 카탈로그에 있는 사람... 음, 맞아. 나야. 주술 타임 쪽에서 견본품을 보내주면, 내가 홍보 사진을 좀 찍어주고 있거든. 몇 년 전에 우연히 한 주술 상점에 간 적이 있는데, 카운터에 있던 사람이 무슨 희귀 동물이라도 본 것처럼 날 잡아끄는 거 있지? 어쩌다 보니 그렇게 계약서를 쓰게 됐어. 날 아는 사람들이 그걸 본다고 생각하면 좀 어색하긴 한데, 귀한 견본품을 받는 게 더 중요하니까... 잠깐만 관리자, 그거 들고 어디 가려고?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "I would constantly lose my house keys as a child. It led to a fight with Char, and I accidentally broke his music box. After I apologized, he used its core component and made me a new key... He told me it was a charm that would always lead me back home. Now that my family is gone and our Seš'qa estate sold ... it no longer opens any doors nor holds any meaning.",
+    "zh-TW": "小時候我經常弄丟家裡鑰匙，因為這個跟查爾吵過一架，失手弄壞了他的音樂盒。在我道歉後，他用拆下來的音樂盒機芯幫我做了新的鑰匙……他說，這會成為一個護身符，無論何時，都能帶我找到回家的門。家人都不在了之後，我賣掉了塞什卡的宅邸，現在……這東西無法打開任何一扇門，不再有意義了。",
+    "zh-CN": "小时候我经常弄丢家门钥匙，因为这个跟查尔吵过一架，失手碰坏了他的八音盒。在我道歉后，他用拆下来的八音盒机芯给我做了新的钥匙……他说，这会成为一个护身符，无论何时，都能带我找到回家的门。家人都不在了后，我卖掉了塞什卡的宅邸，现在……这东西无法打开任何一扇门，不再有意义了。",
+    "ja": "幼い頃、私は家の鍵を何度も失くし……一度、シャールと喧嘩になったことがある。揉み合ううちに彼のオルゴールを誤って壊してしまったが、謝る私にシャールはムーブメントで鍵を作ってくれた……家のドアに辿りつくためのお守りだと言って。家族が全員いなくなり、私はセシュカの家を売った。今となっては、この鍵で開けられるドアは何処にもない。もう、何の意味もない……",
+    "ko": "어릴 때 난 집 열쇠를 자주 잃어버렸어. 이 일로 샤를과 한바탕 싸웠는데, 그때 실수로 녀석이 아끼는 오르골을 떨어뜨려 버렸지. 난 미안하다고 사과했고, 샤를은 오르골 기계 부품으로 새 열쇠를 만들어 줬어. 부적처럼... 이 열쇠가 언제 어디서든 날 집으로 이끌어 줄 거라고 하면서... 근데 이 열쇠, 지금은 어떤 문도 못 열어. 가족들도 다 없어졌겠다, 그냥 세쉬카의 저택을 팔아버렸거든. 더 이상 의미가 없어진 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "The crimson \"demon lances\" are my Originium Arts. I can encapsulate objects with my blood to shape them into weapons. I usually use my own blood as the enemy's may be impure. The blood of my companions is ... something I do not wish to exploit, even with your agreement.",
+    "zh-TW": "那些赤色的「魔槍」是我的源石技藝，我能用血液包裹物體，將它們變成武器。通常都是用我自己的血，畢竟敵人的血過於汙濁，而同伴的血……即使你們同意，我也不想那麼做。",
+    "zh-CN": "那些赤色的“魔枪”是我的源石技艺，我能用血液包裹物体，将它们变成武器。一般都是用我自己的血，毕竟敌人的血过于污浊，而同伴的血……即使你们同意，我也不想那么做。",
+    "ja": "あの赤い「魔槍」は私のアーツだ。血で物体を覆い、武器に変えることができる。血は私自身のものを使う……敵の血は穢れている。仲間の血は許されたとしても……使いたくはない。",
+    "ko": "그 붉은 '마창'들은 내 오리지늄 아츠야. 난 피로 물체를 감싸서 무기로 만들 수 있거든. 보통은 내 피를 사용해. 적의 피는 너무 더럽고, 동료의 피는... 설령 너희들이 허락한다고 해도, 그렇게 하고 싶진 않아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_about_line01",
+   "title": {
+    "en": "Topic: Seš'qa",
+    "zh-TW": "話題：塞什卡",
+    "zh-CN": "话题：塞什卡",
+    "ja": "セシュカについて",
+    "ko": "세쉬카에 관하여"
+   },
+   "text": {
+    "en": "A hundred years ago, no one would have imagined that today, the sight of the Sarkazian city floating in the skies would stir not irritation, but a longing to visit and witness its witchcraft tricks. Seš'qa is a drifting feather with countless people carefully steering the winds. It is their wish that the cruising city serves as a tether for our land-dwelling kin and gives them hope.",
+    "zh-TW": "時間倒退百年，誰能想到，人們在薩卡茲的懸空城駛過天空時，第一反應不是厭惡，而是想去上面看場巫術把戲？塞什卡是一片在空中漂泊的羽毛，無數人小心翼翼地控制著風向，希望它在航行時，能連接地上的同胞，帶去希望。",
+    "zh-CN": "时间倒退百年，谁能想到，人们在萨卡兹的悬空城驶过天空时，第一反应不是厌恶，而是想去上面看场巫术把戏？塞什卡是片在空中漂泊的羽毛，无数人小心翼翼地控制着风向，希望它在航行时，能连接地上的同胞，带去希望。",
+    "ja": "100年前に戻ったとして、誰が想像できる？サルカズの浮遊都市が空を飛んだとき、人々の第一声は嫌悪ではなく「巫術ショーを見に行きたい」だったなど……セシュカは空を漂う一枚の羽根。無数の人が風向きを制し、地上の同胞とつながり、希望を届けることを願っている。",
+    "ko": "아마 백 년 전 사람들은 상상도 못 하겠지. 많은 사람이 하늘을 지나가는 살카즈의 공중 도시를 보며 혐오감이 아닌 주술 공연의 기대감을 품을 거라곤 말이야. 세쉬카는 꼭 하늘에서 떨어지는 깃털 같아. 수많은 이들이 바람의 방향을 조심스럽게 조절하며 항해하는 배가 지상의 형제들과 이어져 희망을 가져다주길 바라고 있으니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_about_line02",
+   "title": {
+    "en": "Topic: Warlord of the Wilds",
+    "zh-TW": "話題：荒地軍閥",
+    "zh-CN": "话题：荒地军阀",
+    "ja": "荒野の指導者について",
+    "ko": "황무지 군벌에 관하여"
+   },
+   "text": {
+    "en": "Jakub the Warlord of the Wilds... Yes, I saw him in person. Very few would mention his name nowadays. Personal hatred aside, I do not agree with his plan to shatter the Civilization Band. Yet I cannot deny his skills and extraordinary leadership. If Jakub Meissen did not fall, his Landbreakers might succeed in carving a bloody piece out of Talos-II.",
+    "zh-TW": "荒地軍閥雅各布……是的，我見過他。人們已經不太會提到這個名字了。即使撇開個人仇恨，我也不認同他要撕裂文明環帶的想法，但他的確有手腕，也有著非凡的號召力。如果雅各布·邁森沒有死去，裂地者也許真的能咬下塔衛二的一塊血肉。",
+    "zh-CN": "荒地军阀雅各布……是的，我见过他。人们已经不太会提到这个名字了。即使撇开个人仇恨，我也不认同他要撕裂文明环带的想法，可他的确有手腕，也有着非凡的号召力。如果雅各布·迈森没有死去，裂地者也许真能咬下塔卫二的一块血肉。",
+    "ja": "荒野の指導者ヤコブ……会ったことはある。最近は名前を口にする人間もいなくなった。個人的な感情を抜きにしても、文明地帯を崩壊に導こうとする考えは許容できるものではない。ただ、その手腕と非凡な才能は本物だ。もしヤコブ・マイセンが死んでいなかったら、ランドブレーカーは本当にタロⅡを引き裂いていたかもしれない。",
+    "ko": "황무지 군벌 제이컵... 난 그 사람을 본 적 있어. 사람들은 이제 그 이름을 잘 언급하지도 않지만 말이야. 개인적인 원한을 제쳐두더라도, 난 문명 밴드를 찢어버리겠다는 생각엔 동의할 수 없어. 뭐... 뛰어난 실력과 비범한 호소력을 지녔다는 건 인정하지만... 만약 제이컵 마이센이 죽지 않았다면, 랜드브레이커가 탈로스 II를 정말 물어뜯었을지도 모르겠네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_about_line03",
+   "title": {
+    "en": "Topic: Sibling",
+    "zh-TW": "話題：兄弟",
+    "zh-CN": "话题：兄弟",
+    "ja": "弟について",
+    "ko": "형제에 관하여"
+   },
+   "text": {
+    "en": "I am nothing like Char. But there were brief mental lapses when I saw his face in the mirror... I tried to mimic his nonchalant, cynical smirk, yet I still fail to understand his reasoning — how could he ignore the blood feud and join the bandits who killed our parents? The riddle gnaws at me, and I thirst for the truth.",
+    "zh-TW": "我跟查爾並不相似，但有時我照鏡子，卻會在恍惚間看到他的臉。為了理解他的想法……我嘗試模仿過他那種愜意、譏諷的微笑，卻還是無法理解他為什麼會拋下家族血仇，去追隨殺死我們父母的劫匪。這問題一直困擾著我，而我需要得到答案。",
+    "zh-CN": "我跟查尔并不相似，但有时我照镜子，却会在恍惚间看到他的脸。为了理解他的想法……我尝试模仿过他那种惬意、讥讽的微笑，却还是无法理解他为什么会抛下家族血仇，去追随杀死我们父母的劫匪。这问题一直困扰着我，而我需要得到答案。",
+    "ja": "私とシャールは似ていない。しかし時折、鏡の中で彼の顔が重なる……なんとか考えを理解しようと、皮肉めいた、あの嘲るような笑いを真似てみたこともあるが、理解などできるわけもなかった。なぜ復讐を捨て、両親を殺した賊に従うのか？疑念が纏わりついてくる……どうしても、答えが知りたい。",
+    "ko": "나랑 샤를은 별로 안 닮았어. 근데 가끔 거울을 볼 때면 왠지 모르게 녀석의 얼굴이 스칠 때가 있곤 해. 사실... 샤를의 생각을 이해해 보려고 녀석이 자주 짓는 여유로우면서도 비꼬는 듯한 미소를 따라 해보기도 하는데... 별 소용이 없었어. 어떻게 부모님을 죽인 원수의 하수인이 될 수 있는 거지? 이해할 수가 없어... 이 질문은 아직도 날 괴롭게 해. 난 꼭 그 답을 찾겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_about_line04",
+   "title": {
+    "en": "Topic: Keepers of Wisdom",
+    "zh-TW": "話題：看護人",
+    "zh-CN": "话题：看护人",
+    "ja": "番人について",
+    "ko": "수호자에 관하여"
+   },
+   "text": {
+    "en": "Few bear the title of \"Agaš'mekanaz\" — Char was the one who presented me a chance of becoming a Keeper. Crimes involving Sarkazian witchcraft are more easily solved by a kin... I am the one most privy to Char's Arts; and I alone can commit decades without rest to track him down. Making an enemy out of a loved one brings pain, yet we Keepers remain loyal to our charge. I am no exception.",
+    "zh-TW": "「看護人」是一種特殊且稀少的頭銜——查爾是我成為看護人的契機。案子涉及薩卡茲巫術時，具備親緣關係的人解決起來會更便利……就像我是最瞭解查爾源石技藝的人，也只有我有這樣的執念，能數十年如一日地進行追查。雖然與家人為敵會帶來痛苦，但絕大部分的看護人都選擇了忠於職責，我也不會是例外。",
+    "zh-CN": "“看护人”是一种特殊且稀少的头衔——查尔是我成为看护人的契机。案子涉及萨卡兹巫术时，具备亲缘关系的人解决起来会更便利……就像我是最了解查尔源石技艺的人，也只有我有这样的执念，能数十年如一日地进行追查。虽然与家人为敌会带来痛苦，但绝大部分的看护人都选择了忠于职责，我也不会是例外。",
+    "ja": "「番人」は特殊な役職で、人数も少ない。私が番人になったのはシャールがいたからだ……サルカズの巫術にかかわる事件は、血縁者による捜査が最も効率が良い。私はシャールのアーツを誰よりも理解していて、長期間の追跡に耐える執念を持つのも、私だけだ…。家族を追う苦痛はあれど、番人は忠実に職務を全うする者ばかり。もちろん、私も例外ではない……",
+    "ko": "'수호자'는 특별하면서도 드문 칭호야. 샤를은 내가 수호자가 된 계기였지. 살카즈의 주술과 관련된 사건은 혈연관계가 해결하는 게 더 수월하니까... 샤를의 오리지늄 아츠에 대해 가장 잘 아는 사람, 이런 집념으로 수십 년 동안 샤를을 쫓을 수 있는 사람... 오직 나뿐이거든. 가족을 적대한다는 건, 아주 고통스러운 일이지만... 대부분의 수호자는 자신의 책임을 우선할 거라고 생각해. 나도... 그렇고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_about_line05",
+   "title": {
+    "en": "Topic: Parents",
+    "zh-TW": "話題：父母",
+    "zh-CN": "话题：父母",
+    "ja": "両親について",
+    "ko": "부모님에 관하여"
+   },
+   "text": {
+    "en": "Led by the legendary Speaker, my parents arrived at Talos-II with many Sarkaz. They were the first members of Seš'qa and built the Lifebone... The Warlord of the Wilds killed them. I remember Mother being a gentle soul committed to fostering peace between the races... But Char claims he saw a different side of her that I do not know... No matter what the past holds, betrayal... is still betrayal.",
+    "zh-TW": "在那位大名鼎鼎的議長的帶領下，我的父母與薩卡茲同胞們一起來到了塔衛二。他們是塞什卡最初的成員，參與了生命脊椎的搭建……然後，被荒地軍閥殺死。我記憶中的母親是一位很溫柔的人，她致力於維護族群的和平，但在查爾的記憶中，她有著我不知道的另一面……可無論往事如何，管理員，背叛……就是背叛。",
+    "zh-CN": "在那位大名鼎鼎的议长的带领下，我的父母与萨卡兹同胞们一起来到了塔卫二。他们是塞什卡最初的成员，参与了生命脊椎的搭建……然后，被荒地军阀杀死。我记忆中的母亲是位很温柔的人，她致力于维护族群的和平，但在查尔的记忆中，她有着我不知道的另一面……可无论往事如何，管理员，背叛……就是背叛。",
+    "ja": "両親はあの名高き議長に導かれ、サルカズの同胞と共にタロⅡへやってきた。セシュカの初期メンバーであり、「ライフボーン」の建設にも加わった……そして、最期は荒野の指導者に殺された。記憶にある母は優しく、皆が穏やかに過ごせるよう尽力していた。ただ、シャールの中にはもう一つの顔があったらしい……過去がどうであれ、裏切りは……裏切りだ。",
+    "ko": "그 유명한 의장님을 따라서 우리 부모님은 살카즈의 형제들과 같이 탈로스 II로 왔어. 부모님은 세쉬카의 초기 구성원으로서 라이프 스파인의 건설에도 참여하셨지. 그리고... 황무지 군벌의 손에 목숨을 잃으셨어. 내 기억 속의 어머니는 아주 다정하셨고, 종족의 평화를 지키려 애쓰셨어. 근데... 샤를의 기억 속에는 내가 몰랐던 다른 모습이 있었던 거지. 하지만 과거가 어땠든, 배신은... 배신이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Follow those traces over there.",
+    "zh-TW": "追上那邊的痕跡。",
+    "zh-CN": "追上那边的痕迹。",
+    "ja": "痕跡を追おう。",
+    "ko": "저기 흔적을 쫓아가 보자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Those items are of significant value. Bringing them along will benefit our operation.",
+    "zh-TW": "那些東西很有價值，帶上它們，對行動有幫助。",
+    "zh-CN": "那些东西很有价值，带上它们，对行动有帮助。",
+    "ja": "有用な資源を確保しておけば、今後のためになる。",
+    "ko": "아주 가치 있는 물건들이야, 챙겨둬. 도움이 될 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "First rule for a Keeper, always take note of uncharted territory.",
+    "zh-TW": "看護人第一原則，留意未知的區域。",
+    "zh-CN": "看护人第一原则，留意未知的区域。",
+    "ja": "未知の領域には警戒せよ……番人の鉄則だ。",
+    "ko": "수호자의 첫 번째 원칙, 미지의 구역에 주의를 기울여라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Stay alert. That one carries the scent of blood.",
+    "zh-TW": "小心，那傢伙身上沾著血氣。",
+    "zh-CN": "小心，那家伙身上沾着血气。",
+    "ja": "血の匂いが漂っている。注意が必要だ。",
+    "ko": "조심해, 저 녀석한테서 진한 피 냄새가 나."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "These minerals give off quite a delightful ring.",
+    "zh-TW": "礦物的聲音很悅耳。",
+    "zh-CN": "矿物的声音很悦耳。",
+    "ja": "音色が心地よい……",
+    "ko": "광물 소리가 꽤 좋은걸."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Allow me. It will speed things up.",
+    "zh-TW": "交給我吧，加快速度。",
+    "zh-CN": "交给我吧，加快速度。",
+    "ja": "任せてもらえれば、すぐに終わらせる。",
+    "ko": "나한테 맡겨, 빠르게 처리해 줄게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "With action comes results.",
+    "zh-TW": "有行動，就會有回報。",
+    "zh-CN": "有行动，就会有回报。",
+    "ja": "行動を起こせば、見返りがあるものだ。",
+    "ko": "부지런한 행동에는 보답이 따르는 법이지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Aurylenes ... they too are pretty good at running away.",
+    "zh-TW": "醚質……也很擅長逃跑。",
+    "zh-CN": "醚质……也很擅长逃跑。",
+    "ja": "オーリレン……逃げ足の早い相手だ。",
+    "ko": "오리렌도... 꽤 잘 도망치네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "The blemish on this land has been cleared.",
+    "zh-TW": "大地的汙痕，清理完畢。",
+    "zh-CN": "大地的污痕，清理完毕。",
+    "ja": "大地の穢れを浄化した。",
+    "ko": "대지의 오염, 제거 완료."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Out of the deepest shadows, a drop of blood is drawn once more.",
+    "zh-TW": "自最深的黑暗中，奪回一滴血。",
+    "zh-CN": "自最深的黑暗中，夺回一滴血。",
+    "ja": "深淵の闇より、一滴の血を取り返した……",
+    "ko": "가장 깊은 어둠 속에서 한 방울의 피를 되찾은 기분이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Use these!",
+    "zh-TW": "用這些！",
+    "zh-CN": "用这些！",
+    "ja": "黙って使え。",
+    "ko": "이걸 써!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Life returns to the blood.",
+    "zh-TW": "生命在血中復甦。",
+    "zh-CN": "生命在血中复苏。",
+    "ja": "血の中で命が蘇る……",
+    "ko": "핏속에서 생명이 되살아나고 있어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Watch out!",
+    "zh-TW": "閃開！",
+    "zh-CN": "闪开！",
+    "ja": "避けろ！",
+    "ko": "피해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Till my last drop of blood...",
+    "zh-TW": "哪怕只剩一滴血……",
+    "zh-CN": "哪怕只剩一滴血……",
+    "ja": "たとえ、最後の一滴だろうと……",
+    "ko": "마지막 남은 피 한 방울이 마르더라도..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "The sea of blood... whispers its grief...",
+    "zh-TW": "血海……送來悲嘆……",
+    "zh-CN": "血海……送来悲叹……",
+    "ja": "血の海から……嘆きの声が迫り来る……",
+    "ko": "피의 파도가... 슬픔을 전해오고 있어..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "A brilliant move.",
+    "zh-TW": "這招漂亮。",
+    "zh-CN": "这招漂亮。",
+    "ja": "動きが洗練されている。",
+    "ko": "훌륭한 움직임이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Magnificent. My blood rises at the sight.",
+    "zh-TW": "了不起，我的血液在沸騰。",
+    "zh-CN": "了不起，我的血液在沸腾。",
+    "ja": "私の血まで騒ぎ出した。",
+    "ko": "괜찮네... 내 피까지 끓어오르는 느낌이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Just doing my duty.",
+    "zh-TW": "不算什麼。",
+    "zh-CN": "不算什么。",
+    "ja": "物の数にも入らない。",
+    "ko": "별거 아니야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "We achieved this together.",
+    "zh-TW": "是共同的努力。",
+    "zh-CN": "是共同的努力。",
+    "ja": "共に努力した結果だ。",
+    "ko": "다 함께 노력한 결과지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Struggle as you will.",
+    "zh-TW": "全力掙扎吧。",
+    "zh-CN": "全力挣扎吧。",
+    "ja": "足掻くだけ足掻け……",
+    "ko": "열심히 발버둥 쳐봐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "The only way is forward.",
+    "zh-TW": "唯有前進。",
+    "zh-CN": "唯有前进。",
+    "ja": "ただ、進むだけ……",
+    "ko": "후퇴는 없어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "The breeze carries away the iron tang of blood. Everything goes as planned.",
+    "zh-TW": "風吹散了鐵鏽的氣味，一切順利。",
+    "zh-CN": "风吹散了铁锈的气味，一切顺利。",
+    "ja": "風が鉄錆の味を消し去った……終わりだ。",
+    "ko": "바람이 녹슨 냄새를 날려버렸어, 모든 게 순조롭네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "A fine pursuit. Well executed.",
+    "zh-TW": "一次漂亮的追捕。",
+    "zh-CN": "一次漂亮的追捕。",
+    "ja": "美しい追跡だ。",
+    "ko": "깔끔한 추적이었어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Teamwork is not my strength. But this day marks an exception.",
+    "zh-TW": "我不擅長合作，但今天例外。",
+    "zh-CN": "我不擅长合作，但今天例外。",
+    "ja": "誰かと協力するのは……いや、今回は例外だ。",
+    "ko": "협력이란 거, 익숙하지가 않네. 그래도 오늘은 나쁘지 않았어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "Our blood was spilled, but the enemy paid for it tenfold. Completing the task ... is victory enough.",
+    "zh-TW": "我們流下了鮮血，敵人十倍奉還。任務完成……就是勝利。",
+    "zh-CN": "我们流下了鲜血，敌人十倍奉还。任务完成……就是胜利。",
+    "ja": "我々が流した血の10倍苦しみを与えた。任務完了……勝利だ。",
+    "ko": "우리도 피를 흘렸지만, 적들은 더 많은 피해를 입었으니 임무를 완수했다고 볼 수 있겠네. 그걸로 충분해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Bitter as this is, it is not the conclusion. A debt of blood must be repaid ... and our goal is still ahead.",
+    "zh-TW": "失敗苦澀，但一切尚未終結。以血還血，我們只有一個目標……前進。",
+    "zh-CN": "失败苦涩，但一切尚未终结。以血还血，我们只有一个目标……前进。",
+    "ja": "敗北の味は苦くとも、すべてが終わるわけではない。血は血で制す。我々の目的は……進むことだけ。",
+    "ko": "아직 끝나지 않았어. 피는 피로 갚아주지, 우린... 뒤돌아보지 않아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Too weak!",
+    "zh-TW": "僅此而已？",
+    "zh-CN": "仅此而已？",
+    "ja": "それだけか？",
+    "ko": "그게 다야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Pierce them!",
+    "zh-TW": "刺穿他們！",
+    "zh-CN": "刺穿他们！",
+    "ja": "貫く！",
+    "ko": "꿰뚫어 주지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Final mercy.",
+    "zh-TW": "賜予終結。",
+    "zh-CN": "赐予终结。",
+    "ja": "終焉を授けよう……",
+    "ko": "끝이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Death awaits.",
+    "zh-TW": "末日已至。",
+    "zh-CN": "末日已至。",
+    "ja": "破滅の訪れか……",
+    "ko": "종말을 선사하지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Writhe in pain.",
+    "zh-TW": "盡情掙扎。",
+    "zh-CN": "尽情挣扎。",
+    "ja": "抵抗しても無駄だ。",
+    "ko": "마음껏 발버둥 쳐봐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Witchcraft is ready.",
+    "zh-TW": "準備巫術反制。",
+    "zh-CN": "准备巫术反制。",
+    "ja": "巫術対策を。",
+    "ko": "주술 반격, 준비 완료."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Corner them.",
+    "zh-TW": "圍捕他們。",
+    "zh-CN": "围捕他们。",
+    "ja": "包囲する。",
+    "ko": "녀석들을 포위해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "There is no escape.",
+    "zh-TW": "你們無路可逃。",
+    "zh-CN": "你们无路可逃。",
+    "ja": "逃げ場はもうない。",
+    "ko": "도망칠 곳은 없어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Bleed forth, impurity.",
+    "zh-TW": "流淌吧，汙血。",
+    "zh-CN": "流淌吧，污血。",
+    "ja": "穢れた血よ……逝け。",
+    "ko": "더러운 피를 흘려라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Embrace your end.",
+    "zh-TW": "擁抱死亡吧。",
+    "zh-CN": "拥抱死亡吧。",
+    "ja": "死を受け入れろ。",
+    "ko": "죽음을 안겨주지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Pathetic fool.",
+    "zh-TW": "可悲。",
+    "zh-CN": "可悲。",
+    "ja": "哀れな……",
+    "ko": "가여운 것."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "O rain of crimson red...",
+    "zh-TW": "猩紅之雨啊……",
+    "zh-CN": "猩红之雨啊……",
+    "ja": "深紅の雨よ……",
+    "ko": "붉게 물든 비여..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Drown in endless night.",
+    "zh-TW": "墜入永夜吧。",
+    "zh-CN": "坠入永夜吧。",
+    "ja": "常夜に堕ちろ。",
+    "ko": "영원한 잠에 빠져라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0033_camille_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Sin ends with the pyre.",
+    "zh-TW": "罪行，終被焚毀。",
+    "zh-CN": "罪行，终被焚毁。",
+    "ja": "罪は業火で焼き払う！",
+    "ko": "모든 죄는 재가 되리라."
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0033_kamiu_13001",
+   "topic": {
+    "en": "Role of the Agaš'mekanaz",
+    "zh-TW": "看護人的工作",
+    "zh-CN": "看护人的工作",
+    "ja": "番人の仕事",
+    "ko": "수호자의 업무"
+   },
+   "lines": [
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Camille] is offline",
+      "zh-TW": "[卡繆]已離線",
+      "zh-CN": "[卡缪]已离线",
+      "ja": "「カミーユ」オフラインになりました",
+      "ko": "[카뮤] 오프라인"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Camille, haven't seen you on Baker for a while.",
+      "zh-TW": "卡繆，你好幾天沒有上線了。",
+      "zh-CN": "卡缪，你好几天没有上线了。",
+      "ja": "カミーユ、最近ずっとオフラインだけど……",
+      "ko": "카뮤, 며칠째 접속을 안 한 것 같던데."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Chief Logistics Office told me that your dorm room door registered zero entries and exits. Are you doing alright?",
+         "zh-TW": "總後勤辦事處的人說你的宿舍艙門一直沒有進出紀錄，你還好嗎？",
+         "zh-CN": "总后勤办事处的人说你的宿舍舱门一直没有进出记录，你还好吗？",
+         "ja": "後方支援部の担当者が、君の部屋はずっと出入りの記録がないって言っていたんだ。大丈夫？",
+         "ko": "총지원 부서에서 최근 네 숙소 선실의 출입 기록이 없다고 하던데, 별일 없는 거지?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Did something happen to you?",
+         "zh-TW": "難道你出什麼事了……",
+         "zh-CN": "难道你出什么事了……",
+         "ja": "もしかして、何かあったのかな……？",
+         "ko": "설마 무슨 일 생긴 건 아니지..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Camille] is ONLINE",
+      "zh-TW": "[卡繆]已上線",
+      "zh-CN": "[卡缪]已上线",
+      "ja": "「カミーユ」オンラインになりました",
+      "ko": "[카뮤] 온라인"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "Just saw your messages. Seš'qa found a difficult case. I had been assigned to it.",
+      "zh-TW": "剛看到訊息。塞什卡發現了一起棘手的案件，轉給我處理了。",
+      "zh-CN": "刚看到消息。塞什卡发现了一起棘手的案件，转给我去处理了。",
+      "ja": "今、メッセージを確認した。セシュカから、複雑な事件の処理を任されていた。",
+      "ko": "이제야 메시지를 확인했어. 세쉬카에서 까다로운 사건 하나를 내 쪽으로 넘겼거든."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Is that so? I heard Seš'qa uses prophecies to reveal jobs to the Keepers of Wisdom.",
+         "zh-TW": "原來是這樣。我聽說，塞什卡會透過預言向看護人揭示案件？",
+         "zh-CN": "原来是这样。我听说，塞什卡会通过预言向看护人揭示案件？",
+         "ja": "そうだったんだね。ところで、セシュカは予言を通じて番人に事件を知らせるって聞いたことがあるんだけど。",
+         "ko": "그랬구나. 세쉬카는 예언을 통해 수호자에게 사건을 알려준다고 들었는데, 맞아?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Is that so? I'm actually a little curious about the work of the Agaš'mekanaz.",
+         "zh-TW": "原來是這樣。話說，我有點好奇看護人的工作。",
+         "zh-CN": "原来是这样。说起来，我有些好奇看护人的工作。",
+         "ja": "そうだったんだね。ちなみに、番人の仕事に少し興味があるんだけど。",
+         "ko": "그랬구나. 말이 나와서 말인데, 수호자의 업무는 어떻게 진행되는 거야? 좀 궁금하네."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "The Agaš'mekanaz are few in number. We are only assigned to handle malicious incidents involving the Sarkaz. Of course, our main task is to expunge the sins of our kin.",
+      "zh-TW": "看護人席位稀少，只會在涉及薩卡茲的惡性事件發生時行動。當然，主要負責肅清血親的罪孽。",
+      "zh-CN": "看护人席位稀少，只会在涉及萨卡兹的恶性事件发生时行动。当然，主要负责肃清血亲的罪孽。",
+      "ja": "番人は数が少なく、サルカズに関わる凶悪事件が起きたときにだけ動く。同族の罪を粛清するために。",
+      "ko": "수호자는 워낙 수가 많지도 않은 데다, 살카즈가 연루된 중범죄 사건이 발생했을 때만 움직여. 물론, 주된 임무는 혈족의 죄업을 숙청하는 거고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "We do not wish to see another Warlord of the Wilds like Jakub Meissen. So, Seš'qa founded a special office to preempt such events. Witchcraft was used to create a predictive model for revealing a few possibilities.",
+      "zh-TW": "為了不讓荒地軍閥雅各布·邁森的事件重演，塞什卡成立了警戒部門，他們用巫術建立了預測模型，能窺見一些景象。",
+      "zh-CN": "为了不让荒地军阀雅各布·迈森的事件重演，塞什卡成立了警戒部门，他们用巫术建立了预测模型，能窥见一些景象。",
+      "ja": "荒野の指導者、ヤコブ・マイセン……同じことを繰り返さないために、セシュカは監視部門を立ち上げた。巫術で予測モデルを構築し、未来の光景をわずかに見ることができる。",
+      "ko": "황무지 군벌 제이컵 마이센 같은 사건이 다시 일어나는 것을 막기 위해, 세쉬카는 경계 부서를 세웠어. 그들은 주술로 예측 모델을 구축해서, 일부 장면을 미리 엿볼 수 있지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "If a terrible crime was observed, they would acquire a warrant for joint enforcement and transfer the case to an Agaš'mekanaz.",
+      "zh-TW": "如果觀測到嚴重的罪行，在取得聯合執法的許可後，案件會轉交到看護人手中。",
+      "zh-CN": "如果观测到严重的罪行，在取得联合执法的许可后，案件会转交到看护人手中。",
+      "ja": "重大な犯罪を確認した場合、合同執行の許可を得て、事件は番人に引き継がれる。",
+      "ko": "심각한 범죄가 관측되면, 공동 집행 허가가 내려오고 사건은 수호자에게 이관돼."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "But our actions are not dictated by the prophecy. Even the Cyclops of the past cannot claim omniscience nor omnipotence. Seš'qa has greater faith in field investigative work conducted by the Keepers of Wisdom.",
+      "zh-TW": "但我們的行動並不受預言的支配——即使是過去的獨眼巨人也並非全知全能，塞什卡更相信看護人的現場調查。",
+      "zh-CN": "但我们的行动并不受预言的支配——即使是过去的独眼巨人也并非全知全能，塞什卡更相信看护人的现场调查。",
+      "ja": "ただ、行動のすべてが予言に支配されているわけではない。過去のサイクロプスでさえ全知全能ではなかった……セシュカは番人が行う現場の捜査を信頼している。",
+      "ko": "하지만 우리의 행동이 예언에 지배되진 않아. 과거의 사이클롭스조차 전지전능하진 않았으니까... 그래서 세쉬카는 수호자의 현장 조사를 더 신뢰하지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "I also believe that if everything can be revealed, then destiny has no say in it. This is why we Agaš'mekanaz exist.",
+      "zh-TW": "我也認為，如果一切昭然若揭，就不能稱為命運。看護人正是因此而存在。",
+      "zh-CN": "我也认为，如果一切昭然若揭，就不能称为命运。看护人正是因此而存在。",
+      "ja": "すべてが明白なのだとしたら、それは運命ではない。だからこそ、番人が存在している。",
+      "ko": "나 역시 그렇게 생각해, 모든 게 처음부터 훤히 드러나 있다면, 그건 더 이상 운명이라고 할 수 없겠지. 수호자는 바로 그런 개연성 때문에 존재하는 거야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "So it turns out to be a preemptive measure... You're really working hard for Seš'qa.",
+         "zh-TW": "原來是一種防患於未然……你們為塞什卡付出了很多努力。",
+         "zh-CN": "原来是一种防患于未然……你们为塞什卡付出了很多努力。",
+         "ja": "事件を未然に防ぐ……君たちは、セシュカのために頑張っているんだね。",
+         "ko": "그러니까 일종의 대비책 같은 거구나... 수호자가 세쉬카를 위해 정말 많은 노력을 쏟아붓고 있다는 게 느껴져."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "A combination of preemption and investigation. That approach does sound pretty thorough.",
+         "zh-TW": "原來是預警與調查的結合，這樣確實會更縝密。",
+         "zh-CN": "原来是预警与调查的结合，这样确实会更缜密。",
+         "ja": "なるほど。監視と捜査の合わせ技ということなんだね。そのほうが、確実に進められそうだ。",
+         "ko": "예측과 현장 조사가 결합된 구조구나. 한층 더 치밀해진 건 틀림없겠네."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "The raising and lifting of Seš'qa were not easy. We must exercise constant vigilance.",
+      "zh-TW": "塞什卡建成不易，我們需要保持警覺。",
+      "zh-CN": "塞什卡建成不易，我们需要保持警觉。",
+      "ja": "セシュカの設立は簡単なものではなかった。だから、油断はできない。",
+      "ko": "세쉬카가 만들어지기까지 수많은 어려움이 있었던 만큼, 우리는 절대 경계를 늦출 수 없어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "The city was once \"The Stop\" floating in the sky, but it is now the \"home\" for the Sarkaz living on Talos-II.",
+      "zh-TW": "最初它只是在天空中漂泊的「歇腳地」，但現在已經是薩卡茲在塔衛二的「家」了。",
+      "zh-CN": "最初它只是在天空中漂泊的“歇脚地”，但现在已经是萨卡兹在塔卫二的“家”了。",
+      "ja": "ただ空を漂う「安らぎの地」から、今はタロⅡにおけるサルカズの「家」になっているのだから。",
+      "ko": "처음엔 하늘을 떠도는 그저 '걸음을 멈추는 곳'에 불과했지만, 지금은 탈로스 II의 살카즈에게 분명한 '집'이 되었으니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Where the floating city is moored doesn't really matter. What matters are the people around you, right?",
+      "zh-TW": "重要的不是懸空城停在哪裡，而是身邊的人，對吧？",
+      "zh-CN": "重要的不是悬空城停在哪里，而是身边的人，对吧？",
+      "ja": "大切なのは浮遊都市がどこにあるかよりも、誰がそばにいるか、だよね？",
+      "ko": "중요한 건 공중 도시가 어디에 머무느냐가 아니라, 곁에 누가 있느냐겠지, 안 그래?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "Yes. Home may mean many things, but it's based on one's personal opinions.",
+      "zh-TW": "嗯，家的意義千變萬化。一切只取決於自己的想法。",
+      "zh-CN": "嗯，家的意义千变万化。一切只取决于自己的想法。",
+      "ja": "ああ。「家」の意味は常に変わる。すべては自分自身がどう考えるか……",
+      "ko": "응, 집이라는 의미는 얼마든지 달라질 수 있어. 결국은, 스스로 어떻게 생각하느냐에 달렸지."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "So, do you treat Seš'qa as your home?",
+         "zh-TW": "對你來說，塞什卡是你的家嗎？",
+         "zh-CN": "对你来说，塞什卡是你的家吗？",
+         "ja": "君にとって、セシュカは自分の家なの？",
+         "ko": "너한테 있어서, 세쉬카는 집이야?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "What's your take on this? Which place would you call home?",
+         "zh-TW": "那你的想法呢？哪裡是你的家？",
+         "zh-CN": "那你的想法呢？哪里是你的家？",
+         "ja": "君自身はどう考えているのかな。自分の家はどこだと思う？",
+         "ko": "그럼 네 생각은 어떤데? 네 집은 어디라고 생각해?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "Seš'qa is my home. I do not doubt that, but...",
+      "zh-TW": "塞什卡是我的家，我從不懷疑這一點，但是……",
+      "zh-CN": "塞什卡是我的家，我从不怀疑这一点，但……",
+      "ja": "セシュカは私の家だ。それは間違いない。しかし……",
+      "ko": "세쉬카는 내 집이야. 그건 한 번도 의심한 적 없어. 하지만..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "I sold my house when my family left. After I became an Agaš'mekanaz, I spent less and less time in Seš'qa.",
+      "zh-TW": "家人都離開後，我賣掉了房子。承接看護人的職責後，留在塞什卡的時間也越來越短。",
+      "zh-CN": "家人都离开后，我卖掉了房子。承接看护人的职责后，留在塞什卡的时间也越来越短。",
+      "ja": "家族がいなくなり、私は家を売った。番人という身分になった後は、セシュカにいる時間はさらに短くなった。",
+      "ko": "난 가족들이 모두 떠난 뒤에 집을 팔았어. 수호자의 책임을 맡은 뒤로는 세쉬카에 머무는 시간이 점점 줄어들기도 했고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "Staying away from the traces of my past, or the familiar roads I knew since my childhood ... actually gave me peace.",
+      "zh-TW": "不去看一起生活過的痕跡，不去走童年時就熟悉的道路，我反而會……更平靜。",
+      "zh-CN": "不去看一起生活过的痕迹，不去走童年时就熟悉的道路，我反而会……更平静。",
+      "ja": "共に過ごした痕跡や、幼い頃から慣れ親しんだ道を目にしないほうが……心が落ち着く。",
+      "ko": "함께 생활했던 흔적을 보지 않고, 어릴 적 익숙했던 길을 걷지 않다 보니... 오히려 더 평온해질 수 있더라고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "Perhaps going off Baker caused a misunderstanding. Next time ... I will remember to toast you first.",
+      "zh-TW": "我這次離線造成了一些誤會？之後……我會記得打個招呼的。",
+      "zh-CN": "我这次离线造成了一些误会？之后……我会记得打个招呼的。",
+      "ja": "オフラインの時間が長く、誤解させてしまっただろうか。これからは、声を掛けるようにしよう。",
+      "ko": "이번에 오프라인 상태가 길어지는 바람에 조금 오해가 생긴 모양이네. 앞으로는... 미리 인사 정도는 해놓을게."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0033_kamiu_13002",
+   "topic": {
+    "en": "Present of the Agaš'mekanaz",
+    "zh-TW": "看護人的禮物",
+    "zh-CN": "看护人的礼物",
+    "ja": "番人のプレゼント",
+    "ko": "수호자의 선물"
+   },
+   "lines": [
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Camille] submitted a Leave Application to the HR Division",
+      "zh-TW": "[卡繆]已向人力資源事務部提交了一次休假申請",
+      "zh-CN": "[卡缪]已向人力资源事务部提交了一次休假申请",
+      "ja": "「カミーユ」人事部に休暇申請を提出しました",
+      "ko": "인력 자원 사무부에 [카뮤]의 휴가 신청서가 제출되었습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I got CC-d on your leave application. Keeper of Wisdom work?",
+      "zh-TW": "我已經收到你的請假申請副本了，這次也是看護人的工作？",
+      "zh-CN": "你的请假申请抄送给我了，这次也是看护人的工作？",
+      "ja": "君の休暇申請がCCで届いたよ。今回も番人の仕事？",
+      "ko": "네 휴가 신청서가 나한테도 참조로 왔더라, 이번에도 수호자 일 때문이야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "No. I'm heading to Seš'qa to transfer a few tasks. Need me bring you something?",
+      "zh-TW": "不，我回塞什卡交接事務。有什麼想要的嗎？",
+      "zh-CN": "不，我回塞什卡交接事务。有什么想要的吗？",
+      "ja": "いや、セシュカに戻り引き継ぎ業務を行うだけだ。何か必要なものがあれば、持って戻るが。",
+      "ko": "아니, 세쉬카에 돌아가서 인수인계할 일이 있어서. 뭐 갖고 싶은 거라도 있어?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Can I get a Sarkazian mask? The one with special wrappings and withered branches?",
+         "zh-TW": "幫我帶個有薩卡茲風格的面具？有繃帶跟枯枝那種。",
+         "zh-CN": "给我带个有萨卡兹风格的面具？有绷带跟枯枝那种。",
+         "ja": "サルカズ風のマスクをお願いしようかな。包帯とか、枯れ枝とかがついている感じの……",
+         "ko": "살카즈 느낌 나는 마스크가 있으면 사다 줄래? 붕대랑 마른 가지 같은 장식이 달린 걸로."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Camille",
+         "zh-TW": "卡繆",
+         "zh-CN": "卡缪",
+         "ja": "カミーユ",
+         "ko": "카뮤"
+        },
+        "text": {
+         "en": "I can't imagine how you'd look in that, but sure.",
+         "zh-TW": "……想像不出來你戴上的樣子，但聽你的。",
+         "zh-CN": "……想象不出你戴上的样子，但听你的。",
+         "ja": "……君が着けている姿を想像できない。だが、承知した。",
+         "ko": "...네가 그걸 쓰고 있는 모습은 잘 상상이 안 가지만 알겠어. 네가 원한다면."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Wait. I was just kidding...",
+         "zh-TW": "等一下，我只是在開玩笑……",
+         "zh-CN": "等一下，我只是在开玩笑……",
+         "ja": "ごめん、冗談で言ったつもりで……",
+         "ko": "아, 나 그냥 농담한 건데..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Camille",
+         "zh-TW": "卡繆",
+         "zh-CN": "卡缪",
+         "ja": "カミーユ",
+         "ko": "카뮤"
+        },
+        "text": {
+         "en": "Oh. Great. I was about to ask a fellow Keeper about the artisan who crafted his mask...",
+         "zh-TW": "好吧，我正要問旁邊的同僚，他的面具是哪位工匠打造的……",
+         "zh-CN": "好吧，我正要问旁边的同僚，他的面具是哪位工匠打造的……",
+         "ja": "そうか。今、同僚にその仮面はどの職人が作ったものなのか、聞こうとしてしていた。",
+         "ko": "그래? 마침 옆에 있는 동료한테 쓰고 있는 마스크를 만든 장인이 누군지 물어보려던 참이었는데..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "How about inviting a prestigious member of a Royal Court to Dijiang?",
+         "zh-TW": "不如邀請一位「高貴的王庭成員」來帝江號？",
+         "zh-CN": "不如邀请一位“高贵的王庭成员”来帝江号？",
+         "ja": "それなら「高貴な王庭のメンバー」を帝江号に招待してほしいな。",
+         "ko": "그럼, 물건보다는... '고귀한 왕정 일원' 한 명을 제강호에 초대해 주는 건 어때?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Camille",
+         "zh-TW": "卡繆",
+         "zh-CN": "卡缪",
+         "ja": "カミーユ",
+         "ko": "카뮤"
+        },
+        "text": {
+         "en": "A prestigious member of a Royal Court? But Seš'qa...",
+         "zh-TW": "「高貴的王庭成員」？但塞什卡……",
+         "zh-CN": "“高贵的王庭成员”？但塞什卡……",
+         "ja": "「高貴な王庭のメンバー」？だがセシュカには……",
+         "ko": "'고귀한 왕정 일원'? 하지만 세쉬카에 그런 인물은..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Camille",
+         "zh-TW": "卡繆",
+         "zh-CN": "卡缪",
+         "ja": "カミーユ",
+         "ko": "카뮤"
+        },
+        "text": {
+         "en": "I understand. You are looking for Operator Last Rite. I shall escort Her Highness to Dijiang as soon as I can.",
+         "zh-TW": "你說的是別禮幹員？我會儘快護送她返回帝江號。",
+         "zh-CN": "你说的是别礼干员？我会尽快护送她返回帝江号。",
+         "ja": "ラストライトか？わかった。できるだけ早く、彼女を帝江号に帰還させる。",
+         "ko": "라스트 라이트 오퍼레이터를 말하는 건가? 최대한 빨리 제강호까지 호위하도록 하지."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Wait! I was just kidding. Don't actually do that!",
+         "zh-TW": "等等！我開玩笑的，你不要真的去抓她啊！",
+         "zh-CN": "等等！我开玩笑的，你别真的去抓她啊！",
+         "ja": "待って、冗談だから！本当にやらなくていいよ！",
+         "ko": "잠깐! 농담이었어, 진짜로 잡으러 가지 마!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Camille",
+         "zh-TW": "卡繆",
+         "zh-CN": "卡缪",
+         "ja": "カミーユ",
+         "ko": "카뮤"
+        },
+        "text": {
+         "en": "I'm already on my way...",
+         "zh-TW": "……已經在去的路上了。",
+         "zh-CN": "……已经在去的路上了。",
+         "ja": "……もう、向かわせた。",
+         "ko": "...이미 가는 중이야."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Seš'qa Open Day is really famous. I heard about the fireworks for the opening and closing ceremonies... Can I get some of those?",
+         "zh-TW": "塞什卡的開放日很有名，聽說開幕和落幕的時候會放煙火……幫我帶煙火吧！",
+         "zh-CN": "塞什卡的开放日很有名，听说开幕和落幕的时候会放烟花……给我带一朵烟花吧！",
+         "ja": "セシュカの開放日は有名だよね。開幕と閉幕に花火を打ち上げるって聞いたけど……花火を1つ持って帰ってきてほしい！",
+         "ko": "세쉬카 오픈 데이가 정말 유명하잖아. 개막이랑 폐막할 때 불꽃놀이도 한다고 들었는데... 불꽃 한 송이만 가져다줄 수 있어?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Camille",
+         "zh-TW": "卡繆",
+         "zh-CN": "卡缪",
+         "ja": "カミーユ",
+         "ko": "카뮤"
+        },
+        "text": {
+         "en": "Sure.",
+         "zh-TW": "好。",
+         "zh-CN": "行。",
+         "ja": "ああ。",
+         "ko": "알겠어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Wait. I was just kidding ... but you sure you can get your hands on the fireworks?",
+         "zh-TW": "我是開玩笑的……但真的能帶嗎？",
+         "zh-CN": "我是开玩笑的……但真的能带吗？",
+         "ja": "ええと、冗談のつもりだったけど……本当に持って来られる？",
+         "ko": "농담이었는데... 진짜로 가져올 수 있어?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Camille",
+         "zh-TW": "卡繆",
+         "zh-CN": "卡缪",
+         "ja": "カミーユ",
+         "ko": "카뮤"
+        },
+        "text": {
+         "en": "I can get a small sparkling stick. I can also try getting you something they fired off, but I doubt that I could get anything more than a handful of bright ash.",
+         "zh-TW": "可以買小一點的仙女棒。如果你想要那種已經發射出去的，可以試試，但大概只能帶回一捧明亮的灰燼。",
+         "zh-CN": "可以买便携的烟花棒。如果你想要那种已经发射出去的，可以试试，但大概只能带回一捧明亮的灰烬。",
+         "ja": "携帯用の手持ち花火なら買える。打ち上げたものがほしいなら試してみるが、明るい灰をひと握り持ち帰れるかどうか……",
+         "ko": "휴대용 스파클러 정도는 사 갈 수 있어. 이미 쏘아 올린 그 불꽃을 원한다면 시도는 해볼 수 있겠지만, 아마 가져가는 건 눈부신 재 한 줌뿐이겠지."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "If there's nothing else, I can bring you a set of witchcraft puzzle. Our witch-crafters do make quite interesting things.",
+      "zh-TW": "如果沒什麼其他想要的，我帶一幅巫術拼圖回來？專業巫術工匠的作品很有趣。",
+      "zh-CN": "如果没什么其他想要的，我带一幅巫术拼图回来？专业巫术工匠的作品很有趣。",
+      "ja": "他に希望がないなら、巫術パズルはどうだろうか。専門の巫術職人が作った作品はなかなか面白いところがある。",
+      "ko": "다른 원하는 게 없다면, 주술 퍼즐 하나 가져다줄까? 전문 주술 장인의 작품은 꽤 흥미롭거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "Touching a puzzle piece grants your fingertips temporary invisibility. Misplacing a piece might also trigger an Originium Arts...",
+      "zh-TW": "碰到拼圖後，手指會暫時變得透明……又或者每拼錯一格，就觸發一個源石技藝……",
+      "zh-CN": "碰到拼图后，手指会暂时变得透明……又或者每拼错一格，就触发一个源石技艺……",
+      "ja": "パズルに振れると、一時的に指が透明になるもの、間違えるたびにアーツが発動するもの……",
+      "ko": "퍼즐을 건드리면 손가락이 잠시 투명해지기도 하고... 아니면 한 칸 틀릴 때마다 오리지늄 아츠가 발동되기도 해..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Wait, are you saying that you're going to ... give me a present?",
+      "zh-TW": "你的意思是……想送我一份禮物？",
+      "zh-CN": "你的意思是……想送我一份礼物？",
+      "ja": "もしかして、プレゼントを贈りたいと思ってくれているのかな。",
+      "ko": "그 말은... 나한테 선물을 주고 싶다는 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "I'm unsure if \"present\" is a proper term for this.",
+      "zh-TW": "我不確定該不該用「禮物」這個詞。",
+      "zh-CN": "我不确定该不该用“礼物”这个词。",
+      "ja": "「プレゼント」という言葉を使って良いかは、迷うところだ……",
+      "ko": "이걸 '선물'이라고 해도 될지 모르겠네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "This term is linked with departure and absence. Everyone who gave me a present eventually left.",
+      "zh-TW": "這個詞語總是伴隨著離別。送過我禮物的人，最後都踏上了離開我的路。",
+      "zh-CN": "这个词语总是伴随着离别。送过我礼物的人，最后都踏上了离开我的路。",
+      "ja": "その言葉は常に別れと共にある。プレゼントと共に、皆離れていった……",
+      "ko": "그 단어는 늘 이별을 동반하더군. 내게 선물을 줬던 사람들은 결국 전부, 나를 떠나는 길을 택했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "It seems like a prophecy specific to my being. I do not wish to see a day when you'd do the same thing.",
+      "zh-TW": "像是某種只有在我身上才會實現的預言，而我不希望哪一天，你跟我也會這樣。",
+      "zh-CN": "像是某种只有在我身上才会实现的预言，而我不希望哪一天，你跟我也会这样。",
+      "ja": "私だけに与えられた予言ではと思ってしまう。いつか、君ともそうなるかもしれない……いや、そうならないことを願っているが。",
+      "ko": "마치 나한테만 실현되는 어떤 예언처럼 말이지... 하지만 언젠가 너와 나도 그렇게 되는 건... 바라지 않아."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Are you worried a day would come when you choose to leave Endfield?",
+         "zh-TW": "你擔心總有一天，自己會選擇離開終末地？",
+         "zh-CN": "你担心总有一天，自己会选择离开终末地？",
+         "ja": "いつか、君自身がエンドフィールドを離れることを選ぶんじゃないかって心配しているの？",
+         "ko": "언젠가 네가 스스로 엔드필드를 떠나게 될까 봐 걱정하는 거야?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Camille",
+         "zh-TW": "卡繆",
+         "zh-CN": "卡缪",
+         "ja": "カミーユ",
+         "ko": "카뮤"
+        },
+        "text": {
+         "en": "I have said this to you. My blood will always be with you.",
+         "zh-TW": "我說過，我的血與你同在。",
+         "zh-CN": "我说过，我的血与你同在。",
+         "ja": "言ったはずだ。私の血は君と共にあると。",
+         "ko": "말했잖아. 내 피는 항상 너와 함께한다고."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Actually, I've already offered you quite a few gifts on Dijiang.",
+         "zh-TW": "在帝江號上，我也送過你一些東西。",
+         "zh-CN": "在帝江号上，我也送过你一些东西。",
+         "ja": "{F}帝江号で、私も君にプレゼントを贈ったことがあるよ。{M}帝江号で、僕も君にプレゼントを贈ったことがあるよ。",
+         "ko": "나도 전에 제강호에서 너한테 선물한 적이 있잖아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Camille",
+         "zh-TW": "卡繆",
+         "zh-CN": "卡缪",
+         "ja": "カミーユ",
+         "ko": "카뮤"
+        },
+        "text": {
+         "en": "But I know you ... will never leave.",
+         "zh-TW": "但是我知道你……不會離開。",
+         "zh-CN": "但我知道你……不会离开。",
+         "ja": "だが君は……離れていかないとわかっている。",
+         "ko": "하지만 너는... 떠나지 않을 거라는 걸 알아."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "This means everything's okay.",
+      "zh-TW": "那就沒關係了。",
+      "zh-CN": "那就没关系了。",
+      "ja": "それなら、問題ないよね。",
+      "ko": "그럼 상관없지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "Perhaps I am over-complicating things. If I give a friend something, then \"present\" should be its proper name.",
+      "zh-TW": "或許我想得太複雜了。我想送一件東西給朋友，它就應該被稱為「禮物」。",
+      "zh-CN": "或许我想得太复杂了。我想送件东西给朋友，它就该被称为“礼物”。",
+      "ja": "深く考えすぎていたか……友に何かを贈るなら、それは「プレゼント」と呼ぶべきだろう。",
+      "ko": "응, 어쩌면 내가 너무 복잡하게 생각한 것 같아. 친구에게 무언가를 주고 싶다면, 그건 '선물'이라고 불려야 마땅하겠지."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "There's this saying: What's important is the person who gave you the present, and not the act of gifting itself.",
+         "zh-TW": "還是那句話，重要的是送你禮物的人，而不是贈送的行為。",
+         "zh-CN": "还是那句话，重要的是送你礼物的人，而不是赠送的行为。",
+         "ja": "結局、大切なのはプレゼントを贈ってくれる人で、贈るっていう行為じゃないんだ。",
+         "ko": "전에도 말했지만, 중요한 건 선물이라는 행위보다 그걸 건네는 사람이야."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Although people might go their separate ways, the intent carried by the gift is real. It won't fade away and leave only sadness behind.",
+         "zh-TW": "即使某天會分離，禮物承載的心意也不是假的，不會只剩難過的回憶。",
+         "zh-CN": "即使某天会分离，礼物承载的心意也不是假的，不会只剩难过的回忆。",
+         "ja": "もしいつか離ればなれになっても、プレゼントに込められた気持ちに嘘はない。悲しい思い出だけが残るわけじゃない。",
+         "ko": "언젠가 헤어지는 날이 오더라도, 그 안에 담긴 마음까지 거짓이 되는 건 아니야. 슬픈 기억만 남는 것도 아니고."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "Hmm. Every time I feel I learned enough about you, you'd surprise me with something entirely new.",
+      "zh-TW": "每次我覺得足夠瞭解你時，你都會給我帶來全新的感受。",
+      "zh-CN": "每次我觉得足够了解你时，你都会给我带来全新的感受。",
+      "ja": "君のことを理解したと思うたびに……君はまた新しい姿を見せてくれるな。",
+      "ko": "널 충분히 이해하고 있다고 느낄 때마다, 넌 또 이렇게 새로운 감정을 안겨주는구나."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "Purple Flash, Pale Laurel, or perhaps the latest Protocol Automation-Core... But since this is a present, I will pick the picture for the puzzle.",
+      "zh-TW": "「紫閃」、「蒼白花冠」，或者最新款的「協議核心」……既然是禮物，我自己挑選圖案吧。",
+      "zh-CN": "“紫闪”“苍白花冠”，或者最新款的“协议核心”……既然是礼物，我自己挑选图案吧。",
+      "ja": "「紫閃光」か「蒼白き花冠」、最新の「協約核心」……プレゼントなのだから、柄は私が選ぼう。",
+      "ko": "'보랏빛 섬광', '창백의 화관', 아니면 최신형 '프로토콜 코어'... 선물인 만큼, 내가 직접 골라볼게."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I shall look forward to the present!",
+      "zh-TW": "我會期待你的禮物的！",
+      "zh-CN": "我会期待你的礼物的！",
+      "ja": "君のプレゼント、楽しみにしているよ。",
+      "ko": "응, 네 선물 기대하고 있을게!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "And I shall be back aboard Dijiang before this day ends.",
+      "zh-TW": "今天內，我會返回帝江號。",
+      "zh-CN": "今天内，我会返回帝江号。",
+      "ja": "今日中に、帝江号に戻ろうと思う。",
+      "ko": "오늘 안으로 제강호로 돌아갈게."
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Camille] is offline",
+      "zh-TW": "[卡繆]已離線",
+      "zh-CN": "[卡缪]已离线",
+      "ja": "「カミーユ」オフラインになりました",
+      "ko": "[카뮤] 오프라인"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0033_kamiu_13003",
+   "topic": {
+    "en": "A Stop for the Agaš'mekanaz",
+    "zh-TW": "看護人的歇腳地",
+    "zh-CN": "看护人的歇脚地",
+    "ja": "番人の安らぎの地",
+    "ko": "수호자의 걸음을 멈추는 곳"
+   },
+   "lines": [
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Camille] is typing...",
+      "zh-TW": "[卡繆]輸入中",
+      "zh-CN": "[卡缪]输入中",
+      "ja": "「カミーユ」入力中",
+      "ko": "[카뮤] 입력 중"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Got a feeling you haven't submitted leave applications for quite a while.",
+      "zh-TW": "感覺我有一段時間沒有收到你的請假申請了。",
+      "zh-CN": "感觉我有一段时间没有收到你的请假申请了。",
+      "ja": "君からの休暇申請は、随分久しぶりだね。",
+      "ko": "그러고 보니 한동안 네 휴가 신청서를 못 받은 것 같네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "Leave? No. I'm actually trying to type something.",
+      "zh-TW": "請假？不，我在傳訊息給你。",
+      "zh-CN": "请假？不，我在给你发消息。",
+      "ja": "休暇？いや、君にメッセージを送ろうと思った。",
+      "ko": "음? 휴가 신청이 아니라, 지금 너한테 메시지 보내는 중이었어."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I didn't notice you're typing a toast. I thought you went offline again.",
+         "zh-TW": "我都沒注意到是輸入中，還以為你又下線了。",
+         "zh-CN": "我都没注意到是输入中，还以为你又离线了。",
+         "ja": "入力中だったんだね。また、オフラインになったかと思ったよ。",
+         "ko": "입력 중인 줄도 몰랐네. 난 또 오프라인된 줄 알았어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You're toasting me? You hardly do that. You want to tell me something?",
+         "zh-TW": "你很少主動傳訊息給我，有事想說？",
+         "zh-CN": "很少见你主动给我发消息，有事想说？",
+         "ja": "君がメッセージをくれるなんて珍しいね。何か話でもあったのかな。",
+         "ko": "네가 먼저 이렇게 연락하는 건 드문데... 무슨 일이라도 있어?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "I am confused about something. I want to discuss it with you.",
+      "zh-TW": "有件事讓我很困惑，想跟你聊聊。",
+      "zh-CN": "有件事让我很困惑，想跟你聊聊。",
+      "ja": "少し困惑というべきか……君に話したかった。",
+      "ko": "나를 좀 혼란스럽게 하는 일이 있어서, 너랑 이야기해 보고 싶었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "I ... I have not been dreaming recently. In the past, whenever I close my eyes, I would dream about being trapped in my childhood home with no exit in sight.",
+      "zh-TW": "最近……我一直沒有做夢。之前一閉上眼睛，我就會夢到自己被困在年幼時的家裡，找不到出口。",
+      "zh-CN": "最近……我一直没有做梦。之前一阖上眼帘，我就会梦到自己被困在年幼时的家里，找不到出口。",
+      "ja": "最近、夢を見ていない。以前は目を閉じるたび、幼い頃過ごした家に閉じ込められ、出口が見つからない夢を見ていたが……",
+      "ko": "최근 들어... 꿈을 꾸지 않게 됐어. 전에는 눈을 감기만 하면 어린 시절의 집에 갇혀서, 출구를 찾지 못하는 꿈을 꾸곤 했거든."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Hmm. Maybe the bed isn't comfy enough for you. Want to swap it for a hanging coffin?",
+         "zh-TW": "難道是床睡起來不舒服？要不要換成懸棺？",
+         "zh-CN": "难道是床睡着不舒服？要不要换成悬棺？",
+         "ja": "もしかして、ベッドが合っていないのかもしれないよ。ハンモック式の棺桶に換えようか？",
+         "ko": "혹시 침대가 불편해서 그래? 거꾸로 매달린 관으로 바꿔줄까?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Camille",
+         "zh-TW": "卡繆",
+         "zh-CN": "卡缪",
+         "ja": "カミーユ",
+         "ko": "카뮤"
+        },
+        "text": {
+         "en": "Some Vampires do sleep in those, but I have not tried it before. However, the bunks of Dijiang do lean towards the softer side.",
+         "zh-TW": "有些血魔會這麼做，但我從來沒有睡過懸棺。不過，帝江號的床的確更軟一點。",
+         "zh-CN": "有些血魔会这么做，但我从来没睡过悬棺。不过，帝江号的床确实更软一些。",
+         "ja": "そういうものを好むブラッドブルードもいるが、私は経験したことがない。ただ、帝江号のベッドは確かに少し柔らかい……",
+         "ko": "뱀파이어 중에는 그렇게 자는 이들도 있긴 하지만, 난 한 번도 매달린 관에서 자본 적은 없어. 근데 제강호의 침대가 유독 더 푹신한 건 사실이야."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You got a very keen sense of hearing. The sound of operating machinery might be too noisy for you.",
+         "zh-TW": "我記得你的聽覺很靈敏，是機械運作的聲音吵到你了？",
+         "zh-CN": "我记得你的听觉很灵敏，是机械运行的声音吵到你了？",
+         "ja": "君は耳がいいから、機械の稼働音が気になったのかな。",
+         "ko": "너 청각이 예민한 편이잖아. 혹시 기계 돌아가는 소리 때문에 그런 거 아니야?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Camille",
+         "zh-TW": "卡繆",
+         "zh-CN": "卡缪",
+         "ja": "カミーユ",
+         "ko": "카뮤"
+        },
+        "text": {
+         "en": "No. Seš'qa is even louder when it cruises in the skies. It is far noisier than Dijiang.",
+         "zh-TW": "不，塞什卡飛行時，遠比帝江號更嘈雜。",
+         "zh-CN": "不，塞什卡飞行时，远比帝江号更嘈杂。",
+         "ja": "いや、セシュカの飛行時の音は、こんなものではない。",
+         "ko": "아니. 세쉬카가 비행할 때는 제강호보다 훨씬 더 시끄러워."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Perhaps some operators are too noisy. I know a few of them who stay up really late.",
+         "zh-TW": "難道是其他幹員太吵了？我記得有些人很晚才睡。",
+         "zh-CN": "难道是其他干员太吵了？我记得有些人睡得很晚。",
+         "ja": "オペレーターたちがうるさかったかもしれない……夜遅くまで起きている人もいるから。",
+         "ko": "혹시 다른 오퍼레이터들이 너무 시끄럽게 구는 거 아니야? 늦게 자는 사람들도 꽤 있거든."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Camille",
+         "zh-TW": "卡繆",
+         "zh-CN": "卡缪",
+         "ja": "カミーユ",
+         "ko": "카뮤"
+        },
+        "text": {
+         "en": "No. I believe I am the one who stays up the longest.",
+         "zh-TW": "沒有，我想我是最晚的那一批了。",
+         "zh-CN": "没有，我想我是最晚的那一批了。",
+         "ja": "いや、むしろ一番遅くまで起きているのは私だ。",
+         "ko": "그건 아니야. 그리고 아마 내가 가장 늦게 자는 편일 거야."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Wait. I just realized it. You used to have recurring nightmares. Not dreaming anymore means your sleep quality has improved.",
+      "zh-TW": "等等，我才反應過來，從做噩夢到不做夢，你的睡眠品質是提高了啊。",
+      "zh-CN": "等等，我才反应过来，从做噩梦到不做梦，你的睡眠质量是提高了啊。",
+      "ja": "待って、今気づいたんだけど……悪夢を見なくなったってことは、睡眠の質が上がったっていうことなんじゃないかな。",
+      "ko": "잠깐, 생각해 보니까... 악몽을 꾸다가 안 꾸게 된 거면, 오히려 수면의 질이 좋아진 거잖아?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I get weird dreams every now and then, but sleeping on Dijiang does feel a lot better.",
+      "zh-TW": "有時我也會做奇怪的夢。但在帝江號上，我的睡眠品質會比在其他地方更好。",
+      "zh-CN": "有时我也会做奇怪的梦。但在帝江号上，我的睡眠质量会比其他地方更好。",
+      "ja": "{F}私も時々変な夢を見るよ。でも帝江号にいると、他の場所よりよく眠れるんだ。{M}僕も時々変な夢を見るよ。でも帝江号にいると、他の場所よりよく眠れるんだ。",
+      "ko": "나도 가끔 이상한 꿈을 꾸긴 해. 그래도 제강호에서는 다른 곳보다 훨씬 잘 자게 되더라고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I guess it's because Dijiang is my \"home\" and makes me feel safer. Perhaps you're feeling the same thing on the ship.",
+      "zh-TW": "因為這裡是我的「家」，身處其中總是會更安心。帝江號給了你類似的感受嗎？",
+      "zh-CN": "因为这里是我的“家”，身处其中总是会更安心。帝江号给了你类似的感受吗？",
+      "ja": "ここは「家」だから、安心できるんだと思う。君にとっても、帝江号はそんな場所になれたのかな。",
+      "ko": "여기가 내 '집'이니까, 이 안에 있으면 자연스럽게 마음이 놓이거든. 어쩌면 제강호가 너에게도 비슷한 느낌을 주는 건 아닐까?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "After I became an Agaš'mekanaz, I was constantly traveling to new mission sites. I hardly stayed in one place for more than a week.",
+      "zh-TW": "成為看護人後，我總是在執行任務的路上，很少在某處停留超過一週。",
+      "zh-CN": "成为看护人后，我总是在执行任务的路上，很少在某处停留超过一周。",
+      "ja": "番人になってからは、常に任務のために動いていた。同じ場所に1週間以上留まることも稀だった。",
+      "ko": "수호자가 된 후로 난 늘 임무를 쫓아 이동했어. 한곳에 일주일 이상 머무는 일도 거의 없었지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "I treated Dijiang as one of my many safe houses. I never expected the place to become anything else.",
+      "zh-TW": "帝江號對我來說只是許多安全屋中的一處，我從沒想過它也會對我產生意義。",
+      "zh-CN": "帝江号对我来说只是许多安全屋中的一处，我从没想过它也会对我产生意义。",
+      "ja": "帝江号はセーフハウスの1つ……特別な意味のある場所になるとは、思っていなかった……",
+      "ko": "나한테 있어서, 제강호는 그저 수많은 안전 가옥 중 하나였어. 이곳이 나한테도 의미를 갖게 될 거라고는 생각해 본 적도 없었고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "At first, I came to Endfield because I wanted to repay your trust.",
+      "zh-TW": "最開始我只是想回應你的信賴，抱著這種想法來到了終末地。",
+      "zh-CN": "最开始我只是想回应你的信赖，抱着这种想法来到了终末地。",
+      "ja": "最初は、君の信頼に応えたいという思いだけを持って、エンドフィールドに来た。",
+      "ko": "처음에는 그저 네 믿음에 응답하고 싶다는 마음으로 엔드필드에 왔을 뿐이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "But now, I hesitate whenever I leave ... and I feel a constant urge to return.",
+      "zh-TW": "但是現在，我卻有種難以離開……與想要回來的感受。",
+      "zh-CN": "但现在，我却有种难以离开……与想要回来的感受。",
+      "ja": "だが今は、離れがたく……ここに帰りたいと思うようになっている。",
+      "ko": "그런데 지금은... 쉽게 떠나기 힘들고... 다시 돌아오고 싶다는 감정이 생겨버렸어."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I believe it's the Endfield community. They're good people and good people grow on you.",
+         "zh-TW": "我想是因為帝江號上的大家，他們都是很好的人。",
+         "zh-CN": "我想是因为帝江号上的大家，他们都是很好的人。",
+         "ja": "帝江号の皆のおかげかもしれないね。いい人ばかりだから。",
+         "ko": "아마 제강호의 모두 때문일 거야. 다들 좋은 사람들이니까."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I think it's you. You learned how to open up and join the community, and the community responded in kind.",
+         "zh-TW": "我想是因為你打開了心扉，主動融入了這裡，而大家也給予了你回應。",
+         "zh-CN": "我想是因为你打开了心扉，主动融入了这里，而大家也给予了你回应。",
+         "ja": "君が自分から心を開いたから、皆もそれに応えてくれたんだね。",
+         "ko": "네가 마음을 열고 이곳에 스며들었고, 여기 사람들 역시 그 마음에 답해 준 덕분이겠지."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "So it's not the location, but the people who matter?",
+      "zh-TW": "重要的不是地點，而是身邊的人？",
+      "zh-CN": "重要的不是地点，而是身边的人？",
+      "ja": "つまり、大切なのは場所ではなく、人だと？",
+      "ko": "...중요한 건 장소가 아니라 곁에 있는 사람이다?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I'm glad that we have become another \"stop\" for you, a home that you can return.",
+      "zh-TW": "我很開心這裡能成為你的另一個「歇腳地」，一個能回來的家。",
+      "zh-CN": "我很开心这里能成为你的另一个“歇脚地”，一个能回来的家。",
+      "ja": "ここがもう1つの「安らぎの地」として、帰ってこられる「家」になったなら、嬉しいよ。",
+      "ko": "이곳이 네가 '걸음을 멈출 수 있는 또 다른 쉼터'가 될 수 있어서, 언제든 돌아올 수 있는 집이 될 수 있어서... 진심으로 기뻐."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "......",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "When I sold the house at Seš'qa, I believed that I no longer required a place to head back to.",
+      "zh-TW": "我賣掉塞什卡的房子時，曾以為自己不再需要一個能回去的地方。",
+      "zh-CN": "我卖掉塞什卡的房子时，曾以为自己不再需要一个能回去的地方。",
+      "ja": "セシュカの家を売ったとき、もう帰る家など必要ないと思っていた。",
+      "ko": "세쉬카의 집을 팔았을 때는, 더는 돌아갈 곳 같은 건 필요 없다고 생각했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "You taught me otherwise. I learned to admit the existence of my loneliness and my preference for good company... It proved easier than I thought.",
+      "zh-TW": "但是你讓我明白，承認自己覺得孤獨，想跟其他人待在一起……沒想像中那麼難。",
+      "zh-CN": "但你让我明白，承认自己觉得孤独，想跟其他人待在一起……没想象中那么难。",
+      "ja": "しかし、君のおかげでわかった。孤独を、誰かと共に在りたいと思う心を認めることは……想像していたより、難しいものではない。",
+      "ko": "그런데 네 덕분에 알게 됐어... 내가 외롭다는 걸 인정하고, 누군가와 함께 있고 싶어 한다는 걸 받아들이는 건... 생각보다 어렵지 않다는 걸 말이야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "When you got a mission to run, toast me on Baker. Don't just run off without a sound. And try to get back quickly.",
+         "zh-TW": "那你下次再離開帝江號，不要一聲不吭。然後，早點回來。",
+         "zh-CN": "那你下次再离开帝江号，不要一声不吭。然后，早点回来。",
+         "ja": "次に帝江号を離れるときは、声をかけてくれると嬉しいよ。それから、早く帰ってきてね。",
+         "ko": "그럼 다음에 제강호를 떠날 땐, 아무 말 없이 사라지진 마. 그리고... 너무 늦지 않게 돌아오고..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Endfield is always here for you.",
+         "zh-TW": "終末地會一直歡迎你回來的。",
+         "zh-CN": "终末地会一直欢迎你回来的。",
+         "ja": "エンドフィールドはいつでも君の帰りを待っているから。",
+         "ko": "엔드필드는 언제든 네가 돌아오길 기다리고 있어."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Camille] is offline",
+      "zh-TW": "[卡繆]已離線",
+      "zh-CN": "[卡缪]已离线",
+      "ja": "「カミーユ」オフラインになりました",
+      "ko": "[카뮤] 오프라인"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Camille] is online",
+      "zh-TW": "[卡繆]已上線",
+      "zh-CN": "[卡缪]已上线",
+      "ja": "「カミーユ」オンラインになりました",
+      "ko": "[카뮤] 온라인"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Camille",
+      "zh-TW": "卡繆",
+      "zh-CN": "卡缪",
+      "ja": "カミーユ",
+      "ko": "카뮤"
+     },
+     "text": {
+      "en": "Of course. I will be back.",
+      "zh-TW": "嗯，我會回來的。",
+      "zh-CN": "嗯，我会回来的。",
+      "ja": "ああ、ここに帰ってくる。",
+      "ko": "응, 너무 늦진 않을게."
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 0
+}

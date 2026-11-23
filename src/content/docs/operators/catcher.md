@@ -45,6 +45,8 @@ sources:
 
 Catcher is the youngest yet remarkably mature member of Endfield's Operations Team Z7, drawing on his military training to provide defensive cover and logistical support.
 
+Files, voice lines and chats: [Catcher's file](/story/catcher/).
+
 ## How to obtain
 
 Catcher has no rate-up banner. Catcher is in the standard roster, which Basic Headhunting and every Chartered Headhunting pool draw from.

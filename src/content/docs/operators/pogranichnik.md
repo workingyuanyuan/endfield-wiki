@@ -51,6 +51,8 @@ sources:
 
 Pogranichnik is a Rhodes Island operator and former Shieldguard Banner commander in the Order of Steel Oath who serves Endfield Industries as a military consultant under an agreement between the two companies.
 
+Files, voice lines and chats: [Pogranichnik's file](/story/pogranichnik/).
+
 ## How to obtain
 
 Pogranichnik has no rate-up banner. Five standard 6-star operators are in the pool of Basic Headhunting and of every Chartered Headhunting banner: Ember, Lifeng, Ardelia, Last Rite and Pogranichnik.

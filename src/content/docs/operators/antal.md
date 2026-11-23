@@ -47,6 +47,8 @@ sources:
 
 Antal is a young Savra in Endfield's Operations Team Z7 who works as a supporter and Originium technology consultant, gifted in Originium Arts though he often misreads social cues.
 
+Files, voice lines and chats: [Antal's file](/story/antal/).
+
 ## How to obtain
 
 Antal has no rate-up banner. Antal is in the standard roster, which Basic Headhunting and every Chartered Headhunting pool draw from.

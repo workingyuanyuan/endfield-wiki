@@ -1,0 +1,3197 @@
+{
+ "slug": "si",
+ "gameId": "chr_0036_jsspsi",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Si \nGENDER: Female \nAUTHENTICATION: Hongshan Academy of Sciences \nDOB: September 15 \nRACE: Undisclosed \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: ■■ \nCOMBAT SKILL: Excellent \nTACTICAL ACUMEN: Standard \nORIGINIUM ARTS ASSIMILATION: Flawed",
+    "zh-TW": "【代號】祀\n【性別】女\n【身分認證】宏山科學院\n【生日】9月15日\n【種族】未公開\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：■■\n作戰技巧：優良\n戰術規劃：標準\n源石技藝適應性：缺陷",
+    "zh-CN": "【代号】祀\n【性别】女\n【身份认证】宏山科学院\n【生日】9月15日\n【种族】未公开\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：■■\n作战技巧：优良\n战术规划：标准\n源石技艺适应性：缺陷",
+    "ja": "【コードネーム】祀\n【性別】女\n【身分証明】宏山科学院\n【誕生日】9月15日\n【種族】非公開\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：■■\n戦闘技術：優秀\n戦術立案：標準\nアーツ適性：欠落",
+    "ko": "[코드네임] 사\n[성별] 여\n[신분 인증] 홍산 과학원\n[생일] 9월 15일\n[종족] 미공개\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: ■■\n작전 기술: 우수\n전술 계획: 표준\n오리지늄 아츠 적응성: 결함"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Si, a Feranmut Proxy with no formal employer, has long-standing ties to the Hongshan Academy of Sciences. At the Endministrator's personal recommendation, she joined Endfield Industries, where she currently provides expertise in the theoretical research and practical application of Feranmuts. \n\nSi rarely participates in Endfield's personnel procedures. The only exception is recorded in my self-diagnostic log. As agreed, Si arrived aboard Dijiang and spoke with me. She answered every question, signed the paperwork, and disappeared the moment the process was complete. My processing module immediately classified the event as an unforeseen incident and issued an alert. A short while later, Si walked back into the office, wiped a drop of ink from the center of my display, and mumbled, \"Interesting ... but not interesting enough.\" She later explained that \"Si\" sitting across from me had merely been a painting of herself. She wanted to see how I would react. Judging from her remark, my response wasn't quite what she had hoped for. \nIt was a harmless prank. The incident offered a glimpse into Si's unique quality. While she possesses powers beyond the scope of scientific explanation, she occasionally exhibits a temperament that seems atypical of a Feranmut Proxy. Opportunities to meet a Feranmut Proxy on Talos-II are few and far between. I therefore recommend that my colleagues in the HR Division take every chance to interact with her. We may eventually discover a pattern to her shifting moods. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "祀，巨獸代理人，無業，與宏山科學院長期保有聯絡，由管理員親自推薦加入終末地工業，現階段為終末地提供巨獸相關的理論與應用技術支援。\n\n祀極少參與終末地的人事活動，僅有的一次還被記錄在了我的自檢日誌中：祀如約來到帝江號與我對話，按部就班地回答完所有問題並簽名確認的瞬間，她憑空消失了。我的運算模組在第一時間將這種現象解讀為突發事故，並發出警報。隨後祀再次走進辦公室，擦掉了我居中的面板上的一滴墨水，輕唸著「有意思，但還不夠有意思」。據祀解釋，剛剛坐在我面前的，只是她畫下的自己，她想以此試試我的反應。這麼看來，我的表現並未完全達到她的預期。\n這是個無傷大雅的玩笑，某種程度上也透露出祀的特別之處——擁有科學難以解釋的能力，偶爾卻又顯露出不那麼符合代理人的心性。不過，能在塔衛二見到巨獸代理人的機會並不多，我仍舊建議其他人事部同僚嘗試與其積極接觸，以找到她心情變化的規律。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "祀，巨兽代理人，无业，与宏山科学院长期保有联系，由管理员亲自推荐加入终末地工业，现阶段为终末地提供巨兽相关的理论与应用技术支持。\n\n祀极少参与终末地的人事活动，仅有的一次还被记录在了我的自检日志中：祀如约来到帝江号与我对话，按部就班地回答完所有问题并签字确认的瞬间，她凭空消失了。我的运算模块在第一时间将这种现象解读为突发事故，并发出警报。随后祀再次走进办公室，擦掉了我居中的面板上的一滴墨水，嘟囔着“有意思，但还不够有意思”。据祀解释，刚刚坐在我面前的，只是她画下的自己，她想以此试试我的反应。这么看，我的表现并未完全达到她的预期。\n这是个无伤大雅的玩笑，某种程度上也透露出祀的特别之处：拥有科学难以解释的能力，偶尔却又显露出不那么符合代理人的心性。不过，能在塔卫二见到巨兽代理人的机会并不多，我仍旧建议其他人事部同僚尝试与其积极接触，以找到她心情变化的规律。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "スーは巨獣の代理人である。無職。宏山科学院とは長年にわたって関わりを持っている。管理人の推薦によりエンドフィールド工業に加入し、現在は巨獣に関する理論および応用技術の支援を行っている。\n\n「スーさんはエンドフィールドの人事関連手続きに応じることはほとんどありません。唯一あった機会については、私の自己点検ログにも記録されています。スーさんは約束通り帝江号を訪れ、私との面談を行いました。手順どおりすべての質問に答え、署名を終えたその瞬間、彼女は忽然と姿を消してしまったのです。私の演算モジュールはこれを突発事故と即座に判断し、警報を発しました。しかしその後、スーさんは執務室にもう一度入ってきて、私の中央パネルについていた一滴の墨を拭いながら『面白いが、まだまだじゃ』と呟いたのです。スーさんの説明によると、最初に私の前に座っていたのは、彼女が描いた『自分』であり、私がどのような反応を示すかを試してみたかったそうです。つまり、私の反応は彼女の期待に十分応えられなかったということのようです。」\n「他愛のない悪戯ではありますが、ある意味ではスーさんの特異性をよく表しています。科学では説明しがたい力を持ちながら、ときおり代理人らしからぬ一面を覗かせるのです。とはいえ、タロIIで巨獣の代理人と接する機会はそう多くありません。人事部の皆さんにも、彼女の気分の変化に何らかの法則性を見出すために、積極的に交流してみることをお勧めします。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "사, 베헤모스 대리인. 무직 상태로, 홍산 과학원과 오랫동안 협력 관계를 유지해 왔다. 관리자의 추천으로 엔드필드 공업에 합류했으며, 현재는 베헤모스와 관련된 이론 연구 및 응용 기술 분야에서 기술 지원을 맡고 있다.\n\n사는 엔드필드의 인사 업무에 거의 모습을 드러내지 않는다. 유일하게 참석했던 한 번은 자가 진단 로그에까지 기록되어 있다. 사는 약속대로 제강호에 찾아와 면담을 진행했고, 모든 질문에 차례대로 답한 뒤 서명을 마친 후, 흔적도 없이 사라져 버렸고, 연산 모듈은 이를 즉시 돌발 사고로 판단해 경보를 발령했다. 잠시 후 사는 아무 일도 없었다는 듯 다시 사무실로 들어와 중앙 패널에 묻어 있던 먹물 한 방울을 닦아내며 \"재밌네. 하지만 아직은 어딘가 부족해.\"라고 중얼거렸다. 사는 조금 전 내 앞에 앉아 있던 건 그녀가 직접 그려낸 자기의 모습이라며, 나의 반응을 시험해 보고 싶었다고 한다. 결국 내 반응은 사의 기대에 완전히는 부합하지 못한 모양이다.\n가벼운 장난에 불과했지만, 어떤 의미로는 사의 특별함을 잘 보여주는 일화이기도 하다. 과학으로는 설명하기 어려운 능력을 지녔으면서도, 때때로 대리인답지 않은 천진한 면모를 드러낸다. 다만 탈로스 II에서 베헤모스 대리인을 직접 만날 기회는 그리 많지 않은 만큼, 나는 인사부의 다른 동료들에게도 그녀와 적극적으로 교류해 보기를 권하고 싶다. 어쩌면 사의 기분 변화를 어느 정도 예측할 수 있는 규칙을 찾아낼지도 모르니까 말이다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "After joining Endfield, almost no operators ever met Si. Her profile remained largely blank, and \"mysterious\" was the only impression most of us had of the Feranmut Proxy. The HR Division even asked her recommender to help convince her to cooperate with a few onboarding procedures, but apparently, not even the Endministrator could get through to her... That changed when one of our logistics operators happened to spot her at a hotpot restaurant in Wuling City. \nThe two met by pure chance, neither knowing who the other was. They happened to attend the same promotional event for a new menu and ended up sharing a table, sampling hotpot broths like Lime and Bitter Gourd Stock, Fish Maw and Slug Pepper Stock, and Boiled Grovenymph Clear Stock — names bizarre enough on their own. After learning that Si was there to pick up a few tricks for the chef at her inn, the logistics operator praised her keen business instincts and remarkably refined taste for someone so young. Si was delighted and quietly picked up the operator's bill as well. Only later, after spotting Si's photo in the HR Division, did the operator realize who her dining companion had actually been... After that, more and more operators began running into Si in the most unexpected places, including Wuling City's Chubby Lung launch event, La Fantoma's robotics experience center ... the list goes on. Two operators even got into a heated argument over one particular sighting. Both insisted they had seen Si at the exact same time, yet one claimed she was the mischievous bidder who scooped the final item at Seš'qa's witchcraft staff auction, while the other swore she was the mysterious guest who got drunk among Sami's Snowpriests. The two locations are thousands of miles apart, one above ground, the other below. Stories like that belong only in old Yanese legends. In short, if the operators are to be believed, Si is less like a secluded Feranmut Proxy and more like an energetic child who simply can't stay home. \nSince then, whenever Dijiang hosted events like the Vanguard Movie Night, a few operators would work up the courage to ask the Endministrator to invite Si... This time, she actually came. Gradually, we came to realize that this was simply who she was. Playful and unpredictable, she has little patience for people who are rigid or unwilling to adapt. She's always drawn to anything new and views the world with a child's curiosity. Perhaps ... by Feranmut standards, she really is still very young. \n\nAdvice from Operator Argent Flow: Avoid words like \"child\" and \"young.\" Lady Si is rather sensitive about her age. She insists, \"I'm nearly as old as civilization itself on Talos-II. You're all just kids to me.\" \n\nAdvice from Operator Arcane: When it comes to critical matters, please trust the Proxy, just as we do. Whatever her usual demeanor may be, her abilities more than justify that trust. She also doesn't appreciate having her abilities questioned. \n\nMysterious advice from an unknown guest: If she starts throwing a fit, just go get the Endministrator.",
+    "zh-TW": "祀加入終末地後很長一段時間，幾乎沒有幹員見過她。她的人事檔案留有大量空白，除了「神秘」，我們對這位巨獸代理人幾乎沒有其他印象。人事部也嘗試透過祀的推薦人讓她配合一些工作，但顯然，管理員說話也不怎麼奏效……直到我們的一位後勤幹員在武陵城的火鍋店偶遇了祀。\n在完全不認識彼此的情況下，她們兩人參加了同一場新品促銷活動，一起品嚐了「青檸苦瓜」、「胡椒鱗肚源石蟲」、「水燉竹林蟲」等聽起來匪夷所思的新鍋底。得知祀在幫自己客棧的廚師偷師後，後勤幹員還盛讚了她小小年紀就有如此商業頭腦和非凡品味，祀高興得連她的單一起買了。直到這位幹員後來在人事部看到祀的照片，才知道當時和自己拼桌的人是誰……此後，越來越多的幹員在各種奇奇怪怪的場合與祀偶遇，包括但不限於武陵城的龍泡泡發售現場，菈梵朵瑪的機器人體驗館……甚至還有兩個傢伙因此爭執得面紅耳赤，按他們的描述，他們在同一時間，分別在塞什卡的巫術法杖拍賣會和薩米的祭祀儀式看見了祀，前者堅稱祀是在拍賣會上截胡了最終藏品的惡作劇買家，後者則咬定祀是當天坐在雪祀中間喝醉了的神秘客人——這兩個地方相隔千里，甚至一個天上一個地下，我們只在某些早已不可考的炎國傳奇故事裡聽說過類似的橋段。總之，按照幹員們的說法，祀不像是避世隱居的代理人，更像是一個精力旺盛在家待不住的孩子。\n那之後，帝江號在舉辦一些諸如先鋒觀影會的活動時，有幹員鼓起勇氣再次請管理員向祀發去了邀請……這一次，祀如約而至。我們漸漸接受了這位代理人其實是這樣的性格：古靈精怪，討厭古板的、不知變通的人，貪圖新鮮，對許多事物都保持著孩童般的好奇。或許……從巨獸的時間維度上看，她確實還太年輕。\n\n來自幹員明河的建議：刪掉諸如「孩子」、「年輕」之類的字眼，祀小姐本人對年齡問題非常敏感，按她的說法，她「幾乎與塔衛二的文明同歲，你們都是些小輩」。\n\n來自幹員訣的補充建議：在關鍵事務上，請如我等一樣充分相信代理人的能力。無論平常表現如何，她的能力也擔得起這份信任，以及，她同樣不喜歡被人質疑。\n\n來自未知訪客的神秘建議：她要是鬧脾氣了，就快去請管理員。",
+    "zh-CN": "祀加入终末地后很长一段时间，几乎没有干员见过她。她的人事档案留有大量空白，除了“神秘”，我们对这位巨兽代理人几乎没有其他印象。人事部也尝试通过祀的推荐人让她配合一些工作，但显然，管理员说话也不怎么奏效……直到我们的一位后勤干员在武陵城的火锅店偶遇了祀。\n在完全不认识彼此的情况下，她们两人参加了同一场新品促销活动，一起品尝了“青柠苦瓜”“胡椒鳞肚源石虫”“水炖竹林虫”等听起来匪夷所思的新锅底。得知祀在帮自己客栈的厨师偷师后，后勤干员还盛赞了她小小年纪就有如此商业头脑和非凡品味，祀高兴得连她的单一起买了。直到这位干员后来在人事部看到祀的照片，才知道当时和自己拼桌的人是谁……此后，越来越多的干员在各种奇奇怪怪的场合与祀偶遇，包括但不限于武陵城的龙泡泡发售现场，菈梵朵玛的机器人体验馆……甚至还有两个家伙因此争执得面红耳赤，按他们的表述，他们在同一时间，分别在塞什卡的巫术法杖拍卖会和萨米的祭祀仪式看见了祀，前者坚称祀是在拍卖会上截胡了最终藏品的恶作剧买家，后者则咬定祀是当天坐在雪祀中间喝醉了的神秘客人——这两个地方相隔千里，甚至一个天上一个地下，我们只在某些早已不可考的炎国传奇故事里听说过类似的桥段。总之，按照干员们的说法，祀不像是避世隐居的代理人，更像是一个精力旺盛在家待不住的孩子。\n那之后，帝江号在举办一些诸如先锋观影会的活动时，有干员壮着胆子再次通过管理员向祀发去了邀请……这一次，祀如约而至。我们渐渐接受了这位代理人其实是这样的性格：古灵精怪，讨厌古板的、不知变通的人，贪图新鲜，对许多事物都保持着孩童般的好奇。或许……从巨兽的时间维度上看，她确实还太年轻。\n\n来自干员明河的建议：删掉诸如“孩子”“年轻”之类的字眼，祀小姐本人对年龄问题非常敏感，按她的说法，她“几乎与塔卫二的文明同岁，你们都是些小辈”。\n\n来自干员诀的补充建议：在关键事务上，请如我等一样充分相信代理人的能力。无论平时表现如何，她的能力也当得起这份信任，以及，她同样不喜欢被人质疑。\n\n来自未知访客的神秘建议：她要是闹脾气了，就快去请管理员。",
+    "ja": "スーがエンドフィールドに加入してから長い間、彼女の姿を実際に見かけたオペレーターはほとんどいなかった。プロファイルにも空欄が多く、「謎」ということ以外、我々はこの巨獣の代理人についてほとんど何も知らなかった。人事部も、スーを推薦した人物――つまり管理人を通じて業務に協力してもらおうとしたが、どうやらあまり効果はなかったようだ……そんな状況が変わったのは、ある後方支援オペレーターが武陵城の火鍋屋で偶然スーと出会ったことがきっかけだった。\n互いの素性もまったく知らないまま、2人は同じ新商品キャンペーンに参加し、「ライム＆ゴーヤ」「鱗獣ハラミとオリジムシ風味」「竹林虫の水炊き味」など、名前を聞いただけでは想像もつかないような新作火鍋スープを一緒に味わったそうだ。スーが自分の宿の料理人のために味を盗みに来たと知ると、そのオペレーターは「こんなに若いのに商才もあって、しかも味のセンスも抜群だ」と大絶賛した。すっかり機嫌をよくしたスーは、彼女の分までまとめて会計を済ませたという。そのオペレーターが彼女の正体を知ったのは、後日、人事部でスーの写真を目にしたときのことだった……それ以来、さまざまな場所でスーと偶然出会ったというオペレーターが続々と現れるようになった。それは、武陵城で行われた龍泡泡の発売イベントや、ラヴァンドマのロボット体験館など、思いもよらぬ場所にまで及んだ。目撃情報を巡り、顔を真っ赤にするほどの言い争いになったこともあった。本人たちの話によると、まったく同じ時刻に、1人はセシュカの巫術杖オークションで、もう1人はサーミの祭祀でスーを目撃したという。前者は、スーこそがいたずら半分にオークション最後の目玉商品を横取りした張本人だと言って譲らず、後者は、その日の雪祭司に紛れて酔っていた謎の客は間違いなくスーだったと言い張った――しかし、2つの場所は千里も離れている。それどころか一方は空の上、もう一方は地の底。このような話は、今となっては真偽を確かめようもない炎国の伝説でしか聞いたことがない。ともあれ、オペレーターたちの話をまとめると、スーは世を避けてひっそり暮らす代理人というより、元気が有り余ってじっとしていられない子供のようである、ということだ。\nこうした目撃談が相次ぐようになり、帝江号で先行上映会等のイベントが行われる際、あるオペレーターは勇気を出して再び管理人を通じてスーに招待を送ることにした……すると、スーは約束通り姿を見せた。我々も次第に、この代理人はこういう性格なのだと受け入れるようになった。茶目っ気があり、頑固で融通の利かない人を嫌い、新しいものには目がなく、さまざまな物事に子供のような好奇心を向ける。もしかすると……巨獣の時間感覚からすれば、彼女は本当にまだまだ若いのかもしれない。\n\nミンホからのアドバイス：「子供」や「若い」といった表現は削除したほうがいい。スー代理人は年齢の話にとても敏感だ。前に「わらわはタロⅡの文明とほぼ同い年じゃ。皆、わらわから見れば若造よ。」と言っていた。\n\nオクギからの補足：いざというときは、我々と同様に代理人の力を信頼し、任せてほしい。普段の行動とは関係なく、彼女の能力は信頼に値する。それに、本人も疑われることが好きではない。\n\n正体不明の訪問者からの謎めいた助言：機嫌を損ねたら、すぐに管理人を呼ぶべき。",
+    "ko": "사가 엔드필드에 합류한 뒤로도 오랫동안 그녀를 직접 본 오퍼레이터는 거의 없었다. 그녀의 인사 기록에는 공백이 많았고, '신비롭다'는 것 외에는 이 베헤모스 대리인에 대해 별다른 인상을 가진 사람이 없었다. 인사 부서에서는 사의 추천인을 통해 협조를 요청해 보기도 했지만, 관리자조차 그다지 효과가 없었던 모양이다... 그러던 어느 날, 우리 지원 오퍼레이터 한 명이 무릉성의 훠궈집에서 우연히 사와 마주쳤다.\n서로를 전혀 모르는 상태였지만, 두 사람은 우연히 같은 신메뉴 시식 행사에 참여해 '라임과 여주 육수', '린수 뱃살과 원석충 육수', '맑은 죽림충 육수'와 같이 듣기만 해도 고개를 갸웃하게 되는 기상천외한 육수들을 함께 맛보았다. 지원 오퍼레이터는 사가 자신이 운영하는 객잔의 요리사를 위해 조리법을 배우러 왔다는 이야기를 듣고는, 어린 나이에 사업 감각과 미식 안목을 갖췄다며 크게 칭찬했다. 그 말에 기분이 좋아진 사는 그 오퍼레이터의 식사값까지 함께 계산했는데, 그 오퍼레이터가 훗날 인사 부서에서 사의 사진을 보고 나서야, 당시 합석했던 사람이 바로 그녀였다는 사실을 알게 되었다... 그 이후로도 점점 더 많은 오퍼레이터가 예상치 못한 장소에서 사를 우연히 마주치게 되었다. 무릉성의 드래곤 버블 신상품 출시 행사, 라반도르마의 로봇 체험관 등, 장소는 그야말로 각양각색이었다... 심지어 이 일 때문에 얼굴을 붉히며 언쟁을 벌인 오퍼레이터 둘까지 있었다. 각자의 주장에 따르면, 같은 시각에 한 명은 세쉬카의 주술 지팡이 경매장에서, 다른 한 명은 사미의 제사 의식에서 각각 사를 보았다는 것이다. 한쪽은 사가 마지막 소장품을 가로챈 장난기 넘치는 낙찰자였다고 굳게 주장했고, 다른 한쪽은 사가 그날 눈 덮인 제사장 한가운데 앉아 술에 취해 있던 정체불명의 손님이었다고 우겼다. 하지만 두 장소는 수천 리나 떨어져 있고, 말 그대로 하늘과 땅만큼이나 멀리 떨어져 있었다. 이런 이야기는 우리도 이미 고증할 길이 없는 옛 염국의 전설 속에서나 들어봤을 법한 이야기였다. 아무튼 오퍼레이터들의 말을 종합해 보면, 사는 세상과 거리를 두고 살아가는 대리인이라기보다, 집에 가만히 있질 못하는 활기찬 아이에 더 가까웠다.\n그 뒤로 제강호에서 영화 시사회 같은 행사가 열릴 때면, 몇몇 오퍼레이터들은 용기를 내어 관리자를 통해 다시 한번 사에게 초대장을 보냈다... 이번에는 사도 약속을 지켰다. 그 일을 계기로 우리는 점차 이 대리인의 성격을 이해하게 되었다. 장난기가 많고 영리하며, 융통성 없는 사람을 몹시 싫어하고, 새로운 것을 좋아하고, 세상의 수많은 일에 아이처럼 순수한 호기심을 품고 있다. 어쩌면... 베헤모스의 시간 척도로 보면, 그녀는 정말로 아직 너무 어린 것일지도 모른다.\n\n오퍼레이터 명하의 제안: '아이', '어리다' 같은 표현은 삭제해 주시기 바랍니다. 사 님은 나이에 관한 이야기에 상당히 민감합니다. 그분의 말로는 \"난 탈로스 II의 문명과 거의 동갑이니, 너희는 전부 한참 후배야.\"라고 했습니다.\n\n오퍼레이터 결의 추가 제안: 중요한 임무에 있어서는 저희와 마찬가지로 대리인의 능력을 전적으로 신뢰해 주시기 바랍니다. 평소 모습과는 별개로, 그녀는 그 신뢰를 받을 자격이 있으며, 자신을 의심받는 것 또한 좋아하지 않습니다.\n\n정체불명의 방문객이 남긴 제안: 그녀가 토라졌다면, 얼른 관리자를 불러오세요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "Yinglung Special Task Force Training Log III \nLocation: Unnamed Wilderness, HAS Jurisdiction \nObjective: Scheduled meeting between the Proxy and the latest batch of recruits \nNotes: The Proxy was absent without prior notice, and the meeting was replaced with routine training. The senior operator leading the session reassured the new recruits that although the Proxy helped establish and plan the YSTF, she held no official position within HAS. The two parties maintain a cooperative relationship, and many YSTF members may never meet her during their service. \n\nYinglung Special Task Force Training Log VIII \nLocation: Tanjian Hall, HAS \nObjective: Proxy's lecture on the application of Feranmut Power \nNotes: The Proxy was absent without prior notice. On short notice, she arranged for Ye Minghe, Captain of Pacified Skies of the Imperial Guards, and the Endministrator of Endfield Industries to attend in her place. The session was converted into a technical exchange on spear techniques and Originium applications. \n\nYinglung Special Task Force Training Log XXI \nLocation: A scroll painted by the Proxy on the spot \nObjective: Proxy's lecture on the application of Feranmut Power \nNotes: The Proxy was in unusually high spirits, and the training session ran more than three hours over schedule. She took it upon herself to demonstrate more than a dozen different powers, each one more astonishing than the last. Her so-called \"little tricks\" included, but were by no means limited to: moving stone and timber at will to create a garden no one could escape; forging shields and greatswords out of thin air, as though drawing divine weapons from the void; planting a seed that sprouted, withered, and sprouted again within moments, confounding one's sense of time and causality; bringing ink paintings to life, erasing the boundary between illusion and reality; and turning squares into circles as though reality itself obeyed her every word... Naturally, we can only harness a fraction of these powers with the aid of specialized equipment and nowhere near as freely as the Proxy herself. Even so, their value on the battlefield is beyond question. Properly applied, they would enable the YSTF to carry out countless complex missions. \nThat said, the powers aren't always reliable. On rare occasions, a giant shield would inexplicably contain a large hole, or the painted sun would become nothing more than an ink blot suspended in the sky, steadily dripping ink. Such incidents were infrequent, but they were observed. The Proxy was invariably quick to conceal these mishaps. Common methods included covering them with an exaggerated cough, abruptly painting a river and declaring an impromptu exercise in river-crossing combat, or simply ending the session then and there... \n\nNone of this should come as a surprise. Possessing a skill is not the same as mastering it. Whether in combat or craftsmanship, true mastery takes years. The Proxy's circumstances are different, of course. She inherited the Powers of the Feranmut \"Sui\" and all twelve of its proxies only recently. Even so, her contributions speak for themselves. It is because of her that the YSTF exists today and our homeland remains protected. \n— Arcane, YSTF Task Leader",
+    "zh-TW": "【應龍特勤隊訓練日誌之三】\n地點：宏科院轄區，無名荒野\n內容：代理人與新一批入選的特勤隊員見面\n備註：代理人無故缺席，改為日常訓練。帶隊的前輩安慰了新隊員，代理人雖然參與了應龍特勤隊的組建與規劃，但她本人並未在宏科院擔任任何正式職務，雙方目前僅是合作關係，多數隊員直到退役也不一定有機會見到她。\n\n【應龍特勤隊訓練日誌之八】\n地點：宏科院本部，談劍堂\n內容：代理人講解巨獸權能的應用\n備註：代理人無故缺席，並臨時委託禁軍靖天都尉夜明河與終末地工業管理員到場，訓練內容改為槍術與源石應用的技術交流。\n\n【應龍特勤隊訓練日誌之二十一】\n地點：代理人臨時畫的畫卷\n內容：代理人講解巨獸權能的應用\n備註：代理人興致高漲，訓練耗時比預期中長了三小時。她主動向隊員們展示了十多種權能，這些所謂的「小把戲」每一個都神鬼莫測，包括但不限於：任意搬動石頭和木頭，便搭建起了一片無人能走出的園林；隨手冶鑄出堅盾與巨劍，像是從虛空中取用神兵；種下一顆在極短時間內從生長到枯萎再重新發芽的種子，迷惑人對於時間與因果的感知；潑墨成真，虛實無際；改方為圓，口含天憲……當然，我們必須藉助特殊的裝置，才能使用這些能力的萬分之一，沒辦法像代理人那樣隨心所欲，但毫無疑問，這些能力在戰場上的應用不可估量，它們能幫助應龍特勤隊完成無數複雜的作戰任務。\n補充：但這些神奇的能力也會出現一些「時靈時不靈」的情況，例如巨盾中間存在明顯的氣孔，畫出的太陽竟然是個掛在天邊滴答滴答淌著墨滴的墨團……次數並不多，但確實存在。雖然每次代理人都掩飾得很好，例如大聲咳嗽，突然畫出一條河要考驗我們的水戰能力，或者直接宣布原地解散……\n\n這並不難理解。會不等於精，一種戰技、一門手藝，往往需要一生的時間去融會貫通。代理人或許不是我說的這種情況，但她繼承巨獸「歲」及其十二位代理人的所有權能，時間確實還太短。但總之，得益於她的付出，應龍特勤隊得以存在，得以保衛我們的家園。\n——應龍特勤隊行動隊長 訣",
+    "zh-CN": "【应龙特勤队训练日志之三】\n地点：宏科院辖区，无名荒野\n内容：代理人与新一批入选的特勤队员见面\n备注：代理人无故缺席，改为常规训练。带队的前辈安慰了新队员，代理人虽然参与了应龙特勤队的组建与规划，但她本人并未在宏科院担任任何正式职务，双方目前仅是合作关系，多数队员直到退役也不一定有机会见到她。\n\n【应龙特勤队训练日志之八】\n地点：宏科院本部，谈剑堂\n内容：代理人讲解巨兽权能的应用\n备注：代理人无故缺席，并临时委托禁军靖天都尉夜明河与终末地工业管理员到场，训练内容改为枪术与源石应用的技术交流。\n\n【应龙特勤队训练日志之二十一】\n地点：代理人临时画的画卷\n内容：代理人讲解巨兽权能的应用\n备注：代理人兴致高涨，训练耗时比预期中长了三小时。她主动向队员们展示了十多种权能，这些所谓的“小把戏”每一个都神鬼莫测，包括但不限于：任意搬动石头和木头，便搭建起了一片无人能走出的园林；随手冶铸出坚盾与巨剑，像是从虚空中取用神兵；种下一颗在极短时间内从生长到枯萎再重新发芽的种子，迷惑人对于时间与因果的感知；泼墨成真，虚实无际；改方为圆，口含天宪……当然，我们必须借助特殊的装置，才能使用这些能力之万一，没办法像代理人那样随心所欲，但毫无疑问，这些能力在战场上的应用不可估量，它们能帮助应龙特勤队完成无数复杂的作战任务。\n补充：但这些神奇的能力也会出现一些“时灵时不灵”的情况，比如巨盾中间存在明显的气孔，画出的太阳竟然是个挂在天边滴答滴答淌着墨滴的墨团……次数并不多，但确实存在。虽然每次代理人都掩饰得很好，比如大声咳嗽，突然画出一条河要考验我们的水战能力，或者直接宣布原地解散……\n\n这并不难理解。会不等于精，一种战技、一门手艺，往往需要一生的时间去融会贯通。代理人或许不是我说的这种情况，但她继承巨兽“岁”及其十二位代理人的所有权能，时间确实还太短。但总之，得益于她的付出，应龙特勤队得以存在，得以保卫我们的家园。\n——应龙特勤队行动队长 诀",
+    "ja": "【応龍特殊部隊訓練記録・三】\n場所：宏科院管轄区域・名もなき荒野\n内容：代理人と新たに選抜された隊員との顔合わせ\n備考：代理人は事前説明なく欠席したため、通常訓練に変更。引率の先輩隊員が新人を慰めた。代理人は応龍特殊部隊の設立と計画に携わってはいるものの、宏科院で正式な役職には就いておらず、現状はあくまで協力者という立場である。退役するまで一度も彼女に会えない隊員も多い。\n\n【応龍特殊部隊訓練記録・八】\n場所：宏科院本部・談剣堂\n内容：巨獣の力の応用に関する代理人の解説\n備考：代理人は事前説明なく欠席したため、急遽、禁軍の靖天都尉イェ・ミンホとエンドフィールドの管理人に代理を依頼。訓練内容を変更し、槍術および源石応用技術についての実技や意見交換とした。\n\n【応龍特殊部隊訓練記録・二十一】\n場所：代理人がその場で描いた絵巻の中\n内容：巨獣の力の応用に関する代理人の解説\n備考：代理人はすこぶる上機嫌で、訓練の予定を3時間もオーバーした。10種類以上もの力を隊員たちに自ら進んで披露。本人曰く、どれも「ちょっとしたコツ」らしいが、常識では考えられないほど不可思議なものであった。石や木を自在に動かし、誰も抜け出すことのできない庭園を築き上げる。堅牢な盾や巨剣を何気なく鋳造する様は、まるで虚空から伝説の武具を取り出しているかのようであった。種をひと粒植えれば瞬く間に成長し、枯れ、再び芽吹き、人の時間と因果に対する感覚を惑わせる。墨で描いたものは現実となり、虚実の境すら曖昧になる。四角を丸に変え、人の生死までも思うがまま……もちろん、こうした力のごく一部を我々が扱おうとするならば、特殊な装置が必要であり、代理人のように意のままに操ることもできない。しかし、この力が戦場にもたらす可能性は計り知れない。応龍が複雑な作戦任務を遂行するうえで、大きな助けとなることは間違いないだろう。\n追記：ただしこれほど不思議な力でも、うまくいく時といかない時がある。たとえば、鋳造した大盾の中央にはっきりと気泡が残っていたり、描いた太陽が空の端に浮かび、ぽたぽたと墨を垂らす黒い塊になっていたり……頻度が高いわけではないが、そういうことは起きている。もっとも、代理人はそのたびにうまく誤魔化している。わざとらしく大きな咳払いをしたり、突然川を描き始めて、水上戦で我々の力を試すと言い出したり、あるいはいきなり訓練終了、解散を宣言したり……\n\n理解できない話ではない。「できる」ことと「極める」ことは別だ。戦いだろうと技術だろうと、本当の意味で身につけるなら、一生かかるのが普通だ。代理人の場合、少し事情が違うかもしれないが……彼女が巨獣「歳」と12人の代理人が持つすべての力を継承してから、まだそれほど時間が経っていないのは確かだ。しかし、彼女が力を尽くしてくれたからこそ応龍特殊部隊は存在する。そして、我々の家を守ることができているんだ。\n――応龍特殊部隊作戦隊長　オクギ",
+    "ko": "[응룡 특수부대 훈련 일지 3]\n장소: 홍산 과학원 관할 구역, 이름 없는 황무지\n내용: 대리인과 새로 선발된 특수 부대원들의 첫 대면\n비고: 대리인이 사전 통보 없이 불참하여 일반 훈련으로 대체됨. 인솔을 맡은 선배 대원은 신입 대원들을 안심시키며 설명했다. 대리인은 응룡 특임대의 창설과 기획에 직접 참여했지만, 홍산과학원에서 공식 직책을 맡고 있는 것은 아니다. 현재는 협력 관계에 있을 뿐이며, 대다수 대원은 전역할 때까지도 그녀를 직접 만날 기회가 없을 수 있다.\n\n[응룡 특수부대 훈련 일지 8]\n장소: 홍산 과학원 본부, 담검당\n내용: 대리인의 베헤모스 권능 응용 강의\n비고: 대리인이 사전 통보 없이 불참, 대신 금위군 정천도위 야명하와 엔드필드 공업 관리자에게 대리 참석을 임시로 위임함. 훈련 내용은 창술과 오리지늄 응용에 관한 기술 교류로 대체됨.\n\n[응룡 특수부대 훈련 일지 21]\n장소: 대리인이 즉석에서 그린 그림 속\n내용: 대리인의 베헤모스 권능 응용 강의\n비고: 대리인의 기분이 아주 좋아 보였으며, 훈련 시간이 예정보다 세 시간이나 길어졌다. 대리인은 자진해서 대원들에게 십여 가지 권능을 선보였는데, 이 이른바 '별거 아닌 재주'들은 하나하나가 신출귀몰하기 그지없었다. 돌과 나무를 마음대로 옮겨 누구도 빠져나올 수 없는 정원을 만들어 내고, 허공에서 꺼내 오기라도 한 듯 거대한 방패와 대검을 즉석에서 벼려 내며, 순식간에 싹이 트고, 시들고, 다시 움트는 씨앗을 심어 시간과 인과에 대한 감각을 뒤흔들고, 먹물을 뿌려 실체로 만들어 내는 것으로 허와 실의 경계를 지우고, 네모난 것을 둥글게 바꾸는 것으로 하늘의 법칙마저 좌지우지하였다... 물론 우리는 특수한 장치의 도움을 받아야만 그 능력의 극히 일부만 재현할 수 있을 뿐, 대리인처럼 자유자재로 다루는 것은 불가능하다. 하지만, 이 능력들이 전장에서 얼마나 큰 가치를 지닐지는 의심할 여지가 없으며, 응룡 특수부대가 수많은 고난도 작전 임무를 완수하는 데 큰 도움이 될 것이다.\n보충: 다만 이러한 신비한 능력도 가끔은 뜻대로 되지 않을 때가 있다. 이를테면 만들어 낸 거대한 방패 한가운데에 큼지막한 구멍이 뚫려 있다거나, 그려낸 태양이 사실은 하늘 끝에 걸린 채 먹물을 뚝뚝 흘리는 먹물 덩어리였던 적도 있다... 흔한 일은 아니지만 분명히 존재한다. 물론 그때마다 대리인은 요란하게 헛기침하거나, 갑자기 강을 그려내 우리의 수중전 능력을 시험한다며 화제를 돌리거나, 아니면 아예 그 자리에서 훈련 종료를 선언해 버리기도 한다...\n\n이는 충분히 이해할 수 있는 일이다. 할 줄 아는 것과 능숙한 것은 다르며, 한 가지 배틀 스킬이나 재주를 완전히 자기 것으로 만들려면 보통 평생이 걸리는 법이다. 대리인의 경우는 조금 다를지도 모르지만, 그녀가 베헤모스 '쉐이'와 그 열두 대리인의 모든 권능을 물려받은 지는 아직 그리 오랜 시간이 지나지 않았다. 하지만 분명한 사실은, 그녀의 헌신 덕분에 응룡 특수부대가 존재할 수 있었고, 우리의 터전을 지켜 낼 수 있었다는 것이다.\n- 응룡 특수부대 행동 대장 결"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "The Sui Regulator was founded relatively late among HAS's specialized organizations. Though it shares its name with its Terran counterpart, the two serve fundamentally different purposes. The original was established in Yan after the \"Great Hunt\" to oversee the dormant Feranmut \"Sui\". Its subordinate force, the \"Candleholders\", was responsible for monitoring the activities of \"Sui's\" twelve proxies and responding to any secondary disasters associated with them. For nearly a thousand years, relations between the Sui Regulator and the proxies remained tense. \nAt HAS, however, the Sui Regulator serves as an intelligence and technical support organization focused on developing technologies based on Feranmut powers and supporting the Academy across both military and civilian fields. The Feranmut Proxy Si was directly involved in establishing both the Sui Regulator and, later, the YSTF under its supervision. She herself seems to enjoy the work. To the Sui Regulator, Si is more like a quirky advisor. \n\nSpecial Record \n\"I fear even the breadth of Talos-II may one day prove too confining for my younger sister. Yet she is still young and has far to go. Thus have I sent her to Hongshan to broaden her horizons, trusting that Tianshi Tan will look after her. Should there be anything I may do in return, I shall come at once in person.\" \n\"That's all my brother wrote?\" \n\"Is that not enough? You're the newest Proxy. No one can say what you'll become once your powers fully awaken. If you turn out to be as impossible as Sui once was, there may not be anyone on Talos-II who could keep you in check. Better that you spend time with us now. It'll do both you and HAS good. Besides ... your brother warned me that if anyone here so much as upset you, he'd come knocking on my door. At this point, I'm just glad he didn't send a knife along with the letter!\" \n\"H-He didn't mean it like that... You're the most experienced Tianshi at HAS... And I-I've always respected you!\" \n\"Haha, that's more like it. You're certainly more likeable than your siblings. So, have you made up your mind about the special task force? You've been in Hongshan long enough.\" \n\"You even sent the Endmin to convince me. I'm here. Does that not answer your question?\" \n\"Excellent. Then let this be the Si Regulator's first official order of business on Talos-II.\" \n\"The Si Regulator?!\" \n\"Hmm... Sui's story belongs to Terra now, and your brothers and sisters are free to live as they please. The name \"Sui Regulator\" no longer feels entirely appropriate...\" \n\"Let's stick with the Sui Regulator! The Si Regulator sounds terrible. Like the whole place exists just to keep an eye on me.\" \n\"Fair point. Then we can keep the old name.\" \n\"What about the special task force?\" \n\"Those kids are still arguing over names. If you ask me, this unit only exists because of you, so why not call it ... 'the Yinglung Special Task Force'?\" \n\"Cool! I love it!\"",
+    "zh-TW": "在宏山科學院的一系列專門組織中，司歲台成立得相對較晚，且與泰拉本境的同名組織在職能上存在諸多不同。司歲台原本是炎國在名為「大狩獵」的戰爭後，為應對陷入沉睡的巨獸「歲」所設立。其下轄的「秉燭人」隊伍，負責長期監管「歲」分化出的十二位代理人的行動，以及處理其他次生災害。司歲台與其所司之對象，近千年裡關係都極為緊張。\n而宏山科學院的司歲台，性質更接近一個情報策略與技術支援機構，它致力於巨獸力量應用技術的開發，在軍事、民生的諸多領域為宏山科學院提供援助。而且，無論是司歲台本體，還是隨後成立、受其轄制的「應龍特勤隊」，都有巨獸代理人祀的直接參與，且她本人似乎樂在其中。對司歲台而言，祀更像是一個脾氣有點古怪的顧問。\n\n【特別紀錄】\n「……塔衛二之於吾妹，只恐天地尤小。但她畢竟年幼，當積跬步，故打發來宏山歷練，盼談天師顧看。若有便宜之需，隨時前去拜謝。」\n「我哥信裡就寫了這點東西？」\n「他說的還不夠多？你是新的代理人，沒人知道你真正長成時會有怎樣通天徹地的能力，如果像歲一樣狂悖，或許整個塔衛二都拿你沒辦法，趁現在來和我們多打打交道，對你自己，對宏科院都不是壞事。還有……他威脅我說，要是你受了委屈，他不管在哪裡，都會隨時上門來找我的麻煩。他就差直接寄一把刀過來了！」\n「我、我哥他才沒這個意思……您可是宏科院資歷最老的天師，起碼、起碼我是很尊敬您的！」\n「唉唷，你確實比你的哥哥姐姐更招人喜歡！所以，特勤隊的事情，考慮得怎麼樣了？你來宏山也有一陣子了。」\n「你們不是還找了管理員來當說客？我現在都坐在這裡了，還裝模作樣問。」\n「好，那這便是塔衛二司祀台的第一項工作。」\n「司祀台？！」\n「嗯？歲的一切已經在泰拉了結，你的哥哥姐姐如今也自在悠遊，此時此地，『司歲台』這個名字其實已經不太準確……」\n「還是司歲台吧！『司祀台』也太難聽了，像是專門管著我似的。」\n「行，行，聽你的。」\n「那……特勤隊的名字叫什麼呢？」\n「那群小崽子還在糾結一些無趣的考量，要我說，本來就是依了你才能組建的新生力量，所以乾脆就叫……『應龍特勤隊』，怎麼樣？」\n「談老有品！威風！」",
+    "zh-CN": "在宏山科学院的一应专门组织中，司岁台成立得相对较晚，且与泰拉本境的同名组织在职能上存在诸多不同。司岁台原本是炎国在名为“大狩猎”的战争后，为应对陷入沉睡的巨兽“岁”所设立。其下辖的“秉烛人”队伍，负责长期监管“岁”分化出的十二位代理人的行动，以及处理其他次生灾害。司岁台与其所司之对象，近千年里关系都极为紧张。\n而宏山科学院的司岁台，性质更接近一个情报策略与技术支持机构，它致力于巨兽力量应用技术的开发，在军事、民生的诸多领域为宏山科学院提供援助。而且，无论是司岁台本体，还是随后成立、受其辖制的“应龙特勤队”，都有巨兽代理人祀的直接参与，且她本人似乎乐在其中。对司岁台而言，祀更像是一个脾气有些古怪的顾问。\n\n【特别记录】\n“……塔卫二之于吾妹，只恐天地尤小。但她毕竟年幼，当积跬步，故打发来宏山历练，盼谈天师顾看。若有便宜之需，随时前去拜谢。”\n“我哥信里就写了这点东西？”\n“他说的还不够多？你是新的代理人，没人知道你真正长成时会有怎样通天彻地的能力，如果像岁一样狂悖，或许整个塔卫二都拿你没办法，趁现在来和我们多打打交道，对你自己，对宏科院都不是坏事。还有……他威胁我说，要是你受了委屈，他不管在哪儿，都会随时上门来找我的麻烦。他就差直接寄把刀过来了！”\n“我、我哥他可没这个意思……您可是宏科院资历最老的天师，起码、起码我是很尊敬您的！”\n“哎哟，你确实比你的哥哥姐姐更招人喜欢！所以，特勤队的事情，考虑得怎么样了？你来宏山也有一阵子了。”\n“你们不是还找了管理员来当说客？我现在都坐在这儿了，多余问。”\n“好，那这便是塔卫二司祀台的第一项工作。”\n“‘司祀台’？！”\n“嗯？岁的一切已经在泰拉了结，你的哥哥姐姐如今也自在悠游，此时此地，‘司岁台’这个名字其实已经不太准确……”\n“还是司岁台吧！‘司祀台’也太难听了，像是专门管着我似的。”\n“行，行，听你的。”\n“那……特勤队的名字叫什么呢？”\n“那群小崽子还在纠结一些无趣的考量，要我说，本来就是依了你才能组建的新生力量，所以干脆就叫……‘应龙特勤队’，怎么样？”\n“谈老有品！威风！”",
+    "ja": "宏山科学院に属する各種専門組織の中でも、司歳台が設立されたのは比較的遅く、その役割もテラ本土に存在する同名組織とは大きく異なる。もともと司歳台は、「大討伐」と呼ばれる戦争の後、眠りについた巨獣「歳」に対処するため炎国が設立した機関である。所属する「持燭人」は、「歳」から分かたれた12人の代理人の動向を長期にわたって監視するとともに、それに伴って発生するさまざまな二次災害の制圧を担っていた。司歳台と、その監視対象との関係は、千年近く極めて緊張状態にあった。\n一方、宏山科学院の司歳台は、どちらかといえば情報戦略と技術支援を担う機関に近い。巨獣の力を応用する技術の開発に取り組み、軍事から人々の生活といった幅広い分野で宏山科学院を支援している。また、司歳台そのものだけでなく、後に設立され、その指揮下に置かれた「応龍特殊部隊」にも、巨獣の代理人であるスーが直接関わっている。しかも、本人はどうやらそれを楽しんでいるらしい。司歳台にとってスーは、少々変わったところのある顧問、といった存在なのだろう。\n\n【特別記録】\n「……妹にとっては、タロⅡどころか、この天地でさえ狭かろう。とはいえ、まだ年若い。まずは一歩ずつ、着実に歩みを重ねることが肝要だ。そこで宏山へと修行に出したのだ。タン天師には、目をかけてやってもらいたい。何か便宜を図ってもらうことがあれば、いつでも私が礼に伺おう。」\n「……兄様からの手紙はこれだけか？」\n「これだけって、十分でしょ？あんたは新たな代理人。あんたが本当に成長しきったとき、天地をも揺るがすような、どれくらいの力を持つことになるのか、誰にもわからない。もし『歳』みたいに手がつけられなくなったら、タロII全体でかかってもどうにもできなくなるかもしれない。だから今のうちに私たちと関わっておくのは、あんたにとっても宏科院にとっても悪い話じゃないの。それに……私はあいつに脅されたのよ。もしあんたがひどい目に遭わされたら、どこにいようと私のところに乗り込んで面倒ごとを起こしてやるって。そんなの、直接刀を送りつけてくるのと一緒じゃない！」\n「に、兄様にそんなつもりはなかろう……タン天師は宏科院で一番古株の天師じゃ。少なくとも……少なくとも、わらわはちゃんと敬っておる！」\n「あらあら、あんたは兄や姉よりよっぽど可愛げがあるじゃない！それで、特殊部隊の件はどう？考えは決まった？あんたも宏山に来てからそれなりに経つでしょ。」\n「わざわざ管理人まで説得役として連れてきたのじゃ。わらわがこうしてここに座っておるのだから、聞くだけ野暮じゃろう？」\n「わかったわ。じゃあこれがタロIIの『司祀台』最初の仕事ね。」\n「司『祀』台！？」\n「ん？『歳』をめぐる一切は、すでにテラで決着がついたわよね。あんたの兄や姉たちも、今では自由気ままに暮らしてるでしょ。そう考えるとこの場所で『司歳台』だなんて、あまりにも不正確……」\n「司歳台のままでよい！『司祀台』など聞こえが悪かろう。まるで、わらわを取り締まるための組織ではないか！」\n「はいはい、わかったから。あんたの好きにしなさい。」\n「では……特殊部隊の名はどうするのじゃ？」\n「あの子どもたちはくだらないことをああだこうだ気にしてるみたいだけど……私に言わせれば、あんたがいたからできたってことでしょ。それなら、いっそ『応龍特殊部隊』にするのはどう？」\n「さすがはタン天師じゃ！センスが良いのう！」",
+    "ko": "홍산 과학원 산하의 여러 전문 조직들 가운데, 사세대는 비교적 늦게 설립된 편이며, 테라 본토에 있는 동명 조직과는 그 직무에 있어 여러 차이가 있다. 사세대는 원래 염국이 '대사냥'이라 불리는 전쟁을 치른 뒤, 깊은 잠에 빠진 베헤모스 '쉐이'에 대응하기 위해 설립한 조직이었다. 그 산하의 '지촉인' 부대는 '쉐이'가 분화하여 남긴 열두 대리인의 행적을 오랜 기간 감시하고, 그 밖의 2차 재해에 대응하는 임무를 맡았다. 사세대와 그 관리 대상 사이의 관계는 지난 천 년 가까이 극도로 긴장된 상태를 유지해 왔다.\n반면 홍산 과학원의 사세대는 그 성격이 정보 전략 및 기술 지원 기관에 더 가깝다. 베헤모스의 힘을 응용하는 기술 연구 개발에 주력하며, 군사와 민생을 비롯한 다양한 분야에서 홍산 과학원에 지원을 제공하고 있다. 또한 사세대 자체는 물론, 이후 그 산하에 창설된 '응룡 특수부대' 역시 베헤모스 대리인 사가 직접 설립 과정에 참여했다. 무엇보다 그녀 본인도 이를 꽤 즐기고 있는 듯하다. 사세대의 입장에서 사는, 조금 괴팍하지만, 믿음직한 고문에 가까운 존재다.\n\n[특별 기록]\n\"...내 여동생에게 있어 탈로스 II는 하늘과 땅마저 좁게 느껴질 곳이겠지만, 그래도 아직은 어린 만큼 차근차근 경험을 쌓게 하고자 홍산으로 보냈으니, 담 천사께서 잘 보살펴 주시길 바랍니다. 혹시 신세를 지게 된다면 언제든 직접 찾아뵙고 감사드리겠습니다.\"\n\"오라버니가 편지에 겨우 이것만 썼다고요?\"\n\"모자란다고? 넌 새로운 대리인이다. 훗날 어떤 경지의 힘을 갖게 될지 누구도 알지 못한다. 만약 '쉐이'처럼 제멋대로 굴기라도 하면, 탈로스 II 전체가 널 막지 못할 수도 있다. 그러니 지금부터 우리와 자주 왕래해 두는 게 너한테도, 홍산 과학원에도 나쁠 게 없단다. 그리고... 네가 조금이라도 억울한 일을 당하면 어디에 있든 당장 찾아와 나를 가만두지 않겠다고 협박까지 하더구나. 칼자루를 안 부쳐 왔으니 다행이지!\"\n\"저, 저희 오라버니가 그런 뜻으로 한 말은 아닐 거예요... 그리고 담 천사님은 홍산 과학원에서 가장 연륜 있는 천사시잖아요. 저, 저도 나름대로 정말 존경하고 있다고요!\"\n\"허허, 넌 확실히 네 오빠나 언니보다 사람 마음을 더 잘 사는구나! 그래서, 특수부대 건은 좀 생각 정리가 되었느냐? 홍산에 온 지도 꽤 됐잖니.\"\n\"관리자까지 동원해서 저를 설득하려 하셨잖아요? 제가 지금 여기 앉아 있는 것만으로도 대답은 충분하지 않은가요?\"\n\"좋아, 그러면 이게 바로 탈로스 II 사사대의 첫 번째 업무가 되겠구나.\"\n\"'사사대'라니요?!\"\n\"음? '쉐이'와 관련된 모든 일은 이미 테라에서 끝이 났고, 네 오빠와 언니들도 이제는 각자의 삶을 자유롭게 살아가고 있고. 지금, 이 시점에서 '사세대'라는 이름은 사실 더 이상 정확하다고 할 수 없지...\"\n\"그래도 사세대가 더 좋아요! '사사대'는 너무 이상해요, 꼭 저 하나만 관리하려고 만든 곳 같잖아요.\"\n\"그래, 그래. 네 말대로 하자꾸나.\"\n\"그럼... 특수부대 이름은 뭐로 할 건가요?\"\n\"그 녀석들은 아직도 시답잖은 문제로 머리를 싸매고 있더구나. 내 생각엔 말이다, 애초에 네 덕분에 만들어진 새로운 조직이니, 차라리... 그냥 이름도 '응룡 특수부대'라고 하면 어떻겠니?\"\n\"역시 담 천사님, 안목 있으시네요! 정말 멋져요!\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "When the dust finally settled, Feranmut Sui never awoke again. \nHis body was gone. His will sank into silence amid the chaos. The pride, wrath, hatred, and defiance that had once defined Him all faded with the loss of His vessel. Bereft of His body, He became a child forced to confront a single question. \n\"Who am I?\" \nThe void offered no answer. He realized that perhaps He no longer had the right to answer that question Himself. \nSo He let go. After ages of warring with the world and Himself, He finally grew too weary to think. In that silence, He found a release He had never known. \n...... \nYet Sui had endured for far too long and grown far too mighty to vanish so easily. Too many fragments of Himself had been scattered across the ages. Even after His consciousness chose exile, something would still rise naturally, like morning dew gathering upon fresh leaves before falling away... \nSomething fell. \nThe sound caught the attention of a proxy who had yet to depart. \nWhether out of pity ... or caution ... he immediately gathered that flawless fragment of consciousness into his hands. It could neither speak nor wield any power. It was difficult to say whether it still bore any real connection to Sui Himself. Frail and unsteady, it flickered like a candle flame, bright and perfectly pure. \nFor the first time, the proxies found themselves uncertain. \nThey all knew it as the last remnant of Feranmut Sui. Had they wished to erase every lingering trace of Him, they could have done so with a single thought. \nYet it lay quietly in the palm. \nCould this truly be the Sui they had always known? The proud Feranmut would never have laid Himself bare before His own proxies, not even to preserve His own existence. But if this was a life only just beginning... The proxies found themselves dimly recalling what it had felt like before they first came into being. \nIt searched. It struggled to answer a single question: What makes me who I am? When the last remnant of His former self could no longer provide that answer, the tiny consciousness instinctively sought out its own kin. \nThe children He had once created to walk among mortals had now become the ones to guide Him. To the twelve proxies, the irony was impossible to ignore. Their deliberations led nowhere, until one day, a voice broke through the silence of their minds. \nIt was faint. Weak. But startlingly innocent. \n\"Who am I?\" \n\"Where am I?\" \n\"Who are you?\" \n...... \nIn the end, the proxies chose to send that tiny consciousness through the Cosmic Gate into an unknown world. They understood that even the smallest remnant of the Feranmut resting within the Tomb of Sui carried countless threads of fate. Yet if it ... if she knew nothing of any of it, then she was no longer Him. \nPerhaps the answer she sought was never meant to be found on the land where Sui Himself had once failed. In a new world, a new soul might yet discover what it truly meant to exist and find an answer of her own. \nAnd so, that tiny spark of consciousness arrived on Talos-II, carrying all sorts of ... well... odds and ends. Honestly, they packed far too much. They kept stuffing things into my ... no, into its hands. \nAfter that ... well, that's another story.",
+    "zh-TW": "塵埃落定之後，歲獸再也沒有從夢中醒來。\n祂的身軀被奪走，意志在昏亂中沉寂。無論以前構成祂的是什麼——傲慢、憤怒、憎恨、不甘，如今都隨著載體的離去而消散。沒了身軀，祂反而成了需要回答那個問題的孩童。\n「我是誰？」\n虛無之中並不存在答案。祂意識到，自己或許並沒有回答這個問題的資格。\n祂放棄了。在漫長的征伐和與自己的博弈之中，祂第一次開始感到難以思考的疲憊，並在這種疲憊中得到了過去難尋的解脫。\n…………\n但歲畢竟存在了太久，太過強大，分出了太多的個體，祂沒有那麼容易徹底消亡。哪怕在祂的意識選擇自我放逐之後，也總有些什麼會像朝露一樣自然浮現，然後自青翠間滴落……\n啪嗒一聲。\n這引起了某位尚未離開的歲獸代理人的注意。\n出於……憐憫？或者是警惕？他立刻捕獲了那團無瑕的意識。那團意識還不會言語，也不具備任何力量，甚至很難說和歲獸本體有什麼關聯。那團意識很脆弱，很弱小，飄搖不定。對了，就像是燭光……很明亮，也很清澈。\n代理人們第一次感到有些無所適從，他們討論究竟該如何應對。\n毫無疑問，它是歲獸最後的殘餘，每位代理人在見到它的瞬間就心知肚明，若是為了根絕歲獸的隱患，他們大可以當場將之抹消。\n但它只是安靜地躺在手心裡。\n它真的是人們所熟悉的那個歲嗎？即使是為了生存，傲慢的歲獸也不會將自己袒露於代理人面前，但若是一條新生命在尋求出路——代理人們隱約回想起了「出生」前朦朧的感受。\n它在探索，它在努力尋找「何以為我」的答案。當「自我」的殘餘不再能提供尋找這個答案的途徑時，它便在無意識間尋到了自己的「血親」。\n曾經在睡夢中為了行走人間誕下的嬰兒，如今卻成為了指引其生命方向的長輩，這對於十二位歲獸代理人而言，確實是一件諷刺至極的事。商討本來沒有結果，直到某一天，代理人們清晰地聽見一個聲音自意識中破殼而出。\n那個聲音同樣虛弱，同樣弱小，卻出乎意料地懵懂無知。\n那個聲音問：「我是誰？」\n然後再問：「我在哪裡？」\n最後又問：「你們是誰？」\n…………\n最終，代理人們決定讓這團意識渡過星門，前往那片未知的天地。他們知道，即使是歲陵中巨獸的殘餘，也承載了太多的因果，可既然它……既然她一無所知，那她就不是祂。\n或許對她而言，答案並不在這片歲獸曾經失敗過的大地上。當一個全新的靈魂遇到全新的世界，它就有機會尋得自己為人的位置，得出那個答案的結論。\n於是，一團小小的意識，帶著很多……呃，雜七雜八的物件——真的很雜，他們什麼都往我，不是，往它手裡塞——來到了塔衛二。\n在那之後，就是另一個故事了。",
+    "zh-CN": "尘埃落定之后，岁兽再没有从梦中醒来。\n祂的身躯被夺走，意志在昏乱中沉寂。无论以前构成祂的是什么——傲慢、愤怒、憎恨、不甘，如今都随着载体的离去而消散。没了身躯，祂反而成了需要回答那个问题的孩童。\n“我是谁？”\n虚无之中并不存在答案。祂意识到，自己或许并没有回答这个问题的资格。\n祂放弃了。在漫长的征伐和与自己的博弈之中，祂第一次开始感到难以思考的疲惫，并在这种疲惫中得到了过去难寻的解脱。\n…………\n但岁毕竟存在了太久，太过强大，分出了太多的个体，祂没有那么容易彻底消亡。哪怕在祂的意识选择自我放逐之后，也总有些什么会像朝露一样自然浮现，然后自青翠间滴落……\n啪嗒一声。\n这引起了某位尚未离开的岁兽代理人的注意。\n出于……怜悯？或者是警惕？他立刻捕获了那团无瑕的意识。那团意识还不会言语，也不具备任何力量，甚至很难说和岁兽本体有什么关联。那团意识很脆弱，很弱小，飘摇不定。对了，就像是烛光……很明亮，也很清澈。\n代理人们第一次感到有些无所适从，他们讨论究竟该如何应对。\n毫无疑问，它是岁兽最后的残余，每位代理人在见到它的瞬间就心知肚明，若是为了根绝岁兽的隐患，他们大可以当场将之抹消。\n但它只是安静地躺在手心里。\n它真的是人们所熟悉的那个岁吗？即使是为了生存，傲慢的岁兽也不会将自己袒露于代理人面前，但若是一条新生命在寻求出路——代理人们隐约回想起了“出生”前朦胧的感受。\n它在探索，它在努力寻找“何以为我”的答案。当“自我”的残余不再能提供寻找这个答案的途径时，它便在无意识间寻上了自己的“血亲”。\n曾经在睡梦中为了行走人间诞下的婴儿，如今却成为了指引其生命方向的长辈，这对于十二位岁兽代理人而言，确实是件讽刺至极的事。商讨本来没有结果，直到某一天，代理人们清晰地听见一个声音自意识中破壳而出。\n那个声音同样虚弱，同样弱小，却出乎意料地懵懂无知。\n那个声音问：“我是谁？”\n然后再问：“我在哪里？”\n最后又问：“你们是谁？”\n…………\n最终，代理人们决定让这团意识渡过星门，前往那片未知的天地。他们知道，即使是岁陵中巨兽的残余，也承载了太多的因果，可既然它……既然她一无所知，那她就不是祂。\n或许对她而言，答案并不在这片岁兽曾经失败过的大地上。当一个全新的灵魂遇上全新的世界，它就有机会寻得自己为人的位置，得出那个答案的结论。\n于是，一团小小的意识，带着很多……呃，杂七杂八的物件——真的很杂，他们什么都往我，不是，往它手里塞——来到了塔卫二。\n在那之后，就是另一个故事了。",
+    "ja": "すべてに決着がついたあと、歳獣は夢から目覚めることはなかった。\nその肉体は奪われ、混沌の中で意識は静かに沈んでいった。かつて歳獣を形作っていたものが何であれ――傲慢、憤怒、憎悪、無念。そのすべてが器を失ったことで消え去っていた。むしろ肉体を失ったことで、歳獣はあの問いに向き合わねばならない幼子となった。\n「我は誰か？」\n虚無の中に、答えなどない。もしかすると、この問いに答える資格すらないのではないかと考えた。\n歳獣は諦めた。長きにわたる討伐と、自らを相手にした果てのないせめぎ合いの中で、初めて思考さえ億劫になるほどの疲れを覚えた。そしてその疲労の中で、かつて得ることのできなかった安らぎを手にした。\n…………\nだが、歳はあまりにも長く存在し、あまりにも強大で、あまりにも多くへと分かたれていた。そう簡単に完全な消滅を迎えることはできなかった。その意識が自らを追放する道を選んだ後でさえ、何かが朝露のように自然と浮かび上がり、青々とした葉の間からこぼれ落ちる……\nぽたり。\nその音に、まだその場にいた歳獣の代理人の1人が気づいた。\nそれは……憐れみだったのか。それとも、警戒だったのか。彼はすぐさま、その純粋な意識を捕らえた。それはまだ言葉も知らず、何の力も持っていなかった。歳獣そのものと繋がりがあるのかさえ、定かではなかった。脆く、か弱く、頼りなく揺らめく……そう、まるで蝋燭の灯のように、明るく、そして澄んでいた。\n代理人たちは初めて、どうすべきかわからず戸惑った。どう扱うべきかを、皆で話し合った。\n疑いようもなく、それは歳獣に残された最後の残滓であった。目にした瞬間、代理人は皆、それを悟っていた。歳獣の禍根を完全に断つのであれば、この場で消し去ってしまえば良い。\nしかし、それはただ静かに手のひらの上に横たわっていた。\n本当に、人々が知るあの歳なのだろうか？たとえ生き延びるためであろうと、傲慢な歳獣が代理人たちの前で無防備な姿をさらすことなどない。ただ、これがもし生きる道を求める新たな命なのだとしたら――代理人たちはおぼろげに、自分たちが「生まれる」前に抱いていた感覚を思い出した。\n探していた。「何をもって我となるのか」その答えを懸命に探し求めていた。「自我」の残滓から、その答えへ至る道を見つけられなくなったとき、無意識のうちに、自らの「血縁」を頼った。\nかつて夢の中で人の世を歩むために生み出した赤子たちが、今では逆に、この命の行く先を導く年長者となっている。12人の歳獣の代理人にとって、それはなんとも皮肉な巡り合わせだった。話し合いは結論に至らなかった――ある日、その意識の殻を破って生まれた声を、はっきりと耳にするまでは。\nその声もまた、か細く、弱々しかった。だが、驚くほど何も知らない、無垢な声だった。\nその声は尋ねた。「わたしは、だれ？」\nそして、もう一度。「ここは、どこ？」\n最後に、こう尋ねた。「あなたたちは、だれ？」\n…………\n最終的に、代理人たちはその意識を星門の向こうへ送り、未知の天地へ旅立たせることにした。たとえ歳の陵墓に残された巨獣の残滓であろうとも、あまりにも多くの因果を背負っていることは、彼らにも分かっていた。だが、それでも……彼女が何も知らないのなら、彼女は歳獣ではない。\nもしかすると彼女にとって、答えはかつて歳獣が敗れたこの大地にはないのかもしれない。まったく新しい魂が、まったく新しい世界と出会う。そうすれば、1人の「人」として自分がどこに立つべきなのかを見つけ、あの問いへの答えを得られるかもしれない。\nこうして、小さな意識の塊は、たくさんの……ええと、雑多な品々を抱え――本当に雑多じゃったのう。皆、何でもかんでもわらわに……いや、彼女に持たせて――タロIIへとやって来た。\nその後のことは、また別の物語じゃ。",
+    "ko": "먼지가 가라앉은 뒤, 쉐이는 다시는 잠에서 깨어나지 않았다.\n그의 육신은 빼앗겼고, 의지는 혼란 속에 잠겼다. 한때 그를 이루고 있던 오만, 분노, 증오, 미련... 그 어떤 것이든, 이제는 육신이라는 그릇을 잃으며 모두 흩어져 사라졌다. 몸을 잃은 뒤에야, 그는 오히려 하나의 질문에 답해야 하는 어린아이가 되었다.\n\"나는 누구인가?\"\n허무 속에는 답이 존재하지 않았다. 어쩌면 자신에게는 그 질문에 답할 자격조차 없다는 사실을 깨달았다. 그리고 모든 것을 내려놓았다.\n기나긴 정벌과 자신과의 싸움 속에서, 처음으로 생각하는 것조차 버거운 피로를 느꼈고, 그 피로 속에서 이제껏 얻지 못했던 해방을 맞이했다.\n......\n그러나 쉐이는 너무 오랜 세월 존재했고, 너무나 강대한 존재였으며, 수많은 개체로 분화되어 있었다. 그렇기에 그렇게 쉽게 완전히 소멸할 수는 없었다. 비록 그 의식이 스스로 추방을 선택했더라도, 언제나 무언가가 아침 이슬처럼 자연스레 맺혔다가, 푸른 잎사귀 사이로 뚝 떨어지곤 했다...\n톡, 하는 소리와 함께.\n그 작은 소리가 아직 떠나지 않았던 한 쉐이의 대리인의 시선을 붙잡았다.\n...연민이었을까. 아니면 경계심이었을까. 그는 곧바로 그 티끌 하나 없는 의식을 붙잡았다. 그 의식은 아직 말도 할 줄 몰랐고, 어떤 힘도 지니지 않았으며, 심지어 쉐이의 본체와 무슨 관련이 있는지조차 판단하기 어려웠다. 그 의식은 몹시 여리고, 몹시 약했으며, 흔들흔들 위태로웠다. 마치 촛불 같았다... 작지만 환하고, 또 맑았다.\n대리인들은 처음으로 어찌할 바를 몰랐고, 이를 어떻게 처리해야 할지 논의했다.\n의심할 여지 없이, 그것은 쉐이의 마지막 잔재였다. 모든 대리인은 그것을 보는 순간 이미 그 사실을 깨달았다. 쉐이라는 위험의 싹을 뿌리 뽑고자 한다면, 그 자리에서 당장 없애 버리는 것도 가능하다는 것을.\n하지만 그것은 그저 조용히 손바닥 위에 누워 있을 뿐이었다.\n정말 이것이 사람들이 알고 있던 그 쉐이인가? 설령 살아남기 위해서라 해도, 오만한 쉐이라면 결코 스스로를 대리인들 앞에 자신을 있는 그대로 드러내지 않았을 것이다. 하지만 만약 새로운 생명이 살아갈 길을 찾고 있는 것이라면... 대리인들은 문득 흐릿하게나마 자신들이 '태어나기' 전에 느꼈던 그 희미한 감각을 떠올렸다.\n그것은 '나는 무엇인가'라는 질문의 답을 찾기 위해 헤매고 있었다. '자아'의 잔재가 더는 그 답을 찾을 길을 내어주지 못하게 되자, 그것은 무의식중에 자신의 '혈육'을 찾아 나선 것이었다.\n한때는 꿈속에서 세상을 거닐기 위해 태어난 아이였던 존재들이, 이제는 오히려 그 생명의 길을 이끄는 어른이 되었다. 이는 쉐이의 열두 명의 대리인에게는 참으로 아이러니한 일이었다. 논의는 좀처럼 결론이 나지 않았다. 그러던 어느 날, 대리인들은 의식 속에서 하나의 목소리가 깨어나는 것을 또렷이 들었다.\n그 목소리 역시 힘없고 여렸지만, 뜻밖에도 순진무구할 정도로 아무것도 모르는 듯했다.\n그 목소리가 물었다. \"나는 누구지?\"\n그리고 다시 물었다. \"여기는 어디지?\"\n마지막으로 또다시 물었다. \"당신들은 누구지?\"\n......\n마침내 대리인들은 그 의식을 스타게이트 너머 미지의 세계로 건너보내기로 결정했다. 쉐이 능묘 속에 남은 베헤모스의 잔재라 해도 너무나 많은 인과를 짊어진 존재라는 사실을 그들은 알고 있었다. 하지만 아무것도 모른다면... 아니, 그녀가 정말 아무것도 모른다면, 그녀는 더 이상 '그분'이 아니었다.\n어쩌면 그녀가 찾는 답은, 쉐이가 한때 실패를 겪었던 이 땅에는 없을지도 모른다. 완전히 새로운 영혼이 완전히 새로운 세계와 마주할 때, 비로소 자신이 어떤 존재인지 스스로 답을 찾을 기회를 얻을 수 있을 것이다.\n그렇게 작디작은 의식 하나가, 이런저런... 음, 온갖 잡동사니를 들고... 정말 온갖 것이었다. 다들 나한테, 아니, 그것의 손에 뭐든 쥐여 주려고 했으니까... 그렇게 탈로스 II로 건너왔다.\n그리고 그 이후의 이야기는, 또 다른 이야기다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0036_jsspsi_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Hmph. Only think of me when trouble shows up?",
+    "zh-TW": "哼，惹了麻煩，才想起來找我？",
+    "zh-CN": "哼，惹了麻烦，才想起来找我？",
+    "ja": "ふんっ、面倒を起こして、それで思い出したのか？",
+    "ko": "흥, 꼭 사고를 쳐야 내 생각이 나지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "I'll help you out again. Remember to pay up once we get back to the inn.",
+    "zh-TW": "再幫你一把，回客棧了記得找我清帳。",
+    "zh-CN": "再帮你一把，回客栈了记得找我清账。",
+    "ja": "ツケでよいな。あとで、わらわへの支払いを忘れるでないぞ。",
+    "ko": "한 번 더 도와줄게, 객잔으로 돌아가면 잊지 말고 갚아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "And don't talk to me from now on. I need to focus.",
+    "zh-TW": "接下來不許跟我說話，不然我沒辦法專心了。",
+    "zh-CN": "接下来不许跟我说话，不然我没法专心了。",
+    "ja": "話しかけるな。集中できぬであろう。",
+    "ko": "이제부터 나한테 말 걸지 마. 집중이 안 되니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Come on, say something. I get distracted when it's too quiet.",
+    "zh-TW": "你別不說話，太安靜了我反而容易分心！",
+    "zh-CN": "你别不说话，太安静了我反而容易分神！",
+    "ja": "黙るでない。静かすぎて気が散るじゃろう！",
+    "ko": "진짜 아무 말도 안 하는 거야? 너무 조용하면 더 집중이 안 된단 말이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "You chose this? Hmm... How about two strokes of ink? Mine now, you're not taking it back.",
+    "zh-TW": "這是你挑的？嗯……待我添上兩筆。現在它是我的了，你可別想再要回去。",
+    "zh-CN": "这是你挑的？唔……待我添上两笔。现在它是我的了，你可别想再要回去。",
+    "ja": "お主が選んだのか？……ちょいと筆を入れる。うむ、これでわらわのものじゃ。取り返そうなどと考えるではないぞ。",
+    "ko": "네가 고른 거야? 음... 덧칠을 좀 해야겠네. 이제 내 거니까, 도로 가져갈 생각하지 마."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "It even takes my wings into account… Ahem. N... Not bad, but I won't be nice just because of this.",
+    "zh-TW": "居然連翅膀怎麼放都考慮到了……咳，這是你該用的心，我、我可不會誇你。",
+    "zh-CN": "居然连翅膀怎么放都考虑到了……咳，这是你该用的心，我、我可不会夸你。",
+    "ja": "なんと、翼の収まりまで考慮されておると……ふ、ふん。これくらい当然じゃ。褒めたりなどせんからな。",
+    "ko": "내 날개까지 신경 써서 준비한 거라고...? 크흠... 당연히 그 정도는 해야지! 서, 설마 내가 칭찬이라도 해줄 거라고 생각했어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Ah! Inspiration strikes! Quick, don't just stand there! Give me some paper!",
+    "zh-TW": "有靈感了，快點，別站在那裡，幫我找張紙來！",
+    "zh-CN": "有灵感了，快点，别杵在那儿，给我找张纸来！",
+    "ja": "おお、閃いた！急いで紙を寄越すのじゃ。ぼんやりするな！",
+    "ko": "영감이 떠올랐어! 바보처럼 서 있지 말고 종이 좀 가져와 봐!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "Watch it a few more times to remember... Why are you smiling? I was talking to you!",
+    "zh-TW": "多看幾遍，才不會忘記……笑什麼？我在說你呢！",
+    "zh-CN": "多看几遍，才不会忘记……笑什么？我在说你呢！",
+    "ja": "忘れぬよう、何遍も見て……うむ？なぜ笑う、お主に言っておるのだぞ！",
+    "ko": "여러 번 봐야 안 잊지... 뭘 웃고 그래? 너 들으라고 하는 소리거든?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Just so we're clear, I'm just an honorary Endfielder, so don't expect me to do everything. Also, Endfield better be as interesting as you claim.",
+    "zh-TW": "先說好，我只是在這裡掛個名，別指望我什麼忙都會幫。你得保證，終末地和你說的一樣有趣。",
+    "zh-CN": "先说好，我只是在这儿挂个名，别指望我什么忙都会帮。你得保证，终末地和你说的一样有趣。",
+    "ja": "何でも頼ろうとするでない、わらわは名を貸しておるだけじゃ。エンドフィールドは面白い場所だと言ったのはお主じゃろう？",
+    "ko": "미리 말해두겠는데, 난 여기 이름만 걸어둔 거야. 내가 뭘 도와줄 거란 기대는 하지 말라고. 어쨌든... 네 말대로 엔드필드가 꽤 재밌는 곳이었으면 좋겠네."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "Give me your hand and let me stamp it with my tail. There... That will do. And you better not rub it off until I decide to stamp you a new one.",
+    "zh-TW": "把手伸出來，我用尾巴蓋個章，這樣就算簽字確認了……對了，在我幫你蓋新的之前，可不許擦掉。",
+    "zh-CN": "把手伸出来，我用尾巴盖个戳，这样就算签字确认了……对了，在我给你盖新的之前，可不许擦掉。",
+    "ja": "ほれ、手を出せ。尻尾で判を押してやるから、これを署名の代わりとせい……次また押すときまで、擦って消してはならんぞ。",
+    "ko": "손 줘 봐. 꼬리로 도장 찍어 줄게. 이걸로 서명은 끝난 거야, 알겠지? 참... 내가 새로 찍어주기 전엔 절대 지우면 안 돼."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Ink Spirit, write down what the Endmin said. Every, single, word. HAS wants me to give a speech to the young Yinglungs. This'll come in handy.",
+    "zh-TW": "墨魎，記好管理員剛剛說的，一個字都不許漏。宏科院讓我去見見應龍的年輕人，正好派得上用場。",
+    "zh-CN": "墨魉，记好管理员刚刚说的，一个字都不许漏。宏科院让我去见见应龙的年轻人，正好派得上用场。",
+    "ja": "墨魎よ、管理人の言葉を一言一句記録しておけ。宏科院から応龍の若造どもに話をするように頼まれていてな。ちょうど使えると思ってのう……",
+    "ko": "묵량, 방금 관리자가 한 말... 토씨 하나 안 틀리게 적어 둬. 홍산 과학원에서 응룡의 애송이들을 만나보라던데, 그때 써먹기 딱 좋겠네."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "You keep promoting me, but if you ever fail to do what you promised, I'm heading back to the inn. Keep your matters separate from Endfield. What happens between us is between us.",
+    "zh-TW": "雖然一直在幫我晉升，但要是哪天你答應的事沒做到，我就回客棧了。終末地是終末地，你是你。我們的事，是要另算的。",
+    "zh-CN": "虽然一直在给我晋升，但要是哪天你答应的事没做到，我就回客栈了。终末地是终末地，你是你。我们的事，是要另算的。",
+    "ja": "ずっと昇進させてくれてはおるが、お主が約束を果たせぬのなら、わらわは宿に帰るぞ。エンドフィールドはエンドフィールド、お主はお主。それぞれ別モノじゃからのう！",
+    "ko": "계속 잘 대해주는 건 좋은데... 네가 또 약속한 걸 어긴다면, 난 바로 객잔으로 돌아갈 거야. 엔드필드는 엔드필드고, 너는 너잖아. 너랑 나의 일은 따로 계산해야지."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Hold it, keep it still! The ink isn't even dry yet... This painting's for you. What I drew isn't important. It's my seal that matters! And don't you ever forget my name again!",
+    "zh-TW": "你這小東西，叼好別亂動，墨水還沒乾呢……這幅畫送你。別管畫了什麼，重點是落款！不許再忘記我的名字了！",
+    "zh-CN": "你这小东西，叼好别乱动，墨水还没干呢……这幅画送你。别管画了什么，重点是落款！不许再忘记我的名字了！",
+    "ja": "ほれ、しっかりくわえて、墨が乾くまではじっとしておれ……これはお前にじゃ。絵ではのうて、落款をよく見よ！わらわの名前、また忘れたらタダじゃおかんからな！",
+    "ko": "너, 얌전히 물고 있어. 아직 먹물도 안 말랐다고... 자, 이 그림 줄게. 뭘 그렸는지가 중요한 게 아니야. 낙관을 잘 보라고, 낙관을! 또 내 이름 까먹기만 해봐!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "This, then that... Alright, roll it up. Ahem. Your draft is done. Gotta be patient!",
+    "zh-TW": "先收著吧……咳，草稿打好了，還急什麼？",
+    "zh-CN": "先收着吧……咳，草稿打好了，还急什么？",
+    "ja": "こんなところか……もう下書きは完成じゃ、ゆっくりで良いのじゃ！",
+    "ko": "일단 챙겨둬... 흠흠, 밑그림도 다 그렸는데, 뭐가 그리 급해?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "You've been hanging around me for years, why can't you learn anything from me? Such as faking my signature.",
+    "zh-TW": "跟了我這麼久，你們連幫我簽個名都不會？",
+    "zh-CN": "跟了我这么久，你们连帮我签个名都不会？",
+    "ja": "わらわとずっと一緒にいて、代わりに署名することも出来ぬのか！",
+    "ko": "하루이틀 따라다닌 것도 아닌데, 내 서명 하나 대신 못 해?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "You lured me to this place just so you could sit back and relax? Not happening. You're staying here with me.",
+    "zh-TW": "騙我過來，自己好當甩手掌櫃？不許走，你得陪著我一起。",
+    "zh-CN": "诓我过来，自己好当甩手掌柜？不许走，你得陪着我一起。",
+    "ja": "わらわを騙して呼びつけて、自分は知らん顔するつもりか？ダメじゃ。最後まで付き合え！",
+    "ko": "날 데려와 놓고, 혼자 뒤로 쏙 빠져계시겠다? 안 되지, 너도 나랑 여기 있어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Trying to walk past me? Are you pretending I'm invisible?",
+    "zh-TW": "差點走過了，你一開始竟然沒看見我嗎？",
+    "zh-CN": "差点走过了，你一开始竟然没看见我吗？",
+    "ja": "お主、黙って通り過ぎようとしたな？わらわが見えなかったとでも言うつもりか！",
+    "ko": "하마터면 그냥 지나칠 뻔했잖아. 설마 처음부터 날 못 봤다는 건 아니지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "So, that promise ten years ago. You gonna make up for it?",
+    "zh-TW": "……十年前答應的事情，你打算什麼時候補上？",
+    "zh-CN": "……十年前答应的事情，你打算什么时候补上？",
+    "ja": "……10年前の件、埋め合わせはいつするんじゃ？",
+    "ko": "...십 년 전에 했던 약속은 언제 지킬 거야?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Me? Idling around? See that porthole window? I drew an entire painting titled \"Travelers Across Talos-II\" on it... But someone took their time coming over, so I erased everything.",
+    "zh-TW": "什麼叫呆站著？看見那面舷窗沒，我剛剛在上面畫了一整幅《塔衛二行旅圖》……誰叫你遲到的，全部都被抹掉了。",
+    "zh-CN": "什么叫呆站着？看见那面舷窗没，我刚刚在上面画了一整幅《塔卫二行旅图》……谁让你迟到的，全部都抹掉了。",
+    "ja": "ぼんやり突っ立って、どうしたの……じゃと？窓に『タロⅡ行旅図』を描いておったのだぞ。お主が遅刻するから、すっかり消してしまったがのう！",
+    "ko": "여기서 뭐 하냐고? 저기 현창 안 보여? 방금 저기다가 <탈로스 II 여정 지도>를 그려놨거든. 아무것도 없다고? 그야 이미 지웠으니까 그렇지. 그러게, 누가 늦게 오래?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "Why do you keep showing up whenever I visit Dijiang? What, you saw Ink Spirits at the corner...? Ah, well... Seems like you showed up on my path on purpose!",
+    "zh-TW": "怎麼我每次來帝江號，你都會特意找過來？你說你剛剛在轉角看見了墨魎……對、對啊，是你特意出現在了我的必經之路上！",
+    "zh-CN": "怎么我每次来帝江号，你都会特意找过来？你说你刚刚在拐角看见了墨魉……对、对啊，是你特意出现在了我的必经之路上！",
+    "ja": "帝江号に来るたび、お主は必ず顔を見せるのう……む？先ほど角で墨魎を見ただと？……う、うむ、わらわの通り道にお主が勝手にやってきただけじゃろうが！",
+    "ko": "어째 내가 제강호로 올 때마다 일부러 찾아오는 것 같다? 뭐? 방금 모퉁이에서 묵량을 봤다고? ...그, 그랬겠지! 내가 지나갈 만한 길에서 네가 기다리니까 말이야?!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "I'll paint your portrait and hang it at my place. That'll keep the waregeists away if you visit my scroll on your own... Hmm? I do have one from ten years ago. But you weren't wearing anything on your face back then.",
+    "zh-TW": "我要畫一幅你的畫像帶回去，這樣以後沒人帶路，你進畫裡也不會被器倀騷擾了……嗯？十年前我是畫過了，但當時你臉上也沒戴這個東西啊。",
+    "zh-CN": "我要画一幅你的画像带回去，这样以后没人带路，你进画里也不会被器伥骚扰了……嗯？十年前我是画过了，但当时你脸上也没戴这个东西啊。",
+    "ja": "お主の肖像画を1枚描いて、絵の中に持っていきたいのじゃ。さすれば、絵の中で案内がなくとも器鬼に悩まされぬはず……む？10年前にも確かに描いたが、そのときは顔にそんなものを着けていなかったじゃろう？",
+    "ko": "네 초상화를 하나 그려가야겠어. 그럼, 네가 길잡이 없이 그림에 들어가도 치창들한테 시달리진 않을 테니까... 응? 아... 십 년 전에도 그리긴 했는데, 그땐 너 이런 거 안 쓰고 있었잖아."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Maps, pillows, munchies, stove, stimulating tisane... Oh. Just making a list of stuff to bring to Sami. Traveling gives me my inspirations. See if you got any more ideas... Of course you're coming along, or I wouldn't be telling you all this! No, I got Ink Spirits to carry my bags around, not you, Dolt!",
+    "zh-TW": "地圖、枕頭、點心、爐子、醒神茶……我在盤點下次去薩米時該帶點什麼。不出去轉轉，靈感從哪來？你看看還有什麼要補充的……跟你說這麼多，當然是找你一起啊！有墨魎在，到時候輪不到你背行李，呆子。",
+    "zh-CN": "地图、枕头、点心、炉子、醒神茶……我在盘点下次去萨米时该带些什么。不出去转转，灵感从哪儿来？你看看还有什么要补充的……跟你说这么多，当然是找你一起啊！有墨魉在，到时候轮不到你背行李，呆货。",
+    "ja": "地図、枕、菓子、炉、眠気覚ましの茶……次にサーミへ行くときの持ちものを確認しておった。外でぶらぶらしてこそ閃きは生まれる。何か、他に持っていくものはあるか？……これほど話してまだわからぬのか、一緒に行こうと言っておる！墨魎がおる、荷物持ちなどではないぞ。阿呆め！",
+    "ko": "지도, 베개, 디저트, 화로, 각성차... 다음에 사미로 갈 때 가져갈 물건 정리하는 중이야. 한 곳에만 있으면 영감이 떠오를 턱이 없으니까. 너도 더 챙길 거 없는지 봐봐... 당연히 너랑 갈 거니까 이렇게 말하는 거지! 짐은 묵량한테 들릴 거니까, 네가 들 일은 없어. 바보야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "I ran into Perlica. Miss little supervisor is just like you... Poor girl's trying to stay awake, even though she could literally fall asleep on her feet... You're exactly the same! Stop pulling all-nighters and go to sleep. Working yourself into the ground and then sleeping for ten years. Seriously?",
+    "zh-TW": "剛剛看見了佩麗卡，你的小監督和你簡直一個樣子，都快要站著睡著了，還在那硬撐著……我是說，你們兩個現在一個樣！快去睡個覺！你這個人，要嘛一睡睡十年，要嘛連眼睛都捨不得閉一下！",
+    "zh-CN": "刚刚看见了佩丽卡，你的小监督和你简直一个样，都快要站着睡着了，还在那儿硬撑着……我是说，你们俩现在一个样！快去打个盹！你这个人，要么一睡睡十年，要么连眼睛都舍不得闭一下！",
+    "ja": "先ほどペリカを見かけたが……あの監察官の小娘とお主はそっくりじゃ。今にも眠りそうなくらい無理をして……いや、違うな。同じじゃ！お主もちいと寝て来い！まったく、寝るといえば10年も寝て、寝ないとなれば目も閉じんとは！",
+    "ko": "너랑 꼬마 감독관, 진짜 똑 닮았다. 꾸벅꾸벅 졸면서까지 억지로 버티는 꼴이 딱 그래. 그러니까, 지금 너희 둘 다 엄청 졸려 보인다고! 얼른 가서 눈이나 좀 붙여! 너란 녀석은 진짜... 십 년을 내리 잘 땐 언제고, 이젠 왜 눈 한번 감는 것도 아까워하는 거야! 중간이 없어, 중간이!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Whoa...You can see almost half of Talos-II from here... I wonder where those two have wandered off to... Wha?! Who said I miss my siblings? Don't look at me like that...! *Sigh* Fine. Maybe I miss them a little bit. Just a bit...",
+    "zh-TW": "這裡居然能看見幾乎半個塔衛二，也不知道他們兩個如今閒晃到哪裡了……誰說我想哥哥姐姐了？欸，你別這樣一直盯著我——好吧，一點，就一點而已！",
+    "zh-CN": "这里居然能看见几乎半个塔卫二，也不知道他们俩如今晃悠到了哪里……谁说我想哥哥姐姐了？欸，你别这么一直盯着我——好吧，一点，就一点而已！",
+    "ja": "ここからタロⅡの半分が見えるとはのう。それにしても、あの2人はどこをウロついておるのじゃ……誰が兄様姉様を恋しがっていると言った！……そんな顔でじーっと見るな――ああもう……少し、ほんの少しだけじゃぞ！",
+    "ko": "여기선 탈로스 II가 잘 보이네. 오라버니랑 언니는 지금쯤 어딜 돌아다니고 있으려나... 그렇게 빤히 쳐다보지 마, 누가 보고 싶대? 알았어, 알았어. 조금! 그냥, 아주 조금 보고 싶을 뿐이야!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Here. A little gift for you, just something I doodled. Don't get too exci — Ah, wrong one! That self-portrait is just practice. GIVE IT BACK!",
+    "zh-TW": "吶，送你的禮物。隨手畫的，沒必要太激動——啊，拿錯了，這幅簡筆自畫像只是我隨手畫的，你還回來！",
+    "zh-CN": "喏，送你的礼物。随手画的，没必要太激动——呀，拿错了，这幅简笔自画像只是我随手画的，你还回来！",
+    "ja": "よし、お主にこれをやろう。戯れに描いただけじゃ、大げさに喜ぶ必要はないぞ――あ、それは……適当に描いた自画像で……返すのじゃ！",
+    "ko": "자, 선물이야. 그냥 대충 그린 거니까, 너무 호들갑 떨진 말고... 어? 잘못 줬다! 이건 그냥 심심해서 그린 초상화야. 얼른 내놔!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Er... W-When did you start getting all formal and official — HEY! Don't you dare take it back!",
+    "zh-TW": "你、你怎麼也喜歡這套繁文縟節了——欸，誰讓你收回去的！",
+    "zh-CN": "你、你怎么也喜欢这套繁文缛节了——欸，谁让你收回去的！",
+    "ja": "ふ、ふんっ。お主は堅苦しいやり方がほんに好きじゃのう――待て！引っ込めて良いとは言っておらぬ！",
+    "ko": "너, 언제부터 이런 번거로운 겉치레를 좋아하게 된 거야? ...아앗! 누가 도로 가져가래!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "If you've got time, swing by the inn for the welcome feast you missed. The kitchen dug up every rare ingredient we could get our hands on. Wait... Who did you say you were thanking?! Well then, it seems all the credit goes to the staff. Then I guess their heartless boss has no choice but to stop them from wasting all those precious ingredients! HMPH!",
+    "zh-TW": "記得抽空回趟客棧，為了幫你補辦接風宴，夥計們正忙著把廚房的天材地寶統統往外翻呢……你說你要好好感謝誰？好嘛，既然是夥計們瞎張羅，那我這個沒好心的掌櫃當然不能允許他們鋪張浪費了，哼！",
+    "zh-CN": "记得抽空回趟客栈，为了给你补办接风宴，伙计们正忙着把后厨的天材地宝统统往外翻呢……你说你要好好感谢谁？好嘛，既然是伙计们瞎张罗，那我这个没好心的掌柜当然不能允许他们铺张浪费了，哼！",
+    "ja": "暇を見つけて宿に戻れ。従業員総出で厨房の天材地宝をかき集め、歓迎の宴を開こうと準備をしておるのじゃ……うむ？誰に礼をするじゃと……？もうよい！わらわはどうせ優しくないからのう、従業員が無駄遣いするのを黙って見てはおれぬのう！",
+    "ko": "시간 날 때 객잔에나 한번 들러. 다들 네 환영회를 그냥 지나칠 순 없다고 주방의 비싼 재료들을 몽땅 꺼내 와선 난리도 아니니까... 뭐? 걔네들한테 감사 인사를 제대로 해야겠다고? 하... 그래, 난 성질 나쁜 고약한 사장이라 나한텐 감사 인사도 안 하겠다 이거지? 내가 저 녀석들 비싼 재료 쓰게 두나 봐라, 흥!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Take a whiff. See that cliff over there? That's where the tea bushes grow. As good as the tea is, I do have to send my best Ink Spirits to pick the leaves. A decade of work, all packed into this little jar. So you're really lucky today... Hey. Why are your teeth covered in ink? Wait... Mine too...? J-Just finish the tea. Every last drop. And stop looking at me!",
+    "zh-TW": "聞聞這茶香。看見對面的懸崖沒有，茶樹就長在那上面。茶是好茶，但要打發身手最好的墨魎爬上去，才能採摘到。我攢了十年，就得到這麼一小罐，今天算便宜你了……喂，你的嘴裡怎麼都是墨水？你說我、我的也……喝你的，一滴也不許剩，還有，不許你抬頭看我！",
+    "zh-CN": "闻闻这茶香。看见对面的悬崖没有，茶树就长在那上面。茶是好茶，但要打发身手最好的墨魉爬上去，才能采摘到。我攒了十年，就得到这么一小罐，今天算便宜你了……喂，你的嘴里怎么都是墨水？你说我、我的也……喝你的，一滴也不许剩，还有，不许你抬头看我！",
+    "ja": "この茶の香を嗅いでみよ。向こうの崖にある良い茶の木から摘んだものじゃが、最も身軽な墨魎でなければ行くことすら叶わぬでのう。10年で集まったのはこれっぽっち。だが、今日はお主に奢ってやろう……む？なぜお主の口は墨だらけに……わらわも？だ、黙って飲み続けよ、一滴も残さずに。顔も上げるでないぞ、とにかくわらわの顔を見るな！",
+    "ko": "차향 어때, 나쁘지 않지? 저기 맞은편 절벽에서 자라는 차나무에서 따온 거야. 향은 좋은데, 워낙 구하기가 어려워서 제일 신체 능력이 좋은 묵량을 보내야만 겨우 얻을 수 있지. 십 년을 모았는데도 겨우 요 정도밖에 못 모았다니까... 근데 너, 입 주변이 왜 다 먹물 투성이야? 뭐? 나도 똑같다고? 몰, 몰라! 입 닫고 마시기나 해. 한 방울도 남기지 말고... 그리고 나 쳐다보지 마! 고개 숙이고 마셔, 고개 숙이고!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "Stop! That'll be all for today! Well, you've gotten pretty good at Weiqi. But my brother's still the best player on Talos-II. You're nowhere near his leag... What? This is the third time I've brought up my siblings this month? I-I'm not saying I wish they were still around! Just look at the mountain, the inn, and the fact that I at least got... AHEM! This place is lively enough as it is.",
+    "zh-TW": "不下了不下了！你棋下得挺好，但我哥哥才是塔衛二上最厲害的棋手，你比起他還是差遠了……這是我這個月第三次說起哥哥姐姐了？我、我可沒想他們能一直陪著我。看看這座山，這間客棧，現在我身邊還有……咳！現在不是很熱鬧嗎？",
+    "zh-CN": "不下了不下了！你棋下得挺好，但我哥哥才是塔卫二上最厉害的棋手，你比起他还是差远了……这是我这个月第三次说起哥哥姐姐了？我、我可没想他们能一直陪着我。看看这座山，这间客栈，现在我身边还有……咳！现在不是很热闹吗？",
+    "ja": "ええい、もうやめじゃ！お主の碁の腕はまあまあと言ったところじゃが、わらわの兄、タロⅡ最強の棋士と比べれば……何じゃと？兄様姉様の話は今月に入ってもう3回目……ふんっ、寂しがってなどないぞ。この山、宿、それに今わらわの傍には……つまり、十分賑やかだということじゃ！",
+    "ko": "나 안 할래. 안 둬, 안 둬! 어휴, 사실 너도 바둑을 진짜 잘 두긴 하는데, 그래도 난 탈로스 II에서 가장 잘 두는 사람이 우리 오라버니라고 생각해. 넌 아직 한참 멀었다는 뜻이야! ...뭐? 내가 이번 달에만 오라버니랑 언니 얘기를 세 번이나 했다고? 나, 난 오라버니랑 언니가 계속 내 옆에 있길 바란다느니 어쩌느니 같은 생각한 적 없어! 이미 내 곁에는 이 산이랑 객잔, 그리고... 어쨌든! 지금도 아주 시끌벅적하니까!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "Already making a distant trip before full recovery? What are you made of, Xiranite? Really think you can't fall apart? Hmph. I was hoping that stupid habit of self-abuse disappear with your memories, Dork-Min! Gimme the mission details and I'll go in your place! Remember, you owe me one. AGAIN!",
+    "zh-TW": "傷沒好徹底，就急著出遠門，難不成你以為自己的身體是息壤，怎麼折騰都不會壞？哼，你這個不把自己當回事的毛病，怎麼沒跟著記憶一起丟了？倔貨！告訴我任務的細節，我替你跑一趟！記住，你又給我添了一次麻煩！",
+    "zh-CN": "伤没好彻底，就急着出远门，难不成你以为自己的身体是息壤，怎么折腾都不会坏？哼，你这个不把自己当回事的毛病，怎么没跟着记忆一起丢了？倔货！告诉我任务的细节，我替你跑一趟！记住，你又给我添了一次麻烦！",
+    "ja": "そんな傷で出かけるなど、自分が息壌製だとでも思っておるのか！ふんっ、己のことを顧みぬその悪癖、どうして記憶と一緒に置いてこなかったのだ、この頑固者め！わらわが代わりに行く。任務の詳細を話してみよ。それから、わらわにまたツケ1つじゃからな。忘れるでない！",
+    "ko": "상처도 다 안 나았는데, 어딜 또 나가려고? 네 몸이 무슨 식양이라도 되는 줄 알아? 기억은 하나도 없으면서, 왜 자기 몸 하나 제대로 못 챙기는 버릇은 그대로인 건데? 하여튼... 고집불통이라니까, 진짜. 됐고, 임무 정보나 알려줘. 내가 대신 갈게. 꼭 기억해, 너 이번에도 나한테 빚진 거야!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "Sit. Miss the sunrise? Just paint it with the brush. Back then, you made uninvited visits when I was alone. You had a way of turning ridiculous ideas into comforting words... Fine. I know my words won't bring back any of your lost memories right now. But if you dare to forget anything ever again, I won't talk to you for the next ten... no, one hundred and fifty years!",
+    "zh-TW": "坐吧。想看夕陽的話，自己拿筆畫幾下。以前我一個人的時候，你也是這樣不請自來，什麼歪理到你嘴裡都能變成安慰人的話……行了，我知道你暫時想不起來。但今後的事情，你要是敢再忘記，往後十年，不，一百五十年，我都不會和你說話了！",
+    "zh-CN": "坐吧。想看夕阳的话，自己拿笔画几下。以前我一个人的时候，你也是这样不请自来，什么歪理到你嘴里都能变成安慰人的话……行了，我知道你暂时想不起来。但今后的事情，你要是敢再忘记，往后十年，不，一百五十年，我都不会和你说话了！",
+    "ja": "そこに座れ。夕日が見たくば、筆を取ってお主自身で描いてみよ。前、わらわが独りだったときもお主は呼んでもおらぬのにやって来て……どんな屁理屈も、お主の口を通せば励ましの言葉に変わった。いや、構わぬ。今思い出せないことはわかっておる。だが、もしこれ以上忘れてみろ。10年……いや、150年、絶対口をきいてやらぬぞ！",
+    "ko": "앉아. 노을이 보고 싶으면 직접 한번 그려보든가. 전에 내가 혼자 있을 때도, 넌 이렇게 불쑥불쑥 찾아와선 말도 안 되는 소리를 위로랍시고 늘어놓곤 했지... 됐어, 어차피 지금은 기억도 못 할 텐데, 뭐... 하지만, 앞으로 일어날 일들까지 잊는 건 용서 못 해. 한순간이라도 잊으면, 그땐 십 년... 아니, 백오십 년 동안은 말도 안 섞을 거야!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "I've been getting more and more people wanting to visit the scroll, but the inn wasn't built to handle so many visitors. The staff suggested putting up a bulletin board in the main hall... It sounds like a great idea, but that means I'll be getting a lot of random suggestions. I-I just don't have time to go through everything. So, could you sort through them first... then I can just focus on the useful ones?",
+    "zh-TW": "這陣子，想進畫裡逛逛的人越來越多了，客棧沒接待過那麼多客人，夥計們建議在大廳裡放一個留言板……主意是不錯，但那豈不是會有很多人留意見？我、我主要是沒工夫看，這樣吧，以後你先幫我篩選一遍，然後我再看。",
+    "zh-CN": "这阵子，想进画里逛逛的人越来越多了，客栈没接待过那么多客人，伙计们建议在大堂里支一个留言板……主意是不错，但那岂不是会有很多人留意见？我、我主要是没工夫看，这样吧，以后你先帮我筛选一遍，然后我再看。",
+    "ja": "近頃、絵の中を観光したいという者が増えておる。従業員は広間に伝言板を置いてみてはどうかと言う……悪くはないが、そうするといろんな意見が集まるじゃろう？ぐ、いや……ただ、目を通す暇が無いのではと……わかったぞ。まずはお主が見てふるいにかけ、それからわらわが見るのはどうじゃ？",
+    "ko": "요즘 그림으로 들어오려는 사람들이 점점 늘어나고 있어. 객잔에 이렇게 손님이 많았던 적이 없었거든. 그래서 그런지, 직원들이 방명록이라도 하나 준비해야 하는 거 아니냐고 말하더라... 괜찮은 생각이긴 한데, 그럼 수많은 사람이 의견을 남길 거 아니야? 음... 난 그거 하나하나 읽어볼 시간이 없는데... 아, 이렇게 하자! 네가 한번 읽어보고 쫙 걸러내면 그다음에 내가 읽어보는 걸로!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "The pinnacle of forging is to compress every manufacturing step within a single breath and turn every idea into reality. Just like this shield I'm holding... What? A defective pore...? AHEM. Oh yes, this is just a sample piece. Tiny flaws are expected, and definitely unrelated to the mastery of my powers.",
+    "zh-TW": "鍛造的極致，是把所有的工序都壓縮在一息之間，心裡想什麼，手裡就能打造出什麼。就好比我手裡這面盾……那是個氣孔嗎……咳，臨時拿來示範的東西，有瑕疵很、很正常吧？和我的權能精不精通可沒有關係！",
+    "zh-CN": "锻造的极致，是把所有的工序都压缩在一息之间，心里想什么，手里就能打造出什么。就好比我手里这面盾……那是个气孔吗……咳，临时拿来示范的东西，有瑕疵很、很正常吧？和我的权能精不精通可没有关系！",
+    "ja": "鍛冶の極致とは、一息の間にすべての工程を終わらせること。心に思い描き、そのまま手の中に生み出す――まるでこの盾のようにな……気泡がある、じゃと？……これは見本じゃ。多少瑕疵があっても、と、当然なのじゃ。わらわの力とは無関係じゃ！",
+    "ko": "단조의 극치는 모든 공정을 단 한 호흡에 압축하는 거야. 마음속으로 상상한 걸 바로 손끝으로 빚어내는 거지. 마치 지금 내 손에 들린 이 방패처럼... 응? 기포가 있네...? 큼큼! 시, 시범용으로 대충 만든 거라서 저 정도 기포가 들어 있는 건 정상이야, 정상. 내 권능이 미숙해서 그런 게 절대 아니라고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Heard about chubby skydrummer plushies? I love chubbies and got a load of them in my inn. But chubby skydrummer plushies are exclusive prizes for the Wuling \"Sketch and Guess\" game, and it can't be played alone... Listen up, the next season is coming. I'm gonna teach you the tricks and you better learn... Of course you're drawing and I'm guessing! Do I look like the sort who cheats in games?",
+    "zh-TW": "你知道胖天鼓布偶嗎？我很喜歡這類小玩意，客棧裡收藏了不少。但胖天鼓布偶是武陵「你畫我猜」比賽的專屬獎品，我只有一個人，所以到現在都沒拿到……聽好了，下一輪比賽快到了，我好好教，你好好學……當然是你畫，我猜！我們兩個還犯得著作弊嗎？",
+    "zh-CN": "你知道胖天鼓布偶吗？我很喜欢这类小玩意，客栈里收藏了不少。但胖天鼓布偶是武陵“你画我猜”比赛的专属奖品，我只有一个人，所以到现在都没拿到……听好了，下一轮比赛快到了，我好好教，你好好学……当然是你画，我猜！我们俩还犯得着作弊吗？",
+    "ja": "「もっちり天鼓」を知っておるか？ああいった小物が好きで、宿にもコレクションしておるのだが……武陵お絵かきクイズ大会で賞を取らねば手に入らぬ。独りではどうしようも……良いか、次の大会はすぐじゃ。わらわが教えてやる、お主はとにかく学べ……うむ、描くのはお主、当てるのはわらわじゃ。2人なら、ズルせずとも勝てるに決まっておる！",
+    "ko": "통통한 천고 인형 알아? 난 그런 아기자기한 게 좋아. 그래서 객잔에도 잔뜩 놔뒀고. 근데 이 인형은 무릉에서 열리는 '그림으로 말해요' 시합 한정 상품이라 아직 못 구했단 말이지, 팀으로 참가해야 하는데 난 같이 할 사람이 없었거든... 그래서 말인데... 곧 다음 시합이 열릴 거야. 넌 내가 하라는 대로만 하면 돼, 알겠지? 응? 당연히 네가 그림을 그려야지, 내가 맞추고! 우리 사이에 뭐 반칙까지 할 필요가 있어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "Job Rusher is always slacking off, Speed Dasher is so big he could hardly move, and Loud Speaker greets guests so softly you'd miss it if you blink. It's been decades, and I gave up trying to fix up their habits. Oh? Well, they had nowhere else to go so I added them to the scroll. I can send them away... but I prefer my inn messy than quiet.",
+    "zh-TW": "「手不停」老是偷懶，「跑得快」胖得走不動路，「大嗓門」招待客人的聲音比蚊子還小，幾十年了，我看他們身上的臭毛病是改不掉了。嗯？當初那三個傢伙無家可歸，是我帶他們進了畫裡，如今自然也能把他們掃地出門，但……亂七八糟的客棧，總比冷冷清清的客棧要好一點吧？",
+    "zh-CN": "“手不停”老是偷懒，“跑得快”胖得走不动道，“大嗓门”招待客人的声音比蚊子还小，几十年了，我看他们身上的臭毛病是改不掉了。嗯？当初那三个家伙无家可归，是我带他们进了画里，如今自然也能把他们扫地出门，但……乱七八糟的客栈，总比冷冷清清的客栈要好一点吧？",
+    "ja": "「コマメ」は怠けてばかり、「ハヤテ」はでっぷりとして動きもせぬ、「イサミ」は蚊の鳴くような小さな声で客を迎える……何十年経っても直らん。ああ、そうじゃ、あの3人は帰る場所がないと言うから、わらわが絵の中に連れて行った。追い出すことはいつでもできるが……ガラガラの宿より、めちゃくちゃな宿のほうが良いじゃろう？",
+    "ko": "'열일이'는 허구한 날 농땡이만 피우고, '쌩쌩이'는 움직임이 느려서 답답하고, '괄괄이'는 목소리가 모깃소리만 해서 손님 접대도 제대로 못 해. 수십 년이 지났는데 조금의 발전도 없다니까? 응? 아, 뭐... 애초에 갈 곳 없던 녀석들을 그림 속으로 들인 게 나니까, 당연히 그냥 쫓아낼 수도 있지만... 그래도 난장판인 객잔이 썰렁한 객잔보단 낫잖아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "I used to hang around my siblings and play Weiqi, listen to their discussions, and then practice reading, calligraphy, and painting at night. During our free time, the three of us traveled around Talos-II ... but soon they sent me off to Hongshan. They probably saw Talos-II as a breath of fresh air and thought I'd never truly like it if they were always around. I get where they were coming from. But you can't just leave your little sister somewhere and barely visit her...",
+    "zh-TW": "小時候跟在哥哥姐姐身邊，下午練圍棋、聽事理，晚上讀書、寫字、畫畫，剩下的時間，三個人就一起到處熟悉塔衛二……不過沒多久哥哥姐姐就讓我來宏山了。塔衛二對他們兩個來說也是個新鮮地方，老是跟在他們身邊，我不一定能真的喜歡上這裡。他們這樣想，我當然能理解，但也不能這麼長時間都不來看我吧……",
+    "zh-CN": "小时候跟在哥哥姐姐身边，下午练围棋、听事理，晚上读书、写字、画画，剩下的时间，三个人就一起到处熟悉塔卫二……不过没多久哥哥姐姐就让我来宏山了。塔卫二对他们俩来说也是个新鲜地方，老跟在他们身边，我不一定能真的喜欢上这里。他们这么想，我当然能理解，但也不能这么长时间都不来看我吧……",
+    "ja": "幼い頃は兄様姉様にくっついて、午後は碁と物事の理を学び、夜は読書に、書と絵も学ぶ。残りの時間は3人でタロⅡを巡った……だが、2人はすぐにわらわを宏山に連れてきた。タロⅡは2人にとっても目新しい場所じゃった。傍にいたならば、わらわが本当にここを好きにならぬと思ったのかもしれん。それは理解するが、これほど長い間会いに来ぬとはのう……",
+    "ko": "어릴 땐, 오라버니랑 언니를 따라다녔어. 오후에는 바둑을 두면서 세상의 이치를 배우고, 밤에는 책을 읽고, 글을 쓰며, 그림을 그렸지. 남는 시간에는 셋이서 탈로스 II 구석구석을 돌아다녔고... 그러다 얼마 지나지 않아, 오라버니랑 언니가 날 홍산으로 보냈어. 탈로스 II는 오라버니랑 언니한테도 새로운 곳이었으니까, 항상 같이 지내면 내가 여길 진심으로 좋아하게 될지 알 수 없었겠지. 이해해. 하지만... 이렇게 오랫동안 날 보러 오지 않는 건, 너무하잖아..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_about_line01",
+   "title": {
+    "en": "Topic: Yinglung Special Task Force",
+    "zh-TW": "話題：應龍特勤隊",
+    "zh-CN": "话题：应龙特勤队",
+    "ja": "応龍特殊部隊について",
+    "ko": "응룡 특수부대에 관하여"
+   },
+   "text": {
+    "en": "Yeah, I was there when HAS formed the Yinglung Special Task Force. But all I did was teach them a few tricks. Why wouldn't I spend more time with them? 'Cuz the Yinglungs are full of stubborn types like Li Zhiyan. Hang around them long enough and they'd freeze the air itself solid. But she seems to have figured things out a bit more after spending time with you. Hmm... Eh, Endmin, why not take my place and go teach them for me?",
+    "zh-TW": "宏科院組建應龍特勤隊的時候，我確實在。不過除了教他們一些小把戲，別的我什麼都沒管。為什麼不多花點心思？應龍裡好多李織煙那樣死腦筋的傢伙，和他們待久了，連空氣都會變得硬邦邦的。不過她和你待過一陣後，好像開竅了不少……這樣，不如你代替我，去他們那裡掛個職？",
+    "zh-CN": "宏科院组建应龙特勤队的时候，我确实在。不过除了教他们一些小把戏，别的我什么都没管。为什么不多花些心思？应龙里好多李织烟那样死脑筋的家伙，和他们待久了，连空气都会变得硬邦邦的。不过她和你待过一阵后，好像开窍了不少……这样，不如你代替我，去他们那儿挂个职？",
+    "ja": "宏科院が応龍特殊部隊を立ち上げたとき、確かにわらわもいたが……多少コツを教えたのみで、他は何もしておらん。どうしてか？応龍はリ・チーエンのような石頭だらけじゃ。長く一緒におると、空気でさえカチコチになってしまうわ。ただ、あやつはお主と行動を共にして、だいぶ柔らかくなったようじゃな……そうじゃ、お主がわらわに代わって、あやつらを指導してはどうだ？",
+    "ko": "홍산 과학원이 응룡 특수부대를 창설할 때, 나도 그 자리에 있었어. 하지만 난 잔재주 몇 가지를 가르쳐준 것 말곤 아무것도 관여하지 않았지. 왜냐고? 응룡에는 이지연처럼 꽉 막힌 녀석들이 잔뜩이거든. 그런 애들이랑 같이 있으면 공기도 딱딱하게 굳어버리는 느낌이야. 그래도... 너랑 같이 있으면서 굳은 머리가 좀 부드러워진 것 같던데... 차라리 네가 나 대신 거기에 이름을 올려두는 건 어때?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_about_line02",
+   "title": {
+    "en": "Topic: Feranmut Power",
+    "zh-TW": "話題：權能",
+    "zh-CN": "话题：权能",
+    "ja": "力について",
+    "ko": "권능에 관하여"
+   },
+   "text": {
+    "en": "The Endfield HR database has issues. For the \"Skills\" section, I listed twelve items, including martial arts, literature, painting, metallurgy, law, gardening... and then it just threw an error. What do you mean I have too many skills? Look, occasionally failing at something doesn't take them away. You'd better make yourself clear, or I'm not letting this go!",
+    "zh-TW": "終末地的人事檔案系統有問題，「能力」那一欄，我填了武學、詩文、繪畫、冶鑄、律法、園林……才十二項，就開始報錯。管我為什麼有那麼多本事？還是偶爾失誤就不算專業了？給我好好解釋清楚！",
+    "zh-CN": "终末地的人事档案系统有问题，“能力”那一栏，我填了武学、诗文、绘画、冶铸、律法、园林……才十二项，就开始报错。管我为什么有那么多本事？还是偶尔失误就不算专业了？给我好好解释清楚！",
+    "ja": "エンドフィールドの人事システムはどうなっておるのじゃ！「能力」の欄に武術、詩、絵画、冶金、律、造園……12項目入れた程度で、エラーが出おった。やけに能力が多い、とな？それともたまに失敗するようでは専門とは言えぬと？ええい、はっきり申してみよ！",
+    "ko": "엔드필드의 인사 파일 시스템 말이야, 좀 이상해. '능력' 칸에 무술, 시, 산문, 회화, 단조, 율법, 조경... 겨우 열두 개밖에 안 적었는데, 오류가 나는 거 있지? 왜 그렇게 능력을 많이 적냐고? 왜, 가끔 좀 실수하는 건 능력으로도 안 쳐준다는 거야? 너, 똑바로 말해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_about_line03",
+   "title": {
+    "en": "Topic: Wings",
+    "zh-TW": "話題：翅膀",
+    "zh-CN": "话题：翅膀",
+    "ja": "翼について",
+    "ko": "날개에 관하여"
+   },
+   "text": {
+    "en": "My wings are pretty, right? When I was young, I dreamed of them sprouting and spreading, so I drew them on my back after I woke up. My sister wouldn't stop nagging about it... It's just decor. But she said I use them in fights to look intimidating. Hmph. That's a baseless accusation. I mean, who even does that? So childish!",
+    "zh-TW": "我的翅膀好看吧？小時候我夢見自己生出了這對翅膀，醒了就把它畫在了背上，為了這事，姐姐沒少數落我……明明我只是把它當成了一種裝飾，姐姐非說我是為了打架的時候，張開翅膀顯得更有氣勢。誰會這麼幼稚，這不是冤枉人嘛！",
+    "zh-CN": "我的翅膀好看吧？小时候我梦见自己生出了这对翅膀，醒了就把它画在了背上，为这事，姐姐没少数落我……明明我只是把它当成了一种装饰，姐姐非说我是为了打架的时候，张开翅膀显得更有气势。谁会这么幼稚，这不是冤枉人嘛！",
+    "ja": "美しい翼じゃろう。幼い頃に翼が生える夢を見て、それで背中にこれを描いたのじゃ。姉様には随分叱られたがのう……わらわにとってはただの飾りだというのに、姉様は戦うときに翼を広げて威嚇するつもりなのだろうと言い張った。そんな幼稚なことはせん！思い込みのとばっちりだ！",
+    "ko": "내 날개 어때? 예쁘지? 난 어릴 때 이런 날개가 돋아나는 꿈을 꾼 적이 있어, 그리고 꿈에서 깨자마자 등에다가 이런 날개를 그렸지. 근데 그걸로 언니가 엄청나게 잔소리를 하는 거야. 난 그냥 단순한 장식으로 생각한 건데, 언니는 싸울 때 그 날개를 사용해서 기선 제압을 하려는 거 아니냐며 막 뭐라 하더라니까? 누가 그런 유치한 짓을 하냐고! 그땐 진짜 억울했어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_about_line04",
+   "title": {
+    "en": "Topic: Ye Minghe",
+    "zh-TW": "話題：夜明河",
+    "zh-CN": "话题：夜明河",
+    "ja": "イェ・ミンホについて",
+    "ko": "야명하에 관하여"
+   },
+   "text": {
+    "en": "That kid with bright hair? We've known each other for quite a while, and he's always so annoying. Sometimes he only cares about that jet-black gallopbeast of his, and he never stops going, \"The Imperial Guards must uphold their duty...\" And that's why he's so difficult, because he means every word he says. Kind of like you, to be honest. Wait, you are the one who influenced him! Anyway, if he barges into my scroll again, you're gonna pay.",
+    "zh-TW": "那個金毛小子？我們認識的時間不算短，他一直很難纏，有時候好像只關心他那匹黑黢黢的馳獸，有時候又滿嘴「禁軍職責所在」……就因為都是發自真心，所以才說他難纏啊！這點倒是跟你很像，不對，就是你點撥的他！下次他再亂闖我的畫，我就不給你面子了。",
+    "zh-CN": "那个金毛小子？我们认识的时间不算短，他一直很难缠，有时候好像只关心他那匹黑黢黢的驰兽，有时候又满嘴“禁军职责所在”……就因为都是发自真心，所以才说他难缠啊！这点倒是跟你很像，不对，就是你点拨的他！下次他再乱闯我的画，我就不给你面子了。",
+    "ja": "ふむ、金髪小僧か？知り合って長いが……面倒臭い奴じゃ。あの真っ黒な馳獣だけを気にかけているかと思えば、「禁軍の責務」とばかり言うときもある……しかもそれが常に本心なのだから余計に面倒じゃ！これはお主に似て……って、お主が教えたのだったな！次もしあやつがわらわの絵に忍び込んで来ても、お主の顔を立てたりなどせんぞ！",
+    "ko": "그 금발머리? 알고 지낸 지는 꽤 됐지. 진짜 귀찮은 녀석이야. 어떨 때는 그 시커먼 갤럽비스트만 쫓아다니는 것 같다가, 또 어떨 때는 '금위군의 책임과 의무'가 어쩌니 하거든. 더 짜증 나는 건, 그 녀석은 그게 다 진심이라는 거야. 참... 이렇게 보면 너랑 똑 닮았다니까. 아니지, 네가 그렇게 만든 거지! 다음에 또 내 그림 속에 함부로 들어오면 그땐 네 체면이고 뭐고 그냥은 안 넘어가."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_about_line05",
+   "title": {
+    "en": "Topic: Family",
+    "zh-TW": "話題：家人",
+    "zh-CN": "话题：家人",
+    "ja": "「きょうだい」について",
+    "ko": "가족에 관하여"
+   },
+   "text": {
+    "en": "I don't know where my siblings have gone. After everything they've been through, they finally have time on their hands. Maybe they're wandering all across Talos-II. Maybe they'd... HEY! Job Rusher! Didn't I tell you to clean properly? Especially the paintings, calligraphy, and the Weiqi boards. What if they come home and see this mess? You're gonna get me in trouble!",
+    "zh-TW": "我不知道哥哥姐姐閒逛到哪裡了，經歷了那麼多事情後，他們如今有的是時間，說不定要把塔衛二轉個遍，也說不定隨時都會……喂，「手不停」，我說沒說過打掃要仔細，尤其是字畫和棋盤？要是他們突然回來，看到這亂糟糟的樣子，挨罵的可是我！",
+    "zh-CN": "我不知道哥哥姐姐晃悠到了哪里，经历了那么多事情后，他们如今有的是时间，说不定要把塔卫二转个遍，也说不定随时都会……喂，“手不停”，我说没说过打扫要仔细，尤其是字画和棋盘？要是他们突然回来，看到这乱糟糟的样子，挨骂的可是我！",
+    "ja": "あの2人、どこをウロついておるのやら……わからぬ。あれ程のことがあったが、時間だけはたっぷりあるからのう。タロⅡを端から端までくまなく巡っておるかもしれぬし、突然戻ってくるかもしれぬ。おい、「コマメ」、掃除は丁寧にと言ったであろう！書画と碁盤は特にじゃ。万が一急に帰ってきて、この散らかりようがバレたら……叱られるのはわらわなのだぞ！",
+    "ko": "오라버니랑 언니가 지금 어디에 있는진 나도 몰라. 수많은 일을 겪었으니, 이젠 시간이 많이 생겼잖아? 어쩌면 탈로스 II를 한 바퀴 돌고 있을지도 모르지. 또 어쩌면 내일이라도... 야, '열일이'. 내가 청소 꼼꼼히 하라고 했어, 안 했어? 특히 이 서화랑 바둑판 말이야! 어휴, 혹시라도 오라버니랑 언니가 돌아와서 이런 꼴을 본다면 내가 혼날 거라고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_about_line06",
+   "title": {
+    "en": "Topic: Sui",
+    "zh-TW": "話題：歲",
+    "zh-CN": "话题：岁",
+    "ja": "歳について",
+    "ko": "쉐이에 관하여"
+   },
+   "text": {
+    "en": "Sui is the worst Feranmut. Ever. Even in sleep, He won't stay still, always scheming to make things hard for Yan with his twelve proxies. And in the end? Every proxy got their own ideas and made things difficult for Him. As for my relations with Him ... I wouldn't be around if they didn't bring the last bits of his soul to Talos-II. But we're different. There is nothing between us, one way or the other. The debt's settled and it's as clear as day.",
+    "zh-TW": "沒有比歲更愛折騰的巨獸了，睡著了也不安生，還想著化身十二找炎國的麻煩。結果呢，代理人們各有各的想法，麻煩又回到了自己身上。至於我和祂嘛……祂最後的一點魂識沒被帶來塔衛二，就沒有我，但祂是祂，我是我，我和祂半點關係也無，這倒是一筆再清楚明白不過的帳。",
+    "zh-CN": "没有比岁更爱折腾的巨兽了，睡着了也不安生，还想着化身十二找炎国的麻烦。结果呢，代理人们各有各的想法，麻烦又回到了自己身上。至于我和祂嘛……祂最后的一点魂识没被带来塔卫二，就没有我，但祂是祂，我是我，我和祂半点联系也无，这倒是一笔再清楚明白不过的账。",
+    "ja": "歳ほどアレコレやりたがる巨獣はおらぬ。眠っておるくせに黙ってはおれず、炎国に面倒事を引き起こそうとして、意識も12に分かれ……しかし、代理人たちは各々別の考えを持っていたからのう、面倒事は最終的に自分に帰ってきた。わらわと歳は……歳の最後の意識がタロⅡに運ばれなかったならば、わらわは存在しておらぬ。しかし、歳は歳、わらわとは別じゃ。何の関係もない……これ以上白黒はっきりしていることもないじゃろう。",
+    "ko": "쉐이만큼 유난스러운 베헤모스도 없을 거야. 잠든 이후에도 조용히 있질 못하고, 12명으로 나뉘어서 염국을 괴롭히겠다는 생각이나 하고 말이야. 결국은 봐, 대리인 각자의 생각이 따로 노는 바람에 자기 발등만 찍었잖아? 나랑 쉐이? 음... 쉐이의 마지막 혼의 조각이 탈로스 II로 오지 않았다면 나도 없었겠지. 하지만, 그건 그거고 나는 나야. 나랑은 이제 손톱만큼도 아무런 연관이 없다고. 명.백.히."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Don't miss this spot.",
+    "zh-TW": "不要漏看了這裡。",
+    "zh-CN": "不要漏看了这里。",
+    "ja": "見落とすでないぞ。",
+    "ko": "여기도 놓치지 말고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Look, hidden spoils.",
+    "zh-TW": "快看，這邊藏了好東西。",
+    "zh-CN": "快看，这边藏了好东西。",
+    "ja": "早くせい！掘り出し物じゃぞ！",
+    "ko": "여기 좀 봐, 괜찮은 게 숨어 있었네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Interesting place. You'd miss it if you weren't paying attention.",
+    "zh-TW": "不仔細看，還真難發現這裡別有洞天。",
+    "zh-CN": "不仔细看，还真难发现这里别有洞天。",
+    "ja": "ふむ……こんなところに、思わぬものが。",
+    "ko": "자세히 안 봤으면, 이렇게 멋진 게 있을 줄 몰랐겠는걸."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Careful. That one will take a few extra strokes.",
+    "zh-TW": "小心點，不是三兩筆就能解決的麻煩！",
+    "zh-CN": "小心点，不是三两笔就能解决的麻烦！",
+    "ja": "気をつけよ。2、3筆ではどうにもならんぞ！",
+    "ko": "조심해, 붓질 몇 번으로 끝날 만만한 녀석이 아니야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Forge of the Sky, Metals of the Earth. Talos-II does have plenty of rare stuff.",
+    "zh-TW": "天有洪爐，地生五金，塔衛二上的稀罕玩意倒是多。",
+    "zh-CN": "天有洪炉，地生五金，塔卫二上的稀罕玩意倒是多。",
+    "ja": "天に洪炉有りて、地が五金を生まん……タロⅡには妙な代物が多いのう。",
+    "ko": "하늘에는 용광로가 있고, 땅에선 온갖 금속이 나오느니... 탈로스 II에는 신기한 게 많네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Leave it to me. It'll be done in an instant.",
+    "zh-TW": "我來吧，順手的事。",
+    "zh-CN": "我来吧，顺手的事。",
+    "ja": "ついでじゃ、わらわもやろう。",
+    "ko": "내가 할게, 이 정도는 쉽지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Don't wait for an inspiration. Look for it.",
+    "zh-TW": "靈感是等不來的，要靠自己找。",
+    "zh-CN": "灵感是等不来的，要靠自己找。",
+    "ja": "閃きは急にピンとは来んぞ。自分で掴みにいかんと。",
+    "ko": "영감은 기다린다고 오는 게 아니야, 스스로 찾아야지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Hmm. If I mix Aurylene with ink, what could I paint with it?",
+    "zh-TW": "嗯……把醚質調進墨裡，會畫出來什麼呢？",
+    "zh-CN": "唔，把醚质调进墨里，会画出来什么呢？",
+    "ja": "うむ……オーリレンを墨に混ぜたら、何が描けるかのう？",
+    "ko": "음, 오리렌을 먹물에다 섞으면... 어떤 그림이 그려지려나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Come to think of it, maybe my Ink Spirits could also take care of this.",
+    "zh-TW": "這些事，說不定墨魎也能做。",
+    "zh-CN": "这些活，说不定墨魉也能做。",
+    "ja": "墨魎にやらせるのも、案外悪くないかもしれぬ。",
+    "ko": "이 정도 일은 묵량한테 시켜도 할 수 있겠는데?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Always rest when you can, because nobody can paint Talos-II in a single stroke.",
+    "zh-TW": "該歇就歇嘛，一筆又畫不出個塔衛二。",
+    "zh-CN": "该歇就歇嘛，一笔又画不出个塔卫二。",
+    "ja": "休むときは休め。一筆でタロⅡが描けぬのと同じじゃ。",
+    "ko": "쉴 땐 제대로 쉬어야지. 탈로스 II를 한 획에 그릴 순 없다고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "I know a bit of herbs and mending too.",
+    "zh-TW": "岐黃之術，我剛好也懂。",
+    "zh-CN": "岐黄之术，我刚好也懂。",
+    "ja": "医術にはちいと心得もある。",
+    "ko": "의술이라면 나도 좀 알지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "That made things feel a lot better!",
+    "zh-TW": "……還真的輕鬆了不少！",
+    "zh-CN": "……还真的轻松了不少！",
+    "ja": "……思ったより悪くはない。",
+    "ko": "...확실히 몸이 좀 가벼워진 것 같네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Watch over there!",
+    "zh-TW": "留心了！",
+    "zh-CN": "留心了！",
+    "ja": "用心せい！",
+    "ko": "조심해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Did they soil my wings?",
+    "zh-TW": "我的翅膀髒了嗎？",
+    "zh-CN": "我的翅膀脏了吗？",
+    "ja": "翼が汚れたではないか。",
+    "ko": "설마 내 날개가 더러워진 건 아니겠지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "No longer ... interested...",
+    "zh-TW": "真是的，一點興致都沒了。",
+    "zh-CN": "真是的，一点兴致都没了。",
+    "ja": "すっかり興がさめた……",
+    "ko": "진짜... 재미없어..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Ah. A promising generation.",
+    "zh-TW": "呵，後生可畏啊。",
+    "zh-CN": "呵，后生可畏啊。",
+    "ja": "ふん、「後生畏るべし」か。",
+    "ko": "흥, 요즘 애들은 꽤 하네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Our younglings seem quite eager.",
+    "zh-TW": "小鬼們，精氣神很足嘛。",
+    "zh-CN": "小鬼们，精气神很足嘛。",
+    "ja": "若造ども、元気じゃのう。",
+    "ko": "꼬마 녀석들, 기운이 아주 넘치는걸."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "You're not being \"polite\", right?",
+    "zh-TW": "這不會是「人情世故」吧？",
+    "zh-CN": "这别是“人情世故”吧？",
+    "ja": "これが「世知」なのか？",
+    "ko": "크흠, 그냥 하는 말은 아니지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "Alright, alright, don't get distracted.",
+    "zh-TW": "咳，好了好了，你們別分心了。",
+    "zh-CN": "咳，好了好了，你们别分心了。",
+    "ja": "はっ……わかったから、よそ見するでない。",
+    "ko": "큼큼, 알겠으니까 한눈팔지 마."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "End this before the day grows dark.",
+    "zh-TW": "再磨蹭，天就要黑了。",
+    "zh-CN": "再磨蹭，天就要黑了。",
+    "ja": "グズグズしとったら日が暮れるぞ！",
+    "ko": "꾸물거리다가 날 새겠다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Show me what you can do, younglings.",
+    "zh-TW": "讓我看看年輕人的能耐。",
+    "zh-CN": "让我看看年轻人的能耐。",
+    "ja": "若人の才、見せてもらおう。",
+    "ko": "요즘 애들 솜씨 좀 볼까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "This is way more fun than staying in the scroll.",
+    "zh-TW": "確實比待在畫裡有意思多了。",
+    "zh-CN": "确实比待在画里有意思多了。",
+    "ja": "まあ、絵の中にいるよりはずっと面白い。",
+    "ko": "그림 세계에 있을 때보단 확실히 재밌네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "I'm so inspired. This field trip is worth its while.",
+    "zh-TW": "又有了不少靈感，今天這趟門倒是出對了。",
+    "zh-CN": "又有了不少灵感，今天这趟门倒是出对了。",
+    "ja": "なかなか良い閃きを得た。今日のお出かけは正解じゃ。",
+    "ko": "영감을 꽤 받았어. 오늘 나와 보길 잘했네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Over already? I assume you still got the strength to grind ink for me.",
+    "zh-TW": "沒盡興，你們還有力氣研墨嗎？",
+    "zh-CN": "没尽兴，你们还有力气研墨吗？",
+    "ja": "物足りん。まだ、墨を摺る力が残っているか？",
+    "ko": "아직 성에 안 차는데... 너희, 먹 갈 힘은 남아 있어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "It was hard, but we won. Don't go slumping around like that.",
+    "zh-TW": "再難也是贏了，贏了就別無精打采的了。",
+    "zh-CN": "再难也是赢了，赢了就别蔫头耷脑的了。",
+    "ja": "苦しかろうが勝ったのじゃ。そんなしょげた顔をするな。",
+    "ko": "힘들긴 했어도, 이긴 건 이긴 거야. 이겨놓고 풀 죽어 있지 말라고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Winning is great, but it's okay to lose. I'm around, so there's nothing to fear.",
+    "zh-TW": "當然要想著贏，但輸了也無所謂。我還在，有什麼好怕的？",
+    "zh-CN": "当然要想着赢，但输了也无所谓。我还在，有什么好怕的？",
+    "ja": "勝ちを目指すのは当然じゃが、負けてもどうということはない。わらわがいれば、何の問題もなかろう？",
+    "ko": "이기기 위한 노력은 당연히 해야겠지만, 져도 괜찮아. 너희한텐 내가 있으니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Get down!",
+    "zh-TW": "還不倒？",
+    "zh-CN": "还不倒？",
+    "ja": "倒れぬか！",
+    "ko": "이래도 안 쓰러져?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Back off!",
+    "zh-TW": "還不退？",
+    "zh-CN": "还不退？",
+    "ja": "退かぬか！",
+    "ko": "이래도 안 물러서?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Patchy colors!",
+    "zh-TW": "忌用色不均！",
+    "zh-CN": "忌用色不均！",
+    "ja": "ムラなど許さん！",
+    "ko": "색이 안 예뻐!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Messy strokes!",
+    "zh-TW": "忌雜亂無章！",
+    "zh-CN": "忌杂乱无章！",
+    "ja": "秩序を知らんのか！",
+    "ko": "엉망진창이잖아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Soulless copies!",
+    "zh-TW": "忌徒有其形！",
+    "zh-CN": "忌徒有其形！",
+    "ja": "ハリボテめ！",
+    "ko": "겉모습만 그럴싸하네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Give me some room.",
+    "zh-TW": "給我騰出地方。",
+    "zh-CN": "给我腾出地方。",
+    "ja": "そこをどけ。",
+    "ko": "저리 좀 비켜봐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "My hands are free.",
+    "zh-TW": "我騰出手來了。",
+    "zh-CN": "我腾出手来了。",
+    "ja": "手すきになった。",
+    "ko": "나 지금 쉬는데."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Still wasting my time?",
+    "zh-TW": "還想浪費我的時間？",
+    "zh-CN": "还想浪费我的时间？",
+    "ja": "わらわはヒマではないのだぞ？",
+    "ko": "내 시간을 낭비할 셈이야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Still wasting my ink?",
+    "zh-TW": "還想浪費我的筆墨？",
+    "zh-CN": "还想浪费我的笔墨？",
+    "ja": "わらわの墨をムダにするのか？",
+    "ko": "내 먹물을 낭비할 셈이야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "The finishing touch!",
+    "zh-TW": "點睛之筆！",
+    "zh-CN": "点睛之笔！",
+    "ja": "点睛の一筆！",
+    "ko": "이 한 획으로 끝이다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Perfect depiction!",
+    "zh-TW": "入木三分！",
+    "zh-CN": "入木三分！",
+    "ja": "一筆入魂！",
+    "ko": "똑똑히 새겨줄게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "A rising wave! A seething quake!",
+    "zh-TW": "無風起浪，海沸山搖！",
+    "zh-CN": "无风起浪，海沸山摇！",
+    "ja": "平地風波、海沸き山揺らせ！",
+    "ko": "먹이 파도처럼 밀려오면, 어떨 것 같아?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "A razor stroke! Wield the cosmos!",
+    "zh-TW": "橫劍走筆，斗轉星移！",
+    "zh-CN": "横剑走笔，斗转星移！",
+    "ja": "斗転星移、剣を構え筆走らす！",
+    "ko": "한 획으로 천지를 뒤바꾸리라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0036_jsspsi_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Let this power shape the lands!",
+    "zh-TW": "山河為墨，鬼斧神工！",
+    "zh-CN": "山河为墨，鬼斧神工！",
+    "ja": "鬼斧神工、山河墨と為す！",
+    "ko": "천지를 먹 삼아, 경지에 이르리라!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0036_jsspsi_16001",
+   "topic": {
+    "en": "Innkeeper's Worries",
+    "zh-TW": "掌櫃的憂愁",
+    "zh-CN": "掌柜的忧愁",
+    "ja": "宿の主人の悩み",
+    "ko": "사장님의 근심거리"
+   },
+   "lines": [
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Si] is typing...",
+      "zh-TW": "[祀]輸入中",
+      "zh-CN": "[祀]输入中",
+      "ja": "「スー」入力中",
+      "ko": "[사] 입력 중"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Si] has stopped typing",
+      "zh-TW": "[祀]停止輸入",
+      "zh-CN": "[祀]停止输入",
+      "ja": "「スー」入力停止",
+      "ko": "[사] 입력 중지"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Si] is typing...",
+      "zh-TW": "[祀]輸入中",
+      "zh-CN": "[祀]输入中",
+      "ja": "「スー」入力中",
+      "ko": "[사] 입력 중"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Ahem... Dolt, busy lately?",
+      "zh-TW": "咳，呆子，你最近忙不忙？",
+      "zh-CN": "咳，呆货，你最近忙不忙？",
+      "ja": "まったく、鈍いやつじゃ……最近は忙しいのか？",
+      "ko": "...야, 멍청아, 요즘 바빠?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Took you long to send that message. Something on your mind?",
+         "zh-TW": "看你好久才把訊息傳過來，怎麼猶猶豫豫的？",
+         "zh-CN": "看你好久才把消息发出来，怎么犹犹豫豫的？",
+         "ja": "時間をかけていたみたいだけど、何をそんなに迷っていたの？",
+         "ko": "뭘 그렇게 망설이세요? 한참 입력하다가 보내셨던데..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Same as usual... Did something come up?",
+         "zh-TW": "就是平常的樣子……怎麼了，是遇到什麼問題了嗎？",
+         "zh-CN": "就是平常的样子……怎么了，是遇到什么问题了吗？",
+         "ja": "いつも通りだけど……何かあったの？",
+         "ko": "평소랑 다를 건 없는데... 왜 그러시죠? 무슨 일이라도 생겼어요?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Remember how I said I'd open up my painted world to visitors after you left?",
+      "zh-TW": "你離開的時候，我說要把畫境對外開放。",
+      "zh-CN": "你离开的时候，我说要把画境对外开放。",
+      "ja": "「絵巻を外の者にも開放してやる」とわらわが言ったのを覚えておるな。",
+      "ko": "네가 떠날 때, 내가 그림 세계를 외부에 개방하겠다고 했었잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Well, I added some new scenery, removed the Arts concealing the entrance, and even put a few more rafts at the station...",
+      "zh-TW": "我為山裡多添了幾筆風景，去掉了遮蔽入口的法術，還幫渡口多添了幾艘船……",
+      "zh-CN": "我给山里多添了几笔风景，去掉了遮蔽入口的法术，还给渡口多添了几艘船……",
+      "ja": "山に景色を描き足し、入口の術も解き、渡し場には舟を増やしてやったが……",
+      "ko": "그 후에 산에 경치도 더 그려 넣고, 입구를 가리던 아츠도 없애고, 나루터에 배도 몇 척 더 띄워놨는데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Don't tell me the inn's still not getting much business?",
+      "zh-TW": "難道說，生意沒什麼起色？",
+      "zh-CN": "难道说，生意没什么起色？",
+      "ja": "もしかして、思ったよりお客さんが少なかったとか。",
+      "ko": "혹시 장사가 생각만큼 잘 안됐나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Are you kidding? After all that work, business is OBVIOUSLY booming!",
+      "zh-TW": "怎麼會！我花了這麼多心思，生意當然是……好得不得了！",
+      "zh-CN": "怎么会！我用了这么多心思，生意当然是……好得不得了！",
+      "ja": "何を言う！わらわがあれだけ手をかけたのじゃ。当然……大盛況に決まっておろう！",
+      "ko": "그럴 리가! 내가 얼마나 공을 들였는데! 장사는 당연히... 엄청 잘되지!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "With the Very Large Rift sealed, more people of Hongshan are pouring in every day.",
+      "zh-TW": "甚大裂隙已經被填平，順路找過來的宏山人一天比一天多。",
+      "zh-CN": "甚大裂隙已经被填平，顺路找过来的宏山人一天比一天多。",
+      "ja": "巨大な裂け目も閉じ、ついでにと立ち寄る宏山の者も増えておる。",
+      "ko": "대균열도 해결됐고, 지나가다 들르는 홍산 사람도 하루가 다르게 늘고 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Your people too. That \"Da Pan\" keeps raiding my mountains for ingredients and he's even been swapping recipes with \"Speed Dasher\"...",
+      "zh-TW": "你的幹員也天天往這邊跑，那個叫「大潘」的來山裡搜刮天材地寶，還和「跑得快」交流起了廚藝……",
+      "zh-CN": "你的干员也天天往这儿跑，那个叫“大潘”的来山里搜刮天材地宝，还和“跑得快”交流起了厨艺……",
+      "ja": "オペレーターも毎日のように来るぞ。「ダパン」というやつは山の珍しい食材を漁り、「ハヤテ」と料理談議まで始める始末じゃ……",
+      "ko": "게다가 너희 쪽 오퍼레이터들도 맨날 여기로 출근 도장을 찍고 있다고! '판'이라는 녀석은 산속에서 귀한 재료를 죄다 긁어모으질 않나, '쌩쌩이'랑 요리 얘기나 하고 있질 않나..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Yuanyuan Manor's basically an Endfield branch office now!",
+      "zh-TW": "緣緣莊都快變成終末地的辦事處了！",
+      "zh-CN": "缘缘庄都快成终末地的办事处了！",
+      "ja": "このままでは、縁縁荘がエンドフィールド出張所になってしまうではないか！",
+      "ko": "누가 보면 인연 마을이 엔드필드 출장소인 줄 알겠어!"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Are the operators causing you trouble?",
+         "zh-TW": "幹員們沒給你添麻煩吧？",
+         "zh-CN": "干员们没给你添麻烦吧？",
+         "ja": "皆、迷惑はかけていないかな。",
+         "ko": "혹시 오퍼레이터들이 폐를 끼치진 않았나요?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "Hmph. At least you care enough to ask.",
+         "zh-TW": "哼，還算你有心。",
+         "zh-CN": "哼，还算你有心。",
+         "ja": "ふんっ、気にはしておったか……",
+         "ko": "흥, 양심은 있나 보네."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "You trained them well. Sure, they wander around, but they pitch in too. They're both guests and inn assistants.",
+         "zh-TW": "你把手下的人教得不錯，他們確實會在山裡面亂逛，但也會主動幫緣緣莊做很多事情，既是客人，也是夥計。",
+         "zh-CN": "你把手下人教得不错，他们确实会在山里面乱逛，但也会主动帮着缘缘庄做很多事情，既是客人，也是伙计。",
+         "ja": "部下の躾はよくやっているようじゃな。山の中を歩き回りこそすれ、縁縁荘の手伝いもしてくれる。客でもあり、働き手にもなる。",
+         "ko": "그래도 네가 부하들을 꽤 잘 가르쳤나 봐. 산속을 이리저리 헤집고 다니긴 해도, 알아서 인연 마을 일도 많이 도와주고 있어. 손님이자 일꾼인 셈이지."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "Plus, it's kinda fun watching them buzz around using that AIC of yours.",
+         "zh-TW": "看他們按集成工業系統的那一套方法忙來忙去，蠻有趣的。",
+         "zh-CN": "看他们按集成工业系统的那一套法子忙来忙去，蛮有趣。",
+         "ja": "集成工業システムのやり方で、せわしなく働いておるのを眺めるのも、なかなか面白いのう。",
+         "ko": "뭐, 통합 공업 시스템을 운영하는 방식처럼 분주하게 움직이는 걸 보고 있으면 꽤 재미도 있고..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Busy and lively. Sounds like a good thing.",
+         "zh-TW": "熱熱鬧鬧的，聽起來是好事啊。",
+         "zh-CN": "热热闹闹的，听起来是好事啊。",
+         "ja": "随分と賑やかになったみたいだし、いいことなんじゃないかな。",
+         "ko": "활기가 넘치네요. 좋은 일 아닌가요?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "Yeah, but ... more people means more noise. It's getting a bit much.",
+         "zh-TW": "嗯……山裡人一多，熱鬧了不少，都有點吵了。",
+         "zh-CN": "唔，山里人一多，热闹了不少，都有点吵了。",
+         "ja": "うむ。山に人は増え、賑やかにはなったな。少々うるさいがのう。",
+         "ko": "음, 사람이 많아지니까 산도 훨씬 북적북적해졌어, 약간 시끄러울 정도로 말이야."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "Besides, your people are almost too hardworking. \"Job Rusher\" and the others have been slacking off a lot more because of it... Still, I can't really complain.",
+         "zh-TW": "除了你的手下太勤快，讓「手不停」他們幾個多了機會偷懶……確實是好事。",
+         "zh-CN": "除了你的手下人太勤快，让“手不停”他们几个多了机会偷懒……确实是好事。",
+         "ja": "お主の部下が働き者すぎて「コマメ」たちがもっと怠けるようになったことを除けば……まあ、確かにいいことじゃ。",
+         "ko": "네 부하들이 하도 부지런해서, '열일이' 녀석 농땡이 부리는 일이 많아진 것만 빼면... 정말 좋은 일이긴 하지."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I'm confused. If everything's fine, then why did you toast me...?",
+      "zh-TW": "我有點搞不清楚了，既然一切都好，那你找我是為了……？",
+      "zh-CN": "我有点迷糊了，既然一切都好，那你找我是为了……？",
+      "ja": "ええと……うまくいっているならどうして連絡をくれたのかな。",
+      "ko": "음... 전부 잘되고 있는 것 같은데, 그럼 무슨 일로 절 찾으신 거예요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Uh... I wanted to pick your brain. After all, you are THE Endministrator.",
+      "zh-TW": "呃，向你這個終末地的管理員取取經啊。",
+      "zh-CN": "呃，向你这个终末地的管理员取取经啊。",
+      "ja": "その、お主に……ちょいと知恵を借りたかったのじゃ。",
+      "ko": "그야, 엔드필드 관리자한테 조언을 좀 구하려고 그러지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "You know how it used to be. Hardly anyone ever came up here. Sometimes someone from HAS would stop by on official business, and I'd just play it by ear.",
+      "zh-TW": "你又不是不知道，以前山裡很少有外人，偶爾來個宏科院的公差，待人接物都憑我心意。",
+      "zh-CN": "你又不是不知道，以前山里很少有外人，偶尔来个宏科院的公差，待人接物都凭我心意。",
+      "ja": "以前は山に外の者などめったに来なかった。たまに宏科院の役人が来るくらいで、わらわの好きなように応対できた。",
+      "ko": "너도 알다시피, 예전엔 산에 외부인이 거의 없었잖아. 손님이라 해봤자 가끔 홍산 과학원에서 업무를 보러 오는 사람 정도였으니까, 손님맞이도 전부 내 마음대로 해도 괜찮았는데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "But now there are more guests to look after, more accounts to keep, and way more headaches...",
+      "zh-TW": "但現在，要認真接待的人多了，要算的帳多了，焦頭爛額的事也就多了……",
+      "zh-CN": "但现在，要认真接待的人多了，要算的账多了，焦头烂额的事也就多了……",
+      "ja": "しかし今はきちんと接客せねばならぬし、帳簿も……やることが多くてのう。",
+      "ko": "지금은 제대로 대접해야 할 손님들도 많아졌고, 정산해야 할 장부도 늘었고, 신경 써야 할 일도 한가득이야..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Good business comes with its own chaos... I wasn't ready for it.",
+      "zh-TW": "生意好也是有煩惱的……我還沒做好準備。",
+      "zh-CN": "生意好也是有烦恼的……我还没做好准备。",
+      "ja": "商売繁盛も楽ばかりではない。わらわもまだ、心の準備ができておらぬ……",
+      "ko": "장사가 잘되는 것도 나름 스트레스받는다고... 난 아직 준비가 안 됐단 말이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Hmm... Sounds like you need a better way to run Yuanyuan Manor. Let me see how I can help.",
+      "zh-TW": "這……聽起來需要改善一下緣緣莊的管理模式，讓我想想該怎麼幫你。",
+      "zh-CN": "这……听起来需要改善一下缘缘庄的管理模式，让我想想该怎么帮你。",
+      "ja": "縁縁荘の運営を少し見直してもいいかもしれないね。どうすれば力になれるか、考えてみるよ。",
+      "ko": "그렇군요... 인연 마을의 운영 방식을 조금 조정할 필요가 있겠네요. 어떻게 도와드리면 좋을지 한번 생각해 볼게요."
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Si] is typing...",
+      "zh-TW": "[祀]輸入中",
+      "zh-CN": "[祀]输入中",
+      "ja": "「スー」入力中",
+      "ko": "[사] 입력 중"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Si] has stopped typing",
+      "zh-TW": "[祀]停止輸入",
+      "zh-CN": "[祀]停止输入",
+      "ja": "「スー」入力停止",
+      "ko": "[사] 입력 중지"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "UGH. CAN'T YOU JUST SWING BY?!",
+      "zh-TW": "你、你就不能抽空回來一趟嘛！",
+      "zh-CN": "你、你就不能抽空回来一趟嘛！",
+      "ja": "お主……少しくらい時間を作って、こちらに来ようとは思わんのか！？",
+      "ko": "...그, 그냥 네가 시간 내서 직접 한번 들를 순 없는 거야?!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Oh, so that's what this was about...",
+      "zh-TW": "原來你是這個意思啊……",
+      "zh-CN": "原来你是这个意思啊……",
+      "ja": "そういうことだったんだね……",
+      "ko": "그 말이 하고 싶으셨던 거군요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Use your brain for once. I asked if you were busy from the start ... you silly dolt!",
+      "zh-TW": "不然呢，我不是一開始就問你最近忙不忙……真是個呆子！",
+      "zh-CN": "不然呢，我不是一开始就问你最近忙不忙……真是个呆货！",
+      "ja": "だから、最初に忙しいかと聞いたであろう！阿呆め！",
+      "ko": "안 그러면 뭐겠어! 그래서 처음부터 요즘 바쁘냐고 물어본 거잖아... 이 바보 멍청이!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0036_jsspsi_16002",
+   "topic": {
+    "en": "Artist's Worries",
+    "zh-TW": "畫家的煩惱",
+    "zh-CN": "画家的烦恼",
+    "ja": "画家の悩み",
+    "ko": "화가의 고민"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "What should I even change it to...",
+      "zh-TW": "到底改成什麼好呢……",
+      "zh-CN": "到底改成什么好呢……",
+      "ja": "何に描き替えるべきかのう……",
+      "ko": "도대체 뭘로 바꾸는 게 좋을까..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Change ... what? I'm lost.",
+      "zh-TW": "改……什麼？我看不懂。",
+      "zh-CN": "改……什么？我看不懂。",
+      "ja": "描き替えるって……何の話？",
+      "ko": "바꿔요...? 뭘 말씀하시는 거죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "My painting. Now that you're healed, that \"Dijiang\" at the peak doesn't really serve a purpose anymore.",
+      "zh-TW": "改畫啊。你的傷已經治好了，山頂上的「帝江號」也就沒有特別的作用了。",
+      "zh-CN": "改画啊。你的伤已经治好，山顶上的“帝江号”也就没有特别的作用了。",
+      "ja": "お主の傷も治り、山頂の「帝江号」も役目を終えたじゃろう。",
+      "ko": "그림 말이야. 네 상처도 다 나았고, 산 정상에 있는 '제강호'도 이제는 딱히 쓸 일이 없어졌잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "I was thinking of wiping it and painting something new.",
+      "zh-TW": "我就想說把它擦掉，畫點別的東西上去。",
+      "zh-CN": "我就想着把它抹了，画点别的上去。",
+      "ja": "代わりに別のものを描こうと思ったのじゃ。",
+      "ko": "그래서 그걸 지우고 다른 걸 그려 넣을까 생각 중이야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sounds like a great idea. Go for it.",
+         "zh-TW": "聽起來很有趣，我支持。",
+         "zh-CN": "听起来很有意思，我支持。",
+         "ja": "面白そうだね。いいと思うよ。",
+         "ko": "재미있을 것 같네요. 전 찬성이에요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "The mountain's got floating rocks, tumbling water, and weather that does whatever I want. So what should I put at the very crown of it?",
+         "zh-TW": "嗯哼。飛石懸瀑無數，季節流轉隨心，大好的一座山，頂峰上到底配什麼樣的風景呢？",
+         "zh-CN": "嗯哼。飞石悬瀑无数，季节流转随心，大好的一座山，顶峰上到底配什么样的风景呢？",
+         "ja": "うむ。浮石に滝、季節の移ろいさえ思いのまま。この見事な山の頂にはどんな景色が似合うのか……",
+         "ko": "그렇지? 떠다니는 수많은 바위와 쏟아지는 폭포, 계절마저 마음에 따라 바뀌는 멋진 산인데, 그 정상에 과연 어떤 풍경이 어울릴까?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "Guess I better put some real thought into it.",
+         "zh-TW": "是件值得動腦筋的事情。",
+         "zh-CN": "是件值得动脑筋的事情。",
+         "ja": "なかなか難しいものじゃな。",
+         "ko": "정말 고민되는 문제란 말이지..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That \"Dijiang\" has been up there for ten years, hasn't it? Kinda sad to erase it though.",
+         "zh-TW": "「帝江號」已經在山頂擺了十年了吧？就這樣改掉，總覺得有點可惜。",
+         "zh-CN": "“帝江号”已经在山顶摆了十年了吧？就这么改掉，总觉得有点可惜。",
+         "ja": "10年もあったんだから、消してしまうのはなんだかもったいない気もするよ。",
+         "ko": "그 '제강호'도 벌써 산 정상에 10년이나 있었잖아요? 이렇게 바로 바꿔 버린다니 조금 아쉽네요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "Yeah ... maybe a little. But I've already decided.",
+         "zh-TW": "非要說的話，確實有一點點……但我意已決。",
+         "zh-CN": "非要说的话，确实有一点儿……但我意已决。",
+         "ja": "まあ、確かに惜しいは惜しい……しかし、もう決めたのじゃ。",
+         "ko": "으응, 나도 아주 조금은 아쉬운데... 그래도 난 이미 마음을 정했어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "I can't have guests take one look at that \"Dijiang\" and think my Yuanyuan Manor's an Endfield branch!",
+         "zh-TW": "現在慕名來緣緣莊的人不少，每次一進山抬頭就看見帝江號，還以為我這裡歸終末地管呢！",
+         "zh-CN": "现在慕名来缘缘庄的人不少，每次一进山抬头就看见帝江号，还以为我这儿归终末地管呢！",
+         "ja": "縁縁荘の噂を聞きつけ訪ねて来る者も増えたのに、最初に目に入るのが帝江号では、ここがエンドフィールドの管轄だと勘違いされてしまうであろう！",
+         "ko": "요즘은 소문을 듣고 인연 마을을 찾는 사람도 많아졌다고. 다들 산에 들어오자마자 커다란 '제강호'가 떡하니 자리 잡고 있는 걸 보고는, 여기가 엔드필드 관할인 줄 안다니까!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Anyway, I've been thinking about it forever, but now that I'm actually about to paint, my mind's blank. So, I came to you.",
+      "zh-TW": "總之我已經想了一陣子了，但臨下筆反而沒了頭緒，所以來讓你出出主意。",
+      "zh-CN": "总之我已经琢磨了好一阵子，但临下笔反倒没了头绪，所以来让你出出主意。",
+      "ja": "とにかく、前から考えておった。だが、いざ筆を取ると何も浮かばぬ……お主の意見を聞かせてほしいのじゃ。",
+      "ko": "아무튼 한참 고민은 했는데, 막상 붓을 들려니까 아무 생각도 안 나. 그래서 네 의견이나 들어보려고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What about something that doesn't exist in real life?",
+      "zh-TW": "畫一些奇觀如何，甚至是現實裡完全不存在的？",
+      "zh-CN": "画一些奇观如何，甚至是现实里完全不存在的？",
+      "ja": "現実に存在しないような絶景を描いてみるのはどうだろう。",
+      "ko": "현실에는 존재하지 않는 절경을 그려 보는 건 어떨까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Oh, bold! Not a bad idea. Let me think...",
+      "zh-TW": "想法很大膽嘛！有幾分道理，讓我想想……",
+      "zh-CN": "想法很大胆嘛！有几分道理，让我想想……",
+      "ja": "すごいことを考えるのう！ふむ、そうじゃな……",
+      "ko": "꽤 과감한 발상인데? 음, 일리가 있네, 어디 보자..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "My brother told me that back on Terra, you could look up and see the Twin Moons in the sky, waxing and waning in perfect rhythm.",
+      "zh-TW": "哥哥曾經跟我說過，他們在泰拉，抬頭便能看見天邊的雙月，晦明有序，交相輝映。",
+      "zh-CN": "哥哥曾经跟我说过，他们在泰拉，抬头便能看见天边的双月，晦明有序，交相辉映。",
+      "ja": "兄様から聞いたことがある。テラでは空に双月が浮かび、満ち欠けを繰り返しながら互いを照らし合うのだと。",
+      "ko": "예전에 오라버니가 그랬는데, 테라에는 하늘에 쌍월이 떠 있대. 밝아졌다 어두워지기를 반복하면서 서로를 비춘다고 했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Hm, how about I paint two moons?",
+      "zh-TW": "欸，畫兩個月亮，怎麼樣？",
+      "zh-CN": "欸，画两个月亮，怎么样？",
+      "ja": "月を2つ描くのはどうかのう？",
+      "ko": "쓰읍, 달을 두 개 그려 넣는 건 어떨까?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Hmm... I'm trying to picture it...",
+      "zh-TW": "嗯，我想像一下那個畫面……",
+      "zh-CN": "唔，我想象一下那个画面……",
+      "ja": "うーん、その景色を想像してみたけど……",
+      "ko": "음... 한번 상상해 볼게요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Forget it. Not many people on Talos-II have ever seen the Twin Moons. Who'd even know what they are?",
+      "zh-TW": "算了，塔衛二上見過雙月的能有幾個人，誰知道那是什麼。",
+      "zh-CN": "算了，塔卫二上见过双月的能有几个人，谁知道那是什么。",
+      "ja": "ダメじゃな。タロⅡで双月を見たことがある者など、何人おるか……描いても分かって貰えぬじゃろう。",
+      "ko": "아니다, 탈로스 II에서 쌍월을 본 적 있는 사람이 몇이나 되겠어. 다들 그게 뭔지도 모를 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Plus, two giant moons up there would mess with the whole lighting. I'd have to redo everything...",
+      "zh-TW": "再說掛兩盞大燈在山頂上，整座山的光線都變了，所有的景致都要一起修修改改……",
+      "zh-CN": "再说挂两盏大灯在山顶上，整座山的光线都变了，所有的景致都得跟着修修改改……",
+      "ja": "ましてや、山頂に大きな明かりを2つ浮かべれば、山全体の雰囲気も変わってしまう。そうなれば、他も描き替えねばならぬ。",
+      "ko": "게다가 산 정상에 커다란 등불 두 개를 달아 놓은 것처럼 돼 버리면, 산 전체의 음영이 달라져서 풍경도 전부 다시 손봐야 하거든..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Might as well just keep that \"Dijiang\".",
+      "zh-TW": "還不如「帝江號」呢。",
+      "zh-CN": "还不如“帝江号”呢。",
+      "ja": "ならば「帝江号」のほうがまだマシじゃ。",
+      "ko": "그럴 바엔 차라리 '제강호'를 남겨두는 게 낫겠어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What about Sami's snowfields, floating cities, or an endless sea of sand?",
+      "zh-TW": "那就把薩米的雪原、飛天的城市、無盡的沙海放上去？",
+      "zh-CN": "那就把萨米的雪原、飞天的城市、无尽的沙海放上去？",
+      "ja": "サーミの雪原や、空に浮かぶ都市、もしくは果てしない砂海とか……",
+      "ko": "그럼 사미의 설원이라든가, 하늘을 나는 도시라든가, 끝없는 사막처럼 산이랑 전혀 상관없는 걸 그려보는 건 어떨까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "That doesn't feel right.",
+      "zh-TW": "那也不搭啊。",
+      "zh-CN": "那也不搭啊。",
+      "ja": "微妙じゃな。",
+      "ko": "그럼 너무 안 어울리잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Hmm... I'm going in circles again.",
+      "zh-TW": "嗯……還是怎麼想都不對……又繞回來了。",
+      "zh-CN": "唔，还是怎么想都不对……又绕回来了。",
+      "ja": "ふむ、しっくりこないのう……また振り出しじゃ。",
+      "ko": "으음... 아무리 생각해도 아닌 것 같아... 하아, 결국 또 제자리네."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Then take your time if nothing comes to mind.",
+         "zh-TW": "沒有好想法的話，就先別著急了？",
+         "zh-CN": "没好想法的话，就先别着急了？",
+         "ja": "いい案が浮かばないなら、急がなくてもいいと思うよ。",
+         "ko": "좋은 생각이 떠오르지 않는다면, 너무 서두르지 않아도 되지 않을까요?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "Brainstorm with me a little longer. If nothing comes to us, we'll leave it.",
+         "zh-TW": "你陪我再想一下，想不出來就算了。",
+         "zh-CN": "你陪着我再想一会儿，想不出来就算了。",
+         "ja": "もう少し一緒に考えて、思いつかねばそのときは諦める！",
+         "ko": "그럼 너도 같이 조금만 더 생각해 줘. 그래도 안 떠오르면 그땐 그냥 포기하려고."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You don't really want to erase that \"Dijiang\", do you?",
+         "zh-TW": "或許，你潛意識裡並不想要改掉「帝江號」？",
+         "zh-CN": "或许，你潜意识里并不想要改掉“帝江号”？",
+         "ja": "もしかして、心のどこかに「帝江号」を描き替えたくない気持ちがあるのかも。",
+         "ko": "어쩌면... 사 님도 마음속으로는 '제강호'를 바꾸고 싶지 않은 걸지도 모르겠네요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "May ... be?",
+         "zh-TW": "是、是嗎？",
+         "zh-CN": "是、是吗？",
+         "ja": "そ、そうなのか？",
+         "ko": "그, 그런가?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Come to think of it, even a little potted plant... if you've had it around long enough, you'd miss it when it's gone.",
+      "zh-TW": "不過轉念一想，哪怕只是個小小的盆景，擺在家裡久了，哪天丟掉了也會不適應。",
+      "zh-CN": "不过转念一想，哪怕只是个小小的盆景，摆在家里久了，哪天丢掉了也会不适应。",
+      "ja": "しかし、考えてみれば……小さな盆栽ひとつでも、長年あったものがなくなれば落ち着かぬものじゃろう。",
+      "ko": "근데 가만 생각해 보니까, 조그만 화분 하나라도 집에 오래 두다 보면, 어느 날 없어졌을 때 괜히 허전하잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "I kept that \"Dijiang\" up there while I waited for you...",
+      "zh-TW": "為了等你回來，我……",
+      "zh-CN": "为了等你回来，我……",
+      "ja": "お主の帰りを待って、わらわは……",
+      "ko": "네가 돌아오길 기다리면서, 난..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Ten whole years. If it were suddenly gone, I don't think I'd sleep very well...",
+      "zh-TW": "我把那個「帝江號」在家裡放了十年，要是突然沒了，我說不定連覺都睡不好了……",
+      "zh-CN": "我把那个“帝江号”在家里放了十年，要是突然没了，我说不定连觉都睡不好了……",
+      "ja": "「帝江号」を10年も置いておったのじゃ！急になくなったら、眠れなくなるかもしれぬ……",
+      "ko": "그 '제강호'를 10년이나 집에 두고 있었으니까... 그게 갑자기 없어진다고 하면... 잠도 제대로 못 잘 것 같아..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Forget it. I'll leave it as it is!",
+      "zh-TW": "算了，不去動它了！",
+      "zh-CN": "算了，不去动它了！",
+      "ja": "もうよい、あれはそのままにしておく！",
+      "ko": "아, 몰라! 그냥 놔둬! 안 바꿀래!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0036_jsspsi_16003",
+   "topic": {
+    "en": "The Proxy's Invitation",
+    "zh-TW": "代理人的邀約",
+    "zh-CN": "代理人的邀约",
+    "ja": "代理人のお誘い",
+    "ko": "대리인의 초대"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Ahem. You there?",
+      "zh-TW": "咳咳，你在嗎？",
+      "zh-CN": "咳咳，你在吗？",
+      "ja": "その、今よいか？",
+      "ko": "크흠, 잠시 얘기 좀 할 수 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Yes, I saw your message. What's up?",
+      "zh-TW": "嗯，我看到訊息了。怎麼了嗎？",
+      "zh-CN": "嗯，我看到消息了。怎么了吗？",
+      "ja": "うん。どうしたの？",
+      "ko": "네, 괜찮아요. 무슨 일이시죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "The YSTF just got a new batch of recruits. Tan wants me to go meet them.",
+      "zh-TW": "應龍特勤隊最近又有一批新隊員來報到了，談老讓我抽個空去和他們見個面。",
+      "zh-CN": "应龙特勤队最近又有一批新队员来报到了，谈老让我抽个空去和他们见个面。",
+      "ja": "最近、応龍にまた新しい隊員が入ったらしい。タン天師から顔を出してほしいと頼まれたのじゃ。",
+      "ko": "이번에 응룡 특수부대에 또 신입 대원들이 들어왔어. 담 천사가 시간 될 때 얼굴이나 한번 비추라고 하더라고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "When the YSTF was first formed, I promised Tan I'd be a little nicer to the younger ones. I've been slacking off ... a lot. If I bail again, she's going to chew me out.",
+      "zh-TW": "特勤隊剛成立時我答應過談老，儘量對那些小輩們好一點，我偷了不少懶，這次再逃，就要被她罵了。",
+      "zh-CN": "特勤队刚成立时我答应过谈老，尽量对那些小辈们好一点，我偷了不少懒，这回再逃，该挨她训了。",
+      "ja": "応龍を立ち上げたとき、若い者にはなるべく目をかけてやると約束したが、何回もサボってしまってのう……今度こそ行かねば、叱られてしまう……",
+      "ko": "특수부대가 처음 만들어졌을 때 어린애들을 잘 챙겨 주겠다고 담 천사랑 약속했거든. 그동안 자주 빠졌으니까, 이번까지 안 가면 분명 또 한 소리 들을 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "If you've got time, come with me.",
+      "zh-TW": "你有空的話，陪我走一趟吧。",
+      "zh-CN": "你有空的话，陪我走一趟吧。",
+      "ja": "時間があるのなら、お主も一緒に来てほしいのだが……",
+      "ko": "시간 괜찮으면 같이 가줘."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sure. I'm not that busy lately anyway.",
+         "zh-TW": "可以啊，最近剛好沒那麼忙。",
+         "zh-CN": "可以啊，最近刚好没那么忙。",
+         "ja": "いいよ。ちょうど最近はそこまで忙しくないしね。",
+         "ko": "알겠어요. 마침 요즘은 그렇게 바쁘지 않으니까 같이 가시죠."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "You actually agreed? I'm impressed!",
+         "zh-TW": "真的？還算你有良心！",
+         "zh-CN": "真的？还算你有良心！",
+         "ja": "本当か！？多少は気が利くではないか！",
+         "ko": "정말? 흥, 그래도 양심은 있네!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "Don't treat it like a field trip. If you're coming, you've gotta help me figure out what to say to encourage those kids.",
+         "zh-TW": "去了也不是白去啊，你得幫我出點主意，該說點什麼做點什麼來鼓勵鼓勵那些年輕人。",
+         "zh-CN": "去了可不能白去啊，你得给我出点主意，该说点什么做点什么来鼓励鼓励那些年轻人。",
+         "ja": "しかし、ただ来るだけではダメじゃ。何を言って何をすればよいか、お主にも考えてもらうぞ。",
+         "ko": "근데 그냥 따라오기만 하면 안 돼. 어린애들한테 무슨 말을 해 주면 좋을지, 어떻게 격려하면 좋을지 조언도 좀 해줘야 해."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "You're probably better at this kind of thing than I am.",
+         "zh-TW": "這種場合，你應該比我熟悉。",
+         "zh-CN": "这种场合，你应该比我熟悉。",
+         "ja": "こういう場は、お主のほうが慣れておるじゃろ？",
+         "ko": "이런 자리는 나보다 네가 더 익숙할 거 아냐."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Isn't this an internal YSTF thing? Wouldn't it be weird if I showed up?",
+         "zh-TW": "這是應龍特勤隊的內部事務，我突然去不太好吧？",
+         "zh-CN": "这是应龙特勤队的内部事务，我突然去不太好吧？",
+         "ja": "応龍の内部の話なのに、いきなり行ったら変に思われないかな。",
+         "ko": "응룡 특수부대 내부 행사인데, 제가 가도 괜찮을까요?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "How's that weird?",
+         "zh-TW": "有什麼問題？",
+         "zh-CN": "有什么问题？",
+         "ja": "何が変なのじゃ？",
+         "ko": "뭐가 문제야?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "You're the one handling Yuanyuan Manor's accounts. It'd only be weird if you weren't by my side!",
+         "zh-TW": "你是緣緣莊管帳的，陪在我身邊，天經地義！",
+         "zh-CN": "你是缘缘庄管账的，陪在我身边，天经地义！",
+         "ja": "お主は縁縁荘の帳場を預かる者。わらわと一緒に行くのは当然じゃ！",
+         "ko": "넌 인연 마을의 장부를 담당하고 있는 사람이잖아. 내 옆에 있는 게 당연하지!"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "Besides, as much as I hate to admit it, the kids at HAS are probably more interested in you than me.",
+         "zh-TW": "而且話又說回來，雖然不太服氣，但宏科院的年輕人對你這位終末地的管理員可能更有興趣。",
+         "zh-CN": "而且话又说回来，虽然不太服气，但宏科院的年轻人对你这位终末地的管理员可能更感兴趣。",
+         "ja": "それに少々癪ではあるが……宏科院の若い者はわらわよりエンドフィールドの管理人に興味があるのではないか？",
+         "ko": "게다가 솔직히 말해서, 좀 인정하기 싫지만... 홍산 과학원의 어린애들도 엔드필드 관리자인 너한테 더 관심이 많을걸."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Si",
+         "zh-TW": "祀",
+         "zh-CN": "祀",
+         "ja": "スー",
+         "ko": "사"
+        },
+        "text": {
+         "en": "Give them a little pep talk. It'll be good for the Endfield-HAS partnership too.",
+         "zh-TW": "你正好鼓勵一下他們，也算是終末地和宏科院合作的一部分吧。",
+         "zh-CN": "你正好鼓励鼓励他们，也算是终末地和宏科院合作的一部分吧。",
+         "ja": "良い機会じゃ、皆を励ましてやれ。エンドフィールドと宏科院の協力の一環としてな。",
+         "ko": "간 김에 너도 애들 좀 격려해 주면 좋잖아. 이것도 엔드필드랑 홍산 과학원의 협력이라고 생각해 둬."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "It's a rare opportunity. We can go explore a bit once it's over.",
+      "zh-TW": "機會難得，等結束了之後，我們再去別的地方逛逛吧。",
+      "zh-CN": "机会难得，等结束了之后，我们再去别的地方逛逛吧。",
+      "ja": "用事を済ませたら、2人でいろいろと見て回ろうではないか。",
+      "ko": "이런 기회도 흔치 않으니까, 이 일이 끝나면 다른 데도 같이 좀 돌아다니자."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Seš'qa's annual auction is coming up. They always dig up rare stuff that people fight over.",
+      "zh-TW": "塞什卡每年都會辦拍賣會，會有很多失傳多年的有趣小玩意重新出現，讓不少人搶破頭。",
+      "zh-CN": "塞什卡每年都会办拍卖会，会有很多失传多年的有趣小玩意重新出现，让不少人抢破头。",
+      "ja": "セシュカでは毎年オークションが開かれる。長いこと眠っていた面白い品を、皆が奪い合ってのう。",
+      "ko": "세쉬카에서 매년 경매가 열리는데, 과거에 자취를 감춘 재미있는 물건들도 다시 출품돼서 다들 서로 차지하려고 난리거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "I want to pick out a few nice pieces to decorate Yuanyuan Manor's Main Hall.",
+      "zh-TW": "我想去淘幾個放在緣緣莊的大廳，當擺飾應該很不錯。",
+      "zh-CN": "我想去淘几个放在缘缘庄的大堂，当摆件应该很不错。",
+      "ja": "わらわも掘り出し物を探し当てて、縁縁荘の広間に飾りたいのじゃ。",
+      "ko": "몇 개 사 와서 인연 마을 홀에 장식해 두면 꽤 괜찮을 것 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "The timing couldn't be better.",
+      "zh-TW": "今年的拍賣會時間剛好快到了，時間真湊巧。",
+      "zh-CN": "今年的拍卖会正好快到了，时间赶巧了。",
+      "ja": "時期もちょうどピッタリで……",
+      "ko": "마침 올해 경매가 곧 시작될 때라 딱 타이밍도 맞고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "......",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "What? You don't want to go?",
+      "zh-TW": "怎麼了，你不想去？",
+      "zh-CN": "怎么了，你不愿意去？",
+      "ja": "どうした？興が乗らぬか？",
+      "ko": "왜, 가기 싫어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "No, it's not that.",
+      "zh-TW": "那肯定不是。",
+      "zh-CN": "那肯定不是。",
+      "ja": "そんなことないよ。",
+      "ko": "그건 절대 아니에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Okay, I get it. You're swamped.",
+      "zh-TW": "我知道了，你沒那麼多時間。",
+      "zh-CN": "我明白了，你没那么多时间。",
+      "ja": "わかったぞ。忙しいのだな？",
+      "ko": "흠, 그럼 시간이 많이 없는 거구나."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "That little supervisor of yours has you running around nonstop, doesn't she?",
+      "zh-TW": "監督小姑娘應該把你的行程都排得滿滿的了吧？",
+      "zh-CN": "监督小姑娘应该把你的行程都安排得满满当当了吧？",
+      "ja": "監察官の小娘に、予定をビッシリ詰め込まれておるのじゃろう？",
+      "ko": "아마 펠리카 감독관이 네 일정을 빈틈없이 꽉 채워 놨겠지?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Ah, forget it.",
+      "zh-TW": "唉，算了。",
+      "zh-CN": "唉，算了。",
+      "ja": "はあ、仕方ないのう。",
+      "ko": "하아... 됐어, 됐어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You're not upset?",
+      "zh-TW": "你不生氣了？",
+      "zh-CN": "你不生气了？",
+      "ja": "もう怒っていない？",
+      "ko": "화 풀리셨어요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Upset? Me? Please. I mean, yeah, you said you'd catch up on all those promises you left behind...",
+      "zh-TW": "我什麼時候生氣了？雖然你確實答應過要把以前欠下的約定都補回來……",
+      "zh-CN": "我什么时候生气了？虽然你确实答应过要把以前欠下的约定都补回来……",
+      "ja": "いつわらわが怒ったのじゃ？確かにお主は約束の埋め合わせをすると言ったが……",
+      "ko": "내가 언제 화났다고 그래? 물론, 네 입으로 예전에 못 지킨 약속들을 다 보상해 주겠다고 하긴 했지만..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "But I also know you're the big boss of Endfield. You don't get a second to yourself.",
+      "zh-TW": "但我也不是不知道你這位終末地管理員的情況，一刻都閒不下來。",
+      "zh-CN": "但我也不是不知道你这位终末地管理员的情况，一刻都闲不下来。",
+      "ja": "エンドフィールドの管理人が忙しいことくらい、わらわだってわかっておる。",
+      "ko": "엔드필드의 관리자가 얼마나 바쁜지는 나도 잘 알아... 한시도 쉴 틈이 없겠지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "The fact that you said yes to coming with me to meet the new recruits already made me happy.",
+      "zh-TW": "你一開始願意擠出時間陪我去見應龍特勤隊的小輩們，我已經很開心了。",
+      "zh-CN": "你一开始愿意挤出时间陪我去见应龙特勤队的小辈们，我已经很开心了。",
+      "ja": "応龍に一緒に行くと言ってくれただけで……十分なのじゃ。",
+      "ko": "애초에 시간을 내서 같이 응룡 특수부대 애들을 만나러 가주겠다고 한 것만으로도 난 충분히 기뻐."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "But ... after it's over, you're still stuck with me.",
+      "zh-TW": "不過……結束之後，你還是要和我一起的。",
+      "zh-CN": "不过……结束之后，你还是要和我一起的。",
+      "ja": "しかし……終わったならば、一緒にいてもらうぞ。",
+      "ko": "하지만 뭐... 응룡 애들을 만나고 나서도, 결국은 나랑 같이 다녀야 할 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What? You still want me to come with you to Seš'qa?",
+      "zh-TW": "啊，你還是想要我陪你去塞什卡嗎？",
+      "zh-CN": "啊，你还是想我陪你去塞什卡吗？",
+      "ja": "あ、やっぱりセシュカについてきてほしいんだね。",
+      "ko": "아, 그래도 세쉬카에 같이 가고 싶으신 거군요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Nooo! I mean, whatever Endfield sends you to do next, I'll tag along and help out.",
+      "zh-TW": "什麼啊！接下來終末地有什麼任務需要你去做？我陪你一起去，我幫你。",
+      "zh-CN": "什么呀！接下来终末地有什么任务需要你去做？我陪着你一起，我帮你。",
+      "ja": "違う！これからエンドフィールドの任務であろう？わらわが手伝ってやる。",
+      "ko": "그런 거 아니거든! 앞으로 네가 할 임무들이 어떤 것들인지는 모르겠지만, 내가 같이 갈 거야... 이 몸이 친히 도와주겠다고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "I'm only doing this because it's you...",
+      "zh-TW": "雖然只是看在你的面子上才答應的……",
+      "zh-CN": "虽然只是看在你的面子上才答应的……",
+      "ja": "お主の顔を立てただけではあるが……",
+      "ko": "너 때문에 어쩔 수 없이 받아들인 거긴 하지만..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Si",
+      "zh-TW": "祀",
+      "zh-CN": "祀",
+      "ja": "スー",
+      "ko": "사"
+     },
+     "text": {
+      "en": "Besides, I'm an Endfield Operator now too.",
+      "zh-TW": "但我畢竟，也是終末地的幹員了。",
+      "zh-CN": "但我毕竟，也是终末地的干员了。",
+      "ja": "わらわも一応、エンドフィールドのオペレーターじゃ。",
+      "ko": "나도 이젠... 엔드필드 오퍼레이터니까."
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 2
+}

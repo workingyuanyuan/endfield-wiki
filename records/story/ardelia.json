@@ -1,0 +1,1628 @@
+{
+ "slug": "ardelia",
+ "gameId": "chr_0025_ardelia",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Ardelia \nGENDER: Female \nAUTHENTICATION: Rhodes Island \nDOB: October 18 \nRACE: Caprinae \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Normal \nCOMBAT SKILL: Standard \nTACTICAL ACUMEN: Normal \nORIGINIUM ARTS ASSIMILATION: Outstanding",
+    "zh-TW": "【代號】艾爾黛拉\n【性別】女\n【身分認證】羅德島\n【生日】10月18日\n【種族】卡普里尼\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：普通\n作戰技巧：標準\n戰術規劃：普通\n源石技藝適應性：卓越",
+    "zh-CN": "【代号】艾尔黛拉\n【性别】女\n【身份认证】罗德岛\n【生日】10月18日\n【种族】卡普里尼\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：普通\n作战技巧：标准\n战术规划：普通\n源石技艺适应性：卓越",
+    "ja": "【コードネーム】アルデリア\n【性別】女\n【身分証明】ロドス・アイランド\n【誕生日】10月18日\n【種族】キャプリニー\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：普通\n戦闘技術：標準\n戦術立案：普通\nアーツ適性：卓越",
+    "ko": "[코드네임] 아델리아\n[성별] 여\n[신분 인증] 로도스 아일랜드\n[생일] 10월 18일\n[종족] 카프리니\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 보통\n작전 기술: 표준\n전술 계획: 보통\n오리지늄 아츠 적응성: 탁월"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Ardelia is an expert geologist from Rhodes Island. She specializes in volcanic hazards and has made significant contributions to Talos-II's geological research. Now employed by Endfield, she spends much of her time conducting site investigation. \n\nArdelia is one of those rare minds at the forefront of scientific discovery. What sets her apart isn't just her expertise, but her perseverance, fearless spirit, and above all, her genuine love for science and unquenchable curiosity. Without dedicated researchers like her, we might never truly understand the world we live in. \nYou'll often find her venturing out alone — collecting samples, studying geological structures, and transforming observations into theories. Thanks to her efforts, Endfield has gained a much deeper understanding of Talos-II's geology and the threats posed by the Blight. Her research has laid the groundwork for emergency plans in case of Blight outbreaks. I have great respect for Ardelia — for her humility, grace, and unwavering sense of purpose. It's as if she carries an endless well of strength, always certain of the path she must follow. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "艾爾黛拉，來自羅德島的地質研究專家，於火山相關地質災害有深入研究，為塔衛二地質科學研究做出重大貢獻。現已入職終末地，常年在外進行實地探勘任務。\n\n像艾爾黛拉這樣才華洋溢的學者，早已站在認知世界的前沿，她身上有著令人稱道的特質：堅持不懈，不畏險阻，以及身為研究人員最寶貴的——對科學的熱愛和永不滿足的好奇心。若沒有包括她在內的那批優秀科學家堅持不懈的探索，我們可能永遠無法看清眼前的世界。\n她經常一個人四處奔走，採集樣本，分析結構，得出新發現，並總結為理論。在她的幫助下，終末地對塔衛二的地質和侵蝕有了更深一步的瞭解，也制定了侵蝕災害爆發後的一系列應對措施。我格外佩服這位學者，隨著時間的推移，她始終謙遜、禮貌，內心彷彿有著永不枯竭的力量，永遠知道自己要做什麼。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "艾尔黛拉，来自罗德岛的地质研究专家，于火山相关地质灾害有深入研究，为塔卫二地质科研做出重大贡献。现已入职终末地，常年在外进行实地勘探任务。\n\n像艾尔黛拉这样才华横溢的学者，早已站在认知世界的前沿，她身上有着令人称道的品质：坚持不懈，不畏险阻，以及身为科研人员最宝贵的——对科学的热爱和永不满足的好奇心。若没有包括她在内的一批优秀科学家坚持不懈的探索，我们可能永远无法看清眼前的世界。\n她经常一个人四处奔走，采集样本，分析结构，得出新发现，并总结为理论。在她的帮助下，终末地对塔卫二的地质和侵蚀有了更深一步的了解，也制定了侵蚀灾害爆发后的一系列应对措施。我格外佩服这位学者，随着时间的推移，她始终谦逊、礼貌，内心仿佛有着永不枯竭的力量，永远知道自己要做什么。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "アルデリアはロドス出身の地質研究専門家である。火山の地質災害に関する深い知識を持ち、タロⅡの地質研究において大きな成果を挙げた。現在はエンドフィールドに所属し、主に野外での実地調査任務に従事している。\n\n「アルデリアさんは、本当に才能にあふれた学者です。彼女はまさに、世界を知る最前線に立っていると言っていいでしょう。最後まで諦めず、困難を恐れず、そして科学への情熱と、尽きることのない好奇心を持っている――彼女は研究者として、これ以上ないほどの資質を備えています。彼女をはじめとする優れた科学者たちが絶え間なく探求を続けているからこそ、私たちは目の前の世界を正しく理解することができるのです。」\n「彼女はいつも1人で各地を巡り、サンプルを採集し、構造を分析し、新しい発見を理論へとまとめあげています。エンドフィールドは、彼女の協力のおかげでタロⅡの地質や侵蝕について理解を一層深めることができましたし、侵蝕災害が発生した場合の、一連の対応策を整えることができました。私自身、アルデリアさんを深く尊敬しています。年月を経ても、彼女は常に謙虚で礼儀正しく、そして心の奥には限りない力を秘めています。常に何をすべきか、見失うことがないのです。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "아델리아는 로도스 아일랜드 소속의 지질 연구 전문가로, 화산 관련 지질 재해에 깊은 연구 성과를 쌓아왔으며 탈로스 II의 지질 과학 연구에 중대한 공헌을 했다.\n현재 엔드필드에 정식으로 합류하여, 장기간 현장에서 탐사 임무를 수행하고 있다.\n\n아델리아처럼 재능이 뛰어난 학자는 이미 해당 분야의 선두에 서 있다. 그녀는 끈기, 위험을 두려워하지 않는 대담함, 그리고 연구원으로서 가장 귀중한 자질인 과학에 대한 열정과 끝없는 호기심 등 칭찬할 만한 덕목을 두루 갖추고 있다. 만약 그녀를 비롯한 우수한 과학자들의 끊임없는 탐구가 없었다면, 우리는 아마 눈앞의 세계를 영원히 제대로 보지 못했을 것이다.\n\n그녀는 종종 혼자서 이곳저곳을 누비며 표본을 채집하고 구조를 분석하며, 새로 발견한 것을 이론으로 정립한다.\n그녀의 도움 덕분에 엔드필드는 탈로스 II의 지질과 침식에 대해 한층 더 깊이 이해하게 되었을 뿐만 아니라, 침식 재해 발생에 대비한 일련의 대응책도 마련할 수 있었다.\n나는 이 학자에게 각별한 존경심을 갖고 있다. 시간이 흘러도 그녀는 늘 겸손하고 예의 바르며, 그 내면에는 마르지 않는 힘이 있어 자신이 무엇을 해야 할지 언제나 정확히 알고 있는 듯하다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Mr. Dolly's Game I \nShortly after joining Endfield, Ardelia visited a Blight-ravaged sector of Talos-II. The geological disaster had shredded a once-peaceful settlement, leaving fissures that pulsed with residual energy. Survivors bore wounds beyond the physical, their eyes hollow with the kind of trauma only disaster refugees know. \nArdelia stayed at the shelter for a while. The wounded crowded steel cots — limbs lost, eyes vacant, voices severed by trauma. White curtains divided their suffering as medical monitors pulsed like weary hearts. \nArdelia worked tirelessly — organizing supplies, changing bandages, murmuring \"I understand your sorrow\" to the wounded. Until a voice, serrated with grief, cut through: \"You don't understand.\" \nIt was a young girl. Small but fierce, she forced the words through gritted teeth: \"You stand straight. Your steps don't falter. No disaster has carved its marks into you.\" \nThe girl turned away, her voice fraying at the edges. \"Stop. Just stop pretending. Maybe you've been sick, but you healed. That's luck we'll never taste. Our stories end in the same sentence: lifelong pain. So when you say you 'understand'... is that pity's cheap coin? Spare us.\" \nArdelia stood there in her research coat, ponytail precise, steps steady, and eyes bright. The Originium had scoured the reconvener's illness away, attuning her to wind whispers and microscopic fractures in stone. Yet here, before those still drowning in pain, her engineered perfection rendered her mute. \nWhen darkness fell upon the land, Mr. Dolly appeared. \nIt trotted between beds and corridors, leaving chaos in its wake — toppling medicine cabinets, upending tea trays, kicking a freshly filled hot-water bottle beneath pillows. Nurses cursed the sudden swelter; children shrieked about 'something furry' burrowing under their blankets. \nArdelia chased Mr. Dolly into an old break room where she tugged at a canvas sheet to reveal a dust-choked piano. It stomped the keys, a discordant chime that jolted Ardelia into clarity. \nArdelia approached, brushing away the dust. The yellowed keys stared back, a few bass notes dissonant but functional. She sat, fingertips tracing a tentative sequence of Leithanian arpeggios into the stale air. \nFirst piece ... second ... and as the third began, soft footsteps whispered from the hallway's depths. \nMr. Dolly lay curled nearby, a silent cushion of warmth. The children nestled against its fur, their breaths syncing with Ardelia's piano as the notes wove through the stale air. \nThe young girl came in as well, perching quietly in the farthest corner. \n\"It still hurts,\" she murmured, \"but when you play... the world becomes something worth enduring.\"",
+    "zh-TW": "【多利先生的遊戲·一】\n加入終末地不久後，艾爾黛拉來到了塔衛二的一處侵蝕災區。侵蝕所造成的地質災害撕裂了原本寧靜的小城，留下了可怕的疤痕。而流離失所的難民也因此遭受著身心上的雙重折磨。\n她在難民安置所駐足了很久。那裡有很多人失去了雙腿、雙眼，甚至無法正常言語，終日沉默。人們躺在鋼製床架上，被白布簾隔開，只有儀器持續發出微弱的聲音。\n艾爾黛拉努力去做點什麼——清點藥品、照顧病患，她試圖用「我也感同身受」來安慰傷殘者，但卻聽到了比傷痛更尖銳的聲音：\n「你不懂。」\n那是一個少女，刺耳的聲音從齒縫擠出：「你站得直，走得穩，表情像是沒經歷過災難。」\n少女別過臉，聲音顫抖：「你說你理解？別開玩笑了。就算你以前生過病，現在不是好了？你有那個運氣，我們沒有。我們呢？我們的人生早就寫好結局了，我們要帶著這些痛苦度過一輩子。你說你理解，是在施捨我們一點憐憫嗎？」\n艾爾黛拉身著研究人員的制服，頭髮束得整齊，步履穩健，眼神清澈而有神。源石重塑了再旅者的身軀，抹去了病痛。現在她能夠聽見風穿過的低語，能夠看清岩石上細微的裂紋。但也正因為如此，當她俯身面對這些痛苦的人，嘴邊的話被對方無法治癒的絕望噎住了。\n夜晚降臨時，多利先生出現了。\n牠在病床與走道之間穿行，掀起一片小小的騷動。牠弄倒了藥櫃，頂翻了茶水架，把一個剛泡好的熱水袋踢進枕頭底下，護理師抱怨「空氣怎麼突然變得好熱」，孩子哇哇大叫「有毛茸茸的東西鑽到我腳底下了」。\n艾爾黛拉追著多利先生，直到牠鑽進了那間破舊的休息室，掀開牆角的帆布，出現一架積滿灰塵的鋼琴。多利先生踩在琴鍵上，發出的聲音把艾爾黛拉「喚醒」。\n艾爾黛拉走過去，擦掉灰塵。琴鍵泛黃，幾個低音鍵失調，但還能發出聲。她坐了下來，用指尖試探性地按下一連串來自萊塔尼亞的音符。\n第一首……第二首……到第三首時，走廊深處傳來窸窣的腳步聲。\n多利安靜地蜷在一旁，像一個柔軟而隱形的靠枕。孩子們靠在多利先生溫暖的身上，聆聽艾爾黛拉的演奏。\n那個少女也來了。她坐在最角落的位置。\n「我還是痛。」她低聲說，「但你彈琴的時候，我會不想離開這個世界。」",
+    "zh-CN": "【多利先生的游戏·一】\n加入终末地不久后，艾尔黛拉来到了塔卫二的一处侵蚀灾区。侵蚀所造成的地质灾害撕裂了原本宁静的小城，留下了可怖的疤痕。而流离失所的难民也因此遭受着身心上的双重折磨。\n她在难民安置所驻足了很久。那里有很多人失去了双腿、双眼，甚至无法正常言语，终日沉默。人们躺在钢制床架上，被白布帘隔开，只有仪器持续发出微弱的声音。\n艾尔黛拉努力去做些事——清点药品、照顾病患，她试图用“我也感同身受”来安慰伤残者，但却听到了比伤痛更尖锐的声音：\n“你不懂。”\n那是一个少女，刺耳的声音从齿缝挤出：“你站得直，走得稳，表情像是没经历过灾难。”\n少女别过脸，声音发颤：“你说你理解？别开玩笑了。就算你以前生过病，现在不是好了？你有那个运气，我们没有。我们呢？我们的人生早就写好结局了，我们要带着这些痛苦度过一辈子。你说你理解，是施舍我们一点儿怜悯吗？”\n艾尔黛拉身着科研人员的制服，头发束得整齐，步履稳健，眼神清澈而有神。源石重塑了再旅者的身躯，抹去了病痛。现在她能够听见风穿过的低语，能够看清岩石上细微的裂纹。但也正因为如此，当她俯身面对这些痛苦的人，嘴边的话被对方无法治愈的绝望噎住了。\n夜晚降临时，多利先生出现了。\n它在病床与走道之间穿行，掀起一片小小的骚动。它拱倒了药柜，顶翻了茶水架，把一只刚泡好的热水袋踢进枕头底下，护士抱怨“空气怎么突然变得好热”，孩子哇哇大叫“有毛茸茸的东西钻到我脚底下了”。\n艾尔黛拉追着多利先生，直到它钻进了那间破旧的休息室，掀开墙角的帆布，现出一架积满灰尘的钢琴。多利先生踩在琴键上，发出的声音把艾尔黛拉“唤醒”。\n艾尔黛拉走过去，擦去灰尘。琴键泛黄，几个低音键失调，但还能发出声。她坐了下来，用指尖试探性地按下一连串来自莱塔尼亚的音符。\n第一首……第二首……到第三首时，走廊深处传来窸窸窣窣的脚步声。\n多利安静地蜷在一旁，像一只柔软而隐形的靠枕。孩子们靠在多利先生温暖的身上，聆听艾尔黛拉的演奏。\n那个少女也来了。她坐在最角落的位置。\n“我还是痛，”她低声说，“但你弹琴的时候，我会不想离开这个世界。”",
+    "ja": "【ドリーさんのゲーム1】\nエンドフィールドに入ってすぐ、アルデリアはタロⅡの侵蝕災害区へと足を踏み入れた。侵蝕による地質災害は、穏やかだった町を引き裂き、恐ろしい傷を地に刻みつける。家を失った人々は、身体も心も深く傷ついていた。\n彼女は避難者を受け入れる保護施設に立っていた。そこには、両足や両目を失った人々、そして言葉を発することもできず一日中沈黙して過ごす人々がいた。白いカーテンで隔てられ、金属製のベッドフレームに横たわる。響くのは、機械の動作音だけだった。\nアルデリアは、自分が出来ることを探して動き回った。薬の確認や患者の世話をしながら、「その気持ち、私もわかります」――負傷者を慰めようと声をかけると、痛みよりも鋭い返答が返ってきた。\n「何もわかってなんかない。」\n1人の少女だった。小さな口から漏れ出した、耳を刺すような声だった。「まっすぐ立って、しっかり歩ける。それに、災害なんて見たことないって顔……」\n少女は顔を背け、震える声で続けた。｢気持ちがわかる？笑わせないで。前に病気だったかもしれないけど、もう治ってるんでしょ？運が良くてよかったね！運に見放された人たちは、苦痛の中で一生を過ごすしかないの。あんたの言う『わかる』なんて、結局『可哀想な人たちに施してやる』くらいの気持ちでしょ？」\nアルデリアは研究者の制服を着て、髪はきちんと束ねている。足取りはしっかりとして、透き通った瞳が輝いている。源石は再旅者である彼女の身体を再構築し、病と痛みを取り除いた。今では風の囁く声が聞こえ、岩の上に走る細い亀裂も見える。しかし、だからこそ――目の前の人々が抱える、癒えることのない絶望に、言葉が詰まってしまった。\n夜の訪れと共に、ドリーさんが現れた。\n病室や廊下をうろうろして、小さな騒ぎを起こす。薬棚にぶつかり、お茶のラックをひっくり返し、湯を入れたばかりの湯たんぽを枕の下へ蹴り飛ばす。「急に部屋が熱くなった」と看護師が文句を言い、「もふもふが足の下に入ってきた！」と子どもたちが騒いだ。\nアルデリアはドリーさんを追って、古びた休憩室へと入った。壁際の布を少しめくると、埃をかぶったピアノが見えた。ドリーさんが鍵盤を踏み、その音がアルデリアを――呼び起こした。\nピアノに近づき、埃を払う。鍵盤は黄色く変色し、低音は少し狂っていたが、まだ音は出る。椅子に腰を下ろし、指先で試すようにリターニアの音楽を奏で始めた。\n1曲……2曲……3曲目になると、廊下の奥から小さな足音が近づいてきた。\nドリーさんは静かに身体を丸め、ふわふわで透明なクッションのようになって、そこにいた。子どもたちは温かい体にもたれながら、アルデリアの演奏を聞く。\nあの少女も、部屋の隅に座っていた。\n「まだ痛い。でも……あんたのピアノを聞いてると、まだこの世界にいたいって思う。」小さな声が、溶けるように響いた。",
+    "ko": "[돌리 씨의 게임 · 1]\n엔드필드에 합류한 지 얼마 되지 않아, 아델리아는 탈로스 II의 한 침식 피해 지역에 도착했다. 침식으로 인한 지질 재해는 원래 평온했던 마을을 파괴했고, 곳곳에 끔찍한 상처를 남겼다. 이로 인해 삶의 터전을 잃은 사람들은 육체적, 정신적 고통에 시달리고 있었다.\n그녀는 유랑자들의 수용소에서 오랫동안 발걸음을 멈추었다. 그곳에는 두 다리나 두 눈을 잃거나 심지어 제대로 말도 하지 못해 종일 침묵하는 이들이 많았다. 사람들은 하얀 천으로 칸막이가 쳐진 철제 침대에 누워 있었고, 기계에서 흘러나오는 미약한 소리만이 계속 울렸다.\n\n아델리아는 약품을 점검하고 환자를 돌보는 등 무언가 하려고 애썼다. 그녀는 \"저도 이해해요\"라는 말로 장애를 입은 이들을 위로하려 했지만, 상처보다 더 날카로운 목소리가 돌아왔다.\n\"너는 아무것도 몰라!\"\n한 소녀가 이를 악물듯 내뱉었다.\n\"너는 지금 똑바로 서 있고, 멀쩡히 걸을 수도 있잖아! 재해를 한 번도 겪어본 적 없는 그런 표정을 하고서!\"\n소녀는 고개를 돌리며 떨리는 목소리로 말했다.\n\"이해한다고? 웃기지 마. 설사 예전에 아팠어도 지금은 다 나았잖아? 넌 그런 운이 있었겠지만 우리는 아니야. 우린 인생의 결말이 이미 정해진 사람들이라고. 평생, 이 고통을 안고 살아야 해. 네가 이해한다고 하는 건, 우리가 불쌍해서 같잖은 동정이나 하는 거지.\"\n과학 연구 요원의 유니폼을 단정히 차려입은 아델리아는, 머리를 깔끔하게 묶고 또렷한 눈빛으로 똑바로 걸어 다녔다. 오리지늄은 리컨비너의 신체를 다시 만들어주고, 과거에 겪었던 병과 고통을 지워버렸다.\n지금의 그녀는 바람이 스치는 소리를 들을 수 있었고, 바위에 난 미세한 균열까지 식별할 수 있었다. 그러나 바로 그 때문에, 이 고통받는 사람들을 마주하고 몸을 숙였을 때, 그녀는 치유될 수 없는 절망 앞에 말문이 막혔다.\n\n밤이 되자, 돌리 씨가 나타났다.\n돌리 씨는 병상과 복도를 오가며 소동을 일으켰다. 약장을 들이받아 쓰러뜨리고, 찻물 선반을 뒤집었으며, 막 물을 채운 뜨거운 물주머니를 베개 밑으로 걷어찼다. 간호사는 \"공기가 왜 갑자기 더워졌지\"라며 불평했고, 아이는 '웬 털뭉치가 발밑으로 파고들었다'며 소리쳤다.\n아델리아는 돌리 씨를 뒤쫓아, 낡은 휴게실로 들어섰다. 돌리 씨가 구석의 캔버스를 젖히자 먼지 쌓인 피아노 한 대가 드러났다. 피아노 건반을 밟자 피아노 소리가 울려퍼졌고, 그 소리는 아델리아를 '일깨웠다'.\n아델리아는 다가가 먼지를 닦아냈다. 건반은 누렇게 바랬고, 몇몇 저음 건반은 조율이 맞지 않았지만 소리를 내는 데는 문제가 없었다. 그녀는 피아노 앞에 앉아, 손끝으로 라이타니엔의 선율을 조심스레 연주하기 시작했다.\n첫 곡... 두 번째 곡... 세 번째 곡을 연주할 즈음, 복도 끝에서 조심스러운 발걸음 소리가 들려왔다.\n돌리 씨는 마치 부드럽고 보이지 않는 쿠션처럼 옆에 조용히 웅크리고 있었다. 아이들은 돌리 씨의 따스한 몸에 기대어 아델리아의 연주를 들었다.\n그 소녀도 나타났다. 그녀는 맨 구석 자리에 앉았다.\n\"...난 여전히 아파.\" 그녀는 낮게 말했다.\n\"하지만 네가 피아노를 칠 때만큼은, 이 세상에 좀 더 머무르고 싶어져.\""
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "Mr. Dolly's Game II \nThe geology of Talos-II... unlike the volcanoes she knew, brimming with the vitality of expansion, eruption, and flow. Under erosion, it showed more of corrosion, withering, and consumption. The rock layers lost their logic, the earth as if diseased. Its skin peeled away, veins twisted, some areas warped by aberration. \nArdelia came to study the Blight, to keep pace with its unpredictable spread. She often ventured into high-risk zones alone, turning her life into lists of tasks. \nShe started to speak less, no longer weaving her thoughts into poetry. Her voice grew quieter, meals were often forgotten, and at night her fists clenched unconsciously in her sleep. The things she had fought so hard to protect — her eyes, her ears, the rhythm of her pulse, now filled her with a quiet unease. The health she had regained was slowly being eroded by an unseen dread. \n\"How much time do I have left?\" she wondered. It wasn't death she feared, it was a desperate race against the crumbling of this strange new land. \nUntil that day Mr. Dolly leapt out from a shallow pit. \nHe knocked over her rock hammer and snatched the instrument case. Ardelia followed, shouting in vain. They ran farther and farther — off-route, off-plan. She was supposed to be surveying a newly-formed Blight rift, but instead, she found herself in a quiet valley, sheltered by cliffs. \nA vast outcrop of columnar igneous rock stretched before her. Hexagonal pillars rose from the ground like piano keys. Beneath her feet lay ancient volcanic ruins, so well-preserved it was as if time had paused. \nThat familiar spark kindled in her heart once more. Ardelia knelt down, pulled out her notebook, and began to sketch — not for a mission, nor for data, but simply because it was beautiful and captivating. \nThat evening, Ardelia and Mr. Dolly made camp nearby. A cool breeze whispered through the air as stars rose between the jagged rock spires. Mr. Dolly, curled at her feet, let out a sneeze, sending her pen cap tumbling into the grass. \n\"You led me here on purpose, didn't you?\" \nMr. Dolly didn't answer. It rolled over and tapped her boot with its leg. \n\"You think I've stopped being myself... that all I do now is worry, racing against the Blight.\" \n\"But I'm scared, too. Scared that if I slow down, even for a moment ... it'll be too late.\" \nShe ran her fingers along Mr. Dolly's back and closed her eyes. The warmth of its fur against her palm was so comforting that for the first time, she slept soundly and sweetly under the open sky. \nThe next morning, she logged in her journal: \n\"Ancient volcanic ruins discovered in the northeast. Columnar joints well preserved.\" \n\"Led here by Mr. Dolly. Reconnected with my love for geology. Mood: content.\" \n\"Note to self: Slow down. Stay healthy.\"",
+    "zh-TW": "【多利先生的遊戲·二】\n塔衛二的地質……不像她熟悉的火山那樣，充滿膨脹、噴發與流動的生命力。在侵蝕的作用下，它更多地展示出腐蝕、枯萎、吞噬。岩層失去了邏輯，大地彷彿生病了，皮膚被剝離，脈絡扭曲，有些地方發生著畸變。\n侵蝕的擴展不可預測，而她是為此而來的人。為搶先一步觀測、標記、評估，她經常獨自深入高危險區域，時間、空間、生活都被切成了任務清單的一部分。\n艾爾黛拉越來越少說笑，也不再像寫詩一樣的感悟。她的聲音逐漸變輕，三餐經常被忘記，夜裡在夢中總是不自覺地握緊拳頭。那些她曾拼命保護的——眼、耳、心跳，開始使她隱隱不安。重獲的健康，正被無形的焦慮腐蝕著。\n「我還有多少時間？」有時候她會這樣問自己，不是擔心健康與壽命，而是在與這片嶄新大地的崩潰賽跑。\n直到那天，牠從一個不顯眼的凹坑跳出來。\n多利先生頂翻了地質鎚，叼走了儀器盒。艾爾黛拉說著「別鬧」，無奈地追上去，越跑越遠，直至偏離了計劃的路線。她本應去記錄一條新擴展的侵蝕裂隙，卻走進了一片被山崖遮蔽的谷地。\n一整片柱狀岩漿岩露了出來。六邊形的岩柱如琴鍵般排列整齊，自地底垂直升起。腳下，是一片古火山遺跡，形狀完整，像是那場噴發才剛剛結束不久。\n熟悉的悸動爬上心頭。艾爾黛拉蹲下身，取出筆記本，久違地畫了起來。這是一種她幾乎忘卻的感受——不是為了什麼任務，只是因為它很美，很有趣。\n晚上，艾爾黛拉與多利先生在附近宿營。涼風徐徐，星星從岩柱之間升起，多利趴在她腳邊，打了個噴嚏，把她的筆蓋撞落進草叢。\n「你故意帶我來這裡的，對吧？」\n多利先生不語，只是翻了個身，用後蹄蹬了蹬她的靴子。\n「你覺得我變得不像我自己了……只知道擔心，只知道和侵蝕賽跑。」\n「但我也怕啊，我怕再晚一點，就真的來不及了。」\n她摸了摸多利先生的背，閉上眼。那溫熱的絨毛讓她第一次在野外睡得沉穩香甜。\n第二天一早，艾爾黛拉在日記裡記錄：\n「東偏北方向發現古火山遺跡，岩漿岩柱狀節理保存良好。\n「多利先生引路。心情舒暢。重新感受到對地質的熱愛。」\n「備註：應適當調整行程節奏，保持健康。」",
+    "zh-CN": "【多利先生的游戏·二】\n塔卫二的地质……不像她熟悉的火山那样，充满膨胀、喷发与流动的生命力。在侵蚀的作用下，它更多地显示出腐蚀、枯萎、吞噬。岩层失去了逻辑，大地仿佛生了病，皮肤被剥离，脉络扭曲，有些地方发生着畸变。\n侵蚀的扩展不可预测，而她是为此而来的人。为抢先一步观测、标记、评估，她经常独自深入高危险区域，时间、空间、生活都被切成了任务清单的一部分。\n艾尔黛拉越来越少说笑，也不再写诗似的感悟。她的声音逐渐变轻，三餐经常被忘记，夜里总是在梦中不自觉地攥紧拳头。那些她曾拼命保护的——眼、耳、心跳，开始使她隐隐不安。重获的健康，正被无形的焦虑腐蚀着。\n“我还有多少时间？”有时候她会这样问自己，不是担心健康与寿命，而是在与这片崭新大地的崩溃赛跑。\n直到那天，它从一个不显眼的凹坑跳出来。\n多利先生顶翻了地质锤，叼走了仪器盒。艾尔黛拉喊着“别闹”，无奈地追上去，越跑越远，直至偏离了计划的路线。她本应去记录一条新扩展的侵蚀裂隙，却走进了一片被山崖遮蔽的谷地。\n一整片柱状岩浆岩露了出来。六边形的岩柱如琴键一般排列整齐，自地底垂直升起。脚下，是一片古火山遗迹，形状完整，仿佛那场喷发才刚刚结束不久。\n熟悉的悸动爬上心头。艾尔黛拉蹲下身，取出笔记本，久违地画了起来。这是一种她几乎忘却的感受：不是为了什么任务，只是因为它很美，很有趣。\n晚上，艾尔黛拉与多利先生在附近宿营。凉风习习，星星从岩柱之间升起，多利趴在她脚边，打了个喷嚏，把她的笔盖撞落进草丛。\n“你故意带我来这儿的，对吧？”\n多利先生不语，只是翻了个身，用后蹄蹬了蹬她的靴子。\n“你觉得我变得不像我自己了……只知道担心，只知道和侵蚀赛跑。”\n“但我也怕啊，我怕再晚一点，就真的来不及了。”\n她摸了摸多利先生的背，闭上眼。那温热的绒毛让她第一次在野外睡得沉稳香甜。\n第二天一早，艾尔黛拉在日志里记录：\n“东偏北方向发现古火山遗迹，岩浆岩柱状节理保存良好。\n“多利先生引路。心情舒畅。重新感受到对地质的热爱。\n“备注：应适当调整行程节奏，保持健康。”",
+    "ja": "【ドリーさんのゲーム2】\nタロⅡの地質は、彼女が知っている「火山」――膨張し、噴き出し、流れ出すような生命力に満ちたそれとは違っていた。侵蝕によって土地は腐り、枯れ、すべてが呑み込まれていく。岩層は秩序を失い、大地は病に侵されたかのように皮膚が剥がれ、血管がねじれ、歪んだ身体が盛り上がる。\n侵蝕の拡がりは予測できるものではない。それが、彼女がここへ来た理由だった。いち早く変化を観測し、記録をつけ、評価する。アルデリアは危険とされる場所でも、迷わず1人で足を踏み入れる。時間も、空間も、日々の生活すらも、すべてが任務リストの項目として区切られていく。\n笑顔は減り、詩のような感想も書かなくなった。声は次第に小さくなり、食事を忘れ、夢の中で知らぬうちに拳を握りしめる。かつて必死に守ろうとした――目、耳、心臓の鼓動。それは、かすかな不安となって彼女に返ってきた。取り戻した健康は、目に見えぬ焦燥により蝕まれ始めていた。\n「……私に残された時間は、あとどれくらいですか？」自分に問いかける。健康や寿命のことではない。この新しい大地の崩壊と競うように、走り続けていたからだ。\n――目立たない小さな窪みから「それ」が飛び出してくるその日までは。\nドリーさんは採掘用ハンマーにぶつかり、機材箱を咥えて走り出した。「止まってください！」アルデリアは声を上げ、仕方なく追いかける――そのうち、予定のルートから大きく外れてしまった。元々は新しくできた侵蝕の裂け目を記録するはずだったが、たどり着いたのは、崖に囲まれた谷地であった。\nそこには、柱状の火成岩が一面に広がっていた。六角形の柱は鍵盤のように整然と並び、地面から真っ直ぐ天へと伸びている。足元にはついさっき噴火したと言われても疑わぬほど、綺麗に形をとどめた古い火山の遺跡があった。\n胸の奥から、ずっと忘れていた高鳴りが聞こえてくる。アルデリアはしゃがみ込み、メモ帳を取り出して、久しぶりに絵を描き始めた。任務のためではない。ただ、美しくて面白いと思ったからだ。\nアルデリア、そしてドリーさんはその近くで夜を過ごすことにした。涼しい風が吹き抜け、柱の間から星が天へと昇っていく。ドリーさんが彼女の足元でくしゃみをする。その弾みでペンのキャップが外れ、草むらへと落ちた。\n「私をここに連れてきたのは、わざとですよね？」\nドリーさんは何も答えずに身体をくるりと返し、後ろ足の蹄で彼女の靴を軽く蹴った。\n「私が自分らしさを失くして、心配ばかりして、侵蝕と時間を争うことばっかり考えてる……そう思ったんですよね。」\n「でも、怖いんです。少しでも遅れたら、本当に間に合わなくなるかもしれないって……」\nドリーさんを撫でながら、目を閉じる。ふわふわで温かい毛に包まれて、アルデリアは野外で初めて、深く甘い夢の世界に入り込んだ。\n翌朝の日記には、こう書かれていた。\n「東北東に、古い火山の遺跡を見つけました。柱状の火成岩が崩れることなく保存されています。」\n「ドリーさんが道案内してくれました。とても晴れやかな気持ちです。地質への情熱を改めて思い出しました。」\n「注：日程を適切に調整し、健康を保つこと」",
+    "ko": "[돌리 씨의 게임 · 2]\n탈로스 II의 지질은... 그녀에게 익숙한 화산처럼 팽창, 분출, 흐르는 생명력으로 가득하지 않았다. 침식의 작용으로, 이곳은 부식되고, 말라붙고, 모든 것을 삼키는 현상이 더 두드러졌다.\n층은 질서를 잃었고, 대지는 마치 병에 걸린 듯 표면이 벗겨지고 결이 뒤틀렸으며, 일부 지역은 기형적으로 변하고 있었다.\n침식의 확산은 예측 불가능했고, 그녀는 바로 그 일을 하러 온 사람이었다. 한발 앞서 관측하고, 기록하며, 평가하기 위해, 그녀는 종종 홀로 고위험 구역 깊숙이 들어갔다. 시간, 공간, 생활까지 모두 임무 목록의 일부가 되어갔다.\n\n아델리아는 점점 농담을 하거나 웃는 일이 줄었고, 시와 같은 감상을 적는 일도 없어졌다. 그녀의 목소리는 점점 작아졌고, 식사는 자주 거르며, 밤이면 꿈속에서 무의식적으로 주먹을 움켜쥐곤 했다. 그녀가 그토록 필사적으로 지켰던 것들, 즉 그녀의 눈과 귀, 심장 박동이 그녀를 은근히 불안하게 만들기 시작했다. 되찾은 건강이 보이지 않는 불안감에 잠식당하고 있었다.\n\"나한테 시간이 얼마나 남았을까?\" 그녀는 가끔 스스로에게 이렇게 묻곤 했다. 자신의 건강이나 수명을 걱정해서가 아니라, 이 새로운 대지의 붕괴와 경주를 벌이고 있었기 때문이다.\n그러던 어느 날, 돌리 씨가 눈에 띄지 않는 작은 구덩이에서 뛰쳐나왔다.\n돌리 씨는 지질망치를 넘어뜨리고, 장치 상자를 물고 달아났다. 아델리아는 \"장난치지 마세요!\"라고 외치며 어쩔 수 없이 뒤쫓아갔고, 점점 더 멀리 달려가다 결국 계획된 경로에서 벗어나게 되었다. 원래는 새로 확장된 침식 균열을 기록하러 가던 참이었으나, 절벽에 가려진 협곡으로 들어서게 되었다.\n\n거대한 주상절리 암석이 모습을 드러냈다. 육각형의 암석 기둥이 마치 피아노 건반처럼 가지런히 배열되어 땅속에서부터 수직으로 솟아 있었다. 발밑은 고대 화산 유적이 펼쳐져 있었는데, 그 형태가 온전하여 마치 분화가 끝난 지 얼마 되지 않은 듯했다.\n익숙한 설렘이 가슴속에서 피어올랐다. 아델리아는 몸을 웅크리고 수첩을 꺼내, 오랜만에 그림을 그리기 시작했다. 그것은 거의 잊고 지냈던 감각이었다. 어떤 임무 때문이 아니라, 그저 아름답고 흥미롭기 때문에 하는 일이었다.\n밤이 되어, 아델리아는 돌리 씨와 근처에서 야영했다. 서늘한 바람이 불고, 별들이 기둥 사이로 떠올랐다. 돌리 씨는 그녀의 발치에 엎드려 있다가 재채기를 했고, 그 바람에 그녀의 펜 뚜껑이 풀숲으로 떨어졌다.\n\"일부러 저를 여기로 데려온 거죠?\" 돌리 씨는 대답 없이 그저 몸을 뒤집어 뒷발로 그녀의 부츠를 툭툭 쳤다.\n\"돌리 씨가 보기엔 제가 변했다고 생각했겠네요... 걱정만 하고, 침식과의 경주에만 매달리니까요.\"\n\"무서워서 그래요. 조금만 더 늦으면, 정말 돌이킬 수 없을까 봐.\"\n그녀는 돌리 씨의 등을 쓰다듬으며 눈을 감았다. 그 따스한 털의 온기 덕분에, 그녀는 처음으로 야외에서 깊고 달콤한 잠에 빠졌다.\n\n다음 날 아침, 아델리아는 일지에 기록했다.\n\"동북동 방향에서 고대 화산 유적 발견. 주상절리 용암 보존 상태 양호.\n돌리 씨가 길을 안내함. 마음이 상쾌함. 지질학에 대한 열정을 다시 느낌.\n비고: 일정 속도를 조절하고 건강을 유지할 것.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "Mr. Dolly's Game III \nGazing out at the glistening coastline and distant skyscrapers, a long-forgotten name came to Ardelia's mind — Siesta, a volcanic city wrapped in warm memories. \nBut, this was La Fantoma — the gem of Band, the gilded city of Talos-II. \nAs a renowned geologist, Ardelia was invited to speak at a major academic forum on \"Order in the New Geological Ecology of Talos-II.\" She had only planned to deliver a standard presentation, but to her surprise, her speech caused quite a stir. \nCorporate representatives quickly surrounded her, sharing blueprints for a new industrial park and asking for her thoughts. Senior researchers eagerly shared their latest findings, hoping to spark potential collaborations with Ardelia. Even government officials brought thick binders and invited her to join their next major project. \nJust like that, a quiet field researcher had become the star of the show. \nWhat began as simple handshakes soon turned into warm compliments — \"You're an inspiration to us all.\" In the elevator, someone stopped Ardelia with a notebook, asking for an autograph to hang in his lab. At crosswalks, kids would shout, \"I wanna be a scientist too!\" Even a street vendor handed her a soda, saying, \"My nephew loves geology — got any book recommendations?\" \nAt first, Ardelia found it moving. She nodded politely to every earnest face, patiently answered each well-meaning question. But slowly, exhaustion crept in. She didn't resent these people, nor did she dislike their attention. It was just… she wasn't ready to be \"known\". \nAfter a grueling three-hour roundtable, she pushed open the door and ran. She passed a giant poster of herself labeled \"Young Female Scientist Role Model\" and vanished into the crowd. \nThat's when she realized: Mr. Dolly was gone. \nNo one knew what it was or where it had gone. In a shopping mall, a woman screamed about \"something fluffy\" bumping into her. On a rooftop, a flower bed was trampled flat by \"something pink.\" Someone even posted a blurry photo \"something round\" darting over the ticket gate — carrying a bag of cotton candy. \nArdelia tracked these clues and searched half of the city. Her shoes wore thin, mud clung to her skirt, and headache crept over her. \nNearly out of breath, she stumbled out of a side alley and stopped. \nIt was a patch of untouched wilderness at the city's edge — untamed, bursting with wildflowers. The sea breeze carried their fragrance in gentle waves. And there, lay Mr. Dolly, sprawled at the heart of it all, motionless as the earth itself. \n\"What are you even doing here?\" Ardelia asked, half-frustrated, half-amused. Mr. Dolly didn't answer. He just rolled over lazily. \nArdelia walked over and sat beside him. Then, she switched off her handyterm. The meetings, the obligations — all of it could wait. \nAfter all, nothing suits a geologist better than the open wild.",
+    "zh-TW": "【多利先生的遊戲·三】\n眺望著遠處閃光的海岸和高樓，艾爾黛拉忽然想起了一個遙遠的名字：汐斯塔。那座帶著熱情回憶的火山城市。\n不過，這裡是菈梵朵瑪——環帶的明珠，塔衛二的鍍金之城。\n作為表現傑出的地質學者，艾爾黛拉被邀請參加一場隆重的學術論壇——主題是「新地質生態中的塔衛二秩序」。她一開始只是答應做個普通的報告，沒想到這場演講引起了轟動。\n企業代表熱情介紹新工業園區的規劃，希望她「多提寶貴意見」；學界耆宿興奮地與她分享最新的研究成果，提議共同展開科學研究；行政部門送上厚厚的資料冊，誠意十足地邀請她加入下一個協作專案。\n一個專注於觀測和研究大自然的學者，卻一夜之間成為了這座城市的焦點。\n原本只是打個招呼的握手，最後都會被附帶一句「你是大家的榜樣」；有人在電梯裡拿著筆記本請她簽名，說是要貼在實驗室門口鼓勵同事；在十字路口，孩子們追著她叫「姐姐我也想當科學家」；街邊的攤販不容拒絕地把汽水塞到她手裡，然後話題轉向了「我的侄子也喜歡地質學，你能不能推薦幾本書」……\n艾爾黛拉一開始覺得溫暖。她對每一張真誠的臉點頭致意，對每一個好意的提問耐心回應。但漸漸地，疲憊開始爬了上來。她並不反感這些人，也不討厭這些事。只是她……還沒有準備好成為「名人」。\n終於，一場持續三個小時的圓桌對談結束後，她轉身推開門，跑過印著自己「年輕女性科學家代表」面孔的巨大海報，像逃跑一樣鑽進人群。\n就是那個時候——多利先生不見了。\n沒人知道牠是什麼，當然也沒人知道牠去了哪裡。摩登女郎在商場裡尖叫「什麼東西撞我」，辦公大樓後巷的花壇被「粉色不明物」踩得稀爛，還有人在車站拍到一團模糊的影子從閘門上竄了過去，帶走了一袋棉花糖。\n艾爾黛拉追著這些蹤跡，跑遍了大半個城區。裙角沾上了泥，鞋跟磨破，太陽穴隱隱作痛。\n直到她氣喘吁吁地從一條偏僻小巷跑出，眼前豁然開朗。\n那是城市邊緣一塊未被建築覆蓋的荒地，開滿了鮮花，海風一吹，飄來陣陣花草的味道。多利先生正悠閒地臥在中央，一動不動。\n「你跑來這裡幹嘛？」艾爾黛拉覺得好氣又好笑。多利先生沒有回答，只翻了個身，打了個滾。\n艾爾黛拉走過去，靠著牠坐下。她關掉了通訊器，讓那些不忍失禮、不想拒絕的行程，統統錯過了時間。\n畢竟，還是野外更適合一個地質學者。",
+    "zh-CN": "【多利先生的游戏·三】\n眺望着远处闪光的海岸和高楼，艾尔黛拉忽然想起了一个遥远的名字：汐斯塔。那座带着热情回忆的火山城市。\n不过，这里是菈梵朵玛——环带的明珠，塔卫二的镀金之城。\n作为表现杰出的地质学者，艾尔黛拉被邀请参加一场隆重的学术论坛——主题是“新地质生态中的塔卫二秩序”。她一开始只是答应做个普通的报告，没料到这场演讲引起了轰动。\n企业代表热情介绍新工业园的规划，希望她“多提宝贵意见”；学界宿耆兴奋地与她分享最新的研究成果，提议共同展开科研攻关；行政部门送上厚厚的资料册，诚意十足地邀请她加入下一个协作项目。\n一个专注于观测和研究大自然的学者，却一夜之间成为了这座城市的焦点。\n原本只是打个照面的握手，最后都会被附带一句“你是大家的榜样”；有人在电梯里攥着笔记本请她签名，说是要贴在实验室门口鼓励同事；在十字路口，孩子们追着她喊“姐姐我也想当科学家”；街边的摊主不容拒绝地把汽水塞到她手里，然后话题转向了“我的侄子也喜欢地质学，你能不能推荐几本书”……\n艾尔黛拉一开始觉得温暖。她对每一张真诚的脸点头致意，对每一个好意的提问耐心回应。但渐渐地，疲惫开始爬了上来。她并不反感这些人，也不讨厌这些事。只是她……还没有准备好成为“名人”。\n终于，一场持续三个小时的圆桌对谈结束后，她转身推开门，跑过印着自己“年轻女性科学家代表”面孔的巨幅海报，像脱逃一样钻进人群。\n就是那个时候——多利先生不见了。\n没人知道它是什么，自然也没人知道它去了哪儿。摩登女郎在商场里尖叫“什么东西撞我”，写字楼后巷的花坛被“粉色不明物”踩得稀烂，还有人在车站拍到一团模糊的影子从闸机上蹿了过去，带走了一袋棉花糖。\n艾尔黛拉追着这些踪迹，跑遍了大半个城区。裙角沾上泥点，鞋跟磨破，太阳穴隐隐作痛。\n直到她气喘吁吁地从一条偏僻小巷跑出，眼前豁然开朗。\n那是城市边缘一块未被建筑覆盖的荒地，开满了鲜花，海风一吹，飘来阵阵花草的味道。多利先生正悠闲地卧在中央，一动不动。\n“你跑来这儿干什么？”艾尔黛拉有点气恼，又有点好笑。多利先生没有回答，只翻了个身，打了个滚。\n艾尔黛拉走过去，靠着它坐下。她关掉了通信器，让那些不忍失礼、不想拒绝的日程，统统错过了时间。\n毕竟，还是野外更适合一个地质学者。",
+    "ja": "【ドリーさんのゲーム3】\n遠くで煌めく海岸とビル群を眺めながら、アルデリアは遥か昔の名を思い出していた――「シエスタ」。情熱に満ちた記憶が残る、火山都市の名だ。\nしかし、ここはラヴァンドマ――文明地帯の宝石と呼ばれる、タロⅡの金色に輝く都市。\n優秀な成果を挙げた地質学者として、アルデリアは権威ある学術フォーラムへ招かれていた。テーマは「新しい地質生態におけるタロⅡの秩序」。最初はごく一般的な学術報告をするだけのはずだった――まさかその講演が、都市全体を揺らすほどの反響を呼ぶとは思ってもみなかった。\n企業の代表は新しい工業地帯の計画を熱心に語り、「ぜひご意見を」と頭を下げた。学界の大御所は興奮気味に最新の研究成果を次々と見せ、共に科学の難関を突破しようと誘った。行政部門は分厚い資料を差し出し、次の大型プロジェクトへの参加を誠意を込めて打診した。\n自然の観測と研究に心を注いできた1人の学者は、一夜にして注目の的となった。\n握手を交わすだけで、「あなたは研究者の鑑です」と言葉を添えられる。エレベーターでは「実験室の入口に貼って皆を励ますんです」と、ノートにサインを求められる。十字路では走ってきた子どもたちに「おねえさん、わたしも科学者になりたい！」と声をかけられる。屋台のオーナーでさえ「地質学が好きな甥におすすめの本はあるか」と言いながら、ソーダを強引に押し付けてくる……\n最初、アルデリアはその温かさを素直に受け止めていた。一人ひとりの真剣な顔に頷き、感謝を述べ、質問にも真面目に返答していた。だが次第に、心の奥に疲労が溜まっていく。誰も、どの出来事も憎くなどない――けれど、彼女は「有名人」になる覚悟など、できているわけがなかったのだ。\nそしてある日、3時間にも及ぶ討論会が終わった直後のこと。身を翻してドアを開け、「若手女性科学者代表」と大きく印刷された自分の顔のポスターを背後に、人混みへと逃げ出した。\nそのとき――ドリーさんの姿が、消えてしまった。\n当然、何を探しているかも、どこに行ったかも、誰にもわからない。ショッピングモールではお洒落をした女性が「今ぶつかったのは何！？」と叫び、オフィスビル裏の花壇は「ピンク色の何か」に荒らされていた。駅では改札機を飛び越えた影が、マシュマロの袋を奪った瞬間を撮影した者もいた。\nアルデリアは手がかりを追いかけ、街中を走り回った。スカートの裾は泥で汚れ、靴の踵はすり減り、こめかみにズキズキとした痛みが走る。\n息を切らし、人通りの少ない小道を抜けると――目の前が一気に開けた。\n都市の外縁に広がる、建物の影1つない荒野。一面に咲く花々が海風に揺れ、香りが草の匂いと混ざって運ばれてくる。ドリーさんは花の真ん中でのんびりと横たわり、動かない。\n「……こんなところまで、何をしに来たんですか？」アルデリアは少しだけ呆れたような笑顔を浮かべ、問いかけた。ドリーさんは何も答えなかった。ただ、ごろんと身体をひっくり返すだけ。\nアルデリアはドリーさんに近づいて、その隣に腰を下ろした。通信を切ると、「申し訳ない」と断れずに抱え込んでいた予定が、時の彼方へと流れてゆく。\n――やはり、地質学者には荒野が一番似合う。",
+    "ko": "[돌리 씨의 게임 · 3]\n멀리 반짝이는 해안과 고층 빌딩을 바라보던 아델리아는 문득 아득한 이름 하나를 떠올렸다. 바로 열정 가득한 추억이 깃든 화산 도시, 시에스타였다.\n하지만 지금 그녀가 있는 이곳은 라반도르마. 밴드의 진주이자, 탈로스 II의 황금빛 도시였다.\n뛰어난 지질학자로 인정받은 아델리아는 '새로운 지질 생태계 속 탈로스 II의 질서'를 주제로 한 성대한 학술 포럼에 초청받았다. 처음엔 단순한 발표 하나만 할 생각이었으나, 그 발표가 그렇게까지 큰 반향을 일으킬 줄은 예상하지 못했다.\n\n기업 대표들은 열정적으로 새 공업단지 계획을 소개하며 '좋은 의견'을 많이 부탁한다고 하고, 학계의 원로들은 흥분하여 최신 연구 성과를 공유하며 공동 연구를 제안했다. 행정 부서는 두툼한 자료집을 건네며, 다음 협력 프로젝트에 합류해 달라고 정중히 요청했다.\n그저 자연을 관측하고 연구하던 학자가 하룻밤 사이에 이 도시의 관심 한가운데에 서게 된 것이다.\n그저 가벼운 인사치레로 나눈 악수에는 \"당신은 모두의 귀감입니다\"라는 말이 따라왔다. 엘리베이터에서는 누군가 노트를 꽉 쥐고 사인을 요청하며, 연구실 문에 붙여 동료들을 격려하겠다고 말했다. 횡단보도에서도 아이들이 따라오며 자기도 과학자가 되고 싶다고 외쳤고, 길거리 노점상은 거절할 틈도 없이 탄산음료를 쥐여주더니 \"우리 조카도 지질학을 좋아하는데, 책 몇 권 추천해 줄 수 있나요?\"라며 말을 걸었다...\n\n처음엔 따뜻함을 느꼈다. 아델리아는 모든 진심 어린 얼굴에 고개를 끄덕이며, 모든 질문에 성실히 대답했다. 그러나 시간이 흐르며 점점 피곤함이 밀려왔다. 사람들이 싫거나 이런 상황이 귀찮은 것은 아니었다. 그저... 아직 '유명 인사'가 될 준비가 되지 않았을 뿐이었다.\n세 시간 동안 이어진 원탁 토론이 끝난 뒤, 그녀는 문을 밀고 나와, 자신의 얼굴이 '젊은 여성 과학자 대표'라는 문구와 함께 인쇄된 거대한 포스터를 지나쳐, 도망치듯 인파 속으로 파고들었다.\n바로 그때, 돌리 씨가 사라졌다.\n\n아무도 그것이 무엇인지 모르니, 당연히 어디로 갔는지도 몰랐다. 쇼핑몰에서는 한껏 멋을 낸 여성이 \"뭐야, 방금 뭐가 부딪혔어!\"라고 소리쳤다. 오피스 빌딩 뒷골목 화단은 \"분홍색 정체불명의 무언가\"에 짓밟혀 엉망이 되었으며, 역에서는 솜사탕 한 봉지를 채가며 개찰구를 뛰어넘는 흐릿한 그림자가 누군가의 카메라에 찍히기도 했다.\n아델리아는 그 흔적들을 쫓아 도시의 절반 이상을 헤맸다. 치마 끝자락에는 흙탕물이 튀었고, 구두굽은 닳았으며, 관자놀이가 지끈거렸다.\n숨을 헐떡이며 한적한 골목길을 빠져나왔을 때, 갑자기 눈앞이 탁 트였다.\n그곳은 도시 외곽에 건물이 들어서지 않은 빈터였고, 온갖 꽃들이 만발해 있었다. 바닷바람이 불자, 꽃과 풀의 향기가 실려왔다. 돌리 씨는 그 한가운데에 태평하게 엎드려, 미동도 하지 않았다.\n\"여기까지 와서 뭐 하는 거예요?\"\n아델리아는 화가 나면서도 헛웃음이 났다. 돌리 씨는 대답 대신, 몸을 한번 뒤집더니 뒹굴었다.\n아델리아는 다가가 돌리 씨 옆에 기대어 앉아 통신기를 꺼버렸다. 차마 거절하지 못했던 그 모든 일정이 그대로 지나가도록 내버려 두었다.\n아무래도 지질학자에게는 역시 야외가 더 어울린다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "Mr. Dolly's Game IV \nThe day Ardelia boarded Dijiang with her sample box, she realized something was missing. \n\"Where's Mr. Dolly...?\" \nInvisible to most people, this fluffy creature was already happily wandering around Dijiang. \n\nIn plain sight, Xaihi bowed apologetically to the empty space and said, \"My sincere apologies, I did not mean to step on you, noble invisible being.\" \n\"Something just barged in here!\" \"Who licked half the hotpot soup base!\" The canteen buzzed with surprised shouts. \n\"Who changed my alarm sound to 'baa baa baa'!? Oh no, oh no... I'm going to be so late for sword practice!\" \n\"It must be a ghost! And it's pink! Oooohhh, I'm calling dibs!\" Yvonne dashed down the hallway excitedly. \nWhen Ardelia arrived, she found the Endministrator crouched by the door, slowly extending a hand, as if waiting for some silent consent. \nMr. Dolly gazed at the Endministrator a moment before leaning in, letting the fingers sink into its thick wool, without a word. \n\n\"That devout sister... pays little mind to anything beyond the pursuit of wisdom.\" \n\"The cheerful chef? Oh, he hides weightier thoughts behind that grin. Don't mistake his ease for carelessness, not until his burdens are settled.\" \n\"The girl who dreams of being a master pugilist... Will she wake from those dreams? Or will she bend the world to match them?\" \n\"And the one who shares my shade of pink... She's already found her path. Already happy.\" \nOn the Bridge, Ardelia sat with Mr. Dolly beside her. Beyond the viewport, stars flickered like distant lanterns, and Dijiang itself slumbered in the quiet dark, a silent giant adrift in the cosmos. \n\"As for the masked one...\" \nMr. Dolly flicked its ears and let out a soft, satisfied 'baa' — as if saying, \"You can trust the Endministrator.\"",
+    "zh-TW": "【多利先生的遊戲·四】\n那一天，當艾爾黛拉提著標本箱踏上帝江號時，忽然意識到身邊少了什麼。\n「……多利先生呢？」\n一隻大多數人看不見的、毛茸茸的溫暖生物，已經歡快地在這艘艦船上默默到處閒晃了起來。\n\n眾目睽睽之下，賽希充滿歉意地對著空氣鞠躬：「我不是故意踩到您的，無法目睹的高貴存在。」\n「有不明生物衝進這來了！」、「誰把火鍋湯底料舔了一半！」從餐廳相繼傳來驚呼。\n「我的鬧鐘鈴聲怎麼被設定成『咩咩咩』了！……完了完了，練劍要遲到了！」\n「難道是量子幽靈！而且是粉紅色的！非我莫屬！」伊馮興奮地從走廊追了過去。\n艾爾黛拉匆匆趕到時，看見管理員背對門口，蹲在地板上，緩緩地伸出一隻手。那隻手停在空中，像是在等待一種許可。\n多利先生盯著管理員看了一下，最終緩緩地靠過去，讓那隻手沒入綿密的絨毛中，沒有說話。\n\n「那位虔誠的修女，不太關心智慧以外的東西。」\n「那個樂呵呵的大廚啊，其實有深藏不露的心事。在了結掛念的事情之前，別覺得他像表面上的那麼豁達。」\n「整天做著大俠夢的女孩……到底是她會從夢想中醒來，還是用她的夢想改變外界呢？」\n「和我同樣粉紅色的女孩啊，她早就找到了自己的路，已經很快樂了。」\n現在是帝江號標準時間的夜晚。艦橋上，艾爾黛拉和多利先生坐在一起。艙外的群星像一閃一閃的燈火，帝江號在安靜地沉睡。\n「至於那個戴著面具的……」\n多利先生抖了抖耳朵，模模糊糊發出「咩」的一聲。那聲音帶著一絲滿足，也像是在說：「嗯，你可以相信管理員。」",
+    "zh-CN": "【多利先生的游戏·四】\n那一天，当艾尔黛拉提着标本箱踏上帝江号时，忽然意识到身边少了什么。\n“……多利先生呢？”\n一只大多数人看不见的、毛茸茸的温暖生物，已经欢快地在这艘舰船上默默四处溜达了起来。\n\n众目睽睽之下，赛希充满歉意地对着空气鞠躬：“我不是故意踩到您的，无法目睹的高贵存在。”\n“有不明生物冲进这儿来了！”“谁把火锅底料舔了一半！”从食堂相继传来惊呼。\n“我的闹钟铃声怎么被设置成‘咩咩咩’了！……完了完了，要耽误练剑了！”\n“难道是量子幽灵！而且是粉色的！非我莫属！”伊冯兴奋地从走廊追了过去。\n艾尔黛拉匆匆赶到时，看见管理员背对门口，蹲在地板上，缓缓地伸出一只手。那只手停在空中，像是在等待一种许可。\n多利先生盯着管理员看了一会儿，最终缓缓地凑过去，让那只手没入绵密的绒毛中，没有说话。\n\n“那位虔诚的修女，不大关注智慧以外的东西。”\n“那个乐呵呵的大厨呀，其实有深藏不露的心事。在了结挂念的事情之前，别觉得他像表面上的那么豁达。”\n“成天做着大侠梦的女孩……到底是她会从梦想中醒来，还是用她的梦想改变外界呢？”\n“和我同样粉红色的女孩啊，她早就找到了自己的路，已经很快乐了。”\n现在是帝江号标准时间的夜晚。舰桥上，艾尔黛拉和多利先生坐在一起。舱外的群星像一闪一闪的灯火，帝江号在安静地沉睡。\n“至于那个戴着面具的……”\n多利先生抖了抖耳朵，模模糊糊发出“咩”的一声。那声音带着一丝满足，也像是在说：“嗯，你可以相信管理员。”",
+    "ja": "【ドリーさんのゲーム4】\nアルデリアが標本箱を抱えて帝江号へ乗り込んだあの日、傍から何かが消えた気配に気づいた。\n「……ドリーさんは、どこへ行ったんでしょうか？」\n姿の見えない、ふわふわで温かい生き物は、いつの間にか――楽しげに船内を走り回っていた。\n\n皆の視線が注がれる中、ザイヒは申し訳なさそうに「空気」に向かってお辞儀をした。「申し訳ございません。わざと踏んだわけではありません。見えざる高貴なお方……」\n「何か突っ込んできたぞ！」「火鍋の素が半分になってるじゃねェか！舐めたのはどこのどいつだァ？」食堂からは飛び交う声が響く。\n「あたしのアラーム、なんか『メェ～！メェ～！メェ～！』になってたんだけど！……あ、剣の稽古行かなきゃ！」\n「コレ、量子幽霊ってヤツ？しかもピンクじゃん！ゼッタイ、アタシ向き！」イヴォンヌは勢いよく廊下を駆け抜けていった。\nアルデリアが慌ててその場にやってくると、管理人が扉に背を向けてしゃがみ込み、そっと手を差し伸べている姿があった。宙に止まったその手は、まるで許しを待っているかのようだった。\nドリーさんはしばらく管理人をじっと見つめると、何も言わずに近づいた。そして、その手をふわふわの毛並みの中へと招き入れた。\n\n「あの敬虔なシスターは、『知恵』以外のものにはあまり関心がないんだね。」\n「陽気なシェフの心には、胸に秘めた想いがある。それが片付くまでは、見た目ほど気楽ではいられないのさ。」\n「毎日、大侠になる夢を見てる女の子……いつか夢から覚めるのか、それとも夢で世界を変えるのか。」\n「わたしと同じピンク色の子は、とっくに自分の道を見つけていて、楽しそうだ。」\n今は帝江号の標準時間の夜。ブリッジにアルデリアとドリーさんは並んで座っていた。船外の星は灯火のように瞬き、帝江号は静かに眠っている。\n「で、あのマスクの人は……」\nドリーさんは耳をぴくりと動かし、曖昧に「メェ」とないた。しかし、その声はどこか満足げで――まるで「うん、管理人を信じていい」と言っているようだった。",
+    "ko": "[돌리 씨의 게임 · 4]\n그날, 아델리아가 표본 상자를 들고 제강호에 발을 디딘 순간, 문득 곁에 무언가가 없다는 걸 느꼈다.\n\"...돌리 씨는 어디 갔지?\"\n대부분의 사람들에게는 보이지 않는, 털 많고 따뜻한 그 생명체는, 이미 함선 안을 신나게, 조용히 돌아다니고 있었다.\n\n모두가 지켜보는 가운데, 자이히는 허공을 향해 정중히 고개를 숙이며 말했다. \"눈에 보이지 않는 고귀한 존재시여, 일부러 밟을 생각은 전혀 없었습니다.\"\n\"뭔가 이상한 생물체가 들어왔어!\"\n\"누가 훠궈 소스를 반이나 핥아먹었어!\"\n식당에서는 비명 소리가 잇따라 터져 나왔다.\n\"내 알람 소리가 왜 '메에에'로 바뀐 거지?! ...이런, 이런, 검술 훈련에 늦겠잖아!\"\n\"설마 양자 유령?! 게다가 분홍색?! 내가 가질래!\" 이본은 들뜬 얼굴로 복도를 내달렸다.\n아델리아가 허겁지겁 도착했을 때, 관리자가 문을 등지고 바닥에 쪼그려 앉아, 천천히 한 손을 내미는 것을 보았다. 허공에서 멈춘 채, 마치 무언가의 허락을 기다리는 것 같았다.\n돌리 씨는 잠시 관리자를 바라보다 아무 말도 없이 조심스레 고개를 숙이며 다가와, 그 손이 자신의 풍성한 털 속에 파묻히도록 몸을 맡겼다.\n\n\"그 경건한 수녀님은, 지혜 외의 것에는 별로 관심이 없어요.\"\n\"그 유쾌한 셰프님 말이에요, 실은 마음속 깊이 숨겨둔 고민이 있어요. 마음에 걸리는 일을 끝내기 전까지는, 겉보기처럼 털털한 사람이라고 생각하면 안 돼요.\"\n\"매일같이 대협이 되겠다고 꿈꾸는 저 소녀는... 과연 꿈에서 깨어나게 될까요, 아니면 그 꿈으로 세상을 바꾸게 될까요?\"\n\"저와 똑같이 분홍색 머리인 그 소녀는, 이미 자신만의 길을 찾아냈고, 지금은 아주 행복해 보이네요.\"\n지금은 제강호 표준 시간으로 밤. 갑판 위에서 아델리아와 돌리 씨는 나란히 앉아 있었다. 창밖의 별빛은 반짝이는 등불처럼 빛났고 제강호는 조용히 잠들어 있었다.\n\"그리고 그 마스크를 쓴 사람은...\"\n돌리 씨는 귀를 살짝 흔들더니, 희미하게 '메에'하고 울었다. 그 소리에는 약간의 만족이 담겨 있었고, 마치 이렇게 말하는 듯했다. \"그래, 관리자는 믿어도 괜찮아요.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0025_ardelia_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Do what you must, Professor. I'll do everything I can to help.",
+    "zh-TW": "前輩放手去做就好，我會全力配合您。",
+    "zh-CN": "前辈放手去做就好，我会全力配合您。",
+    "ja": "先輩、思いっきりやって大丈夫ですよ～。私が全力でお手伝いします！",
+    "ko": "선배는 하고 싶은 대로 하시면 돼요. 제가 온 힘을 다해 도와드릴게요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Let me see. Where should I be gathering my data this time?",
+    "zh-TW": "讓我看一下這次要採集哪些數據。",
+    "zh-CN": "让我看一下这次要采集哪些数据。",
+    "ja": "今回集めるデータを確認しますね。",
+    "ko": "음... 이번에 수집해야 할 데이터는..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "I've readied the prospecting tools, Professor. We can set off anytime.",
+    "zh-TW": "前輩，我準備好需要的探勘工具了，我們隨時可以出發。",
+    "zh-CN": "前辈，我准备好需要的勘探工具了，我们随时可以出发。",
+    "ja": "調査に必要な器具の準備ができましたよ、先輩！いつでも出発できます。",
+    "ko": "필요한 탐사 도구는 다 준비했어요. 언제든지 출발하셔도 돼요, 선배!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "I feel much safer when Professor's here with me.",
+    "zh-TW": "如果前輩陪著我的話……就讓人放心多了。",
+    "zh-CN": "如果前辈陪着我的话……就让人放心多了。",
+    "ja": "先輩が側にいてくれるんなら……怖いものなしです！",
+    "ko": "선배가 함께해 주신다면... 훨씬 마음이 놓일 것 같아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Could you stand a little further, Professor? I, uh... I don't want to hurt you by accident.",
+    "zh-TW": "前輩，能站遠點嗎？我怕誤傷到您……",
+    "zh-CN": "前辈，能站远些吗？我怕误伤到您……",
+    "ja": "先輩、少しだけ離れてもらえますか？うっかり、ぶつけちゃったらって……",
+    "ko": "선배, 조금만 뒤로 물러나 주시겠어요? 실수로 선배를 다치게 할까 봐 걱정돼서요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "Field studies can get really dangerous. We must make sure we're properly protected.",
+    "zh-TW": "野外考察經常會遇到一些危險情況，我們一定要做好防護措施。",
+    "zh-CN": "野外考察经常会遇到一些危险情况，我们一定要做好防护措施。",
+    "ja": "調査中は、いろいろと危険も多いんです。だから、安全対策は念入りにしないとダメなんですよ～。",
+    "ko": "야외 탐사에서는 위험한 상황이 자주 생기니까, 안전 장치를 꼭 챙겨야 해요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "My diary is like the rings of an ancient tree. It keeps a record of every lesson I learned while growing up.",
+    "zh-TW": "我會在日記裡寫下每次成長的感悟，如同年輪印刻著大樹生長的痕跡。",
+    "zh-CN": "我会在日记里写下每次成长的感悟，如同年轮印刻着大树生长的痕迹。",
+    "ja": "成長したなって思ったときは、日記に書くことにしているんです。木の年輪が、成長を刻んでいくみたいに……",
+    "ko": "전 깨달음을 얻을 때마다 일기를 쓰곤 해요. 꼭... 나무가 지나온 시간을 나이테에 기록하는 것처럼요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "How can the enemy turn the land into such ... such lifeless devastation?",
+    "zh-TW": "被敵人摧殘過的土地竟然變成這副模樣……如此殘破，了無生機。",
+    "zh-CN": "被敌人摧残过的土地竟然变成这副模样……如此残破，了无生机。",
+    "ja": "地が荒らされ、こんな様子になってしまうなんて……命の気配もありません……",
+    "ko": "적 때문에 땅이 이렇게 처참하게 파괴되다니... 생기를 잃은 모습이 너무 안타까워요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Okay, Ardelia! Focus on that one path! Keep exploring, and keep improving!",
+    "zh-TW": "嗯！要朝著一個方向努力，不斷探索，不斷進步！",
+    "zh-CN": "嗯！要朝着一个方向努力，不断探索，不断进步！",
+    "ja": "うん、目標に向かって、一歩一歩努力していけばいいよね！",
+    "ko": "응! 목표를 향해 끊임없이 노력하고, 탐구하고, 성장하는 거야!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "I really appreciate your approval, Professor! I'll work even harder and achieve way more at Endfield!",
+    "zh-TW": "謝謝您的認可，前輩！我會在終末地做到更多的！",
+    "zh-CN": "谢谢您的认可，前辈！我会在终末地做到更多的！",
+    "ja": "先輩、ありがとうございます！私、エンドフィールドでもっともっと頑張ります！",
+    "ko": "인정해 주셔서 정말 감사해요, 선배! 앞으로 엔드필드에서 더 많은 일들을 해낼게요!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Don't worry about me, Professor. I'm definitely not working too hard. Hmm? What about the dark circles around my eyes? Oh, uh ... the book was just too interesting. I couldn't help myself.",
+    "zh-TW": "我沒有努力過頭，前輩，不用擔心我。但我的黑眼圈很嚴重？因為晚上看書太入迷，一不小心就熬夜了……",
+    "zh-CN": "我没有努力过头，前辈，不用担心我。但我的黑眼圈很严重？因为晚上看书太入迷，一不小心就熬夜了……",
+    "ja": "頑張りすぎてなんかないですよ、先輩。心配いりません……え、目の下のクマ……えっと、つい夢中になって本を読んでいたら、夜ふかししちゃって……",
+    "ko": "별로 무리하진 않았어요. 너무 걱정하지 마세요, 선배. 네? 다크서클이 심해 보인다고요? 아... 밤에 책을 읽는 데 정신이 팔려서, 저도 모르게 밤을 새워버렸거든요..."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "This world has so many mysteries to uncover. We should get to know it better just like ... like how we should learn more about ourselves. Don't you agree, Professor?",
+    "zh-TW": "這片土地還有太多的未知，我們必須瞭解腳下的這顆星球，就像……我們應該更加瞭解我們自己。對吧，前輩？",
+    "zh-CN": "这片土地还有太多的未知，我们必须了解脚下的这颗星球，就像……我们应该更加了解我们自己。对吧，前辈？",
+    "ja": "この地にはまだ知らないことがたくさんあります。まずは、この星を理解しないと……私たちだって、自分を理解するのが一番大切ですから。ね、先輩？",
+    "ko": "이 땅에는 우리가 모르는 게 아직도 너무 많아요. 우리는 우리가 살고 있는 이 행성을 더 깊게 이해해야 하죠. 마치... 자기 자신을 더 잘 알아야 하는 것처럼요. 그렇죠, 선배?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Greetings, Endministrator. The name's Ardelia and I'm a geologist from Rhodes Island. My current focus is the correlations between geological disasters and the Ætherside. I've heard about you for quite a while, Endmin, and I have so many questions for you. Oh, there's something else... Can I address you as my Professor?",
+    "zh-TW": "您好，管理員，我是艾爾黛拉，來自羅德島的地質科研人員。目前在研究超域與地質災害的關係，我很早就聽說過管理員了，有很多問題想向您請教，還有……我可以叫您前輩嗎？",
+    "zh-CN": "您好，管理员，我是艾尔黛拉，来自罗德岛的地质科研人员。目前在研究超域与地质灾害的关系，我很早就听说过管理员了，有很多问题想向您请教，还有……我可以叫您前辈吗？",
+    "ja": "初めまして。私はロドスから来たアルデリアです。今は、超域と地質災害の関係性について研究しています。以前からお噂を聞いていて、伺いたいこともたくさんあって……えっと、あの……「先輩」って呼んでもいいですか？",
+    "ko": "안녕하세요, 관리자님. 저는 로도스 아일랜드에서 온 지질 연구원, 아델리아라고 해요. 지금은 초자연과 지질 재해의 관계를 연구하고 있고요. 관리자님 이야기는 예전부터 많이 들었어요. 이것저것 물어보고 싶은 게 많은데, 혹시... 선배라고 불러도 괜찮을까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Stay sunny for this day as well, Professor.",
+    "zh-TW": "今天也要保持好心情喔，前輩。",
+    "zh-CN": "今天也要保持好心情哦，前辈。",
+    "ja": "今日も、良い一日になりますように、先輩！",
+    "ko": "오늘도 좋은 하루 보내세요, 선배."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "I heard your footsteps, Professor.",
+    "zh-TW": "我聽到您的腳步聲了，前輩。",
+    "zh-CN": "我听到您的脚步声了，前辈。",
+    "ja": "先輩、足音でわかっちゃいました～。",
+    "ko": "발소리가 들렸어요, 선배."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Leave it to me, Professor. I'm hoping to try out something new as well.",
+    "zh-TW": "交給我吧，前輩，我也想嘗試新工作。",
+    "zh-CN": "交给我吧，前辈，我也想尝试新工作。",
+    "ja": "任せてください、先輩。私も、新しい業務に挑戦してみたいです！",
+    "ko": "저한테 맡겨주세요! 마침, 새로운 일에 도전해 보고 싶었거든요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Professor, would you like to share this mille crêpe with me?",
+    "zh-TW": "要一起吃岩石千層蛋糕嗎，前輩？",
+    "zh-CN": "要一起吃岩石千层蛋糕吗，前辈？",
+    "ja": "「地層のミルフィーユ」……先輩、一緒にどうですか～？",
+    "ko": "선배! 암석 크레이프 케이크, 같이 드실래요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Oh, I was just about to go look for you, Professor.",
+    "zh-TW": "我正想找您呢，前輩。",
+    "zh-CN": "我正想找您呢，前辈。",
+    "ja": "ちょうど探してたんですよ～、先輩。",
+    "ko": "어? 마침 선배한테 가려고 했었거든요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Be careful when walking around Dijiang, Professor... There are all sorts of warning signs aboard the ship and ... and I keep tripping over them. I just couldn't notice them when I'm thinking about things.",
+    "zh-TW": "維護中的帝江號到處都有警示牌……前輩要小心點。我在思考時也經常不看路，總是會不小心摔倒。",
+    "zh-CN": "维护中的帝江号到处都有警示牌……前辈可要小心些。我在思考时也经常不看路，总是会不小心摔倒。",
+    "ja": "整備中の帝江号には、あちこちに警告の看板があって……先輩も気を付けてくださいね。私、考え事をしていると、転びそうになっちゃうんです。",
+    "ko": "제강호에서 정비 작업을 진행하고 있어서 그런가, 여기저기 경고 표지판이 많네요... 선배도 지나다니면서 꼭 조심하세요. 저는 생각에 빠지면 앞을 잘 못 볼 때가 많아서, 자주 넘어지거든요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "I can see plenty of sites that I personally prospected from aboard Dijiang... The wildlands, the prairies, and the north seem so small from this place. The view from orbit easily covers all those lengthy field trips I took... Gotta say, it's kinda exciting being up here — tee-hee!",
+    "zh-TW": "從帝江號上能看到很多我曾勘查過的地方，荒野、草原、北地……都變得很小很小，那些我曾走過的漫長的路，現在一眼就能望到盡頭……而且站在這麼高的地方，感覺稍微有點刺激。",
+    "zh-CN": "从帝江号上能看到很多我曾勘查过的地方，荒野、草原、北地……都变得很小很小，那些我曾走过的漫长的路，现在一眼就能望到尽头……而且站在这么高的地方，感觉稍微有点刺激。",
+    "ja": "帝江号からは、私が調査した場所がたくさん見えるんです。荒野、草原、北地……ここからだとすごく小さくて、あんなに長いと思っていた道も目の中に収まるくらいで……でも、こんなに高いと、ドキドキしちゃいますね。",
+    "ko": "제강호에서는 제가 예전에 탐사했던 곳들이 많이 보여요. 황무지, 초원, 북쪽 지역... 전부 아주 작게 느껴져요. 그땐 끝없이 이어지는 것 같았던 길들이, 이제는 한눈에 들어오네요... 헤헤, 이렇게 높은 데 있으니까... 조금 짜릿한데요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Professor, interested in the reading group I'm organizing tomorrow? What are we sharing? Oh, it can be anything you like reading! Speaking of which, Mr. Krad once brought a photo magazine about the volcanoes of Talos-II. I'll bring it to the reading group if you're interested!",
+    "zh-TW": "我明天要舉辦一場讀書會，前輩有空參加嗎？該分享點什麼？只要是自己喜歡的書都可以！話說，卡拉德先生曾經帶過一本關於塔衛二火山的攝影雜誌給我。感興趣的話，我可以帶給您看！",
+    "zh-CN": "我明天要举办一场读书会，前辈有空参加吗？该分享些什么？只要是自己喜欢的书都行！说起来，卡拉德先生曾经给我带过一本关于塔卫二火山的摄影杂志。感兴趣的话，我可以带给您看！",
+    "ja": "明日読書会を開く予定なのですが、先輩も参加しませんか？……紹介する本ですか？自分の好きな本なら、何でも大丈夫ですよ。そういえば、クラッド先生が以前タロⅡの火山専門誌を持ってきてくれたんです。興味があれば、お見せします！",
+    "ko": "내일 독서회를 열려고 하는데, 선배도 시간 괜찮으시면 오실래요? 어떤 책을 소개해야 하냐고요? 선배가 좋아하시는 책이라면 뭐든 괜찮아요! 아, 맞다, 전에 크래드 씨가 탈로스 II의 화산을 주제로 한 사진 잡지를 선물해 주신 적이 있는데, 혹시 관심 있으시면 내일 가져올게요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "You must be hungry after all that work, Professor! Try these. They're Higashinese snacks that Miss Akekuri gave me. Uh, I don't need any, actually, because ... I-I had some already. Why is this unopened? Ah, umm... Miss Akekuri gave me a-another box!",
+    "zh-TW": "工作這麼久，前輩餓不餓？這是秋栗小姐送我的東國特產甜點，您嚐嚐看。不用分給我，我……我剛才已經吃過啦。可是包裝沒拆？因、因為秋栗小姐又多給了我一份！",
+    "zh-CN": "工作这么久，前辈饿不饿？这是秋栗小姐送我的东国特产甜点，您尝尝看。不用分给我，我……我刚才已经吃过啦。可是包装没拆？因、因为秋栗小姐又多给了我一份！",
+    "ja": "先輩、ずっとお仕事でお腹空きませんか？アケクリさんが東国のお土産をくれたんです。よかったら、1つ……あっ、私は大丈夫ですよ。さっき少し食べましたから。えっ、包装がそのまま……えっと、その、アケクリさんは2つくださって……",
+    "ko": "일하느라 힘드시죠, 선배? 배고프진 않으세요? 이건 아케쿠리 씨가 주신 토우고쿠 지역의 디저트인데, 한 번 드셔보세요! 아뇨, 저는 괜찮아요. 전 방금 먹었어요... 네? 포장이 그대로라고요? 그, 그건 아케쿠리 씨가 하나 더 주셨거든요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "Haven't you noticed, Professor? You're always out in the front, like you're trying to shield us from whatever danger's ahead. Sometimes, I even had to jog a little just to keep up with you. Maybe ... you don't have to go so fast. We're right here with you — and we want to help too.",
+    "zh-TW": "您有注意到嗎，前輩？隊伍裡，您總是走得最快的那個，好像前方總有什麼危險等著我們，您已準備好挺身迎擊，有時我需要小跑才能跟上您……放輕鬆，我們會照顧好自己。",
+    "zh-CN": "您有注意到吗，前辈？队伍里，您总是走得最快的那个，好像前方总有什么危险等着我们，您已准备好挺身迎击，有时我需要小跑才能跟上您……放轻松，我们会照顾好自己。",
+    "ja": "気づいてましたか？いつでも先輩は一番前を歩いてるって。まるで、先に危険なものがあるとわかっていて、それに備えているような……追いつくのに小走りになるときもありますが、大丈夫ですよ。私達だって、ちゃんと自分を守れるんですから。",
+    "ko": "선배, 그거 아세요? 팀에서 항상 제일 앞장서는 게 선배잖아요. 마치 앞에 무슨 위험이 있을 것 같으면 언제든 나설 준비가 되어 있는 것처럼요. 가끔 제가 따라잡으려고 뛰어야 할 정도라니까요... 너무 긴장하지 않으셔도 돼요. 저희도 충분히 잘 해낼 수 있으니까, 혼자 다 짊어지려 하지 않았으면 좋겠어요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Every trip back to Dijiang is so relaxing. When I'm not sharing stories of my trip with my colleagues, I'll visit the Growth Chambers and see how the little plants are doing. I'll even give them some tender loving care if I have time to spare. It's a little hobby of mine. It feels so fulfilling seeing them grow.",
+    "zh-TW": "每次回到帝江號都感覺很放鬆，除了和同事們交流外出時的見聞，我還會去看培養艙裡的植物，不忙的時候我也會幫忙照顧它們。這算是我小小的愛好吧，看著植株一點點長大，感覺很欣慰呢。",
+    "zh-CN": "每次回到帝江号都感觉很放松，除了和同事们交流外出时的见闻，我还会去看培养舱里的植物，不忙的时候我也会帮忙照顾它们。这算是我小小的爱好吧，看着植株一点点长大，感觉很欣慰呢。",
+    "ja": "帝江号に戻ってくると、すごくほっとします。外の話を皆さんとするのも、培養室の植物を見に行くのも好きなんです。時間があれば、お世話も手伝ったりしているんですよ。ちょっとした趣味というか……見ていると、不思議と心が落ち着くんです。",
+    "ko": "제강호에 돌아올 때마다 늘 마음이 편안해져요. 동료들과 나가서 있었던 일들에 관해 이야기 나누는 것도 좋고, 재배실에서 자라는 식물들을 보는 것도 정말 좋아하거든요. 한가할 땐 가끔 제가 돌봐주기도 하고요. 나름 소소한 취미랄까? 식물이 조금씩 커가는 모습을 보면 뭔가 뭉클하거든요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "A moment of your time, Endmin? I gathered some souvenirs during prospecting. Decorative feathers from the Hannabit Circuit, jade trinkets from Hongshan, and medals from the Order of Steel Oath... They're all for you. Hope you like them.",
+    "zh-TW": "可以借用您一點時間嗎？這是我外出勘測時收集的一些紀念品，眾生長地的羽飾、宏山的小玉器、鐵誓軍的紀念章……都是送給您的，希望您能喜歡。",
+    "zh-CN": "可以借用您一点时间吗？这是我外出勘测时收集的一些纪念品，众生长地的羽饰、宏山的小玉器、铁誓军的纪念章……都是送给您的，希望您能喜欢。",
+    "ja": "今、お時間いいですか……？これ、調査のときに記念に集めていたものです。衆生長地の羽飾り、宏山の玉器、あとは……鉄誓軍の記念章。全部、先輩にあげますね。気に入って貰えたら……嬉しいです！",
+    "ko": "선배, 잠깐 시간 괜찮으세요? 이건 제가 야외 탐사할 때 모아둔 기념품들이에요. 만물의 대지의 깃털 장식, 홍산의 옥 장신구, 철의 서약군의 기념 휘장... 다 선배한테 드리고 싶어서 가져와 봤어요. 마음에 드셨으면 좋겠네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "A gift? For me? Aww, thank you! Let's see what's inside... *Giggle* Professor, you're looking even more anxious than me.",
+    "zh-TW": "送我的禮物嗎？讓我拆開看看裡面有什麼。真是的……前輩怎麼比我還著急啊。",
+    "zh-CN": "送我的礼物吗？让我拆开看看里面有什么。真是的……前辈怎么比我还着急呀。",
+    "ja": "私へのプレゼント……えっと、開けてみてもいいですか？……フフッ、なんだか先輩のほうがワクワクしてませんか～？",
+    "ko": "저한테 주는 선물이에요? 그럼 얼른 열어볼게요. 아이 참, 선배가 저보다 더 궁금해하면 어떡해요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Professor, are you alright? You look really tired. Please don't tell me you stayed up all night again. C'mon, you know that's really bad for you... Uh-uh! No ifs or buts — it's rest time now.",
+    "zh-TW": "前輩還好嗎？您看起來好像有點累，不會是工作了一整晚吧？不行！您現在要去休息——絕對不行！這次您說什麼我都不會答應！",
+    "zh-CN": "前辈还好吗？您看起来似乎有些累，不会是工作了一整晚吧？不行！您现在要去休息——绝对不行！这次您说什么我都不会答应！",
+    "ja": "先輩、大丈夫ですか？すごく疲れているみたいですが……まさか、ずっと働いていたわけではないですよね……？ダメです！すぐに休まないと――今回は、何を言われても譲りません！",
+    "ko": "선배, 괜찮으세요? 많이 피곤해 보여요... 설마 밤새 일하신 거예요? 안 돼요! 지금 당장 쉬셔야 해요. 절대 안 돼요! 이번엔 선배가 뭐라고 하셔도 절대로 양보 못 해요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Oh, stop nipping the Professor's clothes, Mr. Dolly...! Ugh. I'm so sorry. They're just so mischievous. Hmm? You can't see them? Oh... Mr. Dolly only show themselves when they want to be seen... Is Mr. Dolly the Sovereign? No. Mr. Dolly isn't a name for any one in particular since they're a flock of Dollies... Awww, come out and tell the Professor yourself! Mr. Dolly, I know you can talk!",
+    "zh-TW": "多利先生，你不要再咬管理員的衣服了！真抱歉，前輩，牠們太調皮了。嗯？您說看不到牠們？多利先生能根據自己的意願決定是否需要現身……領袖？不是，牠們都是多利先生，不是某一隻的名字，牠們是一個整體……嗚……多利先生，你自己向前輩解釋吧！你不是會說話的嘛！",
+    "zh-CN": "多利先生，你不要再咬管理员的衣服了！真抱歉，前辈，它们太调皮了。嗯？您说看不见它们？多利先生能根据自己的意愿决定是否需要现身……领袖？不是，它们都是多利先生，不是某一只的名字，它们是一个整体……呜……多利先生，你自己向前辈解释吧！你不是会说话的嘛！",
+    "ja": "ドリーさん、先輩の服噛んじゃダメですよ～！すみません、みんな元気いっぱいで……えっ、見えてないですか？ドリーさんは姿を見せるかどうか、自分で決められるんです。リーダー？えっと、みんながドリーさんで、ドリーさんはひとつで……ふぅ、ドリーさんってば……喋れるんだから、自分で説明してくれたらいいのに～！",
+    "ko": "돌리 씨, 선배 옷을 물면 안 돼요! 정말 죄송해요, 선배. 다들 장난을 좋아하거든요... 네? 하나도 안 보이신다고요? 아, 돌리 씨는 자기가 나오고 싶을 때만 모습을 드러내요... 그중에 리더냐고요? 아니요, 돌리 씨는 누구 하나의 이름이 아니에요, 전부 다 돌리 씨죠... 으... 돌리 씨, 직접 선배한테 설명해요! 말할 수 있잖아요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "I climbed another mountain today. The geological compass helped me ascertain the orientation and gradient of the rock strata, while the pick helped me gather sedimentary rock samples for optical and texture studies... I'm not tired at all, Professor. I can totally climb more mountains, make more trips, and gather more geological data. Unraveling the mysteries of this planet brings me so much joy... I can't even explain how happy I am!",
+    "zh-TW": "我今天又爬了一座山，用羅盤測量岩層的走向和傾斜角度，拿地質錘從岩壁上採集沉積岩塊，研究它們的光澤和紋理……我不累，前輩。我還能爬更多山，走更多路，收集更多地質數據。能盡情探索這個星球的秘密，我真的……很開心！",
+    "zh-CN": "我今天又爬了一座山，用罗盘测量岩层的走向和倾斜角度，拿地质锤从岩壁上采集沉积岩块，研究它们的光泽和纹理……我不累，前辈。我还能爬更多山，走更多路，收集更多地质数据。能尽情探索这个星球的秘密，我真的……很开心！",
+    "ja": "今日もまた、山に登ってきました。地層の走向や傾斜を測って、岩壁から堆積岩を採って、光沢や模様を調べて……大丈夫です、先輩。全然疲れてないですよ～。もっとたくさんの山に行って、道を歩いて、地質のデータを集めたくって。この星を知ることができて……本当に、すごく嬉しいんです！",
+    "ko": "오늘 또 산에 올라갔다 왔어요. 나침반으로 지층의 방향과 경사각을 재고, 지질 망치로 암벽에서 퇴적암을 채집해서, 그 광택이랑 무늬를 꼼꼼히 관찰했죠... 전혀 안 힘들어요, 선배. 전 앞으로 더 많은 산을 오르고, 더 먼 길을 걷고, 더 많은 지질 데이터를 모을 거예요. 이 행성의 비밀을 마음껏 탐구할 수 있어서 정말... 너무 행복해요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "Having friends by your side in such a festive moment feels so good! This reminds me of that time when I first arrived at Endfield. People threw a welcoming party for me filled with all the things I like. Oh, the sweets, the flowers, and the joyful, happy music. Miss Yvonne even took my hand and we danced to the latest pop! The spins and moves kinda left me disoriented, but I did my best to remember every smile.",
+    "zh-TW": "真好啊！如此熱鬧的時刻，朋友們都在身邊。讓我想起第一次來終末地的時候，大家特地為我準備了一場歡迎會，裡面有我喜歡的所有元素：甜點、花卉、歡快的歌曲。伊馮小姐還牽著我的手，帶我跳流行舞。雖然在旋轉中有點分不清方向，但我還是努力記住了所有人的笑容。",
+    "zh-CN": "真好啊！如此热闹的时刻，朋友们都在身边。让我想起第一次来终末地的时候，大家特地为我准备了一场欢迎会，里面有我喜欢的所有元素：甜点、花卉、欢快的歌曲。伊冯小姐还牵着我的手，带我跳流行舞。虽然在旋转中有点分不清方向，但我还是努力记住了所有人的笑容。",
+    "ja": "すごく、幸せです……賑やかで、皆さんと一緒にいられて。初めてエンドフィールドに来たとき、私の好きがいっぱい詰まった歓迎会をしてくれましたよね。スイーツにお花に、素敵な音楽……イヴォンヌお姉さんは私の手を取って、一緒に踊ろうって。実はちょっと目が回っちゃったんですけど……みんなの笑顔は、ちゃんと心に残ってます。",
+    "ko": "이렇게 친구들이랑 같이 있으니까 진짜 행복해요! 처음 엔드필드에 왔을 때처럼요! 모두가 절 위해 제가 좋아하는 것들로 가득 채워서 환영회를 열어줬어요. 달콤한 간식, 예쁜 꽃, 신나는 노래까지... 이본 씨랑 같이 유행하는 춤도 췄던 거 있죠? 정신없이 돌다 보니 방향 감각이 좀 없어지긴 했지만, 그 순간 모두의 웃는 얼굴만큼은 꼭 기억해 두려고 노력했어요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "What is the Ætherside? This question keeps coming to mind. If the Universe has such cruelty in store for us, is there anything I can do to help everyone...? You're thinking the same thing, Professor? Hmm, that means ... we're not alone.",
+    "zh-TW": "有時我會想，超域究竟是什麼呢？如果宇宙注定要對我們如此殘酷，我又能為大家做點什麼呢……前輩也有同樣的想法？真的？那……我們就都不是孤單一人了。",
+    "zh-CN": "有时我会想，超域究竟是什么呢？如果宇宙注定要对我们如此残酷，我又能为大家做点什么呢……前辈也有同样的想法？真的？那……我们就都不是孤单一人了。",
+    "ja": "ときどき考えてしまいます。超域って何なんだろうって……もし、宇宙が与える残酷な運命なのだとしたら、私ができることは何でしょう？……えっ、先輩も同じことを……本当ですか？だったら、もう……独りじゃないですね。",
+    "ko": "가끔 그런 생각을 해요. 초자연이라는 건 도대체 무엇일까요? 만약 이 우주가 우리에게 이렇게까지 가혹한 시련을 준다면, 전... 모두를 위해 무엇을 할 수 있을까요... 선배도 그런 고민을 하신다고요? 정말요? 그럼... 우린 더 이상 혼자가 아닌 거네요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0025_ardelia_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "Your voice is so soothing, Professor. Oh, I, uh, I meant nothing else by that. It's just ... you know, how when waking from a dream, sounds always reach you before the sights? Prior to my eyes falling upon your face, it is your footsteps and your voice that touched my ears first... Yes. Most living beings made their own voices, be they insects, beasts, trees, or plants. The voices move me. They're why I've decided to protect the world we all love, in my own special way.",
+    "zh-TW": "前輩，你的聲音真的很好聽。啊，我、我沒有別的意思，只是……就像從睡夢中醒來時，聲響總是先一步溜進我們的腦海裡。在看見你的臉龐之前，我總是會先聽見你的腳步聲、你的話語……嗯，這片土地上的大部分生靈都會發出聲響，蟲羽樹木都有自己的聲音。我非常感動，也因此下定決心，以自己的方式保護這個我們都熱愛的世界。",
+    "zh-CN": "前辈，你的声音真的很好听。啊，我、我没有别的意思，只是……就像从睡梦中醒来时，声响总是先一步溜进我们的脑海里。在看见你的脸庞之前，我总是会先听见你的脚步声、你的话语……嗯，这片土地上的大部分生灵都会发出声响，虫羽树木都有自己的声音。我非常感动，也因此下定决心，以自己的方式保护这个我们都热爱的世界。",
+    "ja": "先輩の声って、本当に素敵ですよね……えっと、変な意味じゃないんです！眠りから醒めるとき最初に音が入ってくるみたいに、先輩の顔を見る前に、声や足音の方が先に聞こえるんです。この地に生きるものはみんな、自分だけの音色があります。虫も、羽獣も、木も……それに気づいたとき、本当に胸がいっぱいになって……だから、私なりのやり方で、守っていきたいって思ったんですよ。",
+    "ko": "선배, 선배는 목소리가 참 좋네요. 아, 아뇨! 딱히 다른 뜻은 없고요, 그냥... 보통 잠에서 막 깨어날 때, 소리가 제일 먼저 머릿속에 들어오잖아요. 그런 것처럼, 선배의 얼굴을 보기 전에 항상 선배의 발소리랑 목소리가 먼저 들려왔어요... 이 땅의 생명들은 다들 소리를 내죠. 곤충과 나무들도 모두 저마다의 목소리가 있어요. 이런 걸 느낄 때마다... 저는 정말 감동을 받곤 해요. 그래서 전, 저만의 방식으로 이 소중한 세계를 지키겠다고 다짐했어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Everyone at Endfield is incredibly kind. Miss Yvonne would always share her latest scientific findings and new vinyl records with me. Miss Akekuri would always invite me to the usual place for afternoon tea. And of course there's Mr. Antal — he told me he could modify my staff into a highly portable prospecting tool, *and* embellish it with a suite of wondrous features. If Miss Akekuri hadn't pulled him away after three hours, he probably would've spent the entire day explaining every detail!",
+    "zh-TW": "終末地的大家都很熱心呢。伊馮小姐時常跟我分享她最近的研究成果與新買的唱片；秋栗小姐每週都會邀請我在固定時間和她一起品嚐下午茶。當然還有安塔爾先生——他說可以幫我改造法杖，讓它變成便攜式地質探勘工具，甚至可以在裡面加入更多神奇的功能。他說了整整三個小時，如果不是秋栗小姐最後拉走了他，大概能講一整天吧。",
+    "zh-CN": "终末地的大家都很热心呢。伊冯小姐时常跟我分享她最近的研究成果与新买的唱片；秋栗小姐每周都会邀请我在固定时间和她一起品尝下午茶。当然还有安塔尔先生——他说可以帮我改造法杖，让它变成便携地质勘探工具，甚至可以在里面加入更多神奇的功能。他说了整整三个小时，如果不是秋栗小姐最后拉走了他，大概能讲一整天吧。",
+    "ja": "ここの皆さん、本当に優しいんです。イヴォンヌお姉さんは研究成果や新しいレコードの話をしてくれるし、アケクリさんは毎週同じ時間にお茶に誘ってくれるんですよ～。あとアンタルさんは――私の杖を改造して、携帯用地質調査ツールにするとか、もっとすごい機能も追加できるとか……3時間、説明してくれました。アケクリさんが引っ張っていってくれなかったら、一日中喋っていたかもしれませんね。",
+    "ko": "엔드필드 분들은 정말 따뜻하고 친절하세요. 이본 씨는 자주 자신의 연구 성과나 새로 산 음반을 들려주시고, 아케쿠리 씨는 매주 꼭 저를 초대해서 같이 차를 마시죠. 그리고 안탈 씨는... 제 지팡이를 휴대용 지질 탐사 장비로 개조해 주겠다고 하셨어요. 거기에 신기한 기능도 이것저것 넣을 수 있다고 하시면서, 세 시간 동안이나 설명을 이어가셨는데, 아케쿠리 씨가 억지로 데려가지 않으셨다면, 아마 하루 종일 이야기하셨을지도 몰라요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Field geological surveyors enjoy a great deal of freedom, but the lack of funds can be quite frustrating at times. To acquire funding, I would give seminars and lectures at various companies, hoping that my faith and vision could be persuasive enough. Most companies, except for Endfield, weren't interested in early warning systems for geological disasters. But when the Siesta Group heard about my research, they stepped in with unconditional sponsorship. I think I know why they're being so generous... Perhaps this fateful encounter is part of my heritage.",
+    "zh-TW": "去野外進行地質調查工作的確很自由，但缺少經費支援的話也會有點苦惱。為了籌措計劃資金，我會去一些公司演講，試圖用理念打動他們。但除了終末地，別的公司都對地質災害預警工作興致缺缺。後來汐斯塔集團得知我的研究後，無條件為我提供了一筆贊助。我其實知道他們的慷慨來自什麼……也許，這也是一種傳承下來的緣分吧。",
+    "zh-CN": "去野外进行地质调查工作的确很自由，但缺少经费支持的话也会有些苦恼。为了筹集项目资金，我会去一些公司演讲，试图用理念打动他们。但除了终末地，别的公司都对地质灾害预警工作兴致缺缺。后来汐斯塔集团得知我的研究后，无条件为我提供了一笔赞助。我其实知道他们的慷慨来自什么……也许，这也是一种传承下来的缘分吧。",
+    "ja": "地質調査は自由にできるのが良いところですが、資金が足りないとやっぱり大変です。研究費のためにいろんな企業で講演をして、理念を理解してもらえればと思ったのですが……エンドフィールド以外、地質災害の対策に興味を持つ企業はありませんでした。そんなとき、シエスタが私の研究を見て無条件で支援をしてくれるって……実は、理由もちょっとわかっているんです。きっと、受け継がれてきた「縁」なんですよね。",
+    "ko": "야외로 나가서 지질 탐사를 하는 건 정말 자유로운 일이지만, 연구 자금이 부족하면 곤란하기도 해요. 그래서 저는 프로젝트 자금을 마련하기 위해 여러 회사를 찾아다니며 강연도 하고, 제 연구 이념을 전달하려 노력했어요. 하지만 엔드필드를 제외하면, 대부분의 기업은 지질 재해 예측에는 별로 관심이 없더라고요. 그러던 중, 시에스타 그룹에서 제 연구 내용을 알고, 아무 조건 없이 후원을 결정해 주셨죠. 사실 그들의 너그러움이 어디에서 비롯된 건지는 저도 알고 있어요. 어쩌면 그건... 아주 오래전부터 이어진 인연 같은 걸지도 모르겠네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "I once traveled with an Aldertone from the Hannabit Circuit. She sang such beautiful hanna songs and told me about the Aldertone who guided her. Everyone in the Circuit dwell upon this land, so they have a deep respect for those who study it — like us. Hehe, I felt really happy when she told me that. But honestly, it was through her hanna that I found my own purpose and motivation. That's right, Professor. This was the trip I made before I found my true calling upon Talos-II.",
+    "zh-TW": "我曾和眾生長地的一位師者同行。她唱的歌很美，她說，她也有她的師者，他們都在這片土地上生存。正因如此，他們敬重我們這樣的科學家。嘿嘿，聽到她這麼說的時候，我真的很開心，但其實反而是我從她的歌謠裡找到了目標和動力。嗯，前輩，這是我在塔衛二找到使命之前的旅途。",
+    "zh-CN": "我曾和众生长地的一位师者同行。她唱的歌很美，她说，她也有她的师者，他们都在这片土地上生存。正因如此，他们敬重我们这样的科学家。嘿嘿，听到她这么说的时候，我真的很开心，但其实反而是我从她的歌谣里找到了目标和动力。嗯，前辈，这是我在塔卫二找到使命之前的旅途。",
+    "ja": "前に、衆生長地の詩教者と一緒に旅をしたことがあります。とても美しい「歌」を歌ってくれたのですが、自分もこの地に生きる別の詩教者から教わった、と言っていました。だからこそ、研究者に対して敬意を持っているとも……フフッ、すごく嬉しかったんですよ～。それに、実際は私の方が「歌」から力を貰っていました。先輩、この旅は……私がタロⅡで使命に出会うきっかけになったんです。",
+    "ko": "예전에 만물의 대지의 한 사자 분과 잠시 동행한 적이 있어요. 그분이 부르시던 노래는 정말 아름다웠죠. 그분은 자기에게도 따르는 사자가 있고, 모두 이 땅에서 살아가고 있다고 하시면서, 저희 같은 과학자들을 진심으로 존경한다고 했어요. 헤헤... 그 말을 듣고 정말 기뻤어요. 근데 사실은... 오히려 제가 그분의 노래 속에서 목표와 동기를 찾게 되었는걸요. 음... 선배, 이건 제가 탈로스 II에서 제 사명을 깨닫기 전에 걸었던 여정이에요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "Another tear in my clothes? Oh, it's okay, really. I can stitch it up again. Field surveys are always a bit rough on clothes anyway... I have to climb up mountain peaks for rare mineral samples, and the jagged rocks are not very gentle. But that feeling, when you're so close to your goal — sometimes it makes you forget just how risky each step can be. Please don't worry, Professor. I'll be more careful next time.",
+    "zh-TW": "我的衣服？又劃破了啊，沒關係，簡單縫補一下就好。去野外考察經常會這樣，為了採集稀有的岩石樣本，我會努力登上山頂，攀爬的過程中衣服就會被銳利的岩石邊緣劃破。但是目標就在眼前的那種期待……確實會讓人忘記腳下的危險。前輩？不用這麼擔心，我以後會注意的。",
+    "zh-CN": "我的衣服？又划破了啊，没关系，简单缝补一下就好。去野外考察经常会这样，为了采集珍稀的岩石样本，我会努力登上山顶，攀爬的过程中衣服就会被锐利的岩石边缘划破。但是目标就在眼前的那种期待……确实会让人忘记脚下的危险。前辈？不用这么担心，我以后会注意的。",
+    "ja": "服？あっ、また破けちゃったんですね……でも、縫ってしまえば大丈夫ですから。調査ではよくあることなんです。珍しい岩石を採るために頑張って山頂まで登ったら、服が岩に引っかかちゃったり……でも、目標が目の前にあると思うと、つい忘れてしまうんです。先輩、そんなに心配しないでください。次から、気をつけますね。",
+    "ko": "옷이요? 아, 또 찢어졌네요. 괜찮아요, 금방 꿰매면 돼요. 야외 탐사를 나가면 자주 있는 일이에요. 희귀한 암석 표본을 채집하려고 산꼭대기까지 올라가다 보면, 종종 가파른 암벽에 옷이 긁히곤 하거든요. 그렇지만 목표가 눈앞에 있을 때 느껴지는 그 설렘... 그걸 생각하면 발밑의 위험 같은 건 잠깐 잊게 되죠. 선배? 그렇게 걱정하실 것 없어요. 다음부턴 좀 더 조심할게요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_about_line01",
+   "title": {
+    "en": "Topic: Ætherside",
+    "zh-TW": "話題：超域",
+    "zh-CN": "话题：超域",
+    "ja": "超域について",
+    "ko": "초자연에 관하여"
+   },
+   "text": {
+    "en": "Ætherside is something entirely new we have to face in Talos-II. There are theories describing it as a unique physical phenomenon, while others regard it as a strange spatial and temporal dimension. But I have this feeling that it's ... a forgotten and dusty room filled with old things that nobody cared about anymore. Professor, maybe the Ætherside has something to do with our origins.",
+    "zh-TW": "超域是人們在塔衛二面對的嶄新概念，有理論認為那是一種特別的物理現象，也有人說那是另一個詭異的時空。但我有一種感覺……那是一個被遺忘的房間，布滿灰塵和無人問津的舊物。前輩，也許超域和我們的起源息息相關。",
+    "zh-CN": "超域是人们在塔卫二面对的崭新概念，有理论认为那是一种特别的物理现象，也有人说那是另一个诡异的时空。但我有一种感觉……那是一个被遗忘的房间，布满灰尘和无人问津的旧物。前辈，也许超域和我们的起源息息相关。",
+    "ja": "超域はタロⅡに突然現れた、全く新しい概念です。特殊な物理現象だと考える人も、時空の歪みだと言う人もいます。でも、私は違うような気がして……埃をかぶった、忘れ去られた部屋のような。先輩、もしかして超域は私達の起源と深い繋がりがあるのかもしれません。",
+    "ko": "초자연은 탈로스 II에서 사람들이 처음 마주한 완전히 새로운 개념이에요. 특별한 물리 현상이라고 주장하는 이도 있고, 기묘한 또 다른 시공간이라 말하는 이도 있죠. 그런데 저는... 왠지 그런 느낌이 들어요. 초자연은 마치 먼지가 가득 쌓인 채, 아무도 찾지 않는 낡은 물건들로 가득한, 잊힌 방이라고 말이에요... 선배, 어쩌면 초자연은 우리의 기원과 깊게 연결되어 있을지도 몰라요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_about_line02",
+   "title": {
+    "en": "Topic: Rhodes Island",
+    "zh-TW": "話題：羅德島",
+    "zh-CN": "话题：罗德岛",
+    "ja": "ロドスについて",
+    "ko": "로도스 아일랜드에 관하여"
+   },
+   "text": {
+    "en": "I came from Rhodes Island, where I received all kinds of training and lessons that helped me build my own identity. I had no blood relations, childhood, nor past to call my own, but Rhodes Island taught us how to live and understand ourselves. Professor, Rhodes Island is my home ... and they all told me that it was yours as well.",
+    "zh-TW": "我來自羅德島，在那裡接受各種教育和輔導，成為了一個獨立的真正的「人」。我沒有血脈相連的親人，沒有真正屬於自己的童年和過往，是羅德島教會了我們如何生活，如何對待自我。前輩，羅德島是我的家。而且，他們都說過，那裡也曾是您的家。",
+    "zh-CN": "我来自罗德岛，在那里接受各种教育和辅导，成为了一个独立的真正的“人”。我没有血脉相连的亲人，没有真正属于自己的童年和过往，是罗德岛教会了我们如何生活，如何对待自我。前辈，罗德岛是我的家。而且，他们都说过，那里也曾是您的家。",
+    "ja": "私はロドスの出身で、そこでいろんな教育を受けてようやく1人の「人間」として生きられるようになりました。血の繋がった家族はいなくて、自分だけの特別な思い出もなくて。でも、ロドスが生き方も自分との向き合い方も教えてくれました。先輩、ロドスは私の家なんです。それに、皆さんが言ってましたよ？……昔、先輩の家でもあったって。",
+    "ko": "저는 로도스 아일랜드에서 왔어요. 그곳에서 다양한 교육과 지도를 받으면서, 독립된 주체의 진정한 '사람'이 되었죠. 혈연으로 이어진 가족도, 제 것이라고 말할 수 있는 어린 시절이나 과거도 없지만... 로도스 아일랜드는 저에게 삶을 가르쳐주었고, 스스로를 어떻게 대해야 하는지도 알려주었어요. 선배, 로도스 아일랜드는 제 고향이에요. 그리고 다들 그러셨죠. 그곳은 한때 선배의 고향이기도 했다고요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_about_line03",
+   "title": {
+    "en": "Topic: Dolly",
+    "zh-TW": "話題：多利",
+    "zh-CN": "话题：多利",
+    "ja": "ドリーについて",
+    "ko": "돌리에 관하여"
+   },
+   "text": {
+    "en": "Mr. Dolly is actually quite lively. I just can't figure out why it won't show itself to other people. It's invisible to you right now, but it loves playing with you. What's Mr. Dolly doing now? Well, it's trying to sit on your... Oh dear! Mr. Dolly! Stop it! Stop messing around with the Professor...! Hoo. Well, that's Mr. Dolly for you. We met on a quite ordinary day, and then it decided to stick around and never left me ever since.",
+    "zh-TW": "多利先生其實很活潑，可是不知道為什麼，牠不怎麼在別人面前現身。雖然您此刻看不見牠，但牠很喜歡跟您玩。現在？現在牠正嘗試坐在您的……多、多利先生！別捉弄前輩了！總之就是這樣，我在很平常的一天突然遇到牠，被牠黏上，然後再也甩不開了。",
+    "zh-CN": "多利先生其实很活泼，可是不知道为什么，它不怎么在别人面前现身。虽然您此刻看不见它，但它很喜欢跟您玩。现在？现在它正尝试坐在您的……多、多利先生！别捉弄前辈了！总之就是这样，我在很平常的一天突然遇到它，被它黏上，然后再也甩不开了。",
+    "ja": "ドリーさんはすごく元気なんですけど、なぜか他の人には姿を見せようとしないんです。今も姿は見えないかもですが……先輩と遊んでますよ～。えっと、今は……先輩の肩の上に乗ろうと……ド、ドリーさんってば！先輩に失礼だよ……！と、とにかく……ある日突然ドリーさんに出会って、そしたらくっついてきて。それからずっと一緒なんです。",
+    "ko": "사실 돌리 씨는 엄청 활발한데, 무슨 이유에선지 다른 사람들 앞에선 잘 모습을 드러내지 않더라고요. 지금 선배 눈엔 안 보이겠지만, 돌리 씨는 선배랑 노는 걸 엄청나게 좋아한답니다? 지금요? 지금은 선배의... 도, 돌리 씨! 선배한테 장난치지 말라니까요! 크흠, 아무튼... 어느 날 갑자기 돌리 씨가 나타나서는 그날 이후로 쭉 저를 따라다녀서 이젠 떼어낼 수 없는 사이가 됐죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_about_line04",
+   "title": {
+    "en": "Topic: Yvonne",
+    "zh-TW": "話題：伊馮",
+    "zh-CN": "话题：伊冯",
+    "ja": "イヴォンヌについて",
+    "ko": "이본에 관하여"
+   },
+   "text": {
+    "en": "Miss Yvonne is an incredible scientist. When I first arrived in Endfield, she shared tons of important info to get me up to speed about the Ætherside. She even shared her research findings with me, hoping they could help other researchers in our field. And to top it off, we both share a love for music! Though I'm into lighter melodies and she's into faster, heavier beats, she still gave me several albums of La Fantoma pop. She's amazing.",
+    "zh-TW": "伊馮小姐是很厲害的研究者。我來終末地後，她向我分享了很多重要資料，幫助我儘快熟悉超域。她也願意與我共享自己的研究成果，並真心希望這些發現能為其他同行提供幫助。而且很巧的是，她也和我一樣喜歡音樂呢。比起我常聽的輕快歌曲，她更喜歡節奏緊湊的，還送了我幾張菈梵朵瑪流行音樂唱片。",
+    "zh-CN": "伊冯小姐是很厉害的研究者。我来终末地后，她向我分享了很多重要资料，帮助我尽快熟悉超域。她也愿意与我共享自己的研究成果，并真心希望这些发现能为其他同行提供帮助。而且很巧的是，她也和我一样喜欢音乐呢。相比我常听的轻快歌曲，她更喜欢节奏紧凑的，还送了我几张菈梵朵玛流行音乐唱片。",
+    "ja": "イヴォンヌお姉さんは本当に優秀な研究者です。エンドフィールドに来てすぐ大切な資料をたくさん見せてくれたので、超域のこともすぐに理解することができたんですよ。研究成果も丁寧に教えてくれて、皆さんの役に立つことを心から望んでいるんだなってすごく思います。あっ、あと……イヴォンヌお姉さんも音楽が好きなんですよ～！私は明るい曲が好きで、お姉さんはテンポの速い曲が好きで……「ラヴァンドマ」のレコードを何枚かくれたんです！",
+    "ko": "이본 씨는 정말 대단한 연구자예요. 제가 엔드필드에 온 뒤로 초자연에 관련된 중요한 자료들을 많이 공유해 주신 덕분에 금방 그것에 익숙해질 수 있었죠. 자신의 연구 성과도 아낌없이 공유해주시고, 그게 다른 동료들에게도 도움이 되기를 진심으로 바라고 계세요. 아, 그리고 이본 씨도 저처럼 음악을 좋아하세요! 전 주로 가볍고 신나는 노래를 즐겨 듣는데, 이본 씨는 좀 더 빠르고 리듬이 강한 음악을 좋아하시더라고요. 전에 '라반도르마'의 음반도 몇 장 선물해 주셨어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_about_line05",
+   "title": {
+    "en": "Topic: Talos-II",
+    "zh-TW": "話題：塔衛二",
+    "zh-CN": "话题：塔卫二",
+    "ja": "タロⅡについて",
+    "ko": "탈로스 II에 관하여"
+   },
+   "text": {
+    "en": "I've once witnessed a giant Originium cluster swallowed up and broken down by the Blight that rose like an ocean tide. Nothing was left but a barren valley. A Tuskbeast survived the disaster and returned to its home, alone and confused... The Ætherside and the Blight are like anathemas of each other, while we teeter precariously along the edge for survival. From Originium I was born, and thus I felt compelled to learn about the Æther. My only wish is to make this world a safer home for everyone.",
+    "zh-TW": "我曾親眼目睹巨大的源石晶簇被海洋一般的侵蝕吞沒消融，剩下一片荒蕪的山谷，有隻躲避侵蝕的牙獸懵懂地回到了那片土地……超域與源石難以相容，我們卻在脆弱的平衡點上生存。我來自於源石，所以才想瞭解超域，我想讓大家更安全地生活在這顆星球上。",
+    "zh-CN": "我曾亲眼目睹巨大的源石晶簇被海洋一般的侵蚀吞没消融，剩下一片荒芜的山谷，有只躲避侵蚀的牙兽懵懂地回到了那片土地……超域与源石难以相容，我们却在脆弱的平衡点上生存。我来自于源石，所以才想了解超域，我想让大家更安全地生活在这颗星球上。",
+    "ja": "巨大な源石クラスターが侵蝕の海に飲み込まれていくのを見ました……残されたのは荒れ果てた谷だけ。そこに侵蝕から逃れた牙獣がおぼつかない足取りでやってきて……超域と源石は、相容れないものです。薄い氷の上を歩くようなバランスの中で、私達は生きていくしかないんですよね。私は源石から生まれた存在です。だからこそ、超域のことをもっと知りたいです。みんなが、もっと安全に暮らせるようになったらって……",
+    "ko": "저는 거대한 오리지늄 클러스터가 파도처럼 거센 침식에 삼켜져 사라지는 모습을 직접 목격한 적이 있어요. 침식이 휘몰아치고 그 자리에 남은 건 황폐해진 계곡, 그리고 침식을 피해 떠났던 한 마리의 터스크비스트가 어리둥절하게 그 땅으로 돌아온 모습이었죠. 초자연과 오리지늄은 서로 어울릴 수 없는 존재예요. 그리고 우린, 그 둘 사이의 아슬아슬한 균형점 위에 살아가고 있죠. 저는 오리지늄에서 태어났기에, 더더욱 초자연에 대해 알고 싶어요. 모두가 이 행성에서 조금이라도 더 안전하게 살 수 있도록 노력하고 싶거든요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Those resources seem useful. Don't forget to pick them up.",
+    "zh-TW": "那邊好像有些資源，別忘了去收回呀。",
+    "zh-CN": "那边好像有些资源，别忘了去收回呀。",
+    "ja": "あっちに資源があるみたいです。忘れないようにしないと……",
+    "ko": "저쪽에 자원이 있는 것 같아요. 잊지 말고 챙겨가야 해요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "These resources are really important. Let's try to gather more.",
+    "zh-TW": "那些資源都很重要喔，讓我們多收集一些吧。",
+    "zh-CN": "那些资源都很重要哦，让我们多收集一些吧。",
+    "ja": "重要な資源なので、たくさん持って帰りましょう！",
+    "ko": "와... 엄청 좋은 것들이에요! 더 많이 챙기는 게 좋겠어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Something feels unclear up ahead. Leave the scouting to me!",
+    "zh-TW": "前方似乎存在許多不確定因素，讓我去調查吧！",
+    "zh-CN": "前方似乎存在许多不确定因素，让我去调查吧！",
+    "ja": "この先、不安な要素がありそうです。調査してみます！",
+    "ko": "앞쪽에 불확실한 요소들이 있는 것 같아요. 제가 가서 조사해 볼게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Something dangerous is up ahead. We better be fully prepared.",
+    "zh-TW": "前方有危險的敵人，我們一定要做好萬全準備。",
+    "zh-CN": "前方有危险的敌人，我们一定要做好万全准备。",
+    "ja": "前方に敵がいますね……準備をしておきましょう。",
+    "ko": "앞쪽에 위험한 적이 있어요! 철저하게 대비하는 게 좋겠어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "I'll sort and identify these minerals in a bit.",
+    "zh-TW": "待會可以把礦物鑑定分選一下。",
+    "zh-CN": "待会儿可以把矿物鉴定分选一下。",
+    "ja": "あとで、鉱物の鑑定と分類をしなきゃ……",
+    "ko": "이 광물들은 나중에 감정해 보고 분류해야지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Let me help as well!",
+    "zh-TW": "也讓我出一份力吧！",
+    "zh-CN": "也让我出一份力吧！",
+    "ja": "私もお手伝いします！",
+    "ko": "저도 힘을 보탤게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "A reward for the difficulties we faced!",
+    "zh-TW": "這也是對您一路辛苦的慰勞！",
+    "zh-CN": "这也是对您一路辛苦的慰劳！",
+    "ja": "今まで頑張ったご褒美、でしょうか。",
+    "ko": "이건 고생에 대한 보답일 거예요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Unlike the Blight and rifts, Aurylenes aren't that dangerous.",
+    "zh-TW": "與侵蝕和裂隙不同，醚質沒有那麼危險呢。",
+    "zh-CN": "与侵蚀和裂隙不同，醚质没有那么危险呢。",
+    "ja": "侵蝕や裂け目とは違って、危険なものではなさそうです。",
+    "ko": "침식이나 균열과는 달리, 오리렌은 그렇게 위험하지 않네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Great. Now it'll no longer hurt anyone.",
+    "zh-TW": "太好了，這樣就不會有人受傷了。",
+    "zh-CN": "太好了，这下不会有人受伤了。",
+    "ja": "ふぅ、よかった。誰も傷つかずに済みますね。",
+    "ko": "다행이에요. 이제 다치는 사람은 없을 거예요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "We've walked so far ... everyone must be tired. Good call on the break.",
+    "zh-TW": "走了那麼多路，大家的腳步都有點沉重，是該好好休息一下了！",
+    "zh-CN": "走了那么多路，大家的脚步都有些沉重，是该好好休息一下了！",
+    "ja": "たくさん歩いて、皆さん疲れましたよね……休憩しましょう！",
+    "ko": "꽤 먼 길을 걸었더니 다들 지친 것 같아요. 이제 좀 쉬었다 가는 게 좋겠어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "You've got this, and you've got me!",
+    "zh-TW": "撐住，我一直都在！",
+    "zh-CN": "坚持住，我一直都在！",
+    "ja": "頑張ってください、私が側にいます！",
+    "ko": "조금만 버텨주세요, 제가 곁에 있을게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Phew... I feel so much better.",
+    "zh-TW": "呼……我感覺好多了。",
+    "zh-CN": "呼……我感觉好多了。",
+    "ja": "ふぅ……だいぶ落ち着きました。",
+    "ko": "후... 이제 좀 나아졌어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Be careful!",
+    "zh-TW": "請小心！",
+    "zh-CN": "请小心！",
+    "ja": "気をつけてください！",
+    "ko": "조심하세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "I'm good! I can still do this!",
+    "zh-TW": "我沒關係，我能繼續！",
+    "zh-CN": "我没关系，我能继续！",
+    "ja": "大丈夫です……まだまだここからです。",
+    "ko": "전 괜찮아요. 계속할 수 있어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "I can't let ... the Professor down...",
+    "zh-TW": "我不能……辜負前輩……",
+    "zh-CN": "我不能……辜负前辈……",
+    "ja": "先輩を……がっかりさせたく……",
+    "ko": "선배의 기대를... 저버릴 수 없는데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Incredible move!",
+    "zh-TW": "真的很棒！",
+    "zh-CN": "真的很棒！",
+    "ja": "本当にすごいです！",
+    "ko": "정말 멋져요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Everyone's chipping in!",
+    "zh-TW": "大家都很厲害！",
+    "zh-CN": "大家都很厉害！",
+    "ja": "皆さん、本当に良かったです！",
+    "ko": "다들 정말 대단해요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Thanks for the thumbs up!",
+    "zh-TW": "多虧了你的鼓勵！",
+    "zh-CN": "多亏了你的鼓励！",
+    "ja": "声をかけてくれたおかげです！",
+    "ko": "응원해 주신 덕분이에요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "Thank you all!",
+    "zh-TW": "謝謝你們！",
+    "zh-CN": "谢谢你们！",
+    "ja": "皆さん、ありがとうございました！",
+    "ko": "감사합니다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Watch your step, people.",
+    "zh-TW": "注意腳邊，各位。",
+    "zh-CN": "注意脚边，各位。",
+    "ja": "足元には気を付けてくださいね。",
+    "ko": "모두 발밑을 조심하세요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "We'll see this through!",
+    "zh-TW": "我們會成功的！",
+    "zh-CN": "我们会成功的！",
+    "ja": "私達、きっとうまくできます！",
+    "ko": "우린 해낼 수 있어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "No hardship will stop us.",
+    "zh-TW": "我們不會被這些困難阻止。",
+    "zh-CN": "我们不会被这些困难阻止。",
+    "ja": "こんなところで、止められるわけにはいきません。",
+    "ko": "우린 절대로 이런 어려움에 굴복하지 않죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "We've done it. Hope you're not tired, Mr. Dolly.",
+    "zh-TW": "總算贏了，多利先生累不累？",
+    "zh-CN": "总算赢了，多利先生累不累？",
+    "ja": "勝ちましたね。ドリーさん、疲れちゃったかな？",
+    "ko": "휴, 이겼네요. 돌리 씨, 많이 힘들었죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "I knew we could do it.",
+    "zh-TW": "我知道我們能做到。",
+    "zh-CN": "我知道我们能做到。",
+    "ja": "私達ならできるって信じていました！",
+    "ko": "우리가 해낼 거라고 믿고 있었어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "We finally pulled it off... And it's because we all stuck together.",
+    "zh-TW": "終於贏了……因為大家始終沒有放棄，我們才沒有失敗。",
+    "zh-CN": "终于赢了……因为大家始终没有放弃，我们才没有失败。",
+    "ja": "勝てました……皆さんが諦めなかったから、勝利を掴めたんです。",
+    "ko": "드디어 이겼네요... 다들 끝까지 포기하지 않은 덕분에, 실패하지 않았어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Losing isn't the end of the world. Learn from the experience and we'll do better next time.",
+    "zh-TW": "失敗並不可怕，只要從中吸取經驗教訓，下次一定會做得更好。",
+    "zh-CN": "失败并不可怕，只要从中吸取经验教训，下次一定会做得更好。",
+    "ja": "失敗は恐れるものなんかじゃありません。学ぶことで、次は必ずうまくできるんです。",
+    "ko": "실패를 두려워 마세요. 거기서 뭔가를 배울 수 있다면, 다음엔 더 잘할 수 있을 거예요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Make way!",
+    "zh-TW": "請讓開！",
+    "zh-CN": "请让开！",
+    "ja": "どいてください！",
+    "ko": "비키세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Eruption!",
+    "zh-TW": "噴湧吧。",
+    "zh-CN": "喷涌吧。",
+    "ja": "湧きますよ！",
+    "ko": "솟아올라라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Lamb impact!",
+    "zh-TW": "全力衝擊。",
+    "zh-CN": "全力冲击。",
+    "ja": "全力で行きます！",
+    "ko": "전력 돌진!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Knock it off!",
+    "zh-TW": "別再破壞了！",
+    "zh-CN": "别再破坏了！",
+    "ja": "やめてください！",
+    "ko": "더 이상 파괴하게 둘 수 없어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Here we go!",
+    "zh-TW": "我們上吧！",
+    "zh-CN": "我们上吧！",
+    "ja": "行きますよ！",
+    "ko": "같이 가요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "I'll help too!",
+    "zh-TW": "我也來幫忙！",
+    "zh-CN": "我也来帮忙！",
+    "ja": "手伝います！",
+    "ko": "저도 도울게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Let me give it a go!",
+    "zh-TW": "讓我來吧！",
+    "zh-CN": "让我来吧！",
+    "ja": "ここは私が！",
+    "ko": "준비됐어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "This will hurt!",
+    "zh-TW": "會很痛的喔。",
+    "zh-CN": "会很痛的哦。",
+    "ja": "痛いですよ～？",
+    "ko": "좀 아플 거예요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Blossom forth!",
+    "zh-TW": "綻放吧！",
+    "zh-CN": "绽放吧！",
+    "ja": "咲かせます！",
+    "ko": "피어올라라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Now's the time!",
+    "zh-TW": "就是現在！",
+    "zh-CN": "就是现在！",
+    "ja": "今です！",
+    "ko": "지금이에요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Just leave!",
+    "zh-TW": "離開吧！",
+    "zh-CN": "离开吧！",
+    "ja": "離れて！",
+    "ko": "이제 사라지세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Please help, Mr. Dolly!",
+    "zh-TW": "多利先生，幫幫忙吧！",
+    "zh-CN": "多利先生，帮帮忙吧！",
+    "ja": "ドリーさん、手伝って！",
+    "ko": "돌리 씨, 부탁해요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Don't go too far, Mr. Dolly.",
+    "zh-TW": "多利先生，別跑太遠。",
+    "zh-CN": "多利先生，别跑太远。",
+    "ja": "ドリーさん、遠くに行っちゃダメ！",
+    "ko": "돌리 씨, 너무 멀리 가면 안 돼요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0025_ardelia_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Be gentle, Mr. Dolly.",
+    "zh-TW": "多利先生，下手輕一點。",
+    "zh-CN": "多利先生，下手轻一些。",
+    "ja": "ドリーさん、手加減しないとだよ。",
+    "ko": "돌리 씨, 살살 해주세요."
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [],
+ "skipped": 0
+}

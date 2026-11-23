@@ -49,6 +49,8 @@ sources:
 
 Fluorite is a frontier-born sharpshooter on Endfield's Operations Team Z7 who scouts and disrupts enemy lines, relying on street smarts and sharp observation.
 
+Files, voice lines and chats: [Fluorite's file](/story/fluorite/).
+
 ## How to obtain
 
 Fluorite has no rate-up banner. Fluorite is in the standard roster, which Basic Headhunting and every Chartered Headhunting pool draw from.

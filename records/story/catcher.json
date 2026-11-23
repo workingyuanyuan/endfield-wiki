@@ -1,0 +1,2997 @@
+{
+ "slug": "catcher",
+ "gameId": "chr_0020_meurs",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Catcher \nGENDER: Male \nAUTHENTICATION: Endfield Industries \nDOB: August 16 \nRACE: Perro \n[ORIPATHY INFECTION STATUS] \nOripathy positive (infected), based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Standard \nCOMBAT SKILL: Standard \nTACTICAL ACUMEN: Standard \nORIGINIUM ARTS ASSIMILATION: Standard \n\nGiven Operator Catcher's medical history, his test results actually astounded us. We could hardly imagine how he managed to raise his physiological strength to his current levels despite his health disadvantages. Having reviewed numerous concerns, the Medical Division shall closely monitor Operator Catcher's regular health examinations in the future.",
+    "zh-TW": "【代號】卡契爾\n【性別】男\n【身分認證】終末地工業\n【生日】8月16日\n【種族】佩洛\n【礦石病感染情況】\n參照醫學檢測報告，確認為感染者。\n\n【綜合體檢測試】\n生理強度：標準\n作戰技巧：標準\n戰術規劃：標準\n源石技藝適應性：標準\n\n卡契爾幹員的過往病歷讓我們對他現今的測試結果感到驚訝，難以想像他是如何做到在那樣的身體狀況下，將自身生理強度提升到目前這個程度。基於諸多考慮，醫療部門將密切關注卡契爾幹員後續的例行檢查狀況。",
+    "zh-CN": "【代号】卡契尔\n【性别】男\n【身份认证】终末地工业\n【生日】8月16日\n【种族】佩洛\n【矿石病感染情况】\n参照医学检测报告，确认为感染者。\n\n【综合体检测试】\n生理强度：标准\n作战技巧：标准\n战术规划：标准\n源石技艺适应性：标准\n\n卡契尔干员的过往病历让我们对他现如今的测试结果感到惊讶，难以想象他是如何做到在那样的身体状况下，将自身生理强度提升到目前这个水平。基于诸多考虑，医疗部门将密切关注卡契尔干员后续的例行检查情况。",
+    "ja": "【コードネーム】キャッチャー\n【性別】男\n【身分証明】エンドフィールド工業\n【誕生日】8月16日\n【種族】ペッロー\n【鉱石病感染状況】\nメディカルチェックの結果、感染者に認定。\n\n【能力測定】\n物理強度：標準\n戦闘技術：標準\n戦術立案：標準\nアーツ適性：標準\n\n過去の病歴を踏まえると、本測定結果は非常に驚くべきものである。当時の身体状況から、どのように物理強度を現在の水準にまで引き上げたのかは未解明。諸般の事情を考慮し、医療部は今後の定期診断においても引き続き経過観察を実施する予定。",
+    "ko": "[코드네임] 카치르\n[성별] 남\n[신분 인증] 엔드필드 공업\n[생일] 8월 16일\n[종족] 페로\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 표준\n전술 계획: 표준\n오리지늄 아츠 적응성: 표준\n\n카치르 오퍼레이터의 과거 병력을 고려할 때, 이번 측정 결과는 상당히 의외라 할 수 있다. 과거의 신체 상태를 감안하면, 어떻게 현재 수준까지 신체 강도를 끌어올릴 수 있었는지 상상하기 어렵다. 이에 따라 의료 부서는 앞으로도 카치르 오퍼레이터의 정기 검진 상황을 면밀히 주시할 예정이다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Catcher (ID name: Ruy van Catcher) was born to a military family in the Civilization Band. Following Operator Akekuri's applications, Catcher is now a member of Operations Team Z7. \n\nExisting operational feedback reports indicate that Mr. Catcher is the most reliable operator of Z7. He has never been absent from duty, always hands in his reports on time, does not engage in habits of vice, and is an exceptional team player. \nHowever, we have noticed that Mr. Catcher has a tendency to place extremely severe demands on himself (which may be a result of his childhood influences). Simply put, he often forces himself to take on operational duties and goals that were not originally assigned to him. When assigning tasks to Mr. Catcher, we advise referencing, where possible, the recommendations of Op Team Z7 Captain Akekuri. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員卡契爾，本名魯伊·范·卡契爾，出生於文明環帶的軍人家庭。經幹員秋栗申請，納入Z7行動組管理。\n\n基於已有的任務回報，卡契爾先生應是Z7行動組中最令人放心的一位幹員。他從不缺勤，總是按時提交報告，無任何不良嗜好，具備極好的合作性。\n但與此同時，我們也注意到，受幼年經歷影響，卡契爾先生對自身的要求存在過於嚴苛的傾向。簡單來說，他會逼迫自己承擔一些他本不需要承擔的責任與任務目標。因此建議在為卡契爾先生安排工作時，儘量參考Z7行動組組長秋栗的建議。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员卡契尔，本名鲁伊·范·卡契尔，出生于文明环带的军人家庭。经干员秋栗申请，纳入Z7行动组管理。\n\n基于已有的任务反馈，卡契尔先生应是Z7行动组中最令人放心的一位干员。他从不缺勤，总是按时提交报告，无任何不良嗜好，具备极好的合作性。\n但与此同时，我们也注意到，受幼年经历影响，卡契尔先生对自身的要求存在过于严苛的倾向。简而言之，他会逼迫自己承担一些他本不需要承担的责任与任务目标。因此建议在为卡契尔先生安排工作时，尽量参考Z7行动组组长秋栗的建议。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "キャッチャー、本名は「ルイ・フォン・キャッチャー」。文明地帯の軍人一家に生まれ、アケクリの申請により、行動隊Z7へと配属されている。\n\n「既存の任務報告によると、キャッチャーさんはおそらく行動隊Z7の中で最も信頼できるオペレーターでしょう。欠勤は一度もなく、報告書も常に規定時間内に提出。不健全な嗜好もなく、協調性にも優れています。」\n「しかし同時に、幼少期の経歴の影響により、キャッチャーさんは自分自身に対して過剰に厳しくなってしまう傾向があることも確認されています。端的に言えば、本来なら必要のない責任や任務の目標を、自らに課してしまうのです。従って、キャッチャーさんに業務を任せるときは、行動隊Z7の隊長アケクリさんの意見を参考にするようお願いします。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 카치르, 본명 루이 판 카치르. 문명 밴드의 군인 가정에서 태어났다. 아케쿠리 오퍼레이터의 신청에 따라 Z7 작전팀에 합류했다.\n\n기존 임무 보고서를 종합해 볼 때, 카치르 씨는 Z7 작전팀 내에서 가장 신뢰할 수 있는 오퍼레이터 중 한 명으로 판단된다. 무단결근한 적이 없고, 항상 제때 보고서를 제출하며, 어떠한 나쁜 습관도 없고, 협업 능력 또한 매우 뛰어나다.\n하지만 동시에, 어린 시절의 경험 탓인지, 카치르 씨는 스스로에게 지나치게 엄격한 경향이 있다. 간단히 말해, 자신이 떠맡지 않아도 되는 책임이나 임무 목표까지 스스로 짊어지려고 한다. 따라서 카치르 씨의 임무 배치 시에는 Z7 작전팀 아케쿠리 팀장의 의견을 가급적 참고하길 권장한다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Catcher is, without a doubt, the most trusted member of Op Z7. Though he seemed more comfortable hanging back in silence and appeared disinterested in the chatter around him, Catcher would immediately provide a fitting response whenever he was mentioned in conversation. We have reason to believe that he heard everything, from start to finish. \n\nThat's right. You can't pick a bone with our omni-butler. Sometimes I suspect he writes a review report after every operation — and even reads the ones he wrote earlier. Why? Because I don't think any ordinary person could remember that they forgot to bring a flashlight three operations ago. I know I couldn't. \n— Fluorite \n\nCatcher is so simple and straightforward that he felt kinda unreal... He's got control over his face, just as good as Antal. His expressions hardly change... Yeah, except for that time when I accidentally threw some cream cake onto his greatsword. It was a cream cake I left lying around for a week... I saw Catcher frowning at me for the first time. He's incredibly restrained and controlled. \n— Estella \n\nHe is an expert in solving difficult issues and appreciates the importance of being a listener. However, he is a human of few words, and his social skills are potentially worrying. Fortunately, he knows how to roast fowl fillets, and the flavor in on par with those roasted by my own grandmother. Hence, there is nothing to worry about — people who can roast fowl properly can handle anything that comes their way. \n— Antal \n\nEveryone thinks that Catcher is the \"Z7 teammate that I'm least worried about\", but I disagree. He has a habit of putting the feelings and needs of others before his own, both in business and in private ... and that's definitely not something I like to see as the Z7 team captain. So, whenever I see Catcher taking on extra work without being asked to, I adjust his subsequent task assignments. I don't want him overworking himself. \n— Akekuri",
+    "zh-TW": "卡契爾無疑是Z7行動組中備受隊友信賴的一位。儘管他平常似乎更習慣沉默地站在隊友們的身後，好像對其他人的閒聊毫無興趣，但實際上，但凡有任何提及他的話題出現，他總會第一時間應聲並給予妥善回覆，讓人有理由相信他從頭到尾都沒漏聽掉一句。\n\n是的，沒錯，我們的「萬能管家」先生就是這麼一個很難讓人挑出錯的傢伙。有時候我真的很懷疑，他是不是每次行動結束都要回去寫一份反省報告，然後還定期回看？不然你覺得一般人會至於連「上上上次行動少帶了一支手電筒」這種事都記得清清楚楚嗎？反正我是做不到。\n——螢石\n\n卡契爾這個人，簡單到有點不可思議了……他的表情管理和安塔爾一樣厲害，好像很少有什麼特別的變化……嗯，除了那次，我把放了一週忘記丟的奶油蛋糕不小心甩到了他的大劍上……他居然第一次對我皺眉了，真是太不容易了。\n——埃特拉\n\n他很擅長解決一些麻煩的問題，也很懂得聆聽的重要性，就是不太愛說話，讓人憂心他平常的社交。好在他會做烤羽獸，味道甚至可以和我奶奶一拼，所以也就不用擔心了——沒什麼能難倒一個會做烤羽獸的人。\n——安塔爾\n\n雖然每次說到「Z7最讓我放心的人」，大家都會一致認為是卡契爾，但我並不這麼認為。因為不管是在任務中還是生活中，他都習慣性地把其他人的想法和訴求看得比自己重要……而作為隊長，這絕不是我想要看到的。所以每次發現卡契爾又在自行承擔額外工作時，我也會主動調整他後續的任務安排，讓他不至於太辛苦。\n——秋栗",
+    "zh-CN": "卡契尔无疑是Z7行动组中备受队友信赖的一位。尽管他平日里似乎更习惯沉默地站在队友们的身后，仿佛对其他人的闲聊毫无兴趣，但实际上，但凡有任何提及他的话题出现，他总会第一时间应声并给予妥善回复，教人有理由相信他从头到尾都没漏听掉一句。\n\n是的，没错，我们的“万能管家”先生就是这么一个很难让人挑出错的家伙。有时候我真的很怀疑，他是不是每次行动结束都要回去写一份反省报告，然后还定期回看？不然你觉得一般人至于连“上上上次行动漏带了一支手电筒”这种事都记得清清楚楚吗？反正我可做不到。\n——萤石\n\n卡契尔这个人，简单得有些不可思议了……他的表情管理和安塔尔一样厉害，好像很少有什么特别的变化……嗯，除了那次，我把放了一周忘记扔的奶油蛋糕不小心甩到了他的大剑上……他居然第一次对我皱眉了，真是太不容易了。\n——埃特拉\n\n他很擅长解决一些麻烦的问题，也很懂得聆听的重要性，就是不太爱说话，让人忧心他平日的社交。好在他会做烤羽兽，味道甚至可以和我奶奶一拼，所以也就用不着忧心了——没什么能难倒一个会做烤羽兽的人。\n——安塔尔\n\n虽然每次说到“Z7最让我省心的人”，大家都会一致认为是卡契尔，但我并不这么认为。因为不管是在任务中还是生活中，他都习惯性地把其他人的想法和诉求看得比自己重要……而作为队长，这绝不是我想要看到的。所以每次发现卡契尔又在自行承担额外工作时，我也会主动调整他后续的任务安排，让他不至于太辛苦。\n——秋栗",
+    "ja": "キャッチャーは間違いなく行動隊Z7において信頼されている隊員の1人だ。普段は寡黙で仲間の背後に控えていることが多く、雑談に関心を示す様子はあまり見られない。しかし、少しでも自分に関わる話題が出ると、即座に適切な返事を返す。つまり、会話の内容を初めから終わりまで正確に把握しているということである。\n\nまぁ、そんなとこ？うちの「万能執事」さんは、完璧主義者なんだよねぇ。たぶん、任務終わるたびに反省報告書でも書いて、しょっちゅう見直しでもしてるのかも。だって、普通の人間って「前前前回の任務で懐中電灯を1本忘れた」とか、覚えてるわけないし？少なくとも、私には絶対無理。\n――フローライト\n\nキャッチャーって、本気で単純……なんだよねぇ。でも、表情管理はアンタルとおんなじで最高なんだよぉ～。ぜーんぜん、動かない……でも――うん。1回だけ……捨てるの忘れたショートケーキ、うっかりキャッチャーの大剣につけちゃったとき……眉毛がぐいって動いた……めーっちゃ、レアじゃんね？\n――エステーラ\n\nキャッチャーは複雑な問題の処理に長け、聞く姿勢の大切さも理解している。あまり多弁な方ではなく、普段の社交状況がやや懸念されるが……羽獣焼きに関しては小生の祖母と同レベルの腕前を誇る。故に、過度な心配は無用だ――うむ。羽獣焼きを完璧に仕上げられる者に、乗り越えられぬ課題など無いのだ。\n――アンタル\n\n「Z7で一番心配の必要がない人」といえば、きっとみんなキャッチャーの名前を挙げると思います。ですが、わたくしはそうは思っていません。任務でも日常でも、いつも他の人の気持ちや要望を自分のことより優先してしまうのですから……そしてそれは、隊長として見逃せるものでもありません。だからこそ、キャッチャーが余計な仕事を引き受けていると気づいたときは、無理しすぎないように、次の任務の内容を調整するようにしているのです。\n――アケクリ",
+    "ko": "카치르는 Z7 작전팀에서 팀원들의 깊은 신뢰를 받는 인물이다. 평소에는 마치 다른 사람들의 잡담에는 전혀 관심 없는 듯, 늘 조용히 뒤에 서 있는 경우가 많지만... 사실 누군가 자신에 대해 언급하기라도 하면, 언제나 즉각 반응하고 적절한 답을 내놓는다. 이는 카치르가 처음부터 끝까지 단 한 마디도 놓치지 않고 듣고 있었다고 믿기에 충분하다.\n\n그래, 맞아. 우리 '만능 집사'님은 정말 흠잡을 데 없는 사람이지. 가끔은 진짜 의심될 정도니까? 혹시 매번 임무가 끝날 때마다 반성문이라도 쓰면서, 주기적으로 복기하는 건 아닌지 말이야. 그게 아니라면 어떻게 '지지난번 작전에서 손전등 하나 빠뜨린 일'까지 또렷하게 기억하겠어? 아무튼 난 못해, 절대로.\n- 플루라이트\n\n카치르 씨는 단순하다 못해 신기할 정도예요... 표정 관리 능력이 안탈 씨 못지않게 대단해서, 웬만해선 별다른 변화가 없거든요... 아, 딱 한 번 예외가 있었네요. 제가 일주일 동안 버리는 걸 깜빡한 생크림 케이크를 실수로 카치르 씨의 대검 위에 엎었거든요... 그때 처음으로, 절 보고 인상을 찌푸리더라고요. 꽤나 귀한 장면이었죠.\n- 에스텔라\n\n카치르는 골치 아픈 문제를 아주 능숙하게 해결하고 무엇보다도 경청의 중요성을 잘 아는 사람이에요. 말수가 너무 적어서 주변에 친구가 없을까봐 조금 걱정되지만요. 다행이라면, 카치르는 파울비스트 구이를 잘 만든다는 점이에요. 맛도 우리 할머니 솜씨에 버금갈 정도거든요. 딱히 걱정 안 해도 될 것 같네요. 파울비스트 구이를 만들 줄 아는 사람이라면 뭐든 해낼 수 있을 테니까요.\n- 안탈\n\n물론, 'Z7에서 가장 신경 안 쓰이게 하는 사람'을 고르라고 하면 다들 주저 없이 카치르라고 말하겠지만, 전 그렇게 생각하진 않아요. 카치르는 임무에서든 일상에서든, 습관적으로 다른 사람의 생각과 요구를 자신보다 중요하게 여기거든요... 하지만 전 팀장으로서 그런 모습을 절대 원하지 않아요. 그래서 카치르가 또 혼자서 추가 업무를 떠맡고 있는 걸 발견하면, 저는 일부러 후속 임무를 조정해 너무 힘들지 않도록 해주죠.\n- 아케쿠리"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "Seven years ago, during the autumn when I left Juniper Security, I worked as a part-time instructor at a youth training camp somewhere close to home. I was hoping to take care of my sick father and make some money for his treatment. My main job description was to share various tidbits about military basics with children who had probably never set foot in the Band Fringes. I worked in the youth camp for three years, and a 15-year old student named Ruy left quite an impression on me. He was the only one in the cohort who signed up temporarily. They told me his parents did not want him to join, but conceded upon the boy's strong insistence. I often reflect upon this moment and think I should have taken this as a warning sign for things to come. Despite being so thin that he looked malnourished, Ruy was not as obedient as he appeared. \nRuy only attended eleven courses throughout the entire term, and he \"found problems\" in eight of them. These problems ranged from slight deviations from textbook examples of military poise to one or two minor memory slips. In fact, he pointed out any non-conformances in my course that could be considered errors. Things escalated to the point where I had to rehearse my materials before every class just so the boy wouldn't call out my mistakes. \nOn the eve of graduation, I finally eased off my usual sternness as an instructor and asked the boy a question that had troubled me for months, \"I need to know why you're so obsessed about finding your instructor's mistakes? Did I make you angry at some point?\" I still remember the expression on his face. He shook his head, and then took out a copy of How to Be a Proper Soldier? (Young Adults Edition) published by the TGCC. The manual was flipped through so many times that the corners curled. Then he pointed the book at me and gave me a serious look. \n\"No, Instructor Luca. Your classes were very interesting, and your examples made things way more engaging than the manual. I actually liked your lessons a lot... But you probably didn't know that everything in this manual was the only fount of strength that's kept me this far.\" \n\"I ... I really care about every pointer in the manual because I want to put them to use on a real battlefield... I've been dreaming about this since I was nine...\" \nAfter hearing these words, I finally learned about Ruy's childhood from another instructor and a close friend of mine — turned out that young Ruy contracted Oripathy due to momentary familial negligence. Though timely treatment was provided, the poor lad was almost forced to live out the rest of his life on a sickbed. \nI do not know what he experienced or sacrificed in order to receive training like the other students... But as his instructor, I do approve of his efforts and proudly call him a student of mine, despite the fact that many of his actions had caused no small trouble on my part. \nCome to think of it, if not for Ruy's constant, incessant, and persistent corrections, I would never have worked so hard to ensure conformance to the training materials. I probably would never correct my habits of mindless and rote memorization back in the force. And I most certainly would never have made it into the elite armed security training program or become an formal instructor for a mercenary outfit. \n............ \nAfter my father passed away, I left Alloycarrot and drifted away from my training camp colleagues... I did not know where Ruy went afterwards. \nAn accidental encounter with a former student of mine informed me that Ruy seemed to have joined a relatively famous company as part of their security detail... Truth be told, I was a little surprised. I thought that boy would have become an officer or instructor... \nRegardless, I sincerely hope he will make good use of the knowledge he acquired and fulfill his childhood dreams. \n— An excerpt from Those Not Remembered, an autobiography by the legendary instructor Luca Londi",
+    "zh-TW": "七年前，在我離開藍松子保全後的那個秋天，為了方便照料我父親並為他籌集更多的治療費用，我在家附近的青少年訓練營找了一份教官的兼職。我的主要工作就是把部隊裡一些最基本的常識一點點講給這些可能連環帶邊緣都沒去過的孩子們。而在我任教的三年間，有一位年僅15歲，名叫魯伊的學員最令我印象深刻。他是那一屆學員裡唯一一個臨時入營的，據說他父母本來不願意他來受訓，但在他的強烈要求下最終妥協。後來我經常會想，或許我在剛得知這件事之後就應對魯伊提高一些警惕的，至少該明白這個瘦削得讓人懷疑是不是營養不良的孩子，並不像看起來的那麼聽話。\n整個學期我總共教過他十一節課，其中八節都曾被他「找過麻煩」。從與教科書稍有區別的演示姿勢到一兩個無傷大雅的記憶差錯，只要我的課堂中存在任何稱得上失誤的地方，都免不了被他一一指出。導致後來我幾乎每堂課前都要先自己預習一遍，以免再被他糾錯。\n後來在他快結業的某天，我終於第一次放下作為教官的矜持，向他問出了那個困擾我多時的問題：「到底是因為什麼，讓你一直這麼執著地挑我這個教官的錯？總不會是我哪裡得罪了你吧？」而他當時的表情，直到現在我也記憶猶新——他先是搖了搖頭，然後拿出了他那本邊角都因為翻閱次數太多而捲起來、環塔商會統一發行的《如何成為一名及格的軍人？（青少年版）》，指著它看向我，目光無比認真。\n「不，盧卡老師，你講的課很有趣，舉的例子也比書上寫得生動多了，我其實很喜歡聽你的課……但是，你可能不知道，這本書裡講述的一切，曾經是激勵我來到這裡的支柱……」\n「我……會那麼在乎裡面的每一條常識，只是因為我希望有一天能真正地在戰場上應用它們……就像我9歲時夢想的那樣……」\n在得到他的回答後，我總算從熟識的另一名教官那裡知道了魯伊的童年往事——他曾因為家人的一時疏忽患上了礦石病，雖然治療得非常及時，卻還是讓他差點就一輩子只能待在病床上。\n我不知道他為了像普通學員那樣正常受訓，到底經歷過什麼，付出過什麼……但至少作為教官，我很肯定，他的確是我值得驕傲的學生，哪怕我確實曾對他的種種行為深感頭痛。\n而現在想想，如果沒有魯伊那時幾乎不屈不撓的指正，我恐怕不會那麼努力地對照教材進行備課，也不可能改正自己在部隊時囫圇學習、不求甚解的習慣，更不會在後來加入高級武裝保全人員訓練計劃，成為一名真正的僱傭兵教官了。\n…………\n再後來，我的父親去世，我也離開了合金蘿蔔城，與訓練營的同事也斷了聯絡……不清楚魯伊之後的去向。\n只是從一位意外遇到的學員那裡得知，魯伊好像是入職了一家頗有名望的公司，從事類似保全的工作……老實說，我有點意外，我本來以為他會成為一名軍人或是教官……\n但無論如何，我依然衷心希望他能有機會善用那些學到的知識，真正實現他那個童年的夢想。\n——節選自傳奇教官盧卡·倫蒂的回憶錄《那些不被記住的》",
+    "zh-CN": "七年前，在我离开蓝松子安保后的那个秋天，为了方便照料我父亲并为他筹集更多的治疗费用，我在家附近的青少年训练营找了一份教官的兼职。我的主要工作就是把部队里一些最基本的常识一点点讲给这些估计连环带边缘都没去过的孩子们。而在我任教的三年间，有一位年仅15岁，名叫鲁伊的学员最令我印象深刻。他是那一届学员里唯一一个临时入营的，据说他父母本不愿意他来受训，但在他的强烈要求下最终妥协。后来我经常会想，或许我在刚得知这件事之后就应对鲁伊提高一些警惕的，至少该明白这个瘦削得让人怀疑是不是营养不良的孩子，并不像看起来的那么听话。\n整个学期我一共教过他十一节课，其中八节都曾被他“找过茬儿”。从与教科书稍有区别的演示姿势到一两个无伤大雅的记忆差错，只要我的课堂中存在任何称得上失误的地方，都免不了被他一一指出。以至于后来我几乎每堂课前都要先自己预习一遍，以免再被他纠错。\n后来在他快结业的某天，我终于第一次放下作为教官的矜持，向他问出了那个困扰我多时的问题：“到底是因为什么，让你一直这么执着地给我这个教官挑错？总不会是我哪里得罪了你吧？”而他当时的表情，直到现在我也记忆犹新——他先是摇了摇头，然后拿出了他那本边角都因为翻阅次数太多而卷起来、环塔商会统一发行的《如何成为一名合格的军人？（青少年版）》，指着它看向我，目光无比认真。\n“不，卢卡老师，你讲的课很有趣，举的例子也比书上写的生动多了，我其实很喜欢听你的课……但是，你可能不知道，这本书里讲述的一切，曾经是激励我来到这里的支柱……”\n“我……会那么在乎里面的每一条常识，只是因为我希望有一天能真正地在战场上应用它们……就像我9岁时梦想的那样……”\n在得到他的回答后，我总算从熟识的另一名教官那里知道了鲁伊的童年往事——他曾因为家人的一时疏忽患上了矿石病，虽然治疗得非常及时，却还是让他差点儿就一辈子只能待在病床上。\n我不知道他为了像普通学员那样正常受训，到底经历过什么，付出过什么……但至少作为教官，我很肯定，他确实是我值得骄傲的学生，哪怕我确实曾对他的种种行为深感头疼。\n而现在想想，如果没有鲁伊那时近乎不依不饶的指正，我恐怕不会那么努力地对照教材进行备课，也不可能改正自己在部队时囫囵学习、不求甚解的习惯，更不会在后来加入高级武装安保人员训练计划，成为一名真正的雇佣兵教官了。\n…………\n再后来，我的父亲去世，我也离开了合金萝卜城，与训练营的同事也断了联系……不清楚鲁伊后来的去向。\n只是从一位意外遇到的学员那里得知，鲁伊似乎是入职了一家颇有名望的公司，从事类似安保的工作……老实说，我有些意外，我本以为他会成为一名军人或是教官……\n但无论如何，我依然衷心希望他能有机会善用那些学到的知识，真正实现他那个童年的梦想。\n——节选自传奇教官卢卡·伦蒂的回忆录《那些不被记住的》",
+    "ja": "7年前の秋だった。ジュニパー・セキュリティを離れた頃、親父の世話をしながら少しでも多く治療費を工面するために、家の近くにある青少年訓練所で教官のアルバイトを始めた。主な仕事は、部隊で叩き込まれる基本的な常識を少しずつ教えていくことだった。文明地帯の辺境にすら行ったことのない子どもたちに、それを1から叩き込む。それが、俺に与えられた役目だった。教官を務めた3年間で、今でも記憶に残っている訓練生がいる。ルイという名の少年だ。わずか15歳にして訓練所に入った彼は、唯一途中から入った人物だった。話を聞く限りでは、親は訓練所に通わせることに反対していたらしい。本人の強い希望があって、最終的に折れたそうだ。今になって思えば、その話を聞いたときから、ルイにはもう少し警戒しておくべきだったのかもしれない。少なくとも、栄養不良を疑うほど痩せ細ったその体つきを見て、「見た目どおりの良い子」と思い込んだのは、浅はかだった。\n一学期分、計11回の授業を担当した。そのうちの8回で、俺はルイに「指摘」を受けた。教科書に載っている構えとのわずかな違いから、大したことのない記憶ミスまで――俺の授業中に少しでもミスと言える部分があれば、漏れなく指摘してきた。おかげで指摘を受けまいと、授業のたびに事前に予習をして備えるようになった。\nそしてまもなく修了という頃になって、俺はようやく教官としての矜持を脇に置き、今まで引っかかっていた疑問を率直にぶつけた。「なあ、何でそんなに俺に指摘ばかりするんだ？もしかして、何か気に障ることでもしたか？」そのときの彼の顔は、今でもはっきりと覚えている。ルイはゆっくりと首を横に振った。それから表紙の角が折れるほど読み込まれた、環タロ商会発行『一人前の軍人になるには？（青少年版）』を取り出した。そして真剣な目で、黙って俺を見つめていた。\n「いえ、ルカ先生。先生の授業は興味深く、挙げる例も本に載っているものよりずっと具体的でわかりやすいです。先生の授業は素晴らしいと思います。ただ、先生はご存知なくて当然なのですが、この本に書かれているすべてが……ここに来ると決めたときの支えになっていました。」\n「だから……この中にある『常識』すべてにこだわっているのは、いつか本当に戦場で役立てたいと思っているためです。9歳の頃に抱いた、あの夢のように……」\nその答えを受け取ったあと、別の教官からルイの過去について教えられた。彼は幼い頃、家族のほんの少しの不注意がもとで、鉱石病を患ったのだという。治療はすぐさま行われたが、少しでも遅れたなら、一生ベッドに縛られることになっていたかもしれないとも聞いた。\nそんな彼が、一般の訓練生と同じように訓練を受けられるようになるまでに、どれほどの努力を重ね、どれだけの代償を払ったのか……だが、教官としてはっきりと言える。彼は間違いなく、自慢の生徒だ。たとえ、彼の「指摘」で死ぬほど頭を悩ませたことがあったとしても。\n今になって思う。ルイがあれほど指摘を重ねてこなければ、俺もあそこまで真剣に教材を読み込み、予習することなんてなかっただろう。部隊にいた頃に染みついた、その場しのぎの適当な癖――あれを見直すことも、なかっただろう。ましてやこの後、上級武装警備員訓練計画に進んで、本物の傭兵たちを相手に教官を務めることになるなんて、想像もしていなかった。\n…………\nその後、親父が亡くなって、俺もメタルキャロットを離れることになった。訓練所の同僚と連絡を取ることもなかった……ルイがその後、どんな道を歩んだのかもわからない。\nある日、たまたま出会った元訓練生から、ルイのことを少し聞く機会があった。今は、なかなか有名な企業に入って、セキュリティ関係の仕事に就いているらしい。正直、少し驚いた。てっきり軍人か、あるいは教官の道に進むと思っていたからな……\nけど、何にせよ……学んだ知識を活かして、子どもの頃に見た夢を叶える機会が持てたのなら、それ以上のことはない。\n――伝説の教官ルカ・ロンディの回想録『記憶されなかったこと』より抜粋",
+    "ko": "7년 전, 내가 블루파인 시큐리티를 떠난 그해 가을. 아버지를 돌보며 치료비를 조금이라도 더 벌기 위해, 집 근처 청소년 훈련소에서 시간제 교관 일을 맡게 되었다. 내 주요 업무는 부대에서 배운 가장 기초적인 상식들을, 아마 밴드의 가장자리도 가 본 적 없을 아이들에게 조금씩 알려주는 일이었다. 3년 동안 수많은 아이들을 만났지만, 그중 가장 깊이 기억에 남은 학생이 하나 있었다. 입소 당시 고작 15살이었던, 루이란 이름의 소년이었다. 루이는 기수 중 유일한 임시 입소생이었는데, 듣자 하니 부모님이 입소하는 것을 반대했지만, 아이의 강한 요청에 결국 허락했다고 한다. 지금 생각해 보면, 그 사실을 들었을 때 나는 루이에게 조금 더 주의를 기울여야 했는지도 모른다. 적어도 한눈에 봐도 영양실조가 아닐까 싶을 만큼 여윈 그 소년이 겉보기와 달리 그렇게 순종적이지 않다는 것쯤은 알아차려야 했다.\n그 학기 동안 나는 총 11차례 수업을 진행했는데, 그중 8번은 그 아이가 내 수업 내용에 '딴지'를 걸었다. 교과서와 살짝 다른 시범 자세부터 사소한 기억 착오 하나까지도... 내 수업에서 발생한 실수를 절대 그냥 넘어가는 법이 없었다. 덕분에 나는 또 지적당하지 않으려고, 거의 매 수업 전에 스스로 예습을 해야 할 지경이었다.\n그리고 그의 졸업날이 다가올 무렵, 나는 처음으로 교관으로서의 체면을 내려놓고 그에게 직접 물어봤다. \"대체 왜 그렇게 집요하게 내 수업에 딴지를 걸었던 거니? 내가 너한테 뭔가 잘못했니?\" 그때 루이의 표정이 아직도 선명히 기억난다. 그는 고개를 저으며, 모서리가 닳아버린 <어떻게 하면 훌륭한 군인이 될 수 있는가?(청소년판)>을 꺼내 보였다. 탈로스 II 상업연합회에서 출판한 그 책을 가리키며 그는 진지한 눈빛으로 내게 말했다.\n\"아니에요, 루카 선생님의 수업은 정말 재미있고, 책보다 예시도 훨씬 생생해서 정말 좋았어요... 하지만 이 책에 적힌 모든 건, 저를 여기까지 이끌어 준 버팀목이었거든요.\"\n\"제가... 책에 나온 상식 하나하나에 그렇게 매달렸던 건, 언젠가 이 지식들을 전장에서 실제로 응용할 수 있기를 바랐기 때문이에요. 제가... 9살 때 꿈꿔 왔던 것처럼요...\"\n그제야 나는 다른 교관을 통해 루이의 과거를 들을 수 있었다. 루이가 아주 어렸을 때 가족의 부주의로 광석병에 걸렸고, 다행히 제때 치료를 받았지만, 하마터면 평생을 병상에서만 누워 지낼 뻔했다는 것이었다.\n그 아이가 평범한 훈련생처럼 훈련을 받기 위해 어떤 고생과 노력을 치렀는지 나는 알 수 없다. 다만 교관으로서 분명히 말할 수 있는 건, 비록 그의 행동에 골머리를 앓았던 것은 사실이지만, 그는 나의 자랑스러운 제자였다.\n지금 와서 돌이켜보면, 루이의 집요할 정도의 지적이 없었다면 나는 그렇게까지 열심히 교재를 대조하며 수업 준비를 하지도 않았을 것이고, 부대 생활 시절 대충 흘려듣던 습관도 고치지 못했을 것이다. 하물며 나중에 고급 무장 보안 직원 훈련 계획에 합류해, 정식 용병 교관이 되는 일도 없었을 거다.\n......\n이후, 아버지가 돌아가시면서 나는 합금 무성을 떠났고, 훈련소 동료들과도 연락이 끊겼다... 루이가 나중에 어떻게 되었는지는 모른다.\n다만, 우연히 만난 한 훈련생에게서 루이가 지금은 꽤 유명한 회사에 들어가, 보안 관련 업무를 하고 있다는 말을 들었다... 솔직히 말하면 조금 의외였다. 나는 그가 분명 군인이나 교관이 될 줄로만 알았으니까.\n하지만 무엇이 되었든, 그가 배운 지식과 경험을 잘 살려서 언젠가 어릴 적 그 꿈을 꼭 이루기를 진심으로 바란다.\n- 전설의 교관 루카 룬티의 회고록 <기억되지 못한 자들>에서 발췌"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "\"Mr. Catcher! You're finally here! Your name is in the recipient's section, but we all believe that you should come by and verify the package in person... It's now in the unloading area. Yes, the biggest package there! Right next to the facility scale model that Mr. Andre purchased.\" \n\"Can you show me the sender's address and name?\" \n\"Sure. No problem. Let me take a look... Address is somewhere in Seš'qa and the sender is ... Cassandra? Sounds really familiar to me...\" \n\"...Got it. The package is mine.\" \n\"Are ... are you really sure? Routine inspections found that someone has specifically cast anti-tracking Originium Arts upon this thing.\" \n\"Don't worry. The package is really meant for me... My older sister sent it to me. She has a habit of applying protective measures given the nature of her work.\" \n\"Your sister? Wait! I remember... Is she that Cassandra? Cassandra of the Mist? That famous bodyguard who made her name while working for Seš'qa merchants?!\" \n\"Yeah.\" \n\"Fine... I think I know where she's coming from. The 'protective measures' might be necessary, then.\" \n............ \n\"Phewie. Processing is complete. Mr. Catcher, you're free to take this parcel.\" \n\"Can I open it here?\" \n\"Of course you can! In fact, we can also give you delivery support if you need help carrying it.\" \n............ \n\"Wha — What the hell is this?! Is this some type of ... exoskeletal frame?!\" \n\"...Stop, Mr. Catcher! What's that thing you're holding in your hand? Maybe you should only press the button at a more spacious—\" \n(Recorded audio file starts to play) \n\"Ruy, baby, got the prez?\" \n\"Sorry. Too much work is catching up to your sis. I'm afraid I can't celebrate your birthday at your place.\" \n\"Ay, caramba. When I heard our broder said he got an urgent order to head north, I planned to take a few days off but the boss suddenly got us a major order that cuts through the middle of nowhere. I had to do this myself...\" \n\"So I got you the latest civilian-grade U-47 Heavy Exoskeleton for your birthday this year. Hurhur. It's far cooler than the DIY alloy greatsword that broder gave you last time, right?\" \n\"Anyway, people say you got plenty of field missions, so I applied for a 5-year warranty. Wear it when you head out. It'll make Papa and Mama feel safer...\" \n\"You know. Papa and Mama never feared anything except you getting hurt by accident and ending up like last time...\" \n\"So please pay close attention to your health. Don't forget the promise you made to me and our broder. And don't forget what Papa and Mama told you, k?\" \n\"Finally, happy birthday, Ruy. You're the baby broder I am always worried about.\" \n\"Your sister will always keep you in my heart.\" \n(End of recorded audio file) \n\n\"Turns out to be my birthday gift this year... Ugh. Forget it. At least it's better than the Octo-Herbal Tisane Mega Giftpack last year.\"",
+    "zh-TW": "「卡契爾先生！你總算來了！那個包裹的收件者一欄雖然寫了你的名字，但我們一致認為，還是由你親自確認一下比較好……它現在就放在卸貨區——對，最大的那個！就在安德烈先生採購的設備模型旁邊。」\n「可以給我看看寄件人的地址和名字嗎？」\n「噢，沒問題，我找找……地址是『塞什卡』，寄件人是……『卡珊卓』？好耳熟的名字……」\n「……我知道了。確實是寄給我的。」\n「真、真的嗎？但例行檢查的時候，我們發現這個包裹上有專門施放防止追蹤的源石技藝……」\n「別擔心，真的是寄給我的……寄件人是我姐姐，她因為職業關係，習慣做一些這樣的保護措施。」\n「你姐姐？等等，我想起來了……你姐姐不會就是去當塞什卡商人保鏢當出名頭的那個『霧中的卡珊卓』吧？！」\n「嗯。」\n「好吧……我完全理解。的確是必要的『保護措施』。」\n…………\n「呼，那麼相關的流程就走完了，卡契爾先生，現在你可以把這個包裹帶走了。」\n「我能直接在這裡拆開它嗎？」\n「當然可以！如果需要搬運，可以直接找我們幫忙。」\n…………\n「這、這是什麼？！不會是……外骨骼吧？！」\n「……等一下，卡契爾先生，你手上拿的裝置是？不然還是找個空曠的地方再按——」\n（錄音開始播放）\n「親愛的小弟，禮物收到了嗎？」\n「原諒姐姐最近真的是忙得抽不開身，沒辦法去你那邊和你一起過生日了。」\n「唉，原本那天聽大哥說他臨時接到命令要去北方一趟的時候，我就打算提前請幾天假的，誰知道老闆他們突然又接到一筆大單子，選的路還很偏，只能我親自出馬了……」\n「作為補償，我買了這架商會最新推出的民用U-47重型外骨骼給你作為今年的禮物，哼哼，是不是比大哥上次送你那把還要自己拼的合金大劍帥多了？」\n「而且因為聽說你要經常出任務，我還託人幫它辦了五年的維修保養服務，這樣你每次穿著它出門，爸媽也能放心點……」\n「你也知道的，他們兩個一輩子什麼都不怕，就怕你什麼時候不小心受了傷，又變得和那時一樣……」\n「所以務必保重身體，別忘了你當初離家時答應我和你哥的事，別忘了爸媽的囑咐。」\n「最後，生日快樂，我最最放心不下的弟弟。」\n「——老姐不管去到哪裡都會記掛著你的。」\n（錄音播放結束）\n\n「果然是今年的生日禮物……唉……算了，總比去年的八國草藥大禮包好一點。」",
+    "zh-CN": "“卡契尔先生！你总算来了！那个包裹的收件人一栏虽然写了你的名字，但我们一致认为，还是由你亲自确认一下比较好……它现在就放在卸货区——对，最大的那个！就在安德烈先生采购的装置模型旁边。”\n“可以给我看看寄件人的地址和名字吗？”\n“噢，没问题，我找找……地址是‘塞什卡’，寄件人是……‘卡珊卓’？好耳熟的名字……”\n“……我知道了。确实是寄给我的。”\n“真、真的吗？但例行检测的时候，我们发现这个包裹上有专门施放防止追踪的源石技艺……”\n“别担心，真的是寄给我的……寄件人是我姐姐，她因为职业关系，习惯做一些这样的保护措施。”\n“你姐姐？等等，我想起来了……你姐姐不会就是给塞什卡商人当保镖当出名头的那个‘雾中的卡珊卓’吧？！”\n“嗯。”\n“好吧……我完全理解。确实是必要的‘保护措施’。”\n…………\n“呼，那么相关的流程就走完了，卡契尔先生，现在你可以把这个包裹带走了。”\n“我能直接在这里拆开它吗？”\n“当然可以！如果需要搬运，可以直接找我们帮忙。”\n…………\n“这、这是什么？！不会是……外骨骼吧？！”\n“……等一下，卡契尔先生，你手上拿的装置是？不然还是找个空旷的地方再按——”\n（录音开始播放）\n“亲爱的小弟，礼物收到了吗？”\n“原谅姐姐最近实在忙得抽不开身，没法去你那边和你一起过生日了。”\n“唉，原本那天听大哥说他临时接到命令要去北方一趟的时候，我就打算提前请几天假的，谁知道老板他们突然又接到一笔大单子，选的路还特别偏，只能我亲自出马了……”\n“作为补偿，我给你买了这架商会最新推出的民用U-47重型外骨骼作为今年的礼物，哼哼，是不是比大哥上次送你那把还得自己拼的合金大剑帅多了？”\n“而且因为听说你要经常出任务，我还托人给它办了五年的维修保养服务，这样你每次穿着它出门，爸妈也能放心点……”\n“你也知道的，他们俩一辈子什么都不怕，就怕你什么时候不小心受了伤，又变得和那时一样……”\n“所以务必保重身体，别忘了你当初离家时答应我和你哥的事，别忘了爸妈的嘱咐。”\n“最后，生日快乐，我最最放心不下的弟弟。”\n“——老姐不管去到哪里都会记挂着你的。”\n（录音播放结束）\n\n“果然是今年的生日礼物……唉……算了，总比去年的八国草药大礼包好一点。”",
+    "ja": "「キャッチャーさん！やっと来てくれたんですね！あの荷物なんですけど、受取人欄にキャッチャーさんのお名前があって……でも、一度確認したほうがいいだろうってことになったんです。今は荷卸し場にあります――そうそう！あれです、一番大きいやつ！アンドレイさんが買った装置の隣に置いてあります！」\n「差出人の名前と住所、見せてもらえますか？」\n「はい、もちろんです。えっと……これですね。住所は『セシュカ』、差出人は……『カサンドラ』？どこかで聞いたことあるような……」\n「……わかりました。確かに自分宛です。」\n「ほ、本当ですか？実は定例検査のとき、この荷物に追跡防止のアーツがかけられていることがわかったみたいで……」\n「心配いりません。間違いなく、自分宛で……送り主は姉です。職業柄、こういった保護処理を施すのが癖になっているのかと。」\n「お姉さん？ちょっと待ってください……思い出しました！もしかして、お姉さんって、あのセシュカの商人護衛で有名な……『霧のカサンドラ』ですか！？」\n「……はい。」\n「……なるほど。完全に理解しました。それなら、確かに『保護処理』が必要ですね。」\n…………\n「ふぅ……手続きはこれで完了です。キャッチャーさん、荷物はもうお持ち帰りいただけますよ。」\n「ここで開けてもいいですか？」\n「もちろん！もし大きすぎて運ぶのが大変だったら、遠慮なく声をかけてくださいね。」\n…………\n「こ、これは……！？まさか……パワードスーツじゃないですか！？」\n「……ちょ、ちょっと待ってください。キャッチャーさん、今持ってるその装置……せめてもう少し広い場所で――」\n（録音再生開始）\n「可愛い可愛い私の弟……プレゼント、ちゃんと届いた？」\n「最近はね、ちょっと忙しすぎて……そっちに行って一緒に誕生日を過ごすのが難しくなっちゃったの。」\n「まったくもう。兄さんが急に北に派遣されることになったって聞いたときは、数日休みを取って会いに行こうって思ってたのに……本当にタイミングが悪かったわ。ボスたちがまた、おっきい依頼を受けちゃって、しかも結構面倒な道で、結局私が直接行くことになっちゃったの……」\n「だからせめて、気持ちとして――私からの誕生日プレゼント、商会最新モデルの一般用U-47重装パワードスーツを贈るわね。ふふ、兄さんが前に送った組み立て式の合金大剣より、断然カッコいいでしょ？」\n「それに、任務が多いって聞いてるから、知り合いに頼んで5年間のメンテナンスサービスも一緒に契約しといたわ。これを着ていたら、父さんも母さんもきっと安心すると思うから……」\n「わかってる？父さんも母さんも、どんなことにだって動じることなく生きてきた人たちだけど、あなたがまたケガでもして、あのときみたいになったら、それだけは……」\n「だから、くれぐれも身体は大事にしてね。家を出るとき、兄さんや私とした約束も、父さんと母さんの言葉も、忘れないで。」\n「最後に――お誕生日おめでとう。一番大事で、一番心配な弟へ。」\n「……どこにいても、いつだって、あなたのことを想ってるからね。」\n（録音再生完了）\n\n「やはり今年の誕生日プレゼント……ふぅ……まあ、去年の八国薬草特大パックよりはマシです。」",
+    "ko": "\"카치르 씨! 드디어 오셨군요! 소포 받는 사람에 분명 카치르 씨 이름이 적혀 있긴 하지만, 그래도 직접 확인하시는 게 좋을 것 같아서요... 지금 하역 구역에 있습니다. 맞아요, 제일 큰 거요! 안드레 씨가 구매한 장치 모형 바로 옆에 있어요.\"\n\"보낸 사람 주소랑 이름을 좀 볼 수 있을까요?\"\n\"아, 물론이죠. 잠시만요... 주소는 '세쉬카', 보낸 사람은... '카산드라'? 어디서 많이 들어본 이름인데...\"\n\"...알겠습니다. 저한테 온 게 맞네요.\"\n\"정말인가요? 검사할 때 보니까, 소포에 추적 방지용 오리지늄 아츠가 걸려 있는 게 확인됐거든요...\"\n\"걱정 마세요. 정말 저한테 온 거 맞아요... 누나가 보낸 건데, 직업 특성상 이런 보안 조치를 습관적으로 하는 편이라서...\"\n\"누나라고요? 잠깐만요, 설마... 세쉬카 상인들을 호위하면서 유명해진 그 '안개의 카산드라'인가요?!\"\n\"네.\"\n\"그렇군요... 충분히 이해됐습니다. 확실히 '필요한' 보안 조치였군요.\"\n......\n\"휴, 그럼 모든 확인 절차가 끝났습니다. 카치르 씨, 이제 가져가셔도 됩니다.\"\n\"여기서 바로 열어도 될까요?\"\n\"그럼요! 필요하시면 저희가 옮겨드릴 수도 있어요.\"\n......\n\"이, 이건 설마... 외골격 장비?!\"\n\"...잠깐만요, 카치르 씨, 지금 들고 계신 그 장치... 혹시라도 작동시키실 거면 좀 더 넓은 공간에서 하시는 게...\"\n(녹음 재생 시작)\n\"사랑하는 내 동생, 선물 잘 받았니?\"\n\"요즘 누나가 너무 바빠서 직접 생일 축하도 못 해주고, 미안.\"\n\"원래 그날, 큰오빠가 임시 명령 때문에 북쪽으로 간다길래, 나라도 며칠 일찍 휴가 내서 가려고 했는데, 갑자기 사장님이 큰 건을 하나 물어오는 바람에, 그것도 하필 길도 워낙 험해서, 내가 직접 맡을 수밖에 없었어...\"\n\"그래서 미안한 마음에, 올해 생일 선물로 상업연합회에서 막 출시한 민간용 U-47 중형 외골격 하나 샀지. 후후, 지난번 오빠가 준 조립식 합금 대검보다 훨씬 멋지지 않아?\"\n\"게다가 요즘 네가 자주 임무를 나간다고 들어서, 5년짜리 수리 보증 서비스도 따로 넣어 놨어. 이거 입고 다니면, 엄마랑 아빠도 조금은 마음이 놓이실 거야...\"\n\"너도 알잖아. 평생 무서운 거 하나 없는 것처럼 보이는 분들이, 혹시라도 네가 다쳐서... 또 그때처럼 될까 봐 그것만 무서워하시는 거.\"\n\"그러니까 제발 몸조심하고, 집 떠날 때 오빠랑 나한테 했던 약속 잊지 말고, 부모님이 하신 당부도 잊지 말렴...\"\n\"마지막으로 생일 축하해, 내 동생. 항상 걱정되는 우리 동생.\"\n\"...누나는 어디에 있든, 널 사랑하고 있단다.\"\n(녹음 재생 종료)\n\n\n\"역시 올해 생일 선물이었군... 하아... 됐다, 뭐, 작년 '8개국 약초 선물 세트'보단 훨씬 낫네.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "DOCUMENT: A yellowed piece of medical history \nPATIENT NAME: Ruy van Catcher \nAGE: 4 yo \nADMISSION DATE: Aug 15 \nINSTITUTION: Browning Hospital, Free City of Alloycarrot \nATTENDING PHYSICIAN: Raman Harrent \n\nPRESENT ILLNESS: Patient was injured by an accidental Originium device failure 3 hours ago, resulting in minor injuries to the cervical vertebrae. Patient symptoms 1 hour after admission include: dizziness, hyperhidrosis, weakness of the lower limbs, and nausea. Patient also exhibits giddiness and reduced consciousness after onset of symptoms. Tests reveal continuous reduction in muscle strength. Recommend immediate hospitalization and surgical treatment. \n\nDIAGNOSIS: Acute Oripathy with accompanying complications. Continue monitoring. \n\nDOCUMENT: Medical logs from 10 years ago \n\"Young Master Catcher, as your attending physician, I believe I am obliged to give you these reminders. Conclusions based on our current medical monitoring tell us that your Oripathy is now under control. However, your physical strength and fortitude are now far below average. You might need to spend quite a bit of time in bed. I'll also advise against getting off bed or moving around. Any action that unnecessarily stresses your body might endanger your life... I hope you can pay attention to that, you and your family.\" \n\nDOCUMENT: Medical logs from 6 years ago \n\"Once again I must emphasize, Young Master... Okay. Perhaps you prefer it that I address you as Mr. Catcher. Well then, Mr. Catcher, though there is no sign that your sickness has worsened, your physical exercises have far exceeded the levels I've recommended for your case. It is with my strongest advice that you attend at least 3 rounds of full physical examinations and my personal inquiries at the hospital in the coming months. And ... if you decide to persist in rehabilitative exercises of such excessive nature, please make sure you do so in the presence of a family member or professional caretaker within ten yards of yourself. I am also prescribing you another list of medication. But also keep in mind that given the state of your health, even the most effective pharmaceutical products would have limited use... \n\nDOCUMENT: Medical logs from 2 years ago \n\"Okay. I am now forced to admit there are certain things ... certain accidents in the world that go against medical norms. Mr. Catcher, it is by 'miracle' ... but also primarily your personal force of will and determination, that you have molded your body to its current standards... I did not expect to see a second case of such phenomenal and dramatic recovery as yours. Of course, as your attending physician, I still hope you'll come in for your semiannual examinations, just to be on the safe side.\"",
+    "zh-TW": "【一份泛黃的病歷】\n患者姓名：魯伊·范·卡契爾\n患者年齡：4歲\n就診時間：8月15日\n就診醫院：合金蘿蔔自由市布朗寧醫院\n主治醫師：拉曼·哈倫特\n\n現病史：患者三小時前因不慎捲入一場源石裝置失控事故，導致後頸脊椎受到輕微創傷。就診一小時後，出現暈眩、盜汗、下肢力量不足、嘔吐等症狀。發病以來，患者精神較差，檢查表明其肌群力量持續下降，建議立即入院並進行手術治療。\n\n診斷結果：確診為急性礦石病，並伴有相關併發症，待後續觀察。\n\n【一段十年前的醫療紀錄存檔】\n「卡契爾小先生，作為你的主治醫師，我想我有義務提醒你，雖然以目前醫療觀察的結論來說，你身上的礦石病已得到了控制，但相比普通人，你的身體素質已遠低於平均水準。除了需要長期臥床，最好也儘量不要下床行動，任何對身體造成負擔的行為都可能會危及你的生命……我希望你和你的家人都時刻注意。」\n\n【一段六年前的醫療紀錄存檔】\n「我需要再次強調，卡契爾小——好吧，看起來你更希望我用『先生』稱呼你，總之，你的病情雖然並未因此惡化，但這種運動量還是已經遠遠超出我給你提供的參考值了。我非常建議你在接下來幾個月裡，至少來醫院進行三次全身體檢，並接受我本人的問談。還有……如果你繼續堅持這樣超標的康復訓練，那麼務必保證十公尺內有家人或是專業護工的看護。我會根據你目前的情況再開一份藥品清單，但請記住，在你這樣的身體狀況下，即使是最高效的藥物，能發揮的作用依舊是有限的……」\n\n【一段兩年前的醫療紀錄存檔】\n「好吧，我想我必須承認，這個世界上的確存在只靠醫學常識難以解釋的……一些意外狀況。卡契爾先生，你能將自己的身體鍛鍊到現今的程度，我想除了所謂的『奇蹟』，或許更多是因為你本人的意志與毅力……我不認為有生之年我還能見證第二個像你這樣打破了常理的患者。當然，基於醫生的職責，我仍希望你能每半年進行一次例行檢查，以免意外發生。」",
+    "zh-CN": "【一份泛黄的病历】\n患者姓名：鲁伊·范·卡契尔\n患者年龄：4岁\n就诊时间：8月15日\n就诊医院：合金萝卜自由市布朗宁医院\n主治医师：拉曼·哈伦特\n\n现病史：患者三小时前因不慎卷入一场源石装置失控事故，导致后颈脊椎受到轻微创伤。就诊一小时后，出现眩晕、盗汗、下肢力量不足、呕吐等症状。发病以来，患者精神较差，检测表明其肌群力量持续下降，建议立即入院并进行手术治疗。\n\n诊断结果：确诊为急性矿石病，并伴有相关并发症，待后续观察。\n\n【一段十年前的医疗记录存档】\n“卡契尔小先生，作为你的主治医师，我想我有义务提醒你，虽然以当前医疗观察的结论来说，你身上的矿石病已得到了控制，但相比普通人，你的身体素质已远低于平均水平。除了需要长期卧床，最好也尽量不要下床行动，任何对身体造成负担的行为都可能会危及你的生命……我希望你和你的家人都时刻注意。”\n\n【一段六年前的医疗记录存档】\n“我需要再次强调，卡契尔小——好吧，看起来你更希望我用‘先生’称呼你，总之，你的病情虽然并未因此恶化，但这种运动量还是已经远远超出我给你提供的参考值了。我非常建议你在接下来几个月里，至少来医院进行三次全身体检，并接受我本人的问询。还有……如果你继续坚持这样超标的康复训练，那么务必保证十米内有家人或是专业护工的看护。我会根据你目前的情况再开一份药品清单，但请记住，在你这样的身体状况下，即使是最高效的药物，能发挥的作用依旧是有限的……”\n\n【一段两年前的医疗记录存档】\n“好吧，我想我必须承认，这个世界上确实存在只靠医学常识难以解释的……一些意外状况。卡契尔先生，你能将自己的身体锻炼到现今的水平，我想除了所谓的‘奇迹’，或许更多是因为你本人的意志与毅力……我不认为有生之年我还能见证第二个像你这样打破了常理的患者。当然，基于医生的职责，我仍希望你能每半年进行一次例行检查，以免意外发生。”",
+    "ja": "【黄ばんだカルテ】\n患者名：ルイ・フォン・キャッチャー\n年齢：4歳\n診察日：8月15日\n診療機関：メタルキャロット・ブローニング病院\n主治医：ラマン・ハレント\n\n現病歴：患者は約3時間前、源石装置の暴走事故に巻き込まれ、後頸部の脊椎に軽度の外傷を負った。受診後1時間以内に、めまい、冷や汗、下肢筋力低下、嘔吐などの症状が現れた。発症以降、意識レベルは低下傾向。筋力の低下も持続している。緊急入院の上、外科的処置が推奨される。\n\n診断結果：急性鉱石病と診断。合併症の所見も認められ、経過観察の必要がある。\n\n【10年前の医療記録】\n「キャッチャーくん。主治医として、はっきりお伝えしたほうが良いと思いました。医療観察の結果、鉱石病の進行自体は今のところ落ち着いています。ですが、あなたの身体機能はすでに平均を大幅に下回っています。無理に動けば身体に負担がかかり、あなたの命に関わる可能性があるのです。なるべくベッドから離れず、安静を第一に考えてください……ご家族にも、そしてあなた自身にも、この状況をきちんと理解していただきたいと思います。」\n\n【6年前の医療記録】\n「繰り返しになりますが、キャッチャーく――いや、失礼。どうやら『さん』と呼んだほうがいいですね。とにかく、現時点で病状が悪化していないのは幸いです。ただし、あなたのトレーニング量は、私が提示した基準値を大幅に上回っています。今後数カ月のあいだに、少なくとも3回、こちらで人間ドックと私の診察を受けてください。それと……このまま過剰なリハビリを続けるつもりなら、必ずご家族か専門の介護士が10メートル以内にいる状態で行うようにしてください。現在のあなたの状態を踏まえて、薬の処方せんをもう1部、追加で出します。ですが、肝に銘じておいてください。この身体では、どれだけ効き目のある薬を使ったとしても、できることに限界があるのだと……」\n\n【2年前の医療記録】\n「……そうですね。世の中には確かに、医学の常識だけでは説明できない現象が存在します。キャッチャーさん、あなたが今……自分の身体をこの状態にまで仕上げられたのは、いわゆる『奇跡』と呼ばれること以上に、あなた自身の強い意志と努力の要素が大きいでしょう。正直、私の医師としてのキャリアの中で、あなたのような『常識を覆す』患者に出会うことは、おそらくこれが最初で最後だと思います。また、あなたの主治医としてこれだけ言わせてください。たとえ今は順調だったとしても、半年に一度は必ず定期検査を受けてください。」",
+    "ko": "[누렇게 바랜 병력 기록]\n환자 이름: 루이 판 카치르\n환자 나이: 4세\n진료 일자: 8월 15일\n진료 병원: 합금 무성 자유도시 브라우닝 병원\n주치의: 라만 하렌트\n\n현 병력: 환자는 3시간 전 오리지늄 장치 폭주 사고에 휘말려 후경부 척추에 경미한 외상을 입었음. 진료 1시간 후 어지럼증, 식은땀, 하지 근력 저하, 구토 등의 증상이 나타남. 발병 이후 환자의 정신 상태가 좋지 않으며, 검사 결과 근육군 근력이 지속적으로 저하되고 있음. 즉시 입원 및 수술 치료를 권고함.\n\n진단 결과: 급성 광석병 확진. 관련 합병증이 동반된 것으로 보이며, 추후 경과 관찰 필요.\n\n[10년 전 의료 기록 보관본]\n\"카치르 군. 담당 주치의로서 분명히 말씀드려야겠군요. 현재 의료 관찰 결과, 카치르 군의 광석병은 이미 통제되고 있지만 신체 능력은 일반인과 비교하면 훨씬 떨어진 상태입니다. 장기적으로는 침상 요양이 필요하고, 가급적 침대에서 내려오지 않는 편이 좋습니다. 조금이라도 신체에 부담이 가는 행동은 생명을 위협할 수 있습니다... 본인과 가족 모두가 항상 이 점을 명심해야 합니다.\"\n\n[6년 전 의료 기록 보관본]\n\"다시 한번 강조하겠습니다. 카치르 군... 좋습니다. '카치르 씨'로 부르는 걸 더 선호하는 것 같군요. 어쨌든, 다행히 병세가 악화되진 않았지만, 현재 카치르 씨의 운동량은 제가 권장한 수준을 훨씬 초과하고 있습니다. 앞으로 몇 달 동안은 최소 세 차례 이상 정기 전신 검진과 저와의 면담을 진행해야 합니다. 또한... 이렇게 과도한 재활 훈련을 계속하려면, 반드시 10미터 이내에 가족이나 전문 간병인이 함께해야 합니다. 현재 상태에 맞는 약을 처방해 드리겠지만, 명심하세요. 지금의 몸 상태에선 아무리 효과 좋은 약이라 해도 그 효력에는 한계가 있습니다.\"\n\n[2년 전 의료 기록 보관본]\n\"...좋습니다. 이제는 인정해야겠군요. 세상에는 의학적 상식만으로는 설명되지 않는... 그런 특별한 사례들이 존재한다는 것을요. 카치르 씨, 몸을 현재 수준까지 스스로 단련해낸 건 '기적'이라는 말 외에도, 아마 본인의 의지와 끈질긴 노력 덕분이겠지요. 제 평생 다시는 당신처럼 상식을 뒤엎은 환자를 또 볼 수 없을 것 같습니다. 물론 의사로서 말씀드리자면, 만일의 사태를 대비해서 앞으로도 6개월마다 한 번씩은 정기 검진을 꼭 받으시길 바랍니다.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0020_meurs_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Hmm? A new mission?",
+    "zh-TW": "嗯？有新任務？",
+    "zh-CN": "嗯？有新任务？",
+    "ja": "はい、新しい任務でしょうか？",
+    "ko": "네? 새로운 임무입니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "I am ready to go.",
+    "zh-TW": "我已準備就緒。",
+    "zh-CN": "我已准备就绪。",
+    "ja": "準備ができました。",
+    "ko": "모두 준비됐습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "If you need cover and logistics, you can leave them to me.",
+    "zh-TW": "任何與掩護、後勤有關的任務，都可以交給我。",
+    "zh-CN": "任何与掩护、后勤有关的任务，都可以交给我。",
+    "ja": "援護や後方支援に関する任務は、自分に任せてください。",
+    "ko": "엄호나 지원과 관련된 임무라면 언제든지 저한테 맡겨주세요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Let's hope this mission is decently planned and involves less risks.",
+    "zh-TW": "希望這次任務的過程也能少一點風險，多一點穩妥。",
+    "zh-CN": "希望这次任务的过程也能少一点风险，多一点稳妥。",
+    "ja": "今回の任務もできる限り安全に、無事に終わることを願います。",
+    "ko": "조금 더 안전하고, 위험하지 않은 임무가 됐으면 좋겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Practical and versatile. It'll see us through assault operations in various scenarios.",
+    "zh-TW": "泛用性和實用性都不錯，能應對不少場合的突襲。",
+    "zh-CN": "泛用性和实用性都不错，能应对不少场合的突袭。",
+    "ja": "汎用性も実用性も高く、様々な状況で使えそうです。",
+    "ko": "범용성도 좋고, 실용성도 나쁘지 않네요. 다양한 상황에서 더 잘 대처할 수 있을 것 같습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "Standardized gear... We only read about them in boot camp textbooks... The real thing is better machined than I expected.",
+    "zh-TW": "這種制式的裝備我只在訓練營的教材裡看過……嗯，實物比想像中更精良。",
+    "zh-CN": "这种制式的装备我只在训练营的教材里见过……嗯，实物比想象中更精良。",
+    "ja": "制式装備は訓練所の教材でしか見たことがありませんでした。実物は予想以上に精巧ですね。",
+    "ko": "이런 제식 장비는 훈련소의 교재에서만 봤었는데... 음, 실물은 상상보다 훨씬 더 정교하군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "I would usually prepare extra contingency plans. They ... always come in handy.",
+    "zh-TW": "通常情況下，我會準備額外的緊急方案……多數時候都用得上。",
+    "zh-CN": "通常情况下，我会准备额外的应急预案……多数时候都用得上。",
+    "ja": "念の為、いつも緊急対応策を用意していますが……大抵、使うことになります。",
+    "ko": "전 추가적인 대응 방안도 준비하는 편입니다. 어지간하면 다 사용하게 되더군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "O ... kay. There! I've jotted down all the keypoints... The Captain shall receive my summary on her desk.",
+    "zh-TW": "嗯，需要注意的點我都記下了……之後我會再傳一份總結報告給隊長的。",
+    "zh-CN": "嗯，需要注意的点我都记下了……之后我会给队长再发一份总结报告的。",
+    "ja": "はい、要点は全部記録しました……整理後、隊長に報告をします。",
+    "ko": "음, 주의해야 할 점은 다 메모해 놓았습니다. 이따 보고서 작성이 끝나면 팀장님께도 같이 제출하도록 하겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Thank you. You shall have my best performance in our future missions.",
+    "zh-TW": "謝謝，今後的任務我也將盡力而為。",
+    "zh-CN": "谢谢，今后的任务我也将尽力而为。",
+    "ja": "ありがとうございます。今後も全力を尽くします。",
+    "ko": "감사합니다. 앞으로의 임무에서도 최선을 다하겠습니다."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0020_meurs_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "You can now give me the tougher assignments. I believe I can now see them through.",
+    "zh-TW": "下次請將更棘手的任務交給我吧，現在的我想必可以勝任。",
+    "zh-CN": "下次请将更棘手的任务交给我吧，现在的我想必可以胜任。",
+    "ja": "次はもっと厳しい任務でも任せてください。必ず、やり遂げてみせます。",
+    "ko": "다음에는 더 어려운 임무를 주셨으면 좋겠습니다. 지금의 저라면 충분히 완수할 수 있을 거라 생각합니다."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0020_meurs_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Really appreciate your approval, Endmin. In return, I have completed mission prepwork for the ... next ninety days. You may review them at any time.",
+    "zh-TW": "管理員，為了感謝您的認可，我已經做完了未來三個月的任務準備，隨時可以驗收。",
+    "zh-CN": "管理员，为了感谢您的认可，我已经做完了未来三个月的任务准备，随时可以验收。",
+    "ja": "管理人。認めて頂いたことに応えたく、以降3カ月分の任務に関する準備を終わらせました。ご確認ください。",
+    "ko": "인정해 주셔서 감사합니다. 관리자님, 전 삼 개월간 해야 할 임무 준비도 전부 다 해놨습니다. 원하시면 언제든지 와서 확인하셔도 좋습니다."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0020_meurs_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "I sometimes think about what might've happened if I went along with my family's wishes. Perhaps I'd be living a different life. One that's simpler yet more comfortable... But I'd made up my mind when I took the sword and left my home that morning. I do not intend to look back.",
+    "zh-TW": "有時候我也會想，如果當初沒有違背家人的意願，恐怕會過上比現在平淡不少也安逸不少的生活……只是那個早上，當我下定決心拿起這把劍走出家門，我便不打算回頭了。",
+    "zh-CN": "有时候我也会想，如果当初没有违背家人的意愿，恐怕会过上比现在平淡不少也安逸不少的生活……只是那个早上，当我下定决心拿起这把剑走出家门，我便不打算回头了。",
+    "ja": "時々思うのです。あのとき、家族の願いに従っていたなら――おそらく今よりずっと、穏やかで安定した生活を送っていたと……でもあの朝、剣を手に家を出た瞬間から、もう振り返らないと決めました。",
+    "ko": "그때 제가 가족이 저한테 바랐던 삶을 살기로 선택했다면, 지금보다 훨씬 평온한 삶을 살진 않았을지 생각할 때가 있습니다... 하지만 이 검을 들고 집을 떠났던 그날 아침, 전 다시는 뒤를 돌아보지 않겠다고 결심했습니다."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0020_meurs_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Catcher, Op Team Z7. My role is giving the team cover and logistics support. I specialize in defensive operations and I'm good with the blade... And I hope I'll be an effective addition to your team.",
+    "zh-TW": "Z7行動組卡契爾，主要負責掩護與後勤，比較擅長防衛戰，劍術尚可……但願能幫上各位的忙。",
+    "zh-CN": "Z7行动组卡契尔，主要负责掩护与后勤，比较擅长防卫战，剑术尚可……但愿能帮上各位的忙。",
+    "ja": "行動隊Z7のキャッチャーです。支援を担当します。防衛戦が得意で、剣術も悪くないはずです……皆の力になれたら、嬉しく思います。",
+    "ko": "Z7 작전팀, 카치르, 엄호와 지원을 맡고 있습니다. 방어전의 경험이 많고, 검술도 나쁘지는 않습니다... 앞으로 여러분들한테 도움을 드릴 수 있었으면 좋겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Need defensive cover? I shall give you my best.",
+    "zh-TW": "需要掩護嗎？我會全力以赴的。",
+    "zh-CN": "需要掩护吗？我会全力以赴的。",
+    "ja": "援護が必要ですか？全力でサポートします。",
+    "ko": "엄호가 필요하십니까? 전력을 다하겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "I believe we should be better prepared.",
+    "zh-TW": "我認為最好再多做些準備。",
+    "zh-CN": "我认为最好再多做些准备。",
+    "ja": "個人的には、もう少し準備が必要と思います。",
+    "ko": "조금 더 준비하는 게 좋을 것 같습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Orders received. I've tagged them as my top mission priorities.",
+    "zh-TW": "命令已收到。我會將它視作目前最優先的任務完成的。",
+    "zh-CN": "命令已收到。我会将它视作目前最优先的任务完成的。",
+    "ja": "承知しました。最優先任務として、確実に遂行します。",
+    "ko": "명령받았습니다. 가장 먼저 완수하겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Greetings, Endmin. Is there another assignment?",
+    "zh-TW": "管理員，您好，又有新任務了嗎？",
+    "zh-CN": "管理员，您好，又有新任务了吗？",
+    "ja": "管理人、お疲れさまです。また新しい任務でしょうか？",
+    "ko": "관리자님, 안녕하십니까. 또 새로운 임무가 온 겁니까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Endmin, I've compiled ten folders of post-battle summaries for Team Z7. Do you wish to review them?",
+    "zh-TW": "管理員，我又整理了十卷Z7的作戰總結，要看看嗎？",
+    "zh-CN": "管理员，我又整理了十卷Z7的作战总结，要看看吗？",
+    "ja": "管理人、作戦報告を追加で10件まとめておきました。目を通して貰えますか？",
+    "ko": "관리자님, 제가 Z7 작전 보고서를 열 편 더 썼습니다. 한번 확인해 보시겠습니까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0020_meurs_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "You're looking for me, Endmin? Well, I got thirty minutes before five back-to-back sessions of swordfighting... And I'll be free for the rest of the time.",
+    "zh-TW": "管理員？有事找我？嗯，我今天不算忙，就是半小時後需要連上五堂劍術訓練課……剩下的時間都蠻空的。",
+    "zh-CN": "管理员？有事找我？嗯，我今天不算忙，就是半小时后需要连上五堂剑术训练课……剩下的时间都挺空的。",
+    "ja": "管理人？どうしましたか？今日は忙しくはありません。30分後から剣術訓練が5コマ連続で入っているのみで……それ以外は全て空いています。",
+    "ko": "관리자님? 무슨 일이라도 있으십니까? 음, 오늘은 그렇게 바쁘진 않습니다. 삼십 분 있다가 검술 훈련 수업 다섯 개가 연속으로 있는 것만 빼면 말이죠... 나머지 시간은 다 괜찮습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "I have recently reviewed everyone's suggestions and improved my wildlands stew recipe... Feel free to give it a taste if you're curious, Endmin.",
+    "zh-TW": "根據大家的建議，最近我又改良了一版野炊濃湯……管理員，有空你可以來嚐嚐。",
+    "zh-CN": "根据大家的建议，最近我又改良了一版野炊浓汤……管理员，有空你可以来尝尝。",
+    "ja": "皆のアドバイスを参考に、キャンプ用ポタージュのレシピを改良しました。管理人、時間があるときに味見して貰えますか？",
+    "ko": "사람들의 의견을 참고해서, 야외에서 먹을 만한 새로운 요리를 만들어봤습니다... 관리자님도 시간 있으시면 맛보러 오셔도 좋습니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0020_meurs_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Whenever I return to Dijiang, I always get this sense of comfort and relaxation that I could hardly describe... Antal insists that it was the coziness of the dorm mattresses... Of course, I don't intend to disagree with him.",
+    "zh-TW": "每次回到帝江號，我都覺得有種莫名的安心感……安塔爾堅稱這和宿舍床鋪的舒適程度離不開關係，當然，這點我不打算反駁。",
+    "zh-CN": "每次回到帝江号，我都觉得有种莫名的安心感……安塔尔坚称这和宿舍床铺的舒适程度脱不开关系，当然，这点我不打算反驳。",
+    "ja": "帝江号に戻るたび、なんだか心が落ち着きます。アンタルは寮のベッドが快適だからだと言っています……もちろん、その点については自分も異論はありませんが。",
+    "ko": "제강호로 돌아올 때마다 왠지 모를 안정감이 느껴집니다. 안탈 씨는 숙소의 침대가 편해서 그런 거라고 말씀하시던데... 아, 물론 그게 전혀 아니라고는 생각하지 않습니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0020_meurs_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "I have complete faith in my teammates during missions. Yet, I have zero faith that they will heed the Captain's orders and get proper R&R afterwards. One would stay up all night at the library, and another would be pulling pranks on raw recruits at the game room... Such nonsense can only end when I personally \"escort\" them back to their cabins.",
+    "zh-TW": "在任務中，我會無條件信任Z7的每個隊友。但要我相信他們會聽隊長的話回來乖乖休息？那還是算了。大概不是在圖書室廢寢忘食，就是在娛樂室捉弄新人……必須要我親自「送」他們回宿舍才行。",
+    "zh-CN": "在任务中，我会无条件信任Z7的每个队友。但要我相信他们会听队长的话回来乖乖休息？那还是算了。估计不是在图书室废寝忘食，就是在娱乐室捉弄新人……必须要我亲自“送”他们回宿舍才行。",
+    "ja": "任務中はZ7の全員を信頼しています。でも、隊長の言うことを聞いて大人しく休むかと言われると……いえ、ありえません。どうせ図書室に籠って本を読んでいるか、ラウンジで新人をからかっているか……念の為、自分が寮に「送って」あげないと。",
+    "ko": "임무를 수행할 때, 전 Z7의 팀원을 무조건 신뢰합니다. 하지만 팀원들이 팀장님의 말씀을 듣고 순순히 숙소로 돌아가서 쉰다는 말을 저한테 믿으라고 한다면... 그건 믿을 수가 없습니다. 분명 도서실에서 놀고 있거나, 오락실에서 초보자를 괴롭히고 있겠죠... 꼭 제가 '찾아가야지'만 숙소로 돌아가더라고요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0020_meurs_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "I paid my family a visit two days ago. They don't really like my career choice but I told them what Team Z7 was really like. They didn't say much to that, except giving me a few rucksacks of local specialties. Z7 would need six months to go through all that... Endmin, I think you should get half a sack as well.",
+    "zh-TW": "前兩天我回了趟老家，雖然家人依然不太能接受我現在的工作，但我還是跟他們講了不少在Z7的經歷。他們沒多說什麼，只是臨走前多塞給我好幾袋特產，大概是夠Z7全員吃半年的量……管理員，晚點我也分你半袋吧。",
+    "zh-CN": "前两天我回了趟老家，虽然家里人依然不太能接受我现在的工作，但我还是跟他们讲了不少在Z7的经历。他们没多说什么，只是临走前多给我塞了好几袋特产，大概是够Z7全员吃半年的量……管理员，回头我也分你半袋吧。",
+    "ja": "先日、久しぶりに地元に帰りました。今でも家族は仕事について受け入れてくれませんが……Z7のことを色々と話すと、何も言わずにたくさんのお土産を、しかも皆で食べても半年はなくならないほどの量をくれました……管理人にも、少しお裾分けします。",
+    "ko": "며칠 전에 고향에 갔다 왔습니다. 아직도 가족들이 지금 하는 업무를 완전히 받아들이진 않았습니다만, 그래도 전 계속 Z7의 이야기를 많이 해줬습니다. 별다른 말을 하진 않았지만, 떠날 때가 되니 Z7의 모든 팀원이 반년은 먹을 수 있을 정도의 특산품을 챙겨주더군요... 이따 관리자님한테도 나눠드리겠습니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0020_meurs_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Life is very fulfilling. I actually feel useful and everyone actually appreciates it... That's what being an Endfielder means to me. There are occasions where I get too exhausted to sleep, but I take that in stride. It only means that I've earned someone's approval.",
+    "zh-TW": "每天都很充實，每天都感覺自己被很多人需要著……這些應該是來到終末地後我最大的感受。即使經常會累到睡不著，我也不認為是什麼壞事，因為對我而言，這也算一種「認可」。",
+    "zh-CN": "每天都很充实，每天都感觉自己被很多人需要着……这些应该是来到终末地后我最大的感受。即使时不时会累到睡不着，我也不认为是什么坏事，因为对我而言，这也算一种“认可”。",
+    "ja": "毎日充実していて、多くの人に必要とされている――エンドフィールドに来てから一番強く感じていることです。疲れて眠れない夜もありますが、悪く思っていません。自分にとってはそれが「認められた証」ですから。",
+    "ko": "하루하루가 보람차고, 항상 절 필요로 하는 사람들로 가득하다는 느낌을 받습니다... 엔드필드에 와서 가장 크게 느낀 부분이 아닐까 생각합니다. 가끔 잠이 안 올 정도로 힘들 때가 있습니다만, 그것 또한 저한테는 나쁜 일이 아니거든요. 일종의 '인정'이라고 볼 수 있죠."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0020_meurs_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "It's just some minor gifts, Endmin... But I hope you can accept them.",
+    "zh-TW": "管理員，一點微不足道的慰問品……希望你能收下。",
+    "zh-CN": "管理员，一点微不足道的慰问品……希望你能收下。",
+    "ja": "管理人、差し入れです。大したものではないですが……よかったら、どうぞ。",
+    "ko": "관리자님, 대단한 건 아니지만... 받아주셨으면 좋겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "For me? Thank you so much, Endmin. It shall be secured in a proper safe.",
+    "zh-TW": "是送給我的？謝謝，我會把它放在保險箱裡妥善保管的。",
+    "zh-CN": "是送给我的？谢谢，我会把它放在保险箱里妥善保管的。",
+    "ja": "自分にですか？ありがとうございます。金庫に入れて大切に保管します。",
+    "ko": "저한테 주시는 겁니까? 감사합니다. 꼭 금고에 넣어서 잘 보관하겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Oh, sorry, Endmin! I was thinking how I should prepare for the next mission. Wait! I got a question for you. Which of these do you think is more useful: a handheld welder, antigrav modulator, or Originium dustproof mask? Hmm... I'll just bring everything.",
+    "zh-TW": "……抱歉，管理員，我只是在思考下次任務的準備工作。對了，您覺得手持焊槍、浮力調整器和源石粉塵防護面罩哪個更實用？……嗯，還是全都帶上吧。",
+    "zh-CN": "……抱歉，管理员，我只是在思考下次任务的准备工作。对了，您觉得手持焊枪、浮力调整器和源石粉尘防护面罩哪个更实用？……嗯，还是全都带上吧。",
+    "ja": "……失礼しました。次の任務について少し考え事をしていました。ところで、溶接ガン、浮力調整装置、源石粉塵防護マスク……この中で一番実用性の高いものはどれだと思いますか？……そうですね、念の為全部持って行きます。",
+    "ko": "아, 관리자님이시군요... 죄송합니다, 임무 준비를 하고 있었거든요. 음, 관리자님께서는 휴대용 용접총, 부력 조절기, 그리고 오리지늄 먼지 보호 마스크 중에 뭐가 더 실용적이라고 생각하십니까? 음... 역시 모두 챙겨가는 게 낫겠네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "I was born to a regular family. My parents were soldiers. My brother is a military instructor in the TGCC while my sister is an armed escort working for the Seš'qamam. I was the youngest child and they kept me protected. Everyone wanted to give me a peaceful life instead of following their footsteps and joining the military... But family protection doesn't last forever, especially in Talos-II.",
+    "zh-TW": "我出生在一個很平凡的五口之家，父母都是軍人，大哥是商會部隊裡的教官，二姐則是受僱於塞什卡的保鏢。他們一直在保護我，一直不願意我走上與他們相似的路，希望我能過上平穩的生活……然而在塔衛二，誰又能一生都活在家人的保護傘裡呢？",
+    "zh-CN": "我出生在一个很平凡的五口之家，父母都是军人，大哥是商会部队里的教官，二姐则是受雇于塞什卡的保镖。他们一直在保护我，一直不愿意我走上与他们相似的路，希望我能过上平稳的生活……然而在塔卫二，谁又能一生都活在家人的保护伞里呢？",
+    "ja": "自分はごく普通の5人家族で育ちました。両親は軍人、兄は商会の部隊教官、姉はセシュカの護衛をしています。家族は同じ道を歩ませたくない、平穏に暮らしてほしいと守ってくれましたが……でも、タロⅡでは一生家族に守られて生きるなど、誰にもできないことです。",
+    "ko": "전 아주 평범한 가정에서 태어났습니다. 절 포함해서 모두 다섯 명인데, 부모님 두 분은 군인이셨고, 형은 상업연합회 부대에서 교관을 맡고 있었죠. 누나는 세쉬카에서 경호원으로 일하고 있었고요. 가족들은 항상 절 지켜줬습니다. 자기들처럼 힘들고 어려운 길은 안 걸었으면 좋겠다면서 저만큼은 평온한 삶을 살아가길 바랐죠. 하지만... 탈로스 II에서 정말 아무것도 모른 채 가족들의 보호 속에서 살아갈 수 있는 사람이 있을 거라 생각하십니까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0020_meurs_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "I don't miss my childhood before I turned nine. It made me dislike the smell of iodine and peroxide... Back then, I couldn't even lift a water canteen. The doctors also kept telling my family to keep me inside the house. I was only allowed to have fun outdoors in the rarest of occasions... Even now I could still remember my recovery and my first walk in broad daylight. It felt as though I was brought back to life.",
+    "zh-TW": "我不太會懷念九歲之前的時光，就像我至今也對消毒水的味道心存偏見……那時的我連稍微重一點的水壺都拿不動，甚至不止一次被醫生禁止戶外活動，連曬太陽都是難得的奢侈體驗……直到現在我都記得，痊癒後我第一次單獨走到陽光下，那種彷彿整個人重新活過來的感覺。",
+    "zh-CN": "我不太会怀念九岁之前的时光，就像我至今也对消毒水的味道心存偏见……那时的我连稍微重一点的水壶都拿不动，甚至不止一次被医生禁止户外活动，连晒太阳都是难得的奢侈体验……直到现在我都记得，痊愈后我第一次单独走到阳光下，那种仿佛整个人重新活过来的感觉。",
+    "ja": "9歳までのことは、正直あまり振り返りたくありません。今でも、消毒液の匂いは苦手です。やかんを持つことも難しく、外出も禁止され、陽の光を浴びることも贅沢な日々……だからこそ、今でもはっきり覚えています。初めて1人太陽の下を歩いた、あの生き返ったような感覚を……",
+    "ko": "전 아홉 살 이전으로는 돌아가고 싶지 않습니다. 지금 제가 소독약 냄새에는 트라우마가 있는 것처럼 말이죠... 그때 전 물병이 조금만 무거워져도 들지 못했습니다. 의사 선생님은 밖에 나가는 것 자체를 금지하셨죠. 햇빛을 보러 간다는 건, 저한테 상당한 사치였습니다... 그래서 그런지, 완치되고 나서 혼자 햇빛 아래로 걸어갔던 그 순간이 잊히지 않더군요. 꼭... 새로 태어난 느낌이었습니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0020_meurs_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "Some might find Z7 to be an unimpressive operations team. They're not entirely wrong. Captain Akekuri is a little too young, Fluorite's bite is a little too nasty, while Estella and Antal both need a little more common sense. Nevertheless, I'm more than willing to stay in Z7... In fact, I wouldn't mind being a permanent member of the team.",
+    "zh-TW": "也許在一些人眼裡，Z7並不是個多麼優秀的行動組。我並非不能理解這點，畢竟隊長她太過年輕，螢石又老是得罪人，埃特拉和安塔爾更是一個比一個不正經。但我依然願意待在Z7……嗯，待一輩子也不是不行。",
+    "zh-CN": "也许在一些人眼里，Z7并不是个多么优秀的行动组。我并非不能理解这点，毕竟队长她太过年轻，萤石又老会得罪人，埃特拉和安塔尔更是一个比一个不着调。但我依然愿意待在Z7……嗯，待一辈子也不是不行。",
+    "ja": "Z7を優秀な隊だと思わない人もいると思いますし、それは理解できます。隊長は若く、フローライトは怒られることばかりして、エステーラとアンタルは……マイペースです。それでも自分はずっとZ7に……できることなら、一生ここにいたいです。",
+    "ko": "어떤 사람들한테는 Z7이 그렇게 우수한 작전팀으로 보이지 않을 수도 있겠죠. 저도 이해하고 있습니다. 어쨌든 팀장님은 나이가 아직 어리고, 플루라이트 씨는 괜히 사람들을 불쾌하게 만들기도 하는 데다 에스텔라 씨랑 안탈 씨는 상식을 벗어나는 말이나 행동을 하니까요. 그래도 전 Z7에 있는 게 좋습니다... 음, 평생을 함께한다고 해도 나쁘지 않을 것 같다는 생각이 들 정도로요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0020_meurs_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "When I first joined Endfield, I doubted if I had what it takes to earn the trust of my betters... But the whole of Team Z7 and even you, Endmin, always made this clear to me — I could achieve far more than I believed and meet everyone's expectations.",
+    "zh-TW": "剛來終末地的時候，我一度很懷疑自己是否真的具備足以被他人信任的能力……但無論是Z7的各位，還是你，管理員，你們總會讓我更清晰地意識到——我能回應的期待，遠比我以為的多得多。",
+    "zh-CN": "刚来终末地的时候，我一度很怀疑自己是否真的具备足以被他人信任的能力……但无论是Z7的各位，还是你，管理员，你们总会让我更清晰地意识到——我能回应的期待，远比我以为的多得多。",
+    "ja": "エンドフィールドに来たばかりのとき、皆に信頼してもらえる力があるか何度も疑いました。でも、Z7の皆と管理人のおかげで……思っていたよりもずっと、期待に応えられる力があると気づくことができました。",
+    "ko": "처음 엔드필드에 왔을 때는 제가 정말 다른 사람한테 신뢰받을 만한 능력이 있는지 의심했었습니다... 하지만 Z7의 팀원들이든, 관리자님이든... 항상 저한테 확실한 믿음을 주셨거든요. '저 자신이 생각하는 것보다, 전 더 많은 기대에 보답할 수 있는 존재'라는 믿음을요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0020_meurs_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "Boot camp was pretty standard. Just some basic combat courses with a bit of field survival added to the mix. Hardly anyone expects boot camp to teach you things that are actually useful in real battles... I might be the exception, as I spent an entire drill session debating with my instructor how his demonstrations deviated from the standard positions depicted in the manual. What happened next? Well, I convinced him before the third drill session began.",
+    "zh-TW": "訓練營教的東西其實都大同小異，一些作戰常識再加一點戶外求生技巧，差不多就是全部了。不過很少會有人指望在裡面學到多少實戰用得上的知識吧……我可能是個例外，所以會在演練課上為教官姿勢和理論標準的差異跟他辯論了一堂課。後來？後來他被我說服了，在第三堂課開講前。",
+    "zh-CN": "训练营教的东西其实都大同小异，一些作战常识再加一点户外求生技巧，差不多就是全部了。不过很少会有人指望在里面学到多少实战用得上的知识吧……我可能是个例外，所以会在演练课上为教官姿势和理论标准的差异跟他辩论了一堂课。后来？后来他被我说服了，在第三堂课开讲前。",
+    "ja": "訓練所で学ぶ内容はどこも同じです。作戦の知識、野外での生存スキル……実践で役立つ知識が身につくなんて期待している人はいません。でも、自分は違います。模擬訓練の授業で教官の構えが理論と異なることについて1時間ほど議論し――結果ですか？直してもらいました。次の授業が始まる前までに。",
+    "ko": "훈련소에서 가르치는 건 사실 다 비슷합니다. 작전 상식에 야외 생존 기술 몇 가지 더한 게 전부죠. 사실 거기서 실전에 쓸만한 기술이 있을 거라고 기대하는 사람은 거의 없을 겁니다... 물론, 전 예외였던 것 같지만요. 전술 훈련 수업에서 교관님의 자세와 이론적 기준의 차이에 대해 수업 시간 내내 논쟁한 적이 있습니다. 그래서 어떻게 됐냐고요? 결국 세 번째 수업이 시작되기 전, 교관님께서 제 말에 수긍하셨습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "I'm actually the least talented soldier of the family. My physical strength and combat technique fall far behind the family norm... Even then, I never gave up and simply devoted myself to greater training — I woke up two hours before my brother and trained thrice as hard as my sister... And I've kept at it till this very day.",
+    "zh-TW": "在我們家，我其實是最沒有作戰天賦的那個，無論是體能還是作戰技巧都遠遠遜於我的家人們……但即便如此，我也從沒想過放棄，而是選擇付出更多的努力——每天比大哥早起兩小時，將訓練量提到二姐的三倍……就這樣，一步步堅持到了今天。",
+    "zh-CN": "在我们家，我其实是最没有作战天赋的那个，无论是体能还是作战技巧都远远逊于我的家人们……但即便如此，我也从没想过放弃，而是选择付出更多的努力——每天比大哥早起两小时，将训练量提到二姐的三倍……就这样，一步步坚持到了今天。",
+    "ja": "自分は家族で最も戦闘の才能がありませんでした。体力も技術も、誰にも及ばず……それでも、諦めたことは一度もありません。ただひたすら努力することを選んで、兄より2時間早く起き、姉の3倍訓練をして……その積み重ねが、今日の自分です。",
+    "ko": "전 사실 집에서 가장 작전 재능이 없습니다. 신체 능력이든, 작전 기술이든, 가족들한테는 비교도 안 될 정도입니다... 하지만 그렇다고 단 한 번도 포기하겠다는 생각은 한 적 없습니다. 오히려 더 노력해야겠다고 생각했죠. 매일 형보다 두 시간 일찍 일어나고, 누나보다 세 배 많은 훈련량을 소화하고... 이렇게 한 걸음씩 내디딘 발걸음이 지금의 저를 만들었습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Why did I start learning how to cook? I don't really have a reason. When I first joined Z7, I tried the food prepared by other teammates. On day two, I asked Instructor Lil' Dodge for help. And this was how I received several weeks of Training for Ensuring Survival in the Wilderness.",
+    "zh-TW": "我學習廚藝的契機？嗯，其實沒有什麼特別的理由，就是剛加入Z7的時候，我有幸品嚐過其他隊員做的菜，然後第二天就去請教了小道奇教官，接受了數週的野戰生存保障訓練。",
+    "zh-CN": "我学习厨艺的契机？唔，其实没有什么特别的理由，就是刚加入Z7的时候，我有幸品尝过其他队员做的菜，然后第二天就去请教了小道奇教官，接受了数周的野战生存保障训练。",
+    "ja": "料理を始めたきっかけですか？そうですね、大した理由はありませんが……Z7に加入したばかりの頃、他の隊員が作った料理を食べて……次の日、すぐダッジ教官に願い出て野外生存保障訓練を受けました。",
+    "ko": "요리를 배우게 된 계기 말씀입니까? 음, 사실 특별한 이유가 있었던 건 아닙니다. 그러니까... Z7에 막 합류했을 때, 다른 팀원이 만든 음식을 먹어볼 기회가 있었거든요. 그리고 다음 날 바로 도치 교관님께 찾아가서 몇 주 동안 야전 생존 훈련을 받았죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "I interned with a few PMCs before joining Endfield but all of them wanted me to be more \"professional\"... In layman's terms, they wanted me to take the pay and stop asking questions. They made their point and were reasonable about it. Unfortunately, I couldn't bring myself to comply.",
+    "zh-TW": "在來終末地之前，我也試過在一些僱傭兵公司實習，但每家或多或少都希望我更「專業」一點……直白點說就是，「只拿錢辦事，少問為什麼」。我承認這不是什麼不可理喻的要求，只是我可能這輩子都做不到吧。",
+    "zh-CN": "在来终末地之前，我也试过在一些雇佣兵公司实习，但每家或多或少都希望我更“专业”一点……直白点说就是，“只拿钱办事，少问为什么”。我承认这不是什么不可理喻的要求，只是我可能这辈子都做不到吧。",
+    "ja": "エンドフィールドに来る前、傭兵学校で研修を受けたことがあります。どこでも「プロ」になってほしい……つまり「金を渡すから黙って働け」と。理解できなくはありません。ですが、自分には一生難しいことだと思います。",
+    "ko": "엔드필드 오기 전, 몇몇 용병 회사에서 인턴을 해본 적이 있습니다. 하지만 대부분 저한테 조금 더 '프로다운' 모습을 보여주길 바라더군요... 그러니까 '돈 받았으면 일만 하면 된다. 왜 인지는 묻지 마라'라는 거겠죠. 사실 이게 어려운 요구는 아니라고 생각합니다만, 전 아마 평생 그렇게는 못 할 것 같네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "I just hope no one gives Antal and friends any more strange ideas for the next assignment. We've already made enough trouble for our Arsenal Engineer this month... Yeah, you guessed right. The Captain has a stack of Feedback Reports she couldn't finish, and they're all sitting in my bunk. Don't worry. If I got no assignments on the following day, I'll just pull an all-nighter and blitz through everything.",
+    "zh-TW": "希望下個任務別再出現讓安塔爾他們蹦出新點子的傢伙，我們這個月給武庫工程師添的麻煩已經夠多了……對，您猜得沒錯，隊長沒來得及寫的那些意見回饋報告現在還堆在我房間裡。不過請放心，我會挑個第二天沒任務的晚上通宵寫完的。",
+    "zh-CN": "希望下个任务别再出现让安塔尔他们蹦出新点子的家伙，我们这个月给武库工程师添的麻烦已经够多了……对，您猜得没错，队长没来得及写的那些意见反馈报告现在还堆在我房间里。不过请放心，我会挑个第二天没任务的晚上通宵写完的。",
+    "ja": "次の任務ではアンタルたちが何か思いついてしまうきっかけが無いと良いですが……今月すでに武庫エンジニアには相当なご迷惑をおかけしました……はい、隊長が未着手のクレーム処理は自分の部屋に積み上がっています。大丈夫です、任務のない日に徹夜で片付けます。",
+    "ko": "다음 임무에서는 안탈 씨한테 이상한 아이디어를 심어주는 사람이 없었으면 좋겠습니다. 이번 달에 무기고 공학자분들께 민폐를 끼친 게 한두 번이 아니거든요... 아, 관리자님이 생각하신 게 맞습니다. 팀장님이 아직 끝내지 못하신 의견 보고서가 지금 제 방까지 쌓여있어요. 하지만 걱정하지 않으셔도 됩니다. 임무가 없는 날을 하루 잡아서 밤을 새워서라도 전부 처리해 놓을 예정입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_about_line01",
+   "title": {
+    "en": "Topic: Akekuri",
+    "zh-TW": "話題：秋栗",
+    "zh-CN": "话题：秋栗",
+    "ja": "アケクリについて",
+    "ko": "아케쿠리에 관하여"
+   },
+   "text": {
+    "en": "We have a responsible Captain who deeply cares for everyone in Z7... but it'd be great if she took a little more care of herself. Even at team gatherings, she always puts others' tastes before her own. *Sigh* Honestly, I wish she'd just admit she loves Higashinese snacks. Then I wouldn't have to keep pretending I made them \"by coincidence.\"",
+    "zh-TW": "隊長是個非常有責任感的人，總是努力照顧我們Z7每個人的感受……只是很多時候，我還是希望她能更在乎自己一點，至少不必在聚餐時勉強配合其他人的口味，這樣我就不用每次都找理由做她喜歡的東國點心了。",
+    "zh-CN": "队长是个非常有责任感的人，总是努力照顾我们Z7每个人的感受……只是很多时候，我还是希望她能更在乎自己一点，至少不必在聚餐时勉强配合其他人的口味，这样我就不用每次都找理由做她喜欢的东国点心了。",
+    "ja": "隊長はとても責任感が強く、Z7の皆を気遣ってくれます……ただ、自分をもっと大切にしてほしいと思います。せめて、食事の時間は無理に皆の好みに合わせなくても……こちらも、隊長の好きな東国のおやつを作る理由を考えなくて済みますから。",
+    "ko": "팀장님은 엄청 책임감이 강한 사람입니다. 항상 Z7 모든 팀원의 감정을 세심하게 챙기려고 노력하죠... 하지만 가끔은 자기 자신한테도 더 신경을 썼으면 좋겠습니다. 최소한 회식할 때는 굳이 남들 입맛에 맞추려 하지 않아도 되니까요. 그럼, 제가 매번 핑계를 대면서 팀장님이 좋아하는 토우고쿠 디저트를 만들 필요도 없어지겠죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_about_line02",
+   "title": {
+    "en": "Topic: Fluorite",
+    "zh-TW": "話題：螢石",
+    "zh-CN": "话题：萤石",
+    "ja": "フローライトについて",
+    "ko": "플루라이트에 관하여"
+   },
+   "text": {
+    "en": "I knew Bander mercs like her. Cunning, avaricious souls who kept to themselves, whose smiles looked scarier than their growls... But Fluorite started discussing techniques for throwing Originium Slugs with Antal... So, I guess we could ... give her some time before getting judgmental.",
+    "zh-TW": "我確實在環帶見過像她這樣的僱傭兵，狡詐、刻薄，也不合群，笑起來比不笑的時候更讓人忌憚……但考慮到她最近都開始和安塔爾大聊源石蟲的投擲技巧了，嗯，或許……應該再觀察一段時間再下判斷？",
+    "zh-CN": "我确实在环带见过像她这样的雇佣兵，狡诈、刻薄，也不合群，笑起来比不笑的时候更让人忌惮……但考虑到她最近都开始和安塔尔大聊源石虫的投掷技巧了，嗯，或许……应该再观察一段时间再下判断？",
+    "ja": "フローライトのような傭兵は文明地帯でよく見ていました。ずる賢く、人付き合いも悪い。笑顔の方が寧ろ怖いような……でも、最近はアンタルとオリジムシの投げ方について盛り上がっていて……もう少し様子を見て、考え直してもいいと思います。",
+    "ko": "전 밴드에서 플루라이트 씨 같은 용병을 만난 적이 있습니다. 교활하고, 까다롭고, 또 단독 행동을 선호하죠. 웃으면 안 웃을 때보다도 더 위험하게 느껴질 정도고요... 근데 요즘은 안탈 씨랑 원석충의 투척 기술에 관한 대화까지 나누고 있다는 걸 생각하면... 음, 어쩌면 조금 더 지켜본 후에 판단하는 게 좋을지도 모르겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_about_line03",
+   "title": {
+    "en": "Topic: Estella",
+    "zh-TW": "話題：埃特拉",
+    "zh-CN": "话题：埃特拉",
+    "ja": "エステーラについて",
+    "ko": "에스텔라에 관하여"
+   },
+   "text": {
+    "en": "I don't know why, but Estella always appears ... shocked whenever she reads my reports. I simply described everything that took place in the mission... and only added a few immature ideas at certain sections... Nothing about my reports should be considered surprising. They're all pretty standard, especially when compared to her ... creative compositions.",
+    "zh-TW": "也不知道是出於什麼原因，埃特拉每次看我寫的報告都會顯得……很震驚。我只是把任務中發生的每件事都記了下來，順便寫了一些不成熟的感想而已……應該沒什麼值得驚訝的。畢竟和她偏好的那些「藝術創作」比起來，我的報告確實平平無奇。",
+    "zh-CN": "也不知道是出于什么原因，埃特拉每次看我写的报告都会显得……很震惊。我只是把任务中发生的每件事都记了下来，顺带写了一些不成熟的感想而已……应该没什么值得惊讶的。毕竟相比她偏好的那些“艺术创作”，我的报告实属平平无奇。",
+    "ja": "理由はわかりませんが、エステーラは自分の報告書を見る度に……驚く顔をします。任務中の出来事を全て記録し、未熟ながらコメントも記載しただけで、特別ではないはずですが……エステーラの好きな「芸術」と比べたら、至って普通の報告書のはずです。",
+    "ko": "왜 그런지 모르겠지만, 에스텔라 씨는 제 보고서를 볼 때마다 굉장히... 놀라는 듯한 반응을 보였습니다. 전 그냥 임무 중에 일어난 모든 일들을 기록하고, 조금 미숙한 감상을 덧붙였을 뿐이거든요... 그렇게 놀랄 만한 일은 아니었을 텐데요. 어쨌든, 에스텔라 씨가 만든 '예술 작품'이랑 비교하면, 제 보고서는 정말 평범한 수준입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_about_line04",
+   "title": {
+    "en": "Topic: Antal",
+    "zh-TW": "話題：安塔爾",
+    "zh-CN": "话题：安塔尔",
+    "ja": "アンタルについて",
+    "ko": "안탈에 관하여"
+   },
+   "text": {
+    "en": "Antal is knowledgeable and happy to answer questions. Problem is, he gets too eager when it comes to answering questions. Estella just casually mentioned: \"Why do long-ears have such long ears?\" Then Antal decided to spend the rest of the day giving us a lecture on ecobiology. It only ended when we got back to Dijiang — And he said he only gave us a summary that left out seventy percent of key contents.",
+    "zh-TW": "安塔爾不僅博學，還總樂於為人解惑。但問題是，他太喜歡為人解惑了。上次埃特拉隨口問了句「長耳獸的耳朵為什麼那麼長？」，於是安塔爾一整天都在跟我們講解相關的生物生態知識，直到返回帝江號才終於講完——而這還是他省略了七成內容的精簡版。",
+    "zh-CN": "安塔尔不仅博学，还总乐于为人解惑。但问题是，他太喜欢为人解惑了。上回埃特拉随口问了句“长耳兽的耳朵为什么那么长？”，于是安塔尔一整天都在跟我们讲解相关的生物生态知识，直到返回帝江号才终于讲完——而这还是他省略了七成内容的精简版。",
+    "ja": "アンタルは博識で、皆の疑問に答えてくれます。問題は、答えるのが好きすぎること……エステーラが「長耳獣の耳が長い理由」を適当に尋ねたところ、アンタルは一日中生物学について語り続けていました。帝江号に戻る頃にようやく止まりましたが、それでも7割省略した簡略版だと……",
+    "ko": "안탈 씨는 박식할 뿐만 아니라, 항상 즐거운 마음으로 다른 사람들의 궁금증을 풀어줍니다. 근데 문제는... 그걸 과하게 좋아하신다는 거죠. 전에 에스텔라 씨가 '큰 귀 토끼의 귀는 왜 그렇게 길까?'에 대해 지나가며 물어본 적이 있는데, 안탈 씨는 하루 종일 그거랑 관련된 생물 생태 지식을 저희한테 설명해 주셨습니다. 제강호로 돌아오고 나서야 겨우 설명이 끝났죠. 그것도 내용을 70%나 줄인 거라고 하시더군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Experience tells me that there are gatherables over there.",
+    "zh-TW": "根據經驗，那邊應該有可以收集的東西。",
+    "zh-CN": "根据经验，那边应该有可以收集的东西。",
+    "ja": "経験上ですが、あちらに資源があると思います。",
+    "ko": "제 경험상, 저쪽에 분명 수집할 수 있는 물건이 있을 겁니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "There's something over there... It's worth looking into, even if we need to take a detour.",
+    "zh-TW": "嗯，那邊的東西……就算需要繞路，也是值得的。",
+    "zh-CN": "嗯，那边的东西……就算需要绕路，也是值得的。",
+    "ja": "はい、あれは……遠回りする価値があります。",
+    "ko": "음, 저 정도면... 조금 돌아가긴 해도 당연히 그럴 가치가 있을 거라 생각합니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Threat level unavailable. We should be cautious.",
+    "zh-TW": "危險程度未知，建議慎重行動。",
+    "zh-CN": "危险程度未知，建议慎重行动。",
+    "ja": "危険性が不明です。念の為、慎重に。",
+    "ko": "위험 등급이 확인되지 않습니다. 신중하게 움직이시죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "If combat is required, I'll ready our exit plan in advance.",
+    "zh-TW": "如果有作戰需求，我會提前規劃好撤退方案。",
+    "zh-CN": "如果有作战需求，我会提前规划好撤退方案。",
+    "ja": "作戦の予定があるのなら、撤退ルートを計画しておきます。",
+    "ko": "작전 명령이 내려오기 전에, 미리 철수 경로를 파악해 두겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "A rare material. We should gather them quickly.",
+    "zh-TW": "這也是一種珍貴的物資，儘快收集比較好。",
+    "zh-CN": "这也是一种珍贵的物资，尽快收集比较好。",
+    "ja": "貴重な素材です。急ぎ集めたほうが良いと思います。",
+    "ko": "희귀한 물자네요. 최대한 빨리 수집하는 게 좋을 것 같습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "We are always more efficient working as a team... Let's mine this together.",
+    "zh-TW": "團隊合作總是更高效點……一起挖吧。",
+    "zh-CN": "团队合作总是更高效点……一起挖吧。",
+    "ja": "協力すれば早く終わります。一緒に採掘をしましょう。",
+    "ko": "힘을 합치면 더 효율이 좋으니까요... 같이 하시죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Great. We've gathered plenty of useful supplies.",
+    "zh-TW": "收集到了不少實用性較強的物資，是好事。",
+    "zh-CN": "收集到了不少实用性较强的物资，是好事。",
+    "ja": "実用性の高い物を確保できました。助かります。",
+    "ko": "쓸만한 물건이 엄청 많이 있네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "This must be the Aurylene mentioned in the manual...",
+    "zh-TW": "這就是手冊上說過的「醚質」吧……",
+    "zh-CN": "这就是手册上说过的“醚质”吧……",
+    "ja": "これがマニュアルで見た「オーリレン」ですか……",
+    "ko": "이게 바로 매뉴얼에 적혀 있던 '오리렌'이라는 거군요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Blight is more dangerous than what is commonly believed. We must deal with it carefully.",
+    "zh-TW": "侵蝕的危害比常人以為的更可怕，必須慎重對待。",
+    "zh-CN": "侵蚀的危害比常人以为的更可怕，必须慎重对待。",
+    "ja": "侵蝕による影響は想像以上に深刻……慎重な対応が必要です。",
+    "ko": "침식은 일반인들이 생각하는 것보다 훨씬 더 위험합니다. 최대한 신중하게 대응해야 하는 거죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Adequate rest is conducive to mission completion. That's what the work manual says.",
+    "zh-TW": "工作手冊上寫過，適當休息有助於更好地完成任務。",
+    "zh-CN": "工作手册上写过，适当休息有助于更好地完成任务。",
+    "ja": "マニュアルによると、適度な休憩は任務の遂行に効果的だそうです。",
+    "ko": "업무 매뉴얼에 적당한 휴식은 임무를 완수하는 데 도움이 된다고 쓰여 있었습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Take this. We still got plenty.",
+    "zh-TW": "支援品儲備還夠用，給你。",
+    "zh-CN": "支援品储备还够用，给。",
+    "ja": "支援物資はまだあります。どうぞ。",
+    "ko": "지원품은 충분합니다. 이걸 쓰시죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "...I miscalculated.",
+    "zh-TW": "……是我的失誤。",
+    "zh-CN": "……是我的失误。",
+    "ja": "……自分の失策です。",
+    "ko": "...제 실수입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Watch it. Don't push yourself.",
+    "zh-TW": "小心，別逞強。",
+    "zh-CN": "小心，别逞强。",
+    "ja": "気を付けてください、無理は禁物です。",
+    "ko": "조심하세요, 무리하면 안 됩니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "My blade is still intact.",
+    "zh-TW": "我的劍還撐得住。",
+    "zh-CN": "我的剑还撑得住。",
+    "ja": "自分の剣なら、まだ行けます。",
+    "ko": "검을 잡을 힘은 아직 남아 있습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Sorry... I've let everyone down again...",
+    "zh-TW": "抱歉……我又……拖後腿了嗎……",
+    "zh-CN": "抱歉……我又……拖后腿了吗……",
+    "ja": "すみません……自分が……足を引っ張って、しまいました……",
+    "ko": "죄송합니다... 제가 또... 발목을 잡은 것 같네요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Impressive maneuver.",
+    "zh-TW": "這招不賴。",
+    "zh-CN": "这招不赖。",
+    "ja": "良い一手です。",
+    "ko": "상당히 괜찮은 기술이군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Such teamwork deserves a feast.",
+    "zh-TW": "配合得不錯，回去幫各位加菜。",
+    "zh-CN": "配合得不错，回去给各位加餐。",
+    "ja": "うまく行きましたね。戻ったら、食事を作ります。",
+    "ko": "호흡이 잘 맞네요. 돌아가면 맛있는 걸 해드리겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "You ... flatter me.",
+    "zh-TW": "……有點過獎了。",
+    "zh-CN": "……有点过奖了。",
+    "ja": "……少し、褒めすぎかと。",
+    "ko": "...과찬이십니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "Well, everyone helped.",
+    "zh-TW": "是所有人的功勞。",
+    "zh-CN": "是所有人的功劳。",
+    "ja": "皆の力があってこそです。",
+    "ko": "다 여러분 덕분입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "We should play it safe and approach with care.",
+    "zh-TW": "保險起見，最好慎重行動。",
+    "zh-CN": "保险起见，最好慎重行动。",
+    "ja": "念の為に、慎重に行きましょう。",
+    "ko": "만일을 대비해서, 신중하게 움직이는 게 좋겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "I shall fulfill my role of support.",
+    "zh-TW": "我會做好支援工作的。",
+    "zh-CN": "我会做好支援工作的。",
+    "ja": "責任を持って援護を担当します。",
+    "ko": "열심히 지원하겠습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Area neutralized? Better run another check.",
+    "zh-TW": "都解決了嗎？再檢查一下吧。",
+    "zh-CN": "都解决了吗？再检查一下吧。",
+    "ja": "すべて終わりましたか？念の為確認しておきます。",
+    "ko": "다 해결한 건가요? 한 번 더 확인해 보죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "We achieved an ideal outcome.",
+    "zh-TW": "是個理想的結果。",
+    "zh-CN": "是个理想的结果。",
+    "ja": "理想的な展開でした。",
+    "ko": "이상적인 결과네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Impressive... Only you could pull that off.",
+    "zh-TW": "真不愧是你……做得不錯。",
+    "zh-CN": "真不愧是你……做得不错。",
+    "ja": "さすがです。抜かりはないですね。",
+    "ko": "역시... 대단하시군요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "In any case, we still completed the mission objectives.",
+    "zh-TW": "無論如何，至少達成了這次的任務目標。",
+    "zh-CN": "无论如何，至少达成了这次的任务目标。",
+    "ja": "とにかく、任務目標は達成です……",
+    "ko": "그래도 임무 목표는 달성했습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Most of my experiences in life taught me one thing: Accept your defeats, and find a way to surmount them.",
+    "zh-TW": "我人生中的大部分經歷都在教我一件事：學會接受每一次失敗，然後想辦法跨過去。",
+    "zh-CN": "我人生中的大部分经历都在教我一件事：学会接受每一次失败，然后想办法跨过去。",
+    "ja": "経験上の教訓があります――「失敗はすべて受け入れ、乗り越える方法を探すこと。」",
+    "ko": "실패를 받아들이고, 극복할 방법을 찾아라. 제가 명심하고 있는 말입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Get lost.",
+    "zh-TW": "別礙事。",
+    "zh-CN": "别碍事。",
+    "ja": "邪魔するな。",
+    "ko": "방해하지 마."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Your turn.",
+    "zh-TW": "到你了。",
+    "zh-CN": "到你了。",
+    "ja": "お前の番だ。",
+    "ko": "네 차례다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_skill_nor_strike_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Back off!",
+    "zh-TW": "休想靠近！",
+    "zh-CN": "休想靠近！",
+    "ja": "させない！",
+    "ko": "다가올 생각 마!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_skill_nor_strike_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Halt!",
+    "zh-TW": "站住！",
+    "zh-CN": "站住！",
+    "ja": "止まれ！",
+    "ko": "거기 멈춰!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_skill_nor_strike_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Take cover!",
+    "zh-TW": "由我掩護！",
+    "zh-CN": "由我掩护！",
+    "ja": "援護する！",
+    "ko": "엄호하겠습니다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Waiting's over.",
+    "zh-TW": "久等了。",
+    "zh-CN": "久等了。",
+    "ja": "待たせた。",
+    "ko": "오래 기다리셨습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "My turn.",
+    "zh-TW": "該我了。",
+    "zh-CN": "该我了。",
+    "ja": "自分の番だ。",
+    "ko": "준비됐습니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Tank this!",
+    "zh-TW": "接得住嗎？",
+    "zh-CN": "接得住吗？",
+    "ja": "受けられるか？",
+    "ko": "막을 수 있겠어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Taste this!",
+    "zh-TW": "嚐嚐這招！",
+    "zh-CN": "尝尝这招！",
+    "ja": "喰らえ！",
+    "ko": "받아 보시지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "There's no escape.",
+    "zh-TW": "別想逃。",
+    "zh-CN": "别想逃。",
+    "ja": "逃げられると思うな。",
+    "ko": "피할 생각 하지 마."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "It's over.",
+    "zh-TW": "結束了。",
+    "zh-CN": "结束了。",
+    "ja": "ここで……終わらせる！",
+    "ko": "이걸로 끝이다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "I'm taking you down!",
+    "zh-TW": "我來解決你們！",
+    "zh-CN": "我来解决你们！",
+    "ja": "自分が片付ける！",
+    "ko": "내가 해결하겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "No one's getting past me!",
+    "zh-TW": "不會讓你過去的！",
+    "zh-CN": "不会让你过去的！",
+    "ja": "ここは……通さない！",
+    "ko": "절대 보내지 않겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0020_meurs_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "OUT OF MY WAY!",
+    "zh-TW": "滾開！",
+    "zh-CN": "滚开！",
+    "ja": "目の前から……消えろ！",
+    "ko": "사라져라!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0020_meurs_1",
+   "topic": {
+    "en": "\"Living GPS\"",
+    "zh-TW": "「活導航」",
+    "zh-CN": "“活导航”",
+    "ja": "「歩くナビ」",
+    "ko": "'살아있는 내비게이션'"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Endmin, Captain mentioned you're drafting new combat protocols for Z7 and require my assistance?",
+      "zh-TW": "管理員，我聽隊長說，您在幫Z7制定一套新的作戰方案，希望我能協助？",
+      "zh-CN": "管理员，我听队长说，您在给Z7制订一套新的作战方案，希望我能协助？",
+      "ja": "管理人、隊長から聞きました。Z7の新しい作戦計画を立てるに当たって、自分の協力が必要なのでしょうか？",
+      "ko": "관리자님, Z7팀을 위한 새로운 작전 계획을 세우고 계시는데, 제 도움이 필요하다고 팀장님께 전해 들었습니다."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Yeah. Need someone who can track down Z7 squad fast for tweaking the plans... Akekuri says you're most suited for this role.",
+         "zh-TW": "嗯，我需要一個能快速找到Z7成員的人，便於調整方案……秋栗覺得你最適合。",
+         "zh-CN": "嗯，我需要一个能快速找到Z7成员的人，便于调整方案……秋栗觉得你最合适。",
+         "ja": "うん。Z7の皆をすぐに見つけられる人がいいと思って。計画も調整しやすくなる……アケクリは君が最適だと言っていた。",
+         "ko": "응, 작전 조정 차원에서 Z7 팀원들을 빠르게 찾아낼 수 있는 사람이 필요하거든... 아케쿠리는 네가 가장 적합하다고 하더라고."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Yeah. Need someone who can track down Z7 squad fast for tweaking the plans... Akekuri recommended you.",
+         "zh-TW": "嗯，我需要一個能快速找到Z7成員的人，便於調整方案……秋栗向我推薦了你。",
+         "zh-CN": "嗯，我需要一个能快速找到Z7成员的人，便于调整方案……秋栗向我推荐了你。",
+         "ja": "うん。Z7の皆をすぐに見つけられる人がいいと思って。計画も調整しやすくなる……アケクリが君を推薦してくれたんだ。",
+         "ko": "응, 작전 조정 차원에서 Z7 팀원들을 빠르게 찾아낼 수 있는 사람이 필요하거든... 아케쿠리가 너를 추천했어."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Says you're basically a living GPS.",
+      "zh-TW": "說你簡直就是「活導航」。",
+      "zh-CN": "说你简直就是“活导航”。",
+      "ja": "「歩くナビ」だって。",
+      "ko": "'살아있는 내비게이션'이라고 하던데?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "...Captain exaggerated. I simply observe our squad members more closely than most.",
+      "zh-TW": "……隊長她過獎了。我對隊友們的瞭解只是比旁人多了一點而已。",
+      "zh-CN": "……队长她过奖了。我对队友们的了解只是比旁人多了一点而已。",
+      "ja": "……隊長は、少し大げさです。仲間がどう動くか、少し把握しているだけです。",
+      "ko": "...팀장님께서 너무 과장하셨네요. 전 그냥 다른 사람보다 팀원들에 대해 조금 더 잘 알고 있는 것뿐입니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Their patrol patterns are mostly predictable. Not difficult to track.",
+      "zh-TW": "他們的行蹤大多時候非常固定，沒什麼難以判斷的。",
+      "zh-CN": "他们的行踪大多时候非常固定，没什么难判断的。",
+      "ja": "皆、行動パターンはほぼ一定ですから、難しいこともありません。",
+      "ko": "팀원들 모두 갈만한 곳이 거의 고정되어 있어서, 딱히 알아내기 어렵지 않거든요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Where's Akekuri and Estella right now?",
+         "zh-TW": "那現在秋栗和埃特拉在哪裡？",
+         "zh-CN": "那现在秋栗和埃特拉在哪儿？",
+         "ja": "今アケクリとエステーラはどこに？",
+         "ko": "그럼 아케쿠리랑 에스텔라는 지금 어디 있어?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Catcher",
+         "zh-TW": "卡契爾",
+         "zh-CN": "卡契尔",
+         "ja": "キャッチャー",
+         "ko": "카치르"
+        },
+        "text": {
+         "en": "Captain should be in the mess hall if she's finished the after-action report. They're serving special Higashi pastries today. And Estella...",
+         "zh-TW": "如果隊長的匯總報告已經寫完了，那麼可以去餐廳找她，今天專門供應了東國口味的點心。至於埃特拉——",
+         "zh-CN": "如果队长的汇总报告已经写完了，那么可以去食堂找她，今天专门供应了东国口味的点心。至于埃特拉——",
+         "ja": "隊長が報告を終えているなら、食堂にいると思います。今日は特別に東国風のお菓子が出る日ですから。エステーラは……",
+         "ko": "팀장님이라면 지금쯤 임무 보고서 작성을 끝내셨을 테니, 식당에 가보시면 찾을 수 있을 겁니다. 오늘 토우고쿠 디저트가 나온다고 했거든요. 에스텔라 씨라면..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Catcher",
+         "zh-TW": "卡契爾",
+         "zh-CN": "卡契尔",
+         "ja": "キャッチャー",
+         "ko": "카치르"
+        },
+        "text": {
+         "en": "High probability she's in the Originium Slug cultivation chamber. She's been ... unusually interested in slug-based cuisine lately. Has asked me multiple times where to find slug-brewed liquor.",
+         "zh-TW": "很可能在源石蟲培育室。她最近對源石蟲相關的食品很感興趣，不止一次問過我，哪裡能喝到源石蟲釀的酒。",
+         "zh-CN": "大概率在源石虫培育室。她最近对源石虫相关的食品很感兴趣，不止一回问过我，哪里能喝到源石虫酿的酒。",
+         "ja": "多分、オリジムシの飼育室にいるはずだと思います。最近エステーラはオリジムシに関連する食品に興味があるようで、オリジムシを使用したお酒が飲める場所があるかと何度も聞いてきたので。",
+         "ko": "아마 원석충 재배실에 있을 겁니다. 요즘 원석충으로 만든 음식에 부쩍 관심이 많아져서, 원석충으로 빚은 술은 어디서 구할 수 있냐고 저한테 여러 번 물어봤거든요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "What about Fluorite and Antal?",
+         "zh-TW": "那現在螢石和安塔爾在哪裡？",
+         "zh-CN": "那现在萤石和安塔尔在哪儿？",
+         "ja": "今フローライトとアンタルはどこに？",
+         "ko": "그럼 플루라이트랑 안탈은 지금 어디 있어?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Catcher",
+         "zh-TW": "卡契爾",
+         "zh-CN": "卡契尔",
+         "ja": "キャッチャー",
+         "ko": "카치르"
+        },
+        "text": {
+         "en": "Probably the training room. Fluorite booked it for the whole day yesterday, probably pushing to correct that last op's mistake... Though she'd never admit it matters.",
+         "zh-TW": "螢石恐怕是在訓練室。昨天她就預定了一整天，大概是想儘快克服上次行動的失誤……雖然她嘴上總是說無所謂。",
+         "zh-CN": "萤石恐怕在训练室。昨天她就预定了一整天，估计是想尽快克服上次行动的失误……虽然她嘴上总是说无所谓。",
+         "ja": "フローライトは訓練室でしょう。昨日、丸一日予約を入れていましたから。前回の作戦におけるミスを繰り返したくないのだと思います。口では、「気にしていない」と言っていますが。",
+         "ko": "플루라이트 씨라면 훈련실에 있을 겁니다. 어제도 훈련실을 하루 종일 예약해 둔 걸로 보아, 지난번 작전에서의 실수를 빨리 극복하고 싶은 것 같아요... 입으로는 신경 안 쓴다고 하지만요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Catcher",
+         "zh-TW": "卡契爾",
+         "zh-CN": "卡契尔",
+         "ja": "キャッチャー",
+         "ko": "카치르"
+        },
+        "text": {
+         "en": "Either the public archives or his dorm for Antal. He's been researching some new Originium tech functions and checked out several books. Said he wants to discuss them with you after reading.",
+         "zh-TW": "安塔爾應該是去了公共資料室。他最近對某種源石機械的新型功能很好奇，借了好幾本書，說等看完後想跟管理員交流。",
+         "zh-CN": "安塔尔应该去了公共资料室。他最近对某种源石机械的新型功能很好奇，借了好几本书，说等看完后想跟管理员交流。",
+         "ja": "アンタルは、資料室にいる可能性が高いです。最近、源石機械の新機能に興味があるようで、本を何冊も借りているのを見ました。読み終わったら、管理人と語り合いたいとも。",
+         "ko": "그리고 안탈 씨라면 공용 자료실에 있을 겁니다. 요즘 어떤 오리지늄 기계의 새로운 기능에 관심이 많은 것 같았어요. 책도 여러 권 빌렸더라고요, 다 읽고 나서 관리자님과 이야기해 보고 싶다면서요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You really do know them inside out... Won't have to worry about tracking anyone down anymore.",
+         "zh-TW": "你真的很瞭解他們啊……以後不用擔心找不到人了。",
+         "zh-CN": "你真的很了解他们啊……以后不用担心找不到人了。",
+         "ja": "本当によく知っているんだね……確かに、どこにいるか心配する必要はなさそうだ。",
+         "ko": "정말 팀원들에 대해 잘 알고 있네... 앞으로 Z7 팀원을 찾는 일은 걱정할 필요가 없겠어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Living GPS indeed. I'm leaving the squad-tracking to you.",
+         "zh-TW": "不愧是「活導航」，就靠你找他們了。",
+         "zh-CN": "不愧是“活导航”，就靠你找他们了。",
+         "ja": "さすが「歩くナビ」だ。君なら、全員すぐ見つけられるね。",
+         "ko": "역시 '살아있는 내비게이션'답네. 이제 팀원을 찾는 일은 너만 믿을게."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Just accumulated experience. Everyone in Z7 is ... particular. To synchronize properly with each of them requires deeper observation.",
+      "zh-TW": "都是累積的經驗而已。Z7的大家都很……特別，我想和他們每個人都配合好，就需要花費更多的工夫瞭解他們。",
+      "zh-CN": "都是积累的经验罢了。Z7的大家都很……特别，我想和他们每个人都做好配合，自然需要花费更多的功夫了解他们。",
+      "ja": "ただ、何度も経験しただけです。Z7の皆はとても……個性的です。全員と連携を取るためには、時間をかけて皆を理解する必要がありました。",
+      "ko": "그동안 쌓아 온 경험일 뿐입니다. Z7의 팀원들은 다들 좀... 특별한 사람들이라서요. 그들과 호흡을 잘 맞추려면, 그만큼 더 관심을 갖고, 이해하려고 노력해야 하죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "So I keep an eye on their combat patterns and what they do off-duty. This way I'm pretty prepped for both the battlefield and downtime.",
+      "zh-TW": "所以我每次都會認真觀察大家的作戰方式，甚至是平常的行蹤，這樣就能提前做好不少的準備，無論是作戰時還是休整時。",
+      "zh-CN": "所以我每回都会认真观察大家的作战方式，乃至平时的行踪，这样就能提前做好不少的准备，无论是作战时还是休整时。",
+      "ja": "ですから、作戦中の動きだけではなく普段の行動も観察しています。そうすれば、どんなときであっても念の為の準備ができますから。",
+      "ko": "그래서 전 항상 팀원들의 작전 방식을 유심히 관찰하고, 평소의 행방이나 습관까지 확인해 둡니다. 그래야 작전이든 휴식이든, 어떤 상황에도 다 대처할 수 있으니까요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Maybe I don't need to call them in so often. Could just consult you directly.",
+         "zh-TW": "或許不需要頻繁找他們過來了，有問題可以直接問你。",
+         "zh-CN": "或许不需要频繁找他们过来了，有问题可以直接问你。",
+         "ja": "これで、しょっちゅう探す必要はなくなったよ。君に聞けばいいんだからね。",
+         "ko": "이제부턴 굳이 팀원들을 일일이 불러오지 않아도 되겠네. 확인할 게 있으면 너한테 물어보면 되니까."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Should invite you as a tactical consultant for Z7's protocol revisions.",
+         "zh-TW": "或許可以邀請你當這次Z7小組作戰方案的調整顧問。",
+         "zh-CN": "或许可以邀请你当这次Z7小组作战方案的调整顾问。",
+         "ja": "今回のZ7の作戦計画、君を顧問として招こうかな。",
+         "ko": "이번 Z7 팀 작전 조정은, 너를 고문으로 임명하면 되겠네."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "...Your trust won't be misplaced, Endmin.",
+      "zh-TW": "……謝謝管理員的信任。",
+      "zh-CN": "……谢谢管理员的信任。",
+      "ja": "……管理人の信頼に感謝します。",
+      "ko": "...믿어주셔서 감사합니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Though I can't speak for the others on everything. Battle plans? Better check with them direct. Z7's all ... sort of particular.",
+      "zh-TW": "不過，我想很多問題我還做不到替Z7的其他人回答，比如實戰方面的一些規劃，管理員最好還是跟他們本人確認。",
+      "zh-CN": "不过，我想很多问题我还做不到替Z7的其他人回答，比如实战方面的一些规划，管理员最好还是和他们本人确认。",
+      "ja": "しかし、本人にしか答えられないことも多いと思います。例えば、実戦に関わる計画などは、本人に確認するのが一番です。",
+      "ko": "다만, 제가 Z7의 팀원들을 대신해 대답할 수 없는 문제들도 많습니다. 예를 들어, 실전 상황에 관한 계획은 직접 팀원들과 확인하시는 게 좋을 것 같습니다."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Don't worry. I've got my own parameters in mind.",
+         "zh-TW": "放心，我有自己的考量。",
+         "zh-CN": "放心，我有自己的考量。",
+         "ja": "心配しなくても大丈夫だ。考えがあるから。",
+         "ko": "걱정 마, 그 점은 나도 생각하고 있어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Copy that. I'll factor in your input.",
+         "zh-TW": "謝謝你的建議，我會多留意的。",
+         "zh-CN": "谢谢你的建议，我会多留意的。",
+         "ja": "なるほどね、そうするよ。",
+         "ko": "조언 고마워, 참고할게."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Understood, Endmin. Just signal if you need backup. Any hour.",
+      "zh-TW": "我知道了。那麼管理員，之後有任何需要我協助的地方，都可以隨時聯絡我。",
+      "zh-CN": "我明白了。那么管理员，之后有任何需要我协助的方面，都可以随时联系我。",
+      "ja": "では、管理人。今後も自分が力が必要なら、いつでも連絡してください。",
+      "ko": "알겠습니다. 그럼 관리자님, 앞으로 제가 도울 일이 있으면 언제든 연락 주세요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "I'll clear my schedule first. Won't let it clash with ops.",
+      "zh-TW": "我會提前確認自己的時間安排，儘量不影響任務。",
+      "zh-CN": "我会提前确认自己的时间安排，尽量不影响任务。",
+      "ja": "事前に予定を確認し、任務に支障が出ないよう、時間を調整しておきます。",
+      "ko": "미리 시간을 조율해서 임무에 지장 없게 하겠습니다."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0020_meurs_2",
+   "topic": {
+    "en": "A Debt of Gratitude",
+    "zh-TW": "必須傳達的謝意",
+    "zh-CN": "必须传达的谢意",
+    "ja": "感謝の気持ち",
+    "ko": "전해야 하는 마음"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Endmin, I ran the new protocols through live drills per your specs. Footage attached —",
+      "zh-TW": "管理員，我按照您的最新一版方案，和其他人對練了一遍，這是錄影——",
+      "zh-CN": "管理员，我按您的最新一版方案，和其他人对练了一遍，这是录像——",
+      "ja": "管理人、最新の計画案通り、皆と一度模擬戦を行いました。映像を送ります。",
+      "ko": "관리자님이 조정하신 최신 작전 계획에 따라, 팀원들과 모의전을 진행해 봤어요. 훈련 영상 보내드립니다..."
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "File [Training_footage_001-004] Accepted",
+      "zh-TW": "檔案[訓練錄影_001~004]已接收",
+      "zh-CN": "文件[训练录像_001～004]已接收",
+      "ja": "ファイル「訓練映像_001～004」を受信しました",
+      "ko": "파일 [훈련 영상_001~004] 수신 완료"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "One complication... I may miss the next training session...",
+      "zh-TW": "然後，下次的訓練我可能無法到場……",
+      "zh-CN": "然后，下次的训练我可能无法到场……",
+      "ja": "それから、次回の訓練には参加出来ないかもしれません。",
+      "ko": "아, 그리고... 저는 다음 훈련에 참석하지 못할 것 같습니다..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You got priorities elsewhere?",
+         "zh-TW": "你是有別的安排嗎？",
+         "zh-CN": "你是有别的安排吗？",
+         "ja": "別の予定でもあるの？",
+         "ko": "다른 일정이 있어?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You got op-related conflict going on?",
+         "zh-TW": "是有什麼特殊情況嗎？",
+         "zh-CN": "是有什么特殊情况吗？",
+         "ja": "何か特別な事情はあるの？",
+         "ko": "무슨 일이라도 생겼어?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "I guess so. I'm requesting extended leave to the Free City of Alloycarrot...",
+      "zh-TW": "算是吧。我打算請一個長假，回合金蘿蔔自由市一趟……",
+      "zh-CN": "算是吧。我打算请一个长假，回合金萝卜自由市一趟……",
+      "ja": "はい。長期休暇を取得し、メタルキャロットに一度戻ろうと思っています。",
+      "ko": "음, 그렇다고 할 수도 있겠네요. 당분간 휴가를 내고 합금 무성 자유도시에 다녀오려고 합니다..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "It's urgent since Browning Hospital is relocating soon.",
+      "zh-TW": "因為要趕在布朗寧醫院搬遷前，所以比較著急。",
+      "zh-CN": "因为得赶在布朗宁医院搬迁前，所以比较着急。",
+      "ja": "ブローニング病院が移転すると聞いて、少し急いで戻らなくてはいけなくなりました。",
+      "ko": "브라우닝 병원이 다른 곳으로 옮겨가기 전에 가봐야 해서요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Browning Hospital? That's halfway across the land. Medical leave?",
+         "zh-TW": "布朗寧醫院？你要跑這麼遠去看病嗎？",
+         "zh-CN": "布朗宁医院？你要跑这么远去看病吗？",
+         "ja": "ブローニング病院って……そんな遠くまで、診察を受けに行くの？",
+         "ko": "브라우닝 병원? 치료를 받으러 그렇게까지 멀리 가야 하는 거야?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Are you sick? Maybe you should stop by the Medical Division first!",
+         "zh-TW": "你生病了？先去醫療部門看看吧！",
+         "zh-CN": "你生病了？先去医疗部门看看吧！",
+         "ja": "病気なら、先に医療部に行ったほうがいい。",
+         "ko": "어디 아파? 그럼 빨리 의료 부서부터 가서 진찰받아봐!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Not really, Endmin.",
+      "zh-TW": "您誤會了，管理員。",
+      "zh-CN": "您误会了，管理员。",
+      "ja": "違います、管理人。",
+      "ko": "걱정하지 마세요, 관리자님."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "I'm visiting Dr. Raman Harrent, my childhood physician. He's retiring and moving once the hospital relocates.",
+      "zh-TW": "我只是想去看望我小時候的一位主治醫生，他叫拉曼·哈倫特，這次醫院搬遷後就要退休，去其他地方定居了。",
+      "zh-CN": "我只是想去看望我小时候的一位主治医生，他叫拉曼·哈伦特，这次医院搬迁后就要退休，去其他地方定居了。",
+      "ja": "子どもの頃の主治医に会いに行くだけです。ラマン・ハレントという方で、今回の移転をきっかけに引退して、引っ越しするそうで……",
+      "ko": "저는 그냥 어릴 적 주치의였던 라만 하렌트 선생님을 뵈러 가는 것뿐입니다. 이번에 병원을 옮기고 나면, 은퇴하시고 다른 지역에서 퇴직 생활을 하시겠다고 하더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Back then ... my Oripathy complications were pretty bad. Dr. Harrent kept tweaking my meds and pushing treatments. I probably wouldn't be here without him.",
+      "zh-TW": "當初我的礦石病併發症非常嚴重，如果不是他堅持為我提供治療方案，一直幫我調整身體狀況，我或許根本來不了終末地……",
+      "zh-CN": "当初我的矿石病并发症非常严重，如果不是他坚持给我提供治疗方案，一直帮我调整身体状况，我或许根本来不了终末地……",
+      "ja": "昔、鉱石病を患っていた頃、とても重い合併症に苦しんでいました。もし、根気強く治療にあたってくれる主治医がいなかったら……自分がエンドフィールドに来ることもなかったかもしれません。",
+      "ko": "당시 제 광석병 합병증은 굉장히 심각했어요. 만약 선생님께서 끝까지 치료 방안을 생각해 내시고 제 몸 상태를 조율해 주지 않으셨다면, 저는 아마 엔드필드까지 올 수 없었을 겁니다..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "I need to thank him properly. And I want to let him know that I'm no longer that kid who could barely move out of bed.",
+      "zh-TW": "所以我想好好感謝他，也讓他看看我現在的樣子——我已不再是那個連下床都很困難的小男孩了。",
+      "zh-CN": "所以我想好好感谢他，也让他看看我现在的样子——我已不再是那个连下床都很困难的小男孩了。",
+      "ja": "だからこそ、お礼をしっかり伝えて、今の自分を見てもらいたいと思っています。ベッドから起き上がることもできない少年はもういないのだと。",
+      "ko": "그래서 선생님이 은퇴하시기 전에 제대로 감사 인사를 드리고 싶습니다. 그리고 지금의 제 모습도 꼭 보여드리고 싶어요... 침대에서 일어나기도 힘들던 그 어린 소년이 이렇게 건장한 어른이 되었다고요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You've come a long way... Hell of a fight to get here.",
+         "zh-TW": "你能走到現在這一步……真的很不簡單。",
+         "zh-CN": "你能走到现在这一步……真的很不容易。",
+         "ja": "ここまで、本当に大変な道を歩んできたんだね。",
+         "ko": "지금 이 자리에 오기까지... 정말 쉽지 않았겠어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "To keep pushing forward all this time... You're exceptional, Catcher.",
+         "zh-TW": "能一步步堅持到現在……你已經非常厲害了。",
+         "zh-CN": "能一步步坚持到现在……你已经非常厉害了。",
+         "ja": "一歩ずつ積み重ねてここまできたんだ。本当にすごいことだよ。",
+         "ko": "포기하지 않고, 지금까지 버텨내다니... 정말 대단하네."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Luck played its part. I believe I had the right people at the right time.",
+      "zh-TW": "還好。現在回顧過去，我覺得自己只是比很多人更幸運一點而已。",
+      "zh-CN": "还好。现在回顾过去，我觉得自己只是比很多人更幸运一点罢了。",
+      "ja": "いえ、そんなことはありません。今考えてみれば、自分はほんの少しの幸運を掴んだだけだと。",
+      "ko": "돌이켜보면, 사실 저는 한 게 별로 없습니다. 그냥... 다른 사람들보다 운이 조금 더 좋았을 뿐입니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "I had more support than most, so my recovery timeline was shorter than standard... Rehab was pretty rough, though.",
+      "zh-TW": "那時候獲得了非常多的幫助，恢復期也比一般人短……頂多是復健的時候有點辛苦。",
+      "zh-CN": "那时候获得了非常多的帮助，恢复期也比一般人短……顶多是复健的时候有些辛苦。",
+      "ja": "皆に助けられ、治療の期間も比較的短くすみました。リハビリは少し大変でしたが……それだけです。",
+      "ko": "그땐 많은 사람으로부터 많은 도움을 받았어요. 그래서 회복 기간도 다른 사람들보다 훨씬 짧았고요... 제가 한 거라곤, 기껏해야 재활을 열심히 한 것밖에 없어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "My family gave everything they had. Without that backing, I doubt I'd have lasted.",
+      "zh-TW": "但我的家人們給了我他們能給予的一切，如果沒有他們的鼓勵和支持，我想我也堅持不了那麼久。",
+      "zh-CN": "但我的家人们给了我他们能给予的一切，如果没有他们的鼓励和支持，我想我也坚持不了那么久。",
+      "ja": "そして、家族は自分に尽くしてくれたことも忘れません。励ましと支えがなかったなら、ここまで来られなかったと思います。",
+      "ko": "가족들의 격려와 응원이 없었다면, 전 그렇게 오래 버티지 못했을 겁니다. 가족들은 줄 수 있는 모든 걸 다 제게 주었어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Regardless, surviving Oripathy and becoming a full operator... That's your fight. Your credit. Don't downplay it.",
+      "zh-TW": "不管怎樣，最後能克服病痛，成為一名及格的幹員……都是你努力的結果，是屬於你自己的功勞，別輕視它。",
+      "zh-CN": "不管怎样，最后能克服病痛，成为一名合格的干员……都是你努力的结果，是属于你自己的功劳，别轻视它。",
+      "ja": "最後は病を乗り越えて、一人前のオペレーターになったのは、君自身の努力もあると思うよ。それだけは、覚えておいてほしい。",
+      "ko": "어쨌든, 결국 병을 이겨내고 이렇게 당당한 오퍼레이터가 될 수 있었던 건... 너의 노력 덕분이기도 하잖아. 그러니 자신의 노력을 가볍게 여기지 마."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "...Thank you for your recognition, Endmin.",
+      "zh-TW": "……謝謝您的認可，管理員。",
+      "zh-CN": "……谢谢您的认可，管理员。",
+      "ja": "……ありがとうございます、管理人。",
+      "ko": "...그렇게 말씀해 주셔서 감사합니다, 관리자님."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Since arriving at Endfield, I met others like Surgeon Harrent. People who hold the line no matter what...",
+      "zh-TW": "在來到終末地後，我也遇到了不少像哈倫特醫生那樣，會為了他人的安危堅守到最後一刻的人……",
+      "zh-CN": "在来到终末地后，我也遇到了不少如哈伦特医生那样，会为了他人的安危坚守到最后一刻的人……",
+      "ja": "エンドフィールドでも、ハレント医師のように、皆のために最後まで踏みとどまる人たちとたくさん出会いました。",
+      "ko": "엔드필드에 와서도 하렌트 선생님처럼 끝까지 다른 사람의 안전을 지키려고 노력하시는 분들을 많이 만났습니다..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "They taught me something: sometimes you dig in not for the win, but to make sure you have no regrets.",
+      "zh-TW": "他們讓我明白，有時候堅持做一件事不是為了結果，而是為了不留遺憾。",
+      "zh-CN": "他们让我明白，有时候坚持做一件事不是为了结果，而是为了不留遗憾。",
+      "ja": "そして、学びました。結果のためではなく、後悔を残すことのないように、最後までやり続けることもあるのだと。",
+      "ko": "그리고 그분들 덕분에 알게 됐죠. 가끔은 어떤 결과를 위해서가 아니라, 후회를 남기지 않기 위해 끝까지 버텨야 한다는 걸요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "That's why I aim to stand where they stood and provide cover for those still advancing.",
+      "zh-TW": "所以現在，我也想像他們一樣，為那些需要幫助的人們貢獻出一份自己的力量。",
+      "zh-CN": "所以现在，我也想像他们一样，为那些需要帮助的人们贡献出一份自己的力量。",
+      "ja": "今は自分も、助けを必要とする人のために、全力を捧げたいと思っています。",
+      "ko": "그래서 이제는 저도 그분들처럼, 도움이 필요한 사람들에게 힘을 보태고 싶습니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Anyway, I will see you post-leave, Endmin. I will bring some \"Bottle Tree Sap\" from Alloycarrot.",
+      "zh-TW": "總之，假期後再見，管理員。我會帶合金蘿蔔自由市的特產「瓶樹水」回來的。",
+      "zh-CN": "总之，假期后再见，管理员。我会带合金萝卜自由市的特产“瓶树水”回来的。",
+      "ja": "管理人、休暇明けにまたご挨拶に行きます。メタルキャロットのお土産、「ボトルツリーウォーター」をお渡ししたいので。",
+      "ko": "아무튼, 휴가가 끝나면 뵙겠습니다, 관리자님. 합금 무성 자유도시 특산품인 '보틀트리 워터'를 가져다드릴게요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "It's an optimal drink for post-training recovery cycles.",
+      "zh-TW": "它非常提神，很適合作為下下次訓練時的飲品。",
+      "zh-CN": "它非常提神，很适合作为下下次训练时的饮品。",
+      "ja": "気分がすっきりして目が覚めるような味です。次の次の訓練時の補給ドリンクとして、丁度良いかと。",
+      "ko": "굉장히 상쾌해서, 마시면 정신이 번쩍 든다고 하네요. 훈련 때 마시기 딱 좋을 겁니다."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0020_meurs_3",
+   "topic": {
+    "en": "Coddling",
+    "zh-TW": "過度保護",
+    "zh-CN": "过度保护",
+    "ja": "過保護",
+    "ko": "과잉보호"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Endmin, I've attached a Z7 Combat Protocols Adjustment Proposal (Individualized). Compiled from last drill data.",
+      "zh-TW": "管理員，根據上次訓練的狀況，我寫了一份《Z7作戰方案個人調整建議》，希望可以幫到你。",
+      "zh-CN": "管理员，根据上次训练的情况，我写了一份《Z7作战方案个人调整建议》，希望可以帮到你。",
+      "ja": "管理人。前回の訓練結果を受けて、「Z7作戦計画個人調整案」を作成しました。お役に立てばと思います。",
+      "ko": "관리자님, 지난번 훈련 결과를 바탕으로 <Z7 작전 계획 조정 제안서>를 작성해 봤습니다. 관리자님께 도움이 됐으면 좋겠네요."
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "File [Endfield Operator Personal Hazardous Materials Declaration Form] Accepted",
+      "zh-TW": "檔案[終末地幹員個人攜帶危險物品報備表]已接收",
+      "zh-CN": "文件[终末地干员个人携带危险物品报备表]已接收",
+      "ja": "ファイル「エンドフィールドオペレーター個人携行危険物品申告書」を受信しました",
+      "ko": "파일 [엔드필드 오퍼레이터 위험 물품 소지 등록 신청서] 수신 완료"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Apologies. That's the wrong file... Give me a second.",
+      "zh-TW": "抱歉，傳錯檔案了……稍等。",
+      "zh-CN": "抱歉，发错文件了……稍等。",
+      "ja": "すみません、送るファイルを間違えて……待ってください。",
+      "ko": "죄송합니다, 파일을 잘못 보냈습니다... 잠시만요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "What's this? You're transporting hazardous materials?",
+         "zh-TW": "這是什麼？你帶了危險物品過來？",
+         "zh-CN": "这是什么？你带了危险物品过来？",
+         "ja": "これは何？もしかして、危険物を持ち込んだの？",
+         "ko": "이건 뭐야? 위험 물품을 가져왔어?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Hazardous materials? Catcher, what exactly are you planning?",
+         "zh-TW": "危險物品？卡契爾，你這是打算……？",
+         "zh-CN": "危险物品？卡契尔，你这是打算……？",
+         "ja": "危険物？キャッチャー、もしかして……",
+         "ko": "위험 물품? 카치르, 너 설마..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Endmofistar,; dg/;ay ]f.",
+      "zh-TW": "管理員不是，】dg/;uy【。",
+      "zh-CN": "管理员不是,】dg/;ay【。",
+      "ja": "管理人、違います、】dg/;ay【。",
+      "ko": "관리자님, 그건, ]dg/;ay[."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Sorry, I knocked over the water bottle.",
+      "zh-TW": "對不起，剛剛不小心打翻了水壺。",
+      "zh-CN": "对不起，刚刚不小心打翻了水壶。",
+      "ja": "失礼しました。水筒を倒してしまいました。",
+      "ko": "죄송합니다, 방금 물병을 엎질러서..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "I got a gift from my eldest brother. The contents ... marginally volatile.",
+      "zh-TW": "是我大哥，他寄給我的禮物……有點危險。",
+      "zh-CN": "是我大哥，他给我寄的礼物……有些危险。",
+      "ja": "実は、兄から送られてきたものです。少し、危険性が高く……",
+      "ko": "그건 제 형이 보낸 선물인데... 조금 위험한 물건이긴 합니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Turns out it's one of those new bomber drones from the TGCC. My brother said he was sending a \"surprise\", and I only found out what it was when it arrived.",
+      "zh-TW": "好像是商會新上市的一款炸彈無人機。我也是收到後才發現，原來這就是他通訊裡說的「驚喜」……",
+      "zh-CN": "好像是商会新上市的一款炸弹无人机。我也是收到后才发现，原来这就是他通信里说的“惊喜”……",
+      "ja": "商会で新しく発売された「爆弾ドローン」のようです。メッセージで「サプライズ」と言っていましたが、これだったとは……",
+      "ko": "상업연합회에서 새로 출시한 폭탄 드론이라고 합니다. 저도 받아 보고서야 알았습니다, 형이 말하던 '깜짝선물'이 이런 물건일 줄은..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "I could have just told Captain first and filed the form later ... but I kept missing deadlines during ops prep... My bad.",
+      "zh-TW": "本來可以先直接和隊長報備，之後有空再填寫表格的，但我之前好幾次都因為急著出任務，沒有及時登記……",
+      "zh-CN": "本来可以先口头和队长报备，之后有空再填写表格的，但我之前好几次都因为赶着出任务，没能及时登记……",
+      "ja": "本来なら口頭で隊長に報告し、追って申告書を提出すればよかったのですが……急ぎの任務に出ることがあり、提出できなかったこともあったのです。",
+      "ko": "원래는 팀장님께 먼저 보고하고, 나중에 시간 날 때 등록 신청서를 작성해도 됐는데... 그전에 이미 몇 번이나 임무 때문에 제때 등록을 못 했거든요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Captain warned that if I fail again, I'll be blacklisted by the arsenal.",
+      "zh-TW": "隊長跟我說，這次要是再不及時登記，我可能會上武庫的黑名單。",
+      "zh-CN": "队长和我说，这次要是再不及时登记，我可能会上武库的黑名单。",
+      "ja": "隊長からは「次提出しなかったら武庫のブラックリストに載る」と言われてしまいました。",
+      "ko": "팀장님이 이번에도 제때 등록하지 않으면, 무기고 블랙리스트에 올라갈 거라고 경고하셨습니다."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "There's been multiple times? Don't tell me all those unregistered items were ... family gifts.",
+         "zh-TW": "好幾次？那些來不及登記的物品，難道全都是你家人給你的禮物？",
+         "zh-CN": "好几次？那些没来得及登记的物品，难道全是你家人给你的礼物？",
+         "ja": "何回もあったの？その「申告漏れ」は、全部家族からの「サプライズ」？",
+         "ko": "몇 번이나? 그럼, 그동안 등록 못 한 물품들은 전부 가족이 보낸 선물인 거야?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Catcher",
+         "zh-TW": "卡契爾",
+         "zh-CN": "卡契尔",
+         "ja": "キャッチャー",
+         "ko": "카치르"
+        },
+        "text": {
+         "en": "...You're not wrong.",
+         "zh-TW": "對……全都是。",
+         "zh-CN": "对……全都是。",
+         "ja": "はい……全部。",
+         "ko": "네... 맞습니다."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Just how many \"surprises\" is your family stockpiling for you?",
+         "zh-TW": "你家人到底幫你準備了多少「驚喜」啊……",
+         "zh-CN": "你家人到底给你准备了多少“惊喜”啊……",
+         "ja": "家族からそんなにたくさん「サプライズ」があるの？",
+         "ko": "그럼, 앞으로 이런 '깜짝선물'이 얼마나 더 남았지...?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Catcher",
+         "zh-TW": "卡契爾",
+         "zh-CN": "卡契尔",
+         "ja": "キャッチャー",
+         "ko": "카치르"
+        },
+        "text": {
+         "en": "Quite ... a bit, probably.",
+         "zh-TW": "可能……還蠻多的。",
+         "zh-CN": "可能……还挺多的。",
+         "ja": "はい……多分、想像よりも多いかと。",
+         "ko": "아마... 꽤 남았을 겁니다."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Some TGCC prototypes ... few Seš'qa witchcraft items...",
+      "zh-TW": "有一些是商會的新式武器，還有一些是塞什卡的巫術製品……",
+      "zh-CN": "有一些是商会的新式武器，还有一些是塞什卡的巫术制品……",
+      "ja": "商会の新型武器もあれば、セシュカの巫術製品も……",
+      "ko": "상업연합회에서 출시한 신형 무기도 있고, 세쉬카의 주술 제품도 있고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "My second sister's \"gift\" last time was ... a custom exosuit. That thing even spooked the logistics operators on shift.",
+      "zh-TW": "最誇張的大概是上次二姐送給我的外骨骼，把當時負責物流的後勤幹員都嚇到了。",
+      "zh-CN": "最夸张的大概是上回二姐送给我的外骨骼，把当时负责的负责物流的后勤干员都给吓到了。",
+      "ja": "中でも、パワードスーツが送られてきたときはどうしようかと。姉からでしたが、物流担当のオペレーターも本当に驚いていました。",
+      "ko": "제일 심했던 건, 아마 지난번 둘째 누나가 보내준 강화 골격이었 거예요. 당시 물류를 담당했던 지원 오퍼레이터가 보자마자 기겁을 했었죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "I sent letters asking them to dial back the \"surprise factor\", but they don't seem to think any of the gifts is dangerous...",
+      "zh-TW": "我後來也有寫信給他們，叫他們稍微注意一點禮物的……驚嚇性。但他們好像都不覺得這些東西有多危險……",
+      "zh-CN": "我后来也有写信给他们，让他们稍微注意一点礼物的……惊吓性。但他们好像都不觉得这些东西有多危险……",
+      "ja": "それで、贈り物を……もう少し控えめなものをと手紙を出しました。でも、あまり意味はなかったようですね。",
+      "ko": "저도 그 후 편지를 보냈었습니다. 선물 종류에 신경을 좀 써달라고요... 하지만 가족들은 그 선물들이 위험하다고 전혀 생각하지 않는 것 같았어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "I guess that Oripathy incident messed them up. But their protection ... makes things complicated.",
+      "zh-TW": "雖然我猜是那場令我患上礦石病的意外讓他們有了陰影，但這種過度的保護，很多時候也讓我有點為難……",
+      "zh-CN": "虽然我猜是那场让我患上矿石病的意外让他们有了阴影，但这种过度的保护，很多时候也让我有些为难……",
+      "ja": "きっと、自分が鉱石病にかかったときの事故が原因で、トラウマになっているのだと思います。しかし、あまりにも過保護で……困るときもあります。",
+      "ko": "아마 제가 광석병에 걸리게 된 그 사고 때문에, 여전히 트라우마가 남아있는 거겠죠. 하지만 이런 과잉보호는 가끔 저를 난처하게 합니다..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Guess to them I'm still that kid who couldn't sit up without help.",
+      "zh-TW": "就好像在他們眼裡，我一直都還沒長大一樣。",
+      "zh-CN": "就好像在他们眼里，我一直都还没长大似的。",
+      "ja": "家族にとっての自分は、ずっと成長しない子どものままなのかと……",
+      "ko": "가족들의 눈에 전 아직 지켜줘야 할 어린아이처럼 보이는 것 같아요..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That's family for you.",
+         "zh-TW": "因為他們是你的家人。",
+         "zh-CN": "因为他们是你的家人。",
+         "ja": "家族だから、だと思うよ。",
+         "ko": "그건 그분들이 너의 가족이기 때문이야."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "When family cares, they'll always wonder if it's enough.",
+         "zh-TW": "對於珍視的家人，他們會擔憂自己給予的關懷是否足夠。",
+         "zh-CN": "对于珍视的家人，他们会担忧自己给予的关怀是否足够。",
+         "ja": "大切な家族に対して、自分の気持ちが十分伝わっているか、不安なのかもしれないね。",
+         "ko": "줘도 줘도 부족하다고 느끼는 게 가족의 마음이니까."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Not just them, Z7's always got your back too.",
+         "zh-TW": "其實不止你的家人，很多在你身邊的人也像他們那樣在乎你，比如Z7的大家。",
+         "zh-CN": "其实不只你的家人，很多在你身边的人也像他们那样在乎你，比如Z7的大家。",
+         "ja": "それに君の家族だけじゃなくて、Z7の皆も同じように君を心配しているよ。",
+         "ko": "사실, 네 가족들뿐만 아니라, 주위에 있는 수많은 사람들이 널 걱정하고 아끼고 있어. Z7의 팀원들이 바로 그렇지."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Akekuri rearranged her whole schedule last time just to keep you from pushing too hard. And Antal's asked me twice now for \"how to make Catcher laugh\" tutorials...",
+         "zh-TW": "上次秋栗就因為擔心你會勉強自己，調整了工作安排；安塔爾也不止一次詢問過逗你笑的竅門……",
+         "zh-CN": "上回秋栗就因为担心你会勉强自己，调整了工作安排；安塔尔也不止一次询问过逗你笑的窍门……",
+         "ja": "この間、アケクリが君が無理をしないようにと仕事を調整していたのを見た。アンタルも、君を笑わせたいとコツを聞いてきたし……",
+         "ko": "며칠 전에도 아케쿠리가 너 무리할까 봐 걱정돼서 업무 일정을 조정해 줬고, 안탈은 몇 번이나 나한테 널 웃게 할 방법을 물어보기도 했고..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "They've all got their ways of looking out for you. Myself included.",
+         "zh-TW": "他們都想用自己的方式給予你一份關心，我也不例外。",
+         "zh-CN": "他们都想用自己的方式给予你一份关心，我也不例外。",
+         "ja": "皆、君を大切に思って、気持ちを伝えようとしているんだね。もちろん、自分もそうだよ。",
+         "ko": "그들 모두 각자의 방식으로 널 아끼고 있어. 나도 마찬가지고."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Since we're at it, I might as well send you a gift too? How about the new Specialist Tech Division support kit?",
+      "zh-TW": "這麼一說，我都想送你一份禮物了。比如特種技術部門最新配備的輔助裝備組，怎麼樣？",
+      "zh-CN": "这么一说，我都想送你一份礼物了。比如特种技术部门最新配备的辅助装备组，怎么样？",
+      "ja": "なんだか、君に贈り物をしたくなってきた……特殊技術部の最新支給品補助セットなんて、どうだろう。",
+      "ko": "얘기하다 보니, 나도 너한테 뭐라도 선물하고 싶어지네. 특수 기술부에서 새로 개발한 보조 장비 세트 같은 건 어때?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Endmin ... you too...",
+      "zh-TW": "管理員……你怎麼也……",
+      "zh-CN": "管理员……你怎么也……",
+      "ja": "管理人まで……",
+      "ko": "관리자님... 어떻게 관리자님까지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Hm? What's wrong? Did I overstep?",
+      "zh-TW": "嗯？我怎麼了？有什麼不對嗎？",
+      "zh-CN": "嗯？我怎么了？有什么不对吗？",
+      "ja": "どうしたの？何かあった？",
+      "ko": "음? 내가 뭐? 무슨 문제라도 있나?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "Nothing. Just ... found the right file. Please review when able...",
+      "zh-TW": "沒什麼。就是……我找到正確的檔案了，你記得看……",
+      "zh-CN": "没什么。就是……我找到正确的文件了，你记得看……",
+      "ja": "いえ……正しいファイルを見つけましたので、送ります。ご確認ください……",
+      "ko": "아닙니다... 파일을 보내드렸으니, 나중에 꼭 확인해 주세요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Catcher",
+      "zh-TW": "卡契爾",
+      "zh-CN": "卡契尔",
+      "ja": "キャッチャー",
+      "ko": "카치르"
+     },
+     "text": {
+      "en": "I ... um ... gotta do drills now...",
+      "zh-TW": "我……我先去訓練了……",
+      "zh-CN": "我……我先去训练了……",
+      "ja": "自分は……訓練に行ってきます……",
+      "ko": "그럼... 저는 이만 훈련하러 가보겠습니다..."
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "File [Z7 Combat Protocols Adjustment Proposal (Individualized)] Accepted",
+      "zh-TW": "檔案[Z7作戰方案個人調整建議]已接收",
+      "zh-CN": "文件[Z7作战方案个人调整建议]已接收",
+      "ja": "ファイル「Z7作戦計画個人調整案」を受信しました",
+      "ko": "파일 [Z7 작전 계획 조정 제안서] 수신 완료"
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 0
+}

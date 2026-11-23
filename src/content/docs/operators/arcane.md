@@ -55,6 +55,8 @@ sources:
 
 Arcane is the stern captain of the Yinglung Special Task Force stationed at Yinglung Pass; since the disaster in the northern exclusion zone, containing the Wuling Very Large Rift has been her only aim.
 
+Files, voice lines and chats: [Arcane's file](/story/arcane/).
+
 ## How to obtain
 
 Arcane is the rate-up 6-star operator of North Yearns the Rift Vigile, a Chartered Headhunting banner of [Version 1.4, Homecoming](/versions/1-4/). Banners with Arcane:

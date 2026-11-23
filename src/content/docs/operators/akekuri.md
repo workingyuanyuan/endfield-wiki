@@ -44,6 +44,8 @@ sources:
 
 Akekuri is a former Business School honors student who volunteered for Endfield Industries, built Operations Team Z7 of the Specialist Tech Division almost single-handedly, and captains it.
 
+Files, voice lines and chats: [Akekuri's file](/story/akekuri/).
+
 ## How to obtain
 
 Akekuri has no rate-up banner. Akekuri is in the standard roster, which Basic Headhunting and every Chartered Headhunting pool draw from.

@@ -57,6 +57,8 @@ sources:
 
 Gilberta is a Rhodes Island operator serving as a Messenger in Endfield's Specialist Tech Division, using rare gravity-controlling Originium Arts while delivering mail and intel.
 
+Files, voice lines and chats: [Gilberta's file](/story/gilberta/).
+
 ## How to obtain
 
 Gilberta is the rate-up 6-star operator of The Floaty Messenger, a Chartered Headhunting banner of [Version 1.0](/versions/1-0/). Banners with Gilberta:

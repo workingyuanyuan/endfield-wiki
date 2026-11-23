@@ -1,0 +1,3011 @@
+{
+ "slug": "estella",
+ "gameId": "chr_0021_whiten",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Estella \nGENDER: Female \nAUTHENTICATION: Endfield Industries \nDOB: April 9 \nRACE: Feline \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Normal \nCOMBAT SKILL: Standard \nTACTICAL ACUMEN: Excellent \nORIGINIUM ARTS ASSIMILATION: Standard \n\nGiven the results from Miss Estella's latest physical examinations, we recommend raising the intensity of her endurance training to improve her muscular stamina. Should the results of the next PE fall below average, a probationary training regimen shall be administered and monitored by the Capitan of Operations Team Z7.",
+    "zh-TW": "【代號】埃特拉\n【性別】女\n【身分認證】終末地工業\n【生日】4月9日\n【種族】菲林\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：普通\n作戰技巧：標準\n戰術規劃：優良\n源石技藝適應性：標準\n\n針對埃特拉小姐最新的體測數據，我們強烈建議其強化耐力訓練，以提升肌肉耐受力。下一次體測數據如果依舊不理想，會強制安排訓練行程，並交由Z7行動組組長監督執行。",
+    "zh-CN": "【代号】埃特拉\n【性别】女\n【身份认证】终末地工业\n【生日】4月9日\n【种族】菲林\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：普通\n作战技巧：标准\n战术规划：优良\n源石技艺适应性：标准\n\n针对埃特拉小姐最新的体测数据，我们强烈建议其强化耐力训练，以提升肌肉耐受力。下一次体测数据如果依旧不理想，会强制安排训练日程，并交由Z7行动组组长监督执行。",
+    "ja": "【コードネーム】エステーラ\n【性別】女\n【身分証明】エンドフィールド工業\n【誕生日】4月9日\n【種族】フェリーン\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：普通\n戦闘技術：標準\n戦術立案：優秀\nアーツ適性：標準\n\n最新の測定結果を踏まえ、筋肉の耐性向上を目的として、持久力訓練の強化を強く推奨。次回の測定結果が依然として基準を下回る場合、訓練スケジュールを強制的に編成し、行動隊Z7隊長の監督の下で実施する予定。",
+    "ko": "[코드네임] 에스텔라\n[성별] 여\n[신분 인증] 엔드필드 공업\n[생일] 4월 9일\n[종족] 필라인\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 보통\n작전 기술: 표준\n전술 계획: 우수\n오리지늄 아츠 적응성: 표준\n\n에스텔라 씨의 최신 체력 측정 데이터에 근거하여, 근지구력을 강화하기 위한 지구력 훈련을 집중적으로 실시할 것을 강력히 권고한다. 다음 측정에서도 기준에 미흡할 경우, 강제 훈련 일정을 편성할 것이며, 해당 훈련은 Z7 작전팀 팀장이 직접 감독하게 될 예정입니다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Estella (ID name: Estella Kerr) has official operational records with the TGCC and the UWST. She has demonstrated remarkable talents in scouting and intel gathering operations. Following Operator Akekuri's applications, Estella is now a member of Operations Team Z7. \n\nEstella's work experiences are rather extensive. I wanted to learn more about her past but she remained exceptionally quiet during the signing process and exhibited zero intents of communication apart from answering the questions I asked. And even amongst these limited things we talked about, I find most of her answers rather difficult to interpret... Fortunately, no issues of principle have been identified. However, given the positive reputation of her superior officer Miss Akekuri and the latter's guarantee, we shall overlook potential risks of personnel management that may result from Estella's lack of communication abilities. We hereby approve Estella's employment. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員埃特拉，本名埃特拉·科爾，在環塔商會與聯盟工團管轄區域均有活動紀錄。其在偵察與情報收集方面展現了過人天賦，經幹員秋栗申請，納入Z7行動組管理。\n\n埃特拉有著豐富的經歷，我本想深入瞭解她的過往，但她在簽約過程中始終很安靜，除了回答問題外並無主動溝通的意願。此外，在僅有的一些話題中，她的回答常常讓我無法理解……好在她並沒有什麼原則性的問題。鑑於其直屬上司秋栗女士的良好聲譽與預先擔保，暫不考慮由於她溝通能力不足導致的管理風險，准許入職。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员埃特拉，本名埃特拉·科尔，在环塔商会与联盟工团管辖区域均有活动记录。其在侦察与情报收集方面展现了过人天赋，经干员秋栗申请，纳入Z7行动组管理。\n\n埃特拉有着丰富的经历，我本想深入了解她的过往，可她在签约过程中始终很安静，除了回答问题外并无主动沟通的意愿。此外，在仅有的一些话题中，她的回答常常让我无法理解……好在她并没有什么原则性的问题。鉴于其直属上司秋栗女士的良好声誉与预先担保，暂不考虑由于她沟通能力不足导致的管理风险，准许入职。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "エステーラ、本名は「エステーラ・ケル」。環タロ商会および工業団連盟の管轄区域における活動記録が確認されている。偵察や情報収集において高い適性を示しており、アケクリの申請により、行動隊Z7へと配属された。\n\n「エステーラは多岐にわたる経歴を持っています。その過去について深く掘り下げることを試みましたが、契約手続きの間は終始物静かな様子で、こちらの質問には答えるものの、自発的にコミュニケーションを取る意志は見られませんでした。また、わずかな会話の中でも、彼女の回答は私にとって理解に苦しむものが多かったのです……幸い、根本的な問題は確認されていません。直属の上司であるアケクリさんの高い評価と事前の保証を踏まえ、コミュニケーション能力に起因する管理リスクについては一旦考慮外とし、入職を許可します。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 에스텔라, 본명 에스텔라 커. 탈로스 II 상업연합회와 연맹 공단의 관할 구역에서 모두 활동 기록이 있다. 정찰 및 정보 수집 분야에서 뛰어난 재능을 보여주고 있으며, 아케쿠리 오퍼레이터의 요청으로 Z7 작전팀에 배속되었다.\n\n에스텔라는 풍부한 경험을 가진 인물로, 그녀의 과거에 대해 좀 더 깊이 알아보고 싶었다. 하지만 그녀는 계약 절차 내내 매우 조용했고, 질문에 대한 대답 외에는 먼저 소통하려는 의지를 보이지 않았다. 게다가, 그나마 나눈 몇 안 되는 대화에서도 어떤 대답은 이해하기 쉽지 않았다... 다행히 원칙적인 문제는 발견되지 않았고, 그녀의 직속상관인 아케쿠리의 평판과 사전 보증을 고려하여, 에스텔라의 소통 능력 부족으로 인한 관리 리스크는 일단 문제 삼지 않기로 하고 입사를 승인했다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "No Op Z7 teammates, except for Estella, have positive memories regarding the anniversary for the Founding of Operations Team Z7. However, everyone agrees that it was an unforgettable occasion. \nAt first, Akekuri found that the team had no field assignments on the day of the anniversary and suggested celebrating the occasion. Everyone responded positively and a discussion on the means of celebration began. However, since the team was encamped in the wildlands far from the Civilization Band, every suggestion involved some form of outdoor activity. Estella, unwilling to engage in any physical exertion, naturally voted against every single proposal. In the end, \"riverside picnic\" was the only option that received a unanimous vote. It was not the favorite option for everyone, but at least nobody voted against it. \nOn the day of the anniversary, everyone was eagerly gathering herbs and hunting game. Estella, however, returned with an armful of colorful mushrooms. Her teammates firmly rejected her suggestion to toss those wild fungi into the cooking pot. In the end, the team conceded. Under Captain Akekuri's watchful eyes, several unassuming mushrooms were allowed to be part of the stew. \nAs the sun set, the team built a campfire by the river to enjoy what they had gathered throughout the day. Fortunately, the \"unassuming\" mushrooms turned out to be only mildly toxic. Unfortunately, they were incredibly spicy. The team emptied their water canteens to douse the heat but to no avail. Desperate, they rushed to the riverbank to wash the spicy taste away with river water. That's when they heard a low rumble coming from upstream — the dam had begun a reservoir drawdown! \n\"Curses! I forgot about the UWST reservoir drawdown notice! That's why there's no field operations today!\" \nNo one remembered exactly how they ended up swept away by the floodwaters. When they finally came to, they found Estella skillfully surfing the rushing water on the team's cooking pot. The sun had already set when the four Op Z7 teammates pulled each other to shore. They had no choice but head downstream to look for Estella. Finally, the team found Estella sound asleep at a nomad campfire in wee hours of the morning. The nomads treated Akekuri and her team to a proper wildlands feast. \nThe nomads were extremely accommodating and the team decided to rest there for the night. Just as Akekuri was about to fall asleep beneath the starry ceiling, she suddenly remembered a Z7 field assignment in a few hours' time. Estella could not be awakened, so the four Z7 teammates took turns carrying her. They successfully reached the Endfield camp at daybreak. \nAccording to Estella's memories, she was completely unconscious as she probably ate the other fungi she picked. She treated the flood waters as a packed and riotous moshpit, and fantasized herself as a rockstar performing a stage dive and surfing the crowd while she growled and screamed her songs. Nobody knew what Estella sang. Akekuri only remembered how she carried Estella and trudged back to camp. The young girl on her back did mumble a few things while she slept — things about home.",
+    "zh-TW": "提起Z7行動組集結周年紀念日，除埃特拉以外的成員，恐怕都不會覺得這是什麼愉快的回憶。但是，也不會有人否認，這是一段終生難忘的回憶。\n一開始，秋栗只是發現紀念日那天正好沒有外勤任務，便提議要不要小小慶祝一下。大家都覺得不錯，便討論起如何慶祝。由於那時他們駐紮在遠離文明環帶的荒野，大家的建議不外乎是一些戶外活動，所以投票時均遭到了不願進行體力活動的埃特拉的否決。最終，只有「河邊野餐」這個方案通過了。它未必是所有人的最優選，但也沒人不喜歡。\n紀念日當天，大家情緒高昂地收集著食材，大概就是一些山菜野味。唯獨埃特拉，捧著一堆五顏六色的菌類歸來，遭到了隊友們的強烈抵制，拒絕她的食材入鍋。最終，在秋栗的把關下，才勉強從埃特拉的食材中，拿出了一些長相低調的蘑菇入鍋烹飪。\n伴著落日，小隊的大家在河邊架起了鍋，開始享用勞動成果。然而，這些菇雖然沒有太強的毒性，卻也沒長相般溫和，吃起來辛辣無比。喝完了攜帶的水，還是不解辣，大家乾脆來到河邊，捧起河水狂飲，希望能壓制口中的辛辣。但喝著喝著，上游傳來低沉的轟鳴——是上游的水壩在洩洪！\n「完了，我忘了今天沒外勤就是因為工團的洩洪通知！」\n關於被洪流捲入的細節，大家都記不太清楚了。等他們回過神，發現埃特拉已經踩著鍋子，像一個熟練的衝浪者般踏浪遠去了。當剩餘四人互相攙扶一起上了岸，天色已晚，只能摸黑順著河向下游尋找埃特拉。最終，在淩晨時分，才在一個流民的篝火邊找到了熟睡的埃特拉。流民們熱情招待了秋栗一行人，他們也吃到了一頓真正的野味大餐。\n在流民們的好心挽留下，小隊決定在這裡休息一夜。當秋栗枕著漫天群星，準備好好睡上一覺時，想起了明早還有外勤任務。最終，四人輪流背著無法叫醒的埃特拉，在東方魚肚白時分，趕回了營地。\n據事後回憶，埃特拉之所以無法叫醒，大概是因為偷吃了她自己採摘的菌類，導致她將洪流看成了大波的人潮，她像個搖滾明星一樣進行著「跳水」的儀式，被人流托舉著高歌。至於埃特拉當時唱了什麼，沒人知道。秋栗只記得，自己背著埃特拉一步一步走回營地時，背上的少女說著夢話——關於回家。",
+    "zh-CN": "提起Z7行动组集结周年纪念日，除埃特拉以外的成员，恐怕都不会觉得这是什么愉快的回忆。但是，也不会有人否认，这是一段终生难忘的回忆。\n起初，秋栗只是发现纪念日那天正好没有外勤任务，便提议要不要小小庆祝一下。大家都觉得不错，便讨论起如何庆祝。由于那时他们驻扎在远离文明环带的荒野，大家的建议不外乎是一些户外活动，所以投票时均遭到了不愿进行体力活动的埃特拉的否决。最终，只有“河边野餐”这个方案通过了。它未必是所有人的最优选，但也没人不喜欢。\n纪念日当天，大家情绪高昂地收集着食材，不外乎是一些山菜野味。唯独埃特拉，捧着一堆五颜六色的菌类归来，遭到了队友们的强烈抵制，拒绝她的食材入锅。最终，在秋栗的把关下，才勉强从埃特拉的食材中，取出了一些长相低调的蘑菇入锅烹饪。\n伴着落日，小队的大家在河边架起了锅，开始享用劳动成果。然而，这些蘑菇虽然没有太强的毒性，却也不似长相般温和，尝起来辛辣无比。喝完了携带的水，还是不解辣，大家索性来到河边，捧起河水狂饮，希望能压制口中的辛辣。可喝着喝着，上游传来低沉的轰鸣——是上游的水坝在泄洪！\n“坏了，我忘了今天没外勤就是因为工团的泄洪通知！”\n关于被洪流卷入的细节，大家都记不太清楚了。待他们回过神，发现埃特拉已经踩着锅，像一个熟练的冲浪者一般踏浪远去了。当剩余四人互相搀扶着上了岸，天色已晚，只能摸黑顺着河向下游寻找埃特拉。最终，在凌晨时分，才在一个流民的篝火边找到了熟睡的埃特拉。流民们热情招待了秋栗一行人，他们也吃到了一顿真正的野味大餐。\n在流民们的好心挽留下，小队决定在这里休息一夜。当秋栗枕着漫天群星，准备好好睡上一觉时，想起了明早还有外勤任务。最终，四人轮流背着无法叫醒的埃特拉，在东方鱼肚白时分，赶回了营地。\n据事后回忆，埃特拉之所以无法叫醒，大约是偷吃了她自己采摘的菌类，以至于她将洪流看作了沸腾的人潮，她像个摇滚明星一般进行着“跳水”的仪式，被人流托举着高歌。至于埃特拉当时唱了什么，没人知道。秋栗只记得，自己背着埃特拉一步一步走回营地时，背上的少女说着梦话——关于回家。",
+    "ja": "行動隊Z7の結成記念日を「ありがたい思い出」と呼ぶのは、エステーラくらいだろう。しかし、それが「忘れがたい思い出」であることを否定する者は、誰もいないはずだ。\n最初に、その日は外勤任務が入っていないことに気づいたのはアケクリだった。それで「せっかくだから、少しお祝いしよう」と提案し、皆も賛同した。どう祝うかについて話し合いが始まったが――そのときいたのは、文明地帯から離れた荒野。出てくるアイディアはどれもアウトドアに関わるものばかりだった。結果、体力を使いたくないエステーラによってすべて却下され、最終的に「川辺でピクニックをする」という案に落ち着いた。全員にとって最良の選択とは言えなかったが、少なくとも反対する者はいなかった。\n記念日当日、皆わくわくしながら食材集めに出かけた。基本的には山菜やジビエが中心だったが、エステーラだけは色とりどりのキノコをたくさん持ち帰ってきた。当然、隊員は断固拒否した――「鍋には絶対入れたくない」と。最終的にはアケクリの厳しいチェックにより、比較的見た目が地味なものが選ばれ、鍋に入れることが許された。\n日が沈む頃、隊員たちは河辺で鍋を火にかけ、その日の成果を味わい始めた……が、キノコは地味な見た目に反し、味は全く地味ではなかった。毒こそなかったが、舌が燃えるような辛さだったのだ。持参した水を飲み干しても口の中の辛さは引かない。ついには皆で川に向かい、水を直接すくって飲み始めた……そのときだった。上流から重く沈んだような轟音が聞こえてきた――ダムの放水だ！\n「忘れてた……！今日外勤がなかったのは、工業団の放水があったから！」\nその後のことは、誰も詳細を覚えていない。ただ……流れに巻き込まれる中で、エステーラが鍋の上に立ち、まるで波を滑るサーファーのように濁流を駆け抜けていく姿だけが見えたという。残った4人は互いに支え合いながらなんとか岸に辿り着き、すっかり暗くなった空の下、手探りで下流に向かってエステーラを探し始めた。そして夜明け前、ようやく流浪者の焚き火のそばで眠っているエステーラを見つけた。流浪者たちはアケクリ一行を温かくもてなしてくれた……おかげで、隊員はようやく本物のジビエ料理を口にすることができたのだった。\n流浪者の厚意で、そこに一晩滞在することに決めた。アケクリが星の光を浴びながら眠ろうとしたその瞬間、翌朝の外勤任務のことを思い出した。結局、眠り続けるエステーラを4人は交代で背負って、夜明けとともにキャンプ地へと戻っていった。\n後に判明したことだが、エステーラが起きなかったのはおそらく自分で採ったキノコを食べたせいだ……だから、流れてくる濁流を盛り上がる人々の波と見間違えたそうだ。まるでロック・スターのようにその「人々の波」へとダイブし、担ぎ上げられながら大声で歌い続けていたという。そのときエステーラが何を歌っていたのか、誰も知らない。それから、アケクリの記憶に残っていること――彼女をおんぶして一歩一歩キャンプ地へと進む道のりで、背中の少女が寝言を呟いた――「家に帰りたい」……",
+    "ko": "Z7 작전팀 결성 1주년 기념일에 대해 말하자면, 에스텔라를 제외한 나머지 팀원들은 아마도 그날을 유쾌하게 떠올리진 않을 것이다. 하지만 동시에, 누구도 그 날이 평생 잊을 수 없는 기억이라는 사실은 부정하지 않을 것이다.\n처음에는 아케쿠리가 마침 그 날 외근 임무가 없다는 걸 발견하고, 작게나마 축하파티를 해보자고 제안한 것이 화근이었다. 모두 괜찮은 생각이라며 동의했고, 기념일을 어떻게 보낼지 이야기를 나누기 시작했다. 당시 그들은 문명 밴드에서 멀리 떨어진 황무지에 주둔하고 있었기에, 다들 야외 활동 위주로 제안했다. 하지만 활동적인 이벤트를 싫어하는 에스텔라가 반대하며 모든 안이 부결되었고, 결국 '강가 피크닉'만 겨우 통과되었다. 모두에게 최선의 선택은 아니었을지 몰라도, 딱히 싫어하는 사람도 없었다.\n기념일 당일, 모두 들뜬 마음으로 식재료를 모으러 나섰다. 대부분은 산나물이나 야생 동물 등이었다. 그런데 유독 에스텔라만 알록달록한 버섯을 한 아름 안고 돌아왔고, 팀원들은 격렬하게 반대하며 그 버섯을 냄비에 넣지 못하게 막았다. 결국 아케쿠리가 나서서 꼼꼼히 확인한 끝에야 평범하게 버섯 몇 개만 골라 요리를 시작했다.\n해가 질 무렵, 팀 모두 강가에 솥을 걸고 함께 음식을 즐기기 시작했다. 그러나 그 버섯들은 독성이 강하진 않았지만, 생김새와 달리 너무나도 매웠다. 준비해 온 물을 다 마셔도 매운맛이 가시지 않자, 전부 강으로 뛰어가 강물까지 떠 마시기 시작했다. 바로 그때, 상류에서 묵직한 굉음이 들려왔다. 상류의 댐이 방류를 시작한 것이었다!\n\"아, 오늘 외근이 없었던 게, 공단의 방류 통보 때문이었지!\"\n방류에 휘말린 이후의 기억은 희미했다. 정신을 차려보니, 에스텔라는 솥을 밟고 서핑하듯 물살을 가르며 떠내려가고 있었고, 남은 네 사람이 겨우 서로를 부축해 강가로 간신히 올라왔을 때는 이미 밤이 돼 있었다. 그들은 깜깜한 밤 속에서 에스텔라를 찾아 하류를 따라 이동했다. 새벽녘에야 한 유랑자 무리가 피운 모닥불 옆에서 곤히 잠든 에스텔라를 발견했다. 유랑자들은 아케쿠리 일행을 따뜻하게 맞이해주었고, 이들 덕분에 진정한 '만찬'도 즐길 수 있었다.\n하룻밤 묵고 가라는 유랑자들의 권유에 따라 팀원은 그곳에서 하룻밤 쉬어가기로 했다. 하지만 밤하늘을 보며 누워 있던 아케쿠리가 다음 날 외근 일정이 있다는 걸 떠올렸고, 결국 네 사람은 깊게 잠든 에스텔라를 번갈아 등에 업고, 동이 틀 무렵에야 겨우 숙소에 도착했다.\n나중에 생각해 보니, 에스텔라가 깨어나지 못한 건, 자신이 채집한 버섯 중 하나를 몰래 먹어서인 것 같다. 에스텔라는 당시 밀려오는 홍수가 열광하는 인파처럼 보였고, 마치 록 스타처럼 그 인파에 '다이빙'하며 노래를 불렀다고 했다. 그때 그녀가 불렀다는 노래는 아무도 모른다. 다만 아케쿠리는, 에스텔라를 업고 돌아가는 길에, 에스텔라가 잠꼬대로 '집에 가고 싶다'며 계속 중얼거린 것만 기억할 뿐이다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "DOCUMENT: Archived operational records (OBSOLETE) \n\"Operator Estella, you were instrumental to the success of our espionage and counter-espionage mission against the surviving Landbreaker elements that infiltrated this area. For operational debriefing, we must now go over details of the following achievements we made in the field. They will be used as reference and instructional materials for our future operations.\" \n\"Okay. You flatter me.\" \n\"How did you successfully avoid enemy's feint and correctly deduce actions of the main attacking force?\" \n\"I ... uh... I was conducting voluntary standby. When I'm done standing by, the enemy's main force were within visual range.\" \n\"In other words, can we assume you have received a relevant order? Sounds like incredible foresight. Did Captain Akekuri give you that order?\" \n\"I believe it was given to me by electrolytic imbalance and accumulation of anaerobic metabolites. At least that's what I felt...\" \n\"So... You're trying to say that you missed the enemy's feint attack because you were resting, but woke up to encounter the main enemy force? Okay... Erm... Next question.\" \n\"So, how did you intercept the enemy's operational pass code and decipher their subsequent actions?\" \n\"The beat wasn't right. I heard it.\" \n\"Beat? What's the beat?\" \n\"I spent a day in the camp of the surviving Landbreakers. They kept playing the DEATH☆DREAMS album. I have always been a fan since I was little. Akekuri and Fluorite called it noisy so I stopped playing it.\" \n\"Can we get to the point, please...?\" \n\"Well, DEATH☆DREAMS has a simple structure. The drums were played on 4/4. I knew the rhythm and tempo of every song on the album. But the beats were off that day. Bass was off. There's a sound that's constantly changing lurking under the drums.\" \n\"I'm afraid I'm losing you there. What happened next?\" \n\"I thought it was some wildlands remix so I focused really hard on the beat and jotted it down. And it happened to be a series of breaker codes. I've learned them before. We later rallied and cleared out the outpost and discovered they were using oscillators to send out their codes. DEATH☆DREAMS was just the camouflage. What a waste of good music.\" \n\"Well... regardless, you successfully provided us with key intel. Thank you. This will be the end of our inquiry.\" \n\nApplication rejected. The aforementioned operational log offers no values of reference to standard operations teams. \n— Akekuri, Captain, Operations Team Z7",
+    "zh-TW": "【行動紀錄歸檔資料（已作廢）】\n「埃特拉幹員，此次針對裂地者殘黨的潛入所進行的偵察與反偵察行動大獲成功，你功不可沒。我需要針對以下戰果進行細節檢討，作為後續行動的參照與指導。」\n「好的，過獎了。」\n「你是如何巧妙避開了敵人的佯攻，並推測出其主攻部隊的動向的？」\n「是……我進行了非強迫性待命。當待命結束，敵人的大部隊已行進至視野範圍內。」\n「也就是說，你接收到了相關指令嗎？好強的前瞻性，是秋栗組長下達的嗎？」\n「是無氧代謝副產物累積與電解質失衡，我是這樣感覺的……」\n「嗯……所以你只是因為休息錯過了敵人的佯攻部隊，結果遇到了主力部隊。好吧……下一個問題。」\n「你是如何截獲了敵人的行動暗號，並破解出敵人下一步動向的？」\n「節拍不對，我聽到了。」\n「什麼的節拍？」\n「殘黨的駐地，我潛伏了一天一夜，他們一直在播放《DEATH☆DREAMS》那張專輯，我從小時候就開始聽了。秋栗和螢石嫌吵，我很久沒聽過了。」\n「麻煩說重點……」\n「這張專輯的編曲很簡單，鼓組從頭到尾都是4/4拍，我對每首歌的節奏型都很熟。但那天卻很怪，低頻不穩，有一個不斷變化的聲音潛伏在鼓點下。」\n「越來越聽不懂了，然後呢？」\n「我以為是什麼荒野Remix，就認真聽了那個節奏，並記了下來。那是一段裂地者暗號，我學過。後來，我們集結並肅清了這個據點，發現他們在用震盪器向外傳送暗碼，《DEATH☆DREAMS》只是障眼法，糟蹋了好音樂。」\n「呃……不管怎麼說，你成功提供了關鍵情報，謝謝，詢問結束。」\n\n以上行動紀錄對一般行動組並無參考價值，申請作廢。\n——Z7行動組組長 秋栗",
+    "zh-CN": "【行动记录归档资料（已作废）】\n“埃特拉干员，此次针对裂地者残党的潜入所进行的侦察与反侦察行动大获成功，你功不可没。我需要针对以下战果进行细节复盘，作为后续行动的参照与指导。”\n“好的，过奖了。”\n“你是如何巧妙避开了敌人的佯攻，并推测出其主攻部队的动向的？”\n“是……我进行了非受迫性待命。当待命结束，敌人的大部队已行进至视野范围内。”\n“也就是说，你接收到了相关指令吗？好强的前瞻性，是秋栗组长下达的吗？”\n“是无氧代谢副产物累积与电解质失衡，我是这么感觉的……”\n“唔……所以你只是因为休息错过了敌人的佯攻部队，结果碰上了主力部队。好吧……下一个问题。”\n“你是如何截获了敌人的行动暗号，并破译出敌人下一步动向的？”\n“拍子不对，我听到了。”\n“什么的拍子？”\n“残党的驻地，我潜伏了一天一夜，他们一直在播放《DEATH☆DREAMS》那张专辑，我从小时候就开始听了。秋栗和萤石嫌吵，我很久没听过了。”\n“麻烦说重点……”\n“这张专辑的编曲很简单，鼓组从头到尾都是4/4拍，我对每首歌的节奏型都很熟。但那天却很怪，低频不稳，有一个不断变化的声音潜伏在鼓点下。”\n“越来越听不懂了，然后呢？”\n“我以为是什么荒野Remix，就认真听了那个节奏，并记了下来。那是一段裂地者暗号，我学过。后来，我们集结并肃清了这个据点，发现他们在用震荡器向外发送暗码，《DEATH☆DREAMS》只是障眼法，糟蹋了好音乐。”\n“呃……不管怎么说，你成功提供了关键情报，谢谢，询问结束。”\n\n以上行动记录对一般行动组并无参考价值，申请作废。\n——Z7行动组组长 秋栗",
+    "ja": "【行動記録ファイル（破棄済み）】\n「エステーラさん、ランドブレーカー残党に対する潜入偵察およびその対策行動は、大きな成果を収めました。今回の働きは、非常に素晴らしいものです。今後の行動指針とするためにも、ここで戦闘成果の詳細を振り返りたいと思います。」\n「は～い。身に余るお言葉……」\n「それではお伺いします。エステーラさんは、どのようにして敵の陽動をうまく回避し、主力部隊の動きを推測できたのですか？」\n「……あたし、とりあえず待機してたんだぁ～。でも、待機が終わったら、敵がいっぱい、ぶわぁ～って目に入ってきて……」\n「……つまり、何らかの指示を受けていたということでしょうか？先を見越した判断だったのですね。アケクリ隊長からの指示ですか？」\n「えっとぉ……嫌気性代謝の副産物が蓄積して、電解質が乱れて……そんな感じ……」\n「……要するに、ちょうど休憩を取っている際に、陽動部隊とすれ違ってしまい、結果的に主力部隊と遭遇した、ということですね。わかりました……それでは、次の質問に移らせていただきます。」\n「エステーラさんは、どのようにして敵の行動暗号を察知し、その内容を解析したのでしょうか？」\n「なぁんか、リズムが違った。」\n「リズム……？何の話でしょうか？」\n「残党の拠点に1日中ず～っと潜伏してたけど、『DEATH☆DREAMS』エンドレスリピート……あたしも、小さい頃からそのアルバム聴いてたんだぁ。アケクリとフローライトが『うるさい』って言うし、最近はあんまだったけど……」\n「……できるだけ要点を簡潔にお願いします。」\n「そのアルバム、編曲がビミョーに単純っていうかぁ……ドラムがずーっと4分の4拍子。リズム、体に染み付いちゃってて……でもあの日は、なんかヘンだったんだぁ～。ドラムの中に、低周波のビミョーな音が入ってて、安定しないし……」\n「……ええと、つまり？」\n「まぁ、荒野Remixかなぁって、ちゃんと聴いてリズム覚えて……そしたら、ランドブレーカーの暗号だったんだぁ。前に勉強してて良かったよねぇ……で、全員集合して拠点ぶっ潰したときにわかったんだけど。振動装置で外に信号送ってたっぽい……だから、『DEATH☆DREAMS』はカモフラージュに使われちゃった……音楽に対する侮辱。ひどいよねぇ……」\n「……とにかく、非常に重要な情報をありがとうございます。では、質問はこれにて終了とさせていただきます。」\n\n本行動記録は、一般的な行動隊にとって参考となる内容ではないため、破棄の申請をいたします。\n――行動隊Z7隊長　アケクリ",
+    "ko": "[작전 보관 기록 (폐기됨)]\n\"에스텔라 오퍼레이터, 이번의 랜드브레이커 잔당을 상대로 한 침투 정찰 및 역추적 작전이 대성공을 거둔 건, 당신의 공이 큽니다. 후속 작전의 참고를 위해 주요 성과에 대한 세부 절차를 복기하려 합니다.\"\n\"아, 과찬이세요.\"\n\"어떻게 적의 양동 작전을 능숙하게 피하고, 주력 부대의 진격 방향까지 정확히 예측하신 겁니까?\"\n\"그건... 비강제 대기 상태였어요. 대기를 마치고 일어났을 때, 적의 주력 부대가 시야에 들어와 있더라고요.\"\n\"그럼 지시를 받고 대기하신 겁니까? 아케쿠리 팀장의 명령이었습니까? 선견지명이 있으시군요.\"\n\"무산소 대사 부산물 축적과 전해질 불균형 때문이었어요... 제 몸이 그렇게 느꼈거든요...\"\n\"어, 그러니까... 그냥 쉬고 있다가 양동 부대는 놓치고, 때마침 주력 부대를 마주쳤단 얘기군요. 알겠습니다... 다음 질문입니다.\"\n\"적의 작전 암호를 어떻게 가로채고, 다음 동향까지 해독하신 겁니까?\"\n\"박자가 맞지 않는 걸 들었거든요.\"\n\"...박자 말입니까?\"\n\"잔당의 주둔지요. 거기서 하루 종일 잠복해 있었는데, 계속 <DEATH☆DREAMS> 앨범을 틀고 있었거든요. 어릴 때부터 많이 들었었는데, 아케쿠리 씨랑 플루라이트 씨는 시끄럽다고 싫어했지만, 저는 오랜만에 들었거든요.\"\n\"...요점만 말씀해 주십시오.\"\n\"그 앨범은 단순해서, 드럼 비트는 전부 4/4박자고, 저는 모든 곡의 리듬 패턴을 외우고 있거든요. 그런데 그날은 이상했어요. 저음이 불안정했고, 드럼 비트에 다른 소리가 섞여 있었어요.\"\n\"점점 이해가 안 가는데... 그래서 어떻게 된 겁니까?\"\n\"처음엔 황무지 리믹스 버전인 줄 알았죠. 그래서 그 박자에 집중해서 들으면서 기록했어요. 근데 알고보니 그게 바로 랜드브레이커의 암호였고, 전에 배운 게 떠올랐죠. 그 후 저희가 랜드브레이커의 거점을 소탕하면서 알게 됐죠. 놈들이 진동 장치를 이용해서 외부로 암호를 송신하고 있었고, <DEATH☆DREAMS>는 그걸 숨기기 위한 눈속임이었어요. 좋은 음악을 그렇게 낭비하다니...\"\n\"어... 어쨌든, 결정적인 정보를 제공해 주셔서 감사합니다. 이상으로 질문을 마칩니다.\"\n\n상기 작전 기록은 일반 작전팀에 참고 가치 없으므로 폐기를 신청합니다.\n- Z7 작전팀 팀장 아케쿠리"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "DOCUMENT: Log of Captain Akekuri's interview regarding Operator Estella's background check \nGiven the extraordinary circumstances of the operator in question, Captain Akekuri met me beforehand to discuss the operator's background and showed me a number of relevant physical and documentary information. \n\nEXHIBIT: A photograph \nAn old photograph shows a little Feline girl with silvery-white hair, happily sitting on a wooden rocking chair. A young man and woman sit beside her, their hands resting on her shoulders. Together, they look like a happy family. \nInformation from Akekuri revealed that this was a photograph taken 10 years ago in the study of Estella's family home. The place is now a ruin. The Aggeloi and the Blight forced them to move. The family brought their entire savings and traveled to La Fantoma with the aim of settling down in that city. \nHowever, the family did not achieve their goals. Captain Akekuri next displayed a newspaper cutting that recorded how Estella's family was swindled by an investment scheme and lost almost the entirety of their savings. \n\nEXHIBIT: Old newspaper cutting \nMacDoff Financial Scheme Breakthrough: Criminals Splurge and Decimate the Victims' Savings \nReported on the 9th of this month (Correspondent: Meralda). Bernard MacDoff, the chief suspect behind the super-massive financial scheme that shook Talos-II with the sheer scale of fortunes involved, was finally apprehended just yesterday after years of hiding. \nIn-depth investigations by our judicial system discovered that the criminal organization had devised a massive fraud scheme, luring unsuspecting investors with promises of generous returns. Principals from new investors were disguised as “payments” to older investors, creating the illusion that the scheme was generating massive profits. Many unsuspecting companies and individual investors were enticed to increase their investments in the MacDoff scheme. Such illegal financial operation of paying older investors with money from the new is a complete abomination of genuine investments that aim to generate true value. \nPersistent efforts by our law enforcement agencies paid off when MacDoff was finally brought to justice. He will be facing the full severity of the law. Unfortunately, the MacDoff gang has either splurged or transferred their illegal gains during their escape and hiding. After the case was filed, the amount of assets recovered and returned to the victims was a paltry sum compared to their losses. This means that despite arresting the chief suspect, the massive losses incurred by many companies and individual investors can no longer be salvaged. \nThis case is a stern warning to the general public: Money doesn't fall from the skies. Investors are advised to remain vigilant and alert. Be wary of intricately designed investment traps created by various criminal organizations. \n\nWhen the MacDoff case was closed, Estella's family had already joined the UWST and worked at Shaft 39 in the Northern Mineral Field. However, luck did not smile on this family. Captain Akekuri showed us another newspaper cutting. \n\nEXHIBIT: Old newspaper cutting \nAccident in the Northern Mineral Field Worsened by Landbreaker Raid \nReported on the 19th of this month (Correspondent: Riise). A massive mining accident has occurred at Shaft 39 with many miners trapped in the pits. Surface facilities were also subject to a sudden Landbreaker raid at almost the same time. Many crew mates and their family members have gone missing. \nAccording to Chief Mineral Field Monitor Lyube, Shaft 39 was about to conclude their operations in the evening of the 18th when the shaft entrance collapsed after a loud explosion. Only a few miners closer to the surface managed to escape to safety. Search and rescue (SAR) operations are ongoing, and all SAR work is expected to complete by the morning of the 20th. The number of casualties is still unknown. \nOur correspondent also successfully interviewed Mineral Field Surface Facility Office Monitor Povkova. According to her, in the evening of the 18th, a large Landbreaker band appeared about 5 minutes after the massive explosion in the shaft. The raiders then began to vandalize and raid various surface facilities and buildings. Armed personnel of the UWST were defeated by the Landbreakers within minutes. Surface facility office staff and family members in the residences then started to run for their lives. Exact casualty figures are still being determined. Many escapees are still missing and cannot be contacted. Ongoing investigations have yet to identify a direct link between the mining accident and the Landbreaker raid. \nThe UWST Commandery is extremely concerned with this incident and has deployed multiple teams to conduct SAR operations in the northern mineral field. We will continue to bring you the latest updates from the site. \n\nAccording to Captain Akekuri, Mr. Kerr (Estella's father) was rescued, very much alive, from the shaft. However, Estella was separated from her mother during the Landbreaker attack. UWST SAR teams quickly rescued Mrs. Kerr, but Estella herself was captured by Landbreakers. They brought her with them to the wildlands and subjected her to involuntary labor. However, her talents were unexpectedly revealed during this cruel experience. \nOperations Team Z7 infiltrated a Landbreaker camp and Captain Akekuri encountered Estella during that time. The dirt-covered girl verbally conveyed the geographical layout and defense deployment and even drew a map of the entire place on the sand. Estella's intel allowed Op Z7 to capture the camp and rescue all civilians with minimal losses. \nAkekuri was impressed with Estella's intel gathering abilities and invited her to join Endfield. Having spent many years in the wildlands, Estella also strongly desired to have a safe residence and joined our organization without hesitation. Captain Akekuri also added that this episode of extreme hardship in Estella's life has made the operator extremely adverse to any work involving heavy labor. \n\nAll logs above have been transferred to the Human Resources Division for reference.",
+    "zh-TW": "【與秋栗組長就幹員埃特拉背景調查的對談紀錄】\n由於幹員情況特殊，秋栗組長事先與我說明了幹員背景，並出示相關物件資料。\n\n物件：照片\n這是一張老照片。銀白色頭髮的菲林女孩坐在木製搖椅上，一臉幸福。她的身邊是同為銀白髮色的青年男女，他們的手輕柔地搭在女孩兩肩，看上去是非常幸福的一家人。\n據秋栗介紹，這是埃特拉幹員10歲生日時攝於家中書房的照片，那裡如今已是一片廢墟。天使與侵蝕迫使他們流離失所，一家人帶著所有積蓄來到菈梵朵瑪，希望可以在那裡安頓下來。\n可是，事情並沒有如他們所願。接下來是秋栗組長出示的報刊資料，記錄了埃特拉一家人是如何在投資中受騙，損失了幾乎所有存款。\n\n物件：舊報刊\n《麥道夫金融欺詐案終告破：受害者血本無歸，主犯揮霍殆盡》\n（記者 梅拉達於9日報導）曾轟動塔衛二、造成巨額經濟損失的特大金融詐騙案主犯伯納·麥道夫，在潛逃多年後，已於日前被逮捕歸案。\n經司法機關深入調查查明，該犯罪組織長期以虛假的高額投資回報為誘餌，編織了一個巨大的金融騙局。其利用新投資者的本金，偽裝成付給老投資者的所謂「收益」，以此製造盈利豐厚的假象，吸引更多不明真相的企業與個體工商戶不斷投入資金。這種「拆東牆補西牆」的違法活動，完全背離了真實投資創造價值的規律。\n經過執法部門鍥而不捨的追捕，麥道夫終於落入法網，等待他的將是法律的嚴厲審判。但令人痛心的是，麥道夫團夥在潛逃過程中，已將絕大部分非法所得揮霍或轉移，導致立案後可供追繳返還受害者的涉案資產所剩無幾。這意味著，儘管主犯落網，但眾多遭受重創的企業與個體工商戶，其巨大經濟損失恐難以挽回。\n此案再次以沉重的代價警示社會：天上不會掉餡餅。廣大投資者務必提高警惕，擦亮雙眼，防止落入不法分子精心設計的陷阱。\n\n案件告破時，埃特拉一家已經加入了工團，在北部礦區的39號礦洞工作，但好運還是沒有眷顧這家人。秋栗組長拿出另一份簡報。\n\n物件：舊報刊\n《北部礦區遭遇礦難 裂地者侵襲雪上加霜》\n（記者 里瑟於19日報導）北部礦區39號礦洞發生大型礦難，多名礦工滯留礦洞。地面辦事處幾乎在同一時間被裂地者突襲，多名工人及家屬失聯。\n據礦區總負責人柳拜稱，18日傍晚時分，39號礦洞即將結束作業，一聲巨響後礦洞入口坍塌，僅少數距地表較近的礦工成功脫逃。援救工作還在進行中，預計20日凌晨可以完成救援。目前，傷亡情況不明。\n記者也採訪到礦區地面辦事處負責人波夫科娃。據她介紹，18日傍晚，礦洞巨響後5分鐘，大量武裝裂地者出現，對地面設施進行破壞與掠奪。工團武裝在幾分鐘內就被裂地者擊潰，地面辦事處職員與生活區的家屬紛紛出逃。目前，傷亡情況還在統計，出逃人員仍處於失聯狀態。至於礦難與裂地者的襲擊之間是否有關聯，還尚未有確切的調查結果。\n工團總部對此事高度重視，現已派出多支搜救部隊，在北部礦區進行援救工作。本報也會持續追蹤及報導。\n\n據秋栗組長介紹，科爾先生，也就是埃特拉的父親，事後被救援隊從礦洞中救出，所幸生命無礙。而埃特拉和母親則在裂地者的襲擊中走散。科爾太太很快被工團的救援隊所救，埃特拉則被裂地者俘獲，被迫作為苦力在荒野上輾轉。可是，這樣嚴酷的經歷卻無意中展現了她的天賦。\n當時，Z7行動組潛入了某裂地者營地，秋栗組長遇到了埃特拉。這名渾身髒汙的少女竟然透過口述交代了營地區域所有的地形結構與布防資訊，甚至能單靠記憶在沙地上繪出地形圖。利用這些情報，Z7行動組以極低的損失成功攻陷了該營地，並解救出了所有平民。\n秋栗組長看重埃特拉的情報能力，邀請她加入終末地。而埃特拉在多年顛沛流離後，非常渴望有一個安定的歸宿，幾乎沒有猶豫便選擇了加入。秋栗組長特別補充，由於這段艱苦的經歷，埃特拉幹員對重體力的活動呈現出非常牴觸的態度。\n\n以上是全部紀錄資料，已提交人力資源事務部進行參考。",
+    "zh-CN": "【与秋栗组长就干员埃特拉背景调查的对谈记录】\n由于干员情况特殊，秋栗组长事先与我进行了干员背景说明，并出示了相关物件资料。\n\n物件：照片\n这是一张老照片。银白色头发的菲林女孩坐在木制摇椅上，一脸幸福。她的身边是同为银白发色的青年男女，他们的手轻柔地搭在女孩两肩，看上去是非常幸福的一家人。\n据秋栗介绍，这是埃特拉干员10岁生日时摄于家中书房的照片，那里如今已是一片废墟。天使与侵蚀迫使他们流离失所，一家人带着所有积蓄来到菈梵朵玛，希望可以在那里安顿下来。\n可是，事情并没有如他们所愿。接下来是秋栗组长出示的报刊资料，记录了埃特拉一家人是如何在投资中受骗，损失了几乎所有存款。\n\n物件：旧报刊\n《麦道夫金融欺诈案终告破：受害者血本无归，主犯挥霍殆尽》\n本报9日讯（记者 梅拉达）曾轰动塔卫二、造成巨额经济损失的特大金融诈骗案主犯伯纳·麦道夫，在潜逃多年后，已于日前被缉拿归案。\n经司法机关深入调查查明，该犯罪团伙长期以虚假的高额投资回报为诱饵，编织了一个巨大的金融骗局。其利用新投资者的本金，伪装成支付给老投资者的所谓“收益”，以此制造盈利丰厚的假象，吸引更多不明真相的企业与个体商户不断投入资金。这种“拆东墙补西墙”的违法活动，完全背离了真实投资创造价值的规律。\n经过执法部门锲而不舍的追捕，麦道夫终于落入法网，等待他的将是法律的严厉审判。但令人痛心的是，麦道夫团伙在潜逃过程中，已将绝大部分非法所得挥霍或转移，导致立案后可供追缴返还受害者的涉案资产所剩无几。这意味着，尽管主犯落网，但众多遭受重创的企业与个体商户，其巨大经济损失恐难以挽回。\n此案再次以沉重的代价警示社会：天上不会掉馅饼。广大投资者务必高度警惕，擦亮双眼，谨防落入不法分子精心设置的陷阱。\n\n案件告破时，埃特拉一家已经加入了工团，在北部矿区的39号矿洞工作，可好运还是没有眷顾这家人。秋栗组长拿出另一份简报。\n\n物件：旧报刊\n《北部矿区遭遇矿难 裂地者侵袭雪上加霜》\n本报19日讯（记者 里瑟），北部矿区39号矿洞发生大型矿难，多名矿工滞留矿洞。地面办事处几乎在同一时间被裂地者突袭，多名工人及家属失联。\n据矿区总负责人柳拜称，18日傍晚时分，39号矿洞即将结束作业，一声巨响后矿洞入口坍塌，仅少数距地表较近的矿工成功脱逃。目前，援救工作尚在进行，预计20日凌晨可以完成救援。目前，伤亡情况不明。\n本报也采访到矿区地面办事处负责人波夫科娃。据她介绍，18日傍晚，矿洞巨响后5分钟，大量武装裂地者出现，对地面设施进行破坏与掠夺。工团武装在几分钟内就被裂地者击溃，地面办事处职员与生活区的家属纷纷出逃。目前，伤亡情况还在统计，出逃人员仍处于失联状态。至于矿难与裂地者的袭击之间是否有关联，目前尚未有确切的调查结果。\n工团总部对此事高度重视，目前，已派出多支搜救部队，在北部矿区进行援救工作。本报也会持续跟进报导。\n\n据秋栗组长介绍，科尔先生，也就是埃特拉的父亲，事后被救援队从矿洞中救出，所幸生命无碍。而埃特拉和母亲则在裂地者的袭击中走散。科尔太太很快被工团的救援队所救，埃特拉则被裂地者俘获，被迫作为苦力在荒野上辗转。可是，这样严酷的经历却无意中展现了她的天赋。\n当时，Z7行动组潜入了某裂地者营地，秋栗组长遇到了埃特拉。这名浑身脏污的少女竟然通过口述交代了营地区域所有的地形结构与布防信息，甚至能单靠记忆在沙地上绘出地形图。通过这些情报，Z7行动组以极低的损失成功攻陷了该营地，并解救出了所有平民。\n秋栗组长看重埃特拉的情报能力，邀请她加入终末地。而埃特拉在多年颠沛流离后，非常渴望有一个安定的归宿，几乎没有犹豫便选择了加入。秋栗组长特别补充，由于这段艰苦的经历，埃特拉干员对重体力活动呈现出非常抵触的态度。\n\n以上是全部记录信息，已提交人力资源事务部进行参考。",
+    "ja": "【エステーラの入職前調査に関するアケクリ隊長との対談記録】\n当該オペレーターには特殊な背景があるとして、アケクリ隊長は事前に私に対し、経歴の説明と関連資料の提示を行った。\n\n資料：写真\n古びた1枚の写真。銀髪のフェリーンの少女が木製のロッキングチェアに腰掛け、嬉しそうな表情を浮かべている。彼女の隣には、同じく銀髪の若い男女が立っており、少女の肩に手を置いている。とても幸せそうな家族だ。\nアケクリの説明によれば、この写真はエステーラが10歳になる誕生日に、家の書斎で撮影されたものだそうだ。現在その場所は廃墟と化しているという。アンゲロスと侵蝕によって住む場所を失った一家は、全財産を抱えてラヴァンドマへ向かい、そこで新しい生活を送ろうとした。\nしかし、その望みは叶わなかった。次にアケクリ隊長が見せてくれたのは、古い新聞資料だった。そこには、エステーラ一家が投資詐欺に巻き込まれ、財産のほとんどを失った経緯が記されていた。\n\n資料：古い新聞\n『マックドフ金融詐欺事件、ついに決着　被害者は全財産を失い、主犯は資金を使い果たす』\n（記者：メラルド）9日、巨額の経済損失を引き起こしタロⅡを震撼させた、大型金融詐欺事件の主犯ベルナール・マックドフが、長年の逃亡の末、ついに逮捕された。\n当局の調査によると、この犯罪組織は長年にわたり「高額の投資利益が得られる」と偽って資金を集め、新規投資者の資金を既存投資者への「配当」として装い、利益が生まれているかのように見せかけていた。いわゆる「自転車操業」に近い違法行為であり、投資の基本原則に反するものである。\n当局による粘り強い追跡の結果、マックドフはついに法の網に捉えられ、厳しい判決が彼を待っているはずだ。しかし、逃亡中に資産のほとんどを移転したうえ、浪費によって使い果たしていたために、被害者に返還できる財産はほぼ残っていなかった。主犯が逮捕されたにもかかわらず、被害を受けた企業や個人の多くは経済的損失を補填する術を失ったのである。\nこの事件は、高い代償と共に社会に警鐘を鳴らした――「うまい儲け話など存在しない」のだと。投資家の皆様方は常に警戒心を持って、詐欺師の罠に嵌まらないように注意していただきたい。\n\n事件が解決した頃、エステーラ一家はすでに工業団に所属し、北部鉱区の39号坑道で働いていた。だが、運命は依然として彼らに微笑むことはなかった。アケクリ隊長は、さらに別の新聞を取り出した。\n\n資料：古い新聞\n『北部鉱区で鉱山事故発生　ランドブレーカーの襲撃で被害拡大』\n（記者：リーズ）19日、北部鉱区39号坑道で大規模な鉱山事故が発生し、複数の坑夫が坑道内に閉じ込められた。ほぼ同時刻に事務所もランドブレーカーの襲撃を受け、作業員およびその家族数名が行方不明となった。\n鉱区総責任者リューベ氏によると、18日夕方の作業終了間際に大きな爆発音が聞こえ、坑道入口付近で落盤が発生したという。無事が確認できたのは地上付近にいた一部の坑夫のみであった。救助活動は現在も続いており、20日未明に完了する見込みだが、死傷者の数はまだ明らかになっていない。\n本紙は鉱区事務所の担当者、ポフコワ氏にも話を聞いた。彼女の説明では、18日夕方の落盤発生から約5分後、武装したランドブレーカーが多数現れ、地上施設の破壊や略奪行為を行った。工業団の戦闘部隊は数分で壊滅、事務所職員や生活エリアにいた家族は避難を余儀なくされた。現時点で避難者との連絡は取れておらず、多数が行方不明となっている。鉱山事故とランドブレーカー襲撃の関連性については、現時点で確たる証拠はなく継続して調査を行う予定とのこと。\n工業団本部は事態を重く受けとめ、すでに複数の救助隊を派遣、北部鉱区での救助活動を続けている。本紙は今後も続報を伝えていく。\n\nアケクリ隊長の説明によれば、ケル氏――つまりエステーラの父親は、救助隊によって坑道から助けられ、命に別状はなかったそうだ。一方、エステーラと母親はランドブレーカーの襲撃に遭い、離れ離れになってしまった。ケル夫人はすぐに工業団の救助隊に保護されたが、エステーラはランドブレーカーに捕らえられ、労働を強いられながら荒野を転々とする生活を送ることになった。しかしこの過酷な経験が、知らぬ間に彼女の才能を磨き上げていた。\n行動隊Z7がとあるランドブレーカーの拠点へ潜入した際、アケクリ隊長はエステーラと出会った。ほこりまみれだったその少女は、拠点内部の地形構造や配置情報を口頭で詳細に説明したうえ、記憶していた正確な地形図を砂の上に描いたという。この情報を基に行動隊Z7は、極めて小さな損害で拠点を制圧し、すべての民間人を救出することに成功した。\nその情報処理能力に目を留めたアケクリ隊長は、エステーラをエンドフィールドへ迎え入れることを提案した。長年の不安定な生活に終止符を打ち、安定した居場所を求めていたエステーラは、迷うことなく加入を決めたという。なお、アケクリ隊長からは補足があった――このように苦しさを味わった経歴から、エステーラは体力を要する活動に対して強い抵抗感を示す傾向があるとのことだ。\n\n記録は以上で終了。人事部への参考資料として提出済みである。",
+    "ko": "[아케쿠리 팀장과의 에스텔라 오퍼레이터 배경 조사 면담 기록]\n오퍼레이터의 특수한 사정을 고려하여, 아케쿠리 팀장은 사전에 에스텔라의 배경 설명을 진행하며, 관련 자료들을 제시했다.\n\n물품: 사진\n오래된 사진 한 장. 은빛 머리칼의 필라인 소녀가 나무 흔들의자에 앉아 행복한 표정을 짓고 있다. 소녀의 곁에는 마찬가지로 은빛 머리칼의 젊은 남녀가 서서 소녀의 어깨에 손을 얹고 있다. 매우 행복해 보이는 가족사진이었다.\n아케쿠리 팀장의 설명에 따르면, 이 사진은 에스텔라 오퍼레이터가 10번째 생일이 되던 날, 집 서재에서 찍은 것이며, 현재 그 장소는 폐허가 되었다. 아겔로스와 침식으로 그들은 보금자리를 잃었고, 전 재산을 가지고 라반도르마에 정착하려 했다.\n하지만 일은 뜻대로 되지 않았다. 이후 아케쿠리 팀장은 한 장의 오래된 신문 자료를 제시했다. 거기엔 에스텔라의 가족이 어떻게 투자 사기에 휘말려 전 재산을 잃게 되었는지 기록되어 있었다.\n\n물품: 낡은 신문\n<마이도푸 금융사기 사건 종결: 피해자는 전 재산 잃고, 주범은 호화생활 누리다 체포>\n9일 자 보도(기자 멜라다): 탈로스 II 전역을 떠들썩하게 했던 초대형 금융 사기 사건의 주범 버나 마이도푸가 수년간의 도피 끝에 마침내 검거됐다.\n사법 기관의 조사 결과, 장기간에 걸쳐 허위의 고수익 투자 수익을 미끼로 삼아 대규모 금융 사기를 벌인 것으로 밝혀졌다. 신규 투자자의 원금을 기존 투자자에게 지급되는 '수익'으로 위장해 수익성 높은 투자인 양 꾸며, 더 많은 기업과 개인 상인을 끌어들이는, 이른바 '돌려막기' 수법이었다. 이는 실질적 투자 가치를 창출하는 정상적 방식과는 전혀 무관한 불법 행위였다.\n집요한 추적 끝에 마이도푸는 결국 법의 심판대에 서게 되었지만, 안타깝게도 도피 과정에서 대부분의 불법 자금을 탕진하거나 외부로 은닉한 것으로 드러났다. 그 결과, 사건 이후 회수 가능한 피해 보상 자산은 거의 남아 있지 않아, 많은 피해를 입은 기업과 개인 사업자들은 회복 불가능한 손실을 보게 되었다.\n이 사건은 '세상에 공짜 점심은 없다'는 사실을 상기시켜준다. 투자자는 반드시 경계심을 늦추지 말아야 한다. 불법 세력이 치밀하게 꾸민 덫에 빠지지 않도록 주의해야 한다.\n\n사건이 마무리될 당시, 에스텔라 가족은 이미 공단에 소속되어 북부 광산 지역 39번 광산 동굴에서 일하고 있었으나, 이후에도 불운은 멈추지 않았다. 아케쿠리 팀장은 또 다른 보도 자료를 꺼냈다.\n\n물품: 낡은 신문\n<북부 광산 지역 대형 사고 발생, 랜드브레이커 습격으로 피해 가중>\n19일 자 보도(기자 리슬): 북부 광산 지역 39번 광산 동굴에서 대형 광산 사고가 발생하여 다수의 광부가 동굴 내에 고립되었으며, 같은 시각 지상 사무소가 랜드브레이커의 습격을 받아 다수의 작업자와 가족의 연락이 두절된 것으로 확인되었다.\n광산 지역 총책임자인 류배의 설명에 따르면, 사고는 18일 저녁 무렵 작업이 마무리되던 시점에 발생했으며, 큰 폭음과 함께 동굴 입구가 붕괴되어 지표면과 가까운 일부 광부만이 탈출에 성공했다고 한다. 현재 구조 작업은 계속 진행 중이며, 20일 새벽까지는 구조를 마칠 수 있을 것으로 예상된다. 정확한 인명 피해는 아직 확인되지 않았다.\n본지는 광산 지역 지상 사무소 책임자 보프코바와 인터뷰를 진행했다. 그녀의 설명에 따르면, 18일 저녁 광산 동굴에서 폭음이 들린 후 약 5분 뒤 대량의 무장 랜드브레이커들이 나타나 지상 시설을 파괴하고 약탈했다고 한다. 공단 무장 병력은 단 몇 분 만에 무너졌고, 지상 사무소 직원과 생활 구역의 가족들은 혼란 속에 도주했다고 한다. 현재 피해 상황은 집계 중이며, 탈출한 인원들도 대부분 연락이 두절된 상태다. 광산 사고와 랜드브레이커의 습격 사이에 연관성이 있는지에 대해서는 아직 명확한 조사 결과가 발표되지 않았다.\n공단 본부는 이번 사안을 매우 중대하게 여기고 있으며, 다수의 수색 및 구조 부대를 파견해 북부 광산 지역에서 구조 활동을 진행 중이다. 본지도 계속해서 후속 보도를 이어갈 것이다.\n\n아케쿠리 팀장의 소개에 따르면, 커 씨, 즉 에스텔라의 아버지는 사고 이후 구조대에 의해 동굴에서 무사히 구출되었고, 다행히 생명에는 지장이 없었다고 한다. 그러나 에스텔라와 어머니는 랜드브레이커의 습격 속에서 뿔뿔이 흩어졌다. 커 부인은 공단 구조대에 의해 곧바로 구조되었지만, 에스텔라는 랜드브레이커들에게 붙잡혀 황무지에서 강제로 중노동에 시달리게 되었다. 하지만 이처럼 혹독한 경험 속에서, 그녀의 뜻밖의 재능이 드러나게 된다.\n당시 Z7 작전팀은 한 랜드브레이커 캠프에 잠입하는 임무를 수행하고 있었고, 그 과정에서 아케쿠리 팀장은 에스텔라를 처음 만나게 되었다. 온몸이 먼지투성이였던 이 소녀는, 단지 말로만 캠프 전체의 지형 구조와 병력 배치를 설명했을 뿐 아니라, 기억만으로 모랫바닥 위에 캠프의 지도를 그려냈다. 그녀가 제공한 정보 덕분에, Z7 작전팀은 극히 적은 피해로 해당 캠프를 점령하고 민간인 전원을 구출해 내는 데 성공했다.\n아케쿠리 팀장은 에스텔라의 정보 분석 능력을 높이 평가해 엔드필드 합류를 제안했고, 오랜 유랑 생활 끝에 안정적인 보금자리를 바랐던 에스텔라는 주저 없이 수락했다. 아케쿠리 팀장은 이 고된 경험 때문인지 에스텔라 오퍼레이터는 고강도 육체 활동에 대해 강한 거부감을 보인다고 덧붙였다.\n\n이상은 해당 인물에 대한 모든 기록이며, 인력 자원 사무부에 제출되었다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "DOCUMENT: A medical record often reviewed by Akekuri \nBASIC INFO \nPATIENT NAME: Estella Kerr \nPOSITION: Member of Operations Team Z7; full-time operator, Endfield Industries. \nOPERATIONAL CODENAME: Estella \nROUTE OF ADMISSION: Combat UAV ambulance \nADMISSION TIME: 2307 \nADMISSION LOCATION: Endfield wildlands medical station, Valley III \n\nCHIEF COMPLAINT \nHit by an explosion. Multiple open and bleeding wounds. Shock after 45 minutes of intense pain. \n\nPRESENT ILLNESS \nPatient was conducting recon operations 5 klicks away from the site of the explosion but exercised personal initiative in changing the operational plan 45 minutes ago. Patient charged into a cross-firing zone to cover the retreat of trapped teammates but was exposed to enemy's suppressive fire. Patient described that she has been knocked off her feet by a blast and temporarily lost consciousness. She then crawled for about 20 meters before other teammates of Op Z7 discovered her and quickly sent her on medevac. \n\nMEDICAL HISTORY \nHealthy. Denies chronic illnesses, past surgeries, and past blood transfusions. Oripathy negative. \n\nPHYSIOLOGICAL EXAMINATION (AT ADMISSION) \nClouded consciousness, pallor, grimacing in pain \nVITAL SIGNS: Normal temperature. Weak pulse. Blood pressure slightly below average. Weak breathing. \nHEAD: Open laceration (4 cm) at left temporal fossa. Cortical bone intact. No fractures. \nNECK: No tracheal deviations. Observable collapse of jugular vein when supine. \nCHEST: Penetrating wound of right rib cage, diameter about 1.2 cm. Percussion reveals tympany. Diminished breath sounds. Muffled heart sounds, no arrhythmia. \nABDOMEN: Distension and tenderness of lower right abdomen. \nLIMBS: Open mid-shaft fracture of left femur, open wound measuring 6 cm long, end of bone visible; Penetrating wound of posterolateral aspect of right calf, pressure dressing already applied to site of bleeding; Weakened arterial pulse in lower extremities \nSKIN & MUCOSA: Multiple abrasions and contusions \n\nPRELIMINARY DIAGNOSIS \nRIGHT SIDE: Open pneumothorax \nHemorrhagic shock (Lv.Ⅲ) \nOpen fracture (type Ⅲ) of left femur \nMultiple penetrating wounds of soft tissue \nLight blunt trauma of cranium \n\nLIST OF EMERGENCY RESPONSES \nOpen pneumothorax treatment \nBlood volume resuscitation \nAnti-shock treatment \nPain management treatment \nAnti-Oripathy measures \nDressing of wounds on left thigh and right calf \nTetanus vaccination \n\nPROGNOSTIC ASSESSMENT \nPatient has been transferred to the Endfield Medical Division after emergency treatment \nAccording to combat trauma assessments, patient has 85% survival rate for the next 24 hours \nIf hemodynamics remain stable and no subsequent infections occur, physical training and rehab can proceed after 6-8 weeks \n\nVISITATION RECORDS \nVISITORS: Akekuri, Fluorite, Catcher, Antal",
+    "zh-TW": "【秋栗反覆查看的一份醫療檔案】\n基本資料\n患者名：埃特拉·科爾\n職務：Z7行動組成員，終末地工業正式幹員\n行動代號：埃特拉\n入院方式：戰地無人機轉運\n接診時間：23時07分\n接診地點：終末地三號谷地荒野醫護站\n\n主訴\n捲入爆炸，全身多處出血、劇痛45分鐘後陷入休克。\n\n現病史\n患者原本在距離事發地5公里處執行偵察任務，於45分鐘前自行變更行動計劃，為掩護受困戰友突圍，強行衝入交叉火力區，被迫與敵人近距離纏鬥，並暴露在敵人的火力壓制下。自述被當場震倒，意識短暫模糊，隨後匍匐撤離約20公尺，被Z7行動組其餘成員發現並快速送醫。\n\n過往史\n過往體健，否認慢性病、手術史、輸血史，非礦石病感染者。\n\n體格檢查（入院時）\n意識模糊，面色蒼白，表情痛苦\n生命徵象：體溫正常，脈搏細弱，血壓偏低，呼吸微弱\n頭部：左側額顳部約4cm裂傷，骨皮質連續，無明顯骨折\n頸部：無氣管偏移，平臥位下頸靜脈呈塌陷狀\n胸部：右肋骨貫通傷口，直徑約1.2cm；叩診呈鼓音，呼吸音減弱；心音低鈍，律齊\n腹部：右下腹部腫脹並有壓痛反應\n四肢：左股骨中段開放性骨折，創口6cm，可見骨端；右小腿後外側貫通傷，出血部位已加壓包紮；雙側下肢遠端動脈搏動減弱\n皮膚黏膜：多處擦挫傷\n\n初步診斷\n右側開放性氣胸\n第三級失血性休克\n左股骨開放性III型骨折\n多處軟組織貫通傷\n輕度顱腦閉合性損傷\n\n緊急處理清單\n開放性氣胸處理\n補充血容量\n抗休克\n止痛\n抗源石感染\n左股骨與右小腿傷口處理\n破傷風免疫\n\n預後評估\n緊急處理後，轉入終末地醫療部門\n根據戰傷評估，24小時內生存率預估85%\n若血液動力穩定且無發生感染，預期6~8週後可開始負重訓練\n\n陪診紀錄\n陪診人：秋栗、螢石、卡契爾、安塔爾",
+    "zh-CN": "【秋栗反复查看的一份医疗档案】\n基本信息\n患者名：埃特拉·科尔\n职务：Z7行动组成员，终末地工业正式干员\n行动代号：埃特拉\n入院方式：战地无人机转运\n接诊时间：23时07分\n接诊地点：终末地三号谷地荒野医护站点\n\n主诉\n卷入爆炸，全身多处出血、剧痛45分钟后陷入休克。\n\n现病史\n患者原本在距离事发地5千米处执行侦察任务，于45分钟前自行变更行动计划，为掩护受困战友突围，强行冲入交叉火力区，被迫与敌人近距离缠斗，并暴露在敌人的火力压制下。自述被当场震倒，意识短暂模糊，随后匍匐撤离约20米，被Z7行动组其余成员发现并快速送医。\n\n既往史\n既往体健，否认慢性病、手术史、输血史，非矿石病感染者。\n\n体格检查（入院时）\n意识模糊，面色苍白，神情痛苦\n生命体征：体温正常，脉搏细弱，血压偏低，呼吸微弱\n头颅：左侧额颞区4cm裂创，骨皮质连续，未及骨折征\n颈部：无气管偏移，平卧位颈静脉可见塌陷\n胸部：右肋贯通伤口，直径约1.2cm；叩诊鼓音，呼吸音减弱；心音低钝，节律齐\n腹部：右下腹肿胀压痛\n四肢：左股骨中段开放性骨折，创口6cm，可见骨端；右小腿后外侧贯通伤，出血处已加压包扎；双下肢远端动脉搏动减弱\n皮肤黏膜：多处擦挫伤\n\n初步诊断\n右侧开放性气胸\n失血性休克（Ⅲ级）\n左股骨开放性Ⅲ型骨折\n多发软组织贯通伤\n颅脑轻度闭合性损伤\n\n紧急处理清单\n开放性气胸处理\n血容量复苏\n抗休克\n止痛\n抗源石感染\n左股骨与右小腿伤口\n破伤风免疫\n\n预后评估\n紧急处理后，转入终末地医疗部门\n根据战伤评估，24小时内生存率预估85%\n若血流动力学稳定且无继发感染，预期6～8周后可进行负重训练\n\n陪诊记录\n陪诊人：秋栗、萤石、卡契尔、安塔尔",
+    "ja": "【アケクリが繰り返し確認していた医療記録】\n基本情報\n患者名：エステーラ・ケル\n職務：行動隊Z7隊員、エンドフィールド正式オペレーター\nコードネーム：エステーラ\n搬送手段：戦場用ドローンによる輸送\n診察時刻：23時07分\n診察場所：エンドフィールド三号谷地・荒野診療所\n\n主訴\n爆発に巻き込まれ、全身に複数の出血を伴う創傷を確認。45分間激痛を訴え、その後ショック症状となった。\n\n現病歴\n患者は当初、事件発生地点から約5km離れた場所で偵察任務を行っていた。約45分前、自発的に行動計画を変更。仲間の救援を目的とし、激戦区を強行突破しようと試みた。その際に敵との近接戦闘が発生し、集中砲火を浴びた。本人の申告では爆風の衝撃で倒れ、意識が混濁。地面を這うようにして約20m後退したところを行動隊Z7の他隊員が発見し救助、迅速に診療所へと搬送された。\n\n既往歴\n特になし。慢性疾患、手術歴、輸血歴はいずれもなし。鉱石病への感染歴もない。\n\n身体所見（入院時）\n意識混濁、顔面蒼白、苦悶様顔貌を呈す。\nバイタルサイン：体温正常、脈拍微弱、血圧は低下傾向、呼吸は浅く弱い。\n頭部：左側頭部に約4cmの裂創あり。骨皮質の連続性あり。骨折なし。\n頚部：気管偏位は認められず。仰臥位にて頚静脈の虚脱を確認。\n胸部：右肋骨部に直径約1.2cmの貫通創を認める。打診で鼓音を確認。心音は低調、拍動は一定。\n腹部：右下腹部に腫脹あり。圧痛を認める。\n四肢：左大腿骨中部に開放骨折。創傷長約6cm、骨端の露出を確認。右下腿後部外側に貫通創あり。出血部は圧迫止血および包帯固定済み。下肢末梢の動脈拍動は減弱。\n皮膚・粘膜：全身に複数の擦過傷および打撲痕を確認。\n\n初期診断結果\n右側開放性気胸\n出血性ショック（クラスⅢ）\n左大腿骨開放骨折（クラスⅢ）\n多発性軟部組織貫通創\n軽度閉鎖性頭部外傷\n\n緊急処置内容\n開放性気胸に対する処置\n循環血液量の回復\nショック対策\n鎮痛\n源石感染予防\n左大腿および右下腿創傷の処置\n破傷風予防\n\n予後評価\n緊急処置後、患者をエンドフィールド医療部へ転送。\n戦傷評価に基づく24時間以内生存率は85%。\n血行動態が安定し、二次感染がなければ、6～8週間後を目処に負荷訓練が可能と予測される。\n\n付き添い記録\n付き添い人：アケクリ、フローライト、キャッチャー、アンタル",
+    "ko": "[아케쿠리가 반복 확인한 의료 기록]\n기본 정보\n환자 이름: 에스텔라 커\n직책: Z7 작전팀 소속, 엔드필드 공업 정식 오퍼레이터\n작전 코드네임: 에스텔라\n입원 경로: 전장 드론 이송\n접수 시간: 23시 07분\n접수 위치: 엔드필드 3번 협곡 황무지 의료 거점\n\n주요 증상\n폭발에 휘말려 전신 곳곳에 출혈 및 극심한 통증 발생, 45분 후 쇼크 상태로 이어짐.\n\n발병 경위\n환자는 사건 발생 지점에서 5km 떨어진 곳에서 정찰 임무 수행 중이었으나, 45분 전 독자적으로 작전 계획을 변경, 고립된 동료의 탈출을 엄호하기 위해 교차 화력 지점으로 돌진, 적과 근거리 교전에 휘말려 적의 집중 화력에 노출됨. 본인 진술에 따르면, 현장에서 충격으로 쓰러져 잠시 의식을 잃었고, 이후 약 20미터를 포복으로 후퇴하던 중 Z7 작전팀의 다른 팀원에 의해 발견되어 긴급 후송됨.\n\n과거 병력\n특이 병력 없음. 만성질환, 수술 이력, 수혈 이력 없음. 광석병 비감염자.\n\n신체검사 소견 (입원 당시)\n의식 혼미, 창백한 안색, 고통 호소.\n활력 징후: 체온 정상, 맥박 약함, 혈압 저하, 호흡 미약\n두부: 좌측 전측두부 4cm 열상, 두개골 골절 징후 없음\n경부: 기도 편위 없음, 누운 자세에서 경정맥 함몰 확인\n흉부: 우측 늑골 관통상(직경 약 1.2cm), 타진 시 고음, 호흡음 감소. 심음 둔탁하나 리듬 정상\n복부: 우하복부 부종 및 압통\n사지: 좌측 대퇴골 중간부 개방성 골절(창상 6cm, 골단 노출), 우측 하퇴부 후외측 관통상(출혈 부위 압박 지혈 완료), 양측 하지 말단 동맥 맥박 약화\n피부 점막: 다발성 찰과상 및 좌상\n\n진단\n우측 개방성 기흉\n출혈성 쇼크 (III단계)\n좌측 대퇴골 개방성 III형 골절\n다발성 연조직 관통상\n경도 두부 폐쇄성 손상\n\n응급 처치 내역\n개방성 기흉 처치\n수액 소생술\n쇼크 대응\n진통 처치\n광석병 감염 예방 처치\n좌측 대퇴골 및 우측 하퇴부 창상 처치\n파상풍 예방 접종\n\n예후\n응급 처치 후 엔드필드 의료 부서로 이송\n전상 평가 결과 24시간 내 생존률 85%\n혈역학적 안정 유지 및 2차 감염이 없을 경우, 6~8주 후 하중 훈련 가능 예상\n\n동행 기록\n동행자: 아케쿠리, 플루라이트, 카치르, 안탈"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0021_whiten_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Is break time ... over already?",
+    "zh-TW": "休息時間……要結束了嗎？",
+    "zh-CN": "休息时间……要结束了吗？",
+    "ja": "休憩時間……終わっちゃう？",
+    "ko": "휴식 시간... 끝난 건가요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "I'll be ready in ... two more minutes...",
+    "zh-TW": "再給我兩分鐘就出發……",
+    "zh-CN": "再给我两分钟就出发……",
+    "ja": "あと2分だけ……そしたら行く……",
+    "ko": "2분만 더 쉴래요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Another mission? Hooo... Fine... Hope it's over before I drop from exhaustion...",
+    "zh-TW": "又要出任務了嗎？呼……趁我的體能還沒耗盡……",
+    "zh-CN": "又要出任务了吗？呼……趁我的体能还没耗尽……",
+    "ja": "また任務？ふぃー……体力あるうちに、行くかぁ……",
+    "ko": "또 임무인가요? 후우... 체력이 다 떨어지기 전에 가요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Now how should I explore those ... unspoken secrets? Hmm...",
+    "zh-TW": "該去探索哪些……不為人知的秘辛呢？哼哼……",
+    "zh-CN": "该去探索哪些……不为人知的秘辛呢？哼哼……",
+    "ja": "さぁて、どんな秘密を暴いちゃおうかなぁ？ふへへ……",
+    "ko": "오늘은... 어떤 숨겨진 비밀을 찾으러 가나요? 헤헤..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Wow... A weapon of ultimate power... Hnnngghh... It's so heavy...",
+    "zh-TW": "啊啊……無法匹敵的力量……呼呃……好重……",
+    "zh-CN": "啊啊……无法匹敌的力量……呼呃……好沉……",
+    "ja": "ふぁ……こんなの使えるかなぁ……ぐぇ……重……",
+    "ko": "아아... 어마무시한 힘... 후우... 너무 무거워요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "The Arsenal engineers obviously overestimated my combat endurance... Hurrrr... Whatever.",
+    "zh-TW": "武庫的工程師們顯然高估了我的持續作戰能力……不過……就這樣吧。",
+    "zh-CN": "武库的工程师们显然高估了我的持续作战能力……不过……就这样吧。",
+    "ja": "武庫エンジニア……絶対あたしのスタミナカン違いしてるって……はぁ……別にいいけど。",
+    "ko": "무기고 공학자분들이 제 체력을 너무 고평가하신 것 같은데요... 하아... 일단 알겠어요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Oh, so getting better means less work? Yay...",
+    "zh-TW": "提升能力就能減少工作了嗎？好耶……",
+    "zh-CN": "提升能力就能减少工作了吗？好耶……",
+    "ja": "能力上げたら仕事が減るって……？いいじゃん……",
+    "ko": "능력이 좋아지면 일을 좀 적게해도 되려나요? 와, 좋아라..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "Brain's upgraded, body's leveled up ... but zero progress for stamina. Welp, guess I'm doomed.",
+    "zh-TW": "除了身體機能以外的部分都成長了……嗯，看來我已經沒救了。",
+    "zh-CN": "除了身体机能以外的部分都成长了……嗯，看来我已经没救了。",
+    "ja": "身体能力以外、レベルアップ……あーあ、もう諦めろってことかも。",
+    "ko": "신체 능력만 빼고 다 좋아졌네요... 전 더 이상 희망이 없는 것 같아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "This promotion is most unexpected... I thought it would take way, way ... way longer than this...",
+    "zh-TW": "真是突如其來的晉升機會……本來以為還需要花更多時間的……",
+    "zh-CN": "真是突如其来的晋升机会……本以为还需要花更多时间的……",
+    "ja": "昇進って、こんな急なんだ……普通もっと時間かかりそうだけどぉ……",
+    "ko": "이렇게 갑자기 성장의 기회가 올 거라곤 생각지도 못했어요... 훨씬 더 긴 시간이 걸릴 것 같았는데..."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0021_whiten_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "Turned out the results of my work exceeded my expectations... Endmin... I need a two-day leave to give myself some TLC...",
+    "zh-TW": "看來我的工作比我預想中完成得還要出色……管理員……我需要請兩天假犒勞一下自己……",
+    "zh-CN": "看来我的工作比我预想中完成得还要出色……管理员……我需要请两天假犒劳一下自己……",
+    "ja": "意外とやれてたってことかぁ……じゃあ、2日くらいは休んだっていいよねぇ……？",
+    "ko": "제가 생각하는 것보다 제가 더 일을 잘했나 보네요... 그럼... 격려하는 마음으로 이틀간 재충전 휴가를 주시겠어요?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0021_whiten_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Why do I keep getting promoted...? Am I an experiment for new management strategies? I should try and figure this out...",
+    "zh-TW": "讓我晉升這麼快真的好嗎……還是說這是什麼試探下屬的管理方式嗎？我得好好想一下……",
+    "zh-CN": "让我晋升这么快真的好吗……还是说这是什么试探下属的管理方式吗？我得好好琢磨一下……",
+    "ja": "昇進……これ、部下を試すマネジメント手法だったりして？なぁんか、おかしいんだけど。",
+    "ko": "이렇게 빨리 성장시켜 주시다니... 혹시 이게 바로 아랫사람을 떠보는 관리 방식 같은 건가요? 진지하게 생각해 봐야겠어요..."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0021_whiten_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "Ooooh! Does this mean I get to order Akekuri around? Heh heh... Time to try things out.",
+    "zh-TW": "喔喔！這是不是意味著我可以去指揮秋栗做事了？哼哼……等下就去試試。",
+    "zh-CN": "喔喔！这是不是意味着我可以去指挥秋栗做事了？哼哼……等下就去试试。",
+    "ja": "へぇ……これで、アケクリに指示も出せるってわけ……ふへへ……後で試そ～っと。",
+    "ko": "오오! 그럼, 이제 아케쿠리 씨한테 명령을 내릴 수 있다는 말 아닌가요? 헤헤... 이따가 한번 찾아가 봐야겠어요."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0021_whiten_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Why do I have to do this again...? Greetings... Endministrator. I'm Estella. And please don't give me physically-intensive assignments. Thank you.",
+    "zh-TW": "又是這個環節嗎？你好……管理員，我的名字是埃特拉，還請不要分配太多重體力的工作給我。",
+    "zh-CN": "又是这个环节吗？你好……管理员，我的名字是埃特拉，还请不要分配太多重体力工作给我。",
+    "ja": "ま～た、このくだり……よろしく、管理人。あたし、エステーラ……重労働はムリだから、それもよろしく。",
+    "ko": "또 이 시간이 온 건가요? 안녕하세요... 관리자님, 전 에스텔라라고 해요. 너무 힘든 일은 안 주셨으면 좋겠어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Haah ... still breathing. For now, I just wanna do absolutely nothing...",
+    "zh-TW": "哈……活過來了。我暫時不想再去做任何事了……",
+    "zh-CN": "哈……活过来了。我暂时不想再去做任何事了……",
+    "ja": "ぶぇぇ……死ぬかと思った。もうなぁんにもしたくない……",
+    "ko": "하아... 살았네요. 당분간 아무것도 안 하고 싶어요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "I overworked myself again... Hngh... I better appreciate the break while it lasts.",
+    "zh-TW": "又過度勞動了……嗯……忙裡偷閒的時光可要好好珍惜。",
+    "zh-CN": "又过度劳动了……嗯……忙里偷闲的时光可要好好珍惜。",
+    "ja": "これ、過労じゃんね……ふぁぁ……大事な大事な息抜き、っと……",
+    "ko": "또 너무 무리했어요... 으음... 아무리 바쁘더라도 휴식은 꼭 챙겨야죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "A new assignment? I'm looking forward to it... I really am. Honest.",
+    "zh-TW": "又是什麼新的工作嗎？我還是蠻期待的……真的喔。",
+    "zh-CN": "又是什么新的工作吗？我还是蛮期待的……真的哦。",
+    "ja": "新しい任務……ふーん、楽しみかも……ホントだって。",
+    "ko": "또, 또 무슨 일이 새로 들어온 건가요? 아... 정말 기대된다고요... 거짓말 아니에요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Endmin... How goes your break?",
+    "zh-TW": "管理員……休息得怎麼樣？",
+    "zh-CN": "管理员……休息得怎么样？",
+    "ja": "管理人も……しっかり休めた？",
+    "ko": "관리자님... 잘 쉬고 계시죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Endmin, I hardly see you taking a break.",
+    "zh-TW": "難得看到管理員這麼有空。",
+    "zh-CN": "难得看到管理员这么有空。",
+    "ja": "管理人が暇そうなの、レアだねぇ。",
+    "ko": "관리자님이 쉬시는 건 정말 보기 드문걸요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0021_whiten_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "After I told Antal that I didn't like his math games, he stopped sharing them with me. Hmm... Actually, people should follow my example.",
+    "zh-TW": "自從我告訴安塔爾我不喜歡他的那些數字遊戲後……他就再也不向我推薦了。嗯……其他人也應該這麼做的。",
+    "zh-CN": "自从我告诉安塔尔我不喜欢他的那些数字游戏后……他就再也不向我推荐了。嗯……其他人也应该这么做的。",
+    "ja": "数字遊びヤダってアンタルに言ったら……そっから全然無し。全員、見習ってほしいよぉ～。",
+    "ko": "안탈 씨한테 그 숫자 게임이 싫다고 했는데... 그다음부터는 저한테 절대 추천하지 않더라고요. 음... 다른 사람들도 이렇게 하면 될 텐데요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "The Arsenal engineers keep grumbling about how fast I break my lances... Honestly, the fact that I can swing these excessively heavy weapons is already a miracle.",
+    "zh-TW": "武庫的工程師總是向我抱怨我的槍破損率太高……那也沒辦法……我能揮舞起這麼重的武器已經是不小的奇蹟了。",
+    "zh-CN": "武库的工程师总是向我抱怨我的枪破损率太高……那也没办法……我能挥舞起这么重的家伙已经是不小的奇迹了。",
+    "ja": "槍壊しすぎって武庫エンジニアに言われるんだけど……しょーがないじゃん。あんな重いの、振り回せるだけで奇跡なんだし。",
+    "ko": "무기고 공학자분들은 항상 저한테 무기를 자주 파손시킨다고 말씀하세요... 근데 어쩔 수 없잖아요... 제가 이렇게나 무거운 걸 휘두를 수 있는 것 자체가 기적이라고요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0021_whiten_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Mr. Andre...? Can he turn his head 180 degrees? Hmm... I should ask him about this next time.",
+    "zh-TW": "安德烈先生……他的腦袋能做到一百八十度旋轉嗎？嗯……下次我會去問問他的。",
+    "zh-CN": "安德烈先生……他的脑袋能做到一百八十度旋转吗？嗯……下次我会去问问他的。",
+    "ja": "アンドレイさんの首って……180度、グイっていけそうじゃない？まぁ……次聞いてみよっかな。",
+    "ko": "안드레 씨 말이에요... 혹시 머리가 180도까지 돌아가기도 하나요? 으음... 다음에 직접 물어봐야겠어요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0021_whiten_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Akekuri loves long-ears so I compiled plenty of long-ear recipes and gave them to her... Then she stopped talking to me for an entire week... That was so weird...",
+    "zh-TW": "秋栗很喜歡長耳獸，所以我專門收集了許多長耳獸的料理食譜送給她……不知為何在那之後她整整一個禮拜沒跟我說話……真奇怪……",
+    "zh-CN": "秋栗很喜欢长耳兽，所以我专门收集了许多长耳兽的料理食谱送给她……不知为何在那之后她整整一个星期没和我说话……真奇怪……",
+    "ja": "アケクリって長耳獣好きだし、料理レシピいっぱい集めてプレゼントしたんだけどさぁ……そしたら、1週間クチ聞いてくれなくて……なんでだろ～ね？",
+    "ko": "아케쿠리 씨는 큰 귀 토끼를 엄청나게 좋아하세요. 그래서 제가 특별히 여러 큰 귀 토끼 요리법을 모아서 선물해 드렸거든요... 근데 그때부터 일주일 동안이나 저랑 한마디도 안 하신 거 있죠...? 정말 모르겠어요..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0021_whiten_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "I'm used to carrying out solo infiltration operations... It's a hassle but someone has to do it. Especially because ... I'm a better loner than the rest of the team.",
+    "zh-TW": "我已經習慣孤軍深入的戰術行動了……雖然很麻煩，但總得有人去做這些事。畢竟……我比其他人更耐得住寂寞。",
+    "zh-CN": "我已经习惯孤军深入的战术行动了……虽然很麻烦，但总得有人去做这些事。毕竟……我比其他人更耐得住寂寞。",
+    "ja": "1人での潜入作戦、慣れたなぁ……めんどいけど、誰かがやんなきゃだし。あとぉ……あたしは1人でも平気だし。",
+    "ko": "전 단독 전술 작전에 익숙해요... 쉽진 않지만, 항상 누군가는 해야 할 일이잖아요. 어쨌든... 다른 사람들보다 외로움을 잘 견디는 편이기도 하고요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0021_whiten_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Loud metal music calms me down... Stopping such noises may be easy, but I enjoy the sense of aimlessness amidst the cacophony. It helps me ... forget who I am.",
+    "zh-TW": "噪音和金屬樂更能讓我變得平靜……停住那些聲音很容易，但我喜歡嘈雜聲中的些許迷失感，會有點……忘我？",
+    "zh-CN": "噪音和金属乐更能让我变得平静……停住那些声音很容易，但我喜欢嘈杂声中的些许迷失感，会有些……忘我？",
+    "ja": "ヘビメタ、聞くとむしろ落ち着くんだよねぇ……音止めるより、ガチャガチャした音の中に溶けて……全部忘れちゃえ～的な。",
+    "ko": "잡음이나 메탈 음악 같은 소리가 저한테는 오히려 마음을 편하게 해주는 존재예요. 사실 그런 소리를 그냥 꺼버리는 건 쉬워요. 근데 전 시끄러운 소리에 둘러싸였을 때 느껴지는 약간 종잡을 수 없는 느낌이 좋거든요. 음... 저 자신을 잊을 수 있는 순간이랄까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0021_whiten_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Endmin, will you accept this? Have no fear... There's nothing odd about this thing.",
+    "zh-TW": "管理員，你願意收下這個嗎？放心……不是什麼奇怪的東西。",
+    "zh-CN": "管理员，你愿意收下这个吗？放心……不是什么奇怪的东西。",
+    "ja": "管理人、これあげよっか？……って、ヤバいモノじゃないし。だいじょ～ぶ。",
+    "ko": "관리자님, 이거 받아주시겠어요? 걱정하지 마세요... 이상한 거 아니에요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "It's for ... me? Well... Thank you... I usually do not receive gifts from people who are not in my team.",
+    "zh-TW": "送給我的……？嗯……很感謝……很少有小隊以外的人送給我禮物。",
+    "zh-CN": "送给我的……？嗯……很感谢……很少有小队以外的人送给我礼物。",
+    "ja": "あたしに？……ほぁ……ありがと。隊以外の人からなんか貰うの、レアだから……",
+    "ko": "저한테 주시는 거예요...? 음... 정말 감사해요... 팀원분들 말고는 저한테 선물을 주신 분이 많이 없거든요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Join the assault team? No, thank you. I am confident that I lack the physical strength to do so... And people shouldn't be forced to carry me around.",
+    "zh-TW": "為什麼不加入攻堅小組？不了不了，我對自己體能的不足可是很有自信的……不能給他人增加負擔。",
+    "zh-CN": "为什么不加入攻坚小组？不了不了，我对自己体能的不足可是很有自信的……不能给他人增加负担。",
+    "ja": "なんで「特殊部隊」に入らないかって？……ムリだって。体力ないの取り柄なんだし……足手まといになるのヤダし。",
+    "ko": "왜 돌격팀에 들어가지 않냐고요? 할 수가 없으니까요. 전 제 신체 능력이 부족하다는 것에 확신이 있거든요... 다른 사람한테 부담을 줄 수는 없어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Someone in the trade said I'm under-utilizing my intel... Hmm... I actually never thought about utilizing these secrets. It's just too much work... I guess I just enjoy collecting them...",
+    "zh-TW": "有位同行曾說過我對資訊的利用率太低……嗯……不過我根本沒考慮過怎麼去利用那些秘密，太麻煩了……收集它們只是我的愛好……",
+    "zh-CN": "有位同行曾说过我对信息的利用率太低……嗯……不过我根本没考虑过怎么去利用那些秘密，太麻烦了……收集它们只是我的爱好……",
+    "ja": "持ってる情報もったいないとか言われるけど……そもそも、使おうとしてないから。だってメンドーだし、趣味でやってるだけだし～。",
+    "ko": "전에 한 동료가 저한테 정보의 활용률이 너무 낮다고 그랬어요... 음... 근데 전 그 비밀들을 어떻게 이용할지에 대해서 단 한 번도 생각해 본 적이 없거든요. 귀찮잖아요... 정보를 수집하는 것도 그냥 제 취미라서 하는 건데..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0021_whiten_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "Bad luck? My parents always reminisce about the good ol' days, saying it was just bad luck that our lives kept getting worse... But, well... I think every experience is meaningful in some way. It was how I met my fellow colleagues in Op Team Z7...",
+    "zh-TW": "運氣差？我的父母倒是經常會懷念過去的生活，認為生活的落差是運氣差所致……但是，嗯……我覺得無論什麼樣的經歷都有它存在的意義，正如我由此認識了Z7小隊的夥伴……",
+    "zh-CN": "运气差？我的父母倒是时不时会怀念过去的生活，认为生活的落差是运气差所致……但是，嗯……我觉得无论什么样的经历都有它存在的意义，正如我由此认识了Z7小队的伙伴……",
+    "ja": "ツイてないって？うちの親もよく、今辛いのは昔運が悪かったせいだって言ってたかも～。まぁ、どんなでもそれなりに意味はあるって思うかな。あたしも、それでZ7のみんなに会えたし……",
+    "ko": "운이 나빴냐고요? 음... 저희 부모님은 가끔 옛날 생활을 그리워하셨어요. 그때마다 생활이 어려워진 걸 전부 운이 없는 탓으로 돌리시곤 하셨어요... 근데... 제 생각에는 어떤 경험이든 다 의미가 있다고 생각해요. 덕분에 제가 Z7 팀의 동료들을 만나게 됐으니까요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0021_whiten_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "I was at rock bottom before meeting Team Z7. *Sigh* That time was a total disaster... Some hack cheated me of all my money and I was so hungry... At first, Akekuri and Fluorite had me bivouac with the other nomads they rescued. But when I decided to share details on the Landbreakers' organization and their patrol shifts... Fluorite couldn't hide her astonishment and asked me how I did it... Yeah, I still remember that look on her face.",
+    "zh-TW": "遇到Z7小隊前我正處於人生的最低谷……啊……真是災難。錢被騙光，飢腸轆轆……秋栗和螢石起初把我和被救出的難民們安置在一起，直到我告訴她們裂地者換班的細節和組織情報……螢石一臉驚訝地問我怎麼做到的……嗯，那時她的表情我依然還記得。",
+    "zh-CN": "遇到Z7小队前我正处于人生的最低谷……啊……真是灾难。钱被骗光，饥肠辘辘……秋栗和萤石起初把我和被救出的难民们安置在一起，直到我告诉她们裂地者换班的细节和组织情报……萤石一脸惊异地问我怎么做到的……嗯，那时她的表情我依然还记得。",
+    "ja": "Z7に会う前は人生のどん底、最悪で……騙されてお金も、食べるものもなくて。アケクリとフローライトが流浪者と一緒に保護してくれたから、ランドブレーカーのシフトとか組織の話してあげたら……びっくりしてたなぁ～。あのときのフローライトの顔、一生忘れないかも。",
+    "ko": "Z7 팀에 합류하기 전, 제 인생은 정말 최악이었어요... 아... 정말 재앙이었죠. 돈은 다 사기당하고, 먹을 건 없는데 배는 고프고... 아케쿠리 씨랑 플루라이트 씨가 처음에는 절 구출한 유랑자들이랑 같은 곳에서 지내도록 해주셨어요. 근데 제가 랜드브레이커의 교대 시간이나 조직 정보를 알려드리니까... 엄청나게 놀라시더라고요. 그리고 대체 어떻게 한 거냐고 물어보셨어요. 음... 그때 플루라이트 씨의 표정이 아직도 기억나요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0021_whiten_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "I just want to live a peaceful life and accept whatever comes my way... There was a time when I thought this was wishful thinking for someone as unlucky as me. Then I came to Endfield ... joined Team Z7 ... and met you, Endmin... Thank you for tolerating my presence...",
+    "zh-TW": "我想過隨遇而安的生活……我曾以為霉運纏身的我有這樣的想法很奢侈。直到我來到了終末地……加入了Z7小隊，遇見了管理員……謝謝你們一直在包容我……",
+    "zh-CN": "我想过随遇而安的生活……我曾以为霉运缠身的我有这样的想法很奢侈。直到我来到了终末地……加入了Z7小队，遇见了管理员……谢谢你们一直在包容我……",
+    "ja": "ただ穏やかに暮らしたいって思ってたけど……あたし、運悪いしそんなの贅沢だなって。でもエンドフィールドで、Z7に入って、管理人に出会って……受け入れてもらって、嬉しいんだ……",
+    "ko": "전 그냥 평범하게 살아가고 싶었어요... 하지만 불운이 가득했던 저한테 이런 생각은 상당한 사치였죠. 제가 엔드필드에 오기 전까지는 말이에요... Z7 팀에 들어오고, 또 관리자님을 만나게 돼서 정말 다행이에요... 절 받아주셔서 감사해요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0021_whiten_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "My past wasn't a roller coaster ride. I just followed my family and went from place to place... Yeah, I guess it was tiring and hard, but most Talosians went through the same thing. I just hope life can get more relaxing and easier...",
+    "zh-TW": "我的過去沒有那麼跌宕起伏，我只記得自己跟著家人輾轉各地……嗯，很累、很辛苦，和塔衛二上的大多數人一樣。所以我想生活得更輕鬆一點……",
+    "zh-CN": "我的过去没有那么跌宕起伏，我只记得自己跟着家人辗转各地……嗯，很累、很辛苦，和塔卫二上的大多数人一样。所以我想生活得更轻松一些……",
+    "ja": "そんな波乱万丈じゃないし……家族といろんなとこ転々としてただけ。まぁ……疲れるから大変と言えば大変だったかも。タロⅡの普通の人と一緒だって。もっと、楽に暮らしたいのになぁ～。",
+    "ko": "특별한 기억 같은 건 없어요. 그냥 가족을 따라서 이곳저곳을 떠돌아다녔던 기억뿐이죠... 맞아요. 피곤하고 힘들었죠. 탈로스 II에서 살아가는 대부분의 사람처럼요. 그래서 전 좀 더 편하게 살고 싶어요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "I like the metallic buzz when someone rips a distorted riff. When I'm out in the open, it gives my ears a strange tingling — it's weirdly comforting...",
+    "zh-TW": "在空曠的環境……去感受失真的吉他聲給耳朵帶來的輕微刺痛感……嗯……我很喜歡……",
+    "zh-CN": "在空旷的环境……去感受失真的吉他声给耳朵带来的轻微刺痛感……嗯……我很喜欢……",
+    "ja": "ひろ～い場所で……歪んだギターサウンドが耳を裂く感覚……ふへへ……いいじゃん……",
+    "ko": "텅 빈 곳에서... 디스토션을 건 기타 소리를 듣고 있으면 귀에 약간의 자극이 느껴지거든요... 음... 전 그 느낌이 좋아요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Working behind enemy lines isn't that hard. On the contrary ... it feels rather exciting when you don't know when the danger will strike... Well, nothing would catch you off guard so long as you're well prepared.",
+    "zh-TW": "我並不覺得敵後的工作艱苦，相反……不知何時將至的威脅有些微妙的刺激感……嗯，只要準備足夠充分，沒什麼應付不了的。",
+    "zh-CN": "我并不觉得敌后的工作艰苦，相反……不知何时将至的威胁有些微妙的刺激感……嗯，只要准备足够充分，没什么应付不了的。",
+    "ja": "潜入の仕事って別に大変じゃないし、逆に……いつピンチになるかわかんない緊張感がいいっていうかぁ……まぁ、準備しとけば基本だいじょ～ぶだし？",
+    "ko": "전 적군의 후방에서 하는 임무가 그리 힘들다고 생각하지 않아요. 오히려... 언제 위협이 닥칠지도 모른다는 미묘한 스릴이 있죠... 뭐... 준비만 잘해두면 대처하지 못할 건 없으니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "I'm sorry, Endmin. Just tell me when you feel offended by me... HR reminded me about this... But my friends in Team Z7 told me it's alright because they said being offended by Estella is a part of life...",
+    "zh-TW": "管理員會有覺得被我冒犯到的時候嗎？抱歉……人事部門提醒過我這一點……Z7小隊的大家叫我不用太介意，理由是他們已經習慣了……",
+    "zh-CN": "管理员会有觉得被我冒犯到的时候吗？抱歉……人事部门提醒过我这一点……Z7小队的大家让我不用太介意，理由是他们已经习惯了……",
+    "ja": "管理人。あたし、失礼だったらごめんねぇ……人事部に言われて……Z7のみんなは気にするな、慣れてるって言うけど……",
+    "ko": "관리자님 혹시 제가 좀 무례하다고 생각하신 적 있으신가요? 그렇다면 죄송해요... 인사 부서에서 저한테 좀 주의해 달라고 하더라고요... Z7 팀분들은 별로 신경 안 써도 된다고 하시긴 했는데... 이미 익숙하다고..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "I just collect intel and Fluorite analyzes them. How do you use intel to understand how their mind works? Hmm... I hope Fluorite could share her secrets with me... The only thing she told me was that: \"It's all down to experience.\"",
+    "zh-TW": "該怎麼利用情報去猜測人的內心？我只負責收集，螢石負責剖析……嗯，我也很想知道她是怎麼做到的。不過……她只是告訴我說「經驗之談」。",
+    "zh-CN": "该怎么利用情报去猜测人的内心？我只负责收集，萤石负责剖析……嗯，我也很想知道她是怎么做到的。不过……她只是告诉我说“经验之谈”。",
+    "ja": "情報から心を読む方法……？あたし、集めてるだけだからなぁ、分析はフローライトがするし。でも、謎なんだよねぇ……聞いても「経験」しか言わないし。",
+    "ko": "다른 사람의 마음을 추측하려면 정보를 어떻게 이용해야 하냐고요? 제가 맡은 건 정보 수집뿐이라서요... 분석은 플루라이트 씨가 전담하고 있고요. 저도 어떻게 하는 건지 궁금하긴 한데... 플루라이트 씨는 그냥 '감이야'라고만 하셨어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_about_line01",
+   "title": {
+    "en": "Topic: Akekuri",
+    "zh-TW": "話題：秋栗",
+    "zh-CN": "话题：秋栗",
+    "ja": "アケクリについて",
+    "ko": "아케쿠리에 관하여"
+   },
+   "text": {
+    "en": "Hmm... There will be a reckoning for this unfair assignment. Everyone shall learn about Akekuri's cupcake secret... Hurhur... Estella, you are such an evil girl.",
+    "zh-TW": "嗯……作為超額勞動的報復，我要把秋栗與紙杯蛋糕的秘密公之於眾……呵呵，我真是太惡毒了。",
+    "zh-CN": "嗯……作为超额劳动的报复，我要把秋栗与纸杯蛋糕的秘密公之于众……呵呵，我真是太恶毒了。",
+    "ja": "これはさぁ……過剰労働でしょ。アケクリとカップケーキの秘密、みんなに話しちゃおっかなぁ……あーあ。あたし、悪い子だしなぁ～。",
+    "ko": "음... 초과 근무에 대한 복수로... 아케쿠리 씨와 컵케이크의 비밀을 세상에 알려야겠어요... 헤헤, 저 정말 나쁘죠?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_about_line02",
+   "title": {
+    "en": "Topic: Catcher",
+    "zh-TW": "話題：卡契爾",
+    "zh-CN": "话题：卡契尔",
+    "ja": "キャッチャーについて",
+    "ko": "카치르에 관하여"
+   },
+   "text": {
+    "en": "Catcher doesn't have any secrets... In fact, he's practically laid everything bare in his Work Performance Report... I never expected to meet a weirdo like him.",
+    "zh-TW": "卡契爾是個毫無秘密的人……嗯，他的一切似乎都已經寫在述職報告裡了……世界上居然還存在這樣的人？",
+    "zh-CN": "卡契尔是个毫无秘密的人……嗯，他的一切似乎都已经写在述职报告里了……世界上居然还存在这样的人？",
+    "ja": "キャッチャーって、本気で秘密ないんだよねぇ……業務報告書に全部書いてて……こんな人、レアってか謎じゃない？",
+    "ko": "카치르 씨는 정말 아무런 비밀이 없는 사람이에요... 음, 카치르 씨에 대한 모든 건 업무 상황 보고서에 다 적혀 있으니까요... 세상에 이런 사람이 다 있다니..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_about_line03",
+   "title": {
+    "en": "Topic: Fluorite",
+    "zh-TW": "話題：螢石",
+    "zh-CN": "话题：萤石",
+    "ja": "フローライトについて",
+    "ko": "플루라이트에 관하여"
+   },
+   "text": {
+    "en": "I tend to get partnered up with Fluorite. She kept laughing at things I said and even encouraged me to say more... Hmm... I guess ... people and their minds can be quite complicated.",
+    "zh-TW": "螢石和我搭檔的次數最多，她總是因為我說了什麼而笑個不停，還會叫我多說點話……嗯……人內心的想法真是難以捉摸。",
+    "zh-CN": "萤石和我搭档的次数最多，她总是因为我说了什么而笑个不停，还会让我多说点话……嗯……人内心的想法真是难以捉摸。",
+    "ja": "フローライトはよくペアなるけど……こっちが喋るとすごい笑うし、もっと喋ってって。人の考えって、全然わかんない……",
+    "ko": "가장 많이 파트너로서 임무를 수행한 게 플루라이트 씨인데, 제가 무슨 말을 할 때마다 항상 웃으셨어요. 그러면서 계속 저보고 더 말해보라고 해요... 음... 사람의 마음이라는 건 정말 알기 어려운 것 같아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_about_line04",
+   "title": {
+    "en": "Topic: Antal",
+    "zh-TW": "話題：安塔爾",
+    "zh-CN": "话题：安塔尔",
+    "ja": "アンタルについて",
+    "ko": "안탈에 관하여"
+   },
+   "text": {
+    "en": "The Savra is dedicated ... though I think he goes overboard at times. Work is tiring enough as it is... But I find his jokes quite interesting. They always make me and Fluorite laugh.",
+    "zh-TW": "那位薩弗拉是個很認真的人……有時候是不是有點認真過頭了？工作本就如此辛苦……不過他講的笑話非常有趣，總能把我和螢石逗笑。",
+    "zh-CN": "那位萨弗拉是个很认真的人……有时候是不是有点认真过头了？工作本就如此辛苦……不过他讲的笑话非常有意思，总能把我和萤石逗笑。",
+    "ja": "あのサヴラ、マジメだよねぇ……マジメすぎ感ない？ただ仕事ってだけでメンドーなのに……でも笑いのセンス最高で、フローライトとゲラゲラ笑っちゃうんだぁ～。",
+    "ko": "그 사브라분은 정말 진지하신 분이에요. 가끔은 좀 지나치게 진지하실 때도 있지만요. 일이 힘들긴 하지만... 해주시는 농담이 정말 재밌거든요! 저랑 플루라이트 씨 모두 진짜 좋아해요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "That one looks good... If possible, we should bring it back.",
+    "zh-TW": "那個看起來還不錯……嗯，找個機會帶回去吧。",
+    "zh-CN": "那个看起来还不错……嗯，找个机会带回去吧。",
+    "ja": "良さそうかも……ふ～ん、タイミングで持って帰っちゃお～。",
+    "ko": "저거 꽤 괜찮아 보이는데... 음, 기회가 되면 챙겨가야겠어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Look there... Could be worth the trouble.",
+    "zh-TW": "那邊那個……就算再累也有跑一趟的價值。",
+    "zh-CN": "那边那个……就算再累也有跑一趟的价值。",
+    "ja": "あっち……疲れたけど、行く価値アリ……",
+    "ko": "저쪽에 있는 저거... 피곤하긴 하지만 한번 가볼 필요가 있어 보여요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Hooo... I guess we'll have to investigate that area.",
+    "zh-TW": "呼……得去那邊探索一番了。",
+    "zh-CN": "呼……得去那边探索一番了。",
+    "ja": "ぐぅ……あっちも探索かぁ……",
+    "ko": "후우... 저쪽도 한번 탐색해 봐야겠네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "High threat hostile... Mind if I stick to support?",
+    "zh-TW": "是強敵……我可以只負責支援嗎？",
+    "zh-CN": "是强敌……我可以只负责支援吗？",
+    "ja": "やばそ……あたし、支援だけでいい？",
+    "ko": "강한 적이네요... 전 지원만 해도 될까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "If only someone brought an auto-mining rig...",
+    "zh-TW": "多希望這種場合能用自動礦機……",
+    "zh-CN": "多希望这种场合能用上自动矿机……",
+    "ja": "こんなとき、全自動採鉱機あったらなぁ……",
+    "ko": "이럴 땐 자동 채굴기를 사용했으면 좋겠는데요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "I'm here to help... But don't expect too much from me...",
+    "zh-TW": "我來幫忙了……不過……別對我有太多期望……",
+    "zh-CN": "我来帮忙了……不过……别对我有太多期望……",
+    "ja": "手伝い……だけど、期待しないほうがいいかも。",
+    "ko": "제가 도와드릴게요... 하지만... 너무 큰 기대는 하지 마세요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Now we've made good on this trip.",
+    "zh-TW": "這樣就不算白跑一趟了。",
+    "zh-CN": "这下不算白跑一趟了。",
+    "ja": "ここまで、無駄じゃなくなったぁ。",
+    "ko": "헛걸음을 한 건 아니네요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Ahh... I think I saw this before...",
+    "zh-TW": "啊，我曾經見過這個……",
+    "zh-CN": "啊，我曾经见过这个……",
+    "ja": "ん～？これ、見たことある……",
+    "ko": "아, 전에 본 적 있는데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Great. Now we don't have to walk the long way round.",
+    "zh-TW": "太好了，這樣就不用多繞路了。",
+    "zh-CN": "太好了，这下不用多绕路了。",
+    "ja": "よかったぁ。遠回り回避～。",
+    "ko": "정말 잘됐네요! 이제 멀리 돌아가지 않아도 되겠어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "I'm a little recovered ... still, a bit more rest would be great.",
+    "zh-TW": "多少恢復了點體力……能再多休息一會就更好了。",
+    "zh-CN": "多少恢复了些体力……能再多休息会儿就更好了。",
+    "ja": "体力マシにはなったけど……もっと休みたいよぉ……",
+    "ko": "체력을 좀 회복하긴 했는데... 조금만 더 쉬면 더 좋을 것 같아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Try this... Maybe it can help...",
+    "zh-TW": "試試這個……或許能幫到你……",
+    "zh-CN": "试试这个……或许能帮到你……",
+    "ja": "これどう……？役立つかも。",
+    "ko": "이거 한번 써보세요... 도움이 될지도 몰라요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Guess the prep was worth it.",
+    "zh-TW": "之前的準備派上用場了……",
+    "zh-CN": "之前的准备派上用场了……",
+    "ja": "準備しといてよかったぁ～。",
+    "ko": "아까 준비했던 걸 제대로 사용했네요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Watch out... Don't get hit.",
+    "zh-TW": "小心……這時候不能硬撐。",
+    "zh-CN": "当心……这时候不能硬撑。",
+    "ja": "やばいかも……ムリしないほうが良さげ……",
+    "ko": "조심하세요... 무리하면 안 돼요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Hurrr... The weapon's so heavy...",
+    "zh-TW": "呼……武器好重……",
+    "zh-CN": "呼……武器好沉……",
+    "ja": "だぁ……武器……重……",
+    "ko": "후우... 무기가 너무 무거워요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "I've let everyone down again...",
+    "zh-TW": "抱歉……是我拖累了大家……",
+    "zh-CN": "抱歉……是我拖累了大家……",
+    "ja": "ごめん……足引っ張ったぁ……",
+    "ko": "죄송해요... 제가 발목을 잡았네요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Wow... I would never pull that off.",
+    "zh-TW": "喔哦……剛才的動作我可不行。",
+    "zh-CN": "喔哦……刚才的动作我可不行。",
+    "ja": "ふぁ……さっきの、あたしにはムリ。",
+    "ko": "우와... 방금 그거... 전 못 해요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Good... Team work is what we need.",
+    "zh-TW": "沒錯……就應該多依靠團隊協作。",
+    "zh-CN": "没错……就应该多依靠团队协作。",
+    "ja": "そうそう、やっぱ、チームワーク。",
+    "ko": "음... 의지할 수 있어서 다행이에요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "I'd rather not do this too often...",
+    "zh-TW": "但我不想多來幾次了……",
+    "zh-CN": "但我不想多来几次了……",
+    "ja": "でも……何回もやるのはムリ……",
+    "ko": "근데 여러 번 하고 싶진 않아요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "Yeah... Everyone played a part.",
+    "zh-TW": "嗯……每個人都出了份力。",
+    "zh-CN": "嗯……每个人都出了份力。",
+    "ja": "まぁ、みんながんばったよねぇ～。",
+    "ko": "음... 다들 제 몫을 한 거죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "I'm no good in long battles... Please finish it quickly.",
+    "zh-TW": "我不擅長持久戰……加速解決吧。",
+    "zh-CN": "我不擅长持久战……加速解决吧。",
+    "ja": "持久戦はムリだって……サクッとやろ～。",
+    "ko": "전 장기전에 약해요... 빨리 끝내버리죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Do we really have to fight? Fine. Let's go.",
+    "zh-TW": "到了不得不戰鬥的時候了嗎？上吧。",
+    "zh-CN": "到了不得不战斗的时候了吗？上吧。",
+    "ja": "戦うしかないって？行くかぁ……",
+    "ko": "싸울 수밖에 없는 거죠...? 알겠어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Huh... It's over... I did well, right...?",
+    "zh-TW": "總算結束了……哈，我表現得還不錯吧……",
+    "zh-CN": "总算结束了……哈，我表现得还不错吧……",
+    "ja": "おわったぁ……ふぃ……それなりにはよくやったよね……",
+    "ko": "드디어 끝났네요... 하아, 나름 괜찮지 않았나요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "Hoo... So glad I didn't pass out halfway through.",
+    "zh-TW": "呼……幸好在體力槽見底前結束了。",
+    "zh-CN": "呼……幸好在体力槽见底前结束了。",
+    "ja": "ふぁ……ギリ体力もったぁ、よかった～。",
+    "ko": "후우... 체력이 완전히 떨어지기 전에 끝나서 다행이에요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Good... At least it ended quickly...",
+    "zh-TW": "還好……沒有拖太久……",
+    "zh-CN": "还好……没有拖太久……",
+    "ja": "くぅ……よかったぁ、長引かなくて。",
+    "ko": "다행이에요... 너무 오래 안 걸려서..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "Everyone ... did well... I'm so glad I made it...",
+    "zh-TW": "多虧了……大家……還好堅持下來了……",
+    "zh-CN": "多亏了……大家……还好坚持下来了……",
+    "ja": "みんなの……おかげ……ギリ、耐えたぁ……",
+    "ko": "모두가... 끝까지 버틴 덕분이에요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "I can't let it end like this... Next time ... I'll try even harder...",
+    "zh-TW": "下一次……下一次我會更加全力以赴的……不能就這樣結束……",
+    "zh-CN": "下一次……下一次我会更加全力以赴的……不能就这么结束……",
+    "ja": "次は……本気出す……このままじゃ終われないよぉ……",
+    "ko": "다음에는... 다음번에는 진짜 더 열심히 할 거예요... 이렇게 끝낼 수는 없어요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Stand still!",
+    "zh-TW": "別亂跑！",
+    "zh-CN": "别乱跑！",
+    "ja": "動くなぁ！",
+    "ko": "가만히 좀 있어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Right there!",
+    "zh-TW": "……這裡！",
+    "zh-CN": "……这里！",
+    "ja": "……ここ！",
+    "ko": "...지금이다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Sonic ... freeze!",
+    "zh-TW": "將聲波……凍結！",
+    "zh-CN": "将声波……冻结！",
+    "ja": "音波……凍れ！",
+    "ko": "음파... 동결!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Shatter ... blast!",
+    "zh-TW": "破碎……之聲！",
+    "zh-CN": "破碎……之声！",
+    "ja": "砕けろ……轟音！",
+    "ko": "소리... 분쇄!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Haa... RIP!",
+    "zh-TW": "哈啊……撕裂吧！",
+    "zh-CN": "哈啊……撕裂吧！",
+    "ja": "ふぅ……ズバン！",
+    "ko": "하아... 갈라져라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Finally... I'm in position.",
+    "zh-TW": "總算……準備就緒了。",
+    "zh-CN": "总算……准备就绪了。",
+    "ja": "ようやく……準備できた。",
+    "ko": "드디어... 준비가 다 됐어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Sorry to keep you waiting...",
+    "zh-TW": "讓你們久等了……",
+    "zh-CN": "让你们久等了……",
+    "ja": "お待たせ……",
+    "ko": "오래... 기다리셨나요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Heave-HO!",
+    "zh-TW": "唔……嘿咻！",
+    "zh-CN": "唔……嘿咻！",
+    "ja": "ぐぅ……よいしょおっ！",
+    "ko": "윽... 읏챠!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Coming up!",
+    "zh-TW": "別急，這就來！",
+    "zh-CN": "别急，这就来！",
+    "ja": "待って。今行く！",
+    "ko": "지금 가요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Hit the weak ... SPOT!",
+    "zh-TW": "瞄準……弱點！",
+    "zh-CN": "瞄准……弱点！",
+    "ja": "弱点は……そこだぁ！",
+    "ko": "약점... 조준!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "You go DOWN!",
+    "zh-TW": "快點……倒下吧！",
+    "zh-CN": "快点……倒下吧！",
+    "ja": "もぉ……倒れろ！",
+    "ko": "빨리 쓰러지란 말이야...!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Sonic boom ... BOMBARD!",
+    "zh-TW": "音爆……轟擊！",
+    "zh-CN": "音爆……轰击！",
+    "ja": "轟音……ドッカーン！",
+    "ko": "음폭... 충격!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Charge and ... blast!",
+    "zh-TW": "匯聚……釋放！",
+    "zh-CN": "汇聚……释放！",
+    "ja": "集めて……ぶっ放す！",
+    "ko": "모아서... 공격!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0021_whiten_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "O' sounds, converge!",
+    "zh-TW": "將聲音凝結！",
+    "zh-CN": "将声音凝结！",
+    "ja": "音、集まれ！",
+    "ko": "소리... 응결!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0021_whiten_1",
+   "topic": {
+    "en": "Music Taste",
+    "zh-TW": "音樂品味",
+    "zh-CN": "音乐品味",
+    "ja": "音楽センス",
+    "ko": "음악 취향"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Endmin, ever heard \"Frontier Obsession\"?",
+      "zh-TW": "管理員，你聽過那首《開拓區迷情》嗎？",
+      "zh-CN": "管理员，你听过那首《开拓区迷情》吗？",
+      "ja": "管理人。『開拓エリアに魅せられて』って曲、知ってる？",
+      "ko": "관리자님, <개척 지역의 유혹>이라는 노래를 들어보셨나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "This song's been blowing up everywhere.",
+      "zh-TW": "這首歌最近超紅的。",
+      "zh-CN": "这歌最近火得不得了。",
+      "ja": "最近めちゃくちゃ流行ってんの。",
+      "ko": "요즘 엄청나게 인기 많은 노래예요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Oh, is it a new track? Send me a link.",
+         "zh-TW": "那是什麼？新歌嗎？分享來聽聽。",
+         "zh-CN": "那是什么？新歌吗？发来听听。",
+         "ja": "新曲かな。ちょっと気になる。",
+         "ko": "그게 뭔데? 새로 나온 노래야? 링크를 보내주면 들어볼게."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That's a pretty blunt song name. What kind of music is it?",
+         "zh-TW": "好直白的名字，是什麼風格的？",
+         "zh-CN": "好直白的名字，是什么风格的？",
+         "ja": "随分ストレートな名前だけど、どんな曲？",
+         "ko": "정말 직설적인 제목이네. 어떤 장르의 노래야?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "It was on Metal Scar Radio before, got a lot of hype.",
+      "zh-TW": "這首歌之前上過鐵痕電台，話題熱度非常高。",
+      "zh-CN": "这首歌之前上过铁痕电台，话题度非常高。",
+      "ja": "この前メタルスカーラジオで流れて、話題になったんだぁ～。",
+      "ko": "메탈 스카 라디오에 나온 적도 있어요. 요즘 화제성이 장난 아니에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Here's the link. \"Frontier Obsession\" — full of mysterious, dizzying vibes from the Deep...",
+      "zh-TW": "分享音訊連結-[《開拓區迷情》，音訊簡介：由深淵釋放出的迷離情緒……]",
+      "zh-CN": "分享音频链接-[《开拓区迷情》，音频简介：由深渊释放出的迷离情绪……]",
+      "ja": "音声リンクが共有されました「開拓エリアに魅せられて　音声紹介：深淵から溢れる儚い感情が……」",
+      "ko": "음악 링크 공유 - [<개척 지역의 유혹>, 노래 소개: 심연에서 흘러나오는 몽환적인 감정을...]"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Definitely ... a unique style...",
+         "zh-TW": "好……特別的風格，嗯，很有特點……",
+         "zh-CN": "好有……特色的风格，嗯，很有特点……",
+         "ja": "かなり……特徴的な曲だね。うん、個性はある。",
+         "ko": "아주... 개성이 강한 노래네. 흠, 특색이 뚜렷해..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "The artist's an LB. People call this \"Breaker style\".",
+         "zh-TW": "它的作者據說是一個裂地者，這個風格現在被稱為「裂地風」。",
+         "zh-CN": "它的作者据说是一个裂地者，这个风格现在被称为“裂地风”。",
+         "ja": "歌手はランドブレーカーだって噂……「ブレーカースタイル」って呼ばれてるんだぁ～。",
+         "ko": "랜드브레이커가 작곡했다고 하더라고요. 그런 장르를 '랜드브레이커풍'이라고 한대요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Listen to that ear-blasting melody. Kinda addictive...",
+         "zh-TW": "你聽這轟炸耳膜的刺激感，令人陶醉……",
+         "zh-CN": "你听这轰炸耳膜的刺激感，令人陶醉……",
+         "ja": "鼓膜がビリビリする刺激……クセになるんだよねぇ……",
+         "ko": "고막이 찢어질 듯한 이 자극을 느껴보세요. 정말 황홀해요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "I sent it to Akekuri and the gang ... they said I was just trolling them.",
+         "zh-TW": "我之前傳給秋栗他們，他們都說我在惡作劇。",
+         "zh-CN": "我之前发给了秋栗他们，他们都说我在恶作剧。",
+         "ja": "前にアケクリたちに送ったときは、イタズラだって思われたけど。",
+         "ko": "예전에 아케쿠리 씨나 다른 팀원들한테도 보내줬는데 제가 장난치는 줄 알더라고요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I don't know what to say...",
+         "zh-TW": "不知道該怎麼評價……",
+         "zh-CN": "不知道该怎么评价……",
+         "ja": "正直、どう評価したらいいか……",
+         "ko": "어떻게 평가해야 할지 모르겠네..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "It's okay. This style really splits opinions.",
+         "zh-TW": "果然，這種風格的評價很兩極化。",
+         "zh-CN": "果然，这种风格的评价很两极分化。",
+         "ja": "やっぱり、好き嫌い分かれるかぁ。",
+         "ko": "역시, 이런 장르의 노래는 평가가 극닥적으로 갈리네요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Akekuri and the others didn't like it, but I kinda dig it.",
+         "zh-TW": "秋栗他們也覺得接受不了，我倒是蠻喜歡的。",
+         "zh-CN": "秋栗他们也觉得接受不了，我倒是蛮喜欢的。",
+         "ja": "アケクリたちもダメだったし。あたしは結構好き。",
+         "ko": "아케쿠리 씨나 다른 팀원들도 자기 스타일은 아니라고 했지만, 저는 이 노래가 마음에 들어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "I mean, it's rare to hear a song from an LB.",
+         "zh-TW": "畢竟很少有機會聽到裂地者寫的歌。",
+         "zh-CN": "毕竟很少有机会听到裂地者写的歌。",
+         "ja": "ランドブレーカーが作った曲なんて、なかなか聞けないから。",
+         "ko": "랜드브레이커가 작곡한 노래를 들어볼 기회는 많지 않으니까요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "The artist's an LB? Metal Scar Radio really plays anything, huh.",
+      "zh-TW": "裂地者的歌？鐵痕電台真是來者不拒啊。",
+      "zh-CN": "裂地者的歌？铁痕电台真是来者不拒啊。",
+      "ja": "ランドブレーカーの曲？メタルスカーラジオでは、そんな曲も……",
+      "ko": "랜드브레이커가 쓴 노래라고? 메탈 스카 라디오도 가리는 게 없구나."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Well, their only standard is, \"Is it interesting\"?",
+      "zh-TW": "畢竟鐵痕電台的標準只有一個——「是否有趣」。",
+      "zh-CN": "毕竟铁痕电台的标准只有一个——“是否有趣”。",
+      "ja": "メタルスカーラジオ、なんでもありだし。「面白ければOK」的な……",
+      "ko": "메탈 스카 라디오의 기준은 '재미가 있는지 없는지' 그거 하나뿐이거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "They've played all kinds of stuff ... EDM from the Cabal of Tranquility, mysterious percussion from the Hannabit Circuit.",
+      "zh-TW": "不光是裂地者的歌……以前還收錄過寂語修會的魔性電子樂，還有眾生長地的神秘打擊樂。",
+      "zh-CN": "不光裂地者的歌……以前还收录过寂语修会的魔性电子乐，还有众生长地的神秘打击乐。",
+      "ja": "ランドブレーカーだけじゃなくて、静語伝道会のクセになるエレクトロ系とか、衆生長地の謎打楽器の曲とか……",
+      "ko": "랜드브레이커가 작곡한 노래뿐만 아니라... 고요한 수도회의 마성의 일렉트로닉 음악이랑 만물의 대지의 신비로운 타악곡도 수록한 적 있어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Ah... those unpredictable melodies... <3",
+      "zh-TW": "啊……那變幻莫測的奇妙旋律……",
+      "zh-CN": "啊……那变幻莫测的奇妙旋律……",
+      "ja": "あーあ……あのどんどん変わってく不思議なメロディ……",
+      "ko": "하... 변화무쌍한 신비로운 선율이 잊혀지지 않아요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "So, Endmin, what kind of music do you like?",
+      "zh-TW": "對了，管理員有什麼喜歡的音樂類型嗎？",
+      "zh-CN": "对了，管理员有什么喜欢的音乐类型吗？",
+      "ja": "ねぇ、管理人はどんな音楽好き？",
+      "ko": "참, 관리자님은 어떤 장르의 음악을 좋아하세요?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I like light and softer music, good for listening while I work.",
+         "zh-TW": "我喜歡輕柔一點的音樂，適合工作的時候聽。",
+         "zh-CN": "我喜欢轻柔一点的音乐，适合工作时听。",
+         "ja": "落ち着いた曲が好きだ。業務中に聞くのにいいしね。",
+         "ko": "난 부드러운 음악을 좋아해. 일할 때 듣기 좋거든."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I enjoy music that's exciting enough to keep things interesting.",
+         "zh-TW": "我喜歡非常刺激的音樂，這樣才有趣。",
+         "zh-CN": "我喜欢足够刺激的音乐，这样才有趣。",
+         "ja": "聞いていてわくわくするような曲が好きかな。聞いていて楽しいからね。",
+         "ko": "난 자극적인 음악을 좋아해. 그래야 듣는 재미가 있거든."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Honestly, I'm open to any kind of music.",
+         "zh-TW": "我不排斥任何一種音樂，全都喜歡。",
+         "zh-CN": "我可不排斥任何一种音乐，全都喜欢。",
+         "ja": "どんな曲でも、全部好きだよ。",
+         "ko": "난 어떤 장르의 음악이든 다 좋아해."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Your answer really says a lot about you.",
+      "zh-TW": "很有管理員風格的回答呢，嗯，我知道了。",
+      "zh-CN": "很有管理员风格的回答呢，嗯，我知道了。",
+      "ja": "ふ～ん。やたら管理人らしい答え……わかったぁ。",
+      "ko": "관리자님다운 대답이네요. 네, 알겠어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Alright. I'll recommend some cool tracks to you often, so stay tuned!",
+      "zh-TW": "之後我也會經常推薦管理員一些有趣的音樂的，敬請期待。",
+      "zh-CN": "之后我也会经常给管理员推荐一些有意思的音乐的，敬请期待。",
+      "ja": "これからもちょこちょこ管理人が好きそうな曲勧めてあげる。楽しみにしててねぇ。",
+      "ko": "앞으로도 재미있는 음악을 많이 추천해 드릴게요. 기대해 주세요."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0021_whiten_2",
+   "topic": {
+    "en": "Physical Training",
+    "zh-TW": "體能訓練",
+    "zh-CN": "体能训练",
+    "ja": "スタミナ訓練",
+    "ko": "체력 훈련"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Endmin... I've hit a snag...",
+      "zh-TW": "管理員，我遇到一點問題……",
+      "zh-CN": "管理员，我遇到一些问题……",
+      "ja": "管理人……困ってて……",
+      "ko": "관리자님, 도움이 필요해요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Lil' Dodge says I need to get stronger to use those fancy weapons properly.",
+      "zh-TW": "小道奇教官建議我適當提升一下體能，以便適應更先進的武器套裝。",
+      "zh-CN": "小道奇教官建议我适当提升一下体能水平，以便适配更先进的武器套装。",
+      "ja": "ダッジ教官が、スタミナつけろって。高度な武器に合わせるために。",
+      "ko": "도치 교관님이 더 발전된 무기 세트를 사용하려면, 신체 능력을 적당히 더 기르라고 조언하셨거든요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I think he has a point.",
+         "zh-TW": "我覺得是個不錯的建議。",
+         "zh-CN": "我觉得是个不错的建议。",
+         "ja": "悪くない話だと思うけど……",
+         "ko": "나쁘지 않은 조언이네."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "How do you feel about that?",
+         "zh-TW": "你對此有什麼看法？",
+         "zh-CN": "你对此是什么看法？",
+         "ja": "君はどう思ってるの？",
+         "ko": "그래서 넌 어떻게 생각해?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "I've tried sooo hard! But ... my body says NOPE.",
+      "zh-TW": "我……努力過了！但……對我來說難度太高了……",
+      "zh-CN": "我……努力过了！但……对我来说难度太高了……",
+      "ja": "あたし……やってみた。でも、ムリ……",
+      "ko": "저도... 열심히 노력했어요! 근데... 저한테는 너무 어렵네요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Isn't there a magic way to get fit without sweating?",
+      "zh-TW": "有沒有什麼不用訓練也能增強體能的方式？",
+      "zh-CN": "有没有什么不用训练也能增强体能的方式？",
+      "ja": "訓練無しで、スタミナつける方法ってない？",
+      "ko": "훈련하지 않고 신체 능력을 기르는 방법은 없을까요?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "How ... athletic are you now?",
+         "zh-TW": "你現在的體能情況如何？",
+         "zh-CN": "你现在的体能情况如何？",
+         "ja": "今はどれくらい体力があるんだろう。",
+         "ko": "지금 신체 능력은 어느 정도인데?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Just swinging that heavy weapon is already my max...",
+         "zh-TW": "能揮動那把重得要死的武器就已經是極限了……",
+         "zh-CN": "能挥动那把重得要死的武器就已经是极限了……",
+         "ja": "あの、ゲロ重の武器振るだけでギリ……",
+         "ko": "그 무거운 무기를 휘두르는 것만으로도 이미 제 한계에 다다른 거예요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "And Lil' Dodge says it's already been lightened...",
+         "zh-TW": "但小道奇教官說我的武器都是已經做過輕量化處理的了……",
+         "zh-CN": "但小道奇教官说我的武器都是已经做过轻量化处理的了……",
+         "ja": "でもダッジ教官には「軽量化済み」だって。",
+         "ko": "근데 도치 교관님은 제 무기가 이미 경량화된 무기라고 말씀하셨죠..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Endmin, am I totally doomed?",
+         "zh-TW": "管理員，我是不是沒救了？",
+         "zh-CN": "管理员，我是不是没救了？",
+         "ja": "管理人。あたしもう、終わりなのかなぁ……",
+         "ko": "관리자님, 전 이제 희망이 없는 걸까요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Did the last training help at all?",
+         "zh-TW": "之前的訓練效果如何？有感受到什麼變化嗎？",
+         "zh-CN": "之前的训练效果如何？有感受到什么变化吗？",
+         "ja": "これまでの訓練はどうだったの？何か変化はあった？",
+         "ko": "예전의 훈련 효과는 어땠어? 아무 변화도 못 느꼈어?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Well... I was sore for three days straight...",
+         "zh-TW": "嗯……身體酸痛了三天。",
+         "zh-CN": "嗯……身体酸疼了三天。",
+         "ja": "う～ん……筋肉痛、3日。",
+         "ko": "흠... 몸이 사흘 내내 쑤시더라고요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "I thought I died...",
+         "zh-TW": "我差點以為自己要散架了……",
+         "zh-CN": "我差点以为自己要散架了……",
+         "ja": "身体、バラバラになるかと思ったよぉ……",
+         "ko": "온몸이 녹초가 될 지경이었어요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Endmin, am I totally doomed?",
+         "zh-TW": "管理員，我是不是沒救了？",
+         "zh-CN": "管理员，我是不是没救了？",
+         "ja": "管理人。あたしもう、終わりなのかなぁ……",
+         "ko": "관리자님, 전 이제 희망이 없는 걸까요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Let me see your training plan. Whoa, this is only a fifth of the usual training load, right?",
+         "zh-TW": "讓我看一下訓練計劃……等等，這已經是正常訓練量的五分之一了吧？",
+         "zh-CN": "让我看一下训练计划……等等，这已经是正常训练量的五分之一了吧？",
+         "ja": "訓練計画を見せてくれる？……待って。これは、通常訓練の20%くらいじゃ……",
+         "ko": "훈련 계획을 좀 볼게... 잠깐, 정상적인 훈련량의 5분의 1밖에 안 되는 것 같은데?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Unbelievable... I thought it was double...",
+         "zh-TW": "是嗎……我還以為這是兩倍的量……",
+         "zh-CN": "是吗……我还以为这是两倍的量……",
+         "ja": "マジ……？あたし、2倍くらいはあるって思ってたぁ～。",
+         "ko": "그런가요... 저는 두 배 정도 되는 줄 알았는데요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Even a fifth leaves me wiped out.",
+         "zh-TW": "光是五分之一就已經讓我精疲力盡了。",
+         "zh-CN": "光是五分之一就已经让我精疲力竭了。",
+         "ja": "20%で、ヘロヘロなって……",
+         "ko": "5분의 1밖에 안 되는 데 기진맥진이라니..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Endmin, am I totally doomed?",
+         "zh-TW": "管理員，我是不是沒救了？",
+         "zh-CN": "管理员，我是不是没救了？",
+         "ja": "管理人。あたしもう、終わりなのかなぁ……",
+         "ko": "관리자님, 전 이제 희망이 없는 걸까요?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "I guess my missions won't be affected much, since I mostly do intel...",
+      "zh-TW": "不過，任務應該不會受到什麼影響，畢竟我的工作更多是情報收集……",
+      "zh-CN": "不过，任务应该不会受到什么影响，毕竟我的工作更多是情报收集……",
+      "ja": "でも、任務には影響ないと思うんだよねぇ……あたし基本、情報収集ばっかだし。",
+      "ko": "그래도 임무를 완수하는 데는 큰 영향이 없을 거예요. 제 업무는 대부분 정보를 수집하는 거니까요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "But ... could I maybe try simulator training or something instead?",
+      "zh-TW": "或者……有沒有其他訓練方式？例如模擬器訓練之類的？",
+      "zh-CN": "或者……有没有些其他训练方式？例如模拟器训练之类的？",
+      "ja": "なぁんか……別の訓練方法ない？シミュレーター訓練とか……",
+      "ko": "아니면... 다른 훈련 방식이 없을까요? 예를 들면, 시뮬레이터 훈련 같은 거요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I can talk to Lil' Dodge, see if we can tweak the simulator to match your training plan.",
+         "zh-TW": "我可以找小道奇商量一下，試一下換成模擬器，再改良一下操作方式，讓它更符合你的訓練計劃。",
+         "zh-CN": "我可以找小道奇商量一下，试一下换成模拟器，再改良一下操作方式，让它更适配你的训练计划。",
+         "ja": "ダッジに相談してみるよ。もっと君に合った訓練計画に調整できるかもしれないからね。",
+         "ko": "도치랑 한번 상의해 볼게. 시뮬레이터로 바꾸고 조작 방식을 조금 개선하면, 에스텔라한테 더 맞는 훈련 계획이 완성될 거야."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Phew, that's good to hear...",
+         "zh-TW": "真的嗎？終於得救了……",
+         "zh-CN": "真的吗？终于得救了……",
+         "ja": "ほんと？助かったぁ……",
+         "ko": "정말요? 다행이다..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Endmin, you're my lifesaver!",
+         "zh-TW": "管理員，你簡直是我的救命恩人！",
+         "zh-CN": "管理员，你简直是我的救命恩人！",
+         "ja": "管理人、命の恩人……",
+         "ko": "관리자님은 제 생명의 은인이에요!"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "The old-school way is better, but I can ask Lil' Dodge to add more fun exercises for you.",
+         "zh-TW": "我覺得傳統的訓練方式更好，不過，可以加入更多的趣味訓練。",
+         "zh-CN": "我觉得传统的训练方式更好，不过，可以加入更多的兴趣训练。",
+         "ja": "普通のやり方が良いとは思うけど、興味を持てる訓練を増やすのはありかもね。",
+         "ko": "난 전통적인 방법이 제일 좋다고 생각해. 하지만, 좀 더 흥미로운 훈련을 추가해도 좋겠어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Phew, that's good to hear...",
+         "zh-TW": "真的嗎？終於得救了……",
+         "zh-CN": "真的吗？终于得救了……",
+         "ja": "ほんと？助かったぁ……",
+         "ko": "정말요? 다행이다..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Endmin, you're my lifesaver!",
+         "zh-TW": "管理員，你簡直是我的救命恩人！",
+         "zh-CN": "管理员，你简直是我的救命恩人！",
+         "ja": "管理人、命の恩人……",
+         "ko": "관리자님은 제 생명의 은인이에요!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "It's nothing, really.",
+      "zh-TW": "不至於，不至於。",
+      "zh-CN": "不至于，不至于。",
+      "ja": "大げさだね。",
+      "ko": "무슨, 그 정도는 아니야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "No, seriously! I feel like I've got a spark to keep going. Super thankful!",
+      "zh-TW": "不，真的，我覺得自己又有了活下去的希望。總之，非常感激。",
+      "zh-CN": "不，真的，我感觉自己又有了活下去的希望。总之，十分感激。",
+      "ja": "そんなことない。あたし、生きる希望出てきたかも……管理人、ほんとありがと～。",
+      "ko": "진심이에요. 저한테는 살아갈 희망이 생긴 거예요. 아무튼, 정말 감사해요."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0021_whiten_3",
+   "topic": {
+    "en": "The Wheel of Fortune",
+    "zh-TW": "運氣守恆",
+    "zh-CN": "运气守恒",
+    "ja": "運の保存則",
+    "ko": "행운 질량보존의 법칙"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Endmin, I heard you were worried about my injuries?",
+      "zh-TW": "管理員，我聽說你很關心我的傷勢？",
+      "zh-CN": "管理员，我听说你很关心我的伤势？",
+      "ja": "管理人。あたしがケガしたの、気にしてるって……",
+      "ko": "관리자님, 제 부상 때문에 많이 걱정하셨다면서요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "It's nothing serious. Just bad luck. I ran into a fire before coming back and got exposed to some toxic plants.",
+      "zh-TW": "沒事啦，不是什麼大問題，只是運氣不好。回來前碰到了火災，點燃了有毒的植物。",
+      "zh-CN": "没事啦，不是什么大问题，只是运气不好。回来前碰到了火灾，点着了有毒的植物。",
+      "ja": "だいじょ～ぶ、大したことないって。ちょっと運悪かっただけ……戻る前に火事あって、毒ある植物も燃えたり……",
+      "ko": "전 괜찮아요, 별로 많이 안 다쳤어요. 운이 좀 나빴을 뿐이에요. 돌아오기 전에 불이 나서, 독성이 있는 식물에 불이 옮겨붙었거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Stuff like this happens all the time in intel work. Honestly, I'm used to it.",
+      "zh-TW": "這是情報工作中常常會發生的事，而且，運氣不好這件事我已經習慣了。",
+      "zh-CN": "这是情报工作中常常会发生的事，而且，运气不好这件事我已经习惯了。",
+      "ja": "でも、情報収集ってこんなもんだし。運悪いの慣れてるし。",
+      "ko": "정보 관련된 일을 하다 보면 종종 있는 일이에요. 게다가, 운이 나쁜 건 이제 익숙해졌거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Used to it?",
+      "zh-TW": "「習慣了」是指？",
+      "zh-CN": "“习惯了”是指？",
+      "ja": "「慣れてる」って、どういう意味かな。",
+      "ko": "'익숙해졌다'는 게 무슨 뜻이야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Yeah ... like ropes snapping right before a mission, Tuskbeasts showing up while I'm gathering intel ... all sorts of chaos.",
+      "zh-TW": "我總是會遇到各式各樣的突發情況，像是保險繩在出發前斷掉，潛行竊聽的時候被迫和一群牙獸待了很久……",
+      "zh-CN": "我总是会遇到各种各样的突发情况，像是保险绳在出发前断掉，潜行窃听的时候被迫和一群牙兽待了很久……",
+      "ja": "なぁんか、トラブルに巻き込まれるっていうか……出る前に安全ロープ切れたり、潜入して盗聴してたら牙獣の群れに永遠に囲まれたり……",
+      "ko": "저는 항상 별의별 돌발 상황을 겪곤 해요. 출발하기 전에 안전줄이 끊어진다든가, 도청 작전 중에 터스크비스트들이랑 오랫동안 같이 있어야 한다든가..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "I always have backups, and backups for the backups...",
+      "zh-TW": "我已經習慣制定好備案，還有備案的備案，還有……嗯，總之會準備很多後手。",
+      "zh-CN": "我已经习惯制定好备案，还有备案的备案，还有……嗯，总之会准备很多后手。",
+      "ja": "だから、いろいろ考えとくのにも慣れてるし、対策案も、対策案の対策案も……まぁ、いっぱいあるほうがいいよねぇ。",
+      "ko": "그래서 대비책을 세우는 데 익숙해요. 대비책의 대비책, 또 그다음까지도요... 음, 아무튼 여러 가지 대안을 늘 준비해 두죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "This time, one of my emergency meds actually worked.",
+      "zh-TW": "這次也是，我準備了好幾種野外緊急藥物，其中一種派上了用場。",
+      "zh-CN": "这次也是，我准备了好几种野外应急药物，其中一种派上了用场。",
+      "ja": "今回も、野外用の薬結構持ってて、1個ちょーどいいやつあったんだぁ。",
+      "ko": "이번에도 여러 가지 야외 응급 약품을 준비해 갔더니, 그중 하나가 도움이 됐어요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Things like these happen often?",
+         "zh-TW": "你遇到過很多次這樣的事嗎？",
+         "zh-CN": "你遇到过很多次这样的事吗？",
+         "ja": "こういうことを、何回も経験してきたのかな。",
+         "ko": "지금까지 그런 일이 많이 있었어?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Yes, when bad luck strikes...",
+         "zh-TW": "哈……那真是有夠糟糕的。",
+         "zh-CN": "哈……那可是有够糟的。",
+         "ja": "ふぅ……ほんとメンドーっていうかぁ……",
+         "ko": "하... 정말 최악이었죠."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Come to think of it, I'm always bruised ... and sometimes take others with me.",
+         "zh-TW": "回憶起來，我總是掛著各式各樣的傷，有時候還會把同伴捲入其中。",
+         "zh-CN": "回忆起来，我总是挂着各种各样的伤，有时候还会把同伴卷入其中。",
+         "ja": "よく考えたら、いっつもケガしてるし、たまにみんな巻き込んじゃうし。",
+         "ko": "생각해 보니, 저는 항상 상처를 달고 다녔네요. 가끔은 동료들까지 위험에 휘말리게 했어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "That's why I stick to solo work. Backup plans help. Most of the time...",
+         "zh-TW": "所以我盡可能選擇可以獨自行動的工作。嗯……只要留好後手，大多數情況都能夠應付。",
+         "zh-CN": "所以我选择了尽可能独自行动的工作。嗯……只要留好后手，大多数情况都能够应付。",
+         "ja": "だから、できるだけ単独行動できる仕事選んだんだぁ～。1人でも、対策案考えとけば基本なんとかなるじゃんね？",
+         "ko": "그래서 가능한 한 혼자 움직일 수 있는 일을 선택했어요. 음... 대비책만 잘 세워두면 대부분의 상황은 대응할 수 있거든요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That's why you're always hurt?",
+         "zh-TW": "所以你身上才總是帶著傷嗎？",
+         "zh-CN": "所以你身上才总是带着伤吗？",
+         "ja": "だから、君はいつも傷だらけなのかな……",
+         "ko": "그래서 늘 온몸에 상처가 가득했던 거구나?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Yeah... When bad luck hits me...",
+         "zh-TW": "倒楣的時候就是這樣的……",
+         "zh-CN": "碰到倒霉的时候就是这样的……",
+         "ja": "運が悪いときは、そんなもんだよぉ～。",
+         "ko": "재수 없는 일이 생기면 그렇죠..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "But thanks to all these experiences, I've learned quite a few emergency treatment skills.",
+         "zh-TW": "託這些經歷的福，我還學會了不少緊急救治手段。",
+         "zh-CN": "托这些经历的福，我还学会了不少应急救治手段。",
+         "ja": "おかげで、応急処置とかいろいろ覚えられたし。",
+         "ko": "그래도 그런 일을 많이 겪은 덕분에 응급 치료 방법도 많이 배웠어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Estella",
+         "zh-TW": "埃特拉",
+         "zh-CN": "埃特拉",
+         "ja": "エステーラ",
+         "ko": "에스텔라"
+        },
+        "text": {
+         "en": "Even Fluorite didn't believe me at first, but now she comes to me right away.",
+         "zh-TW": "螢石一開始還不相信，現在也會第一時間來找我了。",
+         "zh-CN": "萤石一开始还不相信，现在也会第一时间来找我了。",
+         "ja": "フローライト、最初ぜ～んぜん信じてなかったけど、今は真っ先にあたしのとこ来るんだよねぇ。",
+         "ko": "플루라이트 씨도 처음엔 저를 안 믿으시더니, 지금은 제일 먼저 저를 찾아와요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Being this unlucky all the time must be rough...",
+      "zh-TW": "一直這樣「霉運纏身」很辛苦吧……",
+      "zh-CN": "一直这样“霉运缠身”很辛苦吧……",
+      "ja": "ずっと「運が悪い」のは、大変じゃないかな……",
+      "ko": "계속 그렇게 '불운이 따라다니면' 힘들지 않아?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Eh, it's fine.",
+      "zh-TW": "還好啦，沒什麼大不了的。",
+      "zh-CN": "还好啦，没什么大不了的。",
+      "ja": "う～ん、そうでもないかも。",
+      "ko": "괜찮아요, 별일 아니에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "I figure luck balances itself. Bad now, good later. Good luck will come eventually.",
+      "zh-TW": "況且，在我看來，運氣這東西總是守恆的。我只是多遇到了一些霉運，之後一定會有好運在等著我。",
+      "zh-CN": "况且，在我看来，运气这东西总是守恒的。我只是多遇到了一些霉运，之后肯定会有好运在等着我。",
+      "ja": "運って、最後にはバランス取れるんだって……今ちょっと運悪めだとしても、あとでいいことあるかもだし。",
+      "ko": "그리고 제 생각에는, 운에도 질량보존의 법칙이 있어요. 제가 그냥 불운을 조금 더 많이 겪었을 뿐이고, 나중에는 분명 행운이 찾아올 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "I met Z7, joined Endfield, and met you, isn't that proof?",
+      "zh-TW": "我遇到了Z7小隊、加入了終末地，還認識了管理員，不是印證了這一點嗎？",
+      "zh-CN": "我遇到了Z7小队，加入了终末地，还认识了管理员，不是印证了这一点吗？",
+      "ja": "あたし、Z7に出会って、エンドフィールドに入れて、管理人とも出会えた……これって、そのショーコだよねぇ。",
+      "ko": "Z7 팀을 만나고 엔드필드에 합류하고, 그리고 관리자님도 만났잖아요. 이걸로 다 증명된 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You're right. Meeting you is also our luck.",
+      "zh-TW": "你說得對，這對我們來說同樣是幸運。",
+      "zh-CN": "你说得对，这对我们来说同样是幸运。",
+      "ja": "そうだね。それに、エンドフィールドにとっても運が良かったと思うよ。",
+      "ko": "맞아, 그리고 그건 우리한테도 행운인 셈이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "...",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "But ... does that mean my misfortune might fall on you guys as well...?",
+      "zh-TW": "不過……這樣的話，說明也會有不幸降臨到你們身上吧……",
+      "zh-CN": "不过……这样的话，说明也会有不幸降临到你们身上吧……",
+      "ja": "でもさ、それじゃ……不幸が管理人たちにも降りかかってるのかも……？",
+      "ko": "근데... 그렇게 되면, 관리자님이랑 다른 사람들한테 불행이 찾아올 수 있다는 뜻이겠죠..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Together, we can bear what's hard for one. That way, misfortune won't hit as hard anymore.",
+         "zh-TW": "所以，我們可以一起分擔那些不幸。那對於一個人來說很難承受，但大家一起的話，一切問題都會順利解決，不會再有那麼多不幸。",
+         "zh-CN": "所以，我们可以一起分担那些不幸。那对于一个人来说很难承受，但大家一起的话，一切问题都会顺利解决，不会再有那么多不幸。",
+         "ja": "もし、運が悪いことがあったとしても、皆で分け合えばいい。1人ではできないことも、皆がいれば乗り越えられるはずだ。",
+         "ko": "그러니까 불행은 다 같이 나누면 돼. 혼자서는 감당하기 힘든 일도, 모두 함께라면 다 순조롭게 해결될 거야. 그때가 되면, 더 이상 그렇게 많은 불행도 없을 거고."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Our goal is to make sure misfortune doesn't cause so much harm. Things will get better, and bad luck won't weigh us down as much. Like you said, luck will come eventually.",
+         "zh-TW": "我們的目標，就是讓那些不幸不再造成那麼多傷害。接下來一切都會變得更好，不會再有那麼多「霉運」纏身。",
+         "zh-CN": "我们的目标，就是让那些不幸不再造成那么多伤害。接下来一切都会变得更好，不会再有那么多“霉运”缠身。",
+         "ja": "もし不幸に見舞われたとしても、それ以上悪くならないようにするのがエンドフィールドの目的だ。きっと、これからは「運」なんて関係なく、良くなっていくはずだよ。",
+         "ko": "우리의 목표는, 그 불행으로 인해서 큰 피해가 생기는 걸 막는 거야. 앞으로 모든 게 더 나아질 거고, 그렇게 많은 '불운'에 시달리는 일도 없을 거야."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "...",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Uh ... does that mean there'll be less luck too?",
+      "zh-TW": "這樣的話，幸運是不是也會相對變少了？",
+      "zh-CN": "这样的话，幸运是不是也会相应变少了？",
+      "ja": "それって、「幸運」も減っちゃわない……？",
+      "ko": "그럼, 행운도 줄어드는 건 아닐까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Uh...",
+      "zh-TW": "這個……",
+      "zh-CN": "这个……",
+      "ja": "それは……",
+      "ko": "그건..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Just kidding. It's okay if I'm not that lucky.",
+      "zh-TW": "開玩笑啦，不過……不怎麼幸運也沒關係。",
+      "zh-CN": "说笑的，不过……不怎么幸运也没关系。",
+      "ja": "ふへへ、じょ～だん。でも……そんなに「幸運」じゃなくってもいい……",
+      "ko": "농담이에요. 근데... 행운은 좀 줄어들어도 괜찮아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Estella",
+      "zh-TW": "埃特拉",
+      "zh-CN": "埃特拉",
+      "ja": "エステーラ",
+      "ko": "에스텔라"
+     },
+     "text": {
+      "en": "Because I've already gotten the greatest luck long ago.",
+      "zh-TW": "因為最大的幸運，我早就得到了。",
+      "zh-CN": "因为最大的幸运，我早就得到了。",
+      "ja": "だって、一番の「幸運」はもうここにあるんだもんね？",
+      "ko": "가장 큰 행운은 이미 얻었으니까요."
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 1
+}

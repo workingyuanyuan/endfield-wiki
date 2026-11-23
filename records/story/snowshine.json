@@ -1,0 +1,3037 @@
+{
+ "slug": "snowshine",
+ "gameId": "chr_0014_aurora",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Snowshine \nGENDER: Female \nAUTHENTICATION: Rhodes Island \nDOB: December 19 \nRACE: Ursus \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Excellent \nCOMBAT SKILL: Normal \nTACTICAL ACUMEN: Standard \nORIGINIUM ARTS ASSIMILATION: Standard \n\nSince Miss Snowshine conducts her search and rescue (SAR) operations in Blighted environments, the Medical Division advises including relevant checks in her regular health examinations to avoid unexpected issues.",
+    "zh-TW": "【代號】晝雪\n【性別】女\n【身分認證】羅德島\n【生日】12月19日\n【種族】烏薩斯\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：優良\n作戰技巧：普通\n戰術規劃：標準\n源石技藝適應性：標準\n\n鑑於晝雪小姐需長期在侵蝕環境下進行救援活動，醫療部門建議在她的定期體檢中增加相關方面的檢查，以避免意外狀況發生。",
+    "zh-CN": "【代号】昼雪\n【性别】女\n【身份认证】罗德岛\n【生日】12月19日\n【种族】乌萨斯\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：优良\n作战技巧：普通\n战术规划：标准\n源石技艺适应性：标准\n\n鉴于昼雪小姐需长期在侵蚀环境下进行救援活动，医疗部门建议在她的定期体检中增加相关方面的检测，以避免意外情况的发生。",
+    "ja": "【コードネーム】スノーシャイン\n【性別】女\n【身分証明】ロドス・アイランド\n【誕生日】12月19日\n【種族】ウルサス\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：優秀\n戦闘技術：普通\n戦術立案：標準\nアーツ適性：標準\n\n長期にわたり侵蝕環境下で救援活動を行っていることを踏まえ、予期せぬ状況を避けるため、医療部には定期健診時に関連検査の追加を推奨。",
+    "ko": "[코드네임] 스노우샤인\n[성별] 여\n[신분 인증] 로도스 아일랜드\n[생일] 12월 19일\n[종족] 우르수스\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 우수\n작전 기술: 보통\n전술 계획: 표준\n오리지늄 아츠 적응성: 표준\n\n스노우샤인 씨는 오랜 기간 침식 환경에서 구조 활동을 수행해야 하므로, 의료 부서는 정기 검진 시 해당 분야에 대한 추가 검사를 실시해 예기치 못한 상황을 미연에 방지할 것을 권고한다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Snowshine works for Rhodes Island. As a SAR professional, she has engaged in multiple search and rescue (SAR) missions jointly carried out by Rhodes Island and Endfield Industries, resolving a range of complex issues in the process. Snowshine now serves as Endfield Industries' SAR liaison. \n\nOperator Snowshine has, in multiple occasions, demonstrated her extensive experiences in conducting SAR operations in the north. She has proved the value of her survival skills and her ability to quickly respond to various contingencies. \nSnowshine enthusiastically recounted her successful SAR mission rescuing the Oathkeepers and polar caravans, highlighting her careful planning, precise execution, and strategic decisions in overcoming natural hazards. Snowshine's engineering background gives her vital technical expertise that has been key in her SAR missions. The operator is extremely passionate and dedicated to her work. Her deep experience in both engineering and SAR operations makes her a valuable asset to Endfield. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員晝雪，隸屬於羅德島。在羅德島與終末地工業合力進行的多次救援行動中，以救援專家的身分解決難題，現以此身分派駐終末地工業開展合作。\n\n無論是幹員晝雪的生存能力還是她在危機時刻的應變能力，都不止一次地向我們證明了她在北方的救援經歷是何等的可貴。\n她曾向我繪聲繪影地介紹了她是如何在極端環境下救出那些鐵誓軍與極地商旅的，包括如何規劃並實施有效的救援行動，以及在危險的自然環境中如何選擇應對策略。她的工程學背景為她提供了強大的技術支援，使她能夠在救援行動中發揮非常重要的作用。幹員晝雪對待工作充滿熱情和責任感。她在工程學和救援工作上的豐富經驗和深刻理解，將為終末地帶來寶貴的價值。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员昼雪，隶属于罗德岛。在罗德岛与终末地工业合力进行的多次救援行动中，以救援专家的身份解决难题，现以此身份派驻终末地工业开展合作。\n\n无论是干员昼雪的生存能力还是她在危机时刻的应变能力，都不止一次地向我们表明了她在北方的救援经历是何等的可贵。\n她曾向我绘声绘色地介绍了她是如何在极端环境下救出那些铁誓军与极地商旅的，包括如何规划并实施有效的救援行动，以及在危险的自然环境中如何选择应对策略。她的工程学背景为她提供了强大的技术支持，使她能够在救援行动中发挥相当关键的作用。干员昼雪对待工作充满热情和责任感。她在工程学和救援工作上的丰富经验和深刻理解，将为终末地带来宝贵的价值。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "スノーシャインはロドスに所属している。ロドスとエンドフィールドが共同で実施した複数回の救援活動において、専門家として問題の解決に尽力してきた。今はこの肩書きのもとエンドフィールドに駐在し、業務協力を行っている。\n\n「スノーシャインの高い生存能力と危機的状況下における柔軟な対応力は、北部で培った救援経験の重要性を幾度となく証明してくれました。」\n「スノーシャインは、極限環境下で鉄誓軍や旅の商人を助けた経験について、いきいきと説明をしてくれました。その中で、有効な救援活動の計画と実施、危険な自然環境下での対処法についても具体的に説明があったのです。彼女の工学知識に裏打ちされた高い技術力は、救援活動においても非常に重要な役割を果たしています。スノーシャインは業務に対して情熱と責任感を持ち、工学と救援における豊富な経験と深い理解を備えています。エンドフィールドにとって大きな価値をもたらしてくれるでしょう。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 스노우샤인, 로도스 아일랜드 소속이다. 로도스 아일랜드와 엔드필드 공업이 공동으로 진행한 여러 차례의 구조 활동에서 구조 전문가로서 문제들을 해결했고, 현재 같은 자격으로 엔드필드 공업에 배치되어 협력을 이어가고 있다.\n\n스노우샤인의 생존 능력과 위기 대처 능력, 이 두 가지는 그녀가 북쪽에서 쌓은 구조 경험이 얼마나 소중한지를 우리에게 여러 차례 보여주었다.\n그녀는 나에게 극한 환경에서 철의 서약군과 극지 상단을 어떻게 구조했는지, 효과적인 구조 작전을 어떻게 계획하고 실행했는지, 위험한 자연환경에서 어떤 대응 전략을 선택하는지에 대해 생생하게 설명해 주었다. 그녀의 공학 지식은 강력한 기술적 뒷받침이 되어, 구조 작전에서 핵심적인 역할을 수행할 수 있게 했다. 오퍼레이터 스노우샤인은 일에 대한 열정과 책임감으로 가득 차 있다. 공학과 구조 작업에 대한 그녀의 풍부한 경험과 깊은 이해는 엔드필드에 귀중한 자산이 될 것이다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "After joining Endfield, it only took a few months for Miss Snowshine to give many operators a friendly and warm impression. \nSnowshine often helps others in her spare time, usually with simple errands and deliveries. Though they may seem small, these tasks often prove to be real lifesavers, making people truly grateful to have Snowshine around. \n\"...That bottle of vinegar Miss Snowshine delivered was just in time. My sweet and sour meat would have been ruined without it!\" reported the canteen chef. \nMiss Snowshine also spared no effort trying to popularize SAR knowledge and polar survival skills, and often gave everyone proper demonstrations — these include crucial first-aid procedures as well as quick turn techniques for snowboarding. \n\"BY TALOS...! How did she do that? The last time I saw such a beautiful turn was ... during the finals of the Band Snowboard Championships! She's a guaranteed medalist if she ever attends, I'll bet my money on this!\" said an anonymous operator after watching Snowshine's demonstration. \nMiss Yvonne from the Specialist Tech Division also has plenty of good things to say about Snowshine: \n\"Oh ho! This is the first time I've met someone capable of using ice-making Arts Units with such expertise! Alrighty! I hope Snowshine can test more of my ice makers! She'll shave at least ten days off my testing phase!\" \nHowever, canteen staff responsible for stocking the shelves would post warnings when Snowshine returns to Dijiang. Extra attention must be given to prevent the \"dessert bar from being left with only the labels\".",
+    "zh-TW": "在加入終末地後，僅僅幾個月的時間，晝雪小姐就給帝江號的很多幹員留下了非常親切的印象。\n她經常在空閒的時候幫助其他人，有時是幫忙跑個腿，有時則是替人傳訊。儘管大部分是一些小事，但有時候卻是能讓人鬆一口氣的「雪中送炭」。\n「……要不是晝雪小姐及時送來那瓶陳醋，不然我這道糖醋獸肉就出不了鍋了！」來自餐廳後廚的報告。\n同時，在科普救援知識與教授雪地生存技巧方面，晝雪小姐更是不遺餘力，經常親自向大家演示——無論是急救時的重要步驟，還是雪地滑行時快速過彎的技巧。\n「天啊……她到底是怎麼做到的！我上次看到這麼漂亮的過彎……還是在環帶滑雪大賽的總決賽上！」我打賭，要是她去參賽，至少能拿前三名回來！」某位沒有透露姓名的幹員曾在觀看了晝雪小姐的演示後這麼說。\n而特種技術部門的伊馮小姐更是對她讚不絕口：\n「哇！我還是第一次遇到能有人這麼熟練地使用這套製冰施術單元！來來來！再幫我多試用幾套吧！至少能省掉十天的測試時間喔！」\n但餐廳負責現場補貨的幹員總會在晝雪小姐駐留帝江號時嚴陣以待，以免「甜點區好像只剩下了甜點名標籤」的報告反覆出現。",
+    "zh-CN": "在加入终末地后，仅仅几个月的时间，昼雪小姐就给帝江号的很多干员留下了非常亲切的印象。\n她经常在空闲的时候给其他人帮忙，有时是帮忙跑个腿，有时则是替人传个信。尽管大多是些小事，可有时候却是能让人长松一口气的“雪中送炭”。\n“……要不是昼雪小姐及时送来那瓶陈醋，我这道糖醋兽肉可就出不了锅了！”来自食堂后厨的报告。\n同时，在科普救援知识与教授雪地生存技巧方面，昼雪小姐更是不遗余力，经常亲自向大家演示——无论是急救时的关键步骤，还是雪地滑行时快速过弯的技巧。\n“天啊……她到底是怎么做到的！我上次看到这么漂亮的过弯……还是在环带滑雪大赛的总决赛上！我打赌，要是她去参赛，至少能拿前三名回来！”某位没有透露姓名的干员曾在观看了昼雪小姐的演示后这么说。\n而特种技术部门的伊冯小姐更是对她赞不绝口：\n“哇！我还是第一次遇到能有人这么熟练地使用这套制冰施术单元！来来！再帮我多试用几套吧！至少能省掉十天的测试时间喔！”\n但食堂负责现场补货的干员总会在昼雪小姐驻留帝江号时严阵以待，以免“甜品区好像只剩下了甜品名标签”的报告反复出现。",
+    "ja": "エンドフィールドに加入してまだ数カ月しか経っていないにもかかわらず、スノーシャインに「親切な人」という印象を抱く帝江号のオペレーターは多い。\n彼女は時間に余裕があれば、誰かの代わりに物を届けたり、伝言を伝えたりしている。些細なことかもしれないが、痒い所に手が届くような、そんな心地よさがある。\n「……スノーシャインさんが届けてくれた黒酢がなかったら、この獣肉の辛煮は酸味が足りなくて、駄目になってただろうな。」――厨房からは、そんな報告の声が上がった。\n一方、彼女は救援活動の知識や雪原でのサバイバル技術を教えるときも手を抜かない。救急時の大事な手順だけではなく、雪原を高速で滑走するときのコーナリングのコツまで、いつも体を張って実演してくれる。\n「ほんとにすごい……一体どうなってるの？こんな見事なコーナリング、最後に見たのは……そう、文明地帯スキー大会の決勝戦よ！賭けてもいいわ。もしスノーシャインさんが試合に出たら、絶対に上位3位には入るはず！」――スノーシャインの実演を見たあと、とある匿名希望のオペレーターは熱く語った。\n特殊技術部のイヴォンヌはさらにスノーシャインを絶賛していた。\n「てか、この製氷アーツユニットをココまでバッチリ使いこなしてる人、初めて見たかも。ほら、早く！もっとやってみてよー！テスト時間、ゼッタイ10日は節約できると思うんだよね！」\nちなみに、食堂の在庫補充を担当するオペレーターは、スノーシャインが帝江号にいる間は「デザートコーナーにプレートしか残っていない」というクレームを何度も受けることがないよう、いつも待ち構えている。",
+    "ko": "스노우샤인 씨는 엔드필드에 합류한 지 몇 달만에, 제강호의 많은 오퍼레이터들에게 매우 친근한 인상을 남겼다.\n그녀는 평소에 시간이 날 때마다 다른 사람들을 도와 심부름도 하고 소식을 전달해 주기도 했다. 대부분 사소한 일들이었지만, 때로는 한시름 덜게 해주는 '가뭄의 단비' 같은 존재가 되기도 했다.\n\"...스노우샤인 씨가 식초를 제때 가져다주지 않았다면 이 탕수 고기를 못 만들 뻔했어요!\"\n식당 주방팀 보고\n\n또한 스노우샤인 씨는 구조 지식을 알리고 설원 생존 기술을 가르치는 일에도 매우 열정적인 모습을 보여주었습니다. 응급 처치의 핵심 단계부터 눈 위에서의 빠른 코너링 기술에 이르기까지, 자주 직접 시범을 보여주기도 했다.\n\"세상에... 도대체 어떻게 저게 가능하죠! 저렇게 멋진 코너링을 마지막으로 본 건... 밴드 스노보드 대회 결승전이었어요! 장담하는데, 스노우샤인 씨가 참가하면 최소한 3위 안에는 들 거예요!\"\n익명을 요청한 한 오퍼레이터\n\n특수 기술부의 이본 씨도 역시 그녀에 대해 극찬을 아끼지 않았다.\n\"와! 나 이 제빙 아츠 유닛을 이렇게까지 능숙하게 쓰는 사람 처음 봤어!\n자자, 다른 것도 한번 써봐! 최소 열흘은 테스트 시간을 줄일 수 있겠어!\"\n\n다만, 식당 보급 담당 오퍼레이터들만큼은 스노우샤인이 제강호에 머무는 동안 늘 경계 태세를 유지한다.\n'디저트 코너에 이름표만 덩그러니 남아있는 것 같다'는 보고가 반복되지 않게 하기 위해서다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "What do I think of the north? Worst place ever ... I swear! I seriously messed up agreeing to join Rooter on his hunt for that mysterious Sami vendor out in the middle of nowhere! We went over the first snowpeak and were barely two days into the north when some Blighted snowstorm \"caught\" us at the foot of the mountains! \nI will never forget the sight of an entire burdenbeast being swooshed away by the Blight-tainted snow. The only thing on my mind was: \"Blasted blightery! I'm gonna die here...\" \nBut I guess I saved up enough luck for the past decade or so! The snowstorm was just meters away from us when an Ursus girl swooped in from the skies — I kid you not! She flew in on a snowboard, pulled off a perfect landing next to us, slammed a shield on the ground, and suddenly a wall of ice appeared with a WOOSH! That wall kept the snowstorm away! \nAnyway, she saved both Rooter and me. She escorted us into a cave that she called our temporary shelter. \nAnd there were all sorts of people there... Oathkeepers, Seš'qa caravan drivers, and even Landbreakers! \nI still remember how we just walked in and some tall and mean-looking Feline started pointing his finger at us, \"These two! They're frauds plotting to bring their swindling ways to Sami! I heard all about their dirty plots along the way. Why are you saving these lowlives? Don't let them cheat you!\" It was only then when I suddenly recognized the Feline. He was the guide who traveled with us a few days back... I had wondered why he suddenly returned the commission and refused to guide us any longer... \nAnyway, I thought we were finished but the Ursus lass who brought us in said nothing. She gave the Feline a glance and the big mean kittyboy ... just sat down and said nothing else. \nI wanted to thank her personally back then, but she soon rushed out to carry on with her SAR. I couldn't even get her name. Another SAR team soon arrived and brought us to safety. \nBut I recognized the badges and markings on her outfit. They were the same as the illustrations in the shelter. \nWhat happened next...? Well, I found your place. That's what happened. Hah! Just take these supplies. My token of gratitude to that Ursus lass! \n— Recordings from a donor of the Northern Corridor Rescue Union",
+    "zh-TW": "你問我對北方的印象？那真是糟透了……我發誓，當初答應和魯特一起去找根本不知道在哪的什麼薩米商人就是一個錯誤！我們才剛到那裡沒兩天，剛越過第一座雪山，就在山腳下被一場侵蝕雪暴「逮住」了！\n我這輩子都忘不了那沾了侵蝕的雪唰的一下把馱獸捲飛的畫面。當時腦袋裡就剩一個念頭：「完了，我真的是要死在這了……」\n誰知道是不是我前十幾年沒用到的好運氣都留在這一次，就在那雪暴離我們不到幾公尺距離的時候，一個烏薩斯女孩突然從天而降——對，我沒說錯，她就是踩著一個滑雪板飛過來的，落在我們旁邊二話不說，拿著個大盾往地上一砸！也是唰的一下，就弄出了個大冰牆！把那雪暴全部擋在外面了！\n總之，我和魯特就這樣被她救了下來，送到了一個山洞裡，說是什麼臨時的避難所。\n那裡真是什麼人都有……什麼鐵誓軍軍人、塞什卡商旅，甚至還有裂地者！\n我到現在還記得，我們才剛進去就被一個看起來凶神惡煞的高個子菲林指著鼻子罵：「這就是兩個打算去薩米招搖撞騙的奸商！我在路上就聽到他們在密謀怎麼騙人。你們救援隊怎麼連這種貨色都救！別被騙了！」我這才認出來，這菲林是之前和我們同行過幾天的嚮導……難怪他突然就賠了我們傭金，不肯繼續當我們的嚮導了……\n我本來以為這下糟了，結果帶我們進來的烏薩斯女孩卻什麼都沒說，只是看了那菲林一眼，然後……然後那菲林就乖乖坐下，什麼都沒再說了。\n當時呢，我本來想親自謝謝她的，但她立刻又繼續出去救人了。我連她名字都沒問到，就被後來的救援隊帶去了另一處安全地帶。\n不過我記住了她衣服上的標誌，和那個避難所裡畫的一樣。\n然後……然後我不就找到你們這裡了嗎？哈哈，這些物資就當是給那位烏薩斯女孩的謝禮吧！\n——北方走廊救助聯合會的一位捐贈者的來訪錄音紀錄",
+    "zh-CN": "你问我对北方的印象？那真是糟透了……我发誓，当初答应和鲁特一块儿去找根本不知道在哪儿的什么萨米商人就是一个错误！我们才进到那里没两天，刚越过第一座雪山，就在山脚下被一场侵蚀雪暴给“逮住”了！\n我这辈子都忘不了那沾了侵蚀的雪唰的一下把驮兽卷飞的画面。当时脑子里就剩一个念头：“完了，这下肯定得交待在这儿了……”\n谁知道是不是我前十几年没用上的好运气都留在这一遭了，就在那雪暴离我们只剩几米不到的时候，一个乌萨斯姑娘突然从天而降——对，我没说错，她就是踩着一个滑雪板飞过来的，落在我们旁边二话没说，拿着个大盾往地上一砸！也是唰的一下，就造出了个大冰墙！把那雪暴全挡在外面了！\n总之，我和鲁特就这么被她给救了下来，送到了一个山洞里，说是什么临时的避难所。\n那里真是什么人都有……什么铁誓军军人、塞什卡商旅，甚至还有裂地者！\n我到现在还记得，我们才刚进去就被一个看起来凶神恶煞的高个儿菲林指着鼻子骂：“这就是两个打算去萨米招摇撞骗的奸商！我在路上就听到他们在密谋怎么骗人。你们救援队怎么连这种货色都救！别被骗了！”我这才认出来，这菲林是之前和我们同行过几天的向导……难怪他突然就赔了我们佣金，不肯继续当我们的向导了……\n我本以为这下要糟，不曾想带我们进来的乌萨斯姑娘却什么都没说，只是看了那菲林一眼，然后……然后那菲林就乖乖坐下，什么都没再说了。\n当时呢，我本想亲自谢谢她的，但她立马又继续出去救人了。我连她名字都没问到，就被后来的救援队带去了另一处安全地带。\n不过我记住了她衣服上的标志，和那个避难所里画的一样。\n然后……然后我不就找到你们这儿了吗？哈哈，这些物资就当是给那位乌萨斯姑娘的谢礼吧！\n——北方走廊救助联合会的一位捐赠者的来访录音记录",
+    "ja": "北への印象？ああ、それはもう、最悪だったよ……あのとき、ルーターと約束なんかしなきゃよかったって、本当に思った。サーミの商人を探せなんて言われても、どこにいるかもわからない。そこに入って、2日も経ってなかったと思う。1つ目の雪山を越えたところで、侵蝕雪嵐に「捕まった」んだ。\nあの光景は、一生忘れられない。侵蝕された雪が、駄獣をふっと一瞬で吹き飛ばしたんだ。そのとき、俺の頭に浮かんだことは1つだ。「ああ、終わった。俺はここで死ぬんだ……」って。\nでも、数十年分の運を全部この一瞬に注ぎ込んだのか……雪嵐がほんの数メートル、もう目の前まで迫ってきたそのとき、空からウルサスの嬢ちゃんが1人、いきなり降ってきたんだ。いや、冗談なんかじゃない。スノーボードで飛んできたんだよ。俺らのすぐそばに降りてきて、無言のまま、でっかい盾を地面にガンって！そしたら一瞬でデカい氷の壁ができて、雪嵐も何もかも全部防いでくれたんだ！\nそのあと、俺とルーターは嬢ちゃんに助けられて、臨時避難所だって言われた洞窟まで連れてってもらった。\nそこには、鉄誓軍の兵士に、セシュカの旅商人、それからランドブレーカーまで……まぁ、いろんな人がいたよ。\n中に入ってすぐだったか……怖い顔をしたフェリーンの大男が、急に俺らを指差して怒鳴ってきたんだ。「こいつらはサーミで詐欺を働こうとしている悪徳商人です！途中、騙す方法をこそこそ話してるのを見ました！救援隊だからって、こんなやつまで助けなくていいでしょう！騙されないでください！」――そこでようやく思い出したよ。そのフェリーンは前に、何日か俺らと一緒にいたガイドだったんだ。どうりで、報酬はもういらないからガイドを辞める、なんて言い出したわけだ……\nやっちまった、って思った。でも、俺らを連れてきたウルサスの嬢ちゃんは、何も言わずにそのフェリーンをチラッと見て……そしたらそいつは黙って大人しく座っちまった。\nあのとき、ちゃんと「ありがとう」って伝えたかったんだよ。でも、嬢ちゃんは人を助けに行くってまたすぐ出て行っちまって、名前すら聞けなかった。そのあとは別の救援隊に案内されて、安全な場所に戻れたんだ。\n幸い、嬢ちゃんの服についてたマークは覚えてたんだよ。避難所にあったのと同じやつだ。\nそれで、まぁ……ここに来たってわけさ。へへっ、この物資は、あのウルサスの嬢ちゃんへの謝礼ってことで、頼むぜ！\n――北部回廊救助会寄付者の訪問音声記録",
+    "ko": "북쪽에 대한 인상? 아, 정말 끔찍했어...\n맹세컨대, 루터랑 같이 어디 있는지도 모르는 무슨 사미 상인을 찾으러 간다고 한 것부터가 실수였어!\n북쪽에 들어선 지 이틀도 안 돼서, 겨우 첫 번째 설산을 넘자마자, 산 아래에서 침식 눈보라에 딱 걸려버렸지!\n침식 눈보라가 휙 하고 버든비스트를 통째로 날려버린 그 광경은 평생 못 잊을 거 같아.\n그때 머릿속에 남은 건 단 하나뿐이었어. \"망했다, 이번엔 정말 여기서 죽겠구나...\"\n\n근데 그때! 내가 그동안 안 썼던 운을 여기에 다 몰아쓴 건지, 그 눈보라가 몇 미터도 채 안 남았을 때, 웬 우르수스 아가씨 하나가 갑자기 하늘에서 뚝 떨어지는 거야!\n농담이 아니라, 진짜로 스노보드를 타고 날아왔다니까!\n그리곤 우리 옆에 착 떨어지더니, 말도 없이 커다란 방패를 땅에 쿵 하고 박더니, 눈앞에 거대한 얼음벽이 짠 생겨서 그 눈보라를 전부 다 막아버렸어!\n아무튼, 나랑 루터는 그 아가씨 덕분에 목숨을 건졌고, 무슨 임시 대피소라는 동굴로 가게 됐어.\n거기 대피소에는 정말 별의별 사람들이 다 있었어. 철의 서약군의 군인, 세쉬카 상인, 심지어 랜드브레이커까지!\n그때 그 상황이 아직도 생생하게 기억나는데, 우리가 막 들어가자마자 덩치 크고 엄청 사납게 생긴 필라인이 우릴 가리키면서 \"저 둘이 사미한테 가서 한몫 챙기려던 사기꾼들이라고! 내가 오는 길에 둘이서 어떻게 사기 칠지 작당 모의하는 걸 똑똑히 들었어! 구조대는 왜 저런 쓰레기 같은 놈들까지 구하는 거야? 다들 조심하라고!\" 그제야 알아봤어. 그 필라인이 바로 며칠 전에 우리랑 동행했던 가이드였더라고... 어쩐지 갑자기 위약금까지 물어주면서 가이드를 못 하겠다고 하더니만...\n\n어쨌든 난 진짜 큰일 났다 싶었는데, 우리를 데려온 우르수스 아가씨는 아무 말도 안 하고, 그냥 그 필라인을 딱 쳐다보더라고... 그랬더니... 그랬더니 그 필라인이 깨갱하고 얌전히 자리에 앉아서는 아무 말도 안 하는 거야.\n내가 고맙다고 인사라도 하려고 했는데, 그 아가씨는 곧바로 또 사람을 구하러 나가버리더라고. 이름도 못 물어본 상태로, 나중에 온 다른 구조대를 따라 다른 안전지대로 가게 되었지.\n\n그래도 확실하게 기억나는 건 있어. 그 아가씨 옷에 있는 표식이 대피소 벽에 있는 표식이랑 똑같다는 걸.\n그렇게... 그렇게 이렇게 수소문해서 여기까지 찾아온 거 아니겠어?\n하하! 이 물자들은 그 우르수스 아가씨에게 전하는 고마움의 표시라고 쳐 주시게!\n- 북쪽 회랑 구조 연합회의 한 기부자의 방문 녹음 기록"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "DOCUMENT: A private letter \nEyrwin: \nMaybe I should call you Snowshine now. In any case, please forgive me for not saying goodbye when I left the team... That was never my intention. But my captain and my attending surgeon, Margarit, told me to leave the north immediately. They said it would prevent my hallucinations from getting worse. \nKjersch is a beautiful city. We don't see any auroras here but there are equally majestic mountains in snow. The ridges are untouched by the Blight or the Aggeloi, and are linked by criss-crossing cable tramways that the city is so famous for — I took quite a few rides in them, and the experience of gazing into the vast snowfields without worry is unforgettable... \nYou must have been surprised by my decision. Someone who had sworn to stay in the north and the SAR team for eternity ... was suddenly beaten by a most mundane and ordinary blizzard. What I want to say is that sometimes people are not as strong as they like to think. Perhaps I'm actually more fragile than I think I was. \nI never feared blizzards, the Blight, or any other disasters that could suddenly swoop in and take our lives. But when I saw Nelson lose a leg after getting sucked into the Blight while trying to save that unlucky prospector ... and after learning that Lisa lost her sight from overexerting her Originium Arts to give everyone an early warning... I started doubting myself. I began to think if I had fallen short ... and my suspicions soon spread to other members of the team... \nI have the captain to thank. I was about to use the Arts Unit when he stopped me and ordered Medical Officer Margarit to give Ryder the timely treatment he needed... He saved me from doing something I would've regretted for the rest of my life. Eyrwin, of all the young people on the team, I have the highest expectations for you. In fact, I believe you are the perfect candidate to succeed as deputy captain. You value friendship and care for others deeply, often to the point of neglecting your own safety. So take this as advice from someone who's been through it: never forget to look after yourself, especially when you're out there saving others. \nYou are important and irreplaceable to the SAR team and everyone who cares for you. \nI look forward to your reply. Feel free to let me play the host in your visit to Kjersch. And try to bring the captain along. I'll take you all to the best fondue in town. It tastes exactly like what you described to me. \n\nMadeleine Crick \n\nDOCUMENT: A private letter \nMadeleine: \nThank you for writing to me! \nEven now, I still remember your patience when you first taught me how to build an igloo shelter in the snowfields; your stern expression when you reminded me that every SAR teammate must maintain constant vigilance; and your tenderness when you helped me fix my drone at 4 AM, telling me to be more careful next time. These are precious memories I'll carry with me for the rest of my life... \nSo, I have never doubted your passion for SAR operations. Even though you have left the north, I believe you're still helping everyone at your new place in your own special ways. \nRyder and the captain refused to tell me what exactly happened on the mountain, but I could sort of guess from the operational logs... I don't think they, or anyone for that matter, would blame you for this. So I hope you can focus on getting better, and don't forget to explore the place when have time. Once I swing by Kjersch (captain seems pretty busy and I couldn't get hold of him) I'll definitely pay you a visit. And is that fondue place really as good as you say? I really wanna try it out! \nP.S. The pack that came with this letter is your favorite sundried berries. Eat them before they expire! \n\nEyrwin",
+    "zh-TW": "【一封私人信件】\n艾爾溫：\n現在或許該叫你「晝雪」？總之，原諒我離隊時沒來得及和你告別……這並非我的本意，但那時隊長和為我治療的瑪格麗特醫生都強烈建議我最好立刻離開北方，以免我的幻覺症狀進一步加重。\n耶爾什是個美麗的城市，儘管這裡看不到極光，但一樣有巍峨的雪山。山脈之間沒有侵蝕也沒有天使，只有印著城市標誌的空中纜車來往交錯——我坐過幾次，那種毫無顧慮地望著雪原發呆的體驗令人難忘……\n我想你一定會很意外。曾經入隊時發誓要留在北方且永遠走在救援路上的人，竟然會在那樣一場尋常的暴雪救援後退縮了……但我想說的是，有時候人或許真的沒有自己想像中那麼堅強，或者說比自己以為的更脆弱。\n我不曾畏懼過暴雪、侵蝕這些說不定什麼時候就帶走我們性命的災害。只是當目睹內爾森為了護住那個倒楣的探勘員而被捲入侵蝕最後失去了一條腿，當得知莉莎為了向所有人預警而超負荷使用她的源石技藝最終確診失明……我逐漸開始自我懷疑，懷疑自己是不是哪裡做得還不夠，最終開始質疑起了其他隊員……\n多虧了隊長，那時是他制止了我繼續拿起施術單元，讓瑪格麗特醫生及時替萊德做了治療……不然我一定會後悔一輩子吧。而艾爾溫，你作為隊裡我曾經最看好的後輩，甚至是我心中最適合的副隊長繼任者，其實是個比我更重視情誼、更容易因為顧及他人而忘了自己的人啊。所以，就當是過來人的勸誡吧，在救助他人的時候，也多在乎自己一點，保護好自己。\n因為你對我們、對那些關心著你的人，都一樣重要，都是最無可取代的。\n我期待你的回信，也隨時歡迎你來耶爾什做客，最好叫上隊長一起。到時我就帶你們去吃這裡味道最好的起司火鍋，它的味道和你跟我描述的簡直一模一樣。\n\n瑪德琳·克里克\n\n【一封私人信件】\n瑪德琳前輩：\n謝謝你寄給我這封信！\n直到現在，我都始終記得你第一次教我在雪地裡修建避難所時的耐心，記得你告誡我作為救援隊員必須保持警惕時的嚴肅，記得你半夜四點幫我修好了我那台無人機並讓我下次注意時的溫柔……這些都是我終生難忘的重要回憶。\n所以我從來沒有懷疑過前輩對救援行動的熱忱，也一直相信就算離開了北方，前輩也一定在用自己的方式在哪裡幫助著別人。\n那時山上的事，萊德和隊長他們雖然一直不肯多說，但我大概也從行動紀錄裡猜到了一些……我想無論是他們還是其他人，都不會責怪前輩的，所以希望你好好養病，有空的時候也別忘了到處走走。等到我什麼時候路過了耶爾什（隊長好像最近依然很忙，我都沒辦法聯絡到他），一定會來看望你的。對了，你說的那家起司火鍋真的那麼好吃嗎？好想吃一次看看！\n另，信件附上的包裹裡我放了你最喜歡的莓果果乾，記得在保存期限之前吃掉喔！\n\n艾爾溫",
+    "zh-CN": "【一封私人信件】\n艾尔温：\n现在或许该叫你“昼雪”？总之，原谅我离队时没能来得及和你告别……这并非我的本意，但那时队长和为我治疗的玛格丽特医生都强烈建议我最好立刻离开北方，以免我的幻觉症状进一步加重。\n耶尔什是个美丽的城市，尽管这里看不到极光，但一样有巍峨的雪山。山脉之间没有侵蚀也没有天使，只有印着城市标志的悬空缆车来往交错——我坐过几次，那种毫无顾虑地望着雪原发呆的体验令人难忘……\n我想你肯定会很意外。曾经入队时发誓要留在北方永远走在救援路上的人，竟然会在那么一场寻常的暴雪救援后退缩了……但我想说的是，有时候人或许真的没有自己想象中那么坚强，或者说比自己以为的更脆弱。\n我不曾畏惧过暴雪、侵蚀这些指不定什么时候就带走我们性命的灾害。只是当目睹内尔森为了护住那个倒霉的勘探员而被卷入侵蚀最后失去了一条腿，当得知莉莎为了给所有人预警而超负荷使用她的源石技艺最终确诊失明……我逐渐开始自我质疑，质疑自己是不是哪里做得还不够，最终开始质疑起了其他队员……\n多亏了队长，那时是他制止了我继续拿起施术单元，让玛格丽特医生及时替莱德进行了治疗……不然我一定会后悔一辈子吧。而艾尔温，你作为队里我曾经最看好的后辈，甚至是我心中最合适的副队长继任者，其实是个比我更重视情谊、更容易因为顾及他人而忘了自己的人啊。所以，就当是过来人的劝诫吧，在救助他人的时候，也多在乎一点自己，保护好自己。\n因为你对我们、对那些关心着你的人，都一样重要，都是最无可替代的。\n我期待你的回信，也随时欢迎你来耶尔什做客，最好拉上队长一起。到时我就带你们去吃这里味道最好的奶酪火锅，它的味道和你跟我描述的简直一模一样。\n\n玛德琳·克里克\n\n【一封私人信件】\n玛德琳前辈：\n谢谢你寄给我这封信！\n直到现在，我都始终记得你第一次教我在雪地里修建避难所时的耐心，记得你告诫我作为救援队员必须保持警惕时的严肃，记得你半夜四点帮我修好了我那台无人机并让我下次注意时的温柔……这些都是我终生难忘的重要回忆。\n所以我从来没有怀疑过前辈对救援行动的热忱，也一直相信就算离开了北方，前辈也一定在用自己的方式在哪里帮助着别人。\n那时山上的事，莱德和队长他们虽然一直不肯多说，但我大概也从行动记录里猜到了一些……我想无论是他们还是其他人，都不会责怪前辈的，所以希望你好好养病，有空的时候也别忘了到处走走。等到我什么时候路过了耶尔什（队长好像最近依然很忙，我都没能联系上他），肯定会来看望你的。对了，你说的那家奶酪火锅真的那么好吃吗？真想吃一次看看！\n另，信件附上的包裹里我放了你最喜欢的莓果果干，记得在保质期之前吃掉哦！\n\n艾尔温",
+    "ja": "【個人宛の手紙】\nアーウィンへ\n今は「スノーシャイン」と呼ぶべきかしら？救援隊を離れるとき、ちゃんと挨拶できなくてごめんなさい。本意ではなかったの……でもあのとき、隊長と治療担当のマルガリット先生から、幻覚症状がこれ以上悪化しないためにも、すぐに北部を離れるようにと言われて……\nイェルシェはとても綺麗な街よ。オーロラは見えないけれど、北部と同じように雪山があって、でも山の間には侵蝕もなければアンゲロスもいない。ただ、町のシンボルマークが描かれたケーブルカーだけが行き来している……何回か乗ったことがあるけど、何の心配ごともなく雪原を眺めてぼんやりしていられる、忘れられない時間になったのよ……\nアーウィンは、きっと驚くでしょうね。入隊のとき「永遠に北部に残って救援を続ける」って誓った私が、たった一度、しかもありふれた吹雪での救援でこんなふうになってしまうなんて……でもね、人はきっと思っているよりも強くない。むしろ、思っている以上にずっと弱いのかもしれない。\n私は、吹雪も侵蝕も、命を脅かすものであったとしても、怖いと思ったことはなかったの。けれど、ネルソンが他の調査員をかばって侵蝕に巻き込まれ、足を失ったとき。リーサがみんなに警告を出すために限界までアーツを使い続け、視力を失ったと知ったとき……少しずつ自分自身を疑い始めてしまったの。自分は間違っているんじゃないか、やれることがまだ他にあるんじゃないかって。そしていつの間にか、それは仲間たちへの疑念にも変わっていった……\nあのとき、私がアーツユニットを使い続けるのを隊長が止めてくれたこと。マルガリット先生が代わりにライダーを治療してくれたこと。今では本当によかったと思ってる……そうじゃなかったら、きっと一生後悔を抱えたまま生きていただろうから。アーウィン、あなたは私が最も期待していた後輩よ。副隊長の後任に相応しいとも思ってる。でも、私よりも情に厚くて、他人のためなら自分を忘れてしまう人でもある。だから、先輩としてこれだけは言わせてほしい――誰かを助けるときは、自分を大事にして。ちゃんと、自分のことも助けてあげて。\nあなたは、私たちにとっても、あなたを心配している皆にとっても、本当に大切でかけがえのない存在なんだから。\n返信を楽しみにしているわ。いつでもイェルシェに来てね。そのときは、隊長も呼んで。ここで一番美味しいチーズフォンデュをご馳走するわ。だって、あなたが教えてくれた味とまったく一緒だったのよ。\n\nマドレーヌ・クリック\n\n【個人宛の手紙】\nマドレーヌ先輩へ\nお手紙、ありがとう。\n最初に雪の中で避難所を作る方法を丁寧に教えてくれたときのこと、今でもちゃんと覚えてるよ。救援隊員として、ずっと警戒心を持たなくちゃいけないって厳しく教えてくれたことも……それから、朝の4時に私のドローンを修理してくれて、「次は気を付けてね」って優しく言ってくれたことも。全部、一生忘れられない大切な思い出なんだ。\nだから、先輩が救援活動にかけてた気持ちを疑ったことなんて、一回もないからね。北部じゃなくっても、先輩なりのやり方で誰かを助けてるんだって信じてるよ。\nあのとき山であったこと、ライダーさんも隊長もあまり話してくれなくて、少し行動記録を見ただけだけど……2人も、みんなも、先輩のことを責めたりなんてしてないよ。だから、ゆっくり身体を休めてね。時間ができたら、いろんなところを見て回るのもいいと思うな。あと、いつか私がイェルシェの方に行くときがあったら、絶対会いに行くね。（隊長は最近ずっと忙しそうで、連絡つかなかったんだけど……）あ、そうだ。先輩が言ってたチーズフォンデュ、そんなにおいしいの？一度でいいから、食べてみたいなぁ……\n手紙と一緒の荷物、先輩の大好きなベリーのドライフルーツを入れておいたよ。ちゃんと賞味期限の前に食べてね！\n\nアーウィン",
+    "ko": "[개인 편지]\n엘윈에게.\n지금은 스노우샤인이라고 불러야 할까?\n어쨌든... 팀에서 떠날 때 제대로 작별 인사조차 하지 못한 건 정말 미안하네.\n일부러 그랬던 건 아니야. 당시 팀장과 나를 치료하던 마거릿 선생님께서 내 환각 증세가 더 악화되기 전에 북쪽을 떠나야 한다고 강하게 권하셨거든.\n\n옐시는 참 아름다운 도시야. 비록 오로라는 볼 수 없지만, 똑같이 웅장한 설산이 둘러싸고 있어.\n산들 사이엔 침식도, 아겔로스도 없고, 도시 마크가 박힌 케이블카만 서로 오가고 있어.\n나도 몇 번 타봤는데, 아무 걱정 없이 설원을 멍하니 바라보던 그 경험은 정말 잊을 수가 없더라...\n\n너도 많이 놀랐을 거야. 북쪽에 남아 평생 구조 활동을 하겠다고 큰소리 뻥뻥 쳤던 사람이 그런 평범한 눈보라 구조 임무 한 번 겪고 바로 은퇴하게 될 줄이야...\n\n하지만 내가 말하고 싶은 건, 때로는 사람이 자신이 생각하는 것만큼 강하지 않을 수도 있다는 거야. 아니, 어쩌면 우리가 믿는 것보다 훨씬 더 약할지도 모르지.\n언제 우리 목숨을 앗아갈지 모르는 눈보라나 '침식' 같은 재난을 두려워한 적은 없었어\n다만, 넬슨이 그 운도 없는 탐사자를 보호하려다 침식에 휘말려 결국 한쪽 다리를 잃는 걸 목격했을 때, 리사가 모두에게 경고를 주기 위해 자신의 오리지늄 아츠를 과도하게 사용하다 결국 실명 판정을 받았을 때... 그 순간부터 나는 스스로를 의심하기 시작했어. '내가 어딘가 부족했던 건 아닐까' 하고 말이야. 결국엔 다른 대원들까지 의심하게 됐지....\n\n대장 덕분이었어. 그때 대장이 내가 계속 아츠 유닛을 사용하려는 걸 제지하고 마거릿 선생님이 제때 라이더를 치료할 수 있게 해줬거든. 그러지 않았다면, 난 평생 후회했을 거야. 그리고 엘윈, 내가 가장 기대하고 아꼈던 후배이자 내심 가장 완벽한 차기 부대장감으로 생각했던 너지만, 넌 나보다도 더 정을 중요하게 생각하고, 다른 사람을 챙기느라 정작 자신을 잊는 경향이 강한 사람이기도 해. 그러니, 이건 먼저 그 길을 걸어본 선배로서 하는 조언이라고 생각해줘. 다른 사람을 구할 때, 너 자신도 꼭 챙겨야 한다는 걸 절대 잊지 마.\n너는 우리에게도, 그리고 너를 아끼는 모든 사람에게도 똑같이 중요하고, 그 무엇으로도 대체할 수 없는 사람이니까.\n\n답장을 기다릴게. 시간 날 때, 언제든 옐시에 놀러 와. 가능하면 대장도 함께 데려오고! 여기서 제일 맛있는 치즈 퐁듀를 맛보게 해줄테니까. 네가 나한테 설명해줬던 그 맛이랑 정말 똑같더라.\n\n매그덜린 크릭\n\n[개인 편지]\n매그덜린 선배에게\n편지 보내줘서 정말 고마워요!\n저는 지금도 선배님이 처음 설원에서 대피소 짓는 법을 가르쳐주실 때 보여주셨던 인내심을 기억해요. 구조대원으로서 항상 경계심을 늦추면 안 된다고 충고해주시던 진지한 모습도요. 그리고 새벽 4시에 제 드론을 고쳐주시면서 다음부턴 조심하라고 말씀하시던 다정함도... 이 모든 게 제겐 평생 잊을 수 없는 소중한 추억이에요.\n그래서 전 한 번도 선배님의 구조 활동에 대한 열정을 의심해본 적 없어요. 그리고 북쪽을 떠나셨더라도, 선배님은 분명 어딘가에서 선배님만의 방식으로 다른 사람들을 돕고 계실 거라고 믿고 있고요.\n그때 산에서 있었던 일, 라이더와 대장은 계속 자세히 말씀은 안 해주셨지만, 저도 활동 기록을 보고 대충은 짐작하고 있어요... 제 생각엔 그분들이나 다른 누구도 선배님을 원망하지 않을 거예요. 그러니 부디 몸조리 잘하시고, 시간 날 때 산책도 꼭 하시고요.\n언젠가 제가 옐시 쪽으로 지나게 된다면 (대장님은 요즘도 계속 바쁘신지 연락이 잘 안 되네요), 꼭 찾아뵐게요. 아, 맞다! 말씀하셨던 그 치즈 퐁듀, 정말 그렇게 맛있어요? 진짜 한번 먹어보고 싶네요!\n추신: 편지에 같이 보낸 소포에 선배님이 제일 좋아하는 베리 과일 말린 거 넣어뒀어요. 유통기한 지나기 전에 꼭 챙겨 드세요!\n\n엘윈"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "LOG ID: 0000000 \nHoo... This message is for me (at some point in the future) and the person who could hear these logs. \nAfter leaving the Woods, she once said, \"Try recording special and unique moments in your life. It may help you anchor yourself in the world.\" \nTill now, I don't know if I really understood what she meant. And I'm unsure what type moment can be considered \"special and unique\"... So, I might as well record everything that I think is worth remembering. \n\nLOG ID: 0000001 \n...This is my first time leaving Rhodes Island and stepping on the land of Talos-II. It's more spacious and open than what the maps and panoramic holograms suggested... There are also plenty of things I have not yet seen in her memories. Although this place is quite different from Terra, the people and buildings feel distant yet familiar at the same time... It's so strange... \nBut if possible, I really want to see and experience the local snow... They say there are snowy mountains in the north and the central part of the Band. The north seems closer, so I guess I'll head over there first. \n\nLOG ID: 0000009 \n...Today I arrived at a snowcapped mountain in the north. I felt right at home in this polar landscape. Everything, including the hexagonal columnar snowflakes and the veil-like aurora, felt really familiar to me... Before I forget, I ran into a huge blizzard when I made my way down the mountain. Two Fortes dressed like messengers were almost trapped in a nearby Blight. I used my snowboard to pull one of them to safety. The other was saved by a fully armed Perro. We escorted them to a safe place in a timely fashion... I later learned that the Perro is a volunteer with the Northern Corridor Rescue Union. They are planning to establish a professional SAR team. That Perro also left me a business card when we said goodbye. He said I behaved with calmness and reason despite my lack of professional training, even choosing the best rescue measures possible. Then he asked if I'd be interested in joining his outfit... \nTruth be told, when I pulled that messenger to safety, I did feel ... a kind of ecstasy and joy I had never experienced before. It became a calling I couldn't ignore, and I even wanted to do more. \n\nLOG ID: 0000010 \nI thought about giving it a shot, so I called the Perro named Chris. I told him I want to be an SAR teammate. \nI am doing this for myself. The sunshine after the blizzard was also especially bright. I want to see that again.",
+    "zh-TW": "【紀錄編號0000000】\n……呼，給未來某個時刻的我與能夠聽到這份紀錄的人。\n在離開那片森林後，她曾說：「可以嘗試記錄一些你認為意義非凡的時刻，這或許有助於你錨定自身在這個世界的位置。」\n到現在我都不確定自己是不是真的理解了她的意思，也不知道究竟怎樣的時刻能算是「意義非凡」……所以乾脆就把我覺得值得記一下的事都記錄下來吧！\n\n【紀錄編號0000001】\n……這是我第一次離開羅德島，踏上塔衛二的土地。這裡好像比地圖和全像投影展示的景象更加廣闊一點呢……有很多即使在她的記憶裡也沒有看過的東西，雖然和泰拉都不太一樣了，但不知道為什麼，有時候看著這裡的人與建築，總有種陌生但好像又有一點熟悉的感覺……真奇妙啊……\n不過如果可以，果然還是想看看這裡的雪……聽說在北方和環帶中部都能看見雪山，好像北方離這裡更近一點，就先去那裡看看吧。\n\n【紀錄編號0000009】\n……今天抵達的地方是北方的一座雪山。這些極地的風景常常讓我覺得很親切，無論是那六稜柱狀的雪花，還是薄紗般的極光……對了，下山的時候遇到了一場大暴雪，有兩個信使打扮的豐蹄差點被捲進附近的侵蝕裡，我用滑雪板把其中一個拉了出來，另一個則被一名全副武裝的佩洛及時送到了安全位置……後來我才知道，那名佩洛是一位隸屬於「北方走廊救助聯合會」的救援義工，正在籌備一支專業的救援隊伍。和他告別時，他還留了一張名片給我，說是覺得我雖然沒經過專業訓練，在救援過程中卻非常冷靜沉穩，選擇了最恰當的救援手段，問我有沒有興趣加入他的隊伍……\n老實說，當我把那位信使救出來的時候，確實感受到了一種……從沒有過的喜悅，讓我覺得我應該這麼做，甚至該做得更多。\n\n【紀錄編號0000010】\n……我想試試看，於是聯絡了那位名叫「克里斯」的佩洛，跟他說我想成為一名救援隊員。\n為了再次看到那天暴雪過後格外晴朗的天空，也為了我自己。",
+    "zh-CN": "【记录编号0000000】\n……呼，给未来某个时刻的我与能够听到这份记录的人。\n在离开那片森林后，她曾说：“可以尝试记录一些你认为意义非凡的时刻，这或许有助于你锚定自身在这个世界的位置。”\n到现在我都不确定自己是不是真的理解了她的意思，也不知道究竟怎样的时刻能算是“意义非凡”……所以干脆就把我觉得值得记一下的事都记录下来吧！\n\n【记录编号0000001】\n……这是我第一次离开罗德岛，踏上塔卫二的土地。这里好像比地图与全息投影展示的景象更加广阔一些呢……有很多即使在她的记忆里也没有见过的东西，虽然和泰拉都不太一样了，但不知道为什么，有时候看着这里的人与建筑，总有种陌生但好像又有一些熟悉的感觉……真奇妙啊……\n不过如果可以，果然还是想看看这里的雪……听说在北方和环带中部都能看见雪山，好像北方离这里更近一点，就先去那里看看吧。\n\n【记录编号0000009】\n……今天抵达的地方是北方的一座雪山。这些极地的风景常常让我觉得特别亲切，无论是那六棱柱状的雪花，还是薄纱般的极光……对了，下山的时候遇到了一场大暴雪，有两个信使打扮的丰蹄差点被卷进附近的侵蚀里，我用滑雪板把其中一个拉了出来，另一个则被一名全副武装的佩洛及时送到了安全位置……后来我才知道，那名佩洛是一位隶属于“北方走廊救助联合会”的救援志愿者，正在筹备一支专门的救援队伍。和他告别时，他还给我留了一张名片，说是觉得我虽然没经过专业训练，在救援过程中却十分冷静沉稳，选择了最恰当的救援手段，问我有没有兴趣加入他的队伍……\n老实说，当我把那位信使救出来的时候，确实感受到了一种……从没有过的喜悦，让我觉得我应该这么做，甚至该做得更多。\n\n【记录编号0000010】\n……我想试试看，于是联系了那位名叫“克里斯”的佩洛，跟他说我想成为一名救援队员。\n为了再次见到那天暴雪过后格外晴朗的天空，也为了我自己。",
+    "ja": "【記録番号0000000】\n……ふぅ。未来の私と、それからこの記録を聞いてくれてる人へ。\nあの森林を出たあと、こう言われたんだ。「そなたにとって特別な時間を書き留めておくがよい。この世界で、そなたの居場所をつなぎとめてくれるかもしれぬからな。」\nうーん、今でもこの言葉の意味をちゃんと理解できてるのか、よくわからないんだ。どんな時間が「特別」なのかってことも……だから、残したいって思ったことを、とにかく全部記録してみるよ！\n\n【記録番号0000001】\n……ロドスを離れて、タロⅡに足を踏み入れるのはこれが初めて。地図やホログラムで見たときより、ずっと広く感じるかも……「私」の記憶の中にも無いようなものが、たくさんあって……そもそもテラとは違う場所なんだけどね。でも、どうしてかな？人や建物を見てると、知らないはずなのに、少しだけ、懐かしい感じがするんだ……ちょっと、不思議だなぁ……\nとにかく、まずはここの雪を見てみたいな……北部と文明地帯の中部なら、雪山が見れるって。北部のほうが近いみたいだから、先にそっちに行ってみようと思う。\n\n【記録番号0000009】\n……今日、北部の雪山に着いたよ。極地の風景……六角形の雪の結晶も、ヴェールみたいなオーロラも……全部、本当に懐かしいなぁ。あ、下山するときに、大吹雪に遭っちゃったんだけど……トランスポーターの格好をしたフォルテが2人、侵蝕に巻き込まれそうになってたの。1人をスノーボードで引っ張り上げて、もう1人は全身ごつごつの装備をしたペッローが安全な場所まで運んで行ってくれて……あとで知ったんだけど、そのペッローの人は「北部回廊救助会」っていうところに所属してる救援ボランティアだったみたい。今、専門の救援隊を作ろうとしてるらしくて、別れるときに名刺を1枚渡してくれたんだけど、「救援訓練を受けてないのに、君は落ち着いて最も的確な方法で救援を進めていた。もしご興味があれば……」って。\n正直に言うと、その……トランスポーターの方を助け出した瞬間……感じたことのないような、特別な気持ちになったんだ。私、きっとこれをするべきなんだって。もっとできるんだって。\n\n【記録番号0000010】\n……うん、やってみることにする。だから、「クリス」っていうペッローの人に連絡して、救援隊員になりたいって伝えたよ。\n吹雪のあとの澄み渡った空――あの日の景色を、もう一度見たいから。それに、私自身のために。",
+    "ko": "[기록 번호 0000000]\n...휴, 미래의 어느 순간에 이 기록을 듣게 될 나와, 또 다른 누군가에게.\n그 숲을 떠난 뒤, 그녀가 말했지. \"네가 특별한 의미가 있다고 생각하는 순간들을 기록해 봐. 그게 이 세상에서 네 자신의 위치를 확고히 하는 데 도움이 될지도 모르니까.\"\n지금까지도 난 그 말의 뜻을 제대로 이해한 건지 잘 모르겠어. 어떤 순간이 '특별한 의미가 있는' 순간인지도 모르겠고... 그래서 그냥 내가 기록할 가치가 있다고 느낀 건 전부 남기기로 했어!\n\n[기록 번호 0000001]\n...이번이 처음이야. 로도스 아일랜드를 떠나, 탈로스 II의 땅을 밟은 건.\n지도나 홀로그램에서 본 것보다 훨씬 더 넓게 느껴져... 그녀의 기억 속에도 본 적 없던 것들이 많아. 테라와는 많이 다르지만, 왜인지 모르게, 이곳의 사람들과 건물들을 보고 있으면 낯설면서도 어쩐지 익숙한 기분이 들어. 참 신기하지...\n그래도 이왕이면, 역시 여기에 내리는 눈을 보고 싶어. 북쪽이나 밴드 중심부에서 설산을 볼 수 있다는데, 북쪽이 여기서 좀 더 가깝다고 하니 먼저 거기부터 가봐야겠어.\n\n[기록 번호 0000009]...오늘 도착한 곳은 북쪽의 한 설산.\n육각 기둥 모양의 눈송이든, 베일처럼 펼쳐진 오로라든... 이런 극지의 풍경은 언제 봐도 나에게 익숙하고 편한 느낌을 줘.\n아, 맞다. 산에서 내려오다가 거센 눈보라를 만났는데, 전달자 복장을 한 포르테 두 명이 근처 침식에 휘말릴 뻔했어. 난 스노보드를 이용해서 한 명을 끌어냈고, 다른 한 명은 전신 무장한 페로가 제때 안전한 곳으로 옮겼어...\n나중에야 알았는데, 그 페로는 '북쪽 회랑 구조 연합회' 소속의 구조 봉사자이고 전용 구조대를 꾸리는 중이라고 했어. 헤어질 때 명함을 한 장 받았는데, 전문 훈련을 받지 않았는데도 아주 침착하게 가장 적절한 방법으로 구조했다면서, 혹시 자기 팀에 들어올 생각은 없는지 물어봤어...\n솔직히 말하자면, 그 전달자를 구조해 냈을 때, 정말... 한 번도 느껴본 적 없는 기쁨을 느꼈어. '난 이 일을 해야 한다. 아니, 더 많이 해야 한다.'라는 생각이 솟구쳤어.\n\n[기록 번호 0000010]\n....그래서 해보기로 했어.\n그래서 그날 명함을 줬던 '크리스'라는 페로에게 연락해서 구조대원이 되고 싶다고 말했어.\n그때 폭설이 지나간 후에 본, 유난히 맑았던 하늘을 다시 한번 보기 위해서. 그리고, 나 자신을 위해서."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0014_aurora_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Waiting for your orders, Endministrator.",
+    "zh-TW": "聽候你的指示，管理員。",
+    "zh-CN": "听候你的指示，管理员。",
+    "ja": "指示、待ってるよ。管理人。",
+    "ko": "지시에 따를게, 관리자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Endmin! You're here!",
+    "zh-TW": "管理員，你來啦！",
+    "zh-CN": "管理员，你来啦！",
+    "ja": "管理人、来たんだね。",
+    "ko": "관리자, 왔구나!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "A new field mission? I'm totally ready!",
+    "zh-TW": "是新的外勤任務嗎？我準備好啦！",
+    "zh-CN": "是新的外勤任务吗？我准备好啦！",
+    "ja": "新しい外勤任務だね。準備はできてるよ。",
+    "ko": "새로운 외근 임무야? 난 준비됐어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "I'll protect everyone!",
+    "zh-TW": "我會保護好大家的！",
+    "zh-CN": "我会保护好大家的！",
+    "ja": "私がみんなを守るよ！",
+    "ko": "내가 모두를 지킬 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Wonderful performance! And it's also usable in extreme environments!",
+    "zh-TW": "很棒的效能，能適應各種極端環境！",
+    "zh-CN": "很棒的性能，能适应各种极端环境！",
+    "ja": "すごく性能がいいね。どんな環境でも頼りになるはずだよ！",
+    "ko": "엄청 좋은걸? 어떤 극한의 환경에서도 쓸 수 있겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "The one who made this really gave it a lot of thought.",
+    "zh-TW": "這套裝備充滿了工匠的巧思呢。",
+    "zh-CN": "这套装备充满了工匠的巧思呢。",
+    "ja": "職人さんたちの素敵な工夫が、たくさん詰め込まれてるんだね。",
+    "ko": "장인이 엄청 세심하게 만든 장비 같아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "I've been exercising really hard! Gotta get ready for all sorts of emergencies, you know!",
+    "zh-TW": "我有在努力鍛鍊身體呢！為了應對各種突發狀況！",
+    "zh-CN": "我有在努力锻炼身体呢！为了应对各种突发情况！",
+    "ja": "どんなことが起きても大丈夫なように、ずっと鍛錬を頑張ってきたんだ！",
+    "ko": "나, 운동 진짜 열심히 하고 있다? 어떤 상황이 닥쳐도 바로 대응할 수 있어야 하니까!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "These records offer valuable references! They give me plenty of ideas for future SAR operations!",
+    "zh-TW": "這份紀錄也很有參考價值，很多思路都可以用在救援行動裡！",
+    "zh-CN": "这份记录也很有参考价值，很多思路都可以用在救援行动里！",
+    "ja": "この記録、すごく参考になったよ。救援活動にも使えそうだね。",
+    "ko": "참고할 만한 내용이 엄청 많네, 구조 작전에서 활용할 수 있겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Mmh! Hard work always pays off! I'll not let Endfield or anyone down!",
+    "zh-TW": "嗯，我會繼續努力的！一定不會辜負終末地和大家的信任！",
+    "zh-CN": "嗯，我会继续努力的！肯定不会辜负终末地和大家的信任！",
+    "ja": "うん。エンドフィールドとみんなの信頼を裏切らないように、これからも頑張るね。",
+    "ko": "응, 앞으로도 열심히 할게! 절대 엔드필드랑 모두의 믿음을 저버리지 않을 거야!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0014_aurora_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "This gives an extension to my operational range, right? Don't worry! Count on me for all your needs in emergency rescues, data sampling, logistics support, and all kinds of field work!",
+    "zh-TW": "接下來就能去更遠的地方完成任務了？放心吧，野外急救、數據採樣、後勤支援之類的工作都可以交給我喔！",
+    "zh-CN": "接下来就能去更远的地方完成任务了？放心吧，野外急救、数据采样、后勤支援之类的工作都可以交给我哦！",
+    "ja": "任務でもっと遠くまで行けるようになったんだよね？野外救急、データ収集、後方支援……安心して、なんでも任せて！",
+    "ko": "다음에는 더 멀리 가서 임무를 수행할 수 있겠네? 걱정하지 마. 야외 응급 구조, 데이터 수집, 후방 지원, 모두 나한테 맡겨줘!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0014_aurora_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "I upgraded all my SAR ice-making Arts Units this time, Endmin! Look! I just built a temporary igloo! Come on in for a sleepover!",
+    "zh-TW": "這一次我把救援用的製冰施術單元都升級了一下！管理員，這是我新蓋的臨時庇護所！要不要進來住一晚？",
+    "zh-CN": "这一次我把救援用的制冰施术单元都升级了一下！管理员，这是我新造的临时庇护所！要不要进来住一晚？",
+    "ja": "救援用の製氷アーツユニットを少し改良してみたんだ。それで、ここが新しく作った臨時避難所だよ。よかったら泊まってみる？",
+    "ko": "이번엔 구조용 냉기 아츠 유닛을 업그레이드했어! 이건 내가 만든 임시 대피소인데, 한번 써볼래? 어때?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0014_aurora_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "The time I spent with Endfield taught me many new things, and gave me many wonderful memories... Thanks for placing your faith in me, Endmin. From henceforth, I shall continue to climb ever higher peaks ... and to rescue as many people as I can.",
+    "zh-TW": "在終末地的這段時光，我學到了很多新知識，也收穫了很多美好回憶……這都多虧了你們的信任，管理員。今後，我也會繼續嘗試攀越更高的山峰，去幫助更多身處險境的人們。",
+    "zh-CN": "在终末地的这段时光，我学到了很多新知识，也收获了很多美好回忆……这都多亏了你们的信任，管理员。今后，我也会继续尝试攀越更高的山峰，去帮助更多身处险境的人们。",
+    "ja": "エンドフィールドで、新しい知識をたくさん学んで、素敵な思い出もいっぱいできて……管理人とみんなが信じてくれたおかげだね。これからも、もっと高い山に挑戦し続けるよ。助けを待ってる人たちの力になりたいから。",
+    "ko": "엔드필드에서 지내면서 진짜 많은 걸 배웠어, 그리고 좋은 추억도 많이 생겼고... 이건 다 모두가 날 믿어준 덕분이야. 앞으로도 계속 더 높은 산을 넘어서, 더 많은 위험에 처한 사람들을 도울 수 있도록 노력할게!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0014_aurora_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Greetings! I'm your operator from Rhodes Island. Codename's Snowshine. I'm a search and rescue expert specializing in low temperature operations. Get me on the team if you have a mission in the icefields or snowy mountains.",
+    "zh-TW": "你好，我是羅德島的特派幹員，代號晝雪，擅長極寒地帶的救援工作。如果有需要前往冰原或雪山的任務，請一定要帶上我！",
+    "zh-CN": "你好，我是罗德岛的特派干员，代号昼雪，擅长极寒地带的救援工作。如果有需要前往冰原或雪山的任务，请一定要带上我！",
+    "ja": "はじめまして。私はロドスの特派員で、コードネームはスノーシャイン。雪の中での救援活動ならまかせてほしいな。もし氷原や雪山に行く任務があったら、同行させてね。",
+    "ko": "안녕, 난 로도스 아일랜드 특별 파견 오퍼레이터, 스노우샤인이라고 해. 혹한 지역에서의 구조 작업이 내 전문이지. 설원이나 설산으로 가야 하는 임무가 있다면, 꼭 날 불러줘!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Wanna come snowboarding with me, Endmin?",
+    "zh-TW": "要來和我一起滑一段嗎，管理員？",
+    "zh-CN": "要来和我一起滑一段吗，管理员？",
+    "ja": "管理人。一緒にスキーをやってみる？",
+    "ko": "관리자! 나랑 같이 보드 타러 갈래?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Wind speed's okay. Visibility's good. Perfect weather for snowboarding.",
+    "zh-TW": "風速適中，能見度良好，是滑雪的好天氣。",
+    "zh-CN": "风速适中，能见度良好，是滑雪的好天气。",
+    "ja": "いい風に、視界も良好……絶好のスキー日和だね。",
+    "ko": "풍속도 적당하고, 시야도 양호하고... 보드 타기 딱 좋은 날씨네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Not a problem! I've actually tried every job at this place! And they're way simpler than putting up fortifications!",
+    "zh-TW": "沒問題！這裡的工作我都試過！比搭建工事輕鬆多了！",
+    "zh-CN": "没问题！这里的工作我都尝试过！比搭建工事轻松多了！",
+    "ja": "任せて！ここの仕事は全部やったことがあるんだ。建設の作業よりも、ずっと楽だしね。",
+    "ko": "좋아! 여기 일은 다 한 번씩 해봤거든! 텐트치는 것보다 훨씬 쉽다고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Greetings, Endmin.",
+    "zh-TW": "你好啊，管理員。",
+    "zh-CN": "你好啊，管理员。",
+    "ja": "こんにちは、管理人。",
+    "ko": "관리자, 안녕!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Need a hand, Endmin? I can be your defender!",
+    "zh-TW": "需要幫忙嗎，管理員？我可以當你的護衛。",
+    "zh-CN": "需要帮忙吗，管理员？我可以当你的护卫。",
+    "ja": "管理人、何か手伝うことはある？私が護衛しようか？",
+    "ko": "내가 뭐 좀 도와줄까? 경호도 해줄 수 있어!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0014_aurora_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "I learn tons of new stuff every time I step aboard Dijiang: There's tech and machinery that I've never seen before, special combat theories, bold monitoring plans... Oh, I can barely keep pace with everything! Endfield is just awesome! And I mean it!",
+    "zh-TW": "每次來帝江號都能學到很多新東西，有沒看過的技術設備、特別的作戰思路、大膽的監測方案……真的是數都數不過來！嗯，終末地果然好厲害！",
+    "zh-CN": "每次来帝江号都能学到很多新东西：没见过的技术设备，特别的作战思路，大胆的监测方案……真的是数都数不过来！嗯，终末地果然好厉害！",
+    "ja": "帝江号って、戻る度に新しい発見があるんだ。最先端の技術や設備、斬新な作戦、大胆な観測案……数え切れないくらい。うん、やっぱりエンドフィールドって本当にすごい場所だよね。",
+    "ko": "제강호에 올 때마다 새로운 걸 되게 많이 배워. 처음 보는 기술 설비랑 특별한 전략, 그리고 과감한 모니터링 계획까지... 다 셀 수 없을 정도라니까! 진짜... 엔드필드는 대단해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "What? The Dijiang canteen has an all-you-can-eat snackbar?! Ah, apologies. I was just a little surprised... No, of course not! I'm not going to eat everything! Honest!",
+    "zh-TW": "什麼？帝江號餐廳的點心是不限量供應的嗎？！啊，抱歉，我只是稍微有點吃驚……沒、沒打算一口氣全吃完的！真的！",
+    "zh-CN": "什么？帝江号食堂的点心是不限量供应的吗？！啊，抱歉，我只是稍微有些吃惊……没、没打算一口气全吃完的！真的！",
+    "ja": "え？帝江号の食堂ってお菓子食べ放題なの……？あ、ごめんね。ちょっとびっくりしちゃって……ぜ、全部食べるなんて思ってないから！本当だよ！",
+    "ko": "뭐?! 제강호의 식당에서는 디저트를 무제한으로 제공한다고?! 아, 미안... 조금 놀라서... 한, 한 번에 다 먹어 치울 생각은 아니었어! 진짜야!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0014_aurora_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Endmin! You came at just the right time! My package just arrived and I wonder if you're interested in trying out my special cheese fondue? The flavor...? I think it's quite ... special? Plenty of my colleagues told me it's an \"unforgettable experience of a lifetime\"...",
+    "zh-TW": "管理員你來得正好！我剛好收到了之前採購的食材，要不要來試試我親手做的起司火鍋啊？……嗯，口味應該算比較特別的吧？好多吃了的同事都說是種「終生難忘的味道」……",
+    "zh-CN": "管理员你来得正好！我刚好收到了之前采购的食材，要不要来试试我亲手做的奶酪火锅呀？……唔，口味应该算比较特别的吧？好多吃了的同事都说是种“终生难忘的味道”……",
+    "ja": "管理人、ちょうどよかった！材料が届いたから、手作りチーズフォンデュを食べてみない？えっと……味は特別かな？前にみんなが、「一生忘れられない味」って言ってたから……",
+    "ko": "관리자, 마침 잘 왔어! 전에 주문한 식재료를 방금 받았거든! 내가 직접 만든 치즈 퐁듀 먹어볼래? 음... 맛이 좀 특별할 지도 몰라, 먹어본 동료들이 모두 '평생 못 잊을 맛'이라고 했거든..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0014_aurora_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Hnnnggghh! Stretching will help limber up the joints. This routine can help prevent muscle tears and keep hypothermia at bay in polar environments. Wanna give it a go? Don't worry. I've been an assistant coach in the training sessions, so I can definitely get your posture right! — See? Easy, right?",
+    "zh-TW": "嘿咻！伸展四肢，活動關節。這套熱身運動不僅有助於預防拉傷，在極地環境下也能降低失溫風險喔，管理員，來一起試試吧？沒關係，我當過訓練課的助教，會幫你調整姿勢的！——你看，很簡單吧？",
+    "zh-CN": "嘿咻！伸展四肢，活动关节。这套热身运动不仅有助于预防拉伤，在极地环境下也能降低失温风险哦，管理员，来一起试试吧？没关系，我当过培训课的助教，会帮你调整姿势的！——你看，很简单吧？",
+    "ja": "よいしょっ……と。手足を伸ばして、関節を動かす。この運動は肉離れの予防にもなるし、極地環境では体温低下リスクも減らせるんだ。一緒に試してみる？大丈夫、訓練のアシスタントもやったことあるからさ。姿勢も直してあげる――ほら、簡単だよね？",
+    "ko": "으쌰! 팔과 다리를 쭉 펴고, 관절을 움직여서... 이렇게 스트레칭하면 근육 부상도 방지할 수 있고, 극지 환경에서 저체온증도 예방할 수 있어. 같이 해볼래? 걱정하지 마, 예전에 트레이닝 수업의 조교도 해봐서 자세 정도는 충분히 봐줄 수 있어! 어때, 진짜 쉽지?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0014_aurora_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "Lil' Dodge reminds me of our captain every time I see him. My captain's also a Perro. He's a really nice guy — but once an SAR mission begins, he turns into super bossy-boots. He even makes us do multiple caliber checks on the hot water drill bit... \"Every tiny detail matters in SAR!\" That's what I've learned from him.",
+    "zh-TW": "每次遇到小道奇教官，我就會想起我們的隊長。他也是個佩洛，雖然平常很好說話，但到了救援行動的時候，他總是要求最嚴格的那個，連熱水鑽頭的直徑都會反覆確認……「救援無小事」的道理就是他教給我的。",
+    "zh-CN": "每次遇到小道奇教官，我就会想起我们的队长。他也是个佩洛，虽然平时很好说话，但到了救援行动的时候，他总是要求最严格的那个，连热水钻头的直径都会反复确认……“救援无小事”的道理就是他教给我的。",
+    "ja": "ダッジ教官に会うと、隊長のことを思い出すんだ。隊長もペッローで、普段はすごく優しいのに……救援のときは誰よりも厳しくって。熱水ドリルの直径まで何回も確認して――「救援に妥協なし」その言葉も隊長が教えてくれたんだよ。",
+    "ko": "도치 교관님을 볼 때마다 우리 대장님이 생각나. 대장님도 페로거든. 평소엔 참 다정한 분인데, 구조 작전을 수행할 때면 진짜 엄격하셨어. 작은 온수 드릴의 직경까지 몇 번이나 확인하실 정도라니까... '구조에 사소한 건 없다'라는 마음가짐도 대장님이 가르쳐 주신 거야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0014_aurora_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "The light reflecting off the clouds of Talos-II can be so beautiful. It reminds me of the aurora I know ... and the visions of my dreams. I often see them when I'm atop the highest peaks of the northern snowy mountains. I know the light is a form of dangerous Æther energy, but seeing it felt like meeting an old friend... One who watches me ... and protects me from afar...",
+    "zh-TW": "塔衛二雲層上的光真的很漂亮，很像我印象裡的「極光」……如同夢中的景色。我常在北方雪峰的最高處望見它們，雖然知道那是危險的超域能量，卻總覺得像遇到了一個老朋友，在遙遠的地方注視著我，守護著我……",
+    "zh-CN": "塔卫二云层上的光真的很漂亮，很像我印象里的“极光”……如同梦中的景色。我常在北方雪峰的最高处望见它们，虽然知道那是危险的超域能量，却总觉得像遇到了一个老朋友，在遥远的地方注视着我，守护着我……",
+    "ja": "タロⅡの雲から見える光、本当にきれい……記憶の中の「オーロラ」に似てる……まるで夢の中みたい。北の雪山の上からよく見てたんだ。危険な超域エネルギーだってことはわかってるよ。でもね、どうしてだろう。昔の友だちが遠くから見守ってくれてるような、そんな気がして……",
+    "ko": "탈로스 II의 구름층에 빛이 비치는 모습... 진짜 예쁘지 않아? 꼭 내 기억 속 '오로라' 같아... 꿈속의 풍경 같다고 할까. 북쪽 설산의 정상에 서면 저런 풍경이 자주 보이거든. 물론, 그게 위험한 초자연 에너지라는 건 잘 알아. 하지만... 볼 때마다 왠지 오래된 친구를 만나는 느낌이야. 아득한 곳에서 날 지켜보며 지켜주는 것만 같아..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0014_aurora_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Endmin, take this. It's a tiny something I brought from the snowfields.",
+    "zh-TW": "管理員，我從冰原帶回來了一點小東西，請收下吧。",
+    "zh-CN": "管理员，我从冰原带回来了一点小东西，请收下吧。",
+    "ja": "管理人、氷原から持って帰ったプレゼントだよ。はい、どうぞ。",
+    "ko": "관리자! 내가 설원에서 선물을 가져왔는데, 받아줄래?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Is this for me? Oh, thank you! It's got such a warm feel... I'll definitely treasure it!",
+    "zh-TW": "這是給我的嗎？謝謝，有種很溫暖的感覺……我會好好珍藏的！",
+    "zh-CN": "这是给我的吗？谢谢，有种很温暖的感觉……我会好好珍藏的！",
+    "ja": "これを私に？ありがとう。なんだか、あったかいなぁ……大切にするね。",
+    "ko": "나한테 주는 거야? 고마워, 뭔가 마음이 따뜻해지는 기분이야... 소중히 간직할게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Look, Endmin! I used my Originium Arts to create this ice barrier! Super sturdy, right? Don't worry! Feel free to swing at it with more oomph! You won't put a crack in it!",
+    "zh-TW": "管理員，你看，這是我用源石技藝新做的冰牆！是不是很結實？別擔心，就算再用力點也沒關係！不會裂開的！",
+    "zh-CN": "管理员，你看，这是我用源石技艺新造的冰墙！是不是很结实？别担心，就算再用力些也没事！不会裂开的！",
+    "ja": "管理人、見て。アーツで氷の壁を作ってみたんだ。出来立てだし、ちゃんと作ったから力を入れても大丈夫。絶対に割れたりしないから！",
+    "ko": "관리자, 이것 좀 봐줘! 오리지늄 아츠로 만든 얼음 장벽이야! 완전 튼튼하지? 걱정하지 마, 더 세게 쳐도 끄떡없어! 절대 안 깨진다니까!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Got some much-needed rest, Endmin? I always see you running all over the place with hardly a break... Hmm, you really should watch that work-life balance. Remember that last SAR training we had? You gave me quite the surprise when I carried you on my back... I could hardly believe you're lighter than a newborn burdenbeast calf...",
+    "zh-TW": "最近有好好休息嗎，管理員？總是看到你到處跑來跑去，就沒怎麼停下來過……要注意休息噢！上次救援訓練，我背你的時候真的被嚇了一跳……簡直比剛出生的小馱獸還輕……",
+    "zh-CN": "最近有好好休息吗，管理员？总看到你到处跑来跑去，就没怎么停下来过……要注意劳逸结合噢！上回救援训练，我背你的时候真的被吓了一跳……简直比刚出生的小驮兽还要轻……",
+    "ja": "最近、ちゃんと休めてる？いつもあちこち走り回ってるけど……休むことも大切だよ。前に救援訓練で背負ったとき、本当にびっくりしたよ……生まれたての駄獣よりも軽くて……",
+    "ko": "관리자, 휴식도 중요한 거 알지? 매일 쉬지도 못하고 이리저리 뛰어다니는 것 같던데... 적당히 쉬어가면서 해야 해! 지난번 구조 훈련에서 관리자를 업었을 때 나 진짜 깜짝 놀랐다고... 갓 태어난 아기 버든비스트보다 가벼운 건 너무 하잖아..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0014_aurora_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "Not every SAR operation is a success story... Sudden changes in weather or terrain can happen in ways faster than you expect. This is why I would triple-check my gear before setting off on a mission. Drones, thermal imaging cams ... every piece of equipment is an important assistant for any SAR operator. They're the reasons why we could launch bold rescue plans with confidence.",
+    "zh-TW": "救援工作也不是每次都那麼順利……突發天氣或是地形變化總會來得比預想中更快。所以每次出發前，我都會多檢查兩遍我們的救援設備，從無人機到體溫感測儀……它們也是救援隊員重要的夥伴，是我們敢於大膽行動的底氣來源。",
+    "zh-CN": "救援工作也不是每次都那么顺利……突发天气或是地形变化总会来得比预想中更快。所以每次出发前，我都会多检查两遍我们的救援设备，从无人机到体温识别仪……它们也是救援队员重要的伙伴，是我们敢于大胆行动的底气来源。",
+    "ja": "救援活動は、いつも思い通りに行くとは限らない……急に天気が変わったり、地形が崩れたりすることもあるから。出発前に救援装置はしっかり確認しなくちゃなんだよ。ドローンも体温センサーも救援隊員にとっては大事な仲間。思い切って動き出すための、勇気の源になるんだ。",
+    "ko": "구조 작업이 항상 순조롭지만은 않아... 갑자기 날씨가 바뀌거나, 지형이 무너지는 일들은 생각보다 더 빨리 오거든. 그래서 난 항상 출발하기 전에 드론부터 체온 감지 장치까지, 구조 설비를 두세 번씩 점검하는 편이야. 설비들도 우리 구조대의 중요한 동료잖아? 우리가 용감하게 작전을 수행할 수 있는 원천이라고 할 수 있지!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0014_aurora_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "I once rescued a father and his daughter in an avalanche... They probably had an argument and deliberately ignored each other in the temporary shelter I built. But when the blizzard came down hard, the father always set aside food for the girl, and the girl did her best to care for her old man... They were successfully evacced, but the two still refused to talk to each other. It made me wonder if that's what the bond of kinship is about. Even if they couldn't find the words, family would always stand up for each other in crucial moments...",
+    "zh-TW": "我曾在一場雪難裡救下過一對父女……他們那時好像在鬧彆扭，待在我搭的臨時庇護所裡也互不理睬。但當風雪來襲的時候，爸爸總會把食物留給女兒，女兒也總是關心著爸爸……等到獲救後，兩個人還是不和對方說話。那時我就在想，這會不會就是那種叫做「親情」的牽絆呢？即使說不出口，關鍵時刻也會為彼此挺身而出……",
+    "zh-CN": "我曾在一场雪难里救下过一对父女……他们那时好像在闹矛盾，待在我搭的临时庇护所里也互不理睬。但当风雪来袭的时候，爸爸总会把食物留给女儿，女儿也总关心着爸爸……等到获救后，两个人还是不和对方说话。那时我就在想，这会不会就是那种叫做“亲情”的牵绊呢？即使说不出口，关键时刻也会为彼此挺身而出……",
+    "ja": "雪害で親子を助けたことがあったんだけど……ケンカ中だったみたいで、臨時避難所にいるときもお互いを無視してた。でも、吹雪の中でお父さんは娘さんに食べ物を残してあげてて、娘さんはお父さんのことを気にしてて……助かったあとも結局口はきかなかったけど、これが「家族」なのかなって――言葉にしなくても、いざというときに相手のために命を差し出せる……絆のことなんだって。",
+    "ko": "전에 한번 눈사태 현장에서 한 아빠와 딸을 구한 적이 있어... 그때 둘이 싸웠던 건지, 내가 만든 임시 대피소에서도 서로 말 한마디를 안 하더라고. 근데 눈보라가 몰아치기 시작하니까, 아빠는 자꾸 딸한테 음식을 양보하는 거 있지? 딸도 계속 아빠만 걱정하고 말이야... 안전한 곳으로 이송되는 중에도 그 둘은 아무런 말을 하지 않았어. 근데 문득 이게 진짜 '가족'일지도 모른다는 생각이 들더라? 말로는 표현 못 해도, 진짜 중요한 순간에는 서로를 지키려는 마음 말이야..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0014_aurora_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "Saving lives is no easy task. I never fantasized about rescuing everyone without making sacrifices. I'm the only one left from my cohort of SAR teammates. Blight disasters left a few with crippling disabilities. Some lost their minds in the frigid, snowy nights... There were times of confusion, and moments when I felt the touch of fear. But you Endfielders are so awesome, and so strong! I believe all of us will be capable of going further and higher, all thanks to your support, Endmin!",
+    "zh-TW": "拯救生命是一項艱苦的工作，而我也沒妄想過能不付出任何代價就幫助所有人。我入隊時的同期，已經沒人留在隊裡了。他們有些在侵蝕災害中落下了殘疾，有些在冰冷的雪夜失去了理性……我的確感到過茫然，甚至有點膽怯。但是，終末地的大家都很厲害，也很堅強！在管理員的幫助下，相信我們所有人都能走得更遠一點！",
+    "zh-CN": "拯救生命是一项艰苦的工作，而我也没妄想过能不付出任何代价就帮助所有人。我入队时的同期，已经没人留在队里了。他们有些在侵蚀灾害中落下了残疾，有些在冰冷的雪夜失去了理性……我的确感到过茫然，甚至有些胆怯。但是，终末地的大家都很厉害，也很坚强！在管理员的帮助下，相信我们所有人都能走得更远一点！",
+    "ja": "命を救うって、簡単な話じゃないんだ。何も失わずにすべての人を助けられるなんて、最初から思ってなかった。一緒に入職した仲間は、もう誰も残ってなくて……侵蝕災害で後遺症が残った人もいるし、冷たい雪の夜のせいで理性を失った人もいた……私も迷ったり怖くなったりしたこともあったけど、エンドフィールドのみんなは強くて、すごい人ばかりで。それに管理人が助けてくれるんだから、もっともっと遠くまで行けるって信じてるんだ。",
+    "ko": "생명을 구한다는 건 진짜 힘든 일이야. 나도 아무런 대가 없이 모든 사람을 구할 수 있을 거라는 생각은 안 해... 나랑 같이 들어왔던 동기들도 이젠 더 이상 팀에 남아 있지 않거든. 침식 재해로 몸을 못 쓰게 된 친구도 있고, 차가운 눈보라 속에서 이성을 잃어버린 친구도 있고... 사실 나도 막막하고, 겁이 났던 순간들이 있었어. 하지만 엔드필드 사람들은 모두 강하고 멋진 사람들이잖아? 관리자만 곁에 있다면... 난 우리 모두가 더 멀리 나아갈 수 있을 거라고 믿어!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0014_aurora_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "What about this snowboard? It's a gift from Lady Warfarin when I left Rhodes Island. The board's constructed using rare materials, just like my shield. And it's ultra versatile in SAR missions! Hmm... Endmin, are you interested in snowboarding? I can totally teach you all about that!",
+    "zh-TW": "這塊滑雪板嗎？它是我離開羅德島時，華法琳女士送我的禮物。和我的盾牌一樣，它也是用稀有的材料打造的，在救援行動時特別有用！嗯？難道管理員對滑雪感興趣？我可以教你！",
+    "zh-CN": "这块滑雪板吗？它是我离开罗德岛时，华法琳女士送我的礼物。和我的盾牌一样，它也是用稀有的材料打造的，在救援行动时特别有用！嗯？难道管理员对滑雪感兴趣？我可以教你！",
+    "ja": "スノーボード……？ロドスを離れるときに、ワルファリンさんがプレゼントしてくれたんだ。私の盾と同じ珍しい素材で作られてて、救援活動のときにすごく便利なんだよ！え、管理人もスキーに興味があるの？教えるよ！",
+    "ko": "이 스노보드 말이야? 이건 내가 로도스 아일랜드를 떠날 때, 와파린 씨가 선물해 준 거야. 내 방패처럼 희귀한 재료로 만든 건데, 구조 작전에서 진짜 유용하게 사용하고 있어! 응? 관리자도 보드에 관심 있어? 내가 가르쳐줄까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "The Search and Rescue organization is under the Northern Corridor Rescue Union. Our missions typically involve messengers working in the north, traveling merchants, and military scouts who lost their way after being ambushed by the Aggeloi or beasts. My SAR teammates come from all across the world, and most of us are volunteers. The SAR experience was a constant battle against the ice, snow, and rough terrain, but it gave me a chance to meet all sorts of different people.",
+    "zh-TW": "救援隊隸屬於北方走廊救助聯合會，我們遇到的救援對象常常是那些因公前往北方的信使、來往貿易的商人，偶爾還有遭到天使或野獸襲擊後迷路的軍隊斥候。而我們的成員同樣來自天南海北，大多數是志工。雖然總是在和冰天雪地打交道，但其實也結識了很多不一樣的人呢。",
+    "zh-CN": "救援队隶属于北方走廊救助联合会，我们遇到的救援对象常常是那些因公前往北方的信使、来往贸易的商人，偶尔还有遭到天使或野兽袭击后迷路的军队斥候。而我们的成员同样来自天南海北，大多数是志愿者。虽然总是在和冰天雪地打交道，但其实也结识了很多不一样的人呢。",
+    "ja": "私たち救援隊は「北部回廊救助会」に所属してるんだ。北に向かうトランスポーターや貿易で行き来する商人の救助がほとんどで、たまにアンゲロスや獣に襲われちゃった軍の偵察兵を見つけるときもあるよ。隊員もいろんな場所から集まってて、志願して加わったボランティアが多いかな。ずっと寒さと向き合わなきゃだけど、いろんな人と出会うこともできる業務なんだよ。",
+    "ko": "우리 구조대는 북쪽 회랑 구조 연합회 소속이야! 북쪽으로 임무를 떠난 전달자나 거래를 하러 온 무역상들을 자주 구조하는 편이지. 가끔 아겔로스나 야수한테 습격당해서 길 잃은 정찰병들을 구조할 때도 있고. 구조대원들도 다양한 배경을 가진 사람들이야. 대부분은 자원봉사자지. 늘 눈보라와 싸우긴 하지만, 덕분에 진짜 다양한 사람들을 만나게 된 거 있지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "An operator recently asked me about joining the SAR. It isn't hard, really! Just constantly train yourself for mountaineering, endure hours of non-stop rescue operations, master some polar survival skills, learn how to avoid Ankhors and large beasts, and complete the full first-aid training course — at least to the level where you can handle sudden Oripathy! Finally, pass the special field trial designed by our captain and you'll become an official member of the SAR!",
+    "zh-TW": "最近也有幹員問過我，要怎樣才能加入救援隊。其實不難的！只要平時經常做高地徒步訓練，能撐住數個小時無休的搜救，學過一些極地生存技巧，知道怎麼躲避錨點與大型野獸，再接受完整的急救訓練課程——至少到能處理突發礦石病的程度，最後通過我們隊長專門設計的實地測試，就能正式加入啦！",
+    "zh-CN": "最近也有干员问过我，要怎样才能加入救援队。其实不难的！只要平时经常进行高地徒步训练，能坚持数个小时无休的搜救，学过一些极地生存技巧，知道怎么躲避锚点与大型野兽，再接受完整的急救培训课程——至少到能处理突发矿石病的水平，最后通过我们队长专门设计的实地测试，就能正式加入啦！",
+    "ja": "最近、「救援隊に入るにはどうしたらいい？」って聞かれることがあって……そんなに難しいことじゃないんだけどね。普段からトレッキングの訓練をして、数時間休みなしの捜索活動に耐えられて、極地で生き延びる技術もちょっとわかってて、アンカーや大型の獣を回避するコツを知ってて、あとは応急処置訓練の授業を――最低でも、突然鉱石病が発生しても対応できるレベルに。あとは隊長の現場テストに合格すれば、救援隊の一員になれるよ！",
+    "ko": "요즘에는 어떻게 하면 구조대에 들어올 수 있는지를 물어보는 오퍼레이터도 생겼어. 사실 별로 안 어려워! 고지대를 오르는 훈련을 평소에 꾸준히 하고, 몇 시간 동안 쉬지 않고 수색 구조할 수 있는 체력을 만들고, 극지 생존 기술이랑 앵커나 대형 야수를 피하는 방법을 익히고, 최소한 급성 광석병에 대처할 수 있을 정도로 완벽한 응급 구조 훈련을 받고... 아, 마지막으로 우리 대장님이 만든 실전 테스트를 통과하기만 하면 정식 구조대원이 될 수 있어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "I like the snow, the white-capped mountains, and the shimmering beauty revealed only in the frigid cold... This is why I don't want them to leave painful memories to the people they touch. When people see the snowy mountains, the first thing they remember should be the enrapturing views from the summit. And when the snow falls, I hope they think of pristine crystals and blossoms of ice... *Sigh* It would be so sad if all anyone thought of was catastrophe. Endmin, I will continue to strive towards these goals of mine.",
+    "zh-TW": "我喜歡冰雪，喜歡雪山，喜歡這些嚴寒下依然璀璨的事物……所以我才更不希望它們給人帶來痛苦的回憶。我想要讓更多人在看到雪山時，最先想到的是山頂美麗的風景；想要讓更多人看到冰雪時，最先想到的是純淨的冰晶與漂亮的雪花……而不是那些因雪災帶來的不幸。為了這個目標，我想我會一直努力下去的。",
+    "zh-CN": "我喜欢冰雪，喜欢雪山，喜欢这些严寒下依然璀璨的事物……所以我才更不希望它们给人带来痛苦的回忆。我想要让更多人在看到雪山时，最先想到的是山顶美丽的风景；想要让更多人看到冰雪时，最先想到的是纯净的冰晶与漂亮的雪花……而不是那些因雪灾带来的不幸。为了这个目标，我想我会一直努力下去的。",
+    "ja": "氷も雪山も……寒さの中で輝くものが好きなんだ。だからみんなにとって、つらい思い出の残る場所になってほしくない。雪山を見たら山頂の美しい景色を、氷や雪を見たら透き通った結晶や雪の華を真っ先に思い出してほしいなぁ……雪害や、不幸じゃなくてね。そのためにも、私はずっと頑張り続けるよ。",
+    "ko": "난 눈과 얼음, 설산과 혹독한 추위 속에서 반짝이는 것들이 좋아... 그래서 난 이런 것들이 누군가의 아픈 기억이 되지 않았으면 좋겠어. 사람들이 설산을 볼 때 산 정상의 아름다운 풍경을 먼저 떠올렸으면 좋겠고, 눈과 얼음을 볼 때 예쁜 눈송이랑 깨끗한 얼음결정이 떠올랐으면 좋겠어. 눈사태 같은 불행한 재해 말고... 그 목표를 위해서! 난 앞으로도 계속 노력할 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "Were you looking for me yesterday, Endmin? I'm so sorry I didn't notice back then. I was definitely taking a nap to make up for missing sleep. Yeah, napping is the first thing I'd do after coming back from an SAR mission... And sometimes I would accidentally oversleep by ... quite a bit. But you can simply wake me up if you got an emergency! The sound of your voice will get me up and ready in no time, Endmin!",
+    "zh-TW": "昨天你有來找我嗎，管理員？抱歉，我那時一定是在補覺，所以才沒發現。對，現在每次救援行動回來，我都會先好好睡一覺……有時一不小心就睡過頭了，要過好久才能自然醒。不過要是有什麼急事，直接來叫我就好啦！要是聽到管理員的聲音，我一定馬上就醒過來了！",
+    "zh-CN": "昨天你有来找我吗，管理员？抱歉，我那时肯定是在补觉，所以才没发现。对，现在每次救援行动回来，我都会先好好睡一觉……有时一不小心就睡过头了，要过好久才能自然醒。不过要是有什么急事，直接来叫我就好啦！要是听到管理员的声音，我肯定马上就醒过来了！",
+    "ja": "管理人、昨日来てたの？ごめん、私寝ちゃってて気付かなかった……うん、救援活動から戻ったらしっかり休むようにしてて。たまにうっかり寝過ごしちゃうときもあって、起きたらこんな時間って思うときもあるんだ。急ぎの用だったら、起こしてくれていいからね。管理人の声がしたら、きっとすぐ目が覚めると思うから。",
+    "ko": "어제 찾으러 왔었어? 미안해, 자고 있어서 온 줄도 몰랐네. 요즘에는 구조 작전이 끝나고 돌아오면 바로 자러 가거든... 가끔 너무 푹 잠들어서 한참 지나고서야 깰 때도 있어. 그래도 급한 일이 있으면 그냥 바로 날 깨워줘! 관리자가 날 부르는 목소리를 들으면 바로 일어날 수 있을 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_about_line01",
+   "title": {
+    "en": "Topic: Emergency SAR Training",
+    "zh-TW": "話題：緊急救援訓練",
+    "zh-CN": "话题：应急救援训练",
+    "ja": "救援訓練について",
+    "ko": "응급 구조 훈련에 관하여"
+   },
+   "text": {
+    "en": "Definitely! SAR training is super important! When natural disasters like an avalanche strike, people can quickly shelter themselves in safe, sturdy places ... And that would greatly improve their odds of survival! But this could only happen when people have strong disaster awareness... So, Endmin, you'll be attending the next SAR training session, right?",
+    "zh-TW": "救援訓練當然很重要啊！尤其是面對雪崩這樣的自然災害，如果大家都有很強的避險意識，可以在最短時間裡找到身邊堅固的躲藏地，往往就能大幅提高生存的可能性……所以管理員，下次的訓練你一定會來的，對吧？",
+    "zh-CN": "救援训练当然很重要啊！尤其是面对雪崩这样的自然灾害，如果大家都有很强的避险意识，可以在最短时间里找到身边坚固的躲藏地，往往就能大幅提高生存的可能性……所以管理员，下次的训练你肯定会来的，对吧？",
+    "ja": "救援訓練はもちろん大事だよ！特に雪崩みたいな自然災害のとき、みんなに知識があったらすぐに安全な避難場所を見つけられて、生存の可能性も一気に高まるんだ……だから管理人。次の訓練に参加してくれるよね？",
+    "ko": "구조 훈련은 진짜 엄청 중요해! 눈사태 같은 자연재해가 왔을 때, 우리 모두가 위험 대피 방법을 잘 알고, 안전한 곳을 빨리 찾아낸다면, 사람들의 생존 확률이 훨씬 높아지니까! 그렇게 생각하지? 그럼 다음 훈련에 꼭 와!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_about_line02",
+   "title": {
+    "en": "Topic: Gilberta",
+    "zh-TW": "話題：潔爾佩塔",
+    "zh-CN": "话题：洁尔佩塔",
+    "ja": "ギルベルタについて",
+    "ko": "질베르타에 관하여"
+   },
+   "text": {
+    "en": "Is Miss Gilberta aboard Dijiang as well? Oh, it's just that she really went out of her way to help us in multiple SAR missions. She delivered vital supplies, air-lifted the injured, and even pinpointed a mid-air SOS signal in the middle of a terrible blizzard! The SAR team tried giving her a token of our appreciation but she turned everything down. In the end, she asked for a few photos of a nice view from the snowy peaks. Heheh. What do you think of this one? I made the photo frame myself as well!",
+    "zh-TW": "潔爾佩塔小姐現在也在帝江號上嗎？啊，之前的救援行動中，她幫我們做了很多額外的工作，像是物資搬運和傷患運送，甚至還在暴雪中精準定位到了高空中的求救訊號。後來救援隊本想送她點什麼作為謝禮，她卻全都拒絕了，說是拍點雪山的風景給她就好了。嘿嘿，管理員你看，這些照片怎麼樣？相框也是我親手製作的喔！",
+    "zh-CN": "洁尔佩塔小姐现在也在帝江号上吗？啊，之前的救援行动中，她帮我们做了很多额外的工作，像是物资搬运和伤员运送，甚至还在暴雪中精准定位到了高空中的求救信号。后来救援队本想送她点什么作为谢礼，她却全都拒绝了，说是拍些雪山的风景给她就好啦。嘿嘿，管理员你看，这些照片怎么样？相框也是我亲手制作的哦！",
+    "ja": "ギルベルタさんも帝江号にいるの？あ、前の救援活動ですごくお世話になってね。物資も負傷者も運んでくれて、吹雪の中で空から救難信号の正確な位置も特定してくれたんだ。救援隊からお礼しようと思ったのに、全部断られちゃって。雪山の写真を撮ってくれるだけで十分だって……管理人、見て。うまく撮れてるかな？へへ、額縁も私が作ったんだよ！",
+    "ko": "질베르타 씨도 지금 제강호에 있는 거야? 아, 전에 구조 작전을 나갔을 때 날 진짜 많이 도와줬거든! 물자랑 부상자를 옮겨준 데다 눈보라 속에서 구조 신호까지 정확하게 찾아내 준 거 있지? 구조대에서 감사의 마음을 담은 선물을 전달하려고 했는데, 사양하면서 그냥 설산 풍경 사진 몇 장만 달라고 하더라고. 헤헤... 관리자, 이 사진들 어때? 액자도 내가 직접 만든 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_about_line03",
+   "title": {
+    "en": "Topic: Polar Survival",
+    "zh-TW": "話題：極地生存",
+    "zh-CN": "话题：极地生存",
+    "ja": "極地での生存について",
+    "ko": "극지 생존에 관하여"
+   },
+   "text": {
+    "en": "Polar survival is not easy... Essential knowledge includes proper overnight camping to avoid hypothermia during blizzards, finding edible food in the Blighted icefields, identifying sturdy footholds to cross glaciers ... and most importantly, plotting a safe passage to the objective — This means you have to learn how to avoid the Aggeloi, hungry beasts, and other dangers in disaster zones.",
+    "zh-TW": "想在極地生存可不是件容易的事……你要懂得怎麼在暴雪中的帳篷裡過夜才不至於失溫，要學會從存在侵蝕的冰原上找到能入口的食材，要能判斷冰川上哪裡才適合落腳。最重要的是，要知道怎麼在沒有嚮導的時候，找出一條前往目的地的安全路線——避開天使、飢餓的動物還有那些危險的受災地帶。",
+    "zh-CN": "想在极地生存可不是件容易的事……你要懂得怎么在暴雪中的帐篷里过夜才不至于失温，要学会从存在侵蚀的冰原上找到能入口的食材，要能判断冰川上哪里才适合落脚。最重要的是，要知道怎么在没有向导的时候，找出一条前往目的地的安全路线——避开天使、饥饿的动物还有那些危险的受灾地带。",
+    "ja": "極地で生き延びるのは、そんなに甘いことじゃないんだ。吹雪の夜、テントの中でどうやって体温を保つか、侵蝕の広がる氷原でどう食料を見つけるか、氷の上でどこを歩いたらいいか……全部自分で判断しなくちゃ。でも一番大切なのは、もしガイドがいなかったとしても自力で目的地までの安全なルートを見つけ出すこと――アンゲロスや飢えた獣、危険な被災地を避けながらね。",
+    "ko": "극지에서 살아남는 건 쉽지 않아... 눈보라가 몰아치는 텐트 안에서 체온을 유지하는 법이나, 침식된 설원에서 먹을 수 있는 식재료를 찾는 방법, 빙하를 안전하게 건너는 법도 배워야 하니까. 제일 중요한 건, 길잡이 없이도 목적지까지 안전하게 가는 길을 찾을 줄 알아야 한다는 거야. 아겔로스, 굶주린 동물... 위험한 재해 구역을 피하면서 말이지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "We should gather these resources! They might come in handy for rescue operations.",
+    "zh-TW": "這些物資最好都收集起來，救援時說不定能用到！",
+    "zh-CN": "这些物资最好都收集起来，救援时说不定能用上！",
+    "ja": "これは全部集めておこう。救援のときに役立ちそうだから。",
+    "ko": "이 물자들 전부 챙겨놓자, 구조할 때 사용할 수 있을지도 모르잖아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Seems like a terrific discovery. Perhaps they'll be useful for future operations!",
+    "zh-TW": "好像找到了不得了的東西呢，或許能在以後的行動中發揮很大作用！",
+    "zh-CN": "好像找到了不得了的东西呢，或许能在以后的行动中发挥很大作用！",
+    "ja": "すごいものみたいだね。今後の任務で使えるかもしれないよ！",
+    "ko": "뭔가 엄청난 걸 발견한 것 같아, 다음 작전에 도움이 될지도 몰라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Our drones haven't surveyed this area. We should be alert, people.",
+    "zh-TW": "是無人機還沒探測到的地帶，大家多注意防範。",
+    "zh-CN": "是无人机还没探测到的地带，大家多注意防范。",
+    "ja": "ドローンでも探索してない場所だね。気を付けて進もう。",
+    "ko": "드론이 탐색하지 못한 지역이야, 다들 조심해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Everyone! Be cautious! That enemy looks very dangerous!",
+    "zh-TW": "前面的敵人很危險！各位小心！",
+    "zh-CN": "前面的敌人很危险！各位小心！",
+    "ja": "この先にいる敵、強いよ。みんな注意して！",
+    "ko": "엄청 위험한 적이야! 다들 조심해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "High quality minerals. We can probably use them for building temporary shelters...",
+    "zh-TW": "高品質的礦物，也許能用在臨時庇護所的建造上……",
+    "zh-CN": "高质量的矿物，也许能用在临时庇护所的搭建上……",
+    "ja": "上質な鉱物みたいだね。臨時避難所の素材に使えるかも……",
+    "ko": "이 광물, 품질이 엄청 좋아. 임시 대피소를 만들 때 쓸 수 있을지도 몰라..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "Let's do this together. It'll make things faster.",
+    "zh-TW": "大家一起來？一定很快就能採完啦！",
+    "zh-CN": "大家一起来？肯定很快就能采完啦！",
+    "ja": "みんなでやるの？それなら、すぐ終わるね！",
+    "ko": "같이 할까? 그럼 금방 끝낼 수 있을 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Let's add this to our emergency stockpile!",
+    "zh-TW": "作為救援物資儲備起來吧！",
+    "zh-CN": "作为救援物资储备起来吧！",
+    "ja": "救援物資として、貯めておこうか。",
+    "ko": "구조 물자로 보관해 놓자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Is this Aurylene? How pretty... We should stash it properly!",
+    "zh-TW": "這就是醚質吧？好漂亮！趕快收好吧！",
+    "zh-CN": "这就是醚质吧？好漂亮！赶紧收好吧！",
+    "ja": "これがオーリレン？きれい……ちゃんとしまっておかなくちゃ。",
+    "ko": "이게 오리렌이지? 진짜 예쁘다! 어서 챙겨 두자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Elimination success! And check for any damages on your Blight-resistant coating, people!",
+    "zh-TW": "破壞成功！記得檢查一下防侵蝕塗層的受損程度喔！",
+    "zh-CN": "破坏成功！记得检查一下防侵蚀涂层的受损程度哦！",
+    "ja": "破壊成功。侵蝕止めのコーティングもチェックしたほうがいいね。",
+    "ko": "파괴 완료! 침식 방지 코팅이 손상되지 않았는지 확인해 보자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Want some cheese? It's great for restoring your stamina!",
+    "zh-TW": "要不要來一片起司？有助於體力恢復喔！",
+    "zh-CN": "要不要来一片奶酪？有助于体力恢复喔！",
+    "ja": "チーズ食べる？体力が回復するから。",
+    "ko": "치즈 한 조각 먹을래? 체력 회복에 도움이 될 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Emergency treatment administered!",
+    "zh-TW": "已進行緊急處理！",
+    "zh-CN": "已进行应急处理！",
+    "ja": "応急処置するよ！",
+    "ko": "응급 처치 완료!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Sorry...! Let me catch my breath!",
+    "zh-TW": "抱歉，讓我先喘口氣！",
+    "zh-CN": "抱歉，让我先喘口气！",
+    "ja": "ごめん、少しだけ休ませて。",
+    "ko": "미안, 숨 좀 고를게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Don't get hit by this!",
+    "zh-TW": "這個不能硬扛的！",
+    "zh-CN": "这个不能硬扛的！",
+    "ja": "受けちゃダメ！",
+    "ko": "정면은 위험해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "It's okay. I can tough it out...",
+    "zh-TW": "沒問題，我還忍得住……",
+    "zh-CN": "没事，我还忍得住……",
+    "ja": "大丈夫、まだ耐えられる……",
+    "ko": "괜찮아, 아직 버틸 수 있어..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Sorry... I couldn't weather this storm...",
+    "zh-TW": "抱歉……沒能穿過這場暴雪……",
+    "zh-CN": "抱歉……没能穿过这场暴雪……",
+    "ja": "ごめんね……この吹雪は、越えられなかった……",
+    "ko": "미안... 눈보라를... 이겨내지 못했어..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Awesome teamwork!",
+    "zh-TW": "精彩的配合！",
+    "zh-CN": "精彩的配合！",
+    "ja": "連携、バッチリだったね！",
+    "ko": "멋진 협력이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Fabulous work!",
+    "zh-TW": "做得好！",
+    "zh-CN": "干得好！",
+    "ja": "うまくいったね！",
+    "ko": "잘했어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Let's keep up the good work!",
+    "zh-TW": "要再接再厲呀！",
+    "zh-CN": "要再接再厉呀！",
+    "ja": "もうひとふんばり！",
+    "ko": "더 노력할게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "Thanks for your support!",
+    "zh-TW": "謝謝大家的支持！",
+    "zh-CN": "谢谢大家的支持！",
+    "ja": "みんな、支えてくれてありがとうね。",
+    "ko": "다들 도와줘서 고마워!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Clearing the way for the rescue!",
+    "zh-TW": "開始清掃救援障礙！",
+    "zh-CN": "开始清扫救援障碍！",
+    "ja": "障害排除、開始！",
+    "ko": "구조에 방해되는 건 다 치워버리자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Yeah! Freeze them!",
+    "zh-TW": "凍結他們！",
+    "zh-CN": "冻结他们！",
+    "ja": "凍らせる……！",
+    "ko": "모두 얼려버리겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Hoo. The battle has ended. Let's take a break while we still can.",
+    "zh-TW": "呼，打完了，把握時間休息一下吧。",
+    "zh-CN": "呼，打完了，抓紧时间休整下吧。",
+    "ja": "ふう、おわった……まずは休憩、だね。",
+    "ko": "휴... 끝났네, 빨리 가서 정비하자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "Everyone's giving their all. I've got to step up too!",
+    "zh-TW": "大家都在努力，我也要變得更強才可以！",
+    "zh-CN": "大家都在努力，我也要变得更强才行！",
+    "ja": "みんな、頑張ってるんだから……私だって、もっと強くならないと。",
+    "ko": "모두 노력하고 있으니, 나도 더 강해져야겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Great teamwork, everyone!",
+    "zh-TW": "謝謝大家的配合！辛苦啦！",
+    "zh-CN": "谢谢大家的配合！辛苦啦！",
+    "ja": "みんな、協力してくれて助かったよ。お疲れさま！",
+    "ko": "모두 도와줘서 고마워! 고생 많았어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "Don't feel bad. Endure the storm and approach our goal! Save our strength and we'll reach the safe zone early!",
+    "zh-TW": "別氣餒，撐過了這場風雪就離目的地更近了！所以先保存體力，爭取能早點抵達安全地帶！",
+    "zh-CN": "别气馁，撑过了这场风雪就离目的地更近了！所以先保存体力，争取早点抵达安全地带！",
+    "ja": "落ち込まないで。吹雪を乗り越えたら、目的地までもうすぐだよ。今は体力を温存して、早く安全な場所に行こう！",
+    "ko": "눈보라를 버텨냈으니까, 너무 실망하진 마! 우린 목표 지점에 더 가까워진 거야! 그러니까 체력 잘 지켜서 안전지대까지 가보자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Don't give up! Let's suit up and do our prep work! Then we'll do this again!",
+    "zh-TW": "不要輕易放棄！等大家重新做好準備，再嘗試一次吧！",
+    "zh-CN": "不要轻易放弃！等大家重新做好准备，再尝试一次吧！",
+    "ja": "諦めちゃダメだよ！ちゃんと準備を整えて、もう1回チャレンジしよう！",
+    "ko": "쉽게 포기하면 안 돼! 제대로 재정비해서 다시 도전해 보자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Freezing cleave!",
+    "zh-TW": "霜凍！",
+    "zh-CN": "霜冻！",
+    "ja": "凍りつけ！",
+    "ko": "서리!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Coldernado!",
+    "zh-TW": "寒風！",
+    "zh-CN": "寒风！",
+    "ja": "凍てつく風よ！",
+    "ko": "차가운 바람!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_skill_nor_strike_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Back off!",
+    "zh-TW": "給我退下！",
+    "zh-CN": "给我退下！",
+    "ja": "下がって！",
+    "ko": "눈앞에서 사라져!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_skill_nor_strike_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Passage denied!",
+    "zh-TW": "休想過去！",
+    "zh-CN": "休想过去！",
+    "ja": "通さない！",
+    "ko": "절대 못 지나가!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_skill_nor_strike_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Snowshine protects!",
+    "zh-TW": "我來守護！",
+    "zh-CN": "我来守护！",
+    "ja": "私が守る！",
+    "ko": "내가 지킬 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Prepped and ready!",
+    "zh-TW": "準備完畢！",
+    "zh-CN": "准备完毕！",
+    "ja": "準備完了！",
+    "ko": "준비됐어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Set for rescue!",
+    "zh-TW": "我來援助！",
+    "zh-CN": "我来援助！",
+    "ja": "援護するよ！",
+    "ko": "내가 도와줄게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Breathe with me!",
+    "zh-TW": "稍微喘口氣！",
+    "zh-CN": "稍微喘口气！",
+    "ja": "息を整えて……",
+    "ko": "잠깐 숨 좀 돌려!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "EMS has arrived!",
+    "zh-TW": "援護已就位！",
+    "zh-CN": "援护已就位！",
+    "ja": "いつでも援護できるよ！",
+    "ko": "지원 도착!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Away with YOU!",
+    "zh-TW": "別想靠近！",
+    "zh-CN": "别想靠近！",
+    "ja": "させ、ない！",
+    "ko": "가까이 오지 마!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "You're going DOWN!",
+    "zh-TW": "倒下吧！",
+    "zh-CN": "倒下吧！",
+    "ja": "倒、せ！",
+    "ko": "쓰러져라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Storm of frost!",
+    "zh-TW": "凜冽寒風！",
+    "zh-CN": "凛冽寒风！",
+    "ja": "寒風よ……刺せ！",
+    "ko": "얼어붙는 바람!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Shield of ice!",
+    "zh-TW": "冰晶之盾！",
+    "zh-CN": "冰晶之盾！",
+    "ja": "氷晶の――盾よ！",
+    "ko": "얼음 방패!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0014_aurora_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "By ice and snow! Freeze!",
+    "zh-TW": "在霜寒前，停下！",
+    "zh-CN": "在霜寒前，停下！",
+    "ja": "氷雪の前に――眠れ。",
+    "ko": "눈보라 앞에 얼어붙어라!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0014_aurora_1",
+   "topic": {
+    "en": "Guest of Honor",
+    "zh-TW": "重要特邀嘉賓",
+    "zh-CN": "重要特邀嘉宾",
+    "ja": "特別ゲスト",
+    "ko": "특별한 초대 손님"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Endmin... If it's not too much trouble, could you participate in the drill?",
+      "zh-TW": "管理員，最近你要是有空的話……能邀請你參加這次的救援演練嗎？",
+      "zh-CN": "管理员，最近你要是有空的话……能邀请你参加这次的救援演练吗？",
+      "ja": "管理人、最近って時間ある？救援訓練に参加してもらいたいんだ。",
+      "ko": "관리자, 시간 괜찮으면... 이번 구조 훈련에 참여할 수 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Is this the same rescue drill you proposed for the Dijiang?",
+      "zh-TW": "救援演練？是你之前想在帝江號推廣的那個活動嗎？",
+      "zh-CN": "救援演练？是你之前想在帝江号推广的那个活动吗？",
+      "ja": "救援訓練って、前に帝江号でも広めたいって言っていたものかな。",
+      "ko": "구조 훈련? 전에 네가 제강호에서 진행하고 싶어 했던 이벤트 말이야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Yes! Supervisor Perlica approved it earlier, and with no urgent missions, I started the prep!",
+      "zh-TW": "對！之前我跟佩麗卡監督提過……她也覺得很有意義。趁最近還沒接到救援隊的新任務，我趕快籌備起來了。",
+      "zh-CN": "对！前段时间我和佩丽卡监督提过……她也觉得很有意义。趁着最近还没接到救援队的新任务，我赶紧筹备起来了。",
+      "ja": "うん、そう！この前ペリカ監察官にも話したら、「価値があることだ」って言ってくれてね。最近は救援隊の新しい任務もないから、急いで準備を進めてるんだ。",
+      "ko": "맞아! 얼마 전에 펠리카 감독관한테도 말했더니, 감독관도 의미 있는 이벤트라고 했었어. 마침, 요즘 새 구조 임무도 없을 때라 얼른 준비하기 시작했지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "But the initial drill scenario I planned turned out to be too challenging. Even the operators who came to help with preparations couldn't complete it...",
+      "zh-TW": "不過最早安排的演練項目好像難度有點大，來幫我做準備工作的幾位幹員都沒有完成……",
+      "zh-CN": "不过最早安排的项目好像难度有点大，来帮我做准备工作的几位干员都没能完成……",
+      "ja": "でも、仮プログラムの難易度が少し高かったみたい……予行演習に参加してくれたオペレーターも、誰も最後までできなくて。",
+      "ko": "근데 처음에 준비했던 내용이 너무 어려웠는지, 준비 작업을 도와준 몇몇 오퍼레이터들도 끝까지 구조 훈련을 완성하지 못하더라고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Since the previous version was too demanding, I've simplified the official drill this time. I removed all the specialized medical protocols and kept only the essential emergency response procedures.",
+      "zh-TW": "這次正式演練我就把專業的保養流程都省略了，只保留了一些緊急情況的處理手段。",
+      "zh-CN": "这次正式演练我就把专业的护理流程都省略了，只保留了一些紧急情况的处理手段。",
+      "ja": "本番の訓練では、専門的な看護手順は全部省いて、緊急時の対応だけ残してみたよ。",
+      "ko": "그래서 이번 정식 훈련에선 전문적인 간호 절차는 다 생략하고, 일부 응급 상황에 대처하는 내용만 남겨뒀어."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Can you tell me more?",
+         "zh-TW": "能詳細介紹一下嗎？",
+         "zh-CN": "能具体介绍一下吗？",
+         "ja": "もう少し詳しく聞いてもいいかな。",
+         "ko": "구체적으로 소개해 줄래?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "Of course! Let me walk you through the general plan —",
+         "zh-TW": "當然可以！我把大概的方案說一下吧——",
+         "zh-CN": "当然可以！我把大概的方案说一下吧——",
+         "ja": "もちろんだよ。簡単に説明すると……",
+         "ko": "물론이지! 일단 대략적인 계획을 설명해 줄게..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "We've broken it down into three key drills: \"What to do when the Endministrator collapses\", \"rescue techniques for Endministrator trapped in a Blighted snowstorm\", and \"securing rations for a starving Endministrator\".",
+         "zh-TW": "總共分三個項目，分別是「當管理員突然暈倒了該怎麼辦」、「如何救出被困在侵蝕暴風雪裡的管理員」、「如何在野外幫飢餓的管理員找到食物」。",
+         "zh-CN": "总共分三个项目，分别是“当管理员突然晕倒了该怎么办”“如何救出被困在侵蚀雪暴里的管理员”“怎样在野外帮饥饿的管理员找到食物”。",
+         "ja": "まず、項目は全部で3つ。「管理人が急に倒れたときの対応」、「侵蝕吹雪に巻き込まれた管理人の救出方法」、「管理人がお腹を空かせたときの食料確保」……",
+         "ko": "훈련 항목은 총 3가지야. '관리자가 갑자기 쓰러졌을 때의 대처 방법', '침식 눈보라 속에 갇힌 관리자를 구출하는 방법', '야외에서 굶주린 관리자를 위해 음식을 찾는 방법'."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "The first drill is mandatory. For the other two, you only need to complete one to pass.",
+         "zh-TW": "其中第一個項目是必須完成的，後面兩個可以任選一個完成——都算通過。",
+         "zh-CN": "其中第一个项目是必须完成的，后面两个可以任选一个完成——都算通过。",
+         "ja": "1つ目は必須項目で、残り2つは選択項目。どっちかを選んで、基準に達したら合格できるよ。",
+         "ko": "이 3가지 항목 중에, 첫 번째는 반드시 완성해야 하고, 나머지는 둘 중 하나만 해도 통과로 인정돼!"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "And what do you need me to do by then?",
+         "zh-TW": "到時候需要我做點什麼？",
+         "zh-CN": "到时候需要我做些什么？",
+         "ja": "参加したら、何をすればいいの？",
+         "ko": "그럼 뭘 하면 되는데?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "Ah... How do I put this...?",
+         "zh-TW": "這個……我想想該怎麼說……",
+         "zh-CN": "这个……我想想该怎么说……",
+         "ja": "えっと……なんて言ったらいいんだろう……",
+         "ko": "그게... 어떻게 설명해야 할까..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "Basically ... we'll need you to play the part. Whether that's \"unconscious patient on the field,\" \"distressed survivor in a Blighted snowstorm,\" or \"starving traveler who forgot their rations.\"",
+         "zh-TW": "就是……需要你在對應的項目裡扮演「在外突然暈倒的病人」、「困在侵蝕暴風雪裡的求救者」、「在野外餓過頭的旅者」什麼的……",
+         "zh-CN": "就是……需要你在对应的项目里扮演下“在外突然晕倒的病人”“困在侵蚀雪暴里的求救者”“在野外饿过头的旅者”什么的……",
+         "ja": "……「外で突然倒れた患者」「侵蝕吹雪に巻き込まれて救助を求める遭難者」「野外でお腹を空かせてしまった人」の役を、お願いできないかな……",
+         "ko": "그러니까... 관리자는 훈련에서 각각 '밖에서 갑자기 쓰러진 환자', '침식 눈보라 속에 갇힌 사람', 그리고 '야외의 굶주린 여행자'의 연기를 하면 돼..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "Don't worry, it'll be a breeze! You just focus on looking dramatically helpless. I'll do the demo!",
+         "zh-TW": "都很輕鬆的！全程只需要躺在那裡就好了！演示的部分交給我就好！",
+         "zh-CN": "都很轻松的！全程只需要躺在那里就好啦！演示的部分交给我就好！",
+         "ja": "どれも、楽なはず！ずっと横になってて大丈夫……実演の部分は、全部私がやるから！",
+         "ko": "아주 간단해! 그냥 누워 있기만 하면 돼! 다른 연출은 나한테 맡겨!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Why do I keep getting rescued?",
+         "zh-TW": "為什麼都是我扮演被救的人？",
+         "zh-CN": "为什么都是我扮演被救的人？",
+         "ja": "なんで全部……救けられる側なんだろう。",
+         "ko": "근데 왜 모든 구조 대상이 다 나야?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Why don't you just use a dummy? I don't have to play a role in every drill, do I?",
+         "zh-TW": "感覺換成假人扮演也可以吧？好像不需要都讓我來？",
+         "zh-CN": "感觉换成假人扮演也可以吧？好像不需要都让我来？",
+         "ja": "人形で代用できないのかな。全部自分じゃなくてもいいんじゃ……",
+         "ko": "마네킹으로 대체해도 되잖아? 굳이 내가 안 해도 될 것 같은데?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Well... it's because everyone here at Endfield looks up to you, Endmin. I figured having you personally involved would ... uh, motivate more volunteers to sign up!",
+      "zh-TW": "這是因為……在終末地這裡，大家最敬仰的就是管理員了嘛。我就想，要是管理員在的話，一定會有很多人積極參與的……",
+      "zh-CN": "这是因为……在终末地这里，大家最敬仰的就是管理员了嘛。我就想，要是管理员在的话，肯定能有很多人积极参与的……",
+      "ja": "だって、エンドフィールドのみんなが一番尊敬してるのは管理人だから。もし管理人が参加してくれたら、もっと参加してくれる人も増えると思うんだ。",
+      "ko": "그건... 엔드필드에서 가장 존경받는 사람이 바로 관리자니까... 관리자가 현장에 있으면 다들 훨씬 적극적으로 참여할 거라고 생각했거든..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Which is ... why I came up with this plan...",
+      "zh-TW": "所以才……想了這個辦法……",
+      "zh-CN": "所以才……想了这个办法……",
+      "ja": "それで、これならどうかなぁって……",
+      "ko": "그래서... 이 방법을 생각해 낸 건데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Sorry, I ... I should've explained properly from the start. I just worried you'd say no if I asked outright, and then I ... ended up making it even more awkward.",
+      "zh-TW": "抱歉，對不起，我應該一開始就跟你講明這個原因的……不該因為擔心你不答應就繞了這麼一大圈……",
+      "zh-CN": "抱歉，对不起，我应该一开始就跟你讲明这个原因的……不该因为担心你不答应就绕了这么一大圈……",
+      "ja": "ごめんなさい……最初から、ちゃんと理由を話すべきだったよね。断られたらって、遠回しに言っちゃった……",
+      "ko": "미안, 처음부터 제대로 이유를 설명해야 했는데... 관리자가 거절할까 봐 빙빙 돌려서 말했어..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I mean, it's not too late. But ... can I play a different role?",
+         "zh-TW": "現在和我說也不晚。不過，我能換個演的身分嗎？",
+         "zh-CN": "现在和我说也不晚。不过，我能换个演的身份吗？",
+         "ja": "今言ってくれたんだ。遅くなんかないよ。でも、他の役をやってみたい。",
+         "ko": "지금 말해도 늦지 않았어. 근데, 다른 역할로 바꾸면 안 될까?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "All good. But I'd also like to try something else aside from the rescuee...",
+         "zh-TW": "沒關係。不過除了被救的人，我還想演點別的……",
+         "zh-CN": "没关系。不过除了被救的人，我还想演点别的……",
+         "ja": "気にしなくてもいいよ。でも、救けられる役以外もやってみたい。",
+         "ko": "괜찮아. 근데 구조 대상 말고, 다른 역할로 바꾸고 싶은데..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Oh of course! As our special guest, you're welcome to play anything you like!",
+      "zh-TW": "可以的！作為特邀嘉賓，你想演什麼都沒問題！",
+      "zh-CN": "可以的！作为特邀嘉宾，你想演什么都没问题！",
+      "ja": "うん、もちろん！「特別ゲスト」なんだからね。やりたい役をやっていいよ！",
+      "ko": "그럼! 관리자는 특별한 초대 손님이니까, 어떤 역할이든 다 문제없어!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Wait, does that mean ... you're actually agreeing to participate in the drill?",
+      "zh-TW": "等等，這麼說……管理員你是答應參加這次演練了嗎？",
+      "zh-CN": "等等，这么说……管理员你是答应参加这次演练了吗？",
+      "ja": "あ、ってことは……管理人、訓練に参加してくれる？",
+      "ko": "어? 그럼... 이번 훈련에 참여한다는 뜻이야?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Yep, see you then.",
+         "zh-TW": "嗯，到時候見。",
+         "zh-CN": "嗯，到时候见。",
+         "ja": "うん。そのときに、また。",
+         "ko": "응, 그때 봐."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Yeah. I'll prepare myself.",
+         "zh-TW": "是啊，我會好好準備的。",
+         "zh-CN": "是啊，我会好好准备的。",
+         "ja": "参加する。しっかり準備もしておくよ。",
+         "ko": "응, 열심히 준비해 볼게."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Great! I'll send you the updated drill protocol right away!",
+      "zh-TW": "太好了！我馬上就把最新的流程方案傳給你！",
+      "zh-CN": "太好了！我这就把最新的流程方案发给你！",
+      "ja": "嬉しいなぁ……じゃあ、最新のプログラムを送るね。",
+      "ko": "정말? 다행이다! 그럼 지금 바로 최신 훈련 절차 파일을 보내줄 테니, 한번 확인해 줘!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "I'll treat you to my specialty dish after the drill!",
+      "zh-TW": "等演練結束，我請管理員吃我最拿手的一道菜作為謝禮吧！",
+      "zh-CN": "等演练结束，我请管理员吃我最拿手的一道菜作为谢礼吧！",
+      "ja": "訓練が終わったら……私の一番得意な料理を作って、ご馳走するから！",
+      "ko": "훈련이 끝나면, 내가 가장 자신 있는 요리를 대접할게!"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "File [Endfield Emergency Rescue Drill Protocol v4.2.1] Accepted",
+      "zh-TW": "檔案[終末地緊急救援演練流程方案_4.2.1]已接收",
+      "zh-CN": "文件[终末地应急救援演练流程方案_4.2.1]已接收",
+      "ja": "ファイル「エンドフィールド緊急救援訓練プログラム_4.2.1」を受信しました",
+      "ko": "파일 [엔드필드 응급 구조 훈련 절차 계획_4.2.1] 수신 완료"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0014_aurora_2",
+   "topic": {
+    "en": "Flavor Enhancement Plan",
+    "zh-TW": "口味改良方案",
+    "zh-CN": "口味改良方案",
+    "ja": "料理の改良レシピ",
+    "ko": "요리법 개량 방안"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Endministrator, can I ask you a few questions about your food preferences?",
+      "zh-TW": "管理員，我能問你幾個關於口味的問題嗎？",
+      "zh-CN": "管理员，我能问你几个关于口味的问题吗？",
+      "ja": "管理人。どんな味が好きか、聞いてもいい？",
+      "ko": "관리자, 평소 입맛에 대해 몇 가지 물어봐도 돼?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sure. Are you treating me?",
+         "zh-TW": "可以是可以，不過你是想請我吃飯嗎？",
+         "zh-CN": "可以是可以，不过你是想请我吃饭吗？",
+         "ja": "もちろんいいよ。食事に誘ってくれるのかな。",
+         "ko": "그럼. 근데 갑자기 입맛은 왜? 밥 사주려고?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "You ... could say so.",
+         "zh-TW": "也……差不多吧……",
+         "zh-CN": "也……差不多吧……",
+         "ja": "うん……そ、そんなところ……",
+         "ko": "음... 뭐, 비슷해..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Any time. But why are you asking?",
+         "zh-TW": "隨時歡迎。但為什麼突然會問這個？",
+         "zh-CN": "随时欢迎。但为什么突然会问这个？",
+         "ja": "うん、いいよ。でも、急にどうしたの？",
+         "ko": "얼마든지 물어봐. 근데 갑자기 입맛은 왜?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "Well... I'm just curious!",
+         "zh-TW": "這個……就是想瞭解一下！",
+         "zh-CN": "这个……就是想了解下！",
+         "ja": "それは……ちょっと、知りたくて。",
+         "ko": "그게... 그냥 좀 궁금해서!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Was kinda embarrassed to ask ... but figured I should learn from my mistakes. So, straight from the source this time!",
+      "zh-TW": "本來有點不好意思的。不過想來想去，我還是決定吸取上次的教訓，直接來問管理員本人啦。",
+      "zh-CN": "本来有点不好意思的。不过想来想去，我还是决定吸取上次的教训，直接来问管理员本人啦。",
+      "ja": "直接聞くの、恥ずかしいんだけど……前回の反省を活かして、今回は思い切って聞くことにしたんだ。",
+      "ko": "사실 이렇게 직접 물어보는 게, 조금 쑥스럽긴 한데... 지난번 교훈도 있으니, 이번엔 그냥 직접 물어보는 게 나을 것 같아서..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Alright Endministrator. First question! Do you prefer your cheese sweet or salty?",
+      "zh-TW": "那麼我就開始問了喔——管理員，你比較喜歡甜一點的起司，還是鹹一點的起司？",
+      "zh-CN": "那么我就开始问啦——管理员，你比较喜欢甜一点的奶酪，还是咸一点的奶酪？",
+      "ja": "じゃあ、早速いくね。管理人は甘めのチーズと、しょっぱいチーズ、どっちが好き？",
+      "ko": "그럼, 바로 시작할게! 달콤한 치즈랑 짭짤한 치즈, 어느 쪽이 더 좋아?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sweet.",
+         "zh-TW": "甜一點的。",
+         "zh-CN": "甜一点的。",
+         "ja": "甘めのチーズかな。",
+         "ko": "달콤한 거."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "I see! Bit more sugar then...",
+         "zh-TW": "明白了！看來得多加一點糖……",
+         "zh-CN": "明白了！看来得多加一点糖……",
+         "ja": "そっかぁ……なら、ちょっと砂糖を増やそうかな……",
+         "ko": "알겠어! 그럼 설탕을 더 추가해야겠네..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Salty.",
+         "zh-TW": "鹹一點的。",
+         "zh-CN": "咸一点的。",
+         "ja": "しょっぱいチーズかな。",
+         "ko": "짭짤한 거."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "Okay! Different type of cheese then...",
+         "zh-TW": "好的！看來最好換一種起司……",
+         "zh-CN": "好的！看来最好换一种奶酪……",
+         "ja": "了解！チーズの種類、変えなきゃだね。",
+         "ko": "좋아! 그럼 다른 치즈로 바꿔야겠네..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Bit of both.",
+         "zh-TW": "不鹹也不淡的。",
+         "zh-CN": "不咸不淡的。",
+         "ja": "どっちも微妙。",
+         "ko": "달콤하지도 않고 짭짤하지도 않은 거."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "Got it... Gotta nail that sweet-salty balance then.",
+         "zh-TW": "原來如此……必須注意最後的調味了……",
+         "zh-CN": "原来如此……必须注意最后的调味了……",
+         "ja": "なるほどね……最後の味付けは、注意しなくちゃだ……",
+         "ko": "그렇구나... 그럼 마지막에 간을 잘 맞춰야겠네..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Next question! Which can you tolerate better: the smell of fin scales or spoiled rice?",
+      "zh-TW": "然後是第二個問題——鱗腥味和餿米味，哪種味道聞起來你更能接受呢？",
+      "zh-CN": "然后是第二个问题——鳞腥味和馊米味，哪种味道闻起来你更能接受呢？",
+      "ja": "それじゃ、次の質問。鱗獣の生臭さと、発酵した米の匂いなら、どっちが我慢できそう？",
+      "ko": "다음 질문, 린수 비린내랑 쉰 쌀 냄새, 둘 중 어느 쪽이 더 나아?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Fin scales... I guess?",
+         "zh-TW": "鱗腥味吧。稍微能接受一點……",
+         "zh-CN": "鳞腥味吧。稍微能接受一点……",
+         "ja": "鱗獣の生臭さなら……多少は、我慢できると思う。",
+         "ko": "그나마 린수 비린내가 조금 더 나은 것 같아..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "Noted. So all soft cheeses stay on the menu...",
+         "zh-TW": "瞭解了，看來軟質起司都可以保留了……",
+         "zh-CN": "了解了，看来软质奶酪都可以保留了……",
+         "ja": "うん。じゃあ、ソフトチーズは残して、っと……",
+         "ko": "알겠어. 그럼 연질 치즈는 계속 사용해도 되겠다..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Spoiled rice. But not too strong...",
+         "zh-TW": "餿米味。但也不能太濃……",
+         "zh-CN": "馊米味。但也不能太浓……",
+         "ja": "強すぎなければ、発酵した米の匂いのほうが……",
+         "ko": "쉰 쌀 냄새 쪽이 낫긴 한데... 너무 진하면 안 될 것 같아..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "Got it. Maybe lean harder on aged cheeses then...",
+         "zh-TW": "懂了，或許可以多用一點硬質起司……",
+         "zh-CN": "懂了，或许可以多用一点硬质奶酪……",
+         "ja": "わかったよ。それなら、ハードチーズを多めに使うといいのかな。",
+         "ko": "알겠어. 그럼 경질 치즈를 조금 더 많이 사용해도 되겠다..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "...Neither.",
+         "zh-TW": "……感覺都不能接受。",
+         "zh-CN": "……感觉都不能接受。",
+         "ja": "……ごめん。どっちも無理だ。",
+         "ko": "...둘 다 좀 힘들 것 같아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Snowshine",
+         "zh-TW": "晝雪",
+         "zh-CN": "昼雪",
+         "ja": "スノーシャイン",
+         "ko": "스노우샤인"
+        },
+        "text": {
+         "en": "Welp ... guess we're going all fresh mozzarella on this one.",
+         "zh-TW": "這樣嗎……好吧，這樣只能全用口味比較溫和的新鮮起司了……",
+         "zh-CN": "这样吗……好吧，这下只能全用口味比较温和的鲜奶酪了……",
+         "ja": "全然だよ。だったら、いっそ全部、マイルドなフレッシュチーズにしようかな……？",
+         "ko": "아, 그래... 그럼 맛이 더 부드러운 신선한 치즈만 사용해야겠네..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Alrighty! Thank you for letting me know, Endministrator!",
+      "zh-TW": "好！都記下來了！管理員，謝謝你願意告訴我這些！",
+      "zh-CN": "好！都记下来了！管理员，谢谢你愿意告诉我这些！",
+      "ja": "うん、よし！全部メモできたよ。管理人、答えてくれてありがとう。",
+      "ko": "음! 좋아! 전부 기록해 뒀어! 알려줘서 고마워!"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Are you doing a survey about cheese flavors?",
+         "zh-TW": "這是關於起司的口味調查嗎？",
+         "zh-CN": "这是关于奶酪的口味调研吗？",
+         "ja": "これは、チーズの味に関する調査？",
+         "ko": "치즈에 관한 취향 조사 같은 건가?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Are you treating me to cheese?",
+         "zh-TW": "你要請我吃的就是起司？",
+         "zh-CN": "你要请我吃的就是奶酪？",
+         "ja": "もしかして、ご馳走してくれるのはチーズ？",
+         "ko": "밥 사준다는 게, 치즈를 말하는 거였어?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Wait, no! I'm just tweaking my specialty, cheese fondue! Gotta perfect the recipe for when I treat you, remember?",
+      "zh-TW": "不是啦！只是想根據管理員的口味，再調整一下我的拿手好菜——起司火鍋的改良配方，之前說好了要請你吃的嘛！",
+      "zh-CN": "不是啦！只是想根据管理员的口味，再调整下我的拿手好菜——奶酪火锅的改良配方，之前说好了要请你吃的嘛！",
+      "ja": "ち、違うよ！管理人の好みに合わせて、私の得意料理……チーズフォンデュの改良レシピを作りたかったんだ。この前、ご馳走するって約束したからね。",
+      "ko": "아니야! 그냥 내가 가장 자신 있는 요리인 치즈 퐁듀를 관리자 입맛에 맞게 조금 개량해 보려는 거야. 전에 내가 요리를 대접하겠다고 약속했잖아!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Back in the rescue team, I tried making fondue once ... but nobody really seemed to like it, even though I followed the recipe perfectly...",
+      "zh-TW": "以前我在救援隊也做過起司火鍋，但很快發現大家好像都不是很愛吃……明明我都是按照最標準的配方做的……",
+      "zh-CN": "以前我在救援队也做过奶酪火锅，但很快发现大家好像都不是特别爱吃……明明我都是按照最标准的配方做的……",
+      "ja": "救援隊で作ったとき、みんなあんまり気に入らなかったみたいで。ちゃんと、定番のレシピ通りに作ったはずなのに……",
+      "ko": "예전에 구조대에 있을 때도 치즈 퐁듀를 만든 적이 있는데, 다들 별로 좋아하는 것 같지는 않더라고... 분명 정석 요리법대로 했는데 말이야..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "To me, cheese fondue is the ultimate comfort food! I just know everyone would love it too ... if only they gave it a proper chance.",
+      "zh-TW": "對我來說，起司火鍋簡直是世界上最棒的家常菜了！我真的很想讓大家都能體會到它的美味之處。",
+      "zh-CN": "对我来说，奶酪火锅简直是世界上最棒的家常菜了！我真的很想让大家都能体会到它的美味之处。",
+      "ja": "私にとっては、チーズフォンデュは世界一美味しい家庭料理。みんなも、美味しさを知ってくれたらって思うんだ。",
+      "ko": "나한테 치즈 퐁듀는 세상에서 가장 맛있는 가정식이거든! 그래서 난 모든 사람들이 그 매력을 느꼈으면 해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That's why you want to modify the recipe? Even if it's no longer authentic?",
+      "zh-TW": "所以才想要改良？即使不是原汁原味的？",
+      "zh-CN": "所以才想要改良？即使不是原汁原味的？",
+      "ja": "だから改良しようとしているんだね。「定番のレシピ」通りの味じゃなくてもいいのかな。",
+      "ko": "그래서 개량하려는 거구나? 많은 사람들이 더 쉽게 받아들일 수 있게 하려고?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Yep! A teammate told me, \"Talosians' tastes change by region. Want folks to love your funky fondue? Adapt or die.\" ... Maybe less \"die,\" but you get the idea!",
+      "zh-TW": "嗯！當時有個隊友跟我說，塔衛二不同地方的人口味也不太一樣，如果想讓大家接受這樣一道獨特風味的菜，就最好做出讓步與改變……",
+      "zh-CN": "嗯！当时有个队友和我说，塔卫二不同地方的人口味也不太一样，如果想让大家接受这样一道独特风味的菜，就最好做出让步与改变……",
+      "ja": "うん！隊員に言われたことがあるんだ。タロⅡでは地域によって、味の好みも違うって。みんなに受け入れてもらうには、工夫も必要だって。",
+      "ko": "맞아! 그때 어떤 대원이 그랬는데... 탈로스 II는 지역마다 입맛이 다르니까, 독특한 풍미의 요리를 받아들일 수 있게 하려면, 어느 정도의 타협과 변화가 필요하다고 했어..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "That's when it hit me: Getting people to love fondue would take way more than just nailing the \"authentic\" version.",
+      "zh-TW": "我那時才意識到，如果想要讓大家接受起司火鍋，可能要付出比「原汁原味地做出它」更多的努力。",
+      "zh-CN": "我那时才意识到，如果想要让大家接受奶酪火锅，可能要付出比“原汁原味地做出它”更多的努力。",
+      "ja": "それで、気づいた。みんながおいしく食べられるチーズフォンデュにするには、「定番のレシピ」だけじゃ足りない。もっと努力しないと……",
+      "ko": "그때 깨달았어. 더 많은 사람이 치즈 퐁듀를 즐길 수 있게 하려면, 단순히 '본래 그대로의 맛을 살리는 것'보다 훨씬 더 많은 노력이 필요하다는걸."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "But you're not going to give up just because of this, are you?",
+      "zh-TW": "但你不會因為這樣就放棄的，對吧？",
+      "zh-CN": "但你不会因为这样就放弃的，对吧？",
+      "ja": "でも、そこで諦めなかったんだね。",
+      "ko": "그렇다고 포기하진 않을 거지?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Exactly! Just because something's tough doesn't mean it's not worth doing.",
+      "zh-TW": "沒錯，總不能因為重要的事做起來很困難，就放棄去做嘛。",
+      "zh-CN": "没错，总不能因为重要的事做起来很困难，就放弃去做嘛。",
+      "ja": "うん。難しくても、諦めちゃダメだって思うから。",
+      "ko": "당연하지. 이렇게 중요한 일인데, 어렵다고 해서 포기할 순 없잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "If I keep at it and whip up different variations of fondue, more folks will start loving it.",
+      "zh-TW": "我相信只要我堅持下去，為不同人改良出不同的口味，遲早能讓更多人接受起司火鍋的。",
+      "zh-CN": "我相信只要我坚持下去，为不同人改良出不同的口味，迟早能让更多人接受奶酪火锅的。",
+      "ja": "私、信じてる。みんなの好きなものを取り入れて行ったら、もっともっとたくさんの人にチーズフォンデュを好きになってもらえるはず！",
+      "ko": "계속 노력해서 여러 입맛에 맞게 끊임없이 개량하다 보면, 언젠가 더 많은 사람들이 치즈 퐁듀를 좋아하게 될 거라고 믿어."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Well, I'm definitely looking forward to that now.",
+         "zh-TW": "聽你這麼說，我都有點期待了。",
+         "zh-CN": "听你这么说，我都有点期待了。",
+         "ja": "君の話を聞いていたら、楽しみになってきたよ。",
+         "ko": "그 얘기를 들으니 벌써 기대되는데?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I want a taste of it now.",
+         "zh-TW": "有點想快點吃到了。",
+         "zh-CN": "有些想快点吃到了。",
+         "ja": "なんだか、もう食べたい気分だ。",
+         "ko": "그 얘기를 들으니 빨리 먹어보고 싶다."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Got your perfect version all planned out. I won't let you down!",
+      "zh-TW": "嘿嘿，我已經想好該怎麼做管理員會喜歡的改良版本了！一定不會讓你失望的！",
+      "zh-CN": "嘿嘿，我已经想好该怎么做管理员会喜欢的改良版本了！肯定不会让你失望的！",
+      "ja": "ふふ、管理人が気に入ってくれそうな改良版レシピ、もう考えちゃった。絶対においしいって思ってもらえるのを作るよ！",
+      "ko": "헤헤, 어떻게 관리자 입맛에 맞게 개량할지 이미 다 생각해 놨어! 절대 실망시키지 않을 거야!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Just swing by the canteen when it's ready. And bring everyone! The more, the melt-ier!",
+      "zh-TW": "到時候等我做好了，管理員只要來餐廳就可以啦！也可以叫上其他人來一起品嚐喔！",
+      "zh-CN": "到时候等我做好了，管理员只要来食堂就行啦！也可以叫上其他人来一起品尝哦！",
+      "ja": "あとで、食堂まで来てくれる？他のみんなも誘っていいよ。一緒に味見してほしいんだ！",
+      "ko": "완성되면 얘기할게! 나중에 기회 되면 다른 사람들도 같이 불러서 같이 먹자!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0014_aurora_3",
+   "topic": {
+    "en": "Panorama of the Peaks",
+    "zh-TW": "雪山上的風景",
+    "zh-CN": "雪山上的风景",
+    "ja": "雪山の風景",
+    "ko": "설산의 풍경"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Endmin, last fondue night you mentioned being curious about the northern snowpeaks, right?",
+      "zh-TW": "管理員，上次你在吃起司火鍋的時候不是說對北方的雪山很好奇嗎？",
+      "zh-CN": "管理员，上回你在吃奶酪火锅的时候不是说对北方的雪山很好奇吗？",
+      "ja": "管理人、この前チーズフォンデュを食べてるときに、北方の雪山に興味があるって言ってたよね？",
+      "ko": "관리자, 지난번에 같이 치즈 퐁듀 먹을 때, 북쪽 설산이 궁금하다고 했잖아?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "I snapped some shots between missions. Thought you might wanna see the real deal!",
+      "zh-TW": "這段時間趁著任務空檔，我拍了一些這邊的照片，你有空可以看看喔！",
+      "zh-CN": "这段时间趁着任务间隙，我拍了一些这边的照片，你有空可以看看哦！",
+      "ja": "任務の合間に、写真を何枚か撮ってみたよ。よかったら、見てみてね。",
+      "ko": "이번에 임무를 수행하는 틈을 타서 그쪽 풍경을 좀 찍어왔거든? 시간 나면 한번 봐봐!"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "File [Snowspeaks (2420 images)] Accepted",
+      "zh-TW": "檔案[雪山風景照（2420張）]已接收",
+      "zh-CN": "文件[雪山风景照（2420张）]已接收",
+      "ja": "ファイル「雪山の写真（2420枚）」を受信しました",
+      "ko": "파일 [설산 풍경 (2420장)] 수신 완료"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You took 2420?!",
+         "zh-TW": "竟然有這麼多張？",
+         "zh-CN": "竟然有这么多张？",
+         "ja": "こんなにたくさん？",
+         "ko": "이렇게 많다고?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That's a huge file...",
+         "zh-TW": "好大的檔案……",
+         "zh-CN": "好大的文件……",
+         "ja": "随分、大きいファイルだね……",
+         "ko": "엄청난 파일이네..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Okay... I might have gone overboard. Tried to pick just a few, but how do you choose between 2420 perfect snowscapes?!",
+      "zh-TW": "這個……其實本來是想篩選一下再發過來的，但我挑的時候覺得每張都好難割捨",
+      "zh-CN": "这个……其实本来是想筛选一下再发过来的，但我挑的时候觉得每张都好难割舍",
+      "ja": "えっと……本当は選んでから送るつもりだったんだよ。でも、どれもいいなって思って",
+      "ko": "그게... 사실은 일부만 추려서 보내려고 했는데, 고르다 보니 도저히 버릴 게 없더라고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Sure, some shots are blurry. But they capture every mood of the mountains! Snow-choked cliffs, sunlit ridges, the summit's bite ... even the soggy foothills!",
+      "zh-TW": "雖然有的拍得沒多好，但也記錄了各種雪山的不同面……下雪時的樣子、晴朗時的樣子、最高處的樣子、最低處的樣子……各有特色呢！",
+      "zh-CN": "虽然有的拍得没多好，但也记录了各种雪山的不同面……下雪时的样子、晴朗时的样子、最高处的样子、最低处的样子……各有特色呢！",
+      "ja": "ちょっと微妙な写真もあるんだけど、雪山のいろんな姿を記録できたんだ。雪が降ってるとき、晴れてるとき、山頂やふもとから……それぞれ、違った魅力があるよね。",
+      "ko": "잘 못 나온 사진도 있지만, 설산의 다양한 모습을 다 보여 주고 싶었어... 눈이 내릴 때의 모습, 맑을 때의 모습, 가장 높은 곳에서 본 모습, 가장 낮은 곳에서 본 모습... 다 각기 다른 매력이 있거든!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "After going through them all ... I still feel like I didn't capture enough. Those snowpeaks have too many sides to ever fit in a photo.",
+      "zh-TW": "所以等我翻完了所有的照片，甚至覺得自己拍得有點少了……還是沒有完全拍到北方雪山的全貌……",
+      "zh-CN": "所以等我翻完了所有的照片，甚至觉得自己拍得有点少了……还是没能完全拍到北方雪山的全貌……",
+      "ja": "全部見返してたら、むしろまだ足りないって思っちゃった……全部を写真に収めようなんて、無理なのはわかるけど……",
+      "ko": "나중에 모든 사진을 다 확인하고 나니, 오히려 너무 부족했던 게 아닌가 싶을 정도야... 결국 북쪽 설산의 전체 모습을 다 사진에 담지 못했지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You seem to really love snowpeaks ... and fondue.",
+      "zh-TW": "你真的很喜歡雪山……還有起司火鍋。",
+      "zh-CN": "你真的很喜欢雪山……还有奶酪火锅。",
+      "ja": "本当に雪山が好きなんだね……あと、チーズフォンデュも。",
+      "ko": "정말 설산을 좋아하는구나... 아, 치즈 퐁듀도."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Exactly! They're what made me feel it. That saving lives isn't just a duty. It's … like sharing the warmth of fondue in a blizzard.",
+      "zh-TW": "是啊，對我來說，它們都是我特別熱愛的事物……因為它們帶給我的美好，我才更真切地感受到救助生命的意義。",
+      "zh-CN": "是啊，对我来说，它们都是我特别热爱的事物……因为它们带给我的美好，我才更真切地感受到救助生命的意义。",
+      "ja": "うん、どっちも私にとっては特別なんだ。その美しさを知ったから、人を救うことの意味も、ちゃんとわかったって思う。",
+      "ko": "응, 다 내가 정말 사랑하는 것들이야... 그것들이 주는 아름다움 덕분에, 난 생명을 구하는 일의 의미도 더 진하게 느낄 수 있게 됐어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Those Terra peaks I saw in the forest? Gorgeous, sure ... but something always felt missing.",
+      "zh-TW": "雖然之前在那座森林裡，我也看到過泰拉的雪山，那些景色非常非常美麗，但總覺得少了點什麼……",
+      "zh-CN": "虽然之前在那座森林里，我也见到过泰拉的雪山，那些景色非常非常美丽，但总觉得少了些什么……",
+      "ja": "前……あの森林で、テラの雪山も見たんだ。すごくきれいだと思ったけど、何か足りない気もして……",
+      "ko": "예전에 그 숲속에서 테라의 설산을 본 적이 있었어... 물론, 그 경치도 정말 정말 아름다웠지만, 뭔가 부족한 느낌이 있었거든..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Then I finally stood on Talos-II's peaks. Blizzards howling, auroras spanning across the sky... and that's when it clicked.",
+      "zh-TW": "而當我真正踏上塔衛二的雪山，見識了屬於這裡的暴雪和極光，才總算明白我覺得少了的是什麼……",
+      "zh-CN": "而当我真正踏上塔卫二的雪山，见识了属于这里的暴雪和极光，才总算明白我觉得少了的是什么……",
+      "ja": "でも、タロⅡの雪山に立って、吹雪やオーロラを見て……足りないものが、わかったよ。",
+      "ko": "그러다가 실제로 탈로스 II의 설산에 올라, 이곳의 폭설과 오로라를 직접 마주하고 나서야, 그 부족했던 게 무엇인지 비로소 알게 됐어..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "No postcard or story can replace standing there ... wind stealing your breath, ice in your boots. That's when beauty means something.",
+      "zh-TW": "無論多麼美麗、多麼震撼人心的風景，都必須是親身經歷，親眼去看，才能真正有所體會，有所觸動。",
+      "zh-CN": "无论多么美丽、多么震撼人心的风景，都必须是亲身经历，亲眼去看，才能真正有所体会，有所触动。",
+      "ja": "きれいで、心を揺さぶられる風景だったとしても、自分がその場所に立って、自分の目でみないと、本当の「美しさ」はわからないんだって。",
+      "ko": "아무리 아름답고 웅장한 풍경이라도, 직접 경험하고 자신의 눈으로 봐야만, 진짜로 와닿고 마음이 움직이지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Some feelings ... just can't be captured.",
+      "zh-TW": "那種感受是任何影像……都無法替代的。",
+      "zh-CN": "那种感受是任何影像……都无法替代的。",
+      "ja": "どんな映像だって……代わりになんかならない。",
+      "ko": "그런 감각은 어떤 영상으로도 담아낼 수 없고... 대체할 수도 없어."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Even so, your photos still matter. They'll plant the same longing in others.",
+         "zh-TW": "不過記錄依然是有意義的，你拍的這些照片也會讓人對雪山生出不一樣的憧憬。",
+         "zh-CN": "不过记录依然是有意义的，你拍的这些照片也会让人对雪山生出不一样的憧憬。",
+         "ja": "でも、記録にはまた別の意味があると思うよ。君の写真を見て、雪山を直接見てみたいという気持ちが強くなった。",
+         "ko": "그래도 기록은 여전히 의미가 있잖아. 네가 찍은 사진들을 보면, 설산에 대해 또 다른 동경을 품게 되거든."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "After hearing you describe it ... I need to see those peaks for myself.",
+         "zh-TW": "聽你這麼說，我也想去親眼看看雪山上的風景了。",
+         "zh-CN": "听你这么说，我也想去亲眼看看雪山上的风景了。",
+         "ja": "話を聞いていたら、直接雪山の景色を見てみたくなった。",
+         "ko": "그렇게 말하니까, 나도 직접 내 눈으로 설산의 풍경을 보고 싶어졌어."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Glad to hear that! But if it's just the views you're after ... maybe try Kjersch.",
+      "zh-TW": "那就太好啦！不過，如果只是想看關於雪山的景色，管理員還可以考慮去耶爾什。",
+      "zh-CN": "那就太好啦！不过，如果只是想看关于雪山的景色，管理员还可以考虑去耶尔什。",
+      "ja": "ほんと？嬉しいなぁ！でも、もし雪山の景色を見てみたいって思うなら、イェルシェに行くのもおすすめかな。",
+      "ko": "정말? 너무 잘됐다! 근데 만약 단순히 설산의 경치를 보고 싶은 거라면, 옐시에 가보는 것도 좋을 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "One of our retired veterans told me Kjersch's peaks are just as stunning!",
+      "zh-TW": "我聽我的一位退役的前輩說過，那裡的雪山同樣很美麗！",
+      "zh-CN": "我听我的一位退役的前辈说过，那里的雪山同样很美丽！",
+      "ja": "引退した先輩から聞いたんだ。雪山、すっごくきれいなんだって。",
+      "ko": "은퇴한 선배가 그러는데, 거기 설산도 정말 아름답다고 했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Any peak, any view, just say the word and I'm there!",
+      "zh-TW": "當然啦，不管管理員想去哪邊的雪山，想看怎樣的山上風景，都可以叫上我喔！",
+      "zh-CN": "当然啦，不管管理员想去哪边的雪山，想看怎样的山上风景，都可以叫上我哦！",
+      "ja": "もちろん、管理人が行ってみたい雪山があったら、教えてくれる？私もついていくね。",
+      "ko": "물론, 관리자가 어느 설산에 가고 싶든, 어떤 풍경을 보고 싶든, 난 얼마든지 함께 할 수 있어!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Snowshine",
+      "zh-TW": "晝雪",
+      "zh-CN": "昼雪",
+      "ja": "スノーシャイン",
+      "ko": "스노우샤인"
+     },
+     "text": {
+      "en": "Guide or guard, I'll flex either role!",
+      "zh-TW": "嚮導或者護衛，哪個我都很擅長的！",
+      "zh-CN": "向导或者护卫，哪个我都很擅长的！",
+      "ja": "案内も、護衛も……どっちも得意だから！",
+      "ko": "가이드든 경호든, 다 자신 있으니, 맡겨만 줘!"
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 0
+}

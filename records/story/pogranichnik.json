@@ -1,0 +1,2811 @@
+{
+ "slug": "pogranichnik",
+ "gameId": "chr_0029_pograni",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Pogranichnik \nGENDER: Male \nAUTHENTICATION: Rhodes Island \nDOB: July 23 \nRACE: Liberi \n[ORIPATHY INFECTION STATUS] \nOripathy negative, based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Excellent \nCOMBAT SKILL: Excellent \nTACTICAL ACUMEN: Outstanding\nORIGINIUM ARTS ASSIMILATION: Standard",
+    "zh-TW": "【代號】駿衛\n【性別】男\n【身分認證】羅德島\n【生日】7月23日\n【種族】黎博利\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：優良\n作戰技巧：優良\n戰術規劃：卓越\n源石技藝適應性：標準",
+    "zh-CN": "【代号】骏卫\n【性别】男\n【身份认证】罗德岛\n【生日】7月23日\n【种族】黎博利\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：优良\n作战技巧：优良\n战术规划：卓越\n源石技艺适应性：标准",
+    "ja": "【コードネーム】ポグラニチニク\n【性別】男\n【身分証明】ロドス・アイランド\n【誕生日】7月23日\n【種族】リーベリ\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：優秀\n戦闘技術：優秀\n戦術立案：卓越\nアーツ適性：標準",
+    "ko": "[코드네임] 포그라니치니크\n[성별] 남\n[신분 인증] 로도스 아일랜드\n[생일] 7월 23일\n[종족] 리베리\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 우수\n작전 기술: 우수\n전술 계획: 탁월\n오리지늄 아츠 적응성: 표준"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Pogranichnik (ID name: Khorsyn) is a Rhodes Island liaison and a Banner Commander for the Order of Steel Oath. He spent years at the Polar Circle front in the north of Talos-II. Given the needs of the current situation, Pogranichnik joined Endfield Industries to provide relevant combat support. \n\nPogranichnik uncompromising looks of a professional soldier left me quite an impression when I first met him. He acts with great decisiveness and alacrity, and never with doubt nor hesitation. Once he promises to take upon a task, no matter how small or severe, he would see it through to the best of his abilities. \nAlthough Pogranichnik displayed no obvious preferences for the Big Three of the Band Accord, he exhibited a special emotional connection to the Mat' Gorodov of the UWST. He would not mind talking to crew mates seeking shade in the city plate construction yards. There were even occasions when he met UWST crew mates confused about life or suffering through the pain of shattered dreams. Pogranichnik is exceptional at boosting morale, even for commoners faraway from the battlefield. He always found a way to instill confidence back into people's hearts. Oathkeepers and UWST crew mates who knew Pogranichnik often highlight his cold, sharp, yet endearing sense of humor. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "駿衛，本名赫爾森，羅德島駐外幹員，鐵誓軍盾衛旗隊指揮官，常年駐紮在塔衛二北方的環北極圈前線。因局勢需要，現加入終末地工業，協助執行相關作戰任務。\n\n第一次見到駿衛，他不折不扣的軍人姿態就給我留下了深刻的印象。駿衛行事果斷且迅速，絕不拖泥帶水。並且無論事情大小，只要他給了承諾，就一定會盡全力做到。\n雖然駿衛沒有對《環帶公約》的三巨頭表現出明顯的偏好，但很顯然，他對聯盟工團的「城市母親」情有獨鍾。他並不介意漫步在移動地塊生產塢的陰影下，和工人們聊聊天。有時候，他也會遇到幾個對理想和生活感到迷茫的工團成員。他很擅長激勵士氣，即使對方是遠離戰場的普通人，他也有辦法令人對未來重拾信心。在駿衛留給鐵誓軍戰士和工團成員的印象中，鋒利但從不傷人的冷幽默也是其中之一。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "骏卫，本名赫尔森，罗德岛驻外干员，铁誓军盾卫旗队指挥官，常年驻扎在塔卫二北方的环北极圈前线。因局势需要，现加入终末地工业，协助执行相关作战任务。\n\n第一次见到骏卫，他不折不扣的军人身姿就给我留下了深刻的印象。骏卫行事果断且迅速，绝不拖泥带水。并且无论事情大小，只要他给予了承诺，就一定会尽全力做到。\n虽然骏卫没有对《环带公约》的三巨头表现出明显的偏好，但很显然，他对联盟工团的“城市母亲”情有独钟。他并不介意漫步在移动地块生产坞的阴影下，和工人们聊聊天。有时候，他也会遇到几个对理想和生活感到迷茫的工团成员。他很擅长激励士气，即使对方是远离战场的普通人，他也有办法令人对未来重拾信心。在骏卫留给铁誓军战士和工团成员的印象中，锋利但从不伤人的冷幽默也是其中之一。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "ポグラニチニク、本名は「ホールスン」。ロドスの特派オペレーターであり、鉄誓軍盾兵旗隊の指揮官で、タロⅡ北部の環北極圏前線に長年駐在している。情勢の変化によりエンドフィールドに加入し、関連する作戦任務協力にあたっている。\n\n「初めてポグラニチニクにお会いしたとき、正真正銘の軍人だという佇まいが強く印象に残りました。行動は常に迅速かつ的確で、迷いがなく、一挙手一投足に無駄がありません。どんなことであっても、一度約束したことは必ず実行に移す人物でもあります。」\n「また、ポグラニチニクは『文明地帯協定』の三巨頭に対して特定の立場を明らかにすることはありませんが、工業団連盟の『マーチ・ゴロドーフ』には特別な思いを抱いていることは明白です。時折、移動区画にある巨大な生産施設の影を歩き、作業員と親しく言葉を交わす姿が見られます。その中には、理想や暮らしに迷いを抱いている工業団員もいますが、彼は戦場から遠く離れた一般人であったとしても、士気を高め、未来を信じる力を取り戻す術を会得しています。さらに、鉄誓軍の戦士や工業団員の間では、鋭くはあるものの、相手を傷つけない独特のブラックジョークも、彼の魅力の1つとして語られています。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "포그라니치니크, 본명 헤르손, 로도스 아일랜드 파견 오퍼레이터. 철의 서약군 방패병 부대 지휘관으로 오랫동안 탈로스 II 북쪽, 북극권 전선에 주둔해 왔다. 상황에 따라 현재 엔드필드 공업에 합류하여 관련 작전 임무 수행을 지원하고 있다.\n\n포그라니치니크를 처음 만났을 때, 그의 전형적인 군인 다운 모습은 나에게 깊은 인상을 남겼다. 그의 일처리는 신속하고 단호하며, 지체하는 법이 없다. 또한 사소한 일이든 중요한 일이든 상관없이, 일단 약속한 것은 반드시 전력을 다해 완수한다.\n비록 그는 <밴드 협약>의 세 세력 가운데 어느 쪽에도 뚜렷한 관심을 보이지는 않았지만, 연맹 공단의 '맛 고로도프'에 특별한 호감을 가지고 있는 것은 분명하다. 그는 이동 구역 생산소의 거대한 그늘 아래를 거닐며 작업자들과 스스럼없이 어울리곤 한다. 때로는 이상과 삶의 방향을 두고 고뇌하는 공단 구성원들을 마주치기도 하는데, 그는 사기 진작에 매우 능숙하다. 상대가 전장과 거리가 먼 평범한 사람일지라도, 미래에 대한 자신감을 되찾게 하는 방법을 알고 있다. 포그라니치니크가 철의 서약군 전사들과 공단 직원들에게 남긴 인상 중에는, 날카롭지만 결코 상처 주지 않는 냉철한 유머 감각도 빼놓을 수 없다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "DOCUMENT: Two Photographs\nAn old photograph with yellowing edges, featuring Pogranichnik standing amongst a diverse crew of various races. The group stood before a fortified defense works forged of steel and covered by snow. Two Oathkeeper scouts stood atop the defenses, gazing into the far distance with binoculars. BACKGROUND: Contours of a fort could be seen in the slightly blurred horizon, along with large caliber cannons pointing at the skies. CHARACTERS OF NOTE: A particular crew mate standing next to Pogranichnik wore an expression of pride that stood out from the others. The man pointed at the skies where a giant vessel floated above everything. This photograph does not show the entirety of the said vessel. \n\nA photograph of a great hall within a fort, taken from above. Soldiers of the Order of Steel Oath who stood in the middle of the hall raised their cups into the air at Pogranichnik who stood on the stage. UPPER LEFT: Progranichnik placing a fist on the massive map behind him. UPPER RIGHT: A long dining table. A silvery haired old man with a chiseled face, though the features were obscured as he faced the other way. All those seated at the table wore badges and sashes of banner commanders, and like the soldiers, they also raised their glasses. LOWER LEFT: Young recruits rubbing shoulders with each other. One of them played an accordion and those nearby seemed to be singing and cheering loudly with their mouths open. NOTE: The hall is filled with plenty of individuals in festive spirits, but Pogranichnik never showed the picture to anyone, and neither did he frame it. \n\nDOCUMENT: Three Recipes\nEntrée Recipe C5: Primal Cut Burdenbeast Steak Set. Courtesy of UWST. A primal cut of burdenbeast shank, nutrient-fortified, smoked. Standard UWST Guards military fare. Winner of the United Workers' Syndicates of Talos II Central Production Planning Committee Awards for 20 consecutive years. \n\"The Shieldguards are still getting used to the unique taste of the fortifying agents. Besides that, this is most impeccable as field rations. It offers sufficient calories, nutrition, and the fillet has been prepared to provide an excellent texture — I remember tasting something similar before, something from Ursus.\" \n\nEntrée Recipe C8: Metal Crab Doria Set. Courtesy of TGCC. La Fantoma metal crabs and Kjersch cheese come together in this preparation by master chefs of Neo Tsukushi. This is designed to create explosions of freshness that blend the Talosian hills and oceans. A gastronomic experience fitting for the indomitable Oathkeepers. \n\"A culinary wonder rarely seen in self-cooking rations. They are quite effective in maintaining the morale of the fighting banners. However, caloric content of this particular item is currently incapable of meeting the Shieldguards' requirements. Please improve upon it.\" \n\nEntrée Recipe C12: Instant Shangshu Hot Pot. Courtesy of HAS. These words were messily scribbled on the back of the rations crate: \"Khorsyn, your soldiers are battle-hardened veterans. And what do you feed them with? Trough slop so stale that they're crying FOWL! Since you've been most respectful to this tianshi, this entire crate is on me. Guranteed to dispel the cold and put heat in your guts. Don't forget to warm the burdo-tallow for the grease dip.\" \n\"This entrée has utterly decimated my warriors. Half of the Shieldguards in the entire banner cried out for painkillers. A number of them managed to find strength to crawl on the ground and stuff handfuls of snow in their mouths. However, no one in the banner complained about the cold in the 30-klick foot march.\" \n\nDOCUMENT: A Map \nA massive map illustrated on massive piece of tanned cystybeast hide. It was made just in case all instruments and machinery running on Originium technology fail. \nThe map is densely marked with Order of Steel Oath defense zones, supply routes, and key strong points. Arsenals of Fort Forgefane have been included as well. \nThe southern area of the map shows dozens of roads meandering along the contours that connect the various Order forts. A few of these routes pass through Myrkwood — lifelines that connect the Civilization Band to the Order of Steel Oath and the very edge of the Northern Corridor. The northern area of the map shows a jagged battle line that stretches across the land like a scar. It stretches from the main defense zones of the Order and ends only at the fringe of the Aurora. \nIn the memo section furnished next to the map display rack, Pogranichnik, the author of this map, left this handwritten message: \n1,237 names. That's the worth of this.",
+    "zh-TW": "【兩張照片】\n一張邊角泛黃的照片。駿衛和熔爐要塞兵工廠的幾位工匠並肩而立，其中有男有女，種族各異。在所有人的背後，是一道覆蓋著冰雪的鋼製要塞強化工事，兩名鐵誓軍哨兵在工事頂端舉起望遠鏡凝視遠方。更遠處，稍顯模糊的地平線上，要塞的輪廓若隱若現，大口徑火炮直指天際。而在駿衛的身邊，一位工匠帶著不同於眾人的驕傲神情，手指向天空，那裡懸浮著一艘龐大的飛行器，透過照片無法看清它完整的樣貌。\n\n一張俯瞰要塞大廳的照片。大廳正中間的鐵誓軍戰士們抬起手來，對講台上的駿衛舉杯。照片的左上角，駿衛將一個拳頭放在身後的巨大地圖上；照片右上角，是一張很長的餐桌，除了一位臉龐稜角分明的銀髮老者——因望向另一邊而面貌不清，每一個人都佩戴著旗隊指揮官的徽章和飾帶，他們同樣舉起了手中的杯子。而在照片的左下角，年輕的新兵們勾肩搭背，其中一位不知從哪裡拿出了手風琴，周圍的戰士們張大著嘴，似乎在齊聲歡呼。大廳中有許多笑容，但駿衛從未向任何人主動展示過這張照片，也未曾將它裝進哪一個相框。\n\n【三份食譜】\n正餐食譜C5：「原切馱獸肉排套餐」，由聯盟工團提供。厚切整塊馱獸腿肉，加入營養劑，煙燻風味。工人衛隊軍標食譜，連續二十年榮獲全聯盟工團中央生產計劃委員會嘉獎。\n「盾衛們還在適應營養添加劑的異味。除此之外，這是一份無可挑剔的作戰糧食，能量充足，營養充分，肉排口感良好——我在記憶中品嚐過相似的味道，它來自烏薩斯。」\n\n正餐食譜C8：「磐蟹起司蓋飯定食」，由環塔商會提供。菈梵朵瑪特供磐蟹，新都築烹飪大師親自操刀，以耶爾什的起司烹飪激發極致鮮味，為鐵誓軍的無畏戰士們帶來山海一體的味覺享受。\n「自熱糧食中難得一見的精緻食譜，在維持旗隊士氣的方面效果顯著，但對盾衛們來說，目前的分量並不足以補充他們消耗的體能，請改進。」\n\n正餐食譜C12：「尚蜀風味即熱鍋」，由宏山科學院提供。在裝糧食包的箱子背面，有人用潦草的筆跡寫著：赫爾森，你的兵也算是能征善戰，但飲食的口味怎麼能這麼清淡！光用看的嘴裡能都淡出羽獸來！看在你對我一口一個「天師」的分上，這種口味的吃食我白送給你們了，驅寒提神暖腸胃，別忘了熬一下馱獸油，弄個油碟沾醬。\n「這道主菜擊敗了我的戰士們，半個旗隊的盾衛叫著要止痛劑，還有人從地上抓起雪往嘴裡塞。不過，旗隊在接下來三十公里的徒步行進中都沒有再感到寒冷。」\n\n【一張地圖】\n一張繪製在鞣製瘤獸皮上的巨幅地圖，為了應對現有源石技術裝備全部失效的情況而繪製。\n地圖上密密麻麻地標記著鐵誓軍的防區和補給線，以及重要防禦工事的所在位置。熔爐要塞兵工廠的所在之處同樣被囊括其中。\n在地圖所示的南部，數十道彎曲的路線沿著等高線延伸至各個要塞，其中有些穿過了黑森林——這些路線是鐵誓軍與文明環帶間的生命線，北方走廊的末梢。而在北部，還有一道極為顯眼的鋸齒狀戰線。這條戰線像一道傷痕，從鐵誓軍的主要防區一路向北延伸，直到極光壁的邊界為止。\n在地圖陳列架旁的標籤上，繪製這張地圖的駿衛留下了筆跡：\n一千兩百三十七個名字，這就是它的價值。",
+    "zh-CN": "【两张照片】\n一张边角泛黄的照片。骏卫和熔炉要塞兵工厂的几位工匠并肩而立，其中有男有女，种族各异。在所有人的背后，是一道覆盖着冰雪的钢制要塞强化工事，两名铁誓军哨兵在工事顶端举起望远镜凝视远方。更远处，稍显模糊的地平线上，要塞的轮廓若隐若现，大口径火炮直指天际。而在骏卫的身边，一位工匠带着不同于众人的骄傲神情，手指向天空，那里悬浮着一艘庞大的飞行器，通过照片无法看清它完整的姿态。\n\n一张俯瞰要塞大厅的照片。大厅正中的铁誓军战士们抬起手来，对讲台上的骏卫举杯。照片的左上角，骏卫将一只拳头放在身后的巨幅地图上；照片右上角，是一张很长的餐桌，除了一位脸庞棱角分明的银发老者——因望向另一边而面貌不清，每一个人都佩戴着旗队指挥官的徽记和绶带，他们同样举起了手中的杯子。而在照片的左下角，年轻的新兵们勾肩搭背，其中一位不知从哪里拿出了手风琴，周围的战士们大张着嘴，似乎在齐声欢呼。大厅中有许多笑容，但骏卫从未向任何人主动展示过这张照片，也未曾将它装进哪一个相框。\n\n【三份食谱】\n正餐食谱C5：“原切驮兽肉排套餐”，由联盟工团提供。厚切整块驮兽腿肉，添加营养剂，烟熏风味。工人卫队军标食谱，连续二十年荣获全联盟工团中央生产计划委员会嘉奖。\n“盾卫们还在适应营养添加剂的异味。除此之外，这是一份无可挑剔的作战口粮，能量充足，营养充分，肉排口感良好——我在记忆中品尝过相似的味道，它来自乌萨斯。”\n\n正餐食谱C8：“磐蟹奶酪盖饭定食”，由环塔商会提供。菈梵朵玛特供磐蟹，新都筑烹饪大师亲自操刀，以耶尔什的奶酪烹饪激发极致鲜味，为铁誓军的无畏战士们带来山海一体的味觉享受。\n“自热口粮中难得一见的精致食谱，在维持旗队士气的方面效果显著，但对盾卫们来说，目前的分量并不足以补充他们消耗的体能，请改进。”\n\n正餐食谱C12：“尚蜀风味即热锅”，由宏山科学院提供。在装口粮包的箱子背面，有人用潦草的笔迹写着：赫尔森，你的兵也算是能征善战，可饮食的口味怎么能这么清淡！光看着嘴里都淡出羽兽来！看在你对我一口一个“天师”的份上，这种口味的吃食我白送给你们了，驱寒提神暖肠胃，别忘了熬一下驮兽油，打个油碟。\n“这道主菜击败了我的战士们，半个旗队的盾卫喊着要止痛剂，还有人从地上抓起雪往嘴里塞。不过，旗队在接下来三十公里的徒步行进中都没有再感到寒冷。”\n\n【一张地图】\n一张绘制在鞣制瘤兽皮上的巨幅地图，为了应对现有源石技术装备全部失效的情况而绘制。\n地图上密密麻麻地标注着铁誓军的防区和补给线，以及重要防御工事的所在位置。熔炉要塞兵工厂的所在之处同样被囊括其中。\n在地图所示的南部，数十道弯弯扭扭的路线沿着等高线延伸至各个要塞，其中有些穿过了黑森林——这些路线是铁誓军与文明环带间的生命线，北方走廊的末梢。而在北部，还有一道极为显眼的锯齿状战线。这条战线像一道伤痕，从铁誓军的主要防区一路向北延伸，直到极光壁的边界为止。\n在地图陈列架旁的标签上，绘制这张地图的骏卫留下了笔迹：\n一千两百三十七个名字，这就是它的价值。",
+    "ja": "【2枚の写真】\n端が黄ばんだ写真。ポグラニチニクと熔炉要塞軍需工場の職人数名が並んで立っている。皆、性別も種族も様々だ。後ろには氷雪に覆われた鋼鉄の強化要塞がそびえ、鉄誓軍の哨兵が2名、望遠鏡を覗き込んでいる。さらに遠く、霞む地平線上には要塞の輪郭が見え隠れし、大口径の砲身が空を突いていた。ポグラニチニクの横に立つ1人の職人は、他の者とは違う誇らしげな表情を浮かべながら、天を指差していた。指の先には、写真からはみ出してその全貌が掴めないほど巨大な飛行ユニットの姿があった。\n\n要塞の大広間を上から撮った写真。大広間の中央で鉄誓軍の戦士たちは手を高く挙げ、壇上のポグラニチニクに向かって盃を掲げていた。写真の左上には、拳を握りしめ背後の大きな地図に押し当てるポグラニチニクが写っている。右上には長いテーブルが見える。顔がはっきり見えない銀髪の老人を除き、皆、旗隊指揮官の勲章とサッシュを身につけ、手に持つ盃を高く掲げている。左下には肩を組んだ若い新兵と、どこから持ってきたのか、アコーディオンを手にした者が写っている。口を大きく開け、一斉に歓声を上げているかのように見える――笑顔に溢れたこの写真を、ポグラニチニクが誰かに見せることも、フレームに入れることもなかった。\n\n【3枚のレシピ】\n食事レシピC5「駄獣ステーキセット」――提供：工業団連盟。厚切りにカットした駄獣のもも肉に栄養剤を添加し、燻製風味に仕上げた一品。工業団衛兵隊の標準軍用レシピとして、工業団連盟中央生産計画委員会より20年連続で表彰されている。\n「盾兵たちは、栄養添加剤の味に慣れていない。それ以外は、非の打ちどころのない戦闘糧食と言える。十分なエネルギー、豊富な栄養、食感も悪くない――記憶の中に、似た味がある。これは、ウルサスの味だ。」\n\n食事レシピC8「ハガネガニドリア定食」――提供：環タロ商会。ラヴァンドマ特別提供のハガネガニを使用。シン・ツクシのシェフが調理し、イェルシェ産チーズでうまみを最大限に引き出した一品。鉄誓軍の勇敢なる戦士たちに、山の幸と海の幸の絶妙なコンビネーションを届ける。\n「温かい糧食としては、珍しく豪華なものだ。旗隊の士気維持にも著しい効果を発揮している。しかし、盾兵たちが消費した体力を補うためには、この量では不十分だ。改善を求める。」\n\n食事のレシピC12「尚蜀風自熱火鍋」――提供：宏山科学院。糧食パックを詰めた箱の裏には、走り書きの文字が残されている――「ホールスンよ、おまえの兵は戦闘では確かに役に立つ。しかし、飯が味気ない！見ているだけで口の中が寂しくなる。わしを『天師』と呼んでくれる礼だ、こいつをタダでやろう。寒さを飛ばし、眠気も覚まし、胃腸も温まる。駄獣油をちょいと温めて、油タレを作ることも忘れるな。」\n「この料理は、我が兵を倒した。盾兵の半数は鎮痛剤を求め、雪を掴んでそのまま口に詰め込む者までいた。しかし、その後に行った30kmの徒歩行軍において、誰一人寒さを訴えなかった。」\n\n【1枚の地図】\nなめした瘤獣の革に描かれた大きな地図。既存の源石技術がすべて使えない場合に備えて作成されたもの。\n鉄誓軍の防衛区、補給ライン、そして重要な防御施設の所在地が細かくびっしりと記されている。熔炉要塞軍需工場の場所も同様に記載されている。\n地図の南部には等高線沿いに各要塞へと延びる曲がりくねったルートが記載されている。「黒き森」を通り抜けるルートもある。これは鉄誓軍と文明地帯を結ぶ生命線であり、北部回廊の最末端にあたる。北部には、鋸のように歪な戦線が描かれている。まるで傷跡のように、鉄誓軍の主要防衛区から北へ延び、オーロラ境界の果てにまで達している。\n地図の横のラベルには、この地図を描いたポグラニチニクの筆跡が残されている。\n1,237名――それが、この地図に刻まれた重みだ。",
+    "ko": "[사진 두 장]\n가장자리가 누렇게 바랜 사진 한 장. 포그라니치니크와 용광로 요새 병기 공장의 장인 몇 명이 어깨를 나란히 하고 서 있으며, 그중에는 남녀와 여러 종족이 섞여 있다. 모두의 등 뒤로는 눈 덮인 강철 요새 강화 방어 시설이 있고, 두 명의 철의 서약군 보초병이 방어 시설 꼭대기에서 망원경을 들고 먼 곳을 응시하고 있다. 더 멀리, 희미한 지평선 위로 요새의 윤곽이 어렴풋이 보이고, 대구경 포가 하늘을 향하고 있다. 그리고 포그라니치니크 곁에는 한 장인이 남다른 자부심에 찬 표정으로 하늘을 가리키고 있는데, 그곳에는 거대한 비행선이 떠 있어 사진으로는 그 온전한 모습을 파악하기 어렵다.\n\n요새 대연회장을 위에서 내려다본 사진 한 장. 연회장 중앙의 철의 서약군 전사들이 손을 들어 연단 위의 포그라니치니크를 향해 잔을 들어 올리고 있다. 사진의 좌측 상단에서, 포그라니치니크는 등 뒤의 대형 지도 위에 한쪽 주먹을 올려 두고 있다. 사진 우측 상단에 긴 테이블이 보인다. 다른 곳을 보고 있어 얼굴이 잘 보이지 않는 윤곽이 뚜렷한 은발의 노인을 제외한 모든 이가 부대 지휘관의 휘장과 견장을 착용하고 있으며, 그들 역시 손에 든 잔을 들어 올리고 있다. 그리고 사진 좌측 하단에는 젊은 신병들이 어깨동무를 하고 있고, 그중 한 명은 어디선가 아코디언을 꺼내 들었으며, 주위의 전사들은 입을 크게 벌리며 다 함께 환호하는 듯하다. 연회장에는 웃음이 가득하지만, 포그라니치니크는 이 사진을 누구에게도 먼저 보여준 적이 없으며, 액자에 넣어둔 적도 없다.\n\n[세 가지 식단]\n정찬 식단 C5: \"통 버든비스트 스테이크 세트\", 연맹 공단에서 제공. 버든비스트의 다리살을 두툼하게 썰어 영양제 첨가. 훈제 풍미. 노동자 위병대 군용 표준 식단으로, 20년 연속 전 연맹 공단 중앙 생산 계획 위원회 표창 수상.\n\"방패병들은 아직 영양 첨가제의 역한 냄새에 적응 중이다. 그 외에는 흠잡을 데 없는 전투 식량이다. 에너지와 영양이 풍부하고 스테이크의 식감도 좋다. 나는 기억 속에서 비슷한 맛을 떠올릴 수 있는데, 그것은 우르수스에서였다.\"\n\n정찬 식단 C8: \"메탈 크랩 치즈 덮밥 정식\", 탈로스 II 상업연합회에서 제공. 라반도르마에서 공수한 메탈 크랩. 신 츠쿠시의 요리 명인이 직접 손질. 옐시의 치즈로 풍미를 끌어내어, 철의 서약군의 두려움 없는 전사들에게 산과 바다를 아우르는 맛을 선사한다.\n\"즉석 발열 전투식량에서는 드문 정교한 요리법이다. 부대의 사기를 유지하는 데는 탁월한 효과가 있으나, 방패병들이 소모한 체력을 보충하기에는 현재 분량이 충분하지 않으니, 개선을 요청한다.\"\n\n정찬 식단 C12: \"상촉 풍미 즉석 전골\", 홍산 과학원에서 제공. 식량 상자의 뒷면에는 이렇게 휘갈긴 글씨가 있었다. \"헤르손, 자네 부하들이 싸움은 곧잘 한다지만, 먹는 건 어찌 그리 싱거울 수 있나! 보는 것만으로도 입에서 파울비스트가 날 지경이야! 네가 나를 '천사'라 부르는 정을 봐서 이건 공짜로 준다. 한 번 끓여 먹어 봐, 추위도 막고 정신이 들면서 속도 따뜻해질 거야. 버든비스트 기름 좀 졸여서 기름장 만들어 먹는 것도 잊지 말고.\"\n\"이 메인 요리는 내 전사들을 쓰러지게 했다. 부대 방패병 절반이 진통제를 달라 아우성쳤고, 눈을 집어 들고 입에 쑤셔 넣는 이도 있었다. 그러나 그 후 30km의 행군 동안 부대 내 누구도 다시는 추위를 호소하지 않았다.\"\n\n[지도 한 장]\n무두질한 치스티비스트 가죽 위에 그려진 대형 지도. 기존 오리지늄 기술 장비가 전부 무력화될 경우를 대비하여 작성되었다.\n지도에는 철의 서약군의 방어 구역과 보급선, 그리고 주요 방어 시설의 위치가 빼곡히 표시되어 있다. 용광로 요새 병기 공장 역시 포함되어 있다.\n지도의 남쪽에는 수십 개의 구불구불한 경로가 등고선을 따라 각 요새로 이어지며, 그중 일부는 검은 숲을 관통하고 있다. 이 경로들은 철의 서약군과 문명 밴드를 이어 주는 생명선이자, 북쪽 회랑의 말단이다. 그리고 지도 북부에는, 유난히 눈에 띄는 톱니 모양의 전선이 있다. 그 전선은 하나의 상처처럼, 철의 서약군 주요 방어 구역에서부터 북쪽으로 뻗어 나가 오로라 장벽의 경계까지 이어진다.\n지도 거치대 옆의 꼬리표에, 이 지도를 제작한 포그라니치니크가 남긴 글귀:\n\"1,237개의 이름, 그것이 이 지도의 가치다.\""
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "DOCUMENT: Excerpt of a Conversation Recorded at Fort ████\n\"Sir Instructor, please wait! That lesson was most engaging. You must be a true expert in fighting the Aggeloi. We just heard those warriors calling you — Khorsyn?\" \n\"The lesson will serve its purpose if it helps you survive an actual engagement. Is there anything else I can assist you with?\" \n\"Oh, this is great! I'm Vadim. Vadim Ignatyevich Smirnov. This one here is Muravyov. We're both from the UW.\" \n\"Ignaty? I know this name. Did you leave your home because of your father, recruit? He often showed me pictures of you.\" \n\"Yes. When he was around, he often mentioned your heroic deeds in his letters. He was proud to fight along your side against the Aggeloi that tried to breach our defenses — Always. In every letter.\" \n\"Yeah! When Vasha and I were kids, we were ... trying to be the heroes described in the letters! We played games pretending to be the fighting Shieldguards. Everyone wants to be as brave as you!\" \n\"We... Well, Muravyov and I passed the selection trials of the Fort. We want to inherit our father's courage, even at the cost of our lives.\" \n\"A most respectable goal. But I want you to understand that sacrifice is never the objective. On the contrary, the Order fights to avoid that altogether.\" \n\"Instructor Khorsyn, back when I was still at school, I've always been picturing this in my mind! The Aggeloi of the north smashing themselves into the frontlines and the banners buckling under their weight. Just when the buggers were about to breach, the Oathkeepers heard the mighty thud of iron shields slammed into the earth — Khorsyn and his Shieldguards had arrived and they charged forth! That mighty thud told everyone that you were the unbreakable front! The grounds where you stand would never be taken!\" \n\"Vasha is right, instructor. We're not afraid of sacrifice!\" \n\"No. I've seen too many aspirants falling at this place. If you really want to be a true Shieldguard, being a hero or sacrificing your lives are not the qualities you need.\" \n\"But you...\" \n\"Son, you must learn to survive. Only then could you appear at places that need you most. Then you must place the shield before you, and —\" \n\"Help the others ... survive?\" \n\"Exactly. You actually listened during class. This is the most basic tactic of the Shieldguard wall. We stand side by side to shelter the others and help them live — We do not care if they're trying to save their skins, inheriting a legacy, or getting ready for an effective tactical counterstrike.\" \n\"Your lessons is truly empowering, Instructor Khorsyn! I ... we ... AHEM! Vasha, say something!\" \n\"Yeah! I ... I mean, Muravyov and I will both become Shieldguards! We shall serve in your banner!\" \n\"Then I shall look forward to the day when I fight along your sides.\"",
+    "zh-TW": "【記錄在█████要塞的對話片段】\n「請等一下，教官，請等一下。剛才的授課非常精彩，您一定是對抗天使的專家。我們剛才聽那些戰士叫您——赫爾森？」\n「能幫助你們掌握在交戰中活下去的方法就夠了。你們找我有什麼事？」\n「太好了，我叫瓦季姆，瓦季姆·伊格納季耶維奇·斯米爾諾夫，這是穆拉維約夫，我們兩個來自聯盟工團。」\n「伊格納季？我記得這個名字。新兵，你是因為你的父親才離開故土？你的父親常給我們看你的照片。」\n「家父尚在時，常常在書信裡寫下您的事蹟。能和您一起擋住衝擊戰線的天使，是他的榮幸——他一直在信裡這麼寫。」\n「沒錯！我和瓦沙小時候，經常像信……信裡的一樣！玩模仿鐵誓軍盾衛的遊戲。我們希望能像信裡的您那樣英勇。」\n「我們……我和穆拉維約夫通過了要塞的選拔，希望繼承父親的勇氣，哪怕獻出生命！」\n「令人欽佩的志向。但我希望你們能明白，犧牲不是目的，鐵誓軍的戰鬥是為了阻止更多的犧牲。」\n「赫爾森教官，從還在學校唸書起，我就在想像，當北地的天使衝擊著防線，其他旗隊的戰士們都在苦苦支撐，眼看就要擋不住了，終於，身後傳來鐵盾砸地的巨響——是英雄赫爾森帶著盾衛衝了上來！這聲巨響讓每個人知道，你們矗立的地方，就是敵人無法逾越的邊界。」\n「瓦沙說得對，教官，我們不怕犧牲！」\n「不。我看過太多想要成為英雄的人倒在這裡。如果你們真的想要成為一名盾衛，需要的就不是對『英雄』或者『犧牲』的崇拜。」\n「可是您……」\n「你們需要活下去，出現在其他人需要你們的地方，需要將盾立在你們的面前。然後——」\n「幫助……其他人活下去？」\n「不錯，你們確實聽得很認真。這是盾衛在列陣作戰時最基本的戰術，我們並肩而立，為了讓更多人活下去——無論是苟且偷生，傳承意志，還是為了執行下一次的反擊戰術。」\n「您的教導讓我充滿了力量，赫爾森教官！我……我們！咳，瓦沙，你倒是說句話啊！」\n「我，還有穆拉維約夫！我們一定會成為盾衛，去您的旗隊服役！」\n「那麼，我期待與你們並肩而立的那一天。」",
+    "zh-CN": "【记录在█████要塞的对话片段】\n“请等一下，教官，请等一下。刚才的授课非常精彩，您一定是对抗天使的专家。我们刚才听那些战士喊您——赫尔森？”\n“能帮助你们掌握在交战中活下去的方法就够了。你们找我有什么事？”\n“太好了，我叫瓦季姆，瓦季姆·伊格纳季耶维奇·斯米尔诺夫，这是穆拉维约夫，我们两个来自联盟工团。”\n“伊格纳季？我记得这个名字。新兵，你是因为你的父亲离开的故土？你的父亲常给我们看你的照片。”\n“家父尚在时，常常在书信里写下您的事迹。能和您一同挡住冲击战线的天使，是他的荣幸——他一直在信里这么写。”\n“没错！我和瓦沙小时候，经常像信……信里的一样！玩模仿铁誓军盾卫的游戏。我们希望能像信里的您那样英勇。”\n“我们……我和穆拉维约夫通过了要塞的选拔，希望继承父亲的勇气，哪怕献出生命！”\n“令人钦佩的志向。但我希望你们能明白，牺牲不是目的，铁誓军的战斗是为了阻止更多的牺牲。”\n“赫尔森教官，从还在学校念书起，我就在想象，当北地的天使冲击着防线，其他旗队的战士们都在苦苦支撑，眼看就要挡不住了，终于，身后传来铁盾砸地的巨响——是英雄赫尔森带着盾卫冲了上来！这声巨响让每个人知道，你们矗立的地方，就是敌人无法逾越的边界。”\n“瓦沙说得对，教官，我们不怕牺牲！”\n“不。我见过太多想要成为英雄的人倒在这里。如果你们真的想要成为一名盾卫，需要的就不是对‘英雄’或者‘牺牲’的崇拜。”\n“可您……”\n“你们需要活下去，出现在其他人需要你们的地方，需要将盾立在你们的面前。然后——”\n“帮助……其他人活下去？”\n“不错，你们确实听得很认真。这是盾卫在列阵作战时最基本的战术，我们并肩而立，为了让更多人活下去——无论是苟且偷生，传承意志，还是为了执行下一次的有效战术反击。”\n“您的教导让我充满了力量，赫尔森教官！我……我们！咳，瓦沙，你倒是说句话呀！”\n“我，还有穆拉维约夫！我们一定会成为盾卫，去您的旗队服役！”\n“那么，我期待与你们并肩而立的那一天。”",
+    "ja": "【█████要塞で記録された会話の一部】\n「教官……お待ち下さい！先ほどの授業は大変素晴らしく、圧巻でした。教官はアンゲロス対策の専門家なんですね。ところで……あなたが戦士たちから『ホールスン』と呼ばれているのを聞いて……」\n「戦闘で生き残る術を身につけられたのならば、十分だ。それで、何か用か？」\n「僕はヴァディム……ヴァディム・イグナチエヴィチ・スミルノフです。そして、こちらはムラヴィヨフ。僕たち工業団連盟から来たんです。」\n「イグナチ？聞き覚えのある名だ……もしや、父親と同じく故郷を離れて来たのか？貴殿の父は、よく我々に写真を見せてくれていた。」\n「はい。父が健在だった頃、手紙にいつも教官のことが書かれていました。共にアンゲロスを防ぎ前線を守れたことが、何よりの誉だと……ずっと、何度も。」\n「私とヴァーシャは……手紙の中に書かれた鉄誓軍の盾兵に憧れて、真似をして遊んでいました。いつか教官のような英雄になりたいです。」\n「僕たち……僕とムラヴィヨフは要塞の選抜に合格しました。この身を捧げようとも、父の勇気を受け継ぐ所存です！」\n「立派な志だ。しかし、犠牲は目的ではない。鉄誓軍の戦士は、より多くの犠牲を防ぐために戦っている。それを忘れるな。」\n「ホールスン教官。学校で勉強していたときから、ずっと想像してきたことがあります。北地のアンゲロスが防衛戦へと攻め込み、旗隊が全力で耐えている。限界かと思ったそのとき――後ろから盾が地面を叩く轟音が響く。その音と共に、英雄ホールスンが盾兵を率いて現れる――そしてそれは、敵には決して越えられない境界線へと変わる……」\n「ヴァーシャの言う通りです！教官、私たちは犠牲になることを恐れたりしません！」\n「そうではない。英雄を夢見て倒れていった者は、あまりにも多かった。盾兵を志すとき、必要なのは『英雄』や『犠牲』への憧れではない。」\n「ですが、教官は……」\n「まず考えるべきは生き延びることだ。必要とされる場所に立ち、助けを求める者の前に盾を構え、そして――」\n「皆が生き延びられるように……ということでしょうか？」\n「そうだ。よく理解している。これは盾兵の最も基本的な戦術だ。肩を並べて立ち、より多くの人を生かすために戦う。たとえ――無様だろうと、意志を継承するためであろうと、次の反撃のためであろうと。」\n「なるほど……ご指導のおかげで力が湧いてきました、ホールスン教官！私……私たち！えー……ヴァーシャ、何か言ってくれよ！」\n「僕、それにムラヴィヨフも！僕たちは必ず盾兵になって、教官の旗隊で戦います！」\n「そうか。では、肩を並べて立つ日のことを楽しみにしよう。」",
+    "ko": "[█████ 요새에 기록된 대화]\n\"잠깐만요, 교관님, 잠깐만 기다려주세요. 방금 강의 정말 멋졌습니다. 분명 아겔로스를 상대하는 데에 전문가시겠죠. 아까 전사들이 당신을 부르는 걸 들었는데... 헤르손 교관님 맞으시죠?\"\n\"전장에서 살아남는 법을 익히는 데 도움이 됐다면 그걸로 충분하다. 무슨 일이지?\"\n\"잘됐네요! 제 이름은 바딤, 바딤 이그나티예비치 스미르노프라고 합니다. 이쪽은 무라비요프고, 저희 둘은 연맹 공단에서 왔습니다.\"\n\"이그나티? 기억나는군. 신참, 아버지를 따라 고향에서 온 건가? 네 아버지가 늘 네 사진을 우리에게 보여줬었지.\"\n\"아버지께서 생전에 살아 계셨을 때, 편지에 교관님의 활약상을 자주 적어주셨습니다. 아겔로스들의 돌격을 교관님과 함께 막은 것을 영광으로 여기셨죠. 편지에 항상 그렇게 쓰셨습니다.\"\n\"맞습니다! 저랑 바샤는 어릴 적부터, 편지... 편지 속 이야기처럼! 철의 서약군 방패병 흉내를 내며 놀았습니다. 편지 속 교관님처럼 용맹해지고 싶었습니다.\"\n\"저희는... 저와 무라비요프는 요새의 선발을 통과했습니다. 아버지의 용기를 이어받아 목숨 바칠 각오도 되어 있습니다!\"\n\"훌륭한 포부를 가졌군. 하지만 이거 하나는 명심하도록. 희생은 목적이 아니다. 철의 서약군은 더 많은 희생을 막기 위해 싸우는 거다.\"\n\"헤르손 교관님, 저는 학교에 다닐 때부터 늘 상상했습니다. 북쪽 지역의 아겔로스들이 방어선을 덮이고, 다른 부대 전사들이 무너지기 직전... 마침내! 등 뒤에서 강철 방패가 땅을 울리는 소리가 들리는 겁니다. 영웅 헤르손이 방패병들을 이끌고 온 거죠. 그 소리 하나로 모두가 아는 겁니다. 당신들이 버티고 선 그곳이, 바로 적이 넘지 못할 경계선이라는 걸요.\"\n\"바샤 말이 맞습니다, 교관님! 저희는 희생이 두렵지 않습니다!\"\n\"틀렸다. '영웅'이 되겠다고 나섰다가 여기서 쓰러진 놈들을 수없이 많이 봤다. 진정한 방패병이 되고 싶다면, '영웅'이나 '희생' 따위를 숭배해선 안 된다.\"\n\"하지만, 교관님은...\"\n\"너희가 해야 하는 것은 살아남는 것이다. 다른 사람들이 너희를 필요로 하는 곳에 나타나, 그들 앞에 방패를 세워야 해. 그리고...\"\n\"다른... 다른 사람들이 살아남도록 돕는 겁니까?\"\n\"그래, 수업을 제대로 들었군. 방패병 방진의 가장 기본적인 전술이지. 우린 더 많은 사람을 살리기 위해 어깨를 맞대고 버틴다. 그게 그저 목숨을 부지하기 위한 것이든, 의지를 이어가기 위한 것이든, 아니면 다음 반격을 준비하기 위해서든 말이다.\"\n\"교관님의 가르침에 힘이 샘솟는 것 같습니다 헤르손 교관님! 저... 저희는! 콜록... 바샤, 너도 뭐라고 좀 말해 봐!\"\n\"저와 무라비요프! 저희는 반드시 방패병이 되어, 교관님의 부대에서 복무하겠습니다!\"\n\"좋다. 너희와 나란히 어깨를 맞대고 설 그날을 기대하겠다.\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "DOCUMENT: Summary of the Battle of █████ by the TGCC United Services Research Center: \nEsteemed representatives attending this joint session of TGCC concerns and corporations, I am Tanner Orrigan, special observer and battle asset insurance agent. I am here to give you a report on the Battle of █████, which I witnessed and experienced as an observer embedded with the Order of Steel Oath. \nThis high intensity conflict between the Order of Steel Oath and the Northern Aggeloid Host resulted in severe losses of military assets, contributed by all signatories of the Band Accord. Primary asset losses incurred by the Order include: 31 pieces of artillery walkers and other heavy UAVs for reinforcing a number of defenses zones. For details, please refer to the printed annex a3 provided next to you. \n...... \nObviously, the sudden appearance of the unknown entity forced the Order to stop their offensive against the Aurora. But I would like to remind all esteemed representatives that all losses incurred in this offensive strongly prove our willingness to further our partnership and provision of unconditional aid to the Order. Once we assist the Order with the construction of industrial production facilities, the North will only need more goods from various companies. There is a healthy chance that the current model of bulk equipment purchases will give way to a new paradigm of a multi-tiered technology and intellectual property partnership, one that is far more beneficial to our interests. \n...... \nDuring this battle, I was embedded with a banner that was part of the main offensive. We approached a ridge and made our way towards a forward fort. However, unassisted vision was unable to pinpoint the exact location of the fort as the massive Aggeloid host blanketed the entire topography — This ended when the Banner Commander Khorsyn, the one who had been most uninhibited in expending military assets, began his attack on the other side of the Aggeloid host. The Shieldguards advanced in formation, pushed the battle lines over the ridge, and deployed signal flares at the high grounds to help the fort artillery to direct their firing. \nIt was during this time that the unknown entity, the very one that blunted the other Banner offensives, re-appeared at the bottom of the Aurora. Esteemed representatives, I would like to take this moment to voice a consensus that I have reached with the Order of Steel Oath: Under no circumstances can we allow any entity of its type to enter densely populated areas. So, back to the topic. When the entity re-appeared, I was in the relative safety of a forward command center. However, Æther activities triggered by the said entity had rendered my recording devices inoperable. At this moment of desperation, Khorsyn led his Banner of Shieldguards and attacked from the very front. The Shieldguards raised their shields and pushed the advance with steadfast determination and valiance. I am afraid I could not describe what I saw next in an objective manner. I saw red flashes hewing apart the greatest Aggeloi, turning them into silent headstones. Every hole that appeared in the bastion of iron shields was quickly sealed by another Shieldguard. After 47 minutes of brutal battle, Khorsyn and his Shieldguards managed to carve a path right through the Aggeloid host and besieged the unknown entity that was responsible for killing hundreds of the Oathkeepers' best soldiers. In a single exchange, Khorsyn split the statuesque carapace right through the median plane. The strange matter encased within the unknown entity attempted escape by ejecting itself into the air. However, fire rained down from the skies as steam vented from the gaps in the armor. The final throes of resistance were extinguished at long last. \n...... \nEsteemed representatives, the Order of Steel Oath has proved their indispensability through this battle. Our support is more than just supporting the spirit of altruism espoused by the Band Accords. It is an investment towards the crucial strategic resilience of the Northern Front. Another objective of this report is to clarify that the actual legacy of the Order lies not within their Vault of Relics, but amongst key personnel, like Khorsyn. The values of these individuals cannot be appraised, and neither could they be traded. However, \"Heroes of the Band\" will be a most valuable investment opportunity for the TGCC — That is without question.",
+    "zh-TW": "環塔聯合服務研究所關於█████戰役的彙報：\n尊敬的環塔企業聯席會議的各位代表，本人——特派觀察員兼戰爭資產保險業務代表坦納·奧瑞根，在此對本人隨鐵誓軍參與的█████戰役做出報告。\n在此次鐵誓軍與北方天使集群的高強度衝突中，由《環帶公約》締約各方提供的戰爭資產遭到了嚴重的損耗。鐵誓軍方面的主要資產損失主要包括三十一部步行火炮平台以及其他用於加固防區的重型無人裝備，更多損失細節請查看各位代表手邊的紙質附錄a3。\n…………\n然而，由於突然出現的未知個體，鐵誓軍逼近極光壁的攻勢被迫中止。但請各位代表注意，在進攻行動中造成的所有損失，剛好證明了我方與鐵誓軍進一步展開合作，提供無償援助的前景。在協助完善鐵誓軍的工業生產設施建設後，北方對各企業的產品需求將不減反增，還將從大宗裝備購置領域合作轉入更加深層、對我方更加有利的技術產權合作。\n…………\n此次戰役中，本人隨負責主要進攻方向的旗隊到達一處山脊前方，逼近前進要塞。僅憑肉眼觀測，完全無法從毫無空隙的天使集群中找到要塞的位置——直到那位在消耗戰爭資產時毫不吝嗇的旗隊指揮官赫爾森，在天使集群的另一側殺出，盾衛隨之列陣上前，將戰線推過山脊，把要塞火炮的引導信標部署在高處。\n與此同時，先前導致其他方向旗隊受挫的未知個體再次於極光下方出現。各位代表，在此我想聲明一項本人與鐵誓軍方面達成的共識：在任何情況下，我們絕不能放任此類個體進入人口密集區域。彼時，我尚處在相對安全的前線指揮中心，但該個體引發的超域活動已讓我攜帶的記錄設備陷入失靈狀態。在這一危急時刻，盾衛旗隊的領袖赫爾森在戰線的最前方率領進攻，在他的身後，盾衛們舉起鐵壁，英勇又堅定地向前推進。接下來的景象無法用客觀的語言描述，我看到紅色的光切開最堅固的天使，讓牠們化作沉默的墓碑；盾牆每分每秒都在出現空缺，但任何一處空隙都會立刻由另一名盾衛補上。在進行了四十七分鐘的激烈交戰後，赫爾森和他的盾衛在天使集群的中央踏出一條道路，圍困了那個需要對數百名最優秀的鐵誓軍戰士陣亡負責的未知個體，在一次交鋒中將牠雕塑般的表面沿中軸線切開。未知個體將其內側構成物噴向空中試圖突圍，但從空中降下的火焰以及鐵甲間噴湧出的蒸汽最終撲滅了牠的反抗。\n…………\n各位代表，本次作戰印證了鐵誓軍不可取代的地位。我方的支援行動不僅是對《環帶公約》利他精神的闡釋，更是對北方前線「關鍵彈性戰略」的投資。本次報告的另一項主旨在於澄清，鐵誓軍真正的遺產不在要塞深處的遺產庫內，而是被寄託在赫爾森這樣的關鍵人物身上。在可預見的未來，他們無法被估價，也不能被交易，但毫無疑問——「文明環帶的英雄」將是環塔商會最有價值的投資。",
+    "zh-CN": "环塔联合服务研究所关于█████战役的汇报：\n尊敬的环塔企业联席会议的各位代表，本人——特派观察员兼战争资产保险业务代表坦纳·奥瑞根，在此对本人随铁誓军参与的█████战役做出报告。\n在此次铁誓军与北方天使集群的高强度冲突中，由《环带公约》缔约各方提供的战争资产遭到了严重的损耗。铁誓军方面的主要资产损失主要包括三十一部步行火炮平台以及其他用于加固防区的重型无人装备，更多损失细节请查阅各位代表手边的纸质附录a3。\n…………\n诚然，由于突然出现的未知个体，铁誓军逼近极光壁的攻势被迫中止。但请各位代表注意，在进攻行动中造成的所有损失，恰恰证明了我方与铁誓军进一步展开合作，提供无偿援助的前景。在协助完善铁誓军的工业生产设施建设后，北方对各企业的产品需求将不减反增，还将从大宗装备购置领域合作转入更加深层、对我方更加有利的技术产权合作。\n…………\n此次战役中，本人随负责主要进攻方向的旗队到达一处山脊前方，逼近前进要塞。仅凭肉眼观测，完全无法从毫无空隙的天使集群中找到要塞的位置——直到那位在消耗战争资产时毫不吝啬的旗队指挥官赫尔森，在天使集群的另一侧杀出，盾卫随之列阵上前，将战线推过山脊，把要塞火炮的导引信标部署在高处。\n与此同时，先前导致其他方向的旗队受挫的未知个体再次在极光下方出现。各位代表，在此我想声明一项本人与铁誓军方面达成的共识：在任何情况下，我们绝不能放任此类个体进入人口密集区域。彼时，我尚处在相对安全的前线指挥中心，但该个体引发的超域活动已让我携带的记录设备陷入失灵状态。在这一危急时刻，盾卫旗队的领袖赫尔森在战线的最前方率领进攻，在他的身后，盾卫们举起铁壁，英勇又坚定地向前推进。接下来的景象无法用客观的语言描述，我看到红色的光切开最坚固的天使，让它们化作沉默的墓碑；盾墙每分每秒都在出现空缺，但任何一处空隙都会立刻由另一名盾卫补上。在进行了四十七分钟的激烈交战后，赫尔森和他的盾卫在天使集群的中央踏出一条道路，围困了那个需要对数百名最优秀的铁誓军战士阵亡负责的未知个体，在一次交锋中将它雕塑般的表面沿中轴线切开。未知个体将其内侧构成物喷向空中试图突围，但自空中降下的火焰以及铁甲间喷涌出的蒸汽最终扑灭了它的反抗。\n…………\n各位代表，本次作战印证了铁誓军不可取代的地位。我方的支援行动不仅是对《环带公约》利他精神的阐释，更是对北方前线“关键韧性战略”的投资。本次报告的另一项主旨在于澄清，铁誓军真正的遗产不在要塞深处的遗产库内，而是被寄托在赫尔森这样的关键人物身上。在可预见的未来，他们无法被估价，也不能被交易，但毫无疑问——“文明环带的英雄”将是环塔商会最有价值的投资。",
+    "ja": "環タロ総合サービス研究所による█████戦役に関する報告\n親愛なる環タロ企業合同会議代表の皆様。特派観察員兼軍用装備保険業務代表、私タンナー・オリガンは、このたび鉄誓軍に同行し、█████戦役に関する全過程について視察してまいりました。本件について、ご報告申し上げます。\nまず、今回の鉄誓軍と北部の集団アンゲロスとの激しい交戦により、『文明地帯協定』の締結組織が提供した軍用装備には、相当な損耗が発生しました。鉄誓軍側では歩行砲台31基、防衛区強化用自動重機などを失っています。詳細はお手元の紙資料、付録a3をご参照ください。\n…………\n突如現れた未知の個体によって、鉄誓軍によるオーロラ境界への侵攻が中止を余儀なくされたことは間違いありません。しかし、皆様にご注目いただきたいのは、この損失こそ我々と鉄誓軍のさらなる協力の可能性、そして無償支援の意義と将来性を明確に裏付けたということです。鉄誓軍の工業施設建設を支援したならば、北部における各企業の製品需要は減少するどころか増加するでしょう。装備の大量調達から、技術・知財面などのより有利な協力関係へと発展していくはずです。\n…………\n今回、私は攻撃の主力となる旗隊と共に山岳の尾根手前まで進みました。進軍要塞まであとわずかというところまで接近しましたが、アンゲロスが群れとなって集中していたために、肉眼で位置を確認することはできませんでした。この状況を打開したのが、ホールスン指揮官です。彼は軍用装備を失うことを恐れず、旗隊と共に反対方向から敵陣に切り込み、盾兵は陣形を崩すことなく列を成して山を越え、要塞砲のガイドビーコンを高所に設置しました。\nその最中、別の場所で旗隊を苦しめていた未知の個体が、再びオーロラの下に姿を現しました。ここで代表の皆様に、私と鉄誓軍の双方で見解が一致した内容を、強く主張させていただきたく思います――如何なる状況下でも、このような個体を人口密集地に侵入させてはなりません。当時、私は比較的安全な前線司令部にいたものの、個体によって引き起こされた超域活動により、所持していた記録機器は使用不能になりました。危機的な状況にも関わらず、戦線ではホールスン指揮官が先頭に立ち、背後の盾兵たちが鉄壁の防御を築き、勇敢にも前進を続けていました。この先の光景は、客観的な言葉で形容しがたいものでした。赤い閃光が、最も堅いと言われるアンゲロスを切り裂き、沈黙の墓碑へと変えていく。盾の壁に一瞬でも隙間が出来たならば、すぐに別の盾兵が埋める――激しい応酬は、47分間も続きました。やがてホールスンと盾兵たちは戦場を押し分け、アンゲロスの群れを貫く道を切り開きました。数百名にも及ぶ鉄誓軍精鋭の命を奪った未知の個体を包囲し、激しい戦闘の末、彫刻のような外殻を突き破ったのです。最後、個体は内部構成物質を宙に向かって噴射し、包囲網からの脱出を試みました。しかし、空から降り注ぐ灼熱の炎と装甲の間から噴き上がる蒸気が、抵抗を完全に封じました。\n…………\n代表の皆様、今回の作戦は鉄誓軍が唯一無二であると改めて証明するものでした。また同時に、我々の支援が『文明地帯協定』の利他的精神を体現し、北方前線を維持する重要な投資であることも示しました。最後に明確にしておきたいもう1つの内容があります。鉄誓軍の真の遺産は要塞奥の遺産庫ではなく、ホールスンのような人物に宿っている――値も付けられなければ、取引もできない。しかし――「文明地帯の英雄」は、環タロ商会にとって最も価値ある投資対象であることは、疑いようもないのです。",
+    "ko": "█████ 전역에 관한 탈로스 II 연합 서비스 연구소의 보고서:\n존경하는 탈로스 II 기업 연합 회의의 대표 여러분, 본인... 특파 관찰원이자 전쟁 자산 보험 업무 대표 타나 오레건은, 철의 서약군과 함께 참전한 █████ 전역에 대해 다음과 같이 보고합니다.\n이번 철의 서약군과 북쪽 아겔로스 무리 간의 고강도 충돌로 인해, <밴드 협약> 체결 당사자들이 제공한 전쟁 자산이 심각한 손실을 입었습니다. 철의 서약군 측 주요 자산 손실은 보행 대포 플랫폼 31대와, 방어 구역 강화를 위한 기타 중장비 무인 장비 등입니다. 자세한 손실 내역은 대표님들께 배포된 부록 a3를 참조하시기 바랍니다.\n......\n물론, 갑작스럽게 나타난 미확인 개체로 인해 철의 서약군이 오로라 장벽으로 진격하던 공세는 부득이하게 중단되었습니다. 하지만 대표 여러분께서 주목하셔야 할 점은, 이번 공세에서 발생한 모든 손실이야말로, 저희가 철의 서약군과의 협력을 강화하고 무상 원조를 제공해야 할 명백한 근거가 된다는 사실입니다. 철의 서약군이 공업 생산 시설을 완비하도록 지원하고 나면, 북쪽의 저희 기업 제품에 대한 수요는 줄어들기는커녕 오히려 증가할 것입니다. 나아가, 단순한 대규모 장비 구매 협력에서 벗어나, 저희에게 더욱 유리한 심층적인 기술 및 지적 재산권 협력 단계로 나아갈 수 있을 것입니다.\n......\n본인은 이번 전역에서 주공을 맡은 부대를 따라 전진 요새로 접근하는 어느 산등성이 앞까지 도달했습니다. 육안만으로는 빈틈없이 몰려든 아겔로스 무리 속에서 요새의 위치를 도저히 파악할 수 없었습니다. 그때, 전쟁 자산을 소모하는 데 조금도 망설임이 없던 부대 지휘관, 헤르손이 아겔로스 무리의 반대편을 뚫고 나타났습니다. 방패병들이 즉시 대열을 갖추고 전진하여 전선을 산등성이 너머로 밀어냈고, 요새 대포의 유도 신호기를 고지대에 설치했습니다.\n바로 그때, 이전에 다른 방향의 부대들을 좌절시켰던 미지의 개체가 오로라 장벽 아래에 다시 나타났습니다. 대표 여러분, 이 자리를 빌려 제가 철의 서약군 측과 동의한 공감대를 하나 분명히 말씀드리고자 합니다. 어떤 상황에서든, 이런 개체가 인구 밀집 지역으로 진입하도록 방치해서는 절대 안 됩니다. 당시 저는 비교적 안전한 전선 지휘 본부에 있었으나, 그 개체가 일으킨 초자연 현상으로 인해 제가 소지한 기록 장비가 먹통이 된 상태였습니다. 이런 위기의 순간, 방패병 부대의 리더 헤르손은 최전선에서 공격을 이끌었습니다. 그의 뒤로 방패병들이 철벽을 세우고, 용맹하고 굳건하게 전진했습니다. 이어지는 광경은 객관적인 언어로 묘사하기 힘듭니다. 저는 붉은 섬광이 가장 단단한 아겔로스를 베어내 침묵하는 묘비로 만드는 것을 보았습니다. 방패벽은 매 순간 무너져 내렸지만, 그 빈틈은 즉시 다른 방패병이 메웠습니다. 47분간의 격전 끝에, 헤르손과 그의 방패병들은 아겔로스 무리 한가운데 길을 뚫어냈습니다. 그리고 수백 명에 달하는 최정예 철의 서약군 전사들을 죽음으로 몰아넣은 그 미지의 개체를 마침내 포위했고, 단 일격에 조각상 같던 그것의 표면을 중심축을 따라 갈라 버렸습니다. 해당 개체는 내부의 구성 물질을 공중으로 뿜어내며 탈출을 시도했지만, 하늘에서 쏟아지는 화염과 철갑 사이에서 터져 나오는 증기가 마침내 그 저항을 잠재웠습니다.\n......\n대표 여러분, 이번 작전은 철의 서약군이 대체 불가능하다는 것을 증명했습니다. 우리의 지원 활동은 <밴드 협약>의 이타 정신을 실천하는 동시에, 북쪽 전선의 '핵심 회복 탄력성 전략'에 대한 투자이기도 합니다. 본 보고서의 또 다른 핵심은, 철의 서약군의 진정한 유산이 요새 깊숙한 창고가 아니라, 헤르손과 같은 핵심 인물들에게 달려있다는 사실을 분명히 하는 데 있습니다. 가까운 미래에 그들의 가치를 매기거나 거래할 수는 없을 것입니다. 그러나 이것 하나는 확실합니다. '문명 밴드의 영웅들'은 탈로스 II 상업연합회의 가장 가치 있는 투자처가 될 것입니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "Mat' Gorodov. \nI've seen this name countless times in UWST art films before my actual visit. She is the heart of the United Workers' Syndicates of Talos II, replete with massive command towers that scraped the skies and integrated city plate construction yards. She resembled the nomadic cities that I've seen in my memories — Solid and absolutely gargantuan. \nBut when I entered the city, the first thing I saw was not awe-inspiring industrial mega structures. No, it was crew mates carrying building materials and rushing towards their work stations. The crews never seemed exhausted, and they labored to transport the lifeblood of this city to very corner. Every inch of concrete bore the prints of their hands. \nI did not seek the service of a local guide as I intended to satisfy my curiosities myself. Instead, I chose to shadow a crew mate who just concluded his day of labor, and followed him into a massive, minimalist building. After a bit of jostling, I arrived at the second floor of the main hall and sat myself down on a soft chair — And I only realized, at that moment, that I was in a crew theater. The crew mate who just finished his shift had already changed into his costume and became an opera performer. \nI did not succeed in guessing the plot of the performance. They did not sing praises for the heroes of labor. Instead, it was a comedy that critiqued bureaucracy — The crew of workers tacitly worked together and \"misled\" the corrupt official into discovering Pure Gold, something that does not exist on Talos-II. In the end, the official ate the bitter fruits of his greed. Of course, the workers remained the heroes of this tale. But these heroes were humorous and shared a boundless passion for a happy life. \nThe show ended and I left the theater with various thoughts weighing heavily in my mind. It was then when a girl around ten years of age and her twin brother realized who I was. \"An Oathkeeper! From the Order of the Steel Oath!\" they squealed excitedly. The children stood in front of me and saluted me in the way of the Order. Their parents and other workers pulled them away with some difficulty, as they had an endless stream of questions that I find rather difficult to answer. But I could tell, from their expressions, that these adults would have done the same as the children if they had been younger. \nI had a dream before I left Rhodes Island. I dreamed of a banquet. The children of army group nobility were dressed lavishly and kept under the watch of servants and governesses, like intricate dolls meticulously prepared for show. These groomed children exuded the same innocence and passion given off by the twins. But the gazes of these young nobles also carried something else. Was it family honor? Or a desire for power wielded by their elders? I could not tell, but I do know that the taint did not come from their own accord. I witnessed the taint transforming into ambition and shone with the cold glint of schemes and conspiracies. In the end, they became something that I could no longer recognize. \nAfter I left the theater, I trailed the streets of Mat' Gorodov on my own. It was then when a strange sense of freedom caught up to me. I could still recall elite imperial strikers following me in those great charges, the girl with Oripathy, underground clinics reduced to ruin, crowds trying to make a living, and children playing with each other. These memories lingered somewhere within me, but they no longer weighed me down. \nA new milestone has been erected upon the grave of days long gone. I concluded my short tour of the city and quickly returned north. Therein lies a battlefield where an entire generation fell. A place absent the dust of the old world nor grand blueprints for the new. A field of carnage where survival was the only objective. \nThat is where we fight. \n — Audio transcript recorded by an anonymous individual, currently archived at Rhodes Island",
+    "zh-TW": "「城市母親」。\n還未去過那裡時，我曾無數次在聯盟工團拍攝的各種藝術片裡看到這個名字。那是塔衛二全聯盟工團的心臟，高聳的指揮塔，整合式移動地塊生產塢，與記憶裡所見的那些移動城市一樣——堅固、龐大無比。\n然而，在進入那座城市後，我首先看到的不是驚人的工業巨型構造，而是扛著建材、奔赴勞動現場的工團成員們。這些永遠不會失掉精力的工人們，正將「血液」輸送到這座城市的每一個角落，在每一平方公尺的混凝土表面留下自己的手印。\n出於好奇，我沒有去尋找一位當地嚮導，而是跟隨著剛剛結束一天工作的工人，走進了一棟龐大、簡約的建築。一陣擁擠後，我來到了大廳的二層，在一張柔軟的椅子上坐下——直到這時，我才意識到，這裡是這座城市的工人劇院。而剛才那隊剛剛結束工作的工人，已經換好服裝，變成了舞台上的音樂劇演員。\n與我的猜測不同，他們沒有演出歌頌勞動英雄的戲碼，反而將一齣諷刺官僚的詼諧喜劇搬上了舞台——在工人們默契的「騙唬」下，腐敗官僚以為自己真的找到了在塔衛二上並不存在的赤金，最終嚐到了貪婪的苦果。當然，工人們仍然在故事裡扮演了英雄，只不過英雄們充滿了幽默感，還有對幸福生活的無窮熱情。\n當表演散場，我懷抱心事，即將離開劇場的時候，一對大約十歲的雙胞胎姐弟不知怎麼發現了我的身分。「鐵誓軍！鐵誓軍！」他們興奮地尖叫著，擋在我的面前，對我行了個相當稚嫩的鐵誓軍軍禮。他們的父母，還有其他工人不得不費一番功夫，才將兩個不斷提出我難以解答的問題的小傢伙帶走。但我可以從表情上看出，如果再稍微年輕一點，那些在場的成年人也會毫不猶豫地做出同樣孩子氣的事情。\n還未離開羅德島時，我見過一個夢境。夢裡的宴會上，集團軍貴族的孩子們穿著華麗，被僕人和家庭教師嚴密看管，如同一個個被精心打扮的玩偶。他們的眼裡也有過與那對雙胞胎相似的純真和激情，只是夾雜了其他東西。家族的榮耀？還是對老一輩權力的渴望？我說不清楚，只知道那些雜質絕不可能來自他們自己的意志。慢慢地，我看著雜質化為野心，閃爍著構思陰謀時發出的寒光，最終變成我無論如何都認不出的樣子。\n當我走出劇院，獨自走在「城市母親」的街頭的那一刻，一種奇異的自由感追上了我。我仍會想起身後衝鋒的帝國百戰先鋒、患有礦石病的女孩、淪為廢墟的地下診所、四處奔走的人群、嬉戲打鬧的孩童，他們仍在我體內的某處駐留，但我已幾乎不再感到沉重。\n舊日的墳墓上立起了新碑，短暫地遊覽過這座城市後，我很快回到了北方。那是一片犧牲了一整個時代、沒有舊世界的塵埃和新世界的藍圖，只為「活著」而戰的戰場。\n那是我們的戰場。\n——未署名的語音轉錄紀錄，留檔於羅德島",
+    "zh-CN": "“城市母亲”。\n还未去过那里时，我曾无数次在联盟工团拍摄的各种艺术片里看到这个名字。那是塔卫二全联盟工团的心脏，高耸的指挥塔，集成式移动地块生产坞，与记忆所见的那些移动城市一样——坚固、庞大无比。\n然而，在进入那座城市后，我首先看到的不是惊人的工业巨构，而是扛着建材、奔赴劳动现场的工团成员们。这些永远不会失掉精力的工人们，正将“血液”输送到这座城市的每一个角落，在每一平方米的混凝土表面留下自己的手印。\n出于好奇，我没有去寻找一位本地向导，而是跟随着刚刚结束一天工作的工人，走进了一栋庞大、简约的建筑。一阵拥挤后，我来到了大厅的二层，在一张柔软的椅子上坐下——直到这时，我才意识到，这里是这座城市的工人剧院。而刚才那队刚刚结束工作的工人，已经换好服装，变成了舞台上的音乐剧演员。\n与我的猜测不同，他们没有演出歌颂劳动英雄的戏码，反而将一出讽刺官僚的诙谐喜剧搬上了舞台——在工人们默契的“唬骗”下，腐败官僚以为自己真的找到了在塔卫二上并不存在的赤金，最终尝到了贪婪的苦果。当然，工人们仍然在故事里扮演了英雄，只不过英雄们充满了幽默感，还有对幸福生活的无穷热情。\n当剧目散场，我怀揣心事，即将离开剧场的时候，一对大约十岁的双胞胎姐弟不知怎么发现了我的身份。“铁誓军！铁誓军！”他们兴奋地尖叫着，拦在我的面前，对我行了个相当稚嫩的铁誓军军礼。他们的父母，还有其他工人不得不费一番功夫，才将两个不断提出我难以解答的问题的小家伙带走。但我可以从表情上看出，如果再稍微年轻一些，那些在场的成年人也会毫不犹豫地做出同样孩子气的事情。\n还未离开罗德岛时，我见过一个梦境。梦里的宴会上，集团军贵族的孩子们穿着华丽，被仆人和家庭教师严密看管，如同一个个被精心打扮的玩偶。他们的眼里也有过与那对双胞胎相似的纯真和激情，只是夹杂了其他东西。家族的荣耀？还是对老一辈权力的渴望？我说不清，只知道那些杂质绝不可能来自他们自己的意志。慢慢地，我看着杂质化为野心，闪烁着构思阴谋时闪烁的寒光，最终变成我无论如何都认不出的样子。\n当我走出剧院，独自走上“城市母亲”的街头的那一刻，一种奇异的自由感追上了我。我仍会想起身后冲锋的帝国百战先锋、患有矿石病的女孩、沦为废墟的地下诊所、四处奔走的人群、嬉戏打闹的孩童，他们仍在我体内的某处驻留，但我已几乎不再感到沉重。\n旧日的坟墓上立起了新碑，短暂地游览过这座城市后，我很快回到了北方。那是一片牺牲了一整个时代、没有旧世界的尘埃和新世界的蓝图、只为“活着”而战的战场。\n那是我们的战场。\n——未署名的语音转录记录，留档于罗德岛",
+    "ja": "「マーチ・ゴロドーフ」。\nその地を訪れる前、その名を何度も工業団連盟の映画で目にしていた。タロⅡ工業団連盟の心臓部――そびえ立つ指揮塔、複合型移動区画にある生産施設。記憶にある移動都市と同じく、堅牢で、巨大だ。\nしかし、足を踏み入れて最初に目にしたのは、圧倒的な工業構造物ではなく、資材を担ぎ労働へと向かう工業団員の姿だった。休むことなく都市の隅々へ「血液」を送り込み、あらゆる壁と床に、労働の印を残す。\n好奇心から、私は案内人を頼ることなく、一日の作業を終えた労働者の後に続いた。たどり着いたのは、質素な外観の大きな建物だ。人混みを抜け、ロビーから2階へ上がり、柔らかな椅子に腰を下ろした。そこで初めて、ここが都市の労働者劇場だと気づいた。舞台に立っていたのは、先程まで作業服を着ていた皆だ。衣裳を纏った彼らは、ミュージカル演者と姿を変えた。\nしかし、私の予想を裏切って、演目は労働の英雄を讃えるものではなかった。披露された舞台は、官僚を風刺した喜劇――作中、作業員は巧みな話術によって腐敗した官僚に「タロⅡには存在しないはずの純金を見つけた」と信じ込ませる。その強欲さ故に、最後は破滅を迎える――舞台上の作業員は、英雄を演じていた。だが、そこには笑顔と幸せな生活への強い情熱があった。\n終演後、余韻に浸りながら劇場を出ようとしたとき、10歳ほどの双子の姉弟が目の前にやってきた。どういうわけか私の身元を知り、「鉄誓軍！鉄誓軍だ！」……そう、大声で叫んで道を塞いだのだ。ぎこちなく敬礼するその姿に、両親や周囲にいた作業員は苦笑しながら、尽きること無くこちらに質問を投げかけてくる子どもたちを引き離そうとした。しかし、その表情を見てわかった。彼らがもう少し若かったならば、皆、子どもたちと同じ行動をとっていただろう。\nロドスを離れる前、私は夢を見たことがある。夢の中の宴で、ウルサス軍の貴族の子らは華やかな衣装を着て、使用人や家庭教師に囲まれ――まるで飾り立てられた人形のようだった。あの双子のような純真と情熱が彼らの目にも宿ってはいたが、別の色も混ざっていたのだ。それは、家族の誇りか、あるいは権力への渇望か……はっきりと言葉にはできないが、確かなことは、決して彼ら自身の心から生み出されたものではないということだ。しかし、やがて混ざった色は野心へと変わり、陰謀に満ちたような冷たい光を帯びて、最終的には最初の形を失っていく。\n劇場を離れ、「マーチ・ゴロドーフ」の道を1人で歩いていると、胸の奥に不思議な開放感が湧き出してきた。今でも思い出す――背後に続く帝国の歴戦の先鋒、鉱石病を患う少女、廃墟と化した地下診療所、走り回る人々、無邪気に遊ぶ子どもたち……変わらず、私の中にある。だが、かつてのような重さを感じることはほとんどない。\n過去の墓の上に、新しい碑が立つ――短い滞在を終えた私は北部へと戻った。そこは、1つの時代を代償に、旧世界の塵も新世界の夢もなく、ただ「生きる」ためだけの場所――\nそれが、私たちの戦場だ。\n――署名のない音声記録の文字起こし。ロドス・アイランドにて保管中",
+    "ko": "맛 고로도프'\n그곳에 가기 전, 나는 수없이 많은 연맹 공단의 예술 영화 속에서 이 이름을 접했다. 그곳은 탈로스 II 전 연맹 공단의 심장이자, 하늘 높이 솟은 지휘탑, 일체형 이동 구역 생산소를 갖춘 곳이었다. 기억 속의 그 이동도시들처럼 견고하고, 비할 데 없이 거대했다.\n하지만, 그 도시에 들어선 뒤 내가 가장 먼저 본 것은 경이로운 거대 공업 구조물이 아니라, 건축 재료를 짊어지고 노동 현장으로 향하는 공단 직원들이었다. 이 지칠 줄 모르는 작업자들은 도시의 구석구석으로 '혈액'을 실어 나르며, 콘크리트 표면 곳곳에 자신들의 손자국을 남기고 있었다.\n호기심에 나는 현지 안내인을 찾는 대신, 하루 일과를 막 끝낸 작업자들을 따라 거대하고 간결한 건물로 들어갔다. 인파에 휩쓸려 2층 로비에 도착한 나는 푹신한 의자에 앉았다. 그제야 나는 이곳이 이 도시의 작업자 극장이라는 것을 깨달았다. 그리고 방금 전 일과를 마쳤던 그 작업자들은 이미 의상을 갈아입고 무대 위 뮤지컬 배우가 되어 있었다.\n내 예상과 달리, 그들이 공연한 것은 노동 영웅을 찬양하는 연극이 아니었다. 오히려 관료들을 풍자하는 익살스러운 희극이 무대 위에 펼쳐졌다. 작업자들의 능청스러운 '속임수'에 넘어간 부패한 관료가 탈로스 II에는 존재하지도 않는 순금을 찾았다고 믿다가, 결국 탐욕의 쓴맛을 맛보는 내용이었다. 물론, 작업자들은 여전히 이야기 속에서 영웅이었다. 다만 그 영웅들은 유머 감각과 행복한 삶에 대한 끝없는 열정으로 가득 차 있었다.\n공연이 끝나고, 나는 이런저런 생각에 잠겨 극장을 떠나려 했다. 그때 열 살쯤 되어 보이는 쌍둥이 남매가 어떻게 알았는지 내 신분을 알아보고는 \"철의 서약군이다! 철의 서약군!\" 하고 흥분해서 소리치며 내 앞을 가로막았다. 그리고는 꽤 어설픈 철의 서약군식 경례를 붙였다. 그들의 부모와 다른 노동자들이 한참을 애쓴 뒤에야, 대답하기 어려운 질문들을 쏟아내던 두 꼬마를 데리고 갈 수 있었다. 하지만 표정만 봐도 알 수 있었다. 만약 조금만 더 젊었다면, 그 자리에 있던 어른들도 망설임 없이 똑같이 행동했을 것이라는 걸.\n로도스 아일랜드를 떠나기 전, 나는 꿈을 꾼 적이 있다. 꿈속의 연회장에서, 군단 귀족들의 아이들은 화려한 옷차림에 하인과 가정 교사에게 철저히 감시당하고 있었고, 마치 그들은 잘 꾸며진 인형처럼 보였다. 그들의 눈빛 속에도 그 쌍둥이와 비슷한 순수함과 열정이 있었지만, 거기엔 다른 것이 섞여 있었다. 가문의 영광? 아니면 기성세대의 권력에 대한 갈망? 뭐라 말할 순 없지만, 그 불순물들이 결코 자신의 의지에서 비롯된 것이 아니라는 것만은 알 수 있었다. 나는 그 불순물이 야망으로 변하고, 음모를 꾸밀 때 번뜩이는 차가운 빛을 내뿜다가, 마침내 내가 도저히 알아볼 수 없는 모습으로 변해가는 것을 지켜보았다.\n극장을 나와서 홀로 '맛 고로도프' 거리를 걷는 순간, 기묘한 해방감이 나를 뒤따라왔다. 등 뒤에서 돌격하던 제국의 백전의 뱅가드, 광석병을 앓던 소녀, 폐허가 된 지하 진료소, 분주히 오가던 사람들, 장난치며 뛰어놀던 아이들이 여전히 내 안 어딘가에 남아 있지만, 더 이상 무겁게 느껴지지는 않았다.\n오래된 무덤 위에 새로운 비석이 세워졌다. 이 도시를 잠시 둘러본 후, 나는 곧 북쪽으로 돌아갔다. 그곳은 한 시대 전체를 희생시키고, 구세계의 먼지나 신세계의 청사진 따위 없이, 오직 '생존'만을 위해 싸우는 전장이었다.\n그곳이 우리의 전장이다.\n- 작자 미상의 음성 녹취 기록, 로도스 아일랜드 보관"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0029_pograni_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "In position and standing by.",
+    "zh-TW": "已到達待命位置。",
+    "zh-CN": "已到达待命位置。",
+    "ja": "待機地点に到着した。",
+    "ko": "대기 위치에 도착했네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Ready to break camp on command.",
+    "zh-TW": "隨時準備拔營。",
+    "zh-CN": "随时准备拔营。",
+    "ja": "常に出陣に備えよ。",
+    "ko": "언제든지 이동할 수 있네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "A soldier is born to fight.",
+    "zh-TW": "戰鬥即是軍人的天職。",
+    "zh-CN": "战斗即是军人的天职。",
+    "ja": "戦こそ、軍人の誇りだ。",
+    "ko": "군인에게 전투는 당연한 일이지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Survival is never free. We always have to pay.",
+    "zh-TW": "我們總是需要為生存付出代價。",
+    "zh-CN": "我们总是需要为生存付出代价。",
+    "ja": "生きるには、代償が必要だ。",
+    "ko": "우리는 언제나 생존을 위한 대가를 치러야 하네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "One must learn to wield violence — not for good nor malice, but for the sake of survival.",
+    "zh-TW": "必須學會如何去運用暴力，只為生存，無關善惡。",
+    "zh-CN": "必须学会如何去运用暴力，只为生存，无关善恶。",
+    "ja": "生き延びるためにどう暴力を利用するか。そこに善悪など介在しない。",
+    "ko": "폭력을 사용하는 방법을 반드시 익혀야 하지. 생존을 위한 선택일뿐, 선악과는 무관하네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "To a quartermaster, proper armament is the first step toward victory.",
+    "zh-TW": "在軍需官眼中，完備的武裝無異於勝利的起點。",
+    "zh-CN": "在军需官眼中，完备的武装无异于胜利的起点。",
+    "ja": "後方の立場から見れば、完全な装備と勝利というのは同義に近い。",
+    "ko": "군수 장교에게는 완벽한 무장이 곧 승리의 출발점이지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Remissness and negligence pose the deadliest threat on the battlefield.",
+    "zh-TW": "懈怠與疏忽，才是戰場上最棘手的敵人。",
+    "zh-CN": "懈怠与疏忽，才是战场上最棘手的敌人。",
+    "ja": "怠慢と油断こそ、戦場で最も恐ろしい敵だ。",
+    "ko": "나태함과 경솔함이야말로 전장에서 가장 까다로운 적이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "A valuable battle ... My fighting spirit has been stirred.",
+    "zh-TW": "很有價值的戰鬥……真令人熱血沸騰。",
+    "zh-CN": "很有价值的战斗……真令人热血沸腾。",
+    "ja": "価値ある戦いだった……思わず、血が滾った。",
+    "ko": "상당히 전략적인 가치가 있는 전투군... 이런 느낌은 오랜만이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "No badge or ceremony is needed. I fully appreciate the significance of this... Thank you for your trust, Endministrator of Endfield Industries.",
+    "zh-TW": "無需勛章與儀式，我明白這代表著什麼……謝謝你的信任，終末地的管理員。",
+    "zh-CN": "无需勋章与仪式，我明白这代表着什么……谢谢你的信任，终末地的管理员。",
+    "ja": "勲章も式典も必要ない。真意は十分に理解している……貴殿の信頼に感謝しよう。エンドフィールドの管理人。",
+    "ko": "훈장이나 의식은 필요 없네. 이게 뭘 의미하는지 잘 알고 있으니까 말이야... 신뢰해 줘서 고맙군, 엔드필드의 관리자."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0029_pograni_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "If this happened at the Oathkeepers' fortress, I'd have to play the host at tonight's feast.",
+    "zh-TW": "如果是在鐵誓軍的堡壘，今晚我就不得不成為一場宴會的主持了。",
+    "zh-CN": "如果是在铁誓军的堡垒，今晚我就不得不成为一场宴会的主持了。",
+    "ja": "ここが鉄誓軍の要塞ならば……宴の進行役を引き受ける必要があっただろう。",
+    "ko": "철의 서약군의 요새였다면, 오늘 밤 난 연회의 주최자가 됐겠지."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0029_pograni_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Whether on the battlefield or elsewhere, this is an honor. Thank you for your trust, Endministrator. I'll prove that this trust is well placed through my actions on the frontlines.",
+    "zh-TW": "無論在戰場還是別處，這都是一種榮譽。管理員，感謝你託付的信任，我會在最前線證明它的意義。",
+    "zh-CN": "无论在战场还是别处，这都是一种荣誉。管理员，感谢你托付的信任，我会在最前线证明它的意义。",
+    "ja": "戦場であれ、何処であれ……これは栄誉である。管理人、貴殿からの信頼、至極光栄に思う。最前線に立ち、それに応えて見せよう。",
+    "ko": "전장이든 아니든, 이건 명예로운 일이야. 자네가 준 신뢰에 대한 답을 최전선에서 증명해 보이도록 하지."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0029_pograni_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "War remains a brutal affair on Talos-II. Numerous souls have marched into the north, fighting and falling so that the rest of this world may live. Endmin, I have no doubt that your actions will put a solemn end to this cruel cycle of war and sacrifice.",
+    "zh-TW": "塔衛二的戰爭依然殘酷，至今仍有無數人於北方前赴後繼，只為眾多的生機能夠延續。我相信，管理員你所做的，會讓這慘烈的循環得到一份莊嚴的結局。",
+    "zh-CN": "塔卫二的战争依然残酷，至今仍有无数人于北方前赴后继，只为众多的生机能够延续。我相信，管理员你所做的，会让这惨烈的循环得到一份庄严的结局。",
+    "ja": "タロⅡに至っても、戦争の残酷さが変わることはない。今なお、多くの者が北方に向かい生の希望を繋がんとする……私は信じよう。貴殿の歩みがいずれ、この終わりなき連鎖に終止符を打つことを。",
+    "ko": "탈로스 II의 전쟁은 여전히 참혹해. 지금도 많은 사람이 희생을 무릅쓰고 북쪽을 향해 나아가고 있지. 난 믿네, 관리자 자네가 한 모든 것들이 이 비극의 순환에 장엄한 마침표를 찍게 될 거라고 말이야."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0029_pograni_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Pogranichnik, Rhodes Island operator, and officer serving the Order of Steel Oath, reporting for duty. The situation is urgent. I respectfully request a brief on your battle plan, at your earliest convenience.",
+    "zh-TW": "駿衛，羅德島駐外幹員兼鐵誓軍軍官，向你報到。事態緊急，我希望儘快瞭解你的作戰計劃……最好就是現在。",
+    "zh-CN": "骏卫，罗德岛驻外干员兼铁誓军军官，向你报到。事态紧急，我希望尽快了解你的作战计划……最好就是现在。",
+    "ja": "ポグラニチニク、ロドスの特派オペレーター兼鉄誓軍士官、ここに着任する。事態は緊急を要す……貴殿の作戦計画を早急に把握したい。可能ならば、今すぐに。",
+    "ko": "포그라니치니크, 보고하지. 로도스 아일랜드 파견 오퍼레이터이자, 철의 서약군의 장교를 맡고 있네. 긴급한 상황인 만큼, 최대한 빨리 당신의 작전 계획을 알고 싶군... 가능하다면 지금 당장."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Let's go over the battle plan once more, shall we?",
+    "zh-TW": "再推演一次作戰計劃，如何？",
+    "zh-CN": "再推演一次作战计划，如何？",
+    "ja": "作戦計画の再演習を提案する。如何か？",
+    "ko": "작전 계획을 다시 한번 시뮬레이션해 보는 건 어떻겠나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "The slightest slip of mind decides who lives ... and who dies in battle.",
+    "zh-TW": "戰場上的生與死，往往只在一念之間。",
+    "zh-CN": "战场上的生与死，往往只在一念之间。",
+    "ja": "戦場において、生と死は紙一重だ。",
+    "ko": "전장에서의 생존과 죽음은 순간의 선택에 달렸다네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "I've never tried this sort of work... But from a strategic perspective, it may be worth a try.",
+    "zh-TW": "我並未嘗試過這種工作……但出於戰略考量，或許值得一試。",
+    "zh-CN": "我并未尝试过这种工作……但出于战略考量，或许值得一试。",
+    "ja": "こういった任務は初めてだが……戦略上、試す価値はあるかもしれん。",
+    "ko": "이런 일을 해본 적이 없네... 하지만, 전략적인 관점에서 시도해 볼 가치는 있겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Greetings, Endministrator. Here for another inspection tour?",
+    "zh-TW": "你好，管理員，又來巡視了嗎？",
+    "zh-CN": "你好，管理员，又来巡视了吗？",
+    "ja": "調子はどうだ、管理人。今回は視察か？",
+    "ko": "반갑네, 관리자. 또 순찰 중인가?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Salutations, Endministrator.",
+    "zh-TW": "向你致敬，管理員。",
+    "zh-CN": "向你致敬，管理员。",
+    "ja": "管理人、貴殿に敬意を表する。",
+    "ko": "경의를 표하네, 관리자."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0029_pograni_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Dijiang is much larger than I expected, but I hardly spent any time familiarizing myself with its entire layout. That's thanks to the ingenious and impeccable designs by its creator. It's a great starting point for a great dream, Endmin, and I'm eager to see how that dream unfolds.",
+    "zh-TW": "帝江號比我以為的更加巨大，但我熟悉它的各個部分卻只花了極短的時間。這大概要歸功於建造者賦予它的，那近乎精巧的合理構造。這是一個遠大理想的起點，我很期待，管理員。",
+    "zh-CN": "帝江号比我以为的更加巨大，但我熟悉它的各个部分却只花了极短的时间。这大概要归功于建造者赋予它的，那近乎精巧的合理构造。这是一个远大理想的起点，我很期待，管理员。",
+    "ja": "帝江号は予想を超える規模であったが、構造にはすぐに慣れた。実に巧妙で合理的な設計であり、発案者の努力が功を奏したのだろう。偉大な理想の第一歩に相応しい。大いに期待している、管理人。",
+    "ko": "제강호가 이렇게 클 줄은 몰랐군. 하지만 각 부분을 알아가는 게 어렵지는 않았네. 아마도 건설자가 정교하고도 합리적으로 구조를 짰기 때문이겠지. 이건 원대한 이상을 향한 출발점이야. 기대하고 있겠네, 관리자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "The Automated Industry Complex is far beyond what I imagined. With the Protocol Automation-Core, the suite of Terran military-industrial machines will finally have a potent heart, one that sustains stable deliveries of essential resources to every imperiled corner of the planet. Endmin, your work will save countless lives. On that I give you my sincere promise.",
+    "zh-TW": "集成工業系統確實遠超我的想像。藉由協議核心，泰拉文明的軍工機器將擁有一顆無可匹敵的鋼鐵心臟，能夠不斷向這顆星球所有危險的角落輸送血液。管理員，你們將會拯救無數人的性命，我可以向你保證。",
+    "zh-CN": "集成工业系统确实远超我的想象。借由协议核心，泰拉文明的军工机器将拥有一颗无可匹敌的钢铁心脏，能够不断向这颗星球所有危险的角落输送血液。管理员，你们将会拯救无数人的性命，我可以向你保证。",
+    "ja": "集成工業システムは、間違いなく私の想像を超えるものだ。協約核心によってテラ文明の軍用機械は無敵の鋼の心臓となり、この星の至る所に血液を行き渡らせる。管理人、貴殿たちは無数の命を救うだろう――私が保証人となる。",
+    "ko": "통합 공업 시스템은 내 예상을 확실하게 뛰어넘었네. 프로토콜 코어를 통해 테라 문명의 군수 기계는 타의 추종을 불허하는 강철 심장을 얻게 됐지. 이 행성의 모든 위험한 구역으로 끊임없는 혈액을 공급할 수 있게 된 거야. 관리자, 자네들은 수많은 생명을 구하게 될 걸세. 내가 장담해."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0029_pograni_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "The Arsenal Engineers of Endfield are truly impressive. They managed to complete weapon maintenance for every personnel despite the tight schedules... Such efficiency is rare, even on the Northern Front. Though I must admit, I didn't expect someone that young to be in charge of your Arsenal.",
+    "zh-TW": "終末地的武庫工程師實在令人欽佩，竟然能在這樣有限的時間內，完成所有人員的武器維護工作……這樣的效率即使是在北方前線也稱得上是數一數二。不過，他們的負責人為何如此年幼？",
+    "zh-CN": "终末地的武库工程师着实令人钦佩，竟然能在这样有限的时间内，完成所有人员的武器维护工作……这样的效率即使是在北方前线也称得上是数一数二。不过，他们的负责人为何如此年幼？",
+    "ja": "エンドフィールドの武庫エンジニアには本当に頭が下がる。限られた時間内で、全員の武器調整を完了させるとは……北方前線であっても一二を争う効率だ。しかし、武庫の担当者は何故あれほどに幼いのか？",
+    "ko": "엔드필드의 무기고 공학자들은 정말 놀랍네. 이렇게 한정된 시간 안에 모든 요원의 무기를 점검할 수 있다니 말이야... 이런 효율이라면 북쪽 전선에서도 최고라고 불릴 만하네. 근데 그 책임자는 왜 이렇게 어려 보이는 건가?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0029_pograni_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "I've reviewed Instructor Lil' Dodge's training program for you. The content is practical and the difficulty curve is well-balanced. I don't intend to make any changes to it, though I added one or two extra minor trials based on my experience... But I trust that won't be a problem for you, Endministrator.",
+    "zh-TW": "我看過小道奇教官為你們擬定的訓練方案，十分務實也足夠循序漸進。我並沒有改動的打算，只是會根據經驗額外追加一兩場小小試煉……但想必是難不倒你的，管理員。",
+    "zh-CN": "我看过小道奇教官为你们拟定的训练方案，十分务实也足够循序渐进。我并没有改动的打算，只是会根据经验额外追加一两场小小试炼……但想必是难不倒你的，管理员。",
+    "ja": "ダッジ教官が作成した訓練計画には目を通した。非常に実務的で、段階を経て成長できる。修正を加えるつもりはない。ただ、経験に基づき試練を少しばかり追加した……貴殿にとっては、取るに足りん内容だろうが。",
+    "ko": "도치 교관이 자네들을 위해 편성한 훈련 계획을 봤네. 상당히 실용적이면서도 잘 짜여 있더군. 크게 손볼 건 없어서 작은 시련만 한두 개 추가해 놓았네. 자네 실력이라면 큰 문제없을 거야."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0029_pograni_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "Before you were awakened, I hadn't taken part directly in Endfield operations for years. To me, whether I serve at Rhodes Island, Endfield, or the Order of Steel Oath makes no difference. I only want to protect what I believe is worth protecting. And this time, I shall advance, and never retreat.",
+    "zh-TW": "在你醒來前，我已許久未直接參與過終末地的行動。對我而言，羅德島、終末地、鐵誓軍，並無不同。我只是想保護那些值得保護的東西，而這一次，我可以義無反顧。",
+    "zh-CN": "在你醒来前，我已许久未直接参与过终末地的行动。对我而言，罗德岛、终末地、铁誓军，并无不同。我只是想保护那些值得保护的东西，而这一次，我可以义无反顾。",
+    "ja": "貴殿が目を覚ます以前より、エンドフィールドには暫く関与していない。ロドス、エンドフィールド、そして鉄誓軍……本質に大きな違いはない。守るべきものを守る――ただそれだけだ。そして此度こそ一片の迷いなどなく、信念に殉ずる覚悟だ。",
+    "ko": "자네가 깨어나기 전, 난 한동안 엔드필드의 작전에 직접적으로 참여하지 않았네. 로도스 아일랜드든, 엔드필드든, 철의 서약군이든, 나한테는 별 다를 바가 없으니까 말이야. 난 지켜야 할 것들을 지키고 싶을 뿐이거든. 그리고 이번에는 머뭇거릴 이유도 없지."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0029_pograni_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Every time I look out over Talos-II, I feel a surge of inspiration. Massive swarms of abominations, capable of engulfing the entire planet, are forced into cauldrons in the auroral north. Mere soldiers of flesh and blood were the brick and mortar that held the enemy in check. This is one of the Oathkeeper's greatest military feats, an undeniable proof that we are worthy ... of the immense responsibility of preserving civilization.",
+    "zh-TW": "眺望塔衛二總是能給我莫大的鼓舞，足以覆蓋整顆衛星的異類被戰士們以血肉之軀攔截在北方極光下的方寸之地中。這是鐵誓軍最偉大的軍事成就之一，也是我們值得被委以文明延續之重任的鐵證。",
+    "zh-CN": "眺望塔卫二总是能给我莫大的鼓舞，足以覆盖整颗卫星的异类被战士们以血肉之躯拦截在北方极光下的方寸之地中。这是铁誓军最伟大的军事成就之一，也是我们值得被委以文明延续之重任的铁证。",
+    "ja": "タロⅡを見渡す度、奮い立つ。この衛星を覆い尽くさんとした異形を、我らが戦士たちは北方のオーロラの下、僅かな土地のみに食い止めている。これは、鉄誓軍にとって最も偉大な軍事的成果――文明の存続を託されるに足る存在だという証でもあるのだ。",
+    "ko": "탈로스 II를 보고 있으면 항상 큰 동기부여가 되네. 우리 전사들이 북쪽 오로라 아래에서 이질적인 존재들을 막아내며 피와 살로 방어선을 쌓고 있으니 말이야. 이건 철의 서약군의 가장 위대한 군사적 성과 중 하나이면서, 우리가 문명을 이어 나갈 중대한 임무를 맡을 자격이 있다는 확실한 증거이기도 하지."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0029_pograni_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "I stumbled upon this in the north... It might prove useful to you, Endministrator.",
+    "zh-TW": "這是我在北方意外得到的……也許對你有用，管理員。",
+    "zh-CN": "这是我在北方意外得到的……也许对你有用，管理员。",
+    "ja": "北方で偶然手に入れたものだ……貴殿なら、うまく扱えるかもしれん。",
+    "ko": "북쪽에서 우연히 얻었네... 자네한테 도움이 될지도 모르겠군, 관리자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Thank you for your gift, Endministrator. I take it as a commendation as well... And please accept this as my token of gratitude.",
+    "zh-TW": "感謝你的饋贈，管理員。這對我來說亦是一種嘉獎……請收下這個吧，就當是我的回禮。",
+    "zh-CN": "感谢你的馈赠，管理员。这对我来说亦是一种嘉奖……请收下这个吧，就当是我的回礼。",
+    "ja": "貴殿の気持ちに感謝する。私にとって、これも褒賞の1つだ……私からはこれをやろう。受け取ってくれ。",
+    "ko": "선물 고맙네, 관리자. 나한테 있어서 이건 일종의 훈장이거든... 이걸 받아주게, 내 답례일세."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "After leaving Rhodes Island, I first visited the Industrial Mothership of the UWST. For some reason, I wanted to see what fruits a certain chapter of history had borne in this land. When I laid eyes on that indomitable city, I was deeply moved. If the children of Ursus can leave the past behind, start things anew, and achieve their own feats of honor and glory, then I, Khorsyn, have no reason to hesitate any longer.",
+    "zh-TW": "離開羅德島後，我最先落腳的地方是工團的工業母艦。出於一些原因，我想見證某一段過往在這片土地締造出的結果。看到那座頑強的城市時，我確實深受觸動。如果烏薩斯人的後裔能以另一個面貌贏得屬於他們的榮譽，那麼，赫爾森也不應該再猶豫下去。",
+    "zh-CN": "离开罗德岛后，我最先落脚的地方是工团的工业母舰。出于一些原因，我想见证某一段过往在这片土地缔造出的结果。看到那座顽强的城市时，我确实深受触动。如果乌萨斯人的后裔能以另一个面貌赢得属于他们的荣誉，那么，赫尔森也不应该再犹豫下去。",
+    "ja": "ロドスを離れ、最初に身を置いたのは工業団の母艦だった。諸事情があり……この地に刻まれた過去がどう結実したか、見届けたかったのだ。あの堅牢な都市を目にしたとき、私は深く心打たれた。もし、ウルサス人の末裔が異なる姿で栄誉を勝ち取ったのならば――もはや私に躊躇う理由などない。",
+    "ko": "로도스 아일랜드를 떠난 내가 처음으로 발을 디딘 곳은 공단의 공업 모선이었네. 여러 가지 이유가 있지만, 어찌 됐든 난 이 대지에서 만들어진 어떤 과거의 결과를 보고 싶었거든. 그 강인한 도시는 나한테 큰 감명을 주더군. 우르수스인의 후손이 다른 모습으로 그들의 명예를 되찾았으니, 헤르손도 더 이상 주저할 수는 없겠지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Military life with the Oathkeepers has taught me three lessons: First, trust your comrades; second, never back down easily; third, never push your luck. In the north, violating any of these principles could bring misfortune to you or your comrades.",
+    "zh-TW": "鐵誓軍的軍旅生活教會我三件事。第一，信任你的戰友；第二，不要輕易退縮；第三，不可懷有僥倖。在那裡，違背上述任意一條都可能為自身或是戰友帶來不幸。",
+    "zh-CN": "铁誓军的军旅生活教会我三件事。第一，信任你的战友；第二，不要轻易退缩；第三，不可怀揣侥幸。在那里，违背上述任意一条都可能为自身或是战友带来不幸。",
+    "ja": "鉄誓軍での生活が私に教えてくれたことは三つ。一つ、戦友は信頼せよ。二つ、容易く退いてはならぬ。三つ、幸運や偶然に期待するな。1つでも破ったならば、自身或いは戦友に破滅が訪れることになるだろう。",
+    "ko": "철의 서약군에서의 생활은 나한테 세 가지를 가르쳤네. 첫째, 자기 전우를 믿을 것. 둘째, 쉽게 물러서지 않을 것. 셋째, 요행을 바라지 말 것... 이 셋 중 하나라도 어긴다면... 자신은 물론, 전우에게도 불행이 찾아올 걸세."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0029_pograni_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "During my time with the Oathkeepers, I reorganized and trained the Shieldguards. The idea took shape on the night before I reached the Oathkeepers' bastion complex. Massive structures rose in the shadow of the mountains. Sami's Myrkwood stretched out in the darkness, as if dark green flames creeping along the riverbanks. Countless tombstones stood in rows, forming a wall that held back the enemies from the north. The Oathkeepers is a shield protecting the Civilization Band, and I've forged another shield for them. I believe these soldiers will never break.",
+    "zh-TW": "我在鐵誓軍重組並訓練了盾衛。這個想法誕生自我抵達堡壘群的前夜。厚重的建築群依山而建，薩米的黑森林像深綠色的火焰，沿著河流燃燒。無數人的墓碑如同城牆排列，擋住來自北方的敵人。鐵誓軍是文明環帶的一面盾，而我又為鐵誓軍帶去了另一面。我相信，這些戰士堅不可摧。",
+    "zh-CN": "我在铁誓军重组并训练了盾卫。这个想法诞生自我抵达堡垒群的前夜。厚重的建筑群依山而建，萨米的黑森林像深绿色的火焰，沿着河流燃烧。无数人的墓碑如同城墙排列，挡住来自北方的敌人。铁誓军是文明环带的一面盾，而我又为铁誓军带去了另一面。我相信，这些战士坚不可摧。",
+    "ja": "鉄誓軍で盾兵を再編しようという考えは、要塞群に向かう前夜に生まれたものだ。重厚な建造物は山肌に沿って連なり、サーミの黒き森の深緑は川辺に燃え広がる炎のようだった。数え切れぬ墓碑が城壁のように並び、北方の敵を退ける。鉄誓軍は、文明地帯の盾だ。そして私は、その盾をもう1枚鍛えた。この戦士たちが最も強固な盾になる――そう信じている。",
+    "ko": "철의 서약군에서 난 방패병 부대를 새로 편성하고 훈련했네. 내가 요새 지대에 도착하기 전부터 생각했던 일이지. 거대한 건물들이 산을 따라 겹겹이 쌓여 있고, 사미의 검은 숲은 짙은 초록의 불꽃처럼 강줄기를 따라 활활 타오르고 있었다네. 무수한 이들의 묘비가 마치 성벽처럼 늘어서 북쪽에서 오는 적을 막아내고 있더군. 철의 서약군은 문명 밴드를 지키는 하나의 방패였네. 그리고 난 그 방패에 새로운 면을 부여했어. 난 믿네, 이 전사들은 절대 무너지지 않을 걸세."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0029_pograni_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "Hellagur is more like a mentor and friend. I've come to understand his regrets and guilt, and I've learned from his thoughts and skills. There is no Hellagur the Ursine General here — only Khorsyn of Rhodes Island and Endfield. At times, I feel grateful I have no past to weigh me down. Other times, I feel ... the ache of solitude. If what I'm protecting turns out to be another empty ideal, then it's no different from the hollow glory of the Ursus Empire. Endministrator, I hope that ... you'll be one to give me an answer.",
+    "zh-TW": "赫拉格更像是我的良師益友。我飽嚐了他的遺憾與愧疚，也學習了他的想法與技能。這裡沒有烏薩斯的赫拉格將軍，這裡只有羅德島和終末地的赫爾森。偶爾，我慶幸自己了無牽掛。偶爾，我又會感到……孤獨。我所保護的東西若是虛指，那和帝國虛偽的榮光並無二致。管理員，我希望……你能成為我的答案。",
+    "zh-CN": "赫拉格更像是我的良师益友。我饱尝了他的遗憾与愧疚，也学习了他的想法与技能。这里没有乌萨斯的赫拉格将军，这里只有罗德岛和终末地的赫尔森。偶尔，我庆幸自己了无牵挂。偶尔，我又会感到……孤独。我所保护的东西若是虚指，那和帝国虚伪的荣光并无二致。管理员，我希望……你能成为我的答案。",
+    "ja": "ヘラグは私の良き師であり友のような存在だ。彼の無念と後悔をこの身に刻み、思想と技術を受け継いだ。今ここにいるのはウルサスのヘラグ将軍ではなく、ロドスとエンドフィールドの「ホールスン」だ。時に独りである有難みを感じながらも、孤独に苛まれることもあった。もし守るべきものが幻ならば、帝国の偽りの栄光と何が違うのか。管理人、貴殿がその答えに……そうあることを願う。",
+    "ko": "헬라그는 나한테 있어 좋은 스승이자 동료라 할 수 있지. 헬라그의 후회와 죄책감을 똑같이 경험하며, 그자의 생각과 기술들을 받아들였다네. 하지만 지금 이곳에 우르수스의 헬라그 장군은 존재하지 않아. 로도스 아일랜드와 엔드필드의 헤르손만 있을 뿐이지. 가끔 난, 아무 걱정 없는 지금의 내가 행복하다고 생각할 때가 있네. 그리고 또 가끔은... 고독하다고 생각하지. 내가 지켜야 할 것들이 허상이라고 한다면, 그건 제국의 겉만 번지르르한 영광과 다를 바가 없다네. 관리자, 난... 자네가 그 답이 됐으면 좋겠군."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0029_pograni_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "Endmin, it is my solemn wish that your vision is fulfilled; that everyone at Rhodes Island can return to a life of peace and common joys; that the Oathkeepers can finally beat their swords to plowshares and enjoy the company of their loved ones; and that life can finally sink its roots deep into this ancient planet. I look forward to celebrating every victory with you and your friends. Even in the face of a devastating defeat, I pray that you will survive by any means necessary. If you do, then everything I've done will be worth it.",
+    "zh-TW": "我希望管理員你能夠實現目標；我希望羅德島的人們能夠回到普通的生活；我希望鐵誓軍有朝一日鑄劍為犁，解甲歸田；我希望生命能在這顆古老的星球得以延續。管理員，每當獲勝，我都希望能與你們一起慶祝。但哪怕僅有一次的失敗到來，我希望你能活下去，以任何方式活下去，那我便不枉此行。",
+    "zh-CN": "我希望管理员你能够实现目标；我希望罗德岛的人们能够回到普通的生活；我希望铁誓军有朝一日铸剑为犁，解甲归田；我希望生命能在这颗古老的星球得以延续。管理员，每当获胜，我都希望能与你们一同庆祝。但哪怕仅有一次的失败到来，我希望你能活下去，以任何方式活下去，那我便不枉此行。",
+    "ja": "貴殿の目標が現実になることを願う。ロドスの者が平穏に暮らせるように。鉄誓軍が剣を鋤に鋳直し、鎧を脱ぎ畑に還れるように。この古き星で命が途切れぬように……勝利のたびに貴殿と祝杯を交わしたいと思うが、たとえ一度きりでも敗北が訪れたならば……何があろうとも、生き延びてくれ。私がここに来た意味となるように。",
+    "ko": "난 자네가 목표를 달성했으면 좋겠네. 로도스 아일랜드의 사람들이 다시 평범한 삶으로 돌아가고, 철의 서약군이 검을 내려두고 쟁기를 잡으며, 갑옷을 벗고서 밭을 일궈나가는 삶을 바라고 있지. 이 오래된 행성에서 생명이 계속 이어졌으면 좋겠다는 말이야. 관리자, 난 승리할 때마다 자네들과 같이 축하를 나누고 싶다는 생각이 가득해. 하지만 언젠가 패배하게 되더라도, 난 자네가 살아남았으면 좋겠네. 어떤 방법을 쓰더라도 말이야. 그럼 난 이 여정이 후회스럽지 않을 것 같거든."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0029_pograni_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "The youths of Op Team Z7 are truly impressive. They've only received basic military training, but managed to develop combat awareness on par with that of standard military combatants. Such achievement is rare, and commendable.",
+    "zh-TW": "Z7行動組的年輕人們確實讓我印象深刻。他們雖然只接受了簡單的軍事訓練，卻憑藉個人努力收穫了與普通軍人同等程度的作戰意識……這點尤為可貴。",
+    "zh-CN": "Z7行动组的年轻人们确实让我印象深刻。他们虽然只接受了简单的军事训练，却凭借个人努力收获了与普通军人同等水平的作战意识……这点尤为可贵。",
+    "ja": "行動隊Z7の若者たちのことは印象に残っている。基礎的な軍事訓練しか受けていないにも関わらず、各々の努力で通常の兵士と比較しても遜色ない戦闘意識を身に着けていた。称賛に値する。",
+    "ko": "Z7 작전팀의 젊은이들, 인상 깊더군. 간단한 군사 훈련만 받았을 뿐인데, 각자의 노력으로 일반 군인 못지않은 실력을 내보인다는 게 말이야... 높이 평가할 만해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "I worked all kinds of jobs in the north. Besides being a commander, I also doubled as a quartermaster and drill instructor. I forged weapons, milked new breeds of cystybeasts, and even made grape wine...",
+    "zh-TW": "我在北方有過很多工作經驗。除了指揮官之外，我同時還是軍需官和教官。我鍛造過武器，為新品種的瘤獸擠奶，甚至親自釀過一些葡萄酒……",
+    "zh-CN": "我在北方有过很多工作经验。除了指挥官之外，我同时还是军需官和教官。我锻造过武器，为新品种的瘤兽挤奶，甚至亲自酿过一些葡萄酒……",
+    "ja": "北方では、指揮官以外に後方支援や教官の任にも就いていた。さらに武器の鍛造、新種の瘤獣の搾乳、ワインの醸造に至るまで……私も多くの仕事を経験してきたものだ。",
+    "ko": "북쪽에 있을 때 난 참 다양한 업무를 해봤네. 지휘관을 맡기도 했지만, 군수 장교나 교관을 맡은 적도 있지. 무기를 만들거나, 새로운 품종 치스티비스트의 젖을 짜본 적도 있었고 말이야. 심지어는 직접 포도주를 빚은 적도 있네..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "What is a soldier's honor? I'm afraid even I cannot give a definitive answer. But should you ever visit the Oathkeepers' fortress in the north, I urge you to visit our memorial... Every name engraved upon the monument once held an answer to that question.",
+    "zh-TW": "什麼是軍人的榮譽？就算是我，恐怕也無法做出斷言。但管理員，倘若有一天你到達北方的要塞，可以去看看鐵誓軍在那裡立下的紀念碑……上面的每一個名字，都曾是一個答案。",
+    "zh-CN": "什么是军人的荣誉？就算是我，恐怕也没法做出断言。但管理员，倘若有一天你到达北方的要塞，可以去看看铁誓军在那里立下的纪念碑……上面的每一个名字，都曾是一个答案。",
+    "ja": "軍人の誇りとは何か——問われたところで、私とて断言はできん。しかし、貴殿が北方の要塞を訪れることがあれば、鉄誓軍の記念碑を見て貰いたい。そこに刻まれた名の一つ一つが、その問いへの答えとなろう。",
+    "ko": "군인의 명예란 무엇이라고 생각하나? 나도 쉽게 정의 내리진 못하겠군. 하지만 관리자... 언젠가 북쪽 요새에 가게 된다면, 철의 서약군이 세운 기념비를 찾아가 봐도 좋을 걸세. 그곳에 새겨진 이름 하나하나가 바로 답이 될 테니 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "The Grand Treasurer manages a massive vault of legacies. They include not only relics of Oathkeeper legends, but also currently unrestorable Terra technologies, and mysterious artifacts of the Precursors. I was once given the chance to choose a relic to wield, but I refused. I had already drawn on the glory of a past legend. For the rest of my life, I will leave behind my own glorious legacy.",
+    "zh-TW": "大司庫管理著一座遺產庫。「遺產」的定義多種多樣，除去鐵誓軍歷代英傑的遺物，還有一些是難以復原的泰拉技術，或是原理未知的前文明發現。我曾被允許挑選一把「遺產」作為己用，但我拒絕了。借用前人榮耀的事，我早已做過一次。此身此世，我應當留下屬於自己的榮耀。",
+    "zh-CN": "大司库管理着一座遗产库。“遗产”的定义多种多样，除去铁誓军历代英杰的遗物，还有一些是难以复原的泰拉技术，或是原理未知的前文明发现。我曾被允许挑选一把“遗产”作为己用，但我拒绝了。借用前人荣耀的事，我早已做过一次。此身此世，我应当留下属于自己的荣耀。",
+    "ja": "遺産庫は納儀官により管理される。一口に「遺産」と言っても千差万別だ。鉄誓軍における歴代の英雄が残した遺品以外に、復元困難なテラ技術、原理すら不明な旧文明の一品……以前、1つを選んで良いと言われたことがある。しかし、断った――先人の威を借りて戦う過去は、一度で十分だ。今度はこの身をもって、己の誇りを刻むべきだろう。",
+    "ko": "대사고는 유산 저장고를 관리한다네. '유산'의 정의는 다양하나, 철의 서약군 내 역대 영웅의 유품부터 복원하기 어려운 테라 기술과 원리를 알 수 없는 옛 문명에서 발견한 것들까지도 포함하지. 전에 그 '유산' 중 하나를 사용해도 된다는 허가가 내려온 적도 있지만, 난 거절했네. 과거의 영광을 빌려 쓰는 일은 한 번으로 충분했거든. 이제는... 나 자신의 영광을 남길 차례야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "Most of the time, Oathkeepers are fighting Aggeloi, Ankhors, and the disasters caused by Ætherside activities. But there have been extremely rare occasions where we faced inexplicable phenomena: traces of giant creatures, witness reports of peculiar individuals... This is why I immediately requested to return to Endfield when I heard the Endmin had been awakened.",
+    "zh-TW": "鐵誓軍的敵人大部分時候都是天使和錨點，以及超域活動帶來的災害。但極少數情況下，我們會面對一些自身無法理解的現象：巨大的生物痕跡，奇異人類個體的目擊報告……這也是我得知管理員甦醒後，立刻申請重回終末地的原因。",
+    "zh-CN": "铁誓军的敌人大部分时候都是天使和锚点，以及超域活动带来的灾害。但极少数情况下，我们会面对一些自身无法理解的现象：巨大的生物痕迹，奇异人类个体的目击报告……这也是我得知管理员苏醒后，立刻申请重回终末地的原因。",
+    "ja": "鉄誓軍の敵は、概ねアンゲロスとアンカー、超域に伴う災害であった。だが、ごく稀に我々の理解が及ばない現象に直面する。例えば、巨大生物の痕跡、奇妙な人型の目撃情報……だからこそ、管理人が目覚めたと知って直ぐに、エンドフィールドへの復帰を申し出たのだ。",
+    "ko": "철의 서약군의 적은 대부분 아겔로스와 앵커, 그리고 초자연적인 활동에서 비롯된 재해네. 하지만 극히 드물게 우리 스스로도 이해하지 못하는 현상을 마주하기도 하지. 거대한 생물이 남긴 흔적, 기이한 인류를 목격했다는 보고까지... 이 또한 자네가 깨어났다는 소식을 듣자마자 지체 없이 엔드필드로 돌아온 이유 중 하나라네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_about_line01",
+   "title": {
+    "en": "Topic: Order of Steel Oath",
+    "zh-TW": "話題：鐵誓軍",
+    "zh-CN": "话题：铁誓军",
+    "ja": "鉄誓軍について",
+    "ko": "철의 서약군에 관하여"
+   },
+   "text": {
+    "en": "The north is actually quite different from what most people imagine. After a century of development, the Oathkeepers' fortresses have become bustling hubs of commerce and entertainment. People became accustomed to constant war, and have created a rather vibrant way of life. Outside the fortresses, the Samifjod built settlements in Myrkwood to preserve their ancient knowledge and culture. Their caravans would often travel between the fortresses and the forest. Endmin, you should pay the north a visit. It's a beautiful place, and I'll gladly accompany you if that is your wish.",
+    "zh-TW": "北方和很多人的想像並不相同。百年的營運使得鐵誓軍的堡壘也擁有興盛的商業和娛樂業，人們在習以為常的戰事下孕育了一種朝氣蓬勃的生活方式。而堡壘之外，薩米人在那裡的黑森林安家，古老的知識和文化得以保留，大篷車來往於堡壘與森林之間。管理員，你應該去一趟北方。那裡很美，我會陪著你。",
+    "zh-CN": "北方和很多人的想象并不相同。百年的运营使得铁誓军的堡垒也拥有兴盛的商业和娱乐业，人们在习以为常的战事下孕育了一种朝气蓬勃的生活方式。而堡垒之外，萨米人在那里的黑森林安家，古老的知识和文化得以保留，大篷车来往于堡垒与森林之间。管理员，你应该去一趟北方。那里很美，我会陪着你。",
+    "ja": "北方は多くの想像とは違う場所だろう。100年を経て鉄誓軍の要塞は栄え、商業と娯楽は発展した。戦が日常的なものでありながら、活気に満ちた生活も築いてきた。要塞の外では黒き森に暮らすサーミ人たちが古の知識と文化を守り続け、キャラバンが要塞と森とを絶えず行き交う。管理人、貴殿も一度北方に赴いてはどうか。実に美しい場所なのだ。私も貴殿に同行しよう。",
+    "ko": "북쪽은 많은 이들의 상상과는 다르다네. 백 년간이라는 시간이 지나며 철의 서약군의 요새에서도 상업이 번성하고 여가 생활을 즐기는 자들이 생기기 시작했지. 전쟁이 일상이 된 환경에서 활기찬 삶의 방식을 만들어 낸 거야. 요새 밖에는 사미인들이 검은 숲에 정착하여 오래된 지식과 문화를 보존하며 살아갔고, 트럭은 요새와 숲 사이를 오갔다네. 관리자, 북쪽에 한 번 다녀오는 건 어떻겠나? 정말 아름다운 곳이거든. 내가 자네와 함께 하겠네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_about_line02",
+   "title": {
+    "en": "Topic: The UWST",
+    "zh-TW": "話題：聯盟工團",
+    "zh-CN": "话题：联盟工团",
+    "ja": "工業団連盟について",
+    "ko": "연맹 공단에 관하여"
+   },
+   "text": {
+    "en": "Industrial Mothership, the largest city of the UWST, now goes by many names and aliases. But I know her name was Simonch when she was still in Terra. She sank in a lake under the tyrannical rule of the Ursus Empire. I still don't know why the Empire salvaged her afterwards, nor why they repurposed that ruined city into an exclave in a foreign world. Nevertheless, she is now the largest nomadic city on Talos-II, and a spiritual symbol for many.",
+    "zh-TW": "工業母艦，這座工團最大的城市如今有很多名字與簡稱。而我知道一個她在泰拉時的名字——「塞夢珂」。在帝國的暴政下，她曾被沉入了一片大湖。我不清楚烏薩斯為何要撈起她，又為何要把這樣一座廢城改造成他們在異星的飛地。但至少，這座塔衛二現存最巨大的移動城市，已然成為了無數人的精神象徵。",
+    "zh-CN": "工业母舰，这座工团最大的城市如今有很多名字与简称。而我知道一个她在泰拉时的名字——“塞梦珂”。在帝国的暴政下，她曾被沉入了一片大湖。我不清楚乌萨斯为何要捞起她，又为何要把这样一座废城改造成他们在异星的飞地。但至少，这座塔卫二现存最巨大的移动城市，已然成为了无数人的精神象征。",
+    "ja": "工業母艦――工業団で最大を誇る都市であり多くの名と略称があるが、私はそのテラでの名を知っている――「シモンク」。帝国の圧政の下、湖底に沈められた都市だ。ウルサスが何故それを引き上げ、如何にして廃墟となった都市を異星の飛び地へと作り替えたのか、私にはわからない。ただ、少なくともタロⅡ最大の移動都市として、人々の心の灯台となっていることに間違いはない。",
+    "ko": "공업 모선, 이 공단 최대의 도시에는 다양한 이름과 약칭이 있네. 그리고 난 테라 시기의 이름을 알고 있지, '사이몬크'. 제국의 폭정으로 인해, 한때 이 도시는 거대한 호수에 수몰됐다네. 우르수스가 왜 폐허가 된 도시를 끌어올렸고, 왜 또 외계 행성의 비연속 영토로 만들었는지는 알 수 없지만... 적어도 지금, 이 탈로스 II 최대 규모의 이동도시는 수많은 이들에게 정신적 상징이 됐지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_about_line03",
+   "title": {
+    "en": "Topic: Shieldguards",
+    "zh-TW": "話題：盾衛",
+    "zh-CN": "话题：盾卫",
+    "ja": "盾兵について",
+    "ko": "방패병에 관하여"
+   },
+   "text": {
+    "en": "When I first chose my Shieldguards, I saw a motley of trainees even younger than me. My first task was to strip away their aggression, for they are guards and not attackers. Next, I taught them every tactic I knew so they not only defend, but become the living frontline itself. Finally, I made sure that they mastered survival... But in that regard, I've always felt that I haven't done enough. Sacrifice is never the objective. It is a last resort for the sole purpose of avoiding more sacrifices.",
+    "zh-TW": "最初挑選盾衛的時候，我看見的是一群比我還要年輕的戰士。第一步，我需要從他們的身上削去銳氣，他們應當守衛，而非主動出擊；隨後，我將戰術傾囊相授，令他們成為戰線本身；最後一步，讓他們掌握活下去的方法……在這件事上，我始終擔心自己做得還不夠。犧牲不是目的，犧牲是為了阻止更多的犧牲。",
+    "zh-CN": "最初挑选盾卫的时候，我看见的是一群比我还要年轻的战士。第一步，我需要从他们的身上削去锐气，他们应当守卫，而非主动出击；随后，我将战术倾囊相授，令他们成为战线本身；最后一步，让他们掌握活下去的方法……在这件事上，我始终担心自己做得还不够。牺牲不是目的，牺牲是为了阻止更多的牺牲。",
+    "ja": "最初に盾兵を選抜した際、目の前には私よりも若い戦士たちがいた。最初に教えたのは、鋭気を削ぐことだ。守る者は、無闇に動いてはならない。次に戦術を授け、自身を戦線とする方法を与えた。そして最後に、生き延びる術を伝えた……しかし、これだけは未だに教えが不十分だったのではと、そう思っている。犠牲は目的ではない。より多くの犠牲を防ぐために、犠牲となるのだ。",
+    "ko": "처음 방패병을 선발했을 때, 내가 본 건 나보다 더 어린 전사들이었다네. 첫 번째로 난 그 어린 전사들의 날카로운 기질을 깎아내릴 필요가 있었지. 파괴자가 아닌, 수호자가 됐어야 했으니까. 그리고 전술을 전수했네. 전선 그 자체로 기능해야 했거든. 마지막으로는 살아남는 방법을 가르쳤다네... 하지만 이걸 내가 잘 가르쳤는지는 모르겠어. 희생은 목적이 아닌, 더 큰 희생을 막기 위한 선택이어야 하니까 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_about_line04",
+   "title": {
+    "en": "Topic: Ember",
+    "zh-TW": "話題：餘燼",
+    "zh-CN": "话题：余烬",
+    "ja": "エンバーについて",
+    "ko": "엠버에 관하여"
+   },
+   "text": {
+    "en": "I've heard stories about Miss Ember, a most remarkable warrior. Her assignment to the south wasn't just about rebuilding her squad. Her commander wanted to give her a chance to lead a normal life. I believe you have noticed this already, Endmin. Sadly, she is unlikely to appreciate the meaning of this generosity. A soldier who could make peace with their past would never have gone so far as she has.",
+    "zh-TW": "我聽說過餘燼女士的事蹟，她是一名可敬的戰士。我想管理員應該有所瞭解，她的長官令她回到南方重組小隊，其實是給她一個「回到普通生活」的機會。這是一種意義不大的寬容。能和自己的過去和解的戰士，壓根就不會走到這一步。",
+    "zh-CN": "我听说过余烬女士的事迹，她是一名可敬的战士。我想管理员应该有所了解，她的长官令她回到南方重组小队，其实是给她一个“回到普通生活”的机会。这是一种意义不大的宽容。能和自己的过去和解的战士，压根就不会走到这一步。",
+    "ja": "エンバーのことは、私も聞いている。彼女は尊敬に値する戦士だ。貴殿も知っているかもしれないが、南で隊を再編するよう命じられたのは、「普通の生活」に戻る機会を与えるためだ……しかし、あまりにも表面的な寛容だ。過去と折り合いをつけられる者ならば、そもそもあのような状況には至らないだろう。",
+    "ko": "엠버 양의 이야기는 들은 적이 있네. 존경할 만한 전사지. 자네도 알겠지만, 그녀의 상관이 남쪽으로 돌아가 부대를 다시 편성하라고 명령한 건, 사실상 '일상으로 돌아갈 기회'를 준 거였을 걸세. 하지만 그건 별 의미 없는 관용이야. 자신의 과거와 합리적인 합의점을 찾을 수 있는 전사였다면, 애초에 여기까지 이르진 않았을 테니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_about_line05",
+   "title": {
+    "en": "Topic: Samifjod",
+    "zh-TW": "話題：薩米人",
+    "zh-CN": "话题：萨米人",
+    "ja": "サーミ人について",
+    "ko": "사미인에 관하여"
+   },
+   "text": {
+    "en": "Contrary to what people say, the Samifjod are not xenophobes. It is true that for more than a century, they've been living under the lingering protection left behind by their All-Father. Yet, they generously offer help to travelers who respect Sami traditions. The Cyclops once gifted Sami's Teeth to the Seš'qamam to power the floating bastion. The Snowpriests are also more than willing to share their Arts with the Oathkeepers. It is clear that the Samifjod have found their own way of embracing a new life on Talos-II while preserving their heritage.",
+    "zh-TW": "薩米人並沒有傳聞中那麼排外。的確，他們對外來者常懷戒備，百餘年來始終在「祖靈之父」遺留的庇蔭下生活，但對尊重薩米習俗的旅人，他們也不吝於救濟。獨眼巨人曾將薩米的牙齒贈與塞什卡用作其飛空據點的動力源，雪祀也把傳承的法術向鐵誓軍傾囊相授。看得出，薩米人來到塔衛二後也在用自己的方式延續過往的生活。",
+    "zh-CN": "萨米人并没传闻中那么排外。的确，他们对外来者常怀戒备，百余年来始终在“祖灵之父”遗留的庇荫下生活，但对尊重萨米习俗的旅人，他们也不吝于救济。独眼巨人曾将萨米的牙齿赠与塞什卡用作其飞空据点的动力源，雪祀也把传承的法术向铁誓军倾囊相授。看得出，萨米人来到塔卫二后也在用自己的方式延续过往的生活。",
+    "ja": "サーミ人は、言われるほど排他的ではない。100年余りの間「祖霊の父」の庇護下で暮らし、外部の者に警戒心を持ってはいるが、サーミの慣習を尊重する者には迷わず手を差し伸べている。サイクロプスはサーミの牙をセシュカに贈り、それは飛空拠点の動力源となっている。雪祭司も継承してきたアーツを鉄誓軍に惜しみなく授けた。サーミの人々はタロⅡにおいてもなお、かつてと変わらない生き方を貫いている。",
+    "ko": "사미인들은 소문만큼 배타적이지 않다네. 물론, 외부인들을 항상 경계하며 살아오긴 했지. '선령의 아버지'가 남긴 터전 속에서 백 년이 넘는 삶을 이어갔으니까 말이야. 하지만 사미의 풍습을 존중하는 여행자들에게는 아낌없는 도움을 준다네. 사이클롭스는 사미의 이빨을 세쉬카한테 넘겨 비행 거점의 동력원으로 쓰게 했고, 제사장은 전통적으로 전수되어 온 마법을 철의 서약군에게 전수했지. 이걸 보면, 사미인들 역시 탈로스 II에 온 다음에는 자신들의 방식으로 과거의 삶을 이어가고 있다는 걸 알 수 있다네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "You might find that useful.",
+    "zh-TW": "那或許是你們需要的東西。",
+    "zh-CN": "那或许是你们需要的东西。",
+    "ja": "貴殿にとって必要な物かもしれん。",
+    "ko": "자네들한테 필요한 물건일지도 모르겠군."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Keep an eye on that area, if you don't want to miss key supplies.",
+    "zh-TW": "如果不想錯過重要的物資，最好留意一下那裡。",
+    "zh-CN": "如果不想错过重要的物资，最好留心下那里。",
+    "ja": "重要な物資を見逃さないよう、あの周辺に注意を払うことだ。",
+    "ko": "중요한 물자를 놓치고 싶지 않다면, 저쪽을 눈여겨보는 게 좋겠군."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Maintain formation, especially in uncharted territories.",
+    "zh-TW": "未知的區域，切記保持隊形。",
+    "zh-CN": "未知的区域，切记保持队形。",
+    "ja": "未知の地においては、隊列を保つことを忘れるな。",
+    "ko": "확인되지 않은 구역이네, 대형을 유지하게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Stay alert, the enemy there is strong.",
+    "zh-TW": "注意提防，那邊的敵手不容小覷。",
+    "zh-CN": "注意提防，那边的敌手不容小觑。",
+    "ja": "油断するな。敵を侮ってはいけない。",
+    "ko": "경계하게, 저쪽의 적들은 만만치 않아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "This'll shape up nicely — perfect for both offense and defense.",
+    "zh-TW": "優質的礦藏……它們將成為我手中的利劍與堅盾。",
+    "zh-CN": "优质的矿藏……它们将成为我手中的利剑与坚盾。",
+    "ja": "良質な鉱物だ……我々の剣となり、盾となるだろう。",
+    "ko": "아주 좋은 광맥이군... 내 검과 방패가 될 수 있겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "When we pool our strength, no task is beyond us.",
+    "zh-TW": "群策群力之下，再沒有難事。",
+    "zh-CN": "群策群力之下，再没有难事。",
+    "ja": "皆の力と知恵を結集すれば、越えられない壁など無い。",
+    "ko": "모두가 힘을 합치면 못할 일이 없지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Strategic reserves like these can shift the tide of battle.",
+    "zh-TW": "是十分珍貴的物資儲備，足以影響戰局。",
+    "zh-CN": "是十分珍贵的物资储备，足以影响战局。",
+    "ja": "戦局を左右する貴重な物資だ。",
+    "ko": "아주 희귀한 물자가 저장되어 있군. 전황을 바꿀 수 있을지도 모르겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Its strategic significance probably exceeds its operational value.",
+    "zh-TW": "獲得醚質的戰略意義恐怕高於它本身的價值。",
+    "zh-CN": "获得醚质的战略意义恐怕高于它本身的价值。",
+    "ja": "オーリレンを得ることによる戦略的意義は、実体の価値を遥かに凌ぐだろう。",
+    "ko": "오리렌을 확보한다는 전략적 의미는 그 자체의 가치보다 높다네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Adverse variables are best taken out during the earliest phases of war.",
+    "zh-TW": "不利的因素最好從一開始就解決掉。",
+    "zh-CN": "不利的因素最好从一开始就解决掉。",
+    "ja": "不利となる要因は早々に排除すべし。",
+    "ko": "불리하게 작용할 요소는 처음부터 제거하는 게 좋지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Every chance of recuperation counts. It might be your only chance to prepare for the next battle.",
+    "zh-TW": "每一次的休息整頓都非常重要。這意味著在下一場戰鬥來臨前，你還有準備的機會。",
+    "zh-CN": "每一次的休整都尤为重要。这意味着在下一场战斗来临前，你还有准备的机会。",
+    "ja": "休息は貴重だ。次の戦闘に臨むため、備える時間となるのだからな。",
+    "ko": "휴식은 아주 중요해. 다음 전투 전에 준비할 기회가 있다는 것을 의미하니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Hang in there. No rush.",
+    "zh-TW": "注意恢復，切勿心急。",
+    "zh-CN": "注意恢复，切勿心急。",
+    "ja": "傷を癒せ。焦るな。",
+    "ko": "회복에 집중해. 서두를 필요 없네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "That was an oversight.",
+    "zh-TW": "一時疏忽了。",
+    "zh-CN": "一时疏忽了。",
+    "ja": "不覚を取った……すまない。",
+    "ko": "잠깐 방심했군."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "All units! Incoming!",
+    "zh-TW": "全軍！避讓！",
+    "zh-CN": "全军！避让！",
+    "ja": "総員、退け！",
+    "ko": "전군! 대피!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "This is far from desperate.",
+    "zh-TW": "還未到絕境。",
+    "zh-CN": "还未到绝境。",
+    "ja": "打つ手はまだあるはずだ。",
+    "ko": "아직 끝난 게 아니야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "This is no place ... for my war to end...",
+    "zh-TW": "戰場的終點……不該在此……",
+    "zh-CN": "战场的终点……不该在此……",
+    "ja": "戦の終着点……こんなところでは……",
+    "ko": "전장의 종착점은... 여기가 아닌 것을..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "A brilliant strategy.",
+    "zh-TW": "高明的決策。",
+    "zh-CN": "高明的决策。",
+    "ja": "賢明な判断だ。",
+    "ko": "훌륭한 판단이었네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "A textbook maneuver.",
+    "zh-TW": "教科書般的示範。",
+    "zh-CN": "教科书般的示范。",
+    "ja": "模範となる動きだ。",
+    "ko": "모범적인 시범이었어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "You flatter me.",
+    "zh-TW": "諸位過獎了。",
+    "zh-CN": "诸位过奖了。",
+    "ja": "身に余る言葉だ。",
+    "ko": "과찬이군."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "We have proven the power of unity.",
+    "zh-TW": "你們證明了團隊的價值。",
+    "zh-CN": "你们证明了团队的价值。",
+    "ja": "隊の価値を見事に証明して見せたな。",
+    "ko": "자네들은 팀의 가치를 증명했어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "War is never about mercy.",
+    "zh-TW": "戰場從不仁慈。",
+    "zh-CN": "战场从不仁慈。",
+    "ja": "戦場に慈悲などない。",
+    "ko": "전장은 자비를 베풀지 않는 법."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Engage.",
+    "zh-TW": "開始接敵。",
+    "zh-CN": "开始接敌。",
+    "ja": "接敵開始。",
+    "ko": "교전 준비."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Our battle plan proved its worth.",
+    "zh-TW": "均在作戰計劃內。",
+    "zh-CN": "均在作战计划内。",
+    "ja": "作戦計画通り……想定範囲内だ。",
+    "ko": "작전 계획대로군."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "The results speak for themselves.",
+    "zh-TW": "不錯的戰果。",
+    "zh-CN": "不错的战果。",
+    "ja": "戦果は上々と言える。",
+    "ko": "괜찮은 성과야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "It is worth a celebration.",
+    "zh-TW": "值得慶祝一番。",
+    "zh-CN": "值得庆祝一番。",
+    "ja": "勝利に祝杯を。",
+    "ko": "축하할 만하군."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "Every victory bears its price... Hold dear what you've learned, but don't forget what we've paid.",
+    "zh-TW": "勝利總是代價高昂……珍視你由此得到的，勿忘你為此失去的。",
+    "zh-CN": "胜利总是代价高昂……珍视你由此得到的，勿忘你为此失去的。",
+    "ja": "勝利には常に代償が伴う……得たものを貴び、そして失ったものを忘れるな。",
+    "ko": "승리는 언제나 큰 대가가 필요하지... 얻은 건 소중하게 간직하고, 잃어버린 것은 절대 잊지 말게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Don't let failure weigh you down. Own it, and let it propel you to greater heights.",
+    "zh-TW": "無需因失敗感到恥辱，正視它，然後讓它成為你更進一步的墊腳石。",
+    "zh-CN": "无需因失败感到耻辱，正视它，然后让它成为你更进一步的垫脚石。",
+    "ja": "失敗を恥じる必要はない。それを受け止め教訓とし、高みを目指せ。",
+    "ko": "실패를 부끄러워할 필요는 없네. 그 결과를 피하지 말고 한 걸음 더 나아갈 발판으로 삼게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Move aside!",
+    "zh-TW": "退下！",
+    "zh-CN": "退下！",
+    "ja": "どけ！",
+    "ko": "물러나라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Pathetic!",
+    "zh-TW": "無用的掙扎！",
+    "zh-CN": "无用的挣扎！",
+    "ja": "無駄だ！",
+    "ko": "헛된 발악이다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Never tempt fate!",
+    "zh-TW": "絕無僥倖！",
+    "zh-CN": "绝无侥幸！",
+    "ja": "僥倖など通じるか！",
+    "ko": "요행을 바라지 말게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Never fear!",
+    "zh-TW": "絕無怯懦！",
+    "zh-CN": "绝无怯懦！",
+    "ja": "恐怖など感じるか！",
+    "ko": "겁낼 것 없네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Never retreat!",
+    "zh-TW": "絕無退讓！",
+    "zh-CN": "绝无退让！",
+    "ja": "後退などするか！",
+    "ko": "물러서지 않아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "At your command.",
+    "zh-TW": "已就緒。",
+    "zh-CN": "已就绪。",
+    "ja": "準備は整った。",
+    "ko": "준비 완료."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "They're mine to end.",
+    "zh-TW": "我來了結。",
+    "zh-CN": "我来了结。",
+    "ja": "私が終わらせよう。",
+    "ko": "내가 끝내도록 하지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Crescent moon!",
+    "zh-TW": "新月！",
+    "zh-CN": "新月！",
+    "ja": "新月！",
+    "ko": "신월!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Half moon!",
+    "zh-TW": "弦月！",
+    "zh-CN": "弦月！",
+    "ja": "弦月！",
+    "ko": "현월!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_skill_comb_release_03",
+   "title": {
+    "en": "Combo Casting 3",
+    "zh-TW": "連攜技3",
+    "zh-CN": "连携技3",
+    "ja": "連携技3",
+    "ko": "연계 스킬 3"
+   },
+   "text": {
+    "en": "Full moon!",
+    "zh-TW": "滿月！",
+    "zh-CN": "满月！",
+    "ja": "満月！",
+    "ko": "만월!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Rest in silence.",
+    "zh-TW": "瞑目吧。",
+    "zh-CN": "瞑目吧。",
+    "ja": "安らかに眠れ。",
+    "ko": "편안히 가거라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Your death awaits.",
+    "zh-TW": "終局已至！",
+    "zh-CN": "终局已至！",
+    "ja": "終局の始まりだ。",
+    "ko": "끝이다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "AT MY COMMAND!",
+    "zh-TW": "聽我號令！",
+    "zh-CN": "听我号令！",
+    "ja": "号令に、従え！",
+    "ko": "나를 따르라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Soldiers, ADVANCE!",
+    "zh-TW": "隨我進軍！",
+    "zh-CN": "随我进军！",
+    "ja": "私に続け、進軍せよ！",
+    "ko": "진군하라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0029_pograni_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "Shieldguards! FORMATION!",
+    "zh-TW": "盾衛！列陣！",
+    "zh-CN": "盾卫！列阵！",
+    "ja": "盾兵、構えの陣形を！",
+    "ko": "방패병! 위치로!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0029_pograni_1",
+   "topic": {
+    "en": "The Unsolicited Report",
+    "zh-TW": "要求外的報告",
+    "zh-CN": "要求外的报告",
+    "ja": "想定外の報告書",
+    "ko": "업무 외 보고"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Endmin, after reviewing the combat records from Endfield's previous operation, I've compiled a summary report based on the Order of Steel Oath's standards.",
+      "zh-TW": "管理員，閱覽終末地之前行動的作戰紀錄後，我以鐵誓軍的標準整理了一份總結報告。",
+      "zh-CN": "管理员，阅览终末地之前行动的作战记录后，我以铁誓军的标准整理了份总结报告。",
+      "ja": "管理人。過去のエンドフィールドの作戦記録を確認し、鉄誓軍の基準に基づいて報告書をまとめた。",
+      "ko": "관리자, 엔드필드의 과거 작전 기록들을 열람하고 난 뒤, 철의 서약군의 기준으로 보고서를 정리해 봤네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "I've highlighted the combat records that require attention, and I've also prepared a separate appendix with proposed improvements for the corresponding tactics.",
+      "zh-TW": "需要注意的作戰紀錄我已做好標記，對應戰術的改進方案也單獨製作了附錄。",
+      "zh-CN": "需要关注的作战记录我已做好标注，对应战术的改进方案也单独制作了附录。",
+      "ja": "注目すべき作戦記録には印も付けておいた。対応する戦術の改善案も別途作成してある。",
+      "ko": "중점적으로 봐야 하는 작전 기록에는 표시를 해뒀고, 대응하는 전술 개선안도 별도로 부록을 만들었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Wait, a summary report?",
+      "zh-TW": "等等，總結報告？",
+      "zh-CN": "等等，总结报告？",
+      "ja": "えっと……報告書？",
+      "ko": "잠깐만요, 보고서요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "A summary report on Endfield Industries' field operations over the last thirty standard days. I applied for access to review the operation logs after boarding Dijiang.",
+      "zh-TW": "終末地工業最近三十個標準日的外勤行動總結報告，登上帝江號後我便申請到了閱覽行動紀錄的權限。",
+      "zh-CN": "终末地工业最近三十个标准日的外勤行动总结报告，登上帝江号后我便申请到了阅览行动记录的权限。",
+      "ja": "エンドフィールドの直近30標準日における外勤任務の報告書だ。帝江号に乗ってすぐ、記録の閲覧権限を申請した。",
+      "ko": "엔드필드 공업 최근 30일간의 외근 작전을 정리한 요약 보고서야. 내가 제강호에 온 후, 곧바로 작전 기록 열람 권한을 신청했지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Thanks to the Specialist Tech Division's strict adherence to archiving standards, I was able to identify several highly valuable operations for reference over the past few days.",
+      "zh-TW": "得益於特種技術部門嚴格遵守歸檔標準，我才能在這幾天選出極具參考價值的行動。",
+      "zh-CN": "得益于特种技术部门严格遵守归档标准，我才能在这几天选出极具参考价值的行动。",
+      "ja": "特殊技術部は厳格な整理基準を遵守している。おかげで、参考にするべき記録を数日の間で選ぶことができたのだ。",
+      "ko": "특수 기술부가 기록 보관 규정을 철저히 지켜준 덕분에, 참고할 만한 사례들을 바로 찾아낼 수 있었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Additionally, after consulting with the Specialist Tech Division, we have scheduled a live combat drill for next week.",
+      "zh-TW": "另外，在與特種技術部門協商後，我們計劃在下禮拜舉行一次實戰演練。",
+      "zh-CN": "另外，在与特种技术部门协商后，我们计划在下周举行一次实战演练。",
+      "ja": "さらに、来週には実践演習を行う予定だ。特殊技術部との協議も完了している。",
+      "ko": "그리고, 특수 기술부와 협의한 결과, 다음 주에 실전 훈련을 진행하기로 계획했네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "I've drafted a preliminary plan, but you're the expert on Endfield's field operations, Endmin. I'd like to hear your professional opinion.",
+      "zh-TW": "我做了初步方案，但管理員才是終末地的外勤行動專家，想聽聽你的專業意見。",
+      "zh-CN": "我做了初步方案，但管理员才是终末地的外勤行动专家，想听听你的专业意见。",
+      "ja": "私が作成したのは、あくまで初案に過ぎん。貴殿がエンドフィールド外勤任務の専門家だろう。意見を聞かせてもらいたい。",
+      "ko": "초안은 세웠으나, 관리자야말로 엔드필드의 외근 작전 전문가이니, 자네의 의견을 듣고 싶어서 찾아왔네."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Apologies, I'm still in the middle of an operation and haven't had a chance to get back to the office yet...",
+         "zh-TW": "抱歉，我還在行動中，還來不及回辦公室……",
+         "zh-CN": "抱歉，我还在行动中，没来得及回办公室……",
+         "ja": "申し訳ないけど、まだ任務の途中なんだ。戻る時間がなくて……",
+         "ko": "죄송해요, 전 아직 작전 중이라, 사무실로 돌아가지 못했어요..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You've put in a lot of work ... but I'm sorry, I haven't made it back to the office just yet.",
+         "zh-TW": "辛苦了……但很抱歉，我現在還來不及回辦公室……",
+         "zh-CN": "辛苦了……但很抱歉，我现在还没来得及回办公室……",
+         "ja": "お疲れ様。申し訳ないんだけど、まだ戻る時間がなくて……",
+         "ko": "정말 수고 많으셨어요... 근데 제가 아직 사무실로 돌아가지 못해서..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "No, that was my oversight. Endfield's deployments are far more flexible than the Order of Steel Oath's, and your operational scope is much wider... This was a blind spot in my assessment.",
+      "zh-TW": "不，這是我的疏忽。終末地的部署比鐵誓軍靈活，行動的範圍也更加廣泛……這是我的盲點。",
+      "zh-CN": "不，这是我的疏忽。终末地的部署比铁誓军灵活，行动的范围也更加广泛……这是我的盲点。",
+      "ja": "いや、私の不注意だ。エンドフィールドの配置は鉄誓軍よりも柔軟で、行動範囲も広い。失念していた。",
+      "ko": "아니, 내 불찰이야. 엔드필드의 작전 배치는 철의 서약군보다 훨씬 유동적이고, 작전 범위 또한 넓지... 내가 차마 거기까지 생각 못 했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "I will continue coordinating with the Specialist Tech Division regarding the exercise and the proposed improvements.",
+      "zh-TW": "我會與特種技術部門繼續協商演練事宜，改進方案。",
+      "zh-CN": "我会同特种技术部门继续协商演练事宜，改进方案。",
+      "ja": "では、私は特殊技術部と引き続き演習計画を調整し、改善案を考えよう。",
+      "ko": "특수 기술부와 계속 협의를 이어가면서 훈련 계획을 다듬어보겠네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "By the way, Endmin, how much do you still remember about the North?",
+      "zh-TW": "對了，管理員，關於北方，你還記得多少？",
+      "zh-CN": "对了，管理员，关于北方，你还记得多少？",
+      "ja": "ところで、貴殿は北部について、どれほどの記憶があるのだろうか？",
+      "ko": "그보다... 관리자, 북쪽에 관해서는 얼마나 기억하고 있나?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I don't remember anything...",
+      "zh-TW": "我什麼都不記得了……",
+      "zh-CN": "我什么都不记得了……",
+      "ja": "何も覚えていないんだ……",
+      "ko": "아무것도 기억이 안 나요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "I see.",
+      "zh-TW": "我瞭解了。",
+      "zh-CN": "我明白了。",
+      "ja": "そうか。",
+      "ko": "그렇군, 이해했네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Endmin, your combat style has changed significantly, but this shift has actually produced some beneficial outcomes for field operations.",
+      "zh-TW": "管理員，你的作戰風格變化很大，但這一變化卻為外勤行動帶來了一些有利的效果。",
+      "zh-CN": "管理员，你的作战风格变化很大，但这一变化却为外勤行动带来了一些有利的效果。",
+      "ja": "管理人、貴殿の作戦に対する手法は大きく変わったが、その変化によって外勤行動には良い影響が出ていると感じる。",
+      "ko": "자네의 전투 방식이 예전과 많이 달라졌더군. 물론 그 변화가 외근 작전에 여러모로 좋은 영향을 가져오기도 했지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "I look forward to the day we can fight side by side again.",
+      "zh-TW": "期待再次和你並肩作戰的那天。",
+      "zh-CN": "期待再次和你并肩作战的那天。",
+      "ja": "再び戦場で肩を並べられる日のことを、楽しみにしよう。",
+      "ko": "다시 한번 자네와 어깨를 나란히 할 날을 기대하고 있네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I also look forward to that day.",
+      "zh-TW": "我也期待著那天。",
+      "zh-CN": "我也期待着那天。",
+      "ja": "同じく、楽しみだ。",
+      "ko": "저도 그날을 기대하고 있어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "I wonder if you like pastries, Endmin? When I left the front lines, the soldiers insisted I take some sweets from the fort.",
+      "zh-TW": "不知道管理員喜不喜歡吃點心？離開前線時，戰士們塞給了我一些要塞裡的甜點。",
+      "zh-CN": "不知道管理员喜不喜欢吃点心？离开前线时，战士们塞给了我一些要塞里的甜点。",
+      "ja": "貴殿は菓子を食べるか？前線を離れる際、要塞の菓子を兵がくれたのだ。",
+      "ko": "혹시 단 걸 좋아하나? 내가 전선을 떠날 때, 전사들이 요새에서 만든 디저트를 좀 쥐여줬네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "They call them sweets, but they're really just homemade candies and grain energy bars. They insisted I deliver them personally to our friends at Endfield.",
+      "zh-TW": "說是甜點，其實只是自製的糖果和穀物能量棒。他們叫我一定要親手帶給終末地的朋友。",
+      "zh-CN": "说是甜点，其实只是自制的糖果和谷物能量棒。他们让我一定要亲手带给终末地的朋友。",
+      "ja": "菓子とは言うが、手作りの飴や穀物のエネルギーバーのようなものだ。必ずエンドフィールドの仲間に渡すようにと、念を押されたのだ。",
+      "ko": "디저트라 해봤자, 그냥 직접 만든 사탕이랑 곡물 에너지바 정도지만 말이지. 꼭 엔드필드의 동료들에게 전해달라 하더군."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "I've asked the duty operator to pass them to you when you return. Your workload is heavy, so please be sure to get some rest.",
+      "zh-TW": "委託值班幹員在你回來後交給你了，工作繁重，務必注意休息。",
+      "zh-CN": "委托值班干员在你回来后交给你了，工作繁重，务必注意休息。",
+      "ja": "当直のオペレーターに渡しておいた。忙しいだろうが、休養も忘れるな。",
+      "ko": "당직 중인 오퍼레이터에게 맡겨놨으니, 돌아오면 받을 수 있을 거야. 업무가 워낙 많은 건 잘 알고 있지만, 쉬는 것도 잊지 말게."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "A proper balance of work and rest is essential to prepare for the next operation.",
+      "zh-TW": "適時休息，才能為下一次行動做好準備。",
+      "zh-CN": "劳逸结合才能为下一次行动做好准备。",
+      "ja": "無理せず、休むときは休め。次の行動に万全の状態で臨むために。",
+      "ko": "적당히 쉬어야 다음 작전도 잘 준비할 수 있는 법이니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Sure! Thank you!",
+      "zh-TW": "好！謝謝你。",
+      "zh-CN": "好！谢谢你。",
+      "ja": "うん、ありがとう。",
+      "ko": "네, 감사합니다."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0029_pograni_2",
+   "topic": {
+    "en": "Snow for the Fallen",
+    "zh-TW": "戰士的雪",
+    "zh-CN": "战士的雪",
+    "ja": "戦士の雪",
+    "ko": "전사를 뒤덮은 눈"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Endmin, I've assisted the Specialist Tech Division with uploading and archiving some of the newer, unarchived operation batches.",
+      "zh-TW": "管理員，我已協助特種技術部門，將一些尚未歸檔的新批次行動上傳存檔了。",
+      "zh-CN": "管理员，我已协助特种技术部门，对一些尚未归档的新批次行动进行了上传存档。",
+      "ja": "管理人。特殊技術部に協力し、未整理の記録をアップロードしておいた。",
+      "ko": "관리자, 특수 기술부를 도와 아직 정리 안 된 새로운 작전들을 업로드해 뒀어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Additionally, I have also uploaded optimization suggestions and fluctuation data charts for some of the operations.",
+      "zh-TW": "另外，部分行動作戰的改善建議、波動數據圖表，我也均已上傳。",
+      "zh-CN": "另外，部分行动作战的优化建议、波动数据图表，我也均已上传。",
+      "ja": "さらに、いくつかの作戦に関する最適化の提案や変動データの図表も、すべてアップロード済みだ。",
+      "ko": "그리고 일부 작전에 대한 개선 제안서와 파동 데이터 그래프도 함께 업로드했네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "If you feel it's necessary to assess the risk level of these operations, these suggestions and charts can serve as a reference.",
+      "zh-TW": "若你覺得有評估這批行動風險等級的必要，這些建議和圖表可以作為參考。",
+      "zh-CN": "若你觉得有评估这批行动风险等级的必要，这些建议和图表可以作为参考。",
+      "ja": "もしこういった行為のリスクに関する評価が必要ならば、提出した資料を参考にしても良い。",
+      "ko": "만약 이번에 업로드한 작전의 위험 등급을 평가할 필요가 있다고 생각되면, 이 자료들이 도움이 될 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Endfield Industries' infrastructure for operational summaries is quite comprehensive. I will assist the Specialist Tech Division in improving any shortcomings.",
+      "zh-TW": "終末地工業在行動總結上的建設較為完備，不足之處我會協助特種技術部門改善。",
+      "zh-CN": "终末地工业在行动总结上的建设较为完备，不足之处我会协助特种技术部门进行改善。",
+      "ja": "エンドフィールドは任務報告に関して、制度が整っている。不足があれば特殊技術部に提案し、改善するつもりだ。",
+      "ko": "엔드필드 공업은 작전 복기 체계가 잘 구축되어 있는 편이지만, 약간 부족한 부분은 내가 특수 기술부와 함께 개선하도록 하지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You've worked hard. Post-operation summaries are indeed important.",
+      "zh-TW": "辛苦了，行動後的總結的確重要。",
+      "zh-CN": "辛苦了，行动后的总结确实重要。",
+      "ja": "ありがとう。任務後の報告書は大切だからね。",
+      "ko": "수고 많으셨어요. 작전 후의 복기는 확실히 중요하죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "You are absolutely right. Post-operation summaries are crucial for ensuring operations proceed as planned.",
+      "zh-TW": "你說得很對，戰後總結是確保作戰能在計劃內進行的關鍵。",
+      "zh-CN": "你说得很对，战后总结是保证作战能在计划内进行的关键。",
+      "ja": "戦の後の報告書は、今度の作戦を計画どおりに行うための要となる。",
+      "ko": "맞아. 작전 후의 복기는 작전을 계획대로 수행하기 위한 핵심이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "During the campaigns in the North, we often encountered many undocumented patterns of Aggeloi formation.",
+      "zh-TW": "在北方的戰役中，我們經常會遇到很多沒有被記錄過的天使形成模式。",
+      "zh-CN": "在北方的战役中，我们经常会遇见很多没有被记录过的天使形成模式。",
+      "ja": "北方の戦役では、記録に存在しない形成パターンのアンゲロスに遭遇することが何度もあった。",
+      "ko": "북쪽에서는 이전에 기록된 적 없는 아겔로스의 형성 모델을 종종 마주하게 되거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Without the intelligence gathered through the relentless efforts of our soldiers, it would have been difficult to counter these new threats in subsequent operations.",
+      "zh-TW": "要是沒有在戰士們的前仆後繼下總結出的情報，我們很難在之後的作戰裡應對這些新的威脅。",
+      "zh-CN": "要是没有在战士们的前赴后继下总结出的情报，我们很难在之后的作战里应对这些新的威胁。",
+      "ja": "もし、戦い抜いた戦士たちが積み重ねた情報がなかったならば、後の作戦で新たな脅威に対処するのは難しい。",
+      "ko": "전사들의 희생으로 쌓인 정보가 없었다면, 이후의 작전에서 그 새로운 위협들에 대처하기 어려웠을 거야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Do the Oathkeepers frequently encounter new types of Aggeloi?",
+         "zh-TW": "鐵誓軍經常會遇到新類型的天使嗎？",
+         "zh-CN": "铁誓军经常会遇见新类型的天使吗？",
+         "ja": "鉄誓軍は、記録に存在しないアンゲロスと戦うことが多かったの？",
+         "ko": "철의 서약군은 새로운 유형의 아겔로스를 자주 마주하나요?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Pogranichnik",
+         "zh-TW": "駿衛",
+         "zh-CN": "骏卫",
+         "ja": "ポグラニチニク",
+         "ko": "포그라니치니크"
+        },
+        "text": {
+         "en": "Yes. Every time we encounter these Aggeloi, it always results in heavy casualties.",
+         "zh-TW": "嗯，每次遇到這些天使，總是會造成大量犧牲。",
+         "zh-CN": "嗯，每次遇见这些天使，总是会造成大量牺牲。",
+         "ja": "ああ。そして、そのようなアンゲロスと戦闘になれば、多くの犠牲が生まれる。",
+         "ko": "응, 매번 새로운 아겔로스를 마주할 때마다 많은 희생이 따르곤 하지."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "The Oathkeepers' sacrifices...",
+         "zh-TW": "鐵誓軍的犧牲……",
+         "zh-CN": "铁誓军的牺牲……",
+         "ja": "鉄誓軍の戦士たちの犠牲か……",
+         "ko": "철의 서약군의 희생..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "My first battle was an encounter with an Aggeloid host while crossing a glacier with a supply convoy heading north.",
+      "zh-TW": "我參與的第一場戰役，是隨補給隊北上跨過一座冰川時，與天使集群的一場遭遇戰。",
+      "zh-CN": "我参与的第一场战役，是随补给队北上跨过一座冰川时，与天使集群的一场遭遇战。",
+      "ja": "私が初めて参加した戦役では、補給隊と共に北へと向かい、氷河を越えたところでアンゲロスの群れと遭遇した。",
+      "ko": "내가 처음으로 참여한 작전은, 보급대와 함께 북쪽으로 보급품을 전달할 때였어. 진군하던 중, 빙하를 넘다가 아겔로스 무리를 마주하고 말았네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Faced with an unprecedented Aggeloi construct pattern, we were locked in a brutal fight. But then, the combat triggered an avalanche, burying everything in an instant.",
+      "zh-TW": "面對從未看過的天使形成模式，我們陷入了苦戰。但這時，戰鬥引發了雪崩，頃刻間淹沒了一切。",
+      "zh-CN": "面对从未见过的天使形成模式，我们陷入了苦战。但这时，战斗引发了雪崩，顷刻间淹没了一切。",
+      "ja": "類例のない形成パターンのアンゲロスであり、苦戦を強いられた。だがそのとき、戦闘による衝撃で雪崩が発生し、瞬く間にあらゆるものを呑み込んだのだ。",
+      "ko": "처음 보는 아겔로스 형성 모델에 우리는 고전에 빠졌고, 바로 그때, 전투 도중 일어난 눈사태가 순식간에 모든 것을 집어삼켰지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "After the battle ended, I asked myself ... when snowflakes fall, is there any meaning to it beyond burying the remains?",
+      "zh-TW": "作戰結束後，我曾問過自己，雪花從空中落下，除了將屍骸掩埋，是否還有其他意義？",
+      "zh-CN": "作战结束后，我曾问过自己，雪花从空中落下，除了将尸骸掩埋，是否还有其他意义？",
+      "ja": "戦闘後、私は自らに問うた。空から舞い落ちる雪は、遺骸を覆うほかに意味があるのかと……",
+      "ko": "작전이 끝난 뒤, 나는 스스로에게 물은 적이 있어. 하늘에서 내리는 눈송이는 전사들의 시체를 덮는 것 말고, 또 어떤 의미가 있을까... 하고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Regarding that question, Simonch once gave me an answer. Life in the Order of Steel Oath later helped me find my own.",
+      "zh-TW": "關於這個問題，塞夢珂曾給過我一個答案。鐵誓軍的生活，又讓我自己找到了答案。",
+      "zh-CN": "关于这个问题，塞梦珂曾给过我一个答案。铁誓军的生活，又让我自己找到了答案。",
+      "ja": "この問いに、シモンクはかつて1つの答えをくれた。そして、鉄誓軍で日々を過ごす中で、私はその答えを見出すことができた。",
+      "ko": "그 질문에 대해, 사이몬크가 내게 답을 준 적이 있어. 그리고 철의 서약군에서의 생활이, 내게 또 한 번 답을 주었지."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "So what's the answer?",
+         "zh-TW": "所以答案是什麼？",
+         "zh-CN": "所以答案是什么？",
+         "ja": "それで、その答えは？",
+         "ko": "그 답이 뭔가요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "So ... why do the snowflakes fall?",
+         "zh-TW": "所以……雪花為什麼飄零？",
+         "zh-CN": "所以……雪花为什么飘零？",
+         "ja": "それで……空から舞い落ちる雪の意味って？",
+         "ko": "그래서... 눈송이가 내리는 의미는 뭐였던 가요?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "The sacrifices of the Oathkeepers are made to buy time. Only then can people like you, Endmin, have the opportunity to forge a path of survival for the people of Talos-II.",
+      "zh-TW": "鐵誓軍的犧牲，為的是爭取時間。只有這樣，像管理員這樣的人才來得及為塔衛二的人們開拓生存的道路。",
+      "zh-CN": "铁誓军的牺牲，为的是争取时间。只有这样，像管理员这样的人才来得及为塔卫二的人们开拓生存的道路。",
+      "ja": "鉄誓軍の犠牲は、時間を得るためにある。その時間があってこそ、貴殿のような人物が、タロⅡの皆の生き延びる道を切り開く。",
+      "ko": "철의 서약군의 희생은 시간을 벌기 위한 것이야. 그래야만 관리자 같은 사람이 탈로스 II의 사람들을 위해 살아갈 수 있는 길을 개척할 수 있을 테니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "This is our oath.",
+      "zh-TW": "這是我們的鐵誓。",
+      "zh-CN": "这是我们的铁誓。",
+      "ja": "それが、我々の「鉄の誓い」だ。",
+      "ko": "그게 바로 우리의 철의 서약이지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Endmin, if you're interested in these past experiences of mine, I can share them with you ... perhaps they might be of some use.",
+      "zh-TW": "管理員，我經歷過的這些往事，如果你有興趣的話，我可以講給你聽……也許對你有用。",
+      "zh-CN": "管理员，我经历过的这些往事，如果你感兴趣的话，我可以讲给你听……也许对你有用。",
+      "ja": "管理人。もし貴殿が興味を持つならば、私が経験してきたことを話そう。役に立つことがあるかもしれん。",
+      "ko": "관리자, 내가 겪었던 일들에 관심이 있으면, 언제든지 얘기해 줄 수 있어... 어쩌면 자네에게 도움이 될 수도 있으니까 말이야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sure, I'd like to hear more about the Oathkeepers.",
+         "zh-TW": "好啊，我想聽你多講講鐵誓軍。",
+         "zh-CN": "好啊，我想听你多讲讲铁誓军。",
+         "ja": "うん。もっと鉄誓軍のことを知りたいと思う。",
+         "ko": "좋아요, 철의 서약군에 대해 더 많이 알고 싶어요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Absolutely, I'm looking forward to hearing the legends of the Order of Steel Oath.",
+         "zh-TW": "好啊，我很期待鐵誓軍的傳奇。",
+         "zh-CN": "好啊，我很期待铁誓军的传奇。",
+         "ja": "うん。鉄誓軍の伝説の話を聞くのが楽しみだ。",
+         "ko": "좋아요, 철의 서약군의 전설적인 이야기가 많이 기대되네요."
+        }
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0029_pograni_3",
+   "topic": {
+    "en": "To Simonch",
+    "zh-TW": "到塞夢珂",
+    "zh-CN": "到塞梦珂去",
+    "ja": "シモンクへ",
+    "ko": "사이몬크로 가는 길"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Endmin, do you have a moment right now?",
+      "zh-TW": "管理員，你現在有空嗎？",
+      "zh-CN": "管理员，你现在有空吗？",
+      "ja": "管理人。今、時間はあるだろうか。",
+      "ko": "관리자, 혹시 지금 시간 괜찮나?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I do. Why?",
+         "zh-TW": "有空，怎麼了？",
+         "zh-CN": "有空，怎么了？",
+         "ja": "あるけど、どうしたの？",
+         "ko": "네, 괜찮아요. 무슨 일이에요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Could it be ... story time?",
+         "zh-TW": "難道說……是故事時間？",
+         "zh-CN": "难道说……是故事时间？",
+         "ja": "まさか……話をしてくれるの？",
+         "ko": "설마... 약속한 이야기 시간인가요?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Just now, while organizing some old notes of mine, I was reminded of a few things from the past.",
+      "zh-TW": "剛才我在整理以前寫的筆記時，記起了一些往事。",
+      "zh-CN": "刚才我在整理以前做的笔记时，记起了一些往事。",
+      "ja": "先程、古い記録を整理していた。そして思い出したことがある。",
+      "ko": "방금 예전에 만든 노트를 정리하다가, 문득 몇 가지 기억이 떠올랐네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "I wonder if you might be interested, Endmin.",
+      "zh-TW": "不知道管理員是否有興趣。",
+      "zh-CN": "不知道管理员是否有兴趣。",
+      "ja": "貴殿に、この話を聞いてもらいたいのだ。",
+      "ko": "관리자라면 관심이 있지 않을까 싶어서 말이야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sure, is it about the Oathkeepers' combat operations?",
+         "zh-TW": "有啊，是鐵誓軍的作戰行動嗎？",
+         "zh-CN": "好哇，是铁誓军的作战行动吗？",
+         "ja": "うん。鉄誓軍での作戦の話？",
+         "ko": "물론이죠. 철의 서약군의 작전에 관한 이야기인가요?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Pogranichnik",
+         "zh-TW": "駿衛",
+         "zh-CN": "骏卫",
+         "ja": "ポグラニチニク",
+         "ko": "포그라니치니크"
+        },
+        "text": {
+         "en": "No, it was a dream.",
+         "zh-TW": "不，是一場夢。",
+         "zh-CN": "不，是一场梦。",
+         "ja": "いや……夢の中の話だ。",
+         "ko": "그건 아니고... 어떤 꿈에 관한 이야기야."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Sure, I love stories.",
+         "zh-TW": "嗯，我喜歡聽故事。",
+         "zh-CN": "嗯，我喜欢听故事。",
+         "ja": "うん。話しを聞くのは好きだからね。",
+         "ko": "네, 전 이야기 듣는 거 좋아해요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "When I first boarded my journey to Simonch, I ... had a dream.",
+      "zh-TW": "當我第一次乘上前往塞夢珂的車時，曾有過一場夢境。",
+      "zh-CN": "当我第一次乘上前往塞梦珂的车时，曾见过一场梦境。",
+      "ja": "私が初めてシモンクに向かう車に乗ったときに見た、夢の話だ。",
+      "ko": "내가 처음으로 사이몬크로 가는 열차를 탔을 때, 어떤 꿈을 꾼 적이 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "In the dream, I stood on a battlefield littered with swords. At its center, a stretch of ruins stood silently.",
+      "zh-TW": "夢裡的我，站在一個插滿刀劍的戰場上。戰場中央，一片廢墟靜靜地立在那裡。",
+      "zh-CN": "梦里的我，站在一个插满刀剑的战场上。战场中央，一片废墟静静地立在那里。",
+      "ja": "夢の中で、私は無数の剣が突き刺さった戦場に立っていた。その中央には、静かに佇む廃墟があった。",
+      "ko": "꿈속의 난 칼과 검으로 가득한 전장 한가운데 서 있었어. 그리고 그 전장의 중심에는 아무것도 없는 폐허가 조용히 자리를 지키고 있었지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "A sudden surge of sorrow urged me to leave that place, but my body moved forward against my will.",
+      "zh-TW": "內心突然湧現的悲傷促使著我離開那裡，但我的身體卻不由自主地走了進去。",
+      "zh-CN": "内心突然涌现的悲伤促使着我离开那里，但我的身体却不由自主地走了进去。",
+      "ja": "すると、突然哀しい気持ちが内側から込み上げてきた。離れようとしたが、体は意思に反し、その廃墟に向かって行った……",
+      "ko": "왠지 모를 슬픔이 밀려와 그곳을 떠나고 싶었지만, 내 몸은 어느새 폐허 쪽으로 가고 있었네."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "What happened afterwards?",
+         "zh-TW": "然後怎樣了？",
+         "zh-CN": "然后怎样了？",
+         "ja": "それから、どうなったの？",
+         "ko": "그다음은 어떻게 됐나요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That's strange ... and then?",
+         "zh-TW": "好奇怪的夢……然後怎樣了？",
+         "zh-CN": "好奇怪的梦……然后怎样了？",
+         "ja": "随分奇妙な夢だね……それから？",
+         "ko": "이상한 꿈이네요... 그다음은 어떻게 됐나요?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Deep within the ruins, I saw that building from my memories, a place that now only exists in name.",
+      "zh-TW": "在廢墟的深處，我看到了記憶裡的那棟建築，一個只剩名字的地方。",
+      "zh-CN": "在废墟的深处，我见到了记忆里的那栋建筑，一个只剩名字的地方。",
+      "ja": "廃墟の奥で、私は記憶の中にある建物を見つけた……その名のみが残されている場所だ。",
+      "ko": "그후 난 폐허 깊숙한 곳에서, 기억 속의 건물을 봤어. 그건 이름만 남은 장소..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Azazel.",
+      "zh-TW": "阿撒茲勒。",
+      "zh-CN": "阿撒兹勒。",
+      "ja": "アザゼル。",
+      "ko": "아자젤이었지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Staring at that door I felt I had pushed open countless times. I reached out my hand, yet I could never quite reach it.",
+      "zh-TW": "看著那扇我好像推開過無數次的門，我試圖伸出手，卻始終無法觸及。",
+      "zh-CN": "看着那扇我好像推开过无数次的门，我试图伸出手，却始终无法触及。",
+      "ja": "その扉は、何度も開けたことがあるような気がした。しかし、扉に手を伸ばしても、届かない。",
+      "ko": "수없이 열어봤던 듯한 그 문을 바라보며, 난 손을 뻗어봤지만, 끝내 닿을 수 없었네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "I lingered at the doorway for a long time, unable to leave, yet also unable to respond to its presence.",
+      "zh-TW": "我在門口徘徊了很久，無法離開，也無法對它的存在做出回應。",
+      "zh-CN": "我在门口徘徊了许久，无法离开，也无法对它的存在做出回应。",
+      "ja": "長い間その場を彷徨った。立ち去ることも、存在に応じることもできないまま……",
+      "ko": "문 앞에서 한참을 맴돌았어... 그곳을 떠날 수도 없고, 그 존재에 대해 어떠한 반응도 할 수 없었거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Right at that moment, a creaking sound echoed as the clinic door slowly swung open.",
+      "zh-TW": "就在這時，一陣聲音傳來，診所的門被緩緩拉開。",
+      "zh-CN": "就在这时，一阵吱呀声传来，诊所的门被缓缓拉开。",
+      "ja": "突然、軋む音が響いた。診療所の扉が、ゆっくりと開いたのだ。",
+      "ko": "바로 그때, 삐걱하는 소리와 함께, 진료소의 문이 천천히 열렸어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "Amidst those ruins, I saw him, and that girl ... his adopted daughter. I wasn't surprised, and was just about to step through that door...",
+      "zh-TW": "在那片廢墟中，我看到了他，還有那個女孩……他的養女。我並不感到意外，正要穿過那扇門……",
+      "zh-CN": "在那片废墟中，我见到了他，还有那个女孩……他的养女。我并不感到意外，正要穿过那扇门……",
+      "ja": "廃墟の中で、私が出会ったのは……彼と、少女……彼の養女だった。不思議と、驚きはなかった。しかし、扉を越えようとした、その瞬間……",
+      "ko": "그 폐허 속에서 나는 그를, 그리고 그 여자아이... 그의 양녀를 보았지. 희한하게도 그 광경이 전혀 놀랍지 않았다네. 그리고 내가 문을 지나려는 순간..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "The arrival announcement woke me, and my destination was now right before my eyes.",
+      "zh-TW": "到站的播報聲將我喚醒，此行的目的地已在眼前。",
+      "zh-CN": "到站的播报将我唤醒，此行的目的地已在眼前。",
+      "ja": "到着を告げる放送が、夢から私を連れ出した。目的地の目前だった。",
+      "ko": "역에 도착했음을 알리는 안내 방송이 나를 깨웠고, 난 여정의 목적지에 도착해있었네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Did you ever try to find that door again in your dreams after that?",
+      "zh-TW": "在這之後，你嘗試過在夢裡繼續尋找那扇門嗎？",
+      "zh-CN": "在这之后，你尝试过在梦里继续寻找那扇门吗？",
+      "ja": "そのあと、夢の中でまたその扉を探したの？",
+      "ko": "그 후, 다시 꿈에서 그 문을 본 적이 있나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "That dream felt like meeting a long-lost close friend during a journey, listening as he shared his past with me, right until the very end.",
+      "zh-TW": "這場夢就像是在旅途中遇到了許久未見的摯友，聽他向我訴說著他的往事，直到終點。",
+      "zh-CN": "这场梦就像是在旅途中遇见了许久未见的挚友，听他向我诉说着他的往事，直到终点。",
+      "ja": "あの夢は……旅の途中で久しぶりに出会った旧友が、終点に着くまで昔話をしてくれた。それを聞き届けるようなものだったのだ。",
+      "ko": "그 꿈은 마치 여행길에서 우연히 만난 옛 친구 같았네. 그동안 자신이 겪었던 이야기를 들려주면서, 종착역까지 함께해준 느낌이었지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Pogranichnik",
+      "zh-TW": "駿衛",
+      "zh-CN": "骏卫",
+      "ja": "ポグラニチニク",
+      "ko": "포그라니치니크"
+     },
+     "text": {
+      "en": "And I never saw that door ever again.",
+      "zh-TW": "在那之後，我便再也沒有看過那一扇門。",
+      "zh-CN": "在那之后，我便再也没有见过那一扇门。",
+      "ja": "あの扉は、それから見ていない。",
+      "ko": "그래서인지... 그 후로 다시는 그 문을 본 적이 없었네."
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 0
+}

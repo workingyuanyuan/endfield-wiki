@@ -1,0 +1,3867 @@
+{
+ "slug": "lifeng",
+ "gameId": "chr_0015_lifeng",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Lifeng\nGENDER: Male \nAUTHENTICATION: Hongshan Academy of Sciences \nDOB: July 16 \nRACE: Anasa \n[ORIPATHY INFECTION STATUS] \nOripathy positive (infected), based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Standard \nCOMBAT SKILL: Excellent \nTACTICAL ACUMEN: Normal \nORIGINIUM ARTS ASSIMILATION: Standard",
+    "zh-TW": "【代號】黎風\n【性別】男\n【身分認證】宏山科學院\n【生日】7月16日\n【種族】阿納薩\n【礦石病感染情況】\n參照醫學檢測報告，確認為感染者。\n\n【綜合體檢測試】\n生理強度：標準\n作戰技巧：優良\n戰術規劃：普通\n源石技藝適應性：標準",
+    "zh-CN": "【代号】黎风\n【性别】男\n【身份认证】宏山科学院\n【生日】7月16日\n【种族】阿纳萨\n【矿石病感染情况】\n参照医学检测报告，确认为感染者。\n\n【综合体检测试】\n生理强度：标准\n作战技巧：优良\n战术规划：普通\n源石技艺适应性：标准",
+    "ja": "【コードネーム】 黎風\n【性別】男\n【身分証明】宏山科学院\n【誕生日】7月16日\n【種族】アナサ\n【鉱石病感染状況】\nメディカルチェックの結果、感染者に認定。\n\n【能力測定】\n物理強度：標準\n戦闘技術：優秀\n戦術立案：普通\nアーツ適性：標準",
+    "ko": "[코드네임] 여풍\n[성별] 남\n[신분 인증] 홍산 과학원\n[생일] 7월 16일\n[종족] 아나사\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 우수\n전술 계획: 보통\n오리지늄 아츠 적응성: 표준"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Lifeng is a native of Wuling City. He voluntarily chose to work at Endfield Industries and is currently interning at the Specialist Tech Division. \nThe youth exhibited an innocent naivety and sincerity that far exceeded our expectations — I rarely received an employment form with such details about the applicant's personal life. In fact, in compliance to the articles of our Privacy Policy, I requested the youth to redact parts that may be considered too private for disclosure. \nHis smiles are genuine and he is a highly empathetic individual. Despite being an intern, he has agreed to take on many tasks and he also has an extremely useful skill set. Signing him onboard is something every HR Assistant would love to see. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "黎風，於武陵城出生，選擇就業時，志願是加入終末地工業，現於特種技術部門學習實踐。\n\n這位青少年向我們展現出了一種超乎想像的淳樸和真誠——我很少能夠在一張入職資料表上如此詳盡地瞭解到一個人迄今為止的人生；甚至，出於維護隱私權的考量，我反而需要請他抹去一些私人資料。\n他笑容可掬，善解人意，作為實習生願意做的太多，能做的也很多。這無疑是每一個人事助理都樂見其成的場面。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "黎风，武陵城生人，择业期间志愿加入终末地工业，现于特种技术部门学习实践。\n\n这位青少年向我们展现出了一种超乎想象的淳朴和真诚——我很少能够在一张入职信息表上如此详尽地了解到一个人迄今为止的人生；甚至，出于维护隐私权的考量，我反而需要请他抹去一些私人信息。\n他笑容可掬，善解人意，作为实习生愿做的太多，能做的也很多。这无疑是每一个人事助理都乐见其成的场面。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "リーフォンは武陵城の出身で、就職活動中にエンドフィールドへの参加を志願し、現在は特殊技術部にて研修および実務を行っている。\n\n「この少年は、私たちの期待をはるかに超える素朴さと誠実さを持ち合わせている人物です。入職書類だけで1人の人生をこれほど詳しく知ることができるのは稀なことです。プライバシーの観点から、個人情報の一部を削除するようお願いしたほどです。」\n「彼は明るい晴れやかな笑顔で、人の気持ちを慮り、見習いとして何事も積極的に取り組んできました。そして、できることも多い。これは間違いなく、すべての人事アシスタントにとって喜ばしい場面です。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "여풍, 무릉성 출신. 진로 선택 기간 중 엔드필드 공업에 자원하여 합류했으며, 현재 특수 기술부에서 인턴으로 활동 중이다.\n\n이 소년은 상상을 뛰어넘는 순수함과 진솔한 모습을 보여줬다. 입사 신청서 한 장만으로 한 사람의 지금까지 삶을 이토록 상세하게 알 수 있게 된 경우는 거의 처음이었다. 오히려 개인정보 보호 차원에서 몇몇 사적인 내용을 지워 달라고 요청해야 했을 정도였다.\n그는 항상 밝은 미소를 짓고 배려심이 깊으며, 인턴으로서 하고 싶어 하는 일도 많고, 실제로 할 수 있는 일도 많다. 이는 모든 인사 담당자들이 좋아할 만한 상황임이 틀림없다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "It was another busy day as usual aboard Dijiang. Not many people took notice of the new operator. Lifeng also did not intend to do anything spectacular. But he soon caught some attention by the third day he came aboard the ship — People started talking about a lad doing morning exercises in the Growth Chamber. On arrival, the team found an Anasa meditating cross-legged in the chamber, eyes shut, breath steady. Those who were there reported seeing a soft, gentle glow emanating from his body. No one knew if they were seeing things or if the phenomenon was a result of artificial lighting from the cultivation tanks... \n\"He's Sarkaz, that's why. Nothing to be worried about. It must be his 'Spirit'!\" \n\"It might be some secret Yanese technique. I think it's called the 'Ki'...\"\n\"It doesn't matter what it's called. The moment he sat down ... it brought about a vibe of serenity... It's like a form of artsy power that made me wanna call him 'Young Master'...\" \n\"Young Master? I think he's more like the Young Warrior from the martial arts movies that Chen showed us yesterday.\" \n\"Shh! I think he heard us! And he's turning around! QUICK! HIDE...\"\nAfter a brief, noisy moment, the lance made a few random slashes on the lighting module. Three fluid inlets and outlets of the control module were split open. They saw the youth fumbling to get back to his feet to wave off the white, billowing smoke around him. The youth then stood at attention: \"I'm so sorry! I thought nobody was using this place!\" \nThey realized he was just a boy, but their realizations quickly gave way to confusion: \"How do you look so young and old at the same time?!\" \nLifeng looked confused. \"Because ... the Anasas are an old and wise race, but I'm still a little young...?\" \nIt was an enlightening answer — Meaningful in some way, but also wholly incapable of answering the question! \n\nLifeng the Young Master (or Young Warrior) gave off an aura of rarely observed contradiction. He was ancient yet young, stiff yet flexible. These quirks were further verified as people started to befriend him. \nThe first to notice Lifeng's ability was provisional combat instructor Lil' Dodge. The instructor gave nothing but praise about Operator Lifeng's spear fighting skills after a friendly spar. The instructor (notorious for strictness) lavished extremely rare praises in Operator Lifeng's multi-dimensional assessment report. Things like: \"Lance strikes way faster than the average\"; \"Hits with just the right force\"; \"A warrior of rare quality\"; and — \"I really wanna know where he learned how to fight!\" \nLifeng was extremely surprised by these commendations, and said that he was but a little boy playing with sticks when compared to his master, Da Pan. \nAfter becoming the target of endless questioning (and all sorts of bribes), Da Pan finally agreed to reveal certain secrets. The Ursus confessed he was not good with children but Zhuang Fangyi gave him the important task of training Lifeng. Finding himself stuck with an energetic and inquisitive kid who followed him everywhere, Da Pan found a solution. He purchased over 600 video tapes of folk festivals and plays from a Hongshan antique store and allowed Lifeng to watch TV all day. He did not expect the kid to become engrossed with what he saw and took it all in. One day, Lifeng grabbed a cloth drying pole to fool around with. It was at that moment when Da Pan realized the boy's potential. \n\"Let's just keep it down,\" Da Pan waved his meaty paw around, \"The kid barely scratched the surface of the martial arts. Sure, his attacks look great and the flourishes are pretty, but true combat got nothing to do with that.\" \n\"So what is true combat all about?\" \n\"It's all about 'knowing'. True combat is about defeating the opponent, not the spear. A spear wielder studies the spear manuals. A true fighter studies the foe.\" \n\"That's really deep, Master Da Pan. How exactly do we study that?\" \n\"Well, it boils down to personality. Just you watch. He's just a kid, but Lifeng has the patience for it. And he's a meticulous one, too.\"",
+    "zh-TW": "在帝江號上忙碌的日常事務中，很少有人注意到一位新幹員的加入，並且，黎風自己也一點都沒有想要造成某種轟動。但他在登艦第三天就引起了一些注意——傳言稱，有個人在培養艙裡晨練。大家趕赴現場，看見一個阿納薩盤腿端坐於艙室地板上，閉著雙眼，運氣呼吸，不知道是眼花還是艙內培養皿的燈光所致，在場者竟然看到他周圍浮現出一種微微的柔和亮光——\n「因為他是薩卡茲，所以怎樣都不奇怪，我稱之為『靈』！」\n「可能他用的是一種大炎的秘法？！我覺得是『氣』……」\n「不管怎樣，他往那一坐，就給人感覺……周圍都安靜了下來……像有種魔力，讓人忍不住想叫他一聲『小師父』……」\n「小師父？我覺得是陳千語昨天給我們看的那種，武俠片里的少俠！」\n「噓，他好像回頭看過來了！快、快躲起來……」\n隨後便是一陣叮噹作響的動靜，長槍在光照單元上錯亂地劃了好幾下，劈開了控制組件的三個進出液口，在滾滾噴出的氣體中，大家看見少年慌忙收攏姿態，拍散周圍的白煙，立正站好：「對不起！我以為這裡沒有人使用！」\n原來還是個稚氣未脫的小孩子。大家恍然大悟，但隨後又疑惑起來：「你怎麼做到看起來又年輕又老的？！」\n黎風露出了困惑的表情：「因為阿納薩是一個古老又有智慧的種族，但我年紀還小……？」\n大家再次恍然大悟——好像有點道理，但又好像完全沒有解釋！\n\n小師父或者小少俠黎風身上這一種大家很少見過的，又老又新、又端正又柔軟的奇妙反差，在眾人與他逐漸親近的相處過程中得到了進一步的驗證。\n最先注意到黎風的能力的，是代理作戰教官小道奇。在一番交手後，小道奇對黎風幹員的槍法讚不絕口。在他交出的報告中，一向嚴厲的教官在黎風幹員的多元評測中使用了極少見到的表述，「出槍速度快於常人」、「力量非常到位」、「是不可多得的武才」——「真想知道他的師承！」\n對此，黎風幹員受寵若驚，表示自己在師父大潘面前只是班門弄斧。\n而大潘在大家百般追問和賄賂後才勉強透露，他自己天生不會帶孩子，卻被莊方宜委以教導黎風的重任。漫長的暑假裡，面對這個精力充沛、死纏爛打、萬事追根究底的小子，乾脆隨手甩了他六百多盤從宏山城的古董店挖來的野台戲錄影帶，丟在自己店裡，讓他對著電視機坐一整天。沒想到那小子還真的看得入迷了，並且學了起來。有一天，他在陽台上拿著曬衣桿子耍弄時，愣是被大潘瞧出了一個未來的好苗子。\n「低調、低調，」大潘擺擺肉手，「這小子現在也只學到武生皮毛。打起來是漂亮，但真正的戰鬥不靠花招。」\n「那靠什麼啊？」\n「靠個『會』字。跟人打，不是跟槍打。耍槍學的是槍譜，戰鬥要讀的是對手。」\n「好深奧啊，大潘老師。這個要怎麼學？」\n「哎，這個是真的看個性。您看著吧，黎風這孩子是耐得住性子的。他心細。」",
+    "zh-CN": "在帝江号上忙碌的日常事务中，很少有人注意到一位新干员的加入，并且，黎风自己也毫无意向要达成某种轰动的效果。但他在登舰第三天就引起了一些关注——传言称，有个人在培养舱里晨练。大家赶赴现场，瞧见一个阿纳萨盘腿端坐于舱室地板上，闭合双眼，运气呼吸，不知道是眼花还是舱内培养皿的灯光所致，在场者竟然看到他周身浮现出一种微茫的柔和亮光——\n“因为他是萨卡兹的缘故，所以怎么都不奇怪，我称之为‘灵’！”\n“可能他用的是一种大炎的秘法？！我觉得是‘气’……”\n“不管怎么样，他往那儿一坐，就给人感觉……周围都安静了下来……像有种魔力，让人想脱口而出叫他一声‘小师父’……”\n“小师父？我觉得是陈千语昨天给我们看的那种，武侠片里的少侠！”\n“嘘，他好像回头看过来了！快、快躲起来……”\n随后便是一阵丁零当啷的动静，长枪在光照单元上错乱地划拉了好几下，劈开了控制组件的三个进出液口，在滚滚喷出的气体中，大家看见少年慌忙收拢姿态，拍散周围的白烟，立正站好：“对不起！我以为这里没有人使用！”\n原来还是个稚气未脱的小孩子。大家恍然大悟，但随后又疑惑起来：“你怎么做到看起来又年轻又老的？！”\n黎风露出了困惑的表情：“因为阿纳萨是一个古老又有智慧的种族，但我年纪还小……？”\n大家再次恍然大悟——好像有点道理，但又好像完全没有解释！\n\n小师父或者小少侠黎风身上这一种大家很少见过的，又老又新、又板正又柔软的奇妙反差，在众人与他逐渐亲近的相处过程中得到了进一步的验证。\n最先注意到黎风的能力的，是代理作战教官小道奇。在一番交手后，小道奇对黎风干员的枪法赞不绝口。在他提交的报告中，一向严厉的教官在黎风干员的多维测评中使用了极少见到的表述，“出枪速度迅于常人”“力量非常到位”“是不可多得的武才”，——“真想得知他的师承！”\n对此，黎风干员受宠若惊，表示自己在师父大潘面前只是班门弄斧。\n而大潘在大家百般追问和贿赂后才勉强透露，他自己天生不会带孩子，却被庄方宜委以教导黎风的重任。漫长的暑假里，面对这个精力充沛、死缠烂打、万事刨根问底的小子，索性随手甩了他六百多盘从宏山城的古董店淘来的社戏录像带，扔在自己店里，让他对着电视机坐一整天。没想到那小子还真看得入了迷，学进了心里去。一日，他在阳台上拿着晾衣杆子耍弄时，愣是给大潘瞧出了一个未来的好苗子。\n“低调、低调，”大潘摆摆肉手，“这小子现在也只学到武生皮毛。打起来是漂亮，可真正的战斗不靠花招儿。”\n“那靠啥呀？”\n“靠个‘会’字。跟人打，不是跟枪打。耍枪学的是枪谱，战斗要读的是对手。”\n“好玄奥啊，大潘老师。这个要怎么学？”\n“嗐，这事儿还真吃个性。您瞧着吧，黎风这孩子是耐得住的。他心细。”",
+    "ja": "帝江号の日常業務は忙しく、新入りが乗り込んだとしてもなかなか気づかれない。その上、リーフォン自身も目立ちたいという願望はない。しかし彼が乗船して3日目、船内に小さな噂が走った――「培養室で朝練をしている人がいるらしい」。現場に向かった者たちが見たのは、船室の床にあぐらをかき、両目を閉じて静かに呼吸するアナサだった。培養装置の光のせいか、それとも気のせいか――彼の周囲には、朧げに柔らかな光が漂っているように見えた。\n「サルカズなんだから、何があってもおかしくないよ。これは『霊』っていうものなの！」\n「炎国の秘術じゃない！？私は『気』だと思うけれど……」\n「とにかく、座ってるだけで周りが静かになってきたような……何か不思議な力が働いてるみたいだ。なんだか『師匠』と呼びたくなってくる……」\n「師匠？それは昨日チェンが見せてくれた武侠映画の『若き侠客』のことだろ！」\n「しっ、こっち見た！はやく隠れないと……」\nその直後、ガリッという音と共に槍の先が照明ユニットを掠め、制御コンポーネントの液体出入口が3つ割れてしまった。気体が一気に噴き出し、少年は慌てて姿勢を正すと、白い煙を払いながらピシっと気をつけの姿勢を取った。「すみません……ここ、誰も使ってないって勘違いしてました！」\nまだあどけなさの残る少年だった。状況を理解すると同時に、ふと疑問が湧いてくる。「なんだか……若いのに、歳を取ってる感じもするような？」\nリーフォンは困った表情を浮かべた。「アナサは歴史があって、知恵のある種族なんですけど、僕がまだ子どもだから……でしょうか……」\nなるほど――確かに一理ある。でも、よく考えるとまったく説明になっていないのでは？\n\n「師匠」あるいは「若き侠客」――リーフォンには、古くて新しい、真面目だが柔軟性があるという、珍しく不思議なギャップがあった。そして彼と接する時間が長くなるほど、その印象は本物だと証明されていくのであった。\n最初に彼の才能に気づいたのは、代理作戦を担当するダッジ教官だった。手合わせの後、彼はリーフォンの槍さばきを絶賛した。報告書の多方面評価では、普段の厳しさからすると滅多に見られない表現が並んでいた。「槍を出す速さは他を凌ぐ」「力の具合がちょうどいい」「滅多にいない素質ある武人だ」――さらに「どこの弟子なのか知りたい」とまでコメントがあった。\nリーフォンは喜びつつも恐縮して、「ダパン師匠と比べたら」と返した。\nこれについてダパンは皆に何度も尋ねられ、「賄賂」まで渡された結果、ついに口を割った――ゾアン・ファンイにリーフォンの教育を頼むと押し付けられたと。しかし、ダパン本人は子どもの面倒を見るのは苦手だった。夏休みの間、エネルギーに満ち溢れ、粘り強く、何でもかんでも質問してくる「小僧」の対策として、宏山の骨董屋で見つけた村芝居の録画600本を与え、1日中店のテレビの前に座らせておいた。まさか本気で全部見て、心に刻み込んでしまうとは思わなかった。そしてある日、ベランダで物干し竿を構えるその姿を見たダパンは確信した――「未来ある種」だ、と。\n「おうおう、落ち着けってなァ。」モフモフの手をひらひらと振りながらダパンが言う。「あいつはようやく『武人の皮』を纏ったってとこなんだぜ。見た目が様になってたってなァ、本当の戦いとなりゃあ、また別の話よ。」\n「じゃあ、本当の戦いには何が大事なんですか？」\n「『出会い』ってやつかねェ。戦いの相手は槍じゃねェ、人だ。槍の書を読むのは稽古、でも本番で読むのは『相手』だからよう。」\n「深いですね、ダパン先生。それで、結局どうすればいいんですか？」\n「そりゃあ性分ってやつによるんじゃねェか？リーフォンは我慢強い。それに、注意深いしなァ。」",
+    "ko": "제강호의 분주한 일상에서, 신입 오퍼레이터가 합류한 것을 눈치챈 사람은 거의 없었다. 게다가, 여풍 자신도 딱히 요란하게 등장할 생각이 전혀 없었다. 하지만 제강호에 온지 사흘째 되는 날, 그는 주목을 받았다. 소문에 따르면, 누군가 재배실에서 새벽마다 수련을 하고 있다는 것이다. 모두가 현장으로 달려가 보니, 아나사 한 명이 선실 바닥에 가부좌를 틀고 앉아, 눈을 감고 기를 다스리며 호흡하고 있었다. 착각인지, 아니면 선내 재배실의 조명 탓인지, 그 자리에 있던 사람들은 그의 전신에서 은은한 빛이 감도는 것을 보았다.\n\"살카즈라면 무슨 일이 일어나도 이상할 건 없지. 난 그걸 '영'이라 부를래!\"\n\"아마 염국의 비법을 쓰는 걸지도?! 나는 '기' 같아...\"\n\"어쨌든, 그냥 저렇게 앉아 있는데 주위가 고요해지잖아... 마치 마력이 있는 거 같아, '꼬마 사부님'이라 부르고 싶어지네...\"\n\"꼬마 사부님? 난 어제 진천우가 보여 준 그 무협 영화의 소협 같던데!\"\n\"쉿, 방금 우리 쪽을 본 것 같아! 빨리 숨어...\"\n그 순간, 덜컥거리는 소리와 함께 장창이 조명 장치를 몇 번 긁더니, 제어 모듈의 입출구 포트 세 곳이 갈라졌다. 증기가 솟구치는 가운데, 소년은 황급히 자세를 거두고, 손으로 연기를 흩뜨리며 똑바로 서서 말했다. \"죄송합니다! 여긴 아무도 안 쓰는 줄 알았습니다!\"\n알고 보니 아직 앳된 티를 벗지 못한 어린 아이였다. 사람들은 '아하' 하고 깨달았지만, 이내 다시 의아해졌다. \"엄청 어려 보이면서도 또 나이든 느낌이 나는 거지?!\"\n여풍은 잠시 고개를 갸웃하며 대답했다. \"아나사는 원래 오래되고 지혜로운 종족이지만... 전 아직 어리니까요...?\"\n모두 다시 한번 '그럴듯하다'라며 고개를 끄덕였지만, 말이 되는 것 같기도 하고, 전혀 설명이 안 되는 것 같기도 했다.\n\n꼬마 사부님 또는 소협 여풍의 낡은 듯 새롭고, 엄격한 듯 부드러운 이 묘한 반전은 동료들과 조금씩 가까워지는 과정에서 더욱 뚜렷하게 드러났다.\n가장 먼저 여풍의 능력을 눈여겨본 이는 대리 작전 교관인 도치였다. 한 차례 합을 겨룬 뒤, 도치는 여풍의 창술에 감탄하며, 보고서에 평소 좀처럼 쓰지 않는 '공격 속도가 보통 사람보다 빠르다', '힘의 전달이 매우 정확하다', '매우 드문 인재다', '그의 스승이 누군지 정말 궁금하다!' 같은 표현을 남겼다.\n이에 여풍은 몸 둘 바를 몰라 하며 말하길, 자신은 판 스승님의 발뒤꿈치도 못 미친다고 말했다.\n한편 판은 사람들의 온갖 추궁과 뇌물 공세 끝에 마지못해 입을 열었는데, 자신은 아이를 돌볼 줄 모르는데, 장방이가 굳이 여풍을 맡아 달라고 했다. 여름 휴가 내내, 달라붙어 꼬치꼬치 캐묻는 녀석을 감당할 수 없어서, 그냥 홍산성 골동품 가게에서 주워 온 옛날 사극 비디오 600여 편을 던져주고, 하루 종일 TV 앞에 앉혀 두었다고 한다. 뜻밖에도 여풍은 정말 푹 빠져들었고, 전부 배워버렸다고 한다. 어느 날, 빨래 막대기를 들고 장난치는 걸 보고, 판은 이 녀석이 미래의 재목감이라는 것을 알아봤다고 한다.\n\"어허, 됐어\" 판은 살집 가득한 두툼한 손을 저으며 말했다. \"이 녀석은 무생의 겉핥기만 배운 거야. 싸울 땐 화려해 보이지만, 진짜 전투는 잔재주로 하는 게 아니니까 말이네.\"\n\"그럼, 뭘로 합니까?\"\n\"중요한 건 '활용'이지. 사람과 맞붙는 거지, 창하고 싸우는 게 아니네. 창술은 창법을 익히는 거고, 전투는 상대를 읽어야 하는 것이니 말일세.\"\n\"심오하네요, 판 선생님. 그건 어떻게 배우죠?\"\n\"허허, 그건 정말 타고난 성격이 중요해. 두고 보라고. 여풍 그 아이는 참을성이 있거든. 세심하기도 하고.\""
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "DOCUMENT: Endfield Industries Intranet Forum Records [1] \nAnonymous User 981902#8090 23:15 \nTOPIC: Anyone knows where to get a new toothbrush? \n\nRE: Anonymous User 891107#3319 23:16 \nEverything's in the dorm bathrooms. Might be in the drawers. \n\nRE: Anonymous User 981902#8090 23:19 \nYeah, I should've clarified my question. I got enough for myself, but I need another to brush the fuzzball plants at the Growth Chamber. I think they like how it feels. \n\nDOCUMENT: Endfield Industries Intranet Forum Records [2] \nAnonymous User 981902#8090 00:19 \nTOPIC: Help! Can't sleep but gotta train tomorrow morning.\nORIGINAL POST: Everyone's running around Talos-II all day and carrying out all sorts of missions. How do you deal with the drop lags? I'm so impressed. Maybe it's a problem with the bed. I just can't fall asleep on pillows that smell too fresh... \n\nRE: Anonymous User 18003#65137 00:25 \nEnergetic, aren't we? You the one who can't stop mumbling behind my back all morning? \n\nRE: Anonymous User 981902#8090 00:26 \nOh man, that's actually ... possible! I'm so sorry. I hope I didn't bother you. \n\nRE: Anonymous User 18003#65137 00:33 \nGreat Chain O'er the River... Embrace the Moon... The Lotus Question the Heavens... Sounds really exhausting... Good job... \n\nRE: Anonymous User 55698#2466 01:45 \nWoot! Just got back from the mission and this is the first post I saw! Dude, you gotta voice your moves in combat. Goes without saying. \n\nDOCUMENT: Endfield Industries Intranet Forum Records [3] \nAnonymous User 41572#8828 12:38 \nTOPIC: My friend lost a body part in an accident \nORIGINAL POST: I don't really know how to comfort her. Can anyone help? She keeps telling me she's alright but everyone's really worried. Losing a body part is definitely not alright. But how should we approach it without making her sad? \n\nRE: Anonymous User 981902#8090 12:50 \nSpeaking from experience, if people around me act as though everything is fine, I would know they're trying to keep their views to themselves. And that would make me sad. But if people really focused on it and do what they can to help me, I would also feel sad since I'd keep focusing on my missing part. So I guess this is a really tough situation to handle. The most important thing should be the fact that you and your friend care for each other. Just be honest with your feelings. \n\nDOCUMENT: Endfield Industries Intranet Forum Records [4] \nAnonymous User 601330#5207 10:01 \nTOPIC: There are 3 versions of Martial Codex in circulation and certain parts contradict each other. Which one is closer to the OG? \nORIGINAL POST: And MOST importantly, none of the 3 versions have the official HAS seal of approval. And the differences are humongous. \n\nRE: Anonymous User 981902#8090 10:26 \nI happen to have personal experience in the practice and field use of the spear. Here are my two cents. All 3 versions published by TGCC are fake, and contain plenty of ridiculous and misleading errors. Every version of the Martial Codex includes records of Yanese spearmancy such as Spear of Empyrean Return and Pear Blossom Spear of Wuling. But one of the versions made a super exaggerated claim that ancient Tianshi could flick the sun and moon with their spears. They even furnished this section with great warriors of questionable authenticity flying all over the place (for details, refer to the Wrankwood movie industry during the Age of Terra, plenty of their stuff is based on false fantasies). The Martial Codex we have in the EFDB might be a dry and boring read, but it contains detailed records and identities of the practitioners and masters of various spearmancy schools. The Codex even has commentaries and suggestions written by the practitioners themselves. The Codex has detailed descriptions of everything from folk martial artists to Imperial Guards of Yan, Silverlance Pegasi of Kazimierz, wielders of Victorian piledriver spears, and even Kazdelian mercenaries. The author is truly admirable for being able to secure such a huge range of resources while giving off the vibe of being on equal standing of numerous legends! The commentaries were also written in a concise yet vivid style. It takes great conviction to achieve this. Hence, I truly believe that the Martial Codex in the EFDB is the original from the Age of Terra. The others that we can easily buy are just crude and exaggerated copies. A true shame, if you ask me. \n\nRE: Anonymous User 601330#5207 10:28 \nNo way! I think I ran into a true master. Maybe we should meet offline! \n\nRE: Anonymous User 981902#8090 10:31 \nAh, yeah, maybe some other time! I'm just a small-time fan and got a bit carried away mashing out the last answer. Don't mean to offend! Really sorry about that!",
+    "zh-TW": "【終末地工業內部論壇發文紀錄（一）】\n匿名使用者981902#8090 23:15\n主題：有人知道新的牙刷去哪裡拿嗎？\n\n回覆：匿名使用者891107#3319 23:16\n宿舍浴室裡都配好了，你抽屜裡找看看\n\n回覆：匿名使用者981902#8090 23:19\n抱歉，我自己用是夠的，我是想幫培養艙的刺絨球卉刷毛，它們好像很喜歡這個感覺。\n\n【終末地工業內部論壇發文紀錄（二）】\n匿名使用者981902#8090 00:19\n主題：睡不著怎麼辦？明天一大早還要練武。\n內容：大家每天都要在塔衛二上到處跑，是怎麼調時差的？好厲害喔，可能是我比較認床，陌生的枕頭睡不著……\n\n回覆：匿名使用者18003#65137 00:25\n你怎麼這麼有精神……早上在我後面嘴裡一直碎碎唸的人就是你吧……\n\n回覆：匿名使用者981902#8090 00:26\n很有可能！糟糕！我沒吵到您吧？\n\n回覆：匿名使用者18003#65137 00:33\n鐵索橫江……懷中抱月……坐地問天什麼的……聽起來就很累……辛苦了……\n\n回覆：匿名使用者55698#2466 01:45\n剛收隊回來才滑到這則！打架的時候當然要把招式喊出來啊！\n\n【終末地工業內部論壇發文紀錄（三）】\n匿名使用者41572#8828 12:38\n主題：我有個朋友在事故中失去了身體的一部分\n內容：我一直不知道怎麼安慰她比較好，有人知道怎麼辦嗎？雖然她安慰我說沒事，但是大家還是很擔心她。一定有事啊，怎麼會沒事。不過，要怎麼說才不會傷她的心？\n\n回覆：匿名使用者981902#8090 12:50\n以我的親身經歷來說，如果旁人當作沒事發生一樣對待我，我會知道他們在刻意壓抑自己的看法，這會讓我很難過。但如果旁人把這當作重要的事，並且特地照顧我，也會讓我因為在意自己失去的那部分能力而難過。所以，這其實是一個很難處理的問題。最重要的是你和朋友關心彼此的心情，真誠地說出來就好。\n\n【終末地工業內部論壇發文紀錄（四）】\n匿名使用者601330#5207 10:01\n主題：市面上流通的三版《武典》中有些描述竟然相斥，到底哪版才接近原版啊？\n內容：最重要的是，其中沒有一版是宏科院官方蓋章的啊，出入也太大了吧。\n\n回覆：匿名使用者981902#8090 10:26\n剛好，我對長槍的使用和實戰有些心得體會。先說我的看法，環塔商會印刷的三個版本都是假的，因為其中許多謬誤根本匪夷所思。雖然每一版《武典》都有記載各類炎國槍法神技，例如「回天槍」、「武陵梨花槍」，其中一版更是傳出了古代天師能槍挑日月的誇張說法，卻從沒看過真實可信的描述和評論，配圖只是一堆不知真假的大俠飛來飛去（想想泰拉藍卡塢興盛時期的電影業，說不定有不少是以訛傳訛、引用假典故）。反觀終末地資料庫中的《武典》，相對較樸實無華，卻有對槍法傳人身分、師承的詳細紀錄，甚至還有傳承人自己備註的心得和意見。而且不僅民間武學，對炎國禁軍、卡西米爾的銀槍天馬、維多利亞的破城矛持有者、卡茲戴爾的僱傭兵都有詳細描摹。光是記錄者包羅萬象，卻又能平視天下群雄的氣度，就足夠令人心生欽佩！註解的記述文字更是紮實有力，寥寥幾筆就能栩栩如生。故此，我認為只有終末地資料庫裡的《武典》是泰拉時期的正本，大家平常能買到的可能都是些噱頭仿貨，真是可惜！\n\n回覆：匿名使用者601330#5207 10:28\n遇到真大俠了，改天見面請教請教？\n\n回覆：匿名使用者981902#8090 10:31\n那也太不好意思了！我也只是普通愛好者，一時激動打下了這些發言，若有得罪，還請見諒！",
+    "zh-CN": "【终末地工业内部论坛发帖记录（一）】\n匿名用户981902#8090 23:15\n主题：有人知道新的牙刷去哪儿领吗？\n\n回复：匿名用户891107#3319 23:16\n宿舍浴室里都配好了，你抽屉里找找呗\n\n回复：匿名用户981902#8090 23:19\n抱歉，我自己用是够的，我是想给培养舱的刺绒球卉刷毛，它们好像很喜欢这个感觉。\n\n【终末地工业内部论坛发帖记录（二）】\n匿名用户981902#8090 00:19\n主题：睡不着咋办？明天一大早还要练武。\n正文：大家每天都要在塔卫二上到处跑，是怎么倒时差的？好厉害啊，也许我比较认床，陌生的枕头睡不着……\n\n回复：匿名用户18003#65137 00:25\n你怎么这么有精神……早上在我后面嘴里一直念念有词的人就是你吧……\n\n回复：匿名用户981902#8090 00:26\n极有可能！糟糕！我没吵到您吧？\n\n回复：匿名用户18003#65137 00:33\n铁索横江……怀中抱月……坐地问天什么的……听起来就很累……辛苦了……\n\n回复：匿名用户55698#2466 01:45\n刚收队回来才刷到这条！打架的时候当然要把招式喊出来呀！\n\n【终末地工业内部论坛发帖记录（三）】\n匿名用户41572#8828 12:38\n主题：我有个朋友在事故中失去了身体的一部分\n正文：我一直不知道怎么安慰她比较好，有人知道怎么办吗？虽然她安慰我说没事，但是大家还是很担心她。肯定有事啊，怎么会没事。不过，要怎么说才不会伤她的心？\n\n回复：匿名用户981902#8090 12:50\n以我的亲身经历来说，如果旁人当作无事发生一样对待我，我会知道他们在刻意压抑自己的看法，这会让我很难过。但如果旁人把这当作重要的事，并且特地照顾我，也会让我因为在意自己失去的那部分能力而难过。所以，这其实是一个很难处理的问题。最重要的其实是你和朋友关心彼此的心情，真诚地说出来就好。\n\n【终末地工业内部论坛发帖记录（四）】\n匿名用户601330#5207 10:01\n主题：市面上流通的三版《武典》中有些记述竟然相斥，究竟哪版才接近原版啊\n正文：最重要的是，其中没有一版是宏科院官方盖章的啊，出入也太大了吧。\n\n回复：匿名用户981902#8090 10:26\n正巧，我对长枪的使用和实战有些心得体会。先说我的看法，环塔商会印刷的三个版本都是假的，因为其中许多谬误简直匪夷所思。虽然每一版《武典》都有记载各类炎国枪法神技，比如“回天枪”“武陵梨花枪”，其中一版更是传出了古代天师能枪挑日月的夸张说法，却从来不见详实可信的描述和点评，配图只是一堆不知真假的大侠飞来飞去（详考泰拉蓝卡坞兴盛时期的电影业，说不定有不少是以讹传讹、化用假典）。反观终末地资料库中的《武典》，较之朴实无华，却有对枪法传人身份、师承的详细记录，甚至还有传承人自己批注的心得和意见。而且不仅民间武学，对炎国禁军、卡西米尔的银枪天马、维多利亚的破城矛持有者、卡兹戴尔的雇佣兵都有详细描摹。光是记录者包罗万象，却又能平视天下群雄的气度，就足够令人心生钦佩！作注的记述文字更是夯实遒劲，寥寥几笔就能栩栩如生。故此，我认为只有终末地资料库里的《武典》是泰拉时期的正本，大家平时能买到的无非都是些噱头仿品，真是可惜！\n\n回复：匿名用户601330#5207 10:28\n遇到真大侠了，改天线下请教请教？\n\n回复：匿名用户981902#8090 10:31\n那多不好意思！我也只是普通爱好者，一时脑热打下了这些发言，若有得罪，还请见谅！",
+    "ja": "【エンドフィールド内部掲示板の投稿記録（1）】\n匿名981902#8090 23:15\n投稿：新しい歯ブラシって、どこでもらえるんですか？\n\n返信：匿名891107#3319 23:16\n寮の浴室にあるはず。引き出しを探してみたら？\n\n返信：匿名981902#8090 23:19\nありがとうございます。自分の分はあるんですけど、培養室の綿棘球花の綿をブラッシングしてあげたくて。喜びそうな気がするんです。\n\n【エンドフィールド内部掲示板の投稿記録（2）】\n匿名981902#8090 00:19\n投稿：眠れないときはどうすればいいですか？明日は朝から稽古があるのに……\n内容：皆さんは毎日タロⅡの色んな場所を走り回っているのに、どうやって生活リズムを調整しているんですか？僕はベッドや枕が変わると眠れないタイプで……\n\n返信：匿名18003#65137 00:25\nなぁんか、やたら元気……朝、後ろでぶつぶつ言ってたの、あんただよねぇ……\n\n返信：匿名981902#8090 00:26\nわっ、そうかもしれません……すみません！うるさかったですか？\n\n返信：匿名18003#65137 00:33\n「鉄索横断」……「懐中抱月」……「座地問天」とか……聞いてるだけでムリ……ふぁぁ、お疲れ～……\n\n返信：匿名55698#2466 01:45\n今任務終わったとこ！てかさ、攻撃のとき技名叫ぶのって、定番じゃないの？\n\n【エンドフィールド内部掲示板の投稿記録（3）】\n匿名41572#8828 12:38\n投稿：友達が事故で身体の一部をなくしてしまいました\n内容：どう慰めたらいいのかわかりません。本人は「大丈夫」って言ってくれますが、皆心配しています。絶対大丈夫じゃないに決まってるのに……傷つけないようにするには、どう伝えればいいんでしょうか？\n\n返信：匿名981902#8090 12:50\n自分の経験ですが、何もなかったかのように接されると、周りのみんなが自分を抑えて気を遣ってくれているとわかって、悲しくなります。でも、逆に特別扱いされるのも、自分が身体を失ったんだってことを改めて感じてしまって、やっぱり悲しくなります。だから、とても難しい話だと思いますが……一番大切なのはお互いを思う心と、それを素直に伝え合うことだと思います。\n\n【エンドフィールド内部掲示板の投稿記録（4）】\n匿名601330#5207 10:01\n投稿：市場に出回っている『武典』の3バージョンに矛盾あり。いったいどれが原本に近いのか？\n内容：一番の問題は、どれも宏科院の公式認定がないこと。それに内容の差も大きすぎる。\n\n返信：匿名981902#8090 10:26\n槍術と実践に少し心得があります。僕の考えですが、環タロ商会が出版した3つのバージョンはすべて偽物だと思います。ちょっと常識では考えられないような間違いも多く含まれているからです。どの『武典』にも炎国の槍の技、たとえば「回天槍」や「武陵梨花槍」が載っていますが、1冊には古代の天師が月と太陽を槍で突き上げたというかなり大げさなことも書いてありますし、信頼できそうな内容も詳しい説明もありません。掲載されているイラストも、大侠が飛び回っていて、疑わしいと思います。（テラでランクウッドが栄えていた時期の映画業界のことを考えると、間違った情報がそのまま伝えられたり、偽の参考資料が使われていたりしたものが多くある気がします）でも、エンドフィールドのデータベースにある『武典』は、内容的には素朴に見えるかもしれませんが、槍の使い手の身分や弟子までの詳細な記録があり、本人からの注釈や心得が載っているものもあります。さらに、民間武術のみならず、炎国の禁軍やカジミエーシュの銀槍のペガサス、ヴィクトリアの破城矛の所持者、カズデルの傭兵についても詳しく記述されています。記録した方はとても見識が広いと思いますし、天下の豪傑を平等に扱っているという点は、尊敬に値すると思います！作者のコメントは文字に力が宿っていて、たとえ数行でもその様子が生き生きと伝わってきます。ですから、僕はエンドフィールドのデータベースにある『武典』こそがテラ時代の原本だと思います。皆さんが普段手にするものが基本的にたくさん出回っている模造品だというのは、本当に残念です……！\n\n返信：匿名601330#5207 10:28\n本物の大侠がいたとは……今度オフラインで話を聞かせてもらえないか？\n\n返信：匿名981902#8090 10:31\nた、大したことないです！ただの武術好きで、勢いで書いてしまいました！すみません！",
+    "ko": "[엔드필드 공업 내부 포럼 게시 기록 (1)]\n익명 사용자 981902#8090 23:15\n주제: 새 칫솔은 어디서 받는지 아시는 분 계시나요?\n\n답글: 익명 사용자 891107#3319 23:16\n기숙사 욕실에 다 비치되어 있어요. 서랍 한번 찾아보세요.\n\n답글: 익명 사용자 981902#8090 23:19\n아, 제가 쓸 건 있는데, 재배실의 가시 모양 풀을 좀 빗겨 주려고요... 그 아이들이 무척 좋아하는 것 같아서요.\n\n[엔드필드 공업 내부 포럼 게시 기록 (2)]\n익명 사용자 981902#8090 00:19\n주제: 잠이 안 와요. 내일 아침 일찍 무술 훈련도 있는데.\n본문: 다들 매일 탈로스 II 여기저기 돌아다니시는데, 시차 적응은 어떻게 하세요? 정말 대단해요. 전 잠자리를 좀 가리는 편이라 그런지, 베개가 낯설어서 잠이 안 오네요...\n\n답글: 익명 사용자 18003#65137 00:25\n넌 어떻게 그렇게 기운이 넘치냐... 아침에 내 뒤에서 계속 중얼거리던 사람이 너지...\n\n답글: 익명 사용자 981902#8090 00:26\n아마도요! 잠시만요! 혹시 제가 방해한 건 아니죠?\n\n답글: 익명 사용자 18003#65137 00:33\n철쇄횡강... 회중포월... 좌지문천... 어쩌고... 듣기만 해도 피곤하다... 고생이 많네...\n\n답글: 익명 사용자 55698#2466 01:45\n방금 임무 마치고 복귀해서 이 글 봤다! 싸울 땐 당연히 기술명을 외쳐야지!\n\n[엔드필드 공업 내부 포럼 게시 기록 (3)]\n익명 사용자 41572#8828 12:38\n제목: 제 친구가 사고로 신체 일부를 잃었어요.\n본문: 어떻게 위로해야 좋을지 모르겠어서요, 혹시 좋은 방법 아시는 분 계신가요? 친구는 괜찮다고 오히려 절 위로하는데, 저희는 너무 걱정돼요. 당연히 괜찮을 리가 없잖아요. 어떻게 말해야 친구 마음에 상처를 안 줄 수 있을까요?\n\n답글: 익명 사용자 981902#8090 12:50\n제 경험으로는, 주변 사람들이 아무 일 없다는 듯이 대하면 오히려 더 속으로 괴로웠어요. 그렇다고 특별히 챙겨주면, 내가 잃어버린 능력 때문에 더 위축되더라고요. 그래서 진짜 어려운 문제예요. 가장 중요한 건 역시 당신과 친구분이 서로를 걱정하는 마음 그 자체니까요. 그냥 진심을 솔직하게 말씀하시는 게 제일 좋을 것 같습니다.\n\n[엔드필드 공업 내부 포럼 게시 기록 (4)]\n익명 사용자 601330#5207 10:01\n제목: 시중에 유통되는 <무공전> 세 판본이 서로 다 다른 내용이던데, 도대체 어떤 게 원본에 가까운 걸까요?\n본문: 무엇보다 중요한 건, 어떤 판본도 홍산 과학원 공식 인장이 없어요. 차이가 너무 나네요.\n\n답글: 익명 사용자 981902#8090 10:26\n마침 장창 사용법이랑 실전에 대해서 조금 아는 게 있어요. 제 생각부터 말하자면, 탈로스 II 상업연합회가 인쇄한 세 가지 판본은 전부 가짜라고 생각해요. 말도 안 되는 오류가 너무 많거든요. 모든 <무공전> 판본에 염국의 창술, 이를테면 '회천창', '무릉 이화창'이 적혀 있고, 어떤 판에는 고대 천사가 창으로 해와 달을 꿰뚫었다는 과장된 소문까지 적혀 있지만, 정작 믿을 만한 상세한 묘사나 해설은 전혀 없어요. 삽화도 진위가 불분명한 협객들이 날아다니는 그림뿐이에요. (테라의 랭크우드가 번성하던 시절 영화 산업이 한창일 때 만들어진 이야기들이 와전되거나 가짜 경전을 베낀 것이 적지 않을 것임) 반면 엔드필드 문서 보관소의 <무공전>은 화려하지 않지만, 훨씬 더 믿을 만해요. 창술 전승자의 신원과 사제 관계에 대한 상세 기록이 있고, 전승자가 직접 주석을 단 깨달음과 의견까지 기록되어 있어요. 민간 무학뿐 아니라, 염국 금위군, 카시미어의 실버랜스 페가수스, 빅토리아의 캐슬브레이커 소유자, 카즈델의 용병에 대해서도 자세히 묘사돼 있어요. 천하의 영웅들을 평등하게 바라보는 기개와 글도 얼마나 힘이 있는지, 몇 줄만 읽어도 눈앞에 살아 움직이는 것 같아요. 그래서 저는 엔드필드 문서 보관소에 있는 <무공전>이 테라 시기의 진짜고, 시중에 떠도는 건 그저 보여주기용 가짜라고 생각합니다. 정말 안타까운 일이죠!\n\n답글: 익명 사용자 601330#5207 10:28\n와, 진짜 대협을 여기서 뵙네요. 나중에 오프라인으로 한 수 가르쳐주실 수 있나요?\n\n답글: 익명 사용자 981902#8090 10:31\n에이, 부끄럽네요! 저도 그냥 지나가던 마니아인데, 순간 흥분해서 막 적어버렸네요. 혹시 기분이 상했다면 죄송해요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "Lifeng's neighbors in Wuling reacted differently when he received an internship opportunity at Endfield. \nSome genuinely felt happy for him, especially the elderly who saw him grow up. They all agree that it was time for the youth to head out there and see the bigger world. \n\"The youths of Wuling are the best and most virtuous. Lifeng, especially. Lad is always thinking about others. When Granny Bai forgets about her meds, Lifeng is the first person she calls.\" \n\"The boy trains in the wee hours of the morning. He'll also carry all the trashbags from the entire neighborhood to the dump. That's what I call looking out for your neighbors.\" \nA few felt sad, such as Lifeng's childhood companions. They treated him as the chieftain of the group. Now that Chieftain Lifeng found a serious job, the group was left without a leader. \nLifeng comforted them by revealing he would be interning at Endfield Industries, a company that works closely with Wuling. He could simply ask the Endministrator for leave to visit Wuling again. \nDespite his efforts, everyone got pretty anxious on the day of departure. \nThe regular safety drill was also scheduled on that day. Captain Mi Fu came to the neighborhood and listened to the children talk about this. She interrupted them brusquely: \"Nonsense. He'll be back. Won't be going nowhere 'cause this is where his heart is.\" \n\"Really?\" \n\"Lifeng never told us he was leaving Wuling. I thought he likes this place a lot.\" \n\"Yeah, Captain Mi. I thought he always wanted to join the Watchguards! Lifeng is just gonna learn some skills at Endfield, right? He'll be back!\" \n\"But this is a nice place. Why would he leave?\" \nMi Fu removed the baba breadstick from her mouth. People know that this was her cue for dropping some serious truthballs. \n\"Lifeng has a habit of getting himself in trouble. He's not the idle type.\" \n\"Getting himself in trouble? What does that mean?\" \n\"Leaving is troublesome, right?\" \n\"I don't understand, Captain Mi...\" \n\"Hmm, how should I put this?\" Mi Fu combed her hair with her fingers, \"It's like wearing shoes. Old shoes are cushy and fitting. New shoes are another thing. Tight and loose at all the wrong places. Might even leave you bleeding.\" \n\"Of course, Captain Mi. So why do we swap to new shoes?\" \n\"Oh, I know! Our feet got bigger!\" \n\"But everyone's feet get bigger when they get older, right?\" \n\"Stupid kids! You get new shoes to travel to other places!\" \n\"KYAA! Captain Mi is so loud and so mean...\" \n\"...Just remember. People leave to better themselves before coming back. You should feel happy for him.\" \n\nThe decision to visit a brand new place came suddenly to Lifeng. When the Blight Tide surged forth, Lifeng realized his proud spear was as fragile as a rolled paper. \nHe witnessed the massive Protocol Automation-Core breaking through the clouds and landing right in front of him. And in an instant, it deployed all sorts of machines before him. Lifeng realized how small he was, and smallness meant that he could not protect everything. He then realized that he was getting older. He always thought he could protect everyone by simply staying put. It felt as though someone scooped him out from a pond and cast him into the sea. Then he remembered that he had never seen the oceans before. There are no beaches at Wuling. \nAnd thus he desired to look at the oceans, the empyrean, and the world itself. These would transform him into a person with true strength. When that day comes, he shall return to his beloved Wuling and continue his march forward.",
+    "zh-TW": "武陵的街坊鄰居對於黎風前往終末地實習的選擇反響不一。\n有的人真誠地為他高興，比如眼看著他從小毛頭長大的老一輩們，都說年輕人到了年紀，是該出去闖一闖，長長見識。\n「論德行，我們武陵的孩子各個都是優秀的，特別是黎風，把所有人的事都放在心裡，連白奶奶忘記什麼時候吃哪種藥，都會先打電話問問黎風。」\n「大清早的，出來練武，他便會沿途把家家戶戶放在門口的垃圾袋一併收去垃圾站裡。這就是細心主動！」\n也有的人為此難過，例如從小玩到大的同伴們。對於他們而言，黎風就是大院子裡的孩子王，沒有他做主意，大家心裡總覺得少了靠山。\n黎風安慰他們說，他即將要去實習的地方——終末地工業，和武陵有著密切的合作。想回來的時候，向管理員申請休假就行。\n即便如此，離別的焦慮還是搞得人心惶惶。\n那天日常安全預警演習，弭弗隊長來到大院裡，聽到角落裡孩子們的議論，直接打斷了他們：「想什麼呢。一定會回來的。心就在這，人能跑多遠？」\n「真的嗎？」\n「之前黎風從來沒跟我們說過他要離開武陵呢，他明明那麼喜歡這裡。」\n「是啊，弭隊長，他之前不是一直跟你說要加入巡衛隊的嗎？黎風去終末地那邊也只是學習經驗吧，一定還會回來的！」\n「可是，在這裡就很好啊，他為什麼要走呢？」\n弭弗把嘴裡的粑粑竹籤拿掉。通常這個時候，大家就知道她要認真起來了。\n「黎風是會給自己找麻煩的人。他閒不下來。」\n「什麼叫找麻煩？」\n「離開就是一件很麻煩的事。」\n「弭隊長……不懂。」\n「呃，怎麼說啊……」弭弗抓了抓頭髮，「就像穿鞋子。舊的鞋子穿起來舒服，換新的鞋子，要適應，磨腳，還會流血。」\n「對啊，弭隊長，那為什麼要換新鞋子啊？」\n「我知道！是因為腳變大了。」\n「可是人不是長到一個歲數以後，腳就不會變大了嗎？」\n「笨喔！為了走更遠的路啊！」\n「哇，弭隊長突然好大聲，好可怕……」\n「……記住，離開是為了更好地回來。你們應該為他高興。」\n\n對於黎風而言，前去一個從未親眼看過的地方的決定，是突然誕生的。侵蝕潮湧來，他發現自己引以為傲的槍在它面前脆如白紙。\n他親眼看過巨大的協議核心刺破雲層，從天而降，落在他面前；又在一眨眼間，將所有的東西呈於眼前。在它面前，他發現自己很渺小，渺小得守護不了這一切；又發現自己太大，先前竟以為一直這樣下去就可以保護大家。他就像被人從池子裡抓起來丟進了大海。隨後他想起，自己也不知道大海真正是什麼樣子，武陵是沒有海的。\n所以，他要去看看海，看看天上，到世界裡去。在那裡他會變成更有力量的人，然後他會回來扛起他深愛的武陵，繼續往前走。",
+    "zh-CN": "武陵的街坊邻居对于黎风前往终末地实习的选择反响不一。\n有的人真诚地为他高兴，比如眼看着他从毛头小子长大的老一辈们，都说年轻人到岁数了，是该出去闯一闯，长长见识。\n“要论德行，咱们武陵的孩子都是个顶个的优秀，特别是黎风，心里装着所有人的事儿，连白奶奶忘记什么时候吃哪种药，都会先打电话问一问黎风。”\n“大清早的，出来练武，他便会沿途把各家各户放在门口的垃圾袋一并收去垃圾站里。这就叫眼里有活儿！”\n也有的人为此难过，例如从小玩到大的同伴们。对于他们而言，黎风就是大院里的孩子王，没了他拿主意，大家心里总觉得少了一根主心骨。\n黎风安慰他们说，他即将要去实习的地方——终末地工业——和武陵有着密切的合作。想回来的时候，向管理员申请休假就行。\n即便如此，离别的焦虑还是搞得人心惶惶。\n那天日常安全预警演习，弭弗队长来了大院里，听到角落里孩子们的议论，硬邦邦地打断了他们：“想什么呢。肯定会回来的。心就在这儿，人能跑多远？”\n“真的吗？”\n“之前黎风从来没跟我们说过他要离开武陵呢，他明明那么喜欢这里。”\n“是啊，弭队长，他之前不是一直跟你说要加入巡卫队的吗？黎风去终末地那边也只是学习经验吧，肯定还会回来的！”\n“可是，在这里就很好啊，他为什么要走呢？”\n弭弗把嘴里的粑粑签子拿掉。一般这个时候，大家就知道她要认真起来了。\n“黎风是会给自己找麻烦的人。他闲不住。”\n“什么叫找麻烦？”\n“离开就是一件很麻烦的事。”\n“弭队长……没懂。”\n“呃，怎么说啊，”弭弗挠了挠头发，“就像穿鞋子。旧的鞋子穿着舒服，换新的鞋子，要适应，磨脚，还会流血。”\n“对啊，弭队长，那为什么要换新鞋子啊？”\n“我知道！是因为脚变大了。”\n“可是人不是长到一个岁数以后，脚就不会变大了吗？”\n“笨啊！为了走更远的路啊！”\n“呜哇，弭队长突然好大声，好可怕……”\n“……记住，离开是为了更好地回来。你们应该为他高兴。”\n\n对于黎风而言，前去一个从未亲眼见过的地方的决定，是突然诞生的。侵蚀潮涌来，他发现自己引以为傲的枪在它面前脆如白纸。\n他亲眼见过巨大的协议核心刺破云层，从天而降，落在他面前；又在一眨眼间，将所有的东西呈于眼前。在它面前，他发现自己很渺小，渺小得守护不了这一切；又发现自己太大，先前竟以为一直这样下去就可以保护大家。他就像被人从池子里抓起来扔进了大海。随后他想起，自己也不知道大海真正是什么样子，武陵是没有海的。\n所以，他要去看看海，看看天上，到世界里去。在那里他会变成更有力量的人，然后他会回来扛起他深爱的武陵，继续往前走。",
+    "ja": "武陵の人々は、リーフォンがエンドフィールドにインターンへ行くことについて、それぞれ違った反応を見せた。\n心から喜んでいる人もいる。たとえば、子どもの頃からリーフォンの成長を見守ってきたお年寄りたちは、「若者は外に出て見識を広げるべきだ」と口を揃えて言う。\n「徳も行いも、武陵の子たちはみんな優秀よ。特にリーフォンは、皆のことを気にかけて心に留めているの。バイばあちゃんがいつ、どんな薬を飲めばいいかを忘れたときに、電話でリーフォンに聞くくらいなんだから。」\n「朝早くから武術の稽古に出かけるが、その途中にある家の前のゴミを全部集積場まで持って行ってくれるんだ。これが気配りってやつだよ！」\nしかし、悲しんでいる人もいる。子どもの頃から一緒に遊んできた仲間たちだ。リーフォンは近所の子どもたちのまとめ役で、彼がいなければ真ん中にぽっかり穴が空いたような気分になるのだ。\nリーフォンは彼らに、インターン先であるエンドフィールド工業は武陵と深い協力関係にあること、帰りたくなったら管理人に休暇を申請すれば大丈夫だと話して慰めた。\nそれでも、別れの不安はみんなの心を揺らしていた。\nある日、安全演習にミフ隊長が訪れ、隅の方で子どもたちがこそこそと話をしているのを聞くと、それを言葉で遮った――「無駄口を叩くな。いつか戻る。心が此処にあるならば、遠く離れようが同じだ。」\n「ほんと？」\n「たしかに、リーフォンは武陵を離れるなんて一度も言ってなかったよ。だってここが大好きなんだもん。」\n「そうだよね。リーフォンはミフ隊長に巡衛隊に入るってずっと言ってたよね？経験を積むためにエンドフィールドに行くだけ。きっとまた帰ってくるよ！」\n「でも、ここだってすごくいいところなのに。なんで行っちゃうの？」\nミフは口にくわえたもち米団子の竹串をすっと抜いた。これは、真剣な話をするときにする仕草だ。\n「リーフォンは自ら面倒事に突っ込んでいく。黙っていられない質だ。」\n「面倒事に突っ込むって、どういう意味？」\n「『離れる』ことも「面倒事」だ。」\n「ミフ隊長……よくわからないよ。」\n「ああ、そうだな……」ミフは少し頭を掻いた。「靴と同じだ。履き慣れた靴は楽だ。新しい靴は、慣れるまでに時間がかかる。合わずに靴擦れをすることもある。」\n「じゃあ、ミフ隊長、なんで新しい靴に履き替えるの？」\n「わかった！足が大きくなってるんだね。」\n「でも、大人になったら、もう足は大きくならないよね？」\n「よく考えろ。もっと遠くに行くためだ。」\n「うわ、ミフ隊長、急に声が大きくなって……怖いよ……」\n「……覚えておくといい。人は帰るために、離れる。だから、喜んで送り出してやれ。」\n\nリーフォンにとって、まだ見ぬ場所へ行くという決意は突然芽生えたものだった。侵蝕潮が押し寄せ――自分が誇りとしてきた槍は、その前では紙のように脆く、あまりに無力であった。\nそして、協約核心は天から雲を割って現れ、自分の前に降り立った。次の瞬間、目の前に様々なものが現れた。自分はあまりにも小さく、すべてを守ることは出来ない。自分は、思い上がっていた。このままここで、皆を守れると思い込んでいた。まるで小さな井戸の中から、海に放り込まれたようだった。そして、気付いた。本物の海がどんなものか、自分はまだ知らないのだと。武陵には海がないのだと。\nだから、海を見に行こうと思った。雲の上へ、そして世界の中へ。必ずもっと強くなる。いつか戻って愛する武陵を背負い、前に進み続けるために。",
+    "ko": "무릉의 이웃들은 여풍이 엔드필드 공업으로 인턴을 떠난다는 소식에 엇갈린 반응을 보였다.\n진심으로 기뻐해 주는 사람들도 있었다. 이를테면 그가 어린 시절부터 자라는 모습을 지켜본 어른들은, 젊은이가 나이가 차면 세상에 나가 경험을 쌓아야 한다며 기뻐했다.\n\"인성으로 치자면, 우리 무릉 아이들은 하나같이 으뜸이지만, 특히 여풍은 남다르지. 동네 사람들 사정을 속속들이 꿰고 있어서, 백 할머니가 언제 무슨 약을 드셔야 할지 잊어버리시면 여풍한테 먼저 전화를 걸어 물어볼 정도라니까.\"\n\"이른 아침 무술 수련하러 나오면서도, 길목마다 집집이 내놓은 쓰레기봉투를 싹 모아서 쓰레기장에 갖다 버린다니까. 저런 걸 두고 '알아서 척척한다'고 하는 거야!\"\n반면, 서운해하는 사람들도 있었다. 이를테면 어를 때부터 함께 뛰놀며 자란 친구들이 그랬다. 그들에게 여풍은 언제나 골목대장 같은 존재였다. 여풍이 없으면 다들 중심을 잡아줄 사람이 사라진 것처럼 마음이 허전했다.\n여풍은 친구들을 안심시켰다. 자기가 가게 될 엔드필드 공업과 무릉은 긴밀히 협력하고 있으니, 돌아오고 싶을 때면 언제든 관리자에게 휴가를 신청하면 된다고 말이다.\n그럼에도 불구하고, 헤어져야 한다는 불안감에 다들 마음이 뒤숭숭했다.\n그날 일상 안전 경보 훈련이 있던 날, 미브 대장이 마을을 찾았다가 아이들이 모여 떠드는 소리를 듣고는 무뚝뚝하게 말을 끊었다. \"쓸데없는 생각은 하지 마라. 여풍은 분명 다시 돌아올 거다. 마음이 여기 있는데, 얼마나 멀리 간들 무슨 상관이냐.\"\n\"정말요?\"\n\"여풍은 한 번도 우리한테 무릉을 떠난다는 말을 한 적이 없었어요. 여기를 그렇게 좋아하는데요.\"\n\"맞아요, 미브 대장님, 전에는 계속 순찰대에 들어가겠다 하지 않았나요? 엔드필드에 가는 것도 그냥 경험을 쌓으려는 거겠죠? 분명 돌아올 거예요!\"\n\"하지만, 여기도 좋은데요. 왜 굳이 떠나는 거죠?\"\n미브는 입에 물고 있던 꼬치 막대를 뺐다. 보통 이럴 땐, 그녀가 진지한 이야기를 하려 한다는 신호였다.\n\"여풍은 스스로 골칫거리를 만드는 녀석이야. 가만히 있질 못하거든.\"\n\"골칫거리를 만든다니요?\"\n\"떠나는 것 자체가 곧 골칫거리야.\"\n\"미브 대장님... 무슨 말인지 모르겠어요.\"\n\"음, 뭐라고 해야 할까.\", 미브가 머리를 긁적였다. \"신발 같은 거야. 헌 신발은 편하지만, 새 신발로 바꾸면 적응하느라, 물집도 생기고, 피도 나지.\"\n\"맞아요, 그런데 왜 굳이 새 신발을 신는 거예요?\"\n\"알았다! 발이 더 커졌으니까요?\"\n\"근데 사람은 나이가 들면 발이 더 이상 안 크잖아요?\"\n\"바보야! 더 먼 길을 가려는 거지!\"\n\"으악, 미브 대장님 갑자기 너무 크게 말하니까 무서워요...\"\n\"...기억해둬. 떠나는 건 더 잘 돌아오기 위해서야. 너희도 여풍을 위해 기뻐해 줘야지.\"\n\n여풍이 한 번도 직접 본 적 없는 곳으로 떠나기로 한 것은, 정말 갑작스러운 결정이었다. 침식 조류의 물결이 밀려왔을 때, 그는 자신이 그토록 자랑스러워하던 창이 그 앞에서는 종잇장처럼 무력하다는 것을 깨달았습니다.\n그는 거대한 프로토콜 코어가 구름을 뚫고 하늘에서 내려와 눈앞에 떨어지는 것을 직접 보았다. 그리고 눈 깜짝할 사이에, 세상의 모든 것을 마주하게 되었다. 그 거대한 존재 앞에서, 그는 자신이 이 모든 것을 지키기엔 너무나도 작고 하찮다는 것을 깨달았다. 동시에, 이대로만 가면 모두를 지킬 수 있을 거라 믿었던 자신이 그동안 얼마나 오만했는지도 깨달았다. 여풍은 마치 작은 연못에서 뭍으로 끌어올려져 거대한 바다에 내던져진 기분이었다. 문득, 자신은 바다가 진정 어떤 모습인지 모른다는 사실을 떠올렸다. 무릉에는 바다가 없으니까 말이다.\n그래서 그는 바다를 보러, 하늘을 보러, 세상으로 나아가기로 했다. 그곳에서 더 강한 사람이 되어, 다시 무릉으로 돌아와 사랑하는 고향을 짊어지고 앞으로 나아가기 위해."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "DOCUMENT: An Old Notebook \n(The poor handwriting on the cover page was penned quite a few years ago) \nUncle Pan said the spear is the king of all weapons. A spear expert will quickly learn everything else. \"One month to master the staff, one year to master the blade, and one lifetime to master the spear.\" And propriety is harder than spearmancy. It's all about agility, dexterity, flexibility, speed, haste, and being razor sharp. \nMUST REMEMBER THIS! (This line is furnished with double underlines) \n...... \nNever slack when holding a spear. The point shall be right before the chest to convey power and might without fury. \nNever direct the point to yourself, but only at the enemy. \nNever thrust a foe that enters the circle, but only block. Thrust a foe attempting a stab. \n...... \nStance of the Azure Dragon's Claw \nCapable of parrying various moves, with just the right strength. Counter-thrust when the enemy strikes with a spear. Steady one's footing to keep the enemy pinned. \n...... \nFEINT (the word is given a double underline)! Gotta put more time in this! Fall backwards to feint defeat, wait for the foe to thrust, leap back on the feet and seize the foe's weapon. \n(Scribbled comments) Take a step backward to make a good advance? This is so difficult. \n...... \nMust get the basics down. 100 rounds for the lance and spear. EACH. Meihuazhuang and Liuhequan routines must be done daily. Skip 3 days of training and your body will notice. Skip 7 days and your foe will exploit it. MUST REMEMBER THIS! \n...... \n\nDOCUMENT: Things Posted on a Dorm Room Wall \nSemi-finalist, 5th Endfield Office Hand Game Competition \nBest Partner of the Intern Division, 24th Commendable Endfielders Evaluations \n1st Runner-Up, Hongshan Punch Up Martial Arts Contest - Endfield Industries (number of contenders: 2) \nMember of Excellence, 2nd Wuling Watchguard Reservist Summer Training Camp (to date, only 3 trainees have received this award) \n\nDOCUMENT: Random Records in a Notebook \nNot sure if I can cool my arm in the fridge (gets a little hot when I use it too much). Should try asking that senior employee at the Logistics Division. \nNever saw people from that many places across the world. Very impressive. Hope they won't complain about my accent (could be a little too heavy). \nCanteen food is SO GOOD when Uncle Pan is around!! \nJust ran into Antal. Told me he's using the molass I brought from home as shoe polish... It's alright, I guess. We're buddies. \nOperator Avywenna is an expert spear user as well! Gotta ask her for a few tips! Never saw a spear of that style. Woot (NOTE: Don't piss her off) \nThey told me the Endmin will be talking to me tomorrow and I should try to relax and not look so nervous. BY TALOS! I'm so nervous right now! Gotta think about my recent performance! \nPLS PLS PLS LEMME PASS! I really wanna work at Endfield! \nAWESOME! I PASSED!!! AAAAAA!! Okay. Gotta keep my composure for my formal employee photo. No stupid grins. Hands in pockets. Really wanna do some spear stance. Anyway, Lifeng, you're an actual operator now! DON'T BE A DEADWEIGHT!",
+    "zh-TW": "【一個陳舊的本子】\n（扉頁上字跡歪七扭八，落款距今已有一段時間）\n潘叔說：槍是百兵之王，會了槍，別的便也能通。「月棍、年刀、一輩子的槍」，做人需要如槍般紮實，靈、巧、柔，急、快、利。\n切記，切記！（這幾個字底下劃了兩條線）\n…………\n持槍之勢要敬。槍，要托離胸前，示其能，不怒而威。\n槍尖勿向己，只對敵。\n勿犯我近圈者，只攔，不刺。刺我者，便截。\n…………\n「青龍獻爪」槍勢\n招招能防，勢勢無逾，吃槍還槍，要自己穩了才能殺住對方。\n…………\n詐敗（這兩個字底下劃了兩條線）得再練練！身後一倒，偽為敗勢，待敵扎刺，回身騰起，拿開敵槍。\n以退為進，這個好難啊。（這條是備註）\n…………\n基本功也要記得練，戳槍、扎槍每天各一百次，梅花樁、六合拳等科目須得日日做。三天不練己明，一週不練敵知，切記，切記！\n…………\n\n【宿舍牆上的數張黏貼物】\n第五屆終末地工業辦公室猜拳大賽，1/4決賽入圍選手\n第二十四期終末地工業優秀員工選拔，實習組「最佳合作員工」\n「出拳！宏山人」武術比賽終末地工業分賽場，第二名（參賽者共2人）\n武陵巡衛隊第二期預備成員夏季訓練營，「優秀營員」（往年獲此殊榮者僅3人）\n\n【便利貼中零散的紀錄】\n不知道手臂能不能放冰箱裡降溫，用多了有點熱，下次問問那位後勤部門的老師\n從來沒看過世界各地的這麼多人，神奇神奇，不知道他們會不會覺得我的口音有點重啊\n有潘叔在的時候，餐廳的菜好吃！！\n哦對了，安塔爾路過的時候告訴我，他把我上次從老家帶來的特產甜膏當鞋油用了……沒關係，都是兄弟\n艾維文娜幹員也是用長槍的好手，要向她討教一番！以前沒看過那樣的長槍，哇（不要惹她）\n他們說管理員明天會來和我聊聊天，叫我不要緊張。天啊，好緊張，趕快回想一下最近的表現！\n希望可以留下希望可以留下希望可以留下希望可以留下\n好好好終於通過了考核！！！明天拍正式照片的時候要冷靜，不要傻笑，手記得插口袋，想想擺個什麼槍勢，總之，黎風，你已經是正式幹員了，別拖後腿！",
+    "zh-CN": "【一个陈旧的本子】\n（扉页上字迹歪歪扭扭，落款距今已有一段时间）\n潘叔说：枪是百兵之王，会了枪，别的便也能通。“月棍、年刀、一辈子的枪”，做人需得如枪般扎实，灵、巧、柔，急、快、利。\n切记，切记！（这几个字底下划了两条杠）\n…………\n持枪之势要敬。枪，要托离胸前，示其能，不怒而威。\n枪尖勿向己，只对敌。\n勿犯我近圈者，只拦，不刺。刺我者，便截。\n…………\n“青龙献爪”枪势\n招招能防，势势无逾，吃枪还枪，要自己稳了才能杀住对方。\n…………\n诈败（这两个字底下划了两条杠）得再练练！身后一倒，伪为败势，待敌扎刺，回身腾起，拿开敌枪。\n以退为进，这个好难啊。（这条是批注）\n…………\n基本功也得记得练，戳枪、扎枪每天各一百次，梅花桩、六合拳等科目须得日日做。三天不练己明，一周不练敌知，切记，切记！\n…………\n\n【宿舍墙上的数张粘贴物】\n第五届终末地工业办公室猜拳大赛，1/4决赛入围选手\n第二十四期终末地工业优秀员工评选，实习组“最佳合作员工”\n“出拳！宏山人”武术比赛终末地工业分赛场，第二名（参赛者共2人）\n武陵巡卫队第二期预备成员夏季训练营，“优秀营员”（往年获此殊荣者仅3人）\n\n【便签本中零散的记录】\n不知道手臂能不能放冰箱里降温，用多了有点热，下次问问那位后勤部门的老师\n从来没见过世界各地的这么多人，神奇神奇，不知道他们会不会觉得我的口音有点重啊\n有潘叔在的时候，食堂的菜好吃！！\n哦对了，安塔尔路过的时候告诉我，他把我上次从老家带来的特产甜膏当鞋油用了……没事儿，都哥们儿\n艾维文娜干员也是用长枪的好手，要向她讨教一番！以前没见过那样的长枪，哇（不要惹她）\n他们说管理员明天会来和我聊聊天，让我不要紧张。老天，好紧张，赶紧回想一下最近的表现！\n希望能留下希望能留下希望能留下希望能留下\n好好好终于通过了考核！！！明天拍正式照片的时候要冷静，不要傻笑，手记得插兜，想想摆个什么枪势，总之，黎风，你已经是正式干员了，别拖后腿！",
+    "ja": "【1冊の古いノート】\n（扉にはよれよれの文字が書かれており、記載されているのはかなり昔の日付である）\nダパンおじさんによると「槍は百の兵を制する王」で、槍を使いこなせれば、ほかの武器の扱いも理解できるそうです。「棒は一カ月、刀は一年、槍は一生」――人もまた槍のように、確かで賢くあれ。器用かつ柔軟、瞬発力に富み、速く鋭くあれ。\n肝に銘じ、忘れるべからず！（文字の下には2本の横線が引かれている）\n…………\n槍を構えるときは、身を正すべし。胸の前より離し、勢いは外に示し、怒らずして威を帯びる。\n穂先は己を指すことなく、ただ敵に向くのみ。\n間合いにある者はむやみに害すべからず。足を止め、刺してはならぬ。刃をもって来たる者あらば、鋭気を受けとめ、制すべし。\n…………\n「青龍献爪」の構え\n技はみな守りを兼ね、隙なきを旨とす。槍を食らえば槍をもって返し、足元が固まればこそ、敵を制すこと適わん。\n…………\n敗北を装う（文字の下には2本の横線が引かれている）もう少し練習しないと！「身を後ろへ倒し、敗北の勢を装う。敵が突き来るのを待ち、その瞬間身を返して跳ね起き、槍を払い除ける。\n「先ず退いて、進む。」これが難しい……（とコメントが書かれている）\n…………\n基礎の鍛錬も忘れないこと！突き、刺しは毎日100回ずつ。梅花拳、六合拳も毎日欠かさず練習すること。「稽古を3日怠れば己の知る所となり、7日怠れば敵に知れ渡る」――肝に銘じ、忘れるべからず！\n…………\n\n【寮の壁に貼られた数枚の紙】\n第5回エンドフィールド工業オフィスじゃんけん大会　準々決勝入選\n第24回エンドフィールド工業優秀従業員選抜　インターン生「最優秀外部従業員」\n「出拳！宏山闘士」武術大会エンドフィールド工業サテライト会場　2位（参加者計2名）\n武陵巡衛隊第2期予備隊員夏合宿　「優秀参加者」（今までこの特別の栄誉を得た者は僅か3人）\n\n【メモ帳の走り書き】\n腕は冷蔵庫に入れて冷やせないのかな？使いすぎてちょっと熱くなっちゃった……今度、後方支援部の先生に聞いてみよう。\n世界各地からこんなにたくさん人が集まってるなんて！僕のアクセント、大丈夫かな……\nダパンおじさんがいるときの、食堂の料理は最高！！\nあ、そういえばアンタルさんが通り過ぎたときに教えてくれたんだけど、前回僕が地元から持ってきたお土産の糖蜜、靴クリームと勘違いしちゃったって……仲良しだし、全然気にしないのに。\nアイビーエナ先輩も槍の達人だって。ちょっと教えてもらいたいなあ。あんな槍は初めてだったし、本当にすごい！（でも、怒らせないように要注意）。\n「明日、管理人と面談することになるから、緊張しないで」と言われたけど……緊張する！！最近、やってきたことをじっくり振り返っておかないと！\n絶対に残れますように、残れますように、残れますように……\nやったー！評価測定、合格！！！明日の写真撮影、落ち着いてヘラヘラ笑わないこと。手をポケットに入れて、えーっと、槍の構えを取って……とにかく、リーフォン！もう正式なオペレーターなんだ！皆さんの足を引っ張っちゃだめだぞ！",
+    "ko": "[낡은 노트 한 권]\n(표지 속 필체는 삐뚤빼뚤하고, 쓴지는 이미 시간이 꽤 지난 듯하다.)\n판 아저씨께서 말씀하셨다. 창은 만병지왕이라, 창을 익히면, 다른 것에도 통달할 수 있다고. '달이면 봉, 년이면 도, 평생이면 창'이라는 말이 있다. 창처럼 굳건하면서도, 영민하고, 교묘하며, 유연하고, 또 신속하고, 재빠르며, 예리해야 한다.\n명심, 또 명심할 것! (이 문구 아래 두 줄이 그어져 있다)\n......\n창을 쥐는 자세에는 경건함이 깃들어야 한다. 창은 가슴 앞에서 받쳐 들어 그 기세를 드러내되, 분노하지 않아도 위엄이 서리게 해야 한다.\n창끝은 결코 나를 향하지 않고, 오직 적만을 향해야 한다. 내 '간격' 안으로 파고드는 자는 막기만 하고 찌르지 않는다. 허나 나를 찌르려 드는 자는, 그 즉시 베어버린다.\n......\n'청룡헌조' 창술 자세\n모든 초식은 방어에 능하며, 그 어떤 자세도 법도에 어긋남이 없다. 창에는 창으로 맞선다. 스스로가 굳건히 서야만 비로소 상대를 제압할 수 있다.\n......\n허점보이기(이 글자 아래 두 줄이 그어져 있다) 더 연습해야 한다! 몸을 뒤로 젖혀 일부러 패배한 듯 보이다가, 적이 찔러 들어오는 순간, 몸을 돌려 솟구치며 적의 창을 쳐낸다.\n물러나는 듯하며 나아간다... 이게 정말 어렵다. (옆에 달린 메모)\n......\n기본기 훈련도 잊지 말 것. 짧게 찌르기와 내지르기 각각 하루 100번, 매화장, 육합권 같은 과목도 매일 거르지 말아야 한다. 사흘을 거르면 내가 알고, 이레를 거르면 적이 안다. 명심, 또 명심!\n......\n\n[기숙사 벽에 붙어 있는 종이들]\n제5회 엔드필드 공업 사무실 가위바위보 대회, 8강 진출\n제24기 엔드필드 공업 우수 직원 선발, 인턴조 '최고 협력 직원'\n'홍산, 펀치맨!' 무술 대회 엔드필드 공업 예선 경기, 2등(참가자 총 2명)\n무릉 순찰대 제2기 예비 멤버 하계 훈련 캠프, '우수 훈련병'(예년 수상자는 단 3명)\n\n[메모지에 이리저리 적혀있는 기록]\n팔을 너무 많이 썼더니 좀 뜨거운데, 냉장고에 넣어서 식혀도 되려나 다음에 지원 부서에 물어봐야지.\n이렇게 세계 각지에서 온 사람들은 처음 본다. 신기해, 신기해. 다들 내 사투리가 좀 심하다고 생각하려나?\n판 아저씨가 계실 땐 식당 밥이 맛있다!!\n아, 맞다. 안탈이 말해줬는데, 내가 저번에 고향에서 가져온 특산품인 단고를 구두약으로 썼단다... 뭐, 괜찮아. 친구 사인데 뭘.\n오퍼레이터 아비웨나도 장창을 잘 쓴다. 꼭 한 수 배워야겠다! 저런 장창은 처음 봤다. 우와. (괜히 건드리지 말자)\n내일 관리자님이 나랑 이야기하러 오신다고, 모두 긴장하지 말라고 했다. 세상에 너무 긴장된다! 최근에 내가 뭘 했더라!\n남고 싶다. 남고 싶다. 남고 싶다. 남고 싶다.\n좋아, 좋아, 드디어 심사를 통과했다!!\n내일 정식으로 사진 찍을 땐 침착해야 한다. 바보같이 웃지 말고, 손은 주머니에 넣고, 어떤 창 자세를 취할지 생각해 두자. 어쨌든, 여풍, 넌 이제 정식 오퍼레이터다. 뒤처지지 말자고!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0015_lifeng_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Endmin, finally got an assignment for me?",
+    "zh-TW": "管理員！這次我能派上用場了嗎？",
+    "zh-CN": "管理员！这回我能派上用场了吗？",
+    "ja": "管理人！僕、今回はお役に立てそうですか？",
+    "ko": "관리자님! 이번엔 저도 도움이 될 수 있을까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Oh, my laces are untied... Wait, Endmin's coming! Attention!",
+    "zh-TW": "欸，鞋帶鬆了……管理員來了！不管了，立正！",
+    "zh-CN": "哎，鞋带开了……管理员来了！不管了，立正！",
+    "ja": "靴ひもが……わっ、管理人！……いいやっ、気をつけ！",
+    "ko": "신발 끈이... 앗, 관리자님이다! 차렷!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Where's the target at?! ...Oh, my bad, Endmin. Just a bit of pre-battle practice.",
+    "zh-TW": "打擊對象，在哪個方位？！——別緊張管理員，我就是預先演習一下。",
+    "zh-CN": "打击对象，在哪个方位？！——别紧张管理员，我就是预先演习一下。",
+    "ja": "どっちに攻撃しますか！？――安心してください、予行練習です！",
+    "ko": "타격 대상 확인, 방향은...?! 아, 긴장하지 마세요, 관리자님. 그냥 저 혼자 미리 연습해 본 거예요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Uncle Pan always says, no backing down once the war drums start beating.",
+    "zh-TW": "正如潘叔老是說的，聞鼓則進，斷不能怯！",
+    "zh-CN": "正如潘叔老说的，闻鼓则进，断不能怯！",
+    "ja": "ダパンおじさんが言ってる、「太鼓が鳴ったら前へ」ですね！",
+    "ko": "판 아저씨가 항상 말씀하셨어요. 북소리를 들으면 전진하라, 절대 두려워하지 마라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "It's not the weapon that makes the lancer. Even a simple waxwood staff can strike true!",
+    "zh-TW": "練家子挑長槍，切勿盲目追求材質。趁手的，白蠟桿也能耍出花頭！",
+    "zh-CN": "练家子挑长枪，切勿盲追材质。趁手的，白蜡杆也能耍出花头！",
+    "ja": "達人は槍の素材にこだわらないって……自分に合えば、練習用の棒だってかっこよく決められるはずです！",
+    "ko": "숙련된 무인은 장창의 재질에 집착하지 않아요. 자기한테 맞기만 한다면 평범한 나무창도 훌륭해지는 법이죠!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "All this tactical gear's for me? You serious, Endmin? Does this mean I'm officially recruited?!",
+    "zh-TW": "管理員，這些戰術裝備真的是給我的嗎？這是不是說明，我也正式加入隊伍了？！",
+    "zh-CN": "管理员，这些战术装备真的是给我的吗？这是不是说明，我也正式加入队伍了？！",
+    "ja": "これ、本当にいいんですか？ってことは、僕も正式にチームの一員ってことですよね？",
+    "ko": "관리자님! 이 전술 장비들... 진짜 저한테 주시는 거예요? 그럼, 저도 이제 정식 대원이라는 뜻이겠죠?!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "I came to Endfield to learn. But ... there's way too much to take in. Gotta work even harder!",
+    "zh-TW": "我來終末地就是為了學東西的！只是……這裡的東西多得有點學不完啊……要加把勁！",
+    "zh-CN": "我来终末地就是为了学东西的！只是……这里的东西多得有点儿学不完啊……要加把劲！",
+    "ja": "勉強のためにエンドフィールドに来ました。でも学ぶことが多くて、全部はちょっと……もっと、頑張ります！",
+    "ko": "제가 엔드필드에 온 건, 배움을 얻기 위해서예요! 근데... 여긴 배울 게 많아도 너무 많네요... 좀 더 열심히 해야겠어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "Uncle Pan always tells me to record my training. Well, he's got a point — I had no idea how off my moves were until I watched the playback!",
+    "zh-TW": "潘叔也老是叫我把練習的動作錄下來回去揣摩。說真的，不看不知道，原來到處都是破綻！",
+    "zh-CN": "潘叔也老叫我把练习的动作录下来回去揣摩。说真的，不看不知道，原来到处都是破绽！",
+    "ja": "ダパンおじさんが「稽古は録画して見返せ」って言ってたんです。それでちゃんと見てみたら、本当に隙だらけだったんです！",
+    "ko": "판 아저씨도 연습한 동작은 기록을 남겨서 복습하라고 자주 말씀하셨거든요. 진짜 안 보면 몰라요, 완전 허점투성이더라고요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "P-promotion? Phew... I thought I was in trouble for something I messed up!",
+    "zh-TW": "呼，原、原來是晉升啊！我還以為叫我過來，是因為我犯了什麼事……",
+    "zh-CN": "呼，原、原来是晋升啊！我还以为叫我过来，是因为我犯了什么事儿……",
+    "ja": "わっ、よかった……昇進だったんですね！急に呼ばれたので、何かやっちゃったかもって……",
+    "ko": "휴... 부르신 이유가 바로 이것 때문이었군요! 전 제가 뭘 잘못한 줄 알고..."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "It's always tough at first, but I've totally got the hang of it now. Endmin, you've seen my recent performance. Think I can win the Office Chair Racing this month?",
+    "zh-TW": "一回生二回熟，這次我完全知道了！管理員，我最近的表現是不是有望衝擊本月「辦公室座椅競速比賽」的頭名？！",
+    "zh-CN": "一回生二回熟，这回我完全知道了！管理员，我最近的表现是不是有望冲击本月“办公室座椅竞速比赛”的头名？！",
+    "ja": "「回を重ねれば上達する」……僕、今回はばっちりです！この調子なら今月の「オフィスチェア選手権」優勝も夢じゃないですよね？",
+    "ko": "처음에는 조금 서툴렀지만, 이제 완전히 익숙해졌어요! 관리자님, 요즘 제 활약이면 이번 달 '사무실 의자 경주 대회' 1등도 노려볼 수 있지 않을까요?!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Hey Endmin, just curious — how many ranks come after this one? I'm thinking of adding \"Monthly Goals\" section to my journal!",
+    "zh-TW": "管理員，能不能透露一下，往上還有幾級啊？……我只是要更新日記的內容，比如說——「本月目標」！",
+    "zh-CN": "管理员，能不能透露一下，往上还有多少级啊？……我只是要更新日记本的内容，比如说——“本月目标”！",
+    "ja": "管理人、あと何段階くらい……あっ、僕はただ日記に付け加えようって――「今月の目標」とか！",
+    "ko": "관리자님, 혹시 앞으로 몇 단계나 더 남았는지 알려주실 수 있을까요? 그냥, 일기장에다가 적어놓고 싶어서요... 예를 들면 '이번 달 목표', 이렇게요!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "\"Outstanding performance,\" \"strong adaptability and teamwork,\" ... I can recite those compliments in my sleep now. Anyway, Endmin, I'm ready to roll. I promise I'll work my hardest to become your most reliable comrade.",
+    "zh-TW": "「鑑於你近期優秀的表現」、「在行動中展現了良好的適應性和合作能力」……這些話我都能背下來了！管理員，我已經做好了充分的準備，我會成為你最信任的夥伴。",
+    "zh-CN": "“鉴于你近期优秀的表现”“在行动中展现了良好的适应性和合作能力”……这些话我都能背下来了！管理员，我已经做好了充分的准备，我会成为你最信任的伙伴。",
+    "ja": "「直近の優れた成績を鑑み」「任務で高い適応力と協調性を発揮し」……すっかり暗記しちゃいました！管理人、準備万端です。一番信頼できる仲間に必ずなります！",
+    "ko": "'최근 우수한 성과로', '작전 중 훌륭한 적응력과 협동 능력을 보여주었기에'... 이런 말들은 이제 외울 수 있을 정도예요! 관리자님이 가장 신뢰하실 수 있는 동료가 될 수 있도록 열심히 준비했어요!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Hey Endministrator, it's me, Lifeng! I'm still a bit green, but I'll work super hard! They say hardships shape and perfect us, but what does perfection really look like? Maybe someone like you has the answer. I'd really appreciate your insights.",
+    "zh-TW": "管理員，是我是我，我叫黎風！我還是個新手，您見笑了！我一直被教導，艱難困苦，玉汝於成！可是我還在琢磨，到底怎麼樣才能算是「成」呢……變得像您這樣嗎？那麼，能請您多指教嗎？",
+    "zh-CN": "管理员，是我是我，我叫黎风！我还是个新手，您见笑了！我一直被教导，艰难困苦，玉汝于成！可我还在琢磨，到底怎么样才能算是“成”呢……变得像您这样吗？那么，能请您多指教吗？",
+    "ja": "管理人。僕、リーフォンです！新米ですが、お世話になります。ずっと「逆境こそ一人前への道」だって教わってきましたが、一人前って何なんでしょうか……管理人みたいになるってことですか？なら、ぜひご指導、お願いします！",
+    "ko": "관리자님! 저예요 저, 여풍입니다! 아직 많이 부족해서 관리자님 앞에 서는 게 부끄럽긴 하지만, 그래도 '고난과 어려움 속에서 옥으로 성장한다'라는 말을 꼭 명심하고 있어요! 대체 어떤 게 진정한 '성장'인 건지는 아직 잘 모르겠지만요... 관리자님처럼 되는 걸 말하는 걸까요? 그렇다면 조언을 좀 부탁드려도 될까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Piece of cake!",
+    "zh-TW": "手到擒來！",
+    "zh-CN": "手到擒来！",
+    "ja": "こんなの楽勝です！",
+    "ko": "식은 죽 먹기죠!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Leave it to me!",
+    "zh-TW": "交給我吧！",
+    "zh-CN": "交给我吧！",
+    "ja": "僕に任せてください！",
+    "ko": "맡겨주세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Got it, Endmin! Actually, I was just wondering what took you so long to assign me a task!",
+    "zh-TW": "收到，管理員！我剛剛還在想你怎麼現在才來找我呢！",
+    "zh-CN": "收到，管理员！我刚刚还在琢磨你怎么这会儿才来找我呢！",
+    "ja": "はい、了解です！ちょうどさっき、まだかなって思ってたところだったんですよ！",
+    "ko": "알겠습니다, 관리자님! 사실 언제쯤 절 찾아주실지 생각하고 있었어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Hi Endmin! You look tied up, but it's good to see you.",
+    "zh-TW": "管理員，你好忙啊！好難得見你一面！",
+    "zh-CN": "管理员，你好忙啊！好难得见你一回！",
+    "ja": "管理人、やっぱり忙しいですよね。やっとお会いできました！",
+    "ko": "관리자님, 너무 바쁘신 거 아니에요? 얼굴 한번 뵙기 힘드네요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Got a sec, Endmin? I've picked up a new move. Wanna check it out?",
+    "zh-TW": "管理員有空嗎？我學了個新招，給你看看！",
+    "zh-CN": "管理员有空吗？我学了个新招，给你看看！",
+    "ja": "管理人、お時間ありますか？新しい技を覚えたので、見てほしいんです！",
+    "ko": "관리자님, 시간 괜찮으세요? 제가 새로운 기술을 하나 배웠는데, 한번 보실래요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Uh ... what should I say in a moment like this... Lifeng, official operator of Endfield Industries. It's an honor to meet you.",
+    "zh-TW": "咳……這種時候應該怎麼說話呢……管理員，終末地正式幹員黎風向您問好。",
+    "zh-CN": "咳……这种时候应该怎么说话呢……管理员，终末地正式干员黎风向您问好。",
+    "ja": "えっと……こういうときは……管理人、エンドフィールド正式オペレーター、リーフォン。よろしくお願い致します！",
+    "ko": "음... 이럴 때는 뭐라고 인사드려야 하지... 엔드필드 정식 오퍼레이터 여풍, 관리자님께 인사드립니다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "Oh, you saw me just now and wonder why I'm still here? Uh ... I'm totally not waiting for a mission. Hehe, not at all!",
+    "zh-TW": "啊，你剛才就看見我了？……我沒有在這裡等任務啊，沒有，嘿嘿……",
+    "zh-CN": "啊，你刚才就瞧见我了？……我没有在这里等任务啊，没有，嘿嘿……",
+    "ja": "えっ、さっきから見てたんですか？……に、任務を待ってたわけじゃ……本当ですよ！へへ……",
+    "ko": "어, 아까부터 보고 계셨던 거예요? 전 여기서 임무를 기다린다거나 하진 않았어요, 진짜요! 헤헤..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Endmin, do you know any other Anasa? My branch of the family has lived in the city for ages, but I've heard that other branches still live in the wilds. If you happen to come across them, please let me know so I can pay them a visit!",
+    "zh-TW": "管理員，你還認識別的阿納薩嗎？我們這一支好久以前就生活在城市裡了，但我聽說還有一些族人留在荒野裡……下次你看到和我不一樣的阿納薩，叫我去看看！",
+    "zh-CN": "管理员，你还认识别的阿纳萨吗？我们这一支好久以前就生活在城市里了，但我听说还有一些族人留在荒野里……下次你见到和我不一样的阿纳萨，叫我去看看！",
+    "ja": "管理人、アナサを他に知ってますか？僕たちはずっと町に住んでますが、荒野に残ってる仲間もいると聞いたことがあるんです……もし今度見かけたら教えて貰えませんか？会ってみたいんです！",
+    "ko": "관리자님, 혹시 다른 아나사분도 알고 계세요? 저희처럼 일부 아나사분들은 오래전부터 도시에서 살아오긴 했지만, 아직 황무지에 남아 계신 분들도 있다고 들었거든요... 다음에 저말고 다른 아나사분을 만나 뵙게 되면 꼭 저도 불러주세요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Actually ... I get carsick pretty easily. Even riding a five-wheeler at Wuling would make me queasy. But for some reason, I don't feel any motion at all on Dijiang.",
+    "zh-TW": "其實我……會暈車，連武陵那種動力五輪車我都吃不消。但是在帝江號上站著，還真的沒感覺到自己在動呢。",
+    "zh-CN": "其实我……会晕车，连武陵那种动力五轮车我都吃不消。但是在帝江号上站着，还真没感觉到自己在动呢。",
+    "ja": "僕、乗り物に弱くて……武陵の「動力五輪車」でも酔っちゃうんです。でも、帝江号は揺れる感じが全然しなくて、びっくりです。",
+    "ko": "사실 저... 멀미를 좀 해서, 무릉에 있는 동력 오륜차도 못 타거든요. 근데 제강호에서는 제가 움직이고 있다는 느낌이 진짜 하나도 안 나요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "I can actually see the Xiranite Dam through Dijiang's telescope! It looks so tiny from here, like I could pinch it between two fingers... Amazing how a change in perspective makes something huge seem small. Mmm, I need to ponder on this.",
+    "zh-TW": "用帝江號上的望遠鏡真的能看到息壤堰啊！就是很小，好像兩根手指頭就能夾起來……沒想到那麼大的東西，換個角度看就變得這麼渺小。嗯，我得去琢磨琢磨。",
+    "zh-CN": "用帝江号上的望远镜真的能看到息壤堰啊！就是很小，好像两根手指头就能夹起来……没想到那么大的东西，换个角度看就变得这么渺小。唔，我得去琢磨琢磨。",
+    "ja": "帝江号の望遠鏡、息壌堰が見えるんですね！指で掴めそうです……あんなに大きいものでも、見方を変えるとこんなに小さくなるなんて、うーん、奥が深いです。",
+    "ko": "제강호에서 망원경으로 보면 식양언이 보여요! 꼭 손가락 두 개로 집을 수 있을 것처럼 엄청 작네요. 시야를 바꾼 것만으로 그렇게 큰 존재가 이렇게 작아질 거라고는 생각지도 못했어요. 음, 한번 생각해 봐야겠어요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "Endmin, there's someone looking after the plants in the growth chambers, right? Ooh... It's amazing to think they can thrive here, a place so far above the ground. But hey, I didn't think I'd be here either.",
+    "zh-TW": "管理員，培養艙裡的植物，一直都是有人專門照顧的吧？……有意思，它們竟然能在離地面這麼遠的地方生長。不過，我也沒想到我會在這就是了。",
+    "zh-CN": "管理员，培养舱里的植物，一直都是有人专门照顾的吧？……有意思，它们竟然能在离地面这么远的地方生长。不过，我也没想到我会在这儿就是了。",
+    "ja": "管理人、培養室の植物って誰かがお世話してるんですよね？……こんなに地面から離れても育つなんて、すっごく面白いです！でも、僕がここにいることだって、不思議ですよね。",
+    "ko": "관리자님, 재배실에 있는 식물 말이에요. 계속 누가 돌봐주고 있는 거죠? 땅에서 이렇게 멀리 떨어진 장소에서도 자랄 수 있다니, 흥미롭네요... 그리고 저도, 제가 여기에 있게 될 줄은 몰랐어요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Endmin, remember I promised you a gift when I lost that game to you? Well, here it is!",
+    "zh-TW": "管理員，上次打遊戲輸給你的時候說好要送你的小禮物，嘿嘿，你快拿著！",
+    "zh-CN": "管理员，上次打游戏输给你的时候说好给你送的小礼物，嘿嘿，你快拿着！",
+    "ja": "管理人、この前ゲームで負けたとき、プレゼントを渡すって約束しましたよね？えへへ、どうぞ！",
+    "ko": "관리자님, 지난번 게임에서 제가 졌을 때 드리기로 했던 선물이에요. 헤헤, 여기요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Is everyone getting this?... No? It's just for me? Thank you so much, Endmin!",
+    "zh-TW": "這是大家都有的獎勵？……專門給我的嗎？！謝謝您，管理員！",
+    "zh-CN": "这是大家都有的奖励？……专门给我的吗？！谢谢您，管理员！",
+    "ja": "全員に報酬ですか？……えっ、僕にだけ！？嬉しいです、ありがとうございます！",
+    "ko": "이건 모두한테 주는 보상인가요...? 저한테만 주시는 거라고요?! 감사합니다, 관리자님!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Were you speaking to me, Endministrator? My apologies, I've ... never really followed the standard reporting procedure before. Oh, you just want to talk? Then feel free to ask anything. I'll gladly give you all the details.",
+    "zh-TW": "管理員，您剛剛是在跟我說話嗎？我……還沒有走過彙報工作的流程。噢，只是聊聊天啊，好的，您想知道什麼，我全都告訴您！",
+    "zh-CN": "管理员，您刚刚是在跟我说话吗？我……还没有走过汇报工作的流程。噢，只是聊聊天啊，好的，您想知道什么，我全都告诉您！",
+    "ja": "管理人、今僕に話しかけましたか？実は、報告のやり方とかまだ覚えてなくて……あっ、お話だけですか！それなら、なんでも答えられます！",
+    "ko": "관리자님, 방금 절 부르신 건가요? 저... 아직 업무 보고 절차가 익숙하지 않아서요. 그냥 가벼운 이야기를 나누는 거라고요? 아, 그렇구나! 궁금한 게 있으시면 뭐든 물어봐 주세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Endmin, I've been training in martial arts with Uncle Pan since I was a kid. Once, when our family compound caught fire, I threw two kids over my right shoulder, one more over my left, and rushed them to safety! By the way, did you see the test data from last week? The Medical Division says my toothpick arms aren't an issue, and my punches hit just as hard as anyone's. So if you need someone to take down enemies, I'm your guy!",
+    "zh-TW": "管理員，我從小就跟著潘叔習武，有一次大院失火了，我右肩扛起兩個小孩，左肩上還架著一個，就這樣往外衝！您看到上週的測試數據了嗎？醫療部的老師說我就是胳膊細了點，出拳的力道不輸別人！有敵人要打，千萬記得要叫我！",
+    "zh-CN": "管理员，我从小就跟着潘叔习武，有一次大院着火了，我右肩扛起两个小孩，左肩上还架着一个，这么就往外冲！您看到上周的测试数据了吗？医疗部的老师说我就是胳膊腿儿细了点，出拳的力道不输别人！有敌人要打，千万记得叫上我！",
+    "ja": "僕、小さい頃からダパンおじさんに武術を教わってました。前、近所で火事があったとき、右肩に2人、左肩に1人背負って外に飛び出したこともあるんですよ。先週のテスト結果も見てもらえましたか？医療部の先生が、華奢なだけでパンチ力は皆さんに負けてないって！敵が来たら、僕にも声かけてくださいね！",
+    "ko": "전 어릴 때부터 판 아저씨 밑에서 무술을 배웠어요. 한 번은 마을에 큰불이 났었는데, 제가 오른쪽 어깨에 아이 둘, 왼쪽 어깨에 아이 하나를 얹고 뛰쳐나왔거든요! 지난주 테스트 결과 보셨죠? 의료 부서에 계신 선생님이 그러셨는데, 제가 팔다리는 좀 가늘어도 주먹 힘은 남한테 밀리지 않는대요! 그러니 다음에 작전에 나가실 때는 꼭 저를 불러주세요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "When I applied to join Endfield, I brought a few letters of recommendation. I trust you've read them all, haven't you? I begged Captain Mi, Tianshi Zhuang, and Uncle Pan so much — they preferred I stay closer to home. But I'm determined to learn through experience, which is why I have to make the most of this opportunity. Endmin, please give me something major! ...Oh, engine room cleaning? Got it, I'll make every gear shine!",
+    "zh-TW": "管理員，我申請來終末地時，您讀過弭長官、莊天師、潘叔幫我寫的證明信了吧？我當時求了好久，他們不太願意讓我出這麼遠的門。但是我心意已決，一定要出來歷練一番。所以，不能浪費這個寶貴的機會，您就對我委以重任吧！……好，我這就去打掃動力艙！",
+    "zh-CN": "管理员，我申请来终末地时，您读过弭长官、庄天师、潘叔给我写的证明信了吧？我当时求了好久，他们不太愿意让我出这么远的门。但是我心意已决，一定要出来历练一番。所以，不能浪费这个宝贵的机会，您就对我委以重任吧！……好，我这就去打扫动力舱！",
+    "ja": "エンドフィールドに志願したときのミフ長官、ゾアン天師、ダパンおじさんが書いてくれた推薦状、読んでくれましたか？実は、何度も頼んでようやく書いてもらったんです。みんな、そんな遠くに行くのは心配だって……でも、外の世界でどうしても修行したくって。この機会を無駄にはできません！責任ある任務をぜひお願いします！……はい！動力室の掃除ですね。今すぐ行ってきます！",
+    "ko": "관리자님, 제가 엔드필드에 지원했을 때 미브 대장님이랑 장 천사님, 그리고 판 아저씨가 써주신 추천서 다 읽어보셨어요? 그거 제가 한참을 설득해서 받은 거거든요. 세 분 모두 제가 이렇게 먼 길을 떠나는 걸 걱정하셔서요! 근데 전 마음속으로 이미 결정을 내렸었어요. 꼭 바깥세상을 경험해 보겠다고요. 이 소중한 기회를 헛되게 하면 안 되니까, 저한테도 중요한 임무를 맡겨주세요! ...네, 지금 바로 동력실 청소하러 갈게요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "An invite straight from the Endmin?! Ahem, in that case, I'll do everything I can to help the operations team. I've already put together five contingency plans after hearing your briefing last night. So, where do I sign? Wait, no signature needed? ALRIGHTY! Here I come!",
+    "zh-TW": "管理員親自來邀請我？！咳，我將盡全力為行動小組分憂解難。我對戰術布置已經有了些想法，這是我昨晚聽你們提到後做出的五種方案。去哪裡簽字？……一般這種情況不需要簽字嗎？好的，就來。",
+    "zh-CN": "管理员亲自来邀请我？！咳，我将尽全力为行动小组分忧解难。我对战术布置已经有了些想法，这是我昨晚听你们提到后做出的五种预案。去哪里签字？……一般这种情况不需要签字吗？好的，就来。",
+    "ja": "管理人直々のお誘いですか？……ごほんっ、お役に立てるよう、全力で頑張ります！戦術配置の新しいアイディアがあって……昨日の話を聞いて、5つ考えてみました。えっと、サインは……って、サインなんてしないのが普通ですよね？では、今すぐ向かいます！",
+    "ko": "관리자님이 직접 절 초대해 주신 거예요?! 저 진짜 작전팀에 도움이 될 수 있도록 최선을 다할 거예요! 안 그래도 전술 배치에 대해서 몇 가지 생각해 놓은 게 있거든요. 이건 어젯밤에 이야기를 듣고 작전 계획을 다섯 가지 정도 정리해 놓은 건데... 어디에 서명하면 되는 거죠? 아... 보통 이런 거에는 서명할 필요가 없다고요? 이해했어요, 바로 가시죠!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "From here on, I'll be your right hand man... Hmph, you probably think I'm joking, don't you? Haha, it's okay. I might not look the part now, but I'll grow into it. One day, I'll be capable enough to take on the toughest missions. So look forward to it, okay, Endmin?",
+    "zh-TW": "接下來的旅程，我會成為您的左膀右臂！……噗嗤，看您的表情，是不是覺得我在開自己的玩笑？哈哈，沒關係的，我一定是一隻能堪大任的「手臂」，有朝一日，我會扛起一切的。管理員，等我。",
+    "zh-CN": "接下来的旅程，我会成为您的左膀右臂！……扑哧，看您的表情，是不是觉得我在开自己的玩笑？哈哈，没关系的，我一定是一只能堪大任的“手臂”，有朝一日，我会扛起一切的。管理员，等我。",
+    "ja": "これからは、管理人の右腕を目指します！……って、その顔！冗談だって思ってますね？えへへ、いいんです。絶対、大役をこなせる「片腕」になって、すべて背負ってみせますから。見ていてくださいね。",
+    "ko": "앞으로의 여정에서 제가 관리자님의 든든한 오른팔이 되겠어요! 푸훗... 관리자님의 표정을 보니, 또 제가 자기 비하를 하면서 농담한다고 생각하셨죠? 하하, 괜찮아요. 언젠가는 모든 걸 짊어질 수 있는 진짜 믿음직한 '팔'이 될 거거든요. 관리자님, 꼭 지켜봐 주세요!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0015_lifeng_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "Wanna arm wrestle with me? I can do this all day long!",
+    "zh-TW": "要不要跟我比腕力？我可以玩這個玩一整天！",
+    "zh-CN": "要不要跟我掰手腕？我可以玩这个玩一整天！",
+    "ja": "僕と腕相撲しませんか？1日中だってできますよ！",
+    "ko": "관리자님, 저랑 팔씨름 한 판 하실래요? 전 하루 종일도 할 수 있어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Endmin, I know a little trick for sending flowers. When you send a bouquet, keep one flower. When it wilts, you know it's time to send a new bunch. *Giggle* I actually thought of it myself. It's how I make sure my parents' tombs always have fresh flowers.",
+    "zh-TW": "管理員，送花給人這件事有一個訣竅，我教你。從一捧花裡抽出來一朵，留在自己手裡，這樣等自己手裡那朵花凋謝了，就知道送給對方的花也該換新的了。嘿嘿，這其實也是我自己領悟出來的辦法，不然爸爸媽媽墓前的花謝了，我總是沒辦法及時換新的。",
+    "zh-CN": "管理员，给人送花这件事有一个诀窍，我教你。从一捧花里抽出来一朵，留在自己手里，这样等自己手里那朵花凋谢了，就知道送给对方的花也该换新的了。嘿嘿，这其实也是我自己悟出来的办法，不然爸爸妈妈墓前的花谢了，我总是没法及时换新的。",
+    "ja": "管理人、花を贈るときのコツを教えてあげます。花束から1輪だけ残しておくんです。そうすれば、花が枯れたときに相手の花も替え時だってわかるんです。へへ、これ、自分で考えました。両親のお墓に供えた花が枯れても、なかなか気づけなかったので。",
+    "ko": "관리자님, 꽃을 선물할 때 요령 하나 알려드릴까요? 꽃다발에서 한 송이를 빼서 자기가 갖고 있는 거예요. 그럼, 그 꽃이 시들었을 때, 상대방한테 준 꽃도 바꿔줄 때가 됐다는 걸 알 수 있거든요! 헤헤, 이건 사실 제가 스스로 알아낸 방법이에요. 아니면 엄마 아빠 묘비 앞에 놓아둔 꽃이 시들었을 때, 제때 바꿔줄 수가 없거든요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Everyone at Endfield seems a little shy. Like, when I was practicing Hongshan boxing in the morning, I saw some curious operators watching from a distance. They tried to mimic my moves, copying how I relax my shoulders and channel my force. But the moment I turned around, they'd scattered. The group has gotten even bigger lately. I still haven't asked any of their names...",
+    "zh-TW": "終末地的大家，好像都有點害羞。比如說，我發現有幾位幹員很好奇我每天早上在房門口打的那套宏山拳法，他們會偷偷跟在我後面，學我沉肩運勁……但我一回頭他們就跑掉了。後來，隊伍越來越長，我至今都沒問過他們的名字……",
+    "zh-CN": "终末地的大家伙儿，好像都有点害羞。比如说，我发现有几位干员很好奇我每天早上在房门口打的那套宏山拳法，他们会偷偷跟在我后面，学我沉肩运劲……但我一回头他们就跑掉了。后来，队伍越来越长，我至今都没问过他们的名字……",
+    "ja": "エンドフィールドはシャイな人が多い気がします。毎朝、部屋の前で宏山拳を練習してますが、皆さん後ろでこっそり真似してるんです。肩を落として、力を溜めて……でも、振り返ると逃げちゃうんですよね。だんだん人が増えてますが、誰の名前もわからなくて……",
+    "ko": "엔드필드에 있는 분들은 다들 수줍음이 많으신 것 같아요. 제가 매일 아침 문 앞에서 홍산 권법을 연습하잖아요? 나중에 알았는데, 몇몇 분들이 뒤에서 절 따라 하고 계시더라고요. 근데 제가 고개를 돌리면 바로 도망가 버리세요. 요즘은 얼마나 모여 계신 건지 끝도 안 보여요... 아직 그분들의 성함도 못 여쭤봤는데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "I was just a little boy when I lost this arm, and at the time, the pain didn't quite register with me... It was spring when I entered the hospital, and spring again when I left. *Sigh* And I realized ... that some things, once lost, never return.",
+    "zh-TW": "這隻手沒了的時候我還很小，那時候也不知道痛不痛的事，就記得……進醫院的那一刻是春天，走出來的時候，又是春天了，但是……好像有些東西再也長不出來了。",
+    "zh-CN": "这只手没了的时候我还很小，那时候也不知道痛不痛的事儿，就记得……进医院的那一刻是春天，走出来的时候，又是春天了，但是……好像有些东西再也长不出来了。",
+    "ja": "片手をなくしたとき、僕はまだ小さくて、痛いかどうかもわかりませんでした。覚えてるのは……入院も退院も、春だったってことだけです。でも、二度と芽吹かないものもあるような気がしてしまうんです……",
+    "ko": "이 팔을 잃어버린 건, 아주 어렸을 때였어요. 그땐 아프다거나 괴롭다는 감정을 알지도 못했죠. 딱 하나 기억나는 건... 병원에 들어갈 때가 봄이었는데, 나올 때도 봄이었다는 것 정도? 근데... 한번 잃어버리니 다시는 돌아오지 않는 것도 있더라고요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "I've come a long way from home, Endmin. I really wonder how everyone's doing back there. I still remember the little things: Granny Bai heading out for her back massage, Captain Liu changing his leg dressing when it rained, Auntie Li buying soy sauce for her braised pork on Wednesdays, Xiao Ran always forgetting her gloves during sampling, and Ah Zai borrowing money from me at the start of every month for his little business... I'll make sure to check in on them the next chance I get!",
+    "zh-TW": "管理員，我這次出來這麼遠，不知道老家那群朋友們怎麼樣了。街坊鄰里的大小事我都記得很清楚，像是白奶奶什麼時候要去按摩腰，劉巡衛的腿下雨天要換藥，李阿姨要煮紅燒肉，每週三都得買醬油，小然去採樣總是忘記帶手套，阿仔做小本生意，月初總是要找我借點「本金」……下次聯絡他們的時候，我要把每個人都問候一圈！",
+    "zh-CN": "管理员，我这回出来这么远，不知道老家那群朋友们怎么样了。街坊邻里的大小事我都记得很清楚：白奶奶什么时候要去按摩腰；刘巡卫的腿下雨天要换药；李阿姨要做红烧肉，每周三都得买酱油；小然去采样总是忘记带手套；阿仔做小本生意，月初总是要找我借点儿“本金”……下次联系他们的时候，我得把每个人都问候一圈！",
+    "ja": "故郷を離れて、みんながどうしてるかって気になって……僕、よく覚えてるんです。バイばあちゃんの腰のマッサージはいつとか、リュウ巡衛員は雨の日に足の薬を変えるとか、リーおばさんが宏山角煮用に毎週水曜お醤油を買うとか。あと、ランちゃんは採集の手袋を絶対忘れるし、月初めに僕に「元手貸して」って毎回言ってくる子もいて。今度連絡するとき、みんなの近況も聞こうと思います！",
+    "ko": "이렇게 멀리 나온 건 처음이다 보니까, 가끔 고향 사람들이 어떻게 지내는지 궁금할 때가 있어요. 동네 이웃들에 대해서는 아직도 다 기억하거든요. 백 할머니는 정기적으로 허리 안마를 받으러 가셔야 하고, 유 순찰대원님은 비 오는 날이면 무릎에 약을 새로 바르셔야 해요. 이 씨 아주머니는 매주 수요일에 홍소육을 만드는 데 쓰실 간장을 사러 가시고, 연이는 채집할 때 장갑을 끼는 걸 자주 잊어버려요. 자이는 장사 밑천이 부족하다고 월초만 되면 저한테 '돈'을 빌리고요... 다음에 연락하게 되면 제대로 모두한테 안부를 전해야겠어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_about_line01",
+   "title": {
+    "en": "Topic: Da Pan",
+    "zh-TW": "話題：大潘",
+    "zh-CN": "话题：大潘",
+    "ja": "ダパンについて",
+    "ko": "판에 관하여"
+   },
+   "text": {
+    "en": "When Tianshi Zhuang's too swamped, Uncle Pan helps me with my prosthetic. He's actually a whiz with machines! He knows everything from engineering to fine-tuning gear. I've always wondered why he chose to retire. Psst, Endmin! Wanna hear a little secret? I've seen photos of him back in the day — rocking a five-wheeler, leather jacket, shades, and a wild afro! I heard he was unstoppable at HAS. Folks said he could chop his way from the Band to the frontier with a Yanese cleaver. Shocking, right?",
+    "zh-TW": "我這隻義肢，在莊天師沒空的時候，都是潘叔幫我保養的。他在機械啊，工程啊那些事情上，可是一把好手！只是不知道他為什麼要解甲歸田……管理員，偷偷告訴你，我看過老照片，潘叔早年很風光的——踩著五輪車！機車服、大墨鏡、爆炸頭！據說在宏山科學院的時候，他操著一把菜刀就能從環帶砍到開拓區……想不到吧？",
+    "zh-CN": "我这只义肢，在庄天师没空的时候，都是潘叔帮我养护的。他在机械啊，工程啊那些事情上，可是一把好手！只是不知道他为什么要解甲归田……管理员，偷偷告诉你，我看过老照片，潘叔早年风光得很——蹬着五轮车！机车服、大墨镜、爆炸头！据说在宏山科学院的时候，他操着一把菜刀就能从环带砍到开拓区……想不到吧？",
+    "ja": "この義手、ゾアン天師が忙しいときはダパンおじさんが調整してくれるんです。機械とか工学とか、本当に凄腕なんですよ！だから、なんで引退したんだろうって……内緒ですけど、ダパンおじさんの昔の写真、すっごくかっこよくて！五輪車にまたがって、ライダースにサングラス、頭はアフロ！宏山科学院にいた頃は包丁一本で文明地帯から開拓エリアまで暴れてたって……ちょっと、信じられないですよね？",
+    "ko": "제 의수 말이에요, 장 천사님이 바쁘실 땐 항상 판 아저씨가 손봐주셨어요. 기계나 공학 쪽에서는 아저씨를 따라갈 사람이 없거든요! 그런 분이 왜 갑자기 은퇴하셨는지는 아직도 모르겠지만요... 관리자님, 제가 뭐 하나 알려드릴까요? 전에 판 아저씨의 옛날 사진을 본 적이 있는데, 완전 멋쟁이셨던 거 있죠! 오륜차를 타고 오토바이 슈트에 커다란 선글라스를 끼셨는데, 심지어 폭탄 머리까지 하셨어요! 홍산 과학원 시절에는 식칼 하나로 밴드에서 개척 지역까지 정복했다는 전설도 있던데... 믿어지세요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_about_line02",
+   "title": {
+    "en": "Topic: Zhuang Fangyi",
+    "zh-TW": "話題：莊方宜",
+    "zh-CN": "话题：庄方宜",
+    "ja": "ゾアン・ファンイについて",
+    "ko": "장방이에 관하여"
+   },
+   "text": {
+    "en": "When I was a kid, I used to do my homework in Tianshi Zhuang's lab. She'd fine-tune my prosthetic when she had a moment — then quickly fall asleep mid-fix. Most of the time, I was the one tidying her place. She was way too busy for chores. But hey, that's fair — the future of all Wuling's riding on her shoulders.",
+    "zh-TW": "我小時候經常去莊天師的實驗室寫作業。她有空的時候，就幫我調整手臂的參數，只是每次調著調著就睡著了……她的屋子其實都是我幫忙收拾的。她真的太忙了，沒時間做這些瑣事……她把整個武陵都扛在肩上呢。",
+    "zh-CN": "我小时候经常去庄天师的实验室写作业。她有空的时候，就帮我调整手臂的参数，只是每次调着调着就睡着了……她的屋子其实都是我帮着收拾的。她真的太忙了，没时间做这些琐事……她把整个武陵都扛在肩上呢。",
+    "ja": "小さい頃、よくゾアン天師の研究所で宿題をしてました。時間があれば義手の調整もしてくれるんですけど、いつも途中で寝ちゃって……あの部屋、実は僕が片付けをしていたんですよ。天師は本当に忙しいんです……だって、武陵の未来を背負ってる人ですから。",
+    "ko": "어릴 때 자주 장 천사님 실험실에서 숙제를 하곤 했어요. 시간이 나시면 천사님이 제 의수를 조정해 주셨는데, 중간에 꼭 곯아떨어지셨죠... 사실 실험실 정리도 거의 다 제가 한 거예요. 너무 바쁘시다 보니까, 다른 자잘한 일에 신경 쓸 시간이 없으셨거든요... 무릉 전체를 어깨에 짊어지고 계신 분이니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_about_line03",
+   "title": {
+    "en": "Topic: Mi Fu",
+    "zh-TW": "話題：弭弗",
+    "zh-CN": "话题：弭弗",
+    "ja": "ミ・フについて",
+    "ko": "미브에 관하여"
+   },
+   "text": {
+    "en": "Captain Mi doesn't like us saying it, but she's actually a really nice person. Every time she saw me, she'd slip me a few coins and ask me to grab a skewer of Tangyoubaba from Auntie Tian's stall. It's a sweet treat made of sugar-glazed rice balls. When I brought it back, she'd slide them off the skewer and let me enjoy all the sticky goodness for myself. She'd just nibble on the bamboo stick with a contented smile.",
+    "zh-TW": "雖然弭長官不讓我們這樣說，但是她其實很善良。她見到我，總是丟給我幾塊錢，讓我去田老姨的攤上幫她買一串糖油粑粑。她會把粑粑全部弄下來給我吃——光是叼著那根小竹籤，她就一副很滿足的樣子。",
+    "zh-CN": "虽然弭长官不让我们这么说，但是她其实很善良。她见到我，总是丢给我几块钱，让我去田老姨的摊上替她买一串糖油粑粑。她会把粑粑全部捋下来给我吃——光是叼着那根小竹签，她就一副很满足的样子。",
+    "ja": "本人は否定しますけど、ミフ長官って本当は優しいんです。会うといつもテンおばさんとこでもち米団子を買ってこいってお金を渡してくるんですけど……買って帰ると、全部僕に食べさせてくれます――竹串だけ取って、咥えて。すっごく満足そうな顔をしてるんですよね。",
+    "ko": "미브 대장님은 본인에 대해서 이렇게 말하는 걸 싫어하시지만... 사실 엄청 다정한 분이세요. 절 볼 때마다 꼭 용돈을 건네주시면서, 전 씨 아주머니 가게에 가서 탕유빠바를 사 오라고 시키셨거든요. 근데 막상 가져다드리면 먹을 걸 전부 다 저한테 주셨어요. 본인은 대나무 꼬치만 입에 물고 엄청나게 만족한 얼굴을 하셨고요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_about_line04",
+   "title": {
+    "en": "Topic: Aggelos",
+    "zh-TW": "話題：天使",
+    "zh-CN": "话题：天使",
+    "ja": "アンゲロスについて",
+    "ko": "아겔로스에 관하여"
+   },
+   "text": {
+    "en": "We Wuling kids grew up fighting these buggerloids just to survive. Back when the Tianshi Pillars were still going up, even getting near unknown water was a risk. The adults used to scare us — \"Touch the Aggeloi, and they'll crawl out of your drain or between your floor tiles.\" Sounded like a ghost story, but that was life. Honestly, I didn't even know there were other kinds of Aggeloi till I joined Endfield.",
+    "zh-TW": "我們武陵人要活下去，從小就得跟這東西鬥智鬥勇。以前在天師樁陣列還沒完工的時候，我們都不敢靠近未知的水源。大人們嚇我們說，沾上天使，牠們就會從家裡的管道、地磚縫裡爬出來……哎，我們都習慣了。不過，我也是來了終末地，才知道原來世界上還有其他模樣的天使……",
+    "zh-CN": "我们武陵人要活下去，从小就得跟这东西斗智斗勇。以前在天师桩阵列没完工的时候，我们都不敢靠近未知的水源。大人们吓唬我们说，沾上天使，它们就会从家里的管道、地砖缝里爬出来……嗐，我们都习惯了。不过，我也是来了终末地，才知道原来世界上还有其他模样的天使……",
+    "ja": "武陵の人間は、生きるために小さい頃から「奴ら」と知恵比べをしないといけなくて。天師杭の設置前は、よくわからない水源には近づけなかったですし、「アンゲロスと関わったら家の隙間から出てくるぞ」って大人が脅してきて……慣れちゃいましたけど。実際、いろんな形のアンゲロスが本当にいることは、エンドフィールドに来てから初めて知りました……",
+    "ko": "무릉 사람들은 살아남기 위해서 어릴 때부터 아겔로스를 상대하는 법을 배워야 했어요. 천사장 배열이 완성되기 전에는 가본 적 없는 물가에는 감히 가지도 못했고요. 어른들이 아겔로스한테 잘못 엮이면 집 안 배수관이나, 바닥 틈 사이에서 기어 나올 거라고 겁을 주셨어요... 그래서 어느 정도 익숙해졌다고 생각했는데, 엔드필드에 와서야 다른 모습의 아겔로스가 있다는 걸 처음 알았죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_about_line05",
+   "title": {
+    "en": "Topic: Anasa",
+    "zh-TW": "話題：阿納薩",
+    "zh-CN": "话题：阿纳萨",
+    "ja": "アナサについて",
+    "ko": "아나사에 관하여"
+   },
+   "text": {
+    "en": "Mom and Dad used to say our ancestors weren't city folks. Before they crossed the Cosmic Gate to Talos-II, they roamed the dry plains outside the Nomadic City of Yan — sky for a blanket, earth for a bed, living with the land's rise and fall. I didn't get it then, but I do now. Mom and Dad weren't just telling me a story — they were preparing me. Even when their Astitva left this world, they'd return in another form. That's why… I stopped missing them a long time ago.",
+    "zh-TW": "爸爸媽媽說，我們的祖上在跨越星門前，不是像在塔衛二這樣生活在城市裡的。他們在炎國移動城市邊緣的荒漠和草原遊蕩，以天為被，以地為席，與世界一道生與滅。現在想來，他們反覆對我提起這些傳說，是為了告訴我，哪怕有一天他們的「實在」離開了，也會以另一種樣子，回到我的身邊。所以，我早就……不想念他們了。",
+    "zh-CN": "爸爸妈妈说，我们的祖上在跨越星门前，不是像在塔卫二这样生活在城市里的。他们在炎国移动城市边缘的荒漠和草原游荡，以天为被，以地为席，与世界一道生与灭。现在想来，他们反复对我提起这些传说，是为了告诉我，哪怕有一天他们的“实在”离开了，也会以另一种样子，回到我的身边。所以，我早就……不想念他们了。",
+    "ja": "両親が言っていました。星門を越える前、祖先はタロⅡみたいな都市で暮らしてたわけじゃなくて、炎国の移動都市の外を放浪してたって。空を布団、大地を寝床に、世界と生死を共にして――今思えばそんな伝説を何回も話してくれたのは、2人の「実在」がなくなっても別の形で僕のそばに戻るって伝えたかったのかもしれません。だから……寂しくなんてないんです。",
+    "ko": "아빠랑 엄마가 말씀해 주셨는데, 우리 조상님들이 스타게이트를 넘기 전엔 탈로스 II에서처럼 사는 게 아닌, 염국 이동 도시의 변두리에 있는 사막이나 초원에서 떠돌며 살았대요. 하늘을 이불 삼고, 땅을 침대 삼아서... 이 세계랑 생사를 함께하는 삶이었던 거죠. 지금 생각해 보면, 부모님이 저한테 그 이야기를 자주 해주신 이유가... 언젠가 두 분의 '실재'가 떠나게 되더라도, 또 다른 모습으로 제 곁에 다시 돌아올 거라는 걸 말해주고 싶으셨던 거 같아요. 그래서 전 더 이상... 부모님이 그립지 않아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_about_line06",
+   "title": {
+    "en": "Topic: Wuling Scientific Developmental District",
+    "zh-TW": "話題：武陵科學發展區",
+    "zh-CN": "话题：武陵科学发展区",
+    "ja": "武陵科学発展区について",
+    "ko": "무릉 과학 발전 구역에 관하여"
+   },
+   "text": {
+    "en": "The Wuling you see today hasn't been around for long — it's about the same age as my prosthetic arm! Pretty incredible, right? In such a short time, it's grown into one of the finest places on Talos-II. Still, no matter how much it's changed, I know where every brick belongs in the city. If I close my eyes now, I can still smell the damp air of those rain-soaked streets on a drizzly day.",
+    "zh-TW": "你們現在看到的武陵，歷史也不算長呢——就和我這隻手差不多歲數！在這麼短的時間裡，它就變成了塔衛二上數一數二好的地方，是不是特別神奇？但是，就算它變得再快，我都能記住每一塊磚的位置。我現在閉上眼睛，都能回想起下雨的陰天，街上那股濕漉漉的味道。",
+    "zh-CN": "你们现在看到的武陵，历史也不算长呢——就和我这只手差不多岁数！在这么短的时间里，它就变成了塔卫二上数一数二好的地方，是不是特别神奇？但是，就算它变得再快，我都能记住每一块砖的位置。我现在闭上眼睛，都能回想起下雨的阴天，街上那股湿漉漉的味道。",
+    "ja": "武陵って、実はそんなに歴史が長くなくて――この義手と同じくらいなんです！こんな短い間で、タロⅡでも一二を争う場所になったなんて、すごいですよね。でも、どれだけ変わったとしても僕は石畳の位置だって忘れたりしません。目を閉じれば、雨の日のどんよりした空、街を包むしっとりした匂いまで思い出せますから。",
+    "ko": "지금 여러분이 알고 계신 무릉은 사실 그렇게 오래된 곳이 아니에요. 제 팔이랑 나이가 비슷하죠! 이렇게 짧은 시간에 탈로스 II에서도 손꼽히는 좋은 곳이 되었다니, 신기하지 않나요? 하지만 아무리 빨리 변해도, 전 그 벽돌 하나하나의 위치까지 다 기억할 수 있어요. 지금도 눈을 감으면, 비 내리는 날 거리의 축축한 냄새가 생생히 떠오른다니까요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_about_line07",
+   "title": {
+    "en": "Topic: Hongshan",
+    "zh-TW": "話題：宏山",
+    "zh-CN": "话题：宏山",
+    "ja": "宏山について",
+    "ko": "홍산에 관하여"
+   },
+   "text": {
+    "en": "Funny thing — I've never actually been to HAS HQ. That's where Mom, Dad, Tianshi Zhuang, and Uncle Pan all worked. I just never had a reason to go. I mean ... I don't know anyone there, and from what I've heard, it's full of sharp minds and short tempers. I guess I've always worried they wouldn't take me seriously...",
+    "zh-TW": "說到這個，我還沒去過宏科院本部呢！爸爸媽媽當年是從那邊過來的，和莊天師、潘叔他們一起。我……也沒太想過去宏山這件事，那邊沒有一個我認識的人……聽說那裡全是聰明腦袋打架，我有點擔心他們看不上我……",
+    "zh-CN": "说到这个，我还没去过宏科院本部呢！爸爸妈妈当年是从那边过来的，和庄天师、潘叔他们一块儿。我……也没太想过去宏山这事儿，那边没有一个我认识的人……听说那里全是聪明脑袋打架，我有点担心他们看不上我……",
+    "ja": "そういえば、宏山科学院の本部にはまだ行ったことがないんです。ゾアン天師、ダパンおじさんと一緒に両親もいた場所なんですが、僕は……宏山にあまり思い入れはないですから。知り合いもいないし、聞いた話だと頭のいい人が争ってる場所らしくて、うまく馴染めないんじゃないかって。",
+    "ko": "그러고 보니, 아직 홍산 과학원 본부에 가 본 적이 없네요! 아빠랑 엄마가 거기 출신이셔서 장 천사님이랑 판 아저씨랑도 친하셨고요. 근데 전... 딱히 홍산에 가고 싶다는 생각을 해본 적은 없어요. 거긴 아는 사람도 없고... 똑똑한 분들만 계시잖아요, 제가 낄 수 있는 곳이 아닌 것 같아서요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Watch your step, there could be goodies around!",
+    "zh-TW": "走路留意腳邊的好東西！",
+    "zh-CN": "走路留心脚边的好东西！",
+    "ja": "足元に何か落ちてないか、見ておかないと。",
+    "ko": "발밑도 잘 살피셔야 해요! 좋은 게 떨어져 있을지도 몰라요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Rare stuff spotted. Shall we check it out?",
+    "zh-TW": "那東西好罕見！我們去那邊看看？",
+    "zh-CN": "那东西好稀罕！我们上那边看看去？",
+    "ja": "あっちに行きましょう！珍しいものがあります！",
+    "ko": "저기 희귀한 물건이 있어요! 저쪽으로 가보시는 건 어때요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "You sure you know this path? I don't think we've been down it before.",
+    "zh-TW": "這條路你認識嗎？我們好像還沒走過。",
+    "zh-CN": "这条路你认识吗？我们好像还没走过。",
+    "ja": "見覚えありますか？まだ行ったことない気がします。",
+    "ko": "어? 여기 처음 보는 곳 같아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Enemy sighted! Let me handle this!",
+    "zh-TW": "敵人！讓我來！讓我去！",
+    "zh-CN": "敌人！让我来，让我去！",
+    "ja": "敵だ！僕がやります！",
+    "ko": "적이에요! 제가 갈게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "I've seen these in textbooks! Are they valuable?",
+    "zh-TW": "課本上講過這些東西！是不是很值錢啊？",
+    "zh-CN": "课本上讲过这些东西！是不是很值钱啊？",
+    "ja": "教科書で見ました。価値があるはずです！",
+    "ko": "교과서에서 본 적 있어요! 이거 꽤 귀한 거 아니에요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "No trouble at all!",
+    "zh-TW": "舉手之勞！",
+    "zh-CN": "举手之劳！",
+    "ja": "朝飯前です！",
+    "ko": "이 정도는 쉽죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Nice find. Do we really have to turn it over to the watchguards...?",
+    "zh-TW": "撿到這麼好的東西，是不是要上交給巡衛啊……",
+    "zh-CN": "捡到这么好的东西，是不是要上交给巡卫啊……",
+    "ja": "すごくいい物ですね、巡衛隊に届けるべきですか……？",
+    "ko": "이렇게 좋은 걸 줍다니... 순찰대에 연락해야 하지 않을까요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "My mentor said the floating Aurylenes in the wilds aren't really dangerous. Just don't go after them recklessly.",
+    "zh-TW": "老師說，野外飄浮的醚質其實很安全，只是不要追得太深。",
+    "zh-CN": "老师说，野外飘浮的醚质其实很安全，只是不要追得太深。",
+    "ja": "先生が、浮いてるオーリレンは安全だけど深追いはするなって……",
+    "ko": "선생님께서 그러셨는데, 야외에 떠다니는 오리렌은 사실 생각보다 안전하대요. 너무 멀리 따라가지만 않으면요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "The Blight's nothing new to us Wuling kids. Don't worry, I got this one!",
+    "zh-TW": "武陵的孩子從小就跟侵蝕打交道，小事，交給我！",
+    "zh-CN": "武陵的孩子从小就跟侵蚀打交道，小事儿，交给我！",
+    "ja": "武陵では小さい頃から侵蝕と戦ってるんです。僕に任せてください！",
+    "ko": "무릉의 아이들은 어릴 때부터 침식을 상대하는 방법을 배우거든요. 걱정하지 말고, 저한테 맡겨주세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "I feel a warm surge coursing through me... Time to get up and stretch a little!",
+    "zh-TW": "好像全身湧過一股暖流……我得起來熱熱身，活動一下！",
+    "zh-CN": "好像全身涌过一股暖流……我得起来热热身，活动活动！",
+    "ja": "温かい気が巡ってきました……よーし、ちょっとウォームアップします！",
+    "ko": "온몸에 따뜻한 기운이 퍼지는 느낌이에요... 몸 좀 풀어야겠어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Grab my meds! Heal yourself!",
+    "zh-TW": "全都給你，快好起來啊！",
+    "zh-CN": "全都给你，快好起来啊！",
+    "ja": "全部あげます、早く回復を……！",
+    "ko": "전부 드릴게요, 얼른 나으셔야 해요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "One sec, just need a quick breather!",
+    "zh-TW": "我喘口氣，馬上就好！",
+    "zh-CN": "我喘口气儿，马上就好！",
+    "ja": "ちょっとだけ休めば、大丈夫です！",
+    "ko": "후유, 숨 좀 돌리면 괜찮아질 거예요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "WARHH, dodge the attack!",
+    "zh-TW": "哇啊啊，快閃開！",
+    "zh-CN": "哇啊啊，快闪开！",
+    "ja": "うっ、早く避けて！",
+    "ko": "우와, 어서 피하세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "Keep going ... gotta keep going...",
+    "zh-TW": "還能撐住，還能撐住……",
+    "zh-CN": "还能坚持，还能坚持……",
+    "ja": "僕……まだ、いけます……",
+    "ko": "괜찮아... 아직 버틸 수 있어...!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "If only I were stronger...",
+    "zh-TW": "要是我足夠強大……",
+    "zh-CN": "要是我足够强大……",
+    "ja": "僕がもっと強かったら……",
+    "ko": "내가 더 강했더라면..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "How'd you do that? Please teach me!",
+    "zh-TW": "怎麼做到的？教教我！",
+    "zh-CN": "怎么做到的？教教我！",
+    "ja": "どうやったんですか？教えてください！",
+    "ko": "어떻게 하신 거예요? 저도 좀 알려주세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "That was incredible! I'm fired up!",
+    "zh-TW": "大開眼界了！我也不能落後！",
+    "zh-CN": "大开眼界了！我也不能落后！",
+    "ja": "本当にすごいです！負けてられません！",
+    "ko": "정말 대단해요! 저도 가만히 있을 수 없겠네요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Heh heh, you're making me blush...",
+    "zh-TW": "嘿嘿，別誇我了吧……",
+    "zh-CN": "嘿嘿，别夸我了吧……",
+    "ja": "へへっ、照れちゃいますね……",
+    "ko": "헤헤, 몸 둘 바를 모르겠어요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "Two heads are better than one, and four are even better!",
+    "zh-TW": "三人行必有我師，我們有四個人！",
+    "zh-CN": "三人行必有我师，我们有四个人！",
+    "ja": "「3人いれば師とすべき人あり！」僕たちは4人もいますから！",
+    "ko": "세 사람이 모이면 반드시 배울 게 있다는데... 저희는 네 명이나 되네요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Lifeng of Wuling, ready to fight!",
+    "zh-TW": "晚輩武陵城黎風，失禮了！",
+    "zh-CN": "晚辈武陵城黎风，失礼了！",
+    "ja": "武陵のリーフォンです。未熟者ですが、よろしくお願いします！",
+    "ko": "무릉성 여풍, 실례하겠습니다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "They can't handle my lance!",
+    "zh-TW": "諒他們接不住我這槍！",
+    "zh-CN": "谅他们接不住我这枪！",
+    "ja": "この槍、受け止められないよ！",
+    "ko": "제 창을 받아낼 사람은 없을 것 같네요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Now that's what I call a real fight!",
+    "zh-TW": "這一架打得太痛快了！",
+    "zh-CN": "这一架打得痛快极了！",
+    "ja": "気持ちいい勝利ですね！",
+    "ko": "정말 멋진 전투였어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "Is that it? I haven't even shown you my best moves...",
+    "zh-TW": "呀，就結束了？我還有幾招沒使……",
+    "zh-CN": "呀，这就结束了？我还有几招没使……",
+    "ja": "えっ、おしまいですか？まだ披露してない技があったのに……",
+    "ko": "어, 벌써 끝난 거예요? 보여줄 게 아직 많이 남았는데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "Hmph, we taught them a lesson!",
+    "zh-TW": "讓他們好好瞧瞧！",
+    "zh-CN": "叫他们好好瞧瞧！",
+    "ja": "格の違いを見せつけてやりましたね！",
+    "ko": "이번엔 제대로 보여줬네요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "Victory loves preparation. Keep pushing, team.",
+    "zh-TW": "最好的永遠是下一場戰鬥，大家穩住。",
+    "zh-CN": "最好的永远是下一场战斗，大家稳住。",
+    "ja": "最高はいつも先にあるものです。少しずつ頑張りましょう！",
+    "ko": "진짜 승부는 다음 전투예요. 모두 마음 단단히 먹어요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Uncle Pan says that being a great lancer isn't about speed, it's about keeping your cool. I lost mine this time, but I'll regroup and go again!",
+    "zh-TW": "潘叔說，出槍不是比手快，而是看誰心穩，這口氣我還是沒沉住。歇口氣，再來一次。",
+    "zh-CN": "潘叔说，出枪不是比手快，而是看谁心稳，这口气我还是没沉住。歇口气，再来一次。",
+    "ja": "ダパンおじさんが、槍は速さより落ち着いた心が大切だって……焦りすぎたかも……気を取り直して、再挑戦です！",
+    "ko": "판 아저씨가 손이 빠른 사람이 아니라 마음이 차분한 사람이 이긴다고 하셨어... 이번엔 평정심을 잃었네. 숨 고르고, 다시 한번 가보자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Watch this!",
+    "zh-TW": "看我的！",
+    "zh-CN": "看我的！",
+    "ja": "決めます！",
+    "ko": "잘 봐!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Pardon my strike!",
+    "zh-TW": "得罪了！",
+    "zh-CN": "得罪了！",
+    "ja": "失礼！",
+    "ko": "실례하겠습니다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Purity grants truth!",
+    "zh-TW": "明心見性！",
+    "zh-CN": "明心见性！",
+    "ja": "明心見性！",
+    "ko": "명심견성!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Obsession breeds sorrow!",
+    "zh-TW": "何苦來哉！",
+    "zh-CN": "何苦来哉！",
+    "ja": "なぜ苦しみを選ぶ！",
+    "ko": "부질없는 짓이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "A keen mind strikes quick!",
+    "zh-TW": "心快，槍快！",
+    "zh-CN": "心快，枪快！",
+    "ja": "心が冴えれば、槍も疾い！",
+    "ko": "마음의 흐름을 따라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Give me a shout anytime!",
+    "zh-TW": "儘管叫我！",
+    "zh-CN": "尽管招呼我！",
+    "ja": "いつでも行けます！",
+    "ko": "언제든지 불러주세요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Let me help!",
+    "zh-TW": "助你一臂之力！",
+    "zh-CN": "助你一臂之力！",
+    "ja": "助けます！",
+    "ko": "제가 도와드릴게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Ever seen this?",
+    "zh-TW": "見識過這招嗎？",
+    "zh-CN": "见识过这招吗？",
+    "ja": "見せてあげます！",
+    "ko": "이런 거 본 적 있으세요?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "You shall be banished!",
+    "zh-TW": "伏魔金槍！",
+    "zh-CN": "伏魔金枪！",
+    "ja": "伏魔の槍！",
+    "ko": "복마금창!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Obsess no more!",
+    "zh-TW": "助你破執！",
+    "zh-CN": "助你破执！",
+    "ja": "執念を断ち切る！",
+    "ko": "고통에서 해방해 주겠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Renounce or perish!",
+    "zh-TW": "勸你罷手！",
+    "zh-CN": "劝你罢手！",
+    "ja": "ここまでだ！",
+    "ko": "이쯤에서 그만두시지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Guess which hand will crush you?",
+    "zh-TW": "猜猜在哪隻手？",
+    "zh-CN": "猜猜在哪只手？",
+    "ja": "どっちの手かな？",
+    "ko": "어느 손에 있게?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Evil shall face karmic justice!",
+    "zh-TW": "摧破業障，降伏諸惡！",
+    "zh-CN": "摧破业障，降伏诸恶！",
+    "ja": "障害は薙ぎ払い、悪は成敗！",
+    "ko": "업보를 파하여 악을 제압하라!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0015_lifeng_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "I AM BECOME WRATH!",
+    "zh-TW": "現忿怒相，破！",
+    "zh-CN": "现忿怒相，破！",
+    "ja": "怒髪、天を衝く！",
+    "ko": "분노의 형상, 파괴한다!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_map02_lv002_10",
+   "topic": {
+    "en": "Wuling and Burdenbeast",
+    "zh-TW": "武陵與馱獸",
+    "zh-CN": "武陵与驮兽",
+    "ja": "武陵と駄獣",
+    "ko": "무릉과 버든비스트"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Endmin, do you remember anything particular about that Old Burdenbeast?",
+      "zh-TW": "怎麼樣管理員，您有想起那隻老馱獸的什麼特徵嗎？",
+      "zh-CN": "怎么样管理员，您有想起那只老驮兽的什么特征吗？",
+      "ja": "管理人、どうですか？老駄獣の特徴、何か思い出しましたか？",
+      "ko": "어떠세요, 관리자님. 그 늙은 버든비스트가 어떤 특징이 있는지 생각나세요?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I just had a dream... That Old Burdenbeast led me to the field he once plowed...",
+         "zh-TW": "我剛才作的那個夢裡，那頭老馱獸帶我找他耕過的田……",
+         "zh-CN": "我刚才做的那个梦里，那头老驮兽带我找他耕过的田……",
+         "ja": "さっき見た夢の中で、老駄獣が自分の耕した田んぼに連れていってくれた……",
+         "ko": "방금 꾼 그 꿈에서, 그 늙은 버든비스트가 자기가 갈아 온 논으로 저를 데려간 것 같았어요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Lifeng",
+         "zh-TW": "黎風",
+         "zh-CN": "黎风",
+         "ja": "リーフォン",
+         "ko": "여풍"
+        },
+        "text": {
+         "en": "The Old Burdenbeast probably went to the place he remembered most before he passed...",
+         "zh-TW": "老馱獸會在臨終前跑去自己記憶最深刻的地方……",
+         "zh-CN": "老驮兽会在临终前跑去自己记忆最深刻的地方……",
+         "ja": "年を取った駄獣は、死の間際に自分の記憶の中で最も印象深い場所へ向かうと聞いたことがあります……",
+         "ko": "늙은 버든비스트는 마지막이 다가오면 자신이 가장 깊이 기억하는 곳으로 달려가죠..."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I think I also saw the Old Tianshi, and that same field...",
+         "zh-TW": "我好像夢到了那位老天師，還有那片田……",
+         "zh-CN": "我好像梦到了那位老天师，还有那片田……",
+         "ja": "あの老天師、それからあの田んぼの夢を見たような気がする……",
+         "ko": "그 나이 든 천사도, 그 논도 꿈에서 본 것 같아요..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Hmm? So you're saying...",
+      "zh-TW": "管理員，您的意思不會是……",
+      "zh-CN": "管理员，您的意思不会是……",
+      "ja": "管理人、それって、まさか……",
+      "ko": "관리자님, 설마 그 말씀은..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "I heard from Yan Ning that the Old Tianshi passed away with a smile on his face.",
+      "zh-TW": "我聽彥寧姐說，老天師是帶著微笑走完了最後一程。",
+      "zh-CN": "我听彦宁姐说，老天师是带着微笑走完了最后一程。",
+      "ja": "イェン姉さんの話では、老天師は微笑みながら最後の道を歩み終えたそうです。",
+      "ko": "옌닝 언녕 누나한테 들었는데, 그 나이 든 천사는 미소를 지은 채로 돌아가셨다고 해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Seeing the crops in his test fields thriving ... he passed peacefully.",
+      "zh-TW": "能在最後一刻，看到自己實驗田裡的作物茁壯成長，他一定走得很安心。",
+      "zh-CN": "能在最后一刻，看到自己试验田里的作物茁壮成长，他一定走得很安心。",
+      "ja": "最後の瞬間、田んぼで作物がすくすくと育っているのを見て、きっと安心して旅立っていったんじゃないかって……",
+      "ko": "마지막 순간에, 자신이 가꾼 실험용 논밭의 작물이 무성히 자라는 걸 보셨으니, 분명 편히 눈을 감으셨을 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "These test fields hold a special meaning for the people of Wuling.",
+      "zh-TW": "這些實驗田，對武陵人一定有特殊的意義。",
+      "zh-CN": "这些试验田，对武陵人一定有特殊的意义。",
+      "ja": "武陵の人にとって、あの実験用の田んぼには特別な意味があるんだね。",
+      "ko": "이 실험용 논밭들은 무릉 사람들에게 분명 특별한 의미가 있어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Yes. To us, the crops in these fields aren't just food for survival.",
+      "zh-TW": "是的，對我們而言，這些實驗田裡的作物，不只是賴以生存的口糧。",
+      "zh-CN": "是的，对我们而言，这些试验田里的作物，可不只是赖以生存的口粮。",
+      "ja": "はい。僕たちにとっては、ただ生きるためにあるものではないですから。",
+      "ko": "맞아요. 우리에게 이 실험용 논밭의 작물은 단순히 생존을 위한 식량만은 아니에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "They're a symbol of hope. They thrive despite the encroaching Blight, just like us.",
+      "zh-TW": "還是在侵蝕危害裡努力生存的希望與象徵。",
+      "zh-CN": "还是在侵蚀危害里努力生存的希望与象征。",
+      "ja": "侵蝕の中で懸命に生きている、希望と象徴でもあるんです。",
+      "ko": "침식의 재해 속에서도 살아남고자 하는 희망이자 상징이죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "That Old Tianshi kept tending the test fields himself, right up until his illness left him bedridden...",
+      "zh-TW": "那位老天師，一直在實驗田裡躬耕，直到病痛讓他再也下不了床……",
+      "zh-CN": "那位老天师，一直躬耕在试验田里，直到病痛让他再也下不了床……",
+      "ja": "老天師は、病気で起き上がれなくなるまで、ずっと実験用の田んぼを耕していたって……",
+      "ko": "그 나이 든 천사는 병으로 더 이상 일어설 수 없게 될 때까지, 줄곧 실험용 논밭을 일구셨어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "He's our hero.",
+      "zh-TW": "他是我們武陵的英雄。",
+      "zh-CN": "他是我们武陵的英雄。",
+      "ja": "あの人は武陵の英雄です。",
+      "ko": "그분은 우리 무릉의 영웅이에요."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "His wish will surely come true.",
+         "zh-TW": "他的願望一定會實現的。",
+         "zh-CN": "他的愿望一定会实现的。",
+         "ja": "あの人の願いはきっと叶うよ。",
+         "ko": "그분의 바람은 반드시 이뤄질 겁니다."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "The crops in the test fields are thriving. All that hard work by the Old Tianshi will be remembered.",
+         "zh-TW": "實驗田裡的作物長得都很茂盛，老天師的心血，沒有被辜負。",
+         "zh-CN": "试验田里的作物长得都很茂盛，老天师的心血，没有被辜负。",
+         "ja": "あの青々と茂る作物……老天師の努力は、ちゃんと実を結んだんだ。",
+         "ko": "실험용 논밭의 작물이 무럭무럭 자랐어요. 나이 든 천사의 정성이 헛되지 않았네요."
+        }
+       }
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0015_lifeng_1",
+   "topic": {
+    "en": "Boundless Energy",
+    "zh-TW": "充沛能量",
+    "zh-CN": "充沛能量",
+    "ja": "エネルギッシュ",
+    "ko": "넘치는 에너지"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Endmin, do you work out daily?",
+      "zh-TW": "管理員，您有運動的習慣嗎？",
+      "zh-CN": "管理员，您有运动的习惯吗？",
+      "ja": "管理人、運動はよくしますか？",
+      "ko": "관리자님, 평소에 운동하는 거 좋아하세요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Would you like to join my morning training squad? Right now it's just me and Qianyu... Kinda hard to get more people...",
+      "zh-TW": "要不要加入我們的晨練隊？現在只有我和千語姐……有點邀不到人！",
+      "zh-CN": "要不要加入我们的晨练队？现在只有我和千语姐……有点拉不到人！",
+      "ja": "よかったら、僕たちの朝練チームに入りませんか？今は、僕とチェン姉さんだけで……全然人が集まらないんです。",
+      "ko": "우리 아침 운동부에 들어오시겠어요? 지금은 저랑 천우 누나밖에 없거든요... 들어오겠다는 사람이 별로 없네요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Hard to get more people? How come?",
+      "zh-TW": "邀不到人？怎麼會？",
+      "zh-CN": "拉不到人？怎么会？",
+      "ja": "人が集まらないの？どうして？",
+      "ko": "들어오겠다는 사람이 없다고요? 그럴 리가요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Yes... Everyone's got their own unique idea of exercise.",
+      "zh-TW": "對，感覺……或者說……大家對運動都有自己獨特的看法。",
+      "zh-CN": "对，感觉……或者说……大家对运动都有自己独特的看法。",
+      "ja": "はい、皆さん……「運動」について、それぞれ考え方が違うみたいで……",
+      "ko": "흠... 그러니까... 다들 이미 운동에 대한 자기만의 특별한 생각이 있는 것 같아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "For example, one operator was already hanging upside down from the ceiling before I even asked.",
+      "zh-TW": "比如，有一個幹員在我找上門的時候，就已經把自己倒掛在天花板上了。",
+      "zh-CN": "比如，有一个干员在我找上门去的时候，就已经把自己倒挂在天花板上了。",
+      "ja": "例えば……とある方に声をかけようと思ったら、もう天井から逆さにぶらさがっていて。",
+      "ko": "예를 들면, 어떤 오퍼레이터는 저희가 찾아갔을 때 벌써 천장에 거꾸로 매달려 있더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Another one said she only likes watching atoms move...",
+      "zh-TW": "還有一個幹員說她只喜歡看原子的運動……",
+      "zh-CN": "还有一个干员说她只喜欢看原子的运动……",
+      "ja": "それから、原子の運動にしか興味がないっていう人もいて……",
+      "ko": "또 어떤 오퍼레이터는 원자 운동을 보는 것만 좋아한대요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Strangely interesting, huh?!",
+      "zh-TW": "好神奇啊！",
+      "zh-CN": "好神奇啊！",
+      "ja": "ちょっと、すごいですよね！",
+      "ko": "정말 신기하죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What exercises do you guys do in the morning?",
+      "zh-TW": "你們晨練隊通常會做什麼運動？",
+      "zh-CN": "你们晨练队一般会做什么运动？",
+      "ja": "君たちの朝練では、どんな「運動」をしているの？",
+      "ko": "아침 운동부는 주로 어떤 운동을 하는데요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "We usually start with a 10-kilometer run.",
+      "zh-TW": "我們會先跑十公里。",
+      "zh-CN": "我们会先跑十公里。",
+      "ja": "そうですね、まずは10km走ります。",
+      "ko": "우선 10킬로미터 달리기부터 시작해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Okay, 10km doesn't sound so bad.",
+      "zh-TW": "十公里？這聽起來不算大事。",
+      "zh-CN": "十公里？这听起来不算大事。",
+      "ja": "10km……大したことないね。",
+      "ko": "10킬로미터요? 별거 아니라는 듯이 얘기하네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Right. That's just the warm-up.",
+      "zh-TW": "嗯，作為熱身。",
+      "zh-CN": "嗯，作为热身。",
+      "ja": "はい、これはウォーミングアップですから！",
+      "ko": "맞아요, 몸풀기하는 거죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Then we hit the Training Cabin for fifty sets of interval sprints...",
+      "zh-TW": "然後到訓練室做五十組變速跑……",
+      "zh-CN": "然后到训练室做五十组变速跑……",
+      "ja": "それから、訓練室でインターバルを50セットと……",
+      "ko": "그리고 훈련실에서 인터벌 러닝 50세트를 해요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That a warm-up too?",
+      "zh-TW": "還是熱身嗎？",
+      "zh-CN": "还是热身吗？",
+      "ja": "それも、まだウォーミングアップなの？",
+      "ko": "그것도 몸풀기인가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Of course! I haven't even mentioned the agility exercises like ladder drills and barrel drills.",
+      "zh-TW": "對啊，才剛開始喔！我還沒說繩梯啊繞桶啊那些敏捷訓練呢。",
+      "zh-CN": "对呀，这才到哪儿！我还没说绳梯啊绕桶啊那些敏捷训练呢。",
+      "ja": "はい、そうです！他にも……ラダーとか、コーンを使った敏捷トレーニングもありますし。",
+      "ko": "그럼요, 이제 시작이죠! 줄사다리로 스텝 밟기나 통 돌아오기 같은 민첩성 훈련은 아직 얘기도 안 꺼냈다고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "After all those, we dive straight into strength training!",
+      "zh-TW": "然後就開始做力量訓練了！",
+      "zh-CN": "然后就开始做力量训练了！",
+      "ja": "その次は、筋力トレーニングです！",
+      "ko": "그다음 이제 근력 운동을 시작해요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Just hearing this makes me tired...",
+      "zh-TW": "我光聽就已經覺得有點累了。",
+      "zh-CN": "我听着就已经感到有点累了。",
+      "ja": "聞いているだけで、少し疲れてきたよ。",
+      "ko": "듣기만 해도 벌써 힘든 것 같네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Haha, maybe when we hit martial arts drills, you won't feel tired. That's when we train fighting skills!",
+      "zh-TW": "也許，到武術練習專項時，您就不會累了？那時候就要訓練戰鬥技巧了！",
+      "zh-CN": "也许，到武术练习专项时，您就不会累了？那时候就要训练战斗技巧了！",
+      "ja": "でも、武術の専門練習なら、疲れも吹き飛んじゃいますよ！戦闘技術を鍛える練習なんです。",
+      "ko": "아마 무술 연습할 때쯤이면 안 힘드실 거예요. 그때는 전투 기술을 훈련해야 하거든요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Stances, footwork, blablabla. We do solo drills first.",
+      "zh-TW": "站樁啊，步法啊，單式練習這些肯定是要先做一下的。",
+      "zh-CN": "站桩啊，步法啊，单式练习这些肯定是要先做上一会儿的。",
+      "ja": "立ち方から、足運び……細かい技の練習は、欠かせませんから。",
+      "ko": "먼저 기마자세나 보법 같은 단일 동작을 어느 정도 연습해 줘야 해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Then we move on to combo drills. Qianyu and I practice together because those sandbags won't last a second unless we hold them for each other, lol.",
+      "zh-TW": "組合練習的時候，我和千語姐會互相對練，因為只有我們才能扶住對方的沙袋。",
+      "zh-CN": "组合练习的时候，我和千语姐会互相对练，因为只有我俩才能扶住对方的沙袋。",
+      "ja": "ペア練習では、僕とチェン姉さんで組んでやっています。だって、2人しか……なので、お互いのサンドバッグを持ち合ってます。",
+      "ko": "종합 훈련 때는 저랑 천우 누나가 서로를 상대로 연습해요. 우리 둘의 샌드백을 잡아줄 사람이 서로밖에 없거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "We're trying to get people of all strength levels so training stays interesting...",
+      "zh-TW": "我們正在尋找不同力量級的人，這樣才能讓大家的訓練種類豐富起來……",
+      "zh-CN": "我们正在寻找不同力量级的人，这样才能让大家的训练类目丰富起来……",
+      "ja": "できたら、いろんなレベルの方がいたらと思っていて……そうすればチームの内容も、もっと幅広く、充実させられると思って……",
+      "ko": "그래서 저희는 다양한 수준의 사람들을 찾고 있어요... 그래야 훈련할 수 있는 종목이 다양해질 거예요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Endmin, you still there?",
+      "zh-TW": "管理員？還在嗎？",
+      "zh-CN": "管理员？还在吗？",
+      "ja": "あれ、管理人？見てますか？",
+      "ko": "관리자님? 제 메시지 보고 계시죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Yes. I'm just thinking ... Chen's probably super happy you joined.",
+      "zh-TW": "我在，只是在想……陳應該很高興你來了。",
+      "zh-CN": "我在，只是在想……陈应该很高兴你来了。",
+      "ja": "えっと……チェン、君が来て喜んでなかった？",
+      "ko": "네, 보고 있어요. 그냥... 여풍 씨가 와서 천우가 참 좋아했겠다라는 생각이 들어서요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Qianyu and I totally click! She said it's been ages since she met someone who can keep up!",
+      "zh-TW": "我和千語姐確實是相見恨晚！她說很久沒有看到我這種，跟得上她體能的人了！",
+      "zh-CN": "我和千语姐确实是相见恨晚！她说很久没有见到我这样，能跟上她体能的人了！",
+      "ja": "はい！チェン姉さんは「あたしの体力についてこられる人は久しぶりだ」って！それに僕もチェン姉さんと出会えて本当に嬉しいんです。",
+      "ko": "천우 누나를 더 일찍 만났으면 얼마나 좋았을까요? 천우 누나도 자기랑 신체 능력이 비슷한 사람은 정말 오랜만에 본대요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "I used to think it was just me... I always run around and never feel tired.",
+      "zh-TW": "以前我一直以為是自己體質的原因欸，總是一身幹勁，忙這忙那的！",
+      "zh-CN": "以前我一直以为是自己体质的原因呢，总是一身的劲儿，忙这忙那！",
+      "ja": "ずっと、自分はちょっと他の人と違うのかなって。元気がありすぎて、動き回らないと落ち着かない体質だって思って……",
+      "ko": "예전에는 제 몸이 이상한 줄 알았어요. 온몸에 너무 힘이 넘쳐서 별의별 짓을 다 해봤다니까요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "But now knowing Qianyu's the same makes me feel at ease.",
+      "zh-TW": "知道千語姐也會這樣以後，我才安心下來。",
+      "zh-CN": "知道千语姐也会这样以后，我才安下心来。",
+      "ja": "でも、チェン姉さんは、僕と同じくらい元気なんです！すごく安心しました。",
+      "ko": "근데 천우 누나도 저랑 똑같다고 하길래 그제야 안심했죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Prob hard to find a 3rd one like you two in Endfield...",
+      "zh-TW": "在終末地，也找不出第三個這樣的人了。",
+      "zh-CN": "在终末地，也找不出第三个这样的人了。",
+      "ja": "3人目は、エンドフィールドでもなかなか見つからないかもね。",
+      "ko": "엔드필드에서는 세 번째 부원을 찾기 어렵겠네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "ROGER THAT!",
+      "zh-TW": "我知道了！",
+      "zh-CN": "我明白了！",
+      "ja": "……なるほど！",
+      "ko": "그렇군요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "I WILL NOT LET YOU DOWN!!!",
+      "zh-TW": "我會做到的！！",
+      "zh-CN": "我会做到的！！！",
+      "ja": "僕、わかりました！",
+      "ko": "앞으로 더 열심히 할게요!!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "THANK YOU FOR YOUR RECOGNITION!!!",
+      "zh-TW": "是管理員對我的認可！！！",
+      "zh-CN": "是管理员对我的认可！！！！",
+      "ja": "つまり、管理人は……僕を認めてくれたってことですよね！！",
+      "ko": "저, 관리자님한테 인정받은 거 맞죠!!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "OMG I'm honored you'd even compare me to someone as excellent as Qianyu!!!",
+      "zh-TW": "管理員，我很榮幸您把我和千語姐這麼優秀的前輩相提並論！！",
+      "zh-CN": "管理员，我很荣幸您能把我和千语姐这么优秀的前辈相提并论！！",
+      "ja": "管理人、僕……チェン姉さんみたいに優秀な先輩と同じだって言ってもらえて……すごく光栄です！",
+      "ko": "저를 그렇게 훌륭한 천우 선배랑 비교해 주시다니 정말 영광입니다!!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Ahhhhhh I'm too excited ... gotta go do a 10km run to calm down!",
+      "zh-TW": "我我我太激動了，我先去跑個十公里平心靜氣一下！",
+      "zh-CN": "我我我太激动了，我先去跑个十公里平心静气一下！",
+      "ja": "や……やったあ……嬉しい……！とりあえず、10km走ってきます！気持ちを落ち着けるために！",
+      "ko": "저 지금 너무너무 흥분돼요. 10킬로미터 달리기를 하면서 좀 진정해야겠어요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Wait... Lifeng. You still there?",
+      "zh-TW": "等等……黎風？",
+      "zh-CN": "等等……黎风？",
+      "ja": "リーフォン、ちょっと待って……",
+      "ko": "잠깐만요... 여풍 씨?"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Lifeng] is OFFLINE",
+      "zh-TW": "[黎風]已離線",
+      "zh-CN": "[黎风]已离线",
+      "ja": "「リーフォン」オフラインになりました",
+      "ko": "[여풍] 오프라인"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0015_lifeng_2",
+   "topic": {
+    "en": "The Questionable Gifts",
+    "zh-TW": "奇怪禮物",
+    "zh-CN": "奇怪礼物",
+    "ja": "不思議なお土産",
+    "ko": "이상한 선물"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "ENDMIN! HELP!",
+      "zh-TW": "管理員！救急救急！",
+      "zh-CN": "管理员！救急救急！",
+      "ja": "管理人！緊急です！",
+      "ko": "관리자님, 저 좀 도와주세요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Is there a gift shop in Dijiang?",
+      "zh-TW": "帝江號上有禮品店嗎？！",
+      "zh-CN": "帝江号上有礼品店吗？！",
+      "ja": "帝江号って、お土産屋さんはありますか？",
+      "ko": "혹시 제강호에 선물 가게가 있나요?!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I'm not sure?",
+      "zh-TW": "還有這種店鋪？",
+      "zh-CN": "还有这种店铺？",
+      "ja": "お土産屋さん……あるのかな？",
+      "ko": "그런 가게도 있었나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Oh nooo. I was gonna head back to Wuling to see everyone and maybe do some emergency shopping...",
+      "zh-TW": "沒有嗎……那完蛋了，我準備回武陵看看大家，緊急補課結果發現……",
+      "zh-CN": "没有吗……那完蛋了，我准备回武陵看看大家，紧急补课结果发现……",
+      "ja": "えっ、ないんですか……？どうしよう……武陵に帰るので、急いで準備してたら……",
+      "ko": "역시 없나 보네요... 큰일이네요. 무릉에 한 번 다녀오려고 하는데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "And now I've got nothing to hand out. I need to figure something out!",
+      "zh-TW": "手上沒什麼適合的禮物。我得想想了！",
+      "zh-CN": "手头没什么合适的礼物。我得想想了！",
+      "ja": "お土産がないって気づいて……どうしたらいいんでしょうか……",
+      "ko": "챙겨갈 만한 적절한 선물이 없더라고요.뭘 챙겨가면 좋을지, 어서 생각해 봐야겠어요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Is it a must to bring gifts when going back home?",
+      "zh-TW": "回家看人是要帶禮物的嗎？",
+      "zh-CN": "回家见人是要带礼物的吗？",
+      "ja": "故郷に帰るときは、お土産を持っていくものなの？",
+      "ko": "집에 가는데 선물을 챙겨가야 하나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Ha? Endmin, you've never gone home before?",
+      "zh-TW": "啊？管理員您從來沒有回過家嗎？",
+      "zh-CN": "啊？管理员您从来没有回过家吗？",
+      "ja": "えっ……管理人は、自分の家に帰ったことはないんですか？",
+      "ko": "네? 관리자님은 집에 돌아가신 적이 한 번도 없으신가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "My ... home?",
+      "zh-TW": "我的家……？",
+      "zh-CN": "我的家……？",
+      "ja": "自分の家は……",
+      "ko": "아... 저는..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "It's alright, Endmin!",
+      "zh-TW": "沒關係的，管理員。",
+      "zh-CN": "没关系的，管理员。",
+      "ja": "管理人、大丈夫です！",
+      "ko": "괜찮아요, 관리자님."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Lots of people here don't really have a home anyway!",
+      "zh-TW": "在我們這裡，沒有家的人很多！",
+      "zh-CN": "在咱们这儿，没有家的人很多！",
+      "ja": "家がないって人も、たくさんいますから！",
+      "ko": "여기는 집이 없는 사람들도 많으니까요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That's not what I meant...",
+      "zh-TW": "我不是那個意思……",
+      "zh-CN": "我不是那个意思……",
+      "ja": "そういう意味じゃなくて……",
+      "ko": "그런 뜻이 아니라..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "When I get back from Wuling, I'll bring you a gift!",
+      "zh-TW": "等我從武陵回來，會帶禮物給您的！",
+      "zh-CN": "等我从武陵回来，给您带礼物！",
+      "ja": "僕、武陵から管理人にお土産を持ってきますね！",
+      "ko": "나중에 무릉에서 돌아오면 선물을 가져다드릴게요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Thank you.",
+      "zh-TW": "謝謝你。",
+      "zh-CN": "谢谢你。",
+      "ja": "うん、ありがとう。",
+      "ko": "감사해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Oh, don't be so polite!",
+      "zh-TW": "別客氣啦！",
+      "zh-CN": "别客气啦！",
+      "ja": "全然、気にしないでください！",
+      "ko": "별말씀을요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Usually, when we come back from far away, we bring a little gift for friends and family.",
+      "zh-TW": "一般來說，當我們從很遠的地方回來，都會帶個禮物。",
+      "zh-CN": "一般来说，当我们从很远的地方回来，都会带上个礼物。",
+      "ja": "だいたい、遠くから戻るときはみんな、お土産を買って帰ることが多いと思うんですけど……",
+      "ko": "보통은 어디 멀리 다녀올 일이 있으면 선물을 하나씩 챙겨 오곤 해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "When I was a kid, Uncle Pan would always bring me a little something when he returned from trips.",
+      "zh-TW": "我小時候，潘叔去外地出差，回來的時候都會送我一個小驚喜。",
+      "zh-CN": "我小时候，潘叔去外地出差，回来的时候都会送给我一个小惊喜。",
+      "ja": "小さい頃、ダパンおじさんは出張から戻るたびに、不思議なお土産を持ってきてくれて。",
+      "ko": "어릴 때, 판 아저씨가 외지로 출장을 갔다 오실 때마다 제게 항상 깜짝선물을 가져다주셨죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What did he give you?",
+      "zh-TW": "都有什麼禮物？",
+      "zh-CN": "都有什么礼物？",
+      "ja": "どんなお土産だろう。",
+      "ko": "어떤 선물이었나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "All sorts of things! At home I have a snow globe he brought back from Kjersch. It makes this crisp, ice-crystal sound when you shake it.",
+      "zh-TW": "五花八門，還蠻多的！我家裡有一個他從耶爾什帶回來的紀念品，雪花球，發出來的聲音像冰晶一樣。",
+      "zh-CN": "五花八门的，还挺多呢！我家里有一个他从耶尔什带回来的纪念品，雪花球，发出的声音像冰晶一样。",
+      "ja": "ほんとに、いろいろあって！イェルシェからはスノードームとか……振ると、氷がぶつかるみたいな音がするんです。",
+      "ko": "아주 다양해요! 판 아저씨가 예전에 옐시에서 사다 주신 기념품도 아직 집에 남아있어요. 스노우볼인데 소리가 얼음 결정처럼 아주 맑답니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "And there's a wood carving, supposedly bought from some Songseeker in the Hannabit Circuit...",
+      "zh-TW": "還有一個木雕，用椆木刻的，聽說是他從「眾生長地」一個叫「遊人」的人那裡買回來的……",
+      "zh-CN": "还有一个木雕，用椆木刻的，听说是他从“众生长地”一个叫“游人”的人那里买回来的……",
+      "ja": "それから、木彫りの置物とか。「衆生長地」っていうところの「吟遊者」っていう人から買ったって言ってました。",
+      "ko": "그리고 영수목으로 만든 나무 조각도 있어요. '만물의 대지'에 가셨을 때 '방랑자'라는 사람한테서 샀다고 하셨어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Hannabit Circuit is an organization. Operator Arclight is one of their Songseekers.",
+      "zh-TW": "「眾生長地」是一個組織啦，弧光幹員就是其中一名「遊人」。",
+      "zh-CN": "“众生长地”是一个组织啦，弧光干员就是其中一名“游人”。",
+      "ja": "「衆生長地」は組織の名前だよ。アークライトもその「吟遊者」の1人なんだ。",
+      "ko": "'만물의 대지'는 조직 이름이에요. 아크라이트 오퍼레이터가 바로 그 '방랑자' 중 한 명이죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Oh, I seeee! Uncle Pan said they make all sorts of incredible little gadgets.",
+      "zh-TW": "原來如此！潘叔說，他們出產了很多不可思議的精巧物品。",
+      "zh-CN": "原来如此！潘叔说，他们出产了很多不可思议的精巧玩意。",
+      "ja": "へえ……そうなんですね。ダパンおじさんは、そこにはすごく精巧な細工ができる人がたくさんいるって言ってました。",
+      "ko": "그렇군요! 판 아저씨가 그러셨는데, 정말 믿기 힘들 만큼 정교한 물건들을 많이 만드는 분들이라고 하시더라고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Endmin, you know so many names and places...",
+      "zh-TW": "管理員，您知道的人名地名這麼多……",
+      "zh-CN": "管理员，您知道的人名地名这么多……",
+      "ja": "やっぱり、管理人は本当に物知りですね……",
+      "ko": "관리자님은 지명이나 사람 이름을 정말 많이 알고 계시네요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "And you stayed in Wuling for quite a long time...",
+      "zh-TW": "您在武陵還待了這麼久。",
+      "zh-CN": "您在武陵还待了这么久。",
+      "ja": "武陵にも長くいたって聞いてますし……",
+      "ko": "무릉에도 오래 계셨으니..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Even though I haven't returned yet, I'm already brainstorming your gift...",
+      "zh-TW": "我還沒回來，就要開始考慮送您什麼了……",
+      "zh-CN": "我还没回来，就要开始考虑送您什么了……",
+      "ja": "あ、僕……まだ帰ってもいないのに、管理人へのお土産、悩んじゃってました……！",
+      "ko": "하아... 출발하기도 전부터 관리자님한테 무슨 선물을 드려야 할지 고민되네요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "It's the thought that counts.",
+      "zh-TW": "一份心意就好。",
+      "zh-CN": "一份心意就好。",
+      "ja": "気持ちだけで十分だよ。",
+      "ko": "마음이면 충분해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Everyone says that!",
+      "zh-TW": "大家都這麼說！",
+      "zh-CN": "大家都这么说！",
+      "ja": "みんなも、そう言ってくれますけど……",
+      "ko": "다들 그렇게 말하죠!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "But I'm sure everyone loves getting a good gift.",
+      "zh-TW": "但是收到禮物的時候，還是很開心的！",
+      "zh-CN": "但是收到礼物的时候，还是很开心的！",
+      "ja": "でも、お土産をもらったら、やっぱり嬉しいですよね！",
+      "ko": "하지만 막상 선물을 받으면 기분이 얼마나 좋다고요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Chubby Lung figurines...? I bet you already received plenty from others. Do you like Wuling water? Uncle Pan says he's traveled all over, but Wuling water makes the sweetest tea.",
+      "zh-TW": "龍泡泡您一定不缺，大家都送了好多。武陵水，您喜歡喝嗎？潘叔說走遍天下，還是武陵的水泡茶最甜。",
+      "zh-CN": "龙泡泡您肯定不缺，大家都送了好多。武陵水，您喜欢喝吗？潘叔说走遍天下，还是武陵的水泡茶最甜。",
+      "ja": "龍泡泡はたくさん持っているでしょうし……武陵の水なんか、どうですか？ダパンおじさんは「世界を巡ったが、武陵の水で入れた茶が一番甘ェ……」って言ってましたし！",
+      "ko": "드래곤 버블은 이미 많이 받으셨으니 더는 필요 없으시겠죠? 무릉의 물은 좋아하시나요? 판 아저씨가 세상 어디를 다 돌아다녀 봐도 무릉의 물로 끓인 차가 제일 달다고 하셨어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Oh, how about Tianshi Zhuang's Hero Card set?",
+      "zh-TW": "哦……對了！莊天師的群英卡要不要？",
+      "zh-CN": "哦……对了！庄天师的群英卡要不要？",
+      "ja": "あっ……そうだ……ゾアン天師の「英雄カード」なんて、どうですか？",
+      "ko": "음... 참, 장 천사님의 영웅 카드 세트는 어떠세요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Tianshi Zhuang's ... Hero Card set?",
+      "zh-TW": "莊天師的……群英卡？",
+      "zh-CN": "庄天师的……群英卡？",
+      "ja": "ゾアン天師の……「英雄カード」？",
+      "ko": "장 천사님의... 영웅 카드 세트요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Yup...",
+      "zh-TW": "對……",
+      "zh-CN": "对……",
+      "ja": "はい！",
+      "ko": "네..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "It used to be quite popular in HAS... It's a whole card set based on famous people from Great Yan...",
+      "zh-TW": "其實宏科院流行過一套……以大炎的知名人物為原型的卡組……",
+      "zh-CN": "其实宏科院流行过一套……以大炎的知名人物为原型的卡组……",
+      "ja": "宏科院で、前にちょっと流行ってたんです。炎国の有名人をモチーフにしたカードゲームで……",
+      "ko": "사실 한동안 홍산 과학원에서 유행했던 건데... 염국의 유명 인물들을 모델로 만든 카드 세트예요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Every card was designed based on the serialized novel The Heroes of Great Yan!",
+      "zh-TW": "基於《大炎群英錄》那部連載小說設計的！",
+      "zh-CN": "基于《大炎群英录》那部连载小说设计的！",
+      "ja": "『炎国英雄録』っていう小説をもとにしてるんです！",
+      "ko": "<대염 군영록>이라는 연재소설을 기반으로 만들었고요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "It's insanely long, over 10 million characters! But it was so good and we couldn't stop reading!",
+      "zh-TW": "超長的，一千多萬字喔，我們看得停不下來！",
+      "zh-CN": "老长了，一千多万字呢，我们看得停不下来！",
+      "ja": "すっごく長い超大作で、1,000万字以上あって……でも僕、夢中になって読んじゃいました！",
+      "ko": "천만 자가 넘는 정말 긴 소설인데도 한번 읽기 시작하면 멈출 수가 없다니까요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Everybody waited for Tianshi Zhuang to appear in the story, but even the latest chapter hasn't shown her yet!",
+      "zh-TW": "我們一直在等莊天師出場，結果直到最近一期的連載也沒有！",
+      "zh-CN": "我们一直在等庄天师出场，结果直到最近一期的连载也没有！",
+      "ja": "ずっとゾアン天師の登場を待ってるんですけど、最新話でもまだ、出てこなくて……",
+      "ko": "장 천사님이 등장하기만을 기다리고 있는데, 결국 최근 연재분까지도 안 나왔더라고요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "So, I secretly asked an artistic Tianshi to help me make my own Tianshi Zhuang card. Everyone stamped it with \"Divine Thunder\". It's our own expansion pack!!",
+      "zh-TW": "所以我就，私下找了一個會畫畫的天師前輩……自己做了一張莊天師的卡，嘿嘿。大家已經印上了「青霆萬鈞」——我們自己做的擴充包！！",
+      "zh-CN": "所以我就，私下找了一个会画画的天师前辈……自己做了一张庄天师的卡，嘿嘿。大家已经打上了“青霆万钧”——我们自己做的扩展包！！",
+      "ja": "だから僕、絵の上手な天師の先輩にお願いして……ゾアン天師のカード、自作しちゃいました！「青雷轟轟」って名前もつけて、自分たちだけの拡張パックってことにしてるんです！",
+      "ko": "그래서 제가 그림을 잘 그리는 천사 선배한테 개인적으로 부탁해서... 직접 장 천사님의 카드를 만들었죠, 헤헤. 다들 이미 저희가 자체 제작한 스페셜 확장팩인 '푸른 천둥의 힘' 카드 게임을 재미있게 플레이하고 있답니다!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "It's not official, you can't find it outside Wuling! We even \"released\" a custom shiny version recently...",
+      "zh-TW": "而且沒有流通喔，在武陵之外都找不到！最近還「發行」了自製的閃卡版……",
+      "zh-CN": "而且没有流通哦，在武陵之外都找不到！最近还“发行”了自制的闪卡版……",
+      "ja": "これ、非売品で……武陵の外では手に入らないんですよ……最近は自作でホログラムレア版まで「発行」してて……",
+      "ko": "아직 유통이 안 돼서 무릉 밖에서는 구하지도 못하는 거예요! 그리고 최근에는 자체 제작한 스페셜 Ex 버전 카드도 '출시'했고요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Shh... Please don't tell Tianshi Zhuang!",
+      "zh-TW": "我偷偷說的，別告訴她啊！",
+      "zh-CN": "我偷偷说的，别告诉她啊！",
+      "ja": "あっ、これ……！内緒にしてくださいね！本人には、絶対……",
+      "ko": "아! 장 천사님한테는 비밀이에요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Not unless you give me one.",
+      "zh-TW": "給我一張！",
+      "zh-CN": "给我一张！",
+      "ja": "じゃあ、1枚よこすんだ。",
+      "ko": "저도 한 장 주세요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Gotcha!! I'll grab you one, wait for me!!!",
+      "zh-TW": "好！！我去幫您收一張，等我！！",
+      "zh-CN": "好嘞！！我去再给您收一张，等我！！！",
+      "ja": "わ、わかりました！管理人の分、必ず手に入れてみせます！！",
+      "ko": "좋아요!! 제가 한 장 구해다 드릴 테니까, 돌아올 때까지 기다려 주세요!!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "And the novel too.",
+      "zh-TW": "小說也給我一本。",
+      "zh-CN": "小说也给我一本。",
+      "ja": "小説もセットで。",
+      "ko": "소설도 한 권 주세요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "You want to read The Heroes of Great Yan too? No problem!",
+      "zh-TW": "您對《大炎群英錄》也有興趣嗎？沒問題！",
+      "zh-CN": "您对《大炎群英录》也感兴趣吗？没问题！",
+      "ja": "えっ……『炎国英雄録』にも興味が……！はい、了解です！",
+      "ko": "<대염 군영록>에도 관심이 있으시군요? 물론 가져다드릴게요!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0015_lifeng_3",
+   "topic": {
+    "en": "Creature Features",
+    "zh-TW": "動物奇想",
+    "zh-CN": "动物奇想",
+    "ja": "動物幻想",
+    "ko": "신비한 동물 세계"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Endmin...",
+      "zh-TW": "管理員……",
+      "zh-CN": "管理员……",
+      "ja": "管理人……",
+      "ko": "관리자님..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "It's been some time since I joined Endfield...",
+      "zh-TW": "我來終末地也有一陣子了。",
+      "zh-CN": "我来终末地也有一阵子了。",
+      "ja": "僕、エンドフィールドに来てから、結構経ちましたよね。",
+      "ko": "제가 엔드필드에 온 지도 시간이 꽤 지났네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You're right. It's been some time.",
+      "zh-TW": "是有一陣子了。",
+      "zh-CN": "是有一阵子了。",
+      "ja": "うん。だいぶ経ったと思う。",
+      "ko": "맞아요, 꽤 오래됐죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Honestly, I was a little scared at first... I thought you were some distant big-shot...",
+      "zh-TW": "嗯，我最開始有點害怕，總覺得您是那種……大人物！",
+      "zh-CN": "嗯，我最开始有点儿害怕，总觉得您是那种……大人物！",
+      "ja": "実は……最初、ちょっと怖かったんです。管理人って……本当に「すごい人」って感じがして！",
+      "ko": "흠, 처음에는 관리자님이 좀 무서웠어요. 관리자님이 그런... 대인물이라고 생각했거든요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Distant big-shot?",
+      "zh-TW": "大人物？",
+      "zh-CN": "大人物？",
+      "ja": "すごい人？",
+      "ko": "대인물이요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Yeah. Though now ... you kinda feel like a...",
+      "zh-TW": "對啊，雖然您現在給我的感覺，像一個……",
+      "zh-CN": "对啊，虽然您现在给我的感觉，像一个……",
+      "ja": "はい、そうです。でも今は、なんだか……",
+      "ko": "네, 근데 지금 제가 생각하는 관리자님은 마치..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Slightly clueless...",
+      "zh-TW": "像一個有點懵懂的……",
+      "zh-CN": "像一个有点懵懂的……",
+      "ja": "うーん、なんというか……",
+      "ko": "약간 멍한..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Originium Slug...",
+      "zh-TW": "源石蟲……",
+      "zh-CN": "源石虫……",
+      "ja": "オリジムシみたいな……",
+      "ko": "원석충 같달까요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "PLZ DON'T TAKE IT WRONG! IT'S NOT AN INSULT!!!",
+      "zh-TW": "管理員，我沒有惡意！！",
+      "zh-CN": "管理员，我没有恶意！！！",
+      "ja": "あっ……違います！悪い意味じゃないんです！",
+      "ko": "관리자님, 물론 나쁜 뜻으로 얘기한 건 아니에요!!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "I LIKE ORIGINIUM SLUGS A LOOOOOOT!!!",
+      "zh-TW": "我很喜歡源石蟲的！！",
+      "zh-CN": "我很喜欢源石虫的！！",
+      "ja": "僕、オリジムシ大好きですし！",
+      "ko": "저는 원석충을 아주 좋아하거든요!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Seeing them alone in such a huge world makes me want to protect them. I feel sorry for them.",
+      "zh-TW": "當我覺得牠們獨自一蟲留在那麼廣闊的天地間時，就很心疼牠們。",
+      "zh-CN": "当我觉得它们独自一个留在那么广阔的天地间时，就很心疼它们。",
+      "ja": "オリジムシは……こんなに広い世の中に残されて……そう思うと、少し胸が痛むときもあるんです。",
+      "ko": "그 넓은 세상에 혼자 남겨져 있는 원석충을 생각하면, 참 안쓰러워요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "They don't know where to go, and why they grew that thick shell.",
+      "zh-TW": "感覺牠們不知道該去哪裡，也不知道自己為什麼要長出厚厚的源石殼。",
+      "zh-CN": "感觉它们不知道该去哪里，也不知道自己为什么要长出厚厚的源石壳。",
+      "ja": "どこに行けばいいのか、なんであんなに厚い殻を背負ってるのか、きっと自分でもわからないんだろうなって……",
+      "ko": "원석충들은 자신이 어디로 가야 할지도 모르고, 왜 그렇게 두꺼운 오리지늄 껍질이 자라났는지도 모른 채 살아가고 있겠죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So ... you're feeling sorry for me?",
+      "zh-TW": "所以，你是在……心疼我？",
+      "zh-CN": "所以，你是在……心疼我？",
+      "ja": "つまり、気の毒に思ってくれている、ということかな。",
+      "ko": "그러니까, 날... 안쓰럽게 생각한다는 건가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "After spending time with you, it just seems like you were...",
+      "zh-TW": "跟管理員相處久了，總覺得您好像是被誰……",
+      "zh-CN": "跟管理员相处久了，总觉得您好像是被谁……",
+      "ja": "管理人と一緒にいるうちに、なんとなく……",
+      "ko": "관리자님과 오래 지내다 보니, 왠지 관리자님이 누군가로부터..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "suddenly thrown into this world, all alone...",
+      "zh-TW": "突然丟到這個世界上一樣。",
+      "zh-CN": "突然扔到这个世界上一样。",
+      "ja": "管理人は、急にこの世界に放り込まれたような感じがして……",
+      "ko": "갑자기 이 세상에 버려진 것 같은 느낌이 들어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I'm not that pitiful.",
+      "zh-TW": "我沒有那麼可憐啦。",
+      "zh-CN": "我没有那么可怜啦。",
+      "ja": "そんなことないよ。",
+      "ko": "그렇게 불쌍한 처지는 아니에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Good to hear!!! Maybe I was just imagining things!",
+      "zh-TW": "那就好！！希望是我想多了！",
+      "zh-CN": "那就好！！希望是我想多了！",
+      "ja": "そうですよね！よかったです。僕の考えすぎでした！",
+      "ko": "그럼 다행이네요! 제가 너무 생각이 많았나 봐요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Just to confirm, we're good friends, right?",
+      "zh-TW": "我們是好朋友了，對吧？！",
+      "zh-CN": "我们是好朋友了，对吧！",
+      "ja": "あの、僕たちって……もう、友だちですよね！",
+      "ko": "관리자님, 우린 좋은 친구 사이죠? 그렇죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Of course.",
+      "zh-TW": "當然。",
+      "zh-CN": "当然。",
+      "ja": "もちろん。",
+      "ko": "당연하죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Of course?!?! :D",
+      "zh-TW": "當然！！",
+      "zh-CN": "当然！！",
+      "ja": "……「もちろん」！",
+      "ko": "하핫, 그렇게 말씀해 주실 줄 알았어요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "But you're the first one to describe me like that.",
+      "zh-TW": "但你是第一個這樣描述我的人。",
+      "zh-CN": "但你是第一个这么描述我的人。",
+      "ja": "でも、そんなことを言われたのは、初めてだよ。",
+      "ko": "근데 저를 그렇게 표현해 준 사람은 여풍 씨가 처음이에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "HA?! DO YOU FIND IT WEIRD?!",
+      "zh-TW": "哇，很怪嗎？！",
+      "zh-CN": "哇，很怪吗？！",
+      "ja": "えっ……もしかして、また変なこと言っちゃいましたか？",
+      "ko": "앗, 표현이 이상했나요?!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Actually ... I secretly imagine everyone as little animals in my head.",
+      "zh-TW": "其實我會在心裡默默把大家想像成一些小動物。",
+      "zh-CN": "其实我会在心里默默把大家想象成一些小动物。",
+      "ja": "僕、実は……みんなを小さな動物みたいに考えるときがあって。",
+      "ko": "사실 전 마음속으로 모든 사람들을 다 작은 동물이라고 상상해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "For example...",
+      "zh-TW": "例如……",
+      "zh-CN": "比如……",
+      "ja": "たとえば……",
+      "ko": "예를 들면..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Supervisor Perlica is like a little shellbeast.",
+      "zh-TW": "佩麗卡監督在我心中像一隻小殼獸。",
+      "zh-CN": "佩丽卡监督在我心中像一只小壳兽。",
+      "ja": "ペリカ監察官は、小さな甲獣。",
+      "ko": "제가 생각하는 펠리카 감독관님은 작은 셸비스트 같아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Qianyu is more like ... a little pantailbeast! Nimble, always running around, and often sitting in weird spots.",
+      "zh-TW": "千語姐就更像一隻……小蟠獸！靈巧地跑來跑去，經常坐在奇怪的地方。",
+      "zh-CN": "千语姐就更像一只……小蟠兽！灵巧地跑来跑去，经常坐在奇怪的地方。",
+      "ja": "チェン姉さんは……蟠獣！身のこなしが軽くて、あっちこっち走り回って、変なところに座ってるところが似てます。",
+      "ko": "천우 누나는... 작은 판테일비스트 같고요! 항상 날렵하게 이리저리 뛰어다니고, 가끔 이상한 곳에 앉아 있고 그러잖아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "And you, Endmin, you're an Originium Slug.",
+      "zh-TW": "管理員，您就是源石蟲了。",
+      "zh-CN": "管理员，您就是源石虫了。",
+      "ja": "管理人は……やっぱり、オリジムシです。",
+      "ko": "그리고 관리자님은 원석충 같죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Can't I be something cooler?",
+      "zh-TW": "我就不能是一種更酷的東西嗎？",
+      "zh-CN": "我就不能是一种更酷的东西吗？",
+      "ja": "もっと、かっこいいやつになりたい。",
+      "ko": "좀 더 멋진 동물은 안 되나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "WHAAAA?! C'MON, ORIGINIUM SLUGS ARE SUPER COOOL!!!!",
+      "zh-TW": "源石蟲還不夠酷嗎？！？！",
+      "zh-CN": "源石虫还不够酷吗？！？！",
+      "ja": "オリジムシだって、十分かっこいいと思います！",
+      "ko": "원석충이 안 멋지다고요?!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Have you seen those Originium Slugs in Wuling? Some of them have this mysterious glow...",
+      "zh-TW": "您觀察過出沒在武陵的源石蟲嗎？有一些反射著神秘的光澤……",
+      "zh-CN": "您观察过出没在武陵的源石虫吗？有一些反射着神秘的光泽……",
+      "ja": "武陵にいるオリジムシ、見たことありますか？中には、不思議な光を出すのもいて……",
+      "ko": "무릉에 있는 원석충을 관찰해 보신 적 있으세요? 엄청 신비로운 빛을 발산하는데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "They're super rare! Just like you!!",
+      "zh-TW": "很少見！跟您很像的！！",
+      "zh-CN": "很少见！跟您很像的！！",
+      "ja": "とっても珍しいんです。管理人に、そっくりです！",
+      "ko": "정말 흔하지 않아요! 관리자님이랑 아주 닮았다니까요!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Oh, and they're amazing too!",
+      "zh-TW": "嗯，很厲害！！",
+      "zh-CN": "嗯，很厉害！！",
+      "ja": "うん、つまり……すごいってことです！",
+      "ko": "정말 정말! 엄청 대단하다고요!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So ... what animal would you be?",
+      "zh-TW": "那你像什麼小動物？",
+      "zh-CN": "那你像什么小动物？",
+      "ja": "君は、何の動物に似ていると思う？",
+      "ko": "그럼 여풍 씨는 무슨 동물인가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Me?",
+      "zh-TW": "我？",
+      "zh-CN": "我？",
+      "ja": "僕、ですか？",
+      "ko": "저요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Uh... I've never thought about it. I guess I'd be a plant...",
+      "zh-TW": "呃……我沒想過。我總覺得我應該像一種植物……",
+      "zh-CN": "呃……我没想过。我总觉得我应该像一种植物……",
+      "ja": "うーん……考えたことありませんでした。でも、動物よりは、植物かも……",
+      "ko": "음... 그건 아직 생각 안 해봤네요. 저는 왠지 동물보다는 식물 같다는 느낌이 들어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Maybe that grass that rolls around in the wind.",
+      "zh-TW": "就是那種隨著風滾來滾去的草。",
+      "zh-CN": "就是那种随着风滚来滚去的草。",
+      "ja": "風に吹かれて転がる、あの草みたいな……",
+      "ko": "바람에 이리저리 굴러다니는 그런 풀 말이에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Plants don't move that much.",
+      "zh-TW": "植物才沒有這麼好動。",
+      "zh-CN": "植物才没有这么好动。",
+      "ja": "植物は、そんなに動いたりしないと思うよ。",
+      "ko": "식물은 그렇게 활발하지 않아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Ah, you misunderstood me!",
+      "zh-TW": "不對，管理員沒懂我意思。",
+      "zh-CN": "不对，管理员没懂我意思。",
+      "ja": "ち、違いますよ！そういう意味じゃなくて！",
+      "ko": "아뇨, 제 말은 그게 아니라..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Some bugs love to ride in that grass, traveling with it to faraway places.",
+      "zh-TW": "其實有些小蟲子很愛待在這種草裡面，可以隨著它們一起去一些遙遠的地方。",
+      "zh-CN": "其实有些小虫子很爱待在这种草里面，可以随着它们一起去一些遥远的地方。",
+      "ja": "その草の中には、小さなムシが住むんです。それで、一緒に遠くまで転がって行くんです。",
+      "ko": "사실 어떤 벌레들은 이런 풀 속에 있는 걸 좋아해서, 풀을 따라 먼 곳으로 같이 이동할 수 있어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Like ... the star map on Dijiang! The planets' orbits hold their friends in a safe embrace!",
+      "zh-TW": "就像……我在帝江號上看到的星圖！行星的軌道環繞在星球上，提供堅實的臂膀，擁抱著它的夥伴！",
+      "zh-CN": "就像……我在帝江号上看到的星图！行星的轨道环绕在星球上，提供坚实的臂膀，拥抱着它的伙伴！",
+      "ja": "まるで……帝江号で見た星図みたいです。大きな腕みたいな星の軌道が、仲間を包みこんでいるみたいな……",
+      "ko": "그러니까... 제강호에서 본 천체 지도랑 비슷해요! 별 주위를 도는 행성의 궤도가 튼튼한 팔이 돼서, 옆에 있는 친구들을 꼭 안아주잖아요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Do Originium Slugs hide in that grass too?",
+      "zh-TW": "源石蟲也會待在裡面嗎？",
+      "zh-CN": "源石虫也会待在里面吗？",
+      "ja": "オリジムシもその中にいる？",
+      "ko": "원석충도 안에 있을까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Of course they do! The grass gives their little feet solid support, and they enjoy drinking the fresh dew on the leaves.",
+      "zh-TW": "當然，源石蟲也會！這種草葉能夠為蟲的足部提供充足的支撐，牠們也很喜歡汲取葉片上的新鮮露水。",
+      "zh-CN": "当然，源石虫也会！这种草叶能够为虫的足部提供充足的支撑，它们也很喜欢汲取叶片上的新鲜露水。",
+      "ja": "もちろんです！オリジムシもいます。あの草の葉っぱは、ムシの足をしっかり支えてくれます！たまった露だって、飲めますし！",
+      "ko": "그럼요, 원석충도 분명 있을 거예요! 풀은 벌레들이 잘 일어설 수 있게 지지대가 되어 줄 수 있어요. 또 벌레들은 잎사귀 위에 있는 신선한 이슬을 마시는 것도 좋아하죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Good.",
+      "zh-TW": "那就好。",
+      "zh-CN": "那就好。",
+      "ja": "それなら安心だね。",
+      "ko": "그럼 다행이네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Huh?",
+      "zh-TW": "欸？什麼那就好？",
+      "zh-CN": "欸？什么那就好？",
+      "ja": "え？「安心」って……どういう意味ですか？",
+      "ko": "다행이라뇨? 뭐가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Lifeng",
+      "zh-TW": "黎風",
+      "zh-CN": "黎风",
+      "ja": "リーフォン",
+      "ko": "여풍"
+     },
+     "text": {
+      "en": "Anyway, next time I'll bring an Originium Slug for you! I promise it'll be totally one-of-a-kind!",
+      "zh-TW": "總之，我下次帶一隻來給您看看，和大多數源石蟲都不一樣！",
+      "zh-CN": "总之，我下回带一只来给您瞧瞧，和大多数源石虫都不一样！",
+      "ja": "とにかく……今度1匹連れてきますね！普通のオリジムシと、全然違うんですよ！",
+      "ko": "아무튼 다음에 한 마리 데려와서 보여드릴게요. 일반적인 원석충과는 다를거 예요!"
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 3
+}

@@ -45,6 +45,8 @@ sources:
 
 Perlica is Endfield Industries' Supervisor and official spokesperson, overseeing Protocol-Originium technology and Dijiang while leading the Crisis Team during the Endministrator's hibernation.
 
+Files, voice lines and chats: [Perlica's file](/story/perlica/).
+
 ## How to obtain
 
 Every account has Perlica from the start of the game. The four starting operators are Endministrator, Perlica, Chen Qianyu and Wulfgard.

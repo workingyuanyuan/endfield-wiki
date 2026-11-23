@@ -116,7 +116,8 @@ def page(src, rel):
 
 
 base = os.path.join(root, 'zh-tw')
-files = sorted(glob.glob(base + '/**/*.md', recursive=True))
+# story/ is written by pipeline/build_story.py from the game's own Simplified Chinese text.
+files = sorted(f for f in glob.glob(base + '/**/*.md', recursive=True) if not os.path.relpath(f, base).startswith('story' + os.sep))
 for f in files:
     page(f, os.path.relpath(f, base))
 print(len(files), 'pages written to', os.path.join(root, 'zh-cn'))

@@ -20,9 +20,10 @@
 //  8. llms.txt: notes, bundles and other languages within the first 5,000 characters.
 //  9. The 404 page links each language's home page and page list.
 // 10. robots.txt names the sitemap and carries a Content-Signal line.
-// 11. The header links the first page of each sidebar section (versions, operators, systems,
-//     AIC); the page notes link the Markdown twin, llms.txt and index.json; no text in <main>
+// 11. The header links the first page of each sidebar section (versions, operators, story,
+//     systems, AIC); the page notes link the Markdown twin, llms.txt and index.json; no text in <main>
 //     is about the site or the page (scripts/check-page-text.mjs).
+// 12. Story pages show every line of records/story/ unchanged.
 // Being found: title, description, canonical, hreflang and sitemap (scripts/check-found.mjs).
 
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
@@ -40,7 +41,7 @@ import { checkHeaderAndOutputs, checkSelfReference } from './check-page-text.mjs
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
 const LIMIT = 5000;
 // The top-level sidebar groups, in order, by the id of their first page (astro.config.mjs).
-const SECTIONS = ['versions', 'operators', 'systems', 'aic'];
+const SECTIONS = ['versions', 'operators', 'story', 'systems', 'aic'];
 const failures = [];
 const fail = (page, message) => failures.push(`${page}: ${message}`);
 
@@ -71,6 +72,20 @@ const english = pages.filter((p) => localeOf(p.id) === LOCALES[0]);
 const pendingRaw = readPending();
 /** Locale -> set of bare page ids that language lacks. */
 const pending = new Map(LOCALES.map((l) => [l, new Set()]));
+// A JSDOM window holds its whole document until it is closed and the event loop has turned;
+// with long pages (story text) the checks run out of memory unless each page's windows are
+// closed and the loop yields before the next page.
+const openWindows = [];
+const jsdom = (html, options) => {
+	const dom = new JSDOM(html, options);
+	openWindows.push(dom.window);
+	return dom;
+};
+const closeWindows = async () => {
+	while (openWindows.length) openWindows.pop().close();
+	await new Promise((resolve) => setImmediate(resolve));
+};
+
 for (const [dir, list] of Object.entries(pendingRaw)) {
 	const locale = LOCALES.find((l) => l.dir && l.dir === dir);
 	if (!locale) {
@@ -131,13 +146,14 @@ const fallbackHtml = new Map(
 	[...pending].flatMap(([locale, set]) => [...set].map((bare) => [(htmlPath(idInLocale(bare, locale)) + 'index.html').slice(1), idInLocale(bare, locale)]))
 );
 for (const file of htmlFiles(DIST)) {
+	await closeWindows();
 	if (file === '404.html' || expectedHtml.has(file)) continue;
 	if (!fallbackHtml.has(file)) {
 		fail(file, 'HTML page without a content entry');
 		continue;
 	}
 	// A fallback is not a page of its language: noindex, no hreflang, no JSON-LD, not searched.
-	const head = new JSDOM(read(file)).window.document;
+	const head = jsdom(read(file)).window.document;
 	if (head.querySelector('meta[name="robots"]')?.getAttribute('content') !== 'noindex') fail(file, 'fallback page without <meta name="robots" content="noindex">');
 	if (head.querySelector('link[hreflang]')) fail(file, 'fallback page with hreflang links');
 	if (head.querySelector('script[type="application/ld+json"]')) fail(file, 'fallback page with JSON-LD');
@@ -157,6 +173,7 @@ for (const id of fallbackHtml.values()) {
 }
 
 for (const { id, data } of pages) {
+	await closeWindows();
 	const mdFile = mdPath(id).slice(1);
 	const htmlFile = (htmlPath(id) + 'index.html').slice(1);
 	if (!existsSync(join(DIST, htmlFile))) {
@@ -169,7 +186,7 @@ for (const { id, data } of pages) {
 	}
 	const md = read(mdFile);
 	const html = read(htmlFile);
-	const dom = new JSDOM(html, { url: SITE + htmlPath(id) });
+	const dom = jsdom(html, { url: SITE + htmlPath(id) });
 	const doc = dom.window.document;
 
 	// 1. Pairing
@@ -195,7 +212,8 @@ for (const { id, data } of pages) {
 
 	// 2. Clean Markdown
 	const mdProse = md.replace(/^```[^\n]*\n[\s\S]*?^```/gm, '').replace(/`[^`\n]*`/g, '');
-	if (/<[A-Z][A-Za-z]*[\s/>]/.test(mdProse)) fail(id, 'JSX component tag in Markdown twin');
+	// An escaped \< is text (game text such as \<MARTHE 월간지\>), not a tag.
+	if (/(?<!\\)<[A-Z][A-Za-z]*[\s/>]/.test(mdProse)) fail(id, 'JSX component tag in Markdown twin');
 	if (/^import\s.+from\s/m.test(mdProse)) fail(id, 'MDX import in Markdown twin');
 	if (/^:::/m.test(mdProse)) fail(id, '`:::` directive in Markdown twin');
 
@@ -222,7 +240,7 @@ for (const { id, data } of pages) {
 	}
 
 	// 4. Equivalence, on the article that a readability-style extractor keeps.
-	const article = new Readability(new JSDOM(html, { url: SITE + htmlPath(id) }).window.document).parse();
+	const article = new Readability(jsdom(html, { url: SITE + htmlPath(id) }).window.document).parse();
 	const mainEl = doc.querySelector('main');
 	const extracted = turndown.turndown(mainEl.innerHTML);
 	const mdBody = md.slice(md.indexOf('\n---\n') + 5);
@@ -264,7 +282,7 @@ for (const { id, data } of pages) {
 		const direct = mine.filter((p) => head.includes(`(${withBase(htmlPath(p.id))})`) || head.includes(`(${SITE}${htmlPath(p.id)})`));
 		const indexHeads = direct.map((p) => {
 			const file = (htmlPath(p.id) + 'index.html').slice(1);
-			const parsed = new Readability(new JSDOM(read(file), { url: SITE + htmlPath(p.id) }).window.document).parse();
+			const parsed = new Readability(jsdom(read(file), { url: SITE + htmlPath(p.id) }).window.document).parse();
 			return turndown.turndown(parsed?.content ?? '').slice(0, LIMIT);
 		});
 		for (const other of mine) {
@@ -358,7 +376,7 @@ for (const locale of LOCALES) {
 }
 
 // 9. A wrong URL is not a dead end: the 404 page links each language's home and page list.
-const notFound = new JSDOM(read('404.html')).window.document;
+const notFound = jsdom(read('404.html')).window.document;
 for (const locale of LOCALES) {
 	for (const href of [locale.dir ? `/${locale.dir}/` : '/', llmsPath(locale)].map(withBase)) {
 		if (!notFound.querySelector(`main a[href="${href}"]`)) fail('404.html', `no link to ${href}`);
@@ -370,6 +388,30 @@ const robots = existsSync(join(DIST, 'robots.txt')) ? read('robots.txt') : '';
 if (!robots.includes(`Sitemap: ${SITE}/sitemap-index.xml`)) fail('robots.txt', 'missing or without the sitemap');
 if (!/^Content-Signal: /m.test(robots)) fail('robots.txt', 'no Content-Signal line');
 
+
+// 12. Story pages show the game's text as the game gives it: every line of every file, voice
+//     line and chat line in records/story/ appears unchanged in the page's text.
+for (const { id } of pages.filter((p) => /^(?:[a-z-]+\/)?story\/(?!index$)[^/]+$/.test(p.id) && bareId(p.id) !== 'story')) {
+	await closeWindows();
+	const slug = bareId(id).slice('story/'.length);
+	const rec = JSON.parse(readFileSync(new URL(`../records/story/${slug}.json`, import.meta.url), 'utf8'));
+	const lang = localeOf(id).lang;
+	const doc = jsdom(read(htmlPath(id).slice(1) + 'index.html')).window.document;
+	const text = normalize(doc.querySelector('main').textContent);
+	const texts = [];
+	const walk = (items) => items.forEach((it) => (it.choice ? it.choice.forEach(walk) : texts.push(it.text[lang])));
+	for (const f of rec.files) texts.push(f.title[lang], f.text[lang]);
+	for (const v of rec.voice) texts.push(v.title[lang], v.text[lang]);
+	for (const c of rec.chats) {
+		texts.push(c.topic[lang]);
+		walk(c.lines);
+	}
+	for (const t of texts) {
+		for (const line of t.split('\n').map(normalize).filter(Boolean)) {
+			if (!text.includes(line)) fail(id, `game text not shown as given: ${line.slice(0, 60)}`);
+		}
+	}
+}
 
 checkFound(DIST, pages, fail);
 

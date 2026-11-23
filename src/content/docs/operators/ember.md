@@ -51,6 +51,8 @@ sources:
 
 Ember is an elite of the Assault Banner of the northern Order of Steel Oath who returned to the Civilization Band to recruit successors and accepted an invitation to work with Endfield Industries.
 
+Files, voice lines and chats: [Ember's file](/story/ember/).
+
 ## How to obtain
 
 Ember has no rate-up banner. Five standard 6-star operators are in the pool of Basic Headhunting and of every Chartered Headhunting banner: Ember, Lifeng, Ardelia, Last Rite and Pogranichnik.

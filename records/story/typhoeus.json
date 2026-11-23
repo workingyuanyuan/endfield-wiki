@@ -1,0 +1,3699 @@
+{
+ "slug": "typhoeus",
+ "gameId": "chr_0034_typhoea",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "[CODENAME] Typhoeus\nGENDER: Female\nAUTHENTICATION: Rhodes Island\nDOB: January 13\nRACE: Sarkaz\n[ORIPATHY INFECTION STATUS]\nOripathy negative, based on medical examination reports.\n\n[INTEGRATED PHYSICAL EXAMINATION]\nPHYSIOLOGICAL STRENGTH: Excellent\nCOMBAT SKILL: Excellent\nTACTICAL ACUMEN: Normal\nORIGINIUM ARTS ASSIMILATION: Standard",
+    "zh-TW": "【代號】提弗洛斯\n【性別】女\n【身分認證】羅德島\n【生日】1月13日\n【種族】薩卡茲\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：優良\n作戰技巧：優良\n戰術規劃：普通\n源石技藝適應性：標準",
+    "zh-CN": "【代号】提弗洛斯\n【性别】女\n【身份认证】罗德岛\n【生日】1月13日\n【种族】萨卡兹\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：优良\n作战技巧：优良\n战术规划：普通\n源石技艺适应性：标准",
+    "ja": "【コードネーム】ティフォロス\n【性別】女\n【身分証明】ロドス・アイランド\n【誕生日】1月13日\n【種族】サルカズ\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：優秀\n戦闘技術：優秀\n戦術立案：普通\nアーツ適性：標準",
+    "ko": "[코드네임] 티프로스\n[성별] 여\n[신분 인증] 로도스 아일랜드\n[생일] 1월 13일\n[종족] 살카즈\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 우수\n작전 기술: 우수\n전술 계획: 일반\n오리지늄 아츠 적응성: 표준"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Typhoeus, a reconvener from Rhodes Island. She crossed paths with the Endministrator during her journey in search of the lost legends of Sami, and later joined Endfield Industries at the Endministrator's personal invitation.\n\nWhen speaking with Miss Typhoeus, the composure and steadiness she displayed far surpassed that of most adults, yet her insatiable curiosity and those ill-timed probing glances still betrayed a childlike nature beneath. Per protocol, I had many questions to ask her, but the moment she brought out her notebook, I could never seem to find the right opportunity to pose a single one.\nIt was hard to imagine that one person could have so many questions that even I grew tired of answering them. I once reminded her that many of her questions could be answered in the Operator Onboarding Manual, but she twirled her pen and said calmly that she was fascinated by the way I told things.\nAfter three hours of questioning, she left satisfied. Before she closed her notebook, I caught a glimpse of her evaluation of me:\n\"Three heads, knows everything, answers every question, every legend needs a character like that.\"\n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員提弗洛斯，來自羅德島的再旅者幹員，在追尋薩米失落傳說的旅途中與管理員偶遇，後經管理員本人邀請，加入終末地工業。\n\n與提弗洛斯小姐交談時，她表現出的冷靜與沉穩遠超成年人，但旺盛的好奇心與不合時宜的探究眼神還是暴露出了她的孩子心性。按流程，我應該詢問她很多，但當她將自己的筆記本拿出來後，我就找不到適合的時機向她提問了。\n很難想像，一個人的問題可以多到讓我都疲於應付。我曾提醒她，許多問題都可以在那本《新進幹員手冊》中得到答案，她卻轉了圈筆，平靜地說，她對我講述事情的方式很著迷。\n長達三個小時的盤問結束後，她滿意離開，在她闔上那本筆記前，我掃描到了她對我的評價：\n「三個腦袋，無所不知，有問必答，傳說故事裡總需要這樣的角色。」\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员提弗洛斯，来自罗德岛的再旅者干员，在追寻萨米失落传说的旅途中与管理员偶遇，后经管理员本人邀请，加入终末地工业。\n\n与提弗洛斯小姐交谈时，她表现出的冷静与沉稳远超成年人，但旺盛的好奇心与不合时宜的探究眼神还是暴露出了她的孩子心性。按流程，我该询问她很多，但当她将自己的笔记本拿出后，我就找不到合适的时机向她提问了。\n很难想象，一个人的问题可以多到让我都疲于应付。我曾提醒她，许多问题都可以在那本《新进干员手册》中得到答案，她却转了圈笔，平静地说，她对我讲述事情的方式很着迷。\n长达三个小时的盘问结束后，她满意离开，在她合上那本笔记前，我扫描到了她对我的评价：\n“三个脑袋，无所不知，有问必答，传说故事里总需要这样的角色。”\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "ティフォロスは、ロドスから来た再旅者である。サーミの失われた伝説を追う旅の途中で管理人と偶然出会い、その後、管理人から勧誘を受けてエンドフィールド工業へ加入した。\n\n「ティフォロスさんと話をしていると、大人をはるかに上回る冷静さと落ち着きを感じますが、旺盛な好奇心と時折見せるその場にそぐわないほど探究心に満ちた眼差しからは、子どもらしさが垣間見えます。規則通りに様々な質問をしようとしたのですが、彼女が自分のノートを取り出してからは、質問するタイミングを完全に見失ってしまいました。」\n「まさか、私が対応に困るほど大量の質問が、彼女1人から出てくるとは……私は彼女に、ほとんどの質問への返答は『新任オペレーターの手引き』に載っていると伝えましたが、彼女はペンを回しながら、私の語り口がとても魅力的だと静かに答えました。」\n「3時間に及ぶ尋問が終わると、彼女は満足そうに立ち去りました。彼女がノートを閉じるとき、私に対する評価が書かれているのが目に入ったのです。」\n『3つの頭を持ち、何でも知っていて、どんな質問にも答えてくれる。伝説の物語には、必ずこういう人物が必要だ。』\n――エンドフィールド人事アシスタント マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 티프로스, 로도스 아일랜드 출신인 리컨비너. 사미의 잃어버린 전설을 좇는 여정 중 관리자와 우연히 만났으며, 이후 관리자의 초청을 받아 엔드필드 공업에 합류했다.\n\n티프로스 씨와 대화를 나누며 느낀 점은, 그녀가 보이는 침착함과 차분함이 어른을 훨씬 넘어선다는 것이었다. 하지만 왕성한 호기심과 때때로 숨기지 못하는 탐구심 어린 눈빛은 그녀가 아직 아이라는 사실을 그대로 드러내고 있었다. 절차상 내가 그녀에게 물어봐야 할 것이 많았다. 하지만 그녀가 자신의 노트를 꺼낸 순간부터, 나는 질문할 타이밍을 좀처럼 잡을 수 없었다.\n이렇게 많은 질문을 할 수 있다니, 나조차 감당하기 힘들 정도였다. 나는 그녀에게 많은 질문의 답은 <신입 오퍼레이터 매뉴얼>에서 찾을 수 있다고 알려 주었다. 그러자 그녀는 펜을 한 바퀴 빙글 돌리고는, 내가 이야기를 설명하는 방식이 무척 흥미롭다고 차분히 말했다.\n세 시간에 걸친 질문 공세가 끝난 뒤, 그녀는 만족한 듯 자리를 떠났다. 그리고 그녀가 노트를 덮기 직전, 나는 그녀가 나에 대해 남긴 평가를 볼 수 있었다.\n'머리가 셋. 모르는 것이 없고, 무엇이든 물으면 답해 준다. 전설 이야기에는 늘 이런 역할이 필요하다.'\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Having an operator like Typhoeus, who excels at wilderness survival, join us has made our work in the north go much more smoothly.\nAlthough Endfield works closely with the Order of Steel Oath, they are often too occupied with their own battles to spare much time for us. More often than not, they lead us to the site of a rift, then must return to the front lines, leaving the rest of the work to us.\nThe polar environment is harsh, with year-round snow cover and extremely low temperatures, creating many difficulties for our monitoring work. A sudden blizzard destroyed our camp and knocked out all our instruments. In despair, we wrapped ourselves in every blanket we had, waiting to be consumed by the frozen wasteland. Fortunately, Operator Typhoeus arrived just in time.\nAlong with her came an entire animal leg.\nIn the ruins, Typhoeus lit a campfire and brought warmth with a Sami-style barbecue. She then ventured alone into the blizzard, returning with wood and bark, and in just one afternoon, built a log cabin large enough for four people using nothing but primitive materials.\nThough she knew nothing about the facilities we brought, she was still able to set up a stable environment for them to run properly according to our needs. When we faced the rifts head-on, she efficiently cleared away the attacking swarms of Aggeloi using her hunting experience, assisting us in placing the equipment and retrieving critical data.\nAside from her outdoors survival skills, what everyone trusted most was her remarkably accurate intuition.\nYes, relying on a colleague's intuition for work does not sound like something a professional would say. But when all our navigation facilities were down, her instincts were what allowed us to narrowly dodge danger and evacuate safely. Throughout the journey, we were constantly on edge, yet she never showed a hint of fear, always calmly pointing the way through the snowstorm for everyone.\nSome speculate that it was the Cyclops living in the mountains who taught Typhoeus how to see the future. But I believe that this is simply the way the Sami people coexist with nature. By placing themselves within it and becoming part of it, they can keenly perceive nature's breath, its pulse, its heartbeat, and in doing so, receive the revelations that nature bestows.",
+    "zh-TW": "有提弗洛斯這樣擅長野外生存的幹員加入，讓我們在北方的工作順利不少。\n終末地雖與鐵誓軍合作密切，但對方戰事繁忙，難以抽身，往往將我們帶至裂隙發生地，就得繼續返回戰場，剩下的工作，只能靠我們自己。\n極地環境複雜，常年積雪覆蓋，氣溫很低，給我們的監測工作造成許多困難。一次突發的暴風雪將我們的營地摧毀，儀器設備全面癱瘓。絕望中，我們將所有毛毯裹在身上，等待被這冰天雪地吞噬，但好在，提弗洛斯幹員及時趕到了。\n與她一同出現的，還有一整隻獸腿。\n廢墟中，提弗洛斯升起篝火，用一頓薩米風味燒烤帶來溫暖。隨後又孤身深入風雪中，帶回木頭和樹皮，僅僅花了一個下午，就在完全原始的環境中搭建出了可供四人容身的木屋。\n雖然她對我們帶來的設備一竅不通，但依然能依照我們的需求，搭建可供其良好運作的穩定環境。當我們面對裂隙時，她能藉助狩獵經驗高效清理來襲的天使群，協助我們放置設備，獲得關鍵數據。\n除卻野外生存經驗不談，最令大家信賴的，是她極為準確的預感。\n是的，靠同事的預感進行工作，不像是專業的人會說的話，但在導航設備全部癱瘓的時候，我們卻能夠憑藉她的預感，僥倖與危險擦肩而過，平安撤離。行進路上，我們一直提心吊膽，她卻不曾面露懼色，總是平靜地為大家在雪暴中指出道路。\n有人猜測，是生活在群山中的獨眼巨人教會提弗洛斯該如何洞見未來。但我認為，或許這便是薩米人與自然的相處之道——置身其中，融入其中，才能敏銳感知自然的呼吸、脈搏與心跳，從而獲得自然賜予的「啟示」。",
+    "zh-CN": "有提弗洛斯这样擅长野外生存的干员加入，让我们在北方的工作顺利不少。\n终末地虽与铁誓军合作密切，但对方战事繁忙，难以抽身，往往将我们带至裂隙发生地，就得继续返回战场，剩下的工作，只能靠我们自己。\n极地环境复杂，常年积雪覆盖，气温很低，给我们的监测工作造成许多困难。一次突发的暴风雪将我们的营地摧毁，仪器设备全面瘫痪。绝望中，我们将所有毛毯裹在身上，等待被这冰天雪地吞噬，但好在，提弗洛斯干员及时赶到了。\n与她一同出现的，还有一整只兽腿。\n废墟中，提弗洛斯升起篝火，用一顿萨米风味烧烤带来温暖。随后又孤身深入风雪中，带回木头和树皮，仅仅花了一个下午，就在完全原始的环境中搭建出了可供四人容身的木屋。\n虽然她对我们带来的设备一窍不通，但依然能按我们的需求，搭建可供其良好运行的稳定环境。当我们直面裂隙时，她能借助狩猎经验高效清理来袭的天使群，协助我们放置设备，获取关键数据。\n除却野外生存经验不谈，最令大家信赖的，是她极为准确的预感。\n是的，靠同事的预感进行工作，不像是专业的人会说的话，但在导航设备全部瘫痪的时候，我们却能够凭借她的预感，侥幸与危险擦肩而过，平安撤离。行进路上，我们一直提心吊胆，她却不曾面露惧色，总是平静地为大家在雪暴中指出道路。\n有人猜测，是生活在群山中的独眼巨人教会提弗洛斯该如何洞见未来。但我认为，或许这便是萨米人与自然的相处之道——置身其中，融入其中，才能敏锐感知自然的呼吸、脉搏与心跳，从而获得自然赐予的“启示”。",
+    "ja": "ティフォロスのように野外でのサバイバルを得意とするオペレーターが加わってくれたおかげで、北方での私たちの仕事はずいぶん楽になりました。\nエンドフィールドは鉄誓軍と密接に協力していますが、彼らは戦闘で多忙を極め、なかなか手が離せません。私たちを裂け目の発生場所まで送り届けると、大抵すぐに戦場へと引き返してしまうため、残りの作業は私たち自身でやらざるを得ないのです。\n極地の環境は複雑で、一年中雪に覆われ気温も非常に低いため、モニタリング作業には多くの困難が伴います。あるとき、突然の吹雪によって野営地が破壊され、観測機器が完全にマヒしてしまったことがありました。絶望の中で、私たちはありったけの毛布を体に巻きつけ、ただ氷雪に呑み込まれるのを待つしかありませんでした。しかし幸いなことに、ティフォロスがすぐに駆けつけてくれたのです。\nそして彼女が持ってきたのは、なんと獣の脚まるごと1本でした。\n廃墟の中でティフォロスは焚き火を起こし、サーミ風のバーベキューを振る舞い、私たちを温めてくれました。その後、彼女はひとり吹雪の中に向かい木材や樹皮を持ち帰ると、その日の午後だけで何ひとつ揃っていない場所に4人が身を寄せられる小屋を建ててしまったのです。\n彼女は私たちが持ってきた観測機器についてはまったくわかっていませんでしたが、私たちの要望通りに、機器が正常に稼働できる安定した環境を整えてくれました。そして、私たちが裂け目に直接立ち向かう際にも、彼女は狩猟の経験を活かしてアンゲロスの群れを効率的に一掃し、私たちが機器を設置して重要なデータを取得できるようサポートしてくれました。\n野外でのサバイバル経験はさておき、皆が最も信頼を寄せているのは、彼女の驚くほど鋭い直感です。\nもちろん、同僚の直感を頼りに仕事をするなんて、専門家が口にすることではないかもしれません。しかし、ナビゲーション機器がすべて使えなくなった状況下でも、私たちは彼女の直感を頼りに間一髪のところで危険を回避し、無事に撤退することができました。道中、私たちは常に不安を感じていましたが、彼女は決して恐れる素振りを見せず、吹雪の中でも常に冷静に道を指し示してくれました。\n山に住むサイクロプスが、ティフォロスに未来を見通す方法を教えたのではないかと考える人もいます。ですが私は、これこそがサーミ人と自然との関わり方なのだと思います。自然の中に身を置き、そこに溶け込むことで、その呼吸、脈動、そして鼓動を敏感に感じ取り、自然からの「啓示」を受け取ることができるのでしょう。",
+    "ko": "티프로스처럼 야외 생존에 능한 오퍼레이터가 합류한 덕분에, 북쪽에서의 업무는 훨씬 수월해졌다.\n엔드필드는 철의 서약군과 긴밀히 협력하고 있지만, 그쪽은 전황이 급박해 오래 자리를 비우기 어렵다. 대개 우리를 균열 발생 지점까지 안내한 뒤에는 곧바로 전장으로 돌아가야 했고, 남은 작업은 결국 우리 힘으로 해결해야 했다.\n극지 환경은 복잡하다. 사시사철 눈으로 뒤덮여 있고, 기온도 매우 낮아 우리의 감시 작업에 많은 어려움을 주었다. 한 번은 갑작스러운 눈보라가 생활 구역을 덮쳐 모든 시설이 무너지고, 설비도 전부 작동을 멈춘 적이 있었다. 절망 속에서 우리는 가진 담요를 모두 몸에 두른 채, 이 눈과 얼음에 삼켜지기만을 기다리고 있었다. 다행히 그때 오퍼레이터 티프로스가 제때 도착했다.\n그녀와 함께 나타난 것은, 짐승의 다리 한 짝이었다.\n폐허 한가운데에서 티프로스는 모닥불을 피우고, 사미식 고기구이 한 끼로 우리에게 온기를 되찾아 주었다. 이후에는 홀로 눈보라 속으로 들어가 나무와 나무껍질을 가져왔고, 단 한나절 만에 아무 기반도 없는 환경에서 네 사람이 몸을 의탁할 수 있는 오두막을 지었다.\n우리가 가져온 설비에 대해서는 전혀 몰랐지만, 그녀는 우리가 설명한 조건에 맞춰 장비가 안정적으로 작동할 수 있는 환경을 마련해 주었다. 우리가 균열과 직접 마주했을 때도, 그녀는 사냥 경험을 바탕으로 몰려드는 아겔로스 무리를 빠르게 처리했고, 우리가 장비를 배치해 핵심 데이터를 확보할 수 있도록 도왔다.\n야외 생존 경험을 제외하고도, 모두가 그녀를 가장 믿게 된 이유는 놀라울 만큼 정확한 예감이었다.\n물론 동료의 예감에 의지해 일한다는 말이 전문가답게 들리지 않는다는 건 안다. 하지만 모든 내비게이션 장비가 먹통이 된 상황에서, 우리는 그녀의 예감 덕분에 가까스로 위험을 피하고 무사히 철수할 수 있었다. 이동하는 내내 우리는 마음을 졸였지만, 그녀는 조금도 두려운 기색을 보이지 않았다. 늘 침착하게 눈보라 속에서 모두가 나아갈 길을 가리켜 주었다.\n누군가는 산맥에 사는 사이클롭스가 티프로스에게 미래를 내다보는 법을 가르쳐 준 것이라고 추측했다. 하지만 나는 그것이 어쩌면 사미인이 자연과 함께 살아가는 방식일지도 모른다고 생각한다. 그 안에 몸을 두고, 그 일부가 되어야만 자연의 숨결과 맥박, 심장 박동을 예민하게 느끼고, 자연이 내려 주는 '계시'를 받을 수 있을 테니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "\"Endfield is a legitimate enterprise. You need to learn to distinguish fact from rumor. Not all those legends are true.\"\nEvery time a new employee joins Endfield, the veteran staff makes a point of reminding them of this.\nThat was until Operator Typhoeus joined Endfield, and all that effort went down the drain. With her rambling, mystical tales, this girl blurred the line between rumor and reality, turning us from a company with a certain legendary flair into ... a legend, plain and simple.\nThe mysterious characters flashing across the screens, the crying sounds echoing from the bridge late at night, the lighting fixtures in the Engineering Division that never seem to stay fixed, always flickering on and off when someone is alone. These little coincidences, easily dismissed with a laugh, were gathered and woven together by Typhoeus into a spine-chilling legend.\n\nLong ago, the equipment aboard the sky vessel Dijiang was constantly breaking down. The poor craftsmen had no choice but to take shelter in the workshop, forging and repairing day and night without rest. Yet after a full year of toil, the number of machines awaiting repair only grew, piling up around them like an unbroken mountain range.\nConsumed by rage, his last shred of kindness was spent. He transformed into a vengeful spirit and entered the machinery itself, vowing to take revenge on every careless soul who cut corners in their operations.\nThe lights flickering in the night are the sign of his patrol.\n— An entry from Typhoeus's notebook.\n\nAfter this story spread across Dijiang, the number of damage reports on the Engineering Division's repair list for that month dropped significantly.\nAfter looking into the matter, the stunned Mr. Andre gave a fair assessment of the story: this was not a story, but an indisputable fact.\nAnd this was just one chapter among the many legends Typhoeus had written for Endfield. In her notebook, the Endministrator was the great sage holding the Stone of Origin, Supervisor Perlica was the lightning mage wielding the power of thunder, Miss Chen was a ranger carrying a longsword. And everything Endfield did on Talos-II was planting great stone swords across the land to maintain peace in the world and protect all living things.\nA twelve-year-old child would find these tales childish, but for the Endfield operators with their heads full of whimsy, they were just right.\n\"When I am working now, I imagine myself as a mysterious Sami Snowpriest. When the equipment overheats, I shout out ancient invocations...\" And with that, Andre picked up the cooling gun from the corner, aimed it at the machine, and cried out, \"O wind and snow, descend upon the mortal world!\"",
+    "zh-TW": "「終末地是一家正經企業，要學會分辨事實和謠言，那些傳說不都是真的。」\n每當有新員工加入終末地時，老員工會刻意提醒他們。\n直到幹員提弗洛斯加入終末地，一切努力付諸流水。這個女孩用她神神秘秘的故事模糊了謠言與現實，讓我們從一家有傳奇色彩的企業徹底變成了……傳奇。\n在螢幕上閃過的神秘字符，深夜在艦橋響起的哭泣聲，工程中心永遠修不好的照明設施，總在人落單的時候一閃一滅……這些本可以一笑了之的「小巧合」，在提弗洛斯的收集整合下，變成了一個令人毛骨悚然的傳說故事。\n\n很久以前，天空之舟帝江號上的器械經常損壞，可憐的工匠只能棲身工坊，日夜不斷進行著鍛造、修復。可一年的辛勞後，待修復的器械卻越來越多，堆在身邊如同群山般連綿起伏。\n激憤消耗了他最後的善意，他化身怨靈進入儀器內部，誓要報復每個為圖省事而不當操作的傢伙。\n夜裡閃爍的燈火，便是他巡行的預兆……\n——提弗洛斯筆記本中的一段紀錄\n\n當這篇故事在帝江號流傳開來後，工程中心當月收到的修復清單上，損壞數量大幅減少。\n震撼的安德烈先生查明原委後，對故事做出了中肯的評價：這不是故事，這是不可辯駁的事實。\n而這只是提弗洛斯為終末地撰寫的諸多傳說中的一章。在她的筆記本裡，管理員是手握初始之石的大賢者，佩麗卡監督是身負閃電之力的雷電法師，陳小姐是背著長劍的遊俠……而終末地在塔衛二所做的一切，則是在這片大地上插滿石之巨劍，維護世間安定，庇佑萬物。\n十二歲的孩子聽到這些傳說會覺得幼稚，但對於腦袋裡充滿奇思妙想的終末地幹員則剛剛好。\n「我現在工作時，會想像自己是來自薩米的神秘雪祀，當儀器過熱時，就大聲呼喊古老的禱詞……」隨後，安德烈從牆角拎起降溫槍，對準機器大喊道，「風雪啊，請降至人間吧！」",
+    "zh-CN": "“终末地是一家正经企业，要学会分辨事实和谣言，那些传说不都是真的。”\n每当有新员工加入终末地时，老员工会刻意提醒他们。\n直到干员提弗洛斯加入终末地，一切努力付诸流水。这个女孩用她神神叨叨的故事模糊了谣言与现实，让我们从一家有传奇色彩的企业彻底变成了……传奇。\n在屏幕上闪过的神秘字符，深夜在舰桥响起的哭泣声，工程中心永远修不好的照明设施，总在人落单的时候一闪一灭……这些本可以一笑了之的“小巧合”，在提弗洛斯的收集整合下，变成了一个令人毛骨悚然的传说故事。\n\n很久以前，天空之舟帝江号上的器械经常损坏，可怜的工匠只能栖身工坊，日夜不断进行着锻造、修复。可一年的辛劳后，待修复的器械却越来越多，堆在身边如同群山般连绵起伏。\n激愤消耗了他最后的善意，他化身怨灵进入仪器内部，誓要报复每个为图省事而不当操作的家伙。\n夜里闪烁的灯火，便是他巡行的预兆……\n——提弗洛斯笔记本中的一段记录\n\n当这篇故事在帝江号流传开来后，工程中心当月收到的修复清单上，损坏数量大幅减少。\n震撼的安德烈先生查明原委后，对故事做出了中肯的评价：这不是故事，这是不可辩驳的事实。\n而这只是提弗洛斯为终末地撰写的诸多传说中的一章。在她的笔记本里，管理员是手握初始之石的大贤者，佩丽卡监督是身负闪电之力的雷电法师，陈小姐是背着长剑的游侠……而终末地在塔卫二所做的一切，则是在这片大地上插满石之巨剑，维护世间安定，庇佑万物。\n十二岁的孩子听到这些传说会觉得幼稚，但对于脑袋里充满奇思妙想的终末地干员则刚刚好。\n“我现在工作时，会想象自己是来自萨米的神秘雪祀，当仪器过热时，就大声呼喊古老的祷词……”随后，安德烈从墙角拎起降温枪，对准机器大喊道，“风雪啊，请降至人间吧！”",
+    "ja": "「エンドフィールドはまともな企業だ。事実と噂を区別することを覚えろ。伝説がすべて真実とは限らない。」\nエンドフィールドに新入社員が入ってくるたび、古株の社員たちはそう釘を刺してきた。\nしかし、ティフォロスがエンドフィールドに加入したことで、すべての努力は水の泡となった。この少女は、その怪しげな物語の数々で噂と現実の境界を曖昧にし、私たちをどこか伝説めいた企業から、完全に……伝説そのものへと変えてしまったのだ。\n画面に一瞬映る謎の文字列、深夜のブリッジに響き渡る泣き声、エンジニア部の永遠に直らない照明設備、1人になったときに限って明滅する光……これらは笑い話で済まされるはずの「ちょっとした偶然」だったが、ティフォロスの手によって収集・整理され、身の毛もよだつような伝説の物語へと変貌を遂げた。\n\nずっと昔、天空の船・帝江号では機械がよく壊れていた。哀れな職人は工房に籠り、昼夜を問わず製造と修理を続けるしかなかった。しかし過酷な労働を1年続けても、修理を待つ機械は山のように積み重なり、増える一方であった。\n激しい怒りによって彼に残された最後の良心も失われ、彼は怨霊となって機械の内部へと入り込んだ。そして、手間を省こうと不適切な操作をするすべての者に復讐を誓った。\n夜に瞬く明かりは、彼が巡回する前兆なのだ……\n――ティフォロスのノートに記された一節\n\nこの話が帝江号に広まると、その月のエンジニア部宛ての修理依頼の数は激減した。\n驚愕したアンドレイが事の顛末を調べ上げたあと、その物語に対して的確な評価を下した。「これは物語なんかじゃあない。疑いようのない事実だ。」\nそれに、これはティフォロスがエンドフィールドのために書き上げた数ある伝説のほんの1章に過ぎない。彼女のノートの中では、管理人は「始まりの石」を握る大賢者、ペリカ監察官は雷の力を身に宿す雷電術師、チェンは長剣を背負った侠客……そしてエンドフィールドがタロⅡで行っていることはすべて、この土地の至るところに巨大な石の剣を突き立て、この世の安定を保ち、万物を庇護するためだとされている。\n12歳の子どもでも、こうした伝説を聞けば幼稚だと思うかもしれないが、奇想天外な考えで頭がいっぱいのエンドフィールドのオペレーターたちにとっては、まさにぴったりだった。\n「今じゃ仕事中、自分はサーミから来た神秘の雪祭司なんだって想像してて。機械がオーバーヒートしたら、古の祈りの言葉を大声で唱えるんだ……」そう言うと、アンドレイは部屋の隅にあった冷却ガンを手に取り、機械に向かって大声で叫んだ――「吹雪よ、人間界に降り注げ！」",
+    "ko": "\"엔드필드는 엄연한 기업이야. 사실과 소문은 구분할 줄 알아야 해. 전부 사실은 아니니까.\"\n새 직원이 엔드필드에 입사할 때마다, 선배들은 일부러 이렇게 당부하곤 했다.\n오퍼레이터 티프로스가 합류하기 전까지는 말이다. 그 아이는 어딘가 수상쩍고도 묘하게 그럴듯한 이야기들로 소문과 현실의 경계를 흐려 놓았다. 덕분에 우리는 엄연한 기업에서, 완전히... 전설 그 자체가 되어 버렸다.\n스크린 위를 스쳐 지나가는 수수께끼의 문자, 한밤중 갑판에서 들려오는 울음소리, 아무리 고쳐도 제대로 작동하지 않는 공학 센터의 조명, 그리고 꼭 누군가 혼자 남았을 때 깜빡이는 불빛... 원래라면 웃어넘길 수 있었을 작은 '우연'들은, 티프로스가 모으고 엮어 낸 뒤 등골이 서늘해지는 전설의 괴담이 되었다.\n\n아주 오래전, 하늘의 방주 제강호의 기계장치는 자주 고장 났다. 가엾은 장인은 공방에 틀어박혀 밤낮없이 기계를 만들고 고쳐야 했다. 그러나 일 년 동안 고생한 끝에도 수리해야 할 기계는 오히려 점점 늘어났고, 그의 곁에 산맥처럼 높이 쌓여만 갔다.\n분노는 그의 마지막 선의마저 태워 버렸다. 그는 원혼이 되어 기계 속으로 스며들었고, 편하자고 함부로 조작하는 모든 이들에게 복수하겠다고 맹세했다.\n밤에 깜빡이는 불빛은 바로 그것이 순찰을 돈다는 징조다...\n- 티프로스의 노트에 적힌 기록 중 일부\n\n이 이야기가 제강호에 퍼진 뒤, 그달 공학 센터에 접수된 수리 목록에서 고장 건수는 크게 줄어들었다.\n충격을 받은 안드레는 전말을 파악한 뒤, 이 이야기에 대해 지극히 타당한 평가를 내렸다. \"이건 이야기가 아니네. 반박할 수 없는 사실이지.\"\n그리고 이것은 티프로스가 엔드필드를 위해 쓴 수많은 이야기 중 한 장에 불과하다. 그녀의 노트에서 관리자는 최초의 돌을 손에 쥔 대현자, 펠리카 감독관은 번개의 힘을 지닌 번개 법사이며, 진천우는 장검을 멘 레인저다... 또한 엔드필드가 탈로스 II에서 하는 모든 일은 이 대지 곳곳에 돌의 대검을 꽂아 세상의 안정을 지키고 만물을 비호하는 위업으로 기록되어 있다.\n열두 살 아이가 들으면 유치하다고 할 법한 이야기다. 하지만 머릿속이 기발한 상상으로 가득한 엔드필드 오퍼레이터들에게는 오히려 딱 알맞았다.\n\"나는 요즘 일할 때, 내가 사미에서 온 신비로운 제사장이라고 상상하네. 장비가 과열되면 고대의 기도문을 크게 외치는 거지...\" 그리고 안드레는 벽 쪽에서 냉각총을 집어 들더니, 기계를 향해 소리쳤다. \"눈보라여, 인간 세상에 강림하소서!\""
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "War Song of the Samifjod\nSun melts the snow,\nUnder the frozen earth, shadows flee. \nBut our wandering does not end. \nSun splits the clouds, \nIn the forest, rain departs. \nBut our warfare does not stop. \nLift shields, don plates, \nFate holds us here. \nUnder the sun, \nWe bleed and fight.\n\nAfter arriving on Talos-II from Terra, the Feranmut Sami ended His years-long drift and chose a plot of land within the polar circle, settling there along with the Myrkwood He carried on His back. Under the Feranmut's protection, the Sami people enjoyed a brief period of peace. But soon, with the destruction of the Cosmic Gate and the outbreak of the First Aggeloi War, the Feranmut Sami gave His life to protect the Sami people, falling in the North Pole. The Sami people barely had time to mourn before they had to join in the construction of the Oathkeepers' fortress. What followed was a long campaign that has continued to this very day.\nWhen Typhoeus awoke on Rhodes Island and learned of her people's current mission, she immediately packed her bags and headed north. But after traveling a great distance to the Oathkeeper's fortress, a Sami Snowpriest just back from the battlefield gave her a pat on the back of the head, a slap reeking of earth, and turned her away at the door.\n\"Come back when you are taller than your bow, then you can go to war.\"\nThough Typhoeus insisted that she was simply petite, no one believed her. After all, her hands had yet to develop the thick calluses that came from years of drawing a bow.\nLost and dejected, she could only board a wagon bound for Myrkwood to meet the kin she had never known. This was the Sami she remembered, the environment, the customs, the language, the accents, all preserved. Yet at the same time, it all felt foreign to her. In the settlement, there were only the elderly, the wounded, and the children. Those who could still bear arms had all chosen to head to the front lines, guarding that line forged of flesh and blood, holding back the Aggeloi's march southward.\nTyphoeus, lost and adrift, remained in Myrkwood. She soon learned that after the fall of Sami, His legends had also been shattered. The elders who knew the old tales had turned to bone on the battlefield alongside Sami himself before they could pass the stories on. So Typhoeus, unable to fight on the front lines, decided to gather those legends and preserve them.\n\nEndmin, did you know? The fall of Sami was Sami's own choice. The people accepted Him and followed without hesitation.\nI found a Foldartal used for divination in Myrkwood. On it was recorded a \"communication\" between the Snowpriest and Sami.\nBefore He descended upon the north, He had warned the people of Myrkwood that He had long foreseen a cruel and protracted war. He would have to go north and, at some future moment, sacrifice Himself to protect all living things.\nHe gave His people the chance to leave...\nBut on the Foldartal were the people's response—\nThe will of Sami is the will of the Sami people. The mission of Sami is the mission of the Sami people. We will go north with you.\nThe hunt never ends.",
+    "zh-TW": "《薩米戰歌》\n陽光融化積雪，\n凍土之下，陰影四散。\n但我們的遷徙不會結束。\n陽光破開雲層，\n森林之中，陰雨不再，\n但我們的戰鬥不會停止。\n拾起盾牌，披上重甲，\n命運令我們停留在此，\n在陽光下，\n浴血奮戰。\n\n從泰拉來到塔衛二後，巨獸薩米結束長達數年的「漂流」，選擇了位於北極圈內的一塊土地，連同背負的黑森林一同落腳於此。在巨獸的庇佑下，薩米人度過了短暫的安寧歲月。但很快，隨著星門被毀，第一次天使戰爭爆發，巨獸薩米為保護薩米人而犧牲，隕落在北極，薩米人甚至來不及哀悼，便要參與到鐵誓軍要塞的建設中。其後，更是一段可謂持續到今日的漫長戰役。\n當提弗洛斯從羅德島甦醒，得知族人當下的使命時，她便立刻收拾行囊趕赴北方。但她千里迢迢來到鐵誓軍要塞後，一位才從戰場退下的薩米雪祀拍了拍她的後腦勺，落下一個帶有泥土腥氣的巴掌，將她拒之門外。\n「等你長得比你的弓更高，再上戰場吧。」\n雖然提弗洛斯堅稱自己只是長得小，但誰都不信，畢竟在她的手上，尚未來得及留下因長期射箭而形成的厚繭。\n失落的她只能乘上前往黑森林的大篷車，去見自己未曾謀面的族人。這是她所熟悉的薩米，環境、習俗、語言、口音，一切都被保留下來。但同時，這裡也讓她覺得陌生，聚落中，只有老者、傷患和孩子，仍能拿起武器的人，都選擇走向戰場，守護那道血肉鑄就的陣線，阻止天使南下的步伐。\n失落的提弗洛斯留在了黑森林中。很快，她便得知薩米沉寂後，祂的傳說也隨之支離破碎，那些知曉往事的老者還未來得及將故事傳誦，便已隨薩米一同在戰場化為骸骨。於是，無法參與前線戰鬥的提弗洛斯決定收集那些傳說並將其保存。\n\n管理員，你知道嗎？薩米的隕落，是薩米的選擇，族人認同，並且義無反顧追隨。\n我在黑森林中找到了一塊用來占卜的密文板，上面記載了雪祀與薩米的「溝通」。\n在祂落至北方前，曾提醒黑森林的族人，自己早已洞見一場殘酷漫長的戰爭，祂必須前往北方，在未來某一刻，犧牲自己，守護所有生靈。\n祂給了族人離開的機會……\n但密文板上，是族人的回答——\n薩米的意志便是薩米人的意志，薩米的使命便是薩米人的使命，我們會同您前往北方。\n狩獵永不結束。",
+    "zh-CN": "《萨米战歌》\n阳光融化积雪，\n冻土之下，阴影四散。\n但我们的迁徙不会结束。\n阳光破开云层，\n森林之中，阴雨不再，\n但我们的战斗不会停止。\n拾起盾牌，披上重甲，\n命运令我们停留在此，\n在阳光下，\n浴血奋战。\n\n从泰拉来到塔卫二后，巨兽萨米结束长达数年的“漂流”，选择了位于北极圈内的一块土地，连同背负的黑森林一同落脚于此。在巨兽的庇佑下，萨米人度过了短暂的安宁岁月。但很快，随着星门被毁，第一次天使战争爆发，巨兽萨米为保护萨米人而牺牲，陨落在北极，萨米人甚至来不及哀悼，便要参与到铁誓军要塞的建设中。其后，更是一段可谓持续到今日的漫长战役。\n当提弗洛斯从罗德岛苏醒，得知族人当前的使命时，她便立刻收拾行囊赶赴北方。但她千里迢迢来到铁誓军要塞后，一位才从战场退下的萨米雪祀拍了拍她的后脑勺，落下一个带有泥土腥气的巴掌，将她拒之门外。\n“等你长得比你的弓更高，再上战场吧。”\n虽然提弗洛斯坚称自己只是长得小，但谁都不信，毕竟在她的手上，尚未来得及留下因长期射箭而形成的厚茧。\n失落的她只能乘上前往黑森林的大篷车，去见自己未曾谋面的族人。这是她所熟悉的萨米，环境、习俗、语言、口音，一切都被保留下来。但同时，这里也让她觉得陌生，聚落中，只有老者、伤患和孩子，仍能拿起武器的人，都选择走向战场，守护那道血肉铸就的阵线，阻止天使南下的步伐。\n失落的提弗洛斯留在了黑森林中。很快，她便得知萨米沉寂后，祂的传说也随之支离破碎，那些知晓往事的老者还未来得及将故事传诵，便已随萨米一同在战场化为骸骨。于是，无法参与前线战斗的提弗洛斯决定收集那些传说并将其保存。\n\n管理员，你知道吗？萨米的陨落，是萨米的选择，族人认同，并且义无反顾追随。\n我在黑森林中找到了一块用来占卜的密文板，上面记载了雪祀与萨米的“沟通”。\n在祂落至北方前，曾提醒黑森林的族人，自己早已洞见一场残酷漫长的战争，祂必须前往北方，在未来某一刻，牺牲自己，守护所有生灵。\n祂给了族人离开的机会……\n但密文板上，是族人的回答——\n萨米的意志便是萨米人的意志，萨米的使命便是萨米人的使命，我们会同您前往北方。\n狩猎永不结束。",
+    "ja": "『サーミ戦歌』\n陽の光が雪を溶かし、\n凍てつく土の下で、影は散り散りとなる。\nしかし、我らの移動は終わらない。\n陽の光が雲を突き抜け、\n森の中で、冷たい雨は止む。\nしかし、我らの戦いは終わらない。\n盾を取り、重き鎧を身にまとえ。\n運命は我らをここに留め、\n陽の光の下で、\n血に塗れて戦う。\n\nテラからタロⅡへと至った巨獣サーミは、数年にわたる「漂流」を終え、北極圏内の一角を安住の地として選んだ。そして、背負っていた黒き森と共にそこへ腰を下ろした。巨獣の庇護のもと、サーミフィヨドは束の間の平穏な日々を過ごした。しかし間もなく、星門は破壊され、第一次アンゲロス戦争が勃発した。巨獣サーミはサーミフィヨドを守るために犠牲となり、北極の地に堕ちた。サーミフィヨドは悲しむ暇もなく、鉄誓軍の要塞建設に参加しなければならなかった。その後も、今日まで続く長い戦いが繰り広げられている。\nロドスで目覚めたティフォロスは、同胞の現在の使命を知ると、すぐに荷物をまとめて北へ向かった。しかし、ようやく鉄誓軍の要塞に到着した彼女を待っていたのは、戦場から退いたばかりのサーミの雪祭司であった。雪祭司は彼女の後頭部を軽く叩くと、土の匂いを帯びた平手をぴしゃりと浴びせ、彼女を追い返してしまった。\n「自分の弓よりも背が高くなってから、戦場に来なさい。」\nティフォロスは自分はただ背が低いだけだと言い張ったが、誰も信じてはくれなかった。なにしろ彼女の手には、長年弓を引き絞っていればあるはずの分厚いタコがまだなかったからだ。\n落胆した彼女は、黒き森へ向かうキャラバンに乗り、まだ見ぬ同胞に会いに行くしかなかった。そこは彼女がよく知るサーミであり、環境、風習、言葉、訛りなど、すべてが昔のままであった。だが同時に、そこは彼女にとってどこか見知らぬ場所でもあった。集落にいるのは老人、負傷者、子供だけ。武器を持てる者は皆、血肉で築かれた防衛線を守り、アンゲロスの南下を食い止めるために戦場へと向かうことを選んだからだ。\n失意の中、ティフォロスは黒き森に留まることにした。ほどなくして彼女は、サーミが黙したあとその伝説もまた散り散りになってしまったことを知った。過去を知る老人たちは物語を語り継ぐ暇もなく、サーミと共に戦場で白骨と化してしまったのだ。そこで、前線での戦いに参加できないティフォロスは、そうした伝説を集めて保存することにした。\n\n管理人、知っているか？サーミが没したのは、サーミ自身の選択なんだ。部族はそれを受け入れ、ためらうことなく従った。\nわたしは黒き森で占いに使われる啓示板を見つけてな。そこには雪祭司とサーミの「対話」が記されていたんだ。\n北の地へ降り立つ前、サーミは黒き森の部族の者たちに警告していた。これから残酷で長い戦争が待ち受けているとわかっていたこと。それでも北へ向かわなければならないこと。そして未来のある瞬間、すべての生きる者を守るために自らを犠牲にしなければならないことを。\nサーミは、部族に去る機会を与えたんだ……\nだが啓示板には、部族の答えが刻まれていた――\nサーミの意志はサーミフィヨドの意志。サーミの使命はサーミフィヨドの使命。我らも共に北へ向かおう、と。\n狩りは永遠に終わらないんだ。",
+    "ko": "<사미의 전쟁 노래>\n햇살이 쌓인 눈을 녹이고\n얼어붙은 땅 아래서 그림자는 흩어지지만\n우리의 이주는 끝나지 않으리.\n햇살이 구름을 가르고\n숲에는 더 이상 궂은비가 내리지 않아도\n우리의 싸움은 멈추지 않으리.\n방패를 들고, 갑옷을 걸쳐라.\n운명이 우리를 이곳에 머물게 했으니\n햇살 아래에서\n피 흘리며 싸우리라.\n\n테라에서 탈로스 II로 건너온 뒤, 베헤모스 사미는 수년에 걸친 '유랑'을 마치고 북극 내의 한 땅을 택했다. 그리고 등에 짊어지고 온 검은 숲과 함께 그곳에 자리 잡았다. 베헤모스의 비호 아래 사미인들은 짧은 평온의 시간을 보냈다. 하지만 그 시간은 오래가지 않았다. 스타게이트가 파괴되고 제1차 아겔로스 전쟁이 발발하자, 베헤모스 사미는 사미인들을 지키기 위해 자신을 희생했고, 북극에서 쓰러졌다. 사미인들은 제대로 애도할 틈도 없이 철의 서약군 요새 건설에 참여해야 했다. 그리고 그 뒤로 이어진 것은, 오늘날까지 계속되고 있다고 해도 과언이 아닌 긴 전쟁이었다.\n티프로스는 로도스 아일랜드에서 깨어난 뒤, 자신의 부족이 지금 어떤 사명을 짊어지고 있는지 알게 되자 곧바로 짐을 꾸려 북쪽으로 향했다. 하지만 먼 길을 달려 철의 서약군 요새에 도착했을 때, 막 전장에서 물러난 사미의 제사장이 그녀의 뒤통수를 툭 쳤다. 흙냄새가 밴 손바닥이었다. 그리고 그녀를 전장 밖으로 돌려보냈다.\n\"네 키가 네 활보다 크면 그때 전장에 나와.\"\n티프로스는 자신이 그저 키가 작은 것뿐이라고 강하게 주장했지만, 아무도 믿지 않았다. 그녀의 손에는 아직 오랫동안 활을 쏘아야 생기는 두꺼운 굳은살조차 제대로 남아 있지 않았기 때문이다.\n낙심한 그녀는 결국 검은 숲으로 향하는 트럭에 올라, 아직 만나 본 적 없는 자신의 부족 사람들을 찾아갔다. 그곳은 그녀가 알고 있던 사미 그대로였다. 환경도, 풍습도, 언어도, 억양도 모두 보존되어 있었다. 하지만 동시에 그곳은 낯설었다. 마을에는 노인과 부상자, 아이들만 남아 있었다. 아직 무기를 들 수 있는 이들은 모두 전장으로 향해, 피와 살로 세운 방어선을 지키고 있었다. 아겔로스들이 남하하지 못하도록 막기 위해서였다.\n상심한 티프로스는 검은 숲에 남았다. 그리고 얼마 지나지 않아, 사미가 침묵에 잠긴 뒤 그분의 전설 또한 산산이 흩어졌다는 사실을 알게 되었다. 옛일을 알고 있던 노인들은 그 이야기를 전할 틈도 없이, 사미와 함께 전장에서 사체가 되어 버렸다. 그래서 최전선에 설 수 없었던 티프로스는 그 전설들을 모아 보존하기로 했다.\n\n관리자, 알아? 사미의 죽음은 사미 스스로의 선택이었어. 부족 사람들은 그 뜻을 받아들였고, 망설임 없이 따랐어.\n나는 검은 숲에서 점술에 쓰이던 암호판을 찾았어. 거기에는 제사장과 사미가 나눈 '대화'가 기록되어 있었어.\n그분이 북쪽에 내려앉기 전, 검은 숲의 부족 사람들에게 알려 줬어. 자신은 이미 잔혹하고 긴 전쟁을 보았고, 반드시 북쪽으로 가야 하며, 언젠가 자신의 목숨을 바쳐 모든 생명을 지켜야 한다고.\n그분은 부족 사람들에게 떠날 기회를 줬어...\n하지만 암호판에 새겨진 건, 부족 사람들의 대답이었어...\n사미의 뜻은 사미인의 뜻, 사미의 사명은 사미인의 사명. 우리는 당신과 함께 북쪽으로 가겠습니다.\n사냥은 영원히 끝나지 않을 것입니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "After the fall of Sami, most of the Sami people accepted the outcome. They live atop the Feranmut's remains, carrying on His will, fighting the Aggelos to protect Talos-II.\nYet there were still Snowpriests who believed that Sami had not truly died. His soul had merely been lost within the rifts, fallen into a deep slumber. One day, Sami would wake from His dream and return to His people. They traveled to the rifts across Talos-II, setting up altars and performing rituals, trying to call Sami's soul back from the fissures. But none who went ever returned. Later, with the northern front growing ever more urgent, no one was willing to continue the attempt.\nIn a snowy forest near the Wuling Very Large Rift, Typhoeus found the manuscripts left behind by one of those Sami Snowpriests. The manuscripts detailed all her attempts to awaken Sami. Though Typhoeus was able to confirm through her own exploration that the ritual had failed and the Snowpriestess had vanished without a trace, the girl still caught a faint whiff of possibility from the remaining materials.\nUnfortunately, after months of study, Typhoeus had made no progress.\nShe asked every Snowpriest and shaman in the Order of Steel Oath and Myrkwood, but they all just shook their heads, believing it to be a doomed endeavor.\nEven after hitting so many dead ends, Typhoeus did not lose heart. The Snowpriestess's unique insights on dreams in the manuscripts taught the girl to perceive special revelations within the dreamscapes of others.\n\n\"I don't know why, but lately I keep dreaming of being chased by a gigantic monster. The ground beneath my feet keeps swaying, as if I am standing on a suspension bridge. I toss and turn all night long...\"\n\"Simple. That monster is hunting you, and you have been cornered.\"\n\"What should I do?\"\n\"Become stronger. Do not be the prey. Be the hunter instead.\"\n\"I think I get it now.\"\n\nAfter that conversation with Typhoeus, the operator mapped out a full month of intensive training for himself. The exhaustion and sense of accomplishment from the workouts let him sleep soundly through the night. Before long, Endfield colleagues began showing up at Typhoeus's door with all sorts of dreams, asking her to read and interpret them.\nAnd Typhoeus, after listening to everyone's dreams, drew inspiration from them to craft a legend of her own, one that wove together the Feranmut Sami, dreams, and the Snowpriests.\nSoon, Typhoeus finished writing the ending. She thought the matter would settle just like the story itself. So she gathered her notes and set off to share the conclusion with those who had been waiting eagerly. But halfway there, she brushed past a young girl in the corridor.\nTyphoeus did not recognize her, yet she felt a strangely familiar presence emanating from her.\nIt was a presence that had accompanied her people through swamps and forests, through winters and into springs, from birth all the way to death.\nBy the time Typhoeus came to her senses, the girl had already walked far away.\nLater, she learned from others the girl's codename: Last Rite.\nDriven by a mysterious premonition, she tore out the ending she had written and wrote that codename on a fresh page instead.",
+    "zh-TW": "自薩米隕落後，大多數薩米人接受了結局，他們生活在巨獸的屍骸之上，繼承薩米遺志，為守護塔衛二而與天使作戰。\n但仍有雪祀堅信，薩米並未死去，只是靈魂迷失在裂隙中，陷入沉睡。終有一日，薩米會從夢中甦醒，重新回到族人身邊。他們前往塔衛二各地的裂隙處，搭建祭壇，舉行儀式，試圖從裂隙中喚回薩米的靈魂。但前去之人無一復還，後來北方戰事緊張，更是無人願意繼續嘗試。\n在武陵甚大裂隙附近的一片雪松林中，提弗洛斯找到其中一位薩米雪祀留下的手稿，手稿上詳細記載了她為喚醒薩米做的種種嘗試。雖經過探索，提弗洛斯能夠確定，喚醒儀式並未成功，雪祀本人也不知所終，但女孩還是從剩下的資料中，敏銳地嗅到了一絲喚醒薩米的可能。\n但很可惜，幾個月的鑽研後，提弗洛斯並未收穫成果。\n儘管她問遍了鐵誓軍要塞與黑森林中的所有雪祀與薩滿，大家也只是搖搖頭，認為這是注定會失敗的嘗試。\n好在即便多次碰壁，提弗洛斯也並不喪氣。手稿中，雪祀對夢的獨到見解，讓女孩學會洞見他人夢境中的特殊啟示。\n\n「不知道為什麼，我最近總是夢到被巨大的怪物追趕，腳下的路也搖搖晃晃的，像是在吊橋上似的，天天輾轉反側……」\n「很簡單，那個怪物在狩獵你，你被追到絕路了。」\n「我該怎麼辦？」\n「讓自己變得強壯，不要做獵物，要做獵手。」\n「……我有點懂了。」\n\n在與提弗洛斯談過後，這位幹員為自己計劃了一整月的強化訓練，運動帶來的滿足與疲憊讓他能夠安睡一整夜。久而久之，終末地同僚們開始帶著自己五花八門的夢，來找提弗洛斯卜夢、解夢。\n而提弗洛斯也在傾聽大家的夢境後，以此為靈感，創作了一篇有著巨獸薩米、夢境和雪祀的傳說故事。\n很快，提弗洛斯寫完了結局，她本以為這件事會同故事一般塵埃落定。於是她抱起筆記，準備將結局分享給苦苦等待的眾人。但行至半路，她與一個女孩在走廊擦身而過。\n提弗洛斯不認識她，卻從她身上感受到了莫名熟悉的氣息。\n那氣息曾陪伴族人穿梭在沼澤和樹林，陪伴族人度過冬天，迎接春天，陪伴族人從出生行至死亡……\n等提弗洛斯回過神，那女孩早已走遠。\n後來，她從旁人處聽說了那女孩的代號——別禮。\n出於一種神秘的預感，她將原本寫好的結局撕去，並在新的一頁，寫上了那個代號。",
+    "zh-CN": "自萨米陨落后，大多数萨米人接受了结局，他们生活在巨兽的尸骸之上，继承萨米遗志，为守护塔卫二而与天使作战。\n但仍有雪祀坚信，萨米并未死去，只是灵魂迷失在裂隙中，陷入沉睡。终有一日，萨米会从梦中苏醒，重新回到族人身边。他们前往塔卫二各地的裂隙处，搭建祭坛，举行仪式，试图从裂隙中唤回萨米的灵魂。但前去之人无一复还，后来北方战事吃紧，更是无人愿意继续尝试。\n在武陵甚大裂隙附近的一片雪松林中，提弗洛斯找到其中一位萨米雪祀留下的手稿，手稿上详细记载了她为唤醒萨米做的种种尝试。虽经过探索，提弗洛斯能够确定，唤醒仪式并未成功，雪祀本人也不知所终，但女孩还是从剩下的资料中，敏锐地嗅到了一丝唤醒萨米的可能。\n但很可惜，几个月的钻研后，提弗洛斯并未收获成果。\n尽管她问遍了铁誓军要塞与黑森林中的所有雪祀与萨满，大家也只是摇摇头，认为这是注定会失败的尝试。\n好在即便多次碰壁，提弗洛斯也并不丧气。手稿中，雪祀对梦的独到见解，让女孩学会洞见他人梦境中的特殊启示。\n\n“不知道为什么，我最近总梦到被巨大的怪物追赶，脚下的路也摇摇晃晃的，像是在吊桥上似的，天天辗转反侧……”\n“很简单，那个怪物在狩猎你，你被追到绝路了。”\n“我该怎么办？”\n“让自己变得强壮，不要做猎物，要做猎手。”\n“……我有点明白了。”\n\n在与提弗洛斯谈过后，这位干员为自己计划了一整月的强化训练，运动带来的满足与疲惫让他能够安睡一整夜。久而久之，终末地同僚们开始带着自己五花八门的梦，来找提弗洛斯卜梦、解梦。\n而提弗洛斯也在倾听大家的梦境后，以此为灵感，创作了一篇有着巨兽萨米、梦境和雪祀的传说故事。\n很快，提弗洛斯写完了结局，她本以为这件事会同故事一般尘埃落定。于是她抱起笔记，准备将结局分享给苦苦等待的众人。但行至半路，她与一个女孩在走廊擦身而过。\n提弗洛斯不认识她，却从她身上感受到了莫名熟悉的气息。\n那气息曾陪伴族人穿梭在沼泽和树林，陪伴族人度过冬天，迎接春天，陪伴族人从出生行至死亡……\n等提弗洛斯回过神，那女孩早已走远。\n后来，她从旁人处听说了那女孩的代号——别礼。\n出于一种神秘的预感，她将原本写好的结局撕去，并在新的一页，写上了那个代号。",
+    "ja": "サーミが没してから、大半のサーミフィヨドはその結末を受け入れた。彼らは巨獣の骸の上に暮らし、サーミの遺志を継ぎ、タロⅡを守るためにアンゲロスと戦っている。\nしかし、今でも一部の雪祭司は、サーミは死んだのではなく、魂が裂け目の中で迷子になり、深い眠りに落ちているだけだと固く信じている。いつの日かサーミは夢から目覚め、再び部族のもとへ戻ってくるだろう、と。彼らはタロⅡ各地の裂け目へ赴き、祭壇を築き、儀式を行い、裂け目からサーミの魂を呼び戻そうと試みた。だが、そこへ行った者は誰一人として戻らず、後に北方の戦況が厳しくなると、誰もそれを続けようとはしなくなった。\n武陵の巨大な裂け目の近くにある雪松林で、ティフォロスはあるサーミの雪祭司が遺した手記を見つけた。手記には、サーミを呼び覚ますために行った数々の試みが詳細に記されていた。調査を進めるうちに、呼び覚ますための儀式が成功しなかったこと、そして雪祭司自身の行方もわからないことを確認したが、彼女は残された資料から、サーミを呼び覚ますことができるわずかな可能性を鋭く嗅ぎ取った。\nしかし残念ながら、数カ月にわたり研究を重ねても、ティフォロスは成果を挙げることができなかった。\n鉄誓軍の要塞や黒き森にいるすべての雪祭司やシャーマンを尋ね回ったが、どうせ失敗に終わるとでも言うように、彼らはただ首を横に振るだけだった。\n何度も壁にぶつかりはしたが、ティフォロスが気を落とすことはなかった。手記にあった、夢に対する雪祭司の独自の解釈は、他人の夢の中にある特別な啓示を見通す方法を彼女に教えてくれていたのだ。\n\n「なぜかは分からないけど、最近巨大な怪物に追いかけられる夢ばかり見るんだ。足元の道も揺れていて、まるで吊り橋の上にいるみたいで……毎晩、寝返りを打ってばかりで……」\n「簡単だ。その怪物はお前を狩っているんだ。お前は追い詰められている。」\n「俺はどうすればいいんだ？」\n「自分自身を鍛えておけ。獲物ではなく、狩人になるんだ。」\n「……少し分かった気がする。」\n\nティフォロスと話した後、このオペレーターは自分自身に1カ月間の強化訓練を課した。体を動かすことによる達成感と疲労感のおかげで、彼は一晩中ぐっすりと眠れるようになった。時が経つにつれ、エンドフィールドの皆はさまざまな夢について、ティフォロスに夢占いや夢の解説を頼むようになった。\nそしてティフォロスも皆の夢を聞くうちに、それをインスピレーションとして、巨獣サーミ、夢、そして雪祭司にまつわる伝説の物語を書き上げた。\nティフォロスは結末を書き終えると、物語と共にすべてがひと段落するだろうと思っていた。彼女はノートを抱え、待ちわびている皆に結末を知らせようとした――その途中、廊下である少女とすれ違った。\nティフォロスは彼女を知らなかったが、なぜか懐かしい気配を感じた。\nその気配は、かつて同胞と共に沼や森を抜け、冬を越し、春を迎え、誕生から死に至るまで、常に共にあったものだった……\nティフォロスが我に返ったとき、少女はすでに遠くへ去っていた。\n後になって、その少女のコードネームが「ラストライト」であることを聞いた。\nふしぎな予感に突き動かされた彼女は、すでに書き終えていた結末を破り捨て、新たなページにそのコードネームを書き留めたのだった。",
+    "ko": "사미가 쓰러진 뒤, 대부분의 사미인은 그 결말을 받아들였다. 그들은 베헤모스의 유해 위에서 살아가며 사미의 유지를 이어받았고, 탈로스 II를 지키기 위해 아겔로스와 싸웠다.\n하지만 여전히 일부 제사장들은 사미가 죽지 않았다고, 사미의 영혼이 균열 속에서 길을 잃고 잠들었을 뿐이며, 언젠가 꿈에서 깨어나 다시 부족의 곁으로 돌아올 것이라 믿었다. 그들은 탈로스 II 곳곳의 균열로 향해 제단을 세우고 의식을 치렀다. 균열 속에서 사미의 영혼을 불러내려 했던 것이다. 그러나 떠난 이들 중 돌아온 이는 아무도 없었다. 이후 북쪽의 전황이 더욱 악화되자, 더 이상 그 시도를 이어 가려는 사람도 사라졌다.\n무릉 대균열 근처의 눈 덮인 소나무 숲에서, 티프로스는 어느 사미 제사장이 남긴 수기를 발견했다. 수기에는 사미를 깨우기 위해 그녀가 시도했던 여러 방법이 자세히 기록되어 있었다. 탐색 끝에 티프로스는 의식이 성공하지 못했고, 제사장 본인 또한 종적을 알 수 없게 되었다는 사실을 확인했다. 하지만 남은 자료 속에서, 소녀는 사미를 깨울 수 있을지도 모른다는 작은 가능성을 예리하게 감지했다.\n하지만 안타깝게도, 몇 달에 걸친 연구 끝에 티프로스는 아무런 성과를 얻지 못했다.\n철의 서약군 요새와 검은 숲에 있는 모든 제사장과 샤먼을 찾아가 물어보았지만, 모두 고개를 저을 뿐이었다. 그들은 하나같이 이것은 실패할 수밖에 없는 시도라고 여겼다.\n다행히 여러 번 실패했어도 티프로스는 낙담하지 않았다. 수기 속에서 제사장이 꿈에 대해 남긴 독특한 통찰은, 그녀가 다른 사람의 꿈속에 담긴 특별한 계시를 읽어 내는 법을 배우게 해 주었다.\n\n\"이유는 모르겠는데, 요즘 자꾸 거대한 괴물에게 쫓기는 꿈을 꿔요. 발밑 길도 흔들흔들해서 꼭 흔들리는 다리 위에 있는 것 같고. 매일 뒤척이다가 잠을 설쳐요...\"\n\"간단해. 그 괴물이 널 사냥하고 있어. 넌 막다른 곳까지 몰린 거야.\"\n\"그럼 전 어떻게 해야 하죠?\"\n\"강해져. 먹잇감이 되지 말고, 사냥꾼이 돼.\"\n\"...조금 알 것 같아요.\"\n\n티프로스와 이야기를 나눈 뒤, 그 오퍼레이터는 한 달 동안 지속되는 강화 훈련 계획을 세웠다. 운동이 주는 만족감과 피로 덕분에 그는 밤새 편히 잠들 수 있었다. 시간이 지나자, 엔드필드의 동료들도 저마다 기묘한 꿈을 들고 티프로스를 찾아와 점을 보고 꿈풀이를 부탁하기 시작했다.\n그리고 티프로스는 모두의 꿈을 들은 뒤, 거기서 영감을 얻어 베헤모스 사미와 꿈, 그리고 제사장이 등장하는 전설 이야기를 하나 써 내려갔다.\n얼마 지나지 않아 티프로스는 결말까지 완성했다. 그녀는 이 일도 이야기처럼 그렇게 끝을 맺으리라 생각했다. 그래서 노트를 품에 안고, 오랫동안 기다려 온 사람들에게 결말을 들려주러 가려 했다. 하지만 가는 길에, 그녀는 복도에서 한 소녀와 스쳐 지나갔다.\n티프로스는 그 소녀를 알지 못했다. 그런데도 그 아이에게서 어쩐지 익숙한 기운을 느꼈다.\n그 기운은 오래전부터 부족 사람들과 함께 늪과 숲을 지나고, 겨울을 견디고, 봄을 맞이했다. 부족 사람들이 태어나 죽음에 이를 때까지, 늘 그 곁에 머물러 있었다...\n티프로스가 정신을 차렸을 때, 그 소녀는 이미 멀리 사라진 뒤였다.\n나중에 그녀는 다른 사람에게서 그 소녀의 코드네임을 들었다... 라스트 라이트.\n알 수 없는 예감에 이끌려, 티프로스는 이미 써 두었던 결말을 찢어 냈다. 그리고 새 페이지 위에, 그 코드네임을 적었다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0034_typhoea_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Prepare carefully. Take all the weapons and tools you need. It would be embarrassing to turn back halfway because you forgot something.",
+    "zh-TW": "帶好自己的武器和工具，半途跑回來拿就太丟臉了。",
+    "zh-CN": "带好自己的武器和工具，半途跑回来取就太丢人了。",
+    "ja": "武器と道具は全部持ったか？途中で戻るなんてことになったら赤っ恥だからな。",
+    "ko": "무기랑 도구 잘 챙겨, 중간에 다시 가지러 오는 건 좀 창피하니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "An outdoor trip must be properly planned. Be mindful of where you go, what you eat, and what you say.",
+    "zh-TW": "出門在外要有計劃的，別亂跑，別亂吃，也別亂說話。",
+    "zh-CN": "出门在外要有计划的，别乱跑，别乱吃，也别乱说话。",
+    "ja": "出発前の計画は大切だ。散らばるな、拾い食いするな、ムダ話をするな。",
+    "ko": "밖에선 계획적으로 움직여야 돼. 먹는 것, 행동, 말까지 다 조심하는 게 좋아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Got a mission for me? Go on, say it.",
+    "zh-TW": "說吧，你要委託我做什麼？",
+    "zh-CN": "说吧，你要委托我做什么？",
+    "ja": "言ってみろ。頼みはなんだ？",
+    "ko": "부탁이 뭐야? 말해봐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Pop quiz: Is there any wild forage that you can eat raw? Ideally, none of them? Correct. You passed.",
+    "zh-TW": "突擊測試，野外哪些食物可以生吃？最好別生吃。很好，你過關了。",
+    "zh-CN": "突击测试，野外哪些食物可以生吃？最好别生吃。很好，你过关了。",
+    "ja": "抜き打ちテストだ。生のまま食べられるものを答えろ。どれも危ない、か……ほう、合格だ。",
+    "ko": "자, 질문. 야외에서 날로 먹을 수 있는 음식은? '되도록 날 음식은 먹지 않는다.' 정답, 합격이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "Thank you, but the wilderness also provides us with weapons. I can make arrows with branches. Would you like to see?",
+    "zh-TW": "謝謝你，但野外也能獲得武器，我會用樹枝削箭頭，你想看嗎？",
+    "zh-CN": "谢谢你，但野外也能获取武器，我会用树枝削箭头，你想看吗？",
+    "ja": "ありがとう。だが、外でも武器は手に入るからな。枝を削って矢を作ってやる。見たいか？",
+    "ko": "고마워. 근데 무기는 야외에서도 구할 수 있어. 난 나뭇가지로 화살을 깎을 줄 알거든, 한번 볼래?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "I'm not cold, and I don't fear any danger. All these pieces of gear are unnecessary. You'd be worried? Then... I guess I'll have them.",
+    "zh-TW": "我不冷，也不怕危險，不需要穿這麼多裝備。唔，你會擔心？那……給我吧。",
+    "zh-CN": "我不冷，也不怕危险，不需要穿这么多装备。唔，你会担心？那……给我吧。",
+    "ja": "寒くないし、恐れるものもない。こんなにたくさん装備はいらない。ふむ、心配だと？うん、なら……もらう。",
+    "ko": "안 추워, 무서운 것도 없고. 그러니까, 이렇게 많이 챙겨줄 필요 없어. ...응? 걱정된다고? 그럼... 줘 봐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Dispelling the fog has revealed many things to us.",
+    "zh-TW": "撥開一層迷霧後，許多事情變得更清晰了。",
+    "zh-CN": "拨开一层迷雾后，许多事情变得更清晰了。",
+    "ja": "霧を少し払っただけで、随分いろんなものがはっきり見えるようになった。",
+    "ko": "안개를 한 겹 걷어내니, 많은 게 선명해졌어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "I think I'd prefer to be in the fight myself.",
+    "zh-TW": "我還是更喜歡親身經歷戰鬥的感覺。",
+    "zh-CN": "我还是更喜欢亲身经历战斗的感觉。",
+    "ja": "やっぱり身をもって戦闘を体験するほうが好きだ。",
+    "ko": "난 아직 직접 싸우면서 경험하는 게 더 좋아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Alright then. I'm glad you're treating me as a good companion.",
+    "zh-TW": "好吧，很高興你能把我當作合格的夥伴。",
+    "zh-CN": "好吧，很高兴你能把我当作合格的伙伴。",
+    "ja": "わかったよ。わたしを一人前の仲間として評価してくれたんだよな？",
+    "ko": "괜찮네, 네가 나를 제대로 된 동료로 여겨준다는 게 마음에 들어."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "People say that earning your approval is a good thing, but it doesn't feel that special. I'll do whatever I can for you, no matter how you feel about me.",
+    "zh-TW": "他們都說獲得你的認可是很好的事情，但我覺得沒什麼特殊的，不管你怎麼想我，該為你做的事，我都會為你做。",
+    "zh-CN": "他们都说获得你的认可是很好的事情，但我觉得没什么特殊的，不管你怎么想我，该为你做的事，我都会为你做。",
+    "ja": "皆、お前から評価されるのはいいことだって言うが、わたしは特別だとは思わない。どう思われていようと、すべきことがあるならやり遂げるまでだ。",
+    "ko": "다들 너한테 인정받는 걸 의미 있는 일로 여기던데... 난 딱히 특별한지 모르겠어. 네가 날 어떻게 생각하든, 네 부탁이라면 다 들어줄게."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Recognition? Does that mean the same as your \"approval\" ... or that you trust me more now...? And do you trust my abilities, or me as a person?",
+    "zh-TW": "認同？這和你之前說的認可有區別嗎？更信任我了……那你信任的是我的能力，還是我本人？",
+    "zh-CN": "认同？这和你之前说的认可有区别吗？更信任我了……那你信任的是我的能力，还是我本人？",
+    "ja": "認める？前に言ってた「評価」とは違うのか？もっと信頼している……それは、わたしの能力のことか？それとも、わたし自身のことか？",
+    "ko": "인정? 전에 말한 '인정'이랑 뭐가 다른 거지? ...날 훨씬 더 믿게 됐다고? 그럼 네가 믿는 건 내 능력이야, 나야?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "Congratulations? I thought we've moved beyond flattery. A simple glance will suffice between good friends.",
+    "zh-TW": "誇獎？你對我還需要說這種話嗎？同伴間一個眼神就足夠了。",
+    "zh-CN": "夸奖？你对我还需要说这种话吗？同伴间一个眼神就足够了。",
+    "ja": "褒め言葉なんて、わたしには必要ない。相棒は、目線だけで通じ合うものだからな。",
+    "ko": "칭찬? 굳이 그런 게 필요한가? 우린 이제 눈빛만으로도 충분한 사이잖아."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Endmin, I sought you out and fulfilled my promise. What about yours? Have you found a good story to share with me?",
+    "zh-TW": "管理員，我按當時約定的來找你。那你呢？有沒有想好我來到這裡後，要講個什麼樣的故事給我？",
+    "zh-CN": "管理员，我按当时约定的来找你。那你呢？有没有想好我来到这里后，要给我讲个什么样的故事？",
+    "ja": "管理人、約束通り会いに来てやったぞ。で、お前はここでわたしにどんな物語を語るつもりなんだ？",
+    "ko": "약속한 대로 만나러 왔어, 관리자. 넌? 나한테 어떤 이야기를 들려줄지 미리 생각해 놨어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Prophecy has no hold on us. The ending is ours to write.",
+    "zh-TW": "預言並非注定，結局該是我們自己書寫。",
+    "zh-CN": "预言并非注定，结局该是我们自己书写。",
+    "ja": "予言は定められた運命じゃない。結末はわたしたちが綴るんだ。",
+    "ko": "예언은 필연이 아니야. 결말은 우리가 직접 써 내려 가는 거지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Legends aren't always too far off... They can happen right next to us.",
+    "zh-TW": "傳說不總是久遠的……也可以發生在你我身邊。",
+    "zh-CN": "传说不总是久远的……也可以发生在你我身边。",
+    "ja": "伝説は遠い昔のものとは限らない……お前やわたしのそばで生まれることもあるんだぞ。",
+    "ko": "전설이 꼭 먼 옛날이야기인 건 아니야. 우리도 충분히 만들 수 있으니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "I did learn how to operate machines, but my memories ... have melted away like snow in spring.",
+    "zh-TW": "我是學過如何操作機器，但記憶……已經像融雪一樣化開了。",
+    "zh-CN": "我是学过如何操作机器，但记忆……已经像融雪一样化开了。",
+    "ja": "機器の操作を学んだことはあるが、記憶は……雪のように融けて消えてしまったんだ。",
+    "ko": "기계 다루는 법을 배운 적은 있어. 그냥... 기억이 녹아내린 눈처럼 사라져 버렸을 뿐이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Myrkwood will rain today. Take an umbrella.",
+    "zh-TW": "今天黑森林會下雨，如果要去，記得帶傘。",
+    "zh-CN": "今天黑森林会下雨，如果要去，记得带伞。",
+    "ja": "今日の黒き森は雨だ。行くなら傘を忘れるなよ。",
+    "ko": "오늘 검은 숲에 비가 올 거야. 갈 거면 우산 꼭 챙겨."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "I wish you pleasant dreams.",
+    "zh-TW": "願你今夜好夢。",
+    "zh-CN": "愿你今夜好梦。",
+    "ja": "良い夢を見られるといいな。",
+    "ko": "오늘 밤, 좋은 꿈 꿔."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "I took a walk around the Bridge. People asked if they could play with my bow for a bit... Strange. Why aren't they afraid of me?",
+    "zh-TW": "我剛剛在艦橋上兜了一圈，很多人都問我能不能摸摸這把弓……奇怪，他們難道不怕我嗎？",
+    "zh-CN": "我刚刚在舰桥上兜了一圈，很多人都问我能不能摸摸这把弓……奇怪，他们难道不怕我吗？",
+    "ja": "さっきブリッジに行ったら、いろんな人に弓を触ってもいいかと聞かれたんだ……妙だよな？わたしが怖くないのか？",
+    "ko": "아까 갑판을 한 바퀴 돌았는데, 사람들이 자꾸 내 활을 만져봐도 되냐고 묻더라. 내가 무섭지도 않은가? 이상하네."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "Why am I visiting? Nothing much. I guess I don't need a reason to come and see you, do I? Now, if you'll excuse me, I'll be taking my leave.",
+    "zh-TW": "找你什麼事？我覺得就算沒事，我也可以來看看你。好了，看到了，我要離開了。",
+    "zh-CN": "找你什么事？我觉得就算没事，我也可以来看看你。好了，看到了，我要离开了。",
+    "ja": "何か用かって？用がなくても、お前の様子を見に来てもいいよな？よし、気が済んだし、そろそろ戻る。",
+    "ko": "무슨 일로 왔냐고? 꼭 용건이 있어야만 널 만나러 올 수 있는 건 아니잖아. 이제 봤으니까 갈게."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "I met a lot of people after coming here. They shared many interesting stories with me. And yes, I've noted them down in a notebook, but I left a whole page blank for you — the last page. Now, you'd best give me a very long story.",
+    "zh-TW": "來這裡我認識了很多人，他們都跟我講了有趣的故事。嗯，我都記在筆記本上。不過我留了一頁給你，最後一頁，整整一頁，你得跟我講一個很長很長的故事。",
+    "zh-CN": "来这里我认识了很多人，他们都给我讲了有趣的故事。嗯，我都记在笔记本上。不过我留了一页给你，最后一页，整整一页，你得给我讲一个很长很长的故事。",
+    "ja": "ここに来てたくさんの人に出会ったし、面白い物語もたくさん語ってもらった。無論、全部ノートに記録してあるさ。だが、お前のために最後の1ページはまるまる残してある。長い長いお前の物語、聞かせてもらうぞ。",
+    "ko": "여기서 많은 사람을 만났어. 다들 재미있는 이야기를 많이 갖고 있더라. 응, 전부 다 노트에 적어뒀지. 그래도 한 장은 널 위해 남겨뒀어. 여기 이 한 장은 전부 네 거야. 그러니까... 아주 긴 이야기를 들려주길 바랄게."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "Senior Endfielders at the Arsenal upgraded my arrowheads. They gave me a signal arrow that explodes in mid-air, forming a glowing Endfield logo. They said I could use the flare to signal Dijiang in an emergency. But I'm not afraid of danger or being on my own... This is my trial, and mine alone.",
+    "zh-TW": "武庫的哥哥姐姐幫我升級了箭頭，其中一支信號箭射向天空會爆開，隨後出現終末地的標誌，要是遇到危險可以用來聯絡帝江號。我不怕危險，也不怕一個人……這是屬於我的考驗，不該求助。",
+    "zh-CN": "武库的哥哥姐姐帮我升级了箭头，其中一支信号箭射向天空会爆开，随后出现终末地的标志，要是遇到危险可以用来联系帝江号。我不怕危险，也不怕一个人……这是属于我的考验，不该求助。",
+    "ja": "武庫の皆が矢を強化してくれたんだ。空に放つと爆発してエンドフィールドのマークが現れる信号弾の矢もあってな。危険な目に遭ったときは、帝江号に合図ができるらしい。わたしは危険だって、ひとりでいることだって恐れない……誰の助けも借りはしない。これは、わたしに課せられた試練だから。",
+    "ko": "무기고 언니 오빠들이 화살을 업그레이드해 줬어. 신호용 화살은 하늘에다 쏘면 터지면서 엔드필드 로고가 나타난대. 위험할 때, 제강호에 신호를 보내는 용도라는데... 난 위험한 것도, 혼자 있는 것도 무섭지 않아. 이건 내가 겪어야 할 시험이니까. 다른 사람의 도움을 받을 순 없어."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "This place isn't like the other camps I've visited. There's no bonfire, snow, or trees. But when I fall asleep on the floor, I can feel a powerful heart that goes \"Thump! Thump!\" No, it isn't the pulse of the Land. It's the pulse of Dijiang itself.",
+    "zh-TW": "這裡和我在其他地方的營地不一樣，沒有篝火，也沒有雪和樹林，但我睡著時緊靠地板，依然聽到了一個很有力的心跳，咚咚、咚咚。不，當然不是大地，是帝江號自己的心跳。",
+    "zh-CN": "这里和我在其他地方的营地不一样，没有篝火，也没有雪和树林，但我睡着时挨着地板，依然听到了一个很有力的心跳，咚咚、咚咚。不，当然不是大地，是帝江号自己的心跳。",
+    "ja": "ここはわたしの他の拠点と違って、たき火も、雪も、森もない。だが、床で寝ているときに力強い鼓動が聞こえてきたんだ。ドクン、ドクンって。いや、大地じゃない。帝江号自身の鼓動だ。",
+    "ko": "여긴 내가 전에 있던 캠프랑 좀 다르네. 모닥불도, 눈도, 숲도 없지. 하지만 바닥에 엎드려 잘 때면 아주 힘찬 심장 소리가 들려. 쿵, 쿵... 이건 대지의 심장 소리가 아니야. 제강호의 심장 소리지."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "I just had a dream and I couldn't go back to sleep. I saw the stars awake and heard them whispering to each other. What once sank will rise again. What still dreams will stir and wake. These will change Samivegr's fate... But when did the stars learn how to talk? It felt so weird. Hmm... Am I still dreaming?",
+    "zh-TW": "我剛做了夢，醒來就再也睡不著了。看窗外，星星也醒著……它們在說悄悄話，說沉沒在水下的，會再度浮出，沉睡在夢中的，會再度甦醒，薩米維格的命運因此而改變……但星星什麼時候會說話的？好怪，我還在夢中嗎？",
+    "zh-CN": "我刚做了梦，醒来就再也睡不着了。看窗外，星星也醒着……它们在说悄悄话，说沉没在水下的，会再度浮出，沉睡在梦中的，会再度苏醒，萨米维格的命运因此而改变……可星星什么时候会说话的？好怪，我还在梦中吗？",
+    "ja": "さっき夢を見て起きて、そうしたら眠れなくなってしまった。窓の外では、星も起きていて……星たちがこそこそ話をしていた。水の底に沈んだものが再び浮かび、夢に眠るものは再び目覚め、サーミヴェグルの運命はそれによって変わる、と……そんなことより、星はいつから話せるようになったんだ？妙だな、まだ夢の中なのか？",
+    "ko": "방금 꿈꿨어. 근데 한번 잠에서 깨니, 다시 잠이 안 오더라. 그래서 창밖을 봤더니, 별들도 잠이 안 오는지 속삭이고 있더라고. '가라앉았던 건 다시 떠오르고, 잠든 건 다시 깨어나니, 사미베르그의 운명은 바뀔 것이다...' 음, 근데 언제부터 별이 말할 수 있었던 거지? 이상하네... 나 아직 꿈속에 있는 건가?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Oh, I brought something from the north. Don't worry, they won't spoil. I preserved their beauty with my Originium Arts. Huh, your hands are freezing? Oh no, I should've been more thoughtful. *Hoo-hoo*... Alright, feeling warmer already?",
+    "zh-TW": "對了，從北方幫你帶了點東西，不用擔心放壞，我用源石技藝將它最美的一刻凍起來了。咦，會凍手嗎？抱歉，是我沒考慮到，呼呼……這樣呢，有沒有溫暖點？",
+    "zh-CN": "对了，从北方给你带了些东西，不用担心放坏，我用源石技艺将它最美的一刻冻起来了。咦，会冻手吗？抱歉，是我没考虑到，呼呼……这下呢，有没有温暖些？",
+    "ja": "おい、北方からお前に持ってきたものがあるんだ。傷まないよう、最も美しい瞬間にアーツで凍らせておいたからな。あっ、手が冷たかったか？申し訳ない、そこまで気が付かなかった。はー……よし、温かくなっただろう？",
+    "ko": "참, 북쪽에서 네 선물을 좀 가져왔어. 상하진 않으니까, 걱정하지 마. 오리지늄 아츠로 가장 아름다운 순간에 얼려 뒀거든. 응? 손이 시리다고? 미안... 거기까진 생각을 못 했네. 후... 후... 어때, 이제 좀 따뜻해?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Many thanks. I will take them wherever I go. Perhaps the future has a wonderful story lying in wait for us.",
+    "zh-TW": "我會一直帶在身邊，或許未來，會有個不錯的故事等著我們。",
+    "zh-CN": "我会一直带在身边，或许未来，会有个不错的故事等着我们。",
+    "ja": "ずっとそばに置いておくからな。あるいはこの先、ものすごい物語が待っているかもしれないし。",
+    "ko": "계속 갖고 다닐게. 앞으로 꽤 괜찮은 이야기가 우릴 기다리고 있을지도 모르니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Calm down, Endmin. No need to panic. I will protect you. Now tell me, what made you so upset...? The giant, tied-up beast outside your door...? I hunted it down for you. On my own. Kept it alive, too. I spent several days lurking in the woods to bring it down. If you don't like it, I'll take it away. The hide is top quality, you know.",
+    "zh-TW": "冷靜，管理員，別著急，我會保護你的。現在和我說，是什麼讓你慌成這樣？被五花大綁的巨大野獸，掛在門口……那是我帶給你的獵物。我一個人，在林子裡守了好多好多天才抓到的。你要是不喜歡，我帶走好了，那皮毛可是上好的。",
+    "zh-CN": "冷静，管理员，别着急，我会保护你的。现在和我说，是什么让你慌成这样？被五花大绑的巨大野兽，挂在门口……那是我带给你的猎物。我一个人，在林子里守了好多好多天才抓到的。你要是不喜欢，我带走好了，那皮毛可是上好的。",
+    "ja": "管理人、慌てなくていい。わたしが守ってやる。ところで、どうしてそんなに焦ってたんだ？巨大な野獣が入口で縛り上げられている……それはお前にやろうと思った獲物だ。森に何日も籠って待ち伏せして捕まえたんだぞ。気に入らないならわたしが持って帰るからな。毛皮だってすごく上質なんだし。",
+    "ko": "진정해, 관리자. 내가 지켜줄게. 근데 왜 그렇게 놀랐던 거야? 꽁꽁 묶인 거대한 야수가 문 앞에 있어서 그랬다고? 음... 그건 내가 너한테 주려고 잡아 왔던 거야. 얠 잡는다고 숲에서 얼마나 오랫동안 숨어 있었는데... 마음에 안 들면 그냥 가져갈게. 정말 좋은 가죽이 될 텐데..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Stop moving, and bear with me. I'm almost done. I'll be taking you to a Sami ruin that has been sealed away for many years. You need proper protection against the injunctions and witchcraft. And don't wrinkle your nose. This is the smell of fresh earth and moss. You'll get used to it. Great. Now you smell like ... a proper Samifjod.",
+    "zh-TW": "別動，再忍一下，馬上就畫完了。這次要帶你去的，是一處封存多年的薩米遺跡。你需要一些偽裝，才能避開當時留下的禁制與惡咒。別皺鼻子，只是泥土和苔蘚的味道，你會習慣的。好了，你現在聞起來……像個薩米人了。",
+    "zh-CN": "别动，再忍下，马上就画完了。这次要带你去的，是一处封存多年的萨米遗迹。你需要一些伪装，才能避开当时留下的禁制与恶咒。别皱鼻子，只是泥土和苔藓的味道，你会习惯的。好了，你现在闻起来……像个萨米人了。",
+    "ja": "動くなよ。もうすぐ描き終わるからな。今回連れていくのは長年封じられていたサーミの遺跡だ。過去の禁制と呪いを回避するには、偽装しないといけない。顔をしかめるな。ただ泥と苔の匂いがするだけだし、すぐ慣れる。よし、今のお前の匂いは……まるでサーミフィヨドだな。",
+    "ko": "가만히 있어 봐, 잠깐이면 돼. 거의 다 됐어... 우리가 갈 곳은 오랫동안 봉인됐던 사미 유적이야. 거기 금제랑 저주를 피하려면 위장이 좀 필요하거든. 코 찡그리지 마. 그냥 흙이랑 이끼 냄새일 뿐이잖아. 금방 익숙해질 거야... 됐다, 이제 좀 사미인 같네."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "Cold? I'll add more wood to the campfire. The sleeping bags are laid out so just turn in and rest. I'll have the watch tonight. Hmm...? No, I'm not tired. I have herbs to keep me awake. Don't touch them! Do you want to sleep or what...? Uh. Sorry. I wasn't being mean on purpose. It's just ... the herbs have a strong smell. You really helped me a lot today, and I just want you to be properly rested.",
+    "zh-TW": "冷嗎？我再加點柴火，睡袋已經鋪好了，你先睡吧，今天我來守夜就好。嗯……不睏的，我帶了用來提神的草藥。別亂碰，還想睡著就不要碰！嗯……抱歉，我不是故意兇你，草藥氣味很衝，你今天幫了我很多，我只想你能好好休息。",
+    "zh-CN": "冷吗？我再添些柴火，睡袋已经铺好了，你先睡吧，今天我来守夜就好。嗯……不困的，我带了用来提神的草药。别乱碰，还想睡着就不要碰！唔，抱歉，我不是故意凶你，草药气味很冲，你今天帮了我很多，我只想你能好好休息。",
+    "ja": "寒いのか？なら薪を足してやる。寝袋も敷いたし、今日はわたしが見張りをするから先に休め。うむ……眠くない。眠気覚ましの薬草を持ってきた。おい、触るな。眠れなくなるから絶対触るな！ふぅ……怒ったわけじゃない。薬草は匂いが強いだろう？今日はたくさん助けてもらったし、ゆっくり眠ってほしいと思っただけだ。",
+    "ko": "추워? 장작을 좀 더 넣을게. 침낭 깔아뒀으니까 먼저 자. 오늘 밤은 내가 지켜보고 있을게. 난 괜찮아. 정신을 맑게 해주는 약초를 챙겨왔거든. 어? 만지면 안 돼! 그거 만지면 못 잔단 말이야, 아... 미안, 화를 내려던 건 아니야. 약초 냄새가 독하거든. 난 그냥 오늘 네가 많이 도와줬으니까, 푹 쉬었으면 좋겠어서..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "No. I don't show my notebook to anyone. Not even if they ask really nicely. I've told you all the stories already, so you shouldn't be curious about it. Wait. You'll tell me a story about Yinglung Pass if I lend you the notebook...? Okay, but only for a bit... Who's the stick figure with a black square on its head? That's you. The stick figure holding a triangle? That's my bow! What are you talking about? Give back my notebook, now!",
+    "zh-TW": "不可以，我的筆記本不給別人看的，求我也不可以。上面的故事我都講給你聽過，你為什麼還是好奇。用一段在應龍關的故事換？好吧，只許看一下下……那個臉上糊著黑方塊的人？是你啊。為什麼旁邊的人拿著三角尺？誰准你這樣說我的弓！筆記本還給我！",
+    "zh-CN": "不可以，我的笔记本不给别人看的，求我也不可以。上面的故事我都讲给你听过，你为什么还是好奇。用一段在应龙关的故事换？好吧，只许看一小会儿……那个脸上糊着黑方块的人？是你啊。为什么旁边的人拿着三角尺？谁许你这么说我的弓！笔记本还给我！",
+    "ja": "ダメだ。わたしのノートは誰にも見せない。お願いしてもムダだ。書いてある物語は全部話してやっただろう。いったい何が気になるんだ。応龍関での物語と交換……わかった、少しだけだぞ……顔に黒い四角形がついている人？それはお前だ。どうして隣の人は三角定規を持っているのか？わたしの弓をそんなふうに言うとは！ノートを返せ！",
+    "ko": "안 돼. 내 노트는 아무한테도 못 보여줘. 그렇게 부탁해도 안 돼. 듣고 싶은 이야기는 이미 다 들려줬잖아. 뭐가 더 궁금한데? 응룡 관문에서 있었던 이야기랑 바꾸자고? ...알겠어, 대신 아주 잠깐만 봐야해. 응? 여기 얼굴에 검은 네모가 잔뜩 칠해진 사람은 뭐냐고? 너잖아. 옆에 있는 사람은 왜 삼각자를 들고 있냐고? 그건 내 활이거든? 노트 돌려줘!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "After leaving Rhodes Island, I traveled to all sorts of places and met different people. Every destination ended up like Samivegr. The characters would leave and their tales would gradually fade. I was alone, but I had gathered a huge trove of stories. The loneliness does not affect me... And I can hunt on my own. But the stories are so beautiful. They must be shared with friends and remembered. It would be a shame if I were the only one who remembers them.",
+    "zh-TW": "離開羅德島後，我一直在各地旅行，見識了許多不同的風土人情，但哪裡都和薩米維格一樣，也有很多傳說隨著當事人的離開，逐漸被人淡忘。一路上，只有我一個人，收集了一肚子的故事。我不怕孤單，狩獵……單獨一人足夠，但那些故事很好，需要同伴分享，需要有人記住。只有我知道，太可惜了。",
+    "zh-CN": "离开罗德岛后，我一直在各地旅行，见识了许多不同的风土人情，但哪儿都和萨米维格一样，也有很多传说随着当事人的离开，逐渐被人淡忘。一路上，只有我一个人，收集了一肚子的故事。我不怕孤单，狩猎……单独一人足够，但那些故事很好，需要同伴分享，需要有人记住。只有我知道，太可惜了。",
+    "ja": "ロドスを離れてから、たくさんの場所を訪れて、いろいろな風景と人々に出会った。だが、どこもサーミヴェグルと同じで、当事者がいなくなれば伝説も消えていってしまう。旅の間はずっとひとりで物語を集めてきたから、ひとりは怖くない。狩りだって……ひとりで十分だ。でも、素晴らしい物語は皆で分かち合って、ちゃんと覚えておかないとな。わたしだけが知っているなんて、もったいないだろう。",
+    "ko": "로도스 아일랜드를 떠나 각지를 여행하면서 다양한 풍습과 삶을 보고 들었어. 근데 별반 다를 게 없더라. 사미베르그에서처럼 수많은 이야기와 전설은 이야기꾼이 사라지면서 영원히 사라져 버렸거든. 그래서 내가 그 이야기들을 모두 다 주워 담아 왔어. 난 외로움이 두렵지 않아, 사냥도 혼자면 충분하지. 하지만... 이 이야기는 누군가랑 같이 나누고 또 기억하고 싶어. 나만 알고 있기엔 너무 아깝거든."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0034_typhoea_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "Open up your hands. Here ... the berries of Myrkwood. They might be a little sour but try to keep it down. They'll make you lucky for an entire month.",
+    "zh-TW": "手攤開，給你……是黑森林裡的小漿果，有點酸，不要吐出來，嚥下去，它能帶來一整月的好運氣。",
+    "zh-CN": "手摊开，给你……是黑森林里的小浆果，有点酸，不要吐出来，咽下去，它能带来一整月的好运气。",
+    "ja": "手を出せ。ああ……黒き森の小さなベリーだ。少し酸っぱいけど、吐かずに飲み込め。1カ月の幸運が詰まっているんだからな。",
+    "ko": "자, 이거 줄게... 검은 숲에서 딴 열매야. 조금 시긴 한데, 뱉지 말고 꼭 삼켜. 한 달 동안 행운을 가져다 줄 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "People said you've not been sleeping well. Hang this Foldartal tablet by your bed. It will ward off unclean entities that try to sneak into your dreams. The runes say that the spell will grind any trespasser to dust, cast it into the coldest lake of Samivegr, and freeze it stiff forever.",
+    "zh-TW": "聽說你最近睡得不好，把這塊密文板掛在床頭，它能恐嚇那些進入你夢境的髒東西。上面符文的意思是，敢靠近你就把它們挫骨揚灰，丟進薩米維格最寒冷的冰澗凍得硬邦邦。",
+    "zh-CN": "听说你最近睡得不好，把这块密文板挂在床头，它能恐吓那些进入你梦境的脏东西。上面符文的意思是，敢靠近你就把它们挫骨扬灰，丢进萨米维格最寒冷的冰涧冻得邦邦硬。",
+    "ja": "最近あまり眠れていないと聞いた。この啓示板を枕元に掛けておけば、夢に入り込んでくる悪いものを追い払ってくれるはずだ。このルーンには「近づいたら粉々に砕いて、サーミヴェグルで1番冷たい氷の谷に放り込んで凍らせてやる」という意味があるからな。",
+    "ko": "요즘 잠을 잘 못 잔다며? 자, 이 암호판을 머리맡에 걸어둬 봐. 마음대로 꿈속을 어지럽히는 것들이 겁을 먹고 도망갈 거야. 여기 새겨진 룬은 '감히 접근하는 녀석들이 있다면, 뼈까지 갈아서 재로 만들어 버린 다음, 사미베르그에서 가장 차가운 얼음 계곡에 처박아 꽁꽁 얼려버리겠다.'라는 뜻이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Do not worry, Endmin. I spent years in the wilderness. Being lost is no longer a concern of mine. The stars, winds, and trees, all of them can point the way for me. And I don't think just sticking to the same direction means you'll never get lost. Take a look at the path beneath our feet. Always it spreads, and in all directions. New opportunities and discoveries await, no matter the way we choose to take. Have no fear. I will walk with you.",
+    "zh-TW": "管理員，別擔心，常年身處荒野，我早已不害怕迷失，星星、風、樹枝都會為我指明道路。難道一直朝著一個方向，死也不回頭，硬是一條路走到底，就不會迷失方向嗎？低頭看看我們腳下的路吧，它永遠是朝四面八方展開的，無論怎麼走，都有新的機遇，新的發現。別怕，我和你一起走。",
+    "zh-CN": "管理员，别担心，常年身处荒野，我早已不害怕迷失，星星、风、树枝都会为我指明道路。难道一直朝着一个方向，死也不回头，硬是一条路走到底，就不会迷失方向吗？低头看看我们脚下的路吧，它永远是朝四面八方展开的，无论怎么走，都有新的机遇，新的发现。别怕，我和你一起走。",
+    "ja": "管理人、恐れることはない。わたしは長く荒野にいたから、道に迷うことを恐れない。星も、風の音も木の枝も道を示してくれる。お前は、絶対に振り返ることなく、ずっと同じ1本の道を進み続けたら迷わないと思うか？足元の道を見てみろ。いつだって、あらゆる方向に伸びているんだ。どう進んだとしても、新しい出会いや発見がある。だから怖がるなよ。わたしも一緒に行ってやるからな。",
+    "ko": "관리자, 걱정하지 마. 나, 황무지에서 하루이틀 산 것도 아니니까. 길을 잃는 것 정도는 무섭지 않아. 별이랑 바람, 그리고 나뭇가지가 길을 알려주거든. 누군가 '뒤도 안 돌아보고 고집스럽게 앞으로만 걷는다고 해서, 정말로 길을 잃지 않을 거라고 확신할 수 있을까?'라고 물을지도 몰라. 만약 그런 고민이 든다면, 언제든지 발밑의 길을 한번 내려다봐. 그 길은 언제나 사방으로 뻗어 있을 거야. 어디로 가든, 새로운 기회와 발견이 우릴 기다리고 있겠지. 그러니까... 겁내지 마. 그 길, 내가 같이 걸어줄게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "Your blade is dull? Give it to me. I have a honing stone. You've been negligent. That's not normal. Are you worried about something? Don't hide it from me. The eyes of a good hunter watch the prey, but they also watch out for their companions... Fine. Keep it to yourself, then. I know that certain experiences are not story material. They should not be told again nor reminisced upon.",
+    "zh-TW": "你的劍鈍了，給我吧，我帶了磨刀石。你疏忽了，這不應該，你在擔心什麼嗎？別隱瞞，獵人的觀察力不僅會用在獵物身上，也會用在自己的夥伴身上……算了，你不想說就別說，我知道，有些經歷不適合被講述，也不該變成故事，被再次咀嚼。",
+    "zh-CN": "你的剑钝了，给我吧，我带了磨刀石。你疏忽了，这不应该，你在担心什么吗？别隐瞒，猎人的观察力不仅会用在猎物身上，也会用在自己的伙伴身上……算了，你不想说就别说，我知道，有些经历不适合被讲述，也不该变成故事，被再次咀嚼。",
+    "ja": "お前の剣、切れ味が落ちているんじゃないか。貸してみろ、砥石がある。気がかりなことがあるなら、さっさと話せ……お前らしくないぞ。狩人の視線は獲物だけじゃなく仲間にも向けられるんだ。わかった、話したくないならいい。語るべきじゃない経験だってあるし、物語にして何度も振り返るべきじゃないことだってあるんだ。",
+    "ko": "검날이 무뎌졌네. 줘 봐, 숫돌을 챙겨왔으니까. 근데 이런 걸 놓치다니, 너답지 않네. 무슨 걱정이라도 있어? 안 숨겨도 돼. 사냥꾼의 관찰력은 사냥감을 바라볼 때도 쓰이지만, 동료를 살필 때도 쓰이니까... 말하기 싫으면 안 해도 돼. 나도 알아. 어떤 일은 누군가에게 말하기에는 적절하지 않고, 굳이 이야깃거리로 만들어 다시 곱씹어서도 안 된다는 걸."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "No, I don't get it. Our battery is almost dry. Must you read this report by today? And no! You can't read with the moonlight. You'll strain your eyes. Make full use of the day with its sunshine, for the night is meant only for descending into darkness. Says who? Says every generation of wise Samifjod. Now look in my eyes. Tell me, Endmin, do I have to knock you senseless?",
+    "zh-TW": "我不懂，我們剩下的電池不多了，這份報告你非要今天看完嗎？藉著月光也不行，眼睛會壞！在白天善用每一寸陽光，在夜晚就該沉入黑暗。誰說的？薩米人祖祖輩輩都這麼說。現在看著我的眼睛，告訴我，我該敲暈你嗎？",
+    "zh-CN": "我不懂，我们剩下的电池不多了，这份报告你非要今天看完吗？借着月光也不行，眼睛会坏！在白天善用每一寸阳光，在夜晚就该沉入黑暗。谁说的？萨米人祖祖辈辈都这么说。现在看着我的眼睛，告诉我，我该敲晕你吗？",
+    "ja": "まったく、バッテリーがほとんど残っていないというのに、この報告書を絶対に今日読み終える必要があるのか？月明かりだけでは、目を悪くするぞ。昼は太陽の光を余すことなく使い、夜は暗闇に沈むべきだ――誰が言ったのかって？サーミフィヨドに代々伝わっている言葉だ。で、わたしの目を見て答えろ。わたしはお前を気絶させてやったほうがいいか？",
+    "ko": "왜 그러는 거야? 배터리도 얼마 안 남았는데, 보고서를 꼭 오늘 내로 다 봐야겠어? 달빛에 비춰서 보면 안 되냐고? 안 돼, 눈 나빠져. '낮에는 햇빛을 단 한 뼘도 낭비하지 말라, 밤이 되면 어둠 속으로 가라앉아 있으라.' 누가 한 말이냐고? 사미의 조상님들이 대대로 하신 말씀이야. 자, 이제 내 눈을 똑바로 보고 말해 봐. 내가 널 기절시켜서라도 재워야겠어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_about_line01",
+   "title": {
+    "en": "Topic: Feranmut Sami",
+    "zh-TW": "話題：巨獸薩米",
+    "zh-CN": "话题：巨兽萨米",
+    "ja": "巨獣サーミについて",
+    "ko": "베헤모스 사미에 관하여"
+   },
+   "text": {
+    "en": "I was shocked when I learned that Feranmut Sami fell to protect our people. It's hard to imagine how we Samifjod could go about our lives without His protection. At the northern forts, I saw my people still hunting in the blizzard amidst His great carcass. In the fields of war, I witnessed our Snowpriests fighting the Aggeloi with everything they had... And I learned that He and His indomitable will remain with us. Oblivion comes not from death, but from surrender.",
+    "zh-TW": "得知巨獸薩米為保護族人而隕落後，我很震驚，很難想像，族人在失去祂的庇佑後，該如何繼續自己的生活。到達北方要塞後，我見到祂的屍骸上，族人仍在風雪中進行狩獵。之後，我前往戰場，又親眼見證了雪祀和天使間的殊死爭鬥……我才明白，祂還在，祂不屈的意志還在。死亡不是終結，放棄才是。",
+    "zh-CN": "得知巨兽萨米为保护族人而陨落后，我很震惊，很难想象，族人在失去祂的庇佑后，该如何继续自己的生活。到达北方要塞后，我见到祂的尸骸上，族人仍在风雪中进行狩猎。之后，我前往战场，又亲眼见证了雪祀和天使间的殊死争斗……我才明白，祂还在，祂不屈的意志还在。死亡不是终结，放弃才是。",
+    "ja": "巨獣サーミが部族を守るために倒れたと知って、とても驚いた。庇護を失って、皆がどう生きていくのかだって想像もできなかった。北方の要塞に着いたとき、部族の人たちは、彼女の亡骸の上で狩りをしていた。それから戦場に向かって、雪祭司とアンゲロスの死闘をこの目で見た……それでわかったんだ。巨獣サーミはまだいるって。不屈の意志は消えない。死は終わりじゃない……諦めたときに、終わるんだ。",
+    "ko": "베헤모스 사미가 부족을 지키기 위해 희생했다는 소식은 정말 충격적이었어. 사미의 가호를 잃은 사람들이 어떻게 살아갈지 상상조차 안 됐지. 근데 북쪽 요새로 가보니, 사람들은 사미의 유해를 밟고서 눈보라를 뚫고 사냥을 이어가고 있었어. 그 후, 전장에서 제사장이 아겔로스랑 필사의 사투를 벌이는 모습을 두 눈으로 직접 보고 나서야 비로소 깨달았지. 사미는 여전히 살아 있다는 걸. 죽음은 끝이 아니라는 걸... 포기하는 그 순간이 진짜 끝이라는 걸..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_about_line02",
+   "title": {
+    "en": "Topic: Amma",
+    "zh-TW": "話題：安瑪",
+    "zh-CN": "话题：安玛",
+    "ja": "アンマーについて",
+    "ko": "암마에 관하여"
+   },
+   "text": {
+    "en": "I know Amma. I remember Her. Only fragments of the ancient beast lord's legend survived on Talos-II. My people tried to remember, but She left us too soon and our memories were too unreliable... I tried to look for those who could recite the entire Ammataru, only to find a few lines and phrases. It's okay. We still have the bits and pieces. As long as we remember, they'll be like seeds ... and sprout into a whole, new legend.",
+    "zh-TW": "安瑪，我知道祂，也記得祂。在塔衛二，那位老媽媽的傳說已經支離破碎，族人曾試圖銘記，但祂離開得太早，人的記憶又太脆弱……我也試圖四處尋訪那些還能完整講述安瑪故事的人，但很可惜，最終也只收穫了隻言片語。算了，就算是片段，只要還有人記得，終有一日能孕育出新的傳說……像種子一樣。",
+    "zh-CN": "安玛，我知道祂，也记得祂。在塔卫二，那位老妈妈的传说已经支离破碎，族人曾试图铭记，但祂离开得太早，人的记忆又太脆弱……我也试图四处寻访那些还能完整讲述安玛故事的人，但很可惜，最终也只收获了只言片语。算了，就算是片段，只要还有人记得，终有一日能孕育出新的传说……像种子一样。",
+    "ja": "アンマーのことは……知っているし、覚えてもいる。タロⅡでは、あのおばあさんの伝説は散り散りになってしまっているがな。部族の人はしっかりと刻もうとしたのに、去るのがあまりにも早すぎた。人の記憶は儚い……わたしもアンマーの物語を完璧に話せる人を探して各地を巡ったが、結局その一節しか得られなかった。まあいい。断片だろうと誰かが覚えていれば、いつか新しい伝説が生まれるだろう……まるで、種のようにな。",
+    "ko": "암마... 난 암마를 알고, 또 기억하고 있어. 탈로스 II에서는 암마에 대한 전설이 이미 조각조각 부서져 버린 상태지만 말이야. 너무 일찍 떠나시기도 했고, 인간의 기억이란 너무나 연약하니까... 암마의 이야기를 온전히 들려줄 수 있는 사람을 찾아보기도 했지만, 내가 얻은 건 단편적인 몇 마디뿐이었어. 하지만 괜찮아. 파편 같은 기억일지라도, 누군가 기억하고만 있다면... 언젠가는 그 기억이 새로운 전설을 피워낼 테니까. 꼭... 씨앗처럼 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_about_line03",
+   "title": {
+    "en": "Topic: Order of Steel Oath",
+    "zh-TW": "話題：鐵誓軍",
+    "zh-CN": "话题：铁誓军",
+    "ja": "鉄誓軍について",
+    "ko": "철의 서약군에 관하여"
+   },
+   "text": {
+    "en": "The Oathkeepers are good neighbors, and that's a rare gem. We share campfires, weapons, Arts, and food with each other. Together we faced the cold, the northern winds, the Aggeloi, and the Ankhors. Their fallen became one with our permafrost, and their scions sprouted and grew in our forests. But they aren't us, and will never become us. No. We don't push them away. Our duties differ. Their crusades will end in triumph, but the Samifjod's hunt never ceases.",
+    "zh-TW": "鐵誓軍的人是難得的好鄰居，我們和他們能共同分享營火、武器、法術，還有食物，也能一起面對嚴寒、北風、天使，還有錨點。他們的血肉可以腐爛在我們的凍土上，他們的血脈也可以生長在我們的森林中，但他們不是我們，也無法成為我們。不，不是排外，是因為大家的使命不同，鐵誓軍的遠征會勝利，而薩米人的狩獵不會有盡頭。",
+    "zh-CN": "铁誓军的人是难得的好邻居，我们和他们能共同分享营火、武器、法术，还有食物，也能一起面对严寒、北风、天使，还有锚点。他们的血肉可以腐烂在我们的冻土上，他们的血脉也可以生长在我们的森林中，但他们不是我们，也无法成为我们。不，不是排外，是因为大家的使命不同，铁誓军的远征会胜利，而萨米人的狩猎不会有尽头。",
+    "ja": "鉄誓軍の連中は、いわゆる良き隣人だ。たき火や武器やアーツ、食べ物は分け合って、寒さや北風、アンゲロスやアンカーには一緒に立ち向かってきた。彼らの血肉はわたしたちの凍土の上で朽ちて、その血もわたしたちの森の中で受け継がれていく。だが、あの人たちはわたしたちではないし、わたしたちになることだってできない。いや、拒んでいるわけではない。背負う使命が違うんだ。鉄誓軍の遠征は勝利という終わりに向かうものだが、サーミフィヨドの狩りに終わりはないからな。",
+    "ko": "철의 서약군 사람들은 보기 드문 좋은 이웃이야. 우린 그들이랑 모닥불과 무기, 아츠, 그리고 음식까지 나눌 수 있고, 매서운 추위와 북쪽에서 불어오는 바람, 아겔로스, 앵커에 같이 맞설 수도 있지. 그들의 피와 살은 우리의 얼어붙은 땅에서 썩어갈 수 있고, 그들의 혈맥은 우리의 숲속에서 자라날 수 있어. 하지만 그렇다고 해서 그들이 우리는 아니야. 우리가 될 수도 없지. 아니, 이건 배타적으로 구는 게 아니야. 서로 짊어진 사명이 다르거든. 철의 서약군의 원정은 언젠가 승리로 끝나겠지만, 사미인의 사냥에는 끝이 없을 테니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_about_line04",
+   "title": {
+    "en": "Topic: Myrkwood",
+    "zh-TW": "話題：黑森林",
+    "zh-CN": "话题：黑森林",
+    "ja": "黒き森について",
+    "ko": "검은 숲에 관하여"
+   },
+   "text": {
+    "en": "We are hospitable, mind you. But fighting off the Aggeloi and Ankhors is very frustrating. Worse, we got these \"adventure seekers\" coming in with their RVs and camp trucks. They wanna see how we angle for fins, hunt beasts, chop trees, make a big pot of stew at the campfire, sleep in the fire's warmth, then open our eyes to a new day ahead of us... It's just everyday stuff. What's so special about it?",
+    "zh-TW": "不是我們不好客，天使和錨點的侵襲已經很煩人了，每天還有一群乘著大篷車前來探險的人。有什麼可好奇的？捕鱗、狩獵、伐木，聚在篝火前煮湯，然後伴著火焰入眠，再睜眼，開始新的一天……都只是最尋常的生活而已。",
+    "zh-CN": "不是我们不好客，天使和锚点的侵袭已经很烦人了，每天还有一群乘着大篷车前来探险的人。有什么可好奇的？捕鳞、狩猎、伐木，聚在篝火前煮汤，然后伴着火焰入眠，再睁眼，开始新的一天……都只是最寻常的生活而已。",
+    "ja": "よそ者を排除しようとしているわけじゃない。アンゲロスやアンカーのような面倒ごとがあるのに、毎日のようにトラックで探索に来る奴らがいるんだ。まったく、何が珍しいんだ？鱗獣を捕って、狩りをして、薪を作ってたき火の前でスープを煮る。火のそばで休んで、目が覚めたらまた新しい1日を始める……当たり前の日常だろう？",
+    "ko": "우리가 손님을 반기지 않는 게 아니야. 아겔로스나 앵커의 습격을 처리하는 것만으로도 아주 바쁜데, 매일 대형 캐러밴을 타고 모험가들까지 몰려드니까.... 도대체 뭐가 그렇게 신기한 걸까? 우린 그냥 린수를 잡고, 사냥하고, 나무를 베고, 모닥불 앞에 모여 수프를 끓여 먹고, 불꽃을 벗 삼아 잠자리에 들고, 눈을 뜨면 다시 새로운 하루를 시작하고... 그냥 평범한 일상을 살아갈 뿐인데 말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_about_line05",
+   "title": {
+    "en": "Topic: Demons",
+    "zh-TW": "話題：邪魔",
+    "zh-CN": "话题：邪魔",
+    "ja": "悪魔について",
+    "ko": "데몬에 관하여"
+   },
+   "text": {
+    "en": "The old shadows are now but a footnote in the history of Sami. Those tales are very old, like a wet notebook where the writings have become smudges of misfortune. That's why people don't really want to look deeper. Endmin, we've flipped through those pages of the past... Now we face enemies that can at least be seen.",
+    "zh-TW": "曾經的陰影已經是薩米歷史中的一個註腳，這一章實在太過久遠。就像被泡濕的筆記本，字跡已經被暈開為一團團黑墨，蠻不祥的，也沒人願意追究了。管理員，那一頁已經被翻過了……至少現在，我們面前的敵人可以被看見。",
+    "zh-CN": "曾经的阴影已经是萨米历史中的一个注脚，这一章实在太过久远。就像被泡湿的笔记本，字迹已经被洇湿为一团团黑墨，挺不祥的，也没人愿意追究了。管理员，那一页已经被翻过了……至少现在，我们面前的敌人可以被看见。",
+    "ja": "かつての影は、すでにサーミの歴史の脚注と化した。遠い昔の一章にすぎないんだ。水に濡れたノートのように、滲んだ文字が黒い染みを作ったが……不吉なものを、掘り返そうとする者は誰もいない。管理人、ページはめくられて過去になった……少なくとも、今の敵は目に見えている。",
+    "ko": "과거의 그림자는 이제 사미 역사의 한낱 각주일 뿐이야. 그 장은 너무나도 오래 전의 일이지. 꼭 물에 젖은 노트처럼, 글씨가 온통 검은 먹물로 번져버려서 꽤 불길해 보이는 데다 이제는 아무도 그 진상을 캐묻고 싶어 하지 않거든. 관리자, 이제 다음 장으로 넘어가야 할 때야. 적어도 지금, 우리 앞에 있는 적들은 눈으로 똑똑히 볼 수 있으니까."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Wait. I saw something there.",
+    "zh-TW": "等等，那裡……有些東西。",
+    "zh-CN": "等等，那里……有些东西。",
+    "ja": "待て。何かありそうだ。",
+    "ko": "잠깐, 저기... 뭔가 있어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Instincts tell me to take a closer look around here.",
+    "zh-TW": "直覺告訴我，這附近值得我們再仔細看看。",
+    "zh-CN": "直觉告诉我，这附近值得我们再仔细看看。",
+    "ja": "直感が言っている。近くを調べておいたほうがいいって。",
+    "ko": "내 직감이 말하고 있어. 이 근처를 좀 더 자세히 살펴보자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Perhaps the unknown territory will give a different answer.",
+    "zh-TW": "或許那些未知之地會給我們不一樣的答案。",
+    "zh-CN": "或许那些未知之地会给我们不一样的答案。",
+    "ja": "未知に向き合えば、別の答えが得られるのでは？",
+    "ko": "저 미지의 땅이 우리에게 새로운 답을 줄지도 몰라."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "Danger ahead. Proceed carefully.",
+    "zh-TW": "別往前走，很危險。",
+    "zh-CN": "别往前走，很危险。",
+    "ja": "先へは行くなよ。危険だ。",
+    "ko": "더 가지 마, 위험해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Precious minerals. Just take what we need. Don't be greedy.",
+    "zh-TW": "這些礦物很珍貴，需要多少就拿多少，不要貪心。",
+    "zh-CN": "这些矿物很珍贵，需要多少就拿多少，不要贪心。",
+    "ja": "貴重な鉱物だが、必要な分に留めておけ。欲張るなよ。",
+    "ko": "귀한 광물이야. 필요한 만큼만 챙겨, 너무 욕심내지 말고."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "I can help. A special technique can knock this bit off.",
+    "zh-TW": "我也來，這得用巧勁才能取下來。",
+    "zh-CN": "我也来，这得用巧劲儿才能取下来。",
+    "ja": "わたしもやってやる。コツが要るからな。",
+    "ko": "도와줄게. 이런 건 요령이 필요하거든."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "The generosity of fate.",
+    "zh-TW": "命運的饋贈。",
+    "zh-CN": "命运的馈赠。",
+    "ja": "運命の贈り物だ。",
+    "ko": "운명이 주는 선물이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Aurylenes ... it takes a hunter's skill to close in and catch them.",
+    "zh-TW": "醚質……想捉到它們，得像獵人一樣靠近。",
+    "zh-CN": "醚质……想捉到它们，得像猎人一样靠近。",
+    "ja": "オーリレン……捕らえるには、狩人のように近づくんだ。",
+    "ko": "오리렌... 잡으려면 사냥꾼처럼 조심히 다가가야 해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "I hope it hasn't hurt any other living beings.",
+    "zh-TW": "希望它們沒有傷害到更多生靈。",
+    "zh-CN": "希望它们没有伤害到更多生灵。",
+    "ja": "これ以上生命が傷つかないといいが。",
+    "ko": "더 이상 다른 생명들한테 해를 끼치지 않았으면 좋겠어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "I feel ... more spirited.",
+    "zh-TW": "我感覺……有精神多了。",
+    "zh-CN": "我感觉……精神多了。",
+    "ja": "どうやら……元気が出た気がする。",
+    "ko": "기운이 좀 나는 것 같아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "You're wounded. I can help.",
+    "zh-TW": "你受傷了，我幫你。",
+    "zh-CN": "你受伤了，我帮你。",
+    "ja": "怪我したのか。助けてやる。",
+    "ko": "다쳤네, 내가 도와줄게."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "I'm much better now. No worries.",
+    "zh-TW": "感覺好多了，別擔心。",
+    "zh-CN": "感觉好多了，别担心。",
+    "ja": "もう大丈夫そうだ。心配するな。",
+    "ko": "훨씬 나아졌어, 걱정하지 마."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Watch out!",
+    "zh-TW": "小心！",
+    "zh-CN": "留心！",
+    "ja": "危ない！",
+    "ko": "조심해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "No. I'm far from spent.",
+    "zh-TW": "不行，還沒到最後一刻。",
+    "zh-CN": "不行，还没到最后一刻。",
+    "ja": "ダメだ。まだ終わりじゃない。",
+    "ko": "안 돼, 아직 쓰러질 순 없어..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Sorry, couldn't make it to the end.",
+    "zh-TW": "抱歉，沒有堅持到最後。",
+    "zh-CN": "抱歉，没能坚持到最后。",
+    "ja": "ごめん、最後までもたなかった……",
+    "ko": "미안... 끝까지 버티지 못했어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Good job! I'm honored to travel with you.",
+    "zh-TW": "很榮幸有你做同伴。",
+    "zh-CN": "很荣幸有你做同伴。",
+    "ja": "お前が仲間でよかった。",
+    "ko": "네가 내 동료라는 게 자랑스러워."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Fighting as a team... I like it.",
+    "zh-TW": "有同伴一起……很好，我很喜歡。",
+    "zh-CN": "有同伴一起……很好，我很喜欢。",
+    "ja": "仲間と一緒に……ああ、すごくいいな。",
+    "ko": "함께하는 동료가 있어서... 좋아. 마음에 들어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "It's nothing. Just doing my part.",
+    "zh-TW": "沒什麼，是我該做的。",
+    "zh-CN": "没什么，是我该做的。",
+    "ja": "問題ない。当然のことだろう。",
+    "ko": "할 일을 했을 뿐이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "You're a great team too.",
+    "zh-TW": "我也一樣，認可大家。",
+    "zh-CN": "我也一样，认可大家。",
+    "ja": "わたしも同じだ。皆を認めている。",
+    "ko": "나도 모두가 대단하다고 생각해."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Don't panic. We can handle this.",
+    "zh-TW": "不要緊張，我們能應對。",
+    "zh-CN": "不要紧张，我们能应对。",
+    "ja": "緊張しなくていい。さあ、頑張るぞ。",
+    "ko": "긴장하지 마, 우린 해낼 수 있어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Feeling the flow? Good.",
+    "zh-TW": "你已經進入狀態了，很好。",
+    "zh-CN": "你已经进入状态了，很好。",
+    "ja": "よし、準備はできてるな。",
+    "ko": "이미 준비된 것 같네, 좋아."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "I like how this ended.",
+    "zh-TW": "我喜歡這個結局。",
+    "zh-CN": "我喜欢这个结局。",
+    "ja": "良い結末になったな。",
+    "ko": "이 결말, 마음에 들어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "Let's not enjoy our victory too much. We should be alert.",
+    "zh-TW": "不該沉醉在勝利的喜悅中，得警惕。",
+    "zh-CN": "不该沉醉在胜利的喜悦中，得警惕。",
+    "ja": "いいか、いつまでも勝利に酔いしれるなよ。",
+    "ko": "승리의 기쁨에만 빠져 있으면 안 돼, 경계를 늦추지 마."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "My story always has a place for everyone.",
+    "zh-TW": "在我的故事中，始終有大家的位置。",
+    "zh-CN": "在我的故事中，始终有大家的位置。",
+    "ja": "わたしの物語には、ちゃんと皆の居場所がある。",
+    "ko": "내 이야기에는 언제나 너희 자리가 있을 거야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "A story has its ups and downs. But those who endure can turn the next page.",
+    "zh-TW": "故事中總是有波折，但只要堅持，總能翻過那一頁。",
+    "zh-CN": "故事中总有波折，但只要坚持，总能翻过那一页。",
+    "ja": "物語には、必ず次のページがある。",
+    "ko": "이야기에는 항상 굴곡이 있지. 하지만 견디다 보면, 언젠가 반드시 다음 페이지로 넘어갈 수 있어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "We didn't give up, not even in the final moment. We mastered our fears, and that is the best ending.",
+    "zh-TW": "哪怕在最後一刻，我們也沒有輕易放棄。能戰勝恐懼，已經是最好的結局。",
+    "zh-CN": "哪怕在最后一刻，我们也没有轻易放弃。能战胜恐惧，已经是最好的结局。",
+    "ja": "最後の瞬間まであきらめず、恐怖にも打ち勝った。それが、1番の結末なんだ。",
+    "ko": "마지막까지 우린 포기하지 않았어. 두려움을 이겨낸 것만으로도 충분히 가치 있는 결말이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Move.",
+    "zh-TW": "讓開。",
+    "zh-CN": "让开。",
+    "ja": "そこをどけ。",
+    "ko": "비켜."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Stay quiet.",
+    "zh-TW": "別吵。",
+    "zh-CN": "别吵。",
+    "ja": "黙れ。",
+    "ko": "시끄러워."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Watch and strike!",
+    "zh-TW": "等待、觀察、攻擊！",
+    "zh-CN": "等待、观察、攻击！",
+    "ja": "待機、観察、攻撃！",
+    "ko": "대기, 관찰, 공격!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "No where to run!",
+    "zh-TW": "你逃不掉的。",
+    "zh-CN": "你逃不掉的。",
+    "ja": "逃げられるわけないだろ。",
+    "ko": "절대 못 도망쳐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Good timing.",
+    "zh-TW": "好時機。",
+    "zh-CN": "好时机。",
+    "ja": "絶好のチャンスだ。",
+    "ko": "지금이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "The prey is now trapped.",
+    "zh-TW": "獵物已經走上絕路。",
+    "zh-CN": "猎物已经走上绝路。",
+    "ja": "獲物はもう追い詰めた。",
+    "ko": "사냥감이 궁지에 몰렸어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Time to choose our prey.",
+    "zh-TW": "開始圍剿吧。",
+    "zh-CN": "开始围剿吧。",
+    "ja": "囲んでやろう。",
+    "ko": "사냥을 시작하자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "It's over.",
+    "zh-TW": "都結束了。",
+    "zh-CN": "都结束了。",
+    "ja": "全部終わらせてやる。",
+    "ko": "끝이야."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Don't resist!",
+    "zh-TW": "別掙扎了。",
+    "zh-CN": "别挣扎了。",
+    "ja": "抵抗してもムダだ。",
+    "ko": "소용없어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "You made a wrong move.",
+    "zh-TW": "你犯錯了。",
+    "zh-CN": "你犯错了。",
+    "ja": "つまらないミスをしたな。",
+    "ko": "실수엔 대가가 따르지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Quit scampering.",
+    "zh-TW": "別亂跑。",
+    "zh-CN": "别乱跑。",
+    "ja": "勝手に散らばるなよ。",
+    "ko": "더는 못 도망쳐."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Coward. I'll pin you down.",
+    "zh-TW": "膽小鬼，我會釘住你。",
+    "zh-CN": "胆小鬼，我会钉住你。",
+    "ja": "臆病者が。釘付けにしてやる。",
+    "ko": "겁쟁이, 꿰뚫어주지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "No one escapes my sight.",
+    "zh-TW": "你無法離開我的視線。",
+    "zh-CN": "你无法离开我的视线。",
+    "ja": "視線からは逃れられない。",
+    "ko": "내 눈을 피할 순 없어."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0034_typhoea_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "You should fear me.",
+    "zh-TW": "你應該懼怕我。",
+    "zh-CN": "你应该惧怕我。",
+    "ja": "わたしが怖いのか！",
+    "ko": "내가 두려워?"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_map02_lv009_15003",
+   "topic": {
+    "en": "Snowpriestess's Final Destination",
+    "zh-TW": "老雪祀最後的去向",
+    "zh-CN": "老雪祀最后的去向",
+    "ja": "老いた雪祭司の、最後の行方",
+    "ko": "옛 제사장의 행방"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Endmin, after you left, I've been trying to track down the Snowpriestess.",
+      "zh-TW": "管理員，你們走後，我便一直在追查那位雪祀的去向。",
+      "zh-CN": "管理员，你们走后，我便一直在追查那位雪祀的去向。",
+      "ja": "管理人、お前が発った後も、わたしはずっとあの雪祭司の行方を追っていた。",
+      "ko": "관리자가 떠난 뒤로 그 제사장의 행방을 계속 쫓고 있었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "But ... my last lead ended right here.",
+      "zh-TW": "可是……最後線索斷在了這裡。",
+      "zh-CN": "可是……最后线索断在了这里。",
+      "ja": "だが……手がかりは、ここで途切れてしまった。",
+      "ko": "그런데... 마지막 단서가 여기서 끊겼어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "This looks like a cliff...",
+      "zh-TW": "前面可是懸崖啊……",
+      "zh-CN": "前面可是悬崖啊……",
+      "ja": "この先は崖だけど……",
+      "ko": "그 앞은 낭떠러지잖아..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "It's possible, but ... I don't want to believe this.",
+      "zh-TW": "是有可能……但我不願意相信。",
+      "zh-CN": "是有可能……但我不愿意相信。",
+      "ja": "その可能性はある……だが、信じたくはない。",
+      "ko": "어쩌면... 아니, 난 그렇게 믿고 싶지 않아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "I know the forest ritual was the Snowpriestess's lifelong commitment.",
+      "zh-TW": "我知道，林中的儀式花費了那位雪祀一生的心血。",
+      "zh-CN": "我知道，林中的仪式花费了那位雪祀一生的心血。",
+      "ja": "森での儀式に、あの雪祭司が生涯を懸けていたことは、わたしも知っている。",
+      "ko": "제사장은 숲속에서 치른 그 의식에 평생을 바쳤잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "The ritual did not awaken Sami. She was probably devastated by the failure and chose to end things on her own terms.",
+      "zh-TW": "儀式最後沒喚回薩米，她真的有可能心灰意冷，甚至選擇結束自己。",
+      "zh-CN": "仪式最后没能唤回萨米，她确实可能心灰意冷，甚至选择结束自己。",
+      "ja": "結局サーミを呼び戻せず、失意の末に自ら命を絶つことを選んだ――あり得なくはない。",
+      "ko": "의식으로 끝내 사미를 불러오지 못했으니, 모든 희망을 잃고 스스로 생을 마감하는 선택을 했을 가능성도 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "But her writings told me something else. I felt she was a strong and determined person who wouldn't simply give up that easily.",
+      "zh-TW": "但我能從手稿中的文字感受到，她性格堅韌，絕不會是輕易求死的人。",
+      "zh-CN": "但我能从手稿中的文字感受到，她性格坚韧，绝不会是轻易求死的人。",
+      "ja": "しかし、手記の文字から伝わってくるんだ。彼女は芯の強い人だ。そう簡単に死を選んだりしないって。",
+      "ko": "하지만 수기에 적힌 글을 보면 그 사람이 얼마나 강인한 사람이었는지 알 수 있어. 절대 그렇게 삶을 포기할 분이 아니야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "She came here for another reason.",
+      "zh-TW": "她來到這裡，一定是有別的原因。",
+      "zh-CN": "她来到这里，一定是有别的原因。",
+      "ja": "ここに来たのは、きっと別の理由があるはずなんだ。",
+      "ko": "분명 여기에 온 다른 이유가 있을 거야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Perhaps I'm overthinking it. She probably came here to forage some herbs.",
+         "zh-TW": "是我想得太絕對了，或許她只是來這裡採集草藥。",
+         "zh-CN": "是我想得太绝对了，或许她只是来这里采集草药。",
+         "ja": "ちょっと考えすぎたかもしれない。ただ薬草を採りに来ただけの可能性もある。",
+         "ko": "내가 너무 단정 지었나 봐. 어쩌면 그냥 약초를 채집하러 이곳에 온 걸지도 몰라."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Now that I've taken a closer look, the place actually offers great vantage for viewing the entire forest. It's perfect for drawing maps.",
+         "zh-TW": "仔細一想，這麼高的地方能夠縱覽整片林地，很適合繪製地圖。",
+         "zh-CN": "仔细一想，这么高的地方能够纵览整片林地，很适合绘制地图。",
+         "ja": "森全体を見渡せる場所だしね。もしかしたら、地図を描きに来たのかもしれない。",
+         "ko": "그러고 보니까, 거긴 숲지대가 훤히 다 내려다보여서 지도 그리기에 딱 좋은 것 같아."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Okay. I should look around some more.",
+      "zh-TW": "嗯……我再去周圍看看。",
+      "zh-CN": "嗯……我再去周围看看。",
+      "ja": "うむ……もう一回、周りを見てくる。",
+      "ko": "음... 주변을 좀 더 살펴보는 게 좋겠어."
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Typhoeus] is offline",
+      "zh-TW": "[提弗洛斯]已離線",
+      "zh-CN": "[提弗洛斯]已离线",
+      "ja": "「ティフォロス」オフラインになりました",
+      "ko": "[티프로스] 오프라인"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Typhoeus] is online",
+      "zh-TW": "[提弗洛斯]已上線",
+      "zh-CN": "[提弗洛斯]已上线",
+      "ja": "「ティフォロス」オンラインになりました",
+      "ko": "[티프로스] 온라인"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Endmin, I found traces of her ritual!",
+      "zh-TW": "管理員，我找到了一些儀式留下的痕跡！",
+      "zh-CN": "管理员，我找到了一些仪式留下的痕迹！",
+      "ja": "管理人、儀式の跡をいくつか見つけたぞ！",
+      "ko": "관리자, 의식을 치렀던 흔적을 찾았어!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "From the runes she left behind, she visited the place looking for a portal for entering dreamscape.",
+      "zh-TW": "依據殘存的符文推斷，她來這裡是為了開啟一個進入夢境的通道。",
+      "zh-CN": "依据残存的符文推断，她来这里是为了开启一个进入梦境的通道。",
+      "ja": "残されたルーンを見る限り、彼女がここに来たのは、夢に入る道を開くためらしい。",
+      "ko": "남아 있는 룬으로 봐서는 제사장이 꿈속으로 들어가는 통로를 열려고 여기까지 온 것 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "She never gave up her search for Sami. Perhaps she's still on a journey that no one knows about.",
+      "zh-TW": "看來她沒有放棄尋找薩米，或許至今仍在不為人知的旅途之中。",
+      "zh-CN": "看来她没有放弃寻找萨米，或许至今仍在不为人知的旅途之中。",
+      "ja": "サーミを探すのを、まだ諦めていなかったんだね。今も、誰も知らない旅の途中なのかもしれない。",
+      "ko": "사미를 찾는 걸 포기하지 않았던 거야. 어쩌면 지금도 아무도 모르는 곳에서 여정을 이어가고 있을지도 몰라."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "She never gave up.",
+      "zh-TW": "她沒放棄。",
+      "zh-CN": "她没放弃。",
+      "ja": "彼女は諦めていなかった。",
+      "ko": "그 사람은 아직 포기하지 않았어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "She never gave up on herself nor Sami.",
+      "zh-TW": "既沒有放棄自己，也沒有放棄薩米。",
+      "zh-CN": "既没有放弃自己，也没有放弃萨米。",
+      "ja": "自分のことも、サーミのことも、どちらも諦めていなかったんだ。",
+      "ko": "자기 자신도, 그리고 사미도..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "I knew it...",
+      "zh-TW": "我就知道……",
+      "zh-CN": "我就知道……",
+      "ja": "やはりか……",
+      "ko": "역시, 내 생각이 틀리지 않았어..."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0034_typhoea_15001",
+   "topic": {
+    "en": "Legends of Sami: Snowpriests",
+    "zh-TW": "薩米傳說·雪祀",
+    "zh-CN": "萨米传说·雪祀",
+    "ja": "サーミ伝説・雪祭司",
+    "ko": "사미의 전설 · 제사장"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Endmin! Look what I found! Of all these manuscripts, this one might actually have something about Amma's story.",
+      "zh-TW": "管理員！看我發現了什麼！那麼多手稿裡，它最有可能記載了安瑪的故事。",
+      "zh-CN": "管理员！看我发现了什么！那么多手稿里，它最有可能记载了安玛的故事。",
+      "ja": "管理人！面白いものを見つけたぞ。たくさんの手記の中でも、これはアンマーの話が記されている可能性が高いんだ。",
+      "ko": "관리자, 이것 좀 봐! 그 많은 양의 수기를 다 뒤져봤는데, 암마에 대한 이야기가 적혀 있을 만한 건 이것뿐이었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "I really wanna take a look...",
+      "zh-TW": "真想打開看看……",
+      "zh-CN": "真想打开看看……",
+      "ja": "開けて中を見てみたい……",
+      "ko": "당장이라도 펼쳐 보고 싶다..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Why don't you go ahead? Isn't this what you've been after all along?",
+      "zh-TW": "為什麼不呢？你不是一直期望能找到有關安瑪的線索？",
+      "zh-CN": "为什么不呢？你不是一直期望能找到有关安玛的线索？",
+      "ja": "どうして開けないの？アンマーの手がかりをずっと探していたよね。",
+      "ko": "그럼 보면 되잖아? 암마에 대한 단서를 찾는 게 네 오래된 바람이라며."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "The pages are way too delicate. I'm not opening it until I figure out how to handle it safely.",
+      "zh-TW": "紙張太脆弱了。在找到妥善保管的辦法前，我不能打開它。",
+      "zh-CN": "纸张太脆弱了。在找到妥善保管的办法前，我不能打开它。",
+      "ja": "紙がボロボロになってるんだ。きちんと保管できる方法を見つけないと、開けられない。",
+      "ko": "종이 상태가 너무 안 좋아. 제대로 보관할 방법을 찾기 전까지는 열어볼 수 없어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "I'll probably head north for now. The Snowpriests up in Myrkwood actually know how to handle this kind of old stuff.",
+      "zh-TW": "我打算先回北方看看，黑森林裡的雪祀處理古籍有一套。",
+      "zh-CN": "我打算先回北方看看，黑森林里的雪祀处理古籍有一套。",
+      "ja": "なんにせよまずは北へ戻るつもりだ。黒き森の雪祭司は、古書の扱いに慣れているからな。",
+      "ko": "우선은 북쪽으로 돌아가려고 해. 검은 숲의 제사장들은 고문헌을 다루는 데 아주 능숙하거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "If you come across anything, think you could fill me in?",
+      "zh-TW": "如果有消息，可以第一時間告訴我嗎？",
+      "zh-CN": "如果有消息，可以第一时间告诉我吗？",
+      "ja": "何か分かったら、真っ先に教えてほしい。",
+      "ko": "그럼 진전이 생기면 제일 먼저 알려줄래?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Of course. But it'll be a while.",
+      "zh-TW": "當然。不過要等一陣子。",
+      "zh-CN": "当然。不过要等一阵子。",
+      "ja": "わかった。でも、少し時間はかかるはずだ。",
+      "ko": "응, 그럴게. 근데 조금 기다려야 해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Those Snowpriests are all booked up. Gonna be a while before anyone's got the time.",
+      "zh-TW": "修復古籍的雪祀都很忙，一時間抽不出空來。",
+      "zh-CN": "修复古籍的雪祀都很忙，一时间抽不出空来。",
+      "ja": "古書を修復できる雪祭司は、皆忙しい。すぐに手は空かないだろう。",
+      "ko": "고문헌을 복원하는 제사장들은 다들 너무 바빠서, 당장은 시간 내기가 힘들 거야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "There are that many to repair?",
+         "zh-TW": "損壞的古籍有很多？",
+         "zh-CN": "损坏的古籍有很多？",
+         "ja": "そんなにたくさん、傷んだ本があるのかな。",
+         "ko": "손상된 고문헌이 그렇게 많아?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "Yeah.",
+         "zh-TW": "很多很多。",
+         "zh-CN": "很多很多。",
+         "ja": "とてもとても多い。",
+         "ko": "응..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "The war with the Aggeloi took a toll on the records. More than anyone could ever tally.",
+         "zh-TW": "因為與天使的戰爭，遺失和損毀的紙質典籍數都數不清。",
+         "zh-CN": "因为与天使的战争，遗失和损毁的纸质典籍数都数不清。",
+         "ja": "アンゲロスとの戦争のせいで、失われたり傷んだりした紙の書物は数え切れないほどある。",
+         "ko": "아겔로스와의 전쟁 때문에 잃어버리거나 훼손된 문헌이 셀 수 없을 정도로 많아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "Only a few elders still recall what was written. But they're getting on in years, and they've forgotten much of it over time.",
+         "zh-TW": "只剩下幾位老者，還記得上面的內容，但他們年紀太大，很多細節都遺忘了。",
+         "zh-CN": "只剩下几位老者，还记得上面的内容，但他们年纪太大，很多细节都遗忘了。",
+         "ja": "内容を覚えているのは、わずかな年かさの者だけだ。皆かなりの高齢だし、忘れてしまっている部分も多いが。",
+         "ko": "이제는 몇 안 되는 어르신들만 그 내용을 기억하고 있는데, 연세들이 많으셔서 세세한 부분을 많이 잊어버리셨어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Not that many Snowpriests?",
+         "zh-TW": "能修復的雪祀很少？",
+         "zh-CN": "能修复的雪祀很少？",
+         "ja": "修復できる雪祭司はそんなに多くないの？",
+         "ko": "복원할 수 있는 제사장이 별로 없어?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "Very few.",
+         "zh-TW": "很少很少。",
+         "zh-CN": "很少很少。",
+         "ja": "すごくすごく少ない。",
+         "ko": "응, 정말 얼마 없어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "The only Snowpriests and shamans still in Myrkwood are the old folks.",
+         "zh-TW": "留在黑森林的雪祀和薩滿只有年邁的老人。",
+         "zh-CN": "留在黑森林的雪祀和萨满只有年迈的老人。",
+         "ja": "黒き森に残っている雪祭司やシャーマンは、年かさの者ばかりなんだ。",
+         "ko": "검은 숲에 남아 있는 제사장과 샤먼들은 전부 나이 드신 분들뿐이야."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "Anyone still strong enough to hold a weapon chose to go to the front lines. To stand with the Oathkeepers.",
+         "zh-TW": "但凡還拿得動武器的人，都選擇到前線去跟鐵誓軍站在一起。",
+         "zh-CN": "但凡还拿得动武器的人，都选择到前线去和铁誓军站在一起。",
+         "ja": "まだ武器を握れる者たちは、前線に出て鉄誓軍と共に戦う道を選んだからな。",
+         "ko": "무기를 들 수 있는 사람들은 모두 전선으로 가서, 철의 서약군과 함께 싸우는 길을 선택했거든."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "The old ones are already stretched thin running the tribe. Hardly anyone's got the energy left to work on these scraps.",
+         "zh-TW": "老人家操持部族事務已經很疲憊，還能抽出精力修復殘本的人也沒有幾個。",
+         "zh-CN": "老人家操持部族事务已经很疲惫，还能抽出精力修复残本的人也没有几个。",
+         "ja": "皆部族の仕事だけで疲れ切っている。本の修復までやれる者がたくさんいるわけがない。",
+         "ko": "어르신들은 부족을 돌보는 일만으로도 벅차서, 이제 고문헌까지 복원할 여력이 있는 분은 정말 몇 안 돼."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "I wish I could help in some way.",
+      "zh-TW": "如果我能幫上忙就好了。",
+      "zh-CN": "如果我能帮上忙就好了。",
+      "ja": "わたしが力になれたらいいんだが……",
+      "ko": "내가 조금이라도 도움이 될 수 있으면 좋을 텐데."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Hey, you've already gone above and beyond. Recovering the lost manuscripts is a huge deal on its own, right?",
+      "zh-TW": "你已經做了很多，找回遺失在外的文獻也是你的貢獻。",
+      "zh-CN": "你已经做了很多，找回遗失在外的文献也是你的贡献。",
+      "ja": "もう十分頑張っていると思うよ。散らばっていた文献を取り戻したのも、君のおかげだ。",
+      "ko": "넌 이미 충분히 많은 일을 하고 있어. 흩어져 있던 문헌들을 되찾아오는 것만으로도 정말 큰 도움이 되고 있잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Well, Endmin...",
+      "zh-TW": "管理員，其實……",
+      "zh-CN": "管理员，其实……",
+      "ja": "管理人、実は……",
+      "ko": "관리자, 사실..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "I have some memories from back then, actually. From before the tribe made it to Talos-II.",
+      "zh-TW": "其實我腦海中有些記憶，那是族人來到塔衛二之前的事情。",
+      "zh-CN": "其实我脑海中有些记忆，那是族人来到塔卫二之前的事情。",
+      "ja": "わたしの頭の中には、いくつかの記憶がある。部族の者たちがタロⅡに来る前のな。",
+      "ko": "내게는 부족 사람들이 탈로스 II에 오기 전의 기억이 남아 있어..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "I followed Amma's guidance once. Even had a piece of snow with Her sigil on it.",
+      "zh-TW": "我曾受安瑪指引，甚至獲得了有祂印記的雪塊。",
+      "zh-CN": "我曾受安玛指引，甚至获得了有祂印记的雪块。",
+      "ja": "かつてわたしはアンマーに導かれ、更にはその印が刻まれた雪玉まで授かった。",
+      "ko": "예전에 암마의 인도를 받고, 암마의 흔적이 남은 눈덩이도 얻었었는데."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "But when I spoke of it to the tribe, they only heard a curious legend.",
+      "zh-TW": "但當我向族人提起那些事，他們卻只當是一段有趣的故事。",
+      "zh-CN": "但当我向族人提起那些事，他们却只当是一段有趣的故事。",
+      "ja": "だが部族の者にその話をしても、ただの面白い作り話としか思ってもらえなかったんだ。",
+      "ko": "그 이야기를 부족 사람들한테 해도, 다들 그저 흥미로운 옛이야기 정도로만 여겼지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "The tribe believes Amma has abandoned Sami's soil and its souls. Few still recall the piece of snow She left as a sign.",
+      "zh-TW": "族人堅信安瑪早已不再眷戀薩米的土地與生靈，甚至很少有人記得他曾留下的小雪塊。",
+      "zh-CN": "族人坚信安玛早已不再眷恋萨米的土地与生灵，甚至很少有人记得祂曾留下的小雪块。",
+      "ja": "皆は信じている――「アンマーはとうにサーミの地も、そこに生きる者も顧みなくなった」とな。残された小さな雪玉のことすら、覚えている者はほとんどいない。",
+      "ko": "다들 암마는 이미 오래전에 사미의 땅과 생명들을 떠났다고 믿고 있거든. 암마가 남긴 작은 눈덩이를 기억하는 사람도 거의 없고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "It weighs on me. Like Her warmth reaches no one but me now.",
+      "zh-TW": "我很難過。就好像祂的愛意，只有我能感受到。",
+      "zh-CN": "我很难过。就好像祂的爱意，只有我能感受到。",
+      "ja": "まるでアンマーの愛を、わたしだけしか感じ取れないようで……残念なんだ。",
+      "ko": "난 그게 너무 슬퍼. 마치... 암마의 사랑을 느끼는 사람이 나뿐인 것 같아서."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "But I know that's not the truth.",
+      "zh-TW": "但我知道，不是這樣的。",
+      "zh-CN": "但我知道，不是这样的。",
+      "ja": "だが、そんなはずはないとわかっている。",
+      "ko": "하지만 난 알아. 그렇지 않다는 걸 말이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Then let them live as stories. Get them all onto paper.",
+      "zh-TW": "那就把它們當作故事，都記在筆記本上吧。",
+      "zh-CN": "那就把它们当作故事，都记在笔记本上吧。",
+      "ja": "じゃあ、それを物語としてノートに残しておこう。",
+      "ko": "그렇다면 그 모든 걸 이야기로 남겨두자."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Stories carry love just as well. Yours. Amma's.",
+      "zh-TW": "故事一樣能夠傳遞愛意，不論是你的，還是安瑪的。",
+      "zh-CN": "故事一样能够传递爱意，不论是你的，还是安玛的。",
+      "ja": "物語だって愛を伝えられる。君の愛も、アンマーの愛もね。",
+      "ko": "이야기 역시 누군가의 마음을 전할 수 있으니까... 네 마음도, 암마의 마음도."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Yeah. I'll write it all down. Every little piece.",
+      "zh-TW": "嗯，我會記下來的，每個細節都不會落下。",
+      "zh-CN": "嗯，我会记下来的，每个细节都不会落下。",
+      "ja": "うむ、そうする。どんな小さいことでも、ひとつ残らず書き記してやるんだ。",
+      "ko": "응, 작은 디테일 하나까지 빠짐없이, 전부 기록해 둘게."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0034_typhoea_15002",
+   "topic": {
+    "en": "Legends of Sami: Amma",
+    "zh-TW": "薩米傳說·安瑪",
+    "zh-CN": "萨米传说·安玛",
+    "ja": "サーミ伝説・アンマー",
+    "ko": "사미의 전설 · 암마"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Endmin, great news! I got the manuscript open!",
+      "zh-TW": "管理員，好消息，那份手稿打開了！",
+      "zh-CN": "管理员，好消息，那份手稿打开了！",
+      "ja": "管理人、いい知らせだ。あの手記を開くことができたぞ！",
+      "ko": "관리자, 좋은 소식이야. 그 수기를 펼쳐볼 수 있게 됐어!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What does it say?",
+      "zh-TW": "裡面講了什麼？",
+      "zh-CN": "里面讲了什么？",
+      "ja": "何が書いてあったのかな。",
+      "ko": "안에 뭐가 적혀 있었어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Just like I guessed. Amma was out there clashing with the forest shadows, all to defend the settlement.",
+      "zh-TW": "就像我的猜測一樣，是安瑪為守護聚落，與林中陰影爭鬥的事蹟。",
+      "zh-CN": "就像我的猜测一样，是安玛为守护聚落，与林中阴影争斗的事迹。",
+      "ja": "わたしの見立て通りだった。アンマーが集落を守るため、森の影と戦ったという話だ。",
+      "ko": "내 예상대로야. 암마가 마을을 지키기 위해 숲속의 그림자와 맞서 싸운 내용이었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "And it's got a drawing of that snowball too.",
+      "zh-TW": "上面還畫出了那顆雪球的模樣。",
+      "zh-CN": "上面还画出了那颗雪球的模样。",
+      "ja": "それに、あの雪玉の姿も描かれていたんだ。",
+      "ko": "눈덩이 그림도 그려져 있었고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "The exact same as the one I remembered.",
+      "zh-TW": "和我記憶裡一模一樣。",
+      "zh-CN": "和我记忆里一模一样。",
+      "ja": "わたしの記憶と寸分も違わない。",
+      "ko": "내 기억 속 모습이랑 똑같았어."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Now you can write the story of Amma and her people. The one that's yours to tell.",
+         "zh-TW": "現在，你可以書寫一個安瑪與大家的故事了。",
+         "zh-CN": "现在，你可以书写一个安玛与大家的故事了。",
+         "ja": "これでアンマーと皆の物語を書けそうだね。",
+         "ko": "이제 암마와 모두의 이야기를 직접 써 내려가면 되겠네."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "Endmin... I find myself wanting more.",
+         "zh-TW": "管理員，我變得更貪心了。",
+         "zh-CN": "管理员，我变得更贪心了。",
+         "ja": "管理人、わたしはもっと欲張りになってしまった。",
+         "ko": "관리자, 나... 점점 욕심이 생기는 것 같아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "I want the story of Amma and her people to have a proper ending.",
+         "zh-TW": "我想要安瑪和大家的故事能有個結局。",
+         "zh-CN": "我想要安玛和大家的故事能有个结局。",
+         "ja": "アンマーと皆の物語に、結末があってほしい。",
+         "ko": "암마와 모두의 이야기에 결말이 있었으면 좋겠고..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "I want Her to find Her way back to us.",
+         "zh-TW": "我希望祂能回到我們中間。",
+         "zh-CN": "我希望祂能回到我们中间。",
+         "ja": "わたしたちの元に戻ってきてほしいと思ってしまうんだ。",
+         "ko": "암마가 다시 우리에게 돌아왔으면 좋겠어..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "And even if She never finds Her way back... I'd still wish for a reunion.",
+         "zh-TW": "就算祂不回來，我也希望還能有重逢的機會。",
+         "zh-CN": "就算祂不回来，我也希望还能有重逢的机会。",
+         "ja": "たとえもう戻らなかったとしても、せめて再び巡り合う機会があってもいいんじゃないかって。",
+         "ko": "설령 돌아오지 않더라도... 언젠가 다시 만날 수 있었으면 좋겠어."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Let everyone know. Show them that Amma's tales aren't just tales, they're real.",
+         "zh-TW": "現在，你可以告訴所有人，那些有關安瑪的傳說，不只是傳說。",
+         "zh-CN": "现在，你可以告诉所有人，那些有关安玛的传说，不只是传说。",
+         "ja": "これで皆に「アンマーの伝説はただの伝説じゃない」って伝えられるね。",
+         "ko": "이제 암마에 관한 이야기가 그저 단순한 전설이 아니라는 걸 모두에게 알려줄 수 있겠네."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "Endmin, I might have grown greedier.",
+         "zh-TW": "管理員，可能是我太貪心。",
+         "zh-CN": "管理员，可能是我太贪心。",
+         "ja": "管理人。これはもしかしたら、欲張りすぎるのかもしれないが……",
+         "ko": "관리자, 내가 너무 욕심이 많은 걸까..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "This still leaves me wanting. I need to know Amma's final fate.",
+         "zh-TW": "知道了這些還不夠，還想知道安瑪最後的下落。",
+         "zh-CN": "知道了这些还不够，还想知道安玛最后的下落。",
+         "ja": "もっともっと知りたいんだ。アンマーが最後にどこへ行ったのか……それも知りたいと思ってしまう。",
+         "ko": "이 정도로는 만족이 안 돼... 암마의 결말이 어떻게 됐는지도 알고 싶어졌어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "If She's no longer in Sami, then where did She go?",
+         "zh-TW": "祂離開了薩米，又會去哪裡？",
+         "zh-CN": "祂离开了萨米，又会去哪里？",
+         "ja": "サーミから去ったアンマーは、どこへ向かうのか。",
+         "ko": "사미를 떠난 뒤에는 어디로 갔을까?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "If there's still some place out there She could hold dear.",
+         "zh-TW": "是否還有一片土地能讓祂眷戀？",
+         "zh-CN": "是否还有一片土地能让祂眷恋？",
+         "ja": "アンマーが心を寄せられるような場所が、まだどこかに残っているのか。",
+         "ko": "아직 그가 그리워할 만한 땅이 남아 있을까..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "The Snowpriests say fate can always turn, but some things are already settled. You can't will them to be otherwise.",
+      "zh-TW": "可是雪祀跟我說，命運總會有改變的機會，但已成定局的事情是勉強不來的。",
+      "zh-CN": "可雪祀和我说，命运总有改变的机会，但已成定局的事情是勉强不来的。",
+      "ja": "雪祭司はこう言っていた。運命はいつだって変わるかもしれない。だが、すでに定まってしまったことは無理に変えられるものではない、と。",
+      "ko": "하지만 제사장은 말했었지. 운명은 바꿀 기회가 있을지라도, 이미 정해진 일은 억지로 바꿀 수 없다고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That's not greed. That's seeing things through to their end.",
+      "zh-TW": "這不是貪心，是有始有終。",
+      "zh-CN": "这不是贪心，是有始有终。",
+      "ja": "それは欲張りじゃないと思うよ。最後までやり遂げたいと思っているだけだよね。",
+      "ko": "그건 욕심이 아니야. 이야기의 끝을 보고 싶은 건 당연한 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "You know, if it could happen... I'd love you to be there when Amma appears.",
+      "zh-TW": "要是有可能，我甚至希望能跟你一起遇到安瑪。",
+      "zh-CN": "要是有可能，我甚至希望能和你一起碰见安玛。",
+      "ja": "できることなら、わたしはお前と一緒にアンマーに会いに行きたい。",
+      "ko": "가능하다면... 언젠가는 관리자랑 같이 암마를 만나고 싶어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Not just in dreams ... but there, the Myrkwood I remember. In the Wintertooth Mountains.",
+      "zh-TW": "不只是在夢中……更是在我記憶的黑森林、冬牙群山中。",
+      "zh-CN": "不只是在梦中……更是在我记忆的黑森林、冬牙群山中。",
+      "ja": "夢の中だけじゃない……記憶の中の黒き森、冬牙連峰にも。",
+      "ko": "꿈속이 아니라... 내 기억 속 검은 숲과 윈터투스 산맥에서 말이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Chasing Her prints side by side. Watching the hornbeasts pass, the tree-figures walk the ancient paths.",
+      "zh-TW": "一起追尋著祂的腳印，看角獸遷徙、樹傀儡行進。",
+      "zh-CN": "一起追寻着祂的脚印，看角兽迁徙、树傀儡行进。",
+      "ja": "一緒に足跡を辿って、角獣の移動やゴーレムの行進を眺めたいんだ。",
+      "ko": "함께 암마의 발자국을 좇고, 혼비스트가 떼를 지어 이동하는 모습도 보고, 나무 골렘들이 행진하는 모습도 보고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "That would be a wonderful story.",
+      "zh-TW": "那一定是很好的故事。",
+      "zh-CN": "那一定是很好的故事。",
+      "ja": "きっと、素晴らしい物語になるはずだから。",
+      "ko": "분명 정말 멋진 이야기가 될 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Right... Why not write it down?",
+      "zh-TW": "對啊，為什麼不寫下來呢？",
+      "zh-CN": "对啊，为什么不写下来呢？",
+      "ja": "うん。だから、それを書き残しておくのはどう？",
+      "ko": "그럼 왜 그 이야기를 직접 써 내려가지 않는 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "But it's only a story, one I've dreamed up.",
+      "zh-TW": "但這都是，我臆想的故事啊。",
+      "zh-CN": "但这都是，我臆想的故事啊。",
+      "ja": "だが、これは全部わたしが頭の中で思い描いた物語でしかない。",
+      "ko": "이 모든 건 전부 내가 상상한 이야기인걸."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Hey, stories don't have to be real to mean something.",
+      "zh-TW": "誰說故事一定要是真實發生過的？",
+      "zh-CN": "谁说故事一定要是真实发生过的？",
+      "ja": "物語は実際に起きたことでなければならない、なんて決まりはないよ。",
+      "ko": "이야기란 반드시 실제로 있었던 일이어야 한다고 누가 정의했지?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "The Snowpriests always said: seek truth in what's real, and let lies flow downstream.",
+      "zh-TW": "但雪祀教導大家，於真實中獲得啟示，將謊言置於流水。",
+      "zh-CN": "但雪祀教导大家，于真实中获得启示，将谎言置于流水。",
+      "ja": "だが雪祭司は皆にこう言っていた。真実の中から啓示を得て、偽りは流れる水に委ねよ、と。",
+      "ko": "하지만 제사장들은 늘 진실에서 깨달음을 얻고, 거짓은 흐르는 물에 흘려보내라고 가르치거든."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "The truth isn't in the details. It's in the emotions within them.",
+         "zh-TW": "真實的不是故事，是其中蘊含的情感。",
+         "zh-CN": "真实的不是故事，是其中蕴含的情感。",
+         "ja": "真実なのは、物語そのものじゃない。その中に込められた感情こそ、真実なんだ。",
+         "ko": "중요한 건 이야기의 진위가 아니야. 그 안에 얼마나 진실된 감정이 담겼냐는 거지."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "And that's as real as it gets.",
+         "zh-TW": "它們才是觸動你的源頭。",
+         "zh-CN": "它们才是触动你的源头。",
+         "ja": "君の心を動かしたのも、その感情だ。",
+         "ko": "그 감정이야말로 사람의 마음을 움직이는 힘이니까."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Fiction can carry real emotions too.",
+         "zh-TW": "虛假的故事一樣蘊含真實的情感。",
+         "zh-CN": "虚假的故事一样蕴含真实的情感。",
+         "ja": "偽りの物語だろうと、真実の感情は宿るはずだ。",
+         "ko": "지어낸 이야기에도 진심은 담길 수 있어."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That doesn't make those feelings any less real.",
+         "zh-TW": "這才是能夠觸動你的東西。",
+         "zh-CN": "这才是能够触动你的东西。",
+         "ja": "それが、君の心を動かしているんだからね。",
+         "ko": "사람의 마음을 움직이는 건 바로 그런 거야."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "I understand now. The Hongshan storytellers' tales of you, they resonate because the heart in them is true.",
+      "zh-TW": "我明白了，看來宏山說書人口中的管理員故事之所以能打動大家，也是因為有真情在。",
+      "zh-CN": "我明白了，看来宏山说书人口中的管理员故事之所以能打动大家，也是因为有真情在。",
+      "ja": "わかった。宏山の語り部が話す管理人の物語が皆の心を打つのは、そこに真実の感情があるからなんだな。",
+      "ko": "홍산의 이야기꾼이 들려주는 관리자의 이야기가 왜 사람들의 마음을 움직이는지 이제 알겠어. 바로 진심이 담겨 있어서였구나."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That's absolutely right!",
+      "zh-TW": "沒錯，就是這樣！",
+      "zh-CN": "没错，就是这样！",
+      "ja": "うん、その通りだ。",
+      "ko": "맞아, 바로 그거야!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Hang on. What have they been telling people this time?",
+      "zh-TW": "等等……他們又說我什麼了？",
+      "zh-CN": "等等……他们又说我什么了？",
+      "ja": "ちょっと待って……また、何か話を聞いてきたの？",
+      "ko": "...잠깐만. 이번에는 또 나에 대해 무슨 이야기를 퍼뜨린 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "The last tale I caught, they said you spared Nefarith three times over. In the hope she'd find a better path.",
+      "zh-TW": "上次聽到的內容是，你曾三次放走聶菲斯，只希望她能痛改前非。",
+      "zh-CN": "上次听到的内容是，你曾三次放走聂菲斯，只希望她能痛改前非。",
+      "ja": "管理人はネファリスを三度も見逃した。改心することを願って。",
+      "ko": "지난번에 들은 건... 관리자가 네파리스의 개과천선을 바라며 네파리스를 세 번이나 놓아줬다고 했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "But she wouldn't see reason. So you joined with the Left Envoy of Qingbo and the Lord of Xiranite, and sealed her beneath a Tianshi Pillar.",
+      "zh-TW": "但她執迷不悟，於是你只能聯合清波左使與息壤天君，將她鎮壓在天師樁下。",
+      "zh-CN": "但她执迷不悟，于是你只能联合清波左使与息壤天君，将她镇压在天师桩下。",
+      "ja": "だがその思いは届くことなく、清波左使と息壌天君と手を組み、天師杭の下に彼女を封じた。",
+      "ko": "그런데도 네파리스가 끝내 뉘우치지 않아서, 결국 청파 좌사와 식양 천군이랑 힘을 합쳐 그녀를 천사장 아래에 봉인했다는 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Even today, you're still trying to reach her. Every night, they say your voice carries through the Marker Stone—",
+      "zh-TW": "直到今天，你還在苦口婆心勸她悔過。每逢深夜，首墩內便會響起你的聲音——",
+      "zh-CN": "直到今天，你还在苦口婆心劝她悔过。每逢深夜，首墩内便会响起你的声音——",
+      "ja": "今日まで、管理人はなおも懸命に説得を続けている。夜が更けるたび、首礎の中から声が響く――",
+      "ko": "그리고 지금까지도 한밤중이 되면, 수돈 안에서 네파리스의 참회를 바라는 관리자의 목소리가 울려 퍼진다고 해..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "\"Repent, and return to light.\"",
+      "zh-TW": "「回頭是岸。」",
+      "zh-CN": "“回头是岸。”",
+      "ja": "「悔い改めよ」と。",
+      "ko": "\"잘못을 뉘우치면 길이 나타날 것이다.\""
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That's actually kind of inspiring... Wait, what?! That's not even close to what happened!",
+      "zh-TW": "聽起來是個蠻有教育意義的故事……不對！這也太離譜了！",
+      "zh-CN": "听起来是个蛮有教育意义的故事……不对！这也太离谱了！",
+      "ja": "なんだかためになるような話に聞こえるけど……でも、デタラメだ！いくら何でも事実と違いすぎる！",
+      "ko": "꽤나 교훈적인 이야기 같긴 한데... 그래도 이건 너무 황당하잖아!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0034_typhoea_15003",
+   "topic": {
+    "en": "Legends of Sami: Endministrator",
+    "zh-TW": "薩米傳說·管理員",
+    "zh-CN": "萨米传说·管理员",
+    "ja": "サーミ伝説・管理人",
+    "ko": "사미의 전설 · 관리자"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Endmin, mind if I ask you a few questions?",
+      "zh-TW": "管理員，我可以問你幾個問題嗎？",
+      "zh-CN": "管理员，我可以问你几个问题吗？",
+      "ja": "管理人、いくつか質問してもいいか？",
+      "ko": "관리자, 몇 가지 물어봐도 돼?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "I've been wanting to shape a story on my own. So I've been gathering whatever resources I can find.",
+      "zh-TW": "我想自己寫一個傳說故事，所以一直在收集素材。",
+      "zh-CN": "我想自己写一个传说故事，所以一直在收集素材。",
+      "ja": "わたしも伝説の物語を書いてみたくてな。だからずっと、素材を集めていた。",
+      "ko": "사실 전설 이야기를 하나 직접 써 보고 싶어서, 계속 소재를 모으고 있거든."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Are you asking because you want my experiences as a reference?",
+         "zh-TW": "你需要我的經歷作為故事素材嗎？",
+         "zh-CN": "你需要我的经历作为故事素材吗？",
+         "ja": "質問の答えを物語の素材にするっていうこと？",
+         "ko": "내 경험을 이야기의 소재로 쓰고 싶은 거야?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "Yeah.",
+         "zh-TW": "嗯。",
+         "zh-CN": "嗯。",
+         "ja": "うむ。",
+         "ko": "응."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "Every corner of Talos-II has tales of you. There's no one better suited to be the center of a legend.",
+         "zh-TW": "在塔衛二遊歷期間，到處都是你的傳說。要說傳說主角，沒人比你更適合了。",
+         "zh-CN": "在塔卫二游历期间，到处都是你的传说。要说传说主角，没人比你更适合了。",
+         "ja": "タロⅡを巡っている間、耳に入るのはお前の伝説ばかりだったぞ。伝説の主人公にお前よりふさわしい者はいない。",
+         "ko": "탈로스 II를 여행하면서 관리자에 대한 전설을 정말 많이 들었어. 전설의 주인공이라면 관리자보다 어울리는 사람은 없겠지."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "I'd sooner have your words than the whispers of others.",
+         "zh-TW": "比起道聽途說的消息，我更想從你這裡知道。",
+         "zh-CN": "比起道听途说的消息，我更想从你这里知道。",
+         "ja": "他の人から聞く噂話じゃなくて、お前自身の口からどうしても直接聞きたくてな。",
+         "ko": "하지만 떠도는 이야기보다, 직접 관리자한테 듣고 싶어서."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You want to write a story about me?",
+         "zh-TW": "你想寫有關我的故事嗎？",
+         "zh-CN": "你想写有关我的故事吗？",
+         "ja": "その答えから物語を書きたいっていうこと？",
+         "ko": "내 이야기를 쓰고 싶은 거야?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "Yeah.",
+         "zh-TW": "嗯。",
+         "zh-CN": "嗯。",
+         "ja": "ああ。",
+         "ko": "응."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "Your story is worth telling. It belongs in a legend.",
+         "zh-TW": "你的經歷很適合被寫成傳說故事。",
+         "zh-CN": "你的经历很适合被写成传说故事。",
+         "ja": "管理人の経験は、伝説の物語にするにはうってつけだからな。",
+         "ko": "관리자의 삶은 전설로 남기기에 딱 어울리거든."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "Everywhere I went on my travels, I kept running into tales with you at the heart of them.",
+         "zh-TW": "我遊歷時，見識到了很多以你為主角的故事。",
+         "zh-CN": "我游历时，见识到了很多以你为主角的故事。",
+         "ja": "旅の途中、お前を主人公にした話を何回も聞いたんだぞ。",
+         "ko": "여행하면서 관리자가 주인공인 이야기를 정말 많이 들었는데..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "But the you they wrote about ... that's not the you I see.",
+         "zh-TW": "但我覺得他們筆下的你，都不是我親眼見到的你。",
+         "zh-CN": "但我觉得他们笔下的你，都不是我亲眼见到的你。",
+         "ja": "だがその中のお前は、どれもわたしがこの目で見たお前とは違っていた。",
+         "ko": "난 그 이야기 속의 관리자를 실제로 보지 못했으니까."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Truth is, I don't even remember most of it. Perlica might be a better one to ask.",
+      "zh-TW": "但很多事我自己也不記得了，或許你可以問問佩麗卡。",
+      "zh-CN": "但很多事我自己也记不得了，或许你可以问问佩丽卡。",
+      "ja": "自分でも、覚えていないことが多くて……ペリカに聞いてみるのもいいかもしれないね。",
+      "ko": "그런데 예전 일은 나도 기억이 잘 안 나서... 어쩌면 펠리카한테 물어보는 게 더 나을지도 몰라."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Not what's passed. What's yet to come.",
+      "zh-TW": "不是以前的故事，是還沒發生的故事。",
+      "zh-CN": "不是以前的故事，是还没发生的故事。",
+      "ja": "過去の話じゃない。まだ起きてない物語を書いてみたいんだ。",
+      "ko": "아니, 예전 이야기가 아니라... 아직 일어나지 않은 이야기를 쓸 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Ah, I get it now. You're planning to make up a whole legend about me.",
+      "zh-TW": "知道了，你想虛構一個有關我的故事。",
+      "zh-CN": "知道了，你想虚构一个有关我的故事。",
+      "ja": "なるほど。新しい物語を書きたいんだね。",
+      "ko": "아, 내가 주인공인 가상의 이야기를 쓰고 싶은 거구나."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I've actually thought about that before. If I weren't in this role, what kind of person would I be? Where would life take me?",
+      "zh-TW": "其實有時候我也會想，如果不是現在這個身分，我又會是什麼人，會去做什麼？",
+      "zh-CN": "其实有时候我也会想，如果不是现在这个身份，我又会是什么人，会去做什么？",
+      "ja": "正直、たまに思うことがあるよ。今、この立場じゃなかったら……自分はどんな人で、何をしていたんだろうって。",
+      "ko": "가끔은 나도 생각하곤 해. 지금의 신분이 아니었다면, 난 어떤 사람이 되어 뭘 하고 있었을까 하고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "If you've got ideas, I'd love to hear them.",
+      "zh-TW": "如果你有想法，可以跟我講講。",
+      "zh-CN": "如果你有想法，可以和我讲讲。",
+      "ja": "思うことがあれば、何でも話してほしい。",
+      "ko": "생각나는 게 있으면 들려줘."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "The story isn't clear to me yet. But perhaps it'll take shape as I go.",
+      "zh-TW": "故事內容我還沒有想好，說不定能從裡面收穫靈感。",
+      "zh-CN": "故事内容我还没有想好，说不定能从里面收获灵感。",
+      "ja": "物語の内容はまだ決めていないし、新しい閃きが得られるかもしれないからな。",
+      "ko": "지금은 아직 이야기의 내용을 정하지 못해서, 뭐라도 영감을 얻을 수 있을 것 같거든."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Maybe it doesn't matter what title I carry. I think I'd still find my way to Endfield.",
+         "zh-TW": "或許，即便我不是管理員，還是會出現在終末地。",
+         "zh-CN": "或许，即便我不是管理员，还是会出现在终末地。",
+         "ja": "たとえ「管理人」じゃなかったとしても、やっぱりエンドフィールドにいる気がする。",
+         "ko": "관리자가 되지 않았더라도, 아마 난 여전히 엔드필드에 있었을 것 같아."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "And I'd still get to meet everyone. To know you all.",
+         "zh-TW": "這樣依然還能與大家結識。",
+         "zh-CN": "这样依然还能与大家结识。",
+         "ja": "そうすれば、皆とも出会える。",
+         "ko": "그래야 지금의 모두를 만날 수 있을 테니까."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Maybe I'm not the Endmin. Maybe Endfield isn't even where I'm meant to be...",
+         "zh-TW": "或許，我不是管理員，也不在終末地……",
+         "zh-CN": "或许，我不是管理员，也不在终末地……",
+         "ja": "「管理人」じゃなかったら、エンドフィールドにはいなかったのかな……",
+         "ko": "어쩌면 관리자가 되지도 않았고, 엔드필드에 없었을지도 몰라..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "But if that's the case, how would I even cross paths with everyone?",
+         "zh-TW": "但這樣，我該怎麼找到大家，與大家成為同伴？",
+         "zh-CN": "可这样，我该怎么找到大家，与大家成为同伴？",
+         "ja": "もしそうだったら、どうやって皆と出会って、仲間になればいいんだろう。",
+         "ko": "하지만 그렇게 된다면, 난 어떻게 너희와 만나고 동료가 되지..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That's no good.",
+         "zh-TW": "不太好。",
+         "zh-CN": "不太好。",
+         "ja": "うん……それは駄目だ。",
+         "ko": "그건 별로일 것 같아."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "I see. No matter who you are, you want to stay at Endfield.",
+      "zh-TW": "瞭解了，無論是什麼身分，你都希望能夠留在終末地。",
+      "zh-CN": "明白了，无论身份是什么，你都希望能够留在终末地。",
+      "ja": "わかった。どんな立場だったとしても、お前はエンドフィールドにいたいと思っているんだな。",
+      "ko": "알겠어. 어떤 신분이든, 관리자는 엔드필드에 있고 싶다는 거네."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Keep going.",
+      "zh-TW": "繼續說。",
+      "zh-CN": "接着说。",
+      "ja": "それで、その続きはどうだ？",
+      "ko": "계속 말해 봐."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Maybe I'd switch with Perlica and be the one running things as supervisor.",
+         "zh-TW": "或許我會和佩麗卡一樣，擔任終末地監督。",
+         "zh-CN": "或许我会和佩丽卡一样，担任终末地监督。",
+         "ja": "ペリカのように、エンドフィールドの監察官を務めているかもしれない。",
+         "ko": "펠리카처럼 엔드필드 감독관이 되었을지도 모르지."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "But you and Supervisor Perlica work side by side all the time. What you do is almost the same, really.",
+         "zh-TW": "可是管理員你和佩麗卡監督常在一起工作，你們做的事情，幾乎沒什麼區別啊。",
+         "zh-CN": "可是管理员你和佩丽卡监督常在一起工作，你们做的事情，几乎没什么区别啊。",
+         "ja": "だが、お前とペリカ監察官はいつも一緒に働いているよな？やっていることは、ほとんど同じじゃないのか？",
+         "ko": "그런데 관리자랑 펠리카 감독관은 늘 같이 일하잖아. 지금 하는 일도 거의 똑같은걸."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Maybe I'd be like Andre. Just being an engineer and building things.",
+         "zh-TW": "或許我會像安德烈一樣，成為一個優秀的工程師。",
+         "zh-CN": "或许我会像安德烈一样，成为一个优秀的工程师。",
+         "ja": "アンドレイみたいに、優秀なエンジニアになっているかもしれない。",
+         "ko": "안드레 씨처럼 뛰어난 공학자가 되었을지도 모르지."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "But you already know engineering inside and out. You and Andre built the AIC system together.",
+         "zh-TW": "可是你本身就精通工程技術，更是與他一起合作研發了集成工業系統。",
+         "zh-CN": "可你本身就精通工程技术，更是与他一起合作研发了集成工业系统。",
+         "ja": "だが、お前はもともと工業技術に詳しいよな？アンドレイさんと一緒に集成工業システムまで開発したんだろう。",
+         "ko": "하지만 관리자는 이미 공학 기술에 능숙하잖아. 안드레 씨와 함께 통합 공업 시스템도 개발했는걸."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Maybe I'd be like Chen, a skilled swordsmancer roaming around.",
+         "zh-TW": "或許我會和陳一樣，是個劍法高超的俠客。",
+         "zh-CN": "或许我会和陈一样，是个剑法高超的侠客。",
+         "ja": "チェンみたいに、凄腕の侠客になっているかもしれない。",
+         "ko": "천우처럼 검술이 뛰어난 협객이 되었을지도 모르지."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Typhoeus",
+         "zh-TW": "提弗洛斯",
+         "zh-CN": "提弗洛斯",
+         "ja": "ティフォロス",
+         "ko": "티프로스"
+        },
+        "text": {
+         "en": "But you're always traveling around, helping wherever you can. That's as noble as any wandering blade.",
+         "zh-TW": "可是你常常不辭辛苦，四處幫助別人，不就像遊俠一樣。",
+         "zh-CN": "可你常常不辞辛苦，四处帮助别人，不就像游侠一样。",
+         "ja": "だが、お前は苦労を厭わないし、あちこちで人助けをしているよな？それは、侠客そのものじゃないのか？",
+         "ko": "하지만 관리자는 지금도 늘 힘든 내색을 안 하고 사람들을 도와주러 다니잖아. 이미 협객이나 다름없는걸."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Endmin... I sense it. In your core, you have no question of who you are.",
+      "zh-TW": "管理員，我覺得……你在內心深處，對自己的身分沒有疑問。",
+      "zh-CN": "管理员，我感觉……你在内心深处，对自己的身份没有疑问。",
+      "ja": "管理人、わたしはこう思うんだ。お前は心の底では「自分が何者か」わかってるんじゃないかって。",
+      "ko": "관리자, 대화를 나눠보니, 넌 왠지... 마음속 깊은 곳에서, 자신의 정체성에 대해 한 번도 의심해 본 적이 없는 것 같아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Fair point... Then what would you want me to be?",
+      "zh-TW": "也是……那你希望故事裡的我是什麼身分？",
+      "zh-CN": "也是……那你希望故事里的我是什么身份？",
+      "ja": "そうだね……じゃあ君の物語の中で「どんな存在」であってほしいと思う？",
+      "ko": "그러게... 그럼 넌 내가 이야기 속에서 어떤 사람이었으면 좋겠어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Good question...",
+      "zh-TW": "讓我想想……",
+      "zh-CN": "让我想想……",
+      "ja": "そうだな……",
+      "ko": "음..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "A friend to Typhoeus, guardian of these wilds. Moving together through bog and canopy, sharing in Sami's low, ageless song.",
+      "zh-TW": "是山林守護者提弗洛斯永遠的朋友，穿梭在沼澤和高聳的樹林間，一同聆聽薩米低沉而古老的聲音。",
+      "zh-CN": "是山林守护者提弗洛斯永远的朋友，穿梭在沼泽和高耸的树林间，一同聆听萨米低沉而古老的声音。",
+      "ja": "山と森の守護者ティフォロスの、永遠の友。沼地と高くそびえる木立の間を駆け抜け、共にサーミの低く古い声に耳を傾ける者。",
+      "ko": "숲의 수호자 티프로스의 영원한 친구. 늪과 울창한 숲을 함께 누비며, 사미가 들려주는 낮고 오래된 목소리에 함께 귀 기울이는 사람."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Guided by Her, standing together against the darkness that dares to enter the wood.",
+      "zh-TW": "受祂指引，共同對抗進犯林地的邪惡力量。",
+      "zh-CN": "受祂指引，共同对抗进犯林地的邪恶力量。",
+      "ja": "サーミに導かれ、森を侵す邪悪な力に共に立ち向かう――そんな存在だ。",
+      "ko": "그리고 사미의 인도를 받아, 숲을 침범하는 사악한 힘에 함께 맞서는 사람... 그런 사람이었으면 좋겠어."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Write that down, please. I'm all in on that one.",
+         "zh-TW": "請快點寫，我很喜歡這個身分。",
+         "zh-CN": "请快点写，我很喜欢这个身份。",
+         "ja": "それ、すごく気に入ったよ。早く書いてほしいな。",
+         "ko": "그 역할, 정말 마음에 들어. 얼른 이야기를 완성해 줘."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "When do you think you'll have it done? I can't wait to read it.",
+         "zh-TW": "什麼時候能看到，我等不及想看了。",
+         "zh-CN": "什么时候能看到，我等不及想看了。",
+         "ja": "いつ書き上がるかな。早く読みたくて。",
+         "ko": "이야기는 언제쯤 완성돼? 벌써부터 읽고 보고 싶은걸."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Typhoeus",
+      "zh-TW": "提弗洛斯",
+      "zh-CN": "提弗洛斯",
+      "ja": "ティフォロス",
+      "ko": "티프로스"
+     },
+     "text": {
+      "en": "Soon as it's ready, you'll be the first to see it, Endmin. You're going to be the very first person to read this story!",
+      "zh-TW": "寫好就給你看，管理員，你會是這段傳奇故事的第一位見證人！",
+      "zh-CN": "写好就给你看，管理员，你会是这段传奇故事的第一位见证人！",
+      "ja": "書き終わったらすぐに見せるからな。管理人、お前を伝説の最初の証人にしてやる。",
+      "ko": "완성되면 제일 먼저 너한테 보여줄게. 관리자는 이 전설을 가장 먼저 읽게 될 첫 번째 독자가 될 거야!"
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 4
+}

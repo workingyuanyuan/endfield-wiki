@@ -44,6 +44,8 @@ sources:
 
 Estella handles intel gathering and communications for Endfield's Operations Team Z7, hoping her work makes life easier despite her weak stamina and constant misfortune.
 
+Files, voice lines and chats: [Estella's file](/story/estella/).
+
 ## How to obtain
 
 Estella has no rate-up banner. Estella is in the standard roster, which Basic Headhunting and every Chartered Headhunting pool draw from.

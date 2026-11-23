@@ -55,6 +55,8 @@ sources:
 
 Zhuang Fangyi is the Viceroy of the Wuling Scientific Developmental District and Tianshi of the Novel Xiranite-based Materials Project, recommended by the HAS to research rifts at Endfield.
 
+Files, voice lines and chats: [Zhuang Fangyi's file](/story/zhuang-fangyi/).
+
 ## How to obtain
 
 Zhuang Fangyi is the rate-up 6-star operator of Thunder of Renewal, a Chartered Headhunting banner of [Version 1.2, At the Wake of Spring](/versions/1-2/). Banners with Zhuang Fangyi:

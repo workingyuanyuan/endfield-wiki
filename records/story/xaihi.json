@@ -1,0 +1,3525 @@
+{
+ "slug": "xaihi",
+ "gameId": "chr_0011_seraph",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Xaihi \nGENDER: Female \nAUTHENTICATION: Cabal of Tranquility \nDOB: May 16 \nRACE: Sarkaz \n[ORIPATHY INFECTION STATUS] \nOripathy positive (infected), based on medical examination reports. \n\n[INTEGRATED PHYSICAL EXAMINATION] \nPHYSIOLOGICAL STRENGTH: Normal \nCOMBAT SKILL: Standard \nTACTICAL ACUMEN: Standard \nORIGINIUM ARTS ASSIMILATION: Excellent",
+    "zh-TW": "【代號】賽希\n【性別】女\n【身分認證】寂語修會\n【生日】5月16日\n【種族】薩卡茲\n【礦石病感染情況】\n參照醫學檢測報告，確認為感染者。\n\n【綜合體檢測試】\n生理強度：普通\n作戰技巧：標準\n戰術規劃：標準\n源石技藝適應性：優良",
+    "zh-CN": "【代号】赛希\n【性别】女\n【身份认证】寂语修会\n【生日】5月16日\n【种族】萨卡兹\n【矿石病感染情况】\n参照医学检测报告，确认为感染者。\n\n【综合体检测试】\n生理强度：普通\n作战技巧：标准\n战术规划：标准\n源石技艺适应性：优良",
+    "ja": "【コードネーム】ザイヒ\n【性別】女\n【身分証明】静語伝道会\n【誕生日】5月16日\n【種族】サルカズ\n【鉱石病感染状況】\nメディカルチェックの結果、感染者に認定。\n\n【能力測定】\n物理強度：普通\n戦闘技術：標準\n戦術立案：標準\nアーツ適性：優秀",
+    "ko": "[코드네임] 자이히\n[성별] 여\n[신분 인증] 고요한 수도회\n[생일] 5월 16일\n[종족] 살카즈\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 보통\n작전 기술: 표준\n전술 계획: 표준\n오리지늄 아츠 적응성: 우수"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Séraphine Xaihi is a member of the Cabal of Tranquility. Since Endfield Industries and the Cabal of Tranquility are jointly carrying out Originium Information Technology research projects, Abbess Vronta recommended Xaihi to work at Endfield premises. Xaihi is currently building the Dijiang Protorig Network and performing various data engineering tasks such as systems integration. \n\nXaihi seems to be extremely interested in my mechanical construction and sentience module. During our conversation, she repeatedly inquired how my linguistics converter transformed sentience logic signals into digital code interpretable as audio wave outputs by my voice generator. In every occasion, I politely requested her to focus on the ongoing HR interview. Xaihi appeared rather disappointed and expressed her desire to install a duplicate set of my components into her physical body, her reasons being: \"This will prevent me from suddenly voicing bursts of esoteric verbiage, and thus avoid incidents of misunderstanding and disturbance.\" I pointed out that Xaihi's human organ — namely, her cerebrum, is far more capable of generating expressions more complex and effective than machine-generated language. Miss Xaihi, out of personal etiquette, gave me a smile in response. \nBesides this minor incident, the general profile of Xaihi matches an individual capable of living together with mechanical constructs. This matches her knowledge and background with the Cabal of Tranquility. Her introverted nature, however, differed from other Cabalists whom we have communicated with. The Cabal, after all, is an organization known throughout the world for their openness as well as eagerness to link up with others. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "塞拉菲娜·賽希，隸屬於寂語修會。因終末地工業與寂語修會合作開展源石資訊技術的研究計劃，受修道院長伏龍達推薦，前來終末地就職。現階段參與帝江號協議源石網路的搭建與系統整合等資訊工程事務。\n\n賽希對我的機械構造和心智模組產生了極大的興趣，在聊天時不斷詢問我的意識訊號是如何利用語言轉換器組成編碼，並從我的發聲器中輸出的。在我屢次禮貌地請她將話題轉回到人事訪談上時，賽希略顯失望，並表示她也想要安裝一個跟我一樣的邏輯組件——「這樣就不會在毫無準備的狀況下突然脫口而出一些奇怪的話語，從而打擾到其他人了。」我指出，賽希擁有人類的器官——大腦，它的表達比機器人的語言生成更複雜，更高效。賽希小姐出於禮貌，向我露出了一個微笑。\n除了這段小插曲之外，賽希總體是一個極為擅長與機械造物相處的人，這符合她隸屬的寂語修會的知識背景。她的內斂個性卻與我們接觸過的其他修會成員不同，畢竟這個組織長久以來以奔放與連結聞名於世。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "塞拉菲娜·赛希，隶属于寂语修会。因终末地工业与寂语修会合作开展源石信息技术的研究项目，受修道院长伏龙达推荐，前来终末地供职。现阶段参与帝江号协议源石网络的搭建与系统集成等信息工程事务。\n\n赛希对我的机械构造和心智模块产生了极大的兴趣，在聊天时不断询问我的意识信号是如何通过言语转换器组成编码，并从我的发声器中输出的。在我屡次礼貌地请她将话题转回到人事访谈上时，赛希略显失望，并表示她也想要安装一个与我一样的逻辑组件——“这样就不会在毫无准备的情况下突然脱口而出一些奇怪的话语，从而打扰到其他人了。”我指出，赛希拥有人类的器官——大脑，它的表达比机器人的语言生成更复杂，更高效。赛希小姐出于礼貌，向我露出了一个微笑。\n除了这段小插曲之外，赛希总体是一个极为擅长与机械造物相处的人，这符合她隶属的寂语修会的知识背景。她的内敛个性却与我们接触过的其他修会成员不同，毕竟这个组织长久以来以奔放与联结闻名于世。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "セラフィーナ・ザイヒは静語伝道会に所属している。エンドフィールド工業と静語伝道会共同で行った源石情報技術に関するプロジェクトをきっかけに、伝道会長ブロンタの推薦によってエンドフィールドに派遣されてきた。現段階では、帝江号における協約源石ネットワークの構築およびシステム統合等の情報工学関連業務に従事している。\n\n「ザイヒは私の機械構造と知能ユニットに非常に強い関心を示していました。会話中、私の意識信号がどのように言語転換装置を通じてコード化され、発声装置から出力されるのかを何度も尋ねてきましたから。私は話題を人事面談に戻すよう丁重に促したものの、ザイヒは少しがっかりした様子で『私も同じようなユニットを取り付ければ、突然不思議なことを言って周囲を困らせることもないのでしょう』と言いました。人間には脳という器官があり、その情報伝達はロボットの言語生成よりも複雑で効率的であると指摘しましたが、彼女は礼儀正しく笑顔を返すのみでした。」\n「この些細なエピソードを除けば、ザイヒは全体的に機械的な創造物との付き合いに非常に長けた人物と言えます。この特性は、彼女が所属する静語伝道会が持つ背景と一致しています。ただし、彼女の控えめな性格については、これまで私たちが接触してきた他の伝道会の構成員とは少し異なる印象を受けます。この組織は古くより奔放さと結束の強さで知られてきましたから。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "세라핀 자이히는 고요한 수도회에 소속되어 있다. 엔드필드 공업과 고요한 수도회가 함께 진행하는 오리지늄 정보 기술 프로젝트에 따라 수도원장인 플론다의 추천을 받고, 엔드필드에서 근무 중이다. 현 단계에서는 제강호 프로토콜 오리지늄 네트워크의 구축 및 시스템 통합 같은 정보공학 업무를 담당하고 있다.\n\n자이히는 나의 기계 구조와 지능 모듈에 큰 관심을 보였으며, 대화 중에 나의 의식 신호가 어떻게 언어 변환기를 통해 코드로 변환되고 또 발성기를 통해 출력되는지를 끊임없이 물어보았다. 내가 여러 번 정중하게 인사 면접에 관한 얘기를 하자고 했을 때, 자이히는 다소 실망한 표정을 지으며, 나와 같은 로직 모듈을 설치하고 싶다고 하면서, \"그러면 갑자기 엉뚱한 말이 튀어나와서 다른 사람에게 민폐를 끼치는 일이 없을 테니까요.\"라 했다. 자이히가 가진 인간의 기관인 뇌는 로봇의 언어 생성 방식보다 훨씬 복잡하고 효율적이라고 내가 지적하자, 그녀는 예의상 나에게 미소를 지었다.\n이런 작은 에피소드 외에도, 자이히는 전반적으로 기계 제조물과 매우 잘 지내는 편이다. 이 점은 그녀가 속한 고요한 수도회의 지식 배경과도 잘 맞아떨어진다. 다만 그녀의 내성적인 성격은 우리가 만나본 다른 수도회 사람들과는 조금 다르다. 고요한 수도회는 오랫동안 개방적이고 연결성을 중시하는 것으로 유명했으니까.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "Visiting Operator Xaihi during non-working hours is a process so convoluted that people have regarded it as a form of \"filter\". However, Xaihi herself does not see it that way. The process begins at one's arrival at Dijiang via the TP Point next to the Central Ring. You, the visitor, shall then walk through the lengthy corridors of the living quarters while avoiding the crowd. Make the turn onto the narrow lane, then stop at the unassuming cabin on the right at the very end. The smooth door is almost at the same level with the walls, and seems unwilling to accept entry. You might hesitate and think about rumors of the non-existent \"Ghost of Dijiang\" as you follow the illustrated instructions and depress the third wall panel next to the door. This is the only action that will reveal the dial hidden beneath. \nYour wait is not long, because the actions of visitation have been permitted by the lady of the alcove. She may exhibit a touch of shyness when she opens the door for you. \n\"Revelations of the Law have predicted your arrival,\" she said as she folded her hands before her skirt and bowed slightly, \"I shall seek the object of your desire.\" \nThe door slowly closes before you, denying you visuals of every action and potentiality taking place within that little alcove — the very same location that many operators have esoterically described as \"One of the Egresses of the Assimilated Universe\". The noise and clamor of Dijiang is only a dozen yards away. You suddenly notice the peculiar tranquility within the narrow corridor. Across immeasurable stretches of time, you, the visitor, is prevented from committing to the flow of verbal exchange. Instead, the collision of stars echo within your ears as teachings and gospels of eons flood your mind. All point toward the nebulous path that yearns to make itself known. \nThe door then opens. The gentle Sarkaz girl named Séraphine Xaihi shows herself again. She gives unto you a specialized operational asset that you have applied via the Endfield Office Administration System: A brand new handheld terminal. \nYou, the visitor, offer your thanks as you take a quick glance at the alcove interiors. You see a seat showered in the eerie blue of a dozen monitors. There is also a narrow bed for one, blankets neatly folded and moored at its end. And this is all that is contained within \"One of the Egresses of the Assimilated Universe\".",
+    "zh-TW": "非工作時間，在帝江號上訪問賽希幹員的流程，複雜到本身就足以被稱為一種「篩選」，但其本人顯然不作此解讀。從中央環廳旁邊的協議傳送點抵達帝江號，來訪者需要穿過生活區漫長的迴廊，避開人流，走進一條小岔路，走到頭，在右手邊一扇不起眼的艙門前止步。平整光滑的艙門好像一種拒絕，你稍稍疑慮，回想起諸多有關那實際上並不存在的「帝江號上的幽靈」的流言，依照圖示按下門邊第三塊浮動壁塊，隱藏在下方的撥盤才會悄然浮現。\n你不會等候太久，因為一切拜訪行為都是在小房間主人的允許下產生的，但她為你打開門時，還是顯露出了一絲害羞。\n「律法已經向我啟示過您的到來了。」她將手交疊在裙前，微微欠身，「我會為您尋得所期之物。」\n小門在你面前緩緩關上，將你窺探門後那間小屋——在幹員們的口耳相傳中已被玄化為「內化宇宙出口之一」——的樣貌的可能性一併杜絕。帝江號上喧鬧的人聲遠在十公尺之外，你突然意識到，這條廊道非常寂靜。在那段無法估量的時間裡，來訪者堵絕了語言的洪流，耳邊懸掛著恆星碰撞的聲響，萬古的箴言與福音在心間流淌，為你指向含糊不清卻又呼之欲出的道途。\n隨後小門打開了，溫和的薩卡茲少女塞拉菲娜·賽希再次閃現，她交給你之前透過終末地辦公系統申請下來的特種作業資產：一部新的便攜式終端。\n來訪者道謝後匆匆向屋內瞥了一眼，看見了被十台螢幕幽藍的光芒包裹下的座椅，以及一張狹窄的單人床，被褥疊得整整齊齊，放在床頭——這就是「內化宇宙出口之一」的全部樣貌。",
+    "zh-CN": "非工作时间，在帝江号上访问赛希干员的程序，复杂到本身就足以被称为一种“筛选”，但其本人显然不作此解读。自中央环厅旁边的协议传送点抵达帝江号，来访者需要穿过生活区漫长的回廊，避开人流，岔进一条小路，走到头，在右手边一扇不起眼的舱门前停步。平整光滑的舱门好像一种拒绝，你稍事疑虑，回想起诸多有关那实际上并不存在的“帝江号上的幽灵”的流言，按图索骥揿动门边第三块浮动壁块，隐藏在下方的拨盘才会悄然浮现。\n你不会等候太久，因为一切拜访行为都是在小房间主人的允许下产生的，但她为你打开门时，还是显露出了一丝羞赧。\n“律法已经向我启示过您的到来了，”她将手交叠在裙前，微微欠身，“我会为您寻得所期之物。”\n小门在你面前缓缓关上，将你窥探门后那间小屋——在干员们的交口相传中已被玄化为“内化宇宙出口之一”——的样貌的可能性一并杜绝。帝江号上喧杂的人声远在十米开外，你突然意识到，这条廊道寂静非常。在那段无法估量的时间里，来访者堵绝了语言的洪流，耳边悬挂着恒星碰撞的声响，万古的箴言与福音在心间流淌，为你指向含糊不清却又呼之欲出的道途。\n随后小门打开了，温和的萨卡兹少女塞拉菲娜·赛希再次闪现，她交给你此前通过终末地办公系统申请下来的特种作业资产：一部新的便携终端。\n来访者道谢后匆匆向屋内瞥了一眼，瞧见了十台显示屏幽蓝的光芒包裹下的座椅，以及一张狭窄的单人床，被褥叠得整整齐齐，码在床头——这就是“内化宇宙出口之一”的全部样貌。",
+    "ja": "勤務時間外にザイヒを訪ねるには、非常に複雑な手順がある。それ自体が、ある種「フィルター」になっているとも言えるだろうが、ザイヒ本人は特にそう思っていないようだ。来訪者はまず、中央ホール横にある協約転送ポイントを経由して帝江号へと転送される。生活区画の長い廊下を進み、人気の少ない通路の突き当りまで進むと、右手に目立たない扉がある。まるで無言の拒絶を伝えるかのような平たく滑らかな扉の前で足を止めると、「帝江号の幽霊」――少しの疑問と共に噂話がふと頭をよぎるが、手順通り、扉の横にある3つ目のブロックを押す。すると、隠されていたダイヤルが下から静かに現れる。\n長く待たされることはない。訪問は、部屋の主の許可によって成立するものだ。しかし扉が開いた瞬間、彼女は少し恥ずかしそうに見えた。\n「法はすでに、あなたの訪れを示していました。」そう言って、彼女は両手をドレスの前で重ね、わずかに身をかがめた。「では、お望みのものを探して参ります。」\n扉はゆっくりと閉まり、オペレーターの間で「内宇宙の出口の1つ」と噂される部屋の中を窺うことはできなかった。帝江号の賑わいが10mほど先からかすかに聞こえてくる。そのとき、初めてこの廊下の静けさに気がつくのだ。曖昧な時間の流れに身を置きながら、言葉を遮断し、耳元では恒星がぶつかるような音が響き、永久の戒めと福音が心の中を流れ去っていく。どこか朧げで、確かな「道」が指し示される――\n扉が再び開き、穏やかなサルカズの少女「セラフィーナ・ザイヒ」が現れた。そして、来訪者が以前エンドフィールドのシステムから申請した特殊作業資産――新しい携帯端末を手渡した。\n礼を述べ、一瞬部屋の中を見やると、そこにあったのは青く光る10台のスクリーンに照らされた1脚のチェア、そしてきちんと畳まれた寝具が置かれた小さなシングルベッド――「内宇宙の出口の1つ」と呼ばれる空間の正体は、ただそれだけであった。",
+    "ko": "업무 외 시간에 제강호에서 자이히 오퍼레이터를 방문하는 과정, 그 자체로 하나의 '선별 과정'이라 부를 수 있을 정도로 복잡하지만, 정작 자이히 본인은 그렇게 여기지 않는다. 중앙 홀 옆 프로토콜 전송 지점을 통해 제강호에 도착한 방문자가 생활 구역의 긴 복도를 통과해 인파를 피하고 작은 샛길로 접어든 후, 그 길 끝까지 가면 오른쪽에 눈에 띄지 않는 작은 문이 하나 나타난다. 매끈한 문은 마치 방문자를 거부하는 것 같다. 그 문 앞에서 당신은 잠시 망설이다가, 실제로는 존재하지 않는다는 '제강호의 유령'에 대한 여러 소문들을 떠올린다. 안내받은 대로 문 옆에 있는 세 번째 부유식 벽면을 누르면 그 아래 숨어 있던 다이얼이 비로소 조용히 나타난다.\n너무 오래 기다릴 필요는 없다. 이곳에서의 모든 방문은 방 주인의 허가 아래 이뤄지기 때문이다. 하지만 그녀가 문을 열어줄 때, 약간의 수줍음이 드러났다.\n\"율법이 이미 당신이 오실 거라 제게 알려주셨어요.\" 자이히는 두 손을 치맛자락 앞에 가지런히 모으고 살짝 허리를 숙여 인사했다. \"당신이 찾으시는 것을 제가 찾아드릴게요.\"\n작은 문이 천천히 닫히고, 그 뒤에 숨겨진 방, 오퍼레이터들 사이에서 '융합 우주의 출구 중 하나'라고 신비롭게 묘사되는 방을 엿볼 기회마저 사라졌다. 제강호의 시끄러운 소음은 10미터 밖에서 아득하게 들려왔고, 당신은 문득 이 복도가 지독히도 고요하다는 것을 깨달았다. 그 가늠할 수 없는 시간 동안, 방문자는 언어의 홍수로부터 단절되었다. 귓가에는 항성이 충돌하는 소리가 울리고, 영겁의 잠언과 복음이 마음속을 흐르며, 모호하지만 곧 드러날 듯한 길을 비추었다.\n잠시 후 문이 다시 열리고, 부드러운 미소를 지닌 살카즈 소녀 세라핀 자이히가 다시 모습을 드러낸다. 그녀는 엔드필드 업무 시스템을 통해 사전에 신청했던 특수 작업 자산, 즉 새로운 휴대용 단말기를 당신에게 건넸다.\n방문자는 고맙다는 인사와 함께 급히 방 안을 흘끗 바라보았다. 그리고 푸르스름한 빛을 내는 열 대의 모니터로 둘러싸인 의자 그리고 좁은 1인용 침대가 있었고, 이불은 깔끔하게 개어져 침대 머리맡에 놓여 있었다. 그곳이 바로 '융합 우주의 출구 중 하나'의 전부였다."
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "Xaihi is a calm and reliable operator. She treats her profession with the most zealous of faith, and handles her personal beliefs in the most professional manner. Four years ago, Xaihi came to Endfield Industries as a visiting scholar to support Originium technology projects that we jointly pursue with the Cabal of Tranquility. We did not give her any actual responsibilities back then. However, she immediately committed herself to the repairs of Dijiang mere moments after her arrival. I am inclined to believe that Cabalists have an innate sense of duty, given their knowledge of our past and their hopes for our future. \n— Perlica \n\nHer way of thinking is completely different from mine. However, we got along fine. It's nothing complicated. Sometimes she pointed out details that I never saw. Hmm. An example? Let me think. I got one. She said: \"People reside in their respective languages.\" That line alone got me thinking for an entire day. \n— Arclight \n\nWha? Did she really say that? Now I'm curious! Arclight and Xaihi, our two mega opposite techno-gals, can actually talk to each other! HOW?! Well, I guess Operator Xaihi does talk to everyone. That's what makes her so awesome... And convos with Xaihi don't sound as though she's just blabbering on about her own stuff... I guess people do get some tranquil vibes from her. \n— Chen Qianyu \n\nI often converse with Operator Xaihi during work. We are both interested in Originium devices. No, that doesn't make us colleagues. Her knowledge and expertise in servers and electronic systems far surpass mine. What do you mean it's rare for me to say something positive about other people? Hurhurhur. I regard myself as an easygoing and casual individual. \n...Since you started this topic, I'm actually curious why she chose to bunk in the server room. Yes, I'm talking about the place where all the server professionals worked at. Look, if I apply for an office equipment for specialized electrical work processes, instead of telling me to pick up the thing at the Logistics Division, I have to pick up the device from her place. That place is devoid of natural solar radiation and has non-stop air conditioning to keep it cold. I have not entered there. Exposing a Savra to such conditions for extended periods of time will induce severe lethargy. I must say that living in such environments is a strange and unique choice. Perhaps she is trying to maintain a long-lost tradition of asceticism. \nHey, don't leave. I'm not done yet. Operator Xaihi also has a good tastes in gaming. She is one of the very few skillful adversaries I can respect aboard Dijiang. What game, you say? Sudoku. There is no other real game but Sudoku. \n— Antal \n\nHer hands are cold. She said redemption is cold. I shall live with this fact. \n— Ember",
+    "zh-TW": "賽希是一位沉穩、可靠的幹員。她以虔誠的態度對待專業，又以專業的態度處理信仰。四年前，賽希只是因為修會與我們的源石技術合作計劃來到終末地進修，並未承擔任何實質性的工作任務，但她一抵達，便即刻主動投身於帝江號的修繕工作中。我想這也許是寂語修會的成員們，眼望著歷史與未來，所天然形成的責任感。\n——佩麗卡\n\n她有著和我完全不一樣的思考方式，但，我們的相處不算複雜。有時候，她會告訴我一些我從來沒有注意到的細節。嗯？我回憶一下。例如，「人寓居在各自的語言中」。嗯，夠我思考一天。\n——弧光\n\n啊？她是這麼說的嗎？我很好奇，弧光和賽希這兩個截然不同的人，竟然能說得上話！不過，能和每個人都說過幾句話，也是賽希幹員的神奇之處呢……也不會有一種，各說各話的感覺……可能大家都會從她那裡得到平靜。\n——陳千語\n\n我在工作上和賽希幹員經常有交流。我們都對源石設備感興趣。不是的，我們不是同僚。她在伺服器和電子系統領域的研究造詣遠高於我。什麼，我稱讚別人，難得一見？呵呵，我認為自己一向很隨和。\n……您開啟了這個話題，我也很好奇她為什麼選擇住在那間機房裡，就是那個歷代伺服器專家工作的艙室。如果您申請過用於特種電子作業的辦公設備，不會去後勤部門，反而會去她那裡拿。那個地方完全看不到陽光呢，還常年用冷氣系統降溫。我沒有進去過，薩弗拉長期待在那種環境下會昏昏欲睡。我不得不說，選擇那樣的環境生活，若不是志趣迥然於他人，就是保有一種失傳已久的苦修僧習性。\n啊，請先別走，我還沒說完。賽希幹員，她的遊戲品味很好，是我在帝江號上此領域中獨一無二的對手。您是問，什麼遊戲？數獨啊。除此之外，還有什麼能稱得上是遊戲？\n——安塔爾\n\n她的手很冷。她說過贖罪是冰冷的，我會適應這一點。\n——餘燼",
+    "zh-CN": "赛希是一位沉稳、可靠的干员。她以虔诚的态度对待专业，又以专业的态度处理信仰。四年前，赛希只是因为修会与我们的源石技术合作计划来到终末地进修，并未承担任何实质性的工作任务，但她一抵达，便即刻主动投身于帝江号的修缮工作中。我想这也许是寂语修会的成员们，眼望着历史与未来，所天然形成的责任感。\n——佩丽卡\n\n她有着和我完全不一样的思维方式，但，我们的相处不算复杂。有时候，她会告诉我一些我从来没有注意到的细节。嗯？我回忆一下。比如，“人寓居在各自的语言中”。嗯，够我琢磨一天的。\n——弧光\n\n啊？她是这么说的吗？我很好奇，弧光和赛希这两个截然不同的人，竟然能说得上话！不过，能和每个人都说上几句话，也是赛希干员的神奇之处呢……也不会有一种，各说各话的感觉……可能大家都会从她那里得到平静。\n——陈千语\n\n我在工作上和赛希干员经常有交流。我们都对源石设备感兴趣。不是的，我们不是同僚。她在服务器和电子系统领域的研究造诣远高于我。什么，我称赞别人，难得一见？呵呵，我认为自己一向随和可亲。\n……您开启了这个话题，我也很好奇她为什么选择住在那间机房里，就是那个历代服务器专家工作的舱室。如果您申请过用于特种电子作业的办公设备，不会去后勤部门，反而会去她那里拿。那个地方完全见不到阳光呢，常年还用冷气系统降温。我没有进去过，萨弗拉长期待在那种环境下会昏昏欲睡。我不得不说，选择那样的环境生活，若不是志趣迥然于他人，就是保有一种失传已久的苦修僧的习性。\n啊，请先别走，我还没说完。赛希干员，她的游戏品味很高，是我在帝江号上此领域中独一无二的对手。您是问，什么游戏？数独啊。除此之外，还有什么能称得上是游戏？\n——安塔尔\n\n她的手很冷。她说过赎罪是冰冷的，我会适应这一点。\n——余烬",
+    "ja": "ザイヒは、穏やかで信頼できるオペレーターです。信仰には専門的な立場を貫き、業務には敬虔な態度で向き合っています。4年前に伝道会との間で行われた源石技術の協力プロジェクトをきっかけに、研修のためにエンドフィールドにやって来ましたが……実務としての役割は与えられていなかったにもかかわらず、自発的に帝江号の修理作業に加わってくれました。きっと、歴史と未来を見据える静語伝道会の一員として、自然と備わった責任感の表れなのでしょうね。\n――ペリカ\n\nザイヒとは、考え方が全然違うんだ。それほど深く関わるわけじゃないけど、ぼくが気づかないことをよく教えてくれる。そうだね……「人間は時として言葉に身を宿すもの」――うん。この言葉、1日中考えさせられたよ。\n――アークライト\n\nうーん……それ、ほんと？気になるなあ。だってさ、アークライトとザイヒって、ぜんぜん違う感じっていうか……話とか合うのかなって。でも、ザイヒって誰とでも喋れるイメージもあるんだよね。なんとなく噛み合ってなさそうなのに、意外と噛み合ってるっていうか……だから、みんな思わずいっぱい喋っちゃうのかも。\n――チェン・センユー\n\n同じく源石装置に関心を持つ者故、業務上ザイヒ殿と意見を交わす機会は多い。無論、同僚というわけではないが。サーバーや電子系統の分野であれば、ザイヒ殿の知見は小生など遠く及ばぬ……ほう、小生が他者を称賛するのは珍しいと？なぜだ？小生は親切で友好的な人物であろう？\n……なぜザイヒ殿があのサーバー室を住処とするのかは、小生も非常に興味深く感じている。あの船室は、歴代のサーバー技師が作業に用いた場所であったようだが。お主が特殊電子作業用の機材を申請したのならば、後方支援部ではなく、ザイヒ殿の部屋に赴くことになるであろう。陽光の一切届かぬ闇の空間であり、冷却装置によって常に低温に保たれている。そのような環境では、サヴラは眠気に勝つことは出来ぬ故、小生は足を踏み入れることが叶わぬのだ。あのような場所で敢えて日々を過ごすことを選択する――つまり、常人と異なる趣味嗜好の持ち主か、古き苦行僧の習慣を受け継いでいるに違いない。\nふむ、待たれよ。話はまだこれからである。ザイヒ殿はゲームのセンスも素晴らしいのだ。帝江号では、小生の唯一無二の好敵手である。何のゲームか？無論、数独である。他に「ゲーム」と呼べる物があると？\n――アンタル\n\nザイヒの手は冷たかった。贖罪は冷たいものだと、ザイヒが教えてくれたのだ。ならば、慣れねばなるまい。\n――エンバー",
+    "ko": "자이히 씨는 침착하고 믿음직한 오퍼레이터야. 신앙을 대하듯 경건하게 업무에 임하고, 전문가의 태도로 신앙을 대해. 4년 전만 해도, 자이히 씨는 수도회와 우리의 오리지늄 기술 협력 프로젝트 때문에 엔드필드에 연수하러 온 거라서, 사실상 어떤 구체적인 임무도 맡지 않았어. 하지만 도착하자마자 제강호 수리 작업에 망설임 없이 자원했지. 아마도 고요한 수도회의 사람들이 역사와 미래를 바라보면서 자연스럽게 갖게 되는 책임감 때문일 거야.\n- 펠리카\n\n자이히는 생각하는 방식이 완전히 다르지만, 그렇다고 우리 사이가 복잡한 건 아니야. 가끔은 내가 전혀 생각지도 못한 부분을 짚어주기도 해. 음? 뭐였더라... 아, 예를 들면 \"사람은 각자의 언어 속에 둥지를 튼다\" 같은 말. 맞아. 하루 종일 곱씹어 볼 만한 말이지.\n- 아크라이트\n\n어? 그렇게 말했다고? 난 사실 아크라이트 씨와 자이히 씨, 이토록 정반대인 두 사람이 서로 대화를 할 수 있다는 것 자체가 신기한데! 하긴, 누구와도 자연스럽게 대화를 이어가는 게 자이히 대원의 신기한 능력이긴 하니까... 겉도는 느낌도 전혀 없고. 다들 그녀와 대화하면 마음이 편해지는 것 같아.\n- 진천우\n\n저는 업무상 오퍼레이터 자이히와 자주 대화해요. 우리 둘 다 오리지늄 설비 쪽에 관심이 많거든요. 아뇨, 동료라니요. 서버와 전자 시스템 분야에서만큼은 그녀의 조예가 저보다 훨씬 깊습니다. 뭐라고요? 내가 남을 칭찬하는 게 드문 일이라고요? 하하, 저는 늘 저 스스로가 친절하다고 생각하는데요.\n...아, 그리고 이야기가 나와서 말인데, 저도 사실 그녀가 왜 그 서버실에서 살기로 결정했는지 정말 궁금해요. 그곳은 이전 서버 전문가들이 일하던 선실인데요. 특수 전자 업무를 위한 설비를 신청하면, 지원 부서가 아니라, 그녀에게 받으러 가게 돼요. 그 방에는 완전히 햇빛이 들지 않고, 일 년 내내 냉각 시스템이 돌아가거든요. 저는 들어가 본 적은 없지만, 사브라는 그런 환경에 오래 있으면 졸리기만 할 것 같아요. 솔직히 말씀드리면, 그런 환경을 선택해서 산다는 건 의지와 취향이 남들과 완전히 다르거나, 아니면 오래전에 사라진 고행승의 습성을 가진 사람이겠죠.\n아, 잠시만요, 아직 다 안 끝났어요. 자이히 오퍼레이터 말이에요, 그녀의 게임 취향이 정말 뛰어나거든요. 제강호에서 이 방면으로는 제가 유일하게 인정하는 라이벌이죠. 무슨 게임이냐고요? 당연히 스도쿠죠. 스도쿠 말고 게임이라 부를 만한 게 또 있을까요?\n- 안탈\n\n자이히 씨의 손은 아주 차갑습니다. 그녀는 속죄는 차가운 것이라고 했고, 저는 이에 적응할 것입니다.\n- 엠버"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "EXCERPT FROM A NEWSPAPER CUTTING \nFirstly, let us offer sincere wishes to Master Shatterus, reborn to us! Secondly, let us offer sincere wishes to the Law that has blessed and protected us! Finally, let us offer sincere wishes to our fellow faithfuls affected by the Domus Collapse! Perhaps some of you are still performing clean up work despite having pulled an all-nighter. But when you retire to your bed and rest, be aware that you must, in a punctual manner, pay your respects to our Lord afar. Our Lord shall forgive you for compensating yourselves after an intense episode of labor. \nNow back to the Domus Collapse. The cause of the incident has been identified: Redrawing of the Cathedralis Domus of Codes by Sister Séraphine. The redrawing has caused our Domus, itself based on the ancient and splendorous architecture of Laterano, to undergo unexpected resonance with our massive dataflows. Hence, the Great Monastery Network collapsed for 0.836 seconds. Even fellow Cabalists over two hundred kilometers away felt its tremors. Your faithful correspondent arrived at the site to see that Sister Séraphine had buried her head in a server cabinet and temporarily cut off from any contacts with the outside world. Abbess Vronta and three Cabal leaders later convened an emergency meeting to solve the incident. The verdict for the violator shall be officially announced in the next Session of Exceptions. \nYour faithful correspondent believes that there are two sides to every incident. Every massive scale solution offers a minute trail to the future. For example, this incident once again triggered a rather passionate debate if we should, in this generation, continue to provide labor, resources, and constant vigilance to maintain the Domus of Codes, itself a technological marvel. If you wish to share your opinions, please mail them to Box 302, Via Confessa Sancta, Great Monastery. Finally, the Lord is always within our hearts and minds. Good morning to you all! \n— Excerpt from Comments on Good Morning Shatterus, an internal periodical published by the Cabal of Tranquility for internal communications \n\nDOCUMENT: A letter (in the form of a secret order) delivered to the mailbox of Supervisor Perlica \nRECOMMENDER: Vronta \"The Knower of Veritas\", Abbas of the Monasterium, Cabal of Tranquility \nRECOMMENDER'S ADDRESS: No. 116, Via Ritualis Benevolens, Great Monastery \n\nTo the Honorable Supervisor of Endfield Industries, Miss Perlica: \nI hereby recommend Sister Séraphine Xaihi as the liaison of our party in the Originium Information Technology project jointly pursued by Endfield Industries and us, the Cabal of Tranquility. As Xaihi's guardian in the Cabal, I have witnessed how she grew from a tender, young child who loved the libraries to a... Pardon me, but the Law demands us to be forthright and act with consistency. And thus I shall give you the answer: She has grown into a Frost of Wisdom. \nTruth be told, souls that have not gained the enlightenment of the Law will be easily lost in the vast amounts of knowledge stored within the Cabal. However, Xaihi has managed, in her own accord, to identify a path within the great vault of data. After years of tireless perusal and contemplation within our vault of tomes, we opened the door and saw her remade: Intellect did not lead her astray into arrogance, but instilled a sense of sorrow within her eyes. It was then when I realized that she had seen the future we are headed toward. Of course, this intellect has led to quite an incident on our side, one that is on par with her previous attempt of system optimization. \nThough I place no blame upon her, she seems to have sunken into such depths of guilt where self-salvation seems impossible. Hence, I humbly request to let Sister Xaihi continue her good works at Endfield Industries. The Cabal is rooted in our past and history, and hence we are not the perfect place for nurturing a future that is too delicate, tender, and far away. Sister Xaihi is better suited for your path. \nI have absolute faith that she is capable of fulfilling the duties demanded of an Originium Information Technology expert. Please contact me anytime should you need further details. \nSincerely, \n\nVronta, Cabal of Tranquility",
+    "zh-TW": "【報刊節選】\n首先，向今日新生的阿碎老師問好！其次，向祝佑我們的律法問好！再次，向昨日受到「穹頂坍塌」事故影響的弟兄姊妹們問好！也許你們當中的，經過一個不眠之夜，仍在做最後的收尾工作，但請注意，即便回到寢榻休息，也要記得準時向遠方的「主」的方向行禮喔，祂會原諒你們在辛勤的勞作後給自己小小的補償。\n回到「穹頂坍塌」一事。事故原因已經查明，乃是塞拉菲娜姊妹對大教堂代碼穹頂的重繪所致。此行直接導致我們從拉特蘭沿襲而來的那古老輝煌的穹頂，與巨量的資料洪流產生了不合預期的共鳴，由此大修道院的網路發生了0.836秒的當機，遠在兩百公里外的修士對此亦有震感。當筆者趕到現場時，只見塞拉菲娜姊妹將頭埋在機箱中，暫時切斷了她與外界的聯繫。而後，伏龍達院長與三個教派領袖緊急會面商議解決辦法，對於肇事者的處置結論將在下一次會眾議異時正式公布。\n筆者認為，凡事皆分兩面，那大動干戈的解圍中定有通向未來的細微之路，例如大家對於本世代下，作為技術奇觀的代碼穹頂是否應當耗費人力、物力、心力繼續維護一事，再次爆發了相當熱烈的討論，若您有見解，請將建議投送至大修道院眾聖徒告解大道302號的郵筒。最後，「主」一直在我們心間，早安！\n——節選自寂語修會內部交流用報刊《早安阿碎評論》\n\n【一份以密令形式傳送到佩麗卡監督信箱的信】\n推薦人姓名：伏龍達，寂語修會大修道院院長，「真知者」\n推薦人地址：大修道院良善禮拜大道116號\n\n尊敬的終末地監督佩麗卡女士：\n我謹此推薦修女塞拉菲娜·賽希作為寂語修會與終末地工業關於源石資訊技術合作開發計劃的我方人選。作為賽希在修會的監護人，我眼看著她從一個流連書庫的稚童成長為……好吧，律法要求我們直言順行，我便如此向您道來：她成長為了一片有智慧的霜。\n然而，修會儲存的無盡知識，足以令任何未經律法啟迪過的人霎時迷失其中，但賽希從中自主地尋得了一條道路。待她沉浸在書庫中不眠不休地閱讀和思索了數年後，我們打開門，見到了一個全新的她——聰慧未使她有分毫傲慢，反而令她眼中平添哀愁。我便意識到，她多少看到了我們走向的未來。當然，這聰慧也為我們帶來了不小的麻煩，就如同她在上次的系統優化中弄出的動靜一樣。\n我沒有責怪她，但她似乎因此陷入了一定程度的懊悔不能自拔，故而，我請求將她送到你們那裡去。根植於過去的修會不適合孕育太新、太遠的未來，她適合走你們的路。\n我堅信她能勝任源石資訊技術專家的職位。如需進一步資料，請隨時與我聯絡。\n此致\n\n寂語修會 伏龍達",
+    "zh-CN": "【报刊节选】\n首先，向今日新生的阿碎老师问好！其次，向祝佑我们的律法问好！再次，向昨日受到“穹顶坍塌”事故影响的弟兄姊妹们问好！也许你们当中的，经过一个不眠之夜，仍在做最后的收尾工作，但请注意，即便回到寝榻休息，也要记得准时向远方的“主”的方向行礼哦，祂会原谅你们在辛勤的劳作后给自己小小的补偿。\n回到“穹顶坍塌”一事。事故原因已经查明，乃是塞拉菲娜姊妹对大教堂代码穹顶的重绘所致。此行直接致使我们自拉特兰沿袭而来的那古老辉煌的穹顶，与海量的数据洪流产生了不合预期的共鸣，由此大修道院的网络发生了0.836秒的崩溃，远在两百公里外的修士对此亦有震感。当笔者赶到现场时，只见塞拉菲娜姊妹将头埋在机箱中，暂时切断了她与外界的联系。而后，伏龙达院长与三个教派领袖紧急会面商议解决办法，对于肇事者的处置结论将在下一次会众议异时正式公布。\n笔者认为，凡事皆分两面，那大动干戈的解围中定有通向未来的细微之路，例如大家对于本世代下，作为技术奇观的代码穹顶是否应当耗费人力、物力、心力继续维护一事，再次爆发了相当热烈的讨论，若您有见解，请将建议投送至大修道院众圣徒告解大道302号的邮箱。最后，“主”一直在我们心间，早安！\n——节选自寂语修会内部交流用报刊《早安阿碎评论》\n\n【一份以密令形式发送到佩丽卡监督邮箱的信】\n推荐人姓名：伏龙达，寂语修会大修道院院长，“真知者”\n推荐人地址：大修道院良善礼拜大道116号\n\n尊敬的终末地监督佩丽卡女士：\n我谨此推荐修女塞拉菲娜·赛希作为寂语修会与终末地工业关于源石信息技术合作开发项目的我方人选。作为赛希在修会的监护人，我眼看着她从一个流连书库的稚童成长为……好吧，律法要求我们直言顺行，我便如此向您道来：她成长为了一片有智慧的霜。\n诚然，修会储存的无尽知识，足以令任何未经律法启迪过的人霎时迷失其中，但赛希从中自主地寻得了一条道路。待她沉浸在书库中不眠不休地阅读和思索了数年后，我们打开门，见到了一个全新的她：聪慧未使她有分毫傲慢，反而令她眼中平添哀愁。我便意识到，她多少看到了我们走向的未来。当然，这聪慧也为我们带来了不小的麻烦，就如同她在上次的系统优化中弄出的动静一样。\n我没有责怪她，但她似乎因此陷入了相当程度的懊悔不能自拔，故而，我请求将她送到你们那里去。根植于过去的修会不适合孕育太新、太远的未来，她适合走你们的路。\n我坚信她能胜任源石信息技术专家的职位。如需进一步信息，请随时与我联系。\n此致\n\n寂语修会 伏龙达",
+    "ja": "【新聞の抜粋】\nまずは、今日新たに生まれ変わったガラガラさんに、ご挨拶を。次に、私たちに祝福を授けてくださる「法」にも、いつも通りの感謝を。そして昨日の「ドーム崩壊」事故の影響を受けた皆さんへ、心からお見舞い申し上げます。眠れぬ夜を過ごして、今もなお後片付けの最中だという方もいらっしゃるかもしれませんね。どんなときでも、ベッドに戻ってひと息つくならば、遠く「主」がいる方角へ、定時の礼を忘れずに。頑張ったあとのちょっとしたご褒美くらいなら、お許しくださることでしょう。\nさて、「ドーム崩壊」の件ですが、事故の原因が調査により判明しました。シスター・セラフィーナが、大聖堂のコードドームを再構築したことがきっかけでした。これにより、ラテラーノから受け継がれてきた、古くもなお輝きを失わずにいたドームが、大量のデータストリームと予期せぬ共鳴を起こしてしまい、大修道院のネットワークが0.836秒間にわたりクラッシュ。なんと、200km離れたところにいた修道士たちも、その振動を感じたそうです。筆者が現場に到着したとき、シスター・セラフィーナはサーバー作業に没頭しており、一時的に外部との連絡も断っている状態でした。その後、ブロンタ院長と三教派のリーダーたちが緊急会議を開き、解決策について協議を行いました。なお、本件の当事者に対する処置は、次の集団協議時に発表される予定です。\nさて、筆者の視点も交えてお話しましょう。物事には、いつだって2つの側面があります。だからこそ、大々的に行われた今回の救援活動の中にもきっと、未来へと続く細い道が見えてくるはずです。たとえば、この世代における「技術の象徴」とも言えるコードドームについて。人員、物資、そして心血を注ぎ込み維持し続けたその建造物は、これからも同じようにメンテナンスする意味があるのか――こちらについては、各所で非常に熱のこもった議論が巻き起こっているようです。よろしければ、ぜひご意見をお寄せください。ご連絡は、大修道院・衆聖徒告解通り302号の郵便箱まで。それでは最後に、「主」は常に私たちの心の中に。今日も良い一日となりますように。いってらっしゃい！\n――静語伝道会内部通信用新聞『おはようガラガラ通信』より抜粋\n\n【極秘扱いでペリカ監察官のメールボックスに届いた連絡】\n推薦人：ブロンタ　静語伝道会大修道院院長「真知者」\n推薦人住所：大修道院・善良礼拝通り116号\n\n親愛なるエンドフィールド監察官　ペリカ女史へ\nこのたび、シスター「セラフィーナ・ザイヒ」を「静語伝道会・エンドフィールドによる源石情報技術に関する協力研究プロジェクト」の担当者として、推薦いたします。ザイヒは、伝道会において私が保護役を任じられて以来、幼い頃より幾度となく書庫に足を運び……いえ、法は従順で素直な言葉を求めます。ゆえに、率直に申し上げましょう――知恵ある霜へと、成長を遂げたのです。\n無論、伝道会に眠る尽きぬ知識は、啓示を受けていない者にとっては迷いの森ともなりましょう。しかしザイヒは、その中から己の道を見出しました。幾年にもわたり、眠ることなく図書館で書物に没頭し思索を重ねた末、私たちの前に現れたのは、新たなるザイヒでした。知識は彼女を傲慢にすることなく、むしろその瞳に哀しみの色を帯びさせるに至りました。ザイヒは、おそらく私たちが向かう未来の片鱗を見てしまったのでしょう。当然ながら、その聡明さゆえに問題を起こすことも少なからずありました。直近では、システム最適化の際に引き起こした件が記憶に新しいかと存じます。\n彼女を責めることはありませんが、ザイヒ自身はあの一件を深く悔い、未だに抜け出せずにおります。そのために彼女を、あなた方のもとへ送り出したいと願っております。過去に根ざす伝道会は、遠い先の未来に相応しい器ではありません。ザイヒは、あなた方の道にこそ相応しい者だと信じています。\nきっと、源石情報技術専門家としての任を、立派に果たしてくれることでしょう。さらなる情報が必要な場合には、どうぞ遠慮なくお知らせください。\n敬具\n\n静語伝道会　ブロンタ",
+    "ko": "[신문 발췌]\n우선, 오늘 다시 태어난 부서진 분과 우리를 보살펴 주시는 율법께 감사의 인사를 드립니다! 또한 어제 '중추 시스템 붕괴' 사건으로 피해를 입은 형제자매 여러분께도 위로의 인사를 전합니다! 밤새 한숨도 자지 못하고, 지금도 마무리 작업에 한창이신 분들이 많을 텐데요, 부디 잠자리에 드시더라도 멀리 계신 '주'님이 계신 방향으로 정시에 예배드리는 것을 잊지 마세요. '주'님께서는 여러분이 열심히 일하고 난 뒤 작은 휴식을 취하는 것쯤은 너그러이 용서해 주실 테니까요.\n자, 다시 '중추 시스템 붕괴' 사건에 관한 이야기로 돌아가 보죠. 이번 사고의 원인은 이미 밝혀졌습니다. 바로 세라핀 자매가 대성당 중추 시스템의 코드를 다시 설계한 것 때문인데요. 이 작업으로 인해, 라테라노에서 계승한 찬란한 중추 시스템과 막대한 데이터가 예상 밖의 공명을 일으켰습니다. 이로 인해 대수도원의 네트워크가 0.836초 동안 완전히 다운되었으며, 심지어 200km 떨어진 곳에 있던 수사도 그 여파를 느꼈다고 합니다. 제가 현장에 도착했을 때는, 세라핀 자매가 컴퓨터 케이스에 머리를 파묻은 채 외부와의 연결을 완전히 차단한 상태였죠. 이후, 플론다 원장님과 세 교파의 리더들이 긴급회의를 열어 대책을 논의했으며, 사고 당사자에 대한 처분은 다음 의논 회의에서 정식으로 공표될 예정입니다.\n필자는 모든 일에는 양면성이 있으며, 그 떠들썩했던 사태 수습 과정 속에도 분명 미래로 향하는 가느다란 길이 있다고 생각합니다. 예를 들어, 현 세대에서 기술적 경이로움의 산물인 '중추 시스템'을 계속 유지하기 위해 인력, 물자, 심력을 소모해야 하는지에 대해 다시금 열띤 토론이 벌어졌습니다. 여러분도 의견이 있으시면, 대수도원 고해의 길 302번지 메일함으로 보내 주세요. 마지막으로, '주'님은 늘 우리 마음속에 계십니다. 좋은 아침입니다!\n- 고요한 수도회 내부 교류용 신문 <부서진 분의 아침 평론>에서 발췌\n\n[펠리카 감독관의 메일함으로 전송된 비밀 서한]\n추천인 이름: 플론다, 고요한 수도회 대수도원 원장, '진리의 탐구자'\n추천인 주소: 대수도원 선량한 예배의 길 116번지\n\n엔드필드 감독관 펠리카 님께\n저는 고요한 수도회와 엔드필드 공업 간의 오리지늄 정보 기술 협력 개발 프로젝트의 협력자로 세라핀 자이히 수녀를 추천하고자 합니다. 자이히의 보호자인 저는 그녀가 수도회의 서고를 누비던 어린아이에서 성장하여... 아니, 율법은 우리에게 솔직하게 말하길 요구하시니, 이대로 말씀드리겠습니다. 그녀는 '지혜로운 서리'가 되었습니다.\n물론 수도회가 보관한 무한한 지식은 율법의 깨우침을 받지 못한 이라면 순식간에 길을 잃을 정도로 방대합니다. 하지만 자이히는 그 안에서 스스로의 길을 찾아냈습니다. 그녀는 서고에 틀어박혀 수년간 밤낮없이 읽고 사색했고, 마침내 우리가 문을 열었을 때, 다시 만난 그녀는 이전과는 전혀 다른 모습이었습니다. 명석함은 그녀를 한 치도 오만하게 만들지 않았고, 오히려 그 눈에 슬픔을 더하게 했습니다. 저는 그녀가 우리가 나아갈 미래를 어느 정도 보았음을 깨달았습니다. 물론, 이 명석함은 지난번 시스템 최적화 때 그녀가 일으킨 소동처럼, 우리에게 적지 않은 골칫거리를 안겨주기도 했습니다.\n저는 자이히를 꾸짖지 않았지만, 본인은 자이히엔드필드여러분그 일로 몹시 자책하며 헤어나오지 못하는 듯합니다. 그렇기에 그녀를 그곳으로 보내달라고 요청하는 바입니다. 과거에 뿌리내린 수도회는 이토록 새롭고 머나먼 미래를 싹틔우기엔 적합하지 않습니다. 그녀는 당신들의 길에 더 어울립니다.\n저는 그녀가 오리지늄 정보 기술 전문가로서의 역할을 훌륭히 수행하리라 믿습니다. 더 자세한 사항이 필요하시면 언제든지 연락 주십시오.\n감사합니다.\n\n고요한 수도회 플론다"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "DOCUMENT: A prayer slip, kept within a book \nO merciful Lord, I praise thee. \nGrant language onto me, but lead me not into voicing it with vulgar words. \nGrant intellect onto me, but lead me not into employing it for blasphemy. \nGrant benevolence onto me, but lead me not into abusing it with arrogance. \nGrant vision onto me, but lead me not into corrupting it with base and common images. \nGrant friendship onto me, but lead me not into terminating it with violence. \nGrant eternal curiosity onto me, but lead me not into wasting it with ignorance. \n(NOTE: After verification, prayers of every Cabalist are based on their most truthful desires. The Cabal of Tranquility encourages their members to compose their own prayers. The followers of the Lord have their own belief and will about the Lord. And that is how they define their faith.) \n\nDOCUMENT: Excerpt from a diary \nFour years have passed since I boarded this vessel. The task of repair is progressing slowly, but with efficacy. Although the undertaking has become relatively uneventful, I have gradually found my way to return to my inner calm. This is the place where I can work in a dark and cold cabin. The rhythms of machines offer me incredible comfort. This is where I need not worry whether my actions would bring trouble to the others. Of course, this is also where I can share fragmented conversations with data residues of the Originium Network. In the Network, I experienced never-seen-before ruins of splendorous majesty that Sankta share their empathy. I heard the lamentations from myriad souls of the Sarkaz erased from existence. I witnessed the incessant bleeding of rebellion and subservience. And every time I wanted to take another step, these experiences would suddenly cease. The silence is frightening. I continued my calculations and repairs, hoping I can hear it speak once more. \n............ \nSomething I feared even more has happened. I realized that the Originium has been polluted, damaged, and obliterated. It seems intertwined with what I perused in the various tomes of the Cabal. But why is this the case? What does Originium mean with regards to the codes of civilization that we are deciphering? And what is the entity capable of polluting, damaging, and even obliterating the Originium? \nPerhaps this is why Abbess Mumu sent me here. \n............ \nThat was the day when I noticed a strange glow on Supervisor Perlica's visage. But this glow was quickly extinguished by her constant pondering. They are whispering. Something big is about to happen. Will it be relevant to the answers I seek? \n............ \nBlack hair, black mask, and black shadow. Operator Chen Qianyu introduced the Endministrator to me. The one who had been hibernating in the medical bay. \nAnd for an instant, I seemed to achieve a form of empathy. A cacophony and impulse for joy, laughter, and tears exploded within me. I could not restrain the shaking of my material form. This entity is the answer, but I have not prepared my questions.",
+    "zh-TW": "【一篇禱詞，夾在一本書中】\n仁慈的主啊，我讚美您。\n賜予我語言，不要讓我以卑微的方式言說它。\n賜予我智慧，不要讓我以褻瀆的方式運用它。\n賜予我良善，不要讓我以傲慢的方式行使它。\n賜予我目光，不要讓我以庸常的俗世玷汙它。\n賜予我友愛，不要讓我以暴力的手段終結它。\n賜予我永遠的好奇，不要讓我以無知的方式浪費它。\n（註：經證實，每位寂語修會修士的禱詞都發於其內心真正所求而寫就，修會鼓勵修士們內容自己決定；「主」的子民皆有其對「主」的意志，也皆因此稱信。）\n\n【日記殘篇】\n來到這艘飛船上已經過去了四年。修繕工作在緩慢而有效地進行中，雖然相較過去平淡了一點，但我逐漸找回了內心的平靜。在這裡，我得以獨自在黑暗而冰冷的艙室中工作，機器的律動為我帶來了莫大的安慰，在這裡，不必擔心我的所行對他人造成了困擾。當然，這也讓我能夠更純粹地與源石網路中殘餘的隻言片語對話。我能夠在裡面體驗到我從未親眼見過的那宏偉的薩科塔共感的遺跡，聽到早就被抹除的薩卡茲眾魂的慟哭，看到鬥爭與臣服都無法停止的流血。每當我想要往下再進一步時，它們就戛然而止了。沉默令我害怕，我不斷地計算、修復，希望能夠聽到它的下一次言說。\n…………\n更令我害怕的事情發生了。我意識到，源石是被汙染、被損害、被毀去的。它好像與我在修會時所閱讀的經驗息息相關。但是，為什麼會這樣？源石，對我們所解讀的文明編碼而言，意味著什麼？能將它汙染、損害、毀去至此等地步的，又是什麼？\n也許這是院長姆姆將我遣來此地的用意。\n…………\n那一天，我發現佩麗卡監督的面容上泛起了一種奇異的光彩，但隨後又因為她常有的思慮而黯滅。她們在秘密私語，也許有大事要發生了。會和我尋找的答案有關嗎？\n…………\n黑色的頭髮和黑色的面具，黑色的影子。陳千語幹員向我介紹，這位就是之前在醫務室沉睡的管理員。\n那一瞬間我彷彿也獲得了共感一般，歡笑與流淚的衝動同時在我身上迸發，我忍不住地顫抖起來，因為這個人就是答案，而我甚至還沒有準備好問題。",
+    "zh-CN": "【一篇祷词，夹在一本书中】\n仁慈的主啊，我赞美您。\n赐予我语言，不要让我以卑微的方式言说它。\n赐予我智慧，不要让我以亵渎的方式运用它。\n赐予我良善，不要让我以傲慢的方式行使它。\n赐予我目光，不要让我以庸常的俗世玷污它。\n赐予我友爱，不要让我以暴力的手段终结它。\n赐予我永远的好奇，不要让我以无知的方式浪费它。\n（注：经证实，每位寂语修会修士的祷词都发于其内心真正所求而写就，修会鼓励修士们内容自决；“主”的子民皆有其对“主”的意志，也皆因此称信。）\n\n【日志残篇】\n来到这艘飞船上已经过去了四年。修缮工作在缓慢而有效地进行中，虽然较之过去平淡了一些，但我逐渐找回了内心的平静。在这里，我得以独自在黑暗而冰冷的舱室中工作，机器的律动给我带来了莫大的安慰，在这里，不必担心我的所行对他人造成困扰了。当然，这也让我能够更纯粹地与源石网络中残余的只言片语对话。我能够在里面体验到我从未亲眼见过的那宏伟的萨科塔共感的遗迹，听到早便被抹除的萨卡兹众魂的恸哭，看到斗争与臣服都无法停止的流血。每当我想要往下再进一步时，它们就戛然而止了。沉默令我害怕，我不断地计算、修复，希望能够听到它的下一次言说。\n…………\n更令我害怕的事情发生了。我意识到，源石是被污染、被损害、被毁去的。它好像与我在修会时所阅读的经验息息相关。但是，为什么会这样？源石，对我们所解读的文明编码而言，意味着什么？能将它污染、损害、毁去至此等地步的，又是什么？\n也许这是院长姆姆将我遣来此地的用意。\n…………\n那一天，我发现佩丽卡监督的面容上漾起了一种奇异的光彩，但随即又因为她常有的思虑而黯灭。她们在秘密私语，也许有大事要发生了。会和我寻找的答案有关吗？\n…………\n黑色的头发和黑色的面具，黑色的影子。陈千语干员向我介绍，这位就是此前在医务室沉睡的管理员。\n那一瞬间我仿佛也获得了共感一般，欢笑与流泪的冲动同时在我身上迸发，我忍不住地颤抖起来，因为这个人就是答案，而我甚至还没有准备好问题。",
+    "ja": "【本に挟まれた祈りの言葉】\n慈しみ深き主よ、心よりあなたを讃えます。\nあなたは私に言葉を授け、それが卑しき響きとならぬよう、語らせてくださいました。\nあなたは私に知恵を授け、それが穢されぬよう、謙虚に用いさせてくださいました。\nあなたは私に善き心を授け、それが傲りとならぬよう、慎みをもって行わせてくださいました。\nあなたは私にまなざしを授け、それが俗なるものに曇らされぬよう、澄んだまま在らせてくださいました。\nあなたは私に友への愛を授け、それが暴力に断たれることなきよう、守らせてくださいました。\nあなたは私に永遠なる好奇心を授け、それが無知の淵に沈まぬよう、学び続ける力を与えてくださいました。\n（注：情報によれば、静語伝道会の修道士は、心の奥から求めるものに基づいて祈りの言葉を綴っている。伝道会は、祈りの内容を各自で決めるよう奨励している。「主」の民は皆、「主」への意志を持つが故に、信仰の道を歩んでいる。）\n\n【日誌の一部】\nこの船に来て、もう4年が経ちました。修理作業は緩やかに、しかし確実に進行しています。以前より穏やかな日々が続き、私も少しずつ落ち着きを取り戻しました。この黒く、冷たく、誰にも干渉されることのない船室で働くことができ、機械の律動は私に多大な安心感をもたらしています。ここでは、私の行動が誰かに影響を及ぼすこともなく、心配する必要もありません。そのために、私は以前よりも純粋に、源石ネットワークに残る言葉と向き合えるようになりました。その中で、初めて目にするサンクタの荘厳なる「共感」の遺跡に触れ、すでに抹消されたサルカズの魂の慟哭に耳を傾け、紛争も服従も止めることのできなかった暴力の記憶を見ることもできました。一歩進もうとするたびに、すべてが不意に途切れてしまいます。広がる沈黙が不安へと変わり、私は計算と修復を繰り返し、次の言葉が現れることを祈り続けます。\n……\nですが、もっと深い不安が私を包みました。私は気づいてしまったのです。源石が穢され、傷つき、壊されたことに。それは、私が伝道会にいた頃に読んだ内容と深く結びついているようでした。しかし、なぜでしょうか？源石は私たちが解読した文明のコードにとって、何を意味するのでしょうか。それを穢し、傷つけ、壊したものの正体は、いったい何なのでしょうか。\n――もしかすると、これこそ院長が私をここへ派遣した目的なのかもしれません。\n……\nあの日、ペリカ監察官の顔に、ほんの一瞬不思議な光が宿りました。しかし、すぐにいつもの思慮深い表情へと戻ったのです。彼女たちは、秘密の話をしていたようでした。何か大きなことが起こる前兆なのでしょうか。果たしてそれは、私が探し求めてきた答えに繋がっているものでしょうか。\n……\n黒い髪、黒いマスク、黒い影。チェン・センユーさんはその人を、医務室で眠っていた「管理人」だと紹介しました。\nその瞬間、まるで「共感」を得たかのように、歓喜、そして涙をこぼす衝動が私を襲い、身体が小刻みに震えるのを感じました。この人が、答えです。ですが私は、まだ何を問うべきか――それすら、準備できていないままなのです。",
+    "ko": "[한 권의 책 사이에 끼워진 기도문]\n자비로우신 주님, 당신을 찬미하나이다.\n제게 언어를 내려주시고, 그것을 천박한 곳에 쓰지 않게 하소서.\n제게 지혜를 내려주시고, 그것을 모독의 도구로 쓰지 않게 하소서.\n제게 선함을 내려주시고, 그것을 교만하게 쓰지 않게 하소서.\n제게 시선을 내려주시고, 세속의 때가 묻지 않게 하소서.\n제게 상냥함을 내려주시고, 폭력으로 그것을 끝내지 않게 하소서.\n제게 영원한 호기심을 내려주시고, 무지 속에서 낭비하지 않게 하소서.\n(참고: 확인된 바에 따르면, 고요한 수도회 수사들의 기도문은 모두 그들의 마음속 진정한 바람에서 우러나와 쓰이며, 수도회는 수사들 스스로 그 내용을 결정하도록 장려한다. '주'님의 백성들은 모두 '주'님을 향한 각자의 의지를 지니고 있으며, 그렇기에 모두가 믿음을 고백하는 것이다.)\n\n[일지의 단편]\n이 함선에 온 지도 벌써 4년이 지났다. 수리 작업은 더디지만 확실하게 진행되고 있다. 과거보다는 조금 단조롭지만, 마음의 평화를 되찾아가고 있다. 나는 이곳에서는 어둡고 차가운 선실에 홀로 틀어박혀 일할 수 있다. 기계의 규칙적인 소리는 내게 큰 위안을 준다. 여기서는 내 행동이 다른 사람에게 피해를 줄까 걱정하지 않아도 된다. 물론, 이 덕분에 오리지늄 네트워크 안에 남은 단편적인 메시지들과 더 순수하게 대화를 나눌 수 있게 됐다. 그 속에서 나는 한 번도 직접 본 적 없는 웅장한 산크타 공감의 유적을 체험할 수 있었다. 이미 지워진 살카즈의 영혼들의 통곡을 듣고, 투쟁으로도 복종으로도 멈출 수 없는 유혈을 목격했다. 조금만 더 깊이 들어가려 할 때마다, 모든 것이 갑자기 멈춰버렸다. 그 침묵이 두려웠다. 나는 계속해서 계산하고, 수리하며, 그것의 말을 다시 한번 듣고자 애쓰고 있다.\n......\n더 무서운 일이 일어났다. 나는 오리지늄이 오염되고, 손상되고, 파괴되었다는 걸 깨달았다. 수도회에서 읽었던 책에 담긴 경험들과 매우 비슷한 느낌이다. 하지만 도대체 왜 이런 일이 일어난 걸까? 우리가 해석해 온 문명의 코드에서, 오리지늄이란 대체 무엇을 의미하는 걸까? 그리고 그것을 이토록 오염시키고, 손상시키고, 파괴할 수 있는 건 또 무엇일까?\n어쩌면 이것이 바로 원장님께서 나를 이곳으로 보내신 진정한 이유일지도 모르겠다.\n......\n어느 날, 펠리카 감독관님의 얼굴에 묘한 빛이 떠올랐다가, 곧바로 그녀 특유의 근심 어린 표정에 묻혀 사라지는 걸 보았다. 그들은 무언가 비밀스럽게 속삭이고 있었다. 어쩌면, 큰일이 벌어지려는 걸지도 모른다. 내가 찾는 답과도 관련이 있을까?\n......\n검은 머리, 검은 가면, 검은 그림자. 진천우 오퍼레이터가 내게 소개했다. 이 사람이 바로 의무실에서 계속 잠들어 있던 관리자님이라고.\n그 순간, 나 또한 '공감'을 얻은 것만 같았다. 웃음과 울음이 동시에 터져 나왔고, 나는 참을 수 없이 떨리기 시작했다. 이 사람이 바로 그 '답'이었기에. 나는 아직 질문조차 준비하지 못했는데도."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0011_seraph_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "I shall pray for you, Endministrator.",
+    "zh-TW": "管理員，為您祈禱。",
+    "zh-CN": "管理员，为您祈祷。",
+    "ja": "あなたに祈りを捧げます。",
+    "ko": "관리자님, 당신을 위해 기도하겠어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "I stand here awake, as the Law watches upon me.",
+    "zh-TW": "我在，律法亦未休眠。",
+    "zh-CN": "我在，律法亦未休眠。",
+    "ja": "私はここに。「法」もまたここに在ります。",
+    "ko": "제가 이곳에 있는 한... 율법은 절대 잠들지 않을 거예요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "I am ready to process your command, Endministrator.",
+    "zh-TW": "請為我下達指令，管理員。",
+    "zh-CN": "请为我下达指令，管理员。",
+    "ja": "どうかご指令を。管理人。",
+    "ko": "관리자님, 지시를 내려주세요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "A logical choice.",
+    "zh-TW": "符合邏輯的選擇。",
+    "zh-CN": "符合逻辑的选择。",
+    "ja": "論理的な選択です。",
+    "ko": "논리적인 선택이네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "May I make slight modifications to this? I assure you, they will remain within the bounds of safety.",
+    "zh-TW": "您介意我進行一些輕微的改裝嗎？我保證它們將依然處在安全限制內……",
+    "zh-CN": "您介意我进行一些轻微的改装吗？我保证它们将依然处在安全限制内……",
+    "ja": "少々、拡張を試みても？現行のセキュリティ制限には違反しないことを約束しますので。",
+    "ko": "조금 개조를 해도 될까요? 안전 제한 범위 내에서만 진행할게요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "Veritas is upheld by its own sanctity.",
+    "zh-TW": "真知會自我捍衛。",
+    "zh-CN": "真知会自我捍卫。",
+    "ja": "「真知」の身は、「真知」が守ります。",
+    "ko": "진리의 가호가 함께하길."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Once we are connected, wisdom shall springeth forth.",
+    "zh-TW": "當我們彼此連結，智慧便會湧現。",
+    "zh-CN": "当我们彼此联结，智慧便会涌现。",
+    "ja": "私達が同期できたならば、叡智はその姿を現すでしょう。",
+    "ko": "우리가 하나 될 때, 지혜가 빛을 발할 거예요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "And with my prayers, I shall also lift up those who have gone astray.",
+    "zh-TW": "其中那些迷途之人，我也為他們祈禱。",
+    "zh-CN": "其中那些迷途之人，我也为他们祈祷。",
+    "ja": "迷える者に、祈りを捧げましょう。",
+    "ko": "길 잃은 자들을 위해 기도하겠어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "Behold, the benevolence of the Law manifested... Ah, and with it flows the trust of the Endministrator! Is it not righteous to give thanks unto thee?",
+    "zh-TW": "這是律法仁慈的顯化……啊，當然也是管理員的信任！應該感謝您。",
+    "zh-CN": "这是律法仁慈的显化……啊，自然也是管理员的信任！应当感谢您。",
+    "ja": "法の慈しみが、今顕れた……あ……管理人のご信頼にも、感謝の意を表します。",
+    "ko": "이는 율법의 자애로움이 내려진 것이리라... 아, 당연히 관리자님의 신뢰도요! 정말 감사해요."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0011_seraph_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "The Law watches over and preserves the meek, but not the learned, wise, nor rich. Though elevated by such glory, I remain humble and thankful to thee.",
+    "zh-TW": "律法注視和保護的，是謙和之人，而非賢達和智者。這份光榮施加於我身上，我應該保持謙遜。",
+    "zh-CN": "律法注视和保护的，是谦和之人，而非贤达和智者。这份光荣施加于我身上，我应当保持谦逊。",
+    "ja": "「法」が護るのは、賢き者でも、知を誇るものでも非ず——ただ、謙虚な者に。恩恵を受ける者として、謙虚さを失ってはなりません。",
+    "ko": "율법이 굽어보시며 보호하는 이는 현명하고 지혜로운 자가 아닌 겸손한 자이니라... 이 영광을 품에 안고, 겸손할 것을 다시 한번 마음속에 새기네..."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0011_seraph_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Everything is as clear and distinct as the veins of Originium. This promotion aligns with the projected outcome. Huh? Sh-shake hands? I ... I am not very good at that...",
+    "zh-TW": "全都像源石的脈絡那樣清晰顯著，這次晉升符合計算結果……要、要握個手？我……我不太擅長這個……",
+    "zh-CN": "全都像源石的脉络那般清晰显著，这次晋升符合计算结果……要、要握个手？我……我不太擅长这个……",
+    "ja": "昇進――源石の脈絡のように、明確な演算結果です……あ、握手、ですか？あまり……得意ではなく……",
+    "ko": "성장에 대한 계산 결과가 제 생각과 부합하네요. 모든 게 오리지늄의 결처럼 분명하고도 선명해요... 악, 악수를 하자고요? 그, 그런 거엔 익숙하지가 않아서..."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0011_seraph_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "I once restructured the codec dome of the Cathedralis to enhance its working efficiency. Yet, unanticipated resonances occurred as the ancient algorithm processed the data flow. The result was ... complicated. And yet, what once exiled one from their homeland ... has become a source of grace here at Endfield. Perhaps this is what the Law wished to reveal to me!",
+    "zh-TW": "我曾經重構過部分代碼穹頂，提升了大教堂的效率。但古老的演算法卻與資料串流發生了預期外的共鳴，導致……嗯，但使人離開故鄉的，在終末地卻使人蒙受恩典。這正是律法的啟示！",
+    "zh-CN": "我曾经重构过部分代码穹顶，提升了大教堂的效率。可古老的算法却与数据流发生了预期外的共鸣，导致……嗯，但使人离开故乡的，在终末地却使人蒙受恩典。这正是律法的启示！",
+    "ja": "以前、コードドームの一部を再構築し大聖堂の処理スピードを引き上げました。古代のアルゴリズムがデータストリームと予期せぬ共鳴を起こしてしまい……故郷を離れた理由となったものが、結果として恩寵を与えている。まさしく、法の啓示でしょう。",
+    "ko": "예전에 제가 중추 시스템의 일부 코드를 리팩토링해서 대성당의 효율을 높인 적이 있어요. 하지만... 오래된 알고리즘이 데이터 스트림과 예상 밖의 공명을 일으켜서... 그, 그래도 고향을 떠나게 만든 원인이 엔드필드에서는 은총을 받게 한 원인이 됐잖아요? 이게 바로 율법의 계시가 아닐까요!"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0011_seraph_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "O Knowledge most ancient, lead us not into temptation but deliver us from the codes of malice... I am Xaihi, Endministrator. May you be enlightened.",
+    "zh-TW": "古老的知識，不要讓我們陷入誘惑，但救我們免於險惡……我是賽希，管理員，願您得到啟迪。",
+    "zh-CN": "古老的知识，不要让我们陷入诱惑，但救我们免于险恶……我是赛希，管理员，愿您得到启迪。",
+    "ja": "旧い知識とは、私達を誘惑から守り、悪から救うもの……私はザイヒです。管理人、あなたが啓示を得られますよう。",
+    "ko": "오래된 지식이여, 우리를 유혹에 빠트리지 마시고, 악에서 구하소서... 안녕하세요, 관리자님. 자이히라고 해요. 진리의 가호가 함께하길..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_switch_01",
+   "title": {
+    "en": "Standing by 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Contemplation... Computation... Utterance... Abandonment.",
+    "zh-TW": "思考……運算……言說……放棄。",
+    "zh-CN": "思考……运算……言说……放弃。",
+    "ja": "思考……演算……言語……放棄。",
+    "ko": "생각... 계산... 출력... 으, 모르겠다..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_switch_02",
+   "title": {
+    "en": "Standing by 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "I offer today's dialogue and contemplation to your terminal, in reverence...",
+    "zh-TW": "我將今日的對話與冥思，獻於您的終端……",
+    "zh-CN": "我将今日的对话与冥思，献于您的终端……",
+    "ja": "今日得た対話と瞑想を、あなたの端末に捧げましょう。",
+    "ko": "오늘날의 대화와 생각을 당신의 단말기에 바치겠어요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Let thy commands be fulfilled. O Endministrator, through service, our path is revealed.",
+    "zh-TW": "爾旨承行……噢，管理員，勞作是我們的道途。",
+    "zh-CN": "尔旨承行……噢，管理员，劳作是我们的道途。",
+    "ja": "御旨のままに……管理人。労働こそ、私達の道なのです。",
+    "ko": "당신의 뜻을 받들겠어요... 아, 관리자님. 진리의 실천은 노동을 통해서 이루어지는 거죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "May peace and safety be with you.",
+    "zh-TW": "願您平安。",
+    "zh-CN": "愿您平安。",
+    "ja": "安らぎが与えられますよう。",
+    "ko": "당신에게 가호가 깃들기를..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Endministrator, you appear once again in my calculated result.",
+    "zh-TW": "管理員，您又出現在我的計算結果中了。",
+    "zh-CN": "管理员，您又出现在我的计算结果中了。",
+    "ja": "管理人。私の演算結果に、またあなたが現れたのですが。",
+    "ko": "관리자님, 또 제 계산 결과에 등장하셨네요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0011_seraph_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Validating data, analyzing syntax, generating results... Greetings, Endministrator.",
+    "zh-TW": "確定資料，執行指令，產生結果……管理員，您好。",
+    "zh-CN": "确定数据，运行语法，生成结果……管理员，您好。",
+    "ja": "データ検証、構文解析、結果生成……管理人、ごきげんよう。",
+    "ko": "데이터 확인, 문법 실행, 결과 생성... 관리자님, 안녕하세요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "I have received your signal, Endministrator. I am in the process of interpreting its meaning. Please wait...",
+    "zh-TW": "我收到來自您的訊號了，管理員。我正在釋讀它的含義，請稍等。",
+    "zh-CN": "我收到来自您的信号了，管理员。我正在释读它的含义，请稍等。",
+    "ja": "管理人からの信号を受信。ただいま、意味を解析中です。暫しお待ちを……",
+    "ko": "관리자님이 보내신 신호, 잘 받았어요. 의미를 해석하고 있으니 잠시만 기다려 주시겠어요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0011_seraph_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Ah ... I find myself preferring the presence of machines over the company of humans. While human pulses are erratic and immeasurable, machines breathe in a consistent and logical pattern.",
+    "zh-TW": "啊……相比起人，我更願意跟機器相處……人的律動千變萬化，機器的呼吸始終依照邏輯。",
+    "zh-CN": "啊……相比起人，我更愿意同机器相处……人的律动千变万化，机器的呼吸始终依照逻辑。",
+    "ja": "……人よりも、機械と共にいる安らぎがあります。人の律動は煩雑ですが、機械の呼吸は常に論理的ですから。",
+    "ko": "아... 전 사람보다는 기계랑 같이 있는 게 편안해요... 사람의 리듬은 끊임없이 변하지만, 기계의 호흡은 언제나 논리를 따르니까요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0011_seraph_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "My terminal registered more than fifty errors within the past ten milliseconds. But set your mind at ease, for I have set our communication as top priority. Hmm? My evaluations for Dijiang's overall performance...? I would say, despite a myriad of issues, the vessel has continued to endure her tribulations with grace, as though she is ... suffering for someone else.",
+    "zh-TW": "我的終端在過去的十毫秒內接收到超過五十個錯誤回報，但是別擔心，我已經將與您的交流列為最高優先順序。嗯？我對……帝江號整體運作狀況的評價嗎？……雖然千瘡百孔，但仍然在努力掙扎，彷彿……在替什麼而受難。",
+    "zh-CN": "我的终端在过去的十毫秒内接收到超过五十个报错，但是别担心，我已经将与您的交流列为最高优先级。嗯？我对……帝江号整体运行状况的评价吗？……虽然千疮百孔，但仍然在努力挣扎，仿佛……在替什么而受难。",
+    "ja": "僅か10ミリ秒の間に、50件以上のエラー通知が届きました。ご安心ください。あなたとの対話スレッドを最優先タスクとして設定済です。はい……帝江号作動状況の評価ですか？……傷を負いながら踠く様は、何かの代わりに罪を被り、痛みを引き受けているかのような……",
+    "ko": "제 단말기는 방금 10밀리초 동안 50개 이상의 오류를 수신했어요. 하지만 걱정하지 마세요. 관리자님과의 통신은 최우선 순위로 설정해 뒀거든요. 네? 제강호 전체의 운행 상황에 대해 평가를... 해달라고요? 음... 일단 심각하게 손상됐다고 말할 수 있어요. 하지만 그걸 어떻게든 버티고 있죠. 꼭... 누군가를 대신해서 고통받는 것처럼..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0011_seraph_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "As the Law permits, so we act: Paradise shall be restored unto this world. Whosoever paveth the path, shall cross the forlorn wildlands and attain bliss. For Veritas layeth hidden in enigmas, that the lost may no longer wander, but walk with the Noble Ones, sharing in an eternal purpose.",
+    "zh-TW": "如律法應允，如我等所行：樂園終將重回大地。凡築路的，將在困苦的荒野中通達至福。因無盡的真知藏在謎團裡面，叫迷途的，不再作客旅，乃是與聖徒同路，在基業中永生。",
+    "zh-CN": "如律法应允，如我等所行：乐园终将重回大地。凡筑路的，将在困苦的荒野中通达至福。因无尽的真知藏在谜团里面，叫迷途的，不再作客旅，乃是与圣徒同路，在基业中永生。",
+    "ja": "法の許しの如く、我らの所業の如く――楽園は再び大地に姿を現す。道を築く者、苦しみの荒野を越え祝福へと至る。謎に包まれし真知は尽きることなく、迷える者はもはや旅人に非ず、聖徒と道を共にし、永遠なる命が授けられん……",
+    "ko": "율법이 허락하신 대로, 우리가 행한 대로, 마침내 낙원은 다시 이 대지 위에 세워질 것입니다. 희망의 길을 닦아 온 이들은 고통의 황무지를 지나, 마침내 구원의 자리에 이르게 될 것입니다. 비록 끝없는 진리가 수수께끼처럼 감추어져 있을지라도, 그 빛은 결코 사라지지 않나니, 방황하던 자들 또한 이제는 그 걸음을 멈추고, 성도들과 같은 길을 걸으며, 그 유산 안에서 영원한 생명을 누리게 될 것입니다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0011_seraph_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "In the eyes of my fellow operators, you are a leader from the past, a noble being in the present, and an Originium sapling maturing toward the future. Yet within the depths of the Protorig Network, I beheld a different you... All I can do is pray — that our signifier and the signified may one day become one. May you walk in blessing, Endministrator.",
+    "zh-TW": "其他幹員眼中所見的您，是昔日的領袖，如今的善人，一株生長在未來的源石樹苗。而我在源石網路中所見的，卻與他們相悖……我只能，不停地為您祈禱……願我們的能指與所指終能連結。管理員，願您受庇佑。",
+    "zh-CN": "其他干员眼中所见的您，是昔日的领袖，如今的善人，一株生长在未来的源石树苗。而我在源石网络中所见的，却与他们相悖……我只能，不住地为您祈祷……愿我们的能指与所指终能联结。管理员，愿您受庇佑。",
+    "ja": "他者から見るあなたは、かつての統率者であり、善人であり、未来に芽吹く源石樹の苗木である――しかし、源石ネットワーク内での異なる姿が――願わくは「指し示すもの」と「指し示されるもの」が結ばれますよう……管理人にどうか、ご加護を。",
+    "ko": "다른 오퍼레이터들의 눈동자에 비친 당신은... 과거의 지도자이자, 현재의 선인이며, 미래를 향해 자라날 작은 오리지늄 나무예요. 하지만 제가 오리지늄 네트워크에서 본 건 조금 달랐어요. 전 그저... 당신을 위해 끊임없이 기도하는 게 전부예요. 우리의 바람이 현실로 나타나기를 바랄게요. 진리의 가호가 함께하길..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0011_seraph_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Endministrator, may I interrupt your processing for a moment? I ... I would like to offer a token of appreciation for all the boosts you have brought me. Oh ... you have noticed nothing at all? Phew, I'm so relieved...",
+    "zh-TW": "管理員，占用一下您的行程。我……我想感謝您帶給我的增益。您……完全沒有注意到嗎？呼，那太好了……",
+    "zh-CN": "管理员，占用一下您的进程。我……我想感谢您带给我的增益。您……完全没有注意到吗？呼，那太好了……",
+    "ja": "管理人のプロセスを一時的に利用します。パフォーマンス向上へのご協力、感謝しま……お気づきではなかったのですか？ふう、安心しました。",
+    "ko": "관리자님, 당신의 프로세스를 잠깐 점유해도 될까요? 저... 저한테 좋은 영향을 주셔서 정말 감사해요... 전혀 모르셨다고요? 아... 그럼 다행이네요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "This is an indicator! Oh, please forgive my lapse in decorum... Veritas acknowledges your efforts.",
+    "zh-TW": "這是一個指示符！噢，抱歉，我有點失態了……真知感謝您的付出。",
+    "zh-CN": "这是一个指示符！噢，抱歉，我有些失态了……真知感谢您的付出。",
+    "ja": "これは……指示記号！――取り乱しました……真知に代わり、感謝申し上げます。",
+    "ko": "이건 지시자네요! 앗, 실례했어요... 감사해요, 진리의 가호가 함께하길..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "The Cabal shares their knowledge and fate with you, Endministrator.",
+    "zh-TW": "管理員，修會與您共享知識和命運。",
+    "zh-CN": "管理员，修会与您共享知识和命运。",
+    "ja": "管理人。伝道会は知識と運命を、あなたと共有するものです。",
+    "ko": "우리 수도회는 지식과 운명을 당신과 공유하겠어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "All my suggestions prove practical and useful...? No, I do not follow the path of pragmatism... The Abbess cautioned us that, here on Talos-II, we must make our faith yield more tangible and practical results. The abundance of Laterano is a distant memory here. Only our interconnection binds us now.",
+    "zh-TW": "我向您提出的建議都很實用嗎？……不，我並非以務實為標竿行事……只是院長告誡我們眾人，在塔衛二上，信仰需要帶來更現實的結果。富饒的拉特蘭已經不在，我們的連結只在彼此之間。",
+    "zh-CN": "我向您提出的建议都很实用么？……不，我并非以务实为标杆行事……只是院长告诫我们众人，在塔卫二上，信仰需要带来更现实的结果。富饶的拉特兰已经不在，我们的联系只在彼此之间。",
+    "ja": "私の提案は役立ちましたか？……いえ、現実主義者ではありません。ただ、院長が「タロⅡにおける信仰は現実と結びつく必要がある」と言っていました。ラテラーノの恵みが失われた今、私達を繋ぎ止めるものは互いの絆だけですから。",
+    "ko": "제가 드린 조언이 모두 실용적이었나요? 음... 전 실용성을 기준으로 행동하진 않아요... 다만, 원장님께서 탈로스 II에서는 신앙이 더 현실적인 결과를 가져와야 한다고 하셨거든요. 풍요의 라테라노는 더 이상 존재하지 않으니까, 이제 우리를 잇는 건 오직 서로 뿐이라고요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0011_seraph_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "After all this time together, I feel I've grown closer to the Endministrator. Now seems an appropriate time to show warmth, trust, and goodwill... Ah, the Endministrator is coming this way. Quickly, Xaihi, execute a gesture of friendliness... Ummm — Endministrator, would you like to join me for morning prayer?",
+    "zh-TW": "經過這段時間的相處，我與管理員的關係越發親近，這時，我應該展現友好、親和、信任的態度……是管理員走過來了，賽希，快向對象輸出一項表達友情的指令……呃，管理員，您要來參加我的晨禱嗎？",
+    "zh-CN": "经过这段时间的相处，我与管理员的关系越发亲近，这时，我应该展现友好、亲和、信任的态度……是管理员走过来了，赛希，快向对象输出一项表达友情的指令……呃，管理员，您要来参加我的晨祷吗？",
+    "ja": "接触時間が増え、管理人と強い結びつきが生まれました。友好と親和、信頼を示すべきでしょうか……あ、管理人がこちらに……ザイヒ、直ちに対象への友情表現コマンドを実行。ええと……管理人、朝の祈りを共に捧げませんか……？",
+    "ko": "요즘, 같이 보내는 시간이 많아지면서 관리자님과의 관계가 점점 가까워지고 있어... 이제는 친근함과 신뢰를 보여줄 때야! 어... 저기 관리자님이 오시는 것 같은데...? 자이히, 정신 차려! 대상에게 우정을 표현하는 명령을 출력하는 거야... 으음, 관리자님? 저랑 같이 아침 기도를 하러 오신 건가요?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0011_seraph_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "Please pardon me, Endministrator... Before I make inevitable contact with you, potential static buildup must be first discharged from my fingers... Oh? Do you not fear such things? But ... these tiny miscreants would secretly cling to one's hands ... and sting you when you least expect it ... like this.",
+    "zh-TW": "管理員，我……抱歉，在不可避免地與您的肌膚發生觸碰之前，我需要先祛除掉手上可能的靜電……您不怕被刺到嗎？可是……它們是很調皮的，會悄悄地黏在手上……就像這樣……突然碰你一下。",
+    "zh-CN": "管理员，我……抱歉，在不可避免地与您的肌肤发生触碰之前，我需要先祛除掉手上可能的静电……您不怕被刺到吗？可是……它们是很调皮的，会悄悄地粘在手上……就像这样……突然碰你一下。",
+    "ja": "管理人。失礼ですが、接触が避けられないのであれば静電気を除去させていただきたく……バチッとなっても大丈夫、ですか。静電気はいたずら好きですから……いつの間にか手にあり、触れてしまいそうで……",
+    "ko": "관리자님, 저... 죄송하지만 관리자님이랑 닿기 전에 손에 있을지도 모를 정전기를 먼저 없애야 해서요... 관리자님은 찌릿한 거 무서워하지 않으시나요? 근데... 걔들은 엄청 장난꾸러기라서 손에 살며시 붙어 있다가... 이렇게... 톡하고 찔러요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0011_seraph_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "For years within the Cathedralis, I immersed myself in study, never pondering how the fruits of our good work could enlighten Talos-II. Yet, the Law's revelations brought me to your presence, and a new world has since emerged in my sight. One by one, the ancient, tranquil words suddenly came to pass ... and now I fully understand their teachings, Endministrator.",
+    "zh-TW": "在大教堂的歲月中，我潛心修習，從未關心過我們的成果會如何映照在塔衛二。但律法的啟示將我引至您的面前，新的世界乍然向我湧現。管理員，那些古老、寂寥的語言，突然一一應驗，如今，我已了然於心。",
+    "zh-CN": "在大教堂的岁月中，我潜心修习，从未关心过我们的成果会如何映照在塔卫二。但律法的启示将我引至您的面前，新的世界乍然向我涌现。管理员，那些古老、寂寥的语言，突然一一应验，如今，我已了然于心。",
+    "ja": "大聖堂では、修行の道を只管に歩んでいました。成果がタロⅡにどう影響するか、思い至ることもなく……しかし、法によってあなたの元に導かれ、新たな世界の広がりを感じました。孤独だった古代の言葉たちが今、まさに形となり――答えを見出したのですから。",
+    "ko": "대성당에서 지내던 시절, 전 수련에만 몰두했어요. 우리의 성과가 어떤 모습으로 탈로스 II에 보일지는 단 한 번도 생각해 본 적 없었죠. 하지만 율법의 계시가 절 당신 앞으로 이끌었고, 눈앞에서 새로운 세계가 펼쳐졌어요. 관리자님, 그 오래된 고요의 언어들이 이제는 하나둘씩 실현되고 있네요... 저도 이제는 그 의미를 이해할 수 있어요."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0011_seraph_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "Endministrator, we Sessionites interpret the Law by viewing language as a symbol. By continuously shattering old symbol combinations to create new ones, we draw ever closer to the domain of eternity. This behavior mirrors that of the Shatterus — the entity enshrined behind the sacred statue of the Cathedralis.",
+    "zh-TW": "管理員，我所皈依的「會話派」對律法的釋讀——將語言視作符號。符號，在不斷地打碎重組之間，抵達永恆的疆域，就像修會大教堂聖像背後的「阿碎」一樣呢。",
+    "zh-CN": "管理员，我所皈依的“会话派”对律法的释读——将语言视作符号。符号，在不断地打碎重组之间，抵达永恒的疆域，就像修会大教堂圣像背后的“阿碎”一样呢。",
+    "ja": "私の信ずる「対話派」では「言葉は記号である」と解釈します。記号を砕き、組み替えてまた砕く……繰り返すことで永遠の境地へと至るのです。大聖堂にある聖像の裏に嵌め込まれている「ガラガラさん」のように。",
+    "ko": "관리자님, 제가 속한 '회화파'는 율법을 이렇게 해석해요. 언어를 기호로 보라. 기호, 끊임없이 부서지고 다시 조립되며 영원의 영역에 도달하는 존재. 마치 수도회 대성당 성상 뒤편의 '부서진 분'처럼요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Dijiang keeps reminding me of the Cathedralis. However, we do not remain there always. Congregations only occur to resolve moments of schism. When this happens, my brethren and sisters from every corner of Talos-II will return to the place. Hmm? How is the Cathedralis kept safe? If it were ever to come under assault... Hmm, I believe it can be its own guardian.",
+    "zh-TW": "帝江號不免讓我想起寂語修會的大教堂。只是，我們不會總是待在裡面，只有在會眾議異時，弟兄姊妹才會從塔衛二的各個角落回到那裡。欸，保衛它？如果大教堂遭襲的話……嗯，大教堂會自求多福的。",
+    "zh-CN": "帝江号不免让我想起寂语修会的大教堂。只是，我们不会总是待在里面，只有在会众议异时，弟兄姊妹才会从塔卫二的各个角落回到那里。欸，保卫它？如果大教堂遭袭的话……嗯，大教堂会自求多福的。",
+    "ja": "帝江号は、静語伝道会の大聖堂を思い起こさせます。ですが、私達は常にそこに居るわけではなく、協議時にタロⅡ中に散らばる同胞が戻るのです。「防衛手段」――ですか？もし襲撃されたとしても……大聖堂はきっと、その力で運命を掴むでしょう。",
+    "ko": "제강호를 보고 있으면 고요한 수도회의 대성당이 떠올라요. 물론 저희라고 항상 그곳에서 지내는 건 아니에요. 모여서 의논할 필요가 있을 때만, 형제자매들이 탈로스 II의 각지에서 그곳으로 모이는 거죠. 아, 지키고 있어야 하는 거 아니냐고요? 만약 대성당이 공격을 받는다면... 음, 제가 걱정할 필요는 없을 것 같아요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Never have we stood so far from Veritas, for it has departed from the place we called home. Never have we stood so near to Veritas, for now we have knocked upon its waiting door.",
+    "zh-TW": "我們與真知的距離前所未有地遠，它曾離開了我們的家園；我們與真知的距離前所未有地近，如今，我們叩響了它的門扉。",
+    "zh-CN": "我们与真知的距离前所未有地远，它曾离开了我们的家园；我们与真知的距离前所未有地近，如今，我们叩响了它的门扉。",
+    "ja": "真知との距離は、かつてないほど遠く――この地を離れてしまった故に。真知との距離は、かつてないほど近く――その扉を今叩くべし。",
+    "ko": "우리와 진리의 거리는 그 어느 때보다도 멀어졌다. 그것이 우리의 고향을 떠났으니... 우리와 진리의 거리는 그 어느 때보다도 가까워졌다. 지금 우리는 그 문을 두드리고 있으니..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "Racing? On foot? Boxing? With fists? And you wish to see me in the sports festival?! I'm afraid ... I must refuse. The only \"physical motion\" I approve of ... is the magnitude of periodic changes, made by electrons within an oscillator circuit. I could never bring myself to compete against my brethren and sisters! No ... I am not seeking an excuse. I-I must now return to the mainframe room. Immediately.",
+    "zh-TW": "參加賽跑？……拳、拳擊？運動會？！不了……我拒絕。我所能接受的「運動」，只有電子在振盪電路中週期性變化的幅度……弟兄姊妹之間不應彼此爭奪！我、我沒有在找藉口，我真的要回機房去了。",
+    "zh-CN": "参加赛跑？……拳、拳击？运动会？！不了……我拒绝。我所能接受的“运动”，只有电子在振荡电路中周期性变化的幅度……弟兄姊妹之间不应当彼此争夺！我、我没有在找借口，我真的要回机房去了。",
+    "ja": "レース？……ボ、ボクシング？運動会！？……遠慮します。私の容認する「運動」は、電子が発振回路内で周期的に変化する振幅……とにかく、同胞で争うものではありません。言い訳でもありません。サーバールームに戻る時間だというだけです。",
+    "ko": "달리기 시합에 참여해 보라고요? 네? 권... 권투요? 운동회?! 아니요...! 전 사양할게요. 제가 받아들일 수 있는 '운동'은 진동 회로에서 전자가 보이는 단순 조화 운동뿐이에요... 그리고 형제자매끼리는 서로를 경쟁상대로 삼아서는 안 된다고요. 변, 변명하는 게 아니에요! 저는 이만 기계실로 돌아가 볼게요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "Yes, there are many Sarkaz like me within the Cabal. Some were even entrusted with relics once wielded by Gun-Knights. Indeed, I have studied the scriptures of the Cabal. I know that, back on Terra, the Sarkaz were in fierce conflict with many other races. However, when the First Aggeloi War ended, an unprecedented miracle of unity descended upon us: Every soul embraced their brethren and sisters, and every pair of lips sang in the same tongue.",
+    "zh-TW": "嗯，修會中有很多像我這樣的薩卡茲，還有人被授予了曾經屬於銃騎的裝備。沒錯，我研習過修會的經卷，在泰拉，薩卡茲與許多種族都勢同水火。但在第一次天使戰爭後，連結彼此的神蹟空前絕後：大家擁抱著弟兄姊妹，口中湧出同樣的語言了。",
+    "zh-CN": "嗯，修会中有很多像我这样的萨卡兹，还有人被授予了曾经属于铳骑的装备。没错，我研习过修会的经卷，在泰拉，萨卡兹与许多种族都势同水火。但在第一次天使战争后，联结彼此的神迹空前绝后：大家拥抱着弟兄姊妹，口中涌出同样的语言了。",
+    "ja": "伝道会にも私と同様、多くのサルカズが存在します。かつての銃騎士の装備を授けられた者もいます。経典を学び、テラのサルカズが多くの種族と対立してきたことは理解していますが、第一次アンゲロス戦争後に人々を結びつけた奇跡――人々は抱き合い、その口から溢れる言語が1つであったと……",
+    "ko": "수도회에는 저 같은 살카즈가 많아요. 심지어 총기사의 장비를 하사받은 사람도 있죠. 맞아요, 전 수도회의 경전을 연구했어요. 테라에서 살카즈는 많은 종족과 충돌했거든요. 하지만 제1차 아겔로스 전쟁 이후, 서로가 이어지는 기적이 펼쳐졌죠. 모두가 서로를 끌어안고, 같은 말을 하는 모습이요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_about_line01",
+   "title": {
+    "en": "Topic: Aggelos",
+    "zh-TW": "話題：天使",
+    "zh-CN": "话题：天使",
+    "ja": "アンゲロスについて",
+    "ko": "아겔로스에 관하여"
+   },
+   "text": {
+    "en": "The relationship between the Law and the Aggeloi overrunning Talos-II, is one of the primary subjects the Cabal seeks to interpret.",
+    "zh-TW": "如今橫行在塔衛二大地上的「天使」與律法之間的關係，是寂語修會釋讀的重要問題之一。",
+    "zh-CN": "如今横行在塔卫二大地上的“天使”与律法之间的关系，是寂语修会释读的重要问题之一。",
+    "ja": "タロⅡの大地を彷徨う「アンゲロス」と法との関係――静語伝道会が解釈しようとする、もっとも重要な課題の1つです。",
+    "ko": "오늘날 탈로스 II 대지를 배회하는 '아겔로스'와 율법 사이에 어떤 관계가 있는지는 고요한 수도회가 해석하고 있는 중요한 문제 중 하나예요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_about_line02",
+   "title": {
+    "en": "Topic: Shatterus",
+    "zh-TW": "話題：阿碎",
+    "zh-CN": "话题：阿碎",
+    "ja": "ガラガラさんについて",
+    "ko": "부서진 분에 관하여"
+   },
+   "text": {
+    "en": "There is an Aggelos reminiscent of the Triaggelos, nestled behind the sacred statue in the Cathedralis. We secretly call it Shatterus when outside the hours of liturgy. This construct was seized by Abbess Mumu during the First Aggeloi War. The Abbess encourages us to observe Shatterus and reflect, for the Law's teachings might be found in the enemy. Shatterus presents both a near-accurate approximation, and a formed conclusion yet to be interpreted.",
+    "zh-TW": "在修會大教堂的聖像背後，嵌合了一隻與三位一體相仿的天使。修士們日課間會偷偷叫牠「阿碎」。阿碎是第一次天使戰爭時期，院長姆姆親手捕獲的。她經常教誨我們，要觀察阿碎，時刻省思，在敵人身上亦能尋得律法的教喻，它是接近的可能性，也是終將得到解讀的定論。",
+    "zh-CN": "在修会大教堂的圣像背后，嵌合了一只与三位一体相仿的天使。修士们日课间会偷偷叫它“阿碎”。阿碎是第一次天使战争时期，院长姆姆亲手捕获的。她经常教诲我们，要观察阿碎，时刻省思，在敌人身上亦能寻得律法的教喻，它是切近的可能性，也是终将得到解读的定论。",
+    "ja": "大聖堂にある聖像の裏に、トリアンゲロスに似た姿のアンゲロスが嵌め込まれています。修道士の間では「ガラガラさん」と呼ばれていますが……第一次アンゲロス戦争時に院長が捕えたと。「ガラガラさんを観察し、省みる。敵にもまた、法の教えは宿る。迫りくる可能性であり、やがて読み解かれる真実である」……",
+    "ko": "수도회 대성당의 성상 뒤에는 트리아겔로스를 닮은 아겔로스 한 마리가 박혀 있어요. 제1차 아겔로스 전쟁 시기, 원장님께서 직접 사로잡은 존재죠. 수사들 사이에서는 '부서진 분'이라고 불려요. 원장님께서는 늘 저희한테 부서진 분을 관찰하고, 항상 반성하며, 적에게도 율법의 가르침을 찾으라고 하셨거든요. 이는 가장 가까운 가능성이자, 언젠가 알게 될 결론이라고요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_about_line03",
+   "title": {
+    "en": "Topic: Three Branches of the Cabal",
+    "zh-TW": "話題：三個教派",
+    "zh-CN": "话题：三个教派",
+    "ja": "3つの宗派について",
+    "ko": "세 교파에 관하여"
+   },
+   "text": {
+    "en": "The Cabal now consists of three branches: the Sessionites, the Veritarites, and the Resurgonites. I myself belong to the Sessionites. We believe that computation and linguistic analysis form the avenue to bliss. The Resurgonites, scattered across Talos-II, are armed zealots eager to delve into the ruins of the ancient civilization. The Veritarites concern themselves above all with matters of heart and soul. They study scriptures, create handwritten copies, and guide lost souls home.",
+    "zh-TW": "現在，修會的成員們分為三個教派：會話、闡釋、重現。我來自會話派，我們視演算和語言分析為通往至福的大路。重現派的修士……或許您在塔衛二各處都會見到他們，他們全副武裝，對發掘文明遺跡一事非常狂熱。至於闡釋派，這些弟兄姊妹關懷心靈勝於一切，他們抄讀經卷，指引迷茫的人們找到路，回到家。",
+    "zh-CN": "现在，修会的成员们分为三个教派：会话、阐释、重现。我来自会话派，我们视演算和语言分析为通往至福的大路。重现派的修士……或许您在塔卫二各处都会见到他们，他们全副武装，对发掘文明遗迹一事非常狂热。至于阐释派，这些弟兄姊妹关怀心灵胜于一切，他们抄读经卷，指引迷茫的人们找到路，回到家。",
+    "ja": "今、伝道会は3つの宗派に分かれています――対話派、解釈派、そして再現派。私が属す対話派は演算と言語解析こそ至福への道と考えています。再現派の修道士……いずれタロⅡのどこかで会うことになるでしょう。常に武装し、文明遺跡の発掘に熱中していますから。そして、解釈派は何よりも心を重視します。経典を読み伝え、迷える者を帰るべき場所へと導いているのです。",
+    "ko": "지금 수도회의 구성원들은 세 교파로 나뉘어져 있어요. 회화, 해석, 재현...저는 회화파 출신이죠. 저희는 연산과 언어 분석을 행복으로 가는 길이라고 여겨요. 재현파 수사들은... 어쩌면 탈로스 II 여기저기서 자주 보셨을지도 몰라요. 완전히 무장한 채로, 문명 유적 발굴에 굉장히 열정적이거든요. 그리고 해석파의 형제자매들은 무엇보다 마음과 영혼을 가장 소중하게 생각해요. 경전을 필사하면서 길 잃은 자들이 길을 찾고 집으로 돌아갈 수 있도록 이끌죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "I have perceived the existence of rarities.",
+    "zh-TW": "我探查到了珍奇的存在。",
+    "zh-CN": "我探查到了珍奇的存在。",
+    "ja": "貴重な物資を探知しました。",
+    "ko": "진기한 걸 찾았어요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "If a gift of Veritas is nearby, then it shall be retrieved.",
+    "zh-TW": "真知的賜予就在附近，去將它取得。",
+    "zh-CN": "真知的赐予就在附近，去将它取得。",
+    "ja": "真知の賜物は目の前に。参りましょう。",
+    "ko": "진리가 하사한 물건이 주변에 있어요. 얼른 가봐요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Blessed or accursed, the realm is ours to explore.",
+    "zh-TW": "也許是福地，也許是惡土，但憑我們探尋。",
+    "zh-CN": "也许是福地，也许是恶土，但凭我们探寻。",
+    "ja": "祝福の地か、堕罪の地か。導きに従いましょう。",
+    "ko": "축복의 대지일 수도, 악의 대지일 수도 있어요. 탐구해 봐야겠네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "A wayward, fallen one roams nearby. My staff shall grieve for them.",
+    "zh-TW": "固執的迷途者就在附近徘徊。我的術杖會為其哀哭。",
+    "zh-CN": "固执的迷途者就在附近徘徊。我的术杖会为其哀哭。",
+    "ja": "迷える者がこの地を彷徨っている……この杖で、魂に憐れみを与えましょう。",
+    "ko": "길 잃은 자가 주변을 맴돌고 있어요. 제 지팡이로 애도를 표해야겠네요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "All have been set upon this Land before us — And with the toil of our hands shall they be acquired.",
+    "zh-TW": "既有的一切，先於我們便已在大地上了——我們要用雙手去取得。",
+    "zh-CN": "既有的一切，先于我们便在大地上了——我们要用双手去取得。",
+    "ja": "すべては、我々より先に大地に顕現す――ですから、この手で掴みに行くのです。",
+    "ko": "여기 모든 것은 우리가 이 대지에 오기 전부터 존재했어요. 노력으로만 진정한 소유가 가능하죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "A gift of the Law.",
+    "zh-TW": "是律法的成全。",
+    "zh-CN": "是律法的成全。",
+    "ja": "法のお許しの賜物です。",
+    "ko": "이 또한 율법의 뜻이겠죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "Again I behold abundance — a blessing promised by the Law!",
+    "zh-TW": "我又看到了豐饒的景象——是律法應許的福地！",
+    "zh-CN": "我又看到了丰饶的景象——是律法应许的福地！",
+    "ja": "この豊穣の光景は――法に約束された「祝福の地」に違いありません。",
+    "ko": "풍요의 모습이 보여요. 율법이 약속한 축복의 대지예요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "Aurylene ... another language whispered by Talos-II.",
+    "zh-TW": "醚質，也是塔衛二的語言。",
+    "zh-CN": "醚质，也是塔卫二的语言。",
+    "ja": "オーリレンもまた、タロⅡの言語の1つです。",
+    "ko": "오리렌, 탈로스 II의 언어죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "This amorphous material is just a variable on our trek.",
+    "zh-TW": "在我們的路途上，這只是一個可變向量。",
+    "zh-CN": "在我们的路途上，这只是一个可变向量。",
+    "ja": "巡礼中における、可変ベクトルに過ぎません。",
+    "ko": "우리의 여정 속에서 이건 불안정한 변수일 뿐이에요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Kindly guide us to the revealing of eternal tranquility.",
+    "zh-TW": "請指引我們的前路，向我們揭示永遠的寧靜吧。",
+    "zh-CN": "请指引我们的前路，向我们揭示永远的宁静吧。",
+    "ja": "どうか進むべき道を示し、永遠の安らぎへとお導きください。",
+    "ko": "우리의 길을 비추시고, 영원한 평온을 펼쳐주소서."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "I am here to manifest blessings.",
+    "zh-TW": "我是祝福的代行者。",
+    "zh-CN": "我是祝福的代行者。",
+    "ja": "祝福の代行者となりましょう。",
+    "ko": "전 축복의 대행자일 뿐이죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "Good deeds be praised.",
+    "zh-TW": "奉行一切善舉。",
+    "zh-CN": "奉行一切善举。",
+    "ja": "善き行いに従いましょう。",
+    "ko": "모든 선함을 행하라..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "They show lethal intent!",
+    "zh-TW": "對方的手段並不仁慈！",
+    "zh-CN": "对方的手段并不仁慈！",
+    "ja": "慈悲など持たぬ相手です。",
+    "ko": "상대의 수단은 자애롭지 않아요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "The trek grows ... more arduous...",
+    "zh-TW": "道路，越發艱險……",
+    "zh-CN": "道路，愈发艰险……",
+    "ja": "道は、苦難に満ちるもの……",
+    "ko": "길이... 점점 험난해지네요..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "Veritas... Why...?",
+    "zh-TW": "真知……為什麼……",
+    "zh-CN": "真知……为什么……",
+    "ja": "真知よ……あなたは、なぜ……",
+    "ko": "진리가... 왜..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Your Arts have opened my eyes!",
+    "zh-TW": "您的術式令我耳目一新！",
+    "zh-CN": "您的术式令我耳目一新！",
+    "ja": "初めて見る術式です。",
+    "ko": "정말 놀라운 기술이에요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "We are united beyond the need for words!",
+    "zh-TW": "無需話語，便能傳遞我們的連結！",
+    "zh-CN": "无需话语，便能传递我们的联结！",
+    "ja": "言葉が無くても、共鳴はできるのです。",
+    "ko": "말하지 않아도 서로를 이해할 수 있죠!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "I am fortunate to be in your company.",
+    "zh-TW": "非常幸運與您同行。",
+    "zh-CN": "非常幸运与您同行。",
+    "ja": "共に在ることに感謝します。",
+    "ko": "당신과 함께할 수 있어 정말 행운이에요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "I shall offer prayers for all of us.",
+    "zh-TW": "我會為我們所有人祈禱。",
+    "zh-CN": "我会为我们所有人祈祷。",
+    "ja": "皆さんに祈りを捧げましょう。",
+    "ko": "우리 모두를 위해 기도할게요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "He who suffers today is not among us.",
+    "zh-TW": "受難之人今天並非你我。",
+    "zh-CN": "受难之人今天并非你我。",
+    "ja": "受難を受けるのは、私達ではないようですね。",
+    "ko": "고통을 받을 존재는 우리가 아니에요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "I wish you the best of fortune.",
+    "zh-TW": "也祝您順利。",
+    "zh-CN": "也祝您顺利。",
+    "ja": "あなたにも祈りを捧げます。",
+    "ko": "당신을 축복할게요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Veritas has graced this battlefield with its touch!",
+    "zh-TW": "真知短暫地觸摸過這裡！",
+    "zh-CN": "真知短暂地触摸过这里！",
+    "ja": "暫し、この地に「真知」が触れましたね。",
+    "ko": "진리가 우리를 보살펴 주신 거예요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "My prayers have been answered.",
+    "zh-TW": "我的祈禱奏效了！",
+    "zh-CN": "我的祈祷奏效了！",
+    "ja": "この祈りが功を奏しましたね。",
+    "ko": "제 기도가 하늘에 닿았군요!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "I find joy in the language of celebration.",
+    "zh-TW": "慶祝，是我鍾愛的語言。",
+    "zh-CN": "庆祝，是我钟爱的语言。",
+    "ja": "祝福こそ、私を満たす言語……",
+    "ko": "제가 사랑하는 언어가 바로, 축하예요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "My friends ... success and failure are not binary like 0 and 1. A spectrum of countless nuances lies between them.",
+    "zh-TW": "各位……成功與失敗並不是0和1的運算子，它們會組成無數種複雜的詩。",
+    "zh-CN": "各位……成功与失败并不是0和1的运算符，它们会组成无数种复杂的诗。",
+    "ja": "成功と失敗は単なる0と1の演算子ではありません……無数の複雑な詩を生み出すものなのです。",
+    "ko": "여러분... 성공과 실패는 단순한 0과 1로 나누는 연산자가 아니에요. 수많은 가능성 속에서 아주 복잡한 시를 이루거든요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "The sacredness of computation lies in its perfect neutrality — The algorithms predict both success and failure. Keep faith and carry on.",
+    "zh-TW": "計算的聖潔之處在於它的絕對中立——既能算出成功，也能算出失敗，這再正常不過。",
+    "zh-CN": "计算的圣洁之处在于它的绝对中立——既能算出成功，也能算出失败，这再也正常不过。",
+    "ja": "演算が神聖であるのは、絶対的な中立性によるものです。成功も失敗もある――至極当然のことです。",
+    "ko": "계산이 신성한 이유는 그 절대적인 중립성에 있어요. 계산의 결과로 성공도 나올 수 있고, 실패도 나올 수 있죠. 그건 너무나도 자연스러운 일이에요."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Injection!",
+    "zh-TW": "注入。",
+    "zh-CN": "注入。",
+    "ja": "注入します。",
+    "ko": "주입!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Recursion!",
+    "zh-TW": "遞迴！",
+    "zh-CN": "递归！",
+    "ja": "リカーシブ！",
+    "ko": "재귀!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "Analyzing.",
+    "zh-TW": "分析，運算……",
+    "zh-CN": "分析，运算……",
+    "ja": "分析、演算……",
+    "ko": "분석, 연산..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "A frigid output.",
+    "zh-TW": "冰冷的結論。",
+    "zh-CN": "冰冷的结论。",
+    "ja": "思考、クールダウン……",
+    "ko": "결론은 차갑죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Gathering data.",
+    "zh-TW": "資料收集。",
+    "zh-CN": "数据收集。",
+    "ja": "データ収集。",
+    "ko": "데이터 수집."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "My prayer has ended.",
+    "zh-TW": "祈禱結束。",
+    "zh-CN": "祈祷结束。",
+    "ja": "祈りはここまでです。",
+    "ko": "기도는 여기까지."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "I offer my computing power.",
+    "zh-TW": "提供我的算力。",
+    "zh-CN": "提供我的算力。",
+    "ja": "演算をお見せしましょう。",
+    "ko": "제 연산 능력을 빌려드리죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Veritas be with you.",
+    "zh-TW": "與您同在。",
+    "zh-CN": "与您同在。",
+    "ja": "あなたと共に。",
+    "ko": "당신과 함께하길."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "All shall mend.",
+    "zh-TW": "全部修復。",
+    "zh-CN": "全部修复。",
+    "ja": "リカバリー完了。",
+    "ko": "복구 완료."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "Hard reboot!",
+    "zh-TW": "強制重啟！",
+    "zh-CN": "强制重启！",
+    "ja": "強制……再起動。",
+    "ko": "강제 재부팅!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Executing destruction!",
+    "zh-TW": "破壞性程式！",
+    "zh-CN": "破坏性程序！",
+    "ja": "ウイルス、発動……",
+    "ko": "맬웨어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Logic yields to none.",
+    "zh-TW": "邏輯，本不宜人。",
+    "zh-CN": "逻辑，本不宜人。",
+    "ja": "論理は人に扱えるものではない……！",
+    "ko": "논리는 원래 마주하기 어려운 것이죠."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Sanitize the corruption!",
+    "zh-TW": "清除此等不諧！",
+    "zh-CN": "清除此等不谐！",
+    "ja": "乱れは消去します。",
+    "ko": "오류 수정!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0011_seraph_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "List subject violations.",
+    "zh-TW": "細數他們的罪行。",
+    "zh-CN": "细数他们的罪行。",
+    "ja": "罪を数えて差し上げます。",
+    "ko": "참회의 시간이에요."
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0011_seraph_1",
+   "topic": {
+    "en": "Chat Bot",
+    "zh-TW": "聊天機器",
+    "zh-CN": "聊天机器",
+    "ja": "チャットボット",
+    "ko": "채팅봇"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "If it's convenient, please reply to this message to confirm our connection status on each other's terminal interface.",
+      "zh-TW": "如果方便的話，請回覆此訊息，確認我們在彼此終端畫面上的連接狀態。",
+      "zh-CN": "如果方便的话，请回复此条消息，确认我们在彼此终端页面上的连接状态。",
+      "ja": "接続状態を確認するため、このメッセージに返信いただけると助かります。",
+      "ko": "관리자님, 단말기 화면의 연결 상태를 확인하기 위해, 이 메시지에 답장해 주세요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "This is a request from Xaihi.",
+      "zh-TW": "這是來自賽希的請求。",
+      "zh-CN": "这是来自赛希的请求。",
+      "ja": "こちらは、ザイヒからのリクエストです。",
+      "ko": "자이히의 요청입니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What does this mean?",
+      "zh-TW": "這是什麼意思？",
+      "zh-CN": "这是什么意思？",
+      "ja": "どういう意味……？",
+      "ko": "이게 무슨 뜻이죠?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Xaihi has received your message and will reply shortly. Please wait a moment.",
+      "zh-TW": "賽希已經收到了您的訊息，將在短時間內回覆，請稍事等待。",
+      "zh-CN": "赛希已经收到了您的消息，将在短时间后回复，请稍事等待。",
+      "ja": "ザイヒはメッセージを受信しました。まもなく返答いたします。しばらくお待ちください。",
+      "ko": "자이히가 관리자님의 메시지를 수신했습니다. 잠시 후 답장을 드릴 예정이니, 잠시만 기다려 주세요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Thanks to the Veritas, from now on we can find each other anytime within this small terminal space.",
+      "zh-TW": "感謝真知，從此以後，我們便能隨時在這終端的方寸之間找到彼此了。",
+      "zh-CN": "感谢真知，从此往后，我们便能随时在这终端的方寸之间找到彼此了。",
+      "ja": "「真知」に感謝いたします。これからは、この端末という小さな空間において、いつでも互いを見いだせるようになりました。",
+      "ko": "진리의 은혜에 감사드립니다. 이제부터 우리는 언제든지 이 작은 단말기 안에서 서로를 찾을 수 있게 되었습니다."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Is this Xaihi herself...?",
+         "zh-TW": "是賽希本人嗎……？",
+         "zh-CN": "是赛希本人吗……？",
+         "ja": "ザイヒ、本人……？",
+         "ko": "자이히 씨 본인이 맞나요...?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "Ah, sorry!! It was my built-in chat bot...",
+         "zh-TW": "啊，抱歉！！是我內建的聊天機器人……",
+         "zh-CN": "啊，抱歉！！是我内置的聊天机器人……",
+         "ja": "……失礼しました。これは、私が搭載したチャットボットです。",
+         "ko": "아, 죄송해요! 방금은 제가 내장해 둔 채팅봇이었어요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "As a \"Representative,\" the bot handles complex social situations for me when I'm dealing with people I'm not yet familiar with.",
+         "zh-TW": "作為「表徵」，機器人會在面對尚不熟悉的對象時替我處理複雜的社交狀況。",
+         "zh-CN": "作为“表征”，机器人会在面对尚不熟悉的对象时替我处理复杂的社交状况。",
+         "ja": "「私の代役」として、馴染みの無い方々と向き合う際に、複雑なコミュニケーションを処理するものです。",
+         "ko": "'특성 분석'의 역할로, 아직 잘 알지 못하는 상대와의 복잡한 사교 과정을 대신 처리해 주거든요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "Please forgive this method of communication.",
+         "zh-TW": "請原諒這樣的溝通方式。",
+         "zh-CN": "请原谅这样的沟通方式。",
+         "ja": "このような形での会話となってしまったこと、どうかお許しください。",
+         "ko": "이런 식으로 대응한 것을 용서해 주세요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "It helps me handle a lot of issues, because I get way too many messages to reply to every day.",
+         "zh-TW": "它會幫我處理很多問題，因為我每天需要回覆的訊息實在是太多了。",
+         "zh-CN": "它会帮我处理很多问题，因为我每天需要回复的消息实在太多了。",
+         "ja": "膨大な数のメッセージに返答するため、このチャットボットがコミュニケーションを助けてくれるのです。",
+         "ko": "제게 오는 메시지가 워낙 많다 보니, 이 채팅봇이 도움이 많이 되고 있어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "But I guarantee I prioritize the highest-level contacts. I'm taking over the conversation myself now.",
+         "zh-TW": "但我會保證最高優先對象的需求。現在開始對話由我本人接管了。",
+         "zh-CN": "但我会保证最高优先级对象的需求。现在开始对话进程由我本人接管了。",
+         "ja": "ただ、最優先の対応が必要な相手であれば、私自身が返答いたします。ですので、ここから先の会話は私が引き継ぎます。",
+         "ko": "하지만 최우선 대상의 대화 요청은 제가 직접 대응할 거예요. 그러니 지금부터는 제가 직접 대화를 이어갈게요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You don't seem like Xaihi?",
+         "zh-TW": "你好像不是賽希？",
+         "zh-CN": "你好像不是赛希？",
+         "ja": "君は、ザイヒ……？",
+         "ko": "자이히 씨가 아니신 거 같은데..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "Ah, sorry!! It was my built-in chat bot...",
+         "zh-TW": "啊，抱歉！！是我內建的聊天機器人……",
+         "zh-CN": "啊，抱歉！！是我内置的聊天机器人……",
+         "ja": "……失礼しました。これは、私が搭載したチャットボットです。",
+         "ko": "아, 죄송해요! 방금은 제가 내장해 둔 채팅봇이었어요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "As a \"Representative,\" the bot handles complex social situations for me when I'm dealing with people I'm not yet familiar with.",
+         "zh-TW": "作為「表徵」，機器人會在面對尚不熟悉的對象時替我處理複雜的社交狀況。",
+         "zh-CN": "作为“表征”，机器人会在面对尚不熟悉的对象时替我处理复杂的社交状况。",
+         "ja": "「私の代役」として、馴染みの無い方々と向き合う際に、複雑なコミュニケーションを処理するものです。",
+         "ko": "'특성 분석'의 역할로, 아직 잘 알지 못하는 상대와의 복잡한 사교 과정을 대신 처리해 주거든요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "Please forgive this method of communication.",
+         "zh-TW": "請原諒這樣的溝通方式。",
+         "zh-CN": "请原谅这样的沟通方式。",
+         "ja": "このような形での会話となってしまったこと、どうかお許しください。",
+         "ko": "이런 식으로 대응한 것을 용서해 주세요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "It helps me handle a lot of issues, because I get way too many messages to reply to every day.",
+         "zh-TW": "它會幫我處理很多問題，因為我每天需要回覆的訊息實在是太多了。",
+         "zh-CN": "它会帮我处理很多问题，因为我每天需要回复的消息实在太多了。",
+         "ja": "膨大な数のメッセージに返答するため、このチャットボットがコミュニケーションを助けてくれるのです。",
+         "ko": "제게 오는 메시지가 워낙 많다 보니, 이 채팅봇이 도움이 많이 되고 있어요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "But I guarantee I prioritize the highest-level contacts. I'm taking over the conversation myself now.",
+         "zh-TW": "但我會保證最高優先對象的需求。現在開始對話由我本人接管了。",
+         "zh-CN": "但我会保证最高优先级对象的需求。现在开始对话进程由我本人接管了。",
+         "ja": "ただ、最優先の対応が必要な相手であれば、私自身が返答いたします。ですので、ここから先の会話は私が引き継ぎます。",
+         "ko": "하지만 최우선 대상의 대화 요청은 제가 직접 대응할 거예요. 그러니 지금부터는 제가 직접 대화를 이어갈게요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Do you have to talk to a lot of people every day?",
+      "zh-TW": "你每天都需要跟很多人對話嗎？",
+      "zh-CN": "你每天都需要跟很多人对话吗？",
+      "ja": "毎日、そんなにたくさんの人とやり取りをしているの？",
+      "ko": "자이히 씨는 매일 많은 사람과 대화해야 하나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Yeah... While we've been talking, my background processes have automatically replied to 62 pending messages.",
+      "zh-TW": "嗯……在我們對話期間，我的背景程序一共自動回覆了62則待處理訊息。",
+      "zh-CN": "嗯……在我们对话期间，我的后台进程一共自动回复了62条待处理消息。",
+      "ja": "はい。この会話の間、バックグラウンドで自動処理されたメッセージは62件あります。",
+      "ko": "네... 지금 이렇게 관리자님과 이야기하는 동안에도, 제 백그라운드 프로세스가 자동으로 62개의 대기 메시지를 처리했답니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "So busy so busy so busy so busy",
+      "zh-TW": "好忙好忙好忙好忙",
+      "zh-CN": "好忙好忙好忙好忙",
+      "ja": "ああ、忙しい……忙しいこと、この上なく……",
+      "ko": "정말 너무 너무 너무 바빠요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Somehow, you seem really lively when we're chatting, Xaihi.",
+      "zh-TW": "總感覺在聊天時的賽希很活潑呢。",
+      "zh-CN": "总感觉在聊天时的赛希很活泼呢。",
+      "ja": "ここで会話していると、随分元気そうに見えるね。",
+      "ko": "자이히 씨, 채팅할 땐 아주 활발하시네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "And you type really fast.",
+      "zh-TW": "打字也很快。",
+      "zh-CN": "打字也很快。",
+      "ja": "返信を打つのも速い。",
+      "ko": "타자도 굉장히 빠르고요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Hiding behind the screen is definitely more comfortable for me.",
+      "zh-TW": "藏在螢幕後面，對我來說的確更為舒適。",
+      "zh-CN": "藏在屏幕后面，对我来说确实更为舒适。",
+      "ja": "画面を挟んで会話するほうが、私にとっては心地が良いのです。",
+      "ko": "전 화면 뒤에 숨어 있는 게 훨씬 더 편하거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I can't help but feel it's still because you're afraid of socializing...",
+      "zh-TW": "總感覺還是因為恐懼社交的緣故……",
+      "zh-CN": "总感觉还是因为恐惧社交的缘故……",
+      "ja": "直接、人と話すのが苦手なの？",
+      "ko": "사람들을 직접 만나는 걸 두려워하는 것 같은데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "That's not it. If everyone put rationality first in their communication, then interacting would be the thing I'm best at.",
+      "zh-TW": "才不是，如果所有人的交流都將理性置於首位，那麼交流對我而言就是最擅長的事。",
+      "zh-CN": "才不是，如果所有人的交流都将理性置于首位，那么交流对我而言就是最擅长的事。",
+      "ja": "いいえ、そうではありません。もし、すべてのコミュニケーションが理性的に処理されるのであれば、コミュニケーションは私の最も得意な分野になるでしょう。",
+      "ko": "그건 아니에요. 만약 모든 대화가 철저히 이성적 사고로만 진행된다면, 누구보다 능숙하게 대응할 수 있어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So, you're not good at handling people's emotions?",
+      "zh-TW": "所以，你不擅長應對大家的情緒嗎？",
+      "zh-CN": "所以，你不擅长应对大家的情绪吗？",
+      "ja": "なら、人の気持ちを読むのが難しいってことかな。",
+      "ko": "그럼, 다른 사람의 '감정'을 상대하는 걸 잘 못한다는 뜻인가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "I'm very g",
+      "zh-TW": "很擅",
+      "zh-CN": "很擅",
+      "ja": "得",
+      "ko": "잘"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "I'm very good at it.",
+      "zh-TW": "很擅長的。",
+      "zh-CN": "很擅长的。",
+      "ja": "得意です。",
+      "ko": "잘해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Really?",
+      "zh-TW": "真的嗎？",
+      "zh-CN": "真的吗？",
+      "ja": "本当に？",
+      "ko": "정말로요?"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Xaihi] is OFFLINE",
+      "zh-TW": "[賽希]已離線",
+      "zh-CN": "[赛希]已离线",
+      "ja": "「ザイヒ」オフラインになりました",
+      "ko": "[자이히] 오프라인"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Xaihi] is online",
+      "zh-TW": "[賽希]已上線",
+      "zh-CN": "[赛希]已上线",
+      "ja": "「ザイヒ」オンラインになりました",
+      "ko": "[자이히] 온라인"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Xaihi is temporarily offline. I am your Baker built-in smart assistant, greetings.",
+      "zh-TW": "賽希暫時離線，我是您的Baker內建智慧助手，向您問好。",
+      "zh-CN": "赛希暂时离线，我是您的Baker内置智能助手，向您问好。",
+      "ja": "ザイヒは一時的にオフラインになりました。私はBaker内蔵アシスタントです。",
+      "ko": "자이히가 잠시 자리를 비웠습니다. 저는 Baker 내장 지능형 채팅봇입니다. 안녕하세요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "If you ever have any questions about electronic devices in the future, please feel free to message Xaihi anytime. Veritas will find the answers for you.",
+      "zh-TW": "若您日後有任何關於電子設備的問題，都請隨時向賽希傳訊，真知會為您找到解答。",
+      "zh-CN": "若您日后有任何关于电子设备的问题，都请随时向赛希发信，真知会为您找到解答。",
+      "ja": "もし、電子機器に関するご相談がありましたら、どうぞザイヒまでご連絡ください。真知は必ず答えを見出すでしょう。",
+      "ko": "앞으로 전자기기와 관련된 문의 사항이 있으시면 언제든 자이히에게 메시지를 남겨주세요. 진리가 반드시 답을 알려줄 것입니다."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Stop pretending to be a bot.",
+      "zh-TW": "不要假裝自己是機器人啊。",
+      "zh-CN": "不要假装自己是机器人啊。",
+      "ja": "ボットのふりなんてしなくてもいいよ。",
+      "ko": "로봇인 척하지 마세요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "How did you figure so fast...",
+      "zh-TW": "為什麼您會立刻就發現……",
+      "zh-CN": "为什么您会立刻就发现……",
+      "ja": "なぜ、わかったのでしょうか……",
+      "ko": "어떻게 바로 아셨어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Because you admitted right away?",
+      "zh-TW": "因為你立刻就承認了？",
+      "zh-CN": "因为你立马就承认了？",
+      "ja": "ほら、やっぱり。",
+      "ko": "그야, 본인이 곧장 인정해 버리셨으니까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Maybe I still need to let the actual chat bot handle this...",
+      "zh-TW": "也許我還是需要請真正的聊天機器人出場……",
+      "zh-CN": "也许我还是需要请真正的聊天机器人出场……",
+      "ja": "本物のチャットボットに任せるべきだったでしょうか……",
+      "ko": "...역시 진짜 채팅봇을 쓰는 게 낫겠네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "... then an unprofessional exchange like the one we just had wouldn't have happened.",
+      "zh-TW": "就不會有剛才這樣不專業的交流發生了……",
+      "zh-CN": "就不会有刚才这样不专业的交流发生了……",
+      "ja": "そうすれば、先程のような未熟な対応になることはなかったはず……",
+      "ko": "그래야 방금처럼 어설픈 대화가 생기지 않을 테니까요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Sorry, that's on me. Hey chat bot, could you tell Operator Xaihi that sometimes it's the imperfect way we express things that makes us endearing?",
+      "zh-TW": "抱歉，是我的問題。聊天機器人，能否轉告賽希幹員，有時候不準確的表達才是人的可愛之處呢？",
+      "zh-CN": "抱歉，是我的问题。聊天机器人，能否转告赛希干员，有时候不准确的表达才是人的可爱之处呢？",
+      "ja": "ごめん、そうじゃないんだ。チャットボット、ザイヒに伝えて。「少しくらい間違っているほうが、人の魅力になるときもある」って。",
+      "ko": "미안해요, 제 잘못이에요. 채팅봇, 자이히 씨에게 전해 줄래요? 때로는 조금은 서툰 표현이야말로 사람이 가진 가장 사랑스러운 매력이라고요."
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Xaihi] is typing...",
+      "zh-TW": "[賽希]輸入中",
+      "zh-CN": "[赛希]输入中",
+      "ja": "「ザイヒ」入力中",
+      "ko": "[자이히] 입력 중"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Xaihi] has stopped typing",
+      "zh-TW": "[賽希]停止輸入",
+      "zh-CN": "[赛希]停止输入",
+      "ja": "「ザイヒ」入力停止",
+      "ko": "[자이히] 입력 중지"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Xaihi] is typing...",
+      "zh-TW": "[賽希]輸入中",
+      "zh-CN": "[赛希]输入中",
+      "ja": "「ザイヒ」入力中",
+      "ko": "[자이히] 입력 중"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Xaihi has received your viewpoint and is currently assessing its feasibility. Please wait patiently for a follow-up report.",
+      "zh-TW": "賽希已收到您的觀點，正在評估可行性，請耐心等待後續報告。",
+      "zh-CN": "赛希已收到您的观点，正在评估可行性，请耐心等待后续报告。",
+      "ja": "ザイヒはメッセージを受信しました。実行可能性を検討中です。しばらくお待ちください。",
+      "ko": "자이히가 관리자님의 의견 접수했습니다. 현재 실행 가능성을 평가 중이니, 후속 보고를 조금만 기다려 주세요."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0011_seraph_2",
+   "topic": {
+    "en": "Daily Knowledge",
+    "zh-TW": "今日知識",
+    "zh-CN": "今日知识",
+    "ja": "今日の知識",
+    "ko": "오늘의 지식"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Endmin, what was the first piece of knowledge that popped into your head today?",
+      "zh-TW": "管理員，您今天腦海中所湧現的第一個知識是什麼？",
+      "zh-CN": "管理员，您今天脑海中所涌现的第一个知识是什么？",
+      "ja": "管理人。本日、最初に頭に浮かんだ知識が何か教えていただきたく。",
+      "ko": "관리자님, 오늘 머릿속에 가장 먼저 떠오른 지식은 무엇인가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Am I talking to the chat bot or Xaihi?",
+      "zh-TW": "現在是聊天機器人在傳訊息，還是賽希本人？",
+      "zh-CN": "现在是聊天机器人发消息，还是赛希本人？",
+      "ja": "今、送ってるのはチャットボット？それともザイヒ本人？",
+      "ko": "지금 메시지를 보낸 게 채팅봇인가요, 아니면 자이히 씨 본인인가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "It's Xaihi...",
+      "zh-TW": "是賽希啦……",
+      "zh-CN": "是赛希啦……",
+      "ja": "ザイヒ、本人です。",
+      "ko": "자이히예요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "You still haven't answered my question...",
+      "zh-TW": "您還沒有回答我的問題……",
+      "zh-CN": "您还没有回答我的问题……",
+      "ja": "では、お答え願えますか……",
+      "ko": "아직 제 질문에 답 안 해주셨어요..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You can see the purple flash from Talos on Dijiang, it happens every five to ten days.",
+         "zh-TW": "在帝江號上可以看到塔羅斯的紫閃，五到十天會出現一次。",
+         "zh-CN": "在帝江号上可以看到塔罗斯的紫闪，五到十天会出现一次。",
+         "ja": "帝江号から見える、タロスの紫閃光かな。1週間に1回くらい見られるんだ。",
+         "ko": "제강호에서 탈로스의 보랏빛 섬광을 볼 수 있어요. 보통 5~10일에 한 번 정도 나타나죠."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "So you like it too...",
+         "zh-TW": "原來您也喜歡它……",
+         "zh-CN": "原来您也喜欢它……",
+         "ja": "管理人も、好きなのですね。",
+         "ko": "관리자님도 좋아하시는군요..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "I call it \"Talos' blink.\" I often wonder if it holds some hidden revelation.",
+         "zh-TW": "我把它叫作「塔羅斯眨眼」。我常常在想，那是否蘊藏著隱秘的啟示。",
+         "zh-CN": "我管它叫作“塔罗斯眨眼”。我常常在想，那是否蕴藏着隐秘的启示。",
+         "ja": "私はそれを「タロスの瞬き」と呼んでいます。しばしば、そこに秘められた啓示があるのではないかと思うのです。",
+         "ko": "저는 그걸 '탈로스의 눈짓'이라고 불러요. 그 안에 숨겨진 계시가 있진 않을까 하는 생각을 자주 한답니다."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Chen told me the sweet bread sold on Simonch only costs 5 T-Creds.",
+         "zh-TW": "陳告訴我，塞夢珂上販售的甜麵包只要5金票。",
+         "zh-CN": "陈告诉我，塞梦珂上售卖的甜面包只要5金票。",
+         "ja": "チェンから聞いたんだ。シモンクで売ってる菓子パンは5金券らしい。",
+         "ko": "천우가 그러는데, 사이몬크에서 파는 달달한 빵은 5정도밖에 안 한대요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "It's that cheap? They sell it for 20 at the monastery...",
+         "zh-TW": "這麼便宜嗎？在修道院都要賣20金票呢……",
+         "zh-CN": "这么便宜吗？在修道院都要卖20金票呢……",
+         "ja": "そんなにお安いのですか？修道院では20金券もするのです……",
+         "ko": "그렇게 저렴하다고요? 저희 수도원에서는 20이나 하는데..."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "Although Abbess Mumu never lets us spend money on it.",
+         "zh-TW": "雖然院長姆姆從來不讓我們花錢買。",
+         "zh-CN": "虽然院长姆姆从来不让我们花钱买。",
+         "ja": "院長は決して、私達に買わせてくれることはありませんでしたが。",
+         "ko": "물론 무무 원장님께서는 한 번도 그걸 사 먹는 걸 허락하신 적이 없지만요."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "The Seš'qa floating city is held aloft by the skeleton of a Feranmut.",
+         "zh-TW": "塞什卡懸空城由巨獸的骸骨托舉在空中。",
+         "zh-CN": "塞什卡悬空城由巨兽的骸骨托举在空中。",
+         "ja": "セシュカの浮遊都市は巨獣の骨に支えられて空に浮いているんだよ。",
+         "ko": "세쉬카 공중 도시는 베헤모스의 뼈대로 공중에 떠받쳐져 있죠."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "That's considered common knowledge for the Sarkaz on Talos-II.",
+         "zh-TW": "這算是塔衛二薩卡茲們的常識了。",
+         "zh-CN": "这算是塔卫二萨卡兹们的常识了。",
+         "ja": "タロⅡに生きるサルカズの常識……",
+         "ko": "그건 탈로스 II의 살카즈들이라면 다 알고 있는 사실이에요."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Xaihi",
+         "zh-TW": "賽希",
+         "zh-CN": "赛希",
+         "ja": "ザイヒ",
+         "ko": "자이히"
+        },
+        "text": {
+         "en": "I often think about visiting there in person someday.",
+         "zh-TW": "我也常想著有朝一日可以實地造訪一下那裡。",
+         "zh-CN": "我也常想着有朝一日可以实地造访一下那里。",
+         "ja": "私もいつか、実際に訪れてみたいと思っています。",
+         "ko": "저 역시 언젠가 꼭 그곳에 가보고 싶어요."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "When I asked you that question earlier, it was actually a tradition among the Brothers of the Cabal of Tranquility to check on each other's well-being.",
+      "zh-TW": "我剛才向您發起的提問，正是寂語修會的修士們，確認彼此是否安泰的一種傳統。",
+      "zh-CN": "我刚才向您发起提问，正是寂语修会的修士们，确认彼此是否安泰的一种传统。",
+      "ja": "先程、私が問いを投げかけた理由ですが……静語伝道会の修道士たちが、互いの無事を確認する際の伝統なのです。",
+      "ko": "방금 제가 관리자님께 드린 질문은, 사실 고요한 수도회의 수사들이 서로의 안녕을 확인하는 전통이에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "When we understand the knowledge that surfaces in someone's mind, we can see the path ahead of them.",
+      "zh-TW": "當我們瞭解了對方心中湧出的知識，便能看到他們前方的路。",
+      "zh-CN": "当我们了解了对方心中涌出的知识，便能看到他们前方的路。",
+      "ja": "相手の頭にある知識を知ることで、その人が進む道を垣間見ることが出来るのだと。",
+      "ko": "상대 머릿속에 제일 먼저 떠오른 지식을 알게 되면, 그 사람이 앞으로 걸어갈 길이 보인다고 하죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "So did you ... have a clear sight of what's ahead for me?",
+      "zh-TW": "所以……你看清了我前方的路嗎？",
+      "zh-CN": "所以……你看清了我前方的路吗？",
+      "ja": "じゃあ、さっきの答えから進む道がわかったの？",
+      "ko": "그럼... 제가 앞으로 걸어갈 길도 보이시나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "To be honest, I ... can't see it clearly.",
+      "zh-TW": "說實話，我……看不清楚。",
+      "zh-CN": "说实话，我……看不清。",
+      "ja": "正直に申し上げますが……私には見えなかったのです。",
+      "ko": "솔직히 말씀드리면... 보이지 않아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "That's also what makes me most curious about you. You're the first puzzle I've encountered that I can't solve.",
+      "zh-TW": "這也是我對您最好奇的一點。您是我遇到的第一個解不開的謎題。",
+      "zh-CN": "这也是我对您最好奇的一点。您是我遇见的第一个解不通的谜题。",
+      "ja": "これは、私が管理人に興味を抱いた、最も大きな理由です。私が出会った、初めての「解けない謎」……",
+      "ko": "그게 바로 제가 관리자님께 가장 호기심을 느끼는 이유예요. 당신은 제게 있어, 처음으로 풀리지 않는 수수께끼거든요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Please forgive me for saying this with the utmost respect and sincerity... I've never come across a puzzle I couldn't solve.",
+      "zh-TW": "請原諒，我懷著最大的敬意和誠懇對您說……我從未遇到過不能解開的謎題。",
+      "zh-CN": "请原谅，我怀着最大的敬意和诚恳向您说……我从未碰到过不能解出的谜题。",
+      "ja": "どうかお許しください。最大の敬意と誠意を込めて申し上げますが……これまで、「解けない謎」に出会ったことはありませんでした。",
+      "ko": "하지만 그럼에도 가장 큰 존경과 진심을 담아 말씀드리자면... 저는 지금껏 한 번도 풀지 못한 수수께끼가 없었어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "In my eyes, everything is made of logic and language, like a giant knitted web.",
+      "zh-TW": "在我的眼中，萬物都以邏輯和語言組成，就像一張巨大的針織的網。",
+      "zh-CN": "在我的眼中，万物都以逻辑和语言组成，就像一张巨大的针织的网。",
+      "ja": "私の目に映る万物は、ロジックと言語によって織られた網のようなものです。",
+      "ko": "사실 제 눈에는 세상 만물이 논리와 언어로 엮인 하나의 거대한 그물처럼 보이거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Unless you're at the very center of the knot ... or maybe, outside of it entirely.",
+      "zh-TW": "除非，您在繩結中心……又或者，在繩結之外。",
+      "zh-CN": "除非，您在绳结中心……又或者，在绳结之外。",
+      "ja": "しかし、管理人は……網の穴にあるのか、網の外にあるのか……",
+      "ko": "그러니, 관리자님은 그 매듭의 중심에 계시거나... 아예 그 너머에 계시는지도 모르겠네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "I shouldn't have told you all that. Sorry for bothering you.",
+      "zh-TW": "我不該向您吐露這麼多，打擾了，抱歉。",
+      "zh-CN": "我不该向您吐露这么多，打扰了，抱歉。",
+      "ja": "話しすぎてしまいました。大変申し訳ございません。",
+      "ko": "제가 괜히 쓸데없는 말들을 늘어놓았네요... 제 무례를 용서하세요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Then what was the first piece of knowledge for Xaihi today?",
+      "zh-TW": "那賽希今天的第一個知識，是什麼？",
+      "zh-CN": "那赛希今天的第一个知识，是什么？",
+      "ja": "君の頭に、最初に浮かんだ知識は何？",
+      "ko": "그렇다면, 자이히 씨가 오늘 머릿속에 가장 먼저 떠오른 지식은 무엇인가요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "It usually takes about a week for my work terminal on Dijiang to get new components through the CLO's procurement process...",
+      "zh-TW": "我在帝江號上的工作主機通常需要一週時間才能透過總後勤辦事處的採購流程換新的組件……",
+      "zh-CN": "我在帝江号上的工作主机一般需要一周时间才能通过总后勤办事处的采购流程换上新的组件……",
+      "ja": "帝江号で使用している作業用のサーバーは後方支援部で調達の手続きを経て、新しいハードウェアに交換するまでに通常1週間程度を要します。",
+      "ko": "제강호에서 쓰는 제 업무용 기기는, 새 부품을 하나 교체하려면 총지원 부서의 구매 절차 때문에 꼬박 일주일이 걸려요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "I'm thinking about how to speed up the process by rewriting the system architecture.",
+      "zh-TW": "我在思考怎麼透過重寫系統結構加快這個過程。",
+      "zh-CN": "我在思考怎么通过重写系统结构提速这个过程。",
+      "ja": "システム構造を書き換え、そのプロセスの短縮が可能かを考えていました。",
+      "ko": "그래서 시스템 구조를 재작성하는 것을 통해 이 시간을 줄일 수 있을까, 고민하고 있었어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Such a simple but practical piece of knowledge.",
+      "zh-TW": "好樸實的知識。",
+      "zh-CN": "好朴实的知识。",
+      "ja": "随分、実務的だね……",
+      "ko": "소박하고 성실한 지식이네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Not at all!",
+      "zh-TW": "一點也不！",
+      "zh-CN": "一点也不！",
+      "ja": "そんなことはないと思いますが。",
+      "ko": "전혀 소박하지 않아요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "How about next time, just try saying \"How are you?\"",
+      "zh-TW": "不如，下次嘗試著說「你好嗎」就好。",
+      "zh-CN": "不如，下次尝试着说“你好吗”就好。",
+      "ja": "いっそ、知識を聞くんじゃなくて「元気ですか」と聞いてみるのはどうだろう。",
+      "ko": "아니면 다음번엔 그냥 '안녕하세요? 잘 지냈어요?'라고 해 보는 건 어떨까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Sorry, I always focus on what knowledge should be and overlook our simplest habits...",
+      "zh-TW": "抱歉，是我總是著重於應然的知識，而忽略了我們最樸素的習慣……",
+      "zh-CN": "抱歉，是我总是聚焦于应然的知识，而忽略了我们最朴素的习惯……",
+      "ja": "申し訳ありません。知識にばかり注目して、最も基本的な習慣を見落としてしまいました……",
+      "ko": "...죄송해요. 제가 늘 논리적인 지식에만 집중하다 보니, 가장 보편적인 사람들의 습관을 놓치고 말았네요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I just wanted to see Xaihi get all flustered because things were too simple and straightforward...",
+      "zh-TW": "只是想看到賽希因為事情過於簡單直白反而手忙腳亂的樣子……",
+      "zh-CN": "只是想看到赛希因为事情过于简单直白反而手忙脚乱的样子……",
+      "ja": "ザイヒが単純なことに気づいてうろたえているところを、ちょっと見たかっただけだよ。",
+      "ko": "전 그저, 자이히 씨가 단순하고 직설적인 질문 앞에서 오히려 당황하는 모습을 보고 싶었을 뿐이에요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Your request is way too complicated for me!",
+      "zh-TW": "您的需求對我來說太複雜了！",
+      "zh-CN": "您的需求对我来说太复杂了！",
+      "ja": "その要望は……私には難易度が高く……",
+      "ko": "관리자님의 요구를 이해하는 건, 제겐 너무 어려운 일이에요...!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0011_seraph_3",
+   "topic": {
+    "en": "Amidst the Static, Grace",
+    "zh-TW": "嗡鳴中的祝福",
+    "zh-CN": "嗡鸣中的祝福",
+    "ja": "機械音の中の祝福",
+    "ko": "기계의 울림이 주는 축복"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "?",
+      "zh-TW": "？",
+      "zh-CN": "？",
+      "ja": "？",
+      "ko": "?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "...Sorry!!",
+      "zh-TW": "……抱歉！！",
+      "zh-CN": "……抱歉！！",
+      "ja": "……失礼しました。",
+      "ko": "...죄송해요!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "I accidentally pressed my hand against the voice input key",
+      "zh-TW": "我的手不小心撐在語音輸入按鍵上了",
+      "zh-CN": "我的手不小心撑在语音输入键上了",
+      "ja": "音声入力キーに、誤って手が触れてしまったようです。",
+      "ko": "실수로 음성 입력 버튼을 누르고 있었네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Greetings... Endmin ... you didn't hear anything strange, did you?",
+      "zh-TW": "管理員……您好……您沒有聽到奇怪的聲音吧？",
+      "zh-CN": "管理员……您好……您没有听到奇怪的声音吧？",
+      "ja": "管理人……ごきげんよう……妙な音がそちらに届いていないことを願います。",
+      "ko": "관리자님... 안녕하세요... 혹시 이상한 소리 같은 건 못 들으셨죠?"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Xaihi] is OFFLINE",
+      "zh-TW": "[賽希]已離線",
+      "zh-CN": "[赛希]已离线",
+      "ja": "「ザイヒ」オフラインになりました",
+      "ko": "[자이히] 오프라인"
+     }
+    },
+    {
+     "speaker": "system",
+     "text": {
+      "en": "[Xaihi] is online",
+      "zh-TW": "[賽希]已上線",
+      "zh-CN": "[赛希]已上线",
+      "ja": "「ザイヒ」オンラインになりました",
+      "ko": "[자이히] 온라인"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "I tried to bypass the server to delete this chat log, but...",
+      "zh-TW": "我嘗試繞過伺服器刪除這段聊天紀錄，但是……",
+      "zh-CN": "我尝试绕过服务器将这段聊天记录删除，但是……",
+      "ja": "チャット記録を消去するため、サーバー認証を回避しようとしましたが……",
+      "ko": "서버를 우회해서 조금 전 채팅 기록을 지워보려 했는데..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "That's probably not appropriate...",
+      "zh-TW": "這樣不太好……",
+      "zh-CN": "这样不太合适……",
+      "ja": "それは、適切ではないかと……",
+      "ko": "그건 왠지 적절하지 않은 행동인 것 같기도 해서..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I didn't hear anything! I promise.",
+      "zh-TW": "我什麼也沒聽到！我保證。",
+      "zh-CN": "我什么也没听到！我保证。",
+      "ja": "何も聞こえなかったよ！本当だ！",
+      "ko": "전 아무것도 못 들었어요! 정말이에요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Great, it seems my prayer wasn't heard either...",
+      "zh-TW": "太好了，看來我的祈禱詞也沒有被聽到……",
+      "zh-CN": "太好了，看来我的祈祷词也没有被听到……",
+      "ja": "安心しました……では、私の祈りの言葉も、聞いていないのですね。",
+      "ko": "그럼 다행이에요... 제 기도문도 안 들렸겠네요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Actually, I've always considered that humming a blessing for the work I do on Dijiang.",
+      "zh-TW": "其實，我一直將這種嗡鳴視為對我在帝江號所作工作的祝福。",
+      "zh-CN": "其实，我一直将这种嗡鸣视为对我在帝江号所作工作的祝福。",
+      "ja": "実は……私にとって、機械音は帝江号で業務を行うことに対する祝福のように感じられるのです。",
+      "ko": "사실 저는 이런 기계의 울림을, 제가 제강호에서 하는 일에 대한 축복으로 여겨요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "A blessing?",
+      "zh-TW": "祝福？",
+      "zh-CN": "祝福？",
+      "ja": "祝福……？",
+      "ko": "축복이요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "That sense of things ... \"running normally\" is really soothing. It puts my mind at ease.",
+      "zh-TW": "那些……「在運作中」的正常感，能夠舒緩神經，讓我非常安心。",
+      "zh-CN": "那些……“在运行中”的正常感，能够舒缓神经，让我非常安心。",
+      "ja": "「稼働している」という当たり前の感覚が、心を落ち着かせ、安心させてくれるのです。",
+      "ko": "네... 무언가 정상적으로 작동하는 감각이, 저를 안정시키고 편안하게 해주거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "It's like an ocean made of water molecules, isn't it?",
+      "zh-TW": "好像水分子構成的海洋，不是嗎？",
+      "zh-CN": "好像水分子构成的海洋，不是吗？",
+      "ja": "まるで、水の分子で織られた海のよう……",
+      "ko": "마치 물 분자로 이루어진 바다 같다고나 할까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "As we slowly sink ... light spills across the ocean's surface, tiny bubbles floating up between our fingers, drifting past. That warmth...",
+      "zh-TW": "我們在緩緩地往下沉，光灑在海面上，細小的泡沫從我們的手指間浮起，流過。那種溫暖……",
+      "zh-CN": "我们在缓缓地往下沉，光洒在洋面上，细小的泡沫从我们的手指间浮起，流过。那种温暖……",
+      "ja": "私達は緩やかに沈み、光は水面に降り注ぐ。指の間から小さな泡が浮かび、流れ行く……その温もりのような……",
+      "ko": "우리의 몸이 천천히 가라앉고, 빛이 수면 위로 쏟아지고, 작은 거품들이 손가락 사이로 흘러가는... 그런 따뜻한 감각이요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "So, if you could also share in the faint blessing within that hum, it would be a very good thing.",
+      "zh-TW": "所以，若是您也能共享到微茫的嗡鳴中的祝福，就是一件很好的事了。",
+      "zh-CN": "所以，若是您也能共享到微茫的嗡鸣中的祝福，就是一件很好的事了。",
+      "ja": "ですから、管理人も僅かな機械音の祝福を感じられたなら、それは大変素晴らしいことだと存じます。",
+      "ko": "그러니, 관리자님도 이 미약한 울림에서 오는 축복을 느끼실 수 있었다면, 그보다 좋은 건 없을 거예요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Does Xaihi also have such sentimental moments?",
+      "zh-TW": "賽希也會有這麼多愁善感的時候嗎？",
+      "zh-CN": "赛希也会有这么多愁善感的时候吗？",
+      "ja": "君も、そんなふうに考えるんだね。",
+      "ko": "자이히 씨도 이렇게 감성적일 때가 있군요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "It's just... I stay in this cabin all year, watching Talos-II's liquid ocean through the external feed...",
+      "zh-TW": "我只是常年待在這個艙室裡，透過艙外影像，觀察塔衛二的液態海……",
+      "zh-CN": "我只是常年待在这个舱室里，通过舱外影像，观察塔卫二的液态海……",
+      "ja": "私はただ、船室に籠り、外の映像を通してタロⅡの海を眺めているだけ……",
+      "ko": "저는 늘 이 선실 안에서, 외부 영상을 통해 탈로스 II의 바다를 바라보곤 해요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "In the gaps between true knowledge and the humming, those fantasies about the ocean always flood upon my eyes.",
+      "zh-TW": "在真知和嗡鳴的間隙，那些關於海的幻想總是會湧到我的眼前。",
+      "zh-CN": "在真知和嗡鸣的间隙，那些关于海的幻想总是会涌到我的眼前。",
+      "ja": "真知と機械音の狭間に、海の幻像が絶えず浮かんでくるのです。",
+      "ko": "진리에 집중하는 시간과 기계의 울림 사이에서, 바다에 대한 상상들이 자꾸 제 눈앞으로 밀려들죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "It's so calming.",
+      "zh-TW": "讓人平靜。",
+      "zh-CN": "让人平静。",
+      "ja": "それは、私の心を静めてくれるものです。",
+      "ko": "그럴 때마다 마음이 차분해지곤 해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Do you just stay in there all the time, without ever coming out?",
+      "zh-TW": "你一直待在裡面，不出來走走嗎？",
+      "zh-CN": "你一直待在里面，不出来走走吗？",
+      "ja": "ずっと船室の中にいるの？外に出たりはしないのかな。",
+      "ko": "계속 선실 안에만 계시나요... 밖에 나가서 바람을 쐬거나 하진 않고요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Actually, I get to see a lot more from in here.",
+      "zh-TW": "實際上，我在這裡反而能看到更多的東西呢。",
+      "zh-CN": "实际上，我在这里反而能看到更多的东西呢。",
+      "ja": "船室の中でこそ、むしろ多くのものが見られるのです。",
+      "ko": "사실 이 안에 있으면 오히려 더 많은 걸 볼 수 있어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "The entire world ... the history built from Originium, and all its possible futures, are all laid out before my eyes.",
+      "zh-TW": "整個世界……由源石構成的歷史，和它們可能的未來，都呈現在我的眼前。",
+      "zh-CN": "整个世界……由源石构成的历史，和它们可能的未来，都呈现在我的眼前。",
+      "ja": "世界のすべて……源石が編纂した歴史、そして先の未来までも、目の前に在る……",
+      "ko": "온 세상... 오리지늄으로 쓰여진 역사와, 그것들이 맞이할 미래까지, 전부 제 눈앞에 펼쳐지거든요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "But...",
+      "zh-TW": "只是……",
+      "zh-CN": "只是……",
+      "ja": "ただし……",
+      "ko": "다만..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "As a member of the Cabal of Tranquility, seeking Veritas and aiding those who are lost seems like it will take my entire life, but I've never given up on that resolve.",
+      "zh-TW": "作為寂語修會的一員，探尋真知，援助迷途之人，似乎要耗盡我的一生，但我從來沒有放棄這樣的決心。",
+      "zh-CN": "作为寂语修会的一员，探寻真知，援助迷途之人，似乎要耗尽我的一生，但我从来没有放弃这样的决心。",
+      "ja": "静語伝道会の一員として、真知を探求し、迷える者を導く。生涯費やすべき使命と思っております。その覚悟を捨てたことはございません。",
+      "ko": "고요한 수도회의 일원으로서, 진리를 탐구하고 길을 잃은 자를 돕는 데 제 일생을 다 바치게 될지도 모르지만, 전 한 번도 그 결심을 포기한 적이 없어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "I'm not sure if you would understand, Endmin.",
+      "zh-TW": "您能理解嗎，管理員？",
+      "zh-CN": "您能理解吗，管理员？",
+      "ja": "管理人、ご理解いただけるでしょうか。",
+      "ko": "관리자님은 이해가 되시나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I do.",
+      "zh-TW": "能。",
+      "zh-CN": "能。",
+      "ja": "うん、わかるよ。",
+      "ko": "이해해요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "I knew it.",
+      "zh-TW": "果然呢。",
+      "zh-CN": "果然呢。",
+      "ja": "そうであると、確信していました。",
+      "ko": "역시 그렇군요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "I found an answer related to you.",
+      "zh-TW": "我找到了一個和您有關的答案。",
+      "zh-CN": "我找到了一个和您有关的答案。",
+      "ja": "私は、管理人に関する「1つの答え」を見出しました。",
+      "ko": "저는 관리자님과 관련된 하나의 답을 찾은 것 같아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "When I find those fragments in Dijiang's servers, I often wonder...",
+      "zh-TW": "當我在帝江號的伺服器中找到那些殘片時，我常想……",
+      "zh-CN": "当我在帝江号的服务器中找到那些残片时，我常想……",
+      "ja": "帝江号のサーバーで欠片を発見すると、思うのです……",
+      "ko": "제강호 서버에서 그 파편들을 발견했을 때, 그런 생각이 들었어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Just what kind of person would challenge the possibilities within inevitability, even if it costs them their life.",
+      "zh-TW": "到底是什麼人才會挑戰那些必然性中的可能，哪怕耗盡生命也在所不辭。",
+      "zh-CN": "到底是什么人才会挑战那些必然性中的可能，哪怕耗尽生命也在所不辞。",
+      "ja": "必然の中に潜む可能性へ挑み、その身を賭して進み続けた者とは、一体誰なのか、と……",
+      "ko": "도대체 어떤 사람이 목숨까지 바쳐가며, 필연 속의 희박한 가능성에 도전할까..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Don't you ever feel ... lonely?",
+      "zh-TW": "您不會覺得……孤獨嗎？",
+      "zh-CN": "您不会觉得……孤独吗？",
+      "ja": "管理人は……孤独を感じることはありますか。",
+      "ko": "관리자님은... 외롭다고 느끼진 않으세요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Maybe we all find some companionship in the white noise.",
+      "zh-TW": "也許我們都會從白噪音裡獲得陪伴。",
+      "zh-CN": "也许我们都会从白噪音里获得陪伴。",
+      "ja": "もしかすると、全員がホワイトノイズの中から「誰かがそばにいる」ような感覚を得ているのかもしれないね。",
+      "ko": "어쩌면 우리 모두 백색소음 속에서 위로를 받고 있는 게 아닐까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "But you should still try to come out more when you get the chance.",
+      "zh-TW": "但是有機會還是多出來走走吧。",
+      "zh-CN": "但是有机会还是多出来走走吧。",
+      "ja": "でも、たまには外に出てみるのもいいと思うよ。",
+      "ko": "그래도 기회가 있으면, 밖에도 좀 나가보고 그래요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Can I go with you?",
+      "zh-TW": "能和您一起嗎？",
+      "zh-CN": "能和您一起吗？",
+      "ja": "ご一緒していただけるでしょうか？",
+      "ko": "관리자님과 같이 나가도 될까요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Me?",
+      "zh-TW": "我？",
+      "zh-CN": "我？",
+      "ja": "ご一緒って、自分が？",
+      "ko": "저랑요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "I want to see that ocean on Talos-II...",
+      "zh-TW": "想看看塔衛二的那片海——",
+      "zh-CN": "想看看塔卫二的那片海——",
+      "ja": "タロⅡの海を、この目に収めたく……",
+      "ko": "같이 탈로스 II의 바다를 보고 싶어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Sorry, that was such an illogical thing for me to say!",
+      "zh-TW": "抱歉我說了很不符合邏輯的話！",
+      "zh-CN": "抱歉我说了很不符合逻辑的话！",
+      "ja": "失礼しました。ロジックに欠ける発言でした。",
+      "ko": "죄송해요! 논리적이지 못한 말을 해버렸네요!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "I really do need to let the chat bot handle this after all...",
+      "zh-TW": "果然還是需要請聊天機器人出場……",
+      "zh-CN": "果然还是需要请聊天机器人出场……",
+      "ja": "ここは、チャットボットに任せるべきかと……",
+      "ko": "역시 채팅봇을 불러와야겠어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Of course.",
+      "zh-TW": "沒問題。",
+      "zh-CN": "没问题。",
+      "ja": "大丈夫だよ。",
+      "ko": "좋아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Really?",
+      "zh-TW": "真的嗎？",
+      "zh-CN": "真的吗？",
+      "ja": "良いのでしょうか。",
+      "ko": "정말요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "I have so many questions for you.",
+      "zh-TW": "我有好多問題想要請教您。",
+      "zh-CN": "我有好多问题想要请教您。",
+      "ja": "管理人に、お伺いしてみたいことが山のようにあるのです。",
+      "ko": "사실 관리자님께 여쭤보고 싶은 게 정말 많아요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "For example, the information transfer efficiency and content integrity of Protocol-Originium, and also...",
+      "zh-TW": "比如協議源石的資料傳遞效率和內容完整性，又比如……",
+      "zh-CN": "比如协议源石的信息传递效率和内容完整性，又比如……",
+      "ja": "協約源石における伝達効率とデータ完全性……それから……",
+      "ko": "예를 들면, 프로토콜 오리지늄의 정보 전달 효율과 내용의 완전성, 그리고 또..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I'd probably only be able to tell you what I had for breakfast and what I'm having for dinner.",
+      "zh-TW": "我可能只會回答你早餐吃了什麼以及晚餐要吃什麼。",
+      "zh-CN": "我可能只会回答你早饭吃了什么以及晚饭要吃什么。",
+      "ja": "答えられるのは……「朝に何を食べたか」と「夜に何を食べるつもりか」……",
+      "ko": "저는 아마, 오늘 아침에 뭘 먹었고, 저녁에 뭘 먹을 거고... 이런 문제밖에 대답 못 해줄 것 같네요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "......",
+      "zh-TW": "……",
+      "zh-CN": "……",
+      "ja": "……",
+      "ko": "......"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Xaihi",
+      "zh-TW": "賽希",
+      "zh-CN": "赛希",
+      "ja": "ザイヒ",
+      "ko": "자이히"
+     },
+     "text": {
+      "en": "Let's start there then.",
+      "zh-TW": "那就從這個問題開始吧。",
+      "zh-CN": "那就从这个问题开始吧。",
+      "ja": "では、そちらから始めましょう。",
+      "ko": "그렇다면, 그 질문부터 시작하죠."
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 8
+}
