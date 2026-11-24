@@ -1,0 +1,237 @@
+{
+ "slug": "estella",
+ "gameId": "chr_0021_whiten",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Hngh... Feels like the weight of the entire world has come down at me ... my knees, especially...\"  A member of Operations Team Z7 in Endfield, Estella handles intel gathering and communications. Physically weak, and shadowed by misfortune wherever she goes, she sometimes lets her sharp tongue and dark humor push outsiders away. Her dream is simple: to live a peaceful life. After all, she has seen too many people like herself, trapped in a world with no choices, no change, and no future.  A life of danger and extremes has numbed her senses to the world and raised her threshold for stimulation. As a result, she sometimes seeks out harsher forms of challenge — like the pounding rush of heavy metal music. Those rare jolts give her a fleeting sense of change and something real.  Through her work in Endfield, Estella hopes to make the world a little better and life a little easier for those around her.\n\"I overworked myself again... Hngh... I better appreciate the break while it lasts.\"",
+  "zh-TW": "「呃……我感覺自己的身上正在承受整個世界的重擔……主要是膝蓋……」  終末地Z7行動組成員，負責情報收集和通訊任務，體力很差。埃特拉總是被不幸所環繞，偶爾惡趣味的犀利發言讓小隊之外的人有點敬而遠之。她的理想是安穩地度過一生，她看到過太多和自己一樣的人，沒有選擇，沒有變化，沒有未來。  為了謀生而經歷的危險和極限情況削弱了她對外界的感知，拉高了她的感官刺激閾值。這使她時不時會主動尋求一些更「激烈」的挑戰，例如刺激的重金屬音樂，這些來之不易的回饋能給予她些許「變化」和「真實感」。  埃特拉想要透過在終末地的工作讓世界變得稍微好那麼一點，讓身邊的人活得更輕鬆一點。    「又過度勞動了……嗯……忙裡偷閒的時光可要好好珍惜。」",
+  "zh-CN": "“呃……我感觉自己的身上正在承受整个世界的重担……主要是膝盖……” 终末地Z7行动组成员，负责情报收集和通信任务，体力很差。埃特拉总是被不幸所环绕，偶尔恶趣味的犀利发言让小队之外的人有些敬而远之。她的理想是安稳地度过一生，她看到过太多和自己一样的人，没有选择，没有变化，没有未来。 为了谋生而经历的危险和极限情况削弱了她对外界的感知，拉高了她的感官刺激阈值。这使她时不时会主动寻求一些更“激烈”的挑战，例如刺激的重金属音乐，这些来之不易的反馈能给予她些许“变化”和“实感”。 埃特拉想要通过在终末地的工作让世界变得稍微好那么一些，让身边的人活得更轻松一些。\n“又过度劳动了……嗯……忙里偷闲的时光可要好好珍惜。”",
+  "ja": "「ぐぇ……な～んか、世界の重み感じる……主に……膝に……」  エンドフィールド行動隊Z7のメンバーで、情報収集や通信任務を担当している。しかし、体力は人一倍乏しい。不幸につきまとわれることが多く、時々、悪趣味な毒舌をはくこともあるため、隊員以外からは敬遠されている。これまでは自分と同じような、選択肢も変化も未来もない人たちをあまりにも多く見てきたため、穏やかな一生を送ることを理想としている。  生きていくために危険で極限的状況を経験してきたことで、外の世界に対する感知能力が弱まり、彼女の感覚器官は刺激を感じにくくなった。これにより、彼女はことあるごとに、刺激的なヘビーメタル音楽のような今まで以上に「激しい」挑戦を求めるようになった。こうした貴重な手応えが彼女にわずかな「変化」や「実感」を与えてくれる。  エステーラはエンドフィールドの仕事を通じて世界を少しでも良くし、周りにいる人たちにのびのびと暮らしてもらいたいと考えている。    「これ、過労じゃんね……ふぁぁ……大事な大事な息抜き、っと……」",
+  "ko": "\"으... 온 세상이 제 몸을 짓누르고 있는 것 같아요... 무릎이 너무 아픈데...\"  에스텔라는 엔드필드 Z7 작전팀의 멤버로 정보 수집과 통신 임무를 맡고 있고, 체력은 약한 편이다. 에스텔라는 언제나 불운이 따라다니며 가끔은 독한 농담 섞인 발언으로 팀 외에 다른 사람들로부터 거리감을 사기도 한다. 그녀의 이상은 그저 조용하고 평온한 삶을 사는 것. 왜냐하면 그녀는 자신과 같은 처지인 사람들이 너무도 많다는 걸 보아왔기 때문이다. 선택도, 변화도, 미래도 없는 그런 사람들.  생계를 위해 겪은 수많은 위험과 극한의 상황은 그녀의 외부 세계에 대한 감각을 무디게 만들었고, 동시에 자극에 대한 내성을 높여버렸다. 그 탓에 그녀는 종종 더 '격렬한' 자극을 스스로 찾곤 한다. 예컨대 헤비메탈 음악 같은 것들이다. 이런 드문 자극들은 그녀에게 소중한 '변화'와 '실감'을 안겨준다.  에스텔라는 엔드필드에서의 일을 통해 세상을 조금이라도 더 나은 곳으로 만들고 싶어 한다. 그녀는 주변 사람들이 지금보다 가볍게 살아가기를 바란다.    \"또 너무 무리했어요... 으음... 아무리 바쁘더라도 휴식은 꼭 챙겨야죠.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Audio Noise",
+    "zh-TW": "噪點",
+    "zh-CN": "噪点",
+    "ja": "ノイズ",
+    "ko": "노이즈"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 17 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成物理傷害。作為主控幹員時，重擊會造成17點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成物理伤害。作为主控干员时，重击会造成17点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値17を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 17포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Onomatopoeia",
+    "zh-TW": "凝聲",
+    "zh-CN": "凝声",
+    "ja": "オノマトペ",
+    "ko": "서스테인"
+   },
+   "text": {
+    "en": "A lance thrust that fires a stream of freezing sound waves that deal Cryo DMG and apply Cryo Infliction to all enemies along its straight path.",
+    "zh-TW": "向前刺出長槍，激發出一道製冷聲波，對一條直線上的敵人造成寒冷傷害並施加寒冷附著。",
+    "zh-CN": "向前刺出长枪，激发出一道制冷声波，对一条直线上的敌人造成寒冷伤害并施加寒冷附着。",
+    "ja": "前方に槍を突き出し、氷の音波を放つ。直線上の敵に寒冷ダメージを与え、寒冷付着を付与する。",
+    "ko": "전방으로 장창을 찔러 냉기 음파를 방출합니다. 일직선상의 적에게 냉기 피해를 주고 냉기 부착 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Distortion",
+    "zh-TW": "失真",
+    "zh-CN": "失真",
+    "ja": "ディストーション",
+    "ko": "디스토션"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy suffers Solidification.\nQuickly moves to the enemy's side to deal Physical DMG and forcibly Lift enemies in a small area. If the skill hits a target with Solidification, the skill deals additional DMG and applies Physical Susceptibility.",
+    "zh-TW": "當有敵人進入凍結狀態時可以發動。\n迅速移動到敵人身邊，對小範圍內的敵人造成物理傷害並強制造成擊飛。如果命中處於凍結狀態的敵人，還會造成額外傷害並施加物理脆弱。",
+    "zh-CN": "当有敌人进入冻结状态时可以发动。\n迅速移动到敌人身边，对小范围内的敌人造成物理伤害并强制造成击飞。如果命中处于冻结状态的敌人，还会造成额外伤害并施加物理脆弱。",
+    "ja": "敵が凍結状態になったときに発動可能。\nすばやく敵の近くに移動し、一定範囲内の敵に物理ダメージを与え、強制的に浮遊させる。凍結状態の敵に命中した場合、追加でダメージを与え、物理脆弱を付与する。",
+    "ko": "적이 동결 상태일 때 사용할 수 있습니다.\n빠르게 적에게 접근하여 좁은 범위 내의 적에게 물리 피해와 강제 띄우기 피해를 줍니다. 동결 상태의 적에게 명중했을 경우, 추가로 피해를 주고 물리 취약을 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Tremolo",
+    "zh-TW": "震音",
+    "zh-CN": "震音",
+    "ja": "トレモロ",
+    "ko": "트레몰로"
+   },
+   "text": {
+    "en": "Estella expends all her strength to unleash a powerful slam of the spear shaft, dealing Physical DMG to all enemies in a circular area around self. To enemies with Physical Susceptibility, the skill forcibly applies Lift to them.",
+    "zh-TW": "耗盡全身力氣，用力下砸槍柄，對自身附近圓形範圍的敵人造成物理傷害。如果敵人處於物理脆弱狀態，則對其強制造成擊飛。",
+    "zh-CN": "耗尽全身力气，用力下砸枪柄，对自身附近圆形范围的敌人造成物理伤害。如果敌人处于物理脆弱状态，则对其强制造成击飞。",
+    "ja": "全力で槍の柄を地面に叩きつけ、周囲の敵に物理ダメージを与える。物理脆弱状態の敵を強制的に浮遊させる。",
+    "ko": "모든 힘을 쏟아 창을 힘껏 내려찍어 주변 원형 범위 내의 적에게 물리 피해를 줍니다. 적이 물리 취약 상태라면, 대상에게 강제 띄우기 피해를 줍니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Commiseration",
+    "zh-TW": "同病相憐",
+    "zh-CN": "同病相怜",
+    "ja": "類は友を呼ぶ",
+    "ko": "공감"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "When triggering Shatter, the next battle skill Onomatopoeia cast returns 7.5 SP. This effect cannot stack.",
+      "zh-TW": "每當觸發碎冰效果後，下一次戰技凝聲會返還7.5技力，該效果無法疊加。",
+      "zh-CN": "每当触发碎冰效果后，下一次战技凝声会返还7.5技力，该效果无法叠加。",
+      "ja": "粉砕を与えたあと、次に発動する戦技「オノマトペ」でSPが7.5返還される（重ね掛け不可）",
+      "ko": "매번 쇄빙 효과를 발동한 후, 다음에 사용한 배틀 스킬 서스테인이 스킬 게이지를 7.5포인트 반환합니다. 해당 효과는 중첩되지 않습니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When triggering Shatter, the next battle skill Onomatopoeia cast returns 15 SP. This effect cannot stack.",
+      "zh-TW": "每當觸發碎冰效果後，下一次戰技凝聲會返還15技力，該效果無法疊加。",
+      "zh-CN": "每当触发碎冰效果后，下一次战技凝声会返还15技力，该效果无法叠加。",
+      "ja": "粉砕を与えたあと、次に発動する戦技「オノマトペ」でSPが15返還される（重ね掛け不可）",
+      "ko": "매번 쇄빙 효과를 발동한 후, 다음에 사용한 배틀 스킬 서스테인이 스킬 게이지를 15포인트 반환합니다. 해당 효과는 중첩되지 않습니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Laziness Pays Off Now",
+    "zh-TW": "惰性使然",
+    "zh-CN": "惰性使然",
+    "ja": "惰性",
+    "ko": "이유 있는 게으름"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Ignores Cryo Infliction and takes -10% Cryo DMG.",
+      "zh-TW": "不會被寒冷附著，且受到的寒冷傷害-10%。",
+      "zh-CN": "不会被寒冷附着，且受到的寒冷伤害-10% 。",
+      "ja": "寒冷付着を受けなくなり、受ける寒冷ダメージ-10%",
+      "ko": "냉기 부착 상태에 면역되며 받는 냉기 피해 -10%"
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Ignores Cryo Infliction and takes -20% Cryo DMG.",
+      "zh-TW": "不會被寒冷附著，且受到的寒冷傷害-20%。",
+      "zh-CN": "不会被寒冷附着，且受到的寒冷伤害-20% 。",
+      "ja": "寒冷付着を受けなくなり、受ける寒冷ダメージ-20%",
+      "ko": "냉기 부착 상태에 면역되며 받는 냉기 피해 -20%"
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Habitual Delay",
+    "zh-TW": "習慣性延誤",
+    "zh-CN": "习惯性延误",
+    "ja": "先延ばし常習犯",
+    "ko": "습관성 지각"
+   },
+   "text": {
+    "en": "Combo skill Distortion improved: Physical Susceptibility duration +3s.",
+    "zh-TW": "連攜技失真施加的物理脆弱持續時間+3秒。",
+    "zh-CN": "连携技失真施加的物理脆弱持续时间+3秒。",
+    "ja": "連携技「ディストーション」による物理脆弱の持続時間+3",
+    "ko": "연계 스킬 디스토션이 부여하는 물리 취약 지속 시간 +3초"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Lowered Expectations",
+    "zh-TW": "降低預期",
+    "zh-CN": "放低预期",
+    "ja": "期待厳禁",
+    "ko": "낮은 기대치"
+   },
+   "text": {
+    "en": "Ultimate Tremolo improved: Ultimate Energy cost -10%.",
+    "zh-TW": "終結技震音所需的終結技能量-10%。",
+    "zh-CN": "终结技震音所需的终结技能量-10%。",
+    "ja": "必殺技「トレモロ」に必要な必殺チャージ-10%",
+    "ko": "궁극기 트레몰로의 사용에 필요한 궁극기 에너지 -10%"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Delayed Work",
+    "zh-TW": "延後工作",
+    "zh-CN": "延后工作",
+    "ja": "先送り主義",
+    "ko": "작업 연기"
+   },
+   "text": {
+    "en": "Battle skill Onomatopoeia improved: Freezing sound wave range +50% and DMG Dealt +40% to the first enemy hit.",
+    "zh-TW": "戰技凝聲激發的製冷聲波飛行距離+50%，並對首個命中敵人的傷害+40%。",
+    "zh-CN": "战技凝声激发的制冷声波飞行距离+50%，并对首个命中敌人的伤害+40%。",
+    "ja": "戦技「オノマトペ」で放たれる氷の音波の攻撃距離+50%、最初に命中した敵へのダメージ+40%",
+    "ko": "배틀 스킬 서스테인이 방출하는 냉기 음파의 비행 거리 +50%, 첫 번째로 명중한 적에게 주는 피해 +40%"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Life Over Mission",
+    "zh-TW": "生命大於任務",
+    "zh-CN": "生命大于任务",
+    "ja": "任務より命大事に",
+    "ko": "임무보다는 목숨을"
+   },
+   "text": {
+    "en": "Will +10, Strength +10.",
+    "zh-TW": "意志+10，力量+10。",
+    "zh-CN": "意志+10，力量+10。",
+    "ja": "意志+10、筋力+10",
+    "ko": "의지 +10, 힘 +10"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Survival is a Win",
+    "zh-TW": "活著就是勝利",
+    "zh-CN": "活着就是胜利",
+    "ja": "生きてるだけで大勝利",
+    "ko": "생존이 승리다"
+   },
+   "text": {
+    "en": "After applying Solidification to an enemy, Estella gains 5 Ultimate Energy. Effect can only trigger once every 1s.",
+    "zh-TW": "每當有敵人被施加凍結後，獲得5點終結技能量，該效果每1秒最多觸發一次。",
+    "zh-CN": "每当有敌人被施加冻结后，获得5点终结技能量，该效果每1秒最多触发一次。",
+    "ja": "敵が凍結状態になるたびに、必殺チャージを5回復する\nこの効果は1秒に1回まで発動可能",
+    "ko": "적에게 매번 동결을 부여한 후, 획득하는 궁극기 에너지 5포인트, 해당 효과는 1초마다 최대 1회만 발동합니다."
+   }
+  }
+ ]
+}

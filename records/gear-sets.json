@@ -15,7 +15,14 @@
   "rarities": [
    3,
    4
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Agility +50.\nWhen the wearer's HP is above 80%, Physical DMG +20%.",
+   "zh-TW": "3件套裝效果：裝備者敏捷+50。\n當裝備者生命值高於80%時，造成的物理傷害+20%。",
+   "zh-CN": "3件套组效果：装备者敏捷+50。\n当装备者生命值高于80%时，造成的物理伤害+20%。",
+   "ja": "3点セット効果：装備中、敏捷+50\n自身のHPが80%より高いとき、与える物理ダメージ+20%",
+   "ko": "3개 세트 효과: 장착자의 민첩 +50\n장착자의 생명력이 80%보다 높을 때, 주는 물리 피해 +20%"
+  }
  },
  {
   "id": "suit_atb01",
@@ -31,7 +38,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Combo Skill Cooldown Reduction +15%.\nAfter the wearer's skill recovers SP, the team gains DMG +16% for 15s. This effect cannot stack.",
+   "zh-TW": "3件套裝效果：裝備者連攜技冷卻縮減+15%。\n裝備者透過技能回復技力後，全隊造成的傷害+16%，持續15秒，該效果無法疊加。",
+   "zh-CN": "3件套组效果：装备者连携技冷却缩减+15%。\n装备者通过技能恢复技力后，全队造成的伤害+16%，持续15秒，该效果无法叠加。",
+   "ja": "3点セット効果：装備中、連携技CD短縮+15%\n自身がスキルでSPを回復すると、15秒間チーム全員の与えるダメージ+16%\nこの効果は重ね掛け不可",
+   "ko": "3개 세트 효과: 장착자의 연계 스킬 쿨타임 감소 +15%\n장착자가 스킬을 사용하여 스킬 게이지를 회복한 후, 팀 전체가 주는 피해 +16%, 15초 동안 지속. 해당 효과는 중첩되지 않습니다."
+  }
  },
  {
   "id": "suit_atk01",
@@ -47,7 +61,14 @@
   ],
   "rarities": [
    4
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Skill DMG +24%.\nWhen the wearer casts a battle skill, combo skill, or ultimate, the wearer gains ATK +5% for 15s. The buff from each of the three skill types is unique and does not stack with itself.",
+   "zh-TW": "3件套裝效果：裝備者所有技能傷害+24%。\n當裝備者施放戰技、連攜技、終結技時，分別+5%攻擊力，持續15秒。三種增益狀態獨立存在，層數無法疊加。",
+   "zh-CN": "3件套组效果：装备者所有技能伤害+24%。\n当装备者施放战技、连携技、终结技时，分别+5%攻击力，持续15秒。三种增益状态独立存在，层数无法叠加。",
+   "ja": "3点セット効果：装備中、全スキルダメージ+24%\n自身が戦技、連携技、必殺技のいずれかを発動するとき、15秒間攻撃力+5%\n3つの効果はそれぞれ独立しており、重ね掛け不可",
+   "ko": "3개 세트 효과: 장착자의 모든 스킬 피해 +24%\n장착자가 배틀 스킬, 연계 스킬, 궁극기를 사용할 때, 각각 공격력 +5%, 15초 동안 지속. 세 가지 버프는 독립적으로 존재하며 스택 수치는 중첩되지 않습니다."
+  }
  },
  {
   "id": "suit_atk02",
@@ -63,7 +84,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's ATK +15%.\nWhen any operator in the team casts a battle skill, the wearer gains 1 stack of Yinglung's Edge that gives DMG +20% to the wearer's next combo skill. Yinglung's Edge can stack 3 time(s).",
+   "zh-TW": "3件套裝效果：裝備者攻擊力+15%。\n當小隊內任意幹員施放戰技時，裝備者獲得一層應龍之銳，使得該幹員下一次連攜技傷害+20%，應龍之銳最多疊加3層。",
+   "zh-CN": "3件套组效果：装备者攻击力+15%。\n当小队内任意干员施放战技时，装备者获得一层应龙之锐，使得该干员下一次连携技伤害+20%，应龙之锐最多叠加3层。",
+   "ja": "3点セット効果：装備中、攻撃力+15%\n任意のオペレーターが戦技を発動するとき、自身は応龍の鋒を1段階獲得し、次の連携技ダメージ+20%\n応龍の鋒は最大3段階まで重ね掛け可能",
+   "ko": "3개 세트 효과: 장착자의 공격력 +15%\n팀 내 임의의 오퍼레이터가 배틀 스킬을 사용할 때, 장착자가 응룡의 예리함 1스택 획득, 해당 오퍼레이터의 다음 연계 스킬 피해 +20%. 응룡의 예리함은 최대 3스택까지만 중첩됩니다."
+  }
  },
  {
   "id": "suit_str01",
@@ -81,7 +109,14 @@
   "rarities": [
    3,
    4
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Strength +50.\nWhen the wearer's HP is below 50%, the wearer gains 30% DMG Reduction against all types of DMG.",
+   "zh-TW": "3件套裝效果：裝備者力量+50。\n當裝備者生命值低於50%時，受到的所有類型傷害-30%。",
+   "zh-CN": "3件套组效果：装备者力量+50。\n当装备者生命值低于50%时，受到的所有类型伤害-30%。",
+   "ja": "3点セット効果：装備中、筋力+50\n自身のHPが50%より低いとき、受ける全種類のダメージ-30%",
+   "ko": "3개 세트 효과: 장착자의 힘 +50\n장착자의 생명력이 50% 미만일 때, 받는 모든 유형 피해 -30%"
+  }
  },
  {
   "id": "suit_wisdwill01",
@@ -97,7 +132,14 @@
   ],
   "rarities": [
    2
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's HP +500.\nAfter the wearer defeats an enemy, the wearer gains ATK +20 for 5s.",
+   "zh-TW": "3件套裝效果：裝備者生命值+500。\n當裝備者擊敗敵人後，攻擊力+20，持續5秒。",
+   "zh-CN": "3件套组效果：装备者生命值+500。\n当装备者击败敌人后，攻击力+20，持续5秒。",
+   "ja": "3点セット効果：装備中、HP+500\n自身が敵を倒すと、5秒間攻撃力+20",
+   "ko": "3개 세트 효과: 장착자의 생명력 +500\n장착자가 적을 처치한 후, 공격력 +20, 5초 동안 지속."
+  }
  },
  {
   "id": "suit_attri01",
@@ -113,7 +155,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's ATK +15%.\nWhen the wearer casts a combo skill, the wearer gains 1 stack of Bonekrushing Smash that grants the wearer's next battle skill DMG Dealt +30%. Bonekrushing Smash can stack 2 time(s).",
+   "zh-TW": "3件套裝效果：裝備者攻擊力+15%。\n當裝備者施放連攜技時，獲得一層碾骨重壓，下一次的戰技傷害+30%，碾骨重壓最多可疊加2層。",
+   "zh-CN": "3件套组效果：装备者攻击力+15%。\n当装备者施放连携技时，获得一层碾骨重压，下一次的战技伤害+30%，碾骨重压最多可叠加2层。",
+   "ja": "3点セット効果：装備中、攻撃力+15%\n自身が連携技を発動するとき、骨砕の重圧を1段階獲得し、次の戦技ダメージ+30%\n骨砕の重圧は最大2段階まで重ね掛け可能",
+   "ko": "3개 세트 효과: 장착자의 공격력 +15%\n장착자가 연계 스킬을 사용할 때, 본 크러셔의 압박 1스택 획득, 다음 배틀 스킬의 피해 +30%. 본 크러셔의 압박은 최대 2스택까지만 중첩됩니다."
+  }
  },
  {
   "id": "suit_burst01",
@@ -129,7 +178,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Skill DMG Dealt +20%.\nAfter the wearer applies 2 or more stacks of Arts Infliction on the enemy, the wearer gains Arts DMG Dealt +35% for 15s. This effect cannot stack.",
+   "zh-TW": "3件套裝效果：裝備者所有技能傷害+20%。\n裝備者使敵人達到2層及以上法術附著後，造成的法術傷害+35%，持續15秒，該效果無法疊加。",
+   "zh-CN": "3件套组效果：装备者所有技能伤害+20%。\n装备者使敌人达到2层及以上法术附着后，造成的法术伤害+35%，持续15秒，该效果无法叠加。",
+   "ja": "3点セット効果：装備中、すべてのスキルダメージ+20%\n自身が敵のアーツ付着段階を2以上にすると、15秒間与えるアーツダメージ+35%\nこの効果は重ね掛け不可",
+   "ko": "3개 세트 효과: 장착자의 모든 스킬 피해 +20%\n장착자가 적에게 2스택 혹은 그 이상의 아츠 부착을 부여한 후, 주는 아츠 피해 +35%, 15초 동안 지속. 해당 효과는 중첩되지 않습니다."
+  }
  },
  {
   "id": "suit_combo_cd01",
@@ -145,7 +201,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Combo Skill Cooldown Reduction +15%.\nWhen the wearer casts a combo skill, the wearer gains Skill DMG Dealt +20% (for every skill) for 15s. This effect can reach 2 stacks. Duration of each stack is counted separately.",
+   "zh-TW": "3件套裝效果：裝備者連攜技冷卻縮減+15%。\n當裝備者施放連攜技時，所有技能傷害+20%，持續15秒。該效果最多疊加2層，每層單獨計算持續時間。",
+   "zh-CN": "3件套组效果：装备者连携技冷却缩减+15%。\n当装备者施放连携技时，所有技能伤害+20%，持续15秒。该效果最多叠加2层，每层单独计算持续时间。",
+   "ja": "3点セット効果：装備中、連携技CD短縮+15%\n自身が連携技を発動するとき、15秒間すべてのスキルダメージ+20%\nこの効果は最大2段階まで重ね掛け可能（持続時間は個別にカウントされる）",
+   "ko": "3개 세트 효과: 장착자의 연계 스킬 쿨타임 감소 +15%\n장착자가 연계 스킬을 사용할 때, 모든 스킬 피해 +20%, 15초 동안 지속. 해당 효과는 최대 2스택까지 중첩되며 중첩될 때마다 지속 시간은 따로 계산됩니다."
+  }
  },
  {
   "id": "suit_usp01",
@@ -161,7 +224,14 @@
   ],
   "rarities": [
    4
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Ultimate Gain Efficiency +20%.\nThe wearer casts a battle skill, the action returns 50 SP. This effect only triggers 1 time per battle.",
+   "zh-TW": "3件套裝效果：裝備者終結技蓄能效率+20%。\n裝備者施放戰技時返還50點技力，此效果每場戰鬥最多觸發一次。",
+   "zh-CN": "3件套组效果：装备者终结技充能效率+20%。\n装备者施放战技时返还50点技力，此效果每场战斗最多触发一次。",
+   "ja": "3点セット効果：装備中、必殺チャージの回復効率+20%\n自身が戦技を発動するとき、SPが50返還される\nこの効果は1回の戦闘につき1回発動可能",
+   "ko": "3개 세트 효과: 장착자의 궁극기 충전 효율 +20%\n장착자가 배틀 스킬을 사용할 때, 반환하는 스킬 게이지 50포인트. 해당 효과는 전투마다 최대 1회만 발동합니다."
+  }
  },
  {
   "id": "suit_criti01",
@@ -177,7 +247,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Critical Rate +5%.\nAfter the wearer scores a critical hit, the wearer gains ATK +5% for 5s. This effect can reach 5 stacks. At max stacks, grant an additional Critical Rate +5%. This effect cannot stack.",
+   "zh-TW": "3件套裝效果：裝備者暴擊率+5%。\n當裝備者觸發暴擊後，5秒內+5%攻擊力，該效果最多疊加5層。層數疊滿後，額外+5%暴擊率，該效果無法疊加。",
+   "zh-CN": "3件套组效果：装备者暴击率+5%。\n当装备者触发暴击后，5秒内+5%攻击力，该效果最多叠加5层。层数叠满后，额外+5%暴击率，该效果无法叠加。",
+   "ja": "3点セット効果：装備中、会心率+5%\n自身が会心ダメージを与えると、5秒間攻撃力+5%\nこの効果は5回まで重ね掛け可能\n重ね掛けが最大回数に達したあと、追加で会心率+5%\nこの効果は重ね掛け不可",
+   "ko": "3개 세트 효과: 장착자의 치명타 확률 +5%\n장착자가 적에게 치명타를 준 후, 5초 동안 공격력 +5%, 최대 중첩 5스택. 최대 중첩 시, 치명타 확률 추가 +5%, 해당 효과는 중첩되지 않습니다."
+  }
  },
  {
   "id": "suit_phy01",
@@ -193,7 +270,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Stagger Efficiency Bonus +20%.\nAfter the wearer applies a Physical Status, the wearer also performs 1 hit that deals 250% ATK of Physical DMG and [10 Stagger]. Effect trigger cooldown: 15s.",
+   "zh-TW": "3件套裝效果：裝備者失衡效率加成+20%。\n當裝備者造成物理異常後，額外造成一次250%攻擊力的物理傷害[10點失衡值]。該效果每15秒最多觸發一次。",
+   "zh-CN": "3件套组效果：装备者失衡效率加成+20%。\n当装备者造成物理异常后，额外造成一次250%攻击力的物理伤害[10点失衡值]。该效果每15秒最多触发一次。",
+   "ja": "3点セット効果：装備中、ブレイク効率UP+20%\n自身が敵に物理異常を与えると、追加で攻撃力250%分の物理ダメージとブレイク値10を与える\nこの効果は15秒に1回まで発動可能",
+   "ko": "3개 세트 효과: 장착자의 불균형 효율 보너스 +20%\n장착자가 물리 이상 효과를 부여한 후, 공격력 250%만큼의 추가 물리 피해[10포인트 불균형치]. 해당 효과는 15초마다 최대 1회만 발동합니다."
+  }
  },
  {
   "id": "suit_crush_fracture",
@@ -209,7 +293,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's ATK +8%.\nWhen the wearer applies Crush or Breach, the wearer gains Physical DMG Dealt +[6% × Max number of Vulnerability stacks consumed from one enemy] for 20s. If the target already has Physical Susceptibility, is Staggered, or has attached Originium Crystals, increase the aforementioned buff to 1.5 times. This buff cannot stack.",
+   "zh-TW": "3件套裝效果：裝備者攻擊力+8%。\n裝備者造成猛擊、碎甲時，根據消耗的最大破防層數，使自身物理傷害+[6%×消耗層數]，持續20秒。若目標已處於物理脆弱、失衡狀態或被附著源石結晶，上述增益效果變為1.5倍。增益效果無法疊加。",
+   "zh-CN": "3件套组效果：装备者攻击力+8%。\n装备者造成猛击、碎甲时，根据消耗的最大破防层数，使自身物理伤害+[6%×消耗层数]，持续20秒。若目标已处于物理脆弱、失衡状态或被附着源石结晶，上述增益效果变为1.5倍。增益效果无法叠加。",
+   "ja": "3点セット効果：装備中、攻撃力+8%\n自身が敵に猛撃、破砕を与えるとき、消費する最大のクラッシュの段階数に応じて、20秒間自身の物理ダメージ+[6%×消費した段階数]\n目標が物理脆弱、ブレイク状態、または源石結晶が付与されている場合、上記のボーナス効果が1.5倍になる（ボーナス効果は重ね掛け不可）",
+   "ko": "3개 세트 효과: 장착자의 공격력 +8%\n장착자가 강타, 갑옷 파괴 피해를 줄 때, 소모한 최대 방어 불능 스택 수치에 따라 자신의 물리 피해 +[6%×소모한 스택 수치], 20초 동안 지속. 만약 목표가 물리 취약, 불균형 상태거나 오리지늄 결정이 부착된 상태라면 위의 버프 효과가 1.5배로 변경됩니다. 버프 효과는 중첩되지 않습니다."
+  }
  },
  {
   "id": "suit_expend_spell01",
@@ -225,7 +316,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's ATK +10%.\nWhenever the wearer consumes Electrification or Corrosion, the wearer gains a number of buff stacks equal to the Status Level of the Arts Reaction consumed, with each buff stack giving Electric DMG Dealt and Nature DMG Dealt +15% for 25s. Max number of buff stacks: 3. Duration of each stack is counted separately.",
+   "zh-TW": "3件套裝效果：裝備者攻擊力+10%。\n裝備者每次消耗導電或腐蝕後，根據異常等級獲得相同層數的強化狀態，每層使電磁傷害和自然傷害+15%，持續25秒。強化狀態最多存在3層，每層單獨計算持續時間。",
+   "zh-CN": "3件套组效果：装备者攻击力+10%。\n装备者每次消耗导电或腐蚀后，根据异常等级获得相同层数的强化状态，每层使电磁伤害和自然伤害+15%，持续25秒。强化状态最多存在3层，每层单独计算持续时间。",
+   "ja": "3点セット効果：装備中、攻撃力+10%\n自身が感電または腐食を消費するたびに、異常段階に応じて同じ段階数の強化状態を獲得し、25秒間1段階ごとに電磁ダメージと自然ダメージ+15%\n強化状態の段階数は最大3段階まで（持続時間は個別にカウントされる）",
+   "ko": "3개 세트 효과: 장착자의 공격력 +10%\n장착자가 감전 혹은 부식을 소모할 때마다, 이상 레벨에 따른 같은 스택 수치의 강화 상태를 획득합니다. 스택이 중첩될 때마다 전기 피해 및 자연 피해 +15%, 25초 동안 지속. 강화 상태는 최대 3스택까지 중첩되며 중첩될 때마다 지속 시간은 따로 계산됩니다."
+  }
  },
  {
   "id": "suit_fire_natr01",
@@ -241,7 +339,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Arts Intensity +30.\nAfter the wearer applies Combustion, the wearer gains Heat DMG +50% for 10s. After the wearer applies Corrosion, the wearer gains Nature DMG +50% for 10s. The aforementioned effects cannot stack.",
+   "zh-TW": "3件套裝效果：裝備者源石技藝強度+30。\n當裝備者施加燃燒後，灼熱傷害+50%，持續10秒，該效果無法疊加；當裝備者施加腐蝕後，自然傷害+50%，持續10秒，該效果無法疊加。",
+   "zh-CN": "3件套组效果：装备者源石技艺强度+30。\n当装备者施加燃烧后，灼热伤害+50%，持续10秒，该效果无法叠加；当装备者施加腐蚀后，自然伤害+50%，持续10秒，该效果无法叠加。",
+   "ja": "3点セット効果：装備中、アーツ強度+30\n自身が敵を燃焼状態にすると、10秒間灼熱ダメージ+50%\nこの効果は重ね掛け不可\n自身が敵を腐食状態にすると、10秒間自然ダメージ+50%\nこの効果は重ね掛け不可",
+   "ko": "3개 세트 효과: 장착자의 오리지늄 아츠 강도 +30\n장착자가 적에게 연소를 부여한 후, 열기 피해 +50%, 10초 동안 지속, 해당 효과는 중첩되지 않습니다. 장착자가 적에게 부식을 부여한 후, 자연 피해 +50%, 10초 동안 지속, 해당 효과는 중첩되지 않습니다."
+  }
  },
  {
   "id": "suit_generaltype",
@@ -257,7 +362,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer gains DMG Dealt +20% for all types of DMG, 10% DMG Reduction against all types of DMG, and Ultimate Gain Efficiency +10%.",
+   "zh-TW": "3件套裝效果：裝備者造成的所有類型傷害+20%，受到的所有類型傷害-10%，終結技蓄能效率+10%。",
+   "zh-CN": "3件套组效果：装备者造成的所有类型伤害+20%，受到的所有类型伤害-10%，终结技充能效率+10%。",
+   "ja": "3点セット効果：装備中、与える全種類のダメージ+20%、受ける全種類のダメージ-10%、必殺チャージの回復効率+10%",
+   "ko": "3개 세트 효과: 장착자가 주는 모든 유형 피해 +20%, 받는 모든 유형 피해 -10%, 궁극기 충전 효율 +10%"
+  }
  },
  {
   "id": "suit_spellburst",
@@ -273,7 +385,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Arts DMG Dealt +16%.\nWhen the wearer applies Nature Burst or Cryo Burst, the wearer gains Arts Intensity +16 for 20s. Max stacks for this effect: 3. Duration of each stack is counted separately. Effect only triggers once every 0.1s.",
+   "zh-TW": "3件套裝效果：裝備者法術傷害+16%。\n當裝備者造成自然爆發、寒冷爆發時，源石技藝強度+16，持續20秒。該效果最多疊加3層，每層單獨計算持續時間，每0.1秒最多觸發一次。",
+   "zh-CN": "3件套组效果：装备者法术伤害+16%。\n当装备者造成自然爆发、寒冷爆发时，源石技艺强度+16，持续20秒。该效果最多叠加3层，每层单独计算持续时间，每0.1秒最多触发一次。",
+   "ja": "3点セット効果：装備中、アーツダメージ+16%\n自身が自然爆発、寒冷爆発を発動させるとき、20秒間アーツ強度+16\nこの効果は最大3段階まで重ね掛け可能（持続時間は個別にカウントされ、0.1秒に1回まで発動可能）",
+   "ko": "3개 세트 효과: 장착자의 아츠 피해 +16%\n장착자가 자연 폭발, 냉기 폭발 피해를 줄 때, 오리지늄 아츠 강도 +16, 20초 동안 지속. 해당 효과는 최대 3스택까지 중첩되며, 중첩될 때마다 지속 시간은 따로 계산됩니다. 0.1초마다 최대 1회만 발동합니다."
+  }
  },
  {
   "id": "suit_heal01",
@@ -289,7 +408,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's HP Treatment Efficiency +20%.\nAfter the wearer gives HP treatment to an allied target, that target also gains 15% DMG Reduction against all types of DMG for 10s. If the said treatment exceeds the target's Max HP, the target gains 30% DMG Reduction against all types of DMG. The aforementioned effects cannot stack.",
+   "zh-TW": "3件套裝效果：裝備者治療效率+20%。\n當裝備者治療我方目標後，使該目標在10秒內受到的所有類型傷害-15%；如果該目標受到的治療量溢出，則受到的所有類型傷害-30%。上述效果無法疊加。",
+   "zh-CN": "3件套组效果：装备者治疗效率+20%。\n当装备者治疗我方目标后，使该目标在10秒内受到的所有类型伤害-15%；如果该目标受到的治疗量溢出，则受到的所有类型伤害-30%。上述效果无法叠加。",
+   "ja": "3点セット効果：装備中、回復効率+20%\n自身が味方を治療すると、10秒間その味方の受ける全種類のダメージ-15%\n回復量がその味方のHP上限を超えた場合、受ける全種類のダメージ-30%\nこの効果は重ね掛け不可",
+   "ko": "3개 세트 효과: 장착자의 치유 효율 +20%\n장착자가 아군을 치유한 후, 목표가 10초 동안 받는 모든 유형 피해 -15%. 해당 목표가 받는 치유량이 최대치를 넘을 경우, 받는 모든 유형 피해 -30%, 상기 효과는 중첩되지 않습니다."
+  }
  },
  {
   "id": "suit_poise01",
@@ -305,7 +431,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's ATK +8%.\nAfter the wearer applies Vulnerability, the wearer gains Physical DMG Dealt +8% for 15s. This effect can reach 4 stacks. If the target has 4 stacks of Vulnerability, the wearer gains an additional Physical DMG Dealt +16% for 10s. This effect cannot stack.",
+   "zh-TW": "3件套裝效果：裝備者攻擊力+8%。\n裝備者施加破防後，物理傷害+8%，持續15秒，最多可疊加4層。若使目標達到4層破防，物理傷害額外+16%，持續10秒，該效果無法疊加。",
+   "zh-CN": "3件套组效果：装备者攻击力+8%。\n装备者施加破防后，物理伤害+8%，持续15秒，最多可叠加4层。若使目标达到4层破防，物理伤害额外+16%，持续10秒，该效果无法叠加。",
+   "ja": "3点セット効果：装備中、攻撃力+8%\n自身がクラッシュを付与すると、15秒間物理ダメージ+8%\nこの効果は4回まで重ね掛け可能\n目標のクラッシュ段階が4になった場合、10秒間追加で物理ダメージ+16%\nこの効果は重ね掛け不可",
+   "ko": "3개 세트 효과: 장착자의 공격력 +8%\n장착자가 적에게 방어 불능을 부여한 후, 물리 피해 +8%, 15초 동안 지속, 최대 중첩 4스택. 목표의 방어 불능 스택이 4스택에 도달할 경우, 추가로 물리 피해 +16%, 10초 동안 지속, 해당 효과는 중첩되지 않습니다."
+  }
  },
  {
   "id": "suit_pulse_cryst01",
@@ -321,7 +454,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Arts Intensity +30.\nAfter the wearer applies Electrification, the wearer gains Electric DMG +50% for 10s. After the wearer applies Solidification, the wearer gains Cryo DMG +50% for 10s. The aforementioned effects cannot stack.",
+   "zh-TW": "3件套裝效果：裝備者源石技藝強度+30。\n當裝備者施加導電後，電磁傷害+50%，持續10秒，該效果無法疊加；當裝備者施加凍結後，寒冷傷害+50%，持續10秒，該效果無法疊加。",
+   "zh-CN": "3件套组效果：装备者源石技艺强度+30。\n当装备者施加导电后，电磁伤害+50%，持续10秒，该效果无法叠加；当装备者施加冻结后，寒冷伤害+50%，持续10秒，该效果无法叠加。",
+   "ja": "3点セット効果：装備中、アーツ強度+30\n自身が敵を感電状態にすると、10秒間電磁ダメージ+50%\nこの効果は重ね掛け不可\n自身が敵を凍結状態にすると、10秒間寒冷ダメージ+50%\nこの効果は重ね掛け不可",
+   "ko": "3개 세트 효과: 장착자의 오리지늄 아츠 강도 +30\n장착자가 적에게 감전을 부여한 후, 전기 피해 +50%, 10초 동안 지속, 해당 효과는 중첩되지 않습니다. 장착자가 적에게 동결을 부여한 후, 냉기 피해 +50%, 10초 동안 지속, 해당 효과는 중첩되지 않습니다."
+  }
  },
  {
   "id": "suit_stragi01",
@@ -337,7 +477,14 @@
   ],
   "rarities": [
    2
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's HP +500.\nAfter the wearer defeats an enemy, the wearer restores 100 HP. Effect trigger cooldown: 5s.",
+   "zh-TW": "3件套裝效果：裝備者生命值+500。\n當裝備者擊敗敵人後，回復100點生命值。該效果每5秒最多觸發一次。",
+   "zh-CN": "3件套组效果：装备者生命值+500。\n当装备者击败敌人后，回复100点生命值。该效果每5秒最多触发一次。",
+   "ja": "3点セット効果：装備中、HP+500\n自身が敵を倒すと、HPを100回復する\nこの効果は5秒に1回まで発動可能",
+   "ko": "3개 세트 효과: 장착자의 생명력 +500\n장착자가 적을 처치한 후, 생명력 100포인트 회복. 해당 효과는 5초마다 최대 1회만 발동합니다."
+  }
  },
  {
   "id": "suit_usp02",
@@ -353,7 +500,14 @@
   ],
   "rarities": [
    5
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's HP +1000.\nAfter the wearer applies Amp, Protection, Susceptibility, or Weakness, other teammates gain DMG Dealt +16% for 15s. This effect cannot stack.",
+   "zh-TW": "3件套裝效果：裝備者生命值+1000。\n裝備者施加增幅、庇護、脆弱、虛弱後，使其他隊友造成的傷害+16%，持續15秒。該效果無法疊加。",
+   "zh-CN": "3件套组效果：装备者生命值+1000。\n装备者施加增幅、庇护、脆弱、虚弱后，使其他队友造成的伤害+16%，持续15秒。该效果无法叠加。",
+   "ja": "3点セット効果：装備中、HP+1000\n自身が増幅、加護、脆弱、弱体化を付与すると、15秒間編成中の他の味方の与えるダメージ+16%\nこの効果は重ね掛け不可",
+   "ko": "3개 세트 효과: 장착자의 생명력 +1000\n장착자가 증폭, 비호, 취약, 허약을 부여한 후, 다른 팀원이 주는 피해 +16%, 15초 동안 지속. 해당 효과는 중첩되지 않습니다."
+  }
  },
  {
   "id": "suit_will01",
@@ -371,7 +525,14 @@
   "rarities": [
    3,
    4
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Will +50.\nWhen the wearer's HP is below 50%, Treatment Effect +30%.",
+   "zh-TW": "3件套裝效果：裝備者意志+50。\n當裝備者生命值低於50%時，造成的治療效果+30%。",
+   "zh-CN": "3件套组效果：装备者意志+50。\n当装备者生命值低于50%时，造成的治疗效果+30%。",
+   "ja": "3点セット効果：装備中、意志+50\n自身のHPが50%より低いとき、与える回復効果+30%",
+   "ko": "3개 세트 효과: 장착자의 의지 +50\n장착자의 생명력이 50% 미만일 때, 주는 치유 효과 +30%"
+  }
  },
  {
   "id": "suit_wisd01",
@@ -389,6 +550,13 @@
   "rarities": [
    3,
    4
-  ]
+  ],
+  "effect": {
+   "en": "3-piece set effect: Wearer's Intellect +50.\nWhen the wearer's HP is above 80%, Arts DMG +20%.",
+   "zh-TW": "3件套裝效果：裝備者智識+50。\n當裝備者生命值高於80%時，造成的法術傷害+20%。",
+   "zh-CN": "3件套组效果：装备者智识+50。\n当装备者生命值高于80%时，造成的法术伤害+20%。",
+   "ja": "3点セット効果：装備中、知性+50\n自身のHPが80%より高いとき、与えるアーツダメージ+20%",
+   "ko": "3개 세트 효과: 장착자의 지능 +50\n장착자의 생명력이 80%보다 높을 때, 주는 아츠 피해 +20%"
+  }
  }
 ]

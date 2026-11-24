@@ -50,7 +50,8 @@ sources:
 | Voice, Korean | Yi Sae-ah |
 | Operator File | [Ember's file](/story/ember/) |
 
-Ember is an elite of the Assault Banner of the northern Order of Steel Oath who returned to the Civilization Band to recruit successors and accepted an invitation to work with Endfield Industries.
+> "Let's move. War never ends. We can only march on."  Ember serves in the Order of Steel Oath, a military force stationed year-round in the rugged northern regions. To recruit successors for fallen comrades, she returned to the Civilization Band and accepted an invitation to work with Endfield Industries.  An elite of the Assault Banner in the Order of Steel Oath, Ember fights with flawless skills. She leads every charge, tearing through enemy lines alongside her comrades like an unbreakable spear. To her enemies, she is the bulwark that holds firm. To her allies, she is the wall that never falls. The Order may rest on fortresses and battlecarriers — but warriors like Ember are its true backbone.\
+> "Beneath the aurora lie the defense lines of the Oathkeepers."
 
 ## How to obtain
 
@@ -79,12 +80,37 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Sword Art of Assault | Physical combo of up to 4 hits. While she is the controlled operator, her Final Strike also deals 25 Stagger. |
-| Battle skill | Forward March | Leaps forward and slams down, dealing Heat damage, Knock Down, and Stagger to enemies in a fan-shaped area. Taking enemy damage while casting makes the slam deal extra Stagger on hit. Costs 100 SP. |
-| Combo skill | Frontline Support | Trigger: the controlled operator is attacked. She leaps to the target and slams down for Physical damage and Knock Down while healing the controlled operator, with Will increasing the healing. Cooldown 19 s, 18 s at the highest skill level. |
-| Ultimate | Re-Ignited Oath | Slams the ground to deal Heat damage to nearby enemies and grants every teammate a Shield scaling with Ember's Max HP. Costs 100 Ultimate Energy. |
+| Basic attack | Sword Art of Assault | — |
+| Battle skill | Forward March | 100 SP |
+| Combo skill | Frontline Support | Cooldown 19 s, 18 s at level 12 |
+| Ultimate | Re-Ignited Oath | 100 Ultimate Energy |
+
+### Sword Art of Assault
+
+> BASIC ATTACK:\
+> An attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 25 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.
+
+### Forward March
+
+> A leap followed by a heavy slam that deals Heat DMG, Knock Down, and Stagger to all enemies in a fan-shaped area.\
+> If Ember takes DMG from enemies during casting, the slam deals more Stagger when it hits.
+
+### Frontline Support
+
+> COMBO TRIGGER: When the controlled operator is attacked.\
+> Leaps at the target enemy and unleashes a heavy slam that deals Physical DMG and Knock Down while giving HP treatment to the controlled operator. The attribute of Will increases the amount of HP treatment.
+
+### Re-Ignited Oath
+
+> Slams the ground to deal Heat DMG to nearby enemies, while granting every teammate a Shield based on Ember's Max HP.
 
 ## Skill values
 
@@ -113,20 +139,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Inflamed for the Assault | Promotion I; upgraded at Promotion II | While casting Forward March or Frontline Support, Ember gains 30% Protection (50% at Promotion II) and becomes harder to interrupt. |
-| Pay the Ferric Price | Promotion II; upgraded at Promotion III | Taking damage from an enemy grants Ember +6% ATK (+9% at Promotion III) for 7 s, stacking up to 3 times. |
+### Inflamed for the Assault
+
+**Promotion I**
+
+> When casting the battle skill Forward March and the combo skill Frontline Support, Ember gains 30% Protection and is less likely to be interrupted.
+
+**Promotion II**
+
+> When casting the battle skill Forward March and the combo skill Frontline Support, Ember gains 50% Protection and is less likely to be interrupted.
+
+### Pay the Ferric Price
+
+**Promotion II**
+
+> When Ember receives DMG from the enemy, she gains ATK +6% for 7s. This effect can reach 3 stacks.
+
+**Promotion III**
+
+> When Ember receives DMG from the enemy, she gains ATK +9% for 7s. This effect can reach 3 stacks.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Nomadic Fort | Inflamed for the Assault grants +20% more Protection, and hitting an enemy extends it by 1.5 s |
-| 2 | Steel-Hardened Veteran | Strength +20, Will +20 |
-| 3 | Indomitable Front | Frontline Support also heals another teammate with the lowest HP percentage for 50% of the base healing |
-| 4 | Undying Embers | Re-Ignited Oath costs 15% less Ultimate Energy |
-| 5 | The Steel Oath | Re-Ignited Oath's Shield is 1.2 times stronger, and its holder gains +10% ATK while it lasts |
+| 1 | Nomadic Fort | Talent Inflamed for the Assault improved: Protection effect +20%; hitting an enemy extends the duration by 1.5s. |
+| 2 | Steel-Hardened Veteran | Strength +20, Will +20. |
+| 3 | Indomitable Front | Combo skill Frontline Support improved: Restores the HP of another teammate with the lowest percentage HP at 50% of the base effect. |
+| 4 | Undying Embers | Ultimate Re-Ignited Oath improved: Ultimate Energy cost -15%. |
+| 5 | The Steel Oath | Ultimate Re-Ignited Oath improved: Shield effect is multiplied by 1.2; while this shield is active, the wielder gains ATK +10%. |
 
 ## Base skills
 
@@ -134,10 +175,10 @@ Base skills work while Ember is assigned to a room of the Dijiang. Each has two 
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Special Northern Training β | MFG Cabin | Promotion I | Operator EXP materials made 20% faster |
-| Special Northern Training γ | MFG Cabin | Promotion III | Operator EXP materials made 30% faster |
-| Keepers of the Banner α | Reception Room | Promotion II | Slightly higher chance of Clue 4 (Order of Steel Oath); does not stack with another skill of this kind |
-| Keepers of the Banner β | Reception Room | Promotion IV | Higher chance of Clue 4 (Order of Steel Oath); does not stack with another skill of this kind |
+| Special Northern Training β | MFG Cabin | Promotion I | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20% |
+| Special Northern Training γ | MFG Cabin | Promotion III | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30% |
+| Keepers of the Banner α | Reception Room | Promotion II | Assign to Reception Room to grant operators a small Clue 4 Rate-UP: Order of Steel Oath (activates upon assignment; effects of the same type cannot stack) |
+| Keepers of the Banner β | Reception Room | Promotion IV | Assign to Reception Room to grant operators Clue 4 Rate-UP: Order of Steel Oath (activates upon assignment; effects of the same type cannot stack) |
 
 ## Base stats
 

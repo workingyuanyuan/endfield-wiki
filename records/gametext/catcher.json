@@ -1,0 +1,237 @@
+{
+ "slug": "catcher",
+ "gameId": "chr_0020_meurs",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Need defensive cover? I shall give you my best.\"  Catcher serves on Operations Team Z7 in Endfield, responsible for cover and logistical support. Backed by full military training, he draws on his extensive knowledge to guide his teammates through critical moments. Born into a military family within the Talos-II General Chamber of Commerce, he was raised with the love of devoted parents and older siblings. The pain and sickness caused by a childhood accident never brought him down. Instead, they shaped him into the steadfast warrior he is today.  Catcher may be the youngest on the team, but his maturity far surpasses that of his peers. He can work seamlessly with everyone, readily cover when a teammate struggles, and even prepare a camp meal tailored to everyone's needs. With him around, the team always feels safe and at ease.\n\"I have recently reviewed everyone's suggestions and improved my wildlands stew recipe... Feel free to give it a taste if you're curious, Endmin.\"",
+  "zh-TW": "「需要掩護嗎？我會全力以赴的。」  終末地Z7行動組成員，負責掩護和後勤工作。卡契爾曾接受過完整的軍事訓練，大量的相關知識儲備讓他常能在關鍵時刻為隊友們提供適合的建議。他出生於環塔商會一個軍人家庭，備受父母與兄姐的關愛。幼年時因意外導致的病痛沒有將他擊垮，反而促使他逐漸成長為一名堅忍不拔的戰士。  在小隊中，卡契爾年紀最小，但心智的成熟程度卻遠超隊內其他人。他能與每個隊友都配合默契，能在隊友出狀況時主動善後，也能為隊友們準備一頓照顧了每個人需求的營地晚餐。很顯然，有卡契爾在的地方，總讓他的隊友們感到安心和自在。    「根據大家的建議，最近我又改良了一版野炊濃湯……管理員，有空你可以來嚐嚐。」",
+  "zh-CN": "“需要掩护吗？我会全力以赴的。” 终末地Z7行动组成员，负责掩护和后勤工作。卡契尔曾接受过完整的军事训练，大量的相关知识储备让他常能在关键时刻为队友们提供合适的建议。他出生于环塔商会一个军人家庭，备受父母与兄姐的关爱。幼年时因意外导致的病痛没有将他击垮，反而促使他逐渐成长为一名坚忍不拔的战士。 在小队中，卡契尔年纪最小，但心智的成熟程度却远超队内其他人。他能与每个队友都配合默契，能在队友出状况时主动善后，也能为队友们准备一顿照顾了每个人需求的营地晚餐。很显然，有卡契尔在的地方，总让他的队友们感到安心和自在。\n“根据大家的建议，最近我又改良了一版野炊浓汤……管理员，有空你可以来尝尝。”",
+  "ja": "「援護が必要ですか？全力でサポートします。」 エンドフィールド行動隊Z7のメンバーで、援護や後方支援を担当している。本格的な軍事訓練を受けたことがあり、戦闘に関する知識が豊富なため、いつも肝心なところで仲間に適切な助言を行える。環タロ商会の軍人一家に生まれた彼は、家族からの愛情を受けて育った。幼い頃、思いがけない病気や痛みに苦しんだが、それに負けなかったどころか、徐々に不屈の戦士へと成長していった。 行動隊Z7の最年少隊員だが、精神的には最も成熟している。どの隊員とも息を合わせることができ、仲間に何かあれば自ら後始末を買って出る。そして任務に出ているときに、仲間たちそれぞれの好みに合わせた夕食も用意する。キャッチャーがいれば、仲間たちも安心してのびのびできるのは間違いないだろう。\n「皆のアドバイスを参考に、キャンプ用ポタージュのレシピを改良しました。管理人、時間があるときに味見して貰えますか？」",
+  "ko": "\"엄호가 필요하십니까? 전력을 다하겠습니다.\"  카치르는 엔드필드 Z7 작전팀의 멤버로 주로 엄호와 후방 지원을 담당한다. 그는 체계적인 군사 훈련을 받은 경험이 있어, 풍부한 지식으로 팀이 위기에 처했을 때 늘 적절한 조언을 내놓곤 한다. 탈로스 II 상업연합회 출신의 군인 가문에서 태어나 부모와 형제자매들의 사랑을 듬뿍 받고 자랐다. 어린 시절 뜻하지 않은 사고로 병을 얻었지만, 그것은 그를 무너뜨리기는커녕 오히려 한층 더 강인한 전사로 단련시켰다.  팀 내에서 카치르는 가장 나이가 어리지만 그의 정신적 성숙함은 누구보다 앞선다. 어떤 팀원과도 호흡을 맞출 수 있으며, 누군가가 어려움에 빠지면 먼저 나서서 뒷수습한다. 또 캠프에서 팀원들의 입맛과 상황에 맞게 식사를 준비해 주는 세심한 면모도 있다. 카치르가 있는 곳은 언제나 팀원들에게 안도와 편안함을 안겨준다.    \"사람들의 의견을 참고해서, 야외에서 먹을 만한 새로운 요리를 만들어봤습니다... 관리자님도 시간 있으시면 맛보러 오셔도 좋습니다.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Basic Tactics",
+    "zh-TW": "基礎戰術",
+    "zh-CN": "基础战术",
+    "ja": "基礎戦術",
+    "ko": "기초 전술"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 22 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成物理傷害。作為主控幹員時，重擊會造成22點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成物理伤害。作为主控干员时，重击会造成22点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値22を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 22포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Rigid Interdiction",
+    "zh-TW": "剛性阻擊",
+    "zh-CN": "刚性阻击",
+    "ja": "強制ブロック",
+    "ko": "강력한 저지"
+   },
+   "text": {
+    "en": "Raises a shield that can block attacks, grants Protection to self and nearby operators, and immediately returns some SP.\nWhen attacked while the said shield is raised, perform a retaliation bash that deals Physical DMG and applies 1 stack of Vulnerability to the attacking enemy.",
+    "zh-TW": "架起盾牌格擋攻擊，使自身及周圍幹員獲得庇護，並立即返還一定技力。\n若在立盾期間受到攻擊，則發動一次反擊，嘗試對敵人造成物理傷害並施加1層破防。",
+    "zh-CN": "架起盾牌格挡攻击，使自身及周围干员获得庇护，并立即返还一定技力。\n若在立盾期间受到攻击，则发动一次反击，尝试对敌人造成物理伤害并施加1层破防。",
+    "ja": "盾を構えて敵の攻撃をブロックし、自身と周囲のオペレーターに加護を与え、即座にSPが一定量返還される。\n盾を構えている間に攻撃を受けると、反撃が1回発動する。敵に物理ダメージを与え、クラッシュ段階を1増加させる。",
+    "ko": "방패를 들어 공격을 막으며 자신과 주변의 오퍼레이터에게 비호를 부여하고, 일정 스킬 게이지를 반환합니다.\n방패를 들고 있는 동안 공격을 받으면 반격하며 적에게 물리 피해를 주고 방어 불능 1스택을 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Timely Suppression",
+    "zh-TW": "即時壓制",
+    "zh-CN": "即时压制",
+    "ja": "即時制圧",
+    "ko": "실시간 억제"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy starts charging up a skill, or when the controlled operator is attacked and falls below 40% HP.\nA powerful downward punch that deals Physical DMG to the enemy, while granting shields to self and another teammate (controlled operator prioritized).\nDEF can further increase Shield points.",
+    "zh-TW": "當敵人開始蓄力，或主控幹員受到攻擊後生命值低於40%可以發動。\n揮拳向前用力扣下，對敵人造成物理傷害，並使自身和另一名友方幹員（主控幹員優先）獲得護盾。\n防禦力可以額外提高護盾值。",
+    "zh-CN": "当敌人开始蓄力，或主控干员受到攻击后生命值低于40%可以发动。\n挥拳向前用力扣下，对敌人造成物理伤害，并使自身和另一名友方干员（主控干员优先）获得护盾。\n防御力可以额外提高护盾值。",
+    "ja": "敵がチャージを開始するか、操作中のオペレーターが攻撃を受けてHPが40%未満になると発動可能。\n拳で前方を強く叩きつけ、敵に物理ダメージを与える。同時に、自身と味方オペレーター1人（操作中のオペレーターを優先）にシールドを付与する。\nシールドの最大値は防御力に応じて追加でアップする。",
+    "ko": "적이 차지를 시작했거나, 메인 컨트롤 오퍼레이터가 공격받아 생명력이 40% 미만일 때 사용할 수 있습니다.\n주먹을 전방으로 힘껏 내려꽂아, 적에게 물리 피해를 주며, 자신과 다른 아군 오퍼레이터(메인 컨트롤 오퍼레이터 우선)에게 보호를 부여합니다.\n방어력은 보호 수치를 추가로 증가시킵니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Textbook Assault",
+    "zh-TW": "教科書式猛攻",
+    "zh-CN": "教科书式猛攻",
+    "ja": "教科書通り",
+    "ko": "교과서적인 맹공"
+   },
+   "text": {
+    "en": "Swings the greatsword to perform 2 consecutive slashes to deal Physical DMG and apply Weakness, followed by a powerful downward slam that deals massive Physical DMG and applies Knock Down to all enemies within the area of effect.",
+    "zh-TW": "揮動大劍快速向前斬擊2次，造成物理傷害並施加虛弱。最後向下猛砸，對目標範圍內的所有敵人造成大量物理傷害並造成倒地。",
+    "zh-CN": "挥动大剑快速向前斩击2次，造成物理伤害并施加虚弱。最后向下猛砸，对目标范围内的所有敌人造成大量物理伤害并造成倒地。",
+    "ja": "大剣を振り回して前方へすばやく斬撃を2回放ち、敵に物理ダメージを与え、弱体化を付与する。さらに、地面を強く叩き付け、範囲内のすべての敵に高い物理ダメージと転倒効果を与える。",
+    "ko": "대검을 휘둘러 전방으로 빠르게 2단 베기를 사용하여, 물리 피해를 주고, 허약 상태를 부여합니다. 마지막에 아래로 힘차게 내리찍어 목표 범위 내의 모든 적에게 대량의 물리 피해와 넘어뜨리기 피해를 줍니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Resilient Defense",
+    "zh-TW": "堅韌防線",
+    "zh-CN": "坚韧防线",
+    "ja": "不屈の防壁",
+    "ko": "강인한 방어선"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "For every 10 Will, DEF +1.0.",
+      "zh-TW": "每有10點意志，防禦力+1.0。",
+      "zh-CN": "每有10点意志，防御力+1.0。",
+      "ja": "意志10につき防御力+1.0",
+      "ko": "의지 10포인트마다 방어력 +1.0"
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "For every 10 Will, DEF +1.2.",
+      "zh-TW": "每有10點意志，防禦力+1.2。",
+      "zh-CN": "每有10点意志，防御力+1.2。",
+      "ja": "意志10につき防御力+1.2",
+      "ko": "의지 10포인트마다 방어력 +1.2"
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Comprehensive Mindset",
+    "zh-TW": "全局思維",
+    "zh-CN": "全局思维",
+    "ja": "俯瞰思考",
+    "ko": "전장을 꿰뚫는 통찰"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Ultimate Textbook Assault improved: Final hit creates 2 shockwave(s), each dealing 30% ATK of Physical DMG.",
+      "zh-TW": "終結技教科書式猛攻的最後一擊產生2次衝擊波，每次衝擊波造成攻擊力30%的物理傷害。",
+      "zh-CN": "终结技教科书式猛攻的最后一击产生2次冲击波，每次冲击波造成攻击力30%的物理伤害。",
+      "ja": "必殺技「教科書通り」の最後の一撃は衝撃波を2回発生させ、1回ごとに攻撃力30%分の物理ダメージを与える",
+      "ko": "궁극기 교과서적인 맹공의 마지막 공격이 2회의 충격파를 발동하며, 충격파마다 공격력 30%의 물리 피해를 줍니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Ultimate Textbook Assault improved: Final hit creates 3 shockwave(s), each dealing 45% ATK of Physical DMG.",
+      "zh-TW": "終結技教科書式猛攻的最後一擊產生3次衝擊波，每次衝擊波造成攻擊力45%的物理傷害。",
+      "zh-CN": "终结技教科书式猛攻的最后一击产生3次冲击波，每次冲击波造成攻击力45%的物理伤害。",
+      "ja": "必殺技「教科書通り」の最後の一撃は衝撃波を3回発生させ、1回ごとに攻撃力45%分の物理ダメージを与える",
+      "ko": "궁극기 교과서적인 맹공의 마지막 공격이 3회의 충격파를 발동하며, 충격파마다 공격력 45%의 물리 피해를 줍니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Multi-layered Readiness",
+    "zh-TW": "多重戰備",
+    "zh-CN": "多重战备",
+    "ja": "念のために準備",
+    "ko": "다중 전투준비"
+   },
+   "text": {
+    "en": "Battle skill Rigid Interdiction and ultimate Textbook Assault improved: After hitting the enemy, deals another strike that deals [300 + DEF×5.0] of Physical DMG.",
+    "zh-TW": "戰技剛性阻擊和終結技教科書式猛攻命中敵人後，額外造成一次[300+防禦力×5.0]的物理傷害。",
+    "zh-CN": "战技刚性阻击和终结技教科书式猛攻命中敌人后，额外造成一次[300+防御力×5.0]的物理伤害。",
+    "ja": "戦技「強制ブロック」または必殺技「教科書通り」が敵に命中すると、追加で[300+防御力×5.0]の物理ダメージを1回与える",
+    "ko": "배틀 스킬 강력한 저지와 궁극기 교과서적인 맹공이 적을 명중한 후, 추가로 [300+방어력×5.0]의 물리 피해를 줍니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Bonus Spec Training",
+    "zh-TW": "額外特訓",
+    "zh-CN": "额外特训",
+    "ja": "追加訓練",
+    "ko": "추가 특훈"
+   },
+   "text": {
+    "en": "DEF +20, Will +10.",
+    "zh-TW": "防禦力+20，意志+10。",
+    "zh-CN": "防御力+20，意志+10。",
+    "ja": "防御力+20、意志+10",
+    "ko": "방어력 +20, 의지 +10"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Unwavering Post",
+    "zh-TW": "不屈心錨",
+    "zh-CN": "不屈心锚",
+    "ja": "不屈の心",
+    "ko": "불굴의 심장"
+   },
+   "text": {
+    "en": "Combo skill Timely Suppression improved: Shield duration +5s.",
+    "zh-TW": "連攜技即時壓制提供的護盾持續時間+5秒。",
+    "zh-CN": "连携技即时压制提供的护盾持续时间+5秒。",
+    "ja": "連携技「即時制圧」によるシールドの持続時間+5秒",
+    "ko": "연계 스킬 실시간 억제가 제공하는 보호의 지속 시간 +5초"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Compensated Suffering",
+    "zh-TW": "苦難代償",
+    "zh-CN": "苦难代偿",
+    "ja": "苦難の代償",
+    "ko": "고난의 대가"
+   },
+   "text": {
+    "en": "Ultimate Textbook Assault improved: Ultimate Energy cost -10%.",
+    "zh-TW": "終結技教科書式猛攻所需的終結技能量-10%。",
+    "zh-CN": "终结技教科书式猛攻所需的终结技能量-10%。",
+    "ja": "必殺技「教科書通り」に必要な必殺チャージ-10%",
+    "ko": "궁극기 교과서적인 맹공의 사용에 필요한 궁극기 에너지 -10%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Choice Without Regrets",
+    "zh-TW": "無悔抉擇",
+    "zh-CN": "无悔抉择",
+    "ja": "悔いなき選択",
+    "ko": "후회 없는 선택"
+   },
+   "text": {
+    "en": "Battle skill Rigid Interdiction improved: Hitting an enemy while the shield is active returns 10 SP.",
+    "zh-TW": "卡契爾存在護盾時，戰技剛性阻擊成功命中敵人後返還10點技力。",
+    "zh-CN": "卡契尔存在护盾时，战技刚性阻击成功命中敌人后返还10点技力。",
+    "ja": "キャッチャーがシールド状態を維持している間、戦技「強制ブロック」が敵に命中すると、SPが10返還される",
+    "ko": "카치르가 보호를 보유 중일 때, 배틀 스킬 강력한 저지가 적에게 명중하면 스킬 게이지를 10포인트 반환합니다."
+   }
+  }
+ ]
+}

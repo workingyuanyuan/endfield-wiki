@@ -54,7 +54,11 @@ sources:
 | Voice, Korean | Song Ha-rim |
 | Operator File | [Zhuang Fangyi's file](/story/zhuang-fangyi/) |
 
-Zhuang Fangyi is the Viceroy of the Wuling Scientific Developmental District and Tianshi of the Novel Xiranite-based Materials Project, recommended by the HAS to research rifts at Endfield.
+> "If you never give up, you never really lose."\
+> Operator Zhuang Fangyi, serves as the Viceroy of the Wuling Scientific Developmental District, and also the Tianshi in charge of the Novel Xiranite-based Materials Project. Upon recommendation from the HAS, she joined Endfield Industries to conduct rift-related research.\
+> Zhuang Fangyi, a native of Hongshan, demonstrated extraordinary aptitude from an early age and was admitted to the Tianshi Bureau Academies before reaching adulthood with outstanding academic performance. She was later selected for the Xiranite Project due to her exceptional abilities, becoming the youngest member of the Wuling Science Station. Following a disaster that resulted in near-total loss of personnel at the Science Station, she, despite being the most junior member, was appointed to the position of Viceroy, assuming leadership responsibilities and bearing the weight of all Wuling.\
+> Appointed in a time of crisis, she quickly pulled herself together. In just a single decade, she not only built Wuling into a thriving city but also, through trial and error, grew into a dedicated and responsible leader. However, the disaster from a decade ago remains a sword hanging over everyone's heads, constantly reminding her that the peace and prosperity of Wuling City could vanish in an instant.\
+> "So long as we still stand, nothing is truly lost."
 
 ## How to obtain
 
@@ -83,12 +87,43 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Jolting Arts | Electric combo of up to 5 hits. While she is the controlled operator, her Final Strike deals 18 Stagger. |
-| Battle skill | Mantra of Sundering | Consumes the target's Electrification to boost damage and create Sunderblades equal to its Status Level +1 (max 3 per cast), or 1 without consuming Electrification if fewer than 3 exist. Nearby Sunderblades then unleash Thunder Strikes for Electric damage and bonus Ultimate Energy, with the final strike dealing 6 times damage. Costs 100 SP. |
-| Combo skill | Breath of Transformation | Trigger: a Final Strike or Finisher from the controlled operator hits an enemy with Electric Infliction. Deploys a Xiranblitz Array for Electric damage; against enemies with Electric Infliction, it consumes stacks to force Electrification and gain Ultimate Energy per stack. If Electrification is already active, its Status Level gains +1. Cooldown 18 s, 17 s at the highest skill level. |
-| Ultimate | Smiting Tempest | Enters Empyrean of Truth: basic attacks are enhanced and her actions are harder to interrupt. Mantra of Sundering gains damage and range, applies Electric Infliction on its last hit, and its first cast costs no SP or Electrification while creating 3 Sunderblades on a target. Breath of Transformation gains area effect, damage, and 4 times faster cooldown. Costs 240 Ultimate Energy. |
+| Basic attack | Jolting Arts | — |
+| Battle skill | Mantra of Sundering | 100 SP |
+| Combo skill | Breath of Transformation | Cooldown 18 s, 17 s at level 12 |
+| Ultimate | Smiting Tempest | 240 Ultimate Energy |
+
+### Jolting Arts
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Electric DMG. As the controlled operator, Final Strike also deals 18 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Electric DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Electric DMG and recovers some SP.
+
+### Mantra of Sundering
+
+> Consumes the target's Electrification to increase the DMG multiplier of this battle skill and create \[Status Level of Electrification consumed +1\] Sunderblades. If the battlefield has fewer than 3 Sunderblades, Mantra of Sundering can still create 1 Sunderblade, even if it does not consume any target's Electrification.\
+> Zhuang Fangyi then channels all Sunderblades nearby to successively unleash Thunder Strikes on the target, dealing Electric DMG and giving bonus Ultimate Energy, with the final Thunder Strike dealing 6 times the DMG.\
+> A single battle skill casting can only create a max of 3 Sunderblades.
+
+### Breath of Transformation
+
+> COMBO TRIGGER: When the controlled operator's Final Strike or Finisher hits an enemy with Electric Infliction.\
+> Zhuang Fangyi creates a Xiranblitz Array that attacks the enemy and deals Electric DMG. If the Array hits an enemy that has Electric Infliction stack(s), then it will consume the said Electric Infliction stack(s), forcibly apply Electrification, and give Ultimate Energy based on the number of stacks consumed.\
+> If Electrification is forcibly applied to an enemy that already has Electrification, then apply Status Level +1 to the enemy's Electrification.
+
+### Smiting Tempest
+
+> Transforms into the Empyrean of Truth that grants these enhancements:\
+> Zhuang Fangyi's basic attacks are enhanced and her actions are harder to interrupt;\
+> Battle skill Mantra of Sundering gains a higher DMG multiplier and an increased effect range, and the final Thunder Strike also applies Electric Infliction to the target hit.\
+> Combo skill Breath of Transformation gains a higher DMG multiplier, cooldown becomes 4 times faster, and effects are applied to enemies within a small area.\
+> The first casting of the battle skill Mantra of Sundering does not consume SP nor Electrification, and if a target is available, the battle skill is guaranteed to create 3 Sunderblades even if the target has no Electrification.
 
 ## Skill values
 
@@ -123,20 +158,41 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Force of Nature | Promotion I; upgraded at Promotion II | Casting Mantra of Sundering grants her 9% Electric Amp (18% at Promotion II) for 5 s, and each Thunder Strike hit adds +1% (+2% at Promotion II). Recasting Mantra of Sundering resets this Electric Amp. |
-| Ordained by Heaven | Promotion II; upgraded at Promotion III | Has a 9% chance to be immune to incoming damage, plus 1% per nearby Sunderblade. Triggering this immunity also restores 9% Max HP (18% at Promotion III), at most once every 99 s. |
+### Force of Nature
+
+**Promotion I**
+
+> Battle skill Mantra of Sundering improved: Casting the battle skill grants Zhuang Fangyi 9% Electric Amp for 5s.\
+> Scoring hits with the battle skill's Thunder Strike increases this effect by +1%.\
+> Every casting of the battle skill Mantra of Sundering again resets this Electric Amp effect.
+
+**Promotion II**
+
+> Battle skill Mantra of Sundering improved: Casting the battle skill grants Zhuang Fangyi 18% Electric Amp for 5s.\
+> Scoring hits with the battle skill's Thunder Strike increases this effect by +2%.\
+> Every casting of the battle skill Mantra of Sundering again resets this Electric Amp effect.
+
+### Ordained by Heaven
+
+**Promotion II**
+
+> Gains a 9% chance of immunity against DMG taken, with each Sunderblade nearby increasing this chance by +1%.\
+> After DMG Immunity is triggered, Zhuang Fangyi is also restored for 9% Max HP. The HP restoration effect can only trigger once every 99s.
+
+**Promotion III**
+
+> Gains a 9% chance of immunity against DMG taken, with each Sunderblade nearby increasing this chance by +1%.\
+> After DMG Immunity is triggered, Zhuang Fangyi is also restored for 18% Max HP. The HP restoration effect can only trigger once every 99s.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Four Symbols of Harmony | Mantra of Sundering deals 1.15 times its damage, and the first cast after entering battle creates 1 extra Sunderblade that can exceed the single-cast creation limit |
-| 2 | Acuity of Fine Details | Will +20, Battle Skill damage +15% |
-| 3 | Sense and Response | Mantra of Sundering returns 10 SP after consuming Electrification, and Sunderblade duration increases by 10 s |
-| 4 | Absolute Composure | Smiting Tempest costs 15% less Ultimate Energy |
-| 5 | Storm of Transformation | While in Empyrean of Truth, her damage ignores 15 Electric Resistance |
+| 1 | Four Symbols of Harmony | Battle skill Mantra of Sundering improved: DMG multiplier is increased to 1.15 times the original. After entering battle, Zhuang Fangyi's first battle skill casting also creates 1 more Sunderblade. The additional Sunderblade created by this skill can exceed the Sunderblade creation limit from a single casting of the battle skill. |
+| 2 | Acuity of Fine Details | Will +20, Battle Skill DMG Dealt +15%. |
+| 3 | Sense and Response | Battle skill Mantra of Sundering improved: After consuming Electrification, the battle skill returns 10 SP. Sunderblade duration +10s. |
+| 4 | Absolute Composure | Ultimate Smiting Tempest improved: Ultimate Energy cost -15%. |
+| 5 | Storm of Transformation | During the Empyrean of Truth transformation, DMG Dealt by Zhuang Fangyi ignores 15 of the enemy's Electric Resistance. |
 
 ## Base skills
 
@@ -144,10 +200,10 @@ Base skills work while Zhuang Fangyi is assigned to a room of the Dijiang. Each 
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Viceroy Experience β | MFG Cabin | Promotion I | Mood drop of the operators in this room −14% |
-| Viceroy Experience γ | MFG Cabin | Promotion III | Mood drop of the operators in this room −18% |
-| Tianshi Chi Meditation β | MFG Cabin | Promotion II | Operator EXP materials made 20% faster |
-| Tianshi Chi Meditation γ | MFG Cabin | Promotion IV | Operator EXP materials made 30% faster |
+| Viceroy Experience β | MFG Cabin | Promotion I | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14% |
+| Viceroy Experience γ | MFG Cabin | Promotion III | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 18% |
+| Tianshi Chi Meditation β | MFG Cabin | Promotion II | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20% |
+| Tianshi Chi Meditation γ | MFG Cabin | Promotion IV | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30% |
 
 ## Base stats
 

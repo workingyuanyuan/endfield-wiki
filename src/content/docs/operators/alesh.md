@@ -47,7 +47,8 @@ sources:
 | Voice, Korean | Im Chae-bin |
 | Operator File | [Alesh's file](/story/alesh/) |
 
-Alesh is a fin seller and former frontier street survivor recommended by a UWST Security Bureau liaison; he handles frontier communications and cover for Endfield and teaches its angling class.
+> "You can always retrieve a cast lure when angling. But in real life, there's no easy way out once you're in hot water."  Introduced by a liaison from the UWST Security Bureau, Alesh joined Endfield Industries to take on communications and cover duties in the frontier. When he's not on the job, he doubles as the instructor for Endfield's angling class.  He isn't keen on talking about his "boring" past. All that's known is that he clawed his way through the frontier's underclass, enduring strife and betrayal at every turn. In the end, he left the streets behind with one blind eye and a body worn by exhaustion.  By trade, Alesh is a fin seller, spending his days absorbed in angling. But beneath that laid-back surface lie sharp instincts and keen judgment. In a pinch, his eyes cut like the tip of a hook, and he has got as many tricks for handling trouble as he does for reeling in a catch. On missions, he wears that same easy smile, pulling off victories where no one expects them.\
+> "Livin' the happy life is important. True legit wisdom from an old boy, Endmin."
 
 ## How to obtain
 
@@ -68,12 +69,36 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Basic Rod Casting | Physical combo of up to 5 hits. His Final Strike deals 17 Stagger while he is the controlled operator. |
-| Battle skill | Unconventional Lure | He hooks and slams a block of ice for Physical damage. Hitting an enemy with Cryo Infliction consumes all its stacks to force Solidification and recover SP based on stacks spent, triggering at most 1 time per cast. Costs 100 SP. |
-| Combo skill | Auger Angling | Trigger: a nearby target's Arts Reaction or Originium Crystals are consumed. He opens an angling hole under the enemy for Physical damage and SP recovery, with a chance to hook a Rare Fin for much higher damage and extra SP. Cooldown 9 s, 8 s at the highest skill level. |
-| Ultimate | One Monster Catch! | He hooks and slams an enormous fin over a wide frontal area, dealing Cryo damage and applying Cryo Infliction. Hits recover SP, with extra SP gained for each enemy defeated. Costs 100 Ultimate Energy. |
+| Basic attack | Basic Rod Casting | — |
+| Battle skill | Unconventional Lure | 100 SP |
+| Combo skill | Auger Angling | Cooldown 9 s, 8 s at level 12 |
+| Ultimate | One Monster Catch! | 100 Ultimate Energy |
+
+### Basic Rod Casting
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 17 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.
+
+### Unconventional Lure
+
+> Hooks a block of ice and slams it to deal Physical DMG to the enemy target. When hitting a target with Cryo Infliction, Alesh consumes all of the target's Cryo Infliction stacks, forcibly applies Solidification to the target, and recovers some SP based on the number of stacks consumed. This SP recovery effect can only trigger 1 time, even if the skill hits multiple enemies.
+
+### Auger Angling
+
+> COMBO TRIGGER: When the Arts Reaction or Originium Crystals of a nearby target is consumed.\
+> Opens an angling hole beneath the enemy that deals Physical DMG and recovers some SP. The skill has a chance to hook a Rare Fin that greatly increases the DMG dealt and recovers some more SP.
+
+### One Monster Catch!
+
+> Alesh hooks a fin of unbelievable size and slams it to deal Cryo DMG and apply Cryo Infliction to enemies in a large area of effect in front of him. He recovers some SP on hit, with additional SP gained for each target defeated.
 
 ## Skill values
 
@@ -109,20 +134,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Flash-frozen for Freshness | Promotion I; upgraded at Promotion II | When a nearby enemy gains Solidification or Originium Crystals, he gains 3 Ultimate Energy, plus 6 more if he applied the Solidification (4 and 8 at Promotion II), at most once every 3 s. |
-| Veteran Angler | Promotion II; upgraded at Promotion III | Auger Angling's chance to catch a Rare Fin rises by +0.2% per 10 Intellect (+0.5% at Promotion III), up to +30%. |
+### Flash-frozen for Freshness
+
+**Promotion I**
+
+> After Solidification or Originium Crystals are applied to a nearby enemy, Alesh gains 3 Ultimate Energy. If the said Solidification is applied by Alesh, he gains an additional 6 Ultimate Energy. This effect can only trigger once every 3s.
+
+**Promotion II**
+
+> After Solidification or Originium Crystals are applied to a nearby enemy, Alesh gains 4 Ultimate Energy. If the said Solidification is applied by Alesh, he gains an additional 8 Ultimate Energy. This effect can only trigger once every 3s.
+
+### Veteran Angler
+
+**Promotion II**
+
+> Combo skill Auger Angling improved: Every 10 Intellect grants Rare Fin catching chance +0.2% (max: +30%).
+
+**Promotion III**
+
+> Combo skill Auger Angling improved: Every 10 Intellect grants Rare Fin catching chance +0.5% (max: +30%).
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Super Salty Comeback | Unconventional Lure recovers an extra 10 SP when its SP recovery triggers |
-| 2 | Calm and Tranquil | Strength +15 and Intellect +15 |
-| 3 | May the Willing Bite | Catching a Rare Fin with Auger Angling grants the whole team +15% ATK for 10 s; this does not stack |
-| 4 | Insane Angling Set | One Monster Catch! costs 15% less Ultimate Energy |
-| 5 | Mega Lunker Rumors | One Monster Catch! deals 1.5 times its damage against targets below 50% HP |
+| 1 | Super Salty Comeback | Battle skill Unconventional Lure improved: SP Recovery grants an additional 10 SP. |
+| 2 | Calm and Tranquil | Strength +15, Intellect +15. |
+| 3 | May the Willing Bite | Combo skill Auger Angling improved: After catching a Rare Fin, the entire team gains ATK +15% for 10s. This effect cannot stack. |
+| 4 | Insane Angling Set | Ultimate One Monster Catch! improved: Ultimate Energy cost -15%. |
+| 5 | Mega Lunker Rumors | Ultimate One Monster Catch! improved: Hitting a target below 50% HP increases the DMG Multiplier to 1.5 times the original. |
 
 ## Base skills
 
@@ -130,10 +170,10 @@ Base skills work while Alesh is assigned to a room of the Dijiang. Each has two 
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Casual Angling α | Control Nexus | Promotion I | Mood recovery of all operators +8% |
-| Casual Angling β | Control Nexus | Promotion III | Mood recovery of all operators +12% |
-| Anglers' Intel Network α | Reception Room | Promotion II | Slightly higher chance of Clue 1 (UWST); does not stack with another skill of this kind |
-| Anglers' Intel Network β | Reception Room | Promotion IV | Higher chance of Clue 1 (UWST); does not stack with another skill of this kind |
+| Casual Angling α | Control Nexus | Promotion I | Assign to Control Nexus to grant all operators' Mood Regen +8% |
+| Casual Angling β | Control Nexus | Promotion III | Assign to Control Nexus to grant all operators' Mood Regen +12% |
+| Anglers' Intel Network α | Reception Room | Promotion II | Assign to Reception Room to grant operators a small Clue 1 Rate-UP: UWST (activates upon assignment; effects of the same type cannot stack) |
+| Anglers' Intel Network β | Reception Room | Promotion IV | Assign to Reception Room to grant operators Clue 1 Rate-UP: UWST (activates upon assignment; effects of the same type cannot stack) |
 
 ## Base stats
 

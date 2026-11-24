@@ -24,6 +24,7 @@
 //     systems, AIC); the page notes link the Markdown twin, llms.txt and index.json; no text in <main>
 //     is about the site or the page (scripts/check-page-text.mjs).
 // 12. Story pages show every line of records/story/ unchanged.
+// 13. Operator pages and the gear page show every line of the game's descriptions unchanged.
 // Being found: title, description, canonical, hreflang and sitemap (scripts/check-found.mjs).
 
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
@@ -408,6 +409,41 @@ for (const { id } of pages.filter((p) => /^(?:[a-z-]+\/)?story\/(?!index$)[^/]+$
 	}
 	for (const t of texts) {
 		for (const line of t.split('\n').map(normalize).filter(Boolean)) {
+			if (!text.includes(line)) fail(id, `game text not shown as given: ${line.slice(0, 60)}`);
+		}
+	}
+}
+
+// 13. Operator pages and the gear page show the game's descriptions and the official
+//     introductions as given (pipeline/gametext.py): every line of records/gametext/, of the
+//     base skills and of the gear set effects appears unchanged in the page's text.
+const gameTexts = (bare) => {
+	const out = [];
+	const op = /^operators\/(?!index$)([a-z-]+)$/.exec(bare);
+	if (op) {
+		const g = JSON.parse(readFileSync(new URL(`../records/gametext/${op[1]}.json`, import.meta.url), 'utf8'));
+		out.push(g.intro);
+		for (const s of g.skills) out.push(...[s.text, ...s.conditions.map((c) => c.text)].filter(Boolean));
+		for (const t of g.talents) out.push(...t.levels.map((l) => l.text));
+		out.push(...g.potentials.map((p) => p.text));
+		const base = JSON.parse(readFileSync(new URL('../records/base-skills.json', import.meta.url), 'utf8'));
+		for (const sk of base.operators[op[1]] || []) out.push(...sk.levels.map((l) => l.text));
+	}
+	if (bare === 'systems/gear') {
+		out.push(...JSON.parse(readFileSync(new URL('../records/gear-sets.json', import.meta.url), 'utf8')).map((s) => s.effect));
+	}
+	return out;
+};
+for (const { id } of pages) {
+	const texts = gameTexts(bareId(id));
+	if (!texts.length) continue;
+	await closeWindows();
+	const lang = localeOf(id).lang;
+	const doc = jsdom(read(htmlPath(id).slice(1) + 'index.html')).window.document;
+	const text = normalize(doc.querySelector('main').textContent);
+	for (const t of texts) {
+		if (!t[lang]) fail(id, `game text missing in ${lang}`);
+		for (const line of (t[lang] || '').split('\n').map(normalize).filter(Boolean)) {
 			if (!text.includes(line)) fail(id, `game text not shown as given: ${line.slice(0, 60)}`);
 		}
 	}

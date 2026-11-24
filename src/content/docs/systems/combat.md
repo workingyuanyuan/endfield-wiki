@@ -113,7 +113,7 @@ Physical Statuses, Arts Reactions and Arts Bursts that operators trigger use the
 | Nature | Arts | 5 |
 | Æther | Æther | 0 |
 
-Each of the 34 operators in game data 1.6 has Physical or one of the four Arts elements as its element; none has Æther. The operators of each element are listed under Operators by element.
+Each of the 34 operators in game data 1.6 has Physical or one of the four Arts elements as its element; none has Æther.
 
 ## Arts Inflictions, Arts Bursts and Arts Reactions
 
@@ -259,4 +259,4 @@ States that belong to one operator:
 | DMG Over Time | 持續傷害 | 持续伤害 |
 | Fixed DMG | 固定傷害 | 固定伤害 |
 
-Link (連擊) is the team damage buff above, not the combo skill (連攜技).
+Link (連擊) is a team damage buff, not the combo skill (連攜技).

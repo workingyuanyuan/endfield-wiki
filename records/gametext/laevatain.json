@@ -1,0 +1,247 @@
+{
+ "slug": "laevatain",
+ "gameId": "chr_0016_laevat",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Let that twilight burn!\"  Laevatain is a Rhodes Island operator who joined Endfield at the Endministrator's direct recommendation. Under the framework agreement between the two companies, she serves as an operator directly under the Endministrator's command.  Before joining Endfield Industries, Laevatain roamed the world alone, pursuing a goal she could call her own. Because of that journey, and her formidable skill in solo combat, people often mistake her for \"someone you can't talk to.\" In truth, the opposite is closer to reality. It's only that her earnest, forthright nature sometimes comes across too strongly, giving rise to misunderstanding.  At times, though, she speaks in ways that confound others, often circling back to the subject of \"memory,\" as if she were purposefully trying to separate herself from who she is.  She often wields flames, yet craves ice cream just as much. To her, maybe that contradiction feels perfectly natural.\n\"Try getting closer to me if you're still feeling cold.\"",
+  "zh-TW": "「火焰，照亮黃昏！」  萊萬汀來自羅德島，在該公司與終末地工業的協議架構範圍內，透過管理員的直接引薦，以管理員直屬幹員的身分為終末地工業提供服務。  在加入終末地工業之前，萊萬汀曾獨自遊歷，追尋一個屬於她自己的目標。由於這樣的經歷，加之獨立作戰能力非常強大，她經常被誤會成「不能溝通的人」——當然，這與事實相去甚遠。只是因為她真誠、坦率的性格有時的確過於外顯，導致一些人對她產生了誤會。  不過，她有時候會說一些令他人費解的事情，例如經常掛在嘴邊的那些關於「記憶」的話題，就好像她刻意在與「自己」劃清界限一樣。  她經常揮舞著火焰，又非常喜歡冰淇淋——對她而言，這也許是一件自然而然的事吧。    「如果還覺得冷，可以往我這邊靠。」",
+  "zh-CN": "“火焰，照亮黄昏！” 莱万汀来自罗德岛，在该公司与终末地工业的框架协议范围内，通过管理员的直接引荐，以管理员直属干员的身份为终末地工业提供服务。 在加入终末地工业之前，莱万汀曾独自游历，追寻一个属于她自己的目标。由于这样的经历，加之独立作战能力十分强大，她经常被误会成“不能沟通的人”——当然，这与事实相去甚远。只是因为她真诚、坦率的性格有时确实过于外显，导致一些人对她产生了误会。 不过，她有时候会说一些令他人费解的事情，比如经常挂在嘴边的那些关于“记忆”的话题，就好像她刻意在与“自己”划清界限一样。 她经常挥舞着火焰，又十分喜欢冰淇淋——于她而言，这也许是一件自然而然的事吧。\n“如果还觉得冷，可以往我这边靠。”",
+  "ja": "「炎よ、黄昏を照らせ！」 ロドス・アイランドに所属し、管理人が直接推薦したことにより、現在はエンドフィールドにおいて、契約内容の範囲内にて管理人直属オペレーターとして活動している。 エンドフィールドに加入する以前は1人で各地を旅しながら、自身の目標を探し求めていた。そのような経歴に加え、単独での戦闘能力も非常に高いことから、「話が通じない相手」だと誤解されがちである。もちろん、これはまったくの事実無根だ。彼女の実直で裏表のない性格が目立ちすぎることがあり、一部の人たちに誤解を与えてしまっているにすぎない。 しかし、彼女はまるで「自分」と意図的に一線を画しているかのように「記憶」に関する話題をよく口にするなど、周囲が理解に苦しむ言動をとることもある。 よく炎を操る一方で、アイスクリームが大好物でもある。これは彼女にとって自然なことなのだろう。\n「まだ寒いなら、こっちに来るといい。」",
+  "ko": "\"황혼을 비춰라!\"  레바테인은 로도스 아일랜드 소속으로, 로도스 아일랜드와 엔드필드 공업 간의 협력에 관한 협약에 따라 관리자의 직접 추천을 받아 관리자 직속 오퍼레이터로 엔드필드 공업에 협력하고 있다.  엔드필드 공업에 합류하기 전, 레바테인은 홀로 여행을 다니며 자신만의 목표를 찾아다녔다. 이러한 경험과 강력한 단독 전투 능력 때문에, 사람들로부터 종종 '소통이 불가능한 사람'으로 오해를 사기도 했다. 물론 이는 사실과는 거리가 멀다. 다만 그녀의 솔직하고 꾸밈없는 성격이 때로는 지나치게 직접적으로 드러나 그런 인상이 생겨난 것뿐이다.  또한 그녀는 가끔 이해하기 어려운 말을 하곤 한다. 이를테면 자주 입에 올리는 '기억'에 관한 이야기들인데, 마치 의도적으로 '자신'과 선을 긋는 듯한 태도를 보이기도 한다.  불꽃을 휘두르며 싸우지만, 동시에 아이스크림을 좋아하는 그녀에게 그것은 어쩌면 지극히 자연스러운 일일지도 모른다.    \"아직도 추우면 나한테 가까이 오는 것 정도는 허락할게.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Flaming Cinders",
+    "zh-TW": "燃燼",
+    "zh-CN": "燃烬",
+    "ja": "残り火",
+    "ko": "재"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Heat DMG. As the controlled operator, Final Strike also deals 18 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Heat DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Heat DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成灼熱傷害。作為主控幹員時，重擊會造成18點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成灼熱傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量灼熱傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成灼热伤害。作为主控干员时，重击会造成18点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成灼热伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量灼热伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に灼熱ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値18を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に灼熱ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い灼熱ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 열기 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 18포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 열기 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 열기 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Smouldering Fire",
+    "zh-TW": "焚滅",
+    "zh-CN": "焚灭",
+    "ja": "焼滅",
+    "ko": "불타오르는 화염"
+   },
+   "text": {
+    "en": "Summons a Magma Fragment to continuously attack enemies and deal Heat DMG. Hitting the enemy grants 1 stack of Melting Flame.\nIf Laevatain already has 4 stack(s) of Melting Flame when casting the skill, then consume all the stacks and perform 1 additional attack that deals Heat DMG and forcibly trigger temporary Combustion to all enemies in a large area.\nWhen the additional attack hits the enemy, restore additional Ultimate Energy.\nBattle skill effects are enhanced while Laevatain's ultimate is active.",
+    "zh-TW": "召喚熔核碎片持續攻擊前方敵人，造成灼熱傷害。如果命中敵人，會獲得1層熔火。\n如果施放時已擁有4層熔火，則最後會消耗所有層數，對大範圍內敵人追加1次攻擊，造成灼熱傷害並強制施加短暫的燃燒。\n追加攻擊命中敵人會額外獲得終結技能量。\n終結技期間，戰技效果增強。",
+    "zh-CN": "召唤熔核碎片持续攻击前方敌人，造成灼热伤害。如果命中敌人，会获得1层熔火。\n如果施放时已拥有4层熔火，则最后会消耗所有层数，对大范围内敌人追加1次攻击，造成灼热伤害并强制施加短暂的燃烧。\n追加攻击命中敌人会额外获得终结技能量。\n终结技期间，战技效果增强。",
+    "ja": "巨焔の欠片を召喚して前方の敵を攻撃し、灼熱ダメージを与える。敵に命中すると劫火を1段階獲得する。\n発動時、劫火が4段階に達している場合、すべて消費して広範囲の敵に追加で1回攻撃する。灼熱ダメージを与え、強制的に短時間燃焼状態にする。\n追加攻撃が敵に命中すると、さらに必殺チャージを回復する。\n必殺技発動中、戦技の効果が強化される。",
+    "ko": "몰튼 코어 조각을 소환해 지속적으로 전방의 적을 공격합니다. 열기 피해를 주며, 적을 명중하면 녹아내린 불꽃 1스택을 획득합니다.\n이미 녹아내린 불꽃 4스택이 쌓였을 경우, 마지막에 모든 스택 수치를 소모해 넓은 범위 내의 적에게 추가로 1회 공격하며, 열기 피해를 주고, 짧은 강제 연소 상태를 부여합니다.\n추가 공격이 적에게 명중했다면 추가로 궁극기 에너지를 획득합니다.\n궁극기 사용 중에는 배틀 스킬의 효과가 강화됩니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Seethe",
+    "zh-TW": "沸騰",
+    "zh-CN": "沸腾",
+    "ja": "烈火",
+    "ko": "열화"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy suffers Combustion or Corrosion.\nFire erupts beneath the feet of any enemy with Combustion or Corrosion, dealing Heat DMG to them.\nIf the skill hits the enemy, Laevatain gains 1 stack of Melting Flame and further gains Ultimate Energy per enemy hit.",
+    "zh-TW": "當有敵人進入燃燒或腐蝕狀態時可以發動。\n讓所有處於燃燒或腐蝕狀態的敵人腳下噴出火焰，對其造成灼熱傷害。\n如果命中敵人，會獲得1層熔火。每命中1個敵人，還會額外獲得終結技能量。",
+    "zh-CN": "当有敌人进入燃烧或腐蚀状态时可以发动。\n让所有处于燃烧或腐蚀状态的敌人脚下喷出火焰，对其造成灼热伤害。\n如果命中敌人，会获得1层熔火。每命中1个敌人，还会额外获得终结技能量。",
+    "ja": "敵が燃焼または腐食状態になったときに発動可能。\n燃焼または腐食状態の敵の足元から炎を噴き上げ、灼熱ダメージを与える。\n敵に命中すると、劫火を1回獲得する。命中した敵1体につき、追加で必殺チャージを回復する。",
+    "ko": "적이 연소 상태거나, 부식 상태일 때 사용할 수 있습니다.\n모든 연소 상태 혹은 부식 상태의 적의 발밑에서 불꽃이 솟아오르게 만들고, 대상에게 열기 피해를 줍니다.\n적을 명중하면 1스택의 녹아내린 불꽃을 획득합니다. 적을 명중할 때마다 추가로 궁극기 에너지를 획득합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Twilight",
+    "zh-TW": "黃昏",
+    "zh-CN": "黄昏",
+    "ja": "ラグナロク",
+    "ko": "황혼"
+   },
+   "text": {
+    "en": "Laevatain summons her Sviga Lævi and becomes the controlled operator.\nFor a certain duration, her basic attacks (BATK) are enhanced and the Sviga Lævi strikes together with Laevatain, with each attack dealing Heat DMG. BATK sequence 3 also applies Heat Infliction.\nCasting the battle skill, Smouldering Fire, or the combo skill, Seethe, does not shorten the duration of the ultimate, Twilight.",
+    "zh-TW": "召喚烈焰魔劍並切換為主控角色。\n一段時間內，普通攻擊得到強化，烈焰魔劍會協同萊萬汀發動攻擊，每次攻擊造成灼熱傷害。此外，普通攻擊第3段會施加灼熱附著。\n施放戰技焚滅或連攜技沸騰期間，終結技黃昏的持續時間不會減少。",
+    "zh-CN": "召唤烈焰魔剑并切换为主控角色。\n一段时间内，普通攻击得到强化，烈焰魔剑会协同莱万汀发动攻击，每次攻击造成灼热伤害。此外，普通攻击第3段会施加灼热附着。\n施放战技焚灭或连携技沸腾期间，终结技黄昏的持续时间不会减少。",
+    "ja": "烈火の魔剣を召喚し、自身が操作中のオペレーターへと切り替わる。\n一定時間、通常攻撃が強化される。烈火の魔剣はレーヴァテインと共に攻撃し、灼熱ダメージを与える。さらに、通常攻撃の3段目は敵に灼熱付着を付与する。\n戦技「焼滅」または連携技「烈火」の発動中、必殺技「ラグナロク」の持続時間は減少しない。",
+    "ko": "열화의 마검을 소환하고 메인 컨트롤 오퍼레이터로 전환합니다.\n일정 시간 동안, 일반 공격이 강화되며 열화의 마검이 레바테인과 함께 적을 공격합니다. 모든 공격이 열기 피해를 주며, 3단계 일반 공격은 열기 부착 상태를 부여합니다.\n배틀 스킬 불타오르는 화염 또는 연계 스킬 열화를 사용하는 중에는 궁극기 황혼의 지속 시간이 감소하지 않습니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Scorching Heart",
+    "zh-TW": "灼心",
+    "zh-CN": "灼心",
+    "ja": "灼熱の心",
+    "ko": "불꽃의 심장"
+   },
+   "levels": [
+    {
+     "promotion": 0,
+     "text": {
+      "en": "After the controlled operator's Final Strike or Finisher hits the enemy, Laevatain absorbs Heat Infliction from nearby enemies.\nEvery stack of Heat Infliction absorbed gives Laevatain 1 stack of Melting Flame (max stacks: 4).\nAfter reaching 4 stacks, DMG dealt by Laevatain ignores 10 Heat Resistance of the enemy for 20s.\nLaevatain also absorbs Heat Infliction from enemies defeated nearby.",
+      "zh-TW": "主控幹員重擊或處決命中後，萊萬汀會吸收周圍敵人的灼熱附著。\n每吸收一層灼熱附著，自身獲得一層熔火，最多疊加4層。\n達到4層後，萊萬汀造成的傷害無視敵人10點灼熱抗性，持續20秒。\n附近敵人被擊敗時，身上的灼熱附著也會被吸收。",
+      "zh-CN": "主控干员重击或处决命中后，莱万汀会吸收周围敌人的灼热附着。\n每吸收一层灼热附着，自身获得一层熔火，最多叠加4层。\n达到4层后，莱万汀造成的伤害无视敌人10点灼热抗性，持续20秒。\n附近敌人被击败时，身上的灼热附着也会被吸收。",
+      "ja": "操作中のオペレーターの重攻撃または終撃が敵に命中すると、レーヴァテインは周囲の敵から灼熱付着を吸収する\n吸収した灼熱付着1段階につき、劫火を1段階獲得する（最大4段階）\n4段階に到達すると、レーヴァテインは20秒間敵の灼熱耐性を10無視してダメージを与える\n敵が近くで倒されるとき、その灼熱付着も吸収する",
+      "ko": "메인 컨트롤 오퍼레이터의 강력한 일격이나 처형이 명중한 후, 레바테인이 주변 적의 열기 부착을 흡수합니다.\n열기 부착을 1스택 흡수할 때마다 자신은 녹아내린 불꽃 1스택을 획득하며, 해당 효과는 최대 4스택까지 중첩됩니다.\n4스택까지 중첩하면 레바테인이 주는 피해가 적의 열기 저항 10포인트를 무시하며, 해당 효과는 20초 동안 지속됩니다.\n주변의 적이 처치될 때, 열기 부착도 함께 흡수됩니다."
+     }
+    },
+    {
+     "promotion": 1,
+     "text": {
+      "en": "After the controlled operator's Final Strike or Finisher hits the enemy, Laevatain absorbs Heat Infliction from nearby enemies.\nEvery stack of Heat Infliction absorbed gives Laevatain 1 stack of Melting Flame (max stacks: 4).\nAfter reaching 4 stacks, DMG dealt by Laevatain ignores 15 Heat Resistance of the enemy for 20s.\nLaevatain also absorbs Heat Infliction from enemies defeated nearby.",
+      "zh-TW": "主控幹員重擊或處決命中後，萊萬汀會吸收周圍敵人的灼熱附著。\n每吸收一層灼熱附著，自身獲得一層熔火，最多疊加4層。\n達到4層後，萊萬汀造成的傷害無視敵人15點灼熱抗性，持續20秒。\n附近敵人被擊敗時，身上的灼熱附著也會被吸收。",
+      "zh-CN": "主控干员重击或处决命中后，莱万汀会吸收周围敌人的灼热附着。\n每吸收一层灼热附着，自身获得一层熔火，最多叠加4层。\n达到4层后，莱万汀造成的伤害无视敌人15点灼热抗性，持续20秒。\n附近敌人被击败时，身上的灼热附着也会被吸收。",
+      "ja": "操作中のオペレーターの重攻撃または終撃が敵に命中すると、レーヴァテインは周囲の敵から灼熱付着を吸収する\n吸収した灼熱付着1段階につき、劫火を1段階獲得する（最大4段階）\n4段階に到達すると、レーヴァテインは20秒間敵の灼熱耐性を15無視してダメージを与える\n敵が近くで倒されるとき、その灼熱付着も吸収する",
+      "ko": "메인 컨트롤 오퍼레이터의 강력한 일격이나 처형이 명중한 후, 레바테인이 주변 적의 열기 부착을 흡수합니다.\n열기 부착을 1스택 흡수할 때마다 자신은 녹아내린 불꽃 1스택을 획득하며, 해당 효과는 최대 4스택까지 중첩됩니다.\n4스택까지 중첩하면 레바테인이 주는 피해가 적의 열기 저항 15포인트를 무시하며, 해당 효과는 20초 동안 지속됩니다.\n주변의 적이 처치될 때, 열기 부착도 함께 흡수됩니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "After the controlled operator's Final Strike or Finisher hits the enemy, Laevatain absorbs Heat Infliction from nearby enemies.\nEvery stack of Heat Infliction absorbed gives Laevatain 1 stack of Melting Flame (max stacks: 4).\nAfter reaching 4 stacks, DMG dealt by Laevatain ignores 20 Heat Resistance of the enemy for 20s.\nLaevatain also absorbs Heat Infliction from enemies defeated nearby.",
+      "zh-TW": "主控幹員重擊或處決命中後，萊萬汀會吸收周圍敵人的灼熱附著。\n每吸收一層灼熱附著，自身獲得一層熔火，最多疊加4層。\n達到4層後，萊萬汀造成的傷害無視敵人20點灼熱抗性，持續20秒。\n附近敵人被擊敗時，身上的灼熱附著也會被吸收。",
+      "zh-CN": "主控干员重击或处决命中后，莱万汀会吸收周围敌人的灼热附着。\n每吸收一层灼热附着，自身获得一层熔火，最多叠加4层。\n达到4层后，莱万汀造成的伤害无视敌人20点灼热抗性，持续20秒。\n附近敌人被击败时，身上的灼热附着也会被吸收。",
+      "ja": "操作中のオペレーターの重攻撃または終撃が敵に命中すると、レーヴァテインは周囲の敵から灼熱付着を吸収する\n吸収した灼熱付着1段階につき、劫火を1段階獲得する（最大4段階）\n4段階に到達すると、レーヴァテインは20秒間敵の灼熱耐性を20無視してダメージを与える\n敵が近くで倒されるとき、その灼熱付着も吸収する",
+      "ko": "메인 컨트롤 오퍼레이터의 강력한 일격이나 처형이 명중한 후, 레바테인이 주변 적의 열기 부착을 흡수합니다.\n열기 부착을 1스택 흡수할 때마다 자신은 녹아내린 불꽃 1스택을 획득하며, 해당 효과는 최대 4스택까지 중첩됩니다.\n4스택까지 중첩하면 레바테인이 주는 피해가 적의 열기 저항 20포인트를 무시하며, 해당 효과는 20초 동안 지속됩니다.\n주변의 적이 처치될 때, 열기 부착도 함께 흡수됩니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Re-Ignition",
+    "zh-TW": "復燃",
+    "zh-CN": "复燃",
+    "ja": "再燃",
+    "ko": "부활의 불씨"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When HP drops below 40%, gain 90% Protection and restore 5% Max HP per second for 4s. This effect can only trigger once every 120s.",
+      "zh-TW": "當生命值低於40%時，獲得90%庇護，並每秒回復5%最大生命值，持續4秒。該效果每120秒最多觸發一次。",
+      "zh-CN": "当生命值低于40%时，获得90%庇护，并每秒回复5%最大生命值，持续4秒。该效果每120秒最多触发一次。",
+      "ja": "HPが40%未満のとき、90%の加護を獲得し、4秒間毎秒最大HPの5%分回復する\nこの効果は120秒に1回まで発動可能",
+      "ko": "생명력이 40% 미만일 때, 90%의 비호를 획득하고 매초마다 최대 생명력의 5%를 회복하며, 4초 동안 지속됩니다. 해당 효과는 120초마다 최대 1회 발동합니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "When HP drops below 40%, gain 90% Protection and restore 5% Max HP per second for 8s. This effect can only trigger once every 120s.",
+      "zh-TW": "當生命值低於40%時，獲得90%庇護，並每秒回復5%最大生命值，持續8秒。該效果每120秒最多觸發一次。",
+      "zh-CN": "当生命值低于40%时，获得90%庇护，并每秒回复5%最大生命值，持续8秒。该效果每120秒最多触发一次。",
+      "ja": "HPが40%未満のとき、90%の加護を獲得し、8秒間毎秒最大HPの5%分回復する\nこの効果は120秒に1回まで発動可能",
+      "ko": "생명력이 40% 미만일 때, 90%의 비호를 획득하고 매초마다 최대 생명력의 5%를 회복하며, 8초 동안 지속됩니다. 해당 효과는 120초마다 최대 1회 발동합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Heart of Melting Flame",
+    "zh-TW": "熔火之心",
+    "zh-CN": "熔火之心",
+    "ja": "劫火の心",
+    "ko": "녹아내린 마음"
+   },
+   "text": {
+    "en": "Battle skill Smouldering Fire improved: Additional attack multiplier is increased to 1.2 times the original, and scoring a hit returns 20 SP.",
+    "zh-TW": "戰技焚滅的追加攻擊的傷害倍率提升至原本的1.2倍，且命中後返還20點技力。",
+    "zh-CN": "战技焚灭的追加攻击的伤害倍率提升至原本的1.2倍，且命中后返还20点技力。",
+    "ja": "戦技「焼滅」による追加攻撃のダメージ倍率が1.2倍までアップし、敵に命中すると、SPが20返還される",
+    "ko": "배틀 스킬 불타오르는 화염의 추가 공격 피해 배율이 기존의 1.2배로 증가하고, 명중한 후 스킬 게이지 20포인트를 반환합니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Pursuit of Memories",
+    "zh-TW": "追憶之旅",
+    "zh-CN": "追忆之旅",
+    "ja": "追憶の旅",
+    "ko": "기억을 찾는 여정"
+   },
+   "text": {
+    "en": "Intellect +20, Basic Attack DMG Dealt +15%.",
+    "zh-TW": "智識+20，普通攻擊傷害+15%。",
+    "zh-CN": "智识+20，普通攻击伤害+15%。",
+    "ja": "知性+20、通常攻撃ダメージ+15%",
+    "ko": "지능 +20, 일반 공격 피해 +15%"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Fragments from the Past",
+    "zh-TW": "往事碎片",
+    "zh-CN": "往事碎片",
+    "ja": "在りし日の欠片",
+    "ko": "추억의 조각"
+   },
+   "text": {
+    "en": "Battle skill Smouldering Fire improved: Duration of the Combustion applied by the skill is increased by 50%. DMG of the Combustion applied by the skills is increased to 1.5 times the original.",
+    "zh-TW": "戰技焚滅造成的燃燒持續時間+50%，且燃燒的傷害提升至原本的1.5倍。",
+    "zh-CN": "战技焚灭造成的燃烧持续时间+50%，且燃烧的伤害提升至原本的1.5倍。",
+    "ja": "戦技「焼滅」による燃焼の持続時間+50%、燃焼のダメージが1.5倍までアップする",
+    "ko": "배틀 스킬 불타오르는 화염이 주는 연소의 지속 시간 +50%, 연소의 피해 증가가 기존의 1.5배로 증가"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Ice Cream Furnace",
+    "zh-TW": "冰淇淋熔爐",
+    "zh-CN": "冰淇淋熔炉",
+    "ja": "アイスクリーム炉",
+    "ko": "아이스크림 용광로"
+   },
+   "text": {
+    "en": "Ultimate Twilight improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技黃昏所需的終結技能量-15%。",
+    "zh-CN": "终结技黄昏所需的终结技能量-15%。",
+    "ja": "必殺技「ラグナロク」に必要な必殺チャージ-15%",
+    "ko": "궁극기 황혼의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Proof of Existence",
+    "zh-TW": "存在的證明",
+    "zh-CN": "存在的证明",
+    "ja": "存在の証明",
+    "ko": "존재의 증명"
+   },
+   "text": {
+    "en": "Ultimate Twilight improved: Enhanced basic attack DMG multiplier is increased to 1.2 times the original; during the ultimate, every enemy defeated by Laevatain extends ultimate duration by +1s (max: +7s).",
+    "zh-TW": "終結技黃昏的強化普通攻擊的傷害倍率提升至原本的1.2倍，且終結技期間，萊萬汀每擊敗一個敵人，終結技的持續時間+1秒。（最多+7秒）",
+    "zh-CN": "终结技黄昏的强化普通攻击的伤害倍率提升至原本的1.2倍，且终结技期间，莱万汀每击败一个敌人，终结技的持续时间+1秒。（最多+7秒）",
+    "ja": "必殺技「ラグナロク」で強化された通常攻撃のダメージ倍率が1.2倍までアップする\n必殺技持続中、レーヴァテインが敵を倒すたびに、必殺技の持続時間+1秒（最大+7秒）",
+    "ko": "궁극기 황혼의 일반 공격 강화 피해 배율이 기존의 1.2배로 증가하고, 궁극기가 지속되는 동안 레바테인이 적 한 명을 처치할 때마다 궁극기 지속 시간 +1초(최대 +7초)"
+   }
+  }
+ ]
+}

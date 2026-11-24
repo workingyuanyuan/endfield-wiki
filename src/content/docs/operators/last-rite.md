@@ -52,7 +52,8 @@ sources:
 | Voice, Korean | Lee I-ro |
 | Operator File | [Last Rite's file](/story/last-rite/) |
 
-Last Rite is a young Nachzehrer raised by Caprinae gravekeepers; after Seš'qa discovered her potential, merchants came to call her the Princess of the War Court, and she now fights for Endfield under contract.
+> "I am the ... something of war, I guess?"  Before the Sarkaz of the floating city found her, Last Rite was a kind-hearted girl adopted by a Caprinae gravekeeper couple. Shaped by their teachings, the young Nachzehrer refused to disturb the dead, resisting her instinct to feed. But that restraint left her reeling with hunger, and her insecurity made her shrink away from others.  A chance encounter revealed Last Rite's potential to Seš'qa. Enticed by the promise of "well-paid temp work" and "training to suppress instincts," she came to be known among merchants as the Princess of the War Court. Now, clad in a Witching Hour prototype combat suit, she wields frost and steel for Endfield's cause — both to fulfill her contract and to strive toward the peaceful future that Endfield has set before her.\
+> "If my contract with Seš'qa expires, you can contact me... O-oh no! I wasn't supposed to say that! Please... Don't tell anyone about this..."
 
 ## How to obtain
 
@@ -79,12 +80,40 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Dance of Rime | Cryo combo of up to 4 hits. The final strike deals 25 Stagger while she is the controlled operator. |
-| Battle skill | Esoteric Legacy of Seš'qa | Applies Hypothermic Perfusion to the controlled operator's weapon and returns some SP. For a time, their next final strike summons Last Rite's Mirages for an extra Cryo hit that applies Cryo Infliction; casting it while controlling her does not interrupt her basic attack combo. Costs 100 SP. |
-| Combo skill | Winter's Devourer | Trigger: an enemy has 3 or more stacks of Cryo Infliction. Last Rite encases the target in icicles and shatters them, consuming all Cryo Infliction stacks to deal Cryo damage and gain Ultimate Energy scaling with the stacks consumed. Cooldown 9 s, 8 s at the highest skill level. |
-| Ultimate | Vigil Services | She dons frost armor and swings an ice scythe 3 times for heavy Cryo damage while immune to all damage. Last Rite can only gain Ultimate Energy from her own battle and combo skills. Costs 240 Ultimate Energy. |
+| Basic attack | Dance of Rime | — |
+| Battle skill | Esoteric Legacy of Seš'qa | 100 SP |
+| Combo skill | Winter's Devourer | Cooldown 9 s, 8 s at level 12 |
+| Ultimate | Vigil Services | 240 Ultimate Energy |
+
+### Dance of Rime
+
+> BASIC ATTACK:\
+> An attack with up to 4 sequences that deals Cryo DMG. As the controlled operator, Final Strike also deals 25 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Cryo DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Cryo DMG and recovers some SP.
+
+### Esoteric Legacy of Seš'qa
+
+> Performs a Hypothermic Perfusion on the controlled operator's weapon and returns some SP.\
+> The next Final Strike performed by the currently controlled operator within a certain duration creates Last Rite's Mirages that unleash an additional attack at the target. This attack deals Cryo DMG and applies Cryo Infliction.\
+> When the controlled operator is Last Rite herself, casting this battle skill does not reset her basic attack sequence.
+
+### Winter's Devourer
+
+> COMBO TRIGGER: When an enemy has 3 or more Cryo Infliction stacks.\
+> Encases the target enemy in icicles and shatters them to consume all Cryo Infliction stacks of the said enemy. The number of Cryo Infliction stacks consumed determines the amount of Cryo DMG dealt to the said enemy and Ultimate Energy gained by Last Rite.
+
+### Vigil Services
+
+> Last Rite encases herself in frost armor, creates an ice scythe to perform 3 slashes, and gains immunity to all damages while this state is active.\
+> Each slash deals massive Cryo DMG.\
+> Last Rite can only gain Ultimate Energy from her own battle skills and combo skills.
 
 ## Skill values
 
@@ -117,20 +146,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Hypothermia | Promotion I; upgraded at Promotion II | After consuming any Arts Infliction, Last Rite applies Cryo Susceptibility equal to 2% per stack consumed (4% at Promotion II) to that target for 15 s; this effect cannot stack. |
-| Cryogenic Embrittlement | Promotion II; upgraded at Promotion III | When Vigil Services damages an enemy with Cryo Susceptibility, that Cryo Susceptibility is treated as 1.2 times as strong (1.5 times at Promotion III). |
+### Hypothermia
+
+**Promotion I**
+
+> After Last Rite consumes any Arts Infliction, she applies Cryo Susceptibility to the target with the effect of \[Number of Arts Infliction stacks consumed × 2%\] for 15s. This effect cannot stack.
+
+**Promotion II**
+
+> After Last Rite consumes any Arts Infliction, she applies Cryo Susceptibility to the target with the effect of \[Number of Arts Infliction stacks consumed × 4%\] for 15s. This effect cannot stack.
+
+### Cryogenic Embrittlement
+
+**Promotion II**
+
+> Ultimate Vigil Services improved: When the ultimate deals DMG to an enemy with Cryo Susceptibility, the effect of that Cryo Susceptibility is 1.2 times the original.
+
+**Promotion III**
+
+> Ultimate Vigil Services improved: When the ultimate deals DMG to an enemy with Cryo Susceptibility, the effect of that Cryo Susceptibility is 1.5 times the original.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Undertaker's Gift | A final strike from the controlled operator with Hypothermic Perfusion deals an extra 20% damage and 5 Stagger on hit |
-| 2 | Absolute Zero Armament | Strength +20, Cryo damage +10% |
-| 3 | Overlord of Winter | Winter's Devourer and Vigil Services deal 1.15 times their damage |
-| 4 | Sincere Wake | Vigil Services costs 15% less Ultimate Energy |
-| 5 | Winter is Returning | Esoteric Legacy of Seš'qa returns 5 more SP, and its Mirage extra attack deals 1.2 times its damage |
+| 1 | Undertaker's Gift | When the controlled operator with Hypothermic Perfusion performs a Final Strike that hits the enemy, it deals another 20% DMG and 5 Stagger. |
+| 2 | Absolute Zero Armament | Strength +20, Cryo DMG Dealt +10%. |
+| 3 | Overlord of Winter | Combo skill Winter's Devourer and ultimate Vigil Services improved: DMG multiplier increased to 1.15 times the original. |
+| 4 | Sincere Wake | Ultimate Vigil Services improved: Ultimate Energy cost -15%. |
+| 5 | Winter is Returning | Battle skill Esoteric Legacy of Seš'qa improved: Amount of SP returned is increased by another 5; Mirage Additional ATK Multiplier is increased to 1.2 times the original. |
 
 ## Base skills
 
@@ -138,10 +182,10 @@ Base skills work while Last Rite is assigned to a room of the Dijiang. Each has 
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Cemetery Gardening β | Growth Chamber | Promotion I | Vitrified plants grow 20% faster |
-| Cemetery Gardening γ | Growth Chamber | Promotion III | Vitrified plants grow 30% faster |
-| Fame of the Royal Courts α | Reception Room | Promotion II | Slightly higher chance of Clue 7 (Seš'qa); does not stack with another skill of this kind |
-| Fame of the Royal Courts β | Reception Room | Promotion IV | Higher chance of Clue 7 (Seš'qa); does not stack with another skill of this kind |
+| Cemetery Gardening β | Growth Chamber | Promotion I | Assign to Growth Chamber to grant vitrified plant growth rate +20% |
+| Cemetery Gardening γ | Growth Chamber | Promotion III | Assign to Growth Chamber to grant vitrified plant growth rate +30% |
+| Fame of the Royal Courts α | Reception Room | Promotion II | Assign to Reception Room to grant operators a small Clue 7 Rate-UP: Seš'qa (activates upon assignment; effects of the same type cannot stack) |
+| Fame of the Royal Courts β | Reception Room | Promotion IV | Assign to Reception Room to grant operators Clue 7 Rate-UP: Seš'qa (activates upon assignment; effects of the same type cannot stack) |
 
 ## Base stats
 

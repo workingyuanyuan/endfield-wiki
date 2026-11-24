@@ -1,0 +1,237 @@
+{
+ "slug": "mi-fu",
+ "gameId": "chr_0031_mifu",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"We're battle-forged teammates, right?\"\nMi Fu, Captain of the Wuling Watch and trusted subordinate of Viceroy Tianshi Zhuang Fangyi. A perennial winner of Wuling's \"Vanguard Stars\" award, she ranks second on the city's civilian combat power leaderboard. To her colleagues, she is both the strictest instructor and the most caring superior. A regular at the sweet rice cake stall on Fangxing Avenue, she is a hero to children, a nightmare for troublemakers, and the bane of any invader. Though labeled a \"traitor\" by Qingbo Stockade, she remains the true successor of Qingbo Martial Arts. Tangtang's childhood friend and rival, she is a warrior who fought to the bitter end against the Blight Tide without ever retreating...\nIf you want to know Mi Fu better, you can either become her rival or her friend — those are the two relationships she values most. The former gets her blood pumping; the latter drives her to throw every punch without regard for her own life.\nNow, to repay the friends who fought by her side and to take on more rivals worth fighting again and again, she has begun her exchange journey at Endfield Industries.\n\"This time, I'll clean up the mess for you.\"",
+  "zh-TW": "「我們是過命的交情，對吧？」\n弭弗，武陵城巡衛隊隊長，管代天師莊方宜的得力手下，多年蟬聯武陵「先進之星」，武陵城民間戰力排行榜第二名，同事眼中最嚴厲的教官與最照顧人的上司，方興衢糖油粑粑攤常客，孩子們憧憬的榜樣，惹是生非者的噩夢，來犯之敵的剋星，清波寨的「叛徒」，清波武藝的傳人，湯湯的童年摯友兼對頭，在侵蝕潮前死戰不退的鬥士……\n如果想要更加瞭解弭弗，你可以做她的對手，或者成為她的朋友——這是對她而言最重要的兩種關係。前者令她熱血沸騰，後者則能讓她不惜性命地揮出拳頭。\n現在，為了報答並肩作戰的朋友，挑戰更多值得一戰再戰的對手，她開始了在終末地工業的交流之旅。\n「這一次，換我來幫你解決麻煩。」",
+  "zh-CN": "“我们是过命的交情，对吧？”\n弭弗，武陵城巡卫队队长，管代天师庄方宜的得力手下，多年蝉联武陵“先进之星”，武陵城民间战力排行榜第二名，同事眼中最严厉的教官与最照顾人的上司，方兴衢糖油粑粑摊常客，孩子们憧憬的榜样，惹是生非者的噩梦，来犯之敌的克星，清波寨的“叛徒”，清波武艺的传人，汤汤的童年挚友兼对头，在侵蚀潮前死战不退的斗士……\n如果想要更多地了解弭弗，你可以做她的对手，或者成为她的朋友——这是对她而言最重要的两种关系。前者令她热血沸腾，后者则能让她不惜性命地挥出拳头。\n现在，为了报答并肩作战的朋友，挑战更多值得一战再战的对手，她开始了在终末地工业的交流之旅。\n“这一次，换我来给你解决麻烦。”",
+  "ja": "「命を預けた仲だろう？」\nミ・フ、武陵城巡衛隊長、代理天師ゾアン・ファンイの右腕。長年にわたり武陵の「先進の星」に選ばれており、武陵城民間戦力ランキングでは第2位を獲得。同僚たちからは「最も厳しい教官」にして「最も面倒見のいい上司」として知られている。方興街のもち米団子屋台の常連であり、子どもたちの憧れの的。問題を起こす者たちにとっては悪夢であり、武陵を襲ってくる敵にとっては天敵である。清波砦の「裏切り者」でありながら、清波武芸の伝承者にして、タンタンの幼少期の親友でありライバル、そして侵蝕潮を前に命懸けで戦い、決して退かなかった闘士でもある……\nもっとミ・フのことを知りたいなら、彼女の相手になるか、友になるといい。その2つこそ、彼女にとって何より大切な関係だからだ。前者は彼女の血を滾らせ、後者は彼女が命懸けで拳を振るう理由になる。\n今、肩を並べて戦った友への恩を返すために、そして、何度でも戦う価値のある強敵たちに出会うために、彼女はエンドフィールド工業での交流の旅へと踏み出した。\n「今回はこの拳でお前の厄介事を解決してやると言っている……」",
+  "ko": "\"우린 함께 죽을 고비를 넘긴 사이잖아? 안 그래?\"\n무릉성 순찰대 대장, 책임자 장방이의 든든한 부하, 무릉의 장기 연속 '선진의 별', 무릉성 민간 전투력 2위, 동료들에겐 가장 엄격한 교관이자 누구보다 부하들을 잘 보살피는 상사, 방흥거리 탕유빠바 노점의 단골손님, 아이들의 동경의 대상, 무법자들의 악몽, 침입자들의 천적, 청파채의 '배신자', 청파 무술의 계승자, 탕탕의 친구이자 원수, 그리고 침식 조류 앞에선 절대 물러서지 않는 투사...\n미브라는 인물을 가장 깊이 이해하는 방법은 바로 그녀의 적이 되거나 벗이 되는 것이다. 이 둘은 미브가 가장 중요하게 여기는 관계로, 그녀에게 강적은 피를 끓게 만드는 존재이고, 벗은 자신의 목숨을 걸고서라도 싸움에 나서게 만드는 존재이기 때문이다.\n이제 그녀는 자기와 함께 싸워준 벗에게 보답하고, 강적들과 다시 싸우기 위해 엔드필드 공업에서의 새로운 여정을 시작한다.\n\"이번엔 내가 네 문제를 해결해 줄 테니까.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Fistmancer of Blades",
+    "zh-TW": "劍行拳意",
+    "zh-CN": "剑行拳意",
+    "ja": "剣に拳の意あり",
+    "ko": "검권 합일"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 25 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成物理傷害。作為主控幹員時，重擊會造成25點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成物理伤害。作为主控干员时，重击会造成25点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値25を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 25포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Qingbo Triplex",
+    "zh-TW": "清波三藝",
+    "zh-CN": "清波三艺",
+    "ja": "清波三芸",
+    "ko": "청파 삼형"
+   },
+   "text": {
+    "en": "Keep casting Mi Fu's battle skill to unleash 3 different moves. The first battle skill cast is Cloudtrapper.\nMOVE 1 - Cloudtrapper: Costs 100 SP and returns 50 SP after casting; Mi Fu fires a grappling chain from her gauntlets that deals Physical DMG to the target and nearby enemies, then attempts to pull the target and nearby enemies towards her. After casting MOVE 1, the next battle skill will be temporarily replaced with Trail and Mangle.\nMOVE 2 - Trail and Mangle: Costs 50 SP; Mi Fu unleashes a flurry of punches that deals Physical DMG with the final punch applying Crush. If this Crush consumes at least 3 Vulnerability stacks from a single target, then the next battle skill will be temporarily replaced with World Splitter.\nMOVE 3 - World Splitter: Costs 50 SP; Mi Fu deals massive Physical DMG to a specified area; this DMG is not treated as Battle Skill DMG, but as Crush DMG.",
+    "zh-TW": "連續施放可最多施放3段不同招式，初始戰技為斷雲。\n斷雲：消耗100技力，施放後返還50技力。從拳套中發射出拘束索，對目標及其附近敵人造成物理傷害並嘗試將其拉至自身附近。施放後戰技在一段時間內替換為追形。\n追形：消耗50技力。朝前方連續揮拳造成物理傷害，最後一拳額外造成猛擊。如果本次猛擊消耗的最大破防層數不少於3層，戰技在一段時間內替換為開天。\n開天：消耗50技力，朝前方範圍造成大量物理傷害。本次傷害類型不屬於戰技傷害，而是視為猛擊傷害。",
+    "zh-CN": "连续施放可最多施放3段不同招式，初始战技为断云。\n断云：消耗100技力，施放后返还50技力。从拳套中发射出拘束索，对目标及其附近敌人造成物理伤害并尝试将其拉取至自身附近。施放后战技在一段时间内替换为追形。\n追形：消耗50技力。朝前方连续挥拳造成物理伤害，最后一拳额外造成猛击。如果本次猛击消耗的最大破防层数不少于3层，战技在一段时间内替换为开天。\n开天：消耗50技力，朝前方范围造成大量物理伤害。本次伤害类型不属于战技伤害，而是视为猛击伤害。",
+    "ja": "最大3段の異なる技を連続で発動できる。最初の戦技は断雲。\n断雲：SPを100消費し、発動後に50返還される。ガントレットから拘束フックを発射し、目標とその周囲の敵に物理ダメージを与え、自身の近くに引き寄せる。発動後、一定時間戦技が追形に替わる。\n追形：SPを50消費する。前方に向かって連続で拳を繰り出し、物理ダメージを与え、最後の一撃は追加で猛撃を与える。この猛撃で消費する最大のクラッシュ段階が3以上の場合、一定時間戦技が開天に替わる。\n開天：SPを50消費する。前方範囲に高い物理ダメージを与える。このダメージは戦技ダメージではなく、猛撃ダメージと見なされる。",
+    "ko": "연속으로 사용하면 최대 3가지의 서로 다른 형태의 초식을 사용할 수 있습니다. 가장 처음 사용할 수 있는 배틀 스킬은 단운입니다.\n단운: 100 스킬 게이지를 소모하고, 사용 후 50 스킬 게이지를 반환합니다. 권갑에서 포승줄을 발사하여 목표 및 그 주변의 다른 적에게 물리 피해를 주고, 자기 쪽으로 끌어오기를 시도합니다. 사용 후, 배틀 스킬은 일정 시간 내에 추형으로 교체됩니다.\n추형: 50 스킬 게이지를 소모합니다. 전방으로 주먹을 연속으로 휘둘러 물리 피해를 주며, 마지막 일격은 추가로 강타 피해를 줍니다. 만약 이번 강타로 소모한 최대 방어 불능 스택 수치가 3스택 이상일 경우, 배틀 스킬은 일정 시간 내에 개천으로 교체됩니다.\n개천: 50 스킬 게이지를 소모하여 전방 범위에 대량의 물리 피해를 줍니다. 이번 피해의 유형은 배틀 스킬 피해가 아니며 강타 피해로 간주됩니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Fists of No Regrets",
+    "zh-TW": "拳出無悔",
+    "zh-CN": "拳出无悔",
+    "ja": "拳に悔い無し",
+    "ko": "후회 없는 주먹"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy has 3 or more Vulnerability stacks.\nMi Fu unleashes a devastating uppercut at the enemy, dealing Physical DMG and applying temporary Physical Susceptibility. After casting this skill, the next battle skill is temporarily replaced with Trail and Mangle.",
+    "zh-TW": "當有敵人達到3層及以上破防時可以發動。\n使用上勾拳痛擊前方的敵人，對其造成物理傷害，同時施加一定時間的物理脆弱。施放後戰技在一段時間內替換為追形。",
+    "zh-CN": "当有敌人达到3层及以上破防时可以发动。\n使用上勾拳痛击前方的敌人，对其造成物理伤害，同时施加一定时间的物理脆弱。施放后战技在一段时间内替换为追形。",
+    "ja": "敵のクラッシュ段階が3以上になったときに発動可能。\nアッパーで前方の敵を攻撃して物理ダメージを与え、同時に一定時間物理脆弱を付与する。発動後、一定時間戦技が追形に替わる。",
+    "ko": "적의 방어 불능 수치가 3스택 및 그 이상에 도달했을 때, 사용할 수 있습니다.\n올려치기로 전방의 적을 공격해 물리 피해를 주며, 동시에 일정 시간 동안 물리 취약을 부여합니다. 사용 후, 배틀 스킬은 일정 시간 내에 추형으로 교체됩니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Pile of No Mercy",
+    "zh-TW": "絕心",
+    "zh-CN": "绝心",
+    "ja": "心絶やす",
+    "ko": "절심"
+   },
+   "text": {
+    "en": "After a short power up, Mi Fu dashes forward to forcibly Lift a target into mid-air, then slams the said target to deal Physical DMG. After casting this skill, the next battle skill is temporarily replaced with Trail and Mangle.",
+    "zh-TW": "短暫蓄力後朝前方衝刺，對身前目標強制造成擊飛，隨後將其砸向地面造成物理傷害。施放後戰技在一段時間內替換為追形。",
+    "zh-CN": "短暂蓄力后朝前方冲刺，对身前目标强制造成击飞，随后将其砸向地面造成物理伤害。施放后战技在一段时间内替换为追形。",
+    "ja": "短時間のチャージ後、前方に突進し、目の前の目標を強制的に浮遊させる。その後地面に叩きつけて物理ダメージを与える。発動後、一定時間戦技が追形に替わる。",
+    "ko": "잠시 차지한 뒤 전방으로 돌진해 전방의 목표에 강제로 띄우기 피해를 주고, 이어서 지면에 내리꽂으며 물리 피해를 줍니다. 사용 후 일정 시간 동안 배틀 스킬이 추형으로 대체됩니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Stern Crackdown",
+    "zh-TW": "冷面無情",
+    "zh-CN": "冷面无情",
+    "ja": "冷酷無比",
+    "ko": "냉정"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Battle skill move World Splitter improved: When hitting a target with Physical Susceptibility or Staggered, DMG Multiplier is increased to 1.1 times the original.",
+      "zh-TW": "戰技開天命中時，若目標處於物理脆弱或失衡狀態，傷害倍率提升至原本的1.1倍。",
+      "zh-CN": "战技开天命中时，若目标处于物理脆弱或失衡状态，伤害倍率提升至原本的1.1倍。",
+      "ja": "戦技「開天」が命中するとき、目標が物理脆弱またはブレイク状態の場合、ダメージ倍率が1.1倍までアップする",
+      "ko": "배틀 스킬 개천이 명중했을 때, 만약 목표가 물리 취약 또는 불균형 상태에 빠질 경우, 피해 배율이 기존의 1.1배로 증가합니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Battle skill move World Splitter improved: When hitting a target with Physical Susceptibility or Staggered, DMG Multiplier is increased to 1.2 times the original.",
+      "zh-TW": "戰技開天命中時，若目標處於物理脆弱或失衡狀態，傷害倍率提升至原本的1.2倍。",
+      "zh-CN": "战技开天命中时，若目标处于物理脆弱或失衡状态，伤害倍率提升至原本的1.2倍。",
+      "ja": "戦技「開天」が命中するとき、目標が物理脆弱またはブレイク状態の場合、ダメージ倍率が1.2倍までアップする",
+      "ko": "배틀 스킬 개천이 명중했을 때, 만약 목표가 물리 취약 또는 불균형 상태에 빠질 경우, 피해 배율이 기존의 1.2배로 증가합니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Vigilant Fury",
+    "zh-TW": "怒意留心",
+    "zh-CN": "怒意留心",
+    "ja": "怒りを封ず",
+    "ko": "분노"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Combo skill improved: Casting the combo creates a shield with 15% Max HP and a duration of 10s. While the shield is active, Mi Fu becomes harder to interrupt.\nThis effect can only trigger once every 60s.",
+      "zh-TW": "施放連攜技後獲得15%最大生命值的護盾，持續期間更難被打斷，持續10秒。\n該效果每60秒最多觸發一次。",
+      "zh-CN": "施放连携技后获得15%最大生命值的护盾，持续期间更难被打断，持续10秒。\n该效果每60秒最多触发一次。",
+      "ja": "連携技を発動すると、10秒間最大HP15%分のシールドを獲得し、持続期間中より中断されにくくなる\nこの効果は60秒に1回まで発動可能",
+      "ko": "연계 스킬 사용 후, 최대 생명력 15%만큼의 보호를 획득합니다. 해당 효과가 지속되는 동안 행동이 더 쉽게 끊이지 않으며, 10초 동안 지속됩니다.\n해당 효과는 60초마다 최대 1회 발동합니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Combo skill improved: Casting the combo creates a shield with 30% Max HP and a duration of 10s. While the shield is active, Mi Fu becomes harder to interrupt.\nThis effect can only trigger once every 60s.",
+      "zh-TW": "施放連攜技後獲得30%最大生命值的護盾，持續期間更難被打斷，持續10秒。\n該效果每60秒最多觸發一次。",
+      "zh-CN": "施放连携技后获得30%最大生命值的护盾，持续期间更难被打断，持续10秒。\n该效果每60秒最多触发一次。",
+      "ja": "連携技を発動すると、10秒間最大HP30%分のシールドを獲得し、持続期間中より中断されにくくなる\nこの効果は60秒に1回まで発動可能",
+      "ko": "연계 스킬 사용 후, 최대 생명력 30%만큼의 보호를 획득합니다. 해당 효과가 지속되는 동안 행동이 더 쉽게 끊이지 않으며, 10초 동안 지속됩니다.\n해당 효과는 60초마다 최대 1회 발동합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Restless Watch",
+    "zh-TW": "不息巡行",
+    "zh-CN": "不息巡行",
+    "ja": "気巡らす",
+    "ko": "영원한 순례"
+   },
+   "text": {
+    "en": "Combo skill Fists of No Regrets improved: Length of cooldown -2s. Physical Susceptibility effect applied by the skill is further increased by +5% and has +4s duration.",
+    "zh-TW": "連攜技拳出無悔的冷卻時間-2秒，施加的物理脆弱效果額外+5%，持續時間+4秒。",
+    "zh-CN": "连携技拳出无悔的冷却时间-2秒，施加的物理脆弱效果额外+5%，持续时间+4秒。",
+    "ja": "連携技「拳に悔い無し」のCD時間-2秒、付与する物理脆弱の効果がさらに+5%、持続時間+4秒",
+    "ko": "연계 스킬 후회 없는 주먹의 쿨타임 -2초, 부여하는 물리 취약 효과 추가로 +5%, 지속 시간 +4초"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Kinesthesia of Harmony",
+    "zh-TW": "心手合一",
+    "zh-CN": "心手合一",
+    "ja": "心手合一",
+    "ko": "심신일체"
+   },
+   "text": {
+    "en": "Strength +20, Arts Intensity +16.",
+    "zh-TW": "力量+20，源石技藝強度+16。",
+    "zh-CN": "力量+20，源石技艺强度+16。",
+    "ja": "筋力+20、アーツ強度+16",
+    "ko": "힘 +20, 오리지늄 아츠 강도 +16"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Complete Warmup",
+    "zh-TW": "熱身完畢",
+    "zh-CN": "热身完毕",
+    "ja": "肩慣らし",
+    "ko": "전투 태세"
+   },
+   "text": {
+    "en": "Talent Vigilant Fury improved: Shield duration +5s. Shield trigger cooldown -15s. Each time the shield is triggered, Mi Fu gains ATK +6% for 20s.",
+    "zh-TW": "天賦怒意留心效果加強：護盾持續時間+5秒，護盾觸發間隔-15秒，每次觸發時額外獲得攻擊力+6%，持續20秒。",
+    "zh-CN": "天赋怒意留心效果加强：护盾持续时间+5秒，护盾触发间隔-15秒，每次触发时额外获得攻击力+6%，持续20秒。",
+    "ja": "素質「怒りを封ず」強化：シールドの持続時間+5秒、シールドの発動間隔-15秒、毎回発動するとき20秒間追加で攻撃力+6%",
+    "ko": "재능 분노 효과 강화: 보호 지속 시간 +5초, 보호 발동 간격 -15초, 매번 발동할 때마다 추가로 공격력 +6%, 지속 시간 20초"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Qi Thrice-Refined",
+    "zh-TW": "氣煉三絕",
+    "zh-CN": "气炼三绝",
+    "ja": "気功三絶",
+    "ko": "삼절의 극의"
+   },
+   "text": {
+    "en": "Ultimate Pile of No Mercy improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技絕心所需的終結技能量-15%。",
+    "zh-CN": "终结技绝心所需的终结技能量-15%。",
+    "ja": "必殺技「心絶やす」に必要な必殺チャージ-15%",
+    "ko": "궁극기 절심의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Pugilist of the Stockade",
+    "zh-TW": "拳出山林",
+    "zh-CN": "拳出山林",
+    "ja": "山林より拳出ずる",
+    "ko": "숲을 가르는 주먹"
+   },
+   "text": {
+    "en": "Battle skill improved: DMG Multipliers of the moves Cloudtrapper, Trail and Mangle, and World Splitter are increased to 1.1 times the original. Ultimate Pile of No Mercy improved: Stagger Dealt +5.\nThe Battle Skill DMG Multiplier buff can stack with the talent Stern Crackdown.",
+    "zh-TW": "戰技斷雲、追形、開天的傷害倍率提升至原本的1.1倍，終結技絕心造成的失衡值+5點。\n戰技倍率提升效果可與天賦冷面無情疊加。",
+    "zh-CN": "战技断云、追形、开天的伤害倍率提升至原本的1.1倍，终结技绝心造成的失衡值+5点。\n战技倍率提升效果可与天赋冷面无情叠加。",
+    "ja": "戦技「断雲」、「追形」、「開天」のダメージ倍率が1.1倍までアップし、必殺技「心絶やす」で与えるブレイク値+5\n戦技倍率UP効果と素質「冷酷無比」は重ね掛け可能",
+    "ko": "배틀 스킬 단운, 추형, 개천의 피해 배율이 모두 기존의 1.1배로 증가, 궁극기 절심이 주는 불균형치 +5포인트.\n배틀 스킬 배율 증가 효과는 재능 냉정과 중첩됩니다."
+   }
+  }
+ ]
+}

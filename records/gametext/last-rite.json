@@ -1,0 +1,237 @@
+{
+ "slug": "last-rite",
+ "gameId": "chr_0026_lastrite",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"I am the ... something of war, I guess?\"  Before the Sarkaz of the floating city found her, Last Rite was a kind-hearted girl adopted by a Caprinae gravekeeper couple. Shaped by their teachings, the young Nachzehrer refused to disturb the dead, resisting her instinct to feed. But that restraint left her reeling with hunger, and her insecurity made her shrink away from others.  A chance encounter revealed Last Rite's potential to Seš'qa. Enticed by the promise of \"well-paid temp work\" and \"training to suppress instincts,\" she came to be known among merchants as the Princess of the War Court. Now, clad in a Witching Hour prototype combat suit, she wields frost and steel for Endfield's cause — both to fulfill her contract and to strive toward the peaceful future that Endfield has set before her.\n\"If my contract with Seš'qa expires, you can contact me... O-oh no! I wasn't supposed to say that! Please... Don't tell anyone about this...\"",
+  "zh-TW": "「我，即是戰爭的……什麼來著？」  在被懸空城上的薩卡茲們發現前，別禮只是一個被卡普里尼守墓人夫婦收養的善良女孩。由於養父母的薰陶，年輕的食腐者不願驚擾任何一人的死亡，拒絕本能對「進食」的呼喚，這讓她總是餓得昏天黑地，因為自卑而在人前畏畏縮縮。  一次偶遇讓塞什卡發現了別禮的潛力。在「超划算零工」和「抑制本能的特訓」雙重引誘下，別禮成為了商人們口中的「戰爭王庭公主」。如今，她身著巫術時刻的測試款作戰服，為了終末地的目標揮舞霜雪和兵刃——既是履行合約，也是為了終末地向她展示的，真正能讓生命平和安寧的明天。    「如果塞什卡的合約到期了，您也可以繼續找我……啊，這個不可以講的，要、要對其他人保密喔！」",
+  "zh-CN": "“我，即是战争的……什么来着？” 在被悬空城上的萨卡兹们发现前，别礼只是一个被卡普里尼守墓人夫妇收养的善良女孩。由于养父母的熏陶，年轻的食腐者不愿惊扰任何一人的死亡，拒绝本能对“进食”的呼唤，这让她总是饿得昏天黑地，因为自卑而在人前畏畏缩缩。 一次偶遇让塞什卡发现了别礼的潜力。在“超划算零工”和“抑制本能的特训”双重引诱下，别礼成为了商人们口中的“战争王庭公主”。如今，她身着巫术时刻的测试款作战服，为了终末地的目标挥舞霜雪和兵刃——既是履行合同，也是为了终末地向她展示的，真正能让生命平和安宁的明天。\n“如果塞什卡的合约到期了，您也可以继续找我……啊，这个不可以讲的，要、要对其他人保密哦！”",
+  "ja": "「わ、私こそが戦争王庭の……えっと、何でしたっけ……」 浮遊都市のサルカズたちに発見されるまで、キャプリニーの墓守夫婦に育てられた心優しい少女にすぎなかった。養父母の薫陶を受けた若きナハツェーラーは、死者が静かに眠ることを望み、本能的な「摂食」への欲求を拒絶していた。そのせいで、彼女は常に空腹でフラフラになり、劣等感から人前ではおどおどしていた。 ある偶然の出会いによって、セシュカはラストライトの可能性に目を付けた。「超お得なバイト」と「本能を抑制する特訓」という二重の誘惑のもと、ラストライトは商人たちが言うところの「戦争王庭の姫」となった。今、彼女はウィッチタイムの試作戦闘服を身にまとい、エンドフィールドの目標のために霜雪と武器を振るっている――それは契約を履行するためであり、エンドフィールドが彼女に示した、生命が真に平和で安らかになれる未来のためでもある。\n「もし、セシュカとの契約が終わっても、管理人さんがまた呼んでくれたら……あっ、だ、ダメでした！今のは、内緒に……」",
+  "ko": "\"저는 저, 전쟁의... 뭐였죠?\"  라스트 라이트는 공중 도시의 살카즈들에게 발견되지 전까지만 해도, 카프리니 묘지기 부부에게 입양되어 살아가던 선량한 소녀였다. 양부모의 가르침 덕분에 어린 나흐체러르는 누구의 죽음도 방해하기를 원치 않았고, 본능적인 '식사'의 충동조차 거부했다. 그 때문에 늘 배고픔에 시달리며 자존감이 낮은 편이다.  그러던 어느 날, 우연한 만남으로 세쉬카는 라스트 라이트의 가성을 발견했다. '값싼 일거리'와 '본능 억제 훈련'이라는 유혹들 속에서 라스트 라이트는 상인들 사이에서 '전투 왕정의 공주'라 불리게 되었다. 지금의 그녀는 주술 타임의 테스트용 작전복을 입고 엔드필드의 목표를 위해 서리와 칼날을 휘두른다. 이는 단순한 계약 이행일 뿐만 아니라 동시에 엔드필드가 그녀에게 보여준 생명이 평온하고 고요할 수 있는 내일을 향한 발걸음이기도 하다.    \"만약 세쉬카의 계약이 끝나도 제가 계속 도와드릴 수 있어요... 아, 이건 말하면 안 되는 건데... 다, 다른 사람들한테는 비밀로 해주세요!\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Dance of Rime",
+    "zh-TW": "嚴霜之舞",
+    "zh-CN": "严霜之舞",
+    "ja": "氷霜の舞",
+    "ko": "혹한의 춤"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Cryo DMG. As the controlled operator, Final Strike also deals 25 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Cryo DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Cryo DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成寒冷傷害。作為主控幹員時，重擊會造成25點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成寒冷傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量寒冷傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成寒冷伤害。作为主控干员时，重击会造成25点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成寒冷伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量寒冷伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に寒冷ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値25を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に寒冷ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い寒冷ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 냉기 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 25포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 냉기 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 냉기 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Esoteric Legacy of Seš'qa",
+    "zh-TW": "塞什卡的秘傳",
+    "zh-CN": "塞什卡的秘传",
+    "ja": "セシュカの秘伝",
+    "ko": "세쉬카의 비전"
+   },
+   "text": {
+    "en": "Performs a Hypothermic Perfusion on the controlled operator's weapon and returns some SP.\nThe next Final Strike performed by the currently controlled operator within a certain duration creates Last Rite's Mirages that unleash an additional attack at the target. This attack deals Cryo DMG and applies Cryo Infliction.\nWhen the controlled operator is Last Rite herself, casting this battle skill does not reset her basic attack sequence.",
+    "zh-TW": "對主控幹員的武器進行低溫灌注，並返還一定技力。\n一段時間內，當下主控幹員接下來的1次重擊會生成別禮的幻影，對目標進行追擊，造成寒冷傷害，施加寒冷附著。\n主控幹員為別禮時，施放該戰技不會中斷普通攻擊。",
+    "zh-CN": "对主控干员的武器进行低温灌注，并返还一定技力。\n一段时间内，当前主控干员接下来的1次重击会生成别礼的幻影，对目标进行追击，造成寒冷伤害，施加寒冷附着。\n主控干员为别礼时，施放该战技不会中断普通攻击。",
+    "ja": "操作中のオペレーターの武器に低温注入を行い、SPが一定量返還される。\n一定時間内、操作中のオペレーターの次の重攻撃はラストライトの幻影を生成し、目標を追撃して寒冷ダメージを与え、寒冷付着を付与する。\n操作中のオペレーターがラストライトの場合、戦技を発動しても通常攻撃は中断されない。",
+    "ko": "메인 컨트롤 오퍼레이터의 무기에 저온 주입을 부여하고 일정량의 스킬 게이지를 반환합니다.\n일정 시간 동안, 해당 메인 컨트롤 오퍼레이터가 사용한 1회의 강력한 일격이 라스트 라이트의 환영을 소환해 목표를 추격하며, 냉기 피해를 주고 냉기 부착 상태를 부여합니다.\n메인 컨트롤 오퍼레이터가 라스트 라이트라면, 해당 배틀 스킬을 사용하더라도 일반 공격이 중단되지 않습니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Winter's Devourer",
+    "zh-TW": "噬冬",
+    "zh-CN": "噬冬",
+    "ja": "冬喰",
+    "ko": "겨울 포식자"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy has 3 or more Cryo Infliction stacks.\nEncases the target enemy in icicles and shatters them to consume all Cryo Infliction stacks of the said enemy. The number of Cryo Infliction stacks consumed determines the amount of Cryo DMG dealt to the said enemy and Ultimate Energy gained by Last Rite.",
+    "zh-TW": "當有敵人進入3層及以上寒冷附著狀態時可以發動。\n在目標敵人身上凝結冰錐，隨後將其斬碎，消耗敵人身上的所有寒冷附著，對其造成基於其寒冷附著層數的寒冷傷害，並且根據消耗的層數獲得終結技能量。",
+    "zh-CN": "当有敌人进入3层及以上寒冷附着状态时可以发动。\n在目标敌人身上凝结冰锥，随后将其斩碎，消耗敌人身上的所有寒冷附着，对其造成基于其寒冷附着层数的寒冷伤害，并且根据消耗的层数获得终结技能量。",
+    "ja": "敵の寒冷付着状態が3段階以上になったときに発動可能。\n敵に氷柱を生成し、斬撃で砕く。敵の寒冷付着をすべて消費し、消費した寒冷付着段階に応じて寒冷ダメージを与え、必殺チャージを回復する。",
+    "ko": "적에게 냉기 부착 3스택 혹은 그 이상이 쌓였을 때 사용할 수 있습니다.\n목표한 적에게 얼음송곳을 응결시킨 다음 산산이 조각냅니다. 목표에 쌓인 냉기 부착을 전부 소모하고 대상에게 냉기 부착의 스택 수치에 따른 냉기 피해를 주며, 소모한 스택 수치에 따라 궁극기 에너지를 획득합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Vigil Services",
+    "zh-TW": "臨終別禮",
+    "zh-CN": "临终别礼",
+    "ja": "終の別れ",
+    "ko": "마지막 인사"
+   },
+   "text": {
+    "en": "Last Rite encases herself in frost armor, creates an ice scythe to perform 3 slashes, and gains immunity to all damages while this state is active.\nEach slash deals massive Cryo DMG.\nLast Rite can only gain Ultimate Energy from her own battle skills and combo skills.",
+    "zh-TW": "披著霜鎧，凝結冰鐮，對前方進行三次斬擊，該狀態下免疫所有傷害。\n每次斬擊造成大量寒冷傷害。\n別禮只能從自身的戰技、連攜技中獲得終結技能量。",
+    "zh-CN": "披着霜铠，凝结冰镰，对前方进行三次斩击，该状态下免疫所有伤害。\n每次斩击造成大量寒冷伤害。\n别礼只能从自身的战技、连携技中获得终结技能量。",
+    "ja": "霜の鎧を纏い、氷の鎌を生成して前方に斬撃を3回放つ。この状態で受けるダメージはすべて無効になる。\nそれぞれの斬撃で高い寒冷ダメージを与える。\nラストライトの必殺チャージは、自身の戦技および連携技でのみ回復可能。",
+    "ko": "서리 갑옷을 두르고 얼음 낫을 만들어 전방으로 3회의 베기 공격을 진행합니다. 해당 상태에서는 모든 피해에 면역됩니다.\n벨 때마다 대량의 냉기 피해를 줍니다.\n라스트 라이트는 자신의 배틀 스킬, 연계 스킬을 통해서만 궁극기 에너지를 획득할 수 있습니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Hypothermia",
+    "zh-TW": "失溫症",
+    "zh-CN": "低温症",
+    "ja": "低体温症",
+    "ko": "저체온증"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "After Last Rite consumes any Arts Infliction, she applies Cryo Susceptibility to the target with the effect of [Number of Arts Infliction stacks consumed × 2%] for 15s. This effect cannot stack.",
+      "zh-TW": "當別禮消耗任何法術附著後，對該目標施加寒冷脆弱，效果為被消耗的法術附著層數×2%，持續15秒，該效果無法疊加。",
+      "zh-CN": "当别礼消耗任何法术附着后，对该目标施加寒冷脆弱，效果为被消耗的法术附着层数×2%，持续15秒，该效果无法叠加。",
+      "ja": "ラストライトが任意のアーツ付着を消費すると、15秒間その敵に消費したアーツ付着の段階数×2%の寒冷脆弱を付与する（重ね掛け不可）",
+      "ko": "라스트 라이트가 임의의 아츠 부착을 소모한 후, 해당 목표에 냉기 취약을 부여합니다. 소모한 아츠 부착의 스택 수치×2%, 15초 동안 지속. 해당 효과는 중첩되지 않습니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "After Last Rite consumes any Arts Infliction, she applies Cryo Susceptibility to the target with the effect of [Number of Arts Infliction stacks consumed × 4%] for 15s. This effect cannot stack.",
+      "zh-TW": "當別禮消耗任何法術附著後，對該目標施加寒冷脆弱，效果為被消耗的法術附著層數×4%，持續15秒，該效果無法疊加。",
+      "zh-CN": "当别礼消耗任何法术附着后，对该目标施加寒冷脆弱，效果为被消耗的法术附着层数×4%，持续15秒，该效果无法叠加。",
+      "ja": "ラストライトが任意のアーツ付着を消費すると、15秒間その敵に消費したアーツ付着の段階数×4%の寒冷脆弱を付与する（重ね掛け不可）",
+      "ko": "라스트 라이트가 임의의 아츠 부착을 소모한 후, 해당 목표에 냉기 취약을 부여합니다. 소모한 아츠 부착의 스택 수치×4%, 15초 동안 지속. 해당 효과는 중첩되지 않습니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Cryogenic Embrittlement",
+    "zh-TW": "失溫脆性",
+    "zh-CN": "低温脆性",
+    "ja": "低温脆性",
+    "ko": "저온 취성"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Ultimate Vigil Services improved: When the ultimate deals DMG to an enemy with Cryo Susceptibility, the effect of that Cryo Susceptibility is 1.2 times the original.",
+      "zh-TW": "終結技臨終別禮造成傷害時，如果敵人處於寒冷脆弱狀態，將其寒冷脆弱的效果視為原本的1.2倍。",
+      "zh-CN": "终结技临终别礼造成伤害时，如果敌人处于寒冷脆弱状态，将其寒冷脆弱的效果视为原本的1.2倍。",
+      "ja": "必殺技「終の別れ」で寒冷脆弱状態の敵にダメージを与えるとき、寒冷脆弱の効果が1.2倍と見なされる",
+      "ko": "궁극기 마지막 인사가 피해를 줄 때, 적이 냉기 취약 상태일 경우, 해당 냉기 취약 효과를 기존의 1.2배로 간주합니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Ultimate Vigil Services improved: When the ultimate deals DMG to an enemy with Cryo Susceptibility, the effect of that Cryo Susceptibility is 1.5 times the original.",
+      "zh-TW": "終結技臨終別禮造成傷害時，如果敵人處於寒冷脆弱狀態，將其寒冷脆弱的效果視為原本的1.5倍。",
+      "zh-CN": "终结技临终别礼造成伤害时，如果敌人处于寒冷脆弱状态，将其寒冷脆弱的效果视为原本的1.5倍。",
+      "ja": "必殺技「終の別れ」で寒冷脆弱状態の敵にダメージを与えるとき、寒冷脆弱の効果が1.5倍と見なされる",
+      "ko": "궁극기 마지막 인사가 피해를 줄 때, 적이 냉기 취약 상태일 경우, 해당 냉기 취약 효과를 기존의 1.5배로 간주합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Undertaker's Gift",
+    "zh-TW": "守墓人之贈",
+    "zh-CN": "守墓人之赠",
+    "ja": "墓守の贈り物",
+    "ko": "묘지기의 선물"
+   },
+   "text": {
+    "en": "When the controlled operator with Hypothermic Perfusion performs a Final Strike that hits the enemy, it deals another 20% DMG and 5 Stagger.",
+    "zh-TW": "受到低溫灌注的主控幹員，重擊命中敵人時額外造成20%傷害和5點失衡。",
+    "zh-CN": "受到低温灌注的主控干员，重击命中敌人时额外造成20%伤害和5点失衡。",
+    "ja": "低温注入を受けた操作中のオペレーターによる重攻撃が敵に命中するとき、追加で20%のダメージとブレイク値5を与える",
+    "ko": "저온 주입을 받은 메인 컨트롤 오퍼레이터의 강력한 일격이 적을 명중했을 때, 추가로 주는 피해 20%, 불균형 피해 5포인트"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Absolute Zero Armament",
+    "zh-TW": "零度武裝",
+    "zh-CN": "零度武装",
+    "ja": "零度武装",
+    "ko": "영점 무장"
+   },
+   "text": {
+    "en": "Strength +20, Cryo DMG Dealt +10%.",
+    "zh-TW": "力量+20，寒冷傷害+10%。",
+    "zh-CN": "力量+20，寒冷伤害+10%。",
+    "ja": "筋力+20、寒冷ダメージ+10%",
+    "ko": "힘 +20, 냉기 피해 +10%"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Overlord of Winter",
+    "zh-TW": "統御嚴冬",
+    "zh-CN": "统御严冬",
+    "ja": "厳冬を統べる",
+    "ko": "혹한의 지배자"
+   },
+   "text": {
+    "en": "Combo skill Winter's Devourer and ultimate Vigil Services improved: DMG multiplier increased to 1.15 times the original.",
+    "zh-TW": "連攜技噬冬和終結技臨終別禮的傷害倍率提高至原本的1.15倍。",
+    "zh-CN": "连携技噬冬和终结技临终别礼的伤害倍率提高至原本的1.15倍。",
+    "ja": "連携技「冬喰」、必殺技「終の別れ」のダメージ倍率が1.15倍までアップする",
+    "ko": "연계 스킬 겨울 포식자와 궁극기 마지막 인사의 피해 배율이 기존의 1.15배로 증가합니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Sincere Wake",
+    "zh-TW": "誠摯告別",
+    "zh-CN": "诚挚告别",
+    "ja": "心を込めたお別れ",
+    "ko": "진심 어린 작별"
+   },
+   "text": {
+    "en": "Ultimate Vigil Services improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技臨終別禮所需的終結技能量-15%。",
+    "zh-CN": "终结技临终别礼所需的终结技能量-15%。",
+    "ja": "必殺技「終の別れ」に必要な必殺チャージ-15%",
+    "ko": "궁극기 마지막 인사의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Winter is Returning",
+    "zh-TW": "寒風再起",
+    "zh-CN": "寒风再起",
+    "ja": "寒風、再び",
+    "ko": "다시 밀려오는 한기"
+   },
+   "text": {
+    "en": "Battle skill Esoteric Legacy of Seš'qa improved: Amount of SP returned is increased by another 5; Mirage Additional ATK Multiplier is increased to 1.2 times the original.",
+    "zh-TW": "戰技塞什卡的秘傳返還的技力額外提高5點，並額外提高生成的幻影追擊傷害倍率至原本的1.2倍。",
+    "zh-CN": "战技塞什卡的秘传返还的技力额外提高5点，并额外提高生成的幻影追击伤害倍率至原本的1.2倍。",
+    "ja": "戦技「セシュカの秘伝」で返還されるSPが追加で5増加し、さらに生成された幻影の追撃ダメージ倍率が1.2倍までアップする",
+    "ko": "배틀 스킬 세쉬카의 비전이 반환하는 스킬 게이지가 추가로 5포인트 증가하고, 생성한 환영 추격의 피해 배율이 기존의 1.2배로 증가합니다."
+   }
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "slug": "da-pan",
+ "gameId": "chr_0018_dapan",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"If you're not good with a dish, just make it more often! I don't cook to show off! I do it to make a pretty and joyful feast!\"  Da Pan hails from the prestigious Hongshan Academy of Sciences, but after leaving, he took up all kinds of \"dispersed key logistical support roles\" — from chef and electrician to chauffeur and street vendor. His latest move? Joining the Specialist Tech Division of Endfield Industries as an independent.  Of all the roles he's taken on, the one he's most proud of is being a traveling chef. He's passionate about exploring new recipes and creating inventive dishes. Nothing makes him happier than crafting delicious meals that win praise from every diner he serves.  There's a water bottle Da Pan keeps with him at all times, though few ever notice it. Those who can read Yanese characters might wonder about its origin. But if they're from Hongshan, they'll know exactly where it came from and the weight it carries as an honor awarded only to a Vanguard Scientist.\n\"Try this. I cooked it myself!\"",
+  "zh-TW": "「不會的菜就要多練！這可不是為了出風頭，我掌廚就圖個煮得漂亮，吃得爽快！」  大潘出身於宏山科學院，在離開那裡後，主要從事各項「離散型關鍵科研後勤支援工作」，也就是廚師、電工、司機、專業擺攤等等。他最新的職位調動則是以個人身分，加入終末地工業的特種技術部門。  在眾多身分中，最令他自豪的還是做一名遊歷四方的廚師。他熱衷於鑽研食譜、創新菜餚，最大的樂趣是做出各種美味佳餚，贏得食客們的讚美。  大潘有個從不離身的水杯，很少有人能夠注意到。若注意到的人懂得炎國文字，便會好奇它的來歷；若那人也來自宏山，便自然會明白這物件從何而來，以及它僅頒發給「先進科研工作者」的分量。    「今天我掌廚，弄了點新鮮的，您先嚐嚐！」",
+  "zh-CN": "“不会的菜式就得多练！这可不是为了出风头，我掌勺就图个做得敞亮，吃得爽心！” 大潘出身于宏山科学院，在离开那里后，主要从事各项“离散型关键科研后勤支持工作”，也就是厨师、电工、司机、职业练摊儿等等。他最新的岗位调动则是以个人身份，加入终末地工业的特种技术部门。 在众多身份中，最令他自豪的还是做一名游历四方的厨师。他热衷于钻研食谱、创新菜式，最大的乐趣是做出各种美味佳肴，赢得食客们的赞美。 大潘有个从不离身的水杯，很少有人能够注意到。若注意到的人懂得炎国文字，便会好奇它的来历；若那人也来自宏山，便自然会明白这物件从何而来，以及它仅颁发给“先进科研工作者”的分量。\n“今天我掌勺，弄了点新鲜的，您先尝尝！”",
+  "ja": "「できねェもんは練習する！別に目立ちたいわけでもねェ。鍋を振るのは、うめェメシで皆に喜んでもらうためだからよ！」 宏山科学院の出身で、卒業後は主に「離散型重要科学研究の後方支援業務」――具体的には、シェフ、電気工事士、運転手、屋台経営など、多岐にわたる業務に従事してきた。現在は個人の立場で、エンドフィールド工業の特殊技術部で働いている。 数々の肩書きの中で、ダパンが最も誇りとしているのは「各地を旅するシェフ」という職業である。レシピの研究や革新的な料理の創作に積極的に取り組んでいる。そして何よりも、美味しい料理を作り、食べてくれた人々が喜んでくれることこそがダパンの大きな喜びになっている。 ダパンが常に携えている「魔法瓶」に気づく人は滅多にいない。もし炎国の文字が読める人がそれに気づけば、より興味を抱くはずだ。そして宏山出身者であるならば、それが「優秀研究者」にのみ与えられる貴重なものであることが一目でわかるだろう。\n「今日はオレが鍋振って新しいもん作ったからよう……食ってみろい！」",
+  "ko": "\"잘 못하는 요리는 여러 번 연습해야 한다네! 뭘 뽐내려고 하는 게 아니라, 보기 좋게 만들어야 맛도 더 좋으니까 말이야!\"  판은 홍산 과학원 출신으로, 그곳을 떠난 후 '핵심 연구의 후속 지원 업무'를 담당하고 있다. 업무의 직업에 대해 설명하자면 주로 요리사, 전기공, 운전기사, 길거리에서 떠돌아다니는 장사꾼 등이 있었다. 그의 최근 직업은 개인 자격으로 엔드필드 공업 특수 기술부에 합류하게 되었다.  여러 직업 중에서 가장 자랑스럽게 여기는 직업은 떠돌이 요리사라고 한다. 그는 요리에 대한 열정이 넘치며, 레시피를 연구하고, 새로운 요리를 개발하고, 다양하고 맛있는 요리를 만들어서 손님들의 칭찬을 받는 것이 그의 가장 큰 기쁨이기도 하다.  판은 항상 지니고 다니는 보온병이 있는데, 대부분 사람들은 그저 평범한 보온병이라 생각하지만, 만약 그것을 눈여겨본 이가 염국의 문자를 읽을 줄 안다면 그 보온병에 출처에 대해 궁금증을 가질 것이다. 특히 홍산 출신이라면 그것이 '선진 과학 연구자'에게만 수여되는 상징임을 곧바로 알게 된다.    \"오늘은 내가 책임자로서 새로운 것들을 준비했으니, 이것부터 맛보고 시작하지!\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "ROLLING CUT!",
+    "zh-TW": "滾刀切！",
+    "zh-CN": "滚刀切！",
+    "ja": "乱切り！",
+    "ko": "돌려가며 썰기!"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 20 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成物理傷害。作為主控幹員時，重擊會造成20點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成物理伤害。作为主控干员时，重击会造成20点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値20を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 20포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "FLIP DA WOK!",
+    "zh-TW": "翻鍋！",
+    "zh-CN": "颠勺！",
+    "ja": "鍋振り！",
+    "ko": "뒤집어 주지!"
+   },
+   "text": {
+    "en": "Takes out a wok, quickly charges it up, and performs a powerful wok flip that deals Physical DMG and Lift to the enemy.",
+    "zh-TW": "拿出鐵鍋短暫蓄力後，用力向上翻鍋，對敵人造成物理傷害與擊飛。",
+    "zh-CN": "掏出铁锅进行短暂蓄力后，用力向上颠勺，对敌人造成物理伤害与击飞。",
+    "ja": "鍋を取り出して短時間チャージすると、鍋を振り上げて攻撃する。敵に物理ダメージと浮遊効果を与える。",
+    "ko": "웍을 꺼내 짧게 차지한 다음 힘껏 위로 던집니다. 적에게 물리 피해와 띄우기 피해를 줍니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "MORE SPICE!",
+    "zh-TW": "加料！",
+    "zh-CN": "加料！",
+    "ja": "調味料！",
+    "ko": "조미료 뿌리기!"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy reaches 4 stacks of Vulnerability.\nSwings the wok at the enemy to deal massive Physical DMG and Crush. This Crush also deals more DMG.",
+    "zh-TW": "當有敵人達到4層破防時可以發動。\n拿起鐵鍋對敵人造成大量物理傷害並猛擊，本次猛擊的傷害獲得額外提升。",
+    "zh-CN": "当有敌人达到4层破防时可以发动。\n抡起铁锅对敌人造成大量物理伤害并猛击，本次猛击的伤害获得额外提升。",
+    "ja": "敵のクラッシュ段階が4になったときに発動可能。\n鍋を振り回して敵に高い物理ダメージと猛撃を与える。この猛撃のダメージは追加でアップする。",
+    "ko": "방어 불능 4스택 중첩 상태인 적이 있을 때 사용할 수 있습니다.\n웍을 휘둘러 적에게 대량의 물리 피해를 주고 강타합니다. 이번 강타로 주는 피해는 조금 더 강합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "CHOP 'N DUNK!",
+    "zh-TW": "切絲入鍋！",
+    "zh-CN": "切丝入锅！",
+    "ja": "具材投入！",
+    "ko": "채 썰어 웍에 넣기!"
+   },
+   "text": {
+    "en": "Da Pan slams the chopping board to forcibly Lift all enemies in the area of effect in front of him. This is followed by a 6-sequence flurry of slashes that deals Physical DMG. The final step is to bash every enemy to the ground to forcibly Knock Down and deal massive Physical DMG to them.",
+    "zh-TW": "猛拍砧板，立即對前方範圍內的敵人強制造成擊飛。隨後發動6段連續斬擊，造成物理傷害，最後將所有敵人一併擊墜，強制使其倒地，造成大量物理傷害。",
+    "zh-CN": "猛拍砧板，立即对前方范围内的敌人强制造成击飞。随后发动6段连续斩击，造成物理伤害，最后将所有敌人一并击坠，强制造成倒地，造成大量物理伤害。",
+    "ja": "まな板を強く叩き、前方範囲内の敵を強制的に浮遊させる。その後、6段の連続斬撃を放ち、敵に物理ダメージを与える。最後にすべての敵を叩き落とし、強制的に転倒させ、高い物理ダメージを与える。",
+    "ko": "도마를 강하게 내리쳐, 전방 범위 내의 적에게 강제 띄우기 피해를 줍니다. 이어서 연속 6단 베기 공격을 사용하여 물리 피해를 주며, 마지막에 모든 적을 추락시키는 것으로 강제 넘어뜨리기 피해를 주고, 대량의 물리 피해를 줍니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Reduce and Thicken",
+    "zh-TW": "勾芡",
+    "zh-CN": "勾芡",
+    "ja": "とろみづけ",
+    "ko": "전분 풀기"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "After consuming 1 Vulnerability stack, Da Pan gains Physical DMG Dealt +4% for 10s. This effect can reach 4 stacks.",
+      "zh-TW": "每消耗1層破防後，造成的物理傷害+4%，持續10秒，該效果最多疊加4層。",
+      "zh-CN": "每消耗1层破防后，造成的物理伤害+4%，持续10秒，该效果最多叠加4层。",
+      "ja": "消費するクラッシュ段階1につき、10秒間敵への物理ダメージ+4%（4回まで重ね掛け可能）",
+      "ko": "매번 방어 불능 1스택을 소모한 후, 주는 물리 피해 +4%, 10초 동안 지속. 해당 효과는 최대 4스택까지 중첩됩니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "After consuming 1 Vulnerability stack, Da Pan gains Physical DMG Dealt +6% for 10s. This effect can reach 4 stacks.",
+      "zh-TW": "每消耗1層破防後，造成的物理傷害+6%，持續10秒，該效果最多疊加4層。",
+      "zh-CN": "每消耗1层破防后，造成的物理伤害+6%，持续10秒，该效果最多叠加4层。",
+      "ja": "消費するクラッシュ段階1につき、10秒間敵への物理ダメージ+6%（4回まで重ね掛け可能）",
+      "ko": "매번 방어 불능 1스택을 소모한 후, 주는 물리 피해 +6%, 10초 동안 지속. 해당 효과는 최대 4스택까지 중첩됩니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Salty or Mild",
+    "zh-TW": "嚐嚐鹹淡",
+    "zh-CN": "尝尝咸淡",
+    "ja": "味見",
+    "ko": "간 맞추기"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Ultimate CHOP 'N DUNK! improved: For every enemy hit by the final sequence of the ultimate, gains 1 stack of Prep Ingredients for 20s (max stacks: 1). When Prep Ingredients is active, hitting an enemy with combo skills immediately shortens cooldown by 40% and consumes 1 stack of Prep Ingredients.",
+      "zh-TW": "終結技切絲入鍋！的最後一擊每命中一個敵人，獲得一層備料狀態，持續20秒，最多疊加1層。當處於備料狀態時，連攜技命中敵人後立即恢復40%冷卻時間並消耗一層備料狀態。",
+      "zh-CN": "终结技切丝入锅！的最后一击每命中一个敌人，获得一层备料状态，持续20秒，最多叠加1层。当处于备料状态时，连携技命中敌人后立即恢复40%冷却时间并消耗一层备料状态。",
+      "ja": "必殺技「具材投入！」の最後の一撃が命中した敵1体につき、20秒間持続する下ごしらえ状態を1段階獲得する（最大1段階まで）\n下ごしらえ状態持続中、連携技が敵に命中すると、CD時間が即座に40%回復し、下ごしらえ状態を1段階消費する",
+      "ko": "궁극기 채 썰어 웍에 넣기!의 마지막 공격이 적을 명중할 때마다 식재료 준비 상태 1스택을 획득합니다. 20초 동안 지속되며, 최대 1스택까지 중첩됩니다. 식재료 준비 상태일 때 연계 스킬이 적을 명중하면 쿨타임을 즉시 40% 회복하고 식재료 준비 상태 1스택을 소모합니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Ultimate CHOP 'N DUNK! improved: For every enemy hit by the final sequence of the ultimate, gains 1 stack of Prep Ingredients for 20s (max stacks: 2). When Prep Ingredients is active, hitting an enemy with combo skills immediately shortens cooldown by 40% and consumes 1 stack of Prep Ingredients.",
+      "zh-TW": "終結技切絲入鍋！的最後一擊每命中一個敵人，獲得一層備料狀態，持續20秒，最多疊加2層。當處於備料狀態時，連攜技命中敵人後立即恢復40%冷卻時間並消耗一層備料狀態。",
+      "zh-CN": "终结技切丝入锅！的最后一击每命中一个敌人，获得一层备料状态，持续20秒，最多叠加2层。当处于备料状态时，连携技命中敌人后立即恢复40%冷却时间并消耗一层备料状态。",
+      "ja": "必殺技「具材投入！」の最後の一撃が命中した敵1体につき、20秒間持続する下ごしらえ状態を1段階獲得する（最大2段階まで）\n下ごしらえ状態持続中、連携技が敵に命中すると、CD時間が即座に40%回復し、下ごしらえ状態を1段階消費する",
+      "ko": "궁극기 채 썰어 웍에 넣기!의 마지막 공격이 적을 명중할 때마다 식재료 준비 상태 1스택을 획득합니다. 20초 동안 지속되며, 최대 2스택까지 중첩됩니다. 식재료 준비 상태일 때 연계 스킬이 적을 명중하면 쿨타임을 즉시 40% 회복하고 식재료 준비 상태 1스택을 소모합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Fine Cooking",
+    "zh-TW": "精烹細作",
+    "zh-CN": "精烹细作",
+    "ja": "繊細調理",
+    "ko": "정교한 요리"
+   },
+   "text": {
+    "en": "Ultimate CHOP 'N DUNK! improved: If the ultimate defeats at least one enemy, Da Pan deals +30% Physical DMG for 15s. This effect cannot stack.",
+    "zh-TW": "如果終結技切絲入鍋！至少擊敗了一個敵人，大潘造成的物理傷害+30%，持續15秒，該效果無法疊加。",
+    "zh-CN": "如果终结技切丝入锅！至少击败了一个敌人，大潘造成的物理伤害+30%，持续15秒，该效果无法叠加。",
+    "ja": "必殺技「具材投入！」で敵を1体以上倒した場合、15秒間敵への物理ダメージ+30%（重ね掛け不可）",
+    "ko": "궁극기 채 썰어 웍에 넣기!로 1명 이상의 적을 처치했을 때, 판이 주는 물리 피해 +30%, 15초 동안 지속. 해당 효과는 중첩되지 않습니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Harmonized Flavors",
+    "zh-TW": "五味調和",
+    "zh-CN": "五味调和",
+    "ja": "五味調和",
+    "ko": "맛의 조화"
+   },
+   "text": {
+    "en": "Talent Salty or Mild improved: Prep Ingredients buff duration +10s, max stacks +1.",
+    "zh-TW": "天賦嚐嚐鹹淡效果加強：備料狀態持續時間+10秒，最大疊加層數+1。",
+    "zh-CN": "天赋尝尝咸淡效果加强：备料状态持续时间+10秒，最大叠加层数+1。",
+    "ja": "素質「味見」強化：下ごしらえ状態の持続時間+10秒、最大重ね掛け段階+1",
+    "ko": "재능 '간 맞추기' 효과 강화: 식재료 준비 상태 지속 시간 +10초, 최대 중첩 스택 수치 +1"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Model Employee",
+    "zh-TW": "先進工作者",
+    "zh-CN": "先进工作者",
+    "ja": "先進仕事マン",
+    "ko": "모범 직원"
+   },
+   "text": {
+    "en": "Strength +15, Physical DMG Dealt +8%.",
+    "zh-TW": "力量+15，造成的物理傷害+8%。",
+    "zh-CN": "力量+15，造成的物理伤害+8%。",
+    "ja": "筋力+15、敵への物理ダメージ+8%",
+    "ko": "힘 +15, 주는 물리 피해 +8%"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Special Blend",
+    "zh-TW": "自製醬料",
+    "zh-CN": "自制酱料",
+    "ja": "自家製ソース",
+    "ko": "자체 제작 소스"
+   },
+   "text": {
+    "en": "Ultimate CHOP 'N DUNK! improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技切絲入鍋！所需的終結技能量-15%。",
+    "zh-CN": "终结技切丝入锅！所需的终结技能量-15%。",
+    "ja": "必殺技「具材投入！」に必要な必殺チャージ-15%",
+    "ko": "궁극기 채 썰어 웍에 넣기!의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Fire it Up",
+    "zh-TW": "猛火收汁",
+    "zh-CN": "猛火收汁",
+    "ja": "最大火力",
+    "ko": "센불로 소스 졸이기"
+   },
+   "text": {
+    "en": "Battle skill FLIP DA WOK! improved: If the skill hits only one enemy, apply 1 more stack of Vulnerability on the target. This effect can only trigger once every 45s.",
+    "zh-TW": "戰技翻鍋！如果僅命中單個敵人，對目標額外施加一層破防，該效果每45秒最多觸發一次。",
+    "zh-CN": "战技颠勺！如果仅命中单个敌人，对目标额外施加一层破防，该效果每45秒最多触发一次。",
+    "ja": "戦技「鍋振り！」が敵1体にしか命中しなかった場合、目標にクラッシュを追加で1段階付与する\nこの効果は45秒に1回まで発動可能",
+    "ko": "배틀 스킬 뒤집어 주지!가 단일 목표에만 명중했을 경우, 목표에 추가로 방어 불능 1스택을 쌓습니다. 해당 효과는 45초마다 최대 1회만 발동합니다."
+   }
+  }
+ ]
+}

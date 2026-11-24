@@ -47,7 +47,11 @@ sources:
 | Voice, Korean | Min Seungwoo |
 | Operator File | [Argent Flow's file](/story/argent-flow/) |
 
-Argent Flow is an Imperial Guard of Yan and Captain of Pacified Skies at Hongshan Academy of Sciences who serves under Tianshi Tan and fights alongside Endfield across Talos-II; despite an aloof reputation he readily helps people he meets.
+> "Suited up and ready. There will be no holding back."\
+> Argent Flow, Imperial Guard of Yan and Captain of Pacified Skies of Hongshan Academy of Sciences. With sword in hand, he spurs his galloper, Nuli, forward like a bolt of lightning across the northern front lines, leaving countless legends in his wake. Yet beyond the legends, he is not nearly as aloof as people make him out to be. As he journeys across mountains and rivers, he never hesitates to lend a hand whenever he encounters someone in need, no matter how small the matter.\
+> He rarely speaks of the past, yet old tales still linger on people's lips: it was you who changed how he wields his sword.\
+> Body of steel, heart of soul. The answer you gave him has illuminated his path through the long night. From here on, he will continue to serve under Tianshi Tan and journey across Talos-II to solve whatever disasters may arise. Sword in hand, he will walk alongside Endfield and carve a path for civilization, until the lights of every home can shine undisturbed by calamity.\
+> "When you need to make a hard decision, I will be at your side. You can have full faith in our bond."
 
 ## How to obtain
 
@@ -73,12 +77,39 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Dust Resplendent | Physical combo of up to 5 hits. As the controlled operator, his final strike also deals 23 Stagger. |
-| Battle skill | Darkness Cowed | He sweeps his lance for Physical damage around him and applies Lift ahead. After his combo skill, this temporarily becomes Bolt Rush, a mounted charge that deals Electric damage over a large area in front and forces Electrification; it consumes all Electric Infliction on a target, adding 1 Electrification Status Level per stack, and applies 1 stack of Vulnerability. Costs 100 SP. |
-| Combo skill | Stars Shifted | Trigger: an enemy becomes Vulnerable. He strikes at lightning speed with a multi-hit Electric slash that hits enemies along its path, its final hit applying Electric Infliction, then temporarily replaces his battle skill with Bolt Rush. Cooldown 19 s, 18 s at the highest skill level. |
-| Ultimate | Heavens Sundered | He charges on Nuli for continuous Electric damage while carrying weak enemies, stopping early against enemies that cannot be pushed. He then leaps to unleash Cleansing Cleave for Electric damage and 1 stack of Electric Infliction, before piercing the ground for large-area Electric damage and Crush. Costs 80 Ultimate Energy. |
+| Basic attack | Dust Resplendent | — |
+| Battle skill | Darkness Cowed | 100 SP |
+| Combo skill | Stars Shifted | Cooldown 19 s, 18 s at level 12 |
+| Ultimate | Heavens Sundered | 80 Ultimate Energy |
+
+### Dust Resplendent
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 23 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.
+
+### Darkness Cowed
+
+> Argent Flow sweeps his lance and deals Physical DMG to nearby enemies and applies Lift to target(s) in front of him.\
+> After Argent Flow casts his combo skill, his battle skill is temporarily changed to Bolt Rush.\
+> Bolt Rush: Argent Flow mounts his galloper Nuli to leap into mid-air, powers up quickly, and then charges at the target to forcibly apply Electrification and deal Electric DMG to enemies within a large area in front of him. When this Electrification is applied on a target with Electric Infliction, it consumes all Electric Infliction stacks from the target and grants Electrification Status Level +1 per 1 stack consumed. After consuming the target's Electric Infliction, Argent Flow also applies 1 stack of Vulnerability.
+
+### Stars Shifted
+
+> COMBO TRIGGER: When an enemy becomes Vulnerable.\
+> Argent Flow wields his blade with lightning speed to unleash a multi-sequence attack that deals Electric DMG to enemies along his path. When the final sequence scores a hit, it also applies Electric Infliction. Argent Flow's battle skill is then temporarily changed to Bolt Rush.
+
+### Heavens Sundered
+
+> Argent Flow mounts Nuli and charges with his lance, dealing continuous Electric DMG to targets in front of him while impaling and carrying weak enemies before him throughout the charge. After the charge ends, Argent Flow leaps into the air and unleashes a Cleansing Cleave at the ground. The slash deals Electric DMG and applies 1 stack of Electric Infliction. Argent Flow then pierces the ground with his lance, applying Crush and dealing Electric DMG to enemies within a large area.\
+> If Argent Flow's ultimate charges into a non-weak enemy (that cannot be impaled and pushed), his charge will end early.
 
 ## Skill values
 
@@ -108,20 +139,41 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Zenith of Voltmancy | Promotion I; upgraded at Promotion II | Electrification he applies also raises all DMG Taken while it lasts, and adds Sunderization stacks equal to its Status Level (max 12, lasting 60 s). Crush on a Sunderization target deals 1.2 times damage and detonates all stacks for 220% ATK Electric damage per stack (330% at Promotion II), with 40% splash that chains to other marked enemies. |
-| Springvolt Galore | Promotion II; upgraded at Promotion III | Casting Bolt Rush grants the whole team +30 Arts Intensity for 20 s (+45 at Promotion III). Each point of Argent Flow's Arts Intensity also increases Sunderization explosion damage by 0.4% (0.6% at Promotion III). |
+### Zenith of Voltmancy
+
+**Promotion I**
+
+> When Argent Flow applies Electrification, this Electrification also increases all types of DMG Taken of the target for the same duration, and he also applies Sunderization stack(s) on the target, the number of stacks is equal to the Electrification Status Level and maxes out at 12. Sunderization lasts for 60s.\
+> When dealing Crush DMG to a target with Sunderization, this Crush DMG is increased to 1.2 times the original and detonates all Sunderization stacks. The explosion deals \[Number of Sunderization stacks × 220% ATK\] of Electric DMG to the target and 40% of that DMG to other enemies near the said target.\
+> When the explosion DMG of Sunderization is dealt to another enemy with Sunderization, it also detonates all Sunderization stacks of that enemy.
+
+**Promotion II**
+
+> When Argent Flow applies Electrification, this Electrification also increases all types of DMG Taken of the target for the same duration, and he also applies Sunderization stack(s) on the target, the number of stacks is equal to the Electrification Status Level and maxes out at 12. Sunderization lasts for 60s.\
+> When dealing Crush DMG to a target with Sunderization, this Crush DMG is increased to 1.2 times the original and detonates all Sunderization stacks. The explosion deals \[Number of Sunderization stacks × 330% ATK\] of Electric DMG to the target and 40% of that DMG to other enemies near the said target.\
+> When the explosion DMG of Sunderization is dealt to another enemy with Sunderization, it also detonates all Sunderization stacks of that enemy.
+
+### Springvolt Galore
+
+**Promotion II**
+
+> Battle skill Bolt Rush improved: The entire team gains Arts Intensity +30 for 20s.\
+> For every point of Arts Intensity that Argent Flow has, increase Sunderization explosion DMG by another 0.4%.
+
+**Promotion III**
+
+> Battle skill Bolt Rush improved: The entire team gains Arts Intensity +45 for 20s.\
+> For every point of Arts Intensity that Argent Flow has, increase Sunderization explosion DMG by another 0.6%.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Wildswept Storm | Zenith of Voltmancy increases Crush damage against Sunderization targets to 1.4 times and raises Sunderization explosion damage to nearby enemies to 50% |
-| 2 | Electrified Spring | Will +20, Arts Intensity +16 |
-| 3 | Storm Blitz | Every 1 stack of Electric Infliction consumed during Bolt Rush grants Argent Flow +6% Electric damage for 25 s, stacking up to 6 times with independent durations |
-| 4 | Starflow Illuminated | Heavens Sundered costs 15% less Ultimate Energy |
-| 5 | Invitation to Celestial Lights | Springvolt Galore grants the team an extra +15 Arts Intensity on Bolt Rush and boosts its Sunderization explosion damage bonus per Arts Intensity to 1.2 times |
+| 1 | Wildswept Storm | Talent Zenith of Voltmancy improved: When applying Crush to a target with Sunderization, the DMG dealt by this Crush is increased to 1.4 times the original. Proportion of Sunderization explosion DMG dealt to other enemies near the target is increased to 50%. |
+| 2 | Electrified Spring | Will +20, Arts Intensity +16. |
+| 3 | Storm Blitz | Battle skill Bolt Rush improved: For every 1 stack of Electric Infliction consumed, Argent Flow gains Electric DMG Dealt +6% for 25s. This effect can reach 6 stacks. Duration of each stack is counted separately. |
+| 4 | Starflow Illuminated | Ultimate Heavens Sundered improved: Ultimate Energy Cost -15%. |
+| 5 | Invitation to Celestial Lights | Talent Springvolt Galore improved: When casting the battle skill Bolt Rush, the entire team gains an additional Arts Intensity +15. Sunderization explosion DMG bonus per point of Argent Flow's Arts Intensity is increased to 1.2 times the original. |
 
 ## Base skills
 
@@ -129,10 +181,10 @@ Base skills work while Argent Flow is assigned to a room of the Dijiang. Each ha
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Axiom of Combat β | MFG Cabin | Promotion I | Operator EXP materials made 20% faster |
-| Axiom of Combat γ | MFG Cabin | Promotion III | Operator EXP materials made 30% faster |
-| Tools of Momentum β | MFG Cabin | Promotion II | Mood drop of the operators in this room −14% |
-| Tools of Momentum γ | MFG Cabin | Promotion IV | Mood drop of the operators in this room −18% |
+| Axiom of Combat β | MFG Cabin | Promotion I | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20% |
+| Axiom of Combat γ | MFG Cabin | Promotion III | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30% |
+| Tools of Momentum β | MFG Cabin | Promotion II | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14% |
+| Tools of Momentum γ | MFG Cabin | Promotion IV | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 18% |
 
 ## Base stats
 

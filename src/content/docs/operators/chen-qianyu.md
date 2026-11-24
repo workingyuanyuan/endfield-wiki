@@ -44,7 +44,8 @@ sources:
 | Voice, Korean | Jeong Hae-eun |
 | Operator File | [Chen Qianyu's file](/story/chen-qianyu/) |
 
-Chen Qianyu is a core member of Endfield Industries' Crisis Team who trained in martial arts from childhood, travelled Talos-II alone for several years, and joined at Perlica's invitation.
+> "Well, turns out I'm great at something other than martial arts. I just can't help but end up as your best operator."  Chen Qianyu is an operator at Endfield Industries and a core member of the Crisis Team.  From a young age, she trained in martial arts under the guidance of her mother and at Tanjian Hall. Her dedication earned her outstanding combat capabilities and a mental fortitude rarely seen among her peers. Though she has never laid eyes on the legendary Chi Xiao, she proudly upholds her self-developed Chi Xiao Swordmancy, and wields it in the name of justice.  After years of roaming Talos-II alone with her sword, Chen Qianyu joined Endfield at Perlica's invitation. Her upbeat nature and fierce enthusiasm drive her to tackle every urgent challenge without hesitation.\
+> "They say my mother's blade stirred the very clouds themselves, Endmin. And I'll do exactly that ... and become the one that you and Perlica can always count on!"
 
 ## How to obtain
 
@@ -67,12 +68,36 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Soaring Break | Physical combo of up to 5 hits. While she is the controlled operator, her Final Strike also deals 16 Stagger. |
-| Battle skill | Ascending Strike | Performs an uppercut slash at the target, dealing Physical damage and applying Lift. Costs 100 SP. |
-| Combo skill | Soar to the Stars | Trigger: an enemy becomes Vulnerable. She dashes through the target with a slash, dealing Physical damage and Lift to every enemy in her path. Cooldown 16 s, 15 s at the highest skill level. |
-| Ultimate | Blade Gale | Unleashes a 7-hit slash combo on the target for Physical damage, with the final slash dealing heavier damage. Costs 70 Ultimate Energy. |
+| Basic attack | Soaring Break | — |
+| Battle skill | Ascending Strike | 100 SP |
+| Combo skill | Soar to the Stars | Cooldown 16 s, 15 s at level 12 |
+| Ultimate | Blade Gale | 70 Ultimate Energy |
+
+### Soaring Break
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 16 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.
+
+### Ascending Strike
+
+> Performs an uppercut slash at the target enemy, dealing Physical DMG and Lift.
+
+### Soar to the Stars
+
+> COMBO TRIGGER: When an enemy becomes Vulnerable.\
+> A slashing dash that passes through the target enemy and deals Physical DMG and Lift to all enemies along the way.
+
+### Blade Gale
+
+> A 7-sequence slash attack that deals Physical DMG with each sequence to the target enemy. The final slash sequence deals even more DMG.
 
 ## Skill values
 
@@ -99,20 +124,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Slashing Edge | Promotion I; upgraded at Promotion II | Hitting an enemy with a skill grants Chen Qianyu +4% ATK (+8% at Promotion II) for 10 s, stacking up to 5 times. |
-| Momentum Breaker | Promotion II; upgraded at Promotion III | Interrupting an enemy's charge-up deals an extra 5 Stagger (10 at Promotion III). |
+### Slashing Edge
+
+**Promotion I**
+
+> After hitting an enemy with skills, Chen gains ATK +4% for 10s. This effect can reach 5 stacks.
+
+**Promotion II**
+
+> After hitting an enemy with skills, Chen gains ATK +8% for 10s. This effect can reach 5 stacks.
+
+### Momentum Breaker
+
+**Promotion II**
+
+> Interrupting the enemy's charge up deals another 5 Stagger.
+
+**Promotion III**
+
+> Interrupting the enemy's charge up deals another 10 Stagger.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | "Shadowless" | Deals +20% damage to enemies below 50% HP |
-| 2 | Heirloom Martial Arts | Agility +15, Physical damage dealt +8% |
-| 3 | Dual-Wielding Swordmancer | Ascending Strike, Soar to the Stars, and Blade Gale deal 1.1 times their damage |
-| 4 | Improvised Chi Xiao | Blade Gale costs 15% less Ultimate Energy |
-| 5 | Bonded with the World | Soar to the Stars has its cooldown reduced by 3 s |
+| 1 | "Shadowless" | DMG Dealt +20% to enemies below 50% HP. |
+| 2 | Heirloom Martial Arts | Agility +15, Physical DMG Dealt +8%. |
+| 3 | Dual-Wielding Swordmancer | Battle skill Ascending Strike, combo skill Soar to the Stars, and ultimate Blade Gale improved: DMG Multiplier is increased to 1.1 times the original. |
+| 4 | Improvised Chi Xiao | Ultimate Blade Gale improved: Ultimate Energy cost -15%. |
+| 5 | Bonded with the World | Combo skill Soar to the Stars improved: Length of cooldown -3s. |
 
 ## Base skills
 
@@ -120,10 +160,10 @@ Base skills work while Chen Qianyu is assigned to a room of the Dijiang. Each ha
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Blade Critique α | MFG Cabin | Promotion I | Weapon EXP materials made 10% faster |
-| Blade Critique β | MFG Cabin | Promotion III | Weapon EXP materials made 20% faster |
-| Jadeworking β | Growth Chamber | Promotion II | Rare minerals grow 20% faster |
-| Jadeworking γ | Growth Chamber | Promotion IV | Rare minerals grow 30% faster |
+| Blade Critique α | MFG Cabin | Promotion I | Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +10% |
+| Blade Critique β | MFG Cabin | Promotion III | Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20% |
+| Jadeworking β | Growth Chamber | Promotion II | Assign to Growth Chamber to grant rare mineral growth rate +20% |
+| Jadeworking γ | Growth Chamber | Promotion IV | Assign to Growth Chamber to grant rare mineral growth rate +30% |
 
 ## Base stats
 

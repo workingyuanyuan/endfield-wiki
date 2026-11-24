@@ -49,7 +49,10 @@ sources:
 | Voice, Korean | Eunseo Yoon |
 | Operator File | [Si's file](/story/si/) |
 
-Si is what people on Talos-II call a Feranmut Proxy, though she is no one's proxy; she supports HAS and Endfield with her abilities and explores cities for new technology and fashion.
+> "Hmph. Only think of me when trouble shows up?"\
+> Si is one of the few Feranmut Proxies on Talos-II. The Feranmuts are paracausal beings native to Terra, and the consciousness that They manifest in slumber before human presence is known as Feranmut Proxy. Si's relationship with her Feranmut is somewhat complicated, but people still habitually refer to her as a Feranmut Proxy. In truth, Si is no one's Proxy. She is simply herself. Beneath her formidable and mysterious exterior lies a young soul who still holds onto hope and curiosity about the world.\
+> In her daily life, she uses her abilities to provide comprehensive support for HAS and Endfield. In her spare time, she enjoys exploring the cities of Talos-II in search of the latest technologies and fashion trends. She follows her heart's desires and is unfettered by conventions.\
+> "I'll help you out again. Remember to pay up once we get back to the inn."
 
 ## How to obtain
 
@@ -76,12 +79,39 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Artistic Urge | Cryo combo of up to 5 hits. The final strike deals 18 Stagger while Si is the controlled operator. |
-| Battle skill | Brushwork Realm | Deals Cryo damage, Immobilization, Artful Intent (records damage, bursts as Fixed DMG), and Cryo Infliction (Heat Infliction if Team Position 01 is Heat). Becomes Initial Stroke (15 SP) to pull an Inksoul relaying damage and effects (hits on both count once), then Final Stroke (no SP) to burst early; a defeated host relinks or drops it. Costs 100 SP. |
-| Combo skill | Fully Envisioned | Trigger: Cryo Infliction or Heat Infliction on an enemy is consumed or absorbed. Calls forth an Ink Lung for Cryo damage scaling with the highest Arts Infliction stacks removed or absorbed from one target. Cooldown 16 s, 15 s at the highest skill level. |
-| Ultimate | No One Spoils the Fun | Si calls forth a Giant Ink Lung from her painting to deal Cryo damage and grant the whole team temporary Cryo Amp and Heat Amp. Costs 80 Ultimate Energy. |
+| Basic attack | Artistic Urge | — |
+| Battle skill | Brushwork Realm | 100 SP |
+| Combo skill | Fully Envisioned | Cooldown 16 s, 15 s at level 12 |
+| Ultimate | No One Spoils the Fun | 80 Ultimate Energy |
+
+### Artistic Urge
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Cryo DMG. As the controlled operator, Final Strike also deals 18 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Cryo DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Cryo DMG and recovers some SP.
+
+### Brushwork Realm
+
+> Si deals Cryo DMG and applies Artful Intent, Immobilization, and Cryo Infliction (or Heat Infliction if a Heat element operator is in Team Position 01) on the target. After a target with Artful Intent takes DMG, part of the DMG taken is recorded. When the duration of Artful Intent ends, it bursts and deals Fixed DMG equal to the DMG recorded. After casting the skill, Si's battle skill is temporarily changed to Initial Stroke.\
+> Initial Stroke: Costs 15 SP. Si pulls an Inksoul from a target with Artful Intent. All DMG dealt and effects applied to the Inksoul will also be dealt to its host (the said target). The Inksoul lasts as long as the remaining duration of Artful Intent. After casting the skill, Si's battle skill is temporarily changed to Final Stroke.\
+> Final Stroke: Costs no SP. Makes the Inksoul disappear early. When disappearing, the Inksoul will move to its host and trigger a burst like the ending burst of Artful Intent.\
+> When dealing DMG or applying effects to both the Inksoul and the host, only 1 instance of the DMG or effect is dealt/applied. If the host is defeated during the Inksoul's duration, it will link to another enemy in combat and apply Artful Intent to it. This does not reset the duration of Artful Intent. If a target with Artful Intent is defeated without having its Inksoul drawn out of it, the defeated target will drop an Inksoul at its location.
+
+### Fully Envisioned
+
+> COMBO TRIGGER: When an enemy's Cryo Infliction or Heat Infliction is consumed or absorbed.\
+> Si summons an Ink Lung that deals Cryo DMG. This DMG is based on the highest stacks of Arts Infliction consumed or absorbed from a single target.
+
+### No One Spoils the Fun
+
+> Si summons a Giant Ink Lung from her painting that deals Cryo DMG and grants temporary Cryo Amp and Heat Amp to the entire team.
 
 ## Skill values
 
@@ -113,20 +143,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Proxy's Patronage | Promotion I; upgraded at Promotion II | Casting No One Spoils the Fun takes 10 s off the remaining combo skill cooldown of the Team Position 01 operator (20 s at Promotion II). |
-| Unsoiled Brush | Promotion II; upgraded at Promotion III | When the Inksoul disappears, allied operators gain 15% Haste (30% at Promotion III) for 5 s. |
+### Proxy's Patronage
+
+**Promotion I**
+
+> Ultimate skill No One Spoils the Fun improved: After casting, Team Position 01 operator's combo skill cooldown length -10s.
+
+**Promotion II**
+
+> Ultimate skill No One Spoils the Fun improved: After casting, Team Position 01 operator's combo skill cooldown length -20s.
+
+### Unsoiled Brush
+
+**Promotion II**
+
+> When the Inksoul disappears, allied operators gain 15% Haste for 5s.
+
+**Promotion III**
+
+> When the Inksoul disappears, allied operators gain 30% Haste for 5s.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Spring and Autumn as Ink | Brushwork Realm's Immobilization lasts 50% longer, and Artful Intent gains +7% DMG Record Ratio and +40% burst radius |
-| 2 | Three Marks Deep in Wood | Casting Fully Envisioned gives Si +8% ATK plus 3% per highest Arts Infliction stack consumed or absorbed from one target for 10 s, non-stacking |
-| 3 | Study of Muscles and Bones | No One Spoils the Fun deals 1.2 times its damage and grants 1.2 times its Amp effect |
-| 4 | Perfectly Composed in Spirit | No One Spoils the Fun costs 15% less Ultimate Energy |
-| 5 | Brush Dab in Eye's White | Fully Envisioned's cooldown is reduced by 2 s, its damage becomes 1.15 times as high, and it counts 1 extra stack of infliction as consumed or absorbed |
+| 1 | Spring and Autumn as Ink | Battle skill Brushwork Realm improved: Duration of Immobilization applied +50%; Artful Intent DMG Record Ratio +7% and burst radius +40%. |
+| 2 | Three Marks Deep in Wood | Combo skill Fully Envisioned improved: When casting, Si gains ATK +\[8% + 3%×(Highest stacks of Arts Infliction consumed or absorbed from a single target)\] for 10s. This effect cannot stack. |
+| 3 | Study of Muscles and Bones | Ultimate No One Spoils the Fun improved: DMG Dealt is increased to 1.2 times the original; Amp effect is increased to 1.2 times the original. |
+| 4 | Perfectly Composed in Spirit | Ultimate No One Spoils the Fun improved: Ultimate Energy cost -15%. |
+| 5 | Brush Dab in Eye's White | Combo skill Fully Envisioned improved: Length of combo skill cooldown -2s and DMG Dealt is increased to 1.15 times the original. When triggered, treat the combo skill as having consumed or absorbed 1 additional stack of infliction. |
 
 ## Base skills
 
@@ -134,10 +179,10 @@ Base skills work while Si is assigned to a room of the Dijiang. Each has two lev
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Ware is the Geist β | Reception Room | Promotion I | Clues collected 20% faster |
-| Ware is the Geist γ | Reception Room | Promotion III | Clues collected 30% faster |
-| Ink Spirit Aide β | Reception Room | Promotion II | Mood drop of the operators in this room −14% |
-| Ink Spirit Aide γ | Reception Room | Promotion IV | Mood drop of the operators in this room −18% |
+| Ware is the Geist β | Reception Room | Promotion I | Assign to Reception Room to grant operator clue collecting efficiency +20% |
+| Ware is the Geist γ | Reception Room | Promotion III | Assign to Reception Room to grant operator clue collecting efficiency +30% |
+| Ink Spirit Aide β | Reception Room | Promotion II | Assign to Reception Room to slow Mood Drop of all operators in it by 14% |
+| Ink Spirit Aide γ | Reception Room | Promotion IV | Assign to Reception Room to slow Mood Drop of all operators in it by 18% |
 
 ## Base stats
 

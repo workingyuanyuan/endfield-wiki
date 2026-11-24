@@ -45,7 +45,8 @@ sources:
 | Voice, Korean | Hwang Chang-yung |
 | Operator File | [Da Pan's file](/story/da-pan/) |
 
-Da Pan is a former Hongshan Academy of Sciences member and proud traveling chef who joined Endfield Industries' Specialist Tech Division as an independent.
+> "If you're not good with a dish, just make it more often! I don't cook to show off! I do it to make a pretty and joyful feast!"  Da Pan hails from the prestigious Hongshan Academy of Sciences, but after leaving, he took up all kinds of "dispersed key logistical support roles" — from chef and electrician to chauffeur and street vendor. His latest move? Joining the Specialist Tech Division of Endfield Industries as an independent.  Of all the roles he's taken on, the one he's most proud of is being a traveling chef. He's passionate about exploring new recipes and creating inventive dishes. Nothing makes him happier than crafting delicious meals that win praise from every diner he serves.  There's a water bottle Da Pan keeps with him at all times, though few ever notice it. Those who can read Yanese characters might wonder about its origin. But if they're from Hongshan, they'll know exactly where it came from and the weight it carries as an honor awarded only to a Vanguard Scientist.\
+> "Try this. I cooked it myself!"
 
 ## How to obtain
 
@@ -66,12 +67,36 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | ROLLING CUT! | Physical combo of up to 4 hits. While he is the controlled operator, his Final Strike also deals 20 Stagger. |
-| Battle skill | FLIP DA WOK! | Briefly charges a wok and flips it upward, dealing Physical damage and Lift to the enemy. Costs 100 SP. |
-| Combo skill | MORE SPICE! | Trigger: an enemy reaches 4 stacks of Vulnerability. He swings his wok to deal heavy Physical damage and Crush, with bonus damage on this Crush. Cooldown 20 s, 19 s at the highest skill level. |
-| Ultimate | CHOP 'N DUNK! | Slams his chopping board to forcibly Lift all enemies ahead, follows with a 6-hit Physical slash flurry, then slams them down for heavy Physical damage and forced Knock Down. Costs 90 Ultimate Energy. |
+| Basic attack | ROLLING CUT! | — |
+| Battle skill | FLIP DA WOK! | 100 SP |
+| Combo skill | MORE SPICE! | Cooldown 20 s, 19 s at level 12 |
+| Ultimate | CHOP 'N DUNK! | 90 Ultimate Energy |
+
+### ROLLING CUT!
+
+> BASIC ATTACK:\
+> An attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 20 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.
+
+### FLIP DA WOK!
+
+> Takes out a wok, quickly charges it up, and performs a powerful wok flip that deals Physical DMG and Lift to the enemy.
+
+### MORE SPICE!
+
+> COMBO TRIGGER: When an enemy reaches 4 stacks of Vulnerability.\
+> Swings the wok at the enemy to deal massive Physical DMG and Crush. This Crush also deals more DMG.
+
+### CHOP 'N DUNK!
+
+> Da Pan slams the chopping board to forcibly Lift all enemies in the area of effect in front of him. This is followed by a 6-sequence flurry of slashes that deals Physical DMG. The final step is to bash every enemy to the ground to forcibly Knock Down and deal massive Physical DMG to them.
 
 ## Skill values
 
@@ -97,20 +122,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Reduce and Thicken | Promotion I; upgraded at Promotion II | Consuming 1 stack of Vulnerability grants Da Pan +4% Physical damage dealt (+6% at Promotion II) for 10 s, stacking up to 4 times. |
-| Salty or Mild | Promotion II; upgraded at Promotion III | Each enemy hit by the final sequence of CHOP 'N DUNK! grants 1 stack of Prep Ingredients for 20 s, max 1 stack (2 at Promotion III). While active, hitting with a combo skill spends 1 stack to cut cooldown by 40%. |
+### Reduce and Thicken
+
+**Promotion I**
+
+> After consuming 1 Vulnerability stack, Da Pan gains Physical DMG Dealt +4% for 10s. This effect can reach 4 stacks.
+
+**Promotion II**
+
+> After consuming 1 Vulnerability stack, Da Pan gains Physical DMG Dealt +6% for 10s. This effect can reach 4 stacks.
+
+### Salty or Mild
+
+**Promotion II**
+
+> Ultimate CHOP 'N DUNK! improved: For every enemy hit by the final sequence of the ultimate, gains 1 stack of Prep Ingredients for 20s (max stacks: 1). When Prep Ingredients is active, hitting an enemy with combo skills immediately shortens cooldown by 40% and consumes 1 stack of Prep Ingredients.
+
+**Promotion III**
+
+> Ultimate CHOP 'N DUNK! improved: For every enemy hit by the final sequence of the ultimate, gains 1 stack of Prep Ingredients for 20s (max stacks: 2). When Prep Ingredients is active, hitting an enemy with combo skills immediately shortens cooldown by 40% and consumes 1 stack of Prep Ingredients.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Fine Cooking | If CHOP 'N DUNK! defeats at least one enemy, Da Pan gains +30% Physical damage for 15 s (does not stack) |
-| 2 | Harmonized Flavors | Salty or Mild's Prep Ingredients lasts 10 s longer and holds 1 more max stack |
-| 3 | Model Employee | Strength +15, Physical damage dealt +8% |
-| 4 | Special Blend | CHOP 'N DUNK! costs 15% less Ultimate Energy |
-| 5 | Fire it Up | When FLIP DA WOK! hits only a single enemy, it applies 1 extra stack of Vulnerability, at most once every 45 s |
+| 1 | Fine Cooking | Ultimate CHOP 'N DUNK! improved: If the ultimate defeats at least one enemy, Da Pan deals +30% Physical DMG for 15s. This effect cannot stack. |
+| 2 | Harmonized Flavors | Talent Salty or Mild improved: Prep Ingredients buff duration +10s, max stacks +1. |
+| 3 | Model Employee | Strength +15, Physical DMG Dealt +8%. |
+| 4 | Special Blend | Ultimate CHOP 'N DUNK! improved: Ultimate Energy cost -15%. |
+| 5 | Fire it Up | Battle skill FLIP DA WOK! improved: If the skill hits only one enemy, apply 1 more stack of Vulnerability on the target. This effect can only trigger once every 45s. |
 
 ## Base skills
 
@@ -118,10 +158,10 @@ Base skills work while Da Pan is assigned to a room of the Dijiang. Each has two
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Chef of Forage and Game α | Growth Chamber | Promotion I | Fungal matter grows 10% faster |
-| Chef of Forage and Game β | Growth Chamber | Promotion III | Fungal matter grows 20% faster |
-| Worldly Wisdom β | Control Nexus | Promotion II | Mood recovery of all operators +12% |
-| Worldly Wisdom γ | Control Nexus | Promotion IV | Mood recovery of all operators +16% |
+| Chef of Forage and Game α | Growth Chamber | Promotion I | Assign to Growth Chamber to grant fungal matter growth rate +10% |
+| Chef of Forage and Game β | Growth Chamber | Promotion III | Assign to Growth Chamber to grant fungal matter growth rate +20% |
+| Worldly Wisdom β | Control Nexus | Promotion II | Assign to Control Nexus to grant all operators' Mood Regen +12% |
+| Worldly Wisdom γ | Control Nexus | Promotion IV | Assign to Control Nexus to grant all operators' Mood Regen +16% |
 
 ## Base stats
 

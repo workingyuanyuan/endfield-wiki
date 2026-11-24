@@ -1,0 +1,237 @@
+{
+ "slug": "arclight",
+ "gameId": "chr_0007_ikut",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"I am Ekut. Callsign Arclight. I am not a trained weaver of words, but I wish you well and may you flow like a rising river, Endfielders.\"  Arclight is a Songseeker who joined Endfield Industries at the recommendation of Aldertone Orisha. She now serves as a field operator and a technical consultant for machinery and vehicles.  No one roaming the wildlands could escape the grip of starvation and disasters, no matter how clever or capable they may think themselves to be. Misfortune struck Arclight hard. The wildlands consumed her entire family, leaving her the only survivor. However, fortune also smiled upon her when a group of Hannabit Circuit Songseekers found and saved her from the brink of death.  The Hannabit Circuit accepted her. There, she quickly learned how to survive in a harsh landscape and follow the example of the Paragons from hannas to help those in need. Today, she roams the wildlands to teach more souls the way of surviving in the unforgiving world of Talos-II.  Arclight may come across as cold and brusque at first, but her minimalist philosophy has proven exceptionally effective for surviving in the wildlands.\n\"Repairing an iron steed is like treating a cystybeast. One must listen closely before administering the treatment.\"",
+  "zh-TW": "「我叫伊庫特，代號是弧光，你好。我不會說什麼好聽的話，就祝你像漲水的河流一樣奔湧吧。」  弧光是一位遊人，在奧里莎師者的引薦下加入終末地工業，擔任外勤幹員，及器械車輛技術顧問。  遊蕩在荒野上的人們，無論擁有怎樣的小聰明，都會被饑饉和災難追上。弧光是不幸的，荒野吞噬了她的家人，只讓她活了下來；她又是幸運的，瀕死時，遇到了眾生長地的遊人。  眾生長地接納了她，她很快學會了如何在自然萬物中生存，學會了如何像歌謠中的強者，救助困苦之人。她遊走於荒野，讓更多生命知曉如何在塔衛二活下去。  或許你會覺得弧光有點冷淡，但這份簡潔與直接，在荒野之上格外有效。    「修摩托車就像幫瘤獸看病一樣，都需要仔細傾聽，然後給出回應。」",
+  "zh-CN": "“我叫伊库特，代号是弧光，你好。我不会说什么漂亮话，就祝你像涨水的河流一样奔涌吧。” 弧光是一位游人，在奥里莎师者的引荐下加入终末地工业，担任外勤干员，及器械车辆技术顾问。 游荡在荒野上的人们，无论拥有怎样的小聪明，都会被饥馑和灾难追上。弧光是不幸的，荒野吞噬了她的家人，只让她活了下来；她又是幸运的，濒死时，遇到了众生长地的游人。 众生长地接纳了她，她很快学会了如何在自然万物中生存，学会了如何像歌谣中的强者，救助困苦之人。她游走于荒野，让更多生命知晓如何在塔卫二活下去。 或许你会觉得弧光有些冷淡，但这份简洁与直接，在荒野之上格外有效。 “修摩托车就像给瘤兽看病一样，都需要仔细倾听，然后给出回应。”",
+  "ja": "「ぼくはエクト。コードネームはアークライトだ。うまいことは全然言えないけど……君が川の流れのように、止まらずに進めるように、願うよ。」 吟遊者であり、詩教者オリシャの推薦を受けてエンドフィールドに加入した。現在は外勤オペレーターと、機械や車輌の技術顧問を務めている。 荒野を彷徨う人々は、どんな知恵を持っていようとも、飢えと災厄からは逃れられない。アークライトもまた、不幸に見舞われた1人であり、自分以外の家族は荒野の犠牲となってしまった。しかし、同時に幸運でもあった。死の淵に立たされたとき「衆生長地」の吟遊者と出会うことができたのだから。 衆生長地に受け入れられたアークライトは、すぐに自然と万物の中で生き抜く術を身につけた。それだけでなく、歌の中の「範者」のように、苦しむ者たちを助けることも学んだ。荒野での旅を続けながら、多くの人にタロⅡで生き残る術を教え、希望を灯している。 アークライトは少し冷たいと感じるときもあるかもしれないが、その冷たさ――つまりシンプルかつ率直な行動こそが、荒野において最も効果的なのである。\n「バイクの修理は瘤獣の看病と似てる。慎重に耳を傾けて、応えてあげることが大切なんだ。」",
+  "ko": "\"안녕, 나는 에쿠트야, 코드네임은 아크라이트. 난 허울 좋은 말을 잘 못해. 그냥 네가 강물처럼 힘차게 흐르길 바랄게.\"  아크라이트는 방랑자로 오리사 사자의 소개로 엔드필드 공업에 합류해 현장 오퍼레이터이자 장비, 차량의 기술 고문으로 활동하고 있다.  황무지를 떠도는 자들이 아무리 영리해도, 굶주림과 재앙은 결국 그들을 덮친다. 아크라이트는 불행하게도 황무지에서 가족을 모두 잃었지만, 살아남았다. 그러나 동시에 행운이기도 했다. 죽음의 문턱에서 만물의 대지 방랑자를 만나게 된 것이다.  그들은 아크라이트를 받아들였고, 그녀는 곧 자연 속에서 살아남는 법을 배웠다. 또한 노래 속 강자들처럼 어려움에 처한 이들을 구하는 법도 깨달았다. 그녀는 황무지를 떠돌며 더 많은 생명들이 탈로스 II에서 살아가는 법을 알 수 있도록 돕는다.  아크라이트는 다소 차갑게 보일 수 있으나, 이런 솔직함과 직설적인 태도는 황무지에서 오히려 탁월한 힘을 발휘한다.    \"바이크를 수리하는 건 치스티비스트를 치료하는 거랑 똑같아. 소리를 잘 듣고 세심하게 움직여야 하거든.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Seek and Hunt",
+    "zh-TW": "循跡逐獵",
+    "zh-CN": "循迹逐猎",
+    "ja": "追跡捕獲",
+    "ko": "추적 사냥"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 16 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成物理傷害。作為主控幹員時，重擊會造成16點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成物理伤害。作为主控干员时，重击会造成16点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値16を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 16포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Tempestuous Arc",
+    "zh-TW": "疾風迅雷",
+    "zh-CN": "疾风迅雷",
+    "ja": "疾風迅雷",
+    "ko": "질풍 섬광"
+   },
+   "text": {
+    "en": "Instantly blinks to the enemy's side to deal 2 slashes that deal some Physical DMG. If the enemy has active Electrification, consume the Electrification to unleash an additional attack that deals Electric DMG and recovers some SP.",
+    "zh-TW": "瞬閃至敵人身邊進行2次斬擊，造成少量物理傷害。若敵人處於導電狀態，消耗其導電狀態並追加1次攻擊，造成電磁傷害，然後回復一定技力。",
+    "zh-CN": "瞬闪至敌人身边进行2次斩击，造成少量物理伤害。若敌人处于导电状态，消耗其导电状态并追加一次攻击，造成电磁伤害，然后恢复一定技力。",
+    "ja": "敵の近くに瞬間移動して2回斬撃を放ち、わずかな物理ダメージを与える。敵が感電状態の場合、感電状態を消費して追加で1回攻撃し、電磁ダメージを与え、SPを一定量回復する。",
+    "ko": "적의 옆으로 순간 이동해 2회의 베기 공격을 하며 소량의 물리 피해를 줍니다. 적이 감전 상태일 경우, 감전 상태를 소모하여 추가로 1회 공격하고 전기 피해를 주며 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Peal of Thunder",
+    "zh-TW": "鳴雷",
+    "zh-CN": "鸣雷",
+    "ja": "雷鳴",
+    "ko": "천둥의 울림"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy suffers Electrification or after an enemy's Electrification is consumed.\nBlinks to the enemy's side to unleash a flurry of slashes that deals Physical DMG and recovers some SP.",
+    "zh-TW": "當有敵人進入導電狀態或導電狀態被消耗後可以發動。\n瞬閃至敵人身邊進行多次斬擊，造成物理傷害，並回復一定技力。",
+    "zh-CN": "当有敌人进入导电状态或导电状态被消耗后可以发动。\n瞬闪至敌人身边进行多次斩击，造成物理伤害，并恢复一定技力。",
+    "ja": "敵が感電状態になるか感電状態が消費されると発動可能。\n敵の近くに瞬間移動して複数回斬撃を放ち、物理ダメージを与え、SPを一定量回復する。",
+    "ko": "적이 감전 상태거나, 감전 상태를 소모한 후, 사용할 수 있습니다.\n적의 옆으로 순간 이동해 연속으로 베기 공격을 하여 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Exploding Blitz",
+    "zh-TW": "轟雷掣電",
+    "zh-CN": "轰雷掣电",
+    "ja": "轟雷裂電",
+    "ko": "천둥번개"
+   },
+   "text": {
+    "en": "Performs a short forward dash while wreathed in arcs of electricity to deal Electric DMG and apply Electric Infliction to all enemies in the path. The lingering arcs explode after a short while, dealing another hit of Electric DMG. If the enemy has active Electric Infliction, consume the Electric Infliction and forcibly apply Electrification.",
+    "zh-TW": "用電弧包裹自身後向前方衝刺一段距離，對路徑上的敵人造成電磁傷害並施加電磁附著。一段時間後，引爆留下的電弧，再次造成電磁傷害，若敵人處於電磁附著狀態，則會消耗其電磁附著並強制施加導電。",
+    "zh-CN": "用电弧包裹自身后向前方冲刺一段距离，对路径上的敌人造成电磁伤害并施加电磁附着。一段时间后，引爆留下的电弧，再次造成电磁伤害，若敌人处于电磁附着状态，则会消耗其电磁附着并强制施加导电。",
+    "ja": "電光を纏いながら前方に向かって突進し、軌道上の敵に電磁ダメージを与え、電磁付着を付与する。一定時間後、残っている電光を爆発させ、再度電磁ダメージを与える。敵が電磁付着状態の場合、電磁付着状態を消費して、敵を強制的に感電状態にする。",
+    "ko": "전기 아크로 자신을 둘러싼 다음, 전방 일정 거리를 돌진하며 경로 상의 적에게 전기 피해를 주고 전기 부착 상태를 부여합니다. 일정 시간이 지나면, 남겨 둔 전기 아크를 폭파시켜 다시 전기 피해를 줍니다. 적이 전기 부착 상태일 경우, 전기 부착 상태를 소모하여 감전 상태를 부여합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Wildland Trekker",
+    "zh-TW": "荒野遊人",
+    "zh-CN": "荒野游人",
+    "ja": "荒野の吟遊者",
+    "ko": "황무지의 여행자"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Battle skill Tempestuous Arc improved: Triggering the additional effect 3 time(s) grants the team Electric DMG Dealt +0.05% for every point of Arclight's Intellect. This effect has a 15s duration and cannot stack.",
+      "zh-TW": "使用戰技疾風迅雷成功觸發3次額外效果後，根據自身的智識，提升全隊造成的電磁傷害，每點智識+0.05%，持續15秒，該效果無法疊加。",
+      "zh-CN": "使用战技疾风迅雷成功触发3次额外效果后，根据自身的智识，提升全队造成的电磁伤害，每点智识+0.05%，持续15秒，该效果无法叠加。",
+      "ja": "戦技「疾風迅雷」で追加効果が3回発動すると、15秒間自身の知性1につきチーム全員の電磁ダメージ+0.05%（重ね掛け不可）",
+      "ko": "배틀 스킬 질풍 섬광을 사용하여 3회의 추가 효과를 발동한 후, 자신의 지능에 따라 팀 전체의 전기 피해가 증가합니다. 지능 1포인트당 +0.05%, 15초 동안 지속. 해당 효과는 중첩되지 않습니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Battle skill Tempestuous Arc improved: Triggering the additional effect 3 time(s) grants the team Electric DMG Dealt +0.08% for every point of Arclight's Intellect. This effect has a 15s duration and cannot stack.",
+      "zh-TW": "使用戰技疾風迅雷成功觸發3次額外效果後，根據自身的智識，提升全隊造成的電磁傷害，每點智識+0.08%，持續15秒，該效果無法疊加。",
+      "zh-CN": "使用战技疾风迅雷成功触发3次额外效果后，根据自身的智识，提升全队造成的电磁伤害，每点智识+0.08%，持续15秒，该效果无法叠加。",
+      "ja": "戦技「疾風迅雷」で追加効果が3回発動すると、15秒間自身の知性1につきチーム全員の電磁ダメージ+0.08%（重ね掛け不可）",
+      "ko": "배틀 스킬 질풍 섬광을 사용하여 3회의 추가 효과를 발동한 후, 자신의 지능에 따라 팀 전체의 전기 피해가 증가합니다. 지능 1포인트당 +0.08%, 15초 동안 지속. 해당 효과는 중첩되지 않습니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Hannabit Wisdom",
+    "zh-TW": "眾生智慧",
+    "zh-CN": "众生智慧",
+    "ja": "衆生智慧",
+    "ko": "만물의 지혜"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "30% chance to ignore an Arts Infliction applied on her.",
+      "zh-TW": "被施加法術附著時，有30%的機率忽略該效果。",
+      "zh-CN": "被施加法术附着时，有30%的概率忽略该效果。",
+      "ja": "アーツ付着を受けるとき、30%の確率で無効になる",
+      "ko": "아츠 부착 상태가 부여될 때, 30%의 확률로 해당 효과에 면역됩니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "50% chance to ignore an Arts Infliction applied on her.",
+      "zh-TW": "被施加法術附著時，有50%的機率忽略該效果。",
+      "zh-CN": "被施加法术附着时，有50%的概率忽略该效果。",
+      "ja": "アーツ付着を受けるとき、50%の確率で無効になる",
+      "ko": "아츠 부착 상태가 부여될 때, 50%의 확률로 해당 효과에 면역됩니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Child of the Storm",
+    "zh-TW": "風暴中的孩子",
+    "zh-CN": "风暴中的孩子",
+    "ja": "嵐の子",
+    "ko": "폭풍의 아이"
+   },
+   "text": {
+    "en": "Battle skill Tempestuous Arc improved: After triggering additional effects, the skill recovers another 10 SP.",
+    "zh-TW": "使用戰技疾風迅雷成功觸發額外效果後，額外回復10點技力。",
+    "zh-CN": "使用战技疾风迅雷成功触发额外效果后，额外恢复10点技力。",
+    "ja": "戦技「疾風迅雷」で追加効果が発動すると、SPを追加で10回復する",
+    "ko": "배틀 스킬 질풍 섬광으로 추가 효과를 발동한 후, 추가로 스킬 게이지 10포인트를 회복합니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Speed Battler",
+    "zh-TW": "速戰速決",
+    "zh-CN": "速战速决",
+    "ja": "短期決戦",
+    "ko": "속전속결"
+   },
+   "text": {
+    "en": "Agility +15, Intellect +15.",
+    "zh-TW": "敏捷+15，智識+15。",
+    "zh-CN": "敏捷+15，智识+15。",
+    "ja": "敏捷+15、知性+15",
+    "ko": "민첩 +15, 지능 +15"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "\"Hanna\"",
+    "zh-TW": "「歌謠」",
+    "zh-CN": "“歌谣”",
+    "ja": "「歌」",
+    "ko": "'노래'"
+   },
+   "text": {
+    "en": "Talent Wildland Trekker improved: DMG Boost effect increased to 1.3 times the original.",
+    "zh-TW": "天賦荒野遊人效果加強：傷害提升效果提升至原本的1.3倍。",
+    "zh-CN": "天赋荒野游人效果加强：伤害提升效果提升至原本的1.3倍。",
+    "ja": "素質「荒野の吟遊者」強化：ダメージUP効果が1.3倍までアップする",
+    "ko": "재능 '황무지의 여행자' 효과 강화: 피해 증가 효과가 기존의 1.3배로 증가합니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Aldertone's Teachings",
+    "zh-TW": "師者教誨",
+    "zh-CN": "师者教诲",
+    "ja": "詩教者の教訓",
+    "ko": "사자의 가르침"
+   },
+   "text": {
+    "en": "Ultimate Exploding Blitz improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技轟雷掣電所需的終結技能量-15%。",
+    "zh-CN": "终结技轰雷掣电所需的终结技能量-15%。",
+    "ja": "必殺技「轟雷裂電」に必要な必殺チャージ-15%",
+    "ko": "궁극기 천둥번개의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Servant of the Wildlands",
+    "zh-TW": "荒野的徒從",
+    "zh-CN": "荒野的徒从",
+    "ja": "荒野の修響者",
+    "ko": "황무지의 수행자"
+   },
+   "text": {
+    "en": "Talent Wildland Trekker improved: Trigger requirement is reduced to 2 time(s).",
+    "zh-TW": "天賦荒野遊人效果加強：觸發所需次數降低至2次。",
+    "zh-CN": "天赋荒野游人效果加强：触发所需次数降低至2次。",
+    "ja": "素質「荒野の吟遊者」強化：発動に必要な回数が2回になる",
+    "ko": "재능 '황무지의 여행자' 효과 강화: 발동에 필요한 횟수가 2회로 감소합니다."
+   }
+  }
+ ]
+}

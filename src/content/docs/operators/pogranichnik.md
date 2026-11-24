@@ -50,7 +50,8 @@ sources:
 | Voice, Korean | Kwon Sung-hyuck |
 | Operator File | [Pogranichnik's file](/story/pogranichnik/) |
 
-Pogranichnik is a Rhodes Island operator and former Shieldguard Banner commander in the Order of Steel Oath who serves Endfield Industries as a military consultant under an agreement between the two companies.
+> "The situation is urgent. I respectfully request a brief on your battle plan, at your earliest convenience."  Pogranichnik is a Rhodes Island operator assigned to Endfield Industries where he serves as a military consultant under the framework agreement between the two companies.   With deep knowledge of military theory and hard-won experience in team combat, Pogranichnik leads his unit through even the most unexpected crises. Once commander of the Shieldguard Banner in the Order of Steel Oath, he and his troops came to be regarded as among the most reliable on the front lines against the Aggeloi. But as the situation on Talos-II grew increasingly complex, he joined Endfield Industries without hesitation. He firmly believes that the Endministrator will lead Talos-II onto a new path, just as he once envisioned.\
+> "Endmin, I have no doubt that your actions will put a solemn end to this cruel cycle of war and sacrifice."
 
 ## How to obtain
 
@@ -80,12 +81,37 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | All-Out Offensive | Physical combo of up to 5 hits. As the controlled operator, his final strike also deals 18 Stagger. |
-| Battle skill | The Pulverizing Front | Slashes enemies ahead in 2 hits for Physical damage, applies Breach, and recovers SP based on the Vulnerability stacks consumed, triggering at most 1 time even if hitting multiple enemies. Costs 100 SP. |
-| Combo skill | Full Moon Slash | Trigger: Crush or Breach consumes an enemy's Vulnerability stacks. Slashes up to 3 times matching the highest stacks consumed from one enemy for Physical damage and SP recovery, growing stronger each hit; consuming 4 stacks enhances slash 3. Cooldown 18 s, 17 s at the highest skill level. |
-| Ultimate | Shieldguard Banner, Forward | Summons 4 Shieldguards to push enemies to the target for Physical damage and gain 5 Steel Oath. When an enemy suffers a Physical Status or his combo damage, 1 Steel Oath sends 1 Shieldguard to harass for Physical damage and SP; the last point sends all 4 into Decisive Assault for massive Physical damage and large SP recovery. Costs 90 Ultimate Energy. |
+| Basic attack | All-Out Offensive | — |
+| Battle skill | The Pulverizing Front | 100 SP |
+| Combo skill | Full Moon Slash | Cooldown 18 s, 17 s at level 12 |
+| Ultimate | Shieldguard Banner, Forward | 90 Ultimate Energy |
+
+### All-Out Offensive
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 18 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.
+
+### The Pulverizing Front
+
+> Pogranichnik performs a 2-sequence slash attack at enemies in front of him, dealing Physical DMG, applying Breach, and recovering SP based on the number of Vulnerability stacks consumed. The SP recovery effect can only trigger 1 time, even if the skill hits multiple targets.
+
+### Full Moon Slash
+
+> COMBO TRIGGER: When Crush or Breach consumes the enemy's Vulnerability stack(s).\
+> Performs a number of slash sequences (up to 3) based on the max number of Vulnerability stacks consumed from one enemy, dealing Physical DMG and recovering some SP. Each slash deals more DMG and gives better SP recovery.\
+> Consuming 4 stacks of Vulnerability enhances the 3rd slash sequence.
+
+### Shieldguard Banner, Forward
+
+> Summons 4 Shieldguards to advance and push all enemies along the way towards the target, dealing Physical DMG while generating 5 points of Steel Oath. After an enemy suffers a Physical Status or takes DMG from Pogranichnik's combo skill, Pogranichnik consumes 1 point of Steel Oath and summons 1 Shieldguard to harass the said enemy, dealing Physical DMG and recovering some SP. When the last Steel Oath point is consumed, all 4 Shieldguards will initiate a Decisive Assault that deals massive Physical DMG to the target while recovering plenty of SP.
 
 ## Skill values
 
@@ -132,20 +158,41 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| The Living Banner | Promotion I; upgraded at Promotion II | In battle, every 80 SP recovered by his own skills grants Fervent Morale for 20 s, giving ATK +4% and Arts Intensity +4 (+8% and +8 at Promotion II), up to 3 independently timed stacks. |
-| Tactical Instruction | Promotion II; upgraded at Promotion III | Any operator who triggers the follow-up effects of Shieldguard Banner, Forward also gains Fervent Morale for 5 s (10 s at Promotion III); requires The Living Banner to be active. |
+### The Living Banner
+
+**Promotion I**
+
+> During battle, recovering 80 SP with his own skills grants Fervent Morale for 20s.\
+> Fervent Morale effects: ATK +4% and Arts Intensity +4.\
+> This effect can reach 3 stacks. Duration of each stack is counted separately.
+
+**Promotion II**
+
+> During battle, recovering 80 SP with his own skills grants Fervent Morale for 20s.\
+> Fervent Morale effects: ATK +8% and Arts Intensity +8.\
+> This effect can reach 3 stacks. Duration of each stack is counted separately.
+
+### Tactical Instruction
+
+**Promotion II**
+
+> Ultimate Shieldguard Banner, Forward improved: Any operator triggering the ultimate's subsequent effects also gains Fervent Morale for 5s.\
+> Requires activation of talent: The Living Banner.
+
+**Promotion III**
+
+> Ultimate Shieldguard Banner, Forward improved: Any operator triggering the ultimate's subsequent effects also gains Fervent Morale for 10s.\
+> Requires activation of talent: The Living Banner.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Frontline Sweep | The Pulverizing Front returns 15 SP when hitting at least 2 enemies |
-| 2 | "Advance" | Will +20, Physical damage +10% |
-| 3 | When the Banner Flutters | The Living Banner requires only 60 SP recovered per stack and increases Pogranichnik's max Fervent Morale stacks by +2 |
-| 4 | Shield of Talos-II | Shieldguard Banner, Forward costs 15% less Ultimate Energy |
-| 5 | Newly Forged Blade | Full Moon Slash has 2 s shorter cooldown and recovers 1.2 times as much SP |
+| 1 | Frontline Sweep | Battle skill The Pulverizing Front improved: When hitting at least 2 enemies, 15 SP is returned. |
+| 2 | "Advance" | Will +20, Physical DMG Dealt +10%. |
+| 3 | When the Banner Flutters | Talent The Living Banner improved: Amount of SP recovery needed to gain Fervent Morale is reduced to 60. Max Fervent Morale stacks on self +2. |
+| 4 | Shield of Talos-II | Ultimate Shieldguard Banner, Forward improved: Ultimate Energy cost -15%. |
+| 5 | Newly Forged Blade | Combo skill Full Moon Slash improved: Length of cooldown -2s; SP recovery is increased to 1.2 times the original. |
 
 ## Base skills
 
@@ -153,10 +200,10 @@ Base skills work while Pogranichnik is assigned to a room of the Dijiang. Each h
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Hone the Weapons β | MFG Cabin | Promotion I | Weapon EXP materials made 20% faster |
-| Hone the Weapons γ | MFG Cabin | Promotion III | Weapon EXP materials made 30% faster |
-| Morale Boost β | MFG Cabin | Promotion II | Mood drop of the operators in this room −14% |
-| Morale Boost γ | MFG Cabin | Promotion IV | Mood drop of the operators in this room −18% |
+| Hone the Weapons β | MFG Cabin | Promotion I | Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20% |
+| Hone the Weapons γ | MFG Cabin | Promotion III | Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +30% |
+| Morale Boost β | MFG Cabin | Promotion II | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14% |
+| Morale Boost γ | MFG Cabin | Promotion IV | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 18% |
 
 ## Base stats
 

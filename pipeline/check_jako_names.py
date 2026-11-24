@@ -12,6 +12,8 @@ Without arguments, checks every page under src/content/docs/ja/ and ko/. Exit co
             Chinese name column (a header with 中文, 中国語, 중국어, 繁体, 簡体, 번체 or 간체) and
             outside a sentence that names the script (繁体字, 簡体字, 번체, 간체).
 The body is checked; the frontmatter is not (aliases hold every language's title on purpose).
+The game's own text is not checked: story pages, and on other pages the block quotes and table
+cells that hold it (pipeline/gametext.py), are the game's wording in each language.
 """
 import glob
 import os
@@ -20,6 +22,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import build_pages as bp  # noqa: E402
+from gametext import inline, page_texts  # noqa: E402
 
 DOCS = bp.DOCS
 EN, ZH = bp.EN, bp.ZH
@@ -48,7 +51,7 @@ def entries():
             continue
         walk(bp.load(name), name)
     for op in bp.OPS.values():
-        walk({k: v for k, v in op.items() if k not in ('text', 'voice')}, 'operators')
+        walk({k: v for k, v in op.items() if k not in ('game', 'voice')}, 'operators')
         for key, en in op['voice'][EN].items():
             out.append({EN: en, ZH: op['voice'][ZH][key], 'ja': op['voice']['ja'][key], 'ko': op['voice']['ko'][key]})
     return out
@@ -96,14 +99,32 @@ def outside_chinese(body):
     return '\n'.join(keep)
 
 
+def without_game_text(body, page_id):
+    """The body without the game's own text: block quotes and the table cells holding it."""
+    texts = page_texts(page_id)
+    if not texts:
+        return body
+    cells = sorted({inline(t[x]) for t, form in texts if form == 'inline' for x in t}, key=len, reverse=True)
+    out = []
+    for line in body.split('\n'):
+        if line.startswith('>'):
+            continue
+        for c in cells:
+            line = line.replace(c, '')
+        out.append(line)
+    return '\n'.join(out)
+
+
 def check(path, names, by_en):
     rel = os.path.relpath(path, DOCS).replace(os.sep, '/')
     lang, page_id = rel.split('/', 1)
-    body = body_of(open(path, encoding='utf8').read())
+    if page_id.startswith('story/'):
+        return []
+    body = without_game_text(body_of(open(path, encoding='utf8').read()), page_id)
     hits = []
     en_path = os.path.join(DOCS, page_id)
     if os.path.exists(en_path):
-        en_body = body_of(open(en_path, encoding='utf8').read())
+        en_body = without_game_text(body_of(open(en_path, encoding='utf8').read()), page_id)
         for token in sorted(cell_tokens(en_body)):
             forms = {e[lang] for e in by_en.get(token, [])}
             # An Essence stat (アーツ強度UP, 오리지늄 아츠 강도 증가) names the stat it raises; the stat alone counts.

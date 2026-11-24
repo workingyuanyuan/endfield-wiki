@@ -15,6 +15,8 @@ MARK = {
     "en": '"aic.items.0.title":"Automated Production"',
     "zh-TW": '"aic.items.0.title":"自動化生產"',
     "zh-CN": '"aic.items.0.title":"自动化生产"',
+    "ja": '"aic.items.0.title":"自動化生産"',
+    "ko": '"aic.items.0.title":"자동화 생산"',
 }
 
 

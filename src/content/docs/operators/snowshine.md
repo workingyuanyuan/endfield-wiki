@@ -44,7 +44,8 @@ sources:
 | Voice, Korean | Yu Yeong |
 | Operator File | [Snowshine's file](/story/snowshine/) |
 
-Snowshine is a Rhodes Island search and rescue specialist assigned to Endfield Industries who focuses on polar and high-altitude operations and wrote the Polar Survival Guide.
+> "Wind speed's okay. Visibility's good. Perfect weather for snowboarding."  Snowshine is a Rhodes Island operator assigned to Endfield Industries where she serves as a search and rescue (SAR) professional under the framework agreement between the two companies.  For well-known reasons, the true polar regions of Talos-II remain off-limits to humanity. However, as frontier expansion resumes, professionals like Snowshine who specialize in the geography of polar and high-altitude regions are in growing demand within the Civilization Band.  Because of the significant talent gap, Snowshine and her rescue team are always faced with a busy schedule, even on days with no special missions.  Despite her packed schedule, she managed to write a book titled Polar Survival Guide in her free time. The book has since become a key reference for survival and SAR operations in the harsh, snowy environments of Talos-II.\
+> "I like the snow, the white-capped mountains, and the shimmering beauty revealed only in the frigid cold... This is why I don't want them to leave painful memories to the people they touch."
 
 ## How to obtain
 
@@ -65,12 +66,38 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Hypothermic Assault | Physical combo of up to 3 hits. The final strike deals 23 Stagger while Snowshine is the controlled operator. |
-| Battle skill | Saturated Defense | Snowshine raises her shield to block attacks, granting Protection to herself and nearby operators while returning some SP. If hit while blocking, she retaliates, trying to hit the attacker for Cryo damage and Cryo Infliction. Costs 100 SP. |
-| Combo skill | Polar Rescue | Trigger: the controlled operator takes a hit and drops below 60% HP. Snowshine tosses a Snowfield SAR Assistant at them, giving nearby operators instant HP Treatment on contact followed by continuous HP Treatment in the area; Will increases the healing. Cooldown 25 s, 23 s at the highest skill level. |
-| Ultimate | Frigid Snowfield | Snowshine leaps with a jetpack and slams her shield down for heavy Cryo damage in an area, leaving a Snow Zone for several seconds that deals Cryo damage over time. Enemies staying in the Snow Zone for a set time are forcibly afflicted with Solidification. Costs 80 Ultimate Energy. |
+| Basic attack | Hypothermic Assault | — |
+| Battle skill | Saturated Defense | 100 SP |
+| Combo skill | Polar Rescue | Cooldown 25 s, 23 s at level 12 |
+| Ultimate | Frigid Snowfield | 80 Ultimate Energy |
+
+### Hypothermic Assault
+
+> BASIC ATTACK:\
+> An attack with up to 3 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 23 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.
+
+### Saturated Defense
+
+> Raises a shield that can block attacks, grants Protection to self and nearby operators, and immediately returns some SP.\
+> When attacked while the said shield is raised, perform a retaliation bash that deals Cryo DMG and applies Cryo Infliction on the attacker.
+
+### Polar Rescue
+
+> COMBO TRIGGER: After controlled operator gets attacked and drops below 60% HP.\
+> Snowshine throws a Snowfield SAR Assistant at the controlled operator. Upon target contact, the Assistant gives massive instant HP Treatment to nearby operators as well as continuous HP Treatment to operators in the area of effect.\
+> The attribute of Will increases the amount of HP treatment.
+
+### Frigid Snowfield
+
+> Leaps into mid-air with a jetpack before slamming down with her shield to deal massive Cryo DMG to enemies in the area of effect. Also generates a Snow Zone (lasting several seconds) that deals Cryo DMG over time to enemies. The Snow Zone forcibly applies Solidification to enemies caught within it for a certain duration.
 
 ## Skill values
 
@@ -102,20 +129,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Polar Survival | Promotion I; upgraded at Promotion II | Snowshine's Treatment Effect increases by 15% on targets at or below 45% HP (25% at or below 55% HP at Promotion II). |
-| SAR Professional | Promotion II; upgraded at Promotion III | When Saturated Defense successfully retaliates against an attack, Snowshine gains 6 extra Ultimate Energy (10 at Promotion III). |
+### Polar Survival
+
+**Promotion I**
+
+> Treatment Effect +15% for targets of 45% HP or below.
+
+**Promotion II**
+
+> Treatment Effect +25% for targets of 55% HP or below.
+
+### SAR Professional
+
+**Promotion II**
+
+> Battle skill Saturated Defense improved: After successfully retaliating an enemy attack, Snowshine gains another 6 Ultimate Energy.
+
+**Promotion III**
+
+> Battle skill Saturated Defense improved: After successfully retaliating an enemy attack, Snowshine gains another 10 Ultimate Energy.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Cold Shelter | While Saturated Defense is blocking, allied operators with Protection cannot receive Arts Inflictions |
-| 2 | Storm Region | Frigid Snowfield's area radius increases by 20% |
-| 3 | Polar Survival Guide | Solidification applied by Frigid Snowfield lasts 2 s longer |
-| 4 | Tundra Aegis | DEF +20, Will +20 |
-| 5 | Cold Disaster Specialist | Successfully retaliating with Saturated Defense returns 10 SP |
+| 1 | Cold Shelter | Battle skill Saturated Defense improved: During the blocking effect, Arts Inflictions cannot be applied to allied operators with Protection. |
+| 2 | Storm Region | Ultimate Frigid Snowfield improved: Effect radius +20%. |
+| 3 | Polar Survival Guide | Ultimate Frigid Snowfield improved: Duration of the Solidification applied by the skill is increased by 2s. |
+| 4 | Tundra Aegis | DEF +20, Will +20. |
+| 5 | Cold Disaster Specialist | Battle skill Saturated Defense improved: Successfully retaliating an enemy attack returns 10 SP. |
 
 ## Base skills
 
@@ -123,10 +165,10 @@ Base skills work while Snowshine is assigned to a room of the Dijiang. Each has 
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Rescuer's Perseverance α | MFG Cabin | Promotion I | Mood drop of the operators in this room −10% |
-| Rescuer's Perseverance β | MFG Cabin | Promotion III | Mood drop of the operators in this room −14% |
-| Happy-Go-Lucky β | Control Nexus | Promotion II | Mood recovery of all operators +12% |
-| Happy-Go-Lucky γ | Control Nexus | Promotion IV | Mood recovery of all operators +16% |
+| Rescuer's Perseverance α | MFG Cabin | Promotion I | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 10% |
+| Rescuer's Perseverance β | MFG Cabin | Promotion III | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14% |
+| Happy-Go-Lucky β | Control Nexus | Promotion II | Assign to Control Nexus to grant all operators' Mood Regen +12% |
+| Happy-Go-Lucky γ | Control Nexus | Promotion IV | Assign to Control Nexus to grant all operators' Mood Regen +16% |
 
 ## Base stats
 

@@ -1,0 +1,237 @@
+{
+ "slug": "ardelia",
+ "gameId": "chr_0025_ardelia",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"This world has so many mysteries to uncover. We should get to know it better just like ... like how we should learn more about ourselves. Don't you agree, Professor?\"  Ardelia is a Rhodes Island operator assigned to Endfield Industries where she serves as an expert geologist under the framework agreement between the two companies.  Ardelia's early work centered on volcanoes, but today her research extends into Ætherside and geological disasters. She spends most of her time in the field, venturing alone into disaster sites to collect samples, analyze structures, and develop theories that have become the cornerstone of Endfield's Blight countermeasures.  Always humble and polite, she carries an inner strength that never seems to run dry. To her, happiness is simple: climbing another mountain, walking another path, hearing the voices of the world, and uncovering the hidden wonders of this planet.  And if you can become good friends with Ardelia, then Mr. Dolly is sure to like you too.\n\"Mr. Dolly? Don't run off! Come say hi to the Professor.\"",
+  "zh-TW": "「這片土地還有太多的未知，我們必須瞭解腳下的這顆星球，就像……我們應該更加瞭解我們自己。對吧，前輩？」  艾爾黛拉來自羅德島，在該公司與終末地工業的協議架構範圍內，以地質研究專家的身分為終末地工業提供服務。  艾爾黛拉曾專注於火山，但如今投身於超域與地質災害研究。她常年獨自奔走在災害現場，親自採集樣本，分析結構，總結理論，為終末地制定侵蝕應對措施提供了重要依據。  她始終謙遜、禮貌，內心彷彿有著永不枯竭的力量。只要還能爬更多山，走更多路，聆聽屬於這個世界的聲音，盡情探索這顆星球的秘密，就能讓她感到很開心。  對了，如果能和艾爾黛拉成為好朋友，那麼多利先生也會喜歡你的。    「多利先生？別亂跑喔！和前輩打個招呼吧。」",
+  "zh-CN": "“这片土地还有太多的未知，我们必须了解脚下的这颗星球，就像……我们应该更加了解我们自己。对吧，前辈？” 艾尔黛拉来自罗德岛，在该公司与终末地工业的框架协议范围内，以地质研究专家的身份为终末地工业提供服务。 艾尔黛拉曾专注于火山，但如今投身于超域与地质灾害研究。她常年独自奔走在灾害现场，亲自采集样本，分析结构，总结理论，为终末地制定侵蚀应对措施提供了重要依据。 她始终谦逊、礼貌，内心仿佛有着永不枯竭的力量。只要还能爬更多山，走更多路，聆听属于这个世界的声音，尽情探索这颗星球的秘密，就能让她感到很开心。 对了，如果能和艾尔黛拉成为好朋友，那么多利先生也会喜欢你的。\n“多利先生？别乱跑哦！和前辈打个招呼吧。”",
+  "ja": "「この地にはまだ知らないことがたくさんあります。まずは、この星を理解しないと……私たちだって、自分を理解するのが一番大切ですから。ね、先輩？」 ロドス・アイランドに所属し、現在はエンドフィールドにおいて、契約内容の範囲内にて地質研究の専門家として活動している。 かつては火山研究を専門としていたが、現在は超域と地質災害の研究に専念している。いつも1人で災害現場へと駆けつけ、自らサンプルを集めて構造を分析し、理論をまとめあげている。そうした彼女の研究は、エンドフィールドが侵蝕への対応策を定める際に重要な判断根拠となっている。 常に謙虚で礼儀正しく、そして心の奥には限りない力を秘めている。もっとたくさんの山に行き、道を歩きながらこの世界の声に耳を傾け、この星の秘密を存分に探索できるだけで、彼女はとても幸せなのだ。 アルデリアと仲良しになれたら、ドリーさんにも気に入ってもらえるかもしれない。\n「ドリーさん、走り回っちゃダメですよ～！ほら、先輩に挨拶しないと。」",
+  "ko": "\"이 땅에는 우리가 모르는 게 아직도 너무 많아요. 우리는 우리가 살고 있는 이 행성을 더 깊게 이해해야 하죠. 마치... 자기 자신을 더 잘 알아야 하는 것처럼요. 그렇죠, 선배?\"  아델리아는 로도스 아일랜드 소속으로, 로도스 아일랜드와 엔드필드 공업 간의 협력에 관한 협약에 따라 지질 연구 전문가로 엔드필드 공업에 협력하고 있다.  아델리아는 한때 화산 연구에 몰두했으니, 지금은 초자연 및 지질 재해 연구에 전념하고 있다. 수년간 홀로 재해 현장을 누비며 직접 표본을 채집하고 구조를 분석해 이론을 정리했다. 이러한 성과는 엔드필드가 침식 대응책을 마련하는 데 중요한 근거가 되었다.  그녀는 언제나 겸손하고 정중하며, 내면에는 마르지 않는 힘이 깃들어 있는 듯하다. 더 많은 산을 오르고, 더 많은 길을 걸으며, 이 세계의 목소리를 귀 기울여 듣고, 이행성의 비밀을 마음껏 탐구할 수 있다면 그것만으로도 그녀는 충분히 행복하다.  그리고 만약 아델리아와 좋은 친구가 된다면 돌리 씨도 분명히 당신을 좋아할 것이다.    \"돌리 씨, 아무 데나 돌아다니면 안 돼요. 선배한테 인사해야죠.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Rocky Whispers",
+    "zh-TW": "岩石的輕語",
+    "zh-CN": "岩石的轻语",
+    "ja": "岩の囁き",
+    "ko": "바위의 속삭임"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Nature DMG. As the controlled operator, Final Strike also deals 18 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Nature DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Nature DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成自然傷害。作為主控幹員時，重擊會造成18點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成自然傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量自然傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成自然伤害。作为主控干员时，重击会造成18点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成自然伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量自然伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に自然ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値18を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に自然ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い自然ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 자연 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 18포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 자연 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 자연 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Dolly Rush",
+    "zh-TW": "奔騰的多利",
+    "zh-CN": "奔腾的多利",
+    "ja": "ドリーラッシュ",
+    "ko": "질주하는 돌리"
+   },
+   "text": {
+    "en": "Hops on Mr. Dolly and rams the target to deal Nature DMG. If the target has Corrosion, then consume the Corrosion and apply Physical Susceptibility and Arts Susceptibility to the target.",
+    "zh-TW": "騎上多利先生衝撞目標，對目標造成自然傷害，若目標處於腐蝕狀態，消耗其腐蝕狀態，並對其施加物理脆弱與法術脆弱。",
+    "zh-CN": "骑上多利先生冲撞目标，对目标造成自然伤害，若目标处于腐蚀状态，消耗其腐蚀状态，并对其施加物理脆弱与法术脆弱。",
+    "ja": "ドリーさんに乗って敵に突進し、自然ダメージを与える。腐食状態の敵に命中した場合、腐食状態を消費し、物理脆弱とアーツ脆弱を付与する。",
+    "ko": "돌리 씨를 타고 목표를 향해 돌진하여 자연 피해를 줍니다. 목표가 부식 상태일 때, 부식 상태를 소모하고, 대상에게 물리 취약과 아츠 취약 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Eruption Column",
+    "zh-TW": "火山蘑菇雲",
+    "zh-CN": "火山蘑菇云",
+    "ja": "イラプション・コラム",
+    "ko": "화산 분화"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When the controlled operator performs a Final Strike on an enemy with no stacks of Vulnerability or Arts Infliction.\nLaunches a homing Volcanic Cloud at a target enemy that deals Nature DMG when close enough to the target. The Volcanic Cloud explodes after a short delay, dealing half of the Nature DMG and forcibly applying temporary Corrosion to nearby enemies.",
+    "zh-TW": "當主控幹員對不處於破防或法術附著狀態的敵人造成重擊後可以發動。\n發射一團火山雲拋向目標敵人，到達目標身邊後對目標造成自然傷害。火山雲會跟蹤目標，短暫延遲後爆炸，對周圍其他敵人造成一半的自然傷害，並強制施加短暫的腐蝕。",
+    "zh-CN": "当主控干员对不处于破防或法术附着状态的敌人造成重击后可以发动。\n发射一团火山云抛向目标敌人，到达目标身边后对目标造成自然伤害。火山云会跟踪目标，短暂延迟后爆炸，对周围其他敌人造成一半的自然伤害，并强制施加短暂的腐蚀。",
+    "ja": "操作中のオペレーターがクラッシュまたはアーツ付着状態でない敵に重攻撃を与えると発動可能。\n敵に火山雲を放ち、接近後に自然ダメージを与える。火山雲は敵を追尾し、一定時間後に爆発する。周囲の他の敵には、そのダメージの半分の自然ダメージを与え、強制的に短時間腐食状態にする。",
+    "ko": "메인 컨트롤 오퍼레이터가 방어 불능 혹은 아츠 부착 상태에 처해 있지 않은 적에게 강력한 일격을 준 후 사용할 수 있습니다.\n화산 구름 한 덩이를 목표에 던지고 목표와 가까워진 후, 자연 피해를 줍니다. 화산 구름은 목표를 추적한 다음, 일정 시간 뒤 폭발하며 주변의 다른 적에게 절반의 자연 피해를 주고 강제로 잠깐 부식 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Wooly Party",
+    "zh-TW": "毛茸茸派對",
+    "zh-CN": "毛茸茸派对",
+    "ja": "もふもふパーティー",
+    "ko": "복슬복슬 파티"
+   },
+   "text": {
+    "en": "Ardelia enters a mobile channeling state and summons the aid of Mr. Dolly. Multiple copies of Mr. Dolly are thrown in random directions. Each copy deals Nature DMG when hitting the enemy. Each enemy can only take 1 damaging hit every 0.3s.",
+    "zh-TW": "艾爾黛拉進入可移動的持續施法狀態，召喚多利先生的幫助，隨機向四周散射多利先生的分身。每個分身命中敵人時對其造成自然傷害，每個敵人每0.3秒最多受到一次傷害。",
+    "zh-CN": "艾尔黛拉进入可移动的持续施法状态，召唤多利先生的帮助，随机向四周散射多利先生的分身。每个分身命中敌人时对其造成自然伤害，每个敌人每0.3秒最多受到一次伤害。",
+    "ja": "アルデリアは移動できる状態で持続的にアーツを放つ。ドリーさんの助けを呼び、周囲にドリーさんの分身を放つ。分身が敵に命中するたびに、自然ダメージを与える。同じ敵は0.3秒に1回までダメージを受ける。",
+    "ko": "아델리아가 이동할 수 있는 지속 시전 상태에 들어가며, 돌리 씨를 소환하여 돌리 씨의 분신을 무작위로 사방에 던집니다. 각 분신이 적을 공격할 때마다 자연 피해를 주고, 적은 0.3초마다 최대 1회만 피해를 받습니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Friendly Presence",
+    "zh-TW": "朋友的身影",
+    "zh-CN": "朋友的身影",
+    "ja": "友の面影",
+    "ko": "친구의 그림자"
+   },
+   "levels": [
+    {
+     "promotion": 0,
+     "text": {
+      "en": "The battle skill Dolly Rush creates 3 Shadows of Mr. Dolly after hitting the enemy. The copies of Mr. Dolly scattered by the ultimate Wooly Party also have a 10% chance to create Shadows of Mr. Dolly when they fall to the ground. When the controlled operator touches a Shadow of Mr. Dolly, Ardelia restores the said operator's HP by [45 + Will×0.38].\nIf the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.\nShadows of Mr. Dolly last for 10s and up to 10 can exist in the battlefield.",
+      "zh-TW": "戰技奔騰的多利命中敵人後生成3個多利先生的影子，終結技毛茸茸派對散射的多利先生的分身落地時有10%機率生成多利先生的影子。主控幹員觸碰多利先生的影子後，艾爾黛拉為其回復[45+意志×0.38]點生命值。\n主控幹員生命值已滿時，將轉而治療小隊中生命值百分比最低的幹員。\n多利先生的影子持續10秒，最多同時存在10個。",
+      "zh-CN": "战技奔腾的多利命中敌人后生成3个多利先生的影子，终结技毛茸茸派对散射的多利先生的分身落地时有10%概率生成多利先生的影子。主控干员触碰多利先生的影子后，艾尔黛拉为其回复[45+意志×0.38]点生命值。\n主控干员生命值已满时，将转而治疗小队中生命值百分比最低的干员。\n多利先生的影子持续10秒，最多同时存在10个。",
+      "ja": "戦技「ドリーラッシュ」が敵に命中すると、ドリーさんの影を3個生成する\n必殺技「もふもふパーティー」で放たれたドリーさんの分身が着地するとき、10%の確率でドリーさんの影を生成する\n操作中のオペレーターがドリーさんの影に触れると、アルデリアがそのオペレーターのHPを[45+意志×0.38]回復させる\n操作中のオペレーターのHPが100%のとき、チーム内でHPの割合が最も低いオペレーターを治療する\nドリーさんの影は10秒間持続し、同時に最大10個まで存在できる",
+      "ko": "배틀 스킬 질주하는 돌리가 적에게 명중했을 때, 돌리 씨의 그림자 3개를 생성합니다. 궁극기 복슬복슬 파티로 흩어진 돌리 씨의 분신이 지면에 착지할 때, 10% 확률로 돌리 씨의 그림자를 생성합니다. 메인 컨트롤 오퍼레이터가 돌리 씨의 그림자를 닿은 후, 아델리아가 [45+의지×0.38]포인트의 생명력을 회복시킵니다.\n메인 컨트롤 오퍼레이터의 생명력이 가득 차 있으면, 팀 내 생명력 백분율이 가장 낮은 오퍼레이터를 대신 치유합니다.\n돌리 씨의 그림자는 10초 동안 지속되며, 동시에 최대 10개까지 존재할 수 있습니다."
+     }
+    },
+    {
+     "promotion": 1,
+     "text": {
+      "en": "The battle skill Dolly Rush creates 3 Shadows of Mr. Dolly after hitting the enemy. The copies of Mr. Dolly scattered by the ultimate Wooly Party also have a 10% chance to create Shadows of Mr. Dolly when they fall to the ground. When the controlled operator touches a Shadow of Mr. Dolly, Ardelia restores the said operator's HP by [63 + Will×0.53].\nIf the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.\nShadows of Mr. Dolly last for 10s and up to 10 can exist in the battlefield.",
+      "zh-TW": "戰技奔騰的多利命中敵人後生成3個多利先生的影子，終結技毛茸茸派對散射的多利先生的分身落地時有10%機率生成多利先生的影子。主控幹員觸碰多利先生的影子後，艾爾黛拉為其回復[63+意志×0.53]點生命值。\n主控幹員生命值已滿時，將轉而治療小隊中生命值百分比最低的幹員。\n多利先生的影子持續10秒，最多同時存在10個。",
+      "zh-CN": "战技奔腾的多利命中敌人后生成3个多利先生的影子，终结技毛茸茸派对散射的多利先生的分身落地时有10%概率生成多利先生的影子。主控干员触碰多利先生的影子后，艾尔黛拉为其回复[63+意志×0.53]点生命值。\n主控干员生命值已满时，将转而治疗小队中生命值百分比最低的干员。\n多利先生的影子持续10秒，最多同时存在10个。",
+      "ja": "戦技「ドリーラッシュ」が敵に命中すると、ドリーさんの影を3個生成する\n必殺技「もふもふパーティー」で放たれたドリーさんの分身が着地するとき、10%の確率でドリーさんの影を生成する\n操作中のオペレーターがドリーさんの影に触れると、アルデリアがそのオペレーターのHPを[63+意志×0.53]回復させる\n操作中のオペレーターのHPが100%のとき、チーム内でHPの割合が最も低いオペレーターを治療する\nドリーさんの影は10秒間持続し、同時に最大10個まで存在できる",
+      "ko": "배틀 스킬 질주하는 돌리가 적에게 명중했을 때, 돌리 씨의 그림자 3개를 생성합니다. 궁극기 복슬복슬 파티로 흩어진 돌리 씨의 분신이 지면에 착지할 때, 10% 확률로 돌리 씨의 그림자를 생성합니다. 메인 컨트롤 오퍼레이터가 돌리 씨의 그림자를 닿은 후, 아델리아가 [63+의지×0.53]포인트의 생명력을 회복시킵니다.\n메인 컨트롤 오퍼레이터의 생명력이 가득 차 있으면, 팀 내 생명력 백분율이 가장 낮은 오퍼레이터를 대신 치유합니다.\n돌리 씨의 그림자는 10초 동안 지속되며, 동시에 최대 10개까지 존재할 수 있습니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "The battle skill Dolly Rush creates 3 Shadows of Mr. Dolly after hitting the enemy. The copies of Mr. Dolly scattered by the ultimate Wooly Party also have a 10% chance to create Shadows of Mr. Dolly when they fall to the ground. When the controlled operator touches a Shadow of Mr. Dolly, Ardelia restores the said operator's HP by [90 + Will×0.75].\nIf the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.\nShadows of Mr. Dolly last for 10s and up to 10 can exist in the battlefield.",
+      "zh-TW": "戰技奔騰的多利命中敵人後生成3個多利先生的影子，終結技毛茸茸派對散射的多利先生的分身落地時有10%機率生成多利先生的影子。主控幹員觸碰多利先生的影子後，艾爾黛拉為其回復[90+意志×0.75]點生命值。\n主控幹員生命值已滿時，將轉而治療小隊中生命值百分比最低的幹員。\n多利先生的影子持續10秒，最多同時存在10個。",
+      "zh-CN": "战技奔腾的多利命中敌人后生成3个多利先生的影子，终结技毛茸茸派对散射的多利先生的分身落地时有10%概率生成多利先生的影子。主控干员触碰多利先生的影子后，艾尔黛拉为其回复[90+意志×0.75]点生命值。\n主控干员生命值已满时，将转而治疗小队中生命值百分比最低的干员。\n多利先生的影子持续10秒，最多同时存在10个。",
+      "ja": "戦技「ドリーラッシュ」が敵に命中すると、ドリーさんの影を3個生成する\n必殺技「もふもふパーティー」で放たれたドリーさんの分身が着地するとき、10%の確率でドリーさんの影を生成する\n操作中のオペレーターがドリーさんの影に触れると、アルデリアがそのオペレーターのHPを[90+意志×0.75]回復させる\n操作中のオペレーターのHPが100%のとき、チーム内でHPの割合が最も低いオペレーターを治療する\nドリーさんの影は10秒間持続し、同時に最大10個まで存在できる",
+      "ko": "배틀 스킬 질주하는 돌리가 적에게 명중했을 때, 돌리 씨의 그림자 3개를 생성합니다. 궁극기 복슬복슬 파티로 흩어진 돌리 씨의 분신이 지면에 착지할 때, 10% 확률로 돌리 씨의 그림자를 생성합니다. 메인 컨트롤 오퍼레이터가 돌리 씨의 그림자를 닿은 후, 아델리아가 [90+의지×0.75]포인트의 생명력을 회복시킵니다.\n메인 컨트롤 오퍼레이터의 생명력이 가득 차 있으면, 팀 내 생명력 백분율이 가장 낮은 오퍼레이터를 대신 치유합니다.\n돌리 씨의 그림자는 10초 동안 지속되며, 동시에 최대 10개까지 존재할 수 있습니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Mountainpeak Surfer",
+    "zh-TW": "山頂衝浪",
+    "zh-CN": "山顶冲浪",
+    "ja": "山頂サーフィン",
+    "ko": "마운틴 서퍼"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Battle skill Dolly Rush improved: Triggering the additional effect while an enemy with Corrosion is nearby immediately casts the battle skill again.\nThis effect can only trigger once per active battle skill casting.",
+      "zh-TW": "當艾爾黛拉的戰技奔騰的多利成功觸發額外效果後，若附近存在其他處於腐蝕狀態的敵人，會立即再對其發動一次戰技。\n每次主動施放戰技只會觸發一次該效果。",
+      "zh-CN": "当艾尔黛拉的战技奔腾的多利成功触发额外效果后，若附近存在其他处于腐蚀状态的敌人，会立即再对其发动一次战技。\n每次主动施放战技只会触发一次该效果。",
+      "ja": "アルデリアの戦技「ドリーラッシュ」の追加効果が発動したとき、近くに他の腐食状態の敵がいる場合、その敵に戦技をもう1回発動する\nこの効果は戦技の発動1回につき、1回のみ発動可能",
+      "ko": "아델리아의 배틀 스킬 질주하는 돌리가 추가 효과를 발동한 후, 근처에 부식 상태인 다른 적이 있을 경우, 즉시 대상에게 한 번 더 배틀 스킬을 발동합니다.\n해당 효과는 주동적으로 배틀 스킬을 사용할 때마다 1회만 발동합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Dolly Paradise",
+    "zh-TW": "羊的樂園",
+    "zh-CN": "羊的乐园",
+    "ja": "羊の楽園",
+    "ko": "양들의 천국"
+   },
+   "text": {
+    "en": "Battle skill Dolly Rush improved: Consuming Corrosion now applies Physical Susceptibility and Arts Susceptibility with effects +8%.",
+    "zh-TW": "戰技奔騰的多利消耗腐蝕後施加的物理脆弱與法術脆弱效果+8%。",
+    "zh-CN": "战技奔腾的多利消耗腐蚀后施加的物理脆弱与法术脆弱效果+8%。",
+    "ja": "戦技「ドリーラッシュ」で腐食状態を消費すると、付与する物理脆弱とアーツ脆弱の効果+8%",
+    "ko": "배틀 스킬 질주하는 돌리가 부식을 소모했을 때, 부여하는 물리 취약과 아츠 취약 효과 +8%"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Game Rewards",
+    "zh-TW": "遊戲獎勵",
+    "zh-CN": "游戏奖励",
+    "ja": "ゲームのご褒美",
+    "ko": "게임 보상"
+   },
+   "text": {
+    "en": "Talent Friendly Presence improved: When the controlled operator touches the Shadow of Mr. Dolly, Ardelia also treats another allied operator with the lowest percentage HP with half of the treatment effects.",
+    "zh-TW": "天賦朋友的身影效果加強：當主控幹員觸碰多利先生的影子後，艾爾黛拉會以一半的效果額外治療另一名生命值百分比最低的友方幹員。",
+    "zh-CN": "天赋朋友的身影效果加强：当主控干员触碰多利先生的影子后，艾尔黛拉会以一半的效果额外治疗另一名生命值百分比最低的友方干员。",
+    "ja": "素質「友の面影」強化：操作中のオペレーターがドリーさんの影に触れると、アルデリアは元の半分の効果で、他のHPの割合が最も低い味方オペレーターを追加で治療する",
+    "ko": "재능 '친구의 그림자' 효과 강화: 메인 컨트롤 오퍼레이터가 돌리 씨의 그림자와 접촉한 후, 아델리아는 생명력 백분율이 가장 낮은 다른 아군 오퍼레이터 1명을 추가로 치유합니다. 해당 효과는 절반의 효과만 적용됩니다."
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Explosive Eruption",
+    "zh-TW": "爆炸式噴發",
+    "zh-CN": "爆炸式喷发",
+    "ja": "もこもこ噴火",
+    "ko": "격렬한 분출"
+   },
+   "text": {
+    "en": "Ultimate Wooly Party improved: Duration +1s; chance to create Shadow of Mr. Dolly is increased to 1.2 times the original.",
+    "zh-TW": "終結技毛茸茸派對的持續時間+1秒，且生成多利先生的影子的機率提升至原本的1.2倍。",
+    "zh-CN": "终结技毛茸茸派对的持续时间+1秒，且生成多利先生的影子的概率提升至原本的1.2倍。",
+    "ja": "必殺技「もふもふパーティー」の持続時間+1秒、ドリーさんの影の生成確率が1.2倍までアップする",
+    "ko": "궁극기 복슬복슬 파티의 지속 시간 +1초, 돌리 씨의 그림자의 생성 확률이 기존의 1.2배로 증가합니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Rock Blossom",
+    "zh-TW": "岩中花朵",
+    "zh-CN": "岩中花朵",
+    "ja": "岩の中のお花",
+    "ko": "바위틈의 꽃"
+   },
+   "text": {
+    "en": "Ultimate Wooly Party improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技毛茸茸派對所需的終結技能量-15%。",
+    "zh-CN": "终结技毛茸茸派对所需的终结技能量-15%。",
+    "ja": "必殺技「もふもふパーティー」に必要な必殺チャージ-15%",
+    "ko": "궁극기 복슬복슬 파티의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Volcanic Steam",
+    "zh-TW": "火山蒸汽",
+    "zh-CN": "火山蒸汽",
+    "ja": "火山の蒸気",
+    "ko": "화산 증기"
+   },
+   "text": {
+    "en": "Combo skill Eruption Column improved: Length of cooldown -2s; DMG multiplier is increased to 1.2 times the original; duration of Corrosion applied +4s.",
+    "zh-TW": "連攜技火山蘑菇雲冷卻時間-2秒，傷害倍率提升至原本的1.2倍，施加的腐蝕效果持續時間+4秒。",
+    "zh-CN": "连携技火山蘑菇云冷却时间-2秒，伤害倍率提升至原本的1.2倍，施加的腐蚀效果持续时间+4秒。",
+    "ja": "連携技「イラプション・コラム」のCD時間-2秒、ダメージ倍率が1.2倍までアップし、さらに、腐食効果の持続時間+4秒",
+    "ko": "연계 스킬 화산 분화 쿨타임 -2초, 피해 배율이 기존의 1.2배로 증가합니다. 적에게 부여하는 부식 효과의 지속 시간 +4초"
+   }
+  }
+ ]
+}

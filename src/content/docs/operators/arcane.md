@@ -54,7 +54,12 @@ sources:
 | Voice, Korean | KIM SOONMI |
 | Operator File | [Arcane's file](/story/arcane/) |
 
-Arcane is the stern captain of the Yinglung Special Task Force stationed at Yinglung Pass; since the disaster in the northern exclusion zone, containing the Wuling Very Large Rift has been her only aim.
+> "I will uphold the honor of the Yinglungs."\
+> Yinglung Special Task Force (YSTF) captain, Arcane, long stationed at Yinglung Pass, frequently undertakes survey missions within the exclusion zone. She is serious, meticulous, and never one to smile readily.\
+> The disaster in the North Wuling Exclusion Zone took everything from Arcane. Since then, her only purpose in life has been to contain the Wuling Very Large Rift. She has ventured deep into it time and again. Hatred leads her step by step into the Deep, yet it also keeps her alive when all hope seems lost.\
+> You can find all the qualities of a YSTF member in Arcane: absolute obedience to orders, outstanding tactical command, relentless training day and night, and an unyielding spirit. Those who have likewise lost loved ones to disasters can see a part of themselves in Arcane...\
+> Some find her frigid, but for YSTF members, maintaining distance is also a form of mutual protection.\
+> "Be of ferrium will, move as a razor's edge. Yinglung wins by momentum."
 
 ## How to obtain
 
@@ -84,12 +89,66 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Artillery Interdiction | Nature combo of up to 5 hits. Her Final Strike deals 17 Stagger while she is the controlled operator. |
-| Battle skill | Jadecrushing Grid | She sets up a Jadecrushing Grid under the target that deals Nature damage and applies Nature Infliction to enemies inside. In Array Arcana: INT (Intellect not below Will) it deals more damage; in Array Arcana: WILL (Will above Intellect) it pulls enemies toward its centre when it deals damage. Costs 100 SP. |
-| Combo skill | Yinglung Stance IV | Trigger: in Array Arcana: INT, an enemy gains Nature Infliction or 2 or more stacks of another Arts Infliction; in Array Arcana: WILL, any Arts Infliction. She sets up 4 Tactical Doubles that deal Nature damage, apply Nature Susceptibility and Cryo Susceptibility, and put the target under Imprisonment, which slows all actions; when it ends they deal Explosion damage. INT: her battle skill on an imprisoned enemy returns SP and ends Imprisonment early, and the cooldown is shorter. WILL: nearby enemies are pulled in a little, and Will raises the Susceptibility. Cooldown 20 s, 18 s at the highest skill level. |
-| Ultimate | Gloompurge | She creates a Gloompurger Array for immediate Nature damage in an area. A finisher or the controlled operator's final strike on an enemy inside triggers a Cluster Strike for area damage, up to 2 times; after 2, the ultimate becomes Gloompurge Arcana, Nature damage over a large area in front of her. On creation the array forces Corrosion in Array Arcana: INT; in Array Arcana: WILL it adds a stack of the Arts Infliction that enemies inside already have. Costs 100 Ultimate Energy. |
+| Basic attack | Artillery Interdiction | — |
+| Battle skill | Jadecrushing Grid | 100 SP |
+| Combo skill | Yinglung Stance IV | Cooldown 20 s, 18 s at level 12 |
+| Ultimate | Gloompurge | 100 Ultimate Energy |
+
+### Artillery Interdiction
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Nature DMG. As the controlled operator, Final Strike also deals 17 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Nature DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Nature DMG and recovers some SP.
+
+### Jadecrushing Grid
+
+> Creates a Jadecrushing Grid that deals Nature DMG and applies Nature Infliction to enemies within the area of effect.
+
+> Array Arcana: INT:\
+> \- Deals more DMG.
+
+> Array Arcana: WILL:\
+> \- When dealing DMG, the array also pulls in enemies within the area of effect.
+
+### Yinglung Stance IV
+
+**Array Arcana: INT**
+
+> COMBO TRIGGER: When Nature Infliction or at least 2 stacks of non-Nature Arts Infliction are applied on an enemy.\
+> Arcane charges at the target and sets up 4 Tactical Doubles that apply Nature Susceptibility and Cryo Susceptibility and deal Nature DMG to the target and nearby enemies, and also apply Imprisonment on the said target. When Imprisonment ends, the Tactical Doubles will attack the said target to deal Explosion DMG.\
+> Imprisonment: A debuff that slows all actions.\
+> Array Arcana: INT:\
+> \- Hitting an enemy under Imprisonment with Arcane's battle skill returns some SP, ends the Imprisonment early, deals Explosion DMG, applies another instance of Nature Susceptibility and Cryo Susceptibility, and deals multiple hits of bonus DMG after a short delay.\
+> \- Combo skill cooldown is shorter.
+
+**Array Arcana: WILL**
+
+> COMBO TRIGGER: When an Arts Infliction is applied on an enemy.\
+> Arcane charges at the target and sets up 4 Tactical Doubles that deal Nature DMG and apply another stack of Arts Infliction of the same element, Nature Susceptibility, and Cryo Susceptibility to the target and nearby enemies, and also apply Imprisonment on the said target. When Imprisonment ends, the Tactical Doubles will attack the said target to deal Explosion DMG.\
+> Imprisonment: A debuff that slows all actions.\
+> Array Arcana: WILL:\
+> \- Applying Imprisonment by casting a combo skill will also slightly pull in enemies near the target.\
+> \- The attribute of Will can further increase the effects of Nature Susceptibility and Cryo Susceptibility applied by the combo skill.
+
+### Gloompurge
+
+> Arcane creates a Gloompurger Array that immediately deals Nature DMG to enemies within the area of effect (AOE).\
+> When hitting an enemy within the Gloompurger Array with a Finisher or a Final Strike performed by the controlled operator, the Gloompurger Array unleashes a Cluster Strike that deals Area DMG to the said enemy. This effect triggers up to 2 times.\
+> After triggering Cluster Strike 2 times, the ultimate is switched to Gloompurge Arcana.\
+> Gloompurge Arcana: Deals Nature DMG to enemies within a large AOE.
+
+> Array Arcana: INT:\
+> \- When created, the Gloompurger Array also forcibly applies Corrosion to enemies in the AOE.
+
+> Array Arcana: WILL:\
+> \- When created, the Gloompurger Array also targets enemies with Arts Infliction within its AOE, and applies another Arts Infliction stack of the same element to them.
 
 ## Skill values
 
@@ -132,20 +191,42 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Tactical Planning | Default; upgraded at Promotion II | Switches to Array Arcana: INT when Intellect ≥ Will, else Array Arcana: WILL, based on stats from levels, talents, potentials, gear, and weapons. At Promotion II: in INT Arcane has 24% Arts Amp while the ultimate lasts; in WILL, damage from the Gloompurger Array and Gloompurge Arcana applies non-stacking Nature Susceptibility and Cryo Susceptibility of Will × 0.02% (max 12.8%) for 10 s. |
-| Weapon Honing | Promotion I; upgraded at Promotion III | Corrosion applied by Arcane lasts 5 s longer and its Max Resistance Reduction increases to 1.05 times normal (10 s and 1.1 times at Promotion III). |
+### Tactical Planning
+
+**Default**
+
+> When Arcane's Intellect ≥ Will, switch skill type to Array Arcana: INT. If not, then switch to Array Arcana: WILL.\
+> Attribute requirements for the 2 types of Array Arcana only include effects from operator levels, talents, potentials, and attribute bonuses provided by equipped gear and weapons.
+
+**Promotion II**
+
+> When Arcane's Intellect ≥ Will, switch skill type to Array Arcana: INT. If not, then switch to Array Arcana: WILL.\
+> Ultimate Gloompurge improved:\
+> Array Arcana: INT:\
+> \- During the ultimate, Arcane gains 24% Arts Amp.\
+> Array Arcana: WILL:\
+> \- When Gloompurger Array (ultimate sequence 1) and Gloompurge Arcana (ultimate sequence 2) deal DMG to the enemy, they also apply \[Will × 0.02%\] Nature Susceptibility and Cryo Susceptibility (max: 12.8%) for 10s. This effect cannot stack.\
+> Attribute requirements for the 2 types of Array Arcana only include effects from operator levels, talents, potentials, and attribute bonuses provided by equipped gear and weapons.
+
+### Weapon Honing
+
+**Promotion I**
+
+> Corrosion applied by Arcane lasts 5s longer, and Max Resistance Reduction is increased to 1.05 times the original.
+
+**Promotion III**
+
+> Corrosion applied by Arcane lasts 10s longer, and Max Resistance Reduction is increased to 1.1 times the original.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Watcher of the Sea | Yinglung Stance IV deals 1.3 times its damage; under Array Arcana: INT her battle skill returns 10 extra SP on enemies with Imprisonment, and under Array Arcana: WILL its Nature Susceptibility and Cryo Susceptibility gain +6% |
-| 2 | Heart of Ice Cold Ferrium | Intellect +15, Will +15, and Arts Intensity +16 |
-| 3 | Wielder of Stone | Weapon Honing extends Arcane's Corrosion by another 5 s and increases its Max Resistance Reduction by an extra 20% of the base value |
-| 4 | Mind of Refined Steel | Gloompurge costs 15% less Ultimate Energy |
-| 5 | Homeward Glance | Under Array Arcana: INT, Gloompurge adds 16% Arts Amp and raises Gloompurge Arcana's damage to 1.3 times; under Array Arcana: WILL, Gloompurger Array and Gloompurge Arcana add +7% Nature Susceptibility and Cryo Susceptibility, and casting Gloompurge Arcana cuts Yinglung Stance IV's cooldown by 30% |
+| 1 | Watcher of the Sea | Combo skill Yinglung Stance IV improved: DMG Multiplier is increased to 1.3 times the original. Array Arcana: INT: Hitting an enemy under Imprisonment with Arcane's battle skill returns 10 additional SP. Array Arcana: WILL: Effects of Nature Susceptibility and Cryo Susceptibility applied +6%. |
+| 2 | Heart of Ice Cold Ferrium | Intellect and Will +15, Arts Intensity +16. |
+| 3 | Wielder of Stone | Talent Weapon Honing improved: Corrosion applied by Arcane lasts 5s longer, and Max Resistance Reduction is increased by 20% of the original. |
+| 4 | Mind of Refined Steel | Ultimate Gloompurge improved: Ultimate Energy cost -15%. |
+| 5 | Homeward Glance | Ultimate Gloompurge improved: Array Arcana: INT: During the ultimate, Arcane gains 16% Arts Amp. DMG Multiplier of Gloompurge Arcana (ultimate sequence 2) is increased to 1.3 times the original. Array Arcana: WILL: Further increases the effects of Nature Susceptibility and Cryo Susceptibility applied by Gloompurger Array (ultimate sequence 1) and Gloompurge Arcana (ultimate sequence 2) by +7%. After casting Gloompurge Arcana (ultimate sequence 2), if combo skill Yinglung Stance IV is still in its cooldown, immediately shorten the length of the cooldown by 30%. |
 
 ## Base skills
 
@@ -153,10 +234,10 @@ Base skills work while Arcane is assigned to a room of the Dijiang. Each has two
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Pluck the Mountain, Boil the Sea β | Growth Chamber | Promotion I | Rare minerals grow 20% faster |
-| Pluck the Mountain, Boil the Sea γ | Growth Chamber | Promotion III | Rare minerals grow 30% faster |
-| Botanophile β | Growth Chamber | Promotion II | Vitrified plants grow 20% faster |
-| Botanophile γ | Growth Chamber | Promotion IV | Vitrified plants grow 30% faster |
+| Pluck the Mountain, Boil the Sea β | Growth Chamber | Promotion I | Assign to Growth Chamber to grant rare mineral growth rate +20% |
+| Pluck the Mountain, Boil the Sea γ | Growth Chamber | Promotion III | Assign to Growth Chamber to grant rare mineral growth rate +30% |
+| Botanophile β | Growth Chamber | Promotion II | Assign to Growth Chamber to grant vitrified plant growth rate +20% |
+| Botanophile γ | Growth Chamber | Promotion IV | Assign to Growth Chamber to grant vitrified plant growth rate +30% |
 
 ## Base stats
 

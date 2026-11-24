@@ -46,12 +46,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.1
+      "value": 0.1,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 10%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低10%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低10%",
+       "ja": "製造室配属時、船室内全員の体力消耗-10%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 10% 감소"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低14%",
+       "ja": "製造室配属時、船室内全員の体力消耗-14%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      }
     ]
    },
@@ -69,12 +83,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Reception Room to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐會客室時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻会客室时，舱室内干员心情消耗降低14%",
+       "ja": "応接室配属時、船室内全員の体力消耗-14%",
+       "ko": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Reception Room to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐會客室時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻会客室时，舱室内干员心情消耗降低18%",
+       "ja": "応接室配属時、船室内全員の体力消耗-18%",
+       "ko": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    }
@@ -94,12 +122,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.08
+      "value": 0.08,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +8%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升8%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升8%",
+       "ja": "指揮中枢配属時、全員の体力回復+8%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 8% 증가"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.12
+      "value": 0.12,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升12%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+       "ja": "指揮中枢配属時、全員の体力回復+12%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가"
+      }
      }
     ]
    },
@@ -117,6 +159,13 @@
      {
       "mark": "α",
       "promotion": 2,
+      "text": {
+       "en": "Assign to Reception Room to grant operators a small Clue 1 Rate-UP: UWST (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索1——聯盟工團的機率小幅提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索1——联盟工团的概率小幅提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり1――工業団連盟の入手確率がわずかに上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 1 - 연맹 공단을 수집할 확률 약간 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 1,
        "en": "UWST",
@@ -128,6 +177,13 @@
      {
       "mark": "β",
       "promotion": 4,
+      "text": {
+       "en": "Assign to Reception Room to grant operators Clue 1 Rate-UP: UWST (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索1——聯盟工團的機率提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索1——联盟工团的概率提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり1――工業団連盟の入手確率が上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 1 - 연맹 공단을 수집할 확률 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 1,
        "en": "UWST",
@@ -154,12 +210,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.1
+      "value": 0.1,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +10%",
+       "zh-TW": "進駐製造艙時，武器經驗材料的生產效率提升10%",
+       "zh-CN": "进驻制造舱时，武器经验素材的生产效率提升10%",
+       "ja": "製造室配属時、武器経験値素材の製造効率+10%",
+       "ko": "제조실에 배치 시, 무기 경험치 재료의 생산 효율 10% 증가"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，武器經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，武器经验素材的生产效率提升20%",
+       "ja": "製造室配属時、武器経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 무기 경험치 재료의 생산 효율 20% 증가"
+      }
      }
     ]
    },
@@ -177,12 +247,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Growth Chamber to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐培養艙時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻培养舱时，舱室内干员心情消耗降低14%",
+       "ja": "培養室配属時、船室内全員の体力消耗-14%",
+       "ko": "재배실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Growth Chamber to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐培養艙時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻培养舱时，舱室内干员心情消耗降低18%",
+       "ja": "培養室配属時、船室内全員の体力消耗-18%",
+       "ko": "재배실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    }
@@ -202,12 +286,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant rare mineral growth rate +20%",
+       "zh-TW": "進駐培養艙時，礦物材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，矿物质料的培养速度提升20%",
+       "ja": "培養室配属時、鉱物素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 광물 재료의 육성 속도 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Growth Chamber to grant rare mineral growth rate +30%",
+       "zh-TW": "進駐培養艙時，礦物材料的培養速度提升30%",
+       "zh-CN": "进驻培养舱时，矿物质料的培养速度提升30%",
+       "ja": "培養室配属時、鉱物素材の培養速度+30%",
+       "ko": "재배실에 배치 시, 광물 재료의 육성 속도 30% 증가"
+      }
      }
     ]
    },
@@ -225,12 +323,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant vitrified plant growth rate +20%",
+       "zh-TW": "進駐培養艙時，晶植材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，晶植质料的培养速度提升20%",
+       "ja": "培養室配属時、晶植素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Growth Chamber to grant vitrified plant growth rate +30%",
+       "zh-TW": "進駐培養艙時，晶植材料的培養速度提升30%",
+       "zh-CN": "进驻培养舱时，晶植质料的培养速度提升30%",
+       "ja": "培養室配属時、晶植素材の培養速度+30%",
+       "ko": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 30% 증가"
+      }
      }
     ]
    }
@@ -250,12 +362,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.1
+      "value": 0.1,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +10%",
+       "zh-TW": "進駐製造艙時，武器經驗材料的生產效率提升10%",
+       "zh-CN": "进驻制造舱时，武器经验素材的生产效率提升10%",
+       "ja": "製造室配属時、武器経験値素材の製造効率+10%",
+       "ko": "제조실에 배치 시, 무기 경험치 재료의 생산 효율 10% 증가"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，武器經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，武器经验素材的生产效率提升20%",
+       "ja": "製造室配属時、武器経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 무기 경험치 재료의 생산 효율 20% 증가"
+      }
      }
     ]
    },
@@ -273,6 +399,13 @@
      {
       "mark": "α",
       "promotion": 2,
+      "text": {
+       "en": "Assign to Reception Room to grant operators a small Clue 6 Rate-UP: Hannabit Circuit (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索6——眾生長地的機率小幅提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索6——众生长地的概率小幅提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり6――衆生長地の入手確率がわずかに上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 6 - 만물의 대지를 수집할 확률 약간 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 6,
        "en": "Hannabit Circuit",
@@ -284,6 +417,13 @@
      {
       "mark": "β",
       "promotion": 4,
+      "text": {
+       "en": "Assign to Reception Room to grant operators Clue 6 Rate-UP: Hannabit Circuit (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索6——眾生長地的機率提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索6——众生长地的概率提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり6――衆生長地の入手確率が上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 6 - 만물의 대지를 수집할 확률 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 6,
        "en": "Hannabit Circuit",
@@ -310,12 +450,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Reception Room to grant operator clue collecting efficiency +20%",
+       "zh-TW": "進駐會客室時，幹員收集線索的效率提升20%",
+       "zh-CN": "进驻会客室时，干员收集线索的效率提升20%",
+       "ja": "応接室配属時、手がかり捜索速度+20%",
+       "ko": "응접실에 배치 시, 오퍼레이터의 단서 수집 기본 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Reception Room to grant operator clue collecting efficiency +30%",
+       "zh-TW": "進駐會客室時，幹員收集線索的效率提升30%",
+       "zh-CN": "进驻会客室时，干员收集线索的效率提升30%",
+       "ja": "応接室配属時、手がかり捜索速度+30%",
+       "ko": "응접실에 배치 시, 오퍼레이터의 단서 수집 기본 효율 30% 증가"
+      }
      }
     ]
    },
@@ -333,12 +487,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Reception Room to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐會客室時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻会客室时，舱室内干员心情消耗降低14%",
+       "ja": "応接室配属時、船室内全員の体力消耗-14%",
+       "ko": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Reception Room to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐會客室時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻会客室时，舱室内干员心情消耗降低18%",
+       "ja": "応接室配属時、船室内全員の体力消耗-18%",
+       "ko": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    }
@@ -358,12 +526,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升20%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升30%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升30%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+30%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 30% 증가"
+      }
      }
     ]
    },
@@ -381,12 +563,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低14%",
+       "ja": "製造室配属時、船室内全員の体力消耗-14%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低18%",
+       "ja": "製造室配属時、船室内全員の体力消耗-18%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    }
@@ -406,12 +602,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.08
+      "value": 0.08,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +8%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升8%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升8%",
+       "ja": "指揮中枢配属時、全員の体力回復+8%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 8% 증가"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.12
+      "value": 0.12,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升12%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+       "ja": "指揮中枢配属時、全員の体力回復+12%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가"
+      }
      }
     ]
    },
@@ -429,6 +639,13 @@
      {
       "mark": "α",
       "promotion": 2,
+      "text": {
+       "en": "Assign to Reception Room to grant operators a small Clue 2 Rate-UP: TGCC (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索2——環塔商會的機率小幅提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索2——环塔商会的概率小幅提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり2――環タロ商会の入手確率がわずかに上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 2 - 탈로스 II 상업연합회를 수집할 확률 약간 증가. (배치 시 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 2,
        "en": "TGCC",
@@ -440,6 +657,13 @@
      {
       "mark": "β",
       "promotion": 4,
+      "text": {
+       "en": "Assign to Reception Room to grant operators Clue 2 Rate-UP: TGCC (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索2——環塔商會的機率提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索2——环塔商会的概率提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり2――環タロ商会の入手確率が上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 2 - 탈로스 II 상업연합회를 수집할 확률 증가. (배치 시 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 2,
        "en": "TGCC",
@@ -466,12 +690,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant vitrified plant growth rate +20%",
+       "zh-TW": "進駐培養艙時，晶植材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，晶植质料的培养速度提升20%",
+       "ja": "培養室配属時、晶植素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Growth Chamber to grant vitrified plant growth rate +30%",
+       "zh-TW": "進駐培養艙時，晶植材料的培養速度提升30%",
+       "zh-CN": "进驻培养舱时，晶植质料的培养速度提升30%",
+       "ja": "培養室配属時、晶植素材の培養速度+30%",
+       "ko": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 30% 증가"
+      }
      }
     ]
    },
@@ -489,12 +727,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升20%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升30%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升30%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+30%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 30% 증가"
+      }
      }
     ]
    }
@@ -514,12 +766,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.08
+      "value": 0.08,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +8%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升8%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升8%",
+       "ja": "指揮中枢配属時、全員の体力回復+8%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 8% 증가"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.12
+      "value": 0.12,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升12%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+       "ja": "指揮中枢配属時、全員の体力回復+12%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가"
+      }
      }
     ]
    },
@@ -537,12 +803,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Growth Chamber to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐培養艙時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻培养舱时，舱室内干员心情消耗降低14%",
+       "ja": "培養室配属時、船室内全員の体力消耗-14%",
+       "ko": "재배실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Growth Chamber to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐培養艙時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻培养舱时，舱室内干员心情消耗降低18%",
+       "ja": "培養室配属時、船室内全員の体力消耗-18%",
+       "ko": "재배실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    }
@@ -562,12 +842,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.1
+      "value": 0.1,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +10%",
+       "zh-TW": "進駐製造艙時，武器經驗材料的生產效率提升10%",
+       "zh-CN": "进驻制造舱时，武器经验素材的生产效率提升10%",
+       "ja": "製造室配属時、武器経験値素材の製造効率+10%",
+       "ko": "제조실에 배치 시, 무기 경험치 재료의 생산 효율 10% 증가"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，武器經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，武器经验素材的生产效率提升20%",
+       "ja": "製造室配属時、武器経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 무기 경험치 재료의 생산 효율 20% 증가"
+      }
      }
     ]
    },
@@ -585,12 +879,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant rare mineral growth rate +20%",
+       "zh-TW": "進駐培養艙時，礦物材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，矿物质料的培养速度提升20%",
+       "ja": "培養室配属時、鉱物素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 광물 재료의 육성 속도 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Growth Chamber to grant rare mineral growth rate +30%",
+       "zh-TW": "進駐培養艙時，礦物材料的培養速度提升30%",
+       "zh-CN": "进驻培养舱时，矿物质料的培养速度提升30%",
+       "ja": "培養室配属時、鉱物素材の培養速度+30%",
+       "ko": "재배실에 배치 시, 광물 재료의 육성 속도 30% 증가"
+      }
      }
     ]
    }
@@ -610,12 +918,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.1
+      "value": 0.1,
+      "text": {
+       "en": "Assign to Growth Chamber to grant fungal matter growth rate +10%",
+       "zh-TW": "進駐培養艙時，菌類材料的培養速度提升10%",
+       "zh-CN": "进驻培养舱时，菌类质料的培养速度提升10%",
+       "ja": "培養室配属時、菌類素材の培養速度+10%",
+       "ko": "재배실에 배치 시, 버섯 재료의 육성 속도 10% 증가"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant fungal matter growth rate +20%",
+       "zh-TW": "進駐培養艙時，菌類材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，菌类质料的培养速度提升20%",
+       "ja": "培養室配属時、菌類素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 버섯 재료의 육성 속도 20% 증가"
+      }
      }
     ]
    },
@@ -633,12 +955,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.12
+      "value": 0.12,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升12%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+       "ja": "指揮中枢配属時、全員の体力回復+12%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.16
+      "value": 0.16,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +16%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升16%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升16%",
+       "ja": "指揮中枢配属時、全員の体力回復+16%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 16% 증가"
+      }
      }
     ]
    }
@@ -658,12 +994,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升20%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升30%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升30%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+30%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 30% 증가"
+      }
      }
     ]
    },
@@ -681,6 +1031,13 @@
      {
       "mark": "α",
       "promotion": 2,
+      "text": {
+       "en": "Assign to Reception Room to grant operators a small Clue 4 Rate-UP: Order of Steel Oath (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索4——鐵誓軍的機率小幅提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索4——铁誓军的概率小幅提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり4――鉄誓軍の入手確率がわずかに上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 4 - 철의 서약군을 수집할 확률 약간 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 4,
        "en": "Order of Steel Oath",
@@ -692,6 +1049,13 @@
      {
       "mark": "β",
       "promotion": 4,
+      "text": {
+       "en": "Assign to Reception Room to grant operators Clue 4 Rate-UP: Order of Steel Oath (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索4——鐵誓軍的機率提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索4——铁誓军的概率提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり4――鉄誓軍の入手確率が上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 4 - 철의 서약군을 수집할 확률 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 4,
        "en": "Order of Steel Oath",
@@ -718,12 +1082,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.08
+      "value": 0.08,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +8%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升8%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升8%",
+       "ja": "指揮中枢配属時、全員の体力回復+8%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 8% 증가"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.12
+      "value": 0.12,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升12%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+       "ja": "指揮中枢配属時、全員の体力回復+12%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가"
+      }
      }
     ]
    },
@@ -741,12 +1119,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Reception Room to grant operator clue collecting efficiency +20%",
+       "zh-TW": "進駐會客室時，幹員收集線索的效率提升20%",
+       "zh-CN": "进驻会客室时，干员收集线索的效率提升20%",
+       "ja": "応接室配属時、手がかり捜索速度+20%",
+       "ko": "응접실에 배치 시, 오퍼레이터의 단서 수집 기본 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Reception Room to grant operator clue collecting efficiency +30%",
+       "zh-TW": "進駐會客室時，幹員收集線索的效率提升30%",
+       "zh-CN": "进驻会客室时，干员收集线索的效率提升30%",
+       "ja": "応接室配属時、手がかり捜索速度+30%",
+       "ko": "응접실에 배치 시, 오퍼레이터의 단서 수집 기본 효율 30% 증가"
+      }
      }
     ]
    }
@@ -766,12 +1158,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.1
+      "value": 0.1,
+      "text": {
+       "en": "Assign to Growth Chamber to grant rare mineral growth rate +10%",
+       "zh-TW": "進駐培養艙時，礦物材料的培養速度提升10%",
+       "zh-CN": "进驻培养舱时，矿物质料的培养速度提升10%",
+       "ja": "培養室配属時、鉱物素材の培養速度+10%",
+       "ko": "재배실에 배치 시, 광물 재료의 육성 속도 10% 증가"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant rare mineral growth rate +20%",
+       "zh-TW": "進駐培養艙時，礦物材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，矿物质料的培养速度提升20%",
+       "ja": "培養室配属時、鉱物素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 광물 재료의 육성 속도 20% 증가"
+      }
      }
     ]
    },
@@ -789,12 +1195,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.12
+      "value": 0.12,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升12%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+       "ja": "指揮中枢配属時、全員の体力回復+12%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.16
+      "value": 0.16,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +16%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升16%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升16%",
+       "ja": "指揮中枢配属時、全員の体力回復+16%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 16% 증가"
+      }
      }
     ]
    }
@@ -814,12 +1234,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低14%",
+       "ja": "製造室配属時、船室内全員の体力消耗-14%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低18%",
+       "ja": "製造室配属時、船室内全員の体力消耗-18%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    },
@@ -837,12 +1271,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，武器經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，武器经验素材的生产效率提升20%",
+       "ja": "製造室配属時、武器経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 무기 경험치 재료의 생산 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +30%",
+       "zh-TW": "進駐製造艙時，武器經驗材料的生產效率提升30%",
+       "zh-CN": "进驻制造舱时，武器经验素材的生产效率提升30%",
+       "ja": "製造室配属時、武器経験値素材の製造効率+30%",
+       "ko": "제조실에 배치 시, 무기 경험치 재료의 생산 효율 30% 증가"
+      }
      }
     ]
    }
@@ -862,12 +1310,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升20%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升30%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升30%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+30%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 30% 증가"
+      }
      }
     ]
    },
@@ -885,12 +1347,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低14%",
+       "ja": "製造室配属時、船室内全員の体力消耗-14%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低18%",
+       "ja": "製造室配属時、船室内全員の体力消耗-18%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    }
@@ -910,12 +1386,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant vitrified plant growth rate +20%",
+       "zh-TW": "進駐培養艙時，晶植材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，晶植质料的培养速度提升20%",
+       "ja": "培養室配属時、晶植素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Growth Chamber to grant vitrified plant growth rate +30%",
+       "zh-TW": "進駐培養艙時，晶植材料的培養速度提升30%",
+       "zh-CN": "进驻培养舱时，晶植质料的培养速度提升30%",
+       "ja": "培養室配属時、晶植素材の培養速度+30%",
+       "ko": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 30% 증가"
+      }
      }
     ]
    },
@@ -933,6 +1423,13 @@
      {
       "mark": "α",
       "promotion": 2,
+      "text": {
+       "en": "Assign to Reception Room to grant operators a small Clue 7 Rate-UP: Seš'qa (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索7——塞什卡的機率小幅提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索7——塞什卡的概率小幅提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり7――セシュカの入手確率がわずかに上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 7 - 세쉬카를 수집할 확률 약간 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 7,
        "en": "Seš'qa",
@@ -944,6 +1441,13 @@
      {
       "mark": "β",
       "promotion": 4,
+      "text": {
+       "en": "Assign to Reception Room to grant operators Clue 7 Rate-UP: Seš'qa (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索7——塞什卡的機率提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索7——塞什卡的概率提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり7――セシュカの入手確率が上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 7 - 세쉬카를 수집할 확률 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 7,
        "en": "Seš'qa",
@@ -970,12 +1474,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.12
+      "value": 0.12,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升12%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+       "ja": "指揮中枢配属時、全員の体力回復+12%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.16
+      "value": 0.16,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +16%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升16%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升16%",
+       "ja": "指揮中枢配属時、全員の体力回復+16%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 16% 증가"
+      }
      }
     ]
    },
@@ -993,6 +1511,13 @@
      {
       "mark": "α",
       "promotion": 2,
+      "text": {
+       "en": "Assign to Reception Room to grant operators a small Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索3——宏山科學院的機率小幅提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索3——宏山科学院的概率小幅提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり3――宏山科学院の入手確率がわずかに上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 3 - 홍산 과학원을 수집할 확률 약간 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 3,
        "en": "HAS",
@@ -1004,6 +1529,13 @@
      {
       "mark": "β",
       "promotion": 4,
+      "text": {
+       "en": "Assign to Reception Room to grant operators Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索3——宏山科學院的機率提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索3——宏山科学院的概率提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり3――宏山科学院の入手確率が上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 3 - 홍산 과학원을 수집할 확률 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 3,
        "en": "HAS",
@@ -1030,12 +1562,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Reception Room to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐會客室時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻会客室时，舱室内干员心情消耗降低14%",
+       "ja": "応接室配属時、船室内全員の体力消耗-14%",
+       "ko": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Reception Room to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐會客室時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻会客室时，舱室内干员心情消耗降低18%",
+       "ja": "応接室配属時、船室内全員の体力消耗-18%",
+       "ko": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    },
@@ -1053,12 +1599,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.12
+      "value": 0.12,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升12%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+       "ja": "指揮中枢配属時、全員の体力回復+12%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.16
+      "value": 0.16,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +16%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升16%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升16%",
+       "ja": "指揮中枢配属時、全員の体力回復+16%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 16% 증가"
+      }
      }
     ]
    }
@@ -1078,6 +1638,13 @@
      {
       "mark": "α",
       "promotion": 1,
+      "text": {
+       "en": "Assign to Reception Room to grant operators a small Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索3——宏山科學院的機率小幅提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索3——宏山科学院的概率小幅提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり3――宏山科学院の入手確率がわずかに上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 3 - 홍산 과학원을 수집할 확률 약간 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 3,
        "en": "HAS",
@@ -1089,6 +1656,13 @@
      {
       "mark": "β",
       "promotion": 3,
+      "text": {
+       "en": "Assign to Reception Room to grant operators Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索3——宏山科學院的機率提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索3——宏山科学院的概率提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり3――宏山科学院の入手確率が上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 3 - 홍산 과학원을 수집할 확률 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 3,
        "en": "HAS",
@@ -1113,12 +1687,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant fungal matter growth rate +20%",
+       "zh-TW": "進駐培養艙時，菌類材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，菌类质料的培养速度提升20%",
+       "ja": "培養室配属時、菌類素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 버섯 재료의 육성 속도 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Growth Chamber to grant fungal matter growth rate +30%",
+       "zh-TW": "進駐培養艙時，菌類材料的培養速度提升30%",
+       "zh-CN": "进驻培养舱时，菌类质料的培养速度提升30%",
+       "ja": "培養室配属時、菌類素材の培養速度+30%",
+       "ko": "재배실에 배치 시, 버섯 재료의 육성 속도 30% 증가"
+      }
      }
     ]
    }
@@ -1138,12 +1726,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.08
+      "value": 0.08,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +8%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升8%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升8%",
+       "ja": "指揮中枢配属時、全員の体力回復+8%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 8% 증가"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.12
+      "value": 0.12,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升12%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+       "ja": "指揮中枢配属時、全員の体力回復+12%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가"
+      }
      }
     ]
    },
@@ -1161,12 +1763,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，武器經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，武器经验素材的生产效率提升20%",
+       "ja": "製造室配属時、武器経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 무기 경험치 재료의 생산 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +30%",
+       "zh-TW": "進駐製造艙時，武器經驗材料的生產效率提升30%",
+       "zh-CN": "进驻制造舱时，武器经验素材的生产效率提升30%",
+       "ja": "製造室配属時、武器経験値素材の製造効率+30%",
+       "ko": "제조실에 배치 시, 무기 경험치 재료의 생산 효율 30% 증가"
+      }
      }
     ]
    }
@@ -1186,12 +1802,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，武器經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，武器经验素材的生产效率提升20%",
+       "ja": "製造室配属時、武器経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 무기 경험치 재료의 생산 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +30%",
+       "zh-TW": "進駐製造艙時，武器經驗材料的生產效率提升30%",
+       "zh-CN": "进驻制造舱时，武器经验素材的生产效率提升30%",
+       "ja": "製造室配属時、武器経験値素材の製造効率+30%",
+       "ko": "제조실에 배치 시, 무기 경험치 재료의 생산 효율 30% 증가"
+      }
      }
     ]
    },
@@ -1209,12 +1839,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低14%",
+       "ja": "製造室配属時、船室内全員の体力消耗-14%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低18%",
+       "ja": "製造室配属時、船室内全員の体力消耗-18%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    }
@@ -1234,6 +1878,13 @@
      {
       "mark": "α",
       "promotion": 1,
+      "text": {
+       "en": "Assign to Reception Room to grant operators a small Clue 2 Rate-UP: TGCC (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索2——環塔商會的機率小幅提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索2——环塔商会的概率小幅提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり2――環タロ商会の入手確率がわずかに上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 2 - 탈로스 II 상업연합회를 수집할 확률 약간 증가. (배치 시 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 2,
        "en": "TGCC",
@@ -1245,6 +1896,13 @@
      {
       "mark": "β",
       "promotion": 3,
+      "text": {
+       "en": "Assign to Reception Room to grant operators Clue 2 Rate-UP: TGCC (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索2——環塔商會的機率提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索2——环塔商会的概率提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり2――環タロ商会の入手確率が上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 2 - 탈로스 II 상업연합회를 수집할 확률 증가. (배치 시 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 2,
        "en": "TGCC",
@@ -1269,12 +1927,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升20%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升30%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升30%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+30%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 30% 증가"
+      }
      }
     ]
    }
@@ -1294,12 +1966,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Reception Room to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐會客室時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻会客室时，舱室内干员心情消耗降低14%",
+       "ja": "応接室配属時、船室内全員の体力消耗-14%",
+       "ko": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Reception Room to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐會客室時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻会客室时，舱室内干员心情消耗降低18%",
+       "ja": "応接室配属時、船室内全員の体力消耗-18%",
+       "ko": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    },
@@ -1317,12 +2003,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Reception Room to grant operator clue collecting efficiency +20%",
+       "zh-TW": "進駐會客室時，幹員收集線索的效率提升20%",
+       "zh-CN": "进驻会客室时，干员收集线索的效率提升20%",
+       "ja": "応接室配属時、手がかり捜索速度+20%",
+       "ko": "응접실에 배치 시, 오퍼레이터의 단서 수집 기본 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Reception Room to grant operator clue collecting efficiency +30%",
+       "zh-TW": "進駐會客室時，幹員收集線索的效率提升30%",
+       "zh-CN": "进驻会客室时，干员收集线索的效率提升30%",
+       "ja": "応接室配属時、手がかり捜索速度+30%",
+       "ko": "응접실에 배치 시, 오퍼레이터의 단서 수집 기본 효율 30% 증가"
+      }
      }
     ]
    }
@@ -1342,12 +2042,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Reception Room to grant operator clue collecting efficiency +20%",
+       "zh-TW": "進駐會客室時，幹員收集線索的效率提升20%",
+       "zh-CN": "进驻会客室时，干员收集线索的效率提升20%",
+       "ja": "応接室配属時、手がかり捜索速度+20%",
+       "ko": "응접실에 배치 시, 오퍼레이터의 단서 수집 기본 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Reception Room to grant operator clue collecting efficiency +30%",
+       "zh-TW": "進駐會客室時，幹員收集線索的效率提升30%",
+       "zh-CN": "进驻会客室时，干员收集线索的效率提升30%",
+       "ja": "応接室配属時、手がかり捜索速度+30%",
+       "ko": "응접실에 배치 시, 오퍼레이터의 단서 수집 기본 효율 30% 증가"
+      }
      }
     ]
    },
@@ -1365,12 +2079,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Reception Room to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐會客室時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻会客室时，舱室内干员心情消耗降低14%",
+       "ja": "応接室配属時、船室内全員の体力消耗-14%",
+       "ko": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Reception Room to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐會客室時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻会客室时，舱室内干员心情消耗降低18%",
+       "ja": "応接室配属時、船室内全員の体力消耗-18%",
+       "ko": "응접실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    }
@@ -1390,12 +2118,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.1
+      "value": 0.1,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 10%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低10%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低10%",
+       "ja": "製造室配属時、船室内全員の体力消耗-10%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 10% 감소"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低14%",
+       "ja": "製造室配属時、船室内全員の体力消耗-14%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      }
     ]
    },
@@ -1413,12 +2155,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.12
+      "value": 0.12,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +12%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升12%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升12%",
+       "ja": "指揮中枢配属時、全員の体力回復+12%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.16
+      "value": 0.16,
+      "text": {
+       "en": "Assign to Control Nexus to grant all operators' Mood Regen +16%",
+       "zh-TW": "進駐總控中樞時，所有幹員心情恢復提升16%",
+       "zh-CN": "进驻总控中枢时，所有干员心情恢复提升16%",
+       "ja": "指揮中枢配属時、全員の体力回復+16%",
+       "ko": "핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 16% 증가"
+      }
      }
     ]
    }
@@ -1438,12 +2194,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Growth Chamber to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐培養艙時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻培养舱时，舱室内干员心情消耗降低14%",
+       "ja": "培養室配属時、船室内全員の体力消耗-14%",
+       "ko": "재배실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Growth Chamber to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐培養艙時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻培养舱时，舱室内干员心情消耗降低18%",
+       "ja": "培養室配属時、船室内全員の体力消耗-18%",
+       "ko": "재배실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    },
@@ -1461,12 +2231,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant vitrified plant growth rate +20%",
+       "zh-TW": "進駐培養艙時，晶植材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，晶植质料的培养速度提升20%",
+       "ja": "培養室配属時、晶植素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Growth Chamber to grant vitrified plant growth rate +30%",
+       "zh-TW": "進駐培養艙時，晶植材料的培養速度提升30%",
+       "zh-CN": "进驻培养舱时，晶植质料的培养速度提升30%",
+       "ja": "培養室配属時、晶植素材の培養速度+30%",
+       "ko": "재배실에 배치 시, 결정화 식물 재료의 육성 속도 30% 증가"
+      }
      }
     ]
    }
@@ -1486,12 +2270,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant rare mineral growth rate +20%",
+       "zh-TW": "進駐培養艙時，礦物材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，矿物质料的培养速度提升20%",
+       "ja": "培養室配属時、鉱物素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 광물 재료의 육성 속도 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Growth Chamber to grant rare mineral growth rate +30%",
+       "zh-TW": "進駐培養艙時，礦物材料的培養速度提升30%",
+       "zh-CN": "进驻培养舱时，矿物质料的培养速度提升30%",
+       "ja": "培養室配属時、鉱物素材の培養速度+30%",
+       "ko": "재배실에 배치 시, 광물 재료의 육성 속도 30% 증가"
+      }
      }
     ]
    },
@@ -1509,12 +2307,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant fungal matter growth rate +20%",
+       "zh-TW": "進駐培養艙時，菌類材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，菌类质料的培养速度提升20%",
+       "ja": "培養室配属時、菌類素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 버섯 재료의 육성 속도 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Growth Chamber to grant fungal matter growth rate +30%",
+       "zh-TW": "進駐培養艙時，菌類材料的培養速度提升30%",
+       "zh-CN": "进驻培养舱时，菌类质料的培养速度提升30%",
+       "ja": "培養室配属時、菌類素材の培養速度+30%",
+       "ko": "재배실에 배치 시, 버섯 재료의 육성 속도 30% 증가"
+      }
      }
     ]
    }
@@ -1534,12 +2346,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.1
+      "value": 0.1,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +10%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升10%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升10%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+10%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 10% 증가"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升20%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 20% 증가"
+      }
      }
     ]
    },
@@ -1557,12 +2383,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant rare mineral growth rate +20%",
+       "zh-TW": "進駐培養艙時，礦物材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，矿物质料的培养速度提升20%",
+       "ja": "培養室配属時、鉱物素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 광물 재료의 육성 속도 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Growth Chamber to grant rare mineral growth rate +30%",
+       "zh-TW": "進駐培養艙時，礦物材料的培養速度提升30%",
+       "zh-CN": "进驻培养舱时，矿物质料的培养速度提升30%",
+       "ja": "培養室配属時、鉱物素材の培養速度+30%",
+       "ko": "재배실에 배치 시, 광물 재료의 육성 속도 30% 증가"
+      }
      }
     ]
    }
@@ -1582,12 +2422,26 @@
      {
       "mark": "α",
       "promotion": 1,
-      "value": 0.1
+      "value": 0.1,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +10%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升10%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升10%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+10%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 10% 증가"
+      }
      },
      {
       "mark": "β",
       "promotion": 3,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升20%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 20% 증가"
+      }
      }
     ]
    },
@@ -1605,6 +2459,13 @@
      {
       "mark": "α",
       "promotion": 2,
+      "text": {
+       "en": "Assign to Reception Room to grant operators a small Clue 5 Rate-UP: Cabal of Tranquility (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索5——寂語修會的機率小幅提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索5——寂语修会的概率小幅提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり5――静語伝道会の入手確率がわずかに上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 5 - 고요한 수도회를 수집할 확률 약간 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 5,
        "en": "Cabal of Tranquility",
@@ -1616,6 +2477,13 @@
      {
       "mark": "β",
       "promotion": 4,
+      "text": {
+       "en": "Assign to Reception Room to grant operators Clue 5 Rate-UP: Cabal of Tranquility (activates upon assignment; effects of the same type cannot stack)",
+       "zh-TW": "進駐會客室時，幹員收集到線索5——寂語修會的機率提升（進駐即生效，同類不可疊加）",
+       "zh-CN": "进驻会客室时，干员收集到线索5——寂语修会的概率提升（进驻即生效，同类不可叠加）",
+       "ja": "応接室配属時、手がかり5――静語伝道会の入手確率が上昇する（配属直後に発動、重複不可）",
+       "ko": "응접실에 배치 시, 오퍼레이터가 단서 5 - 고요한 수도회를 수집할 확률 증가. (배치 즉시 효력 발생, 같은 유형의 효과는 중첩되지 않음.)"
+      },
       "clue": {
        "number": 5,
        "en": "Cabal of Tranquility",
@@ -1642,12 +2510,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Growth Chamber to grant fungal matter growth rate +20%",
+       "zh-TW": "進駐培養艙時，菌類材料的培養速度提升20%",
+       "zh-CN": "进驻培养舱时，菌类质料的培养速度提升20%",
+       "ja": "培養室配属時、菌類素材の培養速度+20%",
+       "ko": "재배실에 배치 시, 버섯 재료의 육성 속도 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Growth Chamber to grant fungal matter growth rate +30%",
+       "zh-TW": "進駐培養艙時，菌類材料的培養速度提升30%",
+       "zh-CN": "进驻培养舱时，菌类质料的培养速度提升30%",
+       "ja": "培養室配属時、菌類素材の培養速度+30%",
+       "ko": "재배실에 배치 시, 버섯 재료의 육성 속도 30% 증가"
+      }
      }
     ]
    },
@@ -1665,12 +2547,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Growth Chamber to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐培養艙時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻培养舱时，舱室内干员心情消耗降低14%",
+       "ja": "培養室配属時、船室内全員の体力消耗-14%",
+       "ko": "재배실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Growth Chamber to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐培養艙時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻培养舱时，舱室内干员心情消耗降低18%",
+       "ja": "培養室配属時、船室内全員の体力消耗-18%",
+       "ko": "재배실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    }
@@ -1690,12 +2586,26 @@
      {
       "mark": "β",
       "promotion": 1,
-      "value": 0.14
+      "value": 0.14,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低14%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低14%",
+       "ja": "製造室配属時、船室内全員の体力消耗-14%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 14% 감소"
+      }
      },
      {
       "mark": "γ",
       "promotion": 3,
-      "value": 0.18
+      "value": 0.18,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 18%",
+       "zh-TW": "進駐製造艙時，艙室內幹員心情消耗降低18%",
+       "zh-CN": "进驻制造舱时，舱室内干员心情消耗降低18%",
+       "ja": "製造室配属時、船室内全員の体力消耗-18%",
+       "ko": "제조실에 배치 시, 선실에 있는 오퍼레이터의 컨디션 소모 속도 18% 감소"
+      }
      }
     ]
    },
@@ -1713,12 +2623,26 @@
      {
       "mark": "β",
       "promotion": 2,
-      "value": 0.2
+      "value": 0.2,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升20%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升20%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+20%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 20% 증가"
+      }
      },
      {
       "mark": "γ",
       "promotion": 4,
-      "value": 0.3
+      "value": 0.3,
+      "text": {
+       "en": "Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30%",
+       "zh-TW": "進駐製造艙時，幹員經驗材料的生產效率提升30%",
+       "zh-CN": "进驻制造舱时，干员经验素材的生产效率提升30%",
+       "ja": "製造室配属時、オペレーター経験値素材の製造効率+30%",
+       "ko": "제조실에 배치 시, 오퍼레이터 경험치 재료의 생산 효율 30% 증가"
+      }
      }
     ]
    }

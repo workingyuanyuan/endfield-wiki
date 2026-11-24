@@ -46,7 +46,8 @@ sources:
 | Voice, Korean | Lee Gyu-chang |
 | Operator File | [Antal's file](/story/antal/) |
 
-Antal is a young Savra in Endfield's Operations Team Z7 who works as a supporter and Originium technology consultant, gifted in Originium Arts though he often misreads social cues.
+> "A mission for me? Good. I happen to be seeking field-testing opportunities for modified orbiters."  A member of Operations Team Z7 in Endfield, Antal works as a supporter and an Originium technology consultant. He is clever and quick on the uptake, but not the best at reading people. More than once he has dropped comments so out of place they leave the rest of the team groaning. Even so, his talent for Originium Arts is remarkable, though he himself seems hardly aware of it.  Influenced by his grandmother, Antal has little concern for conventional success and pours all his focus into whatever fascinates him. Be it an Originium device he has never seen before or a dry joke that leaves him marveling, this young Savra won't rest for days until he feels he has unraveled its secrets.\
+> "Curiously, your presence greatly amplifies my eagerness to share my vast knowledge."
 
 ## How to obtain
 
@@ -67,12 +68,36 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Exchange Current | Electric combo of up to 4 hits. His Final Strike deals 15 Stagger while he is the controlled operator. |
-| Battle skill | Specified Research Subject | He deals Electric damage and applies a long-lasting Focus to at most 1 enemy at a time, inflicting Electric Susceptibility and Heat Susceptibility while Focus lasts. Costs 100 SP. |
-| Combo skill | EMP Test Site | Trigger: an enemy with Focus suffers a Physical Status or Arts Infliction. He sets off 1 energy blast on that enemy for Electric damage and applies another stack of the same Physical Status or Arts Infliction. Cooldown 25 s, 24 s at the highest skill level. |
-| Ultimate | Overclocked Moment | He grants temporary Electric Amp and Heat Amp to the whole team. Costs 100 Ultimate Energy. |
+| Basic attack | Exchange Current | — |
+| Battle skill | Specified Research Subject | 100 SP |
+| Combo skill | EMP Test Site | Cooldown 25 s, 24 s at level 12 |
+| Ultimate | Overclocked Moment | 100 Ultimate Energy |
+
+### Exchange Current
+
+> BASIC ATTACK:\
+> An attack with up to 4 sequences that deals Electric DMG. As the controlled operator, Final Strike also deals 15 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Electric DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Electric DMG and recovers some SP.
+
+### Specified Research Subject
+
+> Applies Focus with a long duration on the enemy and deals Electric DMG. An enemy with an active Focus also suffers Electric Susceptibility and Heat Susceptibility. Focus can only be applied to 1 enemy at any given time.
+
+### EMP Test Site
+
+> COMBO TRIGGER: When an enemy with active Focus suffers a Physical Status or Arts Infliction.\
+> Triggers 1 energy explosion on the enemy that deals Electric DMG and applies another stack of the same Physical Status or Arts Infliction.
+
+### Overclocked Moment
+
+> Applies temporary Electric Amp and Heat Amp to the entire team.
 
 ## Skill values
 
@@ -99,20 +124,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Improviser | Promotion I; upgraded at Promotion II | When an Amped teammate deals skill damage, Antal heals that teammate for 72 + Strength × 0.6 HP (108 + Strength × 0.9 at Promotion II), at most 1 time every 30 s per operator. |
-| Subconscious Act | Promotion II; upgraded at Promotion III | He has a 30% chance to negate Physical damage and restore 27 + Strength × 0.23 HP to himself (45 + Strength × 0.38 at Promotion III). |
+### Improviser
+
+**Promotion I**
+
+> After an Amped teammate's skill deals DMG, Antal restores the said teammate's HP by \[72 + Strength×0.6\]. This HP restoring effect triggers 1 time every 30s for each operator.
+
+**Promotion II**
+
+> After an Amped teammate's skill deals DMG, Antal restores the said teammate's HP by \[108 + Strength×0.9\]. This HP restoring effect triggers 1 time every 30s for each operator.
+
+### Subconscious Act
+
+**Promotion II**
+
+> Gains 30% chance of Physical DMG immunity and restores HP of self by \[27 + Strength×0.23\].
+
+**Promotion III**
+
+> Gains 30% chance of Physical DMG immunity and restores HP of self by \[45 + Strength×0.38\].
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Arts Talent | Overclocked Moment's Electric Amp and Heat Amp effects increase to 1.1 times their original values |
-| 2 | Improved Automation | Overclocked Moment costs 10% less Ultimate Energy |
-| 3 | Applied Originium Theory | Returns 15 SP when an enemy with Focus is defeated while Focus lasts |
-| 4 | Granny's Reminder | Intellect +10 and Max HP +10% |
-| 5 | High Specs Tech Tester | Keeping Focus on the same enemy for 20 s increases its Electric Susceptibility and Heat Susceptibility by 4% |
+| 1 | Arts Talent | Ultimate Overclocked Moment improved: Electric Amp and Heat Amp effects are increased to 1.1 times the original. |
+| 2 | Improved Automation | Ultimate Overclocked Moment improved: Ultimate Energy cost -10%. |
+| 3 | Applied Originium Theory | When an enemy with an active Focus debuff is defeated, return 15 SP. |
+| 4 | Granny's Reminder | Intellect +10, Max HP +10%. |
+| 5 | High Specs Tech Tester | Applying Focus on the same target for 20s increases Electric Susceptibility and Heat Susceptibility effects by 4%. |
 
 ## Base skills
 
@@ -120,10 +160,10 @@ Base skills work while Antal is assigned to a room of the Dijiang. Each has two 
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Experimental Arts Unit α | MFG Cabin | Promotion I | Weapon EXP materials made 10% faster |
-| Experimental Arts Unit β | MFG Cabin | Promotion III | Weapon EXP materials made 20% faster |
-| Pun-isher Studies β | Growth Chamber | Promotion II | Mood drop of the operators in this room −14% |
-| Pun-isher Studies γ | Growth Chamber | Promotion IV | Mood drop of the operators in this room −18% |
+| Experimental Arts Unit α | MFG Cabin | Promotion I | Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +10% |
+| Experimental Arts Unit β | MFG Cabin | Promotion III | Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20% |
+| Pun-isher Studies β | Growth Chamber | Promotion II | Assign to Growth Chamber to slow Mood Drop of all operators in it by 14% |
+| Pun-isher Studies γ | Growth Chamber | Promotion IV | Assign to Growth Chamber to slow Mood Drop of all operators in it by 18% |
 
 ## Base stats
 

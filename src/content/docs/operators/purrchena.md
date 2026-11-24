@@ -45,7 +45,10 @@ sources:
 | Voice, Korean | Park i-seo |
 | Operator File | [Purrchena's file](/story/purrchena/) |
 
-Purrchena is a dessert-loving spokesperson for the Ætherside Environmental Impact Syndrome Relief Foundation; recommended by the TGCC, she joined Endfield's Business Office as the liaison between the two on Ætherside Syndrome.
+> "My turn to ... 'Meow-dy!' ...Ugh, how am I asleep again?!"\
+> Purrchena is a big fan of desserts and serves as the spokesperson for the Ætherside Environmental Impact Syndrome Relief Foundation. She joined the Business Office of Endfield Industries at the recommendation of the Talos-II General Chamber of Commerce (TGCC) and has since become the liaison between Endfield and TGCC in the field of Ætherside Syndrome.\
+> When Purrchena first stepped into the public eye, the love and care people showed her made her aware of the responsibility she carried. But after she became the Foundation's spokesperson and stood alongside those living with Ætherside Syndrome, she realized how little she could do. Even though Ætherside Syndrome often caused her to fall asleep without warning, every time she woke up, she would set out again, carrying everyone's love with her. In her own way, Purrchena keeps the other patients receiving help smiling.\
+> "Got my marshmallows and exotic dried fin... Alright, I'm good to go!"
 
 ## How to obtain
 
@@ -65,12 +68,43 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | DESSERT! HAVE SOME! | Physical combo of up to 3 hits. As the controlled operator, her final strike also deals 21 Stagger. |
-| Battle skill | I'M NOT SLEEPING! | Raises her shield to block, returning SP and granting Protection to herself and nearby allies that drops with each block; the first block extends duration and returns extra SP. After casting, her battle skill temporarily becomes LEAVE MY FRIENDS ALONE!, headbutting a target for Nature damage and Nature Infliction. Costs 100 SP. |
-| Combo skill | CAKE OR "PREZZIE" | Trigger: the controlled operator is attacked. Throws a delayed Giftbox to the controlled operator that heals nearby allies (scaling with Will) and randomly triggers one item: Bomb for area Physical damage and Stagger, Handicraft to keep pulling nearby enemies in for Physical damage, or Yummy Dessert to heal the controlled operator. Cooldown 24 s, 22 s at the highest skill level. |
-| Ultimate | NAUGHTY IS BANNED! | Opens 3 Big Feline's Prezzies, each randomly revealing a Bomb or Handicraft, with a chance for Ambassador's Special to deal Physical damage, extra Stagger, and Arts Susceptibility. Costs 100 Ultimate Energy. |
+| Basic attack | DESSERT! HAVE SOME! | — |
+| Battle skill | I'M NOT SLEEPING! | 100 SP |
+| Combo skill | CAKE OR "PREZZIE" | Cooldown 24 s, 22 s at level 12 |
+| Ultimate | NAUGHTY IS BANNED! | 100 Ultimate Energy |
+
+### DESSERT! HAVE SOME!
+
+> BASIC ATTACK:\
+> An attack with up to 3 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 21 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.
+
+### I'M NOT SLEEPING!
+
+> Purrchena raises up her shield to block an attack and immediately returns some SP. While Purrchena's shield is up, she grants Protection to herself and nearby operators. During the battle skill, the first successful block extends the shield up duration and returns additional SP. After casting, Purrchena's battle skill is temporarily changed to LEAVE MY FRIENDS ALONE!.\
+> LEAVE MY FRIENDS ALONE!: Purrchena headbutts a target in front of her to deal Nature DMG and apply Nature Infliction.\
+> Protection granted during shield-raising is reduced after every blocked attack.
+
+### CAKE OR "PREZZIE"
+
+> COMBO TRIGGER: When the controlled operator is attacked.\
+> Throws a Giftbox at the controlled operator. The Giftbox opens after a short delay, granting HP Treatment to nearby operators, randomly revealing one of the following items, and triggering the effects of the revealed item:\
+> Bomb: Deals Physical DMG and additional Stagger to enemies in the area of effect (AOE).\
+> Handicraft: Continuously pulls in nearby enemies and deals Physical DMG.\
+> Yummy Dessert: Grants HP Treatment to the controlled operator.\
+> The attribute of Will increases the amount of HP treatment.
+
+### NAUGHTY IS BANNED!
+
+> Purrchena opens 3 Big Feline's Prezzies. Each Big Feline's Prezzie randomly reveals a Bomb or a piece of Handicraft.\
+> There is a chance that the Prezzie reveals Ambassador's Special that applies Arts Susceptibility and deals Physical DMG as well as additional Stagger to enemies.
 
 ## Skill values
 
@@ -109,20 +143,37 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Your sorry came LATE! | Promotion I; upgraded at Promotion II | The first successful block during I'M NOT SLEEPING! grants 6 extra Ultimate Energy (10 at Promotion II) and raises the Ambassador's Special chance of the next NAUGHTY IS BANNED! by 10%, stacking up to 3 times. |
-| Ambassador's Duty | Promotion II; upgraded at Promotion III | While Purrchena is deployed, team operators at Max HP take 50% less damage from the next hit, at most once every 180 s per operator (90 s at Promotion III). |
+### Your sorry came LATE!
+
+**Promotion I**
+
+> Battle skill I'M NOT SLEEPING! improved: After successfully blocking an enemy attack for the first time, the skill gives 6 additional Ultimate Energy. Chance for Ambassador's Special of the next ultimate NAUGHTY IS BANNED! is increased by 10%. This effect can reach 3 stacks.
+
+**Promotion II**
+
+> Battle skill I'M NOT SLEEPING! improved: After successfully blocking an enemy attack for the first time, the skill gives 10 additional Ultimate Energy. Chance for Ambassador's Special of the next ultimate NAUGHTY IS BANNED! is increased by 10%. This effect can reach 3 stacks.
+
+### Ambassador's Duty
+
+**Promotion II**
+
+> When deployed in battle, all Max HP operators in the team take 50% less DMG from the next hit taken.\
+> For each operator, this effect can only trigger once every 180s.
+
+**Promotion III**
+
+> When deployed in battle, all Max HP operators in the team take 50% less DMG from the next hit taken.\
+> For each operator, this effect can only trigger once every 90s.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Warm Like the Sun | NAUGHTY IS BANNED! has 1.5 times the base chance to reveal Ambassador's Special |
-| 2 | "Super Energetic" | DEF +20, Will +20 |
-| 3 | Useful "Prezzies" | In CAKE OR "PREZZIE", Bomb deals 1.2 times damage, Handicraft has +20% effect radius, and Yummy Dessert grants 1.2 times HP Treatment |
-| 4 | After the Feast | NAUGHTY IS BANNED! costs 15% less Ultimate Energy |
-| 5 | Hot Like a BBQ Fire | Ambassador's Special in NAUGHTY IS BANNED! deals 1.2 times damage and applies 1.2 times Arts Susceptibility |
+| 1 | Warm Like the Sun | Ultimate NAUGHTY IS BANNED! improved: Base chance for Ambassador's Special is increased to 1.5 times the original. |
+| 2 | "Super Energetic" | DEF +20, Will +20. |
+| 3 | Useful "Prezzies" | Combo skill CAKE OR "PREZZIE" improved: Bomb: DMG Multiplier increased to 1.2 times the original. Handicraft: Effect radius +20%. Yummy Dessert: HP Treatment increased to 1.2 times the original. |
+| 4 | After the Feast | Ultimate NAUGHTY IS BANNED! improved: Ultimate Energy cost -15%. |
+| 5 | Hot Like a BBQ Fire | Ultimate NAUGHTY IS BANNED! improved: Ambassador's Special: DMG Multiplier is increased to 1.2 times the original. Ambassador's Special: Arts Susceptibility is increased to 1.2 times the original. |
 
 ## Base skills
 
@@ -130,10 +181,10 @@ Base skills work while Purrchena is assigned to a room of the Dijiang. Each has 
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Brand Ambassador α | Reception Room | Promotion I | Slightly higher chance of Clue 2 (TGCC); does not stack with another skill of this kind |
-| Brand Ambassador β | Reception Room | Promotion III | Higher chance of Clue 2 (TGCC); does not stack with another skill of this kind |
-| Desserts for the Debrief β | MFG Cabin | Promotion II | Operator EXP materials made 20% faster |
-| Desserts for the Debrief γ | MFG Cabin | Promotion IV | Operator EXP materials made 30% faster |
+| Brand Ambassador α | Reception Room | Promotion I | Assign to Reception Room to grant operators a small Clue 2 Rate-UP: TGCC (activates upon assignment; effects of the same type cannot stack) |
+| Brand Ambassador β | Reception Room | Promotion III | Assign to Reception Room to grant operators Clue 2 Rate-UP: TGCC (activates upon assignment; effects of the same type cannot stack) |
+| Desserts for the Debrief β | MFG Cabin | Promotion II | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20% |
+| Desserts for the Debrief γ | MFG Cabin | Promotion IV | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30% |
 
 ## Base stats
 

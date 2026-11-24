@@ -1,0 +1,227 @@
+{
+ "slug": "perlica",
+ "gameId": "chr_0004_pelica",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"We once fought on and never gave up ... for it is our wish to witness your return.\"  Perlica is the Supervisor of Endfield Industries and the official spokesperson of the company. She is primarily responsible for overseeing and advancing the development and application of Protocol-Originium technology, while also managing the operations of Dijiang.  As an outstanding expert in Techno-Protocol, she guided research that had a key influence on the adaptive development and application of the technology, and helped refine the Automated Industry Complex (AIC Factory).  She is capable of responding to various crises in a calm and decisive manner. However, Endfield often faces challenges that go beyond all expectations. While the Endministrator was in hibernation, she took command of the Crisis Team, leading the heroes of Endfield Industries in a battle for a greater cause. Perlica moves tirelessly across the Civilization Band, doing whatever she can to maintain order and keep things running.\n\"Only by walking upon the land, can we truly appreciate every breath and pulse of life... And this is what Endfield is fighting for.\"",
+  "zh-TW": "「我們曾這樣不斷抵抗……期待著你能再一次歸來。」  佩麗卡，終末地工業的監督和官方發言人，主要負責管理和推進協議源石技術的開發和應用，同時也承擔帝江號的管理工作。  作為一位傑出的協議技術專家，她的專業成果對於這種技術的適應性發展及其進一步應用產生了重要的影響，並推動了集成工業系統的完善。  佩麗卡能夠果斷且冷靜地應對各種危機，但終末地工業所面臨的挑戰總是超出預期。在管理員休眠期間，她正式接管了危機處理小組的指揮權，領導終末地工業的「英雄們」為了一個無私的目標而戰。她來回奔波於文明環帶的各處，為終末地的平穩發展竭盡全力。    「只有徒步行走在這片大地上，我們才能感受到生命的氣息……這也是終末地戰鬥的意義。」",
+  "zh-CN": "“我们曾这样不断抵抗……期待着你能再一次归来。” 佩丽卡，终末地工业的监督和官方发言人，主要负责管理和推进协议源石技术的开发和应用，同时也承担帝江号的管理工作。 作为一位杰出的协议技术专家，她的专业成果对于这种技术的适应性发展及其进一步应用产生了重要的影响，并推动了集成工业系统的完善。 佩丽卡能够果断且冷静地应对各种危机，但终末地工业所面临的挑战总是超出预期。在管理员休眠期间，她正式接管了危机处理小组的指挥权，领导终末地工业的“英雄们”为了一个无私的目标而战。她来回奔波于文明环带的各处，为终末地的平稳发展竭尽全力。\n“只有徒步行走在这片大地上，我们才能感受到生命的气息……这也是终末地战斗的意义。”",
+  "ja": "「私たちは抗い続けてきた……あなたがもう一度戻ってくると、ずっと信じていました。」 エンドフィールド工業の監察官で、公式発言者の1人である。主に協約技術の開発および応用の管理と推進を担当しており、同時に、帝江号の管理業務も担っている。 協約技術の優れた専門家でもあり、その研究成果は協約技術を持続的に発展させること、また応用範囲を拡大することに大きく貢献し、集成工業システムをより完成されたものへと高める力となった。エンドフィールドで起こる、予想をはるかに超える問題に頭を悩ませながらも、常に冷静かつ的確に対処している。管理人が眠りについている間は、危機対策班の指揮権を引き継ぎ、エンドフィールド工業の「英雄」を導きながら戦った。文明地帯の各地を絶えず行き来しながら、エンドフィールドの安定と発展のため、全力を尽くしている。\n「この大地を自分の足で歩いて、はじめて感じる命の息吹……これこそ、エンドフィールドが戦い続ける理由。」",
+  "ko": "\"예전에 우린 이렇게 끊임없이 저항했어... 네가 다시 돌아올 거라는 기대를 품고서 말이야.\"  펠리카, 엔드필드 공업의 감독관이자 공식 대변인. 그녀는 주로 프로토콜 오리지늄 기술의 개발과 응용을 관리 및 추진하며 동시에 제강호의 관리 업무도 맡고 있다.  탁월한 프로토콜 기술 전문가로서, 그녀의 연구 성과는 이 기술의 적응적 발전과 확장 응용에 큰 영향을 주었고, 통합 공업 시스템의 완성도를 높이는 데 크게 이바지했다.  펠리카는 각종 위기 상황에 냉정하고 단호하게 대처할 수 있는 능력을 지녔지만, 엔드필드 공업이 직면한 도전은 언제나 예상을 넘어섰다. 관리자가 휴면기에 접어든 동안, 그녀는 위기 대책팀을 직접 지휘하며 엔드필드 공업의 '영웅들'을 이끌고 헌신적인 목표를 위해 싸웠다. 그녀는 문명 밴드 곳곳을 누비며 엔드필드의 안정적인 발전을 위해 최선을 다하고 있다.    \"대지를 걷고 있으면 생명의 숨결이 느껴져... 이게 우리 엔드필드가 싸우는 의미이기도 해.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Protocol α: Breach",
+    "zh-TW": "協議α·突破",
+    "zh-CN": "协议α·突破",
+    "ja": "協約α：突破",
+    "ko": "프로토콜α · 돌파"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Electric DMG. As the controlled operator, Final Strike also deals 15 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Electric DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Electric DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成電磁傷害。作為主控幹員時，重擊會造成15點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成電磁傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量電磁傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成电磁伤害。作为主控干员时，重击会造成15点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成电磁伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量电磁伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に電磁ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値15を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に電磁ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い電磁ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 전기 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 15포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 전기 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 전기 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Protocol ω: Strike",
+    "zh-TW": "協議ω·雷擊",
+    "zh-CN": "协议ω·雷击",
+    "ja": "協約ω：雷撃",
+    "ko": "프로토콜ω · 뇌격"
+   },
+   "text": {
+    "en": "Unleashes a bolt of electro-magnetic energy that deals Electric DMG and Electric Infliction to enemies in a small area.",
+    "zh-TW": "釋放一道電磁能量從空中落下，對小範圍內敵人造成電磁傷害並施加電磁附著。",
+    "zh-CN": "释放一道电磁能量从空中落下，对小范围内敌人造成电磁伤害并施加电磁附着。",
+    "ja": "放出した電磁エネルギーを空中から落とし、一定範囲内の敵に電磁ダメージを与え、電磁付着を付与する。",
+    "ko": "하늘에서 전기 에너지를 떨어뜨려, 좁은 범위 내의 적에게 전기 피해를 주고 전기 부착 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Instant Protocol: Chain",
+    "zh-TW": "即時協議·閃鏈",
+    "zh-CN": "即时协议·闪链",
+    "ja": "即時協約：閃光鎖",
+    "ko": "실시간 프로토콜 · 연쇄 섬광"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When controlled operator performs a Final Strike on any enemy.\nUnleashes stored electro-magnetic energy to bombard the target, dealing Electric DMG and forcibly inflicting temporary Electrification.",
+    "zh-TW": "當主控幹員對敵人造成重擊後可以發動。\n釋放積蓄的電磁能量轟擊目標，造成電磁傷害並強制施加短暫的導電。",
+    "zh-CN": "当主控干员对敌人造成重击后可以发动。\n释放积蓄的电磁能量轰击目标，造成电磁伤害并强制施加短暂的导电。",
+    "ja": "操作中のオペレーターが敵に重攻撃を与えると発動可能。\n蓄積された電磁エネルギーを放出して敵を攻撃し、電磁ダメージを与え、強制的に短時間感電状態にする。",
+    "ko": "메인 컨트롤 오퍼레이터가 적에게 강력한 일격 피해를 준 다음 사용할 수 있습니다.\n누적된 전기 에너지를 방출해 목표를 강타하며 전기 피해를 주고, 짧은 강제 감전 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Protocol ε: 70.41K",
+    "zh-TW": "協議ε·70.41κ",
+    "zh-CN": "协议ε·70.41κ",
+    "ja": "協約ε：70.41κ",
+    "ko": "프로토콜ε · 70.41κ"
+   },
+   "text": {
+    "en": "Tele-protocols a massive piece of orbital debris into the battlefield with devastating impact. All enemies in the area of effect suffer massive Electric DMG.",
+    "zh-TW": "立即傳送一塊巨大的軌道漂浮物對目標區域造成毀滅性打擊，對區域內的敵人產生大量電磁傷害。",
+    "zh-CN": "立即传送一块巨大的轨道漂浮物对目标区域进行毁灭性打击，对区域内的敌人造成大量电磁伤害。",
+    "ja": "巨大な軌道浮遊物を転送し、目標エリアに壊滅的な攻撃を行う。範囲内の敵に高い電磁ダメージを与える。",
+    "ko": "즉시 거대한 궤도 부유물을 전송하여 목표 구역에 치명적인 타격을 줍니다. 구역 내의 적은 대량의 전기 피해를 받습니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Obliteration Protocol",
+    "zh-TW": "殲滅協議",
+    "zh-CN": "歼灭协议",
+    "ja": "殲滅協約",
+    "ko": "오블리터레이션 프로토콜"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "DMG Dealt +20% to Staggered enemies.",
+      "zh-TW": "對失衡的敵人造成的傷害+20%。",
+      "zh-CN": "对失衡的敌人造成的伤害+20%。",
+      "ja": "ブレイク状態の敵へのダメージ+20%",
+      "ko": "불균형 상태의 적에게 주는 피해 +20%"
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "DMG Dealt +30% to Staggered enemies.",
+      "zh-TW": "對失衡的敵人造成的傷害+30%。",
+      "zh-CN": "对失衡的敌人造成的伤害+30%。",
+      "ja": "ブレイク状態の敵へのダメージ+30%",
+      "ko": "불균형 상태의 적에게 주는 피해 +30%"
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Cycle Protocol",
+    "zh-TW": "循環協議",
+    "zh-CN": "循环协议",
+    "ja": "循環協約",
+    "ko": "순환 프로토콜"
+   },
+   "levels": [
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Combo skill Instant Protocol: Chain improved: When hitting a Vulnerable enemy, the hit chains 1 more time.",
+      "zh-TW": "連攜技即時協議·閃鏈命中處於破防狀態的敵人時，還會彈射1次。",
+      "zh-CN": "连携技即时协议·闪链命中处于破防状态的敌人时，还会弹射1次。",
+      "ja": "連携技「即時協約：閃光鎖」がクラッシュ状態の敵に命中するとき、1回連鎖して攻撃する",
+      "ko": "연계 스킬 실시간 프로토콜 · 연쇄 섬광이 방어 불능 상태의 적에게 명중했을 때, 스킬이 1회 더 튕깁니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Crisis Handling",
+    "zh-TW": "危機處理",
+    "zh-CN": "危机处理",
+    "ja": "危機対策",
+    "ko": "위기 대책"
+   },
+   "text": {
+    "en": "Combo skill Instant Protocol: Chain improved: Electrification duration +75%.",
+    "zh-TW": "連攜技即時協議·閃鏈施加的導電持續時間+75%。",
+    "zh-CN": "连携技即时协议·闪链施加的导电持续时间+75%。",
+    "ja": "連携技「即時協約：閃光鎖」による感電の持続時間+75%",
+    "ko": "연계 스킬 실시간 프로토콜 · 연쇄 섬광이 부여하는 감전의 지속 시간 +75%"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Negotiation Tactics",
+    "zh-TW": "談判策略",
+    "zh-CN": "谈判策略",
+    "ja": "交渉戦略",
+    "ko": "협상의 기술"
+   },
+   "text": {
+    "en": "Ultimate Protocol ε: 70.41K improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技協議ε·70.41κ所需的終結技能量-15%。",
+    "zh-CN": "终结技协议ε·70.41κ所需的终结技能量-15%。",
+    "ja": "必殺技「協約ε：70.41κ」に必要な必殺チャージ-15%",
+    "ko": "궁극기 프로토콜ε · 70.41κ의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Supervisory Duties",
+    "zh-TW": "監督重任",
+    "zh-CN": "监督重任",
+    "ja": "監察官の責任",
+    "ko": "감독관의 책임"
+   },
+   "text": {
+    "en": "After Perlica applies Electrification to the enemy, she gains ATK +20% for 5s. This effect can reach 2 stacks.",
+    "zh-TW": "當佩麗卡對敵人施加導電後，在5秒內攻擊力+20%，該效果最多疊加2層。",
+    "zh-CN": "当佩丽卡对敌人施加导电后，在5秒内攻击力+20%，该效果最多叠加2层。",
+    "ja": "ペリカが敵に感電を発動させると、5秒間攻撃力+20%（2回まで重ね掛け可能）",
+    "ko": "펠리카가 적에게 감전을 부여한 후, 5초 동안 공격력 +20%, 해당 효과는 최대 2스택까지 중첩됩니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Constant Guidance",
+    "zh-TW": "長效導流",
+    "zh-CN": "长效导流",
+    "ja": "長期導流",
+    "ko": "계속되는 가르침"
+   },
+   "text": {
+    "en": "Combo skill Instant Protocol: Chain improved: The Arts DMG Taken debuff effects on the enemy applied by the skill's Electrification are increased to 1.33 times the original.",
+    "zh-TW": "連攜技即時協議·閃鏈施加的導電使敵人受到法術傷害提高的效果提升至原本的1.33倍。",
+    "zh-CN": "连携技即时协议·闪链施加的导电使敌人受到法术伤害提高的效果提升至原本的1.33倍。",
+    "ja": "連携技「即時協約：閃光鎖」による感電効果は、敵が受けるアーツダメージUPの効果を1.33倍までアップさせる",
+    "ko": "연계 스킬 실시간 프로토콜 · 연쇄 섬광이 부여하는 감전의 적이 받는 아츠 피해 증가 효과가 기존의 1.33배로 증가"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Reentry Control",
+    "zh-TW": "再入控制",
+    "zh-CN": "再入控制",
+    "ja": "バック・イン・コントロール",
+    "ko": "재진입 통제 시스템"
+   },
+   "text": {
+    "en": "Ultimate Protocol ε: 70.41K improved: Critical Rate +30%.",
+    "zh-TW": "終結技協議ε·70.41κ的暴擊率+30%。",
+    "zh-CN": "终结技协议ε·70.41κ的暴击率+30%。",
+    "ja": "必殺技「協約ε：70.41κ」の会心率+30%",
+    "ko": "궁극기 프로토콜ε · 70.41κ의 치명타 확률 +30%"
+   }
+  }
+ ]
+}

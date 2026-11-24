@@ -56,7 +56,8 @@ sources:
 | Voice, Korean | Bang Si-u |
 | Operator File | [Gilberta's file](/story/gilberta/) |
 
-Gilberta is a Rhodes Island operator serving as a Messenger in Endfield's Specialist Tech Division, using rare gravity-controlling Originium Arts while delivering mail and intel.
+> "Hi there! Oh, you have the rosy scent of beautiful memories ... like an incomplete letter destined for a special place. I wonder where that might be."  Gilberta is a Rhodes Island operator assigned to Endfield Industries under the framework agreement between the two companies. She serves as a Messenger in the Specialist Tech Division. Skilled in an exceptionally rare form of Originium Arts, she is capable of controlling gravity around her.  At Endfield, Gilberta is in charge of mail and intel delivery across multiple bases and outposts. Her duties often require her to travel along the boundaries between the Civilization Band and the frontier, but she seems to really enjoy the job. Recently she even started asking for more challenging missions in high-risk areas to hone her skills.  Warfarin admitted that Gilberta's upbeat nature, paired with a hint of unease and hope for the future, once left her both surprised and a little nostalgic.\
+> "Looky here! The Flying Miss Messenger got a special letter for you!"
 
 ## How to obtain
 
@@ -89,12 +90,37 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Arcane Staff: Beam Cohesion Arts | Nature combo of up to 4 hits. The final strike deals 16 Stagger while she is the controlled operator. |
-| Battle skill | Arcane Staff: Gravity Mode | Channels to form a gravity well that pulls in nearby enemies while dealing Nature damage. When channeling ends, it implodes for area Nature damage and applies Nature Infliction. Costs 100 SP. |
-| Combo skill | Arcane Staff: Matrix Displacement | Trigger: an Arts Reaction is applied to an enemy. After a brief cast, a gravity pull draws in the target and nearby enemies, dealing Nature damage and forcibly Lifting them. Cooldown 20 s, 19 s at the highest skill level. |
-| Ultimate | Arcane Staff: Gravity Field | Creates an Anomalous Gravity Field that immediately deals 1 Nature hit and applies Nature Infliction to enemies inside. Targets within also suffer Slow and Arts Susceptibility that scales with their Vulnerability stacks, and any Lifted target remains Lifted until the field ends. Costs 90 Ultimate Energy. |
+| Basic attack | Arcane Staff: Beam Cohesion Arts | — |
+| Battle skill | Arcane Staff: Gravity Mode | 100 SP |
+| Combo skill | Arcane Staff: Matrix Displacement | Cooldown 20 s, 19 s at level 12 |
+| Ultimate | Arcane Staff: Gravity Field | 90 Ultimate Energy |
+
+### Arcane Staff: Beam Cohesion Arts
+
+> BASIC ATTACK:\
+> An attack with up to 4 sequences that deals Nature DMG. As the controlled operator, Final Strike also deals 16 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Nature DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Nature DMG and recovers some SP.
+
+### Arcane Staff: Gravity Mode
+
+> Initiates Arts channeling that creates a gravity well. The gravity well pulls in nearby enemies and deals Nature DMG to them. When channeling ends, the gravity well implodes to deal Nature DMG and Nature Infliction to enemies in the area of effect.
+
+### Arcane Staff: Matrix Displacement
+
+> COMBO TRIGGER: When an Arts Reaction is applied to an enemy.\
+> A quick casting of the Arts that generates a gravity pull, which then deals Nature DMG and forcibly Lifts the target and nearby enemies.
+
+### Arcane Staff: Gravity Field
+
+> Creates an Anomalous Gravity Field that instantly deals 1 hit of Nature DMG and applies Nature Infliction to enemies caught in the field. Targets in the Anomalous Gravity Field also suffer from Slow and Arts Susceptibility. The effect of Arts Susceptibility is further increased based on the number of active Vulnerability stacks on the target.\
+> If a target in the field is Lifted, the Lifted status will persist until the field wears off.
 
 ## Skill values
 
@@ -123,20 +149,37 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Messenger's Song | Promotion I; upgraded at Promotion II | While Gilberta is on the battlefield, all allied guards, casters, and supporters gain 4% Ultimate Gain Efficiency (7% at Promotion II). |
-| Late Reply | Promotion II; upgraded at Promotion III | When Arcane Staff: Matrix Displacement or the final hit of Arcane Staff: Gravity Mode hits at least 2 enemies, it heals the controlled operator for 72 + Intellect × 0.60 HP (108 + Intellect × 0.90 at Promotion III), or the ally with the lowest HP percentage if they are at full HP. |
+### Messenger's Song
+
+**Promotion I**
+
+> When fighting in the battlefield, all allied guards, casters, and supporters gain Ultimate Gain Efficiency +4%.
+
+**Promotion II**
+
+> When fighting in the battlefield, all allied guards, casters, and supporters gain Ultimate Gain Efficiency +7%.
+
+### Late Reply
+
+**Promotion II**
+
+> Battle skill Arcane Staff: Gravity Mode and combo skill Arcane Staff: Matrix Displacement improved: Hitting at least 2 enemies with either the combo skill or the last sequence of the battle skill restores \[72 + Intellect×0.60\] HP to the controlled operator.\
+> If the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.
+
+**Promotion III**
+
+> Battle skill Arcane Staff: Gravity Mode and combo skill Arcane Staff: Matrix Displacement improved: Hitting at least 2 enemies with either the combo skill or the last sequence of the battle skill restores \[108 + Intellect×0.90\] HP to the controlled operator.\
+> If the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Above the Clouds | Arcane Staff: Gravity Mode gains 20% increased effect radius |
-| 2 | Wind Walker | Inside Arcane Staff: Gravity Field's Anomalous Gravity Field, the Arts Susceptibility bonus per Vulnerability stack doubles, and that bonus is worked out as if the target had 1 extra Vulnerability stack, up to 4 |
-| 3 | Quick, Gentle Steps | Messenger's Song grants an extra 5% Ultimate Gain Efficiency |
-| 4 | Dances with Clouds | Arcane Staff: Gravity Field costs 15% less Ultimate Energy |
-| 5 | Special Mail | Arcane Staff: Matrix Displacement has its cooldown reduced by 2 s and deals 1.3 times its damage |
+| 1 | Above the Clouds | Battle skill Arcane Staff: Gravity Mode improved: Effect radius +20%. |
+| 2 | Wind Walker | Ultimate Arcane Staff: Gravity Field improved: When an enemy is affected by the Anomalous Gravity Field of the ultimate, double the Arts Susceptibility increase per Vulnerability stack. When finalizing this effect, the target is treated as having 1 additional stack of Vulnerability (total stacks max out at 4). |
+| 3 | Quick, Gentle Steps | Talent Messenger's Song improved: Ultimate Gain Efficiency +5%. |
+| 4 | Dances with Clouds | Ultimate Arcane Staff: Gravity Field improved: Ultimate Energy cost -15%. |
+| 5 | Special Mail | Combo skill Arcane Staff: Matrix Displacement improved: Length of cooldown -2s; DMG multiplier is increased to 1.3 times the original. |
 
 ## Base skills
 
@@ -144,10 +187,10 @@ Base skills work while Gilberta is assigned to a room of the Dijiang. Each has t
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Messengerial Processing β | MFG Cabin | Promotion I | Mood drop of the operators in this room −14% |
-| Messengerial Processing γ | MFG Cabin | Promotion III | Mood drop of the operators in this room −18% |
-| Messengerial Arms Mastery β | MFG Cabin | Promotion II | Weapon EXP materials made 20% faster |
-| Messengerial Arms Mastery γ | MFG Cabin | Promotion IV | Weapon EXP materials made 30% faster |
+| Messengerial Processing β | MFG Cabin | Promotion I | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14% |
+| Messengerial Processing γ | MFG Cabin | Promotion III | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 18% |
+| Messengerial Arms Mastery β | MFG Cabin | Promotion II | Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20% |
+| Messengerial Arms Mastery γ | MFG Cabin | Promotion IV | Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +30% |
 
 ## Base stats
 

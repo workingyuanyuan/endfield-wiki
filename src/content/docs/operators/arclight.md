@@ -43,7 +43,8 @@ sources:
 | Voice, Korean | Kim A-rong |
 | Operator File | [Arclight's file](/story/arclight/) |
 
-Arclight is a Hannabit Circuit Songseeker recommended by Aldertone Orisha who serves Endfield Industries as a field operator and machinery and vehicle technical consultant.
+> "I am Ekut. Callsign Arclight. I am not a trained weaver of words, but I wish you well and may you flow like a rising river, Endfielders."  Arclight is a Songseeker who joined Endfield Industries at the recommendation of Aldertone Orisha. She now serves as a field operator and a technical consultant for machinery and vehicles.  No one roaming the wildlands could escape the grip of starvation and disasters, no matter how clever or capable they may think themselves to be. Misfortune struck Arclight hard. The wildlands consumed her entire family, leaving her the only survivor. However, fortune also smiled upon her when a group of Hannabit Circuit Songseekers found and saved her from the brink of death.  The Hannabit Circuit accepted her. There, she quickly learned how to survive in a harsh landscape and follow the example of the Paragons from hannas to help those in need. Today, she roams the wildlands to teach more souls the way of surviving in the unforgiving world of Talos-II.  Arclight may come across as cold and brusque at first, but her minimalist philosophy has proven exceptionally effective for surviving in the wildlands.\
+> "Repairing an iron steed is like treating a cystybeast. One must listen closely before administering the treatment."
 
 ## How to obtain
 
@@ -64,12 +65,36 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Seek and Hunt | Physical combo of up to 5 hits. Her Final Strike deals 16 Stagger while she is the controlled operator. |
-| Battle skill | Tempestuous Arc | She blinks beside the enemy for 2 light Physical slashes; if the target has Electrification, she consumes it for 1 extra Electric attack and recovers SP. Costs 100 SP. |
-| Combo skill | Peal of Thunder | Trigger: an enemy suffers Electrification or has its Electrification consumed. She blinks beside the enemy for a flurry of Physical slashes and recovers SP. Cooldown 3 s. |
-| Ultimate | Exploding Blitz | She dashes forward wreathed in electric arcs to deal Electric damage and apply Electric Infliction to enemies in her path. Shortly after, the lingering arcs detonate for another Electric hit, consuming Electric Infliction on enemies to force Electrification. Costs 90 Ultimate Energy. |
+| Basic attack | Seek and Hunt | — |
+| Battle skill | Tempestuous Arc | 100 SP |
+| Combo skill | Peal of Thunder | Cooldown 3 s |
+| Ultimate | Exploding Blitz | 90 Ultimate Energy |
+
+### Seek and Hunt
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 16 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.
+
+### Tempestuous Arc
+
+> Instantly blinks to the enemy's side to deal 2 slashes that deal some Physical DMG. If the enemy has active Electrification, consume the Electrification to unleash an additional attack that deals Electric DMG and recovers some SP.
+
+### Peal of Thunder
+
+> COMBO TRIGGER: When an enemy suffers Electrification or after an enemy's Electrification is consumed.\
+> Blinks to the enemy's side to unleash a flurry of slashes that deals Physical DMG and recovers some SP.
+
+### Exploding Blitz
+
+> Performs a short forward dash while wreathed in arcs of electricity to deal Electric DMG and apply Electric Infliction to all enemies in the path. The lingering arcs explode after a short while, dealing another hit of Electric DMG. If the enemy has active Electric Infliction, consume the Electric Infliction and forcibly apply Electrification.
 
 ## Skill values
 
@@ -101,20 +126,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Wildland Trekker | Promotion I; upgraded at Promotion II | After triggering Tempestuous Arc's extra effect 3 times, the team gains +0.05% Electric damage per point of Arclight's Intellect (+0.08% at Promotion II) for 15 s; this does not stack. |
-| Hannabit Wisdom | Promotion II; upgraded at Promotion III | She has a 30% chance to ignore an Arts Infliction applied to her (50% at Promotion III). |
+### Wildland Trekker
+
+**Promotion I**
+
+> Battle skill Tempestuous Arc improved: Triggering the additional effect 3 time(s) grants the team Electric DMG Dealt +0.05% for every point of Arclight's Intellect. This effect has a 15s duration and cannot stack.
+
+**Promotion II**
+
+> Battle skill Tempestuous Arc improved: Triggering the additional effect 3 time(s) grants the team Electric DMG Dealt +0.08% for every point of Arclight's Intellect. This effect has a 15s duration and cannot stack.
+
+### Hannabit Wisdom
+
+**Promotion II**
+
+> 30% chance to ignore an Arts Infliction applied on her.
+
+**Promotion III**
+
+> 50% chance to ignore an Arts Infliction applied on her.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Child of the Storm | Tempestuous Arc recovers an extra 10 SP after triggering its additional effect |
-| 2 | Speed Battler | Agility +15 and Intellect +15 |
-| 3 | "Hanna" | Wildland Trekker's damage boost increases to 1.3 times its original value |
-| 4 | Aldertone's Teachings | Exploding Blitz costs 15% less Ultimate Energy |
-| 5 | Servant of the Wildlands | Wildland Trekker's trigger requirement drops to 2 times |
+| 1 | Child of the Storm | Battle skill Tempestuous Arc improved: After triggering additional effects, the skill recovers another 10 SP. |
+| 2 | Speed Battler | Agility +15, Intellect +15. |
+| 3 | "Hanna" | Talent Wildland Trekker improved: DMG Boost effect increased to 1.3 times the original. |
+| 4 | Aldertone's Teachings | Ultimate Exploding Blitz improved: Ultimate Energy cost -15%. |
+| 5 | Servant of the Wildlands | Talent Wildland Trekker improved: Trigger requirement is reduced to 2 time(s). |
 
 ## Base skills
 
@@ -122,10 +162,10 @@ Base skills work while Arclight is assigned to a room of the Dijiang. Each has t
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Blade of the Wildlands α | MFG Cabin | Promotion I | Weapon EXP materials made 10% faster |
-| Blade of the Wildlands β | MFG Cabin | Promotion III | Weapon EXP materials made 20% faster |
-| Hanna Traditions α | Reception Room | Promotion II | Slightly higher chance of Clue 6 (Hannabit Circuit); does not stack with another skill of this kind |
-| Hanna Traditions β | Reception Room | Promotion IV | Higher chance of Clue 6 (Hannabit Circuit); does not stack with another skill of this kind |
+| Blade of the Wildlands α | MFG Cabin | Promotion I | Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +10% |
+| Blade of the Wildlands β | MFG Cabin | Promotion III | Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20% |
+| Hanna Traditions α | Reception Room | Promotion II | Assign to Reception Room to grant operators a small Clue 6 Rate-UP: Hannabit Circuit (activates upon assignment; effects of the same type cannot stack) |
+| Hanna Traditions β | Reception Room | Promotion IV | Assign to Reception Room to grant operators Clue 6 Rate-UP: Hannabit Circuit (activates upon assignment; effects of the same type cannot stack) |
 
 ## Base stats
 

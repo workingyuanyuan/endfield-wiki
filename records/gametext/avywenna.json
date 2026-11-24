@@ -1,0 +1,237 @@
+{
+ "slug": "avywenna",
+ "gameId": "chr_0012_avywen",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Messengers have to safely deliver plenty of secrets, and every one of them comes with a costly price tag. But there is one thing more expensive than the delivery itself, and that is ... my silence on these matters.\"  Avywenna is an Armed Messenger.  Before joining Endfield Industries, she lived with a powerful logistics family in the Free City of Alloycarrot. Yet the wanderlust in her blood drove her to leave that life and begin her own journey. Across the many destinations of Talos-II, she discovered a thread that bound them together — the mysterious Endministrator.  Avywenna shines in social settings, handling all kinds of relationships with maturity and professionalism. As to whether she's truly as good-tempered as she seems, you'll have to find out by engaging with her yourself.\n\"Nobody likes insolence ... so if we can talk things out, I'd much rather do that than get physical. But just so we're clear, I don't tolerate insolence well either.\"",
+  "zh-TW": "「信使要護送許多秘密，每一個秘密都有昂貴的價格，但比它們更昂貴的，是……我的守口如瓶。」  艾維文娜是一名武裝信使。  在加入終末地工業之前，艾維文娜曾在合金蘿蔔自由市裡一個龐大的物流家族中生活，但流淌在家族血脈中那對於旅行的嚮往，驅使她主動離開了原來的生活，踏上旅途。在塔衛二眾多不同的目的地之間，艾維文娜發現了它們共同的關聯——神秘的管理員。  艾維文娜擅長社交，她總能以成熟、專業的方式恰到好處地處理各類人際關係。至於她是不是像看起來那樣脾氣好，這恐怕就要在和她接觸後，才能作出判斷了。    「沒有人喜歡被人拒絕……所以，能好好說話就能解決的事，我當然不想動手啦。不過，我也不喜歡被人拒絕哦。」",
+  "zh-CN": "“信使要护送许多秘密，每一个秘密都有昂贵的价格，但比它们更昂贵的，是……我的守口如瓶。” 艾维文娜是一名武装信使。 在加入终末地工业之前，艾维文娜曾在合金萝卜自由市里一个庞大的物流家族中生活，但寄寓在家族血脉中对于旅行的向往，驱使她主动离开了原来的生活，踏上旅途。在塔卫二众多不同的目的地之间，艾维文娜发现了它们共同的联系——神秘的管理员。 艾维文娜擅长社交，她总能以成熟、职业的方式恰到好处地处理各类人际关系。至于她是不是像看起来那样脾气好，这恐怕就要在和她接触后，才能作出判断了。 “没有人喜欢被人拒绝……所以，能好好说话就能解决的事儿，我当然不想动手啦。不过，我也不喜欢被人拒绝哦。”",
+  "ja": "「トランスポーターってね、たくさんの秘密を扱うお仕事なの。秘密ってとっても価値が高いのよ。でも、それよりずーっと貴重なのは、私の口の堅さ……なんだけれどね。」  武装トランスポーターとして活躍している。  エンドフィールドに加入する以前は、独立都市メタルキャロットで物流を生業とする大きな一族の中で暮らしていた。しかし、一族の血筋柄、やがて旅への憧れを抱くようになり、それまでの暮らしを捨て去り、旅へと出発した。タロⅡのさまざまな土地を巡っていたアイビーエナは、それらの土地に共通するつながり――「謎の管理人」の存在に気づく。  社交性が高く、経験豊富なプロフェッショナルとして、さまざまな人間関係を巧みに構築している。見た目通り、穏やかな性格なのかどうかは、実際に接して確かめてほしい。    「誰であっても、嫌がっている人には何もしたくないわ。きちんとお話して解決できるなら、それが一番よね。」",
+  "ko": "\"전달자는 수많은 비밀을 전달해요. 모든 비밀 하나하나가 귀중한 가치를 갖고 있죠. 하지만 비밀들보다 더 가치 있는 건... 제가 절대 비밀을 발설하지 않는다는 사실이에요.\"  아비웨나는 무장한 전달자다.  엔드필드 공업에 합류하기 전, 그녀는 합금 무성 자유도시의 거대한 물류 가문에서 살아왔다. 그러나 혈통 속에 각인된 여행에 대한 동경은 결국 그녀를 기존의 삶에서 벗어나게 했고, 스스로 길 위에 나서도록 이끌었다. 탈로스 II 곳곳의 수많은 목적지 사이를 오가던 아비웨나는 그 모든 곳이 하나로 이어지는 공통점을 발견했다. 바로 신비로운 관리자였다.  아비웨나는 사교에 능해 언제나 성숙하고 전문적인 태도로 사람들과의 관계를 적절하게 다루어낸다. 하지만 그녀가 겉보기만큼 온화한 성격인지는 직접 부딪혀 본 사람만이 알 수 있다.    \"누구든... 거절당하면 기분이 나빠지는 법이죠. 그러니까, 말로 해결할 수 있는 일이라면 저도 굳이 폭력을 사용하고 싶진 않아요. 하지만 그렇다고 제가 거절당하는 걸 좋아하는 사람은 아니라서요?\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Thunderlance: Blitz",
+    "zh-TW": "雷槍·疾襲",
+    "zh-CN": "雷枪·疾袭",
+    "ja": "雷槍・迅撃",
+    "ko": "썬더랜스 · 신속 공격"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 17 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成物理傷害。作為主控幹員時，重擊會造成17點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成物理伤害。作为主控干员时，重击会造成17点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値17を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 17포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Thunderlance: Interdiction",
+    "zh-TW": "雷槍·截回",
+    "zh-CN": "雷枪·截回",
+    "ja": "雷槍・逆襲",
+    "ko": "썬더랜스 · 가로채기"
+   },
+   "text": {
+    "en": "Leaps into mid-air to stir up a maelstrom with her lance, dealing some Electric DMG to nearby enemies while pulling back all Thunderlances and Thunderlance EX in the battlefield towards herself.\nThe returning Thunderlances pierce through all enemies along their paths and deal Electric DMG, while returning Thunderlances EX deal more Electric DMG and also apply Electric Infliction.",
+    "zh-TW": "躍起後用槍颳起旋風，對周圍的敵人造成少量電磁傷害。同時召回全部雷槍、強雷槍。\n雷槍被召回時若穿過敵人則對其造成電磁傷害。強雷槍造成更高的電磁傷害，還會施加電磁附著。",
+    "zh-CN": "跃起后用枪刮起旋风，对周围的敌人造成少量电磁伤害。同时召回全部雷枪、强雷枪。\n雷枪被召回时若穿过敌人则对其造成电磁伤害。强雷枪造成更高的电磁伤害，还会施加电磁附着。",
+    "ja": "ジャンプしてから槍で旋風を起こし、周囲の敵にわずかな電磁ダメージを与える。同時に、すべての雷槍、強雷槍を回収する。\n回収するときに雷槍が敵を貫通すると、その敵に電磁ダメージを与える。強雷槍はより高い電磁ダメージを与え、電磁付着を付与する。",
+    "ko": "점프하여 창을 휘둘러 회오리바람을 일으킵니다. 주변의 적에게 소량의 전기 피해를 주며, 모든 썬더랜스와 강력한 썬더랜스를 회수합니다.\n썬더랜스가 회수되는 과정에서 적을 공격할 경우, 대상에게 전기 피해를 줍니다. 강력한 썬더랜스는 더욱 큰 전기 피해를 주고 전기 부착 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Thunderlance: Strike",
+    "zh-TW": "雷槍·掣擊",
+    "zh-CN": "雷枪·掣击",
+    "ja": "雷槍・閃撃",
+    "ko": "썬더랜스 · 번개 타격"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When controlled operator performs a Final Strike on a target with active Electric Infliction or Electrification.\nLeaps into mid-air and throws 3 Thunderlances at the target, then deals 1 hit of Electric DMG to enemies in the area of effect.",
+    "zh-TW": "主控幹員對處於電磁附著或導電狀態的目標重擊後可以發動。\n躍起並向目標投擲出3支雷槍，並對前方範圍內的敵人造成1次電磁傷害。",
+    "zh-CN": "主控干员对处于电磁附着或导电状态的目标进行重击后可以发动。\n跃起并向目标掷出3支雷枪，并对前方范围内的敌人造成一次电磁伤害。",
+    "ja": "操作中のオペレーターが電磁付着または感電状態の敵に重攻撃を与えると発動可能。\nジャンプしながら敵に3本の雷槍を投げ、範囲内の敵に1回電磁ダメージを与える。",
+    "ko": "메인 컨트롤 오퍼레이터가 전기 부착 혹은 감전 상태의 목표에 강력한 일격을 준 후 사용할 수 있습니다.\n점프하여 목표에 썬더랜스 3개를 던져, 전방 범위 내의 적에게 전기 피해를 줍니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Thunderlance: Final Shock",
+    "zh-TW": "雷槍·決顫",
+    "zh-CN": "雷枪·决颤",
+    "ja": "雷槍・決震",
+    "ko": "썬더랜스 · 결전의 떨림"
+   },
+   "text": {
+    "en": "Throws a Thunderlance EX at the target area that deals massive Electric DMG to enemies nearby.",
+    "zh-TW": "向目標區域投下一支強雷槍，對附近敵人造成大量電磁傷害。",
+    "zh-CN": "向目标区域投下一支强雷枪，对附近敌人造成大量电磁伤害。",
+    "ja": "目標エリアに強雷槍を投げ、周囲の敵に高い電磁ダメージを与える。",
+    "ko": "목표 구역에 강력한 썬더랜스 하나를 투척하여 주변의 적에게 대량의 전기 피해를 줍니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Expedited Delivery",
+    "zh-TW": "高效運送",
+    "zh-CN": "高效派送",
+    "ja": "配達の効率化",
+    "ko": "고효율 배송"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "After a thrown or returning Thunderlance or Thunderlance EX hits the enemy, Avywenna gains 3 Ultimate Energy.",
+      "zh-TW": "擲出、召回雷槍、強雷槍命中敵人後，獲得3點終結技能量。",
+      "zh-CN": "掷出、召回雷枪、强雷枪命中敌人后，获得3点终结技能量。",
+      "ja": "投げてから回収するまでの雷槍、強雷槍が敵に命中すると、必殺チャージを3回復する",
+      "ko": "투척한/회수한 썬더랜스, 강력한 썬더랜스가 적을 명중한 후, 궁극기 에너지 3포인트를 획득합니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "After a thrown or returning Thunderlance or Thunderlance EX hits the enemy, Avywenna gains 4 Ultimate Energy.",
+      "zh-TW": "擲出、召回雷槍、強雷槍命中敵人後，獲得4點終結技能量。",
+      "zh-CN": "掷出、召回雷枪、强雷枪命中敌人后，获得4点终结技能量。",
+      "ja": "投げてから回収するまでの雷槍、強雷槍が敵に命中すると、必殺チャージを4回復する",
+      "ko": "투척한/회수한 썬더랜스, 강력한 썬더랜스가 적을 명중한 후, 궁극기 에너지 4포인트를 획득합니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Tactful Approach",
+    "zh-TW": "委婉手段",
+    "zh-CN": "委婉手段",
+    "ja": "婉曲手段",
+    "ko": "완곡한 수단"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Ultimate Thunderlance: Final Shock improved: Also applies 6% Electric Susceptibility for 10s to enemies it hits.",
+      "zh-TW": "終結技雷槍·決顫命中敵人時對其施加6%電磁脆弱，持續10秒。",
+      "zh-CN": "终结技雷枪·决颤命中敌人时对其施加6%电磁脆弱，持续10秒。",
+      "ja": "必殺技「雷槍・決震」が敵に命中するとき、10秒間持続する6%の電磁脆弱を付与する",
+      "ko": "궁극기 썬더랜스 · 결전의 떨림이 적에게 명중했을 때, 대상에게 6%만큼 전기 취약을 부여하고, 10초 동안 지속됩니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Ultimate Thunderlance: Final Shock improved: Also applies 10% Electric Susceptibility for 10s to enemies it hits.",
+      "zh-TW": "終結技雷槍·決顫命中敵人時對其施加10%電磁脆弱，持續10秒。",
+      "zh-CN": "终结技雷枪·决颤命中敌人时对其施加10%电磁脆弱，持续10秒。",
+      "ja": "必殺技「雷槍・決震」が敵に命中するとき、10秒間持続する10%の電磁脆弱を付与する",
+      "ko": "궁극기 썬더랜스 · 결전의 떨림이 적에게 명중했을 때, 대상에게 10%만큼 전기 취약을 부여하고, 10초 동안 지속됩니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Doubling Down",
+    "zh-TW": "籌碼加倍",
+    "zh-CN": "筹码加倍",
+    "ja": "ダブル・ダウン",
+    "ko": "더블 베팅"
+   },
+   "text": {
+    "en": "Talent Expedited Delivery improved: Ultimate Energy gain +2.",
+    "zh-TW": "天賦高效運送效果加強：獲得的終結技能量+2點。",
+    "zh-CN": "天赋高效派送效果加强：获得的终结技能量+2点。",
+    "ja": "素質「配達の効率化」強化：必殺チャージの回復量+2",
+    "ko": "재능 '고효율 배송' 효과 강화: 획득하는 궁극기 에너지 +2포인트"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Pole of Menace",
+    "zh-TW": "大棒懸頭",
+    "zh-CN": "大棒悬头",
+    "ja": "圧強め",
+    "ko": "눈앞에 닥친 위험"
+   },
+   "text": {
+    "en": "Thunderlance and Thunderlance EX duration +20s.",
+    "zh-TW": "雷槍、強雷槍的存在時間+20秒。",
+    "zh-CN": "雷枪、强雷枪的存在时间+20秒。",
+    "ja": "雷槍、強雷槍の存在する時間+20秒",
+    "ko": "썬더랜스, 강력한 썬더랜스의 존재 시간 +20초"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Hard Negotiator",
+    "zh-TW": "絕不讓步",
+    "zh-CN": "绝不让步",
+    "ja": "一歩も譲らない",
+    "ko": "끝없는 저항"
+   },
+   "text": {
+    "en": "Will +15, Electric DMG Dealt +8%.",
+    "zh-TW": "意志+15，造成的電磁傷害+8%。",
+    "zh-CN": "意志+15，造成的电磁伤害+8%。",
+    "ja": "意志+15、敵への電磁ダメージ+8%",
+    "ko": "의지 +15, 주는 전기 피해 +8%"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Very Experienced",
+    "zh-TW": "經驗老到",
+    "zh-CN": "经验老到",
+    "ja": "経験豊富",
+    "ko": "숙련자의 여유"
+   },
+   "text": {
+    "en": "Ultimate Thunderlance: Final Shock improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技雷槍·決顫所需的終結技能量-15%。",
+    "zh-CN": "终结技雷枪·决颤所需的终结技能量-15%。",
+    "ja": "必殺技「雷槍・決震」に必要な必殺チャージ-15%",
+    "ko": "궁극기 썬더랜스 · 결전의 떨림의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Carrot and Sharp Stick",
+    "zh-TW": "恩威並施",
+    "zh-CN": "恩威并施",
+    "ja": "人参とムチ",
+    "ko": "회유와 위압"
+   },
+   "text": {
+    "en": "When returning Thunderlances or Thunderlances EX hit an Electric Susceptible enemy, the DMG multipliers are increased to 1.15 times the original.",
+    "zh-TW": "召回的雷槍、強雷槍命中處於電磁脆弱狀態的敵人時，傷害倍率提升至原本的1.15倍。",
+    "zh-CN": "召回的雷枪、强雷枪命中处于电磁脆弱状态的敌人时，伤害倍率提升至原本的1.15倍。",
+    "ja": "回収した雷槍と強雷槍が電磁脆弱状態の敵に命中するとき、ダメージ倍率が1.15倍までアップする",
+    "ko": "회수한 썬더랜스 및 강력한 썬더랜스가 전기 취약 상태의 적을 명중했을 때, 피해 배율이 기존의 1.15배로 증가합니다."
+   }
+  }
+ ]
+}

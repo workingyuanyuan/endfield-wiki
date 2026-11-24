@@ -1,0 +1,237 @@
+{
+ "slug": "ember",
+ "gameId": "chr_0009_azrila",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Let's move. War never ends. We can only march on.\"  Ember serves in the Order of Steel Oath, a military force stationed year-round in the rugged northern regions. To recruit successors for fallen comrades, she returned to the Civilization Band and accepted an invitation to work with Endfield Industries.  An elite of the Assault Banner in the Order of Steel Oath, Ember fights with flawless skills. She leads every charge, tearing through enemy lines alongside her comrades like an unbreakable spear. To her enemies, she is the bulwark that holds firm. To her allies, she is the wall that never falls. The Order may rest on fortresses and battlecarriers — but warriors like Ember are its true backbone.\n\"Beneath the aurora lie the defense lines of the Oathkeepers.\"",
+  "zh-TW": "「出發吧，戰爭沒有終點，也沒有退路。」  餘燼隸屬於鐵誓軍——一個常年駐守北方險要之地的軍事組織。為了徵募陣亡戰友的繼任者，餘燼回到了文明環帶，受邀與終末地工業合作。  作為鐵誓軍陷陣旗隊的精銳，餘燼的戰鬥技巧無可挑剔。她總是奮戰在最前方，與戰友組成堅不可摧的鋒線，迎面攪碎敵方的攻勢。在敵人面前，她是永不退卻的堡壘；在同伴眼中，她是永不垮塌的高牆。要塞和飛行母艦構成了鐵誓軍的筋骨，而像餘燼這樣的戰士，則是鐵誓軍堅挺的脊梁。    「那片極光下方，就是鐵誓軍的防線。」",
+  "zh-CN": "“出发吧，战争没有终点，也没有退路。” 余烬隶属于铁誓军——一个常年驻守北方险要之地的军事组织。为了征募阵亡战友的继任者，余烬回到了文明环带，受邀与终末地工业合作。 作为铁誓军陷阵旗队的精锐，余烬的战斗技巧无可挑剔。她总是奋战在最前方，与战友组成坚不可摧的锋线，迎面搅碎敌方的攻势。在敌人面前，她是永不退却的堡垒；在同伴眼中，她是永不垮塌的高墙。要塞和航天母舰构成了铁誓军的筋骨，而像余烬这样的战士，则是铁誓军坚挺的脊梁。\n“那片极光下方，就是铁誓军的防线。”",
+  "ja": "「出発だ。戦いには終わりも退路もない。」  北方の要衝を守る軍事組織「鉄誓軍」に所属している。戦死した戦友の後継者を採用するため、文明地帯へと帰還し、招きを受けてエンドフィールド工業に協力している。  鉄誓軍突陣旗隊の精鋭である彼女の戦闘技術は非の打ち所がない。常に最前線で奮戦し、戦友と鉄壁の戦陣を築き、敵の攻撃を正面から打ち破る。まさに難攻不落の砦のようであり、仲間の目には決して崩れぬ防壁のごとく映る。要塞や宇宙母艦が鉄誓軍の手足だとすれば、エンバーのような戦士は鉄誓軍の体幹と言えるだろう。    「あのオーロラの下が鉄誓軍の防衛線だ。」",
+  "ko": "\"출발하시죠. 전쟁은 끝도, 퇴로도 없습니다.\"  엠버는 북쪽의 험난한 지역을 장기간 수호해 온 군사 조직 철의 서약군 소속이다. 전사한 전우들의 후임자를 모집하기 위해, 엠버는 문명 밴드로 돌아와 엔드필드 공업과 협력하게 되었다.  철의 서약군 특수 부대의 정예인 엠버의 전투 기술은 흠잡을 데 없다. 그녀는 언제나 최전선에서 싸우며, 전우들과 함께 무너뜨릴 수 없는 방벽을 형성해 적의 공세를 정면에서 맞선다. 적 앞에서는 절대 물러서지 않는 요새이고, 동료들의 눈에는 무너지지 않는 성벽이다. 거대한 요새와 우주 모선이 철의 서약군의 골격을 이룬다면 엠버 같은 전사들은 그들의 굳건한 척추라 할 수 있다.    \"저기 저 오로라 아래쪽이 철의 서약군의 방어선입니다. \""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Sword Art of Assault",
+    "zh-TW": "陷陣劍術",
+    "zh-CN": "陷阵剑术",
+    "ja": "突陣の剣技",
+    "ko": "돌진 검술"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 25 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成物理傷害。作為主控幹員時，重擊會造成25點失衡。\n\n下墜攻擊：\n處於空中時使用普攻，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成物理伤害。作为主控干员时，重击会造成25点失衡。\n\n下落攻击：\n处于空中时使用普攻，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値25を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 25포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Forward March",
+    "zh-TW": "進軍",
+    "zh-CN": "进军",
+    "ja": "出征",
+    "ko": "진군"
+   },
+   "text": {
+    "en": "A leap followed by a heavy slam that deals Heat DMG, Knock Down, and Stagger to all enemies in a fan-shaped area.\nIf Ember takes DMG from enemies during casting, the slam deals more Stagger when it hits.",
+    "zh-TW": "向前方躍起隨後重砸，對扇形範圍內的所有敵人造成灼熱傷害並倒地。\n施放過程中若受到過來自敵人的傷害，命中時額外造成一定失衡。",
+    "zh-CN": "向前方跃起随后重砸，对扇形范围内的所有敌人造成灼热伤害并倒地。\n施放过程中若受到过来自敌人的伤害，命中时额外造成一定失衡。",
+    "ja": "跳び上がって前方の地面に重い打撃を放ち、扇形範囲内の敵に灼熱ダメージと転倒効果を与える。\n発動中に敵からダメージを受けた場合、命中するときに追加で一定量のブレイク値を与える。",
+    "ko": "전방으로 뛰어올라 힘차게 내리찍어 부채꼴 범위 내의 모든 적에게 열기 피해와 넘어뜨리기 피해를 줍니다.\n이 과정에서 적에게 공격받았을 경우, 명중했을 때 추가로 불균형치 피해를 줍니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Frontline Support",
+    "zh-TW": "前線援護",
+    "zh-CN": "前线援护",
+    "ja": "前線支援",
+    "ko": "전선에서의 지원"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When the controlled operator is attacked.\nLeaps at the target enemy and unleashes a heavy slam that deals Physical DMG and Knock Down while giving HP treatment to the controlled operator. The attribute of Will increases the amount of HP treatment.",
+    "zh-TW": "主控幹員受到攻擊後可以發動。\n向目標敵人跳起並重砸，造成物理傷害和倒地，同時治療主控幹員。意志可以額外提高治療量。",
+    "zh-CN": "主控干员受到攻击后可以发动。\n向目标敌人跳起并重砸，造成物理伤害和倒地，同时治疗主控干员。意志可以额外提高治疗量。",
+    "ja": "操作中のオペレーターが攻撃を受けると発動可能。\n敵に向かって跳び上がり、重い打撃を放つ。物理ダメージと転倒効果を与える。操作中のオペレーターのHPを回復し、回復量は意志の値に応じて追加でアップする。",
+    "ko": "메인 컨트롤 오퍼레이터가 공격을 받았을 때 사용할 수 있습니다.\n목표한 적을 향해 뛰어올라 힘차게 내리찍습니다. 물리 피해를 주고 넘어뜨리기 피해를 주며, 메인 컨트롤 오퍼레이터를 치유합니다. 의지는 치유량을 추가로 증가시킵니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Re-Ignited Oath",
+    "zh-TW": "重燃誓約",
+    "zh-CN": "重燃誓约",
+    "ja": "誓約の炎",
+    "ko": "다시 불타오르는 맹세"
+   },
+   "text": {
+    "en": "Slams the ground to deal Heat DMG to nearby enemies, while granting every teammate a Shield based on Ember's Max HP.",
+    "zh-TW": "猛擊地面，對附近敵人造成灼熱傷害，同時使全隊獲得基於餘燼最大生命值的護盾。",
+    "zh-CN": "猛击地面，对附近敌人造成灼热伤害，同时使全队获得基于余烬最大生命值的护盾。",
+    "ja": "地面を強く叩き付け、周囲の敵に灼熱ダメージを与える。同時に、チーム全員はエンバーの最大HPに基づくシールドを獲得する。",
+    "ko": "지면을 강타하여 주변의 적에게 열기 피해를 주고, 동시에 팀 전체에게 엠버의 최대 생명력에 따른 보호를 부여합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Inflamed for the Assault",
+    "zh-TW": "陷陣之志",
+    "zh-CN": "陷阵之志",
+    "ja": "突陣の意志",
+    "ko": "전진의 결의"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "When casting the battle skill Forward March and the combo skill Frontline Support, Ember gains 30% Protection and is less likely to be interrupted.",
+      "zh-TW": "戰技進軍和連攜技前線援護的施放過程中獲得30%庇護，且更不容易被打斷。",
+      "zh-CN": "战技进军和连携技前线援护的施放过程中获得30%庇护，且更不容易被打断。",
+      "ja": "戦技「出征」、連携技「前線支援」を発動中、30%の加護を獲得し、スキルが中断されにくくなる",
+      "ko": "배틀 스킬 진군과 연계 스킬 전선에서의 지원을 발동하는 과정에서 30%비호를 획득하고 스킬이 쉽게 끊기지 않습니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When casting the battle skill Forward March and the combo skill Frontline Support, Ember gains 50% Protection and is less likely to be interrupted.",
+      "zh-TW": "戰技進軍和連攜技前線援護的施放過程中獲得50%庇護，且更不容易被打斷。",
+      "zh-CN": "战技进军和连携技前线援护的施放过程中获得50%庇护，且更不容易被打断。",
+      "ja": "戦技「出征」、連携技「前線支援」を発動中、50%の加護を獲得し、スキルが中断されにくくなる",
+      "ko": "배틀 스킬 진군과 연계 스킬 전선에서의 지원을 발동하는 과정에서 50%비호를 획득하고 스킬이 쉽게 끊기지 않습니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Pay the Ferric Price",
+    "zh-TW": "以鐵還鐵",
+    "zh-CN": "以铁还铁",
+    "ja": "鉄で鉄を貫く",
+    "ko": "강철에는 강철로"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When Ember receives DMG from the enemy, she gains ATK +6% for 7s. This effect can reach 3 stacks.",
+      "zh-TW": "受到來自敵人的傷害後，攻擊力+6%，持續7秒，該效果最多疊加3層。",
+      "zh-CN": "受到来自敌人的伤害后，攻击力+6%，持续7秒，该效果最多叠加3层。",
+      "ja": "敵からのダメージを受けると、7秒間攻撃力+6%（3回まで重ね掛け可能）",
+      "ko": "적의 피해를 받은 후, 공격력 +6%, 7초 동안 지속. 해당 효과는 최대 3스택까지 중첩됩니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "When Ember receives DMG from the enemy, she gains ATK +9% for 7s. This effect can reach 3 stacks.",
+      "zh-TW": "受到來自敵人的傷害後，攻擊力+9%，持續7秒，該效果最多疊加3層。",
+      "zh-CN": "受到来自敌人的伤害后，攻击力+9%，持续7秒，该效果最多叠加3层。",
+      "ja": "敵からのダメージを受けると、7秒間攻撃力+9%（3回まで重ね掛け可能）",
+      "ko": "적의 피해를 받은 후, 공격력 +9%, 7초 동안 지속. 해당 효과는 최대 3스택까지 중첩됩니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Nomadic Fort",
+    "zh-TW": "移動要塞",
+    "zh-CN": "移动要塞",
+    "ja": "移動要塞",
+    "ko": "이동 요새"
+   },
+   "text": {
+    "en": "Talent Inflamed for the Assault improved: Protection effect +20%; hitting an enemy extends the duration by 1.5s.",
+    "zh-TW": "天賦陷陣之志效果加強：庇護效果額外+20%，且在命中敵人後額外持續1.5秒。",
+    "zh-CN": "天赋陷阵之志效果加强：庇护效果额外+20%，且在命中敌人后额外持续1.5秒。",
+    "ja": "素質「突陣の意志」強化：加護効果がさらに+20%\n敵に命中すると、持続時間+1.5秒",
+    "ko": "재능 '전진의 결의' 효과 강화: 비호 효과 +20%, 적을 명중할 때 추가 지속 시간 1.5초"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Steel-Hardened Veteran",
+    "zh-TW": "百戰成鋼",
+    "zh-CN": "百战成钢",
+    "ja": "百戦錬磨",
+    "ko": "무쇠의 전사"
+   },
+   "text": {
+    "en": "Strength +20, Will +20.",
+    "zh-TW": "力量+20，意志+20。",
+    "zh-CN": "力量+20，意志+20。",
+    "ja": "筋力+20、意志+20",
+    "ko": "힘 +20, 의지 +20"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Indomitable Front",
+    "zh-TW": "不屈陣線",
+    "zh-CN": "不屈阵线",
+    "ja": "不屈の戦線",
+    "ko": "불굴의 전선"
+   },
+   "text": {
+    "en": "Combo skill Frontline Support improved: Restores the HP of another teammate with the lowest percentage HP at 50% of the base effect.",
+    "zh-TW": "連攜技前線援護會額外治療小隊內另一個生命值百分比最低的幹員，效果為基礎的50%。",
+    "zh-CN": "连携技前线援护会额外治疗小队内另一个生命值百分比最低的干员，效果为基础的50%。",
+    "ja": "連携技「前線支援」は、追加効果としてチーム内で他のHPの割合が最も低いオペレーターを治療する\n回復量は基礎効果の50%に相当する",
+    "ko": "연계 스킬 전선에서의 지원이 팀 내 생명력 백분율이 가장 낮은 오퍼레이터 1명을 추가로 치유합니다. 해당 효과는 기초 수치의 50%만큼만 제공됩니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Undying Embers",
+    "zh-TW": "薪火不息",
+    "zh-CN": "薪火不息",
+    "ja": "炎は絶えず",
+    "ko": "불멸의 불꽃"
+   },
+   "text": {
+    "en": "Ultimate Re-Ignited Oath improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技重燃誓約所需的終結技能量-15%。",
+    "zh-CN": "终结技重燃誓约所需的终结技能量-15%。",
+    "ja": "必殺技「誓約の炎」に必要な必殺チャージ-15%",
+    "ko": "궁극기 다시 불타오르는 맹세의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "The Steel Oath",
+    "zh-TW": "鐵誓",
+    "zh-CN": "铁誓",
+    "ja": "鉄の誓い",
+    "ko": "철의 서약"
+   },
+   "text": {
+    "en": "Ultimate Re-Ignited Oath improved: Shield effect is multiplied by 1.2; while this shield is active, the wielder gains ATK +10%.",
+    "zh-TW": "終結技重燃誓約提供的護盾效果變為1.2倍，且該護盾存在期間持有者攻擊力+10%。",
+    "zh-CN": "终结技重燃誓约提供的护盾效果变为1.2倍，且该护盾存在期间持有者攻击力+10%。",
+    "ja": "必殺技「誓約の炎」によるシールド効果が1.2倍になる\nこのシールドを獲得したオペレーターは効果が持続する間、攻撃力+10%",
+    "ko": "궁극기 다시 불타오르는 맹세가 부여하는 보호 효과가 1.2배로 변하고, 해당 보호가 유지되는 동안, 보호를 받은 대상의 공격력 +10%."
+   }
+  }
+ ]
+}

@@ -58,7 +58,7 @@ sources:
 | Voice, Korean | Kim Chae-rin |
 | Operator File | [Tangtang's file](/story/tangtang/) |
 
-Tangtang is the straightforward, freedom-loving and fiercely loyal Supreme Chief of Qingbo Stockade who joined Endfield Industries to find answers and build a better future for her home.
+> "Your Supreme Chief is here! You, you, and you, are all under my command!"  Tangtang, the Supreme Chief of Qingbo Stockade. She is straightforward, values loyalty, and acts with a free-spirited and unconstrained nature. She loves freedom and playing in the water, but hates betrayal. Once she recognizes you as her friend, she will go to any lengths to support you.  As an infant, Tangtang was placed in a bamboo basket by someone unknown and drifted down the river to Qingbo Stockade, where she was adopted by the Stockaders and became one of their own. In the eyes of many, she is still a child in need of pampering, but in her heart, she has long since resolved to shoulder the future of Qingbo Stockade.  Despite having experienced many setbacks, she remains full of passion for the world. In order to find answers to her questions and to better develop Qingbo Stockade, Tangtang has joined Endfield Industries.  "Keep her away from Mi Fu, or things might get broken" — so says an operator from the Chief Logistics Office.  "You called me over just to praise me? Well, lay it on thicker then. I love hearing the truth!"
 
 ## How to obtain
 
@@ -90,12 +90,42 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | I'LL BLOW YOUR MIND! | Cryo combo of up to 5 hits. The final strike deals 18 Stagger while Tangtang is the controlled operator. |
-| Battle skill | IMA WAVERIDAAH! | Tangtang leaps from the water for a close Cryo shot and spawns a Waterspout; all nearby Whirlpools are consumed into extra Waterspouts, and the number formed sets the SP returned. Each Waterspout applies 1 stack of Cryo Infliction and deals Cryo Battle Skill damage over time; multiple Waterspouts also apply Arts Susceptibility without stacking Cryo Infliction. Costs 100 SP. |
-| Combo skill | RIVER, TO ME! | Trigger: an enemy receives Cryo Infliction or takes Arts Burst damage. Tangtang fires a piercing jet stream for Cryo damage and spawns a Whirlpool, with at most 2 Whirlpools active on the battlefield. Cooldown 14 s, 12 s at the highest skill level. |
-| Ultimate | DA CHIEF SEES YOU! | Tangtang unleashes an OLDEN STARE that briefly applies Immobilization and deals Cryo damage over time in an area, finishing with a rogue wave for heavy Cryo damage. A dive attack by the controlled operator inside OLDEN STARE ends it early and triggers a stronger rogue wave. Costs 90 Ultimate Energy. |
+| Basic attack | I'LL BLOW YOUR MIND! | — |
+| Battle skill | IMA WAVERIDAAH! | 100 SP |
+| Combo skill | RIVER, TO ME! | Cooldown 14 s, 12 s at level 12 |
+| Ultimate | DA CHIEF SEES YOU! | 90 Ultimate Energy |
+
+### I'LL BLOW YOUR MIND!
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Cryo DMG. As the controlled operator, Final Strike also deals 18 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Cryo DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Cryo DMG and recovers some SP.
+
+### IMA WAVERIDAAH!
+
+> Tangtang jumps out from the water and fires a point-blank shot that deals Cryo DMG to the enemy and creates a Waterspout.\
+> Casting the battle skill also consumes all nearby Whirlpools to create additional Waterspouts and return some SP based on the number of Waterspouts created.\
+> Waterspout: Applies 1 stack of Cryo Infliction on enemies within range and deals Cryo DMG over time. If the battle skill creates multiple Waterspouts, they also apply Arts Susceptibility to enemies (but not another stack of Cryo Infliction).\
+> DMG dealt by the Waterspout is treated as Battle Skill DMG.
+
+### RIVER, TO ME!
+
+> COMBO TRIGGER: When applying Cryo Infliction or dealing Arts Burst DMG to an enemy.\
+> Tangtang unleashes a powerful jet stream that penetrates all enemies in its path, deals Cryo DMG to them, and creates a Whirlpool.\
+> Up to 2 Whirlpools can exist in the battlefield at any time.
+
+### DA CHIEF SEES YOU!
+
+> Tangtang opens her eyepatch and unleashes an OLDEN STARE from her eye that applies temporary Immobilization and deals Cryo DMG over time to enemies within its area of effect (AOE).\
+> When the OLDEN STARE stops evolving, a rogue wave comes crashing down to deal massive Cryo DMG to enemies in its AOE.\
+> If the controlled operator performs a dive attack in the OLDEN STARE pattern, its evolution ends and the rogue wave is summoned immediately to deal even more Cryo DMG.
 
 ## Skill values
 
@@ -131,20 +161,37 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Fam of Honor | Promotion I; upgraded at Promotion II | Within 5 m of a Whirlpool, allied operators gain 10% Haste (20% at Promotion II) and enemies take 20% Slow (40% at Promotion II), lingering for 3 s after leaving. |
-| Riot Bringer | Promotion II; upgraded at Promotion III | Ending OLDEN STARE early with the controlled operator's dive attack spawns a Waterspout and converts all nearby Whirlpools into extra Waterspouts with IMA WAVERIDAAH!'s effects and +40% damage (+60% at Promotion III). |
+### Fam of Honor
+
+**Promotion I**
+
+> When within a 5-meter radius of a Whirlpool, allied operators gain 10% Haste while enemies suffer 20% Slow. These effects persist for 3s after leaving the area of effect.
+
+**Promotion II**
+
+> When within a 5-meter radius of a Whirlpool, allied operators gain 20% Haste while enemies suffer 40% Slow. These effects persist for 3s after leaving the area of effect.
+
+### Riot Bringer
+
+**Promotion II**
+
+> During OLDEN STARE, performing a dive attack with the controlled operator ends its evolution early and creates a Waterspout. All nearby Whirlpools are also consumed and converted into additional Waterspouts.\
+> Waterspouts created this way have the same effects as those created by the battle skill IMA WAVERIDAAH! and gain DMG Dealt +40%.
+
+**Promotion III**
+
+> During OLDEN STARE, performing a dive attack with the controlled operator ends its evolution early and creates a Waterspout. All nearby Whirlpools are also consumed and converted into additional Waterspouts.\
+> Waterspouts created this way have the same effects as those created by the battle skill IMA WAVERIDAAH! and gain DMG Dealt +60%.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Reserve Hoard | RIVER, TO ME! deals 1.2 times its damage with a 2 s shorter cooldown, and IMA WAVERIDAAH! returns 5 extra SP per Whirlpool converted into a Waterspout |
-| 2 | River's Daughter | Agility +20, Cryo damage +10% |
-| 3 | Chiefly Vibe | IMA WAVERIDAAH! deals 1.1 times its damage, and creating multiple Waterspouts increases its Arts Susceptibility by +5% |
-| 4 | Qingbo Meditation | DA CHIEF SEES YOU! costs 15% less Ultimate Energy |
-| 5 | Chief's All-Eldritch Gaze | DA CHIEF SEES YOU! deals 1.15 times its damage, and Riot Bringer's damage bonus for Waterspouts created by the ultimate increases by +80% |
+| 1 | Reserve Hoard | Combo skill RIVER, TO ME! improved: DMG Multiplier is increased to 1.2 times of the original. Length of cooldown -2s. Battle skill IMA WAVERIDAAH! improved: For every Whirlpool consumed and converted into a Waterspout, return 5 additional SP. |
+| 2 | River's Daughter | Agility +20, Cryo DMG Dealt +10% |
+| 3 | Chiefly Vibe | Battle skill IMA WAVERIDAAH! improved: DMG Multiplier is increased to 1.1 times the original. When forming multiple Waterspouts, the resulting Arts Susceptibility effect is increased by +5%. |
+| 4 | Qingbo Meditation | Ultimate DA CHIEF SEES YOU! improved: Ultimate Energy cost -15%. |
+| 5 | Chief's All-Eldritch Gaze | Ultimate DA CHIEF SEES YOU! improved: DMG Multiplier is increased to 1.15 times the original. Talent Riot Bringer improved: DMG effects of any Waterspout created by the ultimate DA CHIEF SEES YOU! are increased by +80%. |
 
 ## Base skills
 
@@ -152,10 +199,10 @@ Base skills work while Tangtang is assigned to a room of the Dijiang. Each has t
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Supreme Chief β | Growth Chamber | Promotion I | Mood drop of the operators in this room −14% |
-| Supreme Chief γ | Growth Chamber | Promotion III | Mood drop of the operators in this room −18% |
-| River's Daughter β | Growth Chamber | Promotion II | Vitrified plants grow 20% faster |
-| River's Daughter γ | Growth Chamber | Promotion IV | Vitrified plants grow 30% faster |
+| Supreme Chief β | Growth Chamber | Promotion I | Assign to Growth Chamber to slow Mood Drop of all operators in it by 14% |
+| Supreme Chief γ | Growth Chamber | Promotion III | Assign to Growth Chamber to slow Mood Drop of all operators in it by 18% |
+| River's Daughter β | Growth Chamber | Promotion II | Assign to Growth Chamber to grant vitrified plant growth rate +20% |
+| River's Daughter γ | Growth Chamber | Promotion IV | Assign to Growth Chamber to grant vitrified plant growth rate +30% |
 
 ## Base stats
 

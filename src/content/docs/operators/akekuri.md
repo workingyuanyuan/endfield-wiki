@@ -43,7 +43,8 @@ sources:
 | Voice, Korean | Kim I-an |
 | Operator File | [Akekuri's file](/story/akekuri/) |
 
-Akekuri is a former Business School honors student who volunteered for Endfield Industries, built Operations Team Z7 of the Specialist Tech Division almost single-handedly, and captains it.
+> "Akekuri, Op Z7, reporting in! Excited to join the mission, let's make it a success!"  Akekuri, Captain of Operations Team Z7 under the Specialist Tech Division, is known for her smile and that trademark line: "Leave it to me." From mission planning to day-to-day management, she handles it all. Beyond tactical command and strategy, she's a master of coordination who always uncovers the optimal solution, even with limited resources. She also knows how to care for her team, making sure everyone works in harmony and shines in the role that suits them best.  She practically built Operations Team Z7 from the ground up. In just a few short months, she handled everything from recruitment and training to full deployment, leading the team to remarkable results. And to think, not long ago, she was just an honors student from the Business School who volunteered to join Endfield. No one expected a newcomer to rise so quickly and become a captain truly worthy of trust.  If you've ever wondered about her passion, her drive, and her idealism, or about the simple wish that keeps her going, then...\
+> "Coffee break, Endmin? I can whip up a fresh pot for you!"
 
 ## How to obtain
 
@@ -64,12 +65,36 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Sword of Aspiration | Physical combo of up to 4 hits. Her Final Strike deals 17 Stagger while she is the controlled operator. |
-| Battle skill | Burst of Passion | She slashes forward to deal Heat damage and apply Heat Infliction. Costs 100 SP. |
-| Combo skill | Flash and Dash | Trigger: an enemy becomes Staggered or reaches a Stagger Node. She dashes out and back for 2 thrust hits, each dealing Physical damage and recovering SP. Cooldown 10 s, 9 s at the highest skill level. |
-| Ultimate | SQUAD! ON ME! | She channels to launch 3 Rallying Flares, recovering SP with each shot. Costs 120 Ultimate Energy. |
+| Basic attack | Sword of Aspiration | — |
+| Battle skill | Burst of Passion | 100 SP |
+| Combo skill | Flash and Dash | Cooldown 10 s, 9 s at level 12 |
+| Ultimate | SQUAD! ON ME! | 120 Ultimate Energy |
+
+### Sword of Aspiration
+
+> BASIC ATTACK:\
+> An attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 17 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.
+
+### Burst of Passion
+
+> A frontal slash that deals Heat DMG and applies Heat Infliction.
+
+### Flash and Dash
+
+> COMBO TRIGGER: When an enemy becomes Staggered or hits a Stagger Node.\
+> Performs a returning dash with 2 thrust sequences, with each sequence dealing Physical DMG and recovering some SP.
+
+### SQUAD! ON ME!
+
+> Enters a channeling state and fires 3 Rallying Flares. Each firing recovers some SP.
 
 ## Skill values
 
@@ -93,20 +118,31 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Cheer of Victory | Promotion I; upgraded at Promotion II | Flash and Dash gains +1.0% SP Recovery per 10 Intellect, up to 50% (+1.5% and up to 75% at Promotion II). |
-| Staying in the Zone | Promotion III | While SQUAD! ON ME! is active, she gains a Link buff. |
+### Cheer of Victory
+
+**Promotion I**
+
+> Combo skill Flash and Dash improved: For every 10 points of Intellect, SP Recovery +1.0% (max: 50%).
+
+**Promotion II**
+
+> Combo skill Flash and Dash improved: For every 10 points of Intellect, SP Recovery +1.5% (max: 75%).
+
+### Staying in the Zone
+
+**Promotion III**
+
+> Ultimate SQUAD! ON ME! improved: When ultimate is active, grants a Link buff.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Positive Feedback | Recovering SP with skills grants Akekuri +10% ATK for 10 s, stacking up to 5 times |
-| 2 | Passionate Idealist | Agility +10 and Intellect +10 |
-| 3 | Committed Team Player | While SQUAD! ON ME! is active, the whole team gains +10% ATK |
-| 4 | Super Perfect Status | SQUAD! ON ME! costs 10% less Ultimate Energy |
-| 5 | Tempo of Awareness | The Link buff from Staying in the Zone lasts for 5 s after SQUAD! ON ME! ends |
+| 1 | Positive Feedback | After recovering SP with skills, Akekuri gains ATK +10% for 10s. This effect can reach 5 stacks. |
+| 2 | Passionate Idealist | Agility +10, Intellect +10. |
+| 3 | Committed Team Player | Ultimate SQUAD! ON ME! improved: While ultimate is active, entire team gains ATK +10%. |
+| 4 | Super Perfect Status | Ultimate SQUAD! ON ME! improved: Ultimate Energy cost -10%. |
+| 5 | Tempo of Awareness | Talent Staying in the Zone improved: Even when the ultimate SQUAD! ON ME! ends, the Link buff persists for 5s. |
 
 ## Base skills
 
@@ -114,10 +150,10 @@ Base skills work while Akekuri is assigned to a room of the Dijiang. Each has tw
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Coffee or Tea α | MFG Cabin | Promotion I | Mood drop of the operators in this room −10% |
-| Coffee or Tea β | MFG Cabin | Promotion III | Mood drop of the operators in this room −14% |
-| Icebreaker β | Reception Room | Promotion II | Mood drop of the operators in this room −14% |
-| Icebreaker γ | Reception Room | Promotion IV | Mood drop of the operators in this room −18% |
+| Coffee or Tea α | MFG Cabin | Promotion I | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 10% |
+| Coffee or Tea β | MFG Cabin | Promotion III | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14% |
+| Icebreaker β | Reception Room | Promotion II | Assign to Reception Room to slow Mood Drop of all operators in it by 14% |
+| Icebreaker γ | Reception Room | Promotion IV | Assign to Reception Room to slow Mood Drop of all operators in it by 18% |
 
 ## Base stats
 

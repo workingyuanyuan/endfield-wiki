@@ -54,7 +54,11 @@ sources:
 | Voice, Korean | Kim Jin ah |
 | Operator File | [Liino's file](/story/liino/) |
 
-Liino is a breakout Sarkaz Djall idol from the Talos-II General Chamber of Commerce, called the Morning Star of La Fantoma and noted for concerts that break with convention.
+> "Twinkle-twinkle! My latest performance is about to start!"\
+> Liino is a breakout idol from the Talos-II General Chamber of Commerce. Loved by the public ever since her debut, she is known as the "Morning Star of La Fantoma." Renowned for her exquisite singing and unique performance style, her concerts often challenge norms and defy industry conventions.\
+> She never fails to deliver a one-of-a-kind experience for her audiences, and major corporations are always eagerly lining up to sponsor every one of her shows. Though this Sarkaz Djall's meteoric rise is not without controversy, everyone who sees her on stage is hopelessly drawn to her radiance.\
+> At present, Liino is methodically pushing ahead with plans for her Talos-II concert tour. She believes she will deliver a performance unlike anything seen before, and that the day will come when she'll shine bright at the top of the world.\
+> "Oh that's sweet! How should I thank you... I've got it! I'll just keep showering you with concert tickets until we're even, how's that?"
 
 ## How to obtain
 
@@ -82,12 +86,41 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Starry Heart Throb | Electric combo of up to 5 hits. The final strike deals 19 Stagger while she is the controlled operator. |
-| Battle skill | Dazzling Focus | Deals Electric damage and enters Vocalist Stance, boosting team ATK, periodically dealing extra Electric damage to nearby enemies, and continuously healing operators in range once in battle. During the stance, her battle skill becomes End Stance, which ends it early at no SP cost and starts a short cooldown. Costs 25 SP. |
-| Combo skill | Delightful Harmonics | Trigger: during Vocalist Stance, an Arts Reaction is applied to or consumed from an enemy. Liino deals Electric damage, heals the controlled operator, and gains extra Ultimate Energy without interrupting Vocalist Stance. Cooldown 10 s, 8 s at the highest skill level. |
-| Ultimate | Dawnstar Concerto | Heals the team, enters Cosmovoice Stance, and deals Electric damage with forced area Electrification. Replacing Vocalist Stance, it boosts team ATK, grants Will-scaled Electric Amp and Nature Amp, and pulses area damage and healing; unless cancelled free with End Stance, it finishes with 3 times a beat's damage and team heal. Costs 160 Ultimate Energy. |
+| Basic attack | Starry Heart Throb | — |
+| Battle skill | Dazzling Focus | 25 SP |
+| Combo skill | Delightful Harmonics | Cooldown 10 s, 8 s at level 12 |
+| Ultimate | Dawnstar Concerto | 160 Ultimate Energy |
+
+### Starry Heart Throb
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Electric DMG. As the controlled operator, Final Strike also deals 19 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Electric DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Electric DMG and recovers some SP.
+
+### Dazzling Focus
+
+> Liino deals Electric DMG to enemies and then enters her Vocalist Stance. While this stance is active, if there are enemies nearby, Liino will perform an Additional ATK (that deals Electric DMG to enemies) on a regular basis.\
+> Vocalist Stance: While this stance is active, Liino grants the entire team an ATK Boost. After entering battle, Liino will also grant continuous HP Treatment to operators within range.\
+> During Vocalist Stance, her battle skill is replaced with End Stance. Casting this will end her Vocalist Stance early without consuming any SP, after which the battle skill will enter a short cooldown.
+
+### Delightful Harmonics
+
+> COMBO TRIGGER: While Vocalist Stance is active, an Arts Reaction is consumed or is applied on an enemy.\
+> Liino deals Electric DMG to enemies, grants HP Treatment to the controlled operator, and gains additional Ultimate Energy.\
+> Casting the combo skill Delightful Harmonics does not interrupt Vocalist Stance.
+
+### Dawnstar Concerto
+
+> Liino grants HP Treatment to the entire team, enters her Cosmovoice Stance at the same time, unleashes a continuous display of Stage Pyrotechnics that deals Electric DMG, and then triggers an Electrifying Extravaganza that deals Electric DMG and forcibly applies Electrification to enemies in a large area of effect (AOE).\
+> Cosmovoice Stance: This stance replaces Liino's Vocalist Stance. While active, the stance grants the entire team Electric Amp and Nature Amp (effects are further increased by the attribute of Will) as well as an ATK Boost. The beats of Liino's song also deal Electric DMG to enemies in the AOE and grant continuous HP Treatment to allied operators in the AOE. When the stance ends, Liino deals 3 times the DMG from a single beat to enemies in the AOE, and grants 3 times the HP treatment from a single beat to the entire team. This effect does not trigger if the stance is ended early.\
+> During the stance, her battle skill is replaced with End Stance. Casting the battle skill during Cosmovoice Stance ends it early and does not consume any SP.
 
 ## Skill values
 
@@ -132,20 +165,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Idol Zone | Promotion I; upgraded at Promotion II | During Vocalist Stance or Cosmovoice Stance, operators in range gain 10% Treatment Received Bonus and take 10% less damage (20% each at Promotion II), lasting 3 s after leaving. |
-| Starry Boost of 1st Magnitude | Promotion II; upgraded at Promotion III | For 30 s after Liino casts Delightful Harmonics, the next battle skill cast by an Electric or Nature operator returns 5 SP (10 SP at Promotion III); this cannot stack and ends on trigger. |
+### Idol Zone
+
+**Promotion I**
+
+> During Vocalist Stance or Cosmovoice Stance, operators within the area of effect (AOE) gain Treatment Received Bonus +10% and DMG Taken -10%. These effects persist for 3s after leaving the AOE.
+
+**Promotion II**
+
+> During Vocalist Stance or Cosmovoice Stance, operators within the area of effect (AOE) gain Treatment Received Bonus +20% and DMG Taken -20%. These effects persist for 3s after leaving the AOE.
+
+### Starry Boost of 1st Magnitude
+
+**Promotion II**
+
+> For 30s after casting Liino's combo skill Delightful Harmonics, casting a battle skill of an Electric or Nature operator returns 5 SP. This effect cannot stack and ends after triggering.
+
+**Promotion III**
+
+> For 30s after casting Liino's combo skill Delightful Harmonics, casting a battle skill of an Electric or Nature operator returns 10 SP. This effect cannot stack and ends after triggering.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Flawless Stage Work | Entering battle outside Vocalist Stance makes the first cast of Dazzling Focus return 25 extra SP, and both Vocalist Stance and Cosmovoice Stance grant an extra 6% ATK Boost |
-| 2 | Committed Rehearsals | Will +20, Treatment Efficiency +10% |
-| 3 | Longing for the Horizon | Delightful Harmonics has its cooldown reduced by 1 s, and its damage and HP Treatment increase to 1.4 times their original values |
-| 4 | Meteoric Rhythm | Dawnstar Concerto costs 15% less Ultimate Energy |
-| 5 | Heart-Whipping Q&A | Dawnstar Concerto's Amp effect increases to 1.2 times its original value, and both Dazzling Focus and Dawnstar Concerto deal 1.2 times their damage |
+| 1 | Flawless Stage Work | After entering battle without her Vocalist Stance active, the first casting of the battle skill Dazzling Focus returns 25 additional SP. Effects of ATK Boost granted by Vocalist Stance and Cosmovoice Stance are increased by +6%. |
+| 2 | Committed Rehearsals | Will +20, Treatment Efficiency +10%. |
+| 3 | Longing for the Horizon | Combo skill Delightful Harmonics improved: Length of cooldown -1s. DMG Multiplier and HP Treatment are increased to 1.4 times the original. |
+| 4 | Meteoric Rhythm | Ultimate Dawnstar Concerto improved: Ultimate Energy cost -15%. |
+| 5 | Heart-Whipping Q&A | Amp effect of Dawnstar Concerto is increased to 1.2 times the original. DMG Multipliers of battle skill Dazzling Focus and ultimate Dawnstar Concerto are increased to 1.2 times the original. |
 
 ## Base skills
 
@@ -153,10 +201,10 @@ Base skills work while Liino is assigned to a room of the Dijiang. Each has two 
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Idol Passion β | Reception Room | Promotion I | Mood drop of the operators in this room −14% |
-| Idol Passion γ | Reception Room | Promotion III | Mood drop of the operators in this room −18% |
-| Stage Vibe That Lingers β | Control Nexus | Promotion II | Mood recovery of all operators +12% |
-| Stage Vibe That Lingers γ | Control Nexus | Promotion IV | Mood recovery of all operators +16% |
+| Idol Passion β | Reception Room | Promotion I | Assign to Reception Room to slow Mood Drop of all operators in it by 14% |
+| Idol Passion γ | Reception Room | Promotion III | Assign to Reception Room to slow Mood Drop of all operators in it by 18% |
+| Stage Vibe That Lingers β | Control Nexus | Promotion II | Assign to Control Nexus to grant all operators' Mood Regen +12% |
+| Stage Vibe That Lingers γ | Control Nexus | Promotion IV | Assign to Control Nexus to grant all operators' Mood Regen +16% |
 
 ## Base stats
 

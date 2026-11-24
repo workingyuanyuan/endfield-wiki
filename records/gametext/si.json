@@ -1,0 +1,237 @@
+{
+ "slug": "si",
+ "gameId": "chr_0036_jsspsi",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Hmph. Only think of me when trouble shows up?\"\nSi is one of the few Feranmut Proxies on Talos-II. The Feranmuts are paracausal beings native to Terra, and the consciousness that They manifest in slumber before human presence is known as Feranmut Proxy. Si's relationship with her Feranmut is somewhat complicated, but people still habitually refer to her as a Feranmut Proxy. In truth, Si is no one's Proxy. She is simply herself. Beneath her formidable and mysterious exterior lies a young soul who still holds onto hope and curiosity about the world.\nIn her daily life, she uses her abilities to provide comprehensive support for HAS and Endfield. In her spare time, she enjoys exploring the cities of Talos-II in search of the latest technologies and fashion trends. She follows her heart's desires and is unfettered by conventions.\n\"I'll help you out again. Remember to pay up once we get back to the inn.\"",
+  "zh-TW": "「哼，惹了麻煩，才想起來找我？」\n祀是塔衛二上極少數的巨獸代理人之一。所謂巨獸，乃是泰拉原生的超因果生物，而祂們沉眠時顯現於人前的意識，便被稱作巨獸代理人。祀與其巨獸的關係有些複雜，不過出於習慣，人們依舊稱呼她為巨獸代理人。但實際上，祀並非誰的代理，她只是她自己。隱藏在那份強大與神秘下的，是一個仍對世界抱有希望與好奇心的年輕靈魂。\n平常她會動用自己的能力，為宏科院與終末地提供全面支援。閒暇之餘，她也會在塔衛二的各個城市中，追尋前沿科技與時尚潮流。隨心所欲，無拘無束。\n「再幫你一把，回客棧了記得找我清帳。」",
+  "zh-CN": "“哼，惹了麻烦，才想起来找我？”\n祀是塔卫二上极少数的巨兽代理人之一。所谓巨兽，乃是泰拉原生的超因果生物，而祂们沉眠时显现于人前的意识，便被称作巨兽代理人。祀与其巨兽的关系有些复杂，不过出于习惯，人们依旧称呼她为巨兽代理人 。可实际上，祀并非谁的代理，她只是她自己。隐藏在那份强大与神秘下的，是一个仍对世界抱有希望与好奇心的年轻灵魂。\n平日里，她会动用自己的能力，为宏科院与终末地提供全面支持。闲暇之余，她也会在塔卫二的各个城市中，追寻前沿科技与时尚潮流。随心所欲，无拘无束。\n“再帮你一把，回客栈了记得找我清账。”",
+  "ja": "「ふんっ、面倒を起こして、それで思い出したのか？」\nスーはタロⅡでも極めて数少ない巨獣の代理人の1人。巨獣とは、テラに生まれた超因果的な生物であり、その巨獣が眠りについた際、人々の前に現れる意識こそが「巨獣の代理人」と呼ばれる存在である。もっとも、スーと巨獣の関係は少々複雑である。今でも慣習的に巨獣の代理人と呼ばれてはいるものの、彼女は誰かの代理として生きているわけではない。スーはあくまで、スー自身なのだ。その強さと神秘性の裏に秘めているのは、世界への希望と好奇心に満ちた若い魂である。\n普段はその力を駆使し、宏山科学院やエンドフィールドに幅広い支援を提供している。暇を見つけては、タロⅡの各都市を訪れ、最先端の科学技術や流行のファッションを追いかけることもある。何ものにも縛られることなく、いつも気の向くまま、自由に生きている。\nツケでよいな。あとで、わらわへの支払いを忘れるでないぞ。",
+  "ko": "\"흥, 꼭 사고를 쳐야 내 생각이 나지?\"\n사는 탈로스 II에서도 극소수에 불과한 베헤모스 대리인 중 한 명이다. 베헤모스란 테라에 태생적으로 존재하는 초인과적 생명체로, 그들이 잠들어 있을 때 사람들 앞에 모습을 드러내는 의식을 베헤모스 대리인이라 부른다. 사와 그녀의 베헤모스 사이에는 다소 복잡한 관계가 얽혀 있지만, 사람들은 관습적으로 여전히 그녀를 베헤모스 대리인이라 부른다. 하지만 사실 사는 그 누구의 대리인도 아니다. 사는 그저 사일 뿐이다. 강인하고 신비로운 모습 뒤에는 여전히 세상을 향한 희망과 호기심을 품고 있는 젊은 영혼이 자리하고 있다.\n평소에는 자신의 능력을 활용해 홍산 과학원과 엔드필드를 다방면으로 지원하고, 여가 시간에는 탈로스 II의 여러 도시를 누비며 첨단 기술과 최신 유행에 관심을 갖는다. 마음 가는 대로, 그 무엇에도 얽매이지 않은 채.\n\"한 번 더 도와줄게, 객잔으로 돌아가면 잊지 말고 갚아.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Artistic Urge",
+    "zh-TW": "乘興起筆",
+    "zh-CN": "乘兴起笔",
+    "ja": "卒意",
+    "ko": "흥에 겨운 붓놀림"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Cryo DMG. As the controlled operator, Final Strike also deals 18 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Cryo DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Cryo DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成寒冷傷害。作為主控幹員時，重擊會造成18點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成寒冷傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量寒冷傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成寒冷伤害。作为主控干员时，重击会造成18点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成寒冷伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量寒冷伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に寒冷ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値18を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に寒冷ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い寒冷ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 냉기 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 18포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 냉기 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 냉기 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Brushwork Realm",
+    "zh-TW": "河山共影",
+    "zh-CN": "河山共影",
+    "ja": "山河を映して",
+    "ko": "강산을 한 폭에"
+   },
+   "text": {
+    "en": "Si deals Cryo DMG and applies Artful Intent, Immobilization, and Cryo Infliction (or Heat Infliction if a Heat element operator is in Team Position 01) on the target. After a target with Artful Intent takes DMG, part of the DMG taken is recorded. When the duration of Artful Intent ends, it bursts and deals Fixed DMG equal to the DMG recorded. After casting the skill, Si's battle skill is temporarily changed to Initial Stroke.\nInitial Stroke: Costs 15 SP. Si pulls an Inksoul from a target with Artful Intent. All DMG dealt and effects applied to the Inksoul will also be dealt to its host (the said target). The Inksoul lasts as long as the remaining duration of Artful Intent. After casting the skill, Si's battle skill is temporarily changed to Final Stroke.\nFinal Stroke: Costs no SP. Makes the Inksoul disappear early. When disappearing, the Inksoul will move to its host and trigger a burst like the ending burst of Artful Intent.\nWhen dealing DMG or applying effects to both the Inksoul and the host, only 1 instance of the DMG or effect is dealt/applied. If the host is defeated during the Inksoul's duration, it will link to another enemy in combat and apply Artful Intent to it. This does not reset the duration of Artful Intent. If a target with Artful Intent is defeated without having its Inksoul drawn out of it, the defeated target will drop an Inksoul at its location.",
+    "zh-TW": "對目標施加筆意和定身並造成寒冷傷害。同時對目標施加寒冷附著，若小隊內01號位是灼熱屬性的幹員則變為施加灼熱附著。被施加筆意的目標受到傷害後，記錄一部分傷害值。筆意持續時間結束將會爆發，對範圍內敵人造成所記錄傷害值的固定傷害。施放後戰技在一段時間內替換為起墨。\n起墨：消耗15技力，從被施加筆意的目標體內拉出墨魂，墨魂受到的所有傷害和效果將傳遞給本體，墨魂持續時間等同於筆意剩餘時間。施放後戰技在一段時間內替換為收筆。\n收筆：不消耗技力，使墨魂提前消失。墨魂消失時朝原目標移動並觸發和筆意效果相同的爆發。\n對墨魂和處於筆意狀態的目標同時造成傷害或效果時，只會視作造成一次傷害或效果。墨魂存在期間若原目標被擊敗則連接另一名戰鬥中的敵人，並對其施加筆意，持續時間不會重新計算。未拉出墨魂且處於筆意狀態的目標被擊敗時，會在其位置生成墨魂。",
+    "zh-CN": "对目标施加笔意和定身并造成寒冷伤害。同时对目标施加寒冷附着，若小队内01号位是灼热属性的干员则变为施加灼热附着。被施加笔意的目标受到伤害后，记录一部分伤害值。笔意持续时间结束将会爆发，对范围内敌人造成所记录伤害值的固定伤害。施放后战技在一段时间内替换为起墨。\n起墨：消耗15技力，从被施加笔意的目标体内拉出墨魂，墨魂受到的所有伤害和效果将传递给本体，墨魂持续时间等同于笔意剩余时间。施放后战技在一段时间内替换为收笔。\n收笔：不消耗技力，使墨魂提前消失。墨魂消失时朝原目标移动并触发和笔意效果相同的爆发。\n对墨魂和处于笔意状态的目标同时造成伤害或效果时，只会视作造成一次伤害或效果。墨魂存在期间若原目标被击败则连接另一名战斗中的敌人，并对其施加笔意，持续时间不会重新计算。未拉出墨魂且处于笔意状态的目标被击败时，会在其位置生成墨魂。",
+    "ja": "目標に筆意と行動停止を付与し、寒冷ダメージを与える。同時に目標に寒冷付着を付与する。編成内の01位置が灼熱属性のオペレーターの場合、与えるアーツ付着は灼熱付着になる。筆意が付与された目標はダメージを受けると、ダメージの一部を記録する。筆意の持続時間が終了すると爆発し、範囲内の敵に記録したダメージ量の固定ダメージを与える。発動後、一定時間戦技が墨継に替わる。\n墨継：SPを15消費し、筆意が付与された目標の体内から墨魂を抽出する。墨魂が受けたすべてのダメージと効果は本体に伝達される。墨魂の持続時間は筆意の残り時間と同じ。発動後、一定時間戦技が収筆に替わる。\n収筆：SPを消費せず、墨魂をその時点で消失させる。墨魂が消失するとき、元の目標に向かって移動し、筆意と同じ効果の爆発を発生させる。\n墨魂と筆意状態の目標に同時にダメージまたは効果を与えるとき、ダメージまたは効果は1回分のみと見なされる。墨魂が存在している間に元の目標が倒された場合、墨魂は戦闘中の別の敵に繋がり、その敵に筆意を付与する。この際、持続時間はリセットされない。墨魂が抽出されていない状態で、筆意状態の目標が倒された場合、その位置に墨魂が生成される。",
+    "ko": "적에게 필의와 속박을 부여하고 냉기 피해를 줍니다. 동시에 냉기 부착을 부여하며, 팀 내 1번 슬롯의 오퍼레이터가 열기 속성이면 대신 열기 부착을 부여합니다. 필의가 부여된 적이 피해를 받으면 그 피해의 일부가 기록됩니다. 필의의 지속 시간이 끝나면 폭발해, 범위 내의 적에게 기록된 피해량만큼의 고정 피해를 줍니다. 사용 후 일정 시간 동안 배틀 스킬이 붓을 들리라로 대체됩니다.\n붓을 들리라: 스킬 게이지 15포인트를 소모해 필의가 부여된 적의 몸속에서 묵혼을 끌어냅니다. 묵혼이 받는 모든 피해와 효과는 본체에 전달되며, 묵혼은 필의의 남은 시간만큼 지속됩니다. 사용 후 일정 시간 동안 배틀 스킬이 붓을 거두리라로 대체됩니다.\n붓을 거두리라: 스킬 게이지를 소모하지 않고 묵혼을 일찍 사라지게 합니다. 묵혼은 사라질 때 원래 목표에게 이동해 필의와 같은 효과의 폭발을 일으킵니다.\n묵혼과 필의 상태인 적에게 동시에 피해를 주거나 효과를 부여하면, 피해 또는 효과를 한 번만 적용한 것으로 간주합니다. 묵혼이 존재하는 동안 원래 적이 처치되면, 묵혼은 전투 중인 다른 적에게 연결되어 해당 적에게 필의를 부여합니다. 이때 지속 시간은 다시 계산하지 않습니다. 묵혼을 끌어내지 않은 상태에서 필의가 부여된 대상이 처치되면, 해당 위치에 묵혼이 생성됩니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Fully Envisioned",
+    "zh-TW": "成竹在胸",
+    "zh-CN": "成竹在胸",
+    "ja": "胸中に成竹在り",
+    "ko": "먹빛은 이미 정해졌으니"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy's Cryo Infliction or Heat Infliction is consumed or absorbed.\nSi summons an Ink Lung that deals Cryo DMG. This DMG is based on the highest stacks of Arts Infliction consumed or absorbed from a single target.",
+    "zh-TW": "當有敵人的寒冷附著或灼熱附著被消耗或吸收後可以發動。\n召喚墨龍，造成寒冷傷害，傷害根據消耗或吸收附著的最高層數獲得提升。",
+    "zh-CN": "当有敌人的寒冷附着或灼热附着被消耗或吸收后可以发动。\n召唤墨龙，造成寒冷伤害，伤害根据消耗或吸收附着的最高层数获得提升。",
+    "ja": "敵の寒冷付着または灼熱付着が消費または吸収されると発動可能。\n墨龍を召喚して寒冷ダメージを与える。ダメージは消費または吸収した付着の最大段階数に応じてアップする。",
+    "ko": "적의 냉기 부착 또는 열기 부착이 소모되거나 흡수된 후 발동할 수 있습니다.\n묵룡을 소환해 냉기 피해를 주며, 소모되거나 흡수된 최대 스택 수치에 따라 피해가 증가합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "No One Spoils the Fun",
+    "zh-TW": "誰都不許掃興",
+    "zh-CN": "谁都不许扫兴",
+    "ja": "白けさせるでない！",
+    "ko": "누가 감히 흥을 깨랴"
+   },
+   "text": {
+    "en": "Si summons a Giant Ink Lung from her painting that deals Cryo DMG and grants temporary Cryo Amp and Heat Amp to the entire team.",
+    "zh-TW": "從畫卷喚出巨型墨龍造成寒冷傷害，同時對全隊施加一段時間的寒冷增幅和灼熱增幅。",
+    "zh-CN": "从画卷唤出巨型墨龙造成寒冷伤害，同时对全队施加一段时间的寒冷增幅和灼热增幅。",
+    "ja": "絵巻から巨大な墨龍を召喚して寒冷ダメージを与える。同時に、チーム全員に一定時間の寒冷増幅と灼熱増幅を付与する。",
+    "ko": "그림에서 거대 묵룡을 불러내 냉기 피해를 주고, 팀 전체에 일정 시간 동안 냉기 증폭과 열기 증폭을 부여합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Proxy's Patronage",
+    "zh-TW": "代理人的眷顧",
+    "zh-CN": "代理人的眷顾",
+    "ja": "代理人の気遣い",
+    "ko": "대리인의 가호"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Ultimate skill No One Spoils the Fun improved: After casting, Team Position 01 operator's combo skill cooldown length -10s.",
+      "zh-TW": "施放終結技誰都不許掃興後，小隊內01號位幹員連攜技剩餘冷卻時間-10秒。",
+      "zh-CN": "施放终结技谁都不许扫兴后，小队内01号位干员连携技剩余冷却时间-10秒。",
+      "ja": "必殺技「白けさせるでない！」を発動すると、チーム内の01位置のオペレーターの連携技残りCD時間-10秒",
+      "ko": "궁극기 누가 감히 흥을 깨랴 사용 후, 팀 내 1번 슬롯 오퍼레이터의 연계 스킬 남은 쿨타임 -10초."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Ultimate skill No One Spoils the Fun improved: After casting, Team Position 01 operator's combo skill cooldown length -20s.",
+      "zh-TW": "施放終結技誰都不許掃興後，小隊內01號位幹員連攜技剩餘冷卻時間-20秒。",
+      "zh-CN": "施放终结技谁都不许扫兴后，小队内01号位干员连携技剩余冷却时间-20秒。",
+      "ja": "必殺技「白けさせるでない！」を発動すると、チーム内の01位置のオペレーターの連携技残りCD時間-20秒",
+      "ko": "궁극기 누가 감히 흥을 깨랴 사용 후, 팀 내 1번 슬롯 오퍼레이터의 연계 스킬 남은 쿨타임 -20초."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Unsoiled Brush",
+    "zh-TW": "丹青不渝",
+    "zh-CN": "丹青不渝",
+    "ja": "丹青褪せず",
+    "ko": "바래지 않는 단청"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When the Inksoul disappears, allied operators gain 15% Haste for 5s.",
+      "zh-TW": "墨魂消失時，友方幹員獲得15%加速，持續5秒。",
+      "zh-CN": "墨魂消失时，友方干员获得15%加速，持续5秒。",
+      "ja": "墨魂が消失するとき、5秒間味方オペレーターは15%の加速効果を獲得する",
+      "ko": "묵혼이 사라지면 아군 오퍼레이터가 15%의 가속을 획득하며, 5초 동안 지속."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "When the Inksoul disappears, allied operators gain 30% Haste for 5s.",
+      "zh-TW": "墨魂消失時，友方幹員獲得30%加速，持續5秒。",
+      "zh-CN": "墨魂消失时，友方干员获得30%加速，持续5秒。",
+      "ja": "墨魂が消失するとき、5秒間味方オペレーターは30%の加速効果を獲得する",
+      "ko": "묵혼이 사라지면 아군 오퍼레이터가 30%의 가속을 획득하며, 5초 동안 지속."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Spring and Autumn as Ink",
+    "zh-TW": "春秋作墨",
+    "zh-CN": "春秋作墨",
+    "ja": "春秋、墨と為す",
+    "ko": "세월을 먹 삼아"
+   },
+   "text": {
+    "en": "Battle skill Brushwork Realm improved: Duration of Immobilization applied +50%; Artful Intent DMG Record Ratio +7% and burst radius +40%.",
+    "zh-TW": "戰技河山共影施加的定身持續時間+50%，筆意的傷害記錄比例+7%，爆發半徑+40%。",
+    "zh-CN": "战技河山共影施加的定身持续时间+50%，笔意的伤害记录比例+7%，爆发半径+40%。",
+    "ja": "戦技「山河を映して」による行動停止の持続時間+50%、筆意のダメージ記録率+7%、爆発範囲の半径+40%",
+    "ko": "배틀 스킬 강산을 한 폭에로 부여하는 속박의 지속 시간 +50%, 필의의 피해 기록 비율 +7%, 폭발 반경 +40%"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Three Marks Deep in Wood",
+    "zh-TW": "入木三分",
+    "zh-CN": "入木三分",
+    "ja": "一筆入魂",
+    "ko": "나무에 석 자를 새기고"
+   },
+   "text": {
+    "en": "Combo skill Fully Envisioned improved: When casting, Si gains ATK +[8% + 3%×(Highest stacks of Arts Infliction consumed or absorbed from a single target)] for 10s. This effect cannot stack.",
+    "zh-TW": "施放連攜技成竹在胸時，攻擊力+[8%+3%×消耗或吸收的最高附著層數]，持續10秒，無法疊加。",
+    "zh-CN": "施放连携技成竹在胸时，攻击力+[8%+3%×消耗或吸收的最高附着层数]，持续10秒，无法叠加。",
+    "ja": "連携技「胸中に成竹在り」発動時、10秒間攻撃力+[8%+3%×消費または吸収した最大付着段階数]（重ね掛け不可）",
+    "ko": "연계 스킬 먹빛은 이미 정해졌으니를 사용할 때, 공격력 +[8%+3%×소모 또는 흡수한 부착의 최대 스택 수치], 10초 동안 지속되며, 중첩되지 않습니다."
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Study of Muscles and Bones",
+    "zh-TW": "工於筋骨",
+    "zh-CN": "工于筋骨",
+    "ja": "骨力を宿す",
+    "ko": "근골을 벼려내어"
+   },
+   "text": {
+    "en": "Ultimate No One Spoils the Fun improved: DMG Dealt is increased to 1.2 times the original; Amp effect is increased to 1.2 times the original.",
+    "zh-TW": "終結技誰都不許掃興傷害提升至原本的1.2倍，提供的增幅效果提升至原本的1.2倍。",
+    "zh-CN": "终结技谁都不许扫兴伤害提升至原本的1.2倍，提供的增幅效果提升至原本的1.2倍。",
+    "ja": "必殺技「白けさせるでない！」のダメージが1.2倍までアップし、付与する増幅効果が1.2倍までアップする",
+    "ko": "궁극기 누가 감히 흥을 깨랴의 피해가 기존의 1.2배로 증가하며, 제공하는 증폭 효과가 기존의 1.2배로 증가합니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Perfectly Composed in Spirit",
+    "zh-TW": "完善精神",
+    "zh-CN": "完善精神",
+    "ja": "精神を全きものとす",
+    "ko": "정신을 가다듬으며"
+   },
+   "text": {
+    "en": "Ultimate No One Spoils the Fun improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技誰都不許掃興所需的終結技能量-15%。",
+    "zh-CN": "终结技谁都不许扫兴所需的终结技能量-15%。",
+    "ja": "必殺技「白けさせるでない！」に必要な必殺チャージ-15%",
+    "ko": "궁극기 누가 감히 흥을 깨랴의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Brush Dab in Eye's White",
+    "zh-TW": "點睛之筆",
+    "zh-CN": "点睛之笔",
+    "ja": "点睛の一筆",
+    "ko": "마침내 눈동자를 찍으리라"
+   },
+   "text": {
+    "en": "Combo skill Fully Envisioned improved: Length of combo skill cooldown -2s and DMG Dealt is increased to 1.15 times the original. When triggered, treat the combo skill as having consumed or absorbed 1 additional stack of infliction.",
+    "zh-TW": "連攜技成竹在胸冷卻時間-2秒，傷害提升至原本的1.15倍，觸發時視為額外1層附著被消耗或吸收。",
+    "zh-CN": "连携技成竹在胸冷却时间-2秒，伤害提升至原本的1.15倍，触发时视为额外1层附着被消耗或吸收。",
+    "ja": "連携技「胸中に成竹在り」のCD時間-2秒、ダメージが1.15倍までアップする\n発動可能になるとき、付着が1段階多く消費または吸収したものと見なされる",
+    "ko": "연계 스킬 먹빛은 이미 정해졌으니의 쿨타임 -2초, 피해가 기존의 1.15배로 증가합니다. 발동 시, 부착 1스택이 추가로 소모되거나 흡수된 것으로 간주합니다."
+   }
+  }
+ ]
+}

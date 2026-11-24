@@ -58,7 +58,8 @@ sources:
 | Voice, Korean | Yeo Yun-mi |
 | Operator File | [Yvonne's file](/story/yvonne/) |
 
-Yvonne is a fashion-loving researcher in Endfield Industries' Specialist Tech Division who studies Æther, Blight, and related devices.
+> "This pair of handcannons feels just right. Hmm... Noticed a few design OFIs. Guess I'll just mod them into a pair of Yvonne-specials!"  Yvonne is an operator in the Specialist Tech Division of Endfield Industries, currently responsible for research on Æther, Blight and related devices.  At first glance, Yvonne looks like your typical rebellious fashionista — painting her horns, tail, and nails in eye-popping colors. She'll skip out on academic conferences just to snag the latest fashion magazines and pop albums. Drawn to all things new and unconventional, Yvonne has a knack for staying one step ahead of the trends, always marching to the beat of her own drum.  But no one can deny that she is a true genius. Even back in her school days, she was racking up accolades in scientific research that others could only dream of. Everyone expected her to join a top-tier research institute and lead the charge in her field. Instead, Yvonne turned her back on it all and chose to join Endfield.  The reason? She never explained it. Maybe you can ask her yourself.\
+> "Can I apply new layer of coating for my gear? This color scheme doesn't really match my hair."
 
 ## How to obtain
 
@@ -92,12 +93,40 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Exuberant Trigger | Cryo combo of up to 5 hits. While she is the controlled operator, her Final Strike deals 17 Stagger. |
-| Battle skill | Brr-Brr-Bomb β | Throws a freezing bomb that explodes on hit for Cryo damage. Against enemies with Cryo Infliction or Nature Infliction, it consumes all Arts Infliction stacks to force Solidification and deal extra Cryo damage by stacks spent. Applying Solidification also grants bonus Ultimate Energy by stacks spent, only 1 time per cast. Costs 100 SP. |
-| Combo skill | Flashfreezer υ37 | Trigger: the controlled operator lands a Final Strike on an enemy with Solidification. Deploys Frost-e-Bytee beside the enemy to repeatedly deal Cryo damage and pull nearby enemies in, then explode on expiry to deal Cryo damage and force Solidification. Hitting enemies grants bonus Ultimate Energy only 1 time per cast. Cooldown 20 s, 18 s at the highest skill level. |
-| Ultimate | Cryoblasting Pistolier | Deploys Tink-a-Bella, switches control to Yvonne, and temporarily enhances her basic attacks: each enhanced sequence adds a Critical Rate stack, and max stacks add Critical DMG. The final hit becomes an enhanced Final Strike for heavy Cryo damage; if the enemy is Solidified, she deals an extra Cryo hit and consumes Solidification. Costs 220 Ultimate Energy. |
+| Basic attack | Exuberant Trigger | — |
+| Battle skill | Brr-Brr-Bomb β | 100 SP |
+| Combo skill | Flashfreezer υ37 | Cooldown 20 s, 18 s at level 12 |
+| Ultimate | Cryoblasting Pistolier | 220 Ultimate Energy |
+
+### Exuberant Trigger
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Cryo DMG. As the controlled operator, Final Strike also deals 17 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Cryo DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Cryo DMG and recovers some SP.
+
+### Brr-Brr-Bomb β
+
+> Throws a freezing bomb. The bomb explodes when it hits the enemy to deal Cryo DMG. If hitting an enemy with Cryo Infliction or Nature Infliction, then consume all Arts Infliction stacks, forcibly apply Solidification, and deal Cryo DMG to the target based on the number of stacks consumed.\
+> After the battle skill successfully applies Solidification, Yvonne gains additional Ultimate Energy based on the number of stacks consumed. This Ultimate Energy Gain effect can only trigger 1 time, even if the skill hits multiple enemies.
+
+### Flashfreezer υ37
+
+> COMBO TRIGGER: When the controlled operator performs a Final Strike on an enemy with Solidification.\
+> Immediately deploys Frost-e-Bytee next to the enemy. While active, Frost-e-Bytee constantly releases energy to attack nearby enemies, deals Cryo DMG to them, and pulls them towards itself. After Frost-e-Bytee expires, it explodes to forcibly apply Solidification and deal Cryo DMG to nearby enemies.\
+> After the combo skill successfully hits the enemy, Yvonne gains additional Ultimate Energy. This Ultimate Energy Gain effect can only trigger 1 time, even if the skill hits multiple enemies.
+
+### Cryoblasting Pistolier
+
+> Immediately deploys the support bot Tink-a-Bella and makes Yvonne the controlled operator.\
+> Temporarily enhances Yvonne's basic attack (BATK). Each enhanced BATK sequence performed grants a stack of Critical Rate buff. After reaching max stacks, Yvonne also gains a Critical DMG buff. When the skill is about to end, Yvonne's last enhanced BATK becomes an enhanced Final Strike that deals massive Cryo DMG.\
+> If the enemy is Solidified, Yvonne performs an additional attack that deals Cryo DMG and then consumes the enemy's Solidification.
 
 ## Skill values
 
@@ -136,20 +165,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Barrage of Technology | Promotion I; upgraded at Promotion II | After Brr-Brr-Bomb β applies Solidification, Yvonne's next basic attack immediately becomes a Final Strike (with +50% damage at Promotion II). |
-| Freezing Point | Promotion II; upgraded at Promotion III | Gains +10% Critical DMG (+20% at Promotion III) against enemies with Cryo Infliction, doubled against enemies with Solidification. |
+### Barrage of Technology
+
+**Promotion I**
+
+> Battle skill Brr-Brr-Bomb β improved: After applying Solidification, the next basic attack performed becomes a Final Strike.
+
+**Promotion II**
+
+> Battle skill Brr-Brr-Bomb β improved: After applying Solidification, the next basic attack directly becomes a Final Strike with DMG Dealt +50%.
+
+### Freezing Point
+
+**Promotion II**
+
+> Against enemies with active Cryo Infliction, gains Critical DMG Dealt +10%. Effect is doubled against enemies with Solidification.
+
+**Promotion III**
+
+> Against enemies with active Cryo Infliction, gains Critical DMG Dealt +20%. Effect is doubled against enemies with Solidification.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Flash Freezer | Flashfreezer υ37 has +20% effect radius, releases energy 2 more times, and grants an extra 15 Ultimate Energy after dealing damage |
-| 2 | Flawless Creation | Intellect +20, Critical Rate +7% |
-| 3 | Tink-a-Power | Freezing Point grants an extra +10% Critical DMG against enemies with Cryo Infliction, also doubled against enemies with Solidification |
-| 4 | Rebellious Mood | If Brr-Brr-Bomb β's explosion hits only a single enemy, it returns 10 SP |
-| 5 | Expert Mechcrafter | During Cryoblasting Pistolier, Yvonne gains +10% ATK and +30% Critical DMG |
+| 1 | Flash Freezer | Combo skill Flashfreezer υ37 improved: Effect radius +20%; releases energy 2 more times; and gains an additional 15 Ultimate Energy after dealing DMG. |
+| 2 | Flawless Creation | Intellect +20, Critical Rate +7%. |
+| 3 | Tink-a-Power | Talent Freezing Point improved: Against enemies with Cryo Infliction, Critical DMG Dealt +10%; this effect is also doubled against enemies with Solidification. |
+| 4 | Rebellious Mood | Battle skill Brr-Brr-Bomb β improved: If the explosion hits only one enemy, return 10 SP. |
+| 5 | Expert Mechcrafter | Ultimate Cryoblasting Pistolier improved: During the ultimate, ATK +10% and Critical DMG Dealt +30%. |
 
 ## Base skills
 
@@ -157,10 +201,10 @@ Base skills work while Yvonne is assigned to a room of the Dijiang. Each has two
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Fungal Pigment Extraction β | Growth Chamber | Promotion I | Fungal matter grows 20% faster |
-| Fungal Pigment Extraction γ | Growth Chamber | Promotion III | Fungal matter grows 30% faster |
-| Fashionista β | Growth Chamber | Promotion II | Mood drop of the operators in this room −14% |
-| Fashionista γ | Growth Chamber | Promotion IV | Mood drop of the operators in this room −18% |
+| Fungal Pigment Extraction β | Growth Chamber | Promotion I | Assign to Growth Chamber to grant fungal matter growth rate +20% |
+| Fungal Pigment Extraction γ | Growth Chamber | Promotion III | Assign to Growth Chamber to grant fungal matter growth rate +30% |
+| Fashionista β | Growth Chamber | Promotion II | Assign to Growth Chamber to slow Mood Drop of all operators in it by 14% |
+| Fashionista γ | Growth Chamber | Promotion IV | Assign to Growth Chamber to slow Mood Drop of all operators in it by 18% |
 
 ## Base stats
 

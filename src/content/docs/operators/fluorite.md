@@ -48,7 +48,8 @@ sources:
 | Voice, Korean | Jang Mi |
 | Operator File | [Fluorite's file](/story/fluorite/) |
 
-Fluorite is a frontier-born sharpshooter on Endfield's Operations Team Z7 who scouts and disrupts enemy lines, relying on street smarts and sharp observation.
+> "Distract them? Disable them? Or ... just destroy them?"  A member of Operations Team Z7 in Endfield, Fluorite is responsible for scouting and disrupting enemy lines. Her command of street rules and dirty tricks rivals her sharpshooting, sparing the team from countless troubles. Hailing from the frontier at the fringe of the Civilization Band, she sharpened her eye through constant migrations and wandering. More often than not, she simply sits in the corner with a faint smile, leaving others with the unsettling sense that every flaw has already been laid bare under her gaze.  But don't mistake her for empathetic. Fluorite's knack for reading people gives her exceptional instincts on the battlefield, but also leaves her dangerously good at stirring people up with just a few words — making her the team's most unpredictable source of trouble.\
+> "Got anything to say? No? How about we just call it a day?"
 
 ## How to obtain
 
@@ -68,12 +69,38 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Signature Gun Kata | Nature combo of up to 4 hits. The final strike deals 15 Stagger while she is the controlled operator. |
-| Battle skill | Tiny Surprise | Kicks an Improvised Explosive onto a target, applying Slow before it detonates after a short delay for area Nature damage and Nature Infliction. It detonates early if the target is defeated, and at most 1 Improvised Explosive can exist on the field. Costs 100 SP. |
-| Combo skill | Free Giveaway | Trigger: an enemy carries at least 2 stacks of Cryo Infliction or Nature Infliction. She shoots that target to cause a special explosion for Nature damage and applies another Arts Infliction of the same element. Cooldown 40 s, 38 s at the highest skill level. |
-| Ultimate | Apex Prankster | She dashes in an arc while firing 4 rapid Nature hits at the target inside it. If an Improvised Explosive is stuck to the target, it detonates immediately with increased damage and area; if the final hit strikes a foe carrying 2 or more stacks of Cryo Infliction or Nature Infliction, it applies that Arts Infliction again. Costs 100 Ultimate Energy. |
+| Basic attack | Signature Gun Kata | — |
+| Battle skill | Tiny Surprise | 100 SP |
+| Combo skill | Free Giveaway | Cooldown 40 s, 38 s at level 12 |
+| Ultimate | Apex Prankster | 100 Ultimate Energy |
+
+### Signature Gun Kata
+
+> BASIC ATTACK:\
+> An attack with up to 4 sequences that deals Nature DMG. As the controlled operator, Final Strike also deals 15 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Nature DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Nature DMG and recovers some SP.
+
+### Tiny Surprise
+
+> Kicks an Improvised Explosive that sticks to the target, applying Slow and exploding after a short duration. The explosion deals Nature DMG and Nature Infliction to enemies in the area of effect. Defeating the target also sets off the Improvised Explosive immediately.\
+> Only 1 Improvised Explosive can be present in the battlefield.
+
+### Free Giveaway
+
+> COMBO TRIGGER: When an enemy has 2 or more stacks of Cryo Infliction or Nature Infliction.\
+> Shoots the target enemy to trigger a special explosion that deals Nature DMG and applies another Arts Infliction of the element already on the enemy.
+
+### Apex Prankster
+
+> Fluorite quickly moves in an arc and rapidly fires at the target within the arc to deal 4 sequences of Nature DMG. If an Improvised Explosive has been stuck to the target, the skill detonates it immediately and increases the DMG and size of the explosion.\
+> If the final DMG sequence hits a target with at least 2 stacks of Cryo Infliction or Nature Infliction, then apply the same Arts Infliction again.
 
 ## Skill values
 
@@ -103,20 +130,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Love the Stab and Twist | Promotion I; upgraded at Promotion II | Fluorite deals 10% more damage to Slowed targets (20% at Promotion II). |
-| Unpredictable | Promotion II; upgraded at Promotion III | She has a 20% chance to be immune to Arts damage, then gains 10% ATK (20% at Promotion III) for 10 s; this effect cannot stack. |
+### Love the Stab and Twist
+
+**Promotion I**
+
+> Fluorite gains DMG Dealt +10% against Slowed targets.
+
+**Promotion II**
+
+> Fluorite gains DMG Dealt +20% against Slowed targets.
+
+### Unpredictable
+
+**Promotion II**
+
+> Grants 20% chance of Arts DMG immunity and grants Fluorite ATK +10% for 10s. This effect cannot stack.
+
+**Promotion III**
+
+> Grants 20% chance of Arts DMG immunity and grants Fluorite ATK +20% for 10s. This effect cannot stack.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Ten-Finger Smith | Agility +10, Intellect +10 |
-| 2 | Mind Reading Technique | Unpredictable's chance to ignore Arts damage increases by 10% |
-| 3 | Triple Surprise | When Tiny Surprise's Improvised Explosive detonates, it spreads Slow to all enemies hit for 6 s |
-| 4 | Prank Master | Apex Prankster costs 10% less Ultimate Energy |
-| 5 | Craver of Chaos | Whenever Cryo Infliction or Nature Infliction is applied to an enemy, Free Giveaway's cooldown decreases by 1 s, at most once every 1 s |
+| 1 | Ten-Finger Smith | Agility +10, Intellect +10. |
+| 2 | Mind Reading Technique | Talent Unpredictable improved: Chance to ignore Arts DMG +10%. |
+| 3 | Triple Surprise | Battle skill Tiny Surprise improved: After Improvised Explosive explodes, the slow effect is applied to all enemies hit and lasts 6s. |
+| 4 | Prank Master | Ultimate Apex Prankster improved: Ultimate Energy cost -10%. |
+| 5 | Craver of Chaos | Combo skill Free Giveaway improved: Whenever Cryo Infliction or Nature Infliction is applied to the enemy, cooldown is shortened by 1s. Effect can only trigger once every 1s. |
 
 ## Base skills
 
@@ -124,10 +166,10 @@ Base skills work while Fluorite is assigned to a room of the Dijiang. Each has t
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Wildlands Trekker α | Growth Chamber | Promotion I | Rare minerals grow 10% faster |
-| Wildlands Trekker β | Growth Chamber | Promotion III | Rare minerals grow 20% faster |
-| Reader of Emotions β | Control Nexus | Promotion II | Mood recovery of all operators +12% |
-| Reader of Emotions γ | Control Nexus | Promotion IV | Mood recovery of all operators +16% |
+| Wildlands Trekker α | Growth Chamber | Promotion I | Assign to Growth Chamber to grant rare mineral growth rate +10% |
+| Wildlands Trekker β | Growth Chamber | Promotion III | Assign to Growth Chamber to grant rare mineral growth rate +20% |
+| Reader of Emotions β | Control Nexus | Promotion II | Assign to Control Nexus to grant all operators' Mood Regen +12% |
+| Reader of Emotions γ | Control Nexus | Promotion IV | Assign to Control Nexus to grant all operators' Mood Regen +16% |
 
 ## Base stats
 

@@ -44,7 +44,8 @@ sources:
 | Voice, Korean | Jang Ye-na |
 | Operator File | [Xaihi's file](/story/xaihi/) |
 
-Xaihi is a Sessionite from Laterano's Cabal of Tranquility who joined Endfield Industries on the Abbess's recommendation and now handles information engineering aboard Dijiang.
+> "Once we are connected, wisdom shall springeth forth."  Xaihi is from the Cabal of Tranquility, a research order dispatched from Laterano to Talos-II for technical study. As a Sessionite, she believes computation and linguistic analysis pave the way to Veritas.  She is better with machines than with people. Her talent in information technology is undeniable — even to the Abbess of the Great Monastery in the Cabal of Tranquility. So despite her "unauthorized" upgrade to the dome of the Cathedralis triggering a cascade of accidents, the Abbess still sincerely recommended her to Endfield Industries, hoping she could find a stage worthy of her genius.  Now, Xaihi works aboard Dijiang on information engineering tasks such as Protorig Network construction and system integration. Her unique insights into the Originium Network, combined with the deep knowledge she carries from the Cabal, ensure her place as an indispensable member of Endfield.\
+> "O Knowledge most ancient, lead us not into temptation but deliver us from the codes of malice... I am Xaihi, Endministrator. May you be enlightened."
 
 ## How to obtain
 
@@ -65,12 +66,38 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Cooldown | Cryo combo of up to 5 hits. While she is the controlled operator, her Final Strike deals 15 Stagger. |
-| Battle skill | Distributed DoS | Summons an Auxiliary Crystal around the controlled operator that heals them after they land a Final Strike, up to 2 times, scaling with Will. If the operator is already at Max HP when healed, it also grants a non-stacking Arts Amp for a time. Costs 100 SP. |
-| Combo skill | Stress Testing | Trigger: the Auxiliary Crystal uses up its HP treatments. She briefly charges the Auxiliary Crystal and launches it at the enemy, dealing Cryo damage and applying Cryo Infliction. Cooldown 8 s, 7 s at the highest skill level. |
-| Ultimate | Stack Overflow | Grants temporary Cryo Amp and Nature Amp to the whole team, with the Amp values boosted by Intellect. Costs 80 Ultimate Energy. |
+| Basic attack | Cooldown | — |
+| Battle skill | Distributed DoS | 100 SP |
+| Combo skill | Stress Testing | Cooldown 8 s, 7 s at level 12 |
+| Ultimate | Stack Overflow | 80 Ultimate Energy |
+
+### Cooldown
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Cryo DMG. As the controlled operator, Final Strike also deals 15 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Cryo DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Cryo DMG and recovers some SP.
+
+### Distributed DoS
+
+> Summons an Auxiliary Crystal that orbits the controlled operator for a while.\
+> After the controlled operator performs a Final Strike on the enemy, the Auxiliary Crystal will restore the said operator's HP. This effect can trigger 2 times. The attribute of Will increases the amount of HP treatment.\
+> When the controlled operator is already at Max HP when triggering the HP restoration, grant the said operator a temporary Arts Amp as well. This effect cannot stack.
+
+### Stress Testing
+
+> COMBO TRIGGER: When the Auxiliary Crystal uses up its HP treatments.\
+> Quickly charges up the Auxiliary Crystal and launches it at the enemy to deal Cryo DMG and Cryo Infliction.
+
+### Stack Overflow
+
+> Applies temporary Cryo Amp and Nature Amp to the entire team. The attribute of Intellect (INT) increases the Amp effect.
 
 ## Skill values
 
@@ -101,20 +128,31 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Execute Process | Promotion I; upgraded at Promotion II | When Stress Testing hits an enemy that already has Cryo Infliction or Solidification, that enemy takes 7% more Cryo damage (10% at Promotion II) for 5 s; this does not stack. |
-| Freeze Protocol | Promotion III | Stack Overflow also dispels Cryo Infliction and Solidification from the whole team. |
+### Execute Process
+
+**Promotion I**
+
+> Combo skill Stress Testing improved: Hitting an enemy with Cryo Infliction or Solidification also causes the enemy to suffer Cryo DMG Taken +7% for 5s. This effect cannot stack.
+
+**Promotion II**
+
+> Combo skill Stress Testing improved: Hitting an enemy with Cryo Infliction or Solidification also causes the enemy to suffer Cryo DMG Taken +10% for 5s. This effect cannot stack.
+
+### Freeze Protocol
+
+**Promotion III**
+
+> Ultimate Stack Overflow improved: The ultimate also dispels Cryo Infliction and Solidification from the entire team.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Agile Execution | The Auxiliary Crystal's Arts Amp is increased by an extra 5% |
-| 2 | Link Aggregation | Stack Overflow costs 10% less Ultimate Energy |
-| 3 | Mapping Node | On hit, Stress Testing chains 1 time to 1 other nearby target |
-| 4 | Grayscale Release | Intellect +15, Treatment Efficiency +10% |
-| 5 | Controlled Recursion | Stack Overflow's Amp effect is increased to 1.1 times its original value |
+| 1 | Agile Execution | Arts Amp granted by the Auxiliary Crystal is increased by another 5%. |
+| 2 | Link Aggregation | Ultimate Stack Overflow improved: Ultimate Energy cost -10%. |
+| 3 | Mapping Node | Combo skill Stress Testing improved: When hitting the target, the hit chains 1 time to 1 additional target nearby. |
+| 4 | Grayscale Release | Intellect +15, Treatment Efficiency +10%. |
+| 5 | Controlled Recursion | Ultimate Stack Overflow improved: Amp effect is increased to 1.1 times the original. |
 
 ## Base skills
 
@@ -122,10 +160,10 @@ Base skills work while Xaihi is assigned to a room of the Dijiang. Each has two 
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Standardized Scripting α | MFG Cabin | Promotion I | Operator EXP materials made 10% faster |
-| Standardized Scripting β | MFG Cabin | Promotion III | Operator EXP materials made 20% faster |
-| Murmuring Session α | Reception Room | Promotion II | Slightly higher chance of Clue 5 (Cabal of Tranquility); does not stack with another skill of this kind |
-| Murmuring Session β | Reception Room | Promotion IV | Higher chance of Clue 5 (Cabal of Tranquility); does not stack with another skill of this kind |
+| Standardized Scripting α | MFG Cabin | Promotion I | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +10% |
+| Standardized Scripting β | MFG Cabin | Promotion III | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20% |
+| Murmuring Session α | Reception Room | Promotion II | Assign to Reception Room to grant operators a small Clue 5 Rate-UP: Cabal of Tranquility (activates upon assignment; effects of the same type cannot stack) |
+| Murmuring Session β | Reception Room | Promotion IV | Assign to Reception Room to grant operators Clue 5 Rate-UP: Cabal of Tranquility (activates upon assignment; effects of the same type cannot stack) |
 
 ## Base stats
 

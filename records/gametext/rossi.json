@@ -1,0 +1,237 @@
+{
+ "slug": "rossi",
+ "gameId": "chr_0028_wulfa",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Piece of cake for an elite like me!\"  Rossina Wulfperl Luppino, younger sister of Wulfgard and the Pearl of the Pack. In a feud between the Pack and the Bonekrushers, many elder wolves paid a bloody price to rescue her. The blood that day stained her swaddling blanket red...  Wulfgard operates independently from the clan for years, but the Pack required a leader, and Rossi accepted that responsibility. She has always felt that her brother, who rose to fame at a young age, should be the one leading the entire Pack, and she constantly reminds and urges him to do so. While the elders of the clan hope Rossi can spend more time doing what she loves at her age, she ultimately cannot lift the weight of \"responsibility\" from her heart. She strives to become more reliable and powerful for the sake of her family and her clan.  Rossi, who longs for heroic tales, occasionally fantasizes that one day she will be able to fight alongside a legendary hero. This is the bit of \"me time\" she reserves for herself.  \"They bit deep, but the Pack isn't afraid of more scars!\"",
+  "zh-TW": "「對於精銳來說小事一樁！」 洛西娜·狼珀·盧皮諾，狼衛的妹妹，狼群的掌上明珠。在一場狼群氏族與碾骨氏族的恩怨中，眾多老狼為了救出她付出了血的代價，彼時的鮮血染紅了襁褓…… 狼衛常年脫離氏族獨自行動，但狼群需要一個領導者，洛西接下了這一責任。她一直覺得年少成名的哥哥更應該執掌整個狼群，總是不停提醒和催促他這一點。氏族的老狼們希望洛西能在這個年紀做更多自己喜歡的事，但洛西最終還是無法將「責任」從心頭挪開。她想為家人、為氏族變得更加可靠、強大。 憧憬著英雄故事的洛西，偶爾幻想著，有一天，自己能與傳說中的英雄共同奮戰——這是她給自己留下的一點點「自我時間」。 「狼群從不畏懼留下傷痕！」",
+  "zh-CN": "“对于精锐来说小菜一碟！” 洛茜娜·狼珀·卢皮诺，狼卫的妹妹，狼群的掌上明珠。在一场狼群氏族与碾骨氏族的恩怨中，众多老狼为了救出她付出了血的代价，彼时的鲜血染红了襁褓…… 狼卫常年脱离氏族独自行动，但狼群需要一个领导者，洛茜接下了这一责任。她一直觉得年少成名的哥哥更应该执掌整个狼群，总是不停提醒和催促他这一点。氏族的老狼们希望洛茜能在这个年纪做更多自己喜欢的事，但洛茜最终还是无法将“责任”从心头挪开。她想为家人、为氏族变得更加可靠、强大。 憧憬着英雄故事的洛茜，偶尔幻想着，有一天，自己能与传说中的英雄共同奋战——这是她给自己留下的一点点“自我时间”。 “狼群从不畏惧留下伤痕！”",
+  "ja": "「アタシはエリートなんだから、こんなの朝飯前！」 ロッシ、フルネームは「ロッシーナ・ウルフパール・ルピーノ」。ウルフガードの妹であり、狼群の宝。狼群とボーンクラッシャーとの因縁の争いの中で、多くの老狼たちがロッシを救うために血の代償を払い、そのときの鮮血は、産着を真紅に染めた…… ウルフガードは普段クランから離れ、単独行動をしているが、狼群にはリーダーが必要だった。そこでロッシがその役目を引き受けた。本当は、若くして名を馳せた兄のほうが狼群を率いるにふさわしいと本人はずっと思っており、兄に会うといつもそのことを口にする。クランの老狼たちは、若いうちに好きなことをしてほしいと願っているが、ロッシはどうしても「責任」を手放せない。家族、クランのためにもっと強く、頼れる存在になりたいと思っている。 英雄の物語に憧れるロッシは時折、自分が伝説の英雄と肩を並べて戦う姿を想像する――それは彼女が少しだけ素の自分でいられる瞬間である。 「狼群は、傷を恐れたりなんかしない！」",
+  "ko": "\"저 같은 정예한테는 식은 죽 먹기죠!\" 로시나 울프펄 루피노는 울프가드의 여동생이자, 울프팀에서 애지중지하는 진주 같은 존재이다. 울프팀과 본 크러셔 집단 사이의 뿌리 깊은 원한 속에서, 울프팀의 어른들은 로시를 구하기 위해 피의 대가를 치러야 했고, 그녀를 감싸고 있던 포대기는 그들이 흘린 피로 붉게 물들었다... 울프가드가 집단을 벗어나 홀로 움직이는 일이 잦아지자, 리더가 필요했던 울프팀은 결국 그 자리를 로시에게 맡겼지만, 그녀는 자기보다는 어린 나이에 명성을 떨친 오빠가 울프팀을 이끌어야 한다고 생각하며, 오빠에게 끊임없이 이 점을 상기시키고 다그치려 애쓴다. 집단의 어른들은 로시가 나이에 걸맞게 하고 싶은 일을 하며 살기를 바라지만, 로시는 끝내 '책임감'이라는 무게를 내려놓지 못한다. 그녀는 가족과 집단을 위해 더 든든하고 강력한 존재가 되고 싶어 한다. 영웅 이야기를 동경하는 로시는 가끔 언젠가 전설 속 영웅들과 어깨를 나란히 하고 전투하는 상상을 하곤 한다. 이 시간이 바로 자신에게 허락한 유일한 '자유 시간'이다. \"울프팀은 도전을 두려워하지 않아!\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Seething Wolfblood",
+    "zh-TW": "沸騰狼血",
+    "zh-CN": "沸腾狼血",
+    "ja": "滾る狼血",
+    "ko": "끓어오르는 늑대의 피"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 18 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成物理傷害。作為主控幹員時，重擊會造成18點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成物理伤害。作为主控干员时，重击会造成18点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値18を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 18포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Crimson Shadow",
+    "zh-TW": "血紅之影",
+    "zh-CN": "血红之影",
+    "ja": "真紅の影",
+    "ko": "붉은색의 그림자"
+   },
+   "text": {
+    "en": "Charges to the target to deal Physical DMG and apply Lift.\nIf the target already has Vulnerability stack(s), the skill also unleashes a Wolven Ambrage that charges at the target to deal Heat DMG.",
+    "zh-TW": "衝向目標，造成物理傷害並施加擊飛。\n若目標已經擁有破防，則會額外釋放狼之珀衝向目標，造成灼熱傷害。",
+    "zh-CN": "冲向目标，造成物理伤害并施加击飞。\n若目标已经拥有破防，则会额外释放狼之珀冲向目标，造成灼热伤害。",
+    "ja": "目標に突進し、物理ダメージと浮遊効果を与える。\nクラッシュ状態の目標に命中した場合、追加で目標に突進する狼の至宝を放ち、灼熱ダメージを与える。",
+    "ko": "목표를 향해 돌진하여 물리 피해를 주고 띄우기 피해를 줍니다.\n만약 목표가 이미 방어 불능 상태를 보유하고 있으면, 추가로 울프팀의 진주가 발동해 목표에 돌진하며 열기 피해를 줍니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Moment of Blazing Shadow",
+    "zh-TW": "燎影時刻",
+    "zh-CN": "燎影时刻",
+    "ja": "刹那の影",
+    "ko": "그림자가 타오르는 순간"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy has both Vulnerability and Arts Infliction stacks.\nRossi's combo skill has 2 consecutive sequences. COMBO SEQUENCE 1 deals Physical DMG to the target.\nCOMBO SEQUENCE 2 consumes all Arts Infliction stacks from the target, deals Physical DMG based on the number of Arts Infliction stacks consumed, applies 1 instance of Lift, and buffs Rossi's Critical Rate and Critical DMG Dealt at the same time.\nIf COMBO SEQUENCE 2 is cast with perfect timing, it applies 1 more stack of Vulnerability.",
+    "zh-TW": "當有敵人同時處於破防和法術附著狀態時可以發動。\n洛西的連攜技可連續發動兩次，第一次會對目標造成物理傷害。\n第二次將消耗目標全部的法術附著，對其造成基於消耗層數的物理傷害並造成一次擊飛，同時在一段時間內提升自身的暴擊率和暴擊傷害。\n當第二次連攜技精準銜接時，可以額外施加1層破防。",
+    "zh-CN": "当有敌人同时处于破防和法术附着状态时可以发动。\n洛茜的连携技可连续发动两次，第一次会对目标造成物理伤害。\n第二次将消耗目标全部的法术附着，对其造成基于消耗层数的物理伤害并造成一次击飞，同时在一段时间内提升自身的暴击率和暴击伤害。\n当第二次连携技精准衔接时，可以额外施加1层破防。",
+    "ja": "敵がクラッシュかつアーツ付着状態のときに発動可能。\nロッシの連携技は連続で2回発動できる。1回目は目標に物理ダメージを与える。\n2回目は目標のアーツ付着をすべて消費し、消費した段階数に応じてその目標に物理ダメージと浮遊効果を与える。同時に、一定時間自身の会心率と会心ダメージがアップする。\n2回目の連携技が完璧連携となった場合、追加で目標にクラッシュを1段階付与する。",
+    "ko": "적이 동시에 방어 불능과 아츠 부착 상태일 때 사용할 수 있습니다.\n로시의 연계 스킬은 연속으로 2회 사용할 수 있습니다. 첫 공격은 목표에 물리 피해를 줍니다.\n두 번째 공격은 목표의 아츠 부착을 모두 소모한 뒤, 대상에게 소모한 스택 수치에 따른 물리 피해와 띄우기 피해를 주고, 일정 시간 동안 자신의 치명타 확률과 치명타 피해를 증가시킵니다.\n연계 스킬의 두 번째 공격이 정확하게 연계되면, 추가로 방어 불능 1스택을 쌓습니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "\"Razorclaw\" Ambuscade",
+    "zh-TW": "「利爪」奇襲",
+    "zh-CN": "“利爪”奇袭",
+    "ja": "“鋭爪”奇襲",
+    "ko": "기습 '날카로운 발톱'"
+   },
+   "text": {
+    "en": "Rossi flutters her cape and unleashes a flurry of stabs that quickly deals multiple sequences of Heat DMG to the target. She then performs a two-sequence slash attack with her dagger that deals massive Heat DMG and applies Heat Infliction.\nWhen this skill successfully scores a critical hit, it deals higher Critical DMG.",
+    "zh-TW": "揮動披風迅捷戳擊，在短時間內對目標造成多段灼熱傷害，之後使用匕首進行兩段斬擊，造成大量灼熱傷害並施加灼熱附著。\n本次技能將在暴擊時造成更高的暴擊傷害。",
+    "zh-CN": "挥动披风迅捷戳击，在短时间内对目标造成多段灼热伤害，之后使用匕首进行两段斩击，造成大量灼热伤害并施加灼热附着。\n本次技能将在暴击时造成更高的暴击伤害。",
+    "ja": "マントを操り、連続で敵を突き刺す。短時間で目標に灼熱ダメージを複数回与えたあと、ナイフによる斬撃を2段繰り出し、高い灼熱ダメージを与え、灼熱付着を付与する。\n会心発生時、さらに高い会心ダメージを与える。",
+    "ko": "망토를 휘날리며 재빠르게 찌릅니다. 짧은 시간 동안 목표에 여러 차례 열기 피해를 준 후, 즉시 단검으로 2단 베기를 하여 대량의 열기 피해를 주고 열기 부착을 부여합니다.\n이번 스킬이 만약 치명타 피해를 줬을 경우, 더 강한 치명타 피해를 줍니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Nicks and Scratches",
+    "zh-TW": "斫痕",
+    "zh-CN": "斫痕",
+    "ja": "爪痕",
+    "ko": "절흔"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Battle skill improved: After Wolven Ambrage deals DMG, Rossi applies Razor Clawmark to the target for 15s. This effect cannot stack.\nFor the duration of Razor Clawmark, the target takes 25% ATK (Rossi's) of Physical DMG per second and suffers Physical DMG Taken and Heat DMG Taken +6%.",
+      "zh-TW": "戰技的狼之珀造成傷害後，會對目標施加爪印斫痕狀態，持續15秒，該效果無法疊加。\n爪印斫痕持續期間，目標每秒受到洛西攻擊力25%的物理傷害，且受到的物理傷害和灼熱傷害+6%。",
+      "zh-CN": "战技的狼之珀造成伤害后，会对目标施加爪印斫痕状态，持续15秒，该效果无法叠加。\n爪印斫痕持续期间，目标每秒受到洛茜攻击力25%的物理伤害，且受到的物理伤害和灼热伤害+6%。",
+      "ja": "戦技による狼の至宝でダメージを与えると、15秒間目標に染まる爪痕状態を付与する（重ね掛け不可）\n染まる爪痕が持続する間、目標は1秒ごとにロッシの攻撃力25%分の物理ダメージを受け、さらに受ける物理ダメージと灼熱ダメージ+6%",
+      "ko": "배틀 스킬 울프팀의 진주가 피해를 준 후, 목표에게 늑대의 발톱 상태를 부여합니다. 15초 동안 지속되며, 해당 효과는 중첩되지 않습니다.\n늑대의 발톱이 지속되는 동안, 목표는 매초 로시 공격력 25%의 물리 피해를 받고, 받는 물리 피해와 열기 피해 +6%."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Battle skill improved: After Wolven Ambrage deals DMG, Rossi applies Razor Clawmark to the target for 25s. This effect cannot stack.\nFor the duration of Razor Clawmark, the target takes 30% ATK (Rossi's) of Physical DMG per second and suffers Physical DMG Taken and Heat DMG Taken +12%.",
+      "zh-TW": "戰技的狼之珀造成傷害後，會對目標施加爪印斫痕狀態，持續25秒，該效果無法疊加。\n爪印斫痕持續期間，目標每秒受到洛西攻擊力30%的物理傷害，且受到的物理傷害和灼熱傷害+12%。",
+      "zh-CN": "战技的狼之珀造成伤害后，会对目标施加爪印斫痕状态，持续25秒，该效果无法叠加。\n爪印斫痕持续期间，目标每秒受到洛茜攻击力30%的物理伤害，且受到的物理伤害和灼热伤害+12%。",
+      "ja": "戦技による狼の至宝でダメージを与えると、25秒間目標に染まる爪痕状態を付与する（重ね掛け不可）\n染まる爪痕が持続する間、目標は1秒ごとにロッシの攻撃力30%分の物理ダメージを受け、さらに受ける物理ダメージと灼熱ダメージ+12%",
+      "ko": "배틀 스킬 울프팀의 진주가 피해를 준 후, 목표에게 늑대의 발톱 상태를 부여합니다. 25초 동안 지속되며, 해당 효과는 중첩되지 않습니다.\n늑대의 발톱이 지속되는 동안, 목표는 매초 로시 공격력 30%의 물리 피해를 받고, 받는 물리 피해와 열기 피해 +12%."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Seething Blood",
+    "zh-TW": "沸血",
+    "zh-CN": "沸血",
+    "ja": "ざわめく血",
+    "ko": "끓어오르는 피"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When Rossi's skill deals Critical DMG to a Razor Clawmarked enemy, trigger another hit that deals 12% ATK (Rossi's) of Heat DMG and restores [Intellect × 0.04] HP to Rossi. If the target is also Combusted, then the aforementioned DMG and HP Restoration effects are increased to 1.5 times.",
+      "zh-TW": "洛西對處於爪印斫痕狀態的敵人施放技能造成暴擊傷害時，會額外觸發一次攻擊力12%的灼熱傷害，並且為自身回復[智識×0.04]點生命值。若目標同時處於燃燒狀態，則上述傷害和治療效果提升至1.5倍。",
+      "zh-CN": "洛茜对处于爪印斫痕状态的敌人施放技能造成暴击伤害时，会额外触发一次攻击力12%的灼热伤害，并且为自身回复[智识×0.04]点生命值。若目标同时处于燃烧状态，则上述伤害和治疗效果提升至1.5倍。",
+      "ja": "ロッシは染まる爪痕状態の敵にスキルで会心ダメージを与えるとき、攻撃力12%分の灼熱ダメージを1回追加で発動し、自身のHPを[知性×0.04]回復する\nさらに目標が燃焼状態の場合、ダメージとHP回復量が1.5倍になる",
+      "ko": "로시가 늑대의 발톱 상태의 적에게 스킬을 사용해 치명타 피해를 주면, 추가로 공격력 12%의 열기 피해를 1회 주고, [지능×0.04]만큼 자신의 생명력을 회복합니다. 목표가 연소 상태도 보유하고 있다면, 위의 피해 및 치유 효과가 1.5배로 증가합니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "When Rossi's skill deals Critical DMG to a Razor Clawmarked enemy, trigger another hit that deals 24% ATK (Rossi's) of Heat DMG and restores [Intellect × 0.08] HP to Rossi. If the target is also Combusted, then the aforementioned DMG and HP Restoration effects are increased to 1.5 times.",
+      "zh-TW": "洛西對處於爪印斫痕狀態的敵人施放技能造成暴擊傷害時，會額外觸發一次攻擊力24%的灼熱傷害，並且為自身回復[智識×0.08]點生命值。若目標同時處於燃燒狀態，則上述傷害和治療效果提升至1.5倍。",
+      "zh-CN": "洛茜对处于爪印斫痕状态的敌人施放技能造成暴击伤害时，会额外触发一次攻击力24%的灼热伤害，并且为自身回复[智识×0.08]点生命值。若目标同时处于燃烧状态，则上述伤害和治疗效果提升至1.5倍。",
+      "ja": "ロッシは染まる爪痕状態の敵にスキルで会心ダメージを与えるとき、攻撃力24%分の灼熱ダメージを1回追加で発動し、自身のHPを[知性×0.08]回復する\nさらに目標が燃焼状態の場合、ダメージとHP回復量が1.5倍になる",
+      "ko": "로시가 늑대의 발톱 상태의 적에게 스킬을 사용해 치명타 피해를 주면, 추가로 공격력 24%의 열기 피해를 1회 주고, [지능×0.08]만큼 자신의 생명력을 회복합니다. 목표가 연소 상태도 보유하고 있다면, 위의 피해 및 치유 효과가 1.5배로 증가합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Origin of Admiration",
+    "zh-TW": "憧憬的起點",
+    "zh-CN": "憧憬的起点",
+    "ja": "憧れの出発点",
+    "ko": "동경의 서막"
+   },
+   "text": {
+    "en": "Battle skill Crimson Shadow and combo skill Moment of Blazing Shadow improved: The DMG Multipliers of these skills are increased to 1.15 times of the original.\nWolven Ambrage of the battle skill also returns 10 SP after hitting the enemy.",
+    "zh-TW": "戰技血紅之影和連攜技燎影時刻的傷害倍率提升至原本的1.15倍。\n戰技釋放的狼之珀在命中敵人後返還10點技力。",
+    "zh-CN": "战技血红之影和连携技燎影时刻的伤害倍率提升至原本的1.15倍。\n战技释放的狼之珀在命中敌人后返还10点技力。",
+    "ja": "戦技「真紅の影」と連携技「刹那の影」のダメージ倍率が1.15倍までアップする\n戦技による狼の至宝は敵に命中したあと、SPが10返還される",
+    "ko": "배틀 스킬 붉은색의 그림자와 연계 스킬 그림자가 타오르는 순간의 피해 배율이 기존의 1.15배로 증가합니다.\n배틀 스킬로 인해 나타난 울프팀의 진주는 적을 명중한 후, 10포인트의 스킬 게이지를 반환합니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Gap to Perfection",
+    "zh-TW": "理想的距離",
+    "zh-CN": "理想的距离",
+    "ja": "理想との距離",
+    "ko": "완벽한 간격"
+   },
+   "text": {
+    "en": "Agility +20, Critical Rate +7%.",
+    "zh-TW": "敏捷+20，暴擊率+7%。",
+    "zh-CN": "敏捷+20，暴击率+7%。",
+    "ja": "敏捷+20、会心率+7%",
+    "ko": "민첩 +20, 치명타 확률 +7%"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Tangible Duties",
+    "zh-TW": "有形的責任",
+    "zh-CN": "有形的责任",
+    "ja": "責任の重み",
+    "ko": "가시화된 책임"
+   },
+   "text": {
+    "en": "Talent Seething Blood improved: When triggered, it grants Base DMG Multiplier +8% and restores HP +[Intellect × 0.04].",
+    "zh-TW": "天賦沸血效果加強：觸發的基礎傷害倍率+8%，回復的基礎生命值+[智識×0.04]。",
+    "zh-CN": "天赋沸血效果加强：触发的基础伤害倍率+8%，回复的基础生命值+[智识×0.04]。",
+    "ja": "素質「ざわめく血」強化：発動時の基礎ダメージ倍率+8%\n基礎HP回復量+[知性×0.04]",
+    "ko": "재능 끓어오르는 피 효과 강화: 기초 피해 배율 +8%, 기초 생명력 회복 +[지능×0.04]."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Innocent Wish",
+    "zh-TW": "純真的心願",
+    "zh-CN": "纯真的心愿",
+    "ja": "無垢な願い",
+    "ko": "순수한 소망"
+   },
+   "text": {
+    "en": "Ultimate \"Razorclaw\" Ambuscade improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技「利爪」奇襲所需的終結技能量-15%。",
+    "zh-CN": "终结技“利爪”奇袭所需的终结技能量-15%。",
+    "ja": "必殺技「“鋭爪”奇襲」に必要な必殺チャージ-15%",
+    "ko": "궁극기 기습 '날카로운 발톱'의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Legendary Destination",
+    "zh-TW": "傳說的終點",
+    "zh-CN": "传说的终点",
+    "ja": "伝説の終着点",
+    "ko": "전설의 종착지"
+   },
+   "text": {
+    "en": "Ultimate \"Razorclaw\" Ambuscade improved: DMG Multiplier is increased to 1.1 times of the original; Critical DMG Dealt is increased by +30%.",
+    "zh-TW": "終結技「利爪」奇襲的傷害倍率提升至原本的1.1倍，暴擊傷害額外+30%。",
+    "zh-CN": "终结技“利爪”奇袭的伤害倍率提升至原本的1.1倍，暴击伤害额外+30%。",
+    "ja": "必殺技「“鋭爪”奇襲」のダメージ倍率が1.1倍までアップし、会心ダメージはさらに+30%",
+    "ko": "궁극기 기습 '날카로운 발톱'의 피해 배율이 기존의 1.1배, 추가로 치명타 피해 +30%."
+   }
+  }
+ ]
+}

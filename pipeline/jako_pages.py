@@ -28,7 +28,6 @@ import re
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import jako_text  # noqa: E402
 from lint_page import frontmatter  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -63,6 +62,30 @@ def all_names():
     return names
 
 
+ED = os.path.join(ROOT, 'cache', 'third', 'ed', 'd847759f71d4549aba4727b3b0ac1a1ad0e37742')
+
+
+def _strip(s):
+    return re.sub(r'<[^>]*>|\{[^}]*\}', '', s or '').strip()
+
+
+def text_index():
+    """English text of the game's text tables -> the set of (Traditional Chinese, Japanese,
+    Korean) texts with the same id; Arts reactions also under their short English name."""
+    T = {k: json.load(open(os.path.join(ED, f'I18nTextTable_{k}.json'), encoding='utf8')) for k in ('EN', 'TC', 'JP', 'KR')}
+    by_en = collections.defaultdict(set)
+    for i, en in T['EN'].items():
+        tc, ja, ko = T['TC'].get(i), T['JP'].get(i), T['KR'].get(i)
+        if tc and ja and ko:
+            by_en[en.strip()].add((tc.strip(), ja.strip(), ko.strip()))
+    for i, en in T['EN'].items():
+        m = re.fullmatch(r'Arts Reaction: (\w+)', _strip(en))
+        if m and T['JP'].get(i) and T['KR'].get(i):
+            parts = [re.split(r'\s*[-:：－]\s*|・', _strip(T[k][i]))[-1] for k in ('TC', 'JP', 'KR')]
+            by_en[m.group(1)].add(tuple(parts))
+    return by_en
+
+
 def has(text, en):
     return re.search(r'(?<![A-Za-z])' + re.escape(en) + r'(?![A-Za-z])', text) is not None
 
@@ -75,7 +98,7 @@ def glossary(en_text, names):
             continue
         gloss[en] = {'en': en, 'zh-TW': e.get('zh-TW', ''), 'ja': e['ja'], 'ko': e['ko']}
     # Capitalised phrases the records lack, looked up in the game's text tables (one rendering only).
-    _, by_en = jako_text.index()
+    by_en = text_index()
     for phrase in set(re.findall(r'\b[A-Z][A-Za-z\'-]+(?: (?:of |the )?[A-Z][A-Za-z\'-]+){0,4}\b', en_text)):
         if phrase in gloss or ' ' not in phrase:
             continue

@@ -1,0 +1,330 @@
+{
+ "slug": "arcane",
+ "gameId": "chr_0032_lizhiyan",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"I will uphold the honor of the Yinglungs.\"\nYinglung Special Task Force (YSTF) captain, Arcane, long stationed at Yinglung Pass, frequently undertakes survey missions within the exclusion zone. She is serious, meticulous, and never one to smile readily.\nThe disaster in the North Wuling Exclusion Zone took everything from Arcane. Since then, her only purpose in life has been to contain the Wuling Very Large Rift. She has ventured deep into it time and again. Hatred leads her step by step into the Deep, yet it also keeps her alive when all hope seems lost.\nYou can find all the qualities of a YSTF member in Arcane: absolute obedience to orders, outstanding tactical command, relentless training day and night, and an unyielding spirit. Those who have likewise lost loved ones to disasters can see a part of themselves in Arcane...\nSome find her frigid, but for YSTF members, maintaining distance is also a form of mutual protection.\n\"Be of ferrium will, move as a razor's edge. Yinglung wins by momentum.\"",
+  "zh-TW": "「定不辱應龍之名。」\n應龍特勤隊行動隊長，訣。長期駐守應龍關，多次執行高危險的禁區勘測任務。為人嚴肅認真，不苟言笑。\n北部禁區的災難奪走了訣的一切，從那以後，她便只為一個目標而活——遏制武陵甚大裂隙。她一次次地深入那裡，仇恨推著她一步步邁入深淵，又支撐著她從絕境中倖存。\n你能在訣的身上看到一名應龍特勤隊員應有的全部特質：對命令的絕對服從、卓越的戰術指揮、不分晝夜的刻苦訓練，以及百折不撓的信念。對那些同樣因災難失去親人的人而言，他們都能從訣身上瞥見一部分自己……\n總是有人覺得她過於冰冷，但對於應龍隊員來說，不與人靠得太近，也是一種對彼此的保護。\n「心如鑄鐵，行如劍鋒。應龍的戰法重在其勢。」",
+  "zh-CN": "“定不辱应龙之名。”\n应龙特勤队行动队长，诀。长期驻守应龙关，多次执行高危险的禁区勘测任务。为人严肃认真，不苟言笑。\n北部禁区的灾难夺走了诀的一切，从那以后，她便只为一个目标而活——遏制武陵甚大裂隙。她一次次地深入那里，仇恨推着她一步步迈入深渊，又支撑着她从绝境中幸存。\n你能在诀的身上看到一名应龙特勤队员应有的全部品质，对命令的绝对服从、卓越的战术指挥、不分昼夜的刻苦训练，以及百折不挠的信念。对那些同样因灾难失去亲人的人而言，他们都能从诀身上瞥见一部分自己……\n总有人觉得她过于冰冷，但对于应龙队员来说，不与人靠得太近，也是一种对彼此的保护。\n“心如铸铁，行如剑锋。应龙的战法重在其势。”",
+  "ja": "「応龍の名を、汚しはしない。」\n応龍特殊部隊の作戦隊長、オクギ。長年にわたり応龍関に駐留し、危険な封鎖区域調査任務を何度も遂行してきた。厳格かつ真面目で、滅多に表情を崩さない。\n武陵北部封鎖区域の災害は、オクギからすべてを奪った。以来、彼女は、武陵の巨大な裂け目を封じる――その1つの目的のために生きてきた。幾度となくその地へ足を踏み入れ、憎しみに突き動かされるように深淵へと進み、そしてその憎しみに支えられながら、死地を生き延びてきた。\nオクギの姿には、応龍特殊部隊に求められるあらゆる資質が備わっている。命令への絶対的な服従、卓越した戦術指揮、昼夜を問わぬ鍛錬、そして決して折れることのない信念。災害によって大切な人を失った者たちは、彼女の中に、どこか自分自身の面影を見るのかもしれない……\n彼女をあまりにも冷たい人間だと言う者もいる。だが、応龍の隊員にとって、人と深く関わりすぎないこともまた、互いを守るための術なのである。\n「心は鋳鉄の如く、行は剣先の如く。応龍の戦法は気勢を重んじる。」",
+  "ko": "\"절대, 응룡의 이름을 더럽히지 않겠습니다.\"\n응룡 특수부대 행동 대장 '결'은 오랜 시간 응룡 관문 주둔 임무를 맡으며, 위험천만한 금지 구역 조사 임무를 수차례 수행해 왔다. 늘 진중하고 엄숙한 성격으로 좀처럼 경솔한 모습을 보이지 않는다.\n북쪽 금지 구역을 덮친 재앙은 결의 모든 것을 앗아갔다. 그날 이후, 결은 오로지 무릉 대균열을 억제하겠다는 목표를 위해서 살아왔다. 결은 몇 번이고 그곳으로 몸을 던졌고, 증오는 그녀를 심연으로 밀어 넣었지만 동시에 위기 속에서 살아남게 만드는 버팀목이 되어 주기도 했다.\n결은 명령에 대한 복종, 뛰어난 전술 지휘 능력, 밤낮을 가리지 않는 혹독한 훈련, 그리고 절대 꺾이지 않는 굳건한 신념까지, 응룡 특수부대 대원으로서 갖춰야 할 모든 자질을 보여준다. 재앙으로 소중한 사람들을 잃은 이들은 결의 모습에서 저마다 자신의 모습을 조금씩 발견하곤 한다...\n물론 간혹 그녀가 너무 냉정하다고 생각하는 이들도 있다. 하지만 응룡 대원들은 타인과 적당한 거리를 두는 것이 서로를 지키는 방법이라는 것을 잘 알고 있다.\n\"마음은 강철처럼, 행동은 검날처럼... 응룡 전법의 핵심은 기세입니다.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Artillery Interdiction",
+    "zh-TW": "重火力截擊",
+    "zh-CN": "重火力截击",
+    "ja": "重火力迎撃",
+    "ko": "중화력 요격"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Nature DMG. As the controlled operator, Final Strike also deals 17 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Nature DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Nature DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成自然傷害。作為主控幹員時，重擊會造成17點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成自然傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量自然傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成自然伤害。作为主控干员时，重击会造成17点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成自然伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量自然伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に自然ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値17を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に自然ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い自然ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 자연 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 17포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 자연 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 자연 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Jadecrushing Grid",
+    "zh-TW": "摧玉網格",
+    "zh-CN": "摧玉网格",
+    "ja": "砕玉領域",
+    "ko": "결정 파쇄 그리드"
+   },
+   "text": {
+    "en": "Creates a Jadecrushing Grid that deals Nature DMG and applies Nature Infliction to enemies within the area of effect.",
+    "zh-TW": "在目標腳下建立摧玉網格，對範圍內敵人造成自然傷害並施加自然附著。",
+    "zh-CN": "在目标脚下创建摧玉网格，对范围内敌人造成自然伤害并施加自然附着。",
+    "ja": "目標の足元に砕玉領域を展開し、範囲内の敵に自然ダメージを与え、さらに自然付着を付与する。",
+    "ko": "목표의 발밑에 결정 파쇄 그리드를 생성합니다. 범위 내의 적에게 자연 피해를 주고, 자연 부착을 부여합니다."
+   },
+   "conditions": [
+    {
+     "name": {
+      "en": "Array Arcana: INT",
+      "zh-TW": "陣訣·智",
+      "zh-CN": "阵诀·智",
+      "ja": "陣訣・知",
+      "ko": "진결 · 지혜"
+     },
+     "text": {
+      "en": "Array Arcana: INT:\n- Deals more DMG.",
+      "zh-TW": "陣訣·智：\n- 造成的傷害更高。",
+      "zh-CN": "阵诀·智：\n- 造成的伤害更高。",
+      "ja": "陣訣・知：\n- 与えるダメージがさらに高くなる。",
+      "ko": "진결 · 지혜:\n- 주는 피해가 증가합니다."
+     }
+    },
+    {
+     "name": {
+      "en": "Array Arcana: WILL",
+      "zh-TW": "陣訣·意",
+      "zh-CN": "阵诀·意",
+      "ja": "陣訣・意",
+      "ko": "진결 · 의지"
+     },
+     "text": {
+      "en": "Array Arcana: WILL:\n- When dealing DMG, the array also pulls in enemies within the area of effect.",
+      "zh-TW": "陣訣·意：\n- 造成傷害時會向中心牽引範圍內的敵人。",
+      "zh-CN": "阵诀·意：\n- 造成伤害时会向中心牵引范围内的敌人。",
+      "ja": "陣訣・意：\n- ダメージを与える際、範囲内の敵を中心に牽引する。",
+      "ko": "진결 · 의지:\n- 피해를 줄 때, 범위 내의 적을 중심으로 끌어당깁니다."
+     }
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Yinglung Stance IV",
+    "zh-TW": "應龍四式",
+    "zh-CN": "应龙四式",
+    "ja": "応龍四式",
+    "ko": "응룡 4식"
+   },
+   "text": null,
+   "conditions": [
+    {
+     "name": {
+      "en": "Array Arcana: INT",
+      "zh-TW": "陣訣·智",
+      "zh-CN": "阵诀·智",
+      "ja": "陣訣・知",
+      "ko": "진결 · 지혜"
+     },
+     "text": {
+      "en": "COMBO TRIGGER: When Nature Infliction or at least 2 stacks of non-Nature Arts Infliction are applied on an enemy.\nArcane charges at the target and sets up 4 Tactical Doubles that apply Nature Susceptibility and Cryo Susceptibility and deal Nature DMG to the target and nearby enemies, and also apply Imprisonment on the said target. When Imprisonment ends, the Tactical Doubles will attack the said target to deal Explosion DMG.\nImprisonment: A debuff that slows all actions.\nArray Arcana: INT:\n- Hitting an enemy under Imprisonment with Arcane's battle skill returns some SP, ends the Imprisonment early, deals Explosion DMG, applies another instance of Nature Susceptibility and Cryo Susceptibility, and deals multiple hits of bonus DMG after a short delay.\n- Combo skill cooldown is shorter.",
+      "zh-TW": "當有敵人被施加自然附著或進入2層及以上其他法術附著時可以發動。\n衝向目標，設置四個戰術分身對其及周圍的敵人施加自然脆弱和寒冷脆弱，造成自然傷害，並使該目標進入囹圄狀態。囹圄狀態結束時，戰術分身向其攻擊，並造成爆炸傷害。\n囹圄狀態：所有行動減緩。\n陣訣·智：\n- 當自身戰技命中處於囹圄狀態的敵人時，返還一定技力，提前結束囹圄狀態，造成爆炸傷害，並再次施加自然脆弱和寒冷脆弱，短暫延遲後，造成多段額外傷害。\n- 連攜技冷卻時間更短。",
+      "zh-CN": "当有敌人被施加自然附着或进入2层及以上其他法术附着时可以发动。\n冲向目标，设置四个战术分身对其及周围的敌人施加自然脆弱和寒冷脆弱，造成自然伤害，并使该目标进入囹圄状态。囹圄状态结束时，战术分身向其攻击，并造成爆炸伤害。\n囹圄状态：所有行动减缓。\n阵诀·智：\n- 当自身战技命中处于囹圄状态的敌人时，返还一定技力，提前结束囹圄状态，造成爆炸伤害，并再次施加自然脆弱和寒冷脆弱，短暂延迟后，造成多段额外伤害。\n- 连携技冷却时间更短。",
+      "ja": "敵に自然付着が付与されるか2段階以上の他のアーツ付着状態になったときに発動可能。\n目標へ突進し、4体の戦術分身を配置して、目標と周囲の敵に自然脆弱と寒冷脆弱を付与し、自然ダメージを与え、その目標を牢獄状態にする。牢獄状態が終わるとき、戦術分身が目標を攻撃し、さらに爆発ダメージを与える。\n牢獄状態：すべての行動が遅くなる。\n陣訣・知：\n- 自身の戦技が牢獄状態の敵に命中したとき、SPが一定量返還される。その時点で牢獄状態が終了し、爆発ダメージを与え、再度自然脆弱と寒冷脆弱を付与する。一定時間後に複数回の追加ダメージを与える。\n- 連携技のクールタイムがさらに短くなる。",
+      "ko": "자연 부착 또는 2스택 이상의 다른 아츠 부착이 부여된 적이 있을 때 발동할 수 있습니다.\n목표에게 돌진하여 네 명의 전술 분신을 배치해 대상과 주변의 적에게 자연 취약과 냉기 취약을 부여하고, 자연 피해를 주며, 해당 목표를 구속 상태로 만듭니다. 구속 상태가 종료될 때, 전술 분신이 대상을 공격하고 폭발 피해를 줍니다.\n구속 상태: 모든 행동이 느려집니다.\n진결 · 지혜:\n- 자신의 배틀 스킬이 구속 상태의 적에게 명중할 때, 일정량의 스킬 게이지를 반환하고, 구속 상태를 조기에 종료함과 동시에 폭발 피해를 주고, 다시 자연 취약과 냉기 취약을 부여하며, 잠시 후 여러 단계의 추가 피해를 줍니다.\n- 연계 스킬의 쿨타임이 더 짧아집니다."
+     }
+    },
+    {
+     "name": {
+      "en": "Array Arcana: WILL",
+      "zh-TW": "陣訣·意",
+      "zh-CN": "阵诀·意",
+      "ja": "陣訣・意",
+      "ko": "진결 · 의지"
+     },
+     "text": {
+      "en": "COMBO TRIGGER: When an Arts Infliction is applied on an enemy.\nArcane charges at the target and sets up 4 Tactical Doubles that deal Nature DMG and apply another stack of Arts Infliction of the same element, Nature Susceptibility, and Cryo Susceptibility to the target and nearby enemies, and also apply Imprisonment on the said target. When Imprisonment ends, the Tactical Doubles will attack the said target to deal Explosion DMG.\nImprisonment: A debuff that slows all actions.\nArray Arcana: WILL:\n- Applying Imprisonment by casting a combo skill will also slightly pull in enemies near the target.\n- The attribute of Will can further increase the effects of Nature Susceptibility and Cryo Susceptibility applied by the combo skill.",
+      "zh-TW": "當有敵人被施加法術附著時可以發動。\n衝向目標，設置四個戰術分身對其及周圍的敵人再次施加該法術附著、自然脆弱和寒冷脆弱，造成自然傷害，並使該目標進入囹圄狀態。囹圄狀態結束時，戰術分身向其攻擊，並造成爆炸傷害。\n囹圄狀態：所有行動減緩。\n陣訣·意：\n- 施放連攜技使敵人進入囹圄狀態時，會小幅牽引範圍內的敵人。\n- 意志可以額外提升連攜技施加的自然脆弱和寒冷脆弱效果。",
+      "zh-CN": "当有敌人被施加法术附着时可以发动。\n冲向目标，设置四个战术分身对其及周围的敌人再次施加该法术附着、自然脆弱和寒冷脆弱，造成自然伤害，并使该目标进入囹圄状态。囹圄状态结束时，战术分身向其攻击，并造成爆炸伤害。\n囹圄状态：所有行动减缓。\n阵诀·意：\n- 施放连携技使敌人进入囹圄状态时，会小幅牵引范围内的敌人。\n- 意志可以额外提升连携技施加的自然脆弱和寒冷脆弱效果。",
+      "ja": "敵にアーツ付着が付与されたときに発動可能。\n目標へ突進し、4体の戦術分身を配置して目標と周囲の敵に再度アーツ付着、自然脆弱、寒冷脆弱を付与し、自然ダメージを与え、その目標を牢獄状態にする。牢獄状態が終わるとき、戦術分身が目標を攻撃し、さらに爆発ダメージを与える。\n牢獄状態：すべての行動が遅くなる。\n陣訣・意：\n- 連携技を発動して敵を牢獄状態にしたとき、範囲内の敵をわずかに牽引する。\n- 意志が高いほど連携技で付与する自然脆弱と寒冷脆弱効果が追加でアップする。",
+      "ko": "아츠 부착이 부여된 적이 있을 때 발동할 수 있습니다.\n목표에게 돌진하여 네 명의 전술 분신을 배치해 대상과 주변의 적에게 아츠 부착과 자연 취약, 냉기 취약을 부여하고, 자연 피해를 주며, 해당 목표를 구속 상태로 만듭니다. 구속 상태가 종료될 때, 전술 분신이 대상을 공격하고 폭발 피해를 줍니다.\n구속 상태: 모든 행동이 느려집니다.\n진결 · 의지:\n- 연계 스킬로 적을 구속 상태로 만들면, 범위 내의 적을 소폭 끌어당깁니다.\n- 의지는 연계 스킬이 부여하는 자연 취약과 냉기 취약 효과를 추가로 증가시킵니다."
+     }
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Gloompurge",
+    "zh-TW": "破晦",
+    "zh-CN": "破晦",
+    "ja": "破晦",
+    "ko": "어스름 파훼"
+   },
+   "text": {
+    "en": "Arcane creates a Gloompurger Array that immediately deals Nature DMG to enemies within the area of effect (AOE).\nWhen hitting an enemy within the Gloompurger Array with a Finisher or a Final Strike performed by the controlled operator, the Gloompurger Array unleashes a Cluster Strike that deals Area DMG to the said enemy. This effect triggers up to 2 times.\nAfter triggering Cluster Strike 2 times, the ultimate is switched to Gloompurge Arcana.\nGloompurge Arcana: Deals Nature DMG to enemies within a large AOE.",
+    "zh-TW": "生成破晦陣，對區域內的敵人立即造成自然傷害。\n處於破晦陣中的敵人被處決或受到主控幹員重擊時，破晦陣將對其發動集束打擊，造成範圍傷害，最多發動2次。\n當發動2次集束打擊後，終結技切換為破晦訣明。\n破晦訣明：對前方大範圍內敵人造成自然傷害。",
+    "zh-CN": "生成破晦阵，对区域内的敌人立即造成自然伤害。\n处于破晦阵中的敌人被处决或受到主控干员重击时，破晦阵将对其发动集束打击，造成范围伤害，最多发动2次。\n当发动2次集束打击后，终结技切换为破晦诀明。\n破晦诀明：对前方大范围内敌人造成自然伤害。",
+    "ja": "破晦陣を生成し、範囲内の敵に自然ダメージを与える。\n破晦陣内の敵が終撃または操作オペレーターの重攻撃を受けたとき、破晦陣がその敵に集中攻撃を発動し、範囲ダメージを与える。（最大2回まで発動）\n集中攻撃が2回発動すると、必殺技は破晦訣明に切り替わる。\n破晦訣明：前方広範囲の敵に自然ダメージを与える。",
+    "ko": "어스름 파훼의 진을 생성하여, 구역 내의 적에게 즉시 자연 피해를 줍니다.\n어스름 파훼의 진 내의 적이 처형되거나 메인 컨트롤 오퍼레이터의 강력한 일격을 받을 경우, 어스름 파훼의 진은 대상에게 집중 공격을 발동하여 범위 피해를 줍니다. 최대 2회까지 발동.\n집중 공격이 2회 발동된 후, 궁극기가 어스름 파훼의 깨달음으로 전환됩니다.\n어스름 파훼의 깨달음: 전방 넓은 범위 내의 적에게 자연 피해를 줍니다."
+   },
+   "conditions": [
+    {
+     "name": {
+      "en": "Array Arcana: INT",
+      "zh-TW": "陣訣·智",
+      "zh-CN": "阵诀·智",
+      "ja": "陣訣・知",
+      "ko": "진결 · 지혜"
+     },
+     "text": {
+      "en": "Array Arcana: INT:\n- When created, the Gloompurger Array also forcibly applies Corrosion to enemies in the AOE.",
+      "zh-TW": "陣訣·智：\n- 破晦陣生成時，還會對區域內的敵人強制施加腐蝕。",
+      "zh-CN": "阵诀·智：\n- 破晦阵生成时，还会对区域内的敌人强制施加腐蚀。",
+      "ja": "陣訣・知：\n- 破晦陣を生成する際、範囲内の敵を強制的に腐食状態にする。",
+      "ko": "진결 · 지혜:\n- 어스름 파훼의 진이 생성될 때, 해당 구역 내의 적에게 강제로 부식을 부여합니다."
+     }
+    },
+    {
+     "name": {
+      "en": "Array Arcana: WILL",
+      "zh-TW": "陣訣·意",
+      "zh-CN": "阵诀·意",
+      "ja": "陣訣・意",
+      "ko": "진결 · 의지"
+     },
+     "text": {
+      "en": "Array Arcana: WILL:\n- When created, the Gloompurger Array also targets enemies with Arts Infliction within its AOE, and applies another Arts Infliction stack of the same element to them.",
+      "zh-TW": "陣訣·意：\n- 破晦陣生成時，還會對區域內處於法術附著狀態的敵人再次施加該法術附著。",
+      "zh-CN": "阵诀·意：\n- 破晦阵生成时，还会对区域内处于法术附着状态的敌人再次施加该法术附着。",
+      "ja": "陣訣・意：\n- 破晦陣を生成する際、範囲内のアーツ付着状態の敵に再度同じアーツ付着を付与する。",
+      "ko": "진결 · 의지:\n- 어스름 파훼의 진이 생성될 때, 해당 구역 내의 아츠 부착 상태의 적에게 다시 해당 아츠 부착을 부여합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Tactical Planning",
+    "zh-TW": "籌謀",
+    "zh-CN": "筹谋",
+    "ja": "画策",
+    "ko": "전략 수립"
+   },
+   "levels": [
+    {
+     "promotion": 0,
+     "text": {
+      "en": "When Arcane's Intellect ≥ Will, switch skill type to Array Arcana: INT. If not, then switch to Array Arcana: WILL.\nAttribute requirements for the 2 types of Array Arcana only include effects from operator levels, talents, potentials, and attribute bonuses provided by equipped gear and weapons.",
+      "zh-TW": "當自身智識值≥意志值時，技能形態切換為陣訣·智，反之技能形態切換為陣訣·意。\n兩種陣訣的能力值要求只受幹員等級提升、天賦、潛能、裝備和武器提供的面板能力值影響。",
+      "zh-CN": "当自身智识值≥意志值时，技能形态切换为阵诀·智，反之技能形态切换为阵诀·意。\n两种阵诀的能力值要求只受干员等级提升、天赋、潜能、装备和武器提供的面板能力值影响。",
+      "ja": "自身が知性≥意志のとき、スキル形態は陣訣・知に切り替わり、逆の場合は陣訣・意に切り替わる\n各陣訣の能力値条件は、オペレーターのレベル、素質、潜在、装備および武器のステータス画面の能力値のみに影響される",
+      "ko": "자신의 지능 수치 ≥ 의지 수치일 경우, 스킬 형태가 진결 · 지혜로 전환됩니다. 그 반대의 경우 스킬 형태가 진결 · 의지로 전환됩니다.\n두 진결의 능력치 조건은 오퍼레이터 레벨 증가, 재능, 잠재 능력, 장비 및 무기가 제공하는 패널 능력치의 영향만 받습니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When Arcane's Intellect ≥ Will, switch skill type to Array Arcana: INT. If not, then switch to Array Arcana: WILL.\nUltimate Gloompurge improved:\nArray Arcana: INT:\n- During the ultimate, Arcane gains 24% Arts Amp.\nArray Arcana: WILL:\n- When Gloompurger Array (ultimate sequence 1) and Gloompurge Arcana (ultimate sequence 2) deal DMG to the enemy, they also apply [Will × 0.02%] Nature Susceptibility and Cryo Susceptibility (max: 12.8%) for 10s. This effect cannot stack.\nAttribute requirements for the 2 types of Array Arcana only include effects from operator levels, talents, potentials, and attribute bonuses provided by equipped gear and weapons.",
+      "zh-TW": "當自身智識值≥意志值時，技能形態切換為陣訣·智，反之技能形態切換為陣訣·意。\n終結技破晦效果加強：\n陣訣·智：\n- 終結技期間，自身獲得24%法術增幅。\n陣訣·意：\n- 終結技一段破晦陣和二段破晦訣明對敵人造成傷害時，會施加[意志×0.02%]自然脆弱和寒冷脆弱（最多12.8%），持續10秒，該效果無法疊加。\n兩種陣訣的能力值要求只受幹員等級提升、天賦、潛能、裝備和武器提供的面板能力值影響。",
+      "zh-CN": "当自身智识值≥意志值时，技能形态切换为阵诀·智，反之技能形态切换为阵诀·意。\n终结技破晦效果加强：\n阵诀·智：\n- 终结技期间，自身获得24%法术增幅。\n阵诀·意：\n- 终结技一段破晦阵和二段破晦诀明对敌人造成伤害时，会施加[意志×0.02%]自然脆弱和寒冷脆弱（最多12.8%），持续10秒，该效果无法叠加。\n两种阵诀的能力值要求只受干员等级提升、天赋、潜能、装备和武器提供的面板能力值影响。",
+      "ja": "自身が知性≥意志のとき、スキル形態は陣訣・知に切り替わり、逆の場合は陣訣・意に切り替わる\n必殺技「破晦」強化：\n陣訣・知：\n- 必殺技期間中、自身が24%のアーツ増幅を獲得する\n陣訣・意：\n- 必殺技1段目「破晦陣」と2段目「破晦訣明」で敵にダメージを与えるとき、10秒間持続する[意志×0.02%]の自然脆弱と寒冷脆弱（最大12.8%）を付与する（重ね掛け不可）\n各陣訣の能力値条件は、オペレーターのレベル、素質、潜在、装備および武器のステータス画面の能力値のみに影響される",
+      "ko": "자신의 지능 수치 ≥ 의지 수치일 경우, 스킬 형태가 진결 · 지혜로 전환됩니다. 그 반대의 경우 스킬 형태가 진결 · 의지로 전환됩니다.\n궁극기 어스름 파훼의 효과가 강화됩니다.\n진결 · 지혜:\n- 궁극기 지속 중, 자신은 24%의 아츠 증폭을 획득합니다.\n진결 · 의지:\n- 궁극기 1단계 어스름 파훼의 진 및 2단계 어스름 파훼의 깨달음이 적에게 피해를 줄 때, [의지×0.02%]의 자연 취약 및 냉기 취약(최대 12.8%)을 부여합니다. 10초 동안 지속, 해당 효과는 중첩되지 않습니다.\n두 진결의 능력치 조건은 오퍼레이터 레벨 증가, 재능, 잠재 능력, 장비 및 무기가 제공하는 패널 능력치의 영향만 받습니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Weapon Honing",
+    "zh-TW": "厲兵",
+    "zh-CN": "厉兵",
+    "ja": "研ぎ澄ます",
+    "ko": "무장 강화"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Corrosion applied by Arcane lasts 5s longer, and Max Resistance Reduction is increased to 1.05 times the original.",
+      "zh-TW": "自身施加的腐蝕效果持續時間+5秒，且降低的最大抗性提升至原本的1.05倍。",
+      "zh-CN": "自身施加的腐蚀效果持续时间+5秒，且降低的最大抗性提升至原本的1.05倍。",
+      "ja": "自身が付与する腐食効果の持続時間+5秒、ダウンさせる最大耐性値が1.05倍までアップする",
+      "ko": "자신이 부여하는 부식 효과의 지속 시간 +5초, 감소하는 최대 저항이 기존의 1.05배로 증가합니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Corrosion applied by Arcane lasts 10s longer, and Max Resistance Reduction is increased to 1.1 times the original.",
+      "zh-TW": "自身施加的腐蝕效果持續時間+10秒，且降低的最大抗性提升至原本的1.1倍。",
+      "zh-CN": "自身施加的腐蚀效果持续时间+10秒，且降低的最大抗性提升至原本的1.1倍。",
+      "ja": "自身が付与する腐食効果の持続時間+10秒、ダウンさせる最大耐性値が1.1倍までアップする",
+      "ko": "자신이 부여하는 부식 효과의 지속 시간 +10초, 감소하는 최대 저항이 기존의 1.1배로 증가합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Watcher of the Sea",
+    "zh-TW": "觀海",
+    "zh-CN": "观海",
+    "ja": "観海",
+    "ko": "조류를 향한 시선"
+   },
+   "text": {
+    "en": "Combo skill Yinglung Stance IV improved:\nDMG Multiplier is increased to 1.3 times the original.\nArray Arcana: INT: Hitting an enemy under Imprisonment with Arcane's battle skill returns 10 additional SP.\nArray Arcana: WILL: Effects of Nature Susceptibility and Cryo Susceptibility applied +6%.",
+    "zh-TW": "連攜技應龍四式效果加強：\n傷害倍率提升至原本的1.3倍。\n陣訣·智：當自身戰技命中處於囹圄狀態的敵人時，額外返還10點技力。\n陣訣·意：施加的自然脆弱和寒冷脆弱效果額外+6%。",
+    "zh-CN": "连携技应龙四式效果加强：\n伤害倍率提升至原本的1.3倍。\n阵诀·智：当自身战技命中处于囹圄状态的敌人时，额外返还10点技力。\n阵诀·意：施加的自然脆弱和寒冷脆弱效果额外+6%。",
+    "ja": "連携技「応龍四式」強化：\nダメージ倍率が1.3倍までアップする\n陣訣・知：自身の戦技が牢獄状態の敵に命中したとき、SPが追加で10返還される\n陣訣・意：自然脆弱と寒冷脆弱効果がさらに+6%",
+    "ko": "연계 스킬 응룡 4식 효과가 강화됩니다.\n피해 배율이 기존의 1.3배로 증가합니다.\n진결 · 지혜: 자신의 배틀 스킬이 구속 상태의 적에게 명중할 때, 추가로 스킬 게이지를 10포인트 반환합니다.\n진결 · 의지: 부여하는 자연 취약 및 냉기 취약 효과가 추가로 +6%."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Heart of Ice Cold Ferrium",
+    "zh-TW": "心如寒鐵",
+    "zh-CN": "心如寒铁",
+    "ja": "鉄の心",
+    "ko": "한결 같은 마음"
+   },
+   "text": {
+    "en": "Intellect and Will +15, Arts Intensity +16.",
+    "zh-TW": "智識和意志+15，源石技藝強度+16。",
+    "zh-CN": "智识和意志+15，源石技艺强度+16。",
+    "ja": "知性と意志+15、アーツ強度+16",
+    "ko": "지능과 의지 +15, 오리지늄 아츠 강도 +16."
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Wielder of Stone",
+    "zh-TW": "銜石",
+    "zh-CN": "衔石",
+    "ja": "銜石",
+    "ko": "끈기"
+   },
+   "text": {
+    "en": "Talent Weapon Honing improved:\nCorrosion applied by Arcane lasts 5s longer, and Max Resistance Reduction is increased by 20% of the original.",
+    "zh-TW": "天賦厲兵效果加強：\n自身施加的腐蝕效果持續時間額外+5秒，且降低的最大抗性額外提升原本的20%。",
+    "zh-CN": "天赋厉兵效果加强：\n自身施加的腐蚀效果持续时间额外+5秒，且降低的最大抗性额外提升原本的20%。",
+    "ja": "素質「研ぎ澄ます」強化：\n自身が付与する腐食効果の持続時間がさらに+5秒、ダウンさせる最大耐性値が追加で20%アップする",
+    "ko": "재능 무장 강화 효과가 강화됩니다.\n자신이 부여하는 부식 효과의 지속 시간이 추가로 +5초, 감소하는 최대 저항이 추가로 기존의 20%만큼 증가합니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Mind of Refined Steel",
+    "zh-TW": "念如精鋼",
+    "zh-CN": "念如精钢",
+    "ja": "鋼の精神",
+    "ko": "흔들림 없는 정신"
+   },
+   "text": {
+    "en": "Ultimate Gloompurge improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技破晦所需的終結技能量-15%。",
+    "zh-CN": "终结技破晦所需的终结技能量-15%。",
+    "ja": "必殺技「破晦」に必要な必殺チャージ-15%",
+    "ko": "궁극기 어스름 파훼의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Homeward Glance",
+    "zh-TW": "回眸",
+    "zh-CN": "回眸",
+    "ja": "回顧",
+    "ko": "회상"
+   },
+   "text": {
+    "en": "Ultimate Gloompurge improved:\nArray Arcana: INT: During the ultimate, Arcane gains 16% Arts Amp. DMG Multiplier of Gloompurge Arcana (ultimate sequence 2) is increased to 1.3 times the original.\nArray Arcana: WILL: Further increases the effects of Nature Susceptibility and Cryo Susceptibility applied by Gloompurger Array (ultimate sequence 1) and Gloompurge Arcana (ultimate sequence 2) by +7%. After casting Gloompurge Arcana (ultimate sequence 2), if combo skill Yinglung Stance IV is still in its cooldown, immediately shorten the length of the cooldown by 30%.",
+    "zh-TW": "終結技破晦效果加強：\n陣訣·智：終結技期間額外獲得16%法術增幅，終結技二段破晦訣明的傷害倍率提升至原本的1.3倍。\n陣訣·意：終結技一段破晦陣和二段破晦訣明施加的自然脆弱和寒冷脆弱效果額外+7%，施放終結技二段破晦訣明後，若連攜技應龍四式處於冷卻中，立即恢復30%冷卻時間。",
+    "zh-CN": "终结技破晦效果加强：\n阵诀·智：终结技期间额外获得16%法术增幅，终结技二段破晦诀明的伤害倍率提升至原本的1.3倍。\n阵诀·意：终结技一段破晦阵和二段破晦诀明施加的自然脆弱和寒冷脆弱效果额外+7%，施放终结技二段破晦诀明后，若连携技应龙四式处于冷却中，立即恢复30%冷却时间。",
+    "ja": "必殺技「破晦」強化：\n陣訣・知：必殺技の期間中、16%のアーツ増幅を獲得し、必殺技2段目「破晦訣明」のダメージ倍率が1.3倍までアップする\n陣訣・意：必殺技1段目「破晦陣」と2段目「破晦訣明」で付与する自然脆弱と寒冷脆弱効果がさらに+7%、必殺技2段目「破晦訣明」を発動したあと、連携技「応龍四式」がクールタイム中であれば、即座にCD時間30%を回復する",
+    "ko": "궁극기 어스름 파훼 효과가 강화됩니다.\n진결 · 지혜: 궁극기 지속 중 추가로 16%의 아츠 증폭을 획득하며, 궁극기 2단계 어스름 파훼의 깨달음의 피해 배율이 기존의 1.3배로 증가합니다.\n진결 · 의지: 궁극기 1단계 어스름 파훼의 진 및 2단계 어스름 파훼의 깨달음이 부여하는 자연 취약 및 냉기 취약 효과가 추가로 +7%, 궁극기 2단계 어스름 파훼의 깨달음 사용 후, 연계 스킬 응룡 4식이 쿨타임 상태라면 쿨타임을 즉시 30% 회복합니다."
+   }
+  }
+ ]
+}

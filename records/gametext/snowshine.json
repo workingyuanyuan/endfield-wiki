@@ -1,0 +1,237 @@
+{
+ "slug": "snowshine",
+ "gameId": "chr_0014_aurora",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Wind speed's okay. Visibility's good. Perfect weather for snowboarding.\"  Snowshine is a Rhodes Island operator assigned to Endfield Industries where she serves as a search and rescue (SAR) professional under the framework agreement between the two companies.  For well-known reasons, the true polar regions of Talos-II remain off-limits to humanity. However, as frontier expansion resumes, professionals like Snowshine who specialize in the geography of polar and high-altitude regions are in growing demand within the Civilization Band.  Because of the significant talent gap, Snowshine and her rescue team are always faced with a busy schedule, even on days with no special missions.  Despite her packed schedule, she managed to write a book titled Polar Survival Guide in her free time. The book has since become a key reference for survival and SAR operations in the harsh, snowy environments of Talos-II.\n\"I like the snow, the white-capped mountains, and the shimmering beauty revealed only in the frigid cold... This is why I don't want them to leave painful memories to the people they touch.\"",
+  "zh-TW": "「風速適中，能見度良好，是滑雪的好天氣。」  晝雪來自羅德島，在該公司與終末地工業的協議架構範圍內，以救援專家的身分為終末地工業提供服務。  由於眾所周知的原因，塔衛二真正的極地目前對於人類而言還是個禁區。但隨著開拓區重新擴大，文明環帶對像晝雪這樣瞭解極地和高海拔區地理環境的專家的需求不言而喻。  正因為這一巨大的人才缺口，即使沒有特殊任務時，晝雪和她的救援隊伍每天也很忙碌。  不過她還是利用業餘時間完成了她的《極地生存指南》，這本書已經成為了塔衛二冰雪條件下的生存與救援所不可或缺的重要參考。    「我喜歡冰雪，喜歡雪山，喜歡這些嚴寒下依然璀璨的事物……所以我才更不希望它們給人帶來痛苦的回憶。」",
+  "zh-CN": "“风速适中，能见度良好，是滑雪的好天气。” 昼雪来自罗德岛，在该公司与终末地工业的框架协议范围内，以救援专家的身份为终末地工业提供服务。 由于众所周知的原因，塔卫二真正的极地目前对于人类而言还是个禁区。但随着开拓区重新扩大，文明环带对像昼雪这样了解极地和高海拔区地理环境的专家的需求不言而喻。 正因为这一巨大的人才缺口，即使没有特殊任务时，昼雪和她的救援队伍每天也很忙碌。 不过她还是利用业余时间完成了她的《极地生存指南》，这本书已经成为了塔卫二冰雪条件下的生存与救援所不可或缺的关键参考。\n“我喜欢冰雪，喜欢雪山，喜欢这些严寒下依然璀璨的事物……所以我才更不希望它们给人带来痛苦的回忆。”",
+  "ja": "「いい風に、視界も良好……絶好のスキー日和だね。」  ロドス・アイランドに所属しており、現在はエンドフィールドにおいて、契約内容の範囲内にて救援専門家として活動している。  周知の話であるが、タロⅡの極地は未だ人類にとっては立ち入ることのできない領域である。しかし、開拓エリアの拡大が進む中で、文明地帯においてスノーシャインのような極地や高地の地理に精通した専門家の需要が高まっていることは言うまでもない。  深刻な人材不足により、特別な任務がない日でも、スノーシャインが率いる救援隊は忙しい毎日を過ごしている。  しかしながら、スノーシャインは限られた余暇を利用して『極地サバイバルガイド』を執筆した。このガイドブックには、タロⅡにおける厳しい氷雪環境での生存と救援に関する重要な内容が書かれている。    「氷も雪山も……寒さの中で輝くものが好きなんだ。だからみんなにとって、つらい思い出の残る場所になってほしくない。」",
+  "ko": "\"풍속도 적당하고, 시야도 양호하고... 보드 타기 딱 좋은 날씨네!\"  스노우샤인은 로도스 아일랜드 소속으로, 로도스 아일랜드와 엔드필드 공업 간의 협력에 관한 협약에 따라 구조 전문가로 엔드필드 공업에 협력하고 있다.  이미 잘 알려져 있듯이, 탈로스 II의 진정한 극지는 아직까지 인간에게는 금역이다. 그러나 개척 지역이 확장되면서, 극지와 고지대 환경에 대해 잘 아는 스노우샤인 같은 전문가에 대한 문명 밴드의 수요는 날로 커졌다.  바로 이러한 인력 공백 때문에 특별한 임무가 없을 때도 스노우샤인과 그녀의 구조대는 매일 같이 분주하게 활동하고 있다.  그럼에도 그녀는 틈틈이 자신의 경험을 정리해 <극지 생존 가이드>를 완성했고, 이 책은 현재 탈로스 II의 눈과 얼음이 있는 환경에서 생존과 구조를 위해 없어서는 안 될 핵심 참고서가 되었다.    \"난 눈과 얼음, 설산과 혹독한 추위 속에서 반짝이는 것들이 좋아... 그래서 난 이런 것들이 누군가의 아픈 기억이 되지 않았으면 좋겠어.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Hypothermic Assault",
+    "zh-TW": "失溫猛擊",
+    "zh-CN": "失温猛击",
+    "ja": "極低温猛撃",
+    "ko": "저체온 강타"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 3 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 23 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多3段攻擊，造成物理傷害。作為主控幹員時，重擊會造成23點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有失衡敵人時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多3段攻击，造成物理伤害。作为主控干员时，重击会造成23点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有失衡敌人时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大3段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値23を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 3단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 23포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Saturated Defense",
+    "zh-TW": "飽和性防禦",
+    "zh-CN": "饱和性防御",
+    "ja": "限界防御",
+    "ko": "포화성 방어"
+   },
+   "text": {
+    "en": "Raises a shield that can block attacks, grants Protection to self and nearby operators, and immediately returns some SP.\nWhen attacked while the said shield is raised, perform a retaliation bash that deals Cryo DMG and applies Cryo Infliction on the attacker.",
+    "zh-TW": "架起盾牌格擋攻擊，使自身及周圍幹員獲得庇護，並立即返還一定技力。\n若在立盾期間受到攻擊，則發動一次反擊，嘗試對攻擊者造成寒冷傷害，並施加寒冷附著。",
+    "zh-CN": "架起盾牌格挡攻击，使自身及周围干员获得庇护，并立即返还一定技力。\n若在立盾期间受到攻击，则发动一次反击，尝试对攻击者造成寒冷伤害，并施加寒冷附着。",
+    "ja": "盾を構えて攻撃をブロックし、自身と周囲のオペレーターに加護を与え、即座にSPが一定量返還される。\n盾を構えている間に攻撃を受けると、反撃が1回発動する。攻撃者に寒冷ダメージを与え、寒冷付着を付与する。",
+    "ko": "방패를 들어 공격을 막으며 자신과 주변의 오퍼레이터에게 비호를 부여하고, 일정 스킬 게이지를 반환합니다.\n방패를 들고 있는 동안 공격을 받으면 반격하며 적에게 냉기 피해를 주고 냉기 부착을 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Polar Rescue",
+    "zh-TW": "極地救援",
+    "zh-CN": "极地救援",
+    "ja": "極地救援",
+    "ko": "극지 구조"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: After controlled operator gets attacked and drops below 60% HP.\nSnowshine throws a Snowfield SAR Assistant at the controlled operator. Upon target contact, the Assistant gives massive instant HP Treatment to nearby operators as well as continuous HP Treatment to operators in the area of effect.\nThe attribute of Will increases the amount of HP treatment.",
+    "zh-TW": "當主控幹員受到攻擊後，如果生命值低於60%可以發動。\n晝雪對其丟出雪地救援助理，觸碰到目標時立即大量治療附近的幹員，並在接下來一段時間內對範圍內的幹員持續提供治療。\n意志可以額外提高治療量。",
+    "zh-CN": "当主控干员受到攻击后，如果生命值低于60%可以发动。\n昼雪对其丢出雪地救援助理，触碰到目标时立即大量治疗附近的干员，并在接下来一段时间内对范围内的干员持续提供治疗。\n意志可以额外提高治疗量。",
+    "ja": "操作中のオペレーターが攻撃を受け、HPが60%未満になると発動可能。\nスノーシャインはそのオペレーターに救援アシスタントを投げ、命中するときに周囲のオペレーターを大きく回復させる。さらに一定時間、範囲内のオペレーターを継続的に治療する。\n回復量は意志の値に応じて追加でアップする。",
+    "ko": "메인 컨트롤 오퍼레이터가 공격받아 생명력이 60% 미만일 때 사용할 수 있습니다.\n스노우샤인이 대상에게 설원 구조 조수를 던집니다. 목표에 명중하면 즉시 주변의 오퍼레이터를 대량으로 치유하고, 일정 시간 동안 범위 내의 오퍼레이터를 지속적으로 치유합니다.\n의지는 치유량을 추가로 증가시킵니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Frigid Snowfield",
+    "zh-TW": "凜冽寒霜",
+    "zh-CN": "凛冽寒霜",
+    "ja": "凍てつく寒霜",
+    "ko": "살얼음 추위"
+   },
+   "text": {
+    "en": "Leaps into mid-air with a jetpack before slamming down with her shield to deal massive Cryo DMG to enemies in the area of effect. Also generates a Snow Zone (lasting several seconds) that deals Cryo DMG over time to enemies. The Snow Zone forcibly applies Solidification to enemies caught within it for a certain duration.",
+    "zh-TW": "藉助噴氣裝置跳起並朝前砸下盾牌，對範圍內的敵人造成大量寒冷傷害，並生成一個持續數秒的冰雪地帶持續對敵人造成寒冷傷害。敵人身處冰雪地帶內一段時間後將被強制凍結。",
+    "zh-CN": "借助喷气装置跳起并朝前砸下盾牌，对范围内的敌人造成大量寒冷伤害，并生成一个持续数秒的冰雪地带持续对敌人造成寒冷伤害。敌人身处冰雪地带内一段时间后将被强制冻结。",
+    "ja": "ジェット装置を使ってジャンプし、盾を振り下ろして範囲内の敵に高い寒冷ダメージを与える。着地地点に数秒間持続する氷雪地帯を生成し、敵に寒冷ダメージを与え続ける。敵は氷雪地帯内に一定時間滞在すると、強制的に凍結状態になる。",
+    "ko": "분사 장치를 이용하여 점프한 다음 앞으로 방패를 내리찍습니다. 범위 내의 적에게 대량의 냉기 피해를 주고, 수초 동안 지속되는 빙설 지대를 생성하여 지속적으로 적에게 냉기 피해를 줍니다. 적이 일정 시간 동안 빙설 지대에서 벗어나지 못할 경우, 강제 동결됩니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Polar Survival",
+    "zh-TW": "極地生存",
+    "zh-CN": "极地生存",
+    "ja": "極地生存",
+    "ko": "극지 생존"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Treatment Effect +15% for targets of 45% HP or below.",
+      "zh-TW": "對生命值不高於45%的目標，治療效果+15%。",
+      "zh-CN": "对生命值不高于45%的目标，治疗效果+15%。",
+      "ja": "HPが45%以下のオペレーターを治療する場合、回復効果+15%",
+      "ko": "생명력이 45% 이하의 목표에 치유 효과 +15%"
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Treatment Effect +25% for targets of 55% HP or below.",
+      "zh-TW": "對生命值不高於55%的目標，治療效果+25%。",
+      "zh-CN": "对生命值不高于55%的目标，治疗效果+25%。",
+      "ja": "HPが55%以下のオペレーターを治療する場合、回復効果+25%",
+      "ko": "생명력이 55% 이하의 목표에 치유 효과 +25%"
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "SAR Professional",
+    "zh-TW": "救援專家",
+    "zh-CN": "救援专家",
+    "ja": "救援専門家",
+    "ko": "구조 전문가"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Battle skill Saturated Defense improved: After successfully retaliating an enemy attack, Snowshine gains another 6 Ultimate Energy.",
+      "zh-TW": "戰技飽和性防禦成功格擋攻擊後，額外獲得6終結技能量。",
+      "zh-CN": "战技饱和性防御成功格挡攻击后，额外获得6终结技能量。",
+      "ja": "戦技「限界防御」で敵の攻撃をブロックすると、追加で必殺チャージを6回復する",
+      "ko": "배틀 스킬 포화성 방어가 적의 공격을 성공적으로 막은 후, 추가로 궁극기 에너지를 6만큼 획득합니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Battle skill Saturated Defense improved: After successfully retaliating an enemy attack, Snowshine gains another 10 Ultimate Energy.",
+      "zh-TW": "戰技飽和性防禦成功格擋攻擊後，額外獲得10終結技能量。",
+      "zh-CN": "战技饱和性防御成功格挡攻击后，额外获得10终结技能量。",
+      "ja": "戦技「限界防御」で敵の攻撃をブロックすると、追加で必殺チャージを10回復する",
+      "ko": "배틀 스킬 포화성 방어가 적의 공격을 성공적으로 막은 후, 추가로 궁극기 에너지를 10만큼 획득합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Cold Shelter",
+    "zh-TW": "失溫庇護所",
+    "zh-CN": "失温庇护所",
+    "ja": "低体温避難所",
+    "ko": "저체온 대피소"
+   },
+   "text": {
+    "en": "Battle skill Saturated Defense improved: During the blocking effect, Arts Inflictions cannot be applied to allied operators with Protection.",
+    "zh-TW": "戰技飽和性防禦的格擋效果持續期間，處於庇護狀態的友方幹員無法被施加法術附著效果。",
+    "zh-CN": "战技饱和性防御的格挡效果持续期间，处于庇护状态的友方干员无法被施加法术附着效果。",
+    "ja": "戦技「限界防御」のブロック効果が持続している間、加護状態の味方オペレーターはアーツ付着を受けなくなる",
+    "ko": "배틀 스킬 포화성 방어의 막기 효과가 지속되는 동안 비호 상태의 아군 오퍼레이터에게 아츠 부착 효과를 부여할 수 없습니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Storm Region",
+    "zh-TW": "暴風雪地帶",
+    "zh-CN": "暴风雪地带",
+    "ja": "吹雪地帯",
+    "ko": "눈보라 지대"
+   },
+   "text": {
+    "en": "Ultimate Frigid Snowfield improved: Effect radius +20%.",
+    "zh-TW": "終結技凜冽寒霜的影響範圍+20%。",
+    "zh-CN": "终结技凛冽寒霜的影响范围+20%。",
+    "ja": "必殺技「凍てつく寒霜」の攻撃範囲+20%",
+    "ko": "궁극기 살얼음 추위의 범위 +20%"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Polar Survival Guide",
+    "zh-TW": "極地生存指南",
+    "zh-CN": "极地生存指南",
+    "ja": "極地サバイバルガイド",
+    "ko": "극지 생존 가이드"
+   },
+   "text": {
+    "en": "Ultimate Frigid Snowfield improved: Duration of the Solidification applied by the skill is increased by 2s.",
+    "zh-TW": "終結技凜冽寒霜施加的凍結的持續時間+2秒。",
+    "zh-CN": "终结技凛冽寒霜施加的冻结的持续时间+2秒。",
+    "ja": "必殺技「凍てつく寒霜」による凍結の持続時間+2秒",
+    "ko": "궁극기 살얼음 추위가 부여하는 동결의 지속 시간 +2초"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Tundra Aegis",
+    "zh-TW": "凍土堅盾",
+    "zh-CN": "冻土坚盾",
+    "ja": "凍土の盾",
+    "ko": "얼어붙은 대지의 방패"
+   },
+   "text": {
+    "en": "DEF +20, Will +20.",
+    "zh-TW": "防禦力+20，意志+20。",
+    "zh-CN": "防御力+20，意志+20。",
+    "ja": "防御力+20、意志+20",
+    "ko": "방어력 +20, 의지 +20"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Cold Disaster Specialist",
+    "zh-TW": "冰災應對專家",
+    "zh-CN": "冰灾应对专家",
+    "ja": "氷原災害専門家",
+    "ko": "한파 대응 전문가"
+   },
+   "text": {
+    "en": "Battle skill Saturated Defense improved: Successfully retaliating an enemy attack returns 10 SP.",
+    "zh-TW": "戰技飽和性防禦成功反擊敵人時，返還10點技力。",
+    "zh-CN": "战技饱和性防御成功反击敌人时，返还10点技力。",
+    "ja": "戦技「限界防御」で敵への反撃に成功するとき、SPが10返還される",
+    "ko": "배틀 스킬 포화성 방어로 반격에 성공했을 때, 스킬 게이지 10포인트를 반환합니다."
+   }
+  }
+ ]
+}

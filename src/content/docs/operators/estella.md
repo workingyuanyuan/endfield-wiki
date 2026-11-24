@@ -43,7 +43,8 @@ sources:
 | Voice, Korean | Lee Eun-jo |
 | Operator File | [Estella's file](/story/estella/) |
 
-Estella handles intel gathering and communications for Endfield's Operations Team Z7, hoping her work makes life easier despite her weak stamina and constant misfortune.
+> "Hngh... Feels like the weight of the entire world has come down at me ... my knees, especially..."  A member of Operations Team Z7 in Endfield, Estella handles intel gathering and communications. Physically weak, and shadowed by misfortune wherever she goes, she sometimes lets her sharp tongue and dark humor push outsiders away. Her dream is simple: to live a peaceful life. After all, she has seen too many people like herself, trapped in a world with no choices, no change, and no future.  A life of danger and extremes has numbed her senses to the world and raised her threshold for stimulation. As a result, she sometimes seeks out harsher forms of challenge — like the pounding rush of heavy metal music. Those rare jolts give her a fleeting sense of change and something real.  Through her work in Endfield, Estella hopes to make the world a little better and life a little easier for those around her.\
+> "I overworked myself again... Hngh... I better appreciate the break while it lasts."
 
 ## How to obtain
 
@@ -63,12 +64,36 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Audio Noise | Physical combo of up to 4 hits. While she is the controlled operator, her Final Strike also deals 17 Stagger. |
-| Battle skill | Onomatopoeia | Thrusts her lance to send a freezing sound wave in a straight line, dealing Cryo damage and applying Cryo Infliction to enemies hit. Costs 100 SP. |
-| Combo skill | Distortion | Trigger: an enemy suffers Solidification. She dashes beside the target to deal Physical damage and forcibly Lift enemies in a small area; hitting a target with Solidification deals extra damage and applies Physical Susceptibility. Cooldown 18 s, 17 s at the highest skill level. |
-| Ultimate | Tremolo | Slams her spear shaft down to deal Physical damage to enemies in a circle around her, forcibly applying Lift to any with Physical Susceptibility. Costs 70 Ultimate Energy. |
+| Basic attack | Audio Noise | — |
+| Battle skill | Onomatopoeia | 100 SP |
+| Combo skill | Distortion | Cooldown 18 s, 17 s at level 12 |
+| Ultimate | Tremolo | 70 Ultimate Energy |
+
+### Audio Noise
+
+> BASIC ATTACK:\
+> An attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 17 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.
+
+### Onomatopoeia
+
+> A lance thrust that fires a stream of freezing sound waves that deal Cryo DMG and apply Cryo Infliction to all enemies along its straight path.
+
+### Distortion
+
+> COMBO TRIGGER: When an enemy suffers Solidification.\
+> Quickly moves to the enemy's side to deal Physical DMG and forcibly Lift enemies in a small area. If the skill hits a target with Solidification, the skill deals additional DMG and applies Physical Susceptibility.
+
+### Tremolo
+
+> Estella expends all her strength to unleash a powerful slam of the spear shaft, dealing Physical DMG to all enemies in a circular area around self. To enemies with Physical Susceptibility, the skill forcibly applies Lift to them.
 
 ## Skill values
 
@@ -95,20 +120,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Commiseration | Promotion I; upgraded at Promotion II | Triggering Shatter makes the next cast of Onomatopoeia return 7.5 SP (15 SP at Promotion II); this effect does not stack. |
-| Laziness Pays Off Now | Promotion II; upgraded at Promotion III | Estella is immune to Cryo Infliction and takes 10% less Cryo damage (20% less at Promotion III). |
+### Commiseration
+
+**Promotion I**
+
+> When triggering Shatter, the next battle skill Onomatopoeia cast returns 7.5 SP. This effect cannot stack.
+
+**Promotion II**
+
+> When triggering Shatter, the next battle skill Onomatopoeia cast returns 15 SP. This effect cannot stack.
+
+### Laziness Pays Off Now
+
+**Promotion II**
+
+> Ignores Cryo Infliction and takes -10% Cryo DMG.
+
+**Promotion III**
+
+> Ignores Cryo Infliction and takes -20% Cryo DMG.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Habitual Delay | Physical Susceptibility applied by Distortion lasts 3 s longer |
-| 2 | Lowered Expectations | Tremolo costs 10% less Ultimate Energy |
-| 3 | Delayed Work | Onomatopoeia's freezing sound wave travels 50% farther and deals +40% damage to the first enemy hit |
-| 4 | Life Over Mission | Will +10, Strength +10 |
-| 5 | Survival is a Win | Applying Solidification to an enemy grants Estella 5 Ultimate Energy, at most once every 1 s |
+| 1 | Habitual Delay | Combo skill Distortion improved: Physical Susceptibility duration +3s. |
+| 2 | Lowered Expectations | Ultimate Tremolo improved: Ultimate Energy cost -10%. |
+| 3 | Delayed Work | Battle skill Onomatopoeia improved: Freezing sound wave range +50% and DMG Dealt +40% to the first enemy hit. |
+| 4 | Life Over Mission | Will +10, Strength +10. |
+| 5 | Survival is a Win | After applying Solidification to an enemy, Estella gains 5 Ultimate Energy. Effect can only trigger once every 1s. |
 
 ## Base skills
 
@@ -116,10 +156,10 @@ Base skills work while Estella is assigned to a room of the Dijiang. Each has tw
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Fragmented Rest α | Control Nexus | Promotion I | Mood recovery of all operators +8% |
-| Fragmented Rest β | Control Nexus | Promotion III | Mood recovery of all operators +12% |
-| Frequency Monitoring β | Reception Room | Promotion II | Clues collected 20% faster |
-| Frequency Monitoring γ | Reception Room | Promotion IV | Clues collected 30% faster |
+| Fragmented Rest α | Control Nexus | Promotion I | Assign to Control Nexus to grant all operators' Mood Regen +8% |
+| Fragmented Rest β | Control Nexus | Promotion III | Assign to Control Nexus to grant all operators' Mood Regen +12% |
+| Frequency Monitoring β | Reception Room | Promotion II | Assign to Reception Room to grant operator clue collecting efficiency +20% |
+| Frequency Monitoring γ | Reception Room | Promotion IV | Assign to Reception Room to grant operator clue collecting efficiency +30% |
 
 ## Base stats
 

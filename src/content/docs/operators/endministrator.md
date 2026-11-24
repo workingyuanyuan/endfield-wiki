@@ -44,7 +44,7 @@ sources:
 | Voice, Korean | Kang Sae-bom |
 | Operator File | [Endministrator's file](/story/endministrator/) |
 
-The Endministrator is Endfield Industries' trump card and a legendary guardian of Talos-II; the mastery of Originium and the Protocol Network, and the need for periodic hibernation, are among Endfield's closest secrets.
+> The Endministrator of Endfield Industries. In the recorded history of Talos-II, the Endministrator stands as a key guardian who protected civilization on this planet and saved humanity from multiple catastrophic disasters. The Endmin's heroic deeds have given rise to many stories, tales, and even rumors.  However, the Endmin's identity remains elusive and only a handful of people have seen the legend in person.  Other factions within the Civilization Band are well aware that Endfield has a very special trump card in their hand, but that is all they know.  The Endministrator's mysterious mastery over Originium and the Protocol Network, along with the Endmin's need for periodic long-term hibernation, is one of Endfield's most important secrets.
 
 ## How to obtain
 
@@ -65,12 +65,36 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Destructive Sequence | Physical combo of up to 5 hits. As the controlled operator, the Endministrator's Final Strike also deals 18 Stagger. |
-| Battle skill | Constructive Sequence | Releases a burst of Originium Arts over an area in front, dealing Physical damage and applying Crush. Costs 100 SP. |
-| Combo skill | Sealing Sequence | Trigger: another teammate deals damage with a combo skill. Rushes to the enemy for Physical damage and attaches Originium Crystals that briefly seal the target; applying Physical Status or Vulnerability consumes the crystals for extra Physical damage. Cooldown 16 s, 15 s at the highest skill level. |
-| Ultimate | Bombardment Sequence | Bombards a fan-shaped area with Originium Arts for heavy Physical damage. If an enemy has Originium Crystals attached, the skill consumes them to deal an extra hit of Physical damage. Costs 80 Ultimate Energy. |
+| Basic attack | Destructive Sequence | — |
+| Battle skill | Constructive Sequence | 100 SP |
+| Combo skill | Sealing Sequence | Cooldown 16 s, 15 s at level 12 |
+| Ultimate | Bombardment Sequence | 80 Ultimate Energy |
+
+### Destructive Sequence
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 18 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.
+
+### Constructive Sequence
+
+> A forceful burst of Originium Arts that attacks enemies within the area of effect. Deals Physical DMG and applies Crush.
+
+### Sealing Sequence
+
+> COMBO TRIGGER: When another operator in the team deals DMG with combo skills.\
+> Rushes to the enemy's side to deal Physical DMG and attach Originium Crystals that temporarily seal them. Applying Physical Status or Vulnerability to the sealed enemy consumes the Originium Crystals and deals additional Physical DMG.
+
+### Bombardment Sequence
+
+> Bombards the ground with Originium Arts, dealing massive Physical DMG to all enemies within a fan-shaped area. If the enemy has Originium Crystals on them, this skill consumes the Originium Crystals and deals one more hit of Physical DMG.
 
 ## Skill values
 
@@ -98,20 +122,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Essence Disintegration | Promotion I; upgraded at Promotion II | When Originium Crystals attached to an enemy are consumed, the Endministrator gains +15% ATK (+30% at Promotion II) for 15 s (does not stack). |
-| Realspace Stasis | Promotion II; upgraded at Promotion III | Enemies with attached Originium Crystals take +10% Physical damage (+20% at Promotion III). |
+### Essence Disintegration
+
+**Promotion I**
+
+> When the Originium Crystals attached to the enemy are consumed, the Endministrator gains ATK +15% for 15s. This effect cannot stack.
+
+**Promotion II**
+
+> When the Originium Crystals attached to the enemy are consumed, the Endministrator gains ATK +30% for 15s. This effect cannot stack.
+
+### Realspace Stasis
+
+**Promotion II**
+
+> Enemies with attached Originium Crystals suffer Physical DMG Taken +10%.
+
+**Promotion III**
+
+> Enemies with attached Originium Crystals suffer Physical DMG Taken +20%.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Final Awakening | When Constructive Sequence consumes Originium Crystals, it returns 50 SP |
-| 2 | Reflection of Authority | When Essence Disintegration grants the Endministrator its ATK buff, other allied operators receive half of that buff |
-| 3 | The Guide | When Bombardment Sequence consumes Originium Crystals, the Endministrator gains 15 Ultimate Energy, unaffected by other bonuses |
-| 4 | Commander of Originium | Arts Intensity +16, and Bombardment Sequence deals 1.2 times its damage |
-| 5 | ??? | Shown as ??? in the game; no effect is given |
+| 1 | Final Awakening | Battle skill Constructive Sequence improved: Consuming Originium Crystals returns 50 SP. |
+| 2 | Reflection of Authority | Talent Essence Disintegration improved: When the Endministrator gains the ATK buff, other allied operators gain half of this ATK buff. |
+| 3 | The Guide | Ultimate Bombardment Sequence improved: After consuming Originium Crystals, the Endministrator gains 15 Ultimate Energy. This effect does not benefit from other bonuses. |
+| 4 | Commander of Originium | Arts Intensity +16. DMG dealt by Ultimate Bombardment Sequence is increased to 1.2 times the original. |
+| 5 | ??? | ??? |
 
 ## Base stats
 

@@ -56,7 +56,8 @@ sources:
 | Voice, Korean | Kum You-rim |
 | Operator File | [Laevatain's file](/story/laevatain/) |
 
-Laevatain joined Endfield Industries from Rhodes Island on the Endministrator's own recommendation and reports directly to the Endministrator.
+> "Let that twilight burn!"  Laevatain is a Rhodes Island operator who joined Endfield at the Endministrator's direct recommendation. Under the framework agreement between the two companies, she serves as an operator directly under the Endministrator's command.  Before joining Endfield Industries, Laevatain roamed the world alone, pursuing a goal she could call her own. Because of that journey, and her formidable skill in solo combat, people often mistake her for "someone you can't talk to." In truth, the opposite is closer to reality. It's only that her earnest, forthright nature sometimes comes across too strongly, giving rise to misunderstanding.  At times, though, she speaks in ways that confound others, often circling back to the subject of "memory," as if she were purposefully trying to separate herself from who she is.  She often wields flames, yet craves ice cream just as much. To her, maybe that contradiction feels perfectly natural.\
+> "Try getting closer to me if you're still feeling cold."
 
 ## How to obtain
 
@@ -88,12 +89,42 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Flaming Cinders | Heat combo of up to 5 hits. The final strike deals 18 Stagger while she is the controlled operator. |
-| Battle skill | Smouldering Fire | A Magma Fragment hits repeatedly for Heat damage; a hit gives 1 stack of Melting Flame. Cast at 4 stacks, it spends them on 1 extra hit over a large area that forces a short Combustion and returns Ultimate Energy. Costs 100 SP. |
-| Combo skill | Seethe | Trigger: an enemy gains Combustion or Corrosion. Fire erupts under every such enemy for Heat damage, giving 1 stack of Melting Flame and Ultimate Energy per enemy hit. Cooldown 10 s, 9 s at the highest skill level. |
-| Ultimate | Twilight | She becomes the controlled operator and her basic attacks are enhanced for a time; hit 3 of the combo applies Heat Infliction. Casting Smouldering Fire or Seethe does not shorten the duration. Costs 300 Ultimate Energy. |
+| Basic attack | Flaming Cinders | — |
+| Battle skill | Smouldering Fire | 100 SP |
+| Combo skill | Seethe | Cooldown 10 s, 9 s at level 12 |
+| Ultimate | Twilight | 300 Ultimate Energy |
+
+### Flaming Cinders
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Heat DMG. As the controlled operator, Final Strike also deals 18 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Heat DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Heat DMG and recovers some SP.
+
+### Smouldering Fire
+
+> Summons a Magma Fragment to continuously attack enemies and deal Heat DMG. Hitting the enemy grants 1 stack of Melting Flame.\
+> If Laevatain already has 4 stack(s) of Melting Flame when casting the skill, then consume all the stacks and perform 1 additional attack that deals Heat DMG and forcibly trigger temporary Combustion to all enemies in a large area.\
+> When the additional attack hits the enemy, restore additional Ultimate Energy.\
+> Battle skill effects are enhanced while Laevatain's ultimate is active.
+
+### Seethe
+
+> COMBO TRIGGER: When an enemy suffers Combustion or Corrosion.\
+> Fire erupts beneath the feet of any enemy with Combustion or Corrosion, dealing Heat DMG to them.\
+> If the skill hits the enemy, Laevatain gains 1 stack of Melting Flame and further gains Ultimate Energy per enemy hit.
+
+### Twilight
+
+> Laevatain summons her Sviga Lævi and becomes the controlled operator.\
+> For a certain duration, her basic attacks (BATK) are enhanced and the Sviga Lævi strikes together with Laevatain, with each attack dealing Heat DMG. BATK sequence 3 also applies Heat Infliction.\
+> Casting the battle skill, Smouldering Fire, or the combo skill, Seethe, does not shorten the duration of the ultimate, Twilight.
 
 ## Skill values
 
@@ -135,20 +166,48 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Scorching Heart | Default; upgraded at Promotion I and Promotion III | After the controlled operator's final strike or finisher hits, she absorbs Heat Infliction from nearby enemies, 1 stack of Melting Flame each, up to 4. At 4 stacks her damage ignores 10 Heat Resistance for 20 s (15 at Promotion I, 20 at Promotion III). |
-| Re-Ignition | Promotion II; upgraded at Promotion III | Below 40% HP she gains 90% Protection and restores 5% of max HP per second for 4 s (8 s at Promotion III), at most once every 120 s. |
+### Scorching Heart
+
+**Default**
+
+> After the controlled operator's Final Strike or Finisher hits the enemy, Laevatain absorbs Heat Infliction from nearby enemies.\
+> Every stack of Heat Infliction absorbed gives Laevatain 1 stack of Melting Flame (max stacks: 4).\
+> After reaching 4 stacks, DMG dealt by Laevatain ignores 10 Heat Resistance of the enemy for 20s.\
+> Laevatain also absorbs Heat Infliction from enemies defeated nearby.
+
+**Promotion I**
+
+> After the controlled operator's Final Strike or Finisher hits the enemy, Laevatain absorbs Heat Infliction from nearby enemies.\
+> Every stack of Heat Infliction absorbed gives Laevatain 1 stack of Melting Flame (max stacks: 4).\
+> After reaching 4 stacks, DMG dealt by Laevatain ignores 15 Heat Resistance of the enemy for 20s.\
+> Laevatain also absorbs Heat Infliction from enemies defeated nearby.
+
+**Promotion III**
+
+> After the controlled operator's Final Strike or Finisher hits the enemy, Laevatain absorbs Heat Infliction from nearby enemies.\
+> Every stack of Heat Infliction absorbed gives Laevatain 1 stack of Melting Flame (max stacks: 4).\
+> After reaching 4 stacks, DMG dealt by Laevatain ignores 20 Heat Resistance of the enemy for 20s.\
+> Laevatain also absorbs Heat Infliction from enemies defeated nearby.
+
+### Re-Ignition
+
+**Promotion II**
+
+> When HP drops below 40%, gain 90% Protection and restore 5% Max HP per second for 4s. This effect can only trigger once every 120s.
+
+**Promotion III**
+
+> When HP drops below 40%, gain 90% Protection and restore 5% Max HP per second for 8s. This effect can only trigger once every 120s.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Heart of Melting Flame | Smouldering Fire's extra hit deals 1.2 times its damage and returns 20 SP on hit |
-| 2 | Pursuit of Memories | Intellect +20, basic attack damage +15% |
-| 3 | Fragments from the Past | Combustion from Smouldering Fire lasts 50% longer and deals 1.5 times its damage |
-| 4 | Ice Cream Furnace | Twilight costs 15% less Ultimate Energy |
-| 5 | Proof of Existence | Enhanced basic attacks of Twilight deal 1.2 times their damage; each enemy she defeats during it adds 1 s, up to 7 s |
+| 1 | Heart of Melting Flame | Battle skill Smouldering Fire improved: Additional attack multiplier is increased to 1.2 times the original, and scoring a hit returns 20 SP. |
+| 2 | Pursuit of Memories | Intellect +20, Basic Attack DMG Dealt +15%. |
+| 3 | Fragments from the Past | Battle skill Smouldering Fire improved: Duration of the Combustion applied by the skill is increased by 50%. DMG of the Combustion applied by the skills is increased to 1.5 times the original. |
+| 4 | Ice Cream Furnace | Ultimate Twilight improved: Ultimate Energy cost -15%. |
+| 5 | Proof of Existence | Ultimate Twilight improved: Enhanced basic attack DMG multiplier is increased to 1.2 times the original; during the ultimate, every enemy defeated by Laevatain extends ultimate duration by +1s (max: +7s). |
 
 ## Base skills
 
@@ -156,10 +215,10 @@ Base skills work while Laevatain is assigned to a room of the Dijiang. Each has 
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Memory Crucible β | MFG Cabin | Promotion I | Operator EXP materials made 20% faster |
-| Memory Crucible γ | MFG Cabin | Promotion III | Operator EXP materials made 30% faster |
-| Undying Flames β | MFG Cabin | Promotion II | Mood drop of the operators in this room −14% |
-| Undying Flames γ | MFG Cabin | Promotion IV | Mood drop of the operators in this room −18% |
+| Memory Crucible β | MFG Cabin | Promotion I | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20% |
+| Memory Crucible γ | MFG Cabin | Promotion III | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30% |
+| Undying Flames β | MFG Cabin | Promotion II | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 14% |
+| Undying Flames γ | MFG Cabin | Promotion IV | Assign to Manufacturing Cabin to slow Mood Drop of all operators in it by 18% |
 
 ## Base stats
 

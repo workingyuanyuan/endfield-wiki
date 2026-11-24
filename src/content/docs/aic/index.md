@@ -69,7 +69,7 @@ Each region has its own depot, and while exploring a region you can reach only t
 
 ## Facilities by group
 
-Facilities fall into ten groups. The 45 facilities of six groups are listed below with their power use; the other four groups are Logistics Units, Combat & Support, Ornamental and Planting.
+Facilities fall into ten groups: Resourcing, Depot Access, Production I, Production II, Power and Miscellaneous, with 45 facilities between them, and Logistics Units, Combat & Support, Ornamental and Planting.
 
 ### Resourcing
 

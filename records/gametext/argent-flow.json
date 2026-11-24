@@ -1,0 +1,237 @@
+{
+ "slug": "argent-flow",
+ "gameId": "chr_0037_minghe",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Suited up and ready. There will be no holding back.\"\nArgent Flow, Imperial Guard of Yan and Captain of Pacified Skies of Hongshan Academy of Sciences. With sword in hand, he spurs his galloper, Nuli, forward like a bolt of lightning across the northern front lines, leaving countless legends in his wake. Yet beyond the legends, he is not nearly as aloof as people make him out to be. As he journeys across mountains and rivers, he never hesitates to lend a hand whenever he encounters someone in need, no matter how small the matter.\nHe rarely speaks of the past, yet old tales still linger on people's lips: it was you who changed how he wields his sword.\nBody of steel, heart of soul. The answer you gave him has illuminated his path through the long night. From here on, he will continue to serve under Tianshi Tan and journey across Talos-II to solve whatever disasters may arise. Sword in hand, he will walk alongside Endfield and carve a path for civilization, until the lights of every home can shine undisturbed by calamity.\n\"When you need to make a hard decision, I will be at your side. You can have full faith in our bond.\"",
+  "zh-TW": "「執銳披堅，就不講點到為止了。」\n炎國禁軍，宏山科學院靖天都尉夜明河，執開天劍勢，與他的馳獸怒驪奔若驚雷，馳騁北方前線，留下傳說無數。然而傳說之外的他，卻並不像人們口中那般不近人情。行過山川，遇見尋常小事，他總願意伸手相助。\n他鮮少提及往事，舊日傳聞卻仍留在人們口中：他的劍勢，正是因你改變。\n此身為劍，心不為鋒。你曾給他的答案，已照亮漫漫長夜。往後，他仍將在談天師麾下為塔衛二奔走，解決種種危難；也將執劍與終末地同行，為文明開闢前路，直到萬家燈火不再受災厄侵擾。\n「當下決斷之時，我一定會在您身邊，您大可相信你我之間的默契。」",
+  "zh-CN": "“执锐披坚，就不讲点到为止了。”\n炎国禁军，宏山科学院靖天都尉夜明河，执开天剑势，与他的驰兽怒骊奔若惊雷，驰骋北方前线，留下传说无数。然而传说之外的他，却并不像人们口中那般不近人情。行过山川，遇见寻常小事，他总愿意伸手相助。\n他鲜少提及往事，旧日传闻却仍留在人们口中：他的剑势，正是因你改变。\n此身为剑，心不为锋。你曾给他的答案，已照亮漫漫长夜。往后，他仍将在谈天师麾下为塔卫二奔走，解决种种危难；也将执剑与终末地同行，为文明开辟前路，直到万家灯火再不受灾厄侵扰。\n“当下决断之时，我一定会在您身边，您大可相信你我之间的默契。”",
+  "ja": "「武具を纏えば、手心など加えるはずもない。」\n炎国禁軍、宏山科学院の靖天都尉。イェ・ミンホは開天の剣を操り、馳獣の怒驪と共に雷鳴のごとく北方前線を駆け抜け、数々の伝説を残してきた。だが、伝説として語られる姿とは裏腹に、彼は決して冷淡な人間ではない。各地を巡る中で誰か困っている人がいれば、たとえ些細なことであっても手を差し伸べる。\n自身の過去について多くを語ることはないが、「彼の剣を変えたのは、あなたとの出会いだった」という逸話だけは今も人々の間に残っている。\n剣を振るう身であっても、その心まで刃になることはない。かつてあなたが示した答えは、彼の長い夜を照らす光となった。これからも彼はタン天師のもとでタロⅡを駆け巡り、さまざまな危機に立ち向かっていく。そして剣を手にエンドフィールドと共に歩み、文明の未来を切り拓いていくだろう。いつか人々の暮らしを照らす灯火が、二度と災厄に脅かされることのない日が訪れるまで。\n「言葉など無くとも……決断を下すときは傍にいよう。」",
+  "ko": "\"이제 적당히 봐주는 건 없을 겁니다.\"\n염국 금위군이자 홍산 과학원의 정천도위, 야명하. 하늘을 가르는 듯한 검술을 구사하는 그는 갤럽비스트 노여와 함께 천둥처럼 북쪽 전선을 누비며 수많은 전설을 남겼다. 하지만 그런 전설과 달리, 실제의 그는 사람들이 생각하는 것처럼 그리 냉정하고 다가가기 어려운 인물은 아니다. 산천을 누비는 길에 누군가 곤란한 일을 겪고 있으면, 아무리 사소한 일이라도 기꺼이 도움의 손길을 내민다.\n자신의 과거에 대해서는 좀처럼 이야기하지 않지만, 그를 둘러싼 옛이야기는 여전히 사람들의 입에 오르내린다. 그가 구사하는 검세가 바로 관리자와의 만남을 계기로 달라졌다는 이야기도 그중 하나다.\n몸은 검과 같되, 마음까지 칼날처럼 날카롭지는 않다. 과거 관리자가 그에게 건넨 답은 기나긴 밤을 밝히는 빛이 되었다. 앞으로도 그는 담 천사의 휘하에서 탈로스 II 곳곳을 누비며 수많은 위기에 맞설 것이다. 또한 검을 들고 엔드필드와 함께하며 문명이 나아갈 길을 개척해 나갈 것이다. 수많은 이들의 평범한 일상이 더는 재앙에 위협받지 않는 그날까지.\n\"전 항상 관리자님 편에 설 테니까요. 관리자님과 저 사이의 신뢰를 믿어주셔도 좋습니다.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Dust Resplendent",
+    "zh-TW": "曜塵",
+    "zh-CN": "曜尘",
+    "ja": "輝塵",
+    "ko": "광휘의 잔재"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 23 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成物理傷害。作為主控幹員時，重擊會造成23點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成物理伤害。作为主控干员时，重击会造成23点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値23を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 23포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Darkness Cowed",
+    "zh-TW": "鎮影",
+    "zh-CN": "镇影",
+    "ja": "鎮影",
+    "ko": "그림자 제압"
+   },
+   "text": {
+    "en": "Argent Flow sweeps his lance and deals Physical DMG to nearby enemies and applies Lift to target(s) in front of him.\nAfter Argent Flow casts his combo skill, his battle skill is temporarily changed to Bolt Rush.\nBolt Rush: Argent Flow mounts his galloper Nuli to leap into mid-air, powers up quickly, and then charges at the target to forcibly apply Electrification and deal Electric DMG to enemies within a large area in front of him. When this Electrification is applied on a target with Electric Infliction, it consumes all Electric Infliction stacks from the target and grants Electrification Status Level +1 per 1 stack consumed. After consuming the target's Electric Infliction, Argent Flow also applies 1 stack of Vulnerability.",
+    "zh-TW": "明河橫掃長槍對周圍的敵人造成物理傷害，並對身前目標造成擊飛。\n明河施放連攜技後，戰技替換為奔霆。\n奔霆：明河騎上怒驪騰躍而起，進行短暫蓄力後朝目標衝刺，對身前大範圍區域內的敵人強制施加導電並造成電磁傷害。施加導電時，如果目標處於電磁附著狀態，將消耗目標全部電磁附著，每消耗1層使本次導電的異常等級+1。在消耗目標的電磁附著後，明河還會對目標額外施加1層破防。",
+    "zh-CN": "明河横扫长枪对周围的敌人造成物理伤害，并对身前目标造成击飞。\n明河施放连携技后，战技替换为奔霆。\n奔霆：明河骑上怒骊腾跃而起，进行短暂蓄力后朝目标冲刺，对身前大范围区域内的敌人强制施加导电并造成电磁伤害。施加导电时，如果目标处于电磁附着状态，将消耗目标全部电磁附着，每消耗1层使本次导电的异常等级+1。在消耗目标的电磁附着后，明河还会对目标额外施加1层破防。",
+    "ja": "槍を振り周囲の敵に物理ダメージを与え、前方の目標に浮遊効果を与える。\n連携技を発動すると、戦技が奔雷に替わる。\n奔雷：怒驪に飛び乗って短時間チャージしたあと、目標に向かって突進する。前方の広範囲の敵を強制的に感電状態にし、電磁ダメージを与える。感電状態にするとき、目標が電磁付着状態の場合、目標のすべての電磁付着を消費する。消費する段階1につき、そのとき与える感電の異常段階が+1になる。目標の電磁付着を消費すると、目標に追加でクラッシュを1段階付与する。",
+    "ko": "명하가 장창을 휘둘러 주변의 적에게 물리 피해를 주고, 전방의 적에게 띄우기 피해를 줍니다.\n명하가 연계 스킬을 사용하면 배틀 스킬이 질주하는 천둥으로 변경됩니다.\n질주하는 천둥: 명하가 노여에 올라타 공중으로 점프한 뒤, 잠시 차지하여 적을 향해 돌진합니다. 전방의 넓은 범위에 있는 적에게 강제로 감전을 부여하고 전기 피해를 줍니다. 감전을 부여할 때 적이 전기 부착 상태이면 전기 부착을 모두 소모해, 1스택을 소모할 때마다 이번에 부여하는 감전의 이상 레벨 +1. 적의 전기 부착을 소모하는 데 성공하면 추가로 적에게 방어 불능 1스택을 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Stars Shifted",
+    "zh-TW": "星移",
+    "zh-CN": "星移",
+    "ja": "星霜",
+    "ko": "별의 궤적"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy becomes Vulnerable.\nArgent Flow wields his blade with lightning speed to unleash a multi-sequence attack that deals Electric DMG to enemies along his path. When the final sequence scores a hit, it also applies Electric Infliction. Argent Flow's battle skill is then temporarily changed to Bolt Rush.",
+    "zh-TW": "當有敵人進入破防狀態時可以發動。\n如閃電般出劍，對路徑上的敵人造成多段電磁傷害，最後一段命中時額外施加電磁附著，隨後使戰技在一段時間內替換為奔霆。",
+    "zh-CN": "当有敌人进入破防状态时可以发动。\n如闪电般出剑，对路径上的敌人造成多段电磁伤害，最后一段命中时额外施加电磁附着，随后使战技在一段时间内替换为奔霆。",
+    "ja": "敵がクラッシュ状態になったときに発動可能。\n稲妻のごとく剣を振るい、軌道上の敵に電磁ダメージを複数回与え、最後の一撃が命中するとき、追加で電磁付着を付与する。その後、一定時間戦技が奔雷に替わる。",
+    "ko": "적이 방어 불능 상태에 진입하면 발동할 수 있습니다.\n번개처럼 검을 휘둘러 경로의 적에게 여러 차례 전기 피해를 줍니다. 마지막 공격이 명중하면 전기 부착을 추가로 부여합니다. 이후 일정 시간 동안 배틀 스킬이 질주하는 천둥으로 교체됩니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Heavens Sundered",
+    "zh-TW": "裂天",
+    "zh-CN": "裂天",
+    "ja": "破天",
+    "ko": "천공 가르기"
+   },
+   "text": {
+    "en": "Argent Flow mounts Nuli and charges with his lance, dealing continuous Electric DMG to targets in front of him while impaling and carrying weak enemies before him throughout the charge. After the charge ends, Argent Flow leaps into the air and unleashes a Cleansing Cleave at the ground. The slash deals Electric DMG and applies 1 stack of Electric Infliction. Argent Flow then pierces the ground with his lance, applying Crush and dealing Electric DMG to enemies within a large area.\nIf Argent Flow's ultimate charges into a non-weak enemy (that cannot be impaled and pushed), his charge will end early.",
+    "zh-TW": "騎上怒驪挺槍疾馳，對身前單位持續造成電磁傷害並將弱小的敵人持續攜帶至終點。衝刺結束後明河躍起並朝地面釋放一道澄鋒，對目標造成電磁傷害並施加1層電磁附著。隨後持槍刺向地面，對大範圍內的敵人造成猛擊和電磁傷害。\n衝刺過程中遇到無法攜帶的敵人時，明河將提前結束衝刺。",
+    "zh-CN": "骑上怒骊挺枪疾驰，对身前单位持续造成电磁伤害并将弱小的敌人持续携带至终点。冲刺结束后明河跃起并朝地面释放一道澄锋，对目标造成电磁伤害并施加1层电磁附着。随后持枪刺向地面，对大范围内的敌人造成猛击和电磁伤害。\n冲刺过程中遇到无法携带的敌人时，明河将提前结束冲刺。",
+    "ja": "怒驪に跨り、槍を構えて駆け抜ける。前方の敵に持続的に電磁ダメージを与え、通常の敵を突進が終わる地点まで運ぶ。突進終了後、飛び上がって地面に鋭光を放ち、目標に電磁ダメージを与え、電磁付着を1段階付与する。その後、槍を地面に突き刺し、広範囲の敵に猛撃と電磁ダメージを与える。\n突進中に運ぶことができない敵に遭遇した場合、その時点で突進は終了する。",
+    "ko": "명하가 노여에 올라타 창을 내밀고 질주하며, 전방의 적에게 지속적으로 전기 피해를 주고 약한 적을 최종 목적지까지 밀고 나갑니다. 돌진이 끝나면 명하는 공중으로 뛰어올라 지면을 향해 청명한 칼날을 발동해 적에게 전기 피해를 주고 전기 부착 1스택을 부여합니다. 이후 창으로 지면을 찔러 넓은 범위의 적에게 강타와 전기 피해를 줍니다.\n돌진 도중 밀고 나갈 수 없는 적과 마주치면 돌진을 일찍 종료합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Zenith of Voltmancy",
+    "zh-TW": "掣電橫天",
+    "zh-CN": "掣电横天",
+    "ja": "天奔る稲妻",
+    "ko": "하늘을 가르는 번개"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "When Argent Flow applies Electrification, this Electrification also increases all types of DMG Taken of the target for the same duration, and he also applies Sunderization stack(s) on the target, the number of stacks is equal to the Electrification Status Level and maxes out at 12. Sunderization lasts for 60s.\nWhen dealing Crush DMG to a target with Sunderization, this Crush DMG is increased to 1.2 times the original and detonates all Sunderization stacks. The explosion deals [Number of Sunderization stacks × 220% ATK] of Electric DMG to the target and 40% of that DMG to other enemies near the said target.\nWhen the explosion DMG of Sunderization is dealt to another enemy with Sunderization, it also detonates all Sunderization stacks of that enemy.",
+      "zh-TW": "明河施加導電時，本次導電效果使目標受到的所有類型傷害都得到提升，並對目標施加殷雷，層數等同於本次導電的異常等級，最多可疊加12層，殷雷狀態持續60秒。\n處於殷雷狀態的目標受到猛擊傷害時，本次猛擊傷害提升至原本的1.2倍，同時引爆目標的所有殷雷，對目標造成[殷雷層數×220%攻擊力]的電磁傷害，對目標周圍其他敵人只造成40%傷害。\n當殷雷傷害波及其他處於殷雷狀態的敵人時，會同時引爆該敵人身上所有殷雷。",
+      "zh-CN": "明河施加导电时，本次导电效果使目标受到的所有类型伤害都得到提高，并对目标施加殷雷，层数等同于本次导电的异常等级，最多可叠加12层，殷雷状态持续60秒。\n处于殷雷状态的目标受到猛击伤害时，本次猛击伤害提升至原本的1.2倍，同时引爆目标的所有殷雷，对目标造成[殷雷层数×220%攻击力]的电磁伤害，对目标周围其他敌人只造成40%伤害。\n当殷雷伤害波及其他处于殷雷状态的敌人时，会同时引爆该敌人身上所有殷雷。",
+      "ja": "ミンホが感電状態を付与したとき、この感電効果は目標が受ける全種類のダメージをアップし、さらに目標に雷勢を付与する\n段階数はそのとき与えた感電の異常段階と同じで、最大12段階まで重ね掛け可能\n雷勢状態は60秒間持続する\n雷勢状態の目標が猛撃ダメージを受けるとき、その猛撃ダメージが1.2倍までアップし、同時に目標のすべての雷勢を起爆し、目標に［雷勢段階数×攻撃力の220%］の電磁ダメージを与える\n目標の周囲にいる他の敵には、その40%分のダメージのみを与える\n雷勢ダメージが他の雷勢状態の敵に及んだ場合、その敵に付与されているすべての雷勢も同時に起爆する",
+      "ko": "명하가 감전을 부여할 때, 이번 감전 효과로 적이 받는 모든 유형 피해가 증가하며, 부여한 감전의 이상 레벨과 동일한 스택 수치만큼 적에게 우레를 부여합니다. 우레는 최대 12스택까지 중첩되며, 우레 상태는 60초 동안 지속.\n우레 상태인 적이 강타 피해를 받으면 해당 강타 피해가 기존의 1.2배로 증가합니다. 동시에 적의 모든 우레를 폭발시켜 적에게 [우레 스택 수치×220% 공격력]만큼의 전기 피해를 주며, 목표 주변의 다른 적에게는 40%의 피해만 줍니다.\n우레 피해가 우레 상태인 다른 적에게까지 미치면, 해당 적에게 부여된 모든 우레도 동시에 폭발합니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When Argent Flow applies Electrification, this Electrification also increases all types of DMG Taken of the target for the same duration, and he also applies Sunderization stack(s) on the target, the number of stacks is equal to the Electrification Status Level and maxes out at 12. Sunderization lasts for 60s.\nWhen dealing Crush DMG to a target with Sunderization, this Crush DMG is increased to 1.2 times the original and detonates all Sunderization stacks. The explosion deals [Number of Sunderization stacks × 330% ATK] of Electric DMG to the target and 40% of that DMG to other enemies near the said target.\nWhen the explosion DMG of Sunderization is dealt to another enemy with Sunderization, it also detonates all Sunderization stacks of that enemy.",
+      "zh-TW": "明河施加導電時，本次導電效果使目標受到的所有類型傷害都得到提升，並對目標施加殷雷，層數等同於本次導電的異常等級，最多可疊加12層，殷雷狀態持續60秒。\n處於殷雷狀態的目標受到猛擊傷害時，本次猛擊傷害提升至原本的1.2倍，同時引爆目標的所有殷雷，對目標造成[殷雷層數×330%攻擊力]的電磁傷害，對目標周圍其他敵人只造成40%傷害。\n當殷雷傷害波及其他處於殷雷狀態的敵人時，會同時引爆該敵人身上所有殷雷。",
+      "zh-CN": "明河施加导电时，本次导电效果使目标受到的所有类型伤害都得到提高，并对目标施加殷雷，层数等同于本次导电的异常等级，最多可叠加12层，殷雷状态持续60秒。\n处于殷雷状态的目标受到猛击伤害时，本次猛击伤害提升至原本的1.2倍，同时引爆目标的所有殷雷，对目标造成[殷雷层数×330%攻击力]的电磁伤害，对目标周围其他敌人只造成40%伤害。\n当殷雷伤害波及其他处于殷雷状态的敌人时，会同时引爆该敌人身上所有殷雷。",
+      "ja": "ミンホが感電状態を付与したとき、この感電効果は目標が受ける全種類のダメージをアップし、さらに目標に雷勢を付与する\n段階数はそのとき与えた感電の異常段階と同じで、最大12段階まで重ね掛け可能\n雷勢状態は60秒間持続する\n雷勢状態の目標が猛撃ダメージを受けるとき、その猛撃ダメージが1.2倍までアップし、同時に目標のすべての雷勢を起爆し、目標に［雷勢段階数×攻撃力の330%］の電磁ダメージを与える\n目標の周囲にいる他の敵には、その40%分のダメージのみを与える\n雷勢ダメージが他の雷勢状態の敵に及んだ場合、その敵に付与されているすべての雷勢も同時に起爆する",
+      "ko": "명하가 감전을 부여할 때, 이번 감전 효과로 적이 받는 모든 유형 피해가 증가하며, 부여한 감전의 이상 레벨과 동일한 스택 수치만큼 적에게 우레를 부여합니다. 우레는 최대 12스택까지 중첩되며, 우레 상태는 60초 동안 지속.\n우레 상태인 적이 강타 피해를 받으면 해당 강타 피해가 기존의 1.2배로 증가합니다. 동시에 적의 모든 우레를 폭발시켜 적에게 [우레 스택 수치×330% 공격력]만큼의 전기 피해를 주며, 목표 주변의 다른 적에게는 40%의 피해만 줍니다.\n우레 피해가 우레 상태인 다른 적에게까지 미치면, 해당 적에게 부여된 모든 우레도 동시에 폭발합니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Springvolt Galore",
+    "zh-TW": "霆曦宴夜",
+    "zh-CN": "霆曦宴夜",
+    "ja": "春雷に捧ぐ宴",
+    "ko": "번개의 향연"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Battle skill Bolt Rush improved: The entire team gains Arts Intensity +30 for 20s.\nFor every point of Arts Intensity that Argent Flow has, increase Sunderization explosion DMG by another 0.4%.",
+      "zh-TW": "施放戰技奔霆時，全隊源石技藝強度+30，持續20秒。\n自身每點源石技藝強度額外提升0.4%殷雷引爆傷害。",
+      "zh-CN": "施放战技奔霆时，全队源石技艺强度+30，持续20秒。\n自身每点源石技艺强度额外提升0.4%殷雷引爆伤害。",
+      "ja": "戦技「奔雷」を発動するとき、20秒間チーム全員のアーツ強度+30\n自身のアーツ強度1につき、雷勢の起爆ダメージが追加で0.4%アップする",
+      "ko": "배틀 스킬 질주하는 천둥 사용 시, 팀 전체의 오리지늄 아츠 강도 +30, 20초 동안 지속.\n자신의 오리지늄 아츠 강도 1포인트마다 우레 폭발 피해가 추가로 0.4% 증가합니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Battle skill Bolt Rush improved: The entire team gains Arts Intensity +45 for 20s.\nFor every point of Arts Intensity that Argent Flow has, increase Sunderization explosion DMG by another 0.6%.",
+      "zh-TW": "施放戰技奔霆時，全隊源石技藝強度+45，持續20秒。\n自身每點源石技藝強度額外提升0.6%殷雷引爆傷害。",
+      "zh-CN": "施放战技奔霆时，全队源石技艺强度+45，持续20秒。\n自身每点源石技艺强度额外提升0.6%殷雷引爆伤害。",
+      "ja": "戦技「奔雷」を発動するとき、20秒間チーム全員のアーツ強度+45\n自身のアーツ強度1につき、雷勢の起爆ダメージが追加で0.6%アップする",
+      "ko": "배틀 스킬 질주하는 천둥 사용 시, 팀 전체의 오리지늄 아츠 강도 +45, 20초 동안 지속.\n자신의 오리지늄 아츠 강도 1포인트마다 우레 폭발 피해가 추가로 0.6% 증가합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Wildswept Storm",
+    "zh-TW": "輕雷掠野",
+    "zh-CN": "轻雷掠野",
+    "ja": "野を掠る軽雷",
+    "ko": "들판을 스치는 천둥"
+   },
+   "text": {
+    "en": "Talent Zenith of Voltmancy improved: When applying Crush to a target with Sunderization, the DMG dealt by this Crush is increased to 1.4 times the original. Proportion of Sunderization explosion DMG dealt to other enemies near the target is increased to 50%.",
+    "zh-TW": "天賦掣電橫天效果加強：處於殷雷狀態的目標受到猛擊時，本次猛擊的傷害提升至原本的1.4倍，引爆殷雷對目標周圍其他敵人的傷害提升至50%。",
+    "zh-CN": "天赋掣电横天效果加强：处于殷雷状态的目标受到猛击时，本次猛击的伤害提升至原本的1.4倍，引爆殷雷对目标周围其他敌人的伤害提升至50%。",
+    "ja": "素質「天奔る稲妻」強化：雷勢状態の目標が猛撃を受けるとき、その猛撃のダメージが1.4倍までアップする\nさらに雷勢を起爆し、目標の周囲にいる他の敵へのダメージが50%までアップする",
+    "ko": "재능 하늘을 가르는 번개 효과 강화: 우레 상태인 목표가 강타 피해를 받을 때, 해당 강타의 피해가 기존의 1.4배로 증가하며, 우레 폭발이 목표 주변의 다른 적에게 주는 피해가 50%까지 증가합니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Electrified Spring",
+    "zh-TW": "浮光啟蟄",
+    "zh-CN": "浮光启蛰",
+    "ja": "万物醒ます光",
+    "ko": "만물을 깨우는 빛"
+   },
+   "text": {
+    "en": "Will +20, Arts Intensity +16.",
+    "zh-TW": "意志+20，源石技藝強度+16。",
+    "zh-CN": "意志+20，源石技艺强度+16。",
+    "ja": "意志+20、アーツ強度+16",
+    "ko": "의지 +20, 오리지늄 아츠 강도 +16"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Storm Blitz",
+    "zh-TW": "流霆逐風",
+    "zh-CN": "流霆逐风",
+    "ja": "風を追う流電",
+    "ko": "바람을 쫓는 우레"
+   },
+   "text": {
+    "en": "Battle skill Bolt Rush improved: For every 1 stack of Electric Infliction consumed, Argent Flow gains Electric DMG Dealt +6% for 25s. This effect can reach 6 stacks. Duration of each stack is counted separately.",
+    "zh-TW": "施放戰技奔霆期間，每消耗1層電磁附著，自身的電磁傷害+6%，持續25秒，該效果最多疊加6層，每層單獨計算持續時間。",
+    "zh-CN": "施放战技奔霆期间，每消耗1层电磁附着，自身的电磁伤害+6%，持续25秒，该效果最多叠加6层，每层单独计算持续时间。",
+    "ja": "戦技「奔雷」の発動期間中、消費した電磁付着1段階につき、25秒間自身の電磁ダメージ+6%\nこの効果は6回まで重ね掛け可能\n効果の持続時間は個別にカウントされる",
+    "ko": "배틀 스킬 질주하는 천둥 사용 중, 전기 부착을 1스택 소모할 때마다 자신의 전기 피해 +6%, 25초 동안 지속. 해당 효과는 최대 6스택까지 중첩되며, 중첩될 때마다 지속 시간은 따로 계산됩니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Starflow Illuminated",
+    "zh-TW": "星河徹明",
+    "zh-CN": "星河彻明",
+    "ja": "星河澄明",
+    "ko": "맑게 빛나는 은하수"
+   },
+   "text": {
+    "en": "Ultimate Heavens Sundered improved: Ultimate Energy Cost -15%.",
+    "zh-TW": "終結技裂天所需的終結技能量-15%。",
+    "zh-CN": "终结技裂天所需的终结技能量-15%。",
+    "ja": "必殺技「破天」に必要な必殺チャージ-15%",
+    "ko": "궁극기 천공 가르기의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Invitation to Celestial Lights",
+    "zh-TW": "我邀日月",
+    "zh-CN": "我邀日月",
+    "ja": "日月を随える",
+    "ko": "해와 달을 부르리라"
+   },
+   "text": {
+    "en": "Talent Springvolt Galore improved: When casting the battle skill Bolt Rush, the entire team gains an additional Arts Intensity +15.\nSunderization explosion DMG bonus per point of Argent Flow's Arts Intensity is increased to 1.2 times the original.",
+    "zh-TW": "天賦霆曦宴夜效果加強：施放戰技奔霆時，全隊源石技藝強度額外+15。\n自身每點源石技藝強度對殷雷引爆傷害的提升效果提升至原本的1.2倍。",
+    "zh-CN": "天赋霆曦宴夜效果加强：施放战技奔霆时，全队源石技艺强度额外+15。\n自身每点源石技艺强度对殷雷引爆伤害的提升效果提升至原本的1.2倍。",
+    "ja": "素質「春雷に捧ぐ宴」強化：戦技「奔雷」を発動するとき、チーム全員のアーツ強度がさらに+15\n自身のアーツ強度1につき、雷勢の起爆ダメージUP効果が1.2倍までアップする",
+    "ko": "재능 번개의 향연 효과 강화: 배틀 스킬 질주하는 천둥 사용 시, 팀 전체의 오리지늄 아츠 강도가 추가로 +15.\n자신의 오리지늄 아츠 강도 1포인트마다 적용되는 우레 폭발 피해의 증가 효과가 기존의 1.2배로 증가합니다."
+   }
+  }
+ ]
+}

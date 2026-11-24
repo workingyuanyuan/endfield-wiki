@@ -4,7 +4,8 @@ Usage: python3 -I pipeline/build_records.py
 Reads cache/third/wf/json/<lang>-<slug>.json (made by wf_extract.py) and
 cache/official/roster-rows.json; writes records/operators/<slug>.json.
 Names and numbers only: the game's description text stays in the cache.
-The restated text of an operator is a separate file, records/text/<slug>.json.
+The game's own text of an operator is a separate file, records/gametext/<slug>.json
+(pipeline/gametext.py).
 """
 import glob
 import json

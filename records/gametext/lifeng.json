@@ -1,0 +1,237 @@
+{
+ "slug": "lifeng",
+ "gameId": "chr_0015_lifeng",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"I came to Endfield to learn. But ... there's way too much to take in. Gotta work even harder!\"  Lifeng, born in Wuling City, now interns at the Specialist Tech Division of Endfield Industries.  Back in Wuling, Lifeng's mind and personalities made him popular with his peers and elders. Years of guidance from Da Pan have honed his spear fighting skills, arming him for his pursuit of justice. Few would guess from his cheerful demeanor the shadow he carries — an accident that shattered his once-happy family and cost him an arm. Yet hardship has never dimmed his fire. He continues to grow with sincerity and passion, yearning for the day he can take on greater responsibilities. Someday, he will stand tall on his own and return to protect the home that waits for him.\n\"One day, I'll be capable enough to take on the toughest missions. Please look forward to that day, Endmin.\"",
+  "zh-TW": "「我來終末地就是為了學東西的！只是……這裡的東西多得有點學不完啊……要加把勁！」  黎風出生於武陵城，目前正在終末地工業特種技術部門學習實踐。  黎風是武陵名聞遐邇、人見人愛的孩子王。在大潘多年的教導下，黎風習得了一手漂亮的槍法，以此向他揚善懲惡的目標而努力。從他的外表來看，很難有人能聯想到他過去的陰影——事故擊碎了原本幸福美滿的家庭，也使他失去了一條手臂。但災難始終阻擋不了少年的鋒芒，他認真而熱情地成長，渴望承擔更多的責任。有朝一日，他會獨當一面，然後回到需要他保護的家鄉。    「有朝一日，我會扛起一切的。管理員，等我。」",
+  "zh-CN": "“我来终末地就是为了学东西的！只是……这里的东西多得有点儿学不完啊……要加把劲！” 黎风出生于武陵城，目前正在终末地工业特种技术部门学习实践。 黎风是武陵闻名遐迩、人见人爱的孩子王。在大潘多年的教导下，黎风习得了一手漂亮的枪法，以此向他扬善惩恶的目标而努力。从他的外表来看，很难有人联想到他过去的阴影——事故击碎了原本幸福美满的家庭，也使得他失去了一条手臂。但灾难始终阻挡不了少年的锋芒，他认真而热情地成长，渴望承担更多的责任。有朝一日，他会独当一面，然后回到需要他保护的家乡。\n“有朝一日，我会扛起一切的。管理员，等我。”",
+  "ja": "「勉強のためにエンドフィールドに来ました。でも学ぶことが多くて、全部はちょっと……もっと、頑張ります！」 武陵城出身で、現在はエンドフィールド特殊技術部でインターンをしている。 武陵城では広く名が知られ、誰からも愛されるわんぱくな子どもだった。長年にわたってダパンに師事し、優れた槍術の使い手へと成長した彼は、悪を倒して弱き者を守るという目標のために努力を続けている。一方で、普段の様子からは想像できないほど暗い過去を持っている。ある災害によって大好きな家族を奪われ、自分の片腕も失ってしまった。しかし、どれほど大きな不幸があっても、その才能が埋もれることはなかった。まっすぐに、そして情熱的な少年へと成長した彼は、より多くの任務を任せてもらいたいと願っている。いずれ一人前になった暁には、故郷を守らなければならないのだから。\n「すべて背負ってみせますから。見ていてくださいね。」",
+  "ko": "\"제가 엔드필드에 온 건, 배움을 얻기 위해서예요! 근데... 여긴 배울 게 많아도 너무 많네요... 좀 더 열심히 해야겠어요!\"  여풍은 무릉성 출신으로 현재 엔드필드 공업의 특수 기술부에서 배우며 실습 중이다.  여풍은 무릉에서 소문난 모두에게 사랑받는 아이들의 대장이었다. 판의 수년간의 가르침을 받아 훌륭한 창술을 익혔고, 그것을 바탕으로 정의를 행하고 악을 응징하는 목표를 위해 노력해 왔다. 겉모습만으로는 짐작하기 힘들지만, 여풍은 과거의 큰 그림자를 안고 있다. 한 번의 사고가 행복했던 가정을 산산조각 냈고, 그의 한쪽 팔마저 앗아갔다. 하지만 그 어떤 재앙도 소년의 빛나는 기상은 꺾지는 못했다. 여풍은 성실하고 열정적으로 성장하며, 더 많은 책임을 짊어지기를 갈망한다. 언젠가 홀로 설 수 있는 날이 오면, 고향으로 돌아가 자신을 필요로 하는 사람들을 지킬 것이다.    \"언젠가는 모든 걸 짊어질 수 있는 사람이 될 거거든요. 관리자님, 꼭 지켜봐 주세요!\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Ruination",
+    "zh-TW": "摧破",
+    "zh-CN": "摧破",
+    "ja": "摧破",
+    "ko": "업보 파괴"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 19 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成物理傷害。作為主控幹員時，重擊會造成19點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成物理伤害。作为主控干员时，重击会造成19点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値19を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 19포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Turbid Avatar",
+    "zh-TW": "蕩濁身",
+    "zh-CN": "荡浊身",
+    "ja": "浄化身",
+    "ko": "신체 정화"
+   },
+   "text": {
+    "en": "Swings the polearm multiple times to deal 2 hits of Physical DMG, then slams the ground to deal Physical DMG and Knock Down to all enemies in the area of effect.\nIf the enemy struck by the last hit of this skill has no Vulnerability stacks, apply Physical Susceptibility to the said enemy as well.",
+    "zh-TW": "連續向前揮槍，造成2次物理傷害，之後重砸地面，再次對前方所有敵人造成物理傷害並造成倒地。\n最後一擊命中的敵人若不處於破防狀態，則額外對其施加物理脆弱。",
+    "zh-CN": "连续向前挥枪，造成2次物理伤害，之后重砸地面，再次对前方所有敌人造成物理伤害并造成倒地。\n最后一击命中的敌人若不处于破防状态，则额外对其施加物理脆弱。",
+    "ja": "前進しながら槍を振り、物理ダメージを2回与える。その後、地面に重い打撃を放ち、再度前方のすべての敵に物理ダメージと転倒効果を与える。\n最後の一撃を受けた敵がクラッシュ状態でない場合、追加で物理脆弱を付与する。",
+    "ko": "전방으로 창을 여러 번 휘둘러 2회의 물리 피해를 줍니다. 이후 힘차게 지면을 내리쳐 전방 모든 적에게 다시 물리 피해와 넘어뜨리기 피해를 줍니다.\n마지막 공격에 명중한 적이 방어 불능 상태가 아닐 경우, 추가로 대상에게 물리 취약 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Aspect of Wrath",
+    "zh-TW": "忿怒相",
+    "zh-CN": "忿怒相",
+    "ja": "忿怒形",
+    "ko": "분노의 형상"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When the controlled operator performs a Final Strike on an enemy with Physical Susceptibility or Breach.\nUnleashes an aspect that performs a spear thrust to deal Physical DMG and grants Link.",
+    "zh-TW": "當處於物理脆弱或碎甲狀態的敵人受到主控幹員重擊後可以發動。\n施放身外身以長槍突刺，造成物理傷害，並且獲得連擊。",
+    "zh-CN": "当处于物理脆弱或碎甲状态的敌人受到主控干员重击后可以发动。\n施放身外身以长枪突刺，造成物理伤害，并且获得连击。",
+    "ja": "物理脆弱または破砕状態の敵が、操作中のオペレーターの重攻撃を受けると発動可能。\n化身を放ち、槍で突き刺す。物理ダメージを与え、リンク状態を獲得する。",
+    "ko": "물리 취약 또는 갑옷 파괴 상태의 적이 메인 컨트롤 오퍼레이터의 강력한 일격을 받았을 때 사용할 수 있습니다.\n화신을 내세워 장창으로 찌르며, 물리 피해를 주고 연타를 획득합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Heart of the Unmoving",
+    "zh-TW": "不動心",
+    "zh-CN": "不动心",
+    "ja": "不動心",
+    "ko": "움직이지 않는 마음"
+   },
+   "text": {
+    "en": "Unleashes an aspect that performs an Immovable Vajra Slam. The Slam deals Physical DMG and applies Knock Down to all enemies in a large area of effect (AOE), and pulls enemies towards the center of the AOE. After a while, the Slam unleashes one more hit that deals massive Physical DMG and applies another Knock Down to enemies still within its AOE.\nIf the skill consumes a Link, then it deals an additional hit of massive Physical DMG.",
+    "zh-TW": "施放身外身，使用不動杵重砸前方地面，對大範圍內的所有敵人造成物理傷害並造成倒地，然後將所有敵人聚集至中心。一段時間後，對仍然留在砸地範圍內的所有敵人再次造成大量物理傷害並造成倒地。\n若該技能消耗了連擊，則會追加大量物理傷害。",
+    "zh-CN": "施放身外身，使用不动杵重砸前方地面，对大范围内的所有敌人造成物理伤害并造成倒地，然后将所有敌人聚拢至中心。一段时间后，对仍然留在砸地范围内的所有敌人再次造成大量物理伤害并造成倒地。\n若该技能消耗了连击，则会追加大量物理伤害。",
+    "ja": "化身を放ち、不動杵で前方の地面に重い打撃を放つ。広範囲の敵に物理ダメージと転倒効果を与え、すべての敵を中心に引き寄せる。一定時間後、打撃範囲内の敵に再度高い物理ダメージと転倒効果を与える。\n必殺技発動時にリンク状態を消費した場合、追加で高い物理ダメージを与える。",
+    "ko": "화신을 내세워 부동저로 지면을 힘껏 내리칩니다. 넓은 범위 내의 모든 적에게 물리 피해와 넘어뜨리기 피해를 주며, 모든 적을 중심으로 향해 끌어당깁니다. 일정 시간 후, 여전히 타격 범위 내에 남아 있는 모든 적에게는 다시 대량의 물리 피해와 넘어뜨리기 피해를 줍니다.\n해당 스킬이 연타를 소모했다면, 대량의 물리 피해를 추가로 줍니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Illumination",
+    "zh-TW": "頓悟",
+    "zh-CN": "顿悟",
+    "ja": "円頓",
+    "ko": "돈오"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Every point of Intellect and Will further grants ATK +0.10%.",
+      "zh-TW": "每點智識和意志都會使攻擊力額外+0.10%。",
+      "zh-CN": "每点智识和意志都会使攻击力额外+0.10%。",
+      "ja": "知性と意志1につき攻撃力+0.10%",
+      "ko": "지능 및 의지 1포인트당 추가 공격력 +0.10%"
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Every point of Intellect and Will further grants ATK +0.15%.",
+      "zh-TW": "每點智識和意志都會使攻擊力額外+0.15%。",
+      "zh-CN": "每点智识和意志都会使攻击力额外+0.15%。",
+      "ja": "知性と意志1につき攻撃力+0.15%",
+      "ko": "지능 및 의지 1포인트당 추가 공격력 +0.15%"
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Subduer of Evil",
+    "zh-TW": "伏魔",
+    "zh-CN": "伏魔",
+    "ja": "伏魔",
+    "ko": "복마"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Applying Knock Down also deals 50% ATK of Physical DMG.",
+      "zh-TW": "每當自身造成倒地時，額外造成攻擊力50%的物理傷害。",
+      "zh-CN": "每当自身造成倒地时，额外造成攻击力50%的物理伤害。",
+      "ja": "自身が敵を転倒させるたびに、追加で攻撃力50%分の物理ダメージを与える",
+      "ko": "적에게 넘어뜨리기 피해를 줄 때마다, 추가로 자신의 공격력 50%의 물리 피해를 줍니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Applying Knock Down also deals 100% ATK of Physical DMG.",
+      "zh-TW": "每當自身造成倒地時，額外造成攻擊力100%的物理傷害。",
+      "zh-CN": "每当自身造成倒地时，额外造成攻击力100%的物理伤害。",
+      "ja": "自身が敵を転倒させるたびに、追加で攻撃力100%分の物理ダメージを与える",
+      "ko": "적에게 넘어뜨리기 피해를 줄 때마다, 추가로 자신의 공격력 100%의 물리 피해를 줍니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Breaking the Obsession",
+    "zh-TW": "破執",
+    "zh-CN": "破执",
+    "ja": "破執",
+    "ko": "파집"
+   },
+   "text": {
+    "en": "Battle skill Turbid Avatar improved: Physical Susceptibility +5%; also triggers this additional effect to enemies with no more than 2 Vulnerability stacks.",
+    "zh-TW": "戰技蕩濁身施加的物理脆弱效果+5%，且對破防層數不超過2層的敵人仍然能觸發此額外效果。",
+    "zh-CN": "战技荡浊身施加的物理脆弱效果+5%，且对破防层数不超过2层的敌人仍然能触发此额外效果。",
+    "ja": "戦技「浄化身」による物理脆弱効果+5%\nこの効果はクラッシュ段階が2以下の敵にも発動可能",
+    "ko": "배틀 스킬 신체 정화가 부여하는 물리 취약 효과 +5%, 방어 불능 스택 수치가 2스택을 초과하지 않은 적에게도 이 추가 효과가 발동합니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Self Refinement",
+    "zh-TW": "修身",
+    "zh-CN": "修身",
+    "ja": "修行",
+    "ko": "수신"
+   },
+   "text": {
+    "en": "All attributes +15.",
+    "zh-TW": "全能力+15。",
+    "zh-CN": "全能力+15。",
+    "ja": "すべての能力値+15",
+    "ko": "모든 능력치 +15"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Spiritual Cultivation",
+    "zh-TW": "養性",
+    "zh-CN": "养性",
+    "ja": "養心",
+    "ko": "양성"
+   },
+   "text": {
+    "en": "Talent Illumination improved: Every point in the attributes of Intellect and Will grants Lifeng an additional ATK +0.05%.",
+    "zh-TW": "天賦頓悟效果加強：每點智識和意志使攻擊力額外+0.05%。",
+    "zh-CN": "天赋顿悟效果加强：每点智识和意志使攻击力额外+0.05%。",
+    "ja": "素質「円頓」強化：知性と意志1につき攻撃力がさらに+0.05%",
+    "ko": "재능 '돈오' 효과 강화: 지능 및 의지 1포인트당 추가 공격력 +0.05%"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Brief Instant",
+    "zh-TW": "剎那",
+    "zh-CN": "刹那",
+    "ja": "刹那",
+    "ko": "찰나"
+   },
+   "text": {
+    "en": "Ultimate Heart of the Unmoving improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技不動心所需的終結技能量-15%。",
+    "zh-CN": "终结技不动心所需的终结技能量-15%。",
+    "ja": "必殺技「不動心」に必要な必殺チャージ-15%",
+    "ko": "궁극기 움직이지 않는 마음의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Unremitting",
+    "zh-TW": "不懈",
+    "zh-CN": "不懈",
+    "ja": "精進",
+    "ko": "불해"
+   },
+   "text": {
+    "en": "Talent Subduer of Evil improved: Every 15s, the next effect triggered deals another 250% ATK of Physical DMG and 5 Stagger.",
+    "zh-TW": "天賦伏魔效果加強：每隔15秒，下一次觸發時額外造成攻擊力250%的物理傷害和5點失衡。",
+    "zh-CN": "天赋伏魔效果加强：每隔15秒，下一次触发时额外造成攻击力250%的物理伤害和5点失衡。",
+    "ja": "素質「伏魔」強化：15秒ごとに、次回発動時に追加で攻撃力250%分の物理ダメージとブレイク値5を与える",
+    "ko": "재능 '복마' 효과 강화: 15초마다, 다음 효과 발동 시 공격력 250%만큼 추가 물리 피해를 주고, 5포인트의 불균형 피해를 줍니다."
+   }
+  }
+ ]
+}

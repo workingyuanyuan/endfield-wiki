@@ -54,7 +54,7 @@ sources:
 | Voice, Korean | Lee Joo-eun |
 | Operator File | [Rossi's file](/story/rossi/) |
 
-Rossi (Rossina Wulfperl Luppino) is Wulfgard's younger sister and the Pearl of the Pack who took on leading the clan while her brother works alone.
+> "Piece of cake for an elite like me!"  Rossina Wulfperl Luppino, younger sister of Wulfgard and the Pearl of the Pack. In a feud between the Pack and the Bonekrushers, many elder wolves paid a bloody price to rescue her. The blood that day stained her swaddling blanket red...  Wulfgard operates independently from the clan for years, but the Pack required a leader, and Rossi accepted that responsibility. She has always felt that her brother, who rose to fame at a young age, should be the one leading the entire Pack, and she constantly reminds and urges him to do so. While the elders of the clan hope Rossi can spend more time doing what she loves at her age, she ultimately cannot lift the weight of "responsibility" from her heart. She strives to become more reliable and powerful for the sake of her family and her clan.  Rossi, who longs for heroic tales, occasionally fantasizes that one day she will be able to fight alongside a legendary hero. This is the bit of "me time" she reserves for herself.  "They bit deep, but the Pack isn't afraid of more scars!"
 
 ## How to obtain
 
@@ -84,12 +84,40 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Seething Wolfblood | Physical combo of up to 5 hits. As the controlled operator, her final strike also deals 18 Stagger. |
-| Battle skill | Crimson Shadow | Charges at the target for Physical damage and applies Lift; if the target already has Vulnerability, also sends a Wolven Ambrage charging in for Heat damage. Costs 100 SP. |
-| Combo skill | Moment of Blazing Shadow | Trigger: an enemy has both Vulnerability and Arts Infliction. Runs in 2 sequences: sequence 1 deals Physical damage, and sequence 2 consumes all Arts Infliction for Physical damage scaling with stacks consumed, applies 1 Lift, and boosts Rossi's Critical Rate and Critical DMG; perfect timing adds 1 Vulnerability stack. Cooldown 15 s, 14 s at the highest skill level. |
-| Ultimate | "Razorclaw" Ambuscade | With a flutter of her cape she unleashes a rapid flurry of stabs for multi-hit Heat damage, followed by a 2-hit dagger slash dealing massive Heat damage and applying Heat Infliction; critical hits with this skill deal bonus Critical DMG. Costs 110 Ultimate Energy. |
+| Basic attack | Seething Wolfblood | — |
+| Battle skill | Crimson Shadow | 100 SP |
+| Combo skill | Moment of Blazing Shadow | Cooldown 15 s, 14 s at level 12 |
+| Ultimate | "Razorclaw" Ambuscade | 110 Ultimate Energy |
+
+### Seething Wolfblood
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 18 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.
+
+### Crimson Shadow
+
+> Charges to the target to deal Physical DMG and apply Lift.\
+> If the target already has Vulnerability stack(s), the skill also unleashes a Wolven Ambrage that charges at the target to deal Heat DMG.
+
+### Moment of Blazing Shadow
+
+> COMBO TRIGGER: When an enemy has both Vulnerability and Arts Infliction stacks.\
+> Rossi's combo skill has 2 consecutive sequences. COMBO SEQUENCE 1 deals Physical DMG to the target.\
+> COMBO SEQUENCE 2 consumes all Arts Infliction stacks from the target, deals Physical DMG based on the number of Arts Infliction stacks consumed, applies 1 instance of Lift, and buffs Rossi's Critical Rate and Critical DMG Dealt at the same time.\
+> If COMBO SEQUENCE 2 is cast with perfect timing, it applies 1 more stack of Vulnerability.
+
+### "Razorclaw" Ambuscade
+
+> Rossi flutters her cape and unleashes a flurry of stabs that quickly deals multiple sequences of Heat DMG to the target. She then performs a two-sequence slash attack with her dagger that deals massive Heat DMG and applies Heat Infliction.\
+> When this skill successfully scores a critical hit, it deals higher Critical DMG.
 
 ## Skill values
 
@@ -125,20 +153,37 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Nicks and Scratches | Promotion I; upgraded at Promotion II | When Wolven Ambrage deals damage, it applies non-stacking Razor Clawmark for 15 s (25 s at Promotion II), dealing 25% of Rossi's ATK as Physical damage per second (30% at Promotion II) and increasing Physical and Heat damage taken by 6% (12% at Promotion II). |
-| Seething Blood | Promotion II; upgraded at Promotion III | When Rossi's skill crits a Razor Clawmarked enemy, it triggers an extra hit for 12% of her ATK as Heat damage (24% at Promotion III) and restores Intellect × 0.04 HP (Intellect × 0.08 at Promotion III); both effects are 1.5 times stronger if the target is also Combusted. |
+### Nicks and Scratches
+
+**Promotion I**
+
+> Battle skill improved: After Wolven Ambrage deals DMG, Rossi applies Razor Clawmark to the target for 15s. This effect cannot stack.\
+> For the duration of Razor Clawmark, the target takes 25% ATK (Rossi's) of Physical DMG per second and suffers Physical DMG Taken and Heat DMG Taken +6%.
+
+**Promotion II**
+
+> Battle skill improved: After Wolven Ambrage deals DMG, Rossi applies Razor Clawmark to the target for 25s. This effect cannot stack.\
+> For the duration of Razor Clawmark, the target takes 30% ATK (Rossi's) of Physical DMG per second and suffers Physical DMG Taken and Heat DMG Taken +12%.
+
+### Seething Blood
+
+**Promotion II**
+
+> When Rossi's skill deals Critical DMG to a Razor Clawmarked enemy, trigger another hit that deals 12% ATK (Rossi's) of Heat DMG and restores \[Intellect × 0.04\] HP to Rossi. If the target is also Combusted, then the aforementioned DMG and HP Restoration effects are increased to 1.5 times.
+
+**Promotion III**
+
+> When Rossi's skill deals Critical DMG to a Razor Clawmarked enemy, trigger another hit that deals 24% ATK (Rossi's) of Heat DMG and restores \[Intellect × 0.08\] HP to Rossi. If the target is also Combusted, then the aforementioned DMG and HP Restoration effects are increased to 1.5 times.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Origin of Admiration | Crimson Shadow and Moment of Blazing Shadow deal 1.15 times damage, and Wolven Ambrage returns 10 SP on hit |
-| 2 | Gap to Perfection | Agility +20, Critical Rate +7% |
-| 3 | Tangible Duties | Seething Blood gains +8% base damage multiplier and restores an extra Intellect × 0.04 HP when triggered |
-| 4 | Innocent Wish | "Razorclaw" Ambuscade costs 15% less Ultimate Energy |
-| 5 | Legendary Destination | "Razorclaw" Ambuscade deals 1.1 times damage and gains +30% Critical DMG |
+| 1 | Origin of Admiration | Battle skill Crimson Shadow and combo skill Moment of Blazing Shadow improved: The DMG Multipliers of these skills are increased to 1.15 times of the original. Wolven Ambrage of the battle skill also returns 10 SP after hitting the enemy. |
+| 2 | Gap to Perfection | Agility +20, Critical Rate +7%. |
+| 3 | Tangible Duties | Talent Seething Blood improved: When triggered, it grants Base DMG Multiplier +8% and restores HP +\[Intellect × 0.04\]. |
+| 4 | Innocent Wish | Ultimate "Razorclaw" Ambuscade improved: Ultimate Energy cost -15%. |
+| 5 | Legendary Destination | Ultimate "Razorclaw" Ambuscade improved: DMG Multiplier is increased to 1.1 times of the original; Critical DMG Dealt is increased by +30%. |
 
 ## Base skills
 
@@ -146,10 +191,10 @@ Base skills work while Rossi is assigned to a room of the Dijiang. Each has two 
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Clan Etiquette β | Reception Room | Promotion I | Mood drop of the operators in this room −14% |
-| Clan Etiquette γ | Reception Room | Promotion III | Mood drop of the operators in this room −18% |
-| Scent of the Hunt β | Reception Room | Promotion II | Clues collected 20% faster |
-| Scent of the Hunt γ | Reception Room | Promotion IV | Clues collected 30% faster |
+| Clan Etiquette β | Reception Room | Promotion I | Assign to Reception Room to slow Mood Drop of all operators in it by 14% |
+| Clan Etiquette γ | Reception Room | Promotion III | Assign to Reception Room to slow Mood Drop of all operators in it by 18% |
+| Scent of the Hunt β | Reception Room | Promotion II | Assign to Reception Room to grant operator clue collecting efficiency +20% |
+| Scent of the Hunt γ | Reception Room | Promotion IV | Assign to Reception Room to grant operator clue collecting efficiency +30% |
 
 ## Base stats
 

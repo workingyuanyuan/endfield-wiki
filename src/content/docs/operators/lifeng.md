@@ -48,7 +48,8 @@ sources:
 | Voice, Korean | Kim Yoon-gi |
 | Operator File | [Lifeng's file](/story/lifeng/) |
 
-Lifeng is a Wuling City native and spear fighter trained by Da Pan who currently interns in Endfield's Specialist Tech Division to grow strong enough to protect his home.
+> "I came to Endfield to learn. But ... there's way too much to take in. Gotta work even harder!"  Lifeng, born in Wuling City, now interns at the Specialist Tech Division of Endfield Industries.  Back in Wuling, Lifeng's mind and personalities made him popular with his peers and elders. Years of guidance from Da Pan have honed his spear fighting skills, arming him for his pursuit of justice. Few would guess from his cheerful demeanor the shadow he carries — an accident that shattered his once-happy family and cost him an arm. Yet hardship has never dimmed his fire. He continues to grow with sincerity and passion, yearning for the day he can take on greater responsibilities. Someday, he will stand tall on his own and return to protect the home that waits for him.\
+> "One day, I'll be capable enough to take on the toughest missions. Please look forward to that day, Endmin."
 
 ## How to obtain
 
@@ -76,12 +77,38 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Ruination | Physical combo of up to 4 hits. The final strike deals 19 Stagger while he is the controlled operator. |
-| Battle skill | Turbid Avatar | Swings his polearm for 2 Physical hits, then slams the ground to deal area Physical damage and Knock Down. Enemies hit by the final slam who have no Vulnerability stacks also receive Physical Susceptibility. Costs 100 SP. |
-| Combo skill | Aspect of Wrath | Trigger: the controlled operator lands a final strike on an enemy with Physical Susceptibility or Breach. Lifeng unleashes an aspect to thrust with a spear for Physical damage and gain Link. Cooldown 16 s, 15 s at the highest skill level. |
-| Ultimate | Heart of the Unmoving | Unleashes an aspect for an Immovable Vajra Slam that deals wide-area Physical damage, applies Knock Down, and pulls enemies to the center. After a delay, enemies still inside take another heavy Physical hit and Knock Down; consuming Link adds one more heavy Physical hit. Costs 90 Ultimate Energy. |
+| Basic attack | Ruination | — |
+| Battle skill | Turbid Avatar | 100 SP |
+| Combo skill | Aspect of Wrath | Cooldown 16 s, 15 s at level 12 |
+| Ultimate | Heart of the Unmoving | 90 Ultimate Energy |
+
+### Ruination
+
+> BASIC ATTACK:\
+> An attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 19 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.
+
+### Turbid Avatar
+
+> Swings the polearm multiple times to deal 2 hits of Physical DMG, then slams the ground to deal Physical DMG and Knock Down to all enemies in the area of effect.\
+> If the enemy struck by the last hit of this skill has no Vulnerability stacks, apply Physical Susceptibility to the said enemy as well.
+
+### Aspect of Wrath
+
+> COMBO TRIGGER: When the controlled operator performs a Final Strike on an enemy with Physical Susceptibility or Breach.\
+> Unleashes an aspect that performs a spear thrust to deal Physical DMG and grants Link.
+
+### Heart of the Unmoving
+
+> Unleashes an aspect that performs an Immovable Vajra Slam. The Slam deals Physical DMG and applies Knock Down to all enemies in a large area of effect (AOE), and pulls enemies towards the center of the AOE. After a while, the Slam unleashes one more hit that deals massive Physical DMG and applies another Knock Down to enemies still within its AOE.\
+> If the skill consumes a Link, then it deals an additional hit of massive Physical DMG.
 
 ## Skill values
 
@@ -115,20 +142,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Illumination | Promotion I; upgraded at Promotion II | Each point of Intellect and Will grants Lifeng an extra 0.10% ATK (0.15% at Promotion II). |
-| Subduer of Evil | Promotion II; upgraded at Promotion III | Whenever he applies Knock Down, he also deals Physical damage equal to 50% of his ATK (100% at Promotion III). |
+### Illumination
+
+**Promotion I**
+
+> Every point of Intellect and Will further grants ATK +0.10%.
+
+**Promotion II**
+
+> Every point of Intellect and Will further grants ATK +0.15%.
+
+### Subduer of Evil
+
+**Promotion II**
+
+> Applying Knock Down also deals 50% ATK of Physical DMG.
+
+**Promotion III**
+
+> Applying Knock Down also deals 100% ATK of Physical DMG.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Breaking the Obsession | Turbid Avatar's Physical Susceptibility increases by 5%, and it now also triggers on enemies with up to 2 stacks of Vulnerability |
-| 2 | Self Refinement | All attributes +15 |
-| 3 | Spiritual Cultivation | Illumination grants an additional 0.05% ATK per point of Intellect and Will |
-| 4 | Brief Instant | Heart of the Unmoving costs 15% less Ultimate Energy |
-| 5 | Unremitting | Every 15 s, the next trigger of Subduer of Evil deals an extra 250% ATK as Physical damage and 5 Stagger |
+| 1 | Breaking the Obsession | Battle skill Turbid Avatar improved: Physical Susceptibility +5%; also triggers this additional effect to enemies with no more than 2 Vulnerability stacks. |
+| 2 | Self Refinement | All attributes +15. |
+| 3 | Spiritual Cultivation | Talent Illumination improved: Every point in the attributes of Intellect and Will grants Lifeng an additional ATK +0.05%. |
+| 4 | Brief Instant | Ultimate Heart of the Unmoving improved: Ultimate Energy cost -15%. |
+| 5 | Unremitting | Talent Subduer of Evil improved: Every 15s, the next effect triggered deals another 250% ATK of Physical DMG and 5 Stagger. |
 
 ## Base skills
 
@@ -136,10 +178,10 @@ Base skills work while Lifeng is assigned to a room of the Dijiang. Each has two
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Youthful Ambition β | Control Nexus | Promotion I | Mood recovery of all operators +12% |
-| Youthful Ambition γ | Control Nexus | Promotion III | Mood recovery of all operators +16% |
-| Laddie Reliable α | Reception Room | Promotion II | Slightly higher chance of Clue 3 (HAS); does not stack with another skill of this kind |
-| Laddie Reliable β | Reception Room | Promotion IV | Higher chance of Clue 3 (HAS); does not stack with another skill of this kind |
+| Youthful Ambition β | Control Nexus | Promotion I | Assign to Control Nexus to grant all operators' Mood Regen +12% |
+| Youthful Ambition γ | Control Nexus | Promotion III | Assign to Control Nexus to grant all operators' Mood Regen +16% |
+| Laddie Reliable α | Reception Room | Promotion II | Assign to Reception Room to grant operators a small Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack) |
+| Laddie Reliable β | Reception Room | Promotion IV | Assign to Reception Room to grant operators Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack) |
 
 ## Base stats
 

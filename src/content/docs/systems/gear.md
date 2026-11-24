@@ -13,6 +13,8 @@ aliases:
 sources:
   - title: "warfarin.wiki, gear and gear sets (game data 1.6)"
     url: https://warfarin.wiki/en/gear
+  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
   - title: "warfarin.wiki, operator pages (Outfitting nodes in game data 1.6)"
     url: https://warfarin.wiki/en/operators/laevatain
   - title: "warfarin.wiki, tutorial Gear (game data 1.6)"
@@ -33,7 +35,7 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9560
 ---
 
-Game data 1.6 of Arknights: Endfield has 24 gear sets. An operator wears four pieces of gear (one armor, one pair of gloves and two kits), and three pieces of one set switch on that set's effect; no set has an effect for two or four pieces. The 3-piece effect of each set is in the last table.
+Game data 1.6 of Arknights: Endfield has 24 gear sets. An operator wears four pieces of gear (one armor, one pair of gloves and two kits), and three pieces of one set switch on that set's effect; no set has an effect for two or four pieces.
 
 ## How gear works
 
@@ -95,31 +97,29 @@ Pieces is the number of pieces of the set in game data 1.6, across all its level
 
 ## 3-piece set effects
 
-| Set | 3-piece effect |
-| --- | --- |
-| AIC Heavy | HP +500. Defeating an enemy restores 100 HP, at most once every 5 s. |
-| AIC Light | HP +500. Defeating an enemy gives ATK +20 for 5 s. |
-| Armored MSGR | Strength +50. Below 50% HP, the wearer takes 30% less damage of every type. |
-| Mordvolt Insulation | Intellect +50. Above 80% HP, Arts damage +20%. |
-| Mordvolt Resistant | Will +50. Below 50% HP, healing done by the wearer +30%. |
-| Roving MSGR | Agility +50. Above 80% HP, Physical damage +20%. |
-| Aburrey's Legacy | Skill damage +24%. A battle skill, a combo skill and an ultimate each give ATK +5% for 15 s; the three buffs are separate and none stacks with itself. |
-| Catastrophe | Ultimate Gain Efficiency +20%. A battle skill returns 50 SP, once per battle. |
-| AIC Fieldwork | Damage dealt +20% and damage taken −10% for every type, Ultimate Gain Efficiency +10%. |
-| Æthertech | ATK +8%. Applying Vulnerable gives Physical damage +8% for 15 s, up to 4 stacks; when the target is at 4 Vulnerable stacks, another Physical damage +16% for 10 s, not stacking. |
-| Bonekrusha | ATK +15%. Each combo skill gives 1 stack of Bonekrushing Smash, up to 2: the next battle skill deals +30% damage. |
-| Deep Rampart | Arts damage +16%. Applying Nature Burst or Cryo Burst gives Arts Intensity +16 for 20 s, up to 3 stacks with separate timers, at most once every 0.1 s. |
-| Eternal Xiranite | HP +1000. Applying Amp, Protect, Susceptibility or Weakness gives the other teammates damage +16% for 15 s, not stacking. |
-| Frontiers | Combo skill cooldown reduction +15%. When the wearer's skill recovers SP, the whole team deals +16% damage for 15 s, not stacking. |
-| Grizzled Edge | ATK +8%. Crush or Breach gives Physical damage +6% per Vulnerable stack consumed from one enemy for 20 s; 1.5 times that if the target has Physical Susceptibility, is Staggered or carries Originium Crystals. Not stacking. |
-| Hot Work | Arts Intensity +30. Applying Combustion gives Heat damage +50% for 10 s; applying Corrosion gives Nature damage +50% for 10 s. Neither stacks. |
-| LYNX | HP Treatment Efficiency +20%. An ally the wearer heals takes 15% less damage of every type for 10 s, or 30% less if the heal goes past their max HP. Not stacking. |
-| MI Security | Critical Rate +5%. Each critical hit gives ATK +5% for 5 s, up to 5 stacks; at 5 stacks, Critical Rate +5% more, not stacking. |
-| Pulser Labs | Arts Intensity +30. Applying Electrification gives Electric damage +50% for 10 s; applying Solidification gives Cryo damage +50% for 10 s. Neither stacks. |
-| Qingbo | Combo skill cooldown reduction +15%. Each combo skill gives damage +20% to every skill for 15 s, up to 2 stacks with separate timers. |
-| Swordmancer | Stagger efficiency +20%. Applying a Physical Status adds one hit of Physical damage at 250% ATK with 10 Stagger, at most once every 15 s. |
-| Tide Surge | Skill damage +20%. Bringing an enemy to 2 or more Arts Infliction stacks gives Arts damage +35% for 15 s, not stacking. |
-| Type 50 Yinglung | ATK +15%. Whenever any teammate casts a battle skill, the wearer gains 1 stack of Yinglung's Edge, up to 3: its next combo skill deals +20% damage. |
-| Xiranflow | ATK +10%. Consuming Electrification or Corrosion gives as many stacks as the reaction's Status Level, each Electric and Nature damage +15% for 25 s, up to 3 stacks with separate timers. |
+- **AIC Heavy**: 3-piece set effect: Wearer's HP +500. After the wearer defeats an enemy, the wearer restores 100 HP. Effect trigger cooldown: 5s.
+- **AIC Light**: 3-piece set effect: Wearer's HP +500. After the wearer defeats an enemy, the wearer gains ATK +20 for 5s.
+- **Armored MSGR**: 3-piece set effect: Wearer's Strength +50. When the wearer's HP is below 50%, the wearer gains 30% DMG Reduction against all types of DMG.
+- **Mordvolt Insulation**: 3-piece set effect: Wearer's Intellect +50. When the wearer's HP is above 80%, Arts DMG +20%.
+- **Mordvolt Resistant**: 3-piece set effect: Wearer's Will +50. When the wearer's HP is below 50%, Treatment Effect +30%.
+- **Roving MSGR**: 3-piece set effect: Wearer's Agility +50. When the wearer's HP is above 80%, Physical DMG +20%.
+- **Aburrey's Legacy**: 3-piece set effect: Wearer's Skill DMG +24%. When the wearer casts a battle skill, combo skill, or ultimate, the wearer gains ATK +5% for 15s. The buff from each of the three skill types is unique and does not stack with itself.
+- **Catastrophe**: 3-piece set effect: Wearer's Ultimate Gain Efficiency +20%. The wearer casts a battle skill, the action returns 50 SP. This effect only triggers 1 time per battle.
+- **AIC Fieldwork**: 3-piece set effect: Wearer gains DMG Dealt +20% for all types of DMG, 10% DMG Reduction against all types of DMG, and Ultimate Gain Efficiency +10%.
+- **Æthertech**: 3-piece set effect: Wearer's ATK +8%. After the wearer applies Vulnerability, the wearer gains Physical DMG Dealt +8% for 15s. This effect can reach 4 stacks. If the target has 4 stacks of Vulnerability, the wearer gains an additional Physical DMG Dealt +16% for 10s. This effect cannot stack.
+- **Bonekrusha**: 3-piece set effect: Wearer's ATK +15%. When the wearer casts a combo skill, the wearer gains 1 stack of Bonekrushing Smash that grants the wearer's next battle skill DMG Dealt +30%. Bonekrushing Smash can stack 2 time(s).
+- **Deep Rampart**: 3-piece set effect: Wearer's Arts DMG Dealt +16%. When the wearer applies Nature Burst or Cryo Burst, the wearer gains Arts Intensity +16 for 20s. Max stacks for this effect: 3. Duration of each stack is counted separately. Effect only triggers once every 0.1s.
+- **Eternal Xiranite**: 3-piece set effect: Wearer's HP +1000. After the wearer applies Amp, Protection, Susceptibility, or Weakness, other teammates gain DMG Dealt +16% for 15s. This effect cannot stack.
+- **Frontiers**: 3-piece set effect: Wearer's Combo Skill Cooldown Reduction +15%. After the wearer's skill recovers SP, the team gains DMG +16% for 15s. This effect cannot stack.
+- **Grizzled Edge**: 3-piece set effect: Wearer's ATK +8%. When the wearer applies Crush or Breach, the wearer gains Physical DMG Dealt +\[6% × Max number of Vulnerability stacks consumed from one enemy\] for 20s. If the target already has Physical Susceptibility, is Staggered, or has attached Originium Crystals, increase the aforementioned buff to 1.5 times. This buff cannot stack.
+- **Hot Work**: 3-piece set effect: Wearer's Arts Intensity +30. After the wearer applies Combustion, the wearer gains Heat DMG +50% for 10s. After the wearer applies Corrosion, the wearer gains Nature DMG +50% for 10s. The aforementioned effects cannot stack.
+- **LYNX**: 3-piece set effect: Wearer's HP Treatment Efficiency +20%. After the wearer gives HP treatment to an allied target, that target also gains 15% DMG Reduction against all types of DMG for 10s. If the said treatment exceeds the target's Max HP, the target gains 30% DMG Reduction against all types of DMG. The aforementioned effects cannot stack.
+- **MI Security**: 3-piece set effect: Wearer's Critical Rate +5%. After the wearer scores a critical hit, the wearer gains ATK +5% for 5s. This effect can reach 5 stacks. At max stacks, grant an additional Critical Rate +5%. This effect cannot stack.
+- **Pulser Labs**: 3-piece set effect: Wearer's Arts Intensity +30. After the wearer applies Electrification, the wearer gains Electric DMG +50% for 10s. After the wearer applies Solidification, the wearer gains Cryo DMG +50% for 10s. The aforementioned effects cannot stack.
+- **Qingbo**: 3-piece set effect: Wearer's Combo Skill Cooldown Reduction +15%. When the wearer casts a combo skill, the wearer gains Skill DMG Dealt +20% (for every skill) for 15s. This effect can reach 2 stacks. Duration of each stack is counted separately.
+- **Swordmancer**: 3-piece set effect: Wearer's Stagger Efficiency Bonus +20%. After the wearer applies a Physical Status, the wearer also performs 1 hit that deals 250% ATK of Physical DMG and \[10 Stagger\]. Effect trigger cooldown: 15s.
+- **Tide Surge**: 3-piece set effect: Wearer's Skill DMG Dealt +20%. After the wearer applies 2 or more stacks of Arts Infliction on the enemy, the wearer gains Arts DMG Dealt +35% for 15s. This effect cannot stack.
+- **Type 50 Yinglung**: 3-piece set effect: Wearer's ATK +15%. When any operator in the team casts a battle skill, the wearer gains 1 stack of Yinglung's Edge that gives DMG +20% to the wearer's next combo skill. Yinglung's Edge can stack 3 time(s).
+- **Xiranflow**: 3-piece set effect: Wearer's ATK +10%. Whenever the wearer consumes Electrification or Corrosion, the wearer gains a number of buff stacks equal to the Status Level of the Arts Reaction consumed, with each buff stack giving Electric DMG Dealt and Nature DMG Dealt +15% for 25s. Max number of buff stacks: 3. Duration of each stack is counted separately.
 
 Vulnerable, Status Level, Arts Infliction and other terms are explained on [Combat mechanics](/systems/combat/).

@@ -44,7 +44,8 @@ sources:
 | Voice, Korean | Yu Hye-ji |
 | Operator File | [Perlica's file](/story/perlica/) |
 
-Perlica is Endfield Industries' Supervisor and official spokesperson, overseeing Protocol-Originium technology and Dijiang while leading the Crisis Team during the Endministrator's hibernation.
+> "We once fought on and never gave up ... for it is our wish to witness your return."  Perlica is the Supervisor of Endfield Industries and the official spokesperson of the company. She is primarily responsible for overseeing and advancing the development and application of Protocol-Originium technology, while also managing the operations of Dijiang.  As an outstanding expert in Techno-Protocol, she guided research that had a key influence on the adaptive development and application of the technology, and helped refine the Automated Industry Complex (AIC Factory).  She is capable of responding to various crises in a calm and decisive manner. However, Endfield often faces challenges that go beyond all expectations. While the Endministrator was in hibernation, she took command of the Crisis Team, leading the heroes of Endfield Industries in a battle for a greater cause. Perlica moves tirelessly across the Civilization Band, doing whatever she can to maintain order and keep things running.\
+> "Only by walking upon the land, can we truly appreciate every breath and pulse of life... And this is what Endfield is fighting for."
 
 ## How to obtain
 
@@ -67,12 +68,36 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Protocol α: Breach | Electric combo of up to 4 hits. As the controlled operator, her final strike also deals 15 Stagger. |
-| Battle skill | Protocol ω: Strike | Calls down a bolt of electro-magnetic energy that deals Electric damage and applies Electric Infliction to enemies in a small area. Costs 100 SP. |
-| Combo skill | Instant Protocol: Chain | Trigger: the controlled operator lands a Final Strike on an enemy. Bombards the target with electro-magnetic energy for Electric damage and forcibly inflicts temporary Electrification. Cooldown 20 s, 19 s at the highest skill level. |
-| Ultimate | Protocol ε: 70.41K | Teleports a huge piece of orbital debris onto the target area, dealing massive Electric damage to all enemies inside. Costs 80 Ultimate Energy. |
+| Basic attack | Protocol α: Breach | — |
+| Battle skill | Protocol ω: Strike | 100 SP |
+| Combo skill | Instant Protocol: Chain | Cooldown 20 s, 19 s at level 12 |
+| Ultimate | Protocol ε: 70.41K | 80 Ultimate Energy |
+
+### Protocol α: Breach
+
+> BASIC ATTACK:\
+> An attack with up to 4 sequences that deals Electric DMG. As the controlled operator, Final Strike also deals 15 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Electric DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Electric DMG and recovers some SP.
+
+### Protocol ω: Strike
+
+> Unleashes a bolt of electro-magnetic energy that deals Electric DMG and Electric Infliction to enemies in a small area.
+
+### Instant Protocol: Chain
+
+> COMBO TRIGGER: When controlled operator performs a Final Strike on any enemy.\
+> Unleashes stored electro-magnetic energy to bombard the target, dealing Electric DMG and forcibly inflicting temporary Electrification.
+
+### Protocol ε: 70.41K
+
+> Tele-protocols a massive piece of orbital debris into the battlefield with devastating impact. All enemies in the area of effect suffer massive Electric DMG.
 
 ## Skill values
 
@@ -97,20 +122,31 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Obliteration Protocol | Promotion I; upgraded at Promotion II | Deals +20% damage to Staggered enemies (+30% at Promotion II). |
-| Cycle Protocol | Promotion III | When Instant Protocol: Chain hits a Vulnerable enemy, the hit chains 1 more time. |
+### Obliteration Protocol
+
+**Promotion I**
+
+> DMG Dealt +20% to Staggered enemies.
+
+**Promotion II**
+
+> DMG Dealt +30% to Staggered enemies.
+
+### Cycle Protocol
+
+**Promotion III**
+
+> Combo skill Instant Protocol: Chain improved: When hitting a Vulnerable enemy, the hit chains 1 more time.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Crisis Handling | Electrification applied by Instant Protocol: Chain lasts 75% longer |
-| 2 | Negotiation Tactics | Protocol ε: 70.41K costs 15% less Ultimate Energy |
-| 3 | Supervisory Duties | Applying Electrification gives Perlica ATK +20% for 5 s, stacking up to 2 times |
-| 4 | Constant Guidance | The Arts DMG Taken debuff from Instant Protocol: Chain's Electrification is increased to 1.33 times its original value |
-| 5 | Reentry Control | Protocol ε: 70.41K gains +30% Critical Rate |
+| 1 | Crisis Handling | Combo skill Instant Protocol: Chain improved: Electrification duration +75%. |
+| 2 | Negotiation Tactics | Ultimate Protocol ε: 70.41K improved: Ultimate Energy cost -15%. |
+| 3 | Supervisory Duties | After Perlica applies Electrification to the enemy, she gains ATK +20% for 5s. This effect can reach 2 stacks. |
+| 4 | Constant Guidance | Combo skill Instant Protocol: Chain improved: The Arts DMG Taken debuff effects on the enemy applied by the skill's Electrification are increased to 1.33 times the original. |
+| 5 | Reentry Control | Ultimate Protocol ε: 70.41K improved: Critical Rate +30%. |
 
 ## Base skills
 
@@ -118,10 +154,10 @@ Base skills work while Perlica is assigned to a room of the Dijiang. Each has tw
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Supervisor α | Control Nexus | Promotion I | Mood recovery of all operators +8% |
-| Supervisor β | Control Nexus | Promotion III | Mood recovery of all operators +12% |
-| Protocol Redistribution β | MFG Cabin | Promotion II | Weapon EXP materials made 20% faster |
-| Protocol Redistribution γ | MFG Cabin | Promotion IV | Weapon EXP materials made 30% faster |
+| Supervisor α | Control Nexus | Promotion I | Assign to Control Nexus to grant all operators' Mood Regen +8% |
+| Supervisor β | Control Nexus | Promotion III | Assign to Control Nexus to grant all operators' Mood Regen +12% |
+| Protocol Redistribution β | MFG Cabin | Promotion II | Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +20% |
+| Protocol Redistribution γ | MFG Cabin | Promotion IV | Assign to Manufacturing Cabin to grant weapon EXP material production efficiency +30% |
 
 ## Base stats
 

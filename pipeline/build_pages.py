@@ -1,22 +1,25 @@
 """Write the pages that come from records: one page per operator, in English, Traditional
 Chinese, Japanese and Korean.
 
-Usage: python3 -I pipeline/build_pages.py [--test-fill-english]
+Usage: python3 -I pipeline/build_pages.py
 Reads records/ only (no cache, no network) and writes src/content/docs/operators/<slug>.md
 and the same path under zh-tw/, ja/ and ko/. Run scripts/to-zh-cn.py afterwards for the
 Simplified Chinese pages. Do not edit the pages it writes: change the record or this script.
 
-Japanese and Korean names come from records/names-jako.json (pipeline/names_jako.py), the
-restated text from the ja and ko fields of records/text/<slug>.json. While those fields are
-missing, the Japanese or Korean pages are not written and the script exits with 1.
---test-fill-english fills the missing fields from English, to test the templates: never
-commit pages made with it.
+Japanese and Korean names come from records/names-jako.json (pipeline/names_jako.py). The
+game's own text (the official introduction, skill, talent, potential and base-skill
+descriptions) comes from records/gametext/<slug>.json and records/base-skills.json, in each
+language's edition, and is shown as given (pipeline/gametext.py writes it the same way for
+every script).
 """
 import glob
 import json
 import os
 import re
 import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from gametext import inline, quoted  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS = os.path.join(ROOT, 'src', 'content', 'docs')
@@ -106,7 +109,7 @@ for _path in sorted(glob.glob(os.path.join(ROOT, 'records', 'operators', '*.json
     _rec = enrich(json.load(open(_path, encoding='utf8')))
     for _lang in (JA, KO):
         _rec['voice'][_lang] = {k: NAMES[(v, _rec['voice'][ZH][k])][_lang] for k, v in _rec['voice'][EN].items()}
-    _rec['text'] = json.load(open(os.path.join(ROOT, 'records', 'text', _rec['slug'] + '.json'), encoding='utf8'))
+    _rec['game'] = json.load(open(os.path.join(ROOT, 'records', 'gametext', _rec['slug'] + '.json'), encoding='utf8'))
     OPS[_rec['slug']] = _rec
 
 ALL = BANNERS['banners']
@@ -134,40 +137,8 @@ WEAPON = {w['id']: w for w in load('weapons.json')}
 GAME_TABLES = (RECOMMEND['source'], {EN: 'rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)', ZH: 'rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）',
                                      JA: 'rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）', KO: 'rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)'})
 ATTR_KEY = {'Strength': 'str', 'Agility': 'agi', 'Intellect': 'int', 'Will': 'will'}
-BASE_EFFECT = {
-    'mood-regen-all': {EN: 'Mood recovery of all operators +{v}', ZH: '所有幹員心情恢復 +{v}',
-                       JA: f"全{J('Operators')}の{J('Mood')}回復 +{{v}}", KO: f"모든 {K('Operators')}의 {K('Mood')} 회복 +{{v}}"},
-    'mood-drop-room': {EN: 'Mood drop of the operators in this room −{v}', ZH: '本艙室幹員心情消耗 −{v}',
-                       JA: f"この{J('Cabin')}の{J('Operators')}の{J('Mood')}消耗 −{{v}}", KO: f"이 {K('Cabin')} {K('Operators')}의 {K('Mood')} 소모 −{{v}}"},
-    'make-operator-exp': {EN: 'Operator EXP materials made {v} faster', ZH: '幹員經驗材料生產效率 +{v}',
-                          JA: f"{J('Operators')}経験値素材の製造効率 +{{v}}", KO: f"{K('Operators')} 경험치 재료 생산 효율 +{{v}}"},
-    'make-weapon-exp': {EN: 'Weapon EXP materials made {v} faster', ZH: '武器經驗材料生產效率 +{v}',
-                        JA: f"{J('Weapon')}経験値素材の製造効率 +{{v}}", KO: f"{K('Weapon')} 경험치 재료 생산 효율 +{{v}}"},
-    'grow-plant': {EN: 'Vitrified plants grow {v} faster', ZH: '晶植材料培養速度 +{v}', JA: '晶植素材の培養速度 +{v}', KO: '결정화 식물 재료 육성 속도 +{v}'},
-    'grow-fungus': {EN: 'Fungal matter grows {v} faster', ZH: '菌類材料培養速度 +{v}', JA: '菌類素材の培養速度 +{v}', KO: '버섯 재료 육성 속도 +{v}'},
-    'grow-mineral': {EN: 'Rare minerals grow {v} faster', ZH: '礦物材料培養速度 +{v}', JA: '鉱物素材の培養速度 +{v}', KO: '광물 재료 육성 속도 +{v}'},
-    'clue-speed': {EN: 'Clues collected {v} faster', ZH: '線索收集效率 +{v}', JA: f"{J('Clues')}の捜索速度 +{{v}}", KO: f"{K('Clues')} 수집 효율 +{{v}}"},
-}
-
-
 def percent(v):
     return f"{round(v * 100, 2):g}%"
-
-
-def base_effect(skill, level, lang):
-    if skill['kind'] == 'clue-chance':
-        c = level['clue']
-        small = level['small']
-        if lang == EN:
-            more = 'Slightly higher' if small else 'Higher'
-            return f"{more} chance of Clue {c['number']} ({c['en']}); does not stack with another skill of this kind"
-        if lang == JA:
-            return f"{J('Clues')}{c['number']}（{c[JA]}）の入手確率が{'わずかに' if small else ''}上がる。同じ種類の効果とは重複しない"
-        if lang == KO:
-            return f"{K('Clues')} {c['number']}({c[KO]}) 획득 확률이 {'약간 ' if small else ''}오른다. 같은 종류의 효과와 중첩되지 않는다"
-        more = '小幅提升' if small else '提升'
-        return f"線索{c['number']}（{c['zh-TW']}）的機率{more}；同類效果不疊加"
-    return BASE_EFFECT[skill['kind']][lang].format(v=percent(level['value']))
 
 
 def sep_of(lang):
@@ -411,27 +382,22 @@ def obtain(op, st, lang):
     return out + special_notes(slug, st['banners'], lang)
 
 
-def skill_suffix(skill, lang):
+def skill_cost(skill, lang):
+    """The cost or cooldown of a skill, from the record."""
     k = skill['kind']
     if k == 'battle' and skill['cost']:
         c = skill['cost']
-        return {EN: f" Costs {c} SP.", ZH: f"消耗 {c} 點技力。", JA: f"{J('SP Cost')}：{c}。", KO: f" {K('SP Cost')} {c}."}[lang]
+        return {EN: f"{c} SP", ZH: f"{c} 點技力", JA: f"{J('SP Cost')} {c}", KO: f"{K('SP Cost')} {c}"}[lang]
     if k == 'ultimate' and skill['cost']:
         c = skill['cost']
-        return {EN: f" Costs {c} Ultimate Energy.", ZH: f"消耗 {c} 點終結技能量。", JA: f"{J('Ultimate Energy Cost')}：{c}。", KO: f" {K('Ultimate Energy Cost')} {c}."}[lang]
+        return {EN: f"{c} Ultimate Energy", ZH: f"{c} 點終結技能量", JA: f"{J('Ultimate Energy Cost')} {c}", KO: f"{K('Ultimate Energy Cost')} {c}"}[lang]
     if k == 'combo' and skill['cooldown'][0]:
         a, b = skill['cooldown']
         if a == b:
-            return {EN: f' Cooldown {a} s.', ZH: f'冷卻 {a} 秒。', JA: f"{J('Cooldown')}：{a}秒。", KO: f" {K('Cooldown')} {a}초."}[lang]
-        return {EN: f' Cooldown {a} s, {b} s at the highest skill level.', ZH: f'冷卻 {a} 秒，技能等級最高時 {b} 秒。',
-                JA: f"{J('Cooldown')}：{a}秒（スキルレベル最大時は{b}秒）。", KO: f" {K('Cooldown')} {a}초(최고 스킬 레벨에서 {b}초)."}[lang]
-    return ''
-
-
-def closed_sentence(text, lang):
-    text = text.strip()
-    end = '。' if lang in (ZH, JA) else '.'
-    return text if text[-1] in '.。！!？?' else text + end
+            return {EN: f'Cooldown {a} s', ZH: f'冷卻 {a} 秒', JA: f"{J('Cooldown')} {a}秒", KO: f"{K('Cooldown')} {a}초"}[lang]
+        return {EN: f'Cooldown {a} s, {b} s at level 12', ZH: f'冷卻 {a} 秒，等級 12 時 {b} 秒',
+                JA: f"{J('Cooldown')} {a}秒（レベル12で{b}秒）", KO: f"{K('Cooldown')} {a}초(레벨 12에서 {b}초)"}[lang]
+    return '—'
 
 
 def stage_name(p, lang):
@@ -466,7 +432,7 @@ def page(op, lang):
     slug = op['slug']
     st = status(slug)
     n = op['name'][lang]
-    text = op['text']
+    game = op['game']
     L = lambda en, zh, ja, ko: {EN: en, ZH: zh, JA: ja, KO: ko}[lang]  # noqa: E731
 
     desc = describe(op, st, lang)
@@ -535,7 +501,7 @@ def page(op, lang):
         story = link(lang, L(f"{n}'s file", f'{n}的檔案', f'{n}のプロファイル', f'{n}의 파일'), f'story/{slug}')
         rows.append((L(file_term['en'], file_term['zh-TW'], file_term['ja'], file_term['ko']), story))
     body += [f'| {k} | {v} |' for k, v in rows if v]
-    body += ['', text['intro'][lang], '']
+    body += ['', quoted(game['intro'][lang]), '']
     body += [L('## How to obtain', '## 取得方式', '## 入手方法', '## 획득 방법'), '']
     for block in obtain(op, st, lang):
         body += [block, '']
@@ -555,10 +521,22 @@ def page(op, lang):
                    f"すべての武器の{J('Essence Stats')}と{J('Recommended')}オペレーターは{weapons_link}にある。",
                    f"모든 무기의 {josa(K('Essence Stats'), AND)} {K('Recommended')} 오퍼레이터는 {weapons_link}에 있다."), '']
     body += [L('## Skills', '## 技能', f"## {J('Skills')}", f"## {K('Skills')}"), '',
-             L('| Slot | Name | What it does |', '| 欄位 | 名稱 | 效果 |', '| 枠 | 名称 | 効果 |', '| 구분 | 이름 | 효과 |'), '| --- | --- | --- |']
+             L('| Slot | Name | Cost or cooldown |', '| 欄位 | 名稱 | 消耗或冷卻 |', f"| 枠 | 名称 | コスト・{J('Cooldown')} |", f"| 구분 | 이름 | 소모·{K('Cooldown')} |"), '| --- | --- | --- |']
     for s in op['skills']:
-        effect = closed_sentence(text['skills'][s['kind']][lang], lang) + skill_suffix(s, lang)
-        body.append(f"| {SLOT[s['kind']][lang]} | {s['name'][lang]} | {effect} |")
+        body.append(f"| {SLOT[s['kind']][lang]} | {s['name'][lang]} | {skill_cost(s, lang)} |")
+    texts = {g['kind']: g for g in game['skills']}
+    assert sorted(texts) == sorted(s['kind'] for s in op['skills']), slug
+    for s in op['skills']:
+        g = texts[s['kind']]
+        body += ['', f"### {s['name'][lang]}", '']
+        if g['text']:
+            body += [quoted(g['text'][lang]), '']
+        for c in g['conditions']:
+            # The condition's name, as the game's tab shows it, unless its text begins with it.
+            if not c['text'][lang].startswith(c['name'][lang]):
+                body += [f"**{c['name'][lang]}**", '']
+            body += [quoted(c['text'][lang]), '']
+        body.pop()
     body += ['', L('## Skill values', '## 技能數值', f"## {J('Skills')}数値", f"## {K('Skills')} 수치"), '',
              L('The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.',
                '遊戲為每個技能列出的數值，分別是技能等級 1 與最高的等級 12。不隨等級改變的數值，兩欄相同。',
@@ -569,14 +547,19 @@ def page(op, lang):
         assert s['levels'] == 12, (slug, s['kind'])
         for v in s['values']:
             body.append(f"| {s['name'][lang]} | {v['name'][lang]} | {v['first']} | {v['last']} |")
-    body += ['', L('## Talents', '## 天賦', f"## {J('Talent')}", f"## {K('Talent')}"), '',
-             L('| Talent | Unlock | Effect |', '| 天賦 | 解鎖 | 效果 |', f"| {J('Talent')} | {J('Unlock')} | 効果 |", f"| {K('Talent')} | {K('Unlock')} | 효과 |"), '| --- | --- | --- |']
-    for t, tx in zip(op['talents'], text['talents']):
-        body.append(f"| {t['name'][lang]} | {unlock(t['promotions'], lang)} | {closed_sentence(tx[lang], lang)} |")
+    body += ['', L('## Talents', '## 天賦', f"## {J('Talent')}", f"## {K('Talent')}")]
+    assert len(op['talents']) == len(game['talents']), slug
+    for t, g in zip(op['talents'], game['talents']):
+        assert [lv['promotion'] for lv in g['levels']] == t['promotions'], (slug, t['promotions'])
+        body += ['', f"### {t['name'][lang]}"]
+        for lv in g['levels']:
+            stage = L('Default', '預設', '初期', '기본') if lv['promotion'] == 0 else stage_name(lv['promotion'], lang)
+            body += ['', f"**{stage}**", '', quoted(lv['text'][lang])]
     body += ['', L('## Potentials', '## 潛能', f"## {J('Potential')}", f"## {K('Potential')}"), '',
              L('| No. | Name | Effect |', '| 編號 | 名稱 | 效果 |', '| 番号 | 名称 | 効果 |', '| 번호 | 이름 | 효과 |'), '| --- | --- | --- |']
-    for p, tx in zip(op['potentials'], text['potentials']):
-        body.append(f"| {p['level']} | {p['name'][lang]} | {tx[lang].strip().rstrip('.。')} |")
+    assert [p['level'] for p in op['potentials']] == [p['level'] for p in game['potentials']], slug
+    for p, g in zip(op['potentials'], game['potentials']):
+        body.append(f"| {p['level']} | {p['name'][lang]} | {inline(g['text'][lang])} |")
     if op['slug'] in BASE['operators']:
         dj = {EN: link(EN, 'Dijiang', 'systems/dijiang'), ZH: link(ZH, '帝江號', 'systems/dijiang'),
               JA: link(JA, J('Dijiang'), 'systems/dijiang'), KO: link(KO, K('Dijiang'), 'systems/dijiang')}[lang]
@@ -590,7 +573,7 @@ def page(op, lang):
         for sk in BASE['operators'][op['slug']]:
             room = BASE['rooms'][sk['room']][lang]
             for lv in sk['levels']:
-                body.append(f"| {sk['name'][lang]} {lv['mark']} | {room} | {stage_name(lv['promotion'], lang)} | {base_effect(sk, lv, lang)} |")
+                body.append(f"| {sk['name'][lang]} {lv['mark']} | {room} | {stage_name(lv['promotion'], lang)} | {inline(lv['text'][lang])} |")
     stat_names = [L(en, zh, J(en), K(en)) for en, zh in (('Strength', '力量'), ('Agility', '敏捷'), ('Intellect', '智識'), ('Will', '意志'), ('ATK', '攻擊力'), ('HP', '生命值'))]
     body += ['', L('## Base stats', '## 基礎數值', '## 基礎ステータス', '## 기초 능력치'), '',
              '| ' + ' | '.join([L('Level', '等級', 'レベル', '레벨')] + stat_names) + ' |',
@@ -611,26 +594,6 @@ def page(op, lang):
     return '\n'.join(fm + body) + '\n'
 
 
-def text_missing(lang):
-    """Operators whose restated text lacks a field in lang."""
-    out = []
-    for slug, op in OPS.items():
-        t = op['text']
-        fields = [t['intro']] + list(t['skills'].values()) + t['talents'] + t['potentials']
-        if any(not f.get(lang) for f in fields):
-            out.append(slug)
-    return out
-
-
-def fill_from_english(lang):
-    for op in OPS.values():
-        t = op['text']
-        for f in [t['intro']] + list(t['skills'].values()) + t['talents'] + t['potentials']:
-            f.setdefault(lang, f[EN])
-            if not f[lang]:
-                f[lang] = f[EN]
-
-
 def write_pages(lang):
     for slug, op in OPS.items():
         path = os.path.join(DOCS, FOLDER[lang], 'operators', f'{slug}.md')
@@ -639,20 +602,9 @@ def write_pages(lang):
 
 
 def main():
-    test = '--test-fill-english' in sys.argv[1:]
-    failed = []
     for lang in LANGS:
-        missing = text_missing(lang)
-        if missing and lang in (JA, KO) and test:
-            print(f'TEST: {lang} restated text filled from English for {len(missing)} operators; do not commit these pages')
-            fill_from_english(lang)
-        elif missing:
-            print(f'{lang}: records/text lacks {lang} for {len(missing)} operators ({", ".join(missing[:5])}...); {lang} pages not written', file=sys.stderr)
-            failed.append(lang)
-            continue
         write_pages(lang)
-    print(len(OPS), 'operator pages per language;', 'written:', ', '.join(lang for lang in LANGS if lang not in failed))
-    sys.exit(1 if failed else 0)
+    print(len(OPS), 'operator pages per language:', ', '.join(LANGS))
 
 
 if __name__ == '__main__':

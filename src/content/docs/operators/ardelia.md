@@ -50,7 +50,8 @@ sources:
 | Voice, Korean | Kim Ha-ru |
 | Operator File | [Ardelia's file](/story/ardelia/) |
 
-Ardelia is a Rhodes Island geologist assigned to Endfield Industries, where her field research into Ætherside and geological disasters informs the company's Blight countermeasures.
+> "This world has so many mysteries to uncover. We should get to know it better just like ... like how we should learn more about ourselves. Don't you agree, Professor?"  Ardelia is a Rhodes Island operator assigned to Endfield Industries where she serves as an expert geologist under the framework agreement between the two companies.  Ardelia's early work centered on volcanoes, but today her research extends into Ætherside and geological disasters. She spends most of her time in the field, venturing alone into disaster sites to collect samples, analyze structures, and develop theories that have become the cornerstone of Endfield's Blight countermeasures.  Always humble and polite, she carries an inner strength that never seems to run dry. To her, happiness is simple: climbing another mountain, walking another path, hearing the voices of the world, and uncovering the hidden wonders of this planet.  And if you can become good friends with Ardelia, then Mr. Dolly is sure to like you too.\
+> "Mr. Dolly? Don't run off! Come say hi to the Professor."
 
 ## How to obtain
 
@@ -82,12 +83,36 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Rocky Whispers | Nature combo of up to 4 hits. As the controlled operator, her final strike also deals 18 Stagger. |
-| Battle skill | Dolly Rush | Ardelia rides Mr. Dolly into the target for Nature damage. If the target has Corrosion, she consumes it to inflict Physical Susceptibility and Arts Susceptibility. Costs 100 SP. |
-| Combo skill | Eruption Column | Trigger: the controlled operator lands a Final Strike on an enemy with no Vulnerability or Arts Infliction. She sends a homing Volcanic Cloud that deals Nature damage on approach, then soon explodes to deal half that Nature damage and force brief Corrosion on nearby enemies. Cooldown 18 s, 17 s at the highest skill level. |
-| Ultimate | Wooly Party | Ardelia channels while moving and scatters copies of Mr. Dolly in random directions for Nature damage on impact. Each enemy can take at most 1 hit every 0.3 s. Costs 90 Ultimate Energy. |
+| Basic attack | Rocky Whispers | — |
+| Battle skill | Dolly Rush | 100 SP |
+| Combo skill | Eruption Column | Cooldown 18 s, 17 s at level 12 |
+| Ultimate | Wooly Party | 90 Ultimate Energy |
+
+### Rocky Whispers
+
+> BASIC ATTACK:\
+> An attack with up to 4 sequences that deals Nature DMG. As the controlled operator, Final Strike also deals 18 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Nature DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Nature DMG and recovers some SP.
+
+### Dolly Rush
+
+> Hops on Mr. Dolly and rams the target to deal Nature DMG. If the target has Corrosion, then consume the Corrosion and apply Physical Susceptibility and Arts Susceptibility to the target.
+
+### Eruption Column
+
+> COMBO TRIGGER: When the controlled operator performs a Final Strike on an enemy with no stacks of Vulnerability or Arts Infliction.\
+> Launches a homing Volcanic Cloud at a target enemy that deals Nature DMG when close enough to the target. The Volcanic Cloud explodes after a short delay, dealing half of the Nature DMG and forcibly applying temporary Corrosion to nearby enemies.
+
+### Wooly Party
+
+> Ardelia enters a mobile channeling state and summons the aid of Mr. Dolly. Multiple copies of Mr. Dolly are thrown in random directions. Each copy deals Nature DMG when hitting the enemy. Each enemy can only take 1 damaging hit every 0.3s.
 
 ## Skill values
 
@@ -116,20 +141,42 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Friendly Presence | Default; upgraded at Promotion I and Promotion II | Dolly Rush creates 3 Shadows of Mr. Dolly on hit, and landing Wooly Party copies have a 10% chance to create one; Shadows last 10 s, up to 10 at once. Touching one as the controlled operator heals 45 + Will × 0.38 HP (63 + Will × 0.53 at Promotion I, 90 + Will × 0.75 at Promotion II), or the lowest-HP% ally if full. |
-| Mountainpeak Surfer | Promotion II | When Dolly Rush triggers its extra effect and another enemy with Corrosion is nearby, Ardelia immediately casts Dolly Rush again, at most once per active cast. |
+### Friendly Presence
+
+**Default**
+
+> The battle skill Dolly Rush creates 3 Shadows of Mr. Dolly after hitting the enemy. The copies of Mr. Dolly scattered by the ultimate Wooly Party also have a 10% chance to create Shadows of Mr. Dolly when they fall to the ground. When the controlled operator touches a Shadow of Mr. Dolly, Ardelia restores the said operator's HP by \[45 + Will×0.38\].\
+> If the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.\
+> Shadows of Mr. Dolly last for 10s and up to 10 can exist in the battlefield.
+
+**Promotion I**
+
+> The battle skill Dolly Rush creates 3 Shadows of Mr. Dolly after hitting the enemy. The copies of Mr. Dolly scattered by the ultimate Wooly Party also have a 10% chance to create Shadows of Mr. Dolly when they fall to the ground. When the controlled operator touches a Shadow of Mr. Dolly, Ardelia restores the said operator's HP by \[63 + Will×0.53\].\
+> If the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.\
+> Shadows of Mr. Dolly last for 10s and up to 10 can exist in the battlefield.
+
+**Promotion II**
+
+> The battle skill Dolly Rush creates 3 Shadows of Mr. Dolly after hitting the enemy. The copies of Mr. Dolly scattered by the ultimate Wooly Party also have a 10% chance to create Shadows of Mr. Dolly when they fall to the ground. When the controlled operator touches a Shadow of Mr. Dolly, Ardelia restores the said operator's HP by \[90 + Will×0.75\].\
+> If the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.\
+> Shadows of Mr. Dolly last for 10s and up to 10 can exist in the battlefield.
+
+### Mountainpeak Surfer
+
+**Promotion II**
+
+> Battle skill Dolly Rush improved: Triggering the additional effect while an enemy with Corrosion is nearby immediately casts the battle skill again.\
+> This effect can only trigger once per active battle skill casting.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Dolly Paradise | Consuming Corrosion with Dolly Rush adds +8% to the Physical Susceptibility and Arts Susceptibility applied |
-| 2 | Game Rewards | Friendly Presence also heals another allied operator with the lowest HP percentage for half the amount when the controlled operator touches a Shadow of Mr. Dolly |
-| 3 | Explosive Eruption | Wooly Party lasts 1 s longer, and its chance to create a Shadow of Mr. Dolly becomes 1.2 times the base rate |
-| 4 | Rock Blossom | Wooly Party costs 15% less Ultimate Energy |
-| 5 | Volcanic Steam | Eruption Column has 2 s shorter cooldown, deals 1.2 times its damage, and applies Corrosion for 4 s longer |
+| 1 | Dolly Paradise | Battle skill Dolly Rush improved: Consuming Corrosion now applies Physical Susceptibility and Arts Susceptibility with effects +8%. |
+| 2 | Game Rewards | Talent Friendly Presence improved: When the controlled operator touches the Shadow of Mr. Dolly, Ardelia also treats another allied operator with the lowest percentage HP with half of the treatment effects. |
+| 3 | Explosive Eruption | Ultimate Wooly Party improved: Duration +1s; chance to create Shadow of Mr. Dolly is increased to 1.2 times the original. |
+| 4 | Rock Blossom | Ultimate Wooly Party improved: Ultimate Energy cost -15%. |
+| 5 | Volcanic Steam | Combo skill Eruption Column improved: Length of cooldown -2s; DMG multiplier is increased to 1.2 times the original; duration of Corrosion applied +4s. |
 
 ## Base skills
 
@@ -137,10 +184,10 @@ Base skills work while Ardelia is assigned to a room of the Dijiang. Each has tw
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Tales of the Land β | Reception Room | Promotion I | Clues collected 20% faster |
-| Tales of the Land γ | Reception Room | Promotion III | Clues collected 30% faster |
-| Mr. Dolly's Game β | Reception Room | Promotion II | Mood drop of the operators in this room −14% |
-| Mr. Dolly's Game γ | Reception Room | Promotion IV | Mood drop of the operators in this room −18% |
+| Tales of the Land β | Reception Room | Promotion I | Assign to Reception Room to grant operator clue collecting efficiency +20% |
+| Tales of the Land γ | Reception Room | Promotion III | Assign to Reception Room to grant operator clue collecting efficiency +30% |
+| Mr. Dolly's Game β | Reception Room | Promotion II | Assign to Reception Room to slow Mood Drop of all operators in it by 14% |
+| Mr. Dolly's Game γ | Reception Room | Promotion IV | Assign to Reception Room to slow Mood Drop of all operators in it by 18% |
 
 ## Base stats
 

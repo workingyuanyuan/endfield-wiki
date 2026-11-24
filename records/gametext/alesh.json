@@ -1,0 +1,237 @@
+{
+ "slug": "alesh",
+ "gameId": "chr_0024_deepfin",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"You can always retrieve a cast lure when angling. But in real life, there's no easy way out once you're in hot water.\"  Introduced by a liaison from the UWST Security Bureau, Alesh joined Endfield Industries to take on communications and cover duties in the frontier. When he's not on the job, he doubles as the instructor for Endfield's angling class.  He isn't keen on talking about his \"boring\" past. All that's known is that he clawed his way through the frontier's underclass, enduring strife and betrayal at every turn. In the end, he left the streets behind with one blind eye and a body worn by exhaustion.  By trade, Alesh is a fin seller, spending his days absorbed in angling. But beneath that laid-back surface lie sharp instincts and keen judgment. In a pinch, his eyes cut like the tip of a hook, and he has got as many tricks for handling trouble as he does for reeling in a catch. On missions, he wears that same easy smile, pulling off victories where no one expects them.\n\"Livin' the happy life is important. True legit wisdom from an old boy, Endmin.\"",
+  "zh-TW": "「拋出去的竿隨時可以收回，人一旦陷入漩渦，就無法輕易脫身。」  阿列什，由前聯盟工團安全局聯絡人推薦，加入終末地工業，在開拓區擔任聯絡與掩護工作，兼終末地釣鱗興趣課教師。  他不是很想提及自己「無聊」的過去。只知道他曾在開拓區底層打滾，嚐盡爭鬥與背叛。最終，帶著一隻失明的眼睛和滿身疲憊離開了街頭。  平時，阿列什的身分是一名販鱗人，整日沉迷於垂釣。但這無法掩蓋他的嗅覺與判斷力，真到了危急時刻，他的眼神會像鉤尖一樣鋒利，而他應對麻煩的手段和他的釣鱗妙招一樣多。任務中，他總是帶著輕鬆的笑意，在最混亂的局面中出奇制勝。    「一定要快快樂樂地活著。管理員，這是我作為過來人的經驗。」",
+  "zh-CN": "“抛出去的竿随时可以收回，人一旦陷入漩涡，就无法轻易脱身。” 阿列什，由前联盟工团安全局联络人推荐，加入终末地工业，在开拓区担任联络与掩护工作，兼终末地钓鳞兴趣课教师。 他不是很愿意提及自己“无聊”的过去。只知道他曾在开拓区底层摸爬滚打，尝尽争斗与背叛。最终，带着一只失明的眼睛和满身疲惫离开了街头。 在平时，阿列什的身份是一名贩鳞人，整日沉迷于垂钓。但这无法掩盖他的嗅觉与判断力，真到危急时刻，他的眼神会像钩尖一样锋利，而他应对麻烦的手段和他的钓鳞妙招一样多。任务中，他总是带着松弛的笑意，在最混乱的局面中出奇制胜。\n“一定要快快乐乐地活着。管理员，这是我作为过来人的经验。”",
+  "ja": "「釣り竿は投げても糸で巻き取れっけど、人は渦に巻き込まれたら抜け出せねえ。」 元工業団連盟保安局連絡員の推薦により、エンドフィールドに加入し、開拓エリアにおける連絡と護衛業務を担当している。また、エンドフィールド「鱗獣釣り講座担当」を兼務している。 自分の「つまらない」過去を語りたがらないため、かつて開拓エリアの最下層で揉まれ、数々の争いと裏切りを経て、最終的に片目を失った満身創痍の体で街から出ていったことしか知られていない。普段のアレッシュは鱗獣屋として、一日中釣り糸をたらしている。しかし、その程度のことで彼の嗅覚と判断力が鈍ることはなく、いざというときには、釣り針のように鋭い目つきを見せる。また、彼がトラブルに対処する方法は鱗獣釣りの技と同じくらい多いのだ。任務中はいつも締まりのない笑みを浮かべ、最も混沌とした局面で意表をついて勝利を収める。\n「せめて楽しく生きろ。管理人、これが経験者からのアドバイスってヤツだよ。」",
+  "ko": "\"낚싯대야 던졌다가도 마음만 먹으면 언제든 다시 거둬들이면 되니까. 근데 인생은 안 그래요. 한 번 휘말리면 빠져나오는 게 그렇게 간단하지가 않다. 이 말이지.\"  알레쉬는 연맹 공단 안전국 연락인의 추천으로 엔드필드 공업에 합류했다. 개척 지역에서 연락 및 엄호 임무를 맡고 있으며 동시에 엔드필드의 린수 낚시 취미 강사로도 활동하고 있다.  그는 자신의 '지루한' 과거를 그다지 말하고 싶어 하지 않는다. 다만 그가 한때 개척 지역의 지하에서 온갖 다툼과 배신을 겪으며 몸부림쳤고, 결국 한쪽 눈을 잃고 지친 몸을 이끌고 거리에서 떠났다는 사실만 알려져 있다.  평소 알레쉬는 린수 장사꾼으로 지내며 하루 종일 낚시에 빠져 산다. 그러나 그것이 그의 날카로운 직감과 판단력을 가리는 일은 없다. 위기 순간 그의 눈빛은 마치 낚싯바늘 끝처럼 예리해지고, 문제를 해결하는 수단은 그의 낚시 비법만큼이나 다양하다. 임무에 나설 때 그는 언제나 여유로운 웃음을 지으며, 가장 혼란스러운 상황 속에서도 기묘한 방식으로 승리를 이뤄낸다.    \"무조건 즐겁게 살아야 해. 관리자, 이게 내가 살아보니까 알겠더라고.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Basic Rod Casting",
+    "zh-TW": "基本揮竿法",
+    "zh-CN": "基本挥竿法",
+    "ja": "キャストの基本",
+    "ko": "캐스팅의 기본"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 17 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成物理傷害。作為主控幹員時，重擊會造成17點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成物理伤害。作为主控干员时，重击会造成17点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値17を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 17포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Unconventional Lure",
+    "zh-TW": "非普通路亞",
+    "zh-CN": "非常规路亚",
+    "ja": "型破りのルアー",
+    "ko": "비정규 루어"
+   },
+   "text": {
+    "en": "Hooks a block of ice and slams it to deal Physical DMG to the enemy target. When hitting a target with Cryo Infliction, Alesh consumes all of the target's Cryo Infliction stacks, forcibly applies Solidification to the target, and recovers some SP based on the number of stacks consumed. This SP recovery effect can only trigger 1 time, even if the skill hits multiple enemies.",
+    "zh-TW": "勾起冰塊砸擊面前的敵人，對目標造成物理傷害。命中處於寒冷附著狀態的目標時，消耗掉目標身上所有寒冷附著，對其強制施加凍結，並基於消耗層數回復技力，命中多名目標時僅回復1次。",
+    "zh-CN": "勾起冰块砸击面前的敌人，对目标造成物理伤害。命中处于寒冷附着状态的目标时，消耗掉目标身上所有寒冷附着，对其强制施加冻结，并基于消耗层数恢复技力，命中多名目标时仅恢复1次。",
+    "ja": "引っ掛けた氷で前方の敵を叩き付け、物理ダメージを与える。寒冷付着状態の敵に命中すると、敵の寒冷付着をすべて消費して強制的に凍結状態にする。さらに、消費した段階数に応じてSPを回復する（複数の敵に命中しても回復は1回のみ）。",
+    "ko": "얼음 조각을 낚아올려 전방의 목표를 향해 내리치며 물리 피해를 줍니다. 냉기 부착 상태의 목표를 명중하면, 목표의 냉기 부착을 전부 소모하고, 대상에게 강제로 동결 상태를 부여합니다. 소모한 스택 수치에 따라 스킬 게이지를 회복하며, 여러 목표를 명중했을 경우, 1회만 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Auger Angling",
+    "zh-TW": "鑿孔底釣術",
+    "zh-CN": "凿孔底钓术",
+    "ja": "穴釣り術",
+    "ko": "얼음낚시 기술"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When the Arts Reaction or Originium Crystals of a nearby target is consumed.\nOpens an angling hole beneath the enemy that deals Physical DMG and recovers some SP. The skill has a chance to hook a Rare Fin that greatly increases the DMG dealt and recovers some more SP.",
+    "zh-TW": "當附近目標的法術異常或源石結晶被消耗時可以發動。\n在敵人腳下開洞垂釣，造成物理傷害，並回復一定技力，有一定機率能釣出珍鱗，大幅增加傷害並額外回復技力。",
+    "zh-CN": "当附近目标的法术异常或源石结晶被消耗时可以发动。\n在敌人脚下开洞垂钓，造成物理伤害，并恢复一定技力，有一定概率能钓出珍鳞，大幅增加伤害并额外恢复技力。",
+    "ja": "周囲の目標のアーツ異常または源石結晶が消費されたときに発動可能。\n敵の足元に穴を開けて鱗獣を釣り上げる。物理ダメージを与え、SPを一定量回復する。一定確率で珍鱗を釣り上げ、ダメージが大幅にアップし、SPをさらに回復する。",
+    "ko": "근처 목표의 아츠 이상 효과 혹은 오리지늄 결정이 소모되었을 때 사용할 수 있습니다.\n적의 발밑에 구멍을 내 낚시를 시도하여, 물리 피해를 주고 일정 스킬 게이지를 회복합니다. 또한 일정 확률로 진귀한 린수를 낚을 수 있으며, 피해가 대폭 증가하고 스킬 게이지를 추가로 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "One Monster Catch!",
+    "zh-TW": "大鱗，上鉤！",
+    "zh-CN": "大鳞，上钩！",
+    "ja": "大物、ヒット！",
+    "ko": "월척이다!"
+   },
+   "text": {
+    "en": "Alesh hooks a fin of unbelievable size and slams it to deal Cryo DMG and apply Cryo Infliction to enemies in a large area of effect in front of him. He recovers some SP on hit, with additional SP gained for each target defeated.",
+    "zh-TW": "釣起超乎想像的大鱗砸擊面前的所有敵人，造成大範圍的寒冷傷害，施加寒冷附著並回復一定技力，每擊敗一個目標將額外回復一定技力。",
+    "zh-CN": "钓起超乎想象的大鳞砸击面前的所有敌人，造成大范围的寒冷伤害，施加寒冷附着并恢复一定技力，每击败一个目标将额外恢复一定技力。",
+    "ja": "超巨大鱗獣を釣り上げ、前方の敵に投げ付ける。広範囲の寒冷ダメージを与え、寒冷付着を付与し、SPを一定量回復する。倒した敵1体につき、SPを追加で回復する。",
+    "ko": "상상을 초월하는 거대한 린수를 낚아 올린 다음, 전방 모든 적을 향해 내리칩니다. 넓은 범위의 냉기 피해를 주고 냉기 부착 상태를 부여하며 일정 스킬 게이지를 회복합니다. 목표를 처치할 때마다 일정량의 스킬 게이지가 추가로 회복됩니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Flash-frozen for Freshness",
+    "zh-TW": "閃凍鎖鮮",
+    "zh-CN": "闪冻锁鲜",
+    "ja": "急速冷凍",
+    "ko": "급속 냉동 보존 기술"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "After Solidification or Originium Crystals are applied to a nearby enemy, Alesh gains 3 Ultimate Energy. If the said Solidification is applied by Alesh, he gains an additional 6 Ultimate Energy. This effect can only trigger once every 3s.",
+      "zh-TW": "附近有敵人被凍結或被附著源石結晶後，自身獲得3點終結技能量。自身造成凍結觸發上述效果時，額外獲得6點終結技能量。該效果每3秒內最多觸發一次。",
+      "zh-CN": "附近有敌人被冻结或被附着源石结晶后，自身获得3点终结技能量。自身造成冻结触发上述效果时，额外获得6点终结技能量。该效果每3秒内最多触发一次。",
+      "ja": "近くの敵が凍結または源石結晶を付与されると、自身の必殺チャージを3回復する\n自身の攻撃で敵を凍結状態にしてこの効果を発動するとき、追加で必殺チャージを6回復する\nこの効果は3秒に1回まで発動可能",
+      "ko": "주변의 적에게 동결 혹은 오리지늄 결정을 부착한 후, 자신의 궁극기 에너지 획득 3포인트. 자기가 동결을 부여하여 상기 효과가 발동했을 경우, 궁극기 에너지 6포인트 추가 획득. 해당 효과는 3초 내 최대 1회 발동합니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "After Solidification or Originium Crystals are applied to a nearby enemy, Alesh gains 4 Ultimate Energy. If the said Solidification is applied by Alesh, he gains an additional 8 Ultimate Energy. This effect can only trigger once every 3s.",
+      "zh-TW": "附近有敵人被凍結或被附著源石結晶後，自身獲得4點終結技能量。自身造成凍結觸發上述效果時，額外獲得8點終結技能量。該效果每3秒內最多觸發一次。",
+      "zh-CN": "附近有敌人被冻结或被附着源石结晶后，自身获得4点终结技能量。自身造成冻结触发上述效果时，额外获得8点终结技能量。该效果每3秒内最多触发一次。",
+      "ja": "近くの敵が凍結または源石結晶を付与されると、自身の必殺チャージを4回復する\n自身の攻撃で敵を凍結状態にしてこの効果を発動するとき、追加で必殺チャージを8回復する\nこの効果は3秒に1回まで発動可能",
+      "ko": "주변의 적에게 동결 혹은 오리지늄 결정을 부착한 후, 자신의 궁극기 에너지 획득 4포인트. 자기가 동결을 부여하여 상기 효과가 발동했을 경우, 궁극기 에너지 8포인트 추가 획득. 해당 효과는 3초 내 최대 1회 발동합니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Veteran Angler",
+    "zh-TW": "釣鱗老手",
+    "zh-CN": "钓鳞老手",
+    "ja": "釣りの達人",
+    "ko": "낚시의 달인"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Combo skill Auger Angling improved: Every 10 Intellect grants Rare Fin catching chance +0.2% (max: +30%).",
+      "zh-TW": "每10點智識會使連攜技鑿孔底釣術釣起珍鱗的機率+0.2%，最多+30%。",
+      "zh-CN": "每10点智识会使连携技凿孔底钓术钓起珍鳞的概率+0.2%，最多+30%。",
+      "ja": "知性10につき、連携技「穴釣り術」で珍鱗を釣り上げる確率+0.2%（最大+30%）",
+      "ko": "지능 10포인트마다, 연계 스킬 얼음낚시 기술로 진귀한 린수를 낚아올릴 확률 +0.2%, 최대+30%"
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Combo skill Auger Angling improved: Every 10 Intellect grants Rare Fin catching chance +0.5% (max: +30%).",
+      "zh-TW": "每10點智識會使連攜技鑿孔底釣術釣起珍鱗的機率+0.5%，最多+30%。",
+      "zh-CN": "每10点智识会使连携技凿孔底钓术钓起珍鳞的概率+0.5%，最多+30%。",
+      "ja": "知性10につき、連携技「穴釣り術」で珍鱗を釣り上げる確率+0.5%（最大+30%）",
+      "ko": "지능 10포인트마다, 연계 스킬 얼음낚시 기술로 진귀한 린수를 낚아올릴 확률 +0.5%, 최대+30%"
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Super Salty Comeback",
+    "zh-TW": "鹹鱗翻身",
+    "zh-CN": "咸鳞翻身",
+    "ja": "人生大逆転！",
+    "ko": "린수의 반격"
+   },
+   "text": {
+    "en": "Battle skill Unconventional Lure improved: SP Recovery grants an additional 10 SP.",
+    "zh-TW": "戰技非普通路亞觸發回復技力效果時，額外回復10點技力。",
+    "zh-CN": "战技非常规路亚触发恢复技力效果时，额外恢复10点技力。",
+    "ja": "戦技「型破りのルアー」でSP回復効果が発動するとき、追加でSP+10",
+    "ko": "배틀 스킬 비정규 루어가 스킬 게이지 회복 효과를 발동했을 때, 추가로 스킬 게이지 10포인트를 회복합니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Calm and Tranquil",
+    "zh-TW": "沉心靜氣",
+    "zh-CN": "沉心静气",
+    "ja": "無心",
+    "ko": "마음의 평온"
+   },
+   "text": {
+    "en": "Strength +15, Intellect +15.",
+    "zh-TW": "力量+15，智識+15。",
+    "zh-CN": "力量+15，智识+15。",
+    "ja": "筋力+15、知性+15",
+    "ko": "힘 +15, 지능 +15"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "May the Willing Bite",
+    "zh-TW": "願者上鉤",
+    "zh-CN": "愿者上钩",
+    "ja": "針は願う者の前に",
+    "ko": "미끼 없는 낚시"
+   },
+   "text": {
+    "en": "Combo skill Auger Angling improved: After catching a Rare Fin, the entire team gains ATK +15% for 10s. This effect cannot stack.",
+    "zh-TW": "連攜技鑿孔底釣術成功釣起珍鱗後，全隊攻擊力+15%，持續10秒，該效果無法疊加。",
+    "zh-CN": "连携技凿孔底钓术成功钓起珍鳞后，全队攻击力+15%，持续10秒，该效果无法叠加。",
+    "ja": "連携技「穴釣り術」で珍鱗を釣り上げると、10秒間チーム全員の攻撃力+15%（重ね掛け不可）",
+    "ko": "연계 스킬 얼음낚시 기술을 사용하여 진귀한 린수를 낚은 후, 팀 전체 공격력 +15%, 10초 동안 지속. 해당 효과는 중첩되지 않습니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Insane Angling Set",
+    "zh-TW": "瘋狂釣組",
+    "zh-CN": "疯狂钓组",
+    "ja": "狂気のスイベル",
+    "ko": "광란의 낚시팀"
+   },
+   "text": {
+    "en": "Ultimate One Monster Catch! improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技大鱗，上鉤！所需的終結技能量-15%。",
+    "zh-CN": "终结技大鳞，上钩！所需的终结技能量-15%。",
+    "ja": "必殺技「大物、ヒット！」に必要な必殺チャージ-15%",
+    "ko": "궁극기 월척이다!의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Mega Lunker Rumors",
+    "zh-TW": "特大鱗訊",
+    "zh-CN": "特大鳞讯",
+    "ja": "特大鱗獣ニュース",
+    "ko": "초특급 입질"
+   },
+   "text": {
+    "en": "Ultimate One Monster Catch! improved: Hitting a target below 50% HP increases the DMG Multiplier to 1.5 times the original.",
+    "zh-TW": "終結技大鱗，上鉤！命中生命值低於50%的目標時，傷害倍率提升至原本的1.5倍。",
+    "zh-CN": "终结技大鳞，上钩！命中生命值低于50%的目标时，伤害倍率提升至原本的1.5倍。",
+    "ja": "必殺技「大物、ヒット！」が、HPが50%未満の敵に命中するとき、ダメージ倍率が1.5倍までアップする",
+    "ko": "궁극기 월척이다!가 생명력이 50% 미만인 목표에 명중했을 때, 피해 배율이 기존의 1.5배로 증가합니다."
+   }
+  }
+ ]
+}

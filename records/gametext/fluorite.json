@@ -1,0 +1,237 @@
+{
+ "slug": "fluorite",
+ "gameId": "chr_0022_bounda",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Distract them? Disable them? Or ... just destroy them?\"  A member of Operations Team Z7 in Endfield, Fluorite is responsible for scouting and disrupting enemy lines. Her command of street rules and dirty tricks rivals her sharpshooting, sparing the team from countless troubles. Hailing from the frontier at the fringe of the Civilization Band, she sharpened her eye through constant migrations and wandering. More often than not, she simply sits in the corner with a faint smile, leaving others with the unsettling sense that every flaw has already been laid bare under her gaze.  But don't mistake her for empathetic. Fluorite's knack for reading people gives her exceptional instincts on the battlefield, but also leaves her dangerously good at stirring people up with just a few words — making her the team's most unpredictable source of trouble.\n\"Got anything to say? No? How about we just call it a day?\"",
+  "zh-TW": "「擾亂？牽制？還是……一步到位？」  終末地Z7行動組成員，負責偵察和戰線擾亂工作。螢石對街頭規矩和宵小伎倆的瞭解和她的銃法一樣，已經為小隊避免了不計其數的麻煩。她來自文明環帶邊緣的開拓區，在一次又一次遷移和流浪中鍛鍊出了與眾不同的觀察力。大部分時候，她只是在房間一角似笑非笑地旁聽，就能讓人感到自己的每一絲紕漏都已經被看穿，壓力倍增。  但這觀察力絕不意味著螢石是個善解人意的人——對人心的敏銳把握不僅為螢石帶來了出色的戰場嗅覺，卻也讓她成為了小隊當中最擅長用幾句話招惹任何人，為工作帶來無數麻煩的不穩定因素。    「不說點什麼嗎？嗯……要不然，散會？」",
+  "zh-CN": "“扰乱？牵制？还是……一步到位？” 终末地Z7行动组成员，负责侦察和战线扰乱工作。萤石对街头规矩和宵小伎俩的了解和她的铳法一样，已经为小队避免了不计其数的麻烦。她来自文明环带边缘的开拓区，在一次又一次迁移和流浪中锻炼出了与众不同的观察力。大部分时候，她只是在房间一角似笑非笑地旁听，就能让人感到自己的每一丝纰漏都已经被看穿，压力倍增。 然而，这绝不意味着萤石是个善解人意的人——对人心的敏锐把握不仅给萤石带来了出色的战场嗅觉，却也让她成为了小队当中最擅长用几句话招惹任何人，给工作带来无数麻烦的不稳定因素。\n“不说点什么吗？嗯……要不，散会？”",
+  "ja": "「妨害？牽制？ううん……一発、行く？」 エンドフィールド行動隊Z7のメンバーで、偵察や戦線の撹乱を担当している。暴力組織の掟や小悪党の手口については、自分の銃と同じくらい知り尽くしており、幾度となく行動隊を無用なトラブルから救ってきた。文明地帯の外れにある開拓エリア出身の彼女は、移住と流浪を繰り返していく中で、他の者たちとは比べものにならないほどの観察力を身につけた。ほとんどの場合において、彼女は部屋の片隅でうっすらと笑みを浮かべながら話を聞いているだけだが、話をしている相手は自分の失態をすべて見透かされているような気がして、とてつもない重圧を感じる。 しかし、それはフローライトが人の気持ちをよく理解しているというわけではない。人の気持ちに対する鋭さによって、優れた戦いの嗅覚を手に入れた彼女は、少し言葉を発するだけで誰からも怒りを買うことが多くなり、仕事に無数のトラブルを引き起こす不確定要素にもなった。\n「なんか話ある？……じゃ、解散で？」",
+  "ko": "\"교란? 견제? 아니면... 한 방에 끝내버릴까?\"  플루라이트는 엔드필드 Z7 작전팀의 멤버로 정찰과 전선 교란을 담당한다. 그녀는 거리의 규칙과 하찮은 술수들에 대한 이해가 탁월하며, 그 능력은 그녀의 사격술만큼이나 뛰어나 수많은 문제 상황에서 팀을 구해냈다. 문명 밴드의 가장자리의 개척 지역 출신으로 플루라이트는 수차례의 이주와 유랑 속에서 남다른 관찰력을 길러냈다. 대부분의 경우, 그녀는 방 한쪽 구석에서 비웃는 듯한 표정으로 이야기만 듣기만 해도 상대는 마치 자신의 허점을 모두 간파당한 듯한 압박감을 느끼곤 한다.  그러나 그렇다고 해서 플루라이트가 배려심 깊은 사람이라는 뜻은 아니다. 인간 심리에 대한 예리한 통찰은 그녀에게 탁월한 전장의 감각을 안겨줬지만, 동시에 그녀는 팀에서 가장 쉽게 몇 마디 말로 상대를 자극해 일을 꼬이게 만드는 불안정 요소가 되기도 했다.    \"뭐, 할 말 없어? 그래, 그럼... 나 간다.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Signature Gun Kata",
+    "zh-TW": "獨門射擊法",
+    "zh-CN": "独门射击法",
+    "ja": "自己流射撃法",
+    "ko": "독자적인 사격술"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Nature DMG. As the controlled operator, Final Strike also deals 15 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Nature DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Nature DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成自然傷害。作為主控幹員時，重擊會造成15點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成自然傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量自然傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成自然伤害。作为主控干员时，重击会造成15点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成自然伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量自然伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に自然ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値15を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に自然ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い自然ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 자연 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 15포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 자연 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 자연 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Tiny Surprise",
+    "zh-TW": "小驚喜",
+    "zh-CN": "小惊喜",
+    "ja": "ちょっとイタズラ",
+    "ko": "서프라이즈?"
+   },
+   "text": {
+    "en": "Kicks an Improvised Explosive that sticks to the target, applying Slow and exploding after a short duration. The explosion deals Nature DMG and Nature Infliction to enemies in the area of effect. Defeating the target also sets off the Improvised Explosive immediately.\nOnly 1 Improvised Explosive can be present in the battlefield.",
+    "zh-TW": "踢出自製炸彈將其黏附在目標身上，並施加緩速，短暫延遲後爆炸對範圍內的敵人造成自然傷害並施加自然附著。若黏附目標被擊敗則自製炸彈提前爆炸。\n場上同時只能存在一個自製炸彈。",
+    "zh-CN": "踢出自制炸弹将其黏附在目标身上，并施加缓速，短暂延迟后爆炸对范围内的敌人造成自然伤害并施加自然附着。若黏附目标被击败则自制炸弹提前爆炸。\n场上同时只能存在一个自制炸弹。",
+    "ja": "お手製爆弾を蹴って敵に貼り付け、スローを付与する。一定時間後に爆発し、範囲内の敵に自然ダメージを与え、自然付着を付与する。爆弾が付いている敵が倒れた場合、お手製爆弾はその時点で爆発する。\nお手製爆弾は同時に1個までしか存在できない。",
+    "ko": "수제 폭탄을 걷어차서 목표에 붙이고, 감속 상태를 부여합니다. 일정 시간 뒤 폭탄이 폭발하여 범위 내의 적에게 자연 피해를 주고, 자연 부착 상태를 부여합니다. 폭탄이 붙은 목표가 처치될 경우, 해당 수제 폭탄은 예정보다 일찍 폭발합니다.\n전장에는 동시에 단 하나의 수제 폭탄만 존재할 수 있습니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Free Giveaway",
+    "zh-TW": "免費贈禮",
+    "zh-CN": "免费赠礼",
+    "ja": "特別サービス",
+    "ko": "특별 보너스"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy has 2 or more stacks of Cryo Infliction or Nature Infliction.\nShoots the target enemy to trigger a special explosion that deals Nature DMG and applies another Arts Infliction of the element already on the enemy.",
+    "zh-TW": "當敵人進入2層及以上寒冷附著或自然附著時可以發動。\n射擊目標敵人，引發一次特殊爆炸，造成自然傷害並施加該法術附著。",
+    "zh-CN": "当敌人进入2层及以上寒冷附着或自然附着时可以发动。\n射击目标敌人，引发一次特殊爆炸，造成自然伤害并施加该法术附着。",
+    "ja": "敵の寒冷付着または自然付着の付着段階が2以上になったときに発動可能。\n目標の敵に射撃を行い、特殊な爆発を引き起こす。敵に自然ダメージを与え、対応属性のアーツ付着を付与する。",
+    "ko": "적에게 냉기 부착 혹은 자연 부착 2스택 또는 그 이상이 쌓였을 때 사용할 수 있습니다.\n목표한 적을 사격해 특수한 폭발을 일으키고, 자연 피해를 주며 아츠 부착 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Apex Prankster",
+    "zh-TW": "巔峰鬧劇",
+    "zh-CN": "巅峰闹剧",
+    "ja": "つまんない茶番",
+    "ko": "난장판으로 만들어주지"
+   },
+   "text": {
+    "en": "Fluorite quickly moves in an arc and rapidly fires at the target within the arc to deal 4 sequences of Nature DMG. If an Improvised Explosive has been stuck to the target, the skill detonates it immediately and increases the DMG and size of the explosion.\nIf the final DMG sequence hits a target with at least 2 stacks of Cryo Infliction or Nature Infliction, then apply the same Arts Infliction again.",
+    "zh-TW": "螢石以弧形軌跡高速運動並向弧內目標快速射擊，造成4段自然傷害，若命中目標身上黏有自製炸彈，則立刻將其引爆並提升爆炸傷害及範圍。\n若最後一段傷害命中處於2層及以上寒冷附著或自然附著的目標，則再次施加該法術附著。",
+    "zh-CN": "萤石以弧形轨迹高速运动并向弧内目标快速射击，造成4段自然伤害，若命中目标身上粘有自制炸弹，则立刻将其引爆并提升爆炸伤害及范围。\n若最后一段伤害命中处于2层及以上寒冷附着或自然附着的目标，则再次施加该法术附着。",
+    "ja": "円弧を描きながら高速移動し、内側の敵にすばやく射撃を行い、自然ダメージを4段与える。命中した敵にお手製爆弾が付いている場合、その爆弾は即座に起爆し、爆発のダメージと範囲が強化される。\n攻撃の最後の1段が2段階以上の寒冷付着または自然付着状態の敵に命中した場合、対応属性のアーツ付着をもう一度付与する。",
+    "ko": "플루라이트가 아치형 궤적을 따라 고속으로 이동하며, 궤적 내의 목표를 향해 빠르게 사격하여 4단 자연 피해를 줍니다. 명중당한 목표에 수제 폭탄이 붙어있을 경우, 즉시 폭발하며 폭발 피해와 범위가 증가합니다.\n마지막 공격이 2스택 혹은 그 이상의 냉기 부착 또는 자연 부착 상태인 적을 명중하면, 해당 아츠 부착을 다시 한번 더 부여합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Love the Stab and Twist",
+    "zh-TW": "落井下石愛好者",
+    "zh-CN": "落井下石爱好者",
+    "ja": "泣きっ面に石",
+    "ko": "몰락의 조력자"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Fluorite gains DMG Dealt +10% against Slowed targets.",
+      "zh-TW": "螢石對處於緩速狀態的目標造成的傷害+10%。",
+      "zh-CN": "萤石对处于缓速状态的目标造成的伤害+10% 。",
+      "ja": "フローライトによるスロー状態の敵へのダメージ+10%",
+      "ko": "플루라이트가 감속 상태의 목표에 주는 피해 +10%"
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Fluorite gains DMG Dealt +20% against Slowed targets.",
+      "zh-TW": "螢石對處於緩速狀態的目標造成的傷害+20%。",
+      "zh-CN": "萤石对处于缓速状态的目标造成的伤害+20% 。",
+      "ja": "フローライトによるスロー状態の敵へのダメージ+20%",
+      "ko": "플루라이트가 감속 상태의 목표에 주는 피해 +20%"
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Unpredictable",
+    "zh-TW": "捉摸不定",
+    "zh-CN": "捉摸不定",
+    "ja": "予測不可能",
+    "ko": "종잡을 수 없는 자"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Grants 20% chance of Arts DMG immunity and grants Fluorite ATK +10% for 10s. This effect cannot stack.",
+      "zh-TW": "有20%的機率免疫法術傷害，之後使自身攻擊力+10%，持續10秒，該效果無法疊加。",
+      "zh-CN": "有20%的概率免疫法术伤害，之后使自身攻击力+10%，持续10秒，该效果无法叠加。",
+      "ja": "20%の確率でアーツダメージが無効になり、その後10秒間自身の攻撃力+10%（重ね掛け不可）",
+      "ko": "20%의 확률로 아츠 피해 면역, 이후 자기 공격력 +10%, 10초 동안 지속. 해당 효과는 중첩되지 않습니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Grants 20% chance of Arts DMG immunity and grants Fluorite ATK +20% for 10s. This effect cannot stack.",
+      "zh-TW": "有20%的機率免疫法術傷害，之後使自身攻擊力+20%，持續10秒，該效果無法疊加。",
+      "zh-CN": "有20%的概率免疫法术伤害，之后使自身攻击力+20%，持续10秒，该效果无法叠加。",
+      "ja": "20%の確率でアーツダメージが無効になり、その後10秒間自身の攻撃力+20%（重ね掛け不可）",
+      "ko": "20%의 확률로 아츠 피해 면역, 이후 자기 공격력 +20%, 10초 동안 지속. 해당 효과는 중첩되지 않습니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Ten-Finger Smith",
+    "zh-TW": "利手成雙",
+    "zh-CN": "利手成双",
+    "ja": "どっちも利き手",
+    "ko": "양손의 달인"
+   },
+   "text": {
+    "en": "Agility +10, Intellect +10.",
+    "zh-TW": "敏捷+10，智識+10。",
+    "zh-CN": "敏捷+10，智识+10。",
+    "ja": "敏捷+10、知性+10",
+    "ko": "민첩 +10, 지능 +10"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Mind Reading Technique",
+    "zh-TW": "讀心技巧",
+    "zh-CN": "读心技巧",
+    "ja": "読心術",
+    "ko": "독심술"
+   },
+   "text": {
+    "en": "Talent Unpredictable improved: Chance to ignore Arts DMG +10%.",
+    "zh-TW": "天賦捉摸不定效果加強：法術傷害免疫機率+10%。",
+    "zh-CN": "天赋捉摸不定效果加强：法术伤害免疫概率+10%。",
+    "ja": "素質「予測不可能」強化：アーツダメージ無効の確率+10%",
+    "ko": "재능 '종잡을 수 없는 자' 효과 강화: 아츠 피해 면역 확률 +10%"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Triple Surprise",
+    "zh-TW": "三倍驚喜",
+    "zh-CN": "三倍惊喜",
+    "ja": "サプライズ×3",
+    "ko": "트리플 서프라이즈"
+   },
+   "text": {
+    "en": "Battle skill Tiny Surprise improved: After Improvised Explosive explodes, the slow effect is applied to all enemies hit and lasts 6s.",
+    "zh-TW": "戰技小驚喜黏附的自製炸彈爆炸後，將緩速效果擴散給所有命中敵人，持續6秒。",
+    "zh-CN": "战技小惊喜黏附的自制炸弹爆炸后，将缓速效果扩散给所有命中敌人，持续6秒。",
+    "ja": "戦技「ちょっとイタズラ」によるお手製爆弾が爆発すると、命中したすべての敵に6秒間持続するスロー効果を付与する",
+    "ko": "배틀 스킬 서프라이즈?로 인해 점착된 수제 폭탄이 폭발한 후, 감속 효과가 명중당한 모든 적에게로 확산됩니다. 해당 효과는 6초 동안 지속됩니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Prank Master",
+    "zh-TW": "鬧劇專家",
+    "zh-CN": "闹剧专家",
+    "ja": "トラブルメーカー",
+    "ko": "혼란 유발자"
+   },
+   "text": {
+    "en": "Ultimate Apex Prankster improved: Ultimate Energy cost -10%.",
+    "zh-TW": "終結技巔峰鬧劇所需的終結技能量-10%。",
+    "zh-CN": "终结技巅峰闹剧所需的终结技能量-10%。",
+    "ja": "必殺技「つまんない茶番」に必要な必殺チャージ-10%",
+    "ko": "궁극기 난장판으로 만들어주지의 사용에 필요한 궁극기 에너지 -10%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Craver of Chaos",
+    "zh-TW": "享受混亂",
+    "zh-CN": "享受混乱",
+    "ja": "楽しいよね？",
+    "ko": "혼돈의 쾌락"
+   },
+   "text": {
+    "en": "Combo skill Free Giveaway improved: Whenever Cryo Infliction or Nature Infliction is applied to the enemy, cooldown is shortened by 1s. Effect can only trigger once every 1s.",
+    "zh-TW": "每當有敵人被施加寒冷附著或自然附著時，連攜技免費贈禮冷卻時間-1秒，該效果每1秒最多觸發一次。",
+    "zh-CN": "每当有敌人被施加寒冷附着或自然附着时，连携技免费赠礼冷却时间-1秒，该效果每1秒最多触发一次。",
+    "ja": "敵が寒冷付着または自然付着を受けるたびに、連携技「特別サービス」のCD時間-1秒\nこの効果は1秒に1回まで発動可能",
+    "ko": "적이 냉기 부착 혹은 자연 부착을 부여받을 때마다, 연계 스킬 특별 보너스의 쿨타임 -1초. 해당 효과는 1초마다 최대 1회만 발동합니다."
+   }
+  }
+ ]
+}

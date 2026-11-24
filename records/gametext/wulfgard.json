@@ -1,0 +1,237 @@
+{
+ "slug": "wulfgard",
+ "gameId": "chr_0006_wolfgd",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"I know that strength isn't everything, but in Talos-II, you can't live without it.\"  Catello Wulfgard Luppino is a Landbreaker mercenary living on the fringes of the Civilization Band, now serving on the Crisis Team at Endfield Industries. Despite his youth, Wulfgard is already well-acquainted with the ficklest nature of humanity. But rather than breaking him, those experiences have given him a maturity far beyond his age. He doesn't seek conflicts, and when in doubt, he prefers to avoid direct confrontation. He is also skilled in stealth and recon combat operations. To complete his mission, the mercenary can even travel with his foes and deal the lethal strike when the enemies least expect it.  A member of the Landbreaker clan known as the Pack, Wulfgard can be a reliable and trustworthy friend if you manage to earn his trust. But that is no easy feat.\n\"Unrealistic idealism breaks more lives than it saves.\"",
+  "zh-TW": "「我知道力量並不代表一切，但在塔衛二，沒有力量通常不是什麼好事。」  卡特洛·狼衛·盧皮諾是一名生活在文明環帶邊緣的裂地者傭兵，現以危機處理小組成員的身分接受終末地工業調遣。  年輕的狼衛早已領教過人性中最黑暗的部分，但這並未消磨他的理智，反而砥礪出了遠超他年齡的成熟。他不常主動與他人發生衝突，如果心存疑問，大部分情況下他會選擇以迴避衝突的方式表達。與此同時，他很擅長隱匿與偵察作戰。為了完成任務，他可以與敵人同行，直到對方徹底失去戒備，再予以致命一擊。  作為裂地者中狼群氏族的一員，狼衛可以成為忠實的朋友與可靠的隊友——只要你能夠贏得他的信任，但這可能並沒有那麼容易。    「不切實際的理想主義總是害人也害己。」",
+  "zh-CN": "“我知道力量并不代表一切，但在塔卫二，没有力量通常不是什么好事。” 卡特洛·狼卫·卢皮诺是一名生活在文明环带边缘的裂地者佣兵，现以危机处理小组成员的身份接受终末地工业调遣。 年轻的狼卫早已领教过人性中最黑暗的部分，但这并未消磨他的理智，反而砥砺出了远超他年龄的成熟。他不常主动与他人发生冲突，如果心存疑问，大部分情况下他会选择以回避冲突的方式表达。与此同时，他相当擅长隐匿与侦察作战。为了完成任务，他可以与敌人同行，直到对方彻底失去戒备，再予其致命一击。 作为裂地者中狼群氏族的一员，狼卫可以成为忠实的朋友与可靠的队友——只要你能够赢得他的信任，但这可能并没有那么容易。\n“不切实际的理想主义总是害人也害己。”",
+  "ja": "「力がすべてじゃない――けど、タロⅡでは普通、力のないヤツは不幸になる。」  文明地帯の外側で生きるランドブレーカーの傭兵。現在は危機対策班の一員としてエンドフィールド工業の指示で動いている。  幼い頃から人間の最も暗い部分に触れてきたが、それによって理性をすり減らすことはなく、逆に年齢を感じさせないほど成熟した。誰かと衝突することは滅多になく、もし疑問を抱いた場合は衝突を回避する方法を選択する。隠密行動や偵察任務を得意とし、任務のためなら敵と行動を共にすることも厭わない。そして、相手の警戒が解け、完全に油断したところで致命的な一撃を喰らわせるのである。  ランドブレーカーのクラン「狼群」の一員である彼の信頼を得ることができれば、仲間として非常に忠実で頼りになる存在ではあるが、その道のりはそれほど簡単なものではなさそうだ。    「ありえない理想を追い求めるのは、他人だけじゃなくて自分にとってもマイナスだろ。」",
+  "ko": "\"힘이 전부가 아니라는 건 알고 있지만, 탈로스 II에서만큼은 힘이 없다는 것은 절대로 좋은 일이 아니야.\"  카텔로 울프가드 루피노는 문명 밴드의 가장자리에 살아가는 랜드브레이커 용병으로 현재는 위기 대책팀의 멤버로 엔드필드 공업의 지휘를 받고 있다.  젊은 울프가드는 이미 인간성의 가장 어두운 단면을 경험했지만, 그것이 그의 이성을 갉아먹지는 않았다. 오히려 또래와는 비교할 수 없는 성숙함을 단련해 낸 셈이었다. 그는 쉽게 충돌을 일으키지 않으며, 의심이 들 때는 대부분 충돌을 피하는 방식으로 태도를 드러낸다. 동시에 은폐와 정찰 작전에 뛰어난 솜씨를 발휘한다. 임무를 위해서는 적과 나란히 걸으며, 상대가 경계를 완전히 풀어버릴 때까지 기다렸다가 치명적인 일격을 가한다.  랜드브레이커 중 '울프팀' 집단의 일원으로서, 그의 신뢰를 얻을 수 있다면, 울프가드는 충실한 친구이자 신뢰할 수 있는 동료이다. 하지만 그건 그렇게 쉬운 일은 아닐 것이다.    \"현실과 동떨어진 이상주의는 늘 타인과 자신 모두에게 해를 끼치지.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Rapid Fire Akimbo",
+    "zh-TW": "多重連射",
+    "zh-CN": "多重连射",
+    "ja": "多重連射",
+    "ko": "다중 연사"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Heat DMG. As the controlled operator, Final Strike also deals 18 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Heat DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Heat DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成灼熱傷害。作為主控幹員時，重擊會造成18點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成灼熱傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量灼熱傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成灼热伤害。作为主控干员时，重击会造成18点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成灼热伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量灼热伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に灼熱ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値18を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に灼熱ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い灼熱ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 열기 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 18포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 열기 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 열기 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Thermite Tracers",
+    "zh-TW": "灼熱彈痕",
+    "zh-CN": "灼热弹痕",
+    "ja": "灼熱の弾痕",
+    "ko": "탄흔의 열기"
+   },
+   "text": {
+    "en": "Fires multiple shots at the target that deal some Heat DMG. The final shot also applies Heat Infliction. If the target has active Combustion or Electrification, do not apply Heat Infliction but instead consume the Arts Reaction to fire an additional shot that deals massive Heat DMG.",
+    "zh-TW": "對目標進行連射，造成少量灼熱傷害，最後一次射擊施加灼熱附著。如果目標處於燃燒或導電狀態，則不再施加灼熱附著，而是消耗該狀態並追加1次射擊，造成大量灼熱傷害。",
+    "zh-CN": "对目标进行连射，造成少量灼热伤害，最后一次射击施加灼热附着。如果目标处于燃烧或导电状态，则不再施加灼热附着，而是消耗该状态并追加一次射击，造成大量灼热伤害。",
+    "ja": "連射攻撃により、わずかな灼熱ダメージを与え、最後の一撃で灼熱付着を付与する。ただし、敵が燃焼または感電状態の場合、灼熱付着は付与されず、その状態を消費して追加で1回射撃を行い、高い灼熱ダメージを与える。",
+    "ko": "목표를 연속으로 사격하여 소량의 열기 피해를 주고, 마지막 한 발은 열기 부착 상태를 부여합니다. 목표가 연소 또는 감전 상태일 경우 열기 부착 상태를 부여하지 않고, 해당 상태를 소모하여 추가로 1회 사격하며, 대량의 열기 피해를 줍니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Frag Grenade·β",
+    "zh-TW": "爆裂手榴彈·β型",
+    "zh-CN": "爆裂手雷·β型",
+    "ja": "フラググレネード・β",
+    "ko": "폭렬 수류탄 · β형"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an Arts Infliction is applied to an enemy.\nThrows a frag grenade at the target's location that explodes upon hitting the ground, dealing Heat DMG and Heat Infliction to nearby enemies.",
+    "zh-TW": "當有敵人被施加法術附著時可以發動。\n向目標所在位置丟出一顆爆裂手榴彈，手榴彈落地後爆炸，對附近範圍的敵人造成灼熱傷害並施加灼熱附著。",
+    "zh-CN": "当有敌人被施加法术附着时可以发动。\n向目标所在位置扔出一颗爆裂手雷，手雷落地后爆炸，对附近范围的敌人造成灼热伤害并施加灼热附着。",
+    "ja": "敵にアーツ付着が付与されたときに発動可能。\n目標位置にフラググレネードを投げ、地面に落下すると爆発する。範囲内の敵に灼熱ダメージを与え、灼熱付着を付与する。",
+    "ko": "아츠 부착 상태를 부여한 적이 있을 때 사용할 수 있습니다.\n목표가 있는 위치로 땅에 떨어지면 폭발하는 폭렬 수류탄을 던집니다. 근처 범위 내의 적에게 열기 피해를 주고 열기 부착 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Wolven Fury",
+    "zh-TW": "狼之怒",
+    "zh-CN": "狼之怒",
+    "ja": "狼の怒り",
+    "ko": "늑대의 분노"
+   },
+   "text": {
+    "en": "Fire a rapid barrage of shots and unleashes the Wolven Fury to attack nearby enemies, dealing 5 hits of Heat DMG and forcibly applying Combustion.",
+    "zh-TW": "快速射擊並施放狼之怒攻擊附近敵人，造成5次灼熱傷害並強制施加燃燒。",
+    "zh-CN": "进行快速射击并施放狼之怒攻击附近敌人，造成5次灼热伤害并强制施加燃烧。",
+    "ja": "すばやく射撃し、狼の怒りを放って周囲の敵を攻撃する。5回の灼熱ダメージを与え、強制的に燃焼状態にする。",
+    "ko": "빠르게 사격하며 늑대의 분노로 주변의 적을 공격합니다. 5회에 걸쳐 열기 피해를 주고 강제 연소 상태를 부여합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Scorching Fangs",
+    "zh-TW": "灼熱獠牙",
+    "zh-CN": "灼热獠牙",
+    "ja": "灼熱の牙",
+    "ko": "불타는 송곳니"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Whenever Wulfgard applies Combustion, he gains Scorching Fangs for 10s. This effect cannot stack. Scorching Fangs: While active, Wulfgard gains Heat DMG Dealt +20%.",
+      "zh-TW": "每次施加燃燒後，獲得灼熱獠牙狀態，持續10秒，該狀態無法疊加。狀態持續期間，自身造成的灼熱傷害+20%。",
+      "zh-CN": "每次施加燃烧后，获得灼热獠牙状态，持续10秒，该状态无法叠加。状态持续期间，自身造成的灼热伤害+20%。",
+      "ja": "燃焼を付与すると、10秒間持続する灼熱の牙状態を獲得する（重ね掛け不可）\n持続中、自身の灼熱ダメージ+20%",
+      "ko": "매번 연소 상태를 부여한 후 불타는 송곳니 상태를 획득하고, 10초 동안 지속, 해당 상태는 중첩할 수 없습니다. 상태가 지속되는 동안, 자신이 적에게 주는 열기 피해 +20%"
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Whenever Wulfgard applies Combustion, he gains Scorching Fangs for 10s. This effect cannot stack. Scorching Fangs: While active, Wulfgard gains Heat DMG Dealt +30%.",
+      "zh-TW": "每次施加燃燒後，獲得灼熱獠牙狀態，持續10秒，該狀態無法疊加。狀態持續期間，自身造成的灼熱傷害+30%。",
+      "zh-CN": "每次施加燃烧后，获得灼热獠牙状态，持续10秒，该状态无法叠加。状态持续期间，自身造成的灼热伤害+30%。",
+      "ja": "燃焼を付与すると、10秒間持続する灼熱の牙状態を獲得する（重ね掛け不可）\n持続中、自身の灼熱ダメージ+30%",
+      "ko": "매번 연소 상태를 부여한 후 불타는 송곳니 상태를 획득하고, 10초 동안 지속, 해당 상태는 중첩할 수 없습니다. 상태가 지속되는 동안, 자신이 적에게 주는 열기 피해 +30%"
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Code of Restraint",
+    "zh-TW": "節制準則",
+    "zh-CN": "节制准则",
+    "ja": "節制規則",
+    "ko": "절제의 원칙"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Whenever the battle skill Thermite Tracers successfully consumes an Arts Reaction, return 5 SP.",
+      "zh-TW": "戰技灼熱彈痕成功消耗法術異常時，返還5點技力。",
+      "zh-CN": "战技灼热弹痕成功消耗法术异常时，返还5点技力。",
+      "ja": "戦技「灼熱の弾痕」で敵のアーツ異常状態を消費するとき、SPが5返還される",
+      "ko": "배틀 스킬 탄흔의 열기로 아츠 이상 효과를 소모했을 때, 반환하는 스킬 게이지 5포인트"
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Whenever the battle skill Thermite Tracers successfully consumes an Arts Reaction, return 10 SP.",
+      "zh-TW": "戰技灼熱彈痕成功消耗法術異常時，返還10點技力。",
+      "zh-CN": "战技灼热弹痕成功消耗法术异常时，返还10点技力。",
+      "ja": "戦技「灼熱の弾痕」で敵のアーツ異常状態を消費するとき、SPが10返還される",
+      "ko": "배틀 스킬 탄흔의 열기로 아츠 이상 효과를 소모했을 때, 반환하는 스킬 게이지 10포인트"
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Lone Wolf",
+    "zh-TW": "獨狼",
+    "zh-CN": "独狼",
+    "ja": "独狼",
+    "ko": "떠돌이 늑대"
+   },
+   "text": {
+    "en": "Strength +15, Agility +15.",
+    "zh-TW": "力量+15，敏捷+15。",
+    "zh-CN": "力量+15，敏捷+15。",
+    "ja": "筋力+15、敏捷+15",
+    "ko": "힘 +15, 민첩 +15"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Firearm Mods",
+    "zh-TW": "銃械改造",
+    "zh-CN": "铳械改造",
+    "ja": "銃器改造",
+    "ko": "총기 개조"
+   },
+   "text": {
+    "en": "Talent Code of Restraint improved: Returns 10 additional SP.",
+    "zh-TW": "天賦節制準則效果加強：額外返還10點技力。",
+    "zh-CN": "天赋节制准则效果加强：额外返还10点技力。",
+    "ja": "素質「節制規則」強化：SP返還効果がさらに10増加する",
+    "ko": "재능 '절제의 원칙' 효과 강화: 스킬 게이지 추가 반환 10포인트"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Hunting Hour",
+    "zh-TW": "狩獵時刻",
+    "zh-CN": "狩猎时刻",
+    "ja": "狩猟開始",
+    "ko": "사냥 시간"
+   },
+   "text": {
+    "en": "While Scorching Fangs is active, triggering the battle skill's additional effects immediately resets the Scorching Fangs duration and grants other teammates Scorching Fangs with 50% of the base effects.",
+    "zh-TW": "灼熱獠牙狀態下，施放戰技觸發額外效果時，立即重置自身灼熱獠牙狀態的持續時間，同時使小隊內其他幹員獲得灼熱獠牙，效果為基礎的50%。",
+    "zh-CN": "灼热獠牙状态下，施放战技触发额外效果时，立即刷新自身灼热獠牙状态的持续时间，同时使小队内其他干员获得灼热獠牙，效果为基础的50%。",
+    "ja": "灼熱の牙状態で戦技によって追加効果が発動するとき、自身の灼熱の牙の持続時間が即座にリセットされる\n同時に、チーム内の他のオペレーターにも、基礎効果×50%の灼熱の牙を付与する",
+    "ko": "불타는 송곳니 상태에서 배틀 스킬이 추가 효과를 발동했을 때, 즉시 자신의 불타는 송곳니 지속 시간을 초기화합니다. 동시에 팀 내 다른 오퍼레이터에게 불타는 송곳니 상태를 주며, 해당 효과는 기초 수치의 50%만큼만 제공됩니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Will of the Pack",
+    "zh-TW": "狼群意志",
+    "zh-CN": "狼群意志",
+    "ja": "狼群の意志",
+    "ko": "울프팀의 의지"
+   },
+   "text": {
+    "en": "Ultimate Wolven Fury improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技狼之怒所需的終結技能量-15%。",
+    "zh-CN": "终结技狼之怒所需的终结技能量-15%。",
+    "ja": "必殺技「狼の怒り」に必要な必殺チャージ-15%",
+    "ko": "궁극기 늑대의 분노의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Natural Predator",
+    "zh-TW": "天生掠食者",
+    "zh-CN": "天生掠食者",
+    "ja": "天性のハンター",
+    "ko": "타고난 포식자"
+   },
+   "text": {
+    "en": "Casting the ultimate Wolven Fury immediately resets the cooldown of the combo skill Frag Grenade·β.",
+    "zh-TW": "施放終結技狼之怒後立即更新連攜技爆裂手榴彈·β型冷卻時間。",
+    "zh-CN": "施放终结技狼之怒后立即刷新连携技爆裂手雷·β型冷却时间。",
+    "ja": "必殺技「狼の怒り」を発動すると、連携技「フラググレネード・β」のCD時間が即座にリセットされる",
+    "ko": "궁극기 늑대의 분노를 사용한 후, 즉시 연계 스킬 폭렬 수류탄 · β형의 쿨타임을 초기화합니다."
+   }
+  }
+ ]
+}

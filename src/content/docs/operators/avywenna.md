@@ -46,7 +46,8 @@ sources:
 | Voice, Korean | Kang Eun-ae |
 | Operator File | [Avywenna's file](/story/avywenna/) |
 
-Avywenna is a socially adept Armed Messenger who left a major logistics family in the Free City of Alloycarrot to travel Talos-II and eventually join Endfield Industries.
+> "Messengers have to safely deliver plenty of secrets, and every one of them comes with a costly price tag. But there is one thing more expensive than the delivery itself, and that is ... my silence on these matters."  Avywenna is an Armed Messenger.  Before joining Endfield Industries, she lived with a powerful logistics family in the Free City of Alloycarrot. Yet the wanderlust in her blood drove her to leave that life and begin her own journey. Across the many destinations of Talos-II, she discovered a thread that bound them together — the mysterious Endministrator.  Avywenna shines in social settings, handling all kinds of relationships with maturity and professionalism. As to whether she's truly as good-tempered as she seems, you'll have to find out by engaging with her yourself.\
+> "Nobody likes insolence ... so if we can talk things out, I'd much rather do that than get physical. But just so we're clear, I don't tolerate insolence well either."
 
 ## How to obtain
 
@@ -66,12 +67,37 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Thunderlance: Blitz | Physical combo of up to 5 hits. As the controlled operator, her final strike also deals 17 Stagger. |
-| Battle skill | Thunderlance: Interdiction | She leaps to deal light Electric damage around her and recalls every Thunderlance and Thunderlance EX on the field. Returning Thunderlances pierce enemies in their path for Electric damage, while Thunderlance EX deals higher Electric damage and applies Electric Infliction. Costs 100 SP. |
-| Combo skill | Thunderlance: Strike | Trigger: the controlled operator lands a Final Strike on an enemy with Electric Infliction or Electrification. She leaps to throw 3 Thunderlances at the target and deals 1 hit of Electric damage to enemies in the area. Cooldown 13 s, 12 s at the highest skill level. |
-| Ultimate | Thunderlance: Final Shock | She hurls a Thunderlance EX into the target area, dealing heavy Electric damage to nearby enemies. Costs 100 Ultimate Energy. |
+| Basic attack | Thunderlance: Blitz | — |
+| Battle skill | Thunderlance: Interdiction | 100 SP |
+| Combo skill | Thunderlance: Strike | Cooldown 13 s, 12 s at level 12 |
+| Ultimate | Thunderlance: Final Shock | 100 Ultimate Energy |
+
+### Thunderlance: Blitz
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 17 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.
+
+### Thunderlance: Interdiction
+
+> Leaps into mid-air to stir up a maelstrom with her lance, dealing some Electric DMG to nearby enemies while pulling back all Thunderlances and Thunderlance EX in the battlefield towards herself.\
+> The returning Thunderlances pierce through all enemies along their paths and deal Electric DMG, while returning Thunderlances EX deal more Electric DMG and also apply Electric Infliction.
+
+### Thunderlance: Strike
+
+> COMBO TRIGGER: When controlled operator performs a Final Strike on a target with active Electric Infliction or Electrification.\
+> Leaps into mid-air and throws 3 Thunderlances at the target, then deals 1 hit of Electric DMG to enemies in the area of effect.
+
+### Thunderlance: Final Shock
+
+> Throws a Thunderlance EX at the target area that deals massive Electric DMG to enemies nearby.
 
 ## Skill values
 
@@ -102,20 +128,35 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Expedited Delivery | Promotion I; upgraded at Promotion II | Avywenna gains 3 Ultimate Energy whenever a thrown or returning Thunderlance or Thunderlance EX hits an enemy (4 at Promotion II). |
-| Tactful Approach | Promotion II; upgraded at Promotion III | Thunderlance: Final Shock also inflicts 6% Electric Susceptibility for 10 s on enemies it hits (10% at Promotion III). |
+### Expedited Delivery
+
+**Promotion I**
+
+> After a thrown or returning Thunderlance or Thunderlance EX hits the enemy, Avywenna gains 3 Ultimate Energy.
+
+**Promotion II**
+
+> After a thrown or returning Thunderlance or Thunderlance EX hits the enemy, Avywenna gains 4 Ultimate Energy.
+
+### Tactful Approach
+
+**Promotion II**
+
+> Ultimate Thunderlance: Final Shock improved: Also applies 6% Electric Susceptibility for 10s to enemies it hits.
+
+**Promotion III**
+
+> Ultimate Thunderlance: Final Shock improved: Also applies 10% Electric Susceptibility for 10s to enemies it hits.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Doubling Down | Expedited Delivery grants +2 extra Ultimate Energy |
-| 2 | Pole of Menace | Thunderlance and Thunderlance EX remain on the field 20 s longer |
-| 3 | Hard Negotiator | Will +15, Electric damage +8% |
-| 4 | Very Experienced | Thunderlance: Final Shock costs 15% less Ultimate Energy |
-| 5 | Carrot and Sharp Stick | Returning Thunderlances and Thunderlance EX deal 1.15 times their damage to enemies with Electric Susceptibility |
+| 1 | Doubling Down | Talent Expedited Delivery improved: Ultimate Energy gain +2. |
+| 2 | Pole of Menace | Thunderlance and Thunderlance EX duration +20s. |
+| 3 | Hard Negotiator | Will +15, Electric DMG Dealt +8%. |
+| 4 | Very Experienced | Ultimate Thunderlance: Final Shock improved: Ultimate Energy cost -15%. |
+| 5 | Carrot and Sharp Stick | When returning Thunderlances or Thunderlances EX hit an Electric Susceptible enemy, the DMG multipliers are increased to 1.15 times the original. |
 
 ## Base skills
 
@@ -123,10 +164,10 @@ Base skills work while Avywenna is assigned to a room of the Dijiang. Each has t
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Residence Advisor α | Control Nexus | Promotion I | Mood recovery of all operators +8% |
-| Residence Advisor β | Control Nexus | Promotion III | Mood recovery of all operators +12% |
-| Messenger's Secret α | Reception Room | Promotion II | Slightly higher chance of Clue 2 (TGCC); does not stack with another skill of this kind |
-| Messenger's Secret β | Reception Room | Promotion IV | Higher chance of Clue 2 (TGCC); does not stack with another skill of this kind |
+| Residence Advisor α | Control Nexus | Promotion I | Assign to Control Nexus to grant all operators' Mood Regen +8% |
+| Residence Advisor β | Control Nexus | Promotion III | Assign to Control Nexus to grant all operators' Mood Regen +12% |
+| Messenger's Secret α | Reception Room | Promotion II | Assign to Reception Room to grant operators a small Clue 2 Rate-UP: TGCC (activates upon assignment; effects of the same type cannot stack) |
+| Messenger's Secret β | Reception Room | Promotion IV | Assign to Reception Room to grant operators Clue 2 Rate-UP: TGCC (activates upon assignment; effects of the same type cannot stack) |
 
 ## Base stats
 

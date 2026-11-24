@@ -19,7 +19,7 @@ Languages: English at the root, Traditional Chinese under `/zh-tw/`, Simplified 
 
 ## Sources
 
-Official notices of the global service are the primary source for dates, banners, events and names. In-game text and numbers are the game data of Version 1.6 as published by warfarin.wiki, restated in our own words. Endfield Talos Wiki (endfield.wiki.gg, CC BY-SA 4.0) is used for version numbers and for headhunting rules that no notice states; the damage formula comes from player tests on the NGA forum. Operator portraits are the card images of the official operator list; credits are in each page's notes.
+Official notices of the global service are the primary source for dates, banners, events and names. Skill, talent, potential, base-skill and gear set texts are the game's own text from its text tables (game data 1.6, rmxlinux/EndfieldData), in each language's edition; numbers are the game data of Version 1.6 as published by warfarin.wiki. Operator introductions are the official site's own text. Endfield Talos Wiki (endfield.wiki.gg, CC BY-SA 4.0) is used for version numbers and for headhunting rules that no notice states; the damage formula comes from player tests on the NGA forum. Operator portraits are the card images of the official operator list; credits are in each page's notes.
 
 ## How pages are made
 

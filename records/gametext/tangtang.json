@@ -1,0 +1,237 @@
+{
+ "slug": "tangtang",
+ "gameId": "chr_0027_tangtang",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Your Supreme Chief is here! You, you, and you, are all under my command!\"  Tangtang, the Supreme Chief of Qingbo Stockade. She is straightforward, values loyalty, and acts with a free-spirited and unconstrained nature. She loves freedom and playing in the water, but hates betrayal. Once she recognizes you as her friend, she will go to any lengths to support you.  As an infant, Tangtang was placed in a bamboo basket by someone unknown and drifted down the river to Qingbo Stockade, where she was adopted by the Stockaders and became one of their own. In the eyes of many, she is still a child in need of pampering, but in her heart, she has long since resolved to shoulder the future of Qingbo Stockade.  Despite having experienced many setbacks, she remains full of passion for the world. In order to find answers to her questions and to better develop Qingbo Stockade, Tangtang has joined Endfield Industries.  \"Keep her away from Mi Fu, or things might get broken\" — so says an operator from the Chief Logistics Office.  \"You called me over just to praise me? Well, lay it on thicker then. I love hearing the truth!\"",
+  "zh-TW": "「大當家在此，你、你，還有你，都聽我指揮！」 湯湯，清波寨大當家。她性格直爽，講究義氣，行事灑脫不羈，喜歡自由跟戲水，討厭背叛。一旦她認定你是她的朋友，就會為你兩肋插刀。 嬰兒時期的湯湯不知被誰裝進了竹籃，順著河水漂到了清波寨，被寨民收養，成為了這裡的一員。在不少人眼中，她還是個需要被疼愛的孩子，但她內心早就做好了承擔起清波寨未來的打算。 經歷過許多挫折的她依舊對世界充滿熱情。為了尋找問題的答案，也為了更好地發展清波寨，湯湯來到了終末地工業。 別讓她跟弭弗碰上，可能會砸壞東西——某位總後勤辦事處的幹員這麼說。 「把我叫過來，就是為了誇我啊？那你再誇點，我就愛聽人說真話！」",
+  "zh-CN": "“大当家在此，你、你，还有你，都听我指挥！” 汤汤，清波寨大当家。她性格直爽，讲究义气，行事洒脱不羁，喜欢自由跟戏水，讨厌背叛。一旦她认定你是她的朋友，就会为你两肋插刀。 婴儿时期的汤汤不知被谁装进了竹篮，顺着河水漂到了清波寨，被寨民收养，成为了这里的一员。在不少人眼中，她还是个需要被疼爱的孩子，但她内心早就做好了承担起清波寨未来的打算。 经历过许多挫折的她依旧对世界充满热情。为了寻找问题的答案，也为了更好地发展清波寨，汤汤来到了终末地工业。 别让她跟弭弗碰上，可能会砸坏东西——某位总后勤办事处的干员如是说。 “把我叫过来，就是为了夸我呀？那你再夸点儿，我就爱听人说真话！”",
+  "ja": "「俺様は大親分様だぞ！お前もお前も、それからお前も。全員言うこと聞け！」 清波砦のお頭であるタンタンは、自由奔放でさっぱりした性格だが、義理人情に厚い。好きなことは水遊び、嫌いなことは裏切り。いったん「仲間」と認めた相手のためなら、危険を顧みず助けに行く。 赤ん坊の頃、竹籠に入れられて川を流れ、清波砦に辿り着いた。近くの住民に拾われて育ち、今では砦の一員となっている。周りからは、まだ守ってあげるべき子どもと思われているが、本人の心の中では、とっくに清波砦の未来を背負う覚悟が固まっている。 何度つまずいても、世界への情熱は冷めない。答えを探すために、そして清波砦をもっと豊かにするために、タンタンはエンドフィールドに加入した。 タンタンとミ・フを鉢合わせにしないこと。きっと何かが壊れる――総合後方支援部のとあるオペレーターはそう語る。 「なんだよ、褒めるために呼んだのか？ならもっと褒めろ！てかよ、『本音』聞くのはやっぱ気分いーぜ！」",
+  "ko": "\"대당가 나가신다! 너랑 너, 그리고 너! 잘 들어, 이제 지휘는 내가 한다!\" 청파채의 대당가 탕탕은 성격이 시원시원하고 의리를 중시하며, 행동이 거침없는 인물이다. 물놀이를 좋아하고 자유를 갈망하지만, 배신만큼은 절대 용납하지 않는다. 한번 친구라고 인정하면 상대를 위해 어떠한 희생도 마다하지 않는다. 갓난아기 시절, 대나무 바구니에 담겨 강물을 따라 청파채로 떠내려온 탕탕은 청파채 주민들의 손에 거두어져 이곳의 일원이 되었다. 주민들의 눈에는 여전히 보살핌이 필요한 어린 아이처럼 보일지 모르지만, 탕탕은 오래 전부터 청파채의 미래를 짊어지겠다는 포부를 품고 있다. 많은 좌절을 겪으면서도 세상에 대한 열정은 잃지 않은 채, 문제의 해답을 찾고 청파채를 더 발전시키기 위해 엔드필드 공업에 합류하게 된다. 미브 씨랑은 절대 마주치게 하면 안 돼요. 남아나는 물건이 없을 테니까요. ─ 익명의 총지원 부서 소속 오퍼레이터 \"뭐야, 나 칭찬해 주려고 부른 거였어? 그럼 맘껏 해봐, 그런 말은 아무리 들어도 안 질리거든!\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "I'LL BLOW YOUR MIND!",
+    "zh-TW": "崩你腦袋！",
+    "zh-CN": "崩你脑壳！",
+    "ja": "脳天ぶち抜く！",
+    "ko": "정신 똑바로 차려!"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Cryo DMG. As the controlled operator, Final Strike also deals 18 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Cryo DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Cryo DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成寒冷傷害。作為主控幹員時，重擊會造成18點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成寒冷傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量寒冷傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成寒冷伤害。作为主控干员时，重击会造成18点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成寒冷伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量寒冷伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に寒冷ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値18を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に寒冷ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い寒冷ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 냉기 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 18포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 냉기 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 냉기 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "IMA WAVERIDAAH!",
+    "zh-TW": "踏潮捲浪！",
+    "zh-CN": "踏潮卷浪！",
+    "ja": "波が来るぜ！",
+    "ko": "우당탕탕 파도!"
+   },
+   "text": {
+    "en": "Tangtang jumps out from the water and fires a point-blank shot that deals Cryo DMG to the enemy and creates a Waterspout.\nCasting the battle skill also consumes all nearby Whirlpools to create additional Waterspouts and return some SP based on the number of Waterspouts created.\nWaterspout: Applies 1 stack of Cryo Infliction on enemies within range and deals Cryo DMG over time. If the battle skill creates multiple Waterspouts, they also apply Arts Susceptibility to enemies (but not another stack of Cryo Infliction).\nDMG dealt by the Waterspout is treated as Battle Skill DMG.",
+    "zh-TW": "從水中躍出，逼近敵人進行射擊，造成寒冷傷害，並掀起一個水龍捲。\n同時消耗附近所有渦流使其形成額外的水龍捲，並根據形成數量返還一定技力。\n水龍捲：對範圍內敵人施加1層寒冷附著，並持續造成寒冷傷害。若本次形成多個水龍捲，將對敵人額外施加法術脆弱，但無法重複施加寒冷附著。\n水龍捲傷害視為戰技傷害。",
+    "zh-CN": "从水中跃出，对敌人抵近射击，造成寒冷伤害，并掀起一个水龙卷。\n同时消耗附近所有涡流使其形成额外的水龙卷，并根据形成数量返还一定技力。\n水龙卷：对范围内敌人施加1层寒冷附着，并持续造成寒冷伤害。若本次形成多个水龙卷，将对敌人额外施加法术脆弱，但无法重复施加寒冷附着。\n水龙卷伤害视为战技伤害。",
+    "ja": "水中から飛び出して敵に接近し、射撃を行う。寒冷ダメージを与え、水竜巻を1つ発生させる。\n同時に、周囲の湍水をすべて消費し、追加の水竜巻を発生させる。発生した数に応じて、SPが一定量返還される。\n水竜巻：範囲内の敵に寒冷付着を1段階付与し、持続的に寒冷ダメージを与える。一度に複数の水竜巻を発生させた場合、追加で敵にアーツ脆弱を付与するが、寒冷付着は重複して付与されない。\n水竜巻によるダメージは戦技ダメージと見なされる。",
+    "ko": "물속에서 뛰어올라 적에게 근접하여 사격하며 냉기 피해를 주고, 용오름을 생성합니다.\n동시에 근처의 모든 와류를 소모하여 추가로 용오름을 생성하고, 생성된 개수에 따라 일정량의 스킬 게이지를 반환합니다.\n용오름: 범위 내의 적에게 냉기 부착 1스택을 부여하고, 지속적으로 냉기 피해를 줍니다. 만약 여러 개의 용오름이 생성됐다면 적에게 추가로 아츠 취약을 부여하지만, 냉기 부착이 중복으로 부여되진 않습니다.\n용오름이 주는 피해는 배틀 스킬의 피해로 간주됩니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "RIVER, TO ME!",
+    "zh-TW": "河水，助我！",
+    "zh-CN": "河水，助我！",
+    "ja": "川よ、俺様に従え！",
+    "ko": "야, 강물! 도와줘!"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When applying Cryo Infliction or dealing Arts Burst DMG to an enemy.\nTangtang unleashes a powerful jet stream that penetrates all enemies in its path, deals Cryo DMG to them, and creates a Whirlpool.\nUp to 2 Whirlpools can exist in the battlefield at any time.",
+    "zh-TW": "當有敵人被施加寒冷附著或受到法術爆發傷害時可以發動。\n釋放一道強力的水流，貫穿前方敵人造成寒冷傷害，並迸射出一處渦流。\n場上最多存在2處渦流。",
+    "zh-CN": "当有敌人被施加寒冷附着或受到法术爆发伤害时可以发动。\n释放一道强力的水流，贯穿前方敌人造成寒冷伤害，并迸射出一处涡流。\n场上最多存在2处涡流。",
+    "ja": "敵が寒冷付着またはアーツ爆発のダメージを受けたときに発動可能。\n激流を放ち、前方の敵を貫いて寒冷ダメージを与え、湍水を1カ所生成する。\n同時に存在できる湍水は2カ所まで。",
+    "ko": "적이 냉기 부착을 부여받았거나 아츠 폭발 피해를 받았을 때 사용할 수 있습니다.\n강력한 물줄기를 방출해 전방의 적을 관통하며 냉기 피해를 주고, 와류 하나를 생성합니다.\n필드에는 최대 두 개의 와류만 존재할 수 있습니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "DA CHIEF SEES YOU!",
+    "zh-TW": "大當家盯著呢！",
+    "zh-CN": "大当家盯着呢！",
+    "ja": "大親分が見てっぞ！",
+    "ko": "대당가께서 지켜보고 계신다!"
+   },
+   "text": {
+    "en": "Tangtang opens her eyepatch and unleashes an OLDEN STARE from her eye that applies temporary Immobilization and deals Cryo DMG over time to enemies within its area of effect (AOE).\nWhen the OLDEN STARE stops evolving, a rogue wave comes crashing down to deal massive Cryo DMG to enemies in its AOE.\nIf the controlled operator performs a dive attack in the OLDEN STARE pattern, its evolution ends and the rogue wave is summoned immediately to deal even more Cryo DMG.",
+    "zh-TW": "湯湯揭開眼罩，釋放眼中的古老圖形，對範圍內的敵人施加一段時間的定身，並造成持續的寒冷傷害。\n古老圖形演化結束時降下巨浪，對範圍內敵人造成大量寒冷傷害。\n若主控幹員在古老圖形中下墜攻擊，會提前結束演化降下巨浪，巨浪造成的寒冷傷害提升。",
+    "zh-CN": "汤汤揭开眼罩，释放眼中的古老图形，对范围内的敌人施加一段时间的定身，并造成持续的寒冷伤害。\n古老图形演化结束时降下巨浪，对范围内敌人造成大量寒冷伤害。\n若主控干员在古老图形中下落攻击，会提前结束演化降下巨浪，巨浪造成的寒冷伤害提升。",
+    "ja": "眼帯を外し、目に宿る古の紋様を解放する。範囲内の敵に一定時間行動停止を付与し、持続的に寒冷ダメージを与える。\n古の紋様の変化が終了したときに、大波が発生し、範囲内の敵に高い寒冷ダメージを与える。\n操作中のオペレーターが古の紋様の範囲内で落下攻撃を行った場合、その時点で紋様の変化は終了し、大波が発生する。この場合、大波による寒冷ダメージがアップする。",
+    "ko": "탕탕이 안대를 벗어 던지고 눈 속에 깃든 고대의 진을 발동합니다. 범위 내의 적을 일정 시간 동안 속박하며, 지속적으로 냉기 피해를 줍니다.\n고대의 진은 나타난 직후부터 서서히 변화를 시작해 변화가 끝날 때 거대한 파도를 일으키고 범위 내의 적에게 대량의 냉기 피해를 줍니다.\n메인 컨트롤 오퍼레이터가 고대의 진 내에서 낙하 공격을 사용하면, 변화하던 고대의 진이 그 변화를 중단합니다. 이어서 예정보다 일찍 거대한 파도를 일으키고, 이때 파도가 주는 냉기 피해가 증가합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Fam of Honor",
+    "zh-TW": "肝膽相照",
+    "zh-CN": "肝胆相照",
+    "ja": "肝胆相照らす",
+    "ko": "의기투합"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "When within a 5-meter radius of a Whirlpool, allied operators gain 10% Haste while enemies suffer 20% Slow. These effects persist for 3s after leaving the area of effect.",
+      "zh-TW": "渦流附近5公尺範圍內，友方幹員獲得10%加速，敵人受到20%緩速，離開範圍後該效果持續3秒。",
+      "zh-CN": "涡流附近5米范围内，友方干员获得10%加速，敌人受到20%缓速，离开范围后该效果持续3秒。",
+      "ja": "湍水付近5mの範囲内で、味方オペレーターは10%の加速効果を獲得し、敵は20%のスロー効果を受ける\n効果は範囲から離れたあとも3秒間持続する",
+      "ko": "와류 주변 5미터 범위 내, 아군 오퍼레이터는 10%의 가속을 획득하고, 적은 20%의 감속을 받습니다. 범위를 벗어난 뒤에도 해당 효과는 3초 동안 지속됩니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When within a 5-meter radius of a Whirlpool, allied operators gain 20% Haste while enemies suffer 40% Slow. These effects persist for 3s after leaving the area of effect.",
+      "zh-TW": "渦流附近5公尺範圍內，友方幹員獲得20%加速，敵人受到40%緩速，離開範圍後該效果持續3秒。",
+      "zh-CN": "涡流附近5米范围内，友方干员获得20%加速，敌人受到40%缓速，离开范围后该效果持续3秒。",
+      "ja": "湍水付近5mの範囲内で、味方オペレーターは20%の加速効果を獲得し、敵は40%のスロー効果を受ける\n効果は範囲から離れたあとも3秒間持続する",
+      "ko": "와류 주변 5미터 범위 내, 아군 오퍼레이터는 20%의 가속을 획득하고, 적은 40%의 감속을 받습니다. 범위를 벗어난 뒤에도 해당 효과는 3초 동안 지속됩니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Riot Bringer",
+    "zh-TW": "呼風喚浪",
+    "zh-CN": "呼风唤浪",
+    "ja": "嵐を呼ぶ娘",
+    "ko": "풍랑의 주재자"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "During OLDEN STARE, performing a dive attack with the controlled operator ends its evolution early and creates a Waterspout. All nearby Whirlpools are also consumed and converted into additional Waterspouts.\nWaterspouts created this way have the same effects as those created by the battle skill IMA WAVERIDAAH! and gain DMG Dealt +40%.",
+      "zh-TW": "主控幹員在古老圖形中進行下墜攻擊，提前結束演化時，形成一個水龍捲，並消耗附近所有渦流使其形成額外的水龍捲。\n此次形成的水龍捲效果同戰技踏潮捲浪！，造成的傷害+40%。",
+      "zh-CN": "主控干员在古老图形中进行下落攻击，提前结束演化时，形成一个水龙卷，并消耗附近所有涡流使其形成额外的水龙卷。\n此次形成的水龙卷效果同战技踏潮卷浪！，造成的伤害+40%。",
+      "ja": "操作中のオペレーターが古の紋様の範囲内で落下攻撃を行い、その時点で紋様の変化を終了させたとき、水竜巻を1つ発生させる\n同時に、周囲の湍水をすべて消費し、その数に応じて追加の水竜巻を発生させる\n発生した水竜巻のダメージの効果は戦技「波が来るぜ！」と同様のものと見なされ、与えるダメージ+40%",
+      "ko": "메인 컨트롤 오퍼레이터가 고대의 진 내에서 낙하 공격을 사용하면, 변화하던 고대의 진이 그 변화를 중단합니다. 이어서 용오름 1개를 생성하며, 주변에 와류가 존재할 경우 이를 소모하여 추가로 용오름을 생성합니다.\n이때 생성한 용오름은 배틀 스킬 우당탕탕 파도!와 동일한 효과를 가지고 있으며, 주는 피해 +40%."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "During OLDEN STARE, performing a dive attack with the controlled operator ends its evolution early and creates a Waterspout. All nearby Whirlpools are also consumed and converted into additional Waterspouts.\nWaterspouts created this way have the same effects as those created by the battle skill IMA WAVERIDAAH! and gain DMG Dealt +60%.",
+      "zh-TW": "主控幹員在古老圖形中進行下墜攻擊，提前結束演化時，形成一個水龍捲，並消耗附近所有渦流使其形成額外的水龍捲。\n此次形成的水龍捲效果同戰技踏潮捲浪！，造成的傷害+60%。",
+      "zh-CN": "主控干员在古老图形中进行下落攻击，提前结束演化时，形成一个水龙卷，并消耗附近所有涡流使其形成额外的水龙卷。\n此次形成的水龙卷效果同战技踏潮卷浪！，造成的伤害+60%。",
+      "ja": "操作中のオペレーターが古の紋様の範囲内で落下攻撃を行い、その時点で紋様の変化を終了させたとき、水竜巻を1つ発生させる\n同時に、周囲の湍水をすべて消費し、その数に応じて追加の水竜巻を発生させる\n発生した水竜巻のダメージの効果は戦技「波が来るぜ！」と同様のものと見なされ、与えるダメージ+60%",
+      "ko": "메인 컨트롤 오퍼레이터가 고대의 진 내에서 낙하 공격을 사용하면, 변화하던 고대의 진이 그 변화를 중단합니다. 이어서 용오름 1개를 생성하며, 주변에 와류가 존재할 경우 이를 소모하여 추가로 용오름을 생성합니다.\n이때 생성한 용오름은 배틀 스킬 우당탕탕 파도!와 동일한 효과를 가지고 있으며, 주는 피해 +60%."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Reserve Hoard",
+    "zh-TW": "財寶儲備",
+    "zh-CN": "财宝储备",
+    "ja": "お宝たんまり",
+    "ko": "무한한 재보"
+   },
+   "text": {
+    "en": "Combo skill RIVER, TO ME! improved: DMG Multiplier is increased to 1.2 times of the original. Length of cooldown -2s.\nBattle skill IMA WAVERIDAAH! improved: For every Whirlpool consumed and converted into a Waterspout, return 5 additional SP.",
+    "zh-TW": "連攜技河水，助我！的傷害倍率提升至原本的1.2倍，冷卻時間-2秒。\n戰技踏潮捲浪！每消耗一處渦流形成水龍捲，額外返還5點技力。",
+    "zh-CN": "连携技河水，助我！的伤害倍率提升至原本的1.2倍，冷却时间-2秒。\n战技踏潮卷浪！每消耗一处涡流形成水龙卷，额外返还5点技力。",
+    "ja": "連携技「川よ、俺様に従え！」のダメージ倍率は1.2倍までアップし、CD時間-2秒\n戦技「波が来るぜ！」で湍水を消費して水竜巻を発生させるたびに、追加でSPが5返還される",
+    "ko": "연계 스킬 야, 강물! 도와줘!의 피해 배율이 기존의 1.2배로 증가하며, 쿨타임 -2초.\n배틀 스킬 우당탕탕 파도!로 와류 한 곳을 소모하여 용오름이 생성될 때마다, 추가로 스킬 게이지 5포인트를 반환합니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "River's Daughter",
+    "zh-TW": "河流的女兒",
+    "zh-CN": "河流的女儿",
+    "ja": "水の申し子",
+    "ko": "강에서 태어난 소녀"
+   },
+   "text": {
+    "en": "Agility +20, Cryo DMG Dealt +10%",
+    "zh-TW": "敏捷+20，寒冷傷害+10%。",
+    "zh-CN": "敏捷+20，寒冷伤害+10%。",
+    "ja": "敏捷+20、寒冷ダメージ+10%",
+    "ko": "민첩 +20, 냉기 피해 +10%"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Chiefly Vibe",
+    "zh-TW": "當家氣魄",
+    "zh-CN": "当家气魄",
+    "ja": "大親分の貫禄",
+    "ko": "대당가의 기백"
+   },
+   "text": {
+    "en": "Battle skill IMA WAVERIDAAH! improved: DMG Multiplier is increased to 1.1 times the original. When forming multiple Waterspouts, the resulting Arts Susceptibility effect is increased by +5%.",
+    "zh-TW": "戰技踏潮捲浪！傷害倍率提升至原本的1.1倍，且同時形成多個水龍捲時造成的法術脆弱效果額外+5%。",
+    "zh-CN": "战技踏潮卷浪！伤害倍率提升至原本的1.1倍，且同时形成多个水龙卷时造成的法术脆弱效果额外+5%。",
+    "ja": "戦技「波が来るぜ！」のダメージ倍率は1.1倍までアップし、同時に複数の水竜巻を発生させるときの与えるアーツ脆弱効果がさらに+5%",
+    "ko": "배틀 스킬 우당탕탕 파도!의 피해 배율이 기존의 1.1배로 증가하며, 동시에 여러 개의 용오름이 생성될 때 부여하는 아츠 취약 효과가 추가로 +5%."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Qingbo Meditation",
+    "zh-TW": "清波修煉法",
+    "zh-CN": "清波修炼法",
+    "ja": "清波流の修行",
+    "ko": "청파 수련법"
+   },
+   "text": {
+    "en": "Ultimate DA CHIEF SEES YOU! improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技大當家盯著呢！所需的終結技能量-15%。",
+    "zh-CN": "终结技大当家盯着呢！所需的终结技能量-15%。",
+    "ja": "必殺技「大親分が見てっぞ！」に必要な必殺チャージ-15%",
+    "ko": "궁극기 대당가께서 지켜보고 계신다!의 사용에 필요한 궁극기 에너지 -15%."
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Chief's All-Eldritch Gaze",
+    "zh-TW": "魔眼效能",
+    "zh-CN": "魔眼效能",
+    "ja": "魔眼パワー",
+    "ko": "마안의 권능"
+   },
+   "text": {
+    "en": "Ultimate DA CHIEF SEES YOU! improved: DMG Multiplier is increased to 1.15 times the original.\nTalent Riot Bringer improved: DMG effects of any Waterspout created by the ultimate DA CHIEF SEES YOU! are increased by +80%.",
+    "zh-TW": "終結技大當家盯著呢！的傷害倍率提升至原本的1.15倍。\n天賦呼風喚浪效果加強：終結技大當家盯著呢！形成的水龍捲傷害提升效果額外+80%。",
+    "zh-CN": "终结技大当家盯着呢！的伤害倍率提升至原本的1.15倍。\n天赋呼风唤浪效果加强：终结技大当家盯着呢！形成的水龙卷伤害提升效果额外+80%。",
+    "ja": "必殺技「大親分が見てっぞ！」のダメージ倍率が1.15倍までアップする\n素質「嵐を呼ぶ娘」強化：必殺技「大親分が見てっぞ！」で発生させた水竜巻のダメージUP効果がさらに+80%",
+    "ko": "궁극기 대당가께서 지켜보고 계신다!의 피해 배율이 기존의 1.15배로 증가합니다.\n재능 풍랑의 주재자 효과 강화: 궁극기 대당가께서 지켜보고 계신다!로 생성된 용오름의 피해 증가 효과 추가로 +80%."
+   }
+  }
+ ]
+}

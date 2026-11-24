@@ -1,0 +1,237 @@
+{
+ "slug": "liino",
+ "gameId": "chr_0035_liino",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Twinkle-twinkle! My latest performance is about to start!\"\nLiino is a breakout idol from the Talos-II General Chamber of Commerce. Loved by the public ever since her debut, she is known as the \"Morning Star of La Fantoma.\" Renowned for her exquisite singing and unique performance style, her concerts often challenge norms and defy industry conventions.\nShe never fails to deliver a one-of-a-kind experience for her audiences, and major corporations are always eagerly lining up to sponsor every one of her shows. Though this Sarkaz Djall's meteoric rise is not without controversy, everyone who sees her on stage is hopelessly drawn to her radiance.\nAt present, Liino is methodically pushing ahead with plans for her Talos-II concert tour. She believes she will deliver a performance unlike anything seen before, and that the day will come when she'll shine bright at the top of the world.\n\"Oh that's sweet! How should I thank you... I've got it! I'll just keep showering you with concert tickets until we're even, how's that?\"",
+  "zh-TW": "「Twinkle-twinkle！新的演出馬上開始！」\n梨諾，來自環塔商會的新銳偶像，自出道後便深受眾人的喜愛，人稱「菈梵朵瑪的晨星」。她以精湛的演唱技巧與獨特的演出風格著稱，時常將富有挑戰、突破傳統的表演內容融入自己的演唱會中。\n她總能讓觀眾收穫獨一無二的觀看體驗，也總能讓那些大公司心甘情願地贊助她的每一場演出。儘管薩卡茲笞心魔的身分為她的急速走紅帶來了非議，但是每個看過她演出的人總會被這位耀眼的少女吸引。\n如今，梨諾正有條不紊地推進自己的環塔衛二巡迴演唱會計劃。她相信自己必定會創造出更別開生面的舞台，也相信自己終有一天能成為世界頂端最閃耀的那顆星。\n「好感動！我該怎麼答謝這份信賴才好……唔，再多給你幾張下次演出的門票，怎麼樣？」",
+  "zh-CN": "“Twinkle-twinkle！新的演出马上开始！”\n梨诺，来自环塔商会的新锐偶像，自出道后便深受众人的喜爱，人称“菈梵朵玛的晨星”。她以精湛的演唱技巧与独特的演出风格著称，时常将富有挑战、突破传统的表演内容融入自己的演唱会中。\n她总能让观众收获独一无二的观看体验，也总能让那些大公司心甘情愿地赞助她的每场演出。尽管萨卡兹笞心魔的身份为她的急速走红带来了非议，但每个看过她演出的人总会被这位耀眼的少女吸引。\n如今，梨诺正有条不紊地推进自己的环塔卫二巡回演唱会计划。她相信自己必定会创造出更别开生面的舞台，也相信自己终有一天能成为世界顶端最闪耀的那颗星。\n“好感动！我该怎么答谢这份信赖才好……唔，再多给你几张下次演出的门票，怎么样？”",
+  "ja": "「トゥインクルなライブ、始まるよ～！」\nリーノ、環タロ商会の新進気鋭のアイドル。デビュー以来、多くの人々に愛され、「ラヴァンドマの綺羅星」と呼ばれている。卓越した歌唱力と独自のパフォーマンスで知られ、挑戦的で型破りな演出をたびたび自身のライブに取り入れている。\n彼女のステージは、いつも観客に唯一無二の体験を届け、大企業がこぞってスポンサーにつきたがるほどの魅力を備えている。サルカズのジャールであることから、急速な人気上昇に対して心ない声が向けられることもあるが、一度でも彼女のステージを目にした者は、誰もがこのまばゆい少女に惹きつけられてしまう。\n現在、リーノはタロⅡライブツアー計画を着実に進めている。彼女は、自分ならきっと、これまでにない斬新なステージを作り出せると信じている。そしていつの日か、世界の頂点で最もまばゆく輝く星になれると信じている。\n「嬉し～！どう応えてあげたらいいのかな……う～ん、次のライブのチケット多めにあげちゃう！どう？」",
+  "ko": "\"트윙클 트윙클! 곧 공연이 시작될 거야!\"\n탈로스 II 상업연합회 출신의 신예 아이돌, 리노는 데뷔와 동시에 대중의 사랑을 한 몸에 받으며 '라반도르마의 샛별'이라는 별명을 얻었다. 뛰어난 가창력과 독특한 무대 연출을 자랑하는 그녀는 고정관념을 깨부수는 과감하고 도전적인 퍼포먼스로 콘서트 무대를 꾸미는 것으로 유명하다.\n리노는 늘 관중들에게 특별한 경험을 선사하며, 많은 대기업 역시 콘서트마다 후원사로 나서곤 한다. 살카즈 디얄이라는 신분 때문에 급격히 얻은 인기를 두고 구설에 오르기도 하지만, 그녀의 무대를 한 번이라도 본 사람이라면 누구나 이 눈부신 소녀에게 매료되고 만다.\n현재 리노는 탈로스 II를 순회하는 콘서트 투어를 차근차근 진행 중이다. 그녀는 자신이 훨씬 더 새롭고 파격적인 무대를 만들어낼 것이라 확신하며, 언젠가 전 세계 가장 높은 곳에서 빛나는 스타가 될 것이라고 믿는다.\n\"리노, 감동했어! 이 감동을 어떻게 보답하면 좋으려나, 음... 다음 공연 표를 몇 장 더 챙겨줄까? 어때, 마음에 들어?\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Starry Heart Throb",
+    "zh-TW": "怦然星動",
+    "zh-CN": "怦然星动",
+    "ja": "キラめきハート",
+    "ko": "반짝이는 하트"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Electric DMG. As the controlled operator, Final Strike also deals 19 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Electric DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Electric DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成電磁傷害。作為主控幹員時，重擊會造成19點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成電磁傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量電磁傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成电磁伤害。作为主控干员时，重击会造成19点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成电磁伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量电磁伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に電磁ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値19を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に電磁ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い電磁ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 전기 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 19포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 전기 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 전기 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Dazzling Focus",
+    "zh-TW": "閃耀焦點",
+    "zh-CN": "闪耀焦点",
+    "ja": "キラキラフォーカス",
+    "ko": "스포트라이트"
+   },
+   "text": {
+    "en": "Liino deals Electric DMG to enemies and then enters her Vocalist Stance. While this stance is active, if there are enemies nearby, Liino will perform an Additional ATK (that deals Electric DMG to enemies) on a regular basis.\nVocalist Stance: While this stance is active, Liino grants the entire team an ATK Boost. After entering battle, Liino will also grant continuous HP Treatment to operators within range.\nDuring Vocalist Stance, her battle skill is replaced with End Stance. Casting this will end her Vocalist Stance early without consuming any SP, after which the battle skill will enter a short cooldown.",
+    "zh-TW": "對敵人造成電磁傷害，隨後進入演唱姿態，期間若附近有敵人，則每隔一段時間追加攻擊，對敵人造成電磁傷害。\n演唱姿態：持續期間提升全隊攻擊力，並在進入戰鬥後持續治療範圍內幹員。\n持續期間戰技替換為姿態中止，施放將提前結束演唱姿態且不消耗技力，戰技進入短暫冷卻。",
+    "zh-CN": "对敌人造成电磁伤害，随后进入演唱姿态，期间若附近有敌人，则每隔一段时间追加攻击，对敌人造成电磁伤害。\n演唱姿态：持续期间提升全队攻击力，并在进入战斗后持续治疗范围内干员。\n持续期间战技替换为姿态中止，施放将提前结束演唱姿态且不消耗技力，战技进入短暂冷却。",
+    "ja": "敵に電磁ダメージを与え、その後ライブモードに入る。期間中、近くに敵がいる場合、一定時間ごとに追加攻撃を行い、敵に電磁ダメージを与える。\nライブモード：持続期間中、チーム全員の攻撃力をアップし、戦闘状態に入ると範囲内のオペレーターを治療し続ける。\n持続期間中、戦技は「モード停止」に切り替わり、発動するとその時点でライブモードは終了する。その際、SPは消費されず、戦技は短時間のクールタイムに入る。",
+    "ko": "적에게 전기 피해를 주고, 라이브 모드로 진입합니다. 이 기간 동안 근처에 적이 있으면 일정 시간마다 추가 공격을 하여 적에게 전기 피해를 줍니다.\n라이브 모드: 지속 시간 동안 팀 전체의 공격력을 증가시키고, 전투에 들어간 후에는 범위 내의 오퍼레이터를 지속적으로 치유합니다.\n지속 시간 동안 배틀 스킬이 모드 중단으로 대체되며, 모드 중단 사용 시 라이브 모드가 조기에 종료됩니다. 이때 스킬 게이지를 소모하지 않고, 배틀 스킬이 잠깐의 쿨타임에 들어갑니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Delightful Harmonics",
+    "zh-TW": "悅心音調",
+    "zh-CN": "悦心音调",
+    "ja": "ときめきメロディー",
+    "ko": "기쁨의 멜로디"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: While Vocalist Stance is active, an Arts Reaction is consumed or is applied on an enemy.\nLiino deals Electric DMG to enemies, grants HP Treatment to the controlled operator, and gains additional Ultimate Energy.\nCasting the combo skill Delightful Harmonics does not interrupt Vocalist Stance.",
+    "zh-TW": "演唱姿態期間，當有敵人被施加法術異常或法術異常被消耗時可以發動。\n對敵人造成電磁傷害，治療主控幹員，並額外獲得終結技能量。\n施放連攜技悅心音調，不會打斷演唱姿態。",
+    "zh-CN": "演唱姿态期间，当有敌人被施加法术异常或法术异常被消耗时可以发动。\n对敌人造成电磁伤害，治疗主控干员，并额外获得终结技能量。\n施放连携技悦心音调，不会打断演唱姿态。",
+    "ja": "ライブモード期間中、敵がアーツ異常を受けるかアーツ異常が消費されたときに発動可能。\n敵に電磁ダメージを与え、操作オペレーターを治療し、さらに必殺チャージを追加で回復する。\n連携技「ときめきメロディー」を発動してもライブモードは中断されない。",
+    "ko": "라이브 모드의 지속 시간 동안, 적이 아츠 이상을 부여받거나 아츠 이상이 소모됐을 때 발동할 수 있습니다.\n적에게 전기 피해를 주고, 메인 컨트롤 오퍼레이터를 치유하며, 추가로 궁극기 에너지를 획득합니다.\n연계 스킬 기쁨의 멜로디를 사용하면 라이브 모드가 중단되지 않습니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Dawnstar Concerto",
+    "zh-TW": "晨星的協奏曲",
+    "zh-CN": "晨星的协奏曲",
+    "ja": "綺羅星コンチェルト",
+    "ko": "샛별의 협주곡"
+   },
+   "text": {
+    "en": "Liino grants HP Treatment to the entire team, enters her Cosmovoice Stance at the same time, unleashes a continuous display of Stage Pyrotechnics that deals Electric DMG, and then triggers an Electrifying Extravaganza that deals Electric DMG and forcibly applies Electrification to enemies in a large area of effect (AOE).\nCosmovoice Stance: This stance replaces Liino's Vocalist Stance. While active, the stance grants the entire team Electric Amp and Nature Amp (effects are further increased by the attribute of Will) as well as an ATK Boost. The beats of Liino's song also deal Electric DMG to enemies in the AOE and grant continuous HP Treatment to allied operators in the AOE. When the stance ends, Liino deals 3 times the DMG from a single beat to enemies in the AOE, and grants 3 times the HP treatment from a single beat to the entire team. This effect does not trigger if the stance is ended early.\nDuring the stance, her battle skill is replaced with End Stance. Casting the battle skill during Cosmovoice Stance ends it early and does not consume any SP.",
+    "zh-TW": "治療全隊，同時進入高歌姿態，持續釋放舞台焰火造成電磁傷害，隨後引發華彩爆點，對大範圍內的敵人造成電磁傷害，並強制施加導電。\n高歌姿態：代替演唱姿態，持續期間提升全隊攻擊力，並施加受意志提升的電磁增幅和自然增幅。歌聲對範圍內的敵人持續造成電磁傷害，並持續治療範圍內的友方幹員。結束時，對範圍內敵人造成3倍單次歌聲傷害，並為全隊回復3倍單次治療量的生命值，提前結束時該效果不會生效。\n持續期間戰技替換為姿態中止，施放將提前結束高歌姿態且不消耗技力。",
+    "zh-CN": "治疗全队，同时进入高歌姿态，持续释放舞台焰火造成电磁伤害，随后引发华彩爆点，对大范围内的敌人造成电磁伤害，并强制施加导电。\n高歌姿态：代替演唱姿态，持续期间提升全队攻击力，并施加受意志提升的电磁增幅和自然增幅。歌声对范围内的敌人持续造成电磁伤害，并持续治疗范围内的友方干员。结束时，对范围内敌人造成3倍单次歌声伤害，并为全队回复3倍单次治疗量的生命值，提前结束时该效果不会生效。\n持续期间战技替换为姿态中止，施放将提前结束高歌姿态且不消耗技力。",
+    "ja": "チーム全員を治療し、同時にパフォーマンスモードに入る。ステージ花火を持続的に放ち、電磁ダメージを与える。その後クライマックス最高潮を引き起こし、広範囲の敵に電磁ダメージを与え、強制的に感電状態にする。\nパフォーマンスモード：ライブモードは上書きされる。持続期間中、チーム全員の攻撃力をアップし、意志の値に応じて電磁増幅と自然増幅を付与する。歌唱は範囲内の敵に電磁ダメージを与え続け、さらに範囲内の味方オペレーターを治療し続ける。終了時、範囲内の敵に歌唱1回の3倍のダメージを与え、さらにチーム全員のHPを回復1回の3倍分回復する。途中で停止した場合、この効果は発動しない。\n持続期間中、戦技は「モード停止」に切り替わり、発動するとその時点でパフォーマンスモードは終了する。その際、SPは消費しない。",
+    "ko": "팀 전체를 치유함과 동시에, 보컬 모드에 진입하여 지속적으로 무대 위 특수 효과를 사용해 전기 피해를 주고, 이어서 클라이맥스를 구성해 넓은 범위 내의 적에게 전기 피해를 주며, 강제로 감전을 부여합니다.\n보컬 모드: 라이브 모드를 대체하며, 지속 시간 동안 팀 전체의 공격력을 증가시키고, 의지에 따라 증가하는 전기 증폭과 자연 증폭을 부여합니다. 노랫소리가 범위 내의 적에게 지속적으로 전기 피해를 주고, 범위 내의 아군 오퍼레이터를 지속적으로 치유합니다. 종료 시, 범위 내의 적에게 단일 노랫소리 피해의 3배에 해당하는 피해를 주고, 팀 전체에게 단일 치유량의 3배에 해당하는 생명력을 회복시킵니다. 조기 종료 시 해당 효과는 발동하지 않습니다.\n지속 시간 동안 배틀 스킬이 모드 중단으로 대체되며, 모드 중단 사용 시 보컬 모드가 조기에 종료됩니다. 이때 스킬 게이지를 소모하지 않습니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Idol Zone",
+    "zh-TW": "偶像領域",
+    "zh-CN": "偶像领域",
+    "ja": "アイドルゾーン",
+    "ko": "아이돌 영역"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "During Vocalist Stance or Cosmovoice Stance, operators within the area of effect (AOE) gain Treatment Received Bonus +10% and DMG Taken -10%. These effects persist for 3s after leaving the AOE.",
+      "zh-TW": "演唱姿態和高歌姿態持續期間，範圍內的幹員受治療加成+10%，受到的傷害-10%，離開範圍後該效果持續3秒。",
+      "zh-CN": "演唱姿态和高歌姿态持续期间，范围内的干员受治疗加成+10%，受到的伤害-10%, 离开范围后该效果持续3秒。",
+      "ja": "ライブモードとパフォーマンスモードの持続中、範囲内のオペレーターが受ける回復効率+10%、受けるダメージ-10%\nこの効果は範囲を離れてからも3秒間持続する",
+      "ko": "라이브 모드 및 보컬 모드 지속 시간 동안, 범위 내 오퍼레이터가 받는 치유량 보너스 +10%, 받는 피해 -10%. 범위를 벗어난 후에도 해당 효과는 3초 동안 지속됩니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "During Vocalist Stance or Cosmovoice Stance, operators within the area of effect (AOE) gain Treatment Received Bonus +20% and DMG Taken -20%. These effects persist for 3s after leaving the AOE.",
+      "zh-TW": "演唱姿態和高歌姿態持續期間，範圍內的幹員受治療加成+20%，受到的傷害-20%，離開範圍後該效果持續3秒。",
+      "zh-CN": "演唱姿态和高歌姿态持续期间，范围内的干员受治疗加成+20%，受到的伤害-20%, 离开范围后该效果持续3秒。",
+      "ja": "ライブモードとパフォーマンスモードの持続中、範囲内のオペレーターが受ける回復効率+20%、受けるダメージ-20%\nこの効果は範囲を離れてからも3秒間持続する",
+      "ko": "라이브 모드 및 보컬 모드 지속 시간 동안, 범위 내 오퍼레이터가 받는 치유량 보너스 +20%, 받는 피해 -20%. 범위를 벗어난 후에도 해당 효과는 3초 동안 지속됩니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Starry Boost of 1st Magnitude",
+    "zh-TW": "一等星的鼓舞",
+    "zh-CN": "一等星的鼓舞",
+    "ja": "一等星の応援",
+    "ko": "일등성의 격려"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "For 30s after casting Liino's combo skill Delightful Harmonics, casting a battle skill of an Electric or Nature operator returns 5 SP. This effect cannot stack and ends after triggering.",
+      "zh-TW": "施放連攜技悅心音調後，隊伍中電磁或自然屬性的幹員下次施放戰技時，返還5技力。該效果持續30秒，無法疊加，觸發後效果結束。",
+      "zh-CN": "施放连携技悦心音调后，队伍中电磁或自然属性的干员下次施放战技时，返还5技力。该效果持续30秒，无法叠加，触发后效果结束。",
+      "ja": "連携技「ときめきメロディー」を発動すると、チーム内の電磁または自然属性のオペレーターが次の戦技を発動するとき、SPが5返還される\nこの効果は30秒持続し、発動すると効果は終了する（重ね掛け不可）",
+      "ko": "연계 스킬 기쁨의 멜로디 사용 후, 팀 내 전기 또는 자연 속성 오퍼레이터가 다음 배틀 스킬을 사용할 시 5 스킬 게이지를 반환합니다. 해당 효과는 30초간 지속, 중첩되지 않으며, 발동 후 효과가 종료됩니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "For 30s after casting Liino's combo skill Delightful Harmonics, casting a battle skill of an Electric or Nature operator returns 10 SP. This effect cannot stack and ends after triggering.",
+      "zh-TW": "施放連攜技悅心音調後，隊伍中電磁或自然屬性的幹員下次施放戰技時，返還10技力。該效果持續30秒，無法疊加，觸發後效果結束。",
+      "zh-CN": "施放连携技悦心音调后，队伍中电磁或自然属性的干员下次施放战技时，返还10技力。该效果持续30秒，无法叠加，触发后效果结束。",
+      "ja": "連携技「ときめきメロディー」を発動すると、チーム内の電磁または自然属性のオペレーターが次の戦技を発動するとき、SPが10返還される\nこの効果は30秒持続し、発動すると効果は終了する（重ね掛け不可）",
+      "ko": "연계 스킬 기쁨의 멜로디 사용 후, 팀 내 전기 또는 자연 속성 오퍼레이터가 다음 배틀 스킬을 사용할 시 10 스킬 게이지를 반환합니다. 해당 효과는 30초간 지속, 중첩되지 않으며, 발동 후 효과가 종료됩니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Flawless Stage Work",
+    "zh-TW": "台前的無瑕",
+    "zh-CN": "台前的无瑕",
+    "ja": "100点のステージ",
+    "ko": "완벽한 무대"
+   },
+   "text": {
+    "en": "After entering battle without her Vocalist Stance active, the first casting of the battle skill Dazzling Focus returns 25 additional SP.\nEffects of ATK Boost granted by Vocalist Stance and Cosmovoice Stance are increased by +6%.",
+    "zh-TW": "不處於演唱姿態進入戰鬥後，首次施放戰技閃耀焦點，額外返還25點技力。\n演唱姿態和高歌姿態的攻擊力提升效果額外+6%。",
+    "zh-CN": "不处于演唱姿态进入战斗后，首次施放战技闪耀焦点，额外返还25点技力。\n演唱姿态和高歌姿态的攻击力提升效果额外+6%。",
+    "ja": "戦闘開始時にライブモードでない場合、初めて戦技「キラキラフォーカス」を発動すると、追加でSPが25返還される\nライブモードとパフォーマンスモードの攻撃力UP効果がさらに+6%",
+    "ko": "라이브 모드가 아닌 상태로 전투에 진입한 후, 처음으로 배틀 스킬 스포트라이트를 사용하면 추가로 스킬 게이지 25포인트를 반환합니다.\n라이브 모드 및 보컬 모드의 공격력 증가 효과 추가 +6%"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Committed Rehearsals",
+    "zh-TW": "幕後的決意",
+    "zh-CN": "幕后的决意",
+    "ja": "舞台裏の決意",
+    "ko": "무대 뒤의 결의"
+   },
+   "text": {
+    "en": "Will +20, Treatment Efficiency +10%.",
+    "zh-TW": "意志+20，治療效率+10%。",
+    "zh-CN": "意志+20，治疗效率+10%。",
+    "ja": "意志+20、回復効率+10%",
+    "ko": "의지 +20, 치유 효율 +10%."
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Longing for the Horizon",
+    "zh-TW": "天際的憧憬",
+    "zh-CN": "天际的憧憬",
+    "ja": "大空に憧れて",
+    "ko": "하늘을 향한 동경"
+   },
+   "text": {
+    "en": "Combo skill Delightful Harmonics improved: Length of cooldown -1s. DMG Multiplier and HP Treatment are increased to 1.4 times the original.",
+    "zh-TW": "連攜技悅心音調效果加強：冷卻時間-1秒，傷害倍率和治療效果提升至原本的1.4倍。",
+    "zh-CN": "连携技悦心音调效果加强：冷却时间-1秒，伤害倍率和治疗效果提升至原本的1.4倍。",
+    "ja": "連携技「ときめきメロディー」強化：CD時間-1秒、ダメージ倍率と回復効果が1.4倍までアップする",
+    "ko": "연계 스킬 기쁨의 멜로디 효과가 강화됩니다. 쿨타임 -1초, 피해 배율과 치료 효과가 기존의 1.4배로 증가합니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Meteoric Rhythm",
+    "zh-TW": "流星的躍動",
+    "zh-CN": "流星的跃动",
+    "ja": "流星のリズム",
+    "ko": "유성의 리듬"
+   },
+   "text": {
+    "en": "Ultimate Dawnstar Concerto improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技晨星的協奏曲所需的終結技能量-15%。",
+    "zh-CN": "终结技晨星的协奏曲所需的终结技能量-15%。",
+    "ja": "必殺技「綺羅星コンチェルト」に必要な必殺チャージ-15%",
+    "ko": "궁극기 샛별의 협주곡의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Heart-Whipping Q&A",
+    "zh-TW": "笞心的問答",
+    "zh-CN": "笞心的问答",
+    "ja": "ジャールの問いかけ",
+    "ko": "마음을 채찍질하는 질문"
+   },
+   "text": {
+    "en": "Amp effect of Dawnstar Concerto is increased to 1.2 times the original.\nDMG Multipliers of battle skill Dazzling Focus and ultimate Dawnstar Concerto are increased to 1.2 times the original.",
+    "zh-TW": "終結技晨星的協奏曲提供的增幅效果提升至原本的1.2倍。\n戰技閃耀焦點和終結技晨星的協奏曲的傷害倍率提升至原本的1.2倍。",
+    "zh-CN": "终结技晨星的协奏曲提供的增幅效果提升至原本的1.2倍。\n战技闪耀焦点和终结技晨星的协奏曲的伤害倍率提升至原本的1.2倍。",
+    "ja": "必殺技「綺羅星コンチェルト」による増幅効果が1.2倍までアップする\n戦技「キラキラフォーカス」と必殺技「綺羅星コンチェルト」のダメージ倍率が1.2倍までアップする",
+    "ko": "궁극기 샛별의 협주곡이 제공하는 증폭 효과가 기존의 1.2배로 증가합니다.\n배틀 스킬 스포트라이트 및 궁극기 샛별의 협주곡의 피해 배율이 기존의 1.2배로 증가합니다."
+   }
+  }
+ ]
+}

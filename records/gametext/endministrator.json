@@ -1,0 +1,237 @@
+{
+ "slug": "endministrator",
+ "gameId": "chr_0003_endminf",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "The Endministrator of Endfield Industries. In the recorded history of Talos-II, the Endministrator stands as a key guardian who protected civilization on this planet and saved humanity from multiple catastrophic disasters. The Endmin's heroic deeds have given rise to many stories, tales, and even rumors.  However, the Endmin's identity remains elusive and only a handful of people have seen the legend in person.  Other factions within the Civilization Band are well aware that Endfield has a very special trump card in their hand, but that is all they know.  The Endministrator's mysterious mastery over Originium and the Protocol Network, along with the Endmin's need for periodic long-term hibernation, is one of Endfield's most important secrets.",
+  "zh-TW": "終末地工業的「管理員」。  在塔衛二有文字記載的歷史上，管理員是文明重要的保護者之一，曾多次在星球居民面臨重大災難時挺身而出，也因此留下了許多故事（以及傳說，乃至流言）。  但真正的管理員本人仍是一個無比神秘的人物，很少有人親眼看過管理員。  文明環帶的大小陣營和組織普遍知曉終末地工業有著這樣一張特別的「底牌」，但也僅限於此。  管理員掌控源石和協議網路的本質，和其必要的定期沉睡，是終末地工業最重要的秘密之一。",
+  "zh-CN": "终末地工业的“管理员”。 在塔卫二有文字记载的历史上，管理员是文明重要的保护者之一，曾多次在星球居民面临重大灾难时挺身而出，也因此留下了许多故事（以及传说，乃至流言）。 但真正的管理员本人仍是一个无比神秘的人物，很少有人亲眼见过管理员。 文明环带的大小阵营和组织普遍知晓终末地工业有着这样一张十分特别的“底牌”，但也仅限于此。 管理员对源石和协议网络掌控的本质，和其必要的定期沉睡，是终末地工业最重要的秘密之一。",
+  "ja": "エンドフィールド工業の「管理人」。  タロⅡの歴史において、管理人は文明を守る重要な人物の1人とされている。この星の住人たちが大きな災厄に直面すると、幾度となく身を挺してその困難を乗り越えてきたのである。その功績は多くの物語（ときには伝説や噂）となり、語り継がれている。  しかし、正体は謎に包まれたままであり、その姿を直接見た者はほとんどいない。  文明地帯の各陣営や組織は、エンドフィールド工業が特別な「切り札」を有していることを知っているものの、それ以上の情報は持ち合わせていない。  管理人が源石や協約ネットワークを掌握する秘密、定期的な眠りを必要としていることなどは、エンドフィールド工業の最重要機密の1つとされている。",
+  "ko": "엔드필드 공업의 '관리자'.  탈로스 II의 기록된 역사에서 관리자는 문명의 중요한 수호자 중 하나로, 행성 주민들이 큰 재난에 직면했을 때 여러 차례 나섰던 인물이고 그에 대한 수많은 이야기(소문이나 전설까지 포함)가 전해지고 있다.  하지만 관리자의 정체는 여전히 신비스러운 존재이며, 직접 본 사람은 극히 드물다.  문명 밴드의 크고 작은 진영 및 조직은 엔드필드 공업에 특별한 '비장의 카드'가 있다는 정도만 알고 있고 그 외에는 알려진 것이 없다.  관리자가 오리지늄과 프로토콜 네트워크를 제어할 수 있다는 것과 주기적으로 수면에 들어간다는 것은 엔드필드 공업의 핵심 기밀 중 하나다."
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Destructive Sequence",
+    "zh-TW": "毀傷序列",
+    "zh-CN": "毁伤序列",
+    "ja": "破壊配列",
+    "ko": "훼손 시퀀스"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 18 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成物理傷害。作為主控幹員時，重擊會造成18點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成物理伤害。作为主控干员时，重击会造成18点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値18を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 18포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Constructive Sequence",
+    "zh-TW": "構成序列",
+    "zh-CN": "构成序列",
+    "ja": "構成配列",
+    "ko": "구성 시퀀스"
+   },
+   "text": {
+    "en": "A forceful burst of Originium Arts that attacks enemies within the area of effect. Deals Physical DMG and applies Crush.",
+    "zh-TW": "使用源石技藝衝擊前方一定範圍內的敵人，造成物理傷害和猛擊。",
+    "zh-CN": "使用源石技艺冲击前方一定范围内的敌人，造成物理伤害和猛击。",
+    "ja": "アーツを発動して前方の一定範囲内の敵を攻撃する。物理ダメージと猛撃を与える。",
+    "ko": "오리지늄 아츠를 사용해 전방 일정 범위 내의 적을 공격하여 물리 피해를 주고 강타합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Sealing Sequence",
+    "zh-TW": "鎖閉序列",
+    "zh-CN": "锁闭序列",
+    "ja": "封印配列",
+    "ko": "봉인 시퀀스"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When another operator in the team deals DMG with combo skills.\nRushes to the enemy's side to deal Physical DMG and attach Originium Crystals that temporarily seal them. Applying Physical Status or Vulnerability to the sealed enemy consumes the Originium Crystals and deals additional Physical DMG.",
+    "zh-TW": "當小隊內其他幹員的連攜技造成傷害時可以發動。\n衝到敵人身邊，對其造成物理傷害，並附著源石結晶，在一段時間內將其封印。施加物理異常或破防會消耗源石結晶並額外造成物理傷害。",
+    "zh-CN": "当小队内其他干员的连携技造成伤害时可以发动。\n冲到敌人身边，对其造成物理伤害，并附着源石结晶，在一段时间内将其封印。施加物理异常或破防会消耗源石结晶并额外造成物理伤害。",
+    "ja": "チーム内の他のオペレーターの連携技でダメージを与えたときに発動可能。\n敵の近くに突進し、物理ダメージを与え、源石結晶を付与して一定時間封印する。物理異常を与えるかクラッシュを付与すると、源石結晶が消費され、追加の物理ダメージを与える。",
+    "ko": "팀 내 다른 오퍼레이터의 연계 스킬이 피해를 줄 때 사용할 수 있습니다.\n적의 근처로 돌진하여 대상에게 물리 피해를 주고 오리지늄 결정을 부착하며 일정 시간 봉인합니다. 물리 이상 효과 혹은 방어 불능 상태를 부여하면 오리지늄 결정을 소모하고 물리 피해를 추가로 줍니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Bombardment Sequence",
+    "zh-TW": "轟擊序列",
+    "zh-CN": "轰击序列",
+    "ja": "攻撃配列",
+    "ko": "폭격 시퀀스"
+   },
+   "text": {
+    "en": "Bombards the ground with Originium Arts, dealing massive Physical DMG to all enemies within a fan-shaped area. If the enemy has Originium Crystals on them, this skill consumes the Originium Crystals and deals one more hit of Physical DMG.",
+    "zh-TW": "使用源石技藝轟擊地面，對前方扇形範圍內的敵人造成大量物理傷害。如果敵人身上附著源石結晶，則消耗源石結晶並額外造成一次物理傷害。",
+    "zh-CN": "使用源石技艺轰击地面，对前方扇形范围内的敌人造成大量物理伤害。如果敌人身上附着源石结晶，则消耗源石结晶并额外造成一次物理伤害。",
+    "ja": "アーツを発動して地面を攻撃し、前方の扇形範囲内の敵に高い物理ダメージを与える。敵に源石結晶がある場合、源石結晶が消費され、追加でもう1回物理ダメージを与える。",
+    "ko": "오리지늄 아츠로 지면을 강타하여, 전방 부채꼴 범위 내의 적에게 대량의 물리 피해를 줍니다. 적에게 오리지늄 결정이 부착되어 있을 경우, 오리지늄 결정을 소모하며 1회에 한하여 추가로 물리 피해를 줍니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Essence Disintegration",
+    "zh-TW": "本質瓦解",
+    "zh-CN": "本质瓦解",
+    "ja": "根源瓦解",
+    "ko": "본질 붕괴"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "When the Originium Crystals attached to the enemy are consumed, the Endministrator gains ATK +15% for 15s. This effect cannot stack.",
+      "zh-TW": "當敵人附著的源石結晶被消耗後，自身攻擊力+15%，持續15秒，該效果無法疊加。",
+      "zh-CN": "当敌人附着的源石结晶被消耗后，自身攻击力+15%，持续15秒，该效果无法叠加。",
+      "ja": "敵の源石結晶が消費されると、15秒間自身の攻撃力+15%（重ね掛け不可）",
+      "ko": "적에게 부착한 오리지늄 결정이 소모됐을 때, 자신의 공격력 +15%, 15초 동안 지속. 해당 효과는 중첩되지 않습니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When the Originium Crystals attached to the enemy are consumed, the Endministrator gains ATK +30% for 15s. This effect cannot stack.",
+      "zh-TW": "當敵人附著的源石結晶被消耗後，自身攻擊力+30%，持續15秒，該效果無法疊加。",
+      "zh-CN": "当敌人附着的源石结晶被消耗后，自身攻击力+30%，持续15秒，该效果无法叠加。",
+      "ja": "敵の源石結晶が消費されると、15秒間自身の攻撃力+30%（重ね掛け不可）",
+      "ko": "적에게 부착한 오리지늄 결정이 소모됐을 때, 자신의 공격력 +30%, 15초 동안 지속. 해당 효과는 중첩되지 않습니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Realspace Stasis",
+    "zh-TW": "現實靜滯",
+    "zh-CN": "现实静滞",
+    "ja": "空間静止",
+    "ko": "현실 정지"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Enemies with attached Originium Crystals suffer Physical DMG Taken +10%.",
+      "zh-TW": "附著源石結晶的敵人受到的物理傷害+10%。",
+      "zh-CN": "附着源石结晶的敌人受到的物理伤害+10%。",
+      "ja": "源石結晶が付与されている敵の受ける物理ダメージ+10%",
+      "ko": "오리지늄 결정이 부착된 적이 받는 물리 피해 +10%"
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Enemies with attached Originium Crystals suffer Physical DMG Taken +20%.",
+      "zh-TW": "附著源石結晶的敵人受到的物理傷害+20%。",
+      "zh-CN": "附着源石结晶的敌人受到的物理伤害+20%。",
+      "ja": "源石結晶が付与されている敵の受ける物理ダメージ+20%",
+      "ko": "오리지늄 결정이 부착된 적이 받는 물리 피해 +20%"
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Final Awakening",
+    "zh-TW": "最後的甦醒",
+    "zh-CN": "最后的苏醒",
+    "ja": "最後の目覚め",
+    "ko": "마지막 각성"
+   },
+   "text": {
+    "en": "Battle skill Constructive Sequence improved: Consuming Originium Crystals returns 50 SP.",
+    "zh-TW": "戰技構成序列消耗源石結晶時，返還50點技力。",
+    "zh-CN": "战技构成序列消耗源石结晶时，返还50点技力。",
+    "ja": "戦技「構成配列」で敵の源石結晶を消費するとき、SPが50返還される",
+    "ko": "배틀 스킬 구성 시퀀스가 오리지늄 결정을 소모했을 때, 스킬 게이지를 50포인트 반환합니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Reflection of Authority",
+    "zh-TW": "權能映射",
+    "zh-CN": "权能映射",
+    "ja": "権能映写",
+    "ko": "권능 반영"
+   },
+   "text": {
+    "en": "Talent Essence Disintegration improved: When the Endministrator gains the ATK buff, other allied operators gain half of this ATK buff.",
+    "zh-TW": "天賦本質瓦解效果加強：自身獲得攻擊力提升時，其他友方幹員獲得一半的攻擊力提升效果。",
+    "zh-CN": "天赋本质瓦解效果加强：自身获得攻击力提升时，其他友方干员获得一半的攻击力提升效果。",
+    "ja": "素質「根源瓦解」強化：自身が攻撃力UPを獲得するとき、他の味方オペレーターはその半分に相当する攻撃力UP効果を獲得する",
+    "ko": "재능 '본질 붕괴' 효과 강화: 자신이 공격력 증가 효과를 획득할 때, 다른 아군 오퍼레이터가 공격력 증가 효과의 절반을 획득합니다."
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "The Guide",
+    "zh-TW": "指引者",
+    "zh-CN": "指引者",
+    "ja": "誘導者",
+    "ko": "길잡이"
+   },
+   "text": {
+    "en": "Ultimate Bombardment Sequence improved: After consuming Originium Crystals, the Endministrator gains 15 Ultimate Energy.\nThis effect does not benefit from other bonuses.",
+    "zh-TW": "終結技轟擊序列消耗源石結晶後，獲得15點終結技能量。\n該效果無法被加成。",
+    "zh-CN": "终结技轰击序列消耗源石结晶后，获得15点终结技能量。\n该效果无法被加成。",
+    "ja": "必殺技「攻撃配列」で源石結晶を消費すると、必殺チャージを15回復する\nこの効果はボーナス効果を受けない",
+    "ko": "궁극기 폭격 시퀀스가 오리지늄 결정을 소모한 후, 15포인트의 궁극기 에너지를 획득합니다.\n해당 효과는 보너스를 받을 수 없습니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Commander of Originium",
+    "zh-TW": "源石統御",
+    "zh-CN": "源石统御",
+    "ja": "源石を統べる者",
+    "ko": "오리지늄의 지배자"
+   },
+   "text": {
+    "en": "Arts Intensity +16. DMG dealt by Ultimate Bombardment Sequence is increased to 1.2 times the original.",
+    "zh-TW": "源石技藝強度+16，終結技轟擊序列傷害提升至原本的1.2倍。",
+    "zh-CN": "源石技艺强度+16，终结技轰击序列伤害提升至原本的1.2倍。",
+    "ja": "アーツ強度+16、必殺技「攻撃配列」のダメージが1.2倍までアップする",
+    "ko": "오리지늄 아츠 강도 +16, 궁극기 폭격 시퀀스의 피해량이 기존의 1.2배로 증가합니다."
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "???",
+    "zh-TW": "？？？",
+    "zh-CN": "？？？",
+    "ja": "？？？",
+    "ko": "???"
+   },
+   "text": {
+    "en": "???",
+    "zh-TW": "？？？",
+    "zh-CN": "？？？",
+    "ja": "？？？",
+    "ko": "???"
+   }
+  }
+ ]
+}

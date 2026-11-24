@@ -51,7 +51,13 @@ sources:
 | Voice, Korean | Chae Rim |
 | Operator File | [Typhoeus's file](/story/typhoeus/) |
 
-Typhoeus is a wildlands huntress from Rhodes Island who loves to explore uncharted places, visits the Samifjod to record the Sami legends they still remember, and now gathers new stories among her friends at Endfield.
+> "A good story is like a good hunter. Both aim straight for the heart."\
+> Typhoeus, huntress of the wilds from Rhodes Island, is curious about the world. She is eager to delve into uninhabited and unexplored places to uncover the forgotten past.\
+> On Talos-II, many legends of Sami have already faded, and only a handful of Samifjod still remember them. Typhoeus has resolved to visit them one by one, recording those shattered memories in her notebook.\
+> After arriving at Endfield, the stories she pursued were no longer confined to forgotten legends. She met many new friends and exchanged stories with people from across the land.\
+> And in pursuing those legends, she is also writing a story of her own.\
+> One day, when every page of her notebook has been filled, she will proclaim to the friends around her:\
+> "Legends aren't always too far off... They can happen right next to us."
 
 ## How to obtain
 
@@ -79,12 +85,44 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Wildlands Huntress | Nature combo of up to 5 hits. The final strike deals 17 Stagger while Typhoeus is the controlled operator. |
-| Battle skill | Piercing Arrows of the Woods | Hovers briefly for 5 Aerial Basic Attacks hitting up to 2 targets for Nature damage, consuming 1 Nature Infliction for 1 Sign and extra Ultimate Energy. Spending 1 Hunting Arrow makes a Power Shot forcing 1 Nature Burst (stronger if Nature Infliction was consumed); when controlled, her 5th Aerial Basic Attack is a free Power Shot and Final Strike. Costs 100 SP. |
-| Combo skill | Rampant Thorns | Trigger: Typhoeus reaches max Signs. She converts all Signs into Hunting Arrows (2 Signs per 1 Hunting Arrow), resets her Aerial Basic Attack attempts, and fires Huntress's Gaze to create a Barrage Array that deals Nature damage over time, slows enemies, and raises Nature Burst damage taken. Cooldown 21 s, 19 s at the highest skill level. |
-| Ultimate | Call of Ice Mountain | Fires an Imbued Arrow that explodes for heavy area Nature damage, grants 2 Hunting Arrows, enters Hovering, and resets Aerial Basic Attack attempts. Her next 5 Aerial Basic Attacks trigger a Nature Hail of Arrows on hit, with the 5th empowered for higher damage. Costs 200 Ultimate Energy. |
+| Basic attack | Wildlands Huntress | — |
+| Battle skill | Piercing Arrows of the Woods | 100 SP |
+| Combo skill | Rampant Thorns | Cooldown 21 s, 19 s at level 12 |
+| Ultimate | Call of Ice Mountain | 200 Ultimate Energy |
+
+### Wildlands Huntress
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Nature DMG. As the controlled operator, Final Strike also deals 17 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Nature DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Nature DMG and recovers some SP.
+
+### Piercing Arrows of the Woods
+
+> Typhoeus leaps into the air and enters a short Hovering state, during which she can unleash 5 Aerial Basic Attacks (ABATK). Each ABATK can shoot arrows at up to 2 targets and deal Nature DMG.\
+> Whenever an ABATK hits an enemy with Nature Infliction, it consumes 1 stack of Nature Infliction, grants Typhoeus 1 Sign, and gives additional Ultimate Energy.\
+> If Typhoeus has Hunting Arrow(s), she consumes 1 Hunting Arrow and converts the ABATK into a Power Shot.\
+> Power Shot: After hitting an enemy, Power Shot forcibly applies 1 instance of Nature Burst; if the Power Shot consumes the target's Nature Infliction, then increase the DMG dealt by this Nature Burst.\
+> If Typhoeus is the controlled operator, her 5th ABATK is regarded as a Final Strike and a Power Shot, and does not consume Hunting Arrows.
+
+### Rampant Thorns
+
+> COMBO TRIGGER: When Typhoeus reaches max Signs.\
+> Typhoeus converts all her Signs to Hunting Arrows and resets her Aerial Basic Attack (ABATK) attempts.\
+> Typhoeus focuses her "Huntress's Gaze" and launches a barrage at the target that creates a Barrage Array at the target area. Enemies in the Barrage Array take Nature DMG over time, are slowed, and suffer increased Nature Burst DMG Taken.\
+> Every 2 Signs convert to 1 Hunting Arrow.
+
+### Call of Ice Mountain
+
+> Typhoeus fires an Imbued Arrow that explodes after hitting the enemy and deals massive Nature DMG to enemies within the area of effect (AOE). She then enters a Hovering state and her Aerial Basic Attack (ABATK) attempts are reset.\
+> For her next 5 ABATKs, hitting an enemy triggers a Hail of Arrows that deals Nature DMG at the target's location. Her 5th Hail of Arrows is an empowered Hail of Arrows that deals higher DMG.\
+> Casting the ultimate gives 2 Hunting Arrows immediately.
 
 ## Skill values
 
@@ -118,20 +156,48 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Prey Checklist | Default; upgraded at Promotion I and Promotion III | Each Nature Burst grants Typhoeus 1 Sign (simultaneous bursts count once), and she starts battle with 1 Sign (2 at Promotion I, 4 at Promotion III), holding up to 8 Signs and 4 Hunting Arrows. Attacks empowered by Hunting Arrows deal 1.2 times their damage (1.4 at Promotion I, 1.6 at Promotion III). |
-| Huntress's Focus | Promotion II; upgraded at Promotion III | While Hovering, Typhoeus activates a Protective Barrier that cuts damage taken by 15% (30% at Promotion III) and increases interruption resistance; taking damage shatters it for 30 s (18 s at Promotion III). |
+### Prey Checklist
+
+**Default**
+
+> Whenever a Nature Burst is triggered on an enemy, Typhoeus gains 1 Sign. DMG dealt by attacks empowered by consuming Hunting Arrows is increased to 1.2 times the original.\
+> When entering battle, Typhoeus immediately gains 1 Sign(s).\
+> Typhoeus can have up to 4 Hunting Arrows and 8 Signs.\
+> If Nature Burst is simultaneously triggered on multiple enemies, this only counts as one instance of Nature Burst when tallying the Signs gained by Typhoeus.
+
+**Promotion I**
+
+> Whenever a Nature Burst is triggered on an enemy, Typhoeus gains 1 Sign. DMG dealt by attacks empowered by consuming Hunting Arrows is increased to 1.4 times the original.\
+> When entering battle, Typhoeus immediately gains 2 Sign(s).\
+> Typhoeus can have up to 4 Hunting Arrows and 8 Signs.\
+> If Nature Burst is simultaneously triggered on multiple enemies, this only counts as one instance of Nature Burst when tallying the Signs gained by Typhoeus.
+
+**Promotion III**
+
+> Whenever a Nature Burst is triggered on an enemy, Typhoeus gains 1 Sign. DMG dealt by attacks empowered by consuming Hunting Arrows is increased to 1.6 times the original.\
+> When entering battle, Typhoeus immediately gains 4 Sign(s).\
+> Typhoeus can have up to 4 Hunting Arrows and 8 Signs.\
+> If Nature Burst is simultaneously triggered on multiple enemies, this only counts as one instance of Nature Burst when tallying the Signs gained by Typhoeus.
+
+### Huntress's Focus
+
+**Promotion II**
+
+> When Hovering, Typhoeus activates a Protective Barrier that reduces her DMG Taken by 15% and makes her harder to interrupt while it is active. The Protective Barrier is shattered when Typhoeus takes DMG, and cannot be activated again for 30s afterwards.
+
+**Promotion III**
+
+> When Hovering, Typhoeus activates a Protective Barrier that reduces her DMG Taken by 30% and makes her harder to interrupt while it is active. The Protective Barrier is shattered when Typhoeus takes DMG, and cannot be activated again for 18s afterwards.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Samifjod Fletching | While Hovering, Typhoeus gains +18% ATK and 1.2 times Aerial Basic Attack damage, and Huntress's Focus's Protective Barrier reactivation time drops by 3 s |
-| 2 | Huntress's Stride | Agility +20, Arts Intensity +16 |
-| 3 | Thorny Trap | Rampant Thorns's cooldown drops by 2 s, and enemies in the Barrage Array take +6% more Nature Burst damage |
-| 4 | No Escape | Call of Ice Mountain costs 15% less Ultimate Energy |
-| 5 | Fatal Shot | Call of Ice Mountain grants +1 Hunting Arrow and deals 1.2 times its damage, while Power Shot's Nature Burst damage multiplier becomes 1.1 times as high |
+| 1 | Samifjod Fletching | When Hovering, ATK +18% and ABATK DMG Dealt is increased to 1.2 times the original. Talent Huntress's Focus improved: Protective Barrier reactivation time -3s. |
+| 2 | Huntress's Stride | Agility +20, Arts Intensity +16. |
+| 3 | Thorny Trap | Combo skill Rampant Thorns improved: Length of cooldown -2s. Enemies in the Barrage Array suffer Nature Burst DMG Taken +6%. |
+| 4 | No Escape | Ultimate Call of Ice Mountain improved: Ultimate Energy cost -15%. |
+| 5 | Fatal Shot | Ultimate Call of Ice Mountain improved: Gains Hunting Arrows +1. Ultimate DMG Dealt is increased to 1.2 times the original, while Nature Burst DMG Multiplier of Power Shot is increased to 1.1 times the original. |
 
 ## Base skills
 
@@ -139,10 +205,10 @@ Base skills work while Typhoeus is assigned to a room of the Dijiang. Each has t
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Lithic Murmurs β | Growth Chamber | Promotion I | Rare minerals grow 20% faster |
-| Lithic Murmurs γ | Growth Chamber | Promotion III | Rare minerals grow 30% faster |
-| Life in the Spores β | Growth Chamber | Promotion II | Fungal matter grows 20% faster |
-| Life in the Spores γ | Growth Chamber | Promotion IV | Fungal matter grows 30% faster |
+| Lithic Murmurs β | Growth Chamber | Promotion I | Assign to Growth Chamber to grant rare mineral growth rate +20% |
+| Lithic Murmurs γ | Growth Chamber | Promotion III | Assign to Growth Chamber to grant rare mineral growth rate +30% |
+| Life in the Spores β | Growth Chamber | Promotion II | Assign to Growth Chamber to grant fungal matter growth rate +20% |
+| Life in the Spores γ | Growth Chamber | Promotion IV | Assign to Growth Chamber to grant fungal matter growth rate +30% |
 
 ## Base stats
 

@@ -1,0 +1,227 @@
+{
+ "slug": "xaihi",
+ "gameId": "chr_0011_seraph",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Once we are connected, wisdom shall springeth forth.\"  Xaihi is from the Cabal of Tranquility, a research order dispatched from Laterano to Talos-II for technical study. As a Sessionite, she believes computation and linguistic analysis pave the way to Veritas.  She is better with machines than with people. Her talent in information technology is undeniable — even to the Abbess of the Great Monastery in the Cabal of Tranquility. So despite her \"unauthorized\" upgrade to the dome of the Cathedralis triggering a cascade of accidents, the Abbess still sincerely recommended her to Endfield Industries, hoping she could find a stage worthy of her genius.  Now, Xaihi works aboard Dijiang on information engineering tasks such as Protorig Network construction and system integration. Her unique insights into the Originium Network, combined with the deep knowledge she carries from the Cabal, ensure her place as an indispensable member of Endfield.\n\"O Knowledge most ancient, lead us not into temptation but deliver us from the codes of malice... I am Xaihi, Endministrator. May you be enlightened.\"",
+  "zh-TW": "「當我們彼此連結，智慧便會湧現。」  賽希來自寂語修會——由拉特蘭派遣至塔衛二的技術研修組織。她所歸屬的會話派，將演算和語言分析視為通往真知的道路。  相比起與人交流，賽希更擅長運用資訊技術。就連寂語修會的修道院院長也無法否認，賽希擁有難得的天賦。因此，即便在她「擅自」對大教堂的穹頂實行了升級，引發了一連串事故後，院長仍然真摯地將她引薦到終末地工業，以便她能更好地發揮能力。  如今，賽希在帝江號上參與協議源石網路的搭建與系統整合等資訊工程事務。她對於源石網路的獨到見解，輔以修會豐富的知識儲備，令其成為終末地不可或缺的一員。    「古老的知識，不要讓我們陷入誘惑，但救我們免於險惡……我是賽希，管理員，願您得到啟迪。」",
+  "zh-CN": "“当我们彼此联结，智慧便会涌现。” 赛希来自寂语修会——由拉特兰派遣至塔卫二的技术研修组织。她所归属的会话派，将演算和语言分析视为通往真知的道路。 相比起与人交流，赛希更擅长运用信息技术。就连寂语修会的修道院院长也无法否认，赛希拥有难得的天赋。因此，即便在她“擅自”对大教堂的穹顶实行了升级，引发了一连串事故后，院长仍然真挚地将她引荐到终末地工业，以便她能更好地发挥能力。 如今，赛希在帝江号上参与协议源石网络的搭建与系统集成等信息工程事务。她对于源石网络的独到见解，辅以修会丰富的知识储备，令其成为终末地不可或缺的一员。 “古老的知识，不要让我们陷入诱惑，但救我们免于险恶……我是赛希，管理员，愿您得到启迪。”",
+  "ja": "「私達が同期できたならば、叡智はその姿を現すでしょう。」 ラテラーノからタロⅡに派遣された技術研究組織「静語伝道会」の出身。彼女の所属する対話派は、演算と言語解析こそ真知への道と考えている。 人とのコミュニケーションよりも、情報技術を得意とする。静語伝道会長すらも彼女の類いまれな才能を認めている。そのため、彼女が大聖堂のドームを「勝手に」アップグレードし、続けざまに事故を起こしても、彼女がさらに能力を発揮できるよう、誠意をもってエンドフィールド工業に推薦した。 現在、ザイヒは帝江号で協約源石ネットワークの構築およびシステム統合等の情報工学関連業務に従事している。源石ネットワークに対して独自の見解と伝道会の豊富な知識を併せ持つ存在であるため、エンドフィールドにとって欠かせない人物となっている。\n「旧い知識とは、私達を誘惑から守り、悪から救うもの……私はザイヒです。管理人、あなたが啓示を得られますよう。」",
+  "ko": "\"우리가 하나 될 때, 지혜가 빛을 발할 거예요.\"  자이히는 고요한 수도회 출신으로 라테라노에서 탈로스 II로 파견된 기술 연수 조직에 소속되어 있다. 그녀가 몸담은 회화파는 연산과 언어 분석을 진리에 이르는 길로 여긴다.  자이히는 사람과의 교류보다는 정보 기술에 능숙했다. 고요한 수도회의 원장조차도 그녀의 특별한 재능을 부정할 수 없었다. 그래서 그녀가 한때 대성당의 돔을 \"함부로\" 업그레이드하여 연쇄 사고를 일으켰음에도, 원장은 진심으로 그녀를 엔드필드 공업에 추천했다. 그녀가 더 큰 무대에서 능력을 발휘할 수 있도록 말이다.  현재 자이히는 제강호에 탑승하여 프로토콜 오리지늄 네트워크의 구축과 시스템 통합 등 다양한 정보 공학 분야의 업무를 맡고 있다. 그녀가 가진 네트워크에 대한 독창적 통찰과 수도회의 방대한 지식은 자이히를 엔드필드에서 없어서는 안 될 존재로 만들었다.    \"오래된 지식이여, 우리를 유혹에 빠트리지 마시고, 악에서 구하소서... 안녕하세요, 관리자님. 자이히라고 해요. 진리의 가호가 함께하길...\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Cooldown",
+    "zh-TW": "冷卻",
+    "zh-CN": "冷却",
+    "ja": "クールダウン",
+    "ko": "쿨타임"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Cryo DMG. As the controlled operator, Final Strike also deals 15 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Cryo DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Cryo DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成寒冷傷害。作為主控幹員時，重擊會造成15點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成寒冷傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量寒冷傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成寒冷伤害。作为主控干员时，重击会造成15点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成寒冷伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量寒冷伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に寒冷ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値15を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に寒冷ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い寒冷ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 냉기 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 15포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 냉기 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 냉기 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Distributed DoS",
+    "zh-TW": "分散式阻斷服務",
+    "zh-CN": "分布式拒绝服务",
+    "ja": "DDoS",
+    "ko": "디도스"
+   },
+   "text": {
+    "en": "Summons an Auxiliary Crystal that orbits the controlled operator for a while.\nAfter the controlled operator performs a Final Strike on the enemy, the Auxiliary Crystal will restore the said operator's HP. This effect can trigger 2 times. The attribute of Will increases the amount of HP treatment.\nWhen the controlled operator is already at Max HP when triggering the HP restoration, grant the said operator a temporary Arts Amp as well. This effect cannot stack.",
+    "zh-TW": "召喚支援晶體在一段時間內環繞主控幹員。\n當主控幹員對敵人造成重擊後支援晶體為其回復生命值，該效果最多可觸發2次。意志可以額外提高治療量。\n若觸發回復時主控幹員生命值已滿，則額外對其施加一段時間的法術增幅，該效果無法疊加。",
+    "zh-CN": "召唤支援晶体在一段时间内环绕主控干员。\n当主控干员对敌人造成重击后支援晶体为其回复生命值，该效果最多可触发2次。意志可以额外提高治疗量。\n若触发回复时主控干员生命值已满，则额外对其施加一段时间的法术增幅，该效果无法叠加。",
+    "ja": "サポートクリスタルを召喚し、操作中のオペレーターの周囲に展開する。\n操作中のオペレーターが敵に重攻撃を与えると、サポートクリスタルは操作中のオペレーターのHPを回復する。この効果は最大2回まで発動可能。回復量は意志の値に応じて追加でアップする。\n回復発動時にHPが満タンの場合、追加で一定時間アーツ増幅を付与する。この効果は重ね掛け不可。",
+    "ko": "지원 결정체를 소환하여 일정 시간 메인 컨트롤 오퍼레이터를 따라다닙니다.\n메인 컨트롤 오퍼레이터가 적에게 강력한 일격 피해를 준 후, 지원 결정체가 생명력을 회복시켜 줍니다. 해당 효과는 최대 2회 발동하며, 의지는 치유량을 추가로 증가시킵니다.\n만약 회복 효과가 발동했을 때, 메인 컨트롤 오퍼레이터의 생명력이 최대치에 도달한 상태라면, 일정 시간 대상에게 아츠 증폭을 부여합니다. 해당 효과는 중첩되지 않습니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Stress Testing",
+    "zh-TW": "壓力測試",
+    "zh-CN": "压力测试",
+    "ja": "ストレステスト",
+    "ko": "스트레스 테스트"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When the Auxiliary Crystal uses up its HP treatments.\nQuickly charges up the Auxiliary Crystal and launches it at the enemy to deal Cryo DMG and Cryo Infliction.",
+    "zh-TW": "當支援晶體的生命回復次數耗盡後可以發動。\n短暫蓄力後將支援晶體丟向敵人，造成寒冷傷害並施加寒冷附著。",
+    "zh-CN": "当支援晶体的生命回复次数耗尽后可以发动。\n短暂蓄力后将支援晶体丢向敌人，造成寒冷伤害并施加寒冷附着。",
+    "ja": "サポートクリスタルによるHP回復の回数が0になると発動可能。\n短時間のチャージ後、サポートクリスタルを敵に投げて寒冷ダメージを与え、寒冷付着を付与する。",
+    "ko": "지원 결정체의 생명력 회복 횟수를 모두 소모했을 때 사용할 수 있습니다.\n짧게 차지하여 지원 결정체를 적에게 투척해 냉기 피해를 주고 냉기 부착 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Stack Overflow",
+    "zh-TW": "堆疊溢位",
+    "zh-CN": "栈溢出",
+    "ja": "スタックオーバーフロー",
+    "ko": "스택 오버플로"
+   },
+   "text": {
+    "en": "Applies temporary Cryo Amp and Nature Amp to the entire team. The attribute of Intellect (INT) increases the Amp effect.",
+    "zh-TW": "對全隊施加一段時間的寒冷增幅和自然增幅，智識可以額外提高該增幅效果。",
+    "zh-CN": "对全队施加一段时间的寒冷增幅和自然增幅，智识可以额外提高该增幅效果。",
+    "ja": "チーム全員に一定時間寒冷増幅と自然増幅を付与する。増幅効果は知性の値に応じて追加でアップする。",
+    "ko": "팀 전체에게 일정 시간 냉기 증폭과 자연 증폭 상태를 부여합니다. 지능은 해당 증폭 효과를 추가로 강화시킵니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Execute Process",
+    "zh-TW": "執行程序",
+    "zh-CN": "启动进程",
+    "ja": "エグゼキュートプロセス",
+    "ko": "가동 프로세스"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Combo skill Stress Testing improved: Hitting an enemy with Cryo Infliction or Solidification also causes the enemy to suffer Cryo DMG Taken +7% for 5s. This effect cannot stack.",
+      "zh-TW": "連攜技壓力測試命中敵人時，如果目標已經處於寒冷附著或凍結狀態，還會使目標受到的寒冷傷害+7%，持續5秒，該效果無法疊加。",
+      "zh-CN": "连携技压力测试命中敌人时，如果目标已经处于寒冷附着或冻结状态，还会使目标受到的寒冷伤害+7%，持续5秒，该效果无法叠加。",
+      "ja": "連携技「ストレステスト」が敵に命中するとき、敵がすでに寒冷付着か凍結状態の場合、5秒間その敵への寒冷ダメージ+7%（重ね掛け不可）",
+      "ko": "연계 스킬 스트레스 테스트가 적에게 명중했을 때, 만약 목표가 냉기 부착 혹은 동결 상태일 경우, 받는 냉기 피해 +7%, 5초 동안 지속. 해당 효과는 중첩되지 않습니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Combo skill Stress Testing improved: Hitting an enemy with Cryo Infliction or Solidification also causes the enemy to suffer Cryo DMG Taken +10% for 5s. This effect cannot stack.",
+      "zh-TW": "連攜技壓力測試命中敵人時，如果目標已經處於寒冷附著或凍結狀態，還會使目標受到的寒冷傷害+10%，持續5秒，該效果無法疊加。",
+      "zh-CN": "连携技压力测试命中敌人时，如果目标已经处于寒冷附着或冻结状态，还会使目标受到的寒冷伤害+10%，持续5秒，该效果无法叠加。",
+      "ja": "連携技「ストレステスト」が敵に命中するとき、敵がすでに寒冷付着か凍結状態の場合、5秒間その敵への寒冷ダメージ+10%（重ね掛け不可）",
+      "ko": "연계 스킬 스트레스 테스트가 적에게 명중했을 때, 만약 목표가 냉기 부착 혹은 동결 상태일 경우, 받는 냉기 피해 +10%, 5초 동안 지속. 해당 효과는 중첩되지 않습니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Freeze Protocol",
+    "zh-TW": "協議凍結",
+    "zh-CN": "协议冻结",
+    "ja": "フリーズプロトコル",
+    "ko": "프리징 프로토콜"
+   },
+   "levels": [
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Ultimate Stack Overflow improved: The ultimate also dispels Cryo Infliction and Solidification from the entire team.",
+      "zh-TW": "終結技堆疊溢位會額外淨化全隊的寒冷附著和凍結狀態。",
+      "zh-CN": "终结技栈溢出会额外净化全队的寒冷附着和冻结状态。",
+      "ja": "必殺技「スタックオーバーフロー」の追加効果として、チーム全員の寒冷付着と凍結状態を浄化する",
+      "ko": "궁극기 스택 오버플로는 추가로 팀 전체의 냉기 부착과 동결 상태를 정화합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Agile Execution",
+    "zh-TW": "敏捷實踐",
+    "zh-CN": "敏捷实践",
+    "ja": "クイックアクション",
+    "ko": "애자일 엑스큐션"
+   },
+   "text": {
+    "en": "Arts Amp granted by the Auxiliary Crystal is increased by another 5%.",
+    "zh-TW": "支援晶體提供的法術增幅額外提高5%。",
+    "zh-CN": "支援晶体提供的法术增幅额外提高5%。",
+    "ja": "サポートクリスタルによるアーツ増幅効果がさらに5%アップする",
+    "ko": "지원 결정체가 제공하는 아츠 증폭이 추가로 5% 증가합니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Link Aggregation",
+    "zh-TW": "鏈路聚合",
+    "zh-CN": "链路聚合",
+    "ja": "リンクフュージョン",
+    "ko": "링크 어그리게이션"
+   },
+   "text": {
+    "en": "Ultimate Stack Overflow improved: Ultimate Energy cost -10%.",
+    "zh-TW": "終結技堆疊溢位所需的終結技能量-10%。",
+    "zh-CN": "终结技栈溢出所需的终结技能量-10%。",
+    "ja": "必殺技「スタックオーバーフロー」に必要な必殺チャージ-10%",
+    "ko": "궁극기 스택 오버플로의 사용에 필요한 궁극기 에너지 -10%"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Mapping Node",
+    "zh-TW": "映射節點",
+    "zh-CN": "映射节点",
+    "ja": "マッピングノード",
+    "ko": "노드 매핑"
+   },
+   "text": {
+    "en": "Combo skill Stress Testing improved: When hitting the target, the hit chains 1 time to 1 additional target nearby.",
+    "zh-TW": "連攜技壓力測試命中目標時，對周圍1個其他目標彈射1次。",
+    "zh-CN": "连携技压力测试命中目标时，对周围1个其他目标弹射1次。",
+    "ja": "連携技「ストレステスト」が目標に命中するとき、周囲にいるもう1体の敵にも1回連鎖して攻撃する",
+    "ko": "연계 스킬 스트레스 테스트가 목표에 명중했을 때, 주변의 다른 목표 하나에 1회 튕깁니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Grayscale Release",
+    "zh-TW": "灰度發布",
+    "zh-CN": "灰度发布",
+    "ja": "グレーリリース",
+    "ko": "그레이스케일 릴리스"
+   },
+   "text": {
+    "en": "Intellect +15, Treatment Efficiency +10%.",
+    "zh-TW": "智識+15，治療效率+10%。",
+    "zh-CN": "智识+15，治疗效率+10%。",
+    "ja": "知性+15、回復効率+10%",
+    "ko": "지능 +15, 치유 효율 +10%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Controlled Recursion",
+    "zh-TW": "可控遞歸",
+    "zh-CN": "可控递归",
+    "ja": "コントロール再帰",
+    "ko": "리커전 컨트롤"
+   },
+   "text": {
+    "en": "Ultimate Stack Overflow improved: Amp effect is increased to 1.1 times the original.",
+    "zh-TW": "終結技堆疊溢位提供的增幅效果提高至原本的1.1倍。",
+    "zh-CN": "终结技栈溢出提供的增幅效果提高至原本的1.1倍。",
+    "ja": "必殺技「スタックオーバーフロー」による増幅効果が1.1倍までアップする",
+    "ko": "궁극기 스택 오버플로가 제공하는 증폭 효과가 기존의 1.1배로 증가합니다."
+   }
+  }
+ ]
+}

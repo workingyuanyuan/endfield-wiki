@@ -1,0 +1,237 @@
+{
+ "slug": "gilberta",
+ "gameId": "chr_0013_aglina",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Hi there! Oh, you have the rosy scent of beautiful memories ... like an incomplete letter destined for a special place. I wonder where that might be.\"  Gilberta is a Rhodes Island operator assigned to Endfield Industries under the framework agreement between the two companies. She serves as a Messenger in the Specialist Tech Division. Skilled in an exceptionally rare form of Originium Arts, she is capable of controlling gravity around her.  At Endfield, Gilberta is in charge of mail and intel delivery across multiple bases and outposts. Her duties often require her to travel along the boundaries between the Civilization Band and the frontier, but she seems to really enjoy the job. Recently she even started asking for more challenging missions in high-risk areas to hone her skills.  Warfarin admitted that Gilberta's upbeat nature, paired with a hint of unease and hope for the future, once left her both surprised and a little nostalgic.\n\"Looky here! The Flying Miss Messenger got a special letter for you!\"",
+  "zh-TW": "「你好啊！你身上有一股令人懷念的氣味……好像一封沒有寫完的信，我很好奇它會去往哪裡。」  潔爾佩塔來自羅德島，在該公司與終末地工業的協議架構範圍內，加入特種技術部門，以信使的身分為終末地工業提供服務。潔爾佩塔擅長使用一種非常罕見的源石技藝，可以影響身邊的重力。  在終末地，潔爾佩塔負責多個基地、據點間的書信傳遞與情報輸送，常常遊走在文明環帶與開拓區的交界處，她似乎非常享受這份工作。近日，她開始表達「尋求挑戰、磨練自己」的意圖，要求承擔更多高風險地區的任務。  據華法琳所說，潔爾佩塔開朗樂觀的模樣，和對未來懷抱著的那一絲忐忑與憧憬，曾讓自己既感到意外，又有點懷念。    「看這裡！看，信使小姐帶著你的信飛來囉！」",
+  "zh-CN": "“你好呀！你身上有一股令人怀念的气味……好像一封没有写完的信，我很好奇它会去往哪里。” 洁尔佩塔来自罗德岛，在该公司与终末地工业的框架协议范围内，加入特种技术部门，以信使的身份为终末地工业提供服务。洁尔佩塔擅长使用一种十分罕见的源石技艺，可以影响身边的重力。 在终末地，洁尔佩塔负责多个基地、据点间的书信传递与情报输送，常常游走在文明环带与开拓区的交界处，她似乎十分享受这份工作。近日，她开始表达“寻求挑战、磨练自己”的意图，要求承担更多高风险地区的任务。 据华法琳所说，洁尔佩塔开朗乐观的模样，和对未来怀抱着的那一丝忐忑与憧憬，曾让自己既感到意外，又有点怀念。\n“看这里！瞧，信使小姐带着你的信飞来咯！”",
+  "ja": "「管理人って、懐かしい匂いがするんだよね。なんだか、書きかけの手紙みたいで……この先、どうなるのかなって気になっちゃうんだ。」 ロドス・アイランドに所属しており、現在はエンドフィールドにおいて、契約内容の範囲内にて特殊技術部に加入し、トランスポーターとして活動している。とても珍しいアーツを扱うのが得意で、周囲の重力を変えられる。 エンドフィールドにおいて、基地や拠点間の手紙の配達や情報の伝達を担当している。文明地帯と開拓エリアの境界を頻繁に飛び回り、トランスポーターの仕事を心から楽しんでいるようだ。しかし、ここ最近は自分をさらに磨くための挑戦を志し、危険性の高いエリアでの任務を志願するようになった。 ギルベルタの明るくポジティブな姿勢、そして未来に抱く一抹の不安と憧れ――そんな彼女にワルファリンは少し意外性を感じると同時に、懐かしさも感じたという。\n「ほら、こっちこっち！トランスポーターのお姉さんが、手紙を届けに来たよ！」",
+  "ko": "\"안녕! 너한테서 그리움이 가득한 향기가 나... 꼭 끝나지 않은 편지처럼 말이야. 이 향기는 어디로 가게 될까?\"  질베르타는 로도스 아일랜드 소속으로, 로도스 아일랜드와 엔드필드 공업 간의 협력에 관한 협약에 따라 특수 기술부에 합류해 전달자로 엔드필드 공업에 협력하고 있다. 질베르타는 주위의 중력을 제어할 수 있는 희귀한 오리지늄 아츠를 다룬다.  엔드필드에서는 질베르타는 여러 기지와 거점 사이의 편지 전달과 정보 수송을 담당한다. 종종 문명 밴드와 개척 지역의 경계를 오가며 임무를 수행하는데, 이 일을 무척 즐기는 듯하다. 최근에는 '도전을 통해 자신을 단련한다'는 의지를 밝히며, 더 위험한 지역 임무까지 맡기를 원하고 있다.  와파린의 말에 따르면, 질베르타의 밝고 낙천적인 태도와 미래에 대한 불안과 설렘이 뒤섞인 모습은 자신을 놀라게 했을 뿐 아니라 묘한 그리움을 불러일으켰다고 한다.    \"짠! 전달자 아가씨가 네 편지를 갖고 날아왔다고!\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Arcane Staff: Beam Cohesion Arts",
+    "zh-TW": "秘杖·束能技藝",
+    "zh-CN": "秘杖·束能技艺",
+    "ja": "秘杖・エネルギー束縛",
+    "ko": "아케인 스태프 · 에너지 제어 기술"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Nature DMG. As the controlled operator, Final Strike also deals 16 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Nature DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Nature DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成自然傷害。作為主控幹員時，重擊會造成16點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成自然傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量自然傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成自然伤害。作为主控干员时，重击会造成16点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成自然伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量自然伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に自然ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値16を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に自然ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い自然ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 자연 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 16포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 자연 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 자연 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Arcane Staff: Gravity Mode",
+    "zh-TW": "秘杖·引力模式",
+    "zh-CN": "秘杖·引力模式",
+    "ja": "秘杖・引力モード",
+    "ko": "아케인 스태프 · 중력 모드"
+   },
+   "text": {
+    "en": "Initiates Arts channeling that creates a gravity well. The gravity well pulls in nearby enemies and deals Nature DMG to them. When channeling ends, the gravity well implodes to deal Nature DMG and Nature Infliction to enemies in the area of effect.",
+    "zh-TW": "進入持續施法狀態，在前方產生重力奇異點。重力奇異點會持續吸引附近的敵人並對其造成自然傷害。施法結束時重力奇異點會爆炸，對範圍內的敵人造成自然傷害並施加自然附著。",
+    "zh-CN": "进入持续施法状态，在前方产生重力奇点。重力奇点会持续吸引附近的敌人并对其造成自然伤害。施法结束时重力奇点会爆炸，对范围内的敌人造成自然伤害并施加自然附着。",
+    "ja": "持続的にアーツを放ち、前方に引力特異点を生み出す。引力特異点は周囲の敵を引き寄せ、自然ダメージ与える。アーツの発動が終了するときに引力特異点が爆発し、範囲内の敵に自然ダメージを与えて自然付着を付与する。",
+    "ko": "지속 시전 상태에 들어가며, 전방에 중력 특이점을 생성합니다. 중력 특이점은 지속적으로 주변의 적을 끌어들이며, 대상에게 자연 피해를 줍니다. 시전이 끝나면 중력 특이점은 폭발을 일으키며 범위 내의 적에게 자연 피해를 주고, 자연 부착 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Arcane Staff: Matrix Displacement",
+    "zh-TW": "秘杖·矩陣位移",
+    "zh-CN": "秘杖·矩阵位移",
+    "ja": "秘杖・マトリックス転移",
+    "ko": "아케인 스태프 · 매트릭스 이동"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an Arts Reaction is applied to an enemy.\nA quick casting of the Arts that generates a gravity pull, which then deals Nature DMG and forcibly Lifts the target and nearby enemies.",
+    "zh-TW": "當有敵人被施加法術異常時可以發動。\n短暫施法後使目標及附近敵人全部受到重力牽引，對其造成自然傷害並強制造成擊飛。",
+    "zh-CN": "当有敌人被施加法术异常时可以发动。\n短暂施法后使目标及附近敌人全部受到重力牵引，对其造成自然伤害并强制造成击飞。",
+    "ja": "敵がアーツ異常になったときに発動可能。\n短時間のチャージ後、重力で目標および周囲の敵を引き寄せ、自然ダメージを与え、強制的に浮遊させる。",
+    "ko": "아츠 이상 효과를 부여한 적이 있을 때 사용할 수 있습니다.\n짧게 시전하여 목표 및 주변의 모든 적들을 중력으로 끌어당깁니다. 대상에게 자연 피해를 주고, 강제 띄우기 피해를 줍니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Arcane Staff: Gravity Field",
+    "zh-TW": "秘杖·重力場",
+    "zh-CN": "秘杖·重力场",
+    "ja": "秘杖・重力場",
+    "ko": "아케인 스태프 · 중력장"
+   },
+   "text": {
+    "en": "Creates an Anomalous Gravity Field that instantly deals 1 hit of Nature DMG and applies Nature Infliction to enemies caught in the field. Targets in the Anomalous Gravity Field also suffer from Slow and Arts Susceptibility. The effect of Arts Susceptibility is further increased based on the number of active Vulnerability stacks on the target.\nIf a target in the field is Lifted, the Lifted status will persist until the field wears off.",
+    "zh-TW": "創造一個重力紊亂區域，對區域內的敵人立即造成一次自然傷害並施加自然附著。處於重力紊亂區域中的目標被施加緩速和法術脆弱。目標處於破防狀態時，法術脆弱效果會隨破防層數額外提升。\n區域內的目標若處於擊飛狀態，將保持擊飛狀態直到區域效果結束。",
+    "zh-CN": "创造一个重力紊乱区域，对区域内的敌人立即造成一次自然伤害并施加自然附着。处于重力紊乱区域中的目标被施加缓速和法术脆弱。目标处于破防状态时，法术脆弱效果会随破防层数额外提升。\n区域内的目标若处于击飞状态，将保持击飞状态直到区域效果结束。",
+    "ja": "重力異常範囲を生み出し、範囲内の敵に自然ダメージを1回与えて自然付着を付与する。重力異常範囲内の敵はスローとアーツ脆弱状態になる。敵がクラッシュ状態のとき、アーツ脆弱の効果はクラッシュ段階に応じて追加でアップする。\nまた、範囲内の敵が浮遊状態の場合、範囲効果が終了するまで浮遊状態が維持される。",
+    "ko": "중력 혼란 구역을 생성하여, 구역 내의 적에게 즉시 1회의 자연 피해를 주고 자연 부착을 부여합니다. 중력 혼란 구역의 목표에 감속과 아츠 취약을 부여합니다. 목표가 방어 불능 상태일 경우, 아츠 취약 효과는 방어 불능 스택 수치에 따라 추가로 증가합니다.\n구역 내 목표가 띄우기 상태일 경우, 구역 효과가 종료될 때까지 띄우기 상태를 유지합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Messenger's Song",
+    "zh-TW": "信使的歌聲",
+    "zh-CN": "信使的歌声",
+    "ja": "トランスポーターの歌声",
+    "ko": "전달자의 노래"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "When fighting in the battlefield, all allied guards, casters, and supporters gain Ultimate Gain Efficiency +4%.",
+      "zh-TW": "在場時，使小隊內所有友方近衛、術師和輔助幹員終結技蓄能效率+4%。",
+      "zh-CN": "在场时，使小队内所有友方近卫、术师和辅助干员终结技充能效率+4%。",
+      "ja": "戦場に出ている間、編成されたすべての味方前衛、術師と補助オペレーターの必殺チャージ回復効率+4%",
+      "ko": "필드에 있을 때, 팀 내 모든 아군 가드, 캐스터, 서포터 오퍼레이터의 궁극기 충전 효율 +4%"
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When fighting in the battlefield, all allied guards, casters, and supporters gain Ultimate Gain Efficiency +7%.",
+      "zh-TW": "在場時，使小隊內所有友方近衛、術師和輔助幹員終結技蓄能效率+7%。",
+      "zh-CN": "在场时，使小队内所有友方近卫、术师和辅助干员终结技充能效率+7%。",
+      "ja": "戦場に出ている間、編成されたすべての味方前衛、術師と補助オペレーターの必殺チャージ回復効率+7%",
+      "ko": "필드에 있을 때, 팀 내 모든 아군 가드, 캐스터, 서포터 오퍼레이터의 궁극기 충전 효율 +7%"
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Late Reply",
+    "zh-TW": "遲來的回信",
+    "zh-CN": "迟来的回信",
+    "ja": "遅れてきた返信",
+    "ko": "뒤늦은 편지"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Battle skill Arcane Staff: Gravity Mode and combo skill Arcane Staff: Matrix Displacement improved: Hitting at least 2 enemies with either the combo skill or the last sequence of the battle skill restores [72 + Intellect×0.60] HP to the controlled operator.\nIf the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.",
+      "zh-TW": "戰技秘杖·引力模式、連攜技秘杖·矩陣位移效果加強：戰技秘杖·引力模式最後一擊或連攜技秘杖·矩陣位移命中至少兩個敵人後，回復主控幹員[72+智識×0.60]生命值。\n主控幹員生命值已滿時，將轉而治療小隊中生命值百分比最低的幹員。",
+      "zh-CN": "战技秘杖·引力模式、连携技秘杖·矩阵位移效果加强：战技秘杖·引力模式最后一击或连携技秘杖·矩阵位移命中至少两个敌人后，回复主控干员[72+智识×0.60]生命值。\n主控干员生命值已满时，将转而治疗小队中生命值百分比最低的干员。",
+      "ja": "戦技「秘杖・引力モード」、連携技「秘杖・マトリックス転移」強化：戦技「秘杖・引力モード」の最後の一撃か連携技「秘杖・マトリックス転移」が2体以上の敵に命中すると、操作中のオペレーターのHPを[72+知性×0.60]回復する\n操作中のオペレーターのHPが100%のとき、チーム内でHPの割合が最も低いオペレーターを治療する",
+      "ko": "배틀 스킬 아케인 스태프 · 중력 모드와 연계 스킬 아케인 스태프 · 매트릭스 이동 효과 강화: 배틀 스킬 아케인 스태프 · 중력 모드의 마지막 공격 또는 연계 스킬 아케인 스태프 · 매트릭스 이동이 최소 2명의 적에게 명중한 후, 메인 컨트롤 오퍼레이터의 생명력을 [72+지능×0.60]만큼 회복합니다.\n메인 컨트롤 오퍼레이터의 생명력이 가득 차 있으면, 팀 내 생명력 백분율이 가장 낮은 오퍼레이터를 대신 치유합니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Battle skill Arcane Staff: Gravity Mode and combo skill Arcane Staff: Matrix Displacement improved: Hitting at least 2 enemies with either the combo skill or the last sequence of the battle skill restores [108 + Intellect×0.90] HP to the controlled operator.\nIf the controlled operator is already at max HP, then restore the HP of the teammate with lowest percentage HP.",
+      "zh-TW": "戰技秘杖·引力模式、連攜技秘杖·矩陣位移效果加強：戰技秘杖·引力模式最後一擊或連攜技秘杖·矩陣位移命中至少兩個敵人後，回復主控幹員[108+智識×0.90]生命值。\n主控幹員生命值已滿時，將轉而治療小隊中生命值百分比最低的幹員。",
+      "zh-CN": "战技秘杖·引力模式、连携技秘杖·矩阵位移效果加强：战技秘杖·引力模式最后一击或连携技秘杖·矩阵位移命中至少两个敌人后，回复主控干员[108+智识×0.90]生命值。\n主控干员生命值已满时，将转而治疗小队中生命值百分比最低的干员。",
+      "ja": "戦技「秘杖・引力モード」、連携技「秘杖・マトリックス転移」強化：戦技「秘杖・引力モード」の最後の一撃か連携技「秘杖・マトリックス転移」が2体以上の敵に命中すると、操作中のオペレーターのHPを[108+知性×0.90]回復する\n操作中のオペレーターのHPが100%のとき、チーム内でHPの割合が最も低いオペレーターを治療する",
+      "ko": "배틀 스킬 아케인 스태프 · 중력 모드와 연계 스킬 아케인 스태프 · 매트릭스 이동 효과 강화: 배틀 스킬 아케인 스태프 · 중력 모드의 마지막 공격 또는 연계 스킬 아케인 스태프 · 매트릭스 이동이 최소 2명의 적에게 명중한 후, 메인 컨트롤 오퍼레이터의 생명력을 [108+지능×0.90]만큼 회복합니다.\n메인 컨트롤 오퍼레이터의 생명력이 가득 차 있으면, 팀 내 생명력 백분율이 가장 낮은 오퍼레이터를 대신 치유합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Above the Clouds",
+    "zh-TW": "雲層之上",
+    "zh-CN": "云层之上",
+    "ja": "雲の上で",
+    "ko": "구름을 넘어"
+   },
+   "text": {
+    "en": "Battle skill Arcane Staff: Gravity Mode improved: Effect radius +20%.",
+    "zh-TW": "戰技秘杖·引力模式的作用範圍+20%。",
+    "zh-CN": "战技秘杖·引力模式的作用范围+20%。",
+    "ja": "戦技「秘杖・引力モード」の攻撃範囲+20%",
+    "ko": "배틀 스킬 아케인 스태프 · 중력 모드의 효과 범위 +20%"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Wind Walker",
+    "zh-TW": "乘風而行",
+    "zh-CN": "乘风而行",
+    "ja": "風に乗って",
+    "ko": "바람을 타고"
+   },
+   "text": {
+    "en": "Ultimate Arcane Staff: Gravity Field improved: When an enemy is affected by the Anomalous Gravity Field of the ultimate, double the Arts Susceptibility increase per Vulnerability stack. When finalizing this effect, the target is treated as having 1 additional stack of Vulnerability (total stacks max out at 4).",
+    "zh-TW": "敵人受到終結技秘杖·重力場的重力紊亂區域影響時，每層破防狀態對法術脆弱的提升效果加倍，且結算時視為目標額外擁有1層破防（不超過4層）。",
+    "zh-CN": "敌人受到终结技秘杖·重力场的重力紊乱区域影响时，每层破防状态对法术脆弱的提升效果加倍，且结算时视为目标额外拥有1层破防（不超过4层）。",
+    "ja": "敵が必殺技「秘杖・重力場」による重力異常範囲の影響を受けるとき、クラッシュ1段階ごとにアーツ脆弱UPの追加効果が2倍になる\nさらに、敵のクラッシュ段階を計算するとき、1追加して計算される（最大4段階まで）",
+    "ko": "적이 궁극기 아케인 스태프 · 중력장의 중력 혼란 구역에 영향받을 때, 방어 불능 1스택마다 아츠 취약의 증폭 효과가 두 배로 증가합니다. 또한 판정 시 목표가 추가로 방어 불능 1스택을 가진 것으로 간주합니다.(최대 4스택을 초과할 수 없습니다)"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Quick, Gentle Steps",
+    "zh-TW": "輕盈腳步",
+    "zh-CN": "轻盈脚步",
+    "ja": "軽やかステップ",
+    "ko": "가벼운 발걸음"
+   },
+   "text": {
+    "en": "Talent Messenger's Song improved: Ultimate Gain Efficiency +5%.",
+    "zh-TW": "天賦信使的歌聲效果加強：終結技蓄能效率額外+5%。",
+    "zh-CN": "天赋信使的歌声效果加强：终结技充能效率额外+5%。",
+    "ja": "素質「トランスポーターの歌声」強化：必殺チャージ回復効率がさらに+5%",
+    "ko": "재능 '전달자의 노래' 효과 강화: 궁극기 충전 효율 추가 +5%"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Dances with Clouds",
+    "zh-TW": "雲間舞踏",
+    "zh-CN": "云间舞踏",
+    "ja": "ふわふわダンス",
+    "ko": "구름 속 춤사위"
+   },
+   "text": {
+    "en": "Ultimate Arcane Staff: Gravity Field improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技秘杖·重力場所需的終結技能量-15%。",
+    "zh-CN": "终结技秘杖·重力场所需的终结技能量-15%。",
+    "ja": "必殺技「秘杖・重力場」に必要な必殺チャージ-15%",
+    "ko": "궁극기 아케인 스태프 · 중력장의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Special Mail",
+    "zh-TW": "特別信件",
+    "zh-CN": "特别信件",
+    "ja": "特別な手紙",
+    "ko": "특별한 편지"
+   },
+   "text": {
+    "en": "Combo skill Arcane Staff: Matrix Displacement improved: Length of cooldown -2s; DMG multiplier is increased to 1.3 times the original.",
+    "zh-TW": "連攜技秘杖·矩陣位移冷卻時間-2秒，傷害倍率提升至原本的1.3倍。",
+    "zh-CN": "连携技秘杖·矩阵位移冷却时间-2秒，伤害倍率提升至原本的1.3倍。",
+    "ja": "連携技「秘杖・マトリックス転移」のCD時間-2秒、ダメージ倍率が1.3倍までアップする",
+    "ko": "연계 스킬 아케인 스태프 · 매트릭스 이동 쿨타임 -2초, 피해 배율이 기존의 1.3배로 증가합니다."
+   }
+  }
+ ]
+}

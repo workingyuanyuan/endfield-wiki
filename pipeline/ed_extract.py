@@ -4,13 +4,18 @@ and write records/recommend.json and records/base-skills.json.
 Usage: python3 -I pipeline/ed_extract.py
 Reads cache/third/ed/<commit>/ (tables of github.com/rmxlinux/EndfieldData at
 that commit; the cache is not committed) and records/operators/, weapons.json.
-The game's description text is not written to records: base-skill effects are
-stored as a kind and a number, and the page scripts word them.
+Base-skill effects are stored as a kind and a number, for the Dijiang tables, and with
+the game's own description of each level in every language, for the operator pages
+(shown as the game gives it, markup removed; see pipeline/gametext.py).
 """
 import glob
 import json
 import os
 import re
+import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from gametext import clean  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 COMMIT = 'd847759f71d4549aba4727b3b0ac1a1ad0e37742'
@@ -109,6 +114,8 @@ def main():
             assert m, (gid, hint)
             values = [float(p['valueStringList'][0]) for p in sk['parameters']]
             level = {'mark': sk['skillNamePostfix'], 'promotion': int(m.group(1)), 'value': round(values[0], 4)}
+            level['text'] = {lang: clean(text(sk['desc'], lang)) for lang in TEXT}
+            assert all(v and '{' not in v for v in level['text'].values()), (gid, sk['id'])
             kind = kind_of(sk)
             if kind == 'clue-chance':
                 clue = re.search(r'Clue (\d) Rate-UP: ([^(]+?) \(', text(sk['desc'], 'en'))

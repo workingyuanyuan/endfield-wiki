@@ -22,7 +22,7 @@ sources:
     url: https://game8.co/games/Arknights-Endfield/archives/618733
 ---
 
-Each version has a number and a title: Version 1.6, for example, is titled Sanctuary of Ink. Each update's maintenance ran from 06:00 to 12:00 on the date below. Version 1.0 is the release, at 11:00 on 2026-01-22.
+Each version has a number and a title: Version 1.6, for example, is titled Sanctuary of Ink. Each update's maintenance ran from 06:00 to 12:00 on its date. Version 1.0 is the release, at 11:00 on 2026-01-22.
 
 ## Version list
 

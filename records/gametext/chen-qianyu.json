@@ -1,0 +1,237 @@
+{
+ "slug": "chen-qianyu",
+ "gameId": "chr_0005_chen",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Well, turns out I'm great at something other than martial arts. I just can't help but end up as your best operator.\"  Chen Qianyu is an operator at Endfield Industries and a core member of the Crisis Team.  From a young age, she trained in martial arts under the guidance of her mother and at Tanjian Hall. Her dedication earned her outstanding combat capabilities and a mental fortitude rarely seen among her peers. Though she has never laid eyes on the legendary Chi Xiao, she proudly upholds her self-developed Chi Xiao Swordmancy, and wields it in the name of justice.  After years of roaming Talos-II alone with her sword, Chen Qianyu joined Endfield at Perlica's invitation. Her upbeat nature and fierce enthusiasm drive her to tackle every urgent challenge without hesitation.\n\"They say my mother's blade stirred the very clouds themselves, Endmin. And I'll do exactly that ... and become the one that you and Perlica can always count on!\"",
+  "zh-TW": "「看來我不只在武學上有天賦嘛，當你的幹員是不是也是一把好手？」  陳千語是終末地工業的幹員，是危機處理小組的核心成員之一。  她自幼接受母親和談劍堂的教導，磨練武藝。刻苦的訓練不僅讓她收穫了紮實的戰鬥素養，還練就了同齡人中少有的心理素質。儘管從未親眼看過那把傳說中的赤霄劍，陳千語還是以自己獨創的「赤霄劍法」為榮，行俠仗義。  隻身仗劍遊歷塔衛二數年後，陳千語在佩麗卡的邀請下加入了終末地。作為天生的樂天派，陳千語以飽滿的熱情介入一切亟需解決的困難。    「管理員，我曾聽說，媽媽的劍能碰觸到天上的雲彩。我會做到的，然後，成為你和佩麗卡最信任的人！」",
+  "zh-CN": "“看来我不只在武学上有天赋嘛，当你的干员是不是也是一把好手？” 陈千语是终末地工业的干员，是危机处理小组的核心成员之一。 她自幼接受母亲和谈剑堂的教导，磨练武艺。刻苦的训练不仅让她收获了过硬的战斗素养，还练就了同龄人中少有的心理素质。尽管从未亲眼见过那把传说中的赤霄剑，陈千语还是以自己独创的“赤霄剑法”为荣，行侠仗义。 只身仗剑游历塔卫二数年后，陈千语在佩丽卡的邀请下加入了终末地。作为天生的乐天派，陈千语以饱满的热情介入一切亟需解决的困难。\n“管理员，我曾听说，妈妈的剑能碰触到天上的云彩。我会做到的，然后，成为你和佩丽卡最信任的人！”",
+  "ja": "「武術だけじゃなくってさ、オペレーターの才能もあるってことだね……？へへっ……もっと褒めてもいいんだからね。」  エンドフィールド工業のオペレーターであり、危機対策班の中核を担う1人でもある。  幼い頃から、母親と談剣堂による教えを受け、武術の腕を磨いてきた。厳しい訓練を経て非常に高い戦闘能力と、同じ年頃では滅多に見ることがないほど強靭な精神力を培ってきた。伝説の赤霄剣を実際に見たことはないものの、自ら編み出した「赤霄剣法」を誇りとしながら、正義のために行動する。  剣だけを携えて単身でタロⅡを旅すること数年、ペリカの誘いを受けてエンドフィールドに加入した。生まれながらにして楽観主義者であるチェン・センユーは、あらゆる困難に対して情熱を抱いて立ち向かっていった。    「母さんの剣は『天の彩雲に達した』って言われてて……あたしもそこまで行って、管理人とペリカの一番頼れる人になるんだ。」",
+  "ko": "\"내가 무술에만 재능이 있는 건 아니었네! 오퍼레이터의 재능도 있는 것 같지 않아?\"  진천우는 엔드필드 공업 소속 오퍼레이터이자, 위기 대책팀의 핵심 멤버 중 한 명이다.  어린 시절부터 어머니와 담검당의 가르침을 받으며 무예를 연마했고, 고된 수련은 그녀에게 뛰어난 전투 실력뿐 아니라 또래 중에서도 보기 드문 강인한 정신력을 길러주었다. 비록 전설로만 전해지는 적소검을 직접 본 적은 없지만, 진천우는 스스로 만들어 낸 '적소 검법'을 자랑스럽게 여기며, 정의를 위해 검을 휘둘렀다.  수년간 홀로 검을 들고 탈로스 II를 떠돌던 그녀는 펠리카의 초청을 받아 엔드필드에 합류했다. 타고난 긍정파답게, 진천우는 언제나 넘치는 열정으로 해결이 시급한 문제들에 뛰어들었다.    \"예전에, 우리 엄마의 검이 저 멀리 하늘의 구름까지 닿았다는 말을 들어본 적이 있거든. 나도 분명 그렇게 할 수 있을 거야! 그리고... 관리자랑 펠리카한테 가장 신뢰받는 사람이 되겠어!\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Soaring Break",
+    "zh-TW": "破飛霞",
+    "zh-CN": "破飞霞",
+    "ja": "飛霞破り",
+    "ko": "파비하"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 16 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher attack that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成物理傷害。作為主控幹員時，重擊會造成16點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成物理伤害。作为主控干员时，重击会造成16点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値16を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 16포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Ascending Strike",
+    "zh-TW": "歸穹宇",
+    "zh-CN": "归穹宇",
+    "ja": "蒼穹返し",
+    "ko": "귀궁우"
+   },
+   "text": {
+    "en": "Performs an uppercut slash at the target enemy, dealing Physical DMG and Lift.",
+    "zh-TW": "對目標敵人進行上挑攻擊，造成物理傷害和擊飛。",
+    "zh-CN": "对目标敌人进行上挑攻击，造成物理伤害和击飞。",
+    "ja": "敵を下から突き上げて攻撃し、物理ダメージと浮遊効果を与える。",
+    "ko": "목표한 적을 올려 칩니다. 물리 피해와 띄우기 피해를 줍니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Soar to the Stars",
+    "zh-TW": "見天河",
+    "zh-CN": "见天河",
+    "ja": "天河昇",
+    "ko": "견천하"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy becomes Vulnerable.\nA slashing dash that passes through the target enemy and deals Physical DMG and Lift to all enemies along the way.",
+    "zh-TW": "當有敵人進入破防狀態時可以發動。\n進行穿梭斬擊，對路徑上的所有敵人造成物理傷害和擊飛。",
+    "zh-CN": "当有敌人进入破防状态时可以发动。\n进行穿梭斩击，对路径上的所有敌人造成物理伤害和击飞。",
+    "ja": "敵がクラッシュ状態になったときに発動可能。\n駆け抜けながら連続斬撃を行い、進路上のすべての敵に物理ダメージと浮遊効果を与える。",
+    "ko": "적이 방어 불능 상태일 때 사용할 수 있습니다.\n적을 관통하고 돌진 베기를 사용합니다. 경로 상의 모든 적에게 물리 피해와 띄우기 피해를 줍니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Blade Gale",
+    "zh-TW": "冽風霜",
+    "zh-CN": "冽风霜",
+    "ja": "凍風斬り",
+    "ko": "예풍상"
+   },
+   "text": {
+    "en": "A 7-sequence slash attack that deals Physical DMG with each sequence to the target enemy. The final slash sequence deals even more DMG.",
+    "zh-TW": "對目標敵人進行7段斬擊，每次造成物理傷害。最後一段斬擊造成的傷害更高。",
+    "zh-CN": "对目标敌人进行7段斩击，每次造成物理伤害。最后一段斩击造成的伤害更高。",
+    "ja": "7段の斬撃を繰り出し、毎回物理ダメージを与える。最後の斬撃はより高いダメージになる。",
+    "ko": "목표한 적에게 7단 베기를 사용합니다. 공격할 때마다 물리 피해를 주며, 마지막 베기 공격은 더 큰 피해를 줍니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Slashing Edge",
+    "zh-TW": "斬鋒",
+    "zh-CN": "斩锋",
+    "ja": "斬鋒",
+    "ko": "칼날 베기"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "After hitting an enemy with skills, Chen gains ATK +4% for 10s. This effect can reach 5 stacks.",
+      "zh-TW": "技能每次命中敵人後，攻擊力+4%，持續10秒，該效果最多疊加5層。",
+      "zh-CN": "技能每次命中敌人后，攻击力+4%，持续10秒，该效果最多叠加5层。",
+      "ja": "スキルが敵に命中すると、10秒間攻撃力+4%（5回まで重ね掛け可能）",
+      "ko": "매번 스킬이 적을 명중한 후 공격력 +4%, 10초 동안 지속, 해당 효과는 최대 5스택까지 중첩됩니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "After hitting an enemy with skills, Chen gains ATK +8% for 10s. This effect can reach 5 stacks.",
+      "zh-TW": "技能每次命中敵人後，攻擊力+8%，持續10秒，該效果最多疊加5層。",
+      "zh-CN": "技能每次命中敌人后，攻击力+8%，持续10秒，该效果最多叠加5层。",
+      "ja": "スキルが敵に命中すると、10秒間攻撃力+8%（5回まで重ね掛け可能）",
+      "ko": "매번 스킬이 적을 명중한 후 공격력 +8%, 10초 동안 지속, 해당 효과는 최대 5스택까지 중첩됩니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Momentum Breaker",
+    "zh-TW": "破勢",
+    "zh-CN": "破势",
+    "ja": "破勢",
+    "ko": "흐름 끊기"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Interrupting the enemy's charge up deals another 5 Stagger.",
+      "zh-TW": "技能打斷敵人蓄力時，額外對其造成5點失衡。",
+      "zh-CN": "技能打断敌人蓄力时，额外对其造成5点失衡。",
+      "ja": "スキルで敵のチャージを中断するとき、追加でブレイク値を5与える",
+      "ko": "스킬로 적의 차지를 끊었을 때, 추가로 적에게 5의 불균형 피해를 줍니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Interrupting the enemy's charge up deals another 10 Stagger.",
+      "zh-TW": "技能打斷敵人蓄力時，額外對其造成10點失衡。",
+      "zh-CN": "技能打断敌人蓄力时，额外对其造成10点失衡。",
+      "ja": "スキルで敵のチャージを中断するとき、追加でブレイク値を10与える",
+      "ko": "스킬로 적의 차지를 끊었을 때, 추가로 적에게 10의 불균형 피해를 줍니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "\"Shadowless\"",
+    "zh-TW": "「絕影」",
+    "zh-CN": "“绝影”",
+    "ja": "「絶影」",
+    "ko": "'절영'"
+   },
+   "text": {
+    "en": "DMG Dealt +20% to enemies below 50% HP.",
+    "zh-TW": "對生命值少於50%的敵人造成的傷害+20%。",
+    "zh-CN": "对生命值少于50%的敌人造成的伤害+20%。",
+    "ja": "HPが50%未満の敵へのダメージ+20%",
+    "ko": "생명력이 50% 이하인 적에게 주는 피해 +20%"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Heirloom Martial Arts",
+    "zh-TW": "家傳武學",
+    "zh-CN": "家传武学",
+    "ja": "伝家の武術",
+    "ko": "가문의 무술"
+   },
+   "text": {
+    "en": "Agility +15, Physical DMG Dealt +8%.",
+    "zh-TW": "敏捷+15，造成的物理傷害+8%。",
+    "zh-CN": "敏捷+15，造成的物理伤害+8%。",
+    "ja": "敏捷+15、敵への物理ダメージ+8%",
+    "ko": "민첩 +15, 주는 물리 피해 +8%"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Dual-Wielding Swordmancer",
+    "zh-TW": "雙劍奇俠",
+    "zh-CN": "双剑奇侠",
+    "ja": "双剣侠客",
+    "ko": "쌍검의 협객"
+   },
+   "text": {
+    "en": "Battle skill Ascending Strike, combo skill Soar to the Stars, and ultimate Blade Gale improved: DMG Multiplier is increased to 1.1 times the original.",
+    "zh-TW": "戰技歸穹宇、連攜技見天河和終結技冽風霜的傷害倍率提升至原本的1.1倍。",
+    "zh-CN": "战技归穹宇、连携技见天河和终结技冽风霜的伤害倍率提升至原本的1.1倍。",
+    "ja": "戦技「蒼穹返し」、連携技「天河昇」、必殺技「凍風斬り」のダメージ倍率が1.1倍までアップする",
+    "ko": "배틀 스킬 귀궁우, 연계 스킬 견천하와 궁극기 예풍상의 피해 배율이 기존의 1.1배로 증가합니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Improvised Chi Xiao",
+    "zh-TW": "自研赤霄劍",
+    "zh-CN": "自研赤霄剑",
+    "ja": "自製赤霄剣",
+    "ko": "자체 개발한 적소검"
+   },
+   "text": {
+    "en": "Ultimate Blade Gale improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技冽風霜所需的終結技能量-15%。",
+    "zh-CN": "终结技冽风霜所需的终结技能量-15%。",
+    "ja": "必殺技「凍風斬り」に必要な必殺チャージ-15%",
+    "ko": "궁극기 예풍상의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Bonded with the World",
+    "zh-TW": "心兼人間",
+    "zh-CN": "心兼人间",
+    "ja": "心で背負う",
+    "ko": "세상을 짊어진 마음"
+   },
+   "text": {
+    "en": "Combo skill Soar to the Stars improved: Length of cooldown -3s.",
+    "zh-TW": "連攜技見天河的冷卻時間-3秒。",
+    "zh-CN": "连携技见天河的冷却时间-3秒。",
+    "ja": "連携技「天河昇」のCD時間-3秒",
+    "ko": "연계 스킬 견천하의 쿨타임 -3초"
+   }
+  }
+ ]
+}

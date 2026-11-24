@@ -1,0 +1,227 @@
+{
+ "slug": "akekuri",
+ "gameId": "chr_0019_karin",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"Akekuri, Op Z7, reporting in! Excited to join the mission, let's make it a success!\"  Akekuri, Captain of Operations Team Z7 under the Specialist Tech Division, is known for her smile and that trademark line: \"Leave it to me.\" From mission planning to day-to-day management, she handles it all. Beyond tactical command and strategy, she's a master of coordination who always uncovers the optimal solution, even with limited resources. She also knows how to care for her team, making sure everyone works in harmony and shines in the role that suits them best.  She practically built Operations Team Z7 from the ground up. In just a few short months, she handled everything from recruitment and training to full deployment, leading the team to remarkable results. And to think, not long ago, she was just an honors student from the Business School who volunteered to join Endfield. No one expected a newcomer to rise so quickly and become a captain truly worthy of trust.  If you've ever wondered about her passion, her drive, and her idealism, or about the simple wish that keeps her going, then...\n\"Coffee break, Endmin? I can whip up a fresh pot for you!\"",
+  "zh-TW": "「Z7行動組，秋栗，很高興加入這次行動！請期待我的表現！」  特種技術部門Z7行動組組長秋栗，總會笑著說「交給我吧」，然後包攬從指揮到管理的大小事務。除了行動指揮和策劃，她還擅長調度統籌，總是能在有限資源下找到最佳解決辦法；她也懂得關懷隊員，能讓大家相處融洽，在適合的崗位上展現最好的一面。  她幾乎憑一己之力把Z7行動組建立了起來，短短幾個月內就完成了從招募、訓練到投入實戰的全過程，取得了令人矚目的成績。在那之前，她只是位自薦加入終末地的商學院資優生；誰都沒想到，一個新人這麼快就成了值得託付的組長。  如果對她的熱忱、上進和理想主義感到好奇，想瞭解驅動著她的那個小小心願，那麼……    「管理員，要我幫你煮一壺熱咖啡嗎？」",
+  "zh-CN": "“Z7行动组，秋栗，很高兴加入这次行动！请期待我的表现！” 特种技术部门Z7行动组组长秋栗，总会笑着说“交给我吧”，然后包揽从指挥到管理的大小事务。除了行动指挥和策划，她还擅长调度统筹，总能在有限资源下找到最优解；她也懂得关怀队员，能让大家相处融洽，在合适的岗位上展现最好的一面。 她几乎凭一己之力把Z7行动组建立了起来，短短几个月内就完成了从招募、训练到投入实战的全过程，取得了令人瞩目的成绩。在那之前，她只是位自荐加入终末地的商学院优等生；谁都没想到，一个新人这么快就成了值得托付的组长。 如果对她的热忱、上进和理想主义感到好奇，想了解驱动着她的那个小小心愿，那么……\n“管理员，要我帮您煮一壶热咖啡吗？”",
+  "ja": "「行動隊Z7、アケクリと申します。作戦に参加させていただき、光栄です！尽力いたします！」 特殊技術部行動隊Z7の隊長であり、いつも笑顔で「お任せください！」と言い、行動隊の指揮から管理の事務まで、大小さまざまな仕事を一手に引き受ける。作戦の指揮や立案だけでなく、物資の調達や総括的業務も得意で、常に限りあるリソースの中でも最適解を見つけられる。さらに部下への気遣いも忘れず、皆をうまくまとめ、適材適所で力を発揮できるようにしている。 ほぼ自分の力だけで行動隊Z7を創設し、わずか数カ月で隊員の募集から訓練、実戦投入まで成し遂げ、周囲が驚くほどの成果をあげた。それまでの彼女は、エンドフィールドに自己推薦で入った商学院の優等生でしかなく、これほどの短期間で新人が信頼の置ける隊長に成長するとは、誰も想像だにしていなかった。 彼女の情熱や向上心、あるいは理想主義に興味を抱いたり、彼女を行動へと駆り立てている願いについて知りたいと思ったりした場合は……\n「管理人、コーヒーをお淹れしましょうか？」",
+  "ko": "\"Z7 작전팀, 아케쿠리, 이번 작전에 함께하게 되어 영광이에요! 앞으로 최선을 다할게요!\"  특수 기술부 Z7 작전팀의 팀장 아케쿠리는 언제나 웃으며 \"저한테 맡겨 주세요.\"라고 말하고, 지휘에서 관리까지 크고 작은 일을 도맡는다. 작전 지휘와 전략은 물론 자원 운용과 조율에도 능숙해 언제나 한정된 자원 속에서도 최적의 해답을 찾아낸다. 또한 팀원들을 세심히 살피며 모두가 서로 잘 어울리고 각자 알맞은 자리에서 최고의 역량을 발휘할 수 있도록 이끌어준다.  Z7 작전팀은 사실상 아케쿠리가 홀로 세운 팀이라 해도 과언이 아니다. 불과 몇 달 만에 모집, 훈련, 실전에 투입하기까지 전 과정을 이끌어내며 눈부신 성과를 거두었다. 불과 얼마 전까지만 해도 그녀는 스스로 엔드필드에 지원한 상학원의 우등생이었을 뿐이었다. 누구도 이렇게 빠른 속도로 훌륭한 팀장으로 성장할 거라 예상하지 못했다.  그녀의 열정, 진취적, 그리고 이상주의가 궁금하고, 그 원동력이 되는 작은 소망이 무엇인지 알고 싶다면...    \"관리자님, 따뜻한 커피 한잔 내려드릴까요?\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Sword of Aspiration",
+    "zh-TW": "進取劍鋒",
+    "zh-CN": "进取剑锋",
+    "ja": "切磋琢磨",
+    "ko": "진취의 검날"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 17 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成物理傷害。作為主控幹員時，重擊會造成17點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成物理伤害。作为主控干员时，重击会造成17点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値17を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 17포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Burst of Passion",
+    "zh-TW": "熱情迸發",
+    "zh-CN": "热情迸发",
+    "ja": "ほとばしる情熱",
+    "ko": "열정 분출"
+   },
+   "text": {
+    "en": "A frontal slash that deals Heat DMG and applies Heat Infliction.",
+    "zh-TW": "向前方揮斬，造成灼熱傷害並施加灼熱附著。",
+    "zh-CN": "向前方挥斩，造成灼热伤害并施加灼热附着。",
+    "ja": "前方に斬りかかり、灼熱ダメージを与え、灼熱付着を付与する。",
+    "ko": "전방으로 검을 휘둘러 열기 피해를 주고 열기 부착 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Flash and Dash",
+    "zh-TW": "快閃衝擊",
+    "zh-CN": "快闪冲击",
+    "ja": "突撃一閃",
+    "ko": "섬광 돌진"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy becomes Staggered or hits a Stagger Node.\nPerforms a returning dash with 2 thrust sequences, with each sequence dealing Physical DMG and recovering some SP.",
+    "zh-TW": "當有敵人失衡，或觸發失衡節點時可以發動。\n進行來回2段突刺，每段造成物理傷害，並回復一定技力。",
+    "zh-CN": "当有敌人失衡，或触发失衡节点时可以发动。\n进行来回2段突刺，每段造成物理伤害，并恢复一定技力。",
+    "ja": "敵がブレイク状態になるかブレイク点に到達したときに発動可能。\n往復移動の突撃で物理ダメージを2回与え、SPを一定量回復する。",
+    "ko": "불균형 상태 혹은 불균형 지점에 도달한 적이 있을 때 사용할 수 있습니다.\n2번 연속 찌르기를 사용하여 각 공격마다 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "SQUAD! ON ME!",
+    "zh-TW": "小隊，集結！",
+    "zh-CN": "小队，集结！",
+    "ja": "全員、集合！",
+    "ko": "소대, 집합!"
+   },
+   "text": {
+    "en": "Enters a channeling state and fires 3 Rallying Flares. Each firing recovers some SP.",
+    "zh-TW": "進入持續施法狀態，發射3枚集結信號彈，每次發射回復一定技力。",
+    "zh-CN": "进入持续施法状态，发射3枚集结信号弹，每次发射恢复一定技力。",
+    "ja": "持続的にアーツを放ち、集結信号弾を3回発射する。発射するたびにSPを一定量回復する。",
+    "ko": "지속 시전 상태에 들어가며, 집결 신호탄 3발을 발사합니다. 발사할 때마다 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Cheer of Victory",
+    "zh-TW": "勝利喝采",
+    "zh-CN": "胜利喝彩",
+    "ja": "勝利の喝采",
+    "ko": "승리의 함성"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Combo skill Flash and Dash improved: For every 10 points of Intellect, SP Recovery +1.0% (max: 50%).",
+      "zh-TW": "每10點智識會使連攜技快閃衝擊的技力回復量+1.0%，最多提高50%。",
+      "zh-CN": "每10点智识会使连携技快闪冲击的技力恢复量+1.0%，最多提高50%。",
+      "ja": "知性10につき連携技「突撃一閃」のSP回復量+1.0%（最大+50%）",
+      "ko": "지능 10포인트마다 연계 스킬 섬광 돌진으로 회복하는 스킬 게이지 +1.0%, 최대 회복 50%"
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Combo skill Flash and Dash improved: For every 10 points of Intellect, SP Recovery +1.5% (max: 75%).",
+      "zh-TW": "每10點智識會使連攜技快閃衝擊的技力回復量+1.5%，最多提高75%。",
+      "zh-CN": "每10点智识会使连携技快闪冲击的技力恢复量+1.5%，最多提高75%。",
+      "ja": "知性10につき連携技「突撃一閃」のSP回復量+1.5%（最大+75%）",
+      "ko": "지능 10포인트마다 연계 스킬 섬광 돌진으로 회복하는 스킬 게이지 +1.5%, 최대 회복 75%"
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Staying in the Zone",
+    "zh-TW": "心流時間",
+    "zh-CN": "心流时间",
+    "ja": "集中タイム",
+    "ko": "몰입의 시간"
+   },
+   "levels": [
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Ultimate SQUAD! ON ME! improved: When ultimate is active, grants a Link buff.",
+      "zh-TW": "施放終結技小隊，集結！期間，獲得連擊。",
+      "zh-CN": "施放终结技小队，集结！期间，获得连击。",
+      "ja": "必殺技「全員、集合！」の効果持続中、リンク状態を獲得する",
+      "ko": "궁극기 소대, 집합!이 지속되는 동안 연타 상태를 획득합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Positive Feedback",
+    "zh-TW": "正向回饋",
+    "zh-CN": "正向反馈",
+    "ja": "ポジティブなFB",
+    "ko": "긍정적 피드백"
+   },
+   "text": {
+    "en": "After recovering SP with skills, Akekuri gains ATK +10% for 10s. This effect can reach 5 stacks.",
+    "zh-TW": "透過技能回復技力後，攻擊力+10%，持續10秒，該效果最多疊加5層。",
+    "zh-CN": "通过技能恢复技力后，攻击力+10%，持续10秒，该效果最多叠加5层。",
+    "ja": "スキルでSPを回復すると、10秒間攻撃力+10%（5回まで重ね掛け可能）",
+    "ko": "스킬을 사용하여 스킬 게이지를 회복한 후, 공격력 +10%, 10초 동안 지속, 최대 중첩 5스택."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Passionate Idealist",
+    "zh-TW": "理想熱忱",
+    "zh-CN": "理想热忱",
+    "ja": "熱い理想",
+    "ko": "이념의 불씨"
+   },
+   "text": {
+    "en": "Agility +10, Intellect +10.",
+    "zh-TW": "敏捷+10，智識+10。",
+    "zh-CN": "敏捷+10，智识+10。",
+    "ja": "敏捷+10、知性+10",
+    "ko": "민첩 +10, 지능 +10"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Committed Team Player",
+    "zh-TW": "全力協作",
+    "zh-CN": "全力协作",
+    "ja": "全力サポート",
+    "ko": "혼신의 협력"
+   },
+   "text": {
+    "en": "Ultimate SQUAD! ON ME! improved: While ultimate is active, entire team gains ATK +10%.",
+    "zh-TW": "施放終結技小隊，集結！期間，全隊攻擊力+10%。",
+    "zh-CN": "施放终结技小队，集结！期间，全队攻击力+10%。",
+    "ja": "必殺技「全員、集合！」の効果持続中、チーム全員の攻撃力+10%",
+    "ko": "궁극기 소대, 집합!이 지속되는 동안, 팀 전체 공격력 +10%"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Super Perfect Status",
+    "zh-TW": "滿分狀態",
+    "zh-CN": "满分状态",
+    "ja": "花丸満点",
+    "ko": "완벽한 컨디션"
+   },
+   "text": {
+    "en": "Ultimate SQUAD! ON ME! improved: Ultimate Energy cost -10%.",
+    "zh-TW": "終結技小隊，集結！所需的終結技能量-10%。",
+    "zh-CN": "终结技小队，集结！所需的终结技能量-10%。",
+    "ja": "必殺技「全員、集合！」に必要な必殺チャージ-10%",
+    "ko": "궁극기 소대, 집합!의 사용에 필요한 궁극기 에너지 -10%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Tempo of Awareness",
+    "zh-TW": "殘心節奏",
+    "zh-CN": "残心节奏",
+    "ja": "残心のリズム",
+    "ko": "검의 리듬"
+   },
+   "text": {
+    "en": "Talent Staying in the Zone improved: Even when the ultimate SQUAD! ON ME! ends, the Link buff persists for 5s.",
+    "zh-TW": "天賦心流時間效果加強：連擊在終結技小隊，集結！結束後還會持續5秒。",
+    "zh-CN": "天赋心流时间效果加强：连击在终结技小队，集结！结束后还会持续5秒。",
+    "ja": "素質「集中タイム」強化：リンク状態は必殺技「全員、集合！」終了後にも5秒間持続する",
+    "ko": "재능 '몰입의 시간' 효과 강화: 연타가 궁극기 소대, 집합!이 끝난 뒤에도 5초 동안 지속됩니다."
+   }
+  }
+ ]
+}

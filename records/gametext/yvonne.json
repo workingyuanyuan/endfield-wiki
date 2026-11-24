@@ -1,0 +1,237 @@
+{
+ "slug": "yvonne",
+ "gameId": "chr_0017_yvonne",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"This pair of handcannons feels just right. Hmm... Noticed a few design OFIs. Guess I'll just mod them into a pair of Yvonne-specials!\"  Yvonne is an operator in the Specialist Tech Division of Endfield Industries, currently responsible for research on Æther, Blight and related devices.  At first glance, Yvonne looks like your typical rebellious fashionista — painting her horns, tail, and nails in eye-popping colors. She'll skip out on academic conferences just to snag the latest fashion magazines and pop albums. Drawn to all things new and unconventional, Yvonne has a knack for staying one step ahead of the trends, always marching to the beat of her own drum.  But no one can deny that she is a true genius. Even back in her school days, she was racking up accolades in scientific research that others could only dream of. Everyone expected her to join a top-tier research institute and lead the charge in her field. Instead, Yvonne turned her back on it all and chose to join Endfield.  The reason? She never explained it. Maybe you can ask her yourself.\n\"Can I apply new layer of coating for my gear? This color scheme doesn't really match my hair.\"",
+  "zh-TW": "「這把銃手感不錯！嗯……設計上還有拓展空間，我會把它改成我的專屬款！」  伊馮是終末地工業特種技術部門的幹員，現負責對超域、侵蝕及相關裝置的研究。  單從外表來看，伊馮就像是一位叛逆的時尚少女——幫自己的角、尾巴和指甲塗上吸睛的色彩；翹掉學術會議去購買時尚雜誌和流行唱片……伊馮總會被新奇的事物吸引，以離經叛道的姿態走在潮流最前線。  但沒有任何人敢否認她是絕對的天才。從學生時代開始，伊馮就在科研領域獲得了令人稱羨的成就，然而，當所有人都認為她會入職大型研究所，成為科研的領航人時，伊馮卻選擇離開那些地方，加入了終末地。  理由？她從沒說過，或許你能問出答案。    「我能把裝備改塗裝嗎？我覺得它的顏色跟我的頭髮不搭。」",
+  "zh-CN": "“这把铳手感不错！嗯……设计上还有拓展空间，我会把它改成我的专属款！” 伊冯是终末地工业特种技术部门的干员，现负责对超域、侵蚀及相关装置的研究。 单从外表来看，伊冯就像是一位叛逆的时尚少女：给自己的角、尾巴和指甲涂上惹眼的色彩；翘掉学术会议去购买时尚杂志和流行唱片……伊冯总会被新奇的事物吸引，以离经叛道的姿态走在潮流最前端。 但没有任何人敢否认她是绝对的天才。从学生时代开始，伊冯就在科研领域获得了令人艳羡的成就，然而，当所有人都认为她会入职大型研究所，成为科研的领航人时，伊冯却选择离开那些地方，加入了终末地。 理由？她从没说过，或许你能问出答案。\n“我能给装备改涂装吗？我觉得它的颜色跟我的头发不搭。”",
+  "ja": "「この銃、めっちゃイイじゃん！んー……デザインは改善の余地アリかな。アタシ専用にカスタマイズしよーっと。」 特殊技術部のオペレーターで、現在は超域、侵蝕および関連機器の研究をしている。 見た目だけで言えば「自由奔放でファッショニスタの女の子」。「角や尻尾、爪に目を引く色を塗る」「ファッション誌や流行のアルバムを買うために学会をサボる」……目新しく一風変わったものに心を動かされながら、常識に囚われることのないスタイルで常に流行の最先端を走っている。 学生時代から科学研究の分野で目覚ましい成果を上げており、絶対的な天才であることは誰もが認めざるを得ない。一流の研究機関に所属して時代を牽引する科学者になることを誰もが疑わなかったが、周囲の期待をよそに、イヴォンヌは自らエンドフィールドの一員となる道を選んだ。 その理由は……本人の口から語られたことはない。あなたなら、いつか聞き出せるかもしれない。\n「この装備、色替えられる？んー、アタシの髪色と合わない感じするじゃん？」",
+  "ko": "\"이 총, 느낌 좋네! 음... 디자인은 아직 좀 더 손 볼 수 있겠어! 내 스타일로 바꿔야지!\"  이본은 엔드필드 공업 특수 기술부 소속 오퍼레이터로 초자연, 침식 및 관련 장치 연구를 담당하고 있다.  겉모습만 본다면 이본은 마치 자유분방한 패션 소녀 같다. 뿔과 꼬리 그리고 손톱에 눈에 띄는 색을 칠하고, 학술회의를 빼먹고 패션 잡지나 최신 음반을 사러 다니는 식이다. 언제나 새롭고 독특한 것들에 끌리고, 언제나 파격적인 태도로 유행의 선두를 달린다.  그녀가 뛰어난 천재임을 부정할 사람은 없다. 학생 시절부터 과학 연구 분야에서 모두가 주목할 만한 성과를 거두었다. 모두들 그녀가 대형 연구소에 들어가 이 시대의 연구를 선도할 인물이 될 것이라 예상했지만, 정작 본인은 자신의 길을 고집하며 엔드필드에 합류했다.  그 이유? 그녀는 한 번도 얘기한 적이 없다. 당신이 물어보면 혹시 대답해 줄지도.    \"장비 도색 좀 바꿔도 돼? 내 머리색이랑 좀 안 어울리는 것 같단 말이야.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Exuberant Trigger",
+    "zh-TW": "雀躍扳機",
+    "zh-CN": "雀跃扳机",
+    "ja": "超絶トリガー",
+    "ko": "점프 트리거"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Cryo DMG. As the controlled operator, Final Strike also deals 17 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Cryo DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Cryo DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成寒冷傷害。作為主控幹員時，重擊會造成17點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成寒冷傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量寒冷傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成寒冷伤害。作为主控干员时，重击会造成17点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成寒冷伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量寒冷伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に寒冷ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値17を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に寒冷ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い寒冷ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 냉기 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 17포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 냉기 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 냉기 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Brr-Brr-Bomb β",
+    "zh-TW": "冰冰彈·β型",
+    "zh-CN": "冰冰弹·β型",
+    "ja": "ひえひえビーム・β型",
+    "ko": "얼음 폭탄 · β형"
+   },
+   "text": {
+    "en": "Throws a freezing bomb. The bomb explodes when it hits the enemy to deal Cryo DMG. If hitting an enemy with Cryo Infliction or Nature Infliction, then consume all Arts Infliction stacks, forcibly apply Solidification, and deal Cryo DMG to the target based on the number of stacks consumed.\nAfter the battle skill successfully applies Solidification, Yvonne gains additional Ultimate Energy based on the number of stacks consumed. This Ultimate Energy Gain effect can only trigger 1 time, even if the skill hits multiple enemies.",
+    "zh-TW": "向前發射一顆製冷彈。製冷彈碰到敵人後會發生爆炸，造成寒冷傷害。命中處於寒冷附著或自然附著的敵人時，消耗掉目標身上所有的法術附著，對其強制施加凍結，並基於消耗的層數造成寒冷傷害。\n戰技成功施加凍結後，會基於消耗的層數，額外獲得終結技能量，命中多名目標時僅獲得1次。",
+    "zh-CN": "向前发射一颗制冷弹。制冷弹碰到敌人后会发生爆炸，造成寒冷伤害。命中处于寒冷附着或自然附着的敌人时，消耗掉目标身上所有的法术附着，对其强制施加冻结，并基于消耗的层数造成寒冷伤害。\n战技成功施加冻结后，会基于消耗的层数，额外获得终结技能量，命中多名目标时仅获得1次。",
+    "ja": "前方にフリーズ弾を発射する。弾が敵に命中すると爆発し、寒冷ダメージを与える。寒冷付着または自然付着状態の敵に命中したとき、目標のアーツ付着をすべて消費し、敵を強制的に凍結状態にする。消費した段階数に応じて敵に寒冷ダメージを与える。\n戦技で敵を凍結状態にすると、消費した段階数に応じて追加で必殺チャージを回復する（複数の敵に命中しても回復は1回のみ）。",
+    "ko": "전방을 향해 냉각탄을 발사합니다. 냉각탄은 적에게 명중된 다음 폭발하며 냉기 피해를 줍니다. 냉기 부착 혹은 자연 부착 상태의 적에게 명중했을 때, 목표가 보유한 모든 아츠 부착을 소모하고, 대상에게 강제로 동결을 부여하며 소모한 스택 수치에 따라 냉기 피해를 줍니다.\n배틀 스킬로 적에게 동결 상태를 부여한 후, 소모한 스택 수치에 따라 추가로 궁극기 에너지를 획득하며 여러 목표를 명중했을 경우 1회만 획득합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Flashfreezer υ37",
+    "zh-TW": "速凍仔·υ37",
+    "zh-CN": "速冻仔·υ37",
+    "ja": "アイスちゃん・υ37",
+    "ko": "꽁꽁이 · υ37"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When the controlled operator performs a Final Strike on an enemy with Solidification.\nImmediately deploys Frost-e-Bytee next to the enemy. While active, Frost-e-Bytee constantly releases energy to attack nearby enemies, deals Cryo DMG to them, and pulls them towards itself. After Frost-e-Bytee expires, it explodes to forcibly apply Solidification and deal Cryo DMG to nearby enemies.\nAfter the combo skill successfully hits the enemy, Yvonne gains additional Ultimate Energy. This Ultimate Energy Gain effect can only trigger 1 time, even if the skill hits multiple enemies.",
+    "zh-TW": "當主控幹員對處於凍結狀態的敵人造成重擊時可以發動。\n立即在敵人旁部署一個速凍仔，速凍仔會不斷施放能量攻擊周圍的敵人，造成寒冷傷害並持續向中心牽引。持續時間結束後，速凍仔自爆，對周圍敵人強制施加凍結並造成寒冷傷害。\n連攜技成功命中敵人後，會額外獲得終結技能量，命中多名目標時僅獲得1次。",
+    "zh-CN": "当主控干员对处于冻结状态的敌人造成重击时可以发动。\n立即在敌人旁部署一个速冻仔，速冻仔会不断施放能量攻击周围的敌人，造成寒冷伤害并持续向中心牵引。持续时间结束后，速冻仔自爆，对周围敌人强制施加冻结并造成寒冷伤害。\n连携技成功命中敌人后，会额外获得终结技能量，命中多名目标时仅获得1次。",
+    "ja": "操作中のオペレーターが凍結状態の敵に重攻撃を与えたときに発動可能。\n目標の近くにエネルギーを放出し続けるアイスちゃんを配置し、周囲の敵に寒冷ダメージを与えながら、敵を中心に牽引する。持続時間が終了すると、アイスちゃんは自爆し、周囲の敵を強制的に凍結状態にして寒冷ダメージを与える。\n連携技が敵に命中すると、追加で必殺チャージを回復する（複数の敵に命中しても回復は1回のみ）。",
+    "ko": "메인 컨트롤 오퍼레이터가 동결 상태의 적에게 강력한 일격을 사용했을 때 사용할 수 있습니다.\n즉시 목표의 곁에 꽁꽁이를 배치하고 끊임없이 충격파를 발사합니다. 주변의 적에게 냉기 피해를 주고, 지속적으로 모든 적을 중심으로 끌어당깁니다. 지속 시간이 끝나면, 꽁꽁이가 자폭하여 주위의 적에게 강제로 동결 상태를 부여하고 냉기 피해를 줍니다.\n연계 스킬이 적을 명중한 후, 추가로 궁극기 에너지를 획득합니다. 여러 목표를 명중하더라도 1회만 획득합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Cryoblasting Pistolier",
+    "zh-TW": "冷凍射手",
+    "zh-CN": "冷冻射手",
+    "ja": "アイスシューター",
+    "ko": "아이스 슈터"
+   },
+   "text": {
+    "en": "Immediately deploys the support bot Tink-a-Bella and makes Yvonne the controlled operator.\nTemporarily enhances Yvonne's basic attack (BATK). Each enhanced BATK sequence performed grants a stack of Critical Rate buff. After reaching max stacks, Yvonne also gains a Critical DMG buff. When the skill is about to end, Yvonne's last enhanced BATK becomes an enhanced Final Strike that deals massive Cryo DMG.\nIf the enemy is Solidified, Yvonne performs an additional attack that deals Cryo DMG and then consumes the enemy's Solidification.",
+    "zh-TW": "立即部署小滴答進行輔助，並切換至主控幹員。\n在接下來一定時間內，伊馮的普通攻擊會得到強化，每次普通攻擊都會增加自己的暴擊率。當疊加至最大層數後，自身暴擊傷害增加。持續時間結束前的最後一次強力攻擊會變為重擊，造成大量寒冷傷害。\n如果敵人處於凍結狀態，額外造成一次寒冷傷害後，消耗其凍結狀態。",
+    "zh-CN": "立即部署小嘀嗒进行辅助，并切换至主控干员。\n在接下来一定时间内，伊冯的普通攻击会得到强化，每次普通攻击都会增加自己的暴击率。当叠加至最大层数后，自身暴击伤害增加。持续时间结束前的最后一次强力攻击会变为重击，造成大量寒冷伤害。\n如果敌人处于冻结状态，额外造成一次寒冷伤害后，消耗其冻结状态。",
+    "ja": "ピタちゃんを即座に配置して、自身が操作中のオペレーターへと切り替わる。\n一定時間、イヴォンヌの通常攻撃は強化され、通常攻撃をするたびに自身の会心率がアップする。最大回数まで重ね掛けると、会心ダメージがアップする。持続時間が終了する前の最後の強攻撃は重攻撃になり、高い寒冷ダメージを与える。\n敵が凍結状態の場合、追加で寒冷ダメージを1回与え凍結状態を消費する。",
+    "ko": "삐삐를 배치하여 지원을 요청하고 메인 컨트롤 오퍼레이터로 전환합니다.\n일정 시간 동안, 이본의 일반 공격이 강화되며 일반 공격을 할 때마다 자신의 치명타 확률이 증가합니다. 스택 수치가 최대로 쌓였을 경우, 자신의 치명타 피해가 증가합니다. 지속 시간이 끝나기 전의 마지막 공격은 강력한 일격으로 바뀌어 대량의 냉기 피해를 줍니다.\n적이 동결  상태라면, 추가로 냉기 피해를 1회 준 후, 동결 상태를 소모합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Barrage of Technology",
+    "zh-TW": "科技連擊",
+    "zh-CN": "科技连击",
+    "ja": "ハイテクバースト",
+    "ko": "하이테크 버스트"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Battle skill Brr-Brr-Bomb β improved: After applying Solidification, the next basic attack performed becomes a Final Strike.",
+      "zh-TW": "戰技冰冰彈·β型成功施加凍結後，下一次普通攻擊直接施放重擊。",
+      "zh-CN": "战技冰冰弹·β型成功施加冻结后，下一次普通攻击直接施放重击。",
+      "ja": "戦技「ひえひえビーム・β型」で敵を凍結状態にすると、次の通常攻撃が重攻撃になる",
+      "ko": "배틀 스킬 얼음 폭탄 · β형이 동결을 부여한 후, 다음 일반 공격에서 바로 강력한 일격을 사용합니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Battle skill Brr-Brr-Bomb β improved: After applying Solidification, the next basic attack directly becomes a Final Strike with DMG Dealt +50%.",
+      "zh-TW": "戰技冰冰彈·β型成功施加凍結後，下一次普通攻擊直接施放重擊，且此次重擊造成的傷害+50%。",
+      "zh-CN": "战技冰冰弹·β型成功施加冻结后，下一次普通攻击直接施放重击，且此次重击造成的伤害+50%。",
+      "ja": "戦技「ひえひえビーム・β型」で敵に凍結を付与すると、次の通常攻撃が重攻撃になる\nこの重攻撃による敵へのダメージ+50%",
+      "ko": "배틀 스킬 얼음 폭탄 · β형이 동결을 부여한 후, 다음 일반 공격에서 바로 강력한 일격을 사용합니다. 해당 강력한 일격이 주는 피해 +50%"
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Freezing Point",
+    "zh-TW": "冰點",
+    "zh-CN": "冰点",
+    "ja": "氷点",
+    "ko": "빙점"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Against enemies with active Cryo Infliction, gains Critical DMG Dealt +10%. Effect is doubled against enemies with Solidification.",
+      "zh-TW": "對處於寒冷附著狀態的敵人造成的暴擊傷害+10%；對處於凍結狀態的敵人效果加倍。",
+      "zh-CN": "对处于寒冷附着状态的敌人造成的暴击伤害+10%；对处于冻结状态的敌人效果加倍。",
+      "ja": "寒冷付着状態の敵への会心ダメージ+10%\n敵が凍結状態の場合、この効果は2倍になる",
+      "ko": "냉기 부착 상태의 적에게 주는 치명타 피해 +10%. 동결 상태의 적에게는 두 배의 피해를 줍니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Against enemies with active Cryo Infliction, gains Critical DMG Dealt +20%. Effect is doubled against enemies with Solidification.",
+      "zh-TW": "對處於寒冷附著狀態的敵人造成的暴擊傷害+20%；對處於凍結狀態的敵人效果加倍。",
+      "zh-CN": "对处于寒冷附着状态的敌人造成的暴击伤害+20%；对处于冻结状态的敌人效果加倍。",
+      "ja": "寒冷付着状態の敵への会心ダメージ+20%\n敵が凍結状態の場合、この効果は2倍になる",
+      "ko": "냉기 부착 상태의 적에게 주는 치명타 피해 +20%. 동결 상태의 적에게는 두 배의 피해를 줍니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Flash Freezer",
+    "zh-TW": "速凍幫手",
+    "zh-CN": "速冻帮手",
+    "ja": "速凍の助手",
+    "ko": "급속 냉동 도우미"
+   },
+   "text": {
+    "en": "Combo skill Flashfreezer υ37 improved: Effect radius +20%; releases energy 2 more times; and gains an additional 15 Ultimate Energy after dealing DMG.",
+    "zh-TW": "連攜技速凍仔·υ37的作用範圍+20%，額外施放2次能量，且造成傷害後，額外獲得15點終結技能量。",
+    "zh-CN": "连携技速冻仔·υ37的作用范围+20%，额外施放2次能量，且造成伤害后，额外获得15点终结技能量。",
+    "ja": "連携技「アイスちゃん・υ37」の攻撃範囲+20%、エネルギー放出の回数が2回増加する\n敵にダメージを与えると、追加で必殺チャージを15回復する",
+    "ko": "연계 스킬 꽁꽁이 · υ37의 적용 범위 +20%, 추가로 에너지를 2회 더 방출하고, 피해를 준 후 추가로 15포인트의 궁극기 에너지를 획득합니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Flawless Creation",
+    "zh-TW": "完美造物",
+    "zh-CN": "完美造物",
+    "ja": "完璧な作品",
+    "ko": "완벽한 창조물"
+   },
+   "text": {
+    "en": "Intellect +20, Critical Rate +7%.",
+    "zh-TW": "智識+20，暴擊率+7%。",
+    "zh-CN": "智识+20，暴击率+7%。",
+    "ja": "知性+20、会心率+7%",
+    "ko": "지능 +20, 치명타 확률 +7%"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Tink-a-Power",
+    "zh-TW": "滴答蓄能",
+    "zh-CN": "嘀嗒充能",
+    "ja": "ピタチャージ",
+    "ko": "똑딱 충전"
+   },
+   "text": {
+    "en": "Talent Freezing Point improved: Against enemies with Cryo Infliction, Critical DMG Dealt +10%; this effect is also doubled against enemies with Solidification.",
+    "zh-TW": "天賦冰點效果加強：對處於寒冷附著狀態的敵人造成的暴擊傷害額外+10%；對處於凍結狀態的敵人效果同樣加倍。",
+    "zh-CN": "天赋冰点效果加强：对处于寒冷附着状态的敌人造成的暴击伤害额外+10%；对处于冻结状态的敌人效果同样加倍。",
+    "ja": "素質「氷点」強化：寒冷付着状態の敵への会心ダメージがさらに+10%\n敵が凍結状態の場合、この追加効果も2倍になる",
+    "ko": "재능 빙점 효과 강화: 냉기 부착 상태의 적에게 주는 추가 치명타 피해 +10%, 동결 상태의 적에게도 동일하게 효과가 두 배로 적용됩니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Rebellious Mood",
+    "zh-TW": "叛逆心情",
+    "zh-CN": "叛逆心情",
+    "ja": "反逆テンション",
+    "ko": "거스르는 마음"
+   },
+   "text": {
+    "en": "Battle skill Brr-Brr-Bomb β improved: If the explosion hits only one enemy, return 10 SP.",
+    "zh-TW": "戰技冰冰彈·β型的爆炸僅命中單個敵人時，返還10點技力。",
+    "zh-CN": "战技冰冰弹·β型的爆炸仅命中单个敌人时，返还10点技力。",
+    "ja": "戦技「ひえひえビーム・β型」による爆発が敵1体にしか命中しなかったとき、SPが10返還される",
+    "ko": "배틀 스킬 얼음 폭탄 · β형의 폭발이 단일 목표에 명중했을 때, 스킬 게이지 10포인트를 반환합니다."
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Expert Mechcrafter",
+    "zh-TW": "機巧專家",
+    "zh-CN": "机巧专家",
+    "ja": "メカエキスパート",
+    "ko": "기교 전문가"
+   },
+   "text": {
+    "en": "Ultimate Cryoblasting Pistolier improved: During the ultimate, ATK +10% and Critical DMG Dealt +30%.",
+    "zh-TW": "終結技冷凍射手持續期間，攻擊力+10%，暴擊傷害+30%。",
+    "zh-CN": "终结技冷冻射手持续期间，攻击力+10%，暴击伤害+30%。",
+    "ja": "必殺技「アイスシューター」の効果持続中、攻撃力+10%、会心ダメージ+30%",
+    "ko": "궁극기 아이스 슈터가 지속되는 동안, 공격력 +10%, 치명타 피해 +30%"
+   }
+  }
+ ]
+}

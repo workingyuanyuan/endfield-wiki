@@ -14,7 +14,8 @@ Each hit is one of:
            it covers, how many pages a section has. The header's "unofficial" label and
            llms.txt say it is unofficial; the description says what the page is about.
 With no argument (as in `pnpm verify`), checks every page except zh-cn/, which a script writes
-from zh-tw/; operator profiles there get the SELF check only.
+from zh-tw/. The game's own text on operator pages and the gear page (block quotes and the
+table cells that hold it) is skipped, as on story pages.
 A line that must keep a hit carries the marker <!-- keep --> nowhere: rewrite it instead, or
 add the page to ALLOW below with the reason.
 """
@@ -22,6 +23,9 @@ import os
 import pathlib
 import re
 import sys
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from gametext import inline, page_texts  # noqa: E402
 
 PATTERNS = {
     'SOURCE': [r'Talos Wiki', r'Endfield Wiki', r'warfarin', r'wiki\.gg', r'官方公告', r'公告(稱|只|中|寫|列|提到|未)', r'official notices?',
@@ -70,17 +74,19 @@ def check(path):
     norm = path.replace(os.sep, '/')
     rel = re.sub(r'^.*?src/content/docs/(zh-tw/|ja/|ko/)?', '', norm)
     allowed = ALLOW.get(rel, set())
-    # Run on every page (no argument): operator profiles are restated game text, checked by
-    # check_text.py and jako_text.py, and the story words there (目前, 現在) are not hedges.
-    if ALL_PAGES and re.match(r'operators/(?!index)', rel):
-        allowed = allowed | (set(PATTERNS) - {'SELF'})
     jako = re.search(r'src/content/docs/(ja|ko)/', norm) is not None
     # Story pages show the game's own text (quotes, table rows, chat lines, file titles and
     # unlock conditions); only the sentences around it are ours.
     game_text = re.compile(r'^\s*(>|\||- |\*|### )') if re.match(r'story/(?!index)', rel) else None
+    # Operator pages and the gear page show the game's descriptions and the official
+    # introduction as given: block quotes, and table cells holding one of those texts.
+    quotes = page_texts(rel)
+    cells = [inline(t[lang]) for t, form in quotes if form == 'inline' for lang in t]
     hits = []
     for n, line in enumerate(body_of(open(path, encoding='utf8').read()).split('\n'), 1):
         if game_text and game_text.match(line):
+            continue
+        if quotes and (line.startswith('>') or any(c in line for c in cells)):
             continue
         for kind, pats in PATTERNS.items():
             if kind in allowed:

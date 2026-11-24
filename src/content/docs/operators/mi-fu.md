@@ -51,7 +51,11 @@ sources:
 | Voice, Korean | Min Ah |
 | Operator File | [Mi Fu's file](/story/mi-fu/) |
 
-Mi Fu is Captain of the Wuling Watch, subordinate to Viceroy Tianshi Zhuang Fangyi, and successor of Qingbo Martial Arts, now on an exchange at Endfield Industries.
+> "We're battle-forged teammates, right?"\
+> Mi Fu, Captain of the Wuling Watch and trusted subordinate of Viceroy Tianshi Zhuang Fangyi. A perennial winner of Wuling's "Vanguard Stars" award, she ranks second on the city's civilian combat power leaderboard. To her colleagues, she is both the strictest instructor and the most caring superior. A regular at the sweet rice cake stall on Fangxing Avenue, she is a hero to children, a nightmare for troublemakers, and the bane of any invader. Though labeled a "traitor" by Qingbo Stockade, she remains the true successor of Qingbo Martial Arts. Tangtang's childhood friend and rival, she is a warrior who fought to the bitter end against the Blight Tide without ever retreating...\
+> If you want to know Mi Fu better, you can either become her rival or her friend — those are the two relationships she values most. The former gets her blood pumping; the latter drives her to throw every punch without regard for her own life.\
+> Now, to repay the friends who fought by her side and to take on more rivals worth fighting again and again, she has begun her exchange journey at Endfield Industries.\
+> "This time, I'll clean up the mess for you."
 
 ## How to obtain
 
@@ -81,12 +85,39 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Fistmancer of Blades | Physical combo of up to 4 hits. As the controlled operator, her final strike also deals 25 Stagger. |
-| Battle skill | Qingbo Triplex | Chains up to 3 moves. Cloudtrapper deals Physical damage, tries to pull the target and nearby enemies toward her, returns 50 SP and turns the next battle skill into Trail and Mangle. Its final punch applies Crush; if that consumes 3 or more Vulnerability stacks from one target, the next battle skill becomes World Splitter, area Physical damage counted as Crush DMG. Each follow-up costs 50 SP. Costs 100 SP. |
-| Combo skill | Fists of No Regrets | Trigger: an enemy has 3 or more Vulnerability stacks. Mi Fu lands an uppercut for Physical damage and applies temporary Physical Susceptibility, temporarily replacing her next battle skill with Trail and Mangle. Cooldown 20 s, 19 s at the highest skill level. |
-| Ultimate | Pile of No Mercy | After a brief charge, Mi Fu dashes forward to forcibly Lift a target and slam them down for Physical damage, temporarily replacing her next battle skill with Trail and Mangle. Costs 80 Ultimate Energy. |
+| Basic attack | Fistmancer of Blades | — |
+| Battle skill | Qingbo Triplex | 100 SP |
+| Combo skill | Fists of No Regrets | Cooldown 20 s, 19 s at level 12 |
+| Ultimate | Pile of No Mercy | 80 Ultimate Energy |
+
+### Fistmancer of Blades
+
+> BASIC ATTACK:\
+> An attack with up to 4 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 25 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.
+
+### Qingbo Triplex
+
+> Keep casting Mi Fu's battle skill to unleash 3 different moves. The first battle skill cast is Cloudtrapper.\
+> MOVE 1 - Cloudtrapper: Costs 100 SP and returns 50 SP after casting; Mi Fu fires a grappling chain from her gauntlets that deals Physical DMG to the target and nearby enemies, then attempts to pull the target and nearby enemies towards her. After casting MOVE 1, the next battle skill will be temporarily replaced with Trail and Mangle.\
+> MOVE 2 - Trail and Mangle: Costs 50 SP; Mi Fu unleashes a flurry of punches that deals Physical DMG with the final punch applying Crush. If this Crush consumes at least 3 Vulnerability stacks from a single target, then the next battle skill will be temporarily replaced with World Splitter.\
+> MOVE 3 - World Splitter: Costs 50 SP; Mi Fu deals massive Physical DMG to a specified area; this DMG is not treated as Battle Skill DMG, but as Crush DMG.
+
+### Fists of No Regrets
+
+> COMBO TRIGGER: When an enemy has 3 or more Vulnerability stacks.\
+> Mi Fu unleashes a devastating uppercut at the enemy, dealing Physical DMG and applying temporary Physical Susceptibility. After casting this skill, the next battle skill is temporarily replaced with Trail and Mangle.
+
+### Pile of No Mercy
+
+> After a short power up, Mi Fu dashes forward to forcibly Lift a target into mid-air, then slams the said target to deal Physical DMG. After casting this skill, the next battle skill is temporarily replaced with Trail and Mangle.
 
 ## Skill values
 
@@ -115,20 +146,37 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Stern Crackdown | Promotion I; upgraded at Promotion II | When World Splitter hits a target that has Physical Susceptibility or is Staggered, its damage multiplier rises to 1.1 times (1.2 times at Promotion II). |
-| Vigilant Fury | Promotion II; upgraded at Promotion III | Casting her combo skill grants a shield equal to 15% of Max HP (30% at Promotion III) for 10 s, making Mi Fu harder to interrupt while it holds; triggers at most once every 60 s. |
+### Stern Crackdown
+
+**Promotion I**
+
+> Battle skill move World Splitter improved: When hitting a target with Physical Susceptibility or Staggered, DMG Multiplier is increased to 1.1 times the original.
+
+**Promotion II**
+
+> Battle skill move World Splitter improved: When hitting a target with Physical Susceptibility or Staggered, DMG Multiplier is increased to 1.2 times the original.
+
+### Vigilant Fury
+
+**Promotion II**
+
+> Combo skill improved: Casting the combo creates a shield with 15% Max HP and a duration of 10s. While the shield is active, Mi Fu becomes harder to interrupt.\
+> This effect can only trigger once every 60s.
+
+**Promotion III**
+
+> Combo skill improved: Casting the combo creates a shield with 30% Max HP and a duration of 10s. While the shield is active, Mi Fu becomes harder to interrupt.\
+> This effect can only trigger once every 60s.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Restless Watch | Fists of No Regrets has 2 s shorter cooldown, and its Physical Susceptibility gains +5% effect and +4 s duration |
-| 2 | Kinesthesia of Harmony | Strength +20, Arts Intensity +16 |
-| 3 | Complete Warmup | Vigilant Fury's shield lasts 5 s longer with 15 s shorter trigger cooldown, and each trigger gives Mi Fu ATK +6% for 20 s |
-| 4 | Qi Thrice-Refined | Pile of No Mercy costs 15% less Ultimate Energy |
-| 5 | Pugilist of the Stockade | Cloudtrapper, Trail and Mangle, and World Splitter deal 1.1 times their damage (stacking with Stern Crackdown), and Pile of No Mercy deals +5 Stagger |
+| 1 | Restless Watch | Combo skill Fists of No Regrets improved: Length of cooldown -2s. Physical Susceptibility effect applied by the skill is further increased by +5% and has +4s duration. |
+| 2 | Kinesthesia of Harmony | Strength +20, Arts Intensity +16. |
+| 3 | Complete Warmup | Talent Vigilant Fury improved: Shield duration +5s. Shield trigger cooldown -15s. Each time the shield is triggered, Mi Fu gains ATK +6% for 20s. |
+| 4 | Qi Thrice-Refined | Ultimate Pile of No Mercy improved: Ultimate Energy cost -15%. |
+| 5 | Pugilist of the Stockade | Battle skill improved: DMG Multipliers of the moves Cloudtrapper, Trail and Mangle, and World Splitter are increased to 1.1 times the original. Ultimate Pile of No Mercy improved: Stagger Dealt +5. The Battle Skill DMG Multiplier buff can stack with the talent Stern Crackdown. |
 
 ## Base skills
 
@@ -136,10 +184,10 @@ Base skills work while Mi Fu is assigned to a room of the Dijiang. Each has two 
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Secret Informants α | Reception Room | Promotion I | Slightly higher chance of Clue 3 (HAS); does not stack with another skill of this kind |
-| Secret Informants β | Reception Room | Promotion III | Higher chance of Clue 3 (HAS); does not stack with another skill of this kind |
-| Esoteric Tisane β | Growth Chamber | Promotion II | Fungal matter grows 20% faster |
-| Esoteric Tisane γ | Growth Chamber | Promotion IV | Fungal matter grows 30% faster |
+| Secret Informants α | Reception Room | Promotion I | Assign to Reception Room to grant operators a small Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack) |
+| Secret Informants β | Reception Room | Promotion III | Assign to Reception Room to grant operators Clue 3 Rate-UP: HAS (activates upon assignment; effects of the same type cannot stack) |
+| Esoteric Tisane β | Growth Chamber | Promotion II | Assign to Growth Chamber to grant fungal matter growth rate +20% |
+| Esoteric Tisane γ | Growth Chamber | Promotion IV | Assign to Growth Chamber to grant fungal matter growth rate +30% |
 
 ## Base stats
 

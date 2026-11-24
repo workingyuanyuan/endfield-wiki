@@ -1,0 +1,247 @@
+{
+ "slug": "typhoeus",
+ "gameId": "chr_0034_typhoea",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"A good story is like a good hunter. Both aim straight for the heart.\"\nTyphoeus, huntress of the wilds from Rhodes Island, is curious about the world. She is eager to delve into uninhabited and unexplored places to uncover the forgotten past.\nOn Talos-II, many legends of Sami have already faded, and only a handful of Samifjod still remember them. Typhoeus has resolved to visit them one by one, recording those shattered memories in her notebook.\nAfter arriving at Endfield, the stories she pursued were no longer confined to forgotten legends. She met many new friends and exchanged stories with people from across the land.\nAnd in pursuing those legends, she is also writing a story of her own.\nOne day, when every page of her notebook has been filled, she will proclaim to the friends around her:\n\"Legends aren't always too far off... They can happen right next to us.\"",
+  "zh-TW": "「好故事和好獵手一樣，先瞄準的，都是心臟。」\n提弗洛斯，來自羅德島的荒野獵手，對世界充滿好奇，渴望探索那些無人之境，發掘被人遺忘的故事。\n在塔衛二，許多薩米傳說已經支離破碎，記得的薩米人所剩無幾。提弗洛斯決定一一拜訪他們，將那些殘破的記憶整理在筆記上。\n來到終末地後，她所追逐的故事不再僅限於失落的傳說。她認識了更多朋友，和各地的人們交換著身邊發生的故事。\n而她對傳說的追逐過程，也是在書寫一段屬於她的故事。\n終有一日，當她的筆記本被記滿，她便會對圍在身邊的朋友大聲講出：\n「傳說不總是久遠的……也可以發生在你我身邊。」",
+  "zh-CN": "“好故事和好猎手一样，先瞄准的，都是心脏。”\n提弗洛斯，来自罗德岛的荒野猎手，对世界充满好奇，渴望探索那些无人之境，发掘被人遗忘的故事。\n在塔卫二，许多萨米传说已经支离破碎，记得的萨米人所剩无几。提弗洛斯决定一一拜访他们，将那些残破的记忆整理在笔记上。\n来到终末地后，她所追逐的故事不再仅限于失落的传说。她认识了更多朋友，和各地的人们交换着身边发生的故事。\n而她对传说的追逐过程，也是在书写一段属于她的故事。\n终有一日，当她的笔记本被记满，她便会对围在身边的朋友大声讲出：\n“传说不总是久远的……也可以发生在你我身边。”",
+  "ja": "「いい物語といい狩人は同じ。最初に狙うのは、心臓だ。」\nティフォロスは、ロドスから来た荒野の狩人。彼女は世界への尽きぬ好奇心を抱き、まだ誰も足を踏み入れたことのない地を巡り、人々の記憶から失われた物語を掘り起こしたいと願っている。\nタロⅡでは、サーミにまつわる伝説は少しずつ風化し、サーミの人々でさえ、それを覚えている者は今やわずかしか残されていない。ティフォロスはその一人ひとりを訪ね歩き、失われかけた記憶をノートに書き留めていく。\nエンドフィールドに加わってから、彼女が追い求める物語は失われた伝説だけに留まらず、多くの友人に出会い、各地の人々と身近に起きた物語を分かち合うようになった。\nそして、伝説を追うその旅は、やがて彼女自身の物語となる。\nいつしか、そのノートが埋め尽くされたとき、彼女は仲間たちにきっとこう語るだろう。\n「伝説は遠い昔のものとは限らない……お前やわたしのそばで生まれることもあるんだぞ。」",
+  "ko": "\"좋은 이야기랑 좋은 사냥꾼은 닮았어. 둘 다 심장을 노리거든.\"\n티프로스는 로도스 아일랜드 출신의 황무지 사냥꾼으로, 세상에 대한 호기심이 가득해서 인적이 닿지 않는 미지의 구역을 누비며, 사람들에게 잊힌 이야기를 찾아 나서는 꿈을 품고 있다.\n탈로스 II에서 수많은 사미의 전설이 이미 빛바랜 조각으로 흩어졌고, 사미인을 기억하는 이들은 손에 꼽을 정도다. 티프로스는 그들을 하나하나 찾아가, 부서진 기억들을 자신의 노트에 고스란히 담아내기로 한다.\n엔드필드에 발을 들인 뒤로, 그녀가 쫓는 이야기는 아득한 옛전설에 그치지 않게 되었다. 그녀는 더 많은 이들과 인연을 맺고, 발길 닿는 곳마다 사람들과 소소한 일상의 이야기를 주고받는다.\n그렇게 전설을 찾아 나서는 그녀의 발걸음에는, 오롯이 그녀 자신만의 이야기가 깊게 새겨지고 있다.\n언젠가 그녀의 노트가 빼곡한 기록으로 가득 차면, 그녀는 곁을 에워싼 친구들을 향해 당차게 외칠 것이다.\n\"전설이 꼭 먼 옛날이야기인 건 아니야. 우리도 충분히 만들 수 있으니까.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Wildlands Huntress",
+    "zh-TW": "追獵荒原",
+    "zh-CN": "追猎荒原",
+    "ja": "荒原の狩猟",
+    "ko": "황무지의 사냥꾼"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 5 sequences that deals Nature DMG. As the controlled operator, Final Strike also deals 17 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Nature DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Nature DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多5段攻擊，造成自然傷害。作為主控幹員時，重擊會造成17點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成自然傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量自然傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多5段攻击，造成自然伤害。作为主控干员时，重击会造成17点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成自然伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量自然伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大5段の攻撃で敵に自然ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値17を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に自然ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い自然ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 5단 공격을 하여 자연 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 17포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 자연 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 자연 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Piercing Arrows of the Woods",
+    "zh-TW": "風矢穿林",
+    "zh-CN": "风矢穿林",
+    "ja": "風裂く一矢",
+    "ko": "바람을 가르는 화살"
+   },
+   "text": {
+    "en": "Typhoeus leaps into the air and enters a short Hovering state, during which she can unleash 5 Aerial Basic Attacks (ABATK). Each ABATK can shoot arrows at up to 2 targets and deal Nature DMG.\nWhenever an ABATK hits an enemy with Nature Infliction, it consumes 1 stack of Nature Infliction, grants Typhoeus 1 Sign, and gives additional Ultimate Energy.\nIf Typhoeus has Hunting Arrow(s), she consumes 1 Hunting Arrow and converts the ABATK into a Power Shot.\nPower Shot: After hitting an enemy, Power Shot forcibly applies 1 instance of Nature Burst; if the Power Shot consumes the target's Nature Infliction, then increase the DMG dealt by this Nature Burst.\nIf Typhoeus is the controlled operator, her 5th ABATK is regarded as a Final Strike and a Power Shot, and does not consume Hunting Arrows.",
+    "zh-TW": "躍入空中進入短暫浮空狀態，期間可施放5次空中普通攻擊，每次可同時攻擊最多2名目標，造成自然傷害。\n每次空中普通攻擊若命中帶有自然附著的敵人，則消耗目標身上的1層自然附著，獲得1點啟示，並額外獲得終結技能量。\n若自身仍存有獵矢，則會消耗1枚獵矢，將空中普通攻擊轉化為強化射擊。\n強化射擊：命中後額外強制造成一次自然爆發；若消耗了目標身上的自然附著，則本次造成的自然爆發傷害會提升。\n作為主控幹員時，第五次空中普通攻擊同時視為重擊與強化射擊，且無需消耗獵矢。",
+    "zh-CN": "跃入空中进入短暂浮空状态，期间可施放5次空中普通攻击，每次可同时攻击至多2名目标，造成自然伤害。\n每次空中普通攻击若命中带有自然附着的敌人，则消耗目标身上的1层自然附着，获得1点启示，并额外获得终结技能量。\n若自身仍存有猎矢，则会消耗1枚猎矢，将空中普通攻击转化为强化射击。\n强化射击：命中后额外强制造成一次自然爆发；若消耗了目标身上的自然附着，则本次造成的自然爆发伤害会提升。\n作为主控干员时，第五次空中普通攻击同时视为重击与强化射击，且无需消耗猎矢。",
+    "ja": "空中へ跳躍し、短時間浮遊状態に入る。期間中、空中通常攻撃を5回繰り出せる。毎回最大2体の目標を同時に攻撃し、自然ダメージを与える。\n空中通常攻撃が自然付着状態の敵に命中するたびに、目標の自然付着を1段階消費して啓示を1獲得し、追加で必殺チャージを回復する。\n自身に猟矢が残っている場合、猟矢を1本消費して空中通常攻撃を強化射撃に変換する。\n強化射撃：命中すると追加で強制的に自然爆発を1回与える。目標の自然付着を消費した場合、そのとき与える自然爆発ダメージがアップする。\n操作オペレーター時、5段目の空中通常攻撃は重攻撃および強化射撃として扱われ、猟矢を消費しない。",
+    "ko": "점프하여 짧은 시간 동안 공중에 뜸 상태가 됩니다. 이 상태에서 5회의 공중 일반 공격을 사용할 수 있으며, 각 일반 공격은 동시에 최대 2명의 목표에 자연 피해를 줍니다.\n공중 일반 공격이 자연 부착이 부여된 적을 명중할 때마다 목표의 자연 부착 1스택을 소모하고 계시 1포인트를 획득하며 궁극기 에너지를 추가로 회복합니다.\n사냥 화살을 보유하고 있으면 사냥 화살 1발을 소모하여 공중 일반 공격을 강력한 사격으로 전환합니다.\n강력한 사격: 목표에 명중하면 자연 폭발을 강제적으로 추가 1회 발동합니다. 목표의 자연 부착을 소모했다면 이번에 준 자연 폭발의 피해가 증가합니다.\n메인 컨트롤 오퍼레이터라면, 다섯 번째 공중 일반 공격이 강력한 일격 및 강력한 사격으로 간주되며 사냥 화살을 소모하지 않습니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "Rampant Thorns",
+    "zh-TW": "野棘叢生",
+    "zh-CN": "野棘丛生",
+    "ja": "荒れ狂うトゲ",
+    "ko": "가시덤불 쇄도"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When Typhoeus reaches max Signs.\nTyphoeus converts all her Signs to Hunting Arrows and resets her Aerial Basic Attack (ABATK) attempts.\nTyphoeus focuses her \"Huntress's Gaze\" and launches a barrage at the target that creates a Barrage Array at the target area. Enemies in the Barrage Array take Nature DMG over time, are slowed, and suffer increased Nature Burst DMG Taken.\nEvery 2 Signs convert to 1 Hunting Arrow.",
+    "zh-TW": "當自身啟示已滿時可以發動。\n將目前啟示全部轉化為獵矢，並且重置空中普通攻擊次數。\n凝聚「獵手的注視」向目標齊射，在目標區域形成箭陣。處於箭陣內的敵人會持續受到自然傷害和緩速，同時受到的自然爆發傷害提高。\n每2點啟示可以轉化為1枚獵矢。",
+    "zh-CN": "当自身启示已满时可以发动。\n将当前启示全部转化为猎矢，并且重置空中普通攻击次数。\n凝聚“猎手的注视”向目标齐射，在目标区域形成箭阵。处于箭阵内的敌人会持续受到自然伤害和缓速，同时受到的自然爆发伤害提高。\n每2点启示可以转化为1枚猎矢。",
+    "ja": "自身の啓示が最大まで達しているときに発動可能。\n現在の啓示をすべて猟矢に変換し、空中通常攻撃の回数をリセットする。\n「狩人の眼差し」を集めて目標に一斉射撃し、目標地点に矢陣を形成する。矢陣内の敵は持続的に自然ダメージとスロー効果を受け、同時に受ける自然爆発ダメージがアップする。\n啓示2ごとに猟矢1本へと変換する。",
+    "ko": "자신의 계시가 최대치일 때 발동할 수 있습니다.\n현재 보유한 계시를 모두 사냥 화살로 전환하고, 공중 일반 공격 횟수를 초기화합니다.\n이후 '사냥꾼의 시선'을 모아 목표를 향해 일제 사격하며 목표 구역에 화살진을 형성합니다. 화살진 내의 적은 지속적으로 자연 피해를 받으며 감속 상태가 되고, 받는 자연 폭발 피해가 증가합니다.\n계시 2포인트당 사냥 화살 1발로 전환됩니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Call of Ice Mountain",
+    "zh-TW": "冰山呼告",
+    "zh-CN": "冰山呼告",
+    "ja": "氷山の呼び声",
+    "ko": "설산의 포효"
+   },
+   "text": {
+    "en": "Typhoeus fires an Imbued Arrow that explodes after hitting the enemy and deals massive Nature DMG to enemies within the area of effect (AOE). She then enters a Hovering state and her Aerial Basic Attack (ABATK) attempts are reset.\nFor her next 5 ABATKs, hitting an enemy triggers a Hail of Arrows that deals Nature DMG at the target's location. Her 5th Hail of Arrows is an empowered Hail of Arrows that deals higher DMG.\nCasting the ultimate gives 2 Hunting Arrows immediately.",
+    "zh-TW": "拉弓射出一支強力箭矢，命中目標後引發爆炸，對範圍內的敵人造成高額自然傷害。之後會進入浮空狀態，並且重置空中普通攻擊次數。\n之後的五次空中普通攻擊命中敵人時，都會在目標的位置產生一輪箭雨，造成自然傷害。第五輪箭雨為強化箭雨，造成的傷害提升。\n施放終結技可立即獲得2枚獵矢。",
+    "zh-CN": "拉弓射出一支强力箭矢，命中目标后引发爆炸，对范围内的敌人造成高额自然伤害。之后会进入浮空状态，并且重置空中普通攻击次数。\n之后的五次空中普通攻击命中敌人时，都会在目标的位置产生一轮箭雨，造成自然伤害。第五轮箭雨为强化箭雨，造成的伤害提升。\n施放终结技可立即获得2枚猎矢。",
+    "ja": "弓を引いて強力な矢を放ち、目標に命中すると爆発する。範囲内の敵に高い自然ダメージを与える。その後、浮遊状態に入り、空中通常攻撃の回数をリセットする。\nそのあとの5回の空中通常攻撃が敵に命中するとき、目標の位置に矢の雨を発生させ、自然ダメージを与える。5段目は強化された矢の雨となり、与えるダメージがアップする。\n必殺技を発動すると即座に猟矢を2本獲得する。",
+    "ko": "활을 당겨 강력한 화살을 쏘아 올립니다. 목표를 명중하면 폭발이 일어나며 범위 내의 적에게 막대한 자연 피해를 줍니다. 그 후, 공중에 뜸 상태가 되고 공중 일반 공격 횟수가 초기화됩니다.\n이 상태에서 사용한 다섯 번의 공중 일반 공격은 적에게 명중할 때마다 목표의 위치에 화살비가 내리게 만들고 자연 피해를 줍니다. 다섯 번째의 화살비는 강화된 화살비로, 주는 피해가 증가합니다.\n궁극기를 사용하면 즉시 2발의 사냥 화살을 획득합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Prey Checklist",
+    "zh-TW": "獵物清點",
+    "zh-CN": "猎物清点",
+    "ja": "獲物のチェック",
+    "ko": "사냥감 청소"
+   },
+   "levels": [
+    {
+     "promotion": 0,
+     "text": {
+      "en": "Whenever a Nature Burst is triggered on an enemy, Typhoeus gains 1 Sign. DMG dealt by attacks empowered by consuming Hunting Arrows is increased to 1.2 times the original.\nWhen entering battle, Typhoeus immediately gains 1 Sign(s).\nTyphoeus can have up to 4 Hunting Arrows and 8 Signs.\nIf Nature Burst is simultaneously triggered on multiple enemies, this only counts as one instance of Nature Burst when tallying the Signs gained by Typhoeus.",
+      "zh-TW": "每當敵人觸發自然爆發的時候，獲得1點啟示。消耗獵矢強化的攻擊，造成的傷害提升至原本的1.2倍。\n進入戰鬥時，立刻獲得1點啟示。\n獵矢上限為4枚，啟示上限為8點。\n同一時間內多名敵人受到自然爆發時，僅視為單個敵人受到自然爆發，並獲得對應數量的啟示。",
+      "zh-CN": "每当敌人触发自然爆发的时候，获得1点启示。消耗猎矢强化的攻击，造成的伤害提升至原本的1.2倍。\n进入战斗时，立刻获得1点启示。\n猎矢上限为4枚，启示上限为8点。\n同一时间内多名敌人受到自然爆发时，仅视为单个敌人受到自然爆发，并获得对应数量的启示。",
+      "ja": "敵に自然爆発を発生させるたびに、啓示を1獲得する\n猟矢を消費して強化された攻撃は、ダメージが1.2倍までアップする\n戦闘開始時、即座に啓示を1獲得する\n猟矢の上限は4本、啓示の上限は8\n同時に複数の敵が自然爆発を受けた場合でも、1体の敵が自然爆発を受けたものとして扱い、対応する数量の啓示を獲得する",
+      "ko": "적에게 자연 폭발이 발동할 때마다 계시 1포인트를 획득합니다. 사냥 화살을 소모하는 강화된 공격의 피해량이 기존의 1.2배로 증가합니다.\n전투 진입 시, 즉시 1포인트의 계시를 획득합니다.\n사냥 화살은 최대 4발, 계시는 최대 8포인트까지 보유할 수 있습니다.\n동시에 여러 적에게 자연 폭발이 발동하더라도, 적 1명에게 발동한 것으로 간주하여 계시를 획득합니다."
+     }
+    },
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Whenever a Nature Burst is triggered on an enemy, Typhoeus gains 1 Sign. DMG dealt by attacks empowered by consuming Hunting Arrows is increased to 1.4 times the original.\nWhen entering battle, Typhoeus immediately gains 2 Sign(s).\nTyphoeus can have up to 4 Hunting Arrows and 8 Signs.\nIf Nature Burst is simultaneously triggered on multiple enemies, this only counts as one instance of Nature Burst when tallying the Signs gained by Typhoeus.",
+      "zh-TW": "每當敵人觸發自然爆發的時候，獲得1點啟示。消耗獵矢強化的攻擊，造成的傷害提升至原本的1.4倍。\n進入戰鬥時，立刻獲得2點啟示。\n獵矢上限為4枚，啟示上限為8點。\n同一時間內多名敵人受到自然爆發時，僅視為單個敵人受到自然爆發，並獲得對應數量的啟示。",
+      "zh-CN": "每当敌人触发自然爆发的时候，获得1点启示。消耗猎矢强化的攻击，造成的伤害提升至原本的1.4倍。\n进入战斗时，立刻获得2点启示。\n猎矢上限为4枚，启示上限为8点。\n同一时间内多名敌人受到自然爆发时，仅视为单个敌人受到自然爆发，并获得对应数量的启示。",
+      "ja": "敵に自然爆発を発生させるたびに、啓示を1獲得する\n猟矢を消費して強化された攻撃は、ダメージが1.4倍までアップする\n戦闘開始時、即座に啓示を2獲得する\n猟矢の上限は4本、啓示の上限は8\n同時に複数の敵が自然爆発を受けた場合でも、1体の敵が自然爆発を受けたものとして扱い、対応する数量の啓示を獲得する",
+      "ko": "적에게 자연 폭발이 발동할 때마다 계시 1포인트를 획득합니다. 사냥 화살을 소모하는 강화된 공격의 피해량이 기존의 1.4배로 증가합니다.\n전투 진입 시, 즉시 2포인트의 계시를 획득합니다.\n사냥 화살은 최대 4발, 계시는 최대 8포인트까지 보유할 수 있습니다.\n동시에 여러 적에게 자연 폭발이 발동하더라도, 적 1명에게 발동한 것으로 간주하여 계시를 획득합니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Whenever a Nature Burst is triggered on an enemy, Typhoeus gains 1 Sign. DMG dealt by attacks empowered by consuming Hunting Arrows is increased to 1.6 times the original.\nWhen entering battle, Typhoeus immediately gains 4 Sign(s).\nTyphoeus can have up to 4 Hunting Arrows and 8 Signs.\nIf Nature Burst is simultaneously triggered on multiple enemies, this only counts as one instance of Nature Burst when tallying the Signs gained by Typhoeus.",
+      "zh-TW": "每當敵人觸發自然爆發的時候，獲得1點啟示。消耗獵矢強化的攻擊，造成的傷害提升至原本的1.6倍。\n進入戰鬥時，立刻獲得4點啟示。\n獵矢上限為4枚，啟示上限為8點。\n同一時間內多名敵人受到自然爆發時，僅視為單個敵人受到自然爆發，並獲得對應數量的啟示。",
+      "zh-CN": "每当敌人触发自然爆发的时候，获得1点启示。消耗猎矢强化的攻击，造成的伤害提升至原本的1.6倍。\n进入战斗时，立刻获得4点启示。\n猎矢上限为4枚，启示上限为8点。\n同一时间内多名敌人受到自然爆发时，仅视为单个敌人受到自然爆发，并获得对应数量的启示。",
+      "ja": "敵に自然爆発を発生させるたびに、啓示を1獲得する\n猟矢を消費して強化された攻撃は、ダメージが1.6倍までアップする\n戦闘開始時、即座に啓示を4獲得する\n猟矢の上限は4本、啓示の上限は8\n同時に複数の敵が自然爆発を受けた場合でも、1体の敵が自然爆発を受けたものとして扱い、対応する数量の啓示を獲得する",
+      "ko": "적에게 자연 폭발이 발동할 때마다 계시 1포인트를 획득합니다. 사냥 화살을 소모하는 강화된 공격의 피해량이 기존의 1.6배로 증가합니다.\n전투 진입 시, 즉시 4포인트의 계시를 획득합니다.\n사냥 화살은 최대 4발, 계시는 최대 8포인트까지 보유할 수 있습니다.\n동시에 여러 적에게 자연 폭발이 발동하더라도, 적 1명에게 발동한 것으로 간주하여 계시를 획득합니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Huntress's Focus",
+    "zh-TW": "獵手的專注",
+    "zh-CN": "猎手的专注",
+    "ja": "狩人の集中力",
+    "ko": "사냥꾼의 집중"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When Hovering, Typhoeus activates a Protective Barrier that reduces her DMG Taken by 15% and makes her harder to interrupt while it is active. The Protective Barrier is shattered when Typhoeus takes DMG, and cannot be activated again for 30s afterwards.",
+      "zh-TW": "每次進入浮空狀態時，持續期間內啟用防禦護罩，使自身受到的傷害-15%且更難被打斷，在受到傷害時防禦護罩會被擊碎，且30秒內無法再次啟用。",
+      "zh-CN": "每次进入浮空状态时，持续期间内激活防御护罩，使自身受到的伤害-15%且更难被打断，在受到伤害时防御护罩会被击碎，且30秒内无法再次激活。",
+      "ja": "浮遊状態に入るたび、持続期間中は防御シールドが発動する\n中断されにくくなり、自身の受けるダメージ-15%\nダメージを受けると防御シールドは破壊され、その後30秒間は再発動できない",
+      "ko": "공중에 뜸 상태에 진입하면 유지 시간 동안 방어 보호막이 활성화됩니다. 보호막이 있는 동안 받는 피해가 -15%, 행동이 쉽게 끊어지지 않습니다. 피해를 받으면 방어 보호막이 파괴되고, 30초 동안은 다시 활성화되지 않습니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "When Hovering, Typhoeus activates a Protective Barrier that reduces her DMG Taken by 30% and makes her harder to interrupt while it is active. The Protective Barrier is shattered when Typhoeus takes DMG, and cannot be activated again for 18s afterwards.",
+      "zh-TW": "每次進入浮空狀態時，持續期間內啟用防禦護罩，使自身受到的傷害-30%且更難被打斷，在受到傷害時防禦護罩會被擊碎，且18秒內無法再次啟用。",
+      "zh-CN": "每次进入浮空状态时，持续期间内激活防御护罩，使自身受到的伤害-30%且更难被打断，在受到伤害时防御护罩会被击碎，且18秒内无法再次激活。",
+      "ja": "浮遊状態に入るたび、持続期間中は防御シールドが発動する\n中断されにくくなり、自身の受けるダメージ-30%\nダメージを受けると防御シールドは破壊され、その後18秒間は再発動できない",
+      "ko": "공중에 뜸 상태에 진입하면 유지 시간 동안 방어 보호막이 활성화됩니다. 보호막이 있는 동안 받는 피해가 -30%, 행동이 쉽게 끊어지지 않습니다. 피해를 받으면 방어 보호막이 파괴되고, 18초 동안은 다시 활성화되지 않습니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Samifjod Fletching",
+    "zh-TW": "薩米製箭工藝",
+    "zh-CN": "萨米制箭工艺",
+    "ja": "サーミの矢作り",
+    "ko": "사미의 화살 제작 기술"
+   },
+   "text": {
+    "en": "When Hovering, ATK +18% and ABATK DMG Dealt is increased to 1.2 times the original.\nTalent Huntress's Focus improved: Protective Barrier reactivation time -3s.",
+    "zh-TW": "處於浮空狀態時，攻擊力+18%，空中普通攻擊傷害提升至原本的1.2倍。\n天賦獵手的專注效果加強：防禦護罩的再次觸發時間-3秒。",
+    "zh-CN": "处于浮空状态时，攻击力+18%，空中普通攻击伤害提升至原本的1.2倍。\n天赋猎手的专注效果加强：防御护罩的再次激活时间-3秒。",
+    "ja": "浮遊状態のとき、攻撃力+18%、空中通常攻撃ダメージが1.2倍までアップする\n素質「狩人の集中力」強化：防御シールドの再発動時間-3秒",
+    "ko": "공중에 뜸 상태일 때, 공격력 +18%, 공중 일반 공격의 피해가 기존의 1.2배로 증가합니다.\n재능 사냥꾼의 집중의 효과 강화: 방어 보호막의 재활성화 시간 -3초"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Huntress's Stride",
+    "zh-TW": "獵人步伐",
+    "zh-CN": "猎人步伐",
+    "ja": "狩人のペース",
+    "ko": "사냥꾼의 발걸음"
+   },
+   "text": {
+    "en": "Agility +20, Arts Intensity +16.",
+    "zh-TW": "敏捷+20，源石技藝強度+16。",
+    "zh-CN": "敏捷+20，源石技艺强度+16。",
+    "ja": "敏捷+20、アーツ強度+16",
+    "ko": "민첩 +20, 오리지늄 아츠 강도 +16"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Thorny Trap",
+    "zh-TW": "荊棘獵籠",
+    "zh-CN": "荆棘猎笼",
+    "ja": "トゲの罠",
+    "ko": "가시 사냥덫"
+   },
+   "text": {
+    "en": "Combo skill Rampant Thorns improved: Length of cooldown -2s. Enemies in the Barrage Array suffer Nature Burst DMG Taken +6%.",
+    "zh-TW": "連攜技野棘叢生冷卻時間-2秒，箭陣內的敵人受到的自然爆發傷害提高的效果+6%。",
+    "zh-CN": "连携技野棘丛生冷却时间-2秒，箭阵内的敌人受到的自然爆发伤害提高的效果+6%。",
+    "ja": "連携技「荒れ狂うトゲ」のCD時間-2秒、矢陣内の敵が受ける自然爆発ダメージがアップする効果+6%",
+    "ko": "연계 스킬 가시덤불 쇄도의 쿨타임 -2초, 화살진 내의 적이 받는 자연 폭발 피해량이 증가하는 효과 +6%"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "No Escape",
+    "zh-TW": "無處可逃",
+    "zh-CN": "无处可逃",
+    "ja": "逃げ場はもうない",
+    "ko": "도망칠 곳은 없다"
+   },
+   "text": {
+    "en": "Ultimate Call of Ice Mountain improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技冰山呼告所需的終結技能量-15%。",
+    "zh-CN": "终结技冰山呼告所需的终结技能量-15%。",
+    "ja": "必殺技「氷山の呼び声」に必要な必殺チャージ-15%",
+    "ko": "궁극기 설산의 포효의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Fatal Shot",
+    "zh-TW": "應弦而倒",
+    "zh-CN": "应弦而倒",
+    "ja": "弦音ひとつ",
+    "ko": "일사필살"
+   },
+   "text": {
+    "en": "Ultimate Call of Ice Mountain improved: Gains Hunting Arrows +1. Ultimate DMG Dealt is increased to 1.2 times the original, while Nature Burst DMG Multiplier of Power Shot is increased to 1.1 times the original.",
+    "zh-TW": "終結技冰山呼告獲得的獵矢數量+1，終結技傷害提升至原本的1.2倍，強化射擊造成的自然爆發傷害倍率提升至原本的1.1倍。",
+    "zh-CN": "终结技冰山呼告获得的猎矢数量+1，终结技伤害提升至原本的1.2倍，强化射击造成的自然爆发伤害倍率提升至原本的1.1倍。",
+    "ja": "必殺技「氷山の呼び声」で獲得する猟矢の数量+1、必殺技ダメージが1.2倍までアップする\n強化射撃で与える自然爆発ダメージ倍率が1.1倍までアップする",
+    "ko": "궁극기 설산의 포효로 획득하는 사냥 화살 수 +1, 궁극기 피해가 기존의 1.2배로 증가하며 강력한 사격이 주는 자연 폭발 피해 배율이 기존의 1.1배로 증가합니다."
+   }
+  }
+ ]
+}

@@ -52,7 +52,11 @@ sources:
 | Voice, Korean | Lee Ju Seung |
 | Operator File | [Camille's file](/story/camille/) |
 
-Camille Arno is an elite Keeper from Seš'qa, skilled in blood-related Originium Arts and anti-witchcraft, who is seeking to work with Endfield Industries in a personal capacity.
+> "Out of the deepest shadows, a drop of blood is drawn once more."\
+> Camille Arno, a Keeper from Seš'qa specializing in handling violent incidents caused by or targeted at the Sarkaz. As one of the most elite Keepers, he has mastered blood-related Originium Arts and is especially skilled at countering all manner of sinister witchcraft.\
+> To protect his homeland, Seš'qa, Camille has personally apprehended countless dangerous criminals, yet he has faced repeated setbacks in his hunt for his blood relative. Scarred by past betrayals, he has grown used to maintaining a cold, distant demeanor and avoiding others' concern — this is how he protects himself. Yet when it comes to friends who have earned his trust, he is willing to reveal a sincere and straightforward side.\
+> Currently, he is seeking to cooperate with Endfield Industries in a personal capacity. He looks forward to journeying alongside you to distant lands and fulfilling each other's long-cherished wishes.\
+> "Empty honors no longer matter, my friend. My blood is always with you."
 
 ## How to obtain
 
@@ -81,12 +85,39 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skills
 
-| Slot | Name | What it does |
+| Slot | Name | Cost or cooldown |
 | --- | --- | --- |
-| Basic attack | Sanguine Absolution | Heat combo of up to 5 hits. As the controlled operator, his final strike also deals 18 Stagger. |
-| Battle skill | Blazing Exorcism | Firefang Vesperwings deal small-area Heat damage and Heat Infliction, then hover on the target to inflict Weakness and Heat Susceptibility, jumping to another nearby enemy on defeat with the same effects. Hitting a hovered enemy with Camille's combo skill triggers a delayed Heat explosion. Costs 100 SP. |
-| Combo skill | Heartstake Thorn | Trigger: an enemy's Heat Infliction is consumed or absorbed. He dashes out and back, dealing Heat damage and recovering SP. Cooldown 20 s, 18 s at the highest skill level. |
-| Ultimate | Sanguine Downpour | He leaps to rain down spears and sweep through enemies for Heat damage, Heat Infliction, and SP recovery. For a time afterward, his next battle skill becomes Hunter Pursuit, a free dash counted as a combo skill that deals Heat damage and recovers SP. Costs 130 Ultimate Energy. |
+| Basic attack | Sanguine Absolution | — |
+| Battle skill | Blazing Exorcism | 100 SP |
+| Combo skill | Heartstake Thorn | Cooldown 20 s, 18 s at level 12 |
+| Ultimate | Sanguine Downpour | 130 Ultimate Energy |
+
+### Sanguine Absolution
+
+> BASIC ATTACK:\
+> An attack with up to 5 sequences that deals Heat DMG. As the controlled operator, Final Strike also deals 18 Stagger.
+>
+> DIVE ATTACK:\
+> Basic attack performed in mid-air becomes a dive attack that deals Heat DMG to nearby enemies.
+>
+> FINISHER:\
+> Basic attack performed near a Staggered enemy becomes a finisher that deals massive Heat DMG and recovers some SP.
+
+### Blazing Exorcism
+
+> Camille summons Firefang Vesperwings that fly towards the enemy to deal Heat DMG and apply Heat Infliction on enemies in a small area of effect. The Firefang Vesperwings then temporarily hover around the target and apply Weakness and Heat Susceptibility to the said target for the duration of the hovering. When the target is defeated, the Firefang Vesperwings fly to another nearby enemy, deal Heat DMG, and apply Heat Infliction, Weakness, and Heat Susceptibility to the new target.\
+> Hitting an enemy with hovering Firefang Vesperwings with Camille's combo skill sets off an explosion after a short delay. This explosion deals additional Heat DMG.
+
+### Heartstake Thorn
+
+> COMBO TRIGGER: When an enemy's Heat Infliction is consumed or absorbed.\
+> Performs a returning dash that deals Heat DMG and recovers some SP.
+
+### Sanguine Downpour
+
+> Camille flies to the sky, rains down a barrage of spears, and follows through with a sweep attack. This deals Heat DMG and applies Heat Infliction to target(s) hit while recovering some SP.\
+> After casting the ultimate, Camille's battle skill is temporarily transformed into Hunter Pursuit.\
+> Hunter Pursuit: Treated as a combo skill and costs no SP. It is a dash attack that deals Heat DMG and recovers some SP.
 
 ## Skill values
 
@@ -121,20 +152,37 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Talents
 
-| Talent | Unlock | Effect |
-| --- | --- | --- |
-| Hunter of Transgression | Promotion I; upgraded at Promotion II | When Heartstake Thorn hits an enemy hovered by Firefang Vesperwings, Camille heals himself for 30 + Intellect × 0.15 HP (60 + Intellect × 0.3 at Promotion II) and gains Link for 15 s. Hunter Pursuit triggers this even without hovering Vesperwings. |
-| Bloodfount Revival | Promotion II; upgraded at Promotion III | Whenever Camille heals himself with a skill, he gains +2% Heat damage (+4% at Promotion III) for 40 s, up to 5 stacks, while other teammates gain 25% of this bonus. If he is already at full HP, each trigger grants 2 stacks. |
+### Hunter of Transgression
+
+**Promotion I**
+
+> Combo skill Heartstake Thorn improved: When hitting an enemy with hovering Firefang Vesperwings, Camille restores \[30 + Intellect × 0.15\] HP to himself and grants a Link buff for 15s. When casting Hunter Pursuit, this effect can be triggered even when hitting a target with no hovering Vesperwings.
+
+**Promotion II**
+
+> Combo skill Heartstake Thorn improved: When hitting an enemy with hovering Firefang Vesperwings, Camille restores \[60 + Intellect × 0.3\] HP to himself and grants a Link buff for 15s. When casting Hunter Pursuit, this effect can be triggered even when hitting a target with no hovering Vesperwings.
+
+### Bloodfount Revival
+
+**Promotion II**
+
+> Whenever Camille restores HP via a skill, he gains Heat DMG Dealt +2% (max stacks: 5) for 40s while other operators in the team gain 25% of this effect. This effect can reach 5 stacks.\
+> If Camille is already at Max HP, each trigger gives 2 stacks of the effect.
+
+**Promotion III**
+
+> Whenever Camille restores HP via a skill, he gains Heat DMG Dealt +4% (max stacks: 5) for 40s while other operators in the team gain 25% of this effect. This effect can reach 5 stacks.\
+> If Camille is already at Max HP, each trigger gives 2 stacks of the effect.
 
 ## Potentials
 
 | No. | Name | Effect |
 | --- | --- | --- |
-| 1 | Flame-Anointed Lance | Blazing Exorcism adds +5% Weakness and +5% Heat Susceptibility, and Firefang Vesperwings hover 15 s longer |
-| 2 | Tracker of Witch Scent | Agility +20, Intellect +20 |
-| 3 | Thorned Incapacitor | Heartstake Thorn has 2 s shorter cooldown, while both Heartstake Thorn and Hunter Pursuit deal 1.3 times damage and recover 1.15 times SP |
-| 4 | Agašlehem's Sigil | Sanguine Downpour costs 15% less Ultimate Energy |
-| 5 | Sanguine Convention | Bloodfount Revival increases its Heat damage bonus per stack by +6% |
+| 1 | Flame-Anointed Lance | Battle skill Blazing Exorcism improved: The skill applies Weakness +5% and Heat Susceptibility +5%. Firefang Vesperwings  hover duration +15s. |
+| 2 | Tracker of Witch Scent | Agility +20, Intellect +20. |
+| 3 | Thorned Incapacitor | Combo skill Heartstake Thorn improved: Length of cooldown -2s. Heartstake Thorn and Hunter Pursuit improved: DMG Multipliers are increased to 1.3 times the original; SP Recoveries are increased to 1.15 times the original. |
+| 4 | Agašlehem's Sigil | Ultimate Sanguine Downpour improved: Ultimate Energy cost -15%. |
+| 5 | Sanguine Convention | Talent Bloodfount Revival improved: Heat DMG boost per stack +6%. |
 
 ## Base skills
 
@@ -142,10 +190,10 @@ Base skills work while Camille is assigned to a room of the Dijiang. Each has tw
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |
-| Hemo-Vitreography β | Growth Chamber | Promotion I | Vitrified plants grow 20% faster |
-| Hemo-Vitreography γ | Growth Chamber | Promotion III | Vitrified plants grow 30% faster |
-| Agaš'mekanaz's Manual β | MFG Cabin | Promotion II | Operator EXP materials made 20% faster |
-| Agaš'mekanaz's Manual γ | MFG Cabin | Promotion IV | Operator EXP materials made 30% faster |
+| Hemo-Vitreography β | Growth Chamber | Promotion I | Assign to Growth Chamber to grant vitrified plant growth rate +20% |
+| Hemo-Vitreography γ | Growth Chamber | Promotion III | Assign to Growth Chamber to grant vitrified plant growth rate +30% |
+| Agaš'mekanaz's Manual β | MFG Cabin | Promotion II | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +20% |
+| Agaš'mekanaz's Manual γ | MFG Cabin | Promotion IV | Assign to Manufacturing Cabin to grant operator EXP material production efficiency +30% |
 
 ## Base stats
 

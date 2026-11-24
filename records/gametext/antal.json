@@ -1,0 +1,237 @@
+{
+ "slug": "antal",
+ "gameId": "chr_0023_antal",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"A mission for me? Good. I happen to be seeking field-testing opportunities for modified orbiters.\"  A member of Operations Team Z7 in Endfield, Antal works as a supporter and an Originium technology consultant. He is clever and quick on the uptake, but not the best at reading people. More than once he has dropped comments so out of place they leave the rest of the team groaning. Even so, his talent for Originium Arts is remarkable, though he himself seems hardly aware of it.  Influenced by his grandmother, Antal has little concern for conventional success and pours all his focus into whatever fascinates him. Be it an Originium device he has never seen before or a dry joke that leaves him marveling, this young Savra won't rest for days until he feels he has unraveled its secrets.\n\"Curiously, your presence greatly amplifies my eagerness to share my vast knowledge.\"",
+  "zh-TW": "「輪到我出任務了嗎？剛好，我也想找機會測試浮游炮的改造成效。」  終末地Z7行動組成員，負責輔助與源石技術顧問的工作。頭腦聰明，思維跳躍，不擅於感知他人情緒，與人溝通時常常會說出與氣氛格格不入的發言，讓隊員們頗為頭痛。不過，在源石技藝上，安塔爾其實擁有著極為出眾的天賦，雖然對此他並無太多自覺。  受祖母的影響，安塔爾對世俗的成功毫不在意，他幾乎將所有注意力都投注在了自己感興趣的事物上。例如一個他沒看過的源石裝置，又例如一個讓他嘖嘖稱奇的冷笑話，都能讓這位年輕的薩弗拉廢寢忘食地研究數個日夜，直到他覺得自己弄清楚了為止。    「很奇怪，一見到您，我的分享欲就格外強烈。」",
+  "zh-CN": "“轮到我出任务了么？正好，我也想找机会测试浮游炮的改造成效。” 终末地Z7行动组成员，负责辅助与源石技术顾问的工作。头脑聪明，思维跳跃，不擅于感知他人情绪，与人沟通时常常会作出和氛围格格不入的发言，让队员们颇为头疼。不过，在源石技艺上，安塔尔其实拥有着极为出众的天赋，虽说对此他并无太多自觉。 受祖母的影响，安塔尔对世俗的成功毫不在意，他几乎将所有注意力都投注在了自己感兴趣的事物上。比如一件他没见过的源石装置，又比如一个让他啧啧称奇的冷笑话，都能让这位年轻的萨弗拉废寝忘食地研究数个日夜，直到他觉得自己弄明白了为止。\n“很奇怪，一见到您，我的分享欲就格外强烈。”",
+  "ja": "「小生の出番であるな。ありがたい。浮遊砲の改造の成果を試してみたかったのだ。」 エンドフィールド行動隊Z7のメンバーで、サポートや源石技術の顧問を担当している。頭脳明晰で柔軟な思考の持ち主だが、他人の気持ちを読み取るのは苦手で、他人とのコミュニケーションでは場にそぐわない発言をして仲間たちが頭を抱えることもしばしば。しかし、本人はあまり自覚していないが、彼はアーツにおいて極めて優れた才能をもっている。 祖母に育てられたアンタルは、世間での成功などまったく気にしておらず、自分が興味を持つものにほぼ全精力を注いでいる。初めて目にする源石装置や、自分が素晴らしいと思う寒いギャグを前にすると、徹底的に理解するまで何日も寝食を忘れて研究に没頭するほどだ。\n「妙だ。お主を見ると、語りたい欲が爆発してしまう。」",
+  "ko": "\"이번엔 제가 임무에 나갈 차례입니까? 딱 좋네요. 마침 부유포의 개조 성능을 테스트하고 싶었거든요.\"  안탈은 엔드필드 Z7 작전팀의 멤버로 지원과 오리지늄 기술 고문 역할을 맡고 있다. 그는 영리하고 사고 전환이 빠르지만, 타인의 감정을 읽는데 서툴러서 종종 분위기와 어울리지 않는 말을 내뱉어 팀원들을 곤란하게 만들 때가 많다. 그러나 오리지늄 아츠 분야에서 안탈은 뛰어난 재능을 지녔으며, 본인은 그 사실을 크게 의식하지 못한다.  할머니의 영향으로 그는 물질적인 성공에는 별 관심이 없으며, 언제나 자신이 흥미를 느끼는 것에만 몰두해 왔다. 낯선 오리지늄 장치나, 혹은 우연히 들은 썰렁한 농담 하나에도 이 사브라 청년은 며칠 밤을 꼬박 새워서 연구할 만큼 열정적으로 매달렸다. 이해했다고 스스로 확신할 때까지 말이다.    \"이상하네요. 관리자님만 보면 제 얘기를 하고 싶다는 마음이 강렬하게 불타오르거든요.\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Exchange Current",
+    "zh-TW": "交換電流",
+    "zh-CN": "交换电流",
+    "ja": "交換電流",
+    "ko": "교환 전류"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 4 sequences that deals Electric DMG. As the controlled operator, Final Strike also deals 15 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Electric DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Electric DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多4段攻擊，造成電磁傷害。作為主控幹員時，重擊會造成15點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下落並攻擊附近敵人，造成電磁傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量電磁傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多4段攻击，造成电磁伤害。作为主控干员时，重击会造成15点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成电磁伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量电磁伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大4段の攻撃で敵に電磁ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値15を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に電磁ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い電磁ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 4단 공격을 하여 전기 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 15포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 전기 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 전기 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "Specified Research Subject",
+    "zh-TW": "指定研究對象",
+    "zh-CN": "指定研究对象",
+    "ja": "指定研究対象",
+    "ko": "지정 연구 대상"
+   },
+   "text": {
+    "en": "Applies Focus with a long duration on the enemy and deals Electric DMG. An enemy with an active Focus also suffers Electric Susceptibility and Heat Susceptibility. Focus can only be applied to 1 enemy at any given time.",
+    "zh-TW": "對敵人施加長時間聚焦，造成電磁傷害，被聚焦的敵人受到電磁脆弱和灼熱脆弱，同時最多聚焦1個敵人。",
+    "zh-CN": "对敌人施加长时间聚焦，造成电磁伤害，被聚焦的敌人受到电磁脆弱和灼热脆弱，同时最多聚焦1个敌人。",
+    "ja": "敵を長時間フォーカスし、電磁ダメージを与える。フォーカス中の敵は電磁脆弱および灼熱脆弱状態になる。敵は最大1体までフォーカスできる。",
+    "ko": "적을 오랜 시간 포커싱하여 전기 피해를 줍니다. 포커싱 당한 적에게 전기 취약과 열기 취약 상태를 부여하고, 최대 1명의 적만 포커싱할 수 있습니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "EMP Test Site",
+    "zh-TW": "磁暴實驗場",
+    "zh-CN": "磁暴试验场",
+    "ja": "磁気嵐実験場",
+    "ko": "자기 폭풍 실험장"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When an enemy with active Focus suffers a Physical Status or Arts Infliction.\nTriggers 1 energy explosion on the enemy that deals Electric DMG and applies another stack of the same Physical Status or Arts Infliction.",
+    "zh-TW": "當被聚焦的敵人進入物理異常或法術附著狀態時可以發動。\n在該敵人身上引發1次能量爆炸，造成電磁傷害並再次對其施加該物理異常或法術附著。",
+    "zh-CN": "当被聚焦的敌人进入物理异常或法术附着状态时可以发动。\n在该敌人身上引发1次能量爆炸，造成电磁伤害并再次对其施加该物理异常或法术附着。",
+    "ja": "フォーカス中の敵が物理異常またはアーツ付着状態になったときに発動可能。\n敵にエネルギー爆発を1回引き起こし、電磁ダメージを与える。さらに、物理異常またはアーツ付着を再度付与する。",
+    "ko": "포커싱 당한 적이 물리 이상 효과 혹은 아츠 부착 상태일 때 사용할 수 있습니다.\n해당 적에게 에너지 폭발 1회를 일으켜 전기 피해를 주고, 다시 대상에게 해당 물리 이상 효과 혹은 아츠 부착 상태를 부여합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "Overclocked Moment",
+    "zh-TW": "超頻時刻",
+    "zh-CN": "超频时刻",
+    "ja": "リミッター、解除",
+    "ko": "오버클록 타임"
+   },
+   "text": {
+    "en": "Applies temporary Electric Amp and Heat Amp to the entire team.",
+    "zh-TW": "對全隊施加一段時間的電磁增幅和灼熱增幅。",
+    "zh-CN": "对全队施加一段时间的电磁增幅和灼热增幅。",
+    "ja": "チーム全員に一定時間の電磁増幅と灼熱増幅を付与する。",
+    "ko": "팀 전체에게 일정 시간 동안 전기 증폭과 열기 증폭을 부여합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Improviser",
+    "zh-TW": "即興發揮",
+    "zh-CN": "即兴发挥",
+    "ja": "アドリブ",
+    "ko": "즉흥적인 천재성"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "After an Amped teammate's skill deals DMG, Antal restores the said teammate's HP by [72 + Strength×0.6]. This HP restoring effect triggers 1 time every 30s for each operator.",
+      "zh-TW": "隊伍中處於增幅狀態的幹員造成技能傷害後，安塔爾為其回復[72+力量×0.6]點生命值，每個幹員每30秒最多受到1次該回復效果。",
+      "zh-CN": "队伍中处于增幅状态的干员造成技能伤害后，安塔尔为其回复[72+力量×0.6]点生命值，每个干员每30秒最多受到1次该回复效果。",
+      "ja": "チーム内の増幅状態のオペレーターがスキルダメージを与えると、アンタルがそのオペレーターのHPを[72+筋力×0.6]回復させる\nオペレーター1人につき、30秒に1回までこの回復効果を受けられる",
+      "ko": "증폭 상태의 팀원이 스킬 피해를 준 후, 안탈이 해당 오퍼레이터의 생명력을 [72+힘×0.6]포인트 회복시킵니다. 매 오퍼레이터마다 30초 동안 최대 1회만 회복시킵니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "After an Amped teammate's skill deals DMG, Antal restores the said teammate's HP by [108 + Strength×0.9]. This HP restoring effect triggers 1 time every 30s for each operator.",
+      "zh-TW": "隊伍中處於增幅狀態的幹員造成技能傷害後，安塔爾為其回復[108+力量×0.9]點生命值，每個幹員每30秒最多受到1次該回復效果。",
+      "zh-CN": "队伍中处于增幅状态的干员造成技能伤害后，安塔尔为其回复[108+力量×0.9]点生命值，每个干员每30秒最多受到1次该回复效果。",
+      "ja": "チーム内の増幅状態のオペレーターがスキルダメージを与えると、アンタルがそのオペレーターのHPを[108+筋力×0.9]回復させる\nオペレーター1人につき、30秒に1回までこの回復効果を受けられる",
+      "ko": "증폭 상태의 팀원이 스킬 피해를 준 후, 안탈이 해당 오퍼레이터의 생명력을 [108+힘×0.9]포인트 회복시킵니다. 매 오퍼레이터마다 30초 동안 최대 1회만 회복시킵니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Subconscious Act",
+    "zh-TW": "下意識",
+    "zh-CN": "下意识",
+    "ja": "無意識",
+    "ko": "무의식"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Gains 30% chance of Physical DMG immunity and restores HP of self by [27 + Strength×0.23].",
+      "zh-TW": "有30%的機率免疫物理傷害，並回復自身[27+力量×0.23]點生命值。",
+      "zh-CN": "有30%的概率免疫物理伤害，并回复自身[27+力量×0.23]点生命值。",
+      "ja": "30%の確率で物理ダメージが無効になり、自身のHPを[27+筋力×0.23]回復する",
+      "ko": "30%의 확률로 물리 피해에 면역되고, 자기 생명력을 [27+힘×0.23]포인트 회복합니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "Gains 30% chance of Physical DMG immunity and restores HP of self by [45 + Strength×0.38].",
+      "zh-TW": "有30%的機率免疫物理傷害，並回復自身[45+力量×0.38]點生命值。",
+      "zh-CN": "有30%的概率免疫物理伤害，并回复自身[45+力量×0.38]点生命值。",
+      "ja": "30%の確率で物理ダメージが無効になり、自身のHPを[45+筋力×0.38]回復する",
+      "ko": "30%의 확률로 물리 피해에 면역되고, 자기 생명력을 [45+힘×0.38]포인트 회복합니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Arts Talent",
+    "zh-TW": "術法天分",
+    "zh-CN": "术法天分",
+    "ja": "与えられしアーツの才覚",
+    "ko": "아츠 적성"
+   },
+   "text": {
+    "en": "Ultimate Overclocked Moment improved: Electric Amp and Heat Amp effects are increased to 1.1 times the original.",
+    "zh-TW": "終結技超頻時刻提供的電磁增幅和灼熱增幅效果提高至原本的1.1倍。",
+    "zh-CN": "终结技超频时刻提供的电磁增幅和灼热增幅效果提高至原本的1.1倍。",
+    "ja": "必殺技「リミッター、解除」による電磁増幅と灼熱増幅効果が1.1倍までアップする",
+    "ko": "궁극기 오버클록 타임이 제공하는 전기 증폭과 열기 증폭의 효과가 기존의 1.1배로 증가합니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Improved Automation",
+    "zh-TW": "自動化改良",
+    "zh-CN": "自动化改良",
+    "ja": "自動化研究",
+    "ko": "자동화 개량"
+   },
+   "text": {
+    "en": "Ultimate Overclocked Moment improved: Ultimate Energy cost -10%.",
+    "zh-TW": "終結技超頻時刻所需的終結技能量-10%。",
+    "zh-CN": "终结技超频时刻所需的终结技能量-10%。",
+    "ja": "必殺技「リミッター、解除」に必要な必殺チャージ-10%",
+    "ko": "궁극기 오버클록 타임의 사용에 필요한 궁극기 에너지 -10%"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Applied Originium Theory",
+    "zh-TW": "源石理論應用",
+    "zh-CN": "源石理论应用",
+    "ja": "源石理論応用",
+    "ko": "오리지늄 이론 응용"
+   },
+   "text": {
+    "en": "When an enemy with an active Focus debuff is defeated, return 15 SP.",
+    "zh-TW": "若被聚焦的敵人在聚焦期間被擊敗，返還15點技力。",
+    "zh-CN": "若被聚焦的敌人在聚焦期间被击败，返还15点技力。",
+    "ja": "フォーカス持続中の敵が倒された場合、SPが15返還される",
+    "ko": "포커싱 당한 적이 포커싱이 지속되는 동안 처치되면, 스킬 게이지 15포인트를 반환합니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "Granny's Reminder",
+    "zh-TW": "奶奶的叮囑",
+    "zh-CN": "奶奶的叮嘱",
+    "ja": "祖母の教え",
+    "ko": "할머니의 말씀"
+   },
+   "text": {
+    "en": "Intellect +10, Max HP +10%.",
+    "zh-TW": "智識+10，最大生命值+10%。",
+    "zh-CN": "智识+10，最大生命值+10%。",
+    "ja": "知性+10、最大HP+10%",
+    "ko": "지능 +10, 최대 생명력 +10%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "High Specs Tech Tester",
+    "zh-TW": "高規格技術測試",
+    "zh-CN": "高规格技术测试",
+    "ja": "高規格技術テスト",
+    "ko": "고사양 기술 테스트"
+   },
+   "text": {
+    "en": "Applying Focus on the same target for 20s increases Electric Susceptibility and Heat Susceptibility effects by 4%.",
+    "zh-TW": "聚焦同一個目標20秒以後，電磁脆弱和灼熱脆弱效果會提高4%。",
+    "zh-CN": "聚焦同一个目标20秒以后，电磁脆弱和灼热脆弱效果会提高4%。",
+    "ja": "同じ目標を20秒間フォーカスすると、電磁脆弱と灼熱脆弱の効果+4%",
+    "ko": "같은 목표에 20초 동안 포커싱한 후, 전기 취약과 열기 취약 효과가 4% 증가합니다."
+   }
+  }
+ ]
+}

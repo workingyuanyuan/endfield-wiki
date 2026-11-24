@@ -1,0 +1,237 @@
+{
+ "slug": "purrchena",
+ "gameId": "chr_0038_purrche",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "intro": {
+  "en": "\"My turn to ... 'Meow-dy!' ...Ugh, how am I asleep again?!\"\nPurrchena is a big fan of desserts and serves as the spokesperson for the Ætherside Environmental Impact Syndrome Relief Foundation. She joined the Business Office of Endfield Industries at the recommendation of the Talos-II General Chamber of Commerce (TGCC) and has since become the liaison between Endfield and TGCC in the field of Ætherside Syndrome.\nWhen Purrchena first stepped into the public eye, the love and care people showed her made her aware of the responsibility she carried. But after she became the Foundation's spokesperson and stood alongside those living with Ætherside Syndrome, she realized how little she could do. Even though Ætherside Syndrome often caused her to fall asleep without warning, every time she woke up, she would set out again, carrying everyone's love with her. In her own way, Purrchena keeps the other patients receiving help smiling.\n\"Got my marshmallows and exotic dried fin... Alright, I'm good to go!\"",
+  "zh-TW": "「又到我……『你好。』……呃，怎麼又睡著了！」\n熱愛點心的噗切娜是超域環境影響症候群救助基金會的形象代言人。她在環塔商會的引薦下，加入了終末地工業商務辦公室，成為終末地工業與環塔商會在超域症候群領域上的聯絡人。\n當噗切娜第一次出現在大眾視野中時，她從人們給予她的關愛中，看見了自己肩上的重擔；但當她真正成為基金會的形象代言人，站在了超域症候群患者們之中後，她又感覺到自己能做的事情十分有限。即便超域症候群使她經常突然陷入沉睡，她也總是在甦醒後，帶著所有人凝聚在她身上的喜愛，四處奔走。噗切娜用自己的方式，讓微笑始終掛在其他被救助的患者們臉上。\n「棉花糖、怪味鱗乾……嗯，可以出發了！」",
+  "zh-CN": "“又到我……‘你好。’……呃，怎么又睡着了！”\n热爱点心的噗切娜是超域环境影响综合征救助基金会的形象代言人。她在环塔商会的引荐下，加入了终末地工业商务办公室，成为终末地工业与环塔商会在超域综合征领域上的联络人。\n当噗切娜第一次出现在大众视野中时，她从人们给予她的关爱中，看见了自己肩上的重担；但当她真正成为基金会的形象代言人，站在了超域综合征患者们之中后，她又感觉到自己能做的事情十分有限。即便超域综合征使她经常突然陷入沉睡，她也总是在苏醒后，带着所有人凝聚在她身上的喜爱，四处奔走。噗切娜用自己的方式，让微笑始终挂在其他被救助的患者们脸上。\n“棉花糖、怪味鳞干……嗯，可以出发了！”",
+  "ja": "「よおし、わたしの……『やあ！』……ふわわあっ、寝ちゃってました！」\nお菓子が大好きなプチエナは超域影響症候群支援財団のアンバサダーである。環タロ商会の推薦を受け、エンドフィールド工業マーケティング部に加入し、エンドフィールド工業と環タロ商会の超域症候群における連絡員となった。\nプチエナが初めて人々の前に姿を現したとき、皆から寄せられる数々の好意の中で、彼女は自らの肩に課せられた責任の重さを知ったが、財団のアンバサダーとして超域症候群の患者たちの前に立つようになってからは、自分にできることの小ささを痛感することもあった。超域症候群の影響で、彼女は時に不意に眠りに落ちてしまう。それでも目を覚ませば、人々から受け取った愛を胸に、再び各地を駆け回る。プチエナはいつも自分なりのやり方で、他の救助された患者たちに笑顔を届けている。\n「マシュマロに、変味干し鱗獣っと……しゅっぱ～つ！」",
+  "ko": "\"또 내 차례네...'안녕'...어? 나 또 잠든 거야?\"\n디저트를 좋아하는 푸치나는 초자연 환경 영향 증후군 구호 기금회의 홍보대사이다. 그녀는 탈로스 II 상업연합회의 추천으로 엔드필드 공업 사업지원실에 합류해, 엔드필드 공업과 탈로스 II 상업연합회 사이의 초자연 증후군 분야 연락책이 되었다.\n푸치나가 처음 대중 앞에 모습을 드러냈을 때, 그녀는 사람들이 건네준 따뜻한 마음으로부터 자신이 짊어진 무거운 책임을 깨달았다. 하지만 막상 기금회의 홍보대사가 되어 초자연 증후군 환자들 사이에 서게 되었을 때, 그녀는 자신이 할 수 있는 일이 한계가 있다는 사실을 실감했다. 비록 앓고 있는 초자연 증후군 때문에 불쑥불쑥 잠에 빠져들곤 하지만, 그녀는 눈을 뜰 때마다 사람들이 자신에게 보내준 애정을 가슴에 품고서 부지런히 발걸음을 옮긴다. 푸치나는 늘 자신만의 방식으로, 다른 환자들의 얼굴에 웃음꽃을 피우기 위해 노력한다.\n\"시멜로, 말린 린수... 응, 다 챙겼어. 이제 출발하자!\""
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "DESSERT! HAVE SOME!",
+    "zh-TW": "點心，嚐嚐！",
+    "zh-CN": "点心，尝尝！",
+    "ja": "お菓子、どうぞ～！",
+    "ko": "디저트, 먹어 봐!"
+   },
+   "text": {
+    "en": "BASIC ATTACK:\nAn attack with up to 3 sequences that deals Physical DMG. As the controlled operator, Final Strike also deals 21 Stagger.\n\nDIVE ATTACK:\nBasic attack performed in mid-air becomes a dive attack that deals Physical DMG to nearby enemies.\n\nFINISHER:\nBasic attack performed near a Staggered enemy becomes a finisher that deals massive Physical DMG and recovers some SP.",
+    "zh-TW": "普通攻擊：\n對敵人進行最多3段攻擊，造成物理傷害。作為主控幹員時，重擊會造成21點失衡。\n\n下墜攻擊：\n處於空中時使用普通攻擊，會下墜並攻擊附近敵人，造成物理傷害。\n\n處決攻擊：\n附近有敵人處於失衡狀態時使用普通攻擊，將處決該敵人，造成大量物理傷害並回復一定技力。",
+    "zh-CN": "普通攻击：\n对敌人进行至多3段攻击，造成物理伤害。作为主控干员时，重击会造成21点失衡。\n\n下落攻击：\n处于空中时使用普通攻击，会下落并攻击附近敌人，造成物理伤害。\n\n处决攻击：\n附近有敌人处于失衡状态时使用普通攻击，将处决该敌人，造成大量物理伤害并恢复一定技力。",
+    "ja": "通常攻撃：\n最大3段の攻撃で敵に物理ダメージを与える。操作中のオペレーターの場合、重攻撃はブレイク値21を与える。\n\n落下攻撃：\n空中で通常攻撃を使用すると、落下して周囲の敵に物理ダメージを与える。\n\n終撃：\n近くにブレイク状態の敵がいるときに通常攻撃を使用すると、その敵に終撃を行い、高い物理ダメージを与えてSPを一定量回復する。",
+    "ko": "일반 공격:\n적에게 최대 3단 공격을 하여 물리 피해를 줍니다. 메인 컨트롤 오퍼레이터라면 강력한 일격이 21포인트의 불균형 피해를 줍니다.\n\n낙하 공격:\n공중에 떴을 때, 일반 공격을 사용하면 낙하하며 주변의 적을 공격하고 물리 피해를 줍니다.\n\n처형 공격:\n주변에 불균형 상태의 적이 있을 때, 일반 공격을 사용하면 해당 적을 처형하여 대량의 물리 피해를 주고 일정량의 스킬 게이지를 회복합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "I'M NOT SLEEPING!",
+    "zh-TW": "我沒有睡著！",
+    "zh-CN": "我没有睡着！",
+    "ja": "寝てませんよ！",
+    "ko": "나 안 잤어!"
+   },
+   "text": {
+    "en": "Purrchena raises up her shield to block an attack and immediately returns some SP. While Purrchena's shield is up, she grants Protection to herself and nearby operators. During the battle skill, the first successful block extends the shield up duration and returns additional SP. After casting, Purrchena's battle skill is temporarily changed to LEAVE MY FRIENDS ALONE!.\nLEAVE MY FRIENDS ALONE!: Purrchena headbutts a target in front of her to deal Nature DMG and apply Nature Infliction.\nProtection granted during shield-raising is reduced after every blocked attack.",
+    "zh-TW": "架起盾牌格擋攻擊，立盾期間使自身及周圍幹員獲得庇護，並立即返還一定技力。立盾期間首次成功格擋後延長立盾時間，並額外返還一定技力。施放後戰技在一段時間内替換為離我的朋友遠點！。\n離我的朋友遠點！：對面前的目標使用頭槌撞擊，造成自然傷害，並施加自然附著。\n立盾期間提供的庇護效果會隨格擋次數增加而降低。",
+    "zh-CN": "架起盾牌格挡攻击，立盾期间使自身及周围干员获得庇护，并立即返还一定技力。立盾期间首次成功格挡后延长立盾时间，并额外返还一定技力。施放后战技在一段时间内替换为离我的朋友远点！。\n离我的朋友远点！：对面前的目标使用头槌撞击，造成自然伤害，并施加自然附着。\n立盾期间提供的庇护效果会随格挡次数增加而降低。",
+    "ja": "盾を構えて攻撃をブロックする。構えている間、自身と周囲のオペレーターに加護を与え、即座にSPが一定量返還される。構えている間、初めてブロックに成功すると盾を構える時間が延長し、追加でSPが一定量返還される。発動後、戦技は一定時間「お友だちから離れろ～！」に替わる。\nお友だちから離れろ～！：前方の目標に頭突きして自然ダメージを与え、さらに自然付着を付与する。\n盾を構えている間に付与される加護効果は、ブロック回数が増えるほどダウンする。",
+    "ko": "푸치나가 방패를 들어 적의 공격을 막아냅니다. 방패를 들고 있는 동안 자신과 주변 오퍼레이터가 비호 효과를 획득하고, 즉시 일정량의 스킬 게이지를 반환합니다. 방패를 들고 있는 동안 최초로 공격을 막아내면 방패 유지 시간이 연장되고, 일정량의 스킬 게이지를 추가로 반환합니다. 스킬 발동 후, 일정 시간 동안 배틀 스킬이 내 친구한테서 떨어져!로 교체됩니다.\n내 친구한테서 떨어져!: 눈앞의 목표에 머리 박치기를 날려 자연 피해를 주고, 자연 부착을 부여합니다.\n방패를 들고 있는 동안 제공되는 비호 효과는 공격을 막아낸 횟수가 늘어날수록 감소합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "CAKE OR \"PREZZIE\"",
+    "zh-TW": "點心還是「禮物」",
+    "zh-CN": "点心还是“礼物”",
+    "ja": "お菓子or“プレゼント”",
+    "ko": "디저트인가, 아니면 '선물'인가"
+   },
+   "text": {
+    "en": "COMBO TRIGGER: When the controlled operator is attacked.\nThrows a Giftbox at the controlled operator. The Giftbox opens after a short delay, granting HP Treatment to nearby operators, randomly revealing one of the following items, and triggering the effects of the revealed item:\nBomb: Deals Physical DMG and additional Stagger to enemies in the area of effect (AOE).\nHandicraft: Continuously pulls in nearby enemies and deals Physical DMG.\nYummy Dessert: Grants HP Treatment to the controlled operator.\nThe attribute of Will increases the amount of HP treatment.",
+    "zh-TW": "主控幹員受到攻擊後可以發動。\n向主控幹員扔出一個禮物匣子，禮物匣子會在短暫延遲後開啟，治療範圍內的幹員，隨機開出一個以下物品並觸發對應效果：\n炸彈：對範圍內的敵人造成物理傷害並且額外造成一定失衡。\n手工作業：持續吸引附近的敵人並對其造成物理傷害。\n好吃的點心：治療主控幹員。\n意志可以額外提高治療量。",
+    "zh-CN": "主控干员受到攻击后可以发动。\n向主控干员扔出一个礼物匣子，礼物匣子会在短暂延迟后开启，治疗范围内的干员，随机开出一个以下物品并触发对应效果：\n炸弹：对范围内的敌人造成物理伤害并且额外造成一定失衡。\n手工作业：持续吸引附近的敌人并对其造成物理伤害。\n好吃的点心：治疗主控干员。\n意志可以额外提高治疗量。",
+    "ja": "操作中のオペレーターが攻撃を受けると発動可能。\n操作オペレーターにギフトボックスを投げる。ギフトボックスは一定時間後に開き、範囲内のオペレーターを治療する。さらに、以下のいずれか1つのアイテムがランダムで出現し、それぞれの効果を発動する。\n爆弾：範囲内の敵に物理ダメージを与え、追加で一定量のブレイク値を与える。\n手作りアイテム：持続的に近くの敵を引き寄せ、物理ダメージを与える。\nおいし～お菓子：操作オペレーターのHPを回復する。\n回復量は意志の値に応じて追加でアップする。",
+    "ko": "메인 컨트롤 오퍼레이터가 공격을 받은 후 사용할 수 있습니다.\n메인 컨트롤 오퍼레이터에게 선물 상자 하나를 던집니다. 잠시 후, 선물 상자가 열리면 범위 내 오퍼레이터를 치유하고, 다음 아이템 중 하나가 무작위로 나와 해당 효과를 발동합니다.\n폭탄: 범위 내의 적에게 물리 피해를 주고, 추가로 일정량의 불균형 피해를 줍니다.\n제작 과제: 주변의 적을 지속적으로 끌어당기며 물리 피해를 줍니다.\n맛있는 디저트: 메인 컨트롤 오퍼레이터를 치유합니다.\n의지 수치에 따라 치유량이 추가로 증가합니다."
+   },
+   "conditions": []
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "NAUGHTY IS BANNED!",
+    "zh-TW": "不許幹壞事！",
+    "zh-CN": "不许干坏事！",
+    "ja": "悪いことは許しませ～ん！",
+    "ko": "말썽 피우면 안 돼!"
+   },
+   "text": {
+    "en": "Purrchena opens 3 Big Feline's Prezzies. Each Big Feline's Prezzie randomly reveals a Bomb or a piece of Handicraft.\nThere is a chance that the Prezzie reveals Ambassador's Special that applies Arts Susceptibility and deals Physical DMG as well as additional Stagger to enemies.",
+    "zh-TW": "打開三個大菲林禮盒。每個大菲林禮盒將隨機開出炸彈或手工作業。\n有一定機率開出代言人的特殊贈禮，對敵人造成物理傷害，額外造成一定失衡，並且施加法術脆弱。",
+    "zh-CN": "打开三个大菲林礼盒。每个大菲林礼盒将随机开出炸弹或手工作业。\n有一定概率开出代言人的特殊赠礼，对敌人造成物理伤害，额外造成一定失衡，并且施加法术脆弱。",
+    "ja": "でっかいフェリーンのギフトを3つ開ける。それぞれのでっかいフェリーンのギフトからは爆弾か手作りアイテムがランダムで出現する。\n一定確率でアンバサダーのスペシャルギフトが出現し、敵に物理ダメージを与えて、追加で一定量のブレイク値を与える。さらに追加でアーツ脆弱を付与する。",
+    "ko": "거대한 필라인의 선물 상자 3개를 엽니다. 각 거대한 필라인의 선물 상자에서는 폭탄 또는 제작 과제가 무작위로 나옵니다.\n일정 확률로 홍보대사의 특수 선물이 나오며, 적에게 물리 피해 및 일정량의 추가 불균형 피해를 주고 아츠 취약을 부여합니다."
+   },
+   "conditions": []
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Your sorry came LATE!",
+    "zh-TW": "道歉也來不及了！",
+    "zh-CN": "道歉也来不及了！",
+    "ja": "謝っても遅いのですっ！",
+    "ko": "사과해도 안 봐줄 거다?"
+   },
+   "levels": [
+    {
+     "promotion": 1,
+     "text": {
+      "en": "Battle skill I'M NOT SLEEPING! improved: After successfully blocking an enemy attack for the first time, the skill gives 6 additional Ultimate Energy. Chance for Ambassador's Special of the next ultimate NAUGHTY IS BANNED! is increased by 10%. This effect can reach 3 stacks.",
+      "zh-TW": "戰技我沒有睡著！首次成功格擋敵人攻擊後，額外獲得6點終結技能量，並提升10%下一次終結技不許幹壞事！開出代言人的特殊贈禮的機率，該效果最多疊加3層。",
+      "zh-CN": "战技我没有睡着！首次成功格挡敌人攻击后，额外获得6点终结技能量，并提升10%下一次终结技不许干坏事！开出代言人的特殊赠礼的概率，该效果最多叠加3层。",
+      "ja": "戦技「寝てませんよ！」で初めて敵の攻撃のブロックに成功すると、追加で必殺チャージが6回復する\nさらに、次の必殺技「悪いことは許しませ～ん！」でアンバサダーのスペシャルギフトが出現する確率が10%アップする\n（最大3回まで重ね掛け可能）",
+      "ko": "배틀 스킬 나 안 잤어!로 적의 공격을 처음 막아내면 궁극기 에너지를 추가로 6포인트 획득합니다. 또한, 다음 궁극기 말썽 피우면 안 돼!에서 홍보대사의 특수 선물이 나올 확률이 10% 증가합니다. 해당 효과는 최대 3스택까지 중첩됩니다."
+     }
+    },
+    {
+     "promotion": 2,
+     "text": {
+      "en": "Battle skill I'M NOT SLEEPING! improved: After successfully blocking an enemy attack for the first time, the skill gives 10 additional Ultimate Energy. Chance for Ambassador's Special of the next ultimate NAUGHTY IS BANNED! is increased by 10%. This effect can reach 3 stacks.",
+      "zh-TW": "戰技我沒有睡著！首次成功格擋敵人攻擊後，額外獲得10點終結技能量，並提升10%下一次終結技不許幹壞事！開出代言人的特殊贈禮的機率，該效果最多疊加3層。",
+      "zh-CN": "战技我没有睡着！首次成功格挡敌人攻击后，额外获得10点终结技能量，并提升10%下一次终结技不许干坏事！开出代言人的特殊赠礼的概率，该效果最多叠加3层。",
+      "ja": "戦技「寝てませんよ！」で初めて敵の攻撃のブロックに成功すると、追加で必殺チャージが10回復する\nさらに、次の必殺技「悪いことは許しませ～ん！」でアンバサダーのスペシャルギフトが出現する確率が10%アップする\n（最大3回まで重ね掛け可能）",
+      "ko": "배틀 스킬 나 안 잤어!로 적의 공격을 처음 막아내면 궁극기 에너지를 추가로 10포인트 획득합니다. 또한, 다음 궁극기 말썽 피우면 안 돼!에서 홍보대사의 특수 선물이 나올 확률이 10% 증가합니다. 해당 효과는 최대 3스택까지 중첩됩니다."
+     }
+    }
+   ]
+  },
+  {
+   "name": {
+    "en": "Ambassador's Duty",
+    "zh-TW": "代言人的職責",
+    "zh-CN": "代言人的职责",
+    "ja": "アンバサダーの務め",
+    "ko": "홍보대사의 책임"
+   },
+   "levels": [
+    {
+     "promotion": 2,
+     "text": {
+      "en": "When deployed in battle, all Max HP operators in the team take 50% less DMG from the next hit taken.\nFor each operator, this effect can only trigger once every 180s.",
+      "zh-TW": "在場時，使小隊內所有生命值已滿的幹員下一次受到的傷害降低50%。\n每名幹員每180秒最多觸發一次該效果。",
+      "zh-CN": "在场时，使小队内所有生命值已满的干员下一次受到的伤害降低50%。\n每名干员每180秒最多触发一次该效果。",
+      "ja": "戦場に出ている間、チーム内のHPが満タンのオペレーター全員は次に受けるダメージが50%ダウンする\n各オペレーターは、180秒ごとに1回までこの効果を発動できる",
+      "ko": "필드에 있을 때, 팀 내 생명력이 최대인 오퍼레이터가 다음에 받는 피해가 50% 감소합니다.\n각 오퍼레이터는 180초마다 최대 1회만 해당 효과를 발동할 수 있습니다."
+     }
+    },
+    {
+     "promotion": 3,
+     "text": {
+      "en": "When deployed in battle, all Max HP operators in the team take 50% less DMG from the next hit taken.\nFor each operator, this effect can only trigger once every 90s.",
+      "zh-TW": "在場時，使小隊內所有生命值已滿的幹員下一次受到的傷害降低50%。\n每名幹員每90秒最多觸發一次該效果。",
+      "zh-CN": "在场时，使小队内所有生命值已满的干员下一次受到的伤害降低50%。\n每名干员每90秒最多触发一次该效果。",
+      "ja": "戦場に出ている間、チーム内のHPが満タンのオペレーター全員は次に受けるダメージが50%ダウンする\n各オペレーターは、90秒ごとに1回までこの効果を発動できる",
+      "ko": "필드에 있을 때, 팀 내 생명력이 최대인 오퍼레이터가 다음에 받는 피해가 50% 감소합니다.\n각 오퍼레이터는 90초마다 최대 1회만 해당 효과를 발동할 수 있습니다."
+     }
+    }
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Warm Like the Sun",
+    "zh-TW": "太陽般溫暖",
+    "zh-CN": "太阳般温暖",
+    "ja": "太陽みたいにあったかい",
+    "ko": "태양처럼 따뜻하게"
+   },
+   "text": {
+    "en": "Ultimate NAUGHTY IS BANNED! improved: Base chance for Ambassador's Special is increased to 1.5 times the original.",
+    "zh-TW": "終結技不許幹壞事！開出代言人的特殊贈禮的基礎機率提升至原本的1.5倍。",
+    "zh-CN": "终结技不许干坏事！开出代言人的特殊赠礼的基础概率提升至原本的1.5倍。",
+    "ja": "必殺技「悪いことは許しませ～ん！」でアンバサダーのスペシャルギフトの基礎出現確率が1.5倍までアップする",
+    "ko": "궁극기 말썽 피우면 안 돼!의 상자에서 홍보대사의 특수 선물이 등장할 기본 확률이 기존의 1.5배로 증가합니다."
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "\"Super Energetic\"",
+    "zh-TW": "「精力十足」",
+    "zh-CN": "“精力十足”",
+    "ja": "「エネルギッシュ」",
+    "ko": "'넘치는 기운'"
+   },
+   "text": {
+    "en": "DEF +20, Will +20.",
+    "zh-TW": "防禦力+20，意志+20。",
+    "zh-CN": "防御力+20，意志+20。",
+    "ja": "防御力+20、意志+20",
+    "ko": "방어력 +20, 의지 +20"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Useful \"Prezzies\"",
+    "zh-TW": "「禮」盡其用",
+    "zh-CN": "“礼”尽其用",
+    "ja": "「礼」はムダなく",
+    "ko": "'선물' 활용의 달인"
+   },
+   "text": {
+    "en": "Combo skill CAKE OR \"PREZZIE\" improved:\nBomb: DMG Multiplier increased to 1.2 times the original.\nHandicraft: Effect radius +20%.\nYummy Dessert: HP Treatment increased to 1.2 times the original.",
+    "zh-TW": "連攜技點心還是「禮物」效果加強：\n炸彈：傷害倍率提升至原本的1.2倍。\n手工作業：作用範圍+20%。\n好吃的點心：治療效果提升至原本的1.2倍。",
+    "zh-CN": "连携技点心还是“礼物”效果加强：\n炸弹：伤害倍率提升至原本的1.2倍。\n手工作业：作用范围+20%。\n好吃的点心：治疗效果提升至原本的1.2倍。",
+    "ja": "連携技「お菓子or“プレゼント”」強化：\n爆弾：ダメージ倍率が1.2倍までアップする\n手作りアイテム：効果範囲+20%\nおいし～お菓子：回復効果が1.2倍までアップする",
+    "ko": "연계 스킬 디저트인가, 아니면 '선물'인가의 효과가 강화됩니다.\n폭탄: 피해 배율이 기존의 1.2배로 증가합니다.\n제작 과제: 효과 범위 +20%.\n맛있는 디저트: 치유 효과가 기존의 1.2배로 증가합니다."
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "After the Feast",
+    "zh-TW": "美餐之後",
+    "zh-CN": "美餐之后",
+    "ja": "ごちそうのあと",
+    "ko": "아, 배부르다!"
+   },
+   "text": {
+    "en": "Ultimate NAUGHTY IS BANNED! improved: Ultimate Energy cost -15%.",
+    "zh-TW": "終結技不許幹壞事！所需的終結技能量-15%。",
+    "zh-CN": "终结技不许干坏事！所需的终结技能量-15%。",
+    "ja": "必殺技「悪いことは許しませ～ん！」に必要な必殺チャージ-15%",
+    "ko": "궁극기 말썽 피우면 안 돼!의 사용에 필요한 궁극기 에너지 -15%"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "Hot Like a BBQ Fire",
+    "zh-TW": "薪火般熾熱",
+    "zh-CN": "薪火般炽热",
+    "ja": "焚き火よりアチチッ",
+    "ko": "불꽃처럼 뜨겁게"
+   },
+   "text": {
+    "en": "Ultimate NAUGHTY IS BANNED! improved:\nAmbassador's Special: DMG Multiplier is increased to 1.2 times the original.\nAmbassador's Special: Arts Susceptibility is increased to 1.2 times the original.",
+    "zh-TW": "終結技不許幹壞事！效果加強：\n代言人的特殊贈禮：傷害倍率提升至原本的1.2倍。\n代言人的特殊贈禮：法術脆弱效果提升至原本的1.2倍。",
+    "zh-CN": "终结技不许干坏事！效果加强：\n代言人的特殊赠礼：伤害倍率提升至原本的1.2倍。\n代言人的特殊赠礼：法术脆弱效果提升至原本的1.2倍。",
+    "ja": "必殺技「悪いことは許しませ～ん！」強化：\nアンバサダーのスペシャルギフト：ダメージ倍率が1.2倍までアップする\nアンバサダーのスペシャルギフト：アーツ脆弱効果が1.2倍までアップする",
+    "ko": "궁극기 말썽 피우면 안 돼!의 효과 강화:\n홍보대사의 특수 선물: 피해 배율이 기존의 1.2배로 증가합니다.\n홍보대사의 특수 선물: 아츠 취약 효과가 기존의 1.2배로 증가합니다."
+   }
+  }
+ ]
+}

@@ -5,6 +5,8 @@
 #
 # Steps: replace Taiwan wording with the wording of the mainland official site (VOC), convert the characters (OpenCC tw2s), swap the title with its
 # Simplified alias, and point links at /zh-cn/. Source URLs are kept as they are.
+# The game's own text on a page (pipeline/gametext.py, page_texts) is then swapped for the
+# game's own Simplified Chinese edition, not converted.
 # OpenCC's phrase mode (tw2sp) is not used: it rewrites game terms.
 
 import glob
@@ -13,6 +15,9 @@ import re
 import sys
 
 from opencc import OpenCC
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'pipeline'))
+from gametext import inline, page_texts, quoted  # noqa: E402
 
 cc = OpenCC('tw2s')
 root = sys.argv[1] if len(sys.argv) > 1 else 'src/content/docs'
@@ -108,6 +113,16 @@ def page(src, rel):
         if a not in front + body:
             sys.exit(f'{rel}: FIXES entry no longer matches: {a}')
         front, body = front.replace(a, b), body.replace(a, b)
+    # The game's text: the conversion of the Traditional text gives way to the game's own
+    # Simplified text, longest first so that no shorter text matches inside a longer one.
+    swaps = []
+    for texts, form in page_texts(rel):
+        render = quoted if form == 'quoted' else inline
+        swaps.append(('\n'.join(conv(x) for x in render(texts['zh-TW']).split('\n')), render(texts['zh-CN'])))
+    for a, b in sorted(swaps, key=lambda ab: -len(ab[0])):
+        if a not in body:
+            sys.exit(f'{rel}: game text not found after conversion: {a[:40]}')
+        body = body.replace(a, b)
     body = body.replace('/zh-tw/', '/zh-cn/')
 
     dst = os.path.join(root, 'zh-cn', rel)
