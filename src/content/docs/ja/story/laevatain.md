@@ -14,8 +14,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-レーヴァテインの戦闘データ、スキル、入手方法：[レーヴァテイン](/ja/operators/laevatain/)。
-
 ## プロファイル
 
 ### 基礎情報

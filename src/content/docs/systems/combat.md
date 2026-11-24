@@ -42,6 +42,8 @@ sources:
     url: https://endfield.wiki.gg/wiki/Operator
 ---
 
+## Damage types and reactions
+
 Damage in Arknights: Endfield is Physical, Arts or Æther, and Arts damage is Heat, Electric, Cryo or Nature. Arts hits leave Arts Inflictions on an enemy, up to 4 stacks: a second Infliction of the same element sets off an Arts Burst, one of another element sets off an Arts Reaction (Combustion, Electrification, Solidification or Corrosion). Physical Status hits first make an enemy Vulnerable; Lift and Knock Down then add stacks, Crush and Breach spend them. Stagger fills a meter that leaves the enemy Staggered and open to a Finisher. Damage is a product of multipliers: base damage (usually from ATK), critical hits, damage bonuses, the target's DEF and resistances, and the Staggered state. Player tests on the NGA forum in Version 1.0 put the DEF multiplier at 100 / (DEF + 100), 0.5 against the usual base DEF of 100, and a Staggered enemy at ×1.3 damage.
 
 ## Damage formula
@@ -70,7 +72,7 @@ NGA forum player 666bj measured these formulas in Version 1.0. Ordinary damage, 
 - Operators start with 5% Critical Rate and 50% Critical DMG. Enemies have 0% Critical Rate and 50% Critical DMG.
 - All Skill DMG covers battle skills, combo skills and ultimates, not basic attacks. Finishers gain from Basic Attack DMG Bonus.
 - Enemies have 100 base DEF at every level, so the DEF multiplier of a hit that uses DEF is 0.5 unless an effect changes their DEF. Operators have 0 base DEF; their DEF normally comes from the main stat of gear.
-- One point of resistance cuts damage of that type by 1%. The game shows an enemy's resistance as a grade: D for 0, C for 20 to 40, B for 50 and 60. Most enemy resistances are 0 or 20; a few enemies have 30, 35, 40, 50 or 60 in one element, and no enemy resists Æther. Every enemy's values are in [Enemy resistances](/systems/enemies/).
+- One point of resistance cuts damage of that type by 1%. The game shows an enemy's resistance as a grade: D for 0, C for 20 to 40, B for 50 and 60. Most enemy resistances are 0 or 20; a few enemies have 30, 35, 40, 50 or 60 in one element, and no enemy resists Æther.
 - An operator's Physical Resistance is 100 − 100 / (0.001 × Agility + 1), and Arts Resistance the same with Intellect, using the whole-number part of Agility and Intellect. An operator's resistance multiplier never falls below 0.1.
 - Many values in the game are shown rounded down, so a calculation from the shown numbers can be off by a few points.
 
@@ -131,7 +133,7 @@ Each of the 34 operators in game data 1.6 has Physical or one of the four Arts e
 | Cryo | Cryo Burst: Cryo damage | Solidification | Cannot move; Vulnerable or a Physical Status on it sets off Shatter | Solidified: cannot move for a time |
 | Nature | Nature Burst: Nature damage | Corrosion | All resistances fall gradually | Corroded: cannot dash and moves slower for a time |
 
-Enemy skills can stack Inflictions on operators too; the last column is what 4 stacks of one element do to an operator.
+Enemy skills can stack Inflictions on operators too.
 
 ## Physical Statuses and Vulnerable
 
@@ -159,7 +161,7 @@ Crush and Breach have a Status Level, as Arts Reactions do: the number of Vulner
 
 ## SP, skills and Ultimate Energy
 
-| Skill | Cost | Cooldown | Notes from game data 1.6 |
+| Skill | Cost | Cooldown | Notes |
 | --- | --- | --- | --- |
 | Basic attack | None | None | Teammates who are not controlled attack on their own |
 | Battle skill | SP | None | 100 SP for 33 of 34 operators; 25 SP for [Liino](/operators/liino/) |

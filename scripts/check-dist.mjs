@@ -22,9 +22,12 @@
 // 10. robots.txt names the sitemap and carries a Content-Signal line.
 // 11. The header links the first page of each sidebar section (versions, operators,
 //     systems, AIC); the page notes link the Markdown twin, llms.txt and index.json; no text in <main>
-//     is about the site or the page (scripts/check-page-text.mjs).
+//     is about the site or the page; the body does not open with a paragraph after the
+//     answer line (scripts/check-page-text.mjs).
 // 12. Story pages show every line of records/story/ unchanged.
 // 13. Operator pages and the gear page show every line of the game's descriptions unchanged.
+// 14. Prose ledger: every unit of the site's own prose has been read against
+//     scripts/prose-rubric.md and is recorded in reviews/prose-ledger.json (scripts/prose-review.mjs).
 // Being found: title, description, canonical, hreflang and sitemap (scripts/check-found.mjs).
 
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
@@ -37,7 +40,8 @@ import { SITE, LOCALES, LLMS_NOTES, localeOf, bareId, idInLocale, htmlPath, mdPa
 import { bundlePath } from '../src/lib/llms.mjs';
 import { readPages, readPending } from '../src/lib/content-index.mjs';
 import { checkFound } from './check-found.mjs';
-import { checkHeaderAndOutputs, checkSelfReference } from './check-page-text.mjs';
+import { checkHeaderAndOutputs, checkSelfReference, checkOpening } from './check-page-text.mjs';
+import { checkProse } from './prose-review.mjs';
 
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
 const LIMIT = 5000;
@@ -303,6 +307,7 @@ for (const { id, data } of pages) {
 		outputs: [withBase(mdPath(id)), withBase(llmsPath(localeOf(id))), withBase('/index.json')],
 	});
 	checkSelfReference(doc, id, fail);
+	checkOpening(doc, id, fail);
 
 	// 5. No decoration leak into extracted text.
 	const visible = normalize(doc.body.textContent);
@@ -448,6 +453,9 @@ for (const { id } of pages) {
 		}
 	}
 }
+
+// 14. Prose ledger: text the site writes itself, read once by a reader of another model.
+await checkProse(fail, DIST);
 
 checkFound(DIST, pages, fail);
 

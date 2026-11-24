@@ -14,8 +14,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-Combat data, skills and how to obtain Da Pan: [Da Pan](/operators/da-pan/).
-
 ## Operator File
 
 ### BASIC INFO

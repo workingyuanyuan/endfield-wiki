@@ -57,8 +57,6 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/8906
 ---
 
-《명일방주: 엔드필드》 글로벌 서비스에는 두 서버가 있다. 서버 시간이 UTC+8인 Asia 서버와 UTC-5인 Americas / Europe 서버다. 두 서버 간에 진행도는 공유되지 않으며, 같은 서버 내에서는 동일한 Gryphline 계정으로 모든 플랫폼에서 공유된다. 버전 업데이트 시 두 서버는 같은 순간에 6시간 동안 닫힌다. Asia의 06:00~12:00(UTC+8)는 Americas / Europe에서 전날 17:00~23:00(UTC-5)에 해당한다. 헤드헌팅 같은 기한이 있는 콘텐츠는 각 서버의 서버 시간으로 같은 시각에 열리고 닫히므로, Americas / Europe에서는 13시간 늦게 진행된다.
-
 ## 두 서버
 
 | 서버 | 서버 시간 | 접속 방식 |
@@ -66,11 +64,9 @@ sources:
 | Asia | UTC+8 | PC, Android, iOS, Steam에서는 로그인 시 선택. GeForce NOW는 두 서버 모두 접속 가능. PlayStation 5에서는 홍콩 등 PSN 계정 등록 지역에 따라 자동 결정 |
 | Americas / Europe | 연중 UTC-5(7월 포함) | PC, Android, iOS, Steam에서는 로그인 시 선택. GeForce NOW는 두 서버 모두 접속 가능. PlayStation 5에서는 북미 등 PSN 계정 등록 지역에 따라 자동 결정 |
 
-- 두 서버 간에 계정 데이터는 공유되지 않는다. 다른 서버에 로그인해도 캐릭터 진행도는 이어지지 않는다.
+- 같은 서버 안에서는 동일한 Gryphline 계정으로 모든 플랫폼에서 진행도가 공유된다.
 - 하나의 Gryphline 계정에 여러 캐릭터를 둘 수 있으며, GRYPHLINK 런처의 실시간 데이터 패널에서 전환할 수 있다.
 - PlayStation 5에서는 PSN 계정 지역에 따라 서버가 정해지며 수동으로 선택할 수 없다.
-
-진행도가 공유되는 플랫폼과 계정 연동 방법은 [지원 플랫폼과 권장 사양](/ko/systems/platforms/)에 있다.
 
 ## 서버 시간의 의미
 

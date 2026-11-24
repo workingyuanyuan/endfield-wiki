@@ -35,16 +35,16 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9560
 ---
 
-The Automated Industry Complex (AIC) is the factory system of Arknights: Endfield. You place facilities in the open world that mine ore, refine and package it, and power them from a regional grid; the products are materials for gear, tactical items, facilities and trade goods. Valley IV and Wuling each have an AIC with one Protocol Automation-Core (PAC) at its centre, and each region's grid, depot and placement limits are separate.
-
-## Pages in this section
-
-| Page | What it answers |
+| Topic | Contents |
 | --- | --- |
 | [AIC power](/aic/power/) | Why a factory runs out of power after a blueprint, Thermal Banks, batteries and their recipes, pylons and relays, power use of each facility |
 | [Production and logistics](/aic/production/) | Ports, belts, splitters, pipes, Depot Bus, Protocol Capacity, what each production facility makes |
 | [Recipes by product](/aic/recipes/) | Which facility makes a product, from what inputs, how much per run and how fast |
 | [Regional Development](/aic/regional-development/) | Regional Transfer between regions, outposts and Stock Bills, Stock Redistribution, Depot Nodes, Regional Development Level |
+
+## How it works
+
+You place facilities in the open world that mine ore, refine and package it, and power them from a regional grid; the products are materials for gear, tactical items, facilities and trade goods. Valley IV and Wuling each have an AIC with one Protocol Automation-Core (PAC) at its centre, and each region's grid, depot and placement limits are separate.
 
 ## Core facilities
 
@@ -159,7 +159,7 @@ A dash means the facility works without the grid: the Portable Originium Rig run
 | 1.5 | Continue Placing for facilities. The blueprint facility limit shows while box-selecting. |
 | 1.6 | Auto-Farmer for the farms of Si's Painting and later Wuling City. A facility can be placed straight from the Backpack or any depot, or built from materials in any depot. |
 
-Every version from 1.1 to 1.6 also raised the Regional Development Level cap of Wuling. Titles and dates are on the version pages: [1.1](/versions/1-1/), [1.2](/versions/1-2/), [1.3](/versions/1-3/), [1.4](/versions/1-4/), [1.5](/versions/1-5/), [1.6](/versions/1-6/).
+Every version from 1.1 to 1.6 also raised the Regional Development Level cap of Wuling.
 
 ## Blueprint sharing rules
 

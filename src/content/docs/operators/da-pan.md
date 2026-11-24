@@ -54,7 +54,7 @@ Da Pan has no rate-up banner. Da Pan is in the standard roster, which Basic Head
 
 ## Recommended weapons
 
-The weapons the game recommends for Da Pan, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Strength and Will.
+Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Strength and Will.
 
 | Weapon | Rarity | Essence stats |
 | --- | --- | --- |
@@ -62,8 +62,6 @@ The weapons the game recommends for Da Pan, in the game's order. Each weapon has
 | Sundered Prince | 6 | Strength, Critical Rate, Crusher |
 | OBJ Heavy Burden | 5 | Strength, HP, Efficacy |
 | Seeker of Dark Lung | 5 | Strength, ULT Efficiency, Detonate |
-
-Every weapon, with its Essence stats and the operators it is recommended for, is on the [Weapons list](/systems/weapons/).
 
 ## Skills
 
@@ -100,9 +98,7 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skill values
 
-The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.
-
-| Skill | Value | Level 1 | Level 12 |
+| Skill | Value | Level 1 | Level 12 (highest) |
 | --- | --- | --- | --- |
 | ROLLING CUT! | BATK SEQ 1 Multiplier | 28% | 63% |
 | ROLLING CUT! | BATK SEQ 2 Multiplier | 34% | 75% |
@@ -154,7 +150,7 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Base skills
 
-Base skills work while Da Pan is assigned to a room of the Dijiang. Each has two levels; the second replaces the first. See [Dijiang](/systems/dijiang/).
+Base skills work while Da Pan is assigned to a room of the [Dijiang](/systems/dijiang/). Each has two levels; the second replaces the first.
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |

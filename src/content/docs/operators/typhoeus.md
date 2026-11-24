@@ -73,15 +73,13 @@ A limited operator stays in the pool of the two Chartered Headhunting banners af
 
 ## Recommended weapons
 
-The weapons the game recommends for Typhoeus, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Agility and Will.
+Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Agility and Will.
 
 | Weapon | Rarity | Essence stats |
 | --- | --- | --- |
 | Umbra of Frigid Eventide | 6 | Agility, ATK, Detonate |
 | Suffering's End | 6 | Agility, Nature DMG, Detonate |
 | Monaihe | 5 | Will, ULT Efficiency, Inspiring |
-
-Every weapon, with its Essence stats and the operators it is recommended for, is on the [Weapons list](/systems/weapons/).
 
 ## Skills
 
@@ -126,9 +124,7 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skill values
 
-The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.
-
-| Skill | Value | Level 1 | Level 12 |
+| Skill | Value | Level 1 | Level 12 (highest) |
 | --- | --- | --- | --- |
 | Wildlands Huntress | BATK SEQ 1 Multiplier | 21% | 46% |
 | Wildlands Huntress | BATK SEQ 2 Multiplier | 25% | 56% |
@@ -201,7 +197,7 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Base skills
 
-Base skills work while Typhoeus is assigned to a room of the Dijiang. Each has two levels; the second replaces the first. See [Dijiang](/systems/dijiang/).
+Base skills work while Typhoeus is assigned to a room of the [Dijiang](/systems/dijiang/). Each has two levels; the second replaces the first.
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |

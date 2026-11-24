@@ -49,13 +49,13 @@ sources:
 
 ## How to obtain
 
-Every account has Wulfgard from the start of the game. The four starting operators are Endministrator, Perlica, Chen Qianyu and Wulfgard.
+The four starting operators are Endministrator, Perlica, Chen Qianyu and Wulfgard.
 
 Wulfgard has no rate-up banner. Wulfgard is in the standard roster, which Basic Headhunting and every Chartered Headhunting pool draw from.
 
 ## Recommended weapons
 
-The weapons the game recommends for Wulfgard, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Strength and Agility.
+Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Strength and Agility.
 
 | Weapon | Rarity | Essence stats |
 | --- | --- | --- |
@@ -63,8 +63,6 @@ The weapons the game recommends for Wulfgard, in the game's order. Each weapon h
 | Wedge | 6 | Main Attribute, Critical Rate, Infliction |
 | Rational Farewell | 5 | Strength, Heat DMG, Pursuit |
 | Long Road | 4 | Strength, Arts DMG, Pursuit |
-
-Every weapon, with its Essence stats and the operators it is recommended for, is on the [Weapons list](/systems/weapons/).
 
 ## Skills
 
@@ -101,9 +99,7 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skill values
 
-The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.
-
-| Skill | Value | Level 1 | Level 12 |
+| Skill | Value | Level 1 | Level 12 (highest) |
 | --- | --- | --- | --- |
 | Rapid Fire Akimbo | BATK SEQ 1 Multiplier | 30% | 68% |
 | Rapid Fire Akimbo | BATK SEQ 2 Multiplier | 35% | 79% |
@@ -155,7 +151,7 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Base skills
 
-Base skills work while Wulfgard is assigned to a room of the Dijiang. Each has two levels; the second replaces the first. See [Dijiang](/systems/dijiang/).
+Base skills work while Wulfgard is assigned to a room of the [Dijiang](/systems/dijiang/). Each has two levels; the second replaces the first.
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |

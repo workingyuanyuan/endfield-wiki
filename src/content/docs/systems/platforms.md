@@ -53,20 +53,19 @@ sources:
     url: https://endfield.wiki.gg/wiki/Version
 ---
 
-Arknights: Endfield came out on 2026-01-22 at 11:00 on PC, through the GRYPHLINK launcher and the Epic Games Store, and on PlayStation 5, iOS and Android. GeForce NOW followed on 2026-04-03 and Steam with the Version 1.6 update on 2026-10-15. All of them share progress, as long as you play on the same server.
-
 ## Platforms and stores
 
 | Platform | Client or store | Available from | Login |
 | --- | --- | --- | --- |
-| PC (Windows) | GRYPHLINK launcher, from the official website | Release, 2026-01-22 | Gryphline Account |
-| PC (Windows) | Epic Games Store | Release, 2026-01-22 | Gryphline Account |
-| PlayStation 5 | PlayStation Store | Release, 2026-01-22 | PSN account only |
-| iOS and iPadOS | App Store | Release, 2026-01-22 | Gryphline Account |
-| Android | Android client | Release, 2026-01-22 | Gryphline Account |
+| PC (Windows) | GRYPHLINK launcher, from the official website | Release, 2026-01-22 11:00 | Gryphline Account |
+| PC (Windows) | Epic Games Store | Release, 2026-01-22 11:00 | Gryphline Account |
+| PlayStation 5 | PlayStation Store | Release, 2026-01-22 11:00 | PSN account only |
+| iOS and iPadOS | App Store | Release, 2026-01-22 11:00 | Gryphline Account |
+| Android | Android client | Release, 2026-01-22 11:00 | Gryphline Account |
 | PC (Windows) | Steam, app 4732690 | After the Version 1.6 update, 2026-10-15 | Steam account linked to a Gryphline Account |
 | Cloud | NVIDIA GeForce NOW: its client on Windows PC, Mac and Chromebook, or its web version in Chrome or Edge | 2026-04-03 | Gryphline Account |
 
+- All platforms share progress, as long as you play on the same server.
 - A Gryphline Account can be signed in to through a third-party account such as Google, Apple or Facebook.
 - Every platform reaches both servers. GeForce NOW requires a GeForce NOW membership, and its availability depends on country or region.
 - The Steam version runs on the same servers as the other platforms, and it is downloaded and updated only through the Steam client, not through GRYPHLINK. Its purchases go through the Steam Overlay.

@@ -14,8 +14,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-伊冯的战斗资料、技能与获取方式：[伊冯](/zh-cn/operators/yvonne/)。
-
 ## 干员档案
 
 ### 基础档案

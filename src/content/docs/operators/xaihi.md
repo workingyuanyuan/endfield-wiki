@@ -53,7 +53,7 @@ Xaihi has no rate-up banner. Xaihi is in the standard roster, which Basic Headhu
 
 ## Recommended weapons
 
-The weapons the game recommends for Xaihi, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Will and Intellect.
+Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Will and Intellect.
 
 | Weapon | Rarity | Essence stats |
 | --- | --- | --- |
@@ -61,8 +61,6 @@ The weapons the game recommends for Xaihi, in the game's order. Each weapon has 
 | Freedom to Proselytize | 5 | Will, Treatment Efficiency, Medicant |
 | Delivery Guaranteed | 6 | Will, ULT Efficiency, Pursuit |
 | Monaihe | 5 | Will, ULT Efficiency, Inspiring |
-
-Every weapon, with its Essence stats and the operators it is recommended for, is on the [Weapons list](/systems/weapons/).
 
 ## Skills
 
@@ -101,9 +99,7 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skill values
 
-The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.
-
-| Skill | Value | Level 1 | Level 12 |
+| Skill | Value | Level 1 | Level 12 (highest) |
 | --- | --- | --- | --- |
 | Cooldown | BATK SEQ 1 Multiplier | 15% | 34% |
 | Cooldown | BATK SEQ 2 Multiplier | 16% | 36% |
@@ -156,7 +152,7 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Base skills
 
-Base skills work while Xaihi is assigned to a room of the Dijiang. Each has two levels; the second replaces the first. See [Dijiang](/systems/dijiang/).
+Base skills work while Xaihi is assigned to a room of the [Dijiang](/systems/dijiang/). Each has two levels; the second replaces the first.
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |

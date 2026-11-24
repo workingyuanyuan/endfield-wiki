@@ -14,8 +14,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-梨诺的战斗资料、技能与获取方式：[梨诺](/zh-cn/operators/liino/)。
-
 ## 干员档案
 
 ### 基础档案

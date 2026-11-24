@@ -35,9 +35,9 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9560
 ---
 
-Game data 1.6 of Arknights: Endfield has 24 gear sets. An operator wears four pieces of gear (one armor, one pair of gloves and two kits), and three pieces of one set switch on that set's effect; no set has an effect for two or four pieces.
-
 ## How gear works
+
+An operator wears four pieces of gear (one armor, one pair of gloves and two kits), and three pieces of one set switch on that set's effect; no set has an effect for two or four pieces.
 
 | Gear level | Rarity of set pieces | Quality | An operator can wear it after |
 | --- | --- | --- | --- |
@@ -52,7 +52,7 @@ Game data 1.6 of Arknights: Endfield has 24 gear sets. An operator wears four pi
 - Four sets came after release: Xiranflow and Qingbo in Version 1.2, AIC Fieldwork in Version 1.4 and Deep Rampart in Version 1.5.
 - Rift Trekker, added in Version 1.4, is non-set gear with no set effect, although the Version 1.4 update notes list it as a new gear set.
 
-The Outfitting nodes and their T-Creds costs are on [Operator progression](/systems/operator-progression/).
+
 
 ## Gear artificing
 
@@ -64,7 +64,7 @@ Artificing raises the stats of gold quality gear.
 - Any attempt has a small chance to succeed at once, which also resets the progress. The chance is slightly higher when the piece used up has a higher base value than the gear being improved.
 - Several pieces can be selected for one artificing run (up to a limit); they are used one at a time in the order chosen, and pieces left over after a success come back. This Auto-Fill selection came with Version 1.3; Version 1.6 added an Assembly tab that crafts the material gear from within the artificing screen.
 
-## All 24 sets
+## Sets
 
 | English | 繁體中文 | 簡體中文 | Gear level | Rarity | Pieces |
 | --- | --- | --- | --- | --- | --- |
@@ -122,4 +122,4 @@ Pieces is the number of pieces of the set in game data 1.6, across all its level
 - **Type 50 Yinglung**: 3-piece set effect: Wearer's ATK +15%. When any operator in the team casts a battle skill, the wearer gains 1 stack of Yinglung's Edge that gives DMG +20% to the wearer's next combo skill. Yinglung's Edge can stack 3 time(s).
 - **Xiranflow**: 3-piece set effect: Wearer's ATK +10%. Whenever the wearer consumes Electrification or Corrosion, the wearer gains a number of buff stacks equal to the Status Level of the Arts Reaction consumed, with each buff stack giving Electric DMG Dealt and Nature DMG Dealt +15% for 25s. Max number of buff stacks: 3. Duration of each stack is counted separately.
 
-Vulnerable, Status Level, Arts Infliction and other terms are explained on [Combat mechanics](/systems/combat/).
+

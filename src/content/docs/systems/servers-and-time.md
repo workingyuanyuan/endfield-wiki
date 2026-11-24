@@ -57,8 +57,6 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/8906
 ---
 
-The global service of Arknights: Endfield has two servers: Asia, whose server time is UTC+8, and Americas / Europe, whose server time is UTC-5. Progress is not shared between them; on one server it is shared across every platform under the same Gryphline Account. A version update closes both servers at the same moment for six hours: 06:00 to 12:00 UTC+8 on Asia is 17:00 to 23:00 UTC-5 on the day before on Americas / Europe. Timed content, such as a headhunting banner, opens and ends at the same clock time in each server's own server time, so it happens 13 hours later on Americas / Europe.
-
 ## The two servers
 
 | Server | Server time | How a player lands on it |
@@ -66,11 +64,11 @@ The global service of Arknights: Endfield has two servers: Asia, whose server ti
 | Asia | UTC+8 | Chosen at login on PC, Android, iOS and Steam; GeForce NOW reaches both servers. On PlayStation 5, a PSN account registered in Hong Kong, for example |
 | Americas / Europe | UTC-5 all year, July included | Chosen at login on PC, Android, iOS and Steam; GeForce NOW reaches both servers. On PlayStation 5, a PSN account registered in North America, for example |
 
-- Account data is not shared between the two servers. Logging in to the other server does not bring a character's progress across.
+- On one server, progress is shared across every platform under the same Gryphline Account.
 - One Gryphline Account can hold more than one character; the data panel of the GRYPHLINK launcher switches between them.
 - On PlayStation 5 the server follows the region of the PSN account; it cannot be chosen by hand.
 
-Which platforms share progress, and how accounts are linked: [Platforms and requirements](/systems/platforms/).
+
 
 ## What server time means
 

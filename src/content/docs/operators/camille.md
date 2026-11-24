@@ -72,7 +72,7 @@ A limited operator stays in the pool of the two Chartered Headhunting banners af
 
 ## Recommended weapons
 
-The weapons the game recommends for Camille, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Agility and Intellect.
+Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Agility and Intellect.
 
 | Weapon | Rarity | Essence stats |
 | --- | --- | --- |
@@ -80,8 +80,6 @@ The weapons the game recommends for Camille, in the game's order. Each weapon ha
 | Beacon of Duty | 6 | Agility, ULT Efficiency, Efficacy |
 | JET | 6 | Main Attribute, ATK, Suppression |
 | Chimeric Justice | 5 | Strength, ULT Efficiency, Brutality |
-
-Every weapon, with its Essence stats and the operators it is recommended for, is on the [Weapons list](/systems/weapons/).
 
 ## Skills
 
@@ -121,9 +119,7 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skill values
 
-The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.
-
-| Skill | Value | Level 1 | Level 12 |
+| Skill | Value | Level 1 | Level 12 (highest) |
 | --- | --- | --- | --- |
 | Sanguine Absolution | BATK SEQ 1 Multiplier | 25% | 56% |
 | Sanguine Absolution | BATK SEQ 2 Multiplier | 20% | 45% |
@@ -186,7 +182,7 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Base skills
 
-Base skills work while Camille is assigned to a room of the Dijiang. Each has two levels; the second replaces the first. See [Dijiang](/systems/dijiang/).
+Base skills work while Camille is assigned to a room of the [Dijiang](/systems/dijiang/). Each has two levels; the second replaces the first.
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |

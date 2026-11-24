@@ -37,6 +37,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9560
 ---
 
+## Levels and promotion
+
 An operator reaches level 90 through four promotions, which raise the level cap to 40, 60, 80 and 90. Promotions I to III take the same materials for all 34 operators; Promotion IV takes Protoset ×36, T-Creds ×100,000, 20 of one rare material and 8 of one fungus, and only those two items change from operator to operator. Rarity changes none of the costs.
 
 ## Level caps and promotion materials
@@ -51,7 +53,7 @@ An operator reaches level 90 through four promotions, which raise the level cap 
 
 All four promotions together cost Protodisk ×33, Protoset ×60 and T-Creds ×126,100; the three Outfitting nodes add T-Creds ×26,100. Promotions II, III and IV each require the previous Outfitting node.
 
-Level-up cost from level 1, the same for every operator:
+The level-up cost from level 1 is the same for every operator.
 
 | Up to level | Operator EXP | T-Creds |
 | --- | --- | --- |

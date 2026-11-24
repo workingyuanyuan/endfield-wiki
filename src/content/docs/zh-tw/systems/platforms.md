@@ -53,20 +53,19 @@ sources:
     url: https://endfield.wiki.gg/wiki/Version
 ---
 
-《明日方舟：終末地》於 2026-01-22 11:00 公測，平台為 PC（GRYPHLINK 啟動器與 Epic Games Store）、PlayStation 5、iOS 與 Android。GeForce NOW 於 2026-04-03 加入，Steam 則隨 2026-10-15 的 1.6 版更新上線。只要在同一個伺服器遊玩，所有平台的進度都互通。
-
 ## 平台與商店
 
 | 平台 | 用戶端或商店 | 開放時間 | 登入方式 |
 | --- | --- | --- | --- |
-| PC（Windows） | GRYPHLINK 啟動器，從官網下載 | 公測，2026-01-22 | Gryphline 帳號 |
-| PC（Windows） | Epic Games Store | 公測，2026-01-22 | Gryphline 帳號 |
-| PlayStation 5 | PlayStation Store | 公測，2026-01-22 | 僅限 PSN 帳號 |
-| iOS 與 iPadOS | App Store | 公測，2026-01-22 | Gryphline 帳號 |
-| Android | Android 用戶端 | 公測，2026-01-22 | Gryphline 帳號 |
+| PC（Windows） | GRYPHLINK 啟動器，從官網下載 | 公測，2026-01-22 11:00 | Gryphline 帳號 |
+| PC（Windows） | Epic Games Store | 公測，2026-01-22 11:00 | Gryphline 帳號 |
+| PlayStation 5 | PlayStation Store | 公測，2026-01-22 11:00 | 僅限 PSN 帳號 |
+| iOS 與 iPadOS | App Store | 公測，2026-01-22 11:00 | Gryphline 帳號 |
+| Android | Android 用戶端 | 公測，2026-01-22 11:00 | Gryphline 帳號 |
 | PC（Windows） | Steam，app 4732690 | 1.6 版更新後，2026-10-15 | 與 Gryphline 帳號綁定的 Steam 帳號 |
 | 雲端 | NVIDIA GeForce NOW：Windows PC、Mac、Chromebook 上的用戶端，或 Chrome、Edge 中的網頁版 | 2026-04-03 | Gryphline 帳號 |
 
+- 只要在同一個伺服器遊玩，所有平台的進度都互通。
 - Gryphline 帳號可透過 Google、Apple、Facebook 等第三方帳號登入。
 - 每個平台都能進入兩個伺服器。GeForce NOW 需要 GeForce NOW 會員資格，是否可用取決於所在國家或地區。
 - Steam 版與其他平台共用遊戲伺服器，只能透過 Steam 用戶端下載與更新，無法透過 GRYPHLINK。遊戲內購買經由 Steam 內嵌介面（Steam Overlay）完成。

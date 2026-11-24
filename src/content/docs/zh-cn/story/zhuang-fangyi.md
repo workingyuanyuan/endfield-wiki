@@ -14,8 +14,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-庄方宜的战斗资料、技能与获取方式：[庄方宜](/zh-cn/operators/zhuang-fangyi/)。
-
 ## 干员档案
 
 ### 基础档案

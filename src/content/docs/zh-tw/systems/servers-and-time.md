@@ -57,8 +57,6 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/8906
 ---
 
-《明日方舟：終末地》國際版有兩組伺服器：Asia 的伺服器時間是 UTC+8，Americas / Europe 的伺服器時間是 UTC-5。兩者的進度不互通；同一組伺服器內，使用同一個 Gryphline 帳號時，各平台的進度互通。版本更新時兩組伺服器在同一刻停機六小時：Asia 的 UTC+8 06:00 至 12:00，就是 Americas / Europe 前一天的 UTC-5 17:00 至 23:00。尋訪卡池等限期內容，在兩組伺服器各以自己的伺服器時間、於同一個時鐘時刻開始與結束，因此在 Americas / Europe 晚 13 小時發生。
-
 ## 兩組伺服器
 
 | 伺服器 | 伺服器時間 | 如何進入 |
@@ -66,11 +64,11 @@ sources:
 | Asia | UTC+8 | PC、Android、iOS 與 Steam 在登入時選擇；GeForce NOW 兩組伺服器都能連。PlayStation 5 則依 PSN 帳戶所在地區，例如香港 |
 | Americas / Europe | UTC-5，全年相同，七月也一樣 | PC、Android、iOS 與 Steam 在登入時選擇；GeForce NOW 兩組伺服器都能連。PlayStation 5 則依 PSN 帳戶所在地區，例如北美 |
 
-- 兩組伺服器之間的帳號資料不互通。登入另一組伺服器，不會帶過角色的進度。
+- 同一組伺服器內，使用同一個 Gryphline 帳號時，各平台的進度互通。
 - 一個 Gryphline 帳號可以有多個角色；GRYPHLINK 啟動器的即時數據面板可在角色之間切換。
 - PlayStation 5 的伺服器依 PSN 帳戶所在地區決定，無法自行選擇。
 
-哪些平台進度互通、如何綁定帳號，見[平台與配備需求](/zh-tw/systems/platforms/)。
+
 
 ## 「伺服器時間」是什麼意思
 

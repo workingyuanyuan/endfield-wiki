@@ -52,7 +52,7 @@ The Endministrator is the player character: every account has the Endministrator
 
 ## Recommended weapons
 
-The weapons the game recommends for Endministrator, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Agility and Strength.
+Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Agility and Strength.
 
 | Weapon | Rarity | Essence stats |
 | --- | --- | --- |
@@ -60,8 +60,6 @@ The weapons the game recommends for Endministrator, in the game's order. Each we
 | Eminent Repute | 6 | Main Attribute, Physical DMG, Brutality |
 | Rapid Ascent | 6 | Main Attribute, Critical Rate, Twilight |
 | Sundering Steel | 5 | Agility, Physical DMG, Combative |
-
-Every weapon, with its Essence stats and the operators it is recommended for, is on the [Weapons list](/systems/weapons/).
 
 ## Skills
 
@@ -98,9 +96,7 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skill values
 
-The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.
-
-| Skill | Value | Level 1 | Level 12 |
+| Skill | Value | Level 1 | Level 12 (highest) |
 | --- | --- | --- | --- |
 | Destructive Sequence | BATK SEQ 1 Multiplier | 23% | 51% |
 | Destructive Sequence | BATK SEQ 2 Multiplier | 27% | 61% |

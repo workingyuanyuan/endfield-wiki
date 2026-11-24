@@ -99,9 +99,10 @@ pnpm verify      # prose check, build, then the acceptance checks. Run this befo
 pnpm upstream    # compare the sources with what the pages were written from (upstream/README.md)
 pnpm build       # build
 pnpm check       # acceptance checks on an existing dist/
+node scripts/prose-review.mjs run      # after a build: a reader of another model reads prose not yet read; fix what it flags (reviews/prose-ledger.json)
+node scripts/prose-review.mjs status   # count the units of prose not yet read
 python3 -I pipeline/gametext.py       # the game's descriptions and the official introductions -> records/gametext/, gear-sets.json effects
 python3 -I pipeline/build_pages.py     # operator pages (en, zh-tw, ja, ko) from records/
-python3 -I pipeline/build_pages.py --test-fill-english   # fills missing ja/ko text from English: test only, never commit those pages
 python3 -I pipeline/build_lists.py     # names, weapons, dijiang, recipes, enemies (en, zh-tw, ja, ko) from records/
 python3 -I pipeline/names_jako.py      # records/names-jako.json: ja/ko names and game terms from the text tables and ja-jp/ko-kr notices
 python3 -I pipeline/check_jako_names.py [page.md ...]           # ja/ko pages: every game name in its ja/ko form, no Chinese-only names
@@ -119,7 +120,7 @@ python3 -I pipeline/ed_extract.py      # recommended weapons, base skills, Essen
 uv run --with opencc-python-reimplemented pipeline/names_voc.py   # names whose Simplified form is not a plain conversion
 ```
 
-After a change to a record: `names_jako.py` (when names changed), `build_pages.py`, `build_lists.py`, `to-zh-cn.py`, `check_jako_names.py`, then `pnpm verify`. After new game data: fetch the pages again into `cache/third/wf/` (the fetch scripts are kept there), then `wf_extract.py`, `build_records.py`, `names_voc.py`, `ed_extract.py` and `gametext.py`.
+After a change to a record: `names_jako.py` (when names changed), `build_pages.py`, `build_lists.py`, `to-zh-cn.py`, `check_jako_names.py`, `pnpm build`, `node scripts/prose-review.mjs run`, then `pnpm verify`. After new game data: fetch the pages again into `cache/third/wf/` (the fetch scripts are kept there), then `wf_extract.py`, `build_records.py`, `names_voc.py`, `ed_extract.py` and `gametext.py`.
 
 ## When the sources change
 

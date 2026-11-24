@@ -21,11 +21,11 @@ sources:
     url: https://warfarin.wiki/en/operators
 ---
 
-The game data of Version 1.6 holds 34 operators. The official site lists 37 entries: the same 34, a second entry for Endministrator (two appearances of one operator), and Kay (6-star Vanguard, Nature) and Mimino (5-star Supporter, Physical).
-
 ## Counts
 
-| Rarity | Entries below | Playable in 1.6 |
+The official site's 37 entries are the 34 of the game data, a second entry for Endministrator (two appearances of one operator), and Kay (6-star Vanguard, Nature) and Mimino (5-star Supporter, Physical).
+
+| Rarity | Entries on the official site | Playable in 1.6 |
 | --- | --- | --- |
 | 6-star | 20 | 19 |
 | 5-star | 11 | 10 |
@@ -33,7 +33,7 @@ The game data of Version 1.6 holds 34 operators. The official site lists 37 entr
 
 ## All operators
 
-Rarity, class and element are those shown on the official list. The Chinese column gives the Traditional Chinese name, then the Simplified Chinese name where it is written differently. Rossi is 洛西 in Traditional and 洛茜 in Simplified Chinese, a different character and not only a different script.
+The Chinese column gives the Traditional Chinese name, then the Simplified Chinese name where it is written differently. Rossi is 洛西 in Traditional and 洛茜 in Simplified Chinese, a different character and not only a different script.
 
 | Operator | Chinese name | Rarity | Class | Element |
 | --- | --- | --- | --- | --- |

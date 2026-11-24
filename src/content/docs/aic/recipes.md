@@ -2,7 +2,7 @@
 title: "Recipes by product"
 description: "Which AIC facility makes each of 126 Arknights: Endfield products, from what inputs and how fast."
 appliesTo: "Arknights: Endfield, global service, Version 1.6; recipes from game data 1.6"
-caveat: "Times are per run of one facility. A product with several recipes is listed once per recipe; recipes that use event items are left out."
+caveat: "Times are per run of one facility; one product can have several recipes."
 lastVerified: 2026-11-22
 effectiveDate: 2026-11-22
 aliases:
@@ -15,11 +15,9 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/FactoryMachineCraftTable.json
 ---
 
-Every AIC production recipe of Version 1.6 except filling and emptying containers, sorted by the English name of the product: 162 recipes for 126 products. Search the page for a product to find the facility that makes it, the inputs one run takes, what one run gives and how long it takes. What each facility makes, and its power use, is on [Production and logistics](/aic/production/).
-
-The Filling Unit puts a fluid or gas into an empty bottle or canister (74 recipes), and the Separating Unit empties it again (74 recipes); a filled container keeps the container's name. Recipes of the Filling Unit that make something new, such as drinks, Canned Citrome and Buck Capsules, are in the table.
-
 ## Recipes
+
+Not counting filling and emptying containers, the products have 162 recipes. The Filling Unit puts a fluid or gas into an empty bottle or canister (74 recipes), and the Separating Unit empties it again (74 recipes); a filled container keeps the container's name. The Filling Unit also makes new things, such as drinks, Canned Citrome and Buck Capsules.
 
 | Product | Made in | Inputs | Output | Time |
 | --- | --- | --- | --- | --- |

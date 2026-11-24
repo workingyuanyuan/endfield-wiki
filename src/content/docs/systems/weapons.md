@@ -18,7 +18,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-Version 1.6 has 84 weapons. An operator uses one weapon type, shown on the [operator pages](/operators/). How weapons are obtained, and how Essences raise weapon skills, is on [Arsenal and Essences](/systems/arsenal/). Each 4- to 6-star weapon has three Essence stats, an attribute, a secondary stat and a skill stat, and an Essence raises the weapon skill of each stat it carries; 3-star weapons have none. Recommended for lists the operators whose in-game recommendations include the weapon.
 
 ## Counts by type and rarity
 
@@ -30,11 +29,15 @@ Version 1.6 has 84 weapons. An operator uses one weapon type, shown on the [oper
 | Polearm | 7 | 3 | 2 | 1 | 13 |
 | Sword | 13 | 7 | 2 | 1 | 23 |
 
+## Essence stats
+
+An operator uses one weapon type. Each 4- to 6-star weapon has three Essence stats, an attribute, a secondary stat and a skill stat, and an Essence raises the weapon skill of each stat it carries; 3-star weapons have none.
+
 ## Arts Unit
 
 Arts Unit is 施術單元 in Traditional Chinese and 施术单元 in Simplified Chinese.
 
-| English | 繁體中文 | 簡體中文 | Rarity | Essence stats | Recommended for |
+| English | 繁體中文 | 簡體中文 | Rarity | Essence stats | Recommended in game for |
 | --- | --- | --- | --- | --- | --- |
 | Chivalric Virtues | 騎士精神 | 骑士精神 | 6 | Will, HP, Medicant | Ardelia, Gilberta, Xaihi |
 | Delivery Guaranteed | 使命必達 | 使命必达 | 6 | Will, ULT Efficiency, Pursuit | Gilberta, Xaihi |
@@ -61,7 +64,7 @@ Arts Unit is 施術單元 in Traditional Chinese and 施术单元 in Simplified 
 
 Greatsword is 雙手劍 in Traditional Chinese and 双手剑 in Simplified Chinese.
 
-| English | 繁體中文 | 簡體中文 | Rarity | Essence stats | Recommended for |
+| English | 繁體中文 | 簡體中文 | Rarity | Essence stats | Recommended in game for |
 | --- | --- | --- | --- | --- | --- |
 | Amaranthine Tassel | 赤纓 | 赤缨 | 6 | Strength, ATK, Combative | Mi Fu |
 | Exemplar | 典範 | 典范 | 6 | Main Attribute, ATK, Suppression | Da Pan, Ember, Mi Fu, Snowshine |
@@ -84,7 +87,7 @@ Greatsword is 雙手劍 in Traditional Chinese and 双手剑 in Simplified Chine
 
 Handcannon is 手銃 in Traditional Chinese and 手铳 in Simplified Chinese.
 
-| English | 繁體中文 | 簡體中文 | Rarity | Essence stats | Recommended for |
+| English | 繁體中文 | 簡體中文 | Rarity | Essence stats | Recommended in game for |
 | --- | --- | --- | --- | --- | --- |
 | Artzy Tyrannical | 藝術暴君 | 艺术暴君 | 6 | Intellect, Critical Rate, Fracture | Yvonne |
 | Brigand's Calling | 落草 | 落草 | 6 | Agility, ATK, Detonate | Tangtang |
@@ -103,7 +106,7 @@ Handcannon is 手銃 in Traditional Chinese and 手铳 in Simplified Chinese.
 
 Polearm is 長柄武器 in Traditional Chinese and 长柄武器 in Simplified Chinese.
 
-| English | 繁體中文 | 簡體中文 | Rarity | Essence stats | Recommended for |
+| English | 繁體中文 | 簡體中文 | Rarity | Essence stats | Recommended in game for |
 | --- | --- | --- | --- | --- | --- |
 | Beacon of Duty | 燈火使命 | 灯火使命 | 6 | Agility, ULT Efficiency, Efficacy | Camille |
 | Bedazzling Night Debut | 曜夜的首演 | 曜夜的首演 | 6 | Will, Treatment Efficiency, Medicant | Liino |
@@ -123,7 +126,7 @@ Polearm is 長柄武器 in Traditional Chinese and 长柄武器 in Simplified Ch
 
 Sword is 單手劍 in Traditional Chinese and 单手剑 in Simplified Chinese.
 
-| English | 繁體中文 | 簡體中文 | Rarity | Essence stats | Recommended for |
+| English | 繁體中文 | 簡體中文 | Rarity | Essence stats | Recommended in game for |
 | --- | --- | --- | --- | --- | --- |
 | Complexed Industry | 聚合工業 | 聚合工业 | 6 | Will, Electric DMG, Detonate | Argent Flow |
 | Eminent Repute | 顯赫聲名 | 显赫声名 | 6 | Main Attribute, Physical DMG, Brutality | Akekuri, Chen Qianyu, Endministrator |

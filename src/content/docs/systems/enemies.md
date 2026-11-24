@@ -2,7 +2,7 @@
 title: "Enemy resistances"
 description: "Physical, Heat, Electric, Cryo and Nature resistances of all 89 enemies in Arknights: Endfield, by region."
 appliesTo: "Arknights: Endfield, global service, game data 1.6"
-caveat: "The values are those of each enemy's base form, met in the open world. Some stage versions of an enemy have other resistances, for example 15 in every element."
+caveat: "Resistances are those of each enemy's base form, met in the open world. Some stage versions of an enemy have other resistances, for example 15 in every element."
 lastVerified: 2026-11-22
 effectiveDate: 2026-11-22
 aliases:
@@ -15,11 +15,11 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
+## Resistance grades
+
 Each point of resistance cuts damage of that element by 1% (see [Combat](/systems/combat/)). The game shows each resistance as a grade; among enemies D is 0, C is 20 to 40, B is 50 to 60, and no enemy has S or A. Of the 89 enemies in the in-game encyclopedia, 34 have no resistance; most of the others have 20 in two to five elements. The highest is Breaking Gust's Physical Resistance of 60. No enemy resists Æther damage.
 
-## Highest resistances
-
-Every enemy with a resistance of 30 or more, with all five of its resistances (grade and value):
+## Enemies with a resistance of 30 or more
 
 | Enemy | Physical | Heat | Electric | Cryo | Nature |
 | --- | --- | --- | --- | --- | --- |
@@ -37,7 +37,7 @@ Every enemy with a resistance of 30 or more, with all five of its resistances (g
 
 ## All enemies
 
-Sorted by English name. Each resistance is given as grade and value. Class is the game's own: Common, Advanced, Elite, Alpha, Boss.
+Classes are the game's own: Common, Advanced, Elite, Alpha, Boss.
 
 ### Valley IV
 

@@ -14,8 +14,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-ペリカの戦闘データ、スキル、入手方法：[ペリカ](/ja/operators/perlica/)。
-
 ## プロファイル
 
 ### 基礎情報

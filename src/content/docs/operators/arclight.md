@@ -52,7 +52,7 @@ Arclight has no rate-up banner. Arclight is in the standard roster, which Basic 
 
 ## Recommended weapons
 
-The weapons the game recommends for Arclight, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Agility and Intellect.
+Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Agility and Intellect.
 
 | Weapon | Rarity | Essence stats |
 | --- | --- | --- |
@@ -60,8 +60,6 @@ The weapons the game recommends for Arclight, in the game's order. Each weapon h
 | Thermite Cutter | 6 | Will, ATK, Flow |
 | Twelve Questions | 5 | Agility, ATK, Infliction |
 | OBJ Edge of Lightness | 5 | Agility, ATK, Flow |
-
-Every weapon, with its Essence stats and the operators it is recommended for, is on the [Weapons list](/systems/weapons/).
 
 ## Skills
 
@@ -98,9 +96,7 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skill values
 
-The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.
-
-| Skill | Value | Level 1 | Level 12 |
+| Skill | Value | Level 1 | Level 12 (highest) |
 | --- | --- | --- | --- |
 | Seek and Hunt | BATK SEQ 1 Multiplier | 10% | 23% |
 | Seek and Hunt | BATK SEQ 2 Multiplier | 13% | 28% |
@@ -158,7 +154,7 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Base skills
 
-Base skills work while Arclight is assigned to a room of the Dijiang. Each has two levels; the second replaces the first. See [Dijiang](/systems/dijiang/).
+Base skills work while Arclight is assigned to a room of the [Dijiang](/systems/dijiang/). Each has two levels; the second replaces the first.
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |

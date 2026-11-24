@@ -14,8 +14,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-자이히의 전투 데이터, 스킬, 획득 방법: [자이히](/ko/operators/xaihi/).
-
 ## 오퍼레이터 파일
 
 ### 기본 파일

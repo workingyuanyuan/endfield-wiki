@@ -16,9 +16,9 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-Dijiang is the Endministrator's ship and the base of Arknights: Endfield. Operators assigned to its rooms make progression materials, grow plants, fungi and minerals, collect clues and build trust while the player is elsewhere. Each room needs at least one operator to work, and every operator assigned raises its output. 33 of the 34 operators have base skills that add to one room; the Endministrator has none.
-
 ## Rooms
+
+Operators assigned to Dijiang's rooms make progression materials, grow plants, fungi and minerals, collect clues and build trust while the player is elsewhere. Each room needs at least one operator to work, and every operator assigned raises its output. 33 of the 34 operators have base skills that add to one room; the Endministrator has none.
 
 | Room | What it does | Base skills that work there |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ Dijiang is the Endministrator's ship and the base of Arknights: Endfield. Operat
 
 ## Base skills by room
 
-Which operators to assign to each room. Each base skill has two levels, unlocked at promotions; the second replaces the first. A clue skill does not stack with another of the same kind. Each operator's page lists their base skills under Base skills.
+Each base skill has two levels, unlocked at promotions; the second replaces the first. A clue skill does not stack with another of the same kind.
 
 ### Control Nexus
 

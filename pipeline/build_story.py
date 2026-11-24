@@ -141,11 +141,8 @@ def page(st, op, lang):
     fm += [f'  - {bp.quote(a)}' for a in aliases]
     fm += ['sources:', f'  - title: {bp.quote(SOURCE_TITLE[lang])}', f"    url: {st['source']}", '---']
 
-    op_link = f"[{n}]({PRE[lang]}/operators/{st['slug']}/)"
-    body = ['', L(lang, f'Combat data, skills and how to obtain {n}: {op_link}.', f'{n}的戰鬥資料、技能與取得方式：{op_link}。',
-                  f'{n}的战斗资料、技能与获取方式：{op_link}。', f'{n}の戦闘データ、スキル、入手方法：{op_link}。',
-                  f'{n}의 전투 데이터, 스킬, 획득 방법: {op_link}.'), '',
-            '## ' + TERMS['file'][lang], '']
+    # The body opens with a heading: the answer line is the page's only opening.
+    body = ['', '## ' + TERMS['file'][lang], '']
     for f in st['files']:
         body += ['### ' + esc(f['title'][lang]), '']
         u = unlock_text(f['unlock'], op, lang)
@@ -170,11 +167,12 @@ def index_page(stories, ops, lang):
     names = ('Operator files', '幹員檔案', '干员档案', 'プロファイル', '오퍼레이터 파일')
     title = L(lang, *names)
     titles = {x: L(x, *names) for x in LANGS}
-    desc = L(lang, "Operator files, voice lines and chats of Arknights: Endfield, by operator.",
-             '《明日方舟：終末地》的幹員檔案、語音與聊天，依幹員查找。',
-             '《明日方舟：终末地》的干员档案、语音与聊天，按干员查找。',
-             '『アークナイツ：エンドフィールド』のプロファイル、ボイス、チャットをオペレーター別に。',
-             '《명일방주: 엔드필드》의 오퍼레이터 파일, 음성, 채팅을 오퍼레이터별로.')
+    k = len(stories)
+    desc = L(lang, f"The files, voice lines and chats of the {k} operators of Arknights: Endfield.",
+             f'《明日方舟：終末地》{k} 名幹員的檔案、語音與聊天。',
+             f'《明日方舟：终末地》{k} 名干员的档案、语音与聊天。',
+             f'『アークナイツ：エンドフィールド』のオペレーター{k}人のプロファイル、ボイス、チャット。',
+             f'《명일방주: 엔드필드》 오퍼레이터 {k}명의 파일, 음성, 채팅.')
     assert len(desc) <= MAX_DESC[lang], (lang, len(desc))
     caveat = L(lang, "Each language has the game's own text in that language; the editions do not always match line for line.",
                '各語言是遊戲各自的版本，句子不一定逐句對應。', '各语言是游戏各自的版本，句子不一定逐句对应。',

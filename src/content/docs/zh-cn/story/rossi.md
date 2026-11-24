@@ -14,8 +14,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-洛茜的战斗资料、技能与获取方式：[洛茜](/zh-cn/operators/rossi/)。
-
 ## 干员档案
 
 ### 基础档案

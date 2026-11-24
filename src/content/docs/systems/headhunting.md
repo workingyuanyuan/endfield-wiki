@@ -1,6 +1,6 @@
 ---
 title: Headhunting rates and pity
-description: "Headhunting in Arknights: Endfield: banner types, base rates, 80 and 120-pull pity, 50/50, what carries over."
+description: "Arknights: Endfield headhunting: 0.8% base 6-star rate, a 6-star within 80 pulls, the rate-up within 120."
 appliesTo: "Arknights: Endfield, global service, Version 1.6"
 caveat: "The 80-pull 6-star count carries over from one Chartered banner to the next; the 120-pull rate-up guarantee resets when each Chartered banner ends, while in RE-Factor Headhunting it counts once across all banners of one name."
 lastVerified: 2026-11-22
@@ -63,6 +63,8 @@ sources:
     url: https://endfield.wiki.gg/wiki/Headhunting
 ---
 
+## Rates and pity
+
 Headhunting is how operators are obtained. Every pull has a 0.8% base rate for a 6-star operator, and a 6-star is guaranteed within 80 counted pulls; Urgent Recruitment pulls do not count. A Chartered Headhunting banner features one rate-up 6-star operator, guaranteed within the first 120 pulls on that banner; that count does not move to the next banner, but the 80-pull count does. A rate-up operator stays in the Chartered pool for three Chartered banners, its own included, and is never added to Basic Headhunting. Up to Version 1.6, two former rate-up operators came back in RE-Factor Headhunting #1, Yvonne in Version 1.5 and Tangtang in Version 1.6; its 120-pull rate-up guarantee counts once across all banners of that name, and the count carries over between them. Laevatain and Gilberta came back only in the Special banner Fest of Brilliance.
 
 ## Banner types
@@ -89,7 +91,7 @@ Chartered, RE-Factor and Special Headhunting open to an account once it has comp
 | Rate-up operator | Guaranteed within the first 120 pulls: once on each Chartered banner; once across all RE-Factor banners of one name |
 | Token | Every 240 pulls, one Token of the rate-up operator |
 
-The 10-pull and 80-pull guarantees and the rising rate hold on Basic, Chartered and RE-Factor Headhunting; the 80-pull count is kept per type. Basic Headhunting has no rate-up. Special Headhunting (Fest of Brilliance) had its own 10-pull and 80-pull guarantees, counted alone, and its other rules below.
+The 10-pull and 80-pull guarantees and the rising rate hold on Basic, Chartered and RE-Factor Headhunting; the 80-pull count is kept per type. Basic Headhunting has no rate-up. Special Headhunting (Fest of Brilliance) counted its 10-pull and 80-pull guarantees alone.
 
 ## How often a 6-star is not the rate-up operator
 
@@ -127,7 +129,7 @@ Each RE-Factor Headhunting banner runs with a RE-Factor Issue, the weapon banner
 | Rate-up weapon on the 8th attempt if the first 7 gave none | Once per Issue; resets when it ends | Once across all banners of one name; the count carries over |
 | Attempt rewards | Count resets when the Issue ends | Count carries over to the same name |
 
-Costs, rates and every Issue are on [Arsenal and Essences](/systems/arsenal/).
+
 
 ## Milestone rewards
 
@@ -155,7 +157,7 @@ A rate-up 6-star operator leaves the Chartered pool after three Chartered banner
 | [Si](/operators/si/) | Rejuvenation | [1.6](/versions/1-6/) | The second Chartered banner after Rejuvenation | None |
 | [Argent Flow](/operators/argent-flow/) | The Hearth Fire Beckons the Starry Flow | [1.6](/versions/1-6/) | The second Chartered banner after it | None |
 
-At release the first pool, Scars of the Forge, already held Gilberta and Yvonne, the rate-ups of the two banners after it. Gilberta was therefore in four Chartered pools and Yvonne in five; counted from its own banner, every rate-up operator is in three. The dates of each banner are on its version page under [Versions](/versions/); each operator has a page under [Operators](/operators/).
+At release the first pool, Scars of the Forge, already held Gilberta and Yvonne, the rate-ups of the two banners after it. Gilberta was therefore in four Chartered pools and Yvonne in five; counted from its own banner, every rate-up operator is in three.
 
 ## RE-Factor Headhunting banners
 
@@ -176,4 +178,4 @@ Fest of Brilliance ran from 2026-05-14 12:00 to the Version 1.3 update maintenan
 | 5-star | 200 |
 | 4-star | 20 |
 
-Chartered, RE-Factor and Special Headhunting give these amounts, and operators from events, purchases and selectors give the same. Arsenal Tickets are spent on weapons: see [Arsenal and Essences](/systems/arsenal/).
+Chartered, RE-Factor and Special Headhunting give these amounts, and operators from events, purchases and selectors give the same. Arsenal Tickets are spent on weapons in [Arsenal Issues](/systems/arsenal/).

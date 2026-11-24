@@ -49,6 +49,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/7014
 ---
 
+## Regional Development Level
+
 Regional Development is the progress of each region, Valley IV and Wuling, measured by its Regional Development Level. The level rises with Regional Development Metric, earned by exploring and by supplying goods to outposts, and it unlocks functions such as Regional Transfer, raises ore yields and raises how many facilities can be placed. Outposts pay Stock Bills for AIC products; Stock Bills buy goods at Stock Redistribution and pay for upgrades of Depot Nodes, terminals and the Core AIC Area.
 
 ## Regional Transfer: moving goods from Wuling to Valley IV and back
@@ -74,7 +76,7 @@ Running a Valley IV Thermal Bank on Wuling batteries:
 
 - Goods sent by Regional Transfer arrive in the Valley IV depot. From the depot, an output port of the PAC or a Sub-PAC, or a Depot Unloader, sends a chosen item onto a belt toward the Thermal Bank.
 - LC and SC Wuling Battery are Thermal Bank fuels, at 1600 and 3200 power, each burning for 40 seconds: one Thermal Bank uses 90 batteries an hour.
-- Both Wuling batteries are made in the Packaging Unit: recipes on [AIC power](/aic/power/).
+- Both Wuling batteries are made in the Packaging Unit (recipes on [AIC power](/aic/power/)).
 
 ## Outposts and Stock Bills
 
@@ -125,4 +127,4 @@ Two sources disagree on a transferred job that is not finished in time. The in-g
 | Level caps | Valley IV goes up to level 12. Every version from 1.1 to 1.6 raised the cap of Wuling |
 | Overview | Since Version 1.3, Regional Overview on the Regional Development screen shows Stock Redistribution, Depot Nodes and their places on the map |
 
-Protocol Capacity itself is explained on [Production and logistics](/aic/production/).
+

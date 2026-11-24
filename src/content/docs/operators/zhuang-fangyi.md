@@ -74,7 +74,7 @@ A limited operator stays in the pool of the two Chartered Headhunting banners af
 
 ## Recommended weapons
 
-The weapons the game recommends for Zhuang Fangyi, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Will and Intellect.
+Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Will and Intellect.
 
 | Weapon | Rarity | Essence stats |
 | --- | --- | --- |
@@ -82,8 +82,6 @@ The weapons the game recommends for Zhuang Fangyi, in the game's order. Each wea
 | Flickers in the Mist | 6 | Will, Electric DMG, Efficacy |
 | Oblivion | 6 | Intellect, Arts DMG, Twilight |
 | Monaihe | 5 | Will, ULT Efficiency, Inspiring |
-
-Every weapon, with its Essence stats and the operators it is recommended for, is on the [Weapons list](/systems/weapons/).
 
 ## Skills
 
@@ -127,9 +125,7 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skill values
 
-The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.
-
-| Skill | Value | Level 1 | Level 12 |
+| Skill | Value | Level 1 | Level 12 (highest) |
 | --- | --- | --- | --- |
 | Jolting Arts | BATK SEQ 1 Multiplier | 16% | 36% |
 | Jolting Arts | BATK SEQ 2 Multiplier | 24% | 54% |
@@ -196,7 +192,7 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Base skills
 
-Base skills work while Zhuang Fangyi is assigned to a room of the Dijiang. Each has two levels; the second replaces the first. See [Dijiang](/systems/dijiang/).
+Base skills work while Zhuang Fangyi is assigned to a room of the [Dijiang](/systems/dijiang/). Each has two levels; the second replaces the first.
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |

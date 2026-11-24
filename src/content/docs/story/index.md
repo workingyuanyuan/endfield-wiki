@@ -1,6 +1,6 @@
 ---
 title: "Operator files"
-description: "Operator files, voice lines and chats of Arknights: Endfield, by operator."
+description: "The files, voice lines and chats of the 34 operators of Arknights: Endfield."
 appliesTo: "Arknights: Endfield, global service; text of game data 1.6"
 caveat: "Each language has the game's own text in that language; the editions do not always match line for line."
 lastVerified: 2026-11-23

@@ -1,6 +1,6 @@
 ---
 title: Systems
-description: "Rules of Arknights: Endfield that hold across versions: headhunting, weapons, servers, combat, progression."
+description: "Arknights: Endfield headhunting, Arsenal Issues, servers, combat, progression, weapons, gear and Dijiang."
 appliesTo: "Arknights: Endfield, global service, Version 1.6"
 caveat: A rate-up 6-star operator stays in the pool for three Chartered Headhunting banners, its own included, and is never added to Basic Headhunting.
 lastVerified: 2026-11-22
@@ -17,9 +17,7 @@ sources:
     url: https://warfarin.wiki/en
 ---
 
-## Pages
-
-| Page | What it covers |
+| Topic | Contents |
 | --- | --- |
 | [Headhunting rates and pity](/systems/headhunting/) | Banner types, base rates, the 80 and 120-pull guarantees, what carries over, reruns |
 | [Arsenal and Essences](/systems/arsenal/) | Arsenal Tickets and Arsenal Issues for 6-star weapons; weapon Essences, Etching and Coolant Gel |
@@ -32,7 +30,3 @@ sources:
 | [Enemy resistances](/systems/enemies/) | Physical, Heat, Electric, Cryo and Nature resistances of every enemy, its class and where it lives |
 | [Dijiang](/systems/dijiang/) | The base ship: rooms, operator assignments, mood and shifts, and which operators' base skills suit each room |
 | [Names in three scripts](/systems/names/) | Operators, classes, elements, weapon types, factions and races in English, Traditional and Simplified Chinese |
-
-## Related sections
-
-Operators have one page each under [Operators](/operators/). What each version added, its headhunting banners and Arsenal Issues included, is under [Versions](/versions/). The factory is under [AIC](/aic/).

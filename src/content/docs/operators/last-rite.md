@@ -68,15 +68,13 @@ Banners other than Chartered Headhunting that listed Last Rite:
 
 ## Recommended weapons
 
-The weapons the game recommends for Last Rite, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Strength and Will.
+Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Strength and Will.
 
 | Weapon | Rarity | Essence stats |
 | --- | --- | --- |
 | Khravengger | 6 | Strength, ATK, Detonate |
 | Seeker of Dark Lung | 5 | Strength, ULT Efficiency, Detonate |
 | Sundered Prince | 6 | Strength, Critical Rate, Crusher |
-
-Every weapon, with its Essence stats and the operators it is recommended for, is on the [Weapons list](/systems/weapons/).
 
 ## Skills
 
@@ -117,9 +115,7 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skill values
 
-The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.
-
-| Skill | Value | Level 1 | Level 12 |
+| Skill | Value | Level 1 | Level 12 (highest) |
 | --- | --- | --- | --- |
 | Dance of Rime | BATK SEQ 1 Multiplier | 30% | 68% |
 | Dance of Rime | BATK SEQ 2 Multiplier | 55% | 124% |
@@ -178,7 +174,7 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Base skills
 
-Base skills work while Last Rite is assigned to a room of the Dijiang. Each has two levels; the second replaces the first. See [Dijiang](/systems/dijiang/).
+Base skills work while Last Rite is assigned to a room of the [Dijiang](/systems/dijiang/). Each has two levels; the second replaces the first.
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |

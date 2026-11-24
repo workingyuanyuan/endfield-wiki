@@ -69,7 +69,7 @@ Fest of Brilliance held only Laevatain, Gilberta, Ardelia and Pogranichnik as 6-
 
 ## Recommended weapons
 
-The weapons the game recommends for Ardelia, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Intellect and Will.
+Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Intellect and Will.
 
 | Weapon | Rarity | Essence stats |
 | --- | --- | --- |
@@ -78,8 +78,6 @@ The weapons the game recommends for Ardelia, in the game's order. Each weapon ha
 | Opus: Etch Figure | 6 | Will, Nature DMG, Suppression |
 | Stanza of Memorials | 5 | Intellect, ATK, Twilight |
 | OBJ Arts Identifier | 5 | Intellect, Arts Intensity, Pursuit |
-
-Every weapon, with its Essence stats and the operators it is recommended for, is on the [Weapons list](/systems/weapons/).
 
 ## Skills
 
@@ -116,9 +114,7 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skill values
 
-The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.
-
-| Skill | Value | Level 1 | Level 12 |
+| Skill | Value | Level 1 | Level 12 (highest) |
 | --- | --- | --- | --- |
 | Rocky Whispers | BATK SEQ 1 Multiplier | 30% | 68% |
 | Rocky Whispers | BATK SEQ 2 Multiplier | 40% | 90% |
@@ -180,7 +176,7 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Base skills
 
-Base skills work while Ardelia is assigned to a room of the Dijiang. Each has two levels; the second replaces the first. See [Dijiang](/systems/dijiang/).
+Base skills work while Ardelia is assigned to a room of the [Dijiang](/systems/dijiang/). Each has two levels; the second replaces the first.
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |

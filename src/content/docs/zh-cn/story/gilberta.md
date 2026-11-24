@@ -14,8 +14,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-洁尔佩塔的战斗资料、技能与获取方式：[洁尔佩塔](/zh-cn/operators/gilberta/)。
-
 ## 干员档案
 
 ### 基础档案

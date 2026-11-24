@@ -53,20 +53,19 @@ sources:
     url: https://endfield.wiki.gg/wiki/Version
 ---
 
-『アークナイツ：エンドフィールド』は2026-01-22 11:00にPC（GRYPHLINKランチャーおよびEpic Games Store）、PlayStation 5、iOS、Androidで正式リリースされた。2026-04-03にGeForce NOWに対応し、2026-10-15のバージョン1.6アップデートとともにSteam版が配信された。同じサーバーでプレイしていれば、すべてのプラットフォーム間で進行状況が共有される。
-
 ## プラットフォームとストア
 
 | プラットフォーム | クライアントまたはストア | 対応開始 | ログイン方法 |
 | --- | --- | --- | --- |
-| PC（Windows） | GRYPHLINKランチャー（公式サイトから入手） | 正式リリース、2026-01-22 | Gryphlineアカウント |
-| PC（Windows） | Epic Games Store | 正式リリース、2026-01-22 | Gryphlineアカウント |
-| PlayStation 5 | PlayStation Store | 正式リリース、2026-01-22 | PSNアカウントのみ |
-| iOSおよびiPadOS | App Store | 正式リリース、2026-01-22 | Gryphlineアカウント |
-| Android | Androidクライアント | 正式リリース、2026-01-22 | Gryphlineアカウント |
+| PC（Windows） | GRYPHLINKランチャー（公式サイトから入手） | 正式リリース、2026-01-22 11:00 | Gryphlineアカウント |
+| PC（Windows） | Epic Games Store | 正式リリース、2026-01-22 11:00 | Gryphlineアカウント |
+| PlayStation 5 | PlayStation Store | 正式リリース、2026-01-22 11:00 | PSNアカウントのみ |
+| iOSおよびiPadOS | App Store | 正式リリース、2026-01-22 11:00 | Gryphlineアカウント |
+| Android | Androidクライアント | 正式リリース、2026-01-22 11:00 | Gryphlineアカウント |
 | PC（Windows） | Steam（アプリID 4732690） | バージョン1.6アップデート後、2026-10-15 | Gryphlineアカウントと連携したSteamアカウント |
 | クラウド | NVIDIA GeForce NOW：Windows PC、Mac、Chromebook用クライアント、またはChrome・Edgeのウェブ版 | 2026-04-03 | Gryphlineアカウント |
 
+- 同じサーバーでプレイしていれば、すべてのプラットフォーム間で進行状況が共有される。
 - Gryphlineアカウントは、Google、Apple、Facebookなどの外部アカウントを使ってログインできる。
 - すべてのプラットフォームから両サーバーへ接続できる。GeForce NOWはGeForce NOW会員資格が必要で、利用可否は国や地域による。
 - Steam版は他プラットフォームと同じサーバーで動作し、ダウンロードとアップデートはGRYPHLINKではなくSteamクライアント経由でのみ行う。購入はSteamオーバーレイを通じて行われる。

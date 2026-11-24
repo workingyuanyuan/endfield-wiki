@@ -14,8 +14,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-ザイヒの戦闘データ、スキル、入手方法：[ザイヒ](/ja/operators/xaihi/)。
-
 ## プロファイル
 
 ### 基礎情報

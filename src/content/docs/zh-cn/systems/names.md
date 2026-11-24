@@ -2,7 +2,7 @@
 title: "名称对照"
 description: "《明日方舟：终末地》干员、职业、属性、武器类型、阵营与种族的三种文字名称。"
 appliesTo: "《明日方舟：终末地》国际版，1.6 版；名称出自三种语言的游戏数据 1.6"
-caveat: "洛茜的简体中文名是洛茜，用字不同，不只是繁简转换。简体中文名称出自游戏本身的简体中文文字。"
+caveat: "洛茜的简体中文名是洛茜，用字不同，不只是繁简转换。"
 lastVerified: 2026-11-22
 effectiveDate: 2026-11-22
 aliases:
@@ -19,7 +19,6 @@ sources:
     url: https://warfarin.wiki/en/operators
 ---
 
-武器名称见[武器列表](/zh-cn/systems/weapons/)；寻访名称与版本标题见各[版本页](/zh-cn/versions/)。
 
 ## 干员
 

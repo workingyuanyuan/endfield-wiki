@@ -53,6 +53,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9560
 ---
 
+## Why a factory runs out of power
+
 A factory runs out of power when its facilities draw more than the region's grid generates. The grid's source is the Protocol Automation-Core (PAC), and Thermal Banks raise its output only while they burn Originium Ore or batteries. When demand stays above output, the PAC's power reserve drains; at zero, Backup Power can keep everything running for 30 minutes, then the region has a power outage. A blueprint adds facilities and their power use at once, but no generation.
 
 ## Why a factory is out of power after placing a blueprint
@@ -149,4 +151,4 @@ Since Version 1.3, Xiranite Pylons and Relays inside a Core AIC Area can connect
 | 0, must be on the grid | Electric Pylon, Xiranite Pylon, Relay Tower, Xiranite Relay, Thermal Bank |
 | No grid needed | Portable Originium Rig, Hydro Mining Rig, Gas Extractor, Gas Dispersing Unit, Depot Loader, Depot Unloader, Depot Bus Port, Depot Bus Section, Fluid Tank, Gas Tank, Conduit Inlet, Conduit Outlet |
 
-The full list of facilities with names in Chinese is on [AIC overview](/aic/). Batteries are also bought by outposts for Stock Bills: see [Regional Development](/aic/regional-development/).
+Batteries are also bought by outposts for Stock Bills: see [Regional Development](/aic/regional-development/).

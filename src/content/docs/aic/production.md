@@ -43,7 +43,9 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
 ---
 
-A production facility turns inputs into outputs by recipe (production formula). It runs one recipe at a time and starts as soon as the items in it match one of its recipes. Items reach it by transport belt from other facilities or from the depot, fluids by pipe, and products leave by belt toward the next facility, a Depot Loader or a Protocol Stash.
+## How a production facility works
+
+A production facility runs one recipe (production formula) at a time and starts as soon as the items in it match one of its recipes. Items reach it by transport belt from other facilities or from the depot, fluids by pipe, and products leave by belt toward the next facility, a Depot Loader or a Protocol Stash.
 
 ## How a facility takes inputs and gives outputs
 
@@ -76,7 +78,7 @@ Every region has its own Protocol Capacity. Placing facilities outside the Core 
 
 ## What each production facility makes
 
-Power use is in power units; the grid is explained on [AIC power](/aic/power/). Every recipe, sorted by product, is on [Recipes by product](/aic/recipes/).
+Power use is in power units.
 
 | Facility | Power | Recipes | What it makes |
 | --- | --- | --- | --- |
@@ -101,7 +103,7 @@ Power use is in power units; the grid is explained on [AIC power](/aic/power/). 
 
 The Water Treatment Unit (power use 50) processes Sewage, and Xircon Effluent and Inert Xircon Effluent at lower efficiency.
 
-## Full recipes of the facilities with few recipes
+## Recipes of the Gas Reactor Globe, Forge of the Sky, Gearing, Grinding and Planting Units
 
 | Facility | Inputs | Output | Time |
 | --- | --- | --- | --- |
@@ -131,7 +133,7 @@ The Water Treatment Unit (power use 50) processes Sewage, and Xircon Effluent an
 | Gearing Unit | Hetonite Part ×2, Heavy Xiranite ×2 | Hetonite Component ×1 | 10 s |
 | Gearing Unit | Pyrrolite Part ×1, Heavy Xiranite ×2 | Pyrrolite Component ×1 | 10 s |
 
-The battery recipes of the Packaging Unit are on [AIC power](/aic/power/).
+
 
 ## Expanded Crucible: Multi-Clog Auto-Fix
 

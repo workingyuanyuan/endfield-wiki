@@ -69,7 +69,9 @@ sources:
     url: https://bbs.nga.cn/read.php?tid=47943821
 ---
 
-6-star weapons come mainly from Arsenal Issues, the weapon gacha, paid with Arsenal Tickets that every operator pulled in headhunting brings: 2000 for a 6-star, 200 for a 5-star, 20 for a 4-star. One Issue attempt gives 10 weapons with at least one 5-star or better. Each Arsenal Issue has one rate-up 6-star weapon and stays open for three Chartered Headhunting banners, counted from the one it opens with, so several Issues are open at once; RE-Factor Issues and the two Issues that opened with Fest of Brilliance had an end date of their own. Essences, dropped by enemies, raise the level of a weapon's skills.
+## Arsenal Issues
+
+6-star weapons come mainly from Arsenal Issues paid with Arsenal Tickets that every operator pulled in headhunting brings: 2000 for a 6-star, 200 for a 5-star, 20 for a 4-star. One Issue attempt gives 10 weapons with at least one 5-star or better. Each Arsenal Issue has one rate-up 6-star weapon and stays open for three Chartered Headhunting banners, counted from the one it opens with, so several Issues are open at once; RE-Factor Issues and the two Issues that opened with Fest of Brilliance had an end date of their own. Essences, dropped by enemies, raise the level of a weapon's skills.
 
 ## Where Arsenal Tickets come from
 
@@ -120,7 +122,7 @@ A regular Arsenal Issue opens with a Chartered Headhunting banner and closes wit
 
 ## Arsenal Issues by version
 
-Weapon types are explained under [Weapons list](/systems/weapons/).
+
 
 | Issue | Kind | Rate-up 6-star weapon | Opens | Ends |
 | --- | --- | --- | --- | --- |
@@ -142,7 +144,7 @@ Weapon types are explained under [Weapons list](/systems/weapons/).
 | Tender Sprig Issue | RE-Factor Issue #1 | Brigand's Calling (Handcannon) | 2026-10-29 12:00 | 2026-11-19 11:59 |
 | Moongleam Issue | Arsenal Issue | Lunar Calling (Sword) | 2026-11-05 12:00 | 3rd Chartered banner from The Hearth Fire Beckons the Starry Flow |
 
-The headhunting banners these Issues ran beside are on the version pages under [Versions](/versions/); their rules are on [Headhunting rates and pity](/systems/headhunting/).
+
 
 ## RE-Factor Issues
 

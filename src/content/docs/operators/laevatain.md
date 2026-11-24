@@ -76,7 +76,7 @@ Fest of Brilliance held only Laevatain, Gilberta, Ardelia and Pogranichnik as 6-
 
 ## Recommended weapons
 
-The weapons the game recommends for Laevatain, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Intellect and Strength.
+Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Intellect and Strength.
 
 | Weapon | Rarity | Essence stats |
 | --- | --- | --- |
@@ -84,8 +84,6 @@ The weapons the game recommends for Laevatain, in the game's order. Each weapon 
 | Umbral Torch | 6 | Intellect, Heat DMG, Infliction |
 | White Night Nova | 6 | Main Attribute, Arts Intensity, Infliction |
 | Fortmaker | 5 | Intellect, ULT Efficiency, Inspiring |
-
-Every weapon, with its Essence stats and the operators it is recommended for, is on the [Weapons list](/systems/weapons/).
 
 ## Skills
 
@@ -128,9 +126,7 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skill values
 
-The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.
-
-| Skill | Value | Level 1 | Level 12 |
+| Skill | Value | Level 1 | Level 12 (highest) |
 | --- | --- | --- | --- |
 | Flaming Cinders | BATK SEQ 1 Multiplier | 16% | 36% |
 | Flaming Cinders | BATK SEQ 2 Multiplier | 24% | 54% |
@@ -211,7 +207,7 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Base skills
 
-Base skills work while Laevatain is assigned to a room of the Dijiang. Each has two levels; the second replaces the first. See [Dijiang](/systems/dijiang/).
+Base skills work while Laevatain is assigned to a room of the [Dijiang](/systems/dijiang/). Each has two levels; the second replaces the first.
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |

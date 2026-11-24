@@ -53,20 +53,19 @@ sources:
     url: https://endfield.wiki.gg/wiki/Version
 ---
 
-《명일방주: 엔드필드》는 2026-01-22 11:00에 PC(GRYPHLINK 런처 및 Epic Games Store), PlayStation 5, iOS, Android로 정식 출시되었다. 2026-04-03에 GeForce NOW가 추가되었고, 2026-10-15의 1.6 버전 업데이트와 함께 Steam 버전이 출시되었다. 같은 서버에서 플레이하는 한 모든 플랫폼 간 진행도가 공유된다.
-
 ## 플랫폼과 스토어
 
 | 플랫폼 | 클라이언트 또는 스토어 | 지원 시작 | 로그인 방식 |
 | --- | --- | --- | --- |
-| PC(Windows) | GRYPHLINK 런처(공식 홈페이지에서 다운로드) | 정식 출시, 2026-01-22 | Gryphline 계정 |
-| PC(Windows) | Epic Games Store | 정식 출시, 2026-01-22 | Gryphline 계정 |
-| PlayStation 5 | PlayStation Store | 정식 출시, 2026-01-22 | PSN 계정만 가능 |
-| iOS 및 iPadOS | App Store | 정식 출시, 2026-01-22 | Gryphline 계정 |
-| Android | Android 클라이언트 | 정식 출시, 2026-01-22 | Gryphline 계정 |
+| PC(Windows) | GRYPHLINK 런처(공식 홈페이지에서 다운로드) | 정식 출시, 2026-01-22 11:00 | Gryphline 계정 |
+| PC(Windows) | Epic Games Store | 정식 출시, 2026-01-22 11:00 | Gryphline 계정 |
+| PlayStation 5 | PlayStation Store | 정식 출시, 2026-01-22 11:00 | PSN 계정만 가능 |
+| iOS 및 iPadOS | App Store | 정식 출시, 2026-01-22 11:00 | Gryphline 계정 |
+| Android | Android 클라이언트 | 정식 출시, 2026-01-22 11:00 | Gryphline 계정 |
 | PC(Windows) | Steam, 앱 4732690 | 1.6 버전 업데이트 후, 2026-10-15 | Gryphline 계정에 연동된 Steam 계정 |
 | 클라우드 | NVIDIA GeForce NOW: Windows PC, Mac, Chromebook용 클라이언트 또는 Chrome, Edge의 웹 버전 | 2026-04-03 | Gryphline 계정 |
 
+- 같은 서버에서 플레이하는 한 모든 플랫폼 간 진행도가 공유된다.
 - Gryphline 계정은 Google, Apple, Facebook 같은 제3자 계정으로 로그인할 수 있다.
 - 모든 플랫폼에서 두 서버 모두 접속할 수 있다. GeForce NOW는 GeForce NOW 멤버십이 필요하며, 이용 가능 여부는 국가나 지역에 따라 다르다.
 - Steam 버전은 다른 플랫폼과 같은 서버에서 실행되며, GRYPHLINK가 아니라 Steam 클라이언트를 통해서만 다운로드하고 업데이트한다. 결제는 Steam 오버레이를 통해 이루어진다.

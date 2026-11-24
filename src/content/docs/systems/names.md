@@ -2,7 +2,7 @@
 title: "Names in three scripts"
 description: "Operators, classes, elements, weapon types, attributes, factions and races of Endfield in three scripts."
 appliesTo: "Arknights: Endfield, global service, Version 1.6; names from game data 1.6 in three languages"
-caveat: "Rossi is 洛西 in Traditional Chinese and 洛茜 in Simplified Chinese: a different character, not a conversion between scripts. The Simplified names are those of the game's own Simplified Chinese text."
+caveat: "Rossi is 洛西 in Traditional Chinese and 洛茜 in Simplified Chinese: a different character, not a conversion between scripts."
 lastVerified: 2026-11-22
 effectiveDate: 2026-11-22
 aliases:
@@ -19,7 +19,6 @@ sources:
     url: https://warfarin.wiki/en/operators
 ---
 
-Names of weapons are on [Weapons list](/systems/weapons/); names of banners are on each [version page](/versions/), with the version titles.
 
 ## Operators
 

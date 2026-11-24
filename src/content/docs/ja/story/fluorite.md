@@ -14,8 +14,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-フローライトの戦闘データ、スキル、入手方法：[フローライト](/ja/operators/fluorite/)。
-
 ## プロファイル
 
 ### 基礎情報

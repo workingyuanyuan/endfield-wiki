@@ -56,15 +56,13 @@ Purrchena was given by Purry Big Feline! RAWR!, a giveaway event of Version 1.5 
 
 ## Recommended weapons
 
-The weapons the game recommends for Purrchena, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Strength and Will.
+Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here Strength and Will.
 
 | Weapon | Rarity | Essence stats |
 | --- | --- | --- |
 | Dessert Moment | 5 | Strength, Treatment Efficiency, Medicant |
 | Farsight | 6 | Main Attribute, Arts Intensity, Assault |
 | Rapid Ascent | 6 | Main Attribute, Critical Rate, Twilight |
-
-Every weapon, with its Essence stats and the operators it is recommended for, is on the [Weapons list](/systems/weapons/).
 
 ## Skills
 
@@ -108,9 +106,7 @@ Every weapon, with its Essence stats and the operators it is recommended for, is
 
 ## Skill values
 
-The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.
-
-| Skill | Value | Level 1 | Level 12 |
+| Skill | Value | Level 1 | Level 12 (highest) |
 | --- | --- | --- | --- |
 | DESSERT! HAVE SOME! | BATK SEQ 1 Multiplier | 48% | 108% |
 | DESSERT! HAVE SOME! | BATK SEQ 2 Multiplier | 52% | 116% |
@@ -177,7 +173,7 @@ The values the game lists for each skill, at skill level 1 and at the highest le
 
 ## Base skills
 
-Base skills work while Purrchena is assigned to a room of the Dijiang. Each has two levels; the second replaces the first. See [Dijiang](/systems/dijiang/).
+Base skills work while Purrchena is assigned to a room of the [Dijiang](/systems/dijiang/). Each has two levels; the second replaces the first.
 
 | Skill | Room | Unlock | Effect |
 | --- | --- | --- | --- |

@@ -1,8 +1,8 @@
 ---
 title: Versions
-description: "Arknights: Endfield has had seven versions, 1.0 to 1.6, each with a number, a title and an update date."
+description: "Arknights: Endfield has had seven versions, from the release on 2026-01-22 to Version 1.6 on 2026-10-15."
 appliesTo: "Arknights: Endfield, global service, release (2026-01-22) to Version 1.6 (2026-10-15)"
-caveat: Purrchena of Version 1.5 is a 5-star operator who was in no headhunting banner; every other new operator in the table was a 6-star Chartered Headhunting rate-up.
+caveat: Purrchena of Version 1.5 is a 5-star operator who was in no headhunting banner; every other new operator was a 6-star Chartered Headhunting rate-up.
 lastVerified: 2026-11-21
 effectiveDate: 2026-10-15
 aliases:
@@ -22,9 +22,9 @@ sources:
     url: https://game8.co/games/Arknights-Endfield/archives/618733
 ---
 
-Each version has a number and a title: Version 1.6, for example, is titled Sanctuary of Ink. Each update's maintenance ran from 06:00 to 12:00 on its date. Version 1.0 is the release, at 11:00 on 2026-01-22.
-
 ## Version list
+
+Each update's maintenance ran from 06:00 to 12:00 on its date; the release opened at 11:00 on 2026-01-22.
 
 | No. | Title | Chinese title | Update date | New operators |
 | --- | --- | --- | --- | --- |
@@ -36,4 +36,4 @@ Each version has a number and a title: Version 1.6, for example, is titled Sanct
 | [1.5](/versions/1-5/) | Dreamscape of Wind and Snow | 雪淞幽夢 | 2026-09-02 | Typhoeus, Purrchena (5-star) |
 | [1.6](/versions/1-6/) | Sanctuary of Ink | 丹青渡 | 2026-10-15 | Si, Argent Flow |
 
-All new operators are 6-star unless marked. Headhunting rules are on [Headhunting rates and pity](/systems/headhunting/).
+All new operators are 6-star unless marked.

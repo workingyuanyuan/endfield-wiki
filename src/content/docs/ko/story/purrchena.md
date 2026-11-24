@@ -14,8 +14,6 @@ sources:
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
 
-푸치나의 전투 데이터, 스킬, 획득 방법: [푸치나](/ko/operators/purrchena/).
-
 ## 오퍼레이터 파일
 
 ### 기본 파일

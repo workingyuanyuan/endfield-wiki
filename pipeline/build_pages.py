@@ -343,10 +343,10 @@ def obtain(op, st, lang):
         out = []
         if st['starting']:
             who = list_names(OBTAIN['starting'], lang)
-            out.append({EN: f'Every account has {n} from the start of the game. The four starting operators are {who}.',
-                        ZH: f'每個帳號從遊戲開始就擁有{n}。初始幹員共四名：{who}。',
-                        JA: f'どのアカウントもゲーム開始時から{n}を所持している。初期オペレーターは{who}の4人である。',
-                        KO: f'모든 계정이 게임 시작부터 {josa(n, OBJ)} 보유한다. 초기 오퍼레이터는 {who} 4명이다.'}[lang])
+            out.append({EN: f'The four starting operators are {who}.',
+                        ZH: f'初始幹員共四名：{who}。',
+                        JA: f'初期オペレーターは{who}の4人である。',
+                        KO: f'초기 오퍼레이터는 {who} 4명이다.'}[lang])
         if k == 'standard6':
             five = list_names(STANDARD6, lang)
             out.append({EN: f'{n} has no rate-up banner. Five standard 6-star operators are in the pool of Basic Headhunting and of every Chartered Headhunting banner: {five}.',
@@ -482,7 +482,7 @@ def page(op, lang):
     voice = op['voice'][lang]
     body = ['', L(f'![{n}, official card art](/art/operators/{slug}.webp)', f'![{n}，官方卡面圖](/art/operators/{slug}.webp)',
                   f'![{n}、公式カードイラスト](/art/operators/{slug}.webp)', f'![{n}, 공식 카드 일러스트](/art/operators/{slug}.webp)'), '',
-            L('## Profile', '## 基本資料', '## プロフィール', '## 프로필'), '', L('| Field | Value |', '| 欄位 | 內容 |', '| 項目 | 内容 |', '| 항목 | 내용 |'), '| --- | --- |']
+            L('## Profile', '## 基本資料', '## プロフィール', '## 프로필'), '', L('| Field | Value |', '| 項目 | 內容 |', '| 項目 | 内容 |', '| 항목 | 내용 |'), '| --- | --- |']
     rows = [
         (L('Rarity', '稀有度', J('Rarity'), K('Rarity')), L(f"{op['rarity']}-star", f"{op['rarity']} 星", f"星{op['rarity']}", f"{op['rarity']}성")),
         (L('Class', '職業', J('Class'), K('Class')), op['class'][lang]), (L('Element', '屬性', J('Element'), K('Element')), op['element'][lang]),
@@ -507,21 +507,16 @@ def page(op, lang):
         body += [block, '']
 
     n_main, n_sub = op['mainAttr'][lang], op['subAttr'][lang]
-    weapons_link = {EN: link(EN, 'Weapons list', 'systems/weapons'), ZH: link(ZH, '武器列表', 'systems/weapons'),
-                    JA: link(JA, '武器一覧', 'systems/weapons'), KO: link(KO, '무기 목록', 'systems/weapons')}[lang]
     body += [L('## Recommended weapons', '## 推薦武器', f"## {J('Recommended')}{J('Weapon')}", f"## {K('Recommended')} {K('Weapon')}"), '',
-             L(f"The weapons the game recommends for {n}, in the game's order. Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here {n_main} and {n_sub}.",
-               f"遊戲為{n}推薦的武器，依遊戲中的順序。每把武器有三個基質詞條，各對應一個武器技能；基質帶有哪個詞條，就提升對應的技能。遊戲也會為每名幹員推薦提升主屬性與副屬性的武器，{n}是{n_main}與{n_sub}。",
-               f"ゲームが{n}に{J('Recommended')}する武器を、ゲーム内の順に並べた。各武器には{J('Essence Stats')}が3つあり、それぞれ{J('Weapon Skill')}1つに対応する。{J('Essence')}は、持っている{J('Essence Stats')}に対応するスキルをすべて強化する。ゲームはどのオペレーターにも、{J('Main Attribute')}と{J('Secondary Attribute')}を上げる武器も{J('Recommended')}する。{n}の場合は{n_main}と{n_sub}である。",
-               f"게임이 {n}에게 {K('Recommended')}하는 무기를 게임 내 순서대로 정리했다. 각 무기에는 {josa(K('Essence Stats'), SUBJ)} 3개 있으며, 각각 {K('Weapon Skill')} 하나에 대응한다. {josa(K('Essence'), TOPIC)} 지닌 {K('Essence Stats')}에 대응하는 스킬을 모두 강화한다. 게임은 모든 오퍼레이터에게 {josa(K('Main Attribute'), AND)} {josa(K('Secondary Attribute'), OBJ)} 올리는 무기도 {K('Recommended')}하며, {n}에게는 {n_main}·{n_sub} 무기이다."), '',
+             L(f"Each weapon has three Essence stats, one per weapon skill; an Essence raises every skill whose stat it carries. The game also recommends, for every operator, weapons that raise the main and secondary attributes, here {n_main} and {n_sub}.",
+               f"每把武器有三個基質詞條，各對應一個武器技能；基質帶有哪個詞條，就提升對應的技能。遊戲也會為每名幹員推薦提升主屬性與副屬性的武器，{n}是{n_main}與{n_sub}。",
+               f"各武器には{J('Essence Stats')}が3つあり、それぞれ{J('Weapon Skill')}1つに対応する。{J('Essence')}は、持っている{J('Essence Stats')}に対応するスキルをすべて強化する。ゲームはどのオペレーターにも、{J('Main Attribute')}と{J('Secondary Attribute')}を上げる武器も{J('Recommended')}する。{n}の場合は{n_main}と{n_sub}である。",
+               f"각 무기에는 {josa(K('Essence Stats'), SUBJ)} 3개 있으며, 각각 {K('Weapon Skill')} 하나에 대응한다. {josa(K('Essence'), TOPIC)} 지닌 {K('Essence Stats')}에 대응하는 스킬을 모두 강화한다. 게임은 모든 오퍼레이터에게 {josa(K('Main Attribute'), AND)} {josa(K('Secondary Attribute'), OBJ)} 올리는 무기도 {K('Recommended')}하며, {n}에게는 {n_main}·{n_sub} 무기이다."), '',
              L('| Weapon | Rarity | Essence stats |', '| 武器 | 稀有度 | 基質詞條 |', f"| {J('Weapon')} | {J('Rarity')} | {J('Essence Stats')} |", f"| {K('Weapon')} | {K('Rarity')} | {K('Essence Stats')} |"), '| --- | --- | --- |']
     body += recommended(op, lang)
-    body += ['', L(f'Every weapon, with its Essence stats and the operators it is recommended for, is on the {weapons_link}.',
-                   f'所有武器的基質詞條與推薦幹員見{weapons_link}。',
-                   f"すべての武器の{J('Essence Stats')}と{J('Recommended')}オペレーターは{weapons_link}にある。",
-                   f"모든 무기의 {josa(K('Essence Stats'), AND)} {K('Recommended')} 오퍼레이터는 {weapons_link}에 있다."), '']
+    body += ['']
     body += [L('## Skills', '## 技能', f"## {J('Skills')}", f"## {K('Skills')}"), '',
-             L('| Slot | Name | Cost or cooldown |', '| 欄位 | 名稱 | 消耗或冷卻 |', f"| 枠 | 名称 | コスト・{J('Cooldown')} |", f"| 구분 | 이름 | 소모·{K('Cooldown')} |"), '| --- | --- | --- |']
+             L('| Slot | Name | Cost or cooldown |', '| 類型 | 名稱 | 消耗或冷卻 |', f"| 枠 | 名称 | コスト・{J('Cooldown')} |", f"| 구분 | 이름 | 소모·{K('Cooldown')} |"), '| --- | --- | --- |']
     for s in op['skills']:
         body.append(f"| {SLOT[s['kind']][lang]} | {s['name'][lang]} | {skill_cost(s, lang)} |")
     texts = {g['kind']: g for g in game['skills']}
@@ -538,11 +533,7 @@ def page(op, lang):
             body += [quoted(c['text'][lang]), '']
         body.pop()
     body += ['', L('## Skill values', '## 技能數值', f"## {J('Skills')}数値", f"## {K('Skills')} 수치"), '',
-             L('The values the game lists for each skill, at skill level 1 and at the highest level, 12. A value that does not change is the same in both columns.',
-               '遊戲為每個技能列出的數值，分別是技能等級 1 與最高的等級 12。不隨等級改變的數值，兩欄相同。',
-               'ゲームが各スキルに示す数値を、スキルレベル1と最高のレベル12で示す。レベルで変わらない数値は、両方の列で同じである。',
-               '게임이 각 스킬에 표시하는 수치로, 스킬 레벨 1과 최고 레벨 12의 값이다. 레벨에 따라 변하지 않는 수치는 두 열이 같다.'), '',
-             L('| Skill | Value | Level 1 | Level 12 |', '| 技能 | 數值 | 等級 1 | 等級 12 |', '| スキル | 数値 | レベル1 | レベル12 |', '| 스킬 | 수치 | 레벨 1 | 레벨 12 |'), '| --- | --- | --- | --- |']
+             L('| Skill | Value | Level 1 | Level 12 (highest) |', '| 技能 | 數值 | 等級 1 | 等級 12（最高） |', '| スキル | 数値 | レベル1 | レベル12（最高） |', '| 스킬 | 수치 | 레벨 1 | 레벨 12(최고) |'), '| --- | --- | --- | --- |']
     for s in op['skills']:
         assert s['levels'] == 12, (slug, s['kind'])
         for v in s['values']:
@@ -564,10 +555,10 @@ def page(op, lang):
         dj = {EN: link(EN, 'Dijiang', 'systems/dijiang'), ZH: link(ZH, '帝江號', 'systems/dijiang'),
               JA: link(JA, J('Dijiang'), 'systems/dijiang'), KO: link(KO, K('Dijiang'), 'systems/dijiang')}[lang]
         body += ['', L('## Base skills', '## 後勤技能', f"## {J('Base Skill')}", f"## {K('Base Skill')}"), '',
-                 L(f"Base skills work while {n} is assigned to a room of the Dijiang. Each has two levels; the second replaces the first. See {dj}.",
-                   f"{n}進駐帝江號的艙室時，後勤技能生效。每個技能有兩級，第二級取代第一級。見{dj}。",
-                   f"{J('Base Skill')}は、{n}が{J('Dijiang')}の{J('Cabin')}に{J('Assign')}されている間に効果を発揮する。各スキルには2段階あり、2段階目が1段階目に置き換わる。詳しくは{dj}にある。",
-                   f"{josa(K('Base Skill'), TOPIC)} {josa(n, SUBJ)} {K('Dijiang')}의 {K('Cabin')}에 {K('Assign')}되어 있는 동안 효과가 있다. 각 스킬은 2단계이며, 2단계가 1단계를 대체한다. 자세한 내용은 {dj}에 있다."), '',
+                 L(f"Base skills work while {n} is assigned to a room of the {dj}. Each has two levels; the second replaces the first.",
+                   f"{n}進駐{dj}的艙室時，後勤技能生效。每個技能有兩級，第二級取代第一級。",
+                   f"{J('Base Skill')}は、{n}が{dj}の{J('Cabin')}に{J('Assign')}されている間に効果を発揮する。各スキルには2段階あり、2段階目が1段階目に置き換わる。",
+                   f"{josa(K('Base Skill'), TOPIC)} {josa(n, SUBJ)} {dj}의 {K('Cabin')}에 {K('Assign')}되어 있는 동안 효과가 있다. 각 스킬은 2단계이며, 2단계가 1단계를 대체한다."), '',
                  L('| Skill | Room | Unlock | Effect |', '| 技能 | 艙室 | 解鎖 | 效果 |', f"| スキル | {J('Cabin')} | {J('Unlock')} | 効果 |", f"| 스킬 | {K('Cabin')} | {K('Unlock')} | 효과 |"),
                  '| --- | --- | --- | --- |']
         for sk in BASE['operators'][op['slug']]:
