@@ -44,10 +44,9 @@ sources:
 | Voice, Japanese | Kitamura Eri |
 | Voice, Chinese | Cai Na |
 | Voice, Korean | Kang Eun-ae |
+| Operator File | [Avywenna's file](/story/avywenna/) |
 
 Avywenna is a socially adept Armed Messenger who left a major logistics family in the Free City of Alloycarrot to travel Talos-II and eventually join Endfield Industries.
-
-Files, voice lines and chats: [Avywenna's file](/story/avywenna/).
 
 ## How to obtain
 

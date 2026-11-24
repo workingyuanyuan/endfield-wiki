@@ -52,10 +52,9 @@ sources:
 | Voice, Japanese | Lynn |
 | Voice, Chinese | Tang Yajing |
 | Voice, Korean | KIM SOONMI |
+| Operator File | [Arcane's file](/story/arcane/) |
 
 Arcane is the stern captain of the Yinglung Special Task Force stationed at Yinglung Pass; since the disaster in the northern exclusion zone, containing the Wuling Very Large Rift has been her only aim.
-
-Files, voice lines and chats: [Arcane's file](/story/arcane/).
 
 ## How to obtain
 

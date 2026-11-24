@@ -42,10 +42,9 @@ sources:
 | Voice, Japanese | Akesaka Satomi |
 | Voice, Chinese | LSS |
 | Voice, Korean | Yu Yeong |
+| Operator File | [Snowshine's file](/story/snowshine/) |
 
 Snowshine is a Rhodes Island search and rescue specialist assigned to Endfield Industries who focuses on polar and high-altitude operations and wrote the Polar Survival Guide.
-
-Files, voice lines and chats: [Snowshine's file](/story/snowshine/).
 
 ## How to obtain
 

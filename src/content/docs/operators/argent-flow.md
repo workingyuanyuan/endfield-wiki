@@ -45,10 +45,9 @@ sources:
 | Voice, Japanese | Nakamura Yuichi |
 | Voice, Chinese | Sanshi |
 | Voice, Korean | Min Seungwoo |
+| Operator File | [Argent Flow's file](/story/argent-flow/) |
 
 Argent Flow is an Imperial Guard of Yan and Captain of Pacified Skies at Hongshan Academy of Sciences who serves under Tianshi Tan and fights alongside Endfield across Talos-II; despite an aloof reputation he readily helps people he meets.
-
-Files, voice lines and chats: [Argent Flow's file](/story/argent-flow/).
 
 ## How to obtain
 

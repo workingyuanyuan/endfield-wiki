@@ -527,3 +527,16 @@ starlight-toc a[aria-current='true'] {
 .sl-markdown-content tbody tr:hover td:first-child:not(:where(.not-content *)) {
 	box-shadow: inset 3px 0 0 var(--ef-yellow);
 }
+
+/* An operator's file page follows the operator in the sidebar and shows, indented as its child,
+   only on that operator's page and on the file page itself. */
+.sidebar-content li:has(> a.operator-file) {
+	display: none;
+}
+.sidebar-content li:has(> a[aria-current='page']) + li:has(> a.operator-file),
+.sidebar-content li:has(> a.operator-file[aria-current='page']) {
+	display: list-item;
+}
+.sidebar-content a.operator-file {
+	padding-inline-start: 1.75rem;
+}

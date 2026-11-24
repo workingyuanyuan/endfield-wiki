@@ -54,10 +54,9 @@ sources:
 | Voice, Japanese | Horie Yui |
 | Voice, Chinese | Yan Meme |
 | Voice, Korean | Kum You-rim |
+| Operator File | [Laevatain's file](/story/laevatain/) |
 
 Laevatain joined Endfield Industries from Rhodes Island on the Endministrator's own recommendation and reports directly to the Endministrator.
-
-Files, voice lines and chats: [Laevatain's file](/story/laevatain/).
 
 ## How to obtain
 

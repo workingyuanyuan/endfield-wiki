@@ -1,20 +1,18 @@
 ---
-title: "剧情"
+title: "干员档案"
 description: "《明日方舟：终末地》的干员档案、语音与聊天，按干员查找。"
 appliesTo: "《明日方舟：终末地》；游戏资料 1.6 的文字"
 caveat: "各语言是游戏各自的版本，句子不一定逐句对应。"
 lastVerified: 2026-11-23
 aliases:
-  - "Story"
-  - "劇情"
-  - "ストーリー"
-  - "스토리"
+  - "Operator files"
+  - "幹員檔案"
+  - "プロファイル"
+  - "오퍼레이터 파일"
 sources:
   - title: "rmxlinux/EndfieldData 游戏资料表（1.6，2026-11-05）"
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
-
-## 干员档案
 
 | 干员 | 档案 | 语音 | 聊天 |
 | --- | --- | --- | --- |

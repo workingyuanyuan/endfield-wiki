@@ -52,10 +52,9 @@ sources:
 | Voice, Japanese | Hidaka Rina |
 | Voice, Chinese | Misty |
 | Voice, Korean | Lee Joo-eun |
+| Operator File | [Rossi's file](/story/rossi/) |
 
 Rossi (Rossina Wulfperl Luppino) is Wulfgard's younger sister and the Pearl of the Pack who took on leading the clan while her brother works alone.
-
-Files, voice lines and chats: [Rossi's file](/story/rossi/).
 
 ## How to obtain
 

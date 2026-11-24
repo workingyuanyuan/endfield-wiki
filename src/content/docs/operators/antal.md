@@ -44,10 +44,9 @@ sources:
 | Voice, Japanese | Takeuchi Shunsuke |
 | Voice, Chinese | Liu Yuxuan |
 | Voice, Korean | Lee Gyu-chang |
+| Operator File | [Antal's file](/story/antal/) |
 
 Antal is a young Savra in Endfield's Operations Team Z7 who works as a supporter and Originium technology consultant, gifted in Originium Arts though he often misreads social cues.
-
-Files, voice lines and chats: [Antal's file](/story/antal/).
 
 ## How to obtain
 

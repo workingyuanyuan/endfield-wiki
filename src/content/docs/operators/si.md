@@ -47,10 +47,9 @@ sources:
 | Voice, Japanese | Tanezaki Atsumi |
 | Voice, Chinese | Marsia Zhang |
 | Voice, Korean | Eunseo Yoon |
+| Operator File | [Si's file](/story/si/) |
 
 Si is what people on Talos-II call a Feranmut Proxy, though she is no one's proxy; she supports HAS and Endfield with her abilities and explores cities for new technology and fashion.
-
-Files, voice lines and chats: [Si's file](/story/si/).
 
 ## How to obtain
 

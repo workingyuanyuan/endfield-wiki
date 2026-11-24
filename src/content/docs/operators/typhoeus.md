@@ -49,10 +49,9 @@ sources:
 | Voice, Japanese | Ohzora Naomi |
 | Voice, Chinese | ShiHaku |
 | Voice, Korean | Chae Rim |
+| Operator File | [Typhoeus's file](/story/typhoeus/) |
 
 Typhoeus is a wildlands huntress from Rhodes Island who loves to explore uncharted places, visits the Samifjod to record the Sami legends they still remember, and now gathers new stories among her friends at Endfield.
-
-Files, voice lines and chats: [Typhoeus's file](/story/typhoeus/).
 
 ## How to obtain
 

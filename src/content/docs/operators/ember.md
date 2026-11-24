@@ -48,10 +48,9 @@ sources:
 | Voice, Japanese | Komatsu Mikako |
 | Voice, Chinese | Xu Hui |
 | Voice, Korean | Yi Sae-ah |
+| Operator File | [Ember's file](/story/ember/) |
 
 Ember is an elite of the Assault Banner of the northern Order of Steel Oath who returned to the Civilization Band to recruit successors and accepted an invitation to work with Endfield Industries.
-
-Files, voice lines and chats: [Ember's file](/story/ember/).
 
 ## How to obtain
 

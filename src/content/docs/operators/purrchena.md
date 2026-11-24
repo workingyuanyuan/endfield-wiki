@@ -43,10 +43,9 @@ sources:
 | Voice, Japanese | Izawa Shiori |
 | Voice, Chinese | jojohan |
 | Voice, Korean | Park i-seo |
+| Operator File | [Purrchena's file](/story/purrchena/) |
 
 Purrchena is a dessert-loving spokesperson for the Ætherside Environmental Impact Syndrome Relief Foundation; recommended by the TGCC, she joined Endfield's Business Office as the liaison between the two on Ætherside Syndrome.
-
-Files and voice lines: [Purrchena's file](/story/purrchena/).
 
 ## How to obtain
 

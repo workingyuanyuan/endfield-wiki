@@ -41,10 +41,9 @@ sources:
 | Voice, Japanese | Takahashi Karin |
 | Voice, Chinese | Vila |
 | Voice, Korean | Lee Eun-jo |
+| Operator File | [Estella's file](/story/estella/) |
 
 Estella handles intel gathering and communications for Endfield's Operations Team Z7, hoping her work makes life easier despite her weak stamina and constant misfortune.
-
-Files, voice lines and chats: [Estella's file](/story/estella/).
 
 ## How to obtain
 

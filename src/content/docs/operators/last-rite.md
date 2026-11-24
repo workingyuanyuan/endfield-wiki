@@ -50,10 +50,9 @@ sources:
 | Voice, Japanese | Shiraishi Haruka |
 | Voice, Chinese | Wu Tong |
 | Voice, Korean | Lee I-ro |
+| Operator File | [Last Rite's file](/story/last-rite/) |
 
 Last Rite is a young Nachzehrer raised by Caprinae gravekeepers; after Seš'qa discovered her potential, merchants came to call her the Princess of the War Court, and she now fights for Endfield under contract.
-
-Files, voice lines and chats: [Last Rite's file](/story/last-rite/).
 
 ## How to obtain
 

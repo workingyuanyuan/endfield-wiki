@@ -1,20 +1,18 @@
 ---
-title: "Story"
+title: "Operator files"
 description: "Operator files, voice lines and chats of Arknights: Endfield, by operator."
 appliesTo: "Arknights: Endfield, global service; text of game data 1.6"
 caveat: "Each language has the game's own text in that language; the editions do not always match line for line."
 lastVerified: 2026-11-23
 aliases:
-  - "劇情"
-  - "剧情"
-  - "ストーリー"
-  - "스토리"
+  - "幹員檔案"
+  - "干员档案"
+  - "プロファイル"
+  - "오퍼레이터 파일"
 sources:
   - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
-
-## Operator File
 
 | Operator | Files | Voice lines | Chats |
 | --- | --- | --- | --- |

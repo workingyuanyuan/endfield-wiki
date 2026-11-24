@@ -56,10 +56,9 @@ sources:
 | Voice, Japanese | Amamiya Sora |
 | Voice, Chinese | Hou Xiaofei |
 | Voice, Korean | Yeo Yun-mi |
+| Operator File | [Yvonne's file](/story/yvonne/) |
 
 Yvonne is a fashion-loving researcher in Endfield Industries' Specialist Tech Division who studies Æther, Blight, and related devices.
-
-Files and voice lines: [Yvonne's file](/story/yvonne/).
 
 ## How to obtain
 

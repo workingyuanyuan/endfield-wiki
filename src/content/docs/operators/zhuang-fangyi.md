@@ -52,10 +52,9 @@ sources:
 | Voice, Japanese | Kuwashima Houko |
 | Voice, Chinese | Ziyi Qin |
 | Voice, Korean | Song Ha-rim |
+| Operator File | [Zhuang Fangyi's file](/story/zhuang-fangyi/) |
 
 Zhuang Fangyi is the Viceroy of the Wuling Scientific Developmental District and Tianshi of the Novel Xiranite-based Materials Project, recommended by the HAS to research rifts at Endfield.
-
-Files, voice lines and chats: [Zhuang Fangyi's file](/story/zhuang-fangyi/).
 
 ## How to obtain
 

@@ -1,20 +1,18 @@
 ---
-title: "ストーリー"
+title: "プロファイル"
 description: "『アークナイツ：エンドフィールド』のプロファイル、ボイス、チャットをオペレーター別に。"
 appliesTo: "『アークナイツ：エンドフィールド』グローバル版。ゲームデータ1.6のテキスト"
 caveat: "各言語のテキストはゲームのその言語版であり、文ごとに一致するとは限らない。"
 lastVerified: 2026-11-23
 aliases:
-  - "Story"
-  - "劇情"
-  - "剧情"
-  - "스토리"
+  - "Operator files"
+  - "幹員檔案"
+  - "干员档案"
+  - "오퍼레이터 파일"
 sources:
   - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）"
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
-
-## プロファイル
 
 | オペレーター | プロファイル | ボイス | チャット |
 | --- | --- | --- | --- |

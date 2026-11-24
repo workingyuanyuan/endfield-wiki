@@ -42,10 +42,9 @@ sources:
 | Voice, Japanese | Maeno Tomoaki |
 | Voice, Chinese | Liang Dawei |
 | Voice, Korean | Im Hyeok |
+| Operator File | [Wulfgard's file](/story/wulfgard/) |
 
 Catello Wulfgard Luppino is a Landbreaker mercenary of the Pack, living on the fringes of the Civilization Band, who serves on Endfield Industries' Crisis Team and excels at stealth and recon.
-
-Files, voice lines and chats: [Wulfgard's file](/story/wulfgard/).
 
 ## How to obtain
 

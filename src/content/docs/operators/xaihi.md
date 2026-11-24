@@ -42,10 +42,9 @@ sources:
 | Voice, Japanese | Miyamoto Yume |
 | Voice, Chinese | Pan Danni |
 | Voice, Korean | Jang Ye-na |
+| Operator File | [Xaihi's file](/story/xaihi/) |
 
 Xaihi is a Sessionite from Laterano's Cabal of Tranquility who joined Endfield Industries on the Abbess's recommendation and now handles information engineering aboard Dijiang.
-
-Files, voice lines and chats: [Xaihi's file](/story/xaihi/).
 
 ## How to obtain
 

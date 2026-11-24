@@ -56,10 +56,9 @@ sources:
 | Voice, Japanese | Fairouz Ai |
 | Voice, Chinese | Jing Chen |
 | Voice, Korean | Kim Chae-rin |
+| Operator File | [Tangtang's file](/story/tangtang/) |
 
 Tangtang is the straightforward, freedom-loving and fiercely loyal Supreme Chief of Qingbo Stockade who joined Endfield Industries to find answers and build a better future for her home.
-
-Files, voice lines and chats: [Tangtang's file](/story/tangtang/).
 
 ## How to obtain
 

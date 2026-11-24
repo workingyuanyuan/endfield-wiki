@@ -528,17 +528,14 @@ def page(op, lang):
         (L('Voice, Japanese', '日語配音', '日本語ボイス', '일본어 음성'), voice.get('jap')), (L('Voice, Chinese', '中文配音', '中国語ボイス', '중국어 음성'), voice.get('chi')),
         (L('Voice, Korean', '韓語配音', '韓国語ボイス', '한국어 음성'), voice.get('kor')),
     ]
+    if os.path.exists(os.path.join(ROOT, 'records', 'story', f'{slug}.json')):
+        # The operator's files, voice lines and chats are on the story page; the row is named by
+        # the game's own term for the files.
+        file_term = json.load(open(os.path.join(ROOT, 'records', 'story', 'terms.json'), encoding='utf8'))['file']
+        story = link(lang, L(f"{n}'s file", f'{n}的檔案', f'{n}のプロファイル', f'{n}의 파일'), f'story/{slug}')
+        rows.append((L(file_term['en'], file_term['zh-TW'], file_term['ja'], file_term['ko']), story))
     body += [f'| {k} | {v} |' for k, v in rows if v]
     body += ['', text['intro'][lang], '']
-    story_rec = os.path.join(ROOT, 'records', 'story', f'{slug}.json')
-    if os.path.exists(story_rec):
-        story = link(lang, L(f"{n}'s file", f'{n}的檔案', f'{n}のプロファイル', f'{n}의 파일'), f'story/{slug}')
-        if json.load(open(story_rec, encoding='utf8'))['chats']:
-            body += [L(f"Files, voice lines and chats: {story}.", f'檔案、語音與聊天：{story}。',
-                       f'プロファイル、ボイス、チャット：{story}。', f'파일, 음성, 채팅: {story}.'), '']
-        else:
-            body += [L(f"Files and voice lines: {story}.", f'檔案與語音：{story}。',
-                       f'プロファイル、ボイス：{story}。', f'파일, 음성: {story}.'), '']
     body += [L('## How to obtain', '## 取得方式', '## 入手方法', '## 획득 방법'), '']
     for block in obtain(op, st, lang):
         body += [block, '']

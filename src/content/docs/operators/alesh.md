@@ -45,10 +45,9 @@ sources:
 | Voice, Japanese | Matsukaze Masaya |
 | Voice, Chinese | Cao Zhen |
 | Voice, Korean | Im Chae-bin |
+| Operator File | [Alesh's file](/story/alesh/) |
 
 Alesh is a fin seller and former frontier street survivor recommended by a UWST Security Bureau liaison; he handles frontier communications and cover for Endfield and teaches its angling class.
-
-Files, voice lines and chats: [Alesh's file](/story/alesh/).
 
 ## How to obtain
 

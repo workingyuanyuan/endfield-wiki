@@ -50,10 +50,9 @@ sources:
 | Voice, Japanese | Matsuoka Yoshitsugu |
 | Voice, Chinese | Ma Yang |
 | Voice, Korean | Lee Ju Seung |
+| Operator File | [Camille's file](/story/camille/) |
 
 Camille Arno is an elite Keeper from Seš'qa, skilled in blood-related Originium Arts and anti-witchcraft, who is seeking to work with Endfield Industries in a personal capacity.
-
-Files, voice lines and chats: [Camille's file](/story/camille/).
 
 ## How to obtain
 

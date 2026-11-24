@@ -48,10 +48,9 @@ sources:
 | Voice, Japanese | Kanemoto Hisako |
 | Voice, Chinese | Cool |
 | Voice, Korean | Kim Ha-ru |
+| Operator File | [Ardelia's file](/story/ardelia/) |
 
 Ardelia is a Rhodes Island geologist assigned to Endfield Industries, where her field research into Ætherside and geological disasters informs the company's Blight countermeasures.
-
-Files and voice lines: [Ardelia's file](/story/ardelia/).
 
 ## How to obtain
 

@@ -46,10 +46,9 @@ sources:
 | Voice, Japanese | Ishibashi Hiiro |
 | Voice, Chinese | Guo Hongbo |
 | Voice, Korean | Kim Yoon-gi |
+| Operator File | [Lifeng's file](/story/lifeng/) |
 
 Lifeng is a Wuling City native and spear fighter trained by Da Pan who currently interns in Endfield's Specialist Tech Division to grow strong enough to protect his home.
-
-Files, voice lines and chats: [Lifeng's file](/story/lifeng/).
 
 ## How to obtain
 

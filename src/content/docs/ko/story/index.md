@@ -1,20 +1,18 @@
 ---
-title: "스토리"
+title: "오퍼레이터 파일"
 description: "《명일방주: 엔드필드》의 오퍼레이터 파일, 음성, 채팅을 오퍼레이터별로."
 appliesTo: "《명일방주: 엔드필드》 글로벌 서비스. 게임 데이터 1.6의 텍스트"
 caveat: "각 언어의 텍스트는 게임의 해당 언어판이며, 문장 단위로 일치하지 않을 수 있다."
 lastVerified: 2026-11-23
 aliases:
-  - "Story"
-  - "劇情"
-  - "剧情"
-  - "ストーリー"
+  - "Operator files"
+  - "幹員檔案"
+  - "干员档案"
+  - "プロファイル"
 sources:
   - title: "rmxlinux/EndfieldData 게임 데이터 테이블(1.6, 2026-11-05)"
     url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
 ---
-
-## 오퍼레이터 파일
 
 | 오퍼레이터 | 파일 | 음성 | 채팅 |
 | --- | --- | --- | --- |

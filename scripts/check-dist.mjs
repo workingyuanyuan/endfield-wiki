@@ -20,7 +20,7 @@
 //  8. llms.txt: notes, bundles and other languages within the first 5,000 characters.
 //  9. The 404 page links each language's home page and page list.
 // 10. robots.txt names the sitemap and carries a Content-Signal line.
-// 11. The header links the first page of each sidebar section (versions, operators, story,
+// 11. The header links the first page of each sidebar section (versions, operators,
 //     systems, AIC); the page notes link the Markdown twin, llms.txt and index.json; no text in <main>
 //     is about the site or the page (scripts/check-page-text.mjs).
 // 12. Story pages show every line of records/story/ unchanged.
@@ -41,7 +41,7 @@ import { checkHeaderAndOutputs, checkSelfReference } from './check-page-text.mjs
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
 const LIMIT = 5000;
 // The top-level sidebar groups, in order, by the id of their first page (astro.config.mjs).
-const SECTIONS = ['versions', 'operators', 'story', 'systems', 'aic'];
+const SECTIONS = ['versions', 'operators', 'systems', 'aic'];
 const failures = [];
 const fail = (page, message) => failures.push(`${page}: ${message}`);
 

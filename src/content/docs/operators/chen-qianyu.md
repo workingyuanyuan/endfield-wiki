@@ -42,10 +42,9 @@ sources:
 | Voice, Japanese | Suzushiro Sayumi |
 | Voice, Chinese | MAO |
 | Voice, Korean | Jeong Hae-eun |
+| Operator File | [Chen Qianyu's file](/story/chen-qianyu/) |
 
 Chen Qianyu is a core member of Endfield Industries' Crisis Team who trained in martial arts from childhood, travelled Talos-II alone for several years, and joined at Perlica's invitation.
-
-Files, voice lines and chats: [Chen Qianyu's file](/story/chen-qianyu/).
 
 ## How to obtain
 

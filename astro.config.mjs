@@ -7,6 +7,16 @@ import { sitemapOptions } from './src/lib/sitemap.mjs';
 import { ORIGIN, BASE, TITLE, DESCRIPTION } from './src/lib/site.mjs';
 import { satteri } from '@astrojs/markdown-satteri';
 import { hastBase } from './src/lib/hast-base.mjs';
+import { readdirSync } from 'node:fs';
+
+/** Page slugs in a folder of the English pages, without its index, in file-name order. */
+const slugsIn = (dir) =>
+	readdirSync(new URL(`./src/content/docs/${dir}/`, import.meta.url))
+		.filter((f) => f.endsWith('.md') && f !== 'index.md')
+		.map((f) => f.slice(0, -3))
+		.sort();
+const operatorSlugs = slugsIn('operators');
+const storySlugs = new Set(slugsIn('story'));
 
 export default defineConfig({
 	site: ORIGIN,
@@ -42,13 +52,16 @@ export default defineConfig({
 					label: 'Operators',
 					translations: { 'zh-TW': '幹員', 'zh-CN': '干员', ja: 'オペレーター', ko: '오퍼레이터' },
 					collapsed: true,
-					items: [{ autogenerate: { directory: 'operators' } }],
-				},
-				{
-					label: 'Story',
-					translations: { 'zh-TW': '劇情', 'zh-CN': '剧情', ja: 'ストーリー', ko: '스토리' },
-					collapsed: true,
-					items: [{ autogenerate: { directory: 'story' } }],
+					// Each operator's file page follows the operator; the CSS shows it only on that
+					// operator's pages, as a child of the operator.
+					items: [
+						{ slug: 'operators' },
+						{ slug: 'story' },
+						...operatorSlugs.flatMap((s) => [
+							{ slug: `operators/${s}` },
+							...(storySlugs.has(s) ? [{ slug: `story/${s}`, attrs: { class: 'operator-file' } }] : []),
+						]),
+					],
 				},
 				{
 					label: 'Systems',

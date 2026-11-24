@@ -48,10 +48,9 @@ sources:
 | Voice, Japanese | Hayami Show |
 | Voice, Chinese | Liu Ruoban |
 | Voice, Korean | Kwon Sung-hyuck |
+| Operator File | [Pogranichnik's file](/story/pogranichnik/) |
 
 Pogranichnik is a Rhodes Island operator and former Shieldguard Banner commander in the Order of Steel Oath who serves Endfield Industries as a military consultant under an agreement between the two companies.
-
-Files, voice lines and chats: [Pogranichnik's file](/story/pogranichnik/).
 
 ## How to obtain
 

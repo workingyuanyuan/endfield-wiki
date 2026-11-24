@@ -42,10 +42,9 @@ sources:
 | Voice, Japanese | Tachibana Azusa |
 | Voice, Chinese | Muyaruilin |
 | Voice, Korean | Kang Sae-bom |
+| Operator File | [Endministrator's file](/story/endministrator/) |
 
 The Endministrator is Endfield Industries' trump card and a legendary guardian of Talos-II; the mastery of Originium and the Protocol Network, and the need for periodic hibernation, are among Endfield's closest secrets.
-
-Files and voice lines: [Endministrator's file](/story/endministrator/).
 
 ## How to obtain
 

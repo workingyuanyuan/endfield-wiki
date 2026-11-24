@@ -41,10 +41,9 @@ sources:
 | Voice, Japanese | Fujiwara Natsumi |
 | Voice, Chinese | ZhongKe |
 | Voice, Korean | Kim A-rong |
+| Operator File | [Arclight's file](/story/arclight/) |
 
 Arclight is a Hannabit Circuit Songseeker recommended by Aldertone Orisha who serves Endfield Industries as a field operator and machinery and vehicle technical consultant.
-
-Files, voice lines and chats: [Arclight's file](/story/arclight/).
 
 ## How to obtain
 

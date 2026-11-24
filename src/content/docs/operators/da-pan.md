@@ -43,10 +43,9 @@ sources:
 | Voice, Japanese | Koyama Rikiya |
 | Voice, Chinese | SuYi |
 | Voice, Korean | Hwang Chang-yung |
+| Operator File | [Da Pan's file](/story/da-pan/) |
 
 Da Pan is a former Hongshan Academy of Sciences member and proud traveling chef who joined Endfield Industries' Specialist Tech Division as an independent.
-
-Files, voice lines and chats: [Da Pan's file](/story/da-pan/).
 
 ## How to obtain
 

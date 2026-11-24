@@ -52,10 +52,9 @@ sources:
 | Voice, Japanese | Sasaki Rico |
 | Voice, Chinese | DuoDuopoi |
 | Voice, Korean | Kim Jin ah |
+| Operator File | [Liino's file](/story/liino/) |
 
 Liino is a breakout Sarkaz Djall idol from the Talos-II General Chamber of Commerce, called the Morning Star of La Fantoma and noted for concerts that break with convention.
-
-Files, voice lines and chats: [Liino's file](/story/liino/).
 
 ## How to obtain
 

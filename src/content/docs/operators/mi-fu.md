@@ -49,10 +49,9 @@ sources:
 | Voice, Japanese | Watanabe Akeno |
 | Voice, Chinese | Zhang RuoYu |
 | Voice, Korean | Min Ah |
+| Operator File | [Mi Fu's file](/story/mi-fu/) |
 
 Mi Fu is Captain of the Wuling Watch, subordinate to Viceroy Tianshi Zhuang Fangyi, and successor of Qingbo Martial Arts, now on an exchange at Endfield Industries.
-
-Files and voice lines: [Mi Fu's file](/story/mi-fu/).
 
 ## How to obtain
 

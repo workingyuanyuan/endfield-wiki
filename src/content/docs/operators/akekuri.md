@@ -41,10 +41,9 @@ sources:
 | Voice, Japanese | Nagatsuki Aoi |
 | Voice, Chinese | Kiyo |
 | Voice, Korean | Kim I-an |
+| Operator File | [Akekuri's file](/story/akekuri/) |
 
 Akekuri is a former Business School honors student who volunteered for Endfield Industries, built Operations Team Z7 of the Specialist Tech Division almost single-handedly, and captains it.
-
-Files, voice lines and chats: [Akekuri's file](/story/akekuri/).
 
 ## How to obtain
 

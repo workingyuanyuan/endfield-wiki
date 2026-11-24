@@ -42,10 +42,9 @@ sources:
 | Voice, Japanese | Wakayama Shion |
 | Voice, Chinese | Chen Tingting |
 | Voice, Korean | Yu Hye-ji |
+| Operator File | [Perlica's file](/story/perlica/) |
 
 Perlica is Endfield Industries' Supervisor and official spokesperson, overseeing Protocol-Originium technology and Dijiang while leading the Crisis Team during the Endministrator's hibernation.
-
-Files, voice lines and chats: [Perlica's file](/story/perlica/).
 
 ## How to obtain
 

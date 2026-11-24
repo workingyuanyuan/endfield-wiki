@@ -42,10 +42,9 @@ sources:
 | Voice, Japanese | Kijima Ryuichi |
 | Voice, Chinese | Yu Kailong |
 | Voice, Korean | Kim Hye-sung |
+| Operator File | [Catcher's file](/story/catcher/) |
 
 Catcher is the youngest yet remarkably mature member of Endfield's Operations Team Z7, drawing on his military training to provide defensive cover and logistical support.
-
-Files, voice lines and chats: [Catcher's file](/story/catcher/).
 
 ## How to obtain
 

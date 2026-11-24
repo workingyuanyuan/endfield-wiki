@@ -46,10 +46,9 @@ sources:
 | Voice, Japanese | Taichi You |
 | Voice, Chinese | Cao Yawen |
 | Voice, Korean | Jang Mi |
+| Operator File | [Fluorite's file](/story/fluorite/) |
 
 Fluorite is a frontier-born sharpshooter on Endfield's Operations Team Z7 who scouts and disrupts enemy lines, relying on street smarts and sharp observation.
-
-Files, voice lines and chats: [Fluorite's file](/story/fluorite/).
 
 ## How to obtain
 

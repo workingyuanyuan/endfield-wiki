@@ -166,8 +166,10 @@ def page(st, op, lang):
 
 
 def index_page(stories, ops, lang):
-    title = L(lang, 'Story', '劇情', '剧情', 'ストーリー', '스토리')
-    titles = {x: L(x, 'Story', '劇情', '剧情', 'ストーリー', '스토리') for x in LANGS}
+    # The index sits in the Operators group of the sidebar, under the operator list.
+    names = ('Operator files', '幹員檔案', '干员档案', 'プロファイル', '오퍼레이터 파일')
+    title = L(lang, *names)
+    titles = {x: L(x, *names) for x in LANGS}
     desc = L(lang, "Operator files, voice lines and chats of Arknights: Endfield, by operator.",
              '《明日方舟：終末地》的幹員檔案、語音與聊天，依幹員查找。',
              '《明日方舟：终末地》的干员档案、语音与聊天，按干员查找。',
@@ -185,8 +187,7 @@ def index_page(stories, ops, lang):
           f'caveat: {bp.quote(caveat)}', f'lastVerified: {TODAY}', 'aliases:']
     fm += [f'  - {bp.quote(a)}' for a in bp.aliases_of(titles, title)]
     fm += ['sources:', f'  - title: {bp.quote(SOURCE_TITLE[lang])}', f"    url: {stories[0]['source']}", '---']
-    body = ['', '## ' + TERMS['file'][lang], '',
-            L(lang, '| Operator | Files | Voice lines | Chats |', '| 幹員 | 檔案 | 語音 | 聊天 |', '| 干员 | 档案 | 语音 | 聊天 |',
+    body = ['', L(lang, '| Operator | Files | Voice lines | Chats |', '| 幹員 | 檔案 | 語音 | 聊天 |', '| 干员 | 档案 | 语音 | 聊天 |',
               '| オペレーター | プロファイル | ボイス | チャット |', '| 오퍼레이터 | 파일 | 음성 | 채팅 |'), '| --- | --- | --- | --- |']
     for st in sorted(stories, key=lambda s: name(ops[s['slug']], EN)):
         op = ops[st['slug']]
