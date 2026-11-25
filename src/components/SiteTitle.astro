@@ -20,6 +20,7 @@ const sections = sidebar
 ---
 
 <a href={siteTitleHref} class="site-title" translate="no">
+	<svg class="site-icon" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" class="ground" /><path d="M5 8h22L16 27z" class="mark" /><path d="M5 14h22v2.5H5z" class="ground" /></svg>
 	<span class="name">{siteTitle}</span>
 	<span class="unofficial">{t.unofficial}</span>
 </a>
@@ -71,16 +72,18 @@ const sections = sidebar
 		text-transform: uppercase;
 		white-space: nowrap;
 	}
-	/* A yellow block before the name, as on the labels of the official site. */
-	.name::before {
-		content: '';
-		display: inline-block;
-		width: 0.5em;
-		height: 0.9em;
-		margin-inline-end: 0.45em;
-		background: var(--ef-yellow);
-		box-shadow: 0 0 0 1px var(--ef-ink);
-		vertical-align: -0.08em;
+	/* The site's icon, the same drawing as public/favicon.svg: a yellow inverted triangle
+	   with a cut, on near-black. Inline SVG; check-dist strips svg from the page text. */
+	.site-icon {
+		flex: none;
+		width: 1.35em;
+		height: 1.35em;
+	}
+	.site-icon .ground {
+		fill: var(--ef-ink);
+	}
+	.site-icon .mark {
+		fill: var(--ef-yellow);
 	}
 	.unofficial {
 		padding: 0.25em 0.5em;
@@ -103,6 +106,15 @@ const sections = sidebar
 	@media (min-width: 72rem) {
 		.sections {
 			display: flex;
+		}
+	}
+	/* Just above 72rem the English links, the search and the buttons fill the one header row;
+	   closer spacing keeps the row inside the window. */
+	@media (min-width: 72rem) and (max-width: 80rem) {
+		.sections {
+			gap: 0.9rem;
+			margin-inline-start: 1.1rem;
+			letter-spacing: 0.03em;
 		}
 	}
 	.sections a {
