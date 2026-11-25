@@ -761,8 +761,8 @@ starlight-toc a[aria-current='true'] {
 		animation: ef-rise 0.3s ease-out var(--ef-delay, 0s) both;
 	}
 
-	/* The site icon before the name grows once. */
-	.site-title .site-icon {
+	/* The yellow block before the site name grows once. */
+	.site-title .name::before {
 		transform-origin: bottom;
 		animation: ef-grow-y 0.3s var(--ef-ease) both;
 	}
