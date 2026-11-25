@@ -553,6 +553,17 @@ theme-buttons button[aria-pressed='true'] {
 	}
 }
 
+/* The first section after the portrait follows the answer line with no rule above it
+   (root AGENTS.md, Visible page); the drawn rule of the motion is left out with it. */
+.sl-markdown-content p:has(> img[src*='/art/operators/']) + .sl-heading-wrapper.level-h2 {
+	margin-top: 1.5rem;
+	padding-top: 0;
+	border-top: 0;
+}
+.sl-markdown-content p:has(> img[src*='/art/operators/']) + .sl-heading-wrapper.level-h2::before {
+	content: none;
+}
+
 /* Page notes after the body: a grey panel under a heavy rule. */
 .sl-markdown-content .facts {
 	clear: both;
