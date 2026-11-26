@@ -71,7 +71,7 @@ export default defineConfig({
 				{
 					label: 'AIC',
 					translations: { 'zh-TW': '集成工業', 'zh-CN': '集成工业', ja: '集成工業', ko: '통합 공업' },
-					items: [{ slug: 'aic' }, { slug: 'aic/power' }, { slug: 'aic/production' }, { slug: 'aic/recipes' }, { slug: 'aic/regional-development' }],
+					items: [{ slug: 'aic' }, { slug: 'aic/power' }, { slug: 'aic/production' }, { slug: 'aic/recipes' }, { slug: 'aic/regional-development' }, { slug: 'aic/arrays' }],
 				},
 			],
 			customCss: ['@fontsource-variable/lexend', './src/styles/endfield.css'],

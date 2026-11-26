@@ -35,7 +35,7 @@ sources:
 | [Operators](/operators/) | Profile, how to obtain, skills, skill values, talents, potentials, stats and promotion materials |
 | [Operator files](/story/) | Each operator's files, voice lines and chats |
 | [Systems](/systems/) | Headhunting rates and pity, Arsenal and Essences, servers and time, platforms, combat mechanics and the damage formula, operator progression, weapons and their recommended operators, gear sets, enemy resistances, the Dijiang base, names in three scripts |
-| [AIC](/aic/) | Power, production and logistics, recipes, Regional Development |
+| [AIC](/aic/) | Power, production and logistics, recipes, Regional Development, arrays and Exclusion Zone Rebuilding |
 | [Versions](/versions/) | Every version: number, title, update date, new operators and content, banners |
 
 ## Versions

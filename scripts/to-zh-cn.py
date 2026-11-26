@@ -28,7 +28,7 @@ root = sys.argv[1] if len(sys.argv) > 1 else 'src/content/docs'
 # the two scripts write differently (compare the official operator lists).
 VOC = [
     # Names that differ beyond the script
-    ('洛西', '洛茜'),
+    ('洛西', '洛茜'), ('重建供應接口', '重建供应端口'),
     ('裝備適用III', '装备适配·三'), ('裝備適用II', '装备适配·二'), ('裝備適用I', '装备适配·一'),
     # Wording
     ('機率', '概率'), ('伺服器', '服务器'), ('透過', '通过'), ('帳號', '账号'), ('登入', '登录'),

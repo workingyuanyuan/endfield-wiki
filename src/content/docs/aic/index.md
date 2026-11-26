@@ -43,6 +43,7 @@ sources:
 | [Production and logistics](/aic/production/) | Ports, belts, splitters, pipes, Depot Bus, Protocol Capacity, what each production facility makes |
 | [Recipes by product](/aic/recipes/) | Which facility makes a product, from what inputs, how much per run and how fast |
 | [Regional Development](/aic/regional-development/) | Regional Transfer between regions, outposts and Stock Bills, Stock Redistribution, Depot Nodes, Regional Development Level |
+| [Arrays and Exclusion Zone Rebuilding](/aic/arrays/) | Forges of Luminance, L-, T- and E-Arrays and their tiers, the Forge of Equilibrium, rebuilding materials and phases |
 
 ## How it works
 
@@ -160,7 +161,7 @@ A dash means the facility works without the grid: the Portable Originium Rig run
 | 1.4 | Gas AIC mode in Wuling with gas facilities. New outpost Xiranflow Cloudseeder Station. Facilities in the wild can be stashed to the depot from the map. Conduit range up to 300 m. |
 | 1.5 | Continue Placing for facilities. The blueprint facility limit shows while box-selecting. |
 | 1.6 | Auto-Farmer for the farms of Si's Painting and later Wuling City. A facility can be placed straight from the Backpack or any depot, or built from materials in any depot. |
-| 1.7 | Array-related AIC Mode in Wuling with the Forge of Equilibrium, the Forges of Luminance and the Rebuilding Supply Port; Exclusion Zone Rebuilding. The Water Treatment Unit became the Waste Treatment Unit. Item and Pipe Control Ports can be placed directly on a facility's port. |
+| 1.7 | [Array-related AIC Mode](/aic/arrays/) in Wuling with the Forge of Equilibrium, the Forges of Luminance and the Rebuilding Supply Port; Exclusion Zone Rebuilding. The Water Treatment Unit became the Waste Treatment Unit. Item and Pipe Control Ports can be placed directly on a facility's port. |
 
 Every version from 1.1 to 1.7 also raised the Regional Development Level cap of Wuling.
 

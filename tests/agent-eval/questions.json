@@ -364,6 +364,17 @@
    "answer": "Electric 35 and Physical 20 (both shown as grade C); Heat, Cryo and Nature 0 (grade D).",
    "qualifier": "Values of the base form in the open world; some stage versions have other resistances (11 in every element on one).",
    "page": "systems/enemies"
+  },
+  {
+   "id": "q34",
+   "question": "How do I raise the success rate of an L-Array, and what is the chance at each tier?",
+   "variants": [
+    "陣列·明的成功率怎麼提升？",
+    "明晦炉阵列等阶概率是多少？"
+   ],
+   "answer": "Stack L-Arrays from more Forges of Luminance so they overlap completely: T1 20%, T2 40%, T3 60%, T4 100% (T-Array the same; E-Array T1 40%, T2 80%).",
+   "qualifier": "Arrays stack only when they overlap completely; an L-Array and a T-Array make an E-Array only after the AIC technology L/T Stacking.",
+   "page": "aic/arrays"
   }
  ],
  "toWrite": [

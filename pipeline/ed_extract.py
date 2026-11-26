@@ -156,8 +156,12 @@ def main():
         touched = [x['id'] for g in r['ingredients'] + r['outcomes'] for x in g['group']]
         if 'activity' in rid or any('activity' in i for i in touched):
             continue
-        # The array-related AIC Mode of Version 1.7 (Forge of Equilibrium): its recipes come in
-        # four variants that depend on the array. Not on the recipe page until the mode is written up.
+        # The array-related AIC Mode of Version 1.7 is on the hand-written page aic/arrays, not here:
+        # the Forge of Equilibrium is not in records/facilities.json, and 20 of its 23 entries
+        # (ids formation_magic_*) are the infusions of the arrays, one per array tier. That page
+        # also rests on FactoryFormationTable, FactoryFormationLevelTable, FactoryFormationTransTable,
+        # FactoryFormationStakeTable, FacSTTNodeTable and WonderStageTable; naming them here makes
+        # scripts/upstream.mjs watch them.
         if r['machineId'] in ARRAY_MACHINES:
             continue
         assert r['machineId'] in facilities, (rid, r['machineId'])

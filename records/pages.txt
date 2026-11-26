@@ -97,3 +97,4 @@ aic/power
 aic/production
 aic/recipes
 aic/regional-development
+aic/arrays
