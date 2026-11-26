@@ -76,78 +76,78 @@ sources:
 
 ### 자원 채집
 
-| 설비 | 영어 | 소비 전력 |
-| --- | --- | --- |
-| 휴대용 오리지늄 채굴기 | Portable Originium Rig | — |
-| 전동 채굴기 | Electric Mining Rig | 5 |
-| 전동 채굴기 II | Electric Mining Rig Mk II | 10 |
-| 수력 채굴기 | Hydro Mining Rig | — |
-| 양수기 | Fluid Pump | 10 |
-| 내산성 양수기 II | Acid Resistant Pump Mk II | 20 |
-| 기체 수집기 | Gas Extractor | — |
+| 설비 | 영어 | 중국어 번체 | 소비 전력 |
+| --- | --- | --- | --- |
+| 휴대용 오리지늄 채굴기 | Portable Originium Rig | 便攜式源石礦機 | — |
+| 전동 채굴기 | Electric Mining Rig | 電驅礦機 | 5 |
+| 전동 채굴기 II | Electric Mining Rig Mk II | 電驅礦機II | 10 |
+| 수력 채굴기 | Hydro Mining Rig | 水驅礦機 | — |
+| 양수기 | Fluid Pump | 水泵 | 10 |
+| 내산성 양수기 II | Acid Resistant Pump Mk II | 耐酸水泵II | 20 |
+| 기체 수집기 | Gas Extractor | 氣體收集泵 | — |
 
 ### 저장고 입출력
 
-| 설비 | 영어 | 소비 전력 |
-| --- | --- | --- |
-| 프로토콜 저장함 | Protocol Stash | 5 |
-| 창고 입력 포트 | Depot Loader | — |
-| 창고 출력 포트 | Depot Unloader | — |
-| 액체 저장 탱크 | Fluid Tank | — |
-| 창고 입출력 라인 기초 장치 | Depot Bus Section | — |
-| 창고 입출력 라인 핵심 장치 | Depot Bus Port | — |
-| 매립형 파이프 입구 | Conduit Inlet | — |
-| 매립형 파이프 출구 | Conduit Outlet | — |
-| 저장용 가스통 | Gas Tank | — |
+| 설비 | 영어 | 중국어 번체 | 소비 전력 |
+| --- | --- | --- | --- |
+| 프로토콜 저장함 | Protocol Stash | 協議儲存箱 | 5 |
+| 창고 입력 포트 | Depot Loader | 倉庫存貨口 | — |
+| 창고 출력 포트 | Depot Unloader | 倉庫取貨口 | — |
+| 액체 저장 탱크 | Fluid Tank | 儲液罐 | — |
+| 창고 입출력 라인 기초 장치 | Depot Bus Section | 倉庫存取線基段 | — |
+| 창고 입출력 라인 핵심 장치 | Depot Bus Port | 倉庫存取線源樁 | — |
+| 매립형 파이프 입구 | Conduit Inlet | 暗管入口 | — |
+| 매립형 파이프 출구 | Conduit Outlet | 暗管出口 | — |
+| 저장용 가스통 | Gas Tank | 儲氣罐 | — |
 
 ### 기초 생산
 
-| 설비 | 영어 | 소비 전력 |
-| --- | --- | --- |
-| 정련로 | Refining Unit | 5 |
-| 분쇄기 | Shredding Unit | 5 |
-| 부품 가공기 | Fitting Unit | 20 |
-| 성형기 | Moulding Unit | 10 |
-| 재배기 | Planting Unit | 20 |
-| 씨앗 추출기 | Seed-Picking Unit | 10 |
-| 폐기물 처리기 | Waste Treatment Unit | 50 |
+| 설비 | 영어 | 중국어 번체 | 소비 전력 |
+| --- | --- | --- | --- |
+| 정련로 | Refining Unit | 精煉爐 | 5 |
+| 분쇄기 | Shredding Unit | 粉碎機 | 5 |
+| 부품 가공기 | Fitting Unit | 配件機 | 20 |
+| 성형기 | Moulding Unit | 塑形機 | 10 |
+| 재배기 | Planting Unit | 種植機 | 20 |
+| 씨앗 추출기 | Seed-Picking Unit | 採種機 | 10 |
+| 폐기물 처리기 | Waste Treatment Unit | 廢料處理機 | 50 |
 
 ### 합성과 제작
 
-| 설비 | 영어 | 소비 전력 |
-| --- | --- | --- |
-| 장비 부품 합성기 | Gearing Unit | 10 |
-| 충진기 | Filling Unit | 20 |
-| 포장기 | Packaging Unit | 20 |
-| 연마기 | Grinding Unit | 50 |
-| 반응기 | Reactor Crucible | 50 |
-| 확장 반응기 | Expanded Crucible | 100 |
-| 천화로 | Forge of the Sky | 50 |
-| 정제기 | Purification Unit | 50 |
-| 분해기 | Separating Unit | 20 |
-| 액체 · 기체 전환기 | Fluid-Gas Transmuting Unit | 50 |
-| 고체 · 기체 전환기 | Solid-Gas Transmuting Unit | 50 |
-| 기체 분산기 | Gas Dispersing Unit | — |
-| 기체 반응로 | Gas Reactor Globe | 50 |
+| 설비 | 영어 | 중국어 번체 | 소비 전력 |
+| --- | --- | --- | --- |
+| 장비 부품 합성기 | Gearing Unit | 裝備原件機 | 10 |
+| 충진기 | Filling Unit | 灌裝機 | 20 |
+| 포장기 | Packaging Unit | 封裝機 | 20 |
+| 연마기 | Grinding Unit | 研磨機 | 50 |
+| 반응기 | Reactor Crucible | 反應池 | 50 |
+| 확장 반응기 | Expanded Crucible | 擴容反應池 | 100 |
+| 천화로 | Forge of the Sky | 天有洪爐 | 50 |
+| 정제기 | Purification Unit | 提純機 | 50 |
+| 분해기 | Separating Unit | 拆解機 | 20 |
+| 액체 · 기체 전환기 | Fluid-Gas Transmuting Unit | 液氣轉化機 | 50 |
+| 고체 · 기체 전환기 | Solid-Gas Transmuting Unit | 固氣轉化機 | 50 |
+| 기체 분산기 | Gas Dispersing Unit | 氣體散布機 | — |
+| 기체 반응로 | Gas Reactor Globe | 氣體反應爐 | 50 |
 
 ### 전력
 
-| 설비 | 영어 | 소비 전력 |
-| --- | --- | --- |
-| 전력 공급기 | Electric Pylon | 0 |
-| 식양 전력 공급기 | Xiranite Pylon | 0 |
-| 중계기 | Relay Tower | 0 |
-| 식양 중계기 | Xiranite Relay | 0 |
-| 열에너지 뱅크 | Thermal Bank | 0 |
+| 설비 | 영어 | 중국어 번체 | 소비 전력 |
+| --- | --- | --- | --- |
+| 전력 공급기 | Electric Pylon | 供電樁 | 0 |
+| 식양 전력 공급기 | Xiranite Pylon | 息壤供電樁 | 0 |
+| 중계기 | Relay Tower | 中繼器 | 0 |
+| 식양 중계기 | Xiranite Relay | 息壤中繼器 | 0 |
+| 열에너지 뱅크 | Thermal Bank | 熱能池 | 0 |
 
 ### 기능성 설비
 
-| 설비 | 영어 | 소비 전력 |
-| --- | --- | --- |
-| 집라인 후크 | Zipline Pylon | 5 |
-| 장거리 집라인 후크 | Zipline Tower | 5 |
-| 스프링클러 | Sprinkler | 10 |
-| 액체 배출 장치 | Fluid Supply Unit | 10 |
+| 설비 | 영어 | 중국어 번체 | 소비 전력 |
+| --- | --- | --- | --- |
+| 집라인 후크 | Zipline Pylon | 滑索架 | 5 |
+| 장거리 집라인 후크 | Zipline Tower | 長距滑索架 | 5 |
+| 스프링클러 | Sprinkler | 灑水機 | 10 |
+| 액체 배출 장치 | Fluid Supply Unit | 液體供給器 | 10 |
 
 대시는 전력망 없이 작동하는 설비를 뜻한다. 휴대용 오리지늄 채굴기는 캐낸 오리지늄으로, 수력 채굴기는 청정수로 작동한다. 전력 설비의 소비 전력은 0이지만, 작동하려면 전력망에 연결해야 한다.
 

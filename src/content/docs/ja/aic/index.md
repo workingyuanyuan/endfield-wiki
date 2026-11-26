@@ -76,78 +76,78 @@ sources:
 
 ### 資源採集
 
-| 設備 | 英語 | 消費電力 |
-| --- | --- | --- |
-| 携帯式採鉱機 | Portable Originium Rig | — |
-| 電動採鉱機 | Electric Mining Rig | 5 |
-| 電動採鉱機Ⅱ | Electric Mining Rig Mk II | 10 |
-| 水力採鉱機 | Hydro Mining Rig | — |
-| 液体ポンプ | Fluid Pump | 10 |
-| 耐酸性液体ポンプⅡ | Acid Resistant Pump Mk II | 20 |
-| ガス収集ポンプ | Gas Extractor | — |
+| 設備 | 英語 | 繁体字中国語 | 消費電力 |
+| --- | --- | --- | --- |
+| 携帯式採鉱機 | Portable Originium Rig | 便攜式源石礦機 | — |
+| 電動採鉱機 | Electric Mining Rig | 電驅礦機 | 5 |
+| 電動採鉱機Ⅱ | Electric Mining Rig Mk II | 電驅礦機II | 10 |
+| 水力採鉱機 | Hydro Mining Rig | 水驅礦機 | — |
+| 液体ポンプ | Fluid Pump | 水泵 | 10 |
+| 耐酸性液体ポンプⅡ | Acid Resistant Pump Mk II | 耐酸水泵II | 20 |
+| ガス収集ポンプ | Gas Extractor | 氣體收集泵 | — |
 
 ### 倉庫搬入出
 
-| 設備 | 英語 | 消費電力 |
-| --- | --- | --- |
-| 協約貯蔵箱 | Protocol Stash | 5 |
-| 倉庫搬入口 | Depot Loader | — |
-| 倉庫搬出口 | Depot Unloader | — |
-| 液体貯蔵タンク | Fluid Tank | — |
-| 倉庫連結ハブ部品 | Depot Bus Section | — |
-| 倉庫連結ハブ基礎 | Depot Bus Port | — |
-| 地下配管（入） | Conduit Inlet | — |
-| 地下配管（出） | Conduit Outlet | — |
-| ガス貯蔵タンク | Gas Tank | — |
+| 設備 | 英語 | 繁体字中国語 | 消費電力 |
+| --- | --- | --- | --- |
+| 協約貯蔵箱 | Protocol Stash | 協議儲存箱 | 5 |
+| 倉庫搬入口 | Depot Loader | 倉庫存貨口 | — |
+| 倉庫搬出口 | Depot Unloader | 倉庫取貨口 | — |
+| 液体貯蔵タンク | Fluid Tank | 儲液罐 | — |
+| 倉庫連結ハブ部品 | Depot Bus Section | 倉庫存取線基段 | — |
+| 倉庫連結ハブ基礎 | Depot Bus Port | 倉庫存取線源樁 | — |
+| 地下配管（入） | Conduit Inlet | 暗管入口 | — |
+| 地下配管（出） | Conduit Outlet | 暗管出口 | — |
+| ガス貯蔵タンク | Gas Tank | 儲氣罐 | — |
 
 ### 基礎生産
 
-| 設備 | 英語 | 消費電力 |
-| --- | --- | --- |
-| 精錬炉 | Refining Unit | 5 |
-| 粉砕機 | Shredding Unit | 5 |
-| 組立機 | Fitting Unit | 20 |
-| 成形機 | Moulding Unit | 10 |
-| 栽培機 | Planting Unit | 20 |
-| 採種機 | Seed-Picking Unit | 10 |
-| 無害化処理機 | Waste Treatment Unit | 50 |
+| 設備 | 英語 | 繁体字中国語 | 消費電力 |
+| --- | --- | --- | --- |
+| 精錬炉 | Refining Unit | 精煉爐 | 5 |
+| 粉砕機 | Shredding Unit | 粉碎機 | 5 |
+| 組立機 | Fitting Unit | 配件機 | 20 |
+| 成形機 | Moulding Unit | 塑形機 | 10 |
+| 栽培機 | Planting Unit | 種植機 | 20 |
+| 採種機 | Seed-Picking Unit | 採種機 | 10 |
+| 無害化処理機 | Waste Treatment Unit | 廢料處理機 | 50 |
 
 ### 合成生産
 
-| 設備 | 英語 | 消費電力 |
-| --- | --- | --- |
-| 装備部品加工機 | Gearing Unit | 10 |
-| 充填機 | Filling Unit | 20 |
-| 包装機 | Packaging Unit | 20 |
-| 研磨機 | Grinding Unit | 50 |
-| 化学反応炉 | Reactor Crucible | 50 |
-| 大型化学反応炉 | Expanded Crucible | 100 |
-| 天有洪炉 | Forge of the Sky | 50 |
-| 精製機 | Purification Unit | 50 |
-| 解体機 | Separating Unit | 20 |
-| ガス液体転換機 | Fluid-Gas Transmuting Unit | 50 |
-| ガス固体転換機 | Solid-Gas Transmuting Unit | 50 |
-| ガス散布機 | Gas Dispersing Unit | — |
-| ガス反応装置 | Gas Reactor Globe | 50 |
+| 設備 | 英語 | 繁体字中国語 | 消費電力 |
+| --- | --- | --- | --- |
+| 装備部品加工機 | Gearing Unit | 裝備原件機 | 10 |
+| 充填機 | Filling Unit | 灌裝機 | 20 |
+| 包装機 | Packaging Unit | 封裝機 | 20 |
+| 研磨機 | Grinding Unit | 研磨機 | 50 |
+| 化学反応炉 | Reactor Crucible | 反應池 | 50 |
+| 大型化学反応炉 | Expanded Crucible | 擴容反應池 | 100 |
+| 天有洪炉 | Forge of the Sky | 天有洪爐 | 50 |
+| 精製機 | Purification Unit | 提純機 | 50 |
+| 解体機 | Separating Unit | 拆解機 | 20 |
+| ガス液体転換機 | Fluid-Gas Transmuting Unit | 液氣轉化機 | 50 |
+| ガス固体転換機 | Solid-Gas Transmuting Unit | 固氣轉化機 | 50 |
+| ガス散布機 | Gas Dispersing Unit | 氣體散布機 | — |
+| ガス反応装置 | Gas Reactor Globe | 氣體反應爐 | 50 |
 
 ### 電力
 
-| 設備 | 英語 | 消費電力 |
-| --- | --- | --- |
-| 送電スタンド | Electric Pylon | 0 |
-| 息壌送電スタンド | Xiranite Pylon | 0 |
-| 中継タワー | Relay Tower | 0 |
-| 息壌中継タワー | Xiranite Relay | 0 |
-| 発電機 | Thermal Bank | 0 |
+| 設備 | 英語 | 繁体字中国語 | 消費電力 |
+| --- | --- | --- | --- |
+| 送電スタンド | Electric Pylon | 供電樁 | 0 |
+| 息壌送電スタンド | Xiranite Pylon | 息壤供電樁 | 0 |
+| 中継タワー | Relay Tower | 中繼器 | 0 |
+| 息壌中継タワー | Xiranite Relay | 息壤中繼器 | 0 |
+| 発電機 | Thermal Bank | 熱能池 | 0 |
 
 ### サポート設備
 
-| 設備 | 英語 | 消費電力 |
-| --- | --- | --- |
-| ジップライン | Zipline Pylon | 5 |
-| 長距離ジップライン | Zipline Tower | 5 |
-| スプリンクラー | Sprinkler | 10 |
-| 排水機 | Fluid Supply Unit | 10 |
+| 設備 | 英語 | 繁体字中国語 | 消費電力 |
+| --- | --- | --- | --- |
+| ジップライン | Zipline Pylon | 滑索架 | 5 |
+| 長距離ジップライン | Zipline Tower | 長距滑索架 | 5 |
+| スプリンクラー | Sprinkler | 灑水機 | 10 |
+| 排水機 | Fluid Supply Unit | 液體供給器 | 10 |
 
 ダッシュは電力網なしで動く設備を示す。携帯式採鉱機は採掘した源石で、水力採鉱機は水で動く。電力設備の消費電力は0だが、動かすには電力網につなぐ必要がある。
 
