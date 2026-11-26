@@ -1,45 +1,47 @@
 ---
 title: "전투 메커니즘"
 description: "《명일방주: 엔드필드》의 전투 메커니즘: 피해 공식, 속성, 아츠 이상, 물리 이상, 불균형."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 용어와 튜토리얼은 게임 데이터 1.6, 피해 공식은 1.0 버전 플레이어 검증 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 용어와 튜토리얼은 게임 데이터 1.7, 피해 공식은 1.0 버전 플레이어 검증 기준"
 caveat: "방어 불능은 물리 이상 공격으로 적에게 쌓이는 중첩으로, 최대 4중첩까지 쌓인다. 특정 속성으로 받는 피해를 늘리는 디버프인 취약 효과(취약)와는 다르다."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 aliases:
   - Combat mechanics
   - 戰鬥機制
   - 战斗机制
   - 戦闘システム
 sources:
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "NGA 포럼 공략 「终末地数据机制导论」(플레이어 검증, 1.0 버전)"
     url: https://bbs.nga.cn/read.php?tid=46094556
-  - title: "warfarin.wiki, 게임 데이터 1.6 전투 용어"
+  - title: "warfarin.wiki, 게임 데이터 1.7 전투 용어"
     url: https://warfarin.wiki/en/operators/laevatain
-  - title: "warfarin.wiki, 튜토리얼 피해 유형(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 피해 유형(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_dmg_type
-  - title: "warfarin.wiki, 튜토리얼 이상 레벨(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 이상 레벨(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_statuslevel
-  - title: "warfarin.wiki, 튜토리얼 불균형치(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 불균형치(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_poise
-  - title: "warfarin.wiki, 튜토리얼 처형(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 처형(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_execute
-  - title: "warfarin.wiki, 튜토리얼 강력한 일격(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 강력한 일격(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_heavy_attack
-  - title: "warfarin.wiki, 튜토리얼 스킬 게이지(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 스킬 게이지(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_sp
-  - title: "warfarin.wiki, 튜토리얼 스킬 - 배틀 스킬(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 스킬 - 배틀 스킬(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_normal_skill
-  - title: "warfarin.wiki, 튜토리얼 스킬 - 연계 스킬(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 스킬 - 연계 스킬(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_combo
-  - title: "warfarin.wiki, 튜토리얼 스킬 - 궁극기(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 스킬 - 궁극기(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_ultimite_skill
-  - title: "warfarin.wiki, 튜토리얼 팀 작전(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 팀 작전(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_team
-  - title: "warfarin.wiki, 오퍼레이터(게임 데이터 1.6 속성, 스킬 소모와 쿨타임)"
+  - title: "warfarin.wiki, 오퍼레이터(게임 데이터 1.7 속성, 스킬 소모와 쿨타임)"
     url: https://warfarin.wiki/en/operators
   - title: "Endfield Talos Wiki, Operator(팀 인원)"
     url: https://endfield.wiki.gg/wiki/Operator
+  - title: "「뜻밖의 만남, 버섯 동산 대모험」 버전 업데이트 설명"
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 피해 유형과 반응
@@ -72,7 +74,7 @@ sources:
 - 오퍼레이터의 기본 치명타 확률은 5%, 치명타 피해는 50%이다. 적의 치명타 확률은 0%, 치명타 피해는 50%이다.
 - 모든 스킬 피해 보너스는 배틀 스킬, 연계 스킬, 궁극기에 적용되며 일반 공격에는 적용되지 않는다. 처형에는 일반 공격 피해 보너스가 적용된다.
 - 적의 기본 방어력은 모든 레벨에서 100이므로 방어력을 바꾸는 효과가 없으면 방어력을 적용받는 타격의 방어력 배율은 0.5이다. 오퍼레이터의 기본 방어력은 0이며, 방어력은 보통 장비의 주 능력치에서 얻는다.
-- 저항 1포인트마다 해당 유형의 피해가 1% 줄어든다. 게임에서는 적의 저항을 등급으로 표시하며 0은 D, 20~40은 C, 50과 60은 B이다. 대부분의 적 저항은 0 또는 20이고, 일부 적만 한 속성에 30, 35, 40, 50 또는 60을 가진다. 초자연 저항이 있는 적은 없다.
+- 저항 1포인트마다 해당 유형의 피해가 1% 줄어든다. 게임에서는 적의 저항을 등급으로 표시하며 -20은 E, 0은 D, 20~40은 C, 50과 60은 B이다. 저항이 음수이면 받는 피해가 늘어난다. 1.7 버전의 머쉬룸 크러셔 니드웜, 머쉬룸 크러셔 파괴자, 머쉬룸 크러셔 돌격수와 버섯 왕자는 열기 저항이 -20이다. 대부분의 적 저항은 0 또는 20이고, 일부 적만 한 속성에 30, 35, 40, 50 또는 60을 가진다. 초자연 저항이 있는 적은 없다.
 - 오퍼레이터의 물리 저항은 100 − 100 / (0.001 × 민첩 + 1)이고, 아츠 저항은 지능으로 같은 식을 쓰며 민첩과 지능은 정수 부분만 계산한다. 오퍼레이터의 저항 배율은 0.1 미만으로 내려가지 않는다.
 - 게임 내 많은 수치는 소수점을 버리고 표시되므로 표시된 숫자로 계산하면 몇 포인트 차이가 날 수 있다.
 
@@ -106,16 +108,16 @@ sources:
 
 ## 피해 유형과 속성
 
-| 피해 유형 | 분류 | 해당 속성 오퍼레이터 수(게임 데이터 1.6) |
+| 피해 유형 | 분류 | 해당 속성 오퍼레이터 수(게임 데이터 1.7) |
 | --- | --- | --- |
 | 물리 | 물리 | 9 |
 | 열기 | 아츠 | 5 |
 | 전기 | 아츠 | 7 |
 | 냉기 | 아츠 | 8 |
-| 자연 | 아츠 | 5 |
+| 자연 | 아츠 | 6 |
 | 초자연 | 초자연 | 0 |
 
-게임 데이터 1.6의 오퍼레이터 34명은 모두 물리 또는 네 가지 아츠 속성 중 하나를 지니며, 초자연 속성 오퍼레이터는 없다.
+게임 데이터 1.7의 오퍼레이터 35명은 모두 물리 또는 네 가지 아츠 속성 중 하나를 지니며, 초자연 속성 오퍼레이터는 없다.
 
 ## 아츠 부착, 아츠 폭발, 아츠 이상
 
@@ -164,7 +166,7 @@ sources:
 | 스킬 | 소모 | 쿨타임 | 비고 |
 | --- | --- | --- | --- |
 | 일반 공격 | 없음 | 없음 | 메인 컨트롤 오퍼레이터가 아닌 팀원은 자동으로 공격한다 |
-| 배틀 스킬 | 스킬 게이지 | 없음 | 34명 중 33명은 스킬 게이지 100, [리노](/ko/operators/liino/)만 25 |
+| 배틀 스킬 | 스킬 게이지 | 없음 | 35명 중 34명은 스킬 게이지 100, [리노](/ko/operators/liino/)만 25 |
 | 연계 스킬 | 없음 | 있음 | 해당 오퍼레이터 고유의 발동 조건을 충족할 때만 사용한다. 스킬 레벨 1 기준 쿨타임 3~40초 |
 | 궁극기 | 궁극기 에너지 전부 | 사용 후 짧은 쿨타임 | 게이지를 가득 채워야 한다. 오퍼레이터마다 궁극기 에너지 70~300, 쿨타임 10, 15, 20 또는 30초 |
 

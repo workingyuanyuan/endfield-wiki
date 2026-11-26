@@ -1,10 +1,10 @@
 ---
 title: "訣"
 description: "訣是 6 星自然術師幹員，使用施術單元；限定幹員，於「臨淵望北」機率提升。"
-appliesTo: "《明日方舟：終末地》國際版，1.6 版；技能文字與數值出自遊戲資料 1.6"
+appliesTo: "《明日方舟：終末地》國際版，1.7 版；技能文字與數值出自遊戲資料 1.7"
 caveat: "限定幹員在自己那一期之後的 2 期特許尋訪仍在名單內，但沒有機率提升，之後移出名單；限定幹員不會加入基礎尋訪。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-09-02
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Arcane"
   - "诀"
@@ -26,10 +26,12 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: "「雪淞幽夢」版本更新說明"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki 訣頁（遊戲資料 1.6）"
+  - title: "「穿越甚大蘑境與你相逢」版本更新說明"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki 訣頁（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/operators/arcane
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Arcane 頁"
     url: https://endfield.wiki.gg/wiki/Arcane
 ---
@@ -256,3 +258,4 @@ sources:
 | 版本 | 變更 |
 | --- | --- |
 | 1.5 | 修復處於「陣訣·智」形態時，特定操作可能導致施放戰技後技力返還及傷害異常的問題 |
+| 1.7 | 修復在「戰爭迴響」關卡「獸群紀錄：清波寨」中，處於「陣訣·智」形態時有機率無法觸發連攜技的問題 |

@@ -1,10 +1,10 @@
 ---
 title: "Pogranichnik"
 description: "Pogranichnik is a 6-star Physical Vanguard with a sword; in the standard headhunting roster."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
 caveat: "Pogranichnik has never been the rate-up operator of a banner. Pogranichnik is one of five standard 6-star operators listed in every Chartered Headhunting pool."
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-28
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "駿衛"
   - "骏卫"
@@ -22,10 +22,14 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3839
   - title: "Ancestral Spring Flows Anew RE-Factor Headhunting #1"
     url: https://endfield.gryphline.com/en-us/news/6179
-  - title: "warfarin.wiki, Pogranichnik (game data 1.6)"
+  - title: "To Every Wish Adrift RE-Factor Headhunting #1"
+    url: https://endfield.gryphline.com/en-us/news/8992
+  - title: "Precious Scarlet RE-Factor Headhunting #1"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki, Pogranichnik (game data 1.7)"
     url: https://warfarin.wiki/en/operators/pogranichnik
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Pogranichnik"
     url: https://endfield.wiki.gg/wiki/Pogranichnik
 ---
@@ -64,6 +68,8 @@ Banners other than Chartered Headhunting that listed Pogranichnik:
 | Fest of Brilliance | Special Headhunting | One of four 6-star operators | 2026-05-14 12:00 | Version 1.3 update, 2026-06-05 |
 | Resplendent Spectrum | RE-Factor Headhunting #1 | In the pool | 2026-09-24 12:00 | Version 1.6 update, 2026-10-15 |
 | Ancestral Spring Flows Anew | RE-Factor Headhunting #1 | In the pool | 2026-10-29 12:00 | 2026-11-19 11:59 |
+| To Every Wish Adrift | RE-Factor Headhunting #1 | In the pool | Version 1.7 update, 2026-11-25 | 2026-12-16 11:59 |
+| Precious Scarlet | RE-Factor Headhunting #1 | In the pool | 2026-12-16 12:00 | End of Version 1.7 |
 
 Fest of Brilliance held only Laevatain, Gilberta, Ardelia and Pogranichnik as 6-star operators. Its guarantee count was separate from every other banner; 120 pulls on it gave a permit to choose one of the four.
 

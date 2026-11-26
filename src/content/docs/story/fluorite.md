@@ -1,17 +1,17 @@
 ---
 title: "Fluorite's file"
 description: "Fluorite's 6 operator files, 80 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "螢石的檔案"
   - "萤石的档案"
   - "フローライトのプロファイル"
   - "플루라이트의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -115,8 +115,8 @@ sources:
 | Operator Promotion 3 | Maybe throw in a medal next time. Never had one before. | Promotion III |
 | Operator Promotion 4 | If the Band Fringes are part of the "better world" we're trying to build, then we've got plenty of work to do, don't we? | Promotion IV |
 | Operator Reporting for Duty | Op Z7 skirmisher, Fluorite. Got anything to say? No? How about we just call it a day? |  |
-| Standing by 1 | Who's due for some bad luck this time? |  |
-| Standing by 2 | Distract them? Disable them? Or ... just destroy them? |  |
+| Standing By 1 | Who's due for some bad luck this time? |  |
+| Standing By 2 | Distract them? Disable them? Or ... just destroy them? |  |
 | Assigning to Facility | Relax, I'll get the job done right. |  |
 | Greeting 1 | Busy day, huh, big hero? |  |
 | Greeting 2 | When was the last time you actually rested? | Reach trust: 300 |

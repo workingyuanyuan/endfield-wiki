@@ -1,10 +1,10 @@
 ---
 title: "システム概要"
 description: "『アークナイツ：エンドフィールド』のスカウト、武庫申請、サーバー、戦闘、育成、武器、装備、帝江号。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7"
 caveat: "出現率アップ対象の星6オペレーターは、自身のものを含めて3回の特別スカウトの対象に含まれ、通常スカウトに追加されることはない。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-21
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Systems"
   - "系統總覽"
@@ -13,7 +13,7 @@ aliases:
 sources:
   - title: "公式ニュース一覧（Gryphline）"
     url: https://endfield.gryphline.com/en-us/news
-  - title: "warfarin.wiki（ゲームデータ 1.6）"
+  - title: "warfarin.wiki（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en
 ---
 

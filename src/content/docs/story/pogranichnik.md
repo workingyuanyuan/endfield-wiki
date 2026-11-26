@@ -1,17 +1,17 @@
 ---
 title: "Pogranichnik's file"
 description: "Pogranichnik's 6 operator files, 82 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "駿衛的檔案"
   - "骏卫的档案"
   - "ポグラニチニクのプロファイル"
   - "포그라니치니크의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -136,8 +136,8 @@ sources:
 | Operator Promotion 3 | Whether on the battlefield or elsewhere, this is an honor. Thank you for your trust, Endministrator. I'll prove that this trust is well placed through my actions on the frontlines. | Promotion III |
 | Operator Promotion 4 | War remains a brutal affair on Talos-II. Numerous souls have marched into the north, fighting and falling so that the rest of this world may live. Endmin, I have no doubt that your actions will put a solemn end to this cruel cycle of war and sacrifice. | Promotion IV |
 | Operator Reporting for Duty | Pogranichnik, Rhodes Island operator, and officer serving the Order of Steel Oath, reporting for duty. The situation is urgent. I respectfully request a brief on your battle plan, at your earliest convenience. |  |
-| Standing by 1 | Let's go over the battle plan once more, shall we? |  |
-| Standing by 2 | The slightest slip of mind decides who lives ... and who dies in battle. |  |
+| Standing By 1 | Let's go over the battle plan once more, shall we? |  |
+| Standing By 2 | The slightest slip of mind decides who lives ... and who dies in battle. |  |
 | Assigning to Facility | I've never tried this sort of work... But from a strategic perspective, it may be worth a try. |  |
 | Greeting 1 | Greetings, Endministrator. Here for another inspection tour? |  |
 | Greeting 2 | Salutations, Endministrator. | Reach trust: 300 |

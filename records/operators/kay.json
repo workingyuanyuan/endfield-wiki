@@ -1,0 +1,553 @@
+{
+ "slug": "kay",
+ "gameId": "chr_0040_sweetpie",
+ "gameDataVersion": "1.7",
+ "gameDataPage": "https://warfarin.wiki/en/operators/kay",
+ "officialKey": "sweetpie",
+ "name": {
+  "en": "Kay",
+  "zh-TW": "小刻",
+  "zh-CN": "小刻"
+ },
+ "rarity": 6,
+ "class": {
+  "en": "Vanguard",
+  "zh-TW": "先鋒",
+  "zh-CN": "先锋"
+ },
+ "element": {
+  "en": "Nature",
+  "zh-TW": "自然",
+  "zh-CN": "自然"
+ },
+ "weapon": {
+  "en": "Polearm",
+  "zh-TW": "長柄武器",
+  "zh-CN": "长柄武器"
+ },
+ "mainAttr": {
+  "en": "Strength",
+  "zh-TW": "力量",
+  "zh-CN": "力量"
+ },
+ "subAttr": {
+  "en": "Agility",
+  "zh-TW": "敏捷",
+  "zh-CN": "敏捷"
+ },
+ "faction": {
+  "en": "Rhodes Island",
+  "zh-TW": "羅德島",
+  "zh-CN": "罗德岛"
+ },
+ "race": {
+  "en": "Perro",
+  "zh-TW": "佩洛",
+  "zh-CN": "佩洛"
+ },
+ "voice": {
+  "en": {
+   "chi": "MAO",
+   "eng": "Christina Assaf-Costello",
+   "jap": "Seto Asami",
+   "kor": "Miso"
+  },
+  "zh-TW": {
+   "chi": "吱毛",
+   "eng": "Christina Assaf-Costello",
+   "jap": "瀨戶麻沙美",
+   "kor": "洣卲"
+  },
+  "zh-CN": {
+   "chi": "吱毛",
+   "eng": "Christina Assaf-Costello",
+   "jap": "濑户麻沙美",
+   "kor": "洣卲"
+  }
+ },
+ "skills": [
+  {
+   "kind": "basic",
+   "name": {
+    "en": "Wild Wacky-Whack",
+    "zh-TW": "野性打擊",
+    "zh-CN": "野性打击"
+   },
+   "cost": 0,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "BATK SEQ 1 Multiplier",
+      "zh-TW": "普攻第一段倍率"
+     },
+     "first": "21%",
+     "last": "48%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 2 Multiplier",
+      "zh-TW": "普攻第二段倍率"
+     },
+     "first": "24%",
+     "last": "52%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 3 Multiplier",
+      "zh-TW": "普攻第三段倍率"
+     },
+     "first": "28%",
+     "last": "60%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 4 Multiplier",
+      "zh-TW": "普攻第四段倍率"
+     },
+     "first": "42%",
+     "last": "90%"
+    },
+    {
+     "name": {
+      "en": "BATK SEQ 5 Multiplier",
+      "zh-TW": "普攻第五段倍率"
+     },
+     "first": "59%",
+     "last": "132%"
+    },
+    {
+     "name": {
+      "en": "Finisher ATK Multiplier",
+      "zh-TW": "處決攻擊倍率"
+     },
+     "first": "400%",
+     "last": "900%"
+    },
+    {
+     "name": {
+      "en": "Dive ATK Multiplier",
+      "zh-TW": "下墜攻擊倍率"
+     },
+     "first": "80%",
+     "last": "180%"
+    }
+   ]
+  },
+  {
+   "kind": "battle",
+   "name": {
+    "en": "\"Really Heavy Bash\"",
+    "zh-TW": "「很重地打」",
+    "zh-CN": "“很重地打”"
+   },
+   "cost": 100,
+   "cooldown": [
+    0,
+    0
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "133%",
+     "last": "300%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "10",
+     "last": "10"
+    },
+    {
+     "name": {
+      "en": "Bonus DMG Multiplier per Hot Edgy Naives",
+      "zh-TW": "每層熱切天性額外傷害倍率"
+     },
+     "first": "44%",
+     "last": "100%"
+    },
+    {
+     "name": {
+      "en": "Combustion Duration (s)",
+      "zh-TW": "燃燒持續時間（秒）"
+     },
+     "first": "5",
+     "last": "5"
+    }
+   ]
+  },
+  {
+   "kind": "combo",
+   "name": {
+    "en": "\"Really Kwik Smash\"",
+    "zh-TW": "「很快地砸」",
+    "zh-CN": "“很快地砸”"
+   },
+   "cost": 0,
+   "cooldown": [
+    7,
+    6
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "DMG Multiplier",
+      "zh-TW": "傷害倍率"
+     },
+     "first": "31%",
+     "last": "70%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "Ultimate Energy Gain",
+      "zh-TW": "獲得終結技能量"
+     },
+     "first": "5",
+     "last": "5"
+    },
+    {
+     "name": {
+      "en": "SP Recovery",
+      "zh-TW": "回復技力"
+     },
+     "first": "10",
+     "last": "12"
+    }
+   ]
+  },
+  {
+   "kind": "ultimate",
+   "name": {
+    "en": "\"Really Sweet Combi-Bonker!\"",
+    "zh-TW": "「超甜蜜複合重錘！」",
+    "zh-CN": "“超甜蜜复合重锤！”"
+   },
+   "cost": 150,
+   "cooldown": [
+    20,
+    20
+   ],
+   "levels": 12,
+   "values": [
+    {
+     "name": {
+      "en": "SEQ 1 DMG Multiplier",
+      "zh-TW": "第一段傷害倍率"
+     },
+     "first": "71%",
+     "last": "160%"
+    },
+    {
+     "name": {
+      "en": "SEQ 2 DMG Multiplier",
+      "zh-TW": "第二段傷害倍率"
+     },
+     "first": "89%",
+     "last": "200%"
+    },
+    {
+     "name": {
+      "en": "SEQ 3 DMG Multiplier",
+      "zh-TW": "第三段傷害倍率"
+     },
+     "first": "107%",
+     "last": "240%"
+    },
+    {
+     "name": {
+      "en": "Stagger",
+      "zh-TW": "失衡值"
+     },
+     "first": "20",
+     "last": "20"
+    },
+    {
+     "name": {
+      "en": "SP Recovery",
+      "zh-TW": "回復技力"
+     },
+     "first": "24",
+     "last": "30"
+    },
+    {
+     "name": {
+      "en": "Base Treatment",
+      "zh-TW": "基礎治療值"
+     },
+     "first": "180",
+     "last": "405"
+    },
+    {
+     "name": {
+      "en": "Treatment Increase per Agility",
+      "zh-TW": "每點敏捷額外增加的治療值"
+     },
+     "first": "0.42",
+     "last": "0.95"
+    },
+    {
+     "name": {
+      "en": "SP Recovery per Picnic Snack",
+      "zh-TW": "每個野餐點心回復技力"
+     },
+     "first": "10",
+     "last": "10"
+    }
+   ]
+  }
+ ],
+ "talents": [
+  {
+   "name": {
+    "en": "Bottomless Arsenal",
+    "zh-TW": "無底武器庫",
+    "zh-CN": "无底武器库"
+   },
+   "promotions": [
+    0,
+    1,
+    3
+   ]
+  },
+  {
+   "name": {
+    "en": "Have a Waffle!",
+    "zh-TW": "來塊蜜餅吧！",
+    "zh-CN": "来块蜜饼吧！"
+   },
+   "promotions": [
+    2,
+    3
+   ]
+  }
+ ],
+ "potentials": [
+  {
+   "level": 1,
+   "name": {
+    "en": "Wildness Ignited",
+    "zh-TW": "野性引燃",
+    "zh-CN": "野性引燃"
+   }
+  },
+  {
+   "level": 2,
+   "name": {
+    "en": "Expert Roamer",
+    "zh-TW": "野遊專家",
+    "zh-CN": "野游专家"
+   }
+  },
+  {
+   "level": 3,
+   "name": {
+    "en": "Picnic Prep",
+    "zh-TW": "野餐準備",
+    "zh-CN": "野餐准备"
+   }
+  },
+  {
+   "level": 4,
+   "name": {
+    "en": "\"Bonkie I Made\"",
+    "zh-TW": "「我打的錘」",
+    "zh-CN": "“我打的锤”"
+   }
+  },
+  {
+   "level": 5,
+   "name": {
+    "en": "\"Kwikker Smash\"",
+    "zh-TW": "「更快地砸」",
+    "zh-CN": "“更快地砸”"
+   }
+  }
+ ],
+ "stats": {
+  "1": {
+   "str": 22,
+   "agi": 14,
+   "int": 9,
+   "will": 11,
+   "atk": 30,
+   "hp": 500
+  },
+  "90": {
+   "str": 171,
+   "agi": 121,
+   "int": 89,
+   "will": 96,
+   "atk": 318,
+   "hp": 5495
+  }
+ },
+ "promotions": [
+  {
+   "stage": 1,
+   "name": {
+    "en": "Promotion I",
+    "zh-TW": "精英化I",
+    "zh-CN": "精英化·一"
+   },
+   "levelCap": 40,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "Pink Bolete",
+      "zh-TW": "輕紅柱狀菌",
+      "zh-CN": "轻红柱状菌"
+     },
+     "count": 3
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 1600
+    }
+   ]
+  },
+  {
+   "stage": 2,
+   "name": {
+    "en": "Promotion II",
+    "zh-TW": "精英化II",
+    "zh-CN": "精英化·二"
+   },
+   "levelCap": 60,
+   "items": [
+    {
+     "name": {
+      "en": "Protodisk",
+      "zh-TW": "協議圓盤",
+      "zh-CN": "协议圆盘"
+     },
+     "count": 25
+    },
+    {
+     "name": {
+      "en": "Red Bolete",
+      "zh-TW": "中紅柱狀菌",
+      "zh-CN": "中红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 6500
+    }
+   ]
+  },
+  {
+   "stage": 3,
+   "name": {
+    "en": "Promotion III",
+    "zh-TW": "精英化III",
+    "zh-CN": "精英化·三"
+   },
+   "levelCap": 80,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 24
+    },
+    {
+     "name": {
+      "en": "Ruby Bolete",
+      "zh-TW": "重紅柱狀菌",
+      "zh-CN": "重红柱状菌"
+     },
+     "count": 5
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 18000
+    }
+   ]
+  },
+  {
+   "stage": 4,
+   "name": {
+    "en": "Promotion IV",
+    "zh-TW": "精英化IV",
+    "zh-CN": "精英化·四"
+   },
+   "levelCap": 90,
+   "items": [
+    {
+     "name": {
+      "en": "Protoset",
+      "zh-TW": "協議圓盤組",
+      "zh-CN": "协议圆盘组"
+     },
+     "count": 36
+    },
+    {
+     "name": {
+      "en": "Metadiastima Photoemission Tube",
+      "zh-TW": "超距輝映管",
+      "zh-CN": "超距辉映管"
+     },
+     "count": 20
+    },
+    {
+     "name": {
+      "en": "Bloodcap",
+      "zh-TW": "血菌",
+      "zh-CN": "血菌"
+     },
+     "count": 8
+    },
+    {
+     "name": {
+      "en": "T-Creds",
+      "zh-TW": "折金票",
+      "zh-CN": "折金票"
+     },
+     "count": 100000
+    }
+   ]
+  }
+ ]
+}

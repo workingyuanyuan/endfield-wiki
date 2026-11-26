@@ -1,25 +1,25 @@
 ---
 title: "장비 세트"
 description: "《명일방주: 엔드필드》 전체 24개 장비 세트의 3세트 효과, 장비 레벨, 네 가지 표기의 명칭."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 장비 세트와 세트 효과는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 장비 세트와 세트 효과는 게임 데이터 1.7 기준"
 caveat: "모든 세트는 3세트 효과만 있으며, 오퍼레이터가 착용하는 장비는 네 부위이므로 오퍼레이터 한 명에게 동시에 활성화되는 세트 효과는 최대 한 개이다."
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-05
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Gear sets
   - 裝備套裝
   - 装备套装
   - 装備セット
 sources:
-  - title: "warfarin.wiki, 장비와 장비 세트(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 장비와 장비 세트(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/gear
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
-  - title: "warfarin.wiki, 오퍼레이터 페이지(게임 데이터 1.6의 장비 조합 노드)"
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
+  - title: "warfarin.wiki, 오퍼레이터 페이지(게임 데이터 1.7의 장비 조합 노드)"
     url: https://warfarin.wiki/en/operators/laevatain
-  - title: "warfarin.wiki, 튜토리얼 「장비」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 「장비」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_equip
-  - title: "warfarin.wiki, 튜토리얼 「장비 정밀 단조」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 「장비 정밀 단조」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_equip_enhance
   - title: "Endfield Talos Wiki, Gear(비세트 장비)"
     url: https://endfield.wiki.gg/wiki/Gear
@@ -33,6 +33,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5208
   - title: "「단청도」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "「뜻밖의 만남, 버섯 동산 대모험」 버전 업데이트 설명"
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 장비의 기본 구조
@@ -48,7 +50,7 @@ sources:
 
 - 장비는 방어력과 함께 능력치 및 각종 수치를 올린다. 예를 들어 레벨 36 방어구인 순행 전달자 재킷은 방어력 +28, 민첩 +44, 지능 +29, 공격력 +16을 준다.
 - 네 세트(중장갑 전달자, 순행 전달자, 침식 차단, 침식 방호)는 레벨 36과 레벨 50이 모두 있으며, 두 레벨의 세트 효과는 같다.
-- 게임 데이터 1.6에는 장비가 총 276개 있으며, 그중 228개가 24개 세트에 속한다. 나머지는 비세트 장비로, 같은 품질의 세트 장비보다 수치가 약간 높다.
+- 게임 데이터 1.7에는 장비가 총 291개 있으며, 그중 238개가 24개 세트에 속한다. 나머지는 비세트 장비로, 같은 품질의 세트 장비보다 수치가 약간 높다.
 - 출시 이후 추가된 세트는 네 개이다. 1.2 버전의 식양의 흐름과 청파, 1.4 버전의 통합 실전 훈련, 1.5 버전의 관문이다.
 - 1.4 버전에 추가된 절망은 1.4 버전 업데이트 설명에 새 장비 세트로 적혀 있지만, 세트 효과가 없는 비세트 장비이다.
 
@@ -74,12 +76,12 @@ sources:
 | 순행 전달자 | Roving MSGR | 巡行信使 | 巡行信使 | 36, 50 | 3성, 4성 | 9 |
 | 아부레이의 메아리 | Aburrey's Legacy | 阿伯莉遺聲 | 阿伯莉遗声 | 50 | 4성 | 11 |
 | 재앙 방호 | Catastrophe | 天災防護 | 天灾防护 | 50 | 4성 | 6 |
-| 통합 실전 훈련 | AIC Fieldwork | 集成實訓 | 集成实训 | 60 | 5성 | 18 |
+| 통합 실전 훈련 | AIC Fieldwork | 集成實訓 | 集成实训 | 60 | 5성 | 21 |
 | 경량 초자연 | Æthertech | 輕超域 | 轻超域 | 70 | 5성 | 7 |
 | 본 크러셔 | Bonekrusha | 碾骨 | 碾骨 | 70 | 5성 | 14 |
 | 관문 | Deep Rampart | 險關 | 险关 | 70 | 5성 | 3 |
-| 식양의 숨결 | Eternal Xiranite | 長息 | 长息 | 70 | 5성 | 17 |
-| 개척 | Frontiers | 拓荒 | 拓荒 | 70 | 5성 | 14 |
+| 식양의 숨결 | Eternal Xiranite | 長息 | 长息 | 70 | 5성 | 18 |
+| 개척 | Frontiers | 拓荒 | 拓荒 | 70 | 5성 | 20 |
 | 고검의 잔향 | Grizzled Edge | 舊鋒 | 旧锋 | 70 | 5성 | 6 |
 | 열 작업용 | Hot Work | 動火用 | 动火用 | 70 | 5성 | 10 |
 | 생체 보조 | LYNX | 生物輔助 | 生物辅助 | 70 | 5성 | 11 |
@@ -91,7 +93,7 @@ sources:
 | 응룡 50식 | Type 50 Yinglung | 50式應龍 | 50式应龙 | 70 | 5성 | 14 |
 | 식양의 흐름 | Xiranflow | 壤流 | 壤流 | 70 | 5성 | 3 |
 
-부위 수는 게임 데이터 1.6에서 해당 세트의 모든 레벨을 합친 장비 개수이다. 번체와 간체에서 자형 이상으로 이름이 다른 세트는 AIC Heavy와 AIC Light(整合과 集成), Mordvolt Insulation(絕緣과 屏蔽) 세 개이다.
+부위 수는 게임 데이터 1.7에서 해당 세트의 모든 레벨을 합친 장비 개수이다. 번체와 간체에서 자형 이상으로 이름이 다른 세트는 AIC Heavy와 AIC Light(整合과 集成), Mordvolt Insulation(絕緣과 屏蔽) 세 개이다.
 
 ## 3세트 효과
 

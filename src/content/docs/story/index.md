@@ -1,17 +1,17 @@
 ---
 title: "Operator files"
-description: "The files, voice lines and chats of the 34 operators of Arknights: Endfield."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6"
+description: "The files, voice lines and chats of the 35 operators of Arknights: Endfield."
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7"
 caveat: "Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "幹員檔案"
   - "干员档案"
   - "プロファイル"
   - "오퍼레이터 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 | Operator | Files | Voice lines | Chats |
@@ -33,6 +33,7 @@ sources:
 | [Estella's file](/story/estella/) | 6 | 80 | 3 |
 | [Fluorite's file](/story/fluorite/) | 6 | 80 | 3 |
 | [Gilberta's file](/story/gilberta/) | 6 | 81 | 3 |
+| [Kay's file](/story/kay/) | 6 | 81 | 3 |
 | [Laevatain's file](/story/laevatain/) | 6 | 81 | 3 |
 | [Last Rite's file](/story/last-rite/) | 6 | 82 | 3 |
 | [Lifeng's file](/story/lifeng/) | 6 | 83 | 4 |

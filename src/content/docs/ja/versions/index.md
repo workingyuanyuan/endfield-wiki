@@ -1,10 +1,10 @@
 ---
 title: "バージョン一覧"
-description: "『アークナイツ：エンドフィールド』には2026-01-22の正式リリースから2026-10-15のバージョン1.6まで7バージョンがある。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、正式リリース（2026-01-22）からバージョン1.6（2026-10-15）まで"
-caveat: "バージョン1.5のプチエナは星5オペレーターでどのスカウトにも入っておらず、その他の新オペレーターはいずれも特別スカウトの星6ピックアップ対象である。"
-lastVerified: 2026-11-21
-effectiveDate: 2026-10-15
+description: "『アークナイツ：エンドフィールド』には2026-01-22の正式リリースから2026-11-25のバージョン1.7まで8バージョンがある。"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、正式リリース（2026-01-22）からバージョン1.7（2026-11-25）まで"
+caveat: "バージョン1.5のプチエナとバージョン1.7のミミノはイベントで配布される星5オペレーターでどのスカウトにも入っておらず、その他の新オペレーターはいずれも特別スカウトの星6ピックアップ対象である。"
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Versions
   - 版本列表
@@ -16,6 +16,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9574
   - title: "「丹青渡」 バージョンアップデートについて"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "「キノコ菌グ！？君との大冒険！」 バージョンアップデートについて"
+    url: https://endfield.gryphline.com/en-us/news/0740
   - title: "Endfield Talos Wiki、Version（バージョン番号）"
     url: https://endfield.wiki.gg/wiki/Version
   - title: "Game8、バージョン1.6生放送まとめ（バージョン番号）"
@@ -35,5 +37,6 @@ sources:
 | [1.4](/ja/versions/1-4/) | 向淵行 | Homecoming | 2026-07-16 | オクギ、リーノ |
 | [1.5](/ja/versions/1-5/) | 雪氷の幽夢 | Dreamscape of Wind and Snow | 2026-09-02 | ティフォロス、プチエナ（星5） |
 | [1.6](/ja/versions/1-6/) | 丹青渡 | Sanctuary of Ink | 2026-10-15 | スー、ミンホ |
+| [1.7](/ja/versions/1-7/) | キノコ菌グ！？君との大冒険！ | Meeting You in the World o'Shrooms | 2026-11-25 | ケーちゃん、ミミノ（星5） |
 
 特記のない新オペレーターはいずれも星6である。

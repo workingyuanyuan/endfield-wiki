@@ -1,17 +1,17 @@
 ---
 title: "Zhuang Fangyi's file"
 description: "Zhuang Fangyi's 6 operator files, 81 voice lines and 14 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "莊方宜的檔案"
   - "庄方宜的档案"
   - "ゾアン・ファンイのプロファイル"
   - "장방이의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -150,8 +150,8 @@ sources:
 | Operator Promotion 3 | This is far too generous of you, really... Tell you what, a simple meal together would be more than enough. Or, should you visit the coast, a small salt-tolerant plant would make a perfect token. | Promotion III |
 | Operator Promotion 4 | ...I truly appreciate your kind gesture. And I also have a gentle reminder for you: When you're able, please come to Wuling to claim your Honorary Citizen medal. And promise me you won't take it and leave without letting us know. We all want to hold a proper ceremony for you. | Promotion IV |
 | Operator Reporting for Duty | Endmin, before I officially come on board, I'd like to say a few words. As Viceroy, I am experienced in administrative duties. However ... here in Endfield, I wish to serve as a regular Tianshi and focus on research. |  |
-| Standing by 1 | Did you just ... call me? Are you looking for my company? |  |
-| Standing by 2 | Endmin, I added a new module to the Tianshi apparatus. Shall we see how it performs? |  |
+| Standing By 1 | Did you just ... call me? Are you looking for my company? |  |
+| Standing By 2 | Endmin, I added a new module to the Tianshi apparatus. Shall we see how it performs? |  |
 | Assigning to Facility | If you trust me, you can leave these minor matters to me. I can handle them on my own. |  |
 | Greeting 1 | I'm heading to the lab. Care to join me if it's on your way? |  |
 | Greeting 2 | Lovely coincidence. I was just thinking of coming to see you. | Reach trust: 300 |
@@ -308,24 +308,6 @@ sources:
 
 ### Our Wuling
 
-- **Endministrator**: Tianshi Yan Ning was seriously angry...
-- **Zhuang Fangyi**: Her reaction was expected. As an old friend, she understands my reasons for doing this.
-- Reply 1
-  - **Endministrator**: You two go way back?
-- Reply 2
-  - **Endministrator**: You two seem really close!
-- **Zhuang Fangyi**: Yan Ning and I joined the Wuling Science Station at the same time.
-- **Zhuang Fangyi**: Back then, we often worked with the other Tianshi at the station, dreaming up what the future Wuling City might look like.
-- **Zhuang Fangyi**: Sometimes we'd even draw on maps, sketching out the Wuling City of our imaginations.
-- **Endministrator**: What happened later?
-- **Zhuang Fangyi**: After that disaster, we built Wuling City in this very area, based on that "map".
-- **Zhuang Fangyi**: Every time I proposed an idea, everyone would brainstorm with me.
-- **Zhuang Fangyi**: Every Blight Tide season, when I returned from the Tianshi Pillar Array, I would always find a towel and hot tea waiting for me on the table.
-- **Zhuang Fangyi**: Yet now, navigating this crisis demands Wuling's total unity and unwavering dedication.
-- **Zhuang Fangyi**: I cannot let a shred of their focus be spared elsewhere.
-
-### Our Wuling
-
 - **Endministrator**: I think people working at the monitoring center face great risks...
 - **Zhuang Fangyi**: Endmin, let me tell you about a child I once met in Wuling City.
 - **Zhuang Fangyi**: He said I looked young. From the stories he heard, he thought I'd be an old lady with gray hair.
@@ -343,6 +325,24 @@ sources:
   - **Endministrator**: Are there other ways to conduct monitoring? If the Blight Tide submerges the monitoring center again, wouldn't the staff there be in grave danger?
 - **Zhuang Fangyi**: I understand your concerns.
 - **Zhuang Fangyi**: But from the day we arrived in Wuling, we were prepared to make sacrifices.
+
+### Our Wuling
+
+- **Endministrator**: Tianshi Yan Ning was seriously angry...
+- **Zhuang Fangyi**: Her reaction was expected. As an old friend, she understands my reasons for doing this.
+- Reply 1
+  - **Endministrator**: You two go way back?
+- Reply 2
+  - **Endministrator**: You two seem really close!
+- **Zhuang Fangyi**: Yan Ning and I joined the Wuling Science Station at the same time.
+- **Zhuang Fangyi**: Back then, we often worked with the other Tianshi at the station, dreaming up what the future Wuling City might look like.
+- **Zhuang Fangyi**: Sometimes we'd even draw on maps, sketching out the Wuling City of our imaginations.
+- **Endministrator**: What happened later?
+- **Zhuang Fangyi**: After that disaster, we built Wuling City in this very area, based on that "map".
+- **Zhuang Fangyi**: Every time I proposed an idea, everyone would brainstorm with me.
+- **Zhuang Fangyi**: Every Blight Tide season, when I returned from the Tianshi Pillar Array, I would always find a towel and hot tea waiting for me on the table.
+- **Zhuang Fangyi**: Yet now, navigating this crisis demands Wuling's total unity and unwavering dedication.
+- **Zhuang Fangyi**: I cannot let a shred of their focus be spared elsewhere.
 
 ### Bamboo Chimes and Ghostly Sighs
 

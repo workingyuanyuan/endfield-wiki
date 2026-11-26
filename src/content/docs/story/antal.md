@@ -1,17 +1,17 @@
 ---
 title: "Antal's file"
 description: "Antal's 6 operator files, 80 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "安塔爾的檔案"
   - "安塔尔的档案"
   - "アンタルのプロファイル"
   - "안탈의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -109,8 +109,8 @@ sources:
 | Operator Promotion 3 | Is this encouragement for my thirst for knowledge? I just finished a report on the Protocol Automation-Core. You can review it in case I missed anything. | Promotion III |
 | Operator Promotion 4 | Life in Endfield is vastly different compared to my days in the Academy. Back then, I easily earned my GPA with my research, but this doesn't seem important now. I must learn and live with trusting my teammates and achieving results as a team. | Promotion IV |
 | Operator Reporting for Duty | Antal of Op Z7 reporting for duty. I've studied Originium automation and occasionally help with modifying or repairing Originium devices. You may approach me for such tasks... And I have a question for you. What is the material of your mask? Carbon fiber? |  |
-| Standing by 1 | You have something to discuss with me? |  |
-| Standing by 2 | I am trying to compose a bad joke for you. |  |
+| Standing By 1 | You have something to discuss with me? |  |
+| Standing By 2 | I am trying to compose a bad joke for you. |  |
 | Assigning to Facility | A new job assignment? Affirmative. |  |
 | Greeting 1 | I am open to questions related to Originium devices, in addition to other things. |  |
 | Greeting 2 | Curiously, your presence greatly amplifies my eagerness to share my vast knowledge. | Reach trust: 300 |

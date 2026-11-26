@@ -1,17 +1,17 @@
 ---
 title: "幹員檔案"
-description: "《明日方舟：終末地》34 名幹員的檔案、語音與聊天。"
-appliesTo: "《明日方舟：終末地》國際版；遊戲資料 1.6 的文字"
+description: "《明日方舟：終末地》35 名幹員的檔案、語音與聊天。"
+appliesTo: "《明日方舟：終末地》國際版；遊戲資料 1.7 的文字"
 caveat: "各語言是遊戲各自的版本，句子不一定逐句對應。"
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "Operator files"
   - "干员档案"
   - "プロファイル"
   - "오퍼레이터 파일"
 sources:
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 | 幹員 | 檔案 | 語音 | 聊天 |
@@ -33,6 +33,7 @@ sources:
 | [埃特拉的檔案](/zh-tw/story/estella/) | 6 | 80 | 3 |
 | [螢石的檔案](/zh-tw/story/fluorite/) | 6 | 80 | 3 |
 | [潔爾佩塔的檔案](/zh-tw/story/gilberta/) | 6 | 81 | 3 |
+| [小刻的檔案](/zh-tw/story/kay/) | 6 | 81 | 3 |
 | [萊萬汀的檔案](/zh-tw/story/laevatain/) | 6 | 81 | 3 |
 | [別禮的檔案](/zh-tw/story/last-rite/) | 6 | 82 | 3 |
 | [黎風的檔案](/zh-tw/story/lifeng/) | 6 | 83 | 4 |

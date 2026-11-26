@@ -1,37 +1,37 @@
 ---
 title: "통합 공업 전력"
 description: "《명일방주: 엔드필드》 통합 공업의 전력 체계. 프로토콜 코어, 열에너지 뱅크, 배터리와 전력 공급기의 작동 방식."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 설비와 제작법 데이터는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 설비와 제작법 데이터는 게임 데이터 1.7 기준"
 caveat: "청사진이 배치하는 것은 설비이지 전력이 아니다. 청사진으로 추가되는 모든 설비는 지역 전력망에서 전력을 소비하며, 전력망의 발전량을 높이는 것은 오리지늄 광물이나 배터리를 투입한 열에너지 뱅크뿐이다."
-lastVerified: 2026-11-21
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - AIC power
   - 集成工業電力
   - 集成工业电力
   - 集成工業の電力
 sources:
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「열에너지 뱅크」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「열에너지 뱅크」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_power_sta
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「예비 전원」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「예비 전원」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_backup_power
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「프로토콜 코어에 저장한 전력이 고갈됐을 때의 대응 방안」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「프로토콜 코어에 저장한 전력이 고갈됐을 때의 대응 방안」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_zero_power
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「중계기와 전력 운송」 「중계기 전력 공급」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「중계기와 전력 운송」 「중계기 전력 공급」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_power_link
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「전력 공급기와 설비 전력 공급」 「전력 공급기 송전」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「전력 공급기와 설비 전력 공급」 「전력 공급기 송전」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_hub_plink
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「청사진」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「청사진」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_blueprint
-  - title: "warfarin.wiki, 포장기(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 포장기(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/facilities/tools_assebling_mc_1
-  - title: "warfarin.wiki, 열에너지 뱅크(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 열에너지 뱅크(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/facilities/power_station_1
-  - title: "warfarin.wiki, 식양 전력 공급기(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 식양 전력 공급기(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/facilities/power_diffuser_2
-  - title: "warfarin.wiki, 식양 중계기(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 식양 중계기(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/facilities/power_pole_3
-  - title: "warfarin.wiki, 설비 목록(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 설비 목록(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/facilities
   - title: "Endfield Talos Wiki, Thermal Bank"
     url: https://endfield.wiki.gg/wiki/Thermal_Bank
@@ -51,6 +51,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: "「단청도」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "연료 표 FactoryFuelItemTable(게임 데이터 1.7): 대용량 무릉 배터리"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryFuelItemTable.json
+  - title: "제작법 표 FactoryMachineCraftTable(게임 데이터 1.7): 대용량 무릉 배터리"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryMachineCraftTable.json
 ---
 
 ## 공장에 전력이 부족해지는 이유
@@ -103,10 +107,11 @@ sources:
 | 대용량 협곡 배터리 | 40초 | 1100 | 90 |
 | 저용량 무릉 배터리 | 40초 | 1600 | 90 |
 | 중용량 무릉 배터리 | 40초 | 3200 | 90 |
+| 대용량 무릉 배터리 | 40초 | 6400 | 90 |
 
 ## 배터리 제작법
 
-배터리 5종은 모두 포장기(소비 전력 20)에서 만든다. 각 제작법은 10초마다 배터리 1개를 생산한다. 게임 데이터 1.6에는 대용량 무릉 배터리가 없다.
+배터리 6종은 모두 포장기(소비 전력 20)에서 만든다. 각 제작법은 10초마다 배터리 1개를 생산한다. 대용량 무릉 배터리는 게임 데이터 1.7에서 추가되었다.
 
 | 배터리 | 재료 | 시간 | 산출 |
 | --- | --- | --- | --- |
@@ -115,6 +120,7 @@ sources:
 | 대용량 협곡 배터리 | 강철 부품 ×10, 고밀도 오리지늄 가루 ×15 | 10초 | 1 |
 | 저용량 무릉 배터리 | 식양 ×5, 고밀도 오리지늄 가루 ×15 | 10초 | 1 |
 | 중용량 무릉 배터리 | 양정 ×5, 고밀도 오리지늄 가루 ×20 | 10초 | 1 |
+| 대용량 무릉 배터리 | 형식양 ×5, 고밀도 오리지늄 가루 ×20 | 10초 | 1 |
 
 ### 무릉 배터리의 재료
 
@@ -144,7 +150,7 @@ sources:
 | 소비 전력 | 설비 |
 | --- | --- |
 | 100 | 확장 반응기 |
-| 50 | 오염수 처리기, 연마기, 반응기, 천화로, 정제기, 액체 · 기체 전환기, 고체 · 기체 전환기, 기체 반응로 |
+| 50 | 폐기물 처리기, 연마기, 반응기, 천화로, 정제기, 액체 · 기체 전환기, 고체 · 기체 전환기, 기체 반응로 |
 | 20 | 내산성 양수기 II, 부품 가공기, 재배기, 충진기, 포장기, 분해기 |
 | 10 | 전동 채굴기 II, 양수기, 성형기, 씨앗 추출기, 장비 부품 합성기, 스프링클러, 액체 배출 장치 |
 | 5 | 전동 채굴기, 프로토콜 저장함, 정련로, 분쇄기, 집라인 후크, 장거리 집라인 후크 |

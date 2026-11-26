@@ -1,10 +1,10 @@
 ---
 title: "潔爾佩塔"
 description: "潔爾佩塔是 6 星自然輔助幹員，使用施術單元；限定幹員，於「輕飄飄的信使」機率提升。"
-appliesTo: "《明日方舟：終末地》國際版，1.6 版；技能文字與數值出自遊戲資料 1.6"
-caveat: "限定幹員在自己那一期之後的 2 期特許尋訪仍在名單內，但沒有機率提升，之後移出名單；限定幹員不會加入基礎尋訪。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-05-13
+appliesTo: "《明日方舟：終末地》國際版，1.7 版；技能文字與數值出自遊戲資料 1.7"
+caveat: "限定幹員在自己那一期之後的 2 期特許尋訪仍在名單內，但沒有機率提升，之後移出名單；限定幹員不會加入基礎尋訪。潔爾佩塔曾在重構尋訪「致每一個飄遊之願」再次機率提升。"
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-24
 aliases:
   - "Gilberta"
   - "洁尔佩塔"
@@ -26,12 +26,14 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/1338
   - title: "「輝光慶典」特殊尋訪說明"
     url: https://endfield.gryphline.com/en-us/news/7024
+  - title: "「致每一個飄遊之願」重構尋訪#1說明"
+    url: https://endfield.gryphline.com/en-us/news/8992
   - title: "「春曉時」版本更新說明"
     url: https://endfield.gryphline.com/en-us/news/0751
-  - title: "warfarin.wiki 潔爾佩塔頁（遊戲資料 1.6）"
+  - title: "warfarin.wiki 潔爾佩塔頁（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/operators/gilberta
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Gilberta 頁"
     url: https://endfield.wiki.gg/wiki/Gilberta
 ---
@@ -69,10 +71,13 @@ sources:
 | 熱烈色彩 | 特許尋訪 | 在名單內 | 2026-02-24 12:00 | 1.1 版更新，2026-03-12 |
 | 河流的女兒 | 特許尋訪 | 在名單內 | 1.1 版更新，2026-03-12 | 2026-03-29 11:59 |
 | 輝光慶典 | 特殊尋訪 | 四名 6 星幹員之一 | 2026-05-14 12:00 | 1.3 版更新，2026-06-05 |
+| 致每一個飄遊之願 | 重構尋訪#1 | 機率提升 | 1.7 版更新，2026-11-25 | 2026-12-16 11:59 |
 
 限定幹員在自己那一期之後的 2 期特許尋訪仍在名單內，但沒有機率提升，之後移出名單；限定幹員不會加入基礎尋訪。
 
 「輝光慶典」的 6 星幹員只有萊萬汀、潔爾佩塔、艾爾黛拉與駿衛。它的保底計數與其他尋訪分開；在這個尋訪累計 120 次，可獲得一張從四人中任選一名的憑證。
+
+重構尋訪讓過去的機率提升幹員再次登場。「致每一個飄遊之願」前 120 次尋訪必定獲得潔爾佩塔，這項保底在所有同名重構尋訪中只生效 1 次，計數會繼承到下一次同名重構尋訪。
 
 ## 推薦武器
 

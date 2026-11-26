@@ -1,17 +1,17 @@
 ---
 title: "Yvonne's file"
 description: "Yvonne's 6 operator files and 81 voice lines."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "伊馮的檔案"
   - "伊冯的档案"
   - "イヴォンヌのプロファイル"
   - "이본의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -154,8 +154,8 @@ sources:
 | Operator Promotion 3 | Fighting in an actual battle is really different from studying combat videos... And I've made \*massive\* improvements by surviving all those trips in the frontier. Right? | Promotion III |
 | Operator Promotion 4 | Assistant? NEWP! Don't need one! My Tink-a-Bella can handle everything! Data organization and lab cleanups are just some of its most basic features! Plus, it would never complain about my daily schedule. | Promotion IV |
 | Operator Reporting for Duty | Hi, Endmin. We meet again. Just call me Yvonne. It's been a very long time since I last went out. Pleasure doing business together! |  |
-| Standing by 1 | Behave, Frost-e-Bytee! We're going for a walk with Endmin! |  |
-| Standing by 2 | Over here, Endmin! Oh, I'm bringing quite a few things... |  |
+| Standing By 1 | Behave, Frost-e-Bytee! We're going for a walk with Endmin! |  |
+| Standing By 2 | Over here, Endmin! Oh, I'm bringing quite a few things... |  |
 | Assigning to Facility | Alright, alright. I'm super familiar with all this, so just kick back and relax! |  |
 | Greeting 1 | Endmin! I'm calling dibs on the equipment testing chamber. Thanks a lot! |  |
 | Greeting 2 | The latest issue of Monthly MARTHE just arrived. Wanna read it with me? | Reach trust: 300 |

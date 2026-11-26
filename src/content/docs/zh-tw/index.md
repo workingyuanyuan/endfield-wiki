@@ -1,10 +1,10 @@
 ---
 title: 明日方舟：終末地 Wiki
 description: 《明日方舟：終末地》國際版的幹員、尋訪規則、戰鬥、集成工業與各版本。
-appliesTo: 《明日方舟：終末地》國際版，公測（2026-01-22）至 1.6 版
+appliesTo: 《明日方舟：終末地》國際版，公測（2026-01-22）至 1.7 版
 caveat: 日期與時間為 Asia 伺服器時間 (UTC+8)。版本更新維護在 Americas / Europe 伺服器是同一時刻，即前一天 17:00 至 23:00 (UTC-5)；限時內容則在各伺服器自己的時間的同一時刻結束。
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Arknights: Endfield wiki"
   - 明日方舟：终末地 Wiki
@@ -20,6 +20,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news
   - title: 「丹青渡」版本更新說明
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: 「穿越甚大蘑境與你相逢」版本更新說明
+    url: https://endfield.gryphline.com/en-us/news/0740
   - title: 預先下載開放公告（上線時間、平台）
     url: https://endfield.gryphline.com/en-us/news/9574
   - title: 正式登陸 Steam 公告
@@ -47,6 +49,7 @@ sources:
 | [1.4](/zh-tw/versions/1-4/) | 向淵行 | 2026-07-16 | 訣、梨諾 |
 | [1.5](/zh-tw/versions/1-5/) | 雪淞幽夢 | 2026-09-02 | 提弗洛斯、噗切娜 |
 | [1.6](/zh-tw/versions/1-6/) | 丹青渡 | 2026-10-15 | 祀、明河 |
+| [1.7](/zh-tw/versions/1-7/) | 穿越甚大蘑境與你相逢 | 2026-11-25 | 小刻、米米諾 |
 
 ## 平台
 

@@ -1,9 +1,9 @@
 ---
 title: "梨諾"
 description: "梨諾是 6 星電磁輔助幹員，使用長柄武器；限定幹員，於「晨星於此閃耀」機率提升。"
-appliesTo: "《明日方舟：終末地》國際版，1.6 版；技能文字與數值出自遊戲資料 1.6"
+appliesTo: "《明日方舟：終末地》國際版，1.7 版；技能文字與數值出自遊戲資料 1.7"
 caveat: "限定幹員在自己那一期之後的 2 期特許尋訪仍在名單內，但沒有機率提升，之後移出名單；限定幹員不會加入基礎尋訪。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-10-14
 aliases:
   - "Liino"
@@ -26,10 +26,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: "「雪淞幽夢」版本更新說明"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki 梨諾頁（遊戲資料 1.6）"
+  - title: "warfarin.wiki 梨諾頁（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/operators/liino
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Liino 頁"
     url: https://endfield.wiki.gg/wiki/Liino
 ---

@@ -1,10 +1,10 @@
 ---
 title: "艾尔黛拉"
 description: "艾尔黛拉是 6 星自然辅助干员，使用施术单元；在常驻寻访名单内。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；技能文字与数值出自游戏数据 1.6"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；技能文字与数值出自游戏数据 1.7"
 caveat: "艾尔黛拉没有当过概率提升干员；艾尔黛拉是 5 名常驻 6 星干员之一，每一期特许寻访的名单都有艾尔黛拉。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-28
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Ardelia"
   - "艾爾黛拉"
@@ -22,10 +22,14 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3839
   - title: "「祖泉的新流」重构寻访#1说明"
     url: https://endfield.gryphline.com/en-us/news/6179
-  - title: "warfarin.wiki 艾尔黛拉页（游戏数据 1.6）"
+  - title: "「致每一个飘游之愿」重构寻访#1说明"
+    url: https://endfield.gryphline.com/en-us/news/8992
+  - title: "「绯红瑰宝」重构寻访#1说明"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki 艾尔黛拉页（游戏数据 1.7）"
     url: https://warfarin.wiki/en/operators/ardelia
-  - title: "rmxlinux/EndfieldData 游戏数据表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 游戏数据表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Ardelia 页"
     url: https://endfield.wiki.gg/wiki/Ardelia
 ---
@@ -64,6 +68,8 @@ sources:
 | 辉光庆典 | 特殊寻访 | 四名 6 星干员之一 | 2026-05-14 12:00 | 1.3 版更新，2026-06-05 |
 | 绚丽异彩 | 重构寻访#1 | 在名单内 | 2026-09-24 12:00 | 1.6 版更新，2026-10-15 |
 | 祖泉的新流 | 重构寻访#1 | 在名单内 | 2026-10-29 12:00 | 2026-11-19 11:59 |
+| 致每一个飘游之愿 | 重构寻访#1 | 在名单内 | 1.7 版更新，2026-11-25 | 2026-12-16 11:59 |
+| 绯红瑰宝 | 重构寻访#1 | 在名单内 | 2026-12-16 12:00 | 1.7 版结束 |
 
 「辉光庆典」的 6 星干员只有莱万汀、洁尔佩塔、艾尔黛拉与骏卫。它的保底计数与其他寻访分开；在这个寻访累计 120 次，可获得一张从四人中任选一名的凭证。
 

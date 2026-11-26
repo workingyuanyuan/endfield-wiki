@@ -1,17 +1,17 @@
 ---
 title: "Da Pan's file"
 description: "Da Pan's 6 operator files, 82 voice lines and 5 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "大潘的檔案"
   - "大潘的档案"
   - "ダパンのプロファイル"
   - "판의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -140,8 +140,8 @@ sources:
 | Operator Promotion 3 | That's very nice of you, but this means my shop at Wuling must stay closed for a while — Once you got the time, we'll head back, throw a feast for you ... and ask my relatives to take care of my business. | Promotion III |
 | Operator Promotion 4 | During my last Hongshan visit, my Master did everything she could to peg me to a project in the Academy. She stopped when I told her I'm now working at Endfield — Not gonna lie, Endmin, I am TRULY honored to get an official post aboard Dijiang — Hey, why are you blushing? | Promotion IV |
 | Operator Reporting for Duty | Oh, we meet again, Endmin. Got an engineering problem? Point it out, and consider it fixed! And I'll be EVEN happier if there's canteen work for me! |  |
-| Standing by 1 | Where to next, Endmin? |  |
-| Standing by 2 | Got a job for me? I'll handle it. |  |
+| Standing By 1 | Where to next, Endmin? |  |
+| Standing By 2 | Got a job for me? I'll handle it. |  |
 | Assigning to Facility | Don't worry. Just take your break. I'll be right there once I squeeze into my work outfit. |  |
 | Greeting 1 | Once you have time, I'll throw a feast for you! |  |
 | Greeting 2 | Hungry for something not offered in the Dijiang cafeteria? I can help. | Reach trust: 300 |
@@ -152,7 +152,7 @@ sources:
 | Dijiang Idle Chatter 5 | Endfield dorm rooms aren't big enough! No disrespect, but I just did a morning stretch and ended up bruising my elbows and knees. PLEASE! Do something! | Reach trust: 1500 |
 | Dijiang Idle Chatter 6 | If you see Andre, tell the Big Owl that — he owes an Old Panda his latest ideas! AND tell him to stop hiding from me! | Reach trust: 1500 |
 | Offering Gifts | Found you, Endmin! Here! Something special straight from Hongshan! |  |
-| Accepting Gifts | I am deeply honored! |  |
+| Accepting Gifts | I'm truly honored! |  |
 | Trust Dialog 1 | I know you got tons of lab work lying around, so you can set me on the task! I've been a proud chef, electrician, carpenter, chauffeur, and roadside entrepreneur. So, I can do ANYTHING. Oh, you got a question about this "Vanguard Worker" flask? Heheh, I just use it for tea. |  |
 | Trust Dialog 2 | Endmin, do visit the Hongshan Academy of Sciences headquarters. Even if you're not excited about visiting a new place, the student debates can be quite exciting. You probably don't remember, but plenty of pioneering projects cite your work — Wait. I ... actually referenced your paper as well. | Reach trust: 300 |
 | Trust Dialog 3 | This black iron wok of mine keeps out both rain, fire, and even etched bullets. When necessary, I can just wear it on my back and it gets me covered nice and safely! Well, Endmin, going the extra mile will earn us a slight advantage when we need it most. This is a good deal. I say we take it. | Reach trust: 300 |
@@ -336,7 +336,7 @@ sources:
 - **Da Pan**: Feast days ain't got no calendar. Good mood? Eat well. Bad mood? Eat better. Every meal's a celebration.
 - **Da Pan**: Food's the first law of heaven. Always comes before everything else. For us Hongshan folks, all our survival wisdom's right in this pot.
 - **Da Pan**: I held off until now mainly 'cause it's for you, Endmin. Gotta dig deep, haul out every last secret recipe I've been sittin' on.
-- **Da Pan**: Sweet-sour fin, braised mangler, salt-baked fowl, wok-fried muck chow, steamed muck dumplings...
+- **Da Pan**: Sweet-sour fin, braised mangler, salt-baked fowl, meat chow fun, steamed meat dumplings...
 - **Endministrator**: Whoa there! That's enough to feed a small army.
 - **Da Pan**: Perfect. Call in Chen, supervisor Perlica, even Engineer Qin! The more the merrier, especially with this spread.
 - **Endministrator**: Crew sure is family.

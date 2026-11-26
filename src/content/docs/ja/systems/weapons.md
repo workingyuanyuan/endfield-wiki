@@ -1,21 +1,21 @@
 ---
 title: "武器一覧"
-description: "『アークナイツ：エンドフィールド』バージョン1.6の武器84種：種類、レア度、付加スキル、オススメオペレーター。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。一覧はゲームデータ 1.6 による"
+description: "『アークナイツ：エンドフィールド』バージョン1.7の武器86種：種類、レア度、付加スキル、オススメオペレーター。"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。一覧はゲームデータ 1.7 による"
 caveat: "オペレーターのスカウトでは武器は出ない。1回引くごとに武庫配給がもらえ、武庫申請に使う。星6武器は武庫申請と武庫交換所で手に入る。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-11-04
 aliases:
   - "Weapons list"
   - "武器列表"
   - "무기 목록"
 sources:
-  - title: "warfarin.wiki、武器一覧（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、武器一覧（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/weapons
   - title: "「人煙の牽く天河」特別スカウトのお知らせ（武庫配給）"
     url: https://endfield.gryphline.com/en-us/news/7012
-  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 
@@ -26,7 +26,7 @@ sources:
 | アーツユニット | 12 | 5 | 2 | 1 | 20 |
 | 大剣 | 9 | 4 | 2 | 1 | 16 |
 | 拳銃 | 6 | 3 | 2 | 1 | 12 |
-| 長柄武器 | 7 | 3 | 2 | 1 | 13 |
+| 長柄武器 | 9 | 3 | 2 | 1 | 15 |
 | 片手剣 | 13 | 7 | 2 | 1 | 23 |
 
 ## 付加スキル
@@ -114,8 +114,10 @@ sources:
 | 黄金時代 | Golden Age | 6 | 意志UP、回復効率UP、追襲 | リーノ |
 | J.E.T. | JET | 6 | メイン能力UP、攻撃力UP、圧制 | アイビーエナ、カミーユ、エステーラ、リーノ |
 | 負山 | Mountain Bearer | 6 | 敏捷UP、物理ダメージUP、効率 | リーフォン |
+| アサルトメテオ | Raid Comet | 6 | 筋力UP、必殺技効率UP、噴発 | ケーちゃん |
+| スウィートディール | Sweet Deal | 6 | 筋力UP、自然ダメージUP、流回 | ケーちゃん |
 | 勇猛 | Valiant | 6 | 敏捷UP、物理ダメージUP、巧技 | リーフォン |
-| 正義嵌合 | Chimeric Justice | 5 | 筋力UP、必殺技効率UP、残虐 | カミーユ、リーフォン |
+| 正義嵌合 | Chimeric Justice | 5 | 筋力UP、必殺技効率UP、残虐 | カミーユ、ケーちゃん、リーフォン |
 | 求心の槍 | Cohesive Traction | 5 | 意志UP、電磁ダメージUP、圧制 | アイビーエナ、エステーラ |
 | O.B.J.鋭矛 | OBJ Razorhorn | 5 | 意志UP、物理ダメージUP、付術 | エステーラ |
 | アンゲロス・スレイヤー | Aggeloslayer | 4 | 意志UP、アーツダメージUP、圧制 | アイビーエナ |

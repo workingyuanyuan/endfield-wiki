@@ -1,45 +1,47 @@
 ---
 title: Combat mechanics
 description: "Combat mechanics of Arknights: Endfield: damage formula, elements, Arts Reactions, Physical Statuses, Stagger."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; terms and tutorials from game data 1.6; damage formulas from player tests in Version 1.0"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; terms and tutorials from game data 1.7; damage formulas from player tests in Version 1.0"
 caveat: "Vulnerable (Vulnerability) is the stack that Physical Status hits build on an enemy, up to 4. It is not Susceptible (Susceptibility), the debuff that makes a target take more damage of one element."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 aliases:
   - 戰鬥機制
   - 战斗机制
   - 戦闘システム
   - 전투 메커니즘
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "NGA forum guide 终末地数据机制导论 (player tests, Version 1.0)"
     url: https://bbs.nga.cn/read.php?tid=46094556
-  - title: "warfarin.wiki, combat terms in game data 1.6"
+  - title: "warfarin.wiki, combat terms in game data 1.7"
     url: https://warfarin.wiki/en/operators/laevatain
-  - title: "warfarin.wiki, tutorial Damage Type (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Damage Type (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_dmg_type
-  - title: "warfarin.wiki, tutorial Status Level (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Status Level (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_statuslevel
-  - title: "warfarin.wiki, tutorial Stagger (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Stagger (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_poise
-  - title: "warfarin.wiki, tutorial Finisher (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Finisher (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_execute
-  - title: "warfarin.wiki, tutorial Basic Attack: Final Strike (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Basic Attack: Final Strike (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_heavy_attack
-  - title: "warfarin.wiki, tutorial Skill Points (SP) (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Skill Points (SP) (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_sp
-  - title: "warfarin.wiki, tutorial Skill: Battle Skills (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Skill: Battle Skills (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_normal_skill
-  - title: "warfarin.wiki, tutorial Skill: Combo Skills (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Skill: Combo Skills (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_combo
-  - title: "warfarin.wiki, tutorial Skill: Ultimates (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Skill: Ultimates (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_ultimite_skill
-  - title: "warfarin.wiki, tutorial Team Combat (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Team Combat (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_team
-  - title: "warfarin.wiki, operators (element, skill costs and cooldowns in game data 1.6)"
+  - title: "warfarin.wiki, operators (element, skill costs and cooldowns in game data 1.7)"
     url: https://warfarin.wiki/en/operators
   - title: "Endfield Talos Wiki, Operator (team size)"
     url: https://endfield.wiki.gg/wiki/Operator
+  - title: Meeting You in the World o'Shrooms Version Update Notes
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## Damage types and reactions
@@ -72,7 +74,7 @@ NGA forum player 666bj measured these formulas in Version 1.0. Ordinary damage, 
 - Operators start with 5% Critical Rate and 50% Critical DMG. Enemies have 0% Critical Rate and 50% Critical DMG.
 - All Skill DMG covers battle skills, combo skills and ultimates, not basic attacks. Finishers gain from Basic Attack DMG Bonus.
 - Enemies have 100 base DEF at every level, so the DEF multiplier of a hit that uses DEF is 0.5 unless an effect changes their DEF. Operators have 0 base DEF; their DEF normally comes from the main stat of gear.
-- One point of resistance cuts damage of that type by 1%. The game shows an enemy's resistance as a grade: D for 0, C for 20 to 40, B for 50 and 60. Most enemy resistances are 0 or 20; a few enemies have 30, 35, 40, 50 or 60 in one element, and no enemy resists Æther.
+- One point of resistance cuts damage of that type by 1%. The game shows an enemy's resistance as a grade: E for -20, D for 0, C for 20 to 40, B for 50 and 60. A negative resistance raises the damage taken: the Shroomkrusher enemies of Version 1.7 and Bolete Prince have Heat -20. Most enemy resistances are 0 or 20; a few enemies have 30, 35, 40, 50 or 60 in one element, and no enemy resists Æther.
 - An operator's Physical Resistance is 100 − 100 / (0.001 × Agility + 1), and Arts Resistance the same with Intellect, using the whole-number part of Agility and Intellect. An operator's resistance multiplier never falls below 0.1.
 - Many values in the game are shown rounded down, so a calculation from the shown numbers can be off by a few points.
 
@@ -106,16 +108,16 @@ Physical Statuses, Arts Reactions and Arts Bursts that operators trigger use the
 
 ## Damage types and elements
 
-| Damage type | Kind | Operators with this element (game data 1.6) |
+| Damage type | Kind | Operators with this element (game data 1.7) |
 | --- | --- | --- |
 | Physical | Physical | 9 |
 | Heat | Arts | 5 |
 | Electric | Arts | 7 |
 | Cryo | Arts | 8 |
-| Nature | Arts | 5 |
+| Nature | Arts | 6 |
 | Æther | Æther | 0 |
 
-Each of the 34 operators in game data 1.6 has Physical or one of the four Arts elements as its element; none has Æther.
+Each of the 35 operators in game data 1.7 has Physical or one of the four Arts elements as its element; none has Æther.
 
 ## Arts Inflictions, Arts Bursts and Arts Reactions
 
@@ -164,7 +166,7 @@ Crush and Breach have a Status Level, as Arts Reactions do: the number of Vulner
 | Skill | Cost | Cooldown | Notes |
 | --- | --- | --- | --- |
 | Basic attack | None | None | Teammates who are not controlled attack on their own |
-| Battle skill | SP | None | 100 SP for 33 of 34 operators; 25 SP for [Liino](/operators/liino/) |
+| Battle skill | SP | None | 100 SP for 34 of 35 operators; 25 SP for [Liino](/operators/liino/) |
 | Combo skill | None | Yes | Cast only when the operator's own trigger is met; cooldown 3 s to 40 s at skill level 1 |
 | Ultimate | All Ultimate Energy | Short, after the cast | Needs a full gauge: 70 to 300 Ultimate Energy by operator; cooldown 10, 15, 20 or 30 s |
 

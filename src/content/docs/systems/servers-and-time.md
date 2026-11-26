@@ -1,10 +1,10 @@
 ---
 title: Servers and time
 description: "Arknights: Endfield has an Asia server (UTC+8) and an Americas / Europe server (UTC-5) that share no progress."
-appliesTo: "Arknights: Endfield, global service (Asia and Americas / Europe servers), Version 1.6"
+appliesTo: "Arknights: Endfield, global service (Asia and Americas / Europe servers), Version 1.7"
 caveat: "Server time is each server's own clock: a time marked server time comes 13 hours later on the Americas / Europe server, while update maintenance starts at the same moment on both."
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 伺服器與時間
   - 服务器与时间
@@ -55,6 +55,8 @@ sources:
     url: https://endfield.wiki.gg/wiki/Version
   - title: "Arknights: Endfield Now on GeForce NOW, FAQ"
     url: https://endfield.gryphline.com/en-us/news/8906
+  - title: Meeting You in the World o'Shrooms Version Update Notes
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## The two servers
@@ -94,6 +96,7 @@ Times are UTC+8. Each window is the same six hours on the Americas / Europe serv
 | [1.4 Homecoming](/versions/1-4/) | 2026-07-16 06:00 to 12:00 |
 | [1.5 Dreamscape of Wind and Snow](/versions/1-5/) | 2026-09-02 06:00 to 12:00 |
 | [1.6 Sanctuary of Ink](/versions/1-6/) | 2026-10-15 06:00 to 12:00 |
+| [1.7 Meeting You in the World o'Shrooms](/versions/1-7/) | 2026-11-25 06:00 to 12:00 |
 
 [Version 1.0](/versions/1-0/) began with the release itself and had no update maintenance. Every update was mandatory: no login is possible during the window. A maintenance preview names the window two to five days before.
 

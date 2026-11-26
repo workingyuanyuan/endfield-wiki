@@ -1,21 +1,21 @@
 ---
 title: "Weapons list"
-description: "All 84 Arknights: Endfield weapons in Version 1.6: type, rarity, Essence stats and recommended operators."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; list from game data 1.6"
+description: "All 86 Arknights: Endfield weapons in Version 1.7: type, rarity, Essence stats and recommended operators."
+appliesTo: "Arknights: Endfield, global service, Version 1.7; list from game data 1.7"
 caveat: "Operator headhunting gives no weapons. Each pull gives Arsenal Tickets, which are spent on Arsenal Issues; 6-star weapons come from Arsenal Issues and the Arsenal Exchange."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-11-04
 aliases:
   - "武器列表"
   - "武器一覧"
   - "무기 목록"
 sources:
-  - title: "warfarin.wiki, Weapons (game data 1.6)"
+  - title: "warfarin.wiki, Weapons (game data 1.7)"
     url: https://warfarin.wiki/en/weapons
   - title: "The Hearth Fire Beckons the Starry Flow Chartered Headhunting (Arsenal Tickets)"
     url: https://endfield.gryphline.com/en-us/news/7012
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 
@@ -26,7 +26,7 @@ sources:
 | Arts Unit | 12 | 5 | 2 | 1 | 20 |
 | Greatsword | 9 | 4 | 2 | 1 | 16 |
 | Handcannon | 6 | 3 | 2 | 1 | 12 |
-| Polearm | 7 | 3 | 2 | 1 | 13 |
+| Polearm | 9 | 3 | 2 | 1 | 15 |
 | Sword | 13 | 7 | 2 | 1 | 23 |
 
 ## Essence stats
@@ -114,8 +114,10 @@ Polearm is 長柄武器 in Traditional Chinese and 长柄武器 in Simplified Ch
 | Golden Age | 黃金時代 | 黄金时代 | 6 | Will, Treatment Efficiency, Pursuit | Liino |
 | JET | J.E.T. | J.E.T. | 6 | Main Attribute, ATK, Suppression | Avywenna, Camille, Estella, Liino |
 | Mountain Bearer | 負山 | 负山 | 6 | Agility, Physical DMG, Efficacy | Lifeng |
+| Raid Comet | 突擊流星 | 突击流星 | 6 | Strength, ULT Efficiency, Detonate | Kay |
+| Sweet Deal | 甜美交易 | 甜美交易 | 6 | Strength, Nature DMG, Flow | Kay |
 | Valiant | 驍勇 | 骁勇 | 6 | Agility, Physical DMG, Combative | Lifeng |
-| Chimeric Justice | 嵌合正義 | 嵌合正义 | 5 | Strength, ULT Efficiency, Brutality | Camille, Lifeng |
+| Chimeric Justice | 嵌合正義 | 嵌合正义 | 5 | Strength, ULT Efficiency, Brutality | Camille, Kay, Lifeng |
 | Cohesive Traction | 向心之引 | 向心之引 | 5 | Will, Electric DMG, Suppression | Avywenna, Estella |
 | OBJ Razorhorn | O.B.J.尖峰 | O.B.J.尖峰 | 5 | Will, Physical DMG, Infliction | Estella |
 | Aggeloslayer | 天使殺手 | 天使杀手 | 4 | Will, Arts DMG, Suppression | Avywenna |

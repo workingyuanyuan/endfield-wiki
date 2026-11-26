@@ -1,10 +1,10 @@
 ---
 title: "提弗洛斯"
 description: "提弗洛斯是 6 星自然突击干员，使用施术单元；限定干员，于「冬猎」概率提升。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；技能文字与数值出自游戏数据 1.6"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；技能文字与数值出自游戏数据 1.7"
 caveat: "限定干员在自己那一期之后的 2 期特许寻访仍在名单内，但没有概率提升，之后移出名单；限定干员不会加入基础寻访。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Typhoeus"
   - "ティフォロス"
@@ -23,10 +23,12 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/7012
   - title: "「雪淞幽梦」版本更新说明"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki 提弗洛斯页（游戏数据 1.6）"
+  - title: "「穿越甚大蘑境与你相逢」版本更新说明"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki 提弗洛斯页（游戏数据 1.7）"
     url: https://warfarin.wiki/en/operators/typhoeus
-  - title: "rmxlinux/EndfieldData 游戏数据表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 游戏数据表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Typhoeus 页"
     url: https://endfield.wiki.gg/wiki/Typhoeus
 ---
@@ -67,7 +69,7 @@ sources:
 | --- | --- | --- | --- | --- |
 | 冬猎 | 特许寻访 | 概率提升 | 1.5 版更新，2026-09-02 | 2026-09-30 11:59 |
 | 万物更新 | 特许寻访 | 在名单内 | 1.6 版更新，2026-10-15 | 2026-11-05 11:59 |
-| 烟火邀星河 | 特许寻访 | 在名单内 | 2026-11-05 12:00 | 1.6 版结束 |
+| 烟火邀星河 | 特许寻访 | 在名单内 | 2026-11-05 12:00 | 1.7 版更新，2026-11-25 |
 
 限定干员在自己那一期之后的 2 期特许寻访仍在名单内，但没有概率提升，之后移出名单；限定干员不会加入基础寻访。
 
@@ -221,3 +223,9 @@ sources:
 | 精英化·二 | 60 | 协议圆盘 ×25、中红柱状菌 ×5、折金票 ×6500 |
 | 精英化·三 | 80 | 协议圆盘组 ×24、重红柱状菌 ×5、折金票 ×18000 |
 | 精英化·四 | 90 | 协议圆盘组 ×36、快子遴捡晶格 ×20、塔罗斯菌 ×8、折金票 ×100000 |
+
+## 上线后的变更
+
+| 版本 | 变更 |
+| --- | --- |
+| 1.7 | 修复两个问题：以特定操作连续施放连携技时，后施放的箭阵无法正常提高敌人受到的自然爆发伤害；特定情况下施放战技后浮空状态异常 |

@@ -27,7 +27,7 @@ import os
 import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-COMMIT = 'd847759f71d4549aba4727b3b0ac1a1ad0e37742'
+COMMIT = '887923b9e56e132f2570a25e8c2cf5e971508736'
 ED = os.path.join(ROOT, 'cache', 'third', 'ed', COMMIT)
 WF = os.path.join(ROOT, 'cache', 'third', 'wf')
 OUT = os.path.join(ROOT, 'records', 'gametext')

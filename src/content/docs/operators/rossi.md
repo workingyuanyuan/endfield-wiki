@@ -1,10 +1,10 @@
 ---
 title: "Rossi"
 description: "Rossi is a 6-star Physical Guard with a sword; limited, rate-up in Wolf Pearl."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
-caveat: "A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting."
-lastVerified: 2026-11-22
-effectiveDate: 2026-09-02
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
+caveat: "A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting. Rossi returned as the rate-up operator of RE-Factor Headhunting Precious Scarlet."
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "洛西"
   - "洛茜"
@@ -22,14 +22,16 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9579
   - title: "Fists of No Regrets Chartered Headhunting"
     url: https://endfield.gryphline.com/en-us/news/0759
+  - title: "Precious Scarlet RE-Factor Headhunting #1"
+    url: https://endfield.gryphline.com/en-us/news/0740
   - title: "Old Deep Water Dies, by Rising Tide It is Denied Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/8907
   - title: "Dreamscape of Wind and Snow Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki, Rossi (game data 1.6)"
+  - title: "warfarin.wiki, Rossi (game data 1.7)"
     url: https://warfarin.wiki/en/operators/rossi
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Rossi"
     url: https://endfield.wiki.gg/wiki/Rossi
 ---
@@ -65,8 +67,11 @@ Rossi is the rate-up 6-star operator of Wolf Pearl, a Chartered Headhunting bann
 | Wolf Pearl | Chartered Headhunting | Rate-up | 2026-03-29 12:00 | Version 1.2 update, 2026-04-17 |
 | Thunder of Renewal | Chartered Headhunting | In the pool | Version 1.2 update, 2026-04-17 | 2026-05-22 11:59 |
 | Fists of No Regrets | Chartered Headhunting | In the pool | Version 1.3 update, 2026-06-05 | 2026-06-26 11:59 |
+| Precious Scarlet | RE-Factor Headhunting #1 | Rate-up | 2026-12-16 12:00 | End of Version 1.7 |
 
 A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting.
+
+RE-Factor Headhunting brings back an earlier rate-up operator. Precious Scarlet guarantees Rossi within the first 120 pulls, once across all banners of that name, and its pull count carries over to the next banner of the same name.
 
 ## Recommended weapons
 

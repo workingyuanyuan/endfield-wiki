@@ -1,10 +1,10 @@
 ---
 title: "明河"
 description: "明河是 6 星電磁近衛幹員，使用單手劍；限定幹員，於「煙火邀星河」機率提升。"
-appliesTo: "《明日方舟：終末地》國際版，1.6 版；技能文字與數值出自遊戲資料 1.6"
+appliesTo: "《明日方舟：終末地》國際版，1.7 版；技能文字與數值出自遊戲資料 1.7"
 caveat: "限定幹員在自己那一期之後的 2 期特許尋訪仍在名單內，但沒有機率提升，之後移出名單；限定幹員不會加入基礎尋訪。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-24
 aliases:
   - "Argent Flow"
   - "ミンホ"
@@ -17,12 +17,14 @@ sources:
     url: https://endfield.gryphline.com/en-us/operator
   - title: "「煙火邀星河」特許尋訪說明"
     url: https://endfield.gryphline.com/en-us/news/7012
+  - title: "「鍛砧、行囊與蜜糖」特許尋訪說明"
+    url: https://endfield.gryphline.com/en-us/news/5204
   - title: "「丹青渡」版本更新說明"
     url: https://endfield.gryphline.com/en-us/news/9560
-  - title: "warfarin.wiki 明河頁（遊戲資料 1.6）"
+  - title: "warfarin.wiki 明河頁（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/operators/argent-flow
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Argent Flow 頁"
     url: https://endfield.wiki.gg/wiki/Argent_Flow
 ---
@@ -59,7 +61,8 @@ sources:
 
 | 尋訪 | 類型 | 位置 | 開放 | 結束 |
 | --- | --- | --- | --- | --- |
-| 煙火邀星河 | 特許尋訪 | 機率提升 | 2026-11-05 12:00 | 1.6 版結束 |
+| 煙火邀星河 | 特許尋訪 | 機率提升 | 2026-11-05 12:00 | 1.7 版更新，2026-11-25 |
+| 鍛砧、行囊與蜜糖 | 特許尋訪 | 在名單內 | 1.7 版更新，2026-11-25 | 2026-12-23 11:59 |
 
 限定幹員在自己那一期之後的 2 期特許尋訪仍在名單內，但沒有機率提升，之後移出名單；限定幹員不會加入基礎尋訪。
 

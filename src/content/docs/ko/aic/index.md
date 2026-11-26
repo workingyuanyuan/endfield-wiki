@@ -1,19 +1,19 @@
 ---
 title: "통합 공업 개요"
 description: "통합 공업은 《명일방주: 엔드필드》의 각 지역에 짓는 자동화 공장이다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 설비 데이터는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 설비 데이터는 게임 데이터 1.7 기준"
 caveat: "지역(4번 협곡, 무릉)마다 프로토콜 코어, 전력망, 창고, 프로토콜 용량이 따로 있으며, 대부분의 설비는 자기 지역 전력망에 연결된 전력 공급기의 공급 범위 안에서만 작동한다."
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "AIC overview"
   - "集成工業總覽"
   - "集成工业总览"
   - "集成工業の概要"
 sources:
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「통합 공업」 「프로토콜 코어」 「서브 코어」 「지역 창고」 「공업 발전 계획」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「통합 공업」 「프로토콜 코어」 「서브 코어」 「지역 창고」 「공업 발전 계획」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_aic
-  - title: "warfarin.wiki, 설비 목록(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 설비 목록(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/facilities
   - title: "Endfield Talos Wiki, Automated Industry Complex"
     url: https://endfield.wiki.gg/wiki/Automated_Industry_Complex
@@ -33,6 +33,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5208
   - title: "「단청도」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "「뜻밖의 만남, 버섯 동산 대모험」 버전 업데이트 설명"
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 | 주제 | 내용 |
@@ -107,7 +109,7 @@ sources:
 | 성형기 | Moulding Unit | 10 |
 | 재배기 | Planting Unit | 20 |
 | 씨앗 추출기 | Seed-Picking Unit | 10 |
-| 오염수 처리기 | Water Treatment Unit | 50 |
+| 폐기물 처리기 | Waste Treatment Unit | 50 |
 
 ### 합성과 제작
 
@@ -158,8 +160,9 @@ sources:
 | 1.4 | 무릉의 기체 공업 모드와 기체 설비. 새 거점 영천대 건설 기지. 필드의 설비를 지도에서 창고로 보관할 수 있게 되었다. 매립형 파이프 범위가 최대 300 m가 되었다. |
 | 1.5 | 설비 연속 배치. 범위 선택 중에 청사진의 설비 한도가 표시된다. |
 | 1.6 | 사의 그림과 이후 무릉성의 농지를 위한 농업 자동화 설비. 가방이나 어느 창고에서든 설비를 바로 놓을 수 있게 되었고, 어느 창고의 재료로든 지을 수 있게 되었다. |
+| 1.7 | 무릉에 배열 관련 공업 모드가 추가되어 균형로, 명회로, 분화 명회로, 재건 공급 포트가 생겼다. 금지 구역 재건. 오염수 처리기는 폐기물 처리기로 이름이 바뀌었다. 아이템 컨트롤 포트와 파이프 컨트롤 포트를 설비의 연결부에 바로 배치할 수 있게 되었다. |
 
-1.1부터 1.6까지 모든 버전에서 무릉의 지역 건설 레벨 상한이 올랐다.
+1.1부터 1.7까지 모든 버전에서 무릉의 지역 건설 레벨 상한이 올랐다.
 
 ## 청사진 공유 규칙
 

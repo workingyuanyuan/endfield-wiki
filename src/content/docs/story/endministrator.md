@@ -1,17 +1,17 @@
 ---
 title: "Endministrator's file"
 description: "Endministrator's 3 operator files and 55 voice lines."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "管理員的檔案"
   - "管理员的档案"
   - "管理人のプロファイル"
   - "관리자의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -55,8 +55,8 @@ sources:
 | Operator Promotion 2 | I'll protect Endfield. Always. | Promotion II |
 | Operator Promotion 3 | The past and the present must become one. | Promotion III |
 | Operator Promotion 4 | I heard her voice, echoing like a whisper in dreams. Time and again, I've dreamed of a boundless sea — one that brings sorrow, stirs memories ... and strengthens my resolve. | Promotion IV |
-| Standing by 1 | Still waiting for something? |  |
-| Standing by 2 | Originium will carve a path for us. |  |
+| Standing By 1 | Still waiting for something? |  |
+| Standing By 2 | Originium will carve a path for us. |  |
 | Accepting Gifts | Many thanks! |  |
 | Resource/Collectible Detected 1 | Look, over there... |  |
 | Resource/Collectible Detected 2 | Something important lies over there! |  |

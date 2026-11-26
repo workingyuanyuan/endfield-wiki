@@ -1,5 +1,5 @@
 {
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "classes": {
   "0": {
    "en": "Common",
@@ -101,6 +101,13 @@
    "ja": "超域活性点・雪松林",
    "ko": "에너지 응집점 · 눈 덮인 소나무 숲"
   },
+  "distribution_map01_lv007": {
+   "en": "Power Plateau",
+   "zh-TW": "供能高地",
+   "zh-CN": "供能高地",
+   "ja": "エネルギー高地",
+   "ko": "에너지 공급 고지"
+  },
   "distribution_world_energy_point02": {
    "en": "Energy Alluvium: Originium Science Park",
    "zh-TW": "能量淤積點·源石研究園",
@@ -115,12 +122,40 @@
    "ja": "超域活性点・エネルギー高地",
    "ko": "에너지 응집점 · 에너지 공급 고지"
   },
+  "distribution_world_energy_point03": {
+   "en": "Energy Alluvium: Origin Lodespring",
+   "zh-TW": "能量淤積點·礦脈源區",
+   "zh-CN": "能量淤积点·矿脉源区",
+   "ja": "超域活性点・鉱山エリア",
+   "ko": "에너지 응집점 · 광맥 구역"
+  },
+  "distribution_map02_lv010": {
+   "en": "Si's Painting",
+   "zh-TW": "祀的畫",
+   "zh-CN": "祀的画",
+   "ja": "スーの絵",
+   "ko": "사의 그림"
+  },
+  "distribution_world_energy_point13": {
+   "en": "Energy Alluvium: Si's Painting",
+   "zh-TW": "能量淤積點·祀的畫",
+   "zh-CN": "能量淤积点·祀的画",
+   "ja": "超域活性点・スーの絵",
+   "ko": "에너지 응집점 · 사의 그림"
+  },
   "distribution_map02_lv003": {
    "en": "Qingbo Stockade",
    "zh-TW": "清波寨",
    "zh-CN": "清波寨",
    "ja": "清波砦",
    "ko": "청파채"
+  },
+  "distribution_map02_lv006": {
+   "en": "Sword Vault Dale",
+   "zh-TW": "藏劍谷",
+   "zh-CN": "藏剑谷",
+   "ja": "蔵剣谷",
+   "ko": "장검 골짜기"
   },
   "distribution_world_energy_point06": {
    "en": "Energy Alluvium: Qingbo Stockade",
@@ -136,75 +171,12 @@
    "ja": "超域活性点・蔵剣谷",
    "ko": "에너지 응집점 · 장검 골짜기"
   },
-  "distribution_map01_lv007": {
-   "en": "Power Plateau",
-   "zh-TW": "供能高地",
-   "zh-CN": "供能高地",
-   "ja": "エネルギー高地",
-   "ko": "에너지 공급 고지"
-  },
-  "distribution_world_energy_point03": {
-   "en": "Energy Alluvium: Origin Lodespring",
-   "zh-TW": "能量淤積點·礦脈源區",
-   "zh-CN": "能量淤积点·矿脉源区",
-   "ja": "超域活性点・鉱山エリア",
-   "ko": "에너지 응집점 · 광맥 구역"
-  },
-  "distribution_world_energy_point07": {
-   "en": "Energy Alluvium: Marker Stone",
-   "zh-TW": "能量淤積點·首墩",
-   "zh-CN": "能量淤积点·首墩",
-   "ja": "超域活性点・首礎",
-   "ko": "에너지 응집점 · 수돈"
-  },
-  "distribution_world_energy_point08": {
-   "en": "Energy Alluvium: Test Area",
-   "zh-TW": "能量淤積點·實驗園區",
-   "zh-CN": "能量淤积点·试验园区",
-   "ja": "超域活性点・実験区域",
-   "ko": "에너지 응집점 · 실험 구역"
-  },
-  "distribution_map02_lv010": {
-   "en": "Si's Painting",
-   "zh-TW": "祀的畫",
-   "zh-CN": "祀的画",
-   "ja": "スーの絵",
-   "ko": "사의 그림"
-  },
-  "distribution_map02_lv001": {
-   "en": "Jingyu Valley",
-   "zh-TW": "景玉谷",
-   "zh-CN": "景玉谷",
-   "ja": "景玉谷",
-   "ko": "경옥 골짜기"
-  },
-  "distribution_dungeon_common": {
-   "en": "Special Protocol Spaces",
-   "zh-TW": "分布於特定協議空間",
-   "zh-CN": "分布于特定协议空间",
-   "ja": "特定の協約空間に分布",
-   "ko": "특정 프로토콜 공간에 분포함"
-  },
-  "distribution_map02_lv006": {
-   "en": "Sword Vault Dale",
-   "zh-TW": "藏劍谷",
-   "zh-CN": "藏剑谷",
-   "ja": "蔵剣谷",
-   "ko": "장검 골짜기"
-  },
   "distribution_map02_lv008": {
    "en": "North Wuling Exclusion Zone",
    "zh-TW": "北部禁區",
    "zh-CN": "北部禁区",
    "ja": "北部封鎖区域",
    "ko": "북쪽 금지 구역"
-  },
-  "distribution_world_energy_point10": {
-   "en": "Energy Alluvium: Yinglung Pass",
-   "zh-TW": "能量淤積點·應龍關",
-   "zh-CN": "能量淤积点·应龙关",
-   "ja": "超域活性点・応龍関",
-   "ko": "에너지 응집점 · 응룡 관문"
   },
   "distribution_world_energy_point11": {
    "en": "Energy Alluvium: North Wuling EZ",
@@ -213,19 +185,19 @@
    "ja": "超域活性点・北部封鎖区域",
    "ko": "에너지 응집점 · 북쪽 금지 구역"
   },
+  "distribution_dungeon_common": {
+   "en": "Special Protocol Spaces",
+   "zh-TW": "分布於特定協議空間",
+   "zh-CN": "分布于特定协议空间",
+   "ja": "特定の協約空間に分布",
+   "ko": "특정 프로토콜 공간에 분포함"
+  },
   "distribution_map02_lv004": {
    "en": "Marker Stone",
    "zh-TW": "首墩",
    "zh-CN": "首墩",
    "ja": "首礎",
    "ko": "수돈"
-  },
-  "distribution_map02_lv007": {
-   "en": "Yinglung Pass",
-   "zh-TW": "應龍關",
-   "zh-CN": "应龙关",
-   "ja": "応龍関",
-   "ko": "응룡 관문"
   },
   "distribution_world_energy_point05": {
    "en": "Energy Alluvium: Wuling City",
@@ -234,12 +206,40 @@
    "ja": "超域活性点・武陵城",
    "ko": "에너지 응집점 · 무릉성"
   },
-  "distribution_world_energy_point13": {
-   "en": "Energy Alluvium: Si's Painting",
-   "zh-TW": "能量淤積點·祀的畫",
-   "zh-CN": "能量淤积点·祀的画",
-   "ja": "超域活性点・スーの絵",
-   "ko": "에너지 응집점 · 사의 그림"
+  "distribution_world_energy_point07": {
+   "en": "Energy Alluvium: Marker Stone",
+   "zh-TW": "能量淤積點·首墩",
+   "zh-CN": "能量淤积点·首墩",
+   "ja": "超域活性点・首礎",
+   "ko": "에너지 응집점 · 수돈"
+  },
+  "distribution_map02_lv001": {
+   "en": "Jingyu Valley",
+   "zh-TW": "景玉谷",
+   "zh-CN": "景玉谷",
+   "ja": "景玉谷",
+   "ko": "경옥 골짜기"
+  },
+  "distribution_map02_lv007": {
+   "en": "Yinglung Pass",
+   "zh-TW": "應龍關",
+   "zh-CN": "应龙关",
+   "ja": "応龍関",
+   "ko": "응룡 관문"
+  },
+  "distribution_world_energy_point08": {
+   "en": "Energy Alluvium: Test Area",
+   "zh-TW": "能量淤積點·實驗園區",
+   "zh-CN": "能量淤积点·试验园区",
+   "ja": "超域活性点・実験区域",
+   "ko": "에너지 응집점 · 실험 구역"
+  },
+  "distribution_world_energy_point10": {
+   "en": "Energy Alluvium: Yinglung Pass",
+   "zh-TW": "能量淤積點·應龍關",
+   "zh-CN": "能量淤积点·应龙关",
+   "ja": "超域活性点・応龍関",
+   "ko": "에너지 응집점 · 응룡 관문"
   },
   "distribution_map02_lv005": {
    "en": "Test Area",
@@ -247,6 +247,20 @@
    "zh-CN": "试验园区",
    "ja": "実験区域",
    "ko": "실험 구역"
+  },
+  "distribution_map02_lv011": {
+   "en": "Old Dam",
+   "zh-TW": "舊水壩",
+   "zh-CN": "旧水坝",
+   "ja": "廃ダム",
+   "ko": "옛 댐"
+  },
+  "distribution_world_energy_point14": {
+   "en": "Energy Alluvium: Old Dam",
+   "zh-TW": "能量淤積點·舊水壩",
+   "zh-CN": "能量淤积点·旧水坝",
+   "ja": "超域活性点・廃ダム",
+   "ko": "에너지 응집점 · 옛 댐"
   }
  },
  "enemies": [
@@ -280,49 +294,29 @@
    ]
   },
   {
-   "id": "eny_0059_erhound",
+   "id": "eny_0046_lbshamman",
    "name": {
-    "en": "Hazefyre Tuskbeast",
-    "zh-TW": "霧火牙獸",
-    "zh-CN": "雾火牙兽",
-    "ja": "霧火牙獣",
-    "ko": "안갯불에 물든 터스크비스트"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 20,
-    "heat": 20,
-    "electric": 20,
-    "cryo": 20,
-    "nature": 20
-   },
-   "areas": [
-    "distribution_map01_lv005",
-    "distribution_world_energy_point02",
-    "distribution_world_energy_point04"
-   ]
-  },
-  {
-   "id": "eny_0085_hsrogue",
-   "name": {
-    "en": "Nimbus Razor",
-    "zh-TW": "割雲翁",
-    "zh-CN": "割云翁",
-    "ja": "切雲老",
-    "ko": "할운옹"
+    "en": "Bonekrusher Pyromancer",
+    "zh-TW": "碾骨焰術師",
+    "zh-CN": "碾骨焰术师",
+    "ja": "ボーンクラッシャーの炎術師",
+    "ko": "본 크러셔 염술사"
    },
    "class": "3",
    "resist": {
-    "physical": 40,
-    "heat": 0,
+    "physical": 0,
+    "heat": 50,
     "electric": 0,
-    "cryo": 20,
-    "nature": 20
+    "cryo": 0,
+    "nature": 0
    },
    "areas": [
-    "distribution_map02_lv003",
-    "distribution_world_energy_point06",
-    "distribution_world_energy_point09"
+    "distribution_map01_lv001",
+    "distribution_map01_lv002",
+    "distribution_map01_lv005",
+    "distribution_map01_lv006",
+    "distribution_map01_lv007",
+    "distribution_world_energy_point02"
    ]
   },
   {
@@ -350,54 +344,6 @@
    ]
   },
   {
-   "id": "eny_0046_lbshamman",
-   "name": {
-    "en": "Bonekrusher Pyromancer",
-    "zh-TW": "碾骨焰術師",
-    "zh-CN": "碾骨焰术师",
-    "ja": "ボーンクラッシャーの炎術師",
-    "ko": "본 크러셔 염술사"
-   },
-   "class": "3",
-   "resist": {
-    "physical": 0,
-    "heat": 50,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv001",
-    "distribution_map01_lv002",
-    "distribution_map01_lv005",
-    "distribution_map01_lv006",
-    "distribution_map01_lv007",
-    "distribution_world_energy_point02"
-   ]
-  },
-  {
-   "id": "eny_0063_agmelee2",
-   "name": {
-    "en": "Ram α",
-    "zh-TW": "大角天使α",
-    "zh-CN": "大角天使α",
-    "ja": "巨角アンゲロスα",
-    "ko": "큰뿔아겔로스 · α"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv003",
-    "distribution_world_energy_point03"
-   ]
-  },
-  {
    "id": "eny_0021_agmelee",
    "name": {
     "en": "Ram",
@@ -421,6 +367,28 @@
    ]
   },
   {
+   "id": "eny_0130_inkbiter",
+   "name": {
+    "en": "Fortune's Stash",
+    "zh-TW": "存祿",
+    "zh-CN": "存禄",
+    "ja": "存財",
+    "ko": "존록"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 20,
+    "electric": 0,
+    "cryo": 20,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map02_lv010",
+    "distribution_world_energy_point13"
+   ]
+  },
+  {
    "id": "eny_0023_aghornb",
    "name": {
     "en": "Heavy Ram",
@@ -440,6 +408,28 @@
    "areas": [
     "distribution_map01_lv003",
     "distribution_map01_lv006"
+   ]
+  },
+  {
+   "id": "eny_0076_agfly",
+   "name": {
+    "en": "Falsewings",
+    "zh-TW": "仿生翅天使",
+    "zh-CN": "仿生翅天使",
+    "ja": "擬翼アンゲロス",
+    "ko": "모방아겔로스"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv006",
+    "distribution_world_energy_point03"
    ]
   },
   {
@@ -466,15 +456,38 @@
    ]
   },
   {
-   "id": "eny_0061_palecore",
+   "id": "eny_0047_firebat",
    "name": {
-    "en": "Marble Aggelomoirai",
-    "zh-TW": "白堊界衛",
-    "zh-CN": "白垩界卫",
-    "ja": "白亜・アンゲロミラ",
-    "ko": "마블 아겔로미레"
+    "en": "Bonekrusher Arsonist",
+    "zh-TW": "碾骨清道夫",
+    "zh-CN": "碾骨清道夫",
+    "ja": "ボーンクラッシャーの始末屋",
+    "ko": "본 크러셔 집행자"
    },
-   "class": "2",
+   "class": "3",
+   "resist": {
+    "physical": 0,
+    "heat": 50,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv005",
+    "distribution_map01_lv007",
+    "distribution_world_energy_point02"
+   ]
+  },
+  {
+   "id": "eny_0053_hsmob",
+   "name": {
+    "en": "Road Plunderer",
+    "zh-TW": "莫留財",
+    "zh-CN": "莫留财",
+    "ja": "不残財",
+    "ko": "막류재"
+   },
+   "class": "0",
    "resist": {
     "physical": 0,
     "heat": 0,
@@ -483,28 +496,11 @@
     "nature": 0
    },
    "areas": [
-    "distribution_map01_lv007"
-   ]
-  },
-  {
-   "id": "eny_0090_wgabyss",
-   "name": {
-    "en": "Tidalklast",
-    "zh-TW": "破潮之像",
-    "zh-CN": "破潮之像",
-    "ja": "破潮の像",
-    "ko": "파조의 상"
-   },
-   "class": "4",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 20,
-    "cryo": 20,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_world_energy_point07"
+    "distribution_map02_lv002",
+    "distribution_map02_lv003",
+    "distribution_map02_lv006",
+    "distribution_world_energy_point06",
+    "distribution_world_energy_point09"
    ]
   },
   {
@@ -530,45 +526,25 @@
    ]
   },
   {
-   "id": "eny_0109_hshog2",
+   "id": "eny_0124_kltdcap",
    "name": {
-    "en": "Imbued Quillbeast",
-    "zh-TW": "蓄能球刺獸",
-    "zh-CN": "充能球刺兽",
-    "ja": "チャージ球刺獣",
-    "ko": "활성화된 프릭비스트"
+    "en": "YSTF Captain Blightshade",
+    "zh-TW": "蝕影應龍隊長",
+    "zh-CN": "蚀影应龙队长",
+    "ja": "応龍隊長の蝕影",
+    "ko": "그림자에 물든 응룡 대장"
    },
-   "class": "3",
+   "class": "1",
    "resist": {
-    "physical": 0,
-    "heat": 20,
-    "electric": 20,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_world_energy_point08"
-   ]
-  },
-  {
-   "id": "eny_0134_jsspsi",
-   "name": {
-    "en": "Si",
-    "zh-TW": "祀",
-    "zh-CN": "祀",
-    "ja": "スー",
-    "ko": "사"
-   },
-   "class": "2",
-   "resist": {
-    "physical": 0,
+    "physical": 20,
     "heat": 0,
-    "electric": 0,
+    "electric": 35,
     "cryo": 0,
     "nature": 0
    },
    "areas": [
-    "distribution_map02_lv010"
+    "distribution_map02_lv008",
+    "distribution_world_energy_point11"
    ]
   },
   {
@@ -597,24 +573,46 @@
    ]
   },
   {
-   "id": "eny_0081_ruanyi",
+   "id": "eny_0049_rogue",
    "name": {
-    "en": "Ruan Yi",
-    "zh-TW": "阮一",
-    "zh-CN": "阮一",
-    "ja": "ルアン・イー",
-    "ko": "원일"
+    "en": "Bonekrusher Infiltrator",
+    "zh-TW": "碾骨滲透者",
+    "zh-CN": "碾骨渗透者",
+    "ja": "ボーンクラッシャーの潜入者",
+    "ko": "본 크러셔 침투자"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv007",
+    "distribution_world_energy_point04"
+   ]
+  },
+  {
+   "id": "eny_0134_jsspsi",
+   "name": {
+    "en": "Si",
+    "zh-TW": "祀",
+    "zh-CN": "祀",
+    "ja": "スー",
+    "ko": "사"
    },
    "class": "2",
    "resist": {
     "physical": 0,
     "heat": 0,
-    "electric": 20,
+    "electric": 0,
     "cryo": 0,
-    "nature": 20
+    "nature": 0
    },
    "areas": [
-    "distribution_map02_lv003"
+    "distribution_map02_lv010"
    ]
   },
   {
@@ -644,52 +642,6 @@
    ]
   },
   {
-   "id": "eny_0055_hscrane",
-   "name": {
-    "en": "Cloud Stalker",
-    "zh-TW": "劫雲客",
-    "zh-CN": "劫云客",
-    "ja": "盗雲客",
-    "ko": "겁운객"
-   },
-   "class": "3",
-   "resist": {
-    "physical": 0,
-    "heat": 20,
-    "electric": 20,
-    "cryo": 20,
-    "nature": 20
-   },
-   "areas": [
-    "distribution_map02_lv003",
-    "distribution_world_energy_point06",
-    "distribution_world_energy_point09"
-   ]
-  },
-  {
-   "id": "eny_0093_hshog",
-   "name": {
-    "en": "Quillbeast",
-    "zh-TW": "球刺獸",
-    "zh-CN": "球刺兽",
-    "ja": "球刺獣",
-    "ko": "프릭비스트"
-   },
-   "class": "3",
-   "resist": {
-    "physical": 0,
-    "heat": 20,
-    "electric": 20,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map02_lv001",
-    "distribution_map02_lv002",
-    "distribution_world_energy_point08"
-   ]
-  },
-  {
    "id": "eny_0039_agcanno",
    "name": {
     "en": "Sentinel",
@@ -708,161 +660,6 @@
    },
    "areas": [
     "distribution_dungeon_common"
-   ]
-  },
-  {
-   "id": "eny_0053_hsmob",
-   "name": {
-    "en": "Road Plunderer",
-    "zh-TW": "莫留財",
-    "zh-CN": "莫留财",
-    "ja": "不残財",
-    "ko": "막류재"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map02_lv002",
-    "distribution_map02_lv003",
-    "distribution_map02_lv006",
-    "distribution_world_energy_point06",
-    "distribution_world_energy_point09"
-   ]
-  },
-  {
-   "id": "eny_0122_kltdbud",
-   "name": {
-    "en": "YSTF Elite Blightshade",
-    "zh-TW": "蝕影應龍尖兵",
-    "zh-CN": "蚀影应龙尖兵",
-    "ja": "応龍精鋭先鋒の蝕影",
-    "ko": "그림자에 물든 응룡 대원 · 정예"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 20,
-    "heat": 0,
-    "electric": 35,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map02_lv008",
-    "distribution_world_energy_point10",
-    "distribution_world_energy_point11"
-   ]
-  },
-  {
-   "id": "eny_0125_fdcentur",
-   "name": {
-    "en": "Alleikhreos, Chiliarch",
-    "zh-TW": "阿萊克琉斯，千夫長",
-    "zh-CN": "阿莱克琉斯，千夫长",
-    "ja": "千人隊長アレイクレウス",
-    "ko": "알레이크레오스, 천부장"
-   },
-   "class": "2",
-   "resist": {
-    "physical": 20,
-    "heat": 20,
-    "electric": 20,
-    "cryo": 20,
-    "nature": 20
-   },
-   "areas": [
-    "distribution_map02_lv008"
-   ]
-  },
-  {
-   "id": "eny_0045_agtrinit",
-   "name": {
-    "en": "Triaggelos",
-    "zh-TW": "三位一體",
-    "zh-CN": "三位一体",
-    "ja": "トリアンゲロス",
-    "ko": "트리아겔로스"
-   },
-   "class": "2",
-   "resist": {
-    "physical": 20,
-    "heat": 20,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 20
-   },
-   "areas": [
-    "distribution_map01_lv006"
-   ]
-  },
-  {
-   "id": "eny_0047_firebat",
-   "name": {
-    "en": "Bonekrusher Arsonist",
-    "zh-TW": "碾骨清道夫",
-    "zh-CN": "碾骨清道夫",
-    "ja": "ボーンクラッシャーの始末屋",
-    "ko": "본 크러셔 집행자"
-   },
-   "class": "3",
-   "resist": {
-    "physical": 0,
-    "heat": 50,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv005",
-    "distribution_map01_lv007",
-    "distribution_world_energy_point02"
-   ]
-  },
-  {
-   "id": "eny_0048_hvybow",
-   "name": {
-    "en": "Bonekrusher Ballista",
-    "zh-TW": "碾骨射手",
-    "zh-CN": "碾骨射手",
-    "ja": "ボーンクラッシャーの狙撃手",
-    "ko": "본 크러셔 사수"
-   },
-   "class": "1",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_world_energy_point04"
-   ]
-  },
-  {
-   "id": "eny_0052_palesent",
-   "name": {
-    "en": "Marble Aggelomoirai",
-    "zh-TW": "白堊界衛",
-    "zh-CN": "白垩界卫",
-    "ja": "白亜・アンゲロミラ",
-    "ko": "마블 아겔로미레"
-   },
-   "class": "2",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv007"
    ]
   },
   {
@@ -889,35 +686,56 @@
    ]
   },
   {
-   "id": "eny_0049_rogue",
+   "id": "eny_0045_agtrinit",
    "name": {
-    "en": "Bonekrusher Infiltrator",
-    "zh-TW": "碾骨滲透者",
-    "zh-CN": "碾骨渗透者",
-    "ja": "ボーンクラッシャーの潜入者",
-    "ko": "본 크러셔 침투자"
+    "en": "Triaggelos",
+    "zh-TW": "三位一體",
+    "zh-CN": "三位一体",
+    "ja": "トリアンゲロス",
+    "ko": "트리아겔로스"
    },
-   "class": "0",
+   "class": "2",
    "resist": {
-    "physical": 0,
-    "heat": 0,
+    "physical": 20,
+    "heat": 20,
     "electric": 0,
     "cryo": 0,
-    "nature": 0
+    "nature": 20
    },
    "areas": [
-    "distribution_map01_lv007",
-    "distribution_world_energy_point04"
+    "distribution_map01_lv006"
    ]
   },
   {
-   "id": "eny_0098_sandb2",
+   "id": "eny_0070_agscorp2",
    "name": {
-    "en": "Hazefyre Axe Armorbeast",
-    "zh-TW": "霧火斧甲獸",
-    "zh-CN": "雾火斧甲兽",
-    "ja": "霧火斧甲獣",
-    "ko": "안갯불에 물든 엑스 아머비스트"
+    "en": "Heavy Sting α",
+    "zh-TW": "重刺天使α",
+    "zh-CN": "重刺天使α",
+    "ja": "槍棘アンゲロスα",
+    "ko": "삼미아겔로스 · α"
+   },
+   "class": "3",
+   "resist": {
+    "physical": 20,
+    "heat": 20,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 20
+   },
+   "areas": [
+    "distribution_map01_lv003",
+    "distribution_world_energy_point03"
+   ]
+  },
+  {
+   "id": "eny_0048_hvybow",
+   "name": {
+    "en": "Bonekrusher Ballista",
+    "zh-TW": "碾骨射手",
+    "zh-CN": "碾骨射手",
+    "ja": "ボーンクラッシャーの狙撃手",
+    "ko": "본 크러셔 사수"
    },
    "class": "1",
    "resist": {
@@ -928,8 +746,54 @@
     "nature": 0
    },
    "areas": [
+    "distribution_world_energy_point04"
+   ]
+  },
+  {
+   "id": "eny_0072_slimeml",
+   "name": {
+    "en": "Indigenous Pincerbeast",
+    "zh-TW": "原生鉗獸",
+    "zh-CN": "原生钳兽",
+    "ja": "原生鉗獣",
+    "ko": "원시 핀서비스트"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
     "distribution_map01_lv001",
-    "distribution_map01_lv007"
+    "distribution_map01_lv005",
+    "distribution_map01_lv006",
+    "distribution_map01_lv007",
+    "distribution_map02_lv009",
+    "distribution_world_energy_point01"
+   ]
+  },
+  {
+   "id": "eny_0120_klbear",
+   "name": {
+    "en": "Blitzcrash Blightshade",
+    "zh-TW": "蝕影噪雷",
+    "zh-CN": "蚀影噪雷",
+    "ja": "噪雷の蝕影",
+    "ko": "그림자에 물든 진뢰"
+   },
+   "class": "4",
+   "resist": {
+    "physical": 20,
+    "heat": 0,
+    "electric": 35,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map02_lv008"
    ]
   },
   {
@@ -960,6 +824,73 @@
    ]
   },
   {
+   "id": "eny_0071_sandb",
+   "name": {
+    "en": "Axe Armorbeast",
+    "zh-TW": "斧甲獸",
+    "zh-CN": "斧甲兽",
+    "ja": "斧甲獣",
+    "ko": "엑스 아머비스트"
+   },
+   "class": "1",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv001",
+    "distribution_world_energy_point01"
+   ]
+  },
+  {
+   "id": "eny_0106_wgthorns2",
+   "name": {
+    "en": "Hedron δ",
+    "zh-TW": "晶錐天使δ",
+    "zh-CN": "晶锥天使δ",
+    "ja": "錐晶アンゲロスδ",
+    "ko": "수정아겔로스 · δ"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 20,
+    "cryo": 20,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map02_lv002",
+    "distribution_map02_lv004",
+    "distribution_world_energy_point05",
+    "distribution_world_energy_point07"
+   ]
+  },
+  {
+   "id": "eny_0051_rodin",
+   "name": {
+    "en": "Rhodagn the Bonekrushing Fist",
+    "zh-TW": "「碾骨之拳」羅丹",
+    "zh-CN": "“碾骨之拳”罗丹",
+    "ja": "「ボーンクラッシャーの拳」ロダン",
+    "ko": "'본 크러셔의 주먹' 로댄"
+   },
+   "class": "2",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv002"
+   ]
+  },
+  {
    "id": "eny_0087_wgslime",
    "name": {
     "en": "Mudflow",
@@ -985,13 +916,13 @@
    ]
   },
   {
-   "id": "eny_0051_rodin",
+   "id": "eny_0052_palesent",
    "name": {
-    "en": "Rhodagn the Bonekrushing Fist",
-    "zh-TW": "「碾骨之拳」羅丹",
-    "zh-CN": "“碾骨之拳”罗丹",
-    "ja": "「ボーンクラッシャーの拳」ロダン",
-    "ko": "'본 크러셔의 주먹' 로댄"
+    "en": "Marble Aggelomoirai",
+    "zh-TW": "白堊界衛",
+    "zh-CN": "白垩界卫",
+    "ja": "白亜・アンゲロミラ",
+    "ko": "마블 아겔로미레"
    },
    "class": "2",
    "resist": {
@@ -1002,51 +933,7 @@
     "nature": 0
    },
    "areas": [
-    "distribution_map01_lv002"
-   ]
-  },
-  {
-   "id": "eny_0118_klhog",
-   "name": {
-    "en": "Quillbeast Blightshade",
-    "zh-TW": "蝕影球刺獸",
-    "zh-CN": "蚀影球刺兽",
-    "ja": "球刺獣の蝕影",
-    "ko": "그림자에 물든 프릭비스트"
-   },
-   "class": "3",
-   "resist": {
-    "physical": 20,
-    "heat": 0,
-    "electric": 35,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map02_lv008",
-    "distribution_world_energy_point10"
-   ]
-  },
-  {
-   "id": "eny_0130_inkbiter",
-   "name": {
-    "en": "Fortune's Stash",
-    "zh-TW": "存祿",
-    "zh-CN": "存禄",
-    "ja": "存財",
-    "ko": "존록"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 20,
-    "electric": 0,
-    "cryo": 20,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map02_lv010",
-    "distribution_world_energy_point13"
+    "distribution_map01_lv007"
    ]
   },
   {
@@ -1073,6 +960,96 @@
    ]
   },
   {
+   "id": "eny_0063_agmelee2",
+   "name": {
+    "en": "Ram α",
+    "zh-TW": "大角天使α",
+    "zh-CN": "大角天使α",
+    "ja": "巨角アンゲロスα",
+    "ko": "큰뿔아겔로스 · α"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv003",
+    "distribution_world_energy_point03"
+   ]
+  },
+  {
+   "id": "eny_0055_hscrane",
+   "name": {
+    "en": "Cloud Stalker",
+    "zh-TW": "劫雲客",
+    "zh-CN": "劫云客",
+    "ja": "盗雲客",
+    "ko": "겁운객"
+   },
+   "class": "3",
+   "resist": {
+    "physical": 0,
+    "heat": 20,
+    "electric": 20,
+    "cryo": 20,
+    "nature": 20
+   },
+   "areas": [
+    "distribution_map02_lv003",
+    "distribution_world_energy_point06",
+    "distribution_world_energy_point09"
+   ]
+  },
+  {
+   "id": "eny_0128_babyents",
+   "name": {
+    "en": "Woodcraft Wanderer",
+    "zh-TW": "徘徊樹傀",
+    "zh-CN": "徘徊树傀",
+    "ja": "巡回ゴーレム",
+    "ko": "배회 나무 골렘"
+   },
+   "class": "3",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 20,
+    "cryo": 20,
+    "nature": 20
+   },
+   "areas": [
+    "distribution_map02_lv009",
+    "distribution_world_energy_point12"
+   ]
+  },
+  {
+   "id": "eny_0108_slbomb2",
+   "name": {
+    "en": "Blazemist Originium Slug",
+    "zh-TW": "焚霧源石蟲",
+    "zh-CN": "焚雾源石虫",
+    "ja": "焔霧オリジムシ",
+    "ko": "용암원석충"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 20,
+    "heat": 20,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 20
+   },
+   "areas": [
+    "distribution_map02_lv001",
+    "distribution_map02_lv002",
+    "distribution_world_energy_point08"
+   ]
+  },
+  {
    "id": "eny_0058_agdisk",
    "name": {
     "en": "Effigy",
@@ -1092,13 +1069,13 @@
    "areas": []
   },
   {
-   "id": "eny_0112_jzmonk",
+   "id": "eny_0059_erhound",
    "name": {
-    "en": "Rockhowler",
-    "zh-TW": "山犼獸",
-    "zh-CN": "山犼兽",
-    "ja": "山吼獣",
-    "ko": "록하울러"
+    "en": "Hazefyre Tuskbeast",
+    "zh-TW": "霧火牙獸",
+    "zh-CN": "雾火牙兽",
+    "ja": "霧火牙獣",
+    "ko": "안갯불에 물든 터스크비스트"
    },
    "class": "0",
    "resist": {
@@ -1106,12 +1083,33 @@
     "heat": 20,
     "electric": 20,
     "cryo": 20,
+    "nature": 20
+   },
+   "areas": [
+    "distribution_map01_lv005",
+    "distribution_world_energy_point02",
+    "distribution_world_energy_point04"
+   ]
+  },
+  {
+   "id": "eny_0061_palecore",
+   "name": {
+    "en": "Marble Aggelomoirai",
+    "zh-TW": "白堊界衛",
+    "zh-CN": "白垩界卫",
+    "ja": "白亜・アンゲロミラ",
+    "ko": "마블 아겔로미레"
+   },
+   "class": "2",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
     "nature": 0
    },
    "areas": [
-    "distribution_map02_lv006",
-    "distribution_map02_lv010",
-    "distribution_world_energy_point09"
+    "distribution_map01_lv007"
    ]
   },
   {
@@ -1133,6 +1131,212 @@
    },
    "areas": [
     "distribution_map01_lv007"
+   ]
+  },
+  {
+   "id": "eny_0064_agrange2",
+   "name": {
+    "en": "Sting α",
+    "zh-TW": "釘刺天使α",
+    "zh-CN": "钉刺天使α",
+    "ja": "針棘アンゲロスα",
+    "ko": "일미아겔로스 · α"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv003",
+    "distribution_map01_lv006",
+    "distribution_world_energy_point03"
+   ]
+  },
+  {
+   "id": "eny_0065_lbmob2",
+   "name": {
+    "en": "Elite Raider",
+    "zh-TW": "精銳劫掠者",
+    "zh-CN": "精锐劫掠者",
+    "ja": "略奪者・精鋭",
+    "ko": "약탈자 · 정예"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv001",
+    "distribution_map01_lv002",
+    "distribution_map01_lv005",
+    "distribution_map01_lv007",
+    "distribution_world_energy_point04"
+   ]
+  },
+  {
+   "id": "eny_0103_hshunt2",
+   "name": {
+    "en": "Sweeping Wind",
+    "zh-TW": "過堂風",
+    "zh-CN": "过堂风",
+    "ja": "過堂風",
+    "ko": "과당풍"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map02_lv006",
+    "distribution_world_energy_point06"
+   ]
+  },
+  {
+   "id": "eny_0066_lbhunt2",
+   "name": {
+    "en": "Elite Ambusher",
+    "zh-TW": "精銳伏擊射手",
+    "zh-CN": "精锐伏击射手",
+    "ja": "潜伏狙撃手・精鋭",
+    "ko": "저격수 · 정예"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv001",
+    "distribution_map01_lv005",
+    "distribution_map01_lv007",
+    "distribution_world_energy_point04"
+   ]
+  },
+  {
+   "id": "eny_0067_hound2",
+   "name": {
+    "en": "Elite Ripptusk",
+    "zh-TW": "精銳撕裂牙獸",
+    "zh-CN": "精锐撕裂牙兽",
+    "ja": "凶猛牙獣・精鋭",
+    "ko": "립터스크 · 정예"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv001",
+    "distribution_map01_lv005",
+    "distribution_map01_lv007",
+    "distribution_map02_lv006",
+    "distribution_world_energy_point02"
+   ]
+  },
+  {
+   "id": "eny_0082_hsbear",
+   "name": {
+    "en": "Skydrummer",
+    "zh-TW": "天鼓",
+    "zh-CN": "天鼓",
+    "ja": "天鼓",
+    "ko": "천고"
+   },
+   "class": "4",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_world_energy_point08"
+   ]
+  },
+  {
+   "id": "eny_0068_lbtough2",
+   "name": {
+    "en": "Elite Executioner",
+    "zh-TW": "精銳行刑人",
+    "zh-CN": "精锐行刑人",
+    "ja": "処刑人・精鋭",
+    "ko": "처형자 · 정예"
+   },
+   "class": "1",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv005"
+   ]
+  },
+  {
+   "id": "eny_0121_klbud",
+   "name": {
+    "en": "YSTF Vanguard Blightshade",
+    "zh-TW": "蝕影應龍前鋒",
+    "zh-CN": "蚀影应龙前锋",
+    "ja": "応龍先鋒の蝕影",
+    "ko": "그림자에 물든 응룡 대원 · 선봉"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 20,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map02_lv007",
+    "distribution_map02_lv008",
+    "distribution_world_energy_point10",
+    "distribution_world_energy_point11"
+   ]
+  },
+  {
+   "id": "eny_0069_aghornb2",
+   "name": {
+    "en": "Heavy Ram α",
+    "zh-TW": "剛角天使α",
+    "zh-CN": "刚角天使α",
+    "ja": "剛角アンゲロスα",
+    "ko": "쌍뿔아겔로스 · α"
+   },
+   "class": "3",
+   "resist": {
+    "physical": 20,
+    "heat": 20,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 20
+   },
+   "areas": [
+    "distribution_world_energy_point03"
    ]
   },
   {
@@ -1163,262 +1367,6 @@
    ]
   },
   {
-   "id": "eny_0064_agrange2",
-   "name": {
-    "en": "Sting α",
-    "zh-TW": "釘刺天使α",
-    "zh-CN": "钉刺天使α",
-    "ja": "針棘アンゲロスα",
-    "ko": "일미아겔로스 · α"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv003",
-    "distribution_map01_lv006",
-    "distribution_world_energy_point03"
-   ]
-  },
-  {
-   "id": "eny_0067_hound2",
-   "name": {
-    "en": "Elite Ripptusk",
-    "zh-TW": "精銳撕裂牙獸",
-    "zh-CN": "精锐撕裂牙兽",
-    "ja": "凶猛牙獣・精鋭",
-    "ko": "립터스크 · 정예"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv001",
-    "distribution_map01_lv005",
-    "distribution_map01_lv007",
-    "distribution_map02_lv006",
-    "distribution_world_energy_point02"
-   ]
-  },
-  {
-   "id": "eny_0065_lbmob2",
-   "name": {
-    "en": "Elite Raider",
-    "zh-TW": "精銳劫掠者",
-    "zh-CN": "精锐劫掠者",
-    "ja": "略奪者・精鋭",
-    "ko": "약탈자 · 정예"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv001",
-    "distribution_map01_lv002",
-    "distribution_map01_lv005",
-    "distribution_map01_lv007",
-    "distribution_world_energy_point04"
-   ]
-  },
-  {
-   "id": "eny_0066_lbhunt2",
-   "name": {
-    "en": "Elite Ambusher",
-    "zh-TW": "精銳伏擊射手",
-    "zh-CN": "精锐伏击射手",
-    "ja": "潜伏狙撃手・精鋭",
-    "ko": "저격수 · 정예"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv001",
-    "distribution_map01_lv005",
-    "distribution_map01_lv007",
-    "distribution_world_energy_point04"
-   ]
-  },
-  {
-   "id": "eny_0123_klcap",
-   "name": {
-    "en": "YSTF Glaiver Blightshade",
-    "zh-TW": "蝕影應龍破陣手",
-    "zh-CN": "蚀影应龙破阵手",
-    "ja": "応龍突撃兵の蝕影",
-    "ko": "그림자에 물든 응룡 대원 · 돌파"
-   },
-   "class": "1",
-   "resist": {
-    "physical": 20,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map02_lv007",
-    "distribution_map02_lv008",
-    "distribution_world_energy_point11"
-   ]
-  },
-  {
-   "id": "eny_0068_lbtough2",
-   "name": {
-    "en": "Elite Executioner",
-    "zh-TW": "精銳行刑人",
-    "zh-CN": "精锐行刑人",
-    "ja": "処刑人・精鋭",
-    "ko": "처형자 · 정예"
-   },
-   "class": "1",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv005"
-   ]
-  },
-  {
-   "id": "eny_0069_aghornb2",
-   "name": {
-    "en": "Heavy Ram α",
-    "zh-TW": "剛角天使α",
-    "zh-CN": "刚角天使α",
-    "ja": "剛角アンゲロスα",
-    "ko": "쌍뿔아겔로스 · α"
-   },
-   "class": "3",
-   "resist": {
-    "physical": 20,
-    "heat": 20,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 20
-   },
-   "areas": [
-    "distribution_world_energy_point03"
-   ]
-  },
-  {
-   "id": "eny_0070_agscorp2",
-   "name": {
-    "en": "Heavy Sting α",
-    "zh-TW": "重刺天使α",
-    "zh-CN": "重刺天使α",
-    "ja": "槍棘アンゲロスα",
-    "ko": "삼미아겔로스 · α"
-   },
-   "class": "3",
-   "resist": {
-    "physical": 20,
-    "heat": 20,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 20
-   },
-   "areas": [
-    "distribution_map01_lv003",
-    "distribution_world_energy_point03"
-   ]
-  },
-  {
-   "id": "eny_0071_sandb",
-   "name": {
-    "en": "Axe Armorbeast",
-    "zh-TW": "斧甲獸",
-    "zh-CN": "斧甲兽",
-    "ja": "斧甲獣",
-    "ko": "엑스 아머비스트"
-   },
-   "class": "1",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv001",
-    "distribution_world_energy_point01"
-   ]
-  },
-  {
-   "id": "eny_0072_slimeml",
-   "name": {
-    "en": "Indigenous Pincerbeast",
-    "zh-TW": "原生鉗獸",
-    "zh-CN": "原生钳兽",
-    "ja": "原生鉗獣",
-    "ko": "원시 핀서비스트"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv001",
-    "distribution_map01_lv005",
-    "distribution_map01_lv006",
-    "distribution_map01_lv007",
-    "distribution_map02_lv009",
-    "distribution_world_energy_point01"
-   ]
-  },
-  {
-   "id": "eny_0106_wgthorns2",
-   "name": {
-    "en": "Hedron δ",
-    "zh-TW": "晶錐天使δ",
-    "zh-CN": "晶锥天使δ",
-    "ja": "錐晶アンゲロスδ",
-    "ko": "수정아겔로스 · δ"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 20,
-    "cryo": 20,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map02_lv002",
-    "distribution_map02_lv004",
-    "distribution_world_energy_point05",
-    "distribution_world_energy_point07"
-   ]
-  },
-  {
    "id": "eny_0074_lbshield",
    "name": {
     "en": "Bonekrusher Vanguard",
@@ -1441,52 +1389,6 @@
    ]
   },
   {
-   "id": "eny_0099_slimeml2",
-   "name": {
-    "en": "Brutal Pincerbeast",
-    "zh-TW": "殘暴原生鉗獸",
-    "zh-CN": "残暴原生钳兽",
-    "ja": "凶暴原生鉗獣",
-    "ko": "브루탈 핀서비스트"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv001",
-    "distribution_map01_lv005",
-    "distribution_map01_lv007",
-    "distribution_world_energy_point01"
-   ]
-  },
-  {
-   "id": "eny_0131_inkscroll",
-   "name": {
-    "en": "Scroll of Tactics",
-    "zh-TW": "用奇",
-    "zh-CN": "用奇",
-    "ja": "奇用",
-    "ko": "용기"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 20,
-    "cryo": 20,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map02_lv010",
-    "distribution_world_energy_point13"
-   ]
-  },
-  {
    "id": "eny_0075_lbroshan",
    "name": {
     "en": "Bonekrusher Siegeknuckles",
@@ -1505,93 +1407,6 @@
    },
    "areas": [
     "distribution_map01_lv005"
-   ]
-  },
-  {
-   "id": "eny_0103_hshunt2",
-   "name": {
-    "en": "Sweeping Wind",
-    "zh-TW": "過堂風",
-    "zh-CN": "过堂风",
-    "ja": "過堂風",
-    "ko": "과당풍"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map02_lv006",
-    "distribution_world_energy_point06"
-   ]
-  },
-  {
-   "id": "eny_0104_hsrogue2",
-   "name": {
-    "en": "Breaking Gust",
-    "zh-TW": "斷雲叟",
-    "zh-CN": "断云叟",
-    "ja": "断雲翁",
-    "ko": "단운수"
-   },
-   "class": "1",
-   "resist": {
-    "physical": 60,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 20,
-    "nature": 20
-   },
-   "areas": [
-    "distribution_map02_lv003"
-   ]
-  },
-  {
-   "id": "eny_0128_babyents",
-   "name": {
-    "en": "Woodcraft Wanderer",
-    "zh-TW": "徘徊樹傀",
-    "zh-CN": "徘徊树傀",
-    "ja": "巡回ゴーレム",
-    "ko": "배회 나무 골렘"
-   },
-   "class": "3",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 20,
-    "cryo": 20,
-    "nature": 20
-   },
-   "areas": [
-    "distribution_map02_lv009",
-    "distribution_world_energy_point12"
-   ]
-  },
-  {
-   "id": "eny_0076_agfly",
-   "name": {
-    "en": "Falsewings",
-    "zh-TW": "仿生翅天使",
-    "zh-CN": "仿生翅天使",
-    "ja": "擬翼アンゲロス",
-    "ko": "모방아겔로스"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 0,
-    "heat": 0,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map01_lv006",
-    "distribution_world_energy_point03"
    ]
   },
   {
@@ -1656,24 +1471,24 @@
    ]
   },
   {
-   "id": "eny_0082_hsbear",
+   "id": "eny_0081_ruanyi",
    "name": {
-    "en": "Skydrummer",
-    "zh-TW": "天鼓",
-    "zh-CN": "天鼓",
-    "ja": "天鼓",
-    "ko": "천고"
+    "en": "Ruan Yi",
+    "zh-TW": "阮一",
+    "zh-CN": "阮一",
+    "ja": "ルアン・イー",
+    "ko": "원일"
    },
-   "class": "4",
+   "class": "2",
    "resist": {
     "physical": 0,
     "heat": 0,
-    "electric": 0,
+    "electric": 20,
     "cryo": 0,
-    "nature": 0
+    "nature": 20
    },
    "areas": [
-    "distribution_world_energy_point08"
+    "distribution_map02_lv003"
    ]
   },
   {
@@ -1698,27 +1513,6 @@
     "distribution_map02_lv003",
     "distribution_map02_lv005",
     "distribution_world_energy_point08"
-   ]
-  },
-  {
-   "id": "eny_0114_jzmking",
-   "name": {
-    "en": "Craghowler",
-    "zh-TW": "巨山犼獸",
-    "zh-CN": "巨山犼兽",
-    "ja": "大山吼獣",
-    "ko": "거대한 록하울러"
-   },
-   "class": "4",
-   "resist": {
-    "physical": 20,
-    "heat": 20,
-    "electric": 20,
-    "cryo": 20,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map02_lv006"
    ]
   },
   {
@@ -1747,6 +1541,73 @@
    ]
   },
   {
+   "id": "eny_0085_hsrogue",
+   "name": {
+    "en": "Nimbus Razor",
+    "zh-TW": "割雲翁",
+    "zh-CN": "割云翁",
+    "ja": "切雲老",
+    "ko": "할운옹"
+   },
+   "class": "3",
+   "resist": {
+    "physical": 40,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 20,
+    "nature": 20
+   },
+   "areas": [
+    "distribution_map02_lv003",
+    "distribution_world_energy_point06",
+    "distribution_world_energy_point09"
+   ]
+  },
+  {
+   "id": "eny_0091_wgshoal",
+   "name": {
+    "en": "Tidewalker",
+    "zh-TW": "潮行天使",
+    "zh-CN": "潮行天使",
+    "ja": "潮進アンゲロス",
+    "ko": "조류아겔로스"
+   },
+   "class": "1",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 20,
+    "cryo": 20,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map02_lv004",
+    "distribution_world_energy_point05"
+   ]
+  },
+  {
+   "id": "eny_0158_mushbug",
+   "name": {
+    "en": "Shroomkrusher Nidwyrm",
+    "zh-TW": "碾菇虯獸",
+    "zh-CN": "碾菇虬兽",
+    "ja": "キノコクラッシャーの蛟獣",
+    "ko": "머쉬룸 크러셔 니드웜"
+   },
+   "class": "3",
+   "resist": {
+    "physical": 0,
+    "heat": -20,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 20
+   },
+   "areas": [
+    "distribution_map02_lv011",
+    "distribution_world_energy_point14"
+   ]
+  },
+  {
    "id": "eny_0088_wgthorns",
    "name": {
     "en": "Hedron",
@@ -1768,6 +1629,30 @@
     "distribution_map02_lv002",
     "distribution_map02_lv004",
     "distribution_map02_lv007",
+    "distribution_world_energy_point05",
+    "distribution_world_energy_point07"
+   ]
+  },
+  {
+   "id": "eny_0105_wgslime2",
+   "name": {
+    "en": "Mudflow δ",
+    "zh-TW": "濁流天使δ",
+    "zh-CN": "浊流天使δ",
+    "ja": "濁流アンゲロスδ",
+    "ko": "탁류아겔로스 · δ"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 20,
+    "cryo": 20,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map02_lv002",
+    "distribution_map02_lv004",
     "distribution_world_energy_point05",
     "distribution_world_energy_point07"
    ]
@@ -1799,37 +1684,39 @@
    ]
   },
   {
-   "id": "eny_0132_inkkirin",
+   "id": "eny_0094_hsfly",
    "name": {
-    "en": "Simmer's Purge",
-    "zh-TW": "解燥",
-    "zh-CN": "解燥",
-    "ja": "解燥",
-    "ko": "해조"
+    "en": "Waterlamp",
+    "zh-TW": "水燈蟲",
+    "zh-CN": "水灯虫",
+    "ja": "水灯虫",
+    "ko": "수등충"
    },
-   "class": "3",
+   "class": "0",
    "resist": {
     "physical": 0,
-    "heat": 20,
+    "heat": 0,
     "electric": 20,
-    "cryo": 20,
+    "cryo": 0,
     "nature": 20
    },
    "areas": [
-    "distribution_map02_lv010",
-    "distribution_world_energy_point13"
+    "distribution_map02_lv001",
+    "distribution_map02_lv002",
+    "distribution_map02_lv005",
+    "distribution_world_energy_point08"
    ]
   },
   {
-   "id": "eny_0091_wgshoal",
+   "id": "eny_0090_wgabyss",
    "name": {
-    "en": "Tidewalker",
-    "zh-TW": "潮行天使",
-    "zh-CN": "潮行天使",
-    "ja": "潮進アンゲロス",
-    "ko": "조류아겔로스"
+    "en": "Tidalklast",
+    "zh-TW": "破潮之像",
+    "zh-CN": "破潮之像",
+    "ja": "破潮の像",
+    "ko": "파조의 상"
    },
-   "class": "1",
+   "class": "4",
    "resist": {
     "physical": 0,
     "heat": 0,
@@ -1838,8 +1725,7 @@
     "nature": 0
    },
    "areas": [
-    "distribution_map02_lv004",
-    "distribution_world_energy_point05"
+    "distribution_world_energy_point07"
    ]
   },
   {
@@ -1867,26 +1753,46 @@
    ]
   },
   {
-   "id": "eny_0094_hsfly",
+   "id": "eny_0093_hshog",
    "name": {
-    "en": "Waterlamp",
-    "zh-TW": "水燈蟲",
-    "zh-CN": "水灯虫",
-    "ja": "水灯虫",
-    "ko": "수등충"
+    "en": "Quillbeast",
+    "zh-TW": "球刺獸",
+    "zh-CN": "球刺兽",
+    "ja": "球刺獣",
+    "ko": "프릭비스트"
    },
-   "class": "0",
+   "class": "3",
    "resist": {
     "physical": 0,
-    "heat": 0,
+    "heat": 20,
     "electric": 20,
     "cryo": 0,
-    "nature": 20
+    "nature": 0
    },
    "areas": [
     "distribution_map02_lv001",
     "distribution_map02_lv002",
-    "distribution_map02_lv005",
+    "distribution_world_energy_point08"
+   ]
+  },
+  {
+   "id": "eny_0109_hshog2",
+   "name": {
+    "en": "Imbued Quillbeast",
+    "zh-TW": "蓄能球刺獸",
+    "zh-CN": "充能球刺兽",
+    "ja": "チャージ球刺獣",
+    "ko": "활성화된 프릭비스트"
+   },
+   "class": "3",
+   "resist": {
+    "physical": 0,
+    "heat": 20,
+    "electric": 20,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
     "distribution_world_energy_point08"
    ]
   },
@@ -1957,6 +1863,52 @@
    ]
   },
   {
+   "id": "eny_0098_sandb2",
+   "name": {
+    "en": "Hazefyre Axe Armorbeast",
+    "zh-TW": "霧火斧甲獸",
+    "zh-CN": "雾火斧甲兽",
+    "ja": "霧火斧甲獣",
+    "ko": "안갯불에 물든 엑스 아머비스트"
+   },
+   "class": "1",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv001",
+    "distribution_map01_lv007"
+   ]
+  },
+  {
+   "id": "eny_0099_slimeml2",
+   "name": {
+    "en": "Brutal Pincerbeast",
+    "zh-TW": "殘暴原生鉗獸",
+    "zh-CN": "残暴原生钳兽",
+    "ja": "凶暴原生鉗獣",
+    "ko": "브루탈 핀서비스트"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map01_lv001",
+    "distribution_map01_lv005",
+    "distribution_map01_lv007",
+    "distribution_world_energy_point01"
+   ]
+  },
+  {
    "id": "eny_0100_slimerg2",
    "name": {
     "en": "Acid Originium Slug α",
@@ -2022,51 +1974,46 @@
    ]
   },
   {
-   "id": "eny_0117_klhound",
+   "id": "eny_0129_slwood",
    "name": {
-    "en": "Tuskbeast Blightshade",
-    "zh-TW": "蝕影牙獸",
-    "zh-CN": "蚀影牙兽",
-    "ja": "牙獣の蝕影",
-    "ko": "그림자에 물든 터스크비스트"
-   },
-   "class": "0",
-   "resist": {
-    "physical": 20,
-    "heat": 0,
-    "electric": 35,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map02_lv007",
-    "distribution_map02_lv008",
-    "distribution_world_energy_point10",
-    "distribution_world_energy_point11"
-   ]
-  },
-  {
-   "id": "eny_0105_wgslime2",
-   "name": {
-    "en": "Mudflow δ",
-    "zh-TW": "濁流天使δ",
-    "zh-CN": "浊流天使δ",
-    "ja": "濁流アンゲロスδ",
-    "ko": "탁류아겔로스 · δ"
+    "en": "Woodcraft Slug",
+    "zh-TW": "蟲體樹傀",
+    "zh-CN": "虫体树傀",
+    "ja": "ムシ型ゴーレム",
+    "ko": "벌레 나무 골렘"
    },
    "class": "0",
    "resist": {
     "physical": 0,
     "heat": 0,
-    "electric": 20,
-    "cryo": 20,
+    "electric": 0,
+    "cryo": 0,
     "nature": 0
    },
    "areas": [
-    "distribution_map02_lv002",
-    "distribution_map02_lv004",
-    "distribution_world_energy_point05",
-    "distribution_world_energy_point07"
+    "distribution_map02_lv009",
+    "distribution_world_energy_point12"
+   ]
+  },
+  {
+   "id": "eny_0104_hsrogue2",
+   "name": {
+    "en": "Breaking Gust",
+    "zh-TW": "斷雲叟",
+    "zh-CN": "断云叟",
+    "ja": "断雲翁",
+    "ko": "단운수"
+   },
+   "class": "1",
+   "resist": {
+    "physical": 60,
+    "heat": 0,
+    "electric": 0,
+    "cryo": 20,
+    "nature": 20
+   },
+   "areas": [
+    "distribution_map02_lv003"
    ]
   },
   {
@@ -2095,26 +2042,49 @@
    ]
   },
   {
-   "id": "eny_0108_slbomb2",
+   "id": "eny_0122_kltdbud",
    "name": {
-    "en": "Blazemist Originium Slug",
-    "zh-TW": "焚霧源石蟲",
-    "zh-CN": "焚雾源石虫",
-    "ja": "焔霧オリジムシ",
-    "ko": "용암원석충"
+    "en": "YSTF Elite Blightshade",
+    "zh-TW": "蝕影應龍尖兵",
+    "zh-CN": "蚀影应龙尖兵",
+    "ja": "応龍精鋭先鋒の蝕影",
+    "ko": "그림자에 물든 응룡 대원 · 정예"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 20,
+    "heat": 0,
+    "electric": 35,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map02_lv008",
+    "distribution_world_energy_point10",
+    "distribution_world_energy_point11"
+   ]
+  },
+  {
+   "id": "eny_0112_jzmonk",
+   "name": {
+    "en": "Rockhowler",
+    "zh-TW": "山犼獸",
+    "zh-CN": "山犼兽",
+    "ja": "山吼獣",
+    "ko": "록하울러"
    },
    "class": "0",
    "resist": {
     "physical": 20,
     "heat": 20,
-    "electric": 0,
-    "cryo": 0,
-    "nature": 20
+    "electric": 20,
+    "cryo": 20,
+    "nature": 0
    },
    "areas": [
-    "distribution_map02_lv001",
-    "distribution_map02_lv002",
-    "distribution_world_energy_point08"
+    "distribution_map02_lv006",
+    "distribution_map02_lv010",
+    "distribution_world_energy_point09"
    ]
   },
   {
@@ -2140,46 +2110,24 @@
    ]
   },
   {
-   "id": "eny_0119_kltiger",
+   "id": "eny_0114_jzmking",
    "name": {
-    "en": "Rakerbeast Blightshade",
-    "zh-TW": "蝕影彪獸",
-    "zh-CN": "蚀影彪兽",
-    "ja": "彪獣の蝕影",
-    "ko": "그림자에 물든 레이커비스트"
-   },
-   "class": "1",
-   "resist": {
-    "physical": 20,
-    "heat": 0,
-    "electric": 35,
-    "cryo": 0,
-    "nature": 0
-   },
-   "areas": [
-    "distribution_map02_lv008",
-    "distribution_world_energy_point10"
-   ]
-  },
-  {
-   "id": "eny_0120_klbear",
-   "name": {
-    "en": "Blitzcrash Blightshade",
-    "zh-TW": "蝕影噪雷",
-    "zh-CN": "蚀影噪雷",
-    "ja": "噪雷の蝕影",
-    "ko": "그림자에 물든 진뢰"
+    "en": "Craghowler",
+    "zh-TW": "巨山犼獸",
+    "zh-CN": "巨山犼兽",
+    "ja": "大山吼獣",
+    "ko": "거대한 록하울러"
    },
    "class": "4",
    "resist": {
     "physical": 20,
-    "heat": 0,
-    "electric": 35,
-    "cryo": 0,
+    "heat": 20,
+    "electric": 20,
+    "cryo": 20,
     "nature": 0
    },
    "areas": [
-    "distribution_map02_lv008"
+    "distribution_map02_lv006"
    ]
   },
   {
@@ -2204,19 +2152,19 @@
    ]
   },
   {
-   "id": "eny_0121_klbud",
+   "id": "eny_0117_klhound",
    "name": {
-    "en": "YSTF Vanguard Blightshade",
-    "zh-TW": "蝕影應龍前鋒",
-    "zh-CN": "蚀影应龙前锋",
-    "ja": "応龍先鋒の蝕影",
-    "ko": "그림자에 물든 응룡 대원 · 선봉"
+    "en": "Tuskbeast Blightshade",
+    "zh-TW": "蝕影牙獸",
+    "zh-CN": "蚀影牙兽",
+    "ja": "牙獣の蝕影",
+    "ko": "그림자에 물든 터스크비스트"
    },
    "class": "0",
    "resist": {
     "physical": 20,
     "heat": 0,
-    "electric": 0,
+    "electric": 35,
     "cryo": 0,
     "nature": 0
    },
@@ -2228,13 +2176,35 @@
    ]
   },
   {
-   "id": "eny_0124_kltdcap",
+   "id": "eny_0118_klhog",
    "name": {
-    "en": "YSTF Captain Blightshade",
-    "zh-TW": "蝕影應龍隊長",
-    "zh-CN": "蚀影应龙队长",
-    "ja": "応龍隊長の蝕影",
-    "ko": "그림자에 물든 응룡 대장"
+    "en": "Quillbeast Blightshade",
+    "zh-TW": "蝕影球刺獸",
+    "zh-CN": "蚀影球刺兽",
+    "ja": "球刺獣の蝕影",
+    "ko": "그림자에 물든 프릭비스트"
+   },
+   "class": "3",
+   "resist": {
+    "physical": 20,
+    "heat": 0,
+    "electric": 35,
+    "cryo": 0,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map02_lv008",
+    "distribution_world_energy_point10"
+   ]
+  },
+  {
+   "id": "eny_0119_kltiger",
+   "name": {
+    "en": "Rakerbeast Blightshade",
+    "zh-TW": "蝕影彪獸",
+    "zh-CN": "蚀影彪兽",
+    "ja": "彪獣の蝕影",
+    "ko": "그림자에 물든 레이커비스트"
    },
    "class": "1",
    "resist": {
@@ -2246,29 +2216,95 @@
    },
    "areas": [
     "distribution_map02_lv008",
-    "distribution_world_energy_point11"
+    "distribution_world_energy_point10"
    ]
   },
   {
-   "id": "eny_0129_slwood",
+   "id": "eny_0123_klcap",
    "name": {
-    "en": "Woodcraft Slug",
-    "zh-TW": "蟲體樹傀",
-    "zh-CN": "虫体树傀",
-    "ja": "ムシ型ゴーレム",
-    "ko": "벌레 나무 골렘"
+    "en": "YSTF Glaiver Blightshade",
+    "zh-TW": "蝕影應龍破陣手",
+    "zh-CN": "蚀影应龙破阵手",
+    "ja": "応龍突撃兵の蝕影",
+    "ko": "그림자에 물든 응룡 대원 · 돌파"
    },
-   "class": "0",
+   "class": "1",
    "resist": {
-    "physical": 0,
+    "physical": 20,
     "heat": 0,
     "electric": 0,
     "cryo": 0,
     "nature": 0
    },
    "areas": [
-    "distribution_map02_lv009",
-    "distribution_world_energy_point12"
+    "distribution_map02_lv007",
+    "distribution_map02_lv008",
+    "distribution_world_energy_point11"
+   ]
+  },
+  {
+   "id": "eny_0125_fdcentur",
+   "name": {
+    "en": "Alleikhreos, Chiliarch",
+    "zh-TW": "阿萊克琉斯，千夫長",
+    "zh-CN": "阿莱克琉斯，千夫长",
+    "ja": "千人隊長アレイクレウス",
+    "ko": "알레이크레오스, 천부장"
+   },
+   "class": "2",
+   "resist": {
+    "physical": 20,
+    "heat": 20,
+    "electric": 20,
+    "cryo": 20,
+    "nature": 20
+   },
+   "areas": [
+    "distribution_map02_lv008"
+   ]
+  },
+  {
+   "id": "eny_0131_inkscroll",
+   "name": {
+    "en": "Scroll of Tactics",
+    "zh-TW": "用奇",
+    "zh-CN": "用奇",
+    "ja": "奇用",
+    "ko": "용기"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": 0,
+    "electric": 20,
+    "cryo": 20,
+    "nature": 0
+   },
+   "areas": [
+    "distribution_map02_lv010",
+    "distribution_world_energy_point13"
+   ]
+  },
+  {
+   "id": "eny_0132_inkkirin",
+   "name": {
+    "en": "Simmer's Purge",
+    "zh-TW": "解燥",
+    "zh-CN": "解燥",
+    "ja": "解燥",
+    "ko": "해조"
+   },
+   "class": "3",
+   "resist": {
+    "physical": 0,
+    "heat": 20,
+    "electric": 20,
+    "cryo": 20,
+    "nature": 20
+   },
+   "areas": [
+    "distribution_map02_lv010",
+    "distribution_world_energy_point13"
    ]
   },
   {
@@ -2292,6 +2328,72 @@
     "distribution_map02_lv010",
     "distribution_world_energy_point13"
    ]
+  },
+  {
+   "id": "eny_0160_mushro",
+   "name": {
+    "en": "Shroomkrusher Sporeknuckles",
+    "zh-TW": "碾菇破城者",
+    "zh-CN": "碾菇破城者",
+    "ja": "キノコクラッシャーの攻城者",
+    "ko": "머쉬룸 크러셔 파괴자"
+   },
+   "class": "1",
+   "resist": {
+    "physical": 0,
+    "heat": -20,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 35
+   },
+   "areas": [
+    "distribution_map02_lv011",
+    "distribution_world_energy_point14"
+   ]
+  },
+  {
+   "id": "eny_0159_mushman",
+   "name": {
+    "en": "Bolete Prince",
+    "zh-TW": "儲菌",
+    "zh-CN": "储菌",
+    "ja": "キノコウ太子",
+    "ko": "버섯 왕자"
+   },
+   "class": "1",
+   "resist": {
+    "physical": 0,
+    "heat": -20,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 35
+   },
+   "areas": [
+    "distribution_map02_lv011",
+    "distribution_world_energy_point14"
+   ]
+  },
+  {
+   "id": "eny_0161_mushshd",
+   "name": {
+    "en": "Shroomkrusher Sporeguard",
+    "zh-TW": "碾菇先鋒",
+    "zh-CN": "碾菇先锋",
+    "ja": "キノコクラッシャーの先鋒",
+    "ko": "머쉬룸 크러셔 돌격수"
+   },
+   "class": "0",
+   "resist": {
+    "physical": 0,
+    "heat": -20,
+    "electric": 0,
+    "cryo": 0,
+    "nature": 20
+   },
+   "areas": [
+    "distribution_map02_lv011",
+    "distribution_world_energy_point14"
+   ]
   }
  ],
  "grades": [
@@ -2314,6 +2416,10 @@
   {
    "grade": "D",
    "taken": 1.0
+  },
+  {
+   "grade": "E",
+   "taken": 999.0
   }
  ],
  "terms": {

@@ -1,9 +1,9 @@
 ---
 title: "管理員"
 description: "管理員是玩家操作的主角，6 星物理近衛幹員，使用單手劍。"
-appliesTo: "《明日方舟：終末地》國際版，1.6 版；技能文字與數值出自遊戲資料 1.6"
+appliesTo: "《明日方舟：終末地》國際版，1.7 版；技能文字與數值出自遊戲資料 1.7"
 caveat: "管理員是玩家操作的主角，不在任何尋訪名單內。官方幹員列表的兩筆管理員是同一名幹員。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-01-22
 aliases:
   - "Endministrator"
@@ -16,10 +16,10 @@ art:
 sources:
   - title: "官方幹員列表 (Gryphline)"
     url: https://endfield.gryphline.com/en-us/operator
-  - title: "warfarin.wiki 管理員頁（遊戲資料 1.6）"
+  - title: "warfarin.wiki 管理員頁（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/operators/endministrator
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Endministrator 頁"
     url: https://endfield.wiki.gg/wiki/Endministrator
 ---

@@ -62,7 +62,7 @@ def all_names():
     return names
 
 
-ED = os.path.join(ROOT, 'cache', 'third', 'ed', 'd847759f71d4549aba4727b3b0ac1a1ad0e37742')
+ED = os.path.join(ROOT, 'cache', 'third', 'ed', '887923b9e56e132f2570a25e8c2cf5e971508736')
 
 
 def _strip(s):

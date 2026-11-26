@@ -1,10 +1,10 @@
 ---
 title: "포그라니치니크"
 description: "포그라니치니크는 한손검을 사용하는 6성 물리 속성 뱅가드 오퍼레이터로, 상시 헤드헌팅 명단에 있다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "포그라니치니크는 확률 증가 대상이었던 적이 없다. 포그라니치니크는 모든 특별 허가 헤드헌팅 명단에 포함되는 상시 6성 오퍼레이터 5명 중 1명이다."
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-28
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Pogranichnik"
   - "駿衛"
@@ -22,10 +22,14 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3839
   - title: "「선조의 샘의 새로운 물결」 재구축 헤드헌팅#1 안내"
     url: https://endfield.gryphline.com/en-us/news/6179
-  - title: "warfarin.wiki, 포그라니치니크(게임 데이터 1.6)"
+  - title: "「떠도는 모든 소망에게」 재구축 헤드헌팅#1 안내"
+    url: https://endfield.gryphline.com/en-us/news/8992
+  - title: "「붉은색의 진주」 재구축 헤드헌팅#1 안내"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki, 포그라니치니크(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/pogranichnik
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Pogranichnik"
     url: https://endfield.wiki.gg/wiki/Pogranichnik
 ---
@@ -63,6 +67,8 @@ sources:
 | 찬란한 빛의 축제 | 특수 헤드헌팅 | 6성 오퍼레이터 4명 중 1명 | 2026-05-14 12:00 | 1.3 버전 업데이트(2026-06-05) |
 | 찬란한 색채 | 재구축 헤드헌팅#1 | 명단에 포함 | 2026-09-24 12:00 | 1.6 버전 업데이트(2026-10-15) |
 | 선조의 샘의 새로운 물결 | 재구축 헤드헌팅#1 | 명단에 포함 | 2026-10-29 12:00 | 2026-11-19 11:59 |
+| 떠도는 모든 소망에게 | 재구축 헤드헌팅#1 | 명단에 포함 | 1.7 버전 업데이트(2026-11-25) | 2026-12-16 11:59 |
+| 붉은색의 진주 | 재구축 헤드헌팅#1 | 명단에 포함 | 2026-12-16 12:00 | 1.7 버전 종료 |
 
 「찬란한 빛의 축제」의 6성 오퍼레이터는 레바테인, 질베르타, 아델리아와 포그라니치니크뿐이었다. 천장 카운트는 다른 모든 헤드헌팅과 별도였고, 이 헤드헌팅에서 120회 뽑으면 4명 중 1명을 고를 수 있는 선택권을 받았다.
 

@@ -20,8 +20,9 @@ def walk(node, out):
     if isinstance(node, dict):
         if 'zh-TW' in node and 'zh-CN' in node and isinstance(node['zh-TW'], str):
             out.add((node['zh-TW'], node['zh-CN']))
-        for v in node.values():
-            walk(v, out)
+        for k, v in node.items():
+            if k not in ('effect', 'text'):  # the game's own text: gear set effects, base-skill levels
+                walk(v, out)
     elif isinstance(node, list):
         for v in node:
             walk(v, out)
@@ -30,7 +31,9 @@ def walk(node, out):
 def main():
     pairs = set()
     for path in glob.glob(os.path.join(ROOT, 'records', '**', '*.json'), recursive=True):
-        if path.endswith('names-voc.json'):
+        # The game's own text (story/, gametext/) is not a name: to-zh-cn.py takes the game's
+        # Simplified text for it whole.
+        if path.endswith('names-voc.json') or os.sep + 'story' + os.sep in path or os.sep + 'gametext' + os.sep in path:
             continue
         walk(json.load(open(path, encoding='utf8')), pairs)
     voc = sorted(((tw, cn) for tw, cn in pairs if cc.convert(tw) != cn and tw and cn), key=lambda p: -len(p[0]))

@@ -1,10 +1,10 @@
 ---
 title: 武庫申領與基質
 description: 《明日方舟：終末地》的武器抽卡武庫申領，以及武器基質、基質蝕刻與冷卻脂。
-appliesTo: 《明日方舟：終末地》國際版，1.6 版
+appliesTo: 《明日方舟：終末地》國際版，1.7 版
 caveat: 一般武庫申領在從開啟時那一期起算的第 3 期特許尋訪結束時關閉，因此同時會有數個申領開放；無瑕基質無法分解，基質達到 2,000 個後無法再拾取。
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Arsenal and Essences
   - 武库申领与基质
@@ -55,6 +55,12 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/0751
   - title: "「輝光慶典」特殊尋訪說明"
     url: https://endfield.gryphline.com/en-us/news/7024
+  - title: 「穿越甚大蘑境與你相逢」版本更新說明
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: 「恣遊申領」限時特賣說明
+    url: https://endfield.gryphline.com/en-us/news/2659
+  - title: 「致每一個飄遊之願」重構尋訪#1與「飄行申領」重構申領#1開放
+    url: https://endfield.gryphline.com/en-us/news/8992
   - title: Endfield Talos Wiki 的 Arsenal Exchange 頁（花費、機率、價格、保底）
     url: https://endfield.wiki.gg/wiki/Arsenal_Exchange
   - title: "Endfield Talos Wiki 的 Headhunting 頁"
@@ -63,7 +69,7 @@ sources:
     url: https://endfield.wiki.gg/wiki/Essence
   - title: Endfield Talos Wiki 的 Coolant Gel 頁（2026-11-21 讀取）
     url: https://endfield.wiki.gg/wiki/Coolant_Gel
-  - title: 遊戲內教學「基質」（warfarin.wiki，遊戲資料 1.6）
+  - title: 遊戲內教學「基質」（warfarin.wiki，遊戲資料 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_weapon_gem
   - title: NGA 論壇討論串：基質存放上限
     url: https://bbs.nga.cn/read.php?tid=47943821
@@ -140,15 +146,18 @@ sources:
 | 明曜申領 | 武庫申領 | 曜夜的首演（長柄武器） | 2026-08-09 12:00 | 自晨星於此閃耀起第 3 期特許尋訪：萬物更新 |
 | 幽寒申領 | 武庫申領 | 寒夜幽影（施術單元） | 1.5 版更新後 | 自冬獵起第 3 期特許尋訪：煙火邀星河 |
 | 點繪申領 | 重構申領#1 | 藝術暴君（手銃） | 2026-09-24 12:00 | 1.6 版更新維護 |
-| 篆玉申領 | 武庫申領 | 玉中身（雙手劍） | 1.6 版更新後 | 自萬物更新起第 3 期特許尋訪 |
+| 篆玉申領 | 武庫申領 | 玉中身（雙手劍） | 1.6 版更新後 | 自萬物更新起第 3 期特許尋訪：鍛砧、行囊與蜜糖 |
 | 細枝申領 | 重構申領#1 | 落草（手銃） | 2026-10-29 12:00 | 2026-11-19 11:59 |
 | 月映申領 | 武庫申領 | 喚月（單手劍） | 2026-11-05 12:00 | 自煙火邀星河起第 3 期特許尋訪 |
+| 恣遊申領 | 武庫申領 | 甜美交易（長柄武器） | 1.7 版更新後 | 自鍛砧、行囊與蜜糖起第 3 期特許尋訪 |
+| 飄行申領 | 重構申領#1 | 使命必達（施術單元） | 1.7 版更新後 | 2026-12-16 11:59 |
+| 赤獠申領 | 重構申領#1 | 狼之緋（單手劍） | 2026-12-16 12:00 | 1.7 版結束 |
 
 
 
 ## 重構申領
 
-重構申領自 1.5 版開始。每個重構申領都讓較早申領的機率提升武器再次登場，6 星武器卡池也相同：「點繪申領」沿用「繪塗申領」的卡池，「細枝申領」沿用「新芽申領」的卡池。兩者都與一場重構尋訪同時開放，其幹員的特許尋訪當初正是與原本的申領一同開啟：伊馮（「絢麗異彩」）與湯湯（「祖泉的新流」）。
+重構申領自 1.5 版開始。每個重構申領都讓較早申領的機率提升武器再次登場，6 星武器卡池也相同：「點繪申領」沿用「繪塗申領」的卡池，「細枝申領」沿用「新芽申領」的卡池，「飄行申領」沿用「迅行申領」的卡池，「赤獠申領」沿用「緋珀申領」的卡池。每個都與一場重構尋訪同時開放，其幹員的特許尋訪當初正是與原本的申領一同開啟：伊馮（「絢麗異彩」）、湯湯（「祖泉的新流」）、潔爾佩塔（「致每一個飄遊之願」）與洛西（「緋紅瑰寶」）。
 
 ## 熔灼申領與疾行申領
 

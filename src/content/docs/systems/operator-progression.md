@@ -1,27 +1,27 @@
 ---
 title: Operator progression
 description: "Arknights: Endfield operator promotion costs up to level 90, plus skill levels, talents and potentials."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; all 34 operators"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; all 35 operators"
 caveat: "Promotions I to III cost the same for every operator. Promotion IV differs only in which rare material and which fungus it takes, and that follows the operator, not the rarity: a 4-star pays the same 100,000 T-Creds and 36 Protosets as a 6-star."
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-05
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 幹員養成
   - 干员养成
   - オペレーター育成
   - 오퍼레이터 육성
 sources:
-  - title: "warfarin.wiki, operator pages (promotions, talents, skills, potentials in game data 1.6)"
+  - title: "warfarin.wiki, operator pages (promotions, talents, skills, potentials in game data 1.7)"
     url: https://warfarin.wiki/en/operators
-  - title: "warfarin.wiki, Laevatain (attribute texts and skill multipliers, game data 1.6)"
+  - title: "warfarin.wiki, Laevatain (attribute texts and skill multipliers, game data 1.7)"
     url: https://warfarin.wiki/en/operators/laevatain
-  - title: "warfarin.wiki, tutorial Operator Upgrades (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Operator Upgrades (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_char_levelup
-  - title: "warfarin.wiki, tutorial Ability Matrix (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Ability Matrix (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_talent_tree
-  - title: "warfarin.wiki, tutorial Operator Attributes (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Operator Attributes (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_attribute
-  - title: "warfarin.wiki, tutorial Operator Potential (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Operator Potential (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_potential
   - title: "Endfield Talos Wiki, Operator (level costs, skill ranks, Ability Matrix nodes)"
     url: https://endfield.wiki.gg/wiki/Operator
@@ -35,11 +35,13 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: "Sanctuary of Ink Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: Meeting You in the World o'Shrooms Version Update Notes
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## Levels and promotion
 
-An operator reaches level 90 through four promotions, which raise the level cap to 40, 60, 80 and 90. Promotions I to III take the same materials for all 34 operators; Promotion IV takes Protoset ×36, T-Creds ×100,000, 20 of one rare material and 8 of one fungus, and only those two items change from operator to operator. Rarity changes none of the costs.
+An operator reaches level 90 through four promotions, which raise the level cap to 40, 60, 80 and 90. Promotions I to III take the same materials for all 35 operators; Promotion IV takes Protoset ×36, T-Creds ×100,000, 20 of one rare material and 8 of one fungus, and only those two items change from operator to operator. Rarity changes none of the costs.
 
 ## Level caps and promotion materials
 
@@ -67,7 +69,7 @@ Level 1 to 90 with all four promotions therefore takes 1,792,290 EXP and T-Creds
 
 ## Promotion IV materials of every operator
 
-Six rare materials and three fungi share out the 34 operators. Metadiastima Photoemission Tube serves 8 operators, Triphasic Nanoflake 7, Tachyon Screening Lattice, Quadrant Fitting Fluid and D96 Steel Sample 4 six each, and Warp Plasma-Coated Slide only Si. Cosmagaric serves 15, Bloodcap 14 and Talos Cap 5. Talos Cap came with Version 1.4 as a new promotion material, and Warp Plasma-Coated Slide with Version 1.6 as a new rare progression material.
+Six rare materials and three fungi share out the 35 operators. Metadiastima Photoemission Tube serves 9 operators, Triphasic Nanoflake 7, Tachyon Screening Lattice, Quadrant Fitting Fluid and D96 Steel Sample 4 six each, and Warp Plasma-Coated Slide only Si. Cosmagaric serves 15, Bloodcap 15 and Talos Cap 5. Talos Cap came with Version 1.4 as a new promotion material, and Warp Plasma-Coated Slide with Version 1.6 as a new rare progression material.
 
 | Operator | Rarity | Rare material ×20 | Fungus ×8 |
 | --- | --- | --- | --- |
@@ -78,6 +80,7 @@ Six rare materials and three fungi share out the 34 operators. Metadiastima Phot
 | [Ember](/operators/ember/) | 6-star | D96 Steel Sample 4 | Cosmagaric |
 | [Endministrator](/operators/endministrator/) | 6-star | Metadiastima Photoemission Tube | Bloodcap |
 | [Gilberta](/operators/gilberta/) | 6-star | Tachyon Screening Lattice | Bloodcap |
+| [Kay](/operators/kay/) | 6-star | Metadiastima Photoemission Tube | Bloodcap |
 | [Laevatain](/operators/laevatain/) | 6-star | D96 Steel Sample 4 | Cosmagaric |
 | [Last Rite](/operators/last-rite/) | 6-star | Triphasic Nanoflake | Bloodcap |
 | [Lifeng](/operators/lifeng/) | 6-star | Metadiastima Photoemission Tube | Bloodcap |

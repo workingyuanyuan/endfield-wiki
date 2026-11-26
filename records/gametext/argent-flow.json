@@ -1,7 +1,7 @@
 {
  "slug": "argent-flow",
  "gameId": "chr_0037_minghe",
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "intro": {
   "en": "\"Suited up and ready. There will be no holding back.\"\nArgent Flow, Imperial Guard of Yan and Captain of Pacified Skies of Hongshan Academy of Sciences. With sword in hand, he spurs his galloper, Nuli, forward like a bolt of lightning across the northern front lines, leaving countless legends in his wake. Yet beyond the legends, he is not nearly as aloof as people make him out to be. As he journeys across mountains and rivers, he never hesitates to lend a hand whenever he encounters someone in need, no matter how small the matter.\nHe rarely speaks of the past, yet old tales still linger on people's lips: it was you who changed how he wields his sword.\nBody of steel, heart of soul. The answer you gave him has illuminated his path through the long night. From here on, he will continue to serve under Tianshi Tan and journey across Talos-II to solve whatever disasters may arise. Sword in hand, he will walk alongside Endfield and carve a path for civilization, until the lights of every home can shine undisturbed by calamity.\n\"When you need to make a hard decision, I will be at your side. You can have full faith in our bond.\"",
   "zh-TW": "「執銳披堅，就不講點到為止了。」\n炎國禁軍，宏山科學院靖天都尉夜明河，執開天劍勢，與他的馳獸怒驪奔若驚雷，馳騁北方前線，留下傳說無數。然而傳說之外的他，卻並不像人們口中那般不近人情。行過山川，遇見尋常小事，他總願意伸手相助。\n他鮮少提及往事，舊日傳聞卻仍留在人們口中：他的劍勢，正是因你改變。\n此身為劍，心不為鋒。你曾給他的答案，已照亮漫漫長夜。往後，他仍將在談天師麾下為塔衛二奔走，解決種種危難；也將執劍與終末地同行，為文明開闢前路，直到萬家燈火不再受災厄侵擾。\n「當下決斷之時，我一定會在您身邊，您大可相信你我之間的默契。」",
@@ -42,7 +42,7 @@
     "zh-TW": "明河橫掃長槍對周圍的敵人造成物理傷害，並對身前目標造成擊飛。\n明河施放連攜技後，戰技替換為奔霆。\n奔霆：明河騎上怒驪騰躍而起，進行短暫蓄力後朝目標衝刺，對身前大範圍區域內的敵人強制施加導電並造成電磁傷害。施加導電時，如果目標處於電磁附著狀態，將消耗目標全部電磁附著，每消耗1層使本次導電的異常等級+1。在消耗目標的電磁附著後，明河還會對目標額外施加1層破防。",
     "zh-CN": "明河横扫长枪对周围的敌人造成物理伤害，并对身前目标造成击飞。\n明河施放连携技后，战技替换为奔霆。\n奔霆：明河骑上怒骊腾跃而起，进行短暂蓄力后朝目标冲刺，对身前大范围区域内的敌人强制施加导电并造成电磁伤害。施加导电时，如果目标处于电磁附着状态，将消耗目标全部电磁附着，每消耗1层使本次导电的异常等级+1。在消耗目标的电磁附着后，明河还会对目标额外施加1层破防。",
     "ja": "槍を振り周囲の敵に物理ダメージを与え、前方の目標に浮遊効果を与える。\n連携技を発動すると、戦技が奔雷に替わる。\n奔雷：怒驪に飛び乗って短時間チャージしたあと、目標に向かって突進する。前方の広範囲の敵を強制的に感電状態にし、電磁ダメージを与える。感電状態にするとき、目標が電磁付着状態の場合、目標のすべての電磁付着を消費する。消費する段階1につき、そのとき与える感電の異常段階が+1になる。目標の電磁付着を消費すると、目標に追加でクラッシュを1段階付与する。",
-    "ko": "명하가 장창을 휘둘러 주변의 적에게 물리 피해를 주고, 전방의 적에게 띄우기 피해를 줍니다.\n명하가 연계 스킬을 사용하면 배틀 스킬이 질주하는 천둥으로 변경됩니다.\n질주하는 천둥: 명하가 노여에 올라타 공중으로 점프한 뒤, 잠시 차지하여 적을 향해 돌진합니다. 전방의 넓은 범위에 있는 적에게 강제로 감전을 부여하고 전기 피해를 줍니다. 감전을 부여할 때 적이 전기 부착 상태이면 전기 부착을 모두 소모해, 1스택을 소모할 때마다 이번에 부여하는 감전의 이상 레벨 +1. 적의 전기 부착을 소모하는 데 성공하면 추가로 적에게 방어 불능 1스택을 부여합니다."
+    "ko": "명하가 장창을 휘둘러 주변의 적에게 물리 피해를 주고, 전방의 적에게 띄우기 피해를 줍니다.\n명하가 연계 스킬을 사용하면 배틀 스킬이 질주하는 천둥으로 변경됩니다.\n질주하는 천둥: 명하가 노여에 올라타 공중으로 점프한 뒤, 잠시 차지하여 적을 향해 돌진합니다. 전방의 넓은 범위에 있는 적에게 강제로 감전을 부여하고 전기 피해를 줍니다. 감전을 부여할 때 적이 전기 부착 상태이면 적의 전기 부착을 모두 소모합니다. 1스택을 소모할 때마다 이번에 부여하는 감전의 이상 레벨 +1. 적의 전기 부착을 소모하면 추가로 적에게 방어 불능 1스택을 부여합니다."
    },
    "conditions": []
   },
@@ -99,7 +99,7 @@
       "en": "When Argent Flow applies Electrification, this Electrification also increases all types of DMG Taken of the target for the same duration, and he also applies Sunderization stack(s) on the target, the number of stacks is equal to the Electrification Status Level and maxes out at 12. Sunderization lasts for 60s.\nWhen dealing Crush DMG to a target with Sunderization, this Crush DMG is increased to 1.2 times the original and detonates all Sunderization stacks. The explosion deals [Number of Sunderization stacks × 220% ATK] of Electric DMG to the target and 40% of that DMG to other enemies near the said target.\nWhen the explosion DMG of Sunderization is dealt to another enemy with Sunderization, it also detonates all Sunderization stacks of that enemy.",
       "zh-TW": "明河施加導電時，本次導電效果使目標受到的所有類型傷害都得到提升，並對目標施加殷雷，層數等同於本次導電的異常等級，最多可疊加12層，殷雷狀態持續60秒。\n處於殷雷狀態的目標受到猛擊傷害時，本次猛擊傷害提升至原本的1.2倍，同時引爆目標的所有殷雷，對目標造成[殷雷層數×220%攻擊力]的電磁傷害，對目標周圍其他敵人只造成40%傷害。\n當殷雷傷害波及其他處於殷雷狀態的敵人時，會同時引爆該敵人身上所有殷雷。",
       "zh-CN": "明河施加导电时，本次导电效果使目标受到的所有类型伤害都得到提高，并对目标施加殷雷，层数等同于本次导电的异常等级，最多可叠加12层，殷雷状态持续60秒。\n处于殷雷状态的目标受到猛击伤害时，本次猛击伤害提升至原本的1.2倍，同时引爆目标的所有殷雷，对目标造成[殷雷层数×220%攻击力]的电磁伤害，对目标周围其他敌人只造成40%伤害。\n当殷雷伤害波及其他处于殷雷状态的敌人时，会同时引爆该敌人身上所有殷雷。",
-      "ja": "ミンホが感電状態を付与したとき、この感電効果は目標が受ける全種類のダメージをアップし、さらに目標に雷勢を付与する\n段階数はそのとき与えた感電の異常段階と同じで、最大12段階まで重ね掛け可能\n雷勢状態は60秒間持続する\n雷勢状態の目標が猛撃ダメージを受けるとき、その猛撃ダメージが1.2倍までアップし、同時に目標のすべての雷勢を起爆し、目標に［雷勢段階数×攻撃力の220%］の電磁ダメージを与える\n目標の周囲にいる他の敵には、その40%分のダメージのみを与える\n雷勢ダメージが他の雷勢状態の敵に及んだ場合、その敵に付与されているすべての雷勢も同時に起爆する",
+      "ja": "ミンホが感電状態を付与したとき、この感電効果は目標が受ける全種類のダメージをアップし、さらに目標に雷勢を付与する\n雷勢の段階数はそのとき与えた感電の異常段階と同じで、最大12段階まで重ね掛け可能\n雷勢状態は60秒間持続する\n雷勢状態の目標が猛撃ダメージを受けるとき、その猛撃ダメージが1.2倍までアップし、同時に目標のすべての雷勢を起爆し、目標に［雷勢段階数×攻撃力の220%］の電磁ダメージを与える\n目標の周囲にいる他の敵には、その40%分のダメージのみを与える\n雷勢ダメージが他の雷勢状態の敵に及んだ場合、その敵に付与されているすべての雷勢も同時に起爆する",
       "ko": "명하가 감전을 부여할 때, 이번 감전 효과로 적이 받는 모든 유형 피해가 증가하며, 부여한 감전의 이상 레벨과 동일한 스택 수치만큼 적에게 우레를 부여합니다. 우레는 최대 12스택까지 중첩되며, 우레 상태는 60초 동안 지속.\n우레 상태인 적이 강타 피해를 받으면 해당 강타 피해가 기존의 1.2배로 증가합니다. 동시에 적의 모든 우레를 폭발시켜 적에게 [우레 스택 수치×220% 공격력]만큼의 전기 피해를 주며, 목표 주변의 다른 적에게는 40%의 피해만 줍니다.\n우레 피해가 우레 상태인 다른 적에게까지 미치면, 해당 적에게 부여된 모든 우레도 동시에 폭발합니다."
      }
     },
@@ -109,7 +109,7 @@
       "en": "When Argent Flow applies Electrification, this Electrification also increases all types of DMG Taken of the target for the same duration, and he also applies Sunderization stack(s) on the target, the number of stacks is equal to the Electrification Status Level and maxes out at 12. Sunderization lasts for 60s.\nWhen dealing Crush DMG to a target with Sunderization, this Crush DMG is increased to 1.2 times the original and detonates all Sunderization stacks. The explosion deals [Number of Sunderization stacks × 330% ATK] of Electric DMG to the target and 40% of that DMG to other enemies near the said target.\nWhen the explosion DMG of Sunderization is dealt to another enemy with Sunderization, it also detonates all Sunderization stacks of that enemy.",
       "zh-TW": "明河施加導電時，本次導電效果使目標受到的所有類型傷害都得到提升，並對目標施加殷雷，層數等同於本次導電的異常等級，最多可疊加12層，殷雷狀態持續60秒。\n處於殷雷狀態的目標受到猛擊傷害時，本次猛擊傷害提升至原本的1.2倍，同時引爆目標的所有殷雷，對目標造成[殷雷層數×330%攻擊力]的電磁傷害，對目標周圍其他敵人只造成40%傷害。\n當殷雷傷害波及其他處於殷雷狀態的敵人時，會同時引爆該敵人身上所有殷雷。",
       "zh-CN": "明河施加导电时，本次导电效果使目标受到的所有类型伤害都得到提高，并对目标施加殷雷，层数等同于本次导电的异常等级，最多可叠加12层，殷雷状态持续60秒。\n处于殷雷状态的目标受到猛击伤害时，本次猛击伤害提升至原本的1.2倍，同时引爆目标的所有殷雷，对目标造成[殷雷层数×330%攻击力]的电磁伤害，对目标周围其他敌人只造成40%伤害。\n当殷雷伤害波及其他处于殷雷状态的敌人时，会同时引爆该敌人身上所有殷雷。",
-      "ja": "ミンホが感電状態を付与したとき、この感電効果は目標が受ける全種類のダメージをアップし、さらに目標に雷勢を付与する\n段階数はそのとき与えた感電の異常段階と同じで、最大12段階まで重ね掛け可能\n雷勢状態は60秒間持続する\n雷勢状態の目標が猛撃ダメージを受けるとき、その猛撃ダメージが1.2倍までアップし、同時に目標のすべての雷勢を起爆し、目標に［雷勢段階数×攻撃力の330%］の電磁ダメージを与える\n目標の周囲にいる他の敵には、その40%分のダメージのみを与える\n雷勢ダメージが他の雷勢状態の敵に及んだ場合、その敵に付与されているすべての雷勢も同時に起爆する",
+      "ja": "ミンホが感電状態を付与したとき、この感電効果は目標が受ける全種類のダメージをアップし、さらに目標に雷勢を付与する\n雷勢の段階数はそのとき与えた感電の異常段階と同じで、最大12段階まで重ね掛け可能\n雷勢状態は60秒間持続する\n雷勢状態の目標が猛撃ダメージを受けるとき、その猛撃ダメージが1.2倍までアップし、同時に目標のすべての雷勢を起爆し、目標に［雷勢段階数×攻撃力の330%］の電磁ダメージを与える\n目標の周囲にいる他の敵には、その40%分のダメージのみを与える\n雷勢ダメージが他の雷勢状態の敵に及んだ場合、その敵に付与されているすべての雷勢も同時に起爆する",
       "ko": "명하가 감전을 부여할 때, 이번 감전 효과로 적이 받는 모든 유형 피해가 증가하며, 부여한 감전의 이상 레벨과 동일한 스택 수치만큼 적에게 우레를 부여합니다. 우레는 최대 12스택까지 중첩되며, 우레 상태는 60초 동안 지속.\n우레 상태인 적이 강타 피해를 받으면 해당 강타 피해가 기존의 1.2배로 증가합니다. 동시에 적의 모든 우레를 폭발시켜 적에게 [우레 스택 수치×330% 공격력]만큼의 전기 피해를 주며, 목표 주변의 다른 적에게는 40%의 피해만 줍니다.\n우레 피해가 우레 상태인 다른 적에게까지 미치면, 해당 적에게 부여된 모든 우레도 동시에 폭발합니다."
      }
     }
@@ -162,7 +162,7 @@
     "zh-TW": "天賦掣電橫天效果加強：處於殷雷狀態的目標受到猛擊時，本次猛擊的傷害提升至原本的1.4倍，引爆殷雷對目標周圍其他敵人的傷害提升至50%。",
     "zh-CN": "天赋掣电横天效果加强：处于殷雷状态的目标受到猛击时，本次猛击的伤害提升至原本的1.4倍，引爆殷雷对目标周围其他敌人的伤害提升至50%。",
     "ja": "素質「天奔る稲妻」強化：雷勢状態の目標が猛撃を受けるとき、その猛撃のダメージが1.4倍までアップする\nさらに雷勢を起爆し、目標の周囲にいる他の敵へのダメージが50%までアップする",
-    "ko": "재능 하늘을 가르는 번개 효과 강화: 우레 상태인 목표가 강타 피해를 받을 때, 해당 강타의 피해가 기존의 1.4배로 증가하며, 우레 폭발이 목표 주변의 다른 적에게 주는 피해가 50%까지 증가합니다."
+    "ko": "재능 하늘을 가르는 번개 효과 강화: 우레 상태인 목표가 강타 피해를 받을 때, 해당 강타 피해가 기존의 1.4배로 증가하며, 우레 폭발이 목표 주변의 다른 적에게 주는 피해가 50%로 증가합니다."
    }
   },
   {
@@ -230,7 +230,7 @@
     "zh-TW": "天賦霆曦宴夜效果加強：施放戰技奔霆時，全隊源石技藝強度額外+15。\n自身每點源石技藝強度對殷雷引爆傷害的提升效果提升至原本的1.2倍。",
     "zh-CN": "天赋霆曦宴夜效果加强：施放战技奔霆时，全队源石技艺强度额外+15。\n自身每点源石技艺强度对殷雷引爆伤害的提升效果提升至原本的1.2倍。",
     "ja": "素質「春雷に捧ぐ宴」強化：戦技「奔雷」を発動するとき、チーム全員のアーツ強度がさらに+15\n自身のアーツ強度1につき、雷勢の起爆ダメージUP効果が1.2倍までアップする",
-    "ko": "재능 번개의 향연 효과 강화: 배틀 스킬 질주하는 천둥 사용 시, 팀 전체의 오리지늄 아츠 강도가 추가로 +15.\n자신의 오리지늄 아츠 강도 1포인트마다 적용되는 우레 폭발 피해의 증가 효과가 기존의 1.2배로 증가합니다."
+    "ko": "재능 번개의 향연 효과 강화: 배틀 스킬 질주하는 천둥 사용 시, 팀 전체의 오리지늄 아츠 강도 추가로 +15\n자신의 오리지늄 아츠 강도 1포인트마다 적용되는 우레 폭발 피해의 증가 효과가 기존의 1.2배로 증가합니다."
    }
   }
  ]

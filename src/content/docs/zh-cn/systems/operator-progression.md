@@ -1,27 +1,27 @@
 ---
 title: 干员养成
 description: "《明日方舟：终末地》干员精英化到 90 级的材料，以及技能等级、天赋与潜能。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；全部 34 名干员"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；全部 35 名干员"
 caveat: "精英化·一、精英化·二与精英化·三的材料，每名干员都相同。精英化·四只有珍贵材料与菌类的种类不同，而且依干员而定、与稀有度无关：4 星干员一样要 100,000 折金票与 36 个协议圆盘组。"
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-05
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Operator progression
   - 幹員養成
   - オペレーター育成
   - 오퍼레이터 육성
 sources:
-  - title: "warfarin.wiki 干员页（游戏数据 1.6 的精英化、天赋、技能、潜能）"
+  - title: "warfarin.wiki 干员页（游戏数据 1.7 的精英化、天赋、技能、潜能）"
     url: https://warfarin.wiki/en/operators
-  - title: "warfarin.wiki 莱万汀页（能力值说明与技能倍率，游戏数据 1.6）"
+  - title: "warfarin.wiki 莱万汀页（能力值说明与技能倍率，游戏数据 1.7）"
     url: https://warfarin.wiki/en/operators/laevatain
-  - title: "warfarin.wiki 教学：干员升级（游戏数据 1.6）"
+  - title: "warfarin.wiki 教学：干员升级（游戏数据 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_char_levelup
-  - title: "warfarin.wiki 教学：天赋阵列（游戏数据 1.6）"
+  - title: "warfarin.wiki 教学：天赋阵列（游戏数据 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_talent_tree
-  - title: "warfarin.wiki 教学：干员能力值（游戏数据 1.6）"
+  - title: "warfarin.wiki 教学：干员能力值（游戏数据 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_attribute
-  - title: "warfarin.wiki 教学：干员潜能（游戏数据 1.6）"
+  - title: "warfarin.wiki 教学：干员潜能（游戏数据 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_potential
   - title: "Endfield Talos Wiki 的 Operator 页（升级花费、技能等级、天赋阵列节点）"
     url: https://endfield.wiki.gg/wiki/Operator
@@ -35,11 +35,13 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: "「丹青渡」版本更新说明"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: 「穿越甚大蘑境与你相逢」版本更新说明
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 升级与精英化
 
-干员要经过四次精英化才能升到 90 级，等级上限依序提高到 40、60、80、90。精英化·一、精英化·二与精英化·三的材料，34 名干员完全相同；精英化·四需要协议圆盘组 ×36、折金票 ×100,000、某种珍贵材料 ×20 与某种菌类 ×8，只有这两种材料因干员而异。稀有度不影响任何花费。
+干员要经过四次精英化才能升到 90 级，等级上限依序提高到 40、60、80、90。精英化·一、精英化·二与精英化·三的材料，35 名干员完全相同；精英化·四需要协议圆盘组 ×36、折金票 ×100,000、某种珍贵材料 ×20 与某种菌类 ×8，只有这两种材料因干员而异。稀有度不影响任何花费。
 
 ## 等级上限与精英化材料
 
@@ -67,7 +69,7 @@ sources:
 
 ## 每名干员的精英化·四材料
 
-34 名干员分用六种珍贵材料与三种菌类。超距辉映管 8 名、三相纳米片 7 名，快子遴捡晶格、象限拟合液与 D96钢样品四各 6 名，跃迁浆体涂片只有祀使用。星门菌 15 名、血菌 14 名、塔罗斯菌 5 名。塔罗斯菌是 1.4 版新增的干员晋升材料，跃迁浆体涂片是 1.6 版新增的珍贵培养材料。
+35 名干员分用六种珍贵材料与三种菌类。超距辉映管 9 名、三相纳米片 7 名，快子遴捡晶格、象限拟合液与 D96钢样品四各 6 名，跃迁浆体涂片只有祀使用。星门菌 15 名、血菌 15 名、塔罗斯菌 5 名。塔罗斯菌是 1.4 版新增的干员晋升材料，跃迁浆体涂片是 1.6 版新增的珍贵培养材料。
 
 | 干员 | 稀有度 | 珍贵材料 ×20 | 菌类 ×8 |
 | --- | --- | --- | --- |
@@ -78,6 +80,7 @@ sources:
 | [余烬](/zh-cn/operators/ember/) | 6 星 | D96钢样品四 | 星门菌 |
 | [管理员](/zh-cn/operators/endministrator/) | 6 星 | 超距辉映管 | 血菌 |
 | [洁尔佩塔](/zh-cn/operators/gilberta/) | 6 星 | 快子遴捡晶格 | 血菌 |
+| [小刻](/zh-cn/operators/kay/) | 6 星 | 超距辉映管 | 血菌 |
 | [莱万汀](/zh-cn/operators/laevatain/) | 6 星 | D96钢样品四 | 星门菌 |
 | [别礼](/zh-cn/operators/last-rite/) | 6 星 | 三相纳米片 | 血菌 |
 | [黎风](/zh-cn/operators/lifeng/) | 6 星 | 超距辉映管 | 血菌 |

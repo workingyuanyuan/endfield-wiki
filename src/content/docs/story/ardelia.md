@@ -1,17 +1,17 @@
 ---
 title: "Ardelia's file"
 description: "Ardelia's 6 operator files and 81 voice lines."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "艾爾黛拉的檔案"
   - "艾尔黛拉的档案"
   - "アルデリアのプロファイル"
   - "아델리아의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -145,8 +145,8 @@ sources:
 | Operator Promotion 3 | Don't worry about me, Professor. I'm definitely not working too hard. Hmm? What about the dark circles around my eyes? Oh, uh ... the book was just too interesting. I couldn't help myself. | Promotion III |
 | Operator Promotion 4 | This world has so many mysteries to uncover. We should get to know it better just like ... like how we should learn more about ourselves. Don't you agree, Professor? | Promotion IV |
 | Operator Reporting for Duty | Greetings, Endministrator. The name's Ardelia and I'm a geologist from Rhodes Island. My current focus is the correlations between geological disasters and the Ætherside. I've heard about you for quite a while, Endmin, and I have so many questions for you. Oh, there's something else... Can I address you as my Professor? |  |
-| Standing by 1 | Stay sunny for this day as well, Professor. |  |
-| Standing by 2 | I heard your footsteps, Professor. |  |
+| Standing By 1 | Stay sunny for this day as well, Professor. |  |
+| Standing By 2 | I heard your footsteps, Professor. |  |
 | Assigning to Facility | Leave it to me, Professor. I'm hoping to try out something new as well. |  |
 | Greeting 1 | Professor, would you like to share this mille crêpe with me? |  |
 | Greeting 2 | Oh, I was just about to go look for you, Professor. | Reach trust: 300 |

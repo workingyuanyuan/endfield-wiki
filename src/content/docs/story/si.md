@@ -1,17 +1,17 @@
 ---
 title: "Si's file"
 description: "Si's 6 operator files, 82 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "祀的檔案"
   - "祀的档案"
   - "スーのプロファイル"
   - "사의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -145,8 +145,8 @@ sources:
 | Operator Promotion 3 | Ink Spirit, write down what the Endmin said. Every, single, word. HAS wants me to give a speech to the young Yinglungs. This'll come in handy. | Promotion III |
 | Operator Promotion 4 | You keep promoting me, but if you ever fail to do what you promised, I'm heading back to the inn. Keep your matters separate from Endfield. What happens between us is between us. | Promotion IV |
 | Operator Reporting for Duty | Hold it, keep it still! The ink isn't even dry yet... This painting's for you. What I drew isn't important. It's my seal that matters! And don't you ever forget my name again! |  |
-| Standing by 1 | This, then that... Alright, roll it up. Ahem. Your draft is done. Gotta be patient! |  |
-| Standing by 2 | You've been hanging around me for years, why can't you learn anything from me? Such as faking my signature. |  |
+| Standing By 1 | This, then that... Alright, roll it up. Ahem. Your draft is done. Gotta be patient! |  |
+| Standing By 2 | You've been hanging around me for years, why can't you learn anything from me? Such as faking my signature. |  |
 | Assigning to Facility | You lured me to this place just so you could sit back and relax? Not happening. You're staying here with me. |  |
 | Greeting 1 | Trying to walk past me? Are you pretending I'm invisible? |  |
 | Greeting 2 | So, that promise ten years ago. You gonna make up for it? | Reach trust: 300 |

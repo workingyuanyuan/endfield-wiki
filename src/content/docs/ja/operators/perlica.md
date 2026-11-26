@@ -1,9 +1,9 @@
 ---
 title: "ペリカ"
 description: "ペリカはアーツユニットを使う星5・電磁属性の術師オペレーターで、どのアカウントも最初から所持している。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。スキル説明と数値はゲームデータ 1.6 による"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。スキル説明と数値はゲームデータ 1.7 による"
 caveat: "どのアカウントもゲーム開始時からペリカを所持している。ペリカは恒常のスカウト対象でもある。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-01-22
 aliases:
   - "Perlica"
@@ -16,10 +16,10 @@ art:
 sources:
   - title: "公式オペレーター一覧（Gryphline）"
     url: https://endfield.gryphline.com/en-us/operator
-  - title: "warfarin.wiki、ペリカ（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ペリカ（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/operators/perlica
-  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki、Perlica"
     url: https://endfield.wiki.gg/wiki/Perlica
 ---

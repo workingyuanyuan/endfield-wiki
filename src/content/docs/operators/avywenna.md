@@ -1,9 +1,9 @@
 ---
 title: "Avywenna"
 description: "Avywenna is a 5-star Electric Striker with a polearm; in the standard headhunting roster."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
 caveat: "Avywenna has no rate-up banner. Avywenna is in the standard roster that Basic Headhunting and every Chartered Headhunting pool draw from."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-03-12
 aliases:
   - "艾維文娜"
@@ -18,10 +18,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/operator
   - title: "Old Deep Water Dies, by Rising Tide It is Denied Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/8907
-  - title: "warfarin.wiki, Avywenna (game data 1.6)"
+  - title: "warfarin.wiki, Avywenna (game data 1.7)"
     url: https://warfarin.wiki/en/operators/avywenna
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Avywenna"
     url: https://endfield.wiki.gg/wiki/Avywenna
 ---

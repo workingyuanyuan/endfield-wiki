@@ -1,17 +1,17 @@
 ---
 title: "駿衛的檔案"
 description: "駿衛的 6 份幹員檔案、82 句語音與 3 段聊天。"
-appliesTo: "《明日方舟：終末地》國際版；遊戲資料 1.6 的繁體中文文字"
+appliesTo: "《明日方舟：終末地》國際版；遊戲資料 1.7 的繁體中文文字"
 caveat: "「檔案資料·二」起的檔案，信賴值達到 300 或 1500 才解鎖。各語言是遊戲各自的版本，句子不一定逐句對應。"
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "Pogranichnik's file"
   - "骏卫的档案"
   - "ポグラニチニクのプロファイル"
   - "포그라니치니크의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## 幹員檔案

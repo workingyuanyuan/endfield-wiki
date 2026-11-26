@@ -1,9 +1,9 @@
 ---
 title: "탕탕"
 description: "탕탕은 권총을 사용하는 6성 냉기 속성 캐스터 오퍼레이터로, 「강에서 태어난 소녀」에서 확률 증가 대상이었던 한정 오퍼레이터이다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "한정 오퍼레이터는 자신의 헤드헌팅 이후 다음 2회의 특별 허가 헤드헌팅에도 확률 증가 없이 포함되고, 그 뒤 명단에서 빠진다. 한정 오퍼레이터는 기초 헤드헌팅에 추가되지 않는다. 탕탕은 재구축 헤드헌팅 「선조의 샘의 새로운 물결」에서 다시 확률 증가 대상이 되었다."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-10-28
 aliases:
   - "Tangtang"
@@ -30,10 +30,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/0751
   - title: "「단청도」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/9560
-  - title: "warfarin.wiki, 탕탕(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 탕탕(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/tangtang
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Tangtang"
     url: https://endfield.wiki.gg/wiki/Tangtang
 ---

@@ -1,9 +1,9 @@
 ---
 title: "リーノ"
 description: "リーノは長柄武器を使う星6・電磁属性の補助オペレーターで、「キラキラ綺羅星」で出現率アップ対象となった限定オペレーターである。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。スキル説明と数値はゲームデータ 1.6 による"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。スキル説明と数値はゲームデータ 1.7 による"
 caveat: "限定オペレーターは自身のスカウトの後、続く2回の特別スカウトにも出現率アップなしで含まれ、その後は対象から外れる。限定オペレーターが通常スカウトに追加されることはない。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-10-14
 aliases:
   - "Liino"
@@ -26,10 +26,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: "「雪氷の幽夢」バージョンアップデートの説明"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki、リーノ（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、リーノ（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/operators/liino
-  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki、Liino"
     url: https://endfield.wiki.gg/wiki/Liino
 ---
@@ -177,12 +177,12 @@ sources:
 
 **昇進・Ⅱ**
 
-> 連携技「ときめきメロディー」を発動すると、チーム内の電磁または自然属性のオペレーターが次の戦技を発動するとき、SPが5返還される\
+> 連携技「ときめきメロディー」を発動したあと、チーム内の電磁または自然属性のオペレーターが次の戦技を発動するとき、SPが5返還される\
 > この効果は30秒持続し、発動すると効果は終了する（重ね掛け不可）
 
 **昇進・Ⅲ**
 
-> 連携技「ときめきメロディー」を発動すると、チーム内の電磁または自然属性のオペレーターが次の戦技を発動するとき、SPが10返還される\
+> 連携技「ときめきメロディー」を発動したあと、チーム内の電磁または自然属性のオペレーターが次の戦技を発動するとき、SPが10返還される\
 > この効果は30秒持続し、発動すると効果は終了する（重ね掛け不可）
 
 ## 潜在

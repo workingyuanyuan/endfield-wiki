@@ -1,9 +1,9 @@
 ---
 title: "푸치나"
 description: "푸치나는 한손검을 사용하는 5성 물리 속성 디펜더 오퍼레이터로, 1.5 버전 이벤트에서 지급되었다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "푸치나는 어떤 헤드헌팅에도 포함되지 않으며, 1.5 버전 이벤트 「우리의 거대한 필라인이 왔다!」에서 지급되었다."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-09-02
 aliases:
   - "Purrchena"
@@ -17,10 +17,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/operator
   - title: "「눈꽃 속에 피어난 고요한 꿈」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki, 푸치나(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 푸치나(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/purrchena
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Purrchena"
     url: https://endfield.wiki.gg/wiki/Purrchena
 ---

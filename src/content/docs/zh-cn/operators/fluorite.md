@@ -1,9 +1,9 @@
 ---
 title: "萤石"
 description: "萤石是 4 星自然术师干员，使用手铳；在常驻寻访名单内。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；技能文字与数值出自游戏数据 1.6"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；技能文字与数值出自游戏数据 1.7"
 caveat: "萤石没有概率提升寻访；萤石在常驻名单内，基础寻访与每一期特许寻访都抽得到。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-09-02
 aliases:
   - "Fluorite"
@@ -20,10 +20,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/0751
   - title: "「雪淞幽梦」版本更新说明"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki 萤石页（游戏数据 1.6）"
+  - title: "warfarin.wiki 萤石页（游戏数据 1.7）"
     url: https://warfarin.wiki/en/operators/fluorite
-  - title: "rmxlinux/EndfieldData 游戏数据表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 游戏数据表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Fluorite 页"
     url: https://endfield.wiki.gg/wiki/Fluorite
 ---

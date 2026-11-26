@@ -1,21 +1,21 @@
 ---
 title: "武器列表"
-description: "《明日方舟：终末地》1.6 版的 84 把武器：类型、稀有度、基质词条与推荐干员。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；列表出自游戏数据 1.6"
+description: "《明日方舟：终末地》1.7 版的 86 把武器：类型、稀有度、基质词条与推荐干员。"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；列表出自游戏数据 1.7"
 caveat: "干员寻访不会出武器。每次寻访会给武库配额，用于武库申领；6 星武器来自武库申领与兑换。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-11-04
 aliases:
   - "Weapons list"
   - "武器一覧"
   - "무기 목록"
 sources:
-  - title: "warfarin.wiki 武器列表（游戏数据 1.6）"
+  - title: "warfarin.wiki 武器列表（游戏数据 1.7）"
     url: https://warfarin.wiki/en/weapons
   - title: "「烟火邀星河」特许寻访说明（武库配额）"
     url: https://endfield.gryphline.com/en-us/news/7012
-  - title: "rmxlinux/EndfieldData 游戏数据表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 游戏数据表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 
@@ -26,7 +26,7 @@ sources:
 | 施术单元 | 12 | 5 | 2 | 1 | 20 |
 | 双手剑 | 9 | 4 | 2 | 1 | 16 |
 | 手铳 | 6 | 3 | 2 | 1 | 12 |
-| 长柄武器 | 7 | 3 | 2 | 1 | 13 |
+| 长柄武器 | 9 | 3 | 2 | 1 | 15 |
 | 单手剑 | 13 | 7 | 2 | 1 | 23 |
 
 ## 基质词条
@@ -114,8 +114,10 @@ sources:
 | Golden Age | 黃金時代 | 黄金时代 | 6 | 意志提升、治療效率提升、追襲 | 梨諾 |
 | JET | J.E.T. | J.E.T. | 6 | 主能力提升、攻擊提升、壓制 | 艾維文娜、卡繆、埃特拉、梨諾 |
 | Mountain Bearer | 負山 | 负山 | 6 | 敏捷提升、物理傷害提升、效益 | 黎風 |
+| Raid Comet | 突擊流星 | 突击流星 | 6 | 力量提升、終結技蓄能效率提升、迸發 | 小刻 |
+| Sweet Deal | 甜美交易 | 甜美交易 | 6 | 力量提升、自然傷害提升、流轉 | 小刻 |
 | Valiant | 驍勇 | 骁勇 | 6 | 敏捷提升、物理傷害提升、巧技 | 黎風 |
-| Chimeric Justice | 嵌合正義 | 嵌合正义 | 5 | 力量提升、終結技蓄能效率提升、殘暴 | 卡繆、黎風 |
+| Chimeric Justice | 嵌合正義 | 嵌合正义 | 5 | 力量提升、終結技蓄能效率提升、殘暴 | 卡繆、小刻、黎風 |
 | Cohesive Traction | 向心之引 | 向心之引 | 5 | 意志提升、電磁傷害提升、壓制 | 艾維文娜、埃特拉 |
 | OBJ Razorhorn | O.B.J.尖峰 | O.B.J.尖峰 | 5 | 意志提升、物理傷害提升、附術 | 埃特拉 |
 | Aggeloslayer | 天使殺手 | 天使杀手 | 4 | 意志提升、法術傷害提升、壓制 | 艾維文娜 |

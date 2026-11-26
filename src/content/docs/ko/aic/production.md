@@ -1,37 +1,37 @@
 ---
 title: "생산과 물류"
 description: "《명일방주: 엔드필드》 통합 공업 설비의 입출력, 제작법 생산, 컨베이어 벨트·파이프·창고 물류 방식."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 설비와 제작법 데이터는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 설비와 제작법 데이터는 게임 데이터 1.7 기준"
 caveat: "컨베이어 벨트는 통합 핵심 구역 안에만 배치할 수 있다. 구역 밖에 배치하는 설비는 지역의 프로토콜 용량을 소모하며, 용량이 모두 차면 그 지역에는 더 이상 설비를 배치할 수 없다."
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Production and logistics
   - 生產與物流
   - 生产与物流
   - 生産と物流
 sources:
-  - title: "제작법 표 FactoryMachineCraftTable(게임 데이터 1.6): 제작법 수"
-    url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/FactoryMachineCraftTable.json
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「설비 가공」 「설비 조합 공식」(게임 데이터 1.6)"
+  - title: "제작법 표 FactoryMachineCraftTable(게임 데이터 1.7): 제작법 수"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryMachineCraftTable.json
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「설비 가공」 「설비 조합 공식」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_formula
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「입력 포트와 출력 포트」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「입력 포트와 출력 포트」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_port
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「컨베이어 벨트 - 구역 제한」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「컨베이어 벨트 - 구역 제한」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_belt
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「분류기」 「합류기」 「물류 브리지」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「분류기」 「합류기」 「물류 브리지」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_splitter
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「파이프」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「파이프」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_pipe
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「창고 입출력 라인」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「창고 입출력 라인」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_usb_loader_unloader
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「프로토콜 용량 제한」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「프로토콜 용량 제한」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_bandwidth
-  - title: "warfarin.wiki, 설비 목록(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 설비 목록(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/facilities
-  - title: "warfarin.wiki, 프로토콜 저장함(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 프로토콜 저장함(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/facilities/storager_1
-  - title: "warfarin.wiki, 확장 반응기(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 확장 반응기(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/facilities/mix_pool_2
   - title: "Endfield Talos Wiki, Automated Industry Complex"
     url: https://endfield.wiki.gg/wiki/Automated_Industry_Complex
@@ -84,30 +84,31 @@ sources:
 | --- | --- | --- | --- |
 | 정련로 | 5 | 26 | 금속 조각(페리움 조각, 적동 조각, 강철 조각), 자수정 섬유와 크리스톤 섬유, 카본 조각, 오리고 크러스트 |
 | 분쇄기 | 5 | 18 | 광석과 식물의 가루(오리지늄 가루, 페리움 가루, 샌드리프 가루, 밀가루, 설탕 등) |
-| 부품 가공기 | 20 | 7 | 금속 조각과 섬유로 만드는 부품(페리움 부품, 강철 부품, 자수정 부품, 적동 부품 등) |
+| 부품 가공기 | 20 | 10 | 금속 조각과 섬유로 만드는 부품(페리움 부품, 강철 부품, 자수정 부품, 적동 부품, 휘동 부품 등) |
 | 성형기 | 10 | 7 | 병과 내압 캔 |
 | 재배기 | 20 | 6 | 씨앗에서 기르는 식물 |
 | 씨앗 추출기 | 10 | 19 | 작물에서 얻는 씨앗과 모종 |
 | 장비 부품 합성기 | 10 | 7 | 장비 부품 |
-| 충진기 | 20 | 84 | 병과 내압 캔에 액체·기체 충전; 메밀꽃 치유 캡슐, 시트론 통조림, 병에 담긴 음료 |
-| 포장기 | 20 | 11 | 배터리 5종 전부, 공업 폭발물, 금초 청량음료, 야침 주사약, 분리 필터 |
+| 충진기 | 20 | 88 | 병과 내압 캔에 액체·기체 충전; 메밀꽃 치유 캡슐, 시트론 통조림, 병에 담긴 음료 |
+| 포장기 | 20 | 15 | 배터리 6종 전부, 공업 폭발물, 금초 청량음료, 야침 주사약, 분리 필터 |
 | 연마기 | 50 | 7 | 고밀도 가루와 고운 가루 |
 | 반응기 | 50 | 11 | 용액, 양정, 혁동 조각, 액체 식양, 사료와 유채기름 |
 | 확장 반응기 | 100 | 11 | 반응기와 같은 제작법 11개. 포트가 더 많고 여러 반응을 동시에 진행할 수 있다 |
 | 천화로 | 50 | 4 | 식양, 중식양, 팽지박 |
-| 정제기 | 50 | 6 | 순도가 높은 기체와 용액 |
-| 분해기 | 20 | 74 | 채워진 병과 내압 캔을 비워 용기와 안의 액체·기체를 돌려받는다 |
+| 정제기 | 50 | 7 | 순도가 높은 기체와 용액 |
+| 분해기 | 20 | 78 | 채워진 병과 내압 캔을 비워 용기와 안의 액체·기체를 돌려받는다 |
 | 액체 · 기체 전환기 | 50 | 12 | 액체와 기체 간 전환; 액체 식양을 계속 투입해야 작동한다 |
-| 고체 · 기체 전환기 | 50 | 10 | 고체와 기체 간 전환; 기체 식양을 계속 투입해야 작동한다 |
-| 기체 반응로 | 50 | 1 | 기체 작동 |
+| 고체 · 기체 전환기 | 50 | 16 | 고체와 기체 간 전환; 기체 식양을 계속 투입해야 작동한다 |
+| 기체 반응로 | 50 | 2 | 기체 작동, 맑은 기체 휘동 |
 
-오염수 처리기(소비 전력 50)는 오염수를 처리하며, 효율은 낮지만 양정 폐액과 불활성 양정 폐액도 처리한다.
+폐기물 처리기(1.7 버전 이전 이름은 오염수 처리기, 소비 전력 50)는 오염수, 양정 폐액, 불활성 양정 폐액, 탁한 기체 휘동을 처리한다.
 
 ## 기체 반응로, 천화로, 장비 부품 합성기, 연마기, 재배기의 제작법
 
 | 설비 | 재료 | 산출 | 시간 |
 | --- | --- | --- | --- |
 | 기체 반응로 | 기체 혁동 ×2, 기체 식양 ×1 | 기체 작동 ×1 | 2초 |
+| 기체 반응로 | 기체 형동 ×1, 기체 형식양 ×1 | 맑은 기체 휘동 ×2 | 2초 |
 | 천화로 | 식양 ×10, 양정 폐액 ×5 | 중식양 ×1 | 10초 |
 | 천화로 | 버든비스트의 배설물 ×1, 액체 식양 ×1 | 팽지박 ×1 | 2초 |
 | 천화로 | 안정된 카본 조각 ×2, 청정수 ×1 | 식양 ×1 | 2초 |

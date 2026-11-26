@@ -1,25 +1,25 @@
 ---
 title: 装备套装
 description: "《明日方舟：终末地》全部 24 个装备套装的 3 件套装效果、装备等级与三种文字名称。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；装备套装与套装效果出自游戏数据 1.6"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；装备套装与套装效果出自游戏数据 1.7"
 caveat: "每个套装都只有 3 件套装效果，而干员只能穿戴四件装备，所以一名干员身上最多只有一个套装效果生效。"
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-05
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Gear sets
   - 裝備套裝
   - 装備セット
   - 장비 세트
 sources:
-  - title: "warfarin.wiki 装备与装备套装（游戏数据 1.6）"
+  - title: "warfarin.wiki 装备与装备套装（游戏数据 1.7）"
     url: https://warfarin.wiki/en/gear
-  - title: "rmxlinux/EndfieldData 游戏数据表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
-  - title: "warfarin.wiki 干员页（游戏数据 1.6 的装备适用节点）"
+  - title: "rmxlinux/EndfieldData 游戏数据表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
+  - title: "warfarin.wiki 干员页（游戏数据 1.7 的装备适用节点）"
     url: https://warfarin.wiki/en/operators/laevatain
-  - title: "warfarin.wiki 教学：装备（游戏数据 1.6）"
+  - title: "warfarin.wiki 教学：装备（游戏数据 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_equip
-  - title: "warfarin.wiki 教学：装备精锻（游戏数据 1.6）"
+  - title: "warfarin.wiki 教学：装备精锻（游戏数据 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_equip_enhance
   - title: "Endfield Talos Wiki 的 Gear 页（非套装装备）"
     url: https://endfield.wiki.gg/wiki/Gear
@@ -33,6 +33,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5208
   - title: "「丹青渡」版本更新说明"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: 「穿越甚大蘑境与你相逢」版本更新说明
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 装备的基本规则
@@ -48,7 +50,7 @@ sources:
 
 - 装备提供防御力，以及能力值与其他属性；例如 36 级护甲巡行信使夹克提供防御力 +28、敏捷 +44、智识 +29、攻击力 +16。
 - 重装信使、巡行信使、蚀电屏蔽、蚀电防护四个套装同时有 36 级与 50 级部件，两种等级的套装效果相同。
-- 游戏数据 1.6 共有 276 件装备，其中 228 件属于这 24 个套装。其余是非套装装备，数值比同品质的套装装备略高。
+- 游戏数据 1.7 共有 291 件装备，其中 238 件属于这 24 个套装。其余是非套装装备，数值比同品质的套装装备略高。
 - 上线后新增的套装有四个：1.2 版的壤流与清波、1.4 版的集成实训、1.5 版的险关。
 - 1.4 版加入的涉渊是非套装装备，没有套装效果；1.4 版的更新说明则把它列为新增装备套装。
 
@@ -76,12 +78,12 @@ sources:
 | Roving MSGR | 巡行信使 | 巡行信使 | 36、50 | 3 星、4 星 | 9 |
 | Aburrey's Legacy | 阿伯莉遺聲 | 阿伯莉遗声 | 50 | 4 星 | 11 |
 | Catastrophe | 天災防護 | 天灾防护 | 50 | 4 星 | 6 |
-| AIC Fieldwork | 集成實訓 | 集成实训 | 60 | 5 星 | 18 |
+| AIC Fieldwork | 集成實訓 | 集成实训 | 60 | 5 星 | 21 |
 | Æthertech | 輕超域 | 轻超域 | 70 | 5 星 | 7 |
 | Bonekrusha | 碾骨 | 碾骨 | 70 | 5 星 | 14 |
 | Deep Rampart | 險關 | 险关 | 70 | 5 星 | 3 |
-| Eternal Xiranite | 長息 | 长息 | 70 | 5 星 | 17 |
-| Frontiers | 拓荒 | 拓荒 | 70 | 5 星 | 14 |
+| Eternal Xiranite | 長息 | 长息 | 70 | 5 星 | 18 |
+| Frontiers | 拓荒 | 拓荒 | 70 | 5 星 | 20 |
 | Grizzled Edge | 舊鋒 | 旧锋 | 70 | 5 星 | 6 |
 | Hot Work | 動火用 | 动火用 | 70 | 5 星 | 10 |
 | LYNX | 生物輔助 | 生物辅助 | 70 | 5 星 | 11 |
@@ -93,7 +95,7 @@ sources:
 | Type 50 Yinglung | 50式應龍 | 50式应龙 | 70 | 5 星 | 14 |
 | Xiranflow | 壤流 | 壤流 | 70 | 5 星 | 3 |
 
-部件数是该套装在游戏数据 1.6 中各等级部件的总数。AIC Heavy、AIC Light 与 Mordvolt Insulation 三个名称，在繁体与简体中文之间的差异不只是字形。
+部件数是该套装在游戏数据 1.7 中各等级部件的总数。AIC Heavy、AIC Light 与 Mordvolt Insulation 三个名称，在繁体与简体中文之间的差异不只是字形。
 
 ## 3 件套装效果
 

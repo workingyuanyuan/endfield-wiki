@@ -1,10 +1,10 @@
 ---
 title: 版本列表
-description: 《明日方舟：终末地》有 1.0 到 1.6 七个版本，从 2026-01-22 的公测到 2026-10-15 的「丹青渡」。
-appliesTo: 《明日方舟：终末地》国际版，公测（2026-01-22）至 1.6 版（2026-10-15）
-caveat: 1.5 版的噗切娜是 5 星干员，不在任何寻访中；其他新干员都是特许寻访的 6 星概率提升干员。
-lastVerified: 2026-11-21
-effectiveDate: 2026-10-15
+description: 《明日方舟：终末地》有 1.0 到 1.7 八个版本，从 2026-01-22 的公测到 2026-11-25 的「穿越甚大蘑境与你相逢」。
+appliesTo: 《明日方舟：终末地》国际版，公测（2026-01-22）至 1.7 版（2026-11-25）
+caveat: 1.5 版的噗切娜与 1.7 版的米米诺是活动赠送的 5 星干员，不在任何寻访中；其他新干员都是特许寻访的 6 星概率提升干员。
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Versions
   - バージョン一覧
@@ -16,6 +16,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9574
   - title: 「丹青渡」版本更新说明
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: 「穿越甚大蘑境与你相逢」版本更新说明
+    url: https://endfield.gryphline.com/en-us/news/0740
   - title: Endfield Talos Wiki 的 Version 页（版本号）
     url: https://endfield.wiki.gg/wiki/Version
   - title: Game8 的 1.6 版直播整理（版本号）
@@ -35,5 +37,6 @@ sources:
 | [1.4](/zh-cn/versions/1-4/) | 向渊行 | Homecoming | 2026-07-16 | 诀、梨诺 |
 | [1.5](/zh-cn/versions/1-5/) | 雪淞幽梦 | Dreamscape of Wind and Snow | 2026-09-02 | 提弗洛斯、噗切娜（5 星） |
 | [1.6](/zh-cn/versions/1-6/) | 丹青渡 | Sanctuary of Ink | 2026-10-15 | 祀、明河 |
+| [1.7](/zh-cn/versions/1-7/) | 穿越甚大蘑境与你相逢 | Meeting You in the World o'Shrooms | 2026-11-25 | 小刻、米米诺（5 星） |
 
 新干员除标示者外皆为 6 星。

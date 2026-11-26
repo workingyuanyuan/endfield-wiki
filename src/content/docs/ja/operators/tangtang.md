@@ -1,9 +1,9 @@
 ---
 title: "タンタン"
 description: "タンタンは拳銃を使う星6・寒冷属性の術師オペレーターで、「水の申し子」で出現率アップ対象となった限定オペレーターである。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。スキル説明と数値はゲームデータ 1.6 による"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。スキル説明と数値はゲームデータ 1.7 による"
 caveat: "限定オペレーターは自身のスカウトの後、続く2回の特別スカウトにも出現率アップなしで含まれ、その後は対象から外れる。限定オペレーターが通常スカウトに追加されることはない。タンタンは再現スカウト「祖泉の新流」で再び出現率アップ対象になった。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-10-28
 aliases:
   - "Tangtang"
@@ -30,10 +30,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/0751
   - title: "「丹青渡」バージョンアップデートの説明"
     url: https://endfield.gryphline.com/en-us/news/9560
-  - title: "warfarin.wiki、タンタン（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、タンタン（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/operators/tangtang
-  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki、Tangtang"
     url: https://endfield.wiki.gg/wiki/Tangtang
 ---

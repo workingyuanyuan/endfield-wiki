@@ -1,9 +1,9 @@
 ---
 title: "Tangtang"
 description: "Tangtang is a 6-star Cryo Caster with a handcannon; limited, rate-up in River's Daughter."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
 caveat: "A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting. Tangtang returned as the rate-up operator of RE-Factor Headhunting Ancestral Spring Flows Anew."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-10-28
 aliases:
   - "湯湯"
@@ -30,10 +30,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/0751
   - title: "Sanctuary of Ink Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/9560
-  - title: "warfarin.wiki, Tangtang (game data 1.6)"
+  - title: "warfarin.wiki, Tangtang (game data 1.7)"
     url: https://warfarin.wiki/en/operators/tangtang
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Tangtang"
     url: https://endfield.wiki.gg/wiki/Tangtang
 ---

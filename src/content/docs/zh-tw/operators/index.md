@@ -1,10 +1,10 @@
 ---
 title: 幹員列表
-description: 《明日方舟：終末地》1.6 版有 34 名可用幹員；官方網站列出 37 筆。
-appliesTo: 《明日方舟：終末地》國際版，1.6 版；官方幹員列表讀取於 2026-11-21
-caveat: 官方列表的 37 筆不等於 37 名可用幹員。管理員出現兩次，小刻與米米諾不在 1.6 版以前任何一版的更新說明內。
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-21
+description: 《明日方舟：終末地》1.7 版有 36 名幹員；官方網站列出 37 筆。
+appliesTo: 《明日方舟：終末地》國際版，1.7 版；官方幹員列表讀取於 2026-11-26
+caveat: 官方列表有 37 筆、36 名幹員，因為管理員出現兩次。米米諾自 2026-12-16 起由活動贈送，不在任何尋訪中。
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Operators list
   - 干员列表
@@ -17,18 +17,20 @@ sources:
     url: https://endfield.hypergryph.com/operator
   - title: 「丹青渡」版本更新說明
     url: https://endfield.gryphline.com/en-us/news/9560
-  - title: warfarin.wiki 幹員列表（遊戲資料 1.6）
+  - title: 「穿越甚大蘑境與你相逢」版本更新說明
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: warfarin.wiki 幹員列表（遊戲資料 1.7）
     url: https://warfarin.wiki/en/operators
 ---
 
 ## 數量
 
-官方網站的 37 筆是遊戲資料的 34 名、管理員的第二筆（同一名幹員的兩種外觀），以及小刻（6 星先鋒，自然）與米米諾（5 星輔助，物理）。
+小刻與米米諾在 1.7 版加入。
 
-| 稀有度 | 官方網站筆數 | 1.6 版可用 |
+| 稀有度 | 官方網站筆數 | 1.7 版幹員 |
 | --- | --- | --- |
-| 6 星 | 20 | 19 |
-| 5 星 | 11 | 10 |
+| 6 星 | 20 | 20 |
+| 5 星 | 11 | 11 |
 | 4 星 | 5 | 5 |
 
 ## 全部幹員
@@ -44,7 +46,7 @@ Rossi 的繁體中文名是洛西，簡體中文名是洛茜，用字不同，�
 | [餘燼](/zh-tw/operators/ember/) | Ember | 6 | 重裝 | 灼熱 |
 | [管理員](/zh-tw/operators/endministrator/) | Endministrator | 6 | 近衛 | 物理 |
 | [潔爾佩塔](/zh-tw/operators/gilberta/) | Gilberta | 6 | 輔助 | 自然 |
-| 小刻 | Kay | 6 | 先鋒 | 自然 |
+| [小刻](/zh-tw/operators/kay/) | Kay | 6 | 先鋒 | 自然 |
 | [萊萬汀](/zh-tw/operators/laevatain/) | Laevatain | 6 | 突擊 | 灼熱 |
 | [別禮](/zh-tw/operators/last-rite/) | Last Rite | 6 | 突擊 | 寒冷 |
 | [黎風](/zh-tw/operators/lifeng/) | Lifeng | 6 | 近衛 | 物理 |

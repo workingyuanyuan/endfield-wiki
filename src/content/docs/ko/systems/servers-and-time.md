@@ -1,10 +1,10 @@
 ---
 title: "서버와 시간"
 description: "《명일방주: 엔드필드》에는 Asia(UTC+8)와 Americas / Europe(UTC-5) 두 서버가 있으며, 진행도는 공유되지 않는다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스(Asia 및 Americas / Europe 서버), 1.6 버전"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스(Asia 및 Americas / Europe 서버), 1.7 버전"
 caveat: "서버 시간은 각 서버의 고유 시각이다. 서버 시간으로 표기된 시각은 Americas / Europe 서버에서 13시간 늦게 오지만, 업데이트 점검은 두 서버에서 같은 순간에 시작한다."
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Servers and time
   - 伺服器與時間
@@ -55,6 +55,8 @@ sources:
     url: https://endfield.wiki.gg/wiki/Version
   - title: "「명일방주: 엔드필드」GeForce NOW 출시 안내 – FAQ"
     url: https://endfield.gryphline.com/en-us/news/8906
+  - title: "「뜻밖의 만남, 버섯 동산 대모험」 버전 업데이트 설명"
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 두 서버
@@ -92,6 +94,7 @@ sources:
 | [1.4 심연으로](/ko/versions/1-4/) | 2026-07-16 06:00~12:00 |
 | [1.5 눈꽃 속에 피어난 고요한 꿈](/ko/versions/1-5/) | 2026-09-02 06:00~12:00 |
 | [1.6 단청도](/ko/versions/1-6/) | 2026-10-15 06:00~12:00 |
+| [1.7 뜻밖의 만남, 버섯 동산 대모험](/ko/versions/1-7/) | 2026-11-25 06:00~12:00 |
 
 [1.0 버전](/ko/versions/1-0/)은 정식 출시와 함께 시작되어 업데이트 점검이 없었다. 모든 업데이트는 필수 업데이트로, 점검 시간 동안 로그인할 수 없다. 점검 예고는 2~5일 전에 시간대를 안내한다.
 

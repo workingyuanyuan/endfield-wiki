@@ -1,10 +1,10 @@
 ---
 title: "アークナイツ：エンドフィールド Wiki"
 description: "『アークナイツ：エンドフィールド』グローバル版のオペレーター、スカウトのルール、戦闘、集成工業、バージョン。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、正式リリース（2026-01-22）からバージョン1.6まで"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、正式リリース（2026-01-22）からバージョン1.7まで"
 caveat: "日付と時刻はAsiaサーバーのサーバー時間（UTC+8）である。アップデートのメンテナンスはAmericas / Europeサーバーでも同時に行われ、前日の17:00から23:00（UTC-5）にあたる。期限のあるコンテンツは、各サーバーのサーバー時間で同じ時刻に終わる。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Arknights: Endfield wiki"
   - "明日方舟：終末地 Wiki"
@@ -20,6 +20,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news
   - title: "「丹青渡」バージョンアップデートの説明"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "「キノコ菌グ！？君との大冒険！」 バージョンアップデートについて"
+    url: https://endfield.gryphline.com/en-us/news/0740
   - title: "事前ダウンロード開始のお知らせ（リリース時刻、プラットフォーム）"
     url: https://endfield.gryphline.com/en-us/news/9574
   - title: "Steam版配信開始のお知らせ"
@@ -47,6 +49,7 @@ sources:
 | [1.4](/ja/versions/1-4/) | 向淵行 | 2026-07-16 | オクギ、リーノ |
 | [1.5](/ja/versions/1-5/) | 雪氷の幽夢 | 2026-09-02 | ティフォロス、プチエナ |
 | [1.6](/ja/versions/1-6/) | 丹青渡 | 2026-10-15 | スー、ミンホ |
+| [1.7](/ja/versions/1-7/) | キノコ菌グ！？君との大冒険！ | 2026-11-25 | ケーちゃん、ミミノ |
 
 ## プラットフォーム
 

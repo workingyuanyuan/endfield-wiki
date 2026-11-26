@@ -1,17 +1,17 @@
 ---
 title: "Ember's file"
 description: "Ember's 6 operator files, 81 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "餘燼的檔案"
   - "余烬的档案"
   - "エンバーのプロファイル"
   - "엠버의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -136,15 +136,15 @@ sources:
 | Operator Promotion 3 | Back in the Order, the commander would award us badges for moments like this... No, that's not necessary. Let it stay this way, as what I seek here isn't about honor. | Promotion III |
 | Operator Promotion 4 | I cannot say when this Crusade will end, but I'm increasingly aware that it must be taken with the utmost seriousness... I hope you'll grant me the honor of seeing it through by your side. | Promotion IV |
 | Operator Reporting for Duty | Ember, Knight of the Order of Steel Oath, reporting for duty. As bound by the pact, I shall obey your command until the Crusade concludes. |  |
-| Standing by 1 | My Crusade is far from over... |  |
-| Standing by 2 | The battlefield shows no mercy for mistakes. We must hone our skills with true devotion. |  |
+| Standing By 1 | My Crusade is far from over... |  |
+| Standing By 2 | The battlefield shows no mercy for mistakes. We must hone our skills with true devotion. |  |
 | Assigning to Facility | A special mission? Understood... I shall carry it out with unwavering effort. |  |
 | Greeting 1 | Do you have a combat mission that requires my presence? |  |
 | Greeting 2 | Welcome back, Endmin. Where will the next battle take us? | Reach trust: 300 |
 | Dijiang Idle Chatter 1 | Dijiang is a vessel furnished with various amenities, but she's not built for war. Her absence of constant operational readiness is something I'm still adjusting to. |  |
 | Dijiang Idle Chatter 2 | Training at the Order? Hmm... Back then, I could take on an entire Homoiossaron cluster alone, so my commander would send full squads of new recruits to fight me. | Reach trust: 300 |
 | Dijiang Idle Chatter 3 | Beneath the aurora lie the defense lines of the Oathkeepers. When battle erupted, the skies would be blanketed with swarms of hovering Aggeloi. Of course, our battlecarriers and escort aircraft would also — wait, why is the mountain range running this way... Sorry, I might have ... misidentified the location. | Reach trust: 300 |
-| Dijiang Idle Chatter 4 | High-altitude drops into warzones are standard for my unit. Yet, up here, the very idea of altitude starts to fade. | Reach trust: 1500 |
+| Dijiang Idle Chatter 4 | High-altitude drops into warzones are standard for my Assault Banner — we even train specifically for them. Yet, up here, the very idea of altitude starts to fade. | Reach trust: 1500 |
 | Dijiang Idle Chatter 5 | The operators here make excellent sparring partners. They value battlefield coordination and show great creativity in developing strategies. I've learned a lot from them. As an Oathkeeper, I must keep pace and never stop improving myself. | Reach trust: 1500 |
 | Dijiang Idle Chatter 6 | The Intel Office granted me access to some mission logs. So many gave their lives for what they believed in, even without ever setting foot on the battlefield. Maybe they had no regrets, but I find myself pondering: what can we do to prevent such sacrifices from happening so often? | Reach trust: 1500 |
 | Offering Gifts | Please accept this, Endmin. |  |

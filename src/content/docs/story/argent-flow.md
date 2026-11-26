@@ -1,17 +1,17 @@
 ---
 title: "Argent Flow's file"
 description: "Argent Flow's 6 operator files, 81 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "明河的檔案"
   - "明河的档案"
   - "ミンホのプロファイル"
   - "명하의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -144,8 +144,8 @@ sources:
 | Operator Promotion 3 | This is it? Oh, it's nothing. I just remembered when I first became a Captain of Pacified Skies. Tianshi Tan only treated me to a bowl of noodles. The two of you must have a lot in common. | Promotion III |
 | Operator Promotion 4 | The vastness of a tree depends on the strength of its root. Titles aside, I am happy that you have recognized the foundation I've built over the years... Don't worry. With blade sharp and discipline honed, I will be your greatest support. | Promotion IV |
 | Operator Reporting for Duty | Minghe of HAS, at your service. Captain of Pacified Skies? That title serves little purpose here, so let's just drop it and avoid confusion. |  |
-| Standing by 1 | Please warm some wine for me. This battle won't take long. |  |
-| Standing by 2 | Reporting in. Which army are we breaking today? |  |
+| Standing By 1 | Please warm some wine for me. This battle won't take long. |  |
+| Standing By 2 | Reporting in. Which army are we breaking today? |  |
 | Assigning to Facility | Of course. I possess more skills than swordsmanship. |  |
 | Greeting 1 | Endmin, any missions that require my presence? |  |
 | Greeting 2 | Tired? Why don't we just walk and talk the hours away? | Reach trust: 300 |

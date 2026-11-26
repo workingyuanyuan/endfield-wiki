@@ -1,23 +1,23 @@
 ---
 title: "Enemy resistances"
-description: "Physical, Heat, Electric, Cryo and Nature resistances of all 89 enemies in Arknights: Endfield, by region."
-appliesTo: "Arknights: Endfield, global service, game data 1.6"
+description: "Physical, Heat, Electric, Cryo and Nature resistances of all 93 enemies in Arknights: Endfield, by region."
+appliesTo: "Arknights: Endfield, global service, game data 1.7"
 caveat: "Resistances are those of each enemy's base form, met in the open world. Some stage versions of an enemy have other resistances, for example 15 in every element."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-22
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-26
 aliases:
   - "敵人抗性"
   - "敌人抗性"
   - "敵の耐性"
   - "적 저항"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Resistance grades
 
-Each point of resistance cuts damage of that element by 1% (see [Combat](/systems/combat/)). The game shows each resistance as a grade; among enemies D is 0, C is 20 to 40, B is 50 to 60, and no enemy has S or A. Of the 89 enemies in the in-game encyclopedia, 34 have no resistance; most of the others have 20 in two to five elements. The highest is Breaking Gust's Physical Resistance of 60. No enemy resists Æther damage.
+Each point of resistance cuts damage of that element by 1% (see [Combat](/systems/combat/)). The game shows each resistance as a grade; among enemies E is -20, D is 0, C is 20 to 40, B is 50 to 60, and no enemy has S or A. Of the 93 enemies in the in-game encyclopedia, 34 have no resistance; most of the others have 20 in two to five elements. The highest is Breaking Gust's Physical Resistance of 60. No enemy resists Æther damage.
 
 ## Enemies with a resistance of 30 or more
 
@@ -33,6 +33,8 @@ Each point of resistance cuts damage of that element by 1% (see [Combat](/system
 | Tuskbeast Blightshade | C (20) | D (0) | C (35) | D (0) | D (0) |
 | YSTF Captain Blightshade | C (20) | D (0) | C (35) | D (0) | D (0) |
 | YSTF Elite Blightshade | C (20) | D (0) | C (35) | D (0) | D (0) |
+| Bolete Prince | D (0) | E (-20) | D (0) | D (0) | C (35) |
+| Shroomkrusher Sporeknuckles | D (0) | E (-20) | D (0) | D (0) | C (35) |
 | Tunneling Nidwyrm | D (0) | D (0) | D (0) | D (0) | C (30) |
 
 ## All enemies
@@ -84,6 +86,7 @@ Classes are the game's own: Common, Advanced, Elite, Alpha, Boss.
 | Armored Manglerbeast | Elite | C (20) | C (20) | C (20) | C (20) | D (0) | Sword Vault Dale; Energy Alluvium: Sword Vault Dale |
 | Blazemist Originium Slug | Common | C (20) | C (20) | D (0) | D (0) | C (20) | Jingyu Valley, Wuling City; Energy Alluvium: Test Area |
 | Blitzcrash Blightshade | Alpha | C (20) | D (0) | C (35) | D (0) | D (0) | North Wuling Exclusion Zone |
+| Bolete Prince | Elite | D (0) | E (-20) | D (0) | D (0) | C (35) | Old Dam; Energy Alluvium: Old Dam |
 | Breaking Gust | Elite | B (60) | D (0) | D (0) | C (20) | C (20) | Qingbo Stockade |
 | Cloud Obliterator | Elite | D (0) | C (20) | C (20) | C (20) | C (20) | Qingbo Stockade, Sword Vault Dale |
 | Cloud Stalker | Advanced | D (0) | C (20) | C (20) | C (20) | C (20) | Qingbo Stockade; Energy Alluvium: Qingbo Stockade, Sword Vault Dale |
@@ -112,6 +115,9 @@ Classes are the game's own: Common, Advanced, Elite, Alpha, Boss.
 | Rockhowler | Common | C (20) | C (20) | C (20) | C (20) | D (0) | Sword Vault Dale, Si's Painting; Energy Alluvium: Sword Vault Dale |
 | Ruan Yi | Boss | D (0) | D (0) | C (20) | D (0) | C (20) | Qingbo Stockade |
 | Scroll of Tactics | Common | D (0) | D (0) | C (20) | C (20) | D (0) | Si's Painting; Energy Alluvium: Si's Painting |
+| Shroomkrusher Nidwyrm | Advanced | D (0) | E (-20) | D (0) | D (0) | C (20) | Old Dam; Energy Alluvium: Old Dam |
+| Shroomkrusher Sporeguard | Common | D (0) | E (-20) | D (0) | D (0) | C (20) | Old Dam; Energy Alluvium: Old Dam |
+| Shroomkrusher Sporeknuckles | Elite | D (0) | E (-20) | D (0) | D (0) | C (35) | Old Dam; Energy Alluvium: Old Dam |
 | Si | Boss | D (0) | D (0) | D (0) | D (0) | D (0) | Si's Painting |
 | Simmer's Purge | Advanced | D (0) | C (20) | C (20) | C (20) | C (20) | Si's Painting; Energy Alluvium: Si's Painting |
 | Skydrummer | Alpha | D (0) | D (0) | D (0) | D (0) | D (0) | Energy Alluvium: Test Area |

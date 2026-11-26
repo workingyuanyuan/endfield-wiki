@@ -1,10 +1,10 @@
 ---
 title: "洛茜"
 description: "洛茜是 6 星物理近卫干员，使用单手剑；限定干员，于「狼珀」概率提升。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；技能文字与数值出自游戏数据 1.6"
-caveat: "限定干员在自己那一期之后的 2 期特许寻访仍在名单内，但没有概率提升，之后移出名单；限定干员不会加入基础寻访。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-09-02
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；技能文字与数值出自游戏数据 1.7"
+caveat: "限定干员在自己那一期之后的 2 期特许寻访仍在名单内，但没有概率提升，之后移出名单；限定干员不会加入基础寻访。洛茜曾在重构寻访「绯红瑰宝」再次概率提升。"
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Rossi"
   - "洛西"
@@ -22,14 +22,16 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9579
   - title: "「拳出无悔」特许寻访说明"
     url: https://endfield.gryphline.com/en-us/news/0759
+  - title: "「绯红瑰宝」重构寻访#1说明"
+    url: https://endfield.gryphline.com/en-us/news/0740
   - title: "「新潮起，故渊离」版本更新说明"
     url: https://endfield.gryphline.com/en-us/news/8907
   - title: "「雪淞幽梦」版本更新说明"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki 洛茜页（游戏数据 1.6）"
+  - title: "warfarin.wiki 洛茜页（游戏数据 1.7）"
     url: https://warfarin.wiki/en/operators/rossi
-  - title: "rmxlinux/EndfieldData 游戏数据表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 游戏数据表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Rossi 页"
     url: https://endfield.wiki.gg/wiki/Rossi
 ---
@@ -65,8 +67,11 @@ sources:
 | 狼珀 | 特许寻访 | 概率提升 | 2026-03-29 12:00 | 1.2 版更新，2026-04-17 |
 | 春雷动，万物生 | 特许寻访 | 在名单内 | 1.2 版更新，2026-04-17 | 2026-05-22 11:59 |
 | 拳出无悔 | 特许寻访 | 在名单内 | 1.3 版更新，2026-06-05 | 2026-06-26 11:59 |
+| 绯红瑰宝 | 重构寻访#1 | 概率提升 | 2026-12-16 12:00 | 1.7 版结束 |
 
 限定干员在自己那一期之后的 2 期特许寻访仍在名单内，但没有概率提升，之后移出名单；限定干员不会加入基础寻访。
+
+重构寻访让过去的概率提升干员再次登场。「绯红瑰宝」前 120 次寻访必定获得洛茜，这项保底在所有同名重构寻访中只生效 1 次，计数会继承到下一次同名重构寻访。
 
 ## 推荐武器
 

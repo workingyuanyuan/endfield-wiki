@@ -1,17 +1,17 @@
 ---
 title: "Arclight's file"
 description: "Arclight's 6 operator files, 81 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "弧光的檔案"
   - "弧光的档案"
   - "アークライトのプロファイル"
   - "아크라이트의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -107,8 +107,8 @@ sources:
 | Operator Promotion 3 | Nature does not teach us survival. It merely leaves a trail for us. I once did my best to adapt... Now ... I'm beginning to understand how it works. | Promotion III |
 | Operator Promotion 4 | I've learned much traveling with you. I'm starting to understand why the hanna verses led me here to your side. I shall use the knowledge well. | Promotion IV |
 | Operator Reporting for Duty | I am Ekut. Callsign is Arclight. I am not a trained weaver of words, but I wish you well and may you flow like a rising river, Endfielders. |  |
-| Standing by 1 | The path ahead has been revealed. |  |
-| Standing by 2 | I'm primed for optimal performance. |  |
+| Standing By 1 | The path ahead has been revealed. |  |
+| Standing By 2 | I'm primed for optimal performance. |  |
 | Assigning to Facility | On it. We Songseekers never rest. |  |
 | Greeting 1 | Where do the winds hail from today, Endmin? |  |
 | Greeting 2 | Coming back from a trip to the surface, Endmin? You smell of the wildlands. | Reach trust: 300 |

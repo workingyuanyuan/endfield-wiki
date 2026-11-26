@@ -1,27 +1,27 @@
 ---
 title: Regional Development
 description: Regional Development in Arknights Endfield covers outposts, Stock Bills, Depot Nodes and Regional Transfer.
-appliesTo: "Arknights: Endfield, global service, Version 1.6; tutorial text from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; tutorial text from game data 1.7"
 caveat: Regional Transfer unlocks by the Regional Development Level of the source region. Stockpile Transfer takes the goods out of the source depot; only Metastorage Transfer, unlocked at a higher level, leaves them there.
-lastVerified: 2026-11-21
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 地區建設
   - 地区建设
   - 地域建設
   - 지역 건설
 sources:
-  - title: warfarin.wiki, in-game tutorial Regional Transfer (game data 1.6)
+  - title: warfarin.wiki, in-game tutorial Regional Transfer (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_domain_transport
-  - title: warfarin.wiki, in-game tutorial Regional Development System (game data 1.6)
+  - title: warfarin.wiki, in-game tutorial Regional Development System (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_domain
-  - title: warfarin.wiki, in-game tutorial Outpost Supplies (game data 1.6)
+  - title: warfarin.wiki, in-game tutorial Outpost Supplies (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_settlement
-  - title: warfarin.wiki, in-game tutorials Stock Redistribution and Elastic Goods (game data 1.6)
+  - title: warfarin.wiki, in-game tutorials Stock Redistribution and Elastic Goods (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_domain_shop_1
-  - title: warfarin.wiki, in-game tutorials Depot Node, Pack Goods and Delivery Job Transfer (game data 1.6)
+  - title: warfarin.wiki, in-game tutorials Depot Node, Pack Goods and Delivery Job Transfer (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_domain_depot_2
-  - title: warfarin.wiki, in-game tutorials Regional Depot and Expansion Management System (game data 1.6)
+  - title: warfarin.wiki, in-game tutorials Regional Depot and Expansion Management System (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_map_storage
   - title: Endfield Talos Wiki, Regional Development
     url: https://endfield.wiki.gg/wiki/Regional_Development
@@ -47,6 +47,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9560
   - title: Sanctuary of Ink Version DEV Comm
     url: https://endfield.gryphline.com/en-us/news/7014
+  - title: Meeting You in the World o'Shrooms Version Update Notes
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## Regional Development Level
@@ -75,8 +77,8 @@ Once a transfer is set, items move continuously, once every hour. With Valley IV
 Running a Valley IV Thermal Bank on Wuling batteries:
 
 - Goods sent by Regional Transfer arrive in the Valley IV depot. From the depot, an output port of the PAC or a Sub-PAC, or a Depot Unloader, sends a chosen item onto a belt toward the Thermal Bank.
-- LC and SC Wuling Battery are Thermal Bank fuels, at 1600 and 3200 power, each burning for 40 seconds: one Thermal Bank uses 90 batteries an hour.
-- Both Wuling batteries are made in the Packaging Unit (recipes on [AIC power](/aic/power/)).
+- LC, SC and HC Wuling Battery are Thermal Bank fuels, at 1600, 3200 and 6400 power, each burning for 40 seconds: one Thermal Bank uses 90 batteries an hour.
+- All three Wuling batteries are made in the Packaging Unit (recipes on [AIC power](/aic/power/)).
 
 ## Outposts and Stock Bills
 
@@ -124,7 +126,7 @@ Two sources disagree on a transferred job that is not finished in time. The in-g
 | How it rises | Regional Development Metric, from exploring, supplying goods to outposts, placing Mining Rigs on new mineral beds, upgrading outposts, Recycling Stations, Stock Redistribution Terminals, Depot Nodes and monitoring stations, and missions |
 | What it raises | New functions, mineral ore yields and facility placement limits: per-area Protocol Capacity, Zipline Placement Limit, Combat Facility Limit and mineral purity |
 | Example | Wuling City Protocol Capacity 200, then 250 at level 3, 300 at level 5 and 350 at level 7, its maximum |
-| Level caps | Valley IV goes up to level 12. Every version from 1.1 to 1.6 raised the cap of Wuling |
+| Level caps | Valley IV goes up to level 12. Every version from 1.1 to 1.7 raised the cap of Wuling |
 | Overview | Since Version 1.3, Regional Overview on the Regional Development screen shows Stock Redistribution, Depot Nodes and their places on the map |
 
 

@@ -1,9 +1,9 @@
 ---
 title: "에스텔라"
 description: "에스텔라는 장병기를 사용하는 4성 냉기 속성 가드 오퍼레이터로, 상시 헤드헌팅 명단에 있다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "에스텔라는 확률 증가 대상이었던 헤드헌팅이 없다. 에스텔라는 상시 명단에 있어 기초 헤드헌팅과 모든 특별 허가 헤드헌팅에서 나온다."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-01-22
 aliases:
   - "Estella"
@@ -15,10 +15,10 @@ art:
 sources:
   - title: "공식 오퍼레이터 목록(Gryphline)"
     url: https://endfield.gryphline.com/en-us/operator
-  - title: "warfarin.wiki, 에스텔라(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 에스텔라(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/estella
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Estella"
     url: https://endfield.wiki.gg/wiki/Estella
 ---
@@ -153,8 +153,8 @@ sources:
 | --- | --- | --- | --- |
 | 조각화 휴식 α | 핵심 제어 중추 | 정예화 I | 핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 8% 증가 |
 | 조각화 휴식 β | 핵심 제어 중추 | 정예화 III | 핵심 제어 중추에 배치 시, 모든 오퍼레이터의 컨디션 회복 속도 12% 증가 |
-| 감청 주파수 β | 응접실 | 정예화 II | 응접실에 배치 시, 오퍼레이터의 단서 수집 기본 효율 20% 증가 |
-| 감청 주파수 γ | 응접실 | 정예화 IV | 응접실에 배치 시, 오퍼레이터의 단서 수집 기본 효율 30% 증가 |
+| 감청 주파수 β | 응접실 | 정예화 II | 응접실에 배치 시, 오퍼레이터의 단서 수집 효율 20% 증가 |
+| 감청 주파수 γ | 응접실 | 정예화 IV | 응접실에 배치 시, 오퍼레이터의 단서 수집 효율 30% 증가 |
 
 ## 기초 능력치
 

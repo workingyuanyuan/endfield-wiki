@@ -1,9 +1,9 @@
 ---
 title: "Mi Fu"
 description: "Mi Fu is a 6-star Physical Guard with a greatsword; limited, rate-up in Fists of No Regrets."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
 caveat: "A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-07-15
 aliases:
   - "弭弗"
@@ -23,10 +23,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/2656
   - title: "Sketches of Lost Heirlooms Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/0758
-  - title: "warfarin.wiki, Mi Fu (game data 1.6)"
+  - title: "warfarin.wiki, Mi Fu (game data 1.7)"
     url: https://warfarin.wiki/en/operators/mifu
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Mi Fu"
     url: https://endfield.wiki.gg/wiki/Mi_Fu
 ---

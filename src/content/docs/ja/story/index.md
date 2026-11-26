@@ -1,17 +1,17 @@
 ---
 title: "プロファイル"
-description: "『アークナイツ：エンドフィールド』のオペレーター34人のプロファイル、ボイス、チャット。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版。ゲームデータ1.6のテキスト"
+description: "『アークナイツ：エンドフィールド』のオペレーター35人のプロファイル、ボイス、チャット。"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版。ゲームデータ1.7のテキスト"
 caveat: "各言語のテキストはゲームのその言語版であり、文ごとに一致するとは限らない。"
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "Operator files"
   - "幹員檔案"
   - "干员档案"
   - "오퍼레이터 파일"
 sources:
-  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 | オペレーター | プロファイル | ボイス | チャット |
@@ -33,6 +33,7 @@ sources:
 | [エステーラのプロファイル](/ja/story/estella/) | 6 | 80 | 3 |
 | [フローライトのプロファイル](/ja/story/fluorite/) | 6 | 80 | 3 |
 | [ギルベルタのプロファイル](/ja/story/gilberta/) | 6 | 81 | 3 |
+| [ケーちゃんのプロファイル](/ja/story/kay/) | 6 | 81 | 3 |
 | [レーヴァテインのプロファイル](/ja/story/laevatain/) | 6 | 81 | 3 |
 | [ラストライトのプロファイル](/ja/story/last-rite/) | 6 | 82 | 3 |
 | [リーフォンのプロファイル](/ja/story/lifeng/) | 6 | 83 | 4 |

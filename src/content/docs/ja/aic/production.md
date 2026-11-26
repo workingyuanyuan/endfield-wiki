@@ -1,37 +1,37 @@
 ---
 title: "生産と物流"
 description: "『アークナイツ：エンドフィールド』の集成工業設備の搬入出、レシピ生産、ベルト・パイプ・倉庫による物流。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。設備とレシピのデータはゲームデータ 1.6 による"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。設備とレシピのデータはゲームデータ 1.7 による"
 caveat: "ベルトコンベアは集成工業エリア内にしか設置できない。エリア外に設置する設備は地域の協約容量を消費し、上限に達するとその地域にはそれ以上設備を設置できない。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Production and logistics
   - 生產與物流
   - 生产与物流
   - 생산과 물류
 sources:
-  - title: "レシピ表 FactoryMachineCraftTable（ゲームデータ 1.6）：レシピ数"
-    url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/FactoryMachineCraftTable.json
-  - title: "warfarin.wiki、ゲーム内チュートリアル「設備での生産と製造」「レシピ」（ゲームデータ 1.6）"
+  - title: "レシピ表 FactoryMachineCraftTable（ゲームデータ 1.7）：レシピ数"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryMachineCraftTable.json
+  - title: "warfarin.wiki、ゲーム内チュートリアル「設備での生産と製造」「レシピ」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_formula
-  - title: "warfarin.wiki、ゲーム内チュートリアル「輸送口と取出口」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「輸送口と取出口」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_port
-  - title: "warfarin.wiki、ゲーム内チュートリアル「ベルトコンベア - 範囲制限」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「ベルトコンベア - 範囲制限」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_belt
-  - title: "warfarin.wiki、ゲーム内チュートリアル「分流器」「合流器」「ベルトブリッジ」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「分流器」「合流器」「ベルトブリッジ」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_splitter
-  - title: "warfarin.wiki、ゲーム内チュートリアル「パイプ」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「パイプ」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_pipe
-  - title: "warfarin.wiki、ゲーム内チュートリアル「倉庫連結ハブ」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「倉庫連結ハブ」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_usb_loader_unloader
-  - title: "warfarin.wiki、ゲーム内チュートリアル「協約容量の制限」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「協約容量の制限」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_bandwidth
-  - title: "warfarin.wiki、設備一覧（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、設備一覧（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/facilities
-  - title: "warfarin.wiki、協約貯蔵箱（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、協約貯蔵箱（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/facilities/storager_1
-  - title: "warfarin.wiki、大型化学反応炉（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、大型化学反応炉（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/facilities/mix_pool_2
   - title: "Endfield Talos Wiki、Automated Industry Complex"
     url: https://endfield.wiki.gg/wiki/Automated_Industry_Complex
@@ -84,30 +84,31 @@ sources:
 | --- | --- | --- | --- |
 | 精錬炉 | 5 | 26 | 金属塊（青鉄塊、赤銅塊、鋼）、紫晶繊維と高晶繊維、炭塊、結晶外殻 |
 | 粉砕機 | 5 | 18 | 鉱物や植物の粉末（源石粉末、青鉄粉末、サンドリーフ粉末、灰麦粉、砂糖など） |
-| 組立機 | 20 | 7 | 金属塊や繊維から作る部品（鉄製部品、鋼製部品、紫晶部品、赤銅部品など） |
+| 組立機 | 20 | 10 | 金属塊や繊維から作る部品（鉄製部品、鋼製部品、紫晶部品、赤銅部品、輝銅部品など） |
 | 成形機 | 10 | 7 | ボトルと圧力タンク |
 | 栽培機 | 20 | 6 | 種から育てる植物 |
 | 採種機 | 10 | 19 | 作物から採る種と苗 |
 | 装備部品加工機 | 10 | 7 | 装備部品 |
-| 充填機 | 20 | 84 | ボトルや圧力タンクへの液体・気体の充填；蕎花カプセル、シトロームの缶詰、瓶入り飲料 |
-| 包装機 | 20 | 11 | 5種のバッテリーすべて、工業爆弾、錦草ソーダ、芽針注射剤、分離コア |
+| 充填機 | 20 | 88 | ボトルや圧力タンクへの液体・気体の充填；蕎花カプセル、シトロームの缶詰、瓶入り飲料 |
+| 包装機 | 20 | 15 | 6種のバッテリーすべて、工業爆弾、錦草ソーダ、芽針注射剤、分離コア |
 | 研磨機 | 50 | 7 | 高密度粉末と細粉 |
 | 化学反応炉 | 50 | 11 | 溶液、壌晶、緋銅塊、液化息壌、飼料とアブラ花オイル |
 | 大型化学反応炉 | 100 | 11 | 化学反応炉と同じ11レシピ。ポートが多く、複数の反応を同時に進められる |
 | 天有洪炉 | 50 | 4 | 息壌、重息壌、ポンポン肥料 |
-| 精製機 | 50 | 6 | より高純度のガスと溶液 |
-| 解体機 | 20 | 74 | 中身の入ったボトルや圧力タンクを空にし、容器と中の液体・気体を取り出す |
+| 精製機 | 50 | 7 | より高純度のガスと溶液 |
+| 解体機 | 20 | 78 | 中身の入ったボトルや圧力タンクを空にし、容器と中の液体・気体を取り出す |
 | ガス液体転換機 | 50 | 12 | 液体と気体の相互転換；液化息壌の継続的な投入で稼働する |
-| ガス固体転換機 | 50 | 10 | 固体と気体の相互転換；息壌ガスの継続的な投入で稼働する |
-| ガス反応装置 | 50 | 1 | 焔銅ガス |
+| ガス固体転換機 | 50 | 16 | 固体と気体の相互転換；息壌ガスの継続的な投入で稼働する |
+| ガス反応装置 | 50 | 2 | 焔銅ガス、輝銅ガス・清 |
 
-廃水処理機（消費電力50）は汚水を処理し、効率は落ちるが壌晶廃液と不活性壌晶廃液も処理できる。
+無害化処理機（バージョン1.7より前の名称は廃水処理機、消費電力50）は汚水、壌晶廃液、不活性壌晶廃液、輝銅ガス・濁を処理できる。
 
 ## ガス反応装置、天有洪炉、装備部品加工機、研磨機、栽培機のレシピ
 
 | 設備 | 原料 | 産出 | 時間 |
 | --- | --- | --- | --- |
 | ガス反応装置 | 緋銅ガス ×2、息壌ガス ×1 | 焔銅ガス ×1 | 2秒 |
+| ガス反応装置 | 衡銅ガス ×1、衡息壌ガス ×1 | 輝銅ガス・清 ×2 | 2秒 |
 | 天有洪炉 | 息壌 ×10、壌晶廃液 ×5 | 重息壌 ×1 | 10秒 |
 | 天有洪炉 | 駄獣のフン ×1、液化息壌 ×1 | ポンポン肥料 ×1 | 2秒 |
 | 天有洪炉 | 安定炭塊 ×2、水 ×1 | 息壌 ×1 | 2秒 |

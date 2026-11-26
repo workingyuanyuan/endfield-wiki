@@ -1,17 +1,17 @@
 ---
 title: "Perlica's file"
 description: "Perlica's 6 operator files, 84 voice lines and 13 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "佩麗卡的檔案"
   - "佩丽卡的档案"
   - "ペリカのプロファイル"
   - "펠리카의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -125,8 +125,8 @@ sources:
 | Operator Promotion 3 | Once again you've placed your faith in me, Endministrator... I shall live up to your expectations. | Promotion III |
 | Operator Promotion 4 | I'm alright. Hearing your encouraging words just made me ... nostalgic about the past. It used to be the only reason I kept going. Now, I'm glad that I get to lead Endfield Industries, and stand by your side. | Promotion IV |
 | Operator Reporting for Duty | I have always believed that you will lead us upon the right path once more. Welcome back to Endfield Industries, Endministrator. |  |
-| Standing by 1 | Prepped and ready to go. |  |
-| Standing by 2 | Operator Perlica standing by. |  |
+| Standing By 1 | Prepped and ready to go. |  |
+| Standing By 2 | Operator Perlica standing by. |  |
 | Assigning to Facility | An efficient assignment. I shall do my best. |  |
 | Greeting 1 | How are you holding up, Endministrator? |  |
 | Greeting 2 | Don't push yourself too hard, Endministrator. Keep yourself rested and well. | Reach trust: 300 |

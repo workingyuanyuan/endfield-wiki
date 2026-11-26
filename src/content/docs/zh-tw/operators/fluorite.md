@@ -1,9 +1,9 @@
 ---
 title: "螢石"
 description: "螢石是 4 星自然術師幹員，使用手銃；在常駐尋訪名單內。"
-appliesTo: "《明日方舟：終末地》國際版，1.6 版；技能文字與數值出自遊戲資料 1.6"
+appliesTo: "《明日方舟：終末地》國際版，1.7 版；技能文字與數值出自遊戲資料 1.7"
 caveat: "螢石沒有機率提升尋訪；螢石在常駐名單內，基礎尋訪與每一期特許尋訪都抽得到。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-09-02
 aliases:
   - "Fluorite"
@@ -20,10 +20,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/0751
   - title: "「雪淞幽夢」版本更新說明"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki 螢石頁（遊戲資料 1.6）"
+  - title: "warfarin.wiki 螢石頁（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/operators/fluorite
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Fluorite 頁"
     url: https://endfield.wiki.gg/wiki/Fluorite
 ---

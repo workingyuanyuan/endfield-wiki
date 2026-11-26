@@ -1,10 +1,10 @@
 ---
 title: "헤드헌팅 확률과 천장"
 description: "《명일방주: 엔드필드》 헤드헌팅(뽑기): 6성 기본 확률 0.8%, 80회 안에 6성, 120회 안에 픽업 확정."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전"
 caveat: "80회 6성 횟수는 다음 특별 허가 헤드헌팅으로 이월된다. 120회 픽업 확정은 각 특별 허가 헤드헌팅 종료 시 초기화되며, 재구축 헤드헌팅에서는 같은 이름의 모든 회차를 통틀어 1회만 적용된다."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Headhunting rates and pity
   - 尋訪機率與保底
@@ -57,6 +57,12 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5208
   - title: "「단청도」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "「뜻밖의 만남, 버섯 동산 대모험」 버전 업데이트 설명"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "「모루, 배낭, 그리고 벌꿀」 특별 허가 헤드헌팅"
+    url: https://endfield.gryphline.com/en-us/news/5204
+  - title: "「떠도는 모든 소망에게」 재구축 헤드헌팅#1 및 「표류 신청」 재구축 신청#1 개방"
+    url: https://endfield.gryphline.com/en-us/news/8992
   - title: "「과거를 찾아서」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/0758
   - title: "Endfield Talos Wiki, Headhunting(확률, 65회와 80회, 50% 픽업 비율, 신입 헤드헌팅)"
@@ -142,18 +148,19 @@ sources:
 | 픽업 오퍼레이터 | 본인 특별 허가 헤드헌팅 | 버전 | 목록에 남은 마지막 특별 허가 헤드헌팅 | 이후 재등장 헤드헌팅 |
 | --- | --- | --- | --- | --- |
 | [레바테인](/ko/operators/laevatain/) | 불꽃에 그을린 상흔 | [1.0](/ko/versions/1-0/) | 격정의 색채 | 찬란한 빛의 축제(특수 헤드헌팅) |
-| [질베르타](/ko/operators/gilberta/) | 전달자의 바람 | [1.0](/ko/versions/1-0/) | 강에서 태어난 소녀 | 찬란한 빛의 축제(특수 헤드헌팅) |
+| [질베르타](/ko/operators/gilberta/) | 전달자의 바람 | [1.0](/ko/versions/1-0/) | 강에서 태어난 소녀 | 찬란한 빛의 축제(특수 헤드헌팅), 떠도는 모든 소망에게(재구축 헤드헌팅#1) |
 | [이본](/ko/operators/yvonne/) | 격정의 색채 | [1.0](/ko/versions/1-0/) | 울프펄 | 찬란한 색채(재구축 헤드헌팅#1) |
 | [탕탕](/ko/operators/tangtang/) | 강에서 태어난 소녀 | [1.1](/ko/versions/1-1/) | 봄의 천둥, 만물의 소생 | 선조의 샘의 새로운 물결(재구축 헤드헌팅#1) |
-| [로시](/ko/operators/rossi/) | 울프펄 | [1.1](/ko/versions/1-1/) | 후회 없는 주먹 | 없음 |
+| [로시](/ko/operators/rossi/) | 울프펄 | [1.1](/ko/versions/1-1/) | 후회 없는 주먹 | 붉은색의 진주(재구축 헤드헌팅#1) |
 | [장방이](/ko/operators/zhuang-fangyi/) | 봄의 천둥, 만물의 소생 | [1.2](/ko/versions/1-2/) | 죄를 쫓는 자 | 없음 |
 | [미브](/ko/operators/mi-fu/) | 후회 없는 주먹 | [1.3](/ko/versions/1-3/) | 벼랑 끝, 북쪽을 향한 시선 | 없음 |
 | [카뮤](/ko/operators/camille/) | 죄를 쫓는 자 | [1.3](/ko/versions/1-3/) | 빛나는 새벽의 별 | 없음 |
 | [결](/ko/operators/arcane/) | 벼랑 끝, 북쪽을 향한 시선 | [1.4](/ko/versions/1-4/) | 겨울 사냥 | 없음 |
 | [리노](/ko/operators/liino/) | 빛나는 새벽의 별 | [1.4](/ko/versions/1-4/) | 만물의 재구성 | 없음 |
 | [티프로스](/ko/operators/typhoeus/) | 겨울 사냥 | [1.5](/ko/versions/1-5/) | 은하수를 부르는 불꽃 | 없음 |
-| [사](/ko/operators/si/) | 만물의 재구성 | [1.6](/ko/versions/1-6/) | 만물의 재구성 이후 두 번째 특별 허가 헤드헌팅 | 없음 |
-| [명하](/ko/operators/argent-flow/) | 은하수를 부르는 불꽃 | [1.6](/ko/versions/1-6/) | 본인 이후 두 번째 특별 허가 헤드헌팅 | 없음 |
+| [사](/ko/operators/si/) | 만물의 재구성 | [1.6](/ko/versions/1-6/) | 모루, 배낭, 그리고 벌꿀 | 없음 |
+| [명하](/ko/operators/argent-flow/) | 은하수를 부르는 불꽃 | [1.6](/ko/versions/1-6/) | 모루, 배낭, 그리고 벌꿀 다음 특별 허가 헤드헌팅 | 없음 |
+| [케르](/ko/operators/kay/) | 모루, 배낭, 그리고 벌꿀 | [1.7](/ko/versions/1-7/) | 본인 이후 두 번째 특별 허가 헤드헌팅 | 없음 |
 
 출시 첫 목록인 「불꽃에 그을린 상흔」에는 뒤이어 픽업될 질베르타와 이본이 이미 포함되어 있었다. 따라서 질베르타는 총 4회, 이본은 총 5회의 특별 허가 헤드헌팅 목록에 들어갔지만, 본인 회차부터 세면 모든 픽업 오퍼레이터가 3회다.
 
@@ -163,6 +170,8 @@ sources:
 | --- | --- | --- | --- | --- |
 | 「찬란한 색채」 재구축 헤드헌팅#1 | 이본 | 격정의 색채 | 2026-09-24 12:00 ~ 1.6 버전 업데이트 점검 전 | 점묘 신청 |
 | 「선조의 샘의 새로운 물결」 재구축 헤드헌팅#1 | 탕탕 | 강에서 태어난 소녀 | 2026-10-29 12:00 ~ 2026-11-19 11:59 | 가지 신청 |
+| 「떠도는 모든 소망에게」 재구축 헤드헌팅#1 | 질베르타 | 전달자의 바람 | 1.7 버전 업데이트 후 ~ 2026-12-16 11:59 | 표류 신청 |
+| 「붉은색의 진주」 재구축 헤드헌팅#1 | 로시 | 울프펄 | 2026-12-16 12:00 ~ 1.7 버전 종료 | 적아 신청 |
 
 ## 특수 헤드헌팅
 

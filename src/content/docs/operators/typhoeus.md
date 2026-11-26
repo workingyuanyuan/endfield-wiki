@@ -1,10 +1,10 @@
 ---
 title: "Typhoeus"
 description: "Typhoeus is a 6-star Nature Striker with an Arts Unit; limited, rate-up in Winter Hunt."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
 caveat: "A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "提弗洛斯"
   - "ティフォロス"
@@ -23,10 +23,12 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/7012
   - title: "Dreamscape of Wind and Snow Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki, Typhoeus (game data 1.6)"
+  - title: "Meeting You in the World o'Shrooms Version Update Notes"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki, Typhoeus (game data 1.7)"
     url: https://warfarin.wiki/en/operators/typhoeus
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Typhoeus"
     url: https://endfield.wiki.gg/wiki/Typhoeus
 ---
@@ -67,7 +69,7 @@ Typhoeus is the rate-up 6-star operator of Winter Hunt, a Chartered Headhunting 
 | --- | --- | --- | --- | --- |
 | Winter Hunt | Chartered Headhunting | Rate-up | Version 1.5 update, 2026-09-02 | 2026-09-30 11:59 |
 | Rejuvenation | Chartered Headhunting | In the pool | Version 1.6 update, 2026-10-15 | 2026-11-05 11:59 |
-| The Hearth Fire Beckons the Starry Flow | Chartered Headhunting | In the pool | 2026-11-05 12:00 | End of Version 1.6 |
+| The Hearth Fire Beckons the Starry Flow | Chartered Headhunting | In the pool | 2026-11-05 12:00 | Version 1.7 update, 2026-11-25 |
 
 A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting.
 
@@ -221,3 +223,9 @@ Base skills work while Typhoeus is assigned to a room of the [Dijiang](/systems/
 | Promotion II | 60 | Protodisk ×25, Red Bolete ×5, T-Creds ×6500 |
 | Promotion III | 80 | Protoset ×24, Ruby Bolete ×5, T-Creds ×18000 |
 | Promotion IV | 90 | Protoset ×36, Tachyon Screening Lattice ×20, Talos Cap ×8, T-Creds ×100000 |
+
+## Changes since release
+
+| Version | Change |
+| --- | --- |
+| 1.7 | Two bugs fixed: when the combo skill was cast repeatedly with certain inputs, the Barrage Arrays of the later casts did not raise the Nature Burst damage enemies take; Hovering could become abnormal after the battle skill |

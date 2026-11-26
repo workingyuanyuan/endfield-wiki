@@ -1,9 +1,9 @@
 ---
 title: "Catcher"
 description: "Catcher is a 4-star Physical Defender with a greatsword; in the standard headhunting roster."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
 caveat: "Catcher has no rate-up banner. Catcher is in the standard roster that Basic Headhunting and every Chartered Headhunting pool draw from."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-01-22
 aliases:
   - "卡契爾"
@@ -16,10 +16,10 @@ art:
 sources:
   - title: "Official operator list (Gryphline)"
     url: https://endfield.gryphline.com/en-us/operator
-  - title: "warfarin.wiki, Catcher (game data 1.6)"
+  - title: "warfarin.wiki, Catcher (game data 1.7)"
     url: https://warfarin.wiki/en/operators/catcher
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Catcher"
     url: https://endfield.wiki.gg/wiki/Catcher
 ---

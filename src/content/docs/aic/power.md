@@ -1,37 +1,37 @@
 ---
 title: AIC power
 description: How AIC power works in Arknights Endfield, from the PAC and Thermal Banks to batteries and pylons.
-appliesTo: "Arknights: Endfield, global service, Version 1.6; facility and recipe data from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; facility and recipe data from game data 1.7"
 caveat: A blueprint places facilities, not power. Every facility it adds draws from the region's grid, and only Thermal Banks fed with Originium Ore or batteries raise the grid's output.
-lastVerified: 2026-11-21
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 集成工業電力
   - 集成工业电力
   - 集成工業の電力
   - 통합 공업 전력
 sources:
-  - title: warfarin.wiki, in-game tutorial Thermal Bank (game data 1.6)
+  - title: warfarin.wiki, in-game tutorial Thermal Bank (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_power_sta
-  - title: warfarin.wiki, in-game tutorial Backup Power (game data 1.6)
+  - title: warfarin.wiki, in-game tutorial Backup Power (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_backup_power
-  - title: "warfarin.wiki, in-game tutorial Protocol Automation-Core: Power Reserves Depletion (game data 1.6)"
+  - title: "warfarin.wiki, in-game tutorial Protocol Automation-Core: Power Reserves Depletion (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_zero_power
-  - title: "warfarin.wiki, in-game tutorials Relay Tower: Power Transmission and Relay Tower: Power Supply (game data 1.6)"
+  - title: "warfarin.wiki, in-game tutorials Relay Tower: Power Transmission and Relay Tower: Power Supply (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_power_link
-  - title: "warfarin.wiki, in-game tutorials Electric Pylon: Power Supply and Electric Pylon: Power Transmission (game data 1.6)"
+  - title: "warfarin.wiki, in-game tutorials Electric Pylon: Power Supply and Electric Pylon: Power Transmission (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_hub_plink
-  - title: warfarin.wiki, in-game tutorial Blueprint (game data 1.6)
+  - title: warfarin.wiki, in-game tutorial Blueprint (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_blueprint
-  - title: warfarin.wiki, Packaging Unit (game data 1.6)
+  - title: warfarin.wiki, Packaging Unit (game data 1.7)
     url: https://warfarin.wiki/en/facilities/tools_assebling_mc_1
-  - title: warfarin.wiki, Thermal Bank (game data 1.6)
+  - title: warfarin.wiki, Thermal Bank (game data 1.7)
     url: https://warfarin.wiki/en/facilities/power_station_1
-  - title: warfarin.wiki, Xiranite Pylon (game data 1.6)
+  - title: warfarin.wiki, Xiranite Pylon (game data 1.7)
     url: https://warfarin.wiki/en/facilities/power_diffuser_2
-  - title: warfarin.wiki, Xiranite Relay (game data 1.6)
+  - title: warfarin.wiki, Xiranite Relay (game data 1.7)
     url: https://warfarin.wiki/en/facilities/power_pole_3
-  - title: warfarin.wiki, Facilities (game data 1.6)
+  - title: warfarin.wiki, Facilities (game data 1.7)
     url: https://warfarin.wiki/en/facilities
   - title: Endfield Talos Wiki, Thermal Bank
     url: https://endfield.wiki.gg/wiki/Thermal_Bank
@@ -51,6 +51,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: Sanctuary of Ink Version Update Notes
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "Fuel table FactoryFuelItemTable (game data 1.7): HC Wuling Battery"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryFuelItemTable.json
+  - title: "Recipe table FactoryMachineCraftTable (game data 1.7): HC Wuling Battery"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryMachineCraftTable.json
 ---
 
 ## Why a factory runs out of power
@@ -103,10 +107,11 @@ A Thermal Bank must be connected to the grid to work, and turns Originium Ore or
 | HC Valley Battery | 40 s | 1100 | 90 |
 | LC Wuling Battery | 40 s | 1600 | 90 |
 | SC Wuling Battery | 40 s | 3200 | 90 |
+| HC Wuling Battery | 40 s | 6400 | 90 |
 
 ## Battery recipes
 
-All five batteries are made in the Packaging Unit (power use 20). Each recipe gives 1 battery in 10 seconds. There is no HC Wuling Battery in game data 1.6.
+All six batteries are made in the Packaging Unit (power use 20). Each recipe gives 1 battery in 10 seconds. HC Wuling Battery came with game data 1.7.
 
 | Battery | Inputs | Time | Output |
 | --- | --- | --- | --- |
@@ -115,6 +120,7 @@ All five batteries are made in the Packaging Unit (power use 20). Each recipe gi
 | HC Valley Battery | Steel Part ×10, Dense Originium Powder ×15 | 10 s | 1 |
 | LC Wuling Battery | Xiranite ×5, Dense Originium Powder ×15 | 10 s | 1 |
 | SC Wuling Battery | Xircon ×5, Dense Originium Powder ×20 | 10 s | 1 |
+| HC Wuling Battery | Equiranite ×5, Dense Originium Powder ×20 | 10 s | 1 |
 
 ### Inputs of the Wuling batteries
 
@@ -144,7 +150,7 @@ Since Version 1.3, Xiranite Pylons and Relays inside a Core AIC Area can connect
 | Power use | Facilities |
 | --- | --- |
 | 100 | Expanded Crucible |
-| 50 | Water Treatment Unit, Grinding Unit, Reactor Crucible, Forge of the Sky, Purification Unit, Fluid-Gas Transmuting Unit, Solid-Gas Transmuting Unit, Gas Reactor Globe |
+| 50 | Waste Treatment Unit, Grinding Unit, Reactor Crucible, Forge of the Sky, Purification Unit, Fluid-Gas Transmuting Unit, Solid-Gas Transmuting Unit, Gas Reactor Globe |
 | 20 | Acid Resistant Pump Mk II, Fitting Unit, Planting Unit, Filling Unit, Packaging Unit, Separating Unit |
 | 10 | Electric Mining Rig Mk II, Fluid Pump, Moulding Unit, Seed-Picking Unit, Gearing Unit, Sprinkler, Fluid Supply Unit |
 | 5 | Electric Mining Rig, Protocol Stash, Refining Unit, Shredding Unit, Zipline Pylon, Zipline Tower |

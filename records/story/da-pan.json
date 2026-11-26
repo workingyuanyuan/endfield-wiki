@@ -1,7 +1,7 @@
 {
  "slug": "da-pan",
  "gameId": "chr_0018_dapan",
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "files": [
   {
    "id": "CN_01",
@@ -371,7 +371,7 @@
   {
    "id": "chr_0018_dapan_mono_switch_01",
    "title": {
-    "en": "Standing by 1",
+    "en": "Standing By 1",
     "zh-TW": "待命1",
     "zh-CN": "待命1",
     "ja": "待機1",
@@ -389,7 +389,7 @@
   {
    "id": "chr_0018_dapan_mono_switch_02",
    "title": {
-    "en": "Standing by 2",
+    "en": "Standing By 2",
     "zh-TW": "待命2",
     "zh-CN": "待命2",
     "ja": "待機2",
@@ -612,7 +612,7 @@
     "ko": "선물 수락"
    },
    "text": {
-    "en": "I am deeply honored!",
+    "en": "I'm truly honored!",
     "zh-TW": "承蒙關照！",
     "zh-CN": "承蒙关照！",
     "ja": "いつもありがとよ！",
@@ -3205,7 +3205,7 @@
       "ko": "판"
      },
      "text": {
-      "en": "Sweet-sour fin, braised mangler, salt-baked fowl, wok-fried muck chow, steamed muck dumplings...",
+      "en": "Sweet-sour fin, braised mangler, salt-baked fowl, meat chow fun, steamed meat dumplings...",
       "zh-TW": "糖醋鱗、紅燒裂獸、鹽焗羽獸、乾炒獸肉河粉、獸肉蒸餃……",
       "zh-CN": "糖醋鳞、红烧裂兽、盐焗羽兽、干炒兽肉河粉、兽肉蒸饺……",
       "ja": "鱗獣の甘酢あんかけ、照り焼き裂獣、羽獣の塩釜焼き、獣肉とライスヌードルの炒め、獣肉蒸し餃子……",

@@ -1,11 +1,18 @@
 {
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg (I18nTextTable_EN, _TC, _JP, _KR); version titles from the ja-jp and ko-kr update notes (web-news.gryphline.com, read 2026-11-22)",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg (I18nTextTable_EN, _TC, _JP, _KR); version titles from the ja-jp and ko-kr update notes (web-news.gryphline.com, read 2026-11-22)",
  "names": [
   {
    "en": "\"Advance\"",
    "zh-TW": "「行軍」",
    "ja": "「進軍」",
    "ko": "'행군'",
+   "source": "tables"
+  },
+  {
+   "en": "\"Bonkie I Made\"",
+   "zh-TW": "「我打的錘」",
+   "ja": "「おいらのハンマー」",
+   "ko": "'내 망치 맛 좀 보라고!'",
    "source": "tables"
   },
   {
@@ -23,10 +30,38 @@
    "source": "tables"
   },
   {
+   "en": "\"Kwikker Smash\"",
+   "zh-TW": "「更快地砸」",
+   "ja": "「はやくたたく」",
+   "ko": "'더 빨리' 내려치기",
+   "source": "tables"
+  },
+  {
    "en": "\"Razorclaw\" Ambuscade",
    "zh-TW": "「利爪」奇襲",
    "ja": "“鋭爪”奇襲",
    "ko": "기습 '날카로운 발톱'",
+   "source": "tables"
+  },
+  {
+   "en": "\"Really Heavy Bash\"",
+   "zh-TW": "「很重地打」",
+   "ja": "“おもいいちげき”",
+   "ko": "'엄청 묵직한' 한 방",
+   "source": "tables"
+  },
+  {
+   "en": "\"Really Kwik Smash\"",
+   "zh-TW": "「很快地砸」",
+   "ja": "“はやいいちげき”",
+   "ko": "'엄청 빠른' 내려치기",
+   "source": "tables"
+  },
+  {
+   "en": "\"Really Sweet Combi-Bonker!\"",
+   "zh-TW": "「超甜蜜複合重錘！」",
+   "ja": "“超あまあま特製ハンマー”",
+   "ko": "'엄청 달콤한' 합체 망치!",
    "source": "tables"
   },
   {
@@ -454,6 +489,13 @@
    "zh-TW": "安塔爾",
    "ja": "アンタル",
    "ko": "안탈",
+   "source": "tables"
+  },
+  {
+   "en": "Anvil, Backpack, Plus A Pot o'Honey",
+   "zh-TW": "鍛砧、行囊與蜜糖",
+   "ja": "「かじ」とバッグとハチミツ！",
+   "ko": "모루, 배낭, 그리고 벌꿀",
    "source": "tables"
   },
   {
@@ -1010,6 +1052,13 @@
    "source": "tables"
   },
   {
+   "en": "Bonus DMG Multiplier per Hot Edgy Naives",
+   "zh-TW": "每層熱切天性額外傷害倍率",
+   "ja": "熱き天性1段階ごとの追加ダメージ倍率",
+   "ko": "뜨겁고 날카로운 천성 스택당 추가 피해 배율",
+   "source": "tables"
+  },
+  {
    "en": "Bonus DMG Multiplier per Infliction Stack",
    "zh-TW": "消耗每層附著額外傷害倍率",
    "ja": "付着消費1段階ごとの追加ダメージ倍率",
@@ -1042,6 +1091,13 @@
    "zh-TW": "每次雷擊額外終結技能量",
    "ja": "雷撃1回ごとの必殺チャージ追加回復量",
    "ko": "뇌격을 사용할 때마다 추가로 획득하는 궁극기 에너지",
+   "source": "tables"
+  },
+  {
+   "en": "Bottomless Arsenal",
+   "zh-TW": "無底武器庫",
+   "ja": "そこなし武器庫",
+   "ko": "무한의 무기고",
    "source": "tables"
   },
   {
@@ -1297,6 +1353,13 @@
    "source": "tables"
   },
   {
+   "en": "Christina Assaf-Costello",
+   "zh-TW": "Christina Assaf-Costello",
+   "ja": "Christina Assaf-Costello",
+   "ko": "Christina Assaf-Costello",
+   "source": "tables"
+  },
+  {
    "en": "Christine Marie Cabanos",
    "zh-TW": "Christine Marie Cabanos",
    "ja": "Christine Marie Cabanos",
@@ -1371,6 +1434,13 @@
    "zh-TW": "連擊持續時間（秒）",
    "ja": "リンク持続時間（秒）",
    "ko": "연타 지속 시간(초)",
+   "source": "tables"
+  },
+  {
+   "en": "Combustion Duration (s)",
+   "zh-TW": "燃燒持續時間（秒）",
+   "ja": "燃焼持続時間（秒）",
+   "ko": "연소 지속 시간(초)",
    "source": "tables"
   },
   {
@@ -2154,8 +2224,8 @@
    "en": "Endfield Industries",
    "zh-TW": "終末地工業",
    "ja": "エンドフィールド工業",
-   "ko": "엔드필드 공업",
-   "source": "tables"
+   "source": "tables, several ({'エンドフィールド': 7, 'エンドフィールド工業': 64}); faction: 64 of the 71 ids in game data 1.7 give エンドフィールド工業; seven give エンドフィールド",
+   "ko": "엔드필드 공업"
   },
   {
    "en": "Endministrator",
@@ -2210,7 +2280,7 @@
    "en": "Enhanced Final Strike DMG Multiplier",
    "zh-TW": "強力攻擊傷害倍率",
    "ja": "強攻撃ダメージ倍率",
-   "ko": "강력 공격 피해 배율",
+   "ko": "강력한 공격 피해 배율",
    "source": "tables"
   },
   {
@@ -2323,6 +2393,13 @@
    "zh-TW": "機巧專家",
    "ja": "メカエキスパート",
    "ko": "기교 전문가",
+   "source": "tables"
+  },
+  {
+   "en": "Expert Roamer",
+   "zh-TW": "野遊專家",
+   "ja": "アウトドア専門家",
+   "ko": "소풍 전문가",
    "source": "tables"
   },
   {
@@ -2504,7 +2581,7 @@
    "en": "First ATK Multiplier",
    "zh-TW": "初次傷害倍率",
    "ja": "初回ダメージ倍率",
-   "ko": "초회 피해 배율",
+   "ko": "최초 피해 배율",
    "source": "tables"
   },
   {
@@ -3073,6 +3150,13 @@
    "ja": "宏山科学院",
    "ko": "홍산 과학원",
    "source": "tables, by the Traditional Chinese text (English abbreviation)"
+  },
+  {
+   "en": "Have a Waffle!",
+   "zh-TW": "來塊蜜餅吧！",
+   "ja": "はちみつワッフルだよ！",
+   "ko": "벌꿀 와플 한 입 할래?",
+   "source": "tables"
   },
   {
    "en": "Hayami Show",
@@ -3698,6 +3782,13 @@
    "source": "tables"
   },
   {
+   "en": "Kay",
+   "zh-TW": "小刻",
+   "ja": "ケーちゃん",
+   "ko": "케르",
+   "source": "tables"
+  },
+  {
    "en": "Kevin Andrew Rivera",
    "zh-TW": "Kevin Andrew Rivera",
    "ja": "Kevin Andrew Rivera",
@@ -3848,7 +3939,7 @@
    "en": "Kylin",
    "zh-TW": "麒麟",
    "ja": "麒麟",
-   "ko": "키린",
+   "ko": "기린",
    "source": "tables"
   },
   {
@@ -4195,6 +4286,13 @@
    "source": "tables"
   },
   {
+   "en": "Meeting You in the World o'Shrooms",
+   "zh-TW": "穿越甚大蘑境與你相逢",
+   "ja": "キノコ菌グ！？君との大冒険！",
+   "ko": "뜻밖의 만남, 버섯 동산 대모험",
+   "source": "notice 0740"
+  },
+  {
    "en": "Mega Lunker Rumors",
    "zh-TW": "特大鱗訊",
    "ja": "特大鱗獣ニュース",
@@ -4269,6 +4367,13 @@
    "zh-TW": "幻影追擊傷害倍率",
    "ja": "幻影追撃ダメージ倍率",
    "ko": "환영 추격 피해 배율",
+   "source": "tables"
+  },
+  {
+   "en": "Miso",
+   "zh-TW": "洣卲",
+   "ja": "미소",
+   "ko": "미소",
    "source": "tables"
   },
   {
@@ -4776,6 +4881,13 @@
    "source": "tables"
   },
   {
+   "en": "Picnic Prep",
+   "zh-TW": "野餐準備",
+   "ja": "ピクニックの準備",
+   "ko": "소풍 준비",
+   "source": "tables"
+  },
+  {
    "en": "Piercing Arrows of the Woods",
    "zh-TW": "風矢穿林",
    "ja": "風裂く一矢",
@@ -4871,6 +4983,13 @@
    "zh-TW": "鬧劇專家",
    "ja": "トラブルメーカー",
    "ko": "혼란 유발자",
+   "source": "tables"
+  },
+  {
+   "en": "Precious Scarlet",
+   "zh-TW": "緋紅瑰寶",
+   "ja": "スカーレットパール",
+   "ko": "붉은색의 진주",
    "source": "tables"
   },
   {
@@ -5067,6 +5186,13 @@
    "zh-TW": "輕盈腳步",
    "ja": "軽やかステップ",
    "ko": "가벼운 발걸음",
+   "source": "tables"
+  },
+  {
+   "en": "Raid Comet",
+   "zh-TW": "突擊流星",
+   "ja": "アサルトメテオ",
+   "ko": "유성 돌격",
    "source": "tables"
   },
   {
@@ -5644,6 +5770,13 @@
    "source": "tables"
   },
   {
+   "en": "Seto Asami",
+   "zh-TW": "瀨戶麻沙美",
+   "ja": "瀬戸麻沙美",
+   "ko": "세토 아사미",
+   "source": "tables"
+  },
+  {
    "en": "Seš'qa",
    "zh-TW": "塞什卡",
    "ja": "セシュカ",
@@ -5938,6 +6071,13 @@
    "source": "tables"
   },
   {
+   "en": "SP Recovery per Picnic Snack",
+   "zh-TW": "每個野餐點心回復技力",
+   "ja": "ピクニックのおやつ1つのSP回復量",
+   "ko": "소풍 간식 한 개당 스킬 게이지 회복량",
+   "source": "tables"
+  },
+  {
    "en": "SP Recovery per SEQ",
    "zh-TW": "每段回復技力",
    "ja": "1段ごとのSP回復量",
@@ -5955,7 +6095,7 @@
    "en": "SP Return",
    "zh-TW": "返還技力",
    "ja": "SP返還量",
-   "source": "tables, several ({'SP返還量': 60, '戦技ポイント（SP）の返還': 3}); skill value name: 60 of the 63 ids give SP返還量; three give 戦技ポイント（SP）の返還",
+   "source": "tables, several ({'戦技ポイント（SP）の返還': 3, 'SP返還量': 60}); skill value name: 60 of the 63 ids give SP返還量; three give 戦技ポイント（SP）の返還",
    "ko": "스킬 게이지 반환"
   },
   {
@@ -6292,6 +6432,13 @@
    "zh-TW": "鈴代紗弓",
    "ja": "鈴代紗弓",
    "ko": "스즈시로 사유미",
+   "source": "tables"
+  },
+  {
+   "en": "Sweet Deal",
+   "zh-TW": "甜美交易",
+   "ja": "スウィートディール",
+   "ko": "달콤한 거래",
    "source": "tables"
   },
   {
@@ -6673,6 +6820,13 @@
    "source": "tables"
   },
   {
+   "en": "To Every Wish Adrift",
+   "zh-TW": "致每一個飄遊之願",
+   "ja": "ひらり漂うすべての願いへ",
+   "ko": "떠도는 모든 소망에게",
+   "source": "tables"
+  },
+  {
    "en": "Total Stagger",
    "zh-TW": "總失衡值",
    "ja": "総ブレイク値",
@@ -6705,6 +6859,13 @@
    "zh-TW": "每點敏捷增加的治療值",
    "ja": "敏捷1ごとの回復値UP",
    "ko": "민첩 1포인트마다 증가하는 치유 수치",
+   "source": "tables"
+  },
+  {
+   "en": "Treatment Increase per Agility",
+   "zh-TW": "每點敏捷額外增加的治療值",
+   "ja": "敏捷1ごとの追加回復値UP",
+   "ko": "민첩 1포인트마다 추가로 증가하는 치유 수치",
    "source": "tables"
   },
   {
@@ -7044,6 +7205,13 @@
    "source": "tables"
   },
   {
+   "en": "Waste Treatment Unit",
+   "zh-TW": "廢料處理機",
+   "ja": "無害化処理機",
+   "ko": "폐기물 처리기",
+   "source": "tables"
+  },
+  {
    "en": "Watanabe Akeno",
    "zh-TW": "渡邊明乃",
    "ja": "渡辺明乃",
@@ -7055,13 +7223,6 @@
    "zh-TW": "觀海",
    "ja": "観海",
    "ko": "조류를 향한 시선",
-   "source": "tables"
-  },
-  {
-   "en": "Water Treatment Unit",
-   "zh-TW": "廢水處理機",
-   "ja": "廃水処理機",
-   "ko": "오염수 처리기",
    "source": "tables"
   },
   {
@@ -7142,6 +7303,13 @@
    "source": "tables"
   },
   {
+   "en": "Wild Wacky-Whack",
+   "zh-TW": "野性打擊",
+   "ja": "やせいのだげき",
+   "ko": "야성의 일격",
+   "source": "tables"
+  },
+  {
    "en": "Wild Wanderer",
    "zh-TW": "迷失荒野",
    "ja": "荒野迷走",
@@ -7160,6 +7328,13 @@
    "zh-TW": "追獵荒原",
    "ja": "荒原の狩猟",
    "ko": "황무지의 사냥꾼",
+   "source": "tables"
+  },
+  {
+   "en": "Wildness Ignited",
+   "zh-TW": "野性引燃",
+   "ja": "「もえるやせい」",
+   "ko": "타오르는 야성",
    "source": "tables"
   },
   {

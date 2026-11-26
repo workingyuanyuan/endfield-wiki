@@ -1,19 +1,19 @@
 ---
 title: 集成工業總覽
 description: 集成工業系統（AIC）是《明日方舟：終末地》中在各地區搭建的自動化工廠。
-appliesTo: 《明日方舟：終末地》國際版，1.6 版；設備資料取自遊戲資料 1.6
+appliesTo: 《明日方舟：終末地》國際版，1.7 版；設備資料取自遊戲資料 1.7
 caveat: 每個地區（四號谷地、武陵）各有自己的協議核心、電網、倉庫與協議容量；大部分設備只有在本地區電網上已通電的供電樁供電範圍內才能運作。
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - AIC overview
   - 集成工业总览
   - "集成工業の概要"
   - "통합 공업 개요"
 sources:
-  - title: warfarin.wiki 遊戲內教學「集成工業系統」「協議核心」「次級核心」「地區倉庫」「工業發展規劃」（遊戲資料 1.6）
+  - title: warfarin.wiki 遊戲內教學「集成工業系統」「協議核心」「次級核心」「地區倉庫」「工業發展規劃」（遊戲資料 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_aic
-  - title: warfarin.wiki 設備列表（遊戲資料 1.6）
+  - title: warfarin.wiki 設備列表（遊戲資料 1.7）
     url: https://warfarin.wiki/en/facilities
   - title: Endfield Talos Wiki 的 Automated Industry Complex 頁
     url: https://endfield.wiki.gg/wiki/Automated_Industry_Complex
@@ -33,6 +33,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5208
   - title: 「丹青渡」版本更新說明
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: 「穿越甚大蘑境與你相逢」版本更新說明
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 | 主題 | 內容 |
@@ -107,7 +109,7 @@ sources:
 | Moulding Unit | 塑形機 | 塑形机 | 10 |
 | Planting Unit | 種植機 | 种植机 | 20 |
 | Seed-Picking Unit | 採種機 | 采种机 | 10 |
-| Water Treatment Unit | 廢水處理機 | 废水处理机 | 50 |
+| Waste Treatment Unit | 廢料處理機 | 废料处理机 | 50 |
 
 ### 合成製造
 
@@ -158,8 +160,9 @@ sources:
 | 1.4 | 武陵新增氣體相關工業模式與氣體設備；新增據點盈天台建設站；野外設備可從地圖遠端收回至倉庫；暗管連接距離上限提升至 300m。 |
 | 1.5 | 新增連續擺放；框選新建藍圖時即時顯示藍圖可儲存的設備數量上限。 |
 | 1.6 | 新增自動農植機，用於祀的畫的種植區，之後也可用於武陵城的種植區。背包或任意倉庫中已有設備，或倉庫內材料足以製造時，可直接擺放設備。 |
+| 1.7 | 武陵新增陣列相關的工業模式，包括平衡爐、明晦爐、分影明晦爐與重建供應接口；重建禁區。廢水處理機改名為廢料處理機。物品准入口與管道准入口可直接擺在設備的接口上。 |
 
-1.1 至 1.6 版每一版也都提升了武陵的地區建設等級上限。
+1.1 至 1.7 版每一版也都提升了武陵的地區建設等級上限。
 
 ## 藍圖分享規範
 

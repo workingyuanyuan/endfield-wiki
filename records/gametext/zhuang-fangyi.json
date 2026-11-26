@@ -1,7 +1,7 @@
 {
  "slug": "zhuang-fangyi",
  "gameId": "chr_0030_zhuangfy",
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "intro": {
   "en": "\"If you never give up, you never really lose.\"\nOperator Zhuang Fangyi, serves as the Viceroy of the Wuling Scientific Developmental District, and also the Tianshi in charge of the Novel Xiranite-based Materials Project. Upon recommendation from the HAS, she joined Endfield Industries to conduct rift-related research.\nZhuang Fangyi, a native of Hongshan, demonstrated extraordinary aptitude from an early age and was admitted to the Tianshi Bureau Academies before reaching adulthood with outstanding academic performance. She was later selected for the Xiranite Project due to her exceptional abilities, becoming the youngest member of the Wuling Science Station. Following a disaster that resulted in near-total loss of personnel at the Science Station, she, despite being the most junior member, was appointed to the position of Viceroy, assuming leadership responsibilities and bearing the weight of all Wuling.\nAppointed in a time of crisis, she quickly pulled herself together. In just a single decade, she not only built Wuling into a thriving city but also, through trial and error, grew into a dedicated and responsible leader. However, the disaster from a decade ago remains a sword hanging over everyone's heads, constantly reminding her that the peace and prosperity of Wuling City could vanish in an instant.\n\"So long as we still stand, nothing is truly lost.\"",
   "zh-TW": "「能咬牙堅持下來，就不算輸。」\n幹員莊方宜，武陵科學發展區管代，息壤新材計劃負責天師。經宏科院推薦加入終末地，進行裂隙相關的研究。\n莊方宜出身宏山，自幼便展現出非凡天賦，未成年就以優異成績進入天師府學院。其後因才能卓越被選拔加入息壤計劃，成為武陵科研站最年輕的成員。一場災難中，科研站幾乎全軍覆沒，資歷最淺的她被推上台前，擔任管代職位，背負起整個武陵。\n臨危受命，她很快振作起來，不僅在短短十年間建設起繁榮的武陵城，她本人也在摸索中成為了一名盡職盡責的領袖。但十年前的災難仍是懸在眾人頭頂的一把劍，時刻提醒著她，武陵城的安居樂業可能會轉瞬即逝。\n「人還在，那就什麼都在。」",
@@ -162,7 +162,7 @@
     "zh-TW": "戰技驚霆訣的傷害倍率提升至原本的1.15倍。且進入戰鬥後首次施放戰技額外生成1柄青霆劍。\n額外生成的青霆劍無視單次戰技的青霆劍生成數量限制。",
     "zh-CN": "战技惊霆诀的伤害倍率提升至原本的1.15倍。且进入战斗后首次施放战技额外生成1柄青霆剑。\n额外生成的青霆剑无视单次战技的青霆剑生成数量限制。",
     "ja": "戦技「驚雷訣」のダメージ倍率が1.15倍までアップし、戦闘開始後に初めて発動する戦技は追加で蒼雷剣を1本生成する\n追加で生成する蒼雷剣は1回の戦技で生成できる蒼雷剣の数量制限を受けない",
-    "ko": "배틀 스킬 뇌정의 부름의 피해 배율이 기존의 1.15배로 증가합니다. 또한 전투 진입 후, 가장 처음 사용하는 배틀 스킬이 청뢰검 1자루를 추가로 생성합니다.\n추가로 생성하는 청뢰검은 한 번의 배틀 스킬로 생성할 수 있는 청뢰검의 수량 제한을 무시합니다."
+    "ko": "배틀 스킬 뇌정의 부름의 피해 배율이 기존의 1.15배로 증가합니다. 또한 전투에 진입한 후, 가장 처음 사용하는 배틀 스킬이 청뢰검 1자루를 추가로 생성합니다.\n 추가로 생성하는 청뢰검은 한 번의 배틀 스킬로 생성할 수 있는 청뢰검의 수량 제한을 무시합니다."
    }
   },
   {

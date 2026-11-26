@@ -1,10 +1,10 @@
 ---
 title: 系统总览
 description: 《明日方舟：终末地》的寻访、武库申领、服务器、平台、战斗、养成、武器、装备、敌人与帝江号。
-appliesTo: 《明日方舟：终末地》国际版，1.6 版
+appliesTo: 《明日方舟：终末地》国际版，1.7 版
 caveat: 概率提升的 6 星干员只留在 3 期特许寻访（含自己那一期）的卡池中，也永远不会加入基础寻访。
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-21
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Systems
   - 系統總覽
@@ -13,7 +13,7 @@ aliases:
 sources:
   - title: 官方新闻列表 (Gryphline)
     url: https://endfield.gryphline.com/en-us/news
-  - title: warfarin.wiki（游戏数据 1.6）
+  - title: warfarin.wiki（游戏数据 1.7）
     url: https://warfarin.wiki/en
 ---
 

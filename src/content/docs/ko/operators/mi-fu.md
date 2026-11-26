@@ -1,9 +1,9 @@
 ---
 title: "미브"
 description: "미브는 양손검을 사용하는 6성 물리 속성 가드 오퍼레이터로, 「후회 없는 주먹」에서 확률 증가 대상이었던 한정 오퍼레이터이다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "한정 오퍼레이터는 자신의 헤드헌팅 이후 다음 2회의 특별 허가 헤드헌팅에도 확률 증가 없이 포함되고, 그 뒤 명단에서 빠진다. 한정 오퍼레이터는 기초 헤드헌팅에 추가되지 않는다."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-07-15
 aliases:
   - "Mi Fu"
@@ -23,10 +23,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/2656
   - title: "「과거를 찾아서」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/0758
-  - title: "warfarin.wiki, 미브(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 미브(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/mifu
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Mi Fu"
     url: https://endfield.wiki.gg/wiki/Mi_Fu
 ---
@@ -103,7 +103,7 @@ sources:
 
 ### 청파 삼형
 
-> 연속으로 사용하면 최대 3가지의 서로 다른 형태의 초식을 사용할 수 있습니다. 가장 처음 사용할 수 있는 배틀 스킬은 단운입니다.\
+> 연속으로 사용하면 최대 3가지의 서로 다른 형태의 기술을 사용할 수 있습니다. 가장 처음 사용할 수 있는 배틀 스킬은 단운입니다.\
 > 단운: 100 스킬 게이지를 소모하고, 사용 후 50 스킬 게이지를 반환합니다. 권갑에서 포승줄을 발사하여 목표 및 그 주변의 다른 적에게 물리 피해를 주고, 자기 쪽으로 끌어오기를 시도합니다. 사용 후, 배틀 스킬은 일정 시간 내에 추형으로 교체됩니다.\
 > 추형: 50 스킬 게이지를 소모합니다. 전방으로 주먹을 연속으로 휘둘러 물리 피해를 주며, 마지막 일격은 추가로 강타 피해를 줍니다. 만약 이번 강타로 소모한 최대 방어 불능 스택 수치가 3스택 이상일 경우, 배틀 스킬은 일정 시간 내에 개천으로 교체됩니다.\
 > 개천: 50 스킬 게이지를 소모하여 전방 범위에 대량의 물리 피해를 줍니다. 이번 피해의 유형은 배틀 스킬 피해가 아니며 강타 피해로 간주됩니다.

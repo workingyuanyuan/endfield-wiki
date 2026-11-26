@@ -1,7 +1,7 @@
 {
  "slug": "mi-fu",
  "gameId": "chr_0031_mifu",
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "intro": {
   "en": "\"We're battle-forged teammates, right?\"\nMi Fu, Captain of the Wuling Watch and trusted subordinate of Viceroy Tianshi Zhuang Fangyi. A perennial winner of Wuling's \"Vanguard Stars\" award, she ranks second on the city's civilian combat power leaderboard. To her colleagues, she is both the strictest instructor and the most caring superior. A regular at the sweet rice cake stall on Fangxing Avenue, she is a hero to children, a nightmare for troublemakers, and the bane of any invader. Though labeled a \"traitor\" by Qingbo Stockade, she remains the true successor of Qingbo Martial Arts. Tangtang's childhood friend and rival, she is a warrior who fought to the bitter end against the Blight Tide without ever retreating...\nIf you want to know Mi Fu better, you can either become her rival or her friend — those are the two relationships she values most. The former gets her blood pumping; the latter drives her to throw every punch without regard for her own life.\nNow, to repay the friends who fought by her side and to take on more rivals worth fighting again and again, she has begun her exchange journey at Endfield Industries.\n\"This time, I'll clean up the mess for you.\"",
   "zh-TW": "「我們是過命的交情，對吧？」\n弭弗，武陵城巡衛隊隊長，管代天師莊方宜的得力手下，多年蟬聯武陵「先進之星」，武陵城民間戰力排行榜第二名，同事眼中最嚴厲的教官與最照顧人的上司，方興衢糖油粑粑攤常客，孩子們憧憬的榜樣，惹是生非者的噩夢，來犯之敵的剋星，清波寨的「叛徒」，清波武藝的傳人，湯湯的童年摯友兼對頭，在侵蝕潮前死戰不退的鬥士……\n如果想要更加瞭解弭弗，你可以做她的對手，或者成為她的朋友——這是對她而言最重要的兩種關係。前者令她熱血沸騰，後者則能讓她不惜性命地揮出拳頭。\n現在，為了報答並肩作戰的朋友，挑戰更多值得一戰再戰的對手，她開始了在終末地工業的交流之旅。\n「這一次，換我來幫你解決麻煩。」",
@@ -42,7 +42,7 @@
     "zh-TW": "連續施放可最多施放3段不同招式，初始戰技為斷雲。\n斷雲：消耗100技力，施放後返還50技力。從拳套中發射出拘束索，對目標及其附近敵人造成物理傷害並嘗試將其拉至自身附近。施放後戰技在一段時間內替換為追形。\n追形：消耗50技力。朝前方連續揮拳造成物理傷害，最後一拳額外造成猛擊。如果本次猛擊消耗的最大破防層數不少於3層，戰技在一段時間內替換為開天。\n開天：消耗50技力，朝前方範圍造成大量物理傷害。本次傷害類型不屬於戰技傷害，而是視為猛擊傷害。",
     "zh-CN": "连续施放可最多施放3段不同招式，初始战技为断云。\n断云：消耗100技力，施放后返还50技力。从拳套中发射出拘束索，对目标及其附近敌人造成物理伤害并尝试将其拉取至自身附近。施放后战技在一段时间内替换为追形。\n追形：消耗50技力。朝前方连续挥拳造成物理伤害，最后一拳额外造成猛击。如果本次猛击消耗的最大破防层数不少于3层，战技在一段时间内替换为开天。\n开天：消耗50技力，朝前方范围造成大量物理伤害。本次伤害类型不属于战技伤害，而是视为猛击伤害。",
     "ja": "最大3段の異なる技を連続で発動できる。最初の戦技は断雲。\n断雲：SPを100消費し、発動後に50返還される。ガントレットから拘束フックを発射し、目標とその周囲の敵に物理ダメージを与え、自身の近くに引き寄せる。発動後、一定時間戦技が追形に替わる。\n追形：SPを50消費する。前方に向かって連続で拳を繰り出し、物理ダメージを与え、最後の一撃は追加で猛撃を与える。この猛撃で消費する最大のクラッシュ段階が3以上の場合、一定時間戦技が開天に替わる。\n開天：SPを50消費する。前方範囲に高い物理ダメージを与える。このダメージは戦技ダメージではなく、猛撃ダメージと見なされる。",
-    "ko": "연속으로 사용하면 최대 3가지의 서로 다른 형태의 초식을 사용할 수 있습니다. 가장 처음 사용할 수 있는 배틀 스킬은 단운입니다.\n단운: 100 스킬 게이지를 소모하고, 사용 후 50 스킬 게이지를 반환합니다. 권갑에서 포승줄을 발사하여 목표 및 그 주변의 다른 적에게 물리 피해를 주고, 자기 쪽으로 끌어오기를 시도합니다. 사용 후, 배틀 스킬은 일정 시간 내에 추형으로 교체됩니다.\n추형: 50 스킬 게이지를 소모합니다. 전방으로 주먹을 연속으로 휘둘러 물리 피해를 주며, 마지막 일격은 추가로 강타 피해를 줍니다. 만약 이번 강타로 소모한 최대 방어 불능 스택 수치가 3스택 이상일 경우, 배틀 스킬은 일정 시간 내에 개천으로 교체됩니다.\n개천: 50 스킬 게이지를 소모하여 전방 범위에 대량의 물리 피해를 줍니다. 이번 피해의 유형은 배틀 스킬 피해가 아니며 강타 피해로 간주됩니다."
+    "ko": "연속으로 사용하면 최대 3가지의 서로 다른 형태의 기술을 사용할 수 있습니다. 가장 처음 사용할 수 있는 배틀 스킬은 단운입니다.\n단운: 100 스킬 게이지를 소모하고, 사용 후 50 스킬 게이지를 반환합니다. 권갑에서 포승줄을 발사하여 목표 및 그 주변의 다른 적에게 물리 피해를 주고, 자기 쪽으로 끌어오기를 시도합니다. 사용 후, 배틀 스킬은 일정 시간 내에 추형으로 교체됩니다.\n추형: 50 스킬 게이지를 소모합니다. 전방으로 주먹을 연속으로 휘둘러 물리 피해를 주며, 마지막 일격은 추가로 강타 피해를 줍니다. 만약 이번 강타로 소모한 최대 방어 불능 스택 수치가 3스택 이상일 경우, 배틀 스킬은 일정 시간 내에 개천으로 교체됩니다.\n개천: 50 스킬 게이지를 소모하여 전방 범위에 대량의 물리 피해를 줍니다. 이번 피해의 유형은 배틀 스킬 피해가 아니며 강타 피해로 간주됩니다."
    },
    "conditions": []
   },

@@ -1,17 +1,17 @@
 ---
 title: "Wulfgard's file"
 description: "Wulfgard's 6 operator files, 79 voice lines and 6 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "狼衛的檔案"
   - "狼卫的档案"
   - "ウルフガードのプロファイル"
   - "울프가드의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -141,8 +141,8 @@ sources:
 | Operator Promotion 3 | Every wolf in the Pack earns its place through bloodshed. Take down enough prey, and you rise. Endmin, does this mean you have approved of my hunt? | Promotion III |
 | Operator Promotion 4 | I witnessed the Pack brought low and the devastation that came with it. This is why I've decided to find a new path for Rossi and the rest of the wolves... Fate brought us together, Endministrator. It's an honor to walk this path with you. | Promotion IV |
 | Operator Reporting for Duty | Catello Wulfgard Luppino, Endfield Crisis Team. I represent the Pack. Give me any merc job, and as long as our contract stands, I'll be your claws and fangs. |  |
-| Standing by 1 | Got a new assignment? |  |
-| Standing by 2 | I'm here. |  |
+| Standing By 1 | Got a new assignment? |  |
+| Standing By 2 | I'm here. |  |
 | Assigning to Facility | Short on people here too? |  |
 | Greeting 1 | Endmin. |  |
 | Greeting 2 | Need me to tag along, Endmin? I can make time for you. | Reach trust: 300 |

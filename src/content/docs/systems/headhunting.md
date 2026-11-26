@@ -1,10 +1,10 @@
 ---
 title: Headhunting rates and pity
 description: "Arknights: Endfield headhunting: 0.8% base 6-star rate, a 6-star within 80 pulls, the rate-up within 120."
-appliesTo: "Arknights: Endfield, global service, Version 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7"
 caveat: "The 80-pull 6-star count carries over from one Chartered banner to the next; the 120-pull rate-up guarantee resets when each Chartered banner ends, while in RE-Factor Headhunting it counts once across all banners of one name."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 尋訪機率與保底
   - 寻访概率与保底
@@ -57,6 +57,12 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5208
   - title: Sanctuary of Ink Version Update Notes
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: Meeting You in the World o'Shrooms Version Update Notes
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: Anvil, Backpack, Plus A Pot o'Honey Chartered Headhunting
+    url: https://endfield.gryphline.com/en-us/news/5204
+  - title: To Every Wish Adrift RE-Factor Headhunting #1 and Floaty Traveler Issue RE-Factor Issue #1
+    url: https://endfield.gryphline.com/en-us/news/8992
   - title: Sketches of Lost Heirlooms Version Update Notes
     url: https://endfield.gryphline.com/en-us/news/0758
   - title: Endfield Talos Wiki, Headhunting (rates, 65 and 80 pulls, 50% rate-up share, beginner banner)
@@ -144,18 +150,19 @@ A rate-up 6-star operator leaves the Chartered pool after three Chartered banner
 | Rate-up operator | Own Chartered banner | Version | Last Chartered pool with the operator | Later banners with the operator |
 | --- | --- | --- | --- | --- |
 | [Laevatain](/operators/laevatain/) | Scars of the Forge | [1.0](/versions/1-0/) | Hues of Passion | Fest of Brilliance (Special) |
-| [Gilberta](/operators/gilberta/) | The Floaty Messenger | [1.0](/versions/1-0/) | River's Daughter | Fest of Brilliance (Special) |
+| [Gilberta](/operators/gilberta/) | The Floaty Messenger | [1.0](/versions/1-0/) | River's Daughter | Fest of Brilliance (Special), To Every Wish Adrift (RE-Factor #1) |
 | [Yvonne](/operators/yvonne/) | Hues of Passion | [1.0](/versions/1-0/) | Wolf Pearl | Resplendent Spectrum (RE-Factor #1) |
 | [Tangtang](/operators/tangtang/) | River's Daughter | [1.1](/versions/1-1/) | Thunder of Renewal | Ancestral Spring Flows Anew (RE-Factor #1) |
-| [Rossi](/operators/rossi/) | Wolf Pearl | [1.1](/versions/1-1/) | Fists of No Regrets | None |
+| [Rossi](/operators/rossi/) | Wolf Pearl | [1.1](/versions/1-1/) | Fists of No Regrets | Precious Scarlet (RE-Factor #1) |
 | [Zhuang Fangyi](/operators/zhuang-fangyi/) | Thunder of Renewal | [1.2](/versions/1-2/) | Expunger of Sin | None |
 | [Mi Fu](/operators/mi-fu/) | Fists of No Regrets | [1.3](/versions/1-3/) | North Yearns the Rift Vigile | None |
 | [Camille](/operators/camille/) | Expunger of Sin | [1.3](/versions/1-3/) | Good Morning from Your Dawnstar | None |
 | [Arcane](/operators/arcane/) | North Yearns the Rift Vigile | [1.4](/versions/1-4/) | Winter Hunt | None |
 | [Liino](/operators/liino/) | Good Morning from Your Dawnstar | [1.4](/versions/1-4/) | Rejuvenation | None |
 | [Typhoeus](/operators/typhoeus/) | Winter Hunt | [1.5](/versions/1-5/) | The Hearth Fire Beckons the Starry Flow | None |
-| [Si](/operators/si/) | Rejuvenation | [1.6](/versions/1-6/) | The second Chartered banner after Rejuvenation | None |
-| [Argent Flow](/operators/argent-flow/) | The Hearth Fire Beckons the Starry Flow | [1.6](/versions/1-6/) | The second Chartered banner after it | None |
+| [Si](/operators/si/) | Rejuvenation | [1.6](/versions/1-6/) | Anvil, Backpack, Plus A Pot o'Honey | None |
+| [Argent Flow](/operators/argent-flow/) | The Hearth Fire Beckons the Starry Flow | [1.6](/versions/1-6/) | The Chartered banner after Anvil, Backpack, Plus A Pot o'Honey | None |
+| [Kay](/operators/kay/) | Anvil, Backpack, Plus A Pot o'Honey | [1.7](/versions/1-7/) | The second Chartered banner after it | None |
 
 At release the first pool, Scars of the Forge, already held Gilberta and Yvonne, the rate-ups of the two banners after it. Gilberta was therefore in four Chartered pools and Yvonne in five; counted from its own banner, every rate-up operator is in three.
 
@@ -165,6 +172,8 @@ At release the first pool, Scars of the Forge, already held Gilberta and Yvonne,
 | --- | --- | --- | --- | --- |
 | Resplendent Spectrum RE-Factor Headhunting #1 | Yvonne | Hues of Passion | 2026-09-24 12:00 to the Version 1.6 update maintenance | Tag Artist Issue |
 | Ancestral Spring Flows Anew RE-Factor Headhunting #1 | Tangtang | River's Daughter | 2026-10-29 12:00 to 2026-11-19 11:59 | Tender Sprig Issue |
+| To Every Wish Adrift RE-Factor Headhunting #1 | Gilberta | The Floaty Messenger | The Version 1.7 update to 2026-12-16 11:59 | Floaty Traveler Issue |
+| Precious Scarlet RE-Factor Headhunting #1 | Rossi | Wolf Pearl | 2026-12-16 12:00 to the end of Version 1.7 | Scarlet Claws Issue |
 
 ## Special Headhunting
 

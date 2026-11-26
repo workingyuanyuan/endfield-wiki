@@ -1,17 +1,17 @@
 ---
 title: "管理员的档案"
 description: "管理员的 3 份干员档案与 55 句语音。"
-appliesTo: "《明日方舟：终末地》；游戏资料 1.6 的简体中文文字"
+appliesTo: "《明日方舟：终末地》；游戏资料 1.7 的简体中文文字"
 caveat: "各语言是游戏各自的版本，句子不一定逐句对应。"
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "Endministrator's file"
   - "管理員的檔案"
   - "管理人のプロファイル"
   - "관리자의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData 游戏资料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 游戏资料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## 干员档案

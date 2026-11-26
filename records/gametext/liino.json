@@ -1,7 +1,7 @@
 {
  "slug": "liino",
  "gameId": "chr_0035_liino",
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "intro": {
   "en": "\"Twinkle-twinkle! My latest performance is about to start!\"\nLiino is a breakout idol from the Talos-II General Chamber of Commerce. Loved by the public ever since her debut, she is known as the \"Morning Star of La Fantoma.\" Renowned for her exquisite singing and unique performance style, her concerts often challenge norms and defy industry conventions.\nShe never fails to deliver a one-of-a-kind experience for her audiences, and major corporations are always eagerly lining up to sponsor every one of her shows. Though this Sarkaz Djall's meteoric rise is not without controversy, everyone who sees her on stage is hopelessly drawn to her radiance.\nAt present, Liino is methodically pushing ahead with plans for her Talos-II concert tour. She believes she will deliver a performance unlike anything seen before, and that the day will come when she'll shine bright at the top of the world.\n\"Oh that's sweet! How should I thank you... I've got it! I'll just keep showering you with concert tickets until we're even, how's that?\"",
   "zh-TW": "「Twinkle-twinkle！新的演出馬上開始！」\n梨諾，來自環塔商會的新銳偶像，自出道後便深受眾人的喜愛，人稱「菈梵朵瑪的晨星」。她以精湛的演唱技巧與獨特的演出風格著稱，時常將富有挑戰、突破傳統的表演內容融入自己的演唱會中。\n她總能讓觀眾收穫獨一無二的觀看體驗，也總能讓那些大公司心甘情願地贊助她的每一場演出。儘管薩卡茲笞心魔的身分為她的急速走紅帶來了非議，但是每個看過她演出的人總會被這位耀眼的少女吸引。\n如今，梨諾正有條不紊地推進自己的環塔衛二巡迴演唱會計劃。她相信自己必定會創造出更別開生面的舞台，也相信自己終有一天能成為世界頂端最閃耀的那顆星。\n「好感動！我該怎麼答謝這份信賴才好……唔，再多給你幾張下次演出的門票，怎麼樣？」",
@@ -42,7 +42,7 @@
     "zh-TW": "對敵人造成電磁傷害，隨後進入演唱姿態，期間若附近有敵人，則每隔一段時間追加攻擊，對敵人造成電磁傷害。\n演唱姿態：持續期間提升全隊攻擊力，並在進入戰鬥後持續治療範圍內幹員。\n持續期間戰技替換為姿態中止，施放將提前結束演唱姿態且不消耗技力，戰技進入短暫冷卻。",
     "zh-CN": "对敌人造成电磁伤害，随后进入演唱姿态，期间若附近有敌人，则每隔一段时间追加攻击，对敌人造成电磁伤害。\n演唱姿态：持续期间提升全队攻击力，并在进入战斗后持续治疗范围内干员。\n持续期间战技替换为姿态中止，施放将提前结束演唱姿态且不消耗技力，战技进入短暂冷却。",
     "ja": "敵に電磁ダメージを与え、その後ライブモードに入る。期間中、近くに敵がいる場合、一定時間ごとに追加攻撃を行い、敵に電磁ダメージを与える。\nライブモード：持続期間中、チーム全員の攻撃力をアップし、戦闘状態に入ると範囲内のオペレーターを治療し続ける。\n持続期間中、戦技は「モード停止」に切り替わり、発動するとその時点でライブモードは終了する。その際、SPは消費されず、戦技は短時間のクールタイムに入る。",
-    "ko": "적에게 전기 피해를 주고, 라이브 모드로 진입합니다. 이 기간 동안 근처에 적이 있으면 일정 시간마다 추가 공격을 하여 적에게 전기 피해를 줍니다.\n라이브 모드: 지속 시간 동안 팀 전체의 공격력을 증가시키고, 전투에 들어간 후에는 범위 내의 오퍼레이터를 지속적으로 치유합니다.\n지속 시간 동안 배틀 스킬이 모드 중단으로 대체되며, 모드 중단 사용 시 라이브 모드가 조기에 종료됩니다. 이때 스킬 게이지를 소모하지 않고, 배틀 스킬이 잠깐의 쿨타임에 들어갑니다."
+    "ko": "적에게 전기 피해를 주고, 라이브 모드로 진입합니다. 이 기간 동안 근처에 적이 있으면 일정 시간마다 추가 공격을 하여 적에게 전기 피해를 줍니다.\n라이브 모드: 지속 시간 동안 팀 전체의 공격력을 증가시키고, 전투에 진입한 후에는 범위 내의 오퍼레이터를 지속적으로 치유합니다.\n 지속 시간 동안 배틀 스킬이 모드 중단으로 대체되며, 모드 중단 사용 시 라이브 모드가 조기에 종료됩니다. 이때 스킬 게이지를 소모하지 않고, 배틀 스킬이 잠깐의 쿨타임에 들어갑니다."
    },
    "conditions": []
   },
@@ -130,7 +130,7 @@
       "en": "For 30s after casting Liino's combo skill Delightful Harmonics, casting a battle skill of an Electric or Nature operator returns 5 SP. This effect cannot stack and ends after triggering.",
       "zh-TW": "施放連攜技悅心音調後，隊伍中電磁或自然屬性的幹員下次施放戰技時，返還5技力。該效果持續30秒，無法疊加，觸發後效果結束。",
       "zh-CN": "施放连携技悦心音调后，队伍中电磁或自然属性的干员下次施放战技时，返还5技力。该效果持续30秒，无法叠加，触发后效果结束。",
-      "ja": "連携技「ときめきメロディー」を発動すると、チーム内の電磁または自然属性のオペレーターが次の戦技を発動するとき、SPが5返還される\nこの効果は30秒持続し、発動すると効果は終了する（重ね掛け不可）",
+      "ja": "連携技「ときめきメロディー」を発動したあと、チーム内の電磁または自然属性のオペレーターが次の戦技を発動するとき、SPが5返還される\nこの効果は30秒持続し、発動すると効果は終了する（重ね掛け不可）",
       "ko": "연계 스킬 기쁨의 멜로디 사용 후, 팀 내 전기 또는 자연 속성 오퍼레이터가 다음 배틀 스킬을 사용할 시 5 스킬 게이지를 반환합니다. 해당 효과는 30초간 지속, 중첩되지 않으며, 발동 후 효과가 종료됩니다."
      }
     },
@@ -140,7 +140,7 @@
       "en": "For 30s after casting Liino's combo skill Delightful Harmonics, casting a battle skill of an Electric or Nature operator returns 10 SP. This effect cannot stack and ends after triggering.",
       "zh-TW": "施放連攜技悅心音調後，隊伍中電磁或自然屬性的幹員下次施放戰技時，返還10技力。該效果持續30秒，無法疊加，觸發後效果結束。",
       "zh-CN": "施放连携技悦心音调后，队伍中电磁或自然属性的干员下次施放战技时，返还10技力。该效果持续30秒，无法叠加，触发后效果结束。",
-      "ja": "連携技「ときめきメロディー」を発動すると、チーム内の電磁または自然属性のオペレーターが次の戦技を発動するとき、SPが10返還される\nこの効果は30秒持続し、発動すると効果は終了する（重ね掛け不可）",
+      "ja": "連携技「ときめきメロディー」を発動したあと、チーム内の電磁または自然属性のオペレーターが次の戦技を発動するとき、SPが10返還される\nこの効果は30秒持続し、発動すると効果は終了する（重ね掛け不可）",
       "ko": "연계 스킬 기쁨의 멜로디 사용 후, 팀 내 전기 또는 자연 속성 오퍼레이터가 다음 배틀 스킬을 사용할 시 10 스킬 게이지를 반환합니다. 해당 효과는 30초간 지속, 중첩되지 않으며, 발동 후 효과가 종료됩니다."
      }
     }

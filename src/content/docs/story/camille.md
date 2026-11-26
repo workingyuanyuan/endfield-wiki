@@ -1,17 +1,17 @@
 ---
 title: "Camille's file"
 description: "Camille's 6 operator files, 81 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "卡繆的檔案"
   - "卡缪的档案"
   - "カミーユのプロファイル"
   - "카뮤의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -131,8 +131,8 @@ sources:
 | Operator Promotion 3 | Empty honors no longer matter, my friend. My blood is always with you. | Promotion III |
 | Operator Promotion 4 | Immense forces vie for dominance on this world, leaving us to eke out a living in the cracks. Yet you showed me that change, however small, bears meaning. And I ... I am more than willing to walk with you in this pursuit. | Promotion IV |
 | Operator Reporting for Duty | Camille Arno, Agaš'mekanaz of Seš'qa. I seek a dangerous Sarkaz criminal who wields witchcraft as a weapon. For this, I require the strength of Endfield... And in return, I vow to offer you my own. |  |
-| Standing by 1 | Birthed in blood, concluded in blood. |  |
-| Standing by 2 | I leave no shadow ... for the guilty to hide in. |  |
+| Standing By 1 | Birthed in blood, concluded in blood. |  |
+| Standing By 2 | I leave no shadow ... for the guilty to hide in. |  |
 | Assigning to Facility | I work alone. Eliminating the need to communicate raises efficiency. |  |
 | Greeting 1 | Any orders? |  |
 | Greeting 2 | Endmin, this meeting was no coincidence. I've been waiting. | Reach trust: 300 |

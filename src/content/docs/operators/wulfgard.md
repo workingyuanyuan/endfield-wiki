@@ -1,9 +1,9 @@
 ---
 title: "Wulfgard"
 description: "Wulfgard is a 5-star Heat Caster with a handcannon; every account starts with this operator."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
 caveat: "Every account has Wulfgard from the start of the game; Wulfgard is also in the standard headhunting roster."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-01-22
 aliases:
   - "狼衛"
@@ -16,10 +16,10 @@ art:
 sources:
   - title: "Official operator list (Gryphline)"
     url: https://endfield.gryphline.com/en-us/operator
-  - title: "warfarin.wiki, Wulfgard (game data 1.6)"
+  - title: "warfarin.wiki, Wulfgard (game data 1.7)"
     url: https://warfarin.wiki/en/operators/wulfgard
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Wulfgard"
     url: https://endfield.wiki.gg/wiki/Wulfgard
 ---

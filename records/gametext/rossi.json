@@ -1,7 +1,7 @@
 {
  "slug": "rossi",
  "gameId": "chr_0028_wulfa",
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "intro": {
   "en": "\"Piece of cake for an elite like me!\"  Rossina Wulfperl Luppino, younger sister of Wulfgard and the Pearl of the Pack. In a feud between the Pack and the Bonekrushers, many elder wolves paid a bloody price to rescue her. The blood that day stained her swaddling blanket red...  Wulfgard operates independently from the clan for years, but the Pack required a leader, and Rossi accepted that responsibility. She has always felt that her brother, who rose to fame at a young age, should be the one leading the entire Pack, and she constantly reminds and urges him to do so. While the elders of the clan hope Rossi can spend more time doing what she loves at her age, she ultimately cannot lift the weight of \"responsibility\" from her heart. She strives to become more reliable and powerful for the sake of her family and her clan.  Rossi, who longs for heroic tales, occasionally fantasizes that one day she will be able to fight alongside a legendary hero. This is the bit of \"me time\" she reserves for herself.  \"They bit deep, but the Pack isn't afraid of more scars!\"",
   "zh-TW": "「對於精銳來說小事一樁！」 洛西娜·狼珀·盧皮諾，狼衛的妹妹，狼群的掌上明珠。在一場狼群氏族與碾骨氏族的恩怨中，眾多老狼為了救出她付出了血的代價，彼時的鮮血染紅了襁褓…… 狼衛常年脫離氏族獨自行動，但狼群需要一個領導者，洛西接下了這一責任。她一直覺得年少成名的哥哥更應該執掌整個狼群，總是不停提醒和催促他這一點。氏族的老狼們希望洛西能在這個年紀做更多自己喜歡的事，但洛西最終還是無法將「責任」從心頭挪開。她想為家人、為氏族變得更加可靠、強大。 憧憬著英雄故事的洛西，偶爾幻想著，有一天，自己能與傳說中的英雄共同奮戰——這是她給自己留下的一點點「自我時間」。 「狼群從不畏懼留下傷痕！」",
@@ -60,7 +60,7 @@
     "zh-TW": "當有敵人同時處於破防和法術附著狀態時可以發動。\n洛西的連攜技可連續發動兩次，第一次會對目標造成物理傷害。\n第二次將消耗目標全部的法術附著，對其造成基於消耗層數的物理傷害並造成一次擊飛，同時在一段時間內提升自身的暴擊率和暴擊傷害。\n當第二次連攜技精準銜接時，可以額外施加1層破防。",
     "zh-CN": "当有敌人同时处于破防和法术附着状态时可以发动。\n洛茜的连携技可连续发动两次，第一次会对目标造成物理伤害。\n第二次将消耗目标全部的法术附着，对其造成基于消耗层数的物理伤害并造成一次击飞，同时在一段时间内提升自身的暴击率和暴击伤害。\n当第二次连携技精准衔接时，可以额外施加1层破防。",
     "ja": "敵がクラッシュかつアーツ付着状態のときに発動可能。\nロッシの連携技は連続で2回発動できる。1回目は目標に物理ダメージを与える。\n2回目は目標のアーツ付着をすべて消費し、消費した段階数に応じてその目標に物理ダメージと浮遊効果を与える。同時に、一定時間自身の会心率と会心ダメージがアップする。\n2回目の連携技が完璧連携となった場合、追加で目標にクラッシュを1段階付与する。",
-    "ko": "적이 동시에 방어 불능과 아츠 부착 상태일 때 사용할 수 있습니다.\n로시의 연계 스킬은 연속으로 2회 사용할 수 있습니다. 첫 공격은 목표에 물리 피해를 줍니다.\n두 번째 공격은 목표의 아츠 부착을 모두 소모한 뒤, 대상에게 소모한 스택 수치에 따른 물리 피해와 띄우기 피해를 주고, 일정 시간 동안 자신의 치명타 확률과 치명타 피해를 증가시킵니다.\n연계 스킬의 두 번째 공격이 정확하게 연계되면, 추가로 방어 불능 1스택을 쌓습니다."
+    "ko": "적이 동시에 방어 불능과 아츠 부착 상태일 때 사용할 수 있습니다.\n로시의 연계 스킬은 연속으로 2회 사용할 수 있습니다. 첫 공격은 목표에 물리 피해를 줍니다.\n두 번째 공격은 목표의 아츠 부착을 모두 소모한 뒤, 대상에게 소모한 스택 수치에 따른 물리 피해와 띄우기 피해를 주고, 일정 시간 동안 자신의 치명타 확률과 치명타 피해를 증가시킵니다.\n두 번째 단계의 연계 스킬에서 정확한 연계에 성공하면, 추가로 방어 불능 1스택을 쌓습니다."
    },
    "conditions": []
   },

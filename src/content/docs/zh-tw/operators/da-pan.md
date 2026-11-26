@@ -1,9 +1,9 @@
 ---
 title: "大潘"
 description: "大潘是 5 星物理突擊幹員，使用雙手劍；在常駐尋訪名單內。"
-appliesTo: "《明日方舟：終末地》國際版，1.6 版；技能文字與數值出自遊戲資料 1.6"
+appliesTo: "《明日方舟：終末地》國際版，1.7 版；技能文字與數值出自遊戲資料 1.7"
 caveat: "大潘沒有機率提升尋訪；大潘在常駐名單內，基礎尋訪與每一期特許尋訪都抽得到。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-03-12
 aliases:
   - "Da Pan"
@@ -17,10 +17,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/operator
   - title: "「新潮起，故淵離」版本更新說明"
     url: https://endfield.gryphline.com/en-us/news/8907
-  - title: "warfarin.wiki 大潘頁（遊戲資料 1.6）"
+  - title: "warfarin.wiki 大潘頁（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/operators/da-pan
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Da Pan 頁"
     url: https://endfield.wiki.gg/wiki/Da_Pan
 ---

@@ -1,17 +1,17 @@
 ---
 title: "Gilberta's file"
 description: "Gilberta's 6 operator files, 81 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "潔爾佩塔的檔案"
   - "洁尔佩塔的档案"
   - "ギルベルタのプロファイル"
   - "질베르타의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -158,8 +158,8 @@ sources:
 | Operator Promotion 3 | Will I get something more special in the next promotion...? What am I hoping for? Hmm ... how about a day of fun together, Endmin? | Promotion III |
 | Operator Promotion 4 | Every time I looked back at all those lengthy journeys I've completed, all those tiny emotions would simply well up within me. That was the exact moment when I knew ... I'm simply in love with my work. | Promotion IV |
 | Operator Reporting for Duty | Hi there! Oh, you have the rosy scent of beautiful memories ... like an incomplete letter destined for a special place. I wonder where that might be. |  |
-| Standing by 1 | Looky here! The Flying Miss Messenger got a special letter for you! |  |
-| Standing by 2 | Ciao! Wanna head out for a walk? The colors of the sky look absolutely fabulous today! |  |
+| Standing By 1 | Looky here! The Flying Miss Messenger got a special letter for you! |  |
+| Standing By 2 | Ciao! Wanna head out for a walk? The colors of the sky look absolutely fabulous today! |  |
 | Assigning to Facility | Don't worry. Leave it to me! |  |
 | Greeting 1 | Endmin! What a coincidence! How about we take a stroll along the Bridge? |  |
 | Greeting 2 | Busy, Endmin? Don't forget to take a break, okay? | Reach trust: 300 |

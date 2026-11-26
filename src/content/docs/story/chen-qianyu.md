@@ -1,17 +1,17 @@
 ---
 title: "Chen Qianyu's file"
 description: "Chen Qianyu's 6 operator files, 79 voice lines and 15 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "陳千語的檔案"
   - "陈千语的档案"
   - "チェン・センユーのプロファイル"
   - "진천우의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -144,8 +144,8 @@ sources:
 | Operator Promotion 3 | Well, turns out I'm great at something other than martial arts. I just can't help but end up as your best operator. Oh, your flattery is making me blush already — keep it coming though! | Promotion III |
 | Operator Promotion 4 | I'm still far from the pinnacle. They say my mother's blade stirred the very clouds themselves, Endmin. And I'll do exactly that ... and become the one that you and Perlica can always count on! | Promotion IV |
 | Operator Reporting for Duty | ENDMIN! HOW ARE —— Oh. Okay, stick with the process. Here goes. Endfield operator Chen Qianyu, reporting for duty! |  |
-| Standing by 1 | Watch this! Hehe, awesome, right? |  |
-| Standing by 2 | Over here, Endmin! Heehee. |  |
+| Standing By 1 | Watch this! Hehe, awesome, right? |  |
+| Standing By 2 | Over here, Endmin! Heehee. |  |
 | Assigning to Facility | And roger that. Set your mind at absolute ease, Endmin! |  |
 | Greeting 1 | How are you doing, Endmin? Interested in sparring with me? |  |
 | Greeting 2 | Just leave the rest to me, Endmin. Go enjoy a breather — you've earned it! | Reach trust: 300 |

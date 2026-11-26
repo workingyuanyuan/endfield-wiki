@@ -1,9 +1,9 @@
 ---
 title: "艾維文娜"
 description: "艾維文娜是 5 星電磁突擊幹員，使用長柄武器；在常駐尋訪名單內。"
-appliesTo: "《明日方舟：終末地》國際版，1.6 版；技能文字與數值出自遊戲資料 1.6"
+appliesTo: "《明日方舟：終末地》國際版，1.7 版；技能文字與數值出自遊戲資料 1.7"
 caveat: "艾維文娜沒有機率提升尋訪；艾維文娜在常駐名單內，基礎尋訪與每一期特許尋訪都抽得到。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-03-12
 aliases:
   - "Avywenna"
@@ -18,10 +18,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/operator
   - title: "「新潮起，故淵離」版本更新說明"
     url: https://endfield.gryphline.com/en-us/news/8907
-  - title: "warfarin.wiki 艾維文娜頁（遊戲資料 1.6）"
+  - title: "warfarin.wiki 艾維文娜頁（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/operators/avywenna
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Avywenna 頁"
     url: https://endfield.wiki.gg/wiki/Avywenna
 ---

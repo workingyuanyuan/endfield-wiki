@@ -1,9 +1,9 @@
 ---
 title: "카뮤"
 description: "카뮤는 장병기를 사용하는 6성 열기 속성 뱅가드 오퍼레이터로, 「죄를 쫓는 자」에서 확률 증가 대상이었던 한정 오퍼레이터이다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "한정 오퍼레이터는 자신의 헤드헌팅 이후 다음 2회의 특별 허가 헤드헌팅에도 확률 증가 없이 포함되고, 그 뒤 명단에서 빠진다. 한정 오퍼레이터는 기초 헤드헌팅에 추가되지 않는다."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-08-08
 aliases:
   - "Camille"
@@ -24,10 +24,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3831
   - title: "「과거를 찾아서」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/0758
-  - title: "warfarin.wiki, 카뮤(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 카뮤(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/camille
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Camille"
     url: https://endfield.wiki.gg/wiki/Camille
 ---

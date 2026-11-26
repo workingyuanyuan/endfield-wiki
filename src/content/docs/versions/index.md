@@ -1,10 +1,10 @@
 ---
 title: Versions
-description: "Arknights: Endfield has had seven versions, from the release on 2026-01-22 to Version 1.6 on 2026-10-15."
-appliesTo: "Arknights: Endfield, global service, release (2026-01-22) to Version 1.6 (2026-10-15)"
-caveat: Purrchena of Version 1.5 is a 5-star operator who was in no headhunting banner; every other new operator was a 6-star Chartered Headhunting rate-up.
-lastVerified: 2026-11-21
-effectiveDate: 2026-10-15
+description: "Arknights: Endfield has had eight versions, from the release on 2026-01-22 to Version 1.7 on 2026-11-25."
+appliesTo: "Arknights: Endfield, global service, release (2026-01-22) to Version 1.7 (2026-11-25)"
+caveat: Purrchena of Version 1.5 and Mimino of Version 1.7 are 5-star operators given by events and in no headhunting banner; every other new operator was a 6-star Chartered Headhunting rate-up.
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 版本列表
   - バージョン一覧
@@ -16,6 +16,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9574
   - title: Sanctuary of Ink Version Update Notes
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: Meeting You in the World o'Shrooms Version Update Notes
+    url: https://endfield.gryphline.com/en-us/news/0740
   - title: Endfield Talos Wiki, Version (numbers)
     url: https://endfield.wiki.gg/wiki/Version
   - title: Game8, Version 1.6 Livestream Summary (number)
@@ -35,5 +37,6 @@ Each update's maintenance ran from 06:00 to 12:00 on its date; the release opene
 | [1.4](/versions/1-4/) | Homecoming | 向淵行 | 2026-07-16 | Arcane, Liino |
 | [1.5](/versions/1-5/) | Dreamscape of Wind and Snow | 雪淞幽夢 | 2026-09-02 | Typhoeus, Purrchena (5-star) |
 | [1.6](/versions/1-6/) | Sanctuary of Ink | 丹青渡 | 2026-10-15 | Si, Argent Flow |
+| [1.7](/versions/1-7/) | Meeting You in the World o'Shrooms | 穿越甚大蘑境與你相逢 | 2026-11-25 | Kay, Mimino (5-star) |
 
 All new operators are 6-star unless marked.

@@ -1,17 +1,17 @@
 ---
 title: "Lifeng's file"
 description: "Lifeng's 6 operator files, 83 voice lines and 4 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "黎風的檔案"
   - "黎风的档案"
   - "リーフォンのプロファイル"
   - "여풍의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -203,8 +203,8 @@ sources:
 | Operator Promotion 3 | Hey Endmin, just curious — how many ranks come after this one? I'm thinking of adding "Monthly Goals" section to my journal! | Promotion III |
 | Operator Promotion 4 | "Outstanding performance," "strong adaptability and teamwork," ... I can recite those compliments in my sleep now. Anyway, Endmin, I'm ready to roll. I promise I'll work my hardest to become your most reliable comrade. | Promotion IV |
 | Operator Reporting for Duty | Hey Endministrator, it's me, Lifeng! I'm still a bit green, but I'll work super hard! They say hardships shape and perfect us, but what does perfection really look like? Maybe someone like you has the answer. I'd really appreciate your insights. |  |
-| Standing by 1 | Piece of cake! |  |
-| Standing by 2 | Leave it to me! |  |
+| Standing By 1 | Piece of cake! |  |
+| Standing By 2 | Leave it to me! |  |
 | Assigning to Facility | Got it, Endmin! Actually, I was just wondering what took you so long to assign me a task! |  |
 | Greeting 1 | Hi Endmin! You look tied up, but it's good to see you. |  |
 | Greeting 2 | Got a sec, Endmin? I've picked up a new move. Wanna check it out? | Reach trust: 300 |

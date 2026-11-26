@@ -23,7 +23,7 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-COMMIT = 'd847759f71d4549aba4727b3b0ac1a1ad0e37742'
+COMMIT = '887923b9e56e132f2570a25e8c2cf5e971508736'
 ED = os.path.join(ROOT, 'cache', 'third', 'ed', COMMIT)
 OUT = os.path.join(ROOT, 'records', 'story')
 LANGS = {'en': 'EN', 'zh-TW': 'TC', 'zh-CN': 'CN', 'ja': 'JP', 'ko': 'KR'}

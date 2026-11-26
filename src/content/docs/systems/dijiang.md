@@ -1,24 +1,24 @@
 ---
 title: "Dijiang"
 description: "Dijiang, the base ship of Arknights: Endfield: its rooms, operator assignments, mood, and base skills by room."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; tutorials and base skills from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; tutorials and base skills from game data 1.7"
 caveat: "An assigned operator loses mood over time; at zero mood they leave to rest in the Central Ring and give no effect until their mood is full again. Base skills unlock at promotions, so an operator below Promotion I has none."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-22
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-26
 aliases:
   - "帝江號"
   - "帝江号"
   - "제강호"
 sources:
-  - title: "In-game tutorials on Dijiang, WikiTutorialPageTable (game data 1.6)"
-    url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/WikiTutorialPageTable.json
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "In-game tutorials on Dijiang, WikiTutorialPageTable (game data 1.7)"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/WikiTutorialPageTable.json
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Rooms
 
-Operators assigned to Dijiang's rooms make progression materials, grow plants, fungi and minerals, collect clues and build trust while the player is elsewhere. Each room needs at least one operator to work, and every operator assigned raises its output. 33 of the 34 operators have base skills that add to one room; the Endministrator has none.
+Operators assigned to Dijiang's rooms make progression materials, grow plants, fungi and minerals, collect clues and build trust while the player is elsewhere. Each room needs at least one operator to work, and every operator assigned raises its output. 34 of the 35 operators have base skills that add to one room; the Endministrator has none.
 
 | Room | What it does | Base skills that work there |
 | --- | --- | --- |
@@ -66,6 +66,7 @@ Each base skill has two levels, unlocked at promotions; the second replaces the 
 | Operator EXP materials, faster | [Wulfgard](/operators/wulfgard/) | Pack Techniques | +10%, Promotion I | +20%, Promotion III |
 | Operator EXP materials, faster | [Xaihi](/operators/xaihi/) | Standardized Scripting | +10%, Promotion I | +20%, Promotion III |
 | Weapon EXP materials, faster | [Gilberta](/operators/gilberta/) | Messengerial Arms Mastery | +20%, Promotion II | +30%, Promotion IV |
+| Weapon EXP materials, faster | [Kay](/operators/kay/) | Truly Wild Smithing | +20%, Promotion I | +30%, Promotion III |
 | Weapon EXP materials, faster | [Perlica](/operators/perlica/) | Protocol Redistribution | +20%, Promotion II | +30%, Promotion IV |
 | Weapon EXP materials, faster | [Pogranichnik](/operators/pogranichnik/) | Hone the Weapons | +20%, Promotion I | +30%, Promotion III |
 | Weapon EXP materials, faster | [Antal](/operators/antal/) | Experimental Arts Unit | +10%, Promotion I | +20%, Promotion III |
@@ -73,6 +74,7 @@ Each base skill has two levels, unlocked at promotions; the second replaces the 
 | Weapon EXP materials, faster | [Chen Qianyu](/operators/chen-qianyu/) | Blade Critique | +10%, Promotion I | +20%, Promotion III |
 | Slower mood drop in the room | [Argent Flow](/operators/argent-flow/) | Tools of Momentum | −14%, Promotion II | −18%, Promotion IV |
 | Slower mood drop in the room | [Gilberta](/operators/gilberta/) | Messengerial Processing | −14%, Promotion I | −18%, Promotion III |
+| Slower mood drop in the room | [Kay](/operators/kay/) | Honey Waffle Break | −14%, Promotion II | −18%, Promotion IV |
 | Slower mood drop in the room | [Laevatain](/operators/laevatain/) | Undying Flames | −14%, Promotion II | −18%, Promotion IV |
 | Slower mood drop in the room | [Pogranichnik](/operators/pogranichnik/) | Morale Boost | −14%, Promotion II | −18%, Promotion IV |
 | Slower mood drop in the room | [Zhuang Fangyi](/operators/zhuang-fangyi/) | Viceroy Experience | −14%, Promotion I | −18%, Promotion III |

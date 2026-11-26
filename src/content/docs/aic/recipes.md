@@ -1,23 +1,23 @@
 ---
 title: "Recipes by product"
-description: "Which AIC facility makes each of 126 Arknights: Endfield products, from what inputs and how fast."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; recipes from game data 1.6"
+description: "Which AIC facility makes each of 139 Arknights: Endfield products, from what inputs and how fast."
+appliesTo: "Arknights: Endfield, global service, Version 1.7; recipes from game data 1.7"
 caveat: "Times are per run of one facility; one product can have several recipes."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-22
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-26
 aliases:
   - "依產品查配方"
   - "依产品查配方"
   - "製品別レシピ"
   - "제품별 제작법"
 sources:
-  - title: "Recipe table FactoryMachineCraftTable (game data 1.6)"
-    url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/FactoryMachineCraftTable.json
+  - title: "Recipe table FactoryMachineCraftTable (game data 1.7)"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryMachineCraftTable.json
 ---
 
 ## Recipes
 
-Not counting filling and emptying containers, the products have 162 recipes. The Filling Unit puts a fluid or gas into an empty bottle or canister (74 recipes), and the Separating Unit empties it again (74 recipes); a filled container keeps the container's name. The Filling Unit also makes new things, such as drinks, Canned Citrome and Buck Capsules.
+Not counting filling and emptying containers, the products have 177 recipes. The Filling Unit puts a fluid or gas into an empty bottle or canister (78 recipes), and the Separating Unit empties it again (78 recipes); a filled container keeps the container's name. The Filling Unit also makes new things, such as drinks, Canned Citrome and Buck Capsules.
 
 | Product | Made in | Inputs | Output | Time |
 | --- | --- | --- | --- | --- |
@@ -65,6 +65,9 @@ Not counting filling and emptying containers, the products have 162 recipes. The
 | Citrome | Planting Unit | Citrome Seed ×1 | Citrome ×1 | 2 s |
 | Citrome Powder | Shredding Unit | Citrome ×1 | Citrome Powder ×2 | 2 s |
 | Citrome Seed | Seed-Picking Unit | Citrome ×1 | Citrome Seed ×2 | 2 s |
+| Clean Lucidolite Gas | Gas Reactor Globe | Equprium Gas ×1, Equiragen ×1 | Clean Lucidolite Gas ×2 | 2 s |
+| Clean Lucidolite Gas | Purification Unit | Turbid Lucidolite Gas ×2, Separator Core ×2 | Clean Lucidolite Gas ×2 | 2 s |
+| Clean Lucidolite Gas | Solid-Gas Transmuting Unit | Lucidolite ×2 | Clean Lucidolite Gas ×2 | 2 s |
 | Clean Water | Fluid-Gas Transmuting Unit | Aquagen ×1 | Clean Water ×1 | 2 s |
 | Crunchcane Cutting | Seed-Picking Unit | Crunchcane ×1 | Crunchcane Cutting ×2 | 2 s |
 | Cryston Bottle | Moulding Unit | Cryston Fiber ×2 | Cryston Bottle ×1 | 2 s |
@@ -72,6 +75,8 @@ Not counting filling and emptying containers, the products have 162 recipes. The
 | Cryston Fiber | Refining Unit | Cryston Powder ×1 | Cryston Fiber ×1 | 2 s |
 | Cryston Part | Fitting Unit | Cryston Fiber ×1 | Cryston Part ×1 | 2 s |
 | Cryston Powder | Grinding Unit | Amethyst Powder ×2, Sandleaf Powder ×1 | Cryston Powder ×1 | 2 s |
+| CuPKG Heavy IC | Packaging Unit | T-Cuprium Part ×15, Heavy Xiranite ×2 | CuPKG Heavy IC ×5 | 10 s |
+| CuPKG Luminarite Component | Packaging Unit | L-Cuprium Part ×10, Luminarite ×5 | CuPKG Luminarite Component ×5 | 10 s |
 | Cuprium | Refining Unit | Cuprium Ore ×1, Clean Water ×1 | Cuprium ×1, Sewage ×1 | 2 s |
 | Cuprium | Solid-Gas Transmuting Unit | Cuprium Gas ×1 | Cuprium ×2 | 2 s |
 | Cuprium Bottle | Moulding Unit | Cuprium ×2 | Cuprium Bottle ×1 | 2 s |
@@ -91,6 +96,10 @@ Not counting filling and emptying containers, the products have 162 recipes. The
 | Dense Origocrust Powder | Refining Unit | Dense Originium Powder ×1 | Dense Origocrust Powder ×1 | 2 s |
 | Dense Origocrust Powder | Grinding Unit | Origocrust Powder ×2, Sandleaf Powder ×1 | Dense Origocrust Powder ×1 | 2 s |
 | Double-Yummy Feed | Reactor Crucible or Expanded Crucible | Ballpea Pod Powder ×1, Clean Water ×1 | Double-Yummy Feed ×1 | 2 s |
+| Equiragen | Solid-Gas Transmuting Unit | Equiranite ×2 | Equiragen ×1 | 2 s |
+| Equiranite | Solid-Gas Transmuting Unit | Equiragen ×1 | Equiranite ×2 | 2 s |
+| Equprium | Solid-Gas Transmuting Unit | Equprium Gas ×1 | Equprium ×2 | 2 s |
+| Equprium Gas | Solid-Gas Transmuting Unit | Equprium ×2 | Equprium Gas ×1 | 2 s |
 | Ferrium | Refining Unit | Ferrium Ore ×1 | Ferrium ×1 | 2 s |
 | Ferrium | Refining Unit | Ferrium Powder ×1 | Ferrium ×1 | 2 s |
 | Ferrium Bottle | Moulding Unit | Ferrium ×2 | Ferrium Bottle ×1 | 2 s |
@@ -102,6 +111,7 @@ Not counting filling and emptying containers, the products have 162 recipes. The
 | Ground Citrome Powder | Grinding Unit | Citrome Powder ×2, Sandleaf Powder ×1 | Ground Citrome Powder ×1 | 2 s |
 | Ground Pepper | Shredding Unit | Tartpepper ×1 | Ground Pepper ×3 | 2 s |
 | HC Valley Battery | Packaging Unit | Steel Part ×10, Dense Originium Powder ×15 | HC Valley Battery ×1 | 10 s |
+| HC Wuling Battery | Packaging Unit | Equiranite ×5, Dense Originium Powder ×20 | HC Wuling Battery ×1 | 10 s |
 | Heavy Xiragen | Purification Unit | Xiragen ×2, Separator Core ×1 | Heavy Xiragen ×1 | 2 s |
 | Heavy Xiragen | Purification Unit | Xiragen ×2, Separator Core ×2 | Heavy Xiragen ×1 | 2 s |
 | Heavy Xiragen | Fluid-Gas Transmuting Unit | Liquid Heavy Xiranite ×2 | Heavy Xiragen ×5 | 10 s |
@@ -126,12 +136,16 @@ Not counting filling and emptying containers, the products have 162 recipes. The
 | Jincao Seed | Seed-Picking Unit | Jincao ×1 | Jincao Seed ×1 | 2 s |
 | Jincao Solution | Reactor Crucible or Expanded Crucible | Jincao Powder ×1, Clean Water ×1 | Jincao Solution ×1 | 2 s |
 | Jincao Tea | Packaging Unit | Cuprium Part ×10, Cuprium Bottle ×5 | Jincao Tea ×1 | 10 s |
+| L-Cuprium Part | Fitting Unit | L-Cuprium ×1 | L-Cuprium Part ×1 | 2 s |
 | LC Valley Battery | Packaging Unit | Amethyst Part ×5, Originium Powder ×10 | LC Valley Battery ×1 | 10 s |
 | LC Wuling Battery | Packaging Unit | Xiranite ×5, Dense Originium Powder ×15 | LC Wuling Battery ×1 | 10 s |
 | Liquid Heavy Xiranite | Reactor Crucible or Expanded Crucible | Heavy Xiranite ×1, Precipitation Acid ×1 | Liquid Heavy Xiranite ×1 | 2 s |
 | Liquid Heavy Xiranite | Fluid-Gas Transmuting Unit | Heavy Xiragen ×5 | Liquid Heavy Xiranite ×2 | 10 s |
 | Liquid Xiranite | Reactor Crucible or Expanded Crucible | Xiranite ×1, Clean Water ×1 | Liquid Xiranite ×1 | 2 s |
 | Liquid Xiranite | Fluid-Gas Transmuting Unit | Xiragen ×1 | Liquid Xiranite ×1 | 2 s |
+| Lucidolite | Solid-Gas Transmuting Unit | Clean Lucidolite Gas ×2 | Lucidolite ×2 | 2 s |
+| Lucidolite Energy Brick | Packaging Unit | Lucidolite Part ×5, Dense Originium Powder ×5 | Lucidolite Energy Brick ×5 | 10 s |
+| Lucidolite Part | Fitting Unit | Lucidolite ×1 | Lucidolite Part ×1 | 2 s |
 | Matoberry Seeds | Seed-Picking Unit | Matoberry ×1 | Matoberry Seeds ×2 | 2 s |
 | Oilseeds | Seed-Picking Unit | Oilseed Bloom ×1 | Oilseeds ×2 | 2 s |
 | Originium Powder | Shredding Unit | Originium Ore ×1 | Originium Powder ×1 | 2 s |
@@ -165,13 +179,14 @@ Not counting filling and emptying containers, the products have 162 recipes. The
 | Steel Bottle | Moulding Unit | Steel ×2 | Steel Bottle ×1 | 2 s |
 | Steel Part | Fitting Unit | Steel ×1 | Steel Part ×1 | 2 s |
 | Sugar | Shredding Unit | Crunchcane ×1 | Sugar ×3 | 2 s |
+| T-Cuprium Part | Fitting Unit | T-Cuprium ×1 | T-Cuprium Part ×1 | 2 s |
 | Tartpepper Seeds | Seed-Picking Unit | Tartpepper ×1 | Tartpepper Seeds ×2 | 2 s |
 | Whitemelon Seeds | Seed-Picking Unit | Whitemelon ×1 | Whitemelon Seeds ×2 | 2 s |
 | Xiragen | Fluid-Gas Transmuting Unit | Liquid Xiranite ×1 | Xiragen ×1 | 2 s |
 | Xiragen | Solid-Gas Transmuting Unit | Xiranite ×1 | Xiragen ×1 | 2 s |
 | Xiranite | Solid-Gas Transmuting Unit | Xiragen ×1 | Xiranite ×1 | 2 s |
-| Xiranite | Forge of the Sky | Stabilized Carbon ×2, Clean Water ×1 | Xiranite ×1 | 2 s |
 | Xiranite | Forge of the Sky | Carbon ×1, Clean Water ×1 | Xiranite ×1 | 2 s |
+| Xiranite | Forge of the Sky | Stabilized Carbon ×2, Clean Water ×1 | Xiranite ×1 | 2 s |
 | Xiranite Component | Gearing Unit | Packed Origocrust ×10, Xiranite ×10 | Xiranite Component ×1 | 10 s |
 | Xircon | Reactor Crucible or Expanded Crucible | Xircon Effluent ×2, Ferrium Powder ×1 | Xircon ×1, Sewage ×1 | 2 s |
 | Xircon Effluent | Purification Unit | Inert Xircon Effluent ×4 | Xircon Effluent ×1, Clean Water ×1 | 2 s |

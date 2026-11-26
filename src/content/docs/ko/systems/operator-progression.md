@@ -1,27 +1,27 @@
 ---
 title: "오퍼레이터 육성"
 description: "《명일방주: 엔드필드》 오퍼레이터 레벨 90까지의 정예화 재료, 스킬 레벨, 재능, 잠재 능력."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 오퍼레이터 34명 전체"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 오퍼레이터 35명 전체"
 caveat: "정예화 I부터 정예화 III까지의 재료는 모든 오퍼레이터가 동일하다. 정예화 IV에서만 희귀 재료와 버섯 종류가 달라지며, 이는 희귀도가 아니라 오퍼레이터별로 정해진다. 4성도 6성과 똑같이 탈로시안 화폐 100,000과 프로토콜 디스크 세트 36개가 필요하다."
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-05
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Operator progression
   - 幹員養成
   - 干员养成
   - オペレーター育成
 sources:
-  - title: "warfarin.wiki, 오퍼레이터 페이지(게임 데이터 1.6의 정예화, 재능, 스킬, 잠재 능력)"
+  - title: "warfarin.wiki, 오퍼레이터 페이지(게임 데이터 1.7의 정예화, 재능, 스킬, 잠재 능력)"
     url: https://warfarin.wiki/en/operators
-  - title: "warfarin.wiki, 레바테인(능력치 설명과 스킬 배율, 게임 데이터 1.6)"
+  - title: "warfarin.wiki, 레바테인(능력치 설명과 스킬 배율, 게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/laevatain
-  - title: "warfarin.wiki, 튜토리얼 「오퍼레이터 업그레이드」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 「오퍼레이터 업그레이드」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_char_levelup
-  - title: "warfarin.wiki, 튜토리얼 「재능 배열」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 「재능 배열」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_talent_tree
-  - title: "warfarin.wiki, 튜토리얼 「오퍼레이터 능력치」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 「오퍼레이터 능력치」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_attribute
-  - title: "warfarin.wiki, 튜토리얼 「오퍼레이터 잠재 능력」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 튜토리얼 「오퍼레이터 잠재 능력」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_potential
   - title: "Endfield Talos Wiki, Operator(레벨 비용, 스킬 등급, 재능 배열 노드)"
     url: https://endfield.wiki.gg/wiki/Operator
@@ -35,11 +35,13 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: "「단청도」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "「뜻밖의 만남, 버섯 동산 대모험」 버전 업데이트 설명"
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 레벨과 정예화
 
-오퍼레이터는 네 번의 정예화를 거쳐 레벨 90에 도달하며, 레벨 상한은 40, 60, 80, 90으로 오른다. 정예화 I부터 정예화 III까지의 재료는 오퍼레이터 34명 모두 같다. 정예화 IV에는 프로토콜 디스크 세트 ×36, 탈로시안 화폐 ×100,000, 희귀 재료 1종 ×20, 버섯 1종 ×8이 필요하며, 오퍼레이터마다 달라지는 것은 이 희귀 재료와 버섯의 종류뿐이다. 희귀도에 따른 비용 차이는 없다.
+오퍼레이터는 네 번의 정예화를 거쳐 레벨 90에 도달하며, 레벨 상한은 40, 60, 80, 90으로 오른다. 정예화 I부터 정예화 III까지의 재료는 오퍼레이터 35명 모두 같다. 정예화 IV에는 프로토콜 디스크 세트 ×36, 탈로시안 화폐 ×100,000, 희귀 재료 1종 ×20, 버섯 1종 ×8이 필요하며, 오퍼레이터마다 달라지는 것은 이 희귀 재료와 버섯의 종류뿐이다. 희귀도에 따른 비용 차이는 없다.
 
 ## 레벨 상한과 정예화 재료
 
@@ -67,7 +69,7 @@ sources:
 
 ## 모든 오퍼레이터의 정예화 IV 재료
 
-오퍼레이터 34명은 희귀 재료 6종과 버섯 3종을 나누어 쓴다. 초거리 빛 반사 파이프는 8명, 3상 나노 플레이크 칩은 7명, 타키온 차폐 구조체·정합용 유체·D96강 시제품 4번은 각각 6명이며, 도약 교질 도말 표본은 사 한 명만 쓴다. 스타게이트 버섯은 15명, 피버섯은 14명, 탈로스 버섯은 5명이다. 탈로스 버섯은 1.4 버전에서 새 정예화 재료로, 도약 교질 도말 표본은 1.6 버전에서 새 희귀 육성 재료로 추가되었다.
+오퍼레이터 35명은 희귀 재료 6종과 버섯 3종을 나누어 쓴다. 초거리 빛 반사 파이프는 9명, 3상 나노 플레이크 칩은 7명, 타키온 차폐 구조체·정합용 유체·D96강 시제품 4번은 각각 6명이며, 도약 교질 도말 표본은 사 한 명만 쓴다. 스타게이트 버섯은 15명, 피버섯은 15명, 탈로스 버섯은 5명이다. 탈로스 버섯은 1.4 버전에서 새 정예화 재료로, 도약 교질 도말 표본은 1.6 버전에서 새 희귀 육성 재료로 추가되었다.
 
 | 오퍼레이터 | 희귀도 | 희귀 재료 ×20 | 버섯 ×8 |
 | --- | --- | --- | --- |
@@ -78,6 +80,7 @@ sources:
 | [엠버](/ko/operators/ember/) | 6성 | D96강 시제품 4번 | 스타게이트 버섯 |
 | [관리자](/ko/operators/endministrator/) | 6성 | 초거리 빛 반사 파이프 | 피버섯 |
 | [질베르타](/ko/operators/gilberta/) | 6성 | 타키온 차폐 구조체 | 피버섯 |
+| [케르](/ko/operators/kay/) | 6성 | 초거리 빛 반사 파이프 | 피버섯 |
 | [레바테인](/ko/operators/laevatain/) | 6성 | D96강 시제품 4번 | 스타게이트 버섯 |
 | [라스트 라이트](/ko/operators/last-rite/) | 6성 | 3상 나노 플레이크 칩 | 피버섯 |
 | [여풍](/ko/operators/lifeng/) | 6성 | 초거리 빛 반사 파이프 | 피버섯 |

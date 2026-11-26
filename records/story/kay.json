@@ -1,0 +1,3393 @@
+{
+ "slug": "kay",
+ "gameId": "chr_0040_sweetpie",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
+ "files": [
+  {
+   "id": "CN_01",
+   "title": {
+    "en": "BASIC INFO",
+    "zh-TW": "基礎檔案",
+    "zh-CN": "基础档案",
+    "ja": "基礎情報",
+    "ko": "기본 파일"
+   },
+   "text": {
+    "en": "CODENAME: Kay\nGENDER: Female\nAUTHENTICATION: Rhodes Island\nDOB: Feb. 25\nRACE: Perro\n[ORIPATHY INFECTION STATUS]\nOripathy negative, based on medical examination reports.\n\n[INTEGRATED PHYSICAL EXAMINATION]\nPHYSIOLOGICAL STRENGTH: Excellent\nCOMBAT SKILL: Standard\nTACTICAL ACUMEN: Normal\nORIGINIUM ARTS ASSIMILATION: Excellent\n\nP.S. Kay's digestive system seems to be abnormally strong, so special attention should be paid to this when formulating a corresponding nutrition plan.\nP.P.S. I really want to know how she can eat so much and still keep her figure!\n\nWhy don't you try moving around like her?\n— Chen Qianyu",
+    "zh-TW": "【代號】小刻\n【性別】女\n【身分認證】羅德島\n【生日】2月25日\n【種族】佩洛\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：優良\n作戰技巧：標準\n戰術規劃：普通\n源石技藝適應性：優良\n\nP.S. 小刻的消化系統似乎異常強大，制定相應營養計劃時應特別注意。\nP.P.S. 真的好想知道，她是怎麼吃這麼多還能保持身材的啊！\n\n不然你先學她動起來？\n——陳千語",
+    "zh-CN": "【代号】小刻\n【性别】女\n【身份认证】罗德岛\n【生日】2月25日\n【种族】佩洛\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：优良\n作战技巧：标准\n战术规划：普通\n源石技艺适应性：优良\n\nP.S. 小刻的消化系统似乎异常强大，制定相应营养计划时应特别注意。\nP.P.S. 真的好想知道，她是怎么吃这么多还能保持身材的啊！\n\n要不你先学着她动起来？\n——陈千语",
+    "ja": "【コードネーム】ケーちゃん\n【性別】女\n【身分証明】ロドス・アイランド\n【誕生日】2月25日\n【種族】ペッロー\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：優秀\n戦闘技術：標準\n戦術立案：普通\nアーツ適性：優秀\n\nP.S. ケーちゃんの消化器官は異常に強い。食事管理の際は、その点も特に考慮すること。\nP.P.S. あんなに食べてるのに、どうして太らないんだろう。本当に知りたい！\n\nとりあえず、ケーちゃんを見習って体とか動かしてみたらいいんじゃないかなあ。\n――チェン・センユー",
+    "ko": "[코드네임] 케르\n[성별] 여\n[신분 인증] 로도스 아일랜드\n[생일] 2월 25일\n[종족] 페로\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 우수\n작전 기술: 표준\n전술 계획: 보통\n오리지늄 아츠 적응성: 우수\n\nP.S. 케르의 음식 소화 능력은 유난히 뛰어나서 영양 계획을 세울 때 이 점에 각별히 유의해야 한다.\nP.P.S. 정말 궁금하네. 그렇게 많이 먹고도 왜 몸매가 그대로인 거지?!\n\n일단 케르처럼 몸을 좀 움직여 보는 건 어때?\n- 진천우"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_02",
+   "title": {
+    "en": "HUMAN RESOURCES SUMMARY",
+    "zh-TW": "人事簡述",
+    "zh-CN": "人事简述",
+    "ja": "人事評価",
+    "ko": "인사 요약서"
+   },
+   "text": {
+    "en": "Operator Kay, real name Cerube, is a reconvener from Rhodes Island. Under Warfarin's instruction, she left Rhodes Island to journey across Talos-II. \n\nKay joining Endfield wasn't entirely a coincidence. In fact, Endfield was the final destination of her journey. More than half a year ago, we received word from Rhodes Island: a young reconvener had already set out from Rhodes Island and would arrive at Endfield to report in shortly. \"Shortly\" meaning this very moment, one hundred eighty-five days, eight hours, twelve minutes, and fifty-five seconds later. My retrieval system took nearly half a second to respond before I found her name in the personnel to-do list. \nAs for her greatly delayed reporting, she explained: she had left Rhodes Island precisely to find the Endministrator. In Warfarin's stories, the Endministrator had always remained aboard Dijiang. So she traveled across the surface of Talos-II, searching for an aerospace work vessel called \"Dijiang\". If she hadn't happened to run into the Endministrator in the outskirts of Wuling, she probably would have kept searching. \nHaving traveled alone across Talos-II for so long and still appearing before us safe and sound, at least by this alone, she is unquestionably an expert in wilderness travel. \n— Martin Marvin Malen, Assistant, HR Division, Endfield Industries",
+    "zh-TW": "幹員小刻，本名刻露彼，來自羅德島的再旅者幹員，經華法琳的授意，離開羅德島在塔衛二遊歷。\n\n小刻加入終末地並非完全是機緣巧合，事實上，終末地就是她遊歷的最終目的地。我們在大半年以前就收到了來自羅德島的訊息：有一位年輕的再旅者已經從羅德島出發，不日將抵達終末地報到——所謂「不日」指的是一百八十五天八小時十二分五十五秒後的此刻。我的檢索系統運作了快半秒鐘，才在人事待辦裡找到了她的名字。\n對於報到的大大延期，她解釋：她離開羅德島，正是為了尋找管理員，而在華法琳的故事裡，管理員一直留在帝江號上——於是她走遍了塔衛二的地表，尋找一艘叫作「帝江號」的航太作業船……若不是在武陵郊外偶然遇到了管理員，恐怕她還要繼續苦苦搜尋下去。\n孤身在塔衛二遊歷這麼長時間，還能安然無恙地出現在我們面前。至少憑這一點，她毫無疑問是一位荒野旅行的專家。\n——終末地人事助理 馬丁·馬文·馬倫",
+    "zh-CN": "干员小刻，本名刻露彼，来自罗德岛的再旅者干员，经华法琳的授意，离开罗德岛在塔卫二游历。\n\n小刻加入终末地并非完全是机缘巧合，事实上，终末地就是她游历的最终目的地。我们在大半年以前就收到了来自罗德岛的消息：有一位年轻的再旅者已经从罗德岛出发，不日将抵达终末地报到——所谓“不日”指的是一百八十五天八小时十二分五十五秒后的此刻。我的检索系统响应了快半秒钟，才在人事待办里找到了她的名字。\n对于报到的大大延期，她解释：她离开罗德岛，正是为了寻找管理员，而在华法琳的故事里，管理员一直留在帝江号上——于是她走遍了塔卫二的地表，寻找一艘叫作“帝江号”的空天作业船……若不是在武陵郊外偶然遇到了管理员，恐怕她还要继续苦苦搜寻下去。\n孤身在塔卫二游历这么长时间，还能安然无恙地出现在我们面前。至少凭这一点，她毫无疑问是一位荒野旅行的专家。\n——终末地人事助理 马丁·马文·马伦",
+    "ja": "ケーちゃん、本名はケルベ。ロドスからやってきた再旅者のオペレーターである。ワルファリンの意向によりロドスを離れてタロⅡを旅している。\n\n「ケーちゃんがエンドフィールドに加わったのは、まったくの偶然ではありません。そもそも、彼女の旅の目的地は最初からエンドフィールドでした。半年以上前に『若い再旅者がそちらへ向かった。近いうちにエンドフィールドへ到着する』とロドスから連絡を受けていたのです。ただ、その『近いうち』が185日と8時間12分55秒後になるとは、さすがに想定していませんでした。人事の未処理案件から彼女の名前を探し出すのに、私の検索システムですら0.5秒近くもかかってしまいました。」\n「これほど到着が遅れたのは、管理人を探していたからだそうです。ワルファリンさんから『管理人は帝江号にいる』と聞き、『帝江号』という名の宇宙作業船を探してタロⅡ中を歩き回っていたのだとか。武陵の郊外で偶然管理人に出会わなければ、今も探し続けていたかもしれません。」\n「たった一人でこれほど長くタロⅡを旅しながら、無事にここまで辿り着いたのです。それだけでも、彼女が荒野の旅のプロだと分かります。」\n――エンドフィールド人事アシスタント　マーティン・マーヴィン・マーレン",
+    "ko": "오퍼레이터 케르, 본명 케르베. 로도스 아일랜드 출신의 리컨비너 오퍼레이터로, 와파린의 지시에 따라 로도스 아일랜드를 떠나 탈로스 II의 여행길에 올랐다.\n\n케르가 엔드필드에 합류한 건 순전히 우연만은 아니었다. 사실 엔드필드는 처음부터 그녀의 여행의 최종 목적지였다. 우리는 반년 전에 로도스 아일랜드로부터 연락을 받았다. 젊은 리컨비너 한 명이 로도스 아일랜드에서 출발했으며, 머지않아 엔드필드에 부임할 예정이라는 내용이었다. 여기서 '머지않아'란 185일 8시간 12분 55초가 지난 바로 지금을 뜻한다. 내 검색 시스템은 0.5초나 걸려서야 미처리 인사 업무 목록에서 그녀의 이름을 찾아냈다.\n그녀는 부임이 이토록 늦어진 이유를 이렇게 설명했다. 로도스 아일랜드를 떠난 건 관리자를 찾기 위해서였고, 와파린의 이야기 속 관리자는 줄곧 제강호에 머물고 있었다는 것이다. 그래서 그녀는 '제강호'라는 항공우주 작업선을 찾아 탈로스 II의 온 지상을 돌아다녔다고 한다... 무릉 외곽에서 우연히 관리자를 만나지 못했다면, 아마 아직도 찾아 헤매고 있었을 것이다.\n하지만 적어도 그토록 오랫동안 홀로 탈로스 II를 여행한 끝에 무사히 우리 앞에 나타났다는 이 사실 하나만으로도, 그녀가 황무지 여행의 전문가라는 데에는 의심의 여지가 없었다.\n- 엔드필드 인사 보조 마틴 마빈 말렌"
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_03",
+   "title": {
+    "en": "FILE 1",
+    "zh-TW": "檔案資料·一",
+    "zh-CN": "档案资料·一",
+    "ja": "第一資料",
+    "ko": "파일 자료 1"
+   },
+   "text": {
+    "en": "When asked what codename she wished to use while operating at Endfield, Cerube simply chose the name her friends called her: \"Kay\". \nAt Endfield, her way of handling things can indeed be simple enough. \nShe doesn't try to understand complex administrative hierarchies or combat sequences. After spending some time with everyone at Endfield, everyone was simply sorted by her into three major categories: \"good people who can give me food\", \"strong people who can fight with me\", and \"very busy people who don't have much time\". This minimalistic interpersonal logic actually made her seem especially relaxed in the tense and orderly life, and it also allowed her to quickly make quite a few friends after arriving at Endfield. With her blunt simplicity and seemingly inexhaustible energy, who could bear to refuse her? \nSo you can see Kay darting around among the various operators. She'll excitedly drag an operator who just came out of the training room to visit a \"secret base\" she newly discovered: usually some observation window with a view of Talos-II, or a little castle built from old parts behind the engineering division. You can also often see her sharing a new ice cream dessert with Laevatain, or spending an entire day holed up in the weapons testing room with Yvonne. Occasionally, you can also see her being caught on the spot by logistics operators and stopped outside the door after trying to break into the food preparation area of the canteen. \nKay interacts with everyone in the simplest way, and the operators often choose the simplest way to repay her friendliness. Everyone discovered that Kay can be said to never turn down any kind of food, so over time, her pack became stuffed with all sorts of foods with peculiar flavors. Until one day, her backpack full of snacks triggered a warning during boarding inspection due to being overweight. Since then, on Kay's suggestion, all the snacks given to her were handed over to Perlica to supervise and keep on her behalf. \n\"Don't get any funny ideas. Don't think that just because you feed her, you'll be able to win the next eating contest... You can't feed her enough.\"",
+    "zh-TW": "被問及希望在終末地以什麼代號行動時，刻露彼簡簡單單地選擇了朋友們對她的稱呼「小刻」。\n在終末地，她的處事方式也的確可以足夠簡單。\n她並不試圖去理解複雜的行政層級或作戰序列，在與終末地的各位相處了一段時間後，所有人都被她簡單地劃分為三大類，「能給我東西吃的好人」、「可以陪我打架的強人」，以及「不是很有空的大忙人」。這種極簡的人際邏輯，反而讓她在忙碌有序的生活中顯得格外放鬆，也讓她來到終末地之後很快就交到了不少朋友。她那直白的單純加上似乎永遠都耗不盡的活力，又有誰能夠忍心拒絕呢？\n於是你可以看到小刻的身影穿梭在各個幹員們身邊。她會興沖沖地拉著剛從訓練室出來的幹員去參觀她新發現的「秘密基地」——通常是某個能夠看到塔衛二的觀察窗口，或者是工程中心後面用舊零件搭建起來的小城堡。你也經常能看到她和萊萬汀同享一份新款的冰淇淋甜點，或者和伊馮在武器測試間一泡就是一整天，偶爾，也可以看到她因為試圖闖入餐廳的備餐區，被後勤幹員當場抓獲後攔在門外。\n小刻以最簡單的方式和大家相處，幹員們也經常選擇最簡單的方式來報答她的友善。大家發現小刻對各色美食可以說是來者不拒，於是久而久之，她的行囊中就塞滿了各式各樣口味奇特的食物。直到有一天，她那裝滿零食的背包在登艦檢查時因超重而觸發警報。自那以後，在小刻的建議下，那些送給她的零食都轉交由佩麗卡監督代為保管。\n「別動歪腦筋，以為只要餵飽她，你們就能在下次的大胃王比賽裡取勝了——你們餵不飽她的。」",
+    "zh-CN": "被问及希望在终末地以什么代号行动时，刻露彼简简单单地选择了朋友们对她的称呼“小刻”。\n在终末地，她的处事方式也确实可以足够简单。\n她并不试图去理解复杂的行政层级或作战序列，在与终末地的各位相处了一段时间后，所有人都被她简单地划分为三大类，“能给我东西吃的好人”“可以陪我打架的强人”，以及“不是很有空的大忙人”。这种极简的人际逻辑，反而让她在紧张有序的生活中显得格外放松，也让她来到终末地之后很快就交到了不少朋友。她那直白的单纯加上似乎永远都耗不尽的活力，又有谁能够忍心拒绝呢？\n于是你可以看到小刻的身影穿梭在各个干员们身边。她会兴冲冲地拉着刚从训练室出来的干员去参观她新发现的“秘密基地”——通常是某个能够看到塔卫二的观察窗口，或者是工程中心后面用旧零件搭建起来的小城堡。你也经常能看到她和莱万汀同享一份新款的冰淇淋甜点，或者和伊冯在武器测试间一泡就是一整天，偶尔，也可以看到她因为试图闯入食堂的备餐区，被后勤干员当场抓获后拦在门外。\n小刻以最简单的方式和大家相处，干员们也经常选择最简单的方式来报答她的友善。大家发现小刻对各色美食可以说是来者不拒，于是久而久之，她的行囊中就塞满了各种各样口味奇特的食物。直到有一天，她那装满零食的背包在登舰检查时因超重而触发预警。自那以后，在小刻的建议下，那些送给她的零食都转交由佩丽卡监督代为保管。\n“别动歪脑筋，以为只要喂饱她，你们就能在下次的大胃王比赛里取胜了——你们喂不饱她的。”",
+    "ja": "エンドフィールドで使うコードネームを聞かれたケルベは、仲間たちからの愛称である「ケーちゃん」を選んだ。\nそしてエンドフィールドに来てからも、彼女の人付き合いは相変わらず単純明快だ。\n複雑な組織や指揮系統にはあまり興味を示さず、しばらく過ごすうちに、周囲の人間を3種類に分けるようになった。「食べ物をくれるいい人」「一緒に戦ってくれる強い人」、それから「いつも忙しい人」。このようにわかりやすい人付き合いのロジックによって、規律正しく慌ただしいエンドフィールドでも、ケーちゃんだけはいつも肩の力が抜けている。友人が増えるのにも、そう時間はかからなかった。あれだけ素直で、いつも元気いっぱいなのだから、無下にできる者もそうはいないだろう。\n今では、色んなオペレーターのそばでケーちゃんの姿を見かける。訓練を終えたばかりのオペレーターを捕まえて、新しく見つけた「秘密基地」を見せに行くこともある。とはいえ、その正体はたいてい、タロⅡを一望できる窓辺だったり、エンジニア部の裏で古い部品を組み上げた小さな城だったりする。レーヴァテインと新作のアイスクリームを分け合っていたかと思えば、イヴォンヌと武器試験室に一日中こもっていることもある。その一方で、食堂の調理場へ入り込もうとして後方支援オペレーターに見つかり、入口で追い返されている姿もたまに目撃されている。\nケーちゃんが誰に対しても裏表なく接するように、周囲もまた、分かりやすい形でその好意に応えている。特に食べ物なら何でも喜ぶと知られてからは、彼女の荷物に変わった味のお菓子や食べ物が次々と増えていった。そしてついには、菓子を詰め込んだリュックが搭乗検査で重量オーバーになった。それ以来、ケーちゃんの提案で、もらったお菓子はペリカ監察官が預かることになっている。\n「ケーちゃんを満腹にしたからといって、大食い大会で勝てるわけではありません。彼女のお腹はブラックホールのようなものですから。」",
+    "ko": "엔드필드에서 어떤 코드네임으로 활동하고 싶은지 묻자, 케르베는 친구들이 자신을 부르는 별명인 '케르'를 골랐다.\n엔드필드에서 사람들과 지내는 방식도 그만큼 단순했다.\n케르는 복잡한 행정 체계나 작전 편제를 이해하려 애쓰지 않는다. 엔드필드 사람들과 한동안 지낸 뒤, 그녀는 엔드필드 사람들을 딱 세 부류로 나누었다. '먹을 걸 주는 착한 사람', '나랑 싸워 줄 수 있는 센 사람', 그리고 '늘 바쁜 사람'. 사람을 대하는 기준이 이토록 단순한 덕분에, 케르는 분주하고 질서 정연한 일상 속에서도 유난히 느긋해 보였다. 엔드필드에 온 지 얼마 되지 않아 친구를 많이 사귄 것도 그 덕분이다. 그토록 솔직하고 순수한 데다 활기가 넘치니, 누가 그녀를 거절할 수 있겠는가?\n그래서인지 어디서든 오퍼레이터들과 어울리는 케르의 모습을 볼 수 있다. 예를 들어, 신이 나서 훈련실에서 막 나온 오퍼레이터를 붙잡고는, 새로 발견한 '비밀 기지'를 보여주겠다며 데려가곤 한다. 그 비밀 기지는 대개 탈로스 II를 내려다볼 수 있는 관측창이나, 공학 센터 뒤편에 낡은 부품으로 만든 작은 성이었다. 또 레바테인과 새로 나온 아이스크림 디저트를 나눠 먹거나, 이본과 무기 시험실에서 하루를 꼬박 보내는 모습도 자주 보인다. 그 외에 또 가끔은 식당에서 음식을 준비하는 구역에 들어가려다 지원 오퍼레이터에게 딱 걸려 문 앞에서 제지당하기도 한다.\n케르가 모든 사람들과 순수하게 어울리는 만큼, 오퍼레이터들도 그 호의에 가장 간단한 방법으로 보답하곤 한다. 케르가 온갖 음식을 가리지 않고 반긴다는 걸 알게 된 후, 점점 그녀의 짐은 갖가지 독특한 맛의 음식으로 가득 찼다. 그러던 어느 날, 함선 탑승 보안검색에서 간식으로 꽉 찬 배낭이 중량 제한을 넘겨 경보가 울리고 말았다. 그 뒤로는 케르의 제안에 따라, 그녀에게 선물로 들어오는 간식을 모두 펠리카 감독관이 대신 보관하게 되었다.\n\"케르를 배불리 먹여서 다음 푸드파이터 대회에서 이겨 보겠다는 꼼수는 부리지 마세요. 아무리 먹여도 배가 안 찰 테니까요.\""
+   },
+   "unlock": null
+  },
+  {
+   "id": "CN_04",
+   "title": {
+    "en": "FILE 2",
+    "zh-TW": "檔案資料·二",
+    "zh-CN": "档案资料·二",
+    "ja": "第二資料",
+    "ko": "파일 자료 2"
+   },
+   "text": {
+    "en": "Having been with Endfield for so long, I've never seen an operator so enthusiastic about field missions. \nTalos-II's environment is complex and ever-changing, and enemies often become troublesome too. The dangers go without saying, and the heavy responsibility also puts most operators under considerable pressure. But for operator Kay, field missions are more like officially approved expeditions. Sometimes, the moment she's added to the personnel list, she'll come running to confirm the departure time, with an eagerness in her tone that she clearly can't hide. Compared to the enclosed Dijiang, the vast world of Talos-II seems to be the playground Kay prefers. But to this day, I still can't understand... After such a long journey, how can she still maintain such intense curiosity about everything around her? \nBecause of her long experience traveling in the wilderness, Kay often serves as a guide during missions. But when out in the field with her, she always keeps testing the edge of leaving the group: sniffing here, poking around there, and if you don't pay attention for even a moment, she'll disappear from everyone's sight. The amazing thing is, with just one call, you'll hear her respond from behind some nearby bush, and you'll find she was actually right there beside you all along. Then she'll bring back a pebble shaped remarkably like Dijiang, or a brightly colored flower of unknown name but with an unusually pleasant scent. \nOh, please don't misunderstand. She won't neglect her duties as a guide just because she's playful. I even think the reason she can constantly maintain awareness of her surroundings is precisely because she always keeps herself highly energized mentally. She often senses changes in the surrounding environment earlier than anyone else in the team, and immediately enters combat mode with high morale. When encountering sudden situations, she can even warn of enemy movements before the sensors respond, or tell us the exact location of danger. And when asked how she actually does it, she'll only give answers like \"the smell of the air is wrong\" or \"that direction feels uncomfy\". If this isn't some kind of Originium Arts, then it's probably intuition and premonition honed from long years of roaming Talos-II.",
+    "zh-TW": "加入終末地這麼久，我從來沒有見過對外勤任務如此興致高昂的幹員。\n塔衛二的環境複雜多變，敵人也時常變得棘手，其中的危險自不用說，重大的責任也讓大部分幹員頗具壓力。但對於小刻幹員來說，外勤任務更像是一場被正式批准的探險活動。有時候剛把她加進人員名單，她就會跑來確認出發時間，語氣裡帶著明顯藏不住的期待。比起封閉的帝江號，似乎塔衛二的廣闊天地才是小刻更喜歡的遊樂場。不過我至今都不能理解，在經歷了那麼漫長的旅行之後，她是怎麼還能對周遭的一切保持這麼強烈的好奇心的？\n因為長期的荒野旅行經歷，小刻在任務中常擔任嚮導職責。但在和她一同出外勤時，她總是會在離隊的邊緣反覆試探，這裡嗅一嗅，那裡探一探，稍不注意，就會消失在所有人的視野中。神奇的是，只要一聲呼喚，就能在不遠處的某個灌木叢後聽到她的回應，發現她其實一直就在身邊，然後幫我們帶回來一塊形狀酷似帝江號的石頭，或是一朵不知名的、但是異常好聞的鮮豔小花。\n哦，請別誤會，她可不會因為貪玩而怠慢了自己作為嚮導的職責，我甚至認為她能一直維持對周圍環境的感知，正是因為她始終讓自己保持著精神上的高度飽滿。她往往比隊伍中的其他人更早地察覺周遭環境的變化，並立刻以高昂的鬥志進入作戰狀態。在遭遇突發情況時，她甚至能在感測器反應之前就預警敵人的動向，或者告訴我們危險的具體位置。而當問及她究竟是如何做到的，她也只會給出「空氣的味道不對」、「那個方向感覺不舒服」這樣的回答。如果這並非某種源石技藝，那可能就是長期在塔衛二漫遊所鍛鍊出來的直覺和預感能力吧。",
+    "zh-CN": "加入终末地这么久，我从来没有见过对外勤任务如此兴致高昂的干员。\n塔卫二的环境复杂多变，敌人也时常变得棘手，其中的危险自不用说，重大的责任也让大部分干员颇具压力。但对于小刻干员来说，外勤任务更像是一场被正式批准的探险活动。有时候刚把她划入人员名单，她就会跑来确认出发时间，语气里带着明显藏不住的期待。相比起封闭的帝江号，似乎塔卫二的广阔天地才是小刻更喜欢的游乐场。不过我至今都不能理解，在经历了那么漫长的旅行之后，她是怎么还能对周遭的一切保持这么强烈的好奇心的？\n因为长期的荒野旅行经历，小刻在任务当中常担任向导职责。可在和她一同出外勤时，她总会在离队的边缘反复试探，这里嗅一嗅，那里探一探，稍不注意，就会消失在所有人的视野中。神奇的是，只要一声呼唤，就能在不远处的某个灌木丛后听到她的回应，发现她其实一直就在身边，然后给我们带回来一块形状酷似帝江号的卵石，或是一朵不知名的，但是异常好闻的鲜艳小花。\n哦，请别误会，她可不会因为贪玩而怠慢了自己作为向导的职责，我甚至认为她能一直维持对周围环境的感知，正是因为她始终让自己保持着精神上的高度饱满。她往往比队伍中的其他人更早地察觉周遭环境的变化，并立刻以高昂的斗志进入作战状态。在遭遇突发情况时，她甚至能在传感器响应之前就预警敌人的动向，或者告诉我们危险的具体位置。而当问及她究竟是如何做到的，她也只会给出“空气的味道不对”“那个方向感觉不舒服”这样的回答。如果这并非某种源石技艺，那可能就是长期在塔卫二漫游所锻炼出来的直觉和预感能力吧。",
+    "ja": "エンドフィールドに来てから、これほど外勤任務を楽しみにしているオペレーターは初めて見ました。\nタロⅡは環境の変化が激しく、手強い敵も少なくありません。危険はもちろん、任務の責任も重く、多くのオペレーターにとって外勤はプレッシャーを伴うものです。しかし、ケーちゃんにとっては、正式に許可された冒険のようなものなのでしょう。任務の参加者リストに名前を載せた途端、出発時間を聞きに来ることもあります。期待に胸を膨らませているのが、声だけでも伝わってきます。どうやら彼女には、閉ざされた帝江号よりも、広大なタロⅡの方が遊び場として魅力的なようです。それにしても、あれほど長い旅をしてきたというのに、どうして今でも何もかもが新鮮に映るのでしょうか。不思議でなりません。\n荒野を旅してきた経験を買われ、ケーちゃんは任務でもよく案内役を任されています。ただ、一緒に外勤へ出ると、いつも隊列を離れるか離れないかのところをうろうろしています。あちこち匂いを嗅いだり、気になるものを覗き込んだり。少し目を離すと、いつの間にか姿が見えなくなってしまいます。ところが、名前を呼べば決まって近くの茂みから返事が聞こえ、実はずっとそばにいたことが分かるのです。そうして戻ってくる彼女の手には、帝江号そっくりの形をした小石や、とてもいい香りのする名も無き小さな花が握られています。\nああ、誤解しないでください。遊びに夢中で案内役の仕事を忘れているわけではありません。むしろ、あれほど周囲の変化に敏感なのは、常に好奇心いっぱいで、五感を研ぎ澄ませているからではないでしょうか。実際、ケーちゃんは誰よりも早く異変に気づき、すぐに戦闘態勢に入ります。突然の襲撃でも、センサーが反応するより先に敵の動きを察知して知らせたり、危険が潜む場所を教えてくれたりするほどです。どうやって分かるのか尋ねても、返ってくるのは「空気の匂いが変」「あっちの方、なんか嫌な感じ」といった答えばかり。これが何らかのアーツでないのなら、長年タロⅡを旅するうちに磨かれた、野生の勘とでも言うべきものでしょう。",
+    "ko": "엔드필드에 들어온 지 꽤 됐지만, 외근 임무를 이토록 반기는 오퍼레이터는 처음 본다.\n탈로스 II의 환경은 복잡하고 변화무쌍하며, 까다로운 적을 상대해야 할 때도 많다. 위험한 건 말할 것도 없고, 막중한 책임까지 따르니 대부분의 오퍼레이터는 부담을 느낀다. 하지만 케르에게 외근 임무는 정식으로 허락받은 탐험이나 다름없다. 임무 명단에 이름을 올리기가 무섭게 출발 시간을 물으러 달려올 때면 목소리에 숨길 수 없는 기대감이 묻어난다. 아무래도 사방이 꽉 막힌 제강호보다는 드넓은 탈로스 II가 더 마음에 드는 놀이터인 모양이다. 그렇게 오랫동안 여행을 하고도 여전히 주변의 모든 것에 강한 호기심을 품을 수 있다는 게 신기할 따름이다.\n황무지를 오래 여행한 경험 때문인지, 케르는 임무 중 자주 길잡이 역할을 자처한다. 그런데 함께 임무를 나가면 금방이라도 대열을 벗어날 것처럼 여기저기 냄새를 맡고 기웃거리곤 한다. 그러다 잠깐 한눈을 팔면 어느새 모두의 시야에서 사라져 있다. 하지만 신기하게도 이름을 한 번 부르기만 하면 멀지 않은 어느 덤불 뒤에서 대답이 들려온다는 것이다. 알고 보면 케르는 줄곧 우리 근처를 떠난 적이 없었고, 이내 제강호를 꼭 닮은 모양의 조약돌이나, 이름은 알 수 없지만 빛깔이 곱고 유난히 향긋한 작은 꽃 한 송이를 가져주곤 했다.\n아, 그렇다고 케르가 노는 데 정신이 팔려 길잡이로서의 임무를 소홀히 하는 것은 절대 아니다. 오히려 나는 그녀가 주변 환경에 대한 감각을 계속 유지할 수 있는 이유가, 항상 정신적으로 최고의 컨디션을 유지하고 있기 때문이라고 생각한다. 케르는 대개 다른 팀원들보다 주변 환경의 변화를 먼저 감지하고, 곧바로 투지를 불태우며 전투태세를 갖추곤 한다. 심지어 돌발 상황에서는 센서가 반응하기도 전에 적의 움직임을 알아채고 경고하거나, 위험이 발생한 위치를 정확히 짚어 주기도 한다. 대체 어떻게 알았냐고 물어보면, 케르는 그저 \"공기 냄새가 이상해\", \"저쪽은 뭔가 기분 나빠\"라고 대답할 뿐이다. 이것이 어떤 오리지늄 아츠에 의한 능력이 아니라면, 오랫동안 탈로스 II를 누비며 살아온 경험이 가져다준 본능과 예감에 가까운 감각일 것이다."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_05",
+   "title": {
+    "en": "FILE 3",
+    "zh-TW": "檔案資料·三",
+    "zh-CN": "档案资料·三",
+    "ja": "第三資料",
+    "ko": "파일 자료 3"
+   },
+   "text": {
+    "en": "[Weapon Repair Order D1] \nFacility awaiting repair: Kinetic Shock Hammer \nOriginal manufacturer: Mieszko Industries (Morospolis) \nI finally understand why Kay is always running to the arsenal. With the way she uses things, our armory reserves will be emptied by her sooner or later. \nYesterday, while clearing out an abandoned stronghold, she pulled out a Mieszko-made Kinetic Shock Hammer out of thin air. As far as I know, this hammer is supposed to require a three-person crew to operate safely, but Kay lifted it all by herself. She didn't connect the kinetic hammer to a powered exoskeleton. She just grabbed the grip, which was still undergoing high-frequency overheating, bare-handed. That temperature would be enough to cook an ordinary operator's hand. The way she swung this heavy weapon was no different from swinging a light twig. She didn't even activate the shock-pressurization mode. She simply used the inertia generated by the great hammer's own weight to pin an Aggelos that tried to ambush us into the wall alive, like driving a nail. \nThis was the first time I saw with my own eyes how Kay uses these weapons. To be honest, it's really something of a miracle that her \"treasures\" haven't all fallen apart. \n\nThe hammer's not broken, you see? It's full of spirit! \n— Kay \n\n[Weapon Repair Order E3] \nFacility awaiting repair: Steel Axe \nOriginal manufacturer: Unknown \nThe forging technique on this weapon is quite old-school. As far as I know, no manufacturer on Talos-II still uses this kind of craftsmanship. \nThere's a string of ancient Minos script engraved on the axe head. It could be the manufacturer's name, or maybe a person's name? Maybe I should go ask a colleague who knows Minos. \n\n[Weapon Repair Order I4] \nFacility awaiting repair: Standard-Issue Lance \nOriginal manufacturer: Fort Forgefane \nWhen we met her, we were tracking a large Aggelos. \nIt lured us into the snow plains, and we circled for three days until all our supplies ran out. Just as we were preparing for a life-or-death struggle with that Aggelos, a massive lance suddenly pierced into our field of view. At the other end, gripping the shaft, was a young girl. With strength utterly disproportionate to her own body, she ran the Aggelos through with the lance... \nAfter the Aggelos crashed to the ground, the girl finally spoke. She said she had been sent by the Order of Steel Oath, and had come to bring us home...",
+    "zh-TW": "【武器維修單D1】\n待修設備：動能震盪錘\n原製造商：梅什科工業（瑪爾斯波利斯）\n我總算是知道為什麼小刻總是往武庫跑了，按她那種使用方法，我們的武庫儲備遲早會被她打空。\n昨天清理廢棄據點的時候，她憑空拿出了一把梅什科產的動能震盪錘。據我所知，這把錘本來應該配備一個三人小組才能安全操作，但小刻一個人就把它舉了起來，她並沒有把動能錘連接到動力外骨架上，而是直接徒手抓住了那個還在高頻過熱的握柄——那溫度足以把一個普通幹員的手燙熟。她揮舞這把沉重武器的姿勢，和揮舞一根輕巧的樹枝沒什麼兩樣。她甚至沒有啟動震盪加壓模式，就直接利用這柄大錘自重產生的慣性，把一頭試圖偷襲的天使像釘釘子一樣，活生生地釘進了牆壁裡。\n我第一次親眼看到小刻怎麼使用這些武器。說實話，她的這些「寶貝」沒全部散架，真的也算得上是個奇蹟。\n\n這錘子沒壞啊，你們看，它很有力，好得很呢！\n——小刻\n\n【武器維修單E3】\n待修設備：鋼製手斧\n原製造商：不明\n這件武器的鑄造工藝相當古典，據我所知，塔衛二沒有一家製造商還在使用這種工藝。\n斧身上刻有一串古米諾斯語，可能是製造商的名字，也可能是個人名？也許我應該去問問懂米諾斯語的同事。\n\n【武器維修單I4】\n待修設備：制式長槍\n原製造商：熔爐要塞\n遇到她的時候，我們正在追蹤一隻大型天使。\n牠把我們引入雪原，繞了三天，耗光了所有的補給。就在我們準備跟那個天使殊死一搏的時候，一柄巨大的長槍突然刺入了我們的視野，而在另一端握住槍桿的，竟是一位年輕的女孩。她憑著與自身極不相稱的力量，用長槍洞穿了天使的身體……\n天使轟然倒下後，那個女孩終於開口，說自己是鐵誓軍派來的，來帶我們回家……",
+    "zh-CN": "【武器维修单D1】\n待修设备：动能震荡锤\n原制造商：梅什科工业（玛尔斯波利斯）\n我总算是知道为什么小刻总是往武库跑了，按她那种使用方法，我们的武库储备迟早会被她打空。\n昨天清理废弃据点的时候，她凭空拿出了一把梅什科产的动能震荡锤。据我所知，这把锤本来应该配备一个三人班组才能安全操作，但小刻一个人就把它举了起来，她并没有把动能锤连接到动力外骨架上，而是直接徒手抓住了那个还在高频过热的握柄——那温度足以把一个普通干员的手烫熟。她挥舞这把沉重武器的姿势，和挥舞一根轻巧的树枝没什么两样。她甚至没有启动震荡加压模式，就直接利用这柄大锤自重产生的惯性，把一头试图偷袭的天使像钉钉子一样，活生生地摁进了墙壁里。\n我头一次亲眼看到小刻怎么使用这些武器。说实话，她的这些“宝贝”没全散架，真也算得上是个奇迹。\n\n这锤子没坏呀，你们看，它可有劲儿了，精神得很呢！\n——小刻\n\n【武器维修单E3】\n待修设备：钢制手斧\n原制造商：不明\n这件武器的铸造工艺相当古典，据我所知，塔卫二没有一家制造商还在使用这种工艺。\n斧身上刻有一串古米诺斯语，可能是制造商的名字，也可能是个人名？也许我该去问问懂米诺斯语的同事。\n\n【武器维修单I4】\n待修设备：制式长枪\n原制造商：熔炉要塞\n遇见她的时候，我们正在追踪一只大型天使。\n它把我们引入雪原，绕了三天，耗光了所有的补给。就在我们准备和那个天使殊死一搏的时候，一柄巨大的长枪突然刺入了我们的视野，而在另一端握住枪杆的，竟是一位年轻的女孩。她凭着与自身极不相称的力量，用长枪洞穿了天使的身体……\n天使轰然倒下后，那个女孩终于开口，说自己是铁誓军派来的，来带我们回家……",
+    "ja": "【武器修理依頼書D1】\n修理対象：振動ハンマー\n製造元：ミェシュコ工業（モロスポリス）\nケーちゃんがしょっちゅう武庫に出入りしている理由が、ようやく分かった。あんな使い方を続けていたら、いずれ武庫の備蓄が底をついてしまう。\n昨日、使われなくなった拠点を片付けていたときのことだ。ケーちゃんはどこからともなく、ミェシュコ製の振動ハンマーを取り出した。私の知る限り、あれは本来、三人一組でなければ安全に扱えない代物だ。ところがケーちゃんは、1人で軽々と持ち上げてしまった。パワードスーツに接続せずに、高速振動で高熱になっているグリップを素手で握ったのだ。普通のオペレーターなら、手が焼けただれてしまうほどの熱さだというのに。しかも、あの巨大なハンマーを、まるで細い木の枝でも振るように軽々と扱っていた。おまけに振動加圧モードすら起動せず、ハンマーの重さと勢いだけで、奇襲してきたアンゲロスを釘のように壁へ叩き込んでしまった。\nケーちゃんが武器を使うところを間近で見たのはこれが初めてだった。あんな扱いを受けても彼女の「お宝」が原形を保っているのは、もはや奇跡としか言いようがない。\n\n壊れてないよ！ほら、まだまだ元気いっぱい！\n――ケーちゃん\n\n【武器修理依頼書E3】\n修理対象：鋼製手斧\n製造元：不明\nこの武器には、かなり古い製法が使われている。少なくとも、現在のタロⅡでこれを採用しているメーカーはないはずだ。\n斧には古代ミノス語らしき文字が刻まれている。製造元の名前なのか、それとも誰かの名前なのか……ミノス語に詳しい同僚に聞いてみた方がよさそうだ。\n\n【武器修理依頼書I4】\n修理対象：制式長槍\n製造元：熔炉要塞\n彼女と出会ったとき、我々は大型アンゲロスを追跡していた。\nだが、奴に誘い込まれた雪原で3日間も振り回され、ついには補給物資も底をついてしまった。もはや決死の覚悟で戦うしかない。そう腹をくくったとき、突如、巨大な長槍が視界に飛び込んできた。その槍を握っていたのは、なんと一人の少女だった。少女は、その小さな体からは想像もつかない怪力で、アンゲロスの体を長槍で貫いた……\nアンゲロスが轟音とともに倒れると、少女はようやく口を開いた。自分は鉄誓軍から派遣され、我々を故郷へ連れ帰りに来たのだと……",
+    "ko": "[무기 수리 의뢰서 D1]\n수리 대상: 에너지 진동 해머\n제조사: 미에슈코 공업(마르스폴리스)\n케르가 왜 그렇게 자주 무기고를 들락날락하는지 알 것 같다. 저런 식으로 무기를 사용하다간 우리 무기고에 남아날 무기가 없을 게 분명하다.\n어제 폐기된 거점을 정리하던 중, 케르가 미에슈코 공업에서 만든 에너지 진동 해머를 꺼내 들었다. 내가 알기로 이 해머는 원래 세 명으로 구성된 작업반이 있어야 안전하게 운용할 수 있는 장비다. 그런데 케르는 혼자서 그것을 번쩍 들어 올렸다. 그녀는 해머를 동력 외골격에 연결하지도 않고, 고주파로 과열된 손잡이를 맨손으로 덥석 움켜쥐었다. 평범한 오퍼레이터라면 손이 익어 버렸을 것이다. 그리고 무거운 무기를 휘두르는 그 모습은 가벼운 나뭇가지를 휘두르는 것과 다를 바 없었다. 심지어 진동 가압 모드조차 작동시키지 않은 채, 그저 육중한 무게에서 나오는 관성만으로, 기습하려던 아겔로스를 못 박듯이 벽에 처박아 버렸다.\n케르가 이 무기들을 어떻게 사용하는지 직접 본 건 이번이 처음이다. 솔직히 말해서, 케르가 말하는 '보물'들이 아직 전부 산산조각 나지 않은 게 기적일 정도다.\n\n이 망치 안 망가졌는데? 봐, 아주 쌩쌩하잖아!\n- 케르\n\n[무기 수리 의뢰서 E3]\n수리 대상: 강철 손도끼\n제조사: 불명\n상당히 오래된 주조 방식으로 만든 무기다. 내가 아는 한, 탈로스 II에서 아직도 이런 주조 방식으로 무기를 제조하는 제조사는 없다.\n도끼날에는 고대 미노스어로 보이는 문자가 한 줄 새겨져 있는데, 제조사의 이름인지, 아니면 어떤 개인의 이름인지는 모르겠다. 미노스어를 아는 동료에게 물어봐야겠다.\n\n[무기 수리 의뢰서 I4]\n수리 대상: 제식 장창\n제조사: 용광로 요새\n케르를 만났을 때, 우리는 대형 아겔로스 한 마리를 추적하고 있었다.\n놈은 우리를 설원으로 유인해 사흘 동안이나 우릴 따돌렸고, 그사이 보급품도 전부 소진되고 말았다. 아겔로스와 목숨을 걸고 최후의 결전을 벌이려던 그때, 거대한 장창 하나가 갑자기 우리 시야를 가로질렀다. 그리고 그 창대를 쥐고 있던 것은 놀랍게도 어린 소녀였다. 소녀는 자신의 체격과는 전혀 어울리지 않는 엄청난 힘으로 장창을 휘둘러 아겔로스의 몸을 꿰뚫었다...\n아겔로스가 굉음과 함께 쓰러지고 나서야 소녀가 입을 열었다. 자신은 철의 서약군에서 왔으며, 우리를 집으로 데려가기 위해 왔다고 했다..."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "CN_06",
+   "title": {
+    "en": "FILE 4",
+    "zh-TW": "檔案資料·四",
+    "zh-CN": "档案资料·四",
+    "ja": "第四資料",
+    "ko": "파일 자료 4"
+   },
+   "text": {
+    "en": "Ever since she woke up on Rhodes Island, Kay stayed aboard the ship for a long time. Rhodes Island seemed no different from before. The operators all had their own missions, and many weren't often on the ship. No one ever assigned her any particular duties. She only needed to train, sleep well, and eat well, just as she had originally wished. Sometimes she would go find Warfarin and listen to her tell stories about this planet, about Terra, and about Kay herself. She could stare blankly at the scenery outside the porthole for ages, as it changed from snowy mountains to forests, then to deserts, and then back to snowy mountains. It seemed that as long as she was willing, this kind of time would never end. \nUntil one day, she decided to pack her bags. \nShe sat before the porthole for a long time, her ears twitching slightly, as if catching a sound echoing by her ear. The stories Warfarin had told slowly linked together in her mind into a road. At the end of that road was a place called \"Endfield\". \nShe didn't know what that really meant. An endpoint? A place to belong? Or some kind of answer waiting for her? She couldn't figure it out, but she vaguely felt that something there was calling to her. \nAnd so she stood. \nThe preparation process felt more like a fun game to her. She picked the biggest, sturdiest backpack and stuffed it with all kinds of snacks and dry rations, honey waffles in particular took the most important spot. Then she tried summoning a few handy weapons, watching them appear and fade away around her, and nodded in satisfaction. She was ready. \nWarfarin seemed to have anticipated her departure. She handed over a small extra bag of honey waffles. \"If you get lost,\" Warfarin said, \"the Endmin will tell you which way to go.\" \nShe nodded earnestly, though she wasn't sure what \"getting lost\" felt like. This was her first time setting out to explore this brand-new world. \nOn the day of departure, she walked to the cabin door with her bulging pack on her back. The door slowly opened, and the wind outside rushed in, carrying unfamiliar scents. Talos-II lay before her. \n\"Endfield...\" She softly repeated the name, as if confirming her direction. \nThen she took her first step. \nShe didn't know what lay ahead, nor how long this journey would last, nor how many times in the future she would set out on journeys like this. But she vaguely understood that setting out on a journey wasn't just to find delicious things she hadn't tasted, nor just to see scenery she hadn't seen before— \nShe was searching for that feeling that could only be found on a journey. \nOne that was called \"going home\".",
+    "zh-TW": "自從在羅德島甦醒之後，很長一段時間，小刻都待在艦船上。羅德島同以往好像沒什麼區別，幹員們都各有使命，很多人不常留在艦上，從未有人為她安排過什麼特別的職責，她只需要訓練，睡好，吃好，一如她最初的願望。有時候她會去找華法琳，聽她講有關這顆星球、泰拉和小刻自己的故事。她可以一直呆呆地看著舷窗外的景色，從雪山變到森林，再變到沙漠，然後又變回雪山。似乎只要她願意，這樣的時光永遠也不會結束。\n直到有一天，她決定背起行囊。\n她在舷窗前坐了很久，耳朵微微晃動，像是捕捉到了迴盪在耳邊的聲音。那些華法琳講過的故事，在她腦海裡慢慢連成了一條路——路的盡頭，有一個地方，被稱作「終末地」。\n她並不知道那究竟意味著什麼。是終點？是歸處？還是某種等待她的答案？她想不明白，但隱約覺得，那裡一定有東西在呼喚她。\n於是她站了起來。\n準備的過程對她來說更像是一場愉快的遊戲。她挑了一個最大、最結實的背包，往裡面塞進各式各樣的零食和乾糧，尤其是蜜餅，占據了最重要的位置。她又試著召喚出幾件順手的武器，看著它們在身邊浮現又隱去，滿意地點了點頭，她已經做好準備。\n華法琳好像對她的啟程早有預料，將一小袋額外的蜜餅遞了過去。「如果迷路了，」華法琳說，「管理員會告訴你該怎麼走。」\n她認真地點頭，雖然她並不確定「迷路」是什麼感覺，這是她第一次踏上探索這個全新世界的旅途。\n出發那天，她背著鼓鼓的行囊走到艙門前。門緩緩開啟，外面的風帶著陌生的氣味撲面而來。塔衛二呈現在她的面前。\n「終末地……」她輕聲唸了一遍這個名字，像是在確認方向。\n然後，她邁出了第一步。\n她並不知道前方會有什麼，也不清楚這段旅途會持續多久，也不知道這樣的旅程，自己將來還會走上多少次。但她隱約明白，踏上旅程，不只是為了去找未品嚐過的美味，也不只是為了去看未見識過的風景——\n她是為了尋找那種，只有在旅程中才能找到的感覺。\n那種感覺，叫作「回家」。",
+    "zh-CN": "自从在罗德岛苏醒之后，很长一段时间，小刻都待在舰船上。罗德岛同以往好像没什么区别，干员们都各有使命，很多人不常留在舰上，从未有人给她安排过什么特别的职责，她只需要训练，睡好，吃好，一如她最初的愿望。有时候她会去找华法琳，听她讲有关这颗星球、泰拉和小刻自己的故事。她可以一直呆呆地看着舷窗外的景色，从雪山变到森林，再变到沙漠，然后又变回雪山。似乎只要她愿意，这样的时光永远也不会结束。\n直到有一天，她决定背起行囊。\n她在舷窗前坐了很久，耳朵微微晃动，像是捕捉到了回荡在耳边的声音。那些华法琳讲过的故事，在她脑海里慢慢连成了一条路——路的尽头，有一个地方，被称作“终末地”。\n她并不知道那究竟意味着什么。是终点？是归处？还是某种等待她的答案？她想不明白，但隐约觉得，那里一定有东西在呼唤她。\n于是她站起身来。\n准备的过程对她来说更像是一场愉快的游戏。她挑了一个最大、最结实的背包，往里面塞进各种各样的零食和干粮，尤其是蜜饼，占据了最重要的位置。她又试着召唤出几件顺手的武器，看着它们在身边浮现又隐去，满意地点了点头，她已经做好准备。\n华法琳好像对她的启程早有预料，将一小袋额外的蜜饼递了过去。“如果迷路了，”华法琳说，“管理员会告诉你该怎么走。”\n她认真地点头，虽然她并不确定“迷路”是什么感觉，这是她第一次踏上探索这个全新世界的旅途。\n出发那天，她背着鼓鼓的行囊走到舱门前。门缓缓开启，外面的风带着陌生的气味扑面而来。塔卫二呈现在她的面前。\n“终末地……”她轻声念了一遍这个名字，像是在确认方向。\n然后，她迈出了第一步。\n她并不知道前方会有什么，也不清楚这段旅途会持续多久，也不知道这样的旅程，自己将来还会走上多少次。但她隐约明白，踏上旅程，不只是为了去找未品尝过的美味，也不只是为了去看未见识过的风景——\n她是为了寻找那种，只有在旅程中才能找到的感觉。\n那种感觉，叫作“回家”。",
+    "ja": "ロドスで目覚めてから、ケーちゃんは長い間、艦内で暮らしていた。ロドスは昔とあまり変わっていないようだった。オペレーターたちはそれぞれの使命を抱え、本艦を離れている者も多い。ケーちゃんには特別な任務もなく、訓練して、よく寝て、たくさん食べる。それだけでよかった。かつて彼女が望んだとおりの生活だった。時々ワルファリンのもとを訪ねては、この星やテラ、そして自分自身についての話を聞いた。何も考えず、舷窓の外を眺めて過ごすこともあった。雪山が森に変わり、やがて砂漠になって、また雪山へと戻っていく。望みさえすれば、そんな日々がいつまでも続くように思えた。\nけれどある日、ケーちゃんは旅に出ることを決めた。\nその日も長い間、舷窓の前に座っていた。耳がかすかに揺れる。まるで、どこからか聞こえる声に耳を澄ませているようだった。ワルファリンから聞いた数々の物語が、頭の中で少しずつ一本の道になっていく。その道の果てにあるのは、「エンドフィールド」と呼ばれる場所。\nそれが何を意味するのか、ケーちゃんには分からなかった。旅の終着点なのか。帰るべき場所なのか。それとも、何かの答えが待っているのか。考えても分からない。ただ、誰かに呼ばれているような気がした。\nケーちゃんは立ち上がった。\n旅支度は、彼女にとって楽しい遊びのようなものだった。一番大きくて丈夫なリュックを選び、お菓子や保存食をぎゅうぎゅうに詰め込んでいく。もちろん、大好物のはちみつワッフルは何よりも大切だ。それから使い慣れた武器をいくつか呼び出してみた。目の前に現れては消える武器を見て、満足そうにうなずく。これで準備は万端だ。\nワルファリンは、彼女が旅立つことを予想していたらしい。追加のはちみつワッフルが入った小袋を差し出して、こう言った。「道に迷っても、管理人が進むべき道を教えてくれるだろう」と。\nケーちゃんは真剣な顔でうなずいた。もっとも、迷子になるというのがどんな感覚なのか、本人にはよく分かっていなかった。これから初めて、この新しい世界を探検するのだから。\n出発の日。ケーちゃんは荷物でぱんぱんになったリュックを背負い、ハッチの前に立った。ゆっくりと扉が開く。外から吹き込んだ風が、知らない匂いを運んでくる。目の前には、タロⅡの大地が広がっていた。\n「エンドフィールド……」行き先を確かめるように、そっとその名をつぶやいた。\nそして、一歩を踏み出した。\nこの先に何が待っているのか。旅はいつまで続くのか。これから何度、こうして旅立つことになるのか。ケーちゃんには、何も分からなかった。ただ、少しだけ分かっていたことがある。旅に出るのは、まだ食べたことのないごちそうや、見たことのない景色を求めるためだけではない。\n旅をして初めて味わえる、ある感覚――\n「家に帰る」という思いを求めていたのだ。",
+    "ko": "로도스 아일랜드에서 깨어난 뒤, 케르는 꽤 오랫동안 함선 안에서 지냈다. 로도스 아일랜드는 예전과 크게 다르지 않은 듯했다. 오퍼레이터들은 저마다 맡은 사명이 있었고, 함선을 자주 비우는 이들도 많았다. 누구도 케르에게 특별한 임무를 맡기진 않았다. 처음 바라던 대로 그저 훈련하고, 잘 자고, 잘 먹으면 그만이었다. 케르는 가끔 와파린을 찾아가 이 행성과 테라, 그리고 자신에 관한 이야기를 듣기도 했다. 눈 덮인 산이 숲으로 바뀌고, 다시 사막으로 바뀌었다가 어느새 또다시 설산이 나타날 때까지, 케르는 멍하니 현창 밖의 풍경을 바라보곤 했다. 자신이 원한다면 이런 날들이 언제까지고 계속될 것 같았다.\n그러던 어느 날, 케르는 배낭을 메고 떠나기로 했다.\n현창 앞에 앉아 한참 동안 바깥을 바라보던 케르의 귀가 살짝 움직였다. 마치 귓가에 맴도는 어떤 목소리를 포착한 듯했다. 와파린이 들려주었던 이야기들이 머릿속에서 서서히 하나의 길로 이어졌다. 그 길의 끝에는 '엔드필드'라고 불리는 곳이 있었다.\n그곳이 대체 무엇을 의미하는지는 알 수 없었다. 여정의 끝일까? 돌아갈 곳일까? 아니면 자신을 기다리고 있는 어떤 답일까? 이해할 수는 없었지만, 왠지 그곳이 자신을 부르고 있다는 느낌이 들었다.\n그래서 케르는 자리에서 일어났다.\n여행을 준비하는 과정은 즐거운 놀이에 가까웠다. 가장 크고 튼튼한 배낭을 골라 온갖 간식과 비상식량을 채워 넣었다. 특히 벌꿀 와플은 가장 안전한 자리에 위치했다. 그리고 손에 익은 무기 몇 가지를 불러내 보았다. 무기가 곁에 나타났다가 사라지는 모습을 보며 만족스럽게 고개를 끄덕였다. 이제 모든 준비는 끝났다.\n와파린은 케르가 떠날 것을 이미 알고 있었던 듯했다. 벌꿀 와플이 든 작은 봉지를 더 챙겨 주며 말했다. \"혹시라도 길을 잃으면 관리자가 어디로 가야 할지 알려 줄 거다.\"\n케르는 진지하게 고개를 끄덕였다. 물론 '길을 잃는다'는 게 어떤 건지는 잘 알지 못했다. 이번이 그녀가 새로운 세계를 탐험하는 첫 여행이었으니까.\n떠나는 날, 케르는 잔뜩 부푼 배낭을 등에 메고 함선 문 앞에 섰다. 문이 천천히 열리고, 낯선 냄새를 실은 바람이 케르의 얼굴을 스쳐 지나갔다. 그리고 눈앞에 탈로스 II가 펼쳐졌다.\n\"엔드필드...\" 케르는 방향을 확인하듯 나지막이 되뇌었다.\n그리고 드디어 첫발을 내디뎠다.\n앞으로 무엇이 기다리고 있을지, 이 여행이 얼마나 오래 이어질지, 그리고 앞으로 이런 여행을 몇 번이나 더 하게 될지는 알 수 없었지만... 하나만은 어렴풋이 알 것 같았다. 여행을 떠나는 이유가 단지 새로운 음식을 맛보고 새로운 풍경을 보기 위해서가 아니라...\n여행길에서만 느낄 수 있는 그 감각...\n바로 '집으로 돌아가는' 감각을 찾기 위해서라는 걸."
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  }
+ ],
+ "voice": [
+  {
+   "id": "chr_0040_sweetpie_chrbark_squad_01",
+   "title": {
+    "en": "Operation Prep 1",
+    "zh-TW": "行動準備1",
+    "zh-CN": "行动准备1",
+    "ja": "作戦準備1",
+    "ko": "작전 준비 1"
+   },
+   "text": {
+    "en": "Where to, where to? Can I come along?",
+    "zh-TW": "去哪裡？小刻可以一起嗎？",
+    "zh-CN": "去哪里？小刻可以一起吗？",
+    "ja": "どこ行くの？おいらも一緒に行っていーい？",
+    "ko": "어디 가? 케르도 같이 가도 돼?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_chrbark_squad_02",
+   "title": {
+    "en": "Operation Prep 2",
+    "zh-TW": "行動準備2",
+    "zh-CN": "行动准备2",
+    "ja": "作戦準備2",
+    "ko": "작전 준비 2"
+   },
+   "text": {
+    "en": "Nice day out! Let's go!",
+    "zh-TW": "天氣不錯，該出門囉！",
+    "zh-CN": "天气不错，该出门喽！",
+    "ja": "いい天気だー！しゅっぱーつ！",
+    "ko": "날씨 좋다! 밖으로 나가자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_chrbark_join_01",
+   "title": {
+    "en": "Adding to Team 1",
+    "zh-TW": "編入隊伍1",
+    "zh-CN": "编入队伍1",
+    "ja": "編成1",
+    "ko": "팀 가입 1"
+   },
+   "text": {
+    "en": "Ta-da, here I am! Got anything yummy?",
+    "zh-TW": "小刻來啦！有什麼好吃的？",
+    "zh-CN": "小刻来啦！有什么好吃的？",
+    "ja": "おいらの番だ！美味しいものはあるかなぁ？",
+    "ko": "케르 등장! 뭐 맛있는 거 없어?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_chrbark_join_02",
+   "title": {
+    "en": "Adding to Team 2",
+    "zh-TW": "編入隊伍2",
+    "zh-CN": "编入队伍2",
+    "ja": "編成2",
+    "ko": "팀 가입 2"
+   },
+   "text": {
+    "en": "Let's roll! If you're short on nibbles, I'll sneak you some of mine!",
+    "zh-TW": "準備出發啦，乾糧不夠的話，小刻可以分點給你！",
+    "zh-CN": "准备出发啦，干粮不够的话，小刻可以分点给你！",
+    "ja": "準備終わり！ごはんが足りなくなったらおいらの分けてあげるね。",
+    "ko": "출발 준비 끝! 먹을 게 부족하면 케르가 조금 나눠 줄게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_chrbark_weap_01",
+   "title": {
+    "en": "Switching Weapon",
+    "zh-TW": "更換武器",
+    "zh-CN": "更换武器",
+    "ja": "武器取替",
+    "ko": "무기 변경"
+   },
+   "text": {
+    "en": "For me too? Yay! My weapon collection is getting bigger!",
+    "zh-TW": "這個也是給小刻的嗎？好耶，小刻武器庫又添一件寶貝！",
+    "zh-CN": "这个也是给小刻的吗？好耶，小刻武器库又添一件宝贝！",
+    "ja": "これもくれるの？やったぁ！おいらの武器庫、またお宝が増えたよ！",
+    "ko": "이것도 케르한테 주는 거야? 와! 케르의 무기고에 보물이 하나 더 늘었네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_chrbark_gear_01",
+   "title": {
+    "en": "Switching Gear",
+    "zh-TW": "更換裝備",
+    "zh-CN": "更换装备",
+    "ja": "装備取替",
+    "ko": "장비 변경"
+   },
+   "text": {
+    "en": "This gear... will be fine with me! I'll take super good care of it!",
+    "zh-TW": "這件裝備……交到小刻手上你就放心好啦，一定不會弄壞的！",
+    "zh-CN": "这件装备……交到小刻手上你就放心好啦，一定不会弄坏的！",
+    "ja": "この装備……おいらに任せて。絶対壊したりしないから！",
+    "ko": "이 장비... 걱정하지 마! 케르, 절대 안 망가뜨릴 거야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_chrup_skill_01",
+   "title": {
+    "en": "Talent Node Activation",
+    "zh-TW": "解鎖天賦陣列",
+    "zh-CN": "激活天赋阵列",
+    "ja": "素質・配属スキル解放",
+    "ko": "재능 배열 활성화"
+   },
+   "text": {
+    "en": "Ah, this trick is super duper cool! Bet I just got a little stronger!",
+    "zh-TW": "哦哦，這招果然超級厲害的，小刻又學會了！",
+    "zh-CN": "哦哦，这招果然超级厉害的，小刻又学会了！",
+    "ja": "おおお、この技やっぱりカッコいい！おいらまたひとつ賢くなった！",
+    "ko": "우와, 진짜 대단해! 케르, 또 하나 배웠어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_chrup_level_01",
+   "title": {
+    "en": "Watching Combat Records",
+    "zh-TW": "觀看作戰紀錄",
+    "zh-CN": "观看作战记录",
+    "ja": "経験値素材を使用",
+    "ko": "작전 기록 관찰"
+   },
+   "text": {
+    "en": "I'm watching! I really am!",
+    "zh-TW": "小刻真的在看，真的在看啦！",
+    "zh-CN": "小刻真的在看，真的在看啦！",
+    "ja": "ちゃんと見てるよ！ホントにちゃんと見てるよ！",
+    "ko": "케르 진짜 보고 있었어, 진짜라니까!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_chrup_promt01_01",
+   "title": {
+    "en": "Operator Promotion 1",
+    "zh-TW": "精英化晉升1",
+    "zh-CN": "精英化晋升1",
+    "ja": "昇進1",
+    "ko": "정예화 돌파 1"
+   },
+   "text": {
+    "en": "A promotion? Then how about a new weapon for me as a little reward?",
+    "zh-TW": "晉升？那就讓小刻挑一把武器當作獎勵怎麼樣？",
+    "zh-CN": "晋升？那就给小刻挑一把武器当作奖励怎么样？",
+    "ja": "「しょうしん」？じゃあ、ごほうびに武器いっこもらっていい？",
+    "ko": "정예화? 그럼, 상으로 케르한테 무기 하나 선물해 주면 안 될까?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 1
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_chrup_promt02_01",
+   "title": {
+    "en": "Operator Promotion 2",
+    "zh-TW": "精英化晉升2",
+    "zh-CN": "精英化晋升2",
+    "ja": "昇進2",
+    "ko": "정예화 돌파 2"
+   },
+   "text": {
+    "en": "My tummy's been grumbling for hours. We get to eat after this, right?",
+    "zh-TW": "小刻肚子好餓，等這個結束之後就能吃東西了對嗎？",
+    "zh-CN": "小刻肚子好饿，等这个结束之后就能吃东西了对吗？",
+    "ja": "おいらお腹ペコペコ。これ終わったらごはんたべていーい？",
+    "ko": "케르, 배고파... 이거 끝나면 밥 먹을 수 있는 거지, 그렇지?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 2
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_chrup_promt03_01",
+   "title": {
+    "en": "Operator Promotion 3",
+    "zh-TW": "精英化晉升3",
+    "zh-CN": "精英化晋升3",
+    "ja": "昇進3",
+    "ko": "정예화 돌파 3"
+   },
+   "text": {
+    "en": "Chill this, sizzle that. All you need is a little boom, bam, pow! Annnd done! I've always kept things easy peasy.",
+    "zh-TW": "沒什麼難的，凍住這個，燒掉那個，砰、啪、轟！然後就解決啦！小刻一直都是這麼做的，沒那麼麻煩。",
+    "zh-CN": "没什么难的，冻住这个，烧掉那个，砰，啪，轰！然后就解决啦！小刻一直都是这么干的，没那么麻烦。",
+    "ja": "簡単だよ。凍らせて、燃やして、ドーン！バーン！ドカーン！それでおしまい！おいらずーっとこうやってきたから、らくしょーだよ。",
+    "ko": "어려울 거 없어! 그냥 이건 꽁꽁 얼리고, 저건 확 태워버려서, '쾅' 하고, '팡' 터뜨렸다가, 마지막으로 '펑!' 하면 끝이야! 케르는 항상 이렇게 했어. 그렇게 복잡할 거 없다니까."
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 3
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_chrup_promt04_01",
+   "title": {
+    "en": "Operator Promotion 4",
+    "zh-TW": "精英化晉升4",
+    "zh-CN": "精英化晋升4",
+    "ja": "昇進4",
+    "ko": "정예화 돌파 4"
+   },
+   "text": {
+    "en": "All the way from there to here... Whoa, I've come so far and taken down so many bad guys! Endmin, does this mean I'm strong enough to stay with you forever and ever?",
+    "zh-TW": "從那裡到這裡……哇，原來小刻已經走過這麼遠的路，打敗過這麼多壞蛋了嗎？管理員，這是不是說，小刻已經足夠強大，可以一直待在你身邊了呢？",
+    "zh-CN": "从那里到这里……哇，原来小刻已经走过这么远的路，打败过这么多坏蛋了吗？管理员，这是不是说，小刻已经足够强大，可以一直待在你身边了呢？",
+    "ja": "ここからここまで……わあ、こんなに遠くまで行って、たくさん悪い奴をやっつけたんだ。じゃあさじゃあさ、おいらはもうすっごく強いから、ずっと管理人のそばにいてもいいってこと？",
+    "ko": "저기서부터 여기까지... 와, 케르가 벌써 이렇게 먼 길을 걸어왔고, 나쁜 녀석들을 이만큼이나 쓰러뜨린 거야? 그럼 이제 케르가 계속 관리자 옆에 있어도 될 만큼 강해졌다는 거지?"
+   },
+   "unlock": {
+    "kind": "promotion",
+    "value": 4
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_introduce_01",
+   "title": {
+    "en": "Operator Reporting for Duty",
+    "zh-TW": "幹員報到",
+    "zh-CN": "干员报到",
+    "ja": "入職会話",
+    "ko": "오퍼레이터 첫인사"
+   },
+   "text": {
+    "en": "Hiya! I'm Cerube, but my friends call me Kay. My big, huge, enormous dream is to explore every corner of Talos-II a bazillion times! You can come along too, as long as you bring your own snacks.",
+    "zh-TW": "你好你好！我的名字叫刻露彼，好朋友們都叫我小刻，現在的願望是不僅要走遍這顆星球，還要走上千千萬萬遍！你要是能自帶乾糧的話，可以和小刻一起來喔。",
+    "zh-CN": "你好你好！我的名字叫刻露彼，好朋友们都叫我小刻，现在的愿望是不仅要走遍这颗星球，还要走上千千万万遍！你要是能自带干粮的话，可以和小刻一起来哦。",
+    "ja": "おいらはケルベ。友達からは「ケーちゃん」って呼ばれてるよ。おいらの今の願いは、この星を歩き回るだけじゃなくっていーっぱい何回も歩き回ること！食べものを持ってきてくれるなら、一緒に来てもいいよ。",
+    "ko": "안녕, 안녕! 난 케르베라고 해! 친구들은 다 날 '케르'라고 불러! 지금 내 소원은 이 행성 곳곳을 수천수만 번 돌아보는 거야! 먹을 걸 직접 챙겨 올 수 있다면, 케르랑 같이 가도 좋아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_switch_01",
+   "title": {
+    "en": "Standing By 1",
+    "zh-TW": "待命1",
+    "zh-CN": "待命1",
+    "ja": "待機1",
+    "ko": "명령 대기 1"
+   },
+   "text": {
+    "en": "Whatcha eatin'? Can I have a bite?",
+    "zh-TW": "在吃什麼？小刻來幫你嚐嚐？",
+    "zh-CN": "在吃什么？小刻来帮你尝尝？",
+    "ja": "なに食べてるの？おいらも味見してあげようか？",
+    "ko": "뭐 먹어? 케르가 대신 맛 좀 봐 줄까?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_switch_02",
+   "title": {
+    "en": "Standing By 2",
+    "zh-TW": "待命2",
+    "zh-CN": "待命2",
+    "ja": "待機2",
+    "ko": "명령 대기 2"
+   },
+   "text": {
+    "en": "Weapon test? Field trip? I'm your best buddy for both!",
+    "zh-TW": "測試武器？還是郊遊？找小刻就對啦！",
+    "zh-CN": "测试武器？还是郊游？找小刻就对啦！",
+    "ja": "武器のテスト？それともおでかけ？だったらおいらに任せろ！",
+    "ko": "무기 테스트? 아니면 소풍? 뭐가 됐든, 케르한테 맡겨!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_sim_assign_work_01",
+   "title": {
+    "en": "Assigning to Facility",
+    "zh-TW": "進駐設施",
+    "zh-CN": "进驻设施",
+    "ja": "船室配属",
+    "ko": "시설 배치"
+   },
+   "text": {
+    "en": "Ooh, yay, food time! Oh ... it's not the canteen?",
+    "zh-TW": "哦，好耶，是餐廳！咦？不是餐廳嗎？",
+    "zh-CN": "哦，好耶，是食堂！咦？不是食堂吗？",
+    "ja": "わあっ、やったー！食堂だ！あれ、食堂じゃないの？",
+    "ko": "우와, 식당이다! 응? 식당이 아니라고?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_sim_hello_lower_01",
+   "title": {
+    "en": "Greeting 1",
+    "zh-TW": "打招呼1",
+    "zh-CN": "打招呼1",
+    "ja": "挨拶1",
+    "ko": "인사 1"
+   },
+   "text": {
+    "en": "Hiii, Endmin! Off to the canteen? Take me with you!",
+    "zh-TW": "嗨，管理員！去餐廳嗎？帶小刻一起！",
+    "zh-CN": "嗨，管理员！去食堂吗？带小刻一个！",
+    "ja": "こんにちは管理人！食堂行くの？おいらも連れてって！",
+    "ko": "어? 관리자, 식당 가는 거야? 케르도 같이 갈래!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_sim_hello_max_01",
+   "title": {
+    "en": "Greeting 2",
+    "zh-TW": "打招呼2",
+    "zh-CN": "打招呼2",
+    "ja": "挨拶2",
+    "ko": "인사 2"
+   },
+   "text": {
+    "en": "Endmin! See this shiny new axe? Think it's my kinda weapon?",
+    "zh-TW": "管理員！看這把新的斧子，適不適合小刻？",
+    "zh-CN": "管理员！瞧这把新的斧子，适不适合小刻？",
+    "ja": "管理人！この新しい斧見て！おいらにぴったりだよね？",
+    "ko": "관리자, 이 도끼 좀 봐! 어때? 케르랑 잘 어울려?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_sim_talk_lv01_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 1",
+    "zh-TW": "帝江號閒聊1",
+    "zh-CN": "帝江号闲聊1",
+    "ja": "帝江号雑談1",
+    "ko": "제강호 잡담 1"
+   },
+   "text": {
+    "en": "Food's this way, weapons that way, training's back there, and everyone's nap nests over there... Where's the Endmin's snooze spot? Waaah, too many cabins! How does anyone not get lost on Dijiang?",
+    "zh-TW": "餐廳在這邊，武庫在那邊，訓練的地方在後面，大家的窩在另一邊，那管理員的窩又在哪裡？啊啊啊，帝江號上的房間好多，大家都是怎麼記得住的啊？",
+    "zh-CN": "食堂在这边，武库在那边，训练的地方在后边，大家的窝在另一边，那管理员的窝又在哪儿？啊啊啊，帝江号上的房间好多，大家都是怎么记得住的呀？",
+    "ja": "食堂はここ、武庫はあっち、訓練する場所は後ろで、みんなの巣は前……じゃあ管理人の巣はどこ？うーん、帝江号って部屋が多すぎるよ。みんなどうやって覚えてるのかな？",
+    "ko": "식당은 이쪽, 무기고는 저쪽, 훈련하는 곳은 뒤쪽, 다들 자는 곳은 반대쪽... 그럼 관리자는 어디서 자? 아아아! 제강호는 방이 너무 많아! 다들 이걸 어떻게 다 외우는 거야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_sim_talk_lv02_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 2",
+    "zh-TW": "帝江號閒聊2",
+    "zh-CN": "帝江号闲聊2",
+    "ja": "帝江号雑談2",
+    "ko": "제강호 잡담 2"
+   },
+   "text": {
+    "en": "This big thing is a spaceship, its name is Dijiang, Dijiang belongs to Endfield, and you are the Endministrator... Which means ... that means you're the captain of this ship! Am I right, Endministrator?",
+    "zh-TW": "這個地方是一艘船，這艘船叫作「帝江號」，帝江號屬於終末地，而你是終末地的管理員……也就是說，也就是說，你是這艘船的船長，小刻沒說錯吧，管理員？",
+    "zh-CN": "这个地方是艘船，这艘船叫作“帝江号”，帝江号属于终末地，而你是终末地的管理员……也就是说，也就是说，你是这艘船的船长，小刻没说错吧，管理员？",
+    "ja": "ここは船で、名前は「帝江号」。帝江号はエンドフィールドのもので、管理人はエンドフィールドの管理人……つまり、管理人はこの船の船長ってこと？おいらの考えたことって合ってるよね？",
+    "ko": "여기는 배고, 이 배의 이름은 '제강호'고, 제강호는 엔드필드 거고, 관리자는 엔드필드의 관리자고... 그러니까, 관리자는 이 배의 선장인 거네? 케르 말이 맞지, 관리자?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_sim_talk_lv02_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 3",
+    "zh-TW": "帝江號閒聊3",
+    "zh-CN": "帝江号闲聊3",
+    "ja": "帝江号雑談3",
+    "ko": "제강호 잡담 3"
+   },
+   "text": {
+    "en": "Even though Dijiang can take us super far in just a blink, I still prefer the journey on foot. Endmin, isn't finding the little things along the way way more fun than just reaching the destination?",
+    "zh-TW": "雖然在帝江號上，只要一眨眼就能跨越好遠好遠的距離，小刻也還是更喜歡腳踏實地的旅行。管理員，不覺得旅途中的風景比到達的目的地更有趣嗎？",
+    "zh-CN": "虽然在帝江号上，只要一眨眼就能跨越好远好远的距离，小刻也还是更喜欢脚踏实地的旅行。管理员，不觉得旅途中的风景比到达的目的地更有趣吗？",
+    "ja": "帝江号にいると、まばたきしてる間にずーっと遠くまで行けちゃうけど、おいらはやっぱり自分で歩いて旅するほうが好きなんだ。だってゴールすることより、途中の景色のほうが面白いって思うから。",
+    "ko": "제강호를 타고 있으면 눈 깜짝할 사이에 되게 먼 곳까지 갈 수 있지만, 케르는 그래도 두 발로 직접 걷는 여행이 더 좋아. 목적지로 간다는 목표를 달성하는 것보단, 가는 길에 보이는 풍경을 즐기는 게 더 재밌잖아! 관리자도 그렇게 생각하지?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_sim_talk_max_01",
+   "title": {
+    "en": "Dijiang Idle Chatter 4",
+    "zh-TW": "帝江號閒聊4",
+    "zh-CN": "帝江号闲聊4",
+    "ja": "帝江号雑談4",
+    "ko": "제강호 잡담 4"
+   },
+   "text": {
+    "en": "One, two, three, four... Huh? Endmin, did you see that shiny new axe I brought back to Dijiang? It was just here... Uh-oh, I bet I left it in the training room!",
+    "zh-TW": "一、二、三、四……咦，管理員，你有看到小刻這次帶回帝江號的那把新斧頭嗎？明明剛剛還在身邊來著……糟了，肯定是忘在訓練室那邊了！",
+    "zh-CN": "一、二、三、四……咦，管理员，你有看到小刻这次带回帝江号的那把新斧头吗？明明刚刚还在身边来着……糟了，肯定是忘在训练室那边了！",
+    "ja": "いち、にー、さん、よん……あれ、管理人。おいらが帝江号に持ってきた新しい斧を見なかった？さっきまでここにあったんだよ……あ、訓練室に置いてきちゃったんだ！",
+    "ko": "하나, 둘, 셋, 넷... 어? 관리자, 이번에 케르가 제강호로 가져온 새 도끼 못 봤어? 분명 조금 전까지 옆에 있었는데... 앗, 큰일이다! 훈련실에 두고 왔나 봐!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_sim_talk_max_02",
+   "title": {
+    "en": "Dijiang Idle Chatter 5",
+    "zh-TW": "帝江號閒聊5",
+    "zh-CN": "帝江号闲聊5",
+    "ja": "帝江号雑談5",
+    "ko": "제강호 잡담 5"
+   },
+   "text": {
+    "en": "Meet my dagger, \"Honeyplum\", my hammer, \"Ironhead\", and my chainsaw, \"Super-Speed Spinning Shredder\"! What? You think the names are weird? Hmph! I didn't pick them — they told me so!",
+    "zh-TW": "這把匕首叫作「蜜果」，這把錘子叫「鐵頭」，這把電鋸叫「超高速旋轉破壞王」。幹嘛，名字很奇怪？哼，這些名字可不是小刻幫他們取的，是他們自己告訴小刻的喔！",
+    "zh-CN": "这把匕首叫作“蜜果”，这把锤子叫“铁头”，这把电锯叫“超高速旋转破坏王”。干嘛，名字很奇怪？哼，这些名字可不是小刻给他们取的，是他们自己告诉小刻的哦！",
+    "ja": "この短剣は「あまいくだもの」、そのハンマーは「てつあたま」、こっちの電動ノコギリは「超こーそくグルグルはかい王」。変な名前？フン、おいらがつけたわけじゃなくて、みんなが教えてくれた名前なんだから！",
+    "ko": "이 단검은 '꿀열매', 이 망치는 '쇠머리', 이 전기톱은 '초고속 회전 파괴왕'이야. 왜? 이름이 이상해? 흥! 케르가 지은 이름 아니거든? 이거 다 얘네들이 직접 알려준 이름이야!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_sim_talk_max_03",
+   "title": {
+    "en": "Dijiang Idle Chatter 6",
+    "zh-TW": "帝江號閒聊6",
+    "zh-CN": "帝江号闲聊6",
+    "ja": "帝江号雑談6",
+    "ko": "제강호 잡담 6"
+   },
+   "text": {
+    "en": "The canteen's got meatloaf, lentil soup, pastries, and risotto today. Oh, and shh ... there's also a secret menu with super yummy cream tarts. Wanna try? And keep this between us. It's a top secret!",
+    "zh-TW": "餐廳今天有肉排、豆子湯、烤酥餅，還有焗飯——偷偷告訴你喔，他們今天還準備了很好吃的甜奶油撻作為隱藏菜單，要嚐嚐嗎？別問小刻怎麼拿到的，這可是秘密，別跟其他人說！",
+    "zh-CN": "食堂今天有肉排、豆子汤、烤酥饼，还有焗饭——偷偷告诉你哦，他们今天还准备了很好吃的甜奶油挞作为隐藏菜单，要尝尝吗？别问小刻怎么拿到的，这可是秘密，别和其他人说！",
+    "ja": "今日の食堂はね、ステーキと豆スープ、焼きパイにドリアだよ――秘密なんだけど、今日は隠しメニューのクリームタルトもあるんだ。管理人も食べてみる？どうやって知ったのか……それは秘密！他のみんなにも言っちゃダメ！",
+    "ko": "오늘 식당으로 가면 스테이크랑 콩 수프, 바삭한 파이, 그라탱을 먹을 수 있어! 아... 그리고 식단표에는 없지만, 되게 맛있는 크림 타르트도 나온다? 관리자도 먹어볼래? 응? 어떻게 구했는지는 묻지 말고! 우리 둘만의 비밀이니까, 절대 다른 사람들한테 말하면 안 돼!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_sim_gift_give_01",
+   "title": {
+    "en": "Offering Gifts",
+    "zh-TW": "贈送禮物",
+    "zh-CN": "赠送礼物",
+    "ja": "プレゼントを贈る",
+    "ko": "선물 증정"
+   },
+   "text": {
+    "en": "Endmin, Endmin! I got you a gift! Noooo, I didn't just grab some silly rock from the ground!",
+    "zh-TW": "管理員管理員，小刻幫你帶禮物回來了喔。什麼啊，這不是隨隨便便撿的！",
+    "zh-CN": "管理员管理员，小刻给你带礼物回来了哦。什么呀，可不是随随便便捡的！",
+    "ja": "管理人、管理人！おみやげだよー！……ううん、適当に拾ってきたんじゃないよ！",
+    "ko": "관리자, 관리자! 케르가 선물 가져왔어! 뭐? 흥, 길 가다가 아무거나 주워 온 거 아니거든?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_sim_gift_recv_01",
+   "title": {
+    "en": "Accepting Gifts",
+    "zh-TW": "接收禮物",
+    "zh-CN": "接收礼物",
+    "ja": "プレゼントを受け取る",
+    "ko": "선물 수락"
+   },
+   "text": {
+    "en": "Oh-oh-oh! This looks cool! I'll trade it with a honey waffle... Huh? It's a gift? Aww, you're so sweet!",
+    "zh-TW": "這個看起來好棒啊，小刻拿蜜餅跟你換——欸？送我的？真的嗎！管理員你真好！",
+    "zh-CN": "这个看起来好棒啊，小刻拿蜜饼跟你换——欸？送我的？真的吗！管理员你真好！",
+    "ja": "わあ、すごい！おいらのはちみつワッフルと交換――えっ、くれるのか？ホントに？管理人はやっぱりいい人だね！",
+    "ko": "와아, 이거 엄청 맛있다. 벌꿀 와플이랑 바꿀... 응? 케르 주는 거야? 정말? 역시 관리자가 최고야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_self_line01",
+   "title": {
+    "en": "Trust Dialog 1",
+    "zh-TW": "信賴對話1",
+    "zh-CN": "信赖对话1",
+    "ja": "信頼上昇後会話1",
+    "ko": "신뢰 대화 1"
+   },
+   "text": {
+    "en": "Back in Rhodes Island, everyone said my Originium Arts were super strong, and I should keep training to control them. So I did! Every single day! That's how I can help you and Endfield! So ... have I been helping?",
+    "zh-TW": "在羅德島的時候，哥哥姐姐們就說小刻的源石技藝很厲害，要好好練習掌握。現在小刻每天也有在努力訓練，絕不偷懶！這樣才能幫助管理員，幫助終末地！管理員，小刻有幫到大家嗎？",
+    "zh-CN": "在罗德岛的时候，哥哥姐姐们就说小刻的源石技艺很厉害，要好好练习掌握。现在小刻每天也有在努力训练，绝不偷懒！这样才能帮助管理员，帮助终末地！管理员，小刻有帮到大家吗？",
+    "ja": "ロドスにいた時、おいらのアーツはすごいからちゃんと練習してねってみんなに言われてたんだ。だから今でも毎日ちゃんと訓練してるんだよ。絶対にさぼらない！そうすれば管理人のことも、エンドフィールドのみんなのことも助けられるから。管理人、おいらちゃんと役に立ってるよね？",
+    "ko": "로도스 아일랜드에 있을 때, 언니 오빠들이 케르의 오리지늄 아츠는 정말 강하니까, 잘 연습해서 완전히 익혀야 한다고 했어. 그래서 지금도 케르는 매일 열심히 훈련하고 있고! 절대 게으름 안 피워! 그래야 관리자랑 엔드필드를 도울 수 있으니까! 관리자, 케르가 모두한테 도움이 되는 거 맞지?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_self_line02",
+   "title": {
+    "en": "Trust Dialog 2",
+    "zh-TW": "信賴對話2",
+    "zh-CN": "信赖对话2",
+    "ja": "信頼上昇後会話2",
+    "ko": "신뢰 대화 2"
+   },
+   "text": {
+    "en": "Tactical procedures, command hierarchies, oh dear. I'm supposed to memorize that? Why don't I ... you know, let you do the thinking stuff and I'll focus my fighty rawr-rawr against them nenemies? That way, I can spend all that training time napping! Please, Endmin, please!",
+    "zh-TW": "戰術規範、指揮體系什麼的，真的好難記啊。管理員，不然……動腦子的事情全部交給你，你讓我打哪個壞蛋，小刻就把哪個壞蛋打趴下。這樣小刻就可以用戰術訓練時間來睡覺啦！管理員，好不好嘛？",
+    "zh-CN": "战术规范、指挥体系什么的，真的好难记呀。管理员，要不……动脑子的事情全部交给你，你让我打哪个坏蛋，小刻就把哪个坏蛋打趴下。这样小刻就可以用战术训练时间来睡大觉啦！管理员，好不好嘛？",
+    "ja": "戦術も指揮も覚えるのってとっても難しいから……あのね、考えるのは管理人で「悪い奴を倒せ！」って言われたら、おいらが倒すってことでもいーい？そしたら勉強の時間におひるねできるよね。管理人、ダメ？",
+    "ko": "전술 규정이니 지휘 체계니... 이런 건 너무 외우기 힘들어. 관리자, 그러지 말고 머리 쓰는 건 전부 다 관리자가 하고, 케르는 그냥 나쁜 녀석을 해치우는 것만 하면 안 될까? 그러면 케르가 전술 훈련 시간에 실컷 잘 수 있잖아! 관리자, 응? 어떻게 안 될까?"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_self_line03",
+   "title": {
+    "en": "Trust Dialog 3",
+    "zh-TW": "信賴對話3",
+    "zh-CN": "信赖对话3",
+    "ja": "信頼上昇後会話3",
+    "ko": "신뢰 대화 3"
+   },
+   "text": {
+    "en": "Got something to tell you! I ate a honey waffle for brekkie, then I ate another for lunch, and one more for dinner. I can't get enough of them. You're just like honey waffles, you know. I saw you in the morning, saw you again at noon, and I still wanna hang around with you in the evening.",
+    "zh-TW": "管理員我跟你講喔，小刻今天早上吃了一個蜜餅，中午又吃了一個，晚上還吃了一個，怎麼吃都吃不膩。就像小刻早上見過你，中午見過你，但到了晚上，還是想來找你玩。",
+    "zh-CN": "管理员我和你讲哦，小刻今天早上吃了一个蜜饼，中午又吃了一个，晚上还吃了一个，怎么吃都吃不腻。就像小刻早上见过你，中午见过你，但到了晚上，还是想来找你玩。",
+    "ja": "管理人、聞いて聞いて！今日ね、はちみつワッフルを……朝と昼と夜にいっこずつ食べたけど、ぜんぜん飽きなかった！管理人とおんなじなんだよ。朝も昼も夜も会いたいし、一緒に遊びたいって思うんだ。",
+    "ko": "관리자, 있잖아. 케르가 오늘 아침에 벌꿀 와플을 하나 먹고, 점심에도 하나 먹고, 저녁에도 하나 먹었거든? 근데 아무리 먹어도 안 질리는 거 있지? 꼭 아침에도 관리자를 보고, 점심에도 보고, 저녁에도 봤는데도 계속 같이 놀고 싶은 것처럼!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 300
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_self_line04",
+   "title": {
+    "en": "Trust Dialog 4",
+    "zh-TW": "信賴對話4",
+    "zh-CN": "信赖对话4",
+    "ja": "信頼上昇後会話4",
+    "ko": "신뢰 대화 4"
+   },
+   "text": {
+    "en": "I can memorize a weapon's shape, how it feels in my hand, and how it whooshes when I swing it. Then, I just think about it, and bam! It's right in my hands. Pretty cool, right? If thinking like that could make you pop up next to me too, Endmin ... wouldn't that be super nice?",
+    "zh-TW": "小刻可以把武器的形狀、握在手裡的感覺，還有揮舞起來的樣子都牢牢記住，之後只要在腦海中想起來，那把武器就會出現在小刻手中。很神奇吧？如果管理員也能這樣，只要一想到你，你就能出現在小刻身邊，那該有多好。",
+    "zh-CN": "小刻可以把武器的形状、握在手里的感觉，还有挥舞起来的样子都牢牢记住，之后只要在脑海中想起来，那把武器就会出现在小刻手中。很神奇吧？如果管理员也能这样，只要一想到你，你就能出现在小刻身边，那该有多好哦。",
+    "ja": "おいらは武器の形も、手に持った感覚も、振り回した時の動きもぜーんぶしっかり覚えてるよ。そしたら頭の中で思い浮かべるだけで、おいらの手に出てくるの。すごいよね？管理人もそうだったらいいのになぁ。考えただけで、すぐおいらのそばに来てくれたらいいのに。",
+    "ko": "케르는 무기의 모양도, 손에 쥐었을 때의 느낌도, 휘두를 때의 모습도 전부 다 기억할 수 있어. 그리고 나중에 머릿속으로 떠올리기만 하면 그 무기가 짠하고 케르의 손에 나타난다? 신기하지! 관리자도 이렇게 할 수 있으면 좋을 텐데... 케르가 떠올리기만 해도 바로 케르의 눈앞에 나타나는 거지!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_self_line05",
+   "title": {
+    "en": "Trust Dialog 5",
+    "zh-TW": "信賴對話5",
+    "zh-CN": "信赖对话5",
+    "ja": "信頼上昇後会話5",
+    "ko": "신뢰 대화 5"
+   },
+   "text": {
+    "en": "This squishy cushion's for you. And I also grabbed a super cozy blankie... Why? You said if I behaved, no slacking off, no nibble nabbing, I could move my little nest next to yours! No takesies-backsies! Now help me move in, pleeease!",
+    "zh-TW": "這個軟軟的墊子給你，小刻還拿了暖暖的被子和超大的毯子……要幹什麼？不是管理員說，只要小刻好好表現，不偷懶，不偷吃，你就願意讓小刻把窩搬到管理員這邊來嗎？別反悔，快來幫小刻搭窩啦！",
+    "zh-CN": "这个软软的垫子给你，小刻还拿了暖暖的被子和超大的毯子……要干什么？不是管理员说，只要小刻好好表现，不偷懒，不偷吃，你就愿意让小刻把窝搬到管理员这边来吗？可别反悔，快来帮小刻搭窝啦！",
+    "ja": "このふわふわのマット、管理人にあげる！ふかふかのお布団とおーっきな毛布も持ってきたよ……何するのって？管理人が言ったんだよ。おいらがちゃーんとがんばって、サボりもつまみ食いもしなかったら、巣を管理人のそばに移していいって！約束したんだからね。早く一緒に巣を作ろう！",
+    "ko": "이 푹신한 쿠션은 관리자 거야! 따뜻한 이불이랑 되게 큰 담요도 챙겨왔어! 뭐 하려는 거냐고? 관리자가 그랬잖아. 케르가 말 잘 듣고, 게으름 안 피우고, 몰래 군것질도 안 하면 관리자 옆에서 자도 된다고! 이제 와서 딴말하면 안 돼. 빨리 케르 짐 옮기는 거 도와줘!"
+   },
+   "unlock": {
+    "kind": "trust",
+    "value": 1500
+   }
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_chat_line01",
+   "title": {
+    "en": "Chat 1",
+    "zh-TW": "交談1",
+    "zh-CN": "交谈1",
+    "ja": "会話1",
+    "ko": "대화 1"
+   },
+   "text": {
+    "en": "Endmin, when you're free, let's go on a little trip together! No work, just us exploring pretty secret spots. You work way too hard, you gotta relax a little, don't you think?",
+    "zh-TW": "管理員，有時間的話，也和小刻一起郊遊怎麼樣？不出什麼任務，也不設定什麼目標，只是去看看那些沒什麼人見過的好景色，你一直這麼忙，總該放鬆一下嘛！",
+    "zh-CN": "管理员，有时间的话，也和小刻一起郊游怎么样？不出什么任务，也不设定什么目标，只是去看看那些没什么人见过的好景色，你一直这么忙，总该放松一下嘛！",
+    "ja": "管理人、時間があるならおいらと遠足行こうよ。任務とか目標とかじゃなくて、ただ見たことない景色を見に行くだけ。ずーっと忙しいんだし、たまにはゆっくりしなきゃ。",
+    "ko": "관리자, 시간 있으면 케르랑 같이 소풍 갈래? 임무도 없고, 목표도 없이! 그냥 사람들이 본 적 없는 멋진 풍경을 구경하러 가는 거야. 관리자는 매일 바쁘니까, 가끔 이렇게 쉬어줘야지!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_chat_line02",
+   "title": {
+    "en": "Chat 2",
+    "zh-TW": "交談2",
+    "zh-CN": "交谈2",
+    "ja": "会話2",
+    "ko": "대화 2"
+   },
+   "text": {
+    "en": "Before joining Endfield, I kept hearing about you and Endfield everywhere I went. The more I saw, the more I understood how hard you worked for Talos-II... You were still sleeping back then, so I helped people like you would. And that's how I made so many good friends! Now this whole big planet is full of my buddies!",
+    "zh-TW": "來終末地之前，小刻旅行的路上都能聽到人們在講管理員和終末地的事蹟。去過的地方越多，就越知道管理員為塔衛二付出的艱辛……當時管理員還在沉睡，小刻就學著管理員幫助各式各樣的人，也因此交到了很多好朋友。就這樣，這顆星球上也遍布小刻的朋友啦！",
+    "zh-CN": "来终末地之前，小刻旅行的路上都能听到人们在讲管理员和终末地的事迹。去过的地方越多，就越知道管理员为塔卫二付出的艰辛……当时管理员还在沉睡，小刻就学着管理员帮助各种各样的人，也因此交到了很多好朋友。就这样，这颗星球上也遍布小刻的朋友啦！",
+    "ja": "エンドフィールドに来る前、旅してる時にいろんな人から管理人とエンドフィールドの話を聞いてたんだよ。だから、管理人がタロⅡのためにずーっと頑張ってきたのもわかったんだ……でも、管理人はまだ寝てたから、おいらは管理人のマネしてみんなを助けてたんだよ。そしたらこの星のいろんなとこに、おいらの友達がいーっぱいできたんだ！",
+    "ko": "엔드필드로 오기 전부터 케르는 사람들이 관리자랑 엔드필드에 관해 얘기하는 걸 많이 들었어. 여행을 다니면 다닐수록 관리자가 탈로스 II를 위해 얼마나 고생했는지도 더 많이 알게 됐고... 그땐 아직 관리자가 잠들어 있었으니까, 케르가 관리자처럼 여러 사람들을 돕고 다녔어. 그러면서 친구도 되게 많이 사귀었고! 헤헤, 그래서 지금은 이 행성 곳곳에 케르의 친구들이 가득해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_chat_line03",
+   "title": {
+    "en": "Chat 3",
+    "zh-TW": "交談3",
+    "zh-CN": "交谈3",
+    "ja": "会話3",
+    "ko": "대화 3"
+   },
+   "text": {
+    "en": "Endmin, are you busy? Whatcha looking at? Is that my combat report? Lemme see, lemme see! How'd I do? Did I do awesome? I bet I looked super cool, right? Sooo ... extra honey waffles for me? I'll count that as a yes! Whoohoo! Yay me!",
+    "zh-TW": "管理員，你在忙嗎？你在看什麼？是小刻的作戰報告嗎？小刻可以看嗎？小刻上一次表現得怎麼樣？很厲害嗎？很帥嗎？那小刻可以去餐廳多拿一塊蜜餅嗎？可以嗎？好耶！",
+    "zh-CN": "管理员，你在干活吗？你在看什么？是小刻的作战报告吗？小刻可以看吗？小刻上一次表现得怎么样？很厉害吗？很帅吗？那小刻可以去食堂多领一块蜜饼吗？可以吗？好耶！",
+    "ja": "管理人、お仕事？なに見てるの？おいらの作戦報告？おいらも見ていい？この前のおいら、すごかったよね？カッコよかったよね？じゃあ食堂でもういっこはちみつワッフル貰ってきてもいーい？いいの？やったー！",
+    "ko": "관리자, 일하고 있어? 뭐 보고 있는 거야? 케르의 작전 보고서? 같이 봐도 돼? 저번에는 어땠어? 되게 잘했어? 멋있었어? 그럼 식당에서 벌꿀 와플 하나 더 받아 가도 돼? 진짜? 와아아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_chat_line04",
+   "title": {
+    "en": "Chat 4",
+    "zh-TW": "交談4",
+    "zh-CN": "交谈4",
+    "ja": "会話4",
+    "ko": "대화 4"
+   },
+   "text": {
+    "en": "You smell familiar somehow ... but I can't quite say what it is. It's kind of like fresh-baked honey waffle, a warm forge fire, or a cozy bed on a chilly day. It's so comforting... Where have I smelled it before...?",
+    "zh-TW": "管理員身上的味道……小刻好像知道，但是又說不上來是什麼，非要說的話，既像剛烤出來的蜜餅，又像鍛爐裡的火苗，還像被窩裡暖暖的味道，有一種熟悉的安心感。這味道到底在哪裡聞過呢……",
+    "zh-CN": "管理员身上的味道……小刻好像知道，但是又说不上来是什么，非要说的话，既像刚烤出来的蜜饼，又像锻炉里的火苗，还像被窝里暖暖的味道，有一种熟悉的安心感。这味道到底在哪里闻过呢……",
+    "ja": "管理人の匂い……知ってるような気もするけど、何の匂いか思い出せないや。なんか焼きたてのはちみつワッフルみたいな、鍛冶場の火みたいな、お布団にもぐりこんだ時のぽかぽかした匂いみたいな。すごーく安心するんだ。どこで嗅いだんだろ……",
+    "ko": "관리자한테 나는 냄새는... 케르가 아는 냄새 같은데 뭐라고 설명해야 할지 모르겠어. 굳이 말하자면 갓 구운 벌꿀 와플 같기도 하고, 대장간의 화로의 불꽃 같기도 하고, 따뜻한 이불 속 냄새 같기도 해. 이상하게 익숙하면서도 마음이 놓이는 느낌이야. 대체 어디서 맡아본 거지..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_chat_line05",
+   "title": {
+    "en": "Chat 5",
+    "zh-TW": "交談5",
+    "zh-CN": "交谈5",
+    "ja": "会話5",
+    "ko": "대화 5"
+   },
+   "text": {
+    "en": "When my tummy growls, honey waffle tastes extra yummy. When I'm sleepy, my blankie feels extra toasty. Just like Miss Warfarin said: the farther I wandered, the clearer home became in my heart. So I walked all across Talos-II ... and at the end, I found you. ... Huh? But you're right here, Endmin. Of course I can see you clearly...",
+    "zh-TW": "小刻肚子越餓，就感覺蜜餅越香甜，小刻越睏，就感覺被窩越溫暖。就像華法琳姐姐說，小刻旅行越久，家的模樣會越清晰。小刻走遍了塔衛二，最終見到的是管理員……咦？管理員就在小刻的面前，你的模樣當然非常清晰啦……",
+    "zh-CN": "小刻肚子越饿，就感觉蜜饼越香甜，小刻越困，就感觉被窝越温暖。就像华法琳姐姐说，小刻旅行越久，家的模样会越清晰。小刻走遍了塔卫二，最终见到的是管理员……咦？管理员就在小刻的面前，你的模样当然非常清晰啦……",
+    "ja": "お腹が空けば空くほどはちみつワッフルは甘くて美味しく感じるし、眠ければ眠いほどお布団はあったかい……ワルファリン先生は旅をながーく続けたら、「家」の姿もハッキリするって。おいらがタロⅡを歩き回って、最後に会えたのは管理人……ん？だって管理人は今目の前にいるんだから、ハッキリ見えてるに決まってるよ……",
+    "ko": "배가 고플수록 벌꿀 와플은 더 달게 느껴지고, 졸릴수록 이불은 더 포근하게 느껴진다? 신기하지! 사실 와파린 씨도 비슷한 얘기를 했거든. 케르가 여행을 오래 하면 할수록 집에 대한 모습이 점점 더 선명해질 거라고. 케르는 탈로스 II 대부분을 돌아다녔고, 마지막에 마주한 건 관리자였어... 어? 관리자는 지금 케르 앞에 있잖아. 그러니까 관리자의 모습이 선명한 건 당연한 거야..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_about_line01",
+   "title": {
+    "en": "Topic: Rhodes Island",
+    "zh-TW": "話題：羅德島",
+    "zh-CN": "话题：罗德岛",
+    "ja": "ロドスについて",
+    "ko": "로도스 아일랜드에 관하여"
+   },
+   "text": {
+    "en": "Before I left Rhodes Island, Miss Warfarin told me not to talk about it with strangers. She said it has a new mission on Talos-II, so the fewer people who know, the safer it is. Hmm ... Miss Warfarin can get really serious sometimes. Uh-oh ... I hope I didn't say too much...",
+    "zh-TW": "從羅德島出發之前，華法琳姐姐跟小刻說，出門在外不要和別人提起羅德島，她說羅德島在塔衛二有新的使命，所以越少人知道羅德島，羅德島就越安全。嗯……華法琳姐姐現在偶爾會突然變得超級嚴肅呢。糟了，是不是說得太多了？",
+    "zh-CN": "从罗德岛出发之前，华法琳姐姐和小刻说，出门在外不要和别人提起罗德岛，她说罗德岛在塔卫二有新的使命，所以越少人知道罗德岛，罗德岛就越安全。唔，华法琳姐姐现在偶尔会突然变得超级严肃呢。糟了，是不是说得太多了？",
+    "ja": "ロドスを出る前、ワルファリン先生が外ではロドスのことを人に話しちゃダメだって。ロドスにはタロⅡでの新しい使命があるから、知ってる人が少ない方が安全になるんだって。うーん、ワルファリン先生って、急にすっごくまじめになる時があるんだ。あっ、しゃべりすぎかな？",
+    "ko": "로도스 아일랜드를 떠나기 전에 와파린 씨가 그랬어. 밖에서는 로도스 아일랜드 이야기를 하면 안 된다고. 로도스 아일랜드는 탈로스 II에서 새로운 사명을 맡고 있어서 아는 사람이 적을수록 안전하다고 그랬거든! 근데... 요즘 와파린 씨는 가끔 엄청 진지해질 때가 있다니까. 앗! 지금 케르, 너무 많은 걸 말한 거 아니야?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_about_line02",
+   "title": {
+    "en": "Topic: Da Pan's Cooking Skills",
+    "zh-TW": "話題：大潘的廚藝",
+    "zh-CN": "话题：大潘的厨艺",
+    "ja": "ダパンの料理について",
+    "ko": "판의 요리에 관하여"
+   },
+   "text": {
+    "en": "Mr. Da Pan cooks like a wizard with a spoon! Everything he makes is yummy yummy in my tummy! And his spicy stuff is DA BOMB! One time, he made me spicy honey waffle and said, \"Eat this and you'll hiccup fire!\" So I did. And whoaaa, best magic trick ever!",
+    "zh-TW": "大潘叔叔的廚藝真是超厲害的，不管做什麼東西都特別好吃，做辣辣的東西更是拿手。有一次大潘叔叔請小刻嚐了他自己做的辣味蜜餅，說「吃了就會噴火」——他真的沒開玩笑，那一次太好玩了！",
+    "zh-CN": "大潘叔叔的厨艺真是超厉害的，不管做什么东西都特别好吃，做辣辣的东西更是拿手。有一次大潘叔叔请小刻尝了他自己做的辣味蜜饼，说“吃了就会喷火”——他真的没开玩笑，那一次可好玩了！",
+    "ja": "パンおじちゃんってさ、すごーく料理が上手だよね！作るものなんでも美味しいし、辛い料理は特にすごいんだよ。前に手作りの辛口はちみつワッフルをくれた時なんてね、「火を吹く美味しさってやつだぜ」って言ってて――それ、ホントだったの！面白かったなぁ！",
+    "ko": "판 아저씨 요리는 진짜 최고야! 뭐든 다 맛있지만, 특히 매운 음식은 더 잘하셔! 한번은 판 아저씨가 직접 만든 매운맛 벌꿀 와플을 먹어보라고 하면서 \"먹으면 불을 뿜게 될 거야\"라고 하셨거든? 근데 농담이 아니었어! 그때 진짜 재밌었다니까!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_about_line03",
+   "title": {
+    "en": "Topic: Wilderness Adventure",
+    "zh-TW": "話題：荒野旅行",
+    "zh-CN": "话题：荒野旅行",
+    "ja": "荒野の旅について",
+    "ko": "황무지 여행에 관하여"
+   },
+   "text": {
+    "en": "Roaming in the wilderness is super dangerous! There are baddies, bad weather ... but the baddest baddie of all is an empty tummy. 'Cause no food, no energy. No energy means no fighting or walking straight... Being hungry is so so bad. So bad you can't forget it ever. So now I always pack my bag super full before I go anywhere!",
+    "zh-TW": "在荒野上旅行當然會遇到很多危險了，有壞蛋、壞天氣，不過最壞的還是餓肚子。你想喔，沒東西吃就沒力氣，沒力氣就打不了壞人，走不動路……挨餓的感覺真是糟糕，那種感覺真是想忘都忘不掉，所以小刻現在都會做好準備再出發，包裡塞得滿滿的，嗯！",
+    "zh-CN": "在荒野上旅行当然会遇到很多危险了，有坏蛋、坏天气，不过最坏的还是饿肚子。你想哦，没东西吃就没劲，没劲就打不了坏人，走不动路……挨饿的感觉真是糟糕，那种感觉真是想忘都忘不掉，所以小刻现在都会做好准备再出发，包里塞得满满的，嗯！",
+    "ja": "荒野の旅は危ないことだらけなんだよ。悪い奴もいるし、天気も悪いし。でも一番ダメなのはお腹が空くこと。だって、食べものがなかったら力は出ないし、敵も倒せないし、歩けなくなるし……腹ぺこになるのって、本当につらいんだ。絶対忘れられないくらい……だからね、ちゃんと準備して行かないと。バッグの中、食べものいっぱい！よーし！",
+    "ko": "황무지를 여행하다 보면 당연히 위험한 일도 많이 생겨. 나쁜 녀석도 만나고, 날씨가 안 좋을 때도 있지. 하지만 제일 무서운 건 역시 배고픈 거야. 생각해 봐. 밥을 못 먹으면 힘이 안 나고, 힘이 안 나면 나쁜 녀석도 못 물리치고, 걷지도 못한단 말이야... 배고픈 건 진짜 싫어. 잊어보려고 해도 잊을 수 없을 정도로! 그래서 요즘 케르는 어디 가기 전에 꼭 준비를 단단히 하고 가. 가방도 항상 빵빵하게 채우고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_about_line04",
+   "title": {
+    "en": "Topic: Travel Buddies",
+    "zh-TW": "話題：旅伴",
+    "zh-CN": "话题：旅伴",
+    "ja": "旅の相棒について",
+    "ko": "여행 친구에 관하여"
+   },
+   "text": {
+    "en": "I like to bring all my weapons wherever I go. Out in the wilderness, they're my bestest buddies. When trouble comes, they got my back, that's extra strength right there! And now that I don't have to carry them all on my back, I can bring more yummy food instead!",
+    "zh-TW": "小刻還是習慣把各式各樣的武器都帶著。在荒野上，武器就是小刻最好的朋友，遇到困難的時候，多個朋友幫忙，就多一份力量！而且現在不用把武器都背在身上，可以有更多的力氣帶好吃的了！",
+    "zh-CN": "小刻还是习惯把各种各样的武器都带着。在荒野上，武器就是小刻最好的朋友，遇到困难的时候，多个朋友搭把手，就多一份力量！而且现在不用把武器都背在身上，可以有更多的力气带好吃的了！",
+    "ja": "おいらはいろんな武器を持ち歩いてるほうが落ち着くんだ。荒野じゃ武器が1番のお友達！困った時も、そばにいてくれるお友達が多ければ多いほど力も増えるでしょ。それに今は全部後ろに背負わなくてもいいから、その分美味しいものをもっとたくさん持ってけるんだ！",
+    "ko": "케르는 역시 여러 가지 무기를 잔뜩 챙겨 다니는 게 익숙해. 황무지에서는 무기가 케르의 가장 좋은 친구거든! 어려운 일이 생겼을 때, 친구가 많으면 많을수록 더 큰 힘을 얻게 되잖아? 게다가 이젠 무기를 전부 등에 메고 다니지 않아도 돼서 남은 힘으로 맛있는 걸 더 많이 챙길 수 있어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_about_line05",
+   "title": {
+    "en": "Topic: Order of Steel Oath",
+    "zh-TW": "話題：鐵誓軍",
+    "zh-CN": "话题：铁誓军",
+    "ja": "鉄誓軍について",
+    "ko": "철의 서약군에 관하여"
+   },
+   "text": {
+    "en": "I stayed with the Oathkeepers up north for a loooong time. They're a lot like Endfield — full of strong people, all chasing something big. They don't have Dijiang, but they do have a mountain-high Forgefane. The smiths are always clanking and hammering, making all kinds of amazing weapons. I loved dozing off there ... the clang and clatter always bring me good dreams.",
+    "zh-TW": "小刻和北方的鐵誓軍們待了好長時間。他們和終末地很像，都有了不起的使命，也有很多很厲害的同伴。他們雖然沒有帝江號，但有像山一樣高的超級大熔爐。鐵匠每天都在大熔爐旁邊忙個不停，打造各種神奇的武器。小刻可喜歡在大熔爐旁邊打盹啦。在暖和的爐火邊，聽著叮叮噹噹的聲音，總能做個好夢呢。",
+    "zh-CN": "小刻和北方的铁誓军们待了好长时间。他们和终末地很像，都有了不起的使命，也有很多很厉害的同伴。他们虽然没有帝江号，但有像山一样高的超级大熔炉。铁匠每天都在大熔炉旁边忙个不停，打造各种神奇的武器。小刻可喜欢在大熔炉旁边打盹啦。在暖和的炉火边，听着叮叮当当的声音，总能做个好梦呢。",
+    "ja": "おいら、北の鉄誓軍のみんなと長く一緒にいたんだよ。みんなにもエンドフィールドみたいにすごい使命があって、頼りになる仲間もいっぱいいてね。帝江号はないけど、山みたいにでっかい熔炉があって、鍛冶師は毎日そこで不思議な武器をいっぱい作るのに忙しそうだった。おいら、あのでっかい熔炉のそばで昼寝するのが大好きだったんだ。あったかい火のそばで、カンカンって音を聞いてると、いつでもいい夢が見られるから。",
+    "ko": "케르는 북쪽 철의 서약군 사람들이랑 되게 오래 같이 지냈어. 거기도 엔드필드랑 뭔가 비슷했지. 대단한 사명도 있고, 엄청나게 강한 동료분들도 많았거든. 제강호는 없는 대신 산처럼 높고 큰 용광로가 있었는데, 대장장이분들이 매일 그 옆에서 신기한 무기들을 만들어 냈어. 그리고... 케르는 그 옆에서 낮잠 자는 걸 진짜 좋아해! 따뜻한 불 옆에서 땅땅거리는 소리를 듣고 있으면 좋은 꿈을 꿀 수 있거든!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_explore_point_common_01",
+   "title": {
+    "en": "Resource/Collectible Detected 1",
+    "zh-TW": "發現資源1",
+    "zh-CN": "发现资源1",
+    "ja": "発見：資源1",
+    "ko": "자원 발견 1"
+   },
+   "text": {
+    "en": "Oooh ... smells like something yummy. Wanna go take a peek?",
+    "zh-TW": "嗯，好東西的味道……去瞧瞧怎麼樣？",
+    "zh-CN": "唔，好东西的味道……去瞧瞧怎么样？",
+    "ja": "うーん、いいものの匂いがする……見に行こうよ！",
+    "ko": "음, 어디서 좋은 냄새가 나는데... 가 보자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_explore_point_valub_01",
+   "title": {
+    "en": "Resource/Collectible Detected 2",
+    "zh-TW": "發現資源2",
+    "zh-CN": "发现资源2",
+    "ja": "発見：資源2",
+    "ko": "자원 발견 2"
+   },
+   "text": {
+    "en": "Treasure alert! That-a-way!",
+    "zh-TW": "好多寶貝，那邊那邊！",
+    "zh-CN": "好多宝贝，那边那边！",
+    "ja": "お宝がいっぱいだ！こっちこっち！",
+    "ko": "보물이 잔뜩 있어! 저쪽, 저쪽!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_explore_find_locked_01",
+   "title": {
+    "en": "Unexplored Area Detected",
+    "zh-TW": "發現未探索區域",
+    "zh-CN": "发现未探索区域",
+    "ja": "発見：未探索エリア",
+    "ko": "미탐색 구역 발견"
+   },
+   "text": {
+    "en": "Maybe we should do more prep work first. Like, pack more yummies?",
+    "zh-TW": "感覺還是多做準備再來比較好呢，比如說，多帶點乾糧？",
+    "zh-CN": "感觉还是多做准备再来比较好呢，比如说，多带点干粮？",
+    "ja": "もっと準備してから来たほうがいいのかな。そうだなあ、食べものをもっと持ってくるとか。",
+    "ko": "조금 더 준비하고 오는 게 좋겠어. 예를 들면... 먹을 걸 더 챙긴다거나?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_explore_find_danger_01",
+   "title": {
+    "en": "Powerful Enemy Discovered",
+    "zh-TW": "發現強敵",
+    "zh-CN": "发现强敌",
+    "ja": "発見：強敵",
+    "ko": "강한 적 발견"
+   },
+   "text": {
+    "en": "There's a strong one up ahead. Wanna send me in for a little taste test?",
+    "zh-TW": "有很強的傢伙在前面呢，要小刻先上嗎？",
+    "zh-CN": "有很强的家伙在前面呢，要小刻先上吗？",
+    "ja": "前にすごく強い奴がいるよ。おいらが先に行こうか？",
+    "ko": "앞에 엄청 강한 녀석이 있어. 케르가 앞장설게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_interact_mine_valub_01",
+   "title": {
+    "en": "Mining 1",
+    "zh-TW": "採集礦物1",
+    "zh-CN": "采集矿物1",
+    "ja": "鉱物採集1",
+    "ko": "광물 채집 1"
+   },
+   "text": {
+    "en": "Whoa, you're really into collecting rocks, huh!",
+    "zh-TW": "哇，你真的好喜歡撿石頭啊！",
+    "zh-CN": "哇，你真的好喜欢捡石头呀！",
+    "ja": "わー、やっぱり石拾いが好きなんだ！",
+    "ko": "우와, 돌 줍는 걸 정말 좋아하는구나!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_interact_mine_valub_echo2_01",
+   "title": {
+    "en": "Mining 2",
+    "zh-TW": "採集礦物2",
+    "zh-CN": "采集矿物2",
+    "ja": "鉱物採集2",
+    "ko": "광물 채집 2"
+   },
+   "text": {
+    "en": "These rocks are little treasures, right? Then I'm gonna help too!",
+    "zh-TW": "這些石頭用處很大對吧！小刻也來幫忙！",
+    "zh-CN": "这些石头用处很大对吧！小刻也来帮忙！",
+    "ja": "役立つ石拾う！おいらも手伝う！",
+    "ko": "이 돌들 엄청 쓸모 있는 거 맞지? 그럼 케르도 도울게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_interact_treasure_valub_01",
+   "title": {
+    "en": "Opening a Crate",
+    "zh-TW": "打開儲藏箱",
+    "zh-CN": "打开储藏箱",
+    "ja": "資源箱開封",
+    "ko": "보물 상자 열기"
+   },
+   "text": {
+    "en": "These are all super useful things! We got pretty lucky, didn't we!",
+    "zh-TW": "都是能用得上的好東西呢，運氣不錯喔！",
+    "zh-CN": "都是能用得上的好东西呢，运气不错哦！",
+    "ja": "どれどれ……いいものいっぱい！ラッキー！",
+    "ko": "전부 좋은 물건이네! 운이 좋았어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_interact_etherium_01",
+   "title": {
+    "en": "Acquiring Aurylene",
+    "zh-TW": "獲得醚質",
+    "zh-CN": "获得醚质",
+    "ja": "オーリレン入手",
+    "ko": "오리렌 획득"
+   },
+   "text": {
+    "en": "This sparkly stuff is \"Aurylene\", right? I saw lots and lots of it out in the wilderness. I should've taken it all!",
+    "zh-TW": "這個亮閃閃的就是「醚質」吧？小刻在荒野上也見過好多呢，早知道都收集起來就好了。",
+    "zh-CN": "这个亮闪闪的就是“醚质”吧？小刻在荒野上也见过好多呢，早知道都收集起来就好了。",
+    "ja": "このピカピカが「オーリレン」？おいら荒野でいっぱい見つけたよ。集めておけばよかったなぁ。",
+    "ko": "이 반짝반짝한 게 바로 '오리렌'이지? 케르도 황무지에서 많이 봤거든! 귀한 건 줄 알았으면 다 모아둘걸!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_interact_blight_break_01",
+   "title": {
+    "en": "Eliminating the Blight",
+    "zh-TW": "消除侵蝕",
+    "zh-CN": "消除侵蚀",
+    "ja": "侵蝕排除",
+    "ko": "침식 제거"
+   },
+   "text": {
+    "en": "Tidy tidy done! The honey waffle smells twice as nice now!",
+    "zh-TW": "清理乾淨了，蜜餅都更香了！",
+    "zh-CN": "清理干净了，蜜饼都更香了！",
+    "ja": "スッキリだー！これではちみつワッフルももっと美味しくなるね！",
+    "ko": "드디어 끝! 벌꿀 와플 냄새가 더 좋아진 것 같아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_interact_rest_01",
+   "title": {
+    "en": "Rest",
+    "zh-TW": "休整",
+    "zh-CN": "休整",
+    "ja": "回復",
+    "ko": "휴식"
+   },
+   "text": {
+    "en": "Whew! A good rest is just as good as a big feast!",
+    "zh-TW": "呼！暫時休息一下，大吃一頓吧！",
+    "zh-CN": "呼！暂时休息一下，大吃一顿吧！",
+    "ja": "ふう、ちょっと休憩。お腹いっぱい食べるぞー！",
+    "ko": "후우! 잠깐 쉬면서, 든든하게 먹어두자!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_suppuse_using_01",
+   "title": {
+    "en": "Tactical Use 1",
+    "zh-TW": "使用戰術物品1",
+    "zh-CN": "使用战术物品1",
+    "ja": "戦闘補助アイテム使用1",
+    "ko": "전술 아이템 사용 1"
+   },
+   "text": {
+    "en": "Hurry! Take a bite!",
+    "zh-TW": "快！嚐嚐這個！",
+    "zh-CN": "快！尝尝这个！",
+    "ja": "これ！食べて！",
+    "ko": "빨리! 이거 먹어 봐!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_suppuse_getheal_01",
+   "title": {
+    "en": "Tactical Use 2",
+    "zh-TW": "使用戰術物品2",
+    "zh-CN": "使用战术物品2",
+    "ja": "戦闘補助アイテム使用2",
+    "ko": "전술 아이템 사용 2"
+   },
+   "text": {
+    "en": "I'm back to life! Cool!",
+    "zh-TW": "又好起來了，真有用！",
+    "zh-CN": "又好起来了，真管用！",
+    "ja": "助かったぁ。よかったー！",
+    "ko": "괜찮아졌어! 진짜 효과 좋다!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_remind_danger_01",
+   "title": {
+    "en": "Danger Warning",
+    "zh-TW": "危險提醒",
+    "zh-CN": "危险提醒",
+    "ja": "警告",
+    "ko": "위험 경고"
+   },
+   "text": {
+    "en": "Quick, dodge!",
+    "zh-TW": "快閃開啊！",
+    "zh-CN": "快闪开呀！",
+    "ja": "避けてー！",
+    "ko": "빨리 피해!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_hurt_lowhp_01",
+   "title": {
+    "en": "Injured",
+    "zh-TW": "負傷",
+    "zh-CN": "负伤",
+    "ja": "負傷",
+    "ko": "부상"
+   },
+   "text": {
+    "en": "I dare you come closer. I'll chomp you!",
+    "zh-TW": "再靠近，小刻要咬人了！",
+    "zh-CN": "再靠近，小刻要咬人了！",
+    "ja": "近づくなー！噛みつくぞ！",
+    "ko": "더 가까이 오면, 물어버린다?!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_dead_01",
+   "title": {
+    "en": "0 HP",
+    "zh-TW": "力竭",
+    "zh-CN": "力竭",
+    "ja": "戦闘不能",
+    "ko": "탈진"
+   },
+   "text": {
+    "en": "The baddies ... are yours now...",
+    "zh-TW": "壞傢伙……就靠你們了……",
+    "zh-CN": "坏家伙……就靠你们了……",
+    "ja": "悪い奴……みんなに任せた……",
+    "ko": "나쁜 녀석은... 너희한테 맡길게..."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_remind_praise_01",
+   "title": {
+    "en": "Team Encouragement 1",
+    "zh-TW": "小隊激勵1",
+    "zh-CN": "小队激励1",
+    "ja": "激励1",
+    "ko": "팀 격려 1"
+   },
+   "text": {
+    "en": "Woah, that was super duper cool!",
+    "zh-TW": "哇，這招太帥了吧！",
+    "zh-CN": "哇，这招太帅了吧！",
+    "ja": "おおお、カッコいい！",
+    "ko": "와아! 멋진 기술이야!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_remind_praise_02",
+   "title": {
+    "en": "Team Encouragement 2",
+    "zh-TW": "小隊激勵2",
+    "zh-CN": "小队激励2",
+    "ja": "激励2",
+    "ko": "팀 격려 2"
+   },
+   "text": {
+    "en": "Everyone's so strong!",
+    "zh-TW": "朋友們都超級強呢。",
+    "zh-CN": "朋友们都超级强呢。",
+    "ja": "みんなすっごく強いね。",
+    "ko": "다들 엄청 세네!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_remind_praise_echo2_01",
+   "title": {
+    "en": "Encouragement Response 1",
+    "zh-TW": "回應激勵1",
+    "zh-CN": "回应激励1",
+    "ja": "激励応答1",
+    "ko": "격려 응답 1"
+   },
+   "text": {
+    "en": "Hehe, I'm actually really, really strong!",
+    "zh-TW": "嘿嘿，小刻可是很強的！",
+    "zh-CN": "嘿嘿，小刻可是很强的！",
+    "ja": "へへっ、おいらだって強いんだぞ！",
+    "ko": "헤헤, 케르는 진짜 세다고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_remind_praise_echo2_02",
+   "title": {
+    "en": "Encouragement Response 2",
+    "zh-TW": "回應激勵2",
+    "zh-CN": "回应激励2",
+    "ja": "激励応答2",
+    "ko": "격려 응답 2"
+   },
+   "text": {
+    "en": "You can bet on me, no problem!",
+    "zh-TW": "包在小刻身上就好啦！",
+    "zh-CN": "包在小刻身上就好啦！",
+    "ja": "おいらに任せろ！",
+    "ko": "케르한테 맡겨!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_intobattle_01",
+   "title": {
+    "en": "Combat Begins 1",
+    "zh-TW": "作戰開始1",
+    "zh-CN": "作战开始1",
+    "ja": "作戦開始1",
+    "ko": "작전 시작 1"
+   },
+   "text": {
+    "en": "Kay's snack squad, let's munch!",
+    "zh-TW": "小刻隊，出擊！",
+    "zh-CN": "小刻队，出击！",
+    "ja": "ケーちゃん隊、しゅつげーき！",
+    "ko": "케르 팀, 돌격 앞으로!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_intobattle_echo2_01",
+   "title": {
+    "en": "Combat Begins 2",
+    "zh-TW": "作戰開始2",
+    "zh-CN": "作战开始2",
+    "ja": "作戦開始2",
+    "ko": "작전 시작 2"
+   },
+   "text": {
+    "en": "Alrighty, Kay, time to get focused!",
+    "zh-TW": "小刻也要打起精神來啦！",
+    "zh-CN": "小刻也要打起精神来啦！",
+    "ja": "おいらも気合十分だぞ！",
+    "ko": "케르도 힘낼게!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_outbattle_nor_01",
+   "title": {
+    "en": "Combat Victory 1",
+    "zh-TW": "作戰勝利1",
+    "zh-CN": "作战胜利1",
+    "ja": "作戦終了1",
+    "ko": "작전 승리 1"
+   },
+   "text": {
+    "en": "Just like that! We knocked them all out as a team!",
+    "zh-TW": "就這樣一下兩下，我們一起把他們全打倒！",
+    "zh-CN": "就这样一下两下，我们一起把他们全打倒！",
+    "ja": "こうやってね、バン！パン！でみんなとやっつけたんだよ！",
+    "ko": "이렇게 휙, 휙! 우리가 해치워 버렸어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_outbattle_nor_02",
+   "title": {
+    "en": "Combat Victory 2",
+    "zh-TW": "作戰勝利2",
+    "zh-CN": "作战胜利2",
+    "ja": "作戦終了2",
+    "ko": "작전 승리 2"
+   },
+   "text": {
+    "en": "That was a yummy victory! I'm getting waffles for this!",
+    "zh-TW": "漂亮的戰鬥，獎勵自己一塊蜜餅好啦。",
+    "zh-CN": "漂亮的战斗，奖励自己一块蜜饼好啦。",
+    "ja": "よくできたよね。じゃあ、ごほうびのはちみつワッフル食べよう！",
+    "ko": "아주 멋진 전투였어! 보상으론 벌꿀 와플이 좋을 것 같아!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_outbattle_nor_echo2_01",
+   "title": {
+    "en": "Combat Victory 3",
+    "zh-TW": "作戰勝利3",
+    "zh-CN": "作战胜利3",
+    "ja": "作戦終了3",
+    "ko": "작전 승리 3"
+   },
+   "text": {
+    "en": "I chipped in too, right?",
+    "zh-TW": "也有小刻的一份功勞喔。",
+    "zh-CN": "也有小刻的一份功劳哦。",
+    "ja": "おいらも頑張ったよね？",
+    "ko": "케르도 한몫했다고!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_outbattle_hard_01",
+   "title": {
+    "en": "Combat Victory 4",
+    "zh-TW": "作戰勝利4",
+    "zh-CN": "作战胜利4",
+    "ja": "作戦終了4",
+    "ko": "작전 승리 4"
+   },
+   "text": {
+    "en": "What a tough cookie. So ... when are we eating? Bet everyone's tummies are growling!",
+    "zh-TW": "打倒這傢伙真是費勁，什麼時候開飯？大家的肚子也都咕嚕咕嚕叫了吧。",
+    "zh-CN": "打倒这家伙真是费劲，什么时候开饭？大家的肚子也都咕噜咕噜叫了吧。",
+    "ja": "倒すの大変だったなぁ。ごはんってまだ？みんなのお腹もぐーぐー鳴ってるよね？",
+    "ko": "힘들다... 그래서 우리 밥은 언제 먹어? 배에서 꼬르륵 소리 나는 거 들었는데!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_battle_defeat_01",
+   "title": {
+    "en": "Combat Defeat",
+    "zh-TW": "作戰失敗",
+    "zh-CN": "作战失败",
+    "ja": "作戦失敗",
+    "ko": "작전 실패"
+   },
+   "text": {
+    "en": "Good thing everyone got away. Okay, tummies first, then we go again!",
+    "zh-TW": "還好大家都跑掉了，還是吃飽肚子再出發吧。",
+    "zh-CN": "还好大家都跑掉了，还是吃饱肚子再出发吧。",
+    "ja": "ふう、無事でよかった。次はお腹いっぱいで行かなきゃ。",
+    "ko": "다들 무사히 철수해서 다행이야. 일단 배부터 든든히 채우고 다시 출발하자."
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_attack_last_01",
+   "title": {
+    "en": "Final Strike 1",
+    "zh-TW": "重擊1",
+    "zh-CN": "重击1",
+    "ja": "重攻撃1",
+    "ko": "강력한 일격 1"
+   },
+   "text": {
+    "en": "Go!",
+    "zh-TW": "去吧！",
+    "zh-CN": "去吧！",
+    "ja": "いけー！",
+    "ko": "가랏!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_attack_last_02",
+   "title": {
+    "en": "Final Strike 2",
+    "zh-TW": "重擊2",
+    "zh-CN": "重击2",
+    "ja": "重攻撃2",
+    "ko": "강력한 일격 2"
+   },
+   "text": {
+    "en": "Boom! Pow!",
+    "zh-TW": "砰！啪！",
+    "zh-CN": "砰！啪！",
+    "ja": "バン！パン！",
+    "ko": "펑! 파앙!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_skill_nor_01",
+   "title": {
+    "en": "Battle Skill 1",
+    "zh-TW": "戰技1",
+    "zh-CN": "战技1",
+    "ja": "戦技1",
+    "ko": "배틀 스킬 1"
+   },
+   "text": {
+    "en": "No running away!",
+    "zh-TW": "別跑別跑！",
+    "zh-CN": "别跑别跑！",
+    "ja": "逃げるなー！",
+    "ko": "도망가지 마!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_skill_nor_02",
+   "title": {
+    "en": "Battle Skill 2",
+    "zh-TW": "戰技2",
+    "zh-CN": "战技2",
+    "ja": "戦技2",
+    "ko": "배틀 스킬 2"
+   },
+   "text": {
+    "en": "Stay still, my prey!",
+    "zh-TW": "獵物站住！",
+    "zh-CN": "猎物站住！",
+    "ja": "獲物めー！動くな！",
+    "ko": "사냥감! 동작 그만!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_skill_nor_03",
+   "title": {
+    "en": "Battle Skill 3",
+    "zh-TW": "戰技3",
+    "zh-CN": "战技3",
+    "ja": "戦技3",
+    "ko": "배틀 스킬 3"
+   },
+   "text": {
+    "en": "Leave it to me!",
+    "zh-TW": "看我的吧！",
+    "zh-CN": "瞧我的吧！",
+    "ja": "こっち見ろー！",
+    "ko": "이런 건 어때?"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_skill_comb_ready_01",
+   "title": {
+    "en": "Combo Skill Ready 1",
+    "zh-TW": "連攜技就緒1",
+    "zh-CN": "连携技就绪1",
+    "ja": "連携技準備完了1",
+    "ko": "연계 스킬 준비 완료 1"
+   },
+   "text": {
+    "en": "Ready to jump in!",
+    "zh-TW": "可以上了喔！",
+    "zh-CN": "可以上了哦！",
+    "ja": "行けるよ！",
+    "ko": "케르는 준비됐어!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_combat_skill_comb_ready_02",
+   "title": {
+    "en": "Combo Skill Ready 2",
+    "zh-TW": "連攜技就緒2",
+    "zh-CN": "连携技就绪2",
+    "ja": "連携技準備完了2",
+    "ko": "연계 스킬 준비 완료 2"
+   },
+   "text": {
+    "en": "Kay's all set!",
+    "zh-TW": "小刻也來啦！",
+    "zh-CN": "小刻也来啦！",
+    "ja": "おいらも来たよ！",
+    "ko": "케르도 도울래!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_skill_comb_release_01",
+   "title": {
+    "en": "Combo Casting 1",
+    "zh-TW": "連攜技1",
+    "zh-CN": "连携技1",
+    "ja": "連携技1",
+    "ko": "연계 스킬 1"
+   },
+   "text": {
+    "en": "Dadadadada!",
+    "zh-TW": "噠噠噠噠噠！",
+    "zh-CN": "哒哒哒哒哒！",
+    "ja": "ダダダダダッ！",
+    "ko": "다다다다닷!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_skill_comb_release_02",
+   "title": {
+    "en": "Combo Casting 2",
+    "zh-TW": "連攜技2",
+    "zh-CN": "连携技2",
+    "ja": "連携技2",
+    "ko": "연계 스킬 2"
+   },
+   "text": {
+    "en": "Ha-yah!",
+    "zh-TW": "嘿呀！",
+    "zh-CN": "嘿呀！",
+    "ja": "せいやーっ！",
+    "ko": "하이얏!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_attack_extra_01",
+   "title": {
+    "en": "Finisher 1",
+    "zh-TW": "處決1",
+    "zh-CN": "处决1",
+    "ja": "終撃1",
+    "ko": "처형 1"
+   },
+   "text": {
+    "en": "An opening!",
+    "zh-TW": "發現弱點！",
+    "zh-CN": "发现弱点！",
+    "ja": "弱点みっけ！",
+    "ko": "약점 발견!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_attack_extra_02",
+   "title": {
+    "en": "Finisher 2",
+    "zh-TW": "處決2",
+    "zh-CN": "处决2",
+    "ja": "終撃2",
+    "ko": "처형 2"
+   },
+   "text": {
+    "en": "Go bite'em!",
+    "zh-TW": "咬你咬你！",
+    "zh-CN": "咬你咬你！",
+    "ja": "がぶがぶ！",
+    "ko": "물어버릴 거야! 앙!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_skill_ultimate_01",
+   "title": {
+    "en": "Ultimate 1",
+    "zh-TW": "終結技1",
+    "zh-CN": "终结技1",
+    "ja": "必殺技1",
+    "ko": "궁극기 1"
+   },
+   "text": {
+    "en": "Have a bite of this!",
+    "zh-TW": "來嚐嚐這個！",
+    "zh-CN": "来尝尝这个！",
+    "ja": "よーし、「決めるよ」！",
+    "ko": "케르의 공격을 받아랏!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_skill_ultimate_02",
+   "title": {
+    "en": "Ultimate 2",
+    "zh-TW": "終結技2",
+    "zh-CN": "终结技2",
+    "ja": "必殺技2",
+    "ko": "궁극기 2"
+   },
+   "text": {
+    "en": "Honey attack! Full power!",
+    "zh-TW": "全部出動！",
+    "zh-CN": "全部出动！",
+    "ja": "ぜーんぶ、ボコボコだー！",
+    "ko": "전부 출동!"
+   },
+   "unlock": null
+  },
+  {
+   "id": "chr_0040_sweetpie_mono_skill_ultimate_03",
+   "title": {
+    "en": "Ultimate 3",
+    "zh-TW": "終結技3",
+    "zh-CN": "终结技3",
+    "ja": "必殺技3",
+    "ko": "궁극기 3"
+   },
+   "text": {
+    "en": "I'll flatten you like a pancake!",
+    "zh-TW": "全部打飛！",
+    "zh-CN": "全部打飞！",
+    "ja": "みーんなぶっとばしてあげる！",
+    "ko": "다 날려버려!"
+   },
+   "unlock": null
+  }
+ ],
+ "chats": [
+  {
+   "id": "sns_topic_chr_0040_sweetpie_17001",
+   "topic": {
+    "en": "\"Really Big Ship\"",
+    "zh-TW": "「很大的船」",
+    "zh-CN": "“很大的船”",
+    "ja": "「でっかい船」",
+    "ko": "'아주 큰 배'"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Kay, have you been staying on Dijiang these days?",
+      "zh-TW": "最近小刻一直待在帝江號上嗎？",
+      "zh-CN": "最近小刻一直待在帝江号上吗？",
+      "ja": "最近、ずっと帝江号にいるんだって？",
+      "ko": "케르, 혹시 요즘 계속 제강호에 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "HAH? how did you know, Endmin",
+      "zh-TW": "咦？管理員怎麼知道",
+      "zh-CN": "咦？管理员怎么知道",
+      "ja": "あれ？なんでわかったの",
+      "ko": "어? 관리자가 그걸 어떻게 알았어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You're the talk amongst the Endfielders, Kay. You've been all around the cabins, apparently.",
+      "zh-TW": "幹員們總是提起你啊，說是經常看到小刻的身影在各個艙室之間穿來穿去。",
+      "zh-CN": "干员们总是提起你呢，说是经常看到小刻的身影在各个舱室之间穿来穿去。",
+      "ja": "皆から聞いたんだ。いつもいろんな船室を走り回っているって。",
+      "ko": "오퍼레이터들이 네 얘기를 하더라고. 여기저기 선실 사이를 누비고 다니는 케르의 모습이 자주 보인다던데?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You looking for something?",
+      "zh-TW": "是在找什麼東西嗎？",
+      "zh-CN": "是在找什么东西吗？",
+      "ja": "何か探してるのかな。",
+      "ko": "뭐 찾는 거라도 있어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Nope! I'm trying to complete a really new challenge",
+      "zh-TW": "不是在找東西啦！那是小刻在完成最新的挑戰",
+      "zh-CN": "不是在找东西啦！那是小刻在完成最新的挑战",
+      "ja": "ちがうちがう！新しいちょうせん中なんだよ！",
+      "ko": "뭘 찾는 게 아니라, 케르가 새로운 도전을 하고 있는 거야!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "A really new challenge... What is it?",
+      "zh-TW": "最新的挑戰……是什麼？",
+      "zh-CN": "最新的挑战……是什么？",
+      "ja": "新しい挑戦って何？",
+      "ko": "새로운 도전...? 그게 뭔데?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "i wanna explore the all of Dijiang",
+      "zh-TW": "走遍整個帝江號",
+      "zh-CN": "走遍整个帝江号",
+      "ja": "でぃーじゃん号ぜーんぶ回るチャレンジ",
+      "ko": "흠흠~ 바로 제강호를 구석구석 다 돌아다니는 거야!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "ALL of Dijiang?",
+      "zh-TW": "要把帝江號都走遍？",
+      "zh-CN": "要把帝江号都走遍？",
+      "ja": "全部？",
+      "ko": "제강호 전체를 다 돌겠다고?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "YEAH like from the place where people visit most",
+      "zh-TW": "對啊！就從大家最常去的地方開始",
+      "zh-CN": "对呀！就从大家最常去的地方开始",
+      "ja": "うん、みんながよく行くところからはじめるんだ！",
+      "ko": "응! 일단 사람들이 자주 가는 곳부터 시작하고 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Dijiang's a really big ship. There are places that even I haven't visited.",
+      "zh-TW": "帝江號可是很大的一艘船，有些部分連我都沒怎麼去過呢。",
+      "zh-CN": "帝江号可是很大的一艘船，有些部分连我都没怎么去过呢。",
+      "ja": "帝江号は広いからね。まだ行ったことのない場所も、結構あるんだよ。",
+      "ko": "음... 하지만 제강호는 나조차 아직 한 번도 안 가 본 곳이 꽤 있을 정도로 아주 큰 배야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Really?! places that even Endmin havent visited? Now Im really curious!",
+      "zh-TW": "咦？竟然還有管理員沒去過的地方？這樣小刻更好奇了！",
+      "zh-CN": "咦？竟然还有管理员没去过的地方？这下小刻更好奇了！",
+      "ja": "あっ、管理人も行ったことないところがあるの？おいら気になる！",
+      "ko": "어? 관리자도 아직 안 가 본 곳이 있어? 그럼 점점 더 궁금해지는데!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Wen I was on Talos-II i be like looking for Dijiang for the longest time",
+      "zh-TW": "小刻之前在塔衛二上找帝江號找了好久",
+      "zh-CN": "小刻之前在塔卫二上找帝江号找了好久",
+      "ja": "おいら、ずーっとタロⅡで、でぃーじゃん号を探してたんだよ",
+      "ko": "케르는 전에 온 탈로스 II를 떠돌아다니며 제강호를 찾아다녔어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "its my dream to explore the really big ship",
+      "zh-TW": "早就想探索一番了",
+      "zh-CN": "早就想探索一番了",
+      "ja": "だから、早くたんけんしたい",
+      "ko": "진작부터 이렇게 제대로 한번 탐험해 보고 싶었다고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You were looking for Dijiang on Talos-II?",
+      "zh-TW": "在塔衛二上找帝江號？",
+      "zh-CN": "在塔卫二上找帝江号？",
+      "ja": "タロⅡで帝江号を探していたの？",
+      "ko": "탈로스 II에서 제강호를 찾았다고?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Yeah! when i first left Rhodes Island i thought Dijiang wud be another really big ship on the ground",
+      "zh-TW": "對啊！剛從羅德島出發的時候，小刻以為帝江號跟羅德島一樣，都是開在地上的船",
+      "zh-CN": "对呀！刚从罗德岛出发的时候，小刻以为帝江号和罗德岛一样，都是开在地上的船",
+      "ja": "そうそう！ロドスを出たばっかりのころ、でぃーじゃん号もロドスみたいに地面を走るって思ってたの",
+      "ko": "응! 로도스 아일랜드에서 막 출발했을 때는 제강호도 로도스 아일랜드처럼 땅 위를 다니는 배인 줄 알았거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "So I roamed around for a really long time and looked really hard at shipping roots, supply points, terminals",
+      "zh-TW": "所以小刻在地面上找了好久！航道啊，補給點啊，停靠站啊",
+      "zh-CN": "所以小刻在地面上找了好久！航道哇，补给点哇，停靠站哇",
+      "ja": "だからおいらいっぱい探した！船が通る道とか、ごはんやにもつを積むところとか、船がとまるところとか",
+      "ko": "그래서 지상에서 엄청 오래 찾았지! 항로도 찾아보고, 보급소도 찾아보고, 정박지도 찾아보고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "But I couldn find anything",
+      "zh-TW": "但是什麼都沒找到",
+      "zh-CN": "但是什么都没找到",
+      "ja": "でも、ぜんぜん見つからなかった",
+      "ko": "근데 결국 아무것도 못 찾았어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Nobody told me that Dijiang is a flying ship",
+      "zh-TW": "沒想到，帝江號居然是飛在天上的",
+      "zh-CN": "没想到，帝江号居然是飞在天上的",
+      "ja": "空を飛んでるなんて思わなかった！",
+      "ko": "설마 제강호가 하늘을 날아다니는 배일 줄은 몰랐으니까!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Thats why I couldnt find it! I was lost for a really long time too",
+      "zh-TW": "難怪小刻找不到！迷路了好久",
+      "zh-CN": "怪不得小刻找不到！迷路了好久",
+      "ja": "だから見つからなくて、ずーっとまいごだったの",
+      "ko": "어쩐지 아무리 찾아도 없더라니! 괜히 한참 동안 길이나 잃고..."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That must have been tough.",
+         "zh-TW": "真是辛苦你了。",
+         "zh-CN": "真是辛苦你了。",
+         "ja": "大変だったね",
+         "ko": "정말 고생했네."
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "So that's why you got lost...",
+         "zh-TW": "原來迷路的原因是這個……",
+         "zh-CN": "原来迷路的原因是这个……",
+         "ja": "それで迷子になってしまったんだね……",
+         "ko": "그래서 길을 잃었던 거구나..."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "But after I came to Dijiang",
+      "zh-TW": "不過小刻來到帝江號之後",
+      "zh-CN": "不过小刻来到帝江号之后",
+      "ja": "でもね、でぃーじゃん号にきたらね",
+      "ko": "응, 근데 케르가 제강호에 와보니까"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "It feels like Rhodes Island",
+      "zh-TW": "感覺真的有好多地方跟羅德島很像",
+      "zh-CN": "感觉确实有好多地方和罗德岛很像",
+      "ja": "ロドスとそっくりなところがいっぱいだった！",
+      "ko": "로도스 아일랜드랑 비슷한 곳이 정말 많았어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "you also have a bridge, canteen, arsenal",
+      "zh-TW": "也都有艦橋、餐廳，還有修武器的地方",
+      "zh-CN": "也都有舰桥，食堂，还有修武器的地方",
+      "ja": "ブリッジも食堂も、武器をなおすところもあった！",
+      "ko": "똑같이 함교도 있고, 식당도 있고, 무기를 수리하는 데도 있고"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "and many operators live here too",
+      "zh-TW": "也有好多幹員在這上面生活",
+      "zh-CN": "也有好多干员在这上面生活",
+      "ja": "オペレーターもいっぱい！",
+      "ko": "여기서 생활하는 오퍼레이터들도 엄청 많고..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "its also like how everyone has a mission and dream to make Talos-II a better place",
+      "zh-TW": "船上的大家都肩負著相似的使命，希望讓塔衛二這顆星球變得更好",
+      "zh-CN": "船上的大家都肩负着相似的使命，希望让塔卫二这颗星球变得更好",
+      "ja": "みんな、タロⅡをもっといい星にしようってがんばってるんだね",
+      "ko": "배에 있는 모두가 비슷한 사명을 짊어지고 있으면서, 탈로스 II라는 행성을 더 좋은 곳으로 만들고 싶어 하는 게 보였어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "people leave from Dijiang and then come back here",
+      "zh-TW": "大家從帝江號出發，又會回到這裡",
+      "zh-CN": "大家从帝江号出发，又会回到这里",
+      "ja": "ここからお仕事に行って、また帰ってきて",
+      "ko": "다들 제강호에서 출발하고, 다시 이곳으로 돌아오잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "like no matter how heavy their responsibilitys or missions are, cos Dijiang makes people safe",
+      "zh-TW": "不管責任多沉重，任務多辛苦，回到帝江號之後總有一種安心的感覺",
+      "zh-CN": "不管责任多沉重，任务多辛苦，回到帝江号之后总有一种安心的感觉",
+      "ja": "どんなに大変なお仕事でも、ここに帰ってくるとほっとして",
+      "ko": "아무리 책임이 무겁고 임무가 힘들어도, 제강호로 돌아오면 마음이 놓여."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "It feels like",
+      "zh-TW": "就好像",
+      "zh-CN": "就好像",
+      "ja": "えっとね",
+      "ko": "왠지..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Going home?",
+      "zh-TW": "回到家一樣？",
+      "zh-CN": "回到家一样？",
+      "ja": "おうちに帰ってきたみたい",
+      "ko": "집에 돌아온 것 같달까?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "staying at Dijiang gives me a homely feel",
+      "zh-TW": "待在帝江號上，有一種讓小刻很熟悉的感覺",
+      "zh-CN": "待在帝江号上，有一种让小刻很熟悉的感觉",
+      "ja": "でぃーじゃん号って、なんかなつかしい感じがする",
+      "ko": "제강호에 있으면 아주 익숙하고 편안한 느낌이 들거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "it will be a real home if we gets a honey waffle worky shop!!",
+      "zh-TW": "如果再有一間專門的蜜餅工坊，那就更熟悉了！",
+      "zh-CN": "如果再有一间专门的蜜饼工坊，那就更熟悉了！",
+      "ja": "はちみつワッフルを作るところもあったら、もっとなつかしいのかな？",
+      "ko": "벌꿀 와플 전문 공방까지 생기면 더 좋겠지만!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I guess I could think about it...",
+      "zh-TW": "說不定可以考慮考慮……",
+      "zh-CN": "说不定可以考虑考虑……",
+      "ja": "ちょっと考えてみるよ……",
+      "ko": "음... 어쩌면 한번 진지하게 고민해 봐도 좋을 것 같아..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "I kept every corner of Rhodes Island in my heart before I left",
+      "zh-TW": "小刻在踏上旅途之前，把羅德島的角角落落都記在心裡了",
+      "zh-CN": "小刻在踏上旅途之前，把罗德岛的角角落落都记在心里了",
+      "ja": "旅に出る前にね、ロドスのことをすごーくたくさん覚えてきたんだ。",
+      "ko": "케르는 이전 여행을 떠나기 전에 로도스 아일랜드 구석구석을 전부 마음속에 담아뒀어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "so I wanna put the entire Dijiang in my heart before my next epic adventure",
+      "zh-TW": "在小刻下次出遠門之前，也要把帝江號整個都裝進心裡",
+      "zh-CN": "在小刻下次出远门之前，也要把帝江号整个都装进心里",
+      "ja": "だから、次また遠くに行く前に、でぃーじゃん号のこともいーっぱい覚えておきたいんだ",
+      "ko": "그러니까 다음 긴 여정을 떠나기 전까지 제강호도 통째로 마음속에 담아둘 거야."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0040_sweetpie_17002",
+   "topic": {
+    "en": "\"Really Sweet Waffle\"",
+    "zh-TW": "「很甜的餅」",
+    "zh-CN": "“很甜的饼”",
+    "ja": "「あまーいワッフル」",
+    "ko": "'아주 달콤한 와플'"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Endmin! POWER break time",
+      "zh-TW": "管理員！充電時間到",
+      "zh-CN": "管理员！充能时间到",
+      "ja": "管理人！チャージの時間だよ",
+      "ko": "관리자! 에너지를 보충할 시간이야!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "POWER break? What's that for?",
+      "zh-TW": "充電時間，是要做什麼？",
+      "zh-CN": "充能时间，是要干什么？",
+      "ja": "チャージって、何をするの？",
+      "ko": "에너지 보충 시간? 뭘 하는 건데?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Nomnom on snacks, durrrh",
+      "zh-TW": "當然是要吃點心啦，管理員",
+      "zh-CN": "当然是要吃点心啦，管理员",
+      "ja": "おやつを食べるんだよ！",
+      "ko": "당연히 간식 먹어야지, 관리자!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Guess what I got for you?",
+      "zh-TW": "猜猜我幫你準備了什麼？",
+      "zh-CN": "猜猜我给你准备了什么？",
+      "ja": "ねぇねぇ、なに持ってきたと思う？",
+      "ko": "케르가 뭘 준비했게?"
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Snacks... I'm guessing honey waffles?",
+         "zh-TW": "點心……我猜是蜜餅？",
+         "zh-CN": "点心……我猜是蜜饼？",
+         "ja": "おやつ……はちみつワッフルかな？",
+         "ko": "간식이면... 벌꿀 와플인가?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Snacks? Must be honey waffles.",
+         "zh-TW": "點心，一定是蜜餅吧。",
+         "zh-CN": "点心，肯定是蜜饼吧。",
+         "ja": "はちみつワッフルだよね。",
+         "ko": "간식이라면 당연히 벌꿀 와플이겠지."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "U R REALLY SMART ENDMIN!",
+      "zh-TW": "不愧是管理員，一次就猜中",
+      "zh-CN": "不愧是管理员，一次就猜中",
+      "ja": "管理人すごいよ！すぐ当てちゃった",
+      "ko": "단번에 맞혔네? 역시 관리자야!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Well, it's because you really love honey waffles, Kay. That's why I made that guess. And it turned out to be right .",
+      "zh-TW": "因為小刻太喜歡蜜餅了，每次猜蜜餅就總是能猜對。",
+      "zh-CN": "因为小刻太喜欢蜜饼了，每次往蜜饼猜，总能猜对。",
+      "ja": "ケーちゃんははちみつワッフルが大好きだからね。ワッフルって言えば当たると思って",
+      "ko": "케르가 벌꿀 와플을 너무 좋아하잖아. 벌꿀 와플이라고 찍으면 항상 맞더라."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Cos honey waffles are really delish",
+      "zh-TW": "那也是因為蜜餅真的很美味啊",
+      "zh-CN": "那也是因为蜜饼真的很美味呀",
+      "ja": "だってね、すごーくおいしいんだよ",
+      "ko": "그야 벌꿀 와플이 진짜 맛있으니까 그렇지!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "They can be really delish but do you ever get tired of them?",
+      "zh-TW": "但是再美味的東西，吃多了也會膩吧？",
+      "zh-CN": "但是再美味的东西，吃多了也会腻吧？",
+      "ja": "でも、毎日食べていたら飽きたりしないのかな。",
+      "ko": "근데 아무리 맛있는 음식이라도 많이 먹으면 질리지 않아?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "never! Ive visited many different places and tried all sorts of honey waffles",
+      "zh-TW": "不會啊！小刻去過好多地方，吃過很多不一樣的蜜餅呢",
+      "zh-CN": "不会呀！小刻去过好多地方，吃过很多不一样的蜜饼呢",
+      "ja": "ううん、ぜんぜん！おいら、いろんなところでいろんなワッフルを食べたんだ",
+      "ko": "안 질려! 케르는 여기저기 많이 다니면서 여러 가지 벌꿀 와플을 먹어봤다고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "There are \"all sorts\" of honey waffles?",
+      "zh-TW": "蜜餅之間還有區別嗎？",
+      "zh-CN": "蜜饼之间还有区别吗？",
+      "ja": "ワッフルにも違いがあるの？",
+      "ko": "벌꿀 와플도 종류마다 달라?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Of course",
+      "zh-TW": "當然有啦",
+      "zh-CN": "当然有啦",
+      "ja": "うん！",
+      "ko": "당연히 다르지! 잠깐만..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "the grownups at the UW eat these honey waffles for breaky-fast",
+      "zh-TW": "之前和工團的叔叔阿姨們在一起，會吃這種蜜餅當早餐",
+      "zh-CN": "之前和工团的叔叔阿姨们在一起，会吃这种蜜饼当早餐",
+      "ja": "前に工業団のおじちゃんたちといたときは、朝ごはんにこれを食べてたよ",
+      "ko": "이건 전에 공단의 아저씨, 아주머니들이랑 같이 지낼 때 늘 아침으로 먹던 벌꿀 와플이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "they like really drown the waffles in maple syrup and eats them to get so much waffle energy that even full day work dun make them tired",
+      "zh-TW": "在餅上澆上厚厚的一層糖漿，吃完之後工作大半天都不會覺得累",
+      "zh-CN": "在煎饼上浇上厚厚的一层糖浆，吃完之后干大半天活，都不会觉得累",
+      "ja": "シロップをたーっぷりかけて食べるとね、半日動いてもつかれないんだ！",
+      "ko": "와플 위에 시럽을 듬뿍 뿌려 먹고 나면, 한참 일을 해도 하나도 안 힘들어!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "The north can be really brrrr and the syrup gets really frozen",
+      "zh-TW": "在北方，天氣很冷，糖漿總是會凍成塊",
+      "zh-CN": "在北方，天气很冷，糖浆总是会冻成块",
+      "ja": "北のほうは寒いから、シロップがすぐカチカチになっちゃうの",
+      "ko": "또... 북쪽이 워낙 날씨가 엄청 추워서 시럽이 항상 딱딱하게 얼어버리거든?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Oathkeepers only get proper food when they return to their fort",
+      "zh-TW": "鐵誓軍們只有回到要塞，才有機會吃到好吃的",
+      "zh-CN": "铁誓军们只有回到要塞，才有机会吃到好吃的",
+      "ja": "てっせいぐんのみんなも、ようさいに戻らないとおいしいもの食べられないんだよ",
+      "ko": "그래서 철의 서약군은 요새로 돌아와야만 맛있는 걸 먹을 수 있었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "there the Oathkeepers from all over the world mix nuts from their hometowns then smash the nuts",
+      "zh-TW": "來自不同地方的鐵誓軍會把自己家鄉的堅果放在一起搗碎",
+      "zh-CN": "来自不同地方的铁誓军会把自己家乡的坚果凑到一块，捣成碎",
+      "ja": "みんながそれぞれ持ってきたナッツを集めて、こまかーくして",
+      "ko": "이후 이런 문제를 해결하기 위해, 서로 다른 곳에서 온 철의 서약군들이 각자 고향에서 가져온 견과류를 한데 모아서 잘게 빻아놓고"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "into a nutty paste then make waffle pie",
+      "zh-TW": "用這些堅果碎來做果仁餡餅",
+      "zh-CN": "用这些坚果碎来做果仁馅饼",
+      "ja": "ナッツがいっぱい入ったワッフルを作って",
+      "ko": "이렇게 견과류로 파이를 만든 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "So their frends gets to taste the flavors of their hometowns",
+      "zh-TW": "把家鄉的味道帶給戰友們",
+      "zh-CN": "把家乡的味道带给战友们",
+      "ja": "そしたら、みんなのふるさとの味を食べられるから！",
+      "ko": "덕분에 고향의 맛을 전우들과 나누면서"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "This paste lets everyone try different flavors in one pie",
+      "zh-TW": "這樣能一次嚐到好多不同的風味",
+      "zh-CN": "这样能一次尝到好多不同的风味",
+      "ja": "それに、いっぺんにいろんな味も楽しめるんだよ！",
+      "ko": "한 번에 여러 가지 맛을 맛볼 수 있게 됐지!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "I also tried this really sticky honey waffle when traveling in Hongshan",
+      "zh-TW": "路過宏山的時候，還吃過這種黏黏的蜜餅呢",
+      "zh-CN": "路过宏山的时候，还吃过这种黏糊糊的蜜饼呢",
+      "ja": "宏山でね、このもちもちはちみつワッフル食べた！",
+      "ko": "그리고 홍산에 들렀을 때는 이런 쫀득쫀득한 벌꿀 와플도 있었어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "so the UW waffle and the Oathkeeper waffle and also this waffle are all honey waffles",
+      "zh-TW": "這些這些，都可以叫作蜜餅",
+      "zh-CN": "这些这些，都可以叫作蜜饼",
+      "ja": "これも、これも、ぜーんぶワッフル！",
+      "ko": "이와 비슷한 모든 걸 다 벌꿀 와플이라고 부를 수 있어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "but every waffle has its own taste and story",
+      "zh-TW": "但是味道口感都完全不一樣呢",
+      "zh-CN": "但是味道口感都完全不一样呢",
+      "ja": "でもね、味も食べた感じもぜんぜん違うんだよ",
+      "ko": "하지만 이것들은 맛도 식감도 완전히 달라!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You really know the ropes.",
+      "zh-TW": "原來還有這麼多門道。",
+      "zh-CN": "原来还有这么多门道。",
+      "ja": "ワッフルも奥が深いんだ。",
+      "ko": "벌꿀 와플에 이렇게 깊은 세계가 있을 줄이야..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "It seems to me you're really majoring in honey waffles",
+      "zh-TW": "小刻對蜜餅還真是有研究。",
+      "zh-CN": "小刻对蜜饼可还真是有研究。",
+      "ja": "ケーちゃんは本当にワッフルに詳しいんだね",
+      "ko": "케르는 정말 벌꿀 와플 전문가구나."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "when I visit a new place I allways trade my honey waffles for the local waffles",
+      "zh-TW": "小刻每到一個地方，都會用自己的蜜餅和那裡的人們交換",
+      "zh-CN": "小刻每到一个地方，都会用自己的蜜饼和那里的人们交换",
+      "ja": "おいら、知らないところに行ったらぜったいワッフルこうかんするんだよ",
+      "ko": "케르는 새로운 곳에 갈 때마다 그곳 사람들과 내 벌꿀 와플을 바꿔 먹어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "then I takes the local waffles and their stories to the next place, and i share them with the new locals",
+      "zh-TW": "再把他們的蜜餅和故事帶到下一個地方，和新的朋友分享",
+      "zh-CN": "再把他们的蜜饼和故事带到下一个地方去，和新的朋友分享",
+      "ja": "それで、もらったワッフルと聞いたお話を、次の町でできたお友達に教えてあげるんだ",
+      "ko": "그리고 그 사람들이 만든 벌꿀 와플이랑 이야기를 다음 장소로 가져가서, 새로운 친구들이랑 또 나눠 먹는 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "I see. Is this how you managed to taste all of Talos-II's honey waffles?",
+      "zh-TW": "原來如此，你就是這樣嚐遍了全塔衛二的蜜餅嗎？",
+      "zh-CN": "原来如此，你就是这样尝遍了全塔卫二的蜜饼吗？",
+      "ja": "なるほど。そうやってタロⅡ中のワッフルを食べてきたんだね。",
+      "ko": "그렇구나. 그렇게 해서 탈로스 II의 벌꿀 와플을 전부 맛본 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "U R SO SMRT! YES! all these honey waffles lets me make friends with the whole world",
+      "zh-TW": "沒錯！只要帶著蜜餅，小刻可以和全世界都成為好朋友",
+      "zh-CN": "没错！只要拿上蜜饼，小刻可以和全世界都成为好朋友",
+      "ja": "そうだよ！ワッフルがあれば、世界中みーんなとお友達になれるんだよ",
+      "ko": "맞아! 벌꿀 와플만 있으면 케르는 세상 모든 사람과 친구가 될 수 있어!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Well I wanna be your friend too. Save some of those honey waffles for me!",
+      "zh-TW": "那我也要做你的好朋友，蜜餅記得幫我留點！",
+      "zh-CN": "那我也要做你的好朋友，蜜饼记得给我留点！",
+      "ja": "自分も友達になりたいから、ちゃんとワッフルを取っておいてね。",
+      "ko": "그럼 나도 케르의 좋은 친구가 될 테니까, 내 몫도 꼭 남겨 줘!"
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_chr_0040_sweetpie_17003",
+   "topic": {
+    "en": "\"Really Long Journey\"",
+    "zh-TW": "「很長的路」",
+    "zh-CN": "“很长的路”",
+    "ja": "「ながーい道」",
+    "ko": "'아주 먼 길'"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Endmin, I'm back!!!",
+      "zh-TW": "管理員，小刻回來啦！！！",
+      "zh-CN": "管理员，小刻回来啦！！！",
+      "ja": "管理人！ただいま！！",
+      "ko": "관리자, 케르 왔어!!!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "I got gifts for you this time too",
+      "zh-TW": "這次也幫管理員帶禮物回來了喔",
+      "zh-CN": "这次也给管理员带了礼物回来哦",
+      "ja": "今回もプレゼントがあるんだよ！",
+      "ko": "이번에도 오는 길에 관리자한테 줄 선물을 가져왔지!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You've been exploring? No wonder I didn't see you around. Where did you go this time?",
+      "zh-TW": "難怪有一段時間沒看到小刻了，這次去哪裡了？",
+      "zh-CN": "怪不得有段时间没看到小刻了，这次去了哪儿？",
+      "ja": "最近見かけないと思っていたけど、どこに行っていたの？",
+      "ko": "한동안 케르가 안 보인다 했더니, 이번엔 어디 갔다 온 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Unc Andre said the road north of Valley IV collapsed again",
+      "zh-TW": "安德烈大叔說，四號谷地北邊的公路又坍塌了",
+      "zh-CN": "安德烈大叔说，四号谷地北边的公路又塌方了",
+      "ja": "アンドレイおじちゃんがね、四号谷地の北にある道がまたくずれちゃったって",
+      "ko": "안드레 아저씨가 그러는데, 4번 협곡 북쪽 도로가 또 무너졌대."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "I helped clear a path for the Hub and everyone gave me gifts, so i wanna share them with you",
+      "zh-TW": "小刻去幫忙疏通道路，還收到了大家的禮物，也分管理員一份",
+      "zh-CN": "小刻去帮忙疏通道路，还收到了大家的礼物，也分管理员一份",
+      "ja": "それで道を直すお手伝いをしてきたんだよ！みんなからプレゼントももらったから、管理人にもあげるね",
+      "ko": "그래서 케르가 가서 길을 뚫는 걸 도와줬어. 돌아올 때 거점 사람들이 선물을 줬는데, 관리자 몫도 하나 챙겼지!"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You did a great job. It seems like you've taken on quite a few missions on your own.",
+      "zh-TW": "小刻也辛苦了，最近好像接了不少任務的樣子。",
+      "zh-CN": "小刻也辛苦了，最近好像接了不少任务的样子。",
+      "ja": "お疲れ様。最近は、たくさん任務をしているみたいだね。",
+      "ko": "케르도 고생했어. 요즘 꽤 임무를 많이 처리하는 것 같던데."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You went to La Fantoma and Asphalt Roundabout last week, Morospolis and Simonch the week before...",
+      "zh-TW": "上週去了菈梵朵瑪和艾什柏環島，上上週去了瑪爾斯波利斯和塞夢珂……",
+      "zh-CN": "上周去了菈梵朵玛和艾什柏环岛，上上周去了玛尔斯波利斯和塞梦珂……",
+      "ja": "先週はラヴァンドマとアスファルトロータリー、先々週はモロスポリスとシモンクにも行っていなかった？",
+      "ko": "지난주에는 라반도르마랑 아스팔트 라운드어바웃에 갔고, 지지난주에는 마르스폴리스랑 사이몬크에 갔잖아..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "WOW! you remember everything Endmin",
+      "zh-TW": "哇！管理員居然都記得",
+      "zh-CN": "哇！管理员居然都记得",
+      "ja": "うわ！もしかしてぜんぶ覚えてるの？",
+      "ko": "우와! 다 기억하고 있었어?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Of course I do. You brought me souvenirs from all those places",
+      "zh-TW": "因為你每次都會帶不同的紀念品回來，我當然記得了",
+      "zh-CN": "因为你每次都会带不同的纪念品回来，我当然记得了",
+      "ja": "もちろんだよ。いつも違う記念品を持ってきてくれるからね",
+      "ko": "케르가 다녀올 때마다 다른 기념품을 가져오니까 당연히 기억하지."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You've settled into Endfield's routine, huh.",
+         "zh-TW": "小刻也習慣了終末地的生活了呢。",
+         "zh-CN": "小刻也习惯了终末地的生活了呢。",
+         "ja": "エンドフィールドでの暮らしにもすっかり慣れたみたいだね。",
+         "ko": "케르도 이제 엔드필드에서의 생활에 익숙해졌구나."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I hope we're not tiring you out",
+         "zh-TW": "不會太辛苦吧？",
+         "zh-CN": "不会太辛苦吧？",
+         "ja": "任務は大変じゃないかな",
+         "ko": "너무 힘들진 않아?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "I hope your recent journeys aren't too boring.",
+         "zh-TW": "最近的旅途不會很無聊吧？",
+         "zh-CN": "最近的旅途不会很无聊吧？",
+         "ja": "最近の旅は退屈じゃないかな。",
+         "ko": "요즘 임무 나가는 거 지루하진 않아?"
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Missions are a lot less exciting than an actual vacation.",
+         "zh-TW": "執行任務總是比旅行要枯燥一點。",
+         "zh-CN": "执行任务总是比旅行要枯燥一些。",
+         "ja": "任務と、自由に旅するのとは違うからね。",
+         "ko": "임무를 수행하는 게 아무래도 여행보다는 재미없잖아."
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "dun worry Endmin",
+      "zh-TW": "管理員，不用擔心小刻啦",
+      "zh-CN": "管理员，不用担心小刻啦",
+      "ja": "心配いらないよ！",
+      "ko": "관리자, 케르 걱정 안 해도 돼."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "ive been in Endfield for a while, and i see you and Supervisor Perly working all the time",
+      "zh-TW": "在終末地這麼久，看著管理員和佩麗卡姐姐每天忙前忙後",
+      "zh-CN": "在终末地这么久，看着管理员和佩丽卡姐姐每天忙前忙后",
+      "ja": "エンドフィールドに来てから、管理人もペリカお姉ちゃんも毎日すっごくいそがしそうだし",
+      "ko": "엔드필드에 이렇게 오래 있으면서 관리자랑 펠리카 언니가 매일 바쁘게 뛰어다니는 걸 봤잖아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "so i told myself to never slack off and give help when i am needed",
+      "zh-TW": "小刻不能落後！小刻也要出現在需要我的地方",
+      "zh-CN": "小刻不能落下！小刻也要出现在需要我的地方",
+      "ja": "おいらも負けてられない！困ってる人がいたら、助けに行くぞ",
+      "ko": "케르도 뒤처질 순 없지! 케르도 항상 나를 필요로 하는 곳에 나타날 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "so my journeys are no longer about vakays",
+      "zh-TW": "所以小刻的旅途，也不只是旅行而已",
+      "zh-CN": "所以小刻的旅途，也不只是旅行而已",
+      "ja": "だからね、今は旅をしてるだけじゃないんだよ",
+      "ko": "그러니까 케르의 여정은 그냥 여행만 하는 게 아니야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "when i see abandoned rest stops, i will try to see if the roof can be fixed and if the water purifiers still work",
+      "zh-TW": "看到路邊廢棄的休息站，總想看看屋頂還能不能修，淨水器還能不能用",
+      "zh-CN": "看到路边废弃的休息站，总想看看屋顶还能不能修，净水器还能不能用",
+      "ja": "とちゅうできゅうけい所を見つけたら、屋根を直せないかな、水をきれいにできるかなって",
+      "ko": "길가에 버려진 휴게소가 보이면, 지붕을 손볼 수 있는지, 정수기에서 물은 나오는지 꼭 확인해 보고 싶어져."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "i just wanna fix up the place before bad weather comes",
+      "zh-TW": "想趁著壞天氣來臨之前，看看能不能把那裡修好",
+      "zh-CN": "想趁着坏天气来临之前，看看能不能把那里修好",
+      "ja": "天気がわるくなる前に、直してあげたいから！",
+      "ko": "날씨가 나빠지기 전에 고칠 수 있을까 싶어서."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "You're very kind and caring, Kay",
+      "zh-TW": "小刻總是先關心這些。",
+      "zh-CN": "小刻总是先关心这些。",
+      "ja": "ケーちゃんはいつも、そういうところを気にかけてるんだね",
+      "ko": "케르는 항상 그런 것들을 신경 쓰는구나."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "cos these things are really important when i was roaming the wilds",
+      "zh-TW": "因為在荒野裡，這些就是最重要的事嘛",
+      "zh-CN": "因为在荒野里，这些就是最重要的事嘛",
+      "ja": "荒野では、そういうのがいちばん大切なんだよ",
+      "ko": "황무지에서는 그런 게 제일 중요한 일이거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "when i visit a strange place, i look for clean water first, then i look for sturdy walls and roof for shelter",
+      "zh-TW": "走到陌生的地方先找乾淨的水源，再看看有沒有能遮風擋雨的牆",
+      "zh-CN": "走到陌生的地方先找干净的水源，再看看有没有能遮风挡雨的墙",
+      "ja": "知らないところでは、まずきれいなお水を探して、雨や風をよけられる場所を探して",
+      "ko": "낯선 곳에 도착하면 먼저 깨끗한 물이 있는지 찾고, 비바람을 피할 수 있는 벽이 있는지 확인해야 해."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "and of course i wud think about making food that doesnt make my tummy hurt",
+      "zh-TW": "再想想怎麼做一頓吃了不會肚子痛的飽飯",
+      "zh-CN": "再想想怎么做一顿吃了不会闹肚子的饱饭",
+      "ja": "それからそれから、たくさん食べてもお腹がいたくならないごはんを考える！",
+      "ko": "그리고 배탈 나지 않고 배부르게 먹을 수 있는 음식을 찾아야 하지."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "That sounds like a really tough time. Is that how you survived the wildlands?",
+      "zh-TW": "聽起來太艱苦了，小刻自己在荒野裡是這樣過的嗎？",
+      "zh-CN": "听起来太艰苦了，小刻自己在荒野里是这样过的吗？",
+      "ja": "大変そうだね。ケーちゃんも前はそういう旅をしていたのかな。",
+      "ko": "듣기만 해도 너무 고되네... 케르도 혼자 황무지를 돌아다닐 때 그렇게 지냈던 거야?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "its ok. im not roaming the wilds anymore! all my journeys are happy now",
+      "zh-TW": "沒有啦，小刻早就不需要那樣了！小刻的旅途總是很快樂的",
+      "zh-CN": "没有啦，小刻早就不需要那样了！小刻的旅途总是很快乐的",
+      "ja": "ううん！おいらは大丈夫だよ！旅ってすっごく楽しいから",
+      "ko": "아니, 케르는 이제 그렇게 지내지 않아! 케르의 여행은 언제나 즐거움이 가득하거든."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "but there are still a lot of people living it tough on Talos-II",
+      "zh-TW": "但是在塔衛二，還是能看到有許多人在過著那樣艱苦的日子",
+      "zh-CN": "但是在塔卫二，还是能看到有许多人在过着那样艰苦的日子",
+      "ja": "でも、タロⅡには、まだ大変な中で暮らしてる人がいっぱいいるんだよ",
+      "ko": "하지만 탈로스 II를 돌아다니다 보면, 아직도 그렇게 힘든 생활을 하는 사람들이 정말 많더라고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "can i give them a home",
+      "zh-TW": "能讓那些人不再流浪嗎",
+      "zh-CN": "能让那些人不再流浪吗",
+      "ja": "みんなが安心して暮らせるようになるかな？",
+      "ko": "그 사람들이 더는 힘든 환경에서 떠돌지 않게 해줄 순 없을까..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "can i make their journeys happy too",
+      "zh-TW": "能讓那些人的旅途也快樂起來嗎",
+      "zh-CN": "能让那些人的旅途也快乐起来吗",
+      "ja": "みんなの旅をもーっと楽しい旅にできるかな？",
+      "ko": "그 사람들의 여행도 즐겁게 만들어줄 순 없을까... 정말 많이 고민했어."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "well now i have skills and exper-teese",
+      "zh-TW": "現在小刻有能力，有本領",
+      "zh-CN": "现在小刻有能力，有本领",
+      "ja": "今のおいらはね、いろんなことができるようになったから",
+      "ko": "하지만 이제 케르에게는 힘도 있고, 할 수 있는 일도 많아."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Endfield and Endmin are with me too",
+      "zh-TW": "身邊還有終末地和管理員",
+      "zh-CN": "身边还有终末地和管理员",
+      "ja": "エンドフィールドのみんなも、管理人もいるし",
+      "ko": "게다가 곁에는 엔드필드랑 관리자도 있고."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "I definitely can",
+      "zh-TW": "小刻一定可以做到",
+      "zh-CN": "小刻肯定可以做到",
+      "ja": "きっとできると思うんだ",
+      "ko": "응! 케르라면 분명 할 수 있을 거야."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That sounds really nice.",
+         "zh-TW": "聽起來很美好。",
+         "zh-CN": "听起来很美好。",
+         "ja": "素敵だね。",
+         "ko": "정말 멋지네."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Is that your dream?",
+         "zh-TW": "這就是小刻現在的夢想嗎？",
+         "zh-CN": "这就是小刻现在的梦想吗？",
+         "ja": "それが、今のケーちゃんの夢かな。",
+         "ko": "이게 케르의 꿈이야?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "That sounds incredible.",
+         "zh-TW": "聽起來很了不起啊。",
+         "zh-CN": "听起来很了不起呀。",
+         "ja": "すごいね。",
+         "ko": "정말 대단하네."
+        }
+       },
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "Is that your wish?",
+         "zh-TW": "這就是小刻現在的願望嗎？",
+         "zh-CN": "这就是小刻现在的愿望吗？",
+         "ja": "それが、今のケーちゃんの願いかな。",
+         "ko": "이게 케르가 바라는 일이야?"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "YES!! its the thing i want to acheev with you Endmin",
+      "zh-TW": "對啊對啊！這就是小刻想和管理員一起做到的事",
+      "zh-CN": "对呀对呀！这就是小刻想和管理员一起做到的事",
+      "ja": "うんうん！管理人と一緒にかなえたいんだ",
+      "ko": "맞아! 이게 바로 케르가 관리자랑 같이 하고 싶은 일이야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "Endmin youll help me right?",
+      "zh-TW": "管理員，你會幫小刻的，對吧？",
+      "zh-CN": "管理员，你会帮小刻的，对吧？",
+      "ja": "管理人も手伝ってくれるよね？",
+      "ko": "관리자, 케르 도와줄 거지?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Of course, Kay. Your dream is also part of the Endfield vision.",
+      "zh-TW": "當然了，小刻的願景，也是終末地願景的一部分。",
+      "zh-CN": "当然了，小刻的愿景，也是终末地愿景的一部分。",
+      "ja": "もちろん。ケーちゃんの夢は、エンドフィールドが目指すものでもあるからね。",
+      "ko": "물론이지. 케르가 그리는 미래 역시 엔드필드가 그리는 미래의 일부니까."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "We'll need to make a really long journey before we make it a reality.",
+      "zh-TW": "要把它變為現實，肯定還有很長的路要走。",
+      "zh-CN": "要把它变为现实，肯定还有很长的路要走。",
+      "ja": "でも、叶えるまでには、まだまだ長い道のりになりそうだよ。",
+      "ko": "그걸 현실로 만들려면 앞으로 아주 먼 길을 걸어야 할 거야."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Kay",
+      "zh-TW": "小刻",
+      "zh-CN": "小刻",
+      "ja": "ケーちゃん",
+      "ko": "케르"
+     },
+     "text": {
+      "en": "dun worry ill definitely complete it no matter how really long it takes",
+      "zh-TW": "不論多長的路，小刻都能把它走下去",
+      "zh-CN": "不论多长的路，小刻都能把它走下去",
+      "ja": "どんなに長くても、おいら歩いてみせるよ",
+      "ko": "아무리 먼 길이라도 케르는 끝까지 갈 수 있어."
+     }
+    }
+   ]
+  }
+ ],
+ "skipped": 5
+}

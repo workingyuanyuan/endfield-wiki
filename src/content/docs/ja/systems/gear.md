@@ -1,25 +1,25 @@
 ---
 title: "装備セット"
 description: "『アークナイツ：エンドフィールド』の全24装備セットの3セット効果、装備レベル、4つの表記での名称。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。装備セットとセット効果はゲームデータ 1.6 による"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。装備セットとセット効果はゲームデータ 1.7 による"
 caveat: "どのセットにも3セット効果しかなく、オペレーターが装着できる装備は4部位のため、1人のオペレーターで発動できるセット効果は最大1つである。"
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-05
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Gear sets
   - 裝備套裝
   - 装备套装
   - 장비 세트
 sources:
-  - title: "warfarin.wiki、装備と装備セット（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、装備と装備セット（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/gear
-  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
-  - title: "warfarin.wiki、オペレーターページ（ゲームデータ 1.6 の装備適正ノード）"
+  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
+  - title: "warfarin.wiki、オペレーターページ（ゲームデータ 1.7 の装備適正ノード）"
     url: https://warfarin.wiki/en/operators/laevatain
-  - title: "warfarin.wiki、チュートリアル「装備」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「装備」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_equip
-  - title: "warfarin.wiki、チュートリアル「精密加工」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「精密加工」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_equip_enhance
   - title: "Endfield Talos Wiki、Gear（非セット装備）"
     url: https://endfield.wiki.gg/wiki/Gear
@@ -33,6 +33,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5208
   - title: "「丹青渡」 バージョンアップデートについて"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "「キノコ菌グ！？君との大冒険！」 バージョンアップデートについて"
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 装備の仕組み
@@ -48,7 +50,7 @@ sources:
 
 - 装備は防御力のほか能力値などのステータスを上げる。例えばレベル36の胴装備である遍歴トランスポータージャケットは防御力+28、敏捷+44、知性+29、攻撃力+16を与える。
 - 4つのセット（重装トランスポーター、遍歴トランスポーター、蝕電遮断、蝕電防護）にはレベル36とレベル50の両方があり、セット効果は共通である。
-- ゲームデータ1.6の装備は全276点で、うち228点がこの24セットに属する。残りは非セット装備で、同品質のセット装備よりステータスがわずかに高い。
+- ゲームデータ1.7の装備は全291点で、うち238点がこの24セットに属する。残りは非セット装備で、同品質のセット装備よりステータスがわずかに高い。
 - リリース後に追加されたセットは4つある。バージョン1.2の壌流と清波、バージョン1.4の集成訓練、バージョン1.5の天険である。
 - バージョン1.4で追加された渡淵は、バージョン1.4のアップデート説明では新たな装備セットとして挙げられているが、セット効果を持たない非セット装備である。
 
@@ -74,12 +76,12 @@ sources:
 | 遍歴トランスポーター | Roving MSGR | 巡行信使 | 巡行信使 | 36、50 | 星3、星4 | 9 |
 | アブリー遺声 | Aburrey's Legacy | 阿伯莉遺聲 | 阿伯莉遗声 | 50 | 星4 | 11 |
 | 天災防護 | Catastrophe | 天災防護 | 天灾防护 | 50 | 星4 | 6 |
-| 集成訓練 | AIC Fieldwork | 集成實訓 | 集成实训 | 60 | 星5 | 18 |
+| 集成訓練 | AIC Fieldwork | 集成實訓 | 集成实训 | 60 | 星5 | 21 |
 | 軽量超域 | Æthertech | 輕超域 | 轻超域 | 70 | 星5 | 7 |
 | 骨砕 | Bonekrusha | 碾骨 | 碾骨 | 70 | 星5 | 14 |
 | 天険 | Deep Rampart | 險關 | 险关 | 70 | 星5 | 3 |
-| 流転 | Eternal Xiranite | 長息 | 长息 | 70 | 星5 | 17 |
-| パイオニア | Frontiers | 拓荒 | 拓荒 | 70 | 星5 | 14 |
+| 流転 | Eternal Xiranite | 長息 | 长息 | 70 | 星5 | 18 |
+| パイオニア | Frontiers | 拓荒 | 拓荒 | 70 | 星5 | 20 |
 | 旧鋒 | Grizzled Edge | 舊鋒 | 旧锋 | 70 | 星5 | 6 |
 | 火山用 | Hot Work | 動火用 | 动火用 | 70 | 星5 | 10 |
 | 生物補助 | LYNX | 生物輔助 | 生物辅助 | 70 | 星5 | 11 |
@@ -91,7 +93,7 @@ sources:
 | 50式応龍 | Type 50 Yinglung | 50式應龍 | 50式应龙 | 70 | 星5 | 14 |
 | 壌流 | Xiranflow | 壤流 | 壤流 | 70 | 星5 | 3 |
 
-部位数はゲームデータ1.6における全レベル合計の装備点数である。繁体字中国語と簡体字中国語で字体以外の違いがある名称は、AIC Heavy・AIC Light（整合と集成）とMordvolt Insulation（絕緣と屏蔽）の3つである。
+部位数はゲームデータ1.7における全レベル合計の装備点数である。繁体字中国語と簡体字中国語で字体以外の違いがある名称は、AIC Heavy・AIC Light（整合と集成）とMordvolt Insulation（絕緣と屏蔽）の3つである。
 
 ## 3セット効果
 

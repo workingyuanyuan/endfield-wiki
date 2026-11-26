@@ -1,10 +1,10 @@
 ---
 title: 오퍼레이터 목록
-description: "《명일방주: 엔드필드》 1.6 버전의 플레이 가능한 오퍼레이터는 34명이며, 공식 사이트에는 37개 항목이 있다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 공식 오퍼레이터 목록은 2026-11-21에 읽은 것"
-caveat: "공식 목록의 37개 항목은 플레이 가능한 오퍼레이터 37명이 아니다. 관리자가 2번 나오고, Kay와 Mimino는 1.6 버전까지 어떤 업데이트 설명에도 나오지 않는다."
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-21
+description: "《명일방주: 엔드필드》 1.7 버전의 오퍼레이터는 36명이며, 공식 사이트에는 37개 항목이 있다."
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 공식 오퍼레이터 목록은 2026-11-26에 읽은 것"
+caveat: "공식 목록에는 37개 항목이 있지만 오퍼레이터는 36명이다. 관리자가 2번 나오기 때문이다. 미미노는 2026-12-16부터 이벤트로 지급되며 어떤 헤드헌팅에도 포함되지 않는다."
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Operators list
   - 幹員列表
@@ -17,18 +17,20 @@ sources:
     url: https://endfield.hypergryph.com/operator
   - title: "「단청도」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/9560
-  - title: "warfarin.wiki, 오퍼레이터 목록(게임 데이터 1.6)"
+  - title: "「뜻밖의 만남, 버섯 동산 대모험」 버전 업데이트 설명"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki, 오퍼레이터 목록(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators
 ---
 
 ## 인원
 
-공식 사이트의 37개 항목은 게임 데이터의 34명에 관리자의 두 번째 항목(한 오퍼레이터의 두 외형)과 Kay(6성, 뱅가드, 자연), Mimino(5성, 서포터, 물리)를 더한 것이다.
+케르와 미미노는 1.7 버전에서 추가되었다.
 
-| 희귀도 | 공식 사이트 항목 수 | 1.6에서 플레이 가능 |
+| 희귀도 | 공식 사이트 항목 수 | 1.7 버전 오퍼레이터 |
 | --- | --- | --- |
-| 6성 | 20 | 19 |
-| 5성 | 11 | 10 |
+| 6성 | 20 | 20 |
+| 5성 | 11 | 11 |
 | 4성 | 5 | 5 |
 
 ## 모든 오퍼레이터
@@ -44,7 +46,7 @@ sources:
 | [엠버](/ko/operators/ember/) | 餘燼 / 余烬 | 6 | 디펜더 | 열기 |
 | [관리자](/ko/operators/endministrator/) | 管理員 / 管理员 | 6 | 가드 | 물리 |
 | [질베르타](/ko/operators/gilberta/) | 潔爾佩塔 / 洁尔佩塔 | 6 | 서포터 | 자연 |
-| Kay | 小刻 | 6 | 뱅가드 | 자연 |
+| [케르](/ko/operators/kay/) | 小刻 | 6 | 뱅가드 | 자연 |
 | [레바테인](/ko/operators/laevatain/) | 萊萬汀 / 莱万汀 | 6 | 스트라이커 | 열기 |
 | [라스트 라이트](/ko/operators/last-rite/) | 別禮 / 别礼 | 6 | 스트라이커 | 냉기 |
 | [여풍](/ko/operators/lifeng/) | 黎風 / 黎风 | 6 | 가드 | 물리 |
@@ -62,7 +64,7 @@ sources:
 | [아비웨나](/ko/operators/avywenna/) | 艾維文娜 / 艾维文娜 | 5 | 스트라이커 | 전기 |
 | [진천우](/ko/operators/chen-qianyu/) | 陳千語 / 陈千语 | 5 | 가드 | 물리 |
 | [판](/ko/operators/da-pan/) | 大潘 | 5 | 스트라이커 | 물리 |
-| Mimino | 米米諾 / 米米诺 | 5 | 서포터 | 물리 |
+| 미미노 | 米米諾 / 米米诺 | 5 | 서포터 | 물리 |
 | [펠리카](/ko/operators/perlica/) | 佩麗卡 / 佩丽卡 | 5 | 캐스터 | 전기 |
 | [푸치나](/ko/operators/purrchena/) | 噗切娜 | 5 | 디펜더 | 물리 |
 | [스노우샤인](/ko/operators/snowshine/) | 晝雪 / 昼雪 | 5 | 디펜더 | 냉기 |

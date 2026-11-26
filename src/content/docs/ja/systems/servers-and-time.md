@@ -1,10 +1,10 @@
 ---
 title: "サーバーと時間"
 description: "『アークナイツ：エンドフィールド』のAsia（UTC+8）とAmericas / Europe（UTC-5）サーバー。進行は共有されない。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版（Asiaサーバー、Americas / Europeサーバー）、バージョン1.6"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版（Asiaサーバー、Americas / Europeサーバー）、バージョン1.7"
 caveat: "サーバー時間は各サーバー固有の時刻である。サーバー時間表記の時刻はAmericas / Europeサーバーで13時間遅く訪れるが、アップデートメンテナンスは両サーバーで同時に始まる。"
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Servers and time
   - 伺服器與時間
@@ -55,6 +55,8 @@ sources:
     url: https://endfield.wiki.gg/wiki/Version
   - title: "『アークナイツ：エンドフィールド』がGeForce NOWに対応 – FAQ"
     url: https://endfield.gryphline.com/en-us/news/8906
+  - title: "「キノコ菌グ！？君との大冒険！」 バージョンアップデートについて"
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 2つのサーバー
@@ -92,6 +94,7 @@ sources:
 | [1.4 向淵行](/ja/versions/1-4/) | 2026-07-16 06:00〜12:00 |
 | [1.5 雪氷の幽夢](/ja/versions/1-5/) | 2026-09-02 06:00〜12:00 |
 | [1.6 丹青渡](/ja/versions/1-6/) | 2026-10-15 06:00〜12:00 |
+| [1.7 キノコ菌グ！？君との大冒険！](/ja/versions/1-7/) | 2026-11-25 06:00〜12:00 |
 
 [バージョン1.0](/ja/versions/1-0/)は正式リリースで始まり、アップデートメンテナンスはなかった。いずれのアップデートも強制更新であり、メンテナンス中はログインできない。メンテナンス予告は実施の2〜5日前に時間帯を知らせる。
 

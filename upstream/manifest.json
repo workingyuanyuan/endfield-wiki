@@ -1,10 +1,46 @@
 {
 	"api": "https://web-news.gryphline.com/api/bulletin?lang=en-us&code=arknights_endfield_official",
-	"read": "2026-11-22",
+	"read": "2026-11-26",
 	"notices": [
 		{
+			"cid": "0740",
+			"title": "[Meeting You in the World o'Shrooms] Version Update Notes",
+			"date": "2026-11-25",
+			"tab": "notices"
+		},
+		{
+			"cid": "8992",
+			"title": "[To Every Wish Adrift] RE-Factor Headhunting #1 and [Floaty Traveler Issue] RE-Factor Issue #1 Open",
+			"date": "2026-11-24",
+			"tab": "notices"
+		},
+		{
+			"cid": "5204",
+			"title": "[Anvil, Backpack, Plus A Pot o'Honey] Chartered Headhunting",
+			"date": "2026-11-24",
+			"tab": "notices"
+		},
+		{
+			"cid": "2659",
+			"title": "[Casual Roamer Issue] LTO Details",
+			"date": "2026-11-24",
+			"tab": "notices"
+		},
+		{
+			"cid": "6177",
+			"title": "Discord Game Stats Widget Update",
+			"date": "2026-11-23",
+			"tab": "news"
+		},
+		{
+			"cid": "3835",
+			"title": "[Meeting You in the World o'Shrooms] Version Pre-Download & Update Notice",
+			"date": "2026-11-23",
+			"tab": "notices"
+		},
+		{
 			"cid": "7011",
-			"title": "Arknights: Endfield [Meeting You in the World o'Shrooms] Version DEV Comm",
+			"title": "[Meeting You in the World o'Shrooms] Version DEV Comm",
 			"date": "2026-11-22",
 			"tab": "news"
 		},
@@ -826,45 +862,25 @@
 		}
 	],
 	"cited": {
-		"2652": {
-			"title": "[Seal of Jade Issue] LTO Details",
-			"sha256": "c6c01cda270f6baa927b1e25862d34e848a22960cbbebaae481b154e164dea01",
-			"characters": 1714
+		"2659": {
+			"title": "[Casual Roamer Issue] LTO Details",
+			"sha256": "8c90ab42d9a7e86c9b16bad0e6b5ab4d1336b637ca10f1f8c68d68de3f3d8723",
+			"characters": 1808
 		},
-		"3837": {
-			"title": "Arknights: Endfield Is Now Officially Available on Steam!",
-			"sha256": "d6a6ee43e5db70c20b66ee9a2809c2254bcfc90dbbfa8a3fbf03b4c4462b313c",
-			"characters": 7179
+		"5204": {
+			"title": "[Anvil, Backpack, Plus A Pot o'Honey] Chartered Headhunting",
+			"sha256": "1c617fbb789399d0c0860ea237a48ffdaddcf89798b30750d7b431ece4a37f3d",
+			"characters": 4606
 		},
-		"4489": {
-			"title": "[Rejuvenation] Chartered Headhunting",
-			"sha256": "cfaa6054297c94e717f145ac0ebcfe2f225b7adc72579a9d4ace70f516cca050",
-			"characters": 4402
+		"8992": {
+			"title": "[To Every Wish Adrift] RE-Factor Headhunting #1 and [Floaty Traveler Issue] RE-Factor Issue #1 Open",
+			"sha256": "5293551a0e4bf36bd4460edee00eebafe400cdb7b9de23701d865b5daa7fe28d",
+			"characters": 3235
 		},
-		"5206": {
-			"title": "Arknights: Endfield Steam Client Account Linking Guide",
-			"sha256": "9b80067a992a1f0ee933d36c466cb2f025de94b5335a015e92e377b42e4b2ee5",
-			"characters": 2851
-		},
-		"6178": {
-			"title": "[Moongleam Issue] LTO Details",
-			"sha256": "8dc078511757dfbf552d1fc464d20afc7118fa40f29cf9eabbdeed689422ceca",
-			"characters": 1779
-		},
-		"6179": {
-			"title": "[Ancestral Spring Flows Anew] RE-Factor Headhunting #1 and [Tender Sprig Issue] RE-Factor Issue #1 Available",
-			"sha256": "113469ddc30bdef1c00290d786800c37c5d75b74fce5d00a70886e9b357fea69",
-			"characters": 3252
-		},
-		"7012": {
-			"title": "[The Hearth Fire Beckons the Starry Flow] Chartered Headhunting",
-			"sha256": "0bbfce326d53bbae95681277873ee5db04a3bcc49e22da5afb41412aef57d0d3",
-			"characters": 4659
-		},
-		"9560": {
-			"title": "[Sanctuary of Ink] Version Update Notes",
-			"sha256": "19e814b21ea5441146b1ed62765dac9e5b459bbc18543bcbd609a80d79b5fb80",
-			"characters": 23450
+		"0740": {
+			"title": "[Meeting You in the World o'Shrooms] Version Update Notes",
+			"sha256": "55cb3c023d4be6d7f9b2f91ef581f47defd805765793cf08694702922363f8d4",
+			"characters": 18724
 		}
 	},
 	"operators": [

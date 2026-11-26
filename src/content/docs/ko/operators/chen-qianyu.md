@@ -1,9 +1,9 @@
 ---
 title: "진천우"
 description: "진천우는 한손검을 사용하는 5성 물리 속성 가드 오퍼레이터로, 모든 계정이 처음부터 보유한다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "모든 계정이 게임 시작부터 진천우를 보유한다. 진천우는 상시 헤드헌팅 명단에도 있다."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-01-22
 aliases:
   - "Chen Qianyu"
@@ -16,10 +16,10 @@ art:
 sources:
   - title: "공식 오퍼레이터 목록(Gryphline)"
     url: https://endfield.gryphline.com/en-us/operator
-  - title: "warfarin.wiki, 진천우(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 진천우(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/chen-qianyu
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Chen Qianyu"
     url: https://endfield.wiki.gg/wiki/Chen_Qianyu
 ---

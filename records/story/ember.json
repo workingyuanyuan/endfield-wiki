@@ -1,7 +1,7 @@
 {
  "slug": "ember",
  "gameId": "chr_0009_azrila",
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "files": [
   {
    "id": "CN_01",
@@ -371,7 +371,7 @@
   {
    "id": "chr_0009_azrila_mono_switch_01",
    "title": {
-    "en": "Standing by 1",
+    "en": "Standing By 1",
     "zh-TW": "待命1",
     "zh-CN": "待命1",
     "ja": "待機1",
@@ -389,7 +389,7 @@
   {
    "id": "chr_0009_azrila_mono_switch_02",
    "title": {
-    "en": "Standing by 2",
+    "en": "Standing By 2",
     "zh-TW": "待命2",
     "zh-CN": "待命2",
     "ja": "待機2",
@@ -531,7 +531,7 @@
     "ko": "제강호 잡담 4"
    },
    "text": {
-    "en": "High-altitude drops into warzones are standard for my unit. Yet, up here, the very idea of altitude starts to fade.",
+    "en": "High-altitude drops into warzones are standard for my Assault Banner — we even train specifically for them. Yet, up here, the very idea of altitude starts to fade.",
     "zh-TW": "我所在的陷陣旗隊經常從高空跳進戰區，為此還會進行針對性訓練。不過到了這個高度，連距離的概念都變模糊了。",
     "zh-CN": "我所在的陷阵旗队经常从高空跳进战区，为此还会进行针对性训练。不过到了这个高度，连距离的概念都变模糊了。",
     "ja": "我が突陣旗隊では、上空から戦場へと直接降下することも珍しくない。そのための特別訓練も受け、心得もある。だが、この高さともなれば、距離の概念さえ曖昧に感じるものだな。",

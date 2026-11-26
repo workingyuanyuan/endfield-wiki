@@ -1,10 +1,10 @@
 ---
 title: "Last Rite"
 description: "Last Rite is a 6-star Cryo Striker with a greatsword; in the standard headhunting roster."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
 caveat: "Last Rite has never been the rate-up operator of a banner. Last Rite is one of five standard 6-star operators listed in every Chartered Headhunting pool."
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-28
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "別禮"
   - "别礼"
@@ -20,14 +20,18 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3839
   - title: "Ancestral Spring Flows Anew RE-Factor Headhunting #1"
     url: https://endfield.gryphline.com/en-us/news/6179
+  - title: "To Every Wish Adrift RE-Factor Headhunting #1"
+    url: https://endfield.gryphline.com/en-us/news/8992
+  - title: "Precious Scarlet RE-Factor Headhunting #1"
+    url: https://endfield.gryphline.com/en-us/news/0740
   - title: "Old Deep Water Dies, by Rising Tide It is Denied Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/8907
   - title: "At the Wake of Spring Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/0751
-  - title: "warfarin.wiki, Last Rite (game data 1.6)"
+  - title: "warfarin.wiki, Last Rite (game data 1.7)"
     url: https://warfarin.wiki/en/operators/last-rite
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Last Rite"
     url: https://endfield.wiki.gg/wiki/Last_Rite
 ---
@@ -65,6 +69,8 @@ Banners other than Chartered Headhunting that listed Last Rite:
 | --- | --- | --- | --- | --- |
 | Resplendent Spectrum | RE-Factor Headhunting #1 | In the pool | 2026-09-24 12:00 | Version 1.6 update, 2026-10-15 |
 | Ancestral Spring Flows Anew | RE-Factor Headhunting #1 | In the pool | 2026-10-29 12:00 | 2026-11-19 11:59 |
+| To Every Wish Adrift | RE-Factor Headhunting #1 | In the pool | Version 1.7 update, 2026-11-25 | 2026-12-16 11:59 |
+| Precious Scarlet | RE-Factor Headhunting #1 | In the pool | 2026-12-16 12:00 | End of Version 1.7 |
 
 ## Recommended weapons
 

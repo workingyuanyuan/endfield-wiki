@@ -23,7 +23,7 @@ from gametext import inline, quoted  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DOCS = os.path.join(ROOT, 'src', 'content', 'docs')
-TODAY = '2026-11-22'
+TODAY = '2026-11-26'
 EN, ZH, JA, KO = 'en', 'zh-TW', 'ja', 'ko'
 LANGS = (EN, ZH, JA, KO)
 FOLDER = {EN: '', ZH: 'zh-tw', JA: 'ja', KO: 'ko'}
@@ -134,8 +134,8 @@ RECOMMEND = load('recommend.json')
 BASE = load('base-skills.json')
 ESSENCE = load('weapon-essence.json')
 WEAPON = {w['id']: w for w in load('weapons.json')}
-GAME_TABLES = (RECOMMEND['source'], {EN: 'rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)', ZH: 'rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）',
-                                     JA: 'rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）', KO: 'rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)'})
+GAME_TABLES = (RECOMMEND['source'], {EN: 'rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)', ZH: 'rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）',
+                                     JA: 'rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）', KO: 'rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)'})
 ATTR_KEY = {'Strength': 'str', 'Agility': 'agi', 'Intellect': 'int', 'Will': 'will'}
 def percent(v):
     return f"{round(v * 100, 2):g}%"
@@ -468,10 +468,10 @@ def page(op, lang):
     aliases = aliases_of(op['name'], n)
 
     fm = ['---', f'title: {quote(n)}', f'description: {quote(desc)}',
-          'appliesTo: ' + quote(L(f"Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data {gv}",
-                                  f"《明日方舟：終末地》國際版，1.6 版；技能文字與數值出自遊戲資料 {gv}",
-                                  f"『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。スキル説明と数値はゲームデータ {gv} による",
-                                  f"《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 {gv} 기준")),
+          'appliesTo: ' + quote(L(f"Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data {gv}",
+                                  f"《明日方舟：終末地》國際版，1.7 版；技能文字與數值出自遊戲資料 {gv}",
+                                  f"『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。スキル説明と数値はゲームデータ {gv} による",
+                                  f"《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 {gv} 기준")),
           f'caveat: {quote(caveat(op, st, lang))}', f'lastVerified: {TODAY}', f'effectiveDate: {max(dates)}', 'aliases:']
     fm += [f'  - {quote(a)}' for a in aliases]
     fm += ['art:', '  - title: ' + L('Operator list', '幹員列表', 'オペレーター一覧', '오퍼레이터 목록'), '    url: https://endfield.gryphline.com/en-us/operator', 'sources:']

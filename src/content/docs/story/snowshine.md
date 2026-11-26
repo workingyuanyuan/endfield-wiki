@@ -1,17 +1,17 @@
 ---
 title: "Snowshine's file"
 description: "Snowshine's 6 operator files, 79 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "晝雪的檔案"
   - "昼雪的档案"
   - "スノーシャインのプロファイル"
   - "스노우샤인의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -133,8 +133,8 @@ sources:
 | Operator Promotion 3 | I upgraded all my SAR ice-making Arts Units this time, Endmin! Look! I just built a temporary igloo! Come on in for a sleepover! | Promotion III |
 | Operator Promotion 4 | The time I spent with Endfield taught me many new things, and gave me many wonderful memories... Thanks for placing your faith in me, Endmin. From henceforth, I shall continue to climb ever higher peaks ... and to rescue as many people as I can. | Promotion IV |
 | Operator Reporting for Duty | Greetings! I'm your operator from Rhodes Island. Codename's Snowshine. I'm a search and rescue expert specializing in low temperature operations. Get me on the team if you have a mission in the icefields or snowy mountains. |  |
-| Standing by 1 | Wanna come snowboarding with me, Endmin? |  |
-| Standing by 2 | Wind speed's okay. Visibility's good. Perfect weather for snowboarding. |  |
+| Standing By 1 | Wanna come snowboarding with me, Endmin? |  |
+| Standing By 2 | Wind speed's okay. Visibility's good. Perfect weather for snowboarding. |  |
 | Assigning to Facility | Not a problem! I've actually tried every job at this place! And they're way simpler than putting up fortifications! |  |
 | Greeting 1 | Greetings, Endmin. |  |
 | Greeting 2 | Need a hand, Endmin? I can be your defender! | Reach trust: 300 |

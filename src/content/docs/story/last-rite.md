@@ -1,17 +1,17 @@
 ---
 title: "Last Rite's file"
 description: "Last Rite's 6 operator files, 82 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "別禮的檔案"
   - "别礼的档案"
   - "ラストライトのプロファイル"
   - "라스트 라이트의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -171,8 +171,8 @@ sources:
 | Operator Promotion 3 | Acknowledged. I shall forge a path through fire and blood in your name, and shall not falter in the face — Umm... Why are you looking so ... tense? | Promotion III |
 | Operator Promotion 4 | I realized that I can be a lot more helpful to everyone if I stay. If my contract with Seš'qa expires, you can contact me... O-oh no! I wasn't supposed to say that! Please... Don't tell anyone about this... | Promotion IV |
 | Operator Reporting for Duty | Seš'qa liaison, reporting in for duty... My name... I-I mean my codename's Last Rite... Just call me that... |  |
-| Standing by 1 | The training must continue. I must master this power... |  |
-| Standing by 2 | And I hope that our battles may bring about peace. |  |
+| Standing By 1 | The training must continue. I must master this power... |  |
+| Standing By 2 | And I hope that our battles may bring about peace. |  |
 | Assigning to Facility | Understood! I shall throw in ten times the effort...! No, I mean, one hundred and twenty times! |  |
 | Greeting 1 | Endministrator?! H-ho-how are you...? |  |
 | Greeting 2 | Need help with anything, Endmin? | Reach trust: 300 |

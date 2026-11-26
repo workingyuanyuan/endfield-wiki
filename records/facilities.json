@@ -137,9 +137,9 @@
  {
   "id": "liquid_cleaner_1",
   "name": {
-   "en": "Water Treatment Unit",
-   "zh-TW": "廢水處理機",
-   "zh-CN": "废水处理机"
+   "en": "Waste Treatment Unit",
+   "zh-TW": "廢料處理機",
+   "zh-CN": "废料处理机"
   },
   "group": "Production I",
   "power": 50,

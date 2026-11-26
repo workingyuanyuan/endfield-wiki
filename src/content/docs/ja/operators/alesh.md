@@ -1,9 +1,9 @@
 ---
 title: "アレッシュ"
 description: "アレッシュは片手剣を使う星5・寒冷属性の先鋒オペレーターで、恒常のスカウト対象である。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。スキル説明と数値はゲームデータ 1.6 による"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。スキル説明と数値はゲームデータ 1.7 による"
 caveat: "アレッシュには出現率アップ対象となるスカウトがない。アレッシュは恒常の排出対象で、通常スカウトとすべての特別スカウトで出現する。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-07-16
 aliases:
   - "Alesh"
@@ -19,10 +19,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/0751
   - title: "「向淵行」バージョンアップデートの説明"
     url: https://endfield.gryphline.com/en-us/news/5200
-  - title: "warfarin.wiki、アレッシュ（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、アレッシュ（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/operators/alesh
-  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki、Alesh"
     url: https://endfield.wiki.gg/wiki/Alesh
 ---

@@ -1,10 +1,10 @@
 ---
 title: 服务器与时间
 description: 《明日方舟：终末地》国际版有 Asia（UTC+8）与 Americas / Europe（UTC-5）两组服务器，进度不互通。
-appliesTo: 《明日方舟：终末地》国际版（Asia 与 Americas / Europe 服务器），1.6 版
+appliesTo: 《明日方舟：终末地》国际版（Asia 与 Americas / Europe 服务器），1.7 版
 caveat: 服务器时间是各服务器自己的时钟：标示服务器时间的时刻，在 Americas / Europe 服务器晚 13 小时；更新维护则在两组服务器同一刻开始。
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Servers and time
   - 伺服器與時間
@@ -55,6 +55,8 @@ sources:
     url: https://endfield.wiki.gg/wiki/Version
   - title: 《明日方舟：终末地》上线 GeForce NOW 常见问题
     url: https://endfield.gryphline.com/en-us/news/8906
+  - title: 「穿越甚大蘑境与你相逢」版本更新说明
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 两组服务器
@@ -94,6 +96,7 @@ sources:
 | [1.4 版「向渊行」](/zh-cn/versions/1-4/) | 2026-07-16 06:00 至 12:00 |
 | [1.5 版「雪淞幽梦」](/zh-cn/versions/1-5/) | 2026-09-02 06:00 至 12:00 |
 | [1.6 版「丹青渡」](/zh-cn/versions/1-6/) | 2026-10-15 06:00 至 12:00 |
+| [1.7 版「穿越甚大蘑境与你相逢」](/zh-cn/versions/1-7/) | 2026-11-25 06:00 至 12:00 |
 
 [1.0 版](/zh-cn/versions/1-0/)随公测开始，没有更新维护。每次更新都是强制更新：维护期间无法登录。维护预告在维护前二至五天写出时段。
 

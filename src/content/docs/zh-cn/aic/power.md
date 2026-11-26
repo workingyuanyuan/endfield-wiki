@@ -1,37 +1,37 @@
 ---
 title: 集成工业电力
 description: 《明日方舟：终末地》集成工业的电力：协议核心、热能池、电池与供电桩如何运作。
-appliesTo: 《明日方舟：终末地》国际版，1.6 版；设备与配方资料取自游戏数据 1.6
+appliesTo: 《明日方舟：终末地》国际版，1.7 版；设备与配方资料取自游戏数据 1.7
 caveat: 蓝图摆放的是设备，不是电力。蓝图带来的每台设备都从地区电网用电，只有放入源矿或电池的热能池才会提高电网的发电功率。
-lastVerified: 2026-11-21
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - AIC power
   - 集成工業電力
   - 集成工業の電力
   - 통합 공업 전력
 sources:
-  - title: warfarin.wiki 游戏内教学「热能池」（游戏数据 1.6）
+  - title: warfarin.wiki 游戏内教学「热能池」（游戏数据 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_power_sta
-  - title: warfarin.wiki 游戏内教学「备用电源」（游戏数据 1.6）
+  - title: warfarin.wiki 游戏内教学「备用电源」（游戏数据 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_backup_power
-  - title: warfarin.wiki 游戏内教学「协议核心存电耗尽的应对方式」（游戏数据 1.6）
+  - title: warfarin.wiki 游戏内教学「协议核心存电耗尽的应对方式」（游戏数据 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_zero_power
-  - title: warfarin.wiki 游戏内教学「中继器与电力运输」「中继器供电」（游戏数据 1.6）
+  - title: warfarin.wiki 游戏内教学「中继器与电力运输」「中继器供电」（游戏数据 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_power_link
-  - title: warfarin.wiki 游戏内教学「供电桩与设备供电」「供电桩输电」（游戏数据 1.6）
+  - title: warfarin.wiki 游戏内教学「供电桩与设备供电」「供电桩输电」（游戏数据 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_hub_plink
-  - title: warfarin.wiki 游戏内教学「蓝图」（游戏数据 1.6）
+  - title: warfarin.wiki 游戏内教学「蓝图」（游戏数据 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_blueprint
-  - title: warfarin.wiki 封装机页（游戏数据 1.6）
+  - title: warfarin.wiki 封装机页（游戏数据 1.7）
     url: https://warfarin.wiki/en/facilities/tools_assebling_mc_1
-  - title: warfarin.wiki 热能池页（游戏数据 1.6）
+  - title: warfarin.wiki 热能池页（游戏数据 1.7）
     url: https://warfarin.wiki/en/facilities/power_station_1
-  - title: warfarin.wiki 息壤供电桩页（游戏数据 1.6）
+  - title: warfarin.wiki 息壤供电桩页（游戏数据 1.7）
     url: https://warfarin.wiki/en/facilities/power_diffuser_2
-  - title: warfarin.wiki 息壤中继器页（游戏数据 1.6）
+  - title: warfarin.wiki 息壤中继器页（游戏数据 1.7）
     url: https://warfarin.wiki/en/facilities/power_pole_3
-  - title: warfarin.wiki 设备列表（游戏数据 1.6）
+  - title: warfarin.wiki 设备列表（游戏数据 1.7）
     url: https://warfarin.wiki/en/facilities
   - title: Endfield Talos Wiki 的 Thermal Bank 页
     url: https://endfield.wiki.gg/wiki/Thermal_Bank
@@ -51,6 +51,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: 「丹青渡」版本更新说明
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "燃料表 FactoryFuelItemTable（游戏数据 1.7）：高容量武陵电池"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryFuelItemTable.json
+  - title: "配方表 FactoryMachineCraftTable（游戏数据 1.7）：高容量武陵电池"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryMachineCraftTable.json
 ---
 
 ## 工厂为什么没电
@@ -103,10 +107,11 @@ sources:
 | 高容谷地电池 | 40 秒 | 1100 | 90 |
 | 低容武陵电池 | 40 秒 | 1600 | 90 |
 | 中容武陵电池 | 40 秒 | 3200 | 90 |
+| 高容量武陵电池 | 40 秒 | 6400 | 90 |
 
 ## 电池配方
 
-五种电池都在封装机（用电 20）制造，每个配方 10 秒产出 1 个电池。游戏数据 1.6 中没有高容量武陵电池。
+六种电池都在封装机（用电 20）制造，每个配方 10 秒产出 1 个电池。高容量武陵电池随游戏数据 1.7 加入。
 
 | 电池 | 原料 | 时间 | 产出 |
 | --- | --- | --- | --- |
@@ -115,6 +120,7 @@ sources:
 | 高容谷地电池 | 钢制零件 ×10、致密源石粉末 ×15 | 10 秒 | 1 |
 | 低容武陵电池 | 息壤 ×5、致密源石粉末 ×15 | 10 秒 | 1 |
 | 中容武陵电池 | 壤晶 ×5、致密源石粉末 ×20 | 10 秒 | 1 |
+| 高容量武陵电池 | 衡息壤 ×5、致密源石粉末 ×20 | 10 秒 | 1 |
 
 ### 武陵电池的原料
 
@@ -144,7 +150,7 @@ sources:
 | 用电 | 设备 |
 | --- | --- |
 | 100 | 扩容反应池 |
-| 50 | 废水处理机、研磨机、反应池、天有洪炉、提纯机、液气转化机、固气转化机、气体反应炉 |
+| 50 | 废料处理机、研磨机、反应池、天有洪炉、提纯机、液气转化机、固气转化机、气体反应炉 |
 | 20 | 二型耐酸水泵、配件机、种植机、灌装机、封装机、拆解机 |
 | 10 | 二型电驱矿机、水泵、塑形机、采种机、装备原件机、洒水机、给水器 |
 | 5 | 电驱矿机、协议保存箱、精炼炉、粉碎机、滑索架、长距滑索架 |

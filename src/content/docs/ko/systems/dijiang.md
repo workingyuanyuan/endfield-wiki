@@ -1,24 +1,24 @@
 ---
 title: "제강호"
 description: "《명일방주: 엔드필드》의 기지 함선 제강호: 선실, 오퍼레이터 배치, 컨디션, 선실별 인프라 스킬."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 튜토리얼과 인프라 스킬은 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 튜토리얼과 인프라 스킬은 게임 데이터 1.7 기준"
 caveat: "배치된 오퍼레이터는 시간이 지나면 컨디션을 소모한다. 컨디션이 0이 되면 중앙 홀에서 쉬며, 컨디션이 가득 찰 때까지 효과를 주지 않는다. 인프라 스킬은 정예화로 잠금 해제되므로, 정예화 I 미만인 오퍼레이터에게는 인프라 스킬이 없다."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-22
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-26
 aliases:
   - "Dijiang"
   - "帝江號"
   - "帝江号"
 sources:
-  - title: "게임 내 튜토리얼 「제강호」, WikiTutorialPageTable(게임 데이터 1.6)"
-    url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/WikiTutorialPageTable.json
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "게임 내 튜토리얼 「제강호」, WikiTutorialPageTable(게임 데이터 1.7)"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/WikiTutorialPageTable.json
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## 선실
 
-제강호의 선실에 배치된 오퍼레이터는 플레이어가 다른 곳에 있는 동안에도 육성 재료를 만들고, 식물·버섯·광물을 육성하며, 단서를 모으고 신뢰도를 쌓는다. 각 선실은 1명 이상 배치되어야 가동되며, 배치된 인원이 늘수록 생산량이 오른다. 오퍼레이터 34명 중 33명은 특정 선실을 강화하는 인프라 스킬을 가지고 있다. 관리자는 없다.
+제강호의 선실에 배치된 오퍼레이터는 플레이어가 다른 곳에 있는 동안에도 육성 재료를 만들고, 식물·버섯·광물을 육성하며, 단서를 모으고 신뢰도를 쌓는다. 각 선실은 1명 이상 배치되어야 가동되며, 배치된 인원이 늘수록 생산량이 오른다. 오퍼레이터 35명 중 34명은 특정 선실을 강화하는 인프라 스킬을 가지고 있다. 관리자는 없다.
 
 | 선실 | 역할 | 여기서 효과가 있는 인프라 스킬 |
 | --- | --- | --- |
@@ -66,6 +66,7 @@ sources:
 | 오퍼레이터 경험치 재료 생산 효율 | [울프가드](/ko/operators/wulfgard/) | 울프팀의 기술 | +10%, 정예화 I | +20%, 정예화 III |
 | 오퍼레이터 경험치 재료 생산 효율 | [자이히](/ko/operators/xaihi/) | 표준화 컴파일 | +10%, 정예화 I | +20%, 정예화 III |
 | 무기 경험치 재료 생산 효율 | [질베르타](/ko/operators/gilberta/) | 전달자의 무기 지식 | +20%, 정예화 II | +30%, 정예화 IV |
+| 무기 경험치 재료 생산 효율 | [케르](/ko/operators/kay/) | 야매 대장장이 | +20%, 정예화 I | +30%, 정예화 III |
 | 무기 경험치 재료 생산 효율 | [펠리카](/ko/operators/perlica/) | 프로토콜 관리 | +20%, 정예화 II | +30%, 정예화 IV |
 | 무기 경험치 재료 생산 효율 | [포그라니치니크](/ko/operators/pogranichnik/) | 무기 정비 | +20%, 정예화 I | +30%, 정예화 III |
 | 무기 경험치 재료 생산 효율 | [안탈](/ko/operators/antal/) | 실험적 아츠 유닛 | +10%, 정예화 I | +20%, 정예화 III |
@@ -73,6 +74,7 @@ sources:
 | 무기 경험치 재료 생산 효율 | [진천우](/ko/operators/chen-qianyu/) | 명검 평가 | +10%, 정예화 I | +20%, 정예화 III |
 | 선실 내 컨디션 소모 감소 | [명하](/ko/operators/argent-flow/) | 만물의 응용 | −14%, 정예화 II | −18%, 정예화 IV |
 | 선실 내 컨디션 소모 감소 | [질베르타](/ko/operators/gilberta/) | 전달자의 가공 예술 | −14%, 정예화 I | −18%, 정예화 III |
+| 선실 내 컨디션 소모 감소 | [케르](/ko/operators/kay/) | 벌꿀 와플 한입의 휴식 | −14%, 정예화 II | −18%, 정예화 IV |
 | 선실 내 컨디션 소모 감소 | [레바테인](/ko/operators/laevatain/) | 꺼지지 않는 불꽃 | −14%, 정예화 II | −18%, 정예화 IV |
 | 선실 내 컨디션 소모 감소 | [포그라니치니크](/ko/operators/pogranichnik/) | 사기충천 | −14%, 정예화 II | −18%, 정예화 IV |
 | 선실 내 컨디션 소모 감소 | [장방이](/ko/operators/zhuang-fangyi/) | 책임자의 노련함 | −14%, 정예화 I | −18%, 정예화 III |

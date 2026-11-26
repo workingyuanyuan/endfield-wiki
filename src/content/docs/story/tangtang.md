@@ -1,17 +1,17 @@
 ---
 title: "Tangtang's file"
 description: "Tangtang's 6 operator files, 81 voice lines and 4 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "湯湯的檔案"
   - "汤汤的档案"
   - "タンタンのプロファイル"
   - "탕탕의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -165,8 +165,8 @@ sources:
 | Operator Promotion 3 | We're battle-forged! No need for formalities. If I get a sip of soup, you get a bite of meat. What, it should be the other way around? Nah, that's just how it goes. | Promotion III |
 | Operator Promotion 4 | Another promotion?! I've only got one eye — I can't read that many reports! You handle the construction plans for now... Huh? I'm not slacking off! This is a strategic delay. I'll train and come back stronger! | Promotion IV |
 | Operator Reporting for Duty | Qingbo Stockade's Chief, Tangtang, reporting as promised! Now you can just hand Endfield over to me; I'll make it the toughest spot on Talos-II! Turn in a proposal? C'mon, since when does a chief do paperwork? We'll just figure it out together! |  |
-| Standing by 1 | Whoa, my precious! Hah, try to slip away from me now! |  |
-| Standing by 2 | Rawr — Darkmask! Finally you're here! What took you so long?! |  |
+| Standing By 1 | Whoa, my precious! Hah, try to slip away from me now! |  |
+| Standing By 2 | Rawr — Darkmask! Finally you're here! What took you so long?! |  |
 | Assigning to Facility | Okay, okay, I got it. Push this ... then tap that. If anything goes wrong, Darkmask will fix it! |  |
 | Greeting 1 | Darkmask, over here! |  |
 | Greeting 2 | Let me know if anything fun comes up. I don't wanna miss out! | Reach trust: 300 |

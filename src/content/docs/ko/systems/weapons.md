@@ -1,21 +1,21 @@
 ---
 title: "무기 목록"
-description: "《명일방주: 엔드필드》 1.6 버전의 무기 84종: 유형, 희귀도, 추가 스킬, 추천 오퍼레이터."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 목록은 게임 데이터 1.6 기준"
+description: "《명일방주: 엔드필드》 1.7 버전의 무기 86종: 유형, 희귀도, 추가 스킬, 추천 오퍼레이터."
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 목록은 게임 데이터 1.7 기준"
 caveat: "오퍼레이터 헤드헌팅에서는 무기가 나오지 않는다. 1회 뽑을 때마다 무기고 징표를 받으며, 무기고 신청에 사용한다. 6성 무기는 무기고 신청과 무기고 거래소에서 얻는다."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-11-04
 aliases:
   - "Weapons list"
   - "武器列表"
   - "武器一覧"
 sources:
-  - title: "warfarin.wiki, 무기 목록(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 무기 목록(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/weapons
   - title: "「은하수를 부르는 불꽃」 특별 허가 헤드헌팅 안내(무기고 징표)"
     url: https://endfield.gryphline.com/en-us/news/7012
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 
@@ -26,7 +26,7 @@ sources:
 | 아츠 유닛 | 12 | 5 | 2 | 1 | 20 |
 | 양손검 | 9 | 4 | 2 | 1 | 16 |
 | 권총 | 6 | 3 | 2 | 1 | 12 |
-| 장병기 | 7 | 3 | 2 | 1 | 13 |
+| 장병기 | 9 | 3 | 2 | 1 | 15 |
 | 한손검 | 13 | 7 | 2 | 1 | 23 |
 
 ## 추가 스킬
@@ -114,8 +114,10 @@ sources:
 | 전성기 | Golden Age | 6 | 의지 증가, 치유 효율 증가, 추격 | 리노 |
 | J.E.T. | JET | 6 | 주요 능력치 증가, 공격력 증가, 억제 | 아비웨나, 카뮤, 에스텔라, 리노 |
 | 산의 지배자 | Mountain Bearer | 6 | 민첩 증가, 물리 피해 증가, 효율 | 여풍 |
+| 유성 돌격 | Raid Comet | 6 | 힘 증가, 궁극기 충전 효율 증가, 방출 | 케르 |
+| 달콤한 거래 | Sweet Deal | 6 | 힘 증가, 자연 피해 증가, 흐름 | 케르 |
 | 용사 | Valiant | 6 | 민첩 증가, 물리 피해 증가, 기예 | 여풍 |
-| 키메라의 정의 | Chimeric Justice | 5 | 힘 증가, 궁극기 충전 효율 증가, 잔혹 | 카뮤, 여풍 |
+| 키메라의 정의 | Chimeric Justice | 5 | 힘 증가, 궁극기 충전 효율 증가, 잔혹 | 카뮤, 케르, 여풍 |
 | 중심력 | Cohesive Traction | 5 | 의지 증가, 전기 피해 증가, 억제 | 아비웨나, 에스텔라 |
 | O.B.J. 스파이크 | OBJ Razorhorn | 5 | 의지 증가, 물리 피해 증가, 고통 | 에스텔라 |
 | 아겔로스 사냥꾼 | Aggeloslayer | 4 | 의지 증가, 아츠 피해 증가, 억제 | 아비웨나 |

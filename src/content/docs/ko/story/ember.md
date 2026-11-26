@@ -1,17 +1,17 @@
 ---
 title: "엠버의 파일"
 description: "엠버의 오퍼레이터 파일 6개, 음성 81개, 채팅 3개."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스. 게임 데이터 1.6의 한국어 텍스트"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스. 게임 데이터 1.7의 한국어 텍스트"
 caveat: "'파일 자료 2'부터의 파일은 신뢰도 300 또는 1500에 도달해야 해제된다. 각 언어의 텍스트는 게임의 해당 언어판이며, 문장 단위로 일치하지 않을 수 있다."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "Ember's file"
   - "餘燼的檔案"
   - "余烬的档案"
   - "エンバーのプロファイル"
 sources:
-  - title: "rmxlinux/EndfieldData 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## 오퍼레이터 파일

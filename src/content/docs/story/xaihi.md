@@ -1,17 +1,17 @@
 ---
 title: "Xaihi's file"
 description: "Xaihi's 6 operator files, 79 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "賽希的檔案"
   - "赛希的档案"
   - "ザイヒのプロファイル"
   - "자이히의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -135,8 +135,8 @@ sources:
 | Operator Promotion 3 | Everything is as clear and distinct as the veins of Originium. This promotion aligns with the projected outcome. Huh? Sh-shake hands? I ... I am not very good at that... | Promotion III |
 | Operator Promotion 4 | I once restructured the codec dome of the Cathedralis to enhance its working efficiency. Yet, unanticipated resonances occurred as the ancient algorithm processed the data flow. The result was ... complicated. And yet, what once exiled one from their homeland ... has become a source of grace here at Endfield. Perhaps this is what the Law wished to reveal to me! | Promotion IV |
 | Operator Reporting for Duty | O Knowledge most ancient, lead us not into temptation but deliver us from the codes of malice... I am Xaihi, Endministrator. May you be enlightened. |  |
-| Standing by 1 | Contemplation... Computation... Utterance... Abandonment. |  |
-| Standing by 2 | I offer today's dialogue and contemplation to your terminal, in reverence... |  |
+| Standing By 1 | Contemplation... Computation... Utterance... Abandonment. |  |
+| Standing By 2 | I offer today's dialogue and contemplation to your terminal, in reverence... |  |
 | Assigning to Facility | Let thy commands be fulfilled. O Endministrator, through service, our path is revealed. |  |
 | Greeting 1 | May peace and safety be with you. |  |
 | Greeting 2 | Endministrator, you appear once again in my calculated result. | Reach trust: 300 |

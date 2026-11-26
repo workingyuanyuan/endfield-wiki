@@ -1,10 +1,10 @@
 ---
 title: "여풍"
 description: "여풍은 장병기를 사용하는 6성 물리 속성 가드 오퍼레이터로, 상시 헤드헌팅 명단에 있다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "여풍은 확률 증가 대상이었던 적이 없다. 여풍은 모든 특별 허가 헤드헌팅 명단에 포함되는 상시 6성 오퍼레이터 5명 중 1명이다."
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-28
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Lifeng"
   - "黎風"
@@ -20,10 +20,14 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3839
   - title: "「선조의 샘의 새로운 물결」 재구축 헤드헌팅#1 안내"
     url: https://endfield.gryphline.com/en-us/news/6179
-  - title: "warfarin.wiki, 여풍(게임 데이터 1.6)"
+  - title: "「떠도는 모든 소망에게」 재구축 헤드헌팅#1 안내"
+    url: https://endfield.gryphline.com/en-us/news/8992
+  - title: "「붉은색의 진주」 재구축 헤드헌팅#1 안내"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki, 여풍(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/lifeng
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Lifeng"
     url: https://endfield.wiki.gg/wiki/Lifeng
 ---
@@ -60,6 +64,8 @@ sources:
 | --- | --- | --- | --- | --- |
 | 찬란한 색채 | 재구축 헤드헌팅#1 | 명단에 포함 | 2026-09-24 12:00 | 1.6 버전 업데이트(2026-10-15) |
 | 선조의 샘의 새로운 물결 | 재구축 헤드헌팅#1 | 명단에 포함 | 2026-10-29 12:00 | 2026-11-19 11:59 |
+| 떠도는 모든 소망에게 | 재구축 헤드헌팅#1 | 명단에 포함 | 1.7 버전 업데이트(2026-11-25) | 2026-12-16 11:59 |
+| 붉은색의 진주 | 재구축 헤드헌팅#1 | 명단에 포함 | 2026-12-16 12:00 | 1.7 버전 종료 |
 
 ## 추천 무기
 

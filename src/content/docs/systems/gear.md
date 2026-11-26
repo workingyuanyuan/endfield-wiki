@@ -1,25 +1,25 @@
 ---
 title: Gear sets
 description: "All 24 gear sets of Arknights: Endfield with their 3-piece effects, gear levels and names in three scripts."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; gear sets and set effects from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; gear sets and set effects from game data 1.7"
 caveat: "Every set has only a 3-piece effect, and an operator wears four pieces of gear, so one set effect at most is active on an operator."
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-05
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 裝備套裝
   - 装备套装
   - 装備セット
   - 장비 세트
 sources:
-  - title: "warfarin.wiki, gear and gear sets (game data 1.6)"
+  - title: "warfarin.wiki, gear and gear sets (game data 1.7)"
     url: https://warfarin.wiki/en/gear
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
-  - title: "warfarin.wiki, operator pages (Outfitting nodes in game data 1.6)"
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
+  - title: "warfarin.wiki, operator pages (Outfitting nodes in game data 1.7)"
     url: https://warfarin.wiki/en/operators/laevatain
-  - title: "warfarin.wiki, tutorial Gear (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Gear (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_equip
-  - title: "warfarin.wiki, tutorial Gear Artificing (game data 1.6)"
+  - title: "warfarin.wiki, tutorial Gear Artificing (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_equip_enhance
   - title: "Endfield Talos Wiki, Gear (non-set gear)"
     url: https://endfield.wiki.gg/wiki/Gear
@@ -33,6 +33,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5208
   - title: "Sanctuary of Ink Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: Meeting You in the World o'Shrooms Version Update Notes
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## How gear works
@@ -48,7 +50,7 @@ An operator wears four pieces of gear (one armor, one pair of gloves and two kit
 
 - Gear gives DEF plus attributes and other stats; Roving MSGR Jacket (level 36 armor), for example, gives DEF +28, Agility +44, Intellect +29 and ATK +16.
 - Four sets (Armored MSGR, Roving MSGR, Mordvolt Insulation, Mordvolt Resistant) come at both level 36 and level 50, with one set effect for both.
-- Game data 1.6 holds 276 gear pieces; 228 belong to the 24 sets. The rest is non-set gear, which has slightly higher stats than set gear of the same quality.
+- Game data 1.7 holds 291 gear pieces; 238 belong to the 24 sets. The rest is non-set gear, which has slightly higher stats than set gear of the same quality.
 - Four sets came after release: Xiranflow and Qingbo in Version 1.2, AIC Fieldwork in Version 1.4 and Deep Rampart in Version 1.5.
 - Rift Trekker, added in Version 1.4, is non-set gear with no set effect, although the Version 1.4 update notes list it as a new gear set.
 
@@ -76,12 +78,12 @@ Artificing raises the stats of gold quality gear.
 | Roving MSGR | 巡行信使 | 巡行信使 | 36 and 50 | 3-star and 4-star | 9 |
 | Aburrey's Legacy | 阿伯莉遺聲 | 阿伯莉遗声 | 50 | 4-star | 11 |
 | Catastrophe | 天災防護 | 天灾防护 | 50 | 4-star | 6 |
-| AIC Fieldwork | 集成實訓 | 集成实训 | 60 | 5-star | 18 |
+| AIC Fieldwork | 集成實訓 | 集成实训 | 60 | 5-star | 21 |
 | Æthertech | 輕超域 | 轻超域 | 70 | 5-star | 7 |
 | Bonekrusha | 碾骨 | 碾骨 | 70 | 5-star | 14 |
 | Deep Rampart | 險關 | 险关 | 70 | 5-star | 3 |
-| Eternal Xiranite | 長息 | 长息 | 70 | 5-star | 17 |
-| Frontiers | 拓荒 | 拓荒 | 70 | 5-star | 14 |
+| Eternal Xiranite | 長息 | 长息 | 70 | 5-star | 18 |
+| Frontiers | 拓荒 | 拓荒 | 70 | 5-star | 20 |
 | Grizzled Edge | 舊鋒 | 旧锋 | 70 | 5-star | 6 |
 | Hot Work | 動火用 | 动火用 | 70 | 5-star | 10 |
 | LYNX | 生物輔助 | 生物辅助 | 70 | 5-star | 11 |
@@ -93,7 +95,7 @@ Artificing raises the stats of gold quality gear.
 | Type 50 Yinglung | 50式應龍 | 50式应龙 | 70 | 5-star | 14 |
 | Xiranflow | 壤流 | 壤流 | 70 | 5-star | 3 |
 
-Pieces is the number of pieces of the set in game data 1.6, across all its levels. Three names differ between Traditional and Simplified Chinese beyond the script: AIC Heavy and AIC Light (整合 against 集成) and Mordvolt Insulation (絕緣 against 屏蔽).
+Pieces is the number of pieces of the set in game data 1.7, across all its levels. Three names differ between Traditional and Simplified Chinese beyond the script: AIC Heavy and AIC Light (整合 against 集成) and Mordvolt Insulation (絕緣 against 屏蔽).
 
 ## 3-piece set effects
 

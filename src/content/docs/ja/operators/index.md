@@ -1,10 +1,10 @@
 ---
 title: オペレーター一覧
-description: "『アークナイツ：エンドフィールド』バージョン1.6のプレイアブルオペレーターは34人で、公式サイトには37件が載っている。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。公式オペレーター一覧は2026-11-21に読んだもの"
-caveat: "公式一覧の37件はプレイアブルオペレーター37人ではない。管理人が2件あり、KayとMiminoはバージョン1.6までのどのアップデートの説明にも載っていない。"
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-21
+description: "『アークナイツ：エンドフィールド』バージョン1.7のオペレーターは36人で、公式サイトには37件が載っている。"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。公式オペレーター一覧は2026-11-26に読んだもの"
+caveat: "公式一覧には37件あるがオペレーターは36人で、管理人が2件あるためである。ミミノは2026-12-16からイベントで配布され、どのスカウトにも含まれない。"
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Operators list
   - 幹員列表
@@ -17,18 +17,20 @@ sources:
     url: https://endfield.hypergryph.com/operator
   - title: "「丹青渡」バージョンアップデートの説明"
     url: https://endfield.gryphline.com/en-us/news/9560
-  - title: "warfarin.wiki、オペレーター一覧（ゲームデータ 1.6）"
+  - title: "「キノコ菌グ！？君との大冒険！」 バージョンアップデートについて"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki、オペレーター一覧（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/operators
 ---
 
 ## 人数
 
-公式サイトの37件は、ゲームデータの34人に、管理人の2件目（1人のオペレーターの2つの外見）と、Kay（星6・先鋒・自然）、Mimino（星5・補助・物理）を加えたものである。
+ケーちゃんとミミノはバージョン1.7で追加された。
 
-| レア度 | 公式サイトの件数 | 1.6でプレイ可能 |
+| レア度 | 公式サイトの件数 | 1.7のオペレーター |
 | --- | --- | --- |
-| 星6 | 20 | 19 |
-| 星5 | 11 | 10 |
+| 星6 | 20 | 20 |
+| 星5 | 11 | 11 |
 | 星4 | 5 | 5 |
 
 ## すべてのオペレーター
@@ -44,7 +46,7 @@ sources:
 | [エンバー](/ja/operators/ember/) | 餘燼 / 余烬 | 6 | 重装 | 灼熱 |
 | [管理人](/ja/operators/endministrator/) | 管理員 / 管理员 | 6 | 前衛 | 物理 |
 | [ギルベルタ](/ja/operators/gilberta/) | 潔爾佩塔 / 洁尔佩塔 | 6 | 補助 | 自然 |
-| Kay | 小刻 | 6 | 先鋒 | 自然 |
+| [ケーちゃん](/ja/operators/kay/) | 小刻 | 6 | 先鋒 | 自然 |
 | [レーヴァテイン](/ja/operators/laevatain/) | 萊萬汀 / 莱万汀 | 6 | 突撃 | 灼熱 |
 | [ラストライト](/ja/operators/last-rite/) | 別禮 / 别礼 | 6 | 突撃 | 寒冷 |
 | [リーフォン](/ja/operators/lifeng/) | 黎風 / 黎风 | 6 | 前衛 | 物理 |
@@ -62,7 +64,7 @@ sources:
 | [アイビーエナ](/ja/operators/avywenna/) | 艾維文娜 / 艾维文娜 | 5 | 突撃 | 電磁 |
 | [チェン・センユー](/ja/operators/chen-qianyu/) | 陳千語 / 陈千语 | 5 | 前衛 | 物理 |
 | [ダパン](/ja/operators/da-pan/) | 大潘 | 5 | 突撃 | 物理 |
-| Mimino | 米米諾 / 米米诺 | 5 | 補助 | 物理 |
+| ミミノ | 米米諾 / 米米诺 | 5 | 補助 | 物理 |
 | [ペリカ](/ja/operators/perlica/) | 佩麗卡 / 佩丽卡 | 5 | 術師 | 電磁 |
 | [プチエナ](/ja/operators/purrchena/) | 噗切娜 | 5 | 重装 | 物理 |
 | [スノーシャイン](/ja/operators/snowshine/) | 晝雪 / 昼雪 | 5 | 重装 | 寒冷 |

@@ -1,45 +1,47 @@
 ---
 title: 戰鬥機制
 description: 《明日方舟：終末地》的戰鬥機制：傷害公式、屬性、法術異常、物理異常與失衡。
-appliesTo: 《明日方舟：終末地》國際版，1.6 版；用語與教學出自遊戲資料 1.6；傷害公式出自玩家在 1.0 版的實測
+appliesTo: 《明日方舟：終末地》國際版，1.7 版；用語與教學出自遊戲資料 1.7；傷害公式出自玩家在 1.0 版的實測
 caveat: "破防是物理異常在敵人身上疊加的層數，最多 4 層；它不是脆弱。脆弱是讓目標受到某一種屬性傷害提高的減益效果。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 aliases:
   - Combat mechanics
   - 战斗机制
   - 戦闘システム
   - 전투 메커니즘
 sources:
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: NGA 論壇攻略「终末地数据机制导论」（玩家實測，1.0 版）
     url: https://bbs.nga.cn/read.php?tid=46094556
-  - title: "warfarin.wiki 戰鬥用語（遊戲資料 1.6）"
+  - title: "warfarin.wiki 戰鬥用語（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/operators/laevatain
-  - title: "warfarin.wiki 教學：傷害類型（遊戲資料 1.6）"
+  - title: "warfarin.wiki 教學：傷害類型（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_dmg_type
-  - title: "warfarin.wiki 教學：異常等級（遊戲資料 1.6）"
+  - title: "warfarin.wiki 教學：異常等級（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_statuslevel
-  - title: "warfarin.wiki 教學：失衡值（遊戲資料 1.6）"
+  - title: "warfarin.wiki 教學：失衡值（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_poise
-  - title: "warfarin.wiki 教學：處決（遊戲資料 1.6）"
+  - title: "warfarin.wiki 教學：處決（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_execute
-  - title: "warfarin.wiki 教學：重擊（遊戲資料 1.6）"
+  - title: "warfarin.wiki 教學：重擊（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_heavy_attack
-  - title: "warfarin.wiki 教學：技力（遊戲資料 1.6）"
+  - title: "warfarin.wiki 教學：技力（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_sp
-  - title: "warfarin.wiki 教學：技能 - 戰技（遊戲資料 1.6）"
+  - title: "warfarin.wiki 教學：技能 - 戰技（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_normal_skill
-  - title: "warfarin.wiki 教學：技能 - 連攜技（遊戲資料 1.6）"
+  - title: "warfarin.wiki 教學：技能 - 連攜技（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_combo
-  - title: "warfarin.wiki 教學：技能 - 終結技（遊戲資料 1.6）"
+  - title: "warfarin.wiki 教學：技能 - 終結技（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_ultimite_skill
-  - title: "warfarin.wiki 教學：小隊作戰（遊戲資料 1.6）"
+  - title: "warfarin.wiki 教學：小隊作戰（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_team
-  - title: "warfarin.wiki 幹員頁（遊戲資料 1.6 的屬性、技能消耗與冷卻）"
+  - title: "warfarin.wiki 幹員頁（遊戲資料 1.7 的屬性、技能消耗與冷卻）"
     url: https://warfarin.wiki/en/operators
   - title: "Endfield Talos Wiki 的 Operator 頁（小隊人數）"
     url: https://endfield.wiki.gg/wiki/Operator
+  - title: 「穿越甚大蘑境與你相逢」版本更新說明
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 傷害類型與異常
@@ -72,7 +74,7 @@ sources:
 - 幹員的基礎暴擊率為 5%，基礎暴擊傷害為 50%。敵人的暴擊率為 0%，暴擊傷害為 50%。
 - 所有技能傷害加成作用於戰技、連攜技與終結技，不包括普通攻擊。處決可以受益於普通攻擊傷害加成。
 - 敵人的基礎防禦力在任何等級都是 100，所以沒有改變防禦力的效果時，受防禦力影響的傷害防禦乘區為 0.5。幹員的基礎防禦力為 0，防禦力一般來自裝備的主屬性。
-- 每 1 點抗性使該類傷害降低 1%。遊戲內以等級顯示敵人的抗性：0 為 D，20 至 40 為 C，50 與 60 為 B。敵人的抗性多為 0 或 20；少數敵人在某一屬性上有 30、35、40、50 或 60，沒有敵人具有超域抗性。
+- 每 1 點抗性使該類傷害降低 1%。遊戲內以等級顯示敵人的抗性：-20 為 E，0 為 D，20 至 40 為 C，50 與 60 為 B。負抗性會提高受到的傷害：1.7 版的碾菇虯獸、碾菇破城者、碾菇先鋒與儲菌的灼熱抗性為 -20。敵人的抗性多為 0 或 20；少數敵人在某一屬性上有 30、35、40、50 或 60，沒有敵人具有超域抗性。
 - 幹員的物理抗性 = 100 − 100 / (0.001 × 敏捷 + 1)，法術抗性以智識同樣計算，敏捷與智識只計整數部分。幹員的抗性乘區最低為 0.1。
 - 遊戲中許多數值顯示時無條件捨去小數，所以用顯示的數值計算，結果可能差幾點。
 
@@ -106,16 +108,16 @@ sources:
 
 ## 傷害類型與屬性
 
-| 傷害類型 | 分類 | 該屬性的幹員數（遊戲資料 1.6） |
+| 傷害類型 | 分類 | 該屬性的幹員數（遊戲資料 1.7） |
 | --- | --- | --- |
 | 物理 | 物理 | 9 |
 | 灼熱 | 法術 | 5 |
 | 電磁 | 法術 | 7 |
 | 寒冷 | 法術 | 8 |
-| 自然 | 法術 | 5 |
+| 自然 | 法術 | 6 |
 | 超域 | 超域 | 0 |
 
-遊戲資料 1.6 的 34 名幹員，屬性都是物理或四種法術屬性之一，沒有幹員的屬性是超域。
+遊戲資料 1.7 的 35 名幹員，屬性都是物理或四種法術屬性之一，沒有幹員的屬性是超域。
 
 ## 法術附著、法術爆發與法術異常
 
@@ -164,7 +166,7 @@ sources:
 | 技能 | 消耗 | 冷卻 | 說明 |
 | --- | --- | --- | --- |
 | 普通攻擊 | 無 | 無 | 非主控的隊友會自動普通攻擊 |
-| 戰技 | 技力 | 無 | 34 名幹員中 33 名消耗 100 點技力；[梨諾](/zh-tw/operators/liino/) 消耗 25 點 |
+| 戰技 | 技力 | 無 | 35 名幹員中 34 名消耗 100 點技力；[梨諾](/zh-tw/operators/liino/) 消耗 25 點 |
 | 連攜技 | 無 | 有 | 達成該幹員自己的觸發條件才能施放；技能等級 1 時冷卻 3 至 40 秒 |
 | 終結技 | 全部終結技能量 | 施放後短暫冷卻 | 能量需充滿：依幹員為 70 至 300 點；冷卻 10、15、20 或 30 秒 |
 

@@ -1,17 +1,17 @@
 ---
 title: "Estella's file"
 description: "Estella's 6 operator files, 80 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "埃特拉的檔案"
   - "埃特拉的档案"
   - "エステーラのプロファイル"
   - "에스텔라의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -184,8 +184,8 @@ sources:
 | Operator Promotion 3 | Why do I keep getting promoted...? Am I an experiment for new management strategies? I should try and figure this out... | Promotion III |
 | Operator Promotion 4 | Ooooh! Does this mean I get to order Akekuri around? Heh heh... Time to try things out. | Promotion IV |
 | Operator Reporting for Duty | Why do I have to do this again...? Greetings... Endministrator. I'm Estella. And please don't give me physically-intensive assignments. Thank you. |  |
-| Standing by 1 | Haah ... still breathing. For now, I just wanna do absolutely nothing... |  |
-| Standing by 2 | I overworked myself again... Hngh... I better appreciate the break while it lasts. |  |
+| Standing By 1 | Haah ... still breathing. For now, I just wanna do absolutely nothing... |  |
+| Standing By 2 | I overworked myself again... Hngh... I better appreciate the break while it lasts. |  |
 | Assigning to Facility | A new assignment? I'm looking forward to it... I really am. Honest. |  |
 | Greeting 1 | Endmin... How goes your break? |  |
 | Greeting 2 | Endmin, I hardly see you taking a break. | Reach trust: 300 |

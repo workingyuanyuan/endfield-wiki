@@ -1,17 +1,17 @@
 ---
 title: "Typhoeus's file"
 description: "Typhoeus's 6 operator files, 81 voice lines and 4 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "提弗洛斯的檔案"
   - "提弗洛斯的档案"
   - "ティフォロスのプロファイル"
   - "티프로스의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -148,8 +148,8 @@ sources:
 | Operator Promotion 3 | Recognition? Does that mean the same as your "approval" ... or that you trust me more now...? And do you trust my abilities, or me as a person? | Promotion III |
 | Operator Promotion 4 | Congratulations? I thought we've moved beyond flattery. A simple glance will suffice between good friends. | Promotion IV |
 | Operator Reporting for Duty | Endmin, I sought you out and fulfilled my promise. What about yours? Have you found a good story to share with me? |  |
-| Standing by 1 | Prophecy has no hold on us. The ending is ours to write. |  |
-| Standing by 2 | Legends aren't always too far off... They can happen right next to us. |  |
+| Standing By 1 | Prophecy has no hold on us. The ending is ours to write. |  |
+| Standing By 2 | Legends aren't always too far off... They can happen right next to us. |  |
 | Assigning to Facility | I did learn how to operate machines, but my memories ... have melted away like snow in spring. |  |
 | Greeting 1 | Myrkwood will rain today. Take an umbrella. |  |
 | Greeting 2 | I wish you pleasant dreams. | Reach trust: 300 |

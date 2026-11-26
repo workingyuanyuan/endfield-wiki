@@ -1,7 +1,7 @@
 {
  "slug": "argent-flow",
  "gameId": "chr_0037_minghe",
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "files": [
   {
    "id": "CN_01",
@@ -371,7 +371,7 @@
   {
    "id": "chr_0037_minghe_mono_switch_01",
    "title": {
-    "en": "Standing by 1",
+    "en": "Standing By 1",
     "zh-TW": "待命1",
     "zh-CN": "待命1",
     "ja": "待機1",
@@ -389,7 +389,7 @@
   {
    "id": "chr_0037_minghe_mono_switch_02",
    "title": {
-    "en": "Standing by 2",
+    "en": "Standing By 2",
     "zh-TW": "待命2",
     "zh-CN": "待命2",
     "ja": "待機2",
@@ -650,7 +650,7 @@
    "text": {
     "en": "A gentle aroma? It's probably this incense diffuser ball. When I first enlisted, I wasn't exactly patient. I forced myself awake and alert to better fulfill my duties. Yet this only taxed my mental health further. My colleagues then gave me an incense recipe to calm my mind. They said good sleep is the key to overcoming the odds. And reality proved the wisdom of their words... Endmin? Hmm. Asleep already. Well then, I shall stand vigil for your sake.",
     "zh-TW": "溫和的氣味？可能是因為這枚香薰球吧。剛從軍時，我心思急躁，總覺得重任在身，必須不眠不休，反而徒增精神消耗。同僚們知情後，塞給我一份安神香方，他們說，睡得踏實的人，才有定力常勝。事實證明，此話確實不虛……管理員？睡著了？好吧，我就在這裡。",
-    "zh-CN": "温和的气味？可能是因为这枚香熏球吧。刚从军时，我心思急躁，总觉得重任在身，必须不眠不休，反而徒增精神消耗。同僚们知情后，给我塞了一份安神香方，他们说，睡得踏实的人，才有定力常胜。事实证明，此话确实不虚……管理员？睡着了？好吧，我就在这里。",
+    "zh-CN": "温和的气味？可能是因为这枚香薰球吧。刚从军时，我心思急躁，总觉得重任在身，必须不眠不休，反而徒增精神消耗。同僚们知情后，给我塞了一份安神香方，他们说，睡得踏实的人，才有定力常胜。事实证明，此话确实不虚……管理员？睡着了？好吧，我就在这里。",
     "ja": "優しい香り……？この香球のためだろうな。軍に入った頃は気ばかり焦って、責任を果たすと息巻き、却って自身をすり減らしていた。そんな俺を見て、仲間が鎮静香を教えてくれた……深い眠りこそ、常勝の秘訣だと。実際、その言葉に偽りなく――管理人、眠ったのか？……大丈夫だ、俺が傍にいる。",
     "ko": "포근한 향... 말씀입니까? 아마 이 향낭에서 나는 향일 겁니다. 막 군에 들어갔을 때, 조급한 마음에 전 제대로 쉬지도 않고 버티곤 했습니다. 그러다 보니 오히려 정신적으로 더 지치기만 했죠. 그때 동료들이 마음을 안정시켜주는 향이라며 건네줬던 향낭입니다. 승리를 위해서라면 제대로 쉴 줄도 알아야 한다면서 말이죠. 실제로도... 관리자님? 잠드신 겁니까. 그래요, 이렇게 쉼도 필요하죠. 푹 쉬셔도 좋습니다. 제가 관리자님의 곁을 지킬 테니까요."
    },
@@ -2620,7 +2620,7 @@
      },
      "text": {
       "en": "Now that I've joined Endfield, they have reminded me on countless occasions to give you sound advice on work-life balance.",
-      "zh-TW": "他們跟我提了好幾次，既然我加入了終末地，剛好可以找機會提醒您注意多注意休息。",
+      "zh-TW": "他們跟我提了好幾次，既然我加入了終末地，剛好可以找機會提醒您多注意休息。",
       "zh-CN": "他们向我念叨了好几次，既然我加入了终末地，正好可以找机会提醒您注意劳逸结合。",
       "ja": "俺がエンドフィールドに加わったと知って、「しっかり休むように伝えてほしい」と何度頼まれたことか。",
       "ko": "제가 엔드필드에 합류했으니 마침 잘됐다며, 기회가 되면 관리자님께 \"일도 좋지만 적당히 쉬셔야 한다\"고 일러주라며 몇 번이나 당부하시더군요."

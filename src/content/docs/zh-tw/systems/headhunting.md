@@ -1,10 +1,10 @@
 ---
 title: 尋訪機率與保底
 description: 《明日方舟：終末地》的尋訪：6 星基礎機率 0.8%，80 次內必得 6 星，特許尋訪 120 次內必得機率提升幹員。
-appliesTo: 《明日方舟：終末地》國際版，1.6 版
+appliesTo: 《明日方舟：終末地》國際版，1.7 版
 caveat: 80 次的 6 星計數會從一期特許尋訪繼承到下一期；120 次的機率提升保底在每期特許尋訪結束時重置，重構尋訪則是同名的所有期合計只有一次。
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Headhunting rates and pity
   - 寻访概率与保底
@@ -57,6 +57,12 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5208
   - title: 「丹青渡」版本更新說明
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: 「穿越甚大蘑境與你相逢」版本更新說明
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: 「鍛砧、行囊與蜜糖」特許尋訪
+    url: https://endfield.gryphline.com/en-us/news/5204
+  - title: 「致每一個飄遊之願」重構尋訪#1與「飄行申領」重構申領#1開放
+    url: https://endfield.gryphline.com/en-us/news/8992
   - title: 「尋遺散記」版本更新說明
     url: https://endfield.gryphline.com/en-us/news/0758
   - title: Endfield Talos Wiki 的 Headhunting 頁（機率、65 與 80 次、50% 機率提升比例、新手尋訪）
@@ -144,18 +150,19 @@ sources:
 | 機率提升幹員 | 自己的特許尋訪 | 版本 | 最後一期仍在卡池的特許尋訪 | 之後再次登場的尋訪 |
 | --- | --- | --- | --- | --- |
 | [萊萬汀](/zh-tw/operators/laevatain/) | 熔火灼痕 | [1.0](/zh-tw/versions/1-0/) | 熱烈色彩 | 輝光慶典（特殊尋訪） |
-| [潔爾佩塔](/zh-tw/operators/gilberta/) | 輕飄飄的信使 | [1.0](/zh-tw/versions/1-0/) | 河流的女兒 | 輝光慶典（特殊尋訪） |
+| [潔爾佩塔](/zh-tw/operators/gilberta/) | 輕飄飄的信使 | [1.0](/zh-tw/versions/1-0/) | 河流的女兒 | 輝光慶典（特殊尋訪）、致每一個飄遊之願（重構尋訪#1） |
 | [伊馮](/zh-tw/operators/yvonne/) | 熱烈色彩 | [1.0](/zh-tw/versions/1-0/) | 狼珀 | 絢麗異彩（重構尋訪#1） |
 | [湯湯](/zh-tw/operators/tangtang/) | 河流的女兒 | [1.1](/zh-tw/versions/1-1/) | 春雷動，萬物生 | 祖泉的新流（重構尋訪#1） |
-| [洛西](/zh-tw/operators/rossi/) | 狼珀 | [1.1](/zh-tw/versions/1-1/) | 拳出無悔 | 無 |
+| [洛西](/zh-tw/operators/rossi/) | 狼珀 | [1.1](/zh-tw/versions/1-1/) | 拳出無悔 | 緋紅瑰寶（重構尋訪#1） |
 | [莊方宜](/zh-tw/operators/zhuang-fangyi/) | 春雷動，萬物生 | [1.2](/zh-tw/versions/1-2/) | 逐罪者 | 無 |
 | [弭弗](/zh-tw/operators/mi-fu/) | 拳出無悔 | [1.3](/zh-tw/versions/1-3/) | 臨淵望北 | 無 |
 | [卡繆](/zh-tw/operators/camille/) | 逐罪者 | [1.3](/zh-tw/versions/1-3/) | 晨星於此閃耀 | 無 |
 | [訣](/zh-tw/operators/arcane/) | 臨淵望北 | [1.4](/zh-tw/versions/1-4/) | 冬獵 | 無 |
 | [梨諾](/zh-tw/operators/liino/) | 晨星於此閃耀 | [1.4](/zh-tw/versions/1-4/) | 萬物更新 | 無 |
 | [提弗洛斯](/zh-tw/operators/typhoeus/) | 冬獵 | [1.5](/zh-tw/versions/1-5/) | 煙火邀星河 | 無 |
-| [祀](/zh-tw/operators/si/) | 萬物更新 | [1.6](/zh-tw/versions/1-6/) | 萬物更新之後的第二期特許尋訪 | 無 |
-| [明河](/zh-tw/operators/argent-flow/) | 煙火邀星河 | [1.6](/zh-tw/versions/1-6/) | 其後第二期特許尋訪 | 無 |
+| [祀](/zh-tw/operators/si/) | 萬物更新 | [1.6](/zh-tw/versions/1-6/) | 鍛砧、行囊與蜜糖 | 無 |
+| [明河](/zh-tw/operators/argent-flow/) | 煙火邀星河 | [1.6](/zh-tw/versions/1-6/) | 鍛砧、行囊與蜜糖的下一期特許尋訪 | 無 |
+| [小刻](/zh-tw/operators/kay/) | 鍛砧、行囊與蜜糖 | [1.7](/zh-tw/versions/1-7/) | 其後第二期特許尋訪 | 無 |
 
 公測時第一期「熔火灼痕」的卡池已包含潔爾佩塔與伊馮，也就是之後兩期的機率提升幹員。因此潔爾佩塔在 4 期特許尋訪的卡池中，伊馮在 5 期；從自己那一期算起，每名機率提升幹員都在 3 期卡池中。
 
@@ -165,6 +172,8 @@ sources:
 | --- | --- | --- | --- | --- |
 | 絢麗異彩 重構尋訪#1 | 伊馮 | 熱烈色彩 | 2026-09-24 12:00 至 1.6 版更新維護 | 點繪申領 |
 | 祖泉的新流 重構尋訪#1 | 湯湯 | 河流的女兒 | 2026-10-29 12:00 至 2026-11-19 11:59 | 細枝申領 |
+| 致每一個飄遊之願 重構尋訪#1 | 潔爾佩塔 | 輕飄飄的信使 | 1.7 版更新後至 2026-12-16 11:59 | 飄行申領 |
+| 緋紅瑰寶 重構尋訪#1 | 洛西 | 狼珀 | 2026-12-16 12:00 至 1.7 版結束 | 赤獠申領 |
 
 ## 特殊尋訪
 

@@ -1,10 +1,10 @@
 ---
 title: Operators list
-description: "Arknights: Endfield has 34 playable operators in Version 1.6; the official site lists 37 entries."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; official operator list as read on 2026-11-21"
-caveat: The official list has 37 entries, not 37 playable operators. Endministrator appears twice, and Kay and Mimino are in no version's update notes up to 1.6.
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-21
+description: "Arknights: Endfield has 36 operators in Version 1.7; the official site lists 37 entries."
+appliesTo: "Arknights: Endfield, global service, Version 1.7; official operator list as read on 2026-11-26"
+caveat: The official list has 37 entries for 36 operators, because Endministrator appears twice. Mimino is given by an event from 2026-12-16 and is in no headhunting banner.
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 幹員列表
   - 干员列表
@@ -17,18 +17,20 @@ sources:
     url: https://endfield.hypergryph.com/operator
   - title: Sanctuary of Ink Version Update Notes
     url: https://endfield.gryphline.com/en-us/news/9560
-  - title: warfarin.wiki, Operators (game data 1.6)
+  - title: Meeting You in the World o'Shrooms Version Update Notes
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: warfarin.wiki, Operators (game data 1.7)
     url: https://warfarin.wiki/en/operators
 ---
 
 ## Counts
 
-The official site's 37 entries are the 34 of the game data, a second entry for Endministrator (two appearances of one operator), and Kay (6-star Vanguard, Nature) and Mimino (5-star Supporter, Physical).
+Kay and Mimino came in Version 1.7.
 
-| Rarity | Entries on the official site | Playable in 1.6 |
+| Rarity | Entries on the official site | Operators in 1.7 |
 | --- | --- | --- |
-| 6-star | 20 | 19 |
-| 5-star | 11 | 10 |
+| 6-star | 20 | 20 |
+| 5-star | 11 | 11 |
 | 4-star | 5 | 5 |
 
 ## All operators
@@ -44,7 +46,7 @@ The Chinese column gives the Traditional Chinese name, then the Simplified Chine
 | [Ember](/operators/ember/) | 餘燼 / 余烬 | 6 | Defender | Heat |
 | [Endministrator](/operators/endministrator/) | 管理員 / 管理员 | 6 | Guard | Physical |
 | [Gilberta](/operators/gilberta/) | 潔爾佩塔 / 洁尔佩塔 | 6 | Supporter | Nature |
-| Kay | 小刻 | 6 | Vanguard | Nature |
+| [Kay](/operators/kay/) | 小刻 | 6 | Vanguard | Nature |
 | [Laevatain](/operators/laevatain/) | 萊萬汀 / 莱万汀 | 6 | Striker | Heat |
 | [Last Rite](/operators/last-rite/) | 別禮 / 别礼 | 6 | Striker | Cryo |
 | [Lifeng](/operators/lifeng/) | 黎風 / 黎风 | 6 | Guard | Physical |

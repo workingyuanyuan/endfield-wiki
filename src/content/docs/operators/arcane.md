@@ -1,10 +1,10 @@
 ---
 title: "Arcane"
 description: "Arcane is a 6-star Nature Caster with an Arts Unit; limited, rate-up in North Yearns the Rift Vigile."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
 caveat: "A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting."
-lastVerified: 2026-11-22
-effectiveDate: 2026-09-02
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "訣"
   - "诀"
@@ -26,10 +26,12 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: "Dreamscape of Wind and Snow Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki, Arcane (game data 1.6)"
+  - title: "Meeting You in the World o'Shrooms Version Update Notes"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki, Arcane (game data 1.7)"
     url: https://warfarin.wiki/en/operators/arcane
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Arcane"
     url: https://endfield.wiki.gg/wiki/Arcane
 ---
@@ -256,3 +258,4 @@ Base skills work while Arcane is assigned to a room of the [Dijiang](/systems/di
 | Version | Change |
 | --- | --- |
 | 1.5 | A bug that could cause abnormal SP return and damage after casting the battle skill in the Array Arcana: INT form was fixed |
+| 1.7 | A bug where the combo skill could fail to trigger in the Array Arcana: INT form on the Echoes of War stage Beast File: Qingbo Stockade was fixed |

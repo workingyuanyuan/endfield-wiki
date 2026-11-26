@@ -1,9 +1,9 @@
 ---
 title: "狼衛"
 description: "狼衛是 5 星灼熱術師幹員，使用手銃；每個帳號開局就擁有。"
-appliesTo: "《明日方舟：終末地》國際版，1.6 版；技能文字與數值出自遊戲資料 1.6"
+appliesTo: "《明日方舟：終末地》國際版，1.7 版；技能文字與數值出自遊戲資料 1.7"
 caveat: "每個帳號從遊戲開始就擁有狼衛；狼衛也在常駐尋訪名單內。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-01-22
 aliases:
   - "Wulfgard"
@@ -16,10 +16,10 @@ art:
 sources:
   - title: "官方幹員列表 (Gryphline)"
     url: https://endfield.gryphline.com/en-us/operator
-  - title: "warfarin.wiki 狼衛頁（遊戲資料 1.6）"
+  - title: "warfarin.wiki 狼衛頁（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/operators/wulfgard
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Wulfgard 頁"
     url: https://endfield.wiki.gg/wiki/Wulfgard
 ---

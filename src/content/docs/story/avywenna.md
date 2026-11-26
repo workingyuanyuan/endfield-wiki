@@ -1,17 +1,17 @@
 ---
 title: "Avywenna's file"
 description: "Avywenna's 6 operator files, 80 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "艾維文娜的檔案"
   - "艾维文娜的档案"
   - "アイビーエナのプロファイル"
   - "아비웨나의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -137,8 +137,8 @@ sources:
 | Operator Promotion 3 | Since it makes sense both professionally and personally, I don't mind if we get a little more personal here, right? C'mon, don't blush now! I totally understand what you're getting at! | Promotion III |
 | Operator Promotion 4 | I spent my whole childhood fighting for the top spot among my siblings, so staying ahead is just what I do. But here's the deal, Endmin — promise you'll always think of me first, yeah? | Promotion IV |
 | Operator Reporting for Duty | Well, well, look who it is — the legendary Endministrator. I picked up a couple of whispers on my way here. Curious to know which one's the most accurate? Since you don't know me well yet, here's my offer: how about I tell you a secret in exchange for a little something about you? Whaddya reckon? |  |
-| Standing by 1 | Where are we headed? |  |
-| Standing by 2 | Am I lookin' alright from this angle? |  |
+| Standing By 1 | Where are we headed? |  |
+| Standing By 2 | Am I lookin' alright from this angle? |  |
 | Assigning to Facility | Off we go, no time to waste! |  |
 | Greeting 1 | Hey, Endmin! How's it going? |  |
 | Greeting 2 | Endmin, mate! Ace to see you! Not avoiding me, are ya? | Reach trust: 300 |

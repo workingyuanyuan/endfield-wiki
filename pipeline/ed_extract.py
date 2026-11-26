@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gametext import clean  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-COMMIT = 'd847759f71d4549aba4727b3b0ac1a1ad0e37742'
+COMMIT = '887923b9e56e132f2570a25e8c2cf5e971508736'
 ED = os.path.join(ROOT, 'cache', 'third', 'ed', COMMIT)
 SOURCE = f'https://github.com/rmxlinux/EndfieldData/tree/{COMMIT}/TableCfg'
 
@@ -149,11 +149,16 @@ def main():
     # Recipes of the AIC production facilities. Recipes whose id or items hold "activity" use items
     # that the game describes as made "during a special period" (event items): left out.
     items_t = table('ItemTable')
+    ARRAY_MACHINES = {'magic_balancer_1', 'magic_spawner_1', 'magic_spawner_2'}
     facilities = {f['id'] for f in json.load(open(os.path.join(ROOT, 'records', 'facilities.json'), encoding='utf8'))}
     recipes = {'source': SOURCE, 'items': {}, 'recipes': []}
     for rid, r in sorted(table('FactoryMachineCraftTable').items(), key=lambda kv: (kv[1]['machineId'], kv[1]['sortId'])):
         touched = [x['id'] for g in r['ingredients'] + r['outcomes'] for x in g['group']]
         if 'activity' in rid or any('activity' in i for i in touched):
+            continue
+        # The array-related AIC Mode of Version 1.7 (Forge of Equilibrium): its recipes come in
+        # four variants that depend on the array. Not on the recipe page until the mode is written up.
+        if r['machineId'] in ARRAY_MACHINES:
             continue
         assert r['machineId'] in facilities, (rid, r['machineId'])
         # One ingredient group (all of it is used); one or two outcome groups (a second one is

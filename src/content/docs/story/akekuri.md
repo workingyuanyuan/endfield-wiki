@@ -1,17 +1,17 @@
 ---
 title: "Akekuri's file"
 description: "Akekuri's 6 operator files, 80 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "秋栗的檔案"
   - "秋栗的档案"
   - "アケクリのプロファイル"
   - "아케쿠리의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -156,8 +156,8 @@ sources:
 | Operator Promotion 3 | Endmin, got a bit of time later? The team's throwing you a little celebration party. I baked a Mont Blanc cake just for you, and trust me, you won't wanna miss it! | Promotion III |
 | Operator Promotion 4 | There's a theory I learned in class that everyone will eventually be promoted to a role they can't handle. So, if I get stuck for too long, Endmin, please be sure to step in and offer me your guide. | Promotion IV |
 | Operator Reporting for Duty | Captain Akekuri of Operation Team Z7 reporting in! The operations dossier, budget summary, and action plan are ready for review. Which would you like to read first? |  |
-| Standing by 1 | A strong team is one without any weak links. |  |
-| Standing by 2 | C'mon, let me do something for Endfield! |  |
+| Standing By 1 | A strong team is one without any weak links. |  |
+| Standing By 2 | C'mon, let me do something for Endfield! |  |
 | Assigning to Facility | You can count on me. I've done the job before. |  |
 | Greeting 1 | Small world, Endmin! You just wrapped up a mission as well? |  |
 | Greeting 2 | Coffee break, Endmin? I can whip up a fresh pot for you! | Reach trust: 300 |

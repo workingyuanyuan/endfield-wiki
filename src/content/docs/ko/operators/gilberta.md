@@ -1,10 +1,10 @@
 ---
 title: "질베르타"
 description: "질베르타는 아츠 유닛을 사용하는 6성 자연 속성 서포터 오퍼레이터로, 「전달자의 바람」에서 확률 증가 대상이었던 한정 오퍼레이터이다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
-caveat: "한정 오퍼레이터는 자신의 헤드헌팅 이후 다음 2회의 특별 허가 헤드헌팅에도 확률 증가 없이 포함되고, 그 뒤 명단에서 빠진다. 한정 오퍼레이터는 기초 헤드헌팅에 추가되지 않는다."
-lastVerified: 2026-11-22
-effectiveDate: 2026-05-13
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
+caveat: "한정 오퍼레이터는 자신의 헤드헌팅 이후 다음 2회의 특별 허가 헤드헌팅에도 확률 증가 없이 포함되고, 그 뒤 명단에서 빠진다. 한정 오퍼레이터는 기초 헤드헌팅에 추가되지 않는다. 질베르타는 재구축 헤드헌팅 「떠도는 모든 소망에게」에서 다시 확률 증가 대상이 되었다."
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-24
 aliases:
   - "Gilberta"
   - "潔爾佩塔"
@@ -26,12 +26,14 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/1338
   - title: "「찬란한 빛의 축제」 특수 헤드헌팅 안내"
     url: https://endfield.gryphline.com/en-us/news/7024
+  - title: "「떠도는 모든 소망에게」 재구축 헤드헌팅#1 안내"
+    url: https://endfield.gryphline.com/en-us/news/8992
   - title: "「봄날의 새벽」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/0751
-  - title: "warfarin.wiki, 질베르타(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 질베르타(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/gilberta
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Gilberta"
     url: https://endfield.wiki.gg/wiki/Gilberta
 ---
@@ -69,10 +71,13 @@ sources:
 | 격정의 색채 | 특별 허가 헤드헌팅 | 명단에 포함 | 2026-02-24 12:00 | 1.1 버전 업데이트(2026-03-12) |
 | 강에서 태어난 소녀 | 특별 허가 헤드헌팅 | 명단에 포함 | 1.1 버전 업데이트(2026-03-12) | 2026-03-29 11:59 |
 | 찬란한 빛의 축제 | 특수 헤드헌팅 | 6성 오퍼레이터 4명 중 1명 | 2026-05-14 12:00 | 1.3 버전 업데이트(2026-06-05) |
+| 떠도는 모든 소망에게 | 재구축 헤드헌팅#1 | 확률 증가 | 1.7 버전 업데이트(2026-11-25) | 2026-12-16 11:59 |
 
 한정 오퍼레이터는 자신의 헤드헌팅 이후 다음 2회의 특별 허가 헤드헌팅에도 확률 증가 없이 포함되고, 그 뒤 명단에서 빠진다. 한정 오퍼레이터는 기초 헤드헌팅에 추가되지 않는다.
 
 「찬란한 빛의 축제」의 6성 오퍼레이터는 레바테인, 질베르타, 아델리아와 포그라니치니크뿐이었다. 천장 카운트는 다른 모든 헤드헌팅과 별도였고, 이 헤드헌팅에서 120회 뽑으면 4명 중 1명을 고를 수 있는 선택권을 받았다.
+
+재구축 헤드헌팅은 과거의 확률 증가 대상을 다시 등장시킨다. 「떠도는 모든 소망에게」에서는 처음 120회 안에 질베르타를 반드시 얻는다. 이 확정은 같은 이름의 재구축 헤드헌팅 전체에서 한 번만 적용되며, 횟수는 다음 같은 이름의 재구축 헤드헌팅으로 이어진다.
 
 ## 추천 무기
 

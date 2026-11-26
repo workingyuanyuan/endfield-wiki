@@ -1,10 +1,10 @@
 ---
 title: "Gilberta"
 description: "Gilberta is a 6-star Nature Supporter with an Arts Unit; limited, rate-up in The Floaty Messenger."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
-caveat: "A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting."
-lastVerified: 2026-11-22
-effectiveDate: 2026-05-13
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
+caveat: "A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting. Gilberta returned as the rate-up operator of RE-Factor Headhunting To Every Wish Adrift."
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-24
 aliases:
   - "潔爾佩塔"
   - "洁尔佩塔"
@@ -26,12 +26,14 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/1338
   - title: "Fest of Brilliance Special Headhunting"
     url: https://endfield.gryphline.com/en-us/news/7024
+  - title: "To Every Wish Adrift RE-Factor Headhunting #1"
+    url: https://endfield.gryphline.com/en-us/news/8992
   - title: "At the Wake of Spring Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/0751
-  - title: "warfarin.wiki, Gilberta (game data 1.6)"
+  - title: "warfarin.wiki, Gilberta (game data 1.7)"
     url: https://warfarin.wiki/en/operators/gilberta
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Gilberta"
     url: https://endfield.wiki.gg/wiki/Gilberta
 ---
@@ -70,10 +72,13 @@ Gilberta is the rate-up 6-star operator of The Floaty Messenger, a Chartered Hea
 | Hues of Passion | Chartered Headhunting | In the pool | 2026-02-24 12:00 | Version 1.1 update, 2026-03-12 |
 | River's Daughter | Chartered Headhunting | In the pool | Version 1.1 update, 2026-03-12 | 2026-03-29 11:59 |
 | Fest of Brilliance | Special Headhunting | One of four 6-star operators | 2026-05-14 12:00 | Version 1.3 update, 2026-06-05 |
+| To Every Wish Adrift | RE-Factor Headhunting #1 | Rate-up | Version 1.7 update, 2026-11-25 | 2026-12-16 11:59 |
 
 A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting.
 
 Fest of Brilliance held only Laevatain, Gilberta, Ardelia and Pogranichnik as 6-star operators. Its guarantee count was separate from every other banner; 120 pulls on it gave a permit to choose one of the four.
+
+RE-Factor Headhunting brings back an earlier rate-up operator. To Every Wish Adrift guarantees Gilberta within the first 120 pulls, once across all banners of that name, and its pull count carries over to the next banner of the same name.
 
 ## Recommended weapons
 

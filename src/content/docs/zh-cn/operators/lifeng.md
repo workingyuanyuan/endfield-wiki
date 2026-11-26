@@ -1,10 +1,10 @@
 ---
 title: "黎风"
 description: "黎风是 6 星物理近卫干员，使用长柄武器；在常驻寻访名单内。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；技能文字与数值出自游戏数据 1.6"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；技能文字与数值出自游戏数据 1.7"
 caveat: "黎风没有当过概率提升干员；黎风是 5 名常驻 6 星干员之一，每一期特许寻访的名单都有黎风。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-28
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Lifeng"
   - "黎風"
@@ -20,10 +20,14 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3839
   - title: "「祖泉的新流」重构寻访#1说明"
     url: https://endfield.gryphline.com/en-us/news/6179
-  - title: "warfarin.wiki 黎风页（游戏数据 1.6）"
+  - title: "「致每一个飘游之愿」重构寻访#1说明"
+    url: https://endfield.gryphline.com/en-us/news/8992
+  - title: "「绯红瑰宝」重构寻访#1说明"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki 黎风页（游戏数据 1.7）"
     url: https://warfarin.wiki/en/operators/lifeng
-  - title: "rmxlinux/EndfieldData 游戏数据表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 游戏数据表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Lifeng 页"
     url: https://endfield.wiki.gg/wiki/Lifeng
 ---
@@ -61,6 +65,8 @@ sources:
 | --- | --- | --- | --- | --- |
 | 绚丽异彩 | 重构寻访#1 | 在名单内 | 2026-09-24 12:00 | 1.6 版更新，2026-10-15 |
 | 祖泉的新流 | 重构寻访#1 | 在名单内 | 2026-10-29 12:00 | 2026-11-19 11:59 |
+| 致每一个飘游之愿 | 重构寻访#1 | 在名单内 | 1.7 版更新，2026-11-25 | 2026-12-16 11:59 |
+| 绯红瑰宝 | 重构寻访#1 | 在名单内 | 2026-12-16 12:00 | 1.7 版结束 |
 
 ## 推荐武器
 

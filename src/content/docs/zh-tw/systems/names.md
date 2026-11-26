@@ -1,10 +1,10 @@
 ---
 title: "名稱對照"
 description: "《明日方舟：終末地》幹員、職業、屬性、武器類型、陣營與種族的三種文字名稱。"
-appliesTo: "《明日方舟：終末地》國際版，1.6 版；名稱出自三種語言的遊戲資料 1.6"
+appliesTo: "《明日方舟：終末地》國際版，1.7 版；名稱出自三種語言的遊戲資料 1.7"
 caveat: "洛西的簡體中文名是洛茜，用字不同，不只是繁簡轉換。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-22
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-26
 aliases:
   - "Names in three scripts"
   - "名称对照"
@@ -15,7 +15,7 @@ sources:
     url: https://endfield.gryphline.com/en-us/operator
   - title: "官方幹員列表，簡體中文 (Hypergryph)"
     url: https://endfield.hypergryph.com/operator
-  - title: "warfarin.wiki 幹員列表（遊戲資料 1.6）"
+  - title: "warfarin.wiki 幹員列表（遊戲資料 1.7）"
     url: https://warfarin.wiki/en/operators
 ---
 
@@ -41,6 +41,7 @@ sources:
 | [Estella](/zh-tw/operators/estella/) | 埃特拉 | 埃特拉 |
 | [Fluorite](/zh-tw/operators/fluorite/) | 螢石 | 萤石 |
 | [Gilberta](/zh-tw/operators/gilberta/) | 潔爾佩塔 | 洁尔佩塔 |
+| [Kay](/zh-tw/operators/kay/) | 小刻 | 小刻 |
 | [Laevatain](/zh-tw/operators/laevatain/) | 萊萬汀 | 莱万汀 |
 | [Last Rite](/zh-tw/operators/last-rite/) | 別禮 | 别礼 |
 | [Lifeng](/zh-tw/operators/lifeng/) | 黎風 | 黎风 |

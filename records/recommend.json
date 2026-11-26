@@ -1,5 +1,5 @@
 {
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "operators": {
   "akekuri": {
    "weapons": [
@@ -202,6 +202,17 @@
    "attributes": [
     "will",
     "int"
+   ]
+  },
+  "kay": {
+   "weapons": [
+    "wpn_lance_0017",
+    "wpn_lance_0018",
+    "wpn_lance_0004"
+   ],
+   "attributes": [
+    "str",
+    "agi"
    ]
   },
   "laevatain": {

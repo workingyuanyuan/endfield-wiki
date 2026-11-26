@@ -1,27 +1,27 @@
 ---
 title: "地域建設"
 description: "『アークナイツ：エンドフィールド』の地域建設。拠点、取引券、保管ボックス、地域間転送の仕組み。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。チュートリアル文言はゲームデータ 1.6 による"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。チュートリアル文言はゲームデータ 1.7 による"
 caveat: "地域間転送は転送元地域の地域建設レベルで解放される。在庫転送は転送元の地域倉庫から物資を持ち出し、より高いレベルで解放される無在庫転送だけが転送元の在庫を減らさない。"
-lastVerified: 2026-11-21
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Regional Development
   - 地區建設
   - 地区建设
   - 지역 건설
 sources:
-  - title: "warfarin.wiki、ゲーム内チュートリアル「地域間転送」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「地域間転送」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_domain_transport
-  - title: "warfarin.wiki、ゲーム内チュートリアル「地域建設システム」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「地域建設システム」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_domain
-  - title: "warfarin.wiki、ゲーム内チュートリアル「拠点取引」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「拠点取引」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_settlement
-  - title: "warfarin.wiki、ゲーム内チュートリアル「商品取引」「時価商品」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「商品取引」「時価商品」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_domain_shop_1
-  - title: "warfarin.wiki、ゲーム内チュートリアル「保管ボックス」「パッキング」「外部委託」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「保管ボックス」「パッキング」「外部委託」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_domain_depot_2
-  - title: "warfarin.wiki、ゲーム内チュートリアル「地域倉庫」「拡張管理システム」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「地域倉庫」「拡張管理システム」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_map_storage
   - title: "Endfield Talos Wiki、Regional Development"
     url: https://endfield.wiki.gg/wiki/Regional_Development
@@ -47,6 +47,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9560
   - title: "『アークナイツ：エンドフィールド』バージョン「丹青渡」開発通信"
     url: https://endfield.gryphline.com/en-us/news/7014
+  - title: "「キノコ菌グ！？君との大冒険！」 バージョンアップデートについて"
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 地域建設レベル
@@ -75,8 +77,8 @@ sources:
 武陵バッテリーで四号谷地の発電機を動かす場合：
 
 - 地域間転送で送られた物資は四号谷地の倉庫に届く。倉庫からは協約核心やサブ協約核心の搬出口、または倉庫搬出口で指定したアイテムをベルトコンベアへ送り出し、発電機へ運ぶ。
-- 小容量武陵バッテリーと中容量武陵バッテリーは発電機の燃料で、発電量はそれぞれ1600と3200、燃焼時間は1個40秒である。発電機1台あたり1時間に90個消費する。
-- どちらの武陵バッテリーも包装機で作る（レシピは[集成工業の電力](/ja/aic/power/)を参照）。
+- 小容量武陵バッテリー、中容量武陵バッテリー、大容量武陵バッテリーは発電機の燃料で、発電量はそれぞれ1600、3200、6400、燃焼時間は1個40秒である。発電機1台あたり1時間に90個消費する。
+- 3種類の武陵バッテリーはいずれも包装機で作る（レシピは[集成工業の電力](/ja/aic/power/)を参照）。
 
 ## 拠点と取引券
 
@@ -124,5 +126,5 @@ sources:
 | 上げ方 | 探索、拠点への物資納品、新しい鉱床への採鉱機設置、拠点・資源回収所・商品取引端末・保管ボックス・環境観測端末の強化、任務の完了で地域建設値を得る |
 | 上がるもの | 新機能の解放、鉱石の産出量、設備設置上限（エリアごとの協約容量、ジップライン設置上限、戦闘設備上限、鉱物純度） |
 | 例 | 武陵城の協約容量は初期200、レベル3で250、レベル5で300、レベル7で上限の350になる |
-| レベル上限 | 四号谷地は最大レベル12。バージョン1.1から1.6まで毎バージョンで武陵の上限が引き上げられた |
+| レベル上限 | 四号谷地は最大レベル12。バージョン1.1から1.7まで毎バージョンで武陵の上限が引き上げられた |
 | 業務一覧 | バージョン1.3以降、地域建設画面の業務一覧から商品取引、保管ボックス、およびマップ上の位置を確認できる |

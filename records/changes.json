@@ -41,12 +41,19 @@
   {"version": "1.5", "en": "The wording of the Critical Rate boost in the battle skill description was reworded; the effect did not change.", "zh-TW": "戰技描述中關於暴擊率提升的文字經過調整，實際效果不變。", "ja": "戦技の説明文のうち、会心率の上昇に関する文言が修正された。効果は変わっていない。", "ko": "배틀 스킬 설명 중 치명타 확률 증가에 관한 문구가 수정되었다. 효과는 바뀌지 않았다."}
  ],
  "arcane": [
-  {"version": "1.5", "en": "A bug that could cause abnormal SP return and damage after casting the battle skill in the Array Arcana: INT form was fixed.", "zh-TW": "修復處於「陣訣·智」形態時，特定操作可能導致施放戰技後技力返還及傷害異常的問題。", "ja": "陣訣・知の形態で戦技を使ったあと、SPの返還とダメージがおかしくなることがある不具合が修正された。", "ko": "진결 · 지혜 형태에서 배틀 스킬을 사용한 뒤 스킬 게이지 반환과 피해가 비정상적으로 되는 경우가 있던 버그가 수정되었다."}
+  {"version": "1.5", "en": "A bug that could cause abnormal SP return and damage after casting the battle skill in the Array Arcana: INT form was fixed.", "zh-TW": "修復處於「陣訣·智」形態時，特定操作可能導致施放戰技後技力返還及傷害異常的問題。", "ja": "陣訣・知の形態で戦技を使ったあと、SPの返還とダメージがおかしくなることがある不具合が修正された。", "ko": "진결 · 지혜 형태에서 배틀 스킬을 사용한 뒤 스킬 게이지 반환과 피해가 비정상적으로 되는 경우가 있던 버그가 수정되었다."},
+  {"version": "1.7", "en": "A bug where the combo skill could fail to trigger in the Array Arcana: INT form on the Echoes of War stage Beast File: Qingbo Stockade was fixed.", "zh-TW": "修復在「戰爭迴響」關卡「獸群紀錄：清波寨」中，處於「陣訣·智」形態時有機率無法觸發連攜技的問題。", "ja": "「戦争残響」のステージ「獣群の記録：清波砦」で、陣訣・知の形態のとき連携技が発動しないことがある不具合が修正された。", "ko": "「전쟁의 메아리」 스테이지 「비스트 무리 기록: 청파채」에서 진결 · 지혜 형태일 때 연계 스킬이 발동하지 않는 경우가 있던 버그가 수정되었다."}
  ],
  "liino": [
   {"version": "1.5", "en": "A bug where the first hit of the battle skill interrupted an enemy's charging state an abnormal number of times was fixed.", "zh-TW": "修復戰技初次命中敵人時，打斷敵人蓄力狀態次數異常的問題。", "ja": "戦技の初撃が敵のチャージ状態を中断する回数がおかしかった不具合が修正された。", "ko": "배틀 스킬의 첫 타격이 적의 차지 상태를 끊는 횟수가 비정상적이던 버그가 수정되었다."}
  ],
  "zhuang-fangyi": [
   {"version": "1.6", "en": "A bug where Ultimate Energy did not return to its earlier state when leaving a dungeon after casting the ultimate was fixed.", "zh-TW": "修復開啟終結技後退出副本時，終結技能量未正確回到進入副本時狀態的問題。", "ja": "必殺技を発動したあとにダンジョンを出ると、必殺チャージが元の状態に戻らない不具合が修正された。", "ko": "궁극기를 발동한 뒤 던전에서 나가면 궁극기 에너지가 원래 상태로 돌아오지 않던 버그가 수정되었다."}
+ ],
+ "si": [
+  {"version": "1.7", "en": "Five bugs fixed: Inksoul behaved abnormally when hit by a finisher; certain inputs made Final Stroke of the battle skill deal abnormal damage; the combo skill did not trigger when Alesh's battle skill solidified and defeated an enemy; Artful Intent recorded abnormal damage values on the Umbral Monument stage Marked by Dark Shadows - Sudden Roar of Oblivion; certain inputs showed the status icon abnormally.", "zh-TW": "修復五個問題：墨魂在特定情況下被處決時表現異常；特定操作使戰技中收筆造成的傷害異常；阿列什以戰技凍結並擊敗敵人時，連攜技無法正常觸發；「影拓豐碑」關卡「幽影刻形 - 沛然轟鳴」中筆意記錄的傷害數值異常；特定操作使狀態圖示顯示異常。", "ja": "不具合5件が修正された。墨魂が特定の状況で終撃を受けると正常に表示されない。特定の操作で戦技の収筆のダメージが正常に反映されない。アレッシュが戦技で敵を凍結させて倒したとき連携技が発動しない。「映像の記念碑」のステージ「刻まれた影 - 響く断末魔」で筆意が記録するダメージ数値が正常に反映されない。特定の操作で状態アイコンが正常に表示されない。", "ko": "버그 5건이 수정되었다. 특정 상황에서 묵혼이 처형될 때 비정상적으로 표시되던 문제, 특정 조작으로 배틀 스킬의 붓을 거두리라가 입히는 피해가 비정상적으로 적용되던 문제, 알레쉬가 배틀 스킬로 적을 동결시켜 처치했을 때 연계 스킬이 발동하지 않던 문제, 「그림자 이정표」 스테이지 「그림자 형상 각인 - 천지의 포효」에서 필의가 기록하는 피해 수치가 비정상적으로 표시되던 문제, 특정 조작으로 상태 아이콘이 비정상적으로 표시되던 문제다."}
+ ],
+ "typhoeus": [
+  {"version": "1.7", "en": "Two bugs fixed: when the combo skill was cast repeatedly with certain inputs, the Barrage Arrays of the later casts did not raise the Nature Burst damage enemies take; Hovering could become abnormal after the battle skill.", "zh-TW": "修復兩個問題：以特定操作連續施放連攜技時，後施放的箭陣無法正常提高敵人受到的自然爆發傷害；特定情況下施放戰技後浮空狀態異常。", "ja": "不具合2件が修正された。特定の操作で連携技を連続で発動すると、あとから発動した矢陣が敵の受ける自然爆発ダメージを増加させない。特定の状況で戦技を発動したあと浮遊状態に異常が発生する。", "ko": "버그 2건이 수정되었다. 특정 조작으로 연계 스킬을 연속으로 사용했을 때 나중에 사용한 화살진이 적이 받는 자연 폭발 피해를 증가시키지 못하던 문제, 특정 상황에서 배틀 스킬 사용 후 공중에 뜬 상태가 비정상적으로 표시되던 문제다."}
  ]
 }

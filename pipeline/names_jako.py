@@ -27,7 +27,7 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-COMMIT = 'd847759f71d4549aba4727b3b0ac1a1ad0e37742'
+COMMIT = '887923b9e56e132f2570a25e8c2cf5e971508736'
 ED = os.path.join(ROOT, 'cache', 'third', 'ed', COMMIT)
 LANGS = {'en': 'EN', 'zh-TW': 'TC', 'ja': 'JP', 'ko': 'KR'}
 RUBY = re.compile(r'<p="[^"]*" padding=0>(.*?)</p>')
@@ -75,6 +75,7 @@ SEVERAL = {
     ('Agility', '敏捷'): ('ja', '敏捷', 'attribute of an operator: two of the three ids give 敏捷, and the Essence stat Agility is 敏捷UP'),
     ('SP Recovery', '技力回復'): ('ja', 'SP回復量', 'skill value name: 36 of the 37 ids, all skill value rows, give SP回復量; the other is SP回復'),
     ('SP Return', '返還技力'): ('ja', 'SP返還量', 'skill value name: 60 of the 63 ids give SP返還量; three give 戦技ポイント（SP）の返還'),
+    ('Endfield Industries', '終末地工業'): ('ja', 'エンドフィールド工業', 'faction: 64 of the 71 ids in game data 1.7 give エンドフィールド工業; seven give エンドフィールド'),
     ('Cooldown', '冷卻'): ('ja', 'クールダウン', "Xaihi's basic attack is named Cooldown: one id gives クールダウン, one クールタイム; "
                        'クールタイム is also the UI label for a cooldown time (冷卻時間), so the skill name takes the other form'),
 }

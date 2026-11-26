@@ -1,9 +1,9 @@
 ---
 title: "Endministrator"
 description: "The Endministrator, the player character, is a 6-star Physical Guard with a sword."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
 caveat: "The Endministrator is the player character and is in no headhunting pool. The official operator list shows two Endministrator entries for one operator."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-01-22
 aliases:
   - "管理員"
@@ -16,10 +16,10 @@ art:
 sources:
   - title: "Official operator list (Gryphline)"
     url: https://endfield.gryphline.com/en-us/operator
-  - title: "warfarin.wiki, Endministrator (game data 1.6)"
+  - title: "warfarin.wiki, Endministrator (game data 1.7)"
     url: https://warfarin.wiki/en/operators/endministrator
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Endministrator"
     url: https://endfield.wiki.gg/wiki/Endministrator
 ---

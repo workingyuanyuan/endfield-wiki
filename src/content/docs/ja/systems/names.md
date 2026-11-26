@@ -1,10 +1,10 @@
 ---
 title: "名称対照"
 description: "『アークナイツ：エンドフィールド』のオペレーター、職業、属性、武器の種類、能力値、陣営、種族の日本語・英語・中国語名。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。名称は各言語のゲームデータ 1.6 による"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。名称は各言語のゲームデータ 1.7 による"
 caveat: "ロッシの中国語名は繁体字で洛西、簡体字で洛茜と字が異なり、字体の変換ではない。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-22
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-26
 aliases:
   - "Names in three scripts"
   - "名稱對照"
@@ -15,7 +15,7 @@ sources:
     url: https://endfield.gryphline.com/en-us/operator
   - title: "公式オペレーター一覧、簡体字中国語（Hypergryph）"
     url: https://endfield.hypergryph.com/operator
-  - title: "warfarin.wiki、オペレーター一覧（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、オペレーター一覧（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/operators
 ---
 
@@ -41,6 +41,7 @@ sources:
 | [エステーラ](/ja/operators/estella/) | Estella | 埃特拉 | 埃特拉 |
 | [フローライト](/ja/operators/fluorite/) | Fluorite | 螢石 | 萤石 |
 | [ギルベルタ](/ja/operators/gilberta/) | Gilberta | 潔爾佩塔 | 洁尔佩塔 |
+| [ケーちゃん](/ja/operators/kay/) | Kay | 小刻 | 小刻 |
 | [レーヴァテイン](/ja/operators/laevatain/) | Laevatain | 萊萬汀 | 莱万汀 |
 | [ラストライト](/ja/operators/last-rite/) | Last Rite | 別禮 | 别礼 |
 | [リーフォン](/ja/operators/lifeng/) | Lifeng | 黎風 | 黎风 |

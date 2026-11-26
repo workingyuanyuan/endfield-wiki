@@ -495,6 +495,36 @@
   }
  },
  {
+  "id": "wpn_lance_0018",
+  "slug": "raid-comet",
+  "rarity": 6,
+  "name": {
+   "en": "Raid Comet",
+   "zh-TW": "突擊流星",
+   "zh-CN": "突击流星"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
+  "id": "wpn_lance_0017",
+  "slug": "sweet-deal",
+  "rarity": 6,
+  "name": {
+   "en": "Sweet Deal",
+   "zh-TW": "甜美交易",
+   "zh-CN": "甜美交易"
+  },
+  "type": {
+   "en": "Polearm",
+   "zh-TW": "長柄武器",
+   "zh-CN": "长柄武器"
+  }
+ },
+ {
   "id": "wpn_lance_0010",
   "slug": "valiant",
   "rarity": 6,
@@ -585,7 +615,7 @@
   }
  },
  {
-  "id": "wpn_sword_0021_ink",
+  "id": "wpn_sword_0021",
   "slug": "grand-vision",
   "rarity": 6,
   "name": {
@@ -600,7 +630,7 @@
   }
  },
  {
-  "id": "wpn_sword_0021",
+  "id": "wpn_sword_0021_ink",
   "slug": "grand-vision",
   "rarity": 6,
   "name": {

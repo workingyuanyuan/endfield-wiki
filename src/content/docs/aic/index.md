@@ -1,19 +1,19 @@
 ---
 title: AIC overview
 description: The Automated Industry Complex (AIC) is the automated factory you build in Arknights Endfield regions.
-appliesTo: "Arknights: Endfield, global service, Version 1.6; facility data from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; facility data from game data 1.7"
 caveat: Each region (Valley IV, Wuling) has its own PAC, power grid, depot and Protocol Capacity, and most facilities run only inside the supply range of a powered Electric Pylon on their own region's grid.
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 集成工業總覽
   - 集成工业总览
   - "集成工業の概要"
   - "통합 공업 개요"
 sources:
-  - title: warfarin.wiki, in-game tutorials Automated Industry Complex, Protocol Automation-Core, Sub-PAC, Regional Depot and AIC Factory Plan (game data 1.6)
+  - title: warfarin.wiki, in-game tutorials Automated Industry Complex, Protocol Automation-Core, Sub-PAC, Regional Depot and AIC Factory Plan (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_aic
-  - title: warfarin.wiki, Facilities (game data 1.6)
+  - title: warfarin.wiki, Facilities (game data 1.7)
     url: https://warfarin.wiki/en/facilities
   - title: Endfield Talos Wiki, Automated Industry Complex
     url: https://endfield.wiki.gg/wiki/Automated_Industry_Complex
@@ -33,6 +33,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5208
   - title: Sanctuary of Ink Version Update Notes
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: Meeting You in the World o'Shrooms Version Update Notes
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 | Topic | Contents |
@@ -107,7 +109,7 @@ Facilities fall into ten groups: Resourcing, Depot Access, Production I, Product
 | Moulding Unit | 塑形機 | 塑形机 | 10 |
 | Planting Unit | 種植機 | 种植机 | 20 |
 | Seed-Picking Unit | 採種機 | 采种机 | 10 |
-| Water Treatment Unit | 廢水處理機 | 废水处理机 | 50 |
+| Waste Treatment Unit | 廢料處理機 | 废料处理机 | 50 |
 
 ### Production II
 
@@ -158,8 +160,9 @@ A dash means the facility works without the grid: the Portable Originium Rig run
 | 1.4 | Gas AIC mode in Wuling with gas facilities. New outpost Xiranflow Cloudseeder Station. Facilities in the wild can be stashed to the depot from the map. Conduit range up to 300 m. |
 | 1.5 | Continue Placing for facilities. The blueprint facility limit shows while box-selecting. |
 | 1.6 | Auto-Farmer for the farms of Si's Painting and later Wuling City. A facility can be placed straight from the Backpack or any depot, or built from materials in any depot. |
+| 1.7 | Array-related AIC Mode in Wuling with the Forge of Equilibrium, the Forges of Luminance and the Rebuilding Supply Port; Exclusion Zone Rebuilding. The Water Treatment Unit became the Waste Treatment Unit. Item and Pipe Control Ports can be placed directly on a facility's port. |
 
-Every version from 1.1 to 1.6 also raised the Regional Development Level cap of Wuling.
+Every version from 1.1 to 1.7 also raised the Regional Development Level cap of Wuling.
 
 ## Blueprint sharing rules
 

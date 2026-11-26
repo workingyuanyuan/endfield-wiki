@@ -1,17 +1,17 @@
 ---
 title: "오퍼레이터 파일"
-description: "《명일방주: 엔드필드》 오퍼레이터 34명의 파일, 음성, 채팅."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스. 게임 데이터 1.6의 텍스트"
+description: "《명일방주: 엔드필드》 오퍼레이터 35명의 파일, 음성, 채팅."
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스. 게임 데이터 1.7의 텍스트"
 caveat: "각 언어의 텍스트는 게임의 해당 언어판이며, 문장 단위로 일치하지 않을 수 있다."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "Operator files"
   - "幹員檔案"
   - "干员档案"
   - "プロファイル"
 sources:
-  - title: "rmxlinux/EndfieldData 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 | 오퍼레이터 | 파일 | 음성 | 채팅 |
@@ -33,6 +33,7 @@ sources:
 | [에스텔라의 파일](/ko/story/estella/) | 6 | 80 | 3 |
 | [플루라이트의 파일](/ko/story/fluorite/) | 6 | 80 | 3 |
 | [질베르타의 파일](/ko/story/gilberta/) | 6 | 81 | 3 |
+| [케르의 파일](/ko/story/kay/) | 6 | 81 | 3 |
 | [레바테인의 파일](/ko/story/laevatain/) | 6 | 81 | 3 |
 | [라스트 라이트의 파일](/ko/story/last-rite/) | 6 | 82 | 3 |
 | [여풍의 파일](/ko/story/lifeng/) | 6 | 83 | 4 |

@@ -1,24 +1,24 @@
 ---
 title: "帝江号"
 description: "《明日方舟：终末地》的基地飞船帝江号：舱室、干员进驻、心情，以及各舱室的后勤技能。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；教学与后勤技能出自游戏数据 1.6"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；教学与后勤技能出自游戏数据 1.7"
 caveat: "进驻的干员会随时间消耗心情；心情耗尽时会前往中央环厅休息，在心情恢复满之前不提供进驻效果。后勤技能随精英化解锁，未精英化的干员没有后勤技能。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-22
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-26
 aliases:
   - "Dijiang"
   - "帝江號"
   - "제강호"
 sources:
-  - title: "游戏内教学「帝江号」，WikiTutorialPageTable（游戏数据 1.6）"
-    url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/WikiTutorialPageTable.json
-  - title: "rmxlinux/EndfieldData 游戏数据表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "游戏内教学「帝江号」，WikiTutorialPageTable（游戏数据 1.7）"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/WikiTutorialPageTable.json
+  - title: "rmxlinux/EndfieldData 游戏数据表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## 舱室
 
-进驻帝江号舱室的干员会在玩家不在时制造培养材料、培养晶植、菌类与矿物、收集线索并累积信赖度。功能舱室至少要进驻 1 名干员才能运转，每多进驻一名干员，舱室的生产效能就提升。34 名干员中有 33 名拥有加成某个舱室的后勤技能；管理员没有。
+进驻帝江号舱室的干员会在玩家不在时制造培养材料、培养晶植、菌类与矿物、收集线索并累积信赖度。功能舱室至少要进驻 1 名干员才能运转，每多进驻一名干员，舱室的生产效能就提升。35 名干员中有 34 名拥有加成某个舱室的后勤技能；管理员没有。
 
 | 舱室 | 用途 | 在此生效的后勤技能 |
 | --- | --- | --- |
@@ -66,6 +66,7 @@ sources:
 | 干员经验材料生产效率 | [狼卫](/zh-cn/operators/wulfgard/) | 狼群的技巧 | +10%，精英化·一 | +20%，精英化·三 |
 | 干员经验材料生产效率 | [赛希](/zh-cn/operators/xaihi/) | 标准化编译 | +10%，精英化·一 | +20%，精英化·三 |
 | 武器经验材料生产效率 | [洁尔佩塔](/zh-cn/operators/gilberta/) | 信使的武器知识 | +20%，精英化·二 | +30%，精英化·四 |
+| 武器经验材料生产效率 | [小刻](/zh-cn/operators/kay/) | 野路子铁匠 | +20%，精英化·一 | +30%，精英化·三 |
 | 武器经验材料生产效率 | [佩丽卡](/zh-cn/operators/perlica/) | 协议调度 | +20%，精英化·二 | +30%，精英化·四 |
 | 武器经验材料生产效率 | [骏卫](/zh-cn/operators/pogranichnik/) | 先利其器 | +20%，精英化·一 | +30%，精英化·三 |
 | 武器经验材料生产效率 | [安塔尔](/zh-cn/operators/antal/) | 实验性施术单元 | +10%，精英化·一 | +20%，精英化·三 |
@@ -73,6 +74,7 @@ sources:
 | 武器经验材料生产效率 | [陈千语](/zh-cn/operators/chen-qianyu/) | 名剑选评 | +10%，精英化·一 | +20%，精英化·三 |
 | 舱室内干员心情消耗降低 | [明河](/zh-cn/operators/argent-flow/) | 因势应物 | −14%，精英化·二 | −18%，精英化·四 |
 | 舱室内干员心情消耗降低 | [洁尔佩塔](/zh-cn/operators/gilberta/) | 信使的加工艺术 | −14%，精英化·一 | −18%，精英化·三 |
+| 舱室内干员心情消耗降低 | [小刻](/zh-cn/operators/kay/) | 蜜饼小歇 | −14%，精英化·二 | −18%，精英化·四 |
 | 舱室内干员心情消耗降低 | [莱万汀](/zh-cn/operators/laevatain/) | 不熄炎火 | −14%，精英化·二 | −18%，精英化·四 |
 | 舱室内干员心情消耗降低 | [骏卫](/zh-cn/operators/pogranichnik/) | 鼓舞士气 | −14%，精英化·二 | −18%，精英化·四 |
 | 舱室内干员心情消耗降低 | [庄方宜](/zh-cn/operators/zhuang-fangyi/) | 管代经验 | −14%，精英化·一 | −18%，精英化·三 |

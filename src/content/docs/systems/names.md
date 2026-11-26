@@ -1,10 +1,10 @@
 ---
 title: "Names in three scripts"
 description: "Operators, classes, elements, weapon types, attributes, factions and races of Endfield in three scripts."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; names from game data 1.6 in three languages"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; names from game data 1.7 in three languages"
 caveat: "Rossi is 洛西 in Traditional Chinese and 洛茜 in Simplified Chinese: a different character, not a conversion between scripts."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-22
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-26
 aliases:
   - "名稱對照"
   - "名称对照"
@@ -15,7 +15,7 @@ sources:
     url: https://endfield.gryphline.com/en-us/operator
   - title: "Official operator list, Simplified Chinese (Hypergryph)"
     url: https://endfield.hypergryph.com/operator
-  - title: "warfarin.wiki, Operators (game data 1.6)"
+  - title: "warfarin.wiki, Operators (game data 1.7)"
     url: https://warfarin.wiki/en/operators
 ---
 
@@ -41,6 +41,7 @@ sources:
 | [Estella](/operators/estella/) | 埃特拉 | 埃特拉 |
 | [Fluorite](/operators/fluorite/) | 螢石 | 萤石 |
 | [Gilberta](/operators/gilberta/) | 潔爾佩塔 | 洁尔佩塔 |
+| [Kay](/operators/kay/) | 小刻 | 小刻 |
 | [Laevatain](/operators/laevatain/) | 萊萬汀 | 莱万汀 |
 | [Last Rite](/operators/last-rite/) | 別禮 | 别礼 |
 | [Lifeng](/operators/lifeng/) | 黎風 | 黎风 |

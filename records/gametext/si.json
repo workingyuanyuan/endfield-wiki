@@ -1,7 +1,7 @@
 {
  "slug": "si",
  "gameId": "chr_0036_jsspsi",
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "intro": {
   "en": "\"Hmph. Only think of me when trouble shows up?\"\nSi is one of the few Feranmut Proxies on Talos-II. The Feranmuts are paracausal beings native to Terra, and the consciousness that They manifest in slumber before human presence is known as Feranmut Proxy. Si's relationship with her Feranmut is somewhat complicated, but people still habitually refer to her as a Feranmut Proxy. In truth, Si is no one's Proxy. She is simply herself. Beneath her formidable and mysterious exterior lies a young soul who still holds onto hope and curiosity about the world.\nIn her daily life, she uses her abilities to provide comprehensive support for HAS and Endfield. In her spare time, she enjoys exploring the cities of Talos-II in search of the latest technologies and fashion trends. She follows her heart's desires and is unfettered by conventions.\n\"I'll help you out again. Remember to pay up once we get back to the inn.\"",
   "zh-TW": "「哼，惹了麻煩，才想起來找我？」\n祀是塔衛二上極少數的巨獸代理人之一。所謂巨獸，乃是泰拉原生的超因果生物，而祂們沉眠時顯現於人前的意識，便被稱作巨獸代理人。祀與其巨獸的關係有些複雜，不過出於習慣，人們依舊稱呼她為巨獸代理人。但實際上，祀並非誰的代理，她只是她自己。隱藏在那份強大與神秘下的，是一個仍對世界抱有希望與好奇心的年輕靈魂。\n平常她會動用自己的能力，為宏科院與終末地提供全面支援。閒暇之餘，她也會在塔衛二的各個城市中，追尋前沿科技與時尚潮流。隨心所欲，無拘無束。\n「再幫你一把，回客棧了記得找我清帳。」",
@@ -179,7 +179,7 @@
     "zh-TW": "施放連攜技成竹在胸時，攻擊力+[8%+3%×消耗或吸收的最高附著層數]，持續10秒，無法疊加。",
     "zh-CN": "施放连携技成竹在胸时，攻击力+[8%+3%×消耗或吸收的最高附着层数]，持续10秒，无法叠加。",
     "ja": "連携技「胸中に成竹在り」発動時、10秒間攻撃力+[8%+3%×消費または吸収した最大付着段階数]（重ね掛け不可）",
-    "ko": "연계 스킬 먹빛은 이미 정해졌으니를 사용할 때, 공격력 +[8%+3%×소모 또는 흡수한 부착의 최대 스택 수치], 10초 동안 지속되며, 중첩되지 않습니다."
+    "ko": "연계 스킬 먹빛은 이미 정해졌으니를 사용하면, 공격력 +[8%+3%×소모 혹은 흡수한 최대 부착 스택 수치], 10초 동안 지속되며, 중첩되지 않습니다."
    }
   },
   {

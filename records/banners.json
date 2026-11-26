@@ -475,9 +475,95 @@
    },
    "closes": {
     "kind": "maintenance",
-    "version": "next"
+    "version": "1.7"
    },
    "noticeDate": "2026-11-04"
+  },
+  {
+   "id": "anvil-backpack-plus-a-pot-o-honey",
+   "notice": "5204",
+   "type": "chartered",
+   "version": "1.7",
+   "name": {
+    "en": "Anvil, Backpack, Plus A Pot o'Honey",
+    "zh-TW": "鍛砧、行囊與蜜糖"
+   },
+   "rateUp": "kay",
+   "sixStars": [
+    "kay",
+    "argent-flow",
+    "si",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "release",
+    "version": "1.7"
+   },
+   "closes": {
+    "kind": "time",
+    "at": "2026-12-23 11:59"
+   },
+   "noticeDate": "2026-11-24"
+  },
+  {
+   "id": "to-every-wish-adrift",
+   "notice": "8992",
+   "type": "refactor",
+   "version": "1.7",
+   "name": {
+    "en": "To Every Wish Adrift",
+    "zh-TW": "致每一個飄遊之願"
+   },
+   "rateUp": "gilberta",
+   "sixStars": [
+    "gilberta",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "release",
+    "version": "1.7"
+   },
+   "closes": {
+    "kind": "time",
+    "at": "2026-12-16 11:59"
+   },
+   "noticeDate": "2026-11-24"
+  },
+  {
+   "id": "precious-scarlet",
+   "notice": "0740",
+   "type": "refactor",
+   "version": "1.7",
+   "name": {
+    "en": "Precious Scarlet",
+    "zh-TW": "緋紅瑰寶"
+   },
+   "rateUp": "rossi",
+   "sixStars": [
+    "rossi",
+    "ember",
+    "lifeng",
+    "ardelia",
+    "last-rite",
+    "pogranichnik"
+   ],
+   "opens": {
+    "kind": "time",
+    "at": "2026-12-16 12:00"
+   },
+   "closes": {
+    "kind": "maintenance",
+    "version": "next"
+   },
+   "noticeDate": "2026-11-25"
   }
  ]
 }

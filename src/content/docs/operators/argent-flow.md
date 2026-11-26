@@ -1,10 +1,10 @@
 ---
 title: "Argent Flow"
 description: "Argent Flow is a 6-star Electric Guard with a sword; limited operator."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
 caveat: "A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-24
 aliases:
   - "明河"
   - "ミンホ"
@@ -17,12 +17,14 @@ sources:
     url: https://endfield.gryphline.com/en-us/operator
   - title: "The Hearth Fire Beckons the Starry Flow Chartered Headhunting"
     url: https://endfield.gryphline.com/en-us/news/7012
+  - title: "Anvil, Backpack, Plus A Pot o'Honey Chartered Headhunting"
+    url: https://endfield.gryphline.com/en-us/news/5204
   - title: "Sanctuary of Ink Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/9560
-  - title: "warfarin.wiki, Argent Flow (game data 1.6)"
+  - title: "warfarin.wiki, Argent Flow (game data 1.7)"
     url: https://warfarin.wiki/en/operators/argent-flow
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Argent Flow"
     url: https://endfield.wiki.gg/wiki/Argent_Flow
 ---
@@ -59,7 +61,8 @@ Argent Flow is the rate-up 6-star operator of The Hearth Fire Beckons the Starry
 
 | Banner | Type | Place | Opens | Ends |
 | --- | --- | --- | --- | --- |
-| The Hearth Fire Beckons the Starry Flow | Chartered Headhunting | Rate-up | 2026-11-05 12:00 | End of Version 1.6 |
+| The Hearth Fire Beckons the Starry Flow | Chartered Headhunting | Rate-up | 2026-11-05 12:00 | Version 1.7 update, 2026-11-25 |
+| Anvil, Backpack, Plus A Pot o'Honey | Chartered Headhunting | In the pool | Version 1.7 update, 2026-11-25 | 2026-12-23 11:59 |
 
 A limited operator stays in the pool of the two Chartered Headhunting banners after its own, without rate-up, then leaves the pool; limited operators are never added to Basic Headhunting.
 

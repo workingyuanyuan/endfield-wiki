@@ -1,10 +1,10 @@
 ---
 title: "Arknights: Endfield wiki"
 description: "Operators, headhunting rules, combat, the AIC factory and versions of Arknights: Endfield, global service."
-appliesTo: "Arknights: Endfield, global service, release (2026-01-22) to Version 1.6"
+appliesTo: "Arknights: Endfield, global service, release (2026-01-22) to Version 1.7"
 caveat: Dates and times are Asia server time (UTC+8). Update maintenance happens at the same moment on the Americas / Europe server, 17:00 to 23:00 (UTC-5) the day before; timed content ends at the same clock time in each server's own time.
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 明日方舟：終末地 Wiki
   - 明日方舟：终末地 Wiki
@@ -20,6 +20,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news
   - title: Sanctuary of Ink Version Update Notes
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: Meeting You in the World o'Shrooms Version Update Notes
+    url: https://endfield.gryphline.com/en-us/news/0740
   - title: Pre-Download Now Available (release time, platforms)
     url: https://endfield.gryphline.com/en-us/news/9574
   - title: Now Officially Available on Steam
@@ -47,6 +49,7 @@ sources:
 | [1.4](/versions/1-4/) | Homecoming | 2026-07-16 | Arcane, Liino |
 | [1.5](/versions/1-5/) | Dreamscape of Wind and Snow | 2026-09-02 | Typhoeus, Purrchena |
 | [1.6](/versions/1-6/) | Sanctuary of Ink | 2026-10-15 | Si, Argent Flow |
+| [1.7](/versions/1-7/) | Meeting You in the World o'Shrooms | 2026-11-25 | Kay, Mimino |
 
 ## Platforms
 

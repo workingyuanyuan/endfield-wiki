@@ -1,10 +1,10 @@
 ---
 title: "티프로스"
 description: "티프로스는 아츠 유닛을 사용하는 6성 자연 속성 스트라이커 오퍼레이터로, 「겨울 사냥」에서 확률 증가 대상이었던 한정 오퍼레이터이다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "한정 오퍼레이터는 자신의 헤드헌팅 이후 다음 2회의 특별 허가 헤드헌팅에도 확률 증가 없이 포함되고, 그 뒤 명단에서 빠진다. 한정 오퍼레이터는 기초 헤드헌팅에 추가되지 않는다."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Typhoeus"
   - "提弗洛斯"
@@ -23,10 +23,12 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/7012
   - title: "「눈꽃 속에 피어난 고요한 꿈」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki, 티프로스(게임 데이터 1.6)"
+  - title: "「뜻밖의 만남, 버섯 동산 대모험」 버전 업데이트 설명"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki, 티프로스(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/typhoeus
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Typhoeus"
     url: https://endfield.wiki.gg/wiki/Typhoeus
 ---
@@ -67,7 +69,7 @@ sources:
 | --- | --- | --- | --- | --- |
 | 겨울 사냥 | 특별 허가 헤드헌팅 | 확률 증가 | 1.5 버전 업데이트(2026-09-02) | 2026-09-30 11:59 |
 | 만물의 재구성 | 특별 허가 헤드헌팅 | 명단에 포함 | 1.6 버전 업데이트(2026-10-15) | 2026-11-05 11:59 |
-| 은하수를 부르는 불꽃 | 특별 허가 헤드헌팅 | 명단에 포함 | 2026-11-05 12:00 | 1.6 버전 종료 |
+| 은하수를 부르는 불꽃 | 특별 허가 헤드헌팅 | 명단에 포함 | 2026-11-05 12:00 | 1.7 버전 업데이트(2026-11-25) |
 
 한정 오퍼레이터는 자신의 헤드헌팅 이후 다음 2회의 특별 허가 헤드헌팅에도 확률 증가 없이 포함되고, 그 뒤 명단에서 빠진다. 한정 오퍼레이터는 기초 헤드헌팅에 추가되지 않는다.
 
@@ -221,3 +223,9 @@ sources:
 | 정예화 II | 60 | 프로토콜 디스크 ×25, 보통 붉은 기둥 버섯 ×5, 탈로시안 화폐 ×6500 |
 | 정예화 III | 80 | 프로토콜 디스크 세트 ×24, 진한 붉은 기둥 버섯 ×5, 탈로시안 화폐 ×18000 |
 | 정예화 IV | 90 | 프로토콜 디스크 세트 ×36, 타키온 차폐 구조체 ×20, 탈로스 버섯 ×8, 탈로시안 화폐 ×100000 |
+
+## 출시 후 변경 사항
+
+| 버전 | 변경 |
+| --- | --- |
+| 1.7 | 버그 2건이 수정되었다. 특정 조작으로 연계 스킬을 연속으로 사용했을 때 나중에 사용한 화살진이 적이 받는 자연 폭발 피해를 증가시키지 못하던 문제, 특정 상황에서 배틀 스킬 사용 후 공중에 뜬 상태가 비정상적으로 표시되던 문제다 |

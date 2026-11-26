@@ -1,17 +1,17 @@
 ---
 title: "Arcane's file"
 description: "Arcane's 6 operator files, 82 voice lines and 4 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "訣的檔案"
   - "诀的档案"
   - "オクギのプロファイル"
   - "결의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -137,8 +137,8 @@ sources:
 | Operator Promotion 3 | Commendations are appreciated, but I'd rather keep busy with more missions. Any missions will do. Idleness doesn't suit me... I want to be of more help to you. | Promotion III |
 | Operator Promotion 4 | Hmm? Ah ... my mind went back to when I was made Task Leader at Yinglung Pass. After the Wuling affairs were over ... the stubborn fury that once drove me had settled. Had I known that one day you would personally award me ... well, never mind. | Promotion IV |
 | Operator Reporting for Duty | YSTF Task Leader, Arcane, reporting to Endfield... Awaiting your orders, Commander. |  |
-| Standing by 1 | Be of ferrium will, move as a razor's edge. Yinglung wins by momentum. |  |
-| Standing by 2 | Consider me a blade at your command. Point me at where you need me, and I'll strike. |  |
+| Standing By 1 | Be of ferrium will, move as a razor's edge. Yinglung wins by momentum. |  |
+| Standing By 2 | Consider me a blade at your command. Point me at where you need me, and I'll strike. |  |
 | Assigning to Facility | Yinglungs are never choosy about their missions. My duty is to see them through. |  |
 | Greeting 1 | Finally got a moment, Endmin? |  |
 | Greeting 2 | Saw you from a distance. Any new intel? | Reach trust: 300 |
@@ -178,7 +178,7 @@ sources:
 | Rest | Timely rest concluded. Let's move out. |  |
 | Tactical Use 1 | Using tacticals! |  |
 | Tactical Use 2 | A timely treatment. |  |
-| Warning Teammate | Caution! Incoming! |  |
+| Danger Warning | Caution! Incoming! |  |
 | Injured | Not yet... I can still fight. |  |
 | 0 HP | I can't ... fall here... |  |
 | Team Encouragement 1 | Stellar. |  |

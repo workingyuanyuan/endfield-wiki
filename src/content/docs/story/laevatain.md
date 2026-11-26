@@ -1,17 +1,17 @@
 ---
 title: "Laevatain's file"
 description: "Laevatain's 6 operator files, 81 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "萊萬汀的檔案"
   - "莱万汀的档案"
   - "レーヴァテインのプロファイル"
   - "레바테인의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -181,8 +181,8 @@ sources:
 | Operator Promotion 3 | Back again? I don't need any token for a job well done. But if you insist, I'll keep it as a symbol and proof ... for all the memories we made together. | Promotion III |
 | Operator Promotion 4 | You Endfielders seem to be increasingly reliant on me. I guess you leave me no choice, but to accept this honor. You may now address me as Endfield Operator Laevatain... Hey! What's up with that look on your face? | Promotion IV |
 | Operator Reporting for Duty | Haven't we met already? Hmph. Doesn't matter. You'll remember me by this sword and flame. |  |
-| Standing by 1 | I hate fools who like to micro-manage. Thank goodness you're not one of them. |  |
-| Standing by 2 | Looking for me? You finally remember something? |  |
+| Standing By 1 | I hate fools who like to micro-manage. Thank goodness you're not one of them. |  |
+| Standing By 2 | Looking for me? You finally remember something? |  |
 | Assigning to Facility | Hmm, seems like a good place to waste my time in... |  |
 | Greeting 1 | Ah, here you are. |  |
 | Greeting 2 | It's you... Oh, I wasn't waiting for you specifically. | Reach trust: 300 |

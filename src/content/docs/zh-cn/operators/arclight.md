@@ -1,9 +1,9 @@
 ---
 title: "弧光"
 description: "弧光是 5 星电磁先锋干员，使用单手剑；在常驻寻访名单内。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；技能文字与数值出自游戏数据 1.6"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；技能文字与数值出自游戏数据 1.7"
 caveat: "弧光没有概率提升寻访；弧光在常驻名单内，基础寻访与每一期特许寻访都抽得到。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-01-22
 aliases:
   - "Arclight"
@@ -15,10 +15,10 @@ art:
 sources:
   - title: "官方干员列表 (Gryphline)"
     url: https://endfield.gryphline.com/en-us/operator
-  - title: "warfarin.wiki 弧光页（游戏数据 1.6）"
+  - title: "warfarin.wiki 弧光页（游戏数据 1.7）"
     url: https://warfarin.wiki/en/operators/arclight
-  - title: "rmxlinux/EndfieldData 游戏数据表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 游戏数据表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Arclight 页"
     url: https://endfield.wiki.gg/wiki/Arclight
 ---

@@ -1,10 +1,10 @@
 ---
 title: "결"
 description: "결은 아츠 유닛을 사용하는 6성 자연 속성 캐스터 오퍼레이터로, 「벼랑 끝, 북쪽을 향한 시선」에서 확률 증가 대상이었던 한정 오퍼레이터이다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "한정 오퍼레이터는 자신의 헤드헌팅 이후 다음 2회의 특별 허가 헤드헌팅에도 확률 증가 없이 포함되고, 그 뒤 명단에서 빠진다. 한정 오퍼레이터는 기초 헤드헌팅에 추가되지 않는다."
-lastVerified: 2026-11-22
-effectiveDate: 2026-09-02
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Arcane"
   - "訣"
@@ -26,10 +26,12 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: "「눈꽃 속에 피어난 고요한 꿈」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki, 결(게임 데이터 1.6)"
+  - title: "「뜻밖의 만남, 버섯 동산 대모험」 버전 업데이트 설명"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki, 결(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/arcane
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Arcane"
     url: https://endfield.wiki.gg/wiki/Arcane
 ---
@@ -256,3 +258,4 @@ sources:
 | 버전 | 변경 |
 | --- | --- |
 | 1.5 | 진결 · 지혜 형태에서 배틀 스킬을 사용한 뒤 스킬 게이지 반환과 피해가 비정상적으로 되는 경우가 있던 버그가 수정되었다 |
+| 1.7 | 「전쟁의 메아리」 스테이지 「비스트 무리 기록: 청파채」에서 진결 · 지혜 형태일 때 연계 스킬이 발동하지 않는 경우가 있던 버그가 수정되었다 |

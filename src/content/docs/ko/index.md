@@ -1,10 +1,10 @@
 ---
 title: "명일방주: 엔드필드 위키"
 description: "《명일방주: 엔드필드》 글로벌 서비스의 오퍼레이터, 헤드헌팅 규칙, 전투, 통합 공업, 버전 정보."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 정식 출시(2026-01-22)부터 1.6 버전까지"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 정식 출시(2026-01-22)부터 1.7 버전까지"
 caveat: "날짜와 시각은 Asia 서버의 서버 시간(UTC+8)이다. 업데이트 점검은 Americas / Europe 서버에서도 같은 순간에 진행되며, 전날 17:00~23:00(UTC-5)에 해당한다. 기한이 있는 콘텐츠는 각 서버의 서버 시간으로 같은 시각에 끝난다."
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Arknights: Endfield wiki"
   - "明日方舟：終末地 Wiki"
@@ -20,6 +20,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news
   - title: "「단청도」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "「뜻밖의 만남, 버섯 동산 대모험」 버전 업데이트 설명"
+    url: https://endfield.gryphline.com/en-us/news/0740
   - title: "사전 다운로드 시작 안내(출시 시각, 플랫폼)"
     url: https://endfield.gryphline.com/en-us/news/9574
   - title: "Steam 정식 출시 안내"
@@ -47,6 +49,7 @@ sources:
 | [1.4](/ko/versions/1-4/) | 심연으로 | 2026-07-16 | 결, 리노 |
 | [1.5](/ko/versions/1-5/) | 눈꽃 속에 피어난 고요한 꿈 | 2026-09-02 | 티프로스, 푸치나 |
 | [1.6](/ko/versions/1-6/) | 단청도 | 2026-10-15 | 사, 명하 |
+| [1.7](/ko/versions/1-7/) | 뜻밖의 만남, 버섯 동산 대모험 | 2026-11-25 | 케르, 미미노 |
 
 ## 플랫폼
 

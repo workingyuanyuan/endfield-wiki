@@ -1,17 +1,17 @@
 ---
 title: "アケクリのプロファイル"
 description: "アケクリのプロファイル6件、ボイス80件、チャット3件。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版。ゲームデータ1.6の日本語テキスト"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版。ゲームデータ1.7の日本語テキスト"
 caveat: "「第二資料」以降のプロファイルは信頼度300または1500で解放される。各言語のテキストはゲームのその言語版であり、文ごとに一致するとは限らない。"
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "Akekuri's file"
   - "秋栗的檔案"
   - "秋栗的档案"
   - "아케쿠리의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## プロファイル

@@ -1,17 +1,17 @@
 ---
 title: "Purrchena's file"
 description: "Purrchena's 6 operator files and 81 voice lines."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "噗切娜的檔案"
   - "噗切娜的档案"
   - "プチエナのプロファイル"
   - "푸치나의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -127,8 +127,8 @@ sources:
 | Operator Promotion 3 | Promoted again?! If I'm dreaming, don't wake me up! I'll make sure everyone stays safe and sound. Leave it to me! | Promotion III |
 | Operator Promotion 4 | Sometimes, I think about what life would be like if I'd never left for La Fantoma with the Relief Foundation... Hmph. No matter where I ended up, I'd still be me, always lending a hand! | Promotion IV |
 | Operator Reporting for Duty | Greetings, Endmin! I am the Brand Ambassador for the Ætherside Environmental Impact Syndrome Relief Foundation — Purrchena! My dream is to be ... someone just like y... "Brand Ambassador for the Ætherside Environmental Impact Syndrome Relief Foundation — Purrchena!"... \*gasp\* no, no, no, I dozed off again! |  |
-| Standing by 1 | Hi, Endmin! I'm wide awake! |  |
-| Standing by 2 | Check out my snacks! Want some, Endmin? |  |
+| Standing By 1 | Hi, Endmin! I'm wide awake! |  |
+| Standing By 2 | Check out my snacks! Want some, Endmin? |  |
 | Assigning to Facility | Don't worry if I suddenly zonk out. My suit has a very smart auto-pilot! |  |
 | Greeting 1 | Hiya, Endmin! How about some exotic dried fin? |  |
 | Greeting 2 | "See ya!" ... Huh? Oh, Endmin! Hello there! | Reach trust: 300 |

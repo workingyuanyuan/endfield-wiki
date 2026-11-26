@@ -1,10 +1,10 @@
 ---
 title: "시스템 개요"
 description: "《명일방주: 엔드필드》의 헤드헌팅, 무기고 신청, 서버, 전투, 육성, 무기, 장비, 제강호."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전"
 caveat: "확률 증가 대상인 6성 오퍼레이터는 자신의 헤드헌팅을 포함해 특별 허가 헤드헌팅 3회에 포함되며, 기초 헤드헌팅에는 추가되지 않는다."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-21
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Systems"
   - "系統總覽"
@@ -13,7 +13,7 @@ aliases:
 sources:
   - title: "공식 뉴스 목록(Gryphline)"
     url: https://endfield.gryphline.com/en-us/news
-  - title: "warfarin.wiki(게임 데이터 1.6)"
+  - title: "warfarin.wiki(게임 데이터 1.7)"
     url: https://warfarin.wiki/en
 ---
 

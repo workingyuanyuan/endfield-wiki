@@ -1,9 +1,9 @@
 ---
 title: "판"
 description: "판은 양손검을 사용하는 5성 물리 속성 스트라이커 오퍼레이터로, 상시 헤드헌팅 명단에 있다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "판은 확률 증가 대상이었던 헤드헌팅이 없다. 판은 상시 명단에 있어 기초 헤드헌팅과 모든 특별 허가 헤드헌팅에서 나온다."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-03-12
 aliases:
   - "Da Pan"
@@ -17,10 +17,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/operator
   - title: "「몰아치는 새로운 물결, 과거와의 작별」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/8907
-  - title: "warfarin.wiki, 판(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 판(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/da-pan
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Da Pan"
     url: https://endfield.wiki.gg/wiki/Da_Pan
 ---

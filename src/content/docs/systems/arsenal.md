@@ -1,10 +1,10 @@
 ---
 title: Arsenal and Essences
 description: "Arsenal Issues, the weapon gacha of Arknights: Endfield, and weapon Essences, Etching and Coolant Gel."
-appliesTo: "Arknights: Endfield, global service, Version 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7"
 caveat: "A regular Arsenal Issue closes with the third Chartered Headhunting banner counted from the one it opened with, so several are open at once; Flawless Essences cannot be disassembled, and at 2,000 Essences no more can be picked up."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 武庫申領與基質
   - 武库申领与基质
@@ -55,6 +55,12 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/0751
   - title: Fest of Brilliance Special Headhunting
     url: https://endfield.gryphline.com/en-us/news/7024
+  - title: Meeting You in the World o'Shrooms Version Update Notes
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: Casual Roamer Issue LTO Details
+    url: https://endfield.gryphline.com/en-us/news/2659
+  - title: To Every Wish Adrift RE-Factor Headhunting #1 and Floaty Traveler Issue RE-Factor Issue #1
+    url: https://endfield.gryphline.com/en-us/news/8992
   - title: Endfield Talos Wiki, Arsenal Exchange (cost, rates, prices, guarantees)
     url: https://endfield.wiki.gg/wiki/Arsenal_Exchange
   - title: Endfield Talos Wiki, Headhunting
@@ -63,7 +69,7 @@ sources:
     url: https://endfield.wiki.gg/wiki/Essence
   - title: Endfield Talos Wiki, Coolant Gel (read 2026-11-21)
     url: https://endfield.wiki.gg/wiki/Coolant_Gel
-  - title: In-game tutorial Essence (warfarin.wiki, game data 1.6)
+  - title: In-game tutorial Essence (warfarin.wiki, game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_weapon_gem
   - title: NGA forum thread on the Essence storage limit
     url: https://bbs.nga.cn/read.php?tid=47943821
@@ -140,15 +146,18 @@ A regular Arsenal Issue opens with a Chartered Headhunting banner and closes wit
 | Bedazzled Issue | Arsenal Issue | Bedazzling Night Debut (Polearm) | 2026-08-09 12:00 | 3rd Chartered banner from Good Morning from Your Dawnstar: Rejuvenation |
 | Deep Cold Issue | Arsenal Issue | Umbra of Frigid Eventide (Arts Unit) | Version 1.5 update | 3rd Chartered banner from Winter Hunt: The Hearth Fire Beckons the Starry Flow |
 | Tag Artist Issue | RE-Factor Issue #1 | Artzy Tyrannical (Handcannon) | 2026-09-24 12:00 | Version 1.6 update maintenance |
-| Seal of Jade Issue | Arsenal Issue | Jade Vessel (Greatsword) | Version 1.6 update | 3rd Chartered banner from Rejuvenation |
+| Seal of Jade Issue | Arsenal Issue | Jade Vessel (Greatsword) | Version 1.6 update | 3rd Chartered banner from Rejuvenation: Anvil, Backpack, Plus A Pot o'Honey |
 | Tender Sprig Issue | RE-Factor Issue #1 | Brigand's Calling (Handcannon) | 2026-10-29 12:00 | 2026-11-19 11:59 |
 | Moongleam Issue | Arsenal Issue | Lunar Calling (Sword) | 2026-11-05 12:00 | 3rd Chartered banner from The Hearth Fire Beckons the Starry Flow |
+| Casual Roamer Issue | Arsenal Issue | Sweet Deal (Polearm) | Version 1.7 update | 3rd Chartered banner from Anvil, Backpack, Plus A Pot o'Honey |
+| Floaty Traveler Issue | RE-Factor Issue #1 | Delivery Guaranteed (Arts Unit) | Version 1.7 update | 2026-12-16 11:59 |
+| Scarlet Claws Issue | RE-Factor Issue #1 | Lupine Scarlet (Sword) | 2026-12-16 12:00 | End of Version 1.7 |
 
 
 
 ## RE-Factor Issues
 
-RE-Factor Issues began in Version 1.5. Each brought back an older Issue's rate-up weapon with the same seven 6-star weapons: Tag Artist Issue repeats the pool of Graffiti Issue, and Tender Sprig Issue that of Budding Anew Issue. Each ran beside the RE-Factor Headhunting of the operator whose Chartered banner had opened with the original Issue: Yvonne (Resplendent Spectrum) and Tangtang (Ancestral Spring Flows Anew).
+RE-Factor Issues began in Version 1.5. Each brought back an older Issue's rate-up weapon with the same seven 6-star weapons: Tag Artist Issue repeats the pool of Graffiti Issue, Tender Sprig Issue that of Budding Anew Issue, Floaty Traveler Issue that of Express Delivery Issue, and Scarlet Claws Issue that of Scarlet Pearl Issue. Each runs beside the RE-Factor Headhunting of the operator whose Chartered banner had opened with the original Issue: Yvonne (Resplendent Spectrum), Tangtang (Ancestral Spring Flows Anew), Gilberta (To Every Wish Adrift) and Rossi (Precious Scarlet).
 
 ## Smelting Fire and Swift Walker Issues
 

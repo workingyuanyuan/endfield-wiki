@@ -1,37 +1,37 @@
 ---
 title: 生產與物流
 description: 《明日方舟：終末地》集成工業設備如何輸入原料、依配方生產，並以傳送帶、管道與倉庫傳遞物品。
-appliesTo: 《明日方舟：終末地》國際版，1.6 版；設備與配方資料取自遊戲資料 1.6
+appliesTo: 《明日方舟：終末地》國際版，1.7 版；設備與配方資料取自遊戲資料 1.7
 caveat: 傳送帶只能建在集成核心區域內。擺在區域外的設備會消耗地區的協議容量，協議容量用完後，該地區就無法再擺放新設備。
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Production and logistics
   - 生产与物流
   - 生産と物流
   - 생산과 물류
 sources:
-  - title: "配方表 FactoryMachineCraftTable（遊戲資料 1.6）：配方數"
-    url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/FactoryMachineCraftTable.json
-  - title: warfarin.wiki 遊戲內教學「設備加工」「設備配方」（遊戲資料 1.6）
+  - title: "配方表 FactoryMachineCraftTable（遊戲資料 1.7）：配方數"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryMachineCraftTable.json
+  - title: warfarin.wiki 遊戲內教學「設備加工」「設備配方」（遊戲資料 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_formula
-  - title: warfarin.wiki 遊戲內教學「輸入口與取貨口」（遊戲資料 1.6）
+  - title: warfarin.wiki 遊戲內教學「輸入口與取貨口」（遊戲資料 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_port
-  - title: warfarin.wiki 遊戲內教學「傳送帶 - 區域限制」（遊戲資料 1.6）
+  - title: warfarin.wiki 遊戲內教學「傳送帶 - 區域限制」（遊戲資料 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_belt
-  - title: warfarin.wiki 遊戲內教學「分流器」「匯流器」「物流橋」（遊戲資料 1.6）
+  - title: warfarin.wiki 遊戲內教學「分流器」「匯流器」「物流橋」（遊戲資料 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_splitter
-  - title: warfarin.wiki 遊戲內教學「管道」（遊戲資料 1.6）
+  - title: warfarin.wiki 遊戲內教學「管道」（遊戲資料 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_pipe
-  - title: warfarin.wiki 遊戲內教學「倉庫存取線」（遊戲資料 1.6）
+  - title: warfarin.wiki 遊戲內教學「倉庫存取線」（遊戲資料 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_usb_loader_unloader
-  - title: warfarin.wiki 遊戲內教學「協議容量限制」（遊戲資料 1.6）
+  - title: warfarin.wiki 遊戲內教學「協議容量限制」（遊戲資料 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_bandwidth
-  - title: warfarin.wiki 設備列表（遊戲資料 1.6）
+  - title: warfarin.wiki 設備列表（遊戲資料 1.7）
     url: https://warfarin.wiki/en/facilities
-  - title: warfarin.wiki 協議儲存箱頁（遊戲資料 1.6）
+  - title: warfarin.wiki 協議儲存箱頁（遊戲資料 1.7）
     url: https://warfarin.wiki/en/facilities/storager_1
-  - title: warfarin.wiki 擴容反應池頁（遊戲資料 1.6）
+  - title: warfarin.wiki 擴容反應池頁（遊戲資料 1.7）
     url: https://warfarin.wiki/en/facilities/mix_pool_2
   - title: Endfield Talos Wiki 的 Automated Industry Complex 頁
     url: https://endfield.wiki.gg/wiki/Automated_Industry_Complex
@@ -84,30 +84,31 @@ sources:
 | --- | --- | --- | --- |
 | 精煉爐 | 5 | 26 | 金屬塊（藍鐵塊、赤銅塊、鋼塊）、紫晶纖維與高晶纖維、碳塊、晶體外殼 |
 | 粉碎機 | 5 | 18 | 礦物與植物的粉末，例如源石粉末、藍鐵粉末、砂葉粉末、麵粉、砂糖 |
-| 配件機 | 20 | 7 | 以金屬塊與纖維製成的零件，例如鐵製零件、鋼製零件、紫晶零件、赤銅零件 |
+| 配件機 | 20 | 10 | 以金屬塊與纖維製成的零件，例如鐵製零件、鋼製零件、紫晶零件、赤銅零件、輝銅零件 |
 | 塑形機 | 10 | 7 | 瓶子與耐壓罐 |
 | 種植機 | 20 | 6 | 以種子種出的植物 |
 | 採種機 | 10 | 19 | 從作物採集的種子與塊莖 |
 | 裝備原件機 | 10 | 7 | 裝備原件 |
-| 灌裝機 | 20 | 84 | 把液體或氣體灌入瓶子與耐壓罐；也製作蕎癒膠囊、柑實罐頭與瓶裝飲品 |
-| 封裝機 | 20 | 11 | 全部五種電池、工業爆炸物、錦草飲料、芽針針劑、分離芯 |
+| 灌裝機 | 20 | 88 | 把液體或氣體灌入瓶子與耐壓罐；也製作蕎癒膠囊、柑實罐頭與瓶裝飲品 |
+| 封裝機 | 20 | 15 | 全部六種電池、工業爆炸物、錦草飲料、芽針針劑、分離芯 |
 | 研磨機 | 50 | 7 | 緻密與研磨過的粉末 |
 | 反應池 | 50 | 11 | 溶液、壤晶、赫銅塊、液化息壤、飼料與菜籽油 |
 | 擴容反應池 | 100 | 11 | 與反應池相同的 11 個配方，連接口更多，可同時進行多個反應 |
 | 天有洪爐 | 50 | 4 | 息壤、重息壤與膨地啪 |
-| 提純機 | 50 | 6 | 純度更高的氣體與溶液 |
-| 拆解機 | 20 | 74 | 把裝滿的瓶子與耐壓罐倒空，取回容器與其中的液體或氣體 |
+| 提純機 | 50 | 7 | 純度更高的氣體與溶液 |
+| 拆解機 | 20 | 78 | 把裝滿的瓶子與耐壓罐倒空，取回容器與其中的液體或氣體 |
 | 液氣轉化機 | 50 | 12 | 在液態與氣態之間轉化；須持續通入液化息壤啟動 |
-| 固氣轉化機 | 50 | 10 | 在固態與氣態之間轉化；須持續通入息壤氣啟動 |
-| 氣體反應爐 | 50 | 1 | 氣態灼銅 |
+| 固氣轉化機 | 50 | 16 | 在固態與氣態之間轉化；須持續通入息壤氣啟動 |
+| 氣體反應爐 | 50 | 2 | 氣態灼銅、清型輝銅氣 |
 
-廢水處理機（用電 50）用於處理汙水，也能以有限效率處理壤晶廢液與惰性壤晶廢液。
+廢料處理機（1.7 版以前名為廢水處理機；用電 50）可處理汙水、壤晶廢液、惰性壤晶廢液與濁型輝銅氣。
 
 ## 氣體反應爐、天有洪爐、裝備原件機、研磨機與種植機的配方
 
 | 設備 | 原料 | 產物 | 時間 |
 | --- | --- | --- | --- |
 | 氣體反應爐 | 氣態赫銅 ×2、息壤氣 ×1 | 氣態灼銅 ×1 | 2 秒 |
+| 氣體反應爐 | 氣態衡銅 ×1、氣態衡息壤 ×1 | 清型輝銅氣 ×2 | 2 秒 |
 | 天有洪爐 | 息壤 ×10、壤晶廢液 ×5 | 重息壤 ×1 | 10 秒 |
 | 天有洪爐 | 馱獸糞便 ×1、液化息壤 ×1 | 膨地啪 ×1 | 2 秒 |
 | 天有洪爐 | 穩定碳塊 ×2、清水 ×1 | 息壤 ×1 | 2 秒 |

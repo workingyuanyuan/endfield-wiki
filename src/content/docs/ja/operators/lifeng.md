@@ -1,10 +1,10 @@
 ---
 title: "リーフォン"
 description: "リーフォンは長柄武器を使う星6・物理属性の前衛オペレーターで、恒常のスカウト対象である。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。スキル説明と数値はゲームデータ 1.6 による"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。スキル説明と数値はゲームデータ 1.7 による"
 caveat: "リーフォンが出現率アップ対象になったことはない。リーフォンはすべての特別スカウトの対象に含まれる恒常の星6オペレーター5人の1人である。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-28
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Lifeng"
   - "黎風"
@@ -20,10 +20,14 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3839
   - title: "「祖泉の新流」再現スカウト#1のお知らせ"
     url: https://endfield.gryphline.com/en-us/news/6179
-  - title: "warfarin.wiki、リーフォン（ゲームデータ 1.6）"
+  - title: "「ひらり漂うすべての願いへ」再現スカウト#1のお知らせ"
+    url: https://endfield.gryphline.com/en-us/news/8992
+  - title: "「スカーレットパール」再現スカウト#1のお知らせ"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki、リーフォン（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/operators/lifeng
-  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki、Lifeng"
     url: https://endfield.wiki.gg/wiki/Lifeng
 ---
@@ -61,6 +65,8 @@ sources:
 | --- | --- | --- | --- | --- |
 | 超爆盛れカラフル | 再現スカウト#1 | 対象に含まれる | 2026-09-24 12:00 | バージョン1.6アップデート（2026-10-15） |
 | 祖泉の新流 | 再現スカウト#1 | 対象に含まれる | 2026-10-29 12:00 | 2026-11-19 11:59 |
+| ひらり漂うすべての願いへ | 再現スカウト#1 | 対象に含まれる | バージョン1.7アップデート（2026-11-25） | 2026-12-16 11:59 |
+| スカーレットパール | 再現スカウト#1 | 対象に含まれる | 2026-12-16 12:00 | バージョン1.7終了 |
 
 ## オススメ武器
 

@@ -1,9 +1,9 @@
 ---
 title: "伊冯"
 description: "伊冯是 6 星寒冷突击干员，使用手铳；限定干员，于「热烈色彩」概率提升。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；技能文字与数值出自游戏数据 1.6"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；技能文字与数值出自游戏数据 1.7"
 caveat: "限定干员在自己那一期之后的 2 期特许寻访仍在名单内，但没有概率提升，之后移出名单；限定干员不会加入基础寻访。伊冯曾在重构寻访「绚丽异彩」再次概率提升。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-09-23
 aliases:
   - "Yvonne"
@@ -30,10 +30,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/3839
   - title: "「新潮起，故渊离」版本更新说明"
     url: https://endfield.gryphline.com/en-us/news/8907
-  - title: "warfarin.wiki 伊冯页（游戏数据 1.6）"
+  - title: "warfarin.wiki 伊冯页（游戏数据 1.7）"
     url: https://warfarin.wiki/en/operators/yvonne
-  - title: "rmxlinux/EndfieldData 游戏数据表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 游戏数据表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Yvonne 页"
     url: https://endfield.wiki.gg/wiki/Yvonne
 ---

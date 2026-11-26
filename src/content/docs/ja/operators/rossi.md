@@ -1,10 +1,10 @@
 ---
 title: "ロッシ"
 description: "ロッシは片手剣を使う星6・物理属性の前衛オペレーターで、「ウルフパール」で出現率アップ対象となった限定オペレーターである。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。スキル説明と数値はゲームデータ 1.6 による"
-caveat: "限定オペレーターは自身のスカウトの後、続く2回の特別スカウトにも出現率アップなしで含まれ、その後は対象から外れる。限定オペレーターが通常スカウトに追加されることはない。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-09-02
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。スキル説明と数値はゲームデータ 1.7 による"
+caveat: "限定オペレーターは自身のスカウトの後、続く2回の特別スカウトにも出現率アップなしで含まれ、その後は対象から外れる。限定オペレーターが通常スカウトに追加されることはない。ロッシは再現スカウト「スカーレットパール」で再び出現率アップ対象になった。"
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Rossi"
   - "洛西"
@@ -22,14 +22,16 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9579
   - title: "「拳に悔い無し」特別スカウトのお知らせ"
     url: https://endfield.gryphline.com/en-us/news/0759
+  - title: "「スカーレットパール」再現スカウト#1のお知らせ"
+    url: https://endfield.gryphline.com/en-us/news/0740
   - title: "「潮起ち、故淵離る」バージョンアップデートの説明"
     url: https://endfield.gryphline.com/en-us/news/8907
   - title: "「雪氷の幽夢」バージョンアップデートの説明"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki、ロッシ（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ロッシ（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/operators/rossi
-  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki、Rossi"
     url: https://endfield.wiki.gg/wiki/Rossi
 ---
@@ -65,8 +67,11 @@ sources:
 | ウルフパール | 特別スカウト | 出現率アップ | 2026-03-29 12:00 | バージョン1.2アップデート（2026-04-17） |
 | 春雷響き、万物芽吹く | 特別スカウト | 対象に含まれる | バージョン1.2アップデート（2026-04-17） | 2026-05-22 11:59 |
 | 拳に悔い無し | 特別スカウト | 対象に含まれる | バージョン1.3アップデート（2026-06-05） | 2026-06-26 11:59 |
+| スカーレットパール | 再現スカウト#1 | 出現率アップ | 2026-12-16 12:00 | バージョン1.7終了 |
 
 限定オペレーターは自身のスカウトの後、続く2回の特別スカウトにも出現率アップなしで含まれ、その後は対象から外れる。限定オペレーターが通常スカウトに追加されることはない。
+
+再現スカウトは過去の出現率アップ対象を再び登場させる。「スカーレットパール」では最初の120回以内にロッシが必ず出る。この確定は同名の再現スカウト全体で1回だけで、回数は次の同名の再現スカウトに引き継がれる。
 
 ## オススメ武器
 

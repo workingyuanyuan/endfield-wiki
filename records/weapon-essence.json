@@ -1,5 +1,5 @@
 {
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "stats": {
   "attr_agi": {
    "kind": "attribute",
@@ -323,9 +323,14 @@
    "attr_atk",
    "burst"
   ],
-  "wpn_pistol_0006": [
-   "attr_agi",
-   "attr_magicdam",
+  "wpn_sword_0023": [
+   "attr_str",
+   "attr_heal",
+   "heal"
+  ],
+  "wpn_funnel_0013": [
+   "attr_wisd",
+   "attr_heal",
    "magabn"
   ],
   "wpn_sword_0018": [
@@ -343,6 +348,36 @@
    "attr_atk",
    "magabn"
   ],
+  "wpn_sword_0019": [
+   "attr_agi",
+   "attr_atk",
+   "tacafter"
+  ],
+  "wpn_sword_0022": [
+   "attr_agi",
+   "attr_crirate",
+   "crit"
+  ],
+  "wpn_sword_0015": [
+   "attr_agi",
+   "attr_phydam",
+   "ult"
+  ],
+  "wpn_claym_0011": [
+   "attr_str",
+   "attr_usp",
+   "burst"
+  ],
+  "wpn_lance_0018": [
+   "attr_str",
+   "attr_usp",
+   "burst"
+  ],
+  "wpn_lance_0003": [
+   "attr_agi",
+   "attr_atk",
+   "spirit"
+  ],
   "wpn_funnel_0012": [
    "attr_will",
    "attr_heal",
@@ -353,45 +388,10 @@
    "attr_heal",
    "heal"
   ],
-  "wpn_funnel_0004": [
-   "attr_wisd",
-   "attr_pulsedam",
-   "magabn"
-  ],
-  "wpn_lance_0003": [
-   "attr_agi",
-   "attr_atk",
-   "spirit"
-  ],
-  "wpn_lance_0012": [
-   "attr_agi",
-   "attr_phydam",
-   "keyword"
-  ],
-  "wpn_sword_0019": [
-   "attr_agi",
-   "attr_atk",
-   "tacafter"
-  ],
-  "wpn_claym_0003": [
-   "attr_str",
-   "attr_atk",
-   "tactic"
-  ],
-  "wpn_sword_0022": [
-   "attr_agi",
-   "attr_crirate",
-   "crit"
-  ],
-  "wpn_funnel_0020": [
-   "attr_agi",
-   "attr_naturaldam",
-   "burst"
-  ],
-  "wpn_pistol_0010": [
-   "attr_wisd",
-   "attr_crirate",
-   "crit"
+  "wpn_claym_0009": [
+   "attr_will",
+   "attr_hp",
+   "smash"
   ],
   "wpn_sword_0017": [
    "attr_agi",
@@ -403,20 +403,35 @@
    "attr_firedam",
    "tacafter"
   ],
-  "wpn_sword_0010": [
-   "attr_wisd",
-   "attr_firedam",
-   "magabn"
-  ],
   "wpn_pistol_0007": [
    "attr_agi",
    "attr_icedam",
    "tactic"
   ],
-  "wpn_funnel_0017": [
-   "attr_will",
-   "attr_pulsedam",
+  "wpn_pistol_0006": [
+   "attr_agi",
+   "attr_magicdam",
+   "magabn"
+  ],
+  "wpn_pistol_0005": [
+   "attr_wisd",
+   "attr_icedam",
+   "magabn"
+  ],
+  "wpn_funnel_0020": [
+   "attr_agi",
+   "attr_naturaldam",
+   "burst"
+  ],
+  "wpn_lance_0012": [
+   "attr_agi",
+   "attr_phydam",
    "keyword"
+  ],
+  "wpn_claym_0008": [
+   "attr_str",
+   "attr_crirate",
+   "smash"
   ],
   "wpn_sword_0005": [
    "attr_agi",
@@ -428,20 +443,10 @@
    "attr_phydam",
    "phyabn"
   ],
-  "wpn_funnel_0007": [
-   "attr_will",
-   "attr_usp",
-   "spirit"
-  ],
   "wpn_sword_0008": [
    "attr_agi",
    "attr_phydam",
    "tactic"
-  ],
-  "wpn_sword_0015": [
-   "attr_agi",
-   "attr_phydam",
-   "ult"
   ],
   "wpn_pistol_0012": [
    "attr_agi",
@@ -468,11 +473,6 @@
    "attr_atk",
    "tactic"
   ],
-  "wpn_claym_0016": [
-   "attr_str",
-   "attr_physpell",
-   "tactic"
-  ],
   "wpn_pistol_0008": [
    "attr_main",
    "attr_crirate",
@@ -483,44 +483,44 @@
    "attr_crirate",
    "ult"
   ],
-  "wpn_claym_0015": [
-   "attr_str",
-   "attr_hp",
-   "keyword"
-  ],
   "wpn_pistol_0009": [
    "attr_main",
    "attr_magicdam",
    "magabn"
+  ],
+  "wpn_funnel_0010": [
+   "attr_will",
+   "attr_hp",
+   "heal"
   ],
   "wpn_sword_0013": [
    "attr_main",
    "attr_phydam",
    "break"
   ],
-  "wpn_lance_0006": [
-   "attr_will",
-   "attr_pulsedam",
-   "tactic"
-  ],
   "wpn_funnel_0008": [
    "attr_main",
    "attr_physpell",
    "burst"
+  ],
+  "wpn_funnel_0018": [
+   "attr_wisd",
+   "attr_usp",
+   "keyword"
   ],
   "wpn_sword_0026": [
    "attr_main",
    "attr_physpell",
    "force"
   ],
+  "wpn_funnel_0016": [
+   "attr_wisd",
+   "attr_usp",
+   "burst"
+  ],
   "wpn_sword_0014": [
    "attr_main",
    "attr_physpell",
-   "magabn"
-  ],
-  "wpn_lance_0013": [
-   "attr_will",
-   "attr_phydam",
    "magabn"
   ],
   "wpn_claym_0013": [
@@ -528,25 +528,25 @@
    "attr_atk",
    "burst"
   ],
-  "wpn_sword_0023": [
+  "wpn_claym_0014": [
    "attr_str",
-   "attr_heal",
-   "heal"
-  ],
-  "wpn_funnel_0006": [
-   "attr_will",
-   "attr_naturaldam",
-   "tactic"
+   "attr_physpell",
+   "break"
   ],
   "wpn_claym_0017": [
    "attr_str",
    "attr_atk",
    "phyabn"
   ],
-  "wpn_claym_0008": [
+  "wpn_funnel_0009": [
+   "attr_wisd",
+   "attr_magicdam",
+   "ult"
+  ],
+  "wpn_claym_0003": [
    "attr_str",
-   "attr_crirate",
-   "smash"
+   "attr_atk",
+   "tactic"
   ],
   "wpn_claym_0012": [
    "attr_str",
@@ -558,6 +558,11 @@
    "attr_hp",
    "heal"
   ],
+  "wpn_claym_0015": [
+   "attr_str",
+   "attr_hp",
+   "keyword"
+  ],
   "wpn_sword_0020": [
    "attr_str",
    "attr_icedam",
@@ -568,20 +573,35 @@
    "attr_magicdam",
    "combo"
   ],
-  "wpn_claym_0014": [
+  "wpn_lance_0016": [
+   "attr_will",
+   "attr_heal",
+   "combo"
+  ],
+  "wpn_funnel_0014": [
+   "attr_wisd",
+   "attr_physpell",
+   "combo"
+  ],
+  "wpn_lance_0017": [
+   "attr_str",
+   "attr_naturaldam",
+   "tacafter"
+  ],
+  "wpn_claym_0016": [
    "attr_str",
    "attr_physpell",
-   "break"
+   "tactic"
   ],
   "wpn_lance_0004": [
    "attr_str",
    "attr_usp",
    "break"
   ],
-  "wpn_claym_0011": [
-   "attr_str",
+  "wpn_sword_0007": [
+   "attr_wisd",
    "attr_usp",
-   "burst"
+   "spirit"
   ],
   "wpn_sword_0025": [
    "attr_will",
@@ -598,11 +618,6 @@
    "attr_atk",
    "tacafter"
   ],
-  "wpn_sword_0024": [
-   "attr_will",
-   "attr_pulsedam",
-   "burst"
-  ],
   "wpn_funnel_0003": [
    "attr_will",
    "attr_atk",
@@ -613,70 +628,75 @@
    "attr_atk",
    "tactic"
   ],
-  "wpn_lance_0016": [
-   "attr_will",
-   "attr_heal",
-   "combo"
-  ],
-  "wpn_funnel_0010": [
-   "attr_will",
-   "attr_hp",
-   "heal"
-  ],
   "wpn_claym_0006": [
    "attr_will",
    "attr_hp",
    "keyword"
-  ],
-  "wpn_claym_0009": [
-   "attr_will",
-   "attr_hp",
-   "smash"
   ],
   "wpn_lance_0008": [
    "attr_will",
    "attr_magicdam",
    "tactic"
   ],
-  "wpn_funnel_0011": [
+  "wpn_funnel_0006": [
    "attr_will",
-   "attr_usp",
-   "combo"
+   "attr_naturaldam",
+   "tactic"
   ],
-  "wpn_sword_0009": [
-   "attr_wisd",
-   "attr_atk",
-   "combo"
-  ],
-  "wpn_pistol_0005": [
-   "attr_wisd",
-   "attr_icedam",
+  "wpn_lance_0013": [
+   "attr_will",
+   "attr_phydam",
    "magabn"
+  ],
+  "wpn_lance_0006": [
+   "attr_will",
+   "attr_pulsedam",
+   "tactic"
+  ],
+  "wpn_sword_0024": [
+   "attr_will",
+   "attr_pulsedam",
+   "burst"
+  ],
+  "wpn_pistol_0010": [
+   "attr_wisd",
+   "attr_crirate",
+   "crit"
   ],
   "wpn_funnel_0001": [
    "attr_wisd",
    "attr_magicdam",
    "spirit"
   ],
+  "wpn_funnel_0017": [
+   "attr_will",
+   "attr_pulsedam",
+   "keyword"
+  ],
+  "wpn_funnel_0011": [
+   "attr_will",
+   "attr_usp",
+   "combo"
+  ],
+  "wpn_funnel_0007": [
+   "attr_will",
+   "attr_usp",
+   "spirit"
+  ],
+  "wpn_sword_0010": [
+   "attr_wisd",
+   "attr_firedam",
+   "magabn"
+  ],
+  "wpn_sword_0009": [
+   "attr_wisd",
+   "attr_atk",
+   "combo"
+  ],
   "wpn_pistol_0002": [
    "attr_wisd",
    "attr_atk",
    "tactic"
-  ],
-  "wpn_funnel_0005": [
-   "attr_wisd",
-   "attr_atk",
-   "ult"
-  ],
-  "wpn_sword_0006": [
-   "attr_wisd",
-   "attr_atk",
-   "ult"
-  ],
-  "wpn_funnel_0013": [
-   "attr_wisd",
-   "attr_heal",
-   "magabn"
   ],
   "wpn_claym_0018": [
    "attr_wisd",
@@ -688,30 +708,20 @@
    "attr_icedam",
    "keyword"
   ],
-  "wpn_funnel_0009": [
+  "wpn_funnel_0005": [
    "attr_wisd",
-   "attr_magicdam",
+   "attr_atk",
    "ult"
   ],
-  "wpn_funnel_0014": [
+  "wpn_sword_0006": [
    "attr_wisd",
-   "attr_physpell",
-   "combo"
+   "attr_atk",
+   "ult"
   ],
-  "wpn_funnel_0016": [
+  "wpn_funnel_0004": [
    "attr_wisd",
-   "attr_usp",
-   "burst"
-  ],
-  "wpn_funnel_0018": [
-   "attr_wisd",
-   "attr_usp",
-   "keyword"
-  ],
-  "wpn_sword_0007": [
-   "attr_wisd",
-   "attr_usp",
-   "spirit"
+   "attr_pulsedam",
+   "magabn"
   ]
  }
 }

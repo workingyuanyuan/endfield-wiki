@@ -1,27 +1,27 @@
 ---
 title: "지역 건설"
 description: "《명일방주: 엔드필드》의 지역 건설. 거점, 관리권, 저장고 노드와 지역 간 전송의 작동 방식."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 튜토리얼 문구는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 튜토리얼 문구는 게임 데이터 1.7 기준"
 caveat: "지역 간 전송은 출발 지역의 지역 건설 레벨에 따라 해금된다. 재고 전송은 출발 지역 창고에서 물품을 차감하며, 더 높은 레벨에서 해금되는 무재고 전송만 출발 창고의 재고를 그대로 둔다."
-lastVerified: 2026-11-21
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Regional Development
   - 地區建設
   - 地区建设
   - 地域建設
 sources:
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「지역 간 전송」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「지역 간 전송」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_domain_transport
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「지역 건설 시스템」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「지역 건설 시스템」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_domain
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「거점 납품」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「거점 납품」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_settlement
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「물자 관리」 「변동 수요 물자」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「물자 관리」 「변동 수요 물자」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_domain_shop_1
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「저장고 노드」 「화물 포장」 「운송 의뢰 위탁」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「저장고 노드」 「화물 포장」 「운송 의뢰 위탁」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_domain_depot_2
-  - title: "warfarin.wiki, 게임 내 튜토리얼 「지역 창고」 「관리 시스템 확장」(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 게임 내 튜토리얼 「지역 창고」 「관리 시스템 확장」(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_map_storage
   - title: "Endfield Talos Wiki, Regional Development"
     url: https://endfield.wiki.gg/wiki/Regional_Development
@@ -47,6 +47,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9560
   - title: "「명일방주: 엔드필드」 「단청도」 버전 개발자 통신"
     url: https://endfield.gryphline.com/en-us/news/7014
+  - title: "「뜻밖의 만남, 버섯 동산 대모험」 버전 업데이트 설명"
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 지역 건설 레벨
@@ -75,8 +77,8 @@ sources:
 무릉 배터리로 4번 협곡의 열에너지 뱅크를 돌릴 때:
 
 - 지역 간 전송으로 보낸 물품은 4번 협곡 창고로 들어온다. 창고에서 프로토콜 코어나 서브 코어의 출력 포트, 또는 창고 출력 포트로 지정한 아이템을 컨베이어 벨트에 올려 열에너지 뱅크로 보낸다.
-- 저용량 무릉 배터리와 중용량 무릉 배터리는 열에너지 뱅크 연료로 전력이 각각 1600과 3200이며, 1개당 40초 동안 연소한다. 열에너지 뱅크 1대는 시간당 배터리 90개를 소비한다.
-- 두 무릉 배터리 모두 포장기에서 만든다(제작법은 [통합 공업 전력](/ko/aic/power/) 참조).
+- 저용량 무릉 배터리, 중용량 무릉 배터리, 대용량 무릉 배터리는 열에너지 뱅크 연료로 전력이 각각 1600, 3200, 6400이며, 1개당 40초 동안 연소한다. 열에너지 뱅크 1대는 시간당 배터리 90개를 소비한다.
+- 세 무릉 배터리 모두 포장기에서 만든다(제작법은 [통합 공업 전력](/ko/aic/power/) 참조).
 
 ## 거점과 관리권
 
@@ -124,5 +126,5 @@ sources:
 | 올리는 방법 | 탐색, 거점 납품, 새 광맥에 채굴기 배치, 거점·재활용센터·물자 관리 단말기·저장고 노드·환경 관측 단말기 업그레이드, 임무 완료로 지역 건설치를 얻는다 |
 | 올라가는 항목 | 새 기능, 광물 산출량, 설비 배치 한도(구역별 프로토콜 용량, 집라인 배치 한도, 작전 설비 한도, 광물 순도) |
 | 예시 | 무릉성의 프로토콜 용량은 200이며, 3레벨에 250, 5레벨에 300, 7레벨에 최대치인 350이 된다 |
-| 레벨 상한 | 4번 협곡은 최대 12레벨이다. 1.1부터 1.6까지 매 버전 무릉의 상한이 올랐다 |
+| 레벨 상한 | 4번 협곡은 최대 12레벨이다. 1.1부터 1.7까지 매 버전 무릉의 상한이 올랐다 |
 | 전체 업무 | 1.3 버전부터 지역 건설 화면의 전체 업무에서 물자 관리, 저장고 노드와 지도상 위치를 볼 수 있다 |

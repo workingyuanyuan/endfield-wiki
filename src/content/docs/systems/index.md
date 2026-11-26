@@ -1,10 +1,10 @@
 ---
 title: Systems
 description: "Arknights: Endfield headhunting, Arsenal Issues, servers, combat, progression, weapons, gear and Dijiang."
-appliesTo: "Arknights: Endfield, global service, Version 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7"
 caveat: A rate-up 6-star operator stays in the pool for three Chartered Headhunting banners, its own included, and is never added to Basic Headhunting.
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-21
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 系統總覽
   - 系统总览
@@ -13,7 +13,7 @@ aliases:
 sources:
   - title: Official news list (Gryphline)
     url: https://endfield.gryphline.com/en-us/news
-  - title: warfarin.wiki (game data 1.6)
+  - title: warfarin.wiki (game data 1.7)
     url: https://warfarin.wiki/en
 ---
 

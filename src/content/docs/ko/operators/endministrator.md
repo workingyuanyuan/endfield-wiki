@@ -1,9 +1,9 @@
 ---
 title: "관리자"
 description: "관리자는 플레이어가 조작하는 주인공으로, 한손검을 사용하는 6성 물리 속성 가드 오퍼레이터이다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "관리자는 플레이어가 조작하는 주인공으로, 어떤 헤드헌팅에도 포함되지 않는다. 공식 오퍼레이터 목록의 관리자 2개는 같은 오퍼레이터이다."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-01-22
 aliases:
   - "Endministrator"
@@ -16,10 +16,10 @@ art:
 sources:
   - title: "공식 오퍼레이터 목록(Gryphline)"
     url: https://endfield.gryphline.com/en-us/operator
-  - title: "warfarin.wiki, 관리자(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 관리자(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/endministrator
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Endministrator"
     url: https://endfield.wiki.gg/wiki/Endministrator
 ---

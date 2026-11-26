@@ -1,9 +1,9 @@
 ---
 title: "Fluorite"
 description: "Fluorite is a 4-star Nature Caster with a handcannon; in the standard headhunting roster."
-appliesTo: "Arknights: Endfield, global service, Version 1.6; skill texts and stats from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; skill texts and stats from game data 1.7"
 caveat: "Fluorite has no rate-up banner. Fluorite is in the standard roster that Basic Headhunting and every Chartered Headhunting pool draw from."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-09-02
 aliases:
   - "螢石"
@@ -20,10 +20,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/0751
   - title: "Dreamscape of Wind and Snow Version Update Notes"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki, Fluorite (game data 1.6)"
+  - title: "warfarin.wiki, Fluorite (game data 1.7)"
     url: https://warfarin.wiki/en/operators/fluorite
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Fluorite"
     url: https://endfield.wiki.gg/wiki/Fluorite
 ---

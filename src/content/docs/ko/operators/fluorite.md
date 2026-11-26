@@ -1,9 +1,9 @@
 ---
 title: "플루라이트"
 description: "플루라이트는 권총을 사용하는 4성 자연 속성 캐스터 오퍼레이터로, 상시 헤드헌팅 명단에 있다."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 스킬 설명과 수치는 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 스킬 설명과 수치는 게임 데이터 1.7 기준"
 caveat: "플루라이트는 확률 증가 대상이었던 헤드헌팅이 없다. 플루라이트는 상시 명단에 있어 기초 헤드헌팅과 모든 특별 허가 헤드헌팅에서 나온다."
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-09-02
 aliases:
   - "Fluorite"
@@ -20,10 +20,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/0751
   - title: "「눈꽃 속에 피어난 고요한 꿈」 버전 업데이트 설명"
     url: https://endfield.gryphline.com/en-us/news/5208
-  - title: "warfarin.wiki, 플루라이트(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 플루라이트(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators/fluorite
-  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, 게임 데이터 테이블(1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki, Fluorite"
     url: https://endfield.wiki.gg/wiki/Fluorite
 ---

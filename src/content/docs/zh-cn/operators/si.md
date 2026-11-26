@@ -1,10 +1,10 @@
 ---
 title: "祀"
 description: "祀是 6 星寒冷辅助干员，使用双手剑；限定干员，于「万物更新」概率提升。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；技能文字与数值出自游戏数据 1.6"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；技能文字与数值出自游戏数据 1.7"
 caveat: "限定干员在自己那一期之后的 2 期特许寻访仍在名单内，但没有概率提升，之后移出名单；限定干员不会加入基础寻访。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-04
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "Si"
   - "スー"
@@ -19,12 +19,16 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/4489
   - title: "「烟火邀星河」特许寻访说明"
     url: https://endfield.gryphline.com/en-us/news/7012
+  - title: "「锻砧、行囊与蜜糖」特许寻访说明"
+    url: https://endfield.gryphline.com/en-us/news/5204
   - title: "「丹青渡」版本更新说明"
     url: https://endfield.gryphline.com/en-us/news/9560
-  - title: "warfarin.wiki 祀页（游戏数据 1.6）"
+  - title: "「穿越甚大蘑境与你相逢」版本更新说明"
+    url: https://endfield.gryphline.com/en-us/news/0740
+  - title: "warfarin.wiki 祀页（游戏数据 1.7）"
     url: https://warfarin.wiki/en/operators/si
-  - title: "rmxlinux/EndfieldData 游戏数据表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 游戏数据表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Si 页"
     url: https://endfield.wiki.gg/wiki/Si
 ---
@@ -61,7 +65,8 @@ sources:
 | 寻访 | 类型 | 位置 | 开放 | 结束 |
 | --- | --- | --- | --- | --- |
 | 万物更新 | 特许寻访 | 概率提升 | 1.6 版更新，2026-10-15 | 2026-11-05 11:59 |
-| 烟火邀星河 | 特许寻访 | 在名单内 | 2026-11-05 12:00 | 1.6 版结束 |
+| 烟火邀星河 | 特许寻访 | 在名单内 | 2026-11-05 12:00 | 1.7 版更新，2026-11-25 |
+| 锻砧、行囊与蜜糖 | 特许寻访 | 在名单内 | 1.7 版更新，2026-11-25 | 2026-12-23 11:59 |
 
 限定干员在自己那一期之后的 2 期特许寻访仍在名单内，但没有概率提升，之后移出名单；限定干员不会加入基础寻访。
 
@@ -195,3 +200,9 @@ sources:
 | 精英化·二 | 60 | 协议圆盘 ×25、中红柱状菌 ×5、折金票 ×6500 |
 | 精英化·三 | 80 | 协议圆盘组 ×24、重红柱状菌 ×5、折金票 ×18000 |
 | 精英化·四 | 90 | 协议圆盘组 ×36、跃迁浆体涂片 ×20、星门菌 ×8、折金票 ×100000 |
+
+## 上线后的变更
+
+| 版本 | 变更 |
+| --- | --- |
+| 1.7 | 修复五个问题：墨魂在特定情况下被处决时表现异常；特定操作使战技中收笔造成的伤害异常；阿列什以战技冻结并击败敌人时，连携技无法正常触发；「影拓丰碑」关卡「幽影刻形 - 沛然轰鸣」中笔意记录的伤害数值异常；特定操作使状态图示显示异常 |

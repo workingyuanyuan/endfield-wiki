@@ -1,17 +1,17 @@
 ---
 title: "Liino's file"
 description: "Liino's 6 operator files, 81 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "梨諾的檔案"
   - "梨诺的档案"
   - "リーノのプロファイル"
   - "리노의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -176,8 +176,8 @@ sources:
 | Operator Promotion 3 | Mm-hmm, so you're finally under my spell? I knew you'd come around—eh? What's that? "You'll help carry the Endfield ads"? Is that all you focus on?! | Promotion III |
 | Operator Promotion 4 | Endmin, it's official: you're now my permanent VIP! I'm making sure you're missing none of my "dazzling moments"! You're starstruck, right? You better watch closely! If I see your mind wandering off... Heehee! | Promotion IV |
 | Operator Reporting for Duty | Endmin, missed me? As the brightest and cutest super idol of Talos-II, is there any special treatment for me? No...? Aw, you are still so blunt and direct, and yet somehow, still endearing... Guess it can't be helped. |  |
-| Standing by 1 | Hehe! How's this for a cute pose? |  |
-| Standing by 2 | La—lala—! Mic check complete! I'm ready to go! |  |
+| Standing By 1 | Hehe! How's this for a cute pose? |  |
+| Standing By 2 | La—lala—! Mic check complete! I'm ready to go! |  |
 | Assigning to Facility | How about two sets of speakers? One could work too! I just need to see how my voice carries in here... |  |
 | Greeting 1 | Endmin! Care to join me? I'm about to scout some venues. |  |
 | Greeting 2 | There you are, Endmin! Come listen to my new demo! | Reach trust: 300 |
@@ -216,7 +216,7 @@ sources:
 | Rest | Is it break time yet? Whew, I need some water! Give me a moment! |  |
 | Tactical Use 1 | I got your back! |  |
 | Tactical Use 2 | So warm and cozy... |  |
-| Warning Teammate | Get down! Don't force yourself! |  |
+| Danger Warning | Get down! Don't force yourself! |  |
 | Injured | Ngh... Such a clumsy flaw... |  |
 | 0 HP | Not fair... I was so close... |  |
 | Team Encouragement 1 | Whoa! I have to see that again! |  |

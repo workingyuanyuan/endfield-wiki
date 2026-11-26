@@ -1,17 +1,17 @@
 ---
 title: "Catcher's file"
 description: "Catcher's 6 operator files, 80 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "卡契爾的檔案"
   - "卡契尔的档案"
   - "キャッチャーのプロファイル"
   - "카치르의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -151,8 +151,8 @@ sources:
 | Operator Promotion 3 | Really appreciate your approval, Endmin. In return, I have completed mission prepwork for the ... next ninety days. You may review them at any time. | Promotion III |
 | Operator Promotion 4 | I sometimes think about what might've happened if I went along with my family's wishes. Perhaps I'd be living a different life. One that's simpler yet more comfortable... But I'd made up my mind when I took the sword and left my home that morning. I do not intend to look back. | Promotion IV |
 | Operator Reporting for Duty | Catcher, Op Team Z7. My role is giving the team cover and logistics support. I specialize in defensive operations and I'm good with the blade... And I hope I'll be an effective addition to your team. |  |
-| Standing by 1 | Need defensive cover? I shall give you my best. |  |
-| Standing by 2 | I believe we should be better prepared. |  |
+| Standing By 1 | Need defensive cover? I shall give you my best. |  |
+| Standing By 2 | I believe we should be better prepared. |  |
 | Assigning to Facility | Orders received. I've tagged them as my top mission priorities. |  |
 | Greeting 1 | Greetings, Endmin. Is there another assignment? |  |
 | Greeting 2 | Endmin, I've compiled ten folders of post-battle summaries for Team Z7. Do you wish to review them? | Reach trust: 300 |

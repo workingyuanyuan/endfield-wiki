@@ -1,45 +1,47 @@
 ---
 title: "戦闘システム"
 description: "『アークナイツ：エンドフィールド』の戦闘システム：ダメージ計算式、属性、アーツ異常、物理異常、ブレイク。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。用語とチュートリアルはゲームデータ 1.6、ダメージ計算式はバージョン1.0のプレイヤー検証による"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。用語とチュートリアルはゲームデータ 1.7、ダメージ計算式はバージョン1.0のプレイヤー検証による"
 caveat: "クラッシュは物理異常の攻撃で敵に付与されるスタックであり、最大4スタックまで重なる。特定の属性の被ダメージを増やすデバフである脆弱効果（脆弱）とは別である。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 aliases:
   - Combat mechanics
   - 戰鬥機制
   - 战斗机制
   - 전투 메커니즘
 sources:
-  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "NGAフォーラム攻略「终末地数据机制导论」（プレイヤー検証、バージョン1.0）"
     url: https://bbs.nga.cn/read.php?tid=46094556
-  - title: "warfarin.wiki、戦闘用語（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、戦闘用語（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/operators/laevatain
-  - title: "warfarin.wiki、チュートリアル「ダメージ種類」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「ダメージ種類」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_dmg_type
-  - title: "warfarin.wiki、チュートリアル「異常段階」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「異常段階」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_statuslevel
-  - title: "warfarin.wiki、チュートリアル「ブレイク値」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「ブレイク値」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_poise
-  - title: "warfarin.wiki、チュートリアル「終撃」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「終撃」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_execute
-  - title: "warfarin.wiki、チュートリアル「重攻撃」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「重攻撃」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_heavy_attack
-  - title: "warfarin.wiki、チュートリアル「戦技ポイント（SP）」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「戦技ポイント（SP）」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_sp
-  - title: "warfarin.wiki、チュートリアル「スキル - 戦技」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「スキル - 戦技」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_normal_skill
-  - title: "warfarin.wiki、チュートリアル「スキル - 連携技」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「スキル - 連携技」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_combo
-  - title: "warfarin.wiki、チュートリアル「スキル - 必殺技」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「スキル - 必殺技」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_ultimite_skill
-  - title: "warfarin.wiki、チュートリアル「チーム作戦」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「チーム作戦」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_bat_team
-  - title: "warfarin.wiki、オペレーター（ゲームデータ 1.6の属性、スキル消費とクールダウン）"
+  - title: "warfarin.wiki、オペレーター（ゲームデータ 1.7の属性、スキル消費とクールダウン）"
     url: https://warfarin.wiki/en/operators
   - title: "Endfield Talos Wiki、Operator（チーム人数）"
     url: https://endfield.wiki.gg/wiki/Operator
+  - title: "「キノコ菌グ！？君との大冒険！」 バージョンアップデートについて"
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## ダメージの種類と反応
@@ -72,7 +74,7 @@ sources:
 - オペレーターの初期会心率は5%、会心ダメージは50%。敵の会心率は0%、会心ダメージは50%。
 - 全スキルダメージUPは戦技、連携技、必殺技に適用され、通常攻撃には適用されない。終撃には通常攻撃ダメージUPが適用される。
 - 敵の基礎防御力はレベルを問わず100であり、防御力を変える効果がなければ防御力を参照する攻撃の防御乗算枠は0.5になる。オペレーターの基礎防御力は0で、防御力は通常、装備のメインステータスから得る。
-- 耐性1ポイントごとに、その属性のダメージが1%減る。ゲーム内では敵の耐性を等級で表示し、0がD、20〜40がC、50と60がBにあたる。ほとんどの敵の耐性は0か20で、一部の敵だけが1つの属性に30、35、40、50、60のいずれかを持つ。超域耐性を持つ敵はいない。
+- 耐性1ポイントごとに、その属性のダメージが1%減る。ゲーム内では敵の耐性を等級で表示し、-20がE、0がD、20〜40がC、50と60がBにあたる。耐性がマイナスなら受けるダメージが増える。バージョン1.7のキノコクラッシャーの蛟獣、キノコクラッシャーの攻城者、キノコクラッシャーの先鋒とキノコウ太子は灼熱耐性が-20である。ほとんどの敵の耐性は0か20で、一部の敵だけが1つの属性に30、35、40、50、60のいずれかを持つ。超域耐性を持つ敵はいない。
 - オペレーターの物理耐性は 100 − 100 / (0.001 × 敏捷 + 1)、アーツ耐性は知性を使って同様に計算し、敏捷と知性は整数部分を用いる。オペレーターの耐性乗算枠は0.1を下回らない。
 - ゲーム内の多くの数値は切り捨てて表示されるため、表示値から計算すると数ポイントずれることがある。
 
@@ -106,16 +108,16 @@ sources:
 
 ## ダメージ種類と属性
 
-| ダメージ種類 | 分類 | 該当属性のオペレーター数（ゲームデータ 1.6） |
+| ダメージ種類 | 分類 | 該当属性のオペレーター数（ゲームデータ 1.7） |
 | --- | --- | --- |
 | 物理 | 物理 | 9 |
 | 灼熱 | アーツ | 5 |
 | 電磁 | アーツ | 7 |
 | 寒冷 | アーツ | 8 |
-| 自然 | アーツ | 5 |
+| 自然 | アーツ | 6 |
 | 超域 | 超域 | 0 |
 
-ゲームデータ 1.6のオペレーター34人は全員、物理または4種のアーツ属性のいずれかを持ち、超域属性のオペレーターはいない。
+ゲームデータ 1.7のオペレーター35人は全員、物理または4種のアーツ属性のいずれかを持ち、超域属性のオペレーターはいない。
 
 ## アーツ付着、アーツ爆発、アーツ異常
 
@@ -164,7 +166,7 @@ sources:
 | スキル | 消費 | クールダウン | 備考 |
 | --- | --- | --- | --- |
 | 通常攻撃 | なし | なし | 操作中でない味方は自動で攻撃する |
-| 戦技 | SP | なし | 34人中33人は100 SP、[リーノ](/ja/operators/liino/)のみ25 SP |
+| 戦技 | SP | なし | 35人中34人は100 SP、[リーノ](/ja/operators/liino/)のみ25 SP |
 | 連携技 | なし | あり | 各オペレーター固有の発動条件を満たしたときのみ発動可能。スキルレベル1のクールダウンは3〜40秒 |
 | 必殺技 | 必殺チャージ全消費 | 発動後に短いクールダウン | 満タンのゲージが必要。オペレーターにより必殺チャージ70〜300、クールダウンは10、15、20、30秒のいずれか |
 

@@ -1,7 +1,7 @@
 {
  "slug": "ardelia",
  "gameId": "chr_0025_ardelia",
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "files": [
   {
    "id": "CN_01",
@@ -371,7 +371,7 @@
   {
    "id": "chr_0025_ardelia_mono_switch_01",
    "title": {
-    "en": "Standing by 1",
+    "en": "Standing By 1",
     "zh-TW": "待命1",
     "zh-CN": "待命1",
     "ja": "待機1",
@@ -389,7 +389,7 @@
   {
    "id": "chr_0025_ardelia_mono_switch_02",
    "title": {
-    "en": "Standing by 2",
+    "en": "Standing By 2",
     "zh-TW": "待命2",
     "zh-CN": "待命2",
     "ja": "待機2",

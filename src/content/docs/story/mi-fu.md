@@ -1,17 +1,17 @@
 ---
 title: "Mi Fu's file"
 description: "Mi Fu's 6 operator files and 81 voice lines."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "弭弗的檔案"
   - "弭弗的档案"
   - "ミ・フのプロファイル"
   - "미브의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -146,8 +146,8 @@ sources:
 | Operator Promotion 3 | Leading a crew is night and day from going solo. You know what I mean, right? You've got people to manage, missions to juggle. It's just not as clean and slick as kicking ass yourself. | Promotion III |
 | Operator Promotion 4 | I'm always wondering how you and Boss come up with those fancy words. The only trick I know is to give people a pat. What? You can give me a pat too? Tsk, aiya, saying it out loud ruins the point! | Promotion IV |
 | Operator Reporting for Duty | Enough talk. This time, I'll clean up the mess for you. But I do things directly. If something breaks, Endfield foots the bills. |  |
-| Standing by 1 | Time for a real brawl! |  |
-| Standing by 2 | We're battle-forged teammates, right? |  |
+| Standing By 1 | Time for a real brawl! |  |
+| Standing By 2 | We're battle-forged teammates, right? |  |
 | Assigning to Facility | Alright. But if any delicate stuff gets wrecked, don't blame me. |  |
 | Greeting 1 | Yo, you're here! |  |
 | Greeting 2 | Busy? It's been a while since we last sparred. | Reach trust: 300 |

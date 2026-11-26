@@ -8,7 +8,7 @@ Exit code 1 when a page has an error. Lines marked CHECK are facts the script co
 find in the cited notices: resolve each one (fix it, or cite the notice that has it).
 """
 # Dates on which the pages were checked against their sources.
-VERIFIED = ('2026-11-21', '2026-11-22')
+VERIFIED = ('2026-11-21', '2026-11-22', '2026-11-26')
 import datetime
 import json
 import os

@@ -1,19 +1,19 @@
 ---
 title: "集成工業の概要"
 description: "集成工業は『アークナイツ：エンドフィールド』の各地域に建てる自動化工場である。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。設備データはゲームデータ 1.6 による"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。設備データはゲームデータ 1.7 による"
 caveat: "地域（四号谷地、武陵）ごとに協約核心、電力網、倉庫、協約容量が別々にあり、ほとんどの設備は、自分の地域の電力網につながった送電スタンドの供給範囲内でしか動かない。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - "AIC overview"
   - "集成工業總覽"
   - "集成工业总览"
   - "통합 공업 개요"
 sources:
-  - title: "warfarin.wiki、ゲーム内チュートリアル「集成工業」「協約核心」「サブ協約核心」「地域倉庫」「工業発展計画」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「集成工業」「協約核心」「サブ協約核心」「地域倉庫」「工業発展計画」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_aic
-  - title: "warfarin.wiki、設備一覧（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、設備一覧（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/facilities
   - title: "Endfield Talos Wiki、Automated Industry Complex"
     url: https://endfield.wiki.gg/wiki/Automated_Industry_Complex
@@ -33,6 +33,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5208
   - title: "「丹青渡」バージョンアップデートの説明"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "「キノコ菌グ！？君との大冒険！」 バージョンアップデートについて"
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 | 項目 | 内容 |
@@ -107,7 +109,7 @@ sources:
 | 成形機 | Moulding Unit | 10 |
 | 栽培機 | Planting Unit | 20 |
 | 採種機 | Seed-Picking Unit | 10 |
-| 廃水処理機 | Water Treatment Unit | 50 |
+| 無害化処理機 | Waste Treatment Unit | 50 |
 
 ### 合成生産
 
@@ -158,8 +160,9 @@ sources:
 | 1.4 | 武陵のガス工業モードとガス設備。新しい拠点、満天台建設基地。フィールドの設備をマップから倉庫にしまえるようになった。地下配管の範囲が最大300 mになった。 |
 | 1.5 | 設備の連続設置。範囲選択中に図面の設備上限が表示されるようになった。 |
 | 1.6 | スーの絵と、その後の武陵城の農地のための自動農業マシン。道具箱やどの倉庫からでも設備を直接置けるようになり、どの倉庫の素材からでも建てられるようになった。 |
+| 1.7 | 武陵に陣関連の集成工業モードが加わり、均衡炉、晦明炉、双影晦明炉、再建用供給口が追加された。封鎖区域再建。廃水処理機は無害化処理機に改称された。通過制御口とパイプ通過制御口を設備の出入口に直接設置できるようになった。 |
 
-バージョン1.1から1.6までのどのバージョンでも、武陵の地域建設レベルの上限が上がった。
+バージョン1.1から1.7までのどのバージョンでも、武陵の地域建設レベルの上限が上がった。
 
 ## 図面共有のルール
 

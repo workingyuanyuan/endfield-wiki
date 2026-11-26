@@ -1,27 +1,27 @@
 ---
 title: 地区建设
 description: 《明日方舟：终末地》的地区建设，包括据点、调度券、仓储节点与跨地区传输。
-appliesTo: 《明日方舟：终末地》国际版，1.6 版；教学文字取自游戏数据 1.6
+appliesTo: 《明日方舟：终末地》国际版，1.7 版；教学文字取自游戏数据 1.7
 caveat: 跨地区传输依传输起点地区的地区建设等级解锁。库存传输会从起点地区的仓库扣除物品；只有更高等级才解锁的超库存传输不扣除起点的物品。
-lastVerified: 2026-11-21
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Regional Development
   - 地區建設
   - 地域建設
   - 지역 건설
 sources:
-  - title: warfarin.wiki 游戏内教学「跨地区传输」（游戏数据 1.6）
+  - title: warfarin.wiki 游戏内教学「跨地区传输」（游戏数据 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_domain_transport
-  - title: warfarin.wiki 游戏内教学「地区建设系统」（游戏数据 1.6）
+  - title: warfarin.wiki 游戏内教学「地区建设系统」（游戏数据 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_domain
-  - title: warfarin.wiki 游戏内教学「据点供货」（游戏数据 1.6）
+  - title: warfarin.wiki 游戏内教学「据点供货」（游戏数据 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_settlement
-  - title: warfarin.wiki 游戏内教学「物资调度」「弹性需求物资」（游戏数据 1.6）
+  - title: warfarin.wiki 游戏内教学「物资调度」「弹性需求物资」（游戏数据 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_domain_shop_1
-  - title: warfarin.wiki 游戏内教学「仓储节点」「货物装箱」「转交运送委托」（游戏数据 1.6）
+  - title: warfarin.wiki 游戏内教学「仓储节点」「货物装箱」「转交运送委托」（游戏数据 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_domain_depot_2
-  - title: warfarin.wiki 游戏内教学「地区仓库」「扩张管理系统」（游戏数据 1.6）
+  - title: warfarin.wiki 游戏内教学「地区仓库」「扩张管理系统」（游戏数据 1.7）
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_map_storage
   - title: Endfield Talos Wiki 的 Regional Development 页
     url: https://endfield.wiki.gg/wiki/Regional_Development
@@ -47,6 +47,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9560
   - title: 「丹青渡」版本开发组通讯
     url: https://endfield.gryphline.com/en-us/news/7014
+  - title: 「穿越甚大蘑境与你相逢」版本更新说明
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## 地区建设等级
@@ -75,8 +77,8 @@ sources:
 以武陵电池运转四号谷地的热能池：
 
 - 跨地区传输送来的物品进入四号谷地的仓库。协议核心或次级核心的取货口，或仓库取货口，可把仓库中选定的物品送上传送带，运往热能池。
-- 低容量与中容武陵电池都是热能池的燃料，电力分别为 1600 与 3200，每个燃烧 40 秒：一座热能池每小时用掉 90 个电池。
-- 两种武陵电池都在封装机制造（配方见[集成工业电力](/zh-cn/aic/power/)）。
+- 低容量、中容量与高容量武陵电池都是热能池的燃料，电力分别为 1600、3200 与 6400，每个燃烧 40 秒：一座热能池每小时用掉 90 个电池。
+- 三种武陵电池都在封装机制造（配方见[集成工业电力](/zh-cn/aic/power/)）。
 
 ## 据点与调度券
 
@@ -124,7 +126,7 @@ sources:
 | 如何提升 | 地区建设值，来自探索、向据点供货、在新矿点摆放矿机、升级据点、资源回收站、物资调度终端、仓储节点与环境监测终端，以及完成任务 |
 | 提升什么 | 开放新功能、提高矿物产率、增加可摆放的设备：各区域的协议容量、滑索摆放上限、战斗设施上限与矿物纯度 |
 | 例子 | 武陵城的协议容量为 200，3 级时 250，5 级时 300，7 级时 350，为上限 |
-| 等级上限 | 四号谷地最高 12 级。1.1 至 1.6 版每一版都提升了武陵的上限 |
+| 等级上限 | 四号谷地最高 12 级。1.1 至 1.7 版每一版都提升了武陵的上限 |
 | 事务总览 | 自 1.3 版起，地区建设界面的事务总览会显示物资调度、仓储节点的信息与地图位置 |
 
 

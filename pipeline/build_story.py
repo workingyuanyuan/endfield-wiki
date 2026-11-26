@@ -20,16 +20,16 @@ import build_pages as bp  # noqa: E402
 
 ROOT = bp.ROOT
 DOCS = bp.DOCS
-TODAY = '2026-11-23'
+TODAY = '2026-11-26'
 EN, ZH, CN, JA, KO = 'en', 'zh-TW', 'zh-CN', 'ja', 'ko'
 LANGS = (EN, ZH, CN, JA, KO)
 FOLDER = {EN: '', ZH: 'zh-tw', CN: 'zh-cn', JA: 'ja', KO: 'ko'}
 PRE = {lang: ('/' + f if f else '') for lang, f in FOLDER.items()}
 MAX_DESC = {EN: 110, ZH: 70, CN: 70, JA: 70, KO: 90}
 TERMS = json.load(open(os.path.join(ROOT, 'records', 'story', 'terms.json'), encoding='utf8'))
-SOURCE_TITLE = {EN: 'rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)', ZH: 'rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）',
-                CN: 'rmxlinux/EndfieldData 游戏资料表（1.6，2026-11-05）', JA: 'rmxlinux/EndfieldData、ゲームデータテーブル（1.6、2026-11-05）',
-                KO: 'rmxlinux/EndfieldData 게임 데이터 테이블(1.6, 2026-11-05)'}
+SOURCE_TITLE = {EN: 'rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)', ZH: 'rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）',
+                CN: 'rmxlinux/EndfieldData 游戏资料表（1.7，2026-11-25）', JA: 'rmxlinux/EndfieldData、ゲームデータテーブル（1.7、2026-11-25）',
+                KO: 'rmxlinux/EndfieldData 게임 데이터 테이블(1.7, 2026-11-25)'}
 
 
 def L(lang, en, zh, cn, ja, ko):
@@ -130,10 +130,10 @@ def page(st, op, lang):
                       '各語言是遊戲各自的版本，句子不一定逐句對應。', '各语言是游戏各自的版本，句子不一定逐句对应。',
                       '各言語のテキストはゲームのその言語版であり、文ごとに一致するとは限らない。',
                       '각 언어의 텍스트는 게임의 해당 언어판이며, 문장 단위로 일치하지 않을 수 있다.')
-    applies = L(lang, 'Arknights: Endfield, global service; text of game data 1.6 in English',
-                '《明日方舟：終末地》國際版；遊戲資料 1.6 的繁體中文文字', '《明日方舟：终末地》；游戏资料 1.6 的简体中文文字',
-                '『アークナイツ：エンドフィールド』グローバル版。ゲームデータ1.6の日本語テキスト',
-                '《명일방주: 엔드필드》 글로벌 서비스. 게임 데이터 1.6의 한국어 텍스트')
+    applies = L(lang, 'Arknights: Endfield, global service; text of game data 1.7 in English',
+                '《明日方舟：終末地》國際版；遊戲資料 1.7 的繁體中文文字', '《明日方舟：终末地》；游戏资料 1.7 的简体中文文字',
+                '『アークナイツ：エンドフィールド』グローバル版。ゲームデータ1.7の日本語テキスト',
+                '《명일방주: 엔드필드》 글로벌 서비스. 게임 데이터 1.7의 한국어 텍스트')
     titles = {x: title_of(op, x) for x in LANGS}
     aliases = bp.aliases_of(titles, title)
     fm = ['---', f'title: {bp.quote(title)}', f'description: {bp.quote(desc)}', f'appliesTo: {bp.quote(applies)}',
@@ -178,9 +178,9 @@ def index_page(stories, ops, lang):
                '各語言是遊戲各自的版本，句子不一定逐句對應。', '各语言是游戏各自的版本，句子不一定逐句对应。',
                '各言語のテキストはゲームのその言語版であり、文ごとに一致するとは限らない。',
                '각 언어의 텍스트는 게임의 해당 언어판이며, 문장 단위로 일치하지 않을 수 있다.')
-    applies = L(lang, 'Arknights: Endfield, global service; text of game data 1.6', '《明日方舟：終末地》國際版；遊戲資料 1.6 的文字',
-                '《明日方舟：终末地》；游戏资料 1.6 的文字', '『アークナイツ：エンドフィールド』グローバル版。ゲームデータ1.6のテキスト',
-                '《명일방주: 엔드필드》 글로벌 서비스. 게임 데이터 1.6의 텍스트')
+    applies = L(lang, 'Arknights: Endfield, global service; text of game data 1.7', '《明日方舟：終末地》國際版；遊戲資料 1.7 的文字',
+                '《明日方舟：终末地》；游戏资料 1.7 的文字', '『アークナイツ：エンドフィールド』グローバル版。ゲームデータ1.7のテキスト',
+                '《명일방주: 엔드필드》 글로벌 서비스. 게임 데이터 1.7의 텍스트')
     fm = ['---', f'title: {bp.quote(title)}', f'description: {bp.quote(desc)}', f'appliesTo: {bp.quote(applies)}',
           f'caveat: {bp.quote(caveat)}', f'lastVerified: {TODAY}', 'aliases:']
     fm += [f'  - {bp.quote(a)}' for a in bp.aliases_of(titles, title)]

@@ -1,9 +1,9 @@
 ---
 title: "庄方宜"
 description: "庄方宜是 6 星电磁突击干员，使用施术单元；限定干员，于「春雷动，万物生」概率提升。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；技能文字与数值出自游戏数据 1.6"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；技能文字与数值出自游戏数据 1.7"
 caveat: "限定干员在自己那一期之后的 2 期特许寻访仍在名单内，但没有概率提升，之后移出名单；限定干员不会加入基础寻访。"
-lastVerified: 2026-11-22
+lastVerified: 2026-11-26
 effectiveDate: 2026-10-15
 aliases:
   - "Zhuang Fangyi"
@@ -26,10 +26,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/0751
   - title: "「丹青渡」版本更新说明"
     url: https://endfield.gryphline.com/en-us/news/9560
-  - title: "warfarin.wiki 庄方宜页（游戏数据 1.6）"
+  - title: "warfarin.wiki 庄方宜页（游戏数据 1.7）"
     url: https://warfarin.wiki/en/operators/zhuang-fangyi
-  - title: "rmxlinux/EndfieldData 游戏数据表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData 游戏数据表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
   - title: "Endfield Talos Wiki 的 Zhuang Fangyi 页"
     url: https://endfield.wiki.gg/wiki/Zhuang_Fangyi
 ---

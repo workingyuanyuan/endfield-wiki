@@ -1,23 +1,23 @@
 ---
 title: "依产品查配方"
-description: "《明日方舟：终末地》126 种集成工业产品由哪个设施制造、需要什么原料、多快。"
-appliesTo: "《明日方舟：终末地》国际版，1.6 版；配方出自游戏数据 1.6"
+description: "《明日方舟：终末地》139 种集成工业产品由哪个设施制造、需要什么原料、多快。"
+appliesTo: "《明日方舟：终末地》国际版，1.7 版；配方出自游戏数据 1.7"
 caveat: "时间是单一设施做一次的时间；同一产品可以有多个配方。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-22
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-26
 aliases:
   - "Recipes by product"
   - "依產品查配方"
   - "製品別レシピ"
   - "제품별 제작법"
 sources:
-  - title: "配方表 FactoryMachineCraftTable（游戏数据 1.6）"
-    url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/FactoryMachineCraftTable.json
+  - title: "配方表 FactoryMachineCraftTable（游戏数据 1.7）"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryMachineCraftTable.json
 ---
 
 ## 配方
 
-不含装填与清空容器，这些产品共有 162 个配方。灌装机把液体或气体装进空瓶或空罐（74 个配方），拆解机再把它们清空（74 个配方）；装满的容器沿用容器本身的名称。灌装机也做出新东西，例如瓶装饮料、柑实罐头与荞愈胶囊。
+不含装填与清空容器，这些产品共有 177 个配方。灌装机把液体或气体装进空瓶或空罐（78 个配方），拆解机再把它们清空（78 个配方）；装满的容器沿用容器本身的名称。灌装机也做出新东西，例如瓶装饮料、柑实罐头与荞愈胶囊。
 
 | 产品 | 英文 | 设施 | 原料 | 产出 | 时间 |
 | --- | --- | --- | --- | --- | --- |
@@ -65,6 +65,9 @@ sources:
 | 柑实 | Citrome | 种植机 | 柑实种子 ×1 | 柑实 ×1 | 2 秒 |
 | 柑实粉末 | Citrome Powder | 粉碎机 | 柑实 ×1 | 柑实粉末 ×2 | 2 秒 |
 | 柑实种子 | Citrome Seed | 采种机 | 柑实 ×1 | 柑实种子 ×2 | 2 秒 |
+| 清型辉铜气 | Clean Lucidolite Gas | 气体反应炉 | 气态衡铜 ×1、气态衡息壤 ×1 | 清型辉铜气 ×2 | 2 秒 |
+| 清型辉铜气 | Clean Lucidolite Gas | 提纯机 | 浊型辉铜气 ×2、分离芯 ×2 | 清型辉铜气 ×2 | 2 秒 |
+| 清型辉铜气 | Clean Lucidolite Gas | 固气转化机 | 辉铜 ×2 | 清型辉铜气 ×2 | 2 秒 |
 | 清水 | Clean Water | 液气转化机 | 水蒸气 ×1 | 清水 ×1 | 2 秒 |
 | 脆蔗种子 | Crunchcane Cutting | 采种机 | 脆蔗 ×1 | 脆蔗种子 ×2 | 2 秒 |
 | 高晶质瓶 | Cryston Bottle | 塑形机 | 高晶纤维 ×2 | 高晶质瓶 ×1 | 2 秒 |
@@ -72,6 +75,8 @@ sources:
 | 高晶纤维 | Cryston Fiber | 精炼炉 | 高晶粉末 ×1 | 高晶纤维 ×1 | 2 秒 |
 | 高晶零件 | Cryston Part | 配件机 | 高晶纤维 ×1 | 高晶零件 ×1 | 2 秒 |
 | 高晶粉末 | Cryston Powder | 研磨机 | 紫晶粉末 ×2、砂叶粉末 ×1 | 高晶粉末 ×1 | 2 秒 |
+| 铜封重装组件 | CuPKG Heavy IC | 封装机 | 晦状赤铜零件 ×15、重息壤 ×2 | 铜封重装组件 ×5 | 10 秒 |
+| 铜封明壤元件 | CuPKG Luminarite Component | 封装机 | 明状赤铜零件 ×10、明状息壤 ×5 | 铜封明壤元件 ×5 | 10 秒 |
 | 赤铜块 | Cuprium | 精炼炉 | 赤铜矿 ×1、清水 ×1 | 赤铜块 ×1、污水 ×1 | 2 秒 |
 | 赤铜块 | Cuprium | 固气转化机 | 气态赤铜 ×1 | 赤铜块 ×2 | 2 秒 |
 | 赤铜瓶 | Cuprium Bottle | 塑形机 | 赤铜块 ×2 | 赤铜瓶 ×1 | 2 秒 |
@@ -91,6 +96,10 @@ sources:
 | 致密晶体粉末 | Dense Origocrust Powder | 精炼炉 | 致密源石粉末 ×1 | 致密晶体粉末 ×1 | 2 秒 |
 | 致密晶体粉末 | Dense Origocrust Powder | 研磨机 | 晶体外壳粉末 ×2、砂叶粉末 ×1 | 致密晶体粉末 ×1 | 2 秒 |
 | 双效饱食饲料 | Double-Yummy Feed | 反应池或扩容反应池 | 球豆壳粉末 ×1、清水 ×1 | 双效饱食饲料 ×1 | 2 秒 |
+| 气态衡息壤 | Equiragen | 固气转化机 | 衡息壤 ×2 | 气态衡息壤 ×1 | 2 秒 |
+| 衡息壤 | Equiranite | 固气转化机 | 气态衡息壤 ×1 | 衡息壤 ×2 | 2 秒 |
+| 衡铜 | Equprium | 固气转化机 | 气态衡铜 ×1 | 衡铜 ×2 | 2 秒 |
+| 气态衡铜 | Equprium Gas | 固气转化机 | 衡铜 ×2 | 气态衡铜 ×1 | 2 秒 |
 | 蓝铁块 | Ferrium | 精炼炉 | 蓝铁矿 ×1 | 蓝铁块 ×1 | 2 秒 |
 | 蓝铁块 | Ferrium | 精炼炉 | 蓝铁粉末 ×1 | 蓝铁块 ×1 | 2 秒 |
 | 蓝铁瓶 | Ferrium Bottle | 塑形机 | 蓝铁块 ×2 | 蓝铁瓶 ×1 | 2 秒 |
@@ -102,6 +111,7 @@ sources:
 | 细磨柑实粉末 | Ground Citrome Powder | 研磨机 | 柑实粉末 ×2、砂叶粉末 ×1 | 细磨柑实粉末 ×1 | 2 秒 |
 | 辣椒粉 | Ground Pepper | 粉碎机 | 苦叶椒 ×1 | 辣椒粉 ×3 | 2 秒 |
 | 高容谷地电池 | HC Valley Battery | 封装机 | 钢制零件 ×10、致密源石粉末 ×15 | 高容谷地电池 ×1 | 10 秒 |
+| 高容量武陵电池 | HC Wuling Battery | 封装机 | 衡息壤 ×5、致密源石粉末 ×20 | 高容量武陵电池 ×1 | 10 秒 |
 | 重息壤气 | Heavy Xiragen | 提纯机 | 息壤气 ×2、分离芯 ×1 | 重息壤气 ×1 | 2 秒 |
 | 重息壤气 | Heavy Xiragen | 提纯机 | 息壤气 ×2、分离芯 ×2 | 重息壤气 ×1 | 2 秒 |
 | 重息壤气 | Heavy Xiragen | 液气转化机 | 液化重息壤 ×2 | 重息壤气 ×5 | 10 秒 |
@@ -126,12 +136,16 @@ sources:
 | 锦草种子 | Jincao Seed | 采种机 | 锦草 ×1 | 锦草种子 ×1 | 2 秒 |
 | 锦草溶液 | Jincao Solution | 反应池或扩容反应池 | 锦草粉末 ×1、清水 ×1 | 锦草溶液 ×1 | 2 秒 |
 | 优质锦草软饮 | Jincao Tea | 封装机 | 赤铜零件 ×10、赤铜瓶 ×5 | 优质锦草软饮 ×1 | 10 秒 |
+| 明状赤铜零件 | L-Cuprium Part | 配件机 | 明状赤铜 ×1 | 明状赤铜零件 ×1 | 2 秒 |
 | 低容谷地电池 | LC Valley Battery | 封装机 | 紫晶零件 ×5、源石粉末 ×10 | 低容谷地电池 ×1 | 10 秒 |
 | 低容武陵电池 | LC Wuling Battery | 封装机 | 息壤 ×5、致密源石粉末 ×15 | 低容武陵电池 ×1 | 10 秒 |
 | 液化重息壤 | Liquid Heavy Xiranite | 反应池或扩容反应池 | 重息壤 ×1、沉积酸 ×1 | 液化重息壤 ×1 | 2 秒 |
 | 液化重息壤 | Liquid Heavy Xiranite | 液气转化机 | 重息壤气 ×5 | 液化重息壤 ×2 | 10 秒 |
 | 液化息壤 | Liquid Xiranite | 反应池或扩容反应池 | 息壤 ×1、清水 ×1 | 液化息壤 ×1 | 2 秒 |
 | 液化息壤 | Liquid Xiranite | 液气转化机 | 息壤气 ×1 | 液化息壤 ×1 | 2 秒 |
+| 辉铜 | Lucidolite | 固气转化机 | 清型辉铜气 ×2 | 辉铜 ×2 | 2 秒 |
+| 辉铜能量块 | Lucidolite Energy Brick | 封装机 | 辉铜零件 ×5、致密源石粉末 ×5 | 辉铜能量块 ×5 | 10 秒 |
+| 辉铜零件 | Lucidolite Part | 配件机 | 辉铜 ×1 | 辉铜零件 ×1 | 2 秒 |
 | 茄果种子 | Matoberry Seeds | 采种机 | 茄果 ×1 | 茄果种子 ×2 | 2 秒 |
 | 籽油花种子 | Oilseeds | 采种机 | 籽油花 ×1 | 籽油花种子 ×2 | 2 秒 |
 | 源石粉末 | Originium Powder | 粉碎机 | 源矿 ×1 | 源石粉末 ×1 | 2 秒 |
@@ -165,13 +179,14 @@ sources:
 | 钢质瓶 | Steel Bottle | 塑形机 | 钢块 ×2 | 钢质瓶 ×1 | 2 秒 |
 | 钢制零件 | Steel Part | 配件机 | 钢块 ×1 | 钢制零件 ×1 | 2 秒 |
 | 砂糖 | Sugar | 粉碎机 | 脆蔗 ×1 | 砂糖 ×3 | 2 秒 |
+| 晦状赤铜零件 | T-Cuprium Part | 配件机 | 晦状赤铜 ×1 | 晦状赤铜零件 ×1 | 2 秒 |
 | 苦叶椒种子 | Tartpepper Seeds | 采种机 | 苦叶椒 ×1 | 苦叶椒种子 ×2 | 2 秒 |
 | 白瓜种子 | Whitemelon Seeds | 采种机 | 白瓜 ×1 | 白瓜种子 ×2 | 2 秒 |
 | 息壤气 | Xiragen | 液气转化机 | 液化息壤 ×1 | 息壤气 ×1 | 2 秒 |
 | 息壤气 | Xiragen | 固气转化机 | 息壤 ×1 | 息壤气 ×1 | 2 秒 |
 | 息壤 | Xiranite | 固气转化机 | 息壤气 ×1 | 息壤 ×1 | 2 秒 |
-| 息壤 | Xiranite | 天有洪炉 | 稳定碳块 ×2、清水 ×1 | 息壤 ×1 | 2 秒 |
 | 息壤 | Xiranite | 天有洪炉 | 碳块 ×1、清水 ×1 | 息壤 ×1 | 2 秒 |
+| 息壤 | Xiranite | 天有洪炉 | 稳定碳块 ×2、清水 ×1 | 息壤 ×1 | 2 秒 |
 | 息壤装备原件 | Xiranite Component | 装备原件机 | 密制晶体 ×10、息壤 ×10 | 息壤装备原件 ×1 | 10 秒 |
 | 壤晶 | Xircon | 反应池或扩容反应池 | 壤晶废液 ×2、蓝铁粉末 ×1 | 壤晶 ×1、污水 ×1 | 2 秒 |
 | 壤晶废液 | Xircon Effluent | 提纯机 | 惰性壤晶废液 ×4 | 壤晶废液 ×1、清水 ×1 | 2 秒 |

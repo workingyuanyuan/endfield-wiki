@@ -1,37 +1,37 @@
 ---
 title: Production and logistics
 description: How AIC facilities in Arknights Endfield take inputs, run recipes and pass items by belt, pipe and depot.
-appliesTo: "Arknights: Endfield, global service, Version 1.6; facility and recipe data from game data 1.6"
+appliesTo: "Arknights: Endfield, global service, Version 1.7; facility and recipe data from game data 1.7"
 caveat: Transport belts can be placed only inside a Core AIC Area. Facilities placed outside it use the region's Protocol Capacity, and when that is used up no more facilities can be placed in the region.
-lastVerified: 2026-11-22
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - 生產與物流
   - 生产与物流
   - 生産と物流
   - 생산과 물류
 sources:
-  - title: "Recipe table FactoryMachineCraftTable (game data 1.6): recipe counts"
-    url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/FactoryMachineCraftTable.json
-  - title: "warfarin.wiki, in-game tutorials Facility: Processing and Facility: Production Formulas (game data 1.6)"
+  - title: "Recipe table FactoryMachineCraftTable (game data 1.7): recipe counts"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryMachineCraftTable.json
+  - title: "warfarin.wiki, in-game tutorials Facility: Processing and Facility: Production Formulas (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_formula
-  - title: warfarin.wiki, in-game tutorial Input and Output Ports (game data 1.6)
+  - title: warfarin.wiki, in-game tutorial Input and Output Ports (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_port
-  - title: "warfarin.wiki, in-game tutorial Transport Belt: Placement Restrictions (game data 1.6)"
+  - title: "warfarin.wiki, in-game tutorial Transport Belt: Placement Restrictions (game data 1.7)"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_belt
-  - title: warfarin.wiki, in-game tutorials Splitter, Converger and Belt Bridge (game data 1.6)
+  - title: warfarin.wiki, in-game tutorials Splitter, Converger and Belt Bridge (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_splitter
-  - title: warfarin.wiki, in-game tutorial Pipeline (game data 1.6)
+  - title: warfarin.wiki, in-game tutorial Pipeline (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_pipe
-  - title: warfarin.wiki, in-game tutorial Depot Bus (game data 1.6)
+  - title: warfarin.wiki, in-game tutorial Depot Bus (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_usb_loader_unloader
-  - title: warfarin.wiki, in-game tutorial Protocol Capacity and Restrictions (game data 1.6)
+  - title: warfarin.wiki, in-game tutorial Protocol Capacity and Restrictions (game data 1.7)
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_bandwidth
-  - title: warfarin.wiki, Facilities (game data 1.6)
+  - title: warfarin.wiki, Facilities (game data 1.7)
     url: https://warfarin.wiki/en/facilities
-  - title: warfarin.wiki, Protocol Stash (game data 1.6)
+  - title: warfarin.wiki, Protocol Stash (game data 1.7)
     url: https://warfarin.wiki/en/facilities/storager_1
-  - title: warfarin.wiki, Expanded Crucible (game data 1.6)
+  - title: warfarin.wiki, Expanded Crucible (game data 1.7)
     url: https://warfarin.wiki/en/facilities/mix_pool_2
   - title: Endfield Talos Wiki, Automated Industry Complex
     url: https://endfield.wiki.gg/wiki/Automated_Industry_Complex
@@ -84,30 +84,31 @@ Power use is in power units.
 | --- | --- | --- | --- |
 | Refining Unit | 5 | 26 | Metal blocks (Ferrium, Cuprium, Steel), Amethyst and Cryston Fiber, Carbon, Origocrust |
 | Shredding Unit | 5 | 18 | Powders from ores and plants, such as Originium Powder, Ferrium Powder, Sandleaf Powder, Flour, Sugar |
-| Fitting Unit | 20 | 7 | Parts from metal blocks and fibers, such as Ferrium Part, Steel Part, Amethyst Part, Cuprium Part |
+| Fitting Unit | 20 | 10 | Parts from metal blocks and fibers, such as Ferrium Part, Steel Part, Amethyst Part, Cuprium Part, Lucidolite Part |
 | Moulding Unit | 10 | 7 | Bottles and canisters |
 | Planting Unit | 20 | 6 | Plants from seeds |
 | Seed-Picking Unit | 10 | 19 | Seeds and cuttings from crops |
 | Gearing Unit | 10 | 7 | Gear components |
-| Filling Unit | 20 | 84 | Fills bottles and canisters with fluids or gases; also Buck Capsules, Canned Citrome and bottled drinks |
-| Packaging Unit | 20 | 11 | All five batteries, Industrial Explosive, Jincao drinks, Yazhen Syringes, Separator Core |
+| Filling Unit | 20 | 88 | Fills bottles and canisters with fluids or gases; also Buck Capsules, Canned Citrome and bottled drinks |
+| Packaging Unit | 20 | 15 | All six batteries, Industrial Explosive, Jincao drinks, Yazhen Syringes, Separator Core |
 | Grinding Unit | 50 | 7 | Dense and ground powders |
 | Reactor Crucible | 50 | 11 | Solutions, Xircon, Hetonite, Liquid Xiranite, feed and seed oil |
 | Expanded Crucible | 100 | 11 | The same 11 recipes as the Reactor Crucible, with more ports and several reactions at once |
 | Forge of the Sky | 50 | 4 | Xiranite, Heavy Xiranite and Bumper-Rich |
-| Purification Unit | 50 | 6 | Purer gases and solutions |
-| Separating Unit | 20 | 74 | Empties filled bottles and canisters, giving back the container and the fluid or gas in it |
+| Purification Unit | 50 | 7 | Purer gases and solutions |
+| Separating Unit | 20 | 78 | Empties filled bottles and canisters, giving back the container and the fluid or gas in it |
 | Fluid-Gas Transmuting Unit | 50 | 12 | Turns fluids into gases and back; runs on a steady input of Liquid Xiranite |
-| Solid-Gas Transmuting Unit | 50 | 10 | Turns solids into gases and back; runs on a steady input of Xiragen |
-| Gas Reactor Globe | 50 | 1 | Pyrrolite Gas |
+| Solid-Gas Transmuting Unit | 50 | 16 | Turns solids into gases and back; runs on a steady input of Xiragen |
+| Gas Reactor Globe | 50 | 2 | Pyrrolite Gas, Clean Lucidolite Gas |
 
-The Water Treatment Unit (power use 50) processes Sewage, and Xircon Effluent and Inert Xircon Effluent at lower efficiency.
+The Waste Treatment Unit (called Water Treatment Unit before Version 1.7; power use 50) processes Sewage, Xircon Effluent, Inert Xircon Effluent and Turbid Lucidolite Gas.
 
 ## Recipes of the Gas Reactor Globe, Forge of the Sky, Gearing, Grinding and Planting Units
 
 | Facility | Inputs | Output | Time |
 | --- | --- | --- | --- |
 | Gas Reactor Globe | Hetonite Gas ×2, Xiragen ×1 | Pyrrolite Gas ×1 | 2 s |
+| Gas Reactor Globe | Equprium Gas ×1, Equiragen ×1 | Clean Lucidolite Gas ×2 | 2 s |
 | Forge of the Sky | Xiranite ×10, Xircon Effluent ×5 | Heavy Xiranite ×1 | 10 s |
 | Forge of the Sky | Burdo-Muck ×1, Liquid Xiranite ×1 | Bumper-Rich ×1 | 2 s |
 | Forge of the Sky | Stabilized Carbon ×2, Clean Water ×1 | Xiranite ×1 | 2 s |

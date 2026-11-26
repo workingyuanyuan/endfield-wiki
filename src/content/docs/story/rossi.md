@@ -1,17 +1,17 @@
 ---
 title: "Rossi's file"
 description: "Rossi's 6 operator files, 82 voice lines and 4 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "洛西的檔案"
   - "洛茜的档案"
   - "ロッシのプロファイル"
   - "로시의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -162,8 +162,8 @@ sources:
 | Operator Promotion 3 | Promotions are a piece of cake for someone like me! When's the next one? I'm totally ready! Gotta wait for the right opportunity? Well ... alright then. | Promotion III |
 | Operator Promotion 4 | Doesn't this prove I'm the top operator now? Wonder if Catello had it this easy. Next time I see him, I'm totally rubbing it in his face! | Promotion IV |
 | Operator Reporting for Duty | I'm Rossina, granted name Wulfperl, meaning the Pack's treasure! You'd better remember that! Ah ... Endmin, you can call me whatever you prefer... |  |
-| Standing by 1 | The hour of bloodshed is upon us. It's time to hunt. I mean ... it's time to eat. |  |
-| Standing by 2 | Prey, beware! I am the paws of the Pack! ...Wait, that doesn't sound right? Anyway... Awoo! |  |
+| Standing By 1 | The hour of bloodshed is upon us. It's time to hunt. I mean ... it's time to eat. |  |
+| Standing By 2 | Prey, beware! I am the paws of the Pack! ...Wait, that doesn't sound right? Anyway... Awoo! |  |
 | Assigning to Facility | Piece of cake for an elite like me! |  |
 | Greeting 1 | E-Endmin! Do you have any missions for me today? |  |
 | Greeting 2 | Endmin, could you share some leadership experience with me? | Reach trust: 300 |

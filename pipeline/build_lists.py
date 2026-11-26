@@ -74,9 +74,9 @@ def names(lang):
                f"{OPS['rossi']['name'][KO]}의 중국어 이름(번체 洛西, 간체 洛茜)은 번체·간체 변환이 아니라 서로 다른 글자이다.")
     sources = [(L('Official operator list (Gryphline)', '官方幹員列表 (Gryphline)', '公式オペレーター一覧（Gryphline）', '공식 오퍼레이터 목록(Gryphline)'), 'https://endfield.gryphline.com/en-us/operator'),
                (L('Official operator list, Simplified Chinese (Hypergryph)', '官方幹員列表，簡體中文 (Hypergryph)', '公式オペレーター一覧、簡体字中国語（Hypergryph）', '공식 오퍼레이터 목록, 간체 중국어(Hypergryph)'), 'https://endfield.hypergryph.com/operator'),
-               (L('warfarin.wiki, Operators (game data 1.6)', 'warfarin.wiki 幹員列表（遊戲資料 1.6）', 'warfarin.wiki、オペレーター一覧（ゲームデータ 1.6）', 'warfarin.wiki, 오퍼레이터 목록(게임 데이터 1.6)'), 'https://warfarin.wiki/en/operators')]
-    out = front(lang, titles, desc, L('Arknights: Endfield, global service, Version 1.6; names from game data 1.6 in three languages', '《明日方舟：終末地》國際版，1.6 版；名稱出自三種語言的遊戲資料 1.6',
-                                      f"{GAME[JA]}グローバル版、バージョン1.6。名称は各言語のゲームデータ 1.6 による", f"{GAME[KO]} 글로벌 서비스, 1.6 버전. 이름은 각 언어의 게임 데이터 1.6 기준"),
+               (L('warfarin.wiki, Operators (game data 1.7)', 'warfarin.wiki 幹員列表（遊戲資料 1.7）', 'warfarin.wiki、オペレーター一覧（ゲームデータ 1.7）', 'warfarin.wiki, 오퍼레이터 목록(게임 데이터 1.7)'), 'https://warfarin.wiki/en/operators')]
+    out = front(lang, titles, desc, L('Arknights: Endfield, global service, Version 1.7; names from game data 1.7 in three languages', '《明日方舟：終末地》國際版，1.7 版；名稱出自三種語言的遊戲資料 1.7',
+                                      f"{GAME[JA]}グローバル版、バージョン1.7。名称は各言語のゲームデータ 1.7 による", f"{GAME[KO]} 글로벌 서비스, 1.7 버전. 이름은 각 언어의 게임 데이터 1.7 기준"),
                 caveat, TODAY, sources)
     head = L('| English | 繁體中文 | 簡體中文 |', '| English | 繁體中文 | 簡體中文 |', '| 日本語 | 英語 | 繁体字中国語 | 簡体字中国語 |', '| 한국어 | 영어 | 중국어 번체 | 중국어 간체 |')
     rule = '| --- | --- | --- |' if lang in (EN, ZH) else '| --- | --- | --- | --- |'
@@ -106,10 +106,10 @@ def weapons(lang):
     L = chooser(lang)
     total = len(WEAPONS)
     titles = {EN: 'Weapons list', ZH: '武器列表', CN: '武器列表', JA: '武器一覧', KO: '무기 목록'}
-    desc = L(f'All {total} Arknights: Endfield weapons in Version 1.6: type, rarity, Essence stats and recommended operators.',
-             f'《明日方舟：終末地》1.6 版的 {total} 把武器：類型、稀有度、基質詞條與推薦幹員。',
-             f"{GAME[JA]}バージョン1.6の武器{total}種：種類、{J('Rarity')}、{J('Essence Stats')}、{J('Recommended')}オペレーター。",
-             f"{GAME[KO]} 1.6 버전의 무기 {total}종: 유형, {K('Rarity')}, {K('Essence Stats')}, {K('Recommended')} 오퍼레이터.")
+    desc = L(f'All {total} Arknights: Endfield weapons in Version 1.7: type, rarity, Essence stats and recommended operators.',
+             f'《明日方舟：終末地》1.7 版的 {total} 把武器：類型、稀有度、基質詞條與推薦幹員。',
+             f"{GAME[JA]}バージョン1.7の武器{total}種：種類、{J('Rarity')}、{J('Essence Stats')}、{J('Recommended')}オペレーター。",
+             f"{GAME[KO]} 1.7 버전의 무기 {total}종: 유형, {K('Rarity')}, {K('Essence Stats')}, {K('Recommended')} 오퍼레이터.")
     fans = {}
     for slug, rec in bp.RECOMMEND['operators'].items():
         for wid in rec['weapons']:
@@ -120,12 +120,12 @@ def weapons(lang):
                f"オペレーターの{J('Headhunting')}では武器は出ない。1回引くごとに{J('Arsenal Ticket')}がもらえ、{J('Arsenal Issue')}に使う。星6武器は{J('Arsenal Issue')}と{J('Arsenal Exchange')}で手に入る。",
                f"오퍼레이터 {K('Headhunting')}에서는 무기가 나오지 않는다. 1회 뽑을 때마다 {josa(K('Arsenal Ticket'), OBJ)} 받으며, {K('Arsenal Issue')}에 사용한다. 6성 무기는 {josa(K('Arsenal Issue'), AND)} {K('Arsenal Exchange')}에서 얻는다.")
     b7012 = next(b for b in bp.ALL if b['notice'] == '7012')['name']
-    sources = [(L('warfarin.wiki, Weapons (game data 1.6)', 'warfarin.wiki 武器列表（遊戲資料 1.6）', 'warfarin.wiki、武器一覧（ゲームデータ 1.6）', 'warfarin.wiki, 무기 목록(게임 데이터 1.6)'), 'https://warfarin.wiki/en/weapons'),
+    sources = [(L('warfarin.wiki, Weapons (game data 1.7)', 'warfarin.wiki 武器列表（遊戲資料 1.7）', 'warfarin.wiki、武器一覧（ゲームデータ 1.7）', 'warfarin.wiki, 무기 목록(게임 데이터 1.7)'), 'https://warfarin.wiki/en/weapons'),
                (L('The Hearth Fire Beckons the Starry Flow Chartered Headhunting (Arsenal Tickets)', '「煙火邀星河」特許尋訪說明（武庫配額）',
                   f"「{b7012[JA]}」{J('Chartered Headhunting')}のお知らせ（{J('Arsenal Ticket')}）", f"「{b7012[KO]}」 {K('Chartered Headhunting')} 안내({K('Arsenal Ticket')})"), 'https://endfield.gryphline.com/en-us/news/7012'),
                (bp.GAME_TABLES[1][lang], bp.GAME_TABLES[0])]
-    out = front(lang, titles, desc, L('Arknights: Endfield, global service, Version 1.6; list from game data 1.6', '《明日方舟：終末地》國際版，1.6 版；列表出自遊戲資料 1.6',
-                                      f"{GAME[JA]}グローバル版、バージョン1.6。一覧はゲームデータ 1.6 による", f"{GAME[KO]} 글로벌 서비스, 1.6 버전. 목록은 게임 데이터 1.6 기준"),
+    out = front(lang, titles, desc, L('Arknights: Endfield, global service, Version 1.7; list from game data 1.7', '《明日方舟：終末地》國際版，1.7 版；列表出自遊戲資料 1.7',
+                                      f"{GAME[JA]}グローバル版、バージョン1.7。一覧はゲームデータ 1.7 による", f"{GAME[KO]} 글로벌 서비스, 1.7 버전. 목록은 게임 데이터 1.7 기준"),
                 caveat, '2026-11-04', sources)
     types = []
     for w in WEAPONS:
@@ -201,11 +201,11 @@ def recipes(lang):
                '時間是單一設施做一次的時間；同一產品可以有多個配方。',
                f"時間は{J('Facility')}1台が1回生産する時間である。1つの製品に複数のレシピがあることもある。",
                f"시간은 {K('Facility')} 1대가 한 번 생산하는 시간이다. 한 제품에 제작법이 여러 개 있을 수 있다.")
-    sources = [(L('Recipe table FactoryMachineCraftTable (game data 1.6)', '配方表 FactoryMachineCraftTable（遊戲資料 1.6）',
-                  'レシピ表 FactoryMachineCraftTable（ゲームデータ 1.6）', '제작법 표 FactoryMachineCraftTable(게임 데이터 1.6)'),
+    sources = [(L('Recipe table FactoryMachineCraftTable (game data 1.7)', '配方表 FactoryMachineCraftTable（遊戲資料 1.7）',
+                  'レシピ表 FactoryMachineCraftTable（ゲームデータ 1.7）', '제작법 표 FactoryMachineCraftTable(게임 데이터 1.7)'),
                 bp.GAME_TABLES[0].replace('/tree/', '/blob/') + '/FactoryMachineCraftTable.json')]
-    out = front(lang, titles, desc, L('Arknights: Endfield, global service, Version 1.6; recipes from game data 1.6', '《明日方舟：終末地》國際版，1.6 版；配方出自遊戲資料 1.6',
-                                      f"{GAME[JA]}グローバル版、バージョン1.6。レシピはゲームデータ 1.6 による", f"{GAME[KO]} 글로벌 서비스, 1.6 버전. 제작법은 게임 데이터 1.6 기준"),
+    out = front(lang, titles, desc, L('Arknights: Endfield, global service, Version 1.7; recipes from game data 1.7', '《明日方舟：終末地》國際版，1.7 版；配方出自遊戲資料 1.7',
+                                      f"{GAME[JA]}グローバル版、バージョン1.7。レシピはゲームデータ 1.7 による", f"{GAME[KO]} 글로벌 서비스, 1.7 버전. 제작법은 게임 데이터 1.7 기준"),
                 caveat, TODAY, sources)
     sep = bp.sep_of(lang)
     either = L(' or ', '或', 'または', ' 또는 ')
@@ -263,21 +263,21 @@ def dijiang(lang):
                '進駐的幹員會隨時間消耗心情；心情耗盡時會前往中央環廳休息，在心情恢復滿之前不提供進駐效果。後勤技能隨精英化解鎖，未精英化的幹員沒有後勤技能。',
                f"{asg_j}されたオペレーターは時間とともに{mood_j}を消耗する。{mood_j}が0になると{J('Central Ring')}で休み、{mood_j}が満タンに戻るまで効果を出さない。{bs_j}は昇進で解放されるため、{J('Promotion I')}未満のオペレーターには{bs_j}がない。",
                f"{asg_k}된 오퍼레이터는 시간이 지나면 {josa(mood_k, OBJ)} 소모한다. {josa(mood_k, SUBJ)} 0이 되면 {K('Central Ring')}에서 쉬며, {josa(mood_k, SUBJ)} 가득 찰 때까지 효과를 주지 않는다. {josa(bs_k, TOPIC)} 정예화로 잠금 해제되므로, {K('Promotion I')} 미만인 오퍼레이터에게는 {josa(bs_k, SUBJ)} 없다.")
-    sources = [(L('In-game tutorials on Dijiang, WikiTutorialPageTable (game data 1.6)', '遊戲內教學「帝江號」，WikiTutorialPageTable（遊戲資料 1.6）',
-                  f"ゲーム内チュートリアル「{dj}」、WikiTutorialPageTable（ゲームデータ 1.6）", f"게임 내 튜토리얼 「{dk}」, WikiTutorialPageTable(게임 데이터 1.6)"),
+    sources = [(L('In-game tutorials on Dijiang, WikiTutorialPageTable (game data 1.7)', '遊戲內教學「帝江號」，WikiTutorialPageTable（遊戲資料 1.7）',
+                  f"ゲーム内チュートリアル「{dj}」、WikiTutorialPageTable（ゲームデータ 1.7）", f"게임 내 튜토리얼 「{dk}」, WikiTutorialPageTable(게임 데이터 1.7)"),
                 bp.GAME_TABLES[0].replace('/tree/', '/blob/') + '/WikiTutorialPageTable.json'),
                (bp.GAME_TABLES[1][lang], bp.GAME_TABLES[0])]
-    out = front(lang, titles, desc, L('Arknights: Endfield, global service, Version 1.6; tutorials and base skills from game data 1.6', '《明日方舟：終末地》國際版，1.6 版；教學與後勤技能出自遊戲資料 1.6',
-                                      f"{GAME[JA]}グローバル版、バージョン1.6。チュートリアルと{bs_j}はゲームデータ 1.6 による", f"{GAME[KO]} 글로벌 서비스, 1.6 버전. 튜토리얼과 {bs_k}은 게임 데이터 1.6 기준"),
+    out = front(lang, titles, desc, L('Arknights: Endfield, global service, Version 1.7; tutorials and base skills from game data 1.7', '《明日方舟：終末地》國際版，1.7 版；教學與後勤技能出自遊戲資料 1.7',
+                                      f"{GAME[JA]}グローバル版、バージョン1.7。チュートリアルと{bs_j}はゲームデータ 1.7 による", f"{GAME[KO]} 글로벌 서비스, 1.7 버전. 튜토리얼과 {bs_k}은 게임 데이터 1.7 기준"),
                 caveat, TODAY, sources)
     ops = bp.BASE['operators']
     n_ops = len(ops)
     em_j, em_k = J('Endministrator'), K('Endministrator')
     out += [L('## Rooms', '## 艙室', f'## {cab_j}', f'## {cab_k}'), '',
-            L(f"Operators assigned to Dijiang's rooms make progression materials, grow plants, fungi and minerals, collect clues and build trust while the player is elsewhere. Each room needs at least one operator to work, and every operator assigned raises its output. {n_ops} of the 34 operators have base skills that add to one room; the Endministrator has none.",
-              f"進駐帝江號艙室的幹員會在玩家不在時製造培養材料、培養晶植、菌類與礦物、收集線索並累積信賴值。功能艙室至少要進駐 1 名幹員才能運轉，每多進駐一名幹員，艙室的生產效能就提升。34 名幹員中有 {n_ops} 名擁有加成某個艙室的後勤技能；管理員沒有。",
-              f"{dj}の{cab_j}に{asg_j}されたオペレーターは、プレイヤーが他の場所にいる間も育成素材を作り、植物・菌類・鉱物を培養し、{clue_j}を集め、{J('Trust')}を積み上げる。各{cab_j}が稼働するには1人以上の{asg_j}が必要で、{asg_j}する人数が増えるほど生産量が上がる。34人のオペレーターのうち{n_ops}人は、いずれかの{cab_j}を強化する{bs_j}を持つ。{em_j}は持たない。",
-              f"{dk}의 {cab_k}에 {asg_k}된 오퍼레이터는 플레이어가 다른 곳에 있는 동안에도 육성 재료를 만들고, 식물·버섯·광물을 육성하며, {josa(clue_k, OBJ)} 모으고 {josa(K('Trust'), OBJ)} 쌓는다. 각 {josa(cab_k, TOPIC)} 1명 이상 {asg_k}되어야 가동되며, {asg_k}된 인원이 늘수록 생산량이 오른다. 오퍼레이터 34명 중 {n_ops}명은 특정 {josa(cab_k, OBJ)} 강화하는 {josa(bs_k, OBJ)} 가지고 있다. {josa(em_k, TOPIC)} 없다."), '',
+            L(f"Operators assigned to Dijiang's rooms make progression materials, grow plants, fungi and minerals, collect clues and build trust while the player is elsewhere. Each room needs at least one operator to work, and every operator assigned raises its output. {n_ops} of the {len(OPS)} operators have base skills that add to one room; the Endministrator has none.",
+              f"進駐帝江號艙室的幹員會在玩家不在時製造培養材料、培養晶植、菌類與礦物、收集線索並累積信賴值。功能艙室至少要進駐 1 名幹員才能運轉，每多進駐一名幹員，艙室的生產效能就提升。{len(OPS)} 名幹員中有 {n_ops} 名擁有加成某個艙室的後勤技能；管理員沒有。",
+              f"{dj}の{cab_j}に{asg_j}されたオペレーターは、プレイヤーが他の場所にいる間も育成素材を作り、植物・菌類・鉱物を培養し、{clue_j}を集め、{J('Trust')}を積み上げる。各{cab_j}が稼働するには1人以上の{asg_j}が必要で、{asg_j}する人数が増えるほど生産量が上がる。{len(OPS)}人のオペレーターのうち{n_ops}人は、いずれかの{cab_j}を強化する{bs_j}を持つ。{em_j}は持たない。",
+              f"{dk}의 {cab_k}에 {asg_k}된 오퍼레이터는 플레이어가 다른 곳에 있는 동안에도 육성 재료를 만들고, 식물·버섯·광물을 육성하며, {josa(clue_k, OBJ)} 모으고 {josa(K('Trust'), OBJ)} 쌓는다. 각 {josa(cab_k, TOPIC)} 1명 이상 {asg_k}되어야 가동되며, {asg_k}된 인원이 늘수록 생산량이 오른다. 오퍼레이터 {len(OPS)}명 중 {n_ops}명은 특정 {josa(cab_k, OBJ)} 강화하는 {josa(bs_k, OBJ)} 가지고 있다. {josa(em_k, TOPIC)} 없다."), '',
             L('| Room | What it does | Base skills that work there |', '| 艙室 | 用途 | 在此生效的後勤技能 |', f"| {cab_j} | 役割 | ここで効果を発揮する{bs_j} |", f"| {cab_k} | 역할 | 여기서 효과가 있는 {bs_k} |"), '| --- | --- | --- |']
     kinds_in = {}
     for o in ops.values():
@@ -423,8 +423,8 @@ def enemies(lang):
                '耐性は各敵の基本形態（フィールドで出会う形態）のものである。ステージに出る同名の敵には、全属性15など別の耐性を持つものがある。',
                '저항은 각 적의 기본 형태(필드에서 만나는 형태) 기준이다. 스테이지에 나오는 같은 이름의 적 중에는 모든 속성 15처럼 저항이 다른 경우가 있다.')
     sources = [(bp.GAME_TABLES[1][lang], bp.GAME_TABLES[0])]
-    out = front(lang, titles, desc, L('Arknights: Endfield, global service, game data 1.6', '《明日方舟：終末地》國際版，遊戲資料 1.6',
-                                      f"{GAME[JA]}グローバル版、ゲームデータ 1.6", f"{GAME[KO]} 글로벌 서비스, 게임 데이터 1.6"),
+    out = front(lang, titles, desc, L('Arknights: Endfield, global service, game data 1.7', '《明日方舟：終末地》國際版，遊戲資料 1.7',
+                                      f"{GAME[JA]}グローバル版、ゲームデータ 1.7", f"{GAME[KO]} 글로벌 서비스, 게임 데이터 1.7"),
                 caveat, TODAY, sources)
     top = high[0]
     combat = L(link(EN, 'Combat', 'systems/combat'), link(ZH, '戰鬥', 'systems/combat'), link(JA, J('Combat'), 'systems/combat'), link(KO, K('Combat'), 'systems/combat'))

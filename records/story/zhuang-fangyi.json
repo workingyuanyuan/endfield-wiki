@@ -1,7 +1,7 @@
 {
  "slug": "zhuang-fangyi",
  "gameId": "chr_0030_zhuangfy",
- "source": "https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg",
+ "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
  "files": [
   {
    "id": "CN_01",
@@ -17,7 +17,7 @@
     "zh-TW": "【代號】莊方宜\n【性別】女\n【身分認證】宏山科學院\n【生日】8月7日\n【種族】麒麟\n【礦石病感染情況】\n參照醫學檢測報告，確認為非感染者。\n\n【綜合體檢測試】\n生理強度：標準\n作戰技巧：標準\n戰術規劃：優良\n源石技藝適應性：卓越",
     "zh-CN": "【代号】庄方宜\n【性别】女\n【身份认证】宏山科学院\n【生日】8月7日\n【种族】麒麟\n【矿石病感染情况】\n参照医学检测报告，确认为非感染者。\n\n【综合体检测试】\n生理强度：标准\n作战技巧：标准\n战术规划：优良\n源石技艺适应性：卓越",
     "ja": "【コードネーム】 庄 方宜\n【性別】女\n【身分証明】宏山科学院\n【誕生日】8月7日\n【種族】麒麟\n【鉱石病感染状況】\nメディカルチェックの結果、非感染者に認定。\n\n【能力測定】\n物理強度：標準\n戦闘技術：標準\n戦術立案：優秀\nアーツ適性：卓越",
-    "ko": "[코드네임] 장방이\n[성별] 여\n[신분 인증] 홍산 과학원\n[생일] 8월 7일\n[종족] 키린\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 표준\n전술 계획: 우수\n오리지늄 아츠 적응성: 탁월"
+    "ko": "[코드네임] 장방이\n[성별] 여\n[신분 인증] 홍산 과학원\n[생일] 8월 7일\n[종족] 기린\n[광석병 감염 상황]\n의학 검사 보고서를 참조한 결과, 비감염자로 확인됨.\n\n[종합 신체검사 평가]\n신체 강도: 표준\n작전 기술: 표준\n전술 계획: 우수\n오리지늄 아츠 적응성: 탁월"
    },
    "unlock": null
   },
@@ -371,7 +371,7 @@
   {
    "id": "chr_0030_zhuangfy_mono_switch_01",
    "title": {
-    "en": "Standing by 1",
+    "en": "Standing By 1",
     "zh-TW": "待命1",
     "zh-CN": "待命1",
     "ja": "待機1",
@@ -389,7 +389,7 @@
   {
    "id": "chr_0030_zhuangfy_mono_switch_02",
    "title": {
-    "en": "Standing by 2",
+    "en": "Standing By 2",
     "zh-TW": "待命2",
     "zh-CN": "待命2",
     "ja": "待機2",
@@ -2679,234 +2679,6 @@
    ]
   },
   {
-   "id": "sns_topic_map02_lv002_9",
-   "topic": {
-    "en": "Our Wuling",
-    "zh-TW": "眾人的武陵",
-    "zh-CN": "众人的武陵",
-    "ja": "皆の武陵",
-    "ko": "모두의 무릉"
-   },
-   "lines": [
-    {
-     "speaker": {
-      "en": "Endministrator",
-      "zh-TW": "管理員",
-      "zh-CN": "管理员",
-      "ja": "管理人",
-      "ko": "관리자"
-     },
-     "text": {
-      "en": "Tianshi Yan Ning was seriously angry...",
-      "zh-TW": "彥寧天師生了好大的氣……",
-      "zh-CN": "彦宁天师生了好大的气……",
-      "ja": "イェン天師はすごく怒っていた……",
-      "ko": "언녕 천사님이 아주 많이 화나셨어요..."
-     }
-    },
-    {
-     "speaker": {
-      "en": "Zhuang Fangyi",
-      "zh-TW": "莊方宜",
-      "zh-CN": "庄方宜",
-      "ja": "ゾアン・ファンイ",
-      "ko": "장방이"
-     },
-     "text": {
-      "en": "Her reaction was expected. As an old friend, she understands my reasons for doing this.",
-      "zh-TW": "她的反應在預料之中。這麼久的好友，她能明白我這麼做的理由。",
-      "zh-CN": "她的反应在预料之中。这么久的好友，她能明白我这么做的理由。",
-      "ja": "あの反応は予想通りでした。長年の友として、私の想いは理解していることでしょう。",
-      "ko": "그 반응은 이미 예상했어요. 오랜 친구니까 제가 왜 그렇게 했는지 알겠죠."
-     }
-    },
-    {
-     "choice": [
-      [
-       {
-        "speaker": {
-         "en": "Endministrator",
-         "zh-TW": "管理員",
-         "zh-CN": "管理员",
-         "ja": "管理人",
-         "ko": "관리자"
-        },
-        "text": {
-         "en": "You two go way back?",
-         "zh-TW": "你們很早就認識了？",
-         "zh-CN": "你们很早就认识了？",
-         "ja": "ずっと前から知り合いなの？",
-         "ko": "두 분은 예전부터 아는 사이였나요?"
-        }
-       }
-      ],
-      [
-       {
-        "speaker": {
-         "en": "Endministrator",
-         "zh-TW": "管理員",
-         "zh-CN": "管理员",
-         "ja": "管理人",
-         "ko": "관리자"
-        },
-        "text": {
-         "en": "You two seem really close!",
-         "zh-TW": "原來你們的關係這麼好！",
-         "zh-CN": "原来你们的关系这么好！",
-         "ja": "君たちはそんなに仲が良かったんだね。",
-         "ko": "두 분 사이가 아주 좋군요!"
-        }
-       }
-      ]
-     ]
-    },
-    {
-     "speaker": {
-      "en": "Zhuang Fangyi",
-      "zh-TW": "莊方宜",
-      "zh-CN": "庄方宜",
-      "ja": "ゾアン・ファンイ",
-      "ko": "장방이"
-     },
-     "text": {
-      "en": "Yan Ning and I joined the Wuling Science Station at the same time.",
-      "zh-TW": "我和彥寧是一起加入武陵科研站的。",
-      "zh-CN": "我和彦宁是一起加入的武陵科考站。",
-      "ja": "私とイェンは同じ時に武陵研究基地に入ったのです。",
-      "ko": "저와 언녕은 함께 무릉 연구 기지에 들어왔어요."
-     }
-    },
-    {
-     "speaker": {
-      "en": "Zhuang Fangyi",
-      "zh-TW": "莊方宜",
-      "zh-CN": "庄方宜",
-      "ja": "ゾアン・ファンイ",
-      "ko": "장방이"
-     },
-     "text": {
-      "en": "Back then, we often worked with the other Tianshi at the station, dreaming up what the future Wuling City might look like.",
-      "zh-TW": "那時的我們，經常和科研站的天師們一起，構想未來的武陵城會是怎麼樣的。",
-      "zh-CN": "那时的我们，经常和科考站的天师们一起，构想未来的武陵城会是怎样的样貌。",
-      "ja": "そして研究基地の仲間と共に、未来の武陵城を思い描いておりました。",
-      "ko": "그땐 연구 기지의 천사들과 자주 모여, 미래의 무릉성이 어떤 모습일지 상상하곤 했죠."
-     }
-    },
-    {
-     "speaker": {
-      "en": "Zhuang Fangyi",
-      "zh-TW": "莊方宜",
-      "zh-CN": "庄方宜",
-      "ja": "ゾアン・ファンイ",
-      "ko": "장방이"
-     },
-     "text": {
-      "en": "Sometimes we'd even draw on maps, sketching out the Wuling City of our imaginations.",
-      "zh-TW": "有時還會在地圖上圈圈畫畫，把我們想像中的武陵城畫出來。",
-      "zh-CN": "有时还会在地图上圈圈画画，把我们想象中的武陵城画出来。",
-      "ja": "時には地図に印を付け、絵を加え……想像する武陵城を描く事もあったのですよ。",
-      "ko": "가끔은 지도 위에 동그라미 치고 선을 그으며, 우리가 꿈꾸는 무릉성을 그려 넣기도 했어요."
-     }
-    },
-    {
-     "speaker": {
-      "en": "Endministrator",
-      "zh-TW": "管理員",
-      "zh-CN": "管理员",
-      "ja": "管理人",
-      "ko": "관리자"
-     },
-     "text": {
-      "en": "What happened later?",
-      "zh-TW": "後來發生了什麼？",
-      "zh-CN": "后来发生了什么？",
-      "ja": "その後、何があったの？",
-      "ko": "그다음엔 어떻게 됐나요?"
-     }
-    },
-    {
-     "speaker": {
-      "en": "Zhuang Fangyi",
-      "zh-TW": "莊方宜",
-      "zh-CN": "庄方宜",
-      "ja": "ゾアン・ファンイ",
-      "ko": "장방이"
-     },
-     "text": {
-      "en": "After that disaster, we built Wuling City in this very area, based on that \"map\".",
-      "zh-TW": "那場災難後，我們按照那張「地圖」，在這片區域建起了武陵城。",
-      "zh-CN": "那场灾难后，我们按照那张“地图”，在这片区域建起了武陵城。",
-      "ja": "あの災いの後、私共はその「地図」を基に、武陵城を築いてまいりました。",
-      "ko": "그 재난 이후, 우리는 그 '지도'를 따라 이 지역에 무릉성을 세웠어요."
-     }
-    },
-    {
-     "speaker": {
-      "en": "Zhuang Fangyi",
-      "zh-TW": "莊方宜",
-      "zh-CN": "庄方宜",
-      "ja": "ゾアン・ファンイ",
-      "ko": "장방이"
-     },
-     "text": {
-      "en": "Every time I proposed an idea, everyone would brainstorm with me.",
-      "zh-TW": "每次我提出設想，大家都會一起幫我出主意。",
-      "zh-CN": "每次我提出设想，大家都会一起帮我出主意。",
-      "ja": "私の提案に対し、皆が共に考えてくれました。",
-      "ko": "제가 구상을 내놓을 때마다, 모두가 함께 머리를 맞대고 의견을 보태 주었죠."
-     }
-    },
-    {
-     "speaker": {
-      "en": "Zhuang Fangyi",
-      "zh-TW": "莊方宜",
-      "zh-CN": "庄方宜",
-      "ja": "ゾアン・ファンイ",
-      "ko": "장방이"
-     },
-     "text": {
-      "en": "Every Blight Tide season, when I returned from the Tianshi Pillar Array, I would always find a towel and hot tea waiting for me on the table.",
-      "zh-TW": "每次汛期，我從天師樁陣列回來，總是會在桌上看到毛巾與熱茶。",
-      "zh-CN": "每次汛期，我从天师桩阵列回来，总是能在桌上看到毛巾与热茶。",
-      "ja": "侵蝕潮の時期は、私が天師杭陣から戻る度、机の上にはタオルと温かいお茶が用意されていて……",
-      "ko": "홍수철마다 천사장 배열에서 돌아오면, 책상 위엔 늘 수건과 따뜻한 차가 놓여 있었어요."
-     }
-    },
-    {
-     "speaker": {
-      "en": "Zhuang Fangyi",
-      "zh-TW": "莊方宜",
-      "zh-CN": "庄方宜",
-      "ja": "ゾアン・ファンイ",
-      "ko": "장방이"
-     },
-     "text": {
-      "en": "Yet now, navigating this crisis demands Wuling's total unity and unwavering dedication.",
-      "zh-TW": "但現在，武陵需要大家齊心協力，全身心投入，才能度過這場危機。",
-      "zh-CN": "但现在，武陵需要大家齐心协力，全身心投入，才能度过这场危机。",
-      "ja": "なれど、此度の危機を乗り越えるためには、皆の協力と尽力が不可欠。",
-      "ko": "하지만 지금의 무릉은 모두가 한마음으로 전력을 다해야만 이 위기를 넘길 수 있어요."
-     }
-    },
-    {
-     "speaker": {
-      "en": "Zhuang Fangyi",
-      "zh-TW": "莊方宜",
-      "zh-CN": "庄方宜",
-      "ja": "ゾアン・ファンイ",
-      "ko": "장방이"
-     },
-     "text": {
-      "en": "I cannot let a shred of their focus be spared elsewhere.",
-      "zh-TW": "不能在其他的地方耗費他們太多的精力。",
-      "zh-CN": "不能在其他的地方耗费他们太多的精力。",
-      "ja": "他のことで、皆を消耗させるわけにはいきません。",
-      "ko": "그들의 힘을 다른 곳에 낭비할 순 없어요."
-     }
-    }
-   ]
-  },
-  {
    "id": "sns_topic_map02_lv002_7",
    "topic": {
     "en": "Our Wuling",
@@ -3138,6 +2910,234 @@
       "zh-CN": "但是，管理员，从我们来到武陵的那天起，就已经做好了牺牲的准备。",
       "ja": "なれど、私共は武陵に来たその日より、犠牲になる覚悟と共に在るのです。",
       "ko": "하지만, 관리자님. 저희는 무릉에 발을 들인 그날부터 이미 희생을 각오했어요."
+     }
+    }
+   ]
+  },
+  {
+   "id": "sns_topic_map02_lv002_9",
+   "topic": {
+    "en": "Our Wuling",
+    "zh-TW": "眾人的武陵",
+    "zh-CN": "众人的武陵",
+    "ja": "皆の武陵",
+    "ko": "모두의 무릉"
+   },
+   "lines": [
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "Tianshi Yan Ning was seriously angry...",
+      "zh-TW": "彥寧天師生了好大的氣……",
+      "zh-CN": "彦宁天师生了好大的气……",
+      "ja": "イェン天師はすごく怒っていた……",
+      "ko": "언녕 천사님이 아주 많이 화나셨어요..."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Zhuang Fangyi",
+      "zh-TW": "莊方宜",
+      "zh-CN": "庄方宜",
+      "ja": "ゾアン・ファンイ",
+      "ko": "장방이"
+     },
+     "text": {
+      "en": "Her reaction was expected. As an old friend, she understands my reasons for doing this.",
+      "zh-TW": "她的反應在預料之中。這麼久的好友，她能明白我這麼做的理由。",
+      "zh-CN": "她的反应在预料之中。这么久的好友，她能明白我这么做的理由。",
+      "ja": "あの反応は予想通りでした。長年の友として、私の想いは理解していることでしょう。",
+      "ko": "그 반응은 이미 예상했어요. 오랜 친구니까 제가 왜 그렇게 했는지 알겠죠."
+     }
+    },
+    {
+     "choice": [
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You two go way back?",
+         "zh-TW": "你們很早就認識了？",
+         "zh-CN": "你们很早就认识了？",
+         "ja": "ずっと前から知り合いなの？",
+         "ko": "두 분은 예전부터 아는 사이였나요?"
+        }
+       }
+      ],
+      [
+       {
+        "speaker": {
+         "en": "Endministrator",
+         "zh-TW": "管理員",
+         "zh-CN": "管理员",
+         "ja": "管理人",
+         "ko": "관리자"
+        },
+        "text": {
+         "en": "You two seem really close!",
+         "zh-TW": "原來你們的關係這麼好！",
+         "zh-CN": "原来你们的关系这么好！",
+         "ja": "君たちはそんなに仲が良かったんだね。",
+         "ko": "두 분 사이가 아주 좋군요!"
+        }
+       }
+      ]
+     ]
+    },
+    {
+     "speaker": {
+      "en": "Zhuang Fangyi",
+      "zh-TW": "莊方宜",
+      "zh-CN": "庄方宜",
+      "ja": "ゾアン・ファンイ",
+      "ko": "장방이"
+     },
+     "text": {
+      "en": "Yan Ning and I joined the Wuling Science Station at the same time.",
+      "zh-TW": "我和彥寧是一起加入武陵科研站的。",
+      "zh-CN": "我和彦宁是一起加入的武陵科考站。",
+      "ja": "私とイェンは同じ時に武陵研究基地に入ったのです。",
+      "ko": "저와 언녕은 함께 무릉 연구 기지에 들어왔어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Zhuang Fangyi",
+      "zh-TW": "莊方宜",
+      "zh-CN": "庄方宜",
+      "ja": "ゾアン・ファンイ",
+      "ko": "장방이"
+     },
+     "text": {
+      "en": "Back then, we often worked with the other Tianshi at the station, dreaming up what the future Wuling City might look like.",
+      "zh-TW": "那時的我們，經常和科研站的天師們一起，構想未來的武陵城會是怎麼樣的。",
+      "zh-CN": "那时的我们，经常和科考站的天师们一起，构想未来的武陵城会是怎样的样貌。",
+      "ja": "そして研究基地の仲間と共に、未来の武陵城を思い描いておりました。",
+      "ko": "그땐 연구 기지의 천사들과 자주 모여, 미래의 무릉성이 어떤 모습일지 상상하곤 했죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Zhuang Fangyi",
+      "zh-TW": "莊方宜",
+      "zh-CN": "庄方宜",
+      "ja": "ゾアン・ファンイ",
+      "ko": "장방이"
+     },
+     "text": {
+      "en": "Sometimes we'd even draw on maps, sketching out the Wuling City of our imaginations.",
+      "zh-TW": "有時還會在地圖上圈圈畫畫，把我們想像中的武陵城畫出來。",
+      "zh-CN": "有时还会在地图上圈圈画画，把我们想象中的武陵城画出来。",
+      "ja": "時には地図に印を付け、絵を加え……想像する武陵城を描く事もあったのですよ。",
+      "ko": "가끔은 지도 위에 동그라미 치고 선을 그으며, 우리가 꿈꾸는 무릉성을 그려 넣기도 했어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Endministrator",
+      "zh-TW": "管理員",
+      "zh-CN": "管理员",
+      "ja": "管理人",
+      "ko": "관리자"
+     },
+     "text": {
+      "en": "What happened later?",
+      "zh-TW": "後來發生了什麼？",
+      "zh-CN": "后来发生了什么？",
+      "ja": "その後、何があったの？",
+      "ko": "그다음엔 어떻게 됐나요?"
+     }
+    },
+    {
+     "speaker": {
+      "en": "Zhuang Fangyi",
+      "zh-TW": "莊方宜",
+      "zh-CN": "庄方宜",
+      "ja": "ゾアン・ファンイ",
+      "ko": "장방이"
+     },
+     "text": {
+      "en": "After that disaster, we built Wuling City in this very area, based on that \"map\".",
+      "zh-TW": "那場災難後，我們按照那張「地圖」，在這片區域建起了武陵城。",
+      "zh-CN": "那场灾难后，我们按照那张“地图”，在这片区域建起了武陵城。",
+      "ja": "あの災いの後、私共はその「地図」を基に、武陵城を築いてまいりました。",
+      "ko": "그 재난 이후, 우리는 그 '지도'를 따라 이 지역에 무릉성을 세웠어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Zhuang Fangyi",
+      "zh-TW": "莊方宜",
+      "zh-CN": "庄方宜",
+      "ja": "ゾアン・ファンイ",
+      "ko": "장방이"
+     },
+     "text": {
+      "en": "Every time I proposed an idea, everyone would brainstorm with me.",
+      "zh-TW": "每次我提出設想，大家都會一起幫我出主意。",
+      "zh-CN": "每次我提出设想，大家都会一起帮我出主意。",
+      "ja": "私の提案に対し、皆が共に考えてくれました。",
+      "ko": "제가 구상을 내놓을 때마다, 모두가 함께 머리를 맞대고 의견을 보태 주었죠."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Zhuang Fangyi",
+      "zh-TW": "莊方宜",
+      "zh-CN": "庄方宜",
+      "ja": "ゾアン・ファンイ",
+      "ko": "장방이"
+     },
+     "text": {
+      "en": "Every Blight Tide season, when I returned from the Tianshi Pillar Array, I would always find a towel and hot tea waiting for me on the table.",
+      "zh-TW": "每次汛期，我從天師樁陣列回來，總是會在桌上看到毛巾與熱茶。",
+      "zh-CN": "每次汛期，我从天师桩阵列回来，总是能在桌上看到毛巾与热茶。",
+      "ja": "侵蝕潮の時期は、私が天師杭陣から戻る度、机の上にはタオルと温かいお茶が用意されていて……",
+      "ko": "홍수철마다 천사장 배열에서 돌아오면, 책상 위엔 늘 수건과 따뜻한 차가 놓여 있었어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Zhuang Fangyi",
+      "zh-TW": "莊方宜",
+      "zh-CN": "庄方宜",
+      "ja": "ゾアン・ファンイ",
+      "ko": "장방이"
+     },
+     "text": {
+      "en": "Yet now, navigating this crisis demands Wuling's total unity and unwavering dedication.",
+      "zh-TW": "但現在，武陵需要大家齊心協力，全身心投入，才能度過這場危機。",
+      "zh-CN": "但现在，武陵需要大家齐心协力，全身心投入，才能度过这场危机。",
+      "ja": "なれど、此度の危機を乗り越えるためには、皆の協力と尽力が不可欠。",
+      "ko": "하지만 지금의 무릉은 모두가 한마음으로 전력을 다해야만 이 위기를 넘길 수 있어요."
+     }
+    },
+    {
+     "speaker": {
+      "en": "Zhuang Fangyi",
+      "zh-TW": "莊方宜",
+      "zh-CN": "庄方宜",
+      "ja": "ゾアン・ファンイ",
+      "ko": "장방이"
+     },
+     "text": {
+      "en": "I cannot let a shred of their focus be spared elsewhere.",
+      "zh-TW": "不能在其他的地方耗費他們太多的精力。",
+      "zh-CN": "不能在其他的地方耗费他们太多的精力。",
+      "ja": "他のことで、皆を消耗させるわけにはいきません。",
+      "ko": "그들의 힘을 다른 곳에 낭비할 순 없어요."
      }
     }
    ]

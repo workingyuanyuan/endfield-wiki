@@ -1,17 +1,17 @@
 ---
 title: "Alesh's file"
 description: "Alesh's 6 operator files, 80 voice lines and 3 chats."
-appliesTo: "Arknights: Endfield, global service; text of game data 1.6 in English"
+appliesTo: "Arknights: Endfield, global service; text of game data 1.7 in English"
 caveat: "From “FILE 2” on, a file unlocks at trust 300 or 1500. Each language has the game's own text in that language; the editions do not always match line for line."
-lastVerified: 2026-11-23
+lastVerified: 2026-11-26
 aliases:
   - "阿列什的檔案"
   - "阿列什的档案"
   - "アレッシュのプロファイル"
   - "알레쉬의 파일"
 sources:
-  - title: "rmxlinux/EndfieldData, game tables (1.6, 2026-11-05)"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "rmxlinux/EndfieldData, game tables (1.7, 2026-11-25)"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## Operator File
@@ -132,8 +132,8 @@ sources:
 | Operator Promotion 3 | Must be tiring taking all this responsibility on your own, Endmin. Ahh. I guess I got no choice but to help you for now. | Promotion III |
 | Operator Promotion 4 | Why are you looking happier than me? I thought this is \*my\* promotion. Okay, then. Let's celebrate at the churrascaria. I only want the best BBQ cuts, and you're picking up the check. | Promotion IV |
 | Operator Reporting for Duty | Excuse me, is this where we sign up for the job? Nice meeting you. Name's Alesh. I like to read, and I can do angling with my eyes closed. Happy to be on board. |  |
-| Standing by 1 | What a beautiful day. Perfect for my nap. |  |
-| Standing by 2 | Empty wallet, story of my life... |  |
+| Standing By 1 | What a beautiful day. Perfect for my nap. |  |
+| Standing By 2 | Empty wallet, story of my life... |  |
 | Assigning to Facility | Ahh... The moment you say "work," all my energy just evaporates. I vote nap before task, Endmin. |  |
 | Greeting 1 | Yo! I bump into you all the time. How's work today? |  |
 | Greeting 2 | Boss, don't you feel tired? I can teach you how to sneak in a nap, you know. | Reach trust: 300 |

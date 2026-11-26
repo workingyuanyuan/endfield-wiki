@@ -1,10 +1,10 @@
 ---
 title: "명칭 대조"
 description: "《명일방주: 엔드필드》 오퍼레이터, 직업, 속성, 무기 유형, 능력치, 진영, 종족의 한국어·영어·중국어 이름."
-appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.6 버전. 이름은 각 언어의 게임 데이터 1.6 기준"
+appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 1.7 버전. 이름은 각 언어의 게임 데이터 1.7 기준"
 caveat: "로시의 중국어 이름(번체 洛西, 간체 洛茜)은 번체·간체 변환이 아니라 서로 다른 글자이다."
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-22
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-26
 aliases:
   - "Names in three scripts"
   - "名稱對照"
@@ -15,7 +15,7 @@ sources:
     url: https://endfield.gryphline.com/en-us/operator
   - title: "공식 오퍼레이터 목록, 간체 중국어(Hypergryph)"
     url: https://endfield.hypergryph.com/operator
-  - title: "warfarin.wiki, 오퍼레이터 목록(게임 데이터 1.6)"
+  - title: "warfarin.wiki, 오퍼레이터 목록(게임 데이터 1.7)"
     url: https://warfarin.wiki/en/operators
 ---
 
@@ -41,6 +41,7 @@ sources:
 | [에스텔라](/ko/operators/estella/) | Estella | 埃特拉 | 埃特拉 |
 | [플루라이트](/ko/operators/fluorite/) | Fluorite | 螢石 | 萤石 |
 | [질베르타](/ko/operators/gilberta/) | Gilberta | 潔爾佩塔 | 洁尔佩塔 |
+| [케르](/ko/operators/kay/) | Kay | 小刻 | 小刻 |
 | [레바테인](/ko/operators/laevatain/) | Laevatain | 萊萬汀 | 莱万汀 |
 | [라스트 라이트](/ko/operators/last-rite/) | Last Rite | 別禮 | 别礼 |
 | [여풍](/ko/operators/lifeng/) | Lifeng | 黎風 | 黎风 |
@@ -114,7 +115,7 @@ sources:
 | 카우투스 | Cautus | 卡特斯 | 卡特斯 |
 | 필라인 | Feline | 菲林 | 菲林 |
 | 쿠란타 | Kuranta | 庫蘭塔 | 库兰塔 |
-| 키린 | Kylin | 麒麟 | 麒麟 |
+| 기린 | Kylin | 麒麟 | 麒麟 |
 | 리베리 | Liberi | 黎博利 | 黎博利 |
 | 용 | Lung | 龍 | 龙 |
 | 루포 | Lupo | 魯珀 | 鲁珀 |

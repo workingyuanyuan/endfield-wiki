@@ -1,24 +1,24 @@
 ---
 title: "帝江號"
 description: "《明日方舟：終末地》的基地飛船帝江號：艙室、幹員進駐、心情，以及各艙室的後勤技能。"
-appliesTo: "《明日方舟：終末地》國際版，1.6 版；教學與後勤技能出自遊戲資料 1.6"
+appliesTo: "《明日方舟：終末地》國際版，1.7 版；教學與後勤技能出自遊戲資料 1.7"
 caveat: "進駐的幹員會隨時間消耗心情；心情耗盡時會前往中央環廳休息，在心情恢復滿之前不提供進駐效果。後勤技能隨精英化解鎖，未精英化的幹員沒有後勤技能。"
-lastVerified: 2026-11-22
-effectiveDate: 2026-11-22
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-26
 aliases:
   - "Dijiang"
   - "帝江号"
   - "제강호"
 sources:
-  - title: "遊戲內教學「帝江號」，WikiTutorialPageTable（遊戲資料 1.6）"
-    url: https://github.com/rmxlinux/EndfieldData/blob/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg/WikiTutorialPageTable.json
-  - title: "rmxlinux/EndfieldData 遊戲資料表（1.6，2026-11-05）"
-    url: https://github.com/rmxlinux/EndfieldData/tree/d847759f71d4549aba4727b3b0ac1a1ad0e37742/TableCfg
+  - title: "遊戲內教學「帝江號」，WikiTutorialPageTable（遊戲資料 1.7）"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/WikiTutorialPageTable.json
+  - title: "rmxlinux/EndfieldData 遊戲資料表（1.7，2026-11-25）"
+    url: https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg
 ---
 
 ## 艙室
 
-進駐帝江號艙室的幹員會在玩家不在時製造培養材料、培養晶植、菌類與礦物、收集線索並累積信賴值。功能艙室至少要進駐 1 名幹員才能運轉，每多進駐一名幹員，艙室的生產效能就提升。34 名幹員中有 33 名擁有加成某個艙室的後勤技能；管理員沒有。
+進駐帝江號艙室的幹員會在玩家不在時製造培養材料、培養晶植、菌類與礦物、收集線索並累積信賴值。功能艙室至少要進駐 1 名幹員才能運轉，每多進駐一名幹員，艙室的生產效能就提升。35 名幹員中有 34 名擁有加成某個艙室的後勤技能；管理員沒有。
 
 | 艙室 | 用途 | 在此生效的後勤技能 |
 | --- | --- | --- |
@@ -66,6 +66,7 @@ sources:
 | 幹員經驗材料生產效率 | [狼衛](/zh-tw/operators/wulfgard/) | 狼群的技巧 | +10%，精英化I | +20%，精英化III |
 | 幹員經驗材料生產效率 | [賽希](/zh-tw/operators/xaihi/) | 標準化編譯 | +10%，精英化I | +20%，精英化III |
 | 武器經驗材料生產效率 | [潔爾佩塔](/zh-tw/operators/gilberta/) | 信使的武器知識 | +20%，精英化II | +30%，精英化IV |
+| 武器經驗材料生產效率 | [小刻](/zh-tw/operators/kay/) | 野路子鐵匠 | +20%，精英化I | +30%，精英化III |
 | 武器經驗材料生產效率 | [佩麗卡](/zh-tw/operators/perlica/) | 協議調度 | +20%，精英化II | +30%，精英化IV |
 | 武器經驗材料生產效率 | [駿衛](/zh-tw/operators/pogranichnik/) | 先利其器 | +20%，精英化I | +30%，精英化III |
 | 武器經驗材料生產效率 | [安塔爾](/zh-tw/operators/antal/) | 實驗性施術單元 | +10%，精英化I | +20%，精英化III |
@@ -73,6 +74,7 @@ sources:
 | 武器經驗材料生產效率 | [陳千語](/zh-tw/operators/chen-qianyu/) | 名劍選評 | +10%，精英化I | +20%，精英化III |
 | 艙室內幹員心情消耗降低 | [明河](/zh-tw/operators/argent-flow/) | 因勢應物 | −14%，精英化II | −18%，精英化IV |
 | 艙室內幹員心情消耗降低 | [潔爾佩塔](/zh-tw/operators/gilberta/) | 信使的加工藝術 | −14%，精英化I | −18%，精英化III |
+| 艙室內幹員心情消耗降低 | [小刻](/zh-tw/operators/kay/) | 蜜餅小歇 | −14%，精英化II | −18%，精英化IV |
 | 艙室內幹員心情消耗降低 | [萊萬汀](/zh-tw/operators/laevatain/) | 不熄炎火 | −14%，精英化II | −18%，精英化IV |
 | 艙室內幹員心情消耗降低 | [駿衛](/zh-tw/operators/pogranichnik/) | 鼓舞士氣 | −14%，精英化II | −18%，精英化IV |
 | 艙室內幹員心情消耗降低 | [莊方宜](/zh-tw/operators/zhuang-fangyi/) | 管代經驗 | −14%，精英化I | −18%，精英化III |

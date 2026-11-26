@@ -1,37 +1,37 @@
 ---
 title: "集成工業の電力"
 description: "『アークナイツ：エンドフィールド』の集成工業の電力。協約核心、発電機、バッテリーと送電スタンドの仕組み。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。設備とレシピのデータはゲームデータ 1.6 による"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。設備とレシピのデータはゲームデータ 1.7 による"
 caveat: "図面が設置するのは設備であり、電力ではない。図面で追加される設備はすべて地域の電力網から電力を消費し、発電量を増やせるのは源石鉱物またはバッテリーを投入した発電機だけである。"
-lastVerified: 2026-11-21
-effectiveDate: 2026-10-15
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - AIC power
   - 集成工業電力
   - 集成工业电力
   - 통합 공업 전력
 sources:
-  - title: "warfarin.wiki、ゲーム内チュートリアル「発電機」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「発電機」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_power_sta
-  - title: "warfarin.wiki、ゲーム内チュートリアル「予備電源」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「予備電源」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_backup_power
-  - title: "warfarin.wiki、ゲーム内チュートリアル「協約核心の蓄電量が0になったときの対処方法」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「協約核心の蓄電量が0になったときの対処方法」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_zero_power
-  - title: "warfarin.wiki、ゲーム内チュートリアル「中継タワーと送電」「電力供給」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「中継タワーと送電」「電力供給」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_power_link
-  - title: "warfarin.wiki、ゲーム内チュートリアル「送電スタンドと電力供給」「電力輸送」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「送電スタンドと電力供給」「電力輸送」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_hub_plink
-  - title: "warfarin.wiki、ゲーム内チュートリアル「図面」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、ゲーム内チュートリアル「図面」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_fac_blueprint
-  - title: "warfarin.wiki、包装機（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、包装機（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/facilities/tools_assebling_mc_1
-  - title: "warfarin.wiki、発電機（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、発電機（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/facilities/power_station_1
-  - title: "warfarin.wiki、息壌送電スタンド（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、息壌送電スタンド（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/facilities/power_diffuser_2
-  - title: "warfarin.wiki、息壌中継タワー（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、息壌中継タワー（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/facilities/power_pole_3
-  - title: "warfarin.wiki、設備一覧（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、設備一覧（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/facilities
   - title: "Endfield Talos Wiki、Thermal Bank"
     url: https://endfield.wiki.gg/wiki/Thermal_Bank
@@ -51,6 +51,10 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: "「丹青渡」 バージョンアップデートについて"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "燃料表 FactoryFuelItemTable（ゲームデータ 1.7）：大容量武陵バッテリー"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryFuelItemTable.json
+  - title: "レシピ表 FactoryMachineCraftTable（ゲームデータ 1.7）：大容量武陵バッテリー"
+    url: https://github.com/rmxlinux/EndfieldData/blob/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg/FactoryMachineCraftTable.json
 ---
 
 ## 工場が電力不足になる理由
@@ -103,10 +107,11 @@ sources:
 | 大容量谷地バッテリー | 40秒 | 1100 | 90 |
 | 小容量武陵バッテリー | 40秒 | 1600 | 90 |
 | 中容量武陵バッテリー | 40秒 | 3200 | 90 |
+| 大容量武陵バッテリー | 40秒 | 6400 | 90 |
 
 ## バッテリーのレシピ
 
-5種類のバッテリーはいずれも包装機（消費電力20）で作る。どのレシピも10秒でバッテリーを1個生産する。ゲームデータ 1.6 には大容量武陵バッテリーは存在しない。
+6種類のバッテリーはいずれも包装機（消費電力20）で作る。どのレシピも10秒でバッテリーを1個生産する。大容量武陵バッテリーはゲームデータ 1.7 で追加された。
 
 | バッテリー | 原料 | 時間 | 産出 |
 | --- | --- | --- | --- |
@@ -115,6 +120,7 @@ sources:
 | 大容量谷地バッテリー | 鋼製部品 ×10、高密度源石粉末 ×15 | 10秒 | 1 |
 | 小容量武陵バッテリー | 息壌 ×5、高密度源石粉末 ×15 | 10秒 | 1 |
 | 中容量武陵バッテリー | 壌晶 ×5、高密度源石粉末 ×20 | 10秒 | 1 |
+| 大容量武陵バッテリー | 衡息壌 ×5、高密度源石粉末 ×20 | 10秒 | 1 |
 
 ### 武陵バッテリーの原料
 
@@ -144,7 +150,7 @@ sources:
 | 消費電力 | 設備 |
 | --- | --- |
 | 100 | 大型化学反応炉 |
-| 50 | 廃水処理機、研磨機、化学反応炉、天有洪炉、精製機、ガス液体転換機、ガス固体転換機、ガス反応装置 |
+| 50 | 無害化処理機、研磨機、化学反応炉、天有洪炉、精製機、ガス液体転換機、ガス固体転換機、ガス反応装置 |
 | 20 | 耐酸性液体ポンプⅡ、組立機、栽培機、充填機、包装機、解体機 |
 | 10 | 電動採鉱機Ⅱ、液体ポンプ、成形機、採種機、装備部品加工機、スプリンクラー、排水機 |
 | 5 | 電動採鉱機、協約貯蔵箱、精錬炉、粉砕機、ジップライン、長距離ジップライン |

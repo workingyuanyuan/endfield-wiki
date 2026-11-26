@@ -1,27 +1,27 @@
 ---
 title: "オペレーター育成"
 description: "『アークナイツ：エンドフィールド』のオペレーター昇進（レベル90まで）の素材、スキルレベル、素質、潜在。"
-appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.6。全34人のオペレーター"
+appliesTo: "『アークナイツ：エンドフィールド』グローバル版、バージョン1.7。全35人のオペレーター"
 caveat: "昇進・Ⅰから昇進・Ⅲまでの素材は全オペレーター共通である。昇進・Ⅳで異なるのは貴重素材と菌類の種類のみで、レア度ではなくオペレーターごとに決まる。星4でも星6と同じ折金券×100,000と協約ディスクセット×36が必要である。"
-lastVerified: 2026-11-21
-effectiveDate: 2026-11-05
+lastVerified: 2026-11-26
+effectiveDate: 2026-11-25
 aliases:
   - Operator progression
   - 幹員養成
   - 干员养成
   - 오퍼레이터 육성
 sources:
-  - title: "warfarin.wiki、オペレーターページ（ゲームデータ 1.6 の昇進、素質、スキル、潜在）"
+  - title: "warfarin.wiki、オペレーターページ（ゲームデータ 1.7 の昇進、素質、スキル、潜在）"
     url: https://warfarin.wiki/en/operators
-  - title: "warfarin.wiki、レーヴァテイン（ステータスの説明とスキル倍率、ゲームデータ 1.6）"
+  - title: "warfarin.wiki、レーヴァテイン（ステータスの説明とスキル倍率、ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/operators/laevatain
-  - title: "warfarin.wiki、チュートリアル「レベルアップ」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「レベルアップ」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_char_levelup
-  - title: "warfarin.wiki、チュートリアル「素質・配属スキル」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「素質・配属スキル」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_talent_tree
-  - title: "warfarin.wiki、チュートリアル「ステータス」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「ステータス」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_attribute
-  - title: "warfarin.wiki、チュートリアル「潜在」（ゲームデータ 1.6）"
+  - title: "warfarin.wiki、チュートリアル「潜在」（ゲームデータ 1.7）"
     url: https://warfarin.wiki/en/tutorials/wiki_tut_sys_potential
   - title: "Endfield Talos Wiki、Operator（レベルアップ費用、スキルランク、素質・配属スキルのノード）"
     url: https://endfield.wiki.gg/wiki/Operator
@@ -35,11 +35,13 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/5200
   - title: "「丹青渡」 バージョンアップデートについて"
     url: https://endfield.gryphline.com/en-us/news/9560
+  - title: "「キノコ菌グ！？君との大冒険！」 バージョンアップデートについて"
+    url: https://endfield.gryphline.com/en-us/news/0740
 ---
 
 ## レベルと昇進
 
-オペレーターは4回の昇進を経てレベル90に到達し、レベル上限は40、60、80、90へと上がる。昇進・Ⅰから昇進・Ⅲの素材は34人のオペレーター全員で共通である。昇進・Ⅳには協約ディスクセット×36、折金券×100,000、貴重素材1種×20、菌類1種×8が必要で、オペレーターごとに異なるのはこの貴重素材と菌類の種類のみである。レア度による費用の差はない。
+オペレーターは4回の昇進を経てレベル90に到達し、レベル上限は40、60、80、90へと上がる。昇進・Ⅰから昇進・Ⅲの素材は35人のオペレーター全員で共通である。昇進・Ⅳには協約ディスクセット×36、折金券×100,000、貴重素材1種×20、菌類1種×8が必要で、オペレーターごとに異なるのはこの貴重素材と菌類の種類のみである。レア度による費用の差はない。
 
 ## レベル上限と昇進素材
 
@@ -67,7 +69,7 @@ sources:
 
 ## 全オペレーターの昇進・Ⅳ素材
 
-34人のオペレーターは6種類の貴重素材と3種類の菌類に分かれる。超距離分光管は8人、三相ナノフレークは7人、タキオン精選格子・象限適合液・D96鋼試料Ⅳは各6人、遷移スラリー塗抹標本はスーのみが使う。星門茸は15人、血潮茸は14人、タロス茸は5人である。タロス茸はバージョン1.4で新たな昇進素材として、遷移スラリー塗抹標本はバージョン1.6で新たな貴重育成強化素材として追加された。
+35人のオペレーターは6種類の貴重素材と3種類の菌類に分かれる。超距離分光管は9人、三相ナノフレークは7人、タキオン精選格子・象限適合液・D96鋼試料Ⅳは各6人、遷移スラリー塗抹標本はスーのみが使う。星門茸は15人、血潮茸は15人、タロス茸は5人である。タロス茸はバージョン1.4で新たな昇進素材として、遷移スラリー塗抹標本はバージョン1.6で新たな貴重育成強化素材として追加された。
 
 | オペレーター | レア度 | 貴重素材×20 | 菌類×8 |
 | --- | --- | --- | --- |
@@ -78,6 +80,7 @@ sources:
 | [エンバー](/ja/operators/ember/) | 星6 | D96鋼試料Ⅳ | 星門茸 |
 | [管理人](/ja/operators/endministrator/) | 星6 | 超距離分光管 | 血潮茸 |
 | [ギルベルタ](/ja/operators/gilberta/) | 星6 | タキオン精選格子 | 血潮茸 |
+| [ケーちゃん](/ja/operators/kay/) | 星6 | 超距離分光管 | 血潮茸 |
 | [レーヴァテイン](/ja/operators/laevatain/) | 星6 | D96鋼試料Ⅳ | 星門茸 |
 | [ラストライト](/ja/operators/last-rite/) | 星6 | 三相ナノフレーク | 血潮茸 |
 | [リーフォン](/ja/operators/lifeng/) | 星6 | 超距離分光管 | 血潮茸 |
