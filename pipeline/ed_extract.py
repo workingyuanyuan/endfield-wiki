@@ -149,22 +149,25 @@ def main():
     # Recipes of the AIC production facilities. Recipes whose id or items hold "activity" use items
     # that the game describes as made "during a special period" (event items): left out.
     items_t = table('ItemTable')
-    ARRAY_MACHINES = {'magic_balancer_1', 'magic_spawner_1', 'magic_spawner_2'}
+    # The array-related AIC Mode of Version 1.7 is explained on the hand-written page aic/arrays.
+    # The Forges of Luminance have no recipes of their own; 20 of the 23 entries of the Forge of
+    # Equilibrium (ids formation_magic_*) are the infusions of the arrays, one per array tier, which
+    # that page gives as chances, and are left out. Its other three are real recipes and stay. The
+    # Forge of Equilibrium is not in records/facilities.json: its name comes from FactoryBuildingTable.
+    # The page also rests on FactoryFormationTable, FactoryFormationLevelTable, FactoryFormationTransTable,
+    # FactoryFormationStakeTable, FacSTTNodeTable and WonderStageTable; naming them here makes
+    # scripts/upstream.mjs watch them.
+    EXTRA_MACHINES = {'magic_balancer_1'}
+    buildings = table('FactoryBuildingTable')
     facilities = {f['id'] for f in json.load(open(os.path.join(ROOT, 'records', 'facilities.json'), encoding='utf8'))}
-    recipes = {'source': SOURCE, 'items': {}, 'recipes': []}
+    recipes = {'source': SOURCE, 'machines': {m: names(buildings[m]['name']) for m in sorted(EXTRA_MACHINES)}, 'items': {}, 'recipes': []}
     for rid, r in sorted(table('FactoryMachineCraftTable').items(), key=lambda kv: (kv[1]['machineId'], kv[1]['sortId'])):
         touched = [x['id'] for g in r['ingredients'] + r['outcomes'] for x in g['group']]
         if 'activity' in rid or any('activity' in i for i in touched):
             continue
-        # The array-related AIC Mode of Version 1.7 is on the hand-written page aic/arrays, not here:
-        # the Forge of Equilibrium is not in records/facilities.json, and 20 of its 23 entries
-        # (ids formation_magic_*) are the infusions of the arrays, one per array tier. That page
-        # also rests on FactoryFormationTable, FactoryFormationLevelTable, FactoryFormationTransTable,
-        # FactoryFormationStakeTable, FacSTTNodeTable and WonderStageTable; naming them here makes
-        # scripts/upstream.mjs watch them.
-        if r['machineId'] in ARRAY_MACHINES:
+        if rid.startswith('formation_magic_'):
             continue
-        assert r['machineId'] in facilities, (rid, r['machineId'])
+        assert r['machineId'] in facilities | EXTRA_MACHINES, (rid, r['machineId'])
         # One ingredient group (all of it is used); one or two outcome groups (a second one is
         # a by-product such as Sewage, on eight recipes).
         assert len(r['ingredients']) == 1 and 1 <= len(r['outcomes']) <= 2, rid

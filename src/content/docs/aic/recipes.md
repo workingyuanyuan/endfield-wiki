@@ -17,7 +17,7 @@ sources:
 
 ## Recipes
 
-Not counting filling and emptying containers, the products have 177 recipes. The Filling Unit puts a fluid or gas into an empty bottle or canister (78 recipes), and the Separating Unit empties it again (78 recipes); a filled container keeps the container's name. The Filling Unit also makes new things, such as drinks, Canned Citrome and Buck Capsules.
+Not counting filling and emptying containers, the products have 180 recipes. The Filling Unit puts a fluid or gas into an empty bottle or canister (78 recipes), and the Separating Unit empties it again (78 recipes); a filled container keeps the container's name. The Filling Unit also makes new things, such as drinks, Canned Citrome and Buck Capsules.
 
 | Product | Made in | Inputs | Output | Time |
 | --- | --- | --- | --- | --- |
@@ -116,10 +116,12 @@ Not counting filling and emptying containers, the products have 177 recipes. The
 | Heavy Xiragen | Purification Unit | Xiragen ×2, Separator Core ×2 | Heavy Xiragen ×1 | 2 s |
 | Heavy Xiragen | Fluid-Gas Transmuting Unit | Liquid Heavy Xiranite ×2 | Heavy Xiragen ×5 | 10 s |
 | Heavy Xiragen | Solid-Gas Transmuting Unit | Heavy Xiranite ×2 | Heavy Xiragen ×5 | 10 s |
+| Heavy Xiranite | Forge of Equilibrium | Luminarite ×5, Turbidarite ×5 | Heavy Xiranite ×2 | 10 s |
 | Heavy Xiranite | Solid-Gas Transmuting Unit | Heavy Xiragen ×5 | Heavy Xiranite ×2 | 10 s |
 | Heavy Xiranite | Forge of the Sky | Xiranite ×10, Xircon Effluent ×5 | Heavy Xiranite ×1 | 10 s |
 | Hetonite | Reactor Crucible or Expanded Crucible | Hetonite Solution ×2, Ferrium Powder ×1 | Hetonite ×1, Sewage ×1 | 2 s |
 | Hetonite | Solid-Gas Transmuting Unit | Hetonite Gas ×2 | Hetonite ×1 | 2 s |
+| Hetonite | Forge of Equilibrium | L-Cuprium ×10, T-Cuprium ×10 | Hetonite ×5 | 10 s |
 | Hetonite Bottle | Moulding Unit | Hetonite ×2 | Hetonite Bottle ×1 | 2 s |
 | Hetonite Component | Gearing Unit | Hetonite Part ×2, Heavy Xiranite ×2 | Hetonite Component ×1 | 10 s |
 | Hetonite Gas | Purification Unit | Cuprium Gas ×2, Separator Core ×1 | Hetonite Gas ×2 | 2 s |
@@ -144,6 +146,7 @@ Not counting filling and emptying containers, the products have 177 recipes. The
 | Liquid Xiranite | Reactor Crucible or Expanded Crucible | Xiranite ×1, Clean Water ×1 | Liquid Xiranite ×1 | 2 s |
 | Liquid Xiranite | Fluid-Gas Transmuting Unit | Xiragen ×1 | Liquid Xiranite ×1 | 2 s |
 | Lucidolite | Solid-Gas Transmuting Unit | Clean Lucidolite Gas ×2 | Lucidolite ×2 | 2 s |
+| Lucidolite | Forge of Equilibrium | Equiranite ×10, Equprium ×10 | Lucidolite ×5 | 10 s |
 | Lucidolite Energy Brick | Packaging Unit | Lucidolite Part ×5, Dense Originium Powder ×5 | Lucidolite Energy Brick ×5 | 10 s |
 | Lucidolite Part | Fitting Unit | Lucidolite ×1 | Lucidolite Part ×1 | 2 s |
 | Matoberry Seeds | Seed-Picking Unit | Matoberry ×1 | Matoberry Seeds ×2 | 2 s |

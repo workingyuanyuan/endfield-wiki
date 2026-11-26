@@ -172,6 +172,7 @@ def recipes(lang):
     data = load('recipes.json')
     items = data['items']
     fac = {f['id']: f['name'] for f in load('facilities.json')}
+    fac.update(data.get('machines', {}))  # facilities that are not in facilities.json (Forge of Equilibrium)
     fill = [k for k, v in fac.items() if v[EN] == 'Filling Unit']
     sep_unit = [k for k, v in fac.items() if v[EN] == 'Separating Unit']
     I = lambda i: items[i][lang]  # noqa: E731

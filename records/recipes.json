@@ -1,5 +1,14 @@
 {
  "source": "https://github.com/rmxlinux/EndfieldData/tree/887923b9e56e132f2570a25e8c2cf5e971508736/TableCfg",
+ "machines": {
+  "magic_balancer_1": {
+   "en": "Forge of Equilibrium",
+   "zh-TW": "平衡爐",
+   "zh-CN": "平衡炉",
+   "ja": "均衡炉",
+   "ko": "균형로"
+  }
+ },
  "items": {
   "item_iron_nugget": {
    "en": "Ferrium",
@@ -1317,6 +1326,41 @@
    "ja": "分離コア",
    "ko": "분리 필터"
   },
+  "item_xiranite_ming": {
+   "en": "Luminarite",
+   "zh-TW": "明狀息壤",
+   "zh-CN": "明状息壤",
+   "ja": "息壌・明",
+   "ko": "명형 식양"
+  },
+  "item_xiranite_hui": {
+   "en": "Turbidarite",
+   "zh-TW": "晦狀息壤",
+   "zh-CN": "晦状息壤",
+   "ja": "息壌・晦",
+   "ko": "회형 식양"
+  },
+  "item_xiranite_enr_powder": {
+   "en": "Heavy Xiranite",
+   "zh-TW": "重息壤",
+   "zh-CN": "重息壤",
+   "ja": "重息壌",
+   "ko": "중식양"
+  },
+  "item_xiranite_enr_heng": {
+   "en": "Equiranite",
+   "zh-TW": "衡息壤",
+   "zh-CN": "衡息壤",
+   "ja": "衡息壌",
+   "ko": "형식양"
+  },
+  "item_copper_enr_heng": {
+   "en": "Equprium",
+   "zh-TW": "衡銅",
+   "zh-CN": "衡铜",
+   "ja": "衡銅",
+   "ko": "형동"
+  },
   "item_ranch_fodder_2": {
    "en": "Double-Yummy Feed",
    "zh-TW": "雙效飽食飼料",
@@ -1351,13 +1395,6 @@
    "zh-CN": "息壤",
    "ja": "息壌",
    "ko": "식양"
-  },
-  "item_xiranite_enr_powder": {
-   "en": "Heavy Xiranite",
-   "zh-TW": "重息壤",
-   "zh-CN": "重息壤",
-   "ja": "重息壌",
-   "ko": "중식양"
   },
   "item_xiranite_poly": {
    "en": "Xircon",
@@ -1618,13 +1655,6 @@
    "ja": "中容量武陵バッテリー",
    "ko": "중용량 무릉 배터리"
   },
-  "item_xiranite_ming": {
-   "en": "Luminarite",
-   "zh-TW": "明狀息壤",
-   "zh-CN": "明状息壤",
-   "ja": "息壌・明",
-   "ko": "명형 식양"
-  },
   "item_copper_xiranite_ming": {
    "en": "CuPKG Luminarite Component",
    "zh-TW": "銅封明壤元件",
@@ -1646,26 +1676,12 @@
    "ja": "輝銅エネルギーブロック",
    "ko": "휘동 에너지 블록"
   },
-  "item_xiranite_enr_heng": {
-   "en": "Equiranite",
-   "zh-TW": "衡息壤",
-   "zh-CN": "衡息壤",
-   "ja": "衡息壌",
-   "ko": "형식양"
-  },
   "item_proc_battery_6": {
    "en": "HC Wuling Battery",
    "zh-TW": "高容量武陵電池",
    "zh-CN": "高容武陵电池",
    "ja": "大容量武陵バッテリー",
    "ko": "대용량 무릉 배터리"
-  },
-  "item_copper_enr_heng": {
-   "en": "Equprium",
-   "zh-TW": "衡銅",
-   "zh-CN": "衡铜",
-   "ja": "衡銅",
-   "ko": "형동"
   },
   "item_equip_script_1": {
    "en": "Amethyst Component",
@@ -6332,6 +6348,69 @@
     }
    ],
    "seconds": 2
+  },
+  {
+   "id": "magic_balancer_1_xiranite_enr",
+   "machine": "magic_balancer_1",
+   "inputs": [
+    {
+     "id": "item_xiranite_ming",
+     "count": 5
+    },
+    {
+     "id": "item_xiranite_hui",
+     "count": 5
+    }
+   ],
+   "outputs": [
+    {
+     "id": "item_xiranite_enr_powder",
+     "count": 2
+    }
+   ],
+   "seconds": 10
+  },
+  {
+   "id": "magic_balancer_1_copper_enr",
+   "machine": "magic_balancer_1",
+   "inputs": [
+    {
+     "id": "item_copper_ming",
+     "count": 10
+    },
+    {
+     "id": "item_copper_hui",
+     "count": 10
+    }
+   ],
+   "outputs": [
+    {
+     "id": "item_copper_enr",
+     "count": 5
+    }
+   ],
+   "seconds": 10
+  },
+  {
+   "id": "magic_balancer_1_copper_bright_1",
+   "machine": "magic_balancer_1",
+   "inputs": [
+    {
+     "id": "item_xiranite_enr_heng",
+     "count": 10
+    },
+    {
+     "id": "item_copper_enr_heng",
+     "count": 10
+    }
+   ],
+   "outputs": [
+    {
+     "id": "item_copper_bright",
+     "count": 5
+    }
+   ],
+   "seconds": 10
   },
   {
    "id": "pool_ranch_fodder_2",
