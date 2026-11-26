@@ -519,6 +519,11 @@ theme-buttons button[aria-pressed='true'] {
 	border-bottom: 6px solid var(--ef-yellow);
 	background: var(--ef-panel);
 }
+/* The key visual on the home page spans the column, in the same frame. */
+.sl-markdown-content img[src*='/art/key-visual.'] {
+	width: 100%;
+	height: auto;
+}
 @media (min-width: 50rem) {
 	.sl-markdown-content p:has(> img[src*='/art/operators/']) {
 		float: right;
@@ -713,7 +718,7 @@ starlight-toc a[aria-current='true'] {
 	}
 	/* The first blocks of the body rise in one after another; headings, tables and the
 	   page notes have their own entrance below. */
-	.sl-markdown-content > :is(p, ul, ol, blockquote):not(.not-content):nth-child(-n + 9) {
+	.sl-markdown-content > :is(p, ul, ol, blockquote):not(.not-content, :has(img)):nth-child(-n + 9) {
 		animation: ef-rise 0.3s ease-out both;
 		animation-delay: calc(0.3s + var(--ef-i, 0) * 0.04s);
 	}

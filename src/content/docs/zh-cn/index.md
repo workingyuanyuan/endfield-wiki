@@ -10,6 +10,11 @@ aliases:
   - 明日方舟：終末地 Wiki
   - "アークナイツ：エンドフィールド Wiki"
   - "명일방주: 엔드필드 위키"
+art:
+  - title: "官方网站主视觉图"
+    url: https://endfield.gryphline.com/en-us
+  - title: "图档 kv-obt-pc.jpg"
+    url: https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/kv-obt-pc.1d54f26f.jpg
 sources:
   - title: 官方公告列表 (Gryphline)
     url: https://endfield.gryphline.com/en-us/news
@@ -20,6 +25,8 @@ sources:
   - title: 正式登陆 Steam 公告
     url: https://endfield.gryphline.com/en-us/news/3837
 ---
+
+![官方主视觉图](/art/key-visual.webp)
 
 | 主题 | 内容 |
 | --- | --- |

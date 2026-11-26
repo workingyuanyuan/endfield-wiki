@@ -10,6 +10,11 @@ aliases:
   - "明日方舟：終末地 Wiki"
   - "明日方舟：终末地 Wiki"
   - "アークナイツ：エンドフィールド Wiki"
+art:
+  - title: "공식 사이트 키 비주얼"
+    url: https://endfield.gryphline.com/en-us
+  - title: "이미지 파일 kv-obt-pc.jpg"
+    url: https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/kv-obt-pc.1d54f26f.jpg
 sources:
   - title: "공식 뉴스 목록(Gryphline)"
     url: https://endfield.gryphline.com/en-us/news
@@ -20,6 +25,8 @@ sources:
   - title: "Steam 정식 출시 안내"
     url: https://endfield.gryphline.com/en-us/news/3837
 ---
+
+![공식 키 비주얼](/art/key-visual.webp)
 
 | 주제 | 내용 |
 | --- | --- |

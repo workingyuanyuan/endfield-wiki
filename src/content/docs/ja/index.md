@@ -10,6 +10,11 @@ aliases:
   - "明日方舟：終末地 Wiki"
   - "明日方舟：终末地 Wiki"
   - "명일방주: 엔드필드 위키"
+art:
+  - title: "公式サイトのキービジュアル"
+    url: https://endfield.gryphline.com/en-us
+  - title: "画像ファイル kv-obt-pc.jpg"
+    url: https://web-static.hg-cdn.com/endfield/official-v4/_next/static/media/kv-obt-pc.1d54f26f.jpg
 sources:
   - title: "公式ニュース一覧（Gryphline）"
     url: https://endfield.gryphline.com/en-us/news
@@ -20,6 +25,8 @@ sources:
   - title: "Steam版配信開始のお知らせ"
     url: https://endfield.gryphline.com/en-us/news/3837
 ---
+
+![公式キービジュアル](/art/key-visual.webp)
 
 | 項目 | 内容 |
 | --- | --- |
