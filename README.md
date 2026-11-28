@@ -34,4 +34,4 @@ pnpm verify                            # build, then the acceptance checks
 pnpm preview                           # serve dist/ at http://127.0.0.1:4398/endfield-wiki/
 ```
 
-`AGENTS.md` holds the rules for maintaining the site: the owner's decisions, content rules, sources and what each allows.
+`AGENTS.md` holds the rules for maintaining the site: the owner's decisions and the content rules. `SOURCES.md` holds the sources and what each allows.
