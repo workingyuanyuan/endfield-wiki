@@ -1,6 +1,6 @@
 ---
 title: "アークナイツ：エンドフィールド Wiki"
-description: "『アークナイツ：エンドフィールド』グローバル版のオペレーター、スカウトのルール、戦闘、集成工業、バージョン。"
+description: "『アークナイツ：エンドフィールド』はHypergryphの3Dリアルタイム戦略RPGで、2026-01-22にリリースされた。"
 appliesTo: "『アークナイツ：エンドフィールド』グローバル版、正式リリース（2026-01-22）からバージョン1.7まで"
 caveat: "日付と時刻はAsiaサーバーのサーバー時間（UTC+8）である。アップデートのメンテナンスはAmericas / Europeサーバーでも同時に行われ、前日の17:00から23:00（UTC-5）にあたる。期限のあるコンテンツは、各サーバーのサーバー時間で同じ時刻に終わる。"
 lastVerified: 2026-11-26
@@ -26,6 +26,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9574
   - title: "Steam版配信開始のお知らせ"
     url: https://endfield.gryphline.com/en-us/news/3837
+  - title: "公式サイト（ジャンル、開発）"
+    url: https://endfield.gryphline.com/zh-tw
 ---
 
 ![公式キービジュアル](/art/key-visual.webp)

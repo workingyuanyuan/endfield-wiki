@@ -1,6 +1,6 @@
 ---
 title: 明日方舟：終末地 Wiki
-description: 《明日方舟：終末地》國際版的幹員、尋訪規則、戰鬥、集成工業與各版本。
+description: "《明日方舟：終末地》是鷹角網絡出品的 3D 即時策略 RPG，2026-01-22 公測。"
 appliesTo: 《明日方舟：終末地》國際版，公測（2026-01-22）至 1.7 版
 caveat: 日期與時間為 Asia 伺服器時間 (UTC+8)。版本更新維護在 Americas / Europe 伺服器是同一時刻，即前一天 17:00 至 23:00 (UTC-5)；限時內容則在各伺服器自己的時間的同一時刻結束。
 lastVerified: 2026-11-26
@@ -26,6 +26,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9574
   - title: 正式登陸 Steam 公告
     url: https://endfield.gryphline.com/en-us/news/3837
+  - title: "官方網站（類型、開發）"
+    url: https://endfield.gryphline.com/zh-tw
 ---
 
 ![官方主視覺圖](/art/key-visual.webp)

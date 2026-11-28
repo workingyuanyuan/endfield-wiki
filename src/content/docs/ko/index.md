@@ -1,6 +1,6 @@
 ---
 title: "명일방주: 엔드필드 위키"
-description: "《명일방주: 엔드필드》 글로벌 서비스의 오퍼레이터, 헤드헌팅 규칙, 전투, 통합 공업, 버전 정보."
+description: "《명일방주: 엔드필드》는 Hypergryph의 실시간 3D 전략 RPG로, 2026-01-22에 정식 출시되었다."
 appliesTo: "《명일방주: 엔드필드》 글로벌 서비스, 정식 출시(2026-01-22)부터 1.7 버전까지"
 caveat: "날짜와 시각은 Asia 서버의 서버 시간(UTC+8)이다. 업데이트 점검은 Americas / Europe 서버에서도 같은 순간에 진행되며, 전날 17:00~23:00(UTC-5)에 해당한다. 기한이 있는 콘텐츠는 각 서버의 서버 시간으로 같은 시각에 끝난다."
 lastVerified: 2026-11-26
@@ -26,6 +26,8 @@ sources:
     url: https://endfield.gryphline.com/en-us/news/9574
   - title: "Steam 정식 출시 안내"
     url: https://endfield.gryphline.com/en-us/news/3837
+  - title: "공식 사이트(장르, 개발)"
+    url: https://endfield.gryphline.com/zh-tw
 ---
 
 ![공식 키 비주얼](/art/key-visual.webp)
