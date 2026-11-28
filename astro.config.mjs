@@ -6,7 +6,7 @@ import starlightLinksValidator from 'starlight-links-validator';
 import { sitemapOptions } from './src/lib/sitemap.mjs';
 import { ORIGIN, BASE, TITLE, DESCRIPTION } from './src/lib/site.mjs';
 import { satteri } from '@astrojs/markdown-satteri';
-import { hastBase } from './src/lib/hast-base.mjs';
+import { hastBase, hastFootnotes } from './src/lib/hast-base.mjs';
 import { readdirSync } from 'node:fs';
 
 /** Page slugs in a folder of the English pages, without its index, in file-name order. */
@@ -24,7 +24,7 @@ export default defineConfig({
 	trailingSlash: 'always',
 	// Content links are written without the sub-path; this adds it in the HTML.
 	// No smart quotes: story pages show the game's text with its own quote marks.
-	markdown: { smartypants: false, processor: satteri({ hastPlugins: [hastBase] }) },
+	markdown: { smartypants: false, processor: satteri({ hastPlugins: [hastBase, hastFootnotes] }) },
 	integrations: [
 		// Added here so that it takes options; Starlight then leaves its own copy out.
 		sitemap(sitemapOptions()),

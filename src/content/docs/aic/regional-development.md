@@ -1,6 +1,6 @@
 ---
 title: Regional Development
-description: Regional Development in Arknights Endfield covers outposts, Stock Bills, Depot Nodes and Regional Transfer.
+description: "Regional Development in Arknights Endfield is a per-region level that unlocks Regional Transfer."
 appliesTo: "Arknights: Endfield, global service, Version 1.7; tutorial text from game data 1.7"
 caveat: Regional Transfer unlocks by the Regional Development Level of the source region. Stockpile Transfer takes the goods out of the source depot; only Metastorage Transfer, unlocked at a higher level, leaves them there.
 lastVerified: 2026-11-26

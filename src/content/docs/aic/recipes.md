@@ -1,6 +1,6 @@
 ---
 title: "Recipes by product"
-description: "Which AIC facility makes each of 139 Arknights: Endfield products, from what inputs and how fast."
+description: "Arknights: Endfield's AIC makes 139 products in its facilities, each from one or more recipes."
 appliesTo: "Arknights: Endfield, global service, Version 1.7; recipes from game data 1.7"
 caveat: "Times are per run of one facility; one product can have several recipes."
 lastVerified: 2026-11-26

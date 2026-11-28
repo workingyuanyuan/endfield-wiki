@@ -64,10 +64,10 @@ def distinct(rows):
 def names(lang):
     L = chooser(lang)
     titles = {EN: 'Names in three scripts', ZH: '名稱對照', CN: '名称对照', JA: '名称対照', KO: '명칭 대조'}
-    desc = L('Operators, classes, elements, weapon types, attributes, factions and races of Endfield in three scripts.',
-             '《明日方舟：終末地》幹員、職業、屬性、武器類型、陣營與種族的三種文字名稱。',
-             f"{GAME[JA]}のオペレーター、職業、属性、武器の種類、能力値、陣営、種族の日本語・英語・中国語名。",
-             f"{GAME[KO]} 오퍼레이터, 직업, 속성, 무기 유형, 능력치, 진영, 종족의 한국어·영어·중국어 이름.")
+    desc = L(f"Arknights: Endfield's {len(OPS)} operators and their classes, elements, weapons, factions and races in three scripts.",
+             f'《明日方舟：終末地》{len(OPS)} 名幹員及其職業、屬性、武器類型、陣營與種族的三種文字名稱。',
+             f"{GAME[JA]}のオペレーター{len(OPS)}人と職業、属性、武器の種類、能力値、陣営、種族の日本語・英語・中国語名。",
+             f"{GAME[KO]} 오퍼레이터 {len(OPS)}명과 직업, 속성, 무기 유형, 능력치, 진영, 종족의 한국어·영어·중국어 이름.")
     caveat = L("Rossi is 洛西 in Traditional Chinese and 洛茜 in Simplified Chinese: a different character, not a conversion between scripts.",
                '洛西的簡體中文名是洛茜，用字不同，不只是繁簡轉換。',
                f"{OPS['rossi']['name'][JA]}の中国語名は繁体字で洛西、簡体字で洛茜と字が異なり、字体の変換ではない。",
@@ -106,10 +106,10 @@ def weapons(lang):
     L = chooser(lang)
     total = len(WEAPONS)
     titles = {EN: 'Weapons list', ZH: '武器列表', CN: '武器列表', JA: '武器一覧', KO: '무기 목록'}
-    desc = L(f'All {total} Arknights: Endfield weapons in Version 1.7: type, rarity, Essence stats and recommended operators.',
-             f'《明日方舟：終末地》1.7 版的 {total} 把武器：類型、稀有度、基質詞條與推薦幹員。',
-             f"{GAME[JA]}バージョン1.7の武器{total}種：種類、{J('Rarity')}、{J('Essence Stats')}、{J('Recommended')}オペレーター。",
-             f"{GAME[KO]} 1.7 버전의 무기 {total}종: 유형, {K('Rarity')}, {K('Essence Stats')}, {K('Recommended')} 오퍼레이터.")
+    desc = L(f'Arknights: Endfield has {total} weapons in Version 1.7.',
+             f'《明日方舟：終末地》1.7 版共有 {total} 把武器。',
+             f"{GAME[JA]}のバージョン1.7の武器は{total}種。",
+             f"{GAME[KO]} 1.7 버전의 무기는 {total}종이다.")
     fans = {}
     for slug, rec in bp.RECOMMEND['operators'].items():
         for wid in rec['weapons']:
@@ -194,10 +194,10 @@ def recipes(lang):
     products = {k[1][0][0] for k, _ in rows}
     np_, nr = len(products), len(rows)
     titles = {EN: 'Recipes by product', ZH: '依產品查配方', CN: '依产品查配方', JA: '製品別レシピ', KO: '제품별 제작법'}
-    desc = L(f'Which AIC facility makes each of {np_} Arknights: Endfield products, from what inputs and how fast.',
-             f'《明日方舟：終末地》{np_} 種集成工業產品由哪個設施製造、需要什麼原料、多快。',
-             f"{GAME[JA]}の{J('AIC')}製品{np_}種を作る{J('Facility')}、原料、所要時間。",
-             f"{GAME[KO]} {K('AIC')} 제품 {np_}종을 만드는 {K('Facility')}, 재료, 소요 시간.")
+    desc = L(f"Arknights: Endfield's AIC makes {np_} products in its facilities, each from one or more recipes.",
+             f'《明日方舟：終末地》的集成工業以設施依配方製造 {np_} 種產品。',
+             f"{GAME[JA]}の{J('AIC')}は{J('Facility')}でレシピから製品{np_}種を作る。",
+             f"{GAME[KO]} {K('AIC')}은 {K('Facility')}에서 제작법으로 제품 {np_}종을 만든다.")
     caveat = L('Times are per run of one facility; one product can have several recipes.',
                '時間是單一設施做一次的時間；同一產品可以有多個配方。',
                f"時間は{J('Facility')}1台が1回生産する時間である。1つの製品に複数のレシピがあることもある。",

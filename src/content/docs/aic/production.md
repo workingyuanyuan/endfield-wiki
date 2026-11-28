@@ -1,6 +1,6 @@
 ---
 title: Production and logistics
-description: How AIC facilities in Arknights Endfield take inputs, run recipes and pass items by belt, pipe and depot.
+description: AIC facilities in Arknights Endfield make products from inputs by recipe; belts, pipes and depots move items.
 appliesTo: "Arknights: Endfield, global service, Version 1.7; facility and recipe data from game data 1.7"
 caveat: Transport belts can be placed only inside a Core AIC Area. Facilities placed outside it use the region's Protocol Capacity, and when that is used up no more facilities can be placed in the region.
 lastVerified: 2026-11-26

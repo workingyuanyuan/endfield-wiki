@@ -82,7 +82,7 @@ A time marked "(server time)" is read on the clock of the server you play on: UT
 | The Hearth Fire Beckons the Starry Flow opens 2026-11-05 12:00 (server time) | 2026-11-05 12:00 (UTC+8) | 2026-11-05 12:00 (UTC-5) | 04:00 on Asia, 17:00 on Americas / Europe |
 | Sanctuary of Ink update maintenance | 2026-10-15 06:00 to 12:00 (UTC+8) | 2026-10-14 17:00 to 23:00 (UTC-5) | 2026-10-14 22:00 to 2026-10-15 04:00 on both |
 
-Content that runs until the next version's update maintenance ends when the maintenance begins: 06:00 UTC+8 on Asia, which is 17:00 UTC-5 the day before on Americas / Europe. Its last day therefore reads one day earlier on Americas / Europe.
+Content that runs until the next version's update maintenance ends when the maintenance begins: 06:00 UTC+8 on Asia, which is 17:00 UTC-5 the day before on Americas / Europe.
 
 ## Update maintenance of every version
 

@@ -5,7 +5,8 @@ Pages in English, Traditional Chinese (zh-tw/), Japanese (ja/) and Korean (ko/).
 Checks the body only (the frontmatter may name sources). Exit code 1 when a page has a hit.
 Each hit is one of:
   SOURCE   the prose names a source; the page notes name it. Allowed only where two sources
-           disagree on something a reader acts on, or one player test stands alone (NGA).
+           disagree on something a reader acts on; a fact from one player test alone (NGA)
+           carries a footnote, whose note line is not checked.
   HEDGE    a disclaimer: what is unknown, unannounced, not stated, or true "as of" a date.
   TIMED    time-limited content: events, sales, sign-ins, compensation, pre-downloads.
   SERVER   a second server's date or a region label beside a date; dates are UTC+8 server
@@ -28,7 +29,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from gametext import inline, page_texts  # noqa: E402
 
 PATTERNS = {
-    'SOURCE': [r'Talos Wiki', r'Endfield Wiki', r'warfarin', r'wiki\.gg', r'官方公告', r'公告(稱|只|中|寫|列|提到|未)', r'official notices?',
+    'SOURCE': [r'(?-i:NGA)', r'Talos Wiki', r'Endfield Wiki', r'warfarin', r'wiki\.gg', r'官方公告', r'公告(稱|只|中|寫|列|提到|未)', r'official notices?',
                r'notices? (say|says|name|names|list|lists|use|uses|call|calls)', r'the game data (list|lists|show|shows|give|gives)',
                r'遊戲資料(列|顯示|中|寫)', r'according to', r'根據', r'記載'],
     'HEDGE': [r'截至', r'目前', r'尚未', r'未公布', r'沒有公告', r'未說明', r'未提及', r'不明', r'未知',
@@ -85,6 +86,8 @@ def check(path):
     hits = []
     for n, line in enumerate(body_of(open(path, encoding='utf8').read()).split('\n'), 1):
         if game_text and game_text.match(line):
+            continue
+        if re.match(r'\[\^\w+\]:', line):
             continue
         if quotes and (line.startswith('>') or any(c in line for c in cells)):
             continue

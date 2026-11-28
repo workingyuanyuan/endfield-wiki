@@ -1,6 +1,6 @@
 ---
 title: "Weapons list"
-description: "All 86 Arknights: Endfield weapons in Version 1.7: type, rarity, Essence stats and recommended operators."
+description: "Arknights: Endfield has 86 weapons in Version 1.7."
 appliesTo: "Arknights: Endfield, global service, Version 1.7; list from game data 1.7"
 caveat: "Operator headhunting gives no weapons. Each pull gives Arsenal Tickets, which are spent on Arsenal Issues; 6-star weapons come from Arsenal Issues and the Arsenal Exchange."
 lastVerified: 2026-11-26

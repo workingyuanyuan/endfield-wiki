@@ -1,6 +1,6 @@
 ---
 title: AIC power
-description: How AIC power works in Arknights Endfield, from the PAC and Thermal Banks to batteries and pylons.
+description: AIC power in Arknights Endfield comes from the PAC and fuelled Thermal Banks; pylons carry it to facilities.
 appliesTo: "Arknights: Endfield, global service, Version 1.7; facility and recipe data from game data 1.7"
 caveat: A blueprint places facilities, not power. Every facility it adds draws from the region's grid, and only Thermal Banks fed with Originium Ore or batteries raise the grid's output.
 lastVerified: 2026-11-26
@@ -134,7 +134,7 @@ All six batteries are made in the Packaging Unit (power use 20). Each recipe giv
 
 ## Power transmission
 
-The PAC is the origin of the grid. Every power facility in a region must link back to it, through Relay Towers or pylons.
+Every power facility in a region must link back to the PAC, the origin of the grid, through Relay Towers or pylons.
 
 | Facility | Region | Role | Distance |
 | --- | --- | --- | --- |

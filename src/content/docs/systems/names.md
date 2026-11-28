@@ -1,6 +1,6 @@
 ---
 title: "Names in three scripts"
-description: "Operators, classes, elements, weapon types, attributes, factions and races of Endfield in three scripts."
+description: "Arknights: Endfield's 35 operators and their classes, elements, weapons, factions and races in three scripts."
 appliesTo: "Arknights: Endfield, global service, Version 1.7; names from game data 1.7 in three languages"
 caveat: "Rossi is 洛西 in Traditional Chinese and 洛茜 in Simplified Chinese: a different character, not a conversion between scripts."
 lastVerified: 2026-11-26

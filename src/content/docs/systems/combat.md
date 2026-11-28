@@ -46,11 +46,13 @@ sources:
 
 ## Damage types and reactions
 
-Damage in Arknights: Endfield is Physical, Arts or Æther, and Arts damage is Heat, Electric, Cryo or Nature. Arts hits leave Arts Inflictions on an enemy, up to 4 stacks: a second Infliction of the same element sets off an Arts Burst, one of another element sets off an Arts Reaction (Combustion, Electrification, Solidification or Corrosion). Physical Status hits first make an enemy Vulnerable; Lift and Knock Down then add stacks, Crush and Breach spend them. Stagger fills a meter that leaves the enemy Staggered and open to a Finisher. Damage is a product of multipliers: base damage (usually from ATK), critical hits, damage bonuses, the target's DEF and resistances, and the Staggered state. Player tests on the NGA forum in Version 1.0 put the DEF multiplier at 100 / (DEF + 100), 0.5 against the usual base DEF of 100, and a Staggered enemy at ×1.3 damage.
+Damage in Arknights: Endfield is Physical, Arts or Æther, and Arts damage is Heat, Electric, Cryo or Nature. Arts hits leave Arts Inflictions on an enemy, up to 4 stacks: a second Infliction of the same element sets off an Arts Burst, one of another element sets off an Arts Reaction (Combustion, Electrification, Solidification or Corrosion). Physical Status hits first make an enemy Vulnerable; Lift and Knock Down then add stacks, Crush and Breach spend them. Stagger fills a meter that leaves the enemy Staggered and open to a Finisher. Damage is a product of multipliers: base damage (usually from ATK), critical hits, damage bonuses, the target's DEF and resistances, and the Staggered state. Measured in Version 1.0, the DEF multiplier is 100 / (DEF + 100), 0.5 against the usual base DEF of 100, and a Staggered enemy takes ×1.3 damage.[^1]
+
+[^1]: [666bj, 终末地数据机制导论, NGA forum guide of player tests in Version 1.0, in Simplified Chinese](https://bbs.nga.cn/read.php?tid=46094556)
 
 ## Damage formula
 
-NGA forum player 666bj measured these formulas in Version 1.0. Ordinary damage, which is every hit except Physical Statuses, Arts Reactions and Arts Bursts, is the product of the following multipliers:
+Ordinary damage, which is every hit except Physical Statuses, Arts Reactions and Arts Bursts, is the product of the following multipliers:
 
 | Multiplier | Value | How several effects combine |
 | --- | --- | --- |

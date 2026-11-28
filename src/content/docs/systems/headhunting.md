@@ -71,7 +71,7 @@ sources:
 
 ## Rates and pity
 
-Headhunting is how operators are obtained. Every pull has a 0.8% base rate for a 6-star operator, and a 6-star is guaranteed within 80 counted pulls; Urgent Recruitment pulls do not count. A Chartered Headhunting banner features one rate-up 6-star operator, guaranteed within the first 120 pulls on that banner; that count does not move to the next banner, but the 80-pull count does. A rate-up operator stays in the Chartered pool for three Chartered banners, its own included, and is never added to Basic Headhunting. Up to Version 1.6, two former rate-up operators came back in RE-Factor Headhunting #1, Yvonne in Version 1.5 and Tangtang in Version 1.6; its 120-pull rate-up guarantee counts once across all banners of that name, and the count carries over between them. Laevatain and Gilberta came back only in the Special banner Fest of Brilliance.
+Every pull has a 0.8% base rate for a 6-star operator, and a 6-star is guaranteed within 80 counted pulls; Urgent Recruitment pulls do not count. A Chartered Headhunting banner features one rate-up 6-star operator, guaranteed within the first 120 pulls on that banner; that count does not move to the next banner, but the 80-pull count does. A rate-up operator stays in the Chartered pool for three Chartered banners, its own included, and is never added to Basic Headhunting. Up to Version 1.6, two former rate-up operators came back in RE-Factor Headhunting #1, Yvonne in Version 1.5 and Tangtang in Version 1.6; its 120-pull rate-up guarantee counts once across all banners of that name, and the count carries over between them. Laevatain and Gilberta came back only in the Special banner Fest of Brilliance.
 
 ## Banner types
 

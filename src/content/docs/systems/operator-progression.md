@@ -1,6 +1,6 @@
 ---
 title: Operator progression
-description: "Arknights: Endfield operator promotion costs up to level 90, plus skill levels, talents and potentials."
+description: "Arknights: Endfield operators reach level 90 in four promotions; only Promotion IV costs vary by operator."
 appliesTo: "Arknights: Endfield, global service, Version 1.7; all 35 operators"
 caveat: "Promotions I to III cost the same for every operator. Promotion IV differs only in which rare material and which fungus it takes, and that follows the operator, not the rarity: a 4-star pays the same 100,000 T-Creds and 36 Protosets as a 6-star."
 lastVerified: 2026-11-26

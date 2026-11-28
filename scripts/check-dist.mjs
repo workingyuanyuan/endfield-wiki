@@ -23,7 +23,7 @@
 // 11. The header links the first page of each sidebar section (versions, operators,
 //     systems, AIC); the page notes link the Markdown twin, llms.txt and index.json; no text in <main>
 //     is about the site or the page; the body does not open with a paragraph after the
-//     answer line (scripts/check-page-text.mjs).
+//     answer line; every footnote links a listed source (scripts/check-page-text.mjs).
 // 12. Story pages show every line of records/story/ unchanged.
 // 13. Operator pages and the gear page show every line of the game's descriptions unchanged.
 // 14. Prose ledger: every unit of the site's own prose has been read against
@@ -40,7 +40,7 @@ import { SITE, LOCALES, LLMS_NOTES, localeOf, bareId, idInLocale, htmlPath, mdPa
 import { bundlePath } from '../src/lib/llms.mjs';
 import { readPages, readPending } from '../src/lib/content-index.mjs';
 import { checkFound } from './check-found.mjs';
-import { checkHeaderAndOutputs, checkSelfReference, checkOpening } from './check-page-text.mjs';
+import { checkHeaderAndOutputs, checkSelfReference, checkOpening, checkFootnotes } from './check-page-text.mjs';
 import { checkProse } from './prose-review.mjs';
 
 const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
@@ -329,10 +329,12 @@ for (const { id, data } of pages) {
 	});
 	checkSelfReference(doc, id, fail);
 	checkOpening(doc, id, fail);
+	checkFootnotes(doc, id, fail, (data.sources || []).map((s) => s.url.replace(/\/$/, '')));
 
 	// 5. No decoration leak into extracted text.
 	const visible = normalize(doc.body.textContent);
 	for (const [name, pattern] of [
+		['footnote back-link glyph', /↩/],
 		// Add a pattern here for every piece of text the skin draws with CSS `content`.
 		['double slash before a section name', /(^|\s)\/\/\s?\S/],
 	]) {
@@ -475,7 +477,7 @@ for (const { id } of pages) {
 	}
 }
 
-// 14. Prose ledger: text the site writes itself, read once by a reader of another model.
+// 14. Prose ledger: text the site writes itself, read once by a reader.
 await checkProse(fail, DIST);
 
 checkFound(DIST, pages, fail);
